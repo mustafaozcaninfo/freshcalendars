@@ -1,7 +1,6 @@
 ---
-title: "New Laws Taking Effect January 1, 2027: State-by-State List"
-seoTitle: "New Laws Taking Effect Jan. 1, 2027 by State"
-description: "Illinois, Florida, Washington, Colorado, New York and Louisiana have laws set to take effect Jan. 1, 2027, per state legislature pages. Bill list and printable."
+title: "New Laws January 1, 2027: State-by-State List of 21 Laws"
+description: "New laws taking effect Jan. 1, 2027 in Illinois, Florida, Washington, Colorado, New York and Louisiana. A table of 21 laws with official links."
 type: news
 publishedAt: "2026-10-30T15:50:00-04:00"
 updatedAt: "2026-10-31T15:50:00-04:00"

@@ -1,6 +1,6 @@
 ---
 title: "Connections Sports Edition #763 Answers, October 26, 2026"
-description: "Connections: Sports Edition #763 for Monday, Oct. 26, 2026: a hint for each group from football to golf, then all four answers, plus Sunday's #762 solution."
+description: "Connections: Sports Edition #763 hints and answers for Monday, Oct. 26, 2026: a hint for each group, all four answers, plus Sunday's #762 solution."
 type: explainer
 publishedAt: "2026-10-25T05:25:00-04:00"
 updatedAt: "2026-10-31T06:48:00-04:00"

@@ -1,7 +1,6 @@
 ---
-title: "Day of the Dead 2026: Día de los Muertos Dates, Traditions and Events"
-seoTitle: "Day of the Dead 2026: Dates, Traditions & Events"
-description: "Day of the Dead 2026 is Sunday, Nov. 1 and Monday, Nov. 2. The dates, the Oct. 27 pet custom, ofrendas, Mexico City and U.S. events, and a printable."
+title: "Day of the Dead Calendar 2026: Nov. 1-2 Dates and Daily Timeline"
+description: "Day of the Dead 2026 ran Sunday, Nov. 1 and Monday, Nov. 2. See the day-by-day timeline from Oct. 27, Mexico City and U.S. events, and a printable."
 type: explainer
 publishedAt: "2026-10-19T10:35:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

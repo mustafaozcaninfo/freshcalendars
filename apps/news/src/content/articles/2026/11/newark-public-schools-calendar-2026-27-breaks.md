@@ -1,7 +1,6 @@
 ---
-title: "Newark Public Schools Calendar 2026-27: No School Dec. 24-Jan. 1, Last Day June 28"
-seoTitle: "Newark Public Schools Calendar 2026-27: Breaks"
-description: "Newark Public Schools (NPS) lists Thanksgiving Nov. 26-27, no school days Dec. 24 to Jan. 1, spring recess March 29 to April 2 and a last day of June 28, 2027."
+title: "Newark Public Schools Calendar 2026-27: No School Dec. 24-Jan. 1"
+description: "Newark Public Schools calendar 2026-27 has no school Dec. 24-Jan. 1 and a last day of June 28, 2027. Adds 1 p.m. dismissal days and a printable calendar."
 type: news
 publishedAt: "2026-11-08T06:00:00-05:00"
 authors: [aaron-kessler]

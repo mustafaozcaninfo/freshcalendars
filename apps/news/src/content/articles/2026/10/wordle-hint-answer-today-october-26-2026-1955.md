@@ -1,6 +1,6 @@
 ---
 title: "Wordle #1955 Hints & Answer Today, October 26, 2026"
-description: "Wordle #1955 for Monday, Oct. 26, 2026: six graded clues, from the letter pattern to a strong nudge, then the answer in a marked spoiler section at the end."
+description: "Wordle #1955 hints for Monday, Oct. 26, 2026: six graded clues from the letter pattern to a strong nudge, then the answer in a spoiler section."
 type: explainer
 publishedAt: "2026-10-24T17:20:00-04:00"
 authors: [news-desk]

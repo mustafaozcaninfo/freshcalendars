@@ -1,6 +1,5 @@
 ---
-title: "Halloween Party Ideas 2026: Witches' Brew Punch and a Safe Bubbling Cauldron"
-seoTitle: "Witches' Brew Punch Recipe and Safe Bubbling Cauldron"
+title: "Halloween Party Ideas 2026: Witches' Brew Punch Recipe"
 description: "Make a nonalcoholic witches' brew punch for Halloween 2026 with a printable checklist and a bubbling cauldron look that keeps dry ice out of the drink."
 type: explainer
 publishedAt: "2026-10-22T01:45:00-04:00"

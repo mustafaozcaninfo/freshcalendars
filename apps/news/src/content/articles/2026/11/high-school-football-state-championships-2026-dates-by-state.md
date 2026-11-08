@@ -1,7 +1,6 @@
 ---
-title: "High School Football State Championships 2026: Dates and Stadiums by State"
-seoTitle: "High School Football State Championships 2026 Dates"
-description: "High school football state championships 2026 run Nov. 21 to Dec. 19: Georgia Dec. 15-16 in Atlanta, Texas Dec. 16-19 in Arlington, per state associations."
+title: "High School Football State Championships 2026: Nov. 21-Dec. 19"
+description: "High school football state championships 2026 run Nov. 21 to Dec. 19. State-by-state dates and stadiums, plus the states with no official date posted."
 type: news
 publishedAt: "2026-11-06T16:42:17-05:00"
 authors: [jessica-hartwell]

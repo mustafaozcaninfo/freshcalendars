@@ -1,7 +1,6 @@
 ---
-title: "LIHEAP 2026-27: Heating Help Application Dates and Winter Shutoff Rules by State"
-seoTitle: "LIHEAP 2026-27: Application Dates and Shutoff Rules"
-description: "Low Income Home Energy Assistance Program (LIHEAP) and Home Energy Assistance Program (HEAP) 2026-27 windows by state: PA opened Nov. 2; shutoff dates compared."
+title: "LIHEAP 2026-27: Pennsylvania Opened Nov. 2, Shutoff Rules by State"
+description: "Low Income Home Energy Assistance Program (LIHEAP) 2026-27: Pennsylvania opened Nov. 2. Apply-by dates, winter shutoff rules by state and a printable."
 type: explainer
 publishedAt: "2026-11-04T06:50:00-05:00"
 updatedAt: "2026-11-04T17:25:00-05:00"

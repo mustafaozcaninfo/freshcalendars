@@ -1,7 +1,6 @@
 ---
-title: "Sephora Sale November 2026: Rouge Open, Other Tiers Start Nov. 3; Ulta Black Friday"
-seoTitle: "Sephora Sale November 2026: Dates and Ulta Black Friday"
-description: "Sephora's fall Savings Event is open to Rouge and opens Nov. 3 to Very Important Beauty Insider (VIB) and Insider, through Nov. 9, NBC News Select says."
+title: "Sephora Black Friday 2026: Savings Event to Nov. 9, Ulta Nov. 21"
+description: "Sephora's 2026 Savings Event runs through Nov. 9, and Ulta's Black Friday sale starts online Nov. 21 at 9 p.m. ET. Discounts by tier and a free calendar."
 type: news
 publishedAt: "2026-10-31T11:55:00-04:00"
 authors: [jessica-hartwell]

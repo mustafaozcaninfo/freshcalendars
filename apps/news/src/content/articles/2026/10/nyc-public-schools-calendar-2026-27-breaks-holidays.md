@@ -1,7 +1,6 @@
 ---
-title: "NYC Public Schools Calendar 2026-27: Every Recess and Holiday, Plus a Remote Election Day on Nov. 3"
-seoTitle: "NYC School Calendar 2026-27: Breaks and Holidays"
-description: "NYC public schools 2026-27: Thanksgiving recess Nov. 26-27, winter recess Dec. 24-Jan. 1, midwinter Feb. 15-19, spring April 22-30, last day June 28."
+title: "NYC School Calendar 2026-27: Winter Recess Dec. 24-Jan. 1"
+description: "NYC school calendar 2026-27: Thanksgiving recess Nov. 26-27, winter recess Dec. 24-Jan. 1, midwinter Feb. 15-19, spring April 22-30, last day June 28."
 type: news
 publishedAt: "2026-10-19T10:40:00-04:00"
 authors: [aaron-kessler]

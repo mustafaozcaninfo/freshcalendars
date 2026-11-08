@@ -1,7 +1,6 @@
 ---
-title: "Quebec Winter Carnival 2027: Feb. 5 to 14, Effigie Price and Parade Dates"
-seoTitle: "Quebec Winter Carnival 2027: Dates and Effigie Price"
-description: "The Carnaval de Québec runs Feb. 5 to 14, 2027, and its official Effigie pass costs $29 plus taxes until Jan. 17, then $39, according to carnaval.qc.ca."
+title: "Quebec Winter Carnival 2027: Feb. 5 to 14, Pass $29 Until Jan. 17"
+description: "The Carnaval de Québec 2027 runs Feb. 5 to 14, per carnaval.qc.ca. The Effigie pass is $29 plus taxes until Jan. 17, then $39. Parades not yet announced."
 type: explainer
 publishedAt: "2026-11-04T06:20:00-05:00"
 authors: [christina-gerland]

@@ -1,7 +1,6 @@
 ---
-title: "NFL Week 9 Schedule 2026: 15 Game Times, TV Channels, Madrid Kickoff and a Printable Pick'em Sheet"
-seoTitle: "NFL Week 9 Schedule 2026: Times and Pick'em Sheet"
-description: "National Football League (NFL) Week 9: 15 games, Thu., Nov. 5 to Mon., Nov. 9, 2026, with Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
+title: "NFL Week 9 Schedule 2026: Nov. 5-9, Madrid Game at 9:30 a.m. ET"
+description: "NFL Week 9 schedule 2026: 15 games from Nov. 5 to 9, with ET kickoffs, TV channels, the Madrid game on Nov. 8 and a free printable pick'em sheet."
 type: news
 publishedAt: "2026-10-29T03:43:00-04:00"
 updatedAt: "2026-11-08T07:24:00-05:00"

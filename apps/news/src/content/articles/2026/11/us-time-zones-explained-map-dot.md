@@ -1,7 +1,6 @@
 ---
-title: "US Time Zones Explained: The Nine Zones, Who Sets Them and Where the Lines Run"
-seoTitle: "US Time Zones: The Nine Zones and Where Lines Run"
-description: "Federal law sets nine U.S. time zones, from Coordinated Universal Time (UTC) minus 4 hours to plus 10. See who draws the lines and which states they cross."
+title: "US Time Zones: Nine Zones by Law and Where the Lines Run"
+description: "The U.S. has nine time zones under federal law. A table shows the time in each at noon Eastern, plus the 13 states with zone lines inside them."
 type: explainer
 publishedAt: "2026-11-04T22:45:00-05:00"
 authors: [jessica-hartwell]

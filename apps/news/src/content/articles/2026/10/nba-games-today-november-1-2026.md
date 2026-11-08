@@ -1,7 +1,6 @@
 ---
-title: "NBA Games Today: Sunday, Nov. 1, 2026 Schedule, 4 Games, Times and TV After the Clock Change"
-seoTitle: "NBA Games Today, Nov. 1, 2026: Times and TV"
-description: "National Basketball Association (NBA) games Sunday, Nov. 1, 2026: 4 games, first tip-off 3:30 p.m. Eastern Time (ET), last 9:00 p.m. ET, with time zones and TV."
+title: "NBA Games Today: Sunday, Nov. 1, 2026, 4 Games From 3:30 p.m. ET"
+description: "NBA games Sunday, Nov. 1, 2026: 4 games, first tip-off 3:30 p.m. ET, all on NBA League Pass. A time-zone table for every game and a printable score sheet."
 type: news
 publishedAt: "2026-10-30T01:58:00-04:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "NYT Letter Boxed Answers October 2026: The Times' Solution for Every Day"
-seoTitle: "Letter Boxed Answers October 2026: All 31 Days"
-description: "The New York Times (NYT) Letter Boxed answers for October 2026: the Times' two-word solution for all 31 days, with each day's sides and par."
+title: "Letter Boxed Answers October 2026: All 31 Days, Sides and Par"
+description: "Letter Boxed answers for October 2026: the Times' two-word solution for all 31 days, from Parkour, Refinanced to Bauxite, Eponym, with sides and par."
 type: explainer
 publishedAt: "2026-10-31T00:30:00-04:00"
 authors: [news-desk]

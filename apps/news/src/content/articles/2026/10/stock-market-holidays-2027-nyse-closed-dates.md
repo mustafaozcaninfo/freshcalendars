@@ -1,6 +1,5 @@
 ---
-title: "Stock Market Holidays 2027: The 10 Days the NYSE Is Closed, the One Early Close, and Why It Opens Dec. 31"
-seoTitle: "Stock Market Holidays 2027: NYSE Closed Dates"
+title: "NYSE Holidays 2027: 10 Closed Days and an Early Close Nov. 26"
 description: "The NYSE is closed 10 days in 2027, including Good Friday, March 26, and closes early Nov. 26. It opens Dec. 31, 2027, unlike federal offices."
 type: explainer
 publishedAt: "2026-10-19T11:04:00-04:00"

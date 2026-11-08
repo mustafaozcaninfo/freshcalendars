@@ -1,7 +1,6 @@
 ---
-title: "NASCAR Championship 2026 Start Time: Cup Race at 3 p.m. ET on NBC, Sunday, Nov. 8, at Homestead"
-seoTitle: "NASCAR Championship 2026 Start Time and TV Schedule"
-description: "The National Association for Stock Car Auto Racing (NASCAR) Cup title race is Sunday, Nov. 8, 2026, 3 p.m. Eastern Time (ET) on NBC at Homestead-Miami Speedway."
+title: "NASCAR Championship 2026 Start Time: Cup Race 3 p.m. ET, Nov. 8"
+description: "The National Association for Stock Car Auto Racing (NASCAR) Cup title race is Nov. 8, 2026, 3 p.m. ET on NBC at Homestead. Central, Mountain, Pacific."
 type: news
 publishedAt: "2026-10-30T00:36:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

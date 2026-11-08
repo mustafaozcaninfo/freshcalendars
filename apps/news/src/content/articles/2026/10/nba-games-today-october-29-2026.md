@@ -1,7 +1,6 @@
 ---
-title: "NBA Games Today: Thursday, Oct. 29, 2026 Schedule, Tip-Off Times and TV"
-seoTitle: "NBA Games Today, Oct. 29, 2026: Times and TV"
-description: "National Basketball Association (NBA) games today, Oct. 29, 2026: three games, tip-offs at 8:00 and 10:00 p.m. Eastern Time (ET), with TV for each game."
+title: "NBA Games Today, Oct. 29, 2026: Three Games, Times and TV"
+description: "NBA games today, Oct. 29, 2026: three games, tip-offs at 8:00 and 10:00 p.m. ET. Cavaliers at Hawks is on NBA TV; a time-zone table and score sheet follow."
 type: news
 publishedAt: "2026-10-29T16:10:00-04:00"
 authors: [jessica-hartwell]

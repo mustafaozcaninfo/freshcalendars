@@ -1,7 +1,6 @@
 ---
-title: "Polar Night 2026 in Utqiagvik, Alaska: Last Sunset Nov. 18, Sun Returns Jan. 23, 2027"
-seoTitle: "Utqiagvik Polar Night 2026: Last Sunset Nov. 18"
-description: "Utqiagvik, Alaska has its last 2026 sunset Nov. 18 at 1:42 p.m. Alaska Standard Time (AKST); the sun returns Jan. 23, U.S. Naval Observatory (USNO) data show."
+title: "Utqiagvik Polar Night 2026: Last Sunset Nov. 18, Sun Back Jan. 23"
+description: "Utqiagvik, Alaska has its last sunset of 2026 on Nov. 18 at 1:42 p.m. and the sun returns Jan. 23. A daily countdown table and a printable tracker."
 type: explainer
 publishedAt: "2026-10-30T03:42:00-04:00"
 authors: [jessica-hartwell]

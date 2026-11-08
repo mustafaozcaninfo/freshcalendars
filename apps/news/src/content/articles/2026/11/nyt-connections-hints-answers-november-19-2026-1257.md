@@ -1,6 +1,6 @@
 ---
 title: "Connections #1257 Hints & Answers Today, November 19, 2026"
-description: "Connections #1257 for Thursday, Nov. 19, 2026 from The New York Times (NYT): two hints per color, then the answers, the traps and a map of the starting grid."
+description: "Connections #1257 hints and answers for Thursday, Nov. 19, 2026 from The New York Times (NYT): two hints per color, the traps and a starting-grid map."
 type: explainer
 publishedAt: "2026-11-18T00:05:00-05:00"
 updatedAt: "2026-11-18T00:05:00-05:00"

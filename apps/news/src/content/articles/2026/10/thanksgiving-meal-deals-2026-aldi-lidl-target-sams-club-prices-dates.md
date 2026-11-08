@@ -1,7 +1,6 @@
 ---
-title: "Thanksgiving Meal Deals 2026: Aldi, Lidl, Target and Sam's Club Prices, Servings and Sale Dates"
-seoTitle: "Thanksgiving Meal Deals 2026: Aldi, Lidl, Target, Sam's"
-description: "Sam's Club's Thanksgiving meal goes on sale Oct. 28, 2026. Compare Aldi, Lidl, Target and Sam's Club prices, servings and sale dates, with a printable."
+title: "Thanksgiving Meal Deals 2026: Aldi Under $39, Lidl, Target, Sam's Club"
+description: "Aldi's Thanksgiving meal for 10 is under $39 in 2026. Compare Aldi, Lidl, Target and Sam's Club prices, servings and sale dates, with a printable calendar."
 type: news
 publishedAt: "2026-10-28T01:47:00-04:00"
 updatedAt: "2026-11-03T23:25:00-05:00"

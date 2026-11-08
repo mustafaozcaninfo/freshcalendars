@@ -1,7 +1,6 @@
 ---
-title: "Killington World Cup 2026: Giant Slalom Nov. 28, Slalom Nov. 29, TV Times"
-seoTitle: "Killington World Cup 2026: Race Days and TV Times"
-description: "Stifel Killington Cup 2026: women's giant slalom Sat., Nov. 28 from 9:30 a.m. Eastern Time (ET), slalom Sun., Nov. 29 from 10:30 a.m. ET, per Killington."
+title: "Killington World Cup 2026: Giant Slalom Nov. 28, Slalom Nov. 29"
+description: "The Killington World Cup 2026 giant slalom is Sat., Nov. 28 at 9:30 a.m. ET, slalom Sun., Nov. 29 at 10:30 a.m. ET. Run times, TV and ticket prices."
 type: news
 publishedAt: "2026-11-04T12:55:00-05:00"
 updatedAt: "2026-11-07T17:32:00-05:00"

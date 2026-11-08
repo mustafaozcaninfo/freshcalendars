@@ -1,7 +1,6 @@
 ---
-title: "Why Some Years Have 53 Weeks: The ISO Rule, and Every Week 53 From 2004 to 2060"
-seoTitle: "Why Some Years Have 53 Weeks: ISO Week 53 Years"
-description: "A year has 53 weeks under the International Organization for Standardization (ISO) when Jan. 1 is a Thursday or a leap year starts on Wednesday."
+title: "Why Some Years Have 53 Weeks: ISO Rule, Every One 2004 to 2060"
+description: "A year has 53 weeks under the International Organization for Standardization (ISO) rule if Jan. 1 is a Thursday, or a leap year starts Wednesday."
 type: explainer
 publishedAt: "2026-10-30T08:21:00-04:00"
 authors: [jessica-hartwell]

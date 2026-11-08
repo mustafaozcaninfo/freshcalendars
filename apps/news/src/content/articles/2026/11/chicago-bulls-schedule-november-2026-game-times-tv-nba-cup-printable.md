@@ -1,7 +1,6 @@
 ---
-title: "Bulls Schedule November 2026: Game Times, TV and NBA Cup Games"
-seoTitle: "Bulls Schedule November 2026: Times, TV, Cup Games"
-description: "The Bulls play at Philadelphia on Mon., Nov. 2, 2026, at 6:30 p.m. Central Time (CT), 7:30 p.m. Eastern Time (ET), first of 13 November games."
+title: "Bulls Schedule November 2026: 13 Games, Times in CT and ET"
+description: "The Bulls play 13 games in November 2026, from Nov. 2 at Philadelphia to Nov. 28 against Indiana, with Central and Eastern times, TV and a printable."
 type: news
 publishedAt: "2026-11-02T10:10:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

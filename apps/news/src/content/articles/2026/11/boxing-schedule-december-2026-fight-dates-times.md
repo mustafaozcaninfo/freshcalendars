@@ -1,7 +1,6 @@
 ---
-title: "Boxing Schedule December 2026: Fury vs Joshua, Bivol vs Smith and Every Big Card"
-seoTitle: "Boxing Schedule December 2026: Dates and Venues"
-description: "Boxing in December 2026: Walker vs Rocha Dec. 5, Fury vs Joshua on Netflix Dec. 11, Bivol vs Smith Dec. 12 and Cacace vs Ball Dec. 19, per the promoters."
+title: "Boxing Schedule December 2026: Fury vs Joshua on Dec. 11"
+description: "Boxing in December 2026: Fury vs Joshua Dec. 11 on Netflix, Bivol vs Smith Dec. 12, Cacace vs Ball Dec. 19. No start times yet; ET and Pacific guide."
 type: explainer
 publishedAt: "2026-11-04T06:44:00-05:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "UK Trains at Christmas 2026: No Trains Dec. 25, Paddington and New Street Closures"
-seoTitle: "UK Trains Christmas 2026: Dec. 25-26, Paddington"
-description: "No National Rail trains run on Fri., Dec. 25, 2026, and Great Western Railway (GWR) cannot reach Paddington until Mon., Jan. 4, 2027, Network Rail says."
+title: "UK Trains at Christmas 2026: None Dec. 25, Paddington Shut"
+description: "UK trains at Christmas 2026: no National Rail services Fri., Dec. 25, and Great Western Railway (GWR) cannot reach Paddington until Jan. 4. Closure table."
 type: news
 publishedAt: "2026-11-03T12:50:00-05:00"
 updatedAt: "2026-11-06T21:20:00-05:00"

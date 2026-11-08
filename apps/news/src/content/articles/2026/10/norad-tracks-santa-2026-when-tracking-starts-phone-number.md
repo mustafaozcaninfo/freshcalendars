@@ -1,7 +1,6 @@
 ---
-title: "NORAD Santa Tracker 2026: Last Year's Hours by Time Zone, the Phone Number and When the Website Starts"
-seoTitle: "NORAD Santa Tracker 2026: Hours by Time Zone, Phone"
-description: "North American Aerospace Defense Command (NORAD) has not set 2026 Santa hours. In 2025 calls ran 4 a.m. to midnight Mountain Standard Time (MST) Dec. 24."
+title: "NORAD Santa Tracker 2026: Not Yet Set, 2025 Hours by Zone"
+description: "North American Aerospace Defense Command (NORAD) has not yet announced 2026 Santa hours. In 2025 calls ran 4 a.m. to midnight Mountain Standard Time."
 type: explainer
 publishedAt: "2026-10-28T18:00:00-04:00"
 updatedAt: "2026-10-30T15:27:00-04:00"

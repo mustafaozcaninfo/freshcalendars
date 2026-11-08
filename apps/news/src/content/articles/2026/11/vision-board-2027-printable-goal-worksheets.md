@@ -1,7 +1,6 @@
 ---
-title: "2027 Vision Board Printables: Goal Worksheets and Monthly Check-Ins"
-seoTitle: "2027 Vision Board Printable: Goal Sheet, 12 Check-Ins"
-description: "A free 2027 vision board printable: a goal page plus 12 month-end check-ins with weekdays, and federal holidays from the Office of Personnel Management (OPM)."
+title: "2027 Vision Board Printable: Goal Page and 12 Monthly Check-Ins"
+description: "Free 2027 vision board printable: one goal page and 12 month-end check-ins from Sun., Jan. 31 to Fri., Dec. 31, with weekdays and federal holiday dates."
 type: explainer
 publishedAt: "2026-11-04T07:13:00-05:00"
 updatedAt: "2026-11-04T07:13:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Tesco Christmas Delivery Slots 2026: Sign Up by 2 November for Early Booking on 3 November"
-seoTitle: "Tesco Christmas Delivery Slots 2026: Booking Dates"
-description: "Tesco shoppers must join a Delivery Saver plan by 11:59pm Greenwich Mean Time (GMT) on Monday 2 November to book Christmas slots from 6am on Tuesday 3 November."
+title: "Tesco Christmas Delivery Slots 2026: Opened to All on 5 November"
+description: "Tesco Christmas delivery slots 2026 opened to all customers at 6am on Thursday 5 November, per two reports. Every supermarket in one table, plus a planner."
 type: news
 dateline: "London"
 publishedAt: "2026-11-01T08:50:00-05:00"

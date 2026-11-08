@@ -1,7 +1,6 @@
 ---
-title: "Thanksgiving 2026 TV Schedule: The 100th Macy's Parade and Every NFL Game From Wednesday to Black Friday"
-seoTitle: "Thanksgiving 2026 TV Schedule: Macy's Parade, NFL"
-description: "The 100th Macy's parade airs Thu., Nov. 26 at 8:30 a.m. on NBC. Five National Football League (NFL) games run Nov. 25-27. Times, channels and a printable."
+title: "Thanksgiving 2026 TV Schedule: 100th Macy's Parade at 8:30 a.m."
+description: "The 100th Macy's Thanksgiving Day Parade airs Thu., Nov. 26 at 8:30 a.m. on NBC. Every NFL game from Nov. 25-27 with channels, plus a printable."
 type: news
 publishedAt: "2026-10-22T12:55:00-04:00"
 updatedAt: "2026-11-05T12:17:00-05:00"

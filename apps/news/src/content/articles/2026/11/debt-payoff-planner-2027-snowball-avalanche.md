@@ -1,7 +1,6 @@
 ---
-title: "Debt Payoff Planner 2027: Snowball vs. Avalanche Worked Example and Printable Tracker"
-seoTitle: "Debt Payoff Planner 2027: Snowball vs. Avalanche"
-description: "Consumer Financial Protection Bureau (CFPB) names two ways to reduce debt. We run both on three sample debts and add a free 2027 payoff tracker to print."
+title: "Debt Payoff Planner 2027: $9,000 Example, 24 Months or 25"
+description: "Debt payoff planner for 2027: in our example of $9,000 in three debts, the highest-rate order is debt-free in 24 months, smallest-balance first in 25."
 type: explainer
 publishedAt: "2026-11-04T07:50:00-05:00"
 authors: [aaron-kessler]

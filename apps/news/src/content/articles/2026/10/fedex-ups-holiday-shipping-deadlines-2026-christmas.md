@@ -1,7 +1,6 @@
 ---
-title: "FedEx Holiday Shipping Deadlines 2026: Dec. 15 to Dec. 23 for Christmas Eve Delivery; UPS Not Yet Posted"
-seoTitle: "FedEx Holiday Shipping Deadlines 2026 by Service"
-description: "FedEx's 2026 last ship dates for Christmas Eve delivery run from Dec. 15 (Ground Economy) to Dec. 23 (overnight); United Parcel Service (UPS) has none yet."
+title: "FedEx Holiday Shipping Deadlines 2026: Dec. 15 to Dec. 23"
+description: "FedEx holiday shipping deadlines 2026 run from Dec. 15 (Ground Economy) to Dec. 23 (overnight) for Dec. 24 delivery. UPS had not posted dates by Sept. 24."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

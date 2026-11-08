@@ -1,7 +1,6 @@
 ---
-title: "Ballon d'Or 2026 Winners: Harry Kane and Alexia Putellas Win in London on Oct. 26"
-seoTitle: "Ballon d'Or 2026 Winners: Kane and Putellas Win"
-description: "Harry Kane and Alexia Putellas won the 2026 Ballon d'Or in London on Monday, Oct. 26, the organizers say. See the full winners list by award and time."
+title: "Ballon d'Or 2026 Time: 4 p.m. ET Ceremony, Kane and Putellas Win"
+description: "The Ballon d'Or 2026 ceremony was Monday, Oct. 26 at 4 p.m. ET (9 p.m. London). Harry Kane and Alexia Putellas won; full winners list by award."
 type: news
 publishedAt: "2026-10-25T13:05:00-04:00"
 updatedAt: "2026-11-08T02:45:00-05:00"

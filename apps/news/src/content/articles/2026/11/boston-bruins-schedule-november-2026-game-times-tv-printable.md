@@ -1,7 +1,6 @@
 ---
-title: "Bruins Schedule November 2026: Game Times in ET, TV on NESN and National"
-seoTitle: "Bruins Schedule November 2026: Times and TV"
-description: "The Bruins play 11 games in November 2026, starting Mon., Nov. 2, at 7 p.m. Eastern Time (ET) against Vegas, per the National Hockey League (NHL) schedule."
+title: "Bruins Schedule November 2026: 11 Games, Times and TV"
+description: "The Bruins November 2026 schedule has 11 games, from Nov. 2 against Vegas to Nov. 29 against Vancouver. Nine are at home. TV channels and a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

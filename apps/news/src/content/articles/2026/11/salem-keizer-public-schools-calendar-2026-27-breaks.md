@@ -1,7 +1,6 @@
 ---
-title: "Salem-Keizer Schools Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Last Days June 16-17"
-seoTitle: "Salem-Keizer Calendar 2026-27: Breaks and Last Day"
-description: "Salem-Keizer Public Schools (SKPS) lists Thanksgiving break Nov. 25-27, winter break Dec. 21-Jan. 1 and spring break March 22-26, 2027; last days June 16-17."
+title: "Salem-Keizer Schools Calendar 2026-27: Winter Break Dec. 21-Jan. 1"
+description: "Salem-Keizer Public Schools (SKPS) 2026-27: winter break Dec. 21-Jan. 1, spring break March 22-26, last days June 16-17. Weekday for every no-school day."
 type: news
 publishedAt: "2026-11-08T06:10:00-05:00"
 authors: [aaron-kessler]

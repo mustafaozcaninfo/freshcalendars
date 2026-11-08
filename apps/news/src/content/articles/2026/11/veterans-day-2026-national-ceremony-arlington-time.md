@@ -1,7 +1,6 @@
 ---
-title: "Veterans Day 2026 at Arlington: National Ceremony Time, Tram and What to Bring"
-seoTitle: "Veterans Day 2026 Arlington Ceremony: 11 a.m., Tram"
-description: "Arlington National Cemetery's Veterans Day ceremony is Nov. 11, 2026 at 11 a.m. Eastern Time (ET). The tram starts about 8:30 a.m.; arrive by 9:45 a.m."
+title: "Arlington Veterans Day Ceremony 2026: 11 a.m., Tram From 8:30 a.m."
+description: "The Arlington National Cemetery Veterans Day ceremony is Nov. 11, 2026 at 11 a.m. ET. Tram starts about 8:30 a.m.; arrive by 9:45 a.m. Bag rules, timeline."
 type: news
 publishedAt: "2026-11-05T19:15:00-05:00"
 updatedAt: "2026-11-05T19:15:00-05:00"

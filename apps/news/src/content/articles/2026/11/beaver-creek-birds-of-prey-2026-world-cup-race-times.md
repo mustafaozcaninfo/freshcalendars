@@ -1,7 +1,6 @@
 ---
-title: "Birds of Prey 2026 at Beaver Creek: Seven World Cup Races Dec. 3-13, Start Times"
-seoTitle: "Birds of Prey 2026 Beaver Creek: Race Start Times"
-description: "Birds of Prey 2026 at Beaver Creek, Colorado runs Dec. 3-13: first men's downhill Dec. 3 at 11 a.m. Mountain Time (MT), 1 p.m. Eastern Time (ET); seven races."
+title: "Birds of Prey 2026 Race Times: Dec. 3 Downhill at 1 p.m. ET"
+description: "Birds of Prey 2026 at Beaver Creek has seven World Cup races Dec. 3-13, the first downhill at 1 p.m. ET. The schedule is preliminary; times in U.S. zones."
 type: news
 publishedAt: "2026-11-04T10:50:00-05:00"
 authors: [jessica-hartwell]

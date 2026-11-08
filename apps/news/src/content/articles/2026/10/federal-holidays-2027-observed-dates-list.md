@@ -1,7 +1,6 @@
 ---
-title: "Federal Holidays 2027: All 11 Observed Dates, a Printable List and a Bonus Day Off on Dec. 31"
-seoTitle: "Federal Holidays 2027: Observed Dates, Printable List"
-description: "Federal holidays 2027 observed dates: 11 holidays, with Juneteenth, Independence Day and Christmas moved to weekdays, plus a free printable list."
+title: "Federal Holidays 2027: 11 Observed Dates and a Dec. 31 Day Off"
+description: "Federal holidays 2027 has 11 observed dates, with Juneteenth, Independence Day and Christmas moved to weekdays. Most workers get Dec. 31 off. Free list."
 type: explainer
 publishedAt: "2026-10-19T11:00:00-04:00"
 updatedAt: "2026-10-24T00:50:00-04:00"

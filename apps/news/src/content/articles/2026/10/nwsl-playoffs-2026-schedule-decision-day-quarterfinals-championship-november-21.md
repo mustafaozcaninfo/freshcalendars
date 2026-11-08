@@ -1,7 +1,6 @@
 ---
-title: "NWSL Playoffs 2026 Schedule: Quarterfinal Times and TV for Nov. 6-8, Final Nov. 21"
-seoTitle: "NWSL Playoffs 2026 Schedule and Dates"
-description: "The National Women's Soccer League (NWSL) quarterfinals run Nov. 6-8, 2026, starting 10 p.m. Eastern Time (ET) Nov. 6; the NWSL Championship is Sat., Nov. 21."
+title: "NWSL Playoffs 2026 Schedule: Quarterfinals Nov. 6-8, Final Nov. 21"
+description: "The National Women's Soccer League (NWSL) playoffs 2026 schedule: quarterfinals Nov. 6-8, championship Sat., Nov. 21. Times, TV and a printable tracker."
 type: news
 publishedAt: "2026-10-30T21:44:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

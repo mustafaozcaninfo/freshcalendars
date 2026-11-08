@@ -1,7 +1,6 @@
 ---
-title: "Seminole County Public Schools Calendar 2026-27: Winter Break, Spring Break and Last Day"
-seoTitle: "Seminole County Schools Calendar 2026-27"
-description: "Seminole County Public Schools (SCPS) 2026-27: classes start Aug. 10, winter break is Dec. 21-31, spring break March 15-19 and the last day is May 25, 2027."
+title: "Seminole County Public Schools Calendar 2026-27: Last Day May 25"
+description: "Seminole County Public Schools (SCPS) calendar 2026-27: classes start Aug. 10, winter break Dec. 21-31, spring break March 15-19. Last day is May 25, 2027."
 type: news
 publishedAt: "2026-11-04T14:38:00-05:00"
 updatedAt: "2026-11-04T14:38:00-05:00"

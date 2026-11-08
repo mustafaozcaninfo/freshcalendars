@@ -1,7 +1,6 @@
 ---
-title: "Black Friday 2026 Canada: Nov. 27 Sale Dates by Store, From Canadian Tire to Amazon.ca"
-seoTitle: "Black Friday 2026 Canada: Nov. 27 Sale Dates by Store"
-description: "Black Friday 2026 in Canada is Fri., Nov. 27, and Cyber Monday is Nov. 30. Sale dates from 10 retailers' own pages, Canadian Tire to Amazon.ca, by store."
+title: "Black Friday 2026 Canada: Nov. 27; Canadian Tire Deals From Nov. 5"
+description: "Black Friday 2026 in Canada is Fri., Nov. 27, and Cyber Monday is Nov. 30. Canadian Tire's page starts Nov. 5; Amazon.ca and Walmart.ca posted no dates."
 type: news
 publishedAt: "2026-10-29T11:47:00-04:00"
 updatedAt: "2026-11-06T07:22:00-05:00"

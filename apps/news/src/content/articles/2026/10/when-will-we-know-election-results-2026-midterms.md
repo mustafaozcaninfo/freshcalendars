@@ -1,7 +1,6 @@
 ---
-title: "When Will We Know the 2026 Election Results? How Counting Works and the Timeline in 17 Key States"
-seoTitle: "When Will We Know 2026 Midterm Election Results?"
-description: "Polls closed Nov. 3, 2026, but counting takes days in some states. When mail ballots are counted in 17 key states, late-ballot rules and certification dates."
+title: "When Do They Start Counting Votes 2026? 17-State Timeline"
+description: "When counting starts in 2026 varies: Florida can process mail ballots 22 days early, Pennsylvania and Wisconsin at 7 a.m. Election Day. 17-state timeline."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
 updatedAt: "2026-11-08T09:25:00-05:00"

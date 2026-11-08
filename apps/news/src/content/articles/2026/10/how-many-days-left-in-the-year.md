@@ -1,7 +1,6 @@
 ---
-title: "How Many Days Are Left in the Year? The Formula, Plus the Count From Nov. 1, 2026"
-seoTitle: "How Many Days Are Left in the Year? Formula and Table"
-description: "Days left in the year = 365 (366 in a leap year) minus today's day number. From Sun., Nov. 1, 2026: 60 days after today, 61 with it, plus a monthly table."
+title: "Days Left in the Year: 60 From Nov. 1, 2026, With Formula"
+description: "From Nov. 1, 2026 there are 60 days left in the year, or 61 counting today. The formula, 44 weekdays and a printable table for 2026 and leap year 2028."
 type: explainer
 publishedAt: "2026-10-30T08:22:00-04:00"
 updatedAt: "2026-11-01T05:33:00-05:00"

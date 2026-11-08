@@ -1,7 +1,6 @@
 ---
-title: "New Year's Eve 2026 Moon: Waning Crescent Rises After Midnight, 1:46 a.m. in New York"
-seoTitle: "New Year's Eve 2026 Moon: Phase and Moonrise Times"
-description: "At midnight on New Year's Eve 2026 the Moon is down: U.S. Naval Observatory (USNO) has New York moonrise at 1:46 a.m. Eastern Standard Time (EST) on Jan. 1."
+title: "Moon on New Year's Eve 2026: Moonrise 1:46 a.m. in New York"
+description: "The Moon is below the horizon at midnight on New Year's Eve 2026; New York moonrise is 1:46 a.m. EST on Jan. 1. Table for 12 U.S. cities and a printable."
 type: explainer
 publishedAt: "2026-11-03T06:55:00-05:00"
 authors: [jessica-hartwell]

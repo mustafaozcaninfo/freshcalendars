@@ -1,7 +1,6 @@
 ---
-title: "Anti-Bullying Week 2026 UK: 16 to 20 November, Break the Silence and Odd Socks Day"
-seoTitle: "Anti-Bullying Week 2026: Dates, Theme, Odd Socks Day"
-description: "Anti-Bullying Week 2026 runs 16 to 20 November in the UK. The Anti-Bullying Alliance (ABA) theme is Break the Silence, and no bank holiday falls that week."
+title: "Anti-Bullying Week 2026: 16 to 20 November, Break the Silence"
+description: "Anti-Bullying Week 2026 runs 16 to 20 November in the UK, with the theme Break the Silence. Odd Socks Day is listed for 16 November; no bank holiday."
 type: news
 publishedAt: "2026-11-08T06:21:00-05:00"
 authors: [christina-gerland]

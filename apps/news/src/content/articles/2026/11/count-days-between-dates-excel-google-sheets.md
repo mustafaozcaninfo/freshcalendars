@@ -1,7 +1,6 @@
 ---
-title: "How to Count Days Between Two Dates in Excel and Google Sheets, With 2027 Examples"
-seoTitle: "Count Days Between Two Dates in Excel and Sheets"
-description: "Subtract the dates for calendar days or use a weekday function: Jan. 1 to Dec. 31, 2027 is 364 days, 261 weekdays and 250 federal workdays."
+title: "Days Between Two Dates in Excel: Jan. 1 to Dec. 31, 2027 Is 364"
+description: "Days between two dates in Excel and Google Sheets: Jan. 1 to Dec. 31, 2027 is 364 days, 261 weekdays. Formulas side by side, plus a printable."
 type: explainer
 publishedAt: "2026-11-04T15:07:00-05:00"
 authors: [jessica-hartwell]

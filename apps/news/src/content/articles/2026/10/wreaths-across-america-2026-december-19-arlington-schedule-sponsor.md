@@ -1,7 +1,6 @@
 ---
-title: "Wreaths Across America 2026 Is Saturday, Dec. 19: Arlington Schedule and How to Sponsor"
-seoTitle: "Wreaths Across America 2026: Dec. 19 Arlington Schedule"
-description: "Wreaths Across America Day 2026 is Saturday, Dec. 19. Arlington placement starts 8 a.m. Eastern Standard Time (EST); the Tomb of the Unknown Soldier is at noon."
+title: "Wreaths Across America 2026: Dec. 19 Arlington Schedule, $17 Wreath"
+description: "Wreaths Across America Day 2026 is Saturday, Dec. 19. Arlington placement starts 8 a.m. EST, the Tomb of the Unknown Soldier at noon; a wreath costs $17."
 type: news
 publishedAt: "2026-10-30T05:30:00-04:00"
 authors: [christina-gerland]

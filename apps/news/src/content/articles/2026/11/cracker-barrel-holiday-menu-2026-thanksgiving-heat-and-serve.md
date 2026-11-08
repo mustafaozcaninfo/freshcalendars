@@ -1,7 +1,6 @@
 ---
-title: "Cracker Barrel Holiday Menu 2026: Thanksgiving Heat & Serve Pickup Nov. 21-29 and Prices"
-seoTitle: "Cracker Barrel Holiday Menu 2026: Heat & Serve Nov. 21-29"
-description: "Cracker Barrel's Thanksgiving Heat & Serve pickup runs Nov. 21 through Nov. 29, 2026, with a Turkey Family Dinner around $119.99, per its Oct. 20 release."
+title: "Cracker Barrel Holiday Menu 2026: Heat & Serve Pickup Nov. 21-29"
+description: "Cracker Barrel's Thanksgiving Heat & Serve pickup runs Nov. 21 through Nov. 29, 2026. Turkey Family Dinner is around $119.99, the Turkey Feast $189.99."
 type: news
 publishedAt: "2026-11-04T15:08:00-05:00"
 updatedAt: "2026-11-04T15:08:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "When Does Advent Start in 2026? Sunday, Nov. 29, With the Candle Color for Each Sunday"
-seoTitle: "Advent 2026 Starts Sunday, Nov. 29: Dates and Candle Colors"
-description: "Advent 2026 begins Sunday, Nov. 29, per the United States Conference of Catholic Bishops (USCCB). Gaudete Sunday is Dec. 13, the day of the rose candle."
+title: "Advent Sunday 2026: First Sunday Is Nov. 29, Candle Colors"
+description: "Advent 2026 starts Sunday, Nov. 29 and runs to Dec. 24. A table gives each Sunday's date and candle color, plus a printable wreath tracker."
 type: explainer
 publishedAt: "2026-10-25T17:03:00-04:00"
 updatedAt: "2026-11-03T00:37:00-05:00"

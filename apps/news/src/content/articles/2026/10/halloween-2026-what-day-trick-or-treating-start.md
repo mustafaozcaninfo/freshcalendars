@@ -1,7 +1,6 @@
 ---
-title: "Halloween 2026 Was Saturday, Oct. 31: Trick-or-Treat Hours Set Town by Town, Five Examples"
-seoTitle: "Halloween 2026 Date and Trick-or-Treat Hours"
-description: "Halloween 2026 was Saturday, Oct. 31. Trick-or-treat hours were set town by town; four published schedules started between 5 p.m. and 6 p.m. and ended by 8 p.m."
+title: "Halloween 2026 Trick-or-Treat Hours: Set Town by Town"
+description: "Halloween 2026 was Saturday, Oct. 31, and trick-or-treat hours were set town by town. Four published schedules ran from about 5 p.m. to 8 p.m."
 type: news
 publishedAt: "2026-10-22T01:31:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

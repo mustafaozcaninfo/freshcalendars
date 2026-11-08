@@ -1,7 +1,6 @@
 ---
-title: "Self Assessment Deadline 31 January 2027: Online Return, Payment Dates and Late Penalties"
-seoTitle: "Self Assessment Deadline 31 January 2027: Dates, Penalties"
-description: "The paper return date of 31 October 2026 has passed; HM Revenue and Customs (HMRC) needs online returns and payment by 31 January 2027, GOV.UK says."
+title: "Self Assessment Deadline 31 January 2027: Late Penalty Calendar"
+description: "The Self Assessment online return and payment deadline is 11:59pm on 31 January 2027. A weekday table, a late penalty calendar and a printable timeline."
 type: news
 publishedAt: "2026-10-26T18:44:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

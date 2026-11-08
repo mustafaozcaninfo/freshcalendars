@@ -1,7 +1,6 @@
 ---
-title: "Hawaii Public Schools Calendar 2026-27: Winter Break, Spring Break, May 27 Last Day"
-seoTitle: "Hawaii Public Schools Calendar 2026-27 Breaks"
-description: "Hawaii State Department of Education (HIDOE) 2026-27: no school Dec. 21, 2026 to Jan. 1, 2027 and Mar. 15-19, 2027. Students finish Thu., May 27, 2027."
+title: "Hawaii Public Schools Calendar 2026-27: Spring Break Mar. 15-19"
+description: "Hawaii State Department of Education (HIDOE) calendar 2026-27: spring break Mar. 15-19, Kuhio Day Mar. 29, last day May 27."
 type: explainer
 publishedAt: "2026-11-04T06:00:00-05:00"
 authors: [aaron-kessler]

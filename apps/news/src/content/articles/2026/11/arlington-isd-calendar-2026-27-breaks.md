@@ -1,6 +1,5 @@
 ---
-title: "Arlington ISD Calendar 2026-27: Holidays, Winter Break, Spring Break and Last Day"
-seoTitle: "Arlington ISD Calendar 2026-27: Breaks, Last Day"
+title: "Arlington ISD Calendar 2026-27: Spring Break March 15-19, May 26 End"
 description: "Arlington Independent School District (ISD) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 1 and March 15-19. Students return Jan. 6; last day is May 26."
 type: explainer
 publishedAt: "2026-11-05T09:13:00-05:00"

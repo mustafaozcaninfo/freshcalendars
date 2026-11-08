@@ -1,7 +1,6 @@
 ---
-title: "Children in Need 2026: Appeal Night Is Friday, Nov. 13, With a Fundraising Countdown"
-seoTitle: "Children in Need 2026: Appeal Night Friday, Nov. 13"
-description: "British Broadcasting Corporation (BBC) Children in Need says Appeal Night 2026 is Friday, Nov. 13. The start time is not yet announced. Printable planner."
+title: "Children in Need 2026: Appeal Night Is Friday, Nov. 13"
+description: "Children in Need 2026 Appeal Night is Friday, Nov. 13, per the charity. The start time is not yet announced. Countdown table and printable planner."
 type: news
 publishedAt: "2026-10-27T11:55:00-04:00"
 updatedAt: "2026-11-04T13:16:00-05:00"

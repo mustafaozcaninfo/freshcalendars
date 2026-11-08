@@ -1,7 +1,6 @@
 ---
-title: "Times Square Ball Drop 2026: Time, How to Watch and the Countdown in Every US Time Zone"
-seoTitle: "Times Square Ball Drop 2026: Time and How to Watch"
-description: "The Times Square ball begins its 60-second drop at 11:59 p.m. Eastern Time (ET) on Thursday, Dec. 31, 2026. Times by U.S. zone, plus ABC and Disney+ coverage."
+title: "Times Square Ball Drop 2026: 11:59 p.m. ET, Time in Every Zone"
+description: "The Times Square ball drop 2026 begins at 11:59 p.m. ET on Thursday, Dec. 31. It is 11 p.m. Central, 10 p.m. Mountain, 9 p.m. Pacific, plus ABC times."
 type: news
 publishedAt: "2026-10-30T15:48:00-04:00"
 updatedAt: "2026-11-06T13:53:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "U.S.-Japan, Korea and China Time Difference: Tokyo Is 14 Hours Ahead"
-seoTitle: "U.S. to Japan, Korea and China Time Difference"
-description: "New York is 14 hours behind Japan Standard Time (JST) and Korea Standard Time (KST), and 13 behind Beijing, while U.S. clocks are on standard time."
+title: "US-Japan Time Difference: Tokyo 14 Hours Ahead, Beijing 13"
+description: "New York is 14 hours behind Tokyo and Seoul and 13 behind Beijing from Nov. 1, 2026. Tables by US zone and a printable time chart for your desk."
 type: explainer
 publishedAt: "2026-10-30T23:50:00-04:00"
 updatedAt: "2026-11-05T15:26:00-05:00"

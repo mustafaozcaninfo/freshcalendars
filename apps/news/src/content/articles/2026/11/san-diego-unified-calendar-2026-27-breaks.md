@@ -1,7 +1,6 @@
 ---
-title: "San Diego Unified Calendar 2026-27: Winter Break, Spring Break and the May 26 Last Day"
-seoTitle: "SDUSD Calendar 2026-27: Breaks and Last Day"
-description: "San Diego Unified School District (SDUSD) 2026-27: no school Nov. 23-27, Dec. 21 to Jan. 4 and March 29 to April 2. The last day is Wed., May 26, 2027."
+title: "San Diego Unified Calendar 2026-27: Thanksgiving Break Nov. 23-27"
+description: "San Diego Unified School District (SDUSD) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and March 29-April 2; last day May 26. Weekdays off counted."
 type: explainer
 publishedAt: "2026-11-04T06:10:00-05:00"
 authors: [aaron-kessler]

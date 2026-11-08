@@ -1,7 +1,6 @@
 ---
-title: "National Bird Day 2027 Is Tuesday, Jan. 5: Bird Counts You Can Join This Winter"
-seoTitle: "National Bird Day 2027: Tuesday, Jan. 5"
-description: "National Bird Day is Tuesday, Jan. 5, 2027, the last day of Audubon's Christmas Bird Count. Three winter bird counts to join, plus a tally sheet."
+title: "National Bird Day 2027: Tuesday, Jan. 5, and Three Winter Bird Counts"
+description: "National Bird Day 2027 is Tuesday, Jan. 5, the last day of Audubon's Christmas Bird Count. Dates and costs for three winter counts, plus a tally sheet."
 type: explainer
 publishedAt: "2026-11-04T06:40:00-05:00"
 authors: [christina-gerland]

@@ -1,7 +1,6 @@
 ---
-title: "Texas Election Results 2026: When Polls Close, Where to Follow the Count and Canvass Dates"
-seoTitle: "Texas Election Results 2026: Times and Canvass Dates"
-description: "Most Texas polls close at 7 p.m. Central Time, 8 p.m. Eastern Time (ET), on Nov. 3, 2026. Where to follow the count, late mail ballots and canvass dates."
+title: "Texas Election Results 2026: Polls Closed 7 p.m., Canvass Nov. 17"
+description: "Texas election results 2026: polls closed at 7 p.m. Central Time, 8 p.m. ET. Counties canvass by Nov. 17; the state canvass starts no earlier than Nov. 21."
 type: explainer
 publishedAt: "2026-11-02T13:12:00-05:00"
 updatedAt: "2026-11-04T17:25:00-05:00"

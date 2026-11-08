@@ -1,7 +1,6 @@
 ---
-title: "September 1752 Calendar: Britain Skipped 11 Days, Sept. 3 to 13"
-seoTitle: "September 1752 Calendar: Britain's 11 Missing Days"
-description: "Britain's Calendar (New Style) Act 1750 made the day after Sept. 2, 1752 the 14th, omitting 11 days. See the month as it was counted, with a free printable."
+title: "September 1752 Calendar: 11 Days Skipped, Sept. 3 to 13"
+description: "The September 1752 calendar jumps from Wed., Sept. 2 to Thu., Sept. 14, omitting 11 days in Britain. See the month as counted, plus a free printable."
 type: explainer
 publishedAt: "2026-11-04T16:40:00-05:00"
 authors: [jessica-hartwell]

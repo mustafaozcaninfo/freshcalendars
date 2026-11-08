@@ -1,6 +1,6 @@
 ---
 title: "Connections Sports Edition #772 Answers, November 4, 2026"
-description: "Connections: Sports Edition #772 for Wednesday, Nov. 4, 2026, from The Athletic and New York Times (NYT) Games: hints for each group, answers and trap notes."
+description: "Connections hint for Nov. 4, 2026, Sports Edition #772 from The Athletic and New York Times (NYT) Games: hints per group, answers and trap notes."
 type: explainer
 publishedAt: "2026-11-04T07:55:00-05:00"
 updatedAt: "2026-11-04T07:55:00-05:00"

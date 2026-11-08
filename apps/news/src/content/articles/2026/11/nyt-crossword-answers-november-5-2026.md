@@ -1,6 +1,6 @@
 ---
 title: "NYT Crossword Answers Today, November 5, 2026"
-description: "The New York Times (NYT) Crossword for Thursday, Nov. 5, 2026: a hint for all 78 of David P. Williams's clues, the four rebus squares explained, then answers."
+description: "New York Times (NYT) Crossword answers for Thursday, Nov. 5, 2026: a hint for all 78 clues, the four rebus squares explained, then the answers."
 type: explainer
 publishedAt: "2026-11-06T12:45:00-05:00"
 authors: [news-desk]

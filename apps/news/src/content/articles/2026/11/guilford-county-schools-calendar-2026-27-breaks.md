@@ -1,7 +1,6 @@
 ---
-title: "Guilford County Schools Calendar 2026-27: Winter Break, Spring Break and Last Day"
-seoTitle: "Guilford County Schools Calendar 2026-27 Breaks"
-description: "Guilford County Schools (GCS) 2026-27: no school Dec. 21-Jan. 1 and March 22-26; Jan. 4 is a teacher workday. The last day of school is June 10."
+title: "Guilford County Schools Calendar 2026-27: Spring Break March 22-26"
+description: "Guilford County Schools (GCS) calendar 2026-27: no school Dec. 21-Jan. 1 and March 22-26. Jan. 4 is a teacher workday; the last day is June 10."
 type: explainer
 publishedAt: "2026-11-04T14:57:00-05:00"
 authors: [aaron-kessler]

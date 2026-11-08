@@ -1,7 +1,6 @@
 ---
-title: "Fury vs Joshua on Dec. 11, 2026: Ring Walk Time by Time Zone and How to Watch on Netflix"
-seoTitle: "Fury vs Joshua Dec. 11: Ring Walk Time, Netflix"
-description: "Fury vs Joshua is Fri., Dec. 11, 2026 in Cardiff on Netflix; the planned 1 a.m. Greenwich Mean Time (GMT) ring walk is 8 p.m. Eastern Time (ET) that night."
+title: "Fury vs Joshua Time: Dec. 11, Planned Ring Walk 8 p.m. ET"
+description: "Fury vs Joshua is Fri., Dec. 11, 2026 in Cardiff, streaming on Netflix. The planned ring walk is about 8 p.m. ET; time zone table and printable guide."
 type: explainer
 publishedAt: "2026-11-04T06:40:00-05:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "DeKalb County Schools Calendar 2026-27: Thanksgiving Nov. 23-27, Winter and Spring Breaks"
-seoTitle: "DeKalb County Schools Calendar 2026-27: Breaks"
-description: "DeKalb County School District (DCSD) 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, spring break Apr. 5-9, last day May 27."
+title: "DeKalb County Schools Calendar 2026-27: Winter Break Dec. 21-Jan. 1"
+description: "DeKalb County School District (DCSD) 2026-27 calendar: Thanksgiving break Nov. 23-27, spring break Apr. 5-9. Student return dates after each break."
 type: news
 publishedAt: "2026-11-03T06:00:00-05:00"
 authors: [aaron-kessler]

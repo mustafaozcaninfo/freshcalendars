@@ -1,7 +1,6 @@
 ---
-title: "America Recycles Day 2026: Sunday, Nov. 15, and What Goes in the Bin"
-seoTitle: "America Recycles Day 2026: Sunday, Nov. 15"
-description: "America Recycles Day is Sunday, Nov. 15, 2026, per the U.S. Environmental Protection Agency (EPA). What goes in the bin, local events and a free checklist."
+title: "America Recycles Day 2026: Nov. 15 and What Goes in the Bin"
+description: "America Recycles Day 2026 is Sunday, Nov. 15. See what the U.S. Environmental Protection Agency says goes in the bin, plus a free one-page checklist."
 type: explainer
 publishedAt: "2026-11-04T06:42:00-05:00"
 authors: [christina-gerland]

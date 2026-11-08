@@ -1,6 +1,6 @@
 ---
 title: "Connections #1227 Hints & Answers Today, October 20, 2026"
-description: "Connections #1227 for Tuesday, Oct. 20, 2026: two levels of hints for every group, the traps to avoid, then the full answers in a marked section at the end."
+description: "Connections #1227 hints and answers for Tuesday, Oct. 20, 2026: two hints per group, the traps to avoid, then every answer in a marked spoiler section."
 type: explainer
 publishedAt: "2026-10-20T02:35:00-04:00"
 authors: [news-desk]

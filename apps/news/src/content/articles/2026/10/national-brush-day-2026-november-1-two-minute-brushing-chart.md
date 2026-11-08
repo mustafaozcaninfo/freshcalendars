@@ -1,7 +1,6 @@
 ---
-title: "National Brush Day 2026 Was Sunday, Nov. 1: Two-Minute Brushing Chart and Toothbrush Dates"
-seoTitle: "National Brush Day 2026: Sunday, Nov. 1"
-description: "National Brush Day was Sunday, Nov. 1, 2026, the day after Halloween, per the Academy of General Dentistry (AGD). Toothpaste amounts by age and a 14-day chart."
+title: "National Brush Day 2026: Nov. 1, Toothpaste Amounts and 14-Day Chart"
+description: "National Brush Day was Sunday, Nov. 1, 2026, says the Academy of General Dentistry. Toothpaste amounts by age, when to replace a brush and a 14-day chart."
 type: explainer
 publishedAt: "2026-10-31T16:45:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

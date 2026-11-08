@@ -1,7 +1,6 @@
 ---
-title: "OHSAA Football Playoffs 2026: Regional Quarterfinals Nov. 6, State Finals Dec. 3-5"
-seoTitle: "OHSAA Football Playoffs 2026: Dates and Canton Times"
-description: "The Ohio High School Athletic Association (OHSAA) plays regional quarterfinals Friday, Nov. 6, 2026, at 7 p.m. State finals: Dec. 3-5 in Canton."
+title: "OHSAA Football Playoffs 2026: State Finals Dec. 3-5 in Canton"
+description: "The Ohio High School Athletic Association (OHSAA) football playoffs end with state finals Dec. 3-5 in Canton. Every round, kickoff and ticket price."
 type: news
 publishedAt: "2026-10-31T05:44:00-04:00"
 authors: [jessica-hartwell]

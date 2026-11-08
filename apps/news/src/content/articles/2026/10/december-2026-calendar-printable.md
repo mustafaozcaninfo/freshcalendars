@@ -1,7 +1,6 @@
 ---
-title: "December 2026 Calendar: 16 Free Printable Templates With Holidays, Christmas Countdown and Hanukkah"
-seoTitle: "December 2026 Calendar: 16 Free Printables With Holidays"
-description: "December 2026 starts on Tuesday, Dec. 1 and has one federal holiday, Christmas Day on Friday, Dec. 25. Get 16 free printable December 2026 calendars as PDF."
+title: "December 2026 Calendar: 16 Free Printables, Christmas on Dec. 25"
+description: "December 2026 starts on Tuesday, Dec. 1 and has one federal holiday, Christmas Day, Friday, Dec. 25. 16 free printable PDFs, with a Hanukkah calendar."
 type: explainer
 publishedAt: "2026-10-27T03:00:00-04:00"
 authors: [jessica-hartwell]

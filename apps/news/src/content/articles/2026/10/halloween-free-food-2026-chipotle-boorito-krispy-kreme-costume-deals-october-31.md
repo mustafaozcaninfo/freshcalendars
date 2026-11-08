@@ -1,6 +1,5 @@
 ---
-title: "Halloween Free Food 2026: Krispy Kreme Doughnut Oct. 30-31, Chipotle $6 Boorito After 3 p.m."
-seoTitle: "Halloween Free Food 2026: Krispy Kreme and Chipotle"
+title: "Halloween Free Food 2026: Krispy Kreme Oct. 30-31, Chipotle $6"
 description: "Krispy Kreme's free costume doughnut ran Fri., Oct. 30 and Sat., Oct. 31, 2026; Chipotle's $6 Boorito entree was Oct. 31 from 3 p.m. local time to close."
 type: news
 dateline: "New York"

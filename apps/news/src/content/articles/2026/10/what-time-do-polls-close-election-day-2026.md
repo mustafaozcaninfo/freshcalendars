@@ -1,7 +1,6 @@
 ---
-title: "What Time Do Polls Close on Election Day 2026? Every State's Closing Time in Eastern Time"
-seoTitle: "What Time Do Polls Close? Election Day 2026 by State"
-description: "Polls close between 6 p.m. and 1 a.m. Eastern on Tuesday, Nov. 3, 2026. Every state's closing time, the split time zones and the in-line rule."
+title: "Poll Closing Times by State 2026: 6 p.m. to 1 a.m. Eastern"
+description: "Poll closing times by state 2026: polls closed between 6 p.m. and 1 a.m. Eastern on Tuesday, Nov. 3. Split time zones and the in-line rule explained."
 type: explainer
 publishedAt: "2026-10-20T10:30:00-04:00"
 updatedAt: "2026-11-03T12:48:00-05:00"

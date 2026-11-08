@@ -1,7 +1,6 @@
 ---
-title: "Immaculate Conception 2026: Tuesday, Dec. 8 Is a Holy Day of Obligation"
-seoTitle: "Immaculate Conception 2026: Dec. 8 Holy Day of Obligation"
-description: "Dec. 8, 2026, is a Tuesday and a U.S. holy day of obligation, so Mass is required, says the U.S. Conference of Catholic Bishops (USCCB). Dates to 2031 below."
+title: "Immaculate Conception 2026: Tuesday, Dec. 8, Holy Day of Obligation"
+description: "Dec. 8, 2026, is a Tuesday and a U.S. holy day of obligation, so Mass is required, says the U.S. Conference of Catholic Bishops (USCCB). Dates to 2031."
 type: explainer
 publishedAt: "2026-11-04T07:11:00-05:00"
 updatedAt: "2026-11-04T07:11:00-05:00"

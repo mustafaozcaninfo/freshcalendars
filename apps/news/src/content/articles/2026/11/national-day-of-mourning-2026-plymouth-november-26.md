@@ -1,7 +1,6 @@
 ---
-title: "National Day of Mourning 2026: Noon Nov. 26 on Cole's Hill in Plymouth, and How to Watch"
-seoTitle: "National Day of Mourning 2026: Noon Nov. 26, Plymouth"
-description: "National Day of Mourning 2026 is Nov. 26 at noon Eastern Time (ET) on Cole's Hill, Plymouth, livestreamed, per United American Indians of New England (UAINE)"
+title: "National Day of Mourning 2026: Noon Nov. 26 on Cole's Hill, Livestream"
+description: "National Day of Mourning 2026 is Thursday, Nov. 26 at noon ET on Cole's Hill in Plymouth. Start time in every U.S. time zone and the livestream."
 type: news
 publishedAt: "2026-11-07T07:15:00-05:00"
 updatedAt: "2026-11-07T07:15:00-05:00"

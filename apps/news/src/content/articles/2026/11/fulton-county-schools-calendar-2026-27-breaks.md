@@ -1,7 +1,6 @@
 ---
-title: "Fulton County Schools Calendar 2026-27: Spring Break April 5-9, Last Day May 27"
-seoTitle: "Fulton County Schools Calendar 2026-27: Breaks"
-description: "Fulton County Schools (FCS) 2026-27: winter break Dec. 21-Jan. 4, February break Feb. 15-19, spring break Apr. 5-9, last day Thu., May 27, 2027."
+title: "Fulton County Schools Calendar 2026-27: Spring Break Apr. 5-9"
+description: "Fulton County Schools (FCS) calendar 2026-27: spring break Apr. 5-9, last day May 27. Also the board-approved 2027-28 first day, Aug. 2, 2027."
 type: news
 publishedAt: "2026-11-02T20:48:00-05:00"
 authors: [aaron-kessler]

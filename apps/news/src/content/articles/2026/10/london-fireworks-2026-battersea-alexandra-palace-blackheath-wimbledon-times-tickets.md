@@ -1,7 +1,6 @@
 ---
-title: "London Fireworks 2026: Battersea, Alexandra Palace, Blackheath and Wimbledon Times and Tickets"
-seoTitle: "London Fireworks 2026: Times and Tickets by Venue"
-description: "London's Bonfire Night displays run Thursday 5 to Sunday 8 November 2026; Wimbledon Park opens gates at 5.15pm on 5 November, per Merton Council."
+title: "London Fireworks 2026: Battersea, Alexandra Palace 7 and 8 November"
+description: "London's Bonfire Night fireworks 2026 run Thursday 5 to Sunday 8 November. Times, Battersea tickets from £10.60 and gates for Wimbledon and Blackheath."
 type: news
 publishedAt: "2026-10-29T15:45:00-04:00"
 authors: [christina-gerland]

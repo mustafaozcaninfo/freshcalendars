@@ -1,7 +1,6 @@
 ---
-title: "Poppy Campaign 2026 in Canada Runs Oct. 24 to Nov. 11, a Fixed Period From This Year"
-seoTitle: "Poppy Campaign 2026 Canada: Dates Oct. 24 to Nov. 11"
-description: "The Royal Canadian Legion's National Poppy Campaign runs Oct. 24 to Nov. 11, 2026, a fixed period from this year. It ends on Remembrance Day."
+title: "Poppy Campaign 2026 in Canada: Oct. 24 to Nov. 11, Now Every Year"
+description: "Canada's poppy campaign runs Oct. 24 to Nov. 11, 2026, says the Royal Canadian Legion. The dates are now fixed yearly; a printable timeline is included."
 type: news
 publishedAt: "2026-10-29T11:45:00-04:00"
 updatedAt: "2026-11-01T10:31:00-05:00"

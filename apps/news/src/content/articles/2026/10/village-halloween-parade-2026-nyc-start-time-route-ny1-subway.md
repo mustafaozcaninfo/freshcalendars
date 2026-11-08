@@ -1,7 +1,6 @@
 ---
-title: "Village Halloween Parade 2026: Oct. 31 Time, Sixth Avenue Route, NY1 and Subway Changes"
-seoTitle: "Village Halloween Parade 2026: Time, Route, NY1"
-description: "The 53rd Village Halloween Parade stepped off at 7 p.m. Eastern Time (ET) Saturday, Oct. 31, 2026, on Sixth Avenue in Manhattan. NY1 aired it live at 8 p.m."
+title: "Village Halloween Parade Route 2026: Sixth Avenue, 7 p.m. Step-Off"
+description: "The Village Halloween Parade route ran on Sixth Avenue from King Street to West 15th Street, Oct. 31, 2026. Line-up, TV and subway times in one table."
 type: news
 publishedAt: "2026-10-30T07:40:54-04:00"
 updatedAt: "2026-11-01T05:38:00-05:00"

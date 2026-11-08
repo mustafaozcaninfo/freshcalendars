@@ -1,7 +1,6 @@
 ---
-title: "Canada Budget 2026 Date: Thursday, Nov. 5, and How the Fall Budget Cycle Works"
-seoTitle: "Canada Budget 2026 Date: Thursday, Nov. 5"
-description: "Canada's Budget 2026 was tabled Thursday, Nov. 5, 2026, the Department of Finance Canada said. See the proposed tax dates and the fall budget timeline."
+title: "Canada Budget 2026 Date: Tabled Nov. 5, May 15 Tax Date Proposed"
+description: "Canada's Budget 2026 was tabled Thursday, Nov. 5, 2026, the Department of Finance Canada said. See the proposed May 15 tax date and a dated timeline."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 updatedAt: "2026-11-05T17:30:00-05:00"

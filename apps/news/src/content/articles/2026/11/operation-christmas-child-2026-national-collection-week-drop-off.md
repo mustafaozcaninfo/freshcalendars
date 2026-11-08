@@ -1,7 +1,6 @@
 ---
-title: "Operation Christmas Child 2026: Collection Week Nov. 16-23 and How to Find a Drop-Off"
-seoTitle: "Operation Christmas Child 2026: Collection Week Nov. 16-23"
-description: "Operation Christmas Child's 2026 National Collection Week runs Mon., Nov. 16 to Mon., Nov. 23, per Samaritan's Purse. Find a drop-off and print a pack list."
+title: "Operation Christmas Child 2026: Collection Week Nov. 16-23"
+description: "Operation Christmas Child's 2026 National Collection Week runs Mon., Nov. 16 to Mon., Nov. 23, per Samaritan's Purse. Find a drop-off, print a pack list."
 type: explainer
 publishedAt: "2026-11-06T06:36:00-05:00"
 updatedAt: "2026-11-06T06:36:00-05:00"

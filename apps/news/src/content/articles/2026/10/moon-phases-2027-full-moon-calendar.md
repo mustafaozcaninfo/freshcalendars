@@ -1,7 +1,6 @@
 ---
-title: "Moon Phases 2027: Full Moon Calendar With Dates, Times, Names and Eclipses, Plus Free Printables"
-seoTitle: "Moon Phases 2027: Full Moon Calendar and Dates"
-description: "Every full moon of 2027 with dates, U.S. times and names, plus new moons, eclipses and the Harvest Moon on Sept. 15. Four free moon phase printables."
+title: "2027 Full Moon Dates and Names: Wolf Moon Jan. 22, Cold Moon Dec. 13"
+description: "2027 full moon dates run from the Wolf Moon on Jan. 22 to the Cold Moon on Dec. 13. U.S. times, new moons, eclipses and four free printables."
 type: explainer
 publishedAt: "2026-10-18T11:50:00-04:00"
 updatedAt: "2026-11-03T09:22:00-05:00"

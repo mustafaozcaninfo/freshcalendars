@@ -1,7 +1,6 @@
 ---
-title: "Winnipeg Election 2026: Voting Hours, ID and What to Know on Wednesday, Oct. 28"
-seoTitle: "Winnipeg Election 2026: Voting Hours and ID, Oct. 28"
-description: "Winnipeg votes Wednesday, Oct. 28, 2026, 8 a.m. to 8 p.m. Central Time (CT), says the City. What identification (ID) to bring and the hours in other time zones."
+title: "Winnipeg Election 2026: Gillingham Re-elected With 80,206 Votes"
+description: "Winnipeg election 2026: Scott Gillingham was re-elected mayor on Oct. 28 with 80,206 votes. Voting hours were 8 a.m. to 8 p.m. Central Time, plus ID rules."
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
 updatedAt: "2026-11-01T02:41:00-05:00"

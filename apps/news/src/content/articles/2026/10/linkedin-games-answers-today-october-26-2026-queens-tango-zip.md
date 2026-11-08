@@ -1,6 +1,6 @@
 ---
 title: "LinkedIn Queens, Tango & Zip Answers Today, October 26, 2026"
-description: "LinkedIn's Oct. 26, 2026 puzzles are live: Queens #909, Tango #749, Zip #588. Answers go here once two solutions agree; Sunday's confirmed answers are below."
+description: "LinkedIn games answers for Monday, Oct. 26, 2026: Queens #909, Tango #749 and Zip #588 are live; answers post when two solutions agree. Sunday's are below."
 type: explainer
 publishedAt: "2026-10-25T05:25:00-04:00"
 updatedAt: "2026-10-26T04:15:00-04:00"

@@ -1,7 +1,6 @@
 ---
-title: "Capitol Christmas Tree 2026 Tour: All 21 Stops From Idaho to Maryland, With Dates"
-seoTitle: "Capitol Christmas Tree 2026 Tour Schedule and Stops"
-description: "The 2026 U.S. Capitol Christmas Tree tour began Oct. 29 in Idaho and makes 21 stops in 10 states, ending at Joint Base Andrews, Maryland, on Nov. 19."
+title: "Capitol Christmas Tree 2026 Schedule: 21 Stops, Oct. 29 to Nov. 19"
+description: "The Capitol Christmas Tree 2026 schedule has 21 stops in 10 states, from Oct. 29 in Idaho to Nov. 19 in Maryland. Stops by date and a tracker printable."
 type: news
 publishedAt: "2026-10-31T15:45:00-04:00"
 updatedAt: "2026-11-06T15:29:00-05:00"

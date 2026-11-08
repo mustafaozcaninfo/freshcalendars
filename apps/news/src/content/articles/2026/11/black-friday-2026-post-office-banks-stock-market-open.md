@@ -1,7 +1,6 @@
 ---
-title: "Is the Post Office Open on Black Friday 2026? Mail, Banks and the Stock Market on Nov. 27"
-seoTitle: "Post Office on Black Friday 2026: Mail, Banks, Stocks"
-description: "Black Friday, Nov. 27, 2026, is not on the U.S. Postal Service (USPS) holiday list, and stocks close early at 1 p.m. Eastern Time (ET)."
+title: "Is the Post Office Open on Black Friday 2026? Stocks Close 1 p.m."
+description: "Black Friday, Nov. 27, 2026, is not a U.S. Postal Service holiday; stocks close 1 p.m. ET. A table compares mail, banks and markets with Thanksgiving."
 type: news
 publishedAt: "2026-11-07T13:19:00-05:00"
 updatedAt: "2026-11-07T13:19:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Christmas Lights Switch-Ons 2026 Outside London: Belfast, Newcastle, Cardiff, Manchester"
-seoTitle: "Christmas Lights Switch-Ons 2026 Outside London"
-description: "Belfast switches on Saturday 14 November 2026 at 6.30pm Greenwich Mean Time (GMT), 1:30 p.m. Eastern Time (ET); Cardiff and Newcastle are Thursday 12 November."
+title: "Christmas Lights Switch-Ons 2026 in the UK: Belfast Nov. 14"
+description: "UK Christmas lights switch-ons 2026: Belfast on Saturday 14 November, 6.30pm GMT, 1:30 p.m. ET; Cardiff and Newcastle on 12 November. Dates for each city."
 type: news
 publishedAt: "2026-11-08T07:15:00-05:00"
 updatedAt: "2026-11-08T07:15:00-05:00"

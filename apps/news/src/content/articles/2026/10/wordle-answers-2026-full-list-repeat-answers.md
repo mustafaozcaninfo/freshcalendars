@@ -1,7 +1,6 @@
 ---
-title: "Wordle Answers 2026: Every Word So Far and the 29 Old Answers That Came Back"
-seoTitle: "Wordle Answers 2026: Full List and Repeat Answers"
-description: "The New York Times (NYT) Wordle list for 2026, #1657 to #1964: all 308 answers by month and the 29 past answers that came back, starting with Cigar."
+title: "Wordle Answers 2026: Full List of 308 and 29 Repeat Words"
+description: "Wordle answers 2026, #1657 to #1964: all 308 words by month and the 29 old answers that came back, starting with Cigar, plus a printable list of repeats."
 type: analysis
 publishedAt: "2026-10-26T03:29:00-04:00"
 updatedAt: "2026-11-04T12:50:00-05:00"

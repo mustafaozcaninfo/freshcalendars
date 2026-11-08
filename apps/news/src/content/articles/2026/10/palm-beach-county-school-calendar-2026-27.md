@@ -1,7 +1,6 @@
 ---
-title: "Palm Beach County School Calendar 2026-27: Thanksgiving Week Off, Winter Break and a May 27 Last Day"
-seoTitle: "Palm Beach County School Calendar 2026-27"
-description: "Palm Beach County schools 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, spring break March 22-26 and a May 27, 2027 last day."
+title: "Palm Beach County School Calendar 2026-27: Winter Break Dec. 21-Jan. 1"
+description: "Palm Beach County school calendar 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, spring break March 22-26, last day May 27, 2027."
 type: news
 publishedAt: "2026-10-19T11:12:00-04:00"
 authors: [aaron-kessler]

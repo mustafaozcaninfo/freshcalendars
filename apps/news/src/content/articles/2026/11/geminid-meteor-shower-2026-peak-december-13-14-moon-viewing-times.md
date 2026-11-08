@@ -1,7 +1,6 @@
 ---
-title: "Geminid Meteor Shower 2026 Peaks Dec. 13-14: Moonset Times for 12 U.S. Cities"
-seoTitle: "Geminid Meteor Shower 2026: Peak Night, Moon, Times"
-description: "The American Meteor Society (AMS) lists the 2026 Geminid peak as Dec. 13-14, with a 15% lit Moon. Moonset times for 12 U.S. cities and a viewing checklist."
+title: "Geminid Meteor Shower 2026: Peak Dec. 13-14, Moonset in 12 Cities"
+description: "The 2026 Geminid meteor shower peaks the night of Dec. 13-14, with a 15% lit Moon. Moonset times for 12 U.S. cities and a printable viewing checklist."
 type: explainer
 publishedAt: "2026-11-02T14:30:00-05:00"
 authors: [jessica-hartwell]

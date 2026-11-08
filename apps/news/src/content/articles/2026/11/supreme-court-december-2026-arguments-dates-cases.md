@@ -1,7 +1,6 @@
 ---
-title: "Supreme Court December 2026 Arguments: Dates and Cases From Nov. 30 to Dec. 9"
-seoTitle: "Supreme Court December 2026 Arguments: Dates, Cases"
-description: "The Supreme Court hears eight arguments on six days, Mon., Nov. 30 to Wed., Dec. 9, 2026, from 10 a.m. Eastern Time (ET). Cases, dates and how to listen."
+title: "Supreme Court December 2026 Arguments: Nov. 30 to Dec. 9 Cases"
+description: "The Supreme Court hears eight arguments over six days, Mon., Nov. 30 to Wed., Dec. 9, 2026, at 10 a.m. ET. Each case, time zones and how to listen."
 type: explainer
 publishedAt: "2026-11-06T18:55:00-05:00"
 authors: [christina-gerland]

@@ -1,7 +1,6 @@
 ---
-title: "ACA Open Enrollment 2027 Deadlines by State: When Each State Exchange Closes"
-seoTitle: "ACA Open Enrollment 2027 Deadlines by State"
-description: "Affordable Care Act (ACA) open enrollment for 2027 ends Jan. 15 on HealthCare.gov but Dec. 15 in Idaho and Jan. 31 in California. See 16 state exchanges."
+title: "ACA Open Enrollment 2027 by State: Idaho Dec. 15, California Jan. 31"
+description: "Affordable Care Act (ACA) open enrollment for 2027 ends Jan. 15 on HealthCare.gov, Dec. 15 in Idaho and Jan. 31 in California. See 16 state exchanges."
 type: news
 publishedAt: "2026-11-06T06:00:00-05:00"
 updatedAt: "2026-11-06T06:00:00-05:00"

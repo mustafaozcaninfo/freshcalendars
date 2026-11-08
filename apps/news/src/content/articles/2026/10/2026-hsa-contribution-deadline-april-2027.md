@@ -1,7 +1,6 @@
 ---
-title: "2026 HSA Contribution Deadline Is April 15, 2027: Limits, Catch-Up and Who Qualifies"
-seoTitle: "2026 HSA Contribution Deadline: April 15, 2027"
-description: "The 2026 Health Savings Account (HSA) contribution deadline is Thu., April 15, 2027. IRS limits are $4,400 self-only and $8,750 family; 2027 limits shown too."
+title: "HSA Contribution Deadline 2026: April 15, 2027, Limits $4,400"
+description: "The 2026 Health Savings Account (HSA) deadline is April 15, 2027. Limits are $4,400 self-only and $8,750 family, with 2027 limits of $4,500 and $9,000."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
 authors: [aaron-kessler]

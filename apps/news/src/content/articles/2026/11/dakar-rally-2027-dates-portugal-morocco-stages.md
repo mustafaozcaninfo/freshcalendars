@@ -1,7 +1,6 @@
 ---
-title: "Dakar Rally 2027: Jan. 9-23 From Portugal to Marrakech, Stage Dates"
-seoTitle: "Dakar Rally 2027 Dates, Route and Stages"
-description: "Dakar Rally 2027 runs Jan. 9-23 from Loulé-Faro, Portugal to Marrakech, Morocco: a prologue and 12 stages over 7,824 km, per Reuters and Morocco World News."
+title: "Dakar Rally 2027 Dates: Jan. 9-23, Portugal to Marrakech Stages"
+description: "Dakar Rally 2027 runs Jan. 9-23 from Portugal to Marrakech, Morocco. A prologue, 12 stages, 7,824 km and the Jan. 17 rest day in Agadir, day by day."
 type: news
 publishedAt: "2026-11-04T12:58:00-05:00"
 authors: [jessica-hartwell]

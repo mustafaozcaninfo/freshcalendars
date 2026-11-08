@@ -1,7 +1,6 @@
 ---
-title: "SAVE Plan Deadline: You Have 90 Days From Your Notice to Pick a New Repayment Plan"
-seoTitle: "SAVE Plan Deadline: 90 Days to Pick a New Plan"
-description: "Borrowers in the federal income-driven repayment plan (SAVE) have 90 days from their servicer's notice to pick a new plan, the Education Department says."
+title: "SAVE Plan Deadline: 90 Days From Your Servicer's Notice"
+description: "Borrowers in the federal income-driven repayment plan (SAVE) have 90 days from a servicer's notice to switch. A printable lays out the federal dates."
 type: explainer
 publishedAt: "2026-11-06T13:49:00-05:00"
 authors: [aaron-kessler]

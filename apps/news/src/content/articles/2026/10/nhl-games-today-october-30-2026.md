@@ -1,7 +1,6 @@
 ---
-title: "NHL Games Today: Friday, Oct. 30, 2026 Schedule, 3 Games, Times and TV"
-seoTitle: "NHL Games Today, Oct. 30, 2026: 3 Games and TV"
-description: "National Hockey League (NHL) games today, Fri., Oct. 30, 2026: 3 games from 6:00 p.m. Eastern Time (ET), with arenas, time zones and TV the league lists."
+title: "NHL Games Today, Oct. 30, 2026: 3 Games, First Puck Drop 6:00 p.m. ET"
+description: "NHL games today, Friday, Oct. 30, 2026: 3 games at 6:00, 7:00 and 8:00 p.m. ET. Time-zone table, TV listings, printable score sheet, Saturday's 10 games."
 type: news
 publishedAt: "2026-10-29T19:40:00-04:00"
 authors: [jessica-hartwell]

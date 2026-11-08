@@ -1,7 +1,6 @@
 ---
-title: "Annual Leave 2027: Bank Holiday Bridges for England, Scotland and Northern Ireland"
-seoTitle: "Annual Leave 2027: Bank Holiday Bridges"
-description: "Using gov.uk's 2027 bank holiday dates, 4 days of leave around Easter give 10 days off in England, Wales and Northern Ireland. Tables for each nation."
+title: "Annual Leave 2027: 4 Days Around Easter Give 10 Days Off"
+description: "Annual leave 2027: 4 days of leave from Tuesday 30 March give 10 days off in England and Wales. Tables for each nation and a printable leave planner."
 type: explainer
 publishedAt: "2026-10-31T00:59:00-04:00"
 updatedAt: "2026-11-01T04:47:00-05:00"

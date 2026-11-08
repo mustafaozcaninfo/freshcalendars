@@ -1,7 +1,6 @@
 ---
-title: "Free Christmas Parking 2026: Council Dates in Rugby, Royston, Cheltenham and More"
-seoTitle: "Free Christmas Parking 2026: UK Council Dates by Town"
-description: "Rugby has 14 free parking days from 21 November 2026; Royston is free 23 November to 24 December. Cheltenham, Lyme Regis and Folkestone dates are in the table."
+title: "Free Christmas Parking 2026: Rugby 21 November, Royston 23 November"
+description: "Rugby has 14 free parking days from 21 November 2026; Royston is free 23 November to 24 December. Cheltenham, Lyme Regis and Folkestone dates in a table."
 type: news
 publishedAt: "2026-11-06T12:36:00-05:00"
 updatedAt: "2026-11-06T12:36:00-05:00"

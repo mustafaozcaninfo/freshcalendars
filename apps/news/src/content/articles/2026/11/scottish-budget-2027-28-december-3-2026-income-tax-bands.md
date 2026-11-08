@@ -1,7 +1,6 @@
 ---
-title: "Scottish Budget 2027-28: Thursday 3 December 2026, and the Income Tax Bands Now"
-seoTitle: "Scottish Budget 2027-28: 3 December 2026 and Tax Bands"
-description: "The draft Scottish Budget 2027-28 is set for Thursday 3 December 2026, with Scottish Fiscal Commission (SFC) forecasts the same day. 2026-27 tax bands inside."
+title: "Scottish Budget 2027-28: Thursday 3 December 2026 and Tax Bands"
+description: "The Scottish Budget 2027-28 is set for Thursday 3 December 2026. The 2026-27 income tax bands run from 19% to 48%, with tax worked out at four salaries."
 type: news
 publishedAt: "2026-11-04T09:15:00-05:00"
 authors: [christina-gerland]

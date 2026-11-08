@@ -1,7 +1,6 @@
 ---
-title: "Melbourne Cup 2026 Time: Cup Day First Race Is 6:45 p.m. ET Monday, Nov. 2 in the U.S."
-seoTitle: "Melbourne Cup 2026 Time in the U.S. and UK"
-description: "The 2026 Lexus Melbourne Cup is Tuesday, Nov. 3 in Melbourne, Monday night, Nov. 2 in the U.S. Cup Day's first race is 6:45 p.m. Eastern Time (ET) in the U.S."
+title: "Melbourne Cup 2026 Time: First Race Was 6:45 p.m. ET on Nov. 2"
+description: "The 2026 Melbourne Cup was Tuesday, Nov. 3 in Melbourne, Monday night, Nov. 2 in the U.S., first race 6:45 p.m. ET. Carnival times in ET, PT and UK GMT."
 type: news
 publishedAt: "2026-10-30T12:32:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

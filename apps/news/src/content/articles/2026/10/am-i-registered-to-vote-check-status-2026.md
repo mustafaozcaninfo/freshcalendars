@@ -1,7 +1,6 @@
 ---
-title: "Am I Registered to Vote? Check Your Status Before Election Day, Tue., Nov. 3, 2026"
-seoTitle: "Am I Registered to Vote? Check Status by Nov. 3"
-description: "Election Day is Tue., Nov. 3, 2026. USAGov says to check your voter registration status on Can I Vote, then confirm your address and polling place."
+title: "Am I Registered to Vote? Check Your Status on Can I Vote"
+description: "Check whether you are registered to vote with USAGov's steps: Can I Vote, then your state's election site. Includes a polling place tool and a checklist."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

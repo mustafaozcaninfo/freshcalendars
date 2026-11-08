@@ -1,7 +1,6 @@
 ---
-title: "Black Friday 2026 Deals: Date Is Friday, Nov. 27, Live Countdown and Ad Tracker"
-seoTitle: "Black Friday 2026 Deals: Nov. 27 Date and Countdown"
-description: "Black Friday 2026 is Friday, Nov. 27. Walmart's Black Friday Deals run Nov. 23 to 29 and Target's early deals Nov. 5 to 7. Live countdown and ad tracker."
+title: "Black Friday Ads 2026: Date Is Nov. 27, Walmart Deals Nov. 23-29"
+description: "Black Friday 2026 is Friday, Nov. 27. Ad tracker with Walmart, Target, Best Buy, JCPenney and Kohl's sale dates, Costco prices and a live countdown."
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
 updatedAt: "2026-11-07T15:25:00-05:00"

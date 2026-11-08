@@ -1,7 +1,6 @@
 ---
-title: "New Jersey Sample Ballot 2026: How to Get Yours, the U.S. Senate Candidates and Mail Ballot Rules"
-seoTitle: "New Jersey Sample Ballot 2026: Senate and Mail Ballots"
-description: "New Jersey sample ballots for Nov. 3, 2026 come from your county clerk. The four U.S. Senate candidates, early voting that ended Nov. 1 and mail ballot rules."
+title: "New Jersey Sample Ballot 2026: Get Yours From Your County Clerk"
+description: "New Jersey sample ballots for Nov. 3, 2026 come from your county clerk. Includes the four U.S. Senate candidates and the mail ballot rules."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

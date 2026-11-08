@@ -1,7 +1,6 @@
 ---
-title: "Mexico City Grand Prix 2026: Verstappen Wins, Hamilton Second; Race Time and Schedule"
-seoTitle: "Mexico City Grand Prix 2026: Result and Schedule"
-description: "Max Verstappen won the Mexico City Grand Prix on Nov. 1, 2026, ahead of Lewis Hamilton, Formula 1 (F1) says. The start was 3 p.m. Eastern Standard Time (EST)."
+title: "Mexico City Grand Prix 2026: Verstappen Wins, Hamilton Second"
+description: "Max Verstappen won the Mexico City Grand Prix on Nov. 1, 2026, ahead of Lewis Hamilton. The race started at 3 p.m. EST; session times in U.S. time zones."
 type: news
 publishedAt: "2026-10-25T14:19:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

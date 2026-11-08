@@ -1,7 +1,6 @@
 ---
-title: "Child Benefit Christmas 2026: Paid Early on 24 December, Due Monday 28 December"
-seoTitle: "Child Benefit Christmas 2026: Paid 24 December"
-description: "GOV.UK says Child Benefit due on 28 December 2026 is paid early on 24 December. Payments due 29 December are paid on 30 December in Northern Ireland only."
+title: "Child Benefit Christmas 2026: Due 28 December Paid on 24 December"
+description: "Child Benefit due on 28 December 2026 is paid early on 24 December, says GOV.UK. Four-week amounts of £108.20 and £71.60, plus a printable sheet."
 type: news
 publishedAt: "2026-11-04T09:00:00-05:00"
 authors: [christina-gerland]

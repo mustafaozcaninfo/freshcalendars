@@ -1,6 +1,6 @@
 ---
 title: "Contexto #1494 Hints & Answer Today, October 21, 2026"
-description: "Contexto #1494 for Wednesday, Oct. 21, 2026: graded hints and words that rank close to the secret word, then the answer itself in a marked section at the end."
+description: "Contexto #1494 answer and hints for Wednesday, Oct. 21, 2026: four graded hints and words that rank close to the secret word, then the answer at the end."
 type: explainer
 publishedAt: "2026-10-21T01:20:00-04:00"
 authors: [news-desk]

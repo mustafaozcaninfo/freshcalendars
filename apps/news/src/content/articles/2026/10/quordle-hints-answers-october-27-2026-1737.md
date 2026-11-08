@@ -1,6 +1,6 @@
 ---
 title: "Quordle #1737 Hints & Answers Today, October 27, 2026"
-description: "Quordle #1737 for Tuesday, Oct. 27, 2026: a clue for each of the four words, a starter strategy, then all answers in a marked spoiler section at the very end."
+description: "Quordle hints and answers today, #1737 for Tuesday, Oct. 27, 2026. Clues for all four words and one guess that touches every board, answers hidden last."
 type: explainer
 publishedAt: "2026-10-27T03:05:00-04:00"
 authors: [news-desk]

@@ -1,7 +1,6 @@
 ---
-title: "FPL Deadlines 2026/27: Every Gameweek Deadline in UK and ET Time, Plus Chip Dates"
-seoTitle: "FPL Deadlines 2026/27: Every Gameweek Time"
-description: "The next Fantasy Premier League (FPL) deadline is Gameweek 10, Fri., Nov. 6, 2026, at 6:30 p.m. Greenwich Mean Time (GMT), 1:30 p.m. Eastern Time (ET)."
+title: "FPL Deadlines 2026/27: Gameweek 11 Is Nov. 21, 6 a.m. ET"
+description: "The next Fantasy Premier League (FPL) deadline is Gameweek 11, Sat., Nov. 21, 2026, at 6 a.m. ET. All 38 gameweeks in UK time and ET, plus chip dates."
 type: news
 publishedAt: "2026-10-31T05:45:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

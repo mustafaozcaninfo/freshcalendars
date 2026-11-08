@@ -1,7 +1,6 @@
 ---
-title: "Rosa Parks Day 2026: Tuesday, Dec. 1, and the States That Mark It by Law"
-seoTitle: "Rosa Parks Day 2026: Tue., Dec. 1, by State"
-description: "Rosa Parks Day is Tuesday, Dec. 1, 2026 under Ohio, Texas and Tennessee law; Missouri uses Feb. 4 and Michigan Feb. 8, 2027. None quoted gives a day off."
+title: "Rosa Parks Day 2026: Dec. 1 in Ohio, Texas and Tennessee"
+description: "Rosa Parks Day is Tuesday, Dec. 1, 2026 in Ohio, Texas and Tennessee; Missouri uses Feb. 4, Michigan Feb. 8, 2027. Table by state and a free printable."
 type: explainer
 publishedAt: "2026-11-07T13:19:00-05:00"
 updatedAt: "2026-11-07T13:19:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "How Many Fridays Are in 2027? 53, With Every Weekday and Weekend Count"
-seoTitle: "How Many Fridays Are in 2027? 53, and More"
-description: "2027 has 53 Fridays and 52 of every other weekday, by our count from the Gregorian calendar: 261 weekdays, 104 weekend days and three months with five weekends."
+title: "How Many Fridays Are There in 2027? 53, Plus Weekend Counts"
+description: "2027 has 53 Fridays and 52 of every other weekday. That is 261 weekdays and 104 weekend days, with five full weekends in January, May and October."
 type: explainer
 publishedAt: "2026-11-04T16:44:00-05:00"
 authors: [jessica-hartwell]

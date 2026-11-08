@@ -1,7 +1,6 @@
 ---
-title: "Blue Planet III Episode Guide: Episode 2 on Sunday 8 November, 8pm on BBC One, 3 p.m. ET"
-seoTitle: "Blue Planet III Episode Guide: Next on 8 November"
-description: "Blue Planet III began on British Broadcasting Corporation (BBC) One on 1 Nov; episode 2 is 8 Nov at 8pm Greenwich Mean Time (GMT), 3 p.m. Eastern Time (ET)."
+title: "Blue Planet 3 Tonight: Episode 2 at 8pm on BBC One, 3 p.m. ET"
+description: "Blue Planet 3 episode 2 is on BBC One Sunday 8 November at 8pm UK time, 3 p.m. ET. See the episode guide, US time conversions and dates not yet listed."
 type: news
 publishedAt: "2026-11-01T10:43:00-05:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

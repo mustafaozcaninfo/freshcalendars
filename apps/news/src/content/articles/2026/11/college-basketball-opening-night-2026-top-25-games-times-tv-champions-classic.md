@@ -1,7 +1,6 @@
 ---
-title: "College Basketball Opening Night 2026: Top 25 Games, Times, TV and the Champions Classic"
-seoTitle: "College Basketball Opening Night 2026: Times and TV"
-description: "College basketball tips off Monday, Nov. 2, 2026: No. 1 Florida vs. No. 14 Miami at 6 p.m. Eastern Time (ET) on ESPN2, every ranked game, TV and a printable."
+title: "College Basketball Opening Night 2026: Florida vs. Miami at 6 p.m. ET"
+description: "College basketball opening night was Mon., Nov. 2, 2026: No. 1 Florida vs. No. 14 Miami at 6 p.m. ET on ESPN2. All 18 men's Top 25 games, TV, a printable."
 type: news
 publishedAt: "2026-11-01T01:30:00-05:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Ursid Meteor Shower 2026: Peak Night Dec. 21-22, Moonset Times for 10 U.S. Cities"
-seoTitle: "Ursid Meteor Shower 2026: Peak Night and Moonset Times"
-description: "The American Meteor Society (AMS) puts the 2026 Ursid peak on Dec. 21-22 with an 89% lit Moon. Moonset times for 10 U.S. cities from the U.S. Naval Observatory."
+title: "Ursid Meteor Shower 2026: Peak Dec. 21-22, Moonset in 10 Cities"
+description: "The Ursid meteor shower 2026 peaks the night of Dec. 21-22 with an 89% lit Moon. Moonset times for 10 U.S. cities and a printable viewing sheet."
 type: explainer
 publishedAt: "2026-11-04T06:30:00-05:00"
 authors: [jessica-hartwell]

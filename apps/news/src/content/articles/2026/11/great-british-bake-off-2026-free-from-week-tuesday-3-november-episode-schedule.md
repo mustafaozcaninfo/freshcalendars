@@ -1,7 +1,6 @@
 ---
-title: "Great British Bake Off 2026: Free-From Week on Tuesday 3 November and the Episode Schedule"
-seoTitle: "Bake Off 2026: Free-From Week Tue 3 Nov, Episodes"
-description: "Bake Off Series 17 showed Free-From Party Week on Channel 4 on Tue. 3 Nov 2026: Gabe won Star Baker and Gary left. Netflix has Collection 14 on Fridays."
+title: "Great British Bake Off Free-From Week: Star Baker Gabe, Gary Out"
+description: "Great British Bake Off Free-From Party Week aired Tue. 3 Nov 2026 on Channel 4 as Episode 7 of Series 17. Three episodes remain; Netflix posts Fridays."
 type: news
 publishedAt: "2026-11-01T03:20:00-05:00"
 updatedAt: "2026-11-04T13:40:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "The King's Christmas Message 2026: What Time It Airs in the UK, US, Canada and Australia"
-seoTitle: "King's Christmas Message 2026 Time: UK, US, Canada"
-description: "The King's Christmas message has aired at 3 p.m. UK time by tradition, 10 a.m. Eastern Time (ET) on Fri., Dec. 25, 2026. Royal.uk has not yet announced 2026."
+title: "King's Christmas Message 2026 Time: Not Announced, Usually 3 p.m. UK"
+description: "The King's Christmas message 2026 time is not yet announced. Tradition is 3 p.m. UK, 10 a.m. ET on Dec. 25; a city table and printable convert it."
 type: explainer
 publishedAt: "2026-10-30T15:50:00-04:00"
 authors: [christina-gerland]

@@ -1,6 +1,5 @@
 ---
-title: "Polk County Public Schools Calendar 2026-27: Fall Break, Winter Break and Spring Break"
-seoTitle: "Polk County Schools Calendar 2026-27 Breaks"
+title: "Polk County Schools Calendar 2026-27: Winter Break Dec. 21-Jan. 5"
 description: "Polk County Public Schools (PCPS) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 5 and March 15-19. Students return Jan. 6, 2027; the last day is May 27."
 type: explainer
 publishedAt: "2026-11-04T06:10:00-05:00"

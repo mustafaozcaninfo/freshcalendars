@@ -1,6 +1,6 @@
 ---
 title: "Spelling Bee Hints & Answers Today, November 5, 2026"
-description: "Thursday's Spelling Bee for Nov. 5, 2026 from the New York Times puts P in the middle: 42 words, 249 points and a Genius bar of 174. Hints first, answers last."
+description: "Spelling Bee hints and answers for Nov. 5, 2026: center P, 42 words, 249 points, Genius at 174. A pangram clue and a hint grid come before the answers."
 type: explainer
 publishedAt: "2026-11-04T00:05:00-05:00"
 updatedAt: "2026-11-05T00:51:00-05:00"

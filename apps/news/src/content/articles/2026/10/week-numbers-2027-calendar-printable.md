@@ -1,7 +1,6 @@
 ---
-title: "Week Numbers 2027: Week 1 Starts Jan. 4, 2027 Has 52 Weeks, and Free Printable Calendars With Week Numbers"
-seoTitle: "Week Numbers 2027: Printable Calendars and Full Week List"
-description: "2027 has 52 weeks, and week 1 starts Monday, Jan. 4, under the international standard. Every week's dates, the U.S. count and four free printable calendars."
+title: "Week Numbers 2027: Week 1 Starts Jan. 4, Printable Calendars"
+description: "Week numbers 2027: week 1 starts Monday, Jan. 4, and the year has 52 weeks. Every week's dates, the U.S. count and four free printable calendars."
 type: explainer
 publishedAt: "2026-10-18T11:40:00-04:00"
 updatedAt: "2026-11-05T19:20:00-05:00"

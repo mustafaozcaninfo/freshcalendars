@@ -1,7 +1,6 @@
 ---
-title: "SSI Oct. 30 Was November's Payment, Not Extra: November 2026 Social Security Dates"
-seoTitle: "SSI Oct. 30 and November 2026 Social Security Dates"
-description: "The Supplemental Security Income (SSI) payment on Friday, Oct. 30, 2026, was November's, not an extra check. Here are the Social Security dates for November."
+title: "SSI Payment Oct. 30, 2026: November's Benefit, Not an Extra Check"
+description: "The SSI payment dated Oct. 30, 2026 was November's, moved early because Nov. 1 is a Sunday. Social Security dates: Nov. 3, 10, 18 and 25."
 type: news
 publishedAt: "2026-10-21T09:20:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

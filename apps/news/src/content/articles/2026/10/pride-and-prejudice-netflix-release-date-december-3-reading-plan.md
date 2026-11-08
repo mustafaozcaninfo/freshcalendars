@@ -1,7 +1,6 @@
 ---
-title: "Pride and Prejudice Netflix Release Date: Dec. 3, 2026, Plus a 35-Day Reading Plan"
-seoTitle: "Pride and Prejudice Netflix Release Date: Dec. 3"
-description: "Netflix's six-part Pride and Prejudice, starring Emma Corrin and Jack Lowden, debuts Thu., Dec. 3, 2026. See the cast and a free 35-day plan to read the novel."
+title: "Pride and Prejudice Netflix Release Date: Dec. 3, 35-Day Plan"
+description: "Pride and Prejudice on Netflix debuts Thu., Dec. 3, 2026, with Emma Corrin and Jack Lowden. See what is not announced and a free 35-day reading plan."
 type: news
 publishedAt: "2026-10-28T21:46:00-04:00"
 authors: [jessica-hartwell]

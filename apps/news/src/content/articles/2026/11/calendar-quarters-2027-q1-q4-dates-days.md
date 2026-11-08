@@ -1,7 +1,6 @@
 ---
-title: "2027 Quarters: Q1 to Q4 Start and End Dates, With Day Counts and Tax Due Dates"
-seoTitle: "2027 Quarter Dates: Q1, Q2, Q3, Q4 Start and End"
-description: "Quarter 1 (Q1) 2027 runs Fri., Jan. 1 to Wed., Mar. 31, 90 days; Q2 has 91, Q3 and Q4 92 each. Federal fiscal year and IRS tax quarters differ."
+title: "2027 Quarter Dates: Q1 Is Jan. 1 to Mar. 31, 90 Days"
+description: "The first quarter of 2027 runs Fri., Jan. 1 to Wed., Mar. 31, 90 days. See Q2 to Q4 with weekday counts, plus tax and federal fiscal quarters."
 type: explainer
 publishedAt: "2026-11-04T16:38:00-05:00"
 authors: [jessica-hartwell]

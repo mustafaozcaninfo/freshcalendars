@@ -1,7 +1,6 @@
 ---
-title: "NHL Winter Classic 2027 Is Thursday, Dec. 31, 2026: Avalanche at Mammoth, Start Time by Zone and TV"
-seoTitle: "NHL Winter Classic 2027: Date, Start Time and TV"
-description: "The 2027 Winter Classic is Thursday, Dec. 31, 2026, at 4 p.m. Mountain Time (MT): Avalanche at Mammoth in Salt Lake City, the National Hockey League (NHL) says."
+title: "NHL Winter Classic 2027: Dec. 31 at 4 p.m. MT, Time by Zone and TV"
+description: "The 2027 Winter Classic is Thursday, Dec. 31, 2026, at 4 p.m. Mountain Time: Avalanche at Mammoth in Salt Lake City. Start time by U.S. zone and TV."
 type: news
 publishedAt: "2026-10-26T14:40:00-04:00"
 updatedAt: "2026-11-03T12:29:00-05:00"

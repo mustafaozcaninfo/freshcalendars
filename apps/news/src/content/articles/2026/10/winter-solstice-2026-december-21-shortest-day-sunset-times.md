@@ -1,7 +1,6 @@
 ---
-title: "Winter Solstice 2026: Shortest Day Is Dec. 21 at 3:50 p.m. ET, With Sunset Times for 8 U.S. Cities"
-seoTitle: "Winter Solstice 2026: Shortest Day and Sunset Times"
-description: "The winter solstice is Monday, Dec. 21, 2026 at 3:50 p.m. Eastern Time (ET), 20:50 Coordinated Universal Time (UTC), per the U.S. Naval Observatory (USNO)."
+title: "Winter Solstice 2026: Dec. 21 at 3:50 p.m. ET, Sunset by City"
+description: "The winter solstice 2026 is Monday, Dec. 21 at 3:50 p.m. ET. Times for every U.S. time zone, sunset and daylight for 8 cities, and a printable sheet."
 type: explainer
 publishedAt: "2026-10-30T00:30:00-04:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Denver Nuggets Schedule November 2026: Game Times in MT and ET, TV and Mexico City Game"
-seoTitle: "Nuggets Schedule November 2026: Times, TV, Mexico City"
-description: "The Nuggets host Portland on Mon., Nov. 2, 2026, at 7 p.m. Mountain Time (MT), 9 p.m. Eastern Time (ET). Denver plays 14 games in November, one in Mexico City."
+title: "Nuggets Schedule November 2026: 14 Games, Mexico City on Nov. 7"
+description: "Nuggets November 2026 schedule: 14 games, including the Mexico City game against Indiana on Nov. 7. Mountain and Eastern times, TV and a printable."
 type: news
 publishedAt: "2026-10-30T23:41:00-04:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

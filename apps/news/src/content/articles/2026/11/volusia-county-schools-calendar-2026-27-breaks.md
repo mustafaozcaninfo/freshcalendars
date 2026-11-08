@@ -1,7 +1,6 @@
 ---
-title: "Volusia County Schools Calendar 2026-27: Winter Break, Spring Break and Last Day"
-seoTitle: "Volusia County Schools Calendar 2026-27 Breaks"
-description: "Volusia County Schools 2026-27: Thanksgiving holiday starts Nov. 23, winter Dec. 21, spring March 15. The last day for students is May 26, 2027."
+title: "Volusia County Schools Calendar 2026-27: Last Day May 26, 2027"
+description: "Volusia County Schools calendar 2026-27: Thanksgiving holiday starts Nov. 23, winter Dec. 21, spring March 15. Table counts weekdays off; last day May 26."
 type: news
 publishedAt: "2026-11-04T14:42:00-05:00"
 updatedAt: "2026-11-04T14:42:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "National Dog Show 2026: Thanksgiving Time, TV Channel, Peacock and Oaks Tickets"
-seoTitle: "National Dog Show 2026: Time, TV Channel, Tickets"
-description: "The National Dog Show airs noon to 2 p.m. local time on NBC on Thanksgiving, Thursday, Nov. 26, 2026, after the Macy's parade. In-person dates and tickets here."
+title: "National Dog Show 2026 Time: Noon on NBC Thanksgiving, Nov. 26"
+description: "The National Dog Show 2026 airs noon to 2 p.m. local time on NBC on Thanksgiving, Nov. 26. In-person dates are Nov. 14-15 in Oaks, Pa., with ticket prices."
 type: news
 publishedAt: "2026-11-02T10:18:00-05:00"
 updatedAt: "2026-11-07T17:32:00-05:00"

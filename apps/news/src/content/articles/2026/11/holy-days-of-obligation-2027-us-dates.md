@@ -1,7 +1,6 @@
 ---
-title: "Holy Days of Obligation 2027 in the US: Dates, Weekdays and the All Saints Exception"
-seoTitle: "Holy Days of Obligation 2027 in the US: Dates"
-description: "The 2027 United States Conference of Catholic Bishops (USCCB) calendar marks Jan. 1, Dec. 8 and Dec. 25 as holy days of obligation and lifts All Saints."
+title: "Holy Days of Obligation 2027: Jan. 1, Dec. 8 and Dec. 25"
+description: "Holy days of obligation in 2027 in the US are Jan. 1, Dec. 8 and Dec. 25, and All Saints is lifted. A table by province covers Ascension, May 6 or May 9."
 type: explainer
 publishedAt: "2026-11-04T15:05:00-05:00"
 authors: [jessica-hartwell]

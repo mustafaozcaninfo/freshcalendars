@@ -1,7 +1,6 @@
 ---
-title: "Grand Slam of Darts 2026: Dates Nov. 14-22, 48-Player Format, Prize Money and How to Watch"
-seoTitle: "Grand Slam of Darts 2026: Dates, Prize Money, TV"
-description: "The Professional Darts Corporation (PDC) Grand Slam of Darts runs Nov. 14-22, 2026 in Wolverhampton, England, on Peacock in the U.S. Times not yet announced."
+title: "Grand Slam of Darts 2026: Nov. 14-22, 48 Players, How to Watch"
+description: "Grand Slam of Darts 2026 runs Nov. 14-22 in Wolverhampton, England, with a 48-player field. Peacock streams it in the U.S.; start times not yet announced."
 type: news
 publishedAt: "2026-10-30T15:45:00-04:00"
 updatedAt: "2026-11-06T12:03:00-05:00"

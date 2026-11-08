@@ -1,7 +1,6 @@
 ---
-title: "WWE Events in December 2026: Wrestlepalooza Perth Dec. 12, John Cena Classic Dec. 14"
-seoTitle: "WWE December 2026 Schedule: Dates, Times, Venues"
-description: "World Wrestling Entertainment (WWE) lists Wrestlepalooza: Perth for Sat., Dec. 12, and the John Cena Classic for Mon., Dec. 14 at 6 p.m. Eastern Time (ET)."
+title: "WWE Events December 2026: Perth Dec. 12, John Cena Classic Dec. 14"
+description: "World Wrestling Entertainment (WWE) lists Wrestlepalooza: Perth for Sat., Dec. 12 and John Cena Classic for Mon., Dec. 14, 6 p.m. ET. Venues and times."
 type: news
 publishedAt: "2026-11-06T16:42:00-05:00"
 authors: [jessica-hartwell]

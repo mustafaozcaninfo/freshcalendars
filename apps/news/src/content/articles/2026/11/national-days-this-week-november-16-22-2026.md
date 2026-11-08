@@ -1,7 +1,6 @@
 ---
-title: "National Days This Week, Nov. 16-22, 2026: Every Official Observance by Day"
-seoTitle: "National Days This Week, Nov. 16-22, 2026"
-description: "Thirteen official observances fall on Nov. 16-22, 2026, from International Day for Tolerance on Monday to National Adoption Day on Saturday, with who sets each."
+title: "National Days This Week, Nov. 16-22, 2026: Six on Thursday, Nov. 19"
+description: "Thirteen official observances fall on Nov. 16-22, 2026, from International Day for Tolerance to National Adoption Day, with a printable planner by day."
 type: explainer
 publishedAt: "2026-11-07T06:10:00-05:00"
 authors: [christina-gerland]

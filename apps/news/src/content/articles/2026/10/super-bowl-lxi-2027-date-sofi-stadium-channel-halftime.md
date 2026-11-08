@@ -1,7 +1,6 @@
 ---
-title: "Super Bowl 2027: Super Bowl LXI Date, SoFi Stadium, TV Channel and Halftime Show Status"
-seoTitle: "Super Bowl 2027: LXI Date, Stadium, Channel, Halftime"
-description: "Super Bowl 61 (LXI) is Feb. 14, 2027, at SoFi Stadium, the National Football League (NFL) says, on ESPN and the American Broadcasting Company (ABC)."
+title: "Super Bowl 2027: Feb. 14 at SoFi Stadium, Jay-Z Halftime"
+description: "Super Bowl 2027 (LXI) is Feb. 14 at SoFi Stadium on ESPN and ABC. Jay-Z headlines the halftime show; kickoff time is not yet announced. Printable planner."
 type: explainer
 publishedAt: "2026-10-25T17:02:00-04:00"
 updatedAt: "2026-11-05T12:17:00-05:00"

@@ -1,6 +1,6 @@
 ---
 title: "Quordle #1735 Hints & Answers Today, October 25, 2026"
-description: "Quordle #1735 for Sunday, Oct. 25, 2026: a clue for each of the four words, a starter strategy, then all answers in a marked spoiler section at the very end."
+description: "Quordle hints and answers today, #1735 for Sunday, Oct. 25, 2026. A clue for each word, two ending in Y and two in D, with answers hidden at the end."
 type: explainer
 publishedAt: "2026-10-24T13:45:00-04:00"
 authors: [news-desk]

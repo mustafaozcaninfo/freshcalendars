@@ -1,7 +1,6 @@
 ---
-title: "What Calendar Year Is the Same as 2027? 2021 and 2010 Match Day for Day"
-seoTitle: "What Calendar Year Is the Same as 2027?"
-description: "2021 and 2010 have the same calendar as 2027: all three have 365 days and start on a Friday. Full list of matching years, the next repeat and what to check."
+title: "Years With the Same Calendar as 2027: 2021 and 2010, Next 2038"
+description: "2021 and 2010 have the same calendar as 2027: all three have 365 days and start on a Friday. See 21 matching years, the next repeat and a printable list."
 type: explainer
 publishedAt: "2026-10-23T14:09:00-04:00"
 authors: [jessica-hartwell]

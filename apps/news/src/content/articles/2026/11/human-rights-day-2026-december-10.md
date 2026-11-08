@@ -1,7 +1,6 @@
 ---
-title: "Human Rights Day 2026: Thursday, Dec. 10, and the 30 Rights in the Universal Declaration"
-seoTitle: "Human Rights Day 2026: Thu., Dec. 10 and 30 Articles"
-description: "Human Rights Day is Thursday, Dec. 10, 2026, per the United Nations (UN). The 2026 theme is not yet announced. All 30 articles and a free checklist."
+title: "Human Rights Day 2026: Thursday, Dec. 10, All 30 Articles"
+description: "Human Rights Day 2026 is Thursday, Dec. 10, per the United Nations (UN). The 2026 theme is not yet announced. All 30 articles and a free checklist."
 type: explainer
 publishedAt: "2026-11-04T07:48:00-05:00"
 updatedAt: "2026-11-04T07:48:00-05:00"

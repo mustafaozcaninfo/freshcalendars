@@ -1,7 +1,6 @@
 ---
-title: "Amazon Black Friday 2026: Sale Dates Not Announced Yet, Past Start Dates and Holiday Return Policy"
-seoTitle: "Amazon Black Friday 2026: Dates Not Announced Yet"
-description: "Amazon says Black Friday 2026 is Nov. 27 and early deals are live, but it has not announced the sale window. In 2023 to 2025 it began 7 to 8 days earlier."
+title: "Amazon Black Friday 2026: Sale Dates Not Announced, Past Start Dates"
+description: "Amazon Black Friday 2026 is Nov. 27, but Amazon has not announced the sale window. In 2023 to 2025 it began 7 to 8 days earlier. Printable timeline."
 type: explainer
 publishedAt: "2026-10-26T02:21:00-04:00"
 updatedAt: "2026-10-30T23:45:00-04:00"

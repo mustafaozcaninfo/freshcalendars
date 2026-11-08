@@ -1,7 +1,6 @@
 ---
-title: "Home Depot Black Friday 2026: Sale Nov. 5 to 25, Closed Thanksgiving, Opens 6 a.m. Nov. 27"
-seoTitle: "Home Depot Black Friday 2026: Sale Nov. 5 to 25"
-description: "The Home Depot's Black Friday Savings Event runs Nov. 5 to 25, 2026. Stores are closed on Thanksgiving and open at 6 a.m. on Black Friday, Nov. 27."
+title: "Home Depot Black Friday 2026: Sale Nov. 5 to 25, Open 6 a.m. Nov. 27"
+description: "Home Depot Black Friday 2026 sale runs Nov. 5 to 25. Stores are closed Thanksgiving and open 6 a.m. Nov. 27, with a printable of holiday hours to Dec. 31."
 type: news
 publishedAt: "2026-10-31T21:42:00-04:00"
 authors: [jessica-hartwell]

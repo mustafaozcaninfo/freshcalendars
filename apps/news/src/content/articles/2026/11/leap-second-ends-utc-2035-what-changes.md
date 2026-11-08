@@ -1,7 +1,6 @@
 ---
-title: "Leap Seconds End: UTC Goes Continuous on May 20, 2027, Not 2035"
-seoTitle: "Leap Seconds End: Continuous UTC Starts May 20, 2027"
-description: "Continuous Coordinated Universal Time (UTC) takes effect May 20, 2027, the General Conference on Weights and Measures (CGPM) decided. 2035 was the 2022 limit."
+title: "Leap Second Ends: Continuous UTC Starts May 20, 2027"
+description: "Continuous UTC takes effect May 20, 2027, ending leap seconds. A timeline of the 27 leap seconds added since 1972 shows what changes for timekeeping."
 type: explainer
 publishedAt: "2026-11-05T06:10:00-05:00"
 updatedAt: "2026-11-05T06:10:00-05:00"

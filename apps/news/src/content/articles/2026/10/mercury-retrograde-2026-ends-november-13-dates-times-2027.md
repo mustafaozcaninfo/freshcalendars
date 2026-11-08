@@ -1,7 +1,6 @@
 ---
-title: "Mercury Retrograde 2026: Ends Nov. 13 at About 11 a.m. ET, With Every Date and Time Through 2027"
-seoTitle: "Mercury Retrograde 2026 Ends Nov. 13: Dates and Times"
-description: "Mercury turns direct Nov. 13, 2026, about 11 a.m. Eastern Time (ET), per NASA Jet Propulsion Laboratory (JPL) data. Dates for 2026 and 2027 in ET and PT."
+title: "Mercury Retrograde 2026 Dates: Ends Nov. 13 at About 11 a.m. ET"
+description: "Mercury retrograde 2026 ends Nov. 13 at about 11 a.m. ET. Start and end times for all six 2026 and 2027 periods in ET and PT, plus a printable list."
 type: explainer
 publishedAt: "2026-10-29T10:05:00-04:00"
 authors: [jessica-hartwell]

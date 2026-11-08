@@ -1,7 +1,6 @@
 ---
-title: "2026 RMD Deadline: Dec. 31 for Most Accounts, April 1, 2027 for a First Withdrawal"
-seoTitle: "2026 RMD Deadline: Dec. 31 and April 1, 2027"
-description: "The required minimum distribution (RMD) deadline for 2026 is Thu., Dec. 31, per the IRS. A first RMD for age 73 in 2026 is due Thu., April 1, 2027."
+title: "2026 RMD Deadline: Dec. 31, or April 1, 2027 for a First One"
+description: "The 2026 required minimum distribution (RMD) deadline is Dec. 31. A first RMD at age 73 is due April 1, 2027. Has IRS divisors and a printable checklist."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
 authors: [aaron-kessler]

@@ -1,7 +1,6 @@
 ---
-title: "London to Brighton Veteran Car Run 2026: Sunday 1 November Start Time, Route and Finish"
-seoTitle: "London to Brighton Veteran Car Run 2026: Start Time"
-description: "The London to Brighton Veteran Car Run was due to start in Hyde Park at 6.53am Greenwich Mean Time (GMT) on Sunday 1 November 2026, finishing on Madeira Drive."
+title: "London to Brighton Veteran Car Run 2026: Start 6.53am, 60-Mile Route"
+description: "The London to Brighton Veteran Car Run 2026 was due to start in Hyde Park at 6.53am on Sunday 1 November. A weekend timetable, route and finish times."
 type: news
 publishedAt: "2026-10-28T21:53:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

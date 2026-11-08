@@ -1,7 +1,6 @@
 ---
-title: "New Movies in Theaters November 2026: Release Dates for Hunger Games, Hexed and More"
-seoTitle: "New Movies in Theaters November 2026: Dates"
-description: "Eight films have a November 2026 theater date on studio pages, from Godzilla Minus Zero on Fri., Nov. 6 to Hexed, Hershey and Focker In-Law on Wed., Nov. 25."
+title: "New Movies in Theaters November 2026: Hunger Games on Nov. 20"
+description: "Eight films have a November 2026 theater date, from Godzilla Minus Zero on Nov. 6 to Hexed on Nov. 25. See weekday and release type, plus a free printable."
 type: news
 publishedAt: "2026-10-31T11:50:00-04:00"
 updatedAt: "2026-11-07T05:30:00-05:00"

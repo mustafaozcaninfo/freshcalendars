@@ -1,7 +1,6 @@
 ---
-title: "National Indigenous Veterans Day 2026: Nov. 8 Ceremonies in Ottawa, Toronto and Vancouver"
-seoTitle: "Indigenous Veterans Day 2026: Nov. 8 Ceremonies"
-description: "Indigenous Veterans Day ceremonies are listed for Sunday, Nov. 8, 2026, in Ottawa, Toronto and Vancouver, with start times in Eastern Time and Vancouver time."
+title: "Indigenous Veterans Day 2026: Nov. 8 Ceremony Times by City"
+description: "Indigenous Veterans Day ceremonies are Sunday, Nov. 8, 2026: Ottawa at 10:00 a.m., Toronto at 2 p.m., Vancouver at 10:45 a.m. Times by zone, printable."
 type: news
 publishedAt: "2026-11-08T06:04:00-05:00"
 updatedAt: "2026-11-08T06:04:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Easter Dates 2027 to 2036, With Orthodox Easter Side by Side"
-seoTitle: "Easter Dates 2027 to 2036 and Orthodox Easter"
-description: "Easter 2027 is March 28 in the Western calendar and May 2 for Orthodox churches. A 10-year table to 2036 shows the gap in days and the years that match."
+title: "Catholic Easter 2027 Is March 28; Orthodox Easter Is May 2"
+description: "Catholic Easter 2027 is March 28 in the Western calendar; Orthodox Easter is May 2. A 10-year table to 2036 shows the gap in days and matching years."
 type: explainer
 publishedAt: "2026-11-04T16:38:00-05:00"
 authors: [jessica-hartwell]

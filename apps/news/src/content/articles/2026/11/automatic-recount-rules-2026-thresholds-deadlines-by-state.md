@@ -1,7 +1,6 @@
 ---
-title: "Recount Rules 2026: The Margins That Trigger a Recount in 6 States, and the Deadlines"
-seoTitle: "Recount Rules 2026: Margins and Deadlines in 6 States"
-description: "Arizona Revised Statutes (A.R.S.) 16-661 and Florida law order a recount at 0.5% or less; Ohio uses 0.25% statewide. Florida's results are due Nov. 12."
+title: "Recount Rules 2026: Margins That Trigger One in 6 States"
+description: "A recount is automatic at 0.5% or less in Arizona and Florida, under 0.25% in Ohio statewide. Florida results are due Nov. 12 if ordered. Six states."
 type: explainer
 publishedAt: "2026-11-04T12:42:00-05:00"
 updatedAt: "2026-11-04T12:42:00-05:00"

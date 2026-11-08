@@ -1,7 +1,6 @@
 ---
-title: "Golf Schedule December 2026: Hero World Challenge, Grant Thornton, PNC and TV Times"
-seoTitle: "Golf Schedule December 2026: Dates, Courses, TV Times"
-description: "December 2026 golf: Hero World Challenge Dec. 3-6, Grant Thornton Invitational Dec. 11-13 with Eastern Time (ET) TV windows, and Orlando event week Dec. 17-20."
+title: "Golf Schedule December 2026: Hero World Challenge Dec. 3-6"
+description: "December 2026 golf schedule: Hero World Challenge Dec. 3-6, Grant Thornton Invitational Dec. 11-13, Orlando event week Dec. 17-20, with TV windows."
 type: explainer
 publishedAt: "2026-11-04T06:48:00-05:00"
 authors: [jessica-hartwell]

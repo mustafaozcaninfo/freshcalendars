@@ -1,7 +1,6 @@
 ---
-title: "Leonid Meteor Shower 2026 Peaks Nov. 16-17: Moonset and Moon-Free Hours in 12 U.S. Cities"
-seoTitle: "Leonid Meteor Shower 2026: Peak Night, Moon, Times"
-description: "The Leonids peak Nov. 16-17, 2026, per the American Meteor Society (AMS). The Moon sets between 10:37 p.m. and 12:10 a.m. that night in 12 U.S. cities."
+title: "Leonid Meteor Shower 2026: Peak Nov. 16-17, Moon-Free Hours"
+description: "The 2026 Leonid meteor shower peaks the night of Nov. 16-17. The Moon sets between 10:37 p.m. and 12:10 a.m. in 12 U.S. cities, with moon-free hours."
 type: explainer
 publishedAt: "2026-11-03T06:50:00-05:00"
 updatedAt: "2026-11-03T09:21:00-05:00"

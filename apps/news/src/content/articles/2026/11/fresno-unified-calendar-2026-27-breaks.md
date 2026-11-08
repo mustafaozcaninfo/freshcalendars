@@ -1,7 +1,6 @@
 ---
-title: "Fresno Unified Calendar 2026-27: Winter Break Dec. 21 to Jan. 8, Last Day June 10"
-seoTitle: "Fresno Unified Calendar 2026-27: Breaks and Last Day"
-description: "Fresno Unified School District (FUSD) has no school Nov. 23-27, Dec. 21 to Jan. 8 and March 22-29; the last day is June 10, 2027, per its calendar."
+title: "Fresno Unified Calendar 2026-27: Winter Break Dec. 21 to Jan. 8"
+description: "Fresno Unified School District (FUSD) calendar 2026-27: winter break Dec. 21 to Jan. 8, last day June 10. Every student day off in one table."
 type: news
 publishedAt: "2026-11-05T06:50:00-05:00"
 authors: [aaron-kessler]

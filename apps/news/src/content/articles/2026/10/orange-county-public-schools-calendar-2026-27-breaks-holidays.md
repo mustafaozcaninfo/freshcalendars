@@ -1,7 +1,6 @@
 ---
-title: "Orange County Public Schools Calendar 2026-27: Thanksgiving Break Nov. 23-27 and Key Dates"
-seoTitle: "OCPS Calendar 2026-27: Printable PDF, Breaks and Holidays"
-description: "Orange County Public Schools (OCPS) calendar 2026-27 as a free one-page PDF: Thanksgiving break Nov. 23-27, winter break Dec. 21 to Jan. 1, last day May 26."
+title: "OCPS Calendar 2026-27: Thanksgiving Nov. 23-27, Free PDF"
+description: "Orange County Public Schools (OCPS) calendar 2026-27 as a free one-page PDF: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, last day May 26."
 type: news
 publishedAt: "2026-10-31T13:20:00-04:00"
 updatedAt: "2026-11-08T07:24:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Day to End Violence Against Women 2026: Wed., Nov. 25, and the 16 Days to Dec. 10"
-seoTitle: "Violence Against Women Day 2026: Nov. 25 to Dec. 10"
-description: "The UN marks the International Day for the Elimination of Violence against Women on Wed., Nov. 25, 2026, and the 16 Days run to Dec. 10. Hotline and calendar."
+title: "Violence Against Women Day 2026: Nov. 25, 16 Days to Dec. 10"
+description: "The UN marks the International Day for the Elimination of Violence against Women on Wed., Nov. 25, 2026; the 16 Days run to Dec. 10. Hotline and calendar."
 type: explainer
 publishedAt: "2026-11-04T12:39:00-05:00"
 updatedAt: "2026-11-04T12:39:00-05:00"

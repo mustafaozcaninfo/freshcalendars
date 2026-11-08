@@ -1,6 +1,5 @@
 ---
-title: "Word of the Year 2026: Every Dictionary's Pick So Far and When the Rest Announce"
-seoTitle: "Word of the Year 2026: Picks So Far and What's Next"
+title: "Word of the Year 2026: Maxxing, Mogging and Picks Still to Come"
 description: "Dictionary.com chose \"maxxing\" and Collins \"mogging\" for 2026. Cambridge, Oxford University Press (OUP) and Merriam-Webster have not announced yet."
 type: news
 publishedAt: "2026-11-06T22:42:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "US-Dubai Time Difference After Nov. 1, 2026: New York Is 9 Hours Behind the UAE"
-seoTitle: "US-Dubai Time Difference After Nov. 1, 2026"
-description: "New York, on Eastern Time (ET), is 9 hours behind Dubai from Nov. 1, 2026 as US clocks fall back. Tables for every US zone, Saudi Arabia, Israel and Egypt."
+title: "US-Dubai Time Difference: New York 9 Hours Behind, Was 8"
+description: "New York is 9 hours behind Dubai from Nov. 1, 2026, up from 8, because Dubai keeps one time all year. Tables for Riyadh, Tel Aviv and Cairo too."
 type: explainer
 publishedAt: "2026-10-31T14:23:00-04:00"
 updatedAt: "2026-11-01T05:45:00-05:00"

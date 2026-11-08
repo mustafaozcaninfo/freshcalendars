@@ -1,7 +1,6 @@
 ---
-title: "Canada Holiday Light Shows 2026: Canyon Lights, Zoolights and VanDusen Dates and Hours"
-seoTitle: "Canada Holiday Light Shows 2026: Dates and Hours"
-description: "Calgary's Zoolights opens Nov. 13, 2026, Canyon Lights at Capilano Nov. 20 and VanDusen's Festival of Lights Nov. 27, according to each official site."
+title: "Canada Holiday Light Shows 2026: Opening Nov. 13, 20 and 27"
+description: "Canada's holiday light shows 2026 start with Zoolights Nov. 13, Canyon Lights Nov. 20 and VanDusen Nov. 27. A table gives hours and Dec. 25 closings."
 type: news
 publishedAt: "2026-11-06T06:10:00-05:00"
 authors: [christina-gerland]

@@ -1,6 +1,6 @@
 ---
 title: "NYT Crossword Answers Today, November 3, 2026"
-description: "The New York Times (NYT) Crossword for Tuesday, Nov. 3, 2026: a hint for all 74 of Victor Schmitt's clues, ten question-mark tricks explained, then answers."
+description: "New York Times (NYT) Crossword answers for Tuesday, Nov. 3, 2026: a hint for all 74 clues, ten question-mark tricks explained, then the answers."
 type: explainer
 publishedAt: "2026-11-06T12:35:00-05:00"
 authors: [news-desk]

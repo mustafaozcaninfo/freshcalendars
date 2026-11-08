@@ -1,7 +1,6 @@
 ---
-title: "Hyde Park Winter Wonderland 2026: Dates, Opening Times Day by Day and Tickets"
-seoTitle: "Winter Wonderland 2026: Dates, Opening Times, Tickets"
-description: "Hyde Park Winter Wonderland 2026 opens Thursday, Nov. 19 and runs to Sunday, Jan. 3, 2027, closed Dec. 25. Opening times in Greenwich Mean Time (GMT) by date."
+title: "Hyde Park Winter Wonderland 2026: Nov. 19 to Jan. 3, Opening Times"
+description: "Hyde Park Winter Wonderland 2026 opens Thursday, Nov. 19 and runs to Sunday, Jan. 3, 2027, closed Dec. 25. Day-by-day opening times and ticket slots."
 type: news
 publishedAt: "2026-10-27T21:42:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

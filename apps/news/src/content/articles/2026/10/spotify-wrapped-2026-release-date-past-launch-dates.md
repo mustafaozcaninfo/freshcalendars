@@ -1,7 +1,6 @@
 ---
-title: "Spotify Wrapped 2026 Release Date: Not Announced Yet, With Every Launch Date Since 2020"
-seoTitle: "Spotify Wrapped 2026 Release Date: Not Announced Yet"
-description: "Spotify says Wrapped season is almost here but has not announced the 2026 date. Wrapped went live on a Wednesday from 2021 to 2025; see all six launch dates."
+title: "Spotify Wrapped 2026 Release Date: Not Announced, Past Dates"
+description: "Spotify has not announced the Wrapped 2026 release date. Wrapped went live on a Wednesday from 2021 to 2025; see all six launch dates and a printable."
 type: explainer
 publishedAt: "2026-10-25T23:20:00-04:00"
 updatedAt: "2026-11-06T12:02:00-05:00"

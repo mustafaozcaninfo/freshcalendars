@@ -1,7 +1,6 @@
 ---
-title: "Pasco County Schools Calendar 2026-27: Winter Break, Spring Break and Last Day"
-seoTitle: "Pasco County Schools Calendar 2026-27 Breaks"
-description: "Pasco County Schools 2026-27: no school Dec. 21-Jan. 4 and March 22-26, 2027. Students start Aug. 13 and finish May 28; two Fridays depend on storm make-up."
+title: "Pasco County Schools Calendar 2026-27: Winter Break Dec. 21-Jan. 4"
+description: "Pasco County Schools calendar 2026-27: no school Dec. 21-Jan. 4 and March 22-26. Students start Aug. 13 and finish May 28; two Fridays may be off."
 type: news
 publishedAt: "2026-11-04T14:40:00-05:00"
 updatedAt: "2026-11-04T14:40:00-05:00"

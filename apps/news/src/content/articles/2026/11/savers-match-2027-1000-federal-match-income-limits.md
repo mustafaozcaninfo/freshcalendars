@@ -1,7 +1,6 @@
 ---
-title: "Saver's Match 2027: $1,000 Federal Retirement Match, Income Limits and When It Pays"
-seoTitle: "Saver's Match 2027: $1,000 Match and Income Limits"
-description: "The Internal Revenue Service (IRS) says the Saver's Match pays up to $1,000 per person on 2027 savings; income limits use modified adjusted gross income (MAGI)."
+title: "Saver's Match 2027: $1,000 Federal Match and Income Limits"
+description: "The Saver's Match pays up to $1,000 per person on 2027 retirement savings, per the IRS; rules are not final. Income limits and a match-rate table."
 type: explainer
 publishedAt: "2026-11-07T06:10:00-05:00"
 authors: [aaron-kessler]

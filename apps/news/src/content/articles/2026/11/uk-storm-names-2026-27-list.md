@@ -1,7 +1,6 @@
 ---
-title: "UK Storm Names 2026-27: The Full List, From Austen and Boelo to Wende"
-seoTitle: "UK Storm Names 2026-27: Full List and Next Name"
-description: "The 2026-27 UK storm names run from Austen to Wende, 21 in all. Austen and Boelo are used; the Met Office shows the next name as Chloe (5 November 2026)."
+title: "UK Storm Names 2026-27: Full List and Next Name, Chloe"
+description: "UK storm names 2026-27 run from Austen to Wende, 21 in all. Austen and Boelo are named; Chloe is next as of Nov. 5. See who submitted each name."
 type: explainer
 publishedAt: "2026-11-05T06:00:00-05:00"
 authors: [christina-gerland]

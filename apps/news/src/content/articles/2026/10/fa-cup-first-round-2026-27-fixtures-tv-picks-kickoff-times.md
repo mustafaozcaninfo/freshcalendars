@@ -1,7 +1,6 @@
 ---
-title: "FA Cup First Round 2026-27: TV Picks, Kick-Off Times in UK and US, All 40 Ties"
-seoTitle: "FA Cup First Round 2026: TV Picks and Kick-Off Times"
-description: "The FA Cup first round runs Nov. 6-9, 2026, with 8 ties on live UK television; times in Greenwich Mean Time (GMT), Eastern Time (ET) and Pacific Time (PT)."
+title: "FA Cup First Round 2026-27: 8 TV Ties, Kick-Off Times in UK and US"
+description: "The FA Cup first round runs Nov. 6-9, 2026, with 8 ties on live UK TV. Kick-off times in UK, Eastern and Pacific time, plus all 40 ties and the next draw."
 type: news
 publishedAt: "2026-10-27T17:42:00-04:00"
 updatedAt: "2026-11-08T07:24:00-05:00"

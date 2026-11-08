@@ -1,7 +1,6 @@
 ---
-title: "Thanksgiving Break 2026: Dates for 49 School Districts, From Full Week to Two Days Off"
-seoTitle: "Thanksgiving Break 2026 Dates by School District"
-description: "Thanksgiving break 2026: 31 of 49 school districts are off Nov. 23-27, 11 from Nov. 25, and seven, including New York City and Chicago, only Nov. 26-27."
+title: "Thanksgiving 2026 School Break: 31 of 49 Districts Off Nov. 23-27"
+description: "Thanksgiving 2026 school break: 31 of 49 districts are off Nov. 23-27, 11 from Nov. 25, and seven only Nov. 26-27. A free printable lists every district."
 type: news
 updatedAt: "2026-11-04T19:21:00-05:00"
 publishedAt: "2026-10-22T13:10:00-04:00"

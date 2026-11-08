@@ -1,7 +1,6 @@
 ---
-title: "Planets Visible in November 2026: Night Sky Calendar With the Moon, Venus and Uranus Opposition"
-seoTitle: "Planets Visible in November 2026: Night Sky Calendar"
-description: "The crescent Moon is about 1° from Venus before sunrise on Nov. 7, and Uranus reaches opposition on Nov. 25. A table from NASA Jet Propulsion Laboratory data."
+title: "Planets Visible in November 2026: Uranus Opposition Nov. 25"
+description: "Planets visible in November 2026: Uranus reaches opposition Nov. 25 and the Moon passed about 1° from Venus Nov. 7. A day-by-day sky table."
 type: explainer
 publishedAt: "2026-10-28T07:45:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

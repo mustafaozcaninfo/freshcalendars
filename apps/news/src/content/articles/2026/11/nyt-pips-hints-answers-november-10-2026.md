@@ -1,6 +1,6 @@
 ---
 title: "NYT Pips Hints & Answers Today, November 10, 2026"
-description: "Pips for Tuesday, Nov. 10, 2026: a Hard board with six cells that add up to 0, opening moves, two hints per level, then every Easy, Medium and Hard placement."
+description: "Pips hints and answers for Tuesday, Nov. 10, 2026: a Hard board with six cells that add up to 0, opening moves, two hints per level, then every placement."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"
 authors: [news-desk]

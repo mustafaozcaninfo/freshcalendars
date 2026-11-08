@@ -1,7 +1,6 @@
 ---
-title: "Mavericks Schedule November 2026: Game Times, TV and NBA Cup Games"
-seoTitle: "Mavericks Schedule November 2026: Times, TV, Cup"
-description: "The Mavericks host Sacramento on Mon., Nov. 2, 2026, at 7 p.m. Central Time (CT), 8 p.m. Eastern Time (ET), the first of 14 November games."
+title: "Mavericks Schedule November 2026: 14 Games With CT and ET Times"
+description: "Mavericks November 2026 schedule: 14 games from Nov. 2 to Nov. 30, seven at home. Central and Eastern times, national TV, three NBA Cup games, printable."
 type: news
 publishedAt: "2026-11-02T11:21:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

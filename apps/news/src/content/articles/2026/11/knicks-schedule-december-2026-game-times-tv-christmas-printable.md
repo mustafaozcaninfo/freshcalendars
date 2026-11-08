@@ -1,7 +1,6 @@
 ---
-title: "Knicks Schedule December 2026: Game Times in ET, TV and the Christmas Day Game"
-seoTitle: "Knicks Schedule December 2026: Times, TV, Christmas"
-description: "The New York Knicks play 12 games in December 2026 and host San Antonio on Christmas Day at noon Eastern Time (ET), per the National Basketball Association."
+title: "Knicks Schedule December 2026: 12 Games, Christmas Day at 12 p.m. ET"
+description: "The Knicks play 12 games in December 2026, including Christmas Day, Dec. 25, at 12 p.m. ET against San Antonio. Game times, TV and a free printable."
 type: news
 publishedAt: "2026-11-02T11:25:00-05:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Miami Dolphins Schedule 2026: Remaining Games, Times in ET, CT and PT, TV"
-seoTitle: "Dolphins Schedule 2026: Remaining Games, Times, TV"
-description: "The Dolphins next play the Lions on Sun., Nov. 8, 2026, at 1 p.m. Eastern Time (ET) on FOX. All 10 remaining games with times, TV and a printable."
+title: "Miami Dolphins Schedule 2026: Lions Nov. 8, 10 Games Left"
+description: "The Dolphins host the Lions on Sun., Nov. 8, 2026, at 1 p.m. ET on FOX. All 10 remaining games with times in ET, CT and PT, TV channels and a printable."
 type: news
 publishedAt: "2026-11-01T18:40:00-05:00"
 updatedAt: "2026-11-05T12:13:00-05:00"

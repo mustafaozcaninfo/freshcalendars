@@ -1,7 +1,6 @@
 ---
-title: "FSA Deadline 2026: Use-It-or-Lose-It Rules, the $680 Carryover and Grace Period"
-seoTitle: "FSA Deadline 2026: Use It or Lose It, $680 Carryover"
-description: "Money in a health flexible spending arrangement (FSA) is use-it-or-lose-it unless your plan allows a $680 carryover or a 2½-month grace period, IRS says."
+title: "FSA Deadline 2026: $680 Carryover, Grace Period to March 15"
+description: "Health flexible spending arrangement (FSA) money is use-it-or-lose-it unless a plan allows a $680 carryover or 2½-month grace period. Limit: $3,400."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
 updatedAt: "2026-11-06T00:36:00-05:00"

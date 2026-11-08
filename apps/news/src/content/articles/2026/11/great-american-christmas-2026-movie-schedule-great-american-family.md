@@ -1,7 +1,6 @@
 ---
-title: "Great American Christmas 2026 Schedule: 15 Dated Premieres, Oct. 31 to Dec. 19"
-seoTitle: "Great American Christmas 2026 Movie Schedule"
-description: "Great American Family lists 15 dated Christmas premieres from Oct. 31 to Dec. 19, 2026, plus 3 undated movies. See every date, the count and a printable."
+title: "Great American Christmas 2026 Schedule: 15 Premieres by Date"
+description: "Great American Christmas 2026 schedule: 15 dated premieres run Oct. 31 to Dec. 19, plus 3 undated movies. Every date and a printable 18-title checklist."
 type: news
 publishedAt: "2026-11-01T11:30:00-05:00"
 authors: [jessica-hartwell]

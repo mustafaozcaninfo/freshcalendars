@@ -1,7 +1,6 @@
 ---
-title: "Tricare Open Season 2026: Nov. 9 to Dec. 8 Dates, Who Can Change Plans for 2027"
-seoTitle: "Tricare Open Season 2026: Nov. 9 to Dec. 8 Dates"
-description: "Tricare Open Season 2026 runs Monday, Nov. 9 to Tuesday, Dec. 8, per Tricare. Changes take effect Jan. 1, 2027. See who is eligible and how to change plans."
+title: "Tricare Open Season 2026: Nov. 9 to Dec. 8, Changes Start Jan. 1"
+description: "Tricare Open Season 2026 runs Monday, Nov. 9 to Tuesday, Dec. 8. Changes take effect Jan. 1, 2027. See who can change plans and who is outside it."
 type: news
 publishedAt: "2026-11-08T06:12:00-05:00"
 updatedAt: "2026-11-08T06:12:00-05:00"

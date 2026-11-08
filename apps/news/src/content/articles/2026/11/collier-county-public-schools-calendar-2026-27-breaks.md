@@ -1,7 +1,6 @@
 ---
-title: "Collier County Public Schools Calendar 2026-27: Fall, Winter and Spring Break Dates"
-seoTitle: "Collier County Schools Calendar 2026-27 Breaks"
-description: "Collier County Public Schools (CCPS) has no school Nov. 23-27, Dec. 21-Jan. 4 and March 22-29, per its 2026-27 calendar. The last student day is May 27."
+title: "CCPS Calendar 2026-27: Fall Break Nov. 23-27, Last Day May 27"
+description: "Collier County Public Schools (CCPS) calendar 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and March 22-29. Last student day is May 27."
 type: news
 publishedAt: "2026-11-05T06:10:00-05:00"
 authors: [aaron-kessler]

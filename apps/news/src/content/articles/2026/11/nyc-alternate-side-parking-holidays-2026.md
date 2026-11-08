@@ -1,7 +1,6 @@
 ---
-title: "NYC Alternate Side Parking Suspended: Holiday Dates Left in 2026"
-seoTitle: "NYC Alternate Side Parking Suspended: 2026 Dates"
-description: "Alternate Side Parking (ASP) is suspended in NYC on Nov. 11, Nov. 26, Dec. 8 and Dec. 25, 2026, per the New York City Department of Transportation (DOT)."
+title: "NYC Alternate Side Parking 2026: Nov. 11, Nov. 26, Dec. 8, Dec. 25"
+description: "Alternate Side Parking holidays left in 2026 in NYC: Nov. 11, Nov. 26, Dec. 8 and Dec. 25. See which dates also suspend meters, plus a printable list."
 type: explainer
 publishedAt: "2026-11-04T11:57:00-05:00"
 updatedAt: "2026-11-04T11:57:00-05:00"

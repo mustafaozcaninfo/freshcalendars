@@ -1,7 +1,6 @@
 ---
-title: "Long Weekends 2027: How to Turn 10 Days of Paid Time Off Into 27 Days Off"
-seoTitle: "Long Weekends 2027: 10 PTO Days Into 27 Days Off"
-description: "Using the 2027 federal holidays from the Office of Personnel Management (OPM), 10 paid time off (PTO) days make 27 days off in four blocks. Dates to request."
+title: "Long Weekends 2027: 10 PTO Days Make 27 Days Off"
+description: "Ten paid time off (PTO) days make 27 days off in 2027 on the federal holiday schedule. Bridge days to request, from Nov. 12 and Nov. 26 to Christmas."
 type: explainer
 publishedAt: "2026-10-31T00:58:00-04:00"
 authors: [jessica-hartwell]

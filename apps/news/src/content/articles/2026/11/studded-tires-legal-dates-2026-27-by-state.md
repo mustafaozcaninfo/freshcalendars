@@ -1,7 +1,6 @@
 ---
-title: "Studded Tire Dates 2026-27 by State: When Studs Are Legal From Oct. 1 to May 31"
-seoTitle: "Studded Tire Dates 2026-27 by State"
-description: "Studded tires are legal in Washington and Oregon from Nov. 1 through March 31, per state transportation departments. See 2026-27 dates for 10 states."
+title: "Studded Tire Dates 2026-27: Washington, Oregon Nov. 1 to March 31"
+description: "Studded tires are legal in Washington and Oregon from Nov. 1 through March 31, 2027. The table gives each confirmed state's first and last legal day."
 type: news
 publishedAt: "2026-11-08T06:10:00-05:00"
 authors: [christina-gerland]

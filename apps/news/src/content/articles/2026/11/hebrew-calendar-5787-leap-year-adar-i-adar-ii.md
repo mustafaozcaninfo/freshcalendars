@@ -1,7 +1,6 @@
 ---
-title: "Hebrew Year 5787 Is a Leap Year: Adar I, Adar II and Purim 2027"
-seoTitle: "Hebrew Year 5787 Leap Year: Adar I and Adar II"
-description: "Hebrew year 5787 is a leap year with 13 months, per Chabad.org and the Union for Reform Judaism (URJ). Adar I starts Feb. 8, 2027 and Adar II on March 10."
+title: "Hebrew Year 5787 Leap Year: Adar I Feb. 8, Adar II March 10"
+description: "Hebrew year 5787 is a leap year with 13 months. Adar I starts Feb. 8, 2027 and Adar II March 10. All 13 months in Gregorian dates, plus a printable."
 type: explainer
 publishedAt: "2026-11-04T15:56:00-05:00"
 updatedAt: "2026-11-04T15:56:00-05:00"

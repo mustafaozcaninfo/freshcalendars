@@ -1,7 +1,6 @@
 ---
-title: "Children's Book Week November 2026: Nov. 9-15 Dates, Theme and a Printable Reading Log"
-seoTitle: "Children's Book Week November 2026: Nov. 9-15 Dates"
-description: "Children's Book Week runs Nov. 9-15, 2026, per Video Librarian and Delaware's state library guide. Theme: Books: Get Curious. Day table and free reading log."
+title: "Children's Book Week November 2026: Nov. 9-15, Free Reading Log"
+description: "Children's Book Week runs Nov. 9-15, 2026, with the theme Books: Get Curious. A day-by-day table, a countdown and a free printable reading log."
 type: news
 publishedAt: "2026-11-08T06:56:00-05:00"
 updatedAt: "2026-11-08T06:56:00-05:00"

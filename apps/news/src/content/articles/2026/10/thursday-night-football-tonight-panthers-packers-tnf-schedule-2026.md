@@ -1,7 +1,6 @@
 ---
-title: "Thursday Night Football: Panthers at Packers Oct. 29, Time, Channel and TNF Schedule"
-seoTitle: "Thursday Night Football: Panthers at Packers Oct. 29"
-description: "Thursday Night Football (TNF): Panthers at Packers on Oct. 29, 2026, 8:15 p.m. Eastern Time (ET) on Prime Video, with every U.S. zone and the full TNF schedule."
+title: "Thursday Night Football: Packers 27, Panthers 19 on Oct. 29"
+description: "Thursday Night Football: the Packers beat the Panthers 27-19 on Oct. 29, 2026. Kickoff was 8:15 p.m. ET on Prime Video; the Thursday schedule to Dec. 31."
 type: news
 publishedAt: "2026-10-27T21:40:00-04:00"
 updatedAt: "2026-11-05T12:23:00-05:00"

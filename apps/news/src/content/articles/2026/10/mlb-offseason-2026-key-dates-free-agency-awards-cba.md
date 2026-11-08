@@ -1,7 +1,6 @@
 ---
-title: "MLB Offseason 2026 Key Dates: Free Agency Start, Awards Schedule, Winter Meetings and CBA Expiration"
-seoTitle: "MLB Offseason 2026 Key Dates: Free Agency, Awards, CBA"
-description: "Major League Baseball (MLB) free agency opened Thursday, Oct. 29, 2026, the day after the Brewers won the World Series; awards run Nov. 1 to 17, per MLB.com."
+title: "MLB Offseason Calendar 2026: Awards Nov. 1-17, Opening Day Mar. 25"
+description: "The MLB offseason calendar for 2026 began with free agency on Oct. 29. Awards run Nov. 1 to 17. Winter dates, Opening Day 2027 and a free printable."
 type: explainer
 publishedAt: "2026-10-27T10:08:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Monday Night Football: Bills at Vikings, Nov. 9, 8:15 p.m. ET, Channels and Times"
-seoTitle: "Monday Night Football: Bills at Vikings, Nov. 9"
-description: "Monday Night Football is the Buffalo Bills at the Minnesota Vikings on Mon., Nov. 9, 2026, at 8:15 p.m. Eastern Time (ET) on ESPN, per NFL.com and the Bills."
+title: "Monday Night Football: Bills at Vikings Nov. 9, 8:15 p.m. ET"
+description: "Monday Night Football is Bills at Vikings on Mon., Nov. 9, 2026, at 8:15 p.m. ET on ESPN. Kickoff in every U.S. zone and the UK, plus a watch guide."
 type: news
 publishedAt: "2026-11-05T12:14:00-05:00"
 updatedAt: "2026-11-05T12:33:00-05:00"

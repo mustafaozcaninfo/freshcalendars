@@ -1,7 +1,6 @@
 ---
 title: "I'm A Celebrity 2026 Start Date: Monday 16 November at 9pm on ITV1"
-seoTitle: "I'm A Celebrity 2026 Start Date, Time and Channel"
-description: "I'm A Celebrity 2026 starts Monday, 16 November at 9pm Greenwich Mean Time (GMT) on ITV1, Capital and What To Watch report, a day later than first planned."
+description: "I'm A Celebrity 2026 starts Monday, 16 November at 9pm GMT on ITV1, a day later than first planned after an England match clash. Ant and Dec host again."
 type: news
 publishedAt: "2026-11-06T13:49:00-05:00"
 authors: [jessica-hartwell]

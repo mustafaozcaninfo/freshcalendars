@@ -1,7 +1,6 @@
 ---
-title: "U.S. Figure Skating Championships 2027: Jan. 5-10 in Utah, Schedule and How to Watch"
-seoTitle: "US Figure Skating Championships 2027: Dates, TV"
-description: "The 2027 U.S. Figure Skating Championships run Jan. 5-10 at the Maverik Center in Utah; NBC Sports lists NBC, Peacock and NBC Sports Network (NBCSN)."
+title: "U.S. Figure Skating Championships 2027: Jan. 5-10 in Utah, on NBC"
+description: "The 2027 U.S. Figure Skating Championships run Jan. 5-10 in Utah. NBC Sports lists NBC, Peacock and NBC Sports Network (NBCSN). Day-by-day plan, tickets."
 type: news
 publishedAt: "2026-11-04T18:20:00-05:00"
 authors: [jessica-hartwell]

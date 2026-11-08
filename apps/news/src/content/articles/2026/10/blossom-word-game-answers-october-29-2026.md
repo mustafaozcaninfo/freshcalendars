@@ -1,6 +1,6 @@
 ---
 title: "Blossom Hints & Answers Today, October 29, 2026"
-description: "Blossom for Thursday, Oct. 29, 2026: today's center letter V and six petals, words to try, hints for the six everyday pangrams, then the answers at the end."
+description: "Blossom answers for Thursday, Oct. 29, 2026: center letter V, petals E, G, I, N, R and T, words to try and hints for six pangrams, answers at the end."
 type: explainer
 publishedAt: "2026-10-29T07:24:00-04:00"
 authors: [news-desk]

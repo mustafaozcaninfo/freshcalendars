@@ -1,7 +1,6 @@
 ---
-title: "Minnesota Ballot 2026: U.S. Senate, Governor and a School Fund Amendment on Nov. 3"
-seoTitle: "Minnesota Ballot 2026: Senate, Governor, Amendment"
-description: "Minnesota votes Nov. 3, 2026 on U.S. Senate, governor and one constitutional amendment. Early voting ends Nov. 2, and polls open 7 a.m. to 8 p.m."
+title: "Minnesota Ballot 2026: Senate, Governor and a School Fund Amendment"
+description: "Minnesota voted Nov. 3, 2026 on U.S. Senate, governor and one constitutional amendment. Early voting ended Nov. 2; polls were open 7 a.m. to 8 p.m."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

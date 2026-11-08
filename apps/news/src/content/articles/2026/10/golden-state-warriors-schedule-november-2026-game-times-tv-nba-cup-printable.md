@@ -1,7 +1,6 @@
 ---
-title: "Golden State Warriors Schedule November 2026: Game Times in PT and ET, TV and NBA Cup"
-seoTitle: "Warriors Schedule November 2026: Times, TV, Cup"
-description: "The Warriors host Phoenix on Mon., Nov. 2, 2026, at 7 p.m. Pacific Time (PT), 10 p.m. Eastern Time (ET), with all 14 November games and times."
+title: "Warriors Schedule November 2026: All 14 Game Times in PT and ET"
+description: "Warriors schedule November 2026: 14 games, 8 at home. Times in PT and ET, national TV on three, NBA Cup games Nov. 13, 25 and 27, and a printable."
 type: explainer
 publishedAt: "2026-10-31T01:40:00-04:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

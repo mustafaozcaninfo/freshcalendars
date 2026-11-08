@@ -1,7 +1,6 @@
 ---
-title: "California Propositions 2026: All 14 Measures on the Nov. 3 Ballot, What Yes and No Mean, and Key Dates"
-seoTitle: "California Propositions 2026: All 14 Explained"
-description: "California's Nov. 3, 2026 ballot has 14 propositions, from housing bonds to voter ID and a billionaire tax. What yes and no mean, plus mail ballot rules."
+title: "California Propositions 2026: All 14 and What Yes or No Means"
+description: "California's Nov. 3, 2026 ballot had 14 propositions, from an $11.25 billion housing bond to voter ID and a one-time billionaire tax. What yes and no mean."
 type: explainer
 publishedAt: "2026-10-20T11:05:00-04:00"
 authors: [christina-gerland]

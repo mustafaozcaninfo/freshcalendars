@@ -1,7 +1,6 @@
 ---
-title: "Canelo vs. M'Billi Result: Canelo Beats M'Billi to Reclaim WBC Title"
-seoTitle: "Canelo vs. M'Billi Result: Canelo Reclaims WBC Title"
-description: "Canelo Alvarez beat Christian M'Billi by unanimous decision in Riyadh on Oct. 31, 2026, reclaiming the World Boxing Council (WBC) super-middleweight title."
+title: "Canelo vs. M'Billi Time: Ring Walk 4 p.m. ET, 1 p.m. Pacific"
+description: "Canelo vs. M'Billi ring walk was 4 p.m. ET, 1 p.m. Pacific, on Oct. 31, 2026. Canelo won by unanimous decision. Times for seven zones and the $79.99 price."
 type: news
 publishedAt: "2026-10-30T21:44:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"

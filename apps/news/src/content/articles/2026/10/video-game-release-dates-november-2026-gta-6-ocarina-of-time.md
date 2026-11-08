@@ -1,7 +1,6 @@
 ---
-title: "Video Game Release Dates November 2026: GTA 6, Ocarina of Time and Every Confirmed Date"
-seoTitle: "Video Game Release Dates November 2026: Confirmed"
-description: "Grand Theft Auto (GTA) VI launches Thursday, Nov. 19, 2026, says Rockstar Games. Eight confirmed November games, with weekdays, platforms and Eastern Time (ET)."
+title: "Video Game Release Dates November 2026: GTA 6 on Nov. 19"
+description: "Grand Theft Auto (GTA) VI launches Thu., Nov. 19, 2026, says Rockstar Games. Eight confirmed November games with weekdays, platforms and a printable."
 type: news
 publishedAt: "2026-10-31T14:23:00-04:00"
 authors: [jessica-hartwell]

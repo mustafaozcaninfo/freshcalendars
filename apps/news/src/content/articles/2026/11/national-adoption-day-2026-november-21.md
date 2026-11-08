@@ -1,7 +1,6 @@
 ---
-title: "National Adoption Day 2026: Saturday, Nov. 21, Court Finalization Events"
-seoTitle: "National Adoption Day 2026: Saturday, Nov. 21"
-description: "National Adoption Day 2026 is Saturday, Nov. 21, says the coalition site. Courts finalize adoptions from state care around that day. Dates to 2031 and events."
+title: "National Adoption Day 2026: Saturday, Nov. 21, Dates to 2031"
+description: "National Adoption Day 2026 is Saturday, Nov. 21, per nationaladoptionday.org. Courts finalize adoptions of children in state care. Dates to 2031, events."
 type: explainer
 publishedAt: "2026-11-04T07:50:00-05:00"
 updatedAt: "2026-11-04T07:50:00-05:00"

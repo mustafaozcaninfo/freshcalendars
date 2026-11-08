@@ -1,7 +1,6 @@
 ---
-title: "Car Loan Interest Deduction 2026: Up to $10,000, Who Qualifies and a Phase-Out Table"
-seoTitle: "Car Loan Interest Deduction 2026: Who Qualifies"
-description: "The Internal Revenue Service (IRS) lets buyers deduct up to $10,000 a year of car loan interest for 2025 to 2028, phasing out above $100,000 income."
+title: "Car Loan Interest Deduction 2026: Up to $10,000, Phase-Out Table"
+description: "The IRS lets buyers deduct up to $10,000 of car loan interest for 2025 to 2028, phasing out above $100,000 income. Has a phase-out table and checklist."
 type: explainer
 publishedAt: "2026-11-06T09:20:00-05:00"
 updatedAt: "2026-11-06T09:20:00-05:00"

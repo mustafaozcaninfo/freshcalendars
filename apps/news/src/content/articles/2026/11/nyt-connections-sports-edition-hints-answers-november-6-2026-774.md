@@ -1,6 +1,6 @@
 ---
 title: "Connections Sports Edition #774 Answers, November 6, 2026"
-description: "Connections: Sports Edition #774 for Friday, Nov. 6, 2026, from The Athletic and New York Times (NYT) Games: two hints per group, answers and a roster check."
+description: "Connections: Sports Edition #774 hints and answers for Friday, Nov. 6, 2026, from The Athletic and New York Times (NYT) Games, with a roster check."
 type: explainer
 publishedAt: "2026-11-06T07:45:00-05:00"
 updatedAt: "2026-11-06T07:45:00-05:00"

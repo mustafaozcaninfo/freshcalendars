@@ -1,7 +1,6 @@
 ---
-title: "New on Prime Video November 2026: Rings of Power Season 3 on Nov. 11, Blade Runner 2099 on Nov. 25"
-seoTitle: "New on Prime Video November 2026: Release Dates"
-description: "Amazon dates The Rings of Power season 3 for Wed., Nov. 11, 2026 and Blade Runner 2099 for Wed., Nov. 25. See every Prime Video November date in one table."
+title: "Amazon Prime Video November 2026: Rings of Power Nov. 11"
+description: "Amazon Prime Video November 2026: Rings of Power season 3 premieres Wed., Nov. 11, Blade Runner 2099 on Nov. 25. A dated table of every title, a printable."
 type: news
 publishedAt: "2026-10-26T01:09:00-04:00"
 authors: [jessica-hartwell]

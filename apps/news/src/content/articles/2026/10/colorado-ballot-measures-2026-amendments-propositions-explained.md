@@ -1,7 +1,6 @@
 ---
-title: "Colorado Ballot Measures 2026: All 14 Amendments and Propositions on the Nov. 3 Ballot"
-seoTitle: "Colorado Ballot Measures 2026: All 14 Explained"
-description: "Colorado's Nov. 3, 2026 ballot has 14 statewide measures, per the Blue Book. Ballots must reach the county clerk by 7 p.m. Mountain Time (MT); mail is too late."
+title: "Colorado Ballot Measures 2026: All 14, With the 7 p.m. Deadline"
+description: "Colorado's Nov. 3, 2026 ballot had 14 statewide measures, per the Blue Book. Mail ballots had to arrive by 7 p.m. Mountain Time; postmarks did not count."
 type: explainer
 publishedAt: "2026-10-31T14:40:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

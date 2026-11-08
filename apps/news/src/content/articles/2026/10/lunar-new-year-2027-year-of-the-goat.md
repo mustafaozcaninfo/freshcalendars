@@ -1,7 +1,6 @@
 ---
-title: "Lunar New Year 2027 Is Saturday, Feb. 6: Year of the Goat Dates, Zodiac Chart and Free Printable Calendars"
-seoTitle: "Chinese New Year 2027: Feb. 6, Year of the Goat"
-description: "Chinese New Year 2027 falls on Saturday, Feb. 6, starting the Year of the Fire Goat. Festival dates, Seollal on Feb. 7, a zodiac chart and four printables."
+title: "Chinese New Year 2027: Feb. 6, Year of the Goat, Zodiac Chart"
+description: "Chinese New Year 2027 is Saturday, Feb. 6, the start of the Year of the Goat. Seollal is Feb. 7; a zodiac chart from 1924 to 2031 and four printables."
 type: explainer
 publishedAt: "2026-10-18T12:00:00-04:00"
 updatedAt: "2026-11-03T15:20:00-05:00"

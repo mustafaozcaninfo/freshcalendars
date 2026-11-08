@@ -1,7 +1,6 @@
 ---
-title: "Dependent Care FSA Limit Is $7,500 in 2026: What Changes for 2027 Open Enrollment"
-seoTitle: "Dependent Care FSA Limit: $7,500 for 2026 and 2027"
-description: "The dependent care flexible spending account (FSA) limit is $7,500 in 2026, up from $5,000, under federal law, and the amendment has no inflation adjustment."
+title: "Dependent Care FSA Limit 2027: $7,500, Same as 2026"
+description: "The dependent care flexible spending account (FSA) limit is $7,500 for 2026 and stays $7,500 in 2027 unless Congress acts. Printable checklist included."
 type: explainer
 publishedAt: "2026-11-04T21:07:00-05:00"
 updatedAt: "2026-11-06T15:29:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "BCPS Calendar 2026-27: Winter Break Dec. 24 to Jan. 1, Spring Break March 22-29"
-seoTitle: "Baltimore County BCPS Calendar 2026-27: Breaks, Last Day"
-description: "Baltimore County Public Schools (BCPS) 2026-27: off Nov. 26-27 for Thanksgiving, Dec. 24 to Jan. 1 and March 22-29; last day June 17 or June 14."
+title: "BCPS Calendar 2026-27: Winter Break Dec. 24-Jan. 1, Last Day June 17"
+description: "Baltimore County Public Schools (BCPS) calendar 2026-27: off Nov. 26-27, Dec. 24 to Jan. 1 and March 22-29. Last day June 17, or June 14 with no closures."
 type: news
 publishedAt: "2026-11-03T08:36:00-05:00"
 updatedAt: "2026-11-07T07:20:00-05:00"

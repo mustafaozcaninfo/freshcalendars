@@ -1,7 +1,6 @@
 ---
-title: "Movember 2026 Runs Nov. 1 to 30: Clean-Shaven Start, the 60 km Move Challenge and a Free Tracker"
-seoTitle: "Movember 2026 Dates: Nov. 1 to 30 and the Move Tracker"
-description: "Movember 2026 runs Sunday, Nov. 1 to Monday, Nov. 30. Start clean shaven, see the 60 km vs 60 miles Move difference and get a free 30-day printable tracker."
+title: "Movember 2026 Dates: Nov. 1 to 30, 60 km Move Challenge Tracker"
+description: "Movember 2026 runs Sunday, Nov. 1 to Monday, Nov. 30. Start clean shaven; the Move challenge is 60 km or 60 miles. Free 30-day printable tracker."
 type: explainer
 publishedAt: "2026-10-27T21:45:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "W-2 and 1099 Deadline 2027: Forms Due Feb. 1 Because Jan. 31 Falls on a Sunday"
-seoTitle: "W-2 and 1099 Deadline 2027: Due Feb. 1"
-description: "Forms W-2 and 1099-NEC for tax year 2026 are due Monday, Feb. 1, 2027, says the Internal Revenue Service (IRS), because Jan. 31 is a Sunday. See every date."
+title: "W-2 and 1099 Deadline 2027: Due Feb. 1, With Dates by Form"
+description: "W-2 and 1099-NEC forms for tax year 2026 are due Monday, Feb. 1, 2027, as Jan. 31 is a Sunday. Dates by form, the Nov. 19 e-file cutoff and penalties."
 type: news
 publishedAt: "2026-11-02T06:10:00-05:00"
 authors: [aaron-kessler]

@@ -1,6 +1,5 @@
 ---
-title: "HCPSS Calendar 2026-27: Howard County Winter Break, Spring Break and Last Day"
-seoTitle: "HCPSS Calendar 2026-27: Breaks and Last Day"
+title: "HCPSS Calendar 2026-27: Winter Break Dec. 24-Jan. 1, Last Day June 8"
 description: "Howard County Public School System (HCPSS) 2026-27: winter break Dec. 24-Jan. 1, spring break Mar. 22-29, last scheduled day Tuesday, June 8, 2027."
 type: explainer
 publishedAt: "2026-11-04T14:55:00-05:00"

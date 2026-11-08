@@ -1,7 +1,6 @@
 ---
-title: "NHL Hometown Remix Jerseys 2026-27: First Games Nov. 4 and 5, Unveil in November, Dates by Team"
-seoTitle: "NHL Hometown Remix Jerseys: Game Dates by Team"
-description: "First announced Hometown Remix games: Nov. 4 and 5. The National Hockey League (NHL) says all 32 jerseys are unveiled in November; full dates by team."
+title: "NHL Hometown Remix Jerseys Release Date: November, Games by Team"
+description: "NHL Hometown Remix jerseys are unveiled in November, with no exact day announced. A dated table lists 37 games from four teams, the first on Nov. 4 and 5."
 type: news
 publishedAt: "2026-10-27T19:42:00-04:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Bayern vs. Dortmund: Der Klassiker Finished 2-2 at the Allianz Arena on Oct. 31"
-seoTitle: "Bayern vs. Dortmund: Der Klassiker Ends 2-2"
-description: "Bayern Munich and Borussia Dortmund drew 2-2 in Der Klassiker at the Allianz Arena on Saturday, Oct. 31, 2026. Goalscorers and the last five meetings."
+title: "Bayern vs. Dortmund: 2-2 Draw on Oct. 31, Goals and Last 5 Meetings"
+description: "Bayern vs. Dortmund ended 2-2 at the Allianz Arena on Sat., Oct. 31, 2026. Goals from Laimer, Guirassy, Upamecano and Silva and the last five meetings."
 type: news
 publishedAt: "2026-10-31T11:15:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"

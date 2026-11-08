@@ -1,7 +1,6 @@
 ---
-title: "Champions League Schedule November 2026: Matchday 4 and 5 Kickoff Times in ET, PT and UK Time"
-seoTitle: "Champions League November 2026 Schedule, Times in ET"
-description: "Champions League matchday 4 is Nov. 3-4 and matchday 5 is Nov. 24-25, 2026, at 12:45 and 3 p.m. Eastern Time (ET), or 9:45 a.m. and noon Pacific Time (PT)."
+title: "Champions League Fixtures November 2026: Matchday 5 on Nov. 24-25"
+description: "Champions League fixtures for November 2026: matchday 5 is Nov. 24-25 at 12:45 p.m. or 3 p.m. ET. The table converts all 36 games to Pacific and UK time."
 type: news
 publishedAt: "2026-10-28T15:50:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

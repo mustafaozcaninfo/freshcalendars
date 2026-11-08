@@ -1,7 +1,6 @@
 ---
-title: "When Is Election Day 2026 in Michigan? Tuesday, Nov. 3: Ballot, Candidates and Key Dates"
-seoTitle: "Election Day 2026 in Michigan: Tuesday, Nov. 3"
-description: "Election Day 2026 in Michigan is Tuesday, Nov. 3. See polling hours, absentee deadlines, the certified candidates and both ballot proposals."
+title: "Election Day 2026 in Michigan: Nov. 3, Polls Open 7 a.m. to 8 p.m."
+description: "Election Day 2026 in Michigan was Tuesday, Nov. 3. Polling hours, the absentee deadline, certified candidates and both statewide ballot proposals."
 type: explainer
 publishedAt: "2026-10-20T11:15:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

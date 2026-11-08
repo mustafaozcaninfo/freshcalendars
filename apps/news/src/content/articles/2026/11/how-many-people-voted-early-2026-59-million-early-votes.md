@@ -1,7 +1,6 @@
 ---
-title: "How Many People Voted Early in 2026? 59 Million Ballots Before Election Day, by State"
-seoTitle: "How Many People Voted Early in 2026? 59 Million"
-description: "The University of Florida (UF) Election Lab counted 59,014,258 early votes as of 8:21 a.m. Eastern Time (ET) on Nov. 3, 2026. Totals for every state and D.C."
+title: "How Many People Voted Early in 2026: 59,014,258 Ballots Counted"
+description: "59,014,258 people had voted early in 2026 as of 8:21 a.m. ET on Nov. 3, per the University of Florida Election Lab. Totals for every state and D.C."
 type: analysis
 publishedAt: "2026-11-03T08:26:00-05:00"
 authors: [christina-gerland]

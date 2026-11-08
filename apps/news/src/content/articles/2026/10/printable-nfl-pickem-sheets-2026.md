@@ -1,7 +1,6 @@
 ---
-title: "Printable NFL Pick'em Sheets 2026: Free Weekly PDFs, Confidence, Office Pool and Survivor"
-seoTitle: "Printable NFL Pick'em Sheets 2026: Free Weekly PDFs"
-description: "Free National Football League (NFL) pick'em sheets for 2026, updated weekly: classic, confidence, office pool and survivor PDFs with Eastern Time (ET) kickoffs."
+title: "Printable NFL Pick'em Sheets 2026: Weekly, Confidence, Survivor"
+description: "Free printable NFL pick'em sheets for 2026, updated weekly: classic, confidence, office pool and survivor PDFs in US Letter and A4 with ET kickoffs."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
 updatedAt: "2026-11-05T03:18:00-05:00"

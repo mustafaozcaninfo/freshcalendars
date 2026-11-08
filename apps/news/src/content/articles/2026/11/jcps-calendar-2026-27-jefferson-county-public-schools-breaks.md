@@ -1,7 +1,6 @@
 ---
-title: "JCPS Calendar 2026-27: Winter Break Dec. 21 to Jan. 1, Last Day of School May 24"
-seoTitle: "JCPS Calendar 2026-27: Breaks and Last Day"
-description: "Jefferson County Public Schools (JCPS) in Louisville, 2026-27: winter break Dec. 21 to Jan. 1, spring break Mar. 29 to Apr. 2, last day for students May 24."
+title: "JCPS Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Last Day May 24"
+description: "Jefferson County Public Schools (JCPS) 2026-27: winter break Dec. 21-Jan. 1, spring break Mar. 29-Apr. 2, last day May 24, plus teacher-only days."
 type: news
 publishedAt: "2026-11-03T08:40:00-05:00"
 authors: [aaron-kessler]

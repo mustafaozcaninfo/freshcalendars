@@ -1,7 +1,6 @@
 ---
-title: "Veterans Day Free Meals 2026: 48 Chains, Freebies and a Printable List"
-seoTitle: "Veterans Day Free Meals 2026: 48 Chains + Freebies"
-description: "48 chains confirmed free Veterans Day meals for Wednesday, Nov. 11, 2026, plus 16 discounts, Great Clips cards through Dec. 4, ID rules and a printable list."
+title: "Veterans Day Free Meals 2026: 48 Chains and 16 Discounts, Printable"
+description: "48 chains offer Veterans Day free meals on Wednesday, Nov. 11, 2026, and 16 more give discounts. ID rules, offers past the day and a printable list."
 type: update
 publishedAt: "2026-10-20T16:55:00-04:00"
 updatedAt: "2026-11-08T07:24:00-05:00"

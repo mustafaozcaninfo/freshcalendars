@@ -1,7 +1,6 @@
 ---
-title: "NCAA Volleyball Tournament 2026: Round Dates and the Dec. 17-20 Finals in San Antonio"
-seoTitle: "NCAA Volleyball Tournament 2026 Schedule and Dates"
-description: "National Collegiate Athletic Association (NCAA) volleyball 2026: semifinals Thu., Dec. 17 and final Sun., Dec. 20 at the Alamodome in San Antonio, per ESPN."
+title: "NCAA Volleyball Tournament 2026: Dates and Dec. 17-20 Finals"
+description: "National Collegiate Athletic Association (NCAA) volleyball 2026: semifinals Thu., Dec. 17, final Sun., Dec. 20 in San Antonio. Round dates and a printable."
 type: explainer
 publishedAt: "2026-11-06T06:00:00-05:00"
 updatedAt: "2026-11-06T06:00:00-05:00"

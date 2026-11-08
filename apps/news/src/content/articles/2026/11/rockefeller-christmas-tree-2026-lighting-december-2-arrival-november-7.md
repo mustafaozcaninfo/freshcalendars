@@ -1,7 +1,6 @@
 ---
-title: "Rockefeller Christmas Tree 2026: Arrives Nov. 7, Lighting Wednesday, Dec. 2"
-seoTitle: "Rockefeller Tree Lighting 2026: Dec. 2, Arrives Nov. 7"
-description: "The 2026 Rockefeller Center Christmas Tree arrives Nov. 7 and the lighting is Wednesday, Dec. 2, from 7 to 10 p.m. Eastern Time (ET), per Rockefeller Center."
+title: "Rockefeller Christmas Tree Lighting 2026: Dec. 2, 7 p.m. ET"
+description: "The 2026 Rockefeller Center Christmas Tree lighting is Wednesday, Dec. 2, 7 to 10 p.m. ET. Start time in each time zone and the tree's Nov. 7 arrival."
 type: news
 publishedAt: "2026-11-06T13:44:00-05:00"
 authors: [christina-gerland]

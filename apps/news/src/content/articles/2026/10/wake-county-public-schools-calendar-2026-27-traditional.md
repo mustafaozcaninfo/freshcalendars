@@ -1,7 +1,6 @@
 ---
-title: "Wake County Public Schools Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Spring Break Mar. 29-Apr. 2"
-seoTitle: "WCPSS Calendar 2026-27: Traditional Breaks"
-description: "Wake County Public School System (WCPSS) traditional calendar 2026-27: first day Aug. 24, winter break Dec. 21-Jan. 1, spring break Mar. 29-Apr. 2, ends June 8."
+title: "WCPSS Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Last Day June 8"
+description: "Wake County Public School System (WCPSS) traditional calendar 2026-27: winter break Dec. 21-Jan. 1, spring break Mar. 29-Apr. 2. We count 30 weekdays off."
 type: news
 publishedAt: "2026-10-26T22:39:00-04:00"
 authors: [aaron-kessler]

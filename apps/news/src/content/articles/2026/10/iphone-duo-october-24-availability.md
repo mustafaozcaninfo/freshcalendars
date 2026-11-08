@@ -1,7 +1,6 @@
 ---
-title: "iPhone Duo US Availability: On Sale Since Oct. 23, Price From $1,999 and Store Pickup"
-seoTitle: "iPhone Duo Availability: US Price and Store Pickup"
-description: "iPhone Duo went on sale in the US on Oct. 23. Prices start at $1,999. How to check Apple Store pickup, and what to confirm before you buy."
+title: "iPhone Duo Availability: On Sale Oct. 23 From $1,999 in the US"
+description: "iPhone Duo went on sale in the US on Oct. 23, from $1,999. Prices for 256GB to 2TB, plus what Apple said about Apple Store pickup and walk-in stock."
 type: news
 publishedAt: "2026-10-23T10:50:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

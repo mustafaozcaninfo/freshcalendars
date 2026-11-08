@@ -1,7 +1,6 @@
 ---
-title: "Canada Post Holiday Shipping Deadlines 2026: Dec. 3 for Africa Small Packets, Dec. 23 for Priority"
-seoTitle: "Canada Post Holiday Shipping Deadlines 2026"
-description: "Canada Post's 2026 Christmas send-by dates run from Dec. 3 (cards and small packets to Africa) to Dec. 23 (Priority). Santa letters must go by Dec. 9."
+title: "Canada Post Santa Letters 2026: Mail by Dec. 9, Other Deadlines"
+description: "Canada Post says letters to Santa must go by Wednesday, Dec. 9, 2026. A table lists every Christmas send-by date, Dec. 3 to Dec. 23, plus a printable."
 type: explainer
 publishedAt: "2026-10-26T02:20:00-04:00"
 authors: [christina-gerland]

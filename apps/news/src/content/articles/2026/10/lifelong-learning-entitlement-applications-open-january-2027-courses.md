@@ -1,7 +1,6 @@
 ---
-title: "Lifelong Learning Entitlement Applications Open: Courses Starting 1 January to 31 August 2027"
-seoTitle: "Lifelong Learning Entitlement Applications Open Now"
-description: "Applications for the Lifelong Learning Entitlement (LLE) opened on 30 October 2026 for courses starting 1 January to 31 August 2027, GOV.UK says."
+title: "Lifelong Learning Entitlement Applications Open 30 October 2026"
+description: "Lifelong Learning Entitlement (LLE) applications opened 30 October 2026 for courses from 1 January to 31 August 2027. Route table, key numbers, checklist."
 type: news
 publishedAt: "2026-10-30T10:22:00-04:00"
 updatedAt: "2026-11-01T10:30:00-05:00"

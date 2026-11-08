@@ -1,6 +1,6 @@
 ---
 title: "Letter Boxed Hints & Answer Today, November 10, 2026"
-description: "Letter Boxed from The New York Times (NYT) for Tuesday, Nov. 10, 2026, par 6: sides E/T/O, H/R/A, V/U/I and N/C/Q, 22 two-word routes, hints, then the answer."
+description: "Letter Boxed from The New York Times (NYT) for Tuesday, Nov. 10, 2026, par 6: sides E/T/O, H/R/A, V/U/I, N/C/Q, 22 two-word routes, then the answer."
 type: explainer
 publishedAt: "2026-11-09T00:05:00-05:00"
 updatedAt: "2026-11-09T00:05:00-05:00"

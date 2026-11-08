@@ -1,7 +1,6 @@
 ---
-title: "UK and Europe Turned Clocks Back Oct. 25, a Week Before the U.S.: What Happened to the Time Difference"
-seoTitle: "UK Clocks Changed October 2026: Back One Hour Oct. 25"
-description: "Britain and the EU ended summer time on Sunday, Oct. 25, 2026; the U.S. followed on Nov. 1. For one week London was 4 hours ahead of New York instead of 5."
+title: "UK Clock Change October 2026: Back Oct. 25, U.S. Nov. 1"
+description: "UK clocks went back one hour on Sunday, Oct. 25, 2026; the U.S. followed on Nov. 1. London was 4 hours ahead of New York that week. Spring dates for 2027."
 type: news
 publishedAt: "2026-10-18T04:20:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

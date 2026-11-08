@@ -1,6 +1,6 @@
 ---
 title: "Wordle #1975 Hints & Answer Today, November 15, 2026"
-description: "Hints for Wordle #1975 on Sunday, Nov. 15, 2026, including its opening cluster, followed by the answer and a count of earlier answers that differ in one place."
+description: "Wordle #1975 hints for Sunday, Nov. 15, 2026: six clues on the opening cluster, sound and meaning, then the answer behind a spoiler heading."
 type: explainer
 publishedAt: "2026-11-14T00:05:00-05:00"
 authors: [news-desk]

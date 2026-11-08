@@ -1,7 +1,6 @@
 ---
-title: "Regular Decision Deadlines 2027: January 1 to January 5 Dates at Nine Top Colleges"
-seoTitle: "Regular Decision Deadlines 2027: Nine Colleges"
-description: "Harvard's Regular Decision deadline is Fri., Jan. 1, 2027, and eight more colleges set theirs for Jan. 2 to 5, per each admissions page on Oct. 31, 2026."
+title: "Regular Decision Deadlines 2027: Harvard Jan. 1, Eight Others Jan. 2-5"
+description: "Regular Decision deadlines 2027: Harvard is Fri., Jan. 1 and eight more colleges list Jan. 2 to 5. A date-order table and a printable checklist follow."
 type: news
 publishedAt: "2026-10-31T02:55:00-04:00"
 updatedAt: "2026-11-06T21:20:00-05:00"

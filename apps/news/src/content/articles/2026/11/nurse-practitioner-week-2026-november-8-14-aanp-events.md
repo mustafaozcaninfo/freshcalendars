@@ -1,7 +1,6 @@
 ---
-title: "National Nurse Practitioner Week 2026: Nov. 8-14 Dates and AANP Events"
-seoTitle: "NP Week 2026: Nov. 8-14 Dates and AANP Events"
-description: "National Nurse Practitioner Week 2026 runs Nov. 8-14, says the American Association of Nurse Practitioners (AANP). Day-by-day dates, Nov. 10 and Nov. 12 events."
+title: "National Nurse Practitioner Week 2026: Nov. 8-14, Today Show Nov. 10"
+description: "National Nurse Practitioner Week 2026 runs Nov. 8-14, says the American Association of Nurse Practitioners (AANP). Day-by-day table and a free printable."
 type: news
 publishedAt: "2026-11-06T14:15:00-05:00"
 authors: [christina-gerland]

@@ -1,7 +1,6 @@
 ---
-title: "Meteor Showers 2027: Peak Dates, Eastern Times and Moon Phase for 12 Showers"
-seoTitle: "Meteor Showers 2027: Peak Dates, Times and Moon Phase"
-description: "The International Meteor Organization (IMO) puts the 2027 Perseid peak at 4-6 a.m. Eastern Time (ET) on Aug. 13, under an 89% Moon. All 12 showers, with Moon."
+title: "Meteor Showers 2027: Peak Dates for 12 Showers, Perseids Aug. 13"
+description: "The 2027 Perseid meteor shower peaks Aug. 13, 4-6 a.m. ET, under an 89% Moon. Peak dates for 12 showers with Moon phase and the five best nights."
 type: explainer
 publishedAt: "2026-11-02T14:44:00-05:00"
 authors: [jessica-hartwell]

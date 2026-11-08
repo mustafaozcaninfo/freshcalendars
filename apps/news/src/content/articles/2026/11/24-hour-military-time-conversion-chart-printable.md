@@ -1,7 +1,6 @@
 ---
-title: "24-Hour Time Conversion Chart: Military Time to a.m. and p.m., Printable"
-seoTitle: "24-Hour Time Chart: Military Time to a.m./p.m."
-description: "1900 is 7 p.m.: a 24-hour chart from 0000 to 2300 with a.m. and p.m. times, plus the National Institute of Standards and Technology (NIST) midnight rule."
+title: "24-Hour Time Converter: 1900 Is 7 p.m., 1430 Is 2:30 p.m."
+description: "Military time 1900 is 7 p.m. and 1430 is 2:30 p.m. Our printable chart covers 0000 to 2300 and explains why 12 a.m. and 12 p.m. are ambiguous."
 type: explainer
 publishedAt: "2026-11-04T22:39:00-05:00"
 authors: [jessica-hartwell]

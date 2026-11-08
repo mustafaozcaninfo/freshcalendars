@@ -1,7 +1,6 @@
 ---
-title: "Federal Benefits Open Season 2026 Runs Nov. 9 to Dec. 14: FEHB Dates, 2027 Premiums and Effective Dates"
-seoTitle: "Federal Open Season 2026: Nov. 9 to Dec. 14 Dates"
-description: "The Office of Personnel Management (OPM) set federal open season for Nov. 9 to Dec. 14, 2026. See 2027 health premium changes, deadlines and start dates."
+title: "Federal Benefits Open Season 2026: Nov. 9 to Dec. 14"
+description: "Federal open season 2026 runs Nov. 9 to Dec. 14, per the Office of Personnel Management (OPM). The average health plan enrollee share rises 10.9% in 2027."
 type: news
 publishedAt: "2026-10-24T16:48:00-04:00"
 updatedAt: "2026-11-08T07:23:00-05:00"

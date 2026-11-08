@@ -1,7 +1,6 @@
 ---
-title: "Planets in 2027: Jupiter Opposition Feb. 10, Mars Feb. 19, Saturn Oct. 17 in Eastern Time"
-seoTitle: "Planets in 2027: Opposition and Elongation Dates"
-description: "Jupiter is at opposition Feb. 10, 2027, Mars Feb. 19 and Saturn Oct. 17 in Eastern Time (ET), per the National Astronomical Observatory of Japan (NAOJ)."
+title: "2027 Planet Calendar: Jupiter Feb. 10, Mars Feb. 19, Saturn Oct. 17"
+description: "Jupiter is at opposition Feb. 10, 2027, Mars Feb. 19 and Saturn Oct. 17, in Eastern Time. Venus and Mercury greatest elongations and a one-page printable."
 type: explainer
 publishedAt: "2026-11-02T14:42:00-05:00"
 authors: [jessica-hartwell]

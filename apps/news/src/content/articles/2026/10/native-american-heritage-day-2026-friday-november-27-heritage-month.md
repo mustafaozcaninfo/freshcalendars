@@ -1,7 +1,6 @@
 ---
-title: "Native American Heritage Day 2026 Is Friday, Nov. 27: Is It a Federal Holiday?"
-seoTitle: "Native American Heritage Day 2026: Fri., Nov. 27"
-description: "Native American Heritage Day 2026 is Fri., Nov. 27. Public Law 111-33 encourages it; the Office of Personnel Management (OPM) lists no federal holiday."
+title: "Native American Heritage Day 2026: Friday, Nov. 27, and Month Dates"
+description: "Native American Heritage Day 2026 is Friday, Nov. 27. Month runs Nov. 1-30; Public Law 111-33 only encourages the day and no federal holiday is listed."
 type: explainer
 publishedAt: "2026-10-28T11:44:00-04:00"
 updatedAt: "2026-11-05T03:22:47-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Greenville County Schools Calendar 2026-27: Winter Break, Spring Break, Last Day"
-seoTitle: "Greenville County Schools Calendar 2026-27 Breaks"
-description: "Greenville County Schools (GCS) students are off Dec. 21, 2026 to Jan. 1, 2027 for winter break and March 22-26, 2027 for spring break, per the district feed."
+title: "Greenville County Schools Calendar 2026-27: Spring Break March 22-26"
+description: "Greenville County Schools (GCS) calendar 2026-27: winter break Dec. 21 to Jan. 1, spring break March 22-26. Grading dates and a printable."
 type: explainer
 publishedAt: "2026-11-04T21:11:00-05:00"
 updatedAt: "2026-11-04T21:11:00-05:00"

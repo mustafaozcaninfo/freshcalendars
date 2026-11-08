@@ -1,7 +1,6 @@
 ---
-title: "Child Tax Credit 2026: $2,200 per Child and $1,700 Refundable on Returns Filed in 2027"
-seoTitle: "Child Tax Credit 2026: $2,200 per Child"
-description: "The child tax credit is $2,200 per child for tax year 2026 and $2,300 for 2027, says the Internal Revenue Service (IRS). See the refundable limits and table."
+title: "Child Tax Credit 2026: $2,200 per Child, $1,700 Refundable"
+description: "The child tax credit is $2,200 per child for tax year 2026 and $2,300 for 2027, per the IRS. A table shows earned income for the $1,700 refundable part."
 type: explainer
 publishedAt: "2026-11-04T07:40:00-05:00"
 updatedAt: "2026-11-06T12:03:00-05:00"

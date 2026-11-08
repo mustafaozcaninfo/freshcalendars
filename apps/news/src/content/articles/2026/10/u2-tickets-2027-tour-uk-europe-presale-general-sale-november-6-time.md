@@ -1,7 +1,6 @@
 ---
-title: "U2 Tickets 2027: General Sale Fri., Nov. 6 at 10 a.m. UK Time, Presale Began Mon., Nov. 2"
-seoTitle: "U2 Tickets 2027: Presale and General Sale Times"
-description: "U2 2027 tickets: general sale Fri., Nov. 6 at 10 a.m. Greenwich Mean Time (GMT), 5 a.m. Eastern Time (ET). Subscriber presale began Mon., Nov. 2."
+title: "U2 Tickets 2027: General Sale Nov. 6 at 10 a.m. GMT"
+description: "U2 tickets 2027 went on general sale Fri., Nov. 6 at 10 a.m. GMT, 5 a.m. ET. Presale steps, 12 shows in seven cities and a one-page timeline."
 type: news
 publishedAt: "2026-10-30T05:40:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

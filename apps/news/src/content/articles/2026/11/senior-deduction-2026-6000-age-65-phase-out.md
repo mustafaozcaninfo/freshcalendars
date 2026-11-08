@@ -1,7 +1,6 @@
 ---
-title: "Senior Deduction 2026: The $6,000 Deduction at 65, Who Qualifies and a Phase-Out Table"
-seoTitle: "Senior Deduction 2026: $6,000 at 65 and Phase-Out"
-description: "The Internal Revenue Service (IRS) allows a $6,000 deduction at age 65 for 2025 to 2028, shrinking above $75,000 of modified adjusted gross income (MAGI)."
+title: "Senior Deduction 2026: $6,000 at Age 65, Phase-Out Table"
+description: "The senior deduction is $6,000 at age 65 for 2025 through 2028, shrinking above $75,000 of income. Includes a phase-out table and a filing checklist."
 type: explainer
 publishedAt: "2026-11-07T08:38:00-05:00"
 updatedAt: "2026-11-07T08:38:00-05:00"

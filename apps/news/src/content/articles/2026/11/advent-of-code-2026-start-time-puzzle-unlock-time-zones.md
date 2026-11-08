@@ -1,7 +1,6 @@
 ---
-title: "Advent of Code 2026: Dec. 1 Start and the Puzzle Release Time in Every Time Zone"
-seoTitle: "Advent of Code 2026: Start Time by Time Zone"
-description: "Advent of Code 2026 unlocks its first puzzle at midnight Eastern Standard Time (EST), 05:00 Coordinated Universal Time (UTC), on Tuesday, Dec. 1, 2026."
+title: "Advent of Code 2026 Start Time: Dec. 1 at Midnight EST, by Zone"
+description: "Advent of Code 2026 starts Tuesday, Dec. 1, at midnight EST. A table converts the first puzzle's release time for 17 cities, plus a printable tracker."
 type: explainer
 publishedAt: "2026-11-06T22:35:00-05:00"
 updatedAt: "2026-11-06T22:35:00-05:00"

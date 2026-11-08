@@ -1,7 +1,6 @@
 ---
-title: "Aldi Advent Calendars 2026: In Stores Nov. 4, Every Calendar and Price From $1.99"
-seoTitle: "Aldi Advent Calendars 2026: Prices and Full List"
-description: "Aldi's 2026 advent calendars arrived in stores Nov. 4: over 25 calendars from $1.99, including a $59.99 wine calendar. All 10 named calendars with prices."
+title: "Aldi Advent Calendars 2026: In Stores Nov. 4, Priced From $1.99"
+description: "Aldi advent calendars 2026 arrived in stores Nov. 4, with over 25 calendars from $1.99. All 10 named calendars with prices, up to a $59.99 wine calendar."
 type: news
 publishedAt: "2026-11-06T10:38:00-05:00"
 updatedAt: "2026-11-06T10:38:00-05:00"

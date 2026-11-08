@@ -1,7 +1,6 @@
 ---
-title: "2027 Tax Brackets Are Out: IRS Sets the Standard Deduction; 401(k) Limits Still Pending"
-seoTitle: "2027 Tax Brackets Out: Standard Deduction, 401(k) Status"
-description: "On Nov. 5, 2026, the Internal Revenue Service (IRS) released 2027 tax brackets and a $16,600 single standard deduction. 401(k) limits are still pending."
+title: "2027 Tax Brackets: $16,600 Standard Deduction, 401(k) Pending"
+description: "The IRS released 2027 tax brackets on Nov. 5, 2026, with a $16,600 single standard deduction. The 2027 401(k) limits are not yet announced."
 type: news
 publishedAt: "2026-10-23T15:20:00-04:00"
 updatedAt: "2026-11-06T00:37:00-05:00"

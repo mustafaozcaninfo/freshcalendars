@@ -1,7 +1,6 @@
 ---
-title: "MM/DD or DD/MM? How Countries Write Dates, and the ISO Fix"
-seoTitle: "Date Format by Country: MM/DD vs DD/MM"
-description: "In Common Locale Data Repository (CLDR) 48 data, Jan. 2, 2027 is 01/02/2027 in U.S. English and 02/01/2027 in British English: one date, two readings."
+title: "Date Format by Country: MM/DD vs DD/MM in 27 Locales"
+description: "Date formats by country: in Common Locale Data Repository (CLDR) 48, Jan. 2, 2027 is 01/02/2027 in U.S. English and 02/01/2027 in British English."
 type: explainer
 publishedAt: "2026-11-04T15:57:00-05:00"
 updatedAt: "2026-11-04T15:57:00-05:00"

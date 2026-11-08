@@ -1,7 +1,6 @@
 ---
-title: "NBA All-Star 2027 Is Feb. 19-21 in Phoenix: Game Date, Rising Stars Time by Zone and TV"
-seoTitle: "NBA All-Star 2027: Date, Rising Stars Time and TV"
-description: "The 76th National Basketball Association (NBA) All-Star Game is Sunday, Feb. 21, 2027, in Phoenix; Rising Stars tips off Feb. 19 at 7 p.m. Mountain Time (MT)."
+title: "NBA All-Star 2027 Date: Feb. 21 in Phoenix, Rising Stars Feb. 19"
+description: "The NBA All-Star Game is Sunday, Feb. 21, 2027, in Phoenix. Rising Stars tips off Feb. 19 at 9 p.m. ET, with times by time zone and a printable."
 type: news
 publishedAt: "2026-10-26T16:38:00-04:00"
 updatedAt: "2026-11-04T13:41:00-05:00"

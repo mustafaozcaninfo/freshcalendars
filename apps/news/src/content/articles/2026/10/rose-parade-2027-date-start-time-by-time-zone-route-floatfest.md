@@ -1,7 +1,6 @@
 ---
-title: "Rose Parade 2027: Start Time by Time Zone, Route, Bandfest and Floatfest Dates"
-seoTitle: "Rose Parade 2027: Start Time, Route, Floatfest"
-description: "The 138th Rose Parade starts at 8 a.m. Pacific Time (PT) on Fri., Jan. 1, 2027, or 11 a.m. Eastern Time (ET), the Tournament of Roses says."
+title: "Rose Parade 2027: Starts Jan. 1 at 8 a.m., Times by Zone"
+description: "The 138th Rose Parade starts 8 a.m. Pacific Time on Friday, Jan. 1, 2027, 11 a.m. ET. Start by time zone, the route, Bandfest and Floatfest dates."
 type: news
 publishedAt: "2026-10-26T08:50:00-04:00"
 updatedAt: "2026-10-30T01:05:00-04:00"

@@ -1,7 +1,6 @@
 ---
-title: "Sundance Film Festival 2027 in Boulder: Dates, Online Screenings, Lineup Announcement"
-seoTitle: "Sundance 2027 Dates in Boulder, Online Screenings"
-description: "The 2027 Sundance Film Festival runs Jan. 21-31 in Boulder, Colorado, with online screenings Jan. 28-31, the Sundance Institute says. Lineup due in December."
+title: "Sundance Film Festival 2027 Dates: Jan. 21-31 in Boulder"
+description: "The 2027 Sundance Film Festival runs Jan. 21-31 in Boulder, Colorado. A day-by-day calendar with online screenings Jan. 28-31 and ticket dates."
 type: news
 publishedAt: "2026-11-04T10:50:00-05:00"
 authors: [jessica-hartwell]

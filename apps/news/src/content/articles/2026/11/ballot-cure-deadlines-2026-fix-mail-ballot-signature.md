@@ -1,7 +1,6 @@
 ---
-title: "Ballot Cure Deadlines 2026: How to Fix a Mail Ballot Signature, Nov. 5 to Nov. 24"
-seoTitle: "Ballot Cure Deadlines 2026: Fix a Mail Ballot Signature"
-description: "Mail ballot signature problem? Florida allows fixes until 5 p.m. Eastern Time (ET) Nov. 5, Oregon until Nov. 24. Cure dates for 8 states, computed for 2026."
+title: "Ballot Cure Deadlines 2026: Florida Nov. 5, Oregon Nov. 24"
+description: "Mail ballot signature problem? Florida's cure deadline was 5 p.m. Nov. 5; Oregon's is Nov. 24. Cure dates by state, with Arizona's missing-signature trap."
 type: explainer
 publishedAt: "2026-11-03T08:20:00-05:00"
 authors: [christina-gerland]

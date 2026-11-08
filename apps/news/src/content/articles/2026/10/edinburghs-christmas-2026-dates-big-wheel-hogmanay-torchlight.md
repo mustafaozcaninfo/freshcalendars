@@ -1,7 +1,6 @@
 ---
-title: "Edinburgh's Christmas 2026 Dates: Big Wheel Hours, Torchlight Procession and Hogmanay"
-seoTitle: "Edinburgh's Christmas 2026 Dates: Big Wheel, Hogmanay"
-description: "Edinburgh's Christmas runs Saturday 14 November 2026 to Sunday 3 January 2027, per its official website. The Torchlight Procession is Tuesday 29 December."
+title: "Edinburgh's Christmas 2026 Dates: Opens 14 November, Ends 3 January"
+description: "Edinburgh's Christmas 2026 runs Saturday 14 November to Sunday 3 January. Big Wheel hours, Torchlight Procession on 29 December and a printable."
 type: news
 publishedAt: "2026-10-30T02:25:00-04:00"
 updatedAt: "2026-11-07T11:19:00-05:00"

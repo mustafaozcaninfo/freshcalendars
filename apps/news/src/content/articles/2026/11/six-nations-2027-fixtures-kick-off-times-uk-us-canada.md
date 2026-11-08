@@ -1,7 +1,6 @@
 ---
-title: "Six Nations 2027 Fixtures and Kick-Off Times (UK, US, Canada)"
-seoTitle: "Six Nations 2027 Fixtures and Kick-Off Times by Zone"
-description: "Six Nations 2027 opens Fri., Feb. 5 with Ireland v England at 8:10 p.m. Greenwich Mean Time (GMT), 3:10 p.m. Eastern Time (ET), the Irish Times reports."
+title: "Six Nations 2027 Fixtures: Opens Feb. 5, Kick-Offs in ET"
+description: "Six Nations 2027 opens Fri., Feb. 5 with Ireland v England at 3:10 p.m. ET. All 15 matches with kick-off times in UK, ET and PT time, plus a printable."
 type: news
 publishedAt: "2026-11-02T06:00:00-05:00"
 authors: [jessica-hartwell]

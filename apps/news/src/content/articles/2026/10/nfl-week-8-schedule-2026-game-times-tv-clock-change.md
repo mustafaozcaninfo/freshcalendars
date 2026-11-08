@@ -1,7 +1,6 @@
 ---
-title: "NFL Week 8 Schedule 2026: Final Scores, Times, TV Channels and the Nov. 1 Clock Change"
-seoTitle: "NFL Week 8 2026: Final Scores, Game Times and TV"
-description: "National Football League (NFL) Week 8, 2026: final scores of all 14 games, plus Eastern Time (ET) kickoffs, TV channels and the Nov. 1 clock-change times."
+title: "NFL Week 8 Schedule 2026: Final Scores for All 14 Games"
+description: "NFL Week 8 schedule 2026: final scores of all 14 games, Oct. 29 to Nov. 2, including Commanders 27, Eagles 10 on Sunday night, plus ET kickoffs and TV."
 type: news
 publishedAt: "2026-10-28T17:45:00-04:00"
 updatedAt: "2026-11-05T12:13:00-05:00"

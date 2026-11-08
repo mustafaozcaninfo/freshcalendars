@@ -1,7 +1,6 @@
 ---
-title: "Cavaliers Schedule November 2026: Game Times in ET, TV and NBA Cup Games"
-seoTitle: "Cavaliers Schedule November 2026: Times, TV, Cup"
-description: "The Cavaliers host Oklahoma City on Mon., Nov. 2, 2026, at 7 p.m. Eastern Time (ET), one of 14 November games in the National Basketball Association (NBA)."
+title: "Cavaliers Schedule November 2026: 14 Games, Printable and TV"
+description: "The Cavaliers play 14 games in November 2026, from Nov. 2 against Oklahoma City to Nov. 29 against Miami. Times in ET, TV, NBA Cup games and a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

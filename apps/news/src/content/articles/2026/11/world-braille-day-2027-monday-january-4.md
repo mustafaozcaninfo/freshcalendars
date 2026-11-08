@@ -1,7 +1,6 @@
 ---
-title: "World Braille Day 2027: Monday, Jan. 4, and a Printable Braille Alphabet Chart"
-seoTitle: "World Braille Day 2027: Monday, Jan. 4"
-description: "World Braille Day is Monday, Jan. 4, 2027, per the United Nations (UN), on Louis Braille's birthday. A-to-z dot numbers and a free braille alphabet chart."
+title: "World Braille Day 2027: Monday, Jan. 4, Printable Alphabet Chart"
+description: "World Braille Day is Monday, Jan. 4, 2027, per the United Nations. Weekdays through 2032 and a printable chart of dot numbers for a to z."
 type: explainer
 publishedAt: "2026-11-04T06:50:00-05:00"
 authors: [christina-gerland]

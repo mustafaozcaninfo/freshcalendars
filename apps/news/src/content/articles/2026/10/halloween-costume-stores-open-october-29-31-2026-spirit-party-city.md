@@ -1,7 +1,6 @@
 ---
-title: "Halloween Costume Stores Open Oct. 29-31, 2026: Spirit, Party City at Staples and Target"
-seoTitle: "Halloween Costume Stores, Oct. 29-31, 2026: What We Found"
-description: "Halloween was Sat., Oct. 31, 2026: where shoppers could look in the last two days, how to confirm hours and a Food and Drug Administration (FDA) warning."
+title: "Are Stores Open on Halloween? Costume Stores Oct. 29-31, 2026"
+description: "Are stores open on Halloween? No nationwide hours exist in sources we checked; Spirit Halloween hours vary by store. Party City sits inside Staples."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

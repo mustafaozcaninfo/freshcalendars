@@ -1,7 +1,6 @@
 ---
-title: "Form 1099-K Threshold for 2026: $20,000 and 200 Transactions, and When the Form Arrives"
-seoTitle: "Form 1099-K Threshold 2026: $20,000 and 200"
-description: "The Internal Revenue Service (IRS) says payment apps send a 2026 Form 1099-K only above $20,000 and 200 transactions. Copies are due Monday, Feb. 1, 2027."
+title: "Form 1099-K Threshold 2026: $20,000 and 200 Transactions"
+description: "The 2026 Form 1099-K threshold is over $20,000 and over 200 transactions, per the IRS. Copies are due Monday, Feb. 1, 2027; a table shows example sellers."
 type: news
 publishedAt: "2026-11-06T14:37:00-05:00"
 authors: [aaron-kessler]

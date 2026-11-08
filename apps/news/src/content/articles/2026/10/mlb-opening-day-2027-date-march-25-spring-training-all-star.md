@@ -1,7 +1,6 @@
 ---
-title: "MLB Opening Day 2027 Is Thursday, March 25: Opening Night, Spring Training and All-Star Game Dates"
-seoTitle: "MLB Opening Day 2027: Date, Spring Training, All-Star"
-description: "Major League Baseball (MLB) Opening Day 2027 is Thursday, Mar. 25, with 14 games; Opening Night is Wednesday, Mar. 24 on Netflix, MLB.com says."
+title: "MLB Opening Day 2027: Thursday, Mar. 25, Opening Night Mar. 24"
+description: "MLB Opening Day 2027 is Thursday, Mar. 25, with 14 games. Dates for Opening Night, Spring Training and the All-Star Game, plus a printable."
 type: news
 publishedAt: "2026-10-26T16:40:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

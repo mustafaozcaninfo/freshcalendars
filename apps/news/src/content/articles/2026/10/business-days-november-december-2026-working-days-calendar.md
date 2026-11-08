@@ -1,7 +1,6 @@
 ---
-title: "Business Days in November 2026: 19 Federal, 20 NYSE Trading Days, and the December Count"
-seoTitle: "Business Days in November 2026 and December 2026"
-description: "November 2026 has 19 U.S. federal working days and 20 New York Stock Exchange (NYSE) trading days; December has 22 of each, with a week-by-week count."
+title: "Business Days in November 2026: 19 Federal, 20 Trading Days"
+description: "November 2026 has 19 U.S. federal business days and 20 stock market trading days; December has 22 of each. Week-by-week count and UK totals."
 type: explainer
 publishedAt: "2026-10-27T10:35:00-04:00"
 authors: [jessica-hartwell]

@@ -1,6 +1,6 @@
 ---
 title: "Contexto #1513 Hints & Answer Today, November 9, 2026"
-description: "Contexto #1513 for Monday, Nov. 9, 2026: hints, the game's 30 closest words in four groups, what ranks 2 to 100 look like, two cold guesses, then the answer."
+description: "Contexto #1513 answer and hints for Monday, Nov. 9, 2026: three hints, the 30 closest words in four groups, ranks 2 to 100, two dead ends, then the answer"
 type: explainer
 publishedAt: "2026-11-08T00:05:00-05:00"
 authors: [news-desk]

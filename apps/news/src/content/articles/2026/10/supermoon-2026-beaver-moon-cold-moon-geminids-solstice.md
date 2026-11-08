@@ -1,7 +1,6 @@
 ---
-title: "Two Supermoons Close 2026: Beaver Moon Nov. 24, Cold Moon Dec. 23, Plus Geminids and the Solstice"
-seoTitle: "Supermoon 2026: Beaver Moon, Cold Moon, Geminids"
-description: "Two supermoons end 2026: the Beaver Moon Nov. 24 and Cold Moon Dec. 23, plus the Geminids on Dec. 13-14 and the winter solstice Dec. 21, in Eastern Time (ET)."
+title: "Supermoon 2026: Beaver Moon Nov. 24, Cold Moon Dec. 23"
+description: "The 2026 supermoons are the Beaver Moon on Nov. 24 and the Cold Moon on Dec. 23. A countdown clock, times across the U.S. and the Geminids Dec. 13-14."
 type: explainer
 publishedAt: "2026-10-24T00:50:00-04:00"
 updatedAt: "2026-11-04T09:08:00-05:00"

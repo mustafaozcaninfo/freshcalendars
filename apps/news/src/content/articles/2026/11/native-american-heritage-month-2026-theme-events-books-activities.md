@@ -1,7 +1,6 @@
 ---
-title: "Native American Heritage Month 2026 Theme: Events, Books, Activities"
-seoTitle: "Native American Heritage Month 2026 Theme and Events"
-description: "Native American Heritage Month 2026 theme is 250 Years and Beyond, set by the Bureau of Indian Affairs (BIA). Events, books and student activities inside."
+title: "Native American Heritage Month 2026 Theme: 250 Years and Beyond"
+description: "The Native American Heritage Month 2026 theme is 250 Years and Beyond, per the Bureau of Indian Affairs (BIA). Events, nine books and a free checklist."
 type: explainer
 publishedAt: "2026-11-01T05:40:00-05:00"
 updatedAt: "2026-11-05T03:22:47-05:00"

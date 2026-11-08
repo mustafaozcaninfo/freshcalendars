@@ -1,7 +1,6 @@
 ---
-title: "How to Print a Calendar PDF at Actual Size: Print Settings for Edge, Mac and Home Printers"
-seoTitle: "How to Print a Calendar PDF at Actual Size"
-description: "To print a calendar PDF on US Letter paper, pick Actual size or Fit, check margins and paper size. Option names from Microsoft and Apple, plus a fix table."
+title: "How to Print a Calendar PDF: Actual Size or Fit, Edge and Mac"
+description: "To print a calendar PDF on US Letter, choose Actual size, or Fit if your paper differs. Edge and Mac option names, a fix table and a printable checklist."
 type: explainer
 publishedAt: "2026-10-30T08:22:00-04:00"
 authors: [jessica-hartwell]

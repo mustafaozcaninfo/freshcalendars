@@ -1,7 +1,6 @@
 ---
-title: "International Day of Education 2027 Is Sunday, Jan. 24; UNESCO Has Not Set the Theme"
-seoTitle: "International Day of Education 2027: Sunday, Jan. 24"
-description: "International Day of Education is Jan. 24, a Sunday in 2027, per the United Nations (UN). The 2027 theme is not yet announced; see weekdays to 2032 and a sheet."
+title: "International Day of Education 2027: Sunday, Jan. 24, Weekdays to 2032"
+description: "International Day of Education is Sunday, Jan. 24, 2027, per the United Nations (UN). Theme not yet announced. Weekdays to 2032, free activity sheet."
 type: explainer
 publishedAt: "2026-11-04T06:20:00-05:00"
 authors: [christina-gerland]

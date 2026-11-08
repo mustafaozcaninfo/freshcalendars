@@ -1,7 +1,6 @@
 ---
-title: "St. Johns County Schools Calendar 2026-27: Winter Break, Spring Break and Last Day"
-seoTitle: "St. Johns County Schools Calendar 2026-27 Breaks"
-description: "St. Johns County School District (SJCSD) 2026-27: Thanksgiving break starts Nov. 23, winter Dec. 21, spring March 15. Students finish May 28, 2027."
+title: "St. Johns County Schools Calendar 2026-27: Last Day May 28"
+description: "St. Johns County schools calendar 2026-27: winter break starts Dec. 21, spring break March 15, last day May 28. Also lists holidays Jan. 4, Mar. 12, 26."
 type: news
 publishedAt: "2026-11-05T20:45:00-05:00"
 updatedAt: "2026-11-05T20:45:00-05:00"

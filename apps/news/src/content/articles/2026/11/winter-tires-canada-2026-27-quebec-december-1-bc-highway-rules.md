@@ -1,7 +1,6 @@
 ---
-title: "Winter Tires in Canada 2026-27: Quebec's Dec. 1 Deadline, BC Highway Rules, Province Guide"
-seoTitle: "Winter Tires in Canada 2026-27: Quebec Dec. 1 Rule"
-description: "Quebec's winter tire rule starts Tue., Dec. 1, 2026, with a fine of $200 to $300, the province says. See British Columbia (BC), Manitoba and Atlantic rules."
+title: "Winter Tires in Canada 2026-27: Quebec Rule Starts Dec. 1"
+description: "Winter tires in Canada 2026-27: Quebec's rule starts Tue., Dec. 1, with a $200 to $300 fine. Table of BC, Manitoba and Atlantic dates, plus a printable."
 type: news
 publishedAt: "2026-11-03T12:48:00-05:00"
 updatedAt: "2026-11-03T12:48:00-05:00"

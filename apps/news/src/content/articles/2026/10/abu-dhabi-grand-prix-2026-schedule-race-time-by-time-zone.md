@@ -1,7 +1,6 @@
 ---
-title: "Abu Dhabi Grand Prix 2026: Race Time by Time Zone on Sunday, Dec. 6, and Full Schedule"
-seoTitle: "Abu Dhabi Grand Prix 2026: Schedule and Race Time"
-description: "The Formula 1 (F1) Abu Dhabi Grand Prix is Sunday, Dec. 6, 2026, at 8 a.m. Eastern Time (ET), 5 p.m. Gulf Standard Time (GST), at Yas Marina Circuit."
+title: "Abu Dhabi Grand Prix Time 2026: 8 a.m. ET on Sunday, Dec. 6"
+description: "The Abu Dhabi Grand Prix 2026 starts Sunday, Dec. 6 at 8 a.m. ET (5 p.m. Gulf time). Race and qualifying times in eight time zones, plus a printable."
 type: news
 publishedAt: "2026-10-30T23:50:00-04:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Omaha Public Schools Calendar 2026-27: Recess Nov. 23-27, Dec. 21-Jan. 4 and March 15-19"
-seoTitle: "Omaha Public Schools Calendar 2026-27: Breaks and Dates"
-description: "Omaha Public Schools (OPS) has no school Nov. 23-27, Dec. 21-Jan. 4 and March 15-19. The last student day is Wednesday, May 26, 2027."
+title: "Omaha Public Schools Calendar 2026-27: Winter Recess Dec. 21-Jan. 4"
+description: "Omaha Public Schools calendar 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and March 15-19. Last student day is May 26, 2027; every no-school day listed."
 type: news
 publishedAt: "2026-11-07T21:11:00-05:00"
 authors: [aaron-kessler]

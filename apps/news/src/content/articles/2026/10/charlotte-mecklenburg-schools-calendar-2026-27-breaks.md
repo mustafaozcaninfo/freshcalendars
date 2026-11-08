@@ -1,7 +1,6 @@
 ---
-title: "Charlotte-Mecklenburg Schools Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Spring Break Mar. 29-Apr. 2"
-seoTitle: "Charlotte-Mecklenburg Schools Calendar 2026-27"
-description: "Charlotte-Mecklenburg Schools (CMS) 2026-27: first day Aug. 25, winter break Dec. 21 to Jan. 1, spring break Mar. 29 to Apr. 2, last day June 9, make-up days."
+title: "CMS Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Last Day June 9"
+description: "Charlotte-Mecklenburg Schools (CMS) calendar 2026-27: winter break Dec. 21 to Jan. 1, spring break Mar. 29 to Apr. 2, last day June 9, five make-up days."
 type: news
 publishedAt: "2026-10-26T22:38:00-04:00"
 updatedAt: "2026-11-01T05:38:00-05:00"

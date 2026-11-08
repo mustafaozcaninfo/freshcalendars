@@ -1,7 +1,6 @@
 ---
-title: "How to Calculate Your Age in Days, Weeks and Months, With Leap Years"
-seoTitle: "Age in Days: How to Calculate Weeks, Months, Leap Years"
-description: "Someone born Jan. 1, 1960 is 24,472 days old on Jan. 1, 2027. Worked age-in-days examples for five birthdays, with leap days counted and Excel formulas."
+title: "Age in Days, Weeks and Months: Born Jan. 1, 1960 Is 24,472 Days"
+description: "Someone born Jan. 1, 1960 is 24,472 days old on Jan. 1, 2027. Five worked birthdays count the leap days, with Excel formulas and a printable."
 type: explainer
 publishedAt: "2026-11-04T15:08:00-05:00"
 authors: [jessica-hartwell]

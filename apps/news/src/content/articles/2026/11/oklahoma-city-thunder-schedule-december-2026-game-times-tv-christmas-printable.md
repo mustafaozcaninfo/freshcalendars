@@ -1,7 +1,6 @@
 ---
-title: "Thunder Schedule December 2026: Game Times in CT and ET, TV and the Christmas Day Game"
-seoTitle: "Thunder Schedule December 2026: Times, TV, Christmas"
-description: "The Thunder host Brooklyn on Wed., Dec. 2, 2026, at 7 p.m. Central Time (CT), 8 p.m. Eastern Time (ET), and play at Minnesota on Christmas Day."
+title: "Thunder Schedule December 2026: 11 Games, Christmas Day at Minnesota"
+description: "The Thunder host Brooklyn Wed., Dec. 2, 2026, at 7 p.m. Central Time (CT), 8 p.m. ET. Game times in CT and ET, TV, the Christmas Day game and a printable."
 type: news
 publishedAt: "2026-11-04T06:20:00-05:00"
 authors: [jessica-hartwell]

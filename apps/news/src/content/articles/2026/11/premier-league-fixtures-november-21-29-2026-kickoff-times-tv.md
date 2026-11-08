@@ -1,7 +1,6 @@
 ---
-title: "Premier League Fixtures Nov. 21-29, 2026: Kick-Off Times in the UK and US and TV Channels"
-seoTitle: "Premier League Fixtures Nov. 21-29: Times and TV"
-description: "Liverpool v Manchester United is Sun., Nov. 22, 2026 at 4:30pm Greenwich Mean Time (GMT), 11:30 a.m. Eastern Time (ET), on Sky Sports, per the Premier League."
+title: "Premier League Fixtures Nov. 21-29, 2026: UK and US Kick-Off Times"
+description: "Liverpool v Manchester United is Sun., Nov. 22, 2026 at 4:30pm UK time, 11:30 a.m. ET, on Sky Sports. Matchweeks 11 and 12 in UK and US times, with TV."
 type: news
 publishedAt: "2026-11-06T06:10:00-05:00"
 authors: [jessica-hartwell]

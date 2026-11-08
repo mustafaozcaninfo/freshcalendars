@@ -1,7 +1,6 @@
 ---
-title: "Quadrantid Meteor Shower 2027 Peaks the Night of Jan. 3-4, Then the Wolf Moon Jan. 22"
-seoTitle: "Quadrantid Meteor Shower 2027: Peak Time and Wolf Moon"
-description: "The American Meteor Society (AMS) predicts a Quadrantid peak near 3:30 Universal Time (UT) on Jan. 4, 2027: 10:30 p.m. Eastern Standard Time (EST) on Jan. 3."
+title: "Quadrantid Meteor Shower 2027: Peak Near 10:30 p.m. EST Jan. 3"
+description: "The Quadrantid meteor shower 2027 peaks near 10:30 p.m. EST on Jan. 3. Peak time in each U.S. time zone, the Moon's phase and the Wolf Moon Jan. 22."
 type: explainer
 publishedAt: "2026-10-30T15:50:00-04:00"
 authors: [jessica-hartwell]

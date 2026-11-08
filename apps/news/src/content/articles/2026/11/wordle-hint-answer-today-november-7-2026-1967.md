@@ -1,6 +1,6 @@
 ---
 title: "Wordle #1967 Hints & Answer Today, November 7, 2026"
-description: "Saturday's Wordle #1967 on Nov. 7, 2026, with hints about its letters, meaning and ending, then the answer plus an anagram check in a closing spoiler block."
+description: "Wordle #1967 hints for Saturday, Nov. 7, 2026: clues on its letters, meaning and ending, then the answer and an anagram check in a spoiler block."
 type: explainer
 publishedAt: "2026-11-06T00:05:00-05:00"
 authors: [news-desk]

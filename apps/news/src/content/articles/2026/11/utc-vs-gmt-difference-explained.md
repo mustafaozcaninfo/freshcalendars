@@ -1,7 +1,6 @@
 ---
-title: "UTC vs GMT: What the Difference Is and Which One Your Clock Uses"
-seoTitle: "UTC vs GMT: The Difference, With a 2027 London Table"
-description: "Coordinated Universal Time (UTC) is based on atomic time; Greenwich Mean Time (GMT) comes from the Sun at Greenwich. London is on GMT until March 28, 2027."
+title: "UTC vs GMT: The Difference, and London on GMT to March 28, 2027"
+description: "UTC is based on atomic time; GMT is the Sun's average time at Greenwich. London is on GMT until March 28, 2027, with an offset table through 2027."
 type: explainer
 publishedAt: "2026-11-04T22:40:00-05:00"
 authors: [jessica-hartwell]

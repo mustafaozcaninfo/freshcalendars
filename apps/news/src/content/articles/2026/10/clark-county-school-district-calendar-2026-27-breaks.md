@@ -1,7 +1,6 @@
 ---
-title: "CCSD Calendar 2026-27: Thanksgiving Break Nov. 25-27, Winter Break Dec. 21 to Jan. 1"
-seoTitle: "CCSD Calendar 2026-27: Thanksgiving and Winter Break Dates"
-description: "Clark County School District (CCSD) 2026-27: no school Nov. 11, Thanksgiving break Nov. 25-27, winter break Dec. 21 to Jan. 1, spring break March 15-19."
+title: "CCSD Calendar 2026-27: Veterans Day Nov. 11, Thanksgiving Nov. 25-27"
+description: "Clark County School District (CCSD) calendar 2026-27: off Nov. 11 and Nov. 25-27, winter break Dec. 21 to Jan. 1, spring break March 15-19."
 type: news
 publishedAt: "2026-10-26T16:40:00-04:00"
 updatedAt: "2026-11-05T19:20:00-05:00"

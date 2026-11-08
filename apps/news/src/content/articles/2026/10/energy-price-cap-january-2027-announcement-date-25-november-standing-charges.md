@@ -1,7 +1,6 @@
 ---
-title: "Energy Price Cap January 2027: Ofgem Announces by 25 November, Plus Standing Charges Per Year"
-seoTitle: "Energy Price Cap January 2027: Date and Standing Charges"
-description: "The Office of Gas and Electricity Markets (Ofgem) will announce the 1 January 2027 energy price cap by 25 November 2026. Standing charges: 54.83p, 29.68p a day."
+title: "Energy Price Cap January 2027: Ofgem Announces by 25 November"
+description: "The Office of Gas and Electricity Markets (Ofgem) will announce the January 2027 energy price cap by 25 November 2026. Standing charges: £308.46 a year"
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
 updatedAt: "2026-11-01T10:27:00-05:00"

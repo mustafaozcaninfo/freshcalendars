@@ -1,7 +1,6 @@
 ---
-title: "NFL Week 17 Schedule 2026: New Year's Eve Game, Saturday Doubleheader and a Pick'em Sheet"
-seoTitle: "NFL Week 17 Schedule 2026: New Year's Eve, Pick'em"
-description: "National Football League (NFL) Week 17 has 16 games, no byes, a New Year's Eve opener and Eastern Time (ET) kickoffs, plus a printable pick'em sheet."
+title: "NFL Week 17 Schedule 2026: New Year's Eve Game on Dec. 31"
+description: "NFL Week 17 schedule 2026: Ravens at Bengals opens on New Year's Eve, 8:15 p.m. ET. Four games have no date yet; the free pick'em sheet leaves lines blank."
 type: news
 publishedAt: "2026-11-02T17:13:00-05:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Coca-Cola Christmas Truck Tour 2026: UK Vote Closes Tuesday 3 November, Stops Not Yet Announced"
-seoTitle: "Coca-Cola Christmas Truck Tour 2026: Vote, Dates"
-description: "Coca-Cola's Christmas Truck vote in Great Britain closes at 16:00 Greenwich Mean Time (GMT) on Tuesday 3 November. The 2026 stops are not yet announced."
+title: "Coca-Cola Christmas Truck Tour 2026: Stops Not Yet Announced"
+description: "Coca-Cola Christmas Truck Tour 2026 dates and stops are not yet announced; the Great Britain vote closed Nov. 3. Includes a one-page checklist."
 type: news
 publishedAt: "2026-10-28T13:41:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

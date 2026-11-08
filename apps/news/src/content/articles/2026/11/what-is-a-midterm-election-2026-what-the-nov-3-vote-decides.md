@@ -1,7 +1,6 @@
 ---
-title: "What Is a Midterm Election? What Voters Decide on Nov. 3, 2026"
-seoTitle: "What Is a Midterm Election? What Nov. 3, 2026 Decides"
-description: "A midterm election falls halfway through a president's term. On Nov. 3, 2026, voters pick all 435 House members and 35 of 100 senators, plus local offices."
+title: "What Is a Midterm Election? 435 House Seats, 35 Senate Seats in 2026"
+description: "A midterm election falls halfway through a president's term. On Nov. 3, 2026, voters chose all 435 House members and 35 of 100 senators, plus local races."
 type: explainer
 publishedAt: "2026-11-02T13:16:00-05:00"
 updatedAt: "2026-11-03T09:16:00-05:00"

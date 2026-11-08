@@ -1,7 +1,6 @@
 ---
-title: "When Do the Clocks Go Forward in 2027? Sunday 28 March, 1am GMT"
-seoTitle: "When Do UK Clocks Go Forward in 2027? 28 March"
-description: "UK clocks go forward at 1am Greenwich Mean Time (GMT) on Sunday 28 March 2027, to 2am British Summer Time (BST). Time gaps with the U.S. and Sydney."
+title: "Clocks Go Forward 2027: Sunday 28 March at 1am GMT, to 2am BST"
+description: "UK clocks go forward at 1am GMT on Sunday 28 March 2027, to 2am BST. Time gaps with New York, plus sunrise before and after in London."
 type: explainer
 publishedAt: "2026-11-04T12:58:00-05:00"
 authors: [jessica-hartwell]

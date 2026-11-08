@@ -1,7 +1,6 @@
 ---
-title: "Girl Scout Cookies 2027: Two New Cookies Ship Jan. 12, Plus Council Start Dates"
-seoTitle: "Girl Scout Cookies 2027: New Cookies and Start Dates"
-description: "Girl Scouts of the USA (GSUSA) says Patch Pals, a dog cookie, and Sparkables ship online from Jan. 12, 2027; council start dates vary, from Dec. 7 to Jan. 13."
+title: "Girl Scout Cookies 2027: New Cookies Ship Online Jan. 12"
+description: "Girl Scout cookies 2027: Patch Pals and Sparkables ship online Jan. 12. Four councils posted start dates, Dec. 7 to Jan. 13, with a printable date sheet."
 type: news
 publishedAt: "2026-11-05T10:43:00-05:00"
 updatedAt: "2026-11-05T10:43:00-05:00"

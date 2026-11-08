@@ -1,7 +1,6 @@
 ---
-title: "Breeders' Cup 2026 Results: Sovereignty Wins the Classic at Keeneland, All 14 Winners and Post Times"
-seoTitle: "Breeders' Cup 2026 Results: All 14 Winners"
-description: "Sovereignty won the 2026 Breeders' Cup Classic at Keeneland on Oct. 31, 1 3/4 lengths ahead of The Puma. All 14 winners, jockeys, trainers and post times."
+title: "Breeders' Cup 2026 Results: Sovereignty Wins Classic, 14 Winners"
+description: "Sovereignty won the 2026 Breeders' Cup Classic at Keeneland on Oct. 31, 1 3/4 lengths ahead of The Puma. Post times and all 14 winners with jockeys."
 type: news
 publishedAt: "2026-10-25T20:19:00-04:00"
 updatedAt: "2026-11-03T07:09:00-05:00"

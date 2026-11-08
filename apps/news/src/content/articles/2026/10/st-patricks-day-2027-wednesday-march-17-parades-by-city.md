@@ -1,7 +1,6 @@
 ---
-title: "St. Patrick's Day 2027 Is Wednesday, March 17: Parade Dates by City"
-seoTitle: "St. Patrick's Day 2027: Parade Dates by City"
-description: "St. Patrick's Day 2027 is Wednesday, March 17. New York's parade is set for 11:00 a.m. on Fifth Avenue; Dublin's festival runs March 13-17. Others pending."
+title: "St. Patrick's Day 2027: Parade Dates by City, Chicago Pending"
+description: "St. Patrick's Day 2027 is March 17. Chicago has not posted its parade date; New York steps off at 11:00 a.m., Dublin's festival runs March 13-17."
 type: news
 publishedAt: "2026-10-31T02:54:00-04:00"
 updatedAt: "2026-11-04T13:40:00-05:00"

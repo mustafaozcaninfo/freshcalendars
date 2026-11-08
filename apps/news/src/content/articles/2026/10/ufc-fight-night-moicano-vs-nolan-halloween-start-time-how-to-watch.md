@@ -1,7 +1,6 @@
 ---
-title: "UFC Fight Night Moicano vs. Nolan Results: Nolan Stops Moicano in Round 3 on Halloween"
-seoTitle: "Moicano vs. Nolan Results: Nolan Wins by TKO"
-description: "Tom Nolan beat Renato Moicano by technical knockout (TKO) in round 3 on Oct. 31, 2026, in Las Vegas, the Ultimate Fighting Championship (UFC) says. Results."
+title: "Moicano vs. Nolan Results: Nolan Stops Moicano at 1:28 of Round 3"
+description: "Tom Nolan beat Renato Moicano at 1:28 of round 3 on Oct. 31, 2026, in Las Vegas, the Ultimate Fighting Championship (UFC) says. Results and start times."
 type: news
 publishedAt: "2026-10-25T14:15:00-04:00"
 updatedAt: "2026-11-03T07:09:00-05:00"

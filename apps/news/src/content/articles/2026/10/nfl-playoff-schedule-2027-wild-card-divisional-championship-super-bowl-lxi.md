@@ -1,7 +1,6 @@
 ---
-title: "NFL Playoff Schedule 2027: Wild Card, Divisional, Championship Dates and Super Bowl LXI"
-seoTitle: "NFL Playoff Schedule 2027: Dates by Round"
-description: "The 2026-27 National Football League (NFL) playoffs start Jan. 16-18, 2027 and end with Super Bowl 61 (LXI) on Feb. 14. Dates by round, plus a printable."
+title: "NFL Playoff Schedule 2027: Wild Card Jan. 16-18, Super Bowl Feb. 14"
+description: "NFL playoff schedule 2027: Wild Card Weekend is Jan. 16-18 and Super Bowl 61 (LXI) is Feb. 14. Dates by round, days between rounds and a printable bracket."
 type: news
 publishedAt: "2026-10-30T23:59:00-04:00"
 updatedAt: "2026-11-05T12:17:00-05:00"

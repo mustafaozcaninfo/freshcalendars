@@ -1,7 +1,6 @@
 ---
-title: "Social Security Payment Schedule December 2026: Dates by Birthday, SSI Arrives Dec. 31"
-seoTitle: "Social Security Schedule December 2026 by Birthday"
-description: "Social Security Administration (SSA) pays Dec. 9, 16 and 23 by birthday; Supplemental Security Income (SSI) for January 2027 comes Thursday, Dec. 31, 2026."
+title: "Social Security Payment Schedule December 2026: Dec. 9, 16, 23"
+description: "Social Security pays Dec. 9, 16 and 23, 2026, by birthday. January's SSI payment arrives Dec. 31, with the 3.6% raise. A printable marks every date."
 type: news
 publishedAt: "2026-10-31T10:29:00-04:00"
 authors: [aaron-kessler]

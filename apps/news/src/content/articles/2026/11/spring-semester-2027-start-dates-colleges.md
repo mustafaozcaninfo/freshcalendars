@@ -1,7 +1,6 @@
 ---
-title: "Spring Semester 2027 Start Dates: First Day of Classes at 24 Big Universities"
-seoTitle: "Spring Semester 2027 Start Dates: 24 Universities"
-description: "Twelve of 24 big universities start spring 2027 classes Mon., Jan. 11 and seven start Tue., Jan. 19, per registrar calendars read on Nov. 4, 2026."
+title: "Spring Semester 2027 Start Dates: Jan. 11 at 12 of 24 Universities"
+description: "Spring semester 2027 start dates: 12 of 24 big universities begin Mon., Jan. 11, seven on Tue., Jan. 19. The table adds the last day to add classes."
 type: news
 publishedAt: "2026-11-04T13:10:00-05:00"
 updatedAt: "2026-11-04T13:10:00-05:00"

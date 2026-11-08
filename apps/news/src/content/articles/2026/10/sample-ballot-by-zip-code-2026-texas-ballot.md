@@ -1,7 +1,6 @@
 ---
-title: "2026 Election Results and Certification Dates by State, With Sample Ballot Lookup"
-seoTitle: "2026 Election Results and Certification by State"
-description: "See where each state posts official election results, when the Nov. 3 vote is certified, any runoff dates, and how to look up your sample ballot."
+title: "Sample Ballot by Zip Code 2026: Lookup and Certification Dates"
+description: "Sample ballot by zip code 2026: look yours up for your records or a runoff. Official results pages and certification dates for six states, plus Texas."
 type: news
 publishedAt: "2026-10-19T07:50:00-04:00"
 updatedAt: "2026-11-08T02:45:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Next Blood Moon in the U.S.: Total Lunar Eclipse June 25, 2029, and Every Eclipse to 2030"
-seoTitle: "Next Blood Moon: Total Lunar Eclipse June 25, 2029"
-description: "The National Aeronautics and Space Administration (NASA) lists the next total lunar eclipse for the Americas on June 25, 2029, at 11:22 p.m. Eastern Time (ET)."
+title: "Next Blood Moon in the U.S.: Total Lunar Eclipse June 25, 2029"
+description: "The next blood moon in the U.S. is the total lunar eclipse of June 25, 2029, at 11:22 p.m. ET. Every lunar eclipse through 2030, with U.S. dates."
 type: explainer
 publishedAt: "2026-11-02T14:35:00-05:00"
 authors: [jessica-hartwell]

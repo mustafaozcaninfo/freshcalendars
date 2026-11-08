@@ -1,7 +1,6 @@
 ---
-title: "Broward County School Calendar 2026-27: Thanksgiving Week, Winter Break, Spring Break and a May 28 Last Day"
-seoTitle: "Broward County School Calendar 2026-27"
-description: "Broward County Public Schools 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, spring break March 22-26 and a May 28, 2027 last day."
+title: "Broward County School Calendar 2026-27: Spring Break March 22-26"
+description: "Broward County Public Schools 2026-27: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, spring break March 22-26. Last day is May 28, 2027."
 type: news
 publishedAt: "2026-10-19T11:20:00-04:00"
 updatedAt: "2026-11-07T19:45:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Columbus City Schools Calendar 2026-27: Winter Break, Spring Break and Last Day"
-seoTitle: "Columbus City Schools Calendar 2026-27 Breaks"
-description: "Columbus City Schools (CCS) 2026-27: classes start Aug. 20, winter break Dec. 21-Jan. 1, spring break March 26-April 2, last day for students May 27."
+title: "CCS Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Last Day May 27"
+description: "Columbus City Schools (CCS) calendar 2026-27: classes start Aug. 20, winter break Dec. 21-Jan. 1, spring break March 26-April 2. Last day May 27."
 type: news
 publishedAt: "2026-11-04T12:50:00-05:00"
 updatedAt: "2026-11-04T12:50:00-05:00"

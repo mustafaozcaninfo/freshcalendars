@@ -1,7 +1,6 @@
 ---
-title: "NYT Spelling Bee Answers October 2026: Every Pangram and Genius Score"
-seoTitle: "Spelling Bee Answers October 2026: Pangrams, Genius"
-description: "The New York Times (NYT) Spelling Bee for October 2026: all 31 letter sets and 47 pangrams, with word count, points and the Genius score for each day."
+title: "Spelling Bee Answers October 2026: All 47 Pangrams by Day"
+description: "Spelling Bee answers for October 2026 from The New York Times (NYT): 31 letter sets and 47 pangrams, with word count, points and Genius score by day."
 type: explainer
 publishedAt: "2026-10-31T00:25:00-04:00"
 authors: [news-desk]

@@ -1,7 +1,6 @@
 ---
-title: "2027 Elections Calendar: Governor Races in Kentucky, Mississippi and Louisiana, Key Dates"
-seoTitle: "2027 Elections Calendar: Governor Race Dates"
-description: "Election Day 2027 is Tuesday, Nov. 2. Kentucky's primary is May 18, Mississippi's Aug. 3 and Louisiana's Oct. 9; Virginia and New Jersey are not yet posted."
+title: "2027 Governor Elections: Kentucky May 18, Mississippi Aug. 3"
+description: "Election Day 2027 is Tuesday, Nov. 2. Kentucky's primary is May 18, Mississippi's Aug. 3, Louisiana's Oct. 9; Virginia and New Jersey not yet posted."
 type: news
 publishedAt: "2026-11-04T13:57:00-05:00"
 updatedAt: "2026-11-06T00:38:00-05:00"

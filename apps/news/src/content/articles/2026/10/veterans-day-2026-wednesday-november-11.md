@@ -1,7 +1,6 @@
 ---
-title: "What's Open and Closed on Veterans Day 2026, and Why the Holiday Never Moves to a Monday"
-seoTitle: "Veterans Day 2026: Post Office, Banks, DMV Open?"
-description: "Veterans Day 2026 is Wednesday, Nov. 11: post offices, the Federal Reserve and several state Department of Motor Vehicles (DMV) offices close; stocks trade."
+title: "Closed for Veterans Day 2026: Post Offices Shut, Stocks Trade"
+description: "Veterans Day 2026 is Wednesday, Nov. 11: post offices and the Federal Reserve close, stocks trade. Department of Motor Vehicles (DMV) hours vary by state."
 type: update
 publishedAt: "2026-10-17T17:00:00-04:00"
 updatedAt: "2026-11-08T03:43:00-05:00"

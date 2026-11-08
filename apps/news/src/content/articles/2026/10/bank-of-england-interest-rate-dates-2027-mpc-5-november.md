@@ -1,7 +1,6 @@
 ---
-title: "Bank of England Interest Rate Dates 2027: Eight Decisions, Starting 4 February; Next on 5 November 2026"
-seoTitle: "Bank of England Interest Rate Dates 2027 and 5 Nov. 2026"
-description: "The Bank of England's Monetary Policy Committee (MPC) announces its next rate decision on Thursday 5 November 2026, then 17 December; 2027 has eight dates."
+title: "Bank of England Rate Dates 2027: Eight Decisions From 4 February"
+description: "The Bank of England confirmed eight 2027 interest rate dates, from 4 February to 16 December. See which four come with a Monetary Policy Report."
 type: news
 publishedAt: "2026-10-26T20:37:00-04:00"
 authors: [christina-gerland]

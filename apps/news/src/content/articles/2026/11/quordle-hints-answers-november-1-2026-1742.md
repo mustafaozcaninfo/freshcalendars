@@ -1,6 +1,6 @@
 ---
 title: "Quordle #1742 Hints & Answers Today, November 1, 2026"
-description: "Quordle #1742 for Sunday, Nov. 1, 2026: a clue for each of the four words, a starter strategy, then all answers in a marked spoiler section at the very end."
+description: "Quordle hints for #1742, Sunday, Nov. 1, 2026: a clue for each of the four words, a starter strategy and all answers in a marked spoiler section."
 type: explainer
 publishedAt: "2026-11-01T14:35:00-05:00"
 authors: [news-desk]

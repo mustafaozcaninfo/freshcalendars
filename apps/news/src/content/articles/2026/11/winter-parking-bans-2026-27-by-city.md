@@ -1,7 +1,6 @@
 ---
-title: "Winter Parking Bans 2026-27: Hours, Fines and Start Rules in Chicago, Minneapolis and More"
-seoTitle: "Winter Parking Bans 2026-27: Hours and Fines by City"
-description: "Chicago's overnight ban ran 3 a.m. to 7 a.m., Dec. 1 to April 1, last season, snow or not; Minneapolis, Boston and Washington start theirs only when declared."
+title: "Winter Parking Bans 2026-27: Chicago Ran Dec. 1 to April 1 Last Year"
+description: "Winter parking bans 2026-27: Chicago's ran 3 a.m. to 7 a.m., Dec. 1 to April 1, last season. Minneapolis and Boston declare theirs. Printable checklist."
 type: explainer
 publishedAt: "2026-11-05T19:20:00-05:00"
 updatedAt: "2026-11-05T19:20:00-05:00"

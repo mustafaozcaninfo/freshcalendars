@@ -1,7 +1,6 @@
 ---
-title: "Christmas Tree Recycling 2027: Pickup Rules by City, 2026-27 Dates Not Yet Posted"
-seoTitle: "Christmas Tree Recycling 2027: Rules and Dates by City"
-description: "No city has posted 2026-27 tree dates; New York's Department of Sanitation (DSNY) takes trees on the regular recycling day. Rules and past windows by city."
+title: "Christmas Tree Recycling 2027: Rules for 10 Cities, Dates Not Posted"
+description: "No city has posted 2026-27 Christmas tree recycling dates. Rules for 10 cities and last season's windows, from Dec. 26, 2025 to Feb. 28, 2026."
 type: explainer
 publishedAt: "2026-11-04T06:00:00-05:00"
 updatedAt: "2026-11-04T06:00:00-05:00"

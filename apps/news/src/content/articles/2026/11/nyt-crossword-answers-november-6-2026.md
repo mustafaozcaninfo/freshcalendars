@@ -1,6 +1,6 @@
 ---
 title: "NYT Crossword Answers Today, November 6, 2026"
-description: "The New York Times (NYT) Crossword for Friday, Nov. 6, 2026: a hint for all 70 of Aidan Deshong's clues, seven question-mark tricks explained, then answers."
+description: "New York Times (NYT) Crossword answers for Friday, Nov. 6, 2026: a hint for all 70 clues, seven question-mark tricks explained, then the answers."
 type: explainer
 publishedAt: "2026-11-06T12:50:00-05:00"
 authors: [news-desk]

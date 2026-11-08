@@ -1,7 +1,6 @@
 ---
-title: "Heat Schedule November 2026: Game Times in ET, TV and NBA Cup Games"
-seoTitle: "Heat Schedule November 2026: Times, TV, Cup Games"
-description: "The Miami Heat visit the Lakers on Mon., Nov. 2, 2026, at 10 p.m. Eastern Time (ET), first of 13 November games in the National Basketball Association (NBA)."
+title: "Heat Schedule November 2026: 13 Games, Cup Games Nov. 13, 25, 27"
+description: "The Heat schedule for November 2026 lists 13 games, from the Lakers on Nov. 2 to Cleveland on Nov. 29. Times in ET, national TV and a free printable."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

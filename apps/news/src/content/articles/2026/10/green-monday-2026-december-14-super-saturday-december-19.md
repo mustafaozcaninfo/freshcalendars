@@ -1,7 +1,6 @@
 ---
-title: "Green Monday 2026 Is December 14 and Super Saturday Is December 19: Shopping Dates"
-seoTitle: "Green Monday 2026 Dec. 14, Super Saturday Dec. 19"
-description: "Green Monday 2026 falls on Monday, Dec. 14 and Super Saturday on Dec. 19, per eBay and the National Retail Federation (NRF). Dates, countdown and a printable."
+title: "Green Monday 2026: Dec. 14, Plus Super Saturday on Dec. 19"
+description: "Green Monday 2026 is Monday, Dec. 14, and Super Saturday is Dec. 19. A day-count table to Christmas and a printable December 2026 shopping calendar."
 type: explainer
 publishedAt: "2026-10-30T15:50:00-04:00"
 authors: [jessica-hartwell]

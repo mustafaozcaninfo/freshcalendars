@@ -1,7 +1,6 @@
 ---
-title: "World Children's Day 2026: Friday, Nov. 20, and the Rights of the Child Treaty"
-seoTitle: "World Children's Day 2026: Fri., Nov. 20 and the Treaty"
-description: "World Children's Day is Friday, Nov. 20, 2026, per the United Nations (UN). It marks the 1989 Convention on the Rights of the Child. Dates through 2031."
+title: "World Children's Day 2026: Friday, Nov. 20, Treaty Key Dates"
+description: "World Children's Day is Friday, Nov. 20, 2026, per the United Nations. Treaty dates and counts, weekdays through 2031 and a free activity sheet."
 type: explainer
 publishedAt: "2026-11-04T13:40:00-05:00"
 updatedAt: "2026-11-04T13:40:00-05:00"

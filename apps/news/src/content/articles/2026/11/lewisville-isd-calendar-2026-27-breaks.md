@@ -1,7 +1,6 @@
 ---
-title: "Lewisville ISD Calendar 2026-27: Spring Break March 15-19 and New School Hours"
-seoTitle: "Lewisville ISD Calendar 2026-27: Breaks and Hours"
-description: "Lewisville Independent School District (ISD) has no school Nov. 23-27, Dec. 21 to Jan. 1 and March 15-19; students return Jan. 5, per its 2026-27 calendar."
+title: "Lewisville ISD Calendar 2026-27: Spring Break March 15-19, New Hours"
+description: "Lewisville Independent School District (ISD) calendar 2026-27: no school Nov. 23-27, Dec. 21 to Jan. 1 and March 15-19. Adds the new bell times."
 type: news
 publishedAt: "2026-11-05T06:00:00-05:00"
 authors: [aaron-kessler]

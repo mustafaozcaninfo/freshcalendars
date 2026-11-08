@@ -1,7 +1,6 @@
 ---
-title: "Nine Lessons and Carols 2026: King's College Time Dec. 24, Ballot Closes Nov. 16"
-seoTitle: "Nine Lessons and Carols 2026 Time and Ballot Date"
-description: "King's College, Cambridge sets Nine Lessons and Carols for 3 p.m. Greenwich Mean Time (GMT) on Dec. 24, 2026, or 10 a.m. Eastern Time (ET). Ballot ends Nov. 16."
+title: "Nine Lessons and Carols 2026: 3 p.m. Dec. 24, Ballot Closes Nov. 16"
+description: "King's College, Cambridge holds Nine Lessons and Carols at 3 p.m. London time on Dec. 24, 2026, or 10 a.m. ET. Ballot closes Nov. 16; times for 12 places."
 type: news
 publishedAt: "2026-11-08T06:00:00-05:00"
 authors: [christina-gerland]

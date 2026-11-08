@@ -1,6 +1,6 @@
 ---
 title: "Wordle #1950 Hints & Answer Today, October 21, 2026"
-description: "Wordle #1950 for Wednesday, Oct. 21, 2026: five graded clues, from the vowel count to a strong nudge, then the answer in a marked spoiler section at the end."
+description: "Wordle #1950 hints for Wednesday, Oct. 21, 2026: five graded clues from the vowel count to a strong nudge, then the answer in a spoiler section."
 type: explainer
 publishedAt: "2026-10-21T01:10:00-04:00"
 authors: [news-desk]

@@ -1,7 +1,6 @@
 ---
-title: "PGCPS Calendar 2026-27: Winter Break Dec. 21 to Jan. 1, Last Day of School June 15"
-seoTitle: "PGCPS Calendar 2026-27: Breaks and Last Day"
-description: "Prince George's County Public Schools (PGCPS) 2026-27: first day Aug. 25, no school Dec. 21 to Jan. 1 and Mar. 26 to Apr. 2, last day June 15, make-up days."
+title: "PGCPS Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Last Day June 15"
+description: "Prince George's County Public Schools (PGCPS) calendar 2026-27: first day Aug. 25, winter break Dec. 21-Jan. 1, last day June 15. Lists three make-up days."
 type: news
 publishedAt: "2026-11-02T20:34:00-05:00"
 authors: [aaron-kessler]

@@ -1,7 +1,6 @@
 ---
-title: "FOMC Meeting Dates 2027: Eight Fed Meetings, Decision Days, Minutes Dates and the Dec. 8-9, 2026 Meeting"
-seoTitle: "FOMC Meeting Dates 2027 and Dec. 2026 Fed Schedule"
-description: "The Federal Open Market Committee (FOMC) has 8 tentative 2027 meetings, from Jan. 26-27. Dec. 8-9, 2026 is next after Oct. 27-28. Times in Eastern Time (ET)."
+title: "FOMC Meeting Dates 2027: Jan. 26-27 to Dec. 7-8, Decision Days"
+description: "Federal Open Market Committee (FOMC) meeting dates for 2027 are tentative: Jan. 26-27 to Dec. 7-8, every decision day a Wednesday. Next up: Dec. 8-9, 2026."
 type: news
 publishedAt: "2026-10-26T20:37:00-04:00"
 updatedAt: "2026-10-28T14:03:00-04:00"

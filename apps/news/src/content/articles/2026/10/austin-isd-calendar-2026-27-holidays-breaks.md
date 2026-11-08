@@ -1,7 +1,6 @@
 ---
-title: "Austin ISD Calendar 2026-27: Fall Break Nov. 23-27, Winter Break Dec. 21 to Jan. 4, Spring Break March 15-19"
-seoTitle: "Austin ISD Calendar 2026-27: Breaks and Holidays"
-description: "Austin Independent School District (ISD) 2026-27: Fall Break Nov. 23-27, Winter Break Dec. 21 to Jan. 4, Spring Break March 15-19, last day for students May 27."
+title: "Austin ISD Calendar 2026-27: Spring Break March 15-19, Last Day May 27"
+description: "Austin Independent School District (ISD) spring break 2027 is March 15-19. Fall Break is Nov. 23-27, Winter Break Dec. 21 to Jan. 4, last day May 27."
 type: news
 publishedAt: "2026-10-27T00:38:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Home Maintenance Calendar 2027: Monthly Tasks and a Printable Checklist"
-seoTitle: "Home Maintenance Calendar 2027 by Month"
-description: "The U.S. Fire Administration (USFA) says to test smoke alarms monthly. Our 2027 home maintenance calendar sets each test date and adds sourced seasonal tasks."
+title: "Home Maintenance Calendar 2027: Test Days Jan. 2 to Dec. 4"
+description: "A 2027 home maintenance calendar with smoke alarm test days from Jan. 2 to Dec. 4. Includes radon, hurricane season dates and a printable checklist."
 type: explainer
 publishedAt: "2026-11-04T07:14:00-05:00"
 updatedAt: "2026-11-04T07:14:00-05:00"

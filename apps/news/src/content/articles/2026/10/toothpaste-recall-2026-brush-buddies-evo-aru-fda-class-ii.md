@@ -1,7 +1,6 @@
 ---
-title: "Toothpaste Recall 2026: Brush Buddies, evo and Aru Tubes Under FDA Class II Recall, Per Reports"
-seoTitle: "Toothpaste Recall 2026: Brush Buddies, evo, Aru"
-description: "The Food and Drug Administration (FDA) classified a toothpaste recall as Class II on Oct. 19, 2026. Brush Buddies, evo and Aru: what outlets report, what to do."
+title: "Brush Buddies Toothpaste Recall 2026: Class II, evo and Aru Listed"
+description: "Toothpaste recall 2026: NBC News reports the Food and Drug Administration (FDA) set Class II on Oct. 19. Brush Buddies, evo and Aru tubes, and what to do."
 type: news
 publishedAt: "2026-10-25T13:10:00-04:00"
 updatedAt: "2026-10-27T10:05:00-04:00"

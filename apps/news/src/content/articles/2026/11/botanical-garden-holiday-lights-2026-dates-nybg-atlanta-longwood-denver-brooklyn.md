@@ -1,7 +1,6 @@
 ---
-title: "Botanical Garden Holiday Lights 2026: Dates, Hours and Prices at 5 Gardens"
-seoTitle: "Botanical Garden Holiday Lights 2026 Dates and Prices"
-description: "New York Botanical Garden (NYBG) and Atlanta Botanical Garden open Sat., Nov. 14, 2026; Longwood, Denver and Brooklyn open Fri., Nov. 20, per each garden."
+title: "Botanical Garden Holiday Lights 2026: Opening Dates at 5 Gardens"
+description: "Botanical garden holiday lights 2026 open Nov. 14 at two gardens and Nov. 20 at three. Closing dates, Denver's Nov. 9 ticket sale and prices in a grid."
 type: explainer
 publishedAt: "2026-11-04T18:38:00-05:00"
 updatedAt: "2026-11-06T01:30:00-05:00"

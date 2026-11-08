@@ -1,7 +1,6 @@
 ---
-title: "Feast Week 2026 College Basketball: Maui, Battle 4 Atlantis, Players Era Dates and Teams"
-seoTitle: "Feast Week 2026 College Basketball Tournament Dates"
-description: "Thanksgiving week college basketball 2026: Maui Invitational Nov. 23-25, Battle 4 Atlantis Nov. 25-27, Players Era Nov. 24-28, with every field and a printable."
+title: "Feast Week Tournaments 2026: Maui Nov. 23-25, Atlantis Nov. 25-27"
+description: "Feast Week 2026 college basketball: Maui Invitational Nov. 23-25, Battle 4 Atlantis Nov. 25-27, Players Era Nov. 24-28. Every field and a printable."
 type: news
 publishedAt: "2026-11-01T10:52:00-05:00"
 updatedAt: "2026-11-04T13:41:00-05:00"

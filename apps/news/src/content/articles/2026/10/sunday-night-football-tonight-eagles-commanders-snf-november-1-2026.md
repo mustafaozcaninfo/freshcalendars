@@ -1,7 +1,6 @@
 ---
-title: "Sunday Night Football: Commanders 27, Eagles 10 on Nov. 1, 2026, Time, Channel and Stream"
-seoTitle: "Sunday Night Football: Commanders 27, Eagles 10"
-description: "Sunday Night Football: the Commanders beat the Eagles 27-10 on Sunday, Nov. 1, 2026. Kickoff was 8:20 p.m. Eastern Time (ET) on NBC and Peacock."
+title: "Eagles Game Nov. 1: Commanders 27, Eagles 10 on Sunday Night"
+description: "The Commanders beat the Eagles 27-10 on Sunday Night Football, Nov. 1, 2026. Kickoff was 8:20 p.m. ET on NBC; times for every U.S. zone."
 type: news
 publishedAt: "2026-10-30T05:20:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

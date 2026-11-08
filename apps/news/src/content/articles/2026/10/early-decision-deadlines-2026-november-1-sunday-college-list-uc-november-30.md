@@ -1,7 +1,6 @@
 ---
-title: "Early Decision Deadline 2026: Nov. 1 at 10 Colleges Has Passed, Duke Is Monday, Nov. 2"
-seoTitle: "Early Decision Deadline 2026: Nov. 1, Nov. 2, UC"
-description: "Early Decision (ED) and Early Action (EA) deadlines were Sunday, Nov. 1, 2026 at 10 colleges. Duke's is Nov. 2; the University of California (UC) is Nov. 1-30."
+title: "Early Decision Deadlines 2026: Nov. 1 at 10 Colleges, Duke Nov. 2"
+description: "Early Decision (ED) and Early Action (EA) deadlines were Nov. 1 at 10 colleges and Nov. 2 at Duke. The University of California (UC) filing runs Nov. 1-30."
 type: news
 publishedAt: "2026-10-29T23:50:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

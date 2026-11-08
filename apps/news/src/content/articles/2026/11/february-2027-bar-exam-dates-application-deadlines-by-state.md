@@ -1,7 +1,6 @@
 ---
-title: "February 2027 Bar Exam: Feb. 23-24 Dates and Application Deadlines by State"
-seoTitle: "February 2027 Bar Exam Dates and Deadlines by State"
-description: "The February 2027 bar exam is Feb. 23-24, says the National Conference of Bar Examiners (NCBE). New York has closed; California's $50 late window ends Nov. 30."
+title: "February 2027 Bar Exam Dates: Feb. 23-24, Deadlines by State"
+description: "The February 2027 bar exam is Feb. 23-24, per the National Conference of Bar Examiners (NCBE). Deadlines for five states in date order, with days left."
 type: news
 publishedAt: "2026-11-04T14:46:00-05:00"
 updatedAt: "2026-11-04T14:46:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Thanksgiving 2026 Is Thursday, Nov. 26: Why the Date Moves, Dates to 2035, Game and Parade Times"
-seoTitle: "Thanksgiving 2026: Thursday, Nov. 26 (Games, Parade)"
-description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November. See dates through 2035, football and Macy's parade times, and who gets Friday off."
+title: "Thanksgiving 2026: Thursday, Nov. 26, With Game and Parade Times"
+description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November. Dates through 2035, football and Macy's parade times, and a printable."
 type: explainer
 publishedAt: "2026-10-17T16:30:00-04:00"
 updatedAt: "2026-11-06T02:18:00-05:00"

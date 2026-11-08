@@ -1,7 +1,6 @@
 ---
-title: "SNAP Payment Schedule December 2026: Deposit Dates by State and the Christmas Weekend"
-seoTitle: "SNAP Payment Schedule December 2026: Dates by State"
-description: "Supplemental Nutrition Assistance Program (SNAP) deposit days for December 2026 by state, with first and last weekdays and Christmas Day flagged."
+title: "SNAP Payment Schedule December 2026: Dec. 1 Start, Christmas Flagged"
+description: "Supplemental Nutrition Assistance Program (SNAP) December 2026 deposits start Tuesday, Dec. 1 in five places. Days by state, with Christmas Day flagged."
 type: news
 publishedAt: "2026-10-31T10:30:00-04:00"
 updatedAt: "2026-11-02T02:43:00-05:00"

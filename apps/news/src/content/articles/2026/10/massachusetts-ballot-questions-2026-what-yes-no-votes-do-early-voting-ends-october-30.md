@@ -1,7 +1,6 @@
 ---
-title: "Massachusetts Ballot Questions 2026: What Yes and No Votes Do, Early Voting Ends Oct. 30"
-seoTitle: "Massachusetts Ballot Questions 2026: Yes and No"
-description: "In-person early voting in Massachusetts ended Oct. 30, 2026, and Election Day is Nov. 3. What a yes or no vote does on each of the nine statewide questions."
+title: "Massachusetts Ballot Questions 2026: Yes and No Votes on All 9"
+description: "Massachusetts ballot questions 2026: nine binding statewide questions on the Nov. 3 ballot. What a yes or no vote does on each, plus a printable checklist."
 type: news
 publishedAt: "2026-10-30T13:48:00-04:00"
 updatedAt: "2026-11-01T02:41:00-05:00"

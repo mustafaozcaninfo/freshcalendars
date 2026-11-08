@@ -1,7 +1,6 @@
 ---
-title: "Qatar Grand Prix 2026: Race Time by Time Zone on Sunday, Nov. 29, and Full Weekend Schedule"
-seoTitle: "Qatar Grand Prix 2026: Schedule and Race Time"
-description: "The Formula 1 (F1) Qatar Grand Prix is Sunday, Nov. 29, 2026, at 11 a.m. Eastern Time (ET), 7 p.m. local time. Qualifying is Saturday at 1 p.m. ET."
+title: "Qatar Grand Prix 2026: Race Nov. 29 at 11 a.m. ET, Every Session"
+description: "The Qatar Grand Prix 2026 race is Sunday, Nov. 29, at 11 a.m. ET, 7 p.m. local time. Every session in U.S. time zones and GMT, plus a printable schedule."
 type: news
 publishedAt: "2026-10-27T19:44:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

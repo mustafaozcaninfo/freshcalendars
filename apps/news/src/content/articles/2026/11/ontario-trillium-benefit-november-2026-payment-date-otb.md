@@ -1,7 +1,6 @@
 ---
-title: "Ontario Trillium Benefit November 2026: Payment Lands Tuesday, Nov. 10"
-seoTitle: "Ontario Trillium Benefit November 2026: Nov. 10"
-description: "The Canada Revenue Agency (CRA) lists Tuesday, Nov. 10, 2026 as the Ontario Trillium Benefit (OTB) payment date, then Dec. 10. Credit maximums inside."
+title: "Ontario Trillium Benefit November 2026: Paid Tuesday, Nov. 10"
+description: "The Ontario Trillium Benefit (OTB) is paid Tuesday, Nov. 10, 2026, then Dec. 10, says the Canada Revenue Agency. Credit maximums and a printable."
 type: news
 publishedAt: "2026-11-06T14:06:00-05:00"
 authors: [christina-gerland]

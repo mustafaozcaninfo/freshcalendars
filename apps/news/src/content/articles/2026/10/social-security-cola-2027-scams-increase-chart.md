@@ -1,7 +1,6 @@
 ---
-title: "Social Security COLA 2027 Scams: What the Watchdog Warns, Plus a 3.6% Increase Chart and 2027 Pay Dates"
-seoTitle: "Social Security COLA 2027 Scams and Increase Chart"
-description: "Scammers are using the 3.6% COLA for 2027 to demand fees. The raise is automatic. Red flags, where to report, an increase chart and 2027 payment dates."
+title: "Social Security COLA 2027 Scams: Red Flags and Where to Report"
+description: "Scammers use the 3.6% cost-of-living adjustment for 2027 to demand fees, but the raise is automatic. Red flags, where to report and an increase chart."
 type: news
 publishedAt: "2026-10-18T14:30:00-04:00"
 authors: [aaron-kessler]

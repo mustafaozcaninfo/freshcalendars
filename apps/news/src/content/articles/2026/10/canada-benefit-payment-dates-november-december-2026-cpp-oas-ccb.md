@@ -1,7 +1,6 @@
 ---
-title: "CPP Payment Dates November 2026: CPP and OAS on Nov. 26, CCB on Nov. 20, plus December"
-seoTitle: "CPP Payment Dates November 2026 and December"
-description: "Canada Pension Plan (CPP) and Old Age Security (OAS) pay Thu., Nov. 26 and Tue., Dec. 22, 2026, says Service Canada. All federal benefit dates for both months."
+title: "Canada Pension Plan Payment Dates: Nov. 26 and Dec. 22, 2026"
+description: "Canada Pension Plan (CPP) payment dates are Thursday, Nov. 26 and Tuesday, Dec. 22, 2026, per Service Canada. A table lists every federal benefit date."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [christina-gerland]

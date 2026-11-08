@@ -1,7 +1,6 @@
 ---
-title: "Valentine's Day 2027 Falls on a Sunday: Dates to Plan Around and a Free Printable"
-seoTitle: "Valentine's Day 2027: Sunday, Feb. 14, and Dates"
-description: "Valentine's Day 2027 is Sunday, Feb. 14, and Presidents' Day follows Monday, Feb. 15, per the U.S. Office of Personnel Management (OPM). Weekdays to 2032."
+title: "Valentine's Day 2027: Sunday, Feb. 14, and Presidents' Day Feb. 15"
+description: "Valentine's Day 2027 is Sunday, Feb. 14, and Presidents' Day follows Monday, Feb. 15. Weekdays through 2032, dates around the holiday and a free printable."
 type: explainer
 publishedAt: "2026-10-31T00:59:00-04:00"
 authors: [christina-gerland]

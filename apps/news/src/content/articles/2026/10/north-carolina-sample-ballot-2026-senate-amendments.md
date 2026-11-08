@@ -1,7 +1,6 @@
 ---
-title: "North Carolina Sample Ballot 2026: How to See Yours, the Senate and Court Races and Three Amendments"
-seoTitle: "NC Sample Ballot 2026: Senate, Courts and 3 Amendments"
-description: "Find your North Carolina sample ballot for Nov. 3, 2026 with Voter Search, plus the U.S. Senate and court candidates, three amendments and key dates."
+title: "North Carolina Sample Ballot 2026: Voter Search, Senate, 3 Amendments"
+description: "Find your North Carolina sample ballot for Nov. 3, 2026 with Voter Search. Lists the U.S. Senate and court candidates, three amendments and key dates."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "CES 2027 Dates and Keynotes: Jan. 6-9 in Las Vegas, Waymo, Stellantis and Lenovo Times"
-seoTitle: "CES 2027 Dates and Keynote Times by Time Zone"
-description: "The Consumer Technology Association (CTA) holds its show, once called the Consumer Electronics Show (CES), Jan. 6-9, 2027, in Las Vegas; Waymo speaks Jan. 5."
+title: "CES 2027 Keynotes: Waymo Jan. 5, Stellantis and Lenovo Jan. 6"
+description: "Consumer Electronics Show (CES) 2027 runs Jan. 6-9 in Las Vegas, per the Consumer Technology Association (CTA). Keynote times in ET and abroad."
 type: explainer
 publishedAt: "2026-11-04T06:45:00-05:00"
 authors: [jessica-hartwell]

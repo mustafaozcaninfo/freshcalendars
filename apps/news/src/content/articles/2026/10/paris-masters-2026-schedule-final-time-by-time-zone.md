@@ -1,7 +1,6 @@
 ---
-title: "Paris Masters 2026 Schedule: Final Time by U.S. Time Zone, Oct. 31 to Nov. 8, and Daily Order of Play"
-seoTitle: "Paris Masters 2026 Schedule and Final Time by Zone"
-description: "The Rolex Paris Masters runs Oct. 31 to Nov. 8, 2026; the singles final starts at 3 p.m. Central European Time (CET), 9 a.m. Eastern Time (ET)."
+title: "Paris Masters 2026 Schedule: Singles Final Nov. 8, 9 a.m. ET"
+description: "The Paris Masters 2026 singles final is Sunday, Nov. 8 at 3 p.m. CET, 9 a.m. ET. Final time by U.S. time zone and the daily order of play."
 type: news
 publishedAt: "2026-10-27T11:55:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

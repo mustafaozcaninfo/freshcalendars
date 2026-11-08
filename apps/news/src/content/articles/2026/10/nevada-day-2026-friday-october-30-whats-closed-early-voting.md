@@ -1,7 +1,6 @@
 ---
-title: "Nevada Day 2026 Was Friday, Oct. 30: What's Closed and Why Early Voting Still Ran"
-seoTitle: "Nevada Day 2026: What's Closed and Early Voting"
-description: "Nevada Day was Friday, Oct. 30, 2026, a state holiday under Nevada Revised Statutes (NRS) 236.015. State offices and schools closed; early voting still ran."
+title: "Can You Vote on Nevada Day 2026? Yes, Early Voting Ran Oct. 30"
+description: "Yes, early voting ran on Nevada Day, Friday, Oct. 30, 2026. State offices, courts and schools closed under Nevada Revised Statutes (NRS) 236.015."
 type: explainer
 publishedAt: "2026-10-27T14:03:00-04:00"
 updatedAt: "2026-11-01T02:39:00-05:00"

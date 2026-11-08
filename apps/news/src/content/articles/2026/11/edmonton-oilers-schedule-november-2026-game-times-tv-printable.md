@@ -1,7 +1,6 @@
 ---
-title: "Oilers Schedule November 2026: Game Times in Mountain and Eastern Time, TV"
-seoTitle: "Oilers Schedule November 2026: Times and TV"
-description: "The Oilers' next game is Tue., Nov. 3, 2026, at 5:30 p.m. Mountain Time (MT), 7:30 p.m. Eastern Time (ET), at New Jersey, per the National Hockey League (NHL)."
+title: "Oilers Schedule November 2026: 15 Games, Vegas on Nov. 24"
+description: "Oilers November 2026 schedule: 15 games, six at home at Rogers Place, with Vegas on national TV Nov. 24. Mountain and Eastern times, TV and a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

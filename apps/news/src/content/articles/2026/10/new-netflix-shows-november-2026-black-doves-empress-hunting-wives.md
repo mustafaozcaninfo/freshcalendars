@@ -1,7 +1,6 @@
 ---
-title: "New Netflix Shows November 2026: Black Doves Season 2 on Nov. 5, Hunting Wives on Nov. 26"
-seoTitle: "New Netflix Shows November 2026: Series Dates"
-description: "Netflix lists Black Doves Season 2 for Thu., Nov. 5, 2026 and The Hunting Wives Season 2 for Nov. 26. See each November series date in a table and print a list."
+title: "New Netflix Shows November 2026: Black Doves Season 2 on Nov. 5"
+description: "Netflix lists Black Doves Season 2 for Thursday, Nov. 5, 2026 and four more series through Nov. 26. Dated table by weekday and a free printable watch list."
 type: news
 publishedAt: "2026-10-31T10:00:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

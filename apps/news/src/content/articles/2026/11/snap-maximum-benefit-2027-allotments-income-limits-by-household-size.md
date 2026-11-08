@@ -1,7 +1,6 @@
 ---
-title: "SNAP Benefit Amounts 2027: Maximum Allotments and Income Limits by Household Size"
-seoTitle: "SNAP Maximum Benefit 2027 by Household Size"
-description: "The Supplemental Nutrition Assistance Program (SNAP) maximum for fiscal year (FY) 2027 is $306 for one person and $1,023 for four, with income limits."
+title: "SNAP Income Limits 2027: $1,729 for One, $3,575 for Four"
+description: "Supplemental Nutrition Assistance Program (SNAP) gross income limits for 2027 are $1,729 a month for one person and $3,575 for four, with maximum benefits."
 type: news
 publishedAt: "2026-11-04T07:35:00-05:00"
 updatedAt: "2026-11-08T02:48:27-05:00"

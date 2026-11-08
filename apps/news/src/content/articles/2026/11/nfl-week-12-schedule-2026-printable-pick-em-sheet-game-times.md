@@ -1,7 +1,6 @@
 ---
-title: "NFL Week 12 Schedule 2026: Thanksgiving Week Game Times, TV and a Printable Pick'em Sheet"
-seoTitle: "NFL Week 12 Schedule 2026: Times and Pick'em Sheet"
-description: "National Football League (NFL) Week 12 runs Nov. 25 to 30, 2026: 16 games, no byes, Eastern Time (ET) kickoffs, TV channels and a printable pick'em sheet."
+title: "NFL Week 12 Schedule 2026: Nov. 25-30 Times, Pick'em Sheet"
+description: "NFL Week 12 runs Nov. 25 to 30, 2026: 16 games, no byes. Thanksgiving kickoffs are 1, 4:30 and 8:20 p.m. ET, plus TV channels and a free pick'em sheet."
 type: news
 publishedAt: "2026-10-31T10:30:00-04:00"
 updatedAt: "2026-11-05T09:22:00-05:00"

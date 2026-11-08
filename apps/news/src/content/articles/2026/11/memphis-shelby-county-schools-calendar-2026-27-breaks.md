@@ -1,7 +1,6 @@
 ---
-title: "Memphis-Shelby County Schools (MSCS) Calendar 2026-27: Breaks and Two Spring Breaks"
-seoTitle: "MSCS Calendar 2026-27: Breaks and Spring Breaks"
-description: "Memphis-Shelby County Schools (MSCS) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4, Mar. 15-19 and Mar. 26 and 29, 2027. Last day: Thu., May 20, 2027."
+title: "Memphis-Shelby County Schools Calendar 2026-27: Last Day May 20"
+description: "Memphis-Shelby County Schools (MSCS) 2026-27 calendar, pending state approval: no school Nov. 23-27, Dec. 21-Jan. 4, Mar. 15-19, and Mar. 26 and 29."
 type: explainer
 publishedAt: "2026-11-04T06:20:00-05:00"
 authors: [aaron-kessler]

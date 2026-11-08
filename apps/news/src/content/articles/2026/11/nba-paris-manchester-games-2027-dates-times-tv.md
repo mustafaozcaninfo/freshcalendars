@@ -1,7 +1,6 @@
 ---
-title: "NBA Paris and Manchester Games 2027: Spurs vs. Pelicans Dates, Tip Times and TV"
-seoTitle: "NBA Paris and Manchester Games 2027: Dates and Times"
-description: "The NBA plays Spurs vs. Pelicans in Paris Thu., Jan. 14, 2027, at 2 p.m. Eastern Time (ET), then in Manchester Sun., Jan. 17, at 10:30 a.m. ET on Prime Video."
+title: "NBA Paris Game 2027: Jan. 14 at 2 p.m. ET, Manchester Jan. 17"
+description: "The NBA Paris Game is Thu., Jan. 14, 2027, at 2 p.m. ET: Spurs vs. Pelicans on Prime Video. Manchester follows Jan. 17, 10:30 a.m. ET, with local times."
 type: news
 publishedAt: "2026-11-04T15:06:00-05:00"
 authors: [jessica-hartwell]

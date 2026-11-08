@@ -1,7 +1,6 @@
 ---
-title: "Ford Fathom Release Date, Price and Range: Every Date and Spec Ford Has Confirmed"
-seoTitle: "Ford Fathom: Release Date, Price, Range and Specs"
-description: "Ford Fathom starts at a $28,350 manufacturer's suggested retail price (MSRP), preorders open in early 2027, and Ford has not yet published its driving range."
+title: "Ford Fathom Release Date: Preorders Early 2027, From $28,350"
+description: "Ford Fathom release date: preorders open in early 2027 and it starts at $28,350. A timeline splits the specs into confirmed and not published."
 type: explainer
 publishedAt: "2026-10-29T14:30:00-04:00"
 updatedAt: "2026-10-30T01:20:00-04:00"

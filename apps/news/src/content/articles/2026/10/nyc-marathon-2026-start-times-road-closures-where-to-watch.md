@@ -1,7 +1,6 @@
 ---
-title: "NYC Marathon 2026 Results: Almgren and Chepkirui Win, Plus Start Times, TV and Road Closures"
-seoTitle: "NYC Marathon 2026 Results: Winners and Times"
-description: "Andreas Almgren and Sheila Chepkirui won the New York City Marathon on Sunday, Nov. 1, 2026. Winners, times, start times, TV and road closures for race day."
+title: "NYC Marathon 2026 Results: Almgren 2:06:01, Chepkirui 2:24:36"
+description: "Andreas Almgren and Sheila Chepkirui won the 2026 New York City Marathon on Nov. 1. Winning times, wave start times, TV and road closures for race day."
 type: news
 publishedAt: "2026-10-24T13:05:00-04:00"
 updatedAt: "2026-11-03T07:09:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "National Family Literacy Day 2026 Was Sunday, Nov. 1: Month Dates and a 7-Day Reading Plan"
-seoTitle: "National Family Literacy Day 2026: Sunday, Nov. 1"
-description: "National Family Literacy Day was Sunday, Nov. 1, 2026, set by the National Center for Families Learning (NCFL). November dates and a free 7-day reading plan."
+title: "National Family Literacy Day 2026: Month Dates, 7-Day Reading Plan"
+description: "National Family Literacy Day was Sunday, Nov. 1, 2026. See the November dates, including the Nov. 8-11 conference, and a free 7-day family reading plan."
 type: explainer
 publishedAt: "2026-10-31T16:46:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

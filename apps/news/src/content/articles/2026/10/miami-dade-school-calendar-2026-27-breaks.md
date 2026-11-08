@@ -1,7 +1,6 @@
 ---
-title: "Miami-Dade School Calendar 2026-27: Thanksgiving Week Off, Winter Recess and a June 3 Last Day"
-seoTitle: "Miami-Dade School Calendar 2026-27: Breaks"
-description: "Miami-Dade schools 2026-27: fall recess and Thanksgiving Nov. 23-27, winter recess Dec. 21-Jan. 1, spring recess March 22-26, last day June 3, 2027."
+title: "Miami-Dade School Calendar 2026-27: Last Day Is June 3"
+description: "Miami-Dade school calendar 2026-27: Thanksgiving week off Nov. 23-27, winter recess Dec. 21-Jan. 1, spring recess March 22-26. Last day is June 3, 2027."
 type: news
 publishedAt: "2026-10-19T11:16:00-04:00"
 authors: [aaron-kessler]

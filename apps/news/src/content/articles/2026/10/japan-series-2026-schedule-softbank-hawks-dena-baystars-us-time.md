@@ -1,7 +1,6 @@
 ---
-title: "Japan Series 2026: SoftBank Sweeps DeNA 4-0 for Back-to-Back Titles, Results and Game Times"
-seoTitle: "Japan Series 2026: SoftBank Sweeps DeNA, Results"
-description: "SoftBank beat DeNA 4-2 on Oct. 28, 2026, in a game that began 5 a.m. Eastern Time (ET), sweeping the Japan Series 4-0 for a second straight title."
+title: "Japan Series 2026 Results: SoftBank Sweeps DeNA 4-0"
+description: "SoftBank swept DeNA 4-0 to win the 2026 Japan Series, taking Game 4 by 4-2 on Oct. 28 at 5 a.m. ET. Results and game times in U.S. time."
 type: news
 publishedAt: "2026-10-28T05:41:00-04:00"
 updatedAt: "2026-10-28T07:45:00-04:00"

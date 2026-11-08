@@ -1,7 +1,6 @@
 ---
-title: "National Puzzle Day 2027: Friday, Jan. 29, and Free Daily Puzzles to Play"
-seoTitle: "National Puzzle Day 2027: Friday, Jan. 29"
-description: "National Puzzle Day falls on Friday, Jan. 29, 2027, says founder Jodi Jill's puzzledayfun.com. Weekdays to 2032, the free kit status and a one-page plan sheet."
+title: "National Puzzle Day 2027: Friday, Jan. 29, Weekdays to 2032"
+description: "National Puzzle Day 2027 is Friday, Jan. 29, says founder Jodi Jill's puzzledayfun.com. No 2027 free kit yet. Weekdays to 2032 and a one-page plan sheet."
 type: explainer
 publishedAt: "2026-11-04T06:00:00-05:00"
 authors: [christina-gerland]

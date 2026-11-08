@@ -1,7 +1,6 @@
 ---
-title: "Carabao Cup Quarter-Finals 2026: Dec. 15-17 Fixtures, Kick-Off Times in UK and US"
-seoTitle: "Carabao Cup Quarter-Finals 2026: Dates, Times, TV"
-description: "Carabao Cup quarter-finals: Liverpool host Bournemouth Dec. 16, 8pm Greenwich Mean Time (GMT), 3 p.m. Eastern Time (ET). Fleetwood v Everton not confirmed."
+title: "Carabao Cup Quarter-Finals 2026: Dec. 15 and 16 Fixtures, Times"
+description: "Carabao Cup quarter-finals: Liverpool host Bournemouth Dec. 16 at 3 p.m. ET. Fixtures in UK, Eastern and Pacific time; Fleetwood v Everton not confirmed."
 type: news
 publishedAt: "2026-11-07T06:10:00-05:00"
 authors: [jessica-hartwell]

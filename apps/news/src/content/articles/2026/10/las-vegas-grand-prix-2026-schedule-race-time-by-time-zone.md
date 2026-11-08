@@ -1,7 +1,6 @@
 ---
-title: "Las Vegas Grand Prix 2026: Race Time by U.S. Time Zone on Saturday, Nov. 21, and Full Weekend Schedule"
-seoTitle: "Las Vegas Grand Prix 2026: Schedule and Race Time"
-description: "The Las Vegas Grand Prix is Saturday, Nov. 21, 2026, at 8 p.m. local time, Formula 1 (F1) says. That is 11 p.m. Eastern Standard Time (EST)."
+title: "Las Vegas Grand Prix 2026 Time: Nov. 21 at 11 p.m. ET"
+description: "The Las Vegas Grand Prix is Saturday, Nov. 21, 2026, at 8 p.m. local time, 11 p.m. EST. Every session in ET, CT, MT and GMT, plus a free weekend schedule."
 type: news
 publishedAt: "2026-10-27T07:48:00-04:00"
 authors: [jessica-hartwell]

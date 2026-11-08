@@ -1,7 +1,6 @@
 ---
-title: "Lewes Polar Bear Plunge 2027: Sunday, Feb. 7 at 1:00 p.m. in Rehoboth Beach"
-seoTitle: "Lewes Polar Bear Plunge 2027: Feb. 7, 1:00 p.m."
-description: "The 36th Lewes Polar Bear Plunge is Sunday, Feb. 7, 2027, at 1:00 p.m. in Rehoboth Beach, says Special Olympics Delaware. The 2026 plunge was canceled."
+title: "Lewes Polar Bear Plunge 2027: Sunday, Feb. 7 at 1:00 p.m."
+description: "The 36th Lewes Polar Bear Plunge is Sunday, Feb. 7, 2027, at 1:00 p.m. in Rehoboth Beach. See why 2026 was canceled, the incentives and a checklist."
 type: news
 publishedAt: "2026-11-04T07:10:00-05:00"
 updatedAt: "2026-11-04T07:10:00-05:00"

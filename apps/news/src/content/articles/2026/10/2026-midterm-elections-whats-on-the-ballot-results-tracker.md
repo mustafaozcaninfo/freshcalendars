@@ -1,7 +1,6 @@
 ---
-title: "2026 Midterm Elections: 35 Senate Seats, 435 House Seats and 36 Governors on the Ballot Nov. 3, Plus a Tracker"
-seoTitle: "2026 Midterm Elections: What's on the Ballot Nov. 3"
-description: "The Nov. 3, 2026 midterms decide 35 Senate seats, all 435 House seats and 36 governors. Every race by state, dates after Election Day and a printable tracker."
+title: "2026 Midterm Elections: 35 Senate Seats, 435 House Seats, Tracker"
+description: "The Nov. 3, 2026 midterm ballot had 35 Senate seats, all 435 House seats and 36 governors. Results dates by state and a printable tracker."
 type: explainer
 publishedAt: "2026-10-20T11:00:00-04:00"
 updatedAt: "2026-11-03T21:25:00-05:00"

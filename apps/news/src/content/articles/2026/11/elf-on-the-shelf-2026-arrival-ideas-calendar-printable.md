@@ -1,7 +1,6 @@
 ---
-title: "Elf on the Shelf 2026: When Scout Elves Return, 29 Nightly Ideas and a Free Printable"
-seoTitle: "Elf on the Shelf 2026: Return Dates and Ideas"
-description: "Most Scout Elves return Thanksgiving night, Nov. 26, or Dec. 1, says The Elf on the Shelf. See 29 nightly ideas and a free printable idea calendar."
+title: "Elf on the Shelf 2026: Scout Elves Return Nov. 26 or Dec. 1"
+description: "When does Elf on the Shelf start in 2026? Most Scout Elves return Thanksgiving night, Nov. 26, or Dec. 1. See 29 nightly ideas and a free printable."
 type: explainer
 publishedAt: "2026-11-05T06:45:00-05:00"
 updatedAt: "2026-11-05T06:45:00-05:00"

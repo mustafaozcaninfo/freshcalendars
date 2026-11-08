@@ -1,7 +1,6 @@
 ---
-title: "NYT Connections Answers Explained for Oct. 25, 2026 (#1232): What Every Word Means and Why It Fits"
-seoTitle: "Connections Meanings Today, Oct. 25, 2026 (#1232)"
-description: "What each of the 16 words in Connections #1232 means, Sunday, Oct. 25, 2026: the slang, the pasta, the four Toms and the snaps, with a card for each group."
+title: "Connections #1232 Answers: What Every Word Means, Oct. 25"
+description: "Connections #1232 for Sunday, Oct. 25, 2026: what all 16 words mean, from slang and pasta to the four Toms and the snaps, with a card for each group."
 type: explainer
 publishedAt: "2026-10-25T01:20:00-04:00"
 authors: [news-desk]

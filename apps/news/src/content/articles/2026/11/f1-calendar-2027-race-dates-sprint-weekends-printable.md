@@ -1,7 +1,6 @@
 ---
-title: "F1 Calendar 2027: All 24 Race Dates and 10 Sprint Weekends, Bahrain to Abu Dhabi"
-seoTitle: "F1 Calendar 2027: 24 Races, 10 Sprint Weekends"
-description: "The 2027 Formula 1 (F1) calendar has 24 Grands Prix and 10 Sprint weekends, from Bahrain on Mar. 14 to Abu Dhabi on Dec. 12, with every race date in one table."
+title: "F1 Calendar 2027: 24 Races and 10 Sprint Weekends, Printable"
+description: "The 2027 Formula 1 (F1) calendar has 24 Grands Prix, Bahrain on Mar. 14 to Abu Dhabi on Dec. 12. Every race date, 10 Sprint weekends and a printable."
 type: news
 publishedAt: "2026-11-01T19:20:00-05:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

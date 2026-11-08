@@ -1,7 +1,6 @@
 ---
-title: "What Is a Leap Year? The 4, 100 and 400 Rule, With Every Leap Year to 2100"
-seoTitle: "What Is a Leap Year? Rule, Examples and Next Dates"
-description: "A leap year has 366 days, with Feb. 29 added. The U.S. Naval Observatory (USNO) says years divisible by 4 qualify, except century years not divisible by 400."
+title: "What Is a Leap Year? Next Is 2028, With Every One to 2100"
+description: "A leap year has 366 days, with Feb. 29 added. Years divisible by 4 qualify, except centuries not divisible by 400. Next is 2028; a table lists all to 2100."
 type: explainer
 publishedAt: "2026-10-30T08:20:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

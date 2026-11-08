@@ -1,7 +1,6 @@
 ---
-title: "COP31 2026: Nov. 9-20 Dates, Antalya Schedule and How to Follow"
-seoTitle: "COP31 2026: Dates, Antalya Schedule, Leaders' Summit"
-description: "COP31 runs Nov. 9-20, 2026 in Antalya, Türkiye, per the United Nations (UN). The Leaders' Summit is Nov. 11-12 and the premises close Sunday, Nov. 15."
+title: "COP31 2026: Nov. 9-20 in Antalya, Leaders' Summit Nov. 11-12"
+description: "COP31 runs Nov. 9-20, 2026 in Antalya, Türkiye, per the United Nations. The Leaders' Summit is Nov. 11-12, and the premises close Sunday, Nov. 15."
 type: news
 publishedAt: "2026-11-08T07:08:00-05:00"
 updatedAt: "2026-11-08T07:08:00-05:00"

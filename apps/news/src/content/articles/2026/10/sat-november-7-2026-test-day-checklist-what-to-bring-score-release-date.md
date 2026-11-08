@@ -1,7 +1,6 @@
 ---
-title: "SAT November 7, 2026: Test Day Checklist, What to Bring and Score Release Date"
-seoTitle: "SAT Nov. 7, 2026: What to Bring and Score Dates"
-description: "SAT on Sat., Nov. 7, 2026: doors open 7:45 a.m. and close 8 a.m. Eastern Time (ET). Print the test-week checklist; scores reach students Nov. 20."
+title: "November 2026 SAT: Test Was Nov. 7, Scores Come Nov. 20"
+description: "The November 2026 SAT was Sat., Nov. 7. Scores reach students Fri., Nov. 20; free score sends can be changed until Mon., Nov. 16. Checklist included."
 type: explainer
 publishedAt: "2026-10-29T15:46:00-04:00"
 authors: [aaron-kessler]

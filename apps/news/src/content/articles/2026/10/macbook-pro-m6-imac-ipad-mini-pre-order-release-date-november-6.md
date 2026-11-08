@@ -1,7 +1,6 @@
 ---
-title: "MacBook Pro M6 Release Date Is Nov. 6; Pre-Orders Opened Oct. 28"
-seoTitle: "MacBook Pro M6: Nov. 6 Release, Pre-Orders Opened Oct. 28"
-description: "Apple's MacBook Pro with M6, iMac and iPad mini arrive Friday, Nov. 6, 2026; pre-orders opened Oct. 28. See dates, prices and a time zone table."
+title: "MacBook Pro M6 Release Date: Nov. 6, Pre-Orders Opened Oct. 28"
+description: "MacBook Pro M6 arrived Friday, Nov. 6, 2026, from $1,999; pre-orders opened Oct. 28. Also iMac and iPad mini dates, prices and a time zone table."
 type: news
 publishedAt: "2026-10-27T19:42:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Bonus Tax Rate 2026: The 22% Flat Rate, the 37% Rule and a Take-Home Table"
-seoTitle: "Bonus Tax Rate 2026: 22% Flat Rate and 37% Rule"
-description: "The Internal Revenue Service (IRS) says employers may withhold a flat 22% federal rate on 2026 bonuses, and 37% on supplemental pay over $1 million."
+title: "Bonus Tax Rate 2026: 22% Flat Rate and Take-Home on $1,000"
+description: "The IRS says employers may withhold a flat 22% federal rate on 2026 bonuses, and 37% above $1 million. A $1,000 bonus leaves $703.50 before state tax."
 type: explainer
 publishedAt: "2026-11-06T09:21:00-05:00"
 updatedAt: "2026-11-06T09:21:00-05:00"

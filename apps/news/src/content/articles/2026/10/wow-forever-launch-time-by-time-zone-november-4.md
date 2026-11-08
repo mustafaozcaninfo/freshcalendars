@@ -1,7 +1,6 @@
 ---
-title: "WoW Forever Launch Time: Nov. 4 Start by Time Zone, Name Reservations and Raid Dates"
-seoTitle: "WoW Forever Launch Time by Time Zone, Nov. 4"
-description: "World of Warcraft (WoW): Forever goes live Nov. 4, 2026 at 3 p.m. Pacific Standard Time (PST), 6 p.m. Eastern Standard Time (EST). Zone times and dates."
+title: "WoW Forever Launch Time: Nov. 4 at 3 p.m. PST, by Time Zone"
+description: "World of Warcraft (WoW): Forever launched Wed., Nov. 4, 2026 at 3 p.m. PST (6 p.m. EST). Times by time zone, name reservation dates and Dec. 9 raids."
 type: news
 publishedAt: "2026-10-31T07:50:00-04:00"
 updatedAt: "2026-11-01T05:33:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Medicaid Work Requirements Start Jan. 1, 2027: The 80-Hour Rule and Who Is Exempt"
-seoTitle: "Medicaid Work Requirements 2027: 80 Hours, Exemptions"
-description: "Medicaid work requirements start Jan. 1, 2027 for adults 19 to 64 in expansion states, per the Centers for Medicare & Medicaid Services (CMS): 80 hours monthly."
+title: "Medicaid Work Requirements 2027: 80 Hours a Month From Jan. 1"
+description: "Medicaid work requirements start Jan. 1, 2027: adults 19 to 64 need 80 hours a month. An exemption checklist, a state timeline and a printable tracker."
 type: news
 publishedAt: "2026-11-06T06:10:00-05:00"
 updatedAt: "2026-11-06T06:10:00-05:00"

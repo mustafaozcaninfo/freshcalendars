@@ -1,7 +1,6 @@
 ---
-title: "November 2026 Holidays and Important Dates: Election Day, Veterans Day, Thanksgiving Week and Days Until Each"
-seoTitle: "November 2026 Holidays: Calendar With Every Key Date"
-description: "Holidays in November 2026: Election Day Nov. 3, Veterans Day Nov. 11, Thanksgiving Nov. 26, Black Friday Nov. 27. Every date, days until each and a printable."
+title: "November Holidays 2026: Election Day Nov. 3, Thanksgiving Nov. 26"
+description: "November 2026 holidays: Election Day Nov. 3, Veterans Day Nov. 11, Thanksgiving Nov. 26. Days until each, plus a free printable calendar."
 type: explainer
 publishedAt: "2026-10-19T08:00:00-04:00"
 updatedAt: "2026-11-08T07:26:00-05:00"

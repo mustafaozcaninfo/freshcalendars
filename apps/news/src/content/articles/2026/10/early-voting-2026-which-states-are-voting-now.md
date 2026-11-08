@@ -1,7 +1,6 @@
 ---
-title: "Early Voting 2026: End Dates by State Before Election Day on Nov. 3"
-seoTitle: "Early Voting 2026: End Dates by State"
-description: "Early voting ended by Nov. 1 in the 11 states covered here, with dates and hours by state. Election Day was Tuesday, Nov. 3, 2026."
+title: "Early Voting 2026: End Dates by State, Last Day Nov. 1"
+description: "Early voting 2026 ended by Sunday, Nov. 1, before Election Day on Nov. 3. End dates for selected states, from Oct. 27 in Louisiana, plus hours and ID."
 type: news
 publishedAt: "2026-10-22T01:36:00-04:00"
 updatedAt: "2026-11-08T02:45:00-05:00"

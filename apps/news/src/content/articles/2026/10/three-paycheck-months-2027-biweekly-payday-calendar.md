@@ -1,7 +1,6 @@
 ---
-title: "Three-Paycheck Months 2027: Biweekly Friday Payday Calendar and the 27-Payday Year"
-seoTitle: "Three-Paycheck Months 2027: Biweekly Friday Payday Calendar"
-description: "A biweekly Friday payday on Jan. 1, 2027 gives 27 paydays and three-paycheck months in January, July and December; Jan. 8 gives April and October."
+title: "3 Paycheck Months 2027: Biweekly Fridays, 27 Paydays From Jan. 1"
+description: "Three paycheck months in 2027 are January, July and December if you are paid biweekly from Jan. 1, or April and October from Jan. 8. Both schedules shown."
 type: explainer
 publishedAt: "2026-10-29T17:45:00-04:00"
 authors: [aaron-kessler]

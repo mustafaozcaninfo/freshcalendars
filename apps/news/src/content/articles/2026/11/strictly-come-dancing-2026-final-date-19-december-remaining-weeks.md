@@ -1,7 +1,6 @@
 ---
-title: "Strictly Come Dancing 2026 Final: Saturday 19 December, and Every Live Show Left"
-seoTitle: "Strictly 2026 Final: Saturday 19 December"
-description: "Strictly Come Dancing's 2026 final is on Saturday 19 December, per TV Zone UK and ticket agency Donaheys, with seven live Saturday shows from 7 November."
+title: "Strictly Come Dancing 2026 Final Date: Saturday 19 December"
+description: "The Strictly Come Dancing 2026 final is Saturday 19 December, per TV Zone UK and Donaheys. A table of the seven live shows left and a one-page printable."
 type: news
 publishedAt: "2026-11-06T13:50:00-05:00"
 updatedAt: "2026-11-08T02:45:00-05:00"

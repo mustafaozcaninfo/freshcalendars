@@ -1,7 +1,6 @@
 ---
-title: "Sonic Holiday Menu 2026: Santa Slush Float, Gouda Bacon Smasher, Nationwide Nov. 2"
-seoTitle: "Sonic Holiday Menu 2026: Santa Slush Float, Smasher"
-description: "Sonic's 2026 holiday menu reached the Sonic App on Oct. 26 and went nationwide Nov. 2 with a Santa Slush Float and a Smoked Gouda and Bacon Smasher."
+title: "Sonic Holiday Menu 2026: Santa Slush Float, Nationwide Nov. 2"
+description: "The Sonic holiday menu 2026 went nationwide Nov. 2 after an Oct. 26 app debut. See the Santa Slush Float, Gouda and Bacon Smasher and $7 Big Deal Meal."
 type: news
 publishedAt: "2026-11-05T16:35:00-05:00"
 updatedAt: "2026-11-05T16:35:00-05:00"

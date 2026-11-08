@@ -1,7 +1,6 @@
 ---
-title: "Fort Worth ISD Calendar 2026-27: Thanksgiving, Winter Break and Spring Break"
-seoTitle: "Fort Worth ISD Calendar 2026-27 Breaks"
-description: "Fort Worth Independent School District (ISD) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 1 and March 15-19, 2027. Last day of school: Fri., May 21, 2027."
+title: "Fort Worth ISD Calendar 2026-27: Winter Break Dec. 21-Jan. 1"
+description: "Fort Worth Independent School District (ISD) calendar 2026-27: no school Nov. 23-27, Dec. 21-Jan. 1 and March 15-19. Last day is Fri., May 21, 2027."
 type: explainer
 publishedAt: "2026-11-04T06:40:00-05:00"
 authors: [aaron-kessler]

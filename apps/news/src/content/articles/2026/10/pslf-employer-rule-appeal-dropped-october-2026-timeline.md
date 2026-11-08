@@ -1,7 +1,6 @@
 ---
-title: "PSLF Employer Rule Appeal Dropped: Timeline From the Oct. 31, 2025 Rule to the Oct. 21, 2026 Dismissal"
-seoTitle: "PSLF Employer Rule Appeal Dropped: 2026 Timeline"
-description: "The government dropped its appeal of the ruling that vacated the Public Service Loan Forgiveness (PSLF) employer rule. See the dated timeline and form change."
+title: "PSLF Employer Rule Appeal Dropped: Dated Timeline to Oct. 21, 2026"
+description: "The government dropped its appeal of the ruling that vacated the Public Service Loan Forgiveness (PSLF) employer rule. Dated timeline and form change."
 type: news
 publishedAt: "2026-10-25T13:02:00-04:00"
 authors: [aaron-kessler]

@@ -1,7 +1,6 @@
 ---
-title: "November 2026 Meteor Showers: Taurid Fireballs Under Dark Skies, Then the Leonids on Nov. 16-17"
-seoTitle: "November 2026 Meteor Showers: Taurids and Leonids"
-description: "The Southern Taurids peak Nov. 4-5 and the Northern Taurids Nov. 11-12 under a thin moon; the Leonids peak Nov. 16-17. Best times to watch in the U.S."
+title: "November 2026 Meteor Showers: Leonids Nov. 16-17, Taurids Nov. 4-5"
+description: "November 2026 meteor showers: Southern Taurids peaked Nov. 4-5; Northern Taurids peak Nov. 11-12 and Leonids Nov. 16-17. Moon phase and U.S. viewing notes."
 type: news
 publishedAt: "2026-10-19T10:30:00-04:00"
 updatedAt: "2026-11-03T09:22:00-05:00"

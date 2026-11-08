@@ -1,7 +1,6 @@
 ---
-title: "LSAT Test Dates 2026-27: Registration Deadlines, Scheduling Windows and Score Release for Every Exam"
-seoTitle: "LSAT Test Dates 2026-27 and Registration Deadlines"
-description: "Law School Admission Test (LSAT) dates for 2026-27: Nov. 11-14, Jan. 13-16, Feb. 12-13, April 8-10 and June 9-12, with every deadline and score day."
+title: "LSAT Test Dates 2027: Jan. 13-16, Feb. 12-13, April 8-10, June 9-12"
+description: "Law School Admission Test (LSAT) dates for 2027: Jan. 13-16, Feb. 12-13, April 8-10 and June 9-12, with every deadline and score release day."
 type: explainer
 publishedAt: "2026-10-19T11:32:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

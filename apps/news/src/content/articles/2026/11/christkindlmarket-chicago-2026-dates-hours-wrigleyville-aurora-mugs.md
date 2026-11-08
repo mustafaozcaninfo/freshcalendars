@@ -1,7 +1,6 @@
 ---
-title: "Christkindlmarket Chicago 2026: Dates and Hours for Daley Plaza, Wrigleyville, Aurora"
-seoTitle: "Christkindlmarket Chicago 2026: Dates, Hours, Mugs"
-description: "All three Christkindlmarket Chicago markets open Friday, Nov. 20, 2026, the market's 30th year: Daley Plaza, Wrigleyville at Gallagher Way and Aurora."
+title: "Christkindlmarket Chicago 2026: Opens Nov. 20, Hours at 3 Markets"
+description: "Christkindlmarket Chicago 2026 opens Friday, Nov. 20 at Daley Plaza, Wrigleyville and Aurora. Free entry, closing dates, holiday hours and the 2026 mugs."
 type: news
 publishedAt: "2026-11-02T10:15:00-05:00"
 authors: [christina-gerland]

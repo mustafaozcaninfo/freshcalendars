@@ -1,7 +1,6 @@
 ---
-title: "Holiday Menus 2026: Every Chain's Christmas Drinks and Treats, With Launch Dates"
-seoTitle: "Holiday Menus 2026: Chain-by-Chain Launch Dates"
-description: "Holiday menus 2026: Starbucks starts Thu., Nov. 5; McDonald's, Dutch Bros, Caribou, Scooter's and Dunkin' are live. Launch dates, new items, chains pending."
+title: "Holiday Menus 2026: Chain Launch Dates, Starbucks Nov. 5"
+description: "Holiday menus 2026: Starbucks starts Thursday, Nov. 5; McDonald's, Dutch Bros, Caribou, Scooter's and Dunkin' are live. Items, pending chains, printable."
 type: news
 publishedAt: "2026-11-04T15:00:00-05:00"
 updatedAt: "2026-11-05T02:10:00-05:00"

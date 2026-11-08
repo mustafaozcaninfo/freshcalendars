@@ -1,7 +1,6 @@
 ---
-title: "Contexto Answers October 2026: Every Secret Word From #1474 to #1504"
-seoTitle: "Contexto Answers October 2026: All 31 Words"
-description: "Every Contexto secret word for October 2026, #1474 (Thu., Oct. 1) to #1504 (Sat., Oct. 31), with the closest words and word-length stats."
+title: "Contexto Answers October 2026: All 31 Words, #1474 to #1504"
+description: "Every Contexto answer for October 2026, #1474 (Oct. 1) to #1504 (Oct. 31), with the closest words to each, word-length stats and a printable list."
 type: explainer
 publishedAt: "2026-10-31T00:35:00-04:00"
 authors: [news-desk]

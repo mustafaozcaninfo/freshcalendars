@@ -1,7 +1,6 @@
 ---
-title: "Virginia Constitutional Amendments 2026: 3 Ballot Questions on Nov. 3, What Each Changes"
-seoTitle: "Virginia Constitutional Amendments 2026 Explained"
-description: "Virginia's Nov. 3, 2026 ballot has three proposed constitutional amendments, per the Department of Elections: exact wording, what each changes and deadlines."
+title: "Virginia Constitutional Amendments 2026: Exact Wording of 3 Questions"
+description: "Virginia constitutional amendments 2026: Question 1 covers reproductive freedom, Question 2 marriage, Question 3 the right to vote. Exact ballot wording."
 type: explainer
 publishedAt: "2026-10-31T13:40:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

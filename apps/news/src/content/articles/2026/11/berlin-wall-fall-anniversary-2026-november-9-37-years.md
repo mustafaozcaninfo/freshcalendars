@@ -1,7 +1,6 @@
 ---
-title: "Berlin Wall Fall Anniversary 2026: 37 Years on Monday, Nov. 9, and Freedom Week"
-seoTitle: "Berlin Wall Fall Anniversary 2026: Nov. 9 Events"
-description: "Monday, Nov. 9, 2026 is the 37th anniversary of the fall of the Berlin Wall, per Berlin.de. Berlin Freedom Week runs Nov. 7 to 14; district events have times."
+title: "Berlin Wall Anniversary 2026: 37 Years on Monday, Nov. 9"
+description: "The Berlin Wall anniversary is Monday, Nov. 9, 2026, 37 years on. Berlin Freedom Week runs Nov. 7 to 14, with district events listed by start time."
 type: news
 publishedAt: "2026-11-08T07:06:00-05:00"
 updatedAt: "2026-11-08T07:06:00-05:00"

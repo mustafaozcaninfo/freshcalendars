@@ -1,7 +1,6 @@
 ---
-title: "AAA Tow to Go 2026: Free Ride Home From Thanksgiving Eve to Jan. 4, Phone and States"
-seoTitle: "AAA Tow to Go 2026: Dates, Phone Number, States"
-description: "American Automobile Association (AAA) Tow to Go runs 6 p.m. Nov. 25 to 6 a.m. Nov. 30 and 6 p.m. Dec. 24 to 6 a.m. Jan. 4: free, call (855) 286-9246."
+title: "AAA Tow to Go 2026: Free Rides Nov. 25-30 and Dec. 24-Jan. 4"
+description: "AAA Tow to Go runs Nov. 25-30 and Dec. 24-Jan. 4, 2027. Free ride home at (855) 286-9246, with the states covered and the length of each window."
 type: news
 publishedAt: "2026-11-07T18:50:00-05:00"
 authors: [christina-gerland]

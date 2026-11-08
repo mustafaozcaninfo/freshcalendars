@@ -1,7 +1,6 @@
 ---
-title: "VA Disability Payment Dates 2026 and 2027: November Payment Was Scheduled for Oct. 30"
-seoTitle: "VA Disability Payment Dates 2026-2027: Nov. Pay Oct. 30"
-description: "The Department of Veterans Affairs (VA) disability payment due Nov. 1, 2026 was set for Fri., Oct. 30 under 38 U.S.C. 5120(e). Dates through Dec. 2027."
+title: "VA Disability Payment Dates: Oct. 30, Dec. 1 and Dec. 31, 2026"
+description: "The Department of Veterans Affairs (VA) disability payment due Nov. 1, 2026 was set for Fri., Oct. 30. Next are Dec. 1 and Dec. 31, with dates to 2027."
 type: explainer
 publishedAt: "2026-10-30T01:50:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

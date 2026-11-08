@@ -1,7 +1,6 @@
 ---
-title: "Free Rides to the Polls 2026: Lyft VOTE26, Lime HEADCOUNT and Free Transit on Nov. 3"
-seoTitle: "Free Rides to the Polls 2026: Lyft, Lime and Transit"
-description: "Lyft's VOTE26 code takes 50% off one ride to the polls on Nov. 3, Lime's HEADCOUNT code gives two free rides, and 18 transit agencies run free on Election Day."
+title: "Uber Free Rides to Vote 2026: No Offer Posted, Lyft and Lime Codes"
+description: "Uber had posted no 2026 Election Day ride offer by Nov. 2. Lyft's VOTE26 took 50% off; Lime's HEADCOUNT gave two free rides; 18 agencies ran free transit."
 type: news
 publishedAt: "2026-10-21T13:18:00-04:00"
 updatedAt: "2026-11-05T03:22:58-05:00"

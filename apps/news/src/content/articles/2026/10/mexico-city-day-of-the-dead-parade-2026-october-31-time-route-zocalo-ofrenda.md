@@ -1,7 +1,6 @@
 ---
-title: "Mexico City Day of the Dead Parade 2026: Saturday, Oct. 31 at 2 p.m., Reforma to the Zócalo, U.S. Times"
-seoTitle: "Mexico City Day of the Dead Parade 2026: Time and Route"
-description: "The Mexico City Day of the Dead parade was Sat., Oct. 31, 2026, at 2 p.m. (4 p.m. Eastern Time (ET)), from Reforma to the Zócalo, per the city's tourism site."
+title: "Mexico City Day of the Dead Parade 2026: Oct. 31 at 2 p.m., Route"
+description: "The Mexico City Day of the Dead parade was Saturday, Oct. 31, 2026, at 2 p.m., or 4 p.m. ET. Route from Reforma to the Zócalo and times in U.S. zones."
 type: news
 publishedAt: "2026-10-28T23:44:00-04:00"
 updatedAt: "2026-11-01T02:39:00-05:00"

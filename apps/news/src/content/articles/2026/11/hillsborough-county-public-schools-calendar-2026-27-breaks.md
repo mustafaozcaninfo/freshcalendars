@@ -1,7 +1,6 @@
 ---
-title: "Hillsborough County School Calendar 2026-27: Winter Break Dec. 21, Spring Break Mar. 22-26"
-seoTitle: "HCPS Calendar 2026-27: Breaks and Holidays"
-description: "Hillsborough County Public Schools (HCPS) students are off Dec. 21, 2026 to Jan. 1, 2027 for winter break and March 22-26, 2027 for spring break."
+title: "HCPS Calendar 2026-27: Hillsborough Winter Break Dec. 21-Jan. 1"
+description: "Hillsborough County Public Schools (HCPS) 2026-27: winter break Dec. 21-Jan. 1, spring break March 22-26, tentative hurricane make-up days, a printable."
 type: news
 publishedAt: "2026-11-02T14:36:00-05:00"
 authors: [aaron-kessler]

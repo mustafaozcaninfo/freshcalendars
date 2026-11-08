@@ -1,7 +1,6 @@
 ---
-title: "Dunkin' Holiday Menu 2026 Starts Nov. 4 With the Avengers: Doomsday Menu"
-seoTitle: "Dunkin' Holiday Menu 2026: Nov. 4 Date and Full Menu"
-description: "Dunkin' starts its 2026 holiday season and Avengers: Doomsday menu Wed., Nov. 4, at participating U.S. restaurants. Caribou Coffee starts Mon., Nov. 2."
+title: "Dunkin' Holiday Menu 2026 Starts Nov. 4, Two Days After Caribou"
+description: "Dunkin' holiday menu 2026 starts Wednesday, Nov. 4, with the Avengers: Doomsday menu. A table compares Caribou (Nov. 2) and Starbucks (Nov. 5)."
 type: news
 publishedAt: "2026-10-29T15:52:00-04:00"
 updatedAt: "2026-11-05T05:27:00-05:00"

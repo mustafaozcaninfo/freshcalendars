@@ -1,7 +1,6 @@
 ---
-title: "Tax Deadline 2027: Thursday, April 15, Every IRS Due Date and a Live Countdown"
-seoTitle: "Tax Deadline 2027: Thursday, April 15"
-description: "The tax deadline 2027 is Thursday, April 15, for 2026 federal returns. See a live countdown and every 2027 IRS due date for individuals and small businesses."
+title: "Tax Day 2027: Thursday, April 15, Plus a Live Countdown"
+description: "Tax Day 2027 is Thursday, April 15, for 2026 federal returns. See a live countdown and every 2027 IRS due date for individuals and small businesses."
 type: explainer
 publishedAt: "2026-10-20T01:30:00-04:00"
 updatedAt: "2026-11-06T17:19:00-05:00"

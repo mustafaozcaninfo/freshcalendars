@@ -1,6 +1,6 @@
 ---
 title: "Strands #989 Hints & Answers Today, November 17, 2026"
-description: "Strands #989 for Tuesday, Nov. 17, 2026, clue 'It's going down': graded hints, a board map and the answers for the spangram and six theme words in a spoiler."
+description: "Strands #989 hints for Tuesday, Nov. 17, 2026, clue \"It's going down\": graded hints, a map of the spangram's route and spoiler-marked answers."
 type: explainer
 publishedAt: "2026-11-16T00:05:00-05:00"
 authors: [news-desk]

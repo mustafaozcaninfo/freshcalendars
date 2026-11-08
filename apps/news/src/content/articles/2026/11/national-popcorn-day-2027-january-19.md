@@ -1,7 +1,6 @@
 ---
-title: "National Popcorn Day 2027: Tuesday, Jan. 19, With Popcorn Facts and a Printable Quiz"
-seoTitle: "National Popcorn Day 2027: Tuesday, Jan. 19"
-description: "National Popcorn Day is Jan. 19, a Tuesday in 2027, per the Popcorn Board. Weekdays to 2031, last year's theater deals, popcorn facts and a free quiz."
+title: "National Popcorn Day 2027: Tuesday, Jan. 19, Weekdays to 2031"
+description: "National Popcorn Day 2027 is Tuesday, Jan. 19, per the Popcorn Board. Weekdays to 2031, 2026 theater deals, popcorn facts and a free printable quiz."
 type: explainer
 publishedAt: "2026-11-04T06:40:00-05:00"
 authors: [christina-gerland]

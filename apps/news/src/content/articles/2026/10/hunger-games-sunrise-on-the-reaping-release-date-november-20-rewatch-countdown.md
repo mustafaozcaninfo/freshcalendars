@@ -1,7 +1,6 @@
 ---
-title: "Sunrise on the Reaping Release Date: Nov. 20, 2026, Runtime and a 5-Night Rewatch Plan"
-seoTitle: "Sunrise on the Reaping Release Date: Nov. 20, 2026"
-description: "Sunrise on the Reaping opens in U.S. theaters Fri., Nov. 20, 2026 and runs about 158 minutes, says the British Board of Film Classification (BBFC)."
+title: "Sunrise on the Reaping Release Date: Nov. 20, About 158 Minutes"
+description: "Sunrise on the Reaping release date is Friday, Nov. 20, 2026, with a runtime of about 158 minutes. Includes films in order and a 5-night rewatch plan."
 type: news
 publishedAt: "2026-10-29T11:52:00-04:00"
 updatedAt: "2026-11-06T12:02:00-05:00"

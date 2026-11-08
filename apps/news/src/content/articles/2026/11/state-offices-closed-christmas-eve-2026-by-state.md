@@ -1,7 +1,6 @@
 ---
-title: "State Offices Closed on Christmas Eve 2026: Which States Give Thursday, Dec. 24, Off"
-seoTitle: "Christmas Eve 2026 State Holiday: Offices Closed by State"
-description: "Six of eight states we checked close state offices on Thursday, Dec. 24, 2026, per their own holiday pages. North Carolina's break runs five days in a row."
+title: "State Offices Closed Christmas Eve 2026: Dec. 24 by State"
+description: "Six of eight states we checked close state offices on Thursday, Dec. 24, 2026. North Carolina's break runs five days in a row. Each state's own wording."
 type: news
 publishedAt: "2026-11-06T06:00:00-05:00"
 authors: [christina-gerland]

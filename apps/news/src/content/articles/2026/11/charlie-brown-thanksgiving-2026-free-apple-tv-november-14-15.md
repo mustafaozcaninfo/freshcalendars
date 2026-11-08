@@ -1,7 +1,6 @@
 ---
-title: "A Charlie Brown Thanksgiving 2026: Free on Apple TV Nov. 14-15, Subscribers Any Day"
-seoTitle: "A Charlie Brown Thanksgiving 2026: Free Nov. 14-15"
-description: "Apple TV Press says A Charlie Brown Thanksgiving streams free Sat., Nov. 14 to Sun., Nov. 15, 2026. Subscribers can watch any day. Free viewing calendar inside."
+title: "A Charlie Brown Thanksgiving 2026: Free on Apple TV Nov. 14-15"
+description: "A Charlie Brown Thanksgiving streams free on Apple TV Sat., Nov. 14 to Sun., Nov. 15, 2026. Subscribers watch any day. A free viewing calendar is included."
 type: news
 publishedAt: "2026-11-07T17:17:00-05:00"
 authors: [jessica-hartwell]

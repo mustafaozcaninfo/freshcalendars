@@ -1,7 +1,6 @@
 ---
-title: "US-Brazil Time Difference: New York Is 2 Hours Behind São Paulo"
-seoTitle: "US-Brazil Time Difference: New York to São Paulo"
-description: "New York is 2 hours behind Brasília Time (BRT) while US clocks are on standard time, and Brazil keeps UTC-3 all year. Tables for every US zone."
+title: "Brazil Time Change 2026: New York Is 2 Hours Behind São Paulo"
+description: "Brazil has no time change in 2026 and keeps UTC-3 all year, so New York is 2 hours behind São Paulo from Nov. 1. Tables for every US zone."
 type: explainer
 publishedAt: "2026-10-31T07:45:00-04:00"
 updatedAt: "2026-11-05T15:26:00-05:00"

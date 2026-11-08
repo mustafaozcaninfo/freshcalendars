@@ -1,7 +1,6 @@
 ---
-title: "Sacramento City Unified Calendar 2026-27: Winter Break Dec. 21-Jan. 4, Last Day May 27"
-seoTitle: "Sacramento City Unified Calendar 2026-27: Breaks"
-description: "Sacramento City Unified School District (SCUSD) lists winter break Dec. 21 to Jan. 4 and spring break March 22-29, 2027; the last day is May 27, 2027."
+title: "Sacramento City Unified Calendar 2026-27: Winter Break Dec. 21-Jan. 4"
+description: "Sacramento City Unified School District (SCUSD) 2026-27: winter break Dec. 21-Jan. 4, spring break March 22-29, last day May 27. Weekdays off counted."
 type: news
 publishedAt: "2026-11-07T21:12:00-05:00"
 authors: [aaron-kessler]

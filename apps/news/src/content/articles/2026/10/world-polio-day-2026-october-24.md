@@ -1,7 +1,6 @@
 ---
-title: "World Polio Day 2026 Is Saturday, Oct. 24: What It Marks and Where Polio Stands"
-seoTitle: "World Polio Day 2026, Oct. 24: What It Marks"
-description: "World Polio Day is Saturday, Oct. 24, 2026. What the day honors, where wild poliovirus still spreads, the U.S. vaccine schedule and a free printable check."
+title: "World Polio Day 2026: Oct. 24 Origin and Where Polio Stands"
+description: "World Polio Day 2026 was Saturday, Oct. 24. Why that date is not Salk's birthday, where wild poliovirus still spreads and the four-dose U.S. schedule."
 type: explainer
 publishedAt: "2026-10-23T02:40:00-04:00"
 updatedAt: "2026-10-25T17:35:00-04:00"

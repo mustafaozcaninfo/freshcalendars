@@ -1,7 +1,6 @@
 ---
-title: "What Is the 100th Day of the Year? April 10, or April 9 in Leap Years"
-seoTitle: "100th Day of the Year: April 10 or April 9"
-description: "The 100th day of the year is April 10 in a common year and April 9 in a leap year, under U.S. Naval Observatory (USNO) rules. Dates and weekdays for 2024-2040."
+title: "100th Day of the Year: April 10, or April 9 in Leap Years"
+description: "The 100th day of the year is April 10, or April 9 in a leap year. Day 100, 200 and 300 with weekdays for 2024 to 2040, plus a one-page printable."
 type: explainer
 publishedAt: "2026-10-30T08:22:00-04:00"
 authors: [jessica-hartwell]

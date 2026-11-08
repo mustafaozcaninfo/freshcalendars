@@ -1,7 +1,6 @@
 ---
-title: "Is the Day After Thanksgiving a State Holiday in 2026? 19 States Closed Friday, Nov. 27"
-seoTitle: "Day After Thanksgiving 2026: State Holiday by State"
-description: "Friday, Nov. 27, 2026 is not a federal holiday, but 19 states list it as a paid holiday for state employees, per each state's official schedule. Full table."
+title: "Closed Day After Thanksgiving 2026? 19 States Close Nov. 27"
+description: "Friday, Nov. 27, 2026 is not a federal holiday, but 19 states list it as a paid holiday or closure for state workers. A table shows each state's name."
 type: news
 publishedAt: "2026-10-28T15:49:00-04:00"
 updatedAt: "2026-11-07T23:20:00-05:00"

@@ -1,7 +1,6 @@
 ---
-title: "Liga MX Liguilla Apertura 2026 Dates: Quarterfinals Nov. 25, Final Dec. 10-13"
-seoTitle: "Liga MX Liguilla Apertura 2026 Dates"
-description: "The Liga MX Liguilla starts Nov. 25-26 with no Play-In. See every round by date, the Toluca exception for the Final, and the current top eight as of Nov. 1."
+title: "Liga MX Liguilla 2026 Dates: Quarterfinals Nov. 25, Final Dec. 10-13"
+description: "The Liga MX Liguilla starts Nov. 25-26 with no Play-In. Every round by date, the Dec. 24-27 Final date if Toluca reaches it, and a printable."
 type: news
 publishedAt: "2026-11-01T20:55:00-05:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

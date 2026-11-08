@@ -1,7 +1,6 @@
 ---
-title: "College Football Week 10 2026 Scores: No. 2 Ohio State Loses, Miami Escapes; Game Times and TV"
-seoTitle: "College Football Week 10 2026: Scores, Times, TV"
-description: "University of Southern California (USC) beat No. 2 Ohio State 30-18 on Oct. 31, 2026, and Miami won 38-35. Week 10 scores, kickoff times, TV, a pick'em sheet."
+title: "College Football Oct. 31, 2026 Scores: USC 30-18, Miami 38-35"
+description: "College football Oct. 31, 2026: University of Southern California (USC) beat No. 2 Ohio State 30-18, Miami won 38-35. Scores, times, TV, pick'em sheet."
 type: news
 publishedAt: "2026-10-29T23:45:00-04:00"
 updatedAt: "2026-11-08T02:45:00-05:00"

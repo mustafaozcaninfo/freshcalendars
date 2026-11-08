@@ -1,7 +1,6 @@
 ---
-title: "Palindrome Dates in 2027 and the Next Ones in Every Format, to 2040"
-seoTitle: "Palindrome Dates 2027 and the Next Ones to 2040"
-description: "2027 has no 8-digit palindrome date, but 11 days in July read the same both ways as M/D/YY, from 7/2/27 to 7/29/27. The next 8-digit one is Mar. 2, 2030."
+title: "Palindrome Dates 2027: 11 Days in July, Next 8-Digit in 2030"
+description: "2027 has no 8-digit palindrome date, but 11 July days read the same both ways as M/D/YY. The next 8-digit one is March 2, 2030 in U.S. form, plus a list."
 type: explainer
 publishedAt: "2026-11-04T16:40:00-05:00"
 authors: [jessica-hartwell]

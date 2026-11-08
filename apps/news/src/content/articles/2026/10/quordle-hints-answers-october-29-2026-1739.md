@@ -1,6 +1,6 @@
 ---
 title: "Quordle #1739 Hints & Answers Today, October 29, 2026"
-description: "Quordle #1739 for Thursday, Oct. 29, 2026: a clue for each of the four words, a starter strategy, then all answers in a marked spoiler section at the very end."
+description: "Quordle hints and answers today, #1739 for Thursday, Oct. 29, 2026. A clue for each word, two opening guesses that cover most letters, answers hidden last."
 type: explainer
 publishedAt: "2026-10-29T10:41:00-04:00"
 authors: [news-desk]

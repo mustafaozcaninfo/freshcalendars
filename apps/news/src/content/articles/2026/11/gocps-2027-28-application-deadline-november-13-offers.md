@@ -1,7 +1,6 @@
 ---
-title: "GoCPS 2027-28: Applications Close Friday, Nov. 13, at 5 p.m., and When Offers Come"
-seoTitle: "GoCPS 2027-28 Deadline: Nov. 13, 5 p.m., Offers Feb. 12"
-description: "GoCPS applications for 2027-28 close Fri., Nov. 13, 2026 at 5 p.m. Chicago time, Chicago Public Schools (CPS) says. High school offers come Feb. 12, 2027."
+title: "GoCPS 2027-28 Deadline: Nov. 13 at 5 p.m., High School Offers Feb. 12"
+description: "GoCPS applications for 2027-28 close Fri., Nov. 13, 2026 at 5 p.m. Chicago time. Days left, high school offers Feb. 12 and elementary offers March 12."
 type: news
 publishedAt: "2026-11-06T14:40:00-05:00"
 authors: [aaron-kessler]

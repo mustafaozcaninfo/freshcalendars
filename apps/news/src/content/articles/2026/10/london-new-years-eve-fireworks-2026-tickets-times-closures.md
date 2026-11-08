@@ -1,7 +1,6 @@
 ---
-title: "London New Year's Eve Fireworks 2026: Tickets, Prices, Gate Times and Travel"
-seoTitle: "London New Year's Eve Fireworks 2026: Tickets, Times"
-description: "London's New Year's Eve fireworks 2026 tickets cost £20 to £55, with entry from 8:00pm to 10:30pm on Thursday 31 December, the Mayor of London says."
+title: "London New Year's Eve Fireworks 2026: Tickets £20 to £55, Entry 8:00pm"
+description: "London's New Year's Eve fireworks 2026 tickets cost £20 to £55 on Thursday 31 December. A gate table by viewing area, entry times and midnight in ET."
 type: news
 publishedAt: "2026-10-30T15:50:00-04:00"
 authors: [christina-gerland]

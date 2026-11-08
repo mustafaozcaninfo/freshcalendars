@@ -1,7 +1,6 @@
 ---
-title: "Nowruz 2027: The Equinox Time and Why the Persian New Year Is March 21"
-seoTitle: "Nowruz 2027 Date and Equinox Time by City"
-description: "The 2027 equinox is March 20 at 20:25 Universal Time (UT), per the U.S. Naval Observatory: 11:55 p.m. in Tehran, 4:25 p.m. Eastern Daylight Time (EDT)."
+title: "Nowruz 2027 Is March 21: Equinox at 11:55 p.m. in Tehran"
+description: "Nowruz 2027 begins Sunday, March 21. The equinox is March 20 at 20:25 Universal Time, 11:55 p.m. in Tehran; a table converts it for 11 cities."
 type: explainer
 publishedAt: "2026-11-04T15:52:00-05:00"
 updatedAt: "2026-11-04T15:52:00-05:00"

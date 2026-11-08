@@ -1,7 +1,6 @@
 ---
-title: "Denver Public Schools Calendar 2026-27: Thanksgiving, Winter Break and Spring Break"
-seoTitle: "DPS Calendar 2026-27: Breaks and Last Day"
-description: "Denver Public Schools (DPS) 2026-27: no classes Nov. 23-27, Dec. 21 to Jan. 1 and March 29 to April 2, 2027. The last day of school is Fri., June 4, 2027."
+title: "Denver Public Schools Calendar 2026-27: Last Day Is June 4"
+description: "Denver Public Schools (DPS) has no classes Nov. 23-27 and Dec. 21 to Jan. 1; spring break is March 29 to April 2. Weekdays off and student return dates."
 type: explainer
 publishedAt: "2026-11-03T20:35:00-05:00"
 authors: [aaron-kessler]

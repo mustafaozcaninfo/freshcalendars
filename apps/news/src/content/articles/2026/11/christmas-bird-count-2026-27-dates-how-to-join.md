@@ -1,7 +1,6 @@
 ---
-title: "Christmas Bird Count 2026-27: Dec. 14 to Jan. 5, How to Join a Count"
-seoTitle: "Christmas Bird Count 2026-27: Dec. 14 to Jan. 5"
-description: "The Audubon Christmas Bird Count runs Dec. 14, 2026 to Jan. 5, 2027. Find a circle, register for free, see the weekend dates and print a feeder tally sheet."
+title: "Christmas Bird Count 2026: Dec. 14 to Jan. 5, How to Join"
+description: "The Christmas Bird Count runs Dec. 14, 2026 to Jan. 5, 2027. Find a circle, register for free and print a 12-bird feeder tally sheet."
 type: explainer
 publishedAt: "2026-11-04T07:50:00-05:00"
 updatedAt: "2026-11-04T07:50:00-05:00"

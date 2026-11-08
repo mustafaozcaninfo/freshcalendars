@@ -1,7 +1,6 @@
 ---
-title: "Mole Day 2026 Is Friday, Oct. 23, From 6:02 a.m. to 6:02 p.m.: What It Celebrates and a Free Practice Sheet"
-seoTitle: "Mole Day 2026: Friday, Oct. 23, 6:02 a.m.-6:02 p.m."
-description: "Mole Day 2026 is Friday, Oct. 23, from 6:02 a.m. to 6:02 p.m., for Avogadro's number, 6.02 x 10^23. What the mole is, who started the day, and a free worksheet."
+title: "Mole Day 2026: Oct. 23 From 6:02 a.m. to 6:02 p.m., Free Worksheet"
+description: "Mole Day 2026 was Friday, Oct. 23, from 6:02 a.m. to 6:02 p.m., for Avogadro's number, 6.02 x 10^23. What a mole is, how it started and a free worksheet."
 type: explainer
 publishedAt: "2026-10-21T13:06:00-04:00"
 updatedAt: "2026-10-24T01:40:00-04:00"

@@ -1,7 +1,6 @@
 ---
-title: "King Tides 2026: California Dates Nov. 24-26, Dec. 23-25 and Jan. 21-22, High Tide Times"
-seoTitle: "King Tides 2026: Nov. 24-26 California Dates and Tide Times"
-description: "California king tides 2026 arrive Nov. 24-26, with San Francisco's high tide predicted at 7.03 feet on Nov. 25. Next come Dec. 23-25 and Jan. 21-22, 2027."
+title: "King Tides Schedule 2026: California Nov. 24-26, Dec. 23-25"
+description: "The 2026 California king tides schedule: Nov. 24-26, Dec. 23-25 and Jan. 21-22, 2027. San Francisco's high tide is predicted at 7.03 feet on Nov. 25."
 type: news
 publishedAt: "2026-10-27T07:45:00-04:00"
 updatedAt: "2026-11-07T07:20:00-05:00"

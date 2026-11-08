@@ -1,7 +1,6 @@
 ---
-title: "Dune: Part Three Release Date: Friday, Dec. 18, 2026, Same Day as Avengers: Doomsday"
-seoTitle: "Dune: Part Three Release Date: Fri., Dec. 18, 2026"
-description: "Dune: Part Three opens only in cinemas and IMAX on Friday, Dec. 18, 2026, says Warner Bros. Discovery (WBD), the same day as Marvel's Avengers: Doomsday."
+title: "Dune: Part Three Release Date: Dec. 18, 2026, Tickets and Countdown"
+description: "Dune: Part Three release date is Friday, Dec. 18, 2026, only in cinemas and IMAX. Includes a countdown, ticket status and a printable release tracker."
 type: news
 publishedAt: "2026-11-06T13:49:00-05:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "Mardi Gras 2027 Is February 9 and Ash Wednesday Is February 10: Lent Calendar to Easter"
-seoTitle: "Mardi Gras 2027 Is Feb. 9, Ash Wednesday Feb. 10"
-description: "Mardi Gras 2027 is Tuesday, Feb. 9, and Ash Wednesday is Feb. 10, 47 and 46 days before Easter on March 28. Lent dates, Holy Week days and 2028-2030 dates."
+title: "Ash Wednesday 2027 Calendar: Feb. 10, the Day After Mardi Gras"
+description: "Ash Wednesday 2027 is Feb. 10, the day after Mardi Gras on Tuesday, Feb. 9. Lent dates, Holy Week days, Easter on March 28 and dates for 2028-2030."
 type: explainer
 publishedAt: "2026-10-31T01:00:00-04:00"
 authors: [christina-gerland]

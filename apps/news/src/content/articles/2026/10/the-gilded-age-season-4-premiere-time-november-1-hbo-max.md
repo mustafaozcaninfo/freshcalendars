@@ -1,7 +1,6 @@
 ---
-title: "The Gilded Age Season 4 Premiered Nov. 1 at 9 p.m. on HBO: Next HBO Dates in November"
-seoTitle: "The Gilded Age Season 4 Premiere Time and Date"
-description: "The Gilded Age Season 4 premiered Sunday, Nov. 1, 2026 at 9 p.m. Eastern Time (ET) and Pacific Time (PT) on HBO, per HBO. See the next three HBO dates."
+title: "The Gilded Age Season 4 Premiere: Nov. 1 at 9 p.m. on HBO"
+description: "The Gilded Age Season 4 premiered Sunday, Nov. 1 at 9 p.m. ET and PT on HBO. Premiere times by zone, plus the three HBO dates still ahead in November."
 type: news
 publishedAt: "2026-10-30T12:40:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

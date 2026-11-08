@@ -1,7 +1,6 @@
 ---
-title: "MNPS Calendar 2026-27: Metro Nashville Public Schools Breaks and Holidays"
-seoTitle: "MNPS Calendar 2026-27: Breaks and Holidays"
-description: "Metro Nashville Public Schools (MNPS) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and Mar. 22-26, 2027. Students return Jan. 5; last day is May 25, 2027."
+title: "MNPS Calendar 2026-27: Spring Break Mar. 22-26, Last Day May 25"
+description: "Metro Nashville Public Schools (MNPS) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and Mar. 22-26. Last day is May 25; Feb. 15 is also a no-student day."
 type: news
 publishedAt: "2026-11-04T08:45:00-05:00"
 updatedAt: "2026-11-04T08:45:00-05:00"

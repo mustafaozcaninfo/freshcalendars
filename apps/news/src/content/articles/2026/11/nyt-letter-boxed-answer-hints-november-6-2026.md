@@ -1,6 +1,6 @@
 ---
 title: "Letter Boxed Hints & Answer Today, November 6, 2026"
-description: "Letter Boxed from The New York Times (NYT) for Friday, Nov. 6, 2026, par 4: the letter pairs that never meet, 29 two-word fits, five hints, then the answer."
+description: "Letter Boxed from The New York Times (NYT) for Friday, Nov. 6, 2026, par 4: pairs that never meet, 29 two-word fits, five hints, then the answer."
 type: explainer
 publishedAt: "2026-11-05T00:05:00-05:00"
 updatedAt: "2026-11-05T00:51:00-05:00"

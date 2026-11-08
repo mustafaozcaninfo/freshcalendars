@@ -1,7 +1,6 @@
 ---
-title: "Ohio Sample Ballot 2026: How to See Yours, the Governor and Senate Candidates and Issue 3 on Nov. 3"
-seoTitle: "Ohio Sample Ballot 2026: Governor, Senate and Issue 3"
-description: "Find your Ohio sample ballot for Nov. 3, 2026 by county, with every statewide candidate, the U.S. Senate special election, Issue 3 on voter ID and key dates."
+title: "Ohio Sample Ballot 2026: Find Yours by County, Plus Issue 3 Voter ID"
+description: "Find your Ohio sample ballot for Nov. 3, 2026 by county. Covers statewide candidates, the U.S. Senate special election, Issue 3 on voter ID and key dates."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

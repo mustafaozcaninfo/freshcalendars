@@ -1,7 +1,6 @@
 ---
-title: "76ers Schedule November 2026: Game Times in ET, TV and NBA Cup Games"
-seoTitle: "76ers Schedule November 2026: Times, TV, Cup Games"
-description: "The 76ers host Chicago on Mon., Nov. 2, 2026, at 7:30 p.m. Eastern Time (ET), the first of 14 November games in the National Basketball Association (NBA)."
+title: "76ers Schedule November 2026: 14 Games and 3 NBA Cup Games"
+description: "The 76ers schedule for November 2026 has 14 games, from Mon., Nov. 2 against Chicago to Sat., Nov. 28 at Houston. TV, NBA Cup games and a printable."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
 updatedAt: "2026-11-05T21:25:00-05:00"

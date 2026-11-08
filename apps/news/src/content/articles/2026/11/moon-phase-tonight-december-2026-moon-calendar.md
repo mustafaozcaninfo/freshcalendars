@@ -1,7 +1,6 @@
 ---
-title: "Moon Phase Tonight: December 2026 Moon Calendar With Every Phase, Full Moon Dec. 23"
-seoTitle: "Moon Phase Tonight: December 2026 Moon Calendar"
-description: "The December 2026 full moon is 8:28 p.m. Eastern Standard Time (EST) on Dec. 23, per the U.S. Naval Observatory (USNO). Daily phase table for New York."
+title: "Moon Phase Tonight: Full Moon Dec. 23 at 8:28 p.m. EST"
+description: "The December 2026 full moon is Dec. 23 at 8:28 p.m. EST, a supermoon per NASA. Daily phase, moonrise and moonset table for New York on all 31 days."
 type: explainer
 publishedAt: "2026-11-04T14:20:00-05:00"
 authors: [jessica-hartwell]

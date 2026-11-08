@@ -1,7 +1,6 @@
 ---
-title: "Year-End Digital Cleanup 2026: Photos, Files, Passwords and Subscriptions Checklist"
-seoTitle: "Year-End Digital Cleanup 2026 Checklist and Dec. Plan"
-description: "Apple and Google keep deleted photos 30 days, OneDrive 30 or 93 days. A December 2026 digital cleanup plan with federal security steps and a free printable."
+title: "Year-End Digital Cleanup Checklist 2026: Dec. 1-31 Plan"
+description: "Year-end digital cleanup checklist for 2026: Apple and Google keep deleted photos 30 days, OneDrive 93 on work accounts. Dec. 1-31 plan, free printable."
 type: explainer
 publishedAt: "2026-11-04T06:45:00-05:00"
 authors: [christina-gerland]

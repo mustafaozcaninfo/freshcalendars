@@ -1,7 +1,6 @@
 ---
-title: "Mega Millions Drawing Tue., Nov. 3, 2026: 11 p.m. ET, $482 Million Jackpot as of Nov. 1"
-seoTitle: "Mega Millions Drawing Nov. 3, 2026: Time and Jackpot"
-description: "The next Mega Millions drawing is Tue., Nov. 3, 2026, at 11 p.m. Eastern Time (ET), estimated jackpot $482 million as of Nov. 1, per the Texas Lottery."
+title: "Mega Millions Drawing Nov. 3, 2026: 11 p.m. ET, $482 Million Jackpot"
+description: "Mega Millions drawing Tue., Nov. 3, 2026, was set for 11 p.m. ET with a $482 million jackpot as of Nov. 1. Ticket cutoffs by state, dates to Dec. 29."
 type: news
 publishedAt: "2026-11-01T22:44:00-05:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

@@ -1,6 +1,5 @@
 ---
-title: "International Holocaust Remembrance Day 2027: Wednesday, Jan. 27, and Yom HaShoah May 4"
-seoTitle: "Holocaust Remembrance Day 2027: Wed., Jan. 27"
+title: "Holocaust Remembrance Day 2027: Wed., Jan. 27; Yom HaShoah May 4"
 description: "Holocaust Remembrance Day 2027 is Wednesday, Jan. 27, set by the United Nations (UN); Yom HaShoah is May 4, per the U.S. Holocaust Memorial Museum (USHMM)."
 type: explainer
 publishedAt: "2026-11-04T06:10:00-05:00"

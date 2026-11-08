@@ -1,7 +1,6 @@
 ---
-title: "UFC 334 Start Time: Gane vs. Hokit Main Card 9 p.m. ET Nov. 14 at Madison Square Garden"
-seoTitle: "UFC 334 Start Time: Main Card 9 p.m. ET Nov. 14"
-description: "The Ultimate Fighting Championship (UFC) 334 main card is Sat., Nov. 14, 2026, at Madison Square Garden: 9 p.m. Eastern Time (ET), 6 p.m. Pacific Time (PT)."
+title: "UFC 334 Start Time: Main Card 9 p.m. ET Nov. 14, Gane vs. Hokit"
+description: "The Ultimate Fighting Championship (UFC) 334 main card is Sat., Nov. 14, 2026: 9 p.m. ET, 6 p.m. PT. Times in six time zones for every card to Dec. 12."
 type: news
 publishedAt: "2026-11-01T01:42:00-04:00"
 authors: [jessica-hartwell]

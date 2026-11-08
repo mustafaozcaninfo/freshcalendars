@@ -1,7 +1,6 @@
 ---
-title: "Frankenstein Friday 2026 Was Oct. 30: How Mary Shelley Began the Novel at 18, and a Free Reading Sheet"
-seoTitle: "Frankenstein Friday 2026: Oct. 30 and a Reading Sheet"
-description: "Frankenstein Friday was Oct. 30, 2026, the last Friday of October. Where Mary Shelley began the novel, how the book differs from the films, and a reading sheet."
+title: "Frankenstein Friday 2026: Oct. 30 and a Free Reading Sheet"
+description: "Frankenstein Friday was Oct. 30, 2026, the last Friday of October. Where Mary Shelley began the novel, how it differs from the films, and a reading sheet."
 type: explainer
 publishedAt: "2026-10-29T15:20:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

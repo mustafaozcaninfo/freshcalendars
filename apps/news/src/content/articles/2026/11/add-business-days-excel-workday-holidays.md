@@ -1,7 +1,6 @@
 ---
-title: "How to Add Business Days in Excel, Skipping Weekends and Holidays"
-seoTitle: "Add Business Days in Excel With WORKDAY"
-description: "The workday function (WORKDAY) skips weekends and holidays: Jan. 4, 2027 plus 90 business days is May 12 with 11 Office of Personnel Management (OPM) dates."
+title: "How to Add Business Days in Excel: WORKDAY With Holidays"
+description: "Add business days in Excel with the workday function (WORKDAY): Jan. 4, 2027 plus 90 business days is May 10, or May 12 with 11 federal holidays."
 type: explainer
 publishedAt: "2026-11-04T15:00:00-05:00"
 authors: [jessica-hartwell]

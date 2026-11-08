@@ -1,7 +1,6 @@
 ---
-title: "Kwanzaa 2026: Dec. 26 to Jan. 1, the Seven Principles by Day and a Printable Calendar"
-seoTitle: "Kwanzaa 2026 Dates and Principles by Day"
-description: "Kwanzaa 2026 runs Saturday, Dec. 26, to Friday, Jan. 1, 2027, per Maulana Karenga's site. See each day's principle, the symbols and a printable."
+title: "Kwanzaa 2026: Dec. 26 to Jan. 1, Principle for Each Day"
+description: "Kwanzaa 2026 runs Saturday, Dec. 26, to Friday, Jan. 1, 2027. A table lists each day's principle and meaning, with the candle order and a printable."
 type: explainer
 publishedAt: "2026-10-25T01:32:00-04:00"
 authors: [christina-gerland]

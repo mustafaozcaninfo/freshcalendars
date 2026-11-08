@@ -1,7 +1,6 @@
 ---
-title: "CPKC Holiday Train 2026 Schedule: Every Stop and Time, Nov. 19 to Dec. 20"
-seoTitle: "CPKC Holiday Train 2026 Schedule, Stops and Times"
-description: "The Canadian Pacific Kansas City (CPKC) Holiday Train 2026 runs Nov. 19 to Dec. 20 with 182 free stops, CPKC says. See every stop, date and local show time."
+title: "CPKC Holiday Train 2026 Schedule: 182 Stops, Nov. 19 to Dec. 20"
+description: "The Canadian Pacific Kansas City (CPKC) Holiday Train 2026 runs Nov. 19 to Dec. 20 with 182 free stops. Every stop, date, local show time."
 type: news
 publishedAt: "2026-11-06T13:55:00-05:00"
 authors: [christina-gerland]

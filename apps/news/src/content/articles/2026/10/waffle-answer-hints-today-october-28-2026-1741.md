@@ -1,6 +1,6 @@
 ---
 title: "Waffle #1741 Hints & Answers Today, October 28, 2026"
-description: "Waffle #1741 for Wednesday, Oct. 28, 2026: a clue for each of the six words, then the answers and a 10-swap route to five stars in a marked spoiler section."
+description: "Waffle answer and hints today, #1741 for Wednesday, Oct. 28, 2026. A clue for each of the six words and a 10-swap route to five stars in a spoiler section."
 type: explainer
 publishedAt: "2026-10-28T17:50:00-04:00"
 authors: [news-desk]

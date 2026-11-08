@@ -1,7 +1,6 @@
 ---
-title: "Caribou Coffee Holiday Menu 2026: Cookie Butter White Mocha and What Returns"
-seoTitle: "Caribou Holiday Menu 2026: Cookie Butter White Mocha"
-description: "Caribou Coffee's 2026 holiday menu began Monday, Nov. 2 with a new Cookie Butter White Mocha; Ho Ho Mint Mocha and Spicy Mocha return, per its Oct. 13 release."
+title: "Caribou Holiday Menu 2026: Cookie Butter White Mocha, Nov. 2 Start"
+description: "Caribou Coffee's 2026 holiday menu began Nov. 2 with a new Cookie Butter White Mocha. A table lists every item and each form it comes in, plus a printable."
 type: news
 publishedAt: "2026-11-04T15:05:00-05:00"
 updatedAt: "2026-11-04T15:05:00-05:00"

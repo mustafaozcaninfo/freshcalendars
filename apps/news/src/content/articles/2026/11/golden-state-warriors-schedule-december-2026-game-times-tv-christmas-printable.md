@@ -1,7 +1,6 @@
 ---
-title: "Golden State Warriors Schedule December 2026: Times in PT and ET, TV, Christmas"
-seoTitle: "Warriors December 2026 Schedule: Times, TV, Christmas"
-description: "The Warriors host Utah on Tue., Dec. 1, 2026, at 8 p.m. Pacific Time (PT), 11 p.m. Eastern Time (ET), with all 12 December games and the Christmas Day game."
+title: "Warriors Schedule December 2026: 12 Games, Christmas Day vs. Nuggets"
+description: "The Warriors host Utah on Tue., Dec. 1, 2026, at 8 p.m. PT (11 p.m. ET). All 12 December games with TV, plus Christmas Day vs. Denver at 7:30 p.m. PT."
 type: news
 publishedAt: "2026-11-02T11:25:00-05:00"
 authors: [jessica-hartwell]

@@ -1,7 +1,6 @@
 ---
-title: "South Park Season 29: Episode 4 Aired Oct. 28, Next New Episode Is Nov. 11, Full Schedule"
-seoTitle: "South Park Season 29 Schedule: Next Episode Nov. 11"
-description: "South Park episode 4 aired Wed., Oct. 28, 2026 at 10 p.m. Eastern Time (ET) and Pacific Time (PT); episode 5 is Nov. 11, Comedy Central says. See all dates."
+title: "South Park Season 29 Schedule: Next Episode Is Nov. 11"
+description: "South Park season 29 episode 5 airs Wed., Nov. 11, 2026 at 10 p.m. ET, then Nov. 25, Comedy Central says. Full schedule, off weeks and streaming dates."
 type: news
 publishedAt: "2026-10-29T17:44:00-04:00"
 authors: [jessica-hartwell]

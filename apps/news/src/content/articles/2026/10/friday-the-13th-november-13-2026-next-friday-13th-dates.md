@@ -1,7 +1,6 @@
 ---
-title: "Next Friday the 13th: Nov. 13, 2026, Then Aug. 13, 2027, With Dates to 2035"
-seoTitle: "Next Friday the 13th: Nov. 13, 2026, Then Aug. 2027"
-description: "The next Friday the 13th is Nov. 13, 2026, the third of 2026. The one after is Aug. 13, 2027, 273 days later. Every date to 2035 and a printable list."
+title: "Friday the 13th 2027: Aug. 13, After Nov. 13, 2026"
+description: "Friday the 13th in 2027 falls once, on Aug. 13, 273 days after Nov. 13, 2026. Every date to 2035 and a printable list of all of them."
 type: explainer
 publishedAt: "2026-10-27T19:40:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

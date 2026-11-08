@@ -1,7 +1,6 @@
 ---
-title: "Turkey Trot 2026: Thanksgiving Race Start Times in Buffalo, Dallas, Atlanta and 7 More"
-seoTitle: "Turkey Trot 2026: Start Times, Fees and Packet Pickup"
-description: "The Buffalo Turkey Trot starts at 9 a.m. Eastern Time (ET) on Thu., Nov. 26, 2026; start times, fees and packet pickup for 10 Thanksgiving races are below."
+title: "Turkey Trot 2026: Start Times for 10 Thanksgiving Races, Nov. 26"
+description: "The Buffalo Turkey Trot starts at 9 a.m. ET on Thu., Nov. 26, 2026. Start times, fees and packet pickup for 10 Thanksgiving races, and a checklist."
 type: explainer
 publishedAt: "2026-11-01T16:44:00-05:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

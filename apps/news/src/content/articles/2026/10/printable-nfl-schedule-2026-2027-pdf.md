@@ -1,7 +1,6 @@
 ---
-title: "Printable NFL Schedule 2026-2027: All 272 Games by Week and Team, Free PDFs"
-seoTitle: "Printable NFL Schedule 2026-2027: All 272 Games, PDFs"
-description: "Full National Football League (NFL) 2026-2027 schedule: all 272 games by week with Eastern Time (ET) kickoffs, TV, byes, a team finder and free printable PDFs."
+title: "Printable NFL Schedule 2026-2027: All 272 Games, Free PDFs"
+description: "Printable NFL schedule 2026-2027 with all 272 games by week, ET kickoffs, TV and byes. A team finder and free PDFs for the season grid and every team."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

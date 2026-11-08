@@ -1,7 +1,6 @@
 ---
-title: "College Football Week 11 Schedule 2026: Miami at Notre Dame Time, TV and a Pick'em Sheet"
-seoTitle: "College Football Week 11 Schedule 2026: Times, TV"
-description: "College football Saturday, Nov. 7, 2026: Miami at Notre Dame is at 7:30 p.m. Eastern Time (ET) on NBC, per ESPN. Game times, TV and a pick'em sheet."
+title: "College Football Week 11 2026: Miami at Notre Dame, 7:30 p.m. ET"
+description: "College football Week 11 2026: Miami at Notre Dame was Saturday, Nov. 7 at 7:30 p.m. ET on NBC. All 16 ranked-team games with TV, plus a pick'em sheet."
 type: news
 publishedAt: "2026-11-01T01:22:00-05:00"
 updatedAt: "2026-11-05T01:32:00-05:00"

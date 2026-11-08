@@ -1,7 +1,6 @@
 ---
-title: "Soccer on TV, Oct. 30-Nov. 2, 2026: Bayern vs. Dortmund, Milan Derby, U.S. Channels"
-seoTitle: "Soccer on TV, Oct. 30-Nov. 2, 2026: U.S. Channels"
-description: "European soccer on U.S. TV, Oct. 30-Nov. 2, 2026, in Eastern Time (ET): Bayern vs. Dortmund, Milan vs. Inter and 46 more games from five leagues, with channels."
+title: "Soccer on TV, Oct. 30-Nov. 2, 2026: Bayern vs. Dortmund, Channels"
+description: "European soccer on U.S. TV, Oct. 30-Nov. 2, 2026: Bayern vs. Dortmund, Milan vs. Inter and 46 more games, with ET kickoffs and channels."
 type: news
 publishedAt: "2026-10-30T05:30:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"

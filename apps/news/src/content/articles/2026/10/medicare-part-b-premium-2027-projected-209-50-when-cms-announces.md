@@ -1,7 +1,6 @@
 ---
-title: "Medicare Part B Premium 2027: Trustees Project $209.50, CMS Has Not Yet Announced the Official Amount"
-seoTitle: "Medicare Part B Premium 2027: $209.50 Projected"
-description: "Trustees project a $209.50 Part B premium for 2027, up from $202.90 in 2026. The Centers for Medicare & Medicaid Services (CMS) has not yet announced it."
+title: "Medicare Part B Premium 2027: $209.50 Projected, Not Yet Official"
+description: "Medicare Part B premium 2027 is projected at $209.50, up $6.60 from $202.90. The Centers for Medicare & Medicaid Services (CMS) has not announced it."
 type: explainer
 publishedAt: "2026-10-28T18:00:00-04:00"
 authors: [aaron-kessler]

@@ -1,7 +1,6 @@
 ---
-title: "What's Open and Closed on New Year's Eve and Day 2027: Mail, Banks, Markets, Stores"
-seoTitle: "New Year's Day 2027: What's Closed and Open"
-description: "New Year's Day, Friday, Jan. 1, 2027, is a federal holiday, per the Office of Personnel Management (OPM). See which offices, banks, markets and stores close."
+title: "Are Banks Open New Year's Day 2027? Closed Fri., Jan. 1"
+description: "New Year's Day 2027 is Friday, Jan. 1, a federal holiday. A table of mail, banks, markets and stores for Dec. 31 and Jan. 1."
 type: news
 publishedAt: "2026-10-30T15:49:00-04:00"
 updatedAt: "2026-10-31T00:25:00-04:00"

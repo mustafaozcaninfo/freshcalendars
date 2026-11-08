@@ -1,6 +1,5 @@
 ---
-title: "International Men's Day 2026: Thu., Nov. 19, Global and UK Themes Compared"
-seoTitle: "International Men's Day 2026: Nov. 19 Themes"
+title: "International Men's Day 2026: Thu., Nov. 19, Global and UK Themes"
 description: "International Men's Day is Thu., Nov. 19, 2026. The global theme is The Future is Everyone, and British organisers chose Supporting Men and Boys."
 type: explainer
 publishedAt: "2026-11-06T12:40:00-05:00"

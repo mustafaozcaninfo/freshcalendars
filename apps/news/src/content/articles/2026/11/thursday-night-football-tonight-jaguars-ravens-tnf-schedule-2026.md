@@ -1,7 +1,6 @@
 ---
-title: "Thursday Night Football Tonight: Jaguars at Ravens Nov. 5, Time, Channel and TNF Schedule"
-seoTitle: "Thursday Night Football: Jaguars at Ravens Nov. 5"
-description: "Thursday Night Football (TNF): Jaguars at Ravens on Nov. 5, 2026, 8:15 p.m. Eastern Time (ET) on Prime Video, with every U.S. zone, UK time and how to watch."
+title: "Thursday Night Football: Jaguars at Ravens, Nov. 5, 8:15 p.m. ET"
+description: "Thursday Night Football: Jaguars at Ravens on Nov. 5, 2026, kicked off at 8:15 p.m. ET on Prime Video. Every U.S. zone and UK time, plus a printable."
 type: news
 publishedAt: "2026-11-05T12:09:00-05:00"
 authors: [jessica-hartwell]

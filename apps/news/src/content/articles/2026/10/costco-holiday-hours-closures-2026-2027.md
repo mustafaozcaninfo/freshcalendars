@@ -1,7 +1,6 @@
 ---
-title: "Costco Holiday Closures 2026-27: Closed Thanksgiving and Christmas, Open Veterans Day and Black Friday"
-seoTitle: "Costco Holiday Hours 2026: Closed and Open Days"
-description: "Costco closes U.S. warehouses on seven holidays: Thanksgiving Nov. 26 and Christmas Dec. 25, 2026 are next, then New Year's Day. Days it stays open."
+title: "Is Costco Open on Veterans Day 2026? Yes, Wednesday, Nov. 11"
+description: "Costco is open on Veterans Day, Wednesday, Nov. 11, 2026. It closes U.S. warehouses on seven holidays; a table lists each closure date through 2027."
 type: news
 publishedAt: "2026-10-19T11:00:00-04:00"
 updatedAt: "2026-11-02T16:39:00-05:00"

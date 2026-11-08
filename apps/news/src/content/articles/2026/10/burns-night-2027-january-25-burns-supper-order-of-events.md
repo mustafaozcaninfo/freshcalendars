@@ -1,6 +1,5 @@
 ---
-title: "Burns Night 2027 Is Monday, 25 January: Burns Supper Order of Events and Printable"
-seoTitle: "Burns Night 2027: Monday, 25 January Burns Supper"
+title: "Burns Night 2027: Monday, 25 January, With Supper Running Order"
 description: "Burns Night 2027 is Monday, 25 January, the birthday of Robert Burns, says VisitScotland. See the six-step Burns Supper order and print a running order."
 type: explainer
 publishedAt: "2026-10-31T01:00:00-04:00"
