@@ -11,7 +11,7 @@ yapar; senin Mac'inin ya da bir sunucunun açık olması gerekmez. Teknik ayrın
 3. Hepsi yeşilse aynı çalışma yeni görselleri R2'ye yükler ve siteyi yayınlar (`deploy.yml`, sırayla, birer birer).
    Push'tan canlıya genelde 5-6 dakika sürer. Kırmızı CI asla yayınlanmaz; düzelten yeni commit gelince o yayınlanır.
 4. Gelecek tarihli `publishedAt` taşıyan yazı, saati geldikten 5-10 dakika sonra çıkar: Cloudflare Worker'ın zamanlayıcısı saati gelince `scheduled.yml`'ı başlatır (GitHub'ın kendi zamanlaması geç kalıp atladığı için yalnızca yedek).
-5. Yeni yazılar IndexNow'a ve bir kez AnindaIndex'e bildirilir; güncellenen yazılar IndexNow'a.
+5. Yeni yazılar IndexNow'a ve bir kez AnindaIndex'e bildirilir; güncellenen yazılar IndexNow'a ve her yeni sürüm (değişen `article:modified_time`) için bir kez AnindaIndex'e (8 Kasım 2026 kararı; tek yayında 60'tan fazla güncellenen sayfa varsa AnindaIndex'e gönderilmez).
 
 Takip: GitHub → Actions. `gh run list --branch main --limit 5` son çalışmaları gösterir. Başarısız
 zamanlanmış işler GitHub bildirim e-postasıyla gelir.

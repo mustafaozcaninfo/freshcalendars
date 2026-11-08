@@ -1,7 +1,8 @@
 #!/usr/bin/env node
 // After a deploy: tell search engines about /news/ stories that are new or whose updatedAt moved,
 // as scripts/news-publish.sh did on the VPS. New stories and topic hubs go to IndexNow and once to
-// AnindaIndex (scripts/index-submit.mjs keeps that record); an updated story goes to IndexNow only.
+// AnindaIndex; an updated story goes to IndexNow and to AnindaIndex once per modified time
+// (scripts/index-submit.mjs keeps that record; owner decision 2026-11-08).
 // Lists and pages a new story merely reshuffles are left to the crawl.
 //
 //   node cloudflare/index-ping.mjs <previous dist/news> <new dist/news>
@@ -35,11 +36,16 @@ if (existsSync(path.join(next, "topic"))) {
 
 const announce = [];
 const fresh = [];
+/** "url|modified" for each updated story, so AnindaIndex gets each version once. */
+const updated = [];
 for (const p of pages) {
   const url = `${ORIGIN}/news/${p.replace(/index\.html$/, "")}`;
   const before = path.join(prev, p);
   if (!existsSync(before)) { announce.push(url); fresh.push(url); }
-  else if (!p.startsWith("topic/") && modified(before) !== modified(path.join(next, p))) announce.push(url);
+  else if (!p.startsWith("topic/")) {
+    const mod = modified(path.join(next, p));
+    if (modified(before) !== mod) { announce.push(url); if (mod) updated.push(`${url}|${mod}`); }
+  }
 }
 console.log(`[index] ${fresh.length} new, ${announce.length - fresh.length} updated`);
 
@@ -57,5 +63,5 @@ if (process.env.NEWS_INDEXNOW !== "0" && announce.length) {
 }
 // Runs even with no new URL: it sends whatever an earlier run left queued.
 if (process.env.NEWS_INDEX_SUBMIT !== "0" && process.env.ANINDA_INDEX_KEY) {
-  spawnSync(process.execPath, [path.join(import.meta.dirname, "../scripts/index-submit.mjs"), "submit", ...fresh], { stdio: "inherit" });
+  spawnSync(process.execPath, [path.join(import.meta.dirname, "../scripts/index-submit.mjs"), "submit", ...fresh, "--updated", ...updated], { stdio: "inherit" });
 }
