@@ -3,8 +3,8 @@ title: "Christmas Lights Switch-Ons 2026 Outside London: Belfast, Newcastle, Car
 seoTitle: "Christmas Lights Switch-Ons 2026 Outside London"
 description: "Belfast switches on Saturday 14 November 2026 at 6.30pm Greenwich Mean Time (GMT), 1:30 p.m. Eastern Time (ET); Cardiff and Newcastle are Thursday 12 November."
 type: news
-publishedAt: "2026-11-08T06:35:00-05:00"
-updatedAt: "2026-11-08T06:35:00-05:00"
+publishedAt: "2026-11-08T07:15:00-05:00"
+updatedAt: "2026-11-08T07:15:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Christmas lights switch on 2026", "Belfast Christmas lights switch on 2026", "Cardiff Christmas lights 2026", "Newcastle Christmas lights switch on 2026", "Manchester Christmas lights 2026"]
@@ -117,7 +117,7 @@ assets:
 
 **Belfast City Council lists the Christmas lights switch-on at Belfast City Hall for Saturday 14 November 2026, 6.30pm to 7.30pm, and Newcastle's Christmas site gives Thursday 12 November for its own switch-on**, while Nation.Cymru reported on 17 September 2026 that Cardiff's lights are due the same Thursday. Manchester's Christmas Markets already opened on Friday 6 November 2026, and no Manchester lights event is listed. The table has each date with the weekday, the place and the Eastern Time (ET) conversion, and a printable follows.
 
-Official times are in Greenwich Mean Time (GMT), which is five hours ahead of ET in November. Four lights and market events fall between 12 and 14 November: Cardiff and Newcastle lights on Thursday, Belfast's market and switch-on on Saturday. For the London streets, see the [London Christmas lights switch-on dates](/news/london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden/).
+Official times are in Greenwich Mean Time (GMT), which is five hours ahead of ET in November. Five lights and market events fall between 12 and 14 November: Cardiff's lights and Winter Wonderland and Newcastle's lights on Thursday, Belfast's market and switch-on on Saturday. For the London streets, see the [London Christmas lights switch-on dates](/news/london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden/).
 
 ## Which Christmas lights events are set outside London?
 
