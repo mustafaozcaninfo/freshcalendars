@@ -1,6 +1,6 @@
 ---
-title: "Critics Choice Awards 2027: Jan. 3 on E! and USA Network"
-description: "The Critics Choice Awards 2027 air live Sunday, Jan. 3 from 7 p.m. ET on E! and USA Network. Nominations come Dec. 4; Janelle James hosts. Printable guide."
+title: "Critics Choice Awards 2027: Jan. 3 at 7 p.m. ET, Nominations Dec. 4"
+description: "The Critics Choice Awards 2027 air live Sunday, Jan. 3 from 7 p.m. ET on USA Network. Nominations come Dec. 4; Janelle James hosts. Printable guide."
 type: news
 publishedAt: "2026-11-04T15:05:00-05:00"
 authors: [jessica-hartwell]
