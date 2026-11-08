@@ -1,0 +1,157 @@
+{
+ "publicationDate": "2026-11-08",
+ "constructors": [
+  "Joel Fagliano"
+ ],
+ "width": 5,
+ "height": 5,
+ "cells": [
+  "F",
+  "R",
+  "O",
+  "S",
+  "T",
+  "E",
+  "A",
+  "R",
+  "L",
+  "Y",
+  "E",
+  "M",
+  "A",
+  "I",
+  "L",
+  "L",
+  "E",
+  "T",
+  "M",
+  "E",
+  "S",
+  "N",
+  "E",
+  "E",
+  "R"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Thin winter coat?",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "When morning people like to wake up",
+   "cells": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "Option on the \"How would you like to receive your receipt?\" screen",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "\"Please, it would be my pleasure\"",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "Villain's facial expression",
+   "cells": [
+    20,
+    21,
+    22,
+    23,
+    24
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Perceives by touch",
+   "cells": [
+    0,
+    5,
+    10,
+    15,
+    20
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Japanese dish with a name from Chinese (\"pulled noodles\")",
+   "cells": [
+    1,
+    6,
+    11,
+    16,
+    21
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Give a grand speech",
+   "cells": [
+    2,
+    7,
+    12,
+    17,
+    22
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Gooey kids' toy",
+   "cells": [
+    3,
+    8,
+    13,
+    18,
+    23
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "___ Durden, Brad Pitt's character in \"Fight Club\"",
+   "cells": [
+    4,
+    9,
+    14,
+    19,
+    24
+   ]
+  }
+ ]
+}
