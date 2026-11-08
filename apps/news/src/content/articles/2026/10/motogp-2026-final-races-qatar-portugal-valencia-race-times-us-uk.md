@@ -67,7 +67,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones, qatar-grand-prix-2026-schedule-race-time-by-time-zone, las-vegas-grand-prix-2026-schedule-race-time-by-time-zone]
+related: [motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones, qatar-grand-prix-2026-schedule-race-time-by-time-zone, motogp-calendar-2027-22-races-buriram-march-7-valencia-november-28]
 assets:
   overlay: true
   scene: sports
