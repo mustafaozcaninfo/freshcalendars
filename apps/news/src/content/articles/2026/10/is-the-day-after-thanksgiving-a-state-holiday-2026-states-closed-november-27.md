@@ -4,6 +4,7 @@ seoTitle: "Day After Thanksgiving 2026: State Holiday by State"
 description: "Friday, Nov. 27, 2026 is not a federal holiday, but 19 states list it as a paid holiday for state employees, per each state's official schedule. Full table."
 type: news
 publishedAt: "2026-10-28T15:49:00-04:00"
+updatedAt: "2026-11-07T23:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is the day after thanksgiving a state holiday 2026", "state offices closed day after thanksgiving 2026", "is black friday a paid holiday for state employees", "friday after thanksgiving holiday by state"]
@@ -100,6 +101,18 @@ sources:
   - title: "2026 Legal Holidays"
     url: "https://www.cs.ny.gov/attendance_leave/2026_legal_holidays.cfm"
     publisher: "New York State Department of Civil Service"
+  - title: "DMV Offices - Statewide Holiday Closures"
+    url: "https://www.oregon.gov/ODOT/DMV/pages/offices/closures.aspx"
+    publisher: "Oregon Driver and Motor Vehicle Services (DMV)"
+  - title: "Office Closures due to Emergency Situations or Holidays"
+    url: "https://www.flhsmv.gov/locations/temporary-office-closures/"
+    publisher: "Florida Department of Highway Safety and Motor Vehicles (FLHSMV)"
+  - title: "DMV Holidays"
+    url: "https://qr.dmv.ca.gov/portal/?p=5335"
+    publisher: "California Department of Motor Vehicles (DMV)"
+  - title: "Driver and Vehicle Services holiday closings"
+    url: "https://www.pa.gov/agencies/dmv/alerts/holiday-closings"
+    publisher: "Pennsylvania Department of Transportation (PennDOT)"
 internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
@@ -187,6 +200,17 @@ Nine states and the District of Columbia government show Thanksgiving Thursday a
 ## Which states could not be confirmed?
 
 This story could not confirm the day from a readable official page for 20 states: Alabama, Alaska, Arkansas, Colorado, Iowa, Maine, Massachusetts, Michigan, Mississippi, Missouri, New Hampshire, New Mexico, North Dakota, Oklahoma, Rhode Island, South Dakota, Tennessee, Utah, West Virginia and Wisconsin. They are not marked yes or no. Check with your agency. In Missouri, the governor closed state offices by executive order in 2023 and 2024; no 2026 order has been issued.
+
+## Are motor vehicle offices open on Friday, Nov. 27, 2026?
+
+Four state motor vehicle agencies, including the Department of Motor Vehicles (DMV) in California, say they are closed on the day, based on their official pages read Nov. 8, 2026. Other states' motor vehicle agencies did not list Nov. 27 on pages we could read, so check your state's agency before going.
+
+| State | Motor vehicle agency status on Nov. 27, 2026 | Source |
+|---|---|---|
+| California | Closed. The DMV lists "Thursday, November 26 and Friday, November 27 - Thanksgiving" on its 2026 holiday list, which runs from New Year's Day 2026 to New Year's Day 2027. | [California DMV holidays](https://qr.dmv.ca.gov/portal/?p=5335) |
+| Florida | State offices closed. The Florida Department of Highway Safety and Motor Vehicles (FLHSMV) lists "Friday after Thanksgiving," "Friday, November 27, 2026." County tax collector offices set their own hours. | [FLHSMV office closures](https://www.flhsmv.gov/locations/temporary-office-closures/) |
+| Oregon | Closed. All DMV offices are closed for "Day after Thanksgiving - Friday, Nov. 27, 2026." | [Oregon DMV statewide holiday closures](https://www.oregon.gov/ODOT/DMV/pages/offices/closures.aspx) |
+| Pennsylvania | Closed. Driver and Vehicle Services lists "November 27, 2026 - Day after Thanksgiving." | [Pennsylvania Driver and Vehicle Services](https://www.pa.gov/agencies/dmv/alerts/holiday-closings) |
 
 ## What about union contracts and private employers?
 
