@@ -24,10 +24,12 @@ pnpm news-gen run briefs/<brief>.md  # full pipeline: writer -> SEO editor -> ch
 
 ## Pipeline (`run`)
 
-1. **Writer** (Opus, effort high) drafts from the brief only.
+1. **Writer** (Opus, effort medium) drafts from the brief only.
 2. **SEO editor** (Sonnet 5.5, effort medium) gets the brief and the full draft.
-3. **Chief editor** (Opus, effort high) gets the brief, the writer's sources and
-   open facts, and the edited version; returns `APPROVED`/`REVISE` and a score.
+3. **Chief editor** (Sonnet 5.5, effort medium) gets the brief, the writer's
+   sources and open facts, and the edited version; returns `APPROVED`/`REVISE`,
+   a score and find-and-replace fixes (not a rewrite). The code applies a fix
+   only when its text occurs exactly once; others are reported.
    Below 90 or `REVISE`: one more editor pass with the chief's report, then the
    chief judges again (`--revisions n` to change).
 4. The final headline, description and body go through the same checks as
@@ -41,8 +43,18 @@ Exit code 2 means not approved or a check failed.
 
 A brief holds the target query, category, verified facts with their sources,
 the only internal links the model may use, and what the page adds. Example:
-`briefs/test-charlie-brown-christmas-2026.md`. First test run (Nov. 8, 2026):
-approved at 91/100, all checks passed, about $0.52 and 3 minutes.
+`briefs/test-charlie-brown-christmas-2026.md`.
+
+Cost per story on that brief (Nov. 8, 2026, one run each, list prices):
+
+| Setup | Cost | Time | Result |
+|---|---|---|---|
+| Opus high / Sonnet medium / Opus high, chief rewrites | $0.52 | 3m 10s | 91/100 (Opus judged), 851 words |
+| Opus medium / Sonnet medium / Sonnet medium, chief fixes (default) | $0.28 | 1m 36s | 91/100 (Sonnet judged), 679 words |
+
+The Opus chief caught a sourcing gap the Sonnet chief did not (a newsroom
+report that covered only the Thanksgiving weekend). For stories that rest on
+newsroom reports, run with `NEWS_GEN_CHIEF_MODEL=claude-opus-5-5`.
 
 ## Models (`.env` overrides)
 
@@ -51,7 +63,8 @@ approved at 91/100, all checks passed, about $0.52 and 3 minutes.
 | `NEWS_GEN_MODEL` | `claude-opus-5-5` | default model, writer and chief editor |
 | `NEWS_GEN_WRITER_MODEL` | `NEWS_GEN_MODEL` | stage 1 |
 | `NEWS_GEN_EDITOR_MODEL` | `claude-sonnet-5-5` | stage 2 |
-| `NEWS_GEN_CHIEF_MODEL` | `NEWS_GEN_MODEL` | stage 3 |
+| `NEWS_GEN_CHIEF_MODEL` | `claude-sonnet-5-5` | stage 3 |
+| `NEWS_GEN_WRITER_EFFORT`, `_EDITOR_EFFORT`, `_CHIEF_EFFORT` | `medium` | effort per stage |
 | `NEWS_GEN_FAST_MODEL` | `claude-haiku-5-5` | cheap research/extraction steps |
 | `NEWS_GEN_EFFORT` | `medium` | effort when a call sets none |
 

@@ -14,11 +14,11 @@ interface StageDef {
   effort: GenConfig["effort"];
 }
 
-/** The skill's three stages: Opus writes, Sonnet edits, Opus approves. */
+/** The skill's three stages. Effort per stage: NEWS_GEN_<STAGE>_EFFORT. */
 export const STAGES: Record<StageName, StageDef> = {
-  writer: { file: "1-writer.md", model: (c) => c.writerModel, effort: "high" },
+  writer: { file: "1-writer.md", model: (c) => c.writerModel, effort: "medium" },
   editor: { file: "2-seo-editor.md", model: (c) => c.editorModel, effort: "medium" },
-  chief: { file: "3-chief-editor.md", model: (c) => c.chiefModel, effort: "high" },
+  chief: { file: "3-chief-editor.md", model: (c) => c.chiefModel, effort: "medium" },
 };
 
 export function isStage(s: string | undefined): s is StageName {
@@ -76,5 +76,6 @@ export async function buildSystemPrompt(stage: StageName): Promise<string> {
 }
 
 export function stageSettings(stage: StageName, cfg = getConfig()) {
-  return { model: STAGES[stage].model(cfg), effort: STAGES[stage].effort };
+  const env = process.env[`NEWS_GEN_${stage.toUpperCase()}_EFFORT`] as GenConfig["effort"] | undefined;
+  return { model: STAGES[stage].model(cfg), effort: env || STAGES[stage].effort };
 }

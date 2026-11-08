@@ -26,7 +26,11 @@ export interface GenConfig {
   model: string;
   /** Cheaper model for research/extraction steps; override with NEWS_GEN_FAST_MODEL. */
   fastModel: string;
-  /** Stage models (skill: Opus writes, Sonnet edits, Opus approves). */
+  /**
+   * Stage models. Opus writes; Sonnet edits and judges (the chief returns a
+   * verdict and find-and-replace fixes, not a rewrite). Measured Nov. 8, 2026:
+   * Opus/Sonnet/Opus at high effort cost about $0.52 per story.
+   */
   writerModel: string;
   editorModel: string;
   chiefModel: string;
@@ -49,7 +53,7 @@ export function getConfig(): GenConfig {
     fastModel: process.env.NEWS_GEN_FAST_MODEL ?? "claude-haiku-5-5",
     writerModel: process.env.NEWS_GEN_WRITER_MODEL ?? model,
     editorModel: process.env.NEWS_GEN_EDITOR_MODEL ?? "claude-sonnet-5-5",
-    chiefModel: process.env.NEWS_GEN_CHIEF_MODEL ?? model,
+    chiefModel: process.env.NEWS_GEN_CHIEF_MODEL ?? "claude-sonnet-5-5",
     effort,
     baseURL: process.env.NEWS_GEN_BASE_URL ?? "https://api.anthropic.com",
   };
@@ -59,6 +63,7 @@ export function getConfig(): GenConfig {
 export const PRICES: Record<string, [number, number]> = {
   "claude-fable-5-1": [10, 50],
   "claude-opus-5-5": [4, 20],
+  "claude-opus-5": [5, 25],
   "claude-sonnet-5-5": [2, 10],
   "claude-haiku-5-5": [0.1, 0.5],
 };

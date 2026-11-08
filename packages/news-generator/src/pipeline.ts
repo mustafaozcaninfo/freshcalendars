@@ -38,6 +38,26 @@ export function articleOf(text: string): { headline: string; description: string
   return { headline: oneLine(s["headline"]), description: oneLine(s["description"]), body: s["article"] ?? "" };
 }
 
+/**
+ * Applies the chief's `<<<FIND / >>>REPLACE / <<<END` fixes. A fix whose text
+ * is missing or occurs more than once is skipped and reported, never guessed.
+ */
+export function applyFixes(body: string, fixesBlock: string | undefined): { body: string; applied: number; failed: string[] } {
+  const failed: string[] = [];
+  let applied = 0;
+  for (const m of (fixesBlock ?? "").matchAll(/<<<FIND\n([\s\S]*?)\n>>>REPLACE\n?([\s\S]*?)\n?<<<END/g)) {
+    const [find, repl] = [m[1], m[2]];
+    const n = body.split(find).length - 1;
+    if (n !== 1) {
+      failed.push(`fix not applied (${n === 0 ? "text not found" : `${n} matches`}): "${find.slice(0, 70)}"`);
+      continue;
+    }
+    body = body.replace(find, () => repl);
+    applied++;
+  }
+  return { body, applied, failed };
+}
+
 /** The checks `pnpm news:abbrev` runs, applied to the generated text. */
 export async function houseChecks(a: { headline: string; description: string; body: string }): Promise<string[]> {
   const lib = (f: string) => import(pathToFileURL(resolve(ROOT, "scripts/lib", f)).href);
@@ -114,21 +134,34 @@ export async function runPipeline(brief: string, dir: string, opts: { maxRevisio
   );
   let verdict = parseVerdict(final);
 
+  /** The editor's article with the chief's headline, description and fixes applied. */
+  const merge = () => {
+    const ed = articleOf(edited);
+    const ch = articleOf(final);
+    const fx = applyFixes(ed.body, sections(final)["fixes"]);
+    log(`  chief: ${verdict.approved ? "APPROVED" : "REVISE"} (${verdict.score ?? "?"}/100), ${fx.applied} fixes applied${fx.failed.length ? `, ${fx.failed.length} failed` : ""}`);
+    return { article: { headline: ch.headline || ed.headline, description: ch.description || ed.description, body: fx.body }, failed: fx.failed };
+  };
+  let merged = merge();
+
   for (let i = 0; !verdict.approved && i < (opts.maxRevisions ?? 1); i++) {
-    log(`  chief: REVISE (${verdict.score ?? "?"}/100), one more editor pass`);
     const cs = sections(final);
+    const a = merged.article;
     edited = await call(
       "editor",
       `editor-r${i + 1}`,
-      `# Brief\n\n${brief}\n\n# Chief editor's output (full; revise this version)\n\n${final}\n\n# Fix every point in the chief's VERDICT and REPORT\n\n${cs["verdict"] ?? ""}\n\n${cs["report"] ?? ""}`,
+      `# Brief\n\n${brief}\n\n# Current article (chief's fixes applied; revise this version)\n\n` +
+        `=== HEADLINE ===\n${a.headline}\n=== DESCRIPTION ===\n${a.description}\n=== ARTICLE ===\n${a.body}\n\n` +
+        `# Fix every point in the chief editor's verdict and report\n\n${cs["verdict"] ?? ""}\n\n${cs["report"] ?? ""}`,
     );
     final = await call("chief", `chief-r${i + 1}`, `# Brief\n\n${brief}\n\n${writerNotes}\n\n# Stage 2 output (full)\n\n${edited}`);
     verdict = parseVerdict(final);
+    merged = merge();
   }
 
   const fs = sections(final);
-  const article = articleOf(fs["article"] ? final : edited);
-  const problems = await houseChecks(article);
+  const article = merged.article;
+  const problems = [...merged.failed, ...(await houseChecks(article))];
   const costUsd = steps.reduce((s, x) => s + (x.costUsd ?? 0), 0);
 
   writeFileSync(
