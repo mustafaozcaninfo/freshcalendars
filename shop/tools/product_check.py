@@ -77,7 +77,7 @@ def check(path, live=False):
     out = []
     F = lambda m: out.append(('FAIL', m))
     W = lambda m: out.append(('WARN', m))
-    need = ('id', 'listing', 'title', 'meta_title', 'link_title', 'subtitle', 'summary', 'highlights', 'meta_description', 'content', 'category_ids')
+    need = ('id', 'category_slug', 'listing', 'title', 'meta_title', 'link_title', 'subtitle', 'summary', 'highlights', 'meta_description', 'content', 'category_ids')
     for k in need:
         if not d.get(k): F(f'missing field: {k}')
     if out: return out
@@ -153,7 +153,8 @@ def check(path, live=False):
         if o['body'] and overlap(me['body'], o['body'], 8) > 0.08: F(f'{overlap(me["body"], o["body"], 8):.0%} of 8-word runs also appear on product {o["id"]}')
         same_h3 = set(me['h3']) & set(o['h3'])
         if same_h3: F(f'H3 reused from product {o["id"]}: "{sorted(same_h3)[0]}"')
-        shared = set(me['links']) & set(o['links'])
+        own = 'https://shop.freshcalendars.com/categories/' + str(d.get('category_slug', ''))  # every page links its own category
+        shared = (set(me['links']) & set(o['links'])) - {own}
         if me['links'] and me['links'] == o['links']: F(f'same set of links as product {o["id"]}')
         elif len(shared) > 2: F(f'{len(shared)} links shared with product {o["id"]} (2 at most): vary the category, article and printable')
 

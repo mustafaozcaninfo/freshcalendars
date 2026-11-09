@@ -30,7 +30,7 @@ At 2,000 products, Google must never see two of our pages as the same page. No t
 | `title`, `meta_title`, `link_title`, `subtitle`, `meta_description` | identical to another page's |
 | `summary` | over 30% of its 5-word runs appear in another summary |
 | H3 headings | any H3 is used on another product page. Put the product line or the deciding spec in each H3 ("Does Mildliner ink show through planner paper?"), never a generic "Who it suits". |
-| Links in `content` | the same set as another page, or more than 2 links shared with any other page. Rotate the category or subcategory, the article that fits this product's question, and the printable that fits this product's use. |
+| Links in `content` | the same set as another page, or more than 2 links shared with any other page (the link to the product's own category, `category_slug`, is not counted). Rotate the article that fits this product's question and the printable that fits this product's use. |
 | `highlights` | a bullet repeats the summary (over 50% of its 5-word runs). Highlights carry the facts the summary did not have room for. |
 
 How to stay unique without inventing anything:
@@ -39,6 +39,7 @@ How to stay unique without inventing anything:
 - **Pick the reader question from this product's own gaps or claims.** Bleed-through, size, dates, refills, what fits inside.
 - **Pick the link that answers that question.** The article that compares this family on that spec, and the printable that matches the size or the dates.
 - **Write sentences for this product.** Two pages in the same family will share facts (A5, 120 gsm); they must not share sentences.
+- **Never force a link or a question to pass the check.** A link must help the reader of this product; when no fitting link is left, drop one instead (the floor is the own category, one article and one printable). A question must come from this product's listing, as on product 110, whose listing calls it a gratitude journal.
 
 ## 2. Where each field shows on the page (crystal template, checked Nov. 9, 2026)
 
