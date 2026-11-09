@@ -868,6 +868,9 @@ export const NEWS_LAUNCHED = true;
  */
 export const NEWS_SITEMAPS = ["/news/sitemap.xml", "/news/post-sitemap.xml", "/news/news-sitemap.xml"] as const;
 
+/** The Fresh Calendars Shop (planners and journals; an affiliate storefront), linked from the menu and footer. */
+export const SHOP_URL = "https://shop.freshcalendars.com/";
+
 export type ChromeOpts = {
   /** Show the News nav/footer links. Off for the calendar site until /news/ launches. */
   news?: boolean;
@@ -912,6 +915,7 @@ export function siteHeaderHtml(today: Date = new Date(), opts: ChromeOpts = {}):
       </div></details>
       <a href="/calendar-tools/" title="Date calculators and calendar tools">Tools</a>${newsNavLink(opts)}
       <a href="/news/printables/" title="Free printable templates"${opts.current === "printables" ? ' aria-current="page"' : ""}>Printables</a>
+      <a href="${SHOP_URL}" title="Planners, journals and supplies from the Fresh Calendars Shop">Shop</a>
       <a href="/page/about/" title="About Fresh Calendars">About</a>
     </nav>
   </details>
@@ -932,7 +936,7 @@ export function siteFooterHtml(today: Date = new Date(), opts: ChromeOpts = {}):
   const groups: [string, [string, string][]][] = [
     ["Calendars", [["All calendars", "/calendars/"], ["Monthly calendars", "/monthly-calendars/"], [`${y} yearly calendar`, "/printable-calendars.html"], [`${y + 1} yearly calendar`, "/printable-yearly-calendar.html"], ["Weekly planners", "/printable-weekly-calendar.html"], ["Blank calendars", "/blank-calendars.html"]]],
     ["Holidays & planning", [["US holidays", "/holidays/"], ["UK holidays", "/uk-holidays/"], ["Canada holidays", "/canada-holidays/"], ["School calendars", "/printable-school-calendar.html"], ["Calendar tools", "/calendar-tools/"], ["Printing guide", "/print-guide.html"]]],
-    ["Explore", [["Classroom guides", "/guides/classroom-printable-calendars.html"], ["Monday-start calendars", "/printable-monday-start-calendar.html"], ...(opts.news ? [["Calendar news", "/news/"], ["News printables", "/news/printables/"], ["Editorial policy", "/news/editorial-policy/"]] as [string,string][] : []), ["RSS feed", "/feed.xml"]]],
+    ["Explore", [["Classroom guides", "/guides/classroom-printable-calendars.html"], ["Monday-start calendars", "/printable-monday-start-calendar.html"], ...(opts.news ? [["Calendar news", "/news/"], ["News printables", "/news/printables/"], ["Editorial policy", "/news/editorial-policy/"]] as [string,string][] : []), ["Shop", SHOP_URL], ["RSS feed", "/feed.xml"]]],
     ["Fresh Calendars", [["About us", "/page/about/"], ["Contact", "/page/contact/"], ["Privacy", "/page/privacy-policy/"], ["Terms of use", "/page/terms-of-use/"], ["Advertising", "/page/advertising/"], ["Disclosure", "/page/disclosure/"]]],
   ];
   return `<footer class="site-footer-bar"><div class="concept-wrap"><div class="footer-grid"><div class="footer-brand"><a class="brand-wordmark" href="/"><span>fresh</span>calendars</a><p>Plan brighter days with free calendars, practical printables and useful dates for home, school and work.</p></div>${groups.map(([title, links]) => `<section><h2>${title}</h2><nav aria-label="Footer ${title}">${links.map(([label, href]) => `<a href="${href}">${label}</a>`).join("")}</nav></section>`).join("")}</div><div class="footer-bottom"><p>© ${today.getFullYear()} Fresh Calendars. Made for your next plan.</p><nav aria-label="Site information"><a href="/sitemap.xml">Sitemap</a><a href="/page/privacy-policy/">Privacy</a><a href="/page/terms-of-use/">Terms</a></nav></div></div></footer>`;
