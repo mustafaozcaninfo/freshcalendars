@@ -57,7 +57,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [winter-break-2026-school-districts-dates, spring-break-2027-dates-school-districts, thanksgiving-break-2026-school-districts-dates]
+related: [winter-break-2026-school-districts-dates, spring-break-2027-dates-school-districts, cleveland-metropolitan-school-district-calendar-2026-27]
 assets:
   overlay: true
   kicker: "Columbus City Schools · 2026-27"
