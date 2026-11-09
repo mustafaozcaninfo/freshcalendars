@@ -49,7 +49,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [thanksgiving-break-2026-school-districts-dates, winter-break-2026-school-districts-dates, lausd-calendar-2026-27-winter-break-spring-break]
+related: [thanksgiving-break-2026-school-districts-dates, winter-break-2026-school-districts-dates, oakland-unified-calendar-2026-27]
 assets:
   overlay: true
   kicker: "SFUSD · 2026-27"

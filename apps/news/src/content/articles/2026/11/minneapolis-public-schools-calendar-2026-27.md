@@ -52,7 +52,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [winter-break-2026-school-districts-dates, thanksgiving-break-2026-school-districts-dates, spring-break-2027-dates-school-districts]
+related: [winter-break-2026-school-districts-dates, thanksgiving-break-2026-school-districts-dates, madison-metropolitan-school-district-calendar-2026-27]
 downloads:
   - group: "Minneapolis Public Schools Calendar 2026-27 printables"
     title: "Minneapolis Public Schools Calendar 2026-27"
