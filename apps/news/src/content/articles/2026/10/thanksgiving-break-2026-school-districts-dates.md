@@ -1,8 +1,8 @@
 ---
-title: "Thanksgiving 2026 School Break: 31 of 49 Districts Off Nov. 23-27"
-description: "Thanksgiving 2026 school break: 31 of 49 districts are off Nov. 23-27, 11 from Nov. 25, and seven only Nov. 26-27. A free printable lists every district."
+title: "Thanksgiving 2026 School Break: 52 of 81 Districts Off Nov. 23-27"
+description: "Thanksgiving 2026 school break: 52 of 81 districts are off Nov. 23-27, 18 from Nov. 25, and 11 only Nov. 26-27. A free printable lists 60 of them."
 type: news
-updatedAt: "2026-11-04T19:21:00-05:00"
+updatedAt: "2026-11-09T11:35:00-05:00"
 publishedAt: "2026-10-22T13:10:00-04:00"
 authors: [aaron-kessler]
 category: school-calendars
@@ -12,17 +12,17 @@ assets:
   scene: school
   kicker: "Thanksgiving break 2026"
   date: "2026-11-23"
-  card: { top: "31 of 49 districts off", big: "Nov. 23-27", bottom: "Thanksgiving is Thu., Nov. 26" }
+  card: { top: "52 of 81 districts off", big: "Nov. 23-27", bottom: "Thanksgiving is Thu., Nov. 26" }
   printable:
     kit: fact-table
     slug: thanksgiving-break-2026-school-districts
     group: thanksgiving-2026
     title: "Thanksgiving Break 2026 by School District"
-    subtitle: "Student days off in Thanksgiving week for 49 U.S. districts"
+    subtitle: "Student days off in Thanksgiving week for 60 of 81 U.S. districts"
     year: 2026
-    note: "Source: each district's official 2026-27 school calendar (see the story for links). ISD = Independent School District; JCPS = Jefferson County Public Schools. Districts can change calendars; check yours before you book travel."
-    description: "Thanksgiving week 2026 days off for students in 49 U.S. school districts on two pages, grouped by when the break starts."
-    alt: "Thanksgiving break 2026 printable listing 49 school districts and the days students are off from Nov. 23 to Nov. 27"
+    note: "Source: each district's official 2026-27 school calendar (see the story for links). ISD = Independent School District; JCPS = Jefferson County Public Schools. Lists 60 of the 81 districts on the story page. Districts can change calendars; check yours before you book travel."
+    description: "Thanksgiving week 2026 days off for students in 60 of 81 U.S. school districts, grouped by when the break starts."
+    alt: "Thanksgiving break 2026 printable listing 60 of 81 school districts and the days students are off from Nov. 23 to Nov. 27"
     data:
       columns:
         - { key: district, label: "District" }
@@ -92,6 +92,28 @@ assets:
           src: 38
         - cells: { district: "Volusia County, Fla.", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
           src: 39
+        - cells: { district: "Arlington ISD, Texas", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
+          src: 51
+        - cells: { district: "Cherokee County, Ga.", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
+          src: 52
+        - cells: { district: "Clear Creek ISD, Texas", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
+          src: 53
+        - cells: { district: "Collier County, Fla.", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
+          src: 54
+        - cells: { district: "Douglas County, Colo.", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
+          src: 55
+        - cells: { district: "Elk Grove Unified, Calif.", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
+          src: 56
+        - cells: { district: "Forsyth County, Ga.", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
+          src: 58
+        - cells: { district: "Fresno Unified, Calif.", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
+          src: 59
+        - cells: { district: "Garland ISD, Texas", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
+          src: 60
+        - cells: { district: "Henry County, Ga.", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
+          src: 62
+        - cells: { district: "Leander ISD, Texas", off: "Mon., Nov. 23 to Fri., Nov. 27", days: "5" }
+          src: 64
         - cells: { district: "Clark County, Nev. (Nov. 25 is also a contingency day)", off: "Wed., Nov. 25 to Fri., Nov. 27", days: "3" }
           src: 5
         - cells: { district: "Fairfax County, Va.", off: "Wed., Nov. 25 to Fri., Nov. 27", days: "3" }
@@ -130,17 +152,17 @@ assets:
           src: 49
 hero:
   src: ../../../../assets/news/thanksgiving-break-2026-school-districts-dates/thanksgiving-break-2026-school-districts-dates.jpg
-  alt: "Thanksgiving break 2026 illustration: a schoolhouse scene with a Nov. 23 date tile and a card saying 31 of 49 districts are off Nov. 23-27"
+  alt: "Thanksgiving break 2026 illustration: a schoolhouse scene with a Nov. 23 date tile and a card saying 52 of 81 districts are off Nov. 23-27"
   title: "Thanksgiving break 2026 for large school districts"
-  caption: "Thirty-one of the 49 districts we checked give students the whole week of Nov. 23-27, 2026 off; seven, including New York City and Chicago, close only Nov. 26-27."
+  caption: "Fifty-two of the 81 districts we checked give students the whole week of Nov. 23-27, 2026 off; 11, including New York City and Chicago, close only Nov. 26-27."
 summary:
-  - "Thanksgiving is Thursday, Nov. 26, 2026. In 31 of 49 U.S. districts we checked, students are off the whole week, Monday, Nov. 23 through Friday, Nov. 27."
-  - "Eleven districts start the break on Wednesday, Nov. 25, among them Clark County, Fairfax County, Wake County, Charlotte-Mecklenburg, Philadelphia and DC Public Schools."
-  - "Seven districts, including New York City, Chicago, Boston and Seattle, hold classes Monday to Wednesday and close only Nov. 26-27; Montgomery County, Md., dismisses early Nov. 23-25."
-  - "Classes resume Monday, Nov. 30 in 21 of the first 24 districts listed. A free printable lists every district."
+  - "Thanksgiving is Thursday, Nov. 26, 2026. In 52 of 81 U.S. districts we checked, students are off the whole week, Monday, Nov. 23 through Friday, Nov. 27."
+  - "Eighteen districts start the break on Wednesday, Nov. 25, among them Clark County, Fairfax County, Wake County, Charlotte-Mecklenburg, Philadelphia, DC Public Schools and Minneapolis."
+  - "Eleven districts, including New York City, Chicago, Boston and Seattle, hold classes Monday to Wednesday and close only Nov. 26-27; Montgomery County, Md., dismisses early Nov. 23-25."
+  - "Classes resume Monday, Nov. 30 in 21 of the 24 districts in the chart. A free printable lists 60 of them."
 faq:
   - q: "When is Thanksgiving break 2026?"
-    a: "For 31 of the 49 districts we checked, Monday, Nov. 23 through Friday, Nov. 27, 2026. Some districts start on Wednesday, Nov. 25, and a few close only on Thanksgiving Day, Nov. 26, and Friday, Nov. 27."
+    a: "For 52 of the 81 districts we checked, Monday, Nov. 23 through Friday, Nov. 27, 2026. Some districts start on Wednesday, Nov. 25, and a few close only on Thanksgiving Day, Nov. 26, and Friday, Nov. 27."
   - q: "Is there school the week of Thanksgiving 2026?"
     a: "It depends on the district. Los Angeles, Miami-Dade, Houston, Dallas, Cobb County, Austin and every Florida district in the table are closed all week. New York City, Chicago, Boston, Seattle and Montgomery County, Md., have school Monday through Wednesday."
   - q: "Do NYC public schools have Thanksgiving week off in 2026?"
@@ -148,9 +170,9 @@ faq:
   - q: "Does Los Angeles Unified have the whole Thanksgiving week off?"
     a: "Yes. The 2026-27 calendar marks Nov. 23-25 as no-school days and Nov. 26-27 as the Thanksgiving holiday, so students are off all week."
   - q: "When do students go back after Thanksgiving break 2026?"
-    a: "Monday, Nov. 30, 2026, in 21 of the first 24 districts listed here. The district stories linked in the table give the others' return days."
+    a: "Monday, Nov. 30, 2026, in 21 of the 24 districts in the chart. The district stories linked in the table give the others' return days."
   - q: "Is the Friday after Thanksgiving a school holiday?"
-    a: "Yes, in every district on this list. Friday, Nov. 27 is Black Friday, and all 49 districts are closed that day."
+    a: "Yes, in every district on this list. Friday, Nov. 27 is Black Friday, and all 81 districts are closed that day."
 sources:
   - title: "School Year Calendar 2026-2027"
     url: "https://www.schools.nyc.gov/docs/default-source/sections/calendar/2026-27-school-year-calendar.pdf"
@@ -299,6 +321,102 @@ sources:
   - title: "2026-27 School Year Dates"
     url: "https://www.seattleschools.org/school-year-dates"
     publisher: "Seattle Public Schools"
+  - title: "2026-27 School Year Calendar"
+    url: "https://resources.finalsite.net/images/v1781034912/asdk12org/oepf6wk9lxaj6widuixy/26-27_Accessible.pdf"
+    publisher: "Anchorage School District"
+  - title: "2026 - 2027 Elementary Student Academic Calendar (PDF)"
+    url: "https://drive.google.com/file/d/1-BDmMFTL4vW52HbJQN8uFIiBee89RFcX/view"
+    publisher: "Arlington Independent School District"
+  - title: "2026-27 School Year Calendar - text"
+    url: "https://www.cherokeek12.net/fs/pages/11327"
+    publisher: "Cherokee County School District"
+  - title: "2026-2027 Academic Calendar (PDF)"
+    url: "https://resources.finalsite.net/images/v1774646946/ccisdnet/zm5bms2th51xgudhjwzt/AcademicCalendar26-27-APPROVED.pdf"
+    publisher: "Clear Creek Independent School District"
+  - title: "Approved Academic School Calendar 2026 – 2027 (PDF, Board Approved January 15, 2025)"
+    url: "https://resources.finalsite.net/images/v1763484169/collierschoolscom/collierschoolscom/svcivnf4fwilduzivsnx/2026-2027AcademicCalendarEnglish.pdf"
+    publisher: "Collier County Public Schools"
+  - title: "Calendar at a Glance - Douglas County School District"
+    url: "https://www.dcsdk12.org/fs/pages/16915"
+    publisher: "Douglas County School District"
+  - title: "2026-2027 School Year Calendar (Traditional), PDF"
+    url: "https://d16k74nzx9emoe.cloudfront.net/db50041b-5224-4c21-a4e4-746036882db4/2026-27-Traditional-Calendar.pdf"
+    publisher: "Elk Grove Unified School District"
+  - title: "2026-27 FCPS Instructional Calendar for Students & Families"
+    url: "https://resources.finalsite.net/images/v1752513775/fcpsnet/gsigaxkgno0fjj8zda4u/2627_calendar.pdf"
+    publisher: "Fayette County Public Schools"
+  - title: "2026-27 Student Calendar | Forsyth County School District"
+    url: "https://www.forsyth.k12.ga.us/fs/pages/33934"
+    publisher: "Forsyth County School District"
+  - title: "Fresno Unified School District Academic Calendar 2026-2027 (PDF, revised and approved March 11, 2026)"
+    url: "https://resources.finalsite.net/images/v1774907065/fresnouorg/yj03wwdolxph8ybjblxy/FINALV2ACADEMICCALENDAROPTION12026.pdf"
+    publisher: "Fresno Unified School District"
+  - title: "2026-27 Garland ISD Academic Calendar (PDF, updated 12/03/25)"
+    url: "https://www.garlandisd.net/media/19367/download?inline"
+    publisher: "Garland Independent School District"
+  - title: "Greenville County Schools 2026-27 District Calendar (iCal feed, gcs_events2627.ics)"
+    url: "https://www.greenville.k12.sc.us/Calendar/gcs_events2627.ics"
+    publisher: "Greenville County Schools"
+  - title: "Calendars - Henry County Schools (2026-27 - HCS School Calendar)"
+    url: "https://www.henry.k12.ga.us/about-hcs/deputy-superintendents/deputy-superintendent-operations/overview/calendars"
+    publisher: "Henry County Schools"
+  - title: "Calendar - Knox County Schools"
+    url: "https://www.knoxschools.org/about/calendar"
+    publisher: "Knox County Schools"
+  - title: "Academic Calendar 2026-2027 (Essentials)"
+    url: "https://drive.google.com/file/d/1sXyGhcxW17UxvVXI5iTPcG1oGHXAz-pA/view"
+    publisher: "Leander Independent School District"
+  - title: "Lewisville ISD ACADEMIC CALENDAR 2026-2027 (PDF)"
+    url: "https://resources.finalsite.net/images/v1768319457/lisdnet/lisdnet/icrlklvimbmqhgx4dihp/2627Calendar_FINAL.pdf"
+    publisher: "Lewisville Independent School District"
+  - title: "2026-2027 School Year Calendar - Madison Metro School District"
+    url: "https://www.madison.k12.wi.us/about/calendar-of-events/2026-2027-school-year-calendar"
+    publisher: "Madison Metropolitan School District"
+  - title: "2026-2027 Student School Year Calendar"
+    url: "https://resources.finalsite.net/images/v1773169079/mplsk12mnus/ge5clwh0shgydwvthwbs/SYCalendar-English-2026-27.pdf"
+    publisher: "Minneapolis Public Schools"
+  - title: "School Calendar 2026-2027 (PDF, approved January 22, 2026)"
+    url: "https://www.nps.k12.nj.us/wp-content/uploads/2026/02/School-Calendar-SY-2026-27.pdf"
+    publisher: "Newark Board of Education"
+  - title: "Calendars | NEISD - San Antonio"
+    url: "https://www.neisd.net/__catapult_pages/68727d21-d5d6-4448-83de-c5cb62d45be1/Calendars.html"
+    publisher: "North East Independent School District"
+  - title: "2026-27 School Calendar (PDF)"
+    url: "https://resources.finalsite.net/images/v1782757441/ousdorg/f6utnrwbugohv0jjxre4/ENGLISH-OUSD-Calendar-2026-272.pdf"
+    publisher: "Oakland Unified School District"
+  - title: "Omaha Public Schools 2026-2027 Calendar (PDF, updated 4/7/2026)"
+    url: "https://resources.finalsite.net/images/v1781619056/wwwopsorg/pmrbkdzi2w2vs8ko4ygz/2026-27DistrictCalendar-English.pdf"
+    publisher: "Omaha Public Schools"
+  - title: "Calendar - Pittsburgh School District (2026-2027 school year key dates)"
+    url: "https://www.pghschools.org/calendar"
+    publisher: "Pittsburgh Public Schools"
+  - title: "Academic Calendars - Sacramento City Unified School District"
+    url: "https://www.scusd.edu/families/academic-calendars"
+    publisher: "Sacramento City Unified School District"
+  - title: "2026-27 SPPS District Calendar - English (PDF)"
+    url: "https://resources.finalsite.net/images/v1781716163/sppsorg/pcrtan3aohrhtpugkc4q/2026-27SPPSCalendar.pdf"
+    publisher: "Saint Paul Public Schools"
+  - title: "KEY DATES 2026-27 School Year (families PDF, REV 6/2026)"
+    url: "https://resources.finalsite.net/images/v1784670902/salkeizk12orus/evcu41jsehpraddo1iwb/calendar-families-2026-27-en.pdf"
+    publisher: "Salem-Keizer Public Schools"
+  - title: "School Holiday Calendar 2026-2027 (PDF)"
+    url: "https://www.sfusd.edu/sites/default/files/2026-08/New%20SFUSD-Holiday-Calendar-2026-2027.pdf"
+    publisher: "San Francisco Unified School District"
+  - title: "MASTER CALENDAR 2026-2027 School Year (PDF)"
+    url: "https://www.stjohns.k12.fl.us/wp-content/uploads/2026/04/2026-2027-SJCSD-Master-Calendar-1.pdf"
+    publisher: "St. Johns County School District"
+  - title: "2026-2027 Student Calendar (PDF)"
+    url: "https://resources.finalsite.net/images/v1774449123/tulsaschoolsorg/rikia03yxxzmrldjaqjn/Calendar_Student_2627_English_1.pdf"
+    publisher: "Tulsa Public Schools"
+  - title: "2026-2027 Balanced Calendar (WCSD 9/16/2026)"
+    url: "https://resources.finalsite.net/images/v1789588937/washoeschoolsnet/aoar96bg30i96qyzseas/2026-2027BalancedCalendar-91626.pdf"
+    publisher: "Washoe County School District"
+  - title: "USD 259 Wichita Public Schools School Year Calendar 2026-2027 (PDF, revised May 13, 2026)"
+    url: "https://www.usd259.org/fs/resource-manager/view/94a7f0ef-84f8-4dfb-9a40-9911e29e4f95"
+    publisher: "Wichita Public Schools"
+  - title: "2026-2027 WCS Student School Calendar (PDF)"
+    url: "https://docs.wcs.edu/pdf/hr/Student-School-Calendar-2026-2027.pdf"
+    publisher: "Williamson County Schools"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -310,37 +428,37 @@ related: [winter-break-2026-school-districts-dates, newark-public-schools-calend
 downloads:
   - group: "Thanksgiving Break 2026 by School District printables"
     title: "Thanksgiving Break 2026 by School District"
-    description: "Thanksgiving week 2026 days off for students in 49 U.S. school districts on two pages, grouped by when the break starts."
+    description: "Thanksgiving week 2026 days off for students in 60 of 81 U.S. school districts, grouped by when the break starts."
     preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-break-2026-school-districts.png
-    alt: "Thanksgiving break 2026 printable listing 49 school districts and the days students are off from Nov. 23 to Nov. 27"
+    alt: "Thanksgiving break 2026 printable listing 60 of 81 school districts and the days students are off from Nov. 23 to Nov. 27"
     pdf: "/news/downloads/thanksgiving-2026/thanksgiving-break-2026-school-districts.pdf"
     png: "/news/downloads/thanksgiving-2026/thanksgiving-break-2026-school-districts.png"
-    pages: 2
+    pages: 3
 draft: false
 ---
 
-**Thanksgiving break 2026 runs Monday, Nov. 23 through Friday, Nov. 27 in most large U.S. school districts.** Of the 49 districts we checked, 31 give students the whole week off. Eleven start the break on Wednesday, Nov. 25, and seven, including New York City and Chicago, close only on Thanksgiving Day and the Friday after.
+**Thanksgiving break 2026 runs Monday, Nov. 23 through Friday, Nov. 27 in most large U.S. school districts.** Of the 81 districts we checked, 52 give students the whole week off. Eighteen start the break on Wednesday, Nov. 25, and 11, including New York City and Chicago, close only on Thanksgiving Day and the Friday after.
 
-Thanksgiving is Thursday, Nov. 26, 2026. Every date below comes from the district's own 2026-27 calendar, linked in the sources. The list has 24 large districts and 25 more that each have their own story on our site, linked from the table.
+Thanksgiving is Thursday, Nov. 26, 2026. Every date below comes from the district's own 2026-27 calendar, linked in the sources. The list has 24 large districts and 57 more that each have their own story on our site, linked from the table.
 
 ## Thanksgiving break 2026 by district
 
 | District | Students off | Days off |
 |---|---|---|
-| Los Angeles Unified, Calif. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Miami-Dade County, Fla. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Broward County, Fla. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Houston Independent School District (ISD), Texas | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Los Angeles Unified, Calif.](/news/lausd-calendar-2026-27-winter-break-spring-break/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Miami-Dade County, Fla.](/news/miami-dade-school-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Broward County, Fla.](/news/broward-county-school-calendar-2026-27/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Houston Independent School District (ISD), Texas](/news/houston-isd-calendar-2026-27-holidays-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | [Hillsborough County, Fla.](/news/hillsborough-county-public-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Orange County, Fla. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Palm Beach County, Fla. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Gwinnett County, Ga. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Dallas ISD, Texas | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| San Diego Unified, Calif. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Orange County, Fla.](/news/orange-county-public-schools-calendar-2026-27-breaks-holidays/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Palm Beach County, Fla.](/news/palm-beach-county-school-calendar-2026-27/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Gwinnett County, Ga.](/news/gwinnett-county-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Dallas ISD, Texas](/news/dallas-isd-calendar-2026-27-holidays-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [San Diego Unified, Calif.](/news/san-diego-unified-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | Duval County, Fla. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Cypress-Fairbanks ISD, Texas | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Northside ISD, San Antonio | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Denver Public Schools, Colo. | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Cypress-Fairbanks ISD, Texas](/news/cypress-fairbanks-isd-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Northside ISD, San Antonio](/news/northside-isd-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Denver Public Schools, Colo.](/news/denver-public-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | [Cobb County, Ga.](/news/cobb-county-school-calendar-2026-27-breaks-holidays/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | [Austin ISD, Texas](/news/austin-isd-calendar-2026-27-holidays-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | [Anne Arundel County, Md.](/news/anne-arundel-county-public-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5, Nov. 23-24 are parent-teacher conference days with no students |
@@ -358,10 +476,31 @@ Thanksgiving is Thursday, Nov. 26, 2026. Every date below comes from the distric
 | [Polk County, Fla.](/news/polk-county-public-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 ("Fall Break") |
 | [Seminole County, Fla.](/news/seminole-county-public-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
 | [Volusia County, Fla.](/news/volusia-county-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
-| Clark County, Nev. | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
-| Fairfax County, Va. | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
-| Wake County, N.C. (traditional) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
-| Charlotte-Mecklenburg, N.C. | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
+| [Arlington ISD, Texas](/news/arlington-isd-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Cherokee County, Ga.](/news/cherokee-county-school-district-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Clear Creek ISD, Texas](/news/clear-creek-isd-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Collier County, Fla.](/news/collier-county-public-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 ("Fall Break") |
+| [Douglas County, Colo.](/news/douglas-county-school-district-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Elk Grove Unified, Calif.](/news/elk-grove-unified-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Forsyth County, Ga.](/news/forsyth-county-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Fresno Unified, Calif.](/news/fresno-unified-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Garland ISD, Texas](/news/garland-isd-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Henry County, Ga.](/news/henry-county-schools-calendar-2026-27/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Leander ISD, Texas](/news/leander-isd-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Lewisville ISD, Texas](/news/lewisville-isd-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [North East ISD, Texas](/news/north-east-isd-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Oakland Unified, Calif.](/news/oakland-unified-calendar-2026-27/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Omaha Public Schools, Neb.](/news/omaha-public-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Sacramento City Unified, Calif.](/news/sacramento-city-unified-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [San Francisco Unified, Calif.](/news/san-francisco-unified-calendar-2026-27/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [St. Johns County, Fla.](/news/st-johns-county-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Tulsa Public Schools, Okla.](/news/tulsa-public-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Wichita Public Schools, Kan.](/news/wichita-public-schools-calendar-2026-27/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 (Mon. is a Conference Release Day, Tue.-Fri. Fall Recess) |
+| [Williamson County, Tenn.](/news/williamson-county-schools-calendar-2026-27-breaks/) | Mon., Nov. 23 to Fri., Nov. 27 | 5 |
+| [Clark County, Nev.](/news/clark-county-school-district-calendar-2026-27-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
+| [Fairfax County, Va.](/news/fairfax-county-public-schools-calendar-2026-27-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
+| [Wake County, N.C. (traditional)](/news/wake-county-public-schools-calendar-2026-27-traditional/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
+| [Charlotte-Mecklenburg, N.C.](/news/charlotte-mecklenburg-schools-calendar-2026-27-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
 | [DC Public Schools](/news/dcps-calendar-2026-27-dc-public-schools-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
 | [Guilford County, N.C.](/news/guilford-county-schools-calendar-2026-27-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 (Nov. 25 is a teacher workday) |
 | [Howard County, Md.](/news/howard-county-public-schools-calendar-2026-27-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3, plus early dismissal Nov. 23-24 |
@@ -369,6 +508,13 @@ Thanksgiving is Thursday, Nov. 26, 2026. Every date below comes from the distric
 | [Prince George's County, Md.](/news/prince-georges-county-public-schools-calendar-2026-27-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
 | [Virginia Beach, Va.](/news/virginia-beach-city-public-schools-calendar-2026-27-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
 | [Philadelphia, Pa.](/news/philadelphia-school-district-calendar-2026-27-holidays/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 (Nov. 25 is a staff professional development day) |
+| [Fayette County (Lexington), Ky.](/news/fayette-county-public-schools-calendar-2026-27/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
+| [Greenville County, S.C.](/news/greenville-county-schools-calendar-2026-27-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
+| [Knox County, Tenn.](/news/knox-county-schools-calendar-2026-27-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
+| [Madison Metropolitan, Wis.](/news/madison-metropolitan-school-district-calendar-2026-27/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 (Mon., Nov. 30 is a staff-only day) |
+| [Minneapolis Public Schools, Minn.](/news/minneapolis-public-schools-calendar-2026-27/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
+| [Salem-Keizer Public Schools, Ore.](/news/salem-keizer-public-schools-calendar-2026-27-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
+| [Washoe County, Nev.](/news/washoe-county-school-district-calendar-2026-27-breaks/) | Wed., Nov. 25 to Fri., Nov. 27 | 3 |
 | New York City Public Schools | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
 | Chicago Public Schools | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
 | Montgomery County, Md. | Thu., Nov. 26 to Fri., Nov. 27 | 2, plus early release Nov. 23-25 |
@@ -376,31 +522,36 @@ Thanksgiving is Thursday, Nov. 26, 2026. Every date below comes from the distric
 | [Boston Public Schools](/news/boston-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
 | [Hawaii public schools](/news/hawaii-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
 | [Seattle Public Schools](/news/seattle-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
+| [Anchorage, Alaska](/news/anchorage-school-district-calendar-2026-27/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
+| [Newark Public Schools, N.J.](/news/newark-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
+| [Pittsburgh Public Schools, Pa.](/news/pittsburgh-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
+| [Saint Paul Public Schools, Minn.](/news/saint-paul-public-schools-calendar-2026-27/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
 
-![Thanksgiving break 2026 chart for the first 24 districts in the table: 16 are off Monday to Friday, Nov. 23-27, five from Wednesday, Nov. 25, and New York City, Chicago and Montgomery County only Nov. 26-27](../../../../assets/news/thanksgiving-break-2026-school-districts-dates/thanksgiving-break-2026-chart.png "Thanksgiving break 2026 by school district")
+![Thanksgiving break 2026 chart for 24 large districts in the table: 16 are off Monday to Friday, Nov. 23-27, five from Wednesday, Nov. 25, and New York City, Chicago and Montgomery County only Nov. 26-27](../../../../assets/news/thanksgiving-break-2026-school-districts-dates/thanksgiving-break-2026-chart.png "Thanksgiving break 2026 by school district")
 
-*The chart covers the first 24 districts in the table. Florida, Texas and California districts lean toward the full week there, while New York City and Chicago keep students in class until Wednesday.*
+*The chart covers 24 large districts in the table. Florida, Texas and California districts lean toward the full week there, while New York City and Chicago keep students in class until Wednesday.*
 
 ## The full-week districts
 
-Every Florida district on the list, from Miami-Dade to Duval and Volusia, closes for the whole week. So do the eight Texas districts, including Austin and Fort Worth, plus Los Angeles, San Diego, Denver, Columbus, Ohio, Memphis-Shelby County and Metro Nashville in Tennessee, Anne Arundel County, Md., and four Georgia districts: Cobb, Gwinnett, DeKalb and Fulton counties.
+Every Florida district on the list, from Miami-Dade to Duval, Collier and St. Johns, closes for the whole week. So do 14 Texas districts, including Austin and Fort Worth, and seven California districts: Los Angeles, San Diego, San Francisco, Oakland, Sacramento, Fresno and Elk Grove. The Georgia districts are Cobb, Gwinnett, DeKalb, Fulton, Cherokee, Forsyth and Henry counties; in Tennessee, Memphis-Shelby County, Metro Nashville and Williamson County. Denver and Douglas County in Colorado, Columbus in Ohio, Anne Arundel County in Maryland, Omaha in Nebraska, Tulsa in Oklahoma and Wichita in Kansas close all week too.
 
-Los Angeles Unified's board-approved calendar names only Nov. 26-27 as the Thanksgiving holiday, but it also marks Nov. 23-25 as no-school days. The district's school sites list the whole week as "No School - Thanksgiving Break." Miami-Dade calls Nov. 23-25 recess days and Nov. 26-27 the Thanksgiving holiday and recess.
+Los Angeles Unified's board-approved calendar names only Nov. 26-27 as the Thanksgiving holiday, but it also marks Nov. 23-25 as no-school days. The district's school sites list the whole week as "No School - Thanksgiving Break." Miami-Dade calls Nov. 23-25 recess days and Nov. 26-27 the Thanksgiving holiday and recess. Collier County, Fla., calls the week Fall Break. Wichita Public Schools lists Monday, Nov. 23 as a Conference Release Day and Nov. 24-27 as Fall Recess, so students are off Nov. 23-27 in total.
 
 ## Districts that start on Wednesday
 
-Clark County, which covers Las Vegas, has no school on Wednesday, Nov. 25. The district also lists that day as its first contingency day, so it could become a school day if the district needs to make up lost time. Fairfax County, Wake County and Charlotte-Mecklenburg also close Nov. 25-27, with classes on Monday and Tuesday. The School District of Philadelphia lists Wednesday, Nov. 25 as a staff professional development day with school closed for students, followed by Thanksgiving Recess on Nov. 26-27, so students are off three days. Its calendar does not list Nov. 23-24 as closed. DC Public Schools, Prince George's County, Jefferson County, Ky., and Virginia Beach also close Nov. 25-27. Guilford County, N.C., lists Nov. 25 as a teacher workday within its Thanksgiving break for students, and Howard County, Md., dismisses students early on Nov. 23 and 24 before its Nov. 25-27 break.
+Clark County, which covers Las Vegas, has no school on Wednesday, Nov. 25. The district also lists that day as its first contingency day, so it could become a school day if the district needs to make up lost time. Fairfax County, Wake County and Charlotte-Mecklenburg also close Nov. 25-27, with classes on Monday and Tuesday. The School District of Philadelphia lists Wednesday, Nov. 25 as a staff professional development day with school closed for students, followed by Thanksgiving Recess on Nov. 26-27, so students are off three days. Its calendar does not list Nov. 23-24 as closed. DC Public Schools, Prince George's County, Jefferson County, Ky., and Virginia Beach also close Nov. 25-27. Guilford County, N.C., lists Nov. 25 as a teacher workday within its Thanksgiving break for students, and Howard County, Md., dismisses students early on Nov. 23 and 24 before its Nov. 25-27 break. Seven more districts also close Nov. 25-27: Fayette County (Lexington), Ky.; Knox County, Tenn.; Greenville County, S.C.; Minneapolis; Madison, Wis.; Salem-Keizer, Ore.; and Washoe County, Nev. Madison also lists Monday, Nov. 30 as a staff-only day with no school.
 
 ## Districts with school until Wednesday
 
 - **New York City Public Schools** close for Thanksgiving recess on Nov. 26 and 27 only. The [NYC public schools calendar](/news/nyc-public-schools-calendar-2026-27-breaks-holidays/) has every other day off this year.
 - **Chicago Public Schools** close Nov. 26 and 27. See the [Chicago Public Schools calendar](/news/chicago-public-schools-calendar-2026-27-breaks/) for the rest of the year.
 - **Baltimore County, Md.,** Boston, Hawaii and Seattle also close only Nov. 26-27. In Baltimore County, Wednesday, Nov. 25 is a school day with early dismissal, 3 hours early, per its calendar.
+- **Anchorage, Newark, Pittsburgh and Saint Paul** also close only Nov. 26-27. Newark dismisses students and staff at 1 p.m. on Wednesday, Nov. 25.
 - **Montgomery County, Md.,** closes Nov. 26 and 27 and dismisses students early on Monday, Tuesday and Wednesday, Nov. 23, 24 and 25. The [Montgomery County Public Schools calendar](/news/montgomery-county-public-schools-calendar-2026-27-breaks/) has the rest of the year.
 
 ## Back to school on Nov. 30
 
-Of the first 24 districts, 21 reopen on **Monday, Nov. 30**; the linked district stories give the return day for the rest. Families in the full-week districts have nine days in a row, from Saturday, Nov. 21 through Sunday, Nov. 29. In New York City, Chicago and Montgomery County the break is a four-day weekend, Thursday to Sunday.
+Of the 24 districts in the chart, 21 reopen on **Monday, Nov. 30**; the linked district stories give the return day for the rest. Families in the full-week districts have nine days in a row, from Saturday, Nov. 21 through Sunday, Nov. 29. In New York City, Chicago and Montgomery County the break is a four-day weekend, Thursday to Sunday.
 
 ## Plan the week
 
@@ -408,4 +559,4 @@ Of the first 24 districts, 21 reopen on **Monday, Nov. 30**; the linked district
 - **What's on TV:** The 100th Macy's parade, the first National Football League (NFL) game on Thanksgiving Eve and the Black Friday game are in our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
 - **Next break:** Most of these districts close again from Dec. 21. The [winter break 2026](/news/winter-break-2026-school-districts-dates/) story lists each district's dates and return day.
 
-Print the one-page list below, or mark your district's days on the [November 2026 printable calendar](/november-calendars.html).
+The printable lists 60 of the 81 districts; the full table is above. Print it, or mark your district's days on the [November 2026 printable calendar](/november-calendars.html).

@@ -201,7 +201,7 @@ export const WINTER_2026: [string, string, string, string, string, string, strin
   ["Orange County", "Fla.", "2026-12-21", "2027-01-01", "Jan. 4 teacher workday", "2027-01-05", "2026-11-23..2026-11-27"],
   ["Palm Beach County", "Fla.", "2026-12-21", "2027-01-01", "Jan. 4 duty day", "2027-01-05", "2026-11-23..2026-11-27"],
   ["Fairfax County", "Va.", "2026-12-21", "2027-01-01", "", "2027-01-04", "2026-11-25..2026-11-27"],
-  ["Gwinnett County", "Ga.", "2026-12-21", "2027-01-04", "", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Gwinnett County", "Ga.", "2026-12-21", "2027-01-01", "Jan. 4 student holiday", "2027-01-05", "2026-11-23..2026-11-27"],
   ["Dallas ISD", "Texas", "2026-12-21", "2027-01-04", "Jan. 5 PD day", "2027-01-06", "2026-11-23..2026-11-27"],
   ["Wake County (traditional)", "N.C.", "2026-12-21", "2027-01-01", "", "2027-01-04", "2026-11-25..2026-11-27"],
   ["Charlotte-Mecklenburg", "N.C.", "2026-12-21", "2027-01-01", "", "2027-01-04", "2026-11-25..2026-11-27"],
@@ -232,31 +232,80 @@ const WINTER_2026_MORE: [string, string, string, string, string, string, string]
   ["Memphis-Shelby County", "Tenn.", "2026-12-21", "2027-01-04", "", "2027-01-05", "2026-11-23..2026-11-27"],
   ["Polk County", "Fla.", "2026-12-21", "2027-01-01", "Jan. 4-5 no school", "2027-01-06", "2026-11-23..2026-11-27"],
   ["Lee County", "Fla.", "2026-12-21", "2027-01-01", "Jan. 4 remote duty day", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Anchorage", "Alaska", "2026-12-21", "2027-01-01", "", "2027-01-04", "2026-11-26..2026-11-27"],
+  ["Boston Public Schools", "Mass.", "2026-12-24", "2027-01-01", "Jan. 4 staff report day", "2027-01-05", "2026-11-26..2026-11-27"],
+  ["Cherokee County", "Ga.", "2026-12-21", "2027-01-01", "", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Clear Creek ISD", "Texas", "2026-12-21", "2027-01-01", "Jan. 4 student holiday", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Cleveland Metropolitan", "Ohio", "2026-12-21", "2027-01-01", "", "2027-01-04", "2026-11-25..2026-11-27"],
+  ["Collier County", "Fla.", "2026-12-21", "2027-12-31", "Jan. 1 and Jan. 4", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Fayette County", "Ky.", "2026-12-21", "2027-01-01", "Jan. 4 no classes", "2027-01-05", "2026-11-25..2026-11-27"],
+  ["Garland ISD", "Texas", "2026-12-21", "2027-01-01", "Jan. 4 staff development", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Greenville County", "S.C.", "2026-12-21", "2027-01-01", "Jan. 4 teacher PD day", "2027-01-05", "2026-11-25..2026-11-27"],
+  ["Henry County", "Ga.", "2026-12-21", "2027-01-05", "", "2027-01-06", "2026-11-23..2026-11-27"],
+  ["Knox County", "Tenn.", "2026-12-21", "2027-01-01", "", "2027-01-05", "2026-11-25..2026-11-27"],
+  ["Leander ISD", "Texas", "2026-12-21", "2027-01-04", "", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Lewisville ISD", "Texas", "2026-12-21", "2027-01-01", "Jan. 4 staff day", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Madison Metropolitan", "Wis.", "2026-12-21", "2027-01-01", "", "2027-01-04", "2026-11-25..2026-11-27"],
+  ["Oakland Unified", "Calif.", "2026-12-21", "2027-01-04", "Jan. 5 PD day", "2027-01-06", "2026-11-23..2026-11-27"],
+  ["Osceola County", "Fla.", "2026-12-21", "2027-01-01", "", "2027-01-04", "2026-11-23..2026-11-27"],
+  ["Pittsburgh Public Schools", "Pa.", "2026-12-24", "2027-01-01", "", "2027-01-04", "2026-11-26..2026-11-27"],
+  ["Plano ISD", "Texas", "2026-12-21", "2027-01-01", "Jan. 4 student holiday", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Seminole County", "Fla.", "2026-12-21", "2027-01-05", "", "2027-01-06", "2026-11-23..2026-11-27"],
+  ["St. Johns County", "Fla.", "2026-12-21", "2027-01-01", "Jan. 4 teacher planning day", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Tulsa Public Schools", "Okla.", "2026-12-21", "2027-01-01", "Jan. 4 teacher PD day", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Volusia County", "Fla.", "2026-12-21", "", "Jan. 4 student holiday", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Wichita", "Kan.", "2026-12-21", "2027-01-04", "", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Williamson County", "Tenn.", "2026-12-21", "2027-01-04", "", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Arlington ISD", "Texas", "2026-12-21", "2027-01-01", "Jan. 4-5 student holidays", "2027-01-06", "2026-11-23..2026-11-27"],
+  ["Columbus City Schools", "Ohio", "2026-12-21", "2027-01-01", "", "", "2026-11-23..2026-11-27"],
+  ["Douglas County", "Colo.", "2026-12-21", "2027-12-31", "Jan. 4 teacher work day", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Elk Grove Unified", "Calif.", "2026-12-23", "2027-01-01", "Jan. 4 inservice day", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Forsyth County", "Ga.", "2026-12-21", "2027-01-01", "Jan. 4 PD day", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Fresno Unified", "Calif.", "2026-12-21", "2027-01-08", "", "2027-01-11", "2026-11-23..2026-11-27"],
+  ["Guilford County", "N.C.", "2026-12-21", "2027-01-01", "Jan. 4 teacher workday", "2027-01-05", "2026-11-25..2026-11-27"],
+  ["Howard County", "Md.", "2026-12-24", "2027-01-01", "", "2027-01-04", "2026-11-25..2026-11-27"],
+  ["Minneapolis Public Schools", "Minn.", "2026-12-21", "2027-01-01", "", "2027-01-04", "2026-11-25..2026-11-27"],
+  ["Newark Public Schools", "N.J.", "2026-12-24", "2027-01-01", "", "", "2026-11-26..2026-11-27"],
+  ["North East ISD (San Antonio)", "Texas", "2026-12-21", "2027-01-04", "", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Omaha Public Schools", "Neb.", "2026-12-21", "2027-01-04", "", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Pasco County", "Fla.", "2026-12-21", "2027-01-01", "Jan. 4 teacher planning day", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Sacramento City Unified", "Calif.", "2026-12-21", "2027-01-04", "", "2027-01-05", "2026-11-23..2026-11-27"],
+  ["Saint Paul Public Schools", "Minn.", "2026-12-23", "2027-01-01", "", "2027-01-04", "2026-11-26..2026-11-27"],
+  ["Salem-Keizer", "Ore.", "2026-12-21", "2027-01-01", "", "", "2026-11-25..2026-11-27"],
+  ["San Francisco Unified", "Calif.", "2026-12-21", "2027-01-01", "", "2027-01-04", "2026-11-23..2026-11-27"],
+  ["Virginia Beach", "Va.", "2026-12-21", "2027-01-01", "", "2027-01-04", "2026-11-25..2026-11-27"],
+  ["Washoe County", "Nev.", "2026-12-21", "2027-01-01", "Jan. 4 PD day", "2027-01-05", "2026-11-25..2026-11-27"],
 ];
 const rng2 = (x: string) => { const [a, b] = x.split(".."); return a!.slice(5, 7) === b!.slice(5, 7) ? `${ap(a!)}-${Number(b!.slice(8))}` : `${ap(a!)}-${ap(b!)}`; };
 export const winterRange = (a: string, b: string) => `${ap(a)}-${ap(b)}`;
 function winterSheet(fonts: string): string {
-  const rows = [...WINTER_2026, ...WINTER_2026_MORE].map(([d, st, a, b, x, ret, tg]) => `<tr><td class="c">${d}<small>${st}</small></td><td class="hi">${winterRange(a, b)}</td><td>${x || "-"}</td><td>${ret ? `${dow(ret)}, ${ap(ret)}` : "See district"}</td><td>${tg ? rng2(tg) : "See district"}</td></tr>`).join("");
+  const all = [...WINTER_2026, ...WINTER_2026_MORE];
+  const SHOWN = Math.min(all.length, 60); // the sheet lists the first 60 districts in table order (the print kits' cap)
+  const html = all.slice(0, SHOWN).map(([d, st, a, b, x, ret, tg]) => `<tr><td class="c">${d}<small>${st}</small></td><td class="hi">${b ? winterRange(a, b) : `From ${ap(a)}`}</td><td>${x || "-"}</td><td>${ret ? `${dow(ret)}, ${ap(ret)}` : "See district"}</td><td>${tg ? rng2(tg) : "See district"}</td></tr>`);
+  const half = Math.ceil(html.length / 2);
+  const thead = `<thead><tr><th>District</th><th>Winter break (students)</th><th>Extra no-school day</th><th>Students return</th><th>Thanksgiving break</th></tr></thead>`;
   const css = `
   .wb{padding:28px 32px 0}
   .wb header{display:flex;justify-content:space-between;align-items:flex-end;border-bottom:4px solid #1d4ed8;padding-bottom:8px;margin-bottom:10px}
   .wb h1{font-family:Sora;font-weight:800;font-size:30px;margin:0;color:#1d4ed8;line-height:1.05}
   .wb .sub{margin:4px 0 0;font-size:11px;color:#37474f}
   .wb .flake svg{display:block}
-  .wb table{width:100%;border-collapse:collapse;font-size:11px;font-variant-numeric:tabular-nums}
+  .wb table{width:100%;border-collapse:collapse;font-size:12.5px;font-variant-numeric:tabular-nums}
   .wb th{background:#1e3a8a;color:#fff;font-family:Sora;font-size:8.6px;padding:6px 5px;text-align:left}
-  .wb td{padding:2.6px 5px;border-bottom:1px solid #e3e8ee}
+  .wb td{padding:5.2px 6px;border-bottom:1px solid #e3e8ee}
   .wb tr:nth-child(even) td{background:#f8fafc}
   .wb td.c{font-weight:700}
   .wb td.c small{font-weight:400;color:#64748b;margin-left:5px}
   .wb td.hi{font-weight:800;color:#1e3a8a}
   .wb .note{margin-top:9px;font-size:8.8px;color:#5a6b75;line-height:1.45}`;
-  const page = `<section class="page wb"><header><div><h1>Winter Break 2026 by School District</h1>
+  const foot = `<div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/winter-break-2026-school-districts-dates/</div>`;
+  const listed = all.length > SHOWN ? ` Lists ${SHOWN} of the ${all.length} districts on the story page.` : "";
+  const page1 = `<section class="page wb"><header><div><h1>Winter Break 2026 by School District</h1>
     <p class="sub">First and last weekday off for students, extra no-school days next to the break, the day students return, and Thanksgiving break</p></div><div class="flake"><svg width="44" height="44" viewBox="0 0 44 44" aria-hidden="true" fill="none" stroke="#93c5fd" stroke-width="3" stroke-linecap="round"><g transform="rotate(0 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(60 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(120 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(180 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(240 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g><g transform="rotate(300 22 22)"><path d="M22 22V3M22 9l-5-4M22 9l5-4"/></g></svg></div></header>
-    <table><thead><tr><th>District</th><th>Winter break (students)</th><th>Extra no-school day</th><th>Students return</th><th>Thanksgiving break</th></tr></thead><tbody>${rows}</tbody></table>
-    <p class="note">Dates are weekdays off for students and come from each district's official 2026-27 calendar, read Oct. 19-20 and 30 and Nov. 4, 2026. Baltimore County, Prince George's, Jefferson County, Seattle and DC return days follow each calendar. Wake County is the traditional calendar; year-round and modified tracks differ. Gwinnett's student calendar includes Jan. 4 in winter break. Broward, Philadelphia, Cobb, Austin and Anne Arundel do not list a return date; Cobb and Austin count Jan. 4 in the break. Calendars can change after weather closures; check your school's site.</p>
-    <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/winter-break-2026-school-districts-dates/</div></section>`;
-  return doc(fonts, LETTER, css, [page]);
+    <table>${thead}<tbody>${html.slice(0, half).join("")}</tbody></table>${foot}</section>`;
+  const page2 = `<section class="page wb"><table>${thead}<tbody>${html.slice(half).join("")}</tbody></table>
+    <p class="note">Dates are weekdays off for students and come from each district's official 2026-27 calendar. Where a calendar prints no return day, the table gives the first weekday it does not list as off, as our district story reads it. Baltimore County, Prince George's, Jefferson County, Seattle and DC return days follow each calendar. Wake County is the traditional calendar; year-round and modified tracks differ. Henry County calls Dec. 21-Jan. 5 Semester Break. Broward, Philadelphia, Cobb, Austin and Anne Arundel do not list a return date; Cobb and Austin count Jan. 4 in the break.${listed} Calendars can change after weather closures; check your school's site.</p>${foot}</section>`;
+  return doc(fonts, LETTER, css, [page1, page2]);
 }
 
 export async function buildDateList3Downloads(): Promise<void> {
