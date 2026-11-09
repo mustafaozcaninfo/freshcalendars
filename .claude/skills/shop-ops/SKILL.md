@@ -17,3 +17,4 @@ Key points:
 - **Design changes go to the repo first.** Edit `shop/design/` first, then push it to the store, then check with `shop/tools/ui_shot.mjs`.
 - **What to do next.** `shop/ROADMAP.md` gives the order of work.
 - Articles (guides, best-of lists, comparisons, gift guides) follow the `shop-article` skill and its checker.
+- Product pages (adding products without AI chips, titles, descriptions, spec tables) follow the `shop-product` skill and `shop/tools/product_check.py`.

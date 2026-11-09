@@ -65,3 +65,7 @@ body.cr-prism .fs-sec .group.relative h3 a{display:inline-flex;align-items:cente
 .fc-table th,.fc-table td{padding:.55rem .7rem;border-bottom:1px solid #e3ece7;text-align:left;vertical-align:top}
 .fc-table thead th{background:#f3faf6;color:#0e2135;font-weight:700}
 .fc-table caption{caption-side:bottom;text-align:left;font-size:.8125rem;color:#4f5f70;padding-top:.4rem}
+/* Two-column spec tables on product pages (shop-product skill): fit the narrow details column instead of scrolling */
+.fc-table.fc-spec table{min-width:0!important;width:100%}
+.fc-table.fc-spec td:first-child{white-space:nowrap;font-weight:600;color:#0e2135}
+@media (max-width:480px){.fc-table.fc-spec td:first-child{white-space:normal}}
