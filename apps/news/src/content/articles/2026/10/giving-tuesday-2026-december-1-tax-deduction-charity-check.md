@@ -33,8 +33,8 @@ faq:
     a: "No. The IRS says donations to donor-advised funds and supporting organizations do not qualify for this deduction."
   - q: "How do I check that a charity is real?"
     a: "The FTC points to the IRS Tax Exempt Organization Search, which tells you whether a donation would be tax deductible. The FTC also says to research the charity's mission and programs, and that most states require a charity or its fundraiser to register."
-  - q: "What is the safest way to pay a charity?"
-    a: "The FTC says to donate by credit card or check. It lists a charity that says the only way to pay is with cryptocurrency, or by wiring money through Western Union or MoneyGram, as a warning sign."
+  - q: "What is a safer way to pay a charity?"
+    a: "The FTC says that to be safer, pay by credit card or check. It also says not to donate to anyone who says you can only pay by cash, gift card, wiring money or cryptocurrency."
   - q: "How do I report a charity scam?"
     a: "The FTC's consumer alert of Aug. 27, 2026 points readers to ReportFraud.ftc.gov."
 sources:
@@ -59,6 +59,10 @@ sources:
     url: "https://consumer.ftc.gov/consumer-alerts/2026/08/when-donating-support-those-need-not-scammer"
     publisher: "Federal Trade Commission"
     date: "2026-08-27"
+  - title: "Spot scammers impersonating well-known charities and sweepstakes"
+    url: "https://consumer.ftc.gov/consumer-alerts/2026/10/spot-scammers-impersonating-well-known-charities-and-sweepstakes"
+    publisher: "Federal Trade Commission"
+    date: "2026-10-26"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -74,14 +78,7 @@ downloads:
     pdf: "/news/downloads/giving-tuesday-2026/giving-tuesday-2026-checklist.pdf"
     png: "/news/downloads/giving-tuesday-2026/giving-tuesday-2026-checklist.png"
     pages: 1
-  - group: "GivingTuesday 2026 Giving Checklist printables"
-    title: "GivingTuesday 2026 Giving Checklist (ink saver)"
-    description: "One-page checklist for GivingTuesday on Tuesday, Dec. 1, 2026: check the charity, pay safely and plan for the new deduction. Ink-saver version."
-    preview: ../../../../assets/news/giving-tuesday-2026/giving-tuesday-2026-checklist-ink.png
-    alt: "Printable GivingTuesday 2026 giving checklist with steps to check a charity, pay safely and plan for taxes, ink-saver version"
-    pdf: "/news/downloads/giving-tuesday-2026/giving-tuesday-2026-checklist-ink.pdf"
-    png: "/news/downloads/giving-tuesday-2026/giving-tuesday-2026-checklist-ink.png"
-    pages: 1
+updatedAt: "2026-11-09T15:25:00-05:00"
 draft: false
 assets:
   overlay: true
@@ -93,26 +90,31 @@ assets:
     group: giving-tuesday-2026
     title: "GivingTuesday 2026 Giving Checklist"
     subtitle: "Check the charity, pay safely and plan for taxes before Tue., Dec. 1, 2026"
-    layout: checklist
-    rows:
-      - { when: "Before you give", what: "Look up the charity in the IRS Tax Exempt Organization Search", section: "Before you give" }
-      - { when: "Before you give", what: "Research the charity's mission and programs", section: "Before you give" }
-      - { when: "Before you give", what: "Do not let anyone rush you into a donation", section: "Before you give" }
-      - { when: "Before you give", what: "Watch for spoofed caller ID on calls asking for money", section: "Before you give" }
-      - { when: "When you pay", what: "Pay by credit card or check", section: "How to pay" }
-      - { when: "When you pay", what: "Be wary if the only way to pay is crypto or wiring money through Western Union or MoneyGram", section: "How to pay" }
-      - { when: "For tax year 2026", what: "Give cash: only cash gifts count toward the new deduction", section: "For your taxes" }
-      - { when: "For tax year 2026", what: "Keep your receipts and ask a tax professional what you need", section: "For your taxes" }
-      - { when: "For tax year 2026", what: "Donor-advised fund gifts do not qualify", section: "For your taxes" }
-      - { when: "Thu., Nov. 26, 2026", what: "Thanksgiving", section: "Key dates" }
-      - { when: "Tue., Dec. 1, 2026", what: "GivingTuesday", section: "Key dates" }
+    kit: activity-sheet
     note: "Sources: GivingTuesday; IRS, Working Families Tax Cuts provisions; Federal Trade Commission (FTC) consumer advice."
-    inkSaver: true
     description: "One-page checklist for GivingTuesday on Tuesday, Dec. 1, 2026: check the charity, pay safely and plan for the new deduction."
     alt: "Printable GivingTuesday 2026 giving checklist with steps to check a charity, pay safely and plan for taxes"
+    notesLabel: "The charity I will check before giving"
+    data:
+      day: { date: "2026-12-01", name: "GivingTuesday", src: 1, quote: "GivingTuesday – Dec 1, 2026" }
+      facts:
+        - { text: "The new deduction is available only for cash gifts to eligible charities.", src: 3, quote: "Available only for cash contributions made to eligible charitable organizations" }
+        - { text: "To be safer, pay by credit card or check.", src: 4, quote: "To be safer, pay by credit card or check." }
+        - { text: "Do not donate to anyone who says you can only pay by cash, gift card, wiring money or cryptocurrency.", src: 6, quote: "Don't donate to anyone who says you can only pay by cash, gift card, wiring money, or cryptocurrency." }
+        - { text: "Paying to claim a charity sweepstakes prize is a scam.", src: 7, quote: "The moment someone tells you to pay to claim your prize, you know you're dealing with a scam." }
+      activities:
+        - type: checklist
+          title: "Before you give"
+          items:
+            - "Look up the charity in the IRS Tax Exempt Organization Search"
+            - "Research the charity's mission and programs"
+            - "Do not let anyone rush you into a donation"
+            - "Watch for spoofed caller ID on calls asking for money"
+            - "Pay by credit card or check"
+            - "Keep your receipts and ask a tax professional what you need"
 ---
 
-GivingTuesday 2026 falls on **Tuesday, Dec. 1**, according to GivingTuesday, and a new rule from the Internal Revenue Service (IRS) applies to it: beginning with tax year 2026, people who do not itemize may deduct up to $1,000 of cash gifts to eligible charities. From Sunday, Oct. 25, 2026, the day is 37 days away. This story explains the deduction, lists the Federal Trade Commission (FTC) steps for checking a charity, and offers a one-page printable checklist.
+GivingTuesday 2026 falls on **Tuesday, Dec. 1**, according to GivingTuesday, and a new rule from the Internal Revenue Service (IRS) applies to it: beginning with tax year 2026, people who do not itemize may deduct up to $1,000 of cash gifts to eligible charities. From Monday, Nov. 9, 2026, the day is 22 days away. The Federal Trade Commission (FTC) steps for checking a charity and a one-page printable checklist follow.
 
 ## When is GivingTuesday 2026?
 
@@ -123,7 +125,7 @@ GivingTuesday lists "GivingTuesday – Dec 1, 2026" on its About page. Thanksgiv
 | Thu., Nov. 26, 2026 | Thanksgiving |
 | Tue., Dec. 1, 2026 | GivingTuesday |
 
-GivingTuesday says it was created in 2012 "as a simple idea: a day that encourages people to do good," and that it was born and incubated at the 92nd Street Y and its Belfer Center for Innovation & Social Impact. For scale, the GivingTuesday Data Commons estimated that 38.1 million people took part in GivingTuesday 2025 and that $4.0 billion was donated in the United States alone. Those are 2025 estimates from a press release dated Dec. 3, 2025; 2026 results are not yet available.
+GivingTuesday says it was created in 2012 "as a simple idea: a day that encourages people to do good," and that it was born and incubated at the 92nd Street Y and its Belfer Center for Innovation & Social Impact. For scale, the GivingTuesday Data Commons estimated that 38.1 million people took part in GivingTuesday 2025 and that $4.0 billion was donated in the United States alone. Those are 2025 estimates from a blog post dated Dec. 3, 2025; 2026 results are not yet available.
 
 ## What is the new deduction for people who do not itemize?
 
@@ -147,14 +149,14 @@ The FTC's guidance on donating safely gives these steps.
 4. Do not let anyone rush you. The FTC says that is something scammers do.
 5. Do not trust caller ID alone. The FTC says scammers can change it to make a call look like it comes from a local area code.
 
-An FTC consumer alert dated Aug. 27, 2026 adds that scammers might impersonate well-known charities, hoping the familiar name will draw a donation. Report scams at ReportFraud.ftc.gov.
+An FTC consumer alert dated Aug. 27, 2026 adds that scammers might impersonate well-known charities, hoping the familiar name will draw a donation. Report scams at ReportFraud.ftc.gov. A later FTC consumer alert, dated Oct. 26, 2026, says scammers "impersonate all kinds of organizations, including reputable charities," and sometimes make you believe you won a charity-sponsored sweepstakes because you donated to that charity. The FTC says: "The moment someone tells you to pay to claim your prize, you know you're dealing with a scam."
 
-## What is the safest way to pay?
+## What is a safer way to pay a charity?
 
-The FTC says to donate by credit card or check, calling it the safest way to donate. If a charity does not accept checks or credit cards, the FTC says it is likely a scam. It also lists a charity that says the only way to pay is with cryptocurrency, or by wiring money through Western Union or MoneyGram, as a warning sign.
+The FTC says: "To be safer, pay by credit card or check." Its Aug. 27, 2026 alert adds: "Don't donate to anyone who says you can only pay by cash, gift card, wiring money, or cryptocurrency." In "Before Giving to a Charity," the FTC says that if the charity does not accept checks or credit cards, it is likely a scam.
 
 ## What goes on the GivingTuesday printable?
 
-The checklist groups the steps above into four blocks: before you give, how to pay, for your taxes and key dates. Its tax rows are to-dos: give cash, keep your receipts and ask a tax professional what you need. The [December 2026 important dates story](/news/december-2026-important-dates-holidays-days-until/) lists the other dates in the month.
+The one-page sheet shows the Dec. 1 date, four sourced tips (cash gifts for the new deduction, paying by credit card or check, the FTC's payment warning and the sweepstakes warning) and a tick-box list: look up the charity, research it, do not be rushed, watch caller ID, pay by credit card or check, and keep receipts. The [December 2026 important dates story](/news/december-2026-important-dates-holidays-days-until/) lists the other dates in the month.
 
 Not confirmed in this story: 2026 GivingTuesday results, which come after the day, and any rule about receipts or tax forms, which this story leaves to the IRS and your tax professional.
