@@ -2,7 +2,7 @@
 title: "Contemporary Era Committee 2026: Results Dec. 6 at 8 p.m. ET"
 description: "Eight non-player candidates, results Sunday, Dec. 6 at 8 p.m. ET on MLB Network. A printable ballot lists each record and the Class of 2027 dates."
 type: news
-publishedAt: "2026-11-09T16:44:00-05:00"
+publishedAt: "2026-11-09T17:15:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["contemporary era committee 2026", "hall of fame era committee ballot 2027", "dusty baker hall of fame vote", "bruce bochy hall of fame"]
