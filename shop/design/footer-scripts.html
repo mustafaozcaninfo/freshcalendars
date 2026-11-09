@@ -1,0 +1,21 @@
+<script>
+/* Fresh Calendars Shop UI fixes: placeholders the template leaves empty, a label for the contact question, and a collapsible filter panel on phones. */
+(function(){
+  function run(){
+    document.querySelectorAll('form[action$="/search"] input[name="q"]').forEach(function(i){ if(!i.placeholder) i.placeholder='Search planners, journals, pens…'; });
+    document.querySelectorAll('footer input[type="email"]').forEach(function(i){ if(!i.placeholder) i.placeholder='Enter your email address'; });
+    var a=document.getElementById('answer');
+    if(a && !a.getAttribute('aria-label')){ var l=a.closest('div') && a.closest('div').querySelector('label'); a.setAttribute('aria-label', l ? l.textContent.trim() : 'Anti-spam question'); }
+    var f=document.querySelector('form.fs-tag-filters');
+    if(f && !document.querySelector('.fc-filter-toggle')){
+      var b=document.createElement('button'); b.type='button'; b.className='fc-filter-toggle'; b.textContent='Filters';
+      var active=f.querySelector('input:checked');
+      b.setAttribute('aria-expanded', active ? 'true' : 'false');
+      if(!active) f.classList.add('fc-collapsed');
+      b.addEventListener('click',function(){ var open=f.classList.toggle('fc-collapsed'); b.setAttribute('aria-expanded', open ? 'false' : 'true'); });
+      f.parentNode.insertBefore(b,f);
+    }
+  }
+  if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',run); else run();
+})();
+</script>

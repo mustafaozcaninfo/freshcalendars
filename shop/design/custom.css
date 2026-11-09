@@ -1,0 +1,56 @@
+h1,h2,h3{letter-spacing:-.02em}
+.cr-hero--overlayed h1{font-size:clamp(30px,3.4vw,46px)!important;line-height:1.12!important}
+@media (min-width:768px){.cr-hero--overlayed .md\:max-w-\[33\%\]{max-width:44%}}
+.cr-article__hero::after{content:"";position:absolute;inset:0;border-radius:inherit;background:linear-gradient(90deg,rgba(14,33,53,.72) 0%,rgba(14,33,53,.45) 45%,rgba(14,33,53,0) 75%);pointer-events:none}
+.cr-article__hero>div.relative{z-index:1}
+.cr-article__hero h1{font-size:clamp(30px,3.4vw,46px)!important;line-height:1.12!important}
+.fc-netbar{background:#e9f5ef;border-bottom:1px solid #d7e7df;font:600 13px/1.3 Manrope,system-ui,sans-serif}
+.fc-netbar__in{max-width:80rem;margin:0 auto;padding:6px 16px;display:flex;gap:14px;align-items:center}
+.fc-netbar a{color:#006d41;text-decoration:none}.fc-netbar a:hover{text-decoration:underline}
+.fc-netbar__note{color:#356153;font-weight:500}
+@media (max-width:640px){.fc-netbar__note{display:none}}
+#navigation-top-desktop a[href*="/account/"],#navigation-top-mobile a[href*="/account/"]{display:none!important}
+/* UI audit fixes, Nov 9, 2026 */
+/* Home hero: light scrim behind the copy on phones so the navy text reads over the photo */
+@media (max-width:767px){.cr-hero--overlayed::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(255,255,255,.88) 0%,rgba(255,255,255,.72) 60%,rgba(255,255,255,.35) 100%);pointer-events:none}.cr-hero--overlayed>div.relative{z-index:1}}
+/* Primary CTAs: flat brand green instead of the green-to-olive gradient */
+.cr-prism .cr-pill,.cr-prism .cr-foot .bg-skin-light button[type="submit"]{background:#007b48!important;background-image:none!important;color:#fff!important}
+.cr-prism .cr-pill:hover,.cr-prism .cr-foot .bg-skin-light button[type="submit"]:hover{background:#00663c!important}
+/* Header search: icon inside the field, readable size */
+#navigation-top-desktop form[action$="/search"],#navigation-top-mobile form[action$="/search"]{position:relative;align-items:center}
+#navigation-top-desktop form[action$="/search"] input[name="q"],#navigation-top-mobile form[action$="/search"] input[name="q"]{margin-inline-end:0!important;padding:.5rem 2.5rem .5rem .85rem!important;font-size:14px!important;min-height:40px;width:100%}
+#navigation-top-desktop form[action$="/search"] button[type="submit"],#navigation-top-mobile form[action$="/search"] button[type="submit"]{position:absolute;right:4px;top:50%;transform:translateY(-50%);height:32px;width:32px;padding:0!important;margin:0!important;display:flex;align-items:center;justify-content:center;background:transparent;border:0}
+/* Stray divider left after the account links were hidden */
+#navigation-top-desktop a[href*="/account/"]+span.bg-gray-300,#navigation-top-mobile a[href*="/account/"]+span.bg-gray-300{display:none!important}
+/* Footer: smaller gap between wrapped link columns on phones; hide the empty social row */
+@media (max-width:767px){footer .cr-foot__panel .flex.flex-wrap>div{margin-bottom:2.5rem!important}}
+footer div.mt-6.space-x-4.flex.justify-center:empty{display:none}
+/* Breadcrumbs wrap instead of truncating on phones */
+@media (max-width:640px){nav[aria-label="Breadcrumb"] ol{flex-wrap:wrap!important;row-gap:.25rem}nav[aria-label="Breadcrumb"] li.truncate,nav[aria-label="Breadcrumb"] a.truncate{flex:0 1 auto!important;max-width:100%!important;overflow:visible!important;text-overflow:clip!important;white-space:normal!important}}
+/* Product page: full title on phones; eBay heading gets the full width; review lists single column in the narrow right cell */
+@media (max-width:640px){h1.fs-pp-title{-webkit-line-clamp:unset!important;display:block!important;overflow:visible!important}}
+@media (max-width:480px){div.flex.items-center.justify-between:has(>img[alt="eBay Related Auctions"]){flex-wrap:wrap;row-gap:.5rem}div.flex.items-center.justify-between:has(>img[alt="eBay Related Auctions"])>#related-heading{width:100%}}
+@media (min-width:1024px) and (max-width:1279px){.fs-pp-inset .mt-4.grid.gap-6.sm\:grid-cols-2{grid-template-columns:1fr}}
+/* Parent categories: subcategory chips wrap on phones */
+@media (max-width:767px){.cr-chips{flex-wrap:wrap!important;overflow-x:visible!important}}
+/* Comfortable line length on text pages and category intros */
+.prose.max-w-none>p,.prose.max-w-none>ul,.prose.max-w-none>ol,.prose.max-w-none>blockquote{max-width:72ch}
+/* Larger tap targets for the net bar link and footer legal links */
+.fc-netbar a{display:inline-flex;align-items:center;min-height:24px}
+footer .flex.space-x-8>a{display:inline-flex;align-items:center;min-height:24px}
+/* Mobile filter toggle (see footer script) */
+.fc-filter-toggle{display:none}
+@media (max-width:767px){.fc-filter-toggle{display:flex;align-items:center;justify-content:space-between;width:100%;min-height:44px;padding:.6rem 1rem;margin:0 0 .75rem;border:1px solid #cfe3d8;border-radius:10px;background:#f3faf6;color:#0e2135;font:600 15px/1.2 Manrope,system-ui,sans-serif}.fc-filter-toggle:after{content:"+";font-size:20px;color:#007b48}.fc-filter-toggle[aria-expanded="true"]:after{content:"\2212"}form.fs-tag-filters.fc-collapsed{display:none!important}}
+/* Footer newsletter button: same flat green as every other primary button */
+footer button.w-full.bg-skin-button-accent{background-image:none!important;background-color:#007b48!important;color:#fff!important}
+footer button.w-full.bg-skin-button-accent:hover{background-color:#00663c!important}
+/* Printable-calendar band links in the brand accent */
+.fcb__links a{color:#007b48!important;font-weight:600!important}
+/* One focus style everywhere */
+a:focus-visible,button:focus-visible,select:focus-visible,[role=button]:focus-visible{outline:2px solid #007b48;outline-offset:2px}
+/* "Click for Price" text above WCAG AA */
+span.fs-price-fallback{color:#4f5f70}
+/* Theme gradients stay in brand greens (second stop was olive #557312) */
+body.cr-prism{--cr-p2:0,92,54}
+/* Subcategory chips: two columns on phones */
+@media (max-width:767px){body.cr-prism .cr-chips{display:grid!important;grid-template-columns:repeat(2,minmax(0,1fr))!important;gap:8px!important;overflow:visible!important}body.cr-prism .cr-chips>.fs-tile{width:auto!important;min-width:0!important;padding-right:10px}body.cr-prism .cr-chips .fs-tile-label{white-space:normal!important;min-width:0;font-size:.8125rem!important}body.cr-prism .cr-chips .fs-tile-image{width:32px;height:32px}}
