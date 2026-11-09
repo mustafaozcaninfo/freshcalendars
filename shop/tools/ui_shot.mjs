@@ -9,7 +9,8 @@ const [url, w = '390', out = '/tmp/shot.png', ...rest] = process.argv.slice(2);
 const full = rest.includes('--full');
 const opt = (k) => { const i = rest.indexOf(k); return i >= 0 ? rest[i + 1] : null; };
 const width = Number(w), mobile = width < 768;
-const browser = await chromium.launch({ channel: 'chrome' });
+// Installed Google Chrome when present (local Macs); Playwright's bundled Chromium otherwise (cloud: `npx playwright install --with-deps chromium`).
+const browser = await chromium.launch({ channel: 'chrome' }).catch(() => chromium.launch());
 const ctx = await browser.newContext({
   viewport: { width, height: mobile ? 844 : 900 }, deviceScaleFactor: 1, isMobile: mobile, hasTouch: mobile,
   userAgent: mobile

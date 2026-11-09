@@ -9,7 +9,12 @@ A session that works on the shop reads this file first.
 1. **API key.** Ask the owner for the FreshStore API key and save it in `.cache/shop/token` (gitignored), or export it as `FRESHSTORE_TOKEN`. **Never commit it; this repository is public.** Keys are made in the FreshStore admin (Settings > API Keys).
 2. **API reference.** Ask the owner for `api-freshstore.md` and save it as `.cache/shop/api-freshstore.md`. It lists every endpoint and field. Read the section you need before calling an endpoint.
 3. **Tools.** `pnpm install` once (Playwright for `ui_shot.mjs` comes with `packages/generator`). The Python tools need only Python 3.
-4. **Check the connection:**
+4. **Claude cloud sessions:**
+   - Set `FRESHSTORE_TOKEN` as an environment variable in the cloud environment's settings; a cloud session cannot see a local `.cache/shop/token`.
+   - Give the environment network access to `shop.freshcalendars.com` (API and site) and `suggestqueries.google.com` (for `suggest.py`); WebSearch already works for agents.
+   - Attach `api-freshstore.md` to the first message, or paste the section you need.
+   - For `ui_shot.mjs`, run `npx playwright install --with-deps chromium` once after `pnpm install`.
+5. **Check the connection:**
    ```bash
    python3 -c "import sys; sys.path.insert(0,'shop/tools'); from fs import call; print(call('GET','store/info'))"
    ```
