@@ -235,7 +235,7 @@ With six 13-letter blends to untangle, the rules for the daily grid are on our [
 
 Mark the solving days on our [printable calendar for November 2026](/november-calendars.html) or the [weekly calendar to print](/printable-weekly-calendar.html).
 
-More of Sunday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-8-2026-1968/), [Connections hints](/news/nyt-connections-hints-answers-november-8-2026-1246/), [Strands hints](/news/nyt-strands-hints-answers-november-8-2026-980/) and [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-8-2026/). The smaller siblings for the same date are our [Mini answers for Nov. 8](/news/nyt-mini-crossword-answers-november-8-2026/) and our [Midi answers for Nov. 8](/news/nyt-midi-crossword-answers-november-8-2026/). Saturday's grid is in our [Crossword answers for Nov. 7](/news/nyt-crossword-answers-november-7-2026/).
+More of Sunday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-8-2026-1968/), [Connections hints](/news/nyt-connections-hints-answers-november-8-2026-1246/), [Strands hints](/news/nyt-strands-hints-answers-november-8-2026-980/) and [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-8-2026/). The smaller siblings for the same date are our [Mini answers for Nov. 8](/news/nyt-mini-crossword-answers-november-8-2026/) and our [Midi answers for Nov. 8](/news/nyt-midi-crossword-answers-november-8-2026/). Saturday's grid is in our [Crossword answers for Nov. 7](/news/nyt-crossword-answers-november-7-2026/). Monday's next grid is in our [Crossword answers for Nov. 9](/news/nyt-crossword-answers-november-9-2026/).
 
 ## Today's NYT Crossword answers (spoilers)
 

@@ -1,0 +1,1158 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-09",
+ "constructors": [
+  "Leslie Benson"
+ ],
+ "width": 15,
+ "height": 15,
+ "cells": [
+  "S",
+  "A",
+  "S",
+  "S",
+  null,
+  "D",
+  "E",
+  "N",
+  null,
+  "S",
+  "U",
+  "N",
+  "S",
+  "E",
+  "T",
+  "P",
+  "L",
+  "E",
+  "A",
+  null,
+  "E",
+  "M",
+  "U",
+  null,
+  "O",
+  "N",
+  "E",
+  "M",
+  "A",
+  "N",
+  "A",
+  "L",
+  "E",
+  "X",
+  null,
+  "L",
+  "O",
+  "T",
+  null,
+  "A",
+  "S",
+  "S",
+  "O",
+  "R",
+  "T",
+  "D",
+  "E",
+  "P",
+  "O",
+  "S",
+  "I",
+  "T",
+  null,
+  "A",
+  "R",
+  "E",
+  "S",
+  "O",
+  null,
+  null,
+  "A",
+  "L",
+  "I",
+  "N",
+  "E",
+  null,
+  "I",
+  "S",
+  "L",
+  "E",
+  "T",
+  null,
+  "T",
+  "H",
+  "E",
+  "Y",
+  "E",
+  "N",
+  null,
+  "D",
+  "E",
+  "C",
+  "K",
+  "E",
+  "D",
+  null,
+  "C",
+  "H",
+  "A",
+  "T",
+  null,
+  null,
+  null,
+  "L",
+  "E",
+  "R",
+  "O",
+  "Y",
+  null,
+  null,
+  "B",
+  "I",
+  "E",
+  "R",
+  "S",
+  null,
+  "F",
+  "A",
+  "I",
+  "R",
+  "A",
+  "N",
+  "D",
+  "S",
+  "Q",
+  "U",
+  "A",
+  "R",
+  "E",
+  null,
+  "P",
+  "O",
+  "U",
+  "T",
+  "S",
+  null,
+  null,
+  "I",
+  "N",
+  "T",
+  "R",
+  "O",
+  null,
+  null,
+  null,
+  "R",
+  "A",
+  "T",
+  "E",
+  null,
+  "C",
+  "A",
+  "V",
+  "O",
+  "R",
+  "T",
+  null,
+  "Y",
+  "E",
+  "T",
+  "E",
+  "M",
+  "O",
+  null,
+  "S",
+  "H",
+  "R",
+  "E",
+  "W",
+  null,
+  "O",
+  "D",
+  "O",
+  "R",
+  "S",
+  null,
+  null,
+  "P",
+  "A",
+  "P",
+  "A",
+  "S",
+  null,
+  "C",
+  "O",
+  "N",
+  "J",
+  "U",
+  "R",
+  "E",
+  "M",
+  "E",
+  "L",
+  "E",
+  "E",
+  "S",
+  null,
+  "P",
+  "O",
+  "P",
+  null,
+  "S",
+  "T",
+  "A",
+  "T",
+  "A",
+  "R",
+  "A",
+  "R",
+  "A",
+  "T",
+  null,
+  "E",
+  "N",
+  "E",
+  null,
+  "E",
+  "O",
+  "N",
+  "S",
+  "E",
+  "E",
+  "Y",
+  "O",
+  "R",
+  "E",
+  null,
+  "T",
+  "E",
+  "N",
+  null,
+  "T",
+  "O",
+  "T",
+  "E"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Back talk",
+   "cells": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "Lair",
+   "cells": [
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "When the western sky turns lavender or pink",
+   "cells": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "\"Guilty\" or \"not guilty\"",
+   "cells": [
+    15,
+    16,
+    17,
+    18
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Big bird Down Under",
+   "cells": [
+    20,
+    21,
+    22
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Kind of band",
+   "cells": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Onetime \"Jeopardy!\" host Trebek",
+   "cells": [
+    30,
+    31,
+    32,
+    33
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "Area for autos",
+   "cells": [
+    35,
+    36,
+    37
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Categorize",
+   "cells": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Withdrawal's opposite",
+   "cells": [
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "\"You ___ Beautiful\" (1970s hit)",
+   "cells": [
+    53,
+    54,
+    55,
+    56,
+    57
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Dress cut",
+   "cells": [
+    60,
+    61,
+    62,
+    63,
+    64
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Tiny part of an archipelago",
+   "cells": [
+    66,
+    67,
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Word that makes up roughly 6%-7% of written English",
+   "cells": [
+    72,
+    73,
+    74
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Craving",
+   "cells": [
+    75,
+    76,
+    77
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "30",
+   "text": "Sent to the canvas",
+   "cells": [
+    79,
+    80,
+    81,
+    82,
+    83,
+    84
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "32",
+   "text": "Make small talk",
+   "cells": [
+    86,
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "\"Bad, Bad\" Brown of song",
+   "cells": [
+    93,
+    94,
+    95,
+    96,
+    97
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Funeral stands",
+   "cells": [
+    100,
+    101,
+    102,
+    103,
+    104
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "35",
+   "text": "Honestly … or a description of the shaded letters?",
+   "cells": [
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "39",
+   "text": "Sticks out a sulky lower lip, say",
+   "cells": [
+    120,
+    121,
+    122,
+    123,
+    124
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "40",
+   "text": "Beginning notes to a song",
+   "cells": [
+    127,
+    128,
+    129,
+    130,
+    131
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "41",
+   "text": "A mile a minute, e.g.",
+   "cells": [
+    135,
+    136,
+    137,
+    138
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "42",
+   "text": "Prance about",
+   "cells": [
+    140,
+    141,
+    142,
+    143,
+    144,
+    145
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "44",
+   "text": "\"You ain't seen nothin' ___\"",
+   "cells": [
+    147,
+    148,
+    149
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "47",
+   "text": "Genre associated with black nail polish and facial piercings",
+   "cells": [
+    150,
+    151,
+    152
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "48",
+   "text": "\"The Taming of the ___\"",
+   "cells": [
+    154,
+    155,
+    156,
+    157,
+    158
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "49",
+   "text": "Scents",
+   "cells": [
+    160,
+    161,
+    162,
+    163,
+    164
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "51",
+   "text": "The Mamas & the ___",
+   "cells": [
+    167,
+    168,
+    169,
+    170,
+    171
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "53",
+   "text": "Make appear as if by magic",
+   "cells": [
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "55",
+   "text": "Brawls",
+   "cells": [
+    180,
+    181,
+    182,
+    183,
+    184,
+    185
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "57",
+   "text": "Champagne cork sound",
+   "cells": [
+    187,
+    188,
+    189
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "58",
+   "text": "\"Now!\"",
+   "cells": [
+    191,
+    192,
+    193,
+    194
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "59",
+   "text": "Noah's Ark landing site",
+   "cells": [
+    195,
+    196,
+    197,
+    198,
+    199,
+    200
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "60",
+   "text": "Opposite of WSW",
+   "cells": [
+    202,
+    203,
+    204
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "61",
+   "text": "Ages and ages and ages",
+   "cells": [
+    206,
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "62",
+   "text": "Pooh's friend who tends to lose his tail",
+   "cells": [
+    210,
+    211,
+    212,
+    213,
+    214,
+    215
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "63",
+   "text": "October, numerically",
+   "cells": [
+    217,
+    218,
+    219
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "64",
+   "text": "Reusable bag",
+   "cells": [
+    221,
+    222,
+    223,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Outing involving a facial and a massage, perhaps",
+   "cells": [
+    0,
+    15,
+    30,
+    45,
+    60,
+    75
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Genetic variant",
+   "cells": [
+    1,
+    16,
+    31,
+    46,
+    61,
+    76
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Ooze through",
+   "cells": [
+    2,
+    17,
+    32,
+    47,
+    62,
+    77
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Anglo-___",
+   "cells": [
+    3,
+    18,
+    33,
+    48,
+    63
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Locale for cold cuts or hot pastrami",
+   "cells": [
+    5,
+    20,
+    35,
+    50
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": ":) or :/",
+   "cells": [
+    6,
+    21,
+    36,
+    51,
+    66,
+    81,
+    96,
+    111
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Pecan or pistachio",
+   "cells": [
+    7,
+    22,
+    37
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Rose quickly, as prices",
+   "cells": [
+    9,
+    24,
+    39,
+    54,
+    69,
+    84
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Like loose gemstones",
+   "cells": [
+    10,
+    25,
+    40,
+    55,
+    70
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Loch ___",
+   "cells": [
+    11,
+    26,
+    41,
+    56
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Like creamy vis-à-vis crunchy peanut butter",
+   "cells": [
+    12,
+    27,
+    42,
+    57,
+    72,
+    87,
+    102,
+    117
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Something that \"perks up\" when you're attentive",
+   "cells": [
+    13,
+    28,
+    43
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "What might make molehills out of a mountain?",
+   "cells": [
+    14,
+    29,
+    44
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "Passover meals",
+   "cells": [
+    49,
+    64,
+    79,
+    94,
+    109,
+    124
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "Guinness or Bass product",
+   "cells": [
+    53,
+    68,
+    83
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Jump from a plane",
+   "cells": [
+    67,
+    82,
+    97,
+    112,
+    127,
+    142,
+    157
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "Tortoise racer",
+   "cells": [
+    73,
+    88,
+    103,
+    118
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "U.F.O. occupants",
+   "cells": [
+    74,
+    89,
+    104
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "31",
+   "text": "Roaring Twenties or Swinging Sixties",
+   "cells": [
+    80,
+    95,
+    110
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "\"Bye!\"",
+   "cells": [
+    86,
+    101,
+    116,
+    131
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "33",
+   "text": "Low-cal",
+   "cells": [
+    93,
+    108,
+    123,
+    138
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "34",
+   "text": "Tim who directed \"Beetlejuice\" and \"Edward Scissorhands\"",
+   "cells": [
+    100,
+    115,
+    130,
+    145,
+    160,
+    175
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "35",
+   "text": "Top of a freshly served latte",
+   "cells": [
+    106,
+    121,
+    136,
+    151
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "36",
+   "text": "Netflix feature that encourages binge-watching",
+   "cells": [
+    107,
+    122,
+    137,
+    152,
+    167,
+    182,
+    197,
+    212
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "37",
+   "text": "Colorful carnival treat",
+   "cells": [
+    113,
+    128,
+    143,
+    158,
+    173,
+    188,
+    203,
+    218
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "38",
+   "text": "Period for a corp. earnings report",
+   "cells": [
+    114,
+    129,
+    144
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "39",
+   "text": "Opposite of post-",
+   "cells": [
+    120,
+    135,
+    150
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "42",
+   "text": "Pure as the driven snow",
+   "cells": [
+    140,
+    155,
+    170,
+    185,
+    200,
+    215
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "43",
+   "text": "\"___ Poetica\" (work of Horace)",
+   "cells": [
+    141,
+    156,
+    171
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "44",
+   "text": "Phrase requiting good wishes",
+   "cells": [
+    147,
+    162,
+    177,
+    192,
+    207,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "45",
+   "text": "Off-course",
+   "cells": [
+    148,
+    163,
+    178,
+    193,
+    208,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "46",
+   "text": "Feared African fly",
+   "cells": [
+    149,
+    164,
+    179,
+    194,
+    209,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "48",
+   "text": "Asparagus unit",
+   "cells": [
+    154,
+    169,
+    184,
+    199,
+    214
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "50",
+   "text": "Performance with turntables at a nightclub, say",
+   "cells": [
+    161,
+    176,
+    191,
+    206,
+    221
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "52",
+   "text": "Prefix with -nautics",
+   "cells": [
+    168,
+    183,
+    198,
+    213
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "54",
+   "text": "Ready for business",
+   "cells": [
+    174,
+    189,
+    204,
+    219
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "55",
+   "text": "Fannie ___",
+   "cells": [
+    180,
+    195,
+    210
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "56",
+   "text": "Bygone \"before\"",
+   "cells": [
+    181,
+    196,
+    211
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "57",
+   "text": "Kibble nibbler",
+   "cells": [
+    187,
+    202,
+    217
+   ]
+  }
+ ]
+}
