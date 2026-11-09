@@ -90,7 +90,7 @@ Tested Nov. 9, 2026 (`shop/API.md` > Import products):
 9. **Check the live page** after 2-4 minutes at 360 and 1440 px with `shop/tools/ui_shot.mjs`: one H1, the table scrolls on phones, the price and buy button show.
 10. **Join a brand** when the brand page is enabled. A new brand gets a page only when it has 3 or more live products.
 
-A batch: agents find ASINs and draft pages into files; only the main session calls the API (60 requests a minute, about 5 calls a product).
+A batch: agents find ASINs (`shop/tools/import_products.py create` imports them hidden; `verify` writes each listing to `.cache/shop/import/listings/`) and draft pages into files with the brief, family guide and link pools in `references/briefs.md`; only the main session calls the API (60 requests a minute, about 5 calls a product).
 
 ## 6. Rewriting an existing product page
 
