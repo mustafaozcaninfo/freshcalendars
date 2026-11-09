@@ -3,7 +3,7 @@ title: "USPS Holiday Shipping Deadlines 2026: Dec. 17 Ground, Dec. 19 Express"
 description: "USPS holiday shipping deadlines 2026: Ground Advantage Dec. 17, Priority Mail Dec. 18, Express Dec. 19. International dates and a free printable sheet."
 type: news
 publishedAt: "2026-10-19T10:55:00-04:00"
-updatedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-11-09T03:25:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["holiday shipping deadlines 2026 usps", "USPS holiday shipping deadlines 2026", "last day to ship for Christmas 2026", "USPS Christmas deadline 2026", "Priority Mail holiday deadline"]
@@ -51,6 +51,8 @@ faq:
     a: "Post office hours on Christmas Eve, Thursday, Dec. 24, are set locally, so check your branch. Post offices are closed on Christmas Day, Friday, Dec. 25, and New Year's Day, Friday, Jan. 1, 2027, both federal holidays."
   - q: "When should I mail packages for Hanukkah 2026?"
     a: "Earlier than for Christmas. Hanukkah begins at sundown on Friday, Dec. 4, 2026, so packages meant for the first night should be mailed by late November."
+  - q: "Does USPS charge extra for holiday packages in 2026?"
+    a: "USPS said on Aug. 25, 2026 that temporary rates for Priority Mail Express, Priority Mail, USPS Ground Advantage and Parcel Select would run from 12 a.m. CT on Oct. 4 to 12 a.m. CT on Jan. 17, 2027, pending review by the Postal Regulatory Commission (PRC). It said no other products or services would be affected, so First-Class Mail letters and cards are not included."
 sources:
   - title: "2026 Holiday Shipping Deadlines"
     url: "https://www.usps.com/holiday/holiday-shipping-dates.htm"
@@ -59,6 +61,10 @@ sources:
     url: "https://about.usps.com/newsroom/national-releases/2026/0922-usps-recommends-2026-holiday-mailing-shipping-dates.htm"
     publisher: "U.S. Postal Service"
     date: "2026-09-22"
+  - title: "U.S. Postal Service Announces Temporary Price Change for 2026 Holiday Shipping Season"
+    url: "https://about.usps.com/newsroom/national-releases/2026/0825-usps-announces-temporary-price-change-for-2026-holiday-shipping-season.htm"
+    publisher: "U.S. Postal Service"
+    date: "2026-08-25"
   - title: "USPS Service Commitments"
     url: "https://postcalc.usps.com/ServiceCommitments"
     publisher: "U.S. Postal Service"
@@ -100,7 +106,7 @@ draft: false
 
 **To get a package delivered by Christmas in the lower 48 states, the U.S. Postal Service (USPS) recommends mailing it by Thursday, Dec. 17, 2026** for USPS Ground Advantage and First-Class Mail, by **Friday, Dec. 18** for Priority Mail, and by **Saturday, Dec. 19** for Priority Mail Express. The agency announced the dates on Sept. 22. They are recommendations for expected delivery by Dec. 25, not guarantees.
 
-*Last checked against the [USPS holiday shipping page](https://www.usps.com/holiday/holiday-shipping-dates.htm) on Thursday, Oct. 22, 2026.*
+*Last checked against the [USPS holiday shipping page](https://www.usps.com/holiday/holiday-shipping-dates.htm) on Monday, Nov. 9, 2026.*
 
 ## USPS holiday shipping deadlines 2026
 
@@ -142,6 +148,25 @@ Mail to an Army Post Office (APO), Fleet Post Office (FPO) or Diplomatic Post Of
 | Priority Mail Express Military Service | Wednesday, Dec. 16 |
 
 Priority Mail Express Military Service is not offered for ZIP Codes 093 and is available only at selected military and diplomatic Post Offices, so confirm with your local Post Office. The full table, including other ZIP groups, is on the USPS holiday page.
+
+## USPS holiday surcharge 2026: temporary parcel rates to Jan. 17
+
+In an Aug. 25, 2026 release, the Postal Service said that, pending favorable review by the Postal Regulatory Commission (PRC), the temporary rates "would go into effect at 12 a.m. CT on Oct. 4" and "remain in place until 12 a.m. CT on Jan. 17, 2027." The change covers retail and commercial domestic competitive parcels: Priority Mail Express, Priority Mail, USPS Ground Advantage and Parcel Select. USPS said "no other products or services would be affected," so First-Class Mail letters and cards are not part of it.
+
+| Retail product and zones | Weight | Added per piece |
+|---|---|---|
+| Priority Mail and Ground Advantage, Zones 1-4 | 0-3 lbs. | $0.50 |
+| Priority Mail and Ground Advantage, Zones 1-4 | 4-10 lbs. | $0.80 |
+| Priority Mail and Ground Advantage, Zones 1-4 | 11-25 lbs. | $1.25 |
+| Priority Mail and Ground Advantage, Zones 1-4 | 26-70 lbs. and Oversized | $3.90 |
+| Priority Mail, Zones 5-9 | 0-3 lbs. | $1.00 |
+| Priority Mail, Zones 5-9 | 4-10 lbs. | $2.10 |
+| Priority Mail, Zones 5-9 | 11-25 lbs. | $4.30 |
+| Priority Mail, Zones 5-9 | 26-70 lbs. | $9.10 |
+| Priority Mail Express, Zones 1-4 | 0-3 lbs. | $1.40 |
+| Priority Mail Express, Zones 5-9 | 26-70 lbs. | $20.80 |
+
+These are examples from the release, not the full price list.
 
 ## Post office closures
 
