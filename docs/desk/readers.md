@@ -1,6 +1,6 @@
 # Reader signals (generated, do not edit)
 
-Built 2026-11-09T09:14 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
+Built 2026-11-09T19:48 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
 
 ## Readers leave fast (search desk: UX briefs)
 
@@ -8,13 +8,15 @@ Story pages with 30+ beacon views whose readers stay under 60% of the site's ave
 
 | Story | Views | Avg. seconds (site) | Avg. scroll | Why |
 |---|---:|---:|---:|---|
-| army-navy-game-2026-date-kickoff-time-metlife-stadium-tv | 263 | 36 (109) | 10% | leave fast, low scroll |
-| day-of-the-dead-2026-dia-de-los-muertos-dates | 51 | 83 (109) | 11% | low scroll |
-| paris-masters-2026-schedule-final-time-by-time-zone | 47 | 63 (109) | 20% | leave fast, low scroll |
-| london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets | 39 | 54 (109) | 6% | leave fast, low scroll |
-| printable-nfl-schedule-2026-2027-pdf | 37 | 30 (109) | 11% | leave fast, low scroll |
-| diwali-2026-date-lakshmi-puja-time-usa | 31 | 40 (109) | 18% | leave fast, low scroll |
-| when-do-2026-election-winners-take-office-congress-governors | 30 | 56 (109) | 22% | leave fast |
+| army-navy-game-2026-date-kickoff-time-metlife-stadium-tv | 269 | 35 (120) | 10% | leave fast, low scroll |
+| day-of-the-dead-2026-dia-de-los-muertos-dates | 59 | 75 (120) | 13% | low scroll |
+| paris-masters-2026-schedule-final-time-by-time-zone | 47 | 63 (120) | 20% | leave fast, low scroll |
+| london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets | 42 | 52 (120) | 5% | leave fast, low scroll |
+| printable-nfl-schedule-2026-2027-pdf | 42 | 32 (120) | 11% | leave fast, low scroll |
+| when-do-2026-election-winners-take-office-congress-governors | 35 | 68 (120) | 25% | leave fast |
+| diwali-2026-date-lakshmi-puja-time-usa | 32 | 41 (120) | 19% | leave fast, low scroll |
+| veterans-day-2026-wednesday-november-11 | 31 | 80 (120) | 15% | low scroll |
+| ramadan-2027-calendar-dates-timetable | 30 | 43 (120) | 21% | leave fast |
 
 ## Clarity: what readers struggle with (search desk: UX briefs)
 
@@ -33,11 +35,11 @@ Script errors in 30%+ of sessions come from code or ad scripts, never from a sto
 
 Slow taps (Interaction to Next Paint over 200 ms, beacon, 7 days): fix the element or the script named, then compare the share the week after.
 
-- element (not recorded), script (none over 50 ms): 12 slow taps, avg. 340 ms, input delay 17 ms
-- element body, script (none over 50 ms): 11 slow taps, avg. 2,986 ms, input delay 4 ms
-- element div.grippy-host, script (none over 50 ms): 5 slow taps, avg. 352 ms, input delay 111 ms
-- element a, script (none over 50 ms): 4 slow taps, avg. 492 ms, input delay 320 ms
-- element html.news, script (none over 50 ms): 3 slow taps, avg. 621 ms, input delay 47 ms
+- element body, script (none over 50 ms): 15 slow taps, avg. 3,574 ms, input delay 39 ms
+- element (not recorded), script (none over 50 ms): 14 slow taps, avg. 333 ms, input delay 16 ms
+- element div.grippy-host, script (none over 50 ms): 7 slow taps, avg. 345 ms, input delay 165 ms
+- element a, script (none over 50 ms): 5 slow taps, avg. 491 ms, input delay 344 ms
+- element p.news-lede, script (none over 50 ms): 4 slow taps, avg. 504 ms, input delay 460 ms
 
 ## Reading by category (research desk: weigh topics)
 
@@ -45,19 +47,19 @@ Beacon views of the last 7 days against the 7 before, per category, and views pe
 
 | Category | Views | Week before | Change | Stories read | Views per story | Avg. seconds |
 |---|---:|---:|---:|---:|---:|---:|
-| holidays | 877 | 0 | new | 63 | 14 | 133 |
-| sports | 577 | 0 | new | 68 | 8 | 45 |
-| puzzles | 433 | 0 | new | 48 | 9 | 42 |
-| retail-dates | 194 | 0 | new | 33 | 6 | 60 |
-| uk-canada | 186 | 0 | new | 34 | 5 | 77 |
-| entertainment | 168 | 0 | new | 32 | 5 | 41 |
-| school-calendars | 101 | 0 | new | 46 | 2 | 22 |
-| calendar-guides | 68 | 0 | new | 21 | 3 | 101 |
-| elections | 62 | 0 | new | 20 | 3 | 46 |
-| money-benefits | 52 | 0 | new | 16 | 3 | 76 |
-| sky-events | 50 | 0 | new | 15 | 3 | 52 |
-| planning | 38 | 0 | new | 14 | 3 | 41 |
-| gaming-tech | 18 | 0 | new | 6 | 3 | 228 |
-| (other) | 17 | 0 | new | 3 | 6 | 9 |
-| time-change | 10 | 0 | new | 3 | 3 | 36 |
+| holidays | 1,268 | 0 | new | 68 | 19 | 138 |
+| sports | 670 | 0 | new | 82 | 8 | 47 |
+| puzzles | 550 | 0 | new | 59 | 9 | 43 |
+| retail-dates | 259 | 0 | new | 38 | 7 | 55 |
+| uk-canada | 242 | 0 | new | 41 | 6 | 73 |
+| entertainment | 194 | 0 | new | 34 | 6 | 40 |
+| school-calendars | 147 | 0 | new | 53 | 3 | 29 |
+| calendar-guides | 101 | 0 | new | 24 | 4 | 82 |
+| elections | 74 | 0 | new | 21 | 4 | 50 |
+| money-benefits | 61 | 0 | new | 19 | 3 | 85 |
+| sky-events | 57 | 0 | new | 15 | 4 | 62 |
+| planning | 48 | 0 | new | 14 | 3 | 44 |
+| (other) | 21 | 0 | new | 3 | 7 | 9 |
+| gaming-tech | 20 | 0 | new | 8 | 3 | 207 |
+| time-change | 14 | 0 | new | 4 | 4 | 32 |
 

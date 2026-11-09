@@ -1,17 +1,17 @@
 # The week in numbers (generated, do not edit)
 
-Built 2026-11-09T09:14 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
+Built 2026-11-09T19:48 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
 
 ## Real readers (beacon)
 
 | | This week | Week before | Change |
 |---|---:|---:|---:|
-| Page views | 2,974 | 0 | new |
-| Avg. seconds on page | 74 | 0 | new |
-| Avg. deepest scroll | 24% | 0% | |
-| Views from inside the site | 9.6% | 0.0% | |
+| Page views | 3,874 | 0 | new |
+| Avg. seconds on page | 78 | 0 | new |
+| Avg. deepest scroll | 25% | 0% | |
+| Views from inside the site | 8.9% | 0.0% | |
 
-Devices: mobile 1,521 (55 s, 21% scroll) · desktop 1,421 (93 s, 26% scroll) · tablet 32 (63 s, 27% scroll)
+Devices: desktop 2,003 (98 s, 27% scroll) · mobile 1,834 (57 s, 22% scroll) · tablet 37 (63 s, 27% scroll)
 
 ## Clarity (daily average)
 
@@ -24,7 +24,7 @@ Devices: mobile 1,521 (55 s, 21% scroll) · desktop 1,421 (93 s, 26% scroll) · 
 
 ## Bing search (also Yahoo and DuckDuckGo)
 
-- last 7 days with data: 3,532 clicks, 457,626 impressions (week before: 2,027 clicks, +74%)
+- last 7 days with data: 3,547 clicks, 462,174 impressions (week before: 2,369 clicks, +50%)
 
 ## Google search (/news/, web)
 
@@ -33,23 +33,23 @@ Devices: mobile 1,521 (55 s, 21% scroll) · desktop 1,421 (93 s, 26% scroll) · 
 
 ## Most read categories
 
-- holidays: 877 views (new), 14 per story
-- sports: 577 views (new), 8 per story
-- puzzles: 433 views (new), 9 per story
-- retail-dates: 194 views (new), 6 per story
-- uk-canada: 186 views (new), 5 per story
-- entertainment: 168 views (new), 5 per story
+- holidays: 1,268 views (new), 19 per story
+- sports: 670 views (new), 8 per story
+- puzzles: 550 views (new), 9 per story
+- retail-dates: 259 views (new), 7 per story
+- uk-canada: 242 views (new), 6 per story
+- entertainment: 194 views (new), 6 per story
 
 ## Most read stories
 
-- /news/veterans-day-free-meals-discounts/: 563 views, 168 s
-- /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/: 263 views, 36 s
-- /news/nyt-connections-hints-answers-november-9-2026-1247/: 130 views, 40 s
-- /news/: 74 views, 10 s
-- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/: 51 views, 83 s
-- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 51 views, 75 s
+- /news/veterans-day-free-meals-discounts/: 816 views, 176 s
+- /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/: 269 views, 35 s
+- /news/nyt-connections-hints-answers-november-9-2026-1247/: 142 views, 42 s
+- /news/: 81 views, 10 s
+- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 68 views, 99 s
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/: 59 views, 75 s
+- /news/nyt-connections-hints-answers-november-10-2026-1248/: 56 views, 59 s
 - /news/paris-masters-2026-schedule-final-time-by-time-zone/: 47 views, 63 s
-- /news/nyt-connections-hints-answers-november-7-2026-1245/: 43 views, 53 s
-- /news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/: 39 views, 54 s
-- /news/printable-nfl-schedule-2026-2027-pdf/: 37 views, 30 s
+- /news/nyt-connections-hints-answers-november-7-2026-1245/: 44 views, 52 s
+- /news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/: 42 views, 52 s
 

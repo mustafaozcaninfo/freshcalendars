@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-09T09:13:23.295Z",
+ "generatedAt": "2026-11-09T19:47:31.875Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "100% (60 of 60 sampled)",
+   "value": "100% (59 of 59 sampled)",
    "pass": true
   },
   {
@@ -2264,20 +2264,12 @@
   ]
  },
  "indexed": {
-  "checked": 60,
+  "checked": 59,
   "sampled": 90,
-  "indexed": 60,
-  "notIndexed": [
-   {
-    "url": "https://freshcalendars.com/news/catholic-liturgical-calendar-2027-year-b/",
-    "status": "not indexed",
-    "state": "Excluded by ‘noindex’ tag",
-    "age": 5
-   }
-  ],
+  "indexed": 59,
+  "notIndexed": [],
   "states": {
-   "Submitted and indexed": 89,
-   "Excluded by ‘noindex’ tag": 1
+   "Submitted and indexed": 90
   },
   "unknown": 0
  },
@@ -2287,7 +2279,7 @@
    "errors": 0,
    "warnings": 0,
    "lastDownloaded": "2026-11-09T04:06:06.882Z",
-   "submitted": 1140
+   "submitted": 1141
   },
   {
    "path": "https://freshcalendars.com/news/news-sitemap.xml",
