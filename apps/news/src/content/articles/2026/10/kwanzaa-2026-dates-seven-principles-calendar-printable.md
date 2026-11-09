@@ -3,6 +3,7 @@ title: "Kwanzaa 2026: Dec. 26 to Jan. 1, Principle for Each Day"
 description: "Kwanzaa 2026 runs Saturday, Dec. 26, to Friday, Jan. 1, 2027. A table lists each day's principle and meaning, with the candle order and a printable."
 type: explainer
 publishedAt: "2026-10-25T01:32:00-04:00"
+updatedAt: "2026-11-09T07:27:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Kwanzaa 2026", "when is Kwanzaa 2026", "Kwanzaa principles by day", "Kwanzaa 2026 calendar"]
@@ -22,7 +23,7 @@ summary:
   - "Kwanzaa 2026 begins Saturday, Dec. 26, and ends Friday, Jan. 1, 2027, according to Maulana Karenga's site."
   - "Each day has one of the seven principles, from Umoja (Unity) on day one to Imani (Faith) on day seven."
   - "The black candle is lit first, and the other candles follow from left to right, says the Official Kwanzaa Website."
-  - "The 2026 theme has not been announced; the 2025 theme was \"Practicing the Seven Principles in Dimly-Lit Times.\""
+  - "The Official Kwanzaa Website lists the 2026 theme as \"Embracing the Principles and Culture of Kwanzaa: Creating, Celebrating and Sharing Good in the World.\" The 2025 theme was \"Practicing the Seven Principles in Dimly-Lit Times.\""
 faq:
   - q: "When is Kwanzaa 2026?"
     a: "Saturday, Dec. 26, 2026, to Friday, Jan. 1, 2027. Maulana Karenga's site says Kwanzaa is celebrated from December 26 to January 1."
@@ -37,8 +38,11 @@ faq:
   - q: "Is Kwanzaa a federal holiday?"
     a: "No. Jan. 1, 2027, the last day of Kwanzaa, is a federal holiday because it is New Year's Day, according to the Office of Personnel Management (OPM)."
   - q: "What is the theme for Kwanzaa 2026?"
-    a: "It has not been announced. The 2025 theme was \"Practicing the Seven Principles in Dimly-Lit Times: Lifting Up the Light, Hurrying the Dawn.\""
+    a: "The Official Kwanzaa Website lists the 2026 theme as \"Embracing the Principles and Culture of Kwanzaa: Creating, Celebrating and Sharing Good in the World.\" The 2025 theme was \"Practicing the Seven Principles in Dimly-Lit Times: Lifting Up the Light, Hurrying the Dawn.\""
 sources:
+  - title: "Official Kwanzaa Website"
+    url: "https://www.officialkwanzaawebsite.org/"
+    publisher: "Official Kwanzaa Website"
   - title: "Kwanzaa"
     url: "https://www.maulanakarenga.org/kwanzaa/"
     publisher: "Maulana Karenga"
@@ -151,10 +155,10 @@ The same site says "the colors of Kwanzaa are black, red and green": black for t
 
 ## What is the Kwanzaa 2026 theme?
 
-The 2026 theme is not yet announced. In 2025, the theme was "Practicing the Seven Principles in Dimly-Lit Times: Lifting Up the Light, Hurrying the Dawn."
+The Official Kwanzaa Website lists the 2026 theme as "Embracing the Principles and Culture of Kwanzaa: Creating, Celebrating and Sharing Good in the World." In 2025, the theme was "Practicing the Seven Principles in Dimly-Lit Times: Lifting Up the Light, Hurrying the Dawn."
 
 ## Printable Kwanzaa 2026 calendar
 
 The printable is a one-page, seven-day sheet with the date, weekday and principle for each day, plus the greeting "Habari gani?" Mark Dec. 26 on the [December 2026 printable calendar](/december-calendars.html) and Jan. 1 on the [January 2027 printable calendar](/january-calendars.html). For other December dates, see [December 2026 important dates and holidays](/news/december-2026-important-dates-holidays-days-until/), the [Hanukkah 2026 dates](/news/hanukkah-2026-dates-calendar/) and the [Christmas 2026 countdown](/news/christmas-2026-calendar-printable-countdown/).
 
-Not confirmed in this story: the 2026 theme and any local event schedules.
+Not confirmed in this story: any local event schedules.
