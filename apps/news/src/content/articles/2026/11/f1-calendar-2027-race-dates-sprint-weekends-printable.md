@@ -98,7 +98,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/march-calendars.html"
     label: "March printable calendar"
-related: [indycar-schedule-2027-17-races-indy-500-may-30, motogp-calendar-2027-22-races-buriram-march-7-valencia-november-28, nascar-cup-schedule-2027-daytona-500-february-21-full-race-list]
+related: [indycar-schedule-2027-17-races-indy-500-may-30, motogp-calendar-2027-22-races-buriram-march-7-valencia-november-28, formula-e-calendar-2026-27-season-13-jeddah-december-18]
 draft: false
 downloads:
   - group: "F1 Calendar 2027 printables"

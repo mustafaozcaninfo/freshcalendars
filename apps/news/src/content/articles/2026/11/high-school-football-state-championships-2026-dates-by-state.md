@@ -89,7 +89,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals, ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times]
+related: [uil-football-state-championships-2026-schedule-att-stadium, ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times]
 assets:
   overlay: true
   kicker: "State title games · Nov. 21-Dec. 19"
@@ -152,7 +152,7 @@ Every row comes from the association's own page. Weekdays are computed from the 
 | North Carolina | North Carolina High School Athletic Association (NCHSAA) | Thu.-Sat., Dec. 10-12 | Kenan Stadium, Chapel Hill; Helen & Leonard Moretz Stadium, Hickory; Barker-Lane Stadium, Buies Creek |
 | Louisiana | Louisiana High School Athletic Association (LHSAA) | Thu.-Sat., Dec. 10-12 (2026 Allstate Sugar Bowl LHSAA Prep Classic) | Caesars Superdome, New Orleans |
 | Georgia | Georgia High School Association (GHSA) | Tue.-Wed., Dec. 15-16 | Mercedes-Benz Stadium, Atlanta |
-| Texas | University Interscholastic League (UIL) | Wed.-Sat., Dec. 16-19 (classes 1A to 6A) | AT&T Stadium, Arlington |
+| Texas | [University Interscholastic League (UIL)](/news/uil-football-state-championships-2026-schedule-att-stadium/) | Wed.-Sat., Dec. 16-19 (classes 1A to 6A) | AT&T Stadium, Arlington |
 
 The MHSAA page lists "Friday and Saturday, November 27 and 28" with no year; those weekdays match 2026. The Indiana dates and venue are from the IHSAA's 2026-27 State Tournament Series page. The Ohio venue is from the OHSAA's 2026 tournament coverage page. The Pennsylvania page, dated Aug. 27, 2026, gives no city for Chapman Field. The LHSAA page lists Central Time (CT) kickoffs: Thursday, Dec. 10 at noon (Division IV Select), 3:30 p.m. (Division IV Non-Select) and 7 p.m. (Division III Non-Select); Friday, Dec. 11 at noon (Division II Select), 3:30 p.m. (Division III Select) and 7 p.m. (Division II Non-Select); Saturday, Dec. 12 at noon (Division I Select) and 3:30 p.m. (Division I Non-Select). The NCHSAA says it will finalize which class plays at which of its three sites "after the final regional contests."
 
