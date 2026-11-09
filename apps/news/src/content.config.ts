@@ -5,6 +5,7 @@
 import { defineCollection, reference, z } from "astro:content";
 import { glob } from "astro/loaders";
 import path from "node:path";
+import { SHOP_CAMPAIGN_IDS } from "./lib/shop";
 
 /** ISO-8601 with an explicit offset — Google News needs an unambiguous time. */
 const ISO_WITH_TZ = /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(?::\d{2})?(?:Z|[+-]\d{2}:\d{2})$/;
@@ -35,6 +36,8 @@ const articles = defineCollection({
         updatedAt: isoDate.optional(),
         /** Pin as the news home lead until this time (lib/featured.ts). */
         featuredUntil: isoDate.optional(),
+        /** A Fresh Calendars Shop campaign shown after the printables (lib/shop.ts). */
+        shop: z.enum(SHOP_CAMPAIGN_IDS).optional(),
         authors: z.array(reference("authors")).min(1),
         category: reference("categories"),
         keywords: z.array(z.string().min(2)).min(1).max(5),

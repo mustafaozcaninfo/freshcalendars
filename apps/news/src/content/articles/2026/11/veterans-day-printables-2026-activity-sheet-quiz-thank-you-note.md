@@ -3,9 +3,10 @@ title: "Veterans Day Printables 2026: Activity Sheet, Quiz, 32-Page Guide"
 description: "Veterans Day printables 2026: a free activity sheet with a quiz and thank-you note, plus the Department of Veterans Affairs (VA) poster and teacher guide."
 type: explainer
 publishedAt: "2026-11-04T15:48:00-05:00"
-updatedAt: "2026-11-04T15:48:00-05:00"
+updatedAt: "2026-11-09T11:45:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: veterans-day
 keywords: ["veterans day printables", "veterans day activity sheet", "veterans day worksheet", "veterans day quiz for kids", "veterans day poster 2026"]
 dateline: "New York"
 assets:
@@ -162,7 +163,7 @@ The VA's Veterans Day page adds that the national ceremony is held each year on 
 
 ## Where do the VA's free Veterans Day printables live?
 
-The VA spreads its files over several pages. This is where each one is, as of Nov. 4, 2026.
+The VA spreads its files over several pages. This is where each one is, as of Nov. 9, 2026.
 
 | File | Where | Details from the VA |
 |---|---|---|

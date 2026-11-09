@@ -6,6 +6,7 @@ publishedAt: "2026-11-04T15:50:00-05:00"
 updatedAt: "2026-11-08T07:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: veterans-day
 keywords: ["veterans day parade 2026", "veterans day parade near me", "veterans day parade times", "houston veterans day parade 2026", "birmingham veterans day parade 2026"]
 hero:
   src: ../../../../assets/news/veterans-day-parades-2026-by-city/veterans-day-parades-2026-by-city.webp

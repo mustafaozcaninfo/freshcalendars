@@ -1,0 +1,22 @@
+{
+  "v": 3,
+  "kit": "watch-guide",
+  "hash": "7b3c75849e89be3b",
+  "files": [
+    "/news/downloads/ghsa-football-state-championships-2026/ghsa-football-state-championships-2026-game-schedule.pdf"
+  ],
+  "computed": [
+    "9:30 a.m.",
+    "8:30 a.m.",
+    "7:30 a.m.",
+    "12:30 p.m.",
+    "11:30 a.m.",
+    "10:30 a.m.",
+    "4 p.m.",
+    "3 p.m.",
+    "2 p.m.",
+    "7 p.m.",
+    "6 p.m.",
+    "5 p.m."
+  ]
+}

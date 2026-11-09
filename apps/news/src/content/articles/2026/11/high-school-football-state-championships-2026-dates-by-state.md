@@ -3,7 +3,7 @@ title: "High School Football State Championships 2026: Nov. 21-Dec. 19"
 description: "High school football state championships 2026 run Nov. 21 to Dec. 19. State-by-state dates and stadiums, plus the states with no official date posted."
 type: news
 publishedAt: "2026-11-06T16:42:17-05:00"
-updatedAt: "2026-11-08T19:25:00-05:00"
+updatedAt: "2026-11-09T10:45:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["high school football state championships 2026", "texas high school football state championship 2026", "ghsa state championship 2026", "high school football state finals 2026 dates"]
@@ -27,7 +27,7 @@ faq:
   - q: "When is the Texas high school football state championship in 2026?"
     a: "Wednesday, Dec. 16, to Saturday, Dec. 19, 2026, at AT&T Stadium in Arlington, for classes 1A to 6A, according to the University Interscholastic League (UIL)."
   - q: "When is the GHSA state championship in 2026?"
-    a: "December 15-16, 2026, at Mercedes-Benz Stadium, according to the Georgia High School Association (GHSA). The page gives no game times by class."
+    a: "December 15-16, 2026, at Mercedes-Benz Stadium, according to the Georgia High School Association (GHSA). The first game is Class A at 10:30 a.m. ET on Dec. 15; all eight game times are in our [GHSA football finals schedule](/news/ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium/)."
   - q: "Which state plays its football finals first?"
     a: "Of the states listed here, Michigan: the 8-player final is Saturday, Nov. 21 at the Superior Dome in Marquette, and the 11-player finals are Nov. 27-28 at Ford Field in Detroit, per the Michigan High School Athletic Association."
   - q: "Where are the North Carolina football state championships?"
@@ -89,7 +89,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [uil-football-state-championships-2026-schedule-att-stadium, ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times]
+related: [uil-football-state-championships-2026-schedule-att-stadium, ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times]
 assets:
   overlay: true
   kicker: "State title games · Nov. 21-Dec. 19"
@@ -168,7 +168,7 @@ Florida, California, Minnesota, Kentucky, Mississippi, Illinois, New Jersey, New
 
 ## What is not confirmed yet?
 
-The GHSA page gives the date and stadium, and we could not confirm game times by class, so none are listed. The Alabama and Ohio pages read on Nov. 6 and Nov. 8 do not name a stadium; the Ohio venue comes from the OHSAA's tournament coverage page.
+The GHSA page gives the date and stadium; its game times by class are in our [GHSA finals schedule](/news/ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium/). The Alabama and Ohio pages read on Nov. 6 and Nov. 8 do not name a stadium; the Ohio venue comes from the OHSAA's tournament coverage page.
 
 ## Is there a printable state finals table?
 
