@@ -6,6 +6,7 @@ publishedAt: "2026-10-17T17:00:00-04:00"
 updatedAt: "2026-11-08T03:43:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: veterans-day
 keywords: ["Veterans Day 2026", "what's open and closed on Veterans Day 2026", "is there mail on Veterans Day", "is Veterans Day a state holiday", "banks closed Veterans Day 2026"]
 dateline: "New York"
 hero:

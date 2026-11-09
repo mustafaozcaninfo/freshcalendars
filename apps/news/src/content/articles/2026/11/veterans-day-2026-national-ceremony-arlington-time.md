@@ -6,6 +6,7 @@ publishedAt: "2026-11-05T19:15:00-05:00"
 updatedAt: "2026-11-05T19:15:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: veterans-day
 keywords: ["veterans day ceremony arlington 2026", "arlington national cemetery veterans day 2026", "veterans day 11am ceremony", "national veterans day observance 2026"]
 hero:
   src: ../../../../assets/news/veterans-day-2026-national-ceremony-arlington-time/veterans-day-2026-national-ceremony-arlington-time.webp

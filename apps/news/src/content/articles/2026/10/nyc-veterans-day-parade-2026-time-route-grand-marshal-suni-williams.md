@@ -6,6 +6,7 @@ publishedAt: "2026-10-29T05:45:00-04:00"
 updatedAt: "2026-11-03T09:29:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: veterans-day
 keywords: ["veterans day parade nyc 2026", "nyc veterans day parade time", "veterans day parade 2026 grand marshal", "birmingham veterans day parade 2026"]
 dateline: "New York"
 hero:
