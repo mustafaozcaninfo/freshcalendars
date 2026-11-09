@@ -140,6 +140,9 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 4. **Look at the screenshot.** Full-page shots show lazy-loaded images as blank boxes; that is an artifact, not a bug.
 5. **Commit** the design files so the repository matches the store.
 
+### Articles
+Use the `shop-article` skill (`.claude/skills/shop-article/SKILL.md`): which queries deserve a page, the article types and templates, the writing rules, the agent workflow, velocity and the stop rule. Every article passes `tools/article_check.py` before `tools/article_publish.py` puts it live.
+
 ### Site audit
 `python3 shop/tools/crawl.py` crawls every page and writes `.cache/shop/audit/crawl.json`: status, titles, descriptions, canonicals, H1s, JSON-LD, internal and external links and images. It never requests retailer URLs. Share buttons and template strings in scripts show up as false positives.
 
@@ -153,6 +156,9 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 | `tools/suggest.py` | Google autocomplete long-tail harvest |
 | `tools/ratings_check.py`, `tools/ratings_score.py` | rating draft validation and method v2 scoring |
 | `tools/ui_shot.mjs` | screenshot plus UI metrics for one page at one width |
+| `tools/article_check.py`, `tools/article_publish.py` | article rule checker (also `--sync`, `--orphans`, `--live`) and publisher; see the `shop-article` skill |
+| `articles/registry.json`, `articles/queue.json` | every shop article (type, query, cluster, products, H2s) and the article queue |
+| `research/google-affiliate-2026.md` | Google's official rules for affiliate and review content, quoted with URLs (Nov. 9, 2026) |
 | `design/` | live custom CSS, header and footer scripts, customised template texts |
 | `ratings/` | method, the list of published ratings, the approved batch |
 | `data/` | long-tail targets and filtered Google suggestions |

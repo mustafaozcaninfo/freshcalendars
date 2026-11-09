@@ -1,0 +1,128 @@
+[
+ {
+  "slug": "journaling-for-beginners",
+  "type": "howto",
+  "primary_query": "journaling for beginners",
+  "cluster": "start-journaling",
+  "id": 1,
+  "title": "Journaling for Beginners: How to Start and Keep Going",
+  "enabled": true,
+  "published_at": "2026-11-09T06:37:47.000000Z",
+  "products": [
+   58,
+   71,
+   151,
+   160
+  ],
+  "h2": [
+   "Pick a notebook you will actually open",
+   "What to write on day one",
+   "Keep it short and regular",
+   "Make it easy to find old entries",
+   "Add a monthly overview",
+   "If you miss a few days"
+  ]
+ },
+ {
+  "slug": "how-to-use-a-daily-planner",
+  "type": "howto",
+  "primary_query": "how to use a daily planner",
+  "cluster": "use-daily-planner",
+  "id": 2,
+  "title": "How to Use a Daily Planner: Six Habits That Help",
+  "enabled": true,
+  "published_at": "2026-11-09T06:37:47.000000Z",
+  "products": [
+   7,
+   16,
+   104,
+   105
+  ],
+  "h2": [
+   "1. Plan tomorrow tonight",
+   "2. Choose three priorities",
+   "3. Block your time",
+   "4. Break big tasks into steps",
+   "5. Plan breaks",
+   "6. Review the day",
+   "Choosing a daily planner layout"
+  ]
+ },
+ {
+  "slug": "how-to-choose-a-planner",
+  "type": "guide",
+  "primary_query": "how to choose a planner",
+  "cluster": "choose-planner",
+  "id": 3,
+  "title": "How to Choose a Planner: Daily, Weekly or Monthly",
+  "enabled": true,
+  "published_at": "2026-11-09T06:37:47.000000Z",
+  "products": [
+   6,
+   110,
+   118,
+   126
+  ],
+  "h2": [
+   "Start with how much you plan in a day",
+   "Daily planners",
+   "Weekly planners",
+   "Monthly planners",
+   "Academic planners",
+   "Other details to check",
+   "Try a layout before you buy"
+  ]
+ },
+ {
+  "slug": "types-of-journals",
+  "type": "explainer",
+  "primary_query": "types of journals",
+  "cluster": "journal-types",
+  "id": 4,
+  "title": "Types of Journals: Bullet, Gratitude, Travel and More",
+  "enabled": false,
+  "published_at": "2026-11-12T06:37:47.000000Z",
+  "products": [
+   40,
+   60,
+   151,
+   157,
+   166
+  ],
+  "h2": [
+   "1. Personal journal",
+   "2. Bullet journal",
+   "3. Gratitude journal",
+   "4. Travel journal",
+   "5. Art journal",
+   "6. Project or idea notebook",
+   "7. Reading or habit log",
+   "Combining journal types"
+  ]
+ },
+ {
+  "slug": "planner-accessories-guide",
+  "type": "guide",
+  "primary_query": "planner accessories",
+  "cluster": "planner-accessories",
+  "id": 5,
+  "title": "Planner Accessories: Pens, Stickers, Washi Tape and Stencils",
+  "enabled": false,
+  "published_at": "2026-11-15T06:37:47.000000Z",
+  "products": [
+   71,
+   75,
+   88,
+   90,
+   185
+  ],
+  "h2": [
+   "Pens for writing and color-coding",
+   "Stickers for reminders and decoration",
+   "Washi tape for borders and tabs",
+   "Stencils for neat headings and shapes",
+   "A small starter kit",
+   "Practice on a printed calendar"
+  ]
+ }
+]
