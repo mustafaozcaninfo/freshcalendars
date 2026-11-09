@@ -111,7 +111,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [united-cup-2027-dates-schedule-time-zones, australian-open-2027-dates-schedule-us-uk-time-zones-tv, f1-calendar-2027-race-dates-sprint-weekends-printable]
+related: [united-cup-2027-dates-schedule-time-zones, f1-calendar-2027-race-dates-sprint-weekends-printable, wrc-calendar-2027-15-rounds-monte-carlo-january-21]
 draft: false
 ---
 

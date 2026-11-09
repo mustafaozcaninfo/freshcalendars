@@ -111,7 +111,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge, abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone, atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players]
+related: [golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge, pga-tour-schedule-2027-every-event-majors-signature-events, atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players]
 draft: false
 ---
 
