@@ -64,7 +64,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day?"
-related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, poppy-campaign-2026-canada-dates-october-24-november-11, remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance]
+related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, remembrance-day-ceremony-ottawa-2026-time-how-to-watch, poppy-campaign-2026-canada-dates-october-24-november-11]
 downloads:
   - group: "Indigenous Veterans Day 2026 Ceremony Times printables"
     title: "Indigenous Veterans Day 2026 Ceremony Times"

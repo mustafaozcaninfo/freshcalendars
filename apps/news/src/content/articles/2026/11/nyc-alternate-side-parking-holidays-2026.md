@@ -59,7 +59,7 @@ downloads:
     png: "/news/downloads/nyc-alternate-side-parking-2026/nyc-alternate-side-parking-suspension-dates-2026.png"
     pages: 1
 draft: false
-related: [veterans-day-2026-wednesday-november-11, code-blue-2026-27-cold-weather-shelters-by-city, winter-parking-bans-2026-27-by-city]
+related: [veterans-day-2026-wednesday-november-11, free-parking-holidays-2026-meters-thanksgiving-christmas-by-city, winter-parking-bans-2026-27-by-city]
 assets:
   overlay: true
   kicker: "NYC Alternate Side Parking · 2026"

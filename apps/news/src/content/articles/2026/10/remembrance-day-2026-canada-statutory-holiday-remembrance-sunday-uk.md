@@ -80,7 +80,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/veterans-day/"
     label: "When is Veterans Day?"
-related: [december-6-national-day-of-remembrance-2026-canada-flags-half-mast, remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance, national-indigenous-veterans-day-2026-canada-november-8]
+related: [remembrance-day-ceremony-ottawa-2026-time-how-to-watch, december-6-national-day-of-remembrance-2026-canada-flags-half-mast, national-indigenous-veterans-day-2026-canada-november-8]
 downloads:
   - group: "Remembrance Day 2026 by Province and Territory printables"
     title: "Remembrance Day 2026 by Province and Territory"
