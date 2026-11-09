@@ -82,7 +82,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times, carabao-cup-quarter-finals-2026-27-fixtures-kickoff-times-tv]
+related: [fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times, carabao-cup-quarter-finals-2026-27-fixtures-kickoff-times-tv, january-transfer-window-2027-dates-premier-league-deadline-day]
 downloads:
   - group: "FA Cup Second Round Draw 2026 printables"
     title: "FA Cup Second Round Draw 2026: Dates and Channels"
