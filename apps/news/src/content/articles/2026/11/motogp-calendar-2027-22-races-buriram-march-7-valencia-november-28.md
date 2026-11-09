@@ -117,7 +117,7 @@ internalLinks:
     label: "March printable calendar"
   - href: "/april-calendars.html"
     label: "April printable calendar"
-related: [f1-calendar-2027-race-dates-sprint-weekends-printable, indycar-schedule-2027-17-races-indy-500-may-30, motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk]
+related: [f1-calendar-2027-race-dates-sprint-weekends-printable, indycar-schedule-2027-17-races-indy-500-may-30, formula-e-calendar-2026-27-season-13-jeddah-december-18]
 draft: false
 downloads:
   - group: "MotoGP Calendar 2027 printables"
