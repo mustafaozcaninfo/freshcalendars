@@ -1,8 +1,9 @@
 ---
 title: "Thanksgiving Travel 2026: Best Days to Fly and Drive, Nov. 21 to 30"
-description: "Thanksgiving travel 2026 centers on Thursday, Nov. 26. No 2026 forecast was out as of Oct. 24, so we label 2025 patterns and list each day, Nov. 21 to 30."
+description: "Thanksgiving travel 2026 centers on Thursday, Nov. 26. No 2026 forecast was out as of Nov. 8, so we label 2025 patterns and list each day, Nov. 21 to 30."
 type: explainer
 publishedAt: "2026-10-24T13:15:00-04:00"
+updatedAt: "2026-11-08T23:20:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["Thanksgiving travel 2026", "best days to travel for Thanksgiving 2026", "busiest travel days Thanksgiving", "Thanksgiving driving times", "REAL ID Thanksgiving"]
@@ -30,8 +31,8 @@ assets:
       - ["Sat., Nov. 28", "2025: heaviest traffic 1 to 8 p.m.; best before 10 a.m."]
       - ["Sun., Nov. 29", "2025: heaviest traffic 11 a.m. to 8 p.m.; best before 11 a.m."]
       - ["Mon., Nov. 30", "2025: heaviest traffic 12 to 8 p.m.; best after 8 p.m."]
-    note: "Source: AAA Thanksgiving Travel Forecast 2025 (INRIX drive times, Nov. 17, 2025); OPM federal holidays; TSA REAL ID. 2026 forecast not yet released as of Oct. 24, 2026."
-    inkSaver: true
+    note: "Source: AAA Thanksgiving Travel Forecast 2025 (INRIX drive times, Nov. 17, 2025); OPM federal holidays; TSA REAL ID; Amtrak Media, Nov. 3, 2026. 2026 forecast not yet released as of Nov. 8, 2026."
+    noKit: "Day-by-day travel planning calendar from last year's AAA drive-time windows; no deadlines or fees to compare, so no kit fits."
     description: "A Thanksgiving 2026 travel calendar for Nov. 21 to 30 with planning notes and last year's heaviest-traffic windows by day."
     alt: "Thanksgiving 2026 travel calendar printable for Nov. 21 to 30 with planning notes by day"
 hero:
@@ -47,14 +48,14 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:PierreSelim"
 summary:
   - "Thanksgiving Day 2026 is Thursday, Nov. 26, a federal holiday, and this guide covers the travel days from Saturday, Nov. 21 to Monday, Nov. 30."
-  - "The American Automobile Association (AAA) had not released its 2026 Thanksgiving forecast as of Oct. 24, 2026; last year's came out Nov. 17, 2025."
-  - "In 2025, AAA and the analytics firm INRIX said the lightest driving was before late morning, with the heaviest traffic in the afternoon and evening."
+  - "The American Automobile Association (AAA) had not released its 2026 Thanksgiving forecast as of Nov. 8, 2026; last year's came out Nov. 17, 2025, when AAA and INRIX said the heaviest traffic was in the afternoon and evening."
+  - "Amtrak is adding cars to select Northeast Regional trains from Nov. 20 to 30 and extra round trips on Nov. 24-25 and Nov. 28-29."
   - "Travelers flying need a REAL ID or another accepted identification, and a canceled or sharply changed flight can qualify for an automatic refund."
 faq:
   - q: "What are the best days to travel for Thanksgiving 2026?"
-    a: "The American Automobile Association (AAA) 2026 forecast was not out as of Oct. 24, 2026. In its 2025 forecast, the lightest driving was before late morning and on Thanksgiving Day itself, Nov. 26 in 2026. Afternoons and evenings were the most congested."
+    a: "The American Automobile Association (AAA) 2026 forecast was not out as of Nov. 8, 2026. In its 2025 forecast, the lightest driving was before late morning and on Thanksgiving Day itself, Nov. 26 in 2026. Afternoons and evenings were the most congested."
   - q: "What are the busiest Thanksgiving travel days?"
-    a: "In AAA's 2025 forecast, Sunday and Monday after Thanksgiving were the busiest return days for flights, and INRIX expected heavy road traffic every travel day except Thanksgiving itself. By the same weekdays, those return days fall on Nov. 29 and 30 in 2026. AAA had not released 2026 figures as of Oct. 24, 2026."
+    a: "In AAA's 2025 forecast, Sunday and Monday after Thanksgiving were the busiest return days for flights, and INRIX expected heavy road traffic every travel day except Thanksgiving itself. By the same weekdays, those return days fall on Nov. 29 and 30 in 2026. AAA had not released 2026 figures as of Nov. 8, 2026."
   - q: "Do I need a REAL ID to fly for Thanksgiving?"
     a: "REAL ID enforcement began May 7, 2025. To fly within the United States you need a REAL ID-compliant license, a passport or another accepted identification. The Transportation Security Administration (TSA) says travelers without an acceptable ID must pay a $45 fee."
   - q: "Can I get a refund if my Thanksgiving flight is canceled?"
@@ -74,6 +75,10 @@ sources:
     url: "https://www.transportation.gov/briefing-room/biden-harris-administration-announces-final-rule-requiring-automatic-refunds-airline"
     publisher: "U.S. Department of Transportation (DOT)"
     date: "2024-04-24"
+  - title: "Amtrak Encourages Travelers to Book Thanksgiving Travel Early Amid Historic Demand"
+    url: "https://media.amtrak.com/2026/11/amtrak-encourages-travelers-to-book-thanksgiving-travel-early-amid-historic-demand/"
+    publisher: "Amtrak Media"
+    date: "2026-11-03"
 downloads:
   - group: "Thanksgiving Travel Calendar printables"
     title: "Thanksgiving Travel Calendar, Nov. 21 to 30, 2026"
@@ -102,7 +107,7 @@ draft: false
 
 **Thanksgiving Day in the United States is Thursday, Nov. 26, 2026, a federal holiday. Last year the American Automobile Association (AAA) counted the holiday travel period from the Tuesday before to the Monday after, which is Nov. 24 to 30 in 2026.** The U.S. Office of Personnel Management (OPM) lists the holiday on Nov. 26. The question most people ask, which days to fly or drive, does not yet have a 2026 answer from the main forecaster.
 
-AAA had not published its 2026 Thanksgiving travel forecast as of Oct. 24, 2026. Last year the forecast came out on Nov. 17, 2025. Until the 2026 version is released, the dates below are firm, and the travel patterns are from the 2025 forecast, clearly labeled as last year's.
+AAA had not published its 2026 Thanksgiving travel forecast as of Nov. 8, 2026. Last year the forecast came out on Nov. 17, 2025. Until the 2026 version is released, the dates below are firm, and the travel patterns are from the 2025 forecast, clearly labeled as last year's.
 
 ## The Thanksgiving 2026 travel window
 
@@ -113,12 +118,12 @@ Thanksgiving always lands on the fourth Thursday of November, which is [Nov. 26 
 | Nov. 21 | Saturday | Weekend before the holiday week; outside AAA's 2025 travel period |
 | Nov. 22 | Sunday | Outside AAA's 2025 travel period |
 | Nov. 23 | Monday | Outside AAA's 2025 travel period |
-| Nov. 24 | Tuesday | First day of the 2025 travel period; heavy traffic from noon |
-| Nov. 25 | Wednesday | Hertz's expected busiest rental pick-up day in 2025 |
+| Nov. 24 | Tuesday | First day of the 2025 travel period; heavy traffic from noon; Amtrak adds two Northeast Regional round trips (Nov. 24-25) |
+| Nov. 25 | Wednesday | Hertz's expected busiest rental pick-up day in 2025; second day of Amtrak's first extra round trips |
 | Nov. 26 | Thursday | Thanksgiving Day; minimal traffic and cheaper flights in 2025 |
 | Nov. 27 | Friday | Heavy traffic 1 to 7 p.m. in 2025 |
-| Nov. 28 | Saturday | Heavy traffic 1 to 8 p.m. in 2025 |
-| Nov. 29 | Sunday | One of the two busiest flight-return days in 2025 |
+| Nov. 28 | Saturday | Heavy traffic 1 to 8 p.m. in 2025; Amtrak adds two Northeast Regional round trips (Nov. 28-29) |
+| Nov. 29 | Sunday | One of the two busiest flight-return days in 2025; second day of Amtrak's extra round trips |
 | Nov. 30 | Monday | One of the two busiest flight-return days in 2025 |
 
 You can mark the same window on a [November 2026 printable calendar](/november-calendars.html) or the printable travel calendar below.
@@ -162,6 +167,10 @@ AAA's 2025 data showed a roundtrip domestic flight averaging about $700. The gro
 Two rules matter at the airport. First, REAL ID enforcement began May 7, 2025. To board a domestic flight you need a REAL ID-compliant license, a passport or another accepted form of identification. The Transportation Security Administration (TSA) says travelers without an acceptable ID must pay a $45 fee; the [TSA ConfirmID fee and 10-day window](/news/tsa-confirmid-45-fee-no-real-id-holiday-travel-2026/) are explained in a separate story.
 
 Second, a U.S. Department of Transportation (DOT) rule announced April 24, 2024 requires airlines to issue an automatic cash refund when a flight is canceled or significantly changed and the passenger declines rebooking or a travel credit. "Significant" includes a departure or arrival time change of more than three hours for a domestic flight or six hours for an international flight, a different airport, added connections or a downgrade. Refunds are due within seven business days for credit-card purchases and 20 calendar days for other payments.
+
+## Amtrak Thanksgiving trains
+
+Amtrak said on Nov. 3, 2026 that it is adding cars to select Northeast Regional trains from Nov. 20 to 30. It is also adding two Northeast Regional round trips between Washington Union Station, New York Penn Station and cities in between on Nov. 24-25 and Nov. 28-29. Amtrak says it carried more than 1.2 million customer trips over the 2025 Thanksgiving holiday, and it advises travelers to book early. Tickets are sold on Amtrak.com, in the Amtrak app, at station kiosks and staffed stations, and by phone through Amtrak's toll-free line.
 
 ## Flight checklist
 
