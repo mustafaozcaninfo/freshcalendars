@@ -7,7 +7,7 @@ A session that works on the shop reads this file first.
 ## Setup (once per machine)
 
 1. **API key.** Ask the owner for the FreshStore API key and save it in `.cache/shop/token` (gitignored), or export it as `FRESHSTORE_TOKEN`. **Never commit it; this repository is public.** Keys are made in the FreshStore admin (Settings > API Keys).
-2. **API reference.** Ask the owner for `api-freshstore.md` and save it as `.cache/shop/api-freshstore.md`. It lists every endpoint and field. Read the section you need before calling an endpoint.
+2. **API reference.** Start with `API.md` in this folder: our own guide to the API, arranged by job (recipes, endpoints, our guardrails, gotchas). For a detail it lacks, ask the owner for the platform's `api-freshstore.md` and save it as `.cache/shop/api-freshstore.md` (kept out of git).
 3. **Tools.** `pnpm install` once (Playwright for `ui_shot.mjs` comes with `packages/generator`). The Python tools need only Python 3.
 4. **Claude cloud sessions:**
    - Set `FRESHSTORE_TOKEN` as an environment variable in the cloud environment's settings; a cloud session cannot see a local `.cache/shop/token`.
@@ -34,7 +34,7 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - **No fake deals or urgency.** Say "below its usual price" only when the offer's `price` is lower than `price_full`.
 - **No unlicensed trademark merchandise** (for example military emblem notebooks).
 - **Never submit a form on the live site** (newsletter, contact) while testing.
-- **Commit only code, design and method files.** Never commit backups, tokens or the API reference.
+- **Commit only code, design and method files.** Never commit backups, tokens or the platform's API reference (our own `API.md` is committed).
 
 ## How the platform behaves (learned the hard way)
 
@@ -147,6 +147,7 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 
 | Path | What |
 |---|---|
+| `API.md` | our guide to the FreshStore Site API: recipes, endpoints, guardrails, gotchas |
 | `tools/fs.py` | API client (`call`, `backup`, `WORK`) |
 | `tools/fetchall.py` | every enabled product with offers, categories and brand |
 | `tools/crawl.py` | full read-only site crawl |
