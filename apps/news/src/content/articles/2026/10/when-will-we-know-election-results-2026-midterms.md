@@ -3,7 +3,7 @@ title: "When Do They Start Counting Votes 2026? 17-State Timeline"
 description: "When counting starts in 2026 varies: Florida can process mail ballots 22 days early, Pennsylvania and Wisconsin at 7 a.m. Election Day. 17-state timeline."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-08T21:30:00-05:00"
+updatedAt: "2026-11-09T13:25:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -89,6 +89,10 @@ sources:
     url: "https://electionresults.sos.ca.gov/unprocessed-ballots-status"
     publisher: "California Secretary of State"
     date: "2026-11-05"
+  - title: "The Office of the California Secretary of State Issues Unprocessed Ballot Report"
+    url: "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/office-california-secretary-state-issues-unprocessed-ballot-report"
+    publisher: "California Secretary of State"
+    date: "2026-11-05"
   - title: "Nov. 3, 2026, is the General Election."
     url: "https://www.pa.gov/en/agencies/vote/elections/upcoming-elections"
     publisher: "Pennsylvania Department of State"
@@ -135,7 +139,7 @@ Three more states are still receiving or curing ballots. Oregon's Secretary of S
 
 The Pennsylvania Department of State lists Nov. 10 as the last day for county election offices to receive completed military and overseas absentee ballots that were submitted for delivery no later than 11:59 p.m. on Nov. 2, so Pennsylvania counties can still receive those ballots.
 
-California's Secretary of State says on its unprocessed ballots status page for the Nov. 3, 2026 election that "it typically takes weeks for counties to process and count all of the ballots"; on the morning of Nov. 5 that [page](https://electionresults.sos.ca.gov/unprocessed-ballots-status) showed no statewide unprocessed-ballot total. We could not confirm from most state election offices how many ballots remain to be counted, and as of the morning of Nov. 7 no state election office we checked says its count is finished. Check your state's election office through our [live blog](/news/election-day-2026-results-map/) for the latest.
+California's Secretary of State says on its unprocessed ballots status page for the Nov. 3, 2026 election that "it typically takes weeks for counties to process and count all of the ballots"; in its Nov. 5 [unprocessed ballot report](https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/office-california-secretary-state-issues-unprocessed-ballot-report), the Secretary of State said "California's county elections officials have already processed and counted 8,906,017 ballots" and "County elections officials estimate 4,816,722 outstanding ballots remain to be processed and counted." The Secretary of State has not posted a newer statewide estimate in its news releases as of Nov. 9. We could not confirm from most state election offices how many ballots remain to be counted, and as of Nov. 9 no state election office we checked says its count is finished. Check your state's election office through our [live blog](/news/election-day-2026-results-map/) for the latest.
 
 We are tracking the returns state by state in our [Election Night 2026 live blog](/news/election-day-2026-results-map/), with a results map, a scoreboard and a link to every state's election office.
 
@@ -215,7 +219,9 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 | Mid-November | Counties finish canvassing; ranked-choice rounds in Maine; Alaska's tabulation is scheduled for Nov. 18 |
 | Dec. 1 | Georgia runoff, if needed |
 | Dec. 3 | California counties complete final official results, per the Secretary of State |
+| Dec. 4 | Deadline for California counties to report final results for state and federal contests to the Secretary of State, per its Nov. 5 release |
 | Dec. 10 | Oregon certifies final results |
+| Dec. 11 | California's Secretary of State certifies the results, per its Nov. 5 release |
 | Late Nov.-Dec. | States certify results |
 | Jan. 3, 2027 | The new Congress is sworn in |
 
