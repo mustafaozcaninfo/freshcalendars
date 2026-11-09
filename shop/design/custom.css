@@ -57,5 +57,5 @@ body.cr-prism{--cr-p2:0,92,54}
 /* Home hero proof chips: hide the 4th chip ("N retailers"). The template counts every merchant with an offer, disabled ones (AliExpress, Etsy) included, so the number is not true for visitors. Chip order: products, categories, brands, retailers. */
 body.cr-prism .cr-proof>.cr-chip:nth-child(4){display:none!important}
 /* Tap targets on phones: section "see all" links get a 44px row; one-line category card titles at least 24px */
-body.cr-prism .fs-sec a.text-sm.font-semibold.text-skin-link{display:inline-flex!important;align-items:center;min-height:44px}
+body.cr-prism .fs-sec .sm\:hidden>a.text-sm.font-semibold.text-skin-link{display:inline-flex;align-items:center;min-height:44px}
 body.cr-prism .fs-sec .group.relative h3 a{display:inline-flex;align-items:center;min-height:24px}

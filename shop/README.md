@@ -70,7 +70,7 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 
 | Item | Count |
 |---|---|
-| Live products | about 240, all with Amazon US offers |
+| Live products | 240; 24 of them have no Amazon offer (only eBay, Walmart, AliExpress or Etsy offers) |
 | Enabled categories | 30 (top level: Planners, Bullet Journals, Journaling Supplies, Calendars, Guided Journals, Patriotic and Military) |
 | Articles | 5 (`types-of-journals` and `planner-accessories-guide` are scheduled for Nov. 12 and Nov. 15) |
 | Ratings live | 76 (score 4.0 or more only; see `ratings/`) |
@@ -91,7 +91,9 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 2. Social profile handles (none are set).
 3. Google Search Console and Bing verification codes.
 4. Check the AI chip balance before any large import.
-5. The three eBay Auto Populators are still on and add unreviewed products every day.
+
+
+The three eBay Auto Populators (Pens, Stencils, Planners) were switched off through the API on Nov. 9, 2026, after adding 5 products (ids 186 to 190).
 
 ## Routines
 
