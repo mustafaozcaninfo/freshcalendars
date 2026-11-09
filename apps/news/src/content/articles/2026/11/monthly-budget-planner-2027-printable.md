@@ -81,7 +81,7 @@ internalLinks:
     label: "January printable calendars"
   - href: "/april-calendars.html"
     label: "April printable calendars"
-related: [tax-calendar-2027-irs-deadlines, three-paycheck-months-2027-biweekly-payday-calendar, debt-payoff-planner-2027-snowball-avalanche]
+related: [tax-calendar-2027-irs-deadlines, three-paycheck-months-2027-biweekly-payday-calendar, 52-week-money-challenge-2027-printable]
 downloads:
   - group: "Monthly Budget Planner 2027 printables"
     title: "Monthly Budget Planner 2027"
