@@ -2,6 +2,7 @@
 
 Usage:
   python3 shop/tools/product_check.py <draft.json> [...]          check drafts (exit 1 on any FAIL)
+  python3 shop/tools/product_check.py --sync                      pull every product page into the uniqueness corpus (API)
   python3 shop/tools/product_check.py --live <draft.json> [...]   also confirm every link answers 200 and the
                                                                  product's offer is priced and in stock (API)
 
@@ -11,8 +12,13 @@ summary, highlights, meta_description, content, category_ids. Stdlib only.
 """
 import json, os, re, subprocess, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-from article_check import BANNED, FAKE_TEST, URGENCY, text_of, load  # noqa: E402
-from fs import call  # noqa: E402
+from article_check import BANNED, FAKE_TEST, URGENCY, text_of, load, shingles  # noqa: E402
+from fs import call, WORK  # noqa: E402
+from pathlib import Path  # noqa: E402
+
+CORPUS = WORK / 'products' / 'corpus.json'      # every product page in the store (--sync)
+DRAFTS = WORK / 'products' / 'drafts'
+BOILER = r'<p>\s*How this page was made:.*?</p>'  # the one shared sentence, left out of the overlap test
 
 UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/605.1.15'
 HYPE = r'perfect|ideal|best|premium|luxury|must[- ]have|amazing|stunning|great|excellent|favorite|beloved|top-rated|bestselling|best-selling|popular|loved by'
@@ -22,6 +28,47 @@ NUM = r'(?<![\w.])\d+(?:[.,]\d+)?(?![\w])'
 
 def numbers(s):
     return {n.replace(',', '') for n in re.findall(NUM, s)}
+
+
+def page_of(p):
+    """The parts of a product page that must be unique, from a store record or a draft."""
+    c = p.get('content') or ''
+    body = text_of(re.sub(BOILER, ' ', c, flags=re.S | re.I))
+    body = text_of(re.sub(r'<caption\b.*?</caption>', ' ', body))
+    links = sorted(set(u.split('?')[0].rstrip('/') for u in re.findall(r'<a\b[^>]*href="([^"]+)"', c, re.I)))
+    h3 = [text_of(x).lower() for x in re.findall(r'<h3\b[^>]*>(.*?)</h3>', c, re.S | re.I)]
+    return {'id': p.get('id'), 'title': p.get('title') or '', 'subtitle': p.get('subtitle') or '', 'summary': p.get('summary') or '',
+            'meta_description': p.get('meta_description') or '', 'meta_title': p.get('meta_title') or '', 'link_title': p.get('link_title') or '',
+            'highlights': p.get('highlights') or [], 'body': body, 'links': links, 'h3': h3}
+
+
+def sync():
+    """Pull every product page (enabled or not) into the corpus for the uniqueness checks."""
+    out, page = [], 1
+    while True:
+        s, d = call('GET', f'products?per_page=100&page={page}')
+        out += [page_of(p) for p in d.get('data', [])]
+        if page >= d.get('meta', {}).get('last_page', 1): break
+        page += 1
+    CORPUS.parent.mkdir(parents=True, exist_ok=True)
+    CORPUS.write_text(json.dumps(out))
+    print('synced', len(out), 'product pages')
+
+
+def others(me):
+    pages = [p for p in load(CORPUS, []) if p['id'] != me]
+    if DRAFTS.exists():
+        drafted = {}
+        for f in DRAFTS.glob('*.json'):
+            x = load(f, None)
+            if x and x.get('id') != me: drafted[x.get('id')] = page_of(x)
+        pages = [p for p in pages if p['id'] not in drafted] + list(drafted.values())
+    return pages
+
+
+def overlap(a, b, n):
+    A, B = shingles(a, n), shingles(b, n)
+    return len(A & B) / len(A) if A else 0.0
 
 
 def check(path, live=False):
@@ -94,6 +141,22 @@ def check(path, live=False):
     stray = sorted(n for n in numbers(vis_nodate) - allowed if n not in {'1', '2'} and not re.fullmatch(r'20\d\d', n))
     if stray: F(f'numbers not in the listing or computed list: {", ".join(stray[:8])}')
 
+    # Unique against every other product page in the store and every other draft
+    if not d.get('maker_source'): F('maker_source: the maker site URL you checked, or "none found"')
+    me = page_of(d)
+    for h in hl:
+        if overlap(h, sm, 5) > 0.5: F(f'highlight repeats the summary: "{h[:50]}"')
+    for o in others(d['id']):
+        for k in ('title', 'meta_title', 'link_title', 'subtitle', 'meta_description'):
+            if me[k] and me[k].lower() == o[k].lower(): F(f'{k} is identical to product {o["id"]}')
+        if o['summary'] and overlap(me['summary'], o['summary'], 5) > 0.3: F(f'summary shares wording with product {o["id"]}')
+        if o['body'] and overlap(me['body'], o['body'], 8) > 0.08: F(f'{overlap(me["body"], o["body"], 8):.0%} of 8-word runs also appear on product {o["id"]}')
+        same_h3 = set(me['h3']) & set(o['h3'])
+        if same_h3: F(f'H3 reused from product {o["id"]}: "{sorted(same_h3)[0]}"')
+        shared = set(me['links']) & set(o['links'])
+        if me['links'] and me['links'] == o['links']: F(f'same set of links as product {o["id"]}')
+        elif len(shared) > 2: F(f'{len(shared)} links shared with product {o["id"]} (2 at most): vary the category, article and printable')
+
     if live:
         for u in sorted(set(links)):
             code = subprocess.run(['curl', '-s', '-o', '/dev/null', '-w', '%{http_code}', '-A', UA, u], capture_output=True, text=True).stdout
@@ -107,6 +170,7 @@ def check(path, live=False):
 if __name__ == '__main__':
     a = sys.argv[1:]
     if not a: sys.exit(__doc__)
+    if a[0] == '--sync': sync(); sys.exit(0)
     live = '--live' in a
     bad = 0
     for p in [x for x in a if not x.startswith('--')]:

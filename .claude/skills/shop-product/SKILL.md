@@ -18,6 +18,27 @@ Other shops on the same platform (GadgetSteal, checked Nov. 9, 2026) show the sa
 3. **One reader question answered** (the question people search with the product name: "does X bleed through", "what size is X", "does X fit an A5 planner").
 4. **Links that help the next step**: the category, 1-2 shop articles that compare it, one freshcalendars.com printable.
 5. **No invented facts.** Every number on the page appears in the listing or in a computation we show. The checker fails any other number.
+6. **The maker's own page, read every time.** It often holds a fact the retailer listing leaves out (Zebra's page gave "AP certified non-toxic"). Record it in `maker_source` (URL, or "none found") and `maker_facts`, and cite it in the table caption.
+
+## 1a. Every page is unique (owner rule, Nov. 9, 2026)
+
+At 2,000 products, Google must never see two of our pages as the same page. No text, heading or link pattern repeats from one product to the next. `product_check.py --sync` pulls every product page into a corpus; the check then compares the draft with every other page and every other draft and fails:
+
+| Element | Fails when |
+|---|---|
+| Body text | over 8% of its 8-word runs appear on another product page. The one shared "how this page was made" line and table captions are left out of the test. |
+| `title`, `meta_title`, `link_title`, `subtitle`, `meta_description` | identical to another page's |
+| `summary` | over 30% of its 5-word runs appear in another summary |
+| H3 headings | any H3 is used on another product page. Put the product line or the deciding spec in each H3 ("Does Mildliner ink show through planner paper?"), never a generic "Who it suits". |
+| Links in `content` | the same set as another page, or more than 2 links shared with any other page. Rotate the category or subcategory, the article that fits this product's question, and the printable that fits this product's use. |
+| `highlights` | a bullet repeats the summary (over 50% of its 5-word runs). Highlights carry the facts the summary did not have room for. |
+
+How to stay unique without inventing anything:
+- **Start from what is particular to this product.** Its listed uses, its own limits and the question buyers ask about this model. Never start from a template sentence.
+- **Vary the order and the angle of sections by family and by product.** Planners lead with the date range, notebooks with paper, pens with tips and ink, calendars with size and blocks.
+- **Pick the reader question from this product's own gaps or claims.** Bleed-through, size, dates, refills, what fits inside.
+- **Pick the link that answers that question.** The article that compares this family on that spec, and the printable that matches the size or the dates.
+- **Write sentences for this product.** Two pages in the same family will share facts (A5, 120 gsm); they must not share sentences.
 
 ## 2. Where each field shows on the page (crystal template, checked Nov. 9, 2026)
 
@@ -28,7 +49,7 @@ Other shops on the same platform (GadgetSteal, checked Nov. 9, 2026) show the sa
 | `link_title` | product cards, "You might also like" | 10-40 chars. Brand and line, plus pack or size. |
 | `subtitle` | H2 under the H1 | 60-160 chars, one sentence: what it is and the job it does. |
 | `summary` | "Product Summary", beside the price | 2-3 sentences, 420 chars max: what it is, the deciding specs, the source ("the maker lists"). |
-| `highlights` | "Product Highlights" list | 4-7 bullets, 110 chars max, each one listed fact, no period at the end, spec first ("15 highlighters in assorted colors"). |
+| `highlights` | "Product Highlights" list | 4-7 bullets, 110 chars max, each one fact the summary does not already say (the maker-site fact, the listed uses, the limits), no period at the end. |
 | `meta_description` | search snippet | 120-155 chars: brand, product and the key specs, then what only our page has ("spec table", "free printable"). |
 | `content` | "Additional Product Details" | 220-650 words, H3s only (the page already has H1 and H2s). Structure in section 3. |
 | `author_rating`, `author_verdict`, `author_pros`, `author_cons` | "Our review" | Only through the rating process in `shop/ratings/METHODS.md`, after Jessica Hartwell approves. Never in this routine. |
@@ -64,7 +85,7 @@ Tested Nov. 9, 2026 (`shop/API.md` > Import products):
 4. **Set the category**: `POST products/{id}/categories`.
 5. **Read back after about 5 seconds**: the offer now holds price, stock, the full listing title, feature bullets and images. Out of stock or no price: delete the product, do not publish it.
 6. **Write the draft** `.cache/shop/products/drafts/<id>.json` (format: `shop/products/examples/325-zebra-mildliner.json`; `listing` is the offer title plus its features, verbatim).
-7. **Check**: `python3 shop/tools/product_check.py --live <draft>`; fix every FAIL.
+7. **Check**: run `python3 shop/tools/product_check.py --sync` once per batch, then `python3 shop/tools/product_check.py --live <draft>` for each draft; fix every FAIL. Drafts in `.cache/shop/products/drafts/` are compared with each other too, so a batch cannot copy itself.
 8. **Write and publish**: back up, then `PATCH products/{id}` with the fields and `enabled: true`, `in_sitemap: true`. Clear the cache.
 9. **Check the live page** after 2-4 minutes at 360 and 1440 px with `shop/tools/ui_shot.mjs`: one H1, the table scrolls on phones, the price and buy button show.
 10. **Join a brand** when the brand page is enabled. A new brand gets a page only when it has 3 or more live products.
