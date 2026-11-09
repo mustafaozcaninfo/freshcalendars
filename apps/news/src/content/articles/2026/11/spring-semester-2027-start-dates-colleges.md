@@ -135,7 +135,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-school-calendar.html"
     label: "Printable school-year calendar"
-related: [college-spring-break-2027-dates-universities, regular-decision-deadlines-2027-january-1-january-5-colleges, fafsa-2027-28-open-now-deadlines-tax-year]
+related: [college-finals-week-fall-2026-winter-break-dates-universities, college-spring-break-2027-dates-universities, regular-decision-deadlines-2027-january-1-january-5-colleges]
 assets:
   overlay: true
   kicker: "Spring semester 2027"
