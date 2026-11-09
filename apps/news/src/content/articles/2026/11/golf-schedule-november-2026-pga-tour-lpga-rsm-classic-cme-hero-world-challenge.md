@@ -77,7 +77,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [golf-schedule-december-2026-hero-world-challenge-grant-thornton-pnc, nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times, atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players]
+related: [golf-schedule-december-2026-hero-world-challenge-grant-thornton-pnc, pga-tour-schedule-2027-every-event-majors-signature-events, atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players]
 downloads:
   - group: "Pro Golf Schedule November-December 2026 printables"
     title: "Pro Golf Schedule November-December 2026"
