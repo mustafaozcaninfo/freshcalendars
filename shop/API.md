@@ -98,6 +98,15 @@ call('GET', 'tools/offer-health')# what store/clean would remove; read it, never
 5. Wrong facts in the AI title: `PATCH products/{id}` `{"title": ...}`. The slug changes and the platform adds the 301 itself.
 6. Wrong category: `POST products/{id}/categories` `{"category_ids": [...]}` (it **replaces** the list; `PATCH products` refuses `category_ids` with 422, and older releases silently drop it).
 
+**Without AI chips (tested Nov. 9, 2026, product 325):** build the product ourselves.
+1. `POST products` with our own `title`, `summary`, `meta_description` and `enabled: false`.
+2. `POST offers` `{"merchant": "amazon", "merchant_offer_id": "<ASIN>", "url_detail": "https://www.amazon.com/dp/<ASIN>", "title": ..., "locale": "us"}`.
+3. **In the same script, right away:** `POST offers/{id}/products` `{"product_ids": [pid]}`. An offer that is not linked to a product disappears within about a second (GET answers 404; the next `POST offers` for the same ASIN restores it with the same id).
+4. `POST products/{id}/categories`.
+5. Within about 5 seconds the platform fills the offer from Amazon: price, `price_full`, stock, the full listing title, feature bullets and images (`price_source: api`). Read it back, then `PATCH products/{id}` `{"enabled": true}`.
+
+About 5 calls a product, no chips, and the title is ours instead of an AI rewrite.
+
 Alternative for many products at once: `POST categories/fill` `{"api_name": "amazon", "locale": "us", "categories": [ids], "quantity": 1-50}`. It costs AI chips (`generate_content` and `ai_relevance_check` default to true) and publishes according to the admin's "Publish New Products Immediately" setting, which the API does not expose. Turn that off in the admin before a fill (ROADMAP step 2).
 
 ### Disable and redirect (out-of-stock policy)
@@ -327,7 +336,8 @@ Page fields: `id`, `key` (system pages: `homepage`, `about`, `contact`; null for
 From the reference:
 - A bad key is 403, not 401.
 - `PATCH products/{id}` never sets categories; use `POST products/{id}/categories`, which replaces the whole list.
-- `POST offers/{id}/products` only adds; to unlink, delete the offer.
+- `POST offers/{id}/products` only adds; to unlink, delete the offer. Link a new offer in the same script that creates it: an unlinked offer is removed within about a second.
+- `published_at` on articles: the store keeps the clock time and drops the offset (`15:55:10-05:00` is stored as `15:55:10Z`). Send the Eastern Time you want shown.
 - `POST categories/fill`, `products/import-csv` with `generate_content`, `brands/clean` and every `generate_*` flag cost AI chips (about 1,800 chips a product, about 20,000 an AI image, 80,000 at `image_quality: high`). The chip balance is admin-only; check it before any large run.
 - Image endpoints take a URL only (no upload), JPEG, PNG, WebP or GIF, 10 MB, and do not follow redirects: send the final address.
 - Bulk redirects over 50 rows and live catalogue retires are queued; poll their `{id}`.
