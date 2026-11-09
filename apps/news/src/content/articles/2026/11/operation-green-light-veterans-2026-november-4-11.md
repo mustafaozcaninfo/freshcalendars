@@ -6,6 +6,7 @@ publishedAt: "2026-11-09T10:30:00-05:00"
 updatedAt: "2026-11-09T10:30:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: veterans-day
 keywords: ["Operation Green Light Veterans 2026", "green light for veterans November 2026", "Operation Green Light counties"]
 dateline: "Washington"
 assets:

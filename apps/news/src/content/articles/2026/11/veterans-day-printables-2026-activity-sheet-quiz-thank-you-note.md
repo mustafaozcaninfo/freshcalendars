@@ -6,6 +6,7 @@ publishedAt: "2026-11-04T15:48:00-05:00"
 updatedAt: "2026-11-04T15:48:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: veterans-day
 keywords: ["veterans day printables", "veterans day activity sheet", "veterans day worksheet", "veterans day quiz for kids", "veterans day poster 2026"]
 dateline: "New York"
 assets:

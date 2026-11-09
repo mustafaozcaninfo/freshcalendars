@@ -6,6 +6,7 @@ publishedAt: "2026-11-04T21:05:00-05:00"
 updatedAt: "2026-11-04T21:05:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
+shop: veterans-day
 keywords: ["veteran id card", "how to prove veteran status for discounts", "veteran id card for discounts", "veteran designation driver's license"]
 assets:
   overlay: true

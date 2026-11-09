@@ -6,6 +6,7 @@ publishedAt: "2026-10-20T16:55:00-04:00"
 updatedAt: "2026-11-08T13:00:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: veterans-day
 keywords: ["Veterans Day free meals 2026", "Veterans Day discounts 2026", "Veterans Day restaurant deals", "free meals for veterans November 11", "Veterans Day freebies 2026"]
 dateline: "New York"
 assets:
