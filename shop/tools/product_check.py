@@ -123,6 +123,8 @@ def check(path, live=False):
     if not [u for u in links if re.match(r'https://shop\.freshcalendars\.com/categories/', u)]: F('link the product category page')
     if not [u for u in links if re.match(r'https://shop\.freshcalendars\.com/articles/', u)]: F('link 1-2 related shop articles')
     if not [u for u in links if re.match(r'https://freshcalendars\.com/', u)]: F('link 1 freshcalendars.com printable or date page')
+    if re.search(r'<a\b[^>]*>\s*</a>', c): F('a link with no text (broken sentence)')
+    if re.search(r'(?:,| and| or| the| to)\s*</p>', c): F('a paragraph ends mid-sentence')
     if len(links) > 7: W(f'{len(links)} links in content; 3-6 is enough')
     if any(re.search(r'amazon\.|amzn\.|ebay\.|walmart\.|etsy\.', u) for u in links): F('no retailer links in content: the page has its own buy buttons')
 

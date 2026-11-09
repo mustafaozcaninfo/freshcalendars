@@ -18,7 +18,7 @@ Other shops on the same platform (GadgetSteal, checked Nov. 9, 2026) show the sa
 3. **One reader question answered** (the question people search with the product name: "does X bleed through", "what size is X", "does X fit an A5 planner").
 4. **Links that help the next step**: the category, 1-2 shop articles that compare it, one freshcalendars.com printable.
 5. **No invented facts.** Every number on the page appears in the listing or in a computation we show. The checker fails any other number.
-6. **The maker's own page, read every time.** It often holds a fact the retailer listing leaves out (Zebra's page gave "AP certified non-toxic"). Record it in `maker_source` (URL, or "none found") and `maker_facts`, and cite it in the table caption.
+6. **The maker's own page, read every time.** It often holds a fact the retailer listing leaves out (Zebra's page gave "AP certified non-toxic"). Record it in `maker_source` (URL, or "none found") and `maker_facts`, and name it in the table caption as plain text. Do not link external sites in `content`: maker sites often block bots (403), move pages (301) or drop them (404), and `--live` then stops the page.
 
 ## 1a. Every page is unique (owner rule, Nov. 9, 2026)
 
