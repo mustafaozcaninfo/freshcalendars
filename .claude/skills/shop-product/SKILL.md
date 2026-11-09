@@ -70,6 +70,7 @@ In this order, H3 headings that name the product:
 ## 4. Writing rules
 
 - **Facts only from the listing** (offer `title` and `features`), the maker's own site, or a computation shown on the page. Say so in the sentence: "the maker lists", "the listing states".
+- **No computation built on an assumption.** Compute only from stated numbers (months from a stated date range, total rolls times stated length). If the listing is unclear (pages per book or per pack), say it is unclear; never pick a reading and multiply. Skip trivia numbers ("8,424 ruled lines").
 - **Maker claims stay maker claims**: "designed to minimize bleed-through", never "does not bleed".
 - **Leave out marketing outcomes** even when the listing says them: health, mood, faith, grades, productivity. A listed use ("Bible margins", "lesson planning") is fine; a promised result is not.
 - **No prices in text.** The page shows the live price; any number in prose goes stale.
