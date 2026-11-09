@@ -1,1 +1,25 @@
-[]
+[
+ {
+  "day": "2026-11-09",
+  "sessions": 1255,
+  "bots": 197,
+  "pagesPerSession": 1.197,
+  "scroll": {
+   "Mobile": 24.17,
+   "Tablet": 37.37,
+   "PC": 32.87
+  },
+  "activeTime": {
+   "Mobile": 61,
+   "Tablet": 116,
+   "PC": 129
+  },
+  "channels": {
+   "OrganicSearch": 860,
+   "Direct": 39,
+   "Referral": 136,
+   "Other": 224,
+   "AiPlatform": 28
+  }
+ }
+]
