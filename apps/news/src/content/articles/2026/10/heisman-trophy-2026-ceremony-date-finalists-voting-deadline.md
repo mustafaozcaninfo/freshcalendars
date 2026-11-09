@@ -54,7 +54,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [army-navy-game-2026-date-kickoff-time-metlife-stadium-tv, college-football-playoff-rankings-2026-schedule-dates-times, college-football-conference-championship-games-2026-schedule-times-tv]
+related: [army-navy-game-2026-date-kickoff-time-metlife-stadium-tv, college-football-playoff-rankings-2026-schedule-dates-times, baseball-hall-of-fame-contemporary-era-committee-vote-december-6-2026]
 assets:
   overlay: true
   kicker: "Heisman Trophy 2026 · Sat., Dec. 12"
