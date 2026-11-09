@@ -90,7 +90,8 @@ Tested Nov. 9, 2026 (`shop/API.md` > Import products):
 7. **Check**: run `python3 shop/tools/product_check.py --sync` once per batch, then `python3 shop/tools/product_check.py --live <draft>` for each draft; fix every FAIL. Drafts in `.cache/shop/products/drafts/` are compared with each other too, so a batch cannot copy itself.
 8. **Write and publish**: back up, then `PATCH products/{id}` with the fields and `enabled: true`, `in_sitemap: true`. Clear the cache.
 9. **Check the live page** after 2-4 minutes at 360 and 1440 px with `shop/tools/ui_shot.mjs`: one H1, the table scrolls on phones, the price and buy button show.
-10. **Join a brand** when the brand page is enabled. A new brand gets a page only when it has 3 or more live products.
+10. **New categories open first.** A hidden category answers 404, so `--live` stops every page that links it. When a hidden category has 5 or more passing drafts, enable it, clear the cache, wait for the category URL to answer 200, then publish its products. Categories with fewer drafts stay hidden and their drafts wait.
+11. **Join a brand** when the brand page is enabled. A new brand gets a page only when it has 3 or more live products.
 
 A batch: agents find ASINs (`shop/tools/import_products.py create` imports them hidden; `verify` writes each listing to `.cache/shop/import/listings/`) and draft pages into files with the brief, family guide and link pools in `references/briefs.md`; only the main session calls the API (60 requests a minute, about 5 calls a product).
 
