@@ -23,6 +23,8 @@ import ShareIcons from "../../components/ShareIcons.astro";
 import NewsBar from "../../components/NewsBar.astro";
 import StoryNav from "../../components/StoryNav.astro";
 import Trending from "../../components/Trending.astro";
+import ShopCard from "../../components/ShopCard.astro";
+import { shopCampaign } from "../../lib/shop";
 import { authorHref, getPublishedArticles, lastModified, type Article } from "../../lib/articles";
 import { authorImage, heroImages } from "../../lib/images";
 import { SITE_ORIGIN, absNewsUrl } from "../../lib/site";
@@ -208,6 +210,7 @@ const puzzleDay = pzThis ? {
       <Content />
     </div>
     <DownloadGrid items={d.downloads} pageUrl={absNewsUrl(articlePath(article.id))} />
+    <ShopCard campaign={shopCampaign(d.shop)} slug={article.id} />
     <div class="after">
       <ShareBar url={absNewsUrl(articlePath(article.id))} title={d.title} image={shareImage} />
       <a class="top-link" href="#main">Back to top ↑</a>
