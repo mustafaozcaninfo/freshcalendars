@@ -66,7 +66,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [twelve-days-of-christmas-2026-dates-epiphany-printable, saint-nicholas-day-2026-december-6-eve-december-5, our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24]
+related: [twelve-days-of-christmas-2026-dates-epiphany-printable, saint-nicholas-day-2026-december-6-eve-december-5, stir-up-sunday-2026-november-22-christmas-pudding]
 downloads:
   - group: "Advent 2026 Wreath Candle Tracker printables"
     title: "Advent 2026 Wreath Candle Tracker"
@@ -125,7 +125,7 @@ The USCCB describes Advent as the four Sundays, and the weekdays, leading up to 
 | Fourth Sunday of Advent | Sun., Dec. 20, 2026 | Purple | |
 | Last day of Advent | Thu., Dec. 24, 2026 | None | Christmas is Fri., Dec. 25 |
 
-Weekdays are computed for 2026 and match the USCCB calendar for the first Sunday and the season's end.
+Weekdays are computed for 2026 and match the USCCB calendar for the first Sunday and the season's end. The Sunday before, 22 November, is Stir-up Sunday in Britain; see [Stir-up Sunday 2026 dates and the pudding tradition](/news/stir-up-sunday-2026-november-22-christmas-pudding/).
 
 ## What order are the Advent wreath candles lit in?
 

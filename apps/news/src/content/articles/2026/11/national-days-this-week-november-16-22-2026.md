@@ -143,7 +143,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [great-american-smokeout-2026-november-19-quit-day-planner, world-toilet-day-2026-november-19, national-adoption-day-2026-november-21]
+related: [great-american-smokeout-2026-november-19-quit-day-planner, world-toilet-day-2026-november-19, national-days-this-week-november-23-29-2026]
 downloads:
   - group: "National Days This Week printables"
     title: "National Days This Week, Nov. 16-22, 2026"
@@ -210,3 +210,5 @@ National Adoption Day is Saturday, Nov. 21, 2026 on the coalition's site; see [N
 ## Printable planner for Nov. 16-22, 2026
 
 The one-page planner repeats the table by day, grouped by who sets each observance in three columns (UN, UNESCO and WHO; U.S. groups; Other organizers), with a Done box and space for notes. Each row carries the source's own words. Pair it with the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html) for the rest of your week.
+
+Next week's list, [national days for Nov. 23-29, 2026](/news/national-days-this-week-november-23-29-2026/), starts with Thanksgiving Day on Nov. 26.
