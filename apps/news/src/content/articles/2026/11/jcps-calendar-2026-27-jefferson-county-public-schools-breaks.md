@@ -63,7 +63,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/may-calendars.html"
     label: "May 2027 printable calendar"
-related: [metro-nashville-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts, memphis-shelby-county-schools-calendar-2026-27-breaks]
+related: [metro-nashville-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts, fayette-county-public-schools-calendar-2026-27]
 assets:
   overlay: true
   kicker: "JCPS 2026-27"
