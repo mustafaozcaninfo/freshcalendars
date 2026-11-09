@@ -21,7 +21,15 @@
   },
   {
     "date": "2026-12-03",
-    "label": "California counties send final results to the Secretary of State"
+    "label": "California counties complete final official results"
+  },
+  {
+    "date": "2026-12-04",
+    "label": "California counties report final results for state and federal contests to the Secretary of State"
+  },
+  {
+    "date": "2026-12-11",
+    "label": "California Secretary of State certifies the results"
   },
   {
     "date": "2026-11-24",
