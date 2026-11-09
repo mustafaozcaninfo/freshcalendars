@@ -66,7 +66,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [advent-calendar-2026-dates-free-printable, saint-nicholas-day-2026-december-6-eve-december-5, our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24]
+related: [twelve-days-of-christmas-2026-dates-epiphany-printable, saint-nicholas-day-2026-december-6-eve-december-5, our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24]
 downloads:
   - group: "Advent 2026 Wreath Candle Tracker printables"
     title: "Advent 2026 Wreath Candle Tracker"
