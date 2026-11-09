@@ -54,7 +54,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [clark-county-school-district-calendar-2026-27-breaks, douglas-county-school-district-calendar-2026-27-breaks, wichita-public-schools-calendar-2026-27]
+related: [clark-county-school-district-calendar-2026-27-breaks, douglas-county-school-district-calendar-2026-27-breaks, jeffco-public-schools-calendar-2026-27]
 assets:
   overlay: true
   kicker: "Denver Public Schools · 2026-27"
