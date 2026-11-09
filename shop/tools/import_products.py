@@ -5,6 +5,7 @@ Usage:
   python3 shop/tools/import_products.py verify                            read back every imported product: price, stock,
                                                                           listing; write listings/<id>.json; mark failures
   python3 shop/tools/import_products.py drop-failed                       delete products whose offer has no price or stock
+  python3 shop/tools/import_products.py reconcile <candidates.json>     add products created after a stopped run's last save
   python3 shop/tools/import_products.py status                            counts by state and category
 
 Candidates are JSON arrays of {"asin", "category": "<category slug>", "title"}. State lives in
@@ -121,6 +122,28 @@ def drop_failed():
     save_state(st); status()
 
 
+def reconcile(files):
+    """Add products a stopped run created after its last save (hidden, linked, missing from state)."""
+    st = load_state(); known = {x['pid'] for x in st.values()}
+    cand = {}
+    for f in files:
+        for r in json.loads(Path(f).read_text()): cand[(r.get('asin') or '').upper()] = r
+    page, found = 1, 0
+    while True:
+        s, d = api('GET', f'products?enabled=0&per_page=100&page={page}')
+        for p in d.get('data', []):
+            if p['id'] in known or p['id'] < 326: continue
+            s2, full = api('GET', f"products/{p['id']}?include=offers")
+            o = next((o for o in (full.get('data') or {}).get('offers') or [] if o.get('merchant') == 'amazon'), None)
+            if o and o['merchant_offer_id'] in cand and o['merchant_offer_id'] not in st:
+                st[o['merchant_offer_id']] = {'pid': p['id'], 'oid': o['id'], 'category': cand[o['merchant_offer_id']]['category'],
+                                              'state': 'created', 'title_hint': p['title']}
+                found += 1
+        if page >= d.get('meta', {}).get('last_page', 1): break
+        page += 1
+    save_state(st); print('reconciled', found)
+
+
 def status():
     st = load_state()
     from collections import Counter
@@ -133,4 +156,4 @@ if __name__ == '__main__':
     a = sys.argv[1:]
     if not a: sys.exit(__doc__)
     DIR.mkdir(parents=True, exist_ok=True)
-    {'create': lambda: create(a[1:]), 'verify': verify, 'drop-failed': drop_failed, 'status': status}[a[0]]()
+    {'create': lambda: create(a[1:]), 'reconcile': lambda: reconcile(a[1:]), 'verify': verify, 'drop-failed': drop_failed, 'status': status}[a[0]]()
