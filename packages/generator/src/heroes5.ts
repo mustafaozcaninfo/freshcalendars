@@ -415,6 +415,10 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-pips-hints-answers-november-20-2026", "pips", "#1e293b", "#fca5a5", "Pips · Fri., Nov. 20, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
   ["nyt-spelling-bee-hints-answers-november-20-2026", "bee", "#1c1917", "#fdba74", "Spelling Bee · Fri., Nov. 20, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
   ["nyt-letter-boxed-answer-hints-november-11-2026", "letterboxed", "#3d1f1a", "#86efac", "Letter Boxed · Wed., Nov. 11, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["nyt-mini-crossword-answers-november-9-2026", "mini", "#0f1d2e", "#93c5fd", "NYT Mini · Mon., Nov. 9, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end."],
+  ["nyt-midi-crossword-answers-november-9-2026", "midi", "#13213a", "#fcd34d", "NYT Midi · Mon., Nov. 9, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end."],
+  ["nyt-crossword-answers-november-9-2026", "crossword", "#172033", "#c4b5fd", "NYT Crossword · Mon., Nov. 9, 2026", "NYT Crossword answers", "A hint for every clue first, the full solved grid at the end."],
+  ["nyt-letter-boxed-answer-hints-november-12-2026", "letterboxed", "#3d1f1a", "#fca5a5", "Letter Boxed · Thu., Nov. 12, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["contexto-answer-hints-november-13-2026-1517", "contexto", "#0f172a", "#93c5fd", "Contexto #1517 · Fri., Nov. 13, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
 ];
 
