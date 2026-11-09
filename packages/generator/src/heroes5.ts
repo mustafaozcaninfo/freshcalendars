@@ -420,6 +420,12 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-crossword-answers-november-9-2026", "crossword", "#172033", "#c4b5fd", "NYT Crossword · Mon., Nov. 9, 2026", "NYT Crossword answers", "A hint for every clue first, the full solved grid at the end."],
   ["nyt-letter-boxed-answer-hints-november-12-2026", "letterboxed", "#3d1f1a", "#fca5a5", "Letter Boxed · Thu., Nov. 12, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
   ["contexto-answer-hints-november-13-2026-1517", "contexto", "#0f172a", "#93c5fd", "Contexto #1517 · Fri., Nov. 13, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
+  ["wordle-hint-answer-today-november-21-2026-1981", "wordle", "#121213", "#c9b458", "Wordle #1981 · Sat., Nov. 21, 2026", "Wordle hints today", "Clues from gentle to strong, the answer only at the end.", "wordle-november-21-b"],
+  ["nyt-strands-hints-answers-november-21-2026-993", "strands", "#0f2f3a", "#aedfee", "Strands #993 · Sat., Nov. 21, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end."],
+  ["nyt-pips-hints-answers-november-21-2026", "pips", "#1e293b", "#93c5fd", "Pips · Sat., Nov. 21, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end."],
+  ["nyt-spelling-bee-hints-answers-november-21-2026", "bee", "#1c1917", "#fde047", "Spelling Bee · Sat., Nov. 21, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end."],
+  ["nyt-letter-boxed-answer-hints-november-13-2026", "letterboxed", "#3d1f1a", "#93c5fd", "Letter Boxed · Fri., Nov. 13, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end."],
+  ["contexto-answer-hints-november-14-2026-1518", "contexto", "#0f172a", "#86efac", "Contexto #1518 · Sat., Nov. 14, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end."],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
