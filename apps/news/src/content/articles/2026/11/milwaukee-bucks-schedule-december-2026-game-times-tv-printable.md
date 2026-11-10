@@ -89,7 +89,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [milwaukee-bucks-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, golden-state-warriors-schedule-december-2026-game-times-tv-christmas-printable]
+related: [milwaukee-bucks-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, dallas-mavericks-schedule-december-2026-game-times-tv-printable]
 draft: false
 ---
 
