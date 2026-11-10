@@ -101,7 +101,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, celtics-schedule-november-2026-game-times-tv-nba-cup-printable, raptors-schedule-november-2026-game-times-tv-nba-cup-printable]
+related: [milwaukee-bucks-schedule-december-2026-game-times-tv-printable, celtics-schedule-november-2026-game-times-tv-nba-cup-printable, raptors-schedule-november-2026-game-times-tv-nba-cup-printable]
 draft: false
 ---
 

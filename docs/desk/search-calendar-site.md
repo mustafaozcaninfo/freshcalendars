@@ -2,6 +2,11 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-09 (search desk, evening)
+
+- **The noindex note is closed.** Read of Nov. 9, 19:47 UTC (windows still end Nov. 6, the same as the morning read): 90 of 90 sampled stories "Submitted and indexed" (gate 59 of 59, 100%), so /news/catholic-liturgical-calendar-2027-year-b/ is now indexed; strike the noindex item of Nov. 7-9. All three sitemaps 0 errors (/news/sitemap.xml 1,141 URLs). No volume signal.
+- **Still no briefs before Nov. 22.** Same candidates as the morning; each was retitled by the Nov. 8 headline migration or is a past event, a puzzle page or a date Google answers. The /september-calendars.html title template note (Nov. 7) and the Discover check (0 for a fourth window) stand.
+
 ## 2026-11-09 (search desk, morning)
 
 - **Indexing and sitemaps clear, no volume signal; the noindex is still open.** Read of Nov. 9, 09:13 UTC (windows to Nov. 6): 89 of 90 sampled stories "Submitted and indexed" (gate 60 of 60, 100%), all three sitemaps 0 errors (/news/sitemap.xml 1,140 URLs). /news/catholic-liturgical-calendar-2027-year-b/ is still "Excluded by 'noindex' tag" (5 days old, third read in a row): it needs the manager's look at the template or build that adds the tag, then a "Request indexing" in Search Console.
