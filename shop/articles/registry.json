@@ -2326,6 +2326,44 @@
   "refresh_by": "2026-12-10"
  },
  {
+  "slug": "dotted-journals-under-15",
+  "id": 66,
+  "title": "Dotted Journals Under $15: 9 Compared by Price per 100 Pages",
+  "type": "price",
+  "primary_query": "dotted journals under $15",
+  "cluster": "journals-under-15",
+  "products": [
+   142,
+   146,
+   153,
+   154,
+   155,
+   218,
+   250,
+   1140,
+   1194
+  ],
+  "h2": [
+   "How the nine dotted journals were priced",
+   "What the money buys under $15: pages, weight or size",
+   "Lowest cost per page: Volinote and CAGIE",
+   "Small and cheap: the A6 pocket pair and the lowest price",
+   "Gift-ready journals and a B5 with more room",
+   "Heavier paper under $15: Hustle Co., Beechmore and AHGXG",
+   "Is 100 gsm enough for a dot grid journal?",
+   "What the price cap leaves out"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/1166636/pexels-photo-1166636.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-23T09:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
   "slug": "gifts-for-journalers-under-25",
   "id": 67,
   "title": "Gifts for Journalers Under $25: 9 Picks, Cost per Roll and Page",
@@ -2437,6 +2475,1220 @@
   ],
   "image": "https://images.pexels.com/photos/10607182/pexels-photo-10607182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
   "published_at": "2026-11-13T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-washi-tape-sets",
+  "id": 70,
+  "title": "Best Washi Tape Sets: 8 Sets by Width and Tape per Dollar",
+  "type": "best",
+  "primary_query": "best washi tape sets",
+  "cluster": "washi-tape",
+  "products": [
+   84,
+   88,
+   246,
+   267,
+   288,
+   724,
+   727,
+   1323
+  ],
+  "h2": [
+   "How these eight washi tape sets were compared",
+   "Gold foil and the top Score: Hwook, 24 rolls in three widths",
+   "For slim dividers and bullet journal borders: YUBBAEX and YUBX Galaxy",
+   "For the most tape per dollar: Maartla, MOOKER and KUNMINGER",
+   "Black and white tape with the longest rolls: Outus",
+   "Floral Butterfly: four widths, no roll length",
+   "Which washi tape width fits a weekly spread?"
+  ],
+  "related": [
+   "planner-accessories-guide",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/4729797/pexels-photo-4729797.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-15T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "erin-condren-planner-alternatives",
+  "id": 71,
+  "title": "Erin Condren Planner Alternatives: 7 Picks by Size and Layout",
+  "type": "alternatives",
+  "primary_query": "erin condren planner alternatives",
+  "cluster": "erin-condren-alternatives",
+  "products": [
+   112,
+   194,
+   196,
+   279,
+   281,
+   282,
+   306
+  ],
+  "h2": [
+   "How the seven alternatives were picked",
+   "Horizontal weekly pages: GoGirl Planner PRO",
+   "An hourly day page: Day Designer",
+   "Rings and refills: the Fan&Ran leather binder",
+   "Dated A5-class weeklies: Traceform and Amoroud",
+   "Undated pages, 120 gsm: Ricco Bello",
+   "A school-year planner with tabs: Notbokpa",
+   "What each alternative costs per month",
+   "Does 80 lb paper equal 100 gsm?",
+   "When an Erin Condren planner is still worth buying"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "best-calendar-year-planners"
+  ],
+  "image": "https://images.unsplash.com/photo-1606327054629-64c8b0fd6e4f?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwyfHxwbGFubmVyJTIwb24lMjBkZXNrfGVufDF8MHx8fDE3OTQzMDgzMTR8MA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-19T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "how-to-time-block-in-a-planner",
+  "id": 72,
+  "title": "How to Time Block in a Planner: A Worked 13-Hour Day, 5 Layouts",
+  "type": "howto",
+  "primary_query": "how to time block in a planner",
+  "cluster": "time-blocking",
+  "products": [
+   194,
+   208,
+   1052,
+   1064,
+   1659
+  ],
+  "h2": [
+   "Step 1: Write the fixed commitments first",
+   "Step 2: Give each task a length, then round up",
+   "Step 3: Place the hard work in your clearest hours",
+   "Step 4: Leave a buffer after each long block",
+   "Step 5: Move, do not delete, what you did not finish",
+   "Which planner pages already have the time slots",
+   "A weekday grid with printed hours: MINPPEN",
+   "Half-hour rows for short tasks: the 30-minute appointment book",
+   "One day per sheet: the Time Blocks notepad",
+   "Undated daily pages: Smart Planner Pro and Day Designer",
+   "Can I time block with a weekly planner I already own?"
+  ],
+  "related": [
+   "how-to-use-a-daily-planner",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/29996965/pexels-photo-29996965.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-22T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "journaling-pens-under-10",
+  "id": 74,
+  "title": "Journaling Pens Under $10: 8 Sets Compared by Price per Pen",
+  "type": "price",
+  "primary_query": "journaling pens under $10",
+  "cluster": "pens-under-10",
+  "products": [
+   70,
+   72,
+   961,
+   986,
+   1187,
+   1258,
+   1260,
+   1549
+  ],
+  "h2": [
+   "How the eight pen sets were priced and sorted",
+   "What a few more dollars buy: from a combo set to waterproof ink",
+   "Black ink for writing: Uixjodo, Muchcute and Sakura",
+   "Color for planning: fineliners, 36 colors and a combo set",
+   "Lettering and ballpoint options",
+   "Do any of these pens bleed on thin paper?",
+   "Limits of a low price cap on pens"
+  ],
+  "related": [
+   "planner-accessories-guide",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/9099585/pexels-photo-9099585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-23T10:15:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-academic-planners",
+  "id": 75,
+  "title": "Best Academic Planners 2026-2027: July Start, Price per Month",
+  "type": "best",
+  "primary_query": "best academic planners 2026-2027",
+  "cluster": "academic-planners-2026-27",
+  "products": [
+   124,
+   126,
+   128,
+   137,
+   306,
+   706,
+   742,
+   893,
+   1313
+  ],
+  "h2": [
+   "How these nine planners were picked",
+   "July start or August start: what the dates cover",
+   "What each planner costs per month",
+   "A5 and hardcover: the Notbokpa watercolor planner",
+   "For middle and high school: Worpice 9 x 11 with 368 stickers",
+   "Monday to Friday pages: Indeme green student planner",
+   "Checkered cover, 8.5 x 5.8 spiral: ZICOTO",
+   "5 x 8 and wirebound: Blue Sky Enterprise",
+   "Hardcover with tabs and a clear pocket: Taja purple blocks",
+   "August start with science, English and math pages: the blue 9 x 11",
+   "Waterproof PVC cover, A5 spiral: the 6.4 x 8.3 planner",
+   "For classroom planning: green teacher planner with nine class periods",
+   "How big a planner can a backpack carry?"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-dates-and-holidays",
+   "how-to-use-a-daily-planner"
+  ],
+  "image": "https://images.pexels.com/photos/19915780/pexels-photo-19915780.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-23T11:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-teacher-planners",
+  "id": 76,
+  "title": "Best Teacher Planners 2026-2027: Periods, Pages, Price per Week",
+  "type": "best",
+  "primary_query": "best teacher planners 2026-2027",
+  "cluster": "teacher-planners",
+  "products": [
+   201,
+   205,
+   206,
+   1085,
+   1086,
+   1087,
+   1089,
+   1102,
+   1710
+  ],
+  "h2": [
+   "How the nine lesson planners were chosen",
+   "Seven periods, eight periods or nine: the layout decides the book",
+   "Dated or undated: which one survives a schedule change",
+   "Cost per planning week",
+   "For seven periods with gradebooks: bloom daily planners undated",
+   "For July to June with nine daily sections: Oil Painting",
+   "With a gradebook and communication log: Pinecone",
+   "Lowest price per week: Floral teacher planner",
+   "Calendar-year teacher planner: Teacher Planner 2027",
+   "Undated with stickers and seven sections a day",
+   "Days down the side, 8 periods: Elan lesson plan book",
+   "August to July with a record book: Majosta lesson planner",
+   "Can one planner cover a homeschool year?"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/6929167/pexels-photo-6929167.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-23T12:45:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-dotted-journals",
+  "id": 77,
+  "title": "Best Dotted Journals: Paper Weight and Cost per 100 Pages",
+  "type": "best",
+  "primary_query": "best dotted journals",
+  "cluster": "dotted-journals",
+  "products": [
+   44,
+   214,
+   223,
+   250,
+   252,
+   886,
+   1113,
+   1193,
+   1238
+  ],
+  "h2": [
+   "How the nine dotted journals were compared",
+   "What 160 gsm adds over 120 gsm",
+   "Cost per 100 pages, from lowest to highest",
+   "Dot spacing and dot count",
+   "For the thickest paper here: VIVID SCRIBBLES A5",
+   "For sewn binding and gilded edges: A5 Bullet Dotted in Moonlit Balcony",
+   "Fewer extras at 160 gsm: SeQeS A5 Dotted Hardcover",
+   "Lowest-priced hardcover at 120 gsm: HUSTLE Co. A5",
+   "Softcover to carry: ZenART A5 and B5",
+   "Largest page and lowest cost: POPRUN B5 spiral",
+   "Starter kits with pens and stencils: Y&I and feela",
+   "How many pages a day does a journal give in 2027?"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/8702211/pexels-photo-8702211.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-23T14:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-graph-paper-notebooks",
+  "id": 78,
+  "title": "Best Graph Paper Notebooks: 9 Compared by Paper and Page Cost",
+  "type": "best",
+  "primary_query": "best graph paper notebooks",
+  "cluster": "graph-paper-journals",
+  "products": [
+   51,
+   156,
+   157,
+   158,
+   159,
+   222,
+   224,
+   226,
+   1120
+  ],
+  "h2": [
+   "How the nine graph notebooks were compared",
+   "Thickest paper: Ursunshine, 120 gsm at 5.3 x 8.26 inches",
+   "Most pages on a 5 mm grid: CAGIE A5, 320 pages",
+   "For numbered pages and an index: Offigift B5",
+   "Lowest cost per page: Mr. Pen A5 with a pen included",
+   "Spiral for flat pages: RETTACY A5 3-pack",
+   "Class sets: Manaloom spiral 12-pack, quad ruled",
+   "Three more A5-size hardcovers",
+   "Is 80 gsm graph paper enough?",
+   "What does 5 squares per inch mean?",
+   "Free printables for the same jobs"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/134054/pexels-photo-134054.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-23T16:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-lined-journals",
+  "id": 79,
+  "title": "Best Lined Journals: 10 Compared by Line Spacing and Page Cost",
+  "type": "best",
+  "primary_query": "best lined journals",
+  "cluster": "lined-journals",
+  "products": [
+   1066,
+   1067,
+   1068,
+   1069,
+   1070,
+   1071,
+   1074,
+   1080,
+   1082,
+   1647
+  ],
+  "h2": [
+   "What the ten lined journals were measured on",
+   "Lowest price per page: the A5 black hardcover, 320 pages",
+   "Numbered pages and a contents spread: the A5 brown, 160 pages",
+   "Widest lines: Biuwory, 8.5 mm on 80 gsm paper",
+   "Most space per page: the 8.5 x 11 inch hardcover",
+   "A bigger softcover: B5, 304 numbered pages",
+   "Five A5 journals where the cover or page count decides",
+   "How wide is 7 mm ruling?",
+   "Do lined journals need 100 gsm paper?",
+   "Where to go next"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/7657382/pexels-photo-7657382.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-23T17:45:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-refillable-journals",
+  "id": 80,
+  "title": "Best Refillable Journals: 10 Compared by Binding and Paper",
+  "type": "best",
+  "primary_query": "best refillable journals",
+  "cluster": "refillable-journals",
+  "products": [
+   227,
+   229,
+   230,
+   1115,
+   1116,
+   1117,
+   1118,
+   1676,
+   1688,
+   1691
+  ],
+  "h2": [
+   "How refillable journals differ before you compare them",
+   "Pages included and the heaviest paper: Compass leather journal",
+   "Clearest refill path: Wanderings with three inserts",
+   "Pages and a pen for a first fill: WONDERPOOL A5",
+   "Genuine leather, pages and card slots: A5 binder with 80 sheets",
+   "Lined and blank pages together: Coffee Sun A5",
+   "Smallest included stack: Blue Morning Glory A5",
+   "Covers for pages you already own",
+   "How many sheets fit in a 6-ring A5 binder?",
+   "What does a refillable journal cost over time?"
+  ],
+  "related": [
+   "types-of-journals",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.unsplash.com/photo-1677064061401-f77f966ff8a1?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxsZWF0aGVyJTIwcmVmaWxsYWJsZSUyMGpvdXJuYWx8ZW58MXwwfHx8MTc5NDMwODcyNHww&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-24T06:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-spiral-notebooks",
+  "id": 81,
+  "title": "Best Spiral Notebooks: 9 Compared by Pages and Price per 100",
+  "type": "best",
+  "primary_query": "best spiral notebooks",
+  "cluster": "spiral-composition-notebooks",
+  "products": [
+   1072,
+   1078,
+   1151,
+   1152,
+   1153,
+   1374,
+   1376,
+   1417,
+   1424
+  ],
+  "h2": [
+   "How the nine notebooks were sorted",
+   "Spiral notebook or composition book: what the listings say",
+   "Fewest dollars per page: Taja Green Hardcover Spiral",
+   "Most pages in one cover: the 300-page 5-Subject A5",
+   "Five sections with pockets: the purple 5 Subject A5",
+   "A 160-page A5 with a back pocket: the floral hardcover",
+   "Two near-twins at 120 pages: cat in grass and cherries",
+   "Two floral notebooks in one pack",
+   "Marble composition books for classroom sets",
+   "A 30-pack of kraft notebooks for class sets and team handouts",
+   "Which ruling and page count do you need?"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/5861186/pexels-photo-5861186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-24T09:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-prayer-journals",
+  "id": 82,
+  "title": "Best Prayer Journals: 6 Compared by Length and Price per Week",
+  "type": "best",
+  "primary_query": "best prayer journals",
+  "cluster": "prayer-journals",
+  "products": [
+   240,
+   859,
+   865,
+   918,
+   919,
+   922
+  ],
+  "h2": [
+   "What the six listings give you to compare",
+   "A year of guided prayer pages: Coffee and Bible Time",
+   "A 59-week plan at 6 x 9 inches: the scripture guide",
+   "Three months, 110 pages, letter size: My Bible Study Journal",
+   "Sermon notes with a prayer line: the Steadfast and Sustained pair",
+   "A church notes journal that comes with a pen",
+   "Choosing between guided length and open pages"
+  ],
+  "related": [
+   "journaling-for-beginners",
+   "types-of-journals"
+  ],
+  "image": "https://images.pexels.com/photos/5546879/pexels-photo-5546879.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-24T10:15:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-baby-memory-books",
+  "id": 83,
+  "title": "Best Baby Memory Books: 7 Compared by Span, Pages and Paper",
+  "type": "best",
+  "primary_query": "best baby memory books",
+  "cluster": "baby-memory-books",
+  "products": [
+   369,
+   370,
+   377,
+   378,
+   379,
+   420,
+   421
+  ],
+  "h2": [
+   "Four baby books and three pregnancy journals, sorted by span",
+   "How many pages per year does each book give you?",
+   "For the first 12 months only: Baby's First Year Book, Ocean Nautical",
+   "Birth to age 5 on 120 pages: Keepsake Baby Memory Book",
+   "The lower-cost five-year book: WonderLand First 5 Years",
+   "Pregnancy to age 5 in 48 guided pages: Lucy Darling Little Goose",
+   "Pregnancy journals for families who start early",
+   "What to check before you buy a baby book"
+  ],
+  "related": [
+   "best-gratitude-journals",
+   "types-of-journals"
+  ],
+  "image": "https://images.pexels.com/photos/38044186/pexels-photo-38044186.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-24T11:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-journals-with-numbered-pages",
+  "id": 84,
+  "title": "Best Journals With Numbered Pages: 8 by Index, Pages and GSM",
+  "type": "best",
+  "primary_query": "best journals with numbered pages",
+  "cluster": "numbered-pages-journals",
+  "products": [
+   60,
+   160,
+   161,
+   276,
+   278,
+   1026,
+   1030,
+   1466
+  ],
+  "h2": [
+   "Numbered pages, index pages and page counts side by side",
+   "Does a page-a-day habit fit in one numbered journal?",
+   "The only scored journal: Offigift Bullet Dotted, B5",
+   "The most numbered pages: B5 Dotted with 360",
+   "A4 dotted with an index: the large-page option",
+   "Lowest cost per numbered page: Forvencer Lined Spiral",
+   "A5 and lined at 192 pages: RETTACY",
+   "Leuchtturm1917: lower gsm, thread-bound, 251 pages",
+   "Rhodia Goalbook and the Inventor's Notebook: two different jobs",
+   "Numbered pages versus an index: which one do you need?"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.unsplash.com/photo-1651761409007-0395097c269d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxkb3R0ZWQlMjBqb3VybmFsJTIwbnVtYmVyZWQlMjBwYWdlc3xlbnwxfDB8fHwxNzk0MzA4ODAzfDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-24T12:45:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-highlighters-for-planners",
+  "id": 85,
+  "title": "Best Highlighters for Planners: 9 Sets by Price per Piece",
+  "type": "best",
+  "primary_query": "best highlighters for planners",
+  "cluster": "highlighters",
+  "products": [
+   1135,
+   1137,
+   1162,
+   1164,
+   1183,
+   1187,
+   1195,
+   1196,
+   1198
+  ],
+  "h2": [
+   "What the listings say about nine highlighter sets",
+   "Dual-tip pick for thin pages: Zebra Mildliner 5-pack",
+   "For a full color-code system: Zebra Mildliner 25-pack",
+   "Three line widths from one tip: Faber-Castell Pastel 8-pack",
+   "Pastel chisel for thin pages: Decorably 12-pack",
+   "Pastel with a fine tip at the other end: BLIEVE 8-pack",
+   "Pastel set with a clear cap: BOLOBLMEE 12-pack",
+   "Lowest cost per marker: Dacono 12-pack",
+   "A different tool: PATIKIL twist-up gel highlighters",
+   "Bundle with gel pens: IGreis highlighters and pens",
+   "Will a highlighter bleed through my planner pages?",
+   "Color-coding a printed weekly or monthly spread"
+  ],
+  "related": [
+   "planner-accessories-guide",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/6969283/pexels-photo-6969283.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-24T14:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-bullet-journal-stencils",
+  "id": 86,
+  "title": "Best Bullet Journal Stencils: 6 Sets by Size and Price per Stencil",
+  "type": "best",
+  "primary_query": "best bullet journal stencils",
+  "cluster": "stencils",
+  "products": [
+   270,
+   301,
+   1145,
+   1149,
+   1150,
+   1175
+  ],
+  "h2": [
+   "Six journal stencil sets, sorted by what the listing states",
+   "Best fit for 5 mm dots: Midenco 36-piece set",
+   "Ruler and file bag included: Outus 48-piece set",
+   "Most stencils per dollar: the 68-piece layout set",
+   "Layouts plus stickers: ALODNY 24-piece set",
+   "A theme for every month: 36-piece seasonal set",
+   "For headings and labels only: 40-piece letter and number set",
+   "Will a stencil line up with my notebook's dots?",
+   "Which stencil suits which pen?",
+   "Planning the twelve monthly spreads of 2027"
+  ],
+  "related": [
+   "planner-accessories-guide",
+   "how-to-use-a-daily-planner"
+  ],
+  "image": "https://images.pexels.com/photos/1074921/pexels-photo-1074921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-24T15:15:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-sticky-notes-and-tabs-for-planners",
+  "id": 87,
+  "title": "Best Sticky Notes and Tabs for Planners: 8 Sets by Job and Price",
+  "type": "best",
+  "primary_query": "best sticky notes and tabs for planners",
+  "cluster": "sticky-notes-tabs",
+  "products": [
+   578,
+   579,
+   582,
+   654,
+   657,
+   1381,
+   1401,
+   1429
+  ],
+  "h2": [
+   "Eight sticky note and tab sets, split by the job they do",
+   "Month dividers: AHANDMAKER line art floral tabs",
+   "Page flags: Outus 800 clear index tabs",
+   "Notes in six sizes: the 1,000-sheet transparent set",
+   "Pastel clear notes: 300 sheets in six colors",
+   "Clear notes in a mixed color set: MIUTME 500 pieces",
+   "Stronger hold: Post-it Super Sticky 15-pack",
+   "Lined, blank or grid notes: kawaii bear 640-sheet set",
+   "Largest lined notes: HQCME 4 x 6 in pads",
+   "Will sticky notes tear thin planner pages?",
+   "Which pens work on transparent notes?",
+   "Tabs and notes for the planner year that starts Friday, January 1, 2027"
+  ],
+  "related": [
+   "planner-accessories-guide",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/6193312/pexels-photo-6193312.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-24T16:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-stamps-for-planners",
+  "id": 88,
+  "title": "Best Stamps for Planners: 7 Picks, From Clear Sets to Date Stamps",
+  "type": "best",
+  "primary_query": "best stamps for planners",
+  "cluster": "planner-stamps",
+  "products": [
+   464,
+   465,
+   496,
+   497,
+   498,
+   501,
+   502
+  ],
+  "h2": [
+   "Seven stamp products for planners, grouped by what they print",
+   "Layout stamps: Zonon 18 designs on four sheets",
+   "One big weekly layout: CRASPIRE clear stamp sheet",
+   "Fifteen colors: PMLAND washable craft ink pads",
+   "Four shades per pad: rainbow gradient ink pads",
+   "Lowest price per year of dates: refillable self-inking date stamp",
+   "Name-brand office stamp: Amazon Basics self-inking date stamp",
+   "Choose your size and ink: custom self-inking date stamp",
+   "Which ink pad goes with clear planner stamps?",
+   "Is a date stamp useful in a planner?"
+  ],
+  "related": [
+   "planner-accessories-guide",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/10443100/pexels-photo-10443100.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-24T17:45:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "moleskine-alternatives",
+  "id": 89,
+  "title": "Moleskine Alternatives: 7 Notebooks by Paper Weight and Cost per Page",
+  "type": "alternatives",
+  "primary_query": "moleskine alternatives",
+  "cluster": "moleskine-alternatives",
+  "products": [
+   214,
+   252,
+   829,
+   840,
+   1067,
+   1070,
+   1193
+  ],
+  "h2": [
+   "What we know about the original, and what we left out",
+   "How the seven were chosen",
+   "Lined hardcovers that cost less per page",
+   "Thicker paper for wet pens",
+   "Pocket-size notebooks for a coat or a purse",
+   "A larger page with a spiral",
+   "Cost per 100 pages, worked out",
+   "If you already own the original"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/10024578/pexels-photo-10024578.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-25T06:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "dotted-vs-grid-notebook",
+  "id": 90,
+  "title": "Dotted vs Grid Notebook: 5 mm Spacing, 3 Notebooks Compared",
+  "type": "versus",
+  "primary_query": "dotted vs grid notebook",
+  "cluster": "dotted-vs-grid",
+  "products": [
+   224,
+   1113,
+   1193
+  ],
+  "h2": [
+   "Dots mark the corners; squares draw every line",
+   "Lay-flat matters more for dots",
+   "Paper weight and ghosting by pattern",
+   "Two B5 sizes, not one",
+   "What each listing says you can do with it",
+   "Cost per 100 pages",
+   "Choose dotted if you plan; choose squared if you measure",
+   "A missing Score is not a low Score",
+   "Try a grid before you commit"
+  ],
+  "related": [
+   "types-of-journals"
+  ],
+  "image": "https://images.pexels.com/photos/867483/pexels-photo-867483.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-25T09:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "spiral-vs-bound-planner",
+  "id": 91,
+  "title": "Spiral vs Bound Planner: 4 Compared by Binding and Cost per Month",
+  "type": "versus",
+  "primary_query": "spiral vs bound planner",
+  "cluster": "spiral-vs-bound-planner",
+  "products": [
+   196,
+   208,
+   279,
+   282
+  ],
+  "h2": [
+   "What each listing says about the spine",
+   "Lay flat: claims, not measurements",
+   "Dates decide how long the book lasts",
+   "Cost per month of planning pages",
+   "Fittings beyond the spine",
+   "Choose spiral or bound by what you do with the page",
+   "What the listings leave out",
+   "Check the layout before you choose the binding"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/5908723/pexels-photo-5908723.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-25T10:15:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "academic-planner-vs-calendar-year-planner",
+  "id": 92,
+  "title": "Academic Planner vs Calendar Year Planner: Holidays in Each Span",
+  "type": "versus",
+  "primary_query": "academic planner vs calendar year planner",
+  "cluster": "academic-vs-calendar-year",
+  "products": [
+   124,
+   194,
+   282,
+   306
+  ],
+  "h2": [
+   "Which federal holidays fall inside each planner",
+   "The four planners side by side",
+   "Cost per month of coverage",
+   "What buying an academic planner on Nov. 10, 2026 leaves you",
+   "Choose an academic planner if your year starts in July",
+   "Choose a calendar year planner if your goals start on January 1",
+   "More planner reading"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.unsplash.com/photo-1435527173128-983b87201f4d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxwbGFubmVyJTIwY2FsZW5kYXIlMjBkZXNrfGVufDF8MHx8fDE3OTQzMDg5MTN8MA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-25T12:45:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "sakura-pigma-micron-review",
+  "id": 93,
+  "title": "Sakura Pigma Micron Review: 6 Sizes From 0.20 to 0.50 mm",
+  "type": "review",
+  "primary_query": "sakura pigma micron review",
+  "cluster": "review-71",
+  "products": [
+   69,
+   71,
+   244,
+   262
+  ],
+  "h2": [
+   "What the Micron listing promises and what it leaves out",
+   "Six sizes in one pack: what the range means",
+   "Price per pen against three alternatives",
+   "How the alternatives differ from the Micron",
+   "Alternatives for color, count or gel ink",
+   "When the Micron is the wrong buy",
+   "Related reading"
+  ],
+  "related": [
+   "types-of-journals",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/37461255/pexels-photo-37461255.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-25T15:15:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "day-designer-academic-planner-review",
+  "id": 94,
+  "title": "Day Designer Academic Planner Review: July 2026 to June 2027",
+  "type": "review",
+  "primary_query": "day designer academic planner review",
+  "cluster": "review-194",
+  "products": [
+   6,
+   135,
+   194,
+   208
+  ],
+  "h2": [
+   "What the Day Designer listing promises",
+   "Price per month across the listed year",
+   "Where the listing goes quiet",
+   "Can you start a July planner late?",
+   "Three undated planners for other needs"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/5124873/pexels-photo-5124873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-25T16:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "vivid-scribbles-dotted-journal-review",
+  "id": 95,
+  "title": "Vivid Scribbles Dotted Journal Review: 160 GSM, 200 Pages",
+  "type": "review",
+  "primary_query": "vivid scribbles dotted journal review",
+  "cluster": "review-214",
+  "products": [
+   142,
+   214,
+   250,
+   252
+  ],
+  "h2": [
+   "Paper first: 160 gsm in numbers",
+   "What sits around the paper",
+   "Limits the listing shows",
+   "Cost per 100 pages, set against the other three",
+   "Three alternatives by what you want to change"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.unsplash.com/photo-1483546363825-7ebf25fb7513?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxkb3R0ZWQlMjBqb3VybmFsJTIwcGVufGVufDF8MHx8fDE3OTQyMTAwMTR8MA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-25T17:45:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "clever-fox-fitness-and-food-journal-review",
+  "id": 96,
+  "title": "Clever Fox Fitness and Food Journal Review: 3-Month A5 Log",
+  "type": "review",
+  "primary_query": "clever fox fitness and food journal review",
+  "cluster": "review-257",
+  "products": [
+   257,
+   721,
+   782
+  ],
+  "h2": [
+   "What the Clever Fox listing includes",
+   "The 90-day date math",
+   "Limits to weigh before buying",
+   "Two other logs, and where they differ"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/12499375/pexels-photo-12499375.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-26T06:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "sunee-budget-planner-review",
+  "id": 97,
+  "title": "SUNEE Budget Planner Review: 12 Months, 10 Pages Each",
+  "type": "review",
+  "primary_query": "sunee budget planner review",
+  "cluster": "review-211",
+  "products": [
+   211,
+   231,
+   712,
+   1602
+  ],
+  "h2": [
+   "Counting the 160 pages",
+   "When a December start makes sense",
+   "Cost per page and where the listing stops",
+   "Three planners for other budgeting habits"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.unsplash.com/photo-1505330622279-bf7d7fc918f4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxidWRnZXQlMjBwbGFubmVyJTIwZGVza3xlbnwxfDB8fHwxNzk0MzA4NDE3fDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-26T07:45:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "academic-year-weeks",
+  "id": 98,
+  "title": "Academic Year 2026-2027 Weeks: 52.1 in Total, 42.7 Aug. 17-Jun. 11",
+  "type": "dates",
+  "primary_query": "academic year 2026-2027 weeks",
+  "cluster": "academic-year-2026-27",
+  "products": [
+   124,
+   201,
+   306,
+   1086,
+   1102
+  ],
+  "h2": [
+   "How the week counts are computed",
+   "Federal holidays inside the 2026-27 planner year",
+   "Planner weeks against school weeks",
+   "2026-27 planners that cover the span",
+   "Printables to plan the weeks yourself"
+  ],
+  "related": [
+   "planner-dates-and-holidays",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/5124868/pexels-photo-5124868.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-26T10:15:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "how-to-use-washi-tape-in-a-planner",
+  "id": 99,
+  "title": "How to Use Washi Tape in a Planner: 6 Steps and Strip Math",
+  "type": "howto",
+  "primary_query": "how to use washi tape in a planner",
+  "cluster": "washi-tape-planner",
+  "products": [
+   88,
+   267,
+   288
+  ],
+  "h2": [
+   "Washi tape in a planner: six steps",
+   "Which tape width goes where",
+   "How far a roll goes: strips and price per meter",
+   "Three sets and what each is for",
+   "Does washi tape come off planner paper?"
+  ],
+  "related": [
+   "planner-accessories-guide",
+   "how-to-use-a-daily-planner"
+  ],
+  "image": "https://images.pexels.com/photos/8250941/pexels-photo-8250941.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-26T11:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "planner-sizes-guide",
+  "id": 100,
+  "title": "Planner Sizes Guide: A5 Listed From 5.43 to 5.8 Inches Wide",
+  "type": "guide",
+  "primary_query": "planner sizes guide",
+  "cluster": "planner-sizes",
+  "products": [
+   196,
+   227,
+   229,
+   279,
+   281,
+   1127,
+   1434,
+   1676
+  ],
+  "h2": [
+   "Planner size chart from eight listings",
+   "Which size fits where you plan",
+   "Ring planners: covers, holes and refills",
+   "Price and sheet count for the sized options",
+   "Printables to test a size before you buy"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.unsplash.com/photo-1632772998001-cc9bf6f7c852?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxwbGFubmVycyUyMGRpZmZlcmVudCUyMHNpemVzfGVufDF8MHx8fDE3OTQzMDkwNDV8MA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-26T12:45:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "how-to-choose-pens-for-journaling",
+  "id": 101,
+  "title": "How to Choose Pens for Journaling: 8 Pens by Tip Width and Ink",
+  "type": "guide",
+  "primary_query": "how to choose pens for journaling",
+  "cluster": "choose-journal-pens",
+  "products": [
+   69,
+   71,
+   244,
+   981,
+   983,
+   1121,
+   1122,
+   1549
+  ],
+  "h2": [
+   "How the eight pens were compared",
+   "Step one: match the tip width to your handwriting",
+   "Step two: read the ink claim and the fine print",
+   "Step three: pair the pen with the paper",
+   "Picks by writing need",
+   "What each pen costs per pen",
+   "Do you need a test sheet before you commit?"
+  ],
+  "related": [
+   "journaling-for-beginners",
+   "types-of-journals"
+  ],
+  "image": "https://images.unsplash.com/photo-1462642109801-4ac2971a3a51?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxqb3VybmFsJTIwcGVuc3xlbnwxfDB8fHwxNzk0MzA5MDU3fDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-26T14:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "what-is-gsm-paper",
+  "id": 102,
+  "title": "What Is GSM Paper? How 100, 120 and 160 gsm Compare in A5 Journals",
+  "type": "explainer",
+  "primary_query": "what is gsm paper",
+  "cluster": "paper-gsm",
+  "products": [
+   214,
+   252,
+   1113,
+   1193,
+   1314,
+   1319
+  ],
+  "h2": [
+   "Turning gsm into the weight of one journal sheet",
+   "What printing guides say, and why journal makers say more",
+   "Weight and the pen: what the listings leave open",
+   "Picking a gsm for the way you write",
+   "The six journals, with their weights"
+  ],
+  "related": [
+   "types-of-journals"
+  ],
+  "image": "https://images.pexels.com/photos/5861185/pexels-photo-5861185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-26T15:15:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "planner-binding-types-explained",
+  "id": 103,
+  "title": "Planner Binding Types Explained: What 6 Listings State, Side by Side",
+  "type": "explainer",
+  "primary_query": "planner binding types explained",
+  "cluster": "planner-binding-types",
+  "products": [
+   196,
+   227,
+   279,
+   282,
+   385,
+   386
+  ],
+  "h2": [
+   "Binding by binding: what each listing states",
+   "Disc-bound: the one system the listings describe as changeable",
+   "Twin-wire, stitched and lay-flat: three bindings with no page-swap claim",
+   "Refillable without a stated binding: the Compass journal",
+   "Page size, computed: how much room each binding gives you",
+   "Choosing a binding by what you do with the planner"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/479818/pexels-photo-479818.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-26T16:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "bleed-through-vs-ghosting-in-journals",
+  "id": 104,
+  "title": "Bleed Through vs Ghosting in Journals: A Test and 6 Listings Compared",
+  "type": "explainer",
+  "primary_query": "bleed through vs ghosting in journals",
+  "cluster": "bleed-ghosting",
+  "products": [
+   214,
+   252,
+   981,
+   983,
+   1113,
+   1193
+  ],
+  "h2": [
+   "A two-minute test that tells the three apart",
+   "What six listings promise, symptom by symptom",
+   "Why the pen matters as much as the paper",
+   "What to do with a journal that already ghosts"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/34423686/pexels-photo-34423686.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-26T17:45:00.000000Z",
   "enabled": false,
   "price_checked": "2026-11-10",
   "refresh_by": "2026-12-10"
