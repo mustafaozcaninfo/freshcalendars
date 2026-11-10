@@ -1,62 +1,766 @@
 [
- {"slug": "daily-planners", "parent": "planners", "exists": true, "target": 80, "seeds": ["daily planner", "undated daily planner", "hourly daily planner", "daily planner 2027", "page a day planner"]},
- {"slug": "weekly-planners", "parent": "planners", "exists": true, "target": 100, "seeds": ["weekly planner 2027", "undated weekly planner", "vertical weekly planner", "weekly planner notebook", "weekly planner a5"]},
- {"slug": "monthly-planners", "parent": "planners", "exists": true, "target": 70, "seeds": ["monthly planner 2027", "2 year monthly planner", "5 year monthly planner", "monthly planner 2027-2028", "undated monthly planner"]},
- {"slug": "academic-planners", "parent": "planners", "exists": true, "target": 70, "seeds": ["academic planner 2026-2027", "student planner middle school", "college student planner", "homework planner", "high school planner"]},
- {"slug": "teacher-planners", "parent": "planners", "exists": true, "target": 45, "seeds": ["teacher lesson planner 2026-2027", "teacher planner undated", "gradebook for teachers", "homeschool planner", "substitute teacher binder"]},
- {"slug": "budget-planners", "parent": "planners", "exists": true, "target": 50, "seeds": ["budget planner", "monthly budget book", "bill organizer planner", "cash envelope budget binder", "expense tracker notebook"]},
- {"slug": "undated-planners", "parent": "planners", "exists": false, "title": "Undated Planners", "target": 60, "seeds": ["undated planner", "undated planner a5", "undated weekly planner spiral", "undated daily planner", "perpetual planner"]},
- {"slug": "hourly-planners", "parent": "planners", "exists": false, "title": "Hourly and Appointment Planners", "target": 50, "seeds": ["appointment book 2027", "15 minute appointment book", "hourly planner", "time block planner", "salon appointment book"]},
- {"slug": "family-planners", "parent": "planners", "exists": false, "title": "Family and Home Planners", "target": 40, "seeds": ["family planner", "household planner", "mom planner", "home management binder", "chore chart planner"]},
- {"slug": "meal-planners", "parent": "planners", "exists": false, "title": "Meal Planners and Recipe Books", "target": 40, "seeds": ["meal planner notepad", "weekly meal planner with grocery list", "blank recipe book", "recipe binder", "meal planning journal"]},
- {"slug": "wedding-and-event-planners", "parent": "planners", "exists": false, "title": "Wedding and Event Planners", "target": 30, "seeds": ["wedding planner book", "wedding planning binder", "party planner notebook", "event planner organizer", "bridal planner"]},
- {"slug": "business-planners", "parent": "planners", "exists": false, "title": "Business and Work Planners", "target": 40, "seeds": ["business planner", "small business planner", "work planner notebook", "project planner notebook", "content planner"]},
- {"slug": "planner-inserts-and-refills", "parent": "planners", "exists": false, "title": "Planner Inserts and Refills", "target": 50, "seeds": ["a5 planner refill paper 6 ring", "personal size planner inserts", "disc bound planner refill", "travelers notebook inserts", "2027 planner refill a5"]},
- {"slug": "disc-bound-planners", "parent": "planners", "exists": false, "title": "Disc-Bound Planners and Accessories", "target": 30, "seeds": ["disc bound planner", "discbound notebook", "disc bound hole punch", "planner discs", "disc bound cover"]},
-
- {"slug": "hardcover-bullet-journals", "parent": "bullet-journals", "exists": true, "target": 45, "seeds": ["hardcover dotted journal", "hardcover bullet journal a5", "160gsm dotted journal", "hardcover bullet journal numbered pages"]},
- {"slug": "softcover-bullet-journals", "parent": "bullet-journals", "exists": true, "target": 35, "seeds": ["softcover dotted journal", "flexible cover bullet journal", "softcover notebook dot grid"]},
- {"slug": "dotted-paper-journals", "parent": "bullet-journals", "exists": true, "target": 50, "seeds": ["dot grid notebook", "dotted journal 120gsm", "dot grid notebook b5", "dotted notebook spiral"]},
- {"slug": "graph-paper-journals", "parent": "bullet-journals", "exists": true, "target": 40, "seeds": ["graph paper notebook", "grid notebook a5", "engineering notebook", "quad ruled notebook"]},
- {"slug": "numbered-pages-journals", "parent": "bullet-journals", "exists": true, "target": 30, "seeds": ["notebook with numbered pages", "journal with index and numbered pages", "lab notebook numbered pages"]},
- {"slug": "refillable-journals", "parent": "bullet-journals", "exists": true, "target": 40, "seeds": ["refillable leather journal", "6 ring binder a5 leather", "refillable notebook cover", "leather journal refillable a5"]},
- {"slug": "lined-journals", "parent": "bullet-journals", "exists": false, "title": "Lined Journals and Notebooks", "target": 50, "seeds": ["lined journal hardcover", "lined notebook a5", "college ruled journal", "lined journal for writing", "ruled notebook b5"]},
- {"slug": "leather-journals", "parent": "bullet-journals", "exists": false, "title": "Leather Journals", "target": 40, "seeds": ["leather journal", "leather bound journal", "vintage leather journal", "leather journal for men", "personalized leather journal"]},
- {"slug": "pocket-notebooks", "parent": "bullet-journals", "exists": false, "title": "Pocket Notebooks", "target": 40, "seeds": ["pocket notebook", "a6 notebook", "mini notebook", "pocket journal 3.5 x 5.5", "field notes notebook"]},
- {"slug": "travelers-notebooks", "parent": "bullet-journals", "exists": false, "title": "Traveler's Notebooks", "target": 30, "seeds": ["travelers notebook", "travelers notebook leather", "travelers notebook inserts", "b6 travelers notebook"]},
- {"slug": "spiral-and-composition-notebooks", "parent": "bullet-journals", "exists": false, "title": "Spiral and Composition Notebooks", "target": 50, "seeds": ["composition notebook", "spiral notebook college ruled", "spiral notebook a5", "aesthetic spiral notebook", "composition notebook graph"]},
- {"slug": "sketchbooks-and-blank-journals", "parent": "bullet-journals", "exists": false, "title": "Sketchbooks and Blank Journals", "target": 40, "seeds": ["blank journal", "sketchbook a5", "mixed media sketchbook", "blank page notebook", "art journal"]},
-
- {"slug": "gratitude-journals", "parent": "guided-journals", "exists": true, "target": 40, "seeds": ["gratitude journal", "gratitude journal for women", "gratitude journal for kids", "5 minute gratitude journal"]},
- {"slug": "five-year-journals", "parent": "guided-journals", "exists": true, "target": 30, "seeds": ["5 year journal", "one line a day", "five year memory book", "10 year journal"]},
- {"slug": "prayer-journals", "parent": "guided-journals", "exists": true, "target": 35, "seeds": ["prayer journal", "bible study journal", "scripture journal", "sermon notes journal"]},
- {"slug": "travel-and-reading-journals", "parent": "guided-journals", "exists": true, "target": 35, "seeds": ["travel journal", "reading journal", "book journal", "reading log"]},
- {"slug": "fitness-and-wellness-journals", "parent": "guided-journals", "exists": true, "target": 40, "seeds": ["fitness journal", "food journal", "workout log book", "weight loss journal", "meal tracker journal"]},
- {"slug": "self-care-journals", "parent": "guided-journals", "exists": false, "title": "Self-Care and Mood Journals", "target": 35, "seeds": ["self care journal", "mood tracker journal", "guided journal for women", "affirmation journal", "mindfulness journal"]},
- {"slug": "goal-and-habit-journals", "parent": "guided-journals", "exists": false, "title": "Goal and Habit Journals", "target": 35, "seeds": ["goal planner", "habit tracker journal", "vision board journal", "goal setting journal", "12 week year planner"]},
- {"slug": "memory-and-baby-books", "parent": "guided-journals", "exists": false, "title": "Memory, Baby and Family Books", "target": 35, "seeds": ["baby memory book", "grandma tell me your story", "dad tell me your story", "pregnancy journal", "family memory journal"]},
- {"slug": "dream-and-creative-journals", "parent": "guided-journals", "exists": false, "title": "Dream and Creative Writing Journals", "target": 25, "seeds": ["dream journal", "writing prompts journal", "poetry journal", "creative writing notebook"]},
- {"slug": "logbooks-and-record-books", "parent": "guided-journals", "exists": false, "title": "Logbooks and Record Books", "target": 35, "seeds": ["password book", "address book", "mileage log book", "blood pressure log book", "medication log book"]},
-
- {"slug": "wall-calendars", "parent": "calendars", "exists": true, "target": 60, "seeds": ["2027 wall calendar", "large wall calendar 2027", "2027 wall calendar 18 month", "family wall calendar 2027", "academic wall calendar"]},
- {"slug": "desk-calendars", "parent": "calendars", "exists": true, "target": 40, "seeds": ["desk calendar 2027", "desk pad calendar 2027", "standing desk calendar 2027", "mini desk calendar"]},
- {"slug": "dry-erase-calendars", "parent": "calendars", "exists": false, "title": "Dry Erase and Magnetic Calendars", "target": 40, "seeds": ["dry erase calendar", "magnetic fridge calendar", "acrylic wall calendar", "dry erase monthly calendar whiteboard", "glass dry erase calendar"]},
- {"slug": "pocket-calendars", "parent": "calendars", "exists": false, "title": "Pocket Calendars and Agendas", "target": 25, "seeds": ["pocket calendar 2027", "2 year pocket planner", "small pocket planner 2027", "purse calendar"]},
- {"slug": "page-a-day-calendars", "parent": "calendars", "exists": false, "title": "Page-a-Day and Desk Block Calendars", "target": 25, "seeds": ["page a day calendar 2027", "day to day calendar 2027", "tear off calendar", "perpetual calendar"]},
-
- {"slug": "pens", "parent": "journaling-supplies", "exists": true, "target": 50, "seeds": ["gel pens fine point", "journaling pens no bleed", "erasable pens", "ballpoint pens smooth"]},
- {"slug": "highlighters", "parent": "journaling-supplies", "exists": false, "title": "Highlighters", "target": 40, "seeds": ["mildliner highlighters", "bible highlighters no bleed", "pastel highlighters", "highlighter set", "gel highlighters"]},
- {"slug": "fineliners-and-markers", "parent": "journaling-supplies", "exists": false, "title": "Fineliners, Markers and Brush Pens", "target": 50, "seeds": ["fineliner pens", "brush pens", "dual tip markers", "micron pens", "calligraphy pens"]},
- {"slug": "colored-pencils", "parent": "journaling-supplies", "exists": false, "title": "Colored Pencils and Pencils", "target": 30, "seeds": ["colored pencils", "mechanical pencils", "erasable colored pencils", "pencil set for journaling"]},
- {"slug": "fountain-pens-and-ink", "parent": "journaling-supplies", "exists": false, "title": "Fountain Pens and Ink", "target": 25, "seeds": ["fountain pen", "fountain pen beginner", "fountain pen ink", "fountain pen converter"]},
- {"slug": "stickers", "parent": "journaling-supplies", "exists": true, "target": 60, "seeds": ["planner stickers", "functional planner stickers", "monthly planner stickers", "sticker book planner", "budget stickers"]},
- {"slug": "washi-tape", "parent": "journaling-supplies", "exists": true, "target": 45, "seeds": ["washi tape set", "skinny washi tape", "gold foil washi tape", "washi tape dispenser"]},
- {"slug": "stencils", "parent": "journaling-supplies", "exists": true, "target": 30, "seeds": ["bullet journal stencils", "planner stencils", "letter stencils journal", "circle template"]},
- {"slug": "decorative-paper", "parent": "journaling-supplies", "exists": true, "target": 40, "seeds": ["scrapbook paper pad 12x12", "cardstock paper", "vellum paper", "junk journal kit", "ephemera pack"]},
- {"slug": "sticky-notes-and-tabs", "parent": "journaling-supplies", "exists": false, "title": "Sticky Notes, Tabs and Page Flags", "target": 45, "seeds": ["sticky notes aesthetic", "transparent sticky notes", "page flags", "sticky tabs", "planner tabs"]},
- {"slug": "notepads-and-to-do-lists", "parent": "journaling-supplies", "exists": false, "title": "Notepads and To-Do Lists", "target": 45, "seeds": ["to do list notepad", "daily planner pad", "weekly planner notepad", "tear off notepad", "grocery list pad"]},
- {"slug": "planner-accessories", "parent": "journaling-supplies", "exists": false, "title": "Planner Accessories", "target": 45, "seeds": ["planner pen loop", "planner bookmark", "pen case pencil pouch", "planner cover a5", "planner clips", "corner rounder"]},
- {"slug": "stamps-and-ink-pads", "parent": "journaling-supplies", "exists": false, "title": "Stamps and Ink Pads", "target": 25, "seeds": ["planner stamps", "clear stamps journaling", "date stamp", "ink pad set"]},
-
- {"slug": "patriotic-and-military", "parent": null, "exists": true, "target": 30, "seeds": ["military journal", "patriotic notebook", "veteran gift journal"]}
+ {
+  "slug": "daily-planners",
+  "parent": "planners",
+  "exists": true,
+  "target": 80,
+  "seeds": [
+   "daily planner",
+   "undated daily planner",
+   "hourly daily planner",
+   "daily planner 2027",
+   "page a day planner"
+  ]
+ },
+ {
+  "slug": "weekly-planners",
+  "parent": "planners",
+  "exists": true,
+  "target": 100,
+  "seeds": [
+   "weekly planner 2027",
+   "undated weekly planner",
+   "vertical weekly planner",
+   "weekly planner notebook",
+   "weekly planner a5"
+  ]
+ },
+ {
+  "slug": "monthly-planners",
+  "parent": "planners",
+  "exists": true,
+  "target": 70,
+  "seeds": [
+   "monthly planner 2027",
+   "2 year monthly planner",
+   "5 year monthly planner",
+   "monthly planner 2027-2028",
+   "undated monthly planner"
+  ]
+ },
+ {
+  "slug": "academic-planners",
+  "parent": "planners",
+  "exists": true,
+  "target": 70,
+  "seeds": [
+   "academic planner 2026-2027",
+   "student planner middle school",
+   "college student planner",
+   "homework planner",
+   "high school planner"
+  ]
+ },
+ {
+  "slug": "teacher-planners",
+  "parent": "planners",
+  "exists": true,
+  "target": 45,
+  "seeds": [
+   "teacher lesson planner 2026-2027",
+   "teacher planner undated",
+   "gradebook for teachers",
+   "homeschool planner",
+   "substitute teacher binder"
+  ]
+ },
+ {
+  "slug": "budget-planners",
+  "parent": "planners",
+  "exists": true,
+  "target": 50,
+  "seeds": [
+   "budget planner",
+   "monthly budget book",
+   "bill organizer planner",
+   "cash envelope budget binder",
+   "expense tracker notebook"
+  ]
+ },
+ {
+  "slug": "undated-planners",
+  "parent": "planners",
+  "exists": false,
+  "title": "Undated Planners",
+  "target": 60,
+  "seeds": [
+   "undated planner",
+   "undated planner a5",
+   "undated weekly planner spiral",
+   "undated daily planner",
+   "perpetual planner"
+  ]
+ },
+ {
+  "slug": "hourly-planners",
+  "parent": "planners",
+  "exists": false,
+  "title": "Hourly and Appointment Planners",
+  "target": 50,
+  "seeds": [
+   "appointment book 2027",
+   "15 minute appointment book",
+   "hourly planner",
+   "time block planner",
+   "salon appointment book"
+  ]
+ },
+ {
+  "slug": "family-planners",
+  "parent": "planners",
+  "exists": false,
+  "title": "Family and Home Planners",
+  "target": 40,
+  "seeds": [
+   "family planner",
+   "household planner",
+   "mom planner",
+   "home management binder",
+   "chore chart planner"
+  ]
+ },
+ {
+  "slug": "meal-planners",
+  "parent": "planners",
+  "exists": false,
+  "title": "Meal Planners and Recipe Books",
+  "target": 40,
+  "seeds": [
+   "meal planner notepad",
+   "weekly meal planner with grocery list",
+   "blank recipe book",
+   "recipe binder",
+   "meal planning journal"
+  ]
+ },
+ {
+  "slug": "wedding-and-event-planners",
+  "parent": "planners",
+  "exists": false,
+  "title": "Wedding and Event Planners",
+  "target": 30,
+  "seeds": [
+   "wedding planner book",
+   "wedding planning binder",
+   "party planner notebook",
+   "event planner organizer",
+   "bridal planner"
+  ]
+ },
+ {
+  "slug": "business-planners",
+  "parent": "planners",
+  "exists": false,
+  "title": "Business and Work Planners",
+  "target": 40,
+  "seeds": [
+   "business planner",
+   "small business planner",
+   "work planner notebook",
+   "project planner notebook",
+   "content planner"
+  ]
+ },
+ {
+  "slug": "planner-inserts-and-refills",
+  "parent": "planners",
+  "exists": false,
+  "title": "Planner Inserts and Refills",
+  "target": 50,
+  "seeds": [
+   "a5 planner refill paper 6 ring",
+   "personal size planner inserts",
+   "disc bound planner refill",
+   "travelers notebook inserts",
+   "2027 planner refill a5"
+  ]
+ },
+ {
+  "slug": "disc-bound-planners",
+  "parent": "planners",
+  "exists": false,
+  "title": "Disc-Bound Planners and Accessories",
+  "target": 30,
+  "seeds": [
+   "disc bound planner",
+   "discbound notebook",
+   "disc bound hole punch",
+   "planner discs",
+   "disc bound cover"
+  ]
+ },
+ {
+  "slug": "hardcover-bullet-journals",
+  "parent": "bullet-journals",
+  "exists": true,
+  "target": 45,
+  "seeds": [
+   "hardcover dotted journal",
+   "hardcover bullet journal a5",
+   "160gsm dotted journal",
+   "hardcover bullet journal numbered pages"
+  ]
+ },
+ {
+  "slug": "softcover-bullet-journals",
+  "parent": "bullet-journals",
+  "exists": true,
+  "target": 35,
+  "seeds": [
+   "softcover dotted journal",
+   "flexible cover bullet journal",
+   "softcover notebook dot grid"
+  ]
+ },
+ {
+  "slug": "dotted-paper-journals",
+  "parent": "bullet-journals",
+  "exists": true,
+  "target": 50,
+  "seeds": [
+   "dot grid notebook",
+   "dotted journal 120gsm",
+   "dot grid notebook b5",
+   "dotted notebook spiral"
+  ]
+ },
+ {
+  "slug": "graph-paper-journals",
+  "parent": "bullet-journals",
+  "exists": true,
+  "target": 40,
+  "seeds": [
+   "graph paper notebook",
+   "grid notebook a5",
+   "engineering notebook",
+   "quad ruled notebook"
+  ]
+ },
+ {
+  "slug": "numbered-pages-journals",
+  "parent": "bullet-journals",
+  "exists": true,
+  "target": 30,
+  "seeds": [
+   "notebook with numbered pages",
+   "journal with index and numbered pages",
+   "lab notebook numbered pages"
+  ]
+ },
+ {
+  "slug": "refillable-journals",
+  "parent": "bullet-journals",
+  "exists": true,
+  "target": 40,
+  "seeds": [
+   "refillable leather journal",
+   "6 ring binder a5 leather",
+   "refillable notebook cover",
+   "leather journal refillable a5"
+  ]
+ },
+ {
+  "slug": "lined-journals",
+  "parent": "bullet-journals",
+  "exists": false,
+  "title": "Lined Journals and Notebooks",
+  "target": 50,
+  "seeds": [
+   "lined journal hardcover",
+   "lined notebook a5",
+   "college ruled journal",
+   "lined journal for writing",
+   "ruled notebook b5"
+  ]
+ },
+ {
+  "slug": "leather-journals",
+  "parent": "bullet-journals",
+  "exists": false,
+  "title": "Leather Journals",
+  "target": 40,
+  "seeds": [
+   "leather journal",
+   "leather bound journal",
+   "vintage leather journal",
+   "leather journal for men",
+   "personalized leather journal"
+  ]
+ },
+ {
+  "slug": "pocket-notebooks",
+  "parent": "bullet-journals",
+  "exists": false,
+  "title": "Pocket Notebooks",
+  "target": 40,
+  "seeds": [
+   "pocket notebook",
+   "a6 notebook",
+   "mini notebook",
+   "pocket journal 3.5 x 5.5",
+   "field notes notebook"
+  ]
+ },
+ {
+  "slug": "travelers-notebooks",
+  "parent": "bullet-journals",
+  "exists": false,
+  "title": "Traveler's Notebooks",
+  "target": 30,
+  "seeds": [
+   "travelers notebook",
+   "travelers notebook leather",
+   "travelers notebook inserts",
+   "b6 travelers notebook"
+  ]
+ },
+ {
+  "slug": "spiral-and-composition-notebooks",
+  "parent": "bullet-journals",
+  "exists": false,
+  "title": "Spiral and Composition Notebooks",
+  "target": 50,
+  "seeds": [
+   "composition notebook",
+   "spiral notebook college ruled",
+   "spiral notebook a5",
+   "aesthetic spiral notebook",
+   "composition notebook graph"
+  ]
+ },
+ {
+  "slug": "sketchbooks-and-blank-journals",
+  "parent": "bullet-journals",
+  "exists": false,
+  "title": "Sketchbooks and Blank Journals",
+  "target": 40,
+  "seeds": [
+   "blank journal",
+   "sketchbook a5",
+   "mixed media sketchbook",
+   "blank page notebook",
+   "art journal"
+  ]
+ },
+ {
+  "slug": "gratitude-journals",
+  "parent": "guided-journals",
+  "exists": true,
+  "target": 40,
+  "seeds": [
+   "gratitude journal",
+   "gratitude journal for women",
+   "gratitude journal for kids",
+   "5 minute gratitude journal"
+  ]
+ },
+ {
+  "slug": "five-year-journals",
+  "parent": "guided-journals",
+  "exists": true,
+  "target": 30,
+  "seeds": [
+   "5 year journal",
+   "one line a day",
+   "five year memory book",
+   "10 year journal"
+  ]
+ },
+ {
+  "slug": "prayer-journals",
+  "parent": "guided-journals",
+  "exists": true,
+  "target": 35,
+  "seeds": [
+   "prayer journal",
+   "bible study journal",
+   "scripture journal",
+   "sermon notes journal"
+  ]
+ },
+ {
+  "slug": "travel-and-reading-journals",
+  "parent": "guided-journals",
+  "exists": true,
+  "target": 35,
+  "seeds": [
+   "travel journal",
+   "reading journal",
+   "book journal",
+   "reading log"
+  ]
+ },
+ {
+  "slug": "fitness-and-wellness-journals",
+  "parent": "guided-journals",
+  "exists": true,
+  "target": 40,
+  "seeds": [
+   "fitness journal",
+   "food journal",
+   "workout log book",
+   "weight loss journal",
+   "meal tracker journal"
+  ]
+ },
+ {
+  "slug": "self-care-journals",
+  "parent": "guided-journals",
+  "exists": false,
+  "title": "Self-Care and Mood Journals",
+  "target": 35,
+  "seeds": [
+   "self care journal",
+   "mood tracker journal",
+   "guided journal for women",
+   "affirmation journal",
+   "mindfulness journal"
+  ]
+ },
+ {
+  "slug": "goal-and-habit-journals",
+  "parent": "guided-journals",
+  "exists": false,
+  "title": "Goal and Habit Journals",
+  "target": 35,
+  "seeds": [
+   "goal planner",
+   "habit tracker journal",
+   "vision board journal",
+   "goal setting journal",
+   "12 week year planner"
+  ]
+ },
+ {
+  "slug": "memory-and-baby-books",
+  "parent": "guided-journals",
+  "exists": false,
+  "title": "Memory, Baby and Family Books",
+  "target": 35,
+  "seeds": [
+   "baby memory book",
+   "grandma tell me your story",
+   "dad tell me your story",
+   "pregnancy journal",
+   "family memory journal"
+  ]
+ },
+ {
+  "slug": "dream-and-creative-journals",
+  "parent": "guided-journals",
+  "exists": false,
+  "title": "Dream and Creative Writing Journals",
+  "target": 25,
+  "seeds": [
+   "dream journal",
+   "writing prompts journal",
+   "poetry journal",
+   "creative writing notebook"
+  ]
+ },
+ {
+  "slug": "logbooks-and-record-books",
+  "parent": "guided-journals",
+  "exists": false,
+  "title": "Logbooks and Record Books",
+  "target": 35,
+  "seeds": [
+   "password book",
+   "address book",
+   "mileage log book",
+   "blood pressure log book",
+   "medication log book"
+  ]
+ },
+ {
+  "slug": "wall-calendars",
+  "parent": "calendars",
+  "exists": true,
+  "target": 60,
+  "seeds": [
+   "2027 wall calendar",
+   "large wall calendar 2027",
+   "2027 wall calendar 18 month",
+   "family wall calendar 2027",
+   "academic wall calendar"
+  ]
+ },
+ {
+  "slug": "desk-calendars",
+  "parent": "calendars",
+  "exists": true,
+  "target": 40,
+  "seeds": [
+   "desk calendar 2027",
+   "desk pad calendar 2027",
+   "standing desk calendar 2027",
+   "mini desk calendar"
+  ]
+ },
+ {
+  "slug": "dry-erase-calendars",
+  "parent": "calendars",
+  "exists": false,
+  "title": "Dry Erase and Magnetic Calendars",
+  "target": 40,
+  "seeds": [
+   "dry erase calendar",
+   "magnetic fridge calendar",
+   "acrylic wall calendar",
+   "dry erase monthly calendar whiteboard",
+   "glass dry erase calendar"
+  ]
+ },
+ {
+  "slug": "pocket-calendars",
+  "parent": "calendars",
+  "exists": false,
+  "title": "Pocket Calendars and Agendas",
+  "target": 25,
+  "seeds": [
+   "pocket calendar 2027",
+   "2 year pocket planner",
+   "small pocket planner 2027",
+   "purse calendar"
+  ]
+ },
+ {
+  "slug": "page-a-day-calendars",
+  "parent": "calendars",
+  "exists": false,
+  "title": "Page-a-Day and Desk Block Calendars",
+  "target": 25,
+  "seeds": [
+   "page a day calendar 2027",
+   "day to day calendar 2027",
+   "tear off calendar",
+   "perpetual calendar"
+  ]
+ },
+ {
+  "slug": "pens",
+  "parent": "journaling-supplies",
+  "exists": true,
+  "target": 50,
+  "seeds": [
+   "gel pens fine point",
+   "journaling pens no bleed",
+   "erasable pens",
+   "ballpoint pens smooth"
+  ]
+ },
+ {
+  "slug": "highlighters",
+  "parent": "journaling-supplies",
+  "exists": false,
+  "title": "Highlighters",
+  "target": 40,
+  "seeds": [
+   "mildliner highlighters",
+   "bible highlighters no bleed",
+   "pastel highlighters",
+   "highlighter set",
+   "gel highlighters"
+  ]
+ },
+ {
+  "slug": "fineliners-and-markers",
+  "parent": "journaling-supplies",
+  "exists": false,
+  "title": "Fineliners, Markers and Brush Pens",
+  "target": 50,
+  "seeds": [
+   "fineliner pens",
+   "brush pens",
+   "dual tip markers",
+   "micron pens",
+   "calligraphy pens"
+  ]
+ },
+ {
+  "slug": "colored-pencils",
+  "parent": "journaling-supplies",
+  "exists": false,
+  "title": "Colored Pencils and Pencils",
+  "target": 30,
+  "seeds": [
+   "colored pencils",
+   "mechanical pencils",
+   "erasable colored pencils",
+   "pencil set for journaling"
+  ]
+ },
+ {
+  "slug": "fountain-pens-and-ink",
+  "parent": "journaling-supplies",
+  "exists": false,
+  "title": "Fountain Pens and Ink",
+  "target": 25,
+  "seeds": [
+   "fountain pen",
+   "fountain pen beginner",
+   "fountain pen ink",
+   "fountain pen converter"
+  ]
+ },
+ {
+  "slug": "stickers",
+  "parent": "journaling-supplies",
+  "exists": true,
+  "target": 60,
+  "seeds": [
+   "planner stickers",
+   "functional planner stickers",
+   "monthly planner stickers",
+   "sticker book planner",
+   "budget stickers"
+  ]
+ },
+ {
+  "slug": "washi-tape",
+  "parent": "journaling-supplies",
+  "exists": true,
+  "target": 45,
+  "seeds": [
+   "washi tape set",
+   "skinny washi tape",
+   "gold foil washi tape",
+   "washi tape dispenser"
+  ]
+ },
+ {
+  "slug": "stencils",
+  "parent": "journaling-supplies",
+  "exists": true,
+  "target": 30,
+  "seeds": [
+   "bullet journal stencils",
+   "planner stencils",
+   "letter stencils journal",
+   "circle template"
+  ]
+ },
+ {
+  "slug": "decorative-paper",
+  "parent": "journaling-supplies",
+  "exists": true,
+  "target": 40,
+  "seeds": [
+   "scrapbook paper pad 12x12",
+   "cardstock paper",
+   "vellum paper",
+   "junk journal kit",
+   "ephemera pack"
+  ]
+ },
+ {
+  "slug": "sticky-notes-and-tabs",
+  "parent": "journaling-supplies",
+  "exists": false,
+  "title": "Sticky Notes, Tabs and Page Flags",
+  "target": 45,
+  "seeds": [
+   "sticky notes aesthetic",
+   "transparent sticky notes",
+   "page flags",
+   "sticky tabs",
+   "planner tabs"
+  ]
+ },
+ {
+  "slug": "notepads-and-to-do-lists",
+  "parent": "journaling-supplies",
+  "exists": false,
+  "title": "Notepads and To-Do Lists",
+  "target": 45,
+  "seeds": [
+   "to do list notepad",
+   "daily planner pad",
+   "weekly planner notepad",
+   "tear off notepad",
+   "grocery list pad"
+  ]
+ },
+ {
+  "slug": "planner-accessories",
+  "parent": "journaling-supplies",
+  "exists": false,
+  "title": "Planner Accessories",
+  "target": 45,
+  "seeds": [
+   "planner pen loop",
+   "planner bookmark",
+   "pen case pencil pouch",
+   "planner cover a5",
+   "planner clips",
+   "corner rounder"
+  ]
+ },
+ {
+  "slug": "stamps-and-ink-pads",
+  "parent": "journaling-supplies",
+  "exists": false,
+  "title": "Stamps and Ink Pads",
+  "target": 25,
+  "seeds": [
+   "planner stamps",
+   "clear stamps journaling",
+   "date stamp",
+   "ink pad set"
+  ]
+ },
+ {
+  "slug": "patriotic-and-military",
+  "parent": null,
+  "exists": true,
+  "target": 30,
+  "seeds": [
+   "military journal",
+   "patriotic notebook",
+   "veteran gift journal"
+  ]
+ },
+ {
+  "slug": "dated-planners",
+  "parent": "planners",
+  "exists": false,
+  "title": "2027 Planners",
+  "target": 120,
+  "note": "hub: products stay in their layout category too; slug has no year, the title changes yearly",
+  "seeds": [
+   "2027 planner",
+   "2027 weekly planner",
+   "2027 monthly planner",
+   "2026-2027 academic planner",
+   "18 month planner 2027"
+  ]
+ },
+ {
+  "slug": "journal-gift-sets",
+  "parent": "journaling-supplies",
+  "exists": false,
+  "title": "Journal Gift Sets and Kits",
+  "target": 40,
+  "note": "listing must state a set, kit or gift box",
+  "seeds": [
+   "journal gift set",
+   "journaling kit",
+   "pen gift set",
+   "planner gift box"
+  ]
+ },
+ {
+  "slug": "kids-and-teen-journals",
+  "parent": "bullet-journals",
+  "exists": false,
+  "title": "Kids and Teen Journals",
+  "target": 40,
+  "note": "deferred Nov. 10: too few products whose listing names kids or teens as the audience; scan for it first",
+  "seeds": [
+   "journal for kids",
+   "diary for girls with lock",
+   "teen journal",
+   "kids planner"
+  ]
+ }
 ]
