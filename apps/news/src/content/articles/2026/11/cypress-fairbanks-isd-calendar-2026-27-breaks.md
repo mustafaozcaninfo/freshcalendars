@@ -57,7 +57,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [houston-isd-calendar-2026-27-holidays-breaks, clear-creek-isd-calendar-2026-27-breaks, katy-isd-calendar-2026-27-breaks]
+related: [houston-isd-calendar-2026-27-holidays-breaks, fort-bend-isd-calendar-2026-27, katy-isd-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "Cy-Fair ISD · 2026-27"
