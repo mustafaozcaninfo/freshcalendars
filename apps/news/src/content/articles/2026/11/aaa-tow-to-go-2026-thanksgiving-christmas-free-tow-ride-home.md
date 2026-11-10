@@ -80,7 +80,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [thanksgiving-travel-2026-best-days-to-fly-and-drive, whats-open-new-years-eve-new-years-day-2027, free-rides-to-the-polls-2026-lyft-uber-transit]
+related: [thanksgiving-travel-2026-best-days-to-fly-and-drive, whats-open-new-years-eve-new-years-day-2027, christmas-travel-2026-busiest-days-to-fly-tsa-checkpoint-counts]
 downloads:
   - group: "AAA Tow to Go 2026 printables"
     title: "AAA Tow to Go 2026: Windows and Phone Card"
