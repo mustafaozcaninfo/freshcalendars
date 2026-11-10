@@ -131,6 +131,10 @@ def check(path, live=False):
     # Writing rules over every visible field
     vis = ' '.join([t, st, sm, md, ' '.join(hl), body])
     low = vis.lower()
+    # A hype word inside the product's own capitalized name ("The Great Big Grid") is the name, not praise
+    for name in re.findall(r'\b(?:[A-Z][\w\'&-]*\s+){0,3}[A-Z][\w\'&-]*', listing.split('\n')[0]):
+        if len(name.split()) >= 2 and re.search(r'\b(?:' + HYPE + r')\b', name.lower()):
+            low = low.replace(re.sub(r'^(?:the|a|an)\s+', '', name.lower()), ' ')
     for name, rx in (('banned word', BANNED), ('hype word', HYPE), ('first-hand testing claim', FAKE_TEST), ('false urgency', URGENCY), ('health, mood or faith outcome', OUTCOME)):
         hits = sorted(set(m.group(0) for m in re.finditer(r'\b(?:' + rx + r')\b', low)))
         if hits: F(f'{name}: {", ".join(hits[:6])}')
