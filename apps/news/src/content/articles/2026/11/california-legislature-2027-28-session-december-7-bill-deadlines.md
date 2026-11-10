@@ -2,7 +2,7 @@
 title: "California Legislature 2027-28 Session: Convenes Mon., Dec. 7"
 description: "The California Legislature convenes at noon Mon., Dec. 7, 2026 for the 2027-28 session. The 2025 first-year deadline table and a printable tracker."
 type: explainer
-publishedAt: "2026-11-10T12:37:00-05:00"
+publishedAt: "2026-11-10T13:18:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["california legislative session 2027", "when does california legislature convene 2026", "california legislature 2027-28 session", "california bill introduction deadline 2027"]
@@ -64,13 +64,13 @@ assets:
     alt: "Printable tracker of California Legislature dates from the Nov. 30, 2026 sine die adjournment to the Dec. 7 convening of the 2027-28 session"
     data:
       target: { date: "2027-06-15", label: "Budget Bill must be passed" }
-      columns: ["Milestone"]
+      columns: ["Calendar entry"]
       rows:
-        - { date: "2026-11-30", cells: { Milestone: "2025-26 session ends: adjournment sine die at midnight" }, src: 1, quote: "Nov. 30 Adjournment sine die at midnight (Art. IV, Sec. 3(a))." }
-        - { date: "2026-12-07", cells: { Milestone: "2027-28 Regular Session convenes at 12 noon" }, src: 1, quote: "Dec. 7 12 Noon convening of the 2027-28 Regular Session (Art. IV, Sec. 3(a))." }
-        - { date: "2027-01-01", cells: { Milestone: "Statutes enacted in 2026 take effect" }, src: 1, quote: "Jan. 1 Statutes take effect (Art. IV, Sec. 8(c))." }
-        - { date: "2027-01-10", cells: { Milestone: "Governor's budget due (a Sunday in 2027)" }, src: 1, quote: "Jan. 10 Budget must be submitted by Governor (Art. IV, Sec. 12 (a))." }
-        - { date: "2027-06-15", cells: { Milestone: "Budget Bill must be passed by midnight" }, src: 1, quote: "June 15 Budget Bill must be passed by midnight (Art. IV, Sec. 12(c)(3))." }
+        - { date: "2026-11-30", cells: { Calendar entry: "2025-26 session ends: adjournment sine die at midnight" }, src: 1, quote: "Nov. 30 Adjournment sine die at midnight (Art. IV, Sec. 3(a))." }
+        - { date: "2026-12-07", cells: { Calendar entry: "2027-28 Regular Session convenes at 12 noon" }, src: 1, quote: "Dec. 7 12 Noon convening of the 2027-28 Regular Session (Art. IV, Sec. 3(a))." }
+        - { date: "2027-01-01", cells: { Calendar entry: "Statutes enacted in 2026 take effect" }, src: 1, quote: "Jan. 1 Statutes take effect (Art. IV, Sec. 8(c))." }
+        - { date: "2027-01-10", cells: { Calendar entry: "Governor's budget due (a Sunday in 2027)" }, src: 1, quote: "Jan. 10 Budget must be submitted by Governor (Art. IV, Sec. 12 (a))." }
+        - { date: "2027-06-15", cells: { Calendar entry: "Budget Bill must be passed by midnight" }, src: 1, quote: "June 15 Budget Bill must be passed by midnight (Art. IV, Sec. 12(c)(3))." }
       unconfirmed:
         - { label: "2027 calendar: bill introduction deadline, house-of-origin deadline, recesses and January 2027 reconvening date", why: "The Senate and Assembly clerks had not posted a 2027 calendar as of Nov. 10, 2026" }
         - { label: "Dec. 7 ceremony program", why: "The Senate events page said No events are scheduled on Nov. 10, 2026" }
