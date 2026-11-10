@@ -54,7 +54,7 @@ internalLinks:
     label: "March 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [when-do-2026-election-winners-take-office-congress-governors, florida-amendments-2026-ballot-senate-special-election, texas-legislative-session-2027-january-12-bill-filing-deadlines]
+related: [when-do-2026-election-winners-take-office-congress-governors, virginia-general-assembly-2027-session-january-13-prefiling-deadlines, texas-legislative-session-2027-january-12-bill-filing-deadlines]
 assets:
   overlay: true
   kicker: "Florida Legislature · 2027 session"
