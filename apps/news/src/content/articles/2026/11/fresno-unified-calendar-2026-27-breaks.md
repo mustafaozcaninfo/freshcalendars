@@ -56,7 +56,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [lausd-calendar-2026-27-winter-break-spring-break, san-diego-unified-calendar-2026-27-breaks, elk-grove-unified-calendar-2026-27-breaks]
+related: [lausd-calendar-2026-27-winter-break-spring-break, san-diego-unified-calendar-2026-27-breaks, clovis-unified-calendar-2026-27]
 downloads:
   - group: "Fresno Unified Calendar 2026-27 printables"
     title: "Fresno Unified Calendar 2026-27"
