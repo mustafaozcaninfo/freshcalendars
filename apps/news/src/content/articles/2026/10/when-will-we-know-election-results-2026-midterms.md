@@ -3,7 +3,7 @@ title: "When Do They Start Counting Votes 2026? 17-State Timeline"
 description: "When counting starts in 2026 varies: Florida can process mail ballots 22 days early, Pennsylvania and Wisconsin at 7 a.m. Election Day. 17-state timeline."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-09T21:27:00-05:00"
+updatedAt: "2026-11-10T01:25:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -105,6 +105,10 @@ sources:
     url: "https://alaskapublic.org/news/politics/elections/2026-10-05/what-to-know-about-alaskas-general-election"
     publisher: "Alaska Public Media"
     date: "2026-10-05"
+  - title: "2026 Election Results"
+    url: "https://oklahoma.gov/elections/elections-results/election-results/2026-election-results/november-general-election.html"
+    publisher: "Oklahoma State Election Board"
+    date: "2026-11-10"
   - title: "Arizona Revised Statutes, Section 16-642"
     url: "https://www.azleg.gov/ars/16/00642.htm"
     publisher: "Arizona Legislature"
@@ -147,6 +151,8 @@ In Clark County, Nevada, voters can fix a mail ballot signature problem until 5 
 Three more states are still receiving or curing ballots. Oregon's Secretary of State now lists the dates on its current-election page: the "Last day for counties to receive valid postmarked ballots by mail" is Tuesday, Nov. 10, the "Last day to resolve ballot challenges" is Tuesday, Nov. 24, and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says results "will be updated at least once every weekday by 4:00 PM MT through the cure deadline on November 12, with the exception of Veteran's Day, November 11," which is 4 p.m. Mountain Time (MT), or 6 p.m. ET, and that "after that, election workers will continue to count ballots." Its Nov. 6 release repeats the cure deadline: "Voters have until November 12 to correct any signature or ID issue with their 2026 General Election ballot," through their county or the Colorado BallotCure tool on GoVoteColorado.gov. Nov. 12 is also the "Last day for military and overseas ballots to be received by county clerks," the release says. It lists four later dates: Monday, Nov. 16, the "Deadline for the Secretary of State's Office to establish the 20-digit random seed for the bipartisan Risk Limiting Audit and notify counties of the ballots selected for audit"; Tuesday, Nov. 24, the "Deadline for county audit boards to report results of the bipartisan Risk Limiting Audit to the Secretary of State's Office"; Wednesday, Nov. 25, the "Deadline for county canvass boards to complete canvass and submit official election abstract to Secretary of State's Office"; and Friday, Nov. 27, the "Deadline for Secretary of State's Office to order a statutory recount, if required."
 
 The Pennsylvania Department of State lists Nov. 10 as the last day for county election offices to receive completed military and overseas absentee ballots that were submitted for delivery no later than 11:59 p.m. on Nov. 2, so Pennsylvania counties can still receive those ballots.
+
+In Oklahoma, the State Election Board says it "meets Tuesday, November 10 to certify state and federal elections." County election boards met Friday, Nov. 6, at 5 p.m. to certify county-level results, the board says. Results on its page were still labeled unofficial, and it says they "are unofficial until certified."
 
 California's Secretary of State says on its unprocessed ballots status page for the Nov. 3, 2026 election that "it typically takes weeks for counties to process and count all of the ballots"; in its Nov. 5 [unprocessed ballot report](https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/office-california-secretary-state-issues-unprocessed-ballot-report), the Secretary of State said "California's county elections officials have already processed and counted 8,906,017 ballots" and "County elections officials estimate 4,816,722 outstanding ballots remain to be processed and counted." The Secretary of State has not posted a newer statewide estimate in its news releases as of Nov. 9. We could not confirm from most state election offices how many ballots remain to be counted, and as of Nov. 9 no state election office we checked says its count is finished. Check your state's election office through our [live blog](/news/election-day-2026-results-map/) for the latest.
 
@@ -220,6 +226,7 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 | Date | What happens |
 |---|---|
 | Nov. 4-10 | Late mail ballots arrive in grace-period states (Texas Nov. 4, Nevada Nov. 7, California, New York and Oregon Nov. 10); Pennsylvania receives military and overseas ballots until Nov. 10 |
+| Nov. 10 | Oklahoma State Election Board meets to certify state and federal results, per the board |
 | Nov. 12 | Colorado signature cure deadline and last day for county clerks to receive military and overseas ballots; Colorado's weekday results updates by 4 p.m. MT run through this date (none on Veterans Day, Nov. 11) |
 | Nov. 16 | California counties finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule); Colorado's Secretary of State sets the random seed for the Risk Limiting Audit and tells counties which ballots to audit |
 | Nov. 24 | Oregon's last day to resolve ballot challenges, per the Secretary of State; Colorado county audit boards report Risk Limiting Audit results, per the Colorado Secretary of State |
