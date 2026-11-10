@@ -126,6 +126,8 @@ The rows below come from ausopen.com: the What's On page, the Mar. 23, 2026 anno
 | Qualifying begins | Jan. 11 | Monday |
 | Opening Week ends | Jan. 16 | Saturday |
 | Main-draw action begins | Jan. 17 | Sunday |
+| Main Draw Week One ends | Jan. 24 | Sunday |
+| Main Draw Week Two begins | Jan. 25 | Monday |
 | Finals | Jan. 30 and Jan. 31 | Saturday and Sunday |
 
 The site does not say which final is on which day, and the Kids Tennis Day date, the draw ceremony and the qualifying end date are not yet published. Opening Week includes qualifying, player practice, Kids Tennis Day and live entertainment across the precinct. The Lawn Tennis Association (LTA), the UK tennis body, lists qualifying for Monday, Jan. 11 to Saturday, Jan. 16. Mark the three weeks on our [January 2027 printable calendar](/january-calendars.html) or use the planner in the downloads box.
