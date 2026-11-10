@@ -69,3 +69,9 @@ body.cr-prism .fs-sec .group.relative h3 a{display:inline-flex;align-items:cente
 .fc-table.fc-spec table{min-width:0!important;width:100%}
 .fc-table.fc-spec td:first-child{white-space:nowrap;font-weight:600;color:#0e2135}
 @media (max-width:480px){.fc-table.fc-spec td:first-child{white-space:normal}}
+/* Tap targets of 24px or more everywhere (WCAG 2.5.8): breadcrumbs, product card titles, "New" badges, footer lists, inline text links */
+body.cr-prism nav[aria-label="Breadcrumb"] a,body.cr-prism ol li a.truncate{display:inline-flex;align-items:center;min-height:24px}
+body.cr-prism .group.relative h3 a{display:inline-block;padding-block:2px}
+body.cr-prism a.fs-al{display:inline-flex;align-items:center;min-height:24px}
+body.cr-prism ul.space-y-6>li>a{display:inline-flex;align-items:center;min-height:24px}
+body.cr-prism .prose p a,body.cr-prism .prose li a,body.cr-prism caption a,body.cr-prism p.text-sm a{padding-block:2px}

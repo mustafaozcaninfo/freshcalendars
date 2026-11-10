@@ -80,8 +80,8 @@
   "cluster": "journal-types",
   "id": 4,
   "title": "Types of Journals: Bullet, Gratitude, Travel and More",
-  "enabled": false,
-  "published_at": "2026-11-12T06:37:47.000000Z",
+  "enabled": true,
+  "published_at": "2026-11-09T19:20:00.000000Z",
   "products": [
    40,
    60,
@@ -107,8 +107,8 @@
   "cluster": "planner-accessories",
   "id": 5,
   "title": "Planner Accessories: Pens, Stickers, Washi Tape and Stencils",
-  "enabled": false,
-  "published_at": "2026-11-15T06:37:47.000000Z",
+  "enabled": true,
+  "published_at": "2026-11-09T21:10:00.000000Z",
   "products": [
    71,
    75,
