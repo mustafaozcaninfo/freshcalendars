@@ -2324,5 +2324,82 @@
   "enabled": false,
   "price_checked": "2026-11-10",
   "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "gifts-for-journalers-under-25",
+  "id": 67,
+  "title": "Gifts for Journalers Under $25: 9 Picks, Cost per Roll and Page",
+  "type": "gift",
+  "primary_query": "gifts for journalers under $25",
+  "cluster": "gifts-for-journalers-under-25",
+  "products": [
+   250,
+   252,
+   267,
+   270,
+   288,
+   301,
+   983,
+   1141,
+   1193
+  ],
+  "h2": [
+   "How these nine journaling gifts were chosen",
+   "Journals that arrive ready to give",
+   "Washi tape sets compared by cost per roll",
+   "Stencils and markers for people who design their own pages",
+   "Which journal paper goes with markers and fountain pens?",
+   "When to buy and what to add for free"
+  ],
+  "related": [
+   "types-of-journals",
+   "christmas-gifts-for-planner-lovers"
+  ],
+  "image": "https://images.unsplash.com/photo-1615419235091-59bf9cbd530b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxqb3VybmFsJTIwZ2lmdCUyMGZsYXQlMjBsYXl8ZW58MXwwfHx8MTc5NDMwODQ5OXww&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-11T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "planner-gifts-for-moms",
+  "id": 68,
+  "title": "Planner Gifts for Moms: 11 Picks by Family Size and Budget",
+  "type": "gift",
+  "primary_query": "planner gifts for moms",
+  "cluster": "gifts-for-moms-planners",
+  "products": [
+   211,
+   231,
+   237,
+   460,
+   463,
+   593,
+   968,
+   992,
+   1134,
+   1552,
+   1598
+  ],
+  "h2": [
+   "How we chose these eleven planner gifts for moms",
+   "Gifts for the mom who runs the household calendar",
+   "Gifts for the mom who cooks for everyone",
+   "Gifts for the mom who manages the money",
+   "Gifts for the mom who keeps the memories",
+   "Gifts for the mom who wants a quiet page",
+   "What to check before wrapping a planner",
+   "A free printable to tuck in the card"
+  ],
+  "related": [
+   "christmas-gifts-for-planner-lovers",
+   "how-to-choose-a-planner",
+   "best-gratitude-journals"
+  ],
+  "image": "https://images.pexels.com/photos/6170653/pexels-photo-6170653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-12T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
  }
 ]
