@@ -165,8 +165,13 @@ def check(path, live=False):
         elif len(shared) > 2: F(f'{len(shared)} links shared with product {o["id"]} (2 at most): vary the category, article and printable')
 
     if live:
+        own = 'https://shop.freshcalendars.com/categories/' + str(d.get('category_slug', ''))
         for u in sorted(set(links)):
             code = subprocess.run(['curl', '-s', '-o', '/dev/null', '-w', '%{http_code}', '-A', UA, u], capture_output=True, text=True).stdout
+            # a hidden category opens once 5 products are live (publish_products --open-categories), so its own
+            # category may still answer 404 while its first products are published; FC_ALLOW_HIDDEN_OWN=1 allows that
+            if code == '404' and u.rstrip('/') == own and os.environ.get('FC_ALLOW_HIDDEN_OWN') == '1':
+                W(f'live: own category {u} is still hidden; run publish_products.py --open-categories'); continue
             if code != '200': F(f'live: {u} answers {code}')
         s, r = call('GET', f"products/{d['id']}?include=offers")
         offers = (r.get('data') or {}).get('offers') or []
