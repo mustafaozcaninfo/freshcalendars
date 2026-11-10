@@ -1,9 +1,9 @@
 ---
 title: "Golden Globes 2027 Nominations: Dec. 7, Show on Jan. 10"
-description: "Golden Globes 2027 nominations come Monday, Dec. 7, 2026; the show airs Sunday, Jan. 10 on CBS. Oscars are March 14. A 15-event awards calendar to print."
+description: "Golden Globes 2027 nominations come Monday, Dec. 7, 2026; the show airs Sunday, Jan. 10 on CBS. Oscars are March 14. A 16-event awards calendar to print."
 type: news
 publishedAt: "2026-10-31T01:00:00-04:00"
-updatedAt: "2026-11-08T19:25:00-05:00"
+updatedAt: "2026-11-10T15:20:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["golden globes 2027 date", "oscars 2027 date", "when are the oscars 2027", "awards season 2027 calendar", "oscar nominations 2027"]
@@ -23,7 +23,7 @@ summary:
   - "The 84th Golden Globes are on Sunday, Jan. 10, 2027, on CBS and Paramount+ in the U.S. from 7:30 p.m. to 9:30 p.m. ET, with Nikki Glaser returning as host; nominations come Monday, Dec. 7, 2026, the Golden Globes say."
   - "The 99th Oscars are on Sunday, March 14, 2027, live on ABC at 7 p.m. Eastern Time (ET) / 4 p.m. Pacific Time (PT), per the Academy."
   - "Oscar nominations are announced Thursday, Jan. 21, 2027, after nominations voting from Jan. 11 to Jan. 15."
-  - "The table lists 15 awards-season events from Nov. 16, 2026, to March 14, 2027, including the Directors Guild of America (DGA) Awards on Saturday, Jan. 30, the Producers Guild of America (PGA) Awards on Saturday, Feb. 27 and the Actor Awards on Sunday, Feb. 28, live on Netflix; the British Academy of Film and Television Arts (BAFTA) date is not confirmed."
+  - "The table lists 16 awards-season events from Nov. 16, 2026, to March 14, 2027, including the Directors Guild of America (DGA) Awards on Saturday, Jan. 30, the Producers Guild of America (PGA) Awards on Saturday, Feb. 27 and the Actor Awards on Sunday, Feb. 28, live on Netflix; the British Academy of Film and Television Arts (BAFTA) date is not confirmed."
 faq:
   - q: "When are the Golden Globes 2027?"
     a: "Sunday, Jan. 10, 2027, from 7:30 p.m. to 9:30 p.m. ET (4:30 p.m. to 6:30 p.m. PT), live on CBS and Paramount+, according to CBS. Nikki Glaser will return to host, the Golden Globes say."
@@ -73,6 +73,10 @@ sources:
     url: "https://www.filmindependent.org/press-releases/film-independent-spirit-awards-announces-2027-and-2028-dates/"
     publisher: "Film Independent"
     date: "2026-04-10"
+  - title: "2027 Writers Guild Awards: Date Announced"
+    url: "https://origin.www.wga.org/news-events/news/press/2026/2027-writers-guild-awards-date-announced"
+    publisher: "Writers Guild of America"
+    date: "2026-07-16"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -109,13 +113,14 @@ assets:
         - { date: "2027-01-21", time: tba, title: "Oscar nominations announced", src: 4 }
         - { date: "2027-01-30", time: tba, title: "79th DGA Awards", detail: "The Beverly Hilton", src: 8 }
         - { date: "2027-02-07", time: tba, title: "69th Grammy Awards", detail: "Crypto.com Arena, Los Angeles", channel: "ABC", stream: "Disney+, Hulu", src: 5 }
+        - { date: "2027-02-13", time: tba, title: "2027 Writers Guild Awards", src: 11 }
         - { date: "2027-02-27", time: tba, title: "PGA Awards", src: 9 }
         - { start: "2027-02-28T20:00-05:00", title: "Actor Awards", channel: "Netflix", src: 7 }
         - { date: "2027-03-06", time: tba, title: "42nd Film Independent Spirit Awards", detail: "Hollywood Palladium", src: 10 }
         - { start: "2027-03-14T19:00-04:00", title: "99th Oscars", detail: "Dolby Theatre, Ovation Hollywood", channel: "ABC", src: 3 }
       unconfirmed:
         - { label: "BAFTA Film Awards date", why: "not confirmed on the organizer's site when we checked, so it is left out" }
-    note: "Source: Golden Globes (May 7, 2026), CBS, Academy of Motion Picture Arts and Sciences (April 7, 2026), Recording Academy (May 12, 2026), Critics Choice Association (April 20, 2026), The Actor Awards, Directors Guild of America (July 21, 2026), Producers Guild of America (April 7, 2026), Film Independent (April 10, 2026). Dates are subject to change."
+    note: "Source: Golden Globes (May 7, 2026), CBS, Academy of Motion Picture Arts and Sciences (April 7, 2026), Recording Academy (May 12, 2026), Critics Choice Association (April 20, 2026), The Actor Awards, Directors Guild of America (July 21, 2026), Producers Guild of America (April 7, 2026), Film Independent (April 10, 2026), Writers Guild of America (July 16, 2026). Dates are subject to change."
 downloads:
   - group: "Awards Season 2026-27 Calendar printables"
     title: "Awards Season 2026-27 Calendar"
@@ -147,6 +152,7 @@ Each row comes from the organizer's own announcement. "None listed" and "Not lis
 | Thu., Jan. 21, 2027 | Oscar nominations announced | None listed | Not listed |
 | Sat., Jan. 30, 2027 | 79th DGA Awards, Beverly Hilton Hotel | None listed | Not listed |
 | Sun., Feb. 7, 2027 | 69th Grammy Awards, Crypto.com Arena, Los Angeles | ABC, Disney+, Hulu | Not listed |
+| Sat., Feb. 13, 2027 | 2027 Writers Guild of America (WGA) Awards | None listed | Not listed |
 | Sat., Feb. 27, 2027 | PGA Awards | None listed | Not listed |
 | Sun., Feb. 28, 2027 | Actor Awards | Netflix | 8 p.m. ET / 5 p.m. PT |
 | Sat., March 6, 2027 | 42nd Film Independent Spirit Awards, Hollywood Palladium | None listed | Not listed |
@@ -154,7 +160,7 @@ Each row comes from the organizer's own announcement. "None listed" and "Not lis
 
 The date and weekday for each row come from the organizers' pages cited under Sources. The [Actor Awards site](https://www.actorawards.org/) lists its ceremony for Sunday, Feb. 28, 2027, live on Netflix at 8 p.m. ET / 5 p.m. PT. We have no confirmed date for the British Academy of Film and Television Arts (BAFTA) Film Awards, so it is left out until the organizer posts it.
 
-The guild shows come between the Golden Globes and the Oscars. The DGA says the 79th DGA Awards "will take place on Saturday, January 30, 2027 at the Beverly Hilton Hotel," with feature film nominees announced Thursday, Jan. 7. The PGA lists theatrical motion picture nominations for Friday, Jan. 8, 2027, and the 2027 Producers Guild Awards for Saturday, Feb. 27, 2027. Neither guild lists a network or time in the pages we used. Film Independent says the 42nd annual Spirit Awards will take place on Saturday, March 6, 2027, at the Hollywood Palladium, and its release gives no network or time.
+The guild shows come between the Golden Globes and the Oscars. The DGA says the 79th DGA Awards "will take place on Saturday, January 30, 2027 at the Beverly Hilton Hotel," with feature film nominees announced Thursday, Jan. 7. The PGA lists theatrical motion picture nominations for Friday, Jan. 8, 2027, and the 2027 Producers Guild Awards for Saturday, Feb. 27, 2027. The WGA says the 2027 Writers Guild Awards "will be held on Saturday, February 13, 2027." None of the three guilds lists a network or time in the pages we used. Film Independent says the 42nd annual Spirit Awards will take place on Saturday, March 6, 2027, at the Hollywood Palladium, and its release gives no network or time.
 
 ## Golden Globes 2027: ceremony, nominations and ballot deadline
 
