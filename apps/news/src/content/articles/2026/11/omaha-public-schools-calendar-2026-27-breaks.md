@@ -59,7 +59,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [wichita-public-schools-calendar-2026-27, denver-public-schools-calendar-2026-27-breaks, winter-break-2026-school-districts-dates]
+related: [wichita-public-schools-calendar-2026-27, des-moines-public-schools-calendar-2026-27, winter-break-2026-school-districts-dates]
 assets:
   overlay: true
   kicker: "OPS calendar · 2026-27"

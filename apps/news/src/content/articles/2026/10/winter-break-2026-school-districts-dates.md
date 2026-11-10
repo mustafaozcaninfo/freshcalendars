@@ -319,6 +319,7 @@ We read each calendar on the district's own website or in its official PDF. Here
 | [Baltimore County, Md.](/news/baltimore-county-public-schools-calendar-2026-27-breaks/) | Dec. 24-Jan. 1 | Mon., Jan. 4 |
 | [Jefferson County, Ky. (JCPS)](/news/jcps-calendar-2026-27-jefferson-county-public-schools-breaks/) | Dec. 21-Jan. 1 | Mon., Jan. 4 |
 | [Seattle Public Schools](/news/seattle-public-schools-calendar-2026-27-breaks/) | Dec. 21-Jan. 1 | Mon., Jan. 4 |
+| [Des Moines Public Schools, Iowa](/news/des-moines-public-schools-calendar-2026-27/) | Dec. 21-Jan. 1 | Not listed |
 | [Katy ISD, Texas](/news/katy-isd-calendar-2026-27-breaks/) | Dec. 21-Jan. 1 (plus Jan. 4) | Tue., Jan. 5 |
 | [Fort Worth ISD, Texas](/news/fort-worth-isd-calendar-2026-27-breaks/) | Dec. 21-Jan. 1 (plus Jan. 4) | Tue., Jan. 5 |
 | [DC Public Schools](/news/dcps-calendar-2026-27-dc-public-schools-breaks/) | Dec. 21-Jan. 1 | Mon., Jan. 4 |
