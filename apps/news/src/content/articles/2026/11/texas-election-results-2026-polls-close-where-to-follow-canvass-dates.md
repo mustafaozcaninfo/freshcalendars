@@ -87,7 +87,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [texas-ballot-2026-candidates-senate-governor-statewide-races, when-will-we-know-election-results-2026-midterms, when-are-2026-election-results-certified-deadlines-by-state]
+related: [texas-ballot-2026-candidates-senate-governor-statewide-races, when-will-we-know-election-results-2026-midterms, texas-legislative-session-2027-january-12-bill-filing-deadlines]
 assets:
   overlay: true
   kicker: "Texas election results · Nov. 3, 2026"
