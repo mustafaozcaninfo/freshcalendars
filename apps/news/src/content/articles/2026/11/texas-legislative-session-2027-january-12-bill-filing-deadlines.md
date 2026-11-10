@@ -112,7 +112,7 @@ draft: false
 
 ## Texas legislative session 2027 dates
 
-| Item | 2027 date | Source |
+| Milestone | 2027 date | Source |
 |---|---|---|
 | Session begins (day 1) | Tue., Jan. 12 | LRL: "The 90th Regular Legislative Session begins on January 12, 2027." |
 | Day 60, bill filing deadline | Fri., March 12 (computed) | Counted like the LRL's 2025 notice |
