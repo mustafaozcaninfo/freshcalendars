@@ -128,7 +128,7 @@ Weekdays and the home and away counts are our own calculation from the NBA's PDF
 
 ## Warriors Christmas Day game 2026 against Denver
 
-The Warriors host the Denver Nuggets on Christmas Day, Fri., Dec. 25, 2026, at 7:30 p.m. PT (10:30 p.m. ET), per the NBA's schedule. It is the only Warriors game on ABC and ESPN in December. For the full holiday lineup across the league, see our [Christmas Day 2026 games guide](/news/christmas-day-2026-games-nba-nfl-schedule-times-tv/), and our [guide to when Christmas falls](/when-is/christmas/) marks the date on the calendar.
+The Warriors host the [Denver Nuggets](/news/denver-nuggets-schedule-december-2026-game-times-tv-christmas-printable/) on Christmas Day, Fri., Dec. 25, 2026, at 7:30 p.m. PT (10:30 p.m. ET), per the NBA's schedule. It is the only Warriors game on ABC and ESPN in December. For the full holiday lineup across the league, see our [Christmas Day 2026 games guide](/news/christmas-day-2026-games-nba-nfl-schedule-times-tv/), and our [guide to when Christmas falls](/when-is/christmas/) marks the date on the calendar.
 
 ## The empty stretch on the Warriors' December calendar
 

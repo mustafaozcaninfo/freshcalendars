@@ -82,7 +82,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, denver-nuggets-schedule-november-2026-game-times-tv-mexico-city-printable, golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable]
+related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, denver-nuggets-schedule-november-2026-game-times-tv-mexico-city-printable, dallas-mavericks-schedule-december-2026-game-times-tv-printable]
 downloads:
   - group: "Mavericks Schedule printables"
     title: "Mavericks Schedule, November 2026"
