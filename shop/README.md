@@ -64,17 +64,18 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - Robots.txt gets the platform's own `User-agent: *` block and Sitemap line appended. Tag pages are noindex automatically.
 - Visitors outside the enabled countries (USA, CAN, GBR, DEU) may see GBP from client-side geo detection. US visitors get USD, and the CDN does not cache by country.
 
-## State on Nov. 9, 2026
+## State on Nov. 10, 2026
 
 **Catalog and content**
 
 | Item | Count |
 |---|---|
-| Live products | 240; 24 of them have no Amazon offer (only eBay, Walmart, AliExpress or Etsy offers) |
-| Enabled categories | 30 (top level: Planners, Bullet Journals, Journaling Supplies, Calendars, Guided Journals, Patriotic and Military) |
-| Articles | 5 (`types-of-journals` and `planner-accessories-guide` are scheduled for Nov. 12 and Nov. 15) |
+| Live products | 719. 681 pages written to the `shop-product` rules on Nov. 9-10; about 35 older pages keep their AI copy (products whose only offers are eBay, Walmart, AliExpress or Etsy, and thin listings used in articles or on `/veterans-day-gifts`) |
+| Hidden products | 263: imported but not published (thin title-only listings, color or design variants, out of stock); list in `.cache/shop/import/thin-hidden.json` |
+| Categories | 52 enabled, 8 hidden until they hold 5 products (plan: `data/category-plan.json`) |
+| Articles | 10 (`types-of-journals` and `planner-accessories-guide` are scheduled for Nov. 12 and Nov. 15) |
 | Ratings live | 76 (score 4.0 or more only; see `ratings/`) |
-| Redirects | about 400 |
+| Redirects | about 420; the 2 still marked broken point to the two scheduled articles |
 
 **Pages:**
 - `/how-we-rate-products`: the public rating method
