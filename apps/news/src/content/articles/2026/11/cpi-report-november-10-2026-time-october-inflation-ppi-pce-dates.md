@@ -3,7 +3,7 @@ title: "BLS CPI Release Schedule: Nov. 10, 2026 at 8:30 a.m. ET"
 description: "October 2026 Consumer Price Index (CPI) rose 0.4%, core 0.3%, the Bureau of Labor Statistics said Nov. 10. No 12-month change; dates run to March 2027."
 type: news
 publishedAt: "2026-11-01T22:44:00-05:00"
-updatedAt: "2026-11-10T09:45:00-05:00"
+updatedAt: "2026-11-10T09:30:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["cpi report november 2026", "when is the next cpi report", "cpi release date", "inflation report november 10 2026", "ppi release date november 2026"]
