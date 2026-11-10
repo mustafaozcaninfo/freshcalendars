@@ -54,7 +54,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [sample-ballot-by-zip-code-2026-texas-ballot, 2026-midterm-elections-whats-on-the-ballot-results-tracker, georgia-2026-ballot-amendments-advance-voting]
+related: [sample-ballot-by-zip-code-2026-texas-ballot, 2026-midterm-elections-whats-on-the-ballot-results-tracker, florida-legislative-session-2027-march-2-organization-session-november-17]
 downloads:
   - group: "Election 2026 printables"
     title: "Florida Ballot Checklist, Nov. 3, 2026"
