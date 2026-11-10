@@ -2,8 +2,8 @@
 title: "Busiest Christmas Travel Days 2026: Last Year's Peak Maps to Dec. 27"
 description: "Last year's busiest airport day after Christmas was Sunday, Dec. 28. Daily screening counts matched to Dec. 18-30, 2026, plus a day-by-day printable."
 type: explainer
-publishedAt: "2026-11-10T06:00:00-05:00"
-updatedAt: "2026-11-10T06:00:00-05:00"
+publishedAt: "2026-11-10T05:17:00-05:00"
+updatedAt: "2026-11-10T05:17:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["busiest travel days Christmas 2026", "best day to fly for Christmas 2026", "Christmas travel 2026", "busiest day to fly Christmas", "TSA checkpoint numbers Christmas"]

@@ -2,8 +2,8 @@
 title: "World Usability Day 2026: Thursday, Nov. 12, Theme Is Ethical AI"
 description: "World Usability Day 2026 is Thursday, Nov. 12; the theme is Designing a Sustainable Future with Ethical AI. A live countdown and a free checklist sheet."
 type: news
-publishedAt: "2026-11-10T08:30:00-05:00"
-updatedAt: "2026-11-10T08:30:00-05:00"
+publishedAt: "2026-11-10T05:23:00-05:00"
+updatedAt: "2026-11-10T05:23:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["world usability day 2026", "world usability day 2026 theme", "world usability day november 12", "ethical ai theme"]
