@@ -1,14 +1,13 @@
 # Bing Webmaster Tools (generated, do not edit)
 
-Read 2026-11-09T19:48 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
+Read 2026-11-10T09:14 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
 
 ## Clicks and impressions
 
-Last 7 days with data: 3,547 clicks, 462,174 impressions (the 7 before: 2,369 clicks, 263,149 impressions).
+Last 7 days with data: 3,442 clicks, 434,794 impressions (the 7 before: 2,777 clicks, 306,601 impressions).
 
 | Day | Clicks | Impressions |
 |---|---:|---:|
-| 2026-10-24 | 60 | 10,653 |
 | 2026-10-25 | 184 | 18,045 |
 | 2026-10-26 | 693 | 63,053 |
 | 2026-10-27 | 229 | 32,916 |
@@ -22,6 +21,7 @@ Last 7 days with data: 3,547 clicks, 462,174 impressions (the 7 before: 2,369 cl
 | 2026-11-04 | 558 | 65,369 |
 | 2026-11-05 | 451 | 63,726 |
 | 2026-11-06 | 461 | 56,186 |
+| 2026-11-07 | 363 | 26,725 |
 
 ## Top queries, last 28 days
 
@@ -87,31 +87,31 @@ Queries at position 2.5 to 20 with 50+ impressions and a click rate under 3%: th
 
 | Page | Impressions | Clicks | Click rate | Avg. position |
 |---|---:|---:|---:|---:|
+| /news/daylight-saving-time-ends-november-1-2026/ | 44,910 | 491 | 1.1% | 6.0 |
 | /news/ballon-dor-2026-date-time-by-time-zone-nominees-london/ | 38,712 | 579 | 1.5% | 4.0 |
-| /news/daylight-saving-time-ends-november-1-2026/ | 20,692 | 219 | 1.1% | 6.0 |
-| /news/halloween-2026-what-day-trick-or-treating-start/ | 14,705 | 81 | 0.6% | 6.0 |
-| /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ | 12,392 | 302 | 2.4% | 2.7 |
+| /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ | 36,086 | 767 | 2.1% | 2.3 |
+| /news/halloween-2026-what-day-trick-or-treating-start/ | 21,319 | 105 | 0.5% | 6.0 |
+| /news/brewers-world-series-parade-2026-friday-october-30-time-route-rally/ | 14,249 | 332 | 2.3% | 5.0 |
 | /news/why-thanksgiving-2026-is-november-26/ | 9,967 | 5 | 0.1% | 8.0 |
-| /news/brewers-world-series-parade-2026-friday-october-30-time-route-rally/ | 9,191 | 265 | 2.9% | 5.0 |
+| /news/veterans-day-free-meals-discounts/ | 7,858 | 494 | 6.3% | 5.2 |
 | /news/uk-europe-clocks-go-back-october-25-2026-time-difference/ | 6,675 | 28 | 0.4% | 7.0 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 1,992 | 37 | 1.9% | 7.0 |
+| /news/when-do-2026-election-winners-take-office-congress-governors/ | 5,906 | 131 | 2.2% | 6.0 |
+| /news/bonfire-night-2026-thursday-november-5-fireworks-rules/ | 5,173 | 35 | 0.7% | 6.0 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 3,527 | 68 | 1.9% | 6.6 |
+| /news/when-will-we-know-election-results-2026-midterms/ | 3,168 | 97 | 3.1% | 5.7 |
+| /news/ramadan-2027-calendar-dates-timetable/ | 3,099 | 9 | 0.3% | 7.4 |
+| /news/nyt-connections-hints-answers-november-5-2026-1243/ | 3,099 | 50 | 1.6% | 6.0 |
+| /news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/ | 2,969 | 20 | 0.7% | 7.0 |
+| /news/nyt-connections-hints-answers-november-1-2026-1239/ | 2,881 | 49 | 1.7% | 6.0 |
+| /news/next-saturday-halloween-2037-halloween-day-of-week-every-year/ | 2,834 | 17 | 0.6% | 5.0 |
+| /news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/ | 2,708 | 49 | 1.8% | 6.3 |
+| /news/downloads/federal-pay-2027/federal-pay-period-calendar-2027-nfc.pdf | 2,627 | 53 | 2.0% | 6.9 |
+| /news/movember-2026-dates-shave-day-60-km-move-challenge-tracker/ | 2,525 | 21 | 0.8% | 6.0 |
+| /news/downloads/week-numbers-2027/week-number-calendar-2027.pdf | 2,356 | 31 | 1.3% | 7.0 |
+| /news/federal-pay-period-calendar-2027-pay-dates-nfc-gsa-printable/ | 2,237 | 26 | 1.2% | 6.9 |
+| /news/sample-ballot-by-zip-code-2026-texas-ballot/ | 2,086 | 136 | 6.5% | 6.6 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 2,026 | 13 | 0.6% | 7.0 |
 | /news/national-black-cat-day-2026-october-27/ | 1,984 | 11 | 0.6% | 5.0 |
-| /news/sample-ballot-by-zip-code-2026-texas-ballot/ | 1,772 | 108 | 6.1% | 6.7 |
-| /news/halloween-2026-saturday-sunset-trick-or-treat-times/ | 1,422 | 4 | 0.3% | 7.0 |
-| /news/downloads/breeders-cup-2026/breeders-cup-2026-schedule.pdf | 1,412 | 39 | 2.8% | 5.0 |
-| /news/downloads/chicago-public-schools-2026-27/cps-calendar-2026-27.pdf | 1,265 | 24 | 1.9% | 4.8 |
-| /news/sunset-times-after-daylight-saving-time-ends-2026/ | 1,238 | 19 | 1.5% | 6.0 |
-| /news/ramadan-2027-calendar-dates-timetable/ | 1,211 | 3 | 0.2% | 8.0 |
-| /news/dea-drug-take-back-day-october-24-2026-locations/ | 998 | 18 | 1.8% | 7.0 |
-| /news/from-season-5-release-date-mgm-plus-final-season/ | 815 | 4 | 0.5% | 6.0 |
-| /news/downloads/week-numbers-2027/week-number-calendar-2027.pdf | 806 | 7 | 0.9% | 7.1 |
-| /news/movember-2026-dates-shave-day-60-km-move-challenge-tracker/ | 790 | 11 | 1.4% | 6.0 |
-| /news/sample-ballot-2026-by-state-official-lookup-links/ | 789 | 17 | 2.2% | 7.0 |
-| /news/mcat-2027-test-dates-registration-opens-october-20/ | 782 | 0 | 0.0% | 7.0 |
-| /news/marine-corps-marathon-2026-start-times-road-closures-cutoffs/ | 782 | 11 | 1.4% | 7.0 |
-| /news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/ | 703 | 7 | 1.0% | 7.0 |
-| /news/october-22-2026-this-day-in-history-observances/ | 695 | 6 | 0.9% | 5.0 |
-| /news/bonfire-night-2026-thursday-november-5-fireworks-rules/ | 641 | 2 | 0.3% | 6.0 |
 
 ## Crawl and index
 
