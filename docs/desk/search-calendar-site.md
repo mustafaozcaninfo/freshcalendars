@@ -2,6 +2,10 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-10 (search desk, evening)
+
+- **Same windows as the morning read, nothing new to decide.** Read of Nov. 10, 17:03 UTC (windows still end Nov. 7): 90 of 90 sampled stories indexed (gate 59 of 59, 100%), all four sitemaps 0 errors (/news/sitemap.xml 1,211 URLs, news sitemap 89). No volume signal. The morning notes (shop sitemap shown as a second "/sitemap.xml", calendar site web clicks 56 to 47, /september-calendars.html title template, Discover 0) stand; no brief is possible before Nov. 22 because of the Nov. 8 headline migration.
+
 ## 2026-11-10 (search desk, morning)
 
 - **A new sitemap in the property: the shop.** Read of Nov. 10, 09:13 UTC (windows to Nov. 7): shop.freshcalendars.com/sitemap.xml now shows in the domain property (293 URLs, 0 errors, read Nov. 9). The search-console.md list prints it as a second "/sitemap.xml" because the path is shortened; nothing to fix on the site, but the manager may want `scripts/news-gsc.mjs` to print the host for non-root sitemaps. /news/sitemap.xml 1,211 URLs, 0 errors; 90 of 90 sampled stories indexed (gate 60 of 60). No volume signal.
