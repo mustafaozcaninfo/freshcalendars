@@ -1728,5 +1728,470 @@
   "enabled": false,
   "price_checked": "2026-11-10",
   "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-to-do-list-notepads",
+  "id": 48,
+  "title": "Best To Do List Notepads: 8 Compared by Cost per Sheet and Inch",
+  "type": "best",
+  "primary_query": "best to do list notepads",
+  "cluster": "notepads-to-do",
+  "products": [
+   470,
+   473,
+   474,
+   476,
+   477,
+   478,
+   1620,
+   1624
+  ],
+  "h2": [
+   "How the eight notepads were compared",
+   "What each sheet costs, and what each square inch costs",
+   "Weekly Planner Pad: the desk pick with a week on one sheet",
+   "Inkdotpot Daily Planner Pad: a daily page with a schedule",
+   "Visual Grocery List Magnet Pad: circle instead of write",
+   "Fridge strips: four magnetic notepad sets compared",
+   "A pen that stays on the fridge: the 2-pad set with a magnetic clip",
+   "Which size fits where you write?"
+  ],
+  "related": [
+   "how-to-use-a-daily-planner",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/8581034/pexels-photo-8581034.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-19T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "hobonichi-alternatives",
+  "id": 49,
+  "title": "Hobonichi Alternatives: 7 A6 to A5 Options Compared by Size and Cost",
+  "type": "alternatives",
+  "primary_query": "hobonichi alternatives",
+  "cluster": "hobonichi-alternatives",
+  "products": [
+   135,
+   194,
+   208,
+   460,
+   463,
+   829,
+   840
+  ],
+  "h2": [
+   "What the Hobonichi Techo Original is known for",
+   "For the A6 pocket size: two small notebooks",
+   "For a planned page every day: Smart Planner Pro and Day Designer",
+   "For an undated week with dot-grid pages: bloom daily planners",
+   "For one line a day across five years: two journals compared",
+   "When the original is still the right buy"
+  ],
+  "related": [
+   "how-to-use-a-daily-planner",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/7578201/pexels-photo-7578201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-19T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "passion-planner-alternatives",
+  "id": 50,
+  "title": "Passion Planner Alternatives: 7 Goal Planners, Cost per Page",
+  "type": "alternatives",
+  "primary_query": "passion planner alternatives",
+  "cluster": "passion-planner-alternatives",
+  "products": [
+   196,
+   279,
+   484,
+   503,
+   574,
+   1252,
+   1472
+  ],
+  "h2": [
+   "What the original lists, and what each alternative covers",
+   "A 12-week goal system: 12 Week Focus Planner",
+   "Daily pages with a quarterly layout: Panda Planner Classic",
+   "Weekly goals and habits for less: the Green Hardcover",
+   "A dated weekly with a reflection box: Traceform A5",
+   "Budget and goals together: GoGirl Planner PRO",
+   "A full-size daily page: the A4 undated planner",
+   "Guided reflection instead of a calendar: Vision Board Kit",
+   "Cost per planning page, worked out",
+   "Which one fits which goal habit"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "how-to-use-a-daily-planner"
+  ],
+  "image": "https://images.pexels.com/photos/5717464/pexels-photo-5717464.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-20T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "happy-planner-alternatives",
+  "id": 51,
+  "title": "Happy Planner Alternatives: 5 Planners and 2 Sticker Sets by Size",
+  "type": "alternatives",
+  "primary_query": "happy planner alternatives",
+  "cluster": "happy-planner-alternatives",
+  "products": [
+   196,
+   265,
+   268,
+   279,
+   281,
+   385,
+   386
+  ],
+  "h2": [
+   "What the maker lists, set against the alternatives",
+   "Page area next to the Classic, worked out",
+   "A bigger page, no discs: GoGirl Planner PRO",
+   "Rings you can refill: the Fan&Ran leather binder",
+   "A small, light dated option: Traceform A5",
+   "If you want the original: the two Happy Planner listings",
+   "Stickers instead of a new planner",
+   "What each option costs per month or per 100 stickers",
+   "Where the original is hard to replace"
+  ],
+  "related": [
+   "planner-accessories-guide",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.unsplash.com/photo-1558478551-be297c7bb253?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxwbGFubmVyJTIwc3RpY2tlcnN8ZW58MXwwfHx8MTc5NDMwNzg2MXww&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-20T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "daily-vs-weekly-planner",
+  "id": 52,
+  "title": "Daily vs Weekly Planner: 4 Compared by Layout and Cost per Week",
+  "type": "versus",
+  "primary_query": "daily vs weekly planner",
+  "cluster": "daily-vs-weekly-planner",
+  "products": [
+   194,
+   196,
+   208,
+   279
+  ],
+  "h2": [
+   "Room per day against a view of the week",
+   "How 2027 splits into weeks and days",
+   "What a week costs in each format",
+   "Where the two formats overlap",
+   "Choose a daily planner if you plan by the hour",
+   "Choose a weekly planner if you want the week on one spread",
+   "Test the format before buying"
+  ],
+  "related": [
+   "how-to-use-a-daily-planner",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/6374/flowers-desk-office-vintage.jpg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-20T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "dated-vs-undated-planner",
+  "id": 53,
+  "title": "Dated vs Undated Planner: Cost Per Month and Pages Wasted",
+  "type": "versus",
+  "primary_query": "dated vs undated planner",
+  "cluster": "dated-vs-undated",
+  "products": [
+   196,
+   306,
+   1252,
+   1472
+  ],
+  "h2": [
+   "What goes to waste: the date math",
+   "Dated planner: Traceform A5 and Notbokpa academic",
+   "Undated planner: Green weekly and Panda daily",
+   "Which planner suits which planning habit?",
+   "Free pages to try undated planning first"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "best-calendar-year-planners"
+  ],
+  "image": "https://images.unsplash.com/photo-1558478551-1a378f63328e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxwbGFubmVyJTIwb24lMjBkZXNrfGVufDF8MHx8fDE3OTQzMDgzMTR8MA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-20T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "wall-calendar-vs-desk-calendar",
+  "id": 54,
+  "title": "Wall Calendar vs Desk Calendar: Size, Daily Space and Cost",
+  "type": "versus",
+  "primary_query": "wall calendar vs desk calendar",
+  "cluster": "wall-vs-desk-calendar",
+  "products": [
+   274,
+   290,
+   296,
+   299
+  ],
+  "h2": [
+   "Where each one earns its place",
+   "How much writing room does each give a day?",
+   "Which suits a home, an office or a shared desk?",
+   "Choose wall if, choose desk if",
+   "Print a month first"
+  ],
+  "related": [
+   "best-wall-calendars",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/29509502/pexels-photo-29509502.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-20T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "planner-vs-bullet-journal",
+  "id": 55,
+  "title": "Planner vs Bullet Journal: Paper, Pages and Cost Per Page",
+  "type": "versus",
+  "primary_query": "planner vs bullet journal",
+  "cluster": "planner-vs-bullet-journal",
+  "products": [
+   196,
+   279,
+   1113,
+   1193
+  ],
+  "h2": [
+   "What a year of planner pages costs in a blank journal",
+   "Planner picks: Traceform dated and GoGirl undated",
+   "Bullet journal picks: Y&I kit and POPRUN B5",
+   "Which suits you, by how you plan",
+   "Try a printed spread before buying a notebook"
+  ],
+  "related": [
+   "journaling-for-beginners",
+   "how-to-use-a-daily-planner"
+  ],
+  "image": "https://images.pexels.com/photos/6192124/pexels-photo-6192124.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "week-numbers",
+  "id": 56,
+  "title": "2027 Week Numbers: ISO Week 1 Starts Monday, January 4",
+  "type": "dates",
+  "primary_query": "2027 week numbers",
+  "cluster": "week-numbers-2027",
+  "products": [
+   196,
+   274,
+   279,
+   290,
+   299
+  ],
+  "h2": [
+   "The week numbers of 2027 in five facts",
+   "Which week is the first of each month?",
+   "Quarter boundaries by week number",
+   "Federal holidays by ISO week",
+   "ISO weeks against weeks counted from January 1",
+   "Biweekly Fridays: 27 paydays or 26?",
+   "Planners and calendars that carry weeks",
+   "Print your own numbered weeks"
+  ],
+  "related": [
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/273153/pexels-photo-273153.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "biweekly-pay-periods",
+  "id": 57,
+  "title": "2027 Biweekly Pay Periods: Paydays for Jan. 1 and Jan. 8 Cycles",
+  "type": "dates",
+  "primary_query": "2027 biweekly pay periods",
+  "cluster": "pay-periods-2027",
+  "products": [
+   211,
+   231,
+   712,
+   1600
+  ],
+  "h2": [
+   "The 26 or 27 rule for 2027",
+   "Every 2027 payday on the two Friday cycles",
+   "What to do with a third paycheck month",
+   "Budget planners with room for paydays",
+   "For marking every payday: SUNEE Budget Planner",
+   "For spending between paychecks: the 12-pocket planner",
+   "For a plain calendar and 150 pages: Taja Budget Planner",
+   "For envelope budgeting on a cycle: Clever Fox Budget Planner",
+   "Can a Friday payday still land on a holiday in 2027?"
+  ],
+  "related": [
+   "planner-dates-and-holidays",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/8962469/pexels-photo-8962469.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "how-to-set-up-a-planner",
+  "id": 58,
+  "title": "How to Set Up a 2027 Planner: 6 Steps and the 2027 Dates to Pre-Fill",
+  "type": "howto",
+  "primary_query": "how to set up a 2027 planner",
+  "cluster": "setup-2027-planner",
+  "products": [
+   196,
+   279,
+   306,
+   657,
+   1195
+  ],
+  "h2": [
+   "Step 1: Check what your planner covers",
+   "Step 2: Write in the dates that cannot move",
+   "Step 3: Add month tabs so you can flip to any month",
+   "Step 4: Pick one color per category",
+   "Step 5: Set one weekly check-in",
+   "Step 6: Print a back-up page for the year view",
+   "Starting midyear with an academic planner"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "how-to-use-a-daily-planner"
+  ],
+  "image": "https://images.pexels.com/photos/5712118/pexels-photo-5712118.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "how-to-start-a-bullet-journal",
+  "id": 59,
+  "title": "How to Start a Bullet Journal: 7 Steps and a First-Week Plan",
+  "type": "howto",
+  "primary_query": "how to start a bullet journal",
+  "cluster": "start-bullet-journal",
+  "products": [
+   270,
+   983,
+   1113,
+   1193
+  ],
+  "h2": [
+   "Step 1: Pick a notebook and check its dots",
+   "Step 2: Number the pages and start an index",
+   "Step 3: Write a key of four to six symbols",
+   "Step 4: Draw a future log for the next six months",
+   "Step 5: Set up the current month as a calendar page",
+   "Step 6: Add a daily log, then one collection",
+   "Step 7: Review at month end and move what is left",
+   "Your first seven days",
+   "Common first-month snags"
+  ],
+  "related": [
+   "journaling-for-beginners",
+   "types-of-journals",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.unsplash.com/photo-1501618669935-18b6ecb13d6d?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxidWxsZXQlMjBqb3VybmFsJTIwZG90dGVkJTIwbm90ZWJvb2t8ZW58MXwwfHx8MTc5NDMwODM4Mnww&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-21T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "how-to-make-a-habit-tracker",
+  "id": 60,
+  "title": "How to Make a Habit Tracker: A 31-Day Grid on 5 mm Dot Paper",
+  "type": "howto",
+  "primary_query": "how to make a habit tracker",
+  "cluster": "habit-tracker",
+  "products": [
+   503,
+   1113,
+   1193,
+   1252
+  ],
+  "h2": [
+   "Seven steps from blank page to a working tracker",
+   "How many habits fit on one 5 mm dotted page",
+   "Paper and pens that keep a small grid readable",
+   "Draw it yourself or buy the layout printed",
+   "Where the tracker lives matters more than the layout"
+  ],
+  "related": [
+   "journaling-for-beginners",
+   "how-to-use-a-daily-planner"
+  ],
+  "image": "https://images.pexels.com/photos/5717413/pexels-photo-5717413.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-22T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "how-to-meal-plan-for-the-week",
+  "id": 61,
+  "title": "How to Meal Plan for the Week: 6 Steps and the Right Pad",
+  "type": "howto",
+  "primary_query": "how to meal plan for the week",
+  "cluster": "meal-planning-howto",
+  "products": [
+   968,
+   971,
+   992,
+   1199,
+   1211
+  ],
+  "h2": [
+   "Six steps for one week of dinners",
+   "Rotate dinners so you never start from zero",
+   "Magnetic pad, recipe book or binder: what each one holds",
+   "Magnetic planning pads for the fridge door",
+   "Recipe books that hold the plan's recipes",
+   "Where the plan and the list sit together"
+  ],
+  "related": [
+   "how-to-use-a-daily-planner",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/13774093/pexels-photo-13774093.png?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-22T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
  }
 ]
