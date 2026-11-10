@@ -2193,5 +2193,37 @@
   "enabled": false,
   "price_checked": "2026-11-10",
   "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "how-to-use-a-budget-planner",
+  "id": 62,
+  "title": "How to Use a Budget Planner: Month 1 Steps and 3-Paycheck Months",
+  "type": "howto",
+  "primary_query": "how to use a budget planner",
+  "cluster": "budget-planner-howto",
+  "products": [
+   211,
+   231,
+   711,
+   712,
+   1602
+  ],
+  "h2": [
+   "One month in a budget planner, section by section",
+   "Which months have three paychecks",
+   "Pick a layout: monthly book, envelopes or a pocketed binder",
+   "Monthly books with built-in trackers",
+   "Envelope saving as a separate habit",
+   "Next steps"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/7063762/pexels-photo-7063762.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-22T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
  }
 ]
