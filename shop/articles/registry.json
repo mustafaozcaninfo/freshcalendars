@@ -2225,5 +2225,104 @@
   "enabled": false,
   "price_checked": "2026-11-10",
   "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "how-to-organize-a-family-calendar",
+  "id": 63,
+  "title": "How to Organize a Family Calendar: 5 Steps and Which Format Fits",
+  "type": "howto",
+  "primary_query": "how to organize a family calendar",
+  "cluster": "wall-calendar-family",
+  "products": [
+   274,
+   290,
+   361,
+   366,
+   1552
+  ],
+  "h2": [
+   "Five steps to set up the household calendar",
+   "Two households or shared custody",
+   "Wall, fridge, glass or family planner: sizes compared",
+   "Wall calendars for the full year",
+   "Dry erase boards for changing weeks",
+   "A family planner with a column per person",
+   "Choosing and where to find more"
+  ],
+  "related": [
+   "best-wall-calendars",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/19797336/pexels-photo-19797336.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-22T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "how-to-choose-a-wall-calendar",
+  "id": 64,
+  "title": "How to Choose a Wall Calendar: Size, Months and Daily Block Math",
+  "type": "guide",
+  "primary_query": "how to choose a wall calendar",
+  "cluster": "choose-wall-calendar",
+  "products": [
+   274,
+   290,
+   291,
+   292,
+   294,
+   300,
+   955
+  ],
+  "h2": [
+   "Measure the wall first, then compare areas",
+   "How much writing room does one day get?",
+   "Which months should the pages cover?",
+   "Paper, coating and binding in the listings",
+   "Pockets and dry erase: when a calendar does more than a grid",
+   "Picks by answer",
+   "Test the plan on paper before buying"
+  ],
+  "related": [
+   "best-wall-calendars",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.unsplash.com/photo-1606327054476-256fc9690fe2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHx3YWxsJTIwY2FsZW5kYXJ8ZW58MXwwfHx8MTc5NDIzNjg2N3ww&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-23T06:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "vertical-vs-horizontal-weekly-planner-layout",
+  "id": 65,
+  "title": "Vertical vs Horizontal Weekly Planner Layout: Space Per Day",
+  "type": "explainer",
+  "primary_query": "vertical vs horizontal weekly planner layout",
+  "cluster": "weekly-layouts",
+  "products": [
+   196,
+   279,
+   281,
+   574,
+   1472
+  ],
+  "h2": [
+   "What one day gets on each layout",
+   "Where a tall column helps and where a wide row helps",
+   "Which planners here state their layout?",
+   "Daily pages are a third layout, and two listings use them",
+   "Test a layout before you buy a planner"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "how-to-use-a-daily-planner"
+  ],
+  "image": "https://images.unsplash.com/photo-1506784983877-45594efa4cbe?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHx3ZWVrbHklMjBwbGFubmVyfGVufDF8MHx8fDE3OTQzMDc5NzF8MA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-23T07:45:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
  }
 ]
