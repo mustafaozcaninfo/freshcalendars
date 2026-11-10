@@ -89,7 +89,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [milwaukee-bucks-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, golden-state-warriors-schedule-december-2026-game-times-tv-christmas-printable]
+related: [milwaukee-bucks-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, dallas-mavericks-schedule-december-2026-game-times-tv-printable]
 draft: false
 ---
 
@@ -125,7 +125,7 @@ That window holds the Emirates NBA Cup knockout rounds. NBA.com's key dates page
 
 ## Four home games and a road-heavy December
 
-Four of the 11 games are in Milwaukee: Dec. 2 against the Knicks, Dec. 18 against Phoenix, Dec. 20 against Golden State and Dec. 23 against Minnesota. The other seven are away: Memphis, [Dallas](/news/dallas-mavericks-schedule-december-2026-game-times-tv-printable/), Houston and San Antonio come between Dec. 12 and Dec. 21, and the month ends with Orlando on Dec. 27, Oklahoma City on Dec. 29 and Atlanta on Dec. 31.
+Four of the 11 games are in Milwaukee: Dec. 2 against the Knicks, Dec. 18 against Phoenix, Dec. 20 against Golden State and Dec. 23 against Minnesota. The other seven are away: Memphis, Dallas, Houston and San Antonio come between Dec. 12 and Dec. 21, and the month ends with Orlando on Dec. 27, Oklahoma City on Dec. 29 and Atlanta on Dec. 31.
 
 The only back-to-back is Dec. 20 and 21: home against the Warriors, then at San Antonio. The Bucks have no game on Christmas Day. For the Warriors' side of the Dec. 20 game, see the [Golden State Warriors December schedule](/news/golden-state-warriors-schedule-december-2026-game-times-tv-christmas-printable/).
 
