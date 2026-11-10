@@ -54,7 +54,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [denver-public-schools-calendar-2026-27-breaks, jeffco-public-schools-calendar-2026-27, spring-break-2027-dates-school-districts]
+related: [denver-public-schools-calendar-2026-27-breaks, jeffco-public-schools-calendar-2026-27, cherry-creek-school-district-calendar-2026-27]
 downloads:
   - group: "Douglas County School District Calendar 2026-27 printables"
     title: "Douglas County School District Calendar 2026-27"
