@@ -58,7 +58,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [texas-election-results-2026-polls-close-where-to-follow-canvass-dates, sample-ballot-by-zip-code-2026-texas-ballot, 2026-midterm-elections-whats-on-the-ballot-results-tracker]
+related: [texas-election-results-2026-polls-close-where-to-follow-canvass-dates, sample-ballot-by-zip-code-2026-texas-ballot, texas-legislative-session-2027-january-12-bill-filing-deadlines]
 downloads:
   - group: "Election 2026 printables"
     title: "Texas Ballot Checklist, Nov. 3, 2026"
