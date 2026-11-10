@@ -87,7 +87,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [when-do-2026-election-winners-take-office-congress-governors, government-funding-deadline-december-11-2026-shutdown]
+related: [when-do-2026-election-winners-take-office-congress-governors, government-funding-deadline-december-11-2026-shutdown, supreme-court-january-2027-arguments-apple-epic-games]
 draft: false
 downloads:
   - group: "Supreme Court December 2026 Argument Calendar printables"
@@ -216,6 +216,6 @@ According to the court's Visitor's Guide to Oral Argument, all oral arguments ar
 
 ## When will the court decide these cases?
 
-The court has not said when it will rule on any of the eight arguments. Its calendar covers argument days only; conference days and non-argument session dates are not on it. The court's index lists a separate session beginning Jan. 11, 2027; we have no argument days for it. Print the one-page session sheet to keep the six dates and cases by your desk, and use the [December 2026 printable calendar](/december-calendars.html) to mark them.
+The court has not said when it will rule on any of the eight arguments. Its calendar covers argument days only; conference days and non-argument session dates are not on it. The court's index lists a separate session beginning Jan. 11, 2027; the [January 2027 argument calendar](/news/supreme-court-january-2027-arguments-apple-epic-games/) lists six cases from Jan. 11 to Jan. 20. Print the one-page session sheet to keep the six dates and cases by your desk, and use the [December 2026 printable calendar](/december-calendars.html) to mark them.
 
 For other dates on the post-midterm calendar, see when [2026 election winners take office](/news/when-do-2026-election-winners-take-office-congress-governors/) and the [Dec. 11 federal funding deadline](/news/government-funding-deadline-december-11-2026-shutdown/). The [November 2026 printable calendar](/november-calendars.html) has room for Nov. 30.
