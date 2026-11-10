@@ -65,7 +65,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [houston-isd-calendar-2026-27-holidays-breaks, cypress-fairbanks-isd-calendar-2026-27-breaks, leander-isd-calendar-2026-27-breaks]
+related: [houston-isd-calendar-2026-27-holidays-breaks, cypress-fairbanks-isd-calendar-2026-27-breaks, fort-bend-isd-calendar-2026-27]
 assets:
   overlay: true
   kicker: "Katy ISD · 2026-27"

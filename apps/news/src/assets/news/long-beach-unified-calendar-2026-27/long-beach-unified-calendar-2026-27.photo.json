@@ -1,0 +1,22 @@
+{
+  "ref": "commons:File:Long Beach California-02.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Long Beach California-02",
+  "page": "https://commons.wikimedia.org/wiki/File:Long_Beach_California-02.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Long_Beach_California-02.jpg",
+  "width": 3072,
+  "height": 2304,
+  "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Long%20Beach%20California-02.jpg?width=640",
+  "license": "CC BY-SA 2.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+  "author": "Eric Fredericks",
+  "authorUrl": "https://www.flickr.com/people/11190696@N02",
+  "ok": true,
+  "slug": "long-beach-unified-calendar-2026-27",
+  "fetchedAt": "2026-11-10T01:39:21.110Z",
+  "original": "3072×2304",
+  "output": "2400×1350",
+  "cropped": true,
+  "credit": "Photo: Eric Fredericks / Wikimedia Commons, cropped, edited",
+  "overlay": true
+}
