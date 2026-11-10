@@ -1,8 +1,9 @@
 ---
 title: "Dancing with the Stars Schedule: Grammy Night Nov. 10, Finale Nov. 24"
-description: "Dancing with the Stars schedule: TV Insider reports Grammy Night on Nov. 10, Semifinals Nov. 17 and the finale Nov. 24. Disney Night aired Monday, Nov. 2."
+description: "Dancing with the Stars schedule: ABC lists Grammy Night Tuesday, Nov. 10, 8 to 10 p.m. ET. TV Insider reports the finale Nov. 24. Disney Night aired Nov. 2."
 type: news
 publishedAt: "2026-10-30T21:48:00-04:00"
+updatedAt: "2026-11-09T19:20:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["dancing with the stars schedule", "is dancing with the stars on tonight", "dwts disney night 2026", "dwts finale 2026 date"]
@@ -14,21 +15,27 @@ assets:
   date: "2026-11-02"
   card: { top: "Disney Night airs", big: "Mon., Nov. 2", bottom: "8 to 10 p.m. ET on ABC" }
   printable:
+    kit: watch-guide
     slug: dancing-with-the-stars-season-35-schedule-2026
     group: tv-2026
-    title: "Dancing with the Stars Season 35 Schedule, Nov. 2 to Nov. 24, 2026"
-    subtitle: "Remaining episodes on ABC, with a notes column for your picks"
-    layout: list
-    rows:
-      - ["Mon., Nov. 2", "Disney Night, 8 to 10 p.m. ET (official)"]
-      - ["Tue., Nov. 3", "No new episode, election coverage (reported)"]
-      - ["Tue., Nov. 10", "Grammy Night (reported)"]
-      - ["Tue., Nov. 17", "Semifinals (reported)"]
-      - ["Tue., Nov. 24", "Finale (reported); start time not announced"]
-    note: "Source: Disney Entertainment press release, Oct. 29, 2026; TV Insider and USA Today reports, Oct. 28-30, 2026."
-    inkSaver: true
-    description: "One-page Dancing with the Stars Season 35 schedule from Nov. 2 to the Nov. 24, 2026 finale, with a notes column. Free printable."
-    alt: "Dancing with the Stars Season 35 schedule printable listing five dates from Nov. 2 to Nov. 24, 2026"
+    title: "Dancing with the Stars Season 35 Schedule, Nov. 10 to Nov. 24, 2026"
+    subtitle: "Grammy Night time on ABC, with the reported dates still open"
+    note: "Source: Disney Entertainment press release, Nov. 4, 2026; TV Insider report, Oct. 28, 2026."
+    description: "One-page Dancing with the Stars Season 35 Grammy Night time on Nov. 10, 2026, with the Nov. 17 and Nov. 24 dates still unconfirmed. Free printable."
+    alt: "Dancing with the Stars Season 35 printable with Grammy Night on Nov. 10, 2026 and the unconfirmed Nov. 17 and Nov. 24 dates"
+    data:
+      pick: "My pick"
+      events:
+        - start: "2026-11-10T20:00-05:00"
+          title: "Grammy Night"
+          channel: "ABC"
+          stream: "Hulu next day"
+          airing: live
+          src: 1
+          quote: ["TUESDAY, NOV. 10", "8:00-10:00 p.m. EST"]
+      unconfirmed:
+        - { label: "Nov. 17 Semifinals", why: "TV Insider reports it; ABC has not announced a time" }
+        - { label: "Nov. 24 finale", why: "TV Insider reports it; ABC has not announced the time or length" }
 hero:
   src: ../../../../assets/news/dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24/dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24.webp
   alt: "Dancing with the Stars schedule 2026: a mirrored disco ball turning in blue light"
@@ -41,9 +48,9 @@ hero:
     author: "Catboy69"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Catboy69"
 summary:
-  - "Disney Night airs Monday, Nov. 2, 2026, from 8 to 10 p.m. Eastern Time (ET) on ABC, per the Disney Entertainment press release of Oct. 29."
-  - "There is no new episode Tuesday, Nov. 3. TV Insider reports ABC is covering the midterm elections."
-  - "TV Insider reports Grammy Night on Nov. 10, the Semifinals on Nov. 17 and the finale on Nov. 24, 2026."
+  - "Disney Night aired Monday, Nov. 2, 2026, from 8 to 10 p.m. Eastern Time (ET) on ABC, per the Disney Entertainment press release of Oct. 29."
+  - "Grammy Night airs Tuesday, Nov. 10, 8 to 10 p.m. ET, per the Disney Entertainment release of Nov. 4; seven couples remain."
+  - "TV Insider reports the Semifinals on Nov. 17 and the finale on Nov. 24, 2026."
   - "In 2025, the Season 34 finale aired Tuesday, Nov. 25."
 faq:
   - q: "Is Dancing with the Stars on tonight?"
@@ -52,9 +59,15 @@ faq:
     a: "Disney Entertainment lists 8:00 to 10:00 p.m. on Monday, Nov. 2. USA Today reports 8 p.m. ET and Pacific Time (PT), and 7 p.m. Central Time (CT)."
   - q: "When is the Dancing with the Stars finale?"
     a: "TV Insider reports the finale on Tuesday, Nov. 24, 2026. ABC has not announced the start time or length in the sources we checked."
+  - q: "What time is Grammy Night on Dancing with the Stars?"
+    a: "Disney Entertainment lists Tuesday, Nov. 10, 8:00 to 10:00 p.m. EST, which is 7 to 9 p.m. Central Time (CT). Episodes stream the next day on Hulu."
   - q: "Where can you watch episodes the next day?"
     a: "Disney Entertainment says episodes stream the next day on Hulu."
 sources:
+  - title: "Dancing with the Stars: Grammy Night (11/10)"
+    url: "https://www.detpress.com/abc/pressrelease/dancing-with-the-stars-grammy-night-11-10/"
+    publisher: "Disney Entertainment Television Press"
+    date: "2026-11-04"
   - title: "Dancing with the Stars: Disney Night (11/2)"
     url: "https://www.detpress.com/abc/pressrelease/dancing-with-the-stars-disney-night-11-2/"
     publisher: "Disney Entertainment Television Press"
@@ -99,39 +112,31 @@ internalLinks:
 related: [election-night-2026-tv-schedule-how-to-watch-results, cma-awards-2026-date-time-channel-host-nominees, new-on-hulu-november-2026-release-dates]
 downloads:
   - group: "Dancing with the Stars Season 35 Schedule printables"
-    title: "Dancing with the Stars Season 35 Schedule, Nov. 2 to Nov. 24, 2026"
-    description: "One-page Dancing with the Stars Season 35 schedule from Nov. 2 to the Nov. 24, 2026 finale, with a notes column. Free printable."
+    title: "Dancing with the Stars Season 35 Schedule, Nov. 10 to Nov. 24, 2026"
+    description: "One-page Dancing with the Stars Season 35 Grammy Night time on Nov. 10, 2026, with the Nov. 17 and Nov. 24 dates still unconfirmed. Free printable."
     preview: ../../../../assets/news/tv-2026/dancing-with-the-stars-season-35-schedule-2026.png
-    alt: "Dancing with the Stars Season 35 schedule printable listing five dates from Nov. 2 to Nov. 24, 2026"
+    alt: "Dancing with the Stars Season 35 printable with Grammy Night on Nov. 10, 2026 and the unconfirmed Nov. 17 and Nov. 24 dates"
     pdf: "/news/downloads/tv-2026/dancing-with-the-stars-season-35-schedule-2026.pdf"
     png: "/news/downloads/tv-2026/dancing-with-the-stars-season-35-schedule-2026.png"
-    pages: 1
-  - group: "Dancing with the Stars Season 35 Schedule printables"
-    title: "Dancing with the Stars Season 35 Schedule, Nov. 2 to Nov. 24, 2026 (ink saver)"
-    description: "One-page Dancing with the Stars Season 35 schedule from Nov. 2 to the Nov. 24, 2026 finale, with a notes column. Free printable. Ink-saver version."
-    preview: ../../../../assets/news/tv-2026/dancing-with-the-stars-season-35-schedule-2026-ink.png
-    alt: "Dancing with the Stars Season 35 schedule printable listing five dates from Nov. 2 to Nov. 24, 2026, ink-saver version"
-    pdf: "/news/downloads/tv-2026/dancing-with-the-stars-season-35-schedule-2026-ink.pdf"
-    png: "/news/downloads/tv-2026/dancing-with-the-stars-season-35-schedule-2026-ink.png"
     pages: 1
 draft: false
 ---
 
-**Dancing with the Stars moves to Monday this week: "Disney Night" airs Monday, Nov. 2, 2026, from 8 to 10 p.m. Eastern Time (ET) on ABC, according to the Disney Entertainment press release of Oct. 29.** TV Insider and USA Today report there is no episode on Tuesday, Nov. 3, Election Day, and TV Insider reports the Season 35 finale on Tuesday, Nov. 24. The table below lists every date through the finale and marks which are official and which are reported, and the same dates sit on a one-page printable.
+**Dancing with the Stars airs Grammy Night on Tuesday, Nov. 10, 2026, from 8 to 10 p.m. Eastern Time (ET) on ABC, according to the Disney Entertainment press release of Nov. 4.** Disney Night aired Monday, Nov. 2, from 8 to 10 p.m. ET. TV Insider and USA Today report there was no episode on Tuesday, Nov. 3, Election Day, and TV Insider reports the Season 35 finale on Tuesday, Nov. 24. The table below lists every date through the finale and marks which are official and which are reported; the printable carries the Nov. 10 time and the dates still open.
 
 ## Dancing with the Stars schedule through the Season 35 finale
 
-Disney Entertainment confirms only Disney Night so far. The other dates come from TV Insider, which reported them on Oct. 28, 2026. We checked each weekday against the 2026 calendar.
+Disney Entertainment confirms Disney Night and Grammy Night so far. The Nov. 3, Nov. 17 and Nov. 24 rows come from TV Insider, which reported them on Oct. 28, 2026. We checked each weekday against the 2026 calendar.
 
 | Date | Episode | What changed | Source |
 |---|---|---|---|
 | Mon., Nov. 2 | Disney Night | Moved to Monday, 8 to 10 p.m. ET | Official |
 | Tue., Nov. 3 | No new episode | ABC election coverage | Reported |
-| Tue., Nov. 10 | Grammy Night | Regular Tuesdays resume | Reported |
+| Tue., Nov. 10 | Grammy Night | Regular Tuesdays resume, 8 to 10 p.m. ET | Official |
 | Tue., Nov. 17 | Semifinals | None reported | Reported |
 | Tue., Nov. 24 | Finale | Start time and length not yet announced | Reported |
 
-Legit.ng also lists Grammy Night on Nov. 10 and a season scheduled to end Nov. 24, 2026. Mark the dates on the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
+Legit.ng lists a season scheduled to end Nov. 24, 2026. Mark the dates on the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
 
 ## What time is Disney Night on Monday, Nov. 2?
 
@@ -145,7 +150,7 @@ TV Insider reports that ABC is covering the midterm elections, so no new episode
 
 ## When do regular Tuesday episodes return?
 
-TV Insider reports that Tuesdays resume on Nov. 10 with Grammy Night. The Sept. 10 release for the two-night premiere listed 8:00 p.m. ET starts on Tuesday, Sept. 15 and Wednesday, Sept. 16, and ABC has not posted a time for Nov. 10 in the sources we checked, so treat the regular 8 p.m. ET slot as the usual one, not a confirmed start.
+Tuesdays resume on Nov. 10 with Grammy Night, from 8:00 to 10:00 p.m. EST (7 to 9 p.m. CT), according to the Disney Entertainment release of Nov. 4, 2026. The release says the remaining seven couples celebrate "Music's Biggest Night" with performances inspired by Grammy-nominated and Grammy-winning artists, songs and moments in music history. Episodes stream the next day on Hulu.
 
 TV Insider also reports the Semifinals on Tuesday, Nov. 17, followed by the finale on Tuesday, Nov. 24. The finale's start time and length are not yet announced by ABC.
 
