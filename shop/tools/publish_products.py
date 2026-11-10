@@ -9,7 +9,7 @@ product, PATCH the page fields with enabled true and in_sitemap true, and set th
 FAIL. Clears the cache once at the end. Paced under the shared rate limit (about 4 calls a product).
 Results go to .cache/shop/products/published.json.
 """
-import json, sys, time
+import json, re, sys, time
 from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 from fs import call, backup, WORK  # noqa: E402
@@ -17,6 +17,11 @@ import product_check as pc  # noqa: E402
 
 FIELDS = ('title', 'meta_title', 'link_title', 'subtitle', 'summary', 'highlights', 'meta_description', 'content')
 LOG = WORK / 'products' / 'published.json'
+
+
+def slugify(t, n=60):
+    s = re.sub(r'[^a-z0-9]+', '-', t.lower()).strip('-')
+    return s[:n].rsplit('-', 1)[0] if len(s) > n else s
 
 
 def api(m, p, b=None):
@@ -39,6 +44,9 @@ def publish(paths, live=True, limit=None):
         backup(f"product-{d['id']}-before-page-{int(time.time())}", cur['data'])
         body = {k: d[k] for k in FIELDS}
         body.update({'enabled': True, 'in_sitemap': True})
+        old = cur['data'].get('slug') or ''
+        if len(old) > 70 or old.endswith('-'):  # retailer-title slugs: the platform 301s the old one (tested Nov. 10)
+            body['slug'] = slugify(d['title'])
         s, r = api('PATCH', f"products/{d['id']}", body)
         if s != 200: print('FAIL', d['id'], s, str(r)[:200]); log[str(d['id'])] = {'state': f'api_{s}'}; continue
         api('POST', f"products/{d['id']}/categories", {'category_ids': d['category_ids']})

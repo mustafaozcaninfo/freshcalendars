@@ -88,10 +88,15 @@ Tested Nov. 9, 2026 (`shop/API.md` > Import products):
 5. **Read back after about 5 seconds**: the offer now holds price, stock, the full listing title, feature bullets and images. Out of stock or no price: delete the product, do not publish it.
 6. **Write the draft** `.cache/shop/products/drafts/<id>.json` (format: `shop/products/examples/325-zebra-mildliner.json`; `listing` is the offer title plus its features, verbatim).
 7. **Check**: run `python3 shop/tools/product_check.py --sync` once per batch, then `python3 shop/tools/product_check.py --live <draft>` for each draft; fix every FAIL. Drafts in `.cache/shop/products/drafts/` are compared with each other too, so a batch cannot copy itself.
-8. **Write and publish**: back up, then `PATCH products/{id}` with the fields and `enabled: true`, `in_sitemap: true`. Clear the cache.
+8. **Write and publish**: back up, then `PATCH products/{id}` with the fields and `enabled: true`, `in_sitemap: true`. Clear the cache. `publish_products.py` also replaces a slug longer than 70 characters or ending in a hyphen with one built from our title (60 characters at most); the platform 301s the old URL (tested Nov. 10, 2026).
 9. **Check the live page** after 2-4 minutes at 360 and 1440 px with `shop/tools/ui_shot.mjs`: one H1, the table scrolls on phones, the price and buy button show.
 10. **New categories open first.** A hidden category answers 404, so `--live` stops every page that links it. When a hidden category has 5 or more passing drafts, enable it, clear the cache, wait for the category URL to answer 200, then publish its products. Categories with fewer drafts stay hidden and their drafts wait.
-11. **Join a brand** when the brand page is enabled. A new brand gets a page only when it has 3 or more live products.
+11. **Set the brand** (method of Nov. 10, 2026):
+    - **Find it.** Take the brand only when the listing states it: the title opens with the maker's name, or the listing says "by X" or "Brand: X". A generic description ("2027 Wall Calendar") has no brand; leave `brand_id` empty rather than guess.
+    - **Match first.** Match the name to the existing brands, ignoring case and punctuation, before creating one; `GET brands` lists them all, hidden ones included.
+    - **Open the page at 3 live products.** A brand with 3 or more live products gets an enabled page with its own texts. Every field follows section 4: `subtitle`, `link_title`, `meta_title`, `meta_description`, and `content` as one paragraph about the kinds of products the shop lists from it.
+    - **Hide smaller brands.** A brand with 1 or 2 live products is created hidden and its URL 301s to `/brands` (README policy), so product pages never link a 404.
+    - **Drop the redirect when you open.** When you open a brand that was hidden, delete its `/brands/<slug>` redirect.
 
 A batch: agents find ASINs (`shop/tools/import_products.py create` imports them hidden; `verify` writes each listing to `.cache/shop/import/listings/`) and draft pages into files with the brief, family guide and link pools in `references/briefs.md`; only the main session calls the API (60 requests a minute, about 5 calls a product).
 
