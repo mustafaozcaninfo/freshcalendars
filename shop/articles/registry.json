@@ -2401,5 +2401,44 @@
   "enabled": false,
   "price_checked": "2026-11-10",
   "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "planner-stickers-and-washi-tape-under-10",
+  "id": 69,
+  "title": "Planner Stickers and Washi Tape Under $10: 7 Sets, Cost per Roll",
+  "type": "price",
+  "primary_query": "planner stickers and washi tape under $10",
+  "cluster": "stickers-washi-under-10",
+  "products": [
+   88,
+   267,
+   288,
+   820,
+   1660,
+   1671,
+   1674
+  ],
+  "h2": [
+   "How the seven sets were compared",
+   "Washi tape: rolls, widths and metres in each set",
+   "Most tape per dollar: YUBBAEX skinny washi, 60 rolls",
+   "One width for planner headers: Maartla rainbow, 15 mm",
+   "Score 5.0 and gold foil: Hwook dark academia, 24 rolls",
+   "Planner stickers: weekly labels, 15 weeks",
+   "Open-date weekly layouts: the undated sticker set",
+   "Most stickers listed: the Boho set, 1700+",
+   "Seasonal stickers: the holiday sticker book",
+   "What you give up under $10"
+  ],
+  "related": [
+   "planner-accessories-guide",
+   "journaling-for-beginners",
+   "christmas-gifts-for-planner-lovers"
+  ],
+  "image": "https://images.pexels.com/photos/10607182/pexels-photo-10607182.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-13T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
  }
 ]
