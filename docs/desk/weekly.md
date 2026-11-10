@@ -1,17 +1,17 @@
 # The week in numbers (generated, do not edit)
 
-Built 2026-11-10T09:14 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
+Built 2026-11-10T17:04 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
 
 ## Real readers (beacon)
 
 | | This week | Week before | Change |
 |---|---:|---:|---:|
-| Page views | 4,822 | 0 | new |
-| Avg. seconds on page | 81 | 0 | new |
-| Avg. deepest scroll | 25% | 0% | |
-| Views from inside the site | 8.4% | 0.0% | |
+| Page views | 5,504 | 0 | new |
+| Avg. seconds on page | 82 | 0 | new |
+| Avg. deepest scroll | 26% | 0% | |
+| Views from inside the site | 8.3% | 0.0% | |
 
-Devices: desktop 2,533 (101 s, 28% scroll) · mobile 2,244 (59 s, 22% scroll) · tablet 45 (104 s, 27% scroll)
+Devices: desktop 2,997 (102 s, 29% scroll) · mobile 2,460 (58 s, 22% scroll) · tablet 47 (100 s, 27% scroll)
 
 ## Clarity (daily average)
 
@@ -33,23 +33,23 @@ Devices: desktop 2,533 (101 s, 28% scroll) · mobile 2,244 (59 s, 22% scroll) ·
 
 ## Most read categories
 
-- holidays: 1,733 views (new), 23 per story
-- sports: 772 views (new), 8 per story
-- puzzles: 628 views (new), 9 per story
-- retail-dates: 331 views (new), 9 per story
-- uk-canada: 278 views (new), 6 per story
-- entertainment: 231 views (new), 6 per story
+- holidays: 2,120 views (new), 27 per story
+- sports: 832 views (new), 9 per story
+- puzzles: 688 views (new), 9 per story
+- retail-dates: 363 views (new), 10 per story
+- uk-canada: 306 views (new), 7 per story
+- entertainment: 253 views (new), 6 per story
 
 ## Most read stories
 
-- /news/veterans-day-free-meals-discounts/: 1,144 views, 174 s
-- /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/: 280 views, 35 s
-- /news/nyt-connections-hints-answers-november-9-2026-1247/: 143 views, 41 s
-- /news/: 88 views, 9 s
-- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 82 views, 101 s
-- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/: 68 views, 71 s
-- /news/nyt-connections-hints-answers-november-10-2026-1248/: 63 views, 57 s
-- /news/printable-nfl-schedule-2026-2027-pdf/: 58 views, 28 s
-- /news/when-do-2026-election-winners-take-office-congress-governors/: 55 views, 59 s
-- /news/paris-masters-2026-schedule-final-time-by-time-zone/: 48 views, 62 s
+- /news/veterans-day-free-meals-discounts/: 1,414 views, 167 s
+- /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/: 284 views, 35 s
+- /news/nyt-connections-hints-answers-november-9-2026-1247/: 146 views, 42 s
+- /news/: 95 views, 9 s
+- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 89 views, 97 s
+- /news/printable-nfl-schedule-2026-2027-pdf/: 73 views, 25 s
+- /news/day-of-the-dead-2026-dia-de-los-muertos-dates/: 72 views, 68 s
+- /news/nyt-connections-hints-answers-november-10-2026-1248/: 72 views, 52 s
+- /news/costco-holiday-hours-closures-2026-2027/: 60 views, 35 s
+- /news/when-do-2026-election-winners-take-office-congress-governors/: 57 views, 65 s
 

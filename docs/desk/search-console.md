@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-10T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-10T17:03 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (60 of 60 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (59 of 59 sampled)
 - PASS: /news/ clicks and impressions did not fall two weeks in a row — no
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -277,15 +277,15 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 60 that are 7 to 21 days old): 90 Submitted and indexed.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 59 that are 7 to 21 days old): 90 Submitted and indexed.
 
 - every sampled story is indexed
 
 ## Sitemaps
 
 - /sitemap.xml: 0 errors, 0 warnings, 293 URLs submitted, last read 2026-11-09
-- /news/sitemap.xml: 0 errors, 0 warnings, 1,211 URLs submitted, last read 2026-11-09
-- /news/news-sitemap.xml: 0 errors, 0 warnings, 89 URLs submitted, last read 2026-11-08
+- /news/sitemap.xml: 0 errors, 0 warnings, 1,206 URLs submitted, last read 2026-11-09
+- /news/news-sitemap.xml: 0 errors, 0 warnings, 84 URLs submitted, last read 2026-11-10
 - /sitemap.xml: 0 errors, 0 warnings, 96 URLs submitted, last read 2026-11-07
 
 ## Experiments (title and snippet changes of the search desk, 14 days before against 14 days after)
