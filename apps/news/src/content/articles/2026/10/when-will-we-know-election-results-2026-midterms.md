@@ -3,7 +3,7 @@ title: "When Do They Start Counting Votes 2026? 17-State Timeline"
 description: "When counting starts in 2026 varies: Florida can process mail ballots 22 days early, Pennsylvania and Wisconsin at 7 a.m. Election Day. 17-state timeline."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-09T13:25:00-05:00"
+updatedAt: "2026-11-09T21:27:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -105,6 +105,15 @@ sources:
     url: "https://alaskapublic.org/news/politics/elections/2026-10-05/what-to-know-about-alaskas-general-election"
     publisher: "Alaska Public Media"
     date: "2026-10-05"
+  - title: "Arizona Revised Statutes, Section 16-642"
+    url: "https://www.azleg.gov/ars/16/00642.htm"
+    publisher: "Arizona Legislature"
+  - title: "Arizona Revised Statutes, Section 16-648"
+    url: "https://www.azleg.gov/ars/16/00648.htm"
+    publisher: "Arizona Legislature"
+  - title: "NRS: Chapter 293 - Elections"
+    url: "https://www.leg.state.nv.us/nrs/nrs-293.html"
+    publisher: "Nevada Legislature"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -179,7 +188,7 @@ What the first numbers contain differs by state. In California, the Secretary of
 | State | Mail ballots can be processed | Postmarked ballots that arrive late | State certification |
 |---|---|---|---|
 | Alaska | Reviewed 7 days before; counted from 8 p.m. Nov. 3 | Counted if received within 10 days | Ranked-choice tally Nov. 18; certification Nov. 25 (target) |
-| Arizona | 14 days before Election Day | Not counted; due 7 p.m. Nov. 3 | About Nov. 23 |
+| Arizona | 14 days before Election Day | Not counted; due 7 p.m. Nov. 3 | Mon., Nov. 23; county canvass by Thu., Nov. 19 |
 | [California](/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/) | As they arrive, up to 29 days before | Counted if received by Nov. 10 | Dec. 11 |
 | Florida | 22 days before Election Day | Not counted; due 7 p.m. Nov. 3 | Nov. 17 |
 | Georgia | Scanned from the third Monday before; tallied after polls close | Not counted; due 7 p.m. Nov. 3 | About Nov. 20 |
@@ -187,7 +196,7 @@ What the first numbers contain differs by state. In California, the Secretary of
 | Maine | Before Election Day with notice; counted after polls close | Not counted; due when polls close | By Nov. 23 |
 | Michigan | Up to 8 days before | Not counted; due 8 p.m. Nov. 3 | About Nov. 23 |
 | Minnesota | Before Election Day | Not counted; due 8 p.m. Nov. 3 | Nov. 19 |
-| Nevada | Before Election Day | Counted if received by 5 p.m. Nov. 7 | About Nov. 24 |
+| Nevada | Before Election Day | Counted if received by 5 p.m. Nov. 7 | Tue., Nov. 24 (Supreme Court canvass); county canvass by Fri., Nov. 13 |
 | New Hampshire | On Election Day | Not counted; due 5 p.m. Nov. 3 | No fixed deadline |
 | New York | Reviewed as they arrive; tabulated from 1 hour before polls close | Counted if received by Nov. 10 | By Dec. 15 |
 | North Carolina | Approved before Election Day; counted on Election Day | No longer counted; due 7:30 p.m. Nov. 3 | About Nov. 24 |
@@ -196,7 +205,7 @@ What the first numbers contain differs by state. In California, the Secretary of
 | [Texas](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) | Before Election Day | Counted if postmarked by 7 p.m. and received by 5 p.m. Nov. 4 | Local canvass by Nov. 17 |
 | Wisconsin | Not before 7 a.m. Nov. 3 | Not counted; due 8 p.m. Nov. 3 | By Dec. 1 |
 
-Processing rules come from each state's election law as compiled by the National Conference of State Legislatures; certification dates are computed from state law, as summarized by the Brennan Center's State Court Report, and Ohio's from the Secretary of State's 2026 canvass directive. "About" marks dates that depend on how a statutory deadline falls on the calendar. Every state's mail deadline is in our [mail ballot deadlines list](/news/mail-ballot-deadlines-2026-by-state/).
+Processing rules come from each state's election law as compiled by the National Conference of State Legislatures; certification dates are computed from state law, as summarized by the Brennan Center's State Court Report, Ohio's from the Secretary of State's 2026 canvass directive, and Arizona's and Nevada's from the state statutes: county boards in Arizona canvass "not later than the third Thursday after the election" and the Secretary of State "on the third Monday following a general election" (Arizona Revised Statutes, sections 16-642 and 16-648); in Nevada "the canvass must be completed on or before the 10th day following the election" and the Supreme Court justices canvass the vote on "the fourth Tuesday of November" (Nevada Revised Statutes 293.387 and 293.395). "About" marks dates that depend on how a statutory deadline falls on the calendar. Every state's mail deadline is in our [mail ballot deadlines list](/news/mail-ballot-deadlines-2026-by-state/).
 
 ## What past elections show
 

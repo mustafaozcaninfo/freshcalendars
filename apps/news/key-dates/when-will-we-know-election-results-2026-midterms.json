@@ -58,5 +58,21 @@
   {
     "date": "2026-11-27",
     "label": "Colorado deadline to order a statutory recount, if required"
+  },
+  {
+    "date": "2026-11-13",
+    "label": "Nevada county canvass deadline"
+  },
+  {
+    "date": "2026-11-19",
+    "label": "Arizona county canvass deadline"
+  },
+  {
+    "date": "2026-11-23",
+    "label": "Arizona state canvass"
+  },
+  {
+    "date": "2026-11-24",
+    "label": "Nevada Supreme Court canvasses the vote"
   }
 ]
