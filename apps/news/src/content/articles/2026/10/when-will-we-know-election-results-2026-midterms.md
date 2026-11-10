@@ -3,7 +3,7 @@ title: "When Do They Start Counting Votes 2026? 17-State Timeline"
 description: "When counting starts in 2026 varies: Florida can process mail ballots 22 days early, Pennsylvania and Wisconsin at 7 a.m. Election Day. 17-state timeline."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-10T03:25:00-05:00"
+updatedAt: "2026-11-10T09:31:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -127,6 +127,9 @@ sources:
   - title: "MCL 168.822"
     url: "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-168-822"
     publisher: "Michigan Legislature"
+  - title: "Michigan Election Law, Section 168.842"
+    url: "https://www.legislature.mi.gov/(S(0))/mileg.aspx?page=getObject&objectName=mcl-168-842"
+    publisher: "Michigan Legislature"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -209,7 +212,7 @@ What the first numbers contain differs by state. In California, the Secretary of
 | Georgia | Scanned from the third Monday before; tallied after polls close | Not counted; due 7 p.m. Nov. 3 | About Nov. 20 |
 | Iowa | The day before Election Day | Not counted; due 8 p.m. Nov. 3 | About Nov. 30 |
 | Maine | Before Election Day with notice; counted after polls close | Not counted; due when polls close | By Nov. 23 |
-| Michigan | Up to 8 days before | Not counted; due 8 p.m. Nov. 3 | County canvass by Tue., Nov. 17; state board date not posted |
+| Michigan | Up to 8 days before | Not counted; due 8 p.m. Nov. 3 | County canvass by Tue., Nov. 17; Board of State Canvassers by Mon., Nov. 23 (Michigan Compiled Laws (MCL) 168.842) |
 | Minnesota | Before Election Day | Not counted; due 8 p.m. Nov. 3 | Nov. 19 |
 | Nevada | Before Election Day | Counted if received by 5 p.m. Nov. 7 | Tue., Nov. 24 (Supreme Court canvass); county canvass by Fri., Nov. 13 |
 | New Hampshire | On Election Day | Not counted; due 5 p.m. Nov. 3 | No fixed deadline |
@@ -238,11 +241,12 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 | Nov. 10 | Oklahoma State Election Board meets to certify state and federal results, per the board |
 | Nov. 12 | Colorado signature cure deadline and last day for county clerks to receive military and overseas ballots; Colorado's weekday results updates by 4 p.m. MT run through this date (none on Veterans Day, Nov. 11) |
 | Nov. 16 | California counties finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule); Colorado's Secretary of State sets the random seed for the Risk Limiting Audit and tells counties which ballots to audit |
+| Nov. 17 | Florida's Elections Canvassing Commission meets at 8 a.m., per Fla. Stat. 102.111; Michigan county canvasses are due, per MCL 168.822 |
+| Mid-November | Counties finish canvassing; ranked-choice rounds in Maine; Alaska's tabulation is scheduled for Nov. 18 |
+| Nov. 23 | Michigan's Board of State Canvassers deadline to certify, per MCL 168.842 |
 | Nov. 24 | North Carolina's State Board of Elections meets at 11 a.m. for the state canvass, per G.S. 163-182.5; Oregon's last day to resolve ballot challenges, per the Secretary of State; Colorado county audit boards report Risk Limiting Audit results, per the Colorado Secretary of State |
 | Nov. 25 | Colorado county canvass boards complete the canvass and submit the official election abstract, per the Colorado Secretary of State |
 | Nov. 27 | Colorado's deadline for the Secretary of State to order a statutory recount, if one is required |
-| Nov. 17 | Florida's Elections Canvassing Commission meets at 8 a.m., per Fla. Stat. 102.111; Michigan county canvasses are due, per Michigan Compiled Laws (MCL) 168.822 |
-| Mid-November | Counties finish canvassing; ranked-choice rounds in Maine; Alaska's tabulation is scheduled for Nov. 18 |
 | Dec. 1 | Georgia runoff, if needed |
 | Dec. 3 | California counties complete final official results, per the Secretary of State |
 | Dec. 4 | Deadline for California counties to report final results for state and federal contests to the Secretary of State, per its Nov. 5 release |

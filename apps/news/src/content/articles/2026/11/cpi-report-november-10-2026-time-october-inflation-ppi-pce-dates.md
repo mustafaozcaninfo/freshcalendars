@@ -1,15 +1,16 @@
 ---
 title: "BLS CPI Release Schedule: Nov. 10, 2026 at 8:30 a.m. ET"
-description: "The Bureau of Labor Statistics schedules the October 2026 Consumer Price Index (CPI) for Nov. 10 at 8:30 a.m. ET. Release dates run to March 2027."
+description: "October 2026 Consumer Price Index (CPI) rose 0.4%, core 0.3%, the Bureau of Labor Statistics said Nov. 10. No 12-month change; dates run to March 2027."
 type: news
 publishedAt: "2026-11-01T22:44:00-05:00"
+updatedAt: "2026-11-10T09:30:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["cpi report november 2026", "when is the next cpi report", "cpi release date", "inflation report november 10 2026", "ppi release date november 2026"]
 hero:
   src: ../../../../assets/news/cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates/cpi-report-november-10-2026-time-october-inflation-ppi-pce-dates.webp
   alt: "CPI report Nov. 10, 2026: a supermarket center aisle in New Orleans, the kind of prices the Consumer Price Index tracks"
-  caption: "File photo of a New Orleans supermarket aisle (2021). Food prices are one part of the Consumer Price Index due Nov. 10, 2026."
+  caption: "File photo of a New Orleans supermarket aisle (2021). Food prices are one part of the Consumer Price Index released Nov. 10, 2026."
   credit: "Photo: Infrogmation of New Orleans / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -18,11 +19,13 @@ hero:
     author: "Infrogmation of New Orleans"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Infrogmation"
 summary:
-  - "The Bureau of Labor Statistics (BLS) is scheduled to publish the Consumer Price Index (CPI) for October 2026 on Tuesday, Nov. 10, 2026, at 8:30 a.m. Eastern Time (ET)."
+  - "The Bureau of Labor Statistics (BLS) published the Consumer Price Index (CPI) for October 2026 on Tuesday, Nov. 10, 2026, at 8:30 a.m. Eastern Time (ET): all items rose 0.4 percent and core rose 0.3 percent, with no 12-month change."
   - "The Producer Price Index (PPI) for October follows on Friday, Nov. 13, and the Bureau of Economic Analysis (BEA) lists its October Personal Income and Outlays release for Wednesday, Nov. 25."
   - "The next CPI is Thursday, Dec. 10, 2026, for November; the BLS has also posted CPI dates through Mar. 10, 2027."
   - "Our table combines CPI, PPI and BEA dates from Nov. 2026 to Mar. 2027, and a printable carries the same rows."
 faq:
+  - q: "What was the CPI for October 2026?"
+    a: "The all items index rose 0.4 percent in October on a seasonally adjusted basis, after 0.6 percent in September, and the index less food and energy rose 0.3 percent, the BLS said on Nov. 10. The BLS published no 12-month change for October 2026."
   - q: "What time is the CPI report on Nov. 10, 2026?"
     a: "8:30 a.m. Eastern Time (ET), per the BLS schedule for the Consumer Price Index."
   - q: "When is the next CPI report after Nov. 10?"
@@ -31,8 +34,8 @@ faq:
     a: "Friday, Nov. 13, 2026, at 8:30 a.m. ET, for October 2026."
   - q: "When is the release that includes the Personal Consumption Expenditures (PCE) price index?"
     a: "The BEA schedule lists Personal Income and Outlays for October 2026 on Wednesday, Nov. 25, 2026, at 8:30 a.m. ET, and for November 2026 on Wednesday, Dec. 23, 2026."
-  - q: "Is the Nov. 10 CPI release delayed?"
-    a: "The BLS pages we checked on Nov. 1, 2026 show no schedule change or delay note for 2026 releases."
+  - q: "Was the Nov. 10 CPI release delayed?"
+    a: "No. The BLS published the October 2026 CPI on schedule, Tuesday, Nov. 10, 2026, at 8:30 a.m. ET."
 sources:
   - title: "Schedule of Releases for the Consumer Price Index"
     url: "https://www.bls.gov/schedule/news_release/cpi.htm"
@@ -41,7 +44,7 @@ sources:
   - title: "Consumer Price Index Summary"
     url: "https://www.bls.gov/news.release/cpi.nr0.htm"
     publisher: "U.S. Bureau of Labor Statistics"
-    date: "2026-10-14"
+    date: "2026-11-10"
   - title: "Schedule of Releases for the Producer Price Index"
     url: "https://www.bls.gov/schedule/news_release/ppi.htm"
     publisher: "U.S. Bureau of Labor Statistics"
@@ -108,7 +111,20 @@ assets:
     alt: "Printable list of CPI, PPI and PCE release dates from November 2026 to March 2027"
 ---
 
-**The Bureau of Labor Statistics (BLS) is scheduled to publish the Consumer Price Index (CPI) for October 2026 on Tuesday, Nov. 10, 2026, at 8:30 a.m. Eastern Time (ET), according to its CPI release schedule.** The table below puts the CPI, Producer Price Index (PPI) and Bureau of Economic Analysis (BEA) dates from November 2026 to March 2027 in one place, and a printable carries the same rows.
+**The Bureau of Labor Statistics (BLS) published the Consumer Price Index (CPI) for October 2026 on Tuesday, Nov. 10, 2026, at 8:30 a.m. Eastern Time (ET): the all items index rose 0.4 percent on a seasonally adjusted basis and the index less food and energy rose 0.3 percent. The BLS published no 12-month change because it did not collect October 2025 survey data.** The table below puts the CPI, Producer Price Index (PPI) and Bureau of Economic Analysis (BEA) dates from November 2026 to March 2027 in one place, and a printable carries the same rows.
+
+## October 2026 CPI figures from the BLS
+
+The BLS release "Consumer Price Index - October 2026" was embargoed until 8:30 a.m. ET on Tuesday, Nov. 10, 2026.
+
+| Index, October 2026 | Change from September (seasonally adjusted) |
+|---|---|
+| All items | 0.4 percent (September: 0.6 percent) |
+| All items less food and energy (core) | 0.3 percent |
+| Food | 0.5 percent |
+| Energy | 0.7 percent |
+
+There is no 12-month change this month. The release says: "BLS did not collect survey data for October 2025 because of a lapse in appropriations." It adds: "BLS cannot publish 12-month percent changes for October 2026 for indexes where October 2025 data are unavailable."
 
 ## Inflation release calendar, Nov. 2026 to Mar. 2027
 
@@ -139,7 +155,7 @@ In 2025, the BLS archive lists the October 2025 CPI as "Not published because of
 
 ## What did the September CPI report say?
 
-The BLS released the September 2026 CPI at 8:30 a.m. ET on Wednesday, Oct. 14, 2026. Its summary says: "Over the last 12 months, the all items index increased 3.7 percent before seasonal adjustment." The index "increased 0.6 percent on a seasonally adjusted basis in September," and "the all items less food and energy index rose 2.6 percent over the year." The October figures are not out yet, and this story makes no forecast of them.
+The BLS released the September 2026 CPI at 8:30 a.m. ET on Wednesday, Oct. 14, 2026. Its summary says: "Over the last 12 months, the all items index increased 3.7 percent before seasonal adjustment." The index "increased 0.6 percent on a seasonally adjusted basis in September," and "the all items less food and energy index rose 2.6 percent over the year." The October figures are in the section above.
 
 ## When is the PPI report for October 2026?
 
