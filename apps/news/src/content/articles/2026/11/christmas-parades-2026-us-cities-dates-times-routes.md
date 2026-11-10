@@ -71,7 +71,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [cpkc-holiday-train-2026-schedule-stops-times, christmas-tree-lightings-2026-dates-times-nyc-dc-boston, washington-crossing-reenactment-2026-december-25-registration-250th]
+related: [holiday-boat-parades-2026-dates-times-by-city, christmas-tree-lightings-2026-dates-times-nyc-dc-boston, cpkc-holiday-train-2026-schedule-stops-times]
 downloads:
   - group: "Christmas Parades 2026 Schedule printables"
     title: "Christmas Parades 2026 Schedule"
@@ -157,7 +157,7 @@ The organizer lists Saturday, Dec. 5, 2026, with a step-off at 8:30 a.m. CT in d
 
 ## Fort Lauderdale Winterfest Boat Parade: viewing and route
 
-The Seminole Hard Rock Winterfest Boat Parade is Saturday, Dec. 12, 2026, from 6:00 p.m. to 8:30 p.m. ET, with a pre-show of non-motorized vessels at 5:30 p.m. The organizer says it starts at Stranahan House, travels east along the New River in Fort Lauderdale to the Intracoastal Waterway, and continues north to Lake Santa Barbara in Pompano Beach. The ticket page lists the Parade Viewing Area at $30.00 through $60.00.
+The Seminole Hard Rock Winterfest Boat Parade is Saturday, Dec. 12, 2026, from 6:00 p.m. to 8:30 p.m. ET, with a pre-show of non-motorized vessels at 5:30 p.m. The organizer says it starts at Stranahan House, travels east along the New River in Fort Lauderdale to the Intracoastal Waterway, and continues north to Lake Santa Barbara in Pompano Beach. The ticket page lists the Parade Viewing Area at $30.00 through $60.00. Boat parades in Seattle, Marina del Rey, San Diego and Newport Beach are in our [boat parades 2026 story](/news/holiday-boat-parades-2026-dates-times-by-city/).
 
 ## What is not posted yet for the Christmas parades?
 
