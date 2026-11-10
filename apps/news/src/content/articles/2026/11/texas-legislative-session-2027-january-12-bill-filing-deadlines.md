@@ -70,7 +70,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [texas-election-calendar-2026-early-voting-dates-deadlines, when-do-2026-election-winners-take-office-congress-governors, florida-legislative-session-2027-march-2-organization-session-november-17]
+related: [california-legislature-2027-28-session-december-7-bill-deadlines, when-do-2026-election-winners-take-office-congress-governors, florida-legislative-session-2027-march-2-organization-session-november-17]
 assets:
   overlay: true
   kicker: "Texas Legislature · 90th session"
