@@ -316,5 +316,1417 @@
   "enabled": true,
   "price_checked": "2026-11-09",
   "refresh_by": "2026-12-09"
+ },
+ {
+  "slug": "christmas-gifts-for-teachers-stationery",
+  "id": 11,
+  "title": "Christmas Gifts for Teachers: Stationery Picks by Cost per Week",
+  "type": "gift",
+  "primary_query": "christmas gifts for teachers stationery",
+  "cluster": "gifts-for-teachers-stationery",
+  "products": [
+   69,
+   71,
+   201,
+   244,
+   657,
+   1086,
+   1102,
+   1195,
+   1402
+  ],
+  "h2": [
+   "How the nine picks were chosen",
+   "Why a December planner gift should be undated",
+   "Planners for a teacher's desk",
+   "Pens and highlighters teachers use for marking",
+   "Small add-ons: sticky notes and planner tabs",
+   "Where to find the matching printables and guides"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/627541/pexels-photo-627541.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-11T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "gifts-for-writers-journals-and-pens",
+  "id": 12,
+  "title": "Gifts for Writers: Journals and Pens Paired by Paper and Ink",
+  "type": "gift",
+  "primary_query": "gifts for writers journals and pens",
+  "cluster": "gifts-for-writers",
+  "products": [
+   214,
+   227,
+   715,
+   719,
+   780,
+   874,
+   879,
+   1121,
+   1122,
+   1270
+  ],
+  "h2": [
+   "How the ten gifts were matched",
+   "Journals that suit a fountain pen",
+   "Leather journals as gifts",
+   "Pens and ink: one pairing rule",
+   "What else to add to the gift?"
+  ],
+  "related": [
+   "types-of-journals",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/33887246/pexels-photo-33887246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-11T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "gifts-for-artists-who-sketch",
+  "id": 13,
+  "title": "Gifts for Artists Who Sketch: 11 Picks Matched to Paper Weight",
+  "type": "gift",
+  "primary_query": "gifts for artists who sketch",
+  "cluster": "gifts-for-artists-sketching",
+  "products": [
+   480,
+   481,
+   733,
+   981,
+   983,
+   988,
+   1314,
+   1319,
+   1549,
+   1713,
+   1718
+  ],
+  "h2": [
+   "How these eleven gifts were chosen",
+   "Which paper for which medium",
+   "Sketchbooks compared by cost per sheet",
+   "Under ten dollars: pencils, brush pens and two blank journals",
+   "Ten to twenty dollars: pencils, pens and a bigger journal",
+   "Over twenty dollars: a marker set, a pencil kit and a pad",
+   "A sketch a day in 2027: how many pages is that?",
+   "Free printables and where to browse"
+  ],
+  "related": [
+   "types-of-journals"
+  ],
+  "image": "https://images.pexels.com/photos/89625/pexels-photo-89625.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-11T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "travel-journal-gifts-for-travelers",
+  "id": 14,
+  "title": "Travel Journal Gifts for Travelers: 10 Picks by Size and Pages",
+  "type": "gift",
+  "primary_query": "travel journal gifts for travelers",
+  "cluster": "gifts-for-travelers-journal",
+  "products": [
+   256,
+   286,
+   828,
+   840,
+   871,
+   874,
+   875,
+   879,
+   881,
+   909
+  ],
+  "h2": [
+   "What this list compares",
+   "Pocket notebooks for the traveler who writes on the move",
+   "Refillable travelers notebooks as a gift set",
+   "Keepsake and reading journals for slower trips",
+   "When to order a travel journal gift",
+   "Related buying guides"
+  ],
+  "related": [
+   "types-of-journals",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/164645/pexels-photo-164645.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-12T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "baby-memory-book-gifts-for-new-parents",
+  "id": 15,
+  "title": "Baby Memory Book Gifts for New Parents: 7 Picks by Age Range",
+  "type": "gift",
+  "primary_query": "baby memory book gifts for new parents",
+  "cluster": "gifts-for-new-parents-memory",
+  "products": [
+   369,
+   370,
+   377,
+   378,
+   379,
+   420,
+   421
+  ],
+  "h2": [
+   "Seven books, three stages",
+   "Books for the baby's first year or first five",
+   "Pregnancy journals for parents who are still waiting",
+   "Timing a baby book gift",
+   "More baby and memory books"
+  ],
+  "related": [
+   "planner-accessories-guide",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/8848784/pexels-photo-8848784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-12T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "planner-gifts-for-college-students",
+  "id": 16,
+  "title": "Planner Gifts for College Students: 11 Picks, Dated or Undated",
+  "type": "gift",
+  "primary_query": "planner gifts for college students",
+  "cluster": "gifts-for-students-planner",
+  "products": [
+   71,
+   124,
+   200,
+   244,
+   306,
+   657,
+   1151,
+   1187,
+   1195,
+   1376,
+   1402
+  ],
+  "h2": [
+   "How the eleven gifts were sorted",
+   "Planners: dated, undated and what is left of the year",
+   "Notebooks for note-taking",
+   "Tabs and sticky notes for color coding",
+   "Pens and highlighters that fit a student budget",
+   "Dated or undated: which planner for which student?",
+   "Where to find more student supplies"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/5185082/pexels-photo-5185082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-12T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "leather-journals-under-30",
+  "id": 17,
+  "title": "Leather Journals Under $30: 7 Picks, Paper Weight, Cost per Page",
+  "type": "price",
+  "primary_query": "leather journals under $30",
+  "cluster": "leather-journals-under-30",
+  "products": [
+   227,
+   715,
+   716,
+   718,
+   719,
+   874,
+   1676
+  ],
+  "h2": [
+   "How the seven were picked and compared",
+   "What each price buys, cheapest to dearest",
+   "Is it real leather? What the listings say",
+   "Heaviest paper: Handmade Buffalo, 9 x 6 in",
+   "Refillable with a pen included: Compass, 5 x 7 in",
+   "Lowest cost per 100 pages: Rustic Handmade, 5 x 7 in",
+   "Lined and larger: ThoughtSpace, 6 x 8 in",
+   "Deckle edge pages: Cuero Vintage, 8 x 6 in",
+   "A travel set: passport size notebook with 3 inserts",
+   "A binder cover only: PATIKIL A5, red PU leather",
+   "What you give up under $30"
+  ],
+  "related": [
+   "types-of-journals",
+   "planner-accessories-guide",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/20729443/pexels-photo-20729443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-12T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-page-a-day-calendars",
+  "id": 18,
+  "title": "Best 2027 Page-a-Day Calendars: 10 Picks, Cost per Day Table",
+  "type": "best",
+  "primary_query": "best 2027 page a day calendars",
+  "cluster": "page-a-day-calendars-2027",
+  "products": [
+   637,
+   638,
+   695,
+   1456,
+   1457,
+   1458,
+   1460,
+   1485,
+   1487,
+   1489
+  ],
+  "h2": [
+   "How the ten calendars were compared",
+   "What 365 days and 320 pages mean for 2027",
+   "Lowest cost per day: the blue Daily Word calendar",
+   "A word a day, wall or desk: Word of the Day",
+   "Largest listed page: Life Hacks",
+   "A holiday on every page: Every Day's A Holiday",
+   "For dry humor: the Sarcastic desk calendar",
+   "For quiz fans: Daily Trivia Quest",
+   "For curious people: OMG Facts",
+   "For 70s, 80s and 90s fans: Gen X Trivia",
+   "For word lovers: Forgotten English",
+   "For the desk that needs a talking point: the 3D Earth calendar",
+   "Can a page-a-day calendar also be a planner?",
+   "Which one suits a gift under the tree on Friday, December 25, 2026?"
+  ],
+  "related": [
+   "christmas-gifts-for-planner-lovers",
+   "best-wall-calendars",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/29509468/pexels-photo-29509468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-13T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-leather-journals",
+  "id": 19,
+  "title": "Best Leather Journals: 8 Compared by Pages, GSM and Refills",
+  "type": "best",
+  "primary_query": "best leather journals",
+  "cluster": "leather-journals",
+  "products": [
+   715,
+   716,
+   718,
+   719,
+   750,
+   751,
+   779,
+   780
+  ],
+  "h2": [
+   "How these eight leather journals were chosen",
+   "Most pages, lowest cost per page: Rustic Handmade 5 x 7 in",
+   "Heaviest paper: Handmade Buffalo Leather Journal at 125 gsm",
+   "A lined notebook with a bookmark pair: ThoughtSpace 6 x 8 in",
+   "Deckle edge pages and a key bookmark: Cuero Vintage 8 x 6 in",
+   "Refillable covers: three that keep the leather and swap the paper",
+   "The compact option: Personalized A6 with a card holder",
+   "Cost per 100 pages and what it does not tell you",
+   "How do you tell what the leather label means?",
+   "Should you pick a refillable journal or a fixed one?"
+  ],
+  "related": [
+   "journaling-for-beginners",
+   "types-of-journals"
+  ],
+  "image": "https://images.unsplash.com/photo-1653569746987-8c1c63b2ffe2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxsZWF0aGVyJTIwam91cm5hbHxlbnwxfDB8fHwxNzk0MjM2ODgxfDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-13T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-travelers-notebooks",
+  "id": 20,
+  "title": "Best Traveler's Notebooks: Covers and Inserts by Size and Fit",
+  "type": "best",
+  "primary_query": "best traveler's notebooks",
+  "cluster": "travelers-notebooks",
+  "products": [
+   869,
+   871,
+   873,
+   874,
+   875,
+   879,
+   881,
+   927,
+   929,
+   1408
+  ],
+  "h2": [
+   "How these ten traveler's notebook products were sorted",
+   "Passport size: the genuine leather set with 3 inserts",
+   "Pocket size: newestor cover for 3.5 x 5.5 in notebooks",
+   "Standard size: two covers with inserts included",
+   "A5: a leather cover kit with five kraft journals",
+   "B6 covers when you already own the notebooks",
+   "Inserts on their own: Wanderings in A5 and passport size",
+   "What the paper costs in sets and packs",
+   "Which size fits your carry?"
+  ],
+  "related": [
+   "types-of-journals",
+   "christmas-gifts-for-planner-lovers"
+  ],
+  "image": "https://images.pexels.com/photos/4452526/pexels-photo-4452526.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-13T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-sketchbooks",
+  "id": 21,
+  "title": "Best Sketchbooks: Paper Weight From 80 to 300 GSM Compared",
+  "type": "best",
+  "primary_query": "best sketchbooks",
+  "cluster": "sketchbooks",
+  "products": [
+   450,
+   451,
+   480,
+   481,
+   482,
+   483,
+   1314,
+   1315,
+   1318,
+   1319
+  ],
+  "h2": [
+   "How these ten sketchbooks were chosen",
+   "For wet paint: the two 300 gsm books",
+   "For drawing media on large pages: the 9 x 12 in spiral sets",
+   "For pens and pencils: four 100 gsm A5 hardcovers",
+   "Pocket-size blank books: the two DreamDove A6 journals",
+   "What a sheet costs, from 80 gsm to 300 gsm",
+   "Is a blank journal a sketchbook?"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/15100360/pexels-photo-15100360.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-13T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-journal-gift-sets",
+  "id": 22,
+  "title": "Best Journal Gift Sets: What Each Box Holds, Item by Item",
+  "type": "best",
+  "primary_query": "best journal gift sets",
+  "cluster": "journal-gift-sets",
+  "products": [
+   155,
+   214,
+   223,
+   231,
+   267,
+   1015,
+   1113,
+   1140,
+   1141
+  ],
+  "h2": [
+   "How these nine journal gifts were picked",
+   "Kits that bring the pens: Y&I and feela",
+   "The notebook is the gift: four dotted journals in gift boxes",
+   "Add-ons for someone who already owns a notebook",
+   "A money-minded gift: the Clever Fox budget planner",
+   "What the money buys in each box",
+   "When should a journal gift arrive?"
+  ],
+  "related": [
+   "christmas-gifts-for-planner-lovers",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/37386474/pexels-photo-37386474.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-14T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-gel-pens-for-journaling",
+  "id": 23,
+  "title": "Best Gel Pens for Journaling: 4 Gel Sets by Tip Size and Cost",
+  "type": "best",
+  "primary_query": "best gel pens for journaling",
+  "cluster": "gel-pens-journaling",
+  "products": [
+   69,
+   70,
+   71,
+   245,
+   262,
+   1001
+  ],
+  "h2": [
+   "How these six pen sets were compared",
+   "For color-coding a spread: Writech 10 vintage colors",
+   "For one ink color and refills: Pilot G2 12-pack, 0.7 mm",
+   "For black notes at 0.5 mm: UIXJODO Morandi 5-pack",
+   "For erasing mistakes: PILOT FriXion Waai 8-pack",
+   "A fineliner when gel is not the goal: Kander 12-pack",
+   "For archival black in fixed widths: Sakura Pigma Micron 6-pack",
+   "Which tip is better in a journal, 0.5 mm or 0.7 mm?",
+   "Do gel pens bleed through journal pages?"
+  ],
+  "related": [
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/5184959/pexels-photo-5184959.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-14T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-fineliner-pens-for-bullet-journaling",
+  "id": 24,
+  "title": "Best Fineliner Pens for Bullet Journaling: Tip Widths in Inches",
+  "type": "best",
+  "primary_query": "best fineliner pens for bullet journaling",
+  "cluster": "fineliners-bullet-journal",
+  "products": [
+   961,
+   962,
+   981,
+   987,
+   988,
+   1546,
+   1550
+  ],
+  "h2": [
+   "How the seven fineliner sets were chosen",
+   "Fine lines for small boxes: Sakura Pigma Micron, 6 sizes plus brush",
+   "The widest nib spread: Winsor & Newton, 5 black fineliners",
+   "Color in a fine tip: Sakura Pigma Micron 005, 8 colors",
+   "Lowest cost per pen: the 10-color 0.38 mm fiber-nib set",
+   "The full range: Sakura Pigma Micron 73-pen color set",
+   "A fineliner and a brush in one marker: Ohuhu 60-color dual tip",
+   "Brush and fine tip on one pen: Zebra doodler'z, 18 colors",
+   "How thin should a bullet journal fineliner be?",
+   "Do fineliners bleed through bullet journal paper?"
+  ],
+  "related": [
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/913116/pexels-photo-913116.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-14T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-colored-pencils-for-journaling",
+  "id": 25,
+  "title": "Best Colored Pencils for Journaling: 7 Sets by Cost per Pencil",
+  "type": "best",
+  "primary_query": "best colored pencils for journaling",
+  "cluster": "colored-pencils-journaling",
+  "products": [
+   730,
+   731,
+   733,
+   734,
+   762,
+   766,
+   1713
+  ],
+  "h2": [
+   "How the seven pencil sets were sorted",
+   "A 12-pencil tin for a journal bag: Faber-Castell Black Edition",
+   "Erasers on every pencil: Pointer 24-pack",
+   "A tube of 72: Yagol soft core colored pencils",
+   "A tube of 120: KALOUR soft core colored pencils",
+   "Paper in the box: HIFORNY 80-piece set",
+   "The largest case: the 136-piece kit with 120 oil-based pencils",
+   "Seventy-two with a zipper case: H & B soft core set",
+   "Soft core or not: what the listings say about the pencil lead",
+   "Are colored pencils good for planners and journals?"
+  ],
+  "related": [
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/6991808/pexels-photo-6991808.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-14T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-planner-stickers",
+  "id": 26,
+  "title": "Best Planner Stickers: Cost per 100 and Stickers per Sheet",
+  "type": "best",
+  "primary_query": "best planner stickers",
+  "cluster": "planner-stickers",
+  "products": [
+   265,
+   268,
+   820,
+   906,
+   1660,
+   1671,
+   1672,
+   1674
+  ],
+  "h2": [
+   "How the eight sticker sets were sorted",
+   "Mini icons by the hundred: Charlotte's Paper productivity icons",
+   "The lowest cost per 100: the 1700-plus boho functional set",
+   "A seasonal book for holiday spreads: 24-page sticker book",
+   "Undated weekly grids: the 26-sheet Sunday-start set",
+   "Day labels you can write over: gold-foiled transparent weekly labels",
+   "A teacher's pad: Avery planner stickers, 30 sheets",
+   "A branded sticker book: The Happy Planner Radiate",
+   "Tabs, labels and icons in boho colors: 30 pages, 750-plus",
+   "How many stickers fit a planner box?",
+   "Which planner stickers are removable?"
+  ],
+  "related": [
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/30101190/pexels-photo-30101190.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-14T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-fountain-pens-for-journaling",
+  "id": 27,
+  "title": "Best Fountain Pens for Journaling: 2 Pens, 2 Inks, 1 Converter",
+  "type": "best",
+  "primary_query": "best fountain pens for journaling",
+  "cluster": "fountain-pens",
+  "products": [
+   1121,
+   1122,
+   1270,
+   1272,
+   1304
+  ],
+  "h2": [
+   "What a journaling fountain pen setup needs",
+   "LAMY abc: the everyday pen with an ink cartridge included",
+   "Manuscript Dodec: two nib widths for headings and lettering",
+   "Ink choices: a single black bottle or three colors",
+   "Schmidt converter: bottled ink for pens that take one",
+   "How should a first-time journal writer combine these?"
+  ],
+  "related": [
+   "journaling-for-beginners",
+   "planner-accessories-guide",
+   "types-of-journals"
+  ],
+  "image": "https://images.pexels.com/photos/11154571/pexels-photo-11154571.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-15T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-scrapbook-paper-pads",
+  "id": 28,
+  "title": "Best Scrapbook Paper Pads: Paper per Dollar for 6 Picks",
+  "type": "best",
+  "primary_query": "best scrapbook paper pads",
+  "cluster": "scrapbook-paper",
+  "products": [
+   167,
+   168,
+   302,
+   1010,
+   1011,
+   1627
+  ],
+  "h2": [
+   "What the listings say about these scrapbook paper pads",
+   "Soft Romantic: the most paper per dollar in a 12 x 12 in pad",
+   "Bloom and Vintage Artisan: matched 12 x 12 in pads with different looks",
+   "Small sheets for pocket journals: the 5.5 x 8.3 in grid pad",
+   "Junk journal scraps: the Vintage paper packs",
+   "Which paper weight works for a journal page?"
+  ],
+  "related": [
+   "types-of-journals",
+   "planner-accessories-guide",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/8715896/pexels-photo-8715896.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-15T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "new-year-gifts-journals",
+  "id": 29,
+  "title": "New Year Gifts for Journal Lovers: 9 Picks by Budget and Style",
+  "type": "gift",
+  "primary_query": "new year gifts journals 2027",
+  "cluster": "new-year-journal-gifts",
+  "products": [
+   233,
+   237,
+   241,
+   282,
+   460,
+   463,
+   484,
+   503,
+   593
+  ],
+  "h2": [
+   "How these nine journal gifts were chosen",
+   "Under 20 dollars: the planner and the memory books",
+   "20 to 35 dollars: guided and goal-focused gifts",
+   "Over 35 dollars: a diary for keeping",
+   "Dated or undated: which journal fits a New Year present?",
+   "What to check before buying and what to add to the box"
+  ],
+  "related": [
+   "christmas-gifts-for-planner-lovers",
+   "best-gratitude-journals",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/37386479/pexels-photo-37386479.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-15T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "planners-under-15",
+  "id": 30,
+  "title": "2027 Planners Under $15: 9 Compared by Dates, Size and Cost per Month",
+  "type": "price",
+  "primary_query": "2027 planners under $15",
+  "cluster": "planners-under-15",
+  "products": [
+   124,
+   196,
+   208,
+   212,
+   234,
+   249,
+   282,
+   306,
+   431
+  ],
+  "h2": [
+   "How the nine planners were picked and priced per month",
+   "Planners that cover January to December 2027",
+   "Monthly-only planners: one year or two",
+   "Academic planners: what a July start leaves for 2027",
+   "Undated planners you can start any week",
+   "What you give up under $15"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "best-calendar-year-planners"
+  ],
+  "image": "https://images.pexels.com/photos/8250989/pexels-photo-8250989.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-15T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "wall-calendars-under-15",
+  "id": 31,
+  "title": "2027 Wall Calendars Under $15: 10 Compared by Price per Month",
+  "type": "price",
+  "primary_query": "2027 wall calendars under $15",
+  "cluster": "wall-calendars-under-15",
+  "products": [
+   274,
+   291,
+   292,
+   300,
+   945,
+   946,
+   950,
+   955,
+   956,
+   1425
+  ],
+  "h2": [
+   "How the ten wall calendars were priced and sorted",
+   "Calendars that run past December 2027",
+   "Pocket calendars for bills, tickets and cards",
+   "Family, big-print and academic wall calendars",
+   "When to buy, and what to do with a gap"
+  ],
+  "related": [
+   "best-wall-calendars",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/11706725/pexels-photo-11706725.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-16T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "desk-calendars-under-15",
+  "id": 32,
+  "title": "2027 Desk Calendars Under $15: 10 Compared by Size and Page Type",
+  "type": "price",
+  "primary_query": "2027 desk calendars under $15",
+  "cluster": "desk-calendars-under-15",
+  "products": [
+   296,
+   298,
+   609,
+   610,
+   616,
+   637,
+   649,
+   1456,
+   1457,
+   1460
+  ],
+  "h2": [
+   "Four desk calendar formats and how cost per month was computed",
+   "Standing flip calendars that fit a small desk",
+   "A desk pad for the most writing room",
+   "Tear-off calendars that show one day at a time",
+   "A perpetual calendar for birthdays and anniversaries",
+   "Free printables and categories to browse next"
+  ],
+  "related": [
+   "best-wall-calendars",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.unsplash.com/photo-1611988615248-5d4f0b9ac31e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxkZXNrJTIwY2FsZW5kYXJ8ZW58MXwwfHx8MTc5NDIzNjg3MHww&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-16T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-weekly-planners",
+  "id": 33,
+  "title": "Best 2027 Weekly Planners: 9 Compared by Dates, Size and Paper Weight",
+  "type": "best",
+  "primary_query": "best 2027 weekly planners",
+  "cluster": "weekly-planners-2027",
+  "products": [
+   112,
+   114,
+   193,
+   196,
+   249,
+   279,
+   281,
+   326,
+   340
+  ],
+  "h2": [
+   "How these weekly planners were chosen and compared",
+   "Lowest price among dated A5 weekly planners: Traceform, 100GSM",
+   "Head start in print: Letter hardcover with July 2026 pages",
+   "Smaller head start: A5 hardcover with four extra months",
+   "Timed appointments: Poluma 15-minute weekly book",
+   "Refillable weekly planner: Fan&Ran leather binder",
+   "Heaviest listed paper with budget pages: GoGirl Planner PRO",
+   "Undated weekly notebook with the most pages: Ricco Bello",
+   "Simple undated A5 for a fresh start: Forvencer",
+   "School-year weekly planner: Blue Sky, July 2026 to June 2027",
+   "Dated or undated, and how many weeks does 2027 need?",
+   "Is 120 gsm better than 100 gsm?"
+  ],
+  "related": [
+   "best-calendar-year-planners",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/6690930/pexels-photo-6690930.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-16T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-monthly-planners",
+  "id": 34,
+  "title": "Best 2027 Monthly Planners: 9 Picks by Cost per Month",
+  "type": "best",
+  "primary_query": "best 2027 monthly planners",
+  "cluster": "monthly-planners-2027",
+  "products": [
+   22,
+   118,
+   131,
+   203,
+   212,
+   234,
+   282,
+   806,
+   1297
+  ],
+  "h2": [
+   "How the nine monthly planners were compared",
+   "Writing room in each daily box",
+   "Cost per month and Score",
+   "For a one-year hardcover: Amoroud weekly and monthly",
+   "For the biggest boxes in a single year: Artfan 9 x 11 in",
+   "For a start before January: Leuchtturm1917 B5 and the green A5",
+   "Two years on one cover: Urneeds and Indeme",
+   "Three to five years: Maaibok, Goiunlt and the dark green planner",
+   "What does a Friday start mean for the first month page?",
+   "Is a monthly planner enough on its own?"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "best-calendar-year-planners"
+  ],
+  "image": "https://images.unsplash.com/photo-1632772998001-cc9bf6f7c852?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxtb250aGx5JTIwcGxhbm5lciUyMGRlc2t8ZW58MXwwfHx8MTc5NDMwNzk4Nnww&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-16T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-daily-planners",
+  "id": 35,
+  "title": "Best Daily Planners: 10 Picks by Hours Per Page and Size",
+  "type": "best",
+  "primary_query": "best daily planners",
+  "cluster": "daily-planners",
+  "products": [
+   6,
+   135,
+   194,
+   208,
+   436,
+   441,
+   520,
+   1441,
+   1506,
+   1507
+  ],
+  "h2": [
+   "How the ten daily planners were chosen",
+   "Hours, dates and page area side by side",
+   "Price, cost per month and Score",
+   "Longest printed day: the pink 8.5 x 11 in hardcover",
+   "Highest Score for the least money: Smart Planner Pro",
+   "Dated 2027, one page a day, A5: four listings",
+   "Starting in July: Day Designer and POPRUN",
+   "Undated weekly columns and a 200-page book: bloom and NotePro",
+   "Should a daily planner be dated or undated?"
+  ],
+  "related": [
+   "how-to-use-a-daily-planner",
+   "best-calendar-year-planners"
+  ],
+  "image": "https://images.pexels.com/photos/7439133/pexels-photo-7439133.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-16T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-budget-planners",
+  "id": 36,
+  "title": "Best Budget Planners: 9 Picks by Pages and Cost per Month",
+  "type": "best",
+  "primary_query": "best budget planners",
+  "cluster": "budget-planners",
+  "products": [
+   207,
+   210,
+   211,
+   231,
+   711,
+   712,
+   1600,
+   1602,
+   1641
+  ],
+  "h2": [
+   "How the nine budget planners were picked",
+   "What each budget book holds",
+   "Price and cost per month",
+   "Most pages and the top Score: SUNEE A5",
+   "Cash envelopes with a planner: Clever Fox Premium",
+   "Bill pockets for paper statements: three 12-pocket books",
+   "Lowest cost per month: the 6.1 x 8.25 in book and And Per Se",
+   "For the envelope challenge: ENOMY A6 binder and Taja",
+   "How many pay dates does 2027 have?",
+   "Which budget planner suits a paper-and-pen method?"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/4475524/pexels-photo-4475524.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-17T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-undated-planners",
+  "id": 37,
+  "title": "Best Undated Planners: 10 Picks by Layout and Cost per Unit",
+  "type": "best",
+  "primary_query": "best undated planners",
+  "cluster": "undated-planners",
+  "products": [
+   566,
+   567,
+   570,
+   574,
+   642,
+   644,
+   1247,
+   1252,
+   1288,
+   1472
+  ],
+  "h2": [
+   "How the ten undated planners were compared",
+   "What each undated planner holds",
+   "Price and cost per week, day or page",
+   "Longest printed day: the A4 hourly daily planner",
+   "Daily books at A5 size: Panda Planner, spiral daily and Legend hourly",
+   "Weekly spreads for a full year: green hardcover, RETTACY and Nextnoid",
+   "Monthly, weekly and daily in one: CHOOXIAO and the pink spiral",
+   "Pocket size: the Legend 3.5 x 6.2 in planner",
+   "Will a 52-week planner last through 2027?",
+   "Do undated planners need a calendar next to them?"
+  ],
+  "related": [
+   "how-to-use-a-daily-planner",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/33136468/pexels-photo-33136468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-17T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-hourly-planners-for-time-blocking",
+  "id": 38,
+  "title": "Best Hourly Planners for Time Blocking: Slot Length and Hours Compared",
+  "type": "best",
+  "primary_query": "best hourly planners for time blocking",
+  "cluster": "hourly-planners",
+  "products": [
+   1050,
+   1052,
+   1054,
+   1060,
+   1063,
+   1064,
+   1651,
+   1652,
+   1659
+  ],
+  "h2": [
+   "How the nine hourly planners were compared",
+   "How many rows does a time-blocked day get?",
+   "Seven days at 15 minutes: the 9 x 11 in appointment book",
+   "Hourly slots and a stated 100 gsm: MINPPEN 6.5 x 8.5 in",
+   "Small and cheap in 30 minutes: the 6.2 x 8.4 in appointment book",
+   "A short workday in 30 minutes: 8.5 x 11 in with 8:30 to 5:30 rows",
+   "Early starts and late finishes: Poluma salon book, 6 a.m. to 9 p.m.",
+   "Undated tear-off days: the 11.7 x 8.3 in Time Blocks notepad",
+   "Three 8.5 x 11 in quarter-hour books and what separates them",
+   "Dated or undated for time blocking?",
+   "Which printed hours match your day?"
+  ],
+  "related": [
+   "how-to-use-a-daily-planner",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/7428209/pexels-photo-7428209.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-17T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-a5-planners",
+  "id": 39,
+  "title": "Best A5 Planners 2027: 10 Compared by Listed Size and Dates",
+  "type": "best",
+  "primary_query": "best a5 planners 2027",
+  "cluster": "a5-planners-2027",
+  "products": [
+   196,
+   203,
+   208,
+   281,
+   306,
+   326,
+   1252,
+   1297,
+   1441,
+   1472
+  ],
+  "h2": [
+   "How the ten A5 planners were compared",
+   "Lowest price with a 100 gsm sheet: Traceform weekly planner",
+   "Two A5 spirals with a head start: the 6.3 x 8.5 in hardcover pair",
+   "A5 with an academic calendar: July 2026 to June 2027",
+   "One A5 cover for five years: the 6.2 x 8.4 in monthly planner",
+   "One page per day: the 5.7 x 8.4 in daily planner with 7 a.m. to 8 p.m. hours",
+   "A refillable A5 binder: Fan&Ran leather",
+   "Undated A5 starts: Smart Planner Pro, the green weekly and Panda Planner",
+   "Is a 6.3 x 8.5 in planner still A5?",
+   "Dated, academic or undated: which A5 starts when you do?"
+  ],
+  "related": [
+   "best-calendar-year-planners",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/5190598/pexels-photo-5190598.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-17T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-pocket-calendars",
+  "id": 40,
+  "title": "Best 2027 Pocket Calendars: 8 Compared by Size and Months",
+  "type": "best",
+  "primary_query": "best 2027 pocket calendars",
+  "cluster": "pocket-calendars-2027",
+  "products": [
+   391,
+   392,
+   394,
+   395,
+   396,
+   1254,
+   1327,
+   1328
+  ],
+  "h2": [
+   "How the eight pocket calendars were compared",
+   "The smallest page: AT-A-GLANCE 3.5 x 6 in",
+   "Lowest cost per month: Taja 6.5 x 3.5 in two-year monthly",
+   "A second 24-month book with a printed cover: watercolor flower",
+   "Weekly pages in a pocket size: the A6 leather-cover planner",
+   "Weekly and monthly with a stated weight: oil painting cover, 164 g",
+   "Golden twin-wire binding and the largest page: butterfly cover",
+   "Lowest price for one year: wildflower A6 monthly",
+   "A calendar that began in 2026: purple floral 24-month book",
+   "One year or two years in a pocket?",
+   "What do the listings say about pen loops, pockets and tabs?"
+  ],
+  "related": [
+   "best-calendar-year-planners",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/29359845/pexels-photo-29359845.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-17T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-family-planners",
+  "id": 41,
+  "title": "Best Family Planners: Columns, Dates and Size Compared for 6",
+  "type": "best",
+  "primary_query": "best family planners",
+  "cluster": "family-planners",
+  "products": [
+   1133,
+   1134,
+   1552,
+   1553,
+   1598,
+   1599
+  ],
+  "h2": [
+   "How the six family planners were compared",
+   "Six columns and a grocery list: BEZEND 7 x 9 in organizer",
+   "Six people on one weekly page: tiddler A4 undated planner",
+   "Five names on a wall: Do It All Bella Flora, 17 months",
+   "For the refrigerator door: the 9.6 x 8.5 in magnetic pad",
+   "The same idea in a book: the 8.5 x 11 in family organizer",
+   "Chores, not appointments: the home cleaning planner",
+   "Planner or wall calendar for a family?",
+   "Which family planner starts when you do?"
+  ],
+  "related": [
+   "best-wall-calendars",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/28891928/pexels-photo-28891928.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-18T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-meal-planners",
+  "id": 42,
+  "title": "Best Meal Planners: 7 Picks by Sheets, Paper and Cost per Sheet",
+  "type": "best",
+  "primary_query": "best meal planners",
+  "cluster": "meal-planners",
+  "products": [
+   965,
+   968,
+   971,
+   990,
+   1199,
+   1212,
+   1214
+  ],
+  "h2": [
+   "How the seven meal planners were sorted",
+   "Lowest cost per sheet: the undated 6.5 x 9.5 in notepad",
+   "For the fridge door: the 7 x 10 in magnetic pad",
+   "The same pad under another listing: ZERONECENTRE 7 x 10 in",
+   "One book for menus, lists and recipes: Life & Apples A5 spiral",
+   "For a stored recipe collection: the 7 x 10 in hardcover with 120 recipe pages",
+   "Cheapest recipe slot: the 5.8 x 8.3 in spiral recipe book",
+   "For printed or clipped recipes: the 8.5 x 11 in binder kit",
+   "Pad, notebook or binder: which format fits a household?",
+   "Does paper weight matter for a kitchen pad?"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/8844564/pexels-photo-8844564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-18T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-desk-calendars",
+  "id": 43,
+  "title": "Best 2027 Desk Calendars: 10 Picks by Size, Months and Block Size",
+  "type": "best",
+  "primary_query": "best 2027 desk calendars",
+  "cluster": "desk-calendars-2027",
+  "products": [
+   275,
+   296,
+   298,
+   299,
+   608,
+   609,
+   610,
+   611,
+   616,
+   1279
+  ],
+  "h2": [
+   "How the ten desk calendars were compared",
+   "Highest score: the 22 x 17 in desk pad with 12 monthly themes",
+   "For a framed look: TF Publishing Susan Branch desk pad",
+   "For a desk that doubles as a wall: the 22 x 17 in pad with a woven backboard",
+   "Largest daily block: the AT-A-GLANCE academic pad, July 2026 to June 2027",
+   "Longest stretch on a mat: the 21-month desktop calendar",
+   "Lowest cost per month: GuassLee 18 months, January 2027 to June 2028",
+   "Small desk, scored: the 9.8 x 8.3 in floral standing flip",
+   "Standing flip with ruled blocks: the 10 x 8.3 in, 12-page calendar",
+   "Standing flip with goals and moon phases: the 10 x 8 in A-frame",
+   "Lowest cost of the standing flips: the 9.8 x 8.3 in mint-board calendar",
+   "Desk pad or standing flip: which one for which desk?",
+   "Should the calendar start in January 2027?"
+  ],
+  "related": [
+   "best-wall-calendars",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/29509476/pexels-photo-29509476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-18T12:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-dry-erase-calendars",
+  "id": 44,
+  "title": "Best Dry Erase Calendars: 10 Picks by Size, Surface and Layout",
+  "type": "best",
+  "primary_query": "best dry erase calendars",
+  "cluster": "dry-erase-calendars",
+  "products": [
+   358,
+   361,
+   366,
+   411,
+   412,
+   416,
+   417,
+   1448,
+   1482,
+   1484
+  ],
+  "h2": [
+   "How the ten dry erase calendars were chosen",
+   "Fridge calendars: the 13 x 16.9 in vertical sheet and the 16 x 12 in sheet",
+   "Framed monthly boards: 24 x 18 in Comix and 36 x 24 in aluminum frame",
+   "Glass boards: 17 x 23 in Yeoux and the two black glass yearly planners",
+   "Full-year and quarter sheets: 58 x 37, 48 x 36 and 28 x 40 in",
+   "Which dry erase calendar fits a refrigerator door?",
+   "Can a dry erase calendar replace a printed one?"
+  ],
+  "related": [
+   "best-wall-calendars",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/5499138/pexels-photo-5499138.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-18T14:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-a5-planner-inserts-and-refills",
+  "id": 45,
+  "title": "Best A5 Planner Inserts and Refills: 6 Packs, 5.43 to 5.8 In Wide",
+  "type": "best",
+  "primary_query": "best a5 planner inserts and refills",
+  "cluster": "planner-inserts-a5",
+  "products": [
+   1123,
+   1124,
+   1126,
+   1127,
+   1430,
+   1492
+  ],
+  "h2": [
+   "How the six A5 refills were picked",
+   "Dated 2027 refill with weeks and months: the 5.75 x 8.25 in pack",
+   "Dated daily pages for all of 2027: the 176-sheet refill",
+   "Weekly pages without dates: Harphia 45-sheet weekly refill",
+   "Month grids without dates: Harphia 45-sheet monthly refill",
+   "Blank paper with a print-and-go promise: the 90-sheet pack",
+   "Lined notes in five colors: the 100-sheet filler pack",
+   "Why does an A5 refill not always fit an A5 binder?",
+   "Dated or undated for 2027?"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/8250940/pexels-photo-8250940.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-18T17:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-planners-for-work-and-small-business",
+  "id": 46,
+  "title": "Best Planners for Work and Small Business: 9 Picks by Layout",
+  "type": "best",
+  "primary_query": "best planners for work and small business",
+  "cluster": "business-planners",
+  "products": [
+   589,
+   1052,
+   1063,
+   1064,
+   1476,
+   1521,
+   1522,
+   1652,
+   1659
+  ],
+  "h2": [
+   "How these nine work planners were chosen",
+   "For quarterly goals and revenue tracking: the A5 linen Quarterly Business Planner",
+   "For week-to-view planning with business trackers: Perfect Planner Company 2027",
+   "For back-to-back appointments: four 2027 planners with printed time slots",
+   "For meeting notes and action items: Taja and Lamare notebooks",
+   "For a fresh daily plan with no dates: the Time Blocks notepad",
+   "Does a Friday start change how a 2027 work planner works?"
+  ],
+  "related": [
+   "how-to-choose-a-planner",
+   "best-calendar-year-planners"
+  ],
+  "image": "https://images.pexels.com/photos/583846/pexels-photo-583846.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-19T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-five-year-journals",
+  "id": 47,
+  "title": "Best Five Year Journals: 8 Compared by Size and Cost per Year",
+  "type": "best",
+  "primary_query": "best five year journals",
+  "cluster": "five-year-journals",
+  "products": [
+   235,
+   241,
+   458,
+   460,
+   463,
+   541,
+   545,
+   546
+  ],
+  "h2": [
+   "What to compare in a five-year journal",
+   "Oxford One Line a Day: the layout is written out",
+   "The 5 x 8 in beige hardcover with ribbons and a pen loop",
+   "The lowest cost per year: One Line A Day: A Five-Year Memory Book",
+   "Larger pages: the 7 x 10 in hardcover and the 6 x 9 in books",
+   "Dated or undated: what the listings say",
+   "A five-year diary with a lock: Collins",
+   "How many days does a five-year journal hold?"
+  ],
+  "related": [
+   "best-gratitude-journals",
+   "types-of-journals"
+  ],
+  "image": "https://images.pexels.com/photos/36598331/pexels-photo-36598331.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-19T09:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
  }
 ]
