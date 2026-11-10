@@ -2,6 +2,12 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-10 (search desk, morning)
+
+- **A new sitemap in the property: the shop.** Read of Nov. 10, 09:13 UTC (windows to Nov. 7): shop.freshcalendars.com/sitemap.xml now shows in the domain property (293 URLs, 0 errors, read Nov. 9). The search-console.md list prints it as a second "/sitemap.xml" because the path is shortened; nothing to fix on the site, but the manager may want `scripts/news-gsc.mjs` to print the host for non-root sitemaps. /news/sitemap.xml 1,211 URLs, 0 errors; 90 of 90 sampled stories indexed (gate 60 of 60). No volume signal.
+- **Still no briefs before Nov. 22.** Every non-puzzle candidate in this read (Native American Heritage Month theme, Halloween weekday, Canada 2027 holidays, Great American Christmas, CBS holiday specials, winter solstice) was retitled by the Nov. 8 headline migration; the Black Friday ad tracker has an open update item and was updated Nov. 8; the rest are past events, puzzle pages, running experiments or dates Google answers.
+- **Calendar site web clicks down again, image up.** Week Nov. 1-7: 47 clicks, 6,312 impressions against 56 and 5,606; image 63 clicks, 43,334 impressions against 43 and 20,752. "september 2027 calendar" 1,226 impressions at 9.2, 2 clicks: the title template note of Nov. 7 stands. Discover still 0 (fifth window): the Nov. 9 check stands.
+
 ## 2026-11-09 (search desk, evening)
 
 - **The noindex note is closed.** Read of Nov. 9, 19:47 UTC (windows still end Nov. 6, the same as the morning read): 90 of 90 sampled stories "Submitted and indexed" (gate 59 of 59, 100%), so /news/catholic-liturgical-calendar-2027-year-b/ is now indexed; strike the noindex item of Nov. 7-9. All three sitemaps 0 errors (/news/sitemap.xml 1,141 URLs). No volume signal.

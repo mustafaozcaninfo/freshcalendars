@@ -2,8 +2,8 @@
 title: "Cherry Creek School Calendar 2026-27: Spring Break March 15-19"
 description: "Cherry Creek Schools 2026-27: no school March 15-19, 2027, last day May 28. Every no-student day counted, the Nov. 25 detail and a printable."
 type: news
-publishedAt: "2026-11-10T06:00:00-05:00"
-updatedAt: "2026-11-10T06:00:00-05:00"
+publishedAt: "2026-11-10T05:15:00-05:00"
+updatedAt: "2026-11-10T05:15:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["cherry creek school calendar 2026-27", "cherry creek spring break 2027", "cherry creek winter break 2026", "ccsd calendar 2026-2027"]

@@ -2,8 +2,8 @@
 title: "Capistrano Unified Calendar 2026-27: Winter Recess Dec. 21-Jan. 1"
 description: "Capistrano Unified School District 2026-27: winter recess Dec. 21-Jan. 1, spring recess April 5-9. The revised April 2026 calendar and a printable."
 type: news
-publishedAt: "2026-11-10T06:10:00-05:00"
-updatedAt: "2026-11-10T06:10:00-05:00"
+publishedAt: "2026-11-10T05:19:00-05:00"
+updatedAt: "2026-11-10T05:19:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["capistrano unified calendar 2026-27", "cusd winter break 2026", "capousd calendar 2026-2027", "capistrano unified spring break 2027"]

@@ -2,8 +2,8 @@
 title: "Up Helly Aa 2027: Lerwick on Jan. 26, Plus 7 More Fire Festivals"
 description: "Up Helly Aa 2027 is Tuesday, Jan. 26 in Lerwick. See seven more Shetland fire festival dates to Mar. 5, the day's times in ET and a free printable."
 type: explainer
-publishedAt: "2026-11-10T06:10:00-05:00"
-updatedAt: "2026-11-10T06:10:00-05:00"
+publishedAt: "2026-11-10T05:21:00-05:00"
+updatedAt: "2026-11-10T05:21:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 dateline: "Lerwick"

@@ -2,8 +2,8 @@
 title: "Hunger and Homelessness Awareness Week 2026: Nov. 15-21, Ways to Help"
 description: "Hunger and Homelessness Awareness Week 2026 runs Nov. 15-21, per its sponsors. See the dates, a day-by-day plan and federal homelessness and food data."
 type: news
-publishedAt: "2026-11-10T09:30:00-05:00"
-updatedAt: "2026-11-10T09:30:00-05:00"
+publishedAt: "2026-11-10T05:25:00-05:00"
+updatedAt: "2026-11-10T05:25:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["hunger and homelessness awareness week 2026", "h&h week 2026 dates", "hunger awareness week events", "hunger and homelessness awareness week"]

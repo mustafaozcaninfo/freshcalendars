@@ -2,8 +2,8 @@
 title: "World Pneumonia Day 2026 Is Nov. 12: A New Era of Pneumonia Control"
 description: "World Pneumonia Day 2026 is Thursday, Nov. 12; the theme is A New Era of Pneumonia Control. A live countdown, last year's theme and a free planner sheet."
 type: news
-publishedAt: "2026-11-10T10:30:00-05:00"
-updatedAt: "2026-11-10T10:30:00-05:00"
+publishedAt: "2026-11-10T05:27:00-05:00"
+updatedAt: "2026-11-10T05:27:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["world pneumonia day 2026", "world pneumonia day november 12", "world pneumonia day 2026 theme", "every breath counts"]
