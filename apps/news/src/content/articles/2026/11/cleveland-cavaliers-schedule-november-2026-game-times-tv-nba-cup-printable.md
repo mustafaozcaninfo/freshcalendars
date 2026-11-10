@@ -82,7 +82,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, miami-heat-schedule-november-2026-game-times-tv-nba-cup-printable, chicago-bulls-schedule-november-2026-game-times-tv-nba-cup-printable]
+related: [nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, miami-heat-schedule-november-2026-game-times-tv-nba-cup-printable, cleveland-cavaliers-schedule-december-2026-game-times-tv-printable]
 downloads:
   - group: "Cavaliers Schedule printables"
     title: "Cavaliers Schedule, November 2026"

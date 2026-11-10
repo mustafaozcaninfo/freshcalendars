@@ -79,7 +79,7 @@ internalLinks:
     label: "printable weekly calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [knicks-schedule-november-2026-game-times-tv-nba-cup-printable, christmas-day-2026-games-nba-nfl-schedule-times-tv, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis]
+related: [knicks-schedule-november-2026-game-times-tv-nba-cup-printable, christmas-day-2026-games-nba-nfl-schedule-times-tv, san-antonio-spurs-schedule-december-2026-game-times-tv-christmas-printable]
 downloads:
   - group: "Knicks Schedule printables"
     title: "Knicks Schedule, December 2026"
