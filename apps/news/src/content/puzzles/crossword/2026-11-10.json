@@ -1,0 +1,1140 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-10",
+ "constructors": [
+  "Sam Koperwas and Jeff Chen"
+ ],
+ "width": 15,
+ "height": 15,
+ "cells": [
+  "Y",
+  "A",
+  "P",
+  null,
+  null,
+  "S",
+  "T",
+  "O",
+  "P",
+  null,
+  "M",
+  "E",
+  "L",
+  "T",
+  "S",
+  "E",
+  "M",
+  "I",
+  "T",
+  null,
+  "H",
+  "O",
+  "M",
+  "E",
+  null,
+  "A",
+  "V",
+  "E",
+  "R",
+  "T",
+  "T",
+  "E",
+  "A",
+  "R",
+  "S",
+  "H",
+  "E",
+  "E",
+  "T",
+  null,
+  "R",
+  "E",
+  "T",
+  "I",
+  "E",
+  "I",
+  "N",
+  "N",
+  "I",
+  "E",
+  null,
+  null,
+  "G",
+  "I",
+  "G",
+  "I",
+  null,
+  "I",
+  "K",
+  "E",
+  null,
+  "D",
+  "O",
+  "E",
+  "S",
+  "T",
+  "H",
+  "A",
+  "T",
+  "M",
+  "A",
+  "T",
+  "T",
+  "E",
+  "R",
+  null,
+  null,
+  null,
+  "S",
+  "H",
+  "O",
+  "E",
+  null,
+  null,
+  "A",
+  "C",
+  "E",
+  "R",
+  null,
+  null,
+  "A",
+  "D",
+  "A",
+  null,
+  null,
+  "O",
+  "L",
+  "D",
+  "E",
+  null,
+  "H",
+  "A",
+  "I",
+  "F",
+  "A",
+  "P",
+  "U",
+  "T",
+  "T",
+  "I",
+  "N",
+  "G",
+  "I",
+  "T",
+  "M",
+  "I",
+  "L",
+  "D",
+  "L",
+  "Y",
+  "T",
+  "O",
+  "W",
+  "E",
+  "D",
+  null,
+  "A",
+  "G",
+  "U",
+  "A",
+  null,
+  null,
+  "E",
+  "Y",
+  "E",
+  null,
+  null,
+  "I",
+  "N",
+  "I",
+  "T",
+  null,
+  null,
+  "D",
+  "R",
+  "A",
+  "B",
+  null,
+  null,
+  null,
+  "G",
+  "E",
+  "T",
+  "S",
+  "T",
+  "H",
+  "E",
+  "L",
+  "E",
+  "A",
+  "D",
+  "O",
+  "U",
+  "T",
+  null,
+  "E",
+  "T",
+  "S",
+  null,
+  "A",
+  "X",
+  "L",
+  "E",
+  null,
+  null,
+  "D",
+  "O",
+  "N",
+  "N",
+  "E",
+  "I",
+  "H",
+  "E",
+  "A",
+  "R",
+  null,
+  "T",
+  "A",
+  "K",
+  "E",
+  "S",
+  "A",
+  "B",
+  "O",
+  "W",
+  "C",
+  "A",
+  "N",
+  "T",
+  "O",
+  null,
+  "O",
+  "V",
+  "E",
+  "R",
+  null,
+  "T",
+  "O",
+  "T",
+  "E",
+  "O",
+  "N",
+  "D",
+  "V",
+  "D",
+  null,
+  "N",
+  "E",
+  "A",
+  "R",
+  null,
+  null,
+  "X",
+  "E",
+  "S"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Chatter away",
+   "cells": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "4",
+   "text": "Directive on an octagon",
+   "cells": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "Turns to mush",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "13",
+   "text": "Send out",
+   "cells": [
+    15,
+    16,
+    17,
+    18
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Common GPS setting",
+   "cells": [
+    20,
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Keep from happening",
+   "cells": [
+    25,
+    26,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Kleenex?",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Correct, as a hitch",
+   "cells": [
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Navel type",
+   "cells": [
+    45,
+    46,
+    47,
+    48,
+    49
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Fashion model Hadid",
+   "cells": [
+    52,
+    53,
+    54,
+    55
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Prez with a famous \"like\" button",
+   "cells": [
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Important female deer?",
+   "cells": [
+    61,
+    62,
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "Purchase at Foot Locker",
+   "cells": [
+    78,
+    79,
+    80,
+    81
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Big name in laptops",
+   "cells": [
+    84,
+    85,
+    86,
+    87
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "30",
+   "text": "Coding pioneer Lovelace",
+   "cells": [
+    90,
+    91,
+    92
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "Shoppe description",
+   "cells": [
+    95,
+    96,
+    97,
+    98
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "36",
+   "text": "Eastern Mediterranean port",
+   "cells": [
+    100,
+    101,
+    102,
+    103,
+    104
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "39",
+   "text": "Soft touch on a golf course green?",
+   "cells": [
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "43",
+   "text": "Like a broken-down car, typically",
+   "cells": [
+    120,
+    121,
+    122,
+    123,
+    124
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "44",
+   "text": "Contents of un río",
+   "cells": [
+    126,
+    127,
+    128,
+    129
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "45",
+   "text": "Pupil's place",
+   "cells": [
+    132,
+    133,
+    134
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "46",
+   "text": "Still competitive",
+   "cells": [
+    137,
+    138,
+    139,
+    140
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "48",
+   "text": "Not very bright",
+   "cells": [
+    143,
+    144,
+    145,
+    146
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "51",
+   "text": "Prepares for a dog walk?",
+   "cells": [
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "57",
+   "text": "\"Project Hail Mary\" beings, in brief",
+   "cells": [
+    165,
+    166,
+    167
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "58",
+   "text": "Semi supporter",
+   "cells": [
+    169,
+    170,
+    171,
+    172
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "59",
+   "text": "Poet John who wrote \"Love built on beauty, soon as beauty, dies\"",
+   "cells": [
+    175,
+    176,
+    177,
+    178,
+    179
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "61",
+   "text": "\"Word has it …\"",
+   "cells": [
+    180,
+    181,
+    182,
+    183,
+    184
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "63",
+   "text": "Prepare to shoot like Cupid?",
+   "cells": [
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "66",
+   "text": "Division of an epic poem",
+   "cells": [
+    195,
+    196,
+    197,
+    198,
+    199
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "67",
+   "text": "One side of many a sports bet",
+   "cells": [
+    201,
+    202,
+    203,
+    204
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "68",
+   "text": "Handy promotional gift",
+   "cells": [
+    206,
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "69",
+   "text": "Like some movies borrowed from the library",
+   "cells": [
+    210,
+    211,
+    212,
+    213,
+    214
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "70",
+   "text": "Close",
+   "cells": [
+    216,
+    217,
+    218,
+    219
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "71",
+   "text": "Crosses (out)",
+   "cells": [
+    222,
+    223,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Fantastic Himalayan sight",
+   "cells": [
+    0,
+    15,
+    30,
+    45
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Correct",
+   "cells": [
+    1,
+    16,
+    31,
+    46,
+    61
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Thelonious Monk's instrument",
+   "cells": [
+    2,
+    17,
+    32,
+    47,
+    62
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "\"Keep it down!\"",
+   "cells": [
+    5,
+    20,
+    35
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Tester of water temperature, maybe",
+   "cells": [
+    6,
+    21,
+    36
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Luxury watch brand",
+   "cells": [
+    7,
+    22,
+    37,
+    52,
+    67
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "___ four (\"The Great British Baking Show\" creation)",
+   "cells": [
+    8,
+    23,
+    38,
+    53,
+    68
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Band at a quinceañera, perhaps",
+   "cells": [
+    10,
+    25,
+    40,
+    55,
+    70,
+    85,
+    100,
+    115
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "First mother",
+   "cells": [
+    11,
+    26,
+    41
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Exuberant cry at a craps table",
+   "cells": [
+    12,
+    27,
+    42,
+    57,
+    72,
+    87,
+    102,
+    117,
+    132
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Early wheels",
+   "cells": [
+    13,
+    28,
+    43,
+    58,
+    73
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Be in the driver's seat",
+   "cells": [
+    14,
+    29,
+    44,
+    59,
+    74
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "14",
+   "text": "Ventures",
+   "cells": [
+    18,
+    33,
+    48,
+    63,
+    78
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "Informal get-together",
+   "cells": [
+    34,
+    49,
+    64,
+    79
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "\"Today\" rival, in brief",
+   "cells": [
+    54,
+    69,
+    84
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Animated figure",
+   "cells": [
+    65,
+    80,
+    95,
+    110
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "___ Hufflepuff (co-founder of Hogwarts)",
+   "cells": [
+    66,
+    81,
+    96,
+    111,
+    126
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "Color akin to turquoise",
+   "cells": [
+    71,
+    86,
+    101,
+    116
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "30",
+   "text": "Appropriate",
+   "cells": [
+    90,
+    105,
+    120
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "31",
+   "text": "Bert and Ernie or Chip ‘n Dale",
+   "cells": [
+    91,
+    106,
+    121
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "Having no clue what to do",
+   "cells": [
+    92,
+    107,
+    122,
+    137,
+    152,
+    167,
+    182,
+    197,
+    212
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "34",
+   "text": "\"Get what I'm sayin'?\"",
+   "cells": [
+    97,
+    112,
+    127
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "35",
+   "text": "Finger workout that may involve pedals",
+   "cells": [
+    98,
+    113,
+    128,
+    143,
+    158
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "37",
+   "text": "Target of a web entrapment",
+   "cells": [
+    103,
+    118,
+    133
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "38",
+   "text": "Word repeated to a captain",
+   "cells": [
+    104,
+    119,
+    134
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "40",
+   "text": "\"Train tracks\" or \"dimes,\" in poker slang",
+   "cells": [
+    108,
+    123,
+    138,
+    153
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "41",
+   "text": "Team competition held every March",
+   "cells": [
+    109,
+    124,
+    139,
+    154,
+    169,
+    184,
+    199,
+    214
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "42",
+   "text": "Actress Kate of \"Fantastic Four\"",
+   "cells": [
+    114,
+    129,
+    144,
+    159
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "47",
+   "text": "Text that might generate an \"np\" reply",
+   "cells": [
+    140,
+    155,
+    170
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "49",
+   "text": "Puts on",
+   "cells": [
+    145,
+    160,
+    175,
+    190
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "50",
+   "text": "Heckle, as an umpire",
+   "cells": [
+    146,
+    161,
+    176,
+    191,
+    206
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "51",
+   "text": "Progressive rival",
+   "cells": [
+    150,
+    165,
+    180,
+    195,
+    210
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "52",
+   "text": "Movie director Coen",
+   "cells": [
+    151,
+    166,
+    181,
+    196,
+    211
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "53",
+   "text": "Pop star John",
+   "cells": [
+    156,
+    171,
+    186,
+    201,
+    216
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "54",
+   "text": "Vamoose",
+   "cells": [
+    157,
+    172,
+    187,
+    202,
+    217
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "55",
+   "text": "Open, as a gift",
+   "cells": [
+    162,
+    177,
+    192,
+    207,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "56",
+   "text": "Govt.-backed security",
+   "cells": [
+    163,
+    178,
+    193,
+    208,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "60",
+   "text": "Some flock members",
+   "cells": [
+    179,
+    194,
+    209,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "62",
+   "text": "Off-road ride, for short",
+   "cells": [
+    183,
+    198,
+    213
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "64",
+   "text": "Mauna ___",
+   "cells": [
+    188,
+    203,
+    218
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "65",
+   "text": "\"To ___ is human, but it feels divine\" (line attributed to Mae West)",
+   "cells": [
+    189,
+    204,
+    219
+   ]
+  }
+ ]
+}

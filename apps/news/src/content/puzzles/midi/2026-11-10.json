@@ -1,0 +1,426 @@
+{
+ "title": "Triple Dog Dare",
+ "editor": "Ian Livengood",
+ "publicationDate": "2026-11-10",
+ "constructors": [
+  "Paolo Pasco"
+ ],
+ "width": 9,
+ "height": 9,
+ "cells": [
+  null,
+  "A",
+  "A",
+  "A",
+  null,
+  "C",
+  "C",
+  "C",
+  null,
+  "T",
+  "I",
+  "K",
+  "I",
+  null,
+  "R",
+  "O",
+  "O",
+  "M",
+  "I",
+  "M",
+  "I",
+  "N",
+  null,
+  "A",
+  "R",
+  "L",
+  "O",
+  "R",
+  "A",
+  "T",
+  "T",
+  "I",
+  "N",
+  "G",
+  "O",
+  "N",
+  "E",
+  "T",
+  "A",
+  null,
+  "A",
+  "K",
+  "I",
+  "N",
+  null,
+  null,
+  null,
+  null,
+  "T",
+  "M",
+  "I",
+  null,
+  null,
+  null,
+  null,
+  "C",
+  "E",
+  "R",
+  "B",
+  "E",
+  "R",
+  "U",
+  "S",
+  null,
+  "P",
+  "R",
+  "E",
+  "S",
+  "S",
+  "U",
+  "R",
+  "E",
+  null,
+  "A",
+  "R",
+  "E",
+  null,
+  "T",
+  "E",
+  "N",
+  "T"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Roadside service org.",
+   "cells": [
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "4",
+   "text": "300, in Roman numerals",
+   "cells": [
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "With 8-Across, Polynesian-themed attraction at Disneyland",
+   "cells": [
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "See 7-Across",
+   "cells": [
+    14,
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "\"Sign me up!\"",
+   "cells": [
+    18,
+    19,
+    20,
+    21
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Folk singer Guthrie",
+   "cells": [
+    23,
+    24,
+    25,
+    26
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Betraying to the feds, maybe",
+   "cells": [
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "\"when are u getting here?\"",
+   "cells": [
+    36,
+    37,
+    38
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Similar (to)",
+   "cells": [
+    40,
+    41,
+    42,
+    43
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "\"I did NOT need to hear all that!\"",
+   "cells": [
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Mythological dog with three heads ... like the figures in this puzzle?",
+   "cells": [
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Feeling that might cause an athlete to choke",
+   "cells": [
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "\"I Played 'The Boys ___ Back in Town' on a Bar Jukebox Until I Got Kicked Out\" (VICE article)",
+   "cells": [
+    73,
+    74,
+    75
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Circus enclosure",
+   "cells": [
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Put in the crosshairs",
+   "cells": [
+    1,
+    10,
+    19,
+    28,
+    37
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Dog breed from Japan",
+   "cells": [
+    2,
+    11,
+    20,
+    29,
+    38
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "\"Say it ___ so!\"",
+   "cells": [
+    3,
+    12,
+    21,
+    30
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Most grouchy",
+   "cells": [
+    5,
+    14,
+    23,
+    32,
+    41,
+    50,
+    59,
+    68,
+    77
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Dog breed from Wales",
+   "cells": [
+    6,
+    15,
+    24,
+    33,
+    42
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "This: :",
+   "cells": [
+    7,
+    16,
+    25,
+    34,
+    43
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "A unicycle has one",
+   "cells": [
+    9,
+    18,
+    27,
+    36
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Day before Tue.",
+   "cells": [
+    17,
+    26,
+    35
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Poetic feet with the pattern \"duh-DUH\"",
+   "cells": [
+    31,
+    40,
+    49,
+    58,
+    67
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "16",
+   "text": "Birch or beech",
+   "cells": [
+    48,
+    57,
+    66,
+    75
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Many an I.R.S. employee",
+   "cells": [
+    55,
+    64,
+    73
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "\"To ___ is human ...\"",
+   "cells": [
+    56,
+    65,
+    74
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "Regret",
+   "cells": [
+    60,
+    69,
+    78
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "20",
+   "text": "\"Ode on a Grecian ___\" (Keats poem)",
+   "cells": [
+    61,
+    70,
+    79
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "Complete collection",
+   "cells": [
+    62,
+    71,
+    80
+   ]
+  }
+ ]
+}
