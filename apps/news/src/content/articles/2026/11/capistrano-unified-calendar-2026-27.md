@@ -53,7 +53,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [long-beach-unified-calendar-2026-27, clovis-unified-calendar-2026-27, lausd-calendar-2026-27-winter-break-spring-break]
+related: [long-beach-unified-calendar-2026-27, garden-grove-unified-calendar-2026-27, lausd-calendar-2026-27-winter-break-spring-break]
 assets:
   overlay: true
   kicker: "Capistrano Unified · 2026-27"
