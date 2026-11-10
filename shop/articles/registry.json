@@ -3692,5 +3692,247 @@
   "enabled": false,
   "price_checked": "2026-11-10",
   "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "stocking-stuffers-for-planner-lovers",
+  "id": 105,
+  "title": "Stocking Stuffers for Planner Lovers: 9 Gifts, 3 Priced Stockings",
+  "type": "gift",
+  "primary_query": "stocking stuffers for planner lovers",
+  "cluster": "stocking-stuffers-planner",
+  "products": [
+   69,
+   71,
+   265,
+   267,
+   657,
+   1187,
+   1195,
+   1402,
+   1671
+  ],
+  "h2": [
+   "How these nine small gifts were picked",
+   "Three stockings, priced as sets",
+   "Under ten dollars: tape, stickers and a pen set",
+   "Ten to thirteen dollars: pens, tabs and bigger sticker packs",
+   "What should go next to the stocking?",
+   "Can I check stock before Black Friday?"
+  ],
+  "related": [
+   "christmas-gifts-for-planner-lovers",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/38806098/pexels-photo-38806098.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-11T07:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-bullet-journal-with-thick-paper",
+  "id": 106,
+  "title": "Best Bullet Journal With Thick Paper: 160 GSM vs 120 GSM",
+  "type": "best",
+  "primary_query": "best bullet journal with thick paper",
+  "cluster": "thick-paper-dotted",
+  "products": [
+   149,
+   214,
+   250,
+   252,
+   1194,
+   1238
+  ],
+  "h2": [
+   "What counts as thick here, and how these six were chosen",
+   "Sheets per book: what thicker paper trades away",
+   "Price per 100 pages for each paper weight",
+   "What each listing says the paper handles",
+   "Widest tool list on 160 gsm: VIVID SCRIBBLES A5",
+   "Only listing that names watercolor: Moonlit Balcony A5",
+   "Fountain pens and markers on 160 gsm: SeQeS A5",
+   "Fountain-pen claim at 120 gsm: HUSTLE Co. A5",
+   "Two notebooks at 120 gsm: AHGXG A5 2 Pack",
+   "Large page at 120 gsm: AHGXG B5",
+   "Is 120 gsm thick enough for a bullet journal?"
+  ],
+  "related": [
+   "journaling-for-beginners",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/2228564/pexels-photo-2228564.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-23T15:15:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "best-pocket-notebooks",
+  "id": 107,
+  "title": "Best Pocket Notebooks: 10 Compared by Size, Paper and Page Cost",
+  "type": "best",
+  "primary_query": "best pocket notebooks",
+  "cluster": "pocket-notebooks",
+  "products": [
+   828,
+   829,
+   831,
+   832,
+   836,
+   840,
+   907,
+   909,
+   1692,
+   1697
+  ],
+  "h2": [
+   "Why \"A6\" is not enough to pick a pocket notebook",
+   "Thin and paper-covered: the two Field Notes packs",
+   "A hardcover that fits a pocket: ZZTX, 192 pages",
+   "Three hardcovers sized 3.7 x 5.7 inches",
+   "Most pages in one book: 366 lined pages in 3.7 x 6.8 inches",
+   "Two packs at exactly 3.5 x 5.5 inches",
+   "For bulk: ZCZN, 60 notebooks of 60 pages",
+   "Does 3.5 x 5.5 inches fit your pocket?",
+   "Printables and reading to carry with a pocket notebook"
+  ],
+  "related": [
+   "types-of-journals",
+   "planner-accessories-guide"
+  ],
+  "image": "https://images.pexels.com/photos/4992651/pexels-photo-4992651.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-24T07:45:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "a5-vs-b5-journal",
+  "id": 108,
+  "title": "A5 vs B5 Journal: 5.8 x 8.3 in or 7 x 10 in, Page Area Compared",
+  "type": "versus",
+  "primary_query": "a5 vs b5 journal",
+  "cluster": "a5-vs-b5",
+  "products": [
+   44,
+   214,
+   1113
+  ],
+  "h2": [
+   "Page area: 48 square inches against 70",
+   "Dots per page: 925 against 1,617",
+   "What each page costs in A5 and in B5",
+   "What the bigger page costs you",
+   "Where A5 and B5 match",
+   "Choose A5 or B5 by how you carry it",
+   "Cut two sheets and decide"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.unsplash.com/photo-1615826932727-ed9f182ac67e?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxkb3R0ZWQlMjBqb3VybmFsJTIwb3BlbiUyMG9uJTIwZGVza3xlbnwxfDB8fHwxNzk0MzA5MzAwfDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-25T07:45:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "hardcover-vs-softcover-journal",
+  "id": 109,
+  "title": "Hardcover vs Softcover Journal: Paper, Pages and Price Per Page",
+  "type": "versus",
+  "primary_query": "hardcover vs softcover journal",
+  "cluster": "hardcover-vs-softcover-journal",
+  "products": [
+   44,
+   214,
+   252,
+   886
+  ],
+  "h2": [
+   "Paper: 160 gsm against 120 gsm",
+   "Lay flat: all four listings make the claim",
+   "Cover material and what the listings say about wear",
+   "Extras that come with each cover",
+   "B5 against A5: the size outlier is a softcover",
+   "Price per 100 numbered pages",
+   "Choose a hardcover if you want heavier paper and a set",
+   "Choose a softcover if you want the lowest cost per page",
+   "More on journal covers, paper and starting out"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.pexels.com/photos/7718812/pexels-photo-7718812.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-25T11:30:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "gel-pen-vs-fineliner-for-journaling",
+  "id": 110,
+  "title": "Gel Pen vs Fineliner for Journaling: Tip Sizes and Cost per Pen",
+  "type": "versus",
+  "primary_query": "gel pen vs fineliner for journaling",
+  "cluster": "gel-pen-vs-fineliner",
+  "products": [
+   69,
+   70,
+   71,
+   244
+  ],
+  "h2": [
+   "Tip size: one point against a range",
+   "Ink: what each side states about water and smudging",
+   "Cost per pen",
+   "Colors, grip and carry",
+   "Who each pen type suits",
+   "Choose a fineliner if you want a waterproof line in several widths",
+   "Choose a gel pen if you want a retractable pen at 0.5 mm",
+   "Pens, journals and a page to test on"
+  ],
+  "related": [
+   "types-of-journals",
+   "journaling-for-beginners"
+  ],
+  "image": "https://images.unsplash.com/photo-1510936994138-07e06c7c5add?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxnZWwlMjBwZW5zJTIwZmluZWxpbmVyJTIwam91cm5hbHxlbnwxfDB8fHwxNzk0MzA5MzQ0fDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-25T14:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
+ },
+ {
+  "slug": "smart-planner-pro-review",
+  "id": 111,
+  "title": "Smart Planner Pro Review: Score 5.0, A5 Undated, 13 Layouts",
+  "type": "review",
+  "primary_query": "smart planner pro review",
+  "cluster": "review-208",
+  "products": [
+   112,
+   208,
+   1064,
+   1252
+  ],
+  "h2": [
+   "Smart Planner Pro specs, as the listing states them",
+   "What the listing promises and what it leaves out",
+   "Is the Smart Planner Pro worth it?",
+   "Alternatives for buyers it does not suit",
+   "Printables that fill gaps in an undated planner"
+  ],
+  "related": [
+   "how-to-use-a-daily-planner",
+   "how-to-choose-a-planner"
+  ],
+  "image": "https://images.pexels.com/photos/9903574/pexels-photo-9903574.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-26T09:00:00.000000Z",
+  "enabled": false,
+  "price_checked": "2026-11-10",
+  "refresh_by": "2026-12-10"
  }
 ]
