@@ -4,6 +4,8 @@
   function run(){
     document.querySelectorAll('form[action$="/search"] input[name="q"]').forEach(function(i){ if(!i.placeholder) i.placeholder='Search planners, journals, pens…'; });
     document.querySelectorAll('footer input[type="email"]').forEach(function(i){ if(!i.placeholder) i.placeholder='Enter your email address'; });
+    var bc=document.querySelector('nav[aria-label="Breadcrumb"] ol>li:last-child');
+    if(bc && !bc.querySelector('a')) bc.setAttribute('aria-current','page');
     var a=document.getElementById('answer');
     if(a && !a.getAttribute('aria-label')){ var l=a.closest('div') && a.closest('div').querySelector('label'); a.setAttribute('aria-label', l ? l.textContent.trim() : 'Anti-spam question'); }
     var f=document.querySelector('form.fs-tag-filters');

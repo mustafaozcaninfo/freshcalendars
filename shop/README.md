@@ -85,7 +85,8 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - **Tokens:** the system sets `--fc-*` tokens (ink, text, muted, accent, link, page, surface, line, radius, shadow) on `body.cr-prism` and redefines the theme's `--cr-*` tokens from them. Change a color or radius in the tokens, not in single rules.
 - **Look:** neutral surfaces and hairlines instead of green gradients and glows; radius scale 8, 12, 16 and 20 px; one solid green primary button; quiet text links for "see all" and "View product"; Sora 600 for headings, Manrope for body.
 - **Header:** on desktop the "freshcalendars.com" link sits inside the navy bar and the nav row is sticky; on phones the announcement line is hidden.
-- **Dark mode:** the script in `design/hook-top.html` (template text `HTML_HOOK_TOP`) adds `cr-prism--dark` to `<body>` when the visitor's system is dark; section 12 of the CSS holds the dark tokens. Product photos keep a white plate. Check both modes after any color change (`colorScheme: 'dark'` in Playwright).
+- **Dark mode:** the script in `design/hook-top.html` (template text `HTML_HOOK_TOP`) adds `cr-prism--dark` to `<body>`. It follows the visitor's system setting until they press the theme button in the net bar (`.fc-theme`); the choice is kept in `localStorage` under `fc-theme` (`light` or `dark`). Section 12 of the CSS holds the dark tokens. Product photos keep a white plate. Check both modes after any color change (`colorScheme: 'dark'` in Playwright).
+- **Breadcrumb:** one line with chevron separators on desktop; on phones only the parent level, as a back link. The footer script marks the last crumb `aria-current="page"`.
 - **Files:** scripts in `design/header-scripts.html` and `design/footer-scripts.html`; customised template texts in `design/template-texts.json`.
 
 **Open admin-only items** (no API exists for these):
