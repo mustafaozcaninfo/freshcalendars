@@ -2,6 +2,12 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-11 (search desk, morning)
+
+- **First weekly fall in /news/ web impressions: watch the gate next week.** Read of Nov. 11, 09:13 UTC (windows to Nov. 8): /news/ web week Nov. 2-8 had 2,996 clicks (+2% on 2,929) but 548,464 impressions (-8% on 598,178), the first fall after three weeks of growth, as the election and Halloween pages lost their dates; image 522 clicks (-3%), 289,645 impressions (+5%). One more weekly fall in both clicks and impressions would fail the "no fall two weeks in a row" rule before the Nov. 16 phase decision. Indexing 90 of 90 sampled (gate 71 of 71, 100%), all four sitemaps 0 errors (/news/sitemap.xml 1,206 URLs, news sitemap 84), no volume signal. Discover 0 for a sixth window: the Nov. 9 check stands.
+- **Still no briefs before Nov. 22.** The candidates of this read (Native American Heritage Month theme, Canada 2027 holidays, Costco holiday hours "veterans day", Great American Christmas, Hanukkah, Halloween weekday) were retitled by the Nov. 8 headline migration; the Black Friday ad tracker has an open update item; the rest are past events, puzzle pages, running experiments or dates Google answers.
+- **Calendar site web clicks 59 to 46** (week Nov. 2-8, impressions 5,575 to 6,281); image 48 to 60 clicks, 22,811 to 42,307 impressions. "september 2027 calendar" 1,177 impressions at 9.2, 2 clicks: the title template note of Nov. 7 stands.
+
 ## 2026-11-10 (search desk, evening)
 
 - **Same windows as the morning read, nothing new to decide.** Read of Nov. 10, 17:03 UTC (windows still end Nov. 7): 90 of 90 sampled stories indexed (gate 59 of 59, 100%), all four sitemaps 0 errors (/news/sitemap.xml 1,211 URLs, news sitemap 89). No volume signal. The morning notes (shop sitemap shown as a second "/sitemap.xml", calendar site web clicks 56 to 47, /september-calendars.html title template, Discover 0) stand; no brief is possible before Nov. 22 because of the Nov. 8 headline migration.
