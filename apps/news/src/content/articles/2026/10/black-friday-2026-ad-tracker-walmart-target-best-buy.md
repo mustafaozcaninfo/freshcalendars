@@ -3,7 +3,7 @@ title: "Black Friday Ads 2026: Date Is Nov. 27, Walmart Deals Nov. 23-29"
 description: "Black Friday 2026 is Friday, Nov. 27. Ad tracker with Walmart, Target, Best Buy, JCPenney and Kohl's sale dates, Costco prices and a live countdown."
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
-updatedAt: "2026-11-10T09:32:00-05:00"
+updatedAt: "2026-11-10T21:27:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
@@ -72,6 +72,10 @@ sources:
     url: "https://www.financialcontent.com/article/bizwire-2026-10-30-now-arriving-at-the-north-kohls-november-holiday-savings-events"
     publisher: "Kohl's (via Business Wire)"
     date: "2026-10-30"
+  - title: "A Head Start on Holiday Savings: BJ's Wholesale Club Kicks Off Early Black Friday on October 23"
+    url: "https://finviz.com/news/402830/a-head-start-on-holiday-savings-bjs-wholesale-club-kicks-off-early-black-friday-on-october-23"
+    publisher: "BJ's Wholesale Club (via Business Wire)"
+    date: "2026-10-15"
   - title: "Amazon's Black Friday Week and Cyber Monday Return November 19-30 with Millions of Deals to Deliver Joy This Holiday Season"
     url: "https://press.aboutamazon.com/2026/11/amazons-black-friday-week-and-cyber-monday-return-november-19-30-with-millions-of-deals-to-deliver-joy-this-holiday-season"
     publisher: "Amazon"
@@ -230,6 +234,7 @@ Amazon's Black Friday Week and Cyber Monday events run Nov. 19 to 30, 2026, with
 | Lowe's | Announced Oct. 8: Black Friday deals from Oct. 29; 12 Days of Deals from Nov. 16; stores closed Thanksgiving Day; Doorbusters Nov. 27 ([our Lowe's guide](/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/)) | Not confirmed here |
 | Kohl's | Announced Oct. 30: Black Friday Early Access Nov. 6 to 8; Black Friday Week Nov. 22 to 28; Black Friday doorbusters online from 12:01 a.m. CT on Thanksgiving Day, Nov. 26; Black Friday Sweepstakes Nov. 27 to 30; Cyber Deals Nov. 29 to 30; stores closed Thanksgiving, reopen 5 a.m. local time Nov. 27 ([our Kohl's guide](/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/)) | Not confirmed here |
 | JCPenney | Announced Nov. 2: Biggest Sale of the Season Nov. 5 to 11; Really Big Deals Nov. 6 to 9, Nov. 13 to 15 and Dec. 11 to 13; 1000s of deals $20 or less Nov. 12 to Dec. 25; Holiday Daily Deals Nov. 16 to 19; Black Friday Deals Nov. 20 to 29 ("Black Friday prices for 10 days"); surprise giveaways in stores at 5 a.m., 9 a.m., 1 p.m. and 5 p.m. on Nov. 27; stores closed Thanksgiving Day, opening 5 a.m. local time on Black Friday | Not confirmed here |
+| BJ's Wholesale Club | Announced Oct. 15: Early Black Friday deals from Oct. 23, in clubs and online; Black Friday and Cyber Monday dates not in the release | Not confirmed here |
 | Macy's | Not yet announced | Not confirmed here |
 | Dick's Sporting Goods | Oct. 15 release: stores and distribution centers closed Thanksgiving Day, retail locations reopen Black Friday, Nov. 27; Black Friday sale dates not yet announced | Not confirmed here |
 
