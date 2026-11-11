@@ -50,7 +50,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [denver-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts, washoe-county-school-district-calendar-2026-27-breaks]
+related: [denver-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts, gilbert-public-schools-calendar-2026-27]
 assets:
   overlay: true
   kicker: "CCSD 2026-27"

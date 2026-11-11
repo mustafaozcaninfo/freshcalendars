@@ -57,7 +57,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [san-francisco-unified-calendar-2026-27, winter-break-2026-school-districts-dates, thanksgiving-break-2026-school-districts-dates]
+related: [san-francisco-unified-calendar-2026-27, winter-break-2026-school-districts-dates, san-jose-unified-calendar-2026-27]
 downloads:
   - group: "Oakland Unified School District Calendar 2026-27 printables"
     title: "Oakland Unified School District Calendar 2026-27"
