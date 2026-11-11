@@ -154,59 +154,59 @@ const jsonLd = listingGraph({
 <style>
 .hub .news-lede{max-width:80ch;margin:12px 0 20px}
 .steps{list-style:none;counter-reset:s;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:0 0 20px;padding:0}
-.steps li{counter-increment:s;display:grid;grid-template-columns:auto 1fr;gap:2px 12px;align-items:start;padding:14px;border:1px solid var(--line);border-radius:10px;background:var(--paper)}
-.steps li::before{content:counter(s);grid-row:span 2;display:grid;place-items:center;width:32px;height:32px;border-radius:50%;background:var(--surface-tint);color:var(--focus);font:700 15px Sora,sans-serif}
-.steps b{font:700 14px/1.3 Sora,sans-serif;color:var(--ink-strong)}
+.steps li{counter-increment:s;display:grid;grid-template-columns:auto 1fr;gap:2px 12px;align-items:start;padding:16px;border:1px solid var(--line-soft);border-radius:var(--r-lg);background:var(--paper)}
+.steps li::before{content:counter(s);grid-row:span 2;display:grid;place-items:center;width:32px;height:32px;border-radius:50%;background:var(--surface-soft);box-shadow:inset 0 0 0 1px var(--line);color:var(--ink-strong);font:600 14px Sora,"Sora Fallback",sans-serif}
+.steps b{font:600 15px/1.3 Sora,"Sora Fallback",sans-serif;letter-spacing:-.015em;color:var(--ink-strong)}
 .steps span{font-size:15px;line-height:1.5;color:var(--ink)}
-.tools{border:1px solid var(--line);border-radius:12px;padding:16px;background:var(--surface-soft);display:grid;gap:14px;margin:0 0 24px}
+.tools{border:1px solid var(--line-soft);border-radius:var(--r-xl);padding:16px;background:var(--surface-soft);display:grid;gap:14px;margin:0 0 24px}
 .tools-row{display:flex;flex-wrap:wrap;gap:10px;align-items:center}
 .q{flex:1 1 320px;position:relative;display:block}
 .q svg{position:absolute;left:14px;top:50%;transform:translateY(-50%);z-index:1;pointer-events:none;color:var(--muted)}
-.q input{width:100%;min-height:48px;padding:10px 14px 10px 42px;border:1px solid var(--line);font:inherit;font-size:15px;border-radius:10px;background:var(--paper);color:var(--ink-strong)}
-.q input:focus{outline:3px solid var(--focus);outline-offset:1px;border-color:var(--focus)}
-.sort{display:flex;align-items:center;gap:8px;font-size:15px;font-weight:700;color:var(--ink-strong)}
+.q input{width:100%;min-height:48px;padding:10px 14px 10px 42px;border:1px solid var(--line);font:inherit;font-size:15px;border-radius:var(--r-md);background:var(--paper);color:var(--ink-strong);box-shadow:var(--shadow-xs)}
+.q input:focus{outline:0;border-color:var(--accent);box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 16%,transparent)}
+.sort{display:flex;align-items:center;gap:8px;font-size:14px;font-weight:600;color:var(--ink-strong)}
 .sort select{min-height:48px;padding:0 12px;border:1px solid var(--line);border-radius:10px;background:var(--paper);color:var(--ink-strong);font:inherit;font-size:14px}
 .topics{display:flex;flex-wrap:wrap;gap:8px}
-.topics button{display:inline-flex;align-items:center;gap:7px;min-height:40px;padding:0 14px;font:700 13px Manrope,sans-serif;border:1px solid var(--line);border-radius:999px;background:var(--paper);color:var(--ink-strong);cursor:pointer}
-.topics button:hover{border-color:var(--focus)}
-.topics button span{display:grid;place-items:center;font-size:14px;min-width:22px;height:20px;padding:0 6px;border-radius:12px;background:var(--surface-soft);color:var(--ink)}
-.topics button[aria-pressed=true]{background:var(--focus);border-color:var(--focus);color:#fff}
-.topics button[aria-pressed=true] span{background:#fff;color:var(--focus)}
+.topics button{display:inline-flex;align-items:center;gap:7px;min-height:40px;padding:0 14px;font:600 13px Manrope,"Manrope Fallback",sans-serif;border:1px solid var(--line-soft);border-radius:999px;background:var(--paper);color:var(--ink-strong);cursor:pointer}
+.topics button:hover{border-color:var(--line);background:var(--surface-soft)}
+.topics button span{display:grid;place-items:center;font-size:12px;min-width:22px;height:20px;padding:0 6px;border-radius:12px;background:var(--surface-soft);color:var(--ink)}
+.topics button[aria-pressed=true]{background:var(--ink-strong);border-color:var(--ink-strong);color:var(--paper)}
+.topics button[aria-pressed=true] span{background:var(--paper);color:var(--ink-strong)}
 .tools-foot{display:flex;justify-content:space-between;align-items:center;gap:10px;min-height:28px}
-.count{font-size:14px;font-weight:700;margin:0;color:var(--ink-strong)}
-.reset{border:0;background:none;color:var(--focus);font-size:14px;font-weight:700;cursor:pointer;padding:8px 0;text-decoration:underline}
+.count{font-size:14px;font-weight:600;margin:0;color:var(--ink-strong)}
+.reset{border:0;background:none;color:var(--focus);font-size:14px;font-weight:600;cursor:pointer;padding:8px 0;text-decoration:underline;text-underline-offset:3px}
 .printables-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px;list-style:none;padding:0;margin:0}
-.printable-card{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:12px;background:var(--paper);min-width:0;overflow:hidden;transition:box-shadow .2s ease,border-color .2s ease}
-.printable-card:hover{border-color:var(--focus);box-shadow:var(--n-shadow-h)}
+.printable-card{display:flex;flex-direction:column;border:1px solid var(--line-soft);border-radius:var(--r-lg);background:var(--paper);min-width:0;overflow:hidden;transition:box-shadow .2s ease,border-color .2s ease,transform .2s ease}
+.printable-card:hover{border-color:var(--line);box-shadow:var(--n-shadow-h);transform:translateY(-2px)}
 .printable-card[hidden],.printables-ad[hidden]{display:none}
 .thumb{position:relative;display:block;padding:16px 16px 0;background:var(--surface-soft);border-bottom:1px solid var(--line-soft)}
-.thumb :global(img){display:block;width:100%;height:auto;aspect-ratio:17/22;object-fit:cover;object-position:top;background:#fff;border-radius:4px 4px 0 0;box-shadow:0 2px 10px rgba(16,24,40,.12)}
-.open{position:absolute;right:12px;top:12px;padding:6px 10px;border-radius:999px;background:var(--ink-strong);color:var(--paper);font-size:14px;font-weight:700;opacity:0;transition:opacity .15s ease}
+.thumb :global(img){display:block;width:100%;height:auto;aspect-ratio:17/22;object-fit:cover;object-position:top;background:#fff;border-radius:4px 4px 0 0;box-shadow:0 1px 2px rgba(13,21,18,.08),0 8px 20px -6px rgba(13,21,18,.16)}
+.open{position:absolute;right:12px;top:12px;padding:6px 10px;border-radius:999px;background:var(--ink-strong);color:var(--paper);font-size:13px;font-weight:600;opacity:0;transition:opacity .15s ease}
 .thumb:hover .open,.thumb:focus-visible .open{opacity:1}
 .body{display:flex;flex-direction:column;flex:1;padding:14px 16px 16px}
-.cat{font-size:14px;font-weight:700;color:var(--focus);text-transform:uppercase;letter-spacing:.05em;margin:0 0 6px}
-.printable-card h2{font:700 16px/1.35 Sora,sans-serif;letter-spacing:-.02em;color:var(--ink-strong);margin:0 0 8px}
+.cat{font-size:11px;font-weight:600;color:var(--muted);text-transform:uppercase;letter-spacing:.09em;margin:0 0 6px}
+.printable-card h2{font:600 16px/1.35 Sora,"Sora Fallback",sans-serif;letter-spacing:-.02em;color:var(--ink-strong);margin:0 0 8px}
 .description{font-size:14px;line-height:1.55;margin:0 0 10px;color:var(--ink);display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
 .pmeta{list-style:none;display:flex;flex-wrap:wrap;gap:6px;margin:0 0 14px;padding:0}
-.pmeta li{font-size:14px;font-weight:700;padding:3px 9px;border-radius:999px;background:var(--surface-soft);color:var(--ink)}
+.pmeta li{font-size:12px;font-weight:600;padding:3px 9px;border-radius:999px;background:var(--surface-soft);color:var(--ink)}
 .pmeta .ink{background:var(--surface-tint);color:var(--focus)}
 .btns{display:flex;gap:8px;margin-top:auto}
-.btn{font-size:14px;font-weight:700;border-radius:8px;min-height:44px;padding:0 16px;text-decoration:none!important;display:inline-flex;align-items:center;justify-content:center;cursor:pointer}
-.btn.pdf{flex:1;background:var(--focus);color:#fff!important;border:1px solid var(--focus)}
-.btn.pdf:hover,.btn.pdf:focus-visible{background:var(--ink-strong);border-color:var(--ink-strong)}
+.btn{font-size:14px;font-weight:600;border-radius:var(--r-md);min-height:44px;padding:0 16px;text-decoration:none!important;display:inline-flex;align-items:center;justify-content:center;cursor:pointer}
+.btn.pdf{flex:1;background:var(--brand);color:#fff!important;border:1px solid var(--brand);box-shadow:inset 0 1px 0 rgba(255,255,255,.14)}
+.btn.pdf:hover,.btn.pdf:focus-visible{box-shadow:var(--shadow-md)}
 .btn.png{border:1px solid var(--line);color:var(--ink-strong)!important;background:var(--paper)}
-.btn.png:hover,.btn.png:focus-visible{border-color:var(--focus);color:var(--focus)!important}
-.inklink{display:inline-flex;align-items:center;min-height:40px;font-size:15px;font-weight:700;color:var(--focus)}
-.printable-source{display:grid;gap:2px;font-size:15px;line-height:1.45;margin-top:12px;padding-top:12px;border-top:1px solid var(--line-soft);text-decoration:none;color:var(--ink-strong)!important;font-weight:700}
+.btn.png:hover,.btn.png:focus-visible{background:var(--surface-soft)}
+.inklink{display:inline-flex;align-items:center;min-height:40px;font-size:14px;font-weight:600;color:var(--focus)}
+.printable-source{display:grid;gap:2px;font-size:15px;line-height:1.45;margin-top:12px;padding-top:12px;border-top:1px solid var(--line-soft);text-decoration:none;color:var(--ink-strong)!important;font-weight:600}
 .printable-source span{font-size:14px;font-weight:400;color:var(--muted)}
-.printable-source:hover{text-decoration:underline}
+.printable-source:hover{color:var(--accent)!important}
 .printables-ad{grid-column:1/-1}.printables-ad :global(.ad-slot){margin:0}
 .more-wrap{display:flex;justify-content:center;margin:28px 0}
-.more{min-height:48px;padding:0 28px;border-radius:999px;border:1px solid var(--focus);background:var(--paper);color:var(--focus);font:700 15px Manrope,sans-serif;cursor:pointer}
-.more:hover,.more:focus-visible{background:var(--focus);color:#fff}
+.more{min-height:48px;padding:0 28px;border-radius:999px;border:1px solid var(--line);background:var(--paper);color:var(--ink-strong);font:600 15px Manrope,"Manrope Fallback",sans-serif;cursor:pointer;box-shadow:var(--shadow-xs)}
+.more:hover,.more:focus-visible{background:var(--surface-soft);border-color:color-mix(in srgb,var(--ink-strong) 24%,var(--line))}
 .more[hidden]{display:none}
 .terms{font-size:15px;color:var(--muted);margin-top:24px}
-.none{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;font-size:15px;padding:20px;border:1px dashed var(--line);border-radius:12px;color:var(--ink)}
+.none{display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:12px;font-size:15px;padding:20px;border:1px dashed var(--line);border-radius:var(--r-lg);color:var(--ink)}
 .none p{margin:0}.none b{color:var(--ink-strong)}
 .none[hidden]{display:none}
 @media(max-width:1000px){.printables-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.steps{grid-template-columns:1fr}}

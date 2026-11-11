@@ -58,14 +58,14 @@ const others = liveTopics(all).map((t) => t.topic).filter((t) => t.slug !== topi
   )}
 </ListingView>
 <style>
-  .start{display:grid;gap:.2rem;margin:0 0 1rem;padding:.85rem 1rem;border-left:4px solid var(--gold);background:#fffdf3;border-radius:0 8px 8px 0}
-  .start span{font-size:.75rem;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}
-  .start a{font-family:Sora,"Sora Fallback",sans-serif;font-weight:700;line-height:1.3;color:var(--ink-strong);text-decoration:none}
-  .start a:hover,.start a:focus-visible{text-decoration:underline}
-  .guide{margin:0 0 1.25rem;padding:1rem 1.1rem;border:1px solid var(--line);border-radius:8px}
+  .start{display:grid;gap:.2rem;margin:0 0 1rem;padding:1rem 1.1rem;border:1px solid color-mix(in srgb,var(--accent) 22%,var(--line));background:var(--surface-tint);border-radius:var(--r-lg)}
+  .start span{font-size:.72rem;font-weight:600;text-transform:uppercase;letter-spacing:.1em;color:var(--focus)}
+  .start a{font-family:Sora,"Sora Fallback",sans-serif;font-weight:600;letter-spacing:-.015em;line-height:1.3;color:var(--ink-strong);text-decoration:none}
+  .start a:hover,.start a:focus-visible{color:var(--accent)}
+  .guide{margin:0 0 1.25rem;padding:1.1rem 1.2rem;border:1px solid var(--line-soft);border-radius:var(--r-lg)}
   .guide h2{margin:0 0 .5rem;font-size:1.15rem}
   .guide p{margin:.5rem 0 0;line-height:1.55}
   .topics{display:flex;flex-wrap:wrap;gap:.5rem;margin:0 0 1.25rem}
-  .topics a{display:inline-flex;align-items:center;min-height:44px;padding:0 .9rem;border:1px solid var(--line);border-radius:4px;color:var(--ink-strong);text-decoration:none;font-weight:700;font-size:.9rem}
-  .topics a:hover,.topics a:focus-visible{border-color:var(--focus);color:var(--focus)}
+  .topics a{display:inline-flex;align-items:center;min-height:44px;padding:0 .9rem;border:1px solid var(--line-soft);border-radius:999px;color:var(--ink-strong);text-decoration:none;font-weight:600;font-size:.9rem}
+  .topics a:hover,.topics a:focus-visible{border-color:var(--line);background:var(--surface-soft)}
 </style>

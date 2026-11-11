@@ -16,11 +16,11 @@ const { name, role, bio, href, photo } = Astro.props;
   <p class="bio">{bio}</p>
 </aside>
 <style>
-  .author-card{border:1px solid var(--n-border);border-top:4px solid var(--gold);background:var(--n-soft);border-radius:var(--n-radius);padding:1rem 1.25rem;margin:2rem 0}
+  .author-card{border:1px solid var(--line-soft);background:var(--n-soft);border-radius:var(--n-radius);padding:1rem 1.25rem;margin:2rem 0}
   .author-card p{margin:0 0 .35rem}
   .head{display:flex;align-items:center;gap:.85rem;margin:0 0 .35rem}
   .avatar{width:72px;height:72px;border-radius:50%;flex:0 0 auto}
-  .name{font-family:Sora,"Sora Fallback",sans-serif;font-weight:700;font-size:1.05rem}
-  .role{font-size:.875rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--ink)}
+  .name{font-family:Sora,"Sora Fallback",sans-serif;font-weight:600;letter-spacing:-.015em;font-size:1.05rem}
+  .role{font-size:.72rem;font-weight:600;text-transform:uppercase;letter-spacing:.09em;color:var(--muted)}
   .bio{font-size:1.0625rem;line-height:1.6}
 </style>

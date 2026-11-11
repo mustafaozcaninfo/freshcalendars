@@ -14,11 +14,13 @@ const { items } = Astro.props;
   </section>
 )}
 <style>
-  .faq-block details{border:1px solid var(--n-border);border-radius:var(--n-radius);padding:0 1rem;margin:.55rem 0;background:#fff;transition:box-shadow .2s ease,background .2s ease}
-  .faq-block details[open]{background:var(--n-soft);box-shadow:var(--n-shadow)}
-  .faq-block summary{cursor:pointer;font-weight:700;color:var(--ink-strong);min-height:48px;display:flex;align-items:center;justify-content:space-between;gap:1rem;list-style:none}
+  .faq-block details{border:1px solid var(--n-border);border-radius:var(--n-radius);padding:0 1rem;margin:.55rem 0;background:var(--paper);transition:border-color .15s ease,background .2s ease}
+  .faq-block details:hover{border-color:var(--line)}
+  .faq-block details[open]{background:var(--n-soft)}
+  .faq-block summary{cursor:pointer;font-weight:600;color:var(--ink-strong);min-height:48px;display:flex;align-items:center;justify-content:space-between;gap:1rem;list-style:none}
   .faq-block summary::-webkit-details-marker{display:none}
-  .faq-block summary::after{content:"+";flex:none;display:grid;place-items:center;width:1.6rem;height:1.6rem;border-radius:50%;background:var(--n-brand-soft);color:var(--n-brand);font-size:1.1rem;font-weight:800;transition:transform .2s ease}
-  .faq-block details[open] summary::after{content:"\2212"}
+  /* A drawn plus that loses its upright when the answer opens. */
+  .faq-block summary::after{content:"";flex:none;width:12px;height:12px;background:linear-gradient(currentColor,currentColor) center/12px 1.5px no-repeat,linear-gradient(currentColor,currentColor) center/1.5px 12px no-repeat;opacity:.6;transition:transform .25s ease}
+  .faq-block details[open] summary::after{background:linear-gradient(currentColor,currentColor) center/12px 1.5px no-repeat;transform:rotate(180deg)}
   .faq-block p{margin:0 0 .9rem}
 </style>

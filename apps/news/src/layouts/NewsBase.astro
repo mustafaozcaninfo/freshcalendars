@@ -58,11 +58,11 @@ const today = new Date();
 // News pages use two families only: Sora (headings) + Source Sans 3 (everything else,
 // DESIGN.md article type). font-display:optional means unpreloaded faces fall back on first view.
 const fontPreload = [
-  "/fonts/sora-latin-700-normal.woff2",
+  "/fonts/sora-latin-600-normal.woff2",
   "/fonts/source-sans-3-latin-400-normal.woff2",
   "/fonts/source-sans-3-latin-700-normal.woff2",
   "/fonts/manrope-latin-400-normal.woff2",
-  "/fonts/manrope-latin-700-normal.woff2",
+  "/fonts/manrope-latin-600-normal.woff2",
 ];
 ---
 <!doctype html>
@@ -113,21 +113,20 @@ const fontPreload = [
 
 <style is:global>
   /* News design tokens: soft borders, rounded cards, one shadow scale, a color per section. */
-  html.news{--n-border:var(--line);--n-soft:var(--surface-soft);--n-brand:var(--accent);--n-brand-soft:var(--surface-tint);--n-radius:10px;--n-shadow:0 1px 2px rgba(16,24,40,.03),0 4px 14px rgba(16,24,40,.04);--n-shadow-h:0 2px 4px rgba(16,24,40,.06),0 10px 24px rgba(16,24,40,.09);--cat:var(--accent)}
+  html.news{--n-border:var(--line);--n-soft:var(--surface-soft);--n-brand:var(--accent);--n-brand-soft:var(--surface-tint);--n-radius:var(--r-lg);--n-shadow:var(--shadow-xs);--n-shadow-h:var(--shadow-md);--cat:var(--accent)}
   /* Category colors (2026-11-04): fourteen hues spread round the wheel so sections tell apart at a
      glance; each passes 4.5:1 on white and on its 10% tint. Dark-theme variants are in site-chrome design.ts. */
   html.news [data-cat="holidays"]{--cat:#b42318} html.news [data-cat="uk-canada"]{--cat:#a8390b} html.news [data-cat="school-calendars"]{--cat:#92400e} html.news [data-cat="sports"]{--cat:#3f6212} html.news [data-cat="money-benefits"]{--cat:#166534} html.news [data-cat="planning"]{--cat:#0f766e} html.news [data-cat="calendar-guides"]{--cat:#0e7490} html.news [data-cat="time-change"]{--cat:#0369a1} html.news [data-cat="elections"]{--cat:#1d4ed8} html.news [data-cat="sky-events"]{--cat:#4338ca} html.news [data-cat="puzzles"]{--cat:#6d28d9} html.news [data-cat="entertainment"]{--cat:#a21caf} html.news [data-cat="retail-dates"]{--cat:#be185d} html.news [data-cat="gaming-tech"]{--cat:#475569}
-  html.news ::selection{background:#e8ddc3;color:#111}
   .news-main a{text-underline-offset:.18em;text-decoration-thickness:1px}
   .news-main a:hover{text-decoration-thickness:2px}
   @media (prefers-reduced-motion:reduce){ html.news *{transition:none!important;animation:none!important} }
-  .skip-link{position:absolute;left:-999px;top:0;z-index:100;background:#fff;color:var(--focus);padding:.75rem 1rem;font-weight:700}
+  .skip-link{position:absolute;left:-999px;top:0;z-index:100;background:var(--paper);color:var(--focus);padding:.75rem 1rem;font-weight:700}
   .skip-link:focus{left:1rem;top:1rem}
   html.news body{font-family:Manrope,"Manrope Fallback",ui-sans-serif,system-ui,sans-serif}
   .news-main{background:var(--paper);min-height:70vh;color:var(--ink)}
   .news-workspace{display:grid;grid-template-columns:205px minmax(0,1fr);gap:32px;width:min(1320px,calc(100% - 80px));margin:0 auto;align-items:start}
   .news-workspace>.listing,.news-workspace>.policy,.news-workspace>.hub{width:100%;max-width:none;margin:0;padding:25px 0 35px;min-width:0}
-  .news-main .news-workspace h1{font-size:28px;line-height:1.24;letter-spacing:-.04em;max-width:33ch}
+  .news-main .news-workspace h1{font-size:clamp(28px,2.7vw,36px);line-height:1.14;letter-spacing:-.035em;max-width:30ch}
   .news-workspace .crumbs ol{font-size:13px;margin-bottom:20px}.news-workspace .crumbs a{min-height:24px;text-decoration:none}.news-workspace .crumbs li+li::before{width:3px;height:3px;border-width:1px}
   .news-workspace .news-lede{font-size:18px;line-height:1.6;max-width:620px;font-family:Manrope,sans-serif}
   @media(max-width:1023px){.news-workspace{grid-template-columns:180px minmax(0,1fr);gap:22px;width:calc(100% - 40px)}}
@@ -136,11 +135,11 @@ const fontPreload = [
   .news-wrap{width:min(720px,calc(100% - 2rem));margin:0 auto;padding:clamp(1.75rem,4vw,2.75rem) 0}
   /* Headings: the calendar site's global h1 caps width at 14-16ch; news headlines use the column. */
   .news-main h1,.news-main h2,.news-main h3{max-width:none;text-wrap:balance}
-  .news-main h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.6rem,1.1rem + 2vw,2.2rem);line-height:1.2;letter-spacing:-.035em;margin:0 0 .75rem}
+  .news-main h1{font-family:Sora,"Sora Fallback",ui-sans-serif,system-ui,sans-serif;color:var(--ink-strong);font-size:clamp(1.6rem,1.1rem + 2vw,2.2rem);font-weight:600;line-height:1.2;letter-spacing:-.03em;margin:0 0 .75rem}
   .news-main h1.long{font-size:clamp(1.55rem,1.05rem + 2.1vw,2.3rem);line-height:1.15}
   .news-main p,.news-main li{text-wrap:pretty}
   .news-lede{font-family:"Source Sans 3","Source Sans 3 Fallback",ui-sans-serif,system-ui,sans-serif;font-size:clamp(1.06rem,1rem + .35vw,1.22rem);line-height:1.5;color:var(--ink);margin:0;max-width:68ch}
-  .news-main :focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+  .news-main :focus-visible{outline:2px solid var(--focus);outline-offset:2px}
   /* Below-the-fold chrome renders only when scrolled near (faster first paint on long stories). */
   html.news .site-footer{content-visibility:auto;contain-intrinsic-size:auto 640px}
   /* :where keeps this default at class weight, so a component that colors its own links or buttons wins. */
