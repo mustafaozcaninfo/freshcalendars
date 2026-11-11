@@ -7,7 +7,7 @@ A session that works on the shop reads this file first.
 ## Setup (once per machine)
 
 1. **API key.** Ask the owner for the FreshStore API key and save it in `.cache/shop/token` (gitignored), or export it as `FRESHSTORE_TOKEN`. **Never commit it; this repository is public.** Keys are made in the FreshStore admin (Settings > API Keys).
-2. **API reference.** Ask the owner for `api-freshstore.md` and save it as `.cache/shop/api-freshstore.md`. It lists every endpoint and field. Read the section you need before calling an endpoint.
+2. **API reference.** Start with `API.md` in this folder: our own guide to the API, arranged by job (recipes, endpoints, our guardrails, gotchas). For a detail it lacks, ask the owner for the platform's `api-freshstore.md` and save it as `.cache/shop/api-freshstore.md` (kept out of git).
 3. **Tools.** `pnpm install` once (Playwright for `ui_shot.mjs` comes with `packages/generator`). The Python tools need only Python 3.
 4. **Claude cloud sessions:**
    - Set `FRESHSTORE_TOKEN` as an environment variable in the cloud environment's settings; a cloud session cannot see a local `.cache/shop/token`.
@@ -34,7 +34,7 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - **No fake deals or urgency.** Say "below its usual price" only when the offer's `price` is lower than `price_full`.
 - **No unlicensed trademark merchandise** (for example military emblem notebooks).
 - **Never submit a form on the live site** (newsletter, contact) while testing.
-- **Commit only code, design and method files.** Never commit backups, tokens or the API reference.
+- **Commit only code, design and method files.** Never commit backups, tokens or the platform's API reference (our own `API.md` is committed).
 
 ## How the platform behaves (learned the hard way)
 
@@ -64,17 +64,18 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - Robots.txt gets the platform's own `User-agent: *` block and Sitemap line appended. Tag pages are noindex automatically.
 - Visitors outside the enabled countries (USA, CAN, GBR, DEU) may see GBP from client-side geo detection. US visitors get USD, and the CDN does not cache by country.
 
-## State on Nov. 9, 2026
+## State on Nov. 10, 2026
 
 **Catalog and content**
 
 | Item | Count |
 |---|---|
-| Live products | about 240, all with Amazon US offers |
-| Enabled categories | 30 (top level: Planners, Bullet Journals, Journaling Supplies, Calendars, Guided Journals, Patriotic and Military) |
-| Articles | 5 (`types-of-journals` and `planner-accessories-guide` are scheduled for Nov. 12 and Nov. 15) |
+| Live products | 719. 681 pages written to the `shop-product` rules on Nov. 9-10; about 35 older pages keep their AI copy (products whose only offers are eBay, Walmart, AliExpress or Etsy, and thin listings used in articles or on `/veterans-day-gifts`) |
+| Hidden products | 263: imported but not published (thin title-only listings, color or design variants, out of stock); list in `.cache/shop/import/thin-hidden.json` |
+| Categories | 52 enabled, 8 hidden until they hold 5 products (plan: `data/category-plan.json`) |
+| Articles | 10 (`types-of-journals` and `planner-accessories-guide` are scheduled for Nov. 12 and Nov. 15) |
 | Ratings live | 76 (score 4.0 or more only; see `ratings/`) |
-| Redirects | about 400 |
+| Redirects | about 420; the 2 still marked broken point to the two scheduled articles |
 
 **Pages:**
 - `/how-we-rate-products`: the public rating method
@@ -91,7 +92,9 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 2. Social profile handles (none are set).
 3. Google Search Console and Bing verification codes.
 4. Check the AI chip balance before any large import.
-5. The three eBay Auto Populators are still on and add unreviewed products every day.
+
+
+The three eBay Auto Populators (Pens, Stencils, Planners) were switched off through the API on Nov. 9, 2026, after adding 5 products (ids 186 to 190).
 
 ## Routines
 
@@ -150,6 +153,7 @@ Use the `shop-article` skill (`.claude/skills/shop-article/SKILL.md`): which que
 
 | Path | What |
 |---|---|
+| `API.md` | our guide to the FreshStore Site API: recipes, endpoints, guardrails, gotchas |
 | `tools/fs.py` | API client (`call`, `backup`, `WORK`) |
 | `tools/fetchall.py` | every enabled product with offers, categories and brand |
 | `tools/crawl.py` | full read-only site crawl |

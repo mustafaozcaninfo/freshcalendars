@@ -9,6 +9,7 @@ Read `shop/README.md` before anything else. It covers setup (the API key lives i
 
 Key points:
 
+- **API.** Before calling an endpoint, read its part of `shop/API.md` (recipes, fields, the calls we never make).
 - **Rate limit.** 60 API requests a minute, shared by every caller. Only the main session calls the API; agents research and draft into files.
 - **Back up, change, read back, then check the live page.** After any change, clear the cache and wait 2 to 4 minutes before checking.
 - **Ratings.** They carry Jessica Hartwell's name and go live only after her approval. Only scores of 4.0 or more are shown. The method is in `shop/ratings/METHODS.md`. Never raise a score by hand.
@@ -16,3 +17,4 @@ Key points:
 - **Design changes go to the repo first.** Edit `shop/design/` first, then push it to the store, then check with `shop/tools/ui_shot.mjs`.
 - **What to do next.** `shop/ROADMAP.md` gives the order of work.
 - Articles (guides, best-of lists, comparisons, gift guides) follow the `shop-article` skill and its checker.
+- Product pages (adding products without AI chips, titles, descriptions, spec tables) follow the `shop-product` skill and `shop/tools/product_check.py`.

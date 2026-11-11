@@ -1,1 +1,77 @@
-[]
+[
+ {
+  "cluster": "christmas-gifts-planner-lovers",
+  "type": "gift",
+  "primary_query": "christmas gifts for planner lovers",
+  "support_queries": [
+   "gifts for journal lovers",
+   "stationery gifts for planners",
+   "planner gift ideas"
+  ],
+  "season": "christmas-2026",
+  "products_ready": 10,
+  "status": "published",
+  "publish_after": "2026-11-16",
+  "slug": "christmas-gifts-for-planner-lovers"
+ },
+ {
+  "cluster": "wall-calendars-2027",
+  "type": "best",
+  "primary_query": "best 2027 wall calendars",
+  "support_queries": [
+   "2027 wall calendar large",
+   "2027 wall calendar with holidays",
+   "two year wall calendar 2027-2028"
+  ],
+  "season": "new-year-2027",
+  "products_ready": 7,
+  "status": "published",
+  "publish_after": "2026-11-17",
+  "slug": "best-wall-calendars"
+ },
+ {
+  "cluster": "planners-2027",
+  "type": "best",
+  "primary_query": "best 2027 planners",
+  "support_queries": [
+   "2027 weekly planner",
+   "2027 monthly planner",
+   "2027 planner a5"
+  ],
+  "season": "new-year-2027",
+  "products_ready": 9,
+  "status": "published",
+  "publish_after": "2026-11-18",
+  "slug": "best-calendar-year-planners"
+ },
+ {
+  "cluster": "planner-dates-2027",
+  "type": "dates",
+  "primary_query": "2027 planner dates",
+  "support_queries": [
+   "2027 calendar with holidays",
+   "how many weeks in 2027",
+   "what day is january 1 2027"
+  ],
+  "season": "new-year-2027",
+  "products_ready": 6,
+  "status": "published",
+  "publish_after": "2026-11-19",
+  "slug": "planner-dates-and-holidays"
+ },
+ {
+  "cluster": "gratitude-journals",
+  "type": "best",
+  "primary_query": "best gratitude journals",
+  "support_queries": [
+   "gratitude journal for men",
+   "gratitude journal for kids",
+   "five minute journal"
+  ],
+  "season": "new-year-2027",
+  "products_ready": 7,
+  "status": "published",
+  "publish_after": "2026-11-20",
+  "slug": "best-gratitude-journals"
+ }
+]
