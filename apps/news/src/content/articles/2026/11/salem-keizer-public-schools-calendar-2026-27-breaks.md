@@ -48,7 +48,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [seattle-public-schools-calendar-2026-27-breaks, washoe-county-school-district-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
+related: [seattle-public-schools-calendar-2026-27-breaks, beaverton-school-district-calendar-2026-27, spring-break-2027-dates-school-districts]
 downloads:
   - group: "Salem-Keizer Public Schools Calendar 2026-27 printables"
     title: "Salem-Keizer Public Schools Calendar 2026-27"
