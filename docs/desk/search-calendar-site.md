@@ -2,6 +2,10 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-11 (search desk, evening)
+
+- **Same windows as the morning read, nothing new to decide.** Read of Nov. 11, 17:07 UTC (windows still end Nov. 8): 90 of 90 sampled stories indexed (gate 72 of 72, 100%), all four sitemaps 0 errors (/news/sitemap.xml 1,206 URLs, news sitemap 84). No volume signal. The morning notes stand: /news/ web impressions -8% week on week (watch the gate before Nov. 16), calendar site web clicks 59 to 46, /september-calendars.html title template, Discover 0. No brief is possible before Nov. 22 because of the Nov. 8 headline migration; no experiment has an after window yet.
+
 ## 2026-11-11 (search desk, morning)
 
 - **First weekly fall in /news/ web impressions: watch the gate next week.** Read of Nov. 11, 09:13 UTC (windows to Nov. 8): /news/ web week Nov. 2-8 had 2,996 clicks (+2% on 2,929) but 548,464 impressions (-8% on 598,178), the first fall after three weeks of growth, as the election and Halloween pages lost their dates; image 522 clicks (-3%), 289,645 impressions (+5%). One more weekly fall in both clicks and impressions would fail the "no fall two weeks in a row" rule before the Nov. 16 phase decision. Indexing 90 of 90 sampled (gate 71 of 71, 100%), all four sitemaps 0 errors (/news/sitemap.xml 1,206 URLs, news sitemap 84), no volume signal. Discover 0 for a sixth window: the Nov. 9 check stands.
