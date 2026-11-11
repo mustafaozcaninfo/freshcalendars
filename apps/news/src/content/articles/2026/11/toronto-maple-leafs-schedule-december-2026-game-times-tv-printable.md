@@ -92,7 +92,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/when-is/ca-boxing-day/"
     label: "When is Boxing Day in Canada?"
-related: [toronto-maple-leafs-schedule-november-2026-game-times-tv-printable, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, montreal-canadiens-schedule-november-2026-game-times-tv-printable]
+related: [toronto-maple-leafs-schedule-november-2026-game-times-tv-printable, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, washington-capitals-schedule-december-2026-game-times-tv-printable]
 draft: false
 ---
 
