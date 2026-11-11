@@ -77,7 +77,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [uk-budget-2026-date-wednesday-28-october-what-time, canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change, rrsp-deadline-2027-march-1-canada-tax-season-dates]
+related: [uk-budget-2026-date-wednesday-28-october-what-time, canada-house-of-commons-sitting-calendar-2027-returns-january-25, rrsp-deadline-2027-march-1-canada-tax-season-dates]
 draft: false
 assets:
   scene: calendar

@@ -59,7 +59,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [texas-legislative-session-2027-january-12-bill-filing-deadlines, virginia-general-assembly-2027-session-january-13-prefiling-deadlines, maryland-general-assembly-2027-session-january-13-april-12]
+related: [montana-legislature-2027-session-january-4-bill-request-deadlines, virginia-general-assembly-2027-session-january-13-prefiling-deadlines, maryland-general-assembly-2027-session-january-13-april-12]
 assets:
   overlay: true
   kicker: "Colorado General Assembly · 2027 session"
