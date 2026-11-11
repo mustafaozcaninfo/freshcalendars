@@ -49,7 +49,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [capistrano-unified-calendar-2026-27, santa-ana-unified-calendar-2026-27, lausd-calendar-2026-27-winter-break-spring-break]
+related: [capistrano-unified-calendar-2026-27, santa-ana-unified-calendar-2026-27, irvine-unified-calendar-2026-27]
 assets:
   overlay: true
   kicker: "GGUSD · 2026-27"

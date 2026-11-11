@@ -52,7 +52,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [garden-grove-unified-calendar-2026-27, capistrano-unified-calendar-2026-27, lausd-calendar-2026-27-winter-break-spring-break]
+related: [garden-grove-unified-calendar-2026-27, capistrano-unified-calendar-2026-27, irvine-unified-calendar-2026-27]
 assets:
   overlay: true
   kicker: "SAUSD · 2026-27"
