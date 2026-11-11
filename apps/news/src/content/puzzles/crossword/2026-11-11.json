@@ -1,0 +1,1162 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-11",
+ "constructors": [
+  "Damon Gulczynski"
+ ],
+ "width": 15,
+ "height": 15,
+ "cells": [
+  "G",
+  "I",
+  "M",
+  "M",
+  "E",
+  null,
+  "L",
+  "A",
+  "C",
+  "E",
+  null,
+  null,
+  "G",
+  "D",
+  "P",
+  "A",
+  "L",
+  "T",
+  "A",
+  "R",
+  null,
+  "E",
+  "A",
+  "R",
+  "L",
+  "S",
+  null,
+  "O",
+  "R",
+  "A",
+  "P",
+  "L",
+  "A",
+  "Y",
+  "I",
+  "N",
+  "G",
+  "H",
+  "O",
+  "S",
+  "T",
+  null,
+  "O",
+  "A",
+  "R",
+  null,
+  null,
+  null,
+  "I",
+  "K",
+  "E",
+  "A",
+  null,
+  "M",
+  "A",
+  "A",
+  "N",
+  "D",
+  "P",
+  "A",
+  "B",
+  "E",
+  "T",
+  "S",
+  null,
+  "E",
+  "L",
+  "L",
+  "A",
+  null,
+  "R",
+  "O",
+  "B",
+  "E",
+  "D",
+  "A",
+  "G",
+  "R",
+  "E",
+  "E",
+  "D",
+  null,
+  "E",
+  "G",
+  "G",
+  null,
+  "E",
+  "Y",
+  "R",
+  "E",
+  "B",
+  "A",
+  "A",
+  "E",
+  "D",
+  null,
+  "J",
+  "A",
+  "N",
+  "E",
+  "L",
+  "L",
+  "E",
+  null,
+  null,
+  "A",
+  "D",
+  "V",
+  null,
+  "Y",
+  "O",
+  "U",
+  "F",
+  "O",
+  "O",
+  "L",
+  null,
+  "T",
+  "A",
+  "R",
+  null,
+  null,
+  "E",
+  "A",
+  "S",
+  "E",
+  "D",
+  "I",
+  "N",
+  null,
+  "D",
+  "R",
+  "I",
+  "V",
+  "E",
+  "S",
+  "A",
+  "L",
+  "T",
+  null,
+  "D",
+  "Y",
+  "E",
+  null,
+  "A",
+  "S",
+  "I",
+  "M",
+  "O",
+  "V",
+  "L",
+  "E",
+  "V",
+  "I",
+  "S",
+  null,
+  "B",
+  "R",
+  "A",
+  "T",
+  null,
+  "M",
+  "E",
+  "W",
+  "S",
+  "I",
+  "N",
+  "I",
+  "T",
+  "I",
+  "A",
+  "L",
+  null,
+  "U",
+  "T",
+  "E",
+  "S",
+  null,
+  null,
+  null,
+  "N",
+  "E",
+  "S",
+  null,
+  "B",
+  "L",
+  "U",
+  "R",
+  "R",
+  "Y",
+  "P",
+  "H",
+  "O",
+  "T",
+  "O",
+  "K",
+  "I",
+  "A",
+  null,
+  "S",
+  "A",
+  "M",
+  "B",
+  "A",
+  null,
+  "P",
+  "O",
+  "L",
+  "A",
+  "R",
+  "Y",
+  "D",
+  "S",
+  null,
+  null,
+  "N",
+  "E",
+  "I",
+  "L",
+  null,
+  "S",
+  "T",
+  "E",
+  "P",
+  "S"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "\"Mine!\"",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Shoestring",
+   "cells": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "It's over $30 trillion for the U.S., in brief",
+   "cells": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "13",
+   "text": "Place to end an engagement without breaking up",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Some noblemen",
+   "cells": [
+    21,
+    22,
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Singer Rita whose last name is an anagram of 19-Across",
+   "cells": [
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Welcoming people to a party, say",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Sporting blade that's an anagram of 16-Across",
+   "cells": [
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Retailer whose outdoor furniture items are named after Scandinavian islands",
+   "cells": [
+    48,
+    49,
+    50,
+    51
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "The folks, folksily",
+   "cells": [
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "\"All ___ are off!\"",
+   "cells": [
+    60,
+    61,
+    62,
+    63
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "First name of the \"First Lady of Song\"",
+   "cells": [
+    65,
+    66,
+    67,
+    68
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "Like a boxer before a fight, typically",
+   "cells": [
+    70,
+    71,
+    72,
+    73,
+    74
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Consented",
+   "cells": [
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "31",
+   "text": "Common ramen add-in",
+   "cells": [
+    82,
+    83,
+    84
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "Jane of literature",
+   "cells": [
+    86,
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Cried sheepishly?",
+   "cells": [
+    90,
+    91,
+    92,
+    93,
+    94
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "35",
+   "text": "Actress/singer Monáe",
+   "cells": [
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "37",
+   "text": "Shortly, e.g., for short",
+   "cells": [
+    105,
+    106,
+    107
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "38",
+   "text": "\"That was a boneheaded thing to do!\"",
+   "cells": [
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "40",
+   "text": "Paving gunk",
+   "cells": [
+    117,
+    118,
+    119
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "43",
+   "text": "Entered without making a fuss",
+   "cells": [
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "45",
+   "text": "D, on an automatic gearshift",
+   "cells": [
+    130,
+    131,
+    132,
+    133,
+    134
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "47",
+   "text": "Margarita garnish",
+   "cells": [
+    135,
+    136,
+    137,
+    138
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "49",
+   "text": "Henna, for one",
+   "cells": [
+    140,
+    141,
+    142
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "50",
+   "text": "\"I, Robot\" author",
+   "cells": [
+    144,
+    145,
+    146,
+    147,
+    148,
+    149
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "51",
+   "text": "___ Stadium, 49ers' home",
+   "cells": [
+    150,
+    151,
+    152,
+    153,
+    154
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "53",
+   "text": "Spoiled kid",
+   "cells": [
+    156,
+    157,
+    158,
+    159
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "55",
+   "text": "Cries cattily?",
+   "cells": [
+    161,
+    162,
+    163,
+    164
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "56",
+   "text": "Quickly indicate one's approval, say",
+   "cells": [
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "58",
+   "text": "Some Four Corners natives",
+   "cells": [
+    173,
+    174,
+    175,
+    176
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "60",
+   "text": "Super Mario Bros. 2 console",
+   "cells": [
+    180,
+    181,
+    182
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "61",
+   "text": "Image that's difficult to make out ... as suggested four times in this puzzle?",
+   "cells": [
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "66",
+   "text": "Seltos or Sedona",
+   "cells": [
+    195,
+    196,
+    197
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "67",
+   "text": "Dance referenced in \"The Girl From Ipanema\"",
+   "cells": [
+    199,
+    200,
+    201,
+    202,
+    203
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "68",
+   "text": "From the Arctic",
+   "cells": [
+    205,
+    206,
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "69",
+   "text": "Football units: Abbr.",
+   "cells": [
+    210,
+    211,
+    212
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "70",
+   "text": "Astrophysicist ___ deGrasse Tyson",
+   "cells": [
+    215,
+    216,
+    217,
+    218
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "71",
+   "text": "Fitbit units",
+   "cells": [
+    220,
+    221,
+    222,
+    223,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Age difference, e.g.",
+   "cells": [
+    0,
+    15,
+    30
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Not well",
+   "cells": [
+    1,
+    16,
+    31
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "N.Y.C. subway letters",
+   "cells": [
+    2,
+    17,
+    32
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "\"How about a quick peek?\"",
+   "cells": [
+    3,
+    18,
+    33,
+    48,
+    63,
+    78,
+    93
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "N.B.A. coach Spoelstra",
+   "cells": [
+    4,
+    19,
+    34,
+    49
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "One corporate department",
+   "cells": [
+    6,
+    21,
+    36,
+    51,
+    66
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "\"That feels s-o-o-o good\"",
+   "cells": [
+    7,
+    22,
+    37
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Early human",
+   "cells": [
+    8,
+    23,
+    38,
+    53,
+    68,
+    83,
+    98,
+    113,
+    128
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Disney ice queen",
+   "cells": [
+    9,
+    24,
+    39,
+    54
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "1988 Conway Twitty country hit with the lyric \"And if it's too late for love to change your mind …\"",
+   "cells": [
+    12,
+    27,
+    42,
+    57,
+    72,
+    87,
+    102,
+    117,
+    132,
+    147,
+    162
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Colleague of Sterling, Cooper and Pryce, on \"Mad Men\"",
+   "cells": [
+    13,
+    28,
+    43,
+    58,
+    73,
+    88
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Event with floats",
+   "cells": [
+    14,
+    29,
+    44,
+    59,
+    74,
+    89
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "*",
+   "cells": [
+    25,
+    40,
+    55,
+    70
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "Can't live without",
+   "cells": [
+    35,
+    50,
+    65,
+    80
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "Apt name for a caroler (other than Carol)",
+   "cells": [
+    56,
+    71,
+    86,
+    101
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "Rum-soaked cake",
+   "cells": [
+    60,
+    75,
+    90,
+    105
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Old-timey \"Whoa!\"",
+   "cells": [
+    61,
+    76,
+    91,
+    106
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Requirements for many vacationers abroad",
+   "cells": [
+    62,
+    77,
+    92,
+    107,
+    122,
+    137,
+    152,
+    167,
+    182,
+    197,
+    212
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "Like an oak tree vis-à-vis a fir",
+   "cells": [
+    67,
+    82,
+    97,
+    112,
+    127,
+    142,
+    157
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "30",
+   "text": "\"A Reason to Smile\" ice cream brand",
+   "cells": [
+    79,
+    94,
+    109,
+    124
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "Prefix with politics",
+   "cells": [
+    84,
+    99,
+    114
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "35",
+   "text": "Author of \"Superfudge\" and \"Double Fudge\"",
+   "cells": [
+    96,
+    111,
+    126,
+    141,
+    156,
+    171,
+    186,
+    201,
+    216
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "36",
+   "text": "Degs. for some barristers",
+   "cells": [
+    100,
+    115,
+    130,
+    145
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "39",
+   "text": "Multivolume ref. work",
+   "cells": [
+    110,
+    125,
+    140
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "41",
+   "text": "Declare boldly",
+   "cells": [
+    118,
+    133,
+    148,
+    163
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "42",
+   "text": "Races, as an engine",
+   "cells": [
+    119,
+    134,
+    149,
+    164
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "44",
+   "text": "Toiling away",
+   "cells": [
+    123,
+    138,
+    153,
+    168
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "46",
+   "text": "[Ba-dum-tss]",
+   "cells": [
+    131,
+    146,
+    161,
+    176,
+    191,
+    206,
+    221
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "47",
+   "text": "Toy that can \"walk\" down stairs",
+   "cells": [
+    135,
+    150,
+    165,
+    180,
+    195,
+    210
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "48",
+   "text": "Virgil epic",
+   "cells": [
+    136,
+    151,
+    166,
+    181,
+    196,
+    211
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "50",
+   "text": "Part of D.A.: Abbr.",
+   "cells": [
+    144,
+    159,
+    174,
+    189
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "52",
+   "text": "Bros, for example",
+   "cells": [
+    154,
+    169,
+    184,
+    199
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "54",
+   "text": "Hearing-related",
+   "cells": [
+    158,
+    173,
+    188,
+    203,
+    218
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "57",
+   "text": "Turing who proposed the Turing test",
+   "cells": [
+    170,
+    185,
+    200,
+    215
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "59",
+   "text": "Omar who co-starred in \"Higher Learning,\" 1995",
+   "cells": [
+    175,
+    190,
+    205,
+    220
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "62",
+   "text": "A solo homer is worth one",
+   "cells": [
+    187,
+    202,
+    217
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "63",
+   "text": "Fútbol cheer",
+   "cells": [
+    192,
+    207,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "64",
+   "text": "Keg opener",
+   "cells": [
+    193,
+    208,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "65",
+   "text": "Hosp. surgery sites",
+   "cells": [
+    194,
+    209,
+    224
+   ]
+  }
+ ]
+}
