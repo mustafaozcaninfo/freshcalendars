@@ -70,7 +70,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [california-legislature-2027-28-session-december-7-bill-deadlines, oklahoma-legislature-2027-session-bill-request-deadline-december-4, colorado-legislature-2027-session-january-11]
+related: [new-mexico-legislature-2027-session-january-19-prefiling-january-4, oklahoma-legislature-2027-session-bill-request-deadline-december-4, colorado-legislature-2027-session-january-11]
 assets:
   overlay: true
   kicker: "Texas Legislature · 90th session"
