@@ -124,6 +124,21 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - The model pillar page is `/articles/planner-gifts-for-moms` (Nov. 11, 2026). Inline `<svg>` in article content is kept by the platform.
 - The editor page is `/jessica-hartwell` (page id 18); About and the method page link to it.
 
+### Spec pages and deal pages (`tools/spec_pages.py`, `data/spec-pages.json`)
+- A spec page lists the products whose listings state a set of specs ("2027 Planners in A5", "Dotted Journals With 120 gsm Paper"). Definitions (the rule, the table columns, the parent categories) are in the tool; prose and page ids are in `data/spec-pages.json`. All of them are linked from `/planner-and-journal-finder` (in the footer menu).
+- Rules that keep them useful: 8 or more live, priced, in-stock products; no page that shares more than 60% of its products with a larger one; every table value read from the listing; prose written per page from the page's data file (`.cache/shop/spec/<slug>.json`), with three questions a shopper would type.
+- The two `black-friday-*-deals` pages list only offers priced 15% or more below the stored list price. Their prose uses `{count}`-style placeholders filled from the day's data.
+- **Routine (daily until Dec. 1, 2026, then weekly):** delete `.cache/shop/audit/products-*.json`, run `fetchall.py` (about 25 minutes), then `python3 shop/tools/spec_pages.py refresh`. It rebuilds every table, product block and the finder page. A line starting `STALE PROSE` means a page's product count changed since its text was written: rewrite that page's prose.
+- New page: add a definition, run `build`, write the prose into `data/spec-pages.json`, run `publish <slug>`.
+
+### Brand pages
+- A brand page is enabled when the brand has 3 or more live products and its own text. Its `content_bottom` holds a table of its products (size and paper weight from the listings).
+- Assign `brand_id` when the retailer title starts with the brand name. When a brand gains or loses products, rewrite its text so the count stays true.
+- Nov. 12, 2026: 181 products got a brand, 10 brands were added and 29 more brand pages were opened (56 enabled in all).
+
+### Long-tail article queue (`tools/longtail_queue.py`)
+- Matches the saved search suggestions (`data/google-suggest-filtered.json`) against live listings and writes `articles/longtail-queue.json`: queries of three or more words that 6 or more products answer and no article or spec page covers. Run it after `fetchall.py` and `article_check.py --sync`, and pick article topics from it.
+
 ### Ratings (Fresh Calendars Score)
 1. The method and the writing rules are in `ratings/METHODS.md`. The public version is the `/how-we-rate-products` page; keep both in step.
 2. Build the input: listing text per product from the offers' `title` and `features`.
