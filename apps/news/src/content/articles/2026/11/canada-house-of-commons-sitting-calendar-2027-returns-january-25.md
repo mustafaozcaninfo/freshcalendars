@@ -77,7 +77,7 @@ assets:
         - { cells: { month: "April", days: "1-2, 5-9, 12-16, 19-23, 26-30", count: "22", breaks: "None on weekdays" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "May", days: "10-14, 17-21, 31", count: "11", breaks: "May 3-7, 24-28" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "June", days: "1-4, 7-11, 14-18, 21-22", count: "16", breaks: "June 23-30" }, src: 1, quote: "Sitting days (128 in total)" }
-        - { cells: { month: "July and August", days: "None", count: "0", breaks: "All weekdays" }, src: 1, quote: "Sitting days (128 in total)" }
+        - { cells: { month: "July and August", days: "None", count: "0", breaks: "Summer adjournment" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "September", days: "20-24, 27-29", count: "8", breaks: "Sept. 1-17, 30" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "October", days: "4-8, 18-22, 25-29", count: "15", breaks: "Oct. 1, 11-15" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "November", days: "1-5, 15-19, 22-26, 29-30", count: "17", breaks: "Nov. 8-12" }, src: 1, quote: "Sitting days (128 in total)" }
@@ -126,6 +126,8 @@ The House of Commons calendar marks the days; the count per month is added up fr
 | **2027 total** | | **128** |
 
 April has the most sitting days, 22, because every weekday from April 5 to April 30 is a sitting day.
+
+The first sitting stretch of each month falls on Jan. 25-29, Feb. 1-5, March 8-12, April 1-2, May 10-14, June 1-4, Sept. 20-24, Oct. 4-8, Nov. 1-5 and Dec. 1-3.
 
 ## Which weeks does the House not sit in 2027?
 
