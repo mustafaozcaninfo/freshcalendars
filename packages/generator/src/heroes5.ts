@@ -452,6 +452,11 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-pips-hints-answers-november-22-2026", "pips", "#1e293b", "#c4b5fd", "Pips · Sun., Nov. 22, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-november-22-a"],
   ["nyt-spelling-bee-hints-answers-november-22-2026", "bee", "#1c1917", "#fdba74", "Spelling Bee · Sun., Nov. 22, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end.", "nyt-bee-november-22-a"],
   ["contexto-answer-hints-november-16-2026-1520", "contexto", "#0f172a", "#93c5fd", "Contexto #1520 · Mon., Nov. 16, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-16-a"],
+  ["wordle-hint-answer-today-november-23-2026-1983", "wordle", "#121213", "#c9b458", "Wordle #1983 · Mon., Nov. 23, 2026", "Wordle hints today", "Clues from gentle to strong, the answer only at the end.", "wordle-november-23-a"],
+  ["nyt-connections-hints-answers-november-23-2026-1261", "connections", "#2a1f12", "#b0c4ef", "Connections #1261 · Mon., Nov. 23, 2026", "Connections hints", "Two hints for every group first, answers only at the end.", "nyt-connections-november-23-a"],
+  ["nyt-strands-hints-answers-november-23-2026-995", "strands", "#0f2f3a", "#f9a8d4", "Strands #995 · Mon., Nov. 23, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end.", "nyt-strands-november-23-a"],
+  ["nyt-pips-hints-answers-november-23-2026", "pips", "#1e293b", "#86efac", "Pips · Mon., Nov. 23, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-november-23-a"],
+  ["contexto-answer-hints-november-17-2026-1521", "contexto", "#0f172a", "#fcd34d", "Contexto #1521 · Tue., Nov. 17, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-17-a"],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
