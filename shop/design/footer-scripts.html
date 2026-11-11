@@ -20,4 +20,21 @@
   }
   if(document.readyState==='loading') document.addEventListener('DOMContentLoaded',run); else run();
 })();
+/* Product page: the shorter of the two columns stays in view while the longer one scrolls, so no blank column. */
+(function(){
+  var g=document.querySelector('.fs-pp-stack>.fs-pp-flat'); if(!g||!window.matchMedia) return;
+  var mq=matchMedia('(min-width:1024px)');
+  function fit(){
+    var cols=[].slice.call(g.children).filter(function(c){return c.offsetHeight>0}); if(cols.length<2) return;
+    cols.forEach(function(c){c.style.position='';c.style.top='';c.style.alignSelf=''});
+    if(!mq.matches) return;
+    var a=cols[0],b=cols[1],s=a.offsetHeight<b.offsetHeight?a:b,l=s===a?b:a;
+    l.style.position='static';
+    if(l.offsetHeight-s.offsetHeight<80) return;
+    s.style.alignSelf='start'; s.style.position='sticky';
+    s.style.top=Math.min(88,window.innerHeight-s.offsetHeight-24)+'px';
+  }
+  fit(); addEventListener('resize',fit); addEventListener('load',fit);
+  if(window.ResizeObserver){var ro=new ResizeObserver(fit);[].slice.call(g.children).forEach(function(c){ro.observe(c)})}
+})();
 </script>

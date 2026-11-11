@@ -362,3 +362,17 @@ body.cr-prism--dark .fc-theme .fc-theme__moon{display:none}
   .fc-theme:hover,body.cr-prism--dark .fc-theme:hover{background:rgba(255,255,255,.14);color:#fff}
   body.cr-prism--dark .fc-theme{color:rgba(255,255,255,.86)}
 }
+
+/* 16. Shorter homepage on phones -------------------------------------------
+   The homepage is the only page with the overlay hero. Product rows show four cards
+   (the "see all" link below leads on) and the picks show the lead card plus three. */
+@media (max-width:639.98px){
+  body.cr-prism main:has(.cr-hero--overlayed) .cr-grid>:nth-child(n+5){display:none}
+  body.cr-prism main:has(.cr-hero--overlayed) .fs-sec .grid.gap-6.md\:grid-cols-2>.rounded-lg.border:nth-child(n+4){display:none}
+}
+/* Category tiles with a real photo fill the tile; product-photo fallbacks keep their padding */
+body.cr-prism section[aria-labelledby="collections-heading"] .group.relative>div:first-child img.object-cover{mix-blend-mode:normal}
+body.cr-prism section[aria-labelledby="collections-heading"] .group.relative>div:first-child{border:0}
+body.cr-prism section[aria-labelledby="collections-heading"] .group.relative>div:first-child img:not([src*="media-amazon.com"]){object-fit:cover!important;padding:0!important;mix-blend-mode:normal!important}
+/* Phones: the hero grows with its text instead of clipping it at a fixed height */
+@media (max-width:767.98px){body.cr-prism .cr-hero--overlayed{height:auto!important;min-height:320px;padding-block:1.75rem}}

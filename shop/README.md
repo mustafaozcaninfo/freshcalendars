@@ -86,6 +86,8 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - **Look:** neutral surfaces and hairlines instead of green gradients and glows; radius scale 8, 12, 16 and 20 px; one solid green primary button; quiet text links for "see all" and "View product"; Sora 600 for headings, Manrope for body.
 - **Header:** on desktop the "freshcalendars.com" link sits inside the navy bar and the nav row is sticky; on phones the announcement line is hidden.
 - **Dark mode:** the script in `design/hook-top.html` (template text `HTML_HOOK_TOP`) adds `cr-prism--dark` to `<body>`. It follows the visitor's system setting until they press the theme button in the net bar (`.fc-theme`); the choice is kept in `localStorage` under `fc-theme` (`light` or `dark`). Section 12 of the CSS holds the dark tokens. Product photos keep a white plate. Check both modes after any color change (`colorScheme: 'dark'` in Playwright).
+- **Homepage (Nov. 11, 2026):** hero photo and six category tile photos are listed in `design/images.md`. Sections in order: highlight boxes, hero (medium height), 2027 planners (8), Shop by Type, picks, gift ideas (4), price drops (4), top scores (4), shop by tag, guides (3), printable calendars box. The text block "A Printed Calendar and a Planner Work Well Together" is switched off, not deleted. On phones the CSS shows four cards per product row and the lead pick plus three.
+- **Product page columns:** the footer script makes the shorter of the two columns sticky on desktop, so neither side leaves a blank column.
 - **Breadcrumb:** one line with chevron separators on desktop; on phones only the parent level, as a back link. The footer script marks the last crumb `aria-current="page"`.
 - **Files:** scripts in `design/header-scripts.html` and `design/footer-scripts.html`; customised template texts in `design/template-texts.json`.
 
@@ -162,7 +164,7 @@ Use the `shop-article` skill (`.claude/skills/shop-article/SKILL.md`): which que
 | `tools/article_check.py`, `tools/article_publish.py` | article rule checker (also `--sync`, `--orphans`, `--live`) and publisher; see the `shop-article` skill |
 | `articles/registry.json`, `articles/queue.json` | every shop article (type, query, cluster, products, H2s) and the article queue |
 | `research/google-affiliate-2026.md` | Google's official rules for affiliate and review content, quoted with URLs (Nov. 9, 2026) |
-| `design/` | live custom CSS (fixes plus the design system), the body-top hook, header and footer scripts, customised template texts |
+| `design/` | live custom CSS (fixes plus the design system), the body-top hook, header and footer scripts, customised template texts, photo sources (`images.md`) |
 | `ratings/` | method, the list of published ratings, the approved batch |
 | `data/` | long-tail targets and filtered Google suggestions |
 | `snippets/` | embed boxes for freshcalendars.com pages |
