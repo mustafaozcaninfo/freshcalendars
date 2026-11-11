@@ -49,7 +49,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [lausd-calendar-2026-27-winter-break-spring-break, capistrano-unified-calendar-2026-27, long-beach-unified-calendar-2026-27]
+related: [lausd-calendar-2026-27-winter-break-spring-break, riverside-unified-calendar-2026-27, long-beach-unified-calendar-2026-27]
 assets:
   overlay: true
   kicker: "San Diego Unified · 2026-27"
