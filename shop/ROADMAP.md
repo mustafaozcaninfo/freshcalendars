@@ -71,7 +71,7 @@ Link each one from the matching freshcalendars.com page: `/when-is/black-friday/
 | "Under $N" | a price table with the date checked, refreshed weekly |
 | 2027 planning guides | dates computed by `packages/engine` (weekdays, holidays) and a free printable |
 
-Articles are signed "Fresh Calendars Team". Ratings are signed by Jessica Hartwell, and only after she approves them.
+Articles and ratings are signed by Jessica Hartwell (articles since Nov. 11, 2026), and only after she approves them.
 
 ### 4. Authority and links (ongoing)
 

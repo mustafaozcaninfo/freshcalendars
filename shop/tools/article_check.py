@@ -103,6 +103,8 @@ def check(path, live=False):
     typ, c, q = d['type'], d['content'], d['primary_query'].lower().strip()
     if typ not in TYPES: F(f'type must be one of {sorted(TYPES)}'); return out
     (wmin, wmax), tmin, (pmin, pmax) = TYPES[typ]
+    if d.get('pillar'):  # one flagship page per cluster: no upper word limit, up to 30 products, 4+ tables
+        wmax, pmax, tmin = 9000, 30, max(tmin, 4)
     body = text_of(c); words = len(body.split())
 
     # Title, description, slug
@@ -115,7 +117,7 @@ def check(path, live=False):
     if not 120 <= len(md) <= 155: F(f'meta_description {len(md)} chars (120-155)')
     if not re.match(r'^[a-z0-9]+(-[a-z0-9]+){1,7}$', d['slug']) or len(d['slug']) > 60: F('slug: 2-8 lowercase words, 60 chars max')
     if re.search(r'(?:^|-)20\d\d(?:-|$)', d['slug']): W('year in the slug: yearly topics keep one URL and change the year in the title')
-    if d['author'] != 'Fresh Calendars Team': F('author must be "Fresh Calendars Team" (no invented people)')
+    if d['author'] != 'Jessica Hartwell': F('author must be "Jessica Hartwell" (no invented people)')
     if d.get('published_at') and not re.match(r'^\d{4}-\d\d-\d\dT\d\d:\d\d:\d\d[-+]\d\d:\d\d$', d['published_at']): F('published_at: ISO with offset')
 
     # Structure
@@ -197,6 +199,14 @@ def check(path, live=False):
     if len(fc) < 2: F(f'{len(fc)} links to freshcalendars.com (2+: printables, dates)')
     if not shop_cat: F('link at least one shop category or brand page')
     if any(re.search(r'amazon\.|amzn\.|ebay\.', u) for u in links): F('no raw retailer links: use [product id] shortcodes')
+    if d.get('pillar'):
+        qh = [x for x in re.findall(r'<h[23]\b[^>]*>(.*?)</h[23]>', c, re.S | re.I) if text_of(x).endswith('?')]
+        if len(qh) < 3: F(f'pillar: {len(qh)} question headings (3+ that a searcher would type)')
+        if not re.search(r'<svg\b|<img\b', c, re.I): F('pillar: needs one drawing or chart of our own (inline <svg>) built from the listing data')
+        if len(re.findall(r'href="(?:https://shop\.freshcalendars\.com)?/articles/', c)) < 4: F('pillar: link 4+ related shop articles')
+        if len(set(shop_cat)) < 3: F('pillar: link 3+ shop categories')
+        if not re.search(r'left out|leave out|not included', low): F('pillar: say what was left out and why')
+        if any(r.get('pillar') and r.get('cluster') == d['cluster'] for r in load(REGISTRY, []) if r.get('slug') != d['slug']): F('this cluster already has a pillar page')
     rel = d.get('related') or []
     if len(rel) > 3: F('related: 3 or fewer')
 

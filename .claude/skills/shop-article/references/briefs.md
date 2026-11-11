@@ -51,7 +51,7 @@ and fix every FAIL. Do not call the shop API and do not publish. Reply with the 
  "type": "best", "primary_query": "best a5 dotted journal for fountain pens", "cluster": "a5-dotted-thick-paper",
  "products": [214, 252, 250, 40, 149, 44],
  "content": "<p>Fresh Calendars Shop earns a commission ...</p> ...",
- "author": "Fresh Calendars Team", "article_category": "journaling-basics-and-supplies",
+ "author": "Jessica Hartwell", "article_category": "journaling-basics-and-supplies",
  "product_category_id": 9, "related": ["dotted-journal-paper-weight"],
  "image_query": "fountain pen journal", "keywords": ["thick paper dotted journal"],
  "published_at": "2026-11-12T09:00:00-05:00", "price_checked": "2026-11-09", "refresh_by": "2026-12-09"}

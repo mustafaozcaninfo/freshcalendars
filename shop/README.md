@@ -30,7 +30,7 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
   - the review stars and review counts the platform generates
   - the empty Amazon and eBay tracking IDs (they come later)
 - **Facts only from the listing or the maker.** Never guess a size, paper weight, count or date.
-- **Never invent a person.** Product ratings carry Jessica Hartwell's name and go live only after she approves them (see Ratings). Articles use "Fresh Calendars Team".
+- **Never invent a person.** Product ratings carry Jessica Hartwell's name and go live only after she approves them (see Ratings). Articles carry her byline too (owner decision, Nov. 11, 2026); her page is `/jessica-hartwell`.
 - **No fake deals or urgency.** Say "below its usual price" only when the offer's `price` is lower than `price_full`.
 - **No unlicensed trademark merchandise** (for example military emblem notebooks).
 - **Never submit a form on the live site** (newsletter, contact) while testing.
@@ -117,6 +117,12 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
    - Fix wrong facts in the AI titles (a title change also changes the slug, and the 301 is automatic).
    - 301 any new disabled brand to `/brands`.
 6. **Brand pages:** if a product joins an enabled brand, update that brand page's product list so it stays true.
+
+### Articles
+- Rules, types and the pillar-page pattern are in the `shop-article` skill. `tools/article_check.py` enforces them and `tools/article_publish.py` publishes or updates.
+- Run `python3 shop/tools/article_check.py --sync` before a batch: it pulls every live and scheduled article into the registry, which the overlap checks need.
+- The model pillar page is `/articles/planner-gifts-for-moms` (Nov. 11, 2026). Inline `<svg>` in article content is kept by the platform.
+- The editor page is `/jessica-hartwell` (page id 18); About and the method page link to it.
 
 ### Ratings (Fresh Calendars Score)
 1. The method and the writing rules are in `ratings/METHODS.md`. The public version is the `/how-we-rate-products` page; keep both in step.
