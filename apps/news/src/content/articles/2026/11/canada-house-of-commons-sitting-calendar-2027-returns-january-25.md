@@ -49,7 +49,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [canada-statutory-holidays-2027-federal-general-holidays, canada-long-weekends-2027-by-province-vacation-planner, canada-budget-2026-date-november-5-what-to-know]
+related: [canada-statutory-holidays-2027-federal-general-holidays, canada-long-weekends-2027-by-province-vacation-planner, uk-parliament-christmas-recess-2026-december-17-return-january-5]
 assets:
   overlay: true
   kicker: "House of Commons · 2027 calendar"
