@@ -53,7 +53,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [colorado-legislature-2027-session-january-11, oklahoma-legislature-2027-session-bill-request-deadline-december-4, texas-legislative-session-2027-january-12-bill-filing-deadlines]
+related: [colorado-legislature-2027-session-january-11, oklahoma-legislature-2027-session-bill-request-deadline-december-4, utah-legislature-2027-general-session-january-19-march-5]
 assets:
   overlay: true
   kicker: "Montana Legislature · 2027 session"
