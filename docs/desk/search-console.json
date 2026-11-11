@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-11T09:13:17.733Z",
+ "generatedAt": "2026-11-11T17:07:12.242Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "100% (71 of 71 sampled)",
+   "value": "100% (72 of 72 sampled)",
    "pass": true
   },
   {
@@ -2298,9 +2298,9 @@
   ]
  },
  "indexed": {
-  "checked": 71,
+  "checked": 72,
   "sampled": 90,
-  "indexed": 71,
+  "indexed": 72,
   "notIndexed": [],
   "states": {
    "Submitted and indexed": 90
