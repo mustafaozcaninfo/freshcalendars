@@ -335,7 +335,9 @@ html[data-theme=dark] .holiday-country-tabs a[aria-current=page]{background:var(
 }
 @media(max-width:640px){
   .popular-calendars{padding:32px 0 28px}
-  .shelf-heading h2{font-size:20px}
+  /* The heading may wrap so its link stays on the same row instead of dropping below it. */
+  .shelf-heading h2{font-size:18px; flex:1 1 0; min-width:0; white-space:normal}
+  .shelf-heading>a{flex-shrink:0}
   .shelf-filters{padding:3px; border-radius:var(--r-lg)}
   .shelf-filters button{min-height:38px}
   .calendar-shelf{grid-auto-columns:calc((100% - 14px)/2); gap:14px}
