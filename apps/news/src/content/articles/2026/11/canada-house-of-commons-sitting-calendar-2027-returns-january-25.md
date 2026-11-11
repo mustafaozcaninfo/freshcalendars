@@ -71,14 +71,14 @@ assets:
         - { key: "count", label: "Count", align: "right" }
         - { key: "breaks", label: "No sittings" }
       rows:
-        - { cells: { month: "January", days: "25-29", count: "5", breaks: "Jan. 1-22" }, src: 1, quote: "Sitting days (128 in total)" }
+        - { cells: { month: "January", days: "25-29", count: "5", breaks: "Before Jan. 25" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "February", days: "1-5, 8-12, 22-26", count: "15", breaks: "Feb. 15-19" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "March", days: "8-12, 31", count: "6", breaks: "Mar. 1-5, 15-30" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "April", days: "1-2, 5-9, 12-16, 19-23, 26-30", count: "22", breaks: "None on weekdays" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "May", days: "10-14, 17-21, 31", count: "11", breaks: "May 3-7, 24-28" }, src: 1, quote: "Sitting days (128 in total)" }
-        - { cells: { month: "June", days: "1-4, 7-11, 14-18, 21-22", count: "16", breaks: "June 23-30" }, src: 1, quote: "Sitting days (128 in total)" }
+        - { cells: { month: "June", days: "1-4, 7-11, 14-18, 21-22", count: "16", breaks: "From June 23" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "July and August", days: "None", count: "0", breaks: "Summer adjournment" }, src: 1, quote: "Sitting days (128 in total)" }
-        - { cells: { month: "September", days: "20-24, 27-29", count: "8", breaks: "Sept. 1-17, 30" }, src: 1, quote: "Sitting days (128 in total)" }
+        - { cells: { month: "September", days: "20-24, 27-29", count: "8", breaks: "Before Sept. 20, and Sept. 30" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "October", days: "4-8, 18-22, 25-29", count: "15", breaks: "Oct. 1, 11-15" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "November", days: "1-5, 15-19, 22-26, 29-30", count: "17", breaks: "Nov. 8-12" }, src: 1, quote: "Sitting days (128 in total)" }
         - { cells: { month: "December", days: "1-3, 6-10, 13-17", count: "13", breaks: "From Dec. 20" }, src: 1, quote: "Sitting days (128 in total)" }
