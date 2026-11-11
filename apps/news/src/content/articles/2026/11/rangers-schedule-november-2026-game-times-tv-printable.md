@@ -94,7 +94,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [boston-bruins-schedule-november-2026-game-times-tv-printable, toronto-maple-leafs-schedule-november-2026-game-times-tv-printable, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city]
+related: [rangers-schedule-december-2026-game-times-tv-printable, toronto-maple-leafs-schedule-november-2026-game-times-tv-printable, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city]
 draft: false
 ---
 

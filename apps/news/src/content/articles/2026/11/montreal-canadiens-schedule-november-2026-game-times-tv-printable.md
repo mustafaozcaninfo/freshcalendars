@@ -95,7 +95,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [toronto-maple-leafs-schedule-november-2026-game-times-tv-printable, edmonton-oilers-schedule-november-2026-game-times-tv-printable, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city]
+related: [toronto-maple-leafs-schedule-november-2026-game-times-tv-printable, montreal-canadiens-schedule-december-2026-game-times-tv-printable, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city]
 draft: false
 ---
 
