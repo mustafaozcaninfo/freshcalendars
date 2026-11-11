@@ -1,0 +1,421 @@
+{
+ "title": "Informed Consumer",
+ "editor": "Ian Livengood",
+ "publicationDate": "2026-11-11",
+ "constructors": [
+  "Nate Cardin"
+ ],
+ "width": 9,
+ "height": 9,
+ "cells": [
+  "E",
+  "N",
+  "D",
+  "S",
+  null,
+  "T",
+  "U",
+  "T",
+  "U",
+  "M",
+  "E",
+  "R",
+  "E",
+  null,
+  "A",
+  "T",
+  "V",
+  "S",
+  "T",
+  "W",
+  "E",
+  "E",
+  null,
+  "T",
+  "I",
+  "D",
+  "E",
+  null,
+  "S",
+  "S",
+  "N",
+  null,
+  "A",
+  "L",
+  "I",
+  null,
+  "I",
+  "F",
+  "S",
+  null,
+  null,
+  null,
+  "I",
+  "N",
+  "C",
+  "S",
+  "E",
+  "E",
+  "M",
+  null,
+  "E",
+  "T",
+  "N",
+  "A",
+  "M",
+  "E",
+  "D",
+  "I",
+  "A",
+  "D",
+  "I",
+  "E",
+  "T",
+  null,
+  "D",
+  "U",
+  "S",
+  "T",
+  "I",
+  "E",
+  "R",
+  null,
+  null,
+  null,
+  "P",
+  "O",
+  "E",
+  "T",
+  "S",
+  null,
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Make ___ meet",
+   "cells": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "Ballet garment with a repetitive name",
+   "cells": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "Nothing more than",
+   "cells": [
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Off-roaders, for short",
+   "cells": [
+    14,
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Overly precious",
+   "cells": [
+    18,
+    19,
+    20,
+    21
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Ocean's ebb and flow",
+   "cells": [
+    23,
+    24,
+    25,
+    26
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "13",
+   "text": "XXX-XX-XXXX ID",
+   "cells": [
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "\"Baby Cobra\" comedian Wong",
+   "cells": [
+    32,
+    33,
+    34
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "\"No ___, ands or buts!\"",
+   "cells": [
+    36,
+    37,
+    38
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Company name abbr.",
+   "cells": [
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "Appear to be",
+   "cells": [
+    45,
+    46,
+    47,
+    48
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Sicilian volcano that anagrams to the name NATE",
+   "cells": [
+    50,
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "One's sources of information and entertainment, collectively ... or a hint to 2- and 7-Down?",
+   "cells": [
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "More in need of a wipe-down, maybe",
+   "cells": [
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Competitors in a slam",
+   "cells": [
+    74,
+    75,
+    76,
+    77,
+    78
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "CPR pro",
+   "cells": [
+    0,
+    9,
+    18
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Online stream that may be doomscrolled",
+   "cells": [
+    1,
+    10,
+    19,
+    28,
+    37,
+    46,
+    55,
+    64
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Wearing one's best outfit, perhaps",
+   "cells": [
+    2,
+    11,
+    20,
+    29,
+    38,
+    47,
+    56,
+    65,
+    74
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "\"Now I've ___ everything!\"",
+   "cells": [
+    3,
+    12,
+    21,
+    30
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "\"Toodles!\"",
+   "cells": [
+    5,
+    14,
+    23,
+    32
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Electricity, water, gas, etc.",
+   "cells": [
+    6,
+    15,
+    24,
+    33,
+    42,
+    51,
+    60,
+    69,
+    78
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Meal enjoyed in a den, say",
+   "cells": [
+    7,
+    16,
+    25,
+    34,
+    43,
+    52,
+    61,
+    70
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Take advantage of",
+   "cells": [
+    8,
+    17,
+    26
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "Suffix with Confucian",
+   "cells": [
+    36,
+    45,
+    54
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Keyboard ___ (meme-famous pet)",
+   "cells": [
+    44,
+    53,
+    62
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "Sushi bar soup",
+   "cells": [
+    48,
+    57,
+    66,
+    75
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "20",
+   "text": "Revise for publication",
+   "cells": [
+    50,
+    59,
+    68,
+    77
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "Had a snack",
+   "cells": [
+    58,
+    67,
+    76
+   ]
+  }
+ ]
+}
