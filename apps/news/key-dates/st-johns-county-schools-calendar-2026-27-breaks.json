@@ -1,6 +1,8 @@
 [
   { "date": "2026-11-23", "label": "St. Johns County schools: Thanksgiving Break starts" },
   { "date": "2026-12-21", "label": "St. Johns County schools: Winter Break starts" },
+  { "date": "2027-01-28", "label": "St. Johns County: First Coast Technical College graduation", "weight": 1 },
   { "date": "2027-03-15", "label": "St. Johns County schools: Spring Break starts" },
+  { "date": "2027-05-17", "label": "St. Johns County: first high school graduation (Pedro Menendez)", "weight": 1 },
   { "date": "2027-05-28", "label": "St. Johns County schools: last day for students" }
 ]

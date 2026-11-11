@@ -3,7 +3,7 @@ title: "St. Johns County Schools Calendar 2026-27: Last Day May 28"
 description: "St. Johns County schools calendar 2026-27: winter break starts Dec. 21, spring break March 15, last day May 28. Also lists holidays Jan. 4, Mar. 12, 26."
 type: news
 publishedAt: "2026-11-05T20:45:00-05:00"
-updatedAt: "2026-11-05T20:45:00-05:00"
+updatedAt: "2026-11-11T07:25:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["st johns county school calendar 2026-27", "st johns county winter break 2026", "st johns county spring break 2027", "sjcsd calendar 2026-27", "st johns county last day of school 2027"]
@@ -22,7 +22,7 @@ summary:
   - "The St. Johns County School District (SJCSD) 2026-2027 calendar sets Thanksgiving Break for Monday to Friday, Nov. 23-27, 2026."
   - "Winter Break runs Dec. 21, 2026, to Jan. 1, 2027. Jan. 4 is a student holiday, and classes resume Tuesday, Jan. 5."
   - "Spring Break is Monday to Friday, March 15-19, 2027, with student holidays on March 12 and March 26. Classes resume Monday, March 22."
-  - "The last day for students is Friday, May 28, 2027, with dismissal 1 hour early."
+  - "High school graduations run Monday, May 17, to Saturday, May 22, 2027, mostly at the University of North Florida (UNF). The last day for students is Friday, May 28, with dismissal 1 hour early."
 faq:
   - q: "When is St. Johns County winter break in 2026?"
     a: "The master calendar lists Winter Break from Dec. 21, 2026, to Jan. 1, 2027. Monday, Jan. 4, 2027 is a Teacher Planning Day and student holiday, and classes resume Tuesday, Jan. 5."
@@ -30,6 +30,8 @@ faq:
     a: "Monday to Friday, March 15-19, 2027. Friday, March 12 is a Teacher Planning Day and student holiday, and classes resume Monday, March 22."
   - q: "When is the last day of school in St. Johns County in 2027?"
     a: "Friday, May 28, 2027, for students, with dismissal 1 hour early. The last day for teachers is Tuesday, June 1, 2027."
+  - q: "When is graduation in St. Johns County in 2027?"
+    a: "High school ceremonies run Monday, May 17, to Saturday, May 22, 2027, and St. Johns Virtual School graduates Monday, May 24. First Coast Technical College holds ceremonies on Thursday, Jan. 28, and Thursday, June 24, 2027."
   - q: "When is the first day of school in St. Johns County in 2026?"
     a: "Monday, Aug. 10, 2026, when the calendar says students report to class. Teachers have pre-planning on Aug. 4-7."
   - q: "Does St. Johns County close schools for Veterans Day?"
@@ -39,6 +41,9 @@ faq:
   - q: "Which St. Johns County days could become hurricane make-up days?"
     a: "The calendar's key marks Labor Day (Sept. 7), Sept. 25, Oct. 12, Thanksgiving Break and Jan. 4 as hurricane make-up days."
 sources:
+  - title: "Graduation Schedule 2027"
+    url: "https://www.stjohns.k12.fl.us/news/graduation-schedule-2027/"
+    publisher: "St. Johns County School District"
   - title: "Master School Calendar"
     url: "https://www.stjohns.k12.fl.us/calendar/"
     publisher: "St. Johns County School District"
@@ -89,8 +94,7 @@ assets:
         - { from: "2027-03-26", kind: holiday, label: "Student/Teacher Holiday", src: 2, quote: "Friday | March 26, 2027 | Student/Teacher Holiday" }
         - { from: "2027-05-28", kind: last, label: "Last day for students", src: 2, quote: "Friday | May 28, 2027 | Last Day for Students*Fourth Quarter Ends" }
         - { from: "2027-05-31", kind: holiday, label: "Memorial Day", src: 2, quote: "Monday | May 31, 2027 | Memorial Day" }
-      unconfirmed:
-        - { label: "Graduation dates", why: "The calendar lists graduation only as May, with no dates yet" }
+      unconfirmed: []
       family:
         - "Report cards"
         - "Picture day"
@@ -151,7 +155,27 @@ Counting weekends, our math gives a 10-day stretch for spring: Friday, March 12 
 | May 31, 2027 | Monday | Memorial Day |
 | June 1, 2027 | Tuesday | Last day for teachers |
 
-The calendar gives no name for the March 26 holiday, so we list it as printed. The calendar lists graduation only as "May" with no dates, so graduation dates are not yet announced. Mark the first day off on the [November 2026 calendar](/november-calendars.html).
+The calendar gives no name for the March 26 holiday, so we list it as printed. Mark the first day off on the [November 2026 calendar](/november-calendars.html).
+
+## St. Johns County graduation dates for 2027
+
+The district's "Graduation Schedule 2027," posted June 19, 2026, lists ceremonies for St. Johns County high schools and First Coast Technical College (FCTC).
+
+| Date | Time | School | Venue |
+|---|---|---|---|
+| Thu., Jan. 28, 2027 | 5 p.m. | First Coast Technical College | FCTC, Bldg. C, CC! Conference Center |
+| Mon., May 17, 2027 | 6 p.m. | Pedro Menendez High School | University of North Florida (UNF) |
+| Tue., May 18, 2027 | 6 p.m. | Creekside High School | UNF |
+| Tue., May 18, 2027 | 7 p.m. | St. Augustine High School | St. Augustine Amphitheater |
+| Wed., May 19, 2027 | 6 p.m. | Allen D. Nease High School | UNF |
+| Thu., May 20, 2027 | 6 p.m. | Beachside High School | UNF |
+| Fri., May 21, 2027 | 6 p.m. | Bartram Trail High School | UNF |
+| Sat., May 22, 2027 | 9 a.m. | Tocoi Creek High School | UNF |
+| Sat., May 22, 2027 | 3 p.m. | Ponte Vedra High School | UNF |
+| Mon., May 24, 2027 | 6 p.m. | St. Johns Virtual School | FCTC, Bldg. C, CC! Conference Center |
+| Thu., June 24, 2027 | 5:30 p.m. | First Coast Technical College | FCTC, Bldg. C, CC! Conference Center |
+
+All eight high schools on the district's schools page have a ceremony, and they run May 17-22, before the last student day on Friday, May 28. Seven of the nine May ceremonies are at UNF.
 
 ## Which St. Johns County days could become hurricane make-up days?
 
