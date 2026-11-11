@@ -321,7 +321,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/when-is/easter/"
     label: "When is Easter?"
-related: [san-diego-unified-calendar-2026-27-breaks, lake-washington-school-district-calendar-2026-27, salem-keizer-public-schools-calendar-2026-27-breaks]
+related: [san-diego-unified-calendar-2026-27-breaks, lake-washington-school-district-calendar-2026-27, gilbert-public-schools-calendar-2026-27]
 assets:
   overlay: true
   kicker: "Spring break 2027"
@@ -436,6 +436,7 @@ We read each calendar on the district's own website or in its official PDF. East
 | [Clark County School District](/news/clark-county-school-district-calendar-2026-27-breaks/) (CCSD), Las Vegas | Mon., Mar. 15 to Fri., Mar. 19 | Mar. 15-19 | 5 |
 | [Dallas Independent School District](/news/dallas-isd-calendar-2026-27-holidays-breaks/) (ISD) | Mon., Mar. 15 to Fri., Mar. 19 | Mar. 15-19 | 5 |
 | [Orange County Public Schools](/news/orange-county-public-schools-calendar-2026-27-breaks-holidays/) (OCPS), Fla. | Mon., Mar. 15 to Fri., Mar. 19 | Mar. 15-19 | 5 |
+| [Gilbert Public Schools](/news/gilbert-public-schools-calendar-2026-27/) (GPS), Ariz. | Mon., Mar. 15 to Fri., Mar. 26 | Mar. 15-26 | 10 |
 | [Austin Independent School District](/news/austin-isd-calendar-2026-27-holidays-breaks/) (ISD) | Mon., Mar. 15 to Fri., Mar. 19 | Mar. 15-19 | 5 |
 | [Anchorage School District](/news/anchorage-school-district-calendar-2026-27/), Alaska | Mon., Mar. 15 to Fri., Mar. 19 | Mar. 15-19 | 5 |
 | [Arlington Independent School District](/news/arlington-isd-calendar-2026-27-breaks/), Texas | Mon., Mar. 15 to Fri., Mar. 19 | Mar. 15-19 | 5 |
