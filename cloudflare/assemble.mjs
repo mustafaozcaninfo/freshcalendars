@@ -79,6 +79,29 @@ if (relativeImages.length) {
   console.warn(`[cf] ${relativeImages.length} news page(s) still link /news/_astro/ (built without NEWS_ASSETS_PREFIX?); they work through a 301`);
 }
 
+// Fonts. Both halves of the site ask for /fonts/*.woff2, but only the calendar build copies them
+// (packages/generator/src/gen.ts), and a /news/ deploy reuses the calendar pages of the last
+// deploy. A font a page asks for and that half lacks is copied from its @fontsource package here,
+// so a new font reaches the site with whichever half is published first.
+const fontsWanted = new Set();
+for (const page of [path.join(SITE, "index.html"), path.join(NEWS, "index.html")]) {
+  for (const m of (await readFile(page, "utf8")).matchAll(/\/fonts\/([a-z0-9-]+\.woff2)/g)) fontsWanted.add(m[1]);
+}
+let fontsAdded = 0;
+for (const file of fontsWanted) {
+  const to = path.join(PUBLIC, "fonts", file);
+  if (await stat(to).catch(() => null)) continue;
+  const pkg = `@fontsource/${file.split("-latin-")[0]}`;
+  const from = [path.join(ROOT, "packages/generator/node_modules", pkg, "files", file), path.join(ROOT, "node_modules", pkg, "files", file)];
+  let src;
+  for (const p of from) if (await stat(p).catch(() => null)) { src = p; break; }
+  if (!src) throw new Error(`pages ask for /fonts/${file}, which is neither in dist/site/fonts nor in ${pkg}`);
+  await mkdir(path.dirname(to), { recursive: true });
+  await cp(src, to);
+  fontsAdded++;
+}
+if (fontsAdded) console.log(`[cf] ${fontsAdded} font file(s) added from @fontsource (missing from the calendar build)`);
+
 // Page files, see the header comment.
 const files = await walk(PUBLIC);
 for (const rel of files.filter((f) => f.endsWith(".html") && !f.endsWith("/index.html") && f !== "index.html")) {
