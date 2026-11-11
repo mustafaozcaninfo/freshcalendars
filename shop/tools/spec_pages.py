@@ -7,6 +7,7 @@ another's by more than 60%; every table value is read from the listing; prose is
   python3 shop/tools/fetchall.py                 # fresh catalog first (delete .cache/shop/audit/products-*.json)
   python3 shop/tools/spec_pages.py build         # data for every definition -> .cache/shop/spec/<slug>.json, prints counts
   python3 shop/tools/spec_pages.py publish <slug>|all   # create or update the page (needs prose in shop/data/spec-pages.json)
+  python3 shop/tools/spec_pages.py link-categories   # add the lists to the bottom text of their parent categories
   python3 shop/tools/spec_pages.py refresh       # rebuild tables and product blocks of every published page (prices, stock)
 """
 import datetime as dt, html, json, os, re, sys, time
@@ -247,9 +248,29 @@ def hub():
     reg['_hub'] = h; REG.write_text(json.dumps(reg, indent=1) + '\n'); print('hub', h['page_id'], n, 'lists')
 
 
+def link_categories():
+    """Add (or replace) a "Lists by size and paper" block at the end of each parent category's bottom text."""
+    reg = json.loads(REG.read_text()); by = {}
+    for k, r in reg.items():
+        if k == '_hub' or not r.get('page_id') or 'deals' in k: continue
+        for c in D[k][4]: by.setdefault(c, []).append(k)
+    s, r = call('GET', 'categories?per_page=100'); cats = {c['slug']: c for c in r['data']}; n = 0
+    for slug, ks in by.items():
+        c = cats.get(slug)
+        if not c: print('no category', slug); continue
+        block = ('<div class="fc-spec-links"><h2>Lists by size, paper and dates</h2><ul>' + ''.join(f'<li><a href="/{k}">{html.escape(D[k][0])}</a></li>' for k in sorted(ks))
+                 + '<li><a href="/planner-and-journal-finder">All lists in the Planner and Journal Finder</a></li></ul></div>')
+        cb = re.sub(r'\s*<div class="fc-spec-links">.*?</div>', '', c.get('content_bottom') or '', flags=re.S)
+        time.sleep(1.1); s2, r2 = call('PATCH', f"categories/{c['id']}", {'content_bottom': (cb + '\n' + block).strip()})
+        if s2 != 200: print('ERR', slug, s2, str(r2)[:200])
+        else: n += 1
+    print('categories linked', n); call('POST', 'store/clear-cache')
+
+
 if __name__ == '__main__':
     a = sys.argv[1:] or sys.exit(__doc__)
     if a[0] == 'build': build()
+    elif a[0] == 'link-categories': link_categories()
     elif a[0] in ('publish', 'refresh'):
         if a[0] == 'refresh': build()
         reg = json.loads(REG.read_text()) if REG.exists() else {}
