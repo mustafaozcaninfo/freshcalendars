@@ -1,9 +1,9 @@
 ---
 title: "Golden Globes 2027 Nominations: Dec. 7, Show on Jan. 10"
-description: "Golden Globes 2027 nominations come Monday, Dec. 7, 2026; the show airs Sunday, Jan. 10 on CBS. Oscars are March 14. A 16-event awards calendar to print."
+description: "Golden Globes 2027 nominations come Monday, Dec. 7, 2026; the show airs Sunday, Jan. 10 on CBS. Oscars are March 14. A 17-event awards calendar to print."
 type: news
 publishedAt: "2026-10-31T01:00:00-04:00"
-updatedAt: "2026-11-10T15:20:00-05:00"
+updatedAt: "2026-11-11T11:30:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["golden globes 2027 date", "oscars 2027 date", "when are the oscars 2027", "awards season 2027 calendar", "oscar nominations 2027"]
@@ -23,7 +23,7 @@ summary:
   - "The 84th Golden Globes are on Sunday, Jan. 10, 2027, on CBS and Paramount+ in the U.S. from 7:30 p.m. to 9:30 p.m. ET, with Nikki Glaser returning as host; nominations come Monday, Dec. 7, 2026, the Golden Globes say."
   - "The 99th Oscars are on Sunday, March 14, 2027, live on ABC at 7 p.m. Eastern Time (ET) / 4 p.m. Pacific Time (PT), per the Academy."
   - "Oscar nominations are announced Thursday, Jan. 21, 2027, after nominations voting from Jan. 11 to Jan. 15."
-  - "The table lists 16 awards-season events from Nov. 16, 2026, to March 14, 2027, including the Directors Guild of America (DGA) Awards on Saturday, Jan. 30, the Producers Guild of America (PGA) Awards on Saturday, Feb. 27 and the Actor Awards on Sunday, Feb. 28, live on Netflix; the British Academy of Film and Television Arts (BAFTA) date is not confirmed."
+  - "The table lists 17 awards-season events from Nov. 16, 2026, to April 20, 2027, including the Directors Guild of America (DGA) Awards on Saturday, Jan. 30, the Producers Guild of America (PGA) Awards on Saturday, Feb. 27 and the Actor Awards on Sunday, Feb. 28, live on Netflix; the British Academy of Film and Television Arts (BAFTA) date is not confirmed."
 faq:
   - q: "When are the Golden Globes 2027?"
     a: "Sunday, Jan. 10, 2027, from 7:30 p.m. to 9:30 p.m. ET (4:30 p.m. to 6:30 p.m. PT), live on CBS and Paramount+, according to CBS. Nikki Glaser will return to host, the Golden Globes say."
@@ -50,7 +50,7 @@ sources:
   - title: "99th Oscars and Academy key dates"
     url: "https://www.oscars.org/99th-oscars-and-academy-key-dates"
     publisher: "Academy of Motion Picture Arts and Sciences"
-  - title: "GRAMMY AWARDS® NOMINATIONS TO BE ANNOUNCED MONDAY, NOV. 16, 2026"
+  - title: "The Grammy Awards Set to Take Place Sunday, Feb. 7, 2027"
     url: "https://www.grammy.com/news/2027-grammys-show-air-date-nominations-announced/"
     publisher: "Recording Academy"
     date: "2026-05-12"
@@ -96,8 +96,8 @@ assets:
     group: awards-season-2027
     title: "Awards Season 2026-27 Calendar"
     subtitle: "Golden Globes, Oscars, Grammys, Critics Choice and Actor Awards dates"
-    description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations, the Actor Awards and the Oscars."
-    alt: "Printable awards season calendar from Grammy nominations on Nov. 16, 2026, to the Oscars on March 14, 2027"
+    description: "Awards season dates from Nov. 16, 2026, to April 20, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations, the Actor Awards and the Oscars."
+    alt: "Printable awards season calendar from Grammy nominations on Nov. 16, 2026, to the Scientific and Technical Awards on April 20, 2027"
     data:
       pick: "My pick"
       layout: table
@@ -118,15 +118,16 @@ assets:
         - { start: "2027-02-28T20:00-05:00", title: "Actor Awards", channel: "Netflix", src: 7 }
         - { date: "2027-03-06", time: tba, title: "42nd Film Independent Spirit Awards", detail: "Hollywood Palladium", src: 10 }
         - { start: "2027-03-14T19:00-04:00", title: "99th Oscars", detail: "Dolby Theatre, Ovation Hollywood", channel: "ABC", src: 3 }
+        - { date: "2027-04-20", time: tba, title: "Scientific and Technical Awards (Academy)", src: 4 }
       unconfirmed:
         - { label: "BAFTA Film Awards date", why: "not confirmed on the organizer's site when we checked, so it is left out" }
     note: "Source: Golden Globes (May 7, 2026), CBS, Academy of Motion Picture Arts and Sciences (April 7, 2026), Recording Academy (May 12, 2026), Critics Choice Association (April 20, 2026), The Actor Awards, Directors Guild of America (July 21, 2026), Producers Guild of America (April 7, 2026), Film Independent (April 10, 2026), Writers Guild of America (July 16, 2026). Dates are subject to change."
 downloads:
   - group: "Awards Season 2026-27 Calendar printables"
     title: "Awards Season 2026-27 Calendar"
-    description: "Awards season dates from Nov. 16, 2026, to March 14, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations, the Actor Awards and the Oscars."
+    description: "Awards season dates from Nov. 16, 2026, to April 20, 2027: Grammy and Golden Globe nominations, Critics Choice, Golden Globes, Oscar nominations, the Actor Awards and the Oscars."
     preview: ../../../../assets/news/awards-season-2027/awards-season-2026-27-watch-guide.png
-    alt: "Printable awards season calendar from Grammy nominations on Nov. 16, 2026, to the Oscars on March 14, 2027"
+    alt: "Printable awards season calendar from Grammy nominations on Nov. 16, 2026, to the Scientific and Technical Awards on April 20, 2027"
     pdf: "/news/downloads/awards-season-2027/awards-season-2026-27-watch-guide.pdf"
     png: "/news/downloads/awards-season-2027/awards-season-2026-27-watch-guide.png"
     pages: 1
@@ -157,6 +158,7 @@ Each row comes from the organizer's own announcement. "None listed" and "Not lis
 | Sun., Feb. 28, 2027 | Actor Awards | Netflix | 8 p.m. ET / 5 p.m. PT |
 | Sat., March 6, 2027 | 42nd Film Independent Spirit Awards, Hollywood Palladium | None listed | Not listed |
 | Sun., March 14, 2027 | 99th Oscars, Dolby Theatre at Ovation Hollywood | ABC | 7 p.m. ET / 4 p.m. PT |
+| Tue., April 20, 2027 | Scientific and Technical Awards (Academy) | None listed | Not listed |
 
 The date and weekday for each row come from the organizers' pages cited under Sources. The [Actor Awards site](https://www.actorawards.org/) lists its ceremony for Sunday, Feb. 28, 2027, live on Netflix at 8 p.m. ET / 5 p.m. PT. We have no confirmed date for the British Academy of Film and Television Arts (BAFTA) Film Awards, so it is left out until the organizer posts it.
 
@@ -174,6 +176,7 @@ The Academy's key dates page lists the steps toward the show. It adds that "all 
 
 | Step | Date |
 |---|---|
+| Final submission deadline (General Entry, Animated Feature and Best Picture entries) | Thu., Nov. 12, 2026 |
 | Governors Awards | Sun., Nov. 15, 2026 |
 | Preliminary voting | Mon., Dec. 7, 2026, 9 a.m. PT, to Fri., Dec. 11, 2026, 5 p.m. PT |
 | Shortlists announcement | Tue., Dec. 15, 2026 |
@@ -182,6 +185,7 @@ The Academy's key dates page lists the steps toward the show. It adds that "all 
 | Nominees luncheon | Tue., Feb. 16, 2027 |
 | Final voting | Thu., Feb. 25, 2027, 9 a.m. PT, to Thu., March 4, 2027, 5 p.m. PT |
 | 99th Oscars | Sun., March 14, 2027 |
+| Scientific and Technical Awards | Tue., April 20, 2027 |
 
 ## How to watch the 2027 awards shows
 
