@@ -93,7 +93,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [boston-bruins-schedule-november-2026-game-times-tv-printable, edmonton-oilers-schedule-december-2026-game-times-tv-printable, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city]
+related: [detroit-red-wings-schedule-december-2026-game-times-tv-printable, edmonton-oilers-schedule-december-2026-game-times-tv-printable, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city]
 draft: false
 ---
 
