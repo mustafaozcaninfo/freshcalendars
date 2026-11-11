@@ -80,11 +80,13 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - `/how-we-rate-products`: the public rating method
 - `/veterans-day-gifts`: the seasonal page, built from sections
 
-**Design:**
-- brand palette: accent `#007b48`, titles `#0e2135`, text `#334b63`
-- fonts: Sora for titles, Manrope for body
-- live CSS and scripts: `design/`
-- customised template texts: `design/template-texts.json`
+**Design (system v2, Nov. 11, 2026):**
+- `design/custom.css` is the whole live CSS: functional fixes first, then the design system block ("Fresh Calendars Shop design system").
+- **Tokens:** the system sets `--fc-*` tokens (ink, text, muted, accent, link, page, surface, line, radius, shadow) on `body.cr-prism` and redefines the theme's `--cr-*` tokens from them. Change a color or radius in the tokens, not in single rules.
+- **Look:** neutral surfaces and hairlines instead of green gradients and glows; radius scale 8, 12, 16 and 20 px; one solid green primary button; quiet text links for "see all" and "View product"; Sora 600 for headings, Manrope for body.
+- **Header:** on desktop the "freshcalendars.com" link sits inside the navy bar and the nav row is sticky; on phones the announcement line is hidden.
+- **Dark mode:** the script in `design/hook-top.html` (template text `HTML_HOOK_TOP`) adds `cr-prism--dark` to `<body>` when the visitor's system is dark; section 12 of the CSS holds the dark tokens. Product photos keep a white plate. Check both modes after any color change (`colorScheme: 'dark'` in Playwright).
+- **Files:** scripts in `design/header-scripts.html` and `design/footer-scripts.html`; customised template texts in `design/template-texts.json`.
 
 **Open admin-only items** (no API exists for these):
 1. A cookie consent banner, or cookieless Matomo, for UK and DE visitors.
@@ -159,7 +161,7 @@ Use the `shop-article` skill (`.claude/skills/shop-article/SKILL.md`): which que
 | `tools/article_check.py`, `tools/article_publish.py` | article rule checker (also `--sync`, `--orphans`, `--live`) and publisher; see the `shop-article` skill |
 | `articles/registry.json`, `articles/queue.json` | every shop article (type, query, cluster, products, H2s) and the article queue |
 | `research/google-affiliate-2026.md` | Google's official rules for affiliate and review content, quoted with URLs (Nov. 9, 2026) |
-| `design/` | live custom CSS, header and footer scripts, customised template texts |
+| `design/` | live custom CSS (fixes plus the design system), the body-top hook, header and footer scripts, customised template texts |
 | `ratings/` | method, the list of published ratings, the approved batch |
 | `data/` | long-tail targets and filtered Google suggestions |
 | `snippets/` | embed boxes for freshcalendars.com pages |

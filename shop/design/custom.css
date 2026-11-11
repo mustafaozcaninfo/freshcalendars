@@ -65,3 +65,262 @@ body.cr-prism .fs-sec .group.relative h3 a{display:inline-flex;align-items:cente
 .fc-table th,.fc-table td{padding:.55rem .7rem;border-bottom:1px solid #e3ece7;text-align:left;vertical-align:top}
 .fc-table thead th{background:#f3faf6;color:#0e2135;font-weight:700}
 .fc-table caption{caption-side:bottom;text-align:left;font-size:.8125rem;color:#4f5f70;padding-top:.4rem}
+/* Two-column spec tables on product pages (shop-product skill): fit the narrow details column instead of scrolling */
+.fc-table.fc-spec table{min-width:0!important;width:100%}
+.fc-table.fc-spec td:first-child{white-space:nowrap;font-weight:600;color:#0e2135}
+@media (max-width:480px){.fc-table.fc-spec td:first-child{white-space:normal}}
+/* Tap targets of 24px or more everywhere (WCAG 2.5.8): breadcrumbs, product card titles, "New" badges, footer lists, inline text links */
+body.cr-prism nav[aria-label="Breadcrumb"] a,body.cr-prism ol li a.truncate{display:inline-flex;align-items:center;min-height:24px}
+body.cr-prism .group.relative h3 a{display:inline-block;padding-block:2px}
+body.cr-prism a.fs-al{display:inline-flex;align-items:center;min-height:24px}
+body.cr-prism ul.space-y-6>li>a{display:inline-flex;align-items:center;min-height:24px}
+body.cr-prism .prose p a,body.cr-prism .prose li a,body.cr-prism caption a,body.cr-prism p.text-sm a{padding-block:2px}
+
+/* ==========================================================================
+   Fresh Calendars Shop design system (v2, Nov. 11, 2026)
+   A quiet, editorial layer over the "crystal prism" theme: neutral surfaces,
+   hairlines instead of glows, one radius scale, one button style, calmer type.
+   Appended after the functional fixes above; edit here, then push to the store.
+   ========================================================================== */
+
+/* 1. Tokens ---------------------------------------------------------------- */
+body.cr-prism{
+  --fc-ink:14,33,53; --fc-text:58,74,92; --fc-muted:98,112,128;
+  --fc-accent:0,123,72; --fc-accent-hover:0,98,58; --fc-link:0,98,58;
+  --fc-page:255,255,255; --fc-surface:245,247,246; --fc-surface-2:237,241,239;
+  --fc-line:226,231,228; --fc-line-strong:205,213,209;
+  --fc-r-sm:8px; --fc-r:12px; --fc-r-lg:16px; --fc-r-xl:20px;
+  --fc-shadow:0 1px 2px rgba(14,33,53,.06); --fc-shadow-pop:0 12px 32px -12px rgba(14,33,53,.18);
+  --fc-ease:cubic-bezier(.2,.7,.2,1);
+  /* Theme tokens, redefined: no gradients, glows or green tints */
+  --cr-line:rgb(var(--fc-line)); --cr-tint:rgb(var(--fc-surface)); --cr-lift:var(--fc-shadow); --cr-glow:0 0 #0000;
+  --cr-aurora:rgb(var(--fc-surface)); --cr-plate:rgb(var(--fc-surface)); --cr-prism:rgb(var(--fc-accent));
+  --cr-glass:rgba(var(--fc-page),.94); --cr-solid:rgb(var(--fc-page));
+  --color-text:var(--fc-text); --color-light:var(--fc-muted);
+  -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility;
+}
+body.cr-prism ::selection{background:rgba(var(--fc-accent),.18)}
+
+/* 2. Type ------------------------------------------------------------------ */
+body.cr-prism :is(h1,h2,h3){text-wrap:balance}
+body.cr-prism main p{text-wrap:pretty}
+body.cr-prism main h1.font-title,body.cr-prism main h2.font-title{font-weight:600!important;letter-spacing:-.022em}
+body.cr-prism .prose :is(h2,h3){font-weight:600;letter-spacing:-.018em}
+body.cr-prism .prose h2{font-size:1.5rem;line-height:1.25;margin-top:2.25em;margin-bottom:.6em}
+body.cr-prism .prose h3{font-size:1.1875rem;line-height:1.3}
+body.cr-prism .prose :is(p,li){line-height:1.7}
+body.cr-prism .prose a{text-decoration-thickness:1px;text-underline-offset:3px}
+/* Section headings: one size, no gem icon */
+body.cr-prism :is(#featured-products-heading,#featured-categories-heading,#featured-articles-heading,h3#testimonial-heading,#related-heading),
+body.cr-prism .fs-sec>h2,body.cr-prism .fs-sec h2.text-2xl,body.cr-prism .fs-sec h2.text-3xl,body.cr-prism .cr-related__title{
+  font-family:var(--font-title);font-weight:600!important;font-size:clamp(1.375rem,1.05rem + 1vw,1.75rem)!important;line-height:1.2!important;letter-spacing:-.02em!important;color:rgb(var(--fc-ink))}
+body.cr-prism :is(#featured-products-heading,#featured-categories-heading,#featured-articles-heading,h3#testimonial-heading,#related-heading)::before,
+body.cr-prism .cr-related__title::before{display:none}
+body.cr-prism :is(.fs-bb__price,.fs-cb__price,.fs-pp-price,.fc-table td){font-variant-numeric:tabular-nums}
+
+/* 3. Header ---------------------------------------------------------------- */
+.fc-netbar{background:rgb(245,247,246);border-bottom:1px solid rgb(226,231,228);font:500 12.5px/1.3 Manrope,system-ui,sans-serif}
+.fc-netbar a{color:rgb(0,98,58);font-weight:600}
+.fc-netbar__note{color:rgb(98,112,128)}
+/* Desktop: the "back to freshcalendars.com" link sits inside the navy bar, so the header is one utility row, not two */
+@media (min-width:1024px){
+  .fc-netbar{position:absolute;top:0;left:0;right:0;height:40px;z-index:45;background:none;border:0;pointer-events:none}
+  .fc-netbar__in{height:40px;justify-content:flex-end;padding:0 2rem}
+  .fc-netbar a{pointer-events:auto;color:#fff;opacity:.86;font-weight:500}
+  .fc-netbar a:hover{opacity:1;text-decoration:underline}
+  .fc-netbar__note{display:none}
+}
+body.cr-prism #navigation-top-desktop{position:sticky;top:0;z-index:40}
+@media (min-width:1024px){body.cr-prism #navigation-top-desktop{top:-40px}}
+/* Phones and tablets: the net bar is the one utility row; the announcement line repeats the hero, so it goes */
+@media (max-width:1023.98px){body.cr-prism #navigation-top-desktop>nav>.bg-skin-dark{display:none}}
+body.cr-prism #navigation-top-desktop>nav>.bg-white{background-color:rgba(var(--fc-page),.9);backdrop-filter:saturate(1.6) blur(12px);box-shadow:none;border-bottom:1px solid rgb(var(--fc-line))}
+body.cr-prism #navigation-top-desktop>nav>.bg-white>.border-b::after{display:none}
+body.cr-prism #navigation-top-desktop button.font-subtitle{border-radius:var(--fc-r-sm);font-weight:600;font-size:.9375rem;color:rgb(var(--fc-ink))}
+body.cr-prism #navigation-top-desktop button.font-subtitle:hover,body.cr-prism #navigation-top-desktop button.font-subtitle[aria-expanded="true"]{background-color:rgb(var(--fc-surface))}
+body.cr-prism :is(#navigation-top-desktop,#navigation-top-mobile) form[action$="/search"] input[name="q"]{border-radius:var(--fc-r-sm)!important;background:rgb(var(--fc-surface));border-color:transparent;box-shadow:none;min-width:15rem;transition:border-color .15s,background-color .15s,box-shadow .15s}
+body.cr-prism :is(#navigation-top-desktop,#navigation-top-mobile) form[action$="/search"] input[name="q"]:focus{background:rgb(var(--fc-page));border-color:rgb(var(--fc-accent));box-shadow:0 0 0 3px rgba(var(--fc-accent),.16)}
+
+/* 4. Buttons, chips, inputs ------------------------------------------------ */
+body.cr-prism .cr-pill,
+body.cr-prism .fs-bb--crystal-a:not(.fs-bb--secondary),body.cr-prism .fs-bb--crystal-b:not(.fs-bb--secondary),
+body.cr-prism .cr-foot .bg-skin-light button[type="submit"],body.cr-prism footer button.w-full.bg-skin-button-accent{
+  border-radius:var(--fc-r)!important;background:rgb(var(--fc-accent))!important;background-image:none!important;color:#fff!important;
+  box-shadow:var(--fc-shadow)!important;font-weight:600;letter-spacing:-.005em;transition:background-color .15s var(--fc-ease),transform .1s var(--fc-ease),box-shadow .15s var(--fc-ease)}
+body.cr-prism .cr-pill:hover,
+body.cr-prism a:hover .fs-bb--crystal-a:not(.fs-bb--secondary),body.cr-prism a:hover .fs-bb--crystal-b:not(.fs-bb--secondary),
+body.cr-prism a:focus-visible .fs-bb--crystal-a:not(.fs-bb--secondary),body.cr-prism a:focus-visible .fs-bb--crystal-b:not(.fs-bb--secondary),
+body.cr-prism .cr-foot .bg-skin-light button[type="submit"]:hover,body.cr-prism footer button.w-full.bg-skin-button-accent:hover{
+  background:rgb(var(--fc-accent-hover))!important;background-image:none!important}
+body.cr-prism .fs-bb--crystal-a.fs-bb--secondary,body.cr-prism .fs-bb--crystal-b.fs-bb--secondary{
+  border-radius:var(--fc-r)!important;background:rgb(var(--fc-page));border:1px solid rgb(var(--fc-line-strong));color:rgb(var(--fc-ink));box-shadow:none;transition:background-color .15s,border-color .15s}
+body.cr-prism a:hover .fs-bb--secondary{background:rgb(var(--fc-surface));border-color:rgb(var(--fc-muted))}
+body.cr-prism .fs-bb--crystal-b .fs-bb__chip{border-radius:var(--fc-r-sm)}
+/* Quiet "see all" links instead of floating pills */
+body.cr-prism :is(#featured-products-heading,#featured-categories-heading,#featured-articles-heading)+a,
+body.cr-prism .cr-related__more,body.cr-prism .cr-grid+.sm\:hidden>a{
+  min-height:32px;padding:0 .25rem;border:0;border-radius:var(--fc-r-sm);background:none;box-shadow:none;color:rgb(var(--fc-link));font-weight:600;font-size:.9375rem}
+body.cr-prism :is(#featured-products-heading,#featured-categories-heading,#featured-articles-heading)+a:hover,
+body.cr-prism .cr-related__more:hover,body.cr-prism .cr-grid+.sm\:hidden>a:hover{text-decoration:underline;text-underline-offset:4px}
+body.cr-prism .cr-chip{border-radius:var(--fc-r-sm);background:rgba(var(--fc-page),.9);border-color:rgb(var(--fc-line));font-weight:600;color:rgb(var(--fc-ink))}
+body.cr-prism .cr-chips .fs-tile{border-radius:var(--fc-r);box-shadow:none;border-color:rgb(var(--fc-line))}
+body.cr-prism .cr-chips .fs-tile:hover{transform:none;box-shadow:none;border-color:rgb(var(--fc-line-strong));background-color:rgb(var(--fc-surface))}
+body.cr-prism .cr-chips .fs-tile-image{border-radius:var(--fc-r-sm)}
+body.cr-prism .fs-intro__more{border-radius:var(--fc-r-sm)}
+body.cr-prism form.fs-tag-filters button{border-radius:var(--fc-r-sm)}
+body.cr-prism form.fs-tag-filters button[aria-pressed="false"]{border-color:rgb(var(--fc-line-strong))}
+body.cr-prism :is(select,input[type="text"],input[type="email"],input[type="search"],input[type="tel"],textarea){border-radius:var(--fc-r-sm);border-color:rgb(var(--fc-line-strong));transition:border-color .15s,box-shadow .15s}
+body.cr-prism :is(select,input[type="text"],input[type="email"],input[type="search"],input[type="tel"],textarea):focus{border-color:rgb(var(--fc-accent));box-shadow:0 0 0 3px rgba(var(--fc-accent),.16);outline:0}
+body.cr-prism .cr-foot .bg-skin-light input[type="email"]{border-radius:var(--fc-r)}
+body.cr-prism nav[role="navigation"] :is(a,span).rounded-md{border-radius:var(--fc-r-sm);border-color:rgb(var(--fc-line-strong))}
+
+/* 5. Hero ------------------------------------------------------------------ */
+body.cr-prism .cr-hero{border-radius:var(--fc-r-xl)}
+body.cr-prism .cr-hero :is(h1,h2).font-title{font-weight:600!important;letter-spacing:-.028em;line-height:1.06!important}
+body.cr-prism .cr-hero--overlayed h1{font-size:clamp(2rem,1.1rem + 2.7vw,3.25rem)!important;text-shadow:none!important;filter:none!important}
+body.cr-prism .cr-hero--overlayed h1+*{font-family:var(--font-body);font-weight:500!important;font-size:clamp(1rem,.9rem + .45vw,1.1875rem)!important;line-height:1.5!important;letter-spacing:0;color:rgb(var(--fc-text))!important;text-shadow:none!important;filter:none!important;max-width:34rem}
+/* A soft paper scrim keeps navy text readable without the white halo */
+@media (min-width:768px){
+  body.cr-prism .cr-hero--overlayed::after{content:"";position:absolute;inset:0;pointer-events:none;background:linear-gradient(90deg,rgba(255,255,255,.94) 0%,rgba(255,255,255,.86) 34%,rgba(255,255,255,.35) 56%,rgba(255,255,255,0) 72%)}
+  body.cr-prism .cr-hero--overlayed>div.relative{z-index:1}
+}
+body.cr-prism .cr-hero--overlayed .cr-proof{justify-content:flex-start}
+
+/* 6. Product cards --------------------------------------------------------- */
+body.cr-prism .cr-grid{gap:28px 16px}
+@media (min-width:640px){body.cr-prism .cr-grid{gap:40px 24px}}
+body.cr-prism .cr-card{border:0!important;border-radius:0;box-shadow:none;background:none!important;padding:0!important;transition:none}
+body.cr-prism .cr-card:hover{transform:none;box-shadow:none}
+body.cr-prism .cr-plate{border-radius:var(--fc-r-lg)!important;background:rgb(var(--fc-surface))!important;transition:background-color .2s var(--fc-ease)}
+body.cr-prism .cr-card:hover .cr-plate{background:rgb(var(--fc-surface-2))!important;opacity:1!important}
+body.cr-prism .cr-card:hover .cr-plate img{transform:scale(1.03)}
+body.cr-prism .cr-card__body{padding:14px 2px 0!important}
+body.cr-prism .cr-card__body>h3{font-size:.9375rem;font-weight:600;line-height:1.35;color:rgb(var(--fc-ink));min-height:0!important}
+body.cr-prism .cr-card__body .mt-auto{padding-top:.125rem}
+body.cr-prism .cr-card__body .mt-3{margin-top:.25rem!important}
+body.cr-prism .cr-card__body span.text-skin-light{font-size:.8125rem}
+body.cr-prism .cr-card .fs-cb{margin-top:.75rem}
+/* One clear action per card: the price button; "View product" becomes a quiet link */
+body.cr-prism .fs-cb--card{display:flex;flex-wrap:wrap;align-items:center;justify-content:flex-start;gap:.125rem .875rem}
+body.cr-prism .fs-cb--card>.fs-cb__price{flex-basis:100%}
+body.cr-prism .fs-cb--card .fs-cb__link--page{width:auto;flex:0 0 auto}
+body.cr-prism .fs-cb--card .fs-cb__link--page .fs-bb--secondary{border:0;background:none;min-height:32px;padding:0;width:auto;font-size:.875rem;font-weight:600;color:rgb(var(--fc-muted))}
+body.cr-prism .fs-cb--card .fs-cb__link--page:hover .fs-bb--secondary{background:none;color:rgb(var(--fc-ink));text-decoration:underline;text-underline-offset:4px}
+body.cr-prism .cr-related .cr-card__body>:last-child{padding-top:.5rem}
+
+/* 7. Sections, bands, pick cards ------------------------------------------- */
+body.cr-prism section[aria-labelledby="collections-heading"],body.cr-prism .fs-sec.bg-gray-50{background-color:rgb(var(--fc-surface))!important;border:0!important;border-radius:var(--fc-r-xl)}
+body.cr-prism section[aria-labelledby="collections-heading"] .group.relative>div:first-child{border-radius:var(--fc-r-lg);box-shadow:none;border-color:transparent;background:rgb(var(--fc-surface-2))}
+body.cr-prism section[aria-labelledby="collections-heading"] .group.relative h3{font-weight:600}
+body.cr-prism .cr-band{border:0;border-radius:var(--fc-r-xl);background:rgb(var(--fc-surface))}
+body.cr-prism .cr-band h1{font-size:clamp(1.875rem,1.2rem + 2.2vw,2.75rem)!important;line-height:1.1!important;font-weight:600!important;letter-spacing:-.025em}
+body.cr-prism .cr-band h1~*,body.cr-prism .cr-band .font-subtitle{font-weight:500!important;color:rgb(var(--fc-text))}
+body.cr-prism .fs-sec .rounded-lg.border.border-gray-200.bg-white{border-radius:var(--fc-r-lg);border-color:rgb(var(--fc-line))}
+body.cr-prism .fs-sec span.rounded-full.border.border-skin-accent{border:0;border-radius:6px;background:rgba(var(--fc-accent),.09);color:rgb(var(--fc-link));font-size:.6875rem;font-weight:700;letter-spacing:.06em;padding:.3rem .55rem}
+body.cr-prism .fs-sec h3.font-title.text-2xl{font-weight:600;letter-spacing:-.02em}
+body.cr-prism article .rounded-lg,body.cr-prism .aspect-\[4\/3\].rounded-lg{border-radius:var(--fc-r-lg)}
+body.cr-prism div.rounded-lg:has(#sale-heading){border-radius:var(--fc-r-xl);box-shadow:none}
+body.cr-prism section[aria-labelledby="testimonial-heading"] blockquote{border-radius:var(--fc-r-lg);box-shadow:none}
+
+/* 8. Product page ---------------------------------------------------------- */
+@media (min-width:1024px){
+  body.cr-prism .fs-pp-stack>.fs-pp-flat:first-child{padding:0;border-radius:0;background:none}
+  body.cr-prism .fs-pp-inset{top:5.5rem;padding:.25rem 0 0 1rem;border-radius:0;background:none;backdrop-filter:none;box-shadow:none}
+  body.cr-prism .fs-pp-gallery{border:0;border-radius:var(--fc-r-xl);background:rgb(var(--fc-surface))}
+}
+body.cr-prism .fs-pp-gallery{border-radius:var(--fc-r-lg);background:rgb(var(--fc-surface))}
+body.cr-prism .fs-pp-gallery>div:first-child{border-radius:var(--fc-r);box-shadow:none;border:1px solid rgb(var(--fc-line))}
+body.cr-prism .fs-pp-thumbs>button,body.cr-prism .fs-pp-thumbs>button>span{border-radius:var(--fc-r-sm)}
+body.cr-prism .fs-pp-title{font-weight:600!important;font-size:1.9375rem!important;line-height:1.14!important;letter-spacing:-.024em}
+body.cr-prism .fs-pp-inset>h2.font-subtitle{font-weight:500!important;font-size:1.0625rem!important;line-height:1.55!important;color:rgb(var(--fc-text))}
+body.cr-prism .fs-pp-price p.text-3xl{padding:0;border-radius:0;background:none;font-weight:600;font-size:2rem;letter-spacing:-.02em}
+body.cr-prism .fs-pp-offers h3{font-weight:600;font-size:1.125rem}
+body.cr-prism .fs-pp-offers a.fs-al{border-radius:var(--fc-r-lg)!important;border-color:rgb(var(--fc-line))!important;background:rgb(var(--fc-page))}
+body.cr-prism .fs-pp-offers a.fs-al:hover{box-shadow:none;border-color:rgb(var(--fc-accent))!important}
+body.cr-prism .cr-pp-about{border-radius:var(--fc-r-lg)}
+body.cr-prism section[aria-labelledby="details-heading"]>div,body.cr-prism section[aria-labelledby="policies-heading"] dl>div{border-radius:var(--fc-r)!important}
+body.cr-prism section[aria-labelledby="policies-heading"] dl>div{background-color:rgb(var(--fc-surface))!important;border-color:transparent!important}
+body.cr-prism .fs-pp-share,body.cr-prism .fs-article-share{border-radius:var(--fc-r)}
+body.cr-prism .fs-pp-share a,body.cr-prism .fs-article-share a{border-radius:var(--fc-r-sm)!important;background-color:rgb(var(--fc-surface))!important}
+body.cr-prism .cr-dock{border-radius:var(--fc-r-lg);box-shadow:var(--fc-shadow-pop);border:1px solid rgb(var(--fc-line))}
+@media not all and (min-width:768px){body.cr-prism .fs-pp-title{font-size:1.4375rem!important;line-height:1.18!important}body.cr-prism .fs-pp-price p.text-3xl{font-size:1.625rem}}
+
+body.cr-prism section[aria-labelledby="fs-our-rating-heading"] h2{font-family:var(--font-title);font-weight:600;font-size:1.125rem;letter-spacing:-.015em;color:rgb(var(--fc-ink))}
+body.cr-prism section[aria-labelledby="fs-our-rating-heading"] h3{font-weight:700;font-size:.8125rem;letter-spacing:.01em;color:rgb(var(--fc-ink))}
+body.cr-prism .fs-category-aside span.rounded-lg{border:0;border-radius:var(--fc-r-lg)}
+body.cr-prism .fs-category-aside img{aspect-ratio:16/10;max-height:13rem}
+body.cr-prism .fs-category-aside{padding-top:0}
+
+/* 9. Articles -------------------------------------------------------------- */
+body.cr-prism .cr-article__hero{border-radius:var(--fc-r-xl)}
+body.cr-prism .cr-article__hero h1{font-weight:600!important;letter-spacing:-.024em}
+body.cr-prism .cr-meta>:is(span,time,a){border-radius:var(--fc-r-sm);background-color:rgb(var(--fc-surface));font-weight:500;font-size:.8125rem;color:rgb(var(--fc-muted))!important}
+body.cr-prism .not-prose.shadow-2xl.bg-white{border-radius:var(--fc-r-lg);box-shadow:none;border-color:rgb(var(--fc-line))}
+.fc-table thead th{background:rgb(245,247,246)}
+.fc-table th,.fc-table td{border-bottom-color:rgb(226,231,228)}
+
+/* 10. Footer --------------------------------------------------------------- */
+body.cr-prism .cr-foot__panel{border:0;border-radius:var(--fc-r-xl);background:rgb(var(--fc-surface))}
+body.cr-prism .cr-foot__panel::after{display:none}
+body.cr-prism .cr-foot__panel h3{font-weight:600}
+body.cr-prism .cr-foot .bg-skin-light{border-radius:var(--fc-r-lg);box-shadow:none}
+body.cr-prism footer p.text-center.text-sm,body.cr-prism footer .text-center>p.text-sm{font-size:.8125rem;color:rgb(var(--fc-muted));max-width:62rem;margin-inline:auto}
+body.cr-prism .cr-foot .rounded-lg:has(>a .bg-skin-dark),body.cr-prism .cr-foot .rounded-lg:has(>.bg-skin-dark){border-radius:var(--fc-r-lg)}
+
+/* 11. Motion --------------------------------------------------------------- */
+@media (prefers-reduced-motion:reduce){body.cr-prism .cr-card:hover .cr-plate img{transform:none}}
+
+/* 12. Dark mode ------------------------------------------------------------
+   The hook script at the top of <body> adds .cr-prism--dark when the visitor's system is dark.
+   Same tokens, dark values; product photos keep a white plate because retailers shoot on white. */
+body.cr-prism.cr-prism--dark{
+  color-scheme:dark;background-color:rgb(13,18,24)!important;
+  --fc-ink:236,240,243; --fc-text:178,188,198; --fc-muted:138,150,163;
+  --fc-accent:0,123,72; --fc-accent-hover:0,140,82; --fc-link:84,208,154;
+  --fc-page:13,18,24; --fc-surface:22,29,37; --fc-surface-2:31,40,50;
+  --fc-line:40,50,62; --fc-line-strong:60,72,86;
+  --fc-shadow:0 1px 2px rgba(0,0,0,.4); --fc-shadow-pop:0 16px 40px -12px rgba(0,0,0,.6);
+  --color-title:var(--fc-ink); --color-subtitle:var(--fc-ink); --color-text:var(--fc-text); --color-light:var(--fc-muted);
+  --color-bg-light:var(--fc-page); --color-link:var(--fc-link); --color-button:var(--fc-surface-2); --color-button-text:var(--fc-ink);
+  --cr-page:var(--fc-page); --cr-solid:rgb(var(--fc-surface)); --cr-glass:rgba(var(--fc-surface),.92);
+  --cr-aurora:rgb(var(--fc-surface)); --cr-tint:rgb(var(--fc-surface));
+}
+html:has(body.cr-prism--dark){background-color:rgb(13,18,24)}
+body.cr-prism--dark :is(.bg-white,.bg-skin-light){background-color:rgb(var(--fc-page))!important}
+body.cr-prism--dark :is(.bg-gray-50,.bg-gray-100){background-color:rgb(var(--fc-surface))!important}
+body.cr-prism--dark :is(.border-gray-100,.border-gray-200,.border-gray-300,.border-t,.border-b,.divide-gray-200>*,.divide-y>*){border-color:rgb(var(--fc-line))!important}
+body.cr-prism--dark :is(.text-gray-900,.text-gray-800,.text-gray-700,.text-black){color:rgb(var(--fc-ink))!important}
+body.cr-prism--dark :is(.text-gray-600,.text-gray-500){color:rgb(var(--fc-text))!important}
+body.cr-prism--dark .text-gray-400{color:rgb(var(--fc-muted))!important}
+body.cr-prism--dark .cr-plate,body.cr-prism--dark .fs-pp-plate,body.cr-prism--dark .cr-card:hover .cr-plate{background:#fff!important}
+body.cr-prism--dark .fs-pp-gallery{background:#fff}
+body.cr-prism--dark .fs-pp-gallery>div:first-child{background:#fff;border-color:#e2e7e4}
+body.cr-prism--dark section[aria-labelledby="collections-heading"] .group.relative>div:first-child{background:#fff}
+body.cr-prism--dark :is(.fs-sec .rounded-lg.border.bg-white .aspect-w-4,.not-prose.shadow-2xl.bg-white img){background:#fff!important;border-radius:var(--fc-r)}
+body.cr-prism--dark #navigation-top-desktop>nav>.bg-white{background-color:rgba(var(--fc-page),.88)!important}
+body.cr-prism--dark #navigation-top-desktop>nav>.bg-skin-dark{background-color:rgb(8,12,17)}
+body.cr-prism--dark #navigation-top-desktop a>img[alt*="logo" i],body.cr-prism--dark footer img[alt*="logo" i]{filter:brightness(0) invert(1)}
+body.cr-prism--dark .fs-pp-offers a.fs-al img,body.cr-prism--dark img[alt="eBay Related Auctions"]{background:#fff;border-radius:6px;padding:3px 6px}
+body.cr-prism--dark .cr-hero--overlayed::after{background:linear-gradient(90deg,rgba(13,18,24,.92) 0%,rgba(13,18,24,.82) 36%,rgba(13,18,24,.3) 60%,rgba(13,18,24,0) 76%)}
+@media (max-width:767px){body.cr-prism--dark .cr-hero--overlayed::after{background:linear-gradient(180deg,rgba(13,18,24,.9) 0%,rgba(13,18,24,.78) 60%,rgba(13,18,24,.45) 100%)}}
+body.cr-prism--dark .cr-chip{background:rgba(var(--fc-surface),.9)}
+body.cr-prism--dark .fc-netbar{background:rgb(22,29,37);border-bottom-color:rgb(40,50,62)}
+body.cr-prism--dark .fc-netbar a{color:rgb(84,208,154)}
+@media (min-width:1024px){body.cr-prism--dark .fc-netbar{background:none}body.cr-prism--dark .fc-netbar a{color:#fff}}
+body.cr-prism--dark .fc-table thead th{background:rgb(22,29,37);color:rgb(236,240,243)}
+body.cr-prism--dark .fc-table th,body.cr-prism--dark .fc-table td{border-bottom-color:rgb(40,50,62)}
+body.cr-prism--dark .fc-table.fc-spec td:first-child{color:rgb(236,240,243)}
+body.cr-prism--dark .fc-filter-toggle{background:rgb(22,29,37);border-color:rgb(40,50,62);color:rgb(236,240,243)}
+body.cr-prism--dark span.fs-price-fallback{color:rgb(138,150,163)}
+body.cr-prism--dark .fs-sec span.rounded-full.border.border-skin-accent{background:rgba(84,208,154,.14)}
+body.cr-prism--dark :is(select,input[type="text"],input[type="email"],input[type="search"],input[type="tel"],textarea){background-color:rgb(var(--fc-surface));color:rgb(var(--fc-ink))}
+body.cr-prism--dark .prose{color:rgb(var(--fc-text))}
+body.cr-prism--dark .prose :is(strong,h2,h3,h4,th){color:rgb(var(--fc-ink))}
+body.cr-prism--dark main img{mix-blend-mode:normal!important}
+
+/* 13. Page titles outside heroes and product pages: same scale as category bands */
+body.cr-prism main h1.font-title:not(.fs-pp-title){font-size:clamp(1.875rem,1.2rem + 2.2vw,2.75rem)!important;line-height:1.1!important}
+body.cr-prism .cr-hero--overlayed h1.font-title{font-size:clamp(2rem,1.1rem + 2.7vw,3.25rem)!important;line-height:1.06!important}
+body.cr-prism main h1.font-title~h2.font-subtitle,body.cr-prism main h1.font-title+p.font-subtitle{font-weight:500!important;font-size:clamp(1.0625rem,1rem + .3vw,1.25rem)!important;line-height:1.5!important;color:rgb(var(--fc-text))!important;max-width:44rem}
+/* Article heroes keep white text over the photo */
+body.cr-prism .cr-article__hero h1.font-title~h2.font-subtitle,body.cr-prism .cr-article__hero h1.font-title+p.font-subtitle{color:#fff!important;max-width:28rem}
