@@ -105,7 +105,7 @@ The source is the NHL's club schedule for Montreal, fetched Nov. 2, 2026. We con
 
 ## Canadiens game times and TV for every November game
 
-Network names are written as the NHL lists them. Réseau des sports (RDS) and Télévision Quatre-Saisons (TVA) Sports carry French-language broadcasts in Canada; The Sports Network (TSN) and Sportsnet are English-language Canadian networks. The table lists national broadcasters and the Canadiens' own regional outlet; "none listed" means the NHL shows no national broadcaster for that country.
+Network names are written as the NHL lists them. Réseau des sports (RDS) and Télé-Diffuseurs Associés (TVA) Sports carry French-language broadcasts in Canada; The Sports Network (TSN) and Sportsnet are English-language Canadian networks. The table lists national broadcasters and the Canadiens' own regional outlet; "none listed" means the NHL shows no national broadcaster for that country.
 
 | Date | Game | Time (ET) | TV in Canada | TV in the U.S. |
 |---|---|---|---|---|

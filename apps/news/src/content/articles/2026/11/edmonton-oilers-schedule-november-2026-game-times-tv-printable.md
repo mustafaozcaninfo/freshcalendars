@@ -96,7 +96,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [montreal-canadiens-schedule-november-2026-game-times-tv-printable, toronto-maple-leafs-schedule-november-2026-game-times-tv-printable, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city]
+related: [montreal-canadiens-schedule-november-2026-game-times-tv-printable, toronto-maple-leafs-schedule-november-2026-game-times-tv-printable, edmonton-oilers-schedule-december-2026-game-times-tv-printable]
 draft: false
 ---
 
@@ -106,7 +106,7 @@ The source is the NHL's club schedule for Edmonton, fetched Nov. 2, 2026. We con
 
 ## Oilers game times and TV for every November game
 
-Times are Mountain Time first, the Edmonton zone, then Eastern Time. Network names are written as the NHL lists them: Sportsnet, Sportsnet West and Sportsnet 1 are English-language Canadian networks, Sportsnet+ is their streaming service, and Télévision Quatre-Saisons (TVA) Sports carries French-language national games in Canada. In the United States, the NHL lists NHL Network, Turner Network Television (TNT) and truTV and streaming services for national games. The table lists national broadcasters and the Oilers' own regional outlet; "none listed" means the NHL shows no national broadcaster for that country.
+Times are Mountain Time first, the Edmonton zone, then Eastern Time. Network names are written as the NHL lists them: Sportsnet, Sportsnet West and Sportsnet 1 are English-language Canadian networks, Sportsnet+ is their streaming service, and Télé-Diffuseurs Associés (TVA) Sports carries French-language national games in Canada. In the United States, the NHL lists NHL Network, Turner Network Television (TNT) and truTV and streaming services for national games. The table lists national broadcasters and the Oilers' own regional outlet; "none listed" means the NHL shows no national broadcaster for that country.
 
 | Date | Game | Time (MT) | Time (ET) | TV in Canada | TV in the U.S. |
 |---|---|---|---|---|---|

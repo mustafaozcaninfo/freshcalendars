@@ -25,7 +25,7 @@ assets:
       pick: "Result"
       layout: table
       events:
-        - { start: "2026-12-04T00:00Z", title: "Panthers at Maple Leafs", detail: "Home", channel: "Télévision Quatre-Saisons (TVA) Sports, TSN4", airing: live, src: 1, quote: "FLA @ TOR startTimeUTC 2026-12-04 00:00:00Z TVAS CA N; TSN4 CA H" }
+        - { start: "2026-12-04T00:00Z", title: "Panthers at Maple Leafs", detail: "Home", channel: "Télé-Diffuseurs Associés (TVA) Sports, TSN4", airing: live, src: 1, quote: "FLA @ TOR startTimeUTC 2026-12-04 00:00:00Z TVAS CA N; TSN4 CA H" }
         - { start: "2026-12-06T00:00Z", title: "Maple Leafs at Hurricanes", detail: "Away", channel: "Sportsnet", airing: live, src: 1, quote: "TOR @ CAR startTimeUTC 2026-12-06 00:00:00Z SN CA N" }
         - { start: "2026-12-10T00:30Z", title: "Maple Leafs at Stars", detail: "Away", channel: "Prime Video", airing: live, src: 1, quote: "TOR @ DAL startTimeUTC 2026-12-10 00:30:00Z Prime CA N" }
         - { start: "2026-12-13T00:00Z", title: "Golden Knights at Maple Leafs", detail: "Home, back-to-back, first night", channel: "Sportsnet", airing: live, src: 1, quote: "VGK @ TOR startTimeUTC 2026-12-13 00:00:00Z SN CA N" }
@@ -102,7 +102,7 @@ The source is the NHL's club schedule feed for Toronto, read Nov. 10, 2026. It g
 
 ## Maple Leafs game times and TV for every December game
 
-Network names are as the feed lists them. Sportsnet, TSN4 and Télévision Quatre-Saisons (TVA) Sports are Canadian networks. In the U.S. column, "Regional channel" stands for a local or regional outlet the feed lists under a short code; "None listed" means the feed shows no U.S. broadcaster.
+Network names are as the feed lists them. Sportsnet, TSN4 and Télé-Diffuseurs Associés (TVA) Sports are Canadian networks. In the U.S. column, "Regional channel" stands for a local or regional outlet the feed lists under a short code; "None listed" means the feed shows no U.S. broadcaster.
 
 | Date | Game | Venue | Time (ET) | TV in Canada | TV in the U.S. |
 |---|---|---|---|---|---|

@@ -103,7 +103,7 @@ The source is the NHL's club schedule feed for the Rangers, read Nov. 10, 2026. 
 
 ## Rangers game times and TV for every December game
 
-MSG Networks is the Rangers' regional outlet; the feed lists its MSG, MSG 2 and MSG Sportsnet (MSGSN) channels for the Rangers' games. Turner Network Television (TNT), truTV and HBO Max carry the game at Philadelphia nationally in the U.S. Sportsnet, Sportsnet+ and Télévision Quatre-Saisons (TVA) Sports are Canadian networks. "None listed" means the feed shows nothing in that column.
+MSG Networks is the Rangers' regional outlet; the feed lists its MSG, MSG 2 and MSG Sportsnet (MSGSN) channels for the Rangers' games. Turner Network Television (TNT), truTV and HBO Max carry the game at Philadelphia nationally in the U.S. Sportsnet, Sportsnet+ and Télé-Diffuseurs Associés (TVA) Sports are Canadian networks. "None listed" means the feed shows nothing in that column.
 
 | Date | Game | Venue | Time (ET) | Rangers' TV | National or Canadian TV |
 |---|---|---|---|---|---|

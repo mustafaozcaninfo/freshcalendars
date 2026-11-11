@@ -103,7 +103,7 @@ The source is the NHL's club schedule feed for Montreal, read Nov. 10, 2026. It 
 
 ## Canadiens December 2026 game times with French and English TV
 
-Réseau des sports (RDS) and Télévision Quatre-Saisons (TVA) Sports are the French-language networks the feed lists. The Sports Network (TSN) and Sportsnet are English-language Canadian networks, and Prime Video carries the Dec. 2 game in Canada. In the U.S. column, "Regional channel" is a local or team outlet the feed lists under a short code, and "None listed" means the feed shows no U.S. broadcaster.
+Réseau des sports (RDS) and Télé-Diffuseurs Associés (TVA) Sports are the French-language networks the feed lists. The Sports Network (TSN) and Sportsnet are English-language Canadian networks, and Prime Video carries the Dec. 2 game in Canada. In the U.S. column, "Regional channel" is a local or team outlet the feed lists under a short code, and "None listed" means the feed shows no U.S. broadcaster.
 
 | Date | Game | Time (ET) | French TV | English TV | TV in the U.S. |
 |---|---|---|---|---|---|
