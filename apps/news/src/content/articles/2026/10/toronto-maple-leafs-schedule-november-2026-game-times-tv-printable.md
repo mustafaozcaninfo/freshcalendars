@@ -107,7 +107,7 @@ Network names are written as the NHL lists them. The Sports Network (TSN) and Sp
 | Date | Game | Time (ET) | TV in Canada | TV in the U.S. |
 |---|---|---|---|---|
 | Tue., Nov. 3 | Utah at Toronto | 7 p.m. | TSN4 | Mammoth+, Utah16 |
-| Sat., Nov. 7 | Montreal at Toronto | 7 p.m. | Sportsnet, Télévision Quatre-Saisons (TVA) Sports | None listed |
+| Sat., Nov. 7 | Montreal at Toronto | 7 p.m. | Sportsnet, Télé-Diffuseurs Associés (TVA) Sports | None listed |
 | Sun., Nov. 8 | New Jersey at Toronto | 7 p.m. | TSN4 | NHL Network, Madison Square Garden (MSG) Sportsnet |
 | Tue., Nov. 10 | Colorado at Toronto | 7 p.m. | TSN4, TVA Sports | Altitude |
 | Thu., Nov. 12 | Minnesota at Toronto | 7 p.m. | Sportsnet | Wild local feeds |

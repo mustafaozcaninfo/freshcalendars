@@ -104,7 +104,7 @@ The source is the NHL's club schedule for the Penguins, fetched Nov. 2, 2026. We
 
 ## Penguins game times and TV for every November game
 
-Network names are written as the NHL lists them. SportsNet Pittsburgh is the Penguins' regional outlet; Turner Network Television (TNT), truTV and HBO Max are national in the United States; Sportsnet, Sportsnet+, Sportsnet 1, Télévision Quatre-Saisons (TVA) Sports and TVA Sports 2 are the Canadian national feeds. Where a game has no SportsNet Pittsburgh feed listed, it is a national broadcast.
+Network names are written as the NHL lists them. SportsNet Pittsburgh is the Penguins' regional outlet; Turner Network Television (TNT), truTV and HBO Max are national in the United States; Sportsnet, Sportsnet+, Sportsnet 1, Télé-Diffuseurs Associés (TVA) Sports and TVA Sports 2 are the Canadian national feeds. Where a game has no SportsNet Pittsburgh feed listed, it is a national broadcast.
 
 | Date | Game | Time (ET) | TV |
 |---|---|---|---|
