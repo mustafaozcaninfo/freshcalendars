@@ -1,0 +1,9 @@
+[
+  { "date": "2026-11-20", "label": "Maryland: deadline for requesting bills for prefile" },
+  { "date": "2026-12-10", "label": "Maryland: deadline for introduction of prefiled bills" },
+  { "date": "2027-01-13", "label": "Maryland General Assembly convenes at noon" },
+  { "date": "2027-02-08", "label": "Maryland Senate bill introduction date" },
+  { "date": "2027-02-12", "label": "Maryland House bill introduction date" },
+  { "date": "2027-03-22", "label": "Maryland crossover date" },
+  { "date": "2027-04-12", "label": "Maryland General Assembly adjourns sine die" }
+]
