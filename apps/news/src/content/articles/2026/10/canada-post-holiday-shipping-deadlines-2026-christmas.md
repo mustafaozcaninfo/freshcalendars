@@ -3,6 +3,7 @@ title: "Canada Post Santa Letters 2026: Mail by Dec. 9, Other Deadlines"
 description: "Canada Post says letters to Santa must go by Wednesday, Dec. 9, 2026. A table lists every Christmas send-by date, Dec. 3 to Dec. 23, plus a printable."
 type: explainer
 publishedAt: "2026-10-26T02:20:00-04:00"
+updatedAt: "2026-11-10T23:30:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Canada Post holiday shipping deadlines 2026", "Canada Post Christmas deadline 2026", "last day to mail Christmas cards Canada 2026", "Santa letter deadline Canada"]
@@ -17,12 +18,13 @@ assets:
     group: canada-post-christmas-2026
     title: "Canada Post Christmas Send-By Dates 2026"
     subtitle: "Send-by dates for Christmas delivery, earliest to latest"
+    noKit: "Fact sheet gave no source wording for the parcel cells, so a quoted deadline-matrix cannot be built; kept as the existing list sheet."
     layout: list
     rows:
-      - ["Thu., Dec. 3", "Tracked Packet or Small Packet to Africa, Central/South America, Caribbean; cards to Africa"]
-      - ["Wed., Dec. 9", "Santa letters; Small Packet/Tracked Packet to Asia, Australia, China, Europe, India, N.Z., Middle East; cards to Europe"]
+      - ["Thu., Dec. 3", "Tracked Packet or Small Packet to Africa, Central/South America, Caribbean; cards to same"]
+      - ["Wed., Dec. 9", "Santa letters; Small Packet/Tracked Packet to Asia, Australia, China, Europe, India, N.Z., Middle East; cards to same"]
       - ["Thu., Dec. 10", "Xpresspost International to Africa, Central/South America, Caribbean; domestic Regular Parcel, National Zone"]
-      - ["Fri., Dec. 11", "Xpresspost Intl to Asia, India, N.Z., Middle East; Small/Tracked Packet to UK, Japan, U.S., FR/DE/NL/CH; cards to U.S."]
+      - ["Fri., Dec. 11", "Xpresspost Intl to Asia, India, N.Z., Middle East; Small/Tracked Packet to UK, JP, U.S., FR/DE/NL/CH; cards to same"]
       - ["Mon., Dec. 14", "Xpresspost Intl to Australia, China, Japan; Expedited Parcel USA; domestic Expedited, National Zone"]
       - ["Tue., Dec. 15", "Xpresspost International to Europe, UK, France, Germany, Netherlands, Switzerland"]
       - ["Wed., Dec. 16", "Domestic Regular Parcel, Regional Zone"]
@@ -33,8 +35,7 @@ assets:
       - ["Wed., Dec. 23", "Priority, all three zones; Xpresspost, Local Zone"]
       - ["Fri., Dec. 25", "Christmas Day: no collection or delivery"]
       - ["Mon., Dec. 28", "Boxing Day observed: no collection or delivery"]
-    note: "Source: Canada Post, Plan your holiday sending, Santa letter program and holiday schedule, checked Oct. 26, 2026. Dates are between major urban centres and depend on origin and destination; some restrictions apply."
-    inkSaver: true
+    note: "Source: Canada Post, Plan your holiday sending, Santa letter program and holiday schedule, checked Nov. 10, 2026. Dates are between major urban centres and depend on origin and destination; some restrictions apply."
     description: "One-page printable of Canada Post's 2026 Christmas send-by dates for parcels and cards, with the Santa letter date, earliest to latest."
     alt: "Printable list of Canada Post 2026 Christmas send-by dates from Dec. 3 to Dec. 23, with Christmas Day and Boxing Day closures"
 hero:
@@ -49,13 +50,13 @@ hero:
     author: "Reg Natarajan from Vancouver, Bogotá"
     authorUrl: "https://www.flickr.com/people/61266278@N00"
 summary:
-  - "Canada Post's earliest 2026 Christmas send-by date is Thursday, Dec. 3, for Tracked Packet or Small Packet to Africa and to Central and South America and the Caribbean, and for cards to Africa."
+  - "Canada Post's earliest 2026 Christmas send-by date is Thursday, Dec. 3, for Tracked Packet or Small Packet to Africa and to Central and South America and the Caribbean, and for cards to those regions."
   - "Letters to Santa Claus at North Pole, H0H 0H0, Canada must be sent by Wednesday, Dec. 9, 2026."
   - "Within Canada, Priority parcels have the latest date, Wednesday, Dec. 23; Regular Parcel between national-zone cities must go by Thursday, Dec. 10."
   - "Canada Post is closed with no collection or delivery on Christmas Day, Friday, Dec. 25, and on Monday, Dec. 28, when Boxing Day is observed."
 faq:
   - q: "What is the last day to mail Christmas cards in Canada in 2026?"
-    a: "Canada Post lists Tuesday, Dec. 22 for cards within a local area, Monday, Dec. 21 within a region and Friday, Dec. 18 across the country. Cards to the U.S. should go by Friday, Dec. 11."
+    a: "Canada Post lists Tuesday, Dec. 22 for cards within a local area, Monday, Dec. 21 within a region and Friday, Dec. 18 across the country. Cards to the U.S. and the UK should go by Friday, Dec. 11, and cards to Europe by Wednesday, Dec. 9."
   - q: "What is the Santa letter deadline in Canada in 2026?"
     a: "Canada Post says to send your letter to Santa no later than Wednesday, Dec. 9, 2026. Address it to Santa Claus, North Pole, H0H 0H0, Canada."
   - q: "What is the last day to send a package to the U.S. for Christmas?"
@@ -91,20 +92,12 @@ downloads:
     pdf: "/news/downloads/canada-post-christmas-2026/canada-post-christmas-send-by-dates-2026.pdf"
     png: "/news/downloads/canada-post-christmas-2026/canada-post-christmas-send-by-dates-2026.png"
     pages: 1
-  - group: "Canada Post Christmas Send-By Dates 2026 printables"
-    title: "Canada Post Christmas Send-By Dates 2026 (ink saver)"
-    description: "One-page printable of Canada Post's 2026 Christmas send-by dates for parcels and cards, with the Santa letter date, earliest to latest. Ink-saver version."
-    preview: ../../../../assets/news/canada-post-christmas-2026/canada-post-christmas-send-by-dates-2026-ink.png
-    alt: "Printable list of Canada Post 2026 Christmas send-by dates from Dec. 3 to Dec. 23, with Christmas Day and Boxing Day closures, ink-saver version"
-    pdf: "/news/downloads/canada-post-christmas-2026/canada-post-christmas-send-by-dates-2026-ink.pdf"
-    png: "/news/downloads/canada-post-christmas-2026/canada-post-christmas-send-by-dates-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
-**Canada Post's first 2026 Christmas send-by date is Thursday, Dec. 3**, for Tracked Packet or Small Packet to Africa and to Central and South America and the Caribbean, and for cards to Africa. Letters to Santa have to go by **Wednesday, Dec. 9**, and Priority parcels within Canada by **Wednesday, Dec. 23**, according to Canada Post's "Plan your holiday sending" page.
+**Canada Post's first 2026 Christmas send-by date is Thursday, Dec. 3**, for Tracked Packet or Small Packet to Africa and to Central and South America and the Caribbean, and for cards to those regions. Letters to Santa have to go by **Wednesday, Dec. 9**, and Priority parcels within Canada by **Wednesday, Dec. 23**, according to Canada Post's "Plan your holiday sending" page.
 
-<p class="callout"><b>Checked Oct. 26, 2026.</b> Dates below come from the three Canada Post pages listed under sources. Canada Post says its dates are between major urban centres, depend on origin and destination, and that some restrictions apply.</p>
+<p class="callout"><b>Checked Nov. 10, 2026.</b> Dates below come from the three Canada Post pages listed under sources. Canada Post says its dates are between major urban centres, depend on origin and destination, and that some restrictions apply.</p>
 
 ## What are all the Canada Post Christmas deadlines, earliest to latest?
 
@@ -114,10 +107,10 @@ Canada Post lists its dates by destination. This table merges them into one coun
 
 | Send-by date | Day | What must be sent | Days from today |
 |---|---|---|---|
-| Dec. 3 | Thursday | Tracked Packet or Small Packet to Africa and to Central/South America and the Caribbean; cards to Africa | - |
-| Dec. 9 | Wednesday | Santa letters; Tracked Packet or Small Packet to Asia, Australia, China, Europe, India, New Zealand and the Middle East; cards to Europe | - |
+| Dec. 3 | Thursday | Tracked Packet or Small Packet to Africa and to Central/South America and the Caribbean; cards to Africa and to Central/South America and the Caribbean | - |
+| Dec. 9 | Wednesday | Santa letters; Tracked Packet or Small Packet to Asia, Australia, China, Europe, India, New Zealand and the Middle East; cards to Asia, Australia, China, Europe, India, New Zealand and the Middle East | - |
 | Dec. 10 | Thursday | Xpresspost International to Africa and to Central/South America and the Caribbean; domestic Regular Parcel, National Zone | - |
-| Dec. 11 | Friday | Xpresspost International to Asia, India, New Zealand and the Middle East; Tracked Packet or Small Packet to France, Germany, the Netherlands, Switzerland, Japan, the UK and the U.S.; cards to the U.S. and the UK | - |
+| Dec. 11 | Friday | Xpresspost International to Asia, India, New Zealand and the Middle East; Tracked Packet or Small Packet to France, Germany, the Netherlands, Switzerland, Japan, the UK and the U.S.; cards to the U.S., the UK, France, Germany, the Netherlands, Switzerland and Japan | - |
 | Dec. 14 | Monday | Xpresspost International to Australia, China and Japan; Expedited Parcel USA; domestic Expedited Parcel, National Zone | - |
 | Dec. 15 | Tuesday | Xpresspost International to Europe, France, Germany, the Netherlands, Switzerland and the UK | - |
 | Dec. 16 | Wednesday | Domestic Regular Parcel, Regional Zone | - |
@@ -156,22 +149,22 @@ The gap between zones is widest for Regular Parcel: 11 days separate the Local d
 
 ## What are the deadlines for international parcels and cards?
 
-Canada Post lists two services for each destination. Cards range from Dec. 3 (Africa) to Dec. 11 (UK); the card date for Europe is Dec. 9.
+Canada Post lists two parcel services and a card date for each destination. Cards go earliest to Africa and to Central/South America and the Caribbean (Dec. 3) and latest to the U.S., the UK, France, Germany, Japan, the Netherlands and Switzerland (Dec. 11). Cards to Europe, Asia, Australia, China, India, New Zealand and the Middle East go by Dec. 9.
 
-| Destination | Xpresspost International | Tracked Packet or Small Packet |
-|---|---|---|
-| Africa | Thu., Dec. 10 | Thu., Dec. 3 |
-| Asia | Fri., Dec. 11 | Wed., Dec. 9 |
-| Australia | Mon., Dec. 14 | Wed., Dec. 9 |
-| Central/South America and Caribbean | Thu., Dec. 10 | Thu., Dec. 3 |
-| China | Mon., Dec. 14 | Wed., Dec. 9 |
-| Europe | Tue., Dec. 15 | Wed., Dec. 9 |
-| France, Germany, Netherlands, Switzerland | Tue., Dec. 15 | Fri., Dec. 11 |
-| India | Fri., Dec. 11 | Wed., Dec. 9 |
-| Japan | Mon., Dec. 14 | Fri., Dec. 11 |
-| New Zealand | Fri., Dec. 11 | Wed., Dec. 9 |
-| United Kingdom | Tue., Dec. 15 | Fri., Dec. 11 |
-| Middle East | Fri., Dec. 11 | Wed., Dec. 9 |
+| Destination | Xpresspost International | Tracked Packet or Small Packet | Cards |
+|---|---|---|---|
+| Africa | Thu., Dec. 10 | Thu., Dec. 3 | Thu., Dec. 3 |
+| Asia | Fri., Dec. 11 | Wed., Dec. 9 | Wed., Dec. 9 |
+| Australia | Mon., Dec. 14 | Wed., Dec. 9 | Wed., Dec. 9 |
+| Central/South America and Caribbean | Thu., Dec. 10 | Thu., Dec. 3 | Thu., Dec. 3 |
+| China | Mon., Dec. 14 | Wed., Dec. 9 | Wed., Dec. 9 |
+| Europe | Tue., Dec. 15 | Wed., Dec. 9 | Wed., Dec. 9 |
+| France, Germany, Netherlands, Switzerland | Tue., Dec. 15 | Fri., Dec. 11 | Fri., Dec. 11 |
+| India | Fri., Dec. 11 | Wed., Dec. 9 | Wed., Dec. 9 |
+| Japan | Mon., Dec. 14 | Fri., Dec. 11 | Fri., Dec. 11 |
+| New Zealand | Fri., Dec. 11 | Wed., Dec. 9 | Wed., Dec. 9 |
+| United Kingdom | Tue., Dec. 15 | Fri., Dec. 11 | Fri., Dec. 11 |
+| Middle East | Fri., Dec. 11 | Wed., Dec. 9 | Wed., Dec. 9 |
 
 ## When is Canada Post closed around Christmas 2026?
 
