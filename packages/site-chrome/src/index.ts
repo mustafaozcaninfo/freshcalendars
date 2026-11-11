@@ -165,22 +165,24 @@ export function minifyCss(css: string): string {
  * Critical webfonts — inlined + preloaded.
  * `optional` avoids late-swap CLS (PSI culprit: display font on monthly hero).
  * Fallback faces use size/metric overrides so Arial/Georgia match webfont boxes.
+ * One semibold file per family carries every bold weight (the declared range), so headings and
+ * labels set at 700 or 800 render at 600 without a synthesized bold or a second download.
  */
 export const FONTS_CSS = minifyCss(`
 @font-face{font-family:"Sora Fallback";src:local("Arial Bold"),local("Arial");size-adjust:98%;ascent-override:92%;descent-override:22%;line-gap-override:0%}
 @font-face{font-family:"Manrope Fallback";src:local("Arial"),local("Helvetica Neue");size-adjust:100%;ascent-override:95%;descent-override:24%;line-gap-override:0%}
 @font-face{font-family:"Source Sans 3 Fallback";src:local("Arial");size-adjust:100%;ascent-override:92%;descent-override:24%;line-gap-override:0%}
-@font-face{font-family:Sora;font-style:normal;font-weight:700;font-display:optional;src:url("/fonts/sora-latin-700-normal.woff2") format("woff2")}
+@font-face{font-family:Sora;font-style:normal;font-weight:600 800;font-display:optional;src:url("/fonts/sora-latin-600-normal.woff2") format("woff2")}
 @font-face{font-family:Manrope;font-style:normal;font-weight:400;font-display:optional;src:url("/fonts/manrope-latin-400-normal.woff2") format("woff2")}
-@font-face{font-family:Manrope;font-style:normal;font-weight:700;font-display:optional;src:url("/fonts/manrope-latin-700-normal.woff2") format("woff2")}
+@font-face{font-family:Manrope;font-style:normal;font-weight:500 800;font-display:optional;src:url("/fonts/manrope-latin-600-normal.woff2") format("woff2")}
 @font-face{font-family:"Source Sans 3";font-style:normal;font-weight:400;font-display:optional;src:url("/fonts/source-sans-3-latin-400-normal.woff2") format("woff2")}
 @font-face{font-family:"Source Sans 3";font-style:normal;font-weight:700;font-display:optional;src:url("/fonts/source-sans-3-latin-700-normal.woff2") format("woff2")}
 `);
 
 export const FONT_PRELOAD = `
-<link rel="preload" as="font" type="font/woff2" href="/fonts/sora-latin-700-normal.woff2" crossorigin />
+<link rel="preload" as="font" type="font/woff2" href="/fonts/sora-latin-600-normal.woff2" crossorigin />
 <link rel="preload" as="font" type="font/woff2" href="/fonts/manrope-latin-400-normal.woff2" crossorigin />
-<link rel="preload" as="font" type="font/woff2" href="/fonts/manrope-latin-700-normal.woff2" crossorigin />
+<link rel="preload" as="font" type="font/woff2" href="/fonts/manrope-latin-600-normal.woff2" crossorigin />
 `;
 
 export const CSS = minifyCss(`

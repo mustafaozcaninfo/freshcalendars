@@ -56,33 +56,33 @@ const groupId = (g: string) => "dl-" + g.toLowerCase().replace(/[^a-z0-9]+/g, "-
   </section>
 )}
 <style>
-  .downloads{margin:0 0 2rem;padding:1.25rem;border:1px solid var(--warm-line);border-top:5px solid var(--gold);border-radius:16px;background:linear-gradient(180deg,var(--surface-warm),#fff);box-shadow:var(--n-shadow)}
-  .downloads h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.3rem;margin:0 0 .25rem;color:var(--ink-strong)}
+  .downloads{margin:0 0 2rem;padding:1.35rem;border:1px solid var(--line-soft);border-radius:var(--r-xl);background:var(--surface-soft)}
+  .downloads h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.3rem;font-weight:600;letter-spacing:-.025em;margin:0 0 .25rem;color:var(--ink-strong)}
   .intro{margin:0 0 1rem;font-size:.95rem}
-  .downloads h3{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.05rem;margin:1.25rem 0 .75rem;color:var(--ink-strong)}
+  .downloads h3{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.05rem;font-weight:600;letter-spacing:-.015em;margin:1.25rem 0 .75rem;color:var(--ink-strong)}
   .downloads ul{list-style:none;margin:0;padding:0;display:grid;gap:1rem;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}
-  .downloads li{display:grid;grid-template-columns:96px 1fr;gap:.75rem;background:#fff;border:1px solid var(--n-border);border-radius:12px;padding:.75rem;transition:box-shadow .2s ease,transform .2s ease}
-  .downloads li:hover{box-shadow:var(--n-shadow-h);transform:translateY(-2px)}
-  .thumb :global(img){display:block;width:96px;height:auto;border:1px solid var(--n-border);border-radius:6px;background:#fff;box-shadow:0 1px 3px rgba(16,24,40,.08)}
-  .downloads h4{font-family:Sora,"Sora Fallback",sans-serif;font-size:.98rem;line-height:1.25;margin:0 0 .25rem;color:var(--ink-strong)}
+  .downloads li{display:grid;grid-template-columns:96px 1fr;gap:.75rem;background:var(--paper);border:1px solid var(--line-soft);border-radius:var(--r-lg);padding:.75rem;transition:box-shadow .2s ease,transform .2s ease,border-color .15s ease}
+  .downloads li:hover{border-color:var(--line);box-shadow:var(--n-shadow-h);transform:translateY(-2px)}
+  .thumb :global(img){display:block;width:96px;height:auto;border:1px solid var(--line-soft);border-radius:var(--r-xs);background:#fff;box-shadow:var(--shadow-sm)}
+  .downloads h4{font-family:Sora,"Sora Fallback",sans-serif;font-size:.98rem;font-weight:600;letter-spacing:-.015em;line-height:1.25;margin:0 0 .25rem;color:var(--ink-strong)}
   .downloads .body p{margin:0 0 .35rem;font-size:.88rem;line-height:1.4}
-  .meta{color:var(--ink);font-size:.875rem}
+  .meta{color:var(--muted);font-size:.875rem}
   .btns{display:flex;gap:.5rem;flex-wrap:wrap}
-  .btn{display:inline-flex;align-items:center;min-height:44px;padding:0 .95rem;border-radius:8px;transition:background .15s ease,box-shadow .15s ease;font-weight:700;font-size:.9rem;text-decoration:none}
-  .btn.pdf{background:var(--focus);color:#fff}
-  .btn.pdf:hover{background:var(--focus);box-shadow:0 4px 10px rgba(0,74,127,.25)}
-  .btn.png:hover{background:var(--n-brand-soft)}
-  .btn.png{border:1px solid var(--focus);color:var(--focus);background:#fff}
+  .btn{display:inline-flex;align-items:center;min-height:44px;padding:0 .95rem;border-radius:var(--r-md);transition:background .15s ease,box-shadow .15s ease,border-color .15s ease;font-weight:600;font-size:.9rem;text-decoration:none}
+  .btn.pdf{background:var(--brand);color:#fff;box-shadow:inset 0 1px 0 rgba(255,255,255,.14)}
+  .btn.pdf:hover{box-shadow:var(--shadow-md)}
+  .btn.png{border:1px solid var(--line);color:var(--ink-strong);background:var(--paper)}
+  .btn.png:hover{background:var(--surface-soft)}
   .btn.pin{gap:.35rem;border:1px solid #BD081C;color:#BD081C;background:#fff}
   .btn.pin svg{width:18px;height:18px;fill:#BD081C}
   .btn.pin:hover{background:#BD081C;color:#fff}
   .btn.pin:hover svg{fill:#fff}
-  .btn:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
+  .btn:focus-visible{outline:2px solid var(--focus);outline-offset:2px}
   .downloads ul:empty{display:none}
   /* Compact sets: a dense two-column list of file links, no thumbnails. */
   .downloads ul.compact{grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:.5rem;margin:1rem 0}
   .downloads ul.compact li{display:flex;align-items:center;gap:.4rem;padding:.35rem .5rem .35rem .75rem}
   .downloads ul.compact li:hover{transform:none}
-  .ct{flex:1;font-weight:700;font-size:.92rem;line-height:1.25;color:var(--ink-strong)}
+  .ct{flex:1;font-weight:600;font-size:.92rem;line-height:1.25;color:var(--ink-strong)}
   .compact .btn{min-height:40px;padding:0 .7rem;font-size:.85rem}
 </style>

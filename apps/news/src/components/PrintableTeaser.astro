@@ -33,17 +33,15 @@ const count = `${n} free printable${n === 1 ? "" : "s"}`;
   <p class="pt-plain"><a href="#downloads">{count} below ↓</a></p>
 ))}
 <style>
-  .print-tease{display:grid;grid-template-columns:64px 1fr;gap:.85rem;align-items:center;margin:0 0 1.25rem;padding:.75rem .9rem;border:1px solid var(--warm-line);border-left:5px solid var(--gold);border-radius:12px;background:var(--surface-warm)}
-  .pt-thumb :global(img){display:block;width:64px;height:auto;border:1px solid var(--n-border);border-radius:5px;background:#fff}
+  .print-tease{display:grid;grid-template-columns:64px 1fr;gap:.85rem;align-items:center;margin:0 0 1.25rem;padding:.75rem .9rem;border:1px solid color-mix(in srgb,var(--accent) 22%,var(--line));border-radius:var(--r-lg);background:var(--surface-tint)}
+  .pt-thumb :global(img){display:block;width:64px;height:auto;border:1px solid var(--line-soft);border-radius:var(--r-xs);background:#fff;box-shadow:var(--shadow-sm)}
   .pt-body p{margin:0}
-  .pt-k{font-size:.8125rem;font-weight:700;text-transform:uppercase;letter-spacing:.06em;color:var(--ink)}
-  .pt-t{font-family:Sora,"Sora Fallback",sans-serif;font-weight:700;font-size:.98rem;line-height:1.3;color:var(--ink-strong);margin:.1rem 0 .35rem!important}
+  .pt-k{font-size:.72rem;font-weight:600;text-transform:uppercase;letter-spacing:.09em;color:var(--focus)}
+  .pt-t{font-family:Sora,"Sora Fallback",sans-serif;font-weight:600;letter-spacing:-.015em;font-size:.98rem;line-height:1.3;color:var(--ink-strong);margin:.1rem 0 .35rem!important}
   .pt-act{display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .9rem}
-  .pt-btn{display:inline-flex;align-items:center;min-height:44px;padding:0 .95rem;border-radius:8px;background:var(--focus);color:#fff;font-weight:700;font-size:.9rem;text-decoration:none}
-  .pt-btn:hover{box-shadow:0 4px 10px rgba(0,74,127,.25)}
-  /* The dark theme turns --focus into a light green; white text on it fails contrast. Same green as every other PDF button (site-chrome design.ts). */
-  :global(html[data-theme=dark]) .pt-btn{background:#007749;color:#fff}
-  .pt-more,.pt-plain a{display:inline-flex;align-items:center;min-height:44px;font-weight:700}
+  .pt-btn{display:inline-flex;align-items:center;min-height:44px;padding:0 .95rem;border-radius:var(--r-md);background:var(--brand);color:#fff;font-weight:600;font-size:.9rem;text-decoration:none}
+  .pt-btn:hover{box-shadow:var(--shadow-md)}
+  .pt-more,.pt-plain a{display:inline-flex;align-items:center;min-height:44px;font-weight:600}
   .pt-plain{margin:-.5rem 0 1.25rem}
   .pt-btn:focus-visible{outline:3px solid var(--focus);outline-offset:2px}
 </style>

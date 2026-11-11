@@ -18,16 +18,16 @@ const id = `trending-${place}`;
 )}
 <style>
   .trending{counter-reset:trend}
-  .trending h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.15rem;margin:0 0 .4rem;padding-bottom:.4rem;border-bottom:3px solid var(--ink-strong)}
+  .trending h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.15rem;font-weight:600;letter-spacing:-.02em;margin:0 0 .4rem;padding-bottom:.6rem;border-bottom:1px solid var(--line)}
   .trending ol{list-style:none;margin:0;padding:0}
   .trending li{counter-increment:trend;display:grid;grid-template-columns:1.6rem minmax(0,1fr);gap:.5rem;align-items:baseline;padding:.65rem 0;border-bottom:1px solid var(--line-soft)}
-  .trending li::before{content:counter(trend);font-family:Sora,"Sora Fallback",sans-serif;font-weight:800;font-size:1.15rem;line-height:1;color:var(--focus)}
-  .trending a{font-weight:700;line-height:1.35;color:var(--ink-strong);text-decoration:none}
-  .trending a:hover,.trending a:focus-visible{text-decoration:underline}
+  .trending li::before{content:counter(trend);font-family:Sora,"Sora Fallback",sans-serif;font-weight:600;font-size:1.05rem;line-height:1;color:var(--muted);font-variant-numeric:tabular-nums}
+  .trending a{font-weight:600;line-height:1.35;color:var(--ink-strong);text-decoration:none}
+  .trending a:hover,.trending a:focus-visible{color:var(--accent)}
   .inline{margin:2.25rem 0 0}
   @media (min-width:1100px){ .inline{display:none} }
   .side{margin:0 0 24px}
-  .side h2{font-size:15px;border-bottom-width:2px}
+  .side h2{font-size:15px}
   .side li{grid-template-columns:22px minmax(0,1fr);gap:9px;padding:9px 0}
   .side li::before{font-size:14px}
   .side a{font-size:14px;line-height:1.4}

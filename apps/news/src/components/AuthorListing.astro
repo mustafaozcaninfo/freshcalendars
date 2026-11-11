@@ -44,12 +44,12 @@ const beats = d.categories.map(({ id }) => ({ id, name: categoryNames.get(id) ??
 </ListingView>
 <style>
   .profile{color:var(--ink-strong);margin:20px 0 1rem}
-  .profile-card{display:grid;grid-template-columns:88px minmax(0,1fr);gap:18px;padding:20px;background:var(--surface-soft);border:1px solid var(--line);border-radius:10px;align-items:start}
+  .profile-card{display:grid;grid-template-columns:88px minmax(0,1fr);gap:18px;padding:20px;background:var(--surface-soft);border:1px solid var(--line-soft);border-radius:var(--r-xl);align-items:start}
   .profile-card p{font-size:17px;line-height:1.65;max-width:600px;margin:0;color:var(--ink)}
   .profile-card .beats,.profile-card .contact{grid-column:2;font-size:13px;color:var(--ink-strong)}
   .profile-card.without-avatar{grid-template-columns:minmax(0,1fr)}.profile-card.without-avatar .same-as{grid-column:1}
-  .avatar{width:88px;height:88px;border-radius:12px;margin:0;object-fit:cover;grid-row:span 2}
+  .avatar{width:88px;height:88px;border-radius:var(--r-lg);margin:0;object-fit:cover;grid-row:span 2}
   .same-as{display:flex;flex-wrap:wrap;gap:.75rem;list-style:none;padding:0;margin:0;grid-column:2;font-size:13px}
-  .latest{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.2rem;margin:1.5rem 0 0}
+  .latest{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.25rem;font-weight:600;letter-spacing:-.025em;margin:1.75rem 0 0}
   @media(max-width:700px){.profile-card{grid-template-columns:60px minmax(0,1fr);gap:12px;padding:14px}.avatar{width:60px;height:60px}.profile-card p{font-size:16px}.same-as,.profile-card .beats,.profile-card .contact{grid-column:1/-1}}
 </style>

@@ -40,19 +40,19 @@ const inDays = (n: number) => (n === 0 ? "Today" : n === 1 ? "Tomorrow" : `In ${
   </section>
 )}
 <style>
-  .keydates{margin:1.5rem 0;padding:1rem 1rem .6rem;background:var(--surface-soft);border:1px solid var(--line);border-radius:8px}
-  .keydates h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.05rem;margin:0 0 .7rem;color:var(--ink-strong)}
+  .keydates{margin:1.5rem 0;padding:1rem 1rem .6rem;background:var(--surface-soft);border:1px solid var(--line-soft);border-radius:var(--n-radius)}
+  .keydates h2{font-family:Sora,"Sora Fallback",sans-serif;font-size:1.05rem;font-weight:600;letter-spacing:-.02em;margin:0 0 .7rem;color:var(--ink-strong)}
   .keydates ol{list-style:none;margin:0;padding:0;display:grid;gap:.5rem}
-  .keydates li{display:grid;grid-template-columns:3.6rem minmax(0,1fr) auto;gap:.75rem;align-items:center;padding:.55rem .65rem;background:#fff;border:1px solid var(--line);border-radius:6px}
+  .keydates li{display:grid;grid-template-columns:3.6rem minmax(0,1fr) auto;gap:.75rem;align-items:center;padding:.55rem .65rem;background:var(--paper);border:1px solid var(--line-soft);border-radius:var(--r-md)}
   /* Narrow phones: the add-to-calendar button drops under the event, so a long event name keeps its words whole. */
   @media (max-width:380px){ .keydates li{grid-template-columns:3.6rem minmax(0,1fr)} .add{grid-column:2;justify-self:start} }
-  .d{display:grid;text-align:center;font-size:.8125rem;text-transform:uppercase;letter-spacing:.05em;color:var(--ink)}
+  .d{display:grid;text-align:center;font-size:.8125rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
   .d b{font-family:Sora,"Sora Fallback",sans-serif;font-size:.95rem;letter-spacing:0;text-transform:none;color:var(--ink-strong)}
   .w{display:grid;gap:.1rem;line-height:1.3;color:var(--ink-strong);font-weight:600}
   .w a{color:var(--ink-strong);text-decoration:none}
   .w a:hover,.w a:focus-visible{text-decoration:underline}
-  .in{font-size:.875rem;font-weight:700;color:var(--focus)}
-  .add{display:inline-flex;align-items:center;min-height:44px;padding:0 .7rem;border:1px solid var(--line);border-radius:6px;font-size:.875rem;font-weight:700;white-space:nowrap;text-decoration:none;color:var(--ink-strong)}
-  .add:hover,.add:focus-visible{border-color:var(--focus);color:var(--focus)}
+  .in{font-size:.875rem;font-weight:600;color:var(--focus)}
+  .add{display:inline-flex;align-items:center;min-height:44px;padding:0 .7rem;border:1px solid var(--line);border-radius:var(--r-sm);font-size:.875rem;font-weight:600;white-space:nowrap;text-decoration:none;color:var(--ink-strong);box-shadow:var(--shadow-xs)}
+  .add:hover,.add:focus-visible{background:var(--surface-soft)}
   .all{margin:.7rem 0 .2rem;font-size:.9rem;font-weight:700}
 </style>

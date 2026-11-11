@@ -309,8 +309,11 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
   const fontOut = path.join(DIST_SITE, "fonts");
   await fs.mkdir(fontOut, { recursive: true });
   const fontFiles: { file: string; pkg: string }[] = [
-    { file: "sora-latin-700-normal.woff2", pkg: "@fontsource/sora" },
+    { file: "sora-latin-600-normal.woff2", pkg: "@fontsource/sora" },
     { file: "manrope-latin-400-normal.woff2", pkg: "@fontsource/manrope" },
+    { file: "manrope-latin-600-normal.woff2", pkg: "@fontsource/manrope" },
+    // The 700 files stay for pages built before the 2026-11 refresh (cached HTML still asks for them).
+    { file: "sora-latin-700-normal.woff2", pkg: "@fontsource/sora" },
     { file: "manrope-latin-700-normal.woff2", pkg: "@fontsource/manrope" },
     { file: "source-sans-3-latin-400-normal.woff2", pkg: "@fontsource/source-sans-3" },
     { file: "source-sans-3-latin-700-normal.woff2", pkg: "@fontsource/source-sans-3" },

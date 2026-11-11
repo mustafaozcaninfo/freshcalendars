@@ -31,10 +31,10 @@ const { items } = Astro.props;
   .related{container-type:inline-size}
   .related ul{list-style:none;margin:0;padding:0;display:grid;gap:1rem}
   .related a{display:grid;grid-template-columns:120px minmax(0,1fr);grid-template-rows:auto 1fr;column-gap:.85rem;color:var(--ink-strong);text-decoration:none}
-  .related a:hover .t,.related a:focus-visible .t{text-decoration:underline}
-  .related :global(img){grid-row:1 / 3;display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:4px;background:var(--wash)}
-  .t{display:block;font-weight:700;line-height:1.3;font-size:.95rem}
-  .related time{display:block;font-size:.875rem;color:var(--ink);margin-top:.2rem}
+  .related a:hover .t,.related a:focus-visible .t{color:var(--accent)}
+  .related :global(img){grid-row:1 / 3;display:block;width:100%;height:auto;aspect-ratio:16/9;object-fit:cover;border-radius:var(--r-md);background:var(--wash)}
+  .t{display:block;font-weight:600;line-height:1.3;font-size:.95rem;transition:color .15s}
+  .related time{display:block;font-size:.875rem;color:var(--muted);margin-top:.2rem}
   @container (min-width:480px){
     .related ul{grid-template-columns:repeat(2,minmax(0,1fr));gap:1.25rem}
     .related a{display:block}
