@@ -54,7 +54,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve?"
-related: [free-christmas-parking-2026-uk-towns-council-dates, uk-school-christmas-holidays-2026-break-up-dates-by-council, uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed]
+related: [free-christmas-parking-2026-uk-towns-council-dates, uk-school-christmas-holidays-2026-break-up-dates-by-council, uk-parliament-christmas-recess-2026-december-17-return-january-5]
 downloads:
   - group: "UK Christmas and New Year Leave Planner printables"
     title: "UK Christmas and New Year Leave Planner, 2026 to 2027"
