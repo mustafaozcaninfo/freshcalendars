@@ -72,7 +72,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule, ottawa-senators-schedule-december-2026-game-times-tv-printable]
+related: [nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, chicago-blackhawks-schedule-december-2026-game-times-tv-printable, ottawa-senators-schedule-december-2026-game-times-tv-printable]
 assets:
   overlay: true
   kicker: "NHL Global Series · Helsinki, Nov. 12"

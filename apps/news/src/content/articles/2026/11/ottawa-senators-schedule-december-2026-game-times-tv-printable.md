@@ -104,7 +104,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nhl-global-series-2026-helsinki-dusseldorf-dates-start-times, montreal-canadiens-schedule-december-2026-game-times-tv-printable, toronto-maple-leafs-schedule-december-2026-game-times-tv-printable]
+related: [nhl-global-series-2026-helsinki-dusseldorf-dates-start-times, montreal-canadiens-schedule-december-2026-game-times-tv-printable, chicago-blackhawks-schedule-december-2026-game-times-tv-printable]
 draft: false
 ---
 
