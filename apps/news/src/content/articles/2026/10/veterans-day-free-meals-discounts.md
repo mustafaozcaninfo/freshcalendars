@@ -1,9 +1,9 @@
 ---
-title: "Veterans Day Free Meals 2026: 101 Chains and a Printable List"
-description: "Veterans Day free meals 2026: 101 chains confirmed for Wed., Nov. 11, plus 30 discounts and deals that run into December. Free printable cheat sheet."
+title: "Veterans Day Free Meals 2026: 167 Chains, Hours and Printable List"
+description: "Veterans Day free meals 2026: 167 chains for Wed., Nov. 11, sorted by the hour each offer ends, plus 43 discounts, drive-thru picks and a printable list."
 type: update
 publishedAt: "2026-10-20T16:55:00-04:00"
-updatedAt: "2026-11-08T13:00:00-05:00"
+updatedAt: "2026-11-11T15:23:00-05:00"
 authors: [christina-gerland]
 category: holidays
 shop: veterans-day
@@ -13,7 +13,7 @@ assets:
   overlay: true
   kicker: "Veterans Day · Wed., Nov. 11, 2026"
   date: "2026-11-11"
-  card: { top: "Free meals confirmed at", big: "101 chains", bottom: "Plus 30 discounts; bring proof of service" }
+  card: { top: "Free meals confirmed at", big: "167 chains", bottom: "Plus 43 discounts; bring proof of service" }
 hero:
   src: ../../../../assets/news/veterans-day-free-meals-discounts/veterans-day-free-meals-discounts.webp
   alt: "Veterans Day free meals 2026: a stack of pancakes with powdered sugar on a blue plate beside fruit and a red coffee mug"
@@ -27,13 +27,19 @@ hero:
     author: "Kritzolina"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Kritzolina"
 summary:
-  - "101 chains offer free Veterans Day meals on Wednesday, Nov. 11, 2026, including Applebee's, Cracker Barrel, Denny's, Golden Corral, International House of Pancakes (IHOP), Olive Garden, Texas Roadhouse and Wendy's, and 30 more offer discounts."
+  - "167 chains offer free Veterans Day meals on Wednesday, Nov. 11, 2026, including Applebee's, Cracker Barrel, Denny's, Golden Corral, International House of Pancakes (IHOP), Krispy Kreme, Olive Garden, Texas Roadhouse and Wendy's, and 43 more offer discounts."
+  - "Fifteen free offers stop by 4 p.m. local time: Denny's ends at noon, Little Caesars and the Texas Roadhouse voucher handout at 2 p.m.; Golden Corral starts at 4 p.m."
   - "Offers reach past the day: Texas Roadhouse's voucher runs through May 31, 2027, Aspen Creek Grill's through Dec. 24, BJ's coupon through Dec. 31, Great Clips cards through Dec. 4, and Bar Louie and Outback also serve on Nov. 10."
   - "Nearly every offer requires proof of service, most are dine-in only and for the veteran alone, and drinks, tax and tip are usually extra."
-  - "National parks are free to enter on Nov. 11 for U.S. citizens and residents, and veterans can get a free lifetime parks pass any day."
 faq:
   - q: "What restaurants give free meals to veterans on Nov. 11, 2026?"
-    a: "Confirmed so far for 2026, according to Military.com's list updated Nov. 8, the Department of Veterans Affairs and the chains' own announcements, 101 chains offer a free meal, drink or side, among them Applebee's, Buffalo Wild Wings, California Pizza Kitchen, Chili's, Denny's, Golden Corral, IHOP, Little Caesars, Olive Garden, Outback Steakhouse, Red Lobster, Red Robin, Shake Shack, Starbucks, Texas Roadhouse, TGI Fridays and Wendy's. Krispy Kreme offered free food in 2025 and has not announced 2026 terms."
+    a: "According to Military.com's list updated Nov. 11, the Department of Veterans Affairs and the chains' own announcements, 167 chains offer a free meal, drink or side, among them Applebee's, Buffalo Wild Wings, California Pizza Kitchen, Chili's, Cracker Barrel, Denny's, Golden Corral, IHOP, Krispy Kreme, Little Caesars, Olive Garden, Outback Steakhouse, Red Lobster, Red Robin, Shake Shack, Starbucks, Texas Roadhouse, TGI Fridays and Wendy's."
+  - q: "What time do Veterans Day free meals end?"
+    a: "It depends on the chain. In Military.com's list, Denny's serves its free Grand Slam from 5 a.m. to noon, Little Caesars and the Texas Roadhouse voucher handout run 11 a.m. to 2 p.m., Logan's Roadhouse ends at 3 p.m., Sizzler at 4 p.m. and TGI Fridays at 7 p.m. Golden Corral starts at 4 p.m. and runs to close. All times are local."
+  - q: "Can I get a Veterans Day free meal at the drive-thru or to go?"
+    a: "At some chains. Wendy's, Krispy Kreme, Caribou Coffee and Good Times list the drive-thru; Dickey's, Hacienda, Macayo's and Bubbakoo's Burritos allow carryout or takeout; Village Inn and Bakers Square take pick-up orders with code VETERANS26. Most sit-down chains are dine-in only."
+  - q: "Does Chick-fil-A give free meals on Veterans Day?"
+    a: "Chick-fil-A has no chain-wide military deal, according to Military.com. Each restaurant is run by a local owner who decides whether to make an offer, so deals vary by location. Call your restaurant."
   - q: "Is Little Caesars giving free pizza on Veterans Day 2026?"
     a: "Yes. Little Caesars says veterans and active members of the United States military can get a free lunch combo of four slices of Detroit-Style Deep Dish pepperoni pizza and a 20-ounce Pepsi product between 11 a.m. and 2 p.m. local time on Nov. 11, 2026, while supplies last. Show proof of service in store; the offer is not redeemable online, in the app or for delivery."
   - q: "Does Chipotle give a free entrée on Veterans Day 2026?"
@@ -41,7 +47,7 @@ faq:
   - q: "Which Veterans Day deals can I use after Nov. 11?"
     a: "Texas Roadhouse hands out meal vouchers from 11 a.m. to 2 p.m. on Nov. 11 that Military.com lists as good through May 31, 2027. Great Clips cards for a free haircut are redeemable through Dec. 4, 2026. Aspen Creek Grill's $15 voucher can be used Nov. 11 through Dec. 24, BJ's Restaurant & Brewhouse gives a free appetizer coupon for Nov. 12 through Dec. 31, Freddy's combo meal cards and Hoss's $10-off-$40 voucher run through Nov. 25, and Twin Peaks takes 20% off all November."
   - q: "Do spouses get free meals on Veterans Day?"
-    a: "Most free meals are for the veteran or service member only. Exceptions in the 2026 lists: Bonefish Grill includes families, Military.com lists Starbucks as including military spouses in its free coffee, Bombshells gives family members 20% off, and Eat'n Park takes 10% off the whole party in November."
+    a: "Most free meals are for the veteran or service member only. Exceptions in the 2026 lists: Bonefish Grill includes families, Military.com lists Starbucks and Caribou Coffee as including military spouses in their free coffee, Wawa includes families in its free coffee, Bombshells gives family members 20% off, and Eat'n Park takes 10% off the whole party in November."
   - q: "Is McDonald's doing anything for Veterans Day 2026?"
     a: "McDonald's does not appear on Military.com's 2025 or 2026 Veterans Day lists, and it has not announced a national offer. Some franchise owners run local deals, so ask your restaurant."
   - q: "What ID do I need for Veterans Day discounts?"
@@ -73,7 +79,7 @@ sources:
   - title: "2026 Veterans Day Free Meals and Restaurant Deals and Discounts"
     url: "https://www.military.com/veterans-day/restaurants-veterans-day-military-discounts.html"
     publisher: "Military.com"
-    date: "2026-11-08"
+    date: "2026-11-11"
   - title: "Free Veterans Day Meal"
     url: "https://www.chilis.com/restaurant-events/veterans-day"
     publisher: "Chili's Grill & Bar"
@@ -154,34 +160,93 @@ related: [veterans-day-2026-wednesday-november-11, veteran-id-card-how-to-prove-
 downloads:
   - group: "Veterans Day printables"
     title: "Veterans Day Free Meals Cheat Sheet, 2026"
-    description: "The free meals and discounts confirmed for 2026 as of Nov. 8, plus the chain still to announce, tagged for dine-in, ID, family, hours and later use, and a wallet card of IDs."
+    description: "The 167 free meals and 43 discounts confirmed for 2026 as of Nov. 11, tagged for dine-in, ID, family, hours and later use, and a wallet card of IDs."
     preview: ../../../../assets/news/veterans-day/veterans-day-free-meals-cheat-sheet-2026.png
     alt: "Veterans Day free meals cheat sheet 2026 printable listing restaurant offers with dine-in and ID tags and a wallet card of accepted proof of service"
     pdf: "/news/downloads/veterans-day/veterans-day-free-meals-cheat-sheet-2026.pdf"
     png: "/news/downloads/veterans-day/veterans-day-free-meals-cheat-sheet-2026.png"
-    pages: 2
+    pages: 3
 draft: false
 ---
 
-<p class="callout"><b>Checked Nov. 8, 2026.</b> The list now has 101 free meals and 30 discounts, from Military.com's list updated Nov. 8, the Department of Veterans Affairs, the American Legion and the chains' own announcements. Wendy's, Cracker Barrel, TGI Fridays, Logan's Roadhouse, Black Angus and Hy-Vee are among the 67 offers added.</p>
+**Veterans and active-duty service members can eat free at 167 restaurant chains on Veterans Day, Wednesday, Nov. 11, 2026, and 43 more offer discounts.** That is the count from Military.com's list updated at 6:02 a.m. ET on Nov. 11, the Department of Veterans Affairs, the American Legion and the chains' own announcements. The big names are in: Applebee's, Denny's, Red Lobster, Olive Garden, International House of Pancakes (IHOP), Little Caesars, Texas Roadhouse, Cracker Barrel, Krispy Kreme and Wendy's, which gives a free Dave's Single this year instead of last year's breakfast combo. Bring proof of service, and watch the clock: 15 of the free offers stop by 4 p.m. local time.
 
-**Veterans and active-duty service members can eat free at 101 restaurant chains on Veterans Day, Wednesday, Nov. 11, 2026, so far, and 30 more offer discounts.** That is the count from Military.com's list updated Nov. 8, the Department of Veterans Affairs, the American Legion and the chains' own announcements. Most of the big names are in: Applebee's, Denny's, Red Lobster, Olive Garden, International House of Pancakes (IHOP), Little Caesars, Texas Roadhouse, Cracker Barrel and Wendy's, which gives a free Dave's Single this year instead of last year's breakfast combo. Krispy Kreme offered free food last year and has not announced yet. Great Clips has now announced free haircuts and cards for 2026. Below are the 2026 free meals, the discounts, the offers you can use on another day, the fine print that trips people up, and a one-page cheat sheet to print.
+On this page:
 
-[Jump to the full list of free meals](#free-meals-confirmed-for-2026)
+- [Free meals by time of day](#veterans-day-free-meals-by-time-of-day): what ends at noon, 2 p.m. and 4 p.m., and what starts at dinner
+- [Free meals without dining in](#free-meals-you-can-get-at-the-drive-thru-or-to-go): drive-thru, carryout and pick-up
+- [How to check the restaurant near you](#how-to-check-a-veterans-day-free-meal-near-you)
+- [All 167 free meals](#free-meals-confirmed-for-2026) and [43 discounts](#discounts-and-deals-with-a-purchase), A to Z
+- [Deals that last past Nov. 11](#deals-you-can-use-before-or-after-nov-11), [stores, haircuts and parks](#stores-haircuts-and-parks) and the [printable cheat sheet](#print-the-cheat-sheet)
+
+## Veterans Day free meals by time of day
+
+Many offers have a set window, and the windows are short. We sorted every offer in the lists that states its hours by the time it ends; all times are local, on Nov. 11.
+
+| Window | Chain and offer |
+|---|---|
+| Opening to 11 a.m. | Shoney's, free Legendary Breakfast Bar |
+| Breakfast hours | Krystal, free Sausage Biscuit or Sausage & Gravy Biscuit |
+| 6 to 10 a.m. | Hy-Vee, free breakfast |
+| 5 a.m. to noon | Denny's, free Original Grand Slam |
+| 11 a.m. to 2 p.m. | Little Caesars, free lunch combo; Texas Roadhouse, voucher handout (the meal itself can wait until May 31, 2027) |
+| 11 a.m. to 3 p.m. | Logan's Roadhouse, Chuck-A-Rama, Parry's Pizza |
+| Noon to 3 p.m. | Smoothie King, free 20-ounce smoothie |
+| Until 4 p.m. | Sizzler, Bubba's 33, Bad Daddy's Burger Bar, Colton's Steak House & Grill, Granite City Food & Brewery and Tuscan Brands (reservations required); 99 Restaurants with an entrée purchase |
+| 11 a.m. to 5 p.m. | Friendly's, free burger, fries and a beverage |
+| 11 a.m. to 6 p.m. | Aspen Creek Grill, $15 voucher pick-up |
+| 11 a.m. to 7 p.m. | TGI Fridays, free meal from a select menu |
+| 4 p.m. to close | Golden Corral, Military Appreciation Night; Perry's Steakhouse & Grille with a full-price entrée |
+| 4 to 10 p.m. | Cattlemens, free sirloin dinner (California) |
+| All day | Bob Evans, Chevys Fresh Mex, Duffy's Sports Grill, Hard Rock Cafe, Main Event, Seven Doors Kitchen & Cocktails, Wings and Rings |
+
+A full day is possible. Breakfast at Denny's or IHOP, a stop at Texas Roadhouse or Little Caesars between 11 a.m. and 2 p.m., and Golden Corral after 4 p.m. cover three meals, with free coffee at Starbucks, Dunkin', Wawa or Caribou Coffee in between. Chains with no hours in the table above, such as Applebee's, Chili's, Olive Garden and Red Lobster, did not publish a window; expect normal opening hours and call to confirm.
+
+## Free meals you can get at the drive-thru or to go
+
+Most sit-down offers are dine-in only. These are the ones whose terms allow something else:
+
+| How | Chain and offer |
+|---|---|
+| Drive-thru | Wendy's (free Dave's Single), Krispy Kreme (free doughnut and small coffee), Caribou Coffee (free large coffee or Cold Brew), Good Times (free Deluxe Cheeseburger Combo) |
+| Carryout or takeout | Dickey's Barbecue Pit (free pulled pork sandwich), Hacienda (free large wet burrito), Macayo's (free chimichanga), Bubbakoo's Burritos (free burrito or bowl, ordered in the restaurant), Buffalo Wild Wings (10 free boneless wings and fries at GO locations or walk-in) |
+| Online pick-up with a code | Village Inn and Bakers Square (free 2-2-2 Breakfast, code VETERANS26), Fazoli's (free spaghetti, code VET26) |
+| In an app | Pilot and Flying J (free sandwich and coffee or fountain drink in the Pilot app, verified through ID.me) |
+| Walk-up counter, no purchase | Starbucks, Dunkin', Wawa, Circle K, Casey's, Sheetz, Scooter's Coffee, Biggby Coffee and Charleys Cheesesteaks |
+
+Delivery apps are out almost everywhere. Shake Shack, Little Caesars, Chipotle and Dunkin' say in their terms that the offer does not work in the app or for delivery.
+
+## How to check a Veterans Day free meal near you
+
+No national list can say whether the restaurant on your street takes part. Military.com puts it this way: "Not all franchise locations participate in their national chain's Veterans Day programs." Three steps settle it:
+
+1. Find the chain in the A to Z table below and note its window and its ID rule.
+2. Open the chain's own store locator, pick your restaurant and call. Ask two things: is this location taking part today, and until what time.
+3. Bring one accepted proof of service (the list is under [the fine print](#the-fine-print-that-trips-people-up)) and a backup plan from the same table in case of a long wait.
+
+Two chains people search for are not on the lists. Chick-fil-A has no chain-wide deal; each restaurant's local owner decides, according to Military.com. McDonald's has not announced a national offer either, and some franchise owners run their own.
 
 ## Free meals confirmed for 2026
 
-All on Nov. 11 unless noted, at participating locations, from Military.com's 2026 list and the chains' own pages:
+All on Nov. 11 unless noted, at participating locations, from Military.com's 2026 list (updated Nov. 11) and the chains' own pages:
 
 | Restaurant | Offer | Fine print |
 |---|---|---|
 | 110 Grill | Free lunch from a select menu | Veterans and active duty, **select menu** |
 | 151 Coffee | One free drink, any size | **Military ID or proof of service** |
+| All American Steakhouse | Free sandwich or burger | **Dine-in only** |
+| Another Broken Egg Cafe | Free meal | **Dine-in only, military ID**, one per person, no purchase needed |
 | Applebee's | Free meal from a limited menu | **Dine-in only**, participating locations |
 | Aspen Creek Grill | $15 voucher | **Pick up 11 a.m. to 6 p.m.**; use Nov. 11 through Dec. 24, dine-in, no alcohol |
+| Backyard Taco | Free meal up to $15 | **Valid military ID**, any location |
+| Bad Daddy's Burger Bar | Free BD's All American burger and a classic side | **11 a.m. to 4 p.m., dine-in only, military ID**; not for online or delivery orders |
+| Bakers Square | Free 2-2-2 Breakfast | **Dine-in or pick-up, military ID**; code VETERANS26 for online pick-up orders |
 | Bandana's BBQ | Free pulled pork sandwich and a side | **No substitutions** |
 | Bar Louie | Free burger (not the Big Louie) | **Nov. 10 and 11, dine-in, ID** |
+| Beef 'O' Brady's | Free Build Your Own Cheeseburger and fries |  |
+| Bibibop Asian Grill | One free fountain drink | **Nov. 9 through 13, in store, military ID**; no purchase needed |
 | Biggby Coffee | Free 16-ounce hot or iced coffee | |
+| Billy Sims Barbecue | Free pulled pork sandwich, one regular side and a regular drink | **Dine-in only**; mention the offer and show a military or veteran card or apparel |
 | Biscuit Belly | Free breakfast sandwich and coffee or fountain drink | **Dine-in only** |
 | BJ's Restaurant & Brewhouse | Free Chocolate Chunk Pizookie | **Dine-in**; plus a free appetizer coupon for Nov. 12 through Dec. 31 |
 | Black Angus | Free 6-ounce sirloin meal | **Families 15% off** |
@@ -189,105 +254,164 @@ All on Nov. 11 unless noted, at participating locations, from Military.com's 202
 | Bob Evans | Free meal from an 11-item menu, served all day | **Dine-in only, proof of service**; plus a coupon for free biscuits and sausage gravy on a later visit (Bob Evans) |
 | Bombshells | Free appetizer, entrée or dessert | Texas and Colorado locations; **family members 20% off** |
 | Bonefish Grill | Free Bang Bang Shrimp and a nonalcoholic drink | **Valid ID**; veterans, active duty **and families** |
+| Brass Tap | Free All-American Pub Burger and fries |  |
 | Bravo! Italian Kitchen | Free pasta | |
 | Brio Italian Grille | Free pasta entrée | |
+| Bubbakoo's Burritos | Free burrito or bowl, chicken or ground beef | **Dine-in or takeout, ordered in the restaurant; military ID**; add-ons extra |
+| Bubba's 33 | Free lunch from a select menu | **Until 4 p.m.** |
 | Buca di Beppo | Free lunch entrée | **40 participating locations**, one per guest |
 | Buffalo Wild Wings | 10 free boneless wings and fries | **Dine-in, GO or walk-in; valid ID** |
 | California Pizza Kitchen | Free entrée from a special menu and a nonalcoholic drink | |
+| Cantina Laredo | Free entrée | **Up to $30**, participating locations |
+| Caribou Coffee | Free large coffee or Cold Brew | **In store or drive-thru, valid ID**; veterans, service members **and spouses**; not in the app |
 | Carolina Ale House | Free half rack of ribs | **North Carolina, Florida and Tennessee only** |
 | Casey's | Free coffee or fountain drink and a car wash | Car wash **where available** |
 | Cattlemens | Free sirloin dinner | **California only, 4 to 10 p.m.**, or an emailed certificate for Nov. 12-18 |
 | Charleys Cheesesteaks | Free regular Gourmet Fry | **Military ID**, no purchase needed |
 | Chelo's | Free meal | **Select menu** |
+| Chevys Fresh Mex | Free 2-Item Combo | All day |
 | Chili's | Free meal from a limited Veterans Day menu | **Dine-in only, valid only on Nov. 11**; drinks and tip not included; no substitutions (Chili's) |
+| Chuck-A-Rama | Free lunch | **11 a.m. to 3 p.m., military ID** |
 | Circle K | Free medium hot or iced coffee | **Valid military ID**, no purchase required, participating U.S. locations (per the Department of Veterans Affairs) |
+| City Barbecue | Free sandwich, side and drink | **Dine-in only** |
 | Claim Jumper | Free meal from a select menu | |
+| Cody's Original Roadhouse | Free half rack of ribs or grilled BBQ chicken breast meal |  |
+| Colton's Steak House & Grill | Free meal from a select menu | **11 a.m. to 4 p.m., dine-in, military ID** |
 | Common Man | Free entrée | |
 | Cotton Patch Cafe | Free regular chicken fried steak or chicken fried chicken | **Dine-in only, military ID** |
 | Cracker Barrel | Free Sunrise Pancake Special | |
+| Crooked Pint Ale House | One free select menu item | **Dine-in only, proof of service**; service member only |
 | Denny's | Free Original Grand Slam | **5 a.m. to noon, military ID** |
 | Dickey's Barbecue Pit | Free pulled pork sandwich | **Dine-in or carryout** |
+| Dog Haus | Any entrée free | **Dine-in only, proof of service**; one per veteran, not in the Haus Rewards app |
+| Duffy's Sports Grill | Free meal, all day | **Dine-in only, ID** |
 | Dunkin' | Free donut | **In store only**, one per guest, not in the app (per Military.com) |
+| East Coast Wings + Grill | Free meal from a select menu | **Dine-in only** |
 | Eddie Merlot's | Free prime cheeseburger and fries | |
 | El Chico | Free entrée | **Up to $25** |
 | Eureka! | Free burger | |
+| Famous Dave's | Free Chopped Pork Sandwich |  |
 | Farmer Boys | Free Big Cheese Burger | **Dine-in only**, one per member, no delivery or mobile orders |
 | Fazoli's | Free spaghetti | **Code VET26**, no purchase needed |
+| Food City | Free hot bar meal and a drink | **Up to $11 total; military ID and ValuCard**, one per ID |
+| Frank Pepe Pizzeria | Free small cheese pizza | **Dine-in, valid ID** |
 | Freddy's Frozen Custard & Steakburgers | Free combo meal card | **Valid military ID**; card good through Nov. 25 (Freddy's) |
+| Free Rein Coffee Company | One free small drip coffee |  |
+| Friendly's | Free Veterans Burger with cheese, fries and a beverage | **11 a.m. to 5 p.m., dine-in only**, military ID or honorable discharge card |
+| Frisch's Big Boy | Free Big Boy, fries and drink | **Dine-in only, military ID** |
 | Gold Star Chili | Free meal | **Up to $12 value** |
 | Golden Corral | Free "thank you" meal, Military Appreciation Night | **Dine-in, 4 p.m. to close**; [Military Appreciation Night details](/news/golden-corral-military-appreciation-night-2026/) |
+| Good Times | Free Deluxe Cheeseburger Combo | **In store or drive-thru, military ID** |
+| Granite City Food & Brewery | Free lunch | **11 a.m. to 4 p.m.**, code VETERANS26 |
+| Green Mill Restaurant and Bar | One free select menu item | **Dine-in only, proof of service**; service member only |
+| Greene Turtle | Free meal up to $15 | **Dine-in only, military ID**, select locations |
+| Guy Fieri's Kitchen | One free entrée | **Three participating restaurants** |
 | Hacienda | Free large wet burrito | **Dine-in or carryout** |
+| Hamburger Stand | Free hamburger, small fries and small soda |  |
 | Hard Rock Cafe | Free Classic Smash Burger, all day | Can be combined with its 15% military discount |
+| Hawaiian Bros | Free Classic Plate Lunch | **Order in person, military or veteran ID** |
 | Hickory River Smokehouse | Free meal | |
+| Hickory Tavern | Free entrée |  |
 | Hof's Hut | Free Hofburger or pancakes, plus a $10 card | $10 card good **Nov. 27 to Dec. 6** |
 | Hooters | Free meal from a special Veterans Day menu | **With a beverage purchase** |
 | Hopdoddy | Free classic burger | |
 | Hoss's Steak & Sea House | Free soup, salad, bread, nacho and dessert bar with iced tea | **Dine-in only**; plus a $10-off-$40 voucher good through Nov. 25 |
+| Hot Dog on a Stick | Free 16-ounce Original Lemonade | **In store, military ID**, no purchase needed |
 | Hurricane Grill & Wings | Free entrée | Choice of several entrées |
 | Hy-Vee | Free breakfast | **6 to 10 a.m.**; 15% off groceries with code VETS2026 |
 | IHOP | Free Red, White and Blueberry Pancake Combo | **Dine-in only, ID or proof of service** |
 | In-N-Out Burger | Free burger, fries and drink, plus a Veterans Day decal | **Proof of service**; Reserve and National Guard members included |
+| Iron Hill Brewery and Restaurant | Free handheld or burger and a nonalcoholic drink |  |
 | J. Christopher's | Free meal | |
+| Jefferson's Restaurant | Free entrée | **Dine-in only**, select locations |
 | Jeremiah's Italian Ice | Free small treat | |
 | Keke's Breakfast Cafe | Free Classic Two Egg Combo | **No purchase needed** |
+| Kolache Factory | Free kolache and a 12-ounce coffee | **Valid ID** |
+| Krispy Kreme | Free doughnut of choice and a small brewed coffee | **In shop or drive-thru**, one per guest |
+| Krystal | Free Sausage Biscuit or Sausage & Gravy Biscuit | **Breakfast hours only, in store, military ID**; not in the app |
 | Lazy Dog Restaurants | Free Fireside Favorites entrée, personal dessert and soda | Six entrées to choose from; retirees, Reserve and Guard included |
 | Little Caesars | Free lunch combo: four slices of Detroit-Style Deep Dish pepperoni pizza and a 20-ounce Pepsi product | **11 a.m. to 2 p.m. local, proof of service**; in store only, not online, app or delivery (Little Caesars) |
 | Logan's Roadhouse | Free meal | **11 a.m. to 3 p.m.** |
 | Lucille's Smokehouse | Free sandwich or chicken, plus a $10 card | $10 card good **Nov. 27 to Dec. 6** |
+| Macayo's Mexican Restaurants | Free à la carte chimichanga | **Dine-in or takeout, military ID** |
 | Main Event | Free double cheeseburger, fries and a 30-minute game card | |
 | Marzoni's Brick Oven & Brewing | One free 12-ounce draft beer or nonalcoholic drink | **Dine-in only**, one per veteran |
 | Max & Erma's | Free cheeseburger, fries and drink | |
 | Menchie's | Free first 6 ounces of frozen yogurt | |
+| Mimi's Cafe | Free entrée | **Up to $20, dine-in only, ID**; reserve at mimiscafe.com |
 | Mission BBQ | Free sandwich | |
 | Native Grill & Wings | Free meal | Choice of several |
+| Newick's Lobster House | Free meal | **Dover, New Hampshire; dine-in only, military ID** |
 | Newk's Eatery | Free Pick 2 | |
+| Old Chicago | Free meal from a special menu |  |
 | Olive Garden | Free entrée from a special menu | **Dine-in, proof of service** |
 | Outback Steakhouse | Free Bloomin' Onion and a drink | **Nov. 10 and 11**; plus a free Hero's Meal for a later visit through Dine Rewards |
 | Paisano's Pizza | Free large one-topping pizza | **40 participating locations** |
+| Parry's Pizza | Free entrée from a special menu | **11 a.m. to 3 p.m., dine-in only, proof of service** |
+| Pennsylvania Turnpike service plazas | Free hot coffee at its 17 service plazas | **Military ID**; medium black coffee at Dunkin', medium pour-over at Starbucks |
+| Perkins | Free Magnificent Seven Breakfast Meal | Participating locations |
 | Piada | Free entrée | |
 | Pilot and Flying J | Free sandwich and coffee or fountain drink | **In the Pilot app, verified through ID.me** (Pilot) |
 | Pluckers | Free meal | **Texas only**, up to $17 value |
 | Polly's Pies | Free slice of pie | **Nov. 10 and 11**, no purchase needed |
+| Primanti Bros | Free Classic Sandwich |  |
 | Prince St. Pizza | Free slice | **One per person** |
 | Red Lobster | Free Veteran's Shrimp & Chips | **Dine-in, ID** |
 | Red Robin | One free Red's Big Tavern Burger with Bottomless Steak Fries | **Dine-in only, Nov. 11 only**, participating restaurants (Red Robin) |
 | Rock and Brews | Free pulled pork sandwich or salad | |
+| Ruby Slipper | Free entrée |  |
 | Ruby Tuesday | Free Everyday Fresh Meal from 13 entrées, with the Garden Bar and a drink | **Dine-in only** |
+| Russ' Restaurant | Free meal from a select menu |  |
 | Scooter's Coffee | Free medium drink | **In store**, one per guest |
+| Seven Doors Kitchen & Cocktails | One free entrée and nonalcoholic drink, all day | **Dine-in only, proof of service** |
 | Shake Shack | Free single ShackBurger | **Order in-Shack, military ID**; no purchase required, one per order, while supplies last; excludes airports, stadiums, arenas, travel plazas and museums; not via the app, website, delivery or drive-thru (Shake Shack) |
+| Shane's Rib Shack | One free Chopped BBQ Pork or Chicken Plate | **In store only, proof of service** |
 | Sheetz | Free half turkey sub and regular fountain drink, plus a free car wash | **ID required**, more than 800 stores |
 | Shoney's | Free Legendary Breakfast Bar | **Dine-in, opening to 11 a.m.** |
+| Shrimp Basket | Free Popcorn Shrimp Basket | **Dine-in only, military ID**; retirees and reservists included |
 | Sizzler | Free lunch and nonalcoholic drink: tri-tip, Malibu chicken or shrimp | **Open to 4 p.m.** |
 | Smashburger | Free All-American Smashburger | **ID required**, participating locations (per the Department of Veterans Affairs) |
+| Smoothie King | Free 20-ounce Strawberry X-treme, Vanilla Slim-N-Trim or Blueberry Heaven smoothie | **Noon to 3 p.m.** |
+| Snarf's Sandwiches | Free sandwich | **In store only, proof of service**, one per person |
 | Sonny's BBQ | Free Pork Big Deal | **One per guest** |
 | Starbucks | Free 12-ounce (tall) brewed coffee, hot or iced | **Veterans, service members and spouses**, participating stores (per the Department of Veterans Affairs) |
+| Sullivan's Steakhouse | Free Signature Angus Burger with fries |  |
+| Sweet Buzz Bean & Bistro | Free breakfast: egg and cheese sandwich, a side and coffee or tea | Veterans **and spouses** |
+| Taziki's | Free Grilled Chicken Gyro meal with chips and a side | **Dine-in**, participating locations |
 | The Country's Best Yogurt (TCBY) | Free first 6 ounces of frozen yogurt | |
 | Ted's Bulletin | Free Ted's Tart | |
 | Teriyaki Madness | Free bowl | **In shop** |
+| Texas Corral | Free meal from a limited menu | **Dine-in only** |
 | Texas Roadhouse | Free meal voucher | **Handed out 11 a.m. to 2 p.m., proof of service**; good through May 31, 2027, per Military.com |
 | TGI Fridays | Free meal from a select menu | **11 a.m. to 7 p.m.** |
 | Torchy's Tacos | Free taco and a drink | **In store only, proof of service** (per the Department of Veterans Affairs) |
 | Tuscan Brands | Free meal | **11 a.m. to 4 p.m., reservations required** |
 | Twin Peaks | Free entrée from a select menu | Plus 20% off all November |
 | Uno Pizzeria & Grill | Free entrée from a special menu | |
+| Village Inn | Free 2-2-2 Breakfast | **Dine-in or pick-up, military ID**; code VETERANS26 for online pick-up orders |
 | WaBa Grill | Free slice of crepe cake | |
+| Walk-On's Sports Bistreaux | Free Scholarship Burger |  |
+| Wawa | Free hot coffee, any size | Veterans, active duty **and their families** |
 | Wendy's | Free Dave's Single | **Inside or at the drive-thru** |
 | White Castle | Free individual combo or breakfast combo | |
+| Wienerschnitzel | Free chili dog, small fries and small soda | **Military ID or proof of service** |
 | Wings and Rings | Free lunch combo | All day |
 | WOB Bar & Kitchen | Free Single Smash Burger and fries | |
 | Yard House | Free appetizer | **Dine-in, military ID** |
+| Ziggi's Coffee | Free 16-ounce menu drink or 20-ounce Dirty Soda |  |
 
 Outback's Nov. 10 and 11 offer is at participating restaurants. Out West Restaurant Group, a franchisee that runs 61 Outback restaurants in the West, filed for Chapter 11 on Nov. 2, and Bloomin' Brands' filing says the case has no immediate impact on Out West or company-owned Outback guests. Our [Outback Steakhouse closing locations list](/news/outback-steakhouse-closing-locations-list-2026/) has the details, and a call ahead is the safest check before you go.
 
 ## Discounts and deals with a purchase
 
-These 30 offers take money off or need a purchase, from Military.com, the American Legion and the chains' own pages:
+These 43 offers take money off or need a purchase, from Military.com, the American Legion and the chains' own pages:
 
 | Restaurant | Offer | Fine print |
 |---|---|---|
-| 7 Brew | 50% off a drink order | **Open to all customers**, not only military |
 | 54th Street | Up to $10 off any entrée | **Dine-in, proof of service**; cannot be combined |
+| 7 Brew | 50% off a drink order | **Open to all customers**, not only military |
 | 99 Restaurants | Free lunch from the Veterans Day menu | **Opening to 4 p.m., with any entrée purchase, military ID** |
+| Anthony's Coal Fired Pizza | 10% off your order | **Dine-in only, military ID** |
 | Benihana | Free hibachi entrée with an appetizer purchase | **Nov. 9-11** |
 | Brick House Tavern + Tap | 20% off | **Parties of up to four** |
 | Bruegger's Bagels | Free coffee | **With a food purchase** |
@@ -295,26 +419,38 @@ These 30 offers take money off or need a purchase, from Military.com, the Americ
 | Capriotti's | Free small sub with a purchase | **Purchase required** |
 | Carrabba's Italian Grill | Buy one entrée, get one free Nov. 8-10; free appetizer or dessert and a drink on Nov. 11 | **Buy one, get one Nov. 8-10** |
 | CentraArchy | 50% off an entrée | At six of its restaurant brands |
+| Cheddar's Scratch Kitchen | Free appetizer or dessert when you dine | Participating locations |
+| Chicken Salad Chick | 50% off any meal with up to two sides and a regular drink | **In restaurant or drive-thru; military ID or uniform** |
 | Chipotle | Free chips and your choice of guacamole, Queso Blanco or salsa | **In restaurant only, with a $5 minimum purchase** (excluding the free item, tax and tip), proof of service; not mobile, online, delivery or catering (Chipotle) |
 | Dave & Buster's | Free all-day Unlimited Game Play and/or a free dessert, with a qualifying entrée | **Military ID**; game play on blue and green swipe games (Dave & Buster's) |
 | Eat'n Park | 10% off for you and your party | **Dine-in, Nov. 1 through 30**; free Smiley Cookie on Nov. 11 |
 | Einstein Bros. Bagels | Free coffee, any size, with a purchase | **Purchase required** |
+| Emmet's Social Table | $10 off your meal |  |
 | Firebirds Wood Fired Grill | Free lunch or dinner, up to the value of a guest's meal | **Dine-in only** |
 | Firehouse Subs | Buy one sub, get one free | **Purchase required** |
+| Five Guys (Arizona) | Free Little Fry with a burger, hot dog or sandwich | **Arizona only, in store, military or veteran ID** |
 | Fogo de Chão | 50% off the Full or Indulgent Churrasco | **Saturday, Nov. 7** |
 | Joe's Crab Shack | 20% off | **Dine-in, ID** |
 | Kings Family Restaurant | 25% off meals | |
 | Kona Grill | Free entrée with a starter purchase | **Nov. 9-11** |
+| Kura Sushi | 20% off | **Nov. 9 through 15, valid ID** |
+| Lion's Choice | Buy one sandwich, get one free | **Military ID** |
+| Long John Silver's | Any Variety Platter with two sides for $9 | **Online or in the app, code VETERANS26** |
 | LongHorn Steakhouse | 10% off, plus a free appetizer or dessert for the table | **With an adult entrée purchase** |
 | Margaritas Mexican Restaurant | 50% off an entrée | **Dine-in**, Northeast locations |
 | McCormick & Schmick's | Half-price select entrée | **Sunday, Nov. 8, dine-in** |
+| Mod Pizza | 50% off one regular-size pizza or salad | **Proof of service**; veterans, active duty **and military spouses** |
 | Perry's Steakhouse & Grille | Free dinner-cut pork chop with a full-price entrée, or a three-course military menu for $39 | **4 p.m. to close, reservations required** |
 | Playa Bowls | 50% off bowls | **In shop** |
+| RA Sushi | Free entrée with a starter purchase | **Nov. 9-11, valid ID**; Gold Star families included |
 | Rubio's | Buy one entrée, get one free with code VETS26 | **In-store only, military ID** |
 | Saltgrass Steak House | 20% off | **Veteran plus up to four guests** |
 | Sonic | Half-price shakes, any size or flavor | **No ID required** |
 | STK Steakhouse | Free entrée with a starter purchase | **Nov. 9-11** |
+| Taffer's Tavern | 50% off an entrée or handheld | **Military ID** |
+| Tijuana Flats | 50% off an adult entrée | **In store, valid ID, $9.99 minimum**; mention code VETDAY26 |
 | Viva Chicken | Free entrée with a qualifying guest entrée | **Guest entrée required** |
+| Yogurtland | 15% off | Active duty, veterans and inactive military |
 
 ## Deals you can use before or after Nov. 11
 
@@ -327,9 +463,11 @@ Nov. 11 falls on a Wednesday, a workday for many veterans. These offers reach pa
 | Sat., Nov. 7 | Fogo de Chão | 50% off the Full or Indulgent Churrasco; tell your server |
 | Sun., Nov. 8 | McCormick & Schmick's | Half-price select entrée, dine-in |
 | Sun., Nov. 8 through Tue., Nov. 10 | Carrabba's Italian Grill | Buy one entrée, get one free; a free appetizer or dessert and a drink on Nov. 11 |
-| Mon., Nov. 9 through Wed., Nov. 11 | Benihana, Kona Grill, STK Steakhouse | Free entrée with an appetizer or starter purchase |
+| Mon., Nov. 9 through Wed., Nov. 11 | Benihana, Kona Grill, RA Sushi, STK Steakhouse | Free entrée with an appetizer or starter purchase |
 | Tue., Nov. 10 and Wed., Nov. 11 | Polly's Pies | Free slice of pie, no purchase needed |
 | Tue., Nov. 10 and Wed., Nov. 11 | Outback Steakhouse, Bar Louie | Free Bloomin' Onion and drink, or a free burger, either day |
+| Mon., Nov. 9 through Fri., Nov. 13 | Bibibop Asian Grill | Free fountain drink in store with a military ID |
+| Mon., Nov. 9 through Sun., Nov. 15 | Kura Sushi | 20% off with a valid ID |
 | Thu., Nov. 12 through Wed., Nov. 18 | Cattlemens | Use the emailed certificate if you skip the Nov. 11 sirloin dinner (California) |
 | Through Wed., Nov. 25 | Freddy's | Pick up the combo meal card on Nov. 11, redeem later |
 | Through Wed., Nov. 25 | Hoss's Steak & Sea House | $10 off a $40 check with the voucher from your Nov. 11 visit |
@@ -341,14 +479,6 @@ Nov. 11 falls on a Wednesday, a workday for many veterans. These offers reach pa
 | A later visit, no end date given | Outback Steakhouse, Bob Evans | Hero's Meal through Dine Rewards; free biscuits and sausage gravy |
 
 The Texas Roadhouse voucher has the longest window in Military.com's list: one stop at lunch on Nov. 11, and the meal can wait until next spring.
-
-## Krispy Kreme has not announced a 2026 offer
-
-This chain offered the following on Nov. 11, 2025, according to Military.com, and is not on its 2026 list as of Nov. 8. Check before you go.
-
-| Restaurant | 2025 offer | Fine print |
-|---|---|---|
-| Krispy Kreme | Free doughnut and small coffee | In shop only |
 
 ## Stores, haircuts and parks
 
@@ -382,4 +512,4 @@ Veterans Day is a federal holiday under 5 U.S.C. § 6103, and it never moves to 
 
 ## Print the cheat sheet
 
-The free two-page cheat sheet lists the same 101 free meals and 30 discounts confirmed for 2026 as of Nov. 8, the Great Clips and Sport Clips haircuts and the Grace For Vets car wash, and the chain still to announce, with tags for dine-in, ID, family, hours and later use, plus a cut-out wallet card of accepted IDs. Check off places as you go, and pin the day on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). For the rest of the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/).
+The free three-page cheat sheet lists the same 167 free meals and 43 discounts confirmed for 2026 as of Nov. 11, the Great Clips and Sport Clips haircuts and the Grace For Vets car wash, with tags for dine-in, ID, family, hours and later use, plus a cut-out wallet card of accepted IDs. Check off places as you go, and pin the day on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). For the rest of the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/).
