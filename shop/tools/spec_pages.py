@@ -34,11 +34,15 @@ def spec(p):
             if m and lo <= int(m.group(1)) <= hi: return int(m.group(1))
     s['gsm'] = num(r'(\d{2,3})\s?(?:gsm|g/m2|g/m²|g/㎡|g/sm)', 50, 400)
     s['pages'] = num(r'(\d{2,4})\s*(?:numbered |lined |dotted |thick |blank |ruled )?pages', 20, 1500)
+    s['pack'] = num(r'(\d{2,4})\s*(?:-\s*)?(?:pack|count|pcs|pieces|cards|ct)\b', 6, 5000) or num(r'(?:set|pack|box) of (\d{2,4})', 6, 5000)
     s['size'] = next((k for k, rx in {'a5': r'\ba5\b', 'a6': r'\ba6\b', 'a4': r'\ba4\b', 'b5': r'\bb5\b', 'b6': r'\bb6\b', 'letter': r'8\.5\s?["”″\'’]*\s?[x×]\s?11', 'pocket': r'\bpocket[- ]size|3\.5\s?["”″]?\s?x\s?5\.5'}.items() if re.search(rx, l)), None)
     s['ruling'] = next((k for k, rx in {'dotted': r'dotted|dot grid|dot-grid', 'graph': r'graph|quad ruled|squared', 'lined': r'\blined\b|college ruled|wide ruled|\bruled\b', 'blank': r'\bblank\b|unlined'}.items() if re.search(rx, t)), None)
     s['cover'] = next((k for k, rx in {'leather': r'leather', 'hardcover': r'hardcover|hard cover', 'softcover': r'softcover|soft cover'}.items() if re.search(rx, t)), None)
     m = re.search(r'(?<![\d/.-])(?<!\d )(\d{1,2}(?:\.\d{1,2})?)\s?(?:["”″]|\'\'|’’|in\b|inch(?:es)?)?\s?[x×]\s?(\d{1,2}(?:\.\d{1,2})?)\s?(?:["”″]|\'\'|’’|in\b|inch)', t)
     s['dims'] = f'{m.group(1)} x {m.group(2)} in' if m else None
+    if not m:  # one measure only, such as a 1.5 inch round seal
+        m1 = re.search(r'(?<![\d/.-])(\d{1,2}(?:\.\d{1,2})?)\s?-?\s?(?:inch(?:es)?\b|in\b|["”])', t)
+        s['dims'] = f'{m1.group(1)} in' if m1 else None
     s['cover_any'] = s['cover'] or next((k for k, rx in {'leather': r'leather', 'hardcover': r'hardcover|hard cover', 'softcover': r'softcover|soft cover'}.items() if re.search(rx, l)), None)
     s['spiral'] = bool(re.search(r'spiral|twin[- ]wire|wire[- ]?bound|wirebound', l))
     s['undated'] = bool(re.search(r'undated', l))
@@ -99,6 +103,15 @@ D = {
  '2027-pocket-planners': ('2027 Pocket Planners and Calendars', 'dated for 2027 and pocket size', lambda s: s['y2027'] and (inc(s, 'pocket-calendars') or (isP(s) and s['size'] == 'pocket')), 'layout cover', ['pocket-calendars']),
  'magnetic-meal-planners': ('Magnetic Meal Planners and Grocery List Pads', 'a meal, menu or grocery planner with a magnetic back', lambda s: 'magnetic' in s['f'] and re.search(r'meal|menu|grocery', s['t']), 'size', ['meal-planners']),
 
+ # Holiday family (Nov. 12, 2026)
+ 'religious-christmas-cards': ('Religious Christmas Cards in Boxed Sets', 'a boxed Christmas card set whose listing names a religious, Nativity or Bible verse design', lambda s: inc(s, 'boxed-christmas-cards') and re.search(r'religious|nativity|christian|bible|scripture|blessing|church|jesus', s['l']), 'pack dims', ['boxed-christmas-cards']),
+ 'gold-foil-christmas-cards': ('Gold Foil Christmas Cards in Boxed Sets', 'a boxed Christmas card set with gold foil stated in the listing', lambda s: inc(s, 'boxed-christmas-cards') and re.search(r'gold foil|foil', s['l']), 'pack dims', ['boxed-christmas-cards']),
+ 'christmas-cards-24-pack': ('Christmas Cards in 24 Packs', 'a boxed Christmas card set of 24 cards', lambda s: inc(s, 'boxed-christmas-cards') and s['pack'] == 24, 'dims', ['boxed-christmas-cards']),
+ 'thank-you-cards-bulk-packs': ('Thank You Cards in Packs of 48 or More', 'a thank you card pack of 48 cards or more', lambda s: inc(s, 'thank-you-cards') and (s['pack'] or 0) >= 48, 'pack dims', ['thank-you-cards']),
+ 'gold-foil-thank-you-cards': ('Thank You Cards With Gold Foil', 'a thank you card pack with gold foil stated in the listing', lambda s: inc(s, 'thank-you-cards') and re.search(r'gold foil', s['l']), 'pack dims', ['thank-you-cards']),
+ 'diy-journal-advent-calendars': ('DIY Journal Advent Calendars', 'an advent calendar whose daily openings hold journal or stationery supplies', lambda s: inc(s, 'advent-calendars') and re.search(r'journal|stationery|scrapbook|sticker', s['l']), 'pack', ['advent-calendars']),
+ 'advent-books-for-couples-and-families': ('Advent Activity Books for Couples and Families', 'an advent activity book written for two players, couples or a family', lambda s: inc(s, 'advent-activity-books-and-journals') and re.search(r'couple|family|two players|for two|kids vs|grandma|mom and daughter', s['l']), 'dims', ['advent-activity-books-and-journals']),
+ 'christmas-envelope-seals-gold-foil': ('Gold Foil Christmas Envelope Seals', 'a pack of Christmas seals or stickers with gold foil stated', lambda s: inc(s, 'envelope-seals-and-holiday-stickers') and re.search(r'gold', s['l']) and re.search(r'foil', s['l']), 'pack dims', ['envelope-seals-and-holiday-stickers']),
  # Deal pages: only offers whose stored price is 15% or more below the stored list price. Sorted by the size of the cut.
  'black-friday-planner-deals': ('Black Friday Planner and Calendar Deals 2026', 'a price 15% or more below the list price the retailer shows, on a planner or calendar', lambda s: (isP(s) or isC(s) or inc(s, 'budget-planners', 'meal-planners')) and off(s) >= .15, 'dates size list off', ['dated-planners', 'wall-calendars'], 'off'),
  'black-friday-journal-deals': ('Black Friday Journal and Stationery Deals 2026', 'a price 15% or more below the list price the retailer shows, on a journal, notebook, pen set or planner supply', lambda s: (isJ(s) or inc(s, *ST) or inc(s, *GJ)) and off(s) >= .15, 'size list off', ['dotted-paper-journals', 'pens'], 'off'),
@@ -106,7 +119,7 @@ D = {
 COLS = {'size': ('Size', lambda s: SIZE.get(s['size']) or s['dims'] or 'Not stated'), 'pages': ('Pages', lambda s: f"{s['pages']:,}" if s['pages'] else 'Not stated'),
         'gsm': ('Paper', lambda s: f"{s['gsm']} gsm" if s['gsm'] else 'Not stated'), 'cover': ('Cover', lambda s: (s['cover_any'] or 'Not stated').capitalize()),
         'ruling': ('Ruling', lambda s: (s['ruling'] or 'Not stated').capitalize()), 'layout': ('Layout', lambda s: ', '.join(x.capitalize() for x in s['layout']) or 'Not stated'),
-        'spiral': ('Binding', lambda s: 'Spiral or wire' if s['spiral'] else 'Not stated'), 'dates': ('Dates', lambda s: s['dates'] or 'Not stated'),
+        'spiral': ('Binding', lambda s: 'Spiral or wire' if s['spiral'] else 'Not stated'), 'dates': ('Dates', lambda s: s['dates'] or 'Not stated'), 'pack': ('Count', lambda s: f"{s['pack']:,}" if s['pack'] else 'Not stated'), 'dims': ('Size', lambda s: s['dims'] or 'Not stated'),
         'list': ('List price', lambda s: usd(s['full'])), 'off': ('Below list', lambda s: f"{round(off(s) * 100)}%")}
 
 
@@ -215,7 +228,7 @@ def publish(slug):
     REG.write_text(json.dumps(reg, indent=1) + '\n'); print('published', slug, r['page_id'], d['stats']['count']); time.sleep(1.1)
 
 
-GROUPS = (('2027 planners', lambda k: k.startswith('2027-') and 'calendar' not in k), ('School year planners', lambda k: 'academic' in k or 'teacher' in k),
+GROUPS = (('Holiday cards and advent calendars', lambda k: any(w in k for w in ('christmas', 'thank-you', 'advent'))), ('2027 planners', lambda k: k.startswith('2027-') and 'calendar' not in k), ('School year planners', lambda k: 'academic' in k or 'teacher' in k),
           ('Undated and budget planners', lambda k: k.startswith('undated') or 'budget' in k), ('Journals and notebooks', lambda k: 'journal' in k or 'notebook' in k),
           ('Calendars and fridge planners', lambda k: 'calendar' in k or 'magnetic' in k), ('Prices below list', lambda k: 'deals' in k))
 

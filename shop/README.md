@@ -145,10 +145,16 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - `tools/category_guides.py` links every live article from its product category. Run it weekly and after scheduled articles go live; it skips articles that are not live yet.
 - The checker fails an H2 another article already uses, so give the "what we left out" section a heading that names the product kind.
 
-### New product family (started Nov. 12, 2026: Holiday Cards and Gift Wrap)
-- Categories 64 to 74 exist but are hidden. `settings/product` `publish_new_products` is now false, so imports arrive hidden.
-- `POST categories/fill` (Amazon, 30 per category, `generate_content: false`, `ai_relevance_check: false`) brought 298 hidden products. The fill searches inside the store's niche, so half of what it returns for a new family is off-category (journals and washi tape in "wrapping paper"). For a new family, find real products by ASIN and use `POST products/import-links` instead.
-- Product text: agents write drafts from the listings (brief in `.cache/shop/PRODUCT-AGENT.md`, inputs and drafts in `.cache/shop/season/`); `python3 shop/tools/product_apply.py .cache/shop/season` checks them and `--apply` writes them and shows the products. Not applied yet: prune off-category drafts first (the birthday card category kept craft supplies), then write category texts and show the categories.
+### New product family: Holiday Cards and Gift Wrap (live Nov. 12, 2026)
+- Categories 64 to 74. Live: advent calendars (65), advent activity books and journals (66), boxed Christmas cards (67), thank you cards (68), greeting card organizers (70), Christmas scrapbook paper and washi tape (71), gift tags and ribbon (72), Christmas planners and organizers (73), envelope seals and holiday stickers (74). Hidden until it has real cards: birthday and all-occasion cards (69).
+- 189 of the 298 filled products are live. The rest stay hidden: 84 the writers rejected (off-category, thin listing, near-copy), 23 the editor pruned, 2 that failed the number check.
+- **How a family is added:**
+  1. `PATCH settings/product` `publish_new_products: false` (it is off now; leave it off).
+  2. Create the categories hidden, then `POST categories/fill` with `generate_content: false` and `ai_relevance_check: false`. The fill searches inside the store's niche, so expect about half to be off-category; for cards, wrapping paper and other goods outside stationery, find products by ASIN and use `POST products/import-links`.
+  3. Fetch each new product with its offers into `.cache/shop/<family>/products.json`, write one input file per category and give each to an agent with the product brief (`.cache/shop/PRODUCT-AGENT.md`): title, subtitle, summary, five highlights, a spec table and three sections, all from the listing, or a rejection with its reason.
+  4. Read the kept titles per category yourself. Rename a category to what it really holds, move products, and list the ids to drop in `prune.json`.
+  5. `python3 shop/tools/product_apply.py .cache/shop/<family>` checks every draft (lengths, banned words, every number in the listing); `--apply` writes the passing ones and shows them.
+  6. Write category texts and set listing images, show the categories, redirect closed brand pages of live products to `/brands`, then add list pages (`spec_pages.py`) and run `link-categories`.
 - The Amazon US tag is empty in settings; links use the platform default tag `fl-api-72849163-20`. The owner must set `offers_amazon_us_tag` in the admin.
 
 ### Ratings (Fresh Calendars Score)

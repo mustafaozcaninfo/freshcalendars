@@ -8,6 +8,8 @@ A batch lives in one folder under .cache/shop/ (for example .cache/shop/season/)
   python3 shop/tools/product_apply.py <folder> --apply    # write the passing drafts and enable those products
 
 Nothing is written for a draft that fails. Rejected and failing products stay hidden.
+Optional files in the folder: prune.json (a list of ids the editor drops) and cats.json ({id: {slug, title}} when a
+product was moved to another category). A product already in apply-log.json is not written twice.
 """
 import datetime as dt, glob, html, json, os, re, sys, time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -47,7 +49,7 @@ def check(d, p):
     if '$' in allt or '—' in allt or '!' in allt: e.append('dollar sign, em dash or exclamation mark')
     m = BAN.search(allt)
     if m: e.append('banned: ' + m.group(0))
-    if re.search(r'\b[A-Z]{5,}\b', text(d.get('title'))) and not re.search(r'\b[A-Z]{5,}\b', o['title'][:40]): e.append('caps in title')
+    if any(w.lower() not in listing for w in re.findall(r'\b[A-Z]{5,}\b', text(d.get('title')))): e.append('caps word in title that is not a brand in the listing')
     bad = sorted({n for n in re.findall(r'\d+(?:\.\d+)?', allt.replace(',', '')) if n not in listing and n.lstrip('0') not in listing})
     if bad: e.append('numbers not in the listing: ' + ', '.join(bad[:8]))
     return e
@@ -88,15 +90,20 @@ def main(folder, apply):
     for i, e in fail[:60]: print('  FAIL', i, e[:3])
     json.dump({'pass': [d['id'] for d in ok], 'reject': rej, 'fail': fail}, open(os.path.join(folder, 'check.json'), 'w'), indent=1)
     if not apply: return
-    read_on = dt.date.today().strftime('%b. %-d, %Y').replace('May.', 'May'); log = []
+    read_on = dt.date.today().strftime('%b. %-d, %Y').replace('May.', 'May')
+    lp = os.path.join(folder, 'apply-log.json'); log = json.load(open(lp)) if os.path.exists(lp) else []
+    done = {l['id'] for l in log if l['status'] == 200}
+    skip = set(json.load(open(os.path.join(folder, 'prune.json')))) if os.path.exists(os.path.join(folder, 'prune.json')) else set()
+    cats = json.load(open(os.path.join(folder, 'cats.json'))) if os.path.exists(os.path.join(folder, 'cats.json')) else {}
     for d in ok:
-        p = P[d['id']]; c = p['categories'][0]
+        if d['id'] in done or d['id'] in skip: continue
+        p = P[d['id']]; c = cats.get(str(d['id'])) or p['categories'][0]
         payload = {'title': text(d['title']), 'link_title': text(d['link_title']), 'subtitle': text(d['subtitle']), 'meta_title': text(d['meta_title']), 'meta_description': text(d['meta_description']),
                    'summary': text(d['summary']), 'highlights': [text(x) for x in d['highlights']], 'content': body(d, p, c['slug'], c['title'], read_on), 'enabled': True}
         s, r = call('PATCH', f"products/{d['id']}", payload)
         log.append({'id': d['id'], 'status': s, 'slug': (r.get('data') or {}).get('slug') if s == 200 else str(r)[:200], 'cat': c['slug']})
         time.sleep(1.05)
-    json.dump(log, open(os.path.join(folder, 'apply-log.json'), 'w'), indent=1)
+    json.dump(log, open(lp, 'w'), indent=1)
     print('written and enabled', sum(1 for l in log if l['status'] == 200), '| errors', [l for l in log if l['status'] != 200][:5])
     call('POST', 'store/clear-cache')
 
