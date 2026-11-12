@@ -1,15 +1,13 @@
 # Bing Webmaster Tools (generated, do not edit)
 
-Read 2026-11-12T09:14 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
+Read 2026-11-12T17:36 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
 
 ## Clicks and impressions
 
-Last 7 days with data: 3,568 clicks, 425,836 impressions (the 7 before: 3,039 clicks, 338,266 impressions).
+Last 7 days with data: 4,161 clicks, 428,997 impressions (the 7 before: 3,280 clicks, 415,375 impressions).
 
 | Day | Clicks | Impressions |
 |---|---:|---:|
-| 2026-10-26 | 693 | 63,053 |
-| 2026-10-27 | 229 | 32,916 |
 | 2026-10-28 | 211 | 35,499 |
 | 2026-10-29 | 546 | 51,345 |
 | 2026-10-30 | 446 | 51,638 |
@@ -22,6 +20,8 @@ Last 7 days with data: 3,568 clicks, 425,836 impressions (the 7 before: 3,039 cl
 | 2026-11-06 | 461 | 56,186 |
 | 2026-11-07 | 363 | 26,725 |
 | 2026-11-08 | 572 | 40,752 |
+| 2026-11-09 | 754 | 75,168 |
+| 2026-11-10 | 1,002 | 101,071 |
 
 ## Top queries, last 28 days
 
@@ -115,5 +115,5 @@ Queries at position 2.5 to 20 with 50+ impressions and a click rate under 3%: th
 
 ## Crawl and index
 
-Latest day 2026-11-03: 4,485 pages crawled, 28 crawl errors, 2,146 pages in the index, 376 inbound links.
+Latest day 2026-11-05: 5,237 pages crawled, 31 crawl errors, 2,952 pages in the index, 396 inbound links.
 
