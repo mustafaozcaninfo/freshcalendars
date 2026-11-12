@@ -49,7 +49,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [hillsborough-county-public-schools-calendar-2026-27-breaks, pasco-county-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
+related: [hillsborough-county-public-schools-calendar-2026-27-breaks, pasco-county-schools-calendar-2026-27-breaks, marion-county-public-schools-calendar-2026-27]
 assets:
   overlay: true
   kicker: "Polk County Public Schools · 2026-27"

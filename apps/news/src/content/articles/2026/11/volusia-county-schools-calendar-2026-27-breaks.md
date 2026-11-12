@@ -52,7 +52,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [winter-break-2026-school-districts-dates, spring-break-2027-dates-school-districts, st-johns-county-schools-calendar-2026-27-breaks]
+related: [winter-break-2026-school-districts-dates, spring-break-2027-dates-school-districts, marion-county-public-schools-calendar-2026-27]
 assets:
   overlay: true
   kicker: "Volusia County schools · 2026-27"
