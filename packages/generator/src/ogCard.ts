@@ -51,11 +51,12 @@ const LABELS: Record<string, string> = { home: "Calendars", blank: "Blank calend
 
 export function ogCardHtml(meta: SeoMeta, today: Date = new Date()): string {
   const title = clip(meta.title.split("|")[0]!.trim(), 78);
-  const sub = clip(meta.description, 118);
+  const sub = clip(meta.description, 100);
   const { family, year, month } = meta.calendar;
   let sheet: string;
-  if (meta.pageId.startsWith("holiday-") && year) {
-    const def = holidayDefBySlug(meta.pageId.slice("holiday-".length));
+  const holidaySlug = /^(?:holiday|days-until)-(.+)$/.exec(meta.pageId)?.[1];
+  if (holidaySlug && year) {
+    const def = holidayDefBySlug(holidaySlug);
     const h = def ? resolveHoliday(def, year) : null;
     sheet = h ? monthSheet(h.year, h.month, h.day) : plainSheet("Holidays");
   } else if (family === "monthly" && year && month) sheet = monthSheet(year, month);

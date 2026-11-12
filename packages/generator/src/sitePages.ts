@@ -61,12 +61,13 @@ import {
   NOT_FOUND_JS,
 } from "@freshcalendars/site-chrome";
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
+import { TOOLS_JS, countdownPath, hasCountdown, toolPages } from "./toolPages.js";
 import { holidayGuidesHtml, homeNewsHtml, newsStripHtml } from "./newsLinks.js";
 import { shopBoxHtml } from "./shopLinks.js";
 import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
 import { STUDIO_STYLES, studioAssets } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
-import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary, calendarTools } from "./conceptPages.js";
+import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary } from "./conceptPages.js";
 
 /**
  * Type label on the holiday lists. The engine's "federal" means the country's official days off,
@@ -455,7 +456,7 @@ function layout(
 ): string {
   const adsEnabled = opts.ads !== false;
   const today = opts.today ?? new Date();
-  const designFamily = body.includes("data-studio>") ? "calendar-detail" : body.includes("data-library ") ? "calendar-library" : meta.pageId === "calendar-tools" ? "tools" : meta.calendar.family === "home" ? "home" : meta.pageId === "legal-contact" ? "contact" : ["legal-school-holidays", "legal-daylight-savings"].includes(meta.pageId) ? "guide" : meta.calendar.family === "legal" ? "policy" : meta.calendar.family === "holidays" ? "holiday-list" : ["holiday", "easter"].includes(meta.calendar.family) ? "holiday-date" : "guide";
+  const designFamily = body.includes("data-studio>") ? "calendar-detail" : body.includes("data-library ") ? "calendar-library" : /^(calendar-tools$|tool-|days-until)/.test(meta.pageId) ? "tools" : meta.calendar.family === "home" ? "home" : meta.pageId === "legal-contact" ? "contact" : ["legal-school-holidays", "legal-daylight-savings"].includes(meta.pageId) ? "guide" : meta.calendar.family === "legal" ? "policy" : meta.calendar.family === "holidays" ? "holiday-list" : ["holiday", "easter"].includes(meta.calendar.family) ? "holiday-date" : "guide";
   const pageBody = pageWorkspaceHtml(body, meta.breadcrumbs, new URL(meta.canonical).pathname, today, designFamily);
   // Match <img srcset/sizes> so the browser preloads only the chosen density (not both 1x+2x).
   // Preload LCP preview on small screens only; desktop keeps the image below the fold (text LCP).
@@ -1801,6 +1802,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
   ${overview}
   ${volatile(holidayGuidesHtml(slug, `More on ${h.name} ${y}`))}
   ${holidayMonthBlock(h, holidaysForMonth(h.year, h.month, locale), locale === "us")}
+  ${hasCountdown(slug) ? `<p class="du-link"><a href="${countdownPath(slug)}">How many days until ${esc(h.name)}? Countdown in days, weeks and weekdays →</a></p>` : ""}
   <p>This page always shows the next ${esc(h.name)}: once ${esc(h.formatted)} has passed, it switches to the ${y + 1} date.</p>
   ${datesTable}
   <h3>How the date is calculated</h3>
@@ -2227,16 +2229,20 @@ function termsOfUseBody(): string {
 }
 
 export function renderConceptHubs(home: SeoMeta, today: Date): { meta: SeoMeta; html: string; file: string }[] {
-  return [
+  const hubs: { id: string; path: string; title: string; description: string; body: string; crumbs?: { name: string; url: string }[]; holiday?: { slug: string; year: number } }[] = [
     { id: "calendar-library", path: "/calendars/", title: `Free Printable Calendars ${home.calendar.year} and ${home.calendar.year! + 1} · PDF and PNG`, description: `Free printable calendars for ${home.calendar.year} and ${home.calendar.year! + 1}: monthly, yearly, blank and weekly designs. Pick a design, paper size and start day, then download PDF or PNG.`, body: calendarLibrary(today, false) },
     { id: "monthly-library", path: "/monthly-calendars/", title: `Monthly Calendar Printables ${home.calendar.year} and ${home.calendar.year! + 1} · Free PDF`, description: `Free monthly calendar printables for every month of ${home.calendar.year} and ${home.calendar.year! + 1}. Filter by month and design, choose Letter or A4 and a Sunday or Monday start.`, body: calendarLibrary(today, true) },
-    { id: "calendar-tools", path: "/calendar-tools/", title: "Date Calculator · Days Between Dates, Add or Subtract Days", description: "Free date calculators: count the days between two dates, add or subtract days from a date, and find the week number and day of the year for any date.", body: calendarTools(today) },
-  ].map(p => {
+    ...toolPages(today, { volatile, holidayMonthBlock }),
+  ];
+  return hubs.map(p => {
+    const tool = Boolean(p.crumbs);
     const canonical = `https://freshcalendars.com${p.path}`;
     const ogImagePath = `/og/${p.id}.png`, ogUrl = `https://cdn.freshcalendars.com${ogImagePath}`;
-    const meta: SeoMeta = { ...home, pageId: p.id, url: canonical, canonical, title: p.title, description: p.description, faq: [], variants: undefined, calendar: { family: "guide", year: null, month: null, weekStartsOn: 0 }, hreflang: [{ lang: "en", href: canonical }, { lang: "x-default", href: canonical }], openGraph: { ...home.openGraph, title: p.title, description: p.description, url: canonical }, twitter: { ...home.twitter, title: p.title, description: p.description }, breadcrumbs: [{ name: "Home", url: "https://freshcalendars.com/" }, ...(p.id === "monthly-library" ? [{ name: "Calendars", url: "https://freshcalendars.com/calendars/" }] : []), { name: p.id === "calendar-library" ? "Calendars" : p.title.split("|")[0]!.split(" · ")[0]!.trim(), url: canonical }], jsonLd: [JSON.stringify({ "@context": "https://schema.org", "@type": "CollectionPage", name: p.title, description: p.description, url: canonical, inLanguage: "en-US" })] };
+    const meta: SeoMeta = { ...home, pageId: p.id, url: canonical, canonical, title: p.title, description: p.description, faq: [], variants: undefined, calendar: { family: "guide", year: null, month: null, weekStartsOn: 0 }, hreflang: [{ lang: "en", href: canonical }, { lang: "x-default", href: canonical }], openGraph: { ...home.openGraph, title: p.title, description: p.description, url: canonical }, twitter: { ...home.twitter, title: p.title, description: p.description }, breadcrumbs: p.crumbs ?? [{ name: "Home", url: "https://freshcalendars.com/" }, ...(p.id === "monthly-library" ? [{ name: "Calendars", url: "https://freshcalendars.com/calendars/" }] : []), { name: p.id === "calendar-library" ? "Calendars" : p.title.split("|")[0]!.split(" · ")[0]!.trim(), url: canonical }], jsonLd: [JSON.stringify({ "@context": "https://schema.org", "@type": tool ? "WebPage" : "CollectionPage", name: p.title, description: p.description, url: canonical, inLanguage: "en-US" })] };
+    // The share card draws the holiday's month with the day marked (ogCard.ts reads the year).
+    if (p.holiday) meta.calendar = { ...meta.calendar, year: p.holiday.year };
     meta.ogImagePath = ogImagePath; meta.openGraph.images = [{ url: ogUrl, width: 1200, height: 630, alt: p.title }]; meta.twitter.image = ogUrl;
-    return { meta, html: layout(meta, p.body, { today }), file: p.path.slice(1) + "index.html" };
+    return { meta, html: layout(meta, tool ? `${p.body}<script>${TOOLS_JS}</script>` : p.body, { today }), file: p.path.slice(1) + "index.html" };
   });
 }
 

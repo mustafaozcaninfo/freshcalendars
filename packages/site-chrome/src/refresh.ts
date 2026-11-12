@@ -434,4 +434,58 @@ html[data-theme=dark] .holiday-country-tabs a[aria-current=page]{background:var(
 @media print{.next-year-month{display:none}}
 @media(prefers-reduced-motion:reduce){.shelf-card:hover .shelf-preview img,.library-card:hover,.category-launchers a:hover,.studio-primary:hover{transform:none!important}}
 @media print{.site-header-bar::before{display:none}}
+/* ——— Date tools and countdown pages (generator toolPages.ts) ——— */
+.tools-page{padding:26px 0 56px}
+.tools-page>h1{font-size:clamp(28px,4vw,40px); line-height:1.12; letter-spacing:-.03em; margin:14px 0 12px; max-width:22ch}
+.tools-page>h2,.tool-more>h2{font:600 22px/1.25 var(--font-display); letter-spacing:-.02em; margin:38px 0 12px}
+.tools-page>p,.tools-page .tool-lead{max-width:70ch; font-size:17px; line-height:1.65; color:var(--ink)}
+.tools-page .tool-lead{font-size:18px; color:var(--muted)}
+.tools-page .tool-lead strong{color:var(--ink-strong)}
+.tool-today{display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:12px; margin:22px 0 26px; max-width:980px}
+.tool-today>div{padding:14px 16px; border:1px solid var(--line-soft); border-radius:var(--r-lg); background:var(--surface-soft)}
+.tool-today span{display:block; font-size:11px; font-weight:600; letter-spacing:.09em; text-transform:uppercase; color:var(--muted)}
+.tool-today strong{display:block; margin-top:6px; font:600 18px/1.3 var(--font-display); letter-spacing:-.02em; color:var(--ink-strong); font-variant-numeric:tabular-nums}
+.tool-today b{font-weight:inherit}
+.tool-grid{display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:14px; max-width:980px}
+.tool-card{display:grid; gap:6px; align-content:start; padding:18px; border:1px solid var(--line-soft); border-radius:var(--r-xl); background:var(--paper); color:var(--ink); text-decoration:none; transition:border-color .2s var(--ease),transform .2s var(--ease)}
+.tool-card:hover{border-color:var(--accent); transform:translateY(-2px)}
+.tool-card svg{width:22px; height:22px; color:var(--accent)}
+.tool-card strong{font:600 17px/1.3 var(--font-display); letter-spacing:-.02em; color:var(--ink-strong)}
+.tool-card span{font-size:14px; line-height:1.5; color:var(--muted)}
+.tool-card em{font-style:normal; font-size:14px; font-weight:600; color:var(--accent); margin-top:4px}
+.tools-page .date-tools{max-width:980px; margin:20px 0}
+.tools-page .date-tools.one{grid-template-columns:minmax(0,1fr); max-width:620px}
+.date-tools h3{font:600 18px/1.3 var(--font-display); letter-spacing:-.02em; margin:0 0 14px}
+.date-tools select,.date-tools input[type=number],.date-tools input[type=date]{width:100%; min-height:46px; padding:8px 12px; font:inherit; font-size:16px; border:1px solid var(--line); border-radius:var(--r-md); background:var(--paper); color:var(--ink-strong)}
+.date-tools label.tool-check{display:flex; align-items:center; gap:10px; min-height:32px}
+.date-tools .tool-check input{width:20px; height:20px; min-height:0; accent-color:var(--accent)}
+.date-tools button{min-height:46px; width:100%}
+.date-tools output{min-height:0; margin-top:16px; font-weight:400}
+.date-tools output:empty{display:none}
+.tool-big{margin:0 0 10px; font-size:16px; color:var(--muted)}
+.tool-big b{font:600 28px/1.2 var(--font-display); letter-spacing:-.03em; color:var(--ink-strong)}
+.tool-out{margin:0; display:grid; gap:0; border-top:1px solid var(--line-soft)}
+.tool-out>div{display:flex; justify-content:space-between; gap:16px; padding:9px 0; border-bottom:1px solid var(--line-soft); font-size:15px}
+.tool-out dt{color:var(--muted)} .tool-out dd{margin:0; text-align:right; font-weight:600; color:var(--ink-strong); font-variant-numeric:tabular-nums}
+.tool-note{margin:10px 0 0; font-size:14px; color:var(--muted)}
+.tool-scroll{max-width:820px; overflow-x:auto}
+.tool-table{width:100%; max-width:820px; margin:0 0 8px}
+.tool-table th[scope=row]{text-align:left; font-weight:600; background:transparent; text-transform:none; letter-spacing:0; font-size:15px; color:var(--ink-strong); white-space:nowrap}
+.tool-table td{font-variant-numeric:tabular-nums}
+.tools-page .tool-table tbody tr:first-child td{background:transparent; font-weight:400}
+.tool-table tr.is-now>*{background:var(--surface-tint)!important; font-weight:700}
+.tool-details{max-width:820px} .tool-details summary{cursor:pointer; padding:12px 0; font-weight:600; color:var(--accent)}
+.du-answer{max-width:820px; margin:18px 0 6px; padding:24px 26px; border:1px solid var(--line-soft); border-radius:var(--r-xl); background:var(--surface-tint)}
+.du-answer p{margin:0; font-size:17px; line-height:1.6}
+.du-answer .du-big{font:600 clamp(44px,9vw,76px)/1 var(--font-display); letter-spacing:-.04em; color:var(--ink-strong); margin-bottom:10px; font-variant-numeric:tabular-nums}
+.du-big b{font-weight:inherit; color:var(--accent)} .du-big span{font-size:.45em; letter-spacing:-.02em}
+.du-chips{display:flex; flex-wrap:wrap; gap:10px; max-width:980px}
+.du-chips a{display:inline-flex; align-items:baseline; gap:8px; min-height:44px; padding:10px 14px; border:1px solid var(--line-soft); border-radius:999px; background:var(--paper); color:var(--ink-strong); font-size:15px; font-weight:600; text-decoration:none}
+.du-chips a:hover{border-color:var(--accent)}
+.du-chips span{font-size:13px; font-weight:400; color:var(--muted)}
+.tools-page .holiday-month{max-width:820px}
+.tool-links{margin-top:26px}
+.du-link a{font-weight:600}
+@media(max-width:900px){.tool-grid{grid-template-columns:repeat(2,minmax(0,1fr))} .tool-today{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:640px){.tools-page .date-tools{grid-template-columns:minmax(0,1fr)} .tool-grid{grid-template-columns:minmax(0,1fr)} .tools-page>h2,.tool-more>h2{font-size:20px; margin-top:30px} .du-answer{padding:20px 18px} .tool-out>div{font-size:14px} .tool-table td,.tool-table th{padding:11px 10px}}
 `;
