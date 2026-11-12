@@ -94,7 +94,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [tax-calendar-2027-irs-deadlines, estate-tax-exemption-2027-15-48-million, savers-match-2027-1000-federal-match-income-limits]
+related: [tax-calendar-2027-irs-deadlines, salt-deduction-cap-2026-40400-phase-out, savers-match-2027-1000-federal-match-income-limits]
 downloads:
   - group: "2027 Tax and Benefit Limits printables"
     title: "2027 Tax and Benefit Limits, What Is Official"
