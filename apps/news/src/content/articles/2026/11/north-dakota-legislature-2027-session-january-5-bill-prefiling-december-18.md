@@ -98,7 +98,7 @@ assets:
         - { date: "2027-04-07", cells: { Milestone: "63rd day: bills and resolutions reported out of committee in second house" }, src: 1, quote: ["April 7 (Wednesday)", "Bills and resolutions must be reported out of committee in second house"] }
         - { date: "2027-04-30", cells: { Milestone: "80th day: session limited to 80 legislative days" }, src: 1, quote: ["April 30 (Friday)", "Session limited to 80 legislative days"] }
       unconfirmed:
-        - { label: "Final dates", why: "The Legislative Council's list is tentative" }
+        - { label: "Tentative dates", why: "The Legislative Council's list is tentative" }
         - { label: "Organizational session location detail and live video", why: "Not stated on the sources read Nov. 11, 2026" }
 downloads:
   - group: "North Dakota Legislature 2027 Session Tracker printables"
@@ -120,7 +120,7 @@ The list is marked tentative, so dates can change. Its footer reads "June 2026."
 
 A legislative day begins at 7:00 a.m. under House and Senate Rules 104, so the day numbers count those periods rather than calendar days. The table follows the council's wording in plain English. House Rules (HR) and Senate Rules (SR) apply to their own chamber; H/SR means both.
 
-| Date | Weekday | Legislative day | What happens | Rule |
+| Date | Weekday | Legislative day | Milestone | Rule |
 |---|---|---|---|---|
 | Nov. 25, 2026 | Wednesday | - | Executive agencies and the Supreme Court file bills with the Legislative Council | H/SR 402(2), JR 208 |
 | Dec. 1-3, 2026 | Tuesday to Thursday | - | Organizational session | |
