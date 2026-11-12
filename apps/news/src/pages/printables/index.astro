@@ -118,7 +118,7 @@ const jsonLd = listingGraph({
       const esc = (s) => String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" })[c]);
       // The same card the page renders for its first screen (keep the two in step).
       const card = (i) => `<li class="printable-card" data-printable data-topic="${esc(i.c)}">
-        <a class="thumb" href="${esc(i.p)}" target="_blank" rel="noopener" aria-label="Open ${esc(i.t)} (PDF, new tab)"><img src="${esc(i.i)}" alt="${esc(i.x)}" title="${esc(i.t)}" width="360" height="466" loading="lazy" decoding="async"><span class="open" aria-hidden="true">Open PDF ↗</span></a>
+        <a class="thumb" href="${esc(i.p)}" target="_blank" rel="noopener" aria-label="Open ${esc(i.t)} (PDF, new tab)"><img src="${esc(i.i)}" alt="${esc(i.x || i.t)}" title="${esc(i.t)}" width="360" height="466" loading="lazy" decoding="async"><span class="open" aria-hidden="true">Open PDF ↗</span></a>
         <div class="body"><p class="cat">${esc(cats[i.c] || i.c)}</p><h2>${esc(i.t)}</h2><p class="description">${esc(i.d)}</p>
         <ul class="pmeta" aria-label="File details"><li>${i.n} ${i.n === 1 ? "page" : "pages"}</li><li>${esc(i.s)}</li>${i.k ? '<li class="ink">Low-ink version</li>' : ""}</ul>
         <div class="btns"><a class="btn pdf" href="${esc(i.p)}" download type="application/pdf">Download PDF</a><a class="btn png" href="${esc(i.g)}" download type="image/png" aria-label="Download ${esc(i.t)} as PNG image">PNG</a></div>
