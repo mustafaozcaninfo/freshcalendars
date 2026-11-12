@@ -53,7 +53,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [colorado-legislature-2027-session-january-11, north-dakota-legislature-2027-session-january-5-bill-prefiling-december-18, utah-legislature-2027-general-session-january-19-march-5]
+related: [colorado-legislature-2027-session-january-11, north-dakota-legislature-2027-session-january-5-bill-prefiling-december-18, nebraska-legislature-2027-session-january-6-day-90-june-4]
 assets:
   overlay: true
   kicker: "Montana Legislature · 2027 session"
