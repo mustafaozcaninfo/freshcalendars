@@ -53,7 +53,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [texas-legislative-session-2027-january-12-bill-filing-deadlines, florida-legislative-session-2027-march-2-organization-session-november-17, maryland-general-assembly-2027-session-january-13-april-12]
+related: [texas-legislative-session-2027-january-12-bill-filing-deadlines, maryland-general-assembly-2027-session-january-13-april-12, kentucky-general-assembly-2027-session-january-5-sine-die-march-30]
 assets:
   overlay: true
   kicker: "Virginia General Assembly · 2027 session"
