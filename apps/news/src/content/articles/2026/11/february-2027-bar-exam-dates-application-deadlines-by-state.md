@@ -66,7 +66,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [lsat-test-dates-2026-27-registration-deadlines, sat-act-test-dates-2026-27-registration-deadlines]
+related: [lsat-test-dates-2026-27-registration-deadlines, sat-act-test-dates-2026-27-registration-deadlines, cpa-exam-score-release-dates-2026-2027]
 draft: false
 downloads:
   - group: "February 2027 Bar Exam Deadlines by State printables"

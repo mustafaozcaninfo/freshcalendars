@@ -40,7 +40,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [mcat-2027-test-dates-registration-opens-october-20, sat-act-test-dates-2026-27-registration-deadlines, february-2027-bar-exam-dates-application-deadlines-by-state]
+related: [mcat-2027-test-dates-registration-opens-october-20, cpa-exam-score-release-dates-2026-2027, february-2027-bar-exam-dates-application-deadlines-by-state]
 downloads:
   - group: "LSAT printable"
     title: "LSAT Test Dates 2026-27"
