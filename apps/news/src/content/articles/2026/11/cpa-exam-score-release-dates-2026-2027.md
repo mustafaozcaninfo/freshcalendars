@@ -47,7 +47,7 @@ assets:
           src: 1
           cells:
             Section: { text: "Discipline", src: 1 }
-            File date or testing window: { text: "Tested Oct. 1-31", src: 1 }
+            File date or testing window: { text: "Testing window Oct. 1-31", src: 1 }
         - date: "2026-12-16"
           quote: "December 8 | December 16"
           src: 1
@@ -77,7 +77,7 @@ assets:
           src: 1
           cells:
             Section: { text: "Discipline", src: 1 }
-            File date or testing window: { text: "Tested Jan. 1-31", src: 1 }
+            File date or testing window: { text: "Testing window Jan. 1-31", src: 1 }
         - date: "2027-03-17"
           quote: "March 9 | March 17"
           src: 1
@@ -107,7 +107,7 @@ assets:
           src: 1
           cells:
             Section: { text: "Discipline", src: 1 }
-            File date or testing window: { text: "Tested Apr. 1-30", src: 1 }
+            File date or testing window: { text: "Testing window Apr. 1-30", src: 1 }
         - date: "2027-06-16"
           quote: "June 8 | June 16"
           src: 1
@@ -125,49 +125,49 @@ assets:
           src: 1
           cells:
             Section: { text: "Discipline", src: 1 }
-            File date or testing window: { text: "Tested Jul. 12-Aug. 12, 2027", src: 1 }
+            File date or testing window: { text: "Testing window Jul. 12-Aug. 12, 2027", src: 1 }
         - date: "2027-10-19"
           quote: "July 12, 2027 - September 30, 2027 | October 19, 2027"
           src: 1
           cells:
             Section: { text: "Core", src: 1 }
-            File date or testing window: { text: "Tested Jul. 12-Sep. 30, 2027", src: 1 }
+            File date or testing window: { text: "Testing window Jul. 12-Sep. 30, 2027", src: 1 }
         - date: "2027-12-17"
           quote: "October 1, 2027 – October 31, 2027 | December 17, 2027"
           src: 1
           cells:
             Section: { text: "Discipline", src: 1 }
-            File date or testing window: { text: "Tested Oct. 1-31, 2027", src: 1 }
+            File date or testing window: { text: "Testing window Oct. 1-31, 2027", src: 1 }
         - date: "2027-12-28"
           quote: "October 1, 2027 – December 15, 2027 | December 28, 2027"
           src: 1
           cells:
             Section: { text: "Core", src: 1 }
-            File date or testing window: { text: "Tested Oct. 1-Dec. 15, 2027", src: 1 }
+            File date or testing window: { text: "Testing window Oct. 1-Dec. 15, 2027", src: 1 }
         - date: "2028-03-17"
           quote: "January 1, 2028 – January 31, 2028 | March 17, 2028"
           src: 1
           cells:
             Section: { text: "Discipline", src: 1 }
-            File date or testing window: { text: "Tested Jan. 1-31, 2028", src: 1 }
+            File date or testing window: { text: "Testing window Jan. 1-31, 2028", src: 1 }
         - date: "2028-03-28"
           quote: "January 1, 2028 – March 15, 2028 | March 28, 2028"
           src: 1
           cells:
             Section: { text: "Core", src: 1 }
-            File date or testing window: { text: "Tested Jan. 1-Mar. 15, 2028", src: 1 }
+            File date or testing window: { text: "Testing window Jan. 1-Mar. 15, 2028", src: 1 }
         - date: "2028-06-16"
           quote: "April 1, 2028 – April 30, 2028 | June 16, 2028"
           src: 1
           cells:
             Section: { text: "Discipline", src: 1 }
-            File date or testing window: { text: "Tested Apr. 1-30, 2028", src: 1 }
+            File date or testing window: { text: "Testing window Apr. 1-30, 2028", src: 1 }
         - date: "2028-06-27"
           quote: "April 1, 2028 – June 15, 2028 | June 27, 2028"
           src: 1
           cells:
             Section: { text: "Core", src: 1 }
-            File date or testing window: { text: "Tested Apr. 1-Jun. 15, 2028", src: 1 }
+            File date or testing window: { text: "Testing window Apr. 1-Jun. 15, 2028", src: 1 }
       unconfirmed:
         - { label: "Time of day scores are released", why: "Neither the AICPA nor NASBA page gives one" }
 summary:
