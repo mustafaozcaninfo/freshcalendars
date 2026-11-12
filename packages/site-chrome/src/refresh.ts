@@ -379,6 +379,19 @@ html[data-theme=dark] .holiday-country-tabs a[aria-current=page]{background:var(
   .ny-card .cta{display:grid; grid-template-columns:1fr; gap:8px}
   .ny-card .cta .btn{width:100%; justify-content:center; text-align:center}
 }
+/* /when-is/ pages: stories about this holiday, near the top. */
+.holiday-guides{margin:20px 0 24px; padding:16px 18px 12px; border:1px solid var(--line); border-radius:var(--r-lg); background:var(--surface-soft)}
+.holiday-guides .hg-label{margin:0 0 6px; font:600 12px Manrope,sans-serif; letter-spacing:.09em; text-transform:uppercase; color:var(--muted)}
+.holiday-guides ul{list-style:none; margin:0; padding:0}
+.holiday-guides li{margin:0; border-top:1px solid var(--line-soft)}
+.holiday-guides li:first-child{border-top:0}
+.holiday-guides li a{display:grid; grid-template-columns:1fr auto; gap:2px 12px; align-items:center; min-height:48px; padding:10px 0; text-decoration:none; color:var(--ink-strong); font-weight:600; line-height:1.35}
+.holiday-guides li a::after{content:"→"; grid-column:2; grid-row:1/span 2; color:var(--muted); transition:transform .15s var(--ease)}
+.holiday-guides li a:hover span{text-decoration:underline; text-underline-offset:3px}
+.holiday-guides li a:hover::after{transform:translateX(3px); color:var(--accent)}
+.holiday-guides time{grid-column:1; font-size:13px; font-weight:400; color:var(--muted)}
+.holiday-guides .hg-more{display:inline-flex; align-items:center; min-height:40px; font-size:14px; font-weight:600; color:var(--focus)}
+@media print{.holiday-guides{display:none}}
 /* Month pages: the same month next year, one wide card. */
 .ny-card{display:grid; grid-template-columns:150px 1fr; gap:22px; align-items:center; padding:18px; border:1px solid var(--line); border-radius:var(--r-lg); background:var(--paper)}
 .ny-card img{width:100%; height:auto; border-radius:var(--r-sm); border:1px solid var(--line-soft); display:block}
