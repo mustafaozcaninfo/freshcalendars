@@ -54,10 +54,6 @@ export const LEGACY_RULES = [
   [/^when-is\/(dst|daylight-saving-time|daylight-saving)\/?$/, "/when-is/daylight-savings/"],
   [/^when-is\/([a-z0-9-]+)-(20[0-9]{2})\/?$/, "/when-is/$1/"],
   [new RegExp(`^(${MONTHS})-calendars\\/?$`), "/$1-calendars.html"],
-  // Dated pages (/december-2027-calendar/, /2028-calendar/) exist for five years at a time; a year
-  // outside that range has no file, so it lands on the page for the current year instead of a 404.
-  [new RegExp(`^(${MONTHS})-20[0-9]{2}-calendar\\/?$`), "/$1-calendars.html"],
-  [/^20[0-9]{2}-calendar\/?$/, "/printable-calendars.html"],
   [/^news\/page\/1\/?$/, "/news/"],
 ];
 
