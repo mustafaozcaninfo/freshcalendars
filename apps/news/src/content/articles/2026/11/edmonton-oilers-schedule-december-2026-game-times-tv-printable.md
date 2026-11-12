@@ -91,7 +91,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/when-is/ca-boxing-day/"
     label: "When is Boxing Day in Canada?"
-related: [edmonton-oilers-schedule-november-2026-game-times-tv-printable, montreal-canadiens-schedule-december-2026-game-times-tv-printable, washington-capitals-schedule-december-2026-game-times-tv-printable]
+related: [edmonton-oilers-schedule-november-2026-game-times-tv-printable, montreal-canadiens-schedule-december-2026-game-times-tv-printable, vancouver-canucks-schedule-december-2026-game-times-tv-printable]
 draft: false
 ---
 

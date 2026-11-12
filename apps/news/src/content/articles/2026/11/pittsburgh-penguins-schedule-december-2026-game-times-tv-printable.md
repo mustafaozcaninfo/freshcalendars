@@ -89,7 +89,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [pittsburgh-penguins-schedule-november-2026-game-times-tv-printable, boston-bruins-schedule-december-2026-game-times-tv-printable, toronto-maple-leafs-schedule-december-2026-game-times-tv-printable]
+related: [pittsburgh-penguins-schedule-november-2026-game-times-tv-printable, boston-bruins-schedule-december-2026-game-times-tv-printable, philadelphia-flyers-schedule-december-2026-game-times-tv-printable]
 draft: false
 ---
 
