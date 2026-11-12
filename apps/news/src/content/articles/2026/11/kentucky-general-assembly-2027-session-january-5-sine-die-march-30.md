@@ -57,19 +57,19 @@ assets:
     alt: "Printable tracker of Kentucky General Assembly 2027 session dates from Jan. 5 to March 30"
     data:
       target: { date: "2027-03-30", label: "Sine die" }
-      columns: ["Milestone"]
+      columns: ["What the calendar shows"]
       rows:
-        - { date: "2027-01-05", cells: { Milestone: "Part I convenes (day 1)" }, src: 1, quote: ["January 5", "Part I convenes", "(1)"] }
-        - { date: "2027-02-02", cells: { Milestone: "Part II convenes (day 5)" }, src: 1, quote: ["February 2", "Part II Convenes", "(5)"] }
-        - { date: "2027-02-15", cells: { Milestone: "President's Day, no legislative day" }, src: 1, quote: ["February 15", "President's Day"] }
-        - { date: "2027-02-16", cells: { Milestone: "Last day for Senate bills (day 13)" }, src: 1, quote: ["February 16", "Last Day for Senate Bills", "(13)"] }
-        - { date: "2027-02-17", cells: { Milestone: "Last day for House bills (day 14)" }, src: 1, quote: ["February 17", "Last Day for House Bills", "(14)"] }
-        - { date: "2027-03-11", cells: { Milestone: "Concurrence (day 27)" }, src: 1, quote: ["March 11", "Concurrence", "(27)"] }
-        - { date: "2027-03-12", cells: { Milestone: "Concurrence (day 28)" }, src: 1, quote: ["March 12", "Concurrence", "(28)"] }
-        - { date: "2027-03-13", cells: { Milestone: "Veto days begin; also March 15-20 and 22-24" }, src: 1, quote: ["March 13", "VETO"] }
-        - { date: "2027-03-25", cells: { Milestone: "General Assembly returns (day 29)" }, src: 1, quote: ["March 25", "(29)"] }
-        - { date: "2027-03-26", cells: { Milestone: "Good Friday, no legislative day" }, src: 1, quote: ["March 26", "Good Friday"] }
-        - { date: "2027-03-30", cells: { Milestone: "Sine die (day 30)" }, src: 1, quote: ["March 30", "SINE DIE", "(30)"] }
+        - { date: "2027-01-05", cells: { "What the calendar shows": "Part I convenes (day 1)" }, src: 1, quote: ["January 5", "Part I convenes", "(1)"] }
+        - { date: "2027-02-02", cells: { "What the calendar shows": "Part II convenes (day 5)" }, src: 1, quote: ["February 2", "Part II Convenes", "(5)"] }
+        - { date: "2027-02-15", cells: { "What the calendar shows": "President's Day, no legislative day" }, src: 1, quote: ["February 15", "President's Day"] }
+        - { date: "2027-02-16", cells: { "What the calendar shows": "Last day for Senate bills (day 13)" }, src: 1, quote: ["February 16", "Last Day for Senate Bills", "(13)"] }
+        - { date: "2027-02-17", cells: { "What the calendar shows": "Last day for House bills (day 14)" }, src: 1, quote: ["February 17", "Last Day for House Bills", "(14)"] }
+        - { date: "2027-03-11", cells: { "What the calendar shows": "Concurrence (day 27)" }, src: 1, quote: ["March 11", "Concurrence", "(27)"] }
+        - { date: "2027-03-12", cells: { "What the calendar shows": "Concurrence (day 28)" }, src: 1, quote: ["March 12", "Concurrence", "(28)"] }
+        - { date: "2027-03-13", cells: { "What the calendar shows": "Veto days begin; also March 15-20 and 22-24" }, src: 1, quote: ["March 13", "VETO"] }
+        - { date: "2027-03-25", cells: { "What the calendar shows": "General Assembly returns (day 29)" }, src: 1, quote: ["March 25", "(29)"] }
+        - { date: "2027-03-26", cells: { "What the calendar shows": "Good Friday, no legislative day" }, src: 1, quote: ["March 26", "Good Friday"] }
+        - { date: "2027-03-30", cells: { "What the calendar shows": "Sine die (day 30)" }, src: 1, quote: ["March 30", "SINE DIE", "(30)"] }
       unconfirmed:
         - { label: "Bill request and prefiling rules", why: "The calendar gives only the Feb. 16 and 17 last days for bills; no other deadline was read" }
 downloads:
@@ -84,7 +84,7 @@ downloads:
 draft: false
 ---
 
-**Kentucky's 2027 regular session opens Tuesday, Jan. 5 and ends sine die Tuesday, March 30, according to the 2027 Regular Session Calendar the Legislative Research Commission (LRC) posted Sept. 10, 2026.** The calendar numbers 30 legislative days. The table below gives each with its weekday, and a free printable tracker keeps the milestones in order.
+**Kentucky's 2027 regular session opens Tuesday, Jan. 5 and ends sine die Tuesday, March 30, according to the 2027 Regular Session Calendar the Legislative Research Commission (LRC) posted Sept. 10, 2026.** The calendar, as read on Nov. 12, 2026, numbers 30 legislative days. The table below gives each with its weekday, and a free printable tracker keeps the milestones in order.
 
 The session is split in two. Part I convenes Jan. 5 and holds four legislative days, Tuesday to Friday, Jan. 5-8. Part II convenes Tuesday, Feb. 2. The calendar's legend marks the stretch between them as a break between Part I and Part II and says bill drafts may be requested during it for introduction when Part II convenes.
 

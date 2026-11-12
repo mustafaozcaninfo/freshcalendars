@@ -71,17 +71,17 @@ assets:
     alt: "Printable tracker of the tentative 2027 Nebraska Legislature calendar from Jan. 6 to June 4"
     data:
       target: { date: "2027-06-04", label: "Day 90" }
-      columns: ["Milestone"]
+      columns: ["Notes"]
       rows:
-        - { date: "2027-01-06", cells: { Milestone: "Day 1: session convenes" }, src: 1, quote: ["*The speaker elected on Jan. 6, 2027, will publish the official session calendar.", "DAY 1"] }
-        - { date: "2027-01-18", cells: { Milestone: "Holiday: Martin Luther King Jr. Day" }, src: 1, quote: ["January 18 – Martin Luther King Jr. Day"] }
-        - { date: "2027-02-12", cells: { Milestone: "First recess day (after Day 26)" }, src: 1, quote: ["February 12", "RECESS"] }
-        - { date: "2027-02-15", cells: { Milestone: "Holiday: Presidents' Day" }, src: 1, quote: ["February 15 – Presidents’ Day"] }
-        - { date: "2027-03-12", cells: { Milestone: "Recess days in March: 12, 15, 26 and 29" }, src: 1, quote: ["March 12, 15, 26, 29"] }
-        - { date: "2027-04-30", cells: { Milestone: "Holiday: Arbor Day (after Day 72)" }, src: 1, quote: ["April 30 – Arbor Day"] }
-        - { date: "2027-05-31", cells: { Milestone: "Holiday: Memorial Day (after Day 89)" }, src: 1, quote: ["May 31 – Memorial Day"] }
-        - { date: "2027-06-01", cells: { Milestone: "Recess, June 1-3" }, src: 1, quote: ["June 1, 2, 3"] }
-        - { date: "2027-06-04", cells: { Milestone: "Day 90 on the tentative grid" }, src: 1, quote: ["June 4", "DAY 90"] }
+        - { date: "2027-01-06", cells: { Notes: "Day 1: session convenes" }, src: 1, quote: ["*The speaker elected on Jan. 6, 2027, will publish the official session calendar.", "DAY 1"] }
+        - { date: "2027-01-18", cells: { Notes: "Holiday: Martin Luther King Jr. Day" }, src: 1, quote: ["January 18 – Martin Luther King Jr. Day"] }
+        - { date: "2027-02-12", cells: { Notes: "First recess day (after Day 26)" }, src: 1, quote: ["February 12", "RECESS"] }
+        - { date: "2027-02-15", cells: { Notes: "Holiday: Presidents' Day" }, src: 1, quote: ["February 15 – Presidents’ Day"] }
+        - { date: "2027-03-12", cells: { Notes: "Recess days in March: 12, 15, 26 and 29" }, src: 1, quote: ["March 12, 15, 26, 29"] }
+        - { date: "2027-04-30", cells: { Notes: "Holiday: Arbor Day (after Day 72)" }, src: 1, quote: ["April 30 – Arbor Day"] }
+        - { date: "2027-05-31", cells: { Notes: "Holiday: Memorial Day (after Day 89)" }, src: 1, quote: ["May 31 – Memorial Day"] }
+        - { date: "2027-06-01", cells: { Notes: "Recess, June 1-3" }, src: 1, quote: ["June 1, 2, 3"] }
+        - { date: "2027-06-04", cells: { Notes: "Day 90 on the tentative grid" }, src: 1, quote: ["June 4", "DAY 90"] }
       unconfirmed:
         - { label: "Official session calendar", why: "The speaker elected on Jan. 6, 2027, will publish it" }
         - { label: "Priority bill designations and hearing dates", why: "Not on the sources read Nov. 12, 2026" }
