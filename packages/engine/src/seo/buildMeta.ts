@@ -261,8 +261,9 @@ export function buildMetaForEntry(
     return baseMeta({
       pageId: entry.pageId,
       path: "/",
-      title: `Printable Calendars ${year} · Free Monthly & Year PDFs | ${SITE_NAME}`,
-      description: `Free printable calendars for ${year}: this month’s ${curName} sheet, next month, blank write-ins, and a ${year} year-at-a-glance PDF. Seven monthly designs, no account.`,
+      // Both years: from autumn on, searchers ask for next year's calendar and the home page serves it too.
+      title: `Printable Calendars ${year} & ${year + 1} · Free Monthly & Year PDFs`,
+      description: `Free printable calendars for ${year} and ${year + 1}: this month’s ${curName} sheet, every month ahead, blank write-ins, and year-at-a-glance PDFs. No account.`,
       family: "home",
       year,
       month: curM,
@@ -271,6 +272,8 @@ export function buildMetaForEntry(
         "printable calendar",
         `printable calendar ${year}`,
         `${year} calendar`,
+        `${year + 1} calendar`,
+        `printable calendar ${year + 1}`,
         "free printable monthly calendar",
         "printable yearly calendar",
         "blank calendar printable",
@@ -320,10 +323,10 @@ export function buildMetaForEntry(
       pageId: entry.pageId,
       path: entry.path,
       title: isNext
-        ? `${year} Yearly Calendar · Next-Year Poster Hub | ${SITE_NAME}`
-        : `${year} Yearly Calendar · Printable Year Overview | ${SITE_NAME}`,
+        ? `${year} Printable Calendar · Free Year-at-a-Glance PDF`
+        : `${year} Yearly Calendar · Free Printable Year at a Glance`,
       description: isNext
-        ? `Free ${year} yearly calendar poster in PNG and PDF. Five wall formats: classic, landscape, holidays, Monday-start, and ink-compact, with twelve accurate months.`
+        ? `Free ${year} printable calendar on one page, in PDF and PNG: all twelve months in portrait, landscape, holidays, Monday-start and ink-saving designs.`
         : `Free ${year} yearly printable calendar in PNG and PDF: five poster formats with twelve mini-months and accurate ${year} weekdays on one page.`,
       family: "yearly",
       year,
