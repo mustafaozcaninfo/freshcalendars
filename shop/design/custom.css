@@ -397,3 +397,29 @@ body.cr-prism--dark :is(.fc-spec-links,.fc-guide-links) li a{border-color:rgb(40
   .fc-table{background:linear-gradient(to right,#fff 30%,rgba(255,255,255,0)),linear-gradient(to left,#fff 30%,rgba(255,255,255,0)) 100% 0,radial-gradient(farthest-side at 0 50%,rgba(14,33,53,.18),transparent),radial-gradient(farthest-side at 100% 50%,rgba(14,33,53,.18),transparent) 100% 0;background-repeat:no-repeat;background-size:36px 100%,36px 100%,12px 100%,12px 100%;background-attachment:local,local,scroll,scroll}
   body.cr-prism--dark .fc-table{background:linear-gradient(to right,rgb(var(--fc-page)) 30%,transparent),linear-gradient(to left,rgb(var(--fc-page)) 30%,transparent) 100% 0,radial-gradient(farthest-side at 0 50%,rgba(0,0,0,.55),transparent),radial-gradient(farthest-side at 100% 50%,rgba(0,0,0,.55),transparent) 100% 0;background-repeat:no-repeat;background-size:36px 100%,36px 100%,12px 100%,12px 100%;background-attachment:local,local,scroll,scroll}
 }
+
+/* 18. Modern web guidance pass (Nov. 12, 2026; GoogleChrome/modern-web-guidance) */
+/* Page changes cross-fade where the browser supports cross-document view transitions; others navigate as before */
+@media (prefers-reduced-motion:no-preference){@view-transition{navigation:auto}}
+/* Headings break into even lines; long text avoids a single word on the last line */
+body.cr-prism :is(h1,h2,h3){text-wrap:balance}
+body.cr-prism main :is(p,li,blockquote){text-wrap:pretty}
+/* Wide tables on phones: the edge fades while there is more to scroll, driven by the table's own scroll position.
+   Browsers without scroll-driven animations keep the background shadow of section 17. */
+@property --fc-fade-start{syntax:"<length>";inherits:false;initial-value:0px}
+@property --fc-fade-end{syntax:"<length>";inherits:false;initial-value:0px}
+@keyframes fc-reveal-fade-start{to{--fc-fade-start:var(--fc-fade-size)}}
+@keyframes fc-hide-fade-end{from{--fc-fade-end:var(--fc-fade-size)}}
+@media (max-width:767.98px){
+  @supports (animation-timeline:scroll()){
+    body.cr-prism .fc-table,body.cr-prism--dark .fc-table{
+      background:none;--fc-fade-size:2.25rem;
+      mask:linear-gradient(black,black) no-clip subtract,
+        linear-gradient(to right,black,transparent) 0 0/var(--fc-fade-start) 100% no-repeat no-clip,
+        linear-gradient(to right,transparent,black) 100% 0/var(--fc-fade-end) 100% no-repeat no-clip;
+      animation:fc-reveal-fade-start linear both,fc-hide-fade-end linear both;
+      animation-timeline:scroll(self inline);
+      animation-range:0 var(--fc-fade-size),calc(100% - var(--fc-fade-size)) 100%;
+    }
+  }
+}
