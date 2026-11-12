@@ -54,7 +54,7 @@ internalLinks:
     label: "May 2027 printable calendar"
   - href: "/june-calendars.html"
     label: "June 2027 printable calendar"
-related: [north-dakota-legislature-2027-session-january-5-bill-prefiling-december-18, montana-legislature-2027-session-january-4-bill-request-deadlines, missouri-general-assembly-2027-session-january-6-prefiling-december-1]
+related: [iowa-legislature-2027-session-january-11-funnel-deadlines, montana-legislature-2027-session-january-4-bill-request-deadlines, missouri-general-assembly-2027-session-january-6-prefiling-december-1]
 assets:
   overlay: true
   kicker: "Nebraska Legislature · 2027 session"
