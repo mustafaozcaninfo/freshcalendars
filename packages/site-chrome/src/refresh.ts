@@ -351,6 +351,41 @@ html[data-theme=dark] .holiday-country-tabs a[aria-current=page]{background:var(
   .date-answer>strong{font-size:24px}
   .footer-grid{padding:36px 0 28px}
 }
+/* Phone and tablet header: the appearance button sits beside Menu instead of floating between it and
+   the logo, and the open menu lines up with the page margins. */
+@media(max-width:1023px){
+  .site-header{gap:8px}
+  .site-header{justify-content:flex-start}
+  .site-header .brand{margin-right:auto}
+  .site-header .nav-drawer{margin-left:0}
+  /* The home hero has its own search box; a second one in the header only pushes it down. */
+  html[data-design-layout="home"] .site-header>.site-search{display:none}
+  .site-header .header-utilities{margin:0}
+  .theme-toggle{min-width:42px; min-height:42px; border:1px solid var(--line); background:var(--paper); box-shadow:var(--shadow-xs)}
+  .nav-toggle{min-height:42px; padding:0 12px}
+  .nav-drawer>.nav{left:20px; right:20px; width:auto; max-height:calc(100dvh - 84px); padding:8px}
+  .nav>a,.nav-group>summary{min-height:48px; padding:10px 14px; font-size:16px}
+  .nav-months{display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:4px}
+  .nav-months a{justify-content:center; min-height:40px}
+}
+@media(max-width:640px){
+  .nav-drawer>.nav{left:16px; right:16px}
+  /* Seven launchers in four columns: the last one fills the row. */
+  .category-launchers a:last-child{grid-column:span 2}
+  /* Arrows stay inside the screen edge. */
+  .preview-arrow.previous{left:-6px}
+  .preview-arrow.next{right:-6px}
+  .file-chip{min-height:36px; padding:6px 10px; font-size:13px}
+  .ny-card .cta{display:grid; grid-template-columns:1fr; gap:8px}
+  .ny-card .cta .btn{width:100%; justify-content:center; text-align:center}
+}
+/* Month pages: the same month next year, one wide card. */
+.ny-card{display:grid; grid-template-columns:150px 1fr; gap:22px; align-items:center; padding:18px; border:1px solid var(--line); border-radius:var(--r-lg); background:var(--paper)}
+.ny-card img{width:100%; height:auto; border-radius:var(--r-sm); border:1px solid var(--line-soft); display:block}
+.ny-card h3{margin:0 0 6px}
+.ny-card p{margin:0 0 14px; color:var(--muted)}
+@media(max-width:520px){.ny-card{grid-template-columns:96px 1fr; gap:14px; padding:14px; align-items:start}}
+@media print{.next-year-month{display:none}}
 @media(prefers-reduced-motion:reduce){.shelf-card:hover .shelf-preview img,.library-card:hover,.category-launchers a:hover,.studio-primary:hover{transform:none!important}}
 @media print{.site-header-bar::before{display:none}}
 `;
