@@ -2,8 +2,8 @@
 title: "North Dakota Legislature 2027: Session Opens Jan. 5, Prefiling Dec. 18"
 description: "North Dakota's 2027 legislative session begins Jan. 5; prefiling ends Dec. 18. All 20 tentative deadlines by weekday and day, plus a printable tracker."
 type: explainer
-publishedAt: "2026-11-11T19:30:00-05:00"
-updatedAt: "2026-11-11T19:30:00-05:00"
+publishedAt: "2026-11-11T19:05:00-05:00"
+updatedAt: "2026-11-11T19:05:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["north dakota legislative session 2027", "north dakota legislature 2027 deadlines", "north dakota crossover 2027", "nd legislature 2027 bill introduction deadline"]
