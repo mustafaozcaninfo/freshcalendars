@@ -139,6 +139,11 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 ### Long-tail article queue (`tools/longtail_queue.py`)
 - Matches the saved search suggestions (`data/google-suggest-filtered.json`) against live listings and writes `articles/longtail-queue.json`: queries of three or more words that 6 or more products answer and no article or spec page covers. Run it after `fetchall.py` and `article_check.py --sync`, and pick article topics from it.
 
+### Article batches (Nov. 12, 2026)
+- 24 long-tail articles from `articles/longtail-queue.json` are scheduled three a day from Nov. 27 to Dec. 4, 2026 (ids 112 to 135). Facts files and drafts were built in `.cache/shop/articles/` by the workflow in the `shop-article` skill.
+- `tools/category_guides.py` links every live article from its product category. Run it weekly and after scheduled articles go live; it skips articles that are not live yet.
+- The checker fails an H2 another article already uses, so give the "what we left out" section a heading that names the product kind.
+
 ### Ratings (Fresh Calendars Score)
 1. The method and the writing rules are in `ratings/METHODS.md`. The public version is the `/how-we-rate-products` page; keep both in step.
 2. Build the input: listing text per product from the offers' `title` and `features`.
