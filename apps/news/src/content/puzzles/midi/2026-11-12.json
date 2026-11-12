@@ -1,0 +1,553 @@
+{
+ "title": "Put on a Happy Face",
+ "editor": "Ian Livengood",
+ "publicationDate": "2026-11-12",
+ "constructors": [
+  "Zhou Zhang and Kevin Curry"
+ ],
+ "width": 11,
+ "height": 11,
+ "cells": [
+  null,
+  null,
+  null,
+  "M",
+  "I",
+  "A",
+  "T",
+  "A",
+  null,
+  null,
+  null,
+  null,
+  null,
+  "P",
+  "I",
+  "N",
+  "C",
+  "U",
+  "R",
+  "L",
+  null,
+  null,
+  null,
+  "P",
+  "E",
+  "R",
+  "F",
+  "O",
+  "R",
+  "M",
+  "E",
+  "R",
+  null,
+  "C",
+  "A",
+  "R",
+  null,
+  "I",
+  "L",
+  "K",
+  null,
+  "G",
+  "E",
+  "T",
+  "S",
+  "M",
+  "I",
+  "L",
+  "E",
+  "Y",
+  "E",
+  "M",
+  "O",
+  "J",
+  "I",
+  "P",
+  "E",
+  "N",
+  "A",
+  "L",
+  "T",
+  "Y",
+  "S",
+  "H",
+  "O",
+  "T",
+  "A",
+  "L",
+  "A",
+  null,
+  "D",
+  "E",
+  "S",
+  null,
+  "O",
+  "I",
+  "L",
+  "N",
+  "A",
+  "T",
+  "E",
+  null,
+  null,
+  null,
+  "P",
+  "U",
+  "C",
+  "E",
+  null,
+  "S",
+  "A",
+  "Y",
+  "C",
+  "H",
+  "E",
+  "E",
+  "S",
+  "E",
+  null,
+  null,
+  null,
+  "L",
+  "E",
+  "H",
+  "A",
+  "V",
+  "R",
+  "E",
+  null,
+  null,
+  null,
+  null,
+  null,
+  "S",
+  "A",
+  "L",
+  "E",
+  "M",
+  null,
+  null,
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Mazda two-seater",
+   "cells": [
+    3,
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Coil of hair secured with a clip",
+   "cells": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "One who takes the stage",
+   "cells": [
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Train or subway component",
+   "cells": [
+    33,
+    34,
+    35
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Of the same ___ (similar)",
+   "cells": [
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Understand",
+   "cells": [
+    41,
+    42,
+    43
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Texter's icon depicted in this puzzle",
+   "cells": [
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Exciting play on an ice rink",
+   "cells": [
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "In the style of",
+   "cells": [
+    66,
+    67,
+    68
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "___ Moines, Iowa",
+   "cells": [
+    70,
+    71,
+    72
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Commodity measured in barrels",
+   "cells": [
+    74,
+    75,
+    76
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "\"___ the Great\" (children's lit sleuth with a rhyming name)",
+   "cells": [
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Brownish-purple shade",
+   "cells": [
+    84,
+    85,
+    86,
+    87
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Photographer's request ... and an apt instruction for this puzzle",
+   "cells": [
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "Major French city on the English Channel",
+   "cells": [
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Capital of Oregon",
+   "cells": [
+    113,
+    114,
+    115,
+    116,
+    117
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Former Russian space station",
+   "cells": [
+    3,
+    14,
+    25
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Where first, second and third base are",
+   "cells": [
+    4,
+    15,
+    26,
+    37,
+    48,
+    59,
+    70
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Devoted follower",
+   "cells": [
+    5,
+    16,
+    27,
+    38,
+    49,
+    60,
+    71
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Entrees stuffed with stuffing",
+   "cells": [
+    6,
+    17,
+    28,
+    39,
+    50,
+    61,
+    72
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Twist one's ___",
+   "cells": [
+    7,
+    18,
+    29
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Kind of care provided to mother and child around the time of birth",
+   "cells": [
+    13,
+    24,
+    35,
+    46,
+    57,
+    68,
+    79,
+    90,
+    101
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Toy dwelling made of bricks",
+   "cells": [
+    19,
+    30,
+    41,
+    52,
+    63,
+    74,
+    85,
+    96,
+    107
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Actresses Anderson and Adlon",
+   "cells": [
+    23,
+    34,
+    45,
+    56,
+    67,
+    78,
+    89
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Celebrate",
+   "cells": [
+    31,
+    42,
+    53,
+    64,
+    75,
+    86,
+    97
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Channel that airs governmental proceedings",
+   "cells": [
+    33,
+    44,
+    55,
+    66,
+    77
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "This puzzle's \"Put on a Happy Face,\" e.g.",
+   "cells": [
+    43,
+    54,
+    65,
+    76,
+    87
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "Biloxi's state, in a mailing address",
+   "cells": [
+    47,
+    58
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "16",
+   "text": "Señorita, in English: Abbr.",
+   "cells": [
+    51,
+    62
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "What the two isolated black squares in this puzzle represent",
+   "cells": [
+    80,
+    91,
+    102,
+    113
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "Salon treatment",
+   "cells": [
+    84,
+    95,
+    106,
+    117
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "\"___-ching!\"",
+   "cells": [
+    92,
+    103,
+    114
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "\"2001: A Space Odyssey\" computer",
+   "cells": [
+    93,
+    104,
+    115
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "'Tis the night before",
+   "cells": [
+    94,
+    105,
+    116
+   ]
+  }
+ ]
+}
