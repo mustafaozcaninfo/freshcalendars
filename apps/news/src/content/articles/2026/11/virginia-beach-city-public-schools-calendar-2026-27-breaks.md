@@ -53,7 +53,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [fairfax-county-public-schools-calendar-2026-27-breaks, winter-break-2026-school-districts-dates, spring-break-2027-dates-school-districts]
+related: [fairfax-county-public-schools-calendar-2026-27-breaks, henrico-county-public-schools-calendar-2026-27, spring-break-2027-dates-school-districts]
 assets:
   overlay: true
   kicker: "Virginia Beach Schools · 2026-27"
