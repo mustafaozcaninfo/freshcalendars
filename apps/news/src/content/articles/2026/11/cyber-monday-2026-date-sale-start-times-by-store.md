@@ -2,8 +2,8 @@
 title: "Cyber Monday 2026 Is Nov. 30: When Each Store's Sale Starts"
 description: "Cyber Monday 2026 is Mon., Nov. 30. Walmart.com opens at 12:01 a.m. ET. Start times by store in ET and PT, plus a printable Nov. 26-Dec. 6 sale calendar."
 type: news
-publishedAt: "2026-11-11T22:40:00-05:00"
-updatedAt: "2026-11-11T22:40:00-05:00"
+publishedAt: "2026-11-11T23:30:00-05:00"
+updatedAt: "2026-11-11T23:30:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["cyber monday 2026", "when does cyber monday start", "cyber monday 2026 deals start time", "walmart cyber monday 2026"]

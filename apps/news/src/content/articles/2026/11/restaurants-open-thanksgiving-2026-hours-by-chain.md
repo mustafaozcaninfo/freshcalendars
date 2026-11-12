@@ -2,8 +2,8 @@
 title: "Restaurants Open on Thanksgiving 2026: Bob Evans 8 a.m.-7 p.m."
 description: "Restaurants open on Thanksgiving 2026 (Thu., Nov. 26): Chick-fil-A is closed. Pickup windows, order deadlines and a printable list by chain."
 type: news
-publishedAt: "2026-11-11T22:40:00-05:00"
-updatedAt: "2026-11-11T22:40:00-05:00"
+publishedAt: "2026-11-11T23:30:00-05:00"
+updatedAt: "2026-11-11T23:30:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["restaurants open on thanksgiving 2026", "what restaurants are open thanksgiving day", "is cracker barrel open on thanksgiving", "is chick-fil-a open on thanksgiving"]
@@ -33,7 +33,7 @@ assets:
         - { cells: { chain: "The Capital Grille", day: "Dine-in dinner, reservations", pickup: "Nov. 25, 9 a.m.-5 p.m.; Nov. 26, 9-11 a.m.", deadline: "Nov. 24" }, src: 4, quote: "Pick up scheduled for Wednesday, November 25, 9am-5pm and Thursday, November 26, 9am-11am. ... Pre-order by November 24." }
         - { cells: { chain: "Maggiano's Little Italy", day: "Dine-in hours not given", pickup: "Cold Nov. 25; hot Nov. 26", deadline: "24 hours before pickup" }, src: 2, quote: "Cold-prepared bundles are $210 and available for pick-up Wednesday, November 25th. ... Hot-prepared bundles are $220 and available for pick-up Thursday, November 26th. ... Please place orders 24 hours prior to desired pick-up time." }
         - { cells: { chain: "Morton's The Steakhouse", day: "Dine-in", pickup: "Pickup only, Nov. 25", deadline: "Not given" }, src: 3, quote: "Dine In • Thursday, November 26 ... Pick Up Only • Wednesday, November 25" }
-        - { cells: { chain: "Chick-fil-A", day: "Closed", pickup: "None", deadline: "None" }, src: 5, quote: "All U.S. Chick-fil-A® restaurants are closed on Thanksgiving, so our restaurant teams can spend time with family and friends." }
+        - { cells: { chain: "Chick-fil-A", day: "Closed", pickup: "Closed", deadline: "Closed" }, src: 5, quote: "All U.S. Chick-fil-A® restaurants are closed on Thanksgiving, so our restaurant teams can spend time with family and friends." }
       note: "Call your local restaurant before you go: franchise hours vary."
       unconfirmed:
         - { label: "Denny's, Waffle House, International House of Pancakes (IHOP)", why: "Official sites blocked automated checks; hours not confirmed" }
