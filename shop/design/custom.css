@@ -376,3 +376,24 @@ body.cr-prism section[aria-labelledby="collections-heading"] .group.relative>div
 body.cr-prism section[aria-labelledby="collections-heading"] .group.relative>div:first-child img:not([src*="media-amazon.com"]){object-fit:cover!important;padding:0!important;mix-blend-mode:normal!important}
 /* Phones: the hero grows with its text instead of clipping it at a fixed height */
 @media (max-width:767.98px){body.cr-prism .cr-hero--overlayed{height:auto!important;min-height:320px;padding-block:1.75rem}}
+
+/* 17. Quality pass (Nov. 12, 2026) */
+/* Dark mode: the sticky product bar on phones kept a light surface under white text */
+body.cr-prism--dark .cr-dock{background:rgb(22,29,37)!important;border-color:rgb(40,50,62)!important}
+body.cr-prism--dark .cr-dock__title{color:rgb(236,240,243)!important}
+/* Disclosure lines at 13 px, price-age stamps at 12 px (they were 12 and 11) */
+body.cr-prism main p.text-xs{font-size:.8125rem!important;line-height:1.5}
+body.cr-prism :is(.fs-price-stamp,.fs-price-age){font-size:.75rem!important}
+/* Link lists under a category (spec lists, guides): a grid of quiet cards instead of a bullet list */
+.fc-spec-links,.fc-guide-links{margin-top:2rem}
+:is(.fc-spec-links,.fc-guide-links) ul{list-style:none!important;padding:0!important;margin:.75rem 0 0!important;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:.5rem}
+:is(.fc-spec-links,.fc-guide-links) li{margin:0!important;padding:0!important;list-style:none!important}
+:is(.fc-spec-links,.fc-guide-links) li::before{content:none!important;display:none!important}
+:is(.fc-spec-links,.fc-guide-links) li a{display:block;height:100%;padding:.65rem .85rem;border:1px solid rgb(226,231,228);border-radius:10px;text-decoration:none!important;font-weight:600;font-size:.9375rem;line-height:1.35}
+:is(.fc-spec-links,.fc-guide-links) li a:hover{border-color:rgb(6,122,70)}
+body.cr-prism--dark :is(.fc-spec-links,.fc-guide-links) li a{border-color:rgb(40,50,62)}
+/* Wide tables on phones: a soft shadow at the edge shows there is more to scroll */
+@media (max-width:767.98px){
+  .fc-table{background:linear-gradient(to right,#fff 30%,rgba(255,255,255,0)),linear-gradient(to left,#fff 30%,rgba(255,255,255,0)) 100% 0,radial-gradient(farthest-side at 0 50%,rgba(14,33,53,.18),transparent),radial-gradient(farthest-side at 100% 50%,rgba(14,33,53,.18),transparent) 100% 0;background-repeat:no-repeat;background-size:36px 100%,36px 100%,12px 100%,12px 100%;background-attachment:local,local,scroll,scroll}
+  body.cr-prism--dark .fc-table{background:linear-gradient(to right,rgb(var(--fc-page)) 30%,transparent),linear-gradient(to left,rgb(var(--fc-page)) 30%,transparent) 100% 0,radial-gradient(farthest-side at 0 50%,rgba(0,0,0,.55),transparent),radial-gradient(farthest-side at 100% 50%,rgba(0,0,0,.55),transparent) 100% 0;background-repeat:no-repeat;background-size:36px 100%,36px 100%,12px 100%,12px 100%;background-attachment:local,local,scroll,scroll}
+}

@@ -6,6 +6,7 @@
     document.querySelectorAll('footer input[type="email"]').forEach(function(i){ if(!i.placeholder) i.placeholder='Enter your email address'; });
     var bc=document.querySelector('nav[aria-label="Breadcrumb"] ol>li:last-child');
     if(bc && !bc.querySelector('a')) bc.setAttribute('aria-current','page');
+    document.querySelectorAll('main form input:not([type=hidden]),main form textarea').forEach(function(i){ if(i.placeholder && !i.getAttribute('aria-label') && !(i.labels && i.labels.length)) i.setAttribute('aria-label', i.placeholder); });
     var a=document.getElementById('answer');
     if(a && !a.getAttribute('aria-label')){ var l=a.closest('div') && a.closest('div').querySelector('label'); a.setAttribute('aria-label', l ? l.textContent.trim() : 'Anti-spam question'); }
     var f=document.querySelector('form.fs-tag-filters');
