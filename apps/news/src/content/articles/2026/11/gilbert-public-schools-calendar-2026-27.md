@@ -151,7 +151,7 @@ Winter break is "December 21 - January 1, 2027" on the district page. The PDF ma
 
 ## When is Gilbert Public Schools spring break 2027?
 
-"Spring Break: March 15 - 26, 2027" is two weeks, and the PDF labels it "Spring Holiday." School resumes Monday, March 29. A half-day "Grading Day" falls on Friday, March 12, just before it. Mark the break on the [March 2027 calendar](/march-calendars.html). The [spring break 2027 roundup](/news/spring-break-2027-dates-school-districts/) lists other districts, and [Clark County School District](/news/clark-county-school-district-calendar-2026-27-breaks/) in Las Vegas also starts spring break March 15.
+"Spring Break: March 15 - 26, 2027" is two weeks, and the PDF labels it "Spring Holiday." School resumes Monday, March 29. A half-day "Grading Day" falls on Friday, March 12, just before it. Mark the break on the [March 2027 calendar](/march-calendars.html). The [spring break 2027 roundup](/news/spring-break-2027-dates-school-districts/) lists other districts, and [Clark County School District](/news/clark-county-school-district-calendar-2026-27-breaks/) in Las Vegas also starts spring break March 15. In Utah, [Jordan School District](/news/jordan-school-district-calendar-2026-27/) is out March 29-April 2.
 
 ## Last day of school and semester days
 
