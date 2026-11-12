@@ -78,3 +78,29 @@ Articles and ratings are signed by Jessica Hartwell (articles since Nov. 11, 202
 - **Internal links:** link from relevant freshcalendars.com pages and daily /news/ stories to shop pages. Add a matching product link below the printable PDFs.
 - **Deals page:** a "planner deals today" page, with the date each price was checked.
 - **Measurement:** set up Search Console and Bing (the owner provides the codes), then track which pages earn clicks.
+
+## Competitor update: gadgetsteal.com on Nov. 12, 2026 (sitemap and a 34-article sample)
+
+| Item | Finding |
+|---|---|
+| Size | 708 articles, 1,469 products, 84 categories, 8 brand pages |
+| Launch | 452 of the 708 articles carry the same day (Oct. 29-30); 20 to 56 a day until Nov. 6; none since Nov. 7 |
+| Products | about 100 added a day until Nov. 8, 63 touched on Nov. 12 (automatic fill) |
+| Article mix by slug | "X for Y" and plain topics 318, best 96, under a price 86, X vs Y 77, how-to and fixes 46, questions 32, seasonal and deals 30, "worth it" 18 |
+| Retargeting | 27 of 34 sampled articles have a title that differs from the H1. The slug is a broad topic ("smart-thermostat-geofencing-guide"), the H1 is an exact search phrase ("Smart Thermostat With Geofencing For Home Away Mode") and the title is a readable version. 12 of 34 were modified after their publish day. |
+| Article body | median 2,100 words, 6 products, 7 article links, 1 category link, 13 images; 0 of 34 have a table; Pros and Cons blocks in 24 of 34; the same module headings on every page |
+| Categories | 450 to 800 words of text, 4 to 48 products, no links to articles |
+| Products | own review on 10 of 12 sampled, a discount badge on 12 of 12 |
+| Search presence | a `site:` web search returned none of its pages on Nov. 12 (one search engine, not proof for Google) |
+
+**What it is doing:** cover every category with a broad set of topics at launch, then rewrite titles and H1s into exact long-tail phrases, lean on product deal badges and own reviews, and let the platform add products daily.
+
+**Where we are ahead:** computed tables on every article and list page (it has none), 34 spec list pages (it has none), brand pages (56 to 8), dated price checks, a real editor, links from a site that already has readers.
+
+**Where it is ahead:** 708 articles to our 134, an own review on most products (we show 299 of 1,230), 13 images per article, question and problem topics ("fix", "is X worth it", "can X do Y") that we have barely started.
+
+**Decisions this suggests**
+1. Keep one text for title and H1, but copy the useful half of its move: when Search Console shows the phrase a page is found for, rewrite the title to that phrase.
+2. Add the two topic families we lack: problems and questions about using the product (paper bleed, ghosting, binding that will not lie flat, which pen for which paper) and "is X worth it" for the well-known brands.
+3. Do not copy the launch-day dump: 452 pages in one day on a new domain is the scaled-content pattern, and nothing here shows it worked.
+4. Raise the share of products with a score, since that is the one product-page element it has on most pages.
