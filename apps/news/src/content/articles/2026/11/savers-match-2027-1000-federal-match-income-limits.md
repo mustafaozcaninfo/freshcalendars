@@ -3,6 +3,7 @@ title: "Saver's Match 2027: $1,000 Federal Match and Income Limits"
 description: "The Saver's Match pays up to $1,000 per person on 2027 retirement savings, per the IRS; rules are not final. Income limits and a match-rate table."
 type: explainer
 publishedAt: "2026-11-07T06:10:00-05:00"
+updatedAt: "2026-11-12T15:30:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["savers match 2027", "saver's match income limits", "federal retirement match 2027", "form 8880-a"]
@@ -38,7 +39,6 @@ assets:
           quote: "Up to $20,500 | $20,501-$35,499 | $35,500 and above; a match of up to $1,000 per person each year"
       unconfirmed:
         - { label: "Date the match is deposited in 2028", why: "not stated on the IRS page or in IR-2026-89 as of Nov. 7, 2026" }
-        - { label: "2027 401(k) and individual retirement account (IRA) limits", why: "not yet announced as of Nov. 7, 2026" }
 hero:
   src: ../../../../assets/news/savers-match-2027-1000-federal-match-income-limits/savers-match-2027-1000-federal-match-income-limits.webp
   alt: "Stacks of coins growing taller with small green sprouts on top, ending in a jar of coins, illustrating savings growth and the Saver's Match"
@@ -81,6 +81,10 @@ sources:
     url: "https://www.irs.gov/newsroom/401k-limit-increases-to-24500-for-2026-ira-limit-increases-to-7500"
     publisher: "Internal Revenue Service"
     date: "2025-11-13"
+  - title: "401(k) limit increases to $25,500 for 2027, IRA limit remains $7,500 (IR-2026-136)"
+    url: "https://www.irs.gov/newsroom/401k-limit-increases-to-25500-for-2027-ira-limit-remains-7500"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-12"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
@@ -163,7 +167,7 @@ Neither the IRS page nor IR-2026-89 gives a deposit date, so the date of the 202
 
 IR-2026-89 says Notice 2026-48 announces an intent to issue proposed regulations under section 6433. The public comment period closed on Oct. 5, 2026. Until final rules exist, details can change. The release also says the match replaces the Saver's Credit for retirement contributions.
 
-The 2027 limits on 401(k) and IRA contributions are not yet announced. For 2026 the IRS set the 401(k) limit at $24,500 and the IRA limit at $7,500 (IR-2025-111, Nov. 13, 2025). Our [2027 tax brackets and retirement limits report](/news/2027-tax-brackets-401k-hsa-limits-irs/) tracks the 2027 figures, and the [2027 tax calendar](/news/tax-calendar-2027-irs-deadlines/) lists filing deadlines. For retirement-account withdrawals, see the [required minimum distribution deadline guide](/news/2026-required-minimum-distribution-deadline-ira-401k/).
+For 2027 the IRS set the 401(k) limit at $25,500 and the IRA limit at $7,500 (IR-2026-136, Nov. 12, 2026); for 2026 they were $24,500 and $7,500 (IR-2025-111, Nov. 13, 2025). Our [2027 tax brackets and retirement limits report](/news/2027-tax-brackets-401k-hsa-limits-irs/) tracks the 2027 figures, and the [2027 tax calendar](/news/tax-calendar-2027-irs-deadlines/) lists filing deadlines. For retirement-account withdrawals, see the [required minimum distribution deadline guide](/news/2026-required-minimum-distribution-deadline-ira-401k/).
 
 ## Print the Saver's Match limits
 

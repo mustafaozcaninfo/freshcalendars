@@ -3,6 +3,7 @@ title: "Year-End Money Deadlines 2026: Dec. 31 and What Can Wait"
 description: "Dec. 31, 2026 is the year-end money deadline for required retirement withdrawals and charity gifts, per the IRS. A dated table and a printable checklist."
 type: explainer
 publishedAt: "2026-10-30T15:49:00-04:00"
+updatedAt: "2026-11-12T15:30:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["year end deadlines 2026", "rmd deadline 2026", "december 31 tax deadlines", "year end money checklist 2026"]
@@ -66,6 +67,10 @@ sources:
   - title: "Keep or change your Marketplace plan"
     url: "https://www.healthcare.gov/keep-or-change-plan/"
     publisher: "HealthCare.gov"
+  - title: "401(k) limit increases to $25,500 for 2027, IRA limit remains $7,500 (IR-2026-136)"
+    url: "https://www.irs.gov/newsroom/401k-limit-increases-to-25500-for-2027-ira-limit-remains-7500"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-12"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -152,7 +157,7 @@ Workplace plans are different. Elective deferrals to a 401(k) come out of pay, s
 
 ## What are the 2026 contribution limits?
 
-The IRS set these in Notice 2025-67. The 2027 limits have not yet been announced by the IRS; our story on [2027 tax brackets and 401(k) and Health Savings Account (HSA) limits](/news/2027-tax-brackets-401k-hsa-limits-irs/) tracks them.
+The IRS set these in Notice 2025-67. For 2027 the IRS set the 401(k) limit at $25,500 and the IRA limit at $7,500 (IR-2026-136, Nov. 12, 2026); our story on [2027 tax brackets and 401(k) and Health Savings Account (HSA) limits](/news/2027-tax-brackets-401k-hsa-limits-irs/) has the full 2027 retirement-plan limits.
 
 | Account | 2026 limit |
 |---|---|
