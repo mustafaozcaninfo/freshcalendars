@@ -379,6 +379,39 @@ html[data-theme=dark] .holiday-country-tabs a[aria-current=page]{background:var(
   .ny-card .cta{display:grid; grid-template-columns:1fr; gap:8px}
   .ny-card .cta .btn{width:100%; justify-content:center; text-align:center}
 }
+/* Printable cards on guides and holiday lists. */
+.print-row{margin:28px 0}
+.print-row>h2{margin:0 0 14px}
+.print-row ul{list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px}
+.print-row li{display:flex; flex-direction:column; gap:10px; margin:0; padding:14px; border:1px solid var(--line); border-radius:var(--r-lg); background:var(--paper)}
+.print-row .pr-thumb{display:grid; place-items:center; aspect-ratio:17/22; padding:10px; border-radius:var(--r-md); background:var(--surface-soft)}
+.print-row img{max-width:100%; max-height:100%; width:auto; height:auto; border-radius:3px; box-shadow:var(--shadow-sm); background:#fff}
+.print-row h3{margin:0; font-size:15px; line-height:1.35}
+.print-row h3 a{color:var(--ink-strong); text-decoration:none}
+.print-row h3 a:hover{text-decoration:underline; text-underline-offset:3px}
+.print-row .btn{margin-top:auto; justify-content:center}
+/* /when-is/ pages: the month with the day marked, beside its printable. */
+.holiday-month{display:grid; grid-template-columns:minmax(0,1.25fr) minmax(0,1fr); gap:20px; align-items:start; margin:20px 0 24px}
+.hm-grid{width:100%; border-collapse:separate; border-spacing:0; table-layout:fixed; border:1px solid var(--line); border-radius:var(--r-lg); background:var(--paper); overflow:hidden; margin:0}
+.hm-grid caption{caption-side:top; text-align:left; padding:0 0 10px 2px; font:600 18px Sora,sans-serif; letter-spacing:-.02em; color:var(--ink-strong)}
+.hm-grid th{padding:9px 0; font-size:11px; font-weight:600; letter-spacing:.06em; text-transform:uppercase; color:var(--muted); background:var(--surface-soft); text-align:center; border:0}
+.hm-grid td{height:44px; padding:0; text-align:center; font-size:15px; color:var(--ink); border:0; border-top:1px solid var(--line-soft)}
+.hm-grid .is-day b{display:inline-grid; place-items:center; width:34px; height:34px; border-radius:50%; background:var(--brand,#2f6f4a); color:#fff; font-weight:700}
+.hm-grid .is-other span{display:inline-grid; place-items:center; width:34px; height:34px; border-radius:50%; box-shadow:inset 0 0 0 1.5px var(--line); font-weight:600; color:var(--ink-strong)}
+.hm-print{display:grid; grid-template-columns:104px minmax(0,1fr); gap:14px; align-items:center; padding:14px; border:1px solid var(--line); border-radius:var(--r-lg); background:var(--surface-soft)}
+.hm-print img{display:block; width:100%; height:auto; border-radius:3px; box-shadow:var(--shadow-sm); background:#fff}
+.hm-print p{margin:0 0 10px; font-size:14px; line-height:1.45}
+.hm-print .cta{display:flex; flex-wrap:wrap; gap:8px; margin:0}
+@media(max-width:760px){
+  .holiday-month{grid-template-columns:1fr}
+  .print-row ul{grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px}
+  .print-row li{padding:10px}
+  .print-row li:nth-child(3){grid-column:1/-1; flex-direction:row; flex-wrap:wrap; align-items:center}
+  .print-row li:nth-child(3) .pr-thumb{width:96px; flex:0 0 96px}
+  .print-row li:nth-child(3) h3{flex:1 1 0; min-width:0}
+  .print-row li:nth-child(3) .btn{flex:1 1 100%}
+}
+@media print{.print-row,.hm-print{display:none}}
 /* /when-is/ pages: stories about this holiday, near the top. */
 .holiday-guides{margin:20px 0 24px; padding:16px 18px 12px; border:1px solid var(--line); border-radius:var(--r-lg); background:var(--surface-soft)}
 .holiday-guides .hg-label{margin:0 0 6px; font:600 12px Manrope,sans-serif; letter-spacing:.09em; text-transform:uppercase; color:var(--muted)}
