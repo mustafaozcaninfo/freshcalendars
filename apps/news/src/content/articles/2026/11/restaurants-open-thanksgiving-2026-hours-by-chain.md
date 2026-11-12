@@ -20,7 +20,7 @@ assets:
     subtitle: "Thanksgiving Day status, meal pickup and order deadlines by chain"
     note: "Source: the chains' own Thanksgiving pages (Bob Evans, Maggiano's Little Italy, Morton's The Steakhouse, The Capital Grille, Chick-fil-A); Cracker Barrel per MoneyTalksNews (Oct. 21, 2026) and Food Network (Nov. 3, 2026). Call your local restaurant: hours vary by location."
     description: "One-page list of restaurants open, offering Thanksgiving meal pickup or closed on Thanksgiving 2026, with order deadlines and chains still unconfirmed."
-    alt: "Printable table of restaurants on Thanksgiving 2026 showing Thanksgiving Day status, meal pickup windows and order deadlines for Bob Evans, Cracker Barrel, Chick-fil-A and others"
+    alt: "Printable table of restaurants on Thanksgiving 2026 showing Thanksgiving Day status, meal pickup windows and order deadlines by chain"
     data:
       columns:
         - { key: chain, label: "Chain" }
@@ -36,9 +36,9 @@ assets:
         - { cells: { chain: "Chick-fil-A", day: "Closed", pickup: "None", deadline: "None" }, src: 5, quote: "All U.S. Chick-fil-A® restaurants are closed on Thanksgiving, so our restaurant teams can spend time with family and friends." }
       note: "Call your local restaurant before you go: franchise hours vary."
       unconfirmed:
-        - { label: "Denny's, Waffle House, IHOP", why: "Official sites blocked automated checks; hours not confirmed" }
+        - { label: "Denny's, Waffle House, International House of Pancakes (IHOP)", why: "Official sites blocked automated checks; hours not confirmed" }
         - { label: "Golden Corral", why: "Its promo page gives no date or hours" }
-        - { label: "Olive Garden, Texas Roadhouse, Starbucks, Eddie V's, Seasons 52, Ruth's Chris, Shoney's", why: "One newsroom list only; no official page or second source" }
+        - { label: "Olive Garden, Texas Roadhouse, Starbucks, Eddie V's, Seasons 52, Ruth's Chris, Shoney's", why: "No official 2026 page or second newsroom" }
 hero:
   src: ../../../../assets/news/restaurants-open-thanksgiving-2026-hours-by-chain/restaurants-open-thanksgiving-2026-hours-by-chain.webp
   alt: "Plate of turkey, stuffing, peas, corn and rolls, a home holiday dinner, for restaurants open on Thanksgiving 2026"
@@ -103,7 +103,7 @@ downloads:
     title: "Restaurants on Thanksgiving 2026: Open, Pickup, Closed"
     description: "One-page list of restaurants open, offering Thanksgiving meal pickup or closed on Thanksgiving 2026, with order deadlines and chains still unconfirmed."
     preview: ../../../../assets/news/thanksgiving-2026/restaurants-open-thanksgiving-2026-checklist.png
-    alt: "Printable table of restaurants on Thanksgiving 2026 showing Thanksgiving Day status, meal pickup windows and order deadlines for Bob Evans, Cracker Barrel, Chick-fil-A and others"
+    alt: "Printable table of restaurants on Thanksgiving 2026 showing Thanksgiving Day status, meal pickup windows and order deadlines by chain"
     pdf: "/news/downloads/thanksgiving-2026/restaurants-open-thanksgiving-2026-checklist.pdf"
     png: "/news/downloads/thanksgiving-2026/restaurants-open-thanksgiving-2026-checklist.png"
     pages: 1
@@ -147,17 +147,18 @@ These stay off the open list until an official page or a second newsroom confirm
 |---|---|
 | Denny's | Its website blocked our automated check |
 | Waffle House | Its website blocked our automated check |
-| IHOP | Its website blocked our automated check |
+| International House of Pancakes (IHOP) | Its website blocked our automated check |
 | Golden Corral | Its official promotion page gives no date or hours |
-| Olive Garden, Texas Roadhouse, Starbucks, Eddie V's, Seasons 52, Ruth's Chris, Shoney's | Appear in Food Network's Nov. 3, 2026 list only; no official page or second newsroom checked |
+| Eddie V's, Seasons 52, Ruth's Chris, Shoney's | Appear in Food Network's Nov. 3, 2026 list only; no official page or second newsroom |
+| Olive Garden, Texas Roadhouse, Starbucks | No 2026 Thanksgiving statement found on an official page |
 
 Call the restaurant you plan to visit. Franchise locations set their own hours.
 
 ## What to know before you go
 
 - Reserve or order early: Bob Evans' feast closes Nov. 25 and The Capital Grille's pre-orders close Nov. 24.
-- Hours are for Thanksgiving Day only; Maggiano's, The Capital Grille and Morton's pickup days include Wednesday, Nov. 25.
-- A page that says "closed" without a year, like Chick-fil-A's, is a standing policy.
+- Pickup at Maggiano's, The Capital Grille and Morton's includes Wednesday, Nov. 25, a day before Thanksgiving.
+- Chick-fil-A's closed page names no year; the chain describes it as a day for its teams to spend with family and friends.
 
 For meals you cook at home, see [Thanksgiving meal deals at Aldi, Lidl, Target and Sam's Club](/news/thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates/).
 
