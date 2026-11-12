@@ -3,6 +3,7 @@ title: "Government Shutdown Deadline Dec. 11, 2026: Lame-Duck Calendar"
 description: "Federal funding runs out after Friday, Dec. 11, 2026 under a stopgap law signed Sept. 2. What a lapse would affect and the lame-duck calendar after Nov. 3."
 type: news
 publishedAt: "2026-10-18T08:50:00-04:00"
+updatedAt: "2026-11-11T23:25:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["government shutdown deadline 2026", "December 11 2026 shutdown", "continuing resolution 2027", "H.R. 6500", "lame duck session 2026"]
@@ -16,7 +17,7 @@ summary:
   - "Federal agencies are funded through Friday, Dec. 11, 2026, under a stopgap law signed Sept. 2."
   - "The House cleared the bill 370-48 on Sept. 1; it also extends surface transportation and veterans programs."
   - "Without new funding, money lapses at the end of Dec. 11, five weeks after the Nov. 3 election."
-  - "Congress also has Thanksgiving week and other unfinished business on its lame-duck calendar."
+  - "Congress returned on Monday, Nov. 9, for a five-week lame-duck session; the Senate's schedule has Nov. 23 to 27 off for Thanksgiving."
 faq:
   - q: "When is the next government shutdown deadline?"
     a: "Friday, Dec. 11, 2026. A continuing resolution signed on Sept. 2, 2026 funds federal agencies through that date."
@@ -44,6 +45,17 @@ sources:
   - title: "Summary of FY27 Continuing Resolution"
     url: "https://www.astho.org/advocacy/federal-government-affairs/leg-alerts/2026/summary-of-fy27-continuing-resolution/"
     publisher: "Association of State and Territorial Health Officials"
+  - title: "Tentative 2026 Legislative Schedule"
+    url: "https://www.senate.gov/legislative/2026_schedule.htm"
+    publisher: "U.S. Senate"
+  - title: "Congress returns for crowded lame-duck session as Hegseth impeachment, government funding deadline loom"
+    url: "https://abc11.com/story/congress-returns-crowded-lame-duck-session-hegseth-impeachment-government-funding-deadline-loom/20026182/"
+    publisher: "ABC11 (ABC News)"
+    date: "2026-11-09"
+  - title: "GOP Congress faces funding deadline, farm bill, lengthy to-do list in year-end session"
+    url: "https://www.kotatv.com/2026/11/09/gop-congress-faces-funding-deadline-farm-bill-lengthy-to-do-list-year-end-session/"
+    publisher: "KOTA"
+    date: "2026-11-09"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -66,7 +78,7 @@ According to the White House notice, the law:
 - funds federal agencies through Dec. 11, 2026, with a continuing resolution, and
 - extends authorities for a range of programs, including surface transportation and veterans programs.
 
-A continuing resolution generally keeps agencies operating at the previous year's spending levels. The Association of State and Territorial Health Officials' summary says this one holds fiscal 2026 levels. Fiscal year 2027 began on Oct. 1, and the stopgap meant there was no lapse that day.
+A continuing resolution generally keeps agencies operating at the previous year's spending levels. The Association of State and Territorial Health Officials' summary says this one "generally maintains FY26 funding levels" for programs it does not address by name. Fiscal year 2027 began on Oct. 1, and the stopgap meant there was no lapse that day.
 
 ## The deadline in detail
 
@@ -83,7 +95,7 @@ If neither full-year spending bills nor another stopgap become law by the end of
 
 ## A short lame-duck calendar
 
-Between the election and Dec. 11 there are about five working weeks, and Thanksgiving week falls in the middle. House Appropriations Committee Chairman Tom Cole of Oklahoma has said the time before the deadline is not enough to finish full-year bills, Fox News reported, which raises the odds of another stopgap.
+Congress came back on Monday, Nov. 9, for what ABC News and the Rapid City, S.D., station site kotatv.com both described as a five-week session. ABC News reported that day that lawmakers were "far from striking a deal to avert a government shutdown." The Senate's tentative 2026 schedule marks Nov. 23 to 27 as a state work period for Thanksgiving and Dec. 21 to 31 as another, so the Senate has about four weeks of session before the deadline. House Appropriations Committee Chairman Tom Cole of Oklahoma has said the time before the deadline is not enough to finish full-year bills, Fox News reported, which raises the odds of another stopgap.
 
 Spending is not the only item waiting. The Senate has also not voted on the House-passed bill to make daylight saving time permanent; our [daylight saving time report](/news/daylight-saving-time-ends-november-1-2026/) covers that bill. Any bill not passed by Jan. 3, 2027 dies with the 119th Congress.
 
@@ -100,7 +112,8 @@ The most recent full shutdown, from Oct. 1 to Nov. 12, 2025, lasted 43 days, the
 ## Dates to watch
 
 - **Tuesday, Nov. 3:** Election Day. The results shape the lame-duck negotiations.
-- **Thursday, Nov. 26:** Thanksgiving; Congress typically recesses that week.
+- **Monday, Nov. 9:** Congress returned for the lame-duck session.
+- **Monday, Nov. 23, to Friday, Nov. 27:** Senate state work period for Thanksgiving (Nov. 26), per its tentative schedule.
 - **Friday, Dec. 11:** Funding deadline.
 - **Sunday, Jan. 3, 2027:** The 119th Congress ends and the 120th begins.
 
