@@ -2,6 +2,10 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-12 (search desk, evening)
+
+- **Same windows as the morning read, nothing new to decide.** Read of Nov. 12, 17:35 UTC (windows still end Nov. 9): /news/ web week Nov. 3-9 2,652 clicks and 567,939 impressions, both down on the week before (-22%, -13%), so one more falling week fails the gate's "no fall two weeks in a row" before the Nov. 16 phase decision. 90 of 90 sampled stories indexed (gate 73 of 73, 100%), all four sitemaps 0 errors (/news/sitemap.xml 1,302 URLs, news sitemap 84). No volume signal, Discover 0. The morning notes stand; no brief is possible before Nov. 22 because of the Nov. 8 headline migration, and no experiment has an after window yet.
+
 ## 2026-11-12 (search desk, morning)
 
 - **/news/ web clicks and impressions both fell week on week: the gate is one week from failing.** Read of Nov. 12, 09:13 UTC (windows to Nov. 9): /news/ web week Nov. 3-9 had 2,652 clicks (-22% on 3,379, week Oct. 27 to Nov. 2) and 567,939 impressions (-13% on 651,345); image 473 clicks (-21% on 600), 276,410 impressions (-9%); Discover 0 for a seventh window. The week before rose, so the gate's "no fall two weeks in a row" still passes, but another fall in the week to Nov. 16 fails it. The fall is the election pages losing their date (sample ballot 243 to 82 clicks, 14 days against 14; election results 41 to 1) and the late-October puzzle pages decaying; the risers are puzzle and new event pages. Indexing 90 of 90 sampled (gate 73 of 73, 100%), all four sitemaps 0 errors (/news/sitemap.xml 1,302 URLs, news sitemap 84): no volume signal. For the Nov. 16 phase decision, weigh this fall against 100% indexing.
