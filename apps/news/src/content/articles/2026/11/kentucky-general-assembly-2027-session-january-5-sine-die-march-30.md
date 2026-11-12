@@ -40,7 +40,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [kentucky-2027-election-calendar-filing-deadline-primary, north-dakota-legislature-2027-session-january-5-bill-prefiling-december-18, virginia-general-assembly-2027-session-january-13-prefiling-deadlines]
+related: [kentucky-2027-election-calendar-filing-deadline-primary, missouri-general-assembly-2027-session-january-6-prefiling-december-1, virginia-general-assembly-2027-session-january-13-prefiling-deadlines]
 assets:
   overlay: true
   kicker: "Kentucky General Assembly · 2027 session"
