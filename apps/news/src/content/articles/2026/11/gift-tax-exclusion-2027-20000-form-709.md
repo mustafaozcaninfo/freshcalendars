@@ -98,7 +98,7 @@ downloads:
     pdf: "/news/downloads/gift-tax-2027/gift-log-2027-annual-exclusion.pdf"
     png: "/news/downloads/gift-tax-2027/gift-log-2027-annual-exclusion.png"
     pages: 1
-related: [2027-tax-brackets-401k-hsa-limits-irs, year-end-money-deadlines-december-31-2026, monthly-budget-planner-2027-printable]
+related: [2027-tax-brackets-401k-hsa-limits-irs, estate-tax-exemption-2027-15-48-million, monthly-budget-planner-2027-printable]
 draft: false
 ---
 
