@@ -72,7 +72,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/may-calendars.html"
     label: "May 2027 printable calendar"
-related: [kentucky-general-assembly-2027-session-january-5-sine-die-march-30, nebraska-legislature-2027-session-january-6-day-90-june-4, oklahoma-legislature-2027-session-bill-request-deadline-december-4]
+related: [kentucky-general-assembly-2027-session-january-5-sine-die-march-30, nebraska-legislature-2027-session-january-6-day-90-june-4, iowa-legislature-2027-session-january-11-funnel-deadlines]
 assets:
   overlay: true
   kicker: "Missouri General Assembly · 2027 session"
