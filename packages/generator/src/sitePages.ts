@@ -450,6 +450,18 @@ const CONTACT_JS = `
 })();
 `;
 
+/**
+ * Prefetch the calendar page a reader is about to open (hover or touch start), like /news/ does.
+ * Browsers without speculation rules ignore the block. Not for /news/ (it has its own rule),
+ * files, or URLs with a query (the calendar studio keeps state there).
+ */
+const CALENDAR_SPECULATION = JSON.stringify({
+  prefetch: [{
+    where: { and: [{ href_matches: "/*" }, { not: { href_matches: "/news/*" } }, { not: { href_matches: "/assets/*" } }, { not: { href_matches: "/*\\?*" } }, { not: { href_matches: "/*.pdf" } }, { not: { href_matches: "/*.png" } }] },
+    eagerness: "moderate",
+  }],
+});
+
 function layout(
   meta: SeoMeta,
   body: string,
@@ -480,6 +492,7 @@ ${adsEnabled ? `<link rel="dns-prefetch" href="https://pagead2.googlesyndication
 ${FONT_PRELOAD}
 ${preloadImg}
 ${metaTags(meta, { howTo: opts.howTo })}
+<script type="speculationrules">${CALENDAR_SPECULATION}</script>
 <style>${FONTS_CSS}${CSS}</style>
 </head>
 <body>
@@ -2440,6 +2453,7 @@ ${brandHeadLinks()}
 <meta name="theme-color" content="#007b48" />
 <link rel="canonical" href="${absUrl("/404.html")}" />
 ${FONT_PRELOAD}
+<script type="speculationrules">${CALENDAR_SPECULATION}</script>
 <style>${FONTS_CSS}${CSS}</style>
 </head>
 <body>
