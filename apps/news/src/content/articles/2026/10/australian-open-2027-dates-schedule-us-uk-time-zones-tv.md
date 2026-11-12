@@ -3,7 +3,7 @@ title: "Australian Open 2027 Dates: Jan. 10-31, Finals Jan. 30-31"
 description: "The Australian Open 2027 runs Jan. 10-31 at Melbourne Park, with finals Jan. 30-31. ET and PT times use 2026 sessions; the 2027 order of play is not out."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
-updatedAt: "2026-11-09T23:20:00-05:00"
+updatedAt: "2026-11-12T17:30:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["australian open 2027 dates", "australian open 2027 schedule", "australian open time zones us uk", "australian open 2027 tv"]
@@ -22,12 +22,12 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:-wuppertaler"
 summary:
   - "The Australian Open 2027 runs Jan. 10-31 at Melbourne Park, with Opening Week from Sunday, Jan. 10 to Saturday, Jan. 16 and qualifying beginning Monday, Jan. 11, according to the ausopen.com What's On page. The Mar. 23, 2026 announcement gave Jan. 11 as the start."
-  - "Main-draw Week One begins Sunday, Jan. 17. The finals are on Jan. 30 and Jan. 31, 2027; ausopen.com does not say which final is on which day."
+  - "Main-draw Week One begins Sunday, Jan. 17. The finals are on Jan. 30 and Jan. 31, 2027. The ausopen.com provisional schedule (version of August 2026, subject to change) puts the women's singles final on Saturday, Jan. 30 and the men's singles final on Sunday, Jan. 31."
   - "Melbourne is 16 hours ahead of Eastern Time (ET) in January, so a 7 p.m. night session in Melbourne starts at 3 a.m. ET the same calendar day."
   - "The 2027 order of play is not yet published. The time table here uses 2026 session times and is labeled that way."
 faq:
   - q: "What are the Australian Open 2027 dates?"
-    a: "Jan. 10-31, 2027, at Melbourne Park, according to the ausopen.com What's On page. Qualifying begins Jan. 11, main-draw action begins Jan. 17 and the finals are on Jan. 30 and 31. The Mar. 23, 2026 announcement gave Jan. 11 as the start."
+    a: "Jan. 10-31, 2027, at Melbourne Park, according to the ausopen.com What's On page. Qualifying begins Jan. 11, main-draw action begins Jan. 17 and the finals are on Jan. 30 and 31. The provisional schedule (August 2026 version, subject to change) lists the women's singles final on Jan. 30 and the men's singles final on Jan. 31. The Mar. 23, 2026 announcement gave Jan. 11 as the start."
   - q: "What channel shows the Australian Open 2027 in the U.S.?"
     a: "The Australian Open's Broadcast Partners page lists ESPN and Tennis Channel for the USA (checked Nov. 4, 2026). The 2027 U.S. channel list by round is not yet published. ESPN holds the U.S. and Canada rights through 2031, according to a May 19, 2022 report by Ministry of Sport citing Tennis Australia."
   - q: "What channel shows the Australian Open 2027 in the UK?"
@@ -38,7 +38,7 @@ sources:
   - title: "What's On 2027"
     url: "https://ausopen.com/whats-on"
     publisher: "Tennis Australia (ausopen.com)"
-    date: "2026-11-09"
+    date: "2026-11-12"
   - title: "Belle Thompson earns wildcard into AO 2027 qualifying"
     url: "https://ausopen.com/articles/news/belle-thompson-earns-wildcard-ao-2027-qualifying"
     publisher: "Australian Open (ausopen.com)"
@@ -52,7 +52,7 @@ sources:
     publisher: "Australian Open (ausopen.com)"
     date: "2026-03-23"
   - title: "Australian Open 2027: Preview, draws, schedule, order-of-play, UK times & how to watch"
-    url: "https://www.lta.org.uk/"
+    url: "https://www.lta.org.uk/fan-zone/australian-open/news/preview-draws-schedule-order-of-play-uk-times-and-how-to-watch"
     publisher: "Lawn Tennis Association (LTA)"
   - title: "ESPN extend Australian Open US broadcast rights"
     url: "https://ministryofsport.com/espn-extend-australian-open-us-broadcast-rights"
@@ -69,6 +69,10 @@ sources:
     url: "https://ausopen.com/node/261825"
     publisher: "Australian Open (ausopen.com)"
     date: "2026-02-02"
+  - title: "AO 2027 Provisional Schedule"
+    url: "https://ausopen.com/sites/default/files/2026-08/ao27-provisional-schedule_final.pdf"
+    publisher: "Tennis Australia (ausopen.com)"
+    date: "2026-11-12"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -86,7 +90,7 @@ assets:
     group: australian-open-2027
     title: "Australian Open 2027 Planner, Jan. 10-31"
     subtitle: "Key dates at Melbourne Park, January 2027"
-    note: "Source: ausopen.com, What's On 2027 and Belle Thompson wildcard article (Aug. 3, 2026). The 2027 order of play is not yet published."
+    note: "Source: ausopen.com, What's On 2027, AO 2027 Provisional Schedule (Aug. 2026 version, subject to change) and Belle Thompson wildcard article. The 2027 order of play is not yet published."
     description: "A one-page Australian Open 2027 date table marking Opening Week, qualifying, both main-draw weeks and the finals on Jan. 30-31."
     alt: "Table of Australian Open 2027 dates from Jan. 10 to Jan. 31 with a notes column"
     data:
@@ -95,13 +99,14 @@ assets:
       events:
         - { date: "2027-01-10", time: TBA, title: "Opening Week begins", detail: "Through Sat., Jan. 16", src: 1, quote: "Sunday 10 January – Saturday 16 January" }
         - { date: "2027-01-11", time: TBA, title: "Qualifying begins", detail: "Melbourne Park", src: 2, quote: "Australian Open 2027 qualifying begins on Monday 11 January at Melbourne Park." }
+        - { date: "2027-01-16", time: TBA, title: "Qualifying ends", detail: "Saturday, Jan. 16", src: 5, quote: "Qualifying for the Australian Open will take place from Monday 11 January to Saturday 16 January." }
         - { date: "2027-01-17", time: TBA, title: "Main Draw Week One begins", detail: "Through Sun., Jan. 24", src: 1, quote: "Sunday 17 January – Sunday 24 January" }
         - { date: "2027-01-25", time: TBA, title: "Main Draw Week Two begins", detail: "Through Sun., Jan. 31", src: 1, quote: "Monday 25 January – Sunday 31 January" }
-        - { date: "2027-01-30", time: TBA, title: "Finals weekend, day one", detail: "Which final is on which day is not announced", src: 4, quote: "which in 2027 will be held on 30 and 31 January" }
-        - { date: "2027-01-31", time: TBA, title: "Finals weekend, day two", detail: "Which final is on which day is not announced", src: 4, quote: "which in 2027 will be held on 30 and 31 January" }
+        - { date: "2027-01-30", time: TBA, title: "Women's singles final (provisional)", detail: "Provisional schedule, subject to change", src: 4, quote: "which in 2027 will be held on 30 and 31 January" }
+        - { date: "2027-01-31", time: TBA, title: "Men's singles final (provisional)", detail: "Provisional schedule, subject to change", src: 4, quote: "which in 2027 will be held on 30 and 31 January" }
       unconfirmed:
-        - { label: "Order of play and session times", why: "Not yet published as of Nov. 9, 2026" }
-        - { label: "Draw ceremony and Kids Tennis Day dates", why: "Not yet published as of Nov. 9, 2026" }
+        - { label: "Order of play and session times", why: "Not yet published as of Nov. 12, 2026" }
+        - { label: "Draw ceremony and Kids Tennis Day dates", why: "Not yet published as of Nov. 12, 2026" }
 draft: false
 downloads:
   - group: "Australian Open 2027 Planner printables"
@@ -124,13 +129,14 @@ The rows below come from ausopen.com: the What's On page, the Mar. 23, 2026 anno
 |---|---|---|
 | Opening Week begins | Jan. 10 | Sunday |
 | Qualifying begins | Jan. 11 | Monday |
+| Qualifying ends | Jan. 16 | Saturday |
 | Opening Week ends | Jan. 16 | Saturday |
 | Main-draw action begins | Jan. 17 | Sunday |
 | Main Draw Week One ends | Jan. 24 | Sunday |
 | Main Draw Week Two begins | Jan. 25 | Monday |
 | Finals | Jan. 30 and Jan. 31 | Saturday and Sunday |
 
-The site does not say which final is on which day, and the Kids Tennis Day date, the draw ceremony and the qualifying end date are not yet published. Opening Week includes qualifying, player practice, Kids Tennis Day and live entertainment across the precinct. The Lawn Tennis Association (LTA), the UK tennis body, lists qualifying for Monday, Jan. 11 to Saturday, Jan. 16. Mark the three weeks on our [January 2027 printable calendar](/january-calendars.html) or use the planner in the downloads box.
+The ausopen.com provisional schedule, a one-page PDF with the footer "Match dates and schedule are subject to change. Version current as of August 2026," lists the women's singles final for Saturday, Jan. 30 and the men's singles final for Sunday, Jan. 31, and qualifying for Jan. 11 to Jan. 16. It has no session times or court order. The Kids Tennis Day date and the draw ceremony are not yet published as of Nov. 12, 2026. Opening Week includes qualifying, player practice, Kids Tennis Day and live entertainment across the precinct. The Lawn Tennis Association (LTA), the UK tennis body, lists qualifying for Monday, Jan. 11 to Saturday, Jan. 16. Mark the three weeks on our [January 2027 printable calendar](/january-calendars.html) or use the planner in the downloads box.
 
 ## What time do Australian Open matches start in the U.S. and UK?
 
