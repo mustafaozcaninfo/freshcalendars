@@ -49,7 +49,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [fort-worth-isd-calendar-2026-27-breaks, arlington-isd-calendar-2026-27-breaks, winter-break-2026-school-districts-dates]
+related: [fort-worth-isd-calendar-2026-27-breaks, arlington-isd-calendar-2026-27-breaks, northwest-isd-calendar-2026-27]
 assets:
   overlay: true
   kicker: "Keller ISD · 2026-27"
