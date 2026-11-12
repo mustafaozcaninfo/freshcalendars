@@ -9,7 +9,7 @@
  * A month or year an evergreen page shows today is not a second copy of it: its dated page points
  * its canonical at the evergreen page and stays out of the sitemap, and links go to the evergreen
  * page (monthHref, yearHref). When the evergreen page moves on, the dated page stands on its own.
- * Years that leave the range are redirected by the Worker (cloudflare/legacy-redirects.js).
+ * No Worker rule covers these paths: the deploy refuses an old-URL rule that matches a real page.
  */
 import {
   buildMonthGrid, holidayWhenIsPath, holidaysForMonth, holidaysForYear, monthNumberToName, monthNumberToSlug,
