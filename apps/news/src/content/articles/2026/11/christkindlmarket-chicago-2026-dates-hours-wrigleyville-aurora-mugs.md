@@ -56,7 +56,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc, zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston, canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa]
+related: [us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc, european-christmas-markets-2026-dates-nuremberg-vienna-strasbourg-cologne, canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa]
 assets:
   overlay: true
   scene: winter-holidays

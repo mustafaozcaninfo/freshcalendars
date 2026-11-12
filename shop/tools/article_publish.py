@@ -59,7 +59,7 @@ def main(path, dry):
              'cluster': d['cluster'], 'products': sorted({int(x) for x in re.findall(r'\[product id="(\d+)"\]', c)}),
              'h2': [ac.text_of(x) for x in re.findall(r'<h2\b[^>]*>(.*?)</h2>', c, re.S | re.I)],
              'related': d.get('related') or [], 'image': img or (old or {}).get('image'),
-             'published_at': a.get('published_at'), 'enabled': a.get('enabled'),
+             'published_at': a.get('published_at'), 'enabled': a.get('enabled'), 'pillar': bool(d.get('pillar')),
              'price_checked': d.get('price_checked'), 'refresh_by': d.get('refresh_by')}
     reg = [r for r in reg if r['slug'] != a['slug']] + [entry]
     ac.REGISTRY.write_text(json.dumps(sorted(reg, key=lambda r: r.get('id') or 0), indent=1) + '\n')

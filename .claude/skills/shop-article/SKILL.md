@@ -86,6 +86,25 @@ The platform renders the title as the H1, then the body. The body:
 - **Form:** 2-8 words, no year.
 - **Why no year:** a yearly topic keeps its URL and its click history, and each year only the title and the facts change.
 
+### Pillar pages (one per cluster, `"pillar": true` in the draft)
+
+A pillar is the page a cluster's other articles link up to. It has no upper word limit and may hold up to 30 products, and the checker asks more of it. The model is `/articles/planner-gifts-for-moms` (rebuilt Nov. 11, 2026: 22 products, 8 tables, one drawing). Build one only for a query whose results are roundups, and only when the shop has 15 or more products that fit.
+
+1. **Read the results first.** Search the query and two close variants, open the five or six pages that rank, and note their sections, their product groups, their tables, their dates and what every one of them leaves out. Then cover each group they cover and add what none has. For moms the gaps were: no prices compared, no sizes, no answer to "is a dated planner still a good gift in May", and pages dated 2022 to 2025.
+2. **A picker table before anything else**: "If she ... / Give her ... / Why, from the listing". The searcher gets an answer in one screen.
+3. **One master table of every product**, sorted by price, with a cost-per-unit column computed from a unit the listing states (per person, per week, per month, per page). Show the arithmetic once in the note under it.
+4. **Budget bands** as a table (count and names per band), and a separate "below its list price" table only for offers whose `price` is lower than `price_full`.
+5. **One drawing of our own, as inline `<svg>`** built from listing numbers (sizes to scale, a timeline of months covered). Rules that make it survive the platform and both themes: `fill="none" stroke="currentColor"`, text in a `<g fill="currentColor" stroke="none">`, labels inside the shapes, `role="img"` with an `aria-label` that states the finding, a `viewBox` no wider than 340 so text stays readable on a phone, and `style="width:100%;height:auto;max-width:480px"`. No external image host is needed and nothing is copied from a retailer.
+6. **Sections by person or use, each with its own small table** when the group has a number to compare (people per page, months printed).
+7. **A date table for seasonal pages**: the occasions with their weekdays, and for dated products the months still unused on each occasion. Compute it; do not estimate.
+8. **Three or more question headings** in the words a searcher types ("Dated or undated: which is the safer gift?"), each answered from the listings in one short paragraph.
+9. **Pairings table**: two items used together, with the total, so a reader with a budget has a ready answer.
+10. **"How we chose, and what we left out"**: name the near-copies and thin listings you dropped and why, and say which entries rest on a title-only listing. A page that admits its gaps is the one a reader trusts.
+11. **Links**: 4 or more related shop articles, 3 or more categories, 2 or more freshcalendars.com pages, the method page and `/jessica-hartwell`.
+12. **Every claim about a competitor is something you saw** ("several other guides name this planner" after reading them), never "the most popular".
+
+Publishing an existing article again keeps its hero when its registry entry has an `image` value; set `"image": "existing"` before updating an article someone else published.
+
 ## 5. Writing rules
 
 - **Facts only from the listing, the maker's site, or our computation.** Write the source into the sentence: "the maker lists", "the listing states". Never guess a size, weight, page count, date range or price.
@@ -97,7 +116,7 @@ The platform renders the title as the H1, then the body. The body:
 - **Vary sentence length.** Do not end every section with a three-item list, and do not open two articles the same way (§02 l.605-612).
 - **US English, US units first**: inches, then mm. Letter size, Eastern Time.
 - **No health, faith or money outcomes.** A "planner for ADHD" page lists features (time blocks, checklists, undated pages); it never says a product helps a condition.
-- **No invented people, quotes, reviewers, user counts or "readers love".** Byline is "Fresh Calendars Team". Ratings carry Jessica Hartwell's name only through the approved rating process (`shop/ratings/METHODS.md`).
+- **No invented people, quotes, reviewers, user counts or "readers love".** Byline is "Jessica Hartwell" (the editor who owns the shop content; owner decision, Nov. 11, 2026). Ratings carry Jessica Hartwell's name only through the approved rating process (`shop/ratings/METHODS.md`).
 
 ## 6. Workflow (one batch of 5 to 15 articles)
 

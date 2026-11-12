@@ -50,7 +50,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [garden-grove-unified-calendar-2026-27, long-beach-unified-calendar-2026-27, lausd-calendar-2026-27-winter-break-spring-break]
+related: [garden-grove-unified-calendar-2026-27, chino-valley-unified-calendar-2026-27, lausd-calendar-2026-27-winter-break-spring-break]
 assets:
   overlay: true
   kicker: "Riverside Unified · 2026-27"

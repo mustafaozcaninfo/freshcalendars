@@ -1,0 +1,30 @@
+---
+/**
+ * "Read next" inside the story. Readers scroll about a quarter of a story on average and the
+ * related grid sits under the sources, so most never saw a second story (1.2 pages a session,
+ * Clarity and the beacon, November 2026). This block is rendered after the body and the story page's
+ * script moves it in front of the second section heading, where the average reader still is. It never lands beside
+ * an ad: the first in-body ad goes before the third heading or later (lib/ad-units.mjs). A story
+ * with fewer than three sections keeps it under the body.
+ */
+interface Props { items: { href: string; title: string }[]; label?: string }
+const { items, label = "Read next" } = Astro.props;
+---
+{items.length > 0 && (
+  <aside class="read-next" aria-label={label} data-read-next>
+    <p class="rn-label">{label}</p>
+    <ul>{items.map((i) => <li><a href={i.href}>{i.title}</a></li>)}</ul>
+  </aside>
+)}
+<style>
+.read-next{margin:26px 0;padding:14px 16px 6px;border:1px solid var(--line);border-radius:var(--r-lg);background:var(--surface-soft)}
+.read-next .rn-label{margin:0 0 4px;font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.read-next ul{list-style:none;margin:0;padding:0}
+.read-next li{margin:0;padding:0;border-top:1px solid var(--line-soft)}
+.read-next li:first-child{border-top:0}
+.read-next li a{display:flex;gap:10px;align-items:baseline;justify-content:space-between;min-height:44px;padding:10px 0;font-size:15px;line-height:1.4;font-weight:600;color:var(--ink-strong);text-decoration:none}
+.read-next li a::after{content:"→";flex-shrink:0;color:var(--muted);transition:transform .15s var(--ease)}
+.read-next li a:hover{color:var(--focus)}
+.read-next li a:hover::after{transform:translateX(3px);color:var(--focus)}
+@media print{.read-next{display:none}}
+</style>

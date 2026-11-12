@@ -6,6 +6,10 @@
 - Paper: 80 gsm or less = 3, plus 1 per extra 40 gsm, up to 5 at 160 gsm; not counted when unstated.
 - Only scores of 4.0 or more are shown.
 
+**Fixed yardstick (Nov. 12, 2026, owner decision):** the "most features any product of that type states" is frozen at the values of Nov. 9, 2026, so a score does not move when the catalog grows: planner 7, journal 9, guided 8, pens 5, supplies 5, calendar 6. A product that states more than the yardstick gets the full feature part (the count is capped). `ratings_score.py` and the batch script use these numbers.
+
+**Batch of Nov. 12, 2026:** 322 more products drafted from listings by agents, checked by `ratings_check.py` plus a number check (every number in the text is in the listing); 224 scored 4.0 or more and were published. Categories added to the types: lined journals (journal), dated, undated, hourly, family and business planners (planner). A "bookmark" counts as a ribbon marker only when the listing calls it a ribbon or a bookmark attached to the book, never a snap-in ruler.
+
 The v1 rules below still define the feature lists and writing rules; v1 scoring is replaced.
 
 The score comes only from the maker's published listing (the retailer listing title, feature bullets and description). Nothing is tested by hand. Each feature counts only when the listing states it. The score script computes the number; nobody types it in.

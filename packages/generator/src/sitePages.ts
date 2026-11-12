@@ -60,8 +60,9 @@ import {
 } from "@freshcalendars/site-chrome";
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
 import { homeNewsHtml, latestNewsHtml, newsStripHtml } from "./newsLinks.js";
+import { shopBoxHtml } from "./shopLinks.js";
 import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
-import { STUDIO_STYLES } from "./studio.js";
+import { STUDIO_STYLES, studioAssets } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary, calendarTools } from "./conceptPages.js";
 
@@ -713,6 +714,34 @@ function variantGallery(
 </section>`;
 }
 
+/**
+ * The same month one year on, as plain HTML: the year select reaches it only with JavaScript, and
+ * searchers ask for "<month> <next year> calendar" long before the page itself moves to that year.
+ */
+function nextYearMonth(m: number, y: number): string {
+  const ny = y + 1, name = monthNumberToName(m), slug = monthNumberToSlug(m);
+  const f = studioAssets(ny, m), planner = studioAssets(ny, m, "notes-planner"), monday = studioAssets(ny, m, "scenic", "letter", "monday");
+  const start = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"][new Date(ny, m - 1, 1).getDay()]!;
+  const days = new Date(ny, m, 0).getDate();
+  return `
+<section class="section next-year-month">
+  <h2>${name} ${ny} calendar</h2>
+  <article class="ny-card">
+    <div><a class="img-link" href="/${slug}-calendars.html?year=${ny}" title="${name} ${ny} printable calendar"><img src="${f.preview}" alt="${name} ${ny} printable calendar, Classic design, Sunday start" width="540" height="697" loading="lazy" decoding="async"></a></div>
+    <div>
+      <h3>${name} ${ny} printable calendar</h3>
+      <p>Planning a year ahead? ${name} ${ny} starts on a ${start} and has ${days} days. The same seven designs are ready for ${ny}.</p>
+      <div class="cta">
+        <a class="btn btn-primary btn-sm" href="${f.pdf}" download>${name} ${ny} PDF</a>
+        <a class="btn btn-ghost btn-sm" href="${monday.pdf}" download>Monday start PDF</a>
+        <a class="btn btn-ghost btn-sm" href="${planner.pdf}" download>Planner PDF</a>
+        <a class="btn btn-ghost btn-sm" href="/${slug}-calendars.html?year=${ny}">All ${ny} designs</a>
+      </div>
+    </div>
+  </article>
+</section>`;
+}
+
 function faqSection(meta: SeoMeta): string {
   if (!meta.faq.length) return "";
   return `
@@ -985,7 +1014,7 @@ ${adUnit(ADS.homeMid, "FreshCalendars_Weekly_Mid", "banner")}
   </div>
 </section>
 ${adUnit(ADS.blankMid, "FreshCalendars_Weekly_Bottom", "banner")}
-${faqSection(meta)}`;
+${faqSection(meta)}${shopBoxHtml("weekly")}`;
     return layout(
       meta,
       `${hero}${withSidebar(main, sidebar({ title: "Plan further", today, downloads: meta.download, downloadTitles: meta.downloadTitles }))}`,
@@ -1043,7 +1072,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_School_Top")}`;
   </div>
 </section>
 ${adUnit(ADS.blankMid, "FreshCalendars_School_Bottom", "banner")}
-${faqSection(meta)}`;
+${faqSection(meta)}${shopBoxHtml("school")}`;
     return layout(
       meta,
       `${hero}${withSidebar(
@@ -1304,7 +1333,7 @@ ${adUnit(ADS.yearMid, "FreshCalendars_Year_InContent", "banner")}
   </div>
 </section>
 ${adUnit(ADS.inArticle, "FreshCalendars_Year_Bottom", "banner")}
-${faqSection(meta)}`;
+${faqSection(meta)}${shopBoxHtml("yearly")}`;
     return layout(
       meta,
       `${hero}${withSidebar(
@@ -1346,6 +1375,7 @@ ${adBand(ADS.monthTop, "FreshCalendars_Month_New_Header", "header")}`;
     const main = `
 ${monthPager(m)}
 ${variantGallery(meta)}
+${nextYearMonth(m, y)}
 ${adUnit(ADS.monthMid, "FreshCalendars_Month_InContent", "banner")}
 <section class="section prose">
   <h2>${name} ${y} guide</h2>
@@ -1361,7 +1391,7 @@ ${adUnit(ADS.monthMid, "FreshCalendars_Month_InContent", "banner")}
   <ul class="facts">${ed.historyFacts.map((f) => `<li><strong>${esc(f.label)}</strong> ${esc(f.text)}</li>`).join("")}</ul>
 </section>
 ${adUnit(ADS.inArticle, "FreshCalendars_Month_Bottom", "banner")}
-${faqSection(meta)}`;
+${faqSection(meta)}${shopBoxHtml("monthly")}`;
     return layout(
       meta,
       `${hero}${withSidebar(
@@ -1703,7 +1733,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
   <div class="side-links" style="grid-template-columns:repeat(auto-fill,minmax(12rem,1fr));display:grid;gap:.5rem">${related}</div>
 </section>
 ${adUnit(ADS.blankMid, "FreshCalendars_WhenIs_Bottom", "banner")}
-${faqSection(meta)}`;
+${faqSection(meta)}${shopBoxHtml(`when-is:${slug}`)}`;
     return layout(
       meta,
       `${hero}${withSidebar(

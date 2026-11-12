@@ -12,6 +12,7 @@ import Corrections from "../../components/Corrections.astro";
 import Faq from "../../components/Faq.astro";
 import Hero from "../../components/Hero.astro";
 import KeyPoints from "../../components/KeyPoints.astro";
+import ReadNext from "../../components/ReadNext.astro";
 import RelatedGrid from "../../components/RelatedGrid.astro";
 import Sources from "../../components/Sources.astro";
 import Toc from "../../components/Toc.astro";
@@ -209,6 +210,7 @@ const puzzleDay = pzThis ? {
     <div class="prose-news">
       <Content />
     </div>
+    <ReadNext items={puzzleDay ? puzzleDay.links.slice(0, 4) : related.slice(0, 3)} label={puzzleDay ? "More puzzles for this date" : "Read next"} />
     <DownloadGrid items={d.downloads} pageUrl={absNewsUrl(articlePath(article.id))} />
     <ShopCard campaign={shopCampaign(d.shop)} slug={article.id} />
     <div class="after">
@@ -245,6 +247,10 @@ const puzzleDay = pzThis ? {
       // the section bar. The bar shows once the first section heading passes under the header and
       // hides after the story body; the current section is the last heading above 30% of the screen.
       const bar = document.querySelector(".progress span"), body = document.querySelector(".prose-news");
+      // "Read next" (ReadNext.astro) goes in front of the second section heading; a story with
+      // fewer than three sections keeps it under the body.
+      const rn = document.querySelector("[data-read-next]"), rh = document.querySelectorAll(".prose-news > h2");
+      if (rn && rh.length >= 3) rh[1].before(rn);
       const sb = document.querySelector("[data-secbar]"), head = document.querySelector(".site-header-bar");
       const heads = [...document.querySelectorAll("[data-toc]")].map((a) => document.getElementById(a.dataset.toc)).filter(Boolean);
       const marks = (sel, key) => new Map([...document.querySelectorAll(sel)].map((a) => [a.dataset[key], a]));
