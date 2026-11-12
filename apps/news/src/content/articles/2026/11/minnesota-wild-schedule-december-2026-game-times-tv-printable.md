@@ -26,17 +26,17 @@ assets:
       layout: table
       events:
         - { start: "2026-12-02T03:00Z", title: "Wild at Ducks", detail: "Away", channel: "Wild+, Prime Video", airing: live, src: 1, quote: "MIN @ ANA startTimeUTC 2026-12-02 03:00:00Z TVAS CA N; Wild+ US A; MINNHL US A; Prime Video US H" }
-        - { start: "2026-12-04T03:00Z", title: "Wild at Kings", detail: "Away", channel: "Wild+, MINNHL", airing: live, src: 1, quote: "MIN @ LAK startTimeUTC 2026-12-04 03:00:00Z Wild+ US A; MINNHL US A; ABTV US H" }
-        - { start: "2026-12-06T01:00Z", title: "Flyers at Wild", detail: "Home", channel: "Wild+, MINNHL", airing: live, src: 1, quote: "PHI @ MIN startTimeUTC 2026-12-06 01:00:00Z Wild+ US H; MINNHL US H; NBCSP US A" }
-        - { start: "2026-12-09T01:00Z", title: "Oilers at Wild", detail: "Home", channel: "Wild+, MINNHL, KSTC", airing: live, src: 1, quote: "EDM @ MIN startTimeUTC 2026-12-09 01:00:00Z SN1 CA N; Wild+ US H; MINNHL US H; KSTC US H" }
-        - { start: "2026-12-11T00:00Z", title: "Wild at Blue Jackets", detail: "Away", channel: "Wild+, MINNHL", airing: live, src: 1, quote: "MIN @ CBJ startTimeUTC 2026-12-11 00:00:00Z Wild+ US A; MINNHL US A; CBJHN US H; CBJNHL US H" }
-        - { start: "2026-12-12T20:30Z", title: "Jets at Wild", detail: "Home", channel: "Wild+, MINNHL", airing: live, src: 1, quote: "WPG @ MIN startTimeUTC 2026-12-12 20:30:00Z SN CA N; Wild+ US H; MINNHL US H" }
-        - { start: "2026-12-16T01:00Z", title: "Maple Leafs at Wild", detail: "Home", channel: "Wild+, MINNHL", airing: live, src: 1, quote: "TOR @ MIN startTimeUTC 2026-12-16 01:00:00Z Wild+ US H; MINNHL US H; TSN4 CA A" }
-        - { start: "2026-12-19T01:00Z", title: "Ducks at Wild", detail: "Home", channel: "Wild+, MINNHL, KSTP, Prime Video", airing: live, src: 1, quote: "ANA @ MIN startTimeUTC 2026-12-19 01:00:00Z SN+ CA N; Wild+ US H; MINNHL US H; KSTP US H; FOXLA+ US A; Prime Video US A" }
-        - { start: "2026-12-20T00:00Z", title: "Canadiens at Wild", detail: "Home", channel: "Wild+, MINNHL", airing: live, src: 1, quote: "MTL @ MIN startTimeUTC 2026-12-20 00:00:00Z SNE CA N; TVAS CA N; Wild+ US H; MINNHL US H" }
+        - { start: "2026-12-04T03:00Z", title: "Wild at Kings", detail: "Away", channel: "Wild+", airing: live, src: 1, quote: "MIN @ LAK startTimeUTC 2026-12-04 03:00:00Z Wild+ US A; MINNHL US A; ABTV US H" }
+        - { start: "2026-12-06T01:00Z", title: "Flyers at Wild", detail: "Home", channel: "Wild+", airing: live, src: 1, quote: "PHI @ MIN startTimeUTC 2026-12-06 01:00:00Z Wild+ US H; MINNHL US H; NBCSP US A" }
+        - { start: "2026-12-09T01:00Z", title: "Oilers at Wild", detail: "Home", channel: "Wild+, local station", airing: live, src: 1, quote: "EDM @ MIN startTimeUTC 2026-12-09 01:00:00Z SN1 CA N; Wild+ US H; MINNHL US H; KSTC US H" }
+        - { start: "2026-12-11T00:00Z", title: "Wild at Blue Jackets", detail: "Away", channel: "Wild+", airing: live, src: 1, quote: "MIN @ CBJ startTimeUTC 2026-12-11 00:00:00Z Wild+ US A; MINNHL US A; CBJHN US H; CBJNHL US H" }
+        - { start: "2026-12-12T20:30Z", title: "Jets at Wild", detail: "Home", channel: "Wild+", airing: live, src: 1, quote: "WPG @ MIN startTimeUTC 2026-12-12 20:30:00Z SN CA N; Wild+ US H; MINNHL US H" }
+        - { start: "2026-12-16T01:00Z", title: "Maple Leafs at Wild", detail: "Home", channel: "Wild+", airing: live, src: 1, quote: "TOR @ MIN startTimeUTC 2026-12-16 01:00:00Z Wild+ US H; MINNHL US H; TSN4 CA A" }
+        - { start: "2026-12-19T01:00Z", title: "Ducks at Wild", detail: "Home", channel: "Wild+, local station, Prime Video", airing: live, src: 1, quote: "ANA @ MIN startTimeUTC 2026-12-19 01:00:00Z SN+ CA N; Wild+ US H; MINNHL US H; KSTP US H; FOXLA+ US A; Prime Video US A" }
+        - { start: "2026-12-20T00:00Z", title: "Canadiens at Wild", detail: "Home", channel: "Wild+", airing: live, src: 1, quote: "MTL @ MIN startTimeUTC 2026-12-20 00:00:00Z SNE CA N; TVAS CA N; Wild+ US H; MINNHL US H" }
         - { start: "2026-12-23T01:00Z", title: "Kings at Wild", detail: "Home", channel: "ESPN+, Hulu, Disney+", airing: live, src: 1, quote: "LAK @ MIN startTimeUTC 2026-12-23 01:00:00Z ESPN+ US N; HULU US N; Disney+ US N" }
-        - { start: "2026-12-27T00:00Z", title: "Jets at Wild", detail: "Home", channel: "Wild+, MINNHL", airing: live, src: 1, quote: "WPG @ MIN startTimeUTC 2026-12-27 00:00:00Z SNW CA N; Wild+ US H; MINNHL US H" }
-        - { start: "2026-12-28T19:00Z", title: "Golden Knights at Wild", detail: "Home", channel: "Wild+, MINNHL", airing: live, src: 1, quote: "VGK @ MIN startTimeUTC 2026-12-28 19:00:00Z SN CA N; TVAS CA N; Wild+ US H; MINNHL US H; SCRIPPS US A" }
+        - { start: "2026-12-27T00:00Z", title: "Jets at Wild", detail: "Home", channel: "Wild+", airing: live, src: 1, quote: "WPG @ MIN startTimeUTC 2026-12-27 00:00:00Z SNW CA N; Wild+ US H; MINNHL US H" }
+        - { start: "2026-12-28T19:00Z", title: "Golden Knights at Wild", detail: "Home", channel: "Wild+", airing: live, src: 1, quote: "VGK @ MIN startTimeUTC 2026-12-28 19:00:00Z SN CA N; TVAS CA N; Wild+ US H; MINNHL US H; SCRIPPS US A" }
       unconfirmed:
         - { label: "Game results and line-ups", why: "the schedule feed lists start times and broadcasters only" }
 hero:
