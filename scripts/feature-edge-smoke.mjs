@@ -24,12 +24,12 @@ try{
   await page.goto(base+'/january-calendars.html?year=2030&style=floral&paper=a4&start=monday');
   await page.locator('[data-calendar-share]').click();check(await page.evaluate(()=>window.__copied===location.href),'Calendar copy includes every selected option');
   const initial=await page.locator('[data-main-preview]').getAttribute('src');await page.locator('[data-style-step="1"]').click();await page.locator('[data-style-step="-1"]').click();check(await page.locator('[data-main-preview]').getAttribute('src')===initial,'Preview arrows round-trip to selected style');
-  await page.goto(base+'/calendar-tools/');const between=page.locator('[data-date-tool=between]'),add=page.locator('[data-date-tool=add]');
+  await page.goto(base+'/calendar-tools/');const between=page.locator('[data-tool=between]'),add=page.locator('[data-tool=add]');
   for(const [from,to,n]of [['2028-02-28','2028-03-01',2],['2026-03-07','2026-03-09',2],['2026-10-26','2026-10-26',0],['2027-01-01','2026-12-31',1]]){
-    await between.locator('[name=from]').fill(from);await between.locator('[name=to]').fill(to);await between.locator('button').click();check((await between.locator('output').textContent()).startsWith(n+' days'),from+' to '+to+' computes '+n);
+    await between.locator('[name=from]').fill(from);await between.locator('[name=to]').fill(to);await between.locator('button').click();check((await between.locator('output').textContent()).startsWith(n+(n===1?' day':' days')),from+' to '+to+' computes '+n);
   }
   for(const [from,n,expected]of [['2028-02-28','1','February 29, 2028'],['2027-01-01','-1','December 31, 2026'],['2026-10-26','0','October 26, 2026']]){
-    await add.locator('[name=from]').fill(from);await add.locator('[name=days]').fill(n);await add.locator('button').click();check((await add.locator('output').textContent()).includes(expected),'Add '+n+' days to '+from);
+    await add.locator('[name=from]').fill(from);await add.locator('[name=amount]').fill(String(Math.abs(n)));await add.locator('[name=op]').selectOption(Number(n)<0?'subtract':'add');await add.locator('button').click();check((await add.locator('output').textContent()).includes(expected),'Add '+n+' days to '+from);
   }
   await page.goto(base+'/news/printables/');for(const button of await page.locator('[data-topic][aria-pressed]').all()){
     const topic=await button.getAttribute('data-topic');await button.click();const cards=page.locator('[data-printable]:visible');check(await cards.count()>0,'Printable category '+topic+' has files');check(await cards.evaluateAll((a,t)=>a.every(e=>!t||e.dataset.topic===t),topic),'Printable category '+topic+' only shows its files');

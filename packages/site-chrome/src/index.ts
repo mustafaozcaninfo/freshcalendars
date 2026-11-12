@@ -937,7 +937,7 @@ export function siteFooterHtml(today: Date = new Date(), opts: ChromeOpts = {}):
   const y = resolvePlanningYear(today);
   const groups: [string, [string, string][]][] = [
     ["Calendars", [["All calendars", "/calendars/"], ["Monthly calendars", "/monthly-calendars/"], [`${y} yearly calendar`, "/printable-calendars.html"], [`${y + 1} yearly calendar`, "/printable-yearly-calendar.html"], ["Weekly planners", "/printable-weekly-calendar.html"], ["Blank calendars", "/blank-calendars.html"]]],
-    ["Holidays & planning", [["US holidays", "/holidays/"], ["UK holidays", "/uk-holidays/"], ["Canada holidays", "/canada-holidays/"], ["School calendars", "/printable-school-calendar.html"], ["Calendar tools", "/calendar-tools/"], ["Printing guide", "/print-guide.html"]]],
+    ["Holidays & planning", [["US holidays", "/holidays/"], ["UK holidays", "/uk-holidays/"], ["Canada holidays", "/canada-holidays/"], ["School calendars", "/printable-school-calendar.html"], ["Date calculators", "/calendar-tools/"], ["Days until a holiday", "/days-until/"], ["Printing guide", "/print-guide.html"]]],
     ["Explore", [["Classroom guides", "/guides/classroom-printable-calendars.html"], ["Monday-start calendars", "/printable-monday-start-calendar.html"], ...(opts.news ? [["Calendar news", "/news/"], ["News printables", "/news/printables/"], ["Editorial policy", "/news/editorial-policy/"]] as [string,string][] : []), ["Shop", SHOP_URL], ["RSS feed", "/feed.xml"]]],
     ["Fresh Calendars", [["About us", "/page/about/"], ["Contact", "/page/contact/"], ["Privacy", "/page/privacy-policy/"], ["Terms of use", "/page/terms-of-use/"], ["Advertising", "/page/advertising/"], ["Disclosure", "/page/disclosure/"]]],
   ];
