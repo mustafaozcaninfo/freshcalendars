@@ -1,0 +1,10 @@
+[
+  { "date": "2026-11-25", "label": "North Dakota: executive agencies and Supreme Court bill filing deadline with the Legislative Council (tentative)" },
+  { "date": "2026-12-01", "label": "North Dakota Legislature organizational session begins (Dec. 1-3)" },
+  { "date": "2026-12-18", "label": "North Dakota: deadline for legislators to prefile bills" },
+  { "date": "2027-01-05", "label": "North Dakota Legislature opens, 2027 session (legislative day 1)", "weight": 3 },
+  { "date": "2027-01-18", "label": "North Dakota: deadline for representatives to introduce bills (day 8)" },
+  { "date": "2027-01-25", "label": "North Dakota: deadline for senators to introduce bills (day 13)" },
+  { "date": "2027-02-26", "label": "North Dakota: crossover date for bills and resolutions (day 37)" },
+  { "date": "2027-04-30", "label": "North Dakota: session limited to 80 legislative days (day 80)" }
+]

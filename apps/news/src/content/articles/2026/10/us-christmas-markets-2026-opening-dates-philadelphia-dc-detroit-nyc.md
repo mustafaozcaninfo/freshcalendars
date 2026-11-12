@@ -93,7 +93,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa, christkindlmarket-chicago-2026-dates-hours-wrigleyville-aurora-mugs, zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston]
+related: [canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa, christkindlmarket-chicago-2026-dates-hours-wrigleyville-aurora-mugs, european-christmas-markets-2026-dates-nuremberg-vienna-strasbourg-cologne]
 downloads:
   - group: "US Christmas Markets 2026 Opening Dates printables"
     title: "US Christmas Markets 2026 Opening Dates"
