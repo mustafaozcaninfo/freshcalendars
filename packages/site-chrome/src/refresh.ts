@@ -482,6 +482,51 @@ html[data-theme=dark] .holiday-country-tabs a[aria-current=page]{background:var(
 .du-chips{display:flex; flex-wrap:wrap; gap:10px; max-width:980px}
 .du-chips a{display:inline-flex; align-items:baseline; gap:8px; min-height:44px; padding:10px 14px; border:1px solid var(--line-soft); border-radius:999px; background:var(--paper); color:var(--ink-strong); font-size:15px; font-weight:600; text-decoration:none}
 .du-chips a:hover{border-color:var(--accent)}
+.du-chips>span[aria-current]{display:inline-flex; align-items:center; min-height:44px; padding:10px 14px; border:1px solid var(--ink-strong); border-radius:999px; background:var(--ink-strong); color:var(--paper); font-size:15px; font-weight:600}
+/* ——— Dated month and year pages (generator datedPages.ts) ——— */
+.dated-page .month-pager{max-width:980px; margin:18px 0}
+.dated-top{display:grid; grid-template-columns:minmax(0,1.5fr) minmax(0,1fr); gap:20px; align-items:start; max-width:980px}
+.dated-top .dated-facts{grid-template-columns:1fr; margin:0}
+.dated-grid th[scope=row]{width:44px; padding:0; font-size:12px; font-weight:600; color:var(--muted); background:var(--surface-soft); border-top:1px solid var(--line-soft); text-align:center}
+.dated-grid thead th:first-child{width:44px}
+.design-grid{list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:16px; max-width:1100px}
+.design-grid li{display:flex; flex-direction:column; gap:8px; margin:0; padding:14px; border:1px solid var(--line); border-radius:var(--r-lg); background:var(--paper)}
+.design-grid .dg-thumb{display:grid; place-items:center; aspect-ratio:17/22; padding:10px; border-radius:var(--r-md); background:var(--surface-soft)}
+.design-grid img{max-width:100%; max-height:100%; width:auto; height:auto; border-radius:3px; box-shadow:var(--shadow-sm); background:#fff}
+.design-grid h3{margin:4px 0 0; font:600 16px/1.3 var(--font-display); letter-spacing:-.02em}
+.design-grid p{margin:0; font-size:14px; line-height:1.5; color:var(--muted)}
+.design-grid .btn{margin-top:auto; justify-content:center}
+.design-grid .dg-more{display:flex; flex-wrap:wrap; gap:4px 14px}
+.design-grid .dg-more a{display:inline-flex; align-items:center; min-height:32px; font-weight:600; color:var(--accent)}
+.year-minis{display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:14px; max-width:1100px}
+.mini-month{padding:12px; border:1px solid var(--line-soft); border-radius:var(--r-lg); background:var(--paper)}
+.mini-month table{width:100%; border-collapse:collapse; table-layout:fixed; border:0; margin:0}
+.mini-month caption{caption-side:top; text-align:left; padding:0 0 8px 2px; font:600 16px/1.3 var(--font-display); letter-spacing:-.02em}
+.mini-month caption a{display:inline-flex; align-items:center; min-height:32px; color:var(--ink-strong); text-decoration:underline; text-decoration-color:var(--line); text-underline-offset:4px}
+.mini-month caption a:hover{text-decoration-color:var(--accent)}
+.mini-month th,.mini-month td{padding:3px 0; border:0; background:transparent; text-align:center; font-size:12.5px; font-variant-numeric:tabular-nums}
+.mini-month th{font-size:11px; font-weight:600; color:var(--muted); text-transform:none; letter-spacing:0}
+.mini-month td{color:var(--ink)}
+.mini-month td.is-hol{background:var(--surface-tint); border-radius:6px; font-weight:700; color:var(--ink-strong)}
+.dated-index{padding:8px 0 56px}
+.dated-index>h2{font:600 22px/1.25 var(--font-display); letter-spacing:-.02em; margin:0 0 14px}
+.dated-index-row{display:grid; grid-template-columns:76px minmax(0,1fr); gap:14px; align-items:start; padding:12px 0; border-top:1px solid var(--line-soft)}
+.dated-index-year{display:inline-flex; align-items:center; min-height:44px; font:600 20px var(--font-display); letter-spacing:-.02em; color:var(--ink-strong)}
+.dated-index .du-chips{gap:8px} .dated-index .du-chips a{padding:10px 12px}
+.ny-more{margin-top:14px}
+@media(max-width:900px){
+  .dated-top{grid-template-columns:1fr}
+  .dated-top .dated-facts{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .design-grid{grid-template-columns:repeat(2,minmax(0,1fr)); gap:12px}
+  .year-minis{grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px}
+}
+@media(max-width:640px){
+  .dated-index-row{grid-template-columns:1fr; gap:4px}
+  .design-grid li{padding:10px}
+  .mini-month{padding:10px 8px}
+  .dated-page .month-pager a{padding:0 12px; font-size:13px}
+}
+@media(max-width:380px){.year-minis{grid-template-columns:1fr}}
 .du-chips span{font-size:13px; font-weight:400; color:var(--muted)}
 .tools-page .holiday-month{max-width:820px}
 .tool-links{margin-top:26px}

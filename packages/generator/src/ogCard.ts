@@ -59,7 +59,9 @@ export function ogCardHtml(meta: SeoMeta, today: Date = new Date()): string {
     const def = holidayDefBySlug(holidaySlug);
     const h = def ? resolveHoliday(def, year) : null;
     sheet = h ? monthSheet(h.year, h.month, h.day) : plainSheet("Holidays");
-  } else if (family === "monthly" && year && month) sheet = monthSheet(year, month);
+  } else if (/^month-\d{4}-/.test(meta.pageId) && year && month) sheet = monthSheet(year, month);
+  else if (/^year-\d{4}$/.test(meta.pageId) && year) sheet = yearSheet(year);
+  else if (family === "monthly" && year && month) sheet = monthSheet(year, month);
   else if (family === "yearly" && year) sheet = yearSheet(year);
   else if (family === "home") sheet = monthSheet(today.getFullYear(), today.getMonth() + 1);
   else if (family === "holidays" && year) sheet = yearSheet(year);

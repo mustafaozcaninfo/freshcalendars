@@ -7,7 +7,7 @@
     "prepare": "git config core.hooksPath .githooks || true",
     "fc": "tsx packages/generator/src/cli.ts",
     "build": "tsx packages/generator/src/cli.ts build",
-    "test": "tsx --test scripts/desk-scope.test.mjs packages/generator/src/newsRules.test.ts packages/generator/src/shopLinks.test.ts packages/generator/src/toolPages.test.ts packages/generator/src/kits/*.test.ts cloudflare/worker.test.mjs packages/engine/src/resolve.test.ts packages/engine/src/content/editorial.test.ts packages/engine/src/content/holidayEditorial.test.ts packages/engine/src/holidays/holidays.test.ts apps/news/test/*.test.ts",
+    "test": "tsx --test scripts/desk-scope.test.mjs packages/generator/src/newsRules.test.ts packages/generator/src/shopLinks.test.ts packages/generator/src/toolPages.test.ts packages/generator/src/datedPages.test.ts packages/generator/src/kits/*.test.ts cloudflare/worker.test.mjs packages/engine/src/resolve.test.ts packages/engine/src/content/editorial.test.ts packages/engine/src/content/holidayEditorial.test.ts packages/engine/src/holidays/holidays.test.ts apps/news/test/*.test.ts",
     "verify": "tsx packages/generator/src/cli.ts verify",
     "gen": "tsx packages/generator/src/cli.ts gen",
     "refresh-evergreen": "tsx packages/generator/src/cli.ts refresh-evergreen",

@@ -67,6 +67,7 @@ import { shopBoxHtml } from "./shopLinks.js";
 import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
 import { STUDIO_STYLES, studioAssets } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
+import { datedPages, datedIndexNav, monthYearPath, yearHref } from "./datedPages.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary } from "./conceptPages.js";
 
 /**
@@ -456,7 +457,7 @@ function layout(
 ): string {
   const adsEnabled = opts.ads !== false;
   const today = opts.today ?? new Date();
-  const designFamily = body.includes("data-studio>") ? "calendar-detail" : body.includes("data-library ") ? "calendar-library" : /^(calendar-tools$|tool-|days-until)/.test(meta.pageId) ? "tools" : meta.calendar.family === "home" ? "home" : meta.pageId === "legal-contact" ? "contact" : ["legal-school-holidays", "legal-daylight-savings"].includes(meta.pageId) ? "guide" : meta.calendar.family === "legal" ? "policy" : meta.calendar.family === "holidays" ? "holiday-list" : ["holiday", "easter"].includes(meta.calendar.family) ? "holiday-date" : "guide";
+  const designFamily = body.includes("data-studio>") ? "calendar-detail" : body.includes("data-library ") ? "calendar-library" : /^(calendar-tools$|tool-|days-until|month-\d|year-\d)/.test(meta.pageId) ? "tools" : meta.calendar.family === "home" ? "home" : meta.pageId === "legal-contact" ? "contact" : ["legal-school-holidays", "legal-daylight-savings"].includes(meta.pageId) ? "guide" : meta.calendar.family === "legal" ? "policy" : meta.calendar.family === "holidays" ? "holiday-list" : ["holiday", "easter"].includes(meta.calendar.family) ? "holiday-date" : "guide";
   const pageBody = pageWorkspaceHtml(body, meta.breadcrumbs, new URL(meta.canonical).pathname, today, designFamily);
   // Match <img srcset/sizes> so the browser preloads only the chosen density (not both 1x+2x).
   // Preload LCP preview on small screens only; desktop keeps the image below the fold (text LCP).
@@ -730,7 +731,7 @@ function nextYearMonth(m: number, y: number): string {
 <section class="section next-year-month">
   <h2>${name} ${ny} calendar</h2>
   <article class="ny-card">
-    <div><a class="img-link" href="/${slug}-calendars.html?year=${ny}" title="${name} ${ny} printable calendar"><img src="${f.preview}" alt="${name} ${ny} printable calendar, Classic design, Sunday start" width="540" height="697" loading="lazy" decoding="async"></a></div>
+    <div><a class="img-link" href="${monthYearPath(ny, m)}" title="${name} ${ny} printable calendar"><img src="${f.preview}" alt="${name} ${ny} printable calendar, Classic design, Sunday start" width="540" height="697" loading="lazy" decoding="async"></a></div>
     <div>
       <h3>${name} ${ny} printable calendar</h3>
       <p>Planning a year ahead? ${name} ${ny} starts on a ${start} and has ${days} days. The same seven designs are ready for ${ny}.</p>
@@ -738,10 +739,11 @@ function nextYearMonth(m: number, y: number): string {
         <a class="btn btn-primary btn-sm" href="${f.pdf}" download>${name} ${ny} PDF</a>
         <a class="btn btn-ghost btn-sm" href="${monday.pdf}" download>Monday start PDF</a>
         <a class="btn btn-ghost btn-sm" href="${planner.pdf}" download>Planner PDF</a>
-        <a class="btn btn-ghost btn-sm" href="/${slug}-calendars.html?year=${ny}">All ${ny} designs</a>
+        <a class="btn btn-ghost btn-sm" href="${monthYearPath(ny, m)}">All ${ny} designs</a>
       </div>
     </div>
   </article>
+  <div class="du-chips ny-more">${[ny + 1, ny + 2, ny + 3].map((x) => (yearHref(x, new Date()) ? `<a href="${monthYearPath(x, m)}">${name} ${x}</a>` : "")).join("")}</div>
 </section>`;
 }
 
@@ -1396,6 +1398,7 @@ ${adUnit(ADS.yearMid, "FreshCalendars_Year_InContent", "banner")}
   <p>The yearly templates are built for wall planning and annual reviews: see every ${y} month without flipping pages. Holidays are tinted on mini cells from the same engine that powers monthly downloads.</p>
   <p>Need large writing cells or named federal holidays in a single month? Jump into a monthly page for five specialized layouts — classic ink-saver, modern color, holidays marked, notes planner, and landscape.</p>
   <p><strong>${isNext ? "Also available" : "Plan ahead"}:</strong> <a href="${otherHref}" title="${otherY} printable yearly calendar">${otherY} yearly calendar</a> with the same five formats.</p>
+  <div class="du-chips">${[y + 1, y + 2, y + 3, y + 4].map((x) => { const href = yearHref(x, today); return href && href.endsWith("/") ? `<a href="${href}">${x} calendar</a>` : ""; }).join("")}</div>
   <h2>All months</h2>
   <div class="month-chips">${monthChips()}</div>
   <h3>Also useful</h3>
@@ -2229,20 +2232,24 @@ function termsOfUseBody(): string {
 }
 
 export function renderConceptHubs(home: SeoMeta, today: Date): { meta: SeoMeta; html: string; file: string }[] {
-  const hubs: { id: string; path: string; title: string; description: string; body: string; crumbs?: { name: string; url: string }[]; holiday?: { slug: string; year: number } }[] = [
-    { id: "calendar-library", path: "/calendars/", title: `Free Printable Calendars ${home.calendar.year} and ${home.calendar.year! + 1} · PDF and PNG`, description: `Free printable calendars for ${home.calendar.year} and ${home.calendar.year! + 1}: monthly, yearly, blank and weekly designs. Pick a design, paper size and start day, then download PDF or PNG.`, body: calendarLibrary(today, false) },
-    { id: "monthly-library", path: "/monthly-calendars/", title: `Monthly Calendar Printables ${home.calendar.year} and ${home.calendar.year! + 1} · Free PDF`, description: `Free monthly calendar printables for every month of ${home.calendar.year} and ${home.calendar.year! + 1}. Filter by month and design, choose Letter or A4 and a Sunday or Monday start.`, body: calendarLibrary(today, true) },
+  const hubs: { id: string; path: string; title: string; description: string; body: string; crumbs?: { name: string; url: string }[]; holiday?: { slug: string; year: number }; canonicalPath?: string; sheet?: { year: number; month?: number } }[] = [
+    { id: "calendar-library", path: "/calendars/", title: `Free Printable Calendars ${home.calendar.year} and ${home.calendar.year! + 1} · PDF and PNG`, description: `Free printable calendars for ${home.calendar.year} and ${home.calendar.year! + 1}: monthly, yearly, blank and weekly designs. Pick a design, paper size and start day, then download PDF or PNG.`, body: calendarLibrary(today, false) + datedIndexNav(today) },
+    { id: "monthly-library", path: "/monthly-calendars/", title: `Monthly Calendar Printables ${home.calendar.year} and ${home.calendar.year! + 1} · Free PDF`, description: `Free monthly calendar printables for every month of ${home.calendar.year} and ${home.calendar.year! + 1}. Filter by month and design, choose Letter or A4 and a Sunday or Monday start.`, body: calendarLibrary(today, true) + datedIndexNav(today) },
     ...toolPages(today, { volatile, holidayMonthBlock }),
+    ...datedPages(today),
   ];
   return hubs.map(p => {
-    const tool = Boolean(p.crumbs);
+    const tool = Boolean(p.crumbs), dated = Boolean(p.sheet);
     const canonical = `https://freshcalendars.com${p.path}`;
     const ogImagePath = `/og/${p.id}.png`, ogUrl = `https://cdn.freshcalendars.com${ogImagePath}`;
     const meta: SeoMeta = { ...home, pageId: p.id, url: canonical, canonical, title: p.title, description: p.description, faq: [], variants: undefined, calendar: { family: "guide", year: null, month: null, weekStartsOn: 0 }, hreflang: [{ lang: "en", href: canonical }, { lang: "x-default", href: canonical }], openGraph: { ...home.openGraph, title: p.title, description: p.description, url: canonical }, twitter: { ...home.twitter, title: p.title, description: p.description }, breadcrumbs: p.crumbs ?? [{ name: "Home", url: "https://freshcalendars.com/" }, ...(p.id === "monthly-library" ? [{ name: "Calendars", url: "https://freshcalendars.com/calendars/" }] : []), { name: p.id === "calendar-library" ? "Calendars" : p.title.split("|")[0]!.split(" · ")[0]!.trim(), url: canonical }], jsonLd: [JSON.stringify({ "@context": "https://schema.org", "@type": tool ? "WebPage" : "CollectionPage", name: p.title, description: p.description, url: canonical, inLanguage: "en-US" })] };
     // The share card draws the holiday's month with the day marked (ogCard.ts reads the year).
     if (p.holiday) meta.calendar = { ...meta.calendar, year: p.holiday.year };
+    // A month or year the evergreen page shows today: one indexed address, not two (datedPages.ts).
+    if (p.canonicalPath) meta.canonical = `https://freshcalendars.com${p.canonicalPath}`;
+    if (p.sheet) meta.calendar = { ...meta.calendar, year: p.sheet.year, month: p.sheet.month ?? null };
     meta.ogImagePath = ogImagePath; meta.openGraph.images = [{ url: ogUrl, width: 1200, height: 630, alt: p.title }]; meta.twitter.image = ogUrl;
-    return { meta, html: layout(meta, tool ? `${p.body}<script>${TOOLS_JS}</script>` : p.body, { today }), file: p.path.slice(1) + "index.html" };
+    return { meta, html: layout(meta, tool && !dated ? `${p.body}<script>${TOOLS_JS}</script>` : p.body, { today }), file: p.path.slice(1) + "index.html" };
   });
 }
 
@@ -2258,7 +2265,7 @@ const SEARCH_GROUPS: Record<string, string> = {
 };
 export async function writeSearchIndex(metas: SeoMeta[]): Promise<void> {
   const entries = metas
-    .filter((m) => m.pageId !== "home")
+    .filter((m) => m.pageId !== "home" && m.canonical === m.url)
     .map((m) => ({
       t: m.title.replace(/\s+\|\s+Fresh Calendars$/, ""),
       u: new URL(m.url).pathname,
@@ -2270,7 +2277,8 @@ export async function writeSearchIndex(metas: SeoMeta[]): Promise<void> {
 }
 
 export async function writeSitemap(metas: SeoMeta[]): Promise<void> {
-  const indexable = metas.filter((m) => m.robots.includes("index"));
+  // A page that names another address as canonical is not listed.
+  const indexable = metas.filter((m) => m.robots.includes("index") && m.canonical === m.url);
   const urls = indexable
     .map(
       (m) => `  <url>
