@@ -145,6 +145,12 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - `tools/category_guides.py` links every live article from its product category. Run it weekly and after scheduled articles go live; it skips articles that are not live yet.
 - The checker fails an H2 another article already uses, so give the "what we left out" section a heading that names the product kind.
 
+### New product family (started Nov. 12, 2026: Holiday Cards and Gift Wrap)
+- Categories 64 to 74 exist but are hidden. `settings/product` `publish_new_products` is now false, so imports arrive hidden.
+- `POST categories/fill` (Amazon, 30 per category, `generate_content: false`, `ai_relevance_check: false`) brought 298 hidden products. The fill searches inside the store's niche, so half of what it returns for a new family is off-category (journals and washi tape in "wrapping paper"). For a new family, find real products by ASIN and use `POST products/import-links` instead.
+- Product text: agents write drafts from the listings (brief in `.cache/shop/PRODUCT-AGENT.md`, inputs and drafts in `.cache/shop/season/`); `python3 shop/tools/product_apply.py .cache/shop/season` checks them and `--apply` writes them and shows the products. Not applied yet: prune off-category drafts first (the birthday card category kept craft supplies), then write category texts and show the categories.
+- The Amazon US tag is empty in settings; links use the platform default tag `fl-api-72849163-20`. The owner must set `offers_amazon_us_tag` in the admin.
+
 ### Ratings (Fresh Calendars Score)
 1. The method and the writing rules are in `ratings/METHODS.md`. The public version is the `/how-we-rate-products` page; keep both in step.
 2. Build the input: listing text per product from the offers' `title` and `features`.
