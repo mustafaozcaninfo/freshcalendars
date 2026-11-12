@@ -111,7 +111,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [toronto-maple-leafs-schedule-december-2026-game-times-tv-printable, edmonton-oilers-schedule-december-2026-game-times-tv-printable, pittsburgh-penguins-schedule-december-2026-game-times-tv-printable]
+related: [toronto-maple-leafs-schedule-december-2026-game-times-tv-printable, edmonton-oilers-schedule-december-2026-game-times-tv-printable, vancouver-canucks-schedule-december-2026-game-times-tv-printable]
 draft: false
 ---
 

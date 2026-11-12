@@ -466,6 +466,11 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-midi-crossword-answers-november-12-2026", "midi", "#13213a", "#fcd34d", "NYT Midi · Thu., Nov. 12, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end."],
   ["nyt-crossword-answers-november-12-2026", "crossword", "#172033", "#86efac", "NYT Crossword · Thu., Nov. 12, 2026", "NYT Crossword answers", "A hint for every clue first, the full solved grid at the end."],
   ["nyt-spelling-bee-hints-answers-november-23-2026", "bee", "#1c1917", "#facc15", "Spelling Bee · Mon., Nov. 23, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end.", "nyt-bee-november-23-a"],
+  ["wordle-hint-answer-today-november-24-2026-1984", "wordle", "#121213", "#6aaa64", "Wordle #1984 · Tue., Nov. 24, 2026", "Wordle hints today", "Clues from gentle to strong, the answer only at the end.", "wordle-november-24-a"],
+  ["nyt-connections-hints-answers-november-24-2026-1262", "connections", "#2a1f12", "#f9df6d", "Connections #1262 · Tue., Nov. 24, 2026", "Connections hints", "Two hints for every group first, answers only at the end.", "nyt-connections-november-24-a"],
+  ["nyt-strands-hints-answers-november-24-2026-996", "strands", "#0f2f3a", "#aedfee", "Strands #996 · Tue., Nov. 24, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end.", "nyt-strands-november-24-a"],
+  ["nyt-pips-hints-answers-november-24-2026", "pips", "#1e293b", "#fda4af", "Pips · Tue., Nov. 24, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-november-24-a"],
+  ["nyt-spelling-bee-hints-answers-november-24-2026", "bee", "#1c1917", "#fdba74", "Spelling Bee · Tue., Nov. 24, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end.", "nyt-bee-november-24-a"],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {

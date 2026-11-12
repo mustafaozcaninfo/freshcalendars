@@ -225,16 +225,22 @@ function holidayHreflang(name: string, slug: string): SeoMeta["hreflang"] | unde
   return [...links, { lang: "x-default", href: absUrl(holidayWhenIsPath(fallback.slug)) }];
 }
 
-/** Longest when-is title that fits ~60 characters: full date with brand first, then shorter dates. */
-function holidayTitle(h: { formatted: string; weekdayName: string; date: Date }, head: string): string {
-  const short = h.date.toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric" });
+/**
+ * When-is title: the question as searchers type it, then the answer. The longest form that fits
+ * ~60 characters wins, so long holiday names keep the question and shorten the date.
+ */
+function holidayTitle(h: { weekdayName: string; date: Date }, question: string): string {
+  const long = h.date.toLocaleDateString("en-US", { month: "long", day: "numeric" });
+  const short = h.date.toLocaleDateString("en-US", { month: "short", day: "numeric" });
   const options = [
-    `${head} Date · ${h.formatted} | ${SITE_NAME}`,
-    `${head} Date · ${h.formatted}`,
-    `${head} Date · ${h.weekdayName}, ${short}`,
-    `${head} · ${short}`,
+    `${question} ${h.weekdayName}, ${long}, ${h.date.getFullYear()}`,
+    `${question} ${h.weekdayName}, ${long}`,
+    `${question} ${h.weekdayName}, ${short}`,
+    `${question} ${short}`,
   ];
-  return options.find((t) => t.length <= 60) ?? head;
+  // A name too long for the question form keeps the name and the date.
+  const bare = question.replace(/^When Is /, "").replace(/( in the UK| in Canada)?\?$/, "");
+  return options.find((t) => t.length <= 60) ?? `${bare}: ${short}`;
 }
 
 /** Longest tail that keeps a meta description within the 160-character snippet. */
@@ -324,7 +330,7 @@ export function buildMetaForEntry(
       path: entry.path,
       title: isNext
         ? `${year} Printable Calendar · Free Year-at-a-Glance PDF`
-        : `${year} Yearly Calendar · Free Printable Year at a Glance`,
+        : `${year} Printable Calendar · Free Year-at-a-Glance PDF`,
       description: isNext
         ? `Free ${year} printable calendar on one page, in PDF and PNG: all twelve months in portrait, landscape, holidays, Monday-start and ink-saving designs.`
         : `Free ${year} yearly printable calendar in PNG and PDF: five poster formats with twelve mini-months and accurate ${year} weekdays on one page.`,
@@ -369,7 +375,7 @@ export function buildMetaForEntry(
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
-      title: `${name} ${year} Printable Calendar · 7 Free Designs | ${SITE_NAME}`,
+      title: `${name} ${year} Calendar · Free Printable PDF, 7 Designs`,
       description: editorial.description(year),
       family: "monthly",
       year,
@@ -410,7 +416,7 @@ export function buildMetaForEntry(
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
-      title: `Blank Calendar Printables · 5 Undated Monthly Sheets | ${SITE_NAME}`,
+      title: `Blank Calendar Printable · 5 Free Undated Templates (PDF)`,
       description:
         "Blank monthly calendar printables: five undated sheets (classic, Monday-start, notes, landscape, kids) in PNG and PDF that you can reuse any month.",
       family: "blank",
@@ -436,7 +442,7 @@ export function buildMetaForEntry(
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
-      title: `Blank Yearly Calendar · Undated 12-Month Fill-In | ${SITE_NAME}`,
+      title: `Blank Yearly Calendar Printable · Free 12-Month PDF`,
       description:
         "Blank yearly calendar to fill in by hand: twelve undated mini-months on one page, in PNG and PDF. Reuse it for any year or a custom fiscal span.",
       family: "blank",
@@ -494,12 +500,14 @@ export function buildMetaForEntry(
       path: entry.path,
       title:
         locale === "us"
-          ? `${year} US Holiday List · Federal Dates & Observances | ${SITE_NAME}`
-          : `${year} ${localeLabel} Holiday List · Public & Bank Dates | ${SITE_NAME}`,
+          ? `US Federal Holidays ${year} and ${year + 1} · Dates and Weekdays`
+          : locale === "uk"
+            ? `UK Bank Holidays ${year} and ${year + 1} · Dates and Weekdays`
+            : `Canada Statutory Holidays ${year} and ${year + 1} · Dates`,
       description:
         locale === "us"
-          ? `${year} US holiday list: ${federal.length} federal holidays plus popular observances${highlight ? ` (Thanksgiving ${highlight.formatted})` : ""}, each with a when-is page.`
-          : `${year} ${localeLabel} holiday list: ${federal.length} public and bank holidays plus observances${highlight ? ` (${highlightName} ${highlight.formatted})` : ""}, each with a when-is page.`,
+          ? `US federal holidays for ${year} and ${year + 1}: all ${federal.length} dates with weekdays, plus popular observances${highlight ? ` (Thanksgiving ${highlight.formatted})` : ""} and a printable calendar.`
+          : `${localeLabel} public and bank holidays for ${year} and ${year + 1}: ${federal.length} dates with weekdays, plus observances${highlight ? ` (${highlightName} ${highlight.formatted})` : ""}.`,
       family: "holidays",
       year,
       month: null,
@@ -583,14 +591,14 @@ export function buildMetaForEntry(
     // Same-name UK/Canada pages would otherwise share the US title.
     const localeTag =
       locale === "uk" && !/\bUK\b/.test(h.name)
-        ? " (UK)"
+        ? " in the UK"
         : locale === "ca" && !/Canad/.test(h.name)
-          ? " (Canada)"
+          ? " in Canada"
           : "";
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
-      title: holidayTitle(h, `${h.name} ${year}${localeTag}`),
+      title: holidayTitle(h, `When Is ${h.name} ${year}${localeTag}?`),
       description,
       hreflang: holidayHreflang(h.name, slug),
       ogLocale: locale === "uk" ? "en_GB" : locale === "ca" ? "en_CA" : undefined,
@@ -623,13 +631,15 @@ export function buildMetaForEntry(
 
   if (entry.kind === "guide") {
     const g = entry.guide ?? "print";
+    const schoolStart = schoolYearStartYear(today);
+    const schoolOverview = schoolYearOverviewAssetPaths(schoolStart);
     const guideMeta: Record<
       string,
       { title: string; description: string; faq: SeoMeta["faq"]; keywords: string[] }
     > = {
       print: {
-        title: `Print a Calendar Cleanly · Paper, Margins & Ink | ${SITE_NAME}`,
-        description: `Fresh Calendars print guide: Letter vs A4, margins, fit-to-page, ink-saver B&W, PDF vs PNG, and common printer fixes so sheets actually fit.`,
+        title: `How to Print a Calendar · Paper Size, Margins and Ink`,
+        description: `How to print a calendar that fits the page: Letter vs A4, margins, "Actual size" vs "Fit", low-ink black and white, PDF vs PNG, and common printer fixes.`,
         keywords: [
           "how to print a calendar",
           "printable calendar margins",
@@ -652,7 +662,7 @@ export function buildMetaForEntry(
         ],
       },
       weekly: {
-        title: `Weekly Calendar Printables · 5 Planner Packs | ${SITE_NAME}`,
+        title: `Weekly Calendar Printable · 5 Free Planner Templates`,
         description: `Printable weekly calendars: classic Sunday, Monday-start, hourly, priorities, and habit-tracker PNG and PDF sheets, plus this week’s grid to print.`,
         keywords: [
           "printable weekly calendar",
@@ -678,8 +688,8 @@ export function buildMetaForEntry(
         ],
       },
       school: {
-        title: `School-Year Calendar Hub · Aug–Jul Printables | ${SITE_NAME}`,
-        description: `Fresh Calendars academic hub — August–July overview poster plus Classic B&W and Monday-start month downloads for classrooms, students, and parents.`,
+        title: `School Year Calendar ${schoolOverview.span} · Free Printable PDF`,
+        description: `Free ${schoolOverview.span} school year calendar: an August to July overview on one page, plus every month as a PDF in black and white or Monday start.`,
         keywords: [
           "school year calendar printable",
           "academic calendar printable",
@@ -702,7 +712,7 @@ export function buildMetaForEntry(
         ],
       },
       "monday-start": {
-        title: `Monday-Start Monthly Calendars · Mon–Sun Grids | ${SITE_NAME}`,
+        title: `Monday Start Calendar Printable · Free Monthly PDFs`,
         description: `Monday-start monthly calendars: Mon–Sun printable grids for this month and next, links to every month, and a short how-to for Monday-first planning.`,
         keywords: [
           "monday start calendar",
@@ -726,8 +736,8 @@ export function buildMetaForEntry(
         ],
       },
       classroom: {
-        title: `Classroom Calendar Guide · Teacher & Student Prints | ${SITE_NAME}`,
-        description: `Fresh Calendars classroom guide — Aug–Jul school overview, kids blanks, weekly habit trackers, and Monday-start months for teachers and parents.`,
+        title: `Classroom Calendar Printables · Free for Teachers`,
+        description: `Free classroom calendar printables for teachers: the August to July school year on one page, blank kids months, weekly habit trackers and Monday-start months.`,
         keywords: [
           "classroom printable calendar",
           "teacher calendar printable",
@@ -746,8 +756,8 @@ export function buildMetaForEntry(
         ],
       },
       "monday-guide": {
-        title: `Monday-Start vs Sunday-Start · Which Grid to Print | ${SITE_NAME}`,
-        description: `Pick Monday-start or Sunday-start on Fresh Calendars — workweeks, schools, ISO weeks, and which downloads to grab first.`,
+        title: `Monday vs Sunday Start Calendar · Which One to Print`,
+        description: `Monday start or Sunday start? How each calendar layout fits workweeks, school weeks and ISO week numbers, with free printable months in both layouts.`,
         keywords: [
           "monday start vs sunday start calendar",
           "how to choose monday start calendar",
@@ -765,8 +775,8 @@ export function buildMetaForEntry(
         ],
       },
       fiscal: {
-        title: `Fiscal vs Calendar Year · Which Printable to Use | ${SITE_NAME}`,
-        description: `Fresh Calendars guide to fiscal vs calendar years — blank yearly posters, Aug–Jul school hubs, and dated yearly sheets for budgets and academics.`,
+        title: `Fiscal Year vs Calendar Year · Dates and Printables`,
+        description: `Fiscal year vs calendar year: when each starts and ends, how the August to July school year differs, and which free printable yearly calendar fits each.`,
         keywords: [
           "fiscal year calendar printable",
           "fiscal vs calendar year",
@@ -789,8 +799,6 @@ export function buildMetaForEntry(
     if (!gm) throw new Error(`Unknown guide slug: ${g}`);
     const weeklyPrimary = weeklyVariantAssetPaths(DEFAULT_WEEKLY_VARIANT);
     const blankPrimary = blankVariantAssetPaths(DEFAULT_BLANK_VARIANT);
-    const schoolStart = schoolYearStartYear(today);
-    const schoolOverview = schoolYearOverviewAssetPaths(schoolStart);
     const weeklyVariants =
       g === "weekly"
         ? WEEKLY_VARIANT_IDS.map((id) => {
@@ -931,7 +939,12 @@ export function buildMetaForEntry(
   return baseMeta({
     pageId: entry.pageId,
     path: entry.path,
-    title: `${labels[key]} | ${SITE_NAME}`,
+    title:
+      key === "daylight-savings"
+        ? `Daylight Saving Time ${today.getFullYear()} and ${today.getFullYear() + 1} · US Clock Change Dates`
+        : key === "school-holidays"
+          ? `School Holidays Calendar · Plan the August to July Year`
+          : `${({ "privacy-policy": "Privacy Policy", "terms-of-use": "Terms of Use", contact: "Contact Us" } as Record<string, string>)[key] ?? labels[key]} | ${SITE_NAME}`,
     description: legalDesc[key] ?? `${labels[key]} for ${SITE_NAME}.`,
     family: "legal",
     year: null,

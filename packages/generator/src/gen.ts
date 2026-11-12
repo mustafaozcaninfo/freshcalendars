@@ -27,11 +27,11 @@ import {
 import { DIST, DIST_ASSETS, DIST_META, DIST_OG, DIST_SITE, PHOTOSWIPE_PATH, PHOTOSWIPE_VERSION, ROOT } from "./paths.js";
 import { closeBrowser, renderOg, renderPrintable } from "./playwrightRender.js";
 import { generateAssetPreviews } from "./previews.js";
+import { ogCardHash, ogCardHtml } from "./ogCard.js";
 import {
   renderBlankPrintHtml,
   renderBlankYearlyPrintHtml,
   renderMonthlyPrintHtml,
-  renderOgHtml,
   renderSchoolOverviewPrintHtml,
   renderWeeklyPrintHtml,
   renderYearlyPrintHtml,
@@ -183,21 +183,24 @@ async function ensureAsset(
   throw new Error(`Invalid asset request ${family} ${year} ${month}`);
 }
 
-async function writeOgForMeta(meta: SeoMeta): Promise<void> {
-  const mark =
-    meta.calendar.year != null
-      ? String(meta.calendar.year)
-      : meta.calendar.family === "blank"
-        ? "○"
-        : "·";
-  const html = renderOgHtml({
-    title: meta.title.split("|")[0]!.trim(),
-    subtitle: meta.description.slice(0, 90),
-    mark,
-    family: meta.calendar.family,
-  });
+const OG_STATE = path.join(DIST_OG, "og-state.json");
+let ogState: Record<string, string> | null = null;
+
+/**
+ * Draws a page's share card when its content changed (title, description, date) or the file is
+ * missing. The daily job keeps the cards it already has (they come back from R2 with og-state.json),
+ * so a new title reaches the card without redrawing all of them every day.
+ */
+async function writeOgForMeta(meta: SeoMeta, today = new Date()): Promise<void> {
+  ogState ??= await fs.readFile(OG_STATE, "utf8").then((t) => JSON.parse(t) as Record<string, string>).catch(() => ({}));
+  const html = ogCardHtml(meta, today);
+  const hash = ogCardHash(html);
   const out = path.join(DIST_OG, `${meta.pageId}.png`);
+  if (ogState[meta.pageId] === hash && await fs.stat(out).then(() => true).catch(() => false)) return;
   await renderOg(html, out);
+  ogState[meta.pageId] = hash;
+  await fs.mkdir(DIST_OG, { recursive: true });
+  await fs.writeFile(OG_STATE, JSON.stringify(ogState, null, 1));
 }
 
 function collectEntries(_years: number[]): UrlEntry[] {
@@ -261,13 +264,13 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
     nextLastmod[meta.url] = { hash: contentHash, lastmod: meta.sitemap.lastmod };
 
     await writeJson(path.join(DIST_META, `${meta.pageId}.json`), meta);
-    if (!opts.skipOg && !opts.htmlOnly) await writeOgForMeta(meta);
+    if (!opts.htmlOnly) await writeOgForMeta(meta, today);
     await writeSitePage(entryToRelPath(entry), html);
     metas.push(meta);
   }
   const home = metas.find(m => m.pageId === "home")!;
   for (const page of renderConceptHubs(home, today)) {
-    if (!opts.htmlOnly && (!opts.skipOg || !await fs.stat(path.join(DIST, page.meta.ogImagePath)).then(() => true).catch(() => false))) await writeOgForMeta(page.meta);
+    if (!opts.htmlOnly) await writeOgForMeta(page.meta, today);
     await writeSitePage(page.file, page.html); await writeJson(path.join(DIST_META, `${page.meta.pageId}.json`), page.meta); metas.push(page.meta);
   }
   await writeJson(LASTMOD_STATE, nextLastmod);
