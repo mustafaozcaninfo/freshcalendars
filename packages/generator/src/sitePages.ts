@@ -60,6 +60,7 @@ import {
 } from "@freshcalendars/site-chrome";
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
 import { homeNewsHtml, latestNewsHtml, newsStripHtml } from "./newsLinks.js";
+import { shopBoxHtml } from "./shopLinks.js";
 import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
 import { STUDIO_STYLES } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
@@ -985,7 +986,7 @@ ${adUnit(ADS.homeMid, "FreshCalendars_Weekly_Mid", "banner")}
   </div>
 </section>
 ${adUnit(ADS.blankMid, "FreshCalendars_Weekly_Bottom", "banner")}
-${faqSection(meta)}`;
+${faqSection(meta)}${shopBoxHtml("weekly")}`;
     return layout(
       meta,
       `${hero}${withSidebar(main, sidebar({ title: "Plan further", today, downloads: meta.download, downloadTitles: meta.downloadTitles }))}`,
@@ -1043,7 +1044,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_School_Top")}`;
   </div>
 </section>
 ${adUnit(ADS.blankMid, "FreshCalendars_School_Bottom", "banner")}
-${faqSection(meta)}`;
+${faqSection(meta)}${shopBoxHtml("school")}`;
     return layout(
       meta,
       `${hero}${withSidebar(
@@ -1304,7 +1305,7 @@ ${adUnit(ADS.yearMid, "FreshCalendars_Year_InContent", "banner")}
   </div>
 </section>
 ${adUnit(ADS.inArticle, "FreshCalendars_Year_Bottom", "banner")}
-${faqSection(meta)}`;
+${faqSection(meta)}${shopBoxHtml("yearly")}`;
     return layout(
       meta,
       `${hero}${withSidebar(
@@ -1361,7 +1362,7 @@ ${adUnit(ADS.monthMid, "FreshCalendars_Month_InContent", "banner")}
   <ul class="facts">${ed.historyFacts.map((f) => `<li><strong>${esc(f.label)}</strong> ${esc(f.text)}</li>`).join("")}</ul>
 </section>
 ${adUnit(ADS.inArticle, "FreshCalendars_Month_Bottom", "banner")}
-${faqSection(meta)}`;
+${faqSection(meta)}${shopBoxHtml("monthly")}`;
     return layout(
       meta,
       `${hero}${withSidebar(
@@ -1703,7 +1704,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
   <div class="side-links" style="grid-template-columns:repeat(auto-fill,minmax(12rem,1fr));display:grid;gap:.5rem">${related}</div>
 </section>
 ${adUnit(ADS.blankMid, "FreshCalendars_WhenIs_Bottom", "banner")}
-${faqSection(meta)}`;
+${faqSection(meta)}${shopBoxHtml(`when-is:${slug}`)}`;
     return layout(
       meta,
       `${hero}${withSidebar(
