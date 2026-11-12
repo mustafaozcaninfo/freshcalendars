@@ -3,7 +3,7 @@ title: "When Do They Start Counting Votes 2026? 17-State Timeline"
 description: "When counting starts in 2026 varies: Florida can process mail ballots 22 days early, Pennsylvania and Wisconsin at 7 a.m. Election Day. 17-state timeline."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-10T21:27:00-05:00"
+updatedAt: "2026-11-12T13:25:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -108,7 +108,11 @@ sources:
   - title: "2026 Election Results"
     url: "https://oklahoma.gov/elections/elections-results/election-results/2026-election-results/november-general-election.html"
     publisher: "Oklahoma State Election Board"
-    date: "2026-11-10"
+    date: "2026-11-12"
+  - title: "Statement from Secretary of the State Election Board"
+    url: "https://oklahoma.gov/elections/newsroom/2026/october/statement-from-secretary-of-the-state-election-board1.html"
+    publisher: "Oklahoma State Election Board"
+    date: "2026-11-04"
   - title: "Arizona Revised Statutes, Section 16-642"
     url: "https://www.azleg.gov/ars/16/00642.htm"
     publisher: "Arizona Legislature"
@@ -164,7 +168,7 @@ Three more states are still receiving or curing ballots. Oregon's Secretary of S
 
 The Pennsylvania Department of State lists Nov. 10 as the last day for county election offices to receive completed military and overseas absentee ballots that were submitted for delivery no later than 11:59 p.m. on Nov. 2, so Pennsylvania counties can still receive those ballots.
 
-In Oklahoma, the State Election Board's results page, last modified Nov. 10, says: "State and federal election results will be certified on Tuesday, November 10." County election boards could certify county-level results "not earlier than 5 p.m. Friday, November 6," unless a contest or recount petition was filed. The page says its results "are neither final nor official until they are certified."
+In Oklahoma, the State Election Board said in a Nov. 4 statement: "County election results will be certified Friday after 5 p.m. State and federal election results will be certified on Tuesday, November 10." Its results page for the Nov. 3 general election, last modified Nov. 12, now carries the heading "Official Results," and the earlier line that results "are neither final nor official until they are certified" is gone.
 
 California's Secretary of State says on its unprocessed ballots status page for the Nov. 3, 2026 election that "it typically takes weeks for counties to process and count all of the ballots"; in its Nov. 5 [unprocessed ballot report](https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/office-california-secretary-state-issues-unprocessed-ballot-report), the Secretary of State said "California's county elections officials have already processed and counted 8,906,017 ballots" and "County elections officials estimate 4,816,722 outstanding ballots remain to be processed and counted." The Secretary of State has not posted a newer statewide estimate in its news releases as of Nov. 9. We could not confirm from most state election offices how many ballots remain to be counted, and as of Nov. 10 no state other than Oklahoma has announced a complete or certified count. Check your state's election office through our [live blog](/news/election-day-2026-results-map/) for the latest.
 
@@ -238,7 +242,7 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 | Date | What happens |
 |---|---|
 | Nov. 4-10 | Late mail ballots arrive in grace-period states (Texas Nov. 4, Nevada Nov. 7, California, New York and Oregon Nov. 10); Pennsylvania receives military and overseas ballots until Nov. 10 |
-| Nov. 10 | Oklahoma state and federal results set to be certified, per the State Election Board |
+| Nov. 10 | Oklahoma certification date for state and federal results, per the State Election Board; its results page shows "Official Results" by Nov. 12 |
 | Nov. 12 | Colorado signature cure deadline and last day for county clerks to receive military and overseas ballots; Colorado's weekday results updates by 4 p.m. MT run through this date (none on Veterans Day, Nov. 11) |
 | Nov. 16 | California counties finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule); Colorado's Secretary of State sets the random seed for the Risk Limiting Audit and tells counties which ballots to audit |
 | Nov. 17 | Florida's Elections Canvassing Commission meets at 8 a.m., per Fla. Stat. 102.111; Michigan county canvasses are due, per MCL 168.822 |
