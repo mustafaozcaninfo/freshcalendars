@@ -32,16 +32,23 @@ function storyList(stories: Story[]): string {
     .join("\n    ");
 }
 
-export function latestNewsHtml(slug: string): string {
+/**
+ * The same stories as a block near the top of a /when-is/ page. Search often shows the news story
+ * and the date page for one query, and the reader who lands here wants what the story has (hours,
+ * schedules, what is open); a plain list under the planning tips was below where most stop reading.
+ */
+export function holidayGuidesHtml(slug: string, heading: string): string {
   if (!NEWS_LAUNCHED) return "";
   const stories = load().bySlug[slug] ?? [];
   if (!stories.length) return "";
-  return `<h3>Latest news</h3>
-  <ul class="latest-news">
-    ${storyList(stories)}
+  const fmt = new Intl.DateTimeFormat("en-US", { timeZone: "America/New_York", month: "short", day: "numeric", year: "numeric" });
+  return `<aside class="holiday-guides" aria-label="${esc(heading)}">
+  <p class="hg-label">${esc(heading)}</p>
+  <ul>
+    ${stories.map((s) => `<li><a href="${esc(s.url)}"><span>${esc(s.title)}</span><time datetime="${esc(s.publishedAt)}">${fmt.format(new Date(s.publishedAt))}</time></a></li>`).join("\n    ")}
   </ul>
-  <p><a href="/news/">More calendar &amp; holiday news</a></p>
-  `;
+  <a class="hg-more" href="/news/">More calendar &amp; holiday news</a>
+</aside>`;
 }
 
 /**

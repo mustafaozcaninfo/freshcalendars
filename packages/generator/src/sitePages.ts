@@ -59,7 +59,7 @@ import {
   NOT_FOUND_JS,
 } from "@freshcalendars/site-chrome";
 import { brandHeadLinks, writeBrandIcons } from "./brandIcons.js";
-import { homeNewsHtml, latestNewsHtml, newsStripHtml } from "./newsLinks.js";
+import { holidayGuidesHtml, homeNewsHtml, newsStripHtml } from "./newsLinks.js";
 import { shopBoxHtml } from "./shopLinks.js";
 import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
 import { STUDIO_STYLES, studioAssets } from "./studio.js";
@@ -1714,6 +1714,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
 <section class="section prose">
   <h2>${esc(h.name)} ${y}</h2>
   ${overview}
+  ${volatile(holidayGuidesHtml(slug, `More on ${h.name} ${y}`))}
   <p>This page always shows the next ${esc(h.name)}: once ${esc(h.formatted)} has passed, it switches to the ${y + 1} date.</p>
   ${datesTable}
   <h3>How the date is calculated</h3>
@@ -1728,7 +1729,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
     ${tips.map((t) => `<li>${esc(t)}</li>`).join("\n    ")}
     <li>Use the <a href="/printable-weekly-calendar.html">weekly planner pack</a> for the days around ${esc(h.formatted)}.</li>
   </ul>
-  ${volatile(latestNewsHtml(slug))}${adUnit(ADS.holiday, "FreshCalendars_New_Holidays", "banner")}
+  ${adUnit(ADS.holiday, "FreshCalendars_New_Holidays", "banner")}
   <h3>Nearby holidays</h3>
   <div class="side-links" style="grid-template-columns:repeat(auto-fill,minmax(12rem,1fr));display:grid;gap:.5rem">${related}</div>
 </section>
