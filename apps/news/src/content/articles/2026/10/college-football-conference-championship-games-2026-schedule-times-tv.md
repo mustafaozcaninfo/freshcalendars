@@ -3,6 +3,7 @@ title: "College Football Conference Championship Games 2026: All 10, Dec. 4-5"
 description: "College football conference championship games 2026: five on Fri., Dec. 4 and five on Sat., Dec. 5, noon to 9 p.m. ET. Table has TV, sites, a printable."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
+updatedAt: "2026-11-12T19:30:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["conference championship games 2026", "conference championship weekend 2026 schedule", "college football championship games TV 2026", "SEC championship game 2026 time"]
@@ -13,6 +14,7 @@ assets:
   card: { top: "Title games kick off", big: "Fri., Dec. 4", bottom: "Five games Friday, five Saturday" }
   printable:
     slug: conference-championship-games-2026-schedule
+    noKit: "published Oct. 28 with the list layout; this silent update changes playoff times only, a watch-guide rebuild is a new printable"
     group: conference-championships-2026
     title: "Conference Championship Games 2026 and CFP Dates"
     subtitle: "Dec. 4-5 title games and the 2026-27 playoff, times in Eastern Time"
@@ -32,14 +34,13 @@ assets:
       - ["Dec. 5, 8 p.m.", "Big Ten title game, Lucas Oil Stadium, FOX (reported)"]
       - ["Dec. 6", "CFP Selection Day; first-round sites announced"]
       - ["Dec. 18, 8 p.m.", "CFP first round, campus site, ESPN"]
-      - ["Dec. 19", "CFP first round: noon, 3:30 p.m., 7:30 p.m."]
-      - ["Dec. 30, 7:30 p.m.", "Fiesta Bowl quarterfinal, TNT"]
-      - ["Jan. 1", "Cotton, Peach, Rose quarterfinals: noon, 4 p.m., 8 p.m."]
-      - ["Jan. 14, 7:30 p.m.", "Orange Bowl semifinal, TNT"]
-      - ["Jan. 15", "Sugar Bowl semifinal, ABC and ESPN"]
-      - ["Jan. 25", "CFP championship, Las Vegas, ABC and ESPN"]
-    note: "Source: Big 12, Pac-12, American and Sun Belt releases (May 27, 2026); NCAA.com, FBSchedules and Sports Video Group for the rest. Times may change."
-    inkSaver: true
+      - ["Dec. 19", "CFP first round: noon ABC/ESPN; 3:30, 7:30 p.m. TNT/truTV/HBO Max"]
+      - ["Dec. 30, 7:30 p.m.", "Fiesta Bowl quarterfinal, TNT, truTV, HBO Max"]
+      - ["Jan. 1", "Cotton, Peach, Rose quarterfinals: noon TNT/HBO Max, 4 p.m. ABC/ESPN, 8 p.m. ESPN"]
+      - ["Jan. 14, 7:30 p.m.", "Orange Bowl semifinal, TNT, truTV, HBO Max"]
+      - ["Jan. 15, 7:30 p.m.", "Sugar Bowl semifinal, ABC and ESPN"]
+      - ["Jan. 25, 7:30 p.m.", "CFP championship, Las Vegas, ABC and ESPN"]
+    note: "Source: Big 12, Pac-12, American and Sun Belt releases (May 27, 2026); ESPN Press Room (June 1, 2026) for the playoff; NCAA.com and FBSchedules for the rest. Times may change."
     description: "One-page list of all 10 college football conference championship games on Dec. 4-5, 2026 plus College Football Playoff dates, with Eastern Time kickoffs and TV. Free."
     alt: "Printable list of the 10 conference championship games on Dec. 4 and 5, 2026 and the College Football Playoff dates, with Eastern Time kickoffs and TV networks"
 hero:
@@ -57,7 +58,7 @@ summary:
   - "Five Football Bowl Subdivision (FBS) conference title games are on Friday, Dec. 4, 2026 and five on Saturday, Dec. 5, per conference releases and reports."
   - "The Big 12, Pac-12, American and Sun Belt confirmed their times in releases dated May 27, 2026; the other six times come from NCAA.com and FBSchedules."
   - "Selection Day for the College Football Playoff (CFP) is Sunday, Dec. 6, and the first round is Friday, Dec. 18 and Saturday, Dec. 19."
-  - "The CFP national championship is Monday, Jan. 25, 2027, at Allegiant Stadium in Las Vegas; its kickoff time is not confirmed."
+  - "The CFP national championship is Monday, Jan. 25, 2027, at Allegiant Stadium in Las Vegas; kickoff is 7:30 p.m. ET on ABC and ESPN, per ESPN Press Room."
 faq:
   - q: "When are the conference championship games in 2026?"
     a: "Friday, Dec. 4 and Saturday, Dec. 5, 2026. Five games are on each day, according to conference releases and NCAA.com."
@@ -70,8 +71,16 @@ faq:
   - q: "When does the College Football Playoff field get set?"
     a: "Selection Day is Sunday, Dec. 6, 2026, the day after the last title games. First-round campus sites are announced that day."
   - q: "When is the college football national championship in 2027?"
-    a: "Monday, Jan. 25, 2027, at Allegiant Stadium in Las Vegas, on ABC and ESPN. The kickoff time is not confirmed."
+    a: "Monday, Jan. 25, 2027, at Allegiant Stadium in Las Vegas, on ABC and ESPN. Kickoff is 7:30 p.m. ET, per ESPN Press Room."
 sources:
+  - title: "2026-27 CFP broadcast schedule revealed"
+    url: "https://espnpressroom.com/us/press-releases/2026/06/2026-27-cfp-broadcast-schedule-revealed/"
+    publisher: "ESPN Press Room"
+    date: "2026-06-01"
+  - title: "2026 Conference USA football TV schedule announced"
+    url: "https://fbschedules.com/2026-conference-usa-football-tv-schedule-announced/"
+    publisher: "FBSchedules.com"
+    date: "2026-05-27"
   - title: "Big 12 Announces Opening Slate of Football TV Selections"
     url: "https://big12sports.com/news/2026/5/27/big-12-announces-opening-slate-of-football-tv-selections.aspx"
     publisher: "Big 12 Conference"
@@ -122,19 +131,11 @@ downloads:
     pdf: "/news/downloads/conference-championships-2026/conference-championship-games-2026-schedule.pdf"
     png: "/news/downloads/conference-championships-2026/conference-championship-games-2026-schedule.png"
     pages: 1
-  - group: "Conference Championship Games 2026 and CFP Dates printables"
-    title: "Conference Championship Games 2026 and CFP Dates (ink saver)"
-    description: "One-page list of all 10 college football conference championship games on Dec. 4-5, 2026 plus College Football Playoff dates, with Eastern Time kickoffs and TV. Free. Ink-saver version."
-    preview: ../../../../assets/news/conference-championships-2026/conference-championship-games-2026-schedule-ink.png
-    alt: "Printable list of the 10 conference championship games on Dec. 4 and 5, 2026 and the College Football Playoff dates, with Eastern Time kicko, ink-saver version"
-    pdf: "/news/downloads/conference-championships-2026/conference-championship-games-2026-schedule-ink.pdf"
-    png: "/news/downloads/conference-championships-2026/conference-championship-games-2026-schedule-ink.png"
-    pages: 1
 ---
 
 **The 2026 college football conference championship games are played Friday, Dec. 4 and Saturday, Dec. 5, with kickoffs from noon to 9 p.m. Eastern Time (ET)**, according to conference announcements dated May 27, 2026 and to the National Collegiate Athletic Association (NCAA) site NCAA.com and FBSchedules for the conferences whose own pages could not be read. Five Football Bowl Subdivision (FBS) title games are on Friday and five on Saturday. The College Football Playoff (CFP) Selection Day follows on Sunday, Dec. 6.
 
-The table below puts all ten in one place with ET times, TV and sites. The networks are ESPN, the American Broadcasting Company (ABC), FOX, CBS and CBS Sports Network, and the playoff adds Turner Network Television (TNT). Our free one-page printable adds the CFP dates that come after.
+All ten games are listed with ET times, TV and sites. The networks are ESPN, the American Broadcasting Company (ABC), FOX, CBS and CBS Sports Network, and the playoff adds Turner Network Television (TNT). Our free one-page printable adds the CFP dates that come after.
 
 ## What is the schedule for all 10 title games?
 
@@ -150,10 +151,10 @@ Times are Eastern Time. Where a conference gave its time in another zone, that t
 | Sat., Dec. 5 | Atlantic Coast Conference (ACC) | Noon | ABC | Bank of America Stadium, Charlotte | Reported |
 | Sat., Dec. 5 | Mid-American Conference (MAC) | Noon | ESPN | Ford Field, Detroit | Reported |
 | Sat., Dec. 5 | Southeastern Conference (SEC) | 4 p.m. | ABC | Mercedes-Benz Stadium, Atlanta | Reported |
-| Sat., Dec. 5 | American | 8 p.m. | ABC | Home stadium of the team with the best conference winning percentage | Confirmed |
+| Sat., Dec. 5 | American | 8 p.m. | ABC | Not named in the release | Confirmed |
 | Sat., Dec. 5 | Big Ten | 8 p.m. | FOX | Lucas Oil Stadium, Indianapolis | Reported |
 
-Notes on the sources: the Big 12, Pac-12, American and Sun Belt releases are all dated May 27, 2026. NCAA.com reported the SEC details on June 1, 2026. FBSchedules reported the Big Ten and Mountain West games. The ACC announced in a release titled "2026 ACC Football Championship Game to kick off at noon ET on ABC" on Jan. 26, 2026, and FBSchedules lists the game; the MAC time comes from school releases on May 27, 2026, per FBSchedules. FBSchedules lists the Conference USA game on CBS Sports Network, while one listing shows ESPN+, so check the network closer to the date.
+Notes on the sources: the Big 12, Pac-12, American and Sun Belt releases are all dated May 27, 2026. NCAA.com reported the SEC details on June 1, 2026. FBSchedules reported the Big Ten and Mountain West games. The ACC announced in a release titled "2026 ACC Football Championship Game to kick off at noon ET on ABC" on Jan. 26, 2026, and FBSchedules lists the game; the MAC time comes from school releases on May 27, 2026, per FBSchedules. FBSchedules (May 27, 2026) reports the Conference USA game on CBS Sports Network at 7 p.m. ET.
 
 ## Which games are on Friday and which on Saturday?
 
@@ -163,29 +164,29 @@ Two pairs of games share a start. On Saturday, the American on ABC and the Big T
 
 ## Where are the championship games played?
 
-Five games have a fixed site in the reports: AT&T Stadium in Arlington (Big 12), Bank of America Stadium in Charlotte (ACC), Ford Field in Detroit (MAC), Mercedes-Benz Stadium in Atlanta (SEC) and Lucas Oil Stadium in Indianapolis (Big Ten). The other five are set by standings.
+Five games have a fixed site in the reports: AT&T Stadium in Arlington (Big 12), Bank of America Stadium in Charlotte (ACC), Ford Field in Detroit (MAC), Mercedes-Benz Stadium in Atlanta (SEC) and Lucas Oil Stadium in Indianapolis (Big Ten). The other five have no fixed site.
 
-The Pac-12 plays at the home venue of the highest seed. The American uses the home stadium of the team with the best conference winning percentage, per its May 27, 2026 release. The Sun Belt uses the site of the division winner with the best overall conference record, per its release. The Mountain West uses the team with the best conference record, as reported by FBSchedules. For Conference USA, the site is set by standings.
+The Pac-12 plays at the home venue of the highest seed. The American's May 27, 2026 release gives the date, time and network (ABC) but names no site. The Sun Belt uses the site of the division winner with the best overall conference record, per its release. The Mountain West uses the team with the best conference record, as reported by FBSchedules. For Conference USA, the site is set by standings.
 
 ## What are the 2026-27 College Football Playoff dates?
 
-Selection Day is Sunday, Dec. 6, 2026, when the first-round campus sites are announced. The rest of the schedule, per Sports Video Group (June 3, 2026), National Football Post (June 1, 2026) and NCAA.com:
+Selection Day is Sunday, Dec. 6, 2026, when the first-round campus sites are announced. The rest of the schedule, per ESPN Press Room (June 1, 2026), Sports Video Group (June 3, 2026) and National Football Post (June 1, 2026):
 
 | Date | Round | Time (ET) and TV | Site |
 |---|---|---|---|
 | Sun., Dec. 6 | Selection Day | Not listed | Not listed |
 | Fri., Dec. 18 | First round | 8 p.m., ESPN | Campus site |
-| Sat., Dec. 19 | First round | Noon on ABC or ESPN; 3:30 p.m. and 7:30 p.m. on TNT | Campus sites |
-| Wed., Dec. 30 | Quarterfinal, Fiesta Bowl | 7:30 p.m., TNT | Glendale, Arizona |
-| Fri., Jan. 1, 2027 | Quarterfinals, Cotton, Peach and Rose Bowls | Noon, 4 p.m. and 8 p.m., across TNT and ESPN or ABC | Arlington, Atlanta, Pasadena |
-| Thu., Jan. 14, 2027 | Semifinal, Orange Bowl | 7:30 p.m., TNT (NCAA.com) | Miami Gardens |
-| Fri., Jan. 15, 2027 | Semifinal, Sugar Bowl | ABC and ESPN; time not listed | New Orleans |
-| Mon., Jan. 25, 2027 | National championship | ABC and ESPN; kickoff time unconfirmed | Allegiant Stadium, Las Vegas |
+| Sat., Dec. 19 | First round | Noon on ABC and ESPN; 3:30 p.m. and 7:30 p.m. on TNT, truTV and HBO Max | Campus sites |
+| Wed., Dec. 30 | Quarterfinal, Fiesta Bowl | TNT, truTV and HBO Max; 7:30 p.m. | Glendale, Arizona |
+| Fri., Jan. 1, 2027 | Quarterfinals, Cotton, Peach and Rose Bowls | Noon on TNT and HBO Max, 4 p.m. on ABC and ESPN, 8 p.m. on ESPN | Arlington, Atlanta, Pasadena |
+| Thu., Jan. 14, 2027 | Semifinal, Orange Bowl | 7:30 p.m., TNT, truTV and HBO Max | Miami Gardens |
+| Fri., Jan. 15, 2027 | Semifinal, Sugar Bowl | 7:30 p.m., ABC and ESPN | New Orleans |
+| Mon., Jan. 25, 2027 | National championship | 7:30 p.m., ABC and ESPN | Allegiant Stadium, Las Vegas |
 
-The sources do not say which Jan. 1 game gets which time slot, so this page does not match them. For rankings release dates, see our [College Football Playoff rankings story](/news/college-football-playoff-rankings-2026-schedule-dates-times/).
+The sources do not say which Jan. 1 game gets which time slot, so the table does not match them. For rankings release dates, see our [College Football Playoff rankings story](/news/college-football-playoff-rankings-2026-schedule-dates-times/).
 
 ## Can I print the schedule?
 
-Yes. The free printable lists the ten title games, the Selection Day date and each CFP round with ET times and TV, and leaves room for your picks. Use the ink-saver version at home. It is a static sheet, so check the tables above for changes. Mark the dates on the [December 2026](/december-calendars.html) and [January 2027 printable calendars](/january-calendars.html).
+Yes. The free printable lists the ten title games, the Selection Day date and each CFP round with ET times and TV, and leaves room for your picks. It is a static sheet, so check the tables above for changes. Mark the dates on the [December 2026](/december-calendars.html) and [January 2027 printable calendars](/january-calendars.html).
 
 Football is not the only schedule filling up. The [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) covers the Nov. 26 games, and the [college basketball key dates](/news/college-basketball-2026-27-key-dates-season-start-march-madness-printable/) cover the winter season.
