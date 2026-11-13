@@ -126,6 +126,8 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - Run `python3 shop/tools/article_check.py --sync` before a batch: it pulls every live and scheduled article into the registry, which the overlap checks need.
 - The model pillar page is `/articles/planner-gifts-for-moms` (Nov. 11, 2026). Inline `<svg>` in article content is kept by the platform.
 - The editor page is `/jessica-hartwell` (page id 18); About and the method page link to it.
+- **Every article needs a `subtitle`** (30 to 92 characters, no prices): the template prints it as the H2 under the hero and prints an empty heading without one. All 145 articles got one on Nov. 13, 2026 (140 had none); `article_publish.py` refuses a new draft without it and keeps the saved one on an update.
+- **Price tables: `python3 shop/tools/article_prices.py`** (weekly, and `--due` after a `refresh_by` date). The registry stores the price each product had when the tables were checked (`prices`, written at publish); the tool reads live offers and lists `CHANGED` (stale table), `CHECK` (no price on record), `GONE` (no live offer) and `DUE`. It changes nothing: fix the draft, republish. After checking an older article by hand, `--record <slug>` saves today's prices.
 
 ### Spec pages and deal pages (`tools/spec_pages.py`, `data/spec-pages.json`)
 - A spec page lists the products whose listings state a set of specs ("2027 Planners in A5", "Dotted Journals With 120 gsm Paper"). Definitions (the rule, the table columns, the parent categories) are in the tool; prose and page ids are in `data/spec-pages.json`. All of them are linked from `/planner-and-journal-finder` (in the footer menu).
@@ -199,6 +201,13 @@ Use the `shop-article` skill (`.claude/skills/shop-article/SKILL.md`): which que
 
 ### Site audit
 `python3 shop/tools/crawl.py` crawls every page and writes `.cache/shop/audit/crawl.json`: status, titles, descriptions, canonicals, H1s, JSON-LD, internal and external links and images. It never requests retailer URLs. Share buttons and template strings in scripts show up as false positives.
+
+### Template faults fixed on Nov. 13, 2026
+- Empty H2 under article heroes: fixed at the source with subtitles (see Articles); the footer script also removes an empty `h1+h2`.
+- Brand logos are printed with no `alt`, so the logo-only link to the brand page had no name: the footer script sets "<Brand> logo" from the file name. Article card pictures get the article title as `alt` (from the link's `aria-label`). Flag images keep `alt=""`: their button has an `aria-label`.
+- The crawl's "undefined" on the Hug in a Box page (product 2011) was our own sentence, reworded.
+- Not fixable from here: on any 404 page Livewire posts `pageLoaded` to `/livewire/update`, the platform answers 204 with no body and the script logs "Unexpected end of JSON input". Nothing visible breaks; report it to FreshStore support.
+- Sitemap checked: the 11 holiday articles and `/categories/logbooks-and-record-books` are in it.
 
 ### Hidden categories (crawl of Nov. 13, 2026)
 

@@ -147,7 +147,8 @@ Low cost, and only the main session calls the API (60 requests a minute, shared)
 6. **Publish** with `python3 shop/tools/article_publish.py <draft>`:
    - It reruns the checker with live stock checks.
    - It creates or updates the article and sets an unused stock image.
-   - It records the article in `shop/articles/registry.json`.
+   - It records the article in `shop/articles/registry.json`, with the price of each product on that day.
+   - The draft needs a `subtitle`: one line of 30 to 92 characters under the H1 that says what the page compares, with no prices. Without it the template prints an empty H2 and the publisher stops.
    - A future `published_at` schedules it.
 7. **Link in.**
    - Add a link to each new article from 1-2 related older articles or the matching category's `content_bottom`.
@@ -175,7 +176,7 @@ Publishing frequency is not a ranking factor, and quality bulk publishing is not
 ## 8. Keeping 2,000 articles true
 
 - **Weekly: stock check.** Rerun `article_check.py --live` on every article whose products changed stock. Replace a product that went out of stock in its article within a week.
-- **Monthly: price tables.** Refresh them and update "price checked". The registry's `refresh_by` field holds the date.
+- **Weekly: price tables.** Run `python3 shop/tools/article_prices.py`: it compares live retailer prices with the ones recorded at publish and lists the articles with a stale table (`CHANGED`), a lost product (`GONE`) or a passed `refresh_by` date (`DUE`). Fix the draft (the price and every figure computed from it), set the new "Prices checked" date, republish.
 - **Yearly topics: same URL.** Update the existing article each year: new title year, new dates, new products, same URL.
 - **Updates are silent.** Change the facts and republish; no "Updated" banners.
 - **Ratings change only through the rating process.** An article quoting a score updates when the score changes.

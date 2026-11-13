@@ -9,6 +9,18 @@
     document.querySelectorAll('main form input:not([type=hidden]),main form textarea').forEach(function(i){ if(i.placeholder && !i.getAttribute('aria-label') && !(i.labels && i.labels.length)) i.setAttribute('aria-label', i.placeholder); });
     var a=document.getElementById('answer');
     if(a && !a.getAttribute('aria-label')){ var l=a.closest('div') && a.closest('div').querySelector('label'); a.setAttribute('aria-label', l ? l.textContent.trim() : 'Anti-spam question'); }
+    /* The template prints brand logos with no alt (a logo-only link then has no name) and article card pictures with an empty one. */
+    document.querySelectorAll('img[src*="/brand/images/"]:not([alt])').forEach(function(i){
+      var n=(i.src.split('/').pop().split('?')[0].replace(/\.[a-z]+$/,'').replace(/-logo$/,'').split('-').map(function(w){return w.charAt(0).toUpperCase()+w.slice(1)}).join(' '));
+      i.alt=n ? n+' logo' : 'Brand logo';
+    });
+    document.querySelectorAll('article img[src*="/article/images/"]').forEach(function(i){
+      if(i.getAttribute('alt')) return;
+      var a=i.closest('a'), t=a && a.getAttribute('aria-label'), h=i.closest('article').querySelector('h3 a,h2 a,h3,h2');
+      t=(t || (h && h.textContent) || '').replace(/\s+/g,' ').trim(); if(t) i.alt=t;
+    });
+    /* An article saved without a subtitle leaves an empty heading in the hero; every article has one now, this covers a miss. */
+    document.querySelectorAll('h1+h2').forEach(function(h){ if(!h.textContent.trim() && !h.children.length) h.remove(); });
     var f=document.querySelector('form.fs-tag-filters');
     if(f && !document.querySelector('.fc-filter-toggle')){
       var b=document.createElement('button'); b.type='button'; b.className='fc-filter-toggle'; b.textContent='Filters';

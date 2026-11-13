@@ -12,6 +12,7 @@ import datetime as dt, json, os, re, sys, time
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from fs import call, backup  # noqa: E402
 import article_check as ac  # noqa: E402
+from article_prices import prices_for  # noqa: E402
 
 ARTICLE_CATEGORIES = {'planner-buying-guides': 1, 'journaling-basics-and-supplies': 2}
 
@@ -31,6 +32,10 @@ def main(path, dry):
         'author': d['author'], 'enabled': not future,
         'article_categories': [ARTICLE_CATEGORIES[d.get('article_category', 'planner-buying-guides')]],
     }
+    # The template prints the subtitle as the H2 under the hero; without one it prints an empty heading.
+    if not body['subtitle'].strip():
+        if old and old.get('id'): del body['subtitle']      # keep the one already saved
+        else: sys.exit('not published: add "subtitle" to the draft (30 to 92 characters, no prices)')
     if d.get('published_at'): body['published_at'] = d['published_at']
     if d.get('product_category_id'): body['product_category_id'] = d['product_category_id']
     if dry:
@@ -61,6 +66,7 @@ def main(path, dry):
              'related': d.get('related') or [], 'image': img or (old or {}).get('image'),
              'published_at': a.get('published_at'), 'enabled': a.get('enabled'), 'pillar': bool(d.get('pillar')),
              'price_checked': d.get('price_checked'), 'refresh_by': d.get('refresh_by')}
+    entry['prices'] = prices_for(entry['products'])   # what article_prices.py compares against later
     reg = [r for r in reg if r['slug'] != a['slug']] + [entry]
     ac.REGISTRY.write_text(json.dumps(sorted(reg, key=lambda r: r.get('id') or 0), indent=1) + '\n')
     ac.CORPUS.mkdir(parents=True, exist_ok=True); (ac.CORPUS / f"{a['slug']}.html").write_text(c)
