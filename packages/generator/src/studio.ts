@@ -41,7 +41,13 @@ export async function ensureStudioAssets(years: number[]) {
   await fs.mkdir(dir, { recursive: true });
   const manifestPath = path.join(dir, ".build.json");
   const old = JSON.parse(await fs.readFile(manifestPath, "utf8").catch(() => "{}"));
-  const stamp = crypto.createHash("sha256").update("studio-v1").update(await fs.readFile(new URL(import.meta.url))).digest("hex");
+  // The sheets are drawn from the monthly print templates and renderHtml.ts, so a change in
+  // either must remake them; hashing only this file left old captions on the live PDFs.
+  const stampHash = crypto.createHash("sha256").update("studio-v1").update(await fs.readFile(new URL(import.meta.url)));
+  stampHash.update(await fs.readFile(new URL("./renderHtml.ts", import.meta.url)));
+  const templateDir = path.join(ROOT, "packages/templates/monthly");
+  for (const name of (await fs.readdir(templateDir)).sort()) stampHash.update(name).update(await fs.readFile(path.join(templateDir, name)));
+  const stamp = stampHash.digest("hex");
   const browser = await chromium.launch({ headless: true });
   const fontDir = path.join(ROOT, "packages/generator/node_modules/@fontsource");
   const fonts = await Promise.all([["Manrope", "manrope", 400], ["Sora", "sora", 700]].map(async ([name, pkg, weight]) => `@font-face{font-family:'${name}';font-weight:${weight};src:url(data:font/woff2;base64,${(await fs.readFile(path.join(fontDir, String(pkg), "files", `${pkg}-latin-${weight}-normal.woff2`))).toString("base64")})}`));
@@ -58,18 +64,14 @@ export async function ensureStudioAssets(years: number[]) {
         const paths = ["letter", "a4"].map(paper => studioAssets(year, month, style.id, paper, start ? "monday" : "sunday"));
         if (old[key] === stamp && await fs.stat(path.join(ROOT, "dist", paths[1]!.pdf)).then(() => true).catch(() => false)) continue;
         const decorated = style.id === "scenic" || style.id === "floral";
-        let png: Buffer, pdf: Buffer;
-        const existing = path.join(DIST_ASSETS, String(year), "monthly", MONTH_SLUGS[month - 1]!, style.id);
-        if (!decorated && start === 0 && await fs.stat(path.join(existing, "calendar.pdf")).then(() => true).catch(() => false)) {
-          png = await fs.readFile(path.join(existing, "calendar.png")); pdf = await fs.readFile(path.join(existing, "calendar.pdf"));
-        } else {
-          let html = decorated ? scenicHtml(year, month, start, images[style.id === "floral" ? "spring" : seasonFor(month)]!, style.id === "floral") : renderMonthlyPrintHtml(year, month, style.id as MonthlyVariantId, { weekStartsOn: start });
-          html = html.replace(/<link[^>]+fonts.googleapis.com[^>]*>/g, "").replace("</head>", `<style>${fonts.join("")}</style></head>`);
-          const width = style.id === "landscape-soft" ? 1600 : 1100, height = style.id === "landscape-soft" ? 1100 : decorated ? 1424 : 1420;
-          await page.setViewportSize({ width, height });
-          await page.setContent(html, { waitUntil: "load" }); await page.evaluate(() => document.fonts.ready);
-          png = await page.screenshot({ type: "png" }); pdf = await page.pdf({ width: `${width}px`, height: `${height}px`, printBackground: true, margin: { top: "0", bottom: "0", left: "0", right: "0" } });
-        }
+        // Always drawn here: a copy from the year's monthly folder can be older than the templates
+        // (only this year and next are rebuilt there).
+        let html = decorated ? scenicHtml(year, month, start, images[style.id === "floral" ? "spring" : seasonFor(month)]!, style.id === "floral") : renderMonthlyPrintHtml(year, month, style.id as MonthlyVariantId, { weekStartsOn: start });
+        html = html.replace(/<link[^>]+fonts.googleapis.com[^>]*>/g, "").replace("</head>", `<style>${fonts.join("")}</style></head>`);
+        const width = style.id === "landscape-soft" ? 1600 : 1100, height = style.id === "landscape-soft" ? 1100 : decorated ? 1424 : 1420;
+        await page.setViewportSize({ width, height });
+        await page.setContent(html, { waitUntil: "load" }); await page.evaluate(() => document.fonts.ready);
+        const png = await page.screenshot({ type: "png" }), pdf = await page.pdf({ width: `${width}px`, height: `${height}px`, printBackground: true, margin: { top: "0", bottom: "0", left: "0", right: "0" } });
         for (let i = 0; i < paths.length; i++) {
           const files = paths[i]!, landscape = style.id === "landscape-soft";
           const points = i === 0 ? [612, 792] : [595.276, 841.89]; if (landscape) points.reverse();
