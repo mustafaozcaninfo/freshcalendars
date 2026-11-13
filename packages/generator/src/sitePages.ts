@@ -2341,7 +2341,8 @@ ${feedItems}
 
   await writeSitePage(
     "robots.txt",
-    `User-agent: *\nAllow: /\nSitemap: ${absUrl("/sitemap.xml")}\nSitemap: ${absUrl("/sitemap-images.xml")}\n` +
+    // Content Signals (contentsignals.org): search and AI answers may use the pages, training may not.
+    `User-agent: *\nContent-Signal: search=yes, ai-input=yes, ai-train=no\nAllow: /\nSitemap: ${absUrl("/sitemap.xml")}\nSitemap: ${absUrl("/sitemap-images.xml")}\n` +
       (NEWS_LAUNCHED ? NEWS_SITEMAPS.map((p) => `Sitemap: ${SITE_ORIGIN}${p}\n`).join("") : ""),
   );
   // Legacy Google Search Console HTML verification (backup/public_html).

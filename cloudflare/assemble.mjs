@@ -147,7 +147,8 @@ const headers = [
   ...["/robots.txt", "/ads.txt", "/llms.txt"].map((p) => rule(p, "public, max-age=3600")),
   "/favicon.ico\n  Content-Type: image/x-icon\n",
   // Pages: nginx and Apache named the charset; the asset router sends bare text/html.
-  "/\n  Content-Type: text/html; charset=utf-8\n",
+  // Link header on the home page (RFC 8288): where an agent finds the site summary and the feed.
+  `/\n  Content-Type: text/html; charset=utf-8\n  Link: </llms.txt>; rel="describedby"; type="text/plain", </feed.xml>; rel="alternate"; type="application/rss+xml"\n`,
   "/*/\n  Content-Type: text/html; charset=utf-8\n",
   "/*.html\n  Content-Type: text/html; charset=utf-8\n",
   "/*.txt\n  Content-Type: text/plain; charset=utf-8\n",
