@@ -96,7 +96,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
-related: [champions-league-december-2026-matchday-6-kickoff-times, fa-cup-second-round-draw-2026-time-tv-ball-numbers]
+related: [champions-league-december-2026-matchday-6-kickoff-times, premier-league-boxing-day-2026-fixtures-kickoff-times-tv, fa-cup-second-round-draw-2026-time-tv-ball-numbers]
 draft: false
 ---
 
