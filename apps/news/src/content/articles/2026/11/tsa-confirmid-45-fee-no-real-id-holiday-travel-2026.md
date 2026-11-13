@@ -100,7 +100,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [thanksgiving-travel-2026-best-days-to-fly-and-drive, aaa-tow-to-go-2026-thanksgiving-christmas-free-tow-ride-home]
+related: [thanksgiving-travel-2026-best-days-to-fly-and-drive, aaa-tow-to-go-2026-thanksgiving-christmas-free-tow-ride-home, faa-ground-stop-november-13-2026]
 draft: false
 ---
 
