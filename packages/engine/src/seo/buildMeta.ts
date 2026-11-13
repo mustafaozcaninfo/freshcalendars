@@ -582,19 +582,19 @@ export function buildMetaForEntry(
     const hubLabel =
       locale === "uk" ? "UK Holidays" : locale === "ca" ? "Canada Holidays" : "Holidays";
     const ed = getHolidayEditorial(slug);
-    const description = ed
-      ? ed.description(h)
-      : fitDescription(`${h.name} ${year} falls on ${h.formatted}. ${h.blurb}`, [
-          `Free printable ${monthName} ${year} calendar with holidays marked.`,
-          `Printable ${monthName} ${year} calendar.`,
-        ]);
-    // Same-name UK/Canada pages would otherwise share the US title.
+    // Same-name UK/Canada pages would otherwise share the US title and description.
     const localeTag =
       locale === "uk" && !/\bUK\b/.test(h.name)
         ? " in the UK"
         : locale === "ca" && !/Canad/.test(h.name)
           ? " in Canada"
           : "";
+    const description = ed
+      ? ed.description(h)
+      : fitDescription(`${h.name} ${year}${localeTag} falls on ${h.formatted}. ${h.blurb}`, [
+          `Free printable ${monthName} ${year} calendar with holidays marked.`,
+          `Printable ${monthName} ${year} calendar.`,
+        ]);
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,

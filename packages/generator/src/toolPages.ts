@@ -11,6 +11,7 @@ import {
   resolveHoliday, resolveNextHoliday, type HolidayDef, type ResolvedHoliday,
 } from "@freshcalendars/engine";
 import { breadcrumbNavHtml, esc, iconHtml } from "@freshcalendars/site-chrome";
+import { monthHref } from "./datedPages.js";
 
 export type ToolPage = {
   id: string; path: string; title: string; description: string; body: string;
@@ -414,7 +415,15 @@ function countdownPage(cd: Countdown, today: Date, h: Helpers, upcoming: { c: Co
   const years = Array.from({ length: 6 }, (_, i) => resolveHoliday(cd.def, r.year + i));
   const wd = weekdaysBetween(t, e);
   const stat = (lbl: string, part: string, val: string) => `<div><span>${lbl}</span><strong data-du="${r.iso}" data-du-part="${part}">${h.volatile(val)}</strong></div>`;
-  const others = upcoming.filter((x) => x.c.slug !== cd.slug && (x.c.locale === cd.locale || x.c.locale === "us")).slice(0, 8);
+  // The eight holidays that follow this one in the year, wrapping round: every countdown is then
+  // linked from eight others. The next eight from today gave the same eight on every page.
+  // A UK or Canada page links five of its own country first, or the US days between them crowd
+  // some pages out.
+  const after = (loc: string, n: number) => {
+    const pool = upcoming.filter((x) => x.c.locale === loc), at = pool.findIndex((x) => x.r.iso > r.iso || (x.r.iso === r.iso && x.c.slug > cd.slug));
+    return [...pool.slice(at < 0 ? 0 : at), ...pool.slice(0, at < 0 ? 0 : at)].filter((x) => x.c.slug !== cd.slug).slice(0, n);
+  };
+  const others = cd.locale === "us" ? after("us", 8) : [...after(cd.locale, 5), ...after("us", 3)];
   const c = crumbs(["Days until", "/days-until/"], [label, countdownPath(cd.slug)]);
   const body = shell("tool-single days-until-page", c, `
 <h1>How many days until ${esc(label)}?</h1>
@@ -424,10 +433,10 @@ function countdownPage(cd: Countdown, today: Date, h: Helpers, upcoming: { c: Co
 <h2>${esc(name)} on the ${month} ${r.year} calendar</h2>
 ${h.holidayMonthBlock({ name, year: r.year, month: r.month, day: r.day }, holidaysForMonth(r.year, r.month, cd.locale), cd.locale === "us")}
 <h2>Days until ${esc(name)}, ${years[0]!.year} to ${years.at(-1)!.year}</h2>
-<div class="tool-scroll"><table class="dates-table tool-table"><thead><tr><th scope="col">Year</th><th scope="col">Date</th><th scope="col">Days from today</th></tr></thead><tbody>${years.map((x) => `<tr><th scope="row">${x.year}</th><td>${esc(x.formatted)}</td><td><span data-du="${x.iso}">${h.volatile(num(Math.round((parseIso(x.iso) - t) / DAY)))}</span></td></tr>`).join("")}</tbody></table></div>
+<div class="tool-scroll"><table class="dates-table tool-table"><thead><tr><th scope="col">Year</th><th scope="col">Date</th><th scope="col">Days from today</th></tr></thead><tbody>${years.map((x) => `<tr><th scope="row">${x.year}</th><td>${monthHref(x.year, x.month, today) ? `<a href="${monthHref(x.year, x.month, today)}" title="${monthNumberToName(x.month)} ${x.year} printable calendar">${esc(x.formatted)}</a>` : esc(x.formatted)}</td><td><span data-du="${x.iso}">${h.volatile(num(Math.round((parseIso(x.iso) - t) / DAY)))}</span></td></tr>`).join("")}</tbody></table></div>
 <h2>How the countdown is counted</h2>
 <p>Today is not counted and ${esc(name)} is, so the number is how many times you go to sleep before the day. The page counts from the date on your device, and once ${esc(r.formatted)} has passed it moves to ${esc(name)} ${r.year + 1}.</p>
-<p>Weekdays are Monday to Friday; public holidays between now and then are not taken out. For a count between any two dates, use the <a href="${toolPath("days-between-dates")}">days between dates calculator</a>.</p>
+<p>Weekdays are Monday to Friday; public holidays between now and then are not taken out. For a count between any two dates, use the <a href="${toolPath("days-between-dates")}">days between dates calculator</a>. To find the date a set number of days away, use <a href="${toolPath("days-from-today")}">days from today</a> or <a href="${toolPath("add-days")}">add or subtract days</a>.</p>
 <nav class="tool-more" aria-label="More countdowns"><h2>More countdowns</h2><div class="du-chips">${others.map(({ c: o, r: x }) => `<a href="${countdownPath(o.slug)}">${esc(o.label)}<span data-du="${x.iso}" data-du-part="phrase">${h.volatile(phrase(Math.round((parseIso(x.iso) - t) / DAY)))}</span></a>`).join("")}<a href="/days-until/">Every holiday →</a></div></nav>`);
   return {
     id: `days-until-${cd.slug}`, path: countdownPath(cd.slug), title: countdownTitle(label, r.year),

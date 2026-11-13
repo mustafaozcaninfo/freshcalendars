@@ -94,7 +94,7 @@ function monthPage(year: number, month: number, today: Date): DatedPage {
   const prev = month === 1 ? [year - 1, 12] as const : [year, month - 1] as const, next = month === 12 ? [year + 1, 1] as const : [year, month + 1] as const;
   const prevHref = monthHref(prev[0], prev[1], today), nextHref = monthHref(next[0], next[1], today), yHref = yearHref(year, today);
   const evergreen = resolveAllMonthYears(today)[month] === year ? `/${monthNumberToSlug(month)}-calendars.html` : undefined;
-  const c = crumbs(["Monthly calendars", "/monthly-calendars/"], [`${name} ${year}`, monthYearPath(year, month)]);
+  const c = crumbs(["Monthly calendars", "/monthly-calendars/"], ...(yHref ? [[`${year}`, yHref] as [string, string]] : []), [`${name} ${year}`, monthYearPath(year, month)]);
   const weeks = f.w1 === f.w2 ? `${f.w1}` : `${f.w1} to ${f.w2}`;
   const body = shell("dated-month", c, `
 <h1>${name} ${year} calendar</h1>
@@ -115,7 +115,8 @@ ${hols.length
 <div class="du-chips">${years.map((y) => chip(monthHref(y, month, today), `${name} ${y}`, y === year)).join("")}</div>
 <h2>Every month of ${year}</h2>
 <div class="du-chips">${Array.from({ length: 12 }, (_, i) => chip(monthHref(year, i + 1, today), monthNumberToName(i + 1), i + 1 === month)).join("")}${yHref ? `<a href="${yHref}">${year} on one page →</a>` : ""}</div>
-<p>Need a count instead of a sheet? The <a href="/calendar-tools/days-between-dates/">days between dates calculator</a> and the <a href="/calendar-tools/week-number/">week number table</a> use the same calendar.</p>`);
+<p>Need a count instead of a sheet? The <a href="/calendar-tools/days-between-dates/">days between dates calculator</a> and the <a href="/calendar-tools/week-number/">week number table</a> use the same calendar.</p>
+<p>For a month with no dates printed, use the <a href="/blank-calendars.html">blank calendar</a>; for one week per page, the <a href="/printable-weekly-calendar.html">weekly planner</a>. The <a href="/print-guide.html">print guide</a> has the settings for Letter and A4.</p>`);
   return {
     id: `month-${year}-${monthNumberToSlug(month)}`, path: monthYearPath(year, month),
     title: `${name} ${year} Calendar · Free Printable PDF`,
@@ -148,8 +149,10 @@ function yearPage(year: number, today: Date): DatedPage {
 <ul class="design-grid">${posters.map((p) => `<li><a class="dg-thumb" href="${p.base}/calendar.pdf" title="${year} yearly calendar, ${esc(p.label)}, PDF"><img src="${p.base}/calendar-preview.webp" alt="${year} printable yearly calendar, ${esc(p.label)}" width="500" height="${p.wide ? 344 : 645}" loading="lazy" decoding="async"></a><h3>${esc(p.label)}</h3><a class="btn btn-primary btn-sm" href="${p.base}/calendar.pdf" download>Download PDF</a><p class="dg-more"><a href="${p.base}/calendar.png" download>PNG</a></p></li>`).join("")}</ul>
 <h2>US holidays in ${year}</h2>
 <div class="tool-scroll"><table class="dates-table tool-table"><thead><tr><th scope="col">Holiday</th><th scope="col">Date</th></tr></thead><tbody>${hols.map((h) => `<tr><th scope="row"><a href="${holidayWhenIsPath(h.slug)}">${esc(h.name)}</a></th><td>${esc(h.formatted)}</td></tr>`).join("")}</tbody></table></div>
+<p>The same dates for other countries are on the <a href="/uk-holidays/">UK bank holidays</a> and <a href="/canada-holidays/">Canada holidays</a> pages, and <a href="/days-until/">days until a holiday</a> counts down to each one.</p>
 <h2>Other years</h2>
-<div class="du-chips">${years.map((y) => chip(yearHref(y, today), `${y} calendar`, y === year)).join("")}</div>`);
+<div class="du-chips">${years.map((y) => chip(yearHref(y, today), `${y} calendar`, y === year)).join("")}</div>
+<p>For numbered days and weeks, see the <a href="/calendar-tools/day-of-year/">day of the year table</a> and the <a href="/calendar-tools/week-number/">week number table</a>. The <a href="/guides/fiscal-year-calendar.html">fiscal year guide</a> has the quarter dates, and <a href="/calendar-tools/business-days/">business days</a> counts the working days between two of them.</p>`);
   return {
     id: `year-${year}`, path: yearPath(year),
     title: `${year} Calendar · Free Printable Yearly PDF and All 12 Months`,
