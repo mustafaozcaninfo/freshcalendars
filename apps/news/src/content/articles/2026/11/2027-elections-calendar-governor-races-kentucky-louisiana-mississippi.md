@@ -69,7 +69,7 @@ internalLinks:
     label: "May printable calendar"
   - href: "/november-calendars.html"
     label: "November printable calendar"
-related: [kentucky-2027-election-calendar-filing-deadline-primary, when-do-2026-election-winners-take-office-congress-governors, runoff-elections-2026-dates-georgia-december-1-louisiana-december-12]
+related: [kentucky-2027-election-calendar-filing-deadline-primary, when-do-2026-election-winners-take-office-congress-governors, wisconsin-spring-election-2027-april-6-nomination-papers-december-1]
 assets:
   overlay: true
   kicker: "2027 elections · Tue., Nov. 2, 2027"
