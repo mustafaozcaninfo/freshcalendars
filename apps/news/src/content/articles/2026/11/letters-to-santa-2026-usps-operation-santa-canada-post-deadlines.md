@@ -3,6 +3,7 @@ title: "Letters to Santa 2026: Canada Post Dec. 9, USPS Postmark Dec. 5"
 description: "Letters to Santa 2026: Canada Post's deadline is Wednesday, Dec. 9, and the U.S. Postal Service wants a Dec. 5 postmark. See every date with its weekday."
 type: news
 publishedAt: "2026-11-04T15:14:00-05:00"
+updatedAt: "2026-11-13T16:14:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["letters to santa 2026", "usps operation santa 2026", "where to send letters to santa 2026", "canada post santa letter deadline 2026", "operation santa adoption dates"]
@@ -26,19 +27,19 @@ sources:
   - title: "USPS Operation Santa Program"
     url: "https://uspsoperationsanta.com/"
     publisher: "USPS"
-    date: "2026-11-04"
+    date: "2026-11-13"
   - title: "USPS Operation Santa frequently asked questions"
     url: "https://uspsoperationsanta.com/faqs"
     publisher: "USPS"
-    date: "2026-11-04"
+    date: "2026-11-13"
   - title: "How to Write a Letter to Santa and Where to Send It"
     url: "https://uspsoperationsanta.com/getinvolved"
     publisher: "USPS"
-    date: "2026-11-04"
+    date: "2026-11-13"
   - title: "Santa letter program"
     url: "https://www.canadapost-postescanada.ca/santa"
     publisher: "Canada Post"
-    date: "2026-11-04"
+    date: "2026-11-13"
   - title: "US Postal Service launches Operation Santa, sending letters to the North Pole"
     url: "https://www.fox9.com/news/us-postal-service-launches-operation-santa-114th-year-sending-letters-north-pole"
     publisher: "Fox 9"
@@ -102,7 +103,7 @@ downloads:
     pages: 1
 ---
 
-**United States Postal Service (USPS) Operation Santa says letters to Santa must be postmarked by Saturday, Dec. 5, 2026, and Canada Post asks for its Santa letters no later than Wednesday, Dec. 9.** Both dates come from the programs' own pages, which we read on Nov. 4, 2026. The table below puts every 2026 date for letter writers, adopters and Canadian children in one list.
+**United States Postal Service (USPS) Operation Santa says letters to Santa must be postmarked by Saturday, Dec. 5, 2026, and Canada Post asks for its Santa letters no later than Wednesday, Dec. 9.** Both dates come from the programs' own pages, which we re-read on Nov. 13, 2026. The table below puts every 2026 date for letter writers, adopters and Canadian children in one list.
 
 ## What are the 2026 Santa letter dates in the U.S. and Canada?
 
@@ -115,7 +116,7 @@ USPS Operation Santa lists its 2026 calendar on its home page. Canada Post's dat
 | Nov. 16 | Monday | Letter adoption starts | U.S. adopters | USPS Operation Santa |
 | Dec. 5 | Saturday | Last day to send letters; they must be postmarked by this date | U.S. letter writers | USPS Operation Santa questions page |
 | Dec. 9 | Wednesday | Send your letter to Santa no later than this date | Canadian children and families | Canada Post |
-| Dec. 12 | Saturday | Last day to adopt a letter, and the recommended gift ship-by date for delivery before Dec. 25 | U.S. adopters | USPS Operation Santa |
+| Dec. 12 | Saturday | Last day to adopt a letter (the website closes at 8 p.m. ET), and the recommended gift ship-by date for delivery before Dec. 25 | U.S. adopters | USPS Operation Santa |
 
 Fox 9 reported the program's launch on Sept. 14, 2026, and described it as the 114th year of Operation Santa; we have not checked that count against a USPS page.
 
@@ -132,9 +133,9 @@ USPS adds that sending a letter does not guarantee it will be adopted or that a 
 
 ## How does letter adoption work, and who can take part?
 
-Adopters first create and verify an account, which opened on Nov. 2. Letter adoption starts Nov. 16. The questions page says anyone in the continental U.S., Hawaii and Puerto Rico can participate, and that deployed military overseas cannot at this time.
+Adopters first create and verify an account, which opened on Nov. 2. Letter adoption starts Monday, Nov. 16, and new letters are added to the site daily from then through Dec. 12. Adoption is online only. The questions page says anyone in the continental U.S., Hawaii and Puerto Rico can participate, and that deployed military overseas cannot at this time.
 
-For gifts, the questions page gives these limits: packages under 70 lb, length plus girth of at most 108 in, and up to six Priority Mail packages per adoption. Ground Advantage is also allowed. Ship from a participating Post Office location by Dec. 12 at the latest. For the general mailing dates, see our [USPS holiday shipping deadlines for 2026](/news/usps-holiday-shipping-deadlines-2026/).
+For gifts, the questions page gives these limits: packages under 70 lb, length plus girth of at most 108 in, and up to six Priority Mail packages and up to six USPS Ground Advantage packages per adoption. Ship from a participating Post Office location by Dec. 12 at the latest; the questions page says to send packages before that date to be sure they arrive by Dec. 25. For the general mailing dates, see our [USPS holiday shipping deadlines for 2026](/news/usps-holiday-shipping-deadlines-2026/).
 
 ## What is the Canada Post Santa letter deadline for 2026?
 
@@ -142,10 +143,11 @@ Canada Post says: "Send your letter to Santa no later than December 9, 2026!" Th
 
 - No stamps are required to mail a letter to Santa within Canada.
 - Include your return address and drop the letter in any Canada Post mailbox or post office.
+- Canada Post asks that all letters from one family go in the same envelope.
 - Canada Post says it cannot guarantee delivery dates, but Santa does respond to all letters he receives.
 - Canada Post says it replies in the same language as the letter.
 
-The page says the program receives "over one million letters per year", with no year attached. The parcel and card dates are in our [Canada Post holiday shipping deadlines for 2026](/news/canada-post-holiday-shipping-deadlines-2026-christmas/).
+The page says the program receives "over one million letters per year", with no year attached, and says the program has run for more than 40 years. The parcel and card dates are in our [Canada Post holiday shipping deadlines for 2026](/news/canada-post-holiday-shipping-deadlines-2026-christmas/).
 
 ## What about letters to Santa in the United Kingdom?
 

@@ -3,7 +3,7 @@ title: "LSAT Test Dates 2027: Jan. 13-16, Feb. 12-13, April 8-10, June 9-12"
 description: "Law School Admission Test (LSAT) dates for 2027: Jan. 13-16, Feb. 12-13, April 8-10 and June 9-12, with every deadline and score release day."
 type: explainer
 publishedAt: "2026-10-19T11:32:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-13T16:14:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["LSAT test dates 2026-27", "LSAT dates 2027", "LSAT registration deadline", "January 2027 LSAT", "LSAT score release dates"]
@@ -14,13 +14,13 @@ hero:
   title: "LSAT dates and deadlines for 2026-27"
   caption: "Five LSAT administrations remain in the 2026-27 cycle; registration for the January 2027 exam closes Dec. 1, 2026."
 summary:
-  - "The Law School Admission Council (LSAC) offers the Law School Admission Test (LSAT) on Nov. 11-14, 2026, and in January, February, April and June 2027."
-  - "Registration for November closed Oct. 1; the next deadline is Dec. 1, 2026, for the Jan. 13-16 exam."
-  - "Scheduling for the November test opened Oct. 27, and November scores come out Dec. 2."
+  - "The Law School Admission Council (LSAC) is giving the Law School Admission Test (LSAT) on Nov. 11-14, 2026, and offers it in January, February, April and June 2027."
+  - "The next test you can still register for is Jan. 13-16, 2027; the deadline is Dec. 1, 2026."
+  - "The November test window ends Nov. 14; November scores come out Dec. 2."
   - "A separate February administration in Puerto Rico runs Feb. 18-20, 2027."
 faq:
   - q: "When is the next LSAT?"
-    a: "Nov. 11-14, 2026. Registration closed on Oct. 1, so the next one you can still sign up for is Jan. 13-16, 2027, with a registration deadline of Dec. 1, 2026."
+    a: "The next one you can still sign up for is Jan. 13-16, 2027, with a registration deadline of Dec. 1, 2026. The November test began Nov. 11 and ends Nov. 14; its registration closed on Oct. 1."
   - q: "When are LSAT scores released for the November 2026 test?"
     a: "Dec. 2, 2026, according to LSAC."
   - q: "What are the LSAT dates in 2027?"
@@ -33,6 +33,7 @@ sources:
   - title: "LSAT Dates, Deadlines and Score Release Dates"
     url: "https://www.lsac.org/lsat/register-lsat/test-dates-deadlines-score-release"
     publisher: "Law School Admission Council"
+    date: "2026-11-13"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
@@ -53,7 +54,7 @@ downloads:
 draft: false
 ---
 
-**The Law School Admission Test (LSAT) runs on Nov. 11-14, 2026, but registration for it closed on Oct. 1**, so anyone signing up now is looking at **Jan. 13-16, 2027**, with a deadline of Dec. 1, 2026. The Law School Admission Council (LSAC) lists five more administrations in the 2026-27 cycle, the last in June 2027.
+**The next Law School Admission Test (LSAT) you can still register for is Jan. 13-16, 2027, and the deadline is Dec. 1, 2026.** The November test began Nov. 11 and ends Nov. 14; its registration closed on Oct. 1. The Law School Admission Council (LSAC) lists five more administrations in the 2026-27 cycle, the last in June 2027.
 
 ## LSAT dates and deadlines, 2026-27
 

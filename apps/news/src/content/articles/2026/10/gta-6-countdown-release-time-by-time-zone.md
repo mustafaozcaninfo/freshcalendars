@@ -3,7 +3,7 @@ title: "GTA 6 Countdown: Nov. 19 Release Time by Time Zone"
 description: "Grand Theft Auto (GTA) VI launches Thursday, Nov. 19, 2026. A live countdown shows the PlayStation Store release time in ET, PT, the UK and India."
 type: explainer
 publishedAt: "2026-10-23T03:05:00-04:00"
-updatedAt: "2026-11-01T05:39:00-05:00"
+updatedAt: "2026-11-13T16:27:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["GTA 6 countdown", "GTA 6 release time", "GTA 6 release date and time EST", "GTA 6 countdown days", "GTA 6 countdown printable"]
@@ -22,7 +22,7 @@ assets:
     rows:
       - { when: "Thu., Oct. 29", what: "21 days to go", section: "Countdown milestones" }
       - { when: "Thu., Nov. 5", what: "14 days to go", section: "Countdown milestones" }
-      - { when: "Thu., Nov. 12", what: "7 days to go: pre-load opens for digital pre-orders", section: "Countdown milestones" }
+      - { when: "Tue., Nov. 10", what: "9 days to go: pre-load opens for digital pre-orders", section: "Countdown milestones" }
       - { when: "Mon., Nov. 16", what: "3 days to go", section: "Countdown milestones" }
       - { when: "Wed., Nov. 18", what: "1 day to go: first stores open this afternoon ET", section: "Countdown milestones" }
       - { when: "Wed., Nov. 18, 1:30 p.m. ET", what: "India PlayStation Store (12:00 a.m. IST)", section: "Release times, PlayStation Store listings" }
@@ -32,10 +32,10 @@ assets:
       - { when: "", what: "Check which store region your console account uses", section: "Get ready" }
       - { when: "", what: "Free up storage; read the size on your store listing", section: "Get ready" }
       - { when: "", what: "Charge controllers and update console software", section: "Get ready" }
-      - { when: "", what: "Pre-load on Nov. 12 if you pre-ordered digitally", section: "Get ready" }
+      - { when: "", what: "Pre-load from Nov. 10 if you pre-ordered digitally", section: "Get ready" }
       - { when: "", what: "Xbox: no release time listed; check the store page", section: "Get ready" }
-    note: "Source: PlayStation Store listings for Grand Theft Auto VI (US, UK, Canada, Germany, India), checked Oct. 23, 2026; Rockstar Games; Take-Two Interactive."
-    inkSaver: true
+    note: "Source: PlayStation Store listings for Grand Theft Auto VI (US, UK, Canada, Germany, India), checked Nov. 13, 2026; Rockstar Games."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page GTA 6 launch checklist with countdown milestones, PlayStation Store release times converted to Eastern Time and a get-ready list. Free."
     alt: "GTA 6 launch checklist printable with countdown milestones from Oct. 29 to Nov. 18, store release times and a get-ready checklist"
 hero:
@@ -44,13 +44,13 @@ hero:
   title: "GTA 6 countdown to Nov. 19"
   caption: "Grand Theft Auto VI launches Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. PlayStation Store listings give the release time."
 summary:
-  - "Grand Theft Auto VI launches Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. From Sun., Nov. 1 that is 18 days away."
+  - "Grand Theft Auto VI launches Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. Digital pre-load began Nov. 10."
   - "The US and Canada PlayStation Store listings show 05:00 Coordinated Universal Time (UTC), which is 12:00 a.m. Eastern Time (ET) on Nov. 19 and 9 p.m. Pacific Time (PT) on Nov. 18."
-  - "Each country's store lists its own local midnight, so the UK store opens at 7 p.m. ET on Nov. 18, Germany at 6 p.m. ET and India at 1:30 p.m. ET."
+  - "The listings differ by country: the UK store lists 7 p.m. ET on Nov. 18, Germany 6 p.m. ET and India 1:30 p.m. ET."
   - "The Xbox store page gives the date but no time. Rockstar has not announced a PC version."
 faq:
   - q: "How many days until GTA 6?"
-    a: "From Sun., Nov. 1, 2026, it is 18 days to Thu., Nov. 19. The live clock above counts to the exact release moment of the store you pick."
+    a: "As of Fri., Nov. 13, 2026, it is 6 days to Thu., Nov. 19 by the calendar. The live clock above counts to the exact release moment of the store you pick."
   - q: "What time does GTA 6 come out in the US?"
     a: "The US PlayStation Store listing shows 11/19/2026 05:00 AM UTC, which is 12:00 a.m. ET on Thursday, Nov. 19. In the Central, Mountain and Pacific time zones that is 11 p.m., 10 p.m. and 9 p.m. on Wednesday, Nov. 18. The Xbox store page lists the date only."
   - q: "What time does GTA 6 come out in the UK?"
@@ -60,38 +60,38 @@ faq:
   - q: "What time does GTA 6 come out in Australia?"
     a: "We could not load the Australian PlayStation Store listing, so we do not give a time. Check the listing for your account's store region."
   - q: "Does GTA 6 release at the same moment everywhere?"
-    a: "No. The PlayStation Store listings differ by country: US and Canada 05:00 UTC, UK 00:00 UTC, Germany 23:00 UTC on Nov. 18 and India 18:30 UTC on Nov. 18. Each is midnight local time in that country."
+    a: "No. The PlayStation Store listings differ by country: US and Canada 05:00 UTC, UK 00:00 UTC, Germany 23:00 UTC on Nov. 18 and India 18:30 UTC on Nov. 18. Converted, those are 12:00 a.m. local time in each of those countries."
   - q: "Is GTA 6 coming to PC?"
     a: "Rockstar Games has not announced a PC version or date. The announced platforms are PlayStation 5 and Xbox Series X|S."
   - q: "How big is the GTA 6 download?"
-    a: "Rockstar Games has not announced the file size. Its official store page says only \"Pre-load begins November 12, 2026.\" Sizes quoted online are estimates until Rockstar, Sony or Microsoft lists one."
+    a: "The store pages we read show no download size. Rockstar's store page says \"Pre-load begins November 10, 2026,\" and the PlayStation Store listings show a Pre-load Now button. Read the size on your own store listing before you free up space."
   - q: "How much does GTA 6 cost?"
     a: "On the PlayStation Store, the Standard Edition is $79.99 in the US, £69.99 in the UK, €79.99 in Germany and Rs 5,999 in India. The Ultimate Edition is $99.99, £89.99, €99.99 and Rs 7,499."
 sources:
   - title: "Grand Theft Auto VI | Rockstar Store"
     url: "https://store.rockstargames.com/game/buy-gta-vi"
     publisher: "Rockstar Games"
-    date: "2026-10-27"
+    date: "2026-11-13"
   - title: "Grand Theft Auto VI (US PlayStation Store listing)"
     url: "https://store.playstation.com/en-us/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
     publisher: "PlayStation Store"
-    date: "2026-10-23"
+    date: "2026-11-13"
   - title: "Grand Theft Auto VI (UK PlayStation Store listing)"
     url: "https://store.playstation.com/en-gb/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
     publisher: "PlayStation Store"
-    date: "2026-10-23"
+    date: "2026-11-13"
   - title: "Grand Theft Auto VI (Canada PlayStation Store listing)"
     url: "https://store.playstation.com/en-ca/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
     publisher: "PlayStation Store"
-    date: "2026-10-23"
+    date: "2026-11-13"
   - title: "Grand Theft Auto VI (Germany PlayStation Store listing)"
     url: "https://store.playstation.com/de-de/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
     publisher: "PlayStation Store"
-    date: "2026-10-23"
+    date: "2026-11-13"
   - title: "Grand Theft Auto VI (India PlayStation Store listing)"
     url: "https://store.playstation.com/en-in/product/EP1004-PPSA01547_00-GTAVISTANDARD001"
     publisher: "PlayStation Store"
-    date: "2026-10-23"
+    date: "2026-11-13"
   - title: "Buy Grand Theft Auto VI (Xbox store page)"
     url: "https://www.xbox.com/en-us/games/store/grand-theft-auto-vi/9p3h4968grsm"
     publisher: "Xbox"
@@ -121,20 +121,10 @@ downloads:
     pdf: "/news/downloads/gta-6-countdown/gta-6-launch-week-checklist-2026.pdf"
     png: "/news/downloads/gta-6-countdown/gta-6-launch-week-checklist-2026.png"
     pages: 1
-  - group: "GTA 6 Launch Checklist and Release Times printables"
-    title: "GTA 6 Launch Checklist and Release Times, Nov. 19, 2026 (ink saver)"
-    description: "One-page GTA 6 launch checklist with countdown milestones, PlayStation Store release times converted to Eastern Time and a get-ready list. Free. Ink-saver version."
-    preview: ../../../../assets/news/gta-6-countdown/gta-6-launch-week-checklist-2026-ink.png
-    alt: "GTA 6 launch checklist printable with countdown milestones from Oct. 29 to Nov. 18, store release times and a get-ready checklist, ink-saver version"
-    pdf: "/news/downloads/gta-6-countdown/gta-6-launch-week-checklist-2026-ink.pdf"
-    png: "/news/downloads/gta-6-countdown/gta-6-launch-week-checklist-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
-<p class="callout"><b>Last checked Nov. 1, 2026.</b> Rockstar's official game page still shows Nov. 19, 2026, and the Rockstar Store says "Pre-load begins November 12, 2026." Rockstar has not announced the download size or a release hour. We recheck the stores before each update.</p>
-
-**Grand Theft Auto (GTA) VI launches Thursday, Nov. 19, 2026, and from Sunday, Nov. 1 that is 18 days away.** The exact moment depends on your store: the US PlayStation Store lists 12:00 a.m. Eastern Time (ET), which is 9 p.m. Pacific Time (PT) on Wednesday, Nov. 18. The clock below counts down to the store you pick.
+**Grand Theft Auto (GTA) VI launches Thursday, Nov. 19, 2026, and digital pre-load began Nov. 10.** The exact moment depends on your store: the US PlayStation Store lists 12:00 a.m. Eastern Time (ET), which is 9 p.m. Pacific Time (PT) on Wednesday, Nov. 18. The clock below counts down to the store you pick.
 
 ## GTA 6 countdown clock
 
@@ -149,7 +139,7 @@ The clock needs JavaScript. Without it, use the table below. It counts from the 
 
 ## What time does GTA 6 come out?
 
-The PlayStation Store lists a release time in UTC on every product page we could load, and the times differ by country. That points to a local-midnight release in each store, not one worldwide moment. Rockstar Games has not published a separate release schedule, so these are the store listings, converted.
+The PlayStation Store lists a release time in UTC on each of the five product pages we read, and the times differ by country. Rockstar Games has not published a separate release schedule, so these are the store listings, converted.
 
 | PlayStation Store | Listing shows | Local time | In Eastern Time | In Pacific Time |
 |---|---|---|---|---|
@@ -178,8 +168,8 @@ If the US store's moment applies to you, the West Coast gets the game on Wednesd
 
 - **Xbox.** The Xbox store page lists a release date of 11/19/2026 and no time or time zone.
 - **Australia and Japan.** We could not load those PlayStation Store listings, so there is no time for them here.
-- **Other countries.** We checked five stores. Mexico, Brazil and the rest of the list are not in this story.
-- **Pre-load time.** Take-Two Interactive says digital pre-orders can pre-load from Nov. 12, and the PlayStation listing shows a "7-Day Pre-load." Neither gives an hour.
+- **Other countries.** We checked five stores. Mexico, Brazil and the rest of the list are not covered.
+- **Release hour for pre-loaded copies.** Rockstar's store page says pre-load began Nov. 10 and gives no separate hour, so the store listings above are the only times.
 
 ## GTA 6 release date at a glance
 
@@ -188,7 +178,7 @@ If the US store's moment applies to you, the West Coast gets the game on Wednesd
 | Release date | Thursday, Nov. 19, 2026 | Rockstar Games |
 | Platforms | PlayStation 5 (PS5) and Xbox Series X\|S | Rockstar Games |
 | PC | No version or date announced | Rockstar Games |
-| Pre-load | From Nov. 12 for digital pre-orders | Take-Two Interactive |
+| Pre-load | Began Nov. 10 for digital pre-orders; physical copies are a download code in the box, no disc | Rockstar Games |
 | US price | $79.99 Standard, $99.99 Ultimate | PlayStation Store |
 | UK price | £69.99 Standard, £89.99 Ultimate | PlayStation Store |
 | Canada price | $109.99 Standard, $139.99 Ultimate | PlayStation Store |
@@ -199,20 +189,17 @@ For the full list of announcements, the pre-order bonus and Rockstar's Thursday 
 
 ## How many days until GTA 6?
 
-From Sunday, Nov. 1, it is 18 days to Thursday, Nov. 19 by the calendar. The live clock above gives the exact figure. The day count shifts by one depending on which instant you count to: the UK store opens 5 hours before the US one, and India's opens 10 and a half hours before it.
+On Friday, Nov. 13, launch day is 6 days away by the calendar, and the live clock above gives the exact figure. The day count shifts by one depending on which instant you count to: the UK store lists 5 hours before the US one, and India's lists 10 and a half hours before it.
 
 | Date | Days to launch |
 |---|---|
-| Thu., Oct. 29 | 21 |
-| Thu., Nov. 5 | 14 |
-| Thu., Nov. 12 | 7 |
 | Mon., Nov. 16 | 3 |
 | Wed., Nov. 18 | 1 |
 | Thu., Nov. 19 | 0, launch day |
 
 ## Free GTA 6 launch checklist to print
 
-The printable puts the countdown milestones, the five store release times in Eastern Time and a short get-ready list on one US Letter page. Use the ink-saving version for a home printer. It is a static sheet: it does not update itself, so check the clock above if a date changes. It uses no game art or logos.
+The printable puts the countdown milestones, the five store release times in Eastern Time and a short get-ready list on one US Letter page. It is a static sheet: it does not update itself, so check the clock above if a date changes. It uses no game art or logos.
 
 ## GTA 6 countdown on an iPhone or a website
 
@@ -220,4 +207,4 @@ Fresh Calendars does not offer a native iPhone widget or an embed code. To keep 
 
 ## How we keep this accurate
 
-We read the PlayStation Store listings, the Xbox store page and Rockstar's pages on the date above. If Rockstar, Sony or Microsoft changes the date or a store time, the table, the clock and the printable will change together, and the callout at the top will show the new check time. To plan the month around the launch, use our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html), and see [November 2026 important dates](/news/november-2026-important-dates-days-until/) for everything else on the calendar. Thanksgiving is a week after launch; our [Thanksgiving 2026 guide](/news/why-thanksgiving-2026-is-november-26/) has the details.
+We read the five PlayStation Store listings and Rockstar's store page again on Nov. 13, 2026. If Rockstar, Sony or Microsoft changes the date or a store time, the table, the clock and the printable will change together. To plan the month around the launch, use our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html), and see [November 2026 important dates](/news/november-2026-important-dates-days-until/) for everything else on the calendar. Thanksgiving is a week after launch; our [Thanksgiving 2026 guide](/news/why-thanksgiving-2026-is-november-26/) has the details.

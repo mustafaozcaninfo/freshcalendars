@@ -1,9 +1,9 @@
 ---
-title: "Best Buy Black Friday 2026: Deals Nov. 6 and 19, Cyber Week Dec. 1-6"
-description: "Best Buy Black Friday 2026 deals: Early deals begin Nov. 6, and 10 days of Black Friday deals start Nov. 19. Every date to Jan. 31, 2027, and a printable."
+title: "Best Buy Black Friday 2026: Deals Start Nov. 19, Cyber Week Dec. 1-6"
+description: "Best Buy's 10 days of Black Friday deals start Thursday, Nov. 19, 2026, and stores close Nov. 26. Every date to Jan. 31, 2027, and a printable."
 type: news
 publishedAt: "2026-10-28T21:50:00-04:00"
-updatedAt: "2026-11-01T05:36:00-05:00"
+updatedAt: "2026-11-13T16:11:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["best buy black friday 2026", "best buy doorbusters october 30", "best buy holiday calendar 2026", "best buy return policy holiday 2026", "best buy cyber week 2026"]
@@ -52,14 +52,14 @@ hero:
     author: "Hastengeims"
 summary:
   - "Best Buy's holiday deals began Friday, Oct. 30, 2026, with DoorBOOsters, and new Doorbusters drop every week, the company said on Oct. 27."
-  - "Early Black Friday Deals and Doorbusters begin Nov. 6, 10 days of Black Friday deals start Nov. 19, Cyber Week Deals run Dec. 1-6 and the Last-Minute Savings Event runs Dec. 18-24."
+  - "Ten days of Black Friday doorbusters and deals start Thursday, Nov. 19; Cyber Week Deals run Dec. 1-6 and the Last-Minute Savings Event runs Dec. 18-24. Early Black Friday Deals began Nov. 6."
   - "Most purchases made Oct. 30 through Dec. 31 can be returned through Jan. 15, 2027, or Jan. 31, 2027 for My Best Buy Plus and Total members."
   - "Best Buy has not published doorbuster products or prices, Black Friday opening hours, or exact Cyber Sunday and Monday dates."
 faq:
   - q: "When do Best Buy's 2026 holiday deals start?"
     a: "Friday, Oct. 30, 2026, with the return of DoorBOOsters, according to Best Buy's holiday calendar announcement of Oct. 27."
   - q: "When are Best Buy's Early Black Friday Deals in 2026?"
-    a: "They begin Nov. 6, 2026, and Best Buy says new deals will drop every Friday."
+    a: "They began Nov. 6, 2026, and Best Buy says new deals drop every Friday."
   - q: "How long is Best Buy's Black Friday sale in 2026?"
     a: "Best Buy says it will offer 10 days of Black Friday doorbusters and deals starting Nov. 19. It did not publish an end date; counting 10 days from Thursday, Nov. 19, our count ends on Saturday, Nov. 28."
   - q: "When is Best Buy Cyber Week 2026?"
@@ -72,7 +72,7 @@ sources:
   - title: "Best Buy reveals holiday calendar with Doorbusters and deals throughout the season"
     url: "https://corporate.bestbuy.com/2026/holiday-calendar/"
     publisher: "Best Buy Corporate News"
-    date: "2026-10-27"
+    date: "2026-11-13"
   - title: "Walmart Unwraps Three Major Holiday Shopping Events, Bringing Big Savings on Gifts and Seasonal Favorites"
     url: "https://corporate.walmart.com/news/2026/10/walmart-unwraps-three-major-holiday-shopping-events"
     publisher: "Walmart"
@@ -111,15 +111,15 @@ downloads:
 draft: false
 ---
 
-**Best Buy's holiday deals began Friday, Oct. 30, 2026, with the return of DoorBOOsters, the retailer said in its holiday calendar announcement on Oct. 27.** Best Buy Corporate News says "Halloween marks the official start of holiday savings at Best Buy," that new Doorbusters will drop every week and that shoppers get major savings events through December. Extended store hours started Sunday, Nov. 1. Early Black Friday Deals and Doorbusters begin Nov. 6, and Cyber Week Deals run Dec. 1-6. Best Buy has not published doorbuster products or prices, so this story lists dates and rules only. Every date from Oct. 30 to Jan. 31, 2027 is in the table below and on a one-page printable.
+**Best Buy's 10 days of Black Friday doorbusters and deals start Thursday, Nov. 19, 2026, according to its holiday calendar announcement of Oct. 27.** DoorBOOsters began Friday, Oct. 30, and Early Black Friday Deals and Doorbusters began Nov. 6. Best Buy Corporate News says new Doorbusters drop every week and that shoppers get major savings events through December, including Cyber Week Deals on Dec. 1-6. Extended store hours started Sunday, Nov. 1. As of Nov. 13, Best Buy's corporate newsroom has not published a doorbuster product list or prices, so this story lists dates and rules only. Every date from Oct. 30 to Jan. 31, 2027 is in the table below and on a one-page printable.
 
 ## What are Best Buy's 2026 holiday dates?
 
 | Date (2026) | Day | What Best Buy announced |
 |---|---|---|
-| Oct. 30 | Friday | DoorBOOsters kick off holiday savings |
-| Nov. 1 | Sunday | Extended store hours start (Best Buy also mentions 24/7 Pickup Lockers at select stores) |
-| Nov. 6 | Friday | Early Black Friday Deals and Doorbusters; new deals drop every Friday |
+| Oct. 30 | Friday | DoorBOOsters kicked off holiday savings |
+| Nov. 1 | Sunday | Extended store hours started (Best Buy also mentions 24/7 Pickup Lockers at select stores) |
+| Nov. 6 | Friday | Early Black Friday Deals and Doorbusters began; new deals drop every Friday |
 | Nov. 13, 20, 27 | Fridays | Weekly Friday drops (our weekdays from the "every Friday" line) |
 | Nov. 19 | Thursday | 10 days of Black Friday doorbusters and deals start; double rewards for My Best Buy Plus and Total members begin |
 | Nov. 26 | Thursday | Thanksgiving Day: stores closed; deals continue in the app and online |
@@ -132,7 +132,7 @@ draft: false
 | Jan. 15, 2027 | Friday | Return deadline for most holiday purchases |
 | Jan. 31, 2027 | Sunday | Return deadline for My Best Buy Plus and Total members |
 
-Best Buy did not publish an end date for its 10-day Black Friday sale. Ten days from Thursday, Nov. 19, runs through Saturday, Nov. 28 by our count. Our [Black Friday 2026 date page](/when-is/black-friday/) and [Cyber Monday page](/when-is/cyber-monday/) confirm the weekdays, and you can mark everything on our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html).
+Best Buy has not published an end date for its 10-day Black Friday sale. Ten days from Thursday, Nov. 19, runs through Saturday, Nov. 28 by our count. Our [Black Friday 2026 date page](/when-is/black-friday/) and [Cyber Monday page](/when-is/cyber-monday/) confirm the weekdays, and you can mark everything on our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html).
 
 ## When can I return what I buy?
 
@@ -152,7 +152,7 @@ Best Buy's Holiday Price Match Guarantee says: "If the price of a product sold b
 
 ## Is Best Buy open on Thanksgiving and Black Friday?
 
-Best Buy says stores will be closed on Thanksgiving Day, Thursday, Nov. 26, with deals continuing in the app and online. From Nov. 1 it offers extended store hours, and customers can find updated hours on their local store page. Best Buy did not give a Black Friday opening time in the announcement. For other chains, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
+Best Buy says stores will be closed on Thanksgiving Day, Thursday, Nov. 26, with deals continuing in the app and online. From Nov. 1 it offers extended store hours, and customers can find updated hours on their local store page. Best Buy has not given a Black Friday opening time in its newsroom. For other chains, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
 
 ## What has not been announced?
 

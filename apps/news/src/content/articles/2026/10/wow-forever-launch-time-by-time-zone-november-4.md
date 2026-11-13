@@ -1,9 +1,9 @@
 ---
 title: "WoW Forever Launch Time: Nov. 4 at 3 p.m. PST, by Time Zone"
-description: "World of Warcraft (WoW): Forever launched Wed., Nov. 4, 2026 at 3 p.m. PST (6 p.m. EST). Times by time zone, name reservation dates and Dec. 9 raids."
+description: "World of Warcraft (WoW): Forever went live Wed., Nov. 4, 2026 at 3 p.m. PST (6 p.m. EST). Launch times by time zone, plus the Dec. 9 raid date."
 type: news
 publishedAt: "2026-10-31T07:50:00-04:00"
-updatedAt: "2026-11-01T05:33:00-05:00"
+updatedAt: "2026-11-13T16:14:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["WoW Forever launch time", "World of Warcraft Forever release date", "WoW Forever release time UK", "WoW Forever name reservation"]
@@ -46,38 +46,44 @@ hero:
     author: "Jorge Franganillo"
     authorUrl: "https://www.flickr.com/people/46191841@N00"
 summary:
-  - "Blizzard News says World of Warcraft (WoW): Forever launches globally on Wednesday, Nov. 4, 2026, at 3:00 p.m. Pacific Standard Time (PST), which is 23:00 Coordinated Universal Time (UTC)."
-  - "That is 6 p.m. Eastern Standard Time (EST) in New York, 11 p.m. Greenwich Mean Time (GMT) in the UK and 12:00 a.m. Central European Time (CET) on Thursday, Nov. 5."
-  - "Early Name Reservation runs from Oct. 27 through Nov. 3 for players who pre-purchased an upgrade edition, with up to three characters across all rulesets."
-  - "New raids open on Wed., Dec. 9 for level 60 players. Blizzard has not announced a date for the Hardcore ruleset or for preloading."
+  - "World of Warcraft (WoW): Forever went live globally on Wednesday, Nov. 4, 2026, at 3:00 p.m. Pacific Standard Time (PST), which is 23:00 Coordinated Universal Time (UTC), according to Blizzard News."
+  - "That was 6 p.m. Eastern Standard Time (EST) in New York, 11 p.m. Greenwich Mean Time (GMT) in the UK and 12:00 a.m. Central European Time (CET) on Thursday, Nov. 5."
+  - "Early Name Reservation ran from Oct. 27 through Nov. 3 for players who pre-purchased an upgrade edition, with up to three characters across all rulesets."
+  - "Three raids open on Wed., Dec. 9 for level 60 players; Blizzard gives no clock time. The Hardcore ruleset has no date yet."
 faq:
   - q: "What time does WoW Forever launch?"
-    a: "Blizzard News lists 3:00 p.m. PST on Wednesday, Nov. 4, 2026. That is 6 p.m. EST, 5 p.m. Central, 4 p.m. Mountain and 2 p.m. Alaska time, all on Nov. 4."
+    a: "Blizzard News listed 3:00 p.m. PST on Wednesday, Nov. 4, 2026. That was 6 p.m. EST, 5 p.m. Central, 4 p.m. Mountain and 2 p.m. Alaska time, all on Nov. 4."
   - q: "What time does WoW Forever launch in the UK?"
-    a: "11:00 p.m. GMT on Wednesday, Nov. 4, 2026, according to Blizzard's regional table. Central Europe gets it at 12:00 a.m. CET on Thursday, Nov. 5."
+    a: "11:00 p.m. GMT on Wednesday, Nov. 4, 2026, according to Blizzard's regional table. Central Europe started at 12:00 a.m. CET on Thursday, Nov. 5."
   - q: "When does WoW Forever name reservation end?"
-    a: "Blizzard says Early Name Reservation is available from Oct. 27 through Nov. 3, 2026. It is still open and closes Nov. 3. Names are first-come, first-served and are not guaranteed."
+    a: "Blizzard's Early Name Reservation ran from Oct. 27 through Nov. 3, 2026 and has ended. Names were first-come, first-served and were not guaranteed."
   - q: "Who can reserve a name early?"
-    a: "Players who pre-purchase the Skyborne Heroic Pack, the Skyborne Epic Pack or the limited-time Warcraft Forever Collection. The benefit applies only to the WoW account the purchase was made for."
+    a: "Players who pre-purchased the Skyborne Heroic Pack, the Skyborne Epic Pack or the limited-time Warcraft Forever Collection. The benefit applies only to the WoW account the purchase was made for."
   - q: "Do I need a subscription to play WoW Forever?"
     a: "Blizzard says access is included with a World of Warcraft Subscription or Game Time, and you need one of them. The upgrade editions are optional and sold on the Battle.net Shop."
   - q: "When does the WoW Forever Hardcore ruleset start?"
-    a: "Blizzard has not announced a date. Its launch article says the Hardcore ruleset will become available sometime after launch."
-  - q: "Can I preload WoW Forever?"
-    a: "Blizzard News has not announced a preload date in the articles we checked, so there is none here."
+    a: "Blizzard has not announced a date. Its launch-day article says the Hardcore ruleset will become available sometime after launch."
+  - q: "When do the WoW Forever raids open?"
+    a: "Barrow Deeps, Hyjal Summit and Onyxia's Lair open on Dec. 9, 2026 for level 60 players. Blizzard's raid overview gives the date but no clock time, and says all raids are planned to reset each week."
 sources:
-  - title: "World of Warcraft: Forever Goes Live Globally November 4!"
-    url: "https://news.blizzard.com/en-us/article/24315820/world-of-warcraft-forever-goes-live-globally-november-4"
+  - title: "World of Warcraft: Forever Now Live!"
+    url: "https://news.blizzard.com/en-us/article/24315820/world-of-warcraft-forever-now-live"
     publisher: "Blizzard News"
+    date: "2026-11-13"
+  - title: "World of Warcraft: Forever Raid Overview: Locations, Raid Sizes, and Attunement"
+    url: "https://news.blizzard.com/en-us/article/24303009"
+    publisher: "Blizzard News"
+    date: "2026-11-13"
   - title: "World of Warcraft: Forever What's Next Panel Recap"
     url: "https://news.blizzard.com/en-us/article/24303862/world-of-warcraft-forever-whats-next-panel-recap"
     publisher: "Blizzard News"
   - title: "Claim Your World of Warcraft: Forever Character Names"
     url: "https://news.blizzard.com/en-us/article/24303866"
     publisher: "Blizzard News"
-  - title: "Pre-Purchase World of Warcraft: Forever Upgrades and Begin Your Next Journey in Azeroth"
-    url: "https://news.blizzard.com/en-us/article/24301508/pre-purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth"
+  - title: "Purchase World of Warcraft: Forever Upgrades and Begin Your Next Journey in Azeroth"
+    url: "https://news.blizzard.com/en-us/article/24317866/purchase-world-of-warcraft-forever-upgrades-and-begin-your-next-journey-in-azeroth"
     publisher: "Blizzard News"
+    date: "2026-11-13"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -104,11 +110,11 @@ downloads:
 draft: false
 ---
 
-**World of Warcraft (WoW): Forever launches globally on Wednesday, Nov. 4, 2026, at 3:00 p.m. Pacific Standard Time (PST), according to Blizzard News.** That is 6 p.m. Eastern Standard Time (EST) in New York and 11 p.m. Greenwich Mean Time (GMT) in the UK. Players in Central Europe and Asia-Pacific start on Thursday, Nov. 5. Below are the times for every US and Canadian zone, the name reservation deadline and the dated milestones through January 2027.
+**World of Warcraft (WoW): Forever went live globally on Wednesday, Nov. 4, 2026, at 3:00 p.m. Pacific Standard Time (PST), according to Blizzard News.** That was 6 p.m. Eastern Standard Time (EST) in New York and 11 p.m. Greenwich Mean Time (GMT) in the UK. Players in Central Europe and Asia-Pacific started on Thursday, Nov. 5. Below are the times for every US and Canadian zone, the name reservation dates and what is still ahead, led by the Dec. 9 raids.
 
 ## WoW Forever launch time by time zone
 
-Blizzard's launch article gives one moment for the whole world: 23:00 Coordinated Universal Time (UTC) on Nov. 4. Its regional table converts that for the Americas, Brazil, the UK, Central Europe, Taiwan, Korea and Australia and New Zealand. We converted the rest. U.S. clocks go back on Nov. 1, so every US zone is on standard time at launch.
+Blizzard's launch article gave one moment for the whole world: 23:00 Coordinated Universal Time (UTC) on Nov. 4. Its regional table converted that for the Americas, Brazil, the UK, Central Europe, Taiwan, Korea and Australia and New Zealand. We converted the rest. U.S. clocks went back on Nov. 1, so every US zone was on standard time at launch.
 
 | Region | Launch time | Day |
 |---|---|---|
@@ -131,41 +137,42 @@ The Americas, Brazil, UK, Central Europe, Taiwan, Korea and Australia and New Ze
 
 ### What time does WoW Forever launch in the UK?
 
-Blizzard lists 11:00 p.m. GMT on Wednesday, Nov. 4 for the UK, which is the same moment as 6 p.m. EST. Central Europe's 12:00 a.m. Central European Time (CET) puts the start after midnight on Thursday, Nov. 5.
+Blizzard listed 11:00 p.m. GMT on Wednesday, Nov. 4 for the UK, the same moment as 6 p.m. EST. Central Europe's 12:00 a.m. Central European Time (CET) put the start after midnight on Thursday, Nov. 5.
 
 ## Early name reservation dates for WoW Forever
 
-Blizzard says Early Name Reservations are available from Oct. 27 through Nov. 3, 2026. They opened Oct. 27 at 1:00 p.m. Pacific Daylight Time (PDT) in North America and 18:00 CET in Europe, and on Oct. 28 at 07:00 in Korea and Taiwan. The window is still open and closes Nov. 3.
+Blizzard ran Early Name Reservations from Oct. 27 through Nov. 3, 2026. They opened Oct. 27 at 1:00 p.m. Pacific Daylight Time (PDT) in North America and 18:00 CET in Europe, and on Oct. 28 at 07:00 in Korea and Taiwan. The window has closed.
 
-- **Who can reserve:** players who pre-purchase the Skyborne Heroic Pack, the Skyborne Epic Pack or the limited-time Warcraft Forever Collection. The benefit applies only to the WoW account the purchase was made for.
-- **How many names:** up to three characters in total across all rulesets. Blizzard says this limit applies only to Early Name Reservation.
-- **No guarantee:** names are first-come, first-served and are not guaranteed.
+- **Who could reserve:** players who pre-purchased the Skyborne Heroic Pack, the Skyborne Epic Pack or the limited-time Warcraft Forever Collection. The benefit applies only to the WoW account the purchase was made for.
+- **How many names:** up to three characters in total across all rulesets. Blizzard said this limit applied only to Early Name Reservation.
+- **No guarantee:** names were first-come, first-served and were not guaranteed.
 
 ## What WoW Forever needs and when the raids arrive
 
-Blizzard says access to WoW Forever is included with a World of Warcraft Subscription or Game Time, and you need one of them. The upgrade editions are optional and sold on the Battle.net Shop. The adventure covers levels 1 to 60 across the original continents. Players choose Horde or Alliance at character creation, and the new playable race is the Skyborne.
+Blizzard says access to WoW Forever is included with a World of Warcraft Subscription or Game Time, and you need one of them. The upgrade editions are optional and sold on the Battle.net Shop. The adventure covers levels 1 to 60 across the original continents. Players choose Horde or Alliance at character creation, and the new playable race is the Skyborne. Blizzard says the upgrade editions are still on sale on the Battle.net Shop, and the Warcraft Forever Collection stays available through Jan. 11, 2027.
 
-On Dec. 9, level 60 players can take on three raids: Barrow Deeps, Hyjal Summit and Onyxia's Lair. The panel recap says more raids, dungeons, player versus player (PvP) updates and world content follow, with no dates given.
+Blizzard's raid overview says Barrow Deeps, Hyjal Summit and Onyxia's Lair open on Dec. 9, which gives players time after launch to reach level 60 and prepare their groups. No clock time for the opening is published. Blizzard plans for all raids to reset each week. The panel recap says more raids, dungeons, player versus player (PvP) updates and world content follow, with no dates given.
 
-## WoW Forever dates to mark through January 2027
+## WoW Forever dates, past and ahead, through January 2027
 
 | Date | What happens | Source |
 |---|---|---|
 | Sept. 17 to Oct. 21, 2026 | Beta | Blizzard News pre-purchase article |
 | Oct. 27 to Nov. 3 | Early Name Reservation | Blizzard News name article |
-| Wed., Nov. 4 | Global launch, 3:00 p.m. PST | Blizzard News launch article |
-| Nov. 4 to Nov. 11 | Launch-week codes | Blizzard News pre-purchase article |
-| Wed., Dec. 9 | Barrow Deeps, Hyjal Summit and Onyxia's Lair raids | Blizzard News launch article |
-| Through Jan. 11, 2027 | Warcraft Forever Collection available | Blizzard News pre-purchase article |
+| Wed., Nov. 4 | Global launch, 3:00 p.m. PST (happened) | Blizzard News launch article |
+| Nov. 4 to Nov. 11 | Launch-week codes window (ended) | Blizzard News pre-purchase article |
+| Wed., Dec. 9 | Barrow Deeps, Hyjal Summit and Onyxia's Lair raids open, no clock time given | Blizzard News raid overview |
+| Through Jan. 11, 2027 | Warcraft Forever Collection available | Blizzard News purchase article |
 
 ### What Blizzard has not announced
 
-- **Hardcore ruleset:** it will become available sometime after launch. There is no date.
-- **Preload:** we found no preload date in the four Blizzard articles we read.
+- **Hardcore ruleset:** Blizzard says it will become available sometime after launch. There is no date.
+- **Dec. 9 raid start time:** the date is set, the hour is not published.
+- **Season start and more raids:** Blizzard has given no dates.
 - **Prices, platforms and beta characters:** these are not covered in the articles above, so we do not state them.
 
 ## Print the WoW Forever launch timeline
 
-The one-page printable lists the name reservation deadline, the launch time in the Americas, UK, Central Europe and Asia-Pacific, the launch-week codes end date, the Dec. 9 raids and the Collection end date. Use the ink-saver version for a home printer. It does not update itself, so check Blizzard News if a date moves.
+The one-page printable, drawn before launch, lists the name reservation deadline, the launch time in the Americas, UK, Central Europe and Asia-Pacific, the launch-week codes end date, the Dec. 9 raids and the Collection end date. Use the ink-saver version for a home printer. It does not update itself, so check Blizzard News if a date moves.
 
 Plan around the launch with our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html). For another game launch with a time-zone table, see our [Grand Theft Auto (GTA) 6 release time by time zone](/news/gta-6-countdown-release-time-by-time-zone/). Game subscribers can also check the [PlayStation Plus November 2026 games](/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/) and the [Xbox Game Pass changes for Nov. 2 to 6](/news/xbox-game-pass-leaving-october-31-2026-new-games-november-2-6/).

@@ -3,7 +3,7 @@ title: "Christmas 2026 Countdown: Days Until Friday, Dec. 25, Printable"
 description: "Christmas 2026 is Friday, Dec. 25. A live countdown in your time zone, a December 2026 calendar with holidays and a free printable of key dates."
 type: explainer
 publishedAt: "2026-10-24T00:50:00-04:00"
-updatedAt: "2026-10-27T03:03:00-04:00"
+updatedAt: "2026-11-13T16:26:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["christmas 2026 calendar printable", "how many days until christmas 2026", "what day is christmas 2026", "christmas 2026 calendar"]
@@ -13,7 +13,7 @@ assets:
   overlay: true
   kicker: "Christmas 2026 · Fri., Dec. 25"
   date: "2026-12-25"
-  card: { top: "Christmas Day 2026", big: "Fri., Dec. 25", bottom: "62 days from Sat., Oct. 24" }
+  card: { top: "Christmas Day 2026", big: "Fri., Dec. 25", bottom: "Christmas Eve is Thu., Dec. 24" }
   printable:
     slug: december-2026-christmas-calendar-key-dates
     group: christmas-2026
@@ -42,7 +42,7 @@ hero:
   src: ../../../../assets/news/christmas-2026-calendar-printable-countdown/christmas-2026-calendar-printable-countdown.webp
   alt: "A decorated Christmas tree with red ornaments, glowing lights and wrapped gifts underneath, for a Christmas 2026 countdown and printable calendar"
   title: "Christmas 2026 is Friday, Dec. 25"
-  caption: "Christmas Day 2026 is Friday, Dec. 25, 62 days from Oct. 24. File photo (2014) of a lit Christmas tree and gifts; the clock on this page counts down in your time zone."
+  caption: "Christmas Day 2026 is Friday, Dec. 25. File photo (2014) of a lit Christmas tree and gifts; the clock on this page counts down in your time zone."
   credit: "Photo: Alhill42 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -51,7 +51,7 @@ hero:
     author: "Alhill42"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Alhill42"
 summary:
-  - "Christmas Day 2026 is Friday, Dec. 25, and from Saturday, Oct. 24 that is 62 days away."
+  - "Christmas Day 2026 is Friday, Dec. 25, and the table below counts the days to it from Friday, Nov. 13."
   - "A live countdown on this page ticks down to midnight on Dec. 25 in your own time zone, with options for Eastern Time (ET) and New Year's Day 2027."
   - "December 2026 is also Hanukkah (sundown Dec. 4 to nightfall Dec. 12), Advent and several mailing and enrollment deadlines."
   - "A free printable December 2026 calendar marks Christmas, the other holidays and every key date on one page, with an ink-saver version."
@@ -59,7 +59,7 @@ faq:
   - q: "What day is Christmas 2026?"
     a: "Christmas Day 2026 is a Friday, Dec. 25. Christmas Eve is Thursday, Dec. 24, and the day after Christmas, Saturday, Dec. 26, starts the returns week. Christmas falls on the same date every year."
   - q: "How many days until Christmas 2026?"
-    a: "From Saturday, Oct. 24, 2026, it is 62 days to Friday, Dec. 25. The live clock on this page counts the exact days, hours, minutes and seconds in your own time zone."
+    a: "From Friday, Nov. 13, 2026, it is 42 days to Friday, Dec. 25. The live clock on this page counts the exact days, hours, minutes and seconds in your own time zone."
   - q: "Is Christmas Day 2026 a federal holiday?"
     a: "Yes. Christmas Day, Friday, Dec. 25, 2026, is a federal holiday by law, according to the U.S. Office of Personnel Management, so federal offices, banks, post offices and the stock market are closed. Christmas Eve, Dec. 24, is not a federal holiday."
   - q: "What is the last day to mail gifts for Christmas 2026?"
@@ -73,10 +73,15 @@ sources:
   - title: "2026 Holiday Shipping Deadlines"
     url: "https://www.usps.com/holiday/holiday-shipping-dates.htm"
     publisher: "U.S. Postal Service"
+    date: "2026-11-13"
   - title: "Postal Service Recommends 2026 Holiday Mailing and Shipping Dates"
     url: "https://about.usps.com/newsroom/national-releases/2026/0922-usps-recommends-2026-holiday-mailing-shipping-dates.htm"
     publisher: "U.S. Postal Service"
-    date: "2026-09-22"
+    date: "2026-11-13"
+  - title: "International Service Alerts"
+    url: "https://about.usps.com/newsroom/service-alerts/international/"
+    publisher: "U.S. Postal Service"
+    date: "2026-11-13"
   - title: "Holidays and Trading Hours"
     url: "https://www.nyse.com/markets/hours-calendars"
     publisher: "New York Stock Exchange"
@@ -120,7 +125,7 @@ downloads:
 draft: false
 ---
 
-**Christmas Day 2026 is Friday, Dec. 25, and from Saturday, Oct. 24 that is 62 days away.** Christmas falls on the same date every year, so there is no weekday to look up twice: Christmas Eve is Thursday, Dec. 24, and the day after Christmas is Saturday, Dec. 26. The clock below counts down to midnight on Dec. 25 in your own time zone.
+**Christmas Day 2026 is Friday, Dec. 25, which is 42 days after Friday, Nov. 13.** Christmas falls on the same date every year, so there is no weekday to look up twice: Christmas Eve is Thursday, Dec. 24, and the day after Christmas is Saturday, Dec. 26. The clock below counts down to midnight on Dec. 25 in your own time zone.
 
 ## Christmas 2026 countdown clock
 
@@ -141,29 +146,29 @@ Christmas Day 2026 is a Friday. Because Dec. 25 lands at the end of the week, mo
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-From Saturday, Oct. 24, 2026, it is 62 days to Friday, Dec. 25 by the calendar. The live clock above gives the exact figure down to the second. The table below marks the holidays and deadlines in December and counts the days to each.
+From Friday, Nov. 13, 2026, it is 42 days to Friday, Dec. 25 by the calendar. The live clock above gives the exact figure down to the second. The table below marks the holidays and deadlines in December and counts the days to each.
 
-| Date | Day | What happens | Days from Oct. 24 |
+| Date | Day | What happens | Days from Nov. 13 |
 |---|---|---|---|
-| Dec. 1 | Tuesday | Advent calendars open door 1 | 38 |
-| Dec. 4 | Friday | Hanukkah begins at sundown | 41 |
-| Dec. 6 | Sunday | Second Sunday of Advent | 43 |
-| Dec. 7 | Monday | Medicare open enrollment ends | 44 |
-| Dec. 9 | Wednesday | USPS international mail send-by date | 46 |
-| Dec. 12 | Saturday | Hanukkah ends at nightfall | 49 |
-| Dec. 15 | Tuesday | Affordable Care Act deadline for Jan. 1 coverage | 52 |
-| Dec. 17 | Thursday | USPS Ground Advantage and First-Class Mail send-by | 54 |
-| Dec. 18 | Friday | USPS Priority Mail send-by | 55 |
-| Dec. 19 | Saturday | USPS Priority Mail Express send-by | 56 |
-| Dec. 24 | Thursday | Christmas Eve | 61 |
-| Dec. 25 | Friday | Christmas Day (federal holiday) | 62 |
-| Dec. 26 | Saturday | Stores reopen; returns week | 63 |
+| Dec. 1 | Tuesday | Advent calendars open door 1 | 18 |
+| Dec. 4 | Friday | Hanukkah begins at sundown | 21 |
+| Dec. 6 | Sunday | Second Sunday of Advent | 23 |
+| Dec. 7 | Monday | Medicare open enrollment ends | 24 |
+| Dec. 9 | Wednesday | USPS international mail send-by date | 26 |
+| Dec. 12 | Saturday | Hanukkah ends at nightfall | 29 |
+| Dec. 15 | Tuesday | Affordable Care Act deadline for Jan. 1 coverage | 32 |
+| Dec. 17 | Thursday | USPS Ground Advantage and First-Class Mail send-by | 34 |
+| Dec. 18 | Friday | USPS Priority Mail send-by | 35 |
+| Dec. 19 | Saturday | USPS Priority Mail Express send-by | 36 |
+| Dec. 24 | Thursday | Christmas Eve | 41 |
+| Dec. 25 | Friday | Christmas Day (federal holiday) | 42 |
+| Dec. 26 | Saturday | Stores reopen; returns week | 43 |
 
-To count from a different day, take the days left in the current month and add the date in December. From Oct. 24 there are seven days left in October, so Dec. 25 is 7 + 30 + 25 = 62 days away.
+To count from a different day, take the days left in the current month and add the date in December. From Nov. 13 there are 17 days left in November, so Dec. 25 is 17 + 25 = 42 days away.
 
 ## December 2026 calendar with holidays
 
-December 2026 holds more than one holiday. Hanukkah begins at sundown on Friday, Dec. 4 and ends at nightfall on Saturday, Dec. 12, according to Chabad.org and Hebcal; the eight candle-lighting nights run from Dec. 4 through Dec. 11. Our [Hanukkah 2026 guide](/news/hanukkah-2026-dates-calendar/) lists candle-lighting times. The Christian season of Advent is already under way: most advent calendars open door 1 on Tuesday, Dec. 1, and run to Christmas Eve, as our [advent calendar 2026 guide](/news/advent-calendar-2026-dates-free-printable/) explains.
+December 2026 holds more than one holiday. Hanukkah begins at sundown on Friday, Dec. 4 and ends at nightfall on Saturday, Dec. 12, according to Chabad.org and Hebcal; the eight candle-lighting nights run from Dec. 4 through Dec. 11. Our [Hanukkah 2026 guide](/news/hanukkah-2026-dates-calendar/) lists candle-lighting times. The Christian season of Advent begins on Sunday, Nov. 29, and most advent calendars open door 1 on Tuesday, Dec. 1, and run to Christmas Eve, as our [advent calendar 2026 guide](/news/advent-calendar-2026-dates-free-printable/) explains.
 
 | Dec. 2026 date | Day | Holiday or event |
 |---|---|---|
@@ -184,7 +189,7 @@ If you are mailing gifts, the U.S. Postal Service (USPS) recommends send-by date
 | Priority Mail Express | Saturday, Dec. 19 |
 | First-Class Package International and Priority Mail International | Wednesday, Dec. 9 |
 
-Our [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/) story has the military and international tables and the service-commitment tool for Alaska, Hawaii and the territories.
+Effective Nov. 29, USPS says international mail service to Canada is temporarily suspended because of the strike of the Canadian Union of Postal Workers, so the Dec. 9 Canada date above will not apply while the suspension lasts. Our [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/) story has the military and international tables and the service-commitment tool for Alaska, Hawaii and the territories.
 
 ## December deadlines beyond gifts
 
@@ -197,7 +202,7 @@ Two health-coverage deadlines fall in the same month. Medicare open enrollment e
 
 ## New Year's Day 2027
 
-The next federal holiday after Christmas is New Year's Day, which falls on Friday, Jan. 1, 2027, according to OPM. The countdown clock above has an option for it. From Saturday, Oct. 24, 2026, that is 69 days away.
+The next federal holiday after Christmas is New Year's Day, which falls on Friday, Jan. 1, 2027, according to OPM. The countdown clock above has an option for it. From Friday, Nov. 13, 2026, that is 49 days away.
 
 ## Free printable December 2026 calendar
 

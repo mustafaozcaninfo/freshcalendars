@@ -3,6 +3,7 @@ title: "Costco Black Friday 2026: Nov. 27-30 Savings, Deals From Nov. 16"
 description: "Costco's Black Friday 2026 savings run Nov. 27 to 30, with pre-Thanksgiving savings from Nov. 16. A table of all four windows and a printable calendar."
 type: news
 publishedAt: "2026-11-01T12:46:00-05:00"
+updatedAt: "2026-11-13T16:11:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["costco black friday 2026", "costco black friday deals 2026 dates", "costco pre thanksgiving sale 2026", "is costco open on thanksgiving 2026"]
@@ -73,15 +74,15 @@ sources:
   - title: "Black Friday: Holiday Savings Valid Nov. 27 - Nov. 30"
     url: "https://www.costco.com/o/-/black-friday"
     publisher: "Costco Wholesale"
-    date: "2026-11-01"
+    date: "2026-11-13"
   - title: "Pre-Thanksgiving Day: Holiday Savings Valid Nov. 16 - Nov. 30"
     url: "https://www.costco.com/o/-/pre-thanksgiving-day"
     publisher: "Costco Wholesale"
-    date: "2026-11-01"
+    date: "2026-11-13"
   - title: "Thanksgiving Day: Holiday Savings Valid Nov. 26"
     url: "https://www.costco.com/o/-/thanksgiving-day"
     publisher: "Costco Wholesale"
-    date: "2026-11-01"
+    date: "2026-11-13"
   - title: "Holiday Savings Nov. 28-Dec. 1 (2025)"
     url: "https://www.costco.com/o/-/holiday-savings-nov28-dec1"
     publisher: "Costco Wholesale"
@@ -110,6 +111,22 @@ draft: false
 | Black Friday | Nov. 27 to 30 | Friday to Monday | Dates as listed on Costco's Black Friday page |
 
 The weekdays are our computation. Costco's Black Friday page also says: "Online-only promotions valid only for purchases on Costco.com" and "Active Costco membership required for warehouse purchases." Costco's pre-Thanksgiving page adds that pricing on Costco.com may be higher than Costco warehouse pricing.
+
+## What is on Costco's Black Friday page now?
+
+Costco's Black Friday page lists 46 offers, and every one shows "Valid 11/27/26 - 11/30/26". Each also carries its own date line: 32 start Nov. 27, and 14 start earlier and run through Nov. 30 (seven from Nov. 19, three from Nov. 20, two from Nov. 16, one from Oct. 26 and one from Oct. 31). The page notes that pricing shown is warehouse pricing and may vary in Alaska, Hawaii, Puerto Rico, Costco Business Centers and online. Its Thanksgiving Day page lists online-only offers valid Nov. 26.
+
+| Item | Where | Costco's listed deal | Item date line |
+|---|---|---|---|
+| Dyson Ball Animal Optic Corded Upright Vacuum | Warehouse and online | $299.99 after $100 off | Nov. 20 to 30 |
+| GoPro HERO13 Black Action Camera Bundle | Warehouse and online | $339.99 after $80 off | Nov. 19 to 30 |
+| Sonos Era 100 Wireless Smart Speaker, 2 pack | Warehouse and online | $329.99 after $80 off | Nov. 19 to 30 |
+| Hisense 100" Class QD7 Series 4K Smart TV | Warehouse and online | $999.99 | Nov. 27 to 30 |
+| Lenovo IdeaPad Slim 5i 16" Copilot+ PC | Warehouse and online | Save $300 | Nov. 27 to 30 |
+| Kirkland Signature Boneless Skinless Chicken Breasts | Warehouse only | Save $5 per package | Nov. 27 to 30 |
+| Select LG Refrigerators | Online only | Save $1,400 to $1,500 | Nov. 27 to 30 |
+
+Prices and limits are as shown on Costco's page on Nov. 13 and can change while supplies last.
 
 ## How does 2026 compare with Costco's 2025 Black Friday dates?
 

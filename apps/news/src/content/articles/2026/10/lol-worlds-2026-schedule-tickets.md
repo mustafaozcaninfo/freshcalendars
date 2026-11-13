@@ -1,9 +1,9 @@
 ---
 title: "League of Legends Worlds 2026 Calendar: Final Nov. 14 in Brooklyn"
-description: "The League of Legends Worlds 2026 calendar runs Oct. 15-Nov. 14, final at 2 p.m. EST in Brooklyn. Stage dates, venues, tickets and a printable bracket."
+description: "Gen.G plays Bilibili Gaming in the Worlds 2026 final, Nov. 14 at 2 p.m. EST in Brooklyn. Semifinal results, stage dates and times, tickets and a bracket."
 type: news
 publishedAt: "2026-10-23T14:10:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-13T16:07:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["lol worlds 2026 schedule", "Worlds 2026 schedule", "LoL Worlds 2026 tickets", "Worlds 2026 bracket", "Worlds 2026 final date"]
@@ -19,19 +19,19 @@ assets:
     title: "LoL Worlds 2026 Schedule and Knockout Bracket Tracker"
     subtitle: "Fill in Swiss winners, quarterfinals, semifinals and the Grand Final"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     columns: ["Date", "Stage and your picks"]
-    inkSaver: true
     description: "Every Worlds 2026 date from the Swiss Stage to the Nov. 14 Grand Final, with blanks for winners, bracket matchups and the final score."
     alt: "Printable LoL Worlds 2026 schedule and knockout bracket tracker with blanks for each stage winner and the final score"
     rows:
       - ["Fri., Oct. 23", "Swiss Stage, Allen, Texas, 1 p.m. EDT. Winners: ________  ________"]
       - ["Sat., Oct. 24", "Swiss Stage, Allen, Texas, 1 p.m. EDT. Winners: ________  ________"]
       - ["Sun., Oct. 25", "Swiss Stage, Allen, Texas, 1 p.m. EDT. Winners: ________  ________"]
-      - ["Mon., Oct. 26", "Swiss Stage, Allen, Texas. Start: check LoL Esports schedule. Winners: ________"]
+      - ["Mon., Oct. 26", "Swiss Stage, Allen, Texas, 1 p.m. EDT. Winners: ________"]
       - ["Wed., Oct. 28", "Swiss Stage, Allen, Texas, 4 p.m. EDT. Winners: ________  ________"]
       - ["Thu., Oct. 29", "Swiss Stage, Allen, Texas, 4 p.m. EDT. Winners: ________  ________"]
       - ["Fri., Oct. 30", "Swiss Stage, Allen, Texas, 4 p.m. EDT. Winners: ________  ________"]
-      - ["Sat., Oct. 31", "Swiss Stage, Allen, Texas. Start: check LoL Esports schedule. Final eight: ________"]
+      - ["Sat., Oct. 31", "Swiss Stage, Allen, Texas, 1 p.m. EDT. Final eight: ________"]
       - ["Tue., Nov. 3", "Quarterfinal 1, Allen, Texas: ________ vs ________  Score ___-___"]
       - ["Wed., Nov. 4", "Quarterfinal 2, Allen, Texas: ________ vs ________  Score ___-___"]
       - ["Thu., Nov. 5", "Quarterfinal 3, Allen, Texas: ________ vs ________  Score ___-___"]
@@ -49,14 +49,14 @@ hero:
   caption: "The Worlds 2026 Grand Final is Saturday, Nov. 14, at 2 p.m. Eastern Standard Time at Barclays Center in Brooklyn."
 summary:
   - "The League of Legends World Championship 2026 runs Thursday, Oct. 15, to Saturday, Nov. 14. The Swiss Stage ran from Friday, Oct. 23, to Saturday, Oct. 31, in Allen, Texas."
-  - "The Knockout Stage puts eight teams in a single-elimination, best-of-five bracket: quarterfinals Nov. 3-6 and semifinals Nov. 7-8, both in Allen, Texas."
-  - "The Grand Final is Saturday, Nov. 14, at 2 p.m. Eastern Standard Time (EST) at Barclays Center in Brooklyn, New York."
+  - "The Knockout Stage was eight teams in a single-elimination, best-of-five bracket: quarterfinals Nov. 3-6 and semifinals Nov. 7-8, both in Allen, Texas. Gen.G and Bilibili Gaming (BLG) won the semifinals."
+  - "The Grand Final, Gen.G against BLG, is Saturday, Nov. 14, at 2 p.m. Eastern Standard Time (EST) at Barclays Center in Brooklyn, New York."
   - "Tickets are sold through Ticketmaster. Check the official event page for the dates still on sale; Riot has not announced prices."
 faq:
   - q: "When does Worlds 2026 start and end?"
     a: "The League of Legends World Championship 2026 runs from Thursday, Oct. 15, to Saturday, Nov. 14, 2026. The Play-In finished in Los Angeles, and the Swiss Stage ran from Friday, Oct. 23, to Saturday, Oct. 31, in Allen, Texas."
   - q: "When is the Worlds 2026 final?"
-    a: "The Grand Final is Saturday, Nov. 14, 2026, at 2 p.m. Eastern Standard Time (EST), which is 1 p.m. Central and 11 a.m. Pacific, at Barclays Center in Brooklyn, New York."
+    a: "The Grand Final is Saturday, Nov. 14, 2026, at 2 p.m. Eastern Standard Time (EST), which is 1 p.m. Central and 11 a.m. Pacific, at Barclays Center in Brooklyn, New York. Gen.G, which swept Shanghai Invictus Gaming 3-0, plays Bilibili Gaming (BLG), which beat T1 3-1."
   - q: "How does the Worlds 2026 Swiss Stage work?"
     a: "Sixteen teams play five rounds. Each team is paired with another on the same record; three wins advance a team to the Knockout Stage and three losses eliminate it."
   - q: "How can I watch Worlds 2026?"
@@ -67,7 +67,7 @@ sources:
   - title: "Worlds 2026 Primer"
     url: "https://lolesports.com/en-US/news/worlds-2026-primer"
     publisher: "Riot Games (LoL Esports)"
-    date: "2026-10-05"
+    date: "2026-11-13"
   - title: "MSI and Worlds Updates"
     url: "https://lolesports.com/en-AU/news/msi-and-worlds-updates"
     publisher: "Riot Games (LoL Esports)"
@@ -79,6 +79,22 @@ sources:
   - title: "Worlds 2026 tournament overview"
     url: "https://lolesports.com/en-US/tournament/115660540725177488/overview"
     publisher: "Riot Games (LoL Esports)"
+  - title: "Your Guide to Worlds 2026 Fan Fest"
+    url: "https://lolesports.com/en-US/news/your-guide-to-worlds-2026-fan-fest"
+    publisher: "Riot Games (LoL Esports)"
+    date: "2026-11-02"
+  - title: "Gen.G sweep IG to become first team to advance to the Worlds 2026 grand finals"
+    url: "https://www.gosugamers.net/lol/news/79482-gen-g-sweep-ig-to-become-first-team-to-advance-to-the-worlds-2026-grand-finals"
+    publisher: "GosuGamers"
+    date: "2026-11-08"
+  - title: "Bilibili Gaming knock out defending champions T1 to advance to Worlds 2026 grand finals"
+    url: "https://www.gosugamers.net/lol/news/79483-bilibili-gaming-knock-out-defending-champions-t1-to-advance-to-worlds-2026-grand-finals"
+    publisher: "GosuGamers"
+    date: "2026-11-09"
+  - title: "Worlds 2026: Gen.G And BLG Reach The Grand Final"
+    url: "https://earlygame.com/news/lol/worlds-2026-gen-g-and-blg-reach-the-grand-final-who-takes-t1s-throne"
+    publisher: "EarlyGame"
+    date: "2026-11-09"
   - title: "League of Legends Worlds 2026"
     url: "https://help.ticketmaster.com/hc/en-us/articles/48883145413009-League-of-Legends-Worlds-2026"
     publisher: "Ticketmaster Help Center"
@@ -99,18 +115,10 @@ downloads:
     pdf: "/news/downloads/lol-worlds-2026/lol-worlds-2026-schedule-bracket-tracker.pdf"
     png: "/news/downloads/lol-worlds-2026/lol-worlds-2026-schedule-bracket-tracker.png"
     pages: 1
-  - group: "LoL Worlds 2026 Schedule and Knockout Bracket Tracker printables"
-    title: "LoL Worlds 2026 Schedule and Knockout Bracket Tracker (ink saver)"
-    description: "Every Worlds 2026 date from the Swiss Stage to the Nov. 14 Grand Final, with blanks for winners, bracket matchups and the final score. Ink-saver version."
-    preview: ../../../../assets/news/lol-worlds-2026/lol-worlds-2026-schedule-bracket-tracker-ink.png
-    alt: "Printable LoL Worlds 2026 schedule and knockout bracket tracker with blanks for each stage winner and the final score, ink-saver version"
-    pdf: "/news/downloads/lol-worlds-2026/lol-worlds-2026-schedule-bracket-tracker-ink.pdf"
-    png: "/news/downloads/lol-worlds-2026/lol-worlds-2026-schedule-bracket-tracker-ink.png"
-    pages: 1
 draft: false
 ---
 
-**The League of Legends (LoL) World Championship 2026 moves from the Swiss Stage, played Oct. 23 to 31 in Allen, Texas, to the Knockout Stage on Tuesday, Nov. 3, and runs to the Grand Final on Saturday, Nov. 14, at 2 p.m. Eastern Standard Time (EST) at Barclays Center in Brooklyn, New York.** Riot Games, which makes League of Legends and runs the event known as Worlds, has set the full schedule from the opening Play-In to the trophy lift. Below is every stage with its dates and venues, how the Swiss and Knockout stages work, where to find tickets and how to watch, plus a free printable bracket tracker.
+**The League of Legends (LoL) World Championship 2026 ends Saturday, Nov. 14, with the Grand Final between Gen.G and Bilibili Gaming (BLG) at 2 p.m. Eastern Standard Time (EST) at Barclays Center in Brooklyn, New York.** Riot Games, which makes League of Legends and runs the event known as Worlds, set the schedule from the opening Play-In to the trophy lift. Below is every stage with its dates, start times and venues, how the Swiss and Knockout stages worked, the semifinal results, tickets, how to watch, and a free printable bracket tracker.
 
 ## Worlds 2026 schedule at a glance
 
@@ -119,20 +127,20 @@ draft: false
 | Oct. 23 | Friday | Swiss Stage | Allen, Texas | 1 p.m. EDT / 12 p.m. CDT |
 | Oct. 24 | Saturday | Swiss Stage | Allen, Texas | 1 p.m. EDT / 12 p.m. CDT |
 | Oct. 25 | Sunday | Swiss Stage | Allen, Texas | 1 p.m. EDT / 12 p.m. CDT |
-| Oct. 26 | Monday | Swiss Stage | Allen, Texas | Check LoL Esports schedule |
+| Oct. 26 | Monday | Swiss Stage | Allen, Texas | 1 p.m. EDT / 12 p.m. CDT |
 | Oct. 28 | Wednesday | Swiss Stage | Allen, Texas | 4 p.m. EDT / 3 p.m. CDT |
 | Oct. 29 | Thursday | Swiss Stage | Allen, Texas | 4 p.m. EDT / 3 p.m. CDT |
 | Oct. 30 | Friday | Swiss Stage | Allen, Texas | 4 p.m. EDT / 3 p.m. CDT |
-| Oct. 31 | Saturday | Swiss Stage | Allen, Texas | Check LoL Esports schedule |
-| Nov. 3 | Tuesday | Quarterfinal 1 | Allen, Texas | Check LoL Esports schedule |
-| Nov. 4 | Wednesday | Quarterfinal 2 | Allen, Texas | Check LoL Esports schedule |
-| Nov. 5 | Thursday | Quarterfinal 3 | Allen, Texas | Check LoL Esports schedule |
-| Nov. 6 | Friday | Quarterfinal 4 | Allen, Texas | Check LoL Esports schedule |
-| Nov. 7 | Saturday | Semifinal 1 | Allen, Texas | Check LoL Esports schedule |
-| Nov. 8 | Sunday | Semifinal 2 | Allen, Texas | Check LoL Esports schedule |
+| Oct. 31 | Saturday | Swiss Stage | Allen, Texas | 1 p.m. EDT / 12 p.m. CDT |
+| Nov. 3 | Tuesday | Quarterfinal 1 | Allen, Texas | 5 p.m. EST / 4 p.m. CST |
+| Nov. 4 | Wednesday | Quarterfinal 2 | Allen, Texas | 5 p.m. EST / 4 p.m. CST |
+| Nov. 5 | Thursday | Quarterfinal 3 | Allen, Texas | 5 p.m. EST / 4 p.m. CST |
+| Nov. 6 | Friday | Quarterfinal 4 | Allen, Texas | 5 p.m. EST / 4 p.m. CST |
+| Nov. 7 | Saturday | Semifinal 1 | Allen, Texas | 5 p.m. EST / 4 p.m. CST |
+| Nov. 8 | Sunday | Semifinal 2 | Allen, Texas | 5 p.m. EST / 4 p.m. CST |
 | Nov. 14 | Saturday | Grand Final | Barclays Center, Brooklyn | 2 p.m. EST / 1 p.m. CST |
 
-Start times before Nov. 1 are in Eastern Daylight Time (EDT) and Central Daylight Time (CDT). United States clocks fall back on Sunday, Nov. 1, 2026, so from then Texas is on Central Standard Time (CST). Riot's primer does not confirm start times for Oct. 26, Oct. 31 or the Knockout Stage, so check the LoL Esports schedule for each Knockout Stage day. Swiss daily starts are listed in Central time: 12 p.m. CDT on Oct. 23, 24 and 25, and 3 p.m. CDT on Oct. 28, 29 and 30.
+Start times before Nov. 1 are in Eastern Daylight Time (EDT) and Central Daylight Time (CDT). United States clocks fall back on Sunday, Nov. 1, 2026, so from then Texas is on Central Standard Time (CST). Riot's primer lists Swiss Stage starts of 12 p.m. CDT on Oct. 23, 24, 25, 26 and 31, and 3 p.m. CDT on Oct. 28, 29 and 30. Every Knockout Stage quarterfinal and semifinal in Allen began at 4 p.m. CST, which is 5 p.m. EST.
 
 ## The Play-In finished in Los Angeles
 
@@ -144,15 +152,17 @@ Sixteen teams played the Swiss Stage at the Credit Union of Texas Event Center i
 
 ## Knockout Stage and bracket
 
-The eight teams that survive the Swiss Stage move into the Knockout Stage, a single-elimination bracket of best-of-five matches, also in Allen, Texas. The quarterfinals run Tuesday, Nov. 3, through Friday, Nov. 6, one match a day. The semifinals follow on Saturday, Nov. 7, and Sunday, Nov. 8. The two semifinal winners meet in the Grand Final. Because the Knockout Stage falls after the Nov. 1 clock change, start times fall on Central Standard Time; Riot has not posted them yet, so confirm each on the LoL Esports schedule.
+The eight teams that survived the Swiss Stage moved into the Knockout Stage, a single-elimination bracket of best-of-five matches, in Allen, Texas. The quarterfinals ran Tuesday, Nov. 3, through Friday, Nov. 6, one match a day, and the semifinals followed on Saturday, Nov. 7, and Sunday, Nov. 8. All started at 4 p.m. CST (5 p.m. EST), after the Nov. 1 clock change. The two semifinal winners meet in the Grand Final.
+
+Riot's site does not post match results in its news section, so the semifinal results below come from two newsrooms that agree. [GosuGamers](https://www.gosugamers.net/lol/news/79482-gen-g-sweep-ig-to-become-first-team-to-advance-to-the-worlds-2026-grand-finals) reported that Gen.G swept Shanghai Invictus Gaming (IG) 3-0 on Sunday, Nov. 8, and [GosuGamers](https://www.gosugamers.net/lol/news/79483-bilibili-gaming-knock-out-defending-champions-t1-to-advance-to-worlds-2026-grand-finals) reported that Bilibili Gaming (BLG) beat defending champions T1 3-1 on Monday, Nov. 9. [EarlyGame](https://earlygame.com/news/lol/worlds-2026-gen-g-and-blg-reach-the-grand-final-who-takes-t1s-throne) reports the same two scores and that Gen.G and BLG meet in Brooklyn.
 
 ## The Grand Final in Brooklyn
 
-The Worlds 2026 Grand Final is Saturday, Nov. 14, at Barclays Center in Brooklyn, New York, at 2 p.m. Eastern Standard Time (EST). That is 1 p.m. Central Standard Time and 11 a.m. Pacific Standard Time. The best-of-five match decides the champion.
+The Worlds 2026 Grand Final is Saturday, Nov. 14, at Barclays Center in Brooklyn, New York, at 2 p.m. Eastern Standard Time (EST). That is 1 p.m. Central Standard Time and 11 a.m. Pacific Standard Time. Gen.G plays Bilibili Gaming (BLG) in the best-of-five match that decides the champion.
 
 ## Worlds Fan Fest in Manhattan
 
-Riot is holding a Worlds Fan Fest at Pier 36 in Lower Manhattan over final weekend. It runs Thursday, Nov. 12, from 3 to 9 p.m. EST; Friday, Nov. 13, from 3 to 9 p.m. EST; and Saturday, Nov. 14, from 11 a.m. to 8 p.m. EST. Riot has not announced whether admission is free or ticketed, so watch the LoL Esports site for details.
+Riot is holding a Worlds Fan Fest at Pier 36 in Lower Manhattan over final weekend. It ran Thursday, Nov. 12, and Friday, Nov. 13, from 3 to 9 p.m. EST, and its last day is Saturday, Nov. 14, from 11 a.m. to 8 p.m. EST. Riot says it is open to all fans, with attendance subject to venue capacity, and may cap the line at peak hours. A Hotline League show starts at 11 a.m. EST, and a Grand Final watch party starts at 2 p.m. EST.
 
 ## Tickets
 
@@ -164,4 +174,4 @@ Riot streams the matches on [lolesports.com](https://lolesports.com/en-US/news/w
 
 ## Free printable bracket tracker
 
-Our free Worlds 2026 schedule and knockout bracket tracker lists every date from the Swiss Stage to the Grand Final, with blanks for the teams that advance, each quarterfinal and semifinal matchup, the final score and the champion. It prints in color or an ink-saver version for any home printer. It is fan-made and unofficial, with no Riot logos or art. Put the key dates on your [October 2026 printable calendar](/october-calendars.html) and [November 2026 printable calendar](/november-calendars.html), and track the final weekend on a [printable weekly calendar](/printable-weekly-calendar.html).
+Our free Worlds 2026 schedule and knockout bracket tracker lists every date from the Swiss Stage to the Grand Final, with blanks for the teams that advance, each quarterfinal and semifinal matchup, the final score and the champion. It prints on any home printer. It is fan-made and unofficial, with no Riot logos or art. Put the key dates on your [October 2026 printable calendar](/october-calendars.html) and [November 2026 printable calendar](/november-calendars.html), and track the final weekend on a [printable weekly calendar](/printable-weekly-calendar.html).
