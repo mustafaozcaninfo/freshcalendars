@@ -127,7 +127,7 @@ function escapeHtml(s: string): string {
 
 function holidayListHtml(holidays: ResolvedHoliday[]): string {
   if (!holidays.length) {
-    return "<div>No US federal holidays this month.</div>";
+    return "<div>No US holidays or observances this month.</div>";
   }
   return holidays
     .map((h) => `<div><strong>${escapeHtml(h.name)}</strong> · ${escapeHtml(h.formatted)}</div>`)
@@ -168,7 +168,7 @@ export function renderMonthlyPrintHtml(
   const subtitles: Record<MonthlyVariantId, string> = {
     "classic-bw": "Print-first minimal grid",
     "color-modern": "Modern accent printable",
-    holidays: "US federal holidays labeled",
+    holidays: "US holidays and observances labeled",
     "notes-planner": "Handwriting-first planner",
     "landscape-soft": "Wide seasonal landscape",
     "monday-start": "Monday-start workweek grid",
