@@ -483,6 +483,11 @@ html[data-theme=dark] .holiday-country-tabs a[aria-current=page]{background:var(
 .du-chips a{display:inline-flex; align-items:baseline; gap:8px; min-height:44px; padding:10px 14px; border:1px solid var(--line-soft); border-radius:999px; background:var(--paper); color:var(--ink-strong); font-size:15px; font-weight:600; text-decoration:none}
 .du-chips a:hover{border-color:var(--accent)}
 .du-chips>span[aria-current]{display:inline-flex; align-items:center; min-height:44px; padding:10px 14px; border:1px solid var(--ink-strong); border-radius:999px; background:var(--ink-strong); color:var(--paper); font-size:15px; font-weight:600}
+/* Tables inside the guides (generator guideCopy.ts) */
+.prose .tool-scroll{max-width:none; margin:0 0 18px}
+.guide-table{max-width:none}
+.guide-table tbody tr:first-child td{background:transparent; font-weight:400}
+.guide-table td:not(:last-child){white-space:nowrap}
 /* ——— Dated month and year pages (generator datedPages.ts) ——— */
 .dated-page .month-pager{max-width:980px; margin:18px 0}
 .dated-top{display:grid; grid-template-columns:minmax(0,1.5fr) minmax(0,1fr); gap:20px; align-items:start; max-width:980px}
