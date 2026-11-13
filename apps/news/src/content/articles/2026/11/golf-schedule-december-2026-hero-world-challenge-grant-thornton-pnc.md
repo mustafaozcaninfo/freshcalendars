@@ -111,7 +111,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge, pga-tour-schedule-2027-every-event-majors-signature-events, baseball-hall-of-fame-contemporary-era-committee-vote-december-6-2026]
+related: [golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge, pga-tour-schedule-2027-every-event-majors-signature-events, tgl-2027-schedule-dates-times-december-27-opener]
 draft: false
 ---
 
