@@ -3,6 +3,7 @@ title: "Black Friday 2026 Sales Tax Holiday: None on Nov. 27 or Nov. 30"
 description: "There is no general state sales tax holiday on Black Friday, Nov. 27, or Cyber Monday, Nov. 30, 2026. What the 20-state 2026 holiday list covers instead."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
+updatedAt: "2026-11-13T16:12:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Black Friday sales tax holiday 2026", "Cyber Monday sales tax 2026", "sales tax holiday November 2026"]
@@ -36,15 +37,23 @@ summary:
   - "The Institute on Taxation and Economic Policy (ITEP) lists 20 states with sales tax holidays in 2026, almost all in summer for back-to-school shopping."
   - "None of them is a general late-November or Thanksgiving weekend holiday, so the list shows no general state holiday on Black Friday (Nov. 27) or Cyber Monday (Nov. 30)."
   - "Shoppers pay normal state and local sales tax on those days, including online."
-  - "Holidays can be added or be narrower than a list shows, so check your state revenue department."
+  - "Florida's hunting, fishing and camping holiday runs Sept. 1 to Dec. 31, 2026, so it covers both days, but only for listed items under set price limits."
 faq:
   - q: "Is there a sales tax holiday on Black Friday 2026?"
     a: "Not in the ITEP list. It shows no general state sales tax holiday on Friday, Nov. 27, 2026."
   - q: "Are online purchases tax-free on Cyber Monday 2026?"
-    a: "We found no state offering tax-free online purchases that weekend. Normal state and local sales tax applies."
+    a: "Not as a general rule. Florida's hunting, fishing and camping holiday, which runs through Dec. 31, covers eligible items bought online, but only those items. Otherwise normal state and local sales tax applies."
   - q: "Where do I check my state's rules?"
     a: "Your state revenue department website."
 sources:
+  - title: "2026 Hunting, Fishing, and Camping Sales Tax Holiday (TIP 26A01-06)"
+    url: "https://floridarevenue.com/taxes/tips/Documents/TIP_26A01-06.pdf"
+    publisher: "Florida Department of Revenue"
+    date: "2026-11-13"
+  - title: "2026 Hunting, Fishing, and Camping Sales Tax Holiday Consumer Questions and Answers"
+    url: "https://floridarevenue.com/HuntFishCamp/Pages/default.aspx"
+    publisher: "Florida Department of Revenue"
+    date: "2026-11-13"
   - title: "Which States Have Sales Tax Holidays in 2026?"
     url: "https://itep.org/which-states-have-sales-tax-holidays-in-2026/"
     publisher: "Institute on Taxation and Economic Policy"
@@ -85,7 +94,22 @@ ITEP's "Which States Have Sales Tax Holidays in 2026?", published Aug. 6, 2026, 
 
 ## What that means for Black Friday and Cyber Monday
 
-Black Friday is Friday, Nov. 27, and Cyber Monday is Monday, Nov. 30, 2026. Since the list has no holiday that covers either day, the price on the tag or the checkout page will have tax added as usual. We found no state offering tax-free online purchases that weekend.
+Black Friday is Friday, Nov. 27, and Cyber Monday is Monday, Nov. 30, 2026. Since the list has no holiday that covers either day, the price on the tag or the checkout page will have tax added as usual. The one holiday that does run on both days is narrow and is covered in the next section.
+
+## The one holiday that runs through both days: Florida
+
+The Florida Department of Revenue says the 2026 Hunting, Fishing, and Camping Sales Tax Holiday begins Tuesday, Sept. 1, and ends Thursday, Dec. 31, so it includes Black Friday and Cyber Monday. It is not a general holiday. Tax is not due only on listed items, and only up to a price cap per item.
+
+| Item | Exempt at or under |
+|---|---|
+| Camping lanterns, flashlights | $30 |
+| Camping stoves, portable hammocks, collapsible camping chairs, sleeping bags | $50 |
+| Tents | $200 |
+| Bait and fishing tackle | $10 each, or $20 if sold together |
+| Tackle boxes and bags | $30 |
+| Fishing reels and rods | $75 each, or $150 as a set |
+
+Ammunition, bows, crossbows, firearms and listed firearm accessories are also covered. The holiday does not apply to rentals, repairs or commercial purchases, or to sales in a theme park, entertainment complex, public lodging establishment or airport. Per the department's consumer questions and answers, eligible items bought online from a marketplace provider or remote seller are exempt when the order is accepted during the holiday for immediate shipment, even if delivery comes after Dec. 31. Items on layaway placed during the holiday also qualify. A gift card bought during the holiday cannot be used after Dec. 31 to buy an item tax-exempt. We found no other state revenue department page listing a holiday that starts between Nov. 20 and Dec. 31.
 
 ## Check your state before you buy
 

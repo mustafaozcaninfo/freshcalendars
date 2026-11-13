@@ -3,6 +3,7 @@ title: "Steam Winter Sale 2026 Dates: Dec. 17 to Jan. 4, 2027"
 description: "The Steam Winter Sale 2026 runs Thu., Dec. 17 to Mon., Jan. 4, per Valve. Also every Steam sale and Fest date through June 2027, with a free printable."
 type: explainer
 publishedAt: "2026-10-28T19:43:00-04:00"
+updatedAt: "2026-11-13T16:14:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["steam winter sale 2026", "steam sale dates 2027", "next steam sale", "steam next fest february 2027", "steam spring sale 2027"]
@@ -62,7 +63,7 @@ faq:
   - q: "When is the Steam Winter Sale 2026?"
     a: "Valve's Upcoming Steam Events page lists Thursday, Dec. 17, 2026, to Monday, Jan. 4, 2027."
   - q: "When is the next Steam sale?"
-    a: "The next seasonal sale on Valve's list is the Winter Sale on Dec. 17, 2026. Before it, Steam Scream V Fest ends Monday, Nov. 2 and Auto-Battler role-playing game (RPG) Fest runs Nov. 16 to 23."
+    a: "The next seasonal sale on Valve's list is the Winter Sale on Dec. 17, 2026. Before it, Auto-Battler role-playing game (RPG) Fest runs Mon., Nov. 16, to Mon., Nov. 23. Steam Scream V Fest ended Nov. 2."
   - q: "When is the Steam Spring Sale 2027?"
     a: "Valve lists Thursday, Mar. 18, to Thursday, Mar. 25, 2027."
   - q: "When is Steam Next Fest in February 2027?"
@@ -75,7 +76,7 @@ sources:
   - title: "Upcoming Steam Events"
     url: "https://partner.steamgames.com/doc/marketing/upcoming_events"
     publisher: "Valve (Steamworks Documentation)"
-    date: "2026-10-28"
+    date: "2026-11-13"
 downloads:
   - group: "Steam Sale and Fest Calendar 2026-2027 printables"
     title: "Steam Sale and Fest Calendar 2026-2027"
@@ -102,13 +103,13 @@ related: [amazon-black-friday-2026-sale-dates-when-does-it-start, playstation-pl
 draft: false
 ---
 
-**The Steam Winter Sale 2026 runs Thursday, Dec. 17, 2026, to Monday, Jan. 4, 2027, according to Valve's Steamworks "Upcoming Steam Events" page, checked Oct. 28, 2026.** The next event on Valve's calendar this week is Steam Scream V Fest, which ends Monday, Nov. 2. Below is every Steam seasonal sale and themed Fest Valve has dated from now through June 2027, with weekdays and lengths computed, and a free printable that holds all of them.
+**The Steam Winter Sale 2026 runs Thursday, Dec. 17, 2026, to Monday, Jan. 4, 2027, according to Valve's Steamworks "Upcoming Steam Events" page, checked Nov. 13, 2026.** The next event on Valve's calendar is Auto-Battler role-playing game (RPG) Fest, which starts Monday, Nov. 16. Here is every Steam seasonal sale and themed Fest Valve has dated from now through June 2027, with weekdays and lengths computed, and a free printable that holds all of them.
 
-<p class="callout"><b>Checked Oct. 28, 2026.</b> Valve's page lists dates only. It gives no start times and no time zone, and this story does not state one. Autumn Sale 2027 is listed as "to be determined (TBD)".</p>
+Valve's page lists dates only. It gives no start times and no time zone, and no start time is given here. Autumn Sale 2027 is listed as "to be determined (TBD)".
 
 ## When is the Steam Winter Sale 2026?
 
-Valve lists Thursday, Dec. 17, 2026, to Monday, Jan. 4, 2027. Counting both dates, that is 19 days, and the start is 50 days after Oct. 28. It is the longest entry on the calendar below; the Summer Sale 2027 is next at 15 days.
+Valve lists Thursday, Dec. 17, 2026, to Monday, Jan. 4, 2027. Counting both dates, that is 19 days, and the start is 34 days after Nov. 13. It is the longest entry on the calendar below; the Summer Sale 2027 is next at 15 days.
 
 Our [December 2026 printable calendar](/december-calendars.html) is handy for marking the start date and the Jan. 4 end.
 
@@ -139,9 +140,9 @@ Every row comes from the same Valve page. "Days" counts both the first and last 
 
 Witch Fest ends on Mon., Apr. 26, the day Fighting Fest starts, so the two touch for one day.
 
-## What Steam event is on this week?
+## What Steam event is next?
 
-Steam Scream V Fest runs Mon., Oct. 26, to Mon., Nov. 2, 2026. Valve describes its scope as "Games that fall into the horror category, and explicitly Halloween-centric games." After it, Auto-Battler RPG Fest runs Mon., Nov. 16, to Mon., Nov. 23, 2026.
+Auto-Battler RPG Fest runs Mon., Nov. 16, to Mon., Nov. 23, 2026. Valve describes it as "Games where the battles play themselves out – but you have to upgrade your units to win." Steam Scream V Fest, the horror and Halloween-centric Fest, ran Mon., Oct. 26, to Mon., Nov. 2, 2026, and has ended.
 
 ## When is the Steam Spring Sale 2027?
 
@@ -163,4 +164,4 @@ The printable lists all 19 rows above on one US Letter page, with weekdays and a
 
 ## How we keep this accurate
 
-All dates come from Valve's Upcoming Steam Events page in Steamworks Documentation, checked Oct. 28, 2026. If Valve changes a date or fills in the Autumn Sale, this story and the printable change together.
+All dates come from Valve's Upcoming Steam Events page in Steamworks Documentation, checked Nov. 13, 2026. If Valve changes a date or fills in the Autumn Sale, this story and the printable change together.

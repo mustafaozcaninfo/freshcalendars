@@ -3,7 +3,7 @@ title: "Liga MX Liguilla 2026 Dates: Quarterfinals Nov. 25, Final Dec. 10-13"
 description: "The Liga MX Liguilla starts Nov. 25-26 with no Play-In. Every round by date, the Dec. 24-27 Final date if Toluca reaches it, and a printable."
 type: news
 publishedAt: "2026-11-01T20:55:00-05:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-13T16:12:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Liguilla Apertura 2026 dates", "Liga MX playoffs 2026 schedule", "Liga MX Liguilla 2026 start", "Liga MX final 2026 date", "Cruz Azul Liguilla 2026"]
@@ -43,7 +43,7 @@ summary:
   - "According to Televisa Univision Deportes Network (TUDN) and Claro Sports, the Liga MX Liguilla starts with quarterfinal first legs on Wed., Nov. 25 and Thu., Nov. 26, 2026."
   - "The regular season ends with Jornada 17 on Sun., Nov. 22, there is no Play-In, and the top eight in the general table qualify."
   - "The Final is Dec. 10-13, but both newsrooms say it moves to Dec. 24-27 if Toluca reaches it."
-  - "Kickoff times and U.S. broadcasters are not yet announced."
+  - "Liga MX lists Jornada 17 kickoff times for Nov. 20-22; Liguilla kickoff times and U.S. broadcasters are not yet announced."
 faq:
   - q: "When does the Liguilla start in the Apertura 2026?"
     a: "Quarterfinal first legs are Wed., Nov. 25 and Thu., Nov. 26, 2026, according to TUDN and Claro Sports."
@@ -52,7 +52,7 @@ faq:
   - q: "When is the Liga MX Final 2026?"
     a: "Dec. 10-13, per TUDN and Claro Sports. TUDN says it would be played Dec. 24-27 if Toluca reaches it."
   - q: "What time are Liguilla games?"
-    a: "Kickoff times are not yet announced. The league sets them after Jornada 17, which ends Sun., Nov. 22."
+    a: "Liguilla kickoff times are not yet announced. The league sets them after Jornada 17, which ends Sun., Nov. 22. Liga MX already lists Jornada 17 kickoffs for Nov. 20-22."
   - q: "What is Mexico City time compared with Eastern Time?"
     a: "Mexico City does not use daylight saving time. Since U.S. clocks fell back on Nov. 1, it is 1 hour behind Eastern Time (ET), the same as Central Time (CT)."
 sources:
@@ -69,7 +69,7 @@ sources:
   - title: "Liga MX general table"
     url: "https://ligamx.net"
     publisher: "Liga MX"
-    date: "2026-11-01"
+    date: "2026-11-13"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -98,7 +98,7 @@ draft: false
 
 **The Liga MX (Mexico's top soccer league) Apertura 2026 Liguilla (playoffs) starts with quarterfinal first legs (ida) on Wed., Nov. 25 and Thu., Nov. 26, 2026, after the regular season ends with Jornada 17 on Sun., Nov. 22, according to Televisa Univision Deportes Network (TUDN) and Claro Sports; there is no Play-In this season.** Liga MX's own site, ligamx.net, shows the standings but no Liguilla calendar, so these dates rest on the two newsrooms, which agree.
 
-Below: every round by date, the format, the top eight as of Nov. 1 and the one exception that can move the Final. A one-page printable calendar is included.
+Below: every round by date, the format, the top eight as of Nov. 13, the Jornada 17 kickoffs and the one exception that can move the Final. A one-page printable calendar is included.
 
 ## Liguilla Apertura 2026 dates, round by round
 
@@ -126,24 +126,40 @@ The top eight teams in the general table qualify. Claro Sports lists the quarter
 - In the quarterfinals and semifinals, a tie on aggregate goes to the team that finished higher in the table, per Claro Sports.
 - The Final goes to extra time and penalties if it is tied, per Claro Sports.
 
-## Who would play whom on the Nov. 1 table?
+## Who would play whom on the Nov. 13 table?
 
-These standings come from the Liga MX general table on ligamx.net, read the night of Nov. 1, 2026, before every Jornada 15 game was final. Jornadas 16 and 17 can change them, so this is a snapshot, not a bracket.
+These standings come from the Liga MX general table on ligamx.net, read the evening of Nov. 13, 2026, after Jornada 16. Jornada 17 can still change them, so this is a snapshot, not a bracket.
 
 | Seed | Club | Points | Quarterfinal pairing if unchanged |
 |---|---|---|---|
-| 1 | América | 29 | vs. No. 8 Santos Laguna |
-| 2 | Guadalajara | 29 | vs. No. 7 León |
-| 3 | Atlas | 27 | vs. No. 6 Tijuana |
-| 4 | Cruz Azul | 26 (14 games) | vs. No. 5 Toluca |
-| 5 | Toluca | 24 | vs. No. 4 Cruz Azul |
-| 6 | Tijuana | 22 | vs. No. 3 Atlas |
-| 7 | León | 22 (14 games) | vs. No. 2 Guadalajara |
-| 8 | Santos Laguna | 22 | vs. No. 1 América |
+| 1 | Cruz Azul | 32 | vs. No. 8 Pachuca |
+| 2 | América | 30 | vs. No. 7 León |
+| 3 | Guadalajara | 30 | vs. No. 6 Santos Laguna |
+| 4 | Toluca | 27 | vs. No. 5 Atlas |
+| 5 | Atlas | 27 | vs. No. 4 Toluca |
+| 6 | Santos Laguna | 25 | vs. No. 3 Guadalajara |
+| 7 | León | 23 | vs. No. 2 América |
+| 8 | Pachuca | 22 | vs. No. 1 Cruz Azul |
 
-Source: Liga MX general table (ligamx.net), as of Nov. 1, 2026; pairings follow the 1 vs. 8, 2 vs. 7, 3 vs. 6, 4 vs. 5 format from Claro Sports. The ninth and tenth places hold 21 and 20 points, so the cut line is close.
+Source: Liga MX general table (ligamx.net), as of Nov. 13, 2026; pairings follow the 1 vs. 8, 2 vs. 7, 3 vs. 6, 4 vs. 5 format from Claro Sports. Tijuana is ninth on 22 points, level with Pachuca, and Monterrey and Pumas follow on 21, so the cut line is close. The league has not announced the quarterfinal pairings or dates itself.
 
-Cruz Azul and León, both on 14 games in that table, played each other on Sun., Nov. 1 at 7:10 p.m. Mexico City time (8:10 p.m. Eastern Time (ET)) in Jornada 15, according to Claro Sports. This story does not state the result because it is not confirmed.
+## Jornada 17 kickoffs: the last games before the Liguilla
+
+Liga MX lists all nine Jornada 17 games on ligamx.net. The site shows the times without naming a time zone, and its broadcast field reads "ND" (not defined) for every game, so U.S. channels are not yet announced.
+
+| Date | Time shown | Game |
+|---|---|---|
+| Fri., Nov. 20 | 19:00 | Puebla vs. Atlético San Luis |
+| Fri., Nov. 20 | 21:00 | FC Juárez vs. Atlas |
+| Fri., Nov. 20 | 21:00 | Tijuana vs. Atlante |
+| Sat., Nov. 21 | 16:50 | Pachuca vs. Toluca |
+| Sat., Nov. 21 | 17:00 | Santos Laguna vs. León |
+| Sat., Nov. 21 | 19:00 | Universidad Nacional vs. Monterrey |
+| Sat., Nov. 21 | 21:00 | Tigres vs. América |
+| Sun., Nov. 22 | 17:07 | Guadalajara vs. Cruz Azul |
+| Sun., Nov. 22 | 19:00 | Querétaro vs. Necaxa |
+
+Source: Liga MX (ligamx.net), Nov. 13, 2026. Pachuca, Toluca, Santos Laguna, León and Guadalajara all play in the final round while the top-eight places are still open.
 
 ## Can Toluca move the Final to December 24-27?
 
@@ -151,9 +167,9 @@ Yes. TUDN says the Final would be played Dec. 24-27 instead of Dec. 10-13 if Tol
 
 ## What time are Liguilla games, and what is the time difference?
 
-Kickoff times are not yet announced; the league sets them after Jornada 17. U.S. broadcasters for each match are announced with the kickoff times, so none are listed here.
+Liguilla kickoff times are not yet announced; the league sets them after Jornada 17. U.S. broadcasters for each match are announced with the kickoff times, so none are listed here. Jornada 17 kickoffs are listed above.
 
-Mexico City does not observe daylight saving time. Since U.S. clocks fell back on Nov. 1, Mexico City is 1 hour behind ET, the same as Central Time (CT). A 7:10 p.m. kickoff in Mexico City is 8:10 p.m. ET.
+Mexico City does not observe daylight saving time. Since U.S. clocks fell back on Nov. 1, Mexico City is 1 hour behind ET, the same as Central Time (CT). A 7:00 p.m. kickoff in Mexico City is 8:00 p.m. ET.
 
 ## Where else can I follow the soccer calendar?
 

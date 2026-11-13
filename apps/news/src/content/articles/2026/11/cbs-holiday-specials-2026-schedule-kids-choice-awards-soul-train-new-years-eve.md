@@ -3,6 +3,7 @@ title: "CBS Holiday Schedule 2026: 11 Specials, Nov. 14 to Dec. 31"
 description: "CBS holiday schedule 2026 starts Sat., Nov. 14 with the Kids' Choice Awards at 8 p.m. ET. A table lists all 11 dates in ET and PT, plus a free printable."
 type: news
 publishedAt: "2026-11-01T08:44:00-05:00"
+updatedAt: "2026-11-13T16:13:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["CBS holiday specials 2026 schedule", "Kids' Choice Awards 2026 date time CBS", "Pillsbury Bake-Off 2026 CBS", "New Year's Eve Live Nashville's Big Bash 2026", "Soul Train Awards 2026 CBS"]
@@ -61,13 +62,25 @@ faq:
   - q: "What time is New Year's Eve Live: Nashville's Big Bash on CBS?"
     a: "Thursday, Dec. 31, 2026, in two parts: 8 to 10 p.m. and 10:30 p.m. to 1:05 a.m., listed by CBS as Eastern Time and Pacific Time."
   - q: "Do the CBS holiday specials stream?"
-    a: "The CBS release does not list streaming details, so this story does not state any. Check CBS listings closer to each air date."
+    a: "Two do, per CBS. The JLo Show streams on Paramount+, with an extended version only on Paramount+. New Year's Eve Live: Nashville's Big Bash streams live on Paramount+ (Premium) and the next day. The Oct. 29 release lists no streaming for the others."
   - q: "What time are the CBS specials in Central and Mountain time?"
     a: "CBS lists only ET and PT in its release. Check your local listings for Central and Mountain times."
 sources:
   - title: "STAR-STUDDED SPECIALS TAKE CENTER STAGE THIS NOVEMBER AND DECEMBER ON CBS!"
     url: "https://www.paramountpressexpress.com/paramount-plus/releases/?view=113498-star-studded-specials-take-center-stage-this-november-and-december-on-cbs"
     publisher: "CBS Entertainment (Paramount Press Express)"
+    date: "2026-11-13"
+  - title: "CBS and Paramount+ unveil trailer and first look for The JLo Show premiering Nov. 26"
+    url: "https://www.paramountpressexpress.com/cbs-entertainment/shows/the-jlo-show/releases/"
+    publisher: "CBS Entertainment (Paramount Press Express)"
+    date: "2026-11-11"
+  - title: "Hardy, Little Big Town and The Red Clay Strays to perform on New Year's Eve Live: Nashville's Big Bash"
+    url: "https://www.paramountpressexpress.com/cbs-entertainment/shows/new-years-eve-live-nashvilles-big-bash/releases/?view=113442-hardy-little-big-town-and-the-red-clay-strays-to-perform-on-new-years-eve-live-nashvilles-big-bash-thursday-dec-31-on-cbs"
+    publisher: "CBS Entertainment (Paramount Press Express)"
+    date: "2026-10-20"
+  - title: "BET announces Elmiene will receive the New Soul Honor at the Soul Train Awards, airing Friday, Nov. 27 on BET and CBS"
+    url: "https://www.paramountpressexpress.com/bet/shows/soul-train-awards-2026/releases/"
+    publisher: "BET (Paramount Press Express)"
     date: "2026-10-29"
 internalLinks:
   - href: "/november-calendars.html"
@@ -107,8 +120,8 @@ Times are as CBS lists them. Most specials show the same clock time in Eastern T
 |---|---|---|---|---|---|
 | Nov. 14 | Saturday | 8:00-9:30 p.m. | 5:00-6:30 p.m. | CBS Presents Nickelodeon Kids' Choice Awards | First time on CBS |
 | Nov. 23 | Monday | 8:00-10:00 p.m. | 8:00-10:00 p.m. | Pillsbury Bake-Off Classic | Returning to primetime |
-| Nov. 26 | Thursday | 8:00-10:01 p.m. | 8:00-10:01 p.m. | The JLo Show | Not labeled a repeat |
-| Nov. 27 | Friday | 8:00-10:00 p.m. | 8:00-10:00 p.m. | Soul Train Awards | Not labeled a repeat |
+| Nov. 26 | Thursday | 8:00-10:00 p.m. | 8:00-10:00 p.m. | The JLo Show | Not labeled a repeat |
+| Nov. 27 | Friday | 8:00-10:00 p.m. | 8:00-10:00 p.m. | Soul Train Awards (also on Black Entertainment Television (BET)) | Not labeled a repeat |
 | Nov. 28 | Saturday | 8:00-9:00 p.m. | 8:00-9:00 p.m. | A Paw Patrol Christmas | Repeat |
 | Dec. 5 | Saturday | 8:00-9:00 p.m. | 8:00-9:00 p.m. | Reindeer in Here | Repeat |
 | Dec. 13 | Sunday | 8:00-9:00 p.m. | 8:00-9:00 p.m. | The Price Is Right at Night: Live Holiday Special | Not labeled a repeat |
@@ -118,7 +131,7 @@ Times are as CBS lists them. Most specials show the same clock time in Eastern T
 | Dec. 26 | Saturday | 9:00-10:00 p.m. | 9:00-10:00 p.m. | Voices of Hope | Not labeled a repeat |
 | Dec. 31 | Thursday | 8:00-10:00 p.m. and 10:30 p.m.-1:05 a.m. | 8:00-10:00 p.m. and 10:30 p.m.-1:05 a.m. | New Year's Eve Live: Nashville's Big Bash | Not labeled a repeat |
 
-The last column marks only what CBS states: "repeat" for A Paw Patrol Christmas and Reindeer in Here, the KCAs' first airing on CBS and the Bake-Off's return to primetime. Other titles are shown as not labeled a repeat, because the release does not call them new. The release does not list streaming, so this story does not state it.
+The last column marks only what CBS states: "repeat" for A Paw Patrol Christmas and Reindeer in Here, the KCAs' first airing on CBS and the Bake-Off's return to primetime. Other titles are shown as not labeled a repeat, because the release does not call them new. Later CBS and BET releases add streaming and network details, covered below.
 
 ## When are the Kids' Choice Awards 2026 on CBS?
 
@@ -129,8 +142,8 @@ The Nickelodeon Kids' Choice Awards air Saturday, Nov. 14, 2026, from 8 to 9:30 
 Four fall in the days around [Thanksgiving, Thursday, Nov. 26](/when-is/thanksgiving/), all at 8 p.m. ET and PT.
 
 - **Monday, Nov. 23:** the Pillsbury Bake-Off Classic, 8 to 10 p.m., hosted by Drew Barrymore. CBS describes it as returning to primetime "just in time for Thanksgiving."
-- **Thursday, Nov. 26:** The JLo Show, 8 to 10:01 p.m., a Jennifer Lopez concert special from the Las Vegas stage.
-- **Friday, Nov. 27:** the Soul Train Awards, 8 to 10 p.m.
+- **Thursday, Nov. 26:** The JLo Show: Live in Las Vegas, 8 to 10 p.m., a Jennifer Lopez concert film from her Las Vegas residency. CBS's Nov. 11 release says it also streams on Paramount+, with an extended version only on Paramount+. The Oct. 29 release listed it as 8 to 10:01 p.m.
+- **Friday, Nov. 27:** the Soul Train Awards, 8 to 10 p.m., on BET and CBS per BET's releases. Elmiene receives the New Soul Honor and performs.
 - **Saturday, Nov. 28:** A Paw Patrol Christmas, 8 to 9 p.m., a repeat.
 
 For the parade and football side of the holiday, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
@@ -145,7 +158,7 @@ Saturday, Dec. 26 carries two hours. The Family Film & TV Awards run 8 to 9 p.m.
 
 ## What time is New Year's Eve Live: Nashville's Big Bash on CBS?
 
-New Year's Eve Live: Nashville's Big Bash airs Thursday, Dec. 31, 2026, in two parts: 8 to 10 p.m. and 10:30 p.m. to 1:05 a.m., which CBS lists for both ET and PT. It is live from downtown Nashville. Hardy, Little Big Town and The Red Clay Strays are the first artists CBS announced; the release names no others.
+New Year's Eve Live: Nashville's Big Bash airs Thursday, Dec. 31, 2026, in two parts: 8 to 10 p.m. and 10:30 p.m. to 1:05 a.m., which CBS lists for both ET and PT. It is live from downtown Nashville, and streams live on Paramount+ (Premium) and the next day, per CBS's Oct. 20 release. Hardy, Little Big Town and The Red Clay Strays are the first artists CBS announced; CBS says more performers will be announced later.
 
 ## Can I print the CBS holiday specials 2026 schedule?
 
@@ -153,4 +166,4 @@ The free sheet lists all 11 dates with their ET start times on one US Letter pag
 
 ## Which CBS holiday special details are still missing?
 
-The release does not list streaming, Central or Mountain times, or any artists for New Year's Eve beyond the three named. Networks can change schedules, so check CBS listings before each air date. If CBS updates the list, this story, the table and the printable will change together.
+CBS lists no Central or Mountain times, no streaming details for most of the specials, and no New Year's Eve performers beyond the three named. Networks can change schedules, so check CBS listings before each air date. If CBS updates the list, this story, the table and the printable will change together.

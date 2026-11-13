@@ -1,8 +1,9 @@
 ---
-title: "United Cup 2027: Jan. 1-10 in Perth and Sydney, Draw Nov. 12"
-description: "The United Cup 2027 runs Jan. 1-10 in Perth and Sydney; the draw is Nov. 12. Schedule by round, plus 2026 start times converted to ET and Pacific Time."
+title: "United Cup 2027 Groups, Teams and Schedule: Jan. 1-10"
+description: "The United Cup 2027 runs Jan. 1-10: USA, Poland and Italy play in Perth, Australia and Great Britain in Sydney. All six groups and start times in ET."
 type: explainer
 publishedAt: "2026-11-04T06:50:00-05:00"
+updatedAt: "2026-11-13T16:26:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["united cup 2027", "united cup schedule 2027", "united cup 2027 dates", "united cup draw 2027"]
@@ -19,26 +20,38 @@ hero:
 summary:
   - "The fifth United Cup runs Fri., Jan. 1 to Sun., Jan. 10, 2027, in Perth and Sydney , according to unitedcup.com."
   - "Sydney hosts the two semi-finals on Sat., Jan. 9 and the final on Sun., Jan. 10, 2027."
-  - "The official draw is released Thu., Nov. 12, 2026. The 2027 session times and teams are not yet announced."
-  - "In 2026, Perth sessions began at 10 a.m. and 5 p.m. and Sydney sessions at 10:30 a.m. and 5:30 p.m. local time; the tables below convert those 2026 times."
+  - "The 18 teams and six groups were announced Nov. 11, 2026: Perth hosts Groups A, C and E, Sydney hosts Groups B, D and F."
+  - "The final starts at 5:30 p.m. Sydney time on Sun., Jan. 10, which is 1:30 a.m. ET that day. Other 2027 session times are not yet announced; the tables convert 2026 times."
 faq:
   - q: "When is the United Cup 2027?"
     a: "Fri., Jan. 1 to Sun., Jan. 10, 2027, in Perth and Sydney, according to unitedcup.com."
   - q: "When is the United Cup 2027 draw?"
-    a: "unitedcup.com says the official draw will be released on Thursday, Nov. 12, 2026. The entry deadline is Nov. 10, 2026 at 4 a.m. local Sydney time."
+    a: "The groups were announced Nov. 11, 2026, a day before the Nov. 12 release date the overview gave. Perth hosts Group A (Croatia, Kazakhstan, United States), Group C (Canada, Denmark, Italy) and Group E (Germany, Poland, Switzerland). Sydney hosts Group B (Czechia, Greece, Hungary), Group D (Australia, France, Great Britain) and Group F (Argentina, Belgium, Spain)."
   - q: "What time do United Cup matches start in Eastern Time?"
-    a: "The 2027 session times are not yet announced. In 2026, Perth's day session started at 10 a.m. local time, which is 9 p.m. ET the previous day, and the night session at 5 p.m., which is 4 a.m. ET the same day."
+    a: "The final starts at 5:30 p.m. in Sydney on Jan. 10, which is 1:30 a.m. ET. Other 2027 session times are not yet announced. In 2026, Perth's day session started at 10 a.m. local time, which is 9 p.m. ET the previous day, and the night session at 5 p.m., which is 4 a.m. ET the same day."
   - q: "Where is the United Cup 2027 final?"
-    a: "In Sydney on Sun., Jan. 10, 2027, after two semi-finals there on Sat., Jan. 9, according to unitedcup.com."
+    a: "In Sydney on Sun., Jan. 10, 2027, from 5:30 p.m. local time, after two semi-finals there on Sat., Jan. 9, according to unitedcup.com and Tennis Australia."
 sources:
+  - title: "Major champions Gauff, Noskova, Raducanu among blockbuster United Cup 2027 field"
+    url: "https://www.unitedcup.com/en/media/news/united-cup-2027-field-announced"
+    publisher: "United Cup (unitedcup.com), by Tennis Australia"
+    date: "2026-11-13"
+  - title: "Teams | United Cup | Tennis"
+    url: "https://www.unitedcup.com/en/scores/teams"
+    publisher: "United Cup (unitedcup.com)"
+    date: "2026-11-13"
+  - title: "United Cup Broadcasters"
+    url: "https://www.unitedcup.com/en/about/broadcasters"
+    publisher: "United Cup (unitedcup.com)"
+    date: "2026-11-13"
   - title: "Overview | United Cup | Tennis"
     url: "https://www.unitedcup.com/en/about/overview"
     publisher: "United Cup (unitedcup.com)"
-    date: "2026-11-04"
+    date: "2026-11-13"
   - title: "2027 Tickets"
     url: "https://www.unitedcup.com/en/tickets/tickets-finals"
     publisher: "United Cup (unitedcup.com)"
-    date: "2026-11-04"
+    date: "2026-11-13"
   - title: "United Cup 2026 schedule released"
     url: "https://www.unitedcup.com/en/media/news/united-cup-2026-schedule-released"
     publisher: "United Cup (unitedcup.com)"
@@ -53,14 +66,14 @@ assets:
   overlay: true
   kicker: "United Cup · Jan. 1-10, 2027"
   date: "2027-01-01"
-  card: { top: "Final in Sydney", big: "Jan. 10", bottom: "Draw out Thu., Nov. 12" }
+  card: { top: "Final in Sydney", big: "Jan. 10", bottom: "18 teams, six groups set" }
   printable:
     kit: fact-table
     slug: united-cup-2027-schedule-fact-table
     group: united-cup-2027
     title: "United Cup 2027 Schedule by City and Round, Jan. 1-10"
     subtitle: "Perth and Sydney dates from the official overview"
-    note: "Source: unitedcup.com, Overview (checked Nov. 4, 2026). The 2027 session times, teams and draw are not yet announced; the draw is due Nov. 12."
+    note: "Source: unitedcup.com, Overview (checked Nov. 13, 2026). The teams and groups were announced Nov. 11; most 2027 session times are not yet announced."
     description: "A one-page schedule marking each United Cup 2027 round in Perth and Sydney, from the Jan. 1 start to the Jan. 10 final."
     alt: "United Cup 2027 schedule by city and round with group stage, quarter-finals, semi-finals and final"
     data:
@@ -76,7 +89,7 @@ assets:
         - { cells: { round: "Semi-finals (two)", city: "Sydney", dates: "Jan. 9" }, src: 1 }
         - { cells: { round: "Final", city: "Sydney", dates: "Jan. 10" }, src: 1 }
       unconfirmed:
-        - { label: "2027 session times and teams", why: "not yet announced; the official draw is due Nov. 12, 2026" }
+        - { label: "2027 session times except the final", why: "not yet announced; the final starts 5:30 p.m. Sydney time" }
 draft: false
 downloads:
   - group: "United Cup 2027 Schedule by City and Round printables"
@@ -89,7 +102,7 @@ downloads:
     pages: 1
 ---
 
-**The United Cup 2027 will be played from Fri., Jan. 1 to Sun., Jan. 10, 2027, in Perth and Sydney, according to unitedcup.com, the event's official site.** The site calls it the fifth edition. The official draw "will be released on Thursday 12 November." The 2027 session times are not yet announced, so the time tables below use 2026 start times and are labeled that way.
+**The United Cup 2027 will be played from Fri., Jan. 1 to Sun., Jan. 10, 2027, in Perth and Sydney, according to unitedcup.com, the event's official site.** The site calls it the fifth edition. Tennis Australia announced the 18 teams and six groups on Nov. 11, 2026. Only the final's start time, 5:30 p.m. in Sydney, is announced for 2027, so the other times below use 2026 start times and are labeled that way.
 
 ## United Cup 2027 schedule by round
 
@@ -112,27 +125,41 @@ Per the overview, 18 countries qualify and each city hosts nine teams in three g
 
 Group winners in each city reach the quarter-finals, plus one spot in each city for the best runner-up there. Australia is guaranteed entry. The entry deadline is Nov. 10, 2026 at 4:00 a.m. Australian Eastern Daylight Time (AEDT), which is noon on Mon., Nov. 9 in Eastern Time (ET), by our conversion.
 
-## When is the United Cup 2027 draw, and who plays?
+## United Cup 2027 draw: groups and teams
 
-The draw is due Thu., Nov. 12, 2026. The teams and players are not yet announced. The entry deadline is Nov. 10, and the draw is due two days later, so check unitedcup.com after Nov. 12 for the groups.
+Tennis Australia announced the field on Nov. 11, 2026. Its release says Perth hosts nine teams and Sydney nine, in three groups of three each. The group letters below come from the unitedcup.com teams page.
+
+| City | Group | Teams |
+|---|---|---|
+| Perth | A | Croatia, Kazakhstan, United States |
+| Perth | C | Canada, Denmark, Italy |
+| Perth | E | Germany, Poland, Switzerland |
+| Sydney | B | Czechia, Greece, Hungary |
+| Sydney | D | Australia, France, Great Britain |
+| Sydney | F | Argentina, Belgium, Spain |
+
+The release names Grand Slam champions Coco Gauff, Linda Nosková and Emma Raducanu in the field, and says 12 of the world's top 20 players are entered. It also says Talia Gibson and Rinky Hijikata lead Australia. Participation is subject to Association of Tennis Professionals (ATP) rules, and players can withdraw. Two more qualification dates remain: Nov. 16 for the Women's Tennis Association (WTA) and Nov. 23 for the ATP, when a top-10 player can qualify a team at the expense of a combined-ranking team, per the overview. The unitedcup.com schedule page has not posted match-by-match times.
 
 ## What time do matches start in the U.S. and UK?
 
-For 2026, unitedcup.com said Perth's day session started at 10:00 a.m. and the night session at 5:00 p.m. local time. In Sydney the day session began at 10:30 a.m. and the second session at 5:30 p.m. The 2027 times are not yet announced.
+For 2026, unitedcup.com said Perth's day session started at 10:00 a.m. and the night session at 5:00 p.m. local time. In Sydney the day session began at 10:30 a.m. and the second session at 5:30 p.m. Tennis Australia has announced one 2027 time, the final, below. The other 2027 times are not yet announced.
 
 In January, Perth is on Australian Western Standard Time (AWST), UTC+8. Sydney is on AEDT, UTC+11. Greenwich Mean Time (GMT) is UTC+0, ET is UTC-5 and Pacific Time (PT) is UTC-8. The table applies the 2026 start times to the first day of each city, Fri., Jan. 1 in Perth and Sat., Jan. 2 in Sydney.
 
-| Start (2026 time) | GMT | ET | PT |
+| Start (2026 times, except the final) | GMT | ET | PT |
 |---|---|---|---|
 | Perth, 10 a.m. Fri., Jan. 1 | 2 a.m. Fri., Jan. 1 | 9 p.m. Thu., Dec. 31 | 6 p.m. Thu., Dec. 31 |
 | Perth, 5 p.m. Fri., Jan. 1 | 9 a.m. Fri., Jan. 1 | 4 a.m. Fri., Jan. 1 | 1 a.m. Fri., Jan. 1 |
 | Sydney, 10:30 a.m. Sat., Jan. 2 | 11:30 p.m. Fri., Jan. 1 | 6:30 p.m. Fri., Jan. 1 | 3:30 p.m. Fri., Jan. 1 |
 | Sydney, 5:30 p.m. Sat., Jan. 2 | 6:30 a.m. Sat., Jan. 2 | 1:30 a.m. Sat., Jan. 2 | 10:30 p.m. Fri., Jan. 1 |
+| Sydney final, 5:30 p.m. Sun., Jan. 10 (2027 time) | 6:30 a.m. Sun., Jan. 10 | 1:30 a.m. Sun., Jan. 10 | 10:30 p.m. Sat., Jan. 9 |
 
-A Sydney night session reaches the U.S. East Coast in the small hours. In 2026, the final started from 5:30 p.m. on Sunday, Jan. 11 in Sydney; at the same 2027 start, Sunday, Jan. 10, that is 1:30 a.m. ET and 10:30 p.m. PT on Saturday, Jan. 9. Use the [printable weekly calendar](/printable-weekly-calendar.html) to plan overnight viewing.
+A Sydney night session reaches the U.S. East Coast in the small hours. The 2027 final starts at 5:30 p.m. on Sunday, Jan. 10 in Sydney, which is 1:30 a.m. ET on Sunday and 10:30 p.m. PT on Saturday, Jan. 9. Use the [printable weekly calendar](/printable-weekly-calendar.html) to plan overnight viewing.
 
 ## Tickets, TV and what comes next
 
-unitedcup.com lists "2027 Tickets" and says "Tickets on sale now!" It gives no prices or session times. The 2027 broadcasters are not yet announced.
+unitedcup.com lists "2027 Tickets" and says "Tickets on sale now!" Tennis Australia says tickets for all sessions are on sale through Ticketmaster in Sydney and Ticketek in Perth, with group-stage and finals tickets from $45. The release does not name the currency.
+
+The unitedcup.com broadcasters page lists Tennis Channel for the USA, Sky UK for the UK and Ireland, and The Sports Network (TSN) and Réseau des sports (RDS) for Canada. It does not say which sessions each channel shows, and it does not mark the list as 2027-only.
 
 The tournament leads into the next Grand Slam: our [Australian Open 2027 guide](/news/australian-open-2027-dates-schedule-us-uk-time-zones-tv/) covers the Jan. 11-31 dates at Melbourne Park, which start the day after the United Cup final. For other tennis team events, see the [Davis Cup Final 8 guide](/news/davis-cup-final-8-2026-bologna-schedule-time-zones-teams/).

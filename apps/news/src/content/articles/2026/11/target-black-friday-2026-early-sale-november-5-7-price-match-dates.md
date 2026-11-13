@@ -1,9 +1,9 @@
 ---
-title: "Target Black Friday 2026: Early Deals Nov. 5-7, Price Match to Dec. 24"
-description: "Target's Early Black Friday deals run Thu., Nov. 5, to Sat., Nov. 7, 2026. Deal of the Day started Nov. 1, and the Holiday Price Match runs to Dec. 24."
+title: "Target Black Friday 2026: Opens 6 a.m. Nov. 27, Price Match to Dec. 24"
+description: "Target opens at 6 a.m. on Black Friday, Nov. 27, 2026, and its price match runs to Dec. 24. Early Black Friday ran Nov. 5-7; Cyber Monday is not dated."
 type: news
 publishedAt: "2026-11-01T06:46:00-05:00"
-updatedAt: "2026-11-06T12:03:00-05:00"
+updatedAt: "2026-11-13T16:11:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["target black friday 2026", "target early black friday sale 2026", "target price match holiday 2026", "target deal of the day 2026"]
@@ -33,7 +33,7 @@ assets:
       - ["Sat., Dec. 26", "Extended return window begins"]
       - ["Fri., Jan. 8, 2027", "Apple, Beats and mobile phone returns due"]
       - ["Sun., Jan. 24, 2027", "Electronics, entertainment and most Target Plus returns due"]
-    note: "Source: Target press release, Oct. 21, 2026, Target Help FAQs, Nov. 4, 2026, and Target holiday shopping fact sheet, Nov. 5, 2026. Tip: keep your receipt and request a price match on or before Dec. 24."
+    note: "Source: Target press release, Oct. 21, 2026, Target Help FAQs and Target holiday shopping fact sheet, Nov. 5, 2026. Tip: keep your receipt and request a price match on or before Dec. 24."
     description: "One-page Target holiday deals calendar for 2026: Early Black Friday Nov. 5-7, Deal of the Day, price match to Dec. 24, holiday store hours and return dates."
     alt: "Printable list of Target holiday deal and price match dates for 2026"
 hero:
@@ -47,17 +47,17 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Target_Store_Georgia_and_Eastern_-_Washington,_DC.jpg"
     author: "Farragutful"
 summary:
-  - "Target's Early Black Friday deals run Thursday, Nov. 5, through Saturday, Nov. 7, 2026, according to its Oct. 21 press release."
-  - "A new Deal of the Day started Nov. 1 and continues through Dec. 24; Target's Holiday Price Match also runs Nov. 1 to Dec. 24."
   - "Target stores are closed Thursday, Nov. 26, and open at 6 a.m. local time on Friday, Nov. 27, 2026, according to Target's Nov. 5 holiday shopping fact sheet."
+  - "A new Deal of the Day runs every day through Dec. 24, and Target's Holiday Price Match runs Nov. 1 to Dec. 24. Target's Early Black Friday deals ran Nov. 5-7, 2026."
+  - "Target says to expect limited-time offers most Thursdays through Saturdays and sales for Black Friday and Cyber Monday, but it has not dated them."
   - "Returns start Dec. 26: electronics and entertainment are due by Jan. 24, 2027, and Apple, Beats and mobile phones by Jan. 8, 2027. Target has not announced 2026 Black Friday week dates, Cyber Monday dates or Target Circle 360 early access."
 faq:
   - q: "When is Target's Early Black Friday sale in 2026?"
-    a: "Thursday, Nov. 5, through Saturday, Nov. 7, 2026, according to Target's Oct. 21 press release. The release adds new limited-time offers every weekend through the holiday season."
+    a: "It ran Thursday, Nov. 5, through Saturday, Nov. 7, 2026, according to Target's Oct. 21 press release, and has ended. Target's Nov. 5 fact sheet says to expect limited-time offers most Thursdays through Saturdays, plus sales for Black Friday and Cyber Monday, without dates."
   - q: "Does Target have a holiday price match in 2026?"
     a: "Yes. Target Help says that starting Nov. 1, 2026, if you buy an item in store or online and the price goes lower at Target on or before Dec. 24, 2026, you can request a price match."
   - q: "When is Target Deal of the Day in 2026?"
-    a: "A new Deal of the Day started Nov. 1 and runs every day through Dec. 24, per Target's release. The release also mentions a first-ever one-day preview of upcoming offers."
+    a: "A new Deal of the Day started Nov. 1 and runs every day through Dec. 24, per Target's release. The fact sheet says you can preview the next day's deal one day in advance."
   - q: "What time do Target stores open on Black Friday 2026?"
     a: "Target's Nov. 5, 2026 fact sheet says stores open at 6 a.m. local time on Friday, Nov. 27, and close at the current closing time."
   - q: "Is Target open on Thanksgiving 2026?"
@@ -72,11 +72,11 @@ sources:
   - title: "Holiday Help FAQs"
     url: "https://www.target.com/help/articles/holiday-help/holiday-help-faqs"
     publisher: "Target"
-    date: "2026-11-04"
+    date: "2026-11-13"
   - title: "2026 Holiday Shopping at Target: Answers to Guests' Most Frequently Asked Questions"
     url: "https://corporate.target.com/press/fact-sheet/2026/11/holiday-shopping-information"
     publisher: "Target"
-    date: "2026-11-05"
+    date: "2026-11-13"
   - title: "Target Early Black Friday Deals and Holiday Savings"
     url: "https://corporate.target.com/press/fact-sheet/2025/10/holiday-savings"
     publisher: "Target"
@@ -103,7 +103,7 @@ downloads:
 draft: false
 ---
 
-**Target's Early Black Friday deals run Thursday, Nov. 5, through Saturday, Nov. 7, 2026, according to the company's Oct. 21 press release.** Deal of the Day started Nov. 1, and the Holiday Price Match runs Nov. 1 to Dec. 24. Stores are closed Thanksgiving Day and open at 6 a.m. local time on Black Friday, Nov. 27, according to Target's Nov. 5 holiday shopping fact sheet. Purchases from Nov. 1 to Dec. 24 get extended returns, with electronics and entertainment due by Jan. 24, 2027. The table below sets Target's 2026 dates beside last year's, and a one-page printable lists them with the dates Target has not yet announced.
+**Target stores are closed Thanksgiving Day, Thursday, Nov. 26, and open at 6 a.m. local time on Black Friday, Nov. 27, 2026, according to the company's Nov. 5 holiday shopping fact sheet.** The Holiday Price Match runs to Dec. 24, and a new Deal of the Day runs every day through Dec. 24. Early Black Friday deals ran Thursday, Nov. 5, through Saturday, Nov. 7, according to Target's Oct. 21 press release. Target has not dated its Black Friday or Cyber Monday sales. Purchases from Nov. 1 to Dec. 24 get extended returns, with electronics and entertainment due by Jan. 24, 2027. The table below sets Target's 2026 dates beside last year's, and a one-page printable lists them with the dates Target has not yet announced.
 
 ## Target holiday deal dates for 2026 and 2025
 
@@ -111,7 +111,7 @@ draft: false
 |---|---|---|
 | Deal of the Day | Nov. 1 to Dec. 24 | Not in our sources |
 | Holiday Price Match | Nov. 1 to Dec. 24 | Nov. 1 to Dec. 24 |
-| Early Black Friday sale | Thu., Nov. 5, to Sat., Nov. 7 | Nov. 6-8 |
+| Early Black Friday sale | Ended: Thu., Nov. 5, to Sat., Nov. 7 | Nov. 6-8 |
 | Black Friday week | Not yet announced | Sun., Nov. 23, to Sat., Nov. 29 |
 | Thanksgiving Day stores | All stores closed | Not in our sources |
 | Black Friday store opening | 6 a.m. local time | 6 a.m. local time |
@@ -135,13 +135,13 @@ The fact sheet also says "New this year, you can preview the next day's featured
 
 ## What does Target's 2026 release say about the Early Black Friday sale?
 
-The release says "Early Black Friday deals run Nov. 5-7, followed by new limited-time offers every weekend throughout the holiday season." It also says that "Beginning Nov. 1, guests can shop a new Deal of the Day every day through Dec. 24," plus "a first-ever one-day preview of upcoming offers." The release does not say which day that preview falls on, and it gives no times for the Nov. 5-7 sale.
+The Early Black Friday sale has ended. The release said "Early Black Friday deals run Nov. 5-7, followed by new limited-time offers every weekend throughout the holiday season." It also says that "Beginning Nov. 1, guests can shop a new Deal of the Day every day through Dec. 24," plus "a first-ever one-day preview of upcoming offers." The release did not say which day that preview falls on, and it gave no times for the Nov. 5-7 sale. The Nov. 5 fact sheet says "Guests can look forward to limited-time offers most Thursdays through Saturdays throughout the holiday season, as well as sales for key moments like Black Friday and Cyber Monday." It names no dates for those sales.
 
 ## How does Target's 2026 Holiday Price Match work?
 
 Target Help states: "Starting November 1, 2026, if you purchase an item in store or online and the price goes lower at Target on or before December 24, 2026, you can request a price match." The page adds that Target Plus purchases made online get a price adjustment if the price drops on or before Dec. 24, 2026.
 
-The practical dates are short. Keep your receipt, watch for a price drop, and make the request by Thursday, Dec. 24. This policy covers Target's own price drops. For how Best Buy, Walmart and Target treat competitors' prices, see our [Black Friday 2026 price match policy story](/news/black-friday-2026-price-match-policy-stores/).
+The practical dates are short. Keep your receipt, watch for a price drop, and make the request by Thursday, Dec. 24. Target Help says price matches may be requested at the time of purchase or within 14 days after purchase, with an original receipt or packing slip for adjustments. This policy covers Target's own price drops. For how Best Buy, Walmart and Target treat competitors' prices, see our [Black Friday 2026 price match policy story](/news/black-friday-2026-price-match-policy-stores/).
 
 ## What are Target's extended holiday return dates for 2026?
 
@@ -157,8 +157,8 @@ Jan. 8, 2027, is a Friday. The fact sheet refers to extended returns for Target 
 
 ## What has Target not announced for Black Friday 2026?
 
-- Black Friday week dates. In 2025, Target said its Black Friday experience ran Sunday, Nov. 23, through Saturday, Nov. 29.
-- Cyber Monday dates. In 2025, the event ran Nov. 30 to Dec. 1.
+- Black Friday sale dates. In 2025, Target said its Black Friday experience ran Sunday, Nov. 23, through Saturday, Nov. 29.
+- Cyber Monday sale dates. In 2025, the event ran Nov. 30 to Dec. 1.
 - Target Circle 360 early access dates.
 
 Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Target, Walmart and Best Buy as they publish. Walmart's schedule is different and is covered in our [Walmart Black Friday 2026 dates story](/news/walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access/).

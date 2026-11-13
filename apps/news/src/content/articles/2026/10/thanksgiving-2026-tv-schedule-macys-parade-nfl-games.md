@@ -3,7 +3,7 @@ title: "Thanksgiving 2026 TV Schedule: 100th Macy's Parade at 8:30 a.m."
 description: "The 100th Macy's Thanksgiving Day Parade airs Thu., Nov. 26 at 8:30 a.m. on NBC. Every NFL game from Nov. 25-27 with channels, plus a printable."
 type: news
 publishedAt: "2026-10-22T12:55:00-04:00"
-updatedAt: "2026-11-05T12:17:00-05:00"
+updatedAt: "2026-11-13T16:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Thanksgiving 2026 TV schedule", "Macy's Thanksgiving Day Parade 2026", "NFL Thanksgiving games 2026", "what channel is the Macy's parade on", "Thanksgiving Eve game 2026"]
@@ -55,7 +55,7 @@ faq:
   - q: "Is there an NFL game on Thanksgiving Eve?"
     a: "Yes, for the first time. The Green Bay Packers play the Los Angeles Rams at SoFi Stadium on Wednesday, Nov. 25, at 8 p.m. ET, streaming on Netflix."
   - q: "Who is hosting the Macy's parade broadcast in 2026?"
-    a: "NBC has not announced 2026 hosts or performers yet. Last year's hosts were Savannah Guthrie, Hoda Kotb and Al Roker."
+    a: "NBCUniversal says Today show's Savannah Guthrie, Hoda Kotb and Al Roker return as hosts. NBC airs an encore at 2 p.m. ET/PT."
 sources:
   - title: "Macy's Kicks Off the 100-Day Countdown to the 100th Macy's Thanksgiving Day Parade"
     url: "https://www.macysinc.com/newsroom/news/news-details/2026/Macys-Kicks-Off-the-100-Day-Countdown-to-the-100th-Macys-Thanksgiving-Day-Parade/default.aspx"
@@ -74,10 +74,10 @@ sources:
     url: "https://dallascowboys.com/news/miranda-lambert-to-perform-cowboys-30th-annual-thanksgiving-halftime-show"
     publisher: "Dallas Cowboys"
     date: "2026-10-25"
-  - title: "America's Most-Watched Entertainment Telecast of the Year, Macy's Thanksgiving Day Parade, Returns Live on NBC"
-    url: "https://www.nbcuniversal.com/article/americas-most-watched-entertainment-telecast-year-macys-thanksgiving-day-parader-returns-live-nbc"
+  - title: "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions"
+    url: "https://www.nbcuniversal.com/article/100th-macys-thanksgiving-day-parade-returns-live-nbc-and-peacock-nov-26-bringing-holiday-magic-life"
     publisher: "NBCUniversal"
-    date: "2025-11-03"
+    date: "2026-11-13"
   - title: "Let's Talk Turkey: A Consumer Guide to Safely Roasting a Turkey"
     url: "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/lets-talk-turkey-roasting"
     publisher: "USDA Food Safety and Inspection Service"
@@ -111,8 +111,6 @@ downloads:
     pages: 1
 draft: false
 ---
-
-<p class="callout"><b>Updated Thu., Nov. 5, 2026.</b> The NFL has announced that U2 will headline the halftime show of the Thanksgiving Eve game, Packers at Rams, on Wednesday, Nov. 25, live on Netflix. The Dallas Cowboys announced on Oct. 25 that Miranda Lambert will perform at halftime of Eagles at Cowboys on Thursday, Nov. 26. Halftime performers for Bears at Lions and Chiefs at Bills have not been announced.</p>
 
 **The 100th Macy's Thanksgiving Day Parade airs on Thursday, Nov. 26, 2026, starting at 8:30 a.m. in all time zones on NBC and Peacock.** Telemundo carries it in Spanish. Around it, the National Football League (NFL) has packed five games into three days, including its first game on Thanksgiving Eve.
 
@@ -152,7 +150,14 @@ The broadcast starts at 8:30 a.m. in every time zone. In Chicago that is 8:30 a.
 
 ### Hosts and performers
 
-NBC has not announced the 2026 hosts or musical acts. Last year's broadcast was hosted by Savannah Guthrie, Hoda Kotb and Al Roker, and NBC aired an encore at 2 p.m. ET/PT. Treat both as last year's details until NBC posts this year's schedule.
+NBCUniversal announced on Nov. 13 that Today show's Savannah Guthrie, Hoda Kotb and Al Roker return as hosts. NBC airs an encore at 2 p.m. ET/PT. Telemundo also airs the parade live.
+
+Float performers named so far include Baha Men, Natasha Bedingfield, Blues Traveler, Feid, Icona Pop, Il Volo, Indigo Girls, Jimmy Fallon & The Roots, JoJo, Queen Latifah, Natalie Merchant, Leslie Odom Jr., Keke Palmer, Anthony Ramos and Smash Mouth. Megan Moroney and Teddy Swims perform from Herald Square, and Megan Hilty leads a tribute to Dolly Parton. NBCUniversal says more talent, including Broadway performances, will be announced in the coming weeks.
+
+The route runs 2.5 miles from Manhattan's Upper West Side to Macy's Herald Square, according to NBCUniversal. Two other NBC programs lead into the day:
+
+- **America's Parade: 100 Years of Macy's Thanksgiving Day Parade**, a documentary, airs Fri., Nov. 20 at 9 p.m. ET/PT on NBC and streams on Peacock the next day.
+- **Countdown to Macy's Thanksgiving Day Parade** airs Wed., Nov. 25 at 8 p.m. ET/PT on NBC and Peacock.
 
 ## NFL games on Thanksgiving 2026
 

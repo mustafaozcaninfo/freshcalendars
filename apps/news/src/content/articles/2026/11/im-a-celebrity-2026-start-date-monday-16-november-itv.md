@@ -1,8 +1,9 @@
 ---
 title: "I'm A Celebrity 2026 Start Date: Monday 16 November at 9pm on ITV1"
-description: "I'm A Celebrity 2026 starts Monday, 16 November at 9pm GMT on ITV1, a day later than first planned after an England match clash. Ant and Dec host again."
+description: "I'm A Celebrity 2026 starts Monday, 16 November at 9pm GMT on ITV1, a day later than planned. Ant and Dec host; 11 campmates are named."
 type: news
 publishedAt: "2026-11-06T13:49:00-05:00"
+updatedAt: "2026-11-13T16:14:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["i'm a celebrity 2026 start date", "when does i'm a celeb start 2026", "i'm a celeb 2026 time", "i'm a celebrity 2026 line-up"]
@@ -35,7 +36,6 @@ assets:
       unconfirmed:
         - { label: "I'm A Celebrity…Unpacked air time", why: "ITV2 start time not announced" }
         - { label: "2026 series final date", why: "not yet announced" }
-        - { label: "2026 official line-up", why: "not yet confirmed by ITV" }
 hero:
   src: ../../../../assets/news/im-a-celebrity-2026-start-date-monday-16-november-itv/im-a-celebrity-2026-start-date-monday-16-november-itv.webp
   alt: "Subtropical rainforest in eastern Australia, the region where I'm A Celebrity 2026 is filmed"
@@ -51,14 +51,14 @@ summary:
   - "I'm A Celebrity 2026 launches on Monday, 16 November at 9pm Greenwich Mean Time (GMT) on ITV1, STV, ITVX and STV Player, Capital and What To Watch report."
   - "The launch moved back a day after a clash with England's Union of European Football Associations (UEFA) Nations League match against Spain at 7.45pm GMT on Sunday, 15 November, per England Football."
   - "Ant McPartlin and Declan Donnelly host again; the show returns to its Australian jungle home near Murwillumbah, New South Wales, What To Watch says."
-  - "ITV has not announced the 2026 final date or the official line-up; in 2025 the series ran from 16 November to 7 December."
+  - "ITV announced 11 campmates, led by Wayne Rooney, Joanna Page and Ricky Wilson, TV Guide and PinkNews report; the 2026 final date is not yet announced, and in 2025 the series ran from 16 November to 7 December."
 faq:
   - q: "What time does I'm A Celebrity 2026 start?"
     a: "The 2026 series launches at 9pm Greenwich Mean Time (GMT) on Monday, 16 November, which is 4pm Eastern Time (ET), 3pm Central, 2pm Mountain and 1pm Pacific, Capital and What To Watch report."
   - q: "Who hosts I'm A Celebrity 2026?"
     a: "Ant McPartlin and Declan Donnelly host again, Capital and What To Watch report. I'm A Celebrity…Unpacked returns on ITV2 and ITVX with Sam Thompson and Kemi Rodgers."
   - q: "Has the 2026 line-up been confirmed?"
-    a: "No. ITV has not confirmed the official 2026 line-up, and the series final date has not been announced."
+    a: "Yes. ITV announced 11 campmates: Wayne Rooney, AJ Odudu, Ricky Wilson, Chloe Burrows, Ade Adepitan, Mariella Frostrup, Sharky, Claire Sweeney, Jack Skipper, Joanna Page and Leomie Anderson, TV Guide and PinkNews report. The series final date has not been announced."
 sources:
   - title: "I'm A Celebrity 2026 Start Date Revealed"
     url: "https://www.capitalfm.com/news/tv-film/im-a-celebrity/2026-start-date-revealed/"
@@ -72,6 +72,14 @@ sources:
     url: "https://www.englandfootball.com/articles/2026/Feb/13/uefa-nations-league-2026-27-fixture-dates-confirmed-20261302"
     publisher: "England Football (The Football Association)"
     date: "2026-02-13"
+  - title: "I'm A Celebrity 2026 line-up officially confirmed, but one big rumoured name is missing"
+    url: "https://www.tvguide.co.uk/articles/im-a-celebrity-2026-line-up-revealed-wayne-rooney-leigh-francis-joanna-page/"
+    publisher: "TV Guide"
+    date: "2026-11-11"
+  - title: "I'm A Celebrity makes history as 2026 line-up finally confirmed by ITV"
+    url: "https://www.thepinknews.com/2026/11/11/im-a-celebrity-get-me-out-of-here-2026-line-up/"
+    publisher: "PinkNews"
+    date: "2026-11-11"
   - title: "I'm A Celebrity 2026 start date"
     url: "https://www.heart.co.uk/showbiz/tv-movies/im-a-celebrity/2026-start-date/"
     publisher: "Heart"
@@ -98,7 +106,25 @@ I'm A Celebrity returns for 2026 on Monday, 16 November at 9pm Greenwich Mean Ti
 
 The press centre of Independent Television (ITV) could not be reached for this story, so each date below is carried by two independent newsrooms: Capital, part of Global, and What To Watch, part of Future plc. What To Watch says the series starts on 16 November "at 9 p.m. GMT" and will air on ITV1; Capital lists the broadcaster's channels and streaming services, including ITV1 and Scottish Television (STV). The date, 16 November 2026, falls on a Monday.
 
-Ant McPartlin and Declan Donnelly host again, both sources report, and What To Watch says the show "returns to its familiar home in the Australian jungle, near Murwillumbah in New South Wales."
+Ant McPartlin and Declan Donnelly host again, both sources report, and What To Watch says the show "returns to its familiar home in the Australian jungle, near Murwillumbah in New South Wales." TV Guide and PinkNews, two more newsrooms, also carry the Monday, 16 November launch, and TV Guide gives 9pm on ITV1.
+
+## I'm A Celebrity 2026 line-up
+
+ITV announced the line-up before the launch, TV Guide and PinkNews report. TV Guide counts 11 campmates and notes that Leigh Francis, who had been reported as joining, is not on ITV's list. Ade Adepitan is the first wheelchair user to take part, PinkNews reports.
+
+| Campmate | Described by TV Guide as |
+|---|---|
+| Wayne Rooney | Football legend |
+| Chloe Burrows | TV personality and radio DJ |
+| Ricky Wilson | Kaiser Chiefs star |
+| Joanna Page | Actor |
+| Ade Adepitan | Paralympian and TV presenter |
+| Sharky | Content creator |
+| AJ Odudu | TV presenter |
+| Jack Skipper | Comedian |
+| Leomie Anderson | Supermodel |
+| Claire Sweeney | Soap icon |
+| Mariella Frostrup | Broadcaster and journalist |
 
 ## I'm A Celebrity 2026 start time in US and Canadian time zones
 
@@ -133,6 +159,6 @@ The spin-off I'm A Celebrity…Unpacked returns live on ITV2, Capital reports, h
 
 ## How long I'm A Celebrity ran in 2025
 
-In 2025, the series began on Sunday, 16 November and ended with the final on Sunday, 7 December, a run of 21 days, Capital and Heart report; Angry Ginge won. ITV has not announced the 2026 final date or the official line-up, so reported campmate names remain unconfirmed.
+In 2025, the series began on Sunday, 16 November and ended with the final on Sunday, 7 December, a run of 21 days, Capital and Heart report; Angry Ginge won. ITV has not announced the 2026 final date.
 
 The launch joins a run of autumn British television. To mark the dates, see our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html); other entries this season include [Children in Need on Friday, 13 November](/news/children-in-need-2026-date-friday-13-november-appeal-night/), [Strictly Come Dancing](/news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/) and the next series of [The Traitors](/news/the-traitors-2027-start-date-series-5-bbc/).

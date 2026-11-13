@@ -3,7 +3,7 @@ title: "Thanksgiving College Football 2026: Every Game, Nov. 26-28"
 description: "College football games on Thanksgiving 2026: a Texas Tech game Nov. 26 at 8 p.m. ET on ESPN. Every college and NFL game Nov. 25-28 in one table."
 type: news
 publishedAt: "2026-10-23T15:00:00-04:00"
-updatedAt: "2026-11-07T07:18:00-05:00"
+updatedAt: "2026-11-13T16:07:00-05:00"
 authors: [jessica-hartwell]
 corrections:
   - date: "2026-10-24T01:40:00-04:00"
@@ -25,7 +25,7 @@ assets:
     group: thanksgiving-2026
     title: "Thanksgiving Football Schedule 2026, Nov. 25-28"
     subtitle: "Every NFL and college game, Eastern Time unless noted"
-    note: "Source: NFL.com 2026 schedule release; Mississippi State and Ole Miss athletics (Egg Bowl); Iowa Athletics; Texas Tech Athletics (Texas Christian University (TCU) at Texas Tech); Dallas Cowboys (halftime); Texas A&M Athletics; FOX Sports (Ohio State vs. Michigan); CBS Sports and Sports Illustrated on the SEC and Georgia schedules. Times marked to be announced are set by TV partners closer to the game."
+    note: "Source: NFL.com 2026 schedule release; Mississippi State and Ole Miss athletics (Egg Bowl); Iowa Athletics; Texas Tech Athletics (Texas Christian University (TCU) at Texas Tech); Dallas Cowboys and Detroit Lions (halftime); Texas A&M Athletics; FOX Sports (Ohio State vs. Michigan); CBS Sports and Sports Illustrated on the SEC and Georgia schedules. Times marked to be announced are set by TV partners closer to the game."
     description: "Every Thanksgiving weekend 2026 football game on one page: the NFL slate and college rivalry weekend from Wednesday, Nov. 25 to Saturday, Nov. 28."
     alt: "Thanksgiving football schedule 2026 printable listing every NFL and college game from Nov. 25 to Nov. 28 with Eastern Time kickoffs and TV channels"
     data:
@@ -33,7 +33,7 @@ assets:
       layout: table
       events:
         - { start: "2026-11-25T20:00-05:00", title: "Packers at Rams", detail: "NFL Thanksgiving Eve; U2 halftime", channel: "Netflix", src: 2 }
-        - { start: "2026-11-26T13:00-05:00", title: "Bears at Lions", detail: "NFL", channel: "CBS", src: 1 }
+        - { start: "2026-11-26T13:00-05:00", title: "Bears at Lions", detail: "NFL; Wu-Tang Clan halftime", channel: "CBS", src: 16 }
         - { start: "2026-11-26T16:30-05:00", title: "Eagles at Cowboys", detail: "NFL; Miranda Lambert halftime", channel: "FOX", src: 1 }
         - { start: "2026-11-26T20:00-05:00", title: "TCU at Texas Tech", detail: "College; Jones AT&T Stadium, Lubbock", channel: "ESPN", src: 4 }
         - { start: "2026-11-26T20:20-05:00", title: "Chiefs at Bills", detail: "NFL", channel: "NBC", src: 1 }
@@ -120,6 +120,10 @@ sources:
     url: "https://fbschedules.com/college-football-playoff-sets-2026-27-schedule-kickoff-times-tv-designations/"
     publisher: "FBSchedules"
     date: "2026-06-01"
+  - title: "Detroit Lions Thanksgiving Day Classic Halftime Show powered by Verizon to be headlined by Wu-Tang Clan"
+    url: "https://www.detroitlions.com/news/detroit-lions-thanksgiving-day-classic-halftime-show-powered-by-verizon-to-be-headlined-by-wu-tang-clan"
+    publisher: "Detroit Lions"
+    date: "2026-11-01"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -165,7 +169,7 @@ Where a source gives a Central Time (CT) kickoff, both times are shown. Two of t
 
 The NFL stacks five games across three days. For the first time, it plays on Thanksgiving Eve: the Green Bay Packers visit the Los Angeles Rams at SoFi Stadium at 8 p.m. ET on Wednesday, Nov. 25, streaming on Netflix. Thanksgiving Day keeps its tripleheader, with Bears at Lions at 1 p.m., Eagles at Cowboys at 4:30 p.m. and Chiefs at Bills at 8:20 p.m. The Denver Broncos play the Pittsburgh Steelers at 3 p.m. ET on Black Friday, Nov. 27, on Prime Video.
 
-Those are the facts the league confirmed in its 2026 schedule release. For the parade, channels, streaming services and Thanksgiving Day viewing order, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/). U2 will headline the halftime show of the Thanksgiving Eve game, Packers at Rams, live on Netflix, the NFL says; the show is produced by Jesse Collins Entertainment. Miranda Lambert will perform at halftime of the Cowboys' Thanksgiving Day game against the Eagles at AT&T Stadium, the Dallas Cowboys announced on Oct. 25, 2026. The halftime performers for the Lions game and the Chiefs at Bills night game have not been announced. If you want the full season on paper, our [printable 2026-27 NFL schedule](/news/printable-nfl-schedule-2026-2027-pdf/) covers every week.
+Those are the facts the league confirmed in its 2026 schedule release. For the parade, channels, streaming services and Thanksgiving Day viewing order, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/). U2 will headline the halftime show of the Thanksgiving Eve game, Packers at Rams, live on Netflix, the NFL says; the show is produced by Jesse Collins Entertainment. Miranda Lambert will perform at halftime of the Cowboys' Thanksgiving Day game against the Eagles at AT&T Stadium, the Dallas Cowboys announced on Oct. 25, 2026. Wu-Tang Clan will headline halftime of the Lions' Thanksgiving Day game against the Bears at Ford Field, the Detroit Lions announced on Nov. 1, 2026; Eminem and Paul Rosenberg are the executive producers. A halftime performer for the Chiefs at Bills night game has not been announced. If you want the full season on paper, our [printable 2026-27 NFL schedule](/news/printable-nfl-schedule-2026-2027-pdf/) covers every week.
 
 ## College football on Thanksgiving Day
 

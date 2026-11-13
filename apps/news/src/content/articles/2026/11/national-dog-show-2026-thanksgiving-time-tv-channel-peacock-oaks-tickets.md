@@ -3,7 +3,7 @@ title: "National Dog Show 2026 Time: Noon on NBC Thanksgiving, Nov. 26"
 description: "The National Dog Show 2026 airs noon to 2 p.m. local time on NBC on Thanksgiving, Nov. 26. In-person dates are Nov. 14-15 in Oaks, Pa., with ticket prices."
 type: news
 publishedAt: "2026-11-02T10:18:00-05:00"
-updatedAt: "2026-11-07T17:32:00-05:00"
+updatedAt: "2026-11-13T16:10:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 dateline: "Oaks, Pa."
@@ -23,12 +23,12 @@ summary:
   - "The National Dog Show airs noon to 2 p.m. in every time zone on NBC on Thanksgiving, Thursday, Nov. 26, 2026, after the Macy's parade, per the Dog Writers Association of America."
   - "The 25th show is taped in person on Saturday, Nov. 14 and Sunday, Nov. 15, 2026 at the Greater Philadelphia Expo Center in Oaks, Pa.; Saturday's Best in Show is the TV broadcast."
   - "In-person tickets are $20 for adults and $10 for children ages 4 to 11, with ages 3 and under free; show days are 8 a.m. to 6 p.m. Saturday and 8 a.m. to 5 p.m. Sunday, per the show's organizer."
-  - "2026 Peacock streaming, the hosts and any encore are not yet announced; in 2025 the show streamed on Peacock at the same time, per the Canine Chronicle."
+  - "The show also streams on Peacock, with John O'Hurley, David Frei and Mary Carillo returning as hosts, per the American Kennel Club; an encore airing is not yet announced."
 faq:
   - q: "What time is the National Dog Show on in 2026?"
     a: "The broadcast runs noon to 2 p.m. local time in every U.S. time zone on NBC on Thanksgiving Day, Thursday, Nov. 26, 2026, per the Dog Writers Association of America. It follows the Macy's Thanksgiving Day Parade."
   - q: "What channel is the National Dog Show on?"
-    a: "NBC. The Dog Writers Association of America and PhillyVoice both say the show airs on NBC on Thanksgiving. In 2025 it also streamed on Peacock; 2026 Peacock streaming is not yet announced."
+    a: "NBC. The Dog Writers Association of America and PhillyVoice both say the show airs on NBC on Thanksgiving. The American Kennel Club says the 2026 show also streams on Peacock, NBCSports.com and the NBC Sports app."
   - q: "Is the National Dog Show live?"
     a: "No. The show is taped in person on Saturday, Nov. 14, 2026 and edited for the Thanksgiving broadcast, which runs at noon local time in each zone rather than live across the country."
   - q: "How much are National Dog Show tickets in 2026?"
@@ -39,15 +39,19 @@ sources:
   - title: "The National Dog Show: tickets, show hours and venue"
     url: "https://nds.nationaldogshow.com/"
     publisher: "Kennel Club of Philadelphia / The National Dog Show"
-    date: "2026-11-07"
+    date: "2026-11-13"
   - title: "National Dog Show information"
     url: "https://nds.nationaldogshow.com/event-info/show-information/"
     publisher: "Kennel Club of Philadelphia / The National Dog Show"
-    date: "2026-11-07"
+    date: "2026-11-13"
+  - title: "How to watch the 2026 National Dog Show on Thanksgiving Day"
+    url: "https://www.akc.org/expert-advice/news/watch-national-dog-show/"
+    publisher: "American Kennel Club"
+    date: "2026-11-13"
   - title: "TV coverage"
     url: "https://nds.nationaldogshow.com/tv-coverage/"
     publisher: "Kennel Club of Philadelphia / The National Dog Show"
-    date: "2026-11-07"
+    date: "2026-11-13"
   - title: "National Dog Show 2026 to celebrate major milestone"
     url: "https://www.nbcphiladelphia.com/news/local/national-dog-show-2026-to-celebrate-major-milestone/4480639/"
     publisher: "NBC10 Philadelphia"
@@ -105,14 +109,14 @@ assets:
     group: national-dog-show-2026
     title: "National Dog Show 2026: TV Time and In-Person Dates"
     subtitle: "The NBC broadcast on Thanksgiving and the Oaks, Pa. show days, Nov. 2026"
-    note: "Source: show hours and tickets from the National Dog Show organizer (Nov. 7, 2026); TV time from NBC10 Philadelphia (Oct. 16, 2026). Tickets $20 adults, $10 ages 4 to 11, free ages 3 and under; resale tickets are refused at the door."
+    note: "Source: show hours and tickets from the National Dog Show organizer (Nov. 13, 2026); TV time from NBC10 Philadelphia (Oct. 16, 2026). Tickets $20 adults, $10 ages 4 to 11, free ages 3 and under; resale tickets are refused at the door."
     description: "A one-page 2026 National Dog Show sheet with the Thanksgiving NBC time, the Nov. 14 and 15 show hours in Oaks, Pennsylvania, and the ticket prices."
     alt: "National Dog Show 2026 sheet listing the Thanksgiving NBC time, the in-person show hours and ticket prices"
     data:
       events:
         - start: "2026-11-14T08:00-05:00"
           title: "In-person show, Greater Philadelphia Expo Center, Oaks, Pa."
-          detail: "8 a.m. to 6 p.m.; Best in Show likely later; taped for NBC"
+          detail: "8 a.m. to 6 p.m.; Best in Show about 6:30 p.m."
           airing: live
           src: "https://nds.nationaldogshow.com/"
           quote: "Saturday, November 14, 8:00 am – 6:00 pm*"
@@ -130,8 +134,7 @@ assets:
           src: "https://www.nbcphiladelphia.com/news/local/national-dog-show-2026-to-celebrate-major-milestone/4480639/"
           quote: ["will air on NBC10 on Thanksgiving Day, Thursday, Nov. 26,", "from 12 p.m. to 2 p.m. EST, following the Macy's Thanksgiving Day Parade"]
       unconfirmed:
-        - { label: "Peacock streaming", why: "Not yet announced for 2026" }
-        - { label: "2026 hosts and any encore airing", why: "Not yet announced" }
+        - { label: "Encore airing", why: "Not yet announced" }
 downloads:
   - group: "National Dog Show 2026 printables"
     title: "National Dog Show 2026: TV Time and In-Person Dates"
@@ -144,7 +147,7 @@ downloads:
 draft: false
 ---
 
-**The National Dog Show airs from noon to 2 p.m. local time on NBC on Thanksgiving Day, Thursday, Nov. 26, 2026, in every U.S. time zone, right after the Macy's Thanksgiving Day Parade, according to the Dog Writers Association of America.** The group calls 2026 the show's silver anniversary, its 25th year. NBC10 Philadelphia, an NBC-owned station, reported the same Nov. 26 noon to 2 p.m. slot on Oct. 16, 2026, and the show's organizer, the Kennel Club of Philadelphia, lists the in-person hours and tickets on its site, as checked Nov. 7, 2026.
+**The National Dog Show airs from noon to 2 p.m. local time on NBC on Thanksgiving Day, Thursday, Nov. 26, 2026, in every U.S. time zone, right after the Macy's Thanksgiving Day Parade, according to the Dog Writers Association of America.** The group calls 2026 the show's silver anniversary, its 25th year. NBC10 Philadelphia, an NBC-owned station, reported the same Nov. 26 noon to 2 p.m. slot on Oct. 16, 2026, and the show's organizer, the Kennel Club of Philadelphia, lists the in-person hours and tickets on its site, as checked Nov. 13, 2026.
 
 ## What time is the National Dog Show on this Thanksgiving?
 
@@ -161,16 +164,17 @@ Because each NBC station airs it at noon in its own zone, the show is tape-delay
 
 ## What channel is the National Dog Show on, and is it on Peacock?
 
-NBC. Both the Dog Writers Association of America and PhillyVoice say the Thanksgiving broadcast is on NBC, following the parade. For 2026, Peacock streaming and any encore airing are not yet announced. In 2025 the show streamed on Peacock at the same time as the NBC broadcast, per the Canine Chronicle. The Macy's parade that leads into it runs 8:30 a.m. to noon Eastern Time (ET) on NBC and Peacock, per Time Out New York and CentralPark.com; our [Macy's parade 2026 guide](/news/macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons/) has the route and zone times.
+NBC. Both the Dog Writers Association of America and PhillyVoice say the Thanksgiving broadcast is on NBC, following the parade. For 2026, an encore airing is not yet announced. The American Kennel Club says the show also streams on Peacock, NBCSports.com and the NBC Sports app, which runs on Roku, Apple TV and Amazon Fire devices. In 2025 it streamed on Peacock at the same time as the NBC broadcast, per the Canine Chronicle. The Macy's parade that leads into it runs 8:30 a.m. to noon Eastern Time (ET) on NBC and Peacock, per Time Out New York and CentralPark.com; our [Macy's parade 2026 guide](/news/macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons/) has the route and zone times.
 
 ## When and where is the in-person National Dog Show in 2026?
 
-The in-person show runs Saturday, Nov. 14 and Sunday, Nov. 15, 2026 at the Greater Philadelphia Expo Center, 100 Station Ave., in Oaks, Pa., the Dog Writers Association of America and PhillyVoice report. Saturday is the show taped for the Thanksgiving telecast, per the organizer. Best in Show judging on Saturday is likely to start later than 6 p.m., the organizer says, and the judging program showing when each breed is judged will be posted on its site no later than Monday, Nov. 9. The event draws thousands of show dogs and hundreds of breeds, the Dog Writers Association of America says. The organizer's site mentions some 2,000 dogs, and the 2025 show drew more than 1,900 dogs, per NPR.
+The in-person show runs Saturday, Nov. 14 and Sunday, Nov. 15, 2026 at the Greater Philadelphia Expo Center, 100 Station Ave., in Oaks, Pa., the Dog Writers Association of America and PhillyVoice report. Saturday is the show taped for the Thanksgiving telecast, per the organizer. Best in Show is announced at approximately 6:30 p.m. on Saturday and 4:30 p.m. on Sunday, the organizer says. Its judging program lists Saturday's group order as Terrier, Hound, Non-Sporting, Toy, Sporting, Working and Herding, then Best in Show, subject to change. The event draws thousands of show dogs and hundreds of breeds, the Dog Writers Association of America says. The organizer's site mentions some 2,000 dogs, and the 2025 show drew more than 1,900 dogs, per NPR.
 
 | Detail | Information |
 |---|---|
 | In-person dates | Sat., Nov. 14 and Sun., Nov. 15, 2026 |
-| Saturday hours | 8 a.m. to 6 p.m.; Best in Show likely starts later |
+| Saturday hours | 8 a.m. to 6 p.m.; Best in Show at approximately 6:30 p.m. |
+| Sunday Best in Show | Approximately 4:30 p.m. |
 | Sunday hours | 8 a.m. to 5 p.m. |
 | Venue | Greater Philadelphia Expo Center, 100 Station Ave., Oaks, Pa. |
 | Adult ticket (ages 12 and up) | $20 |
@@ -178,7 +182,7 @@ The in-person show runs Saturday, Nov. 14 and Sunday, Nov. 15, 2026 at the Great
 | Ages 3 and under | Free |
 | Parking | Free, per the Dog Writers Association of America and PhillyVoice |
 
-Where to buy: the organizer says online tickets are sold only on its site and, online or in person, at four Philadelphia Visitor Center Corp. locations: Independence Hall Visitor Center, Philly Pride Visitor Center, Love Park Visitor Center and Parkway Visitor Center. Tickets will also be sold at the Expo center door on both days, and the organizer's frequently asked questions (FAQ) page says tickets will not sell out. Tickets from third-party resale platforms will not be accepted at the door.
+Where to buy: the organizer says online tickets are sold only on its site and, online or in person, at six Philadelphia Visitor Center Corp. locations: Independence Visitor Center, Reading Terminal Market, City Hall Visitor Center, Philly Pride Visitor Center, Love Park Visitor Center and Parkway Visitor Center. Tickets will also be sold at the Expo center door on both days, and the organizer's frequently asked questions (FAQ) page says tickets will not sell out. Tickets from third-party resale platforms will not be accepted at the door.
 
 ## How does Best in Show work at the National Dog Show?
 
@@ -186,7 +190,7 @@ Each breed is first judged against its written standard. The winners from the se
 
 ## Who has won Best in Show at the National Dog Show?
 
-Soleil, a Belgian Sheepdog from the Herding Group handled by Daniel Martin, won Best in Show in 2025; George, an American Foxhound, was Reserve, per NPR. The 2026 hosts are not yet announced; in 2025 the hosts were John O'Hurley, David Frei and Mary Carillo, the Canine Chronicle reported.
+Soleil, a Belgian Sheepdog from the Herding Group handled by Daniel Martin, won Best in Show in 2025; George, an American Foxhound, was Reserve, per NPR. John O'Hurley, David Frei and Mary Carillo return as the 2026 hosts, the American Kennel Club says; they also hosted in 2025, the Canine Chronicle reported.
 
 | Year | Best in Show | Breed |
 |---|---|---|

@@ -3,6 +3,7 @@ title: "Army-Navy Game Kickoff Time 2026: 3 p.m. ET on CBS, Dec. 12"
 description: "The Army-Navy Game 2026 kickoff is Saturday, Dec. 12 at 3 p.m. ET on CBS at MetLife Stadium. Times for every U.S. zone and overseas bases."
 type: explainer
 publishedAt: "2026-10-26T02:22:00-04:00"
+updatedAt: "2026-11-13T16:15:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Army-Navy game 2026", "Army Navy game 2026 date", "what time is the Army Navy game", "Army Navy game channel"]
@@ -31,6 +32,8 @@ faq:
     a: "Army's athletics department lists the game on CBS. A streaming service was not announced in the sources we read."
   - q: "Where is the 2026 Army-Navy Game?"
     a: "At MetLife Stadium in East Rutherford, New Jersey, according to Army's athletics department. The USNA page lists the location as East Rutherford, N.J."
+  - q: "Are Army-Navy Game tickets still available?"
+    a: "Army's athletics ticket page says tickets are sold out for the 2026 game. Army sold them at $155 for priority seating and $235 for club seating."
   - q: "Who won the Army-Navy Game last year?"
     a: "As reported by The American Legion, Navy beat Army 17-16 in the 126th game on Saturday, Dec. 13, 2025, at M&T Bank Stadium in Baltimore, and kept the Commander-in-Chief's Trophy."
 sources:
@@ -41,6 +44,19 @@ sources:
   - title: "Army-Navy Football Game"
     url: "https://www.usna.edu/PAO/events/2026/12/Army-Navy_Football_Game.php"
     publisher: "U.S. Naval Academy Public Affairs Office"
+    date: "2026-11-13"
+  - title: "2026 Army-Navy Tickets"
+    url: "https://www.armygameday.com/army-navy-tickets?path=football"
+    publisher: "Army West Point Athletics"
+    date: "2026-11-13"
+  - title: "Army Black Knights schedule"
+    url: "https://www.espn.com/college-football/team/_/id/349/army-black-knights"
+    publisher: "ESPN"
+    date: "2026-11-13"
+  - title: "Army-Navy Game official site"
+    url: "https://armynavygame.com"
+    publisher: "Army-Navy Game"
+    date: "2026-11-13"
   - title: "Navy edges Army to retain Commander-in-Chief's Trophy"
     url: "https://www.legion.org/information-center/news/news/2025/december/navy-edges-army-to-retain-commander-in-chiefs-trophy"
     publisher: "The American Legion"
@@ -89,8 +105,6 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Checked Oct. 26, 2026.</b> The Army athletics page blocked automated access, so we read its kickoff and CBS listing through a search summary. We will confirm it against the page itself.</p>
-
 **The 127th Army-Navy Game is set for Saturday, Dec. 12, 2026, at 3 p.m. Eastern Time (ET) on CBS at MetLife Stadium in East Rutherford, New Jersey, according to Army West Point Athletics.** The department lists the game, presented by United Services Automobile Association (USAA), in its May 27, 2026 kickoff and television announcement. Below: the time in each zone, including overseas bases, and what the sources leave open.
 
 ## What is the Army-Navy Game 2026 date and time?
@@ -128,11 +142,15 @@ The last four rows are for service members abroad. In Japan and South Korea the 
 
 ## What channel is the Army-Navy Game on?
 
-Army West Point Athletics lists CBS. Its announcement is titled "Army Football Announces 2026 Kickoff Times and TV Networks; Features Four National Broadcasts," and it lists the Army-Navy Game among them. A streaming option was not announced in the sources we read, so we do not name one. Check CBS before game day.
+Army West Point Athletics lists CBS, and ESPN's Army schedule also shows the game at 3 p.m. on CBS. Army's announcement is titled "Army Football Announces 2026 Kickoff Times and TV Networks; Features Four National Broadcasts," and it lists the Army-Navy Game among them. A streaming option was not announced in the sources we read, so we do not name one. Check CBS before game day.
 
 ## Where is the 2026 Army-Navy Game?
 
 At MetLife Stadium in East Rutherford, New Jersey. Both the Army athletics announcement and the USNA event page name East Rutherford.
+
+## Are Army-Navy Game tickets still available?
+
+Army's athletics ticket page says tickets are sold out for the 2026 game. Its face values were $155 for priority seating and $235 for club seating. Army also lists the Army-Navy Gala for Friday, Dec. 11, 2026, at Ellis Island, by request for Army A Club members. The official Army-Navy Game site says the 2027 game moved to Saturday, Dec. 4, at Lincoln Financial Field in Philadelphia.
 
 ## Who won the Army-Navy Game last year?
 

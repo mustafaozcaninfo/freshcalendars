@@ -1,9 +1,9 @@
 ---
 title: "Champions League Fixtures November 2026: Matchday 5 on Nov. 24-25"
-description: "Champions League fixtures for November 2026: matchday 5 is Nov. 24-25 at 12:45 p.m. or 3 p.m. ET. The table converts all 36 games to Pacific and UK time."
+description: "Champions League matchday 5 is Nov. 24-25 at 12:45 p.m. or 3 p.m. ET. Matchday 4 results, the league table and all 36 games in ET, PT and UK time."
 type: news
 publishedAt: "2026-10-28T15:50:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-13T16:13:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["champions league schedule november 2026", "champions league matchday 4 2026 kickoff times et", "champions league today time et", "man utd vs roma champions league time"]
@@ -47,24 +47,36 @@ hero:
     author: "BestiDeOro"
     authorUrl: "https://commons.wikimedia.org/wiki/User:BestiDeOro"
 summary:
-  - "Champions League matchday 4 is Tue., Nov. 3, and Wed., Nov. 4, 2026, with kickoffs at 12:45 p.m. and 3 p.m. Eastern Time (ET), which is 9:45 a.m. and noon Pacific Time (PT), per the Union of European Football Associations (UEFA)."
-  - "Matchday 5 is Tue., Nov. 24, and Wed., Nov. 25, at the same two times; UEFA lists 18 games on each matchday."
-  - "Manchester United v Roma is Tue., Nov. 3, at 3 p.m. ET (8pm in the UK), and Amazon UK lists it on Prime Video."
+  - "Champions League matchday 5 is Tue., Nov. 24, and Wed., Nov. 25, 2026, with kickoffs at 12:45 p.m. and 3 p.m. Eastern Time (ET), which is 9:45 a.m. and noon Pacific Time (PT), per the Union of European Football Associations (UEFA)."
+  - "UEFA lists 18 games on each matchday. After matchday 4 (Nov. 3-4), Paris Saint-Germain and Real Madrid lead the league phase table with 12 points each."
+  - "Manchester United beat Roma 3-2 on Nov. 3; United's matchday 5 game is at Sporting CP on Nov. 25 at 3 p.m. ET (8pm in the UK)."
   - "UEFA publishes Central European Time (CET) only; the table below converts every game to ET, PT and UK time."
 faq:
-  - q: "What time is Man Utd vs Roma in the Champions League?"
-    a: "Tue., Nov. 3, 2026, at 3 p.m. ET (noon PT, 8pm GMT in the UK). Amazon UK lists the game at 8pm on Prime Video in the UK."
-  - q: "What time are Champions League games on Nov. 3 and Nov. 4 in ET?"
-    a: "UEFA's two kickoff slots are 12:45 p.m. ET and 3 p.m. ET on both days. Two games are in the early slot on Tue., Nov. 3, and two on Wed., Nov. 4; the rest are at 3 p.m. ET."
+  - q: "What time is Sporting CP vs Man Utd in the Champions League?"
+    a: "Wed., Nov. 25, 2026, at 3 p.m. ET (noon PT, 8pm GMT in the UK). Manchester United beat Roma 3-2 on matchday 4, per UEFA."
+  - q: "What time are Champions League games on Nov. 24 and Nov. 25 in ET?"
+    a: "UEFA's two kickoff slots are 12:45 p.m. ET and 3 p.m. ET on both days. Two games are in the early slot on Tue., Nov. 24, and two on Wed., Nov. 25; the rest are at 3 p.m. ET."
   - q: "Is the Champions League on CBS?"
-    a: "CBS and Paramount+ carry UEFA club competitions through 2029-30, per CBS Sports in 2022, and select matches are on CBS Sports Network and CBS. Which November games are on those channels was not announced in an official source we found, so check CBS listings."
+    a: "CBS and Paramount+ carry UEFA club competitions through 2029-30, per CBS Sports in 2022, and select matches are on CBS Sports Network and CBS. Which November games are on those channels was not announced in an official source we found, so check CBS listings. Paramount+ lists Real Madrid v PSV and Paris Saint-Germain v Roma as live streams at 3 p.m. ET."
   - q: "Why are the times 12:45 p.m. and 3 p.m. ET?"
     a: "UEFA's kickoffs are 21:00 CET unless stated, with early games at 18:45 CET. U.S. clocks went back on Nov. 1, so Eastern Standard Time is 6 hours behind CET, which gives 3 p.m. and 12:45 p.m."
 sources:
   - title: "2026/27 Champions League: All the league phase fixtures and results"
     url: "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/"
     publisher: "UEFA.com"
-    date: "2026-10-21"
+    date: "2026-11-13"
+  - title: "Champions League table and standings 2026/27"
+    url: "https://www.uefa.com/uefachampionsleague/standings/"
+    publisher: "UEFA.com"
+    date: "2026-11-13"
+  - title: "How To Watch Real Madrid vs. PSV: 2026 UEFA Champions League Matchday 5"
+    url: "https://www.paramountplus.com/sneak-peak/how-to-watch-real-madrid-vs-psv-uefa-champions-league-matchday-5-2026/"
+    publisher: "Paramount+"
+    date: "2026-11-06"
+  - title: "How To Watch PSG vs. Roma: 2026 UEFA Champions League Matchday 5"
+    url: "https://www.paramountplus.com/sneak-peak/how-to-watch-psg-vs-roma-uefa-champions-league-matchday-5-2026/"
+    publisher: "Paramount+"
+    date: "2026-11-06"
   - title: "2026/27 Champions League: Teams, dates, draws, format, final"
     url: "https://www.uefa.com/uefachampionsleague/news/02a6-20d57cfcd03e-407c22a7f465-1000--2026-27-champions-league-teams-dates-draws-format-final/"
     publisher: "UEFA.com"
@@ -112,7 +124,7 @@ downloads:
     pages: 1
 ---
 
-**Champions League matchday 4 is Tuesday, Nov. 3, and Wednesday, Nov. 4, 2026, with kickoffs at 12:45 p.m. and 3 p.m. Eastern Time (ET), according to the Union of European Football Associations (UEFA).** That is 9:45 a.m. and noon Pacific Time (PT), and 5:45pm and 8pm in the UK. Matchday 5 follows on Nov. 24 and 25 in the same two slots.
+**Champions League matchday 5 is Tuesday, Nov. 24, and Wednesday, Nov. 25, 2026, with kickoffs at 12:45 p.m. and 3 p.m. Eastern Time (ET), according to the Union of European Football Associations (UEFA).** That is 9:45 a.m. and noon Pacific Time (PT), and 5:45pm and 8pm in the UK. Matchday 4 was played on Nov. 3 and 4 in the same two slots.
 
 UEFA's own fixture page gives Central European Time (CET) only, so the table below converts all 36 games to ET, PT and UK time. U.S. clocks went back on Nov. 1, so every November time here is Eastern Standard Time. UK clocks already went back to Greenwich Mean Time (GMT) on Oct. 25.
 
@@ -120,54 +132,60 @@ UEFA's own fixture page gives Central European Time (CET) only, so the table bel
 
 ## What is the Champions League schedule for November 2026?
 
-UEFA's fixtures page, updated Oct. 21, 2026, lists 18 games on each matchday. The home team is named first. Three clubs go by their initials: Linzer Athletik-Sport-Klub (LASK), Athlitiki Enosis Konstantinoupoleos (AEK) of Athens and Philips Sport Vereniging (PSV) of Eindhoven. Times were converted from UEFA's CET kickoffs, and ET and PT are Eastern and Pacific Standard Time on these dates.
+UEFA's fixtures page lists 18 games on each matchday and gives the matchday 4 results. The home team is named first. Three clubs go by their initials: Linzer Athletik-Sport-Klub (LASK), Athlitiki Enosis Konstantinoupoleos (AEK) of Athens and Philips Sport Vereniging (PSV) of Eindhoven. Times were converted from UEFA's CET kickoffs, and ET and PT are Eastern and Pacific Standard Time on these dates.
 
-| Date | Game | ET | PT | UK (GMT) |
-|---|---|---|---|---|
-| Tue., Nov. 3 | Shakhtar v Sporting CP | 12:45 p.m. | 9:45 a.m. | 5:45pm |
-| Tue., Nov. 3 | Galatasaray v Stuttgart | 12:45 p.m. | 9:45 a.m. | 5:45pm |
-| Tue., Nov. 3 | Barcelona v Aston Villa | 3 p.m. | noon | 8pm |
-| Tue., Nov. 3 | Atlético de Madrid v Bayern München | 3 p.m. | noon | 8pm |
-| Tue., Nov. 3 | Manchester United v Roma | 3 p.m. | noon | 8pm |
-| Tue., Nov. 3 | Feyenoord v Inter | 3 p.m. | noon | 8pm |
-| Tue., Nov. 3 | Bodø/Glimt v Lille | 3 p.m. | noon | 8pm |
-| Tue., Nov. 3 | Villarreal v Paris Saint-Germain | 3 p.m. | noon | 8pm |
-| Tue., Nov. 3 | LASK v Slovan Bratislava | 3 p.m. | noon | 8pm |
-| Wed., Nov. 4 | Fenerbahçe v Liverpool | 12:45 p.m. | 9:45 a.m. | 5:45pm |
-| Wed., Nov. 4 | AEK Athens v Real Madrid | 12:45 p.m. | 9:45 a.m. | 5:45pm |
-| Wed., Nov. 4 | Borussia Dortmund v Real Betis | 3 p.m. | noon | 8pm |
-| Wed., Nov. 4 | Porto v Napoli | 3 p.m. | noon | 8pm |
-| Wed., Nov. 4 | PSV v Club Brugge | 3 p.m. | noon | 8pm |
-| Wed., Nov. 4 | Leipzig v Manchester City | 3 p.m. | noon | 8pm |
-| Wed., Nov. 4 | Slavia Praha v Arsenal | 3 p.m. | noon | 8pm |
-| Wed., Nov. 4 | Lens v Como | 3 p.m. | noon | 8pm |
-| Wed., Nov. 4 | Viking v Sabah | 3 p.m. | noon | 8pm |
-| Tue., Nov. 24 | Bodø/Glimt v LASK | 12:45 p.m. | 9:45 a.m. | 5:45pm |
-| Tue., Nov. 24 | Galatasaray v Aston Villa | 12:45 p.m. | 9:45 a.m. | 5:45pm |
-| Tue., Nov. 24 | Real Madrid v PSV | 3 p.m. | noon | 8pm |
-| Tue., Nov. 24 | Manchester City v Napoli | 3 p.m. | noon | 8pm |
-| Tue., Nov. 24 | Arsenal v Borussia Dortmund | 3 p.m. | noon | 8pm |
-| Tue., Nov. 24 | Feyenoord v Porto | 3 p.m. | noon | 8pm |
-| Tue., Nov. 24 | Leipzig v Lens | 3 p.m. | noon | 8pm |
-| Tue., Nov. 24 | Slovan Bratislava v Real Betis | 3 p.m. | noon | 8pm |
-| Tue., Nov. 24 | Como v AEK Athens | 3 p.m. | noon | 8pm |
-| Wed., Nov. 25 | Slavia Praha v Villarreal | 12:45 p.m. | 9:45 a.m. | 5:45pm |
-| Wed., Nov. 25 | Sabah v Barcelona | 12:45 p.m. | 9:45 a.m. | 5:45pm |
-| Wed., Nov. 25 | Paris Saint-Germain v Roma | 3 p.m. | noon | 8pm |
-| Wed., Nov. 25 | Inter v Stuttgart | 3 p.m. | noon | 8pm |
-| Wed., Nov. 25 | Atlético de Madrid v Viking | 3 p.m. | noon | 8pm |
-| Wed., Nov. 25 | Sporting CP v Manchester United | 3 p.m. | noon | 8pm |
-| Wed., Nov. 25 | Club Brugge v Liverpool | 3 p.m. | noon | 8pm |
-| Wed., Nov. 25 | Lille v Bayern München | 3 p.m. | noon | 8pm |
-| Wed., Nov. 25 | Shakhtar v Fenerbahçe | 3 p.m. | noon | 8pm |
+| Date | Game | Result | ET | PT | UK (GMT) |
+|---|---|---|---|---|---|
+| Tue., Nov. 3 | Shakhtar v Sporting CP | 0-1 | 12:45 p.m. | 9:45 a.m. | 5:45pm |
+| Tue., Nov. 3 | Galatasaray v Stuttgart | 2-0 | 12:45 p.m. | 9:45 a.m. | 5:45pm |
+| Tue., Nov. 3 | Barcelona v Aston Villa | 3-0 | 3 p.m. | noon | 8pm |
+| Tue., Nov. 3 | Atlético de Madrid v Bayern München | 0-2 | 3 p.m. | noon | 8pm |
+| Tue., Nov. 3 | Manchester United v Roma | 3-2 | 3 p.m. | noon | 8pm |
+| Tue., Nov. 3 | Feyenoord v Inter | 0-3 | 3 p.m. | noon | 8pm |
+| Tue., Nov. 3 | Bodø/Glimt v Lille | 0-0 | 3 p.m. | noon | 8pm |
+| Tue., Nov. 3 | Villarreal v Paris Saint-Germain | 0-6 | 3 p.m. | noon | 8pm |
+| Tue., Nov. 3 | LASK v Slovan Bratislava | 4-0 | 3 p.m. | noon | 8pm |
+| Wed., Nov. 4 | Fenerbahçe v Liverpool | 3-2 | 12:45 p.m. | 9:45 a.m. | 5:45pm |
+| Wed., Nov. 4 | AEK Athens v Real Madrid | 2-3 | 12:45 p.m. | 9:45 a.m. | 5:45pm |
+| Wed., Nov. 4 | Borussia Dortmund v Real Betis | 2-1 | 3 p.m. | noon | 8pm |
+| Wed., Nov. 4 | Porto v Napoli | 4-1 | 3 p.m. | noon | 8pm |
+| Wed., Nov. 4 | PSV v Club Brugge | 1-2 | 3 p.m. | noon | 8pm |
+| Wed., Nov. 4 | Leipzig v Manchester City | 2-3 | 3 p.m. | noon | 8pm |
+| Wed., Nov. 4 | Slavia Praha v Arsenal | 1-2 | 3 p.m. | noon | 8pm |
+| Wed., Nov. 4 | Lens v Como | 1-9 | 3 p.m. | noon | 8pm |
+| Wed., Nov. 4 | Viking v Sabah | 4-1 | 3 p.m. | noon | 8pm |
+| Tue., Nov. 24 | Bodø/Glimt v LASK | Not played | 12:45 p.m. | 9:45 a.m. | 5:45pm |
+| Tue., Nov. 24 | Galatasaray v Aston Villa | Not played | 12:45 p.m. | 9:45 a.m. | 5:45pm |
+| Tue., Nov. 24 | Real Madrid v PSV | Not played | 3 p.m. | noon | 8pm |
+| Tue., Nov. 24 | Manchester City v Napoli | Not played | 3 p.m. | noon | 8pm |
+| Tue., Nov. 24 | Arsenal v Borussia Dortmund | Not played | 3 p.m. | noon | 8pm |
+| Tue., Nov. 24 | Feyenoord v Porto | Not played | 3 p.m. | noon | 8pm |
+| Tue., Nov. 24 | Leipzig v Lens | Not played | 3 p.m. | noon | 8pm |
+| Tue., Nov. 24 | Slovan Bratislava v Real Betis | Not played | 3 p.m. | noon | 8pm |
+| Tue., Nov. 24 | Como v AEK Athens | Not played | 3 p.m. | noon | 8pm |
+| Wed., Nov. 25 | Slavia Praha v Villarreal | Not played | 12:45 p.m. | 9:45 a.m. | 5:45pm |
+| Wed., Nov. 25 | Sabah v Barcelona | Not played | 12:45 p.m. | 9:45 a.m. | 5:45pm |
+| Wed., Nov. 25 | Paris Saint-Germain v Roma | Not played | 3 p.m. | noon | 8pm |
+| Wed., Nov. 25 | Inter v Stuttgart | Not played | 3 p.m. | noon | 8pm |
+| Wed., Nov. 25 | Atlético de Madrid v Viking | Not played | 3 p.m. | noon | 8pm |
+| Wed., Nov. 25 | Sporting CP v Manchester United | Not played | 3 p.m. | noon | 8pm |
+| Wed., Nov. 25 | Club Brugge v Liverpool | Not played | 3 p.m. | noon | 8pm |
+| Wed., Nov. 25 | Lille v Bayern München | Not played | 3 p.m. | noon | 8pm |
+| Wed., Nov. 25 | Shakhtar v Fenerbahçe | Not played | 3 p.m. | noon | 8pm |
 
-## What time is Man Utd vs Roma in the Champions League?
+## Where do the teams stand after matchday 4?
 
-Manchester United host Roma on Tuesday, Nov. 3, at 3 p.m. ET, noon PT and 8pm in the UK. Amazon UK's November 2026 Prime Video guide lists "3rd November | Manchester United vs. Roma | 8:00pm". Manchester United's matchday 5 game is at Sporting CP on Wednesday, Nov. 25, at 3 p.m. ET.
+UEFA's league phase table after matchday 4 has Paris Saint-Germain first on 12 points (goal difference +15) and Real Madrid second on 12 (+6). Arsenal are third on 10. Como, Barcelona, Aston Villa, Manchester City, Liverpool and Club Brugge are on 9 points, and so are Sporting CP, Real Betis and Borussia Dortmund. Bayern München are 13th on 8. The top eight go straight to the round of 16 and 9th to 24th reach the play-offs, so nine clubs sit level on 9 points from 4th to 12th, split by goal difference.
 
-## What time are Champions League games on Nov. 3 and Nov. 4 in ET?
+At the bottom, Slovan Bratislava are 36th with no points, Lille and Slavia Praha have 1 each, and Roma are 20th on 4 points. Manchester United are 17th on 6 points after their 3-2 win over Roma. Como won 9-1 at Lens on matchday 4, per UEFA.
 
-There are two slots. Shakhtar v Sporting CP and Galatasaray v Stuttgart are at 12:45 p.m. ET on Nov. 3, and Fenerbahçe v Liverpool and AEK Athens v Real Madrid are at 12:45 p.m. ET on Nov. 4. Every other matchday 4 game is at 3 p.m. ET.
+## What time is Sporting CP vs Man Utd in the Champions League?
+
+Sporting CP host Manchester United on Wednesday, Nov. 25, at 3 p.m. ET, noon PT and 8pm in the UK, per UEFA's fixtures page. Other big games in the 3 p.m. ET slot are Real Madrid v PSV on Nov. 24, Arsenal v Borussia Dortmund on Nov. 24 and Paris Saint-Germain v Roma on Nov. 25.
+
+## What time are Champions League games on Nov. 24 and Nov. 25 in ET?
+
+There are two slots. Bodø/Glimt v LASK and Galatasaray v Aston Villa are at 12:45 p.m. ET on Nov. 24, and Slavia Praha v Villarreal and Sabah v Barcelona are at 12:45 p.m. ET on Nov. 25. Every other matchday 5 game is at 3 p.m. ET.
 
 ## When are the later matchdays and the final?
 
@@ -190,11 +208,11 @@ Under the format UEFA announced on June 12, 2024, 36 clubs play eight league pha
 
 ## How do I watch the Champions League in the US?
 
-In 2022, CBS Sports reported a six-year deal under which "CBS and Paramount+ will carry UEFA club competitions through 2029-30," with "select matches available to broadcast on CBS Sports Network and CBS." Under that deal every match streams on Paramount+. Which November games air on CBS or CBS Sports Network (CBSSN) has not been announced in an official source, so check CBS listings closer to each date. Spanish-language and Canadian broadcasters are not confirmed here.
+In 2022, CBS Sports reported a six-year deal under which "CBS and Paramount+ will carry UEFA club competitions through 2029-30," with "select matches available to broadcast on CBS Sports Network and CBS." Under that deal every match streams on Paramount+. Paramount+ lists Real Madrid v PSV (Nov. 24) and Paris Saint-Germain v Roma (Nov. 25) as live streams at 3 p.m. ET, with coverage from 2 p.m. ET. Which games air on CBS or CBS Sports Network (CBSSN) has not been announced in an official source, so check CBS listings closer to each date. Spanish-language and Canadian broadcasters are not confirmed here.
 
 ## Where can I watch the Champions League in the UK?
 
-Amazon UK's November 2026 guide lists two Prime Video games: Manchester United vs. Roma on Nov. 3 and Arsenal vs. Dortmund on Nov. 24, both at 8:00pm. Amazon UK says Prime Video has the "top-pick Tuesday match". The other UK games sit with Turner Network Television (TNT) Sports: Amazon's own how-to-watch guide, which covered the 2025-26 season, says other matches need the Discovery+ Premium add-on "through access to TNT Sports fixtures". Check that guide for 2026-27 changes.
+Amazon UK's November 2026 guide lists two Prime Video games: Manchester United vs. Roma on Nov. 3 (played) and Arsenal vs. Dortmund on Nov. 24, both at 8:00pm. Amazon UK says Prime Video has the "top-pick Tuesday match". The other UK games sit with Turner Network Television (TNT) Sports: Amazon's own how-to-watch guide, which covered the 2025-26 season, says other matches need the Discovery+ Premium add-on "through access to TNT Sports fixtures". Check that guide for 2026-27 changes.
 
 ## Is there a printable Champions League schedule?
 
