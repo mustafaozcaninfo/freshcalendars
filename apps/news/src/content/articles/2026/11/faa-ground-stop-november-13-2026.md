@@ -3,7 +3,7 @@ title: "FAA Ground Stop Today: All U.S. Airports Held at 3:54 p.m. ET"
 description: "The Federal Aviation Administration (FAA) ground-stopped all U.S. airports at 3:54 p.m. ET Nov. 13, 2026. See the order's times by zone and the FAA map."
 type: news
 publishedAt: "2026-11-13T16:32:00-05:00"
-updatedAt: "2026-11-13T17:08:00-05:00"
+updatedAt: "2026-11-13T17:05:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["faa ground stop today", "nationwide ground stop", "faa ground stop map", "faa flight delays today", "when will flights resume"]
@@ -27,7 +27,7 @@ hero:
 summary:
   - "The Federal Aviation Administration (FAA) sent a National Ground Stop advisory, number 111, at 3:54 p.m. ET on Friday, Nov. 13, 2026. It says all airports are ground stopped and departing traffic should stay on the ground until further notice."
   - "The advisory lists an event time that ends at 0400 UTC on Nov. 14, which is 11 p.m. ET on Nov. 13. That is the planning window on the notice, and the order itself runs until further notice."
-  - "The FAA's reason on the national advisory is \"extraordinary circumstances and for reasons of safety.\" Its earlier Chicago O'Hare ground stop lists an equipment outage with the comment \"comms issues.\""
+  - "The FAA's reason on the national advisory is \"extraordinary circumstances and for reasons of safety.\" Transportation Secretary Sean Duffy said it followed a communication issue at all air route traffic control centers, CBS News and ABC News reported."
   - "Inbound international flights are managed case by case, the advisory says. A ground stop holds flights at the departure airport; it does not cancel them."
 faq:
   - q: "Is the FAA ground stop still in effect?"
@@ -39,7 +39,7 @@ faq:
   - q: "What about flights that are already in the air?"
     a: "The national advisory covers departing traffic. It says inbound international flights will be managed on a case by case basis. The FAA's advisory list also shows a notice titled \"Nation Wide Airborne Holding\" sent at 4:20 p.m. ET."
   - q: "Was the ground stop caused by a cyberattack?"
-    a: "The FAA has not said so. Its national advisory gives no technical cause, and the Chicago O'Hare advisory lists an equipment outage and communications issues."
+    a: "No official has said so. Transportation Secretary Sean Duffy described a communication issue at air route traffic control centers and said FAA technicians are investigating, according to CBS News and ABC News. No cause of that issue has been given."
 sources:
   - title: "ATCSCC ADVZY 111 DCC 11/13/2026 National Ground Stop"
     url: "https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=111&adv_date=11132026&facId=DCC&title=ATCSCC%20ADVZY%20111%20DCC%2011/13/2026%20NATIONAL%20GROUND%20STOP&titleDate=11/13/2026"
@@ -65,6 +65,10 @@ sources:
     url: "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
     publisher: "ABC News"
     date: "2026-11-13"
+  - title: "FAA issues nationwide ground stop"
+    url: "https://www.cbsnews.com/news/faa-issues-nationwide-ground-stop/"
+    publisher: "CBS News"
+    date: "2026-11-13"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -83,6 +87,7 @@ The advisory is four sentences long. The times on it are in Coordinated Universa
 Newest first. Times are ET and each entry says where it comes from.
 
 - **5:01 p.m.** The FAA status page no longer lists ground stops at Chicago O'Hare or Chicago Midway. It shows ground delay programs at Boston (26 minutes on average, volume), LaGuardia (45 minutes, wind), San Diego (34 minutes, volume) and San Francisco (138 minutes, wind). The FAA has posted no cancellation of the national order and no statement on its newsroom page.
+- **By 4:35 p.m.** Transportation Secretary Sean Duffy says on X that the ground stop followed "a communication issue impacting all Air Route Traffic Control Centers" and that "FAA technicians are investigating the issue," CBS News and ABC News report.
 - **4:40 p.m.** The status page reads "No active airport events" and the advisory database returns no advisories for Nov. 13.
 - **4:21 p.m.** Advisory 117 goes to all centers: "Extended Flight Plan Drop Times Implemented."
 - **4:20 p.m.** Advisory 116 is sent with the title "Nation Wide Airborne Holding."
@@ -186,7 +191,9 @@ The FAA's status page showed a ground stop at Chicago Midway International Airpo
 | 4:20 p.m. | Advisory 116 sent: "Nation Wide Airborne Holding" |
 | 4:21 p.m. | Advisory 117 sent: all centers, "Extended Flight Plan Drop Times Implemented" |
 
-The FAA has not published a technical cause for the national stop. Advisory 111 gives only "extraordinary circumstances" and safety. Anything beyond the equipment outage and communications issues on the Chicago notices is unconfirmed.
+Advisory 111 gives only "extraordinary circumstances" and safety. Transportation Secretary Sean Duffy gave more in a post on X, quoted by CBS News and ABC News: "The FAA issued a nationwide ground stop for all U.S. airports following a communication issue impacting all Air Route Traffic Control Centers." He added that "FAA technicians are investigating the issue." Those centers handle aircraft at cruising altitude between airports.
+
+Neither the FAA nor the Transportation Department has said what caused the communication issue. ABC News and CBS News describe this as the second nationwide ground stop since Sept. 11, 2001; the other came on Jan. 11, 2023, after an outage of the FAA's pilot notice system.
 
 ## Where to see the FAA ground stop map
 
