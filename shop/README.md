@@ -191,6 +191,13 @@ Use the `shop-article` skill (`.claude/skills/shop-article/SKILL.md`): which que
 ### Site audit
 `python3 shop/tools/crawl.py` crawls every page and writes `.cache/shop/audit/crawl.json`: status, titles, descriptions, canonicals, H1s, JSON-LD, internal and external links and images. It never requests retailer URLs. Share buttons and template strings in scripts show up as false positives.
 
+### Hidden categories (crawl of Nov. 13, 2026)
+
+- `tools/crawl.py` found one real fault on 1,906 URLs: 50 product pages linked to six categories that were created hidden on Nov. 9 and never opened, so the links returned 404.
+- Logbooks and Record Books (49) had 27 live products and is now open. The other five stay hidden and redirect to a live category: disc-bound planners (38) to planner inserts and refills; self-care journals (45) to fitness and wellness journals; goal and habit journals (46), dream and creative journals (48) and kids and teen journals (63) to guided journals.
+- Before you open one of those five, delete its redirect (`GET redirects`, then `DELETE redirects/{id}`); otherwise the category page never shows.
+- When product copy links to a category, check that the category is enabled.
+
 ## Files
 
 | Path | What |
