@@ -89,7 +89,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [giving-tuesday-2026-december-1-tax-deduction-charity-check, international-day-elimination-violence-against-women-2026-november-25-16-days, intersex-awareness-day-2026-october-26]
+related: [giving-tuesday-2026-december-1-tax-deduction-charity-check, international-day-elimination-violence-against-women-2026-november-25-16-days, national-days-this-week-november-30-december-6-2026]
 downloads:
   - group: "World AIDS Day 2026 Checklist printables"
     title: "World AIDS Day 2026 Checklist"
