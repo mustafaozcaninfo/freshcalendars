@@ -3,7 +3,7 @@ title: "NFL Week 11 Schedule 2026: 13 Games, Nov. 19-23, Pick'em Sheet"
 description: "NFL Week 11 schedule 2026: 13 games, Nov. 19 to 23, with ET and PT kickoffs and TV. Vikings at 49ers in Mexico City is Nov. 22; printable pick'em sheet."
 type: news
 publishedAt: "2026-10-30T13:43:00-04:00"
-updatedAt: "2026-11-05T09:22:00-05:00"
+updatedAt: "2026-11-13T15:12:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 11 schedule 2026", "NFL Week 11 pick em sheet printable", "NFL schedule November 22 2026", "Vikings 49ers Mexico City time"]
@@ -19,6 +19,7 @@ assets:
     subtitle: "13 games, Nov. 19 to 23. All times Eastern (EST). Write your pick and the final score."
     columns: ["Kickoff (ET)", "Game and network · Pick · Score"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its list layout and changes two kickoff times only"
     rows:
       - ["Thu., Nov. 19 · 8:15 p.m.", "Colts at Texans (Prime Video)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 22 · 1:00 p.m.", "Dolphins at Bills (CBS)  Pick: ______  Score: ______"]
@@ -27,15 +28,14 @@ assets:
       - ["Sun., Nov. 22 · 1:00 p.m.", "Titans at Cowboys (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 22 · 1:00 p.m.", "Buccaneers at Lions (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 22 · 1:00 p.m.", "Cardinals at Chiefs (CBS)  Pick: ______  Score: ______"]
-      - ["Sun., Nov. 22 · 1:00 p.m.", "Jaguars at Giants (CBS)  Pick: ______  Score: ______"]
+      - ["Sun., Nov. 22 · 1:00 p.m.", "Steelers at Eagles (CBS)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 22 · 4:05 p.m.", "Jets at Chargers (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 22 · 4:25 p.m.", "Raiders at Broncos (CBS)  Pick: ______  Score: ______"]
-      - ["Sun., Nov. 22 · 4:25 p.m.", "Steelers at Eagles (CBS)  Pick: ______  Score: ______"]
+      - ["Sun., Nov. 22 · 4:25 p.m.", "Jaguars at Giants (CBS)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 22 · 8:20 p.m.", "Vikings at 49ers, Mexico City (NBC)  Pick: ______  Score: ______"]
       - ["Mon., Nov. 23 · 8:15 p.m.", "Bengals at Commanders (ESPN)  Pick: ______  Score: ______"]
       - ["Tiebreaker · Mon., Nov. 23", "Total points, Bengals at Commanders: ______"]
     note: "Source: NFL.com Week 11 schedule; times ET; subject to flexible scheduling. Byes: Falcons, Browns, Packers, Rams, Patriots, Seahawks."
-    inkSaver: true
     description: "A one-page NFL Week 11 2026 pick'em sheet with all 13 games, Eastern Time kickoffs, TV networks, blanks for picks and scores, and a tiebreaker line."
     alt: "Printable NFL Week 11 2026 pick'em sheet listing 13 games with kickoff, network and blanks for picks and scores"
 hero:
@@ -58,7 +58,7 @@ faq:
   - q: "What time is the Vikings-49ers game in Mexico City on Nov. 22, 2026?"
     a: "NFL.com lists Vikings at 49ers at 8:20 p.m. ET on Sunday, Nov. 22, on NBC. That is 7:20 p.m. in Mexico City, 7:20 p.m. Central, 6:20 p.m. Mountain and 5:20 p.m. Pacific, by our conversion."
   - q: "What time do NFL games start on Sunday, Nov. 22, 2026?"
-    a: "NFL.com lists seven games at 1 p.m. ET, Jets at Chargers at 4:05 p.m. ET, Raiders at Broncos and Steelers at Eagles at 4:25 p.m. ET, and Vikings at 49ers at 8:20 p.m. ET."
+    a: "The schedule has seven games at 1 p.m. ET, Jets at Chargers at 4:05 p.m. ET, Raiders at Broncos and Jaguars at Giants at 4:25 p.m. ET, and Vikings at 49ers at 8:20 p.m. ET. Jaguars at Giants and Steelers at Eagles traded kickoff times; the Jaguars' and Eagles' schedule pages show the new ones."
   - q: "Which teams are on bye in NFL Week 11?"
     a: "The Atlanta Falcons, Cleveland Browns, Green Bay Packers, Los Angeles Rams, New England Patriots and Seattle Seahawks, per NFL.com."
   - q: "Can the Week 11 schedule still change?"
@@ -74,14 +74,6 @@ downloads:
     pdf: "/news/downloads/nfl-week-11-2026/nfl-week-11-pick-em-sheet-2026.pdf"
     png: "/news/downloads/nfl-week-11-2026/nfl-week-11-pick-em-sheet-2026.png"
     pages: 1
-  - group: "NFL Week 11 Pick'em Sheet 2026 printables"
-    title: "NFL Week 11 Pick'em Sheet 2026 (ink saver)"
-    description: "A one-page NFL Week 11 2026 pick'em sheet with all 13 games, Eastern Time kickoffs, TV networks, blanks for picks and scores, and a tiebreaker line. Ink-saver version."
-    preview: ../../../../assets/news/nfl-week-11-2026/nfl-week-11-pick-em-sheet-2026-ink.png
-    alt: "Printable NFL Week 11 2026 pick'em sheet listing 13 games with kickoff, network and blanks for picks and scores, ink-saver version"
-    pdf: "/news/downloads/nfl-week-11-2026/nfl-week-11-pick-em-sheet-2026-ink.pdf"
-    png: "/news/downloads/nfl-week-11-2026/nfl-week-11-pick-em-sheet-2026-ink.png"
-    pages: 1
 sources:
   - title: "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
     url: "https://www.nfl.com/schedules/2026/by-week/week-11"
@@ -92,6 +84,14 @@ sources:
   - title: "NFL Schedule 2026, Week 11"
     url: "https://www.cbssports.com/nfl/schedule/2026/regular/11/"
     publisher: "CBS Sports"
+  - title: "Jacksonville Jaguars schedule"
+    url: "https://www.jaguars.com/schedule/"
+    publisher: "Jacksonville Jaguars"
+    date: "2026-11-13"
+  - title: "Philadelphia Eagles schedule"
+    url: "https://www.philadelphiaeagles.com/schedule/"
+    publisher: "Philadelphia Eagles"
+    date: "2026-11-13"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -118,10 +118,10 @@ The 13 games below are from NFL.com and use ET. Twenty-six teams play. The Atlan
 | Sun., Nov. 22 | 1 p.m. | Titans at Cowboys | FOX |
 | Sun., Nov. 22 | 1 p.m. | Buccaneers at Lions | FOX |
 | Sun., Nov. 22 | 1 p.m. | Cardinals at Chiefs | CBS |
-| Sun., Nov. 22 | 1 p.m. | Jaguars at Giants | CBS |
+| Sun., Nov. 22 | 1 p.m. | Steelers at Eagles | CBS |
 | Sun., Nov. 22 | 4:05 p.m. | Jets at Chargers | FOX |
 | Sun., Nov. 22 | 4:25 p.m. | Raiders at Broncos | CBS |
-| Sun., Nov. 22 | 4:25 p.m. | Steelers at Eagles | CBS |
+| Sun., Nov. 22 | 4:25 p.m. | Jaguars at Giants | CBS |
 | Sun., Nov. 22 | 8:20 p.m. | Vikings at 49ers (Mexico City) | NBC |
 | Mon., Nov. 23 | 8:15 p.m. | Bengals at Commanders | ESPN |
 
@@ -174,12 +174,12 @@ Thursday's Colts at Texans game has the shortest gap of Week 11. Both teams play
 | Texans | Sun., Nov. 15 at Browns | 4 | Thu., Nov. 19, 8:15 p.m., vs. Colts |
 | Ravens | Mon., Nov. 16 vs. Chargers | 6 | Sun., Nov. 22, 1 p.m., at Panthers |
 | Chargers | Mon., Nov. 16 at Ravens | 6 | Sun., Nov. 22, 4:05 p.m., vs. Jets |
-| Giants | Thu., Nov. 12 vs. Commanders | 10 | Sun., Nov. 22, 1 p.m., vs. Jaguars |
+| Giants | Thu., Nov. 12 vs. Commanders | 10 | Sun., Nov. 22, 4:25 p.m., vs. Jaguars |
 | Commanders | Thu., Nov. 12 at Giants | 11 | Mon., Nov. 23, 8:15 p.m., vs. Bengals |
 | Bears | Sun., Nov. 8 vs. Buccaneers | 14 | Sun., Nov. 22, 1 p.m., vs. Saints |
 | Buccaneers | Sun., Nov. 8 at Bears | 14 | Sun., Nov. 22, 1 p.m., at Lions |
 | Broncos | Sun., Nov. 8 at Panthers | 14 | Sun., Nov. 22, 4:25 p.m., vs. Raiders |
-| Eagles | Sun., Nov. 8 vs. Giants | 14 | Sun., Nov. 22, 4:25 p.m., vs. Steelers |
+| Eagles | Sun., Nov. 8 vs. Giants | 14 | Sun., Nov. 22, 1 p.m., vs. Steelers |
 
 Days of rest are calendar days between the two dates, counted by us from the NFL.com data.
 
@@ -193,5 +193,5 @@ Sunday, Nov. 22 has four start times on NFL.com, all in ET.
 
 - 1 p.m.: seven games, three on CBS and four on FOX.
 - 4:05 p.m.: Jets at Chargers on FOX.
-- 4:25 p.m.: Raiders at Broncos and Steelers at Eagles, both on CBS.
+- 4:25 p.m.: Raiders at Broncos and Jaguars at Giants, both on CBS.
 - 8:20 p.m.: Vikings at 49ers in Mexico City on NBC.

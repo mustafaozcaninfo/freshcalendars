@@ -3,7 +3,7 @@ title: "Printable NFL Schedule 2026-2027: All 272 Games, Free PDFs"
 description: "Printable NFL schedule 2026-2027 with all 272 games by week, ET kickoffs, TV and byes. A team finder and free PDFs for the season grid and every team."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-13T15:12:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["printable NFL schedule 2026-2027 PDF", "NFL schedule 2026", "NFL 2026 week by week schedule", "NFL bye weeks 2026", "NFL team schedules 2026 printable"]
@@ -76,6 +76,14 @@ sources:
   - title: "2026-27 National Football League important dates"
     url: "https://www.nfl.com/news/2026-27-national-football-league-important-dates"
     publisher: "NFL"
+  - title: "Jacksonville Jaguars schedule"
+    url: "https://www.jaguars.com/schedule/"
+    publisher: "Jacksonville Jaguars"
+    date: "2026-11-13"
+  - title: "Philadelphia Eagles schedule"
+    url: "https://www.philadelphiaeagles.com/schedule/"
+    publisher: "Philadelphia Eagles"
+    date: "2026-11-13"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -528,11 +536,21 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Fri., Oct. 23, 2026, 9:55 a.m. ET.</b> The page now lists all 272 games, checked against NFL.com's 18 weekly pages and 32 team pages, with a team finder and 45 new printables.</p>
-
 **All 272 games of the 2026 National Football League (NFL) regular season are below, week by week, with kickoff times in Eastern Time (ET), TV channels and the teams on bye.** Pick your team to see its 17 games in your own time zone, or choose a printable: a one-page season grid, an 18-page weekly planner or a single team's schedule. No account or email is needed.
 
-We checked every game against both teams' schedule pages on NFL.com and the league's weekly pages on Oct. 23, 2026. Times can still change, especially late in the season, so check NFL.com on game day.
+We checked every game against both teams' schedule pages on NFL.com and the league's weekly pages on Oct. 23, 2026, and compared all 272 again with the 32 clubs' own schedule pages on Nov. 13. Times can still change, especially late in the season, so check NFL.com on game day.
+
+## Kickoff changes since the schedule was printed
+
+Three kickoffs have changed since the season PDFs were drawn. Two Week 11 games on Sunday, Nov. 22 have traded time slots, according to the schedule pages of the Jaguars, Giants, Steelers and Eagles; the third change, in Week 9, has already been played. The tables and the team finder on this page have the new times. The PDFs were drawn with the old ones, so write the change on a copy you already printed.
+
+| Game | Was | Now |
+|---|---|---|
+| Raiders at 49ers (Week 9, played) | Sun., Nov. 8, 4:05 p.m. ET, CBS | Sun., Nov. 8, 4:25 p.m. ET, FOX |
+| Jaguars at Giants (CBS) | Sun., Nov. 22, 1 p.m. ET | Sun., Nov. 22, 4:25 p.m. ET |
+| Steelers at Eagles (CBS) | Sun., Nov. 22, 4:25 p.m. ET | Sun., Nov. 22, 1 p.m. ET |
+
+No other dated game has moved. The 24 games without a date (four in Week 16, four in Week 17 and all 16 in Week 18) are still not set.
 
 ## Find your team's schedule
 
@@ -847,14 +865,14 @@ Times are Eastern Time. Games after Sunday, Nov. 1, are in Eastern Standard Time
 | Thu., Nov. 19 | 8:15 p.m. | Colts at Texans | Prime Video |
 | Sun., Nov. 22 | 1 p.m. | Cardinals at Chiefs | CBS |
 | Sun., Nov. 22 | 1 p.m. | Ravens at Panthers | FOX |
-| Sun., Nov. 22 | 1 p.m. | Jaguars at Giants | CBS |
 | Sun., Nov. 22 | 1 p.m. | Dolphins at Bills | FOX |
 | Sun., Nov. 22 | 1 p.m. | Saints at Bears | FOX |
+| Sun., Nov. 22 | 1 p.m. | Steelers at Eagles | CBS |
 | Sun., Nov. 22 | 1 p.m. | Buccaneers at Lions | CBS |
 | Sun., Nov. 22 | 1 p.m. | Titans at Cowboys | FOX |
 | Sun., Nov. 22 | 4:05 p.m. | Jets at Chargers | FOX |
+| Sun., Nov. 22 | 4:25 p.m. | Jaguars at Giants | CBS |
 | Sun., Nov. 22 | 4:25 p.m. | Raiders at Broncos | CBS |
-| Sun., Nov. 22 | 4:25 p.m. | Steelers at Eagles | CBS |
 | Sun., Nov. 22 | 8:20 p.m. | Vikings vs. 49ers (Mexico City) | NBC |
 | Mon., Nov. 23 | 8:15 p.m. | Bengals at Commanders | ESPN, ABC, ESPN2 |
 
