@@ -3,7 +3,7 @@ title: "Immaculate Conception 2026: Tuesday, Dec. 8, Holy Day of Obligation"
 description: "Dec. 8, 2026, is a Tuesday and a U.S. holy day of obligation, so Mass is required, says the U.S. Conference of Catholic Bishops (USCCB). Dates to 2031."
 type: explainer
 publishedAt: "2026-11-04T07:11:00-05:00"
-updatedAt: "2026-11-04T07:11:00-05:00"
+updatedAt: "2026-11-12T23:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is december 8 a holy day of obligation 2026", "immaculate conception 2026", "holy days of obligation 2026-2027", "is jan 1 2027 a holy day of obligation"]
@@ -22,7 +22,7 @@ summary:
   - "The solemnity of the Immaculate Conception is Tuesday, Dec. 8, 2026, and the United States Conference of Catholic Bishops (USCCB) lists it among the six U.S. holy days of obligation besides Sundays."
   - "The USCCB rule that lifts the Mass obligation on a Saturday or Monday names only Jan. 1, Aug. 15 and Nov. 1, so Dec. 8 and Dec. 25 are not covered."
   - "Dec. 8 falls on a Wednesday in 2027, a Friday in 2028, a Saturday in 2029, a Sunday in 2030 and a Monday in 2031."
-  - "The Basilica of the National Shrine of the Immaculate Conception has not yet announced its Dec. 7-8, 2026 Mass times."
+  - "The Basilica of the National Shrine of the Immaculate Conception lists a Vigil Mass at 5:15 p.m. ET on Monday, Dec. 7, and seven Masses on Tuesday, Dec. 8, 2026, from 7:00 a.m. to 5:15 p.m. ET."
 faq:
   - q: "Is Dec. 8, 2026, a holy day of obligation?"
     a: "Yes. The USCCB lists \"December 8, the solemnity of the Immaculate Conception\" among the holy days of obligation in the United States, and Dec. 8, 2026, is a Tuesday."
@@ -33,7 +33,7 @@ faq:
   - q: "What happens when Dec. 8 falls on a Saturday or a Monday?"
     a: "The USCCB's rule that abrogates the Mass precept on a Saturday or a Monday names only Jan. 1, Aug. 15 and Nov. 1. It does not name Dec. 8 or Dec. 25."
   - q: "What are the Mass times at the National Shrine?"
-    a: "The Shrine has not yet announced its 2026 Dec. 7-8 times. Check the Shrine's Mass and confession page."
+    a: "The Shrine's event page lists a Vigil Mass on Monday, Dec. 7, at 5:15 p.m. ET in the Crypt Church. On Tuesday, Dec. 8, Masses are at 7:00 a.m., 8:00 a.m. and 10:00 a.m. in the Crypt Church, and at 12:10 p.m., 2:30 p.m. (in Spanish) and 5:15 p.m. in the Great Upper Church."
   - q: "Does my diocese follow this list?"
     a: "This story does not cover local practice. Check your diocese or parish for Mass times and any local rules."
 sources:
@@ -54,6 +54,9 @@ sources:
     date: "1854-12-08"
   - title: "Mass and Confession Times"
     url: "https://www.nationalshrine.org/mass-confession-times"
+    publisher: "Basilica of the National Shrine of the Immaculate Conception"
+  - title: "Solemnity of the Immaculate Conception of the Blessed Virgin Mary"
+    url: "https://www.nationalshrine.org/event/solemnity-of-the-immaculate-conception-2026/"
     publisher: "Basilica of the National Shrine of the Immaculate Conception"
 internalLinks:
   - href: "/december-calendars.html"
@@ -98,8 +101,6 @@ assets:
         - { date: "2027-08-15", src: 1, quote: "August 15, the solemnity of the Assumption of the Blessed Virgin Mary" }
         - { date: "2027-11-01", src: 1, quote: "November 1, the solemnity of All Saints" }
         - { date: "2027-12-08", src: 1, quote: "December 8, the solemnity of the Immaculate Conception" }
-      unconfirmed:
-        - { label: "National Shrine Mass times for Dec. 7-8, 2026", why: "Not yet announced" }
 ---
 
 The solemnity of the Immaculate Conception falls on **Tuesday, Dec. 8, 2026**, and the United States Conference of Catholic Bishops (USCCB) lists "December 8, the solemnity of the Immaculate Conception" among the holy days of obligation in the United States, so Mass is required. The USCCB's rule that lifts the duty on a Saturday or a Monday does not name Dec. 8. This story gives the Dec. 8 weekday through 2031 and every U.S. holy day from Advent 2026 to December 2027.
@@ -148,7 +149,21 @@ The rule that abrogates the precept names Jan. 1, Aug. 15 and Nov. 1 only, so it
 
 ## What are the Mass times at the National Shrine on Dec. 8, 2026?
 
-Not yet announced. The Basilica of the National Shrine of the Immaculate Conception in Washington, D.C., posts a holy-day Mass schedule on its [Mass and confession times page](https://www.nationalshrine.org/mass-confession-times), but its 2026 Dec. 7-8 times have not been published, and this story does not print the undated times as 2026. Check the page, or your own parish, before you go.
+The Basilica of the National Shrine of the Immaculate Conception in Washington, D.C., lists these Masses on its [event page for the solemnity](https://www.nationalshrine.org/event/solemnity-of-the-immaculate-conception-2026/). Times are Eastern Time.
+
+| Day | Time | Mass | Church |
+|---|---|---|---|
+| Mon., Dec. 7 | 5:15 p.m. | Vigil Mass | Crypt Church |
+| Tue., Dec. 8 | 7:00 a.m. | Mass | Crypt Church |
+| Tue., Dec. 8 | 8:00 a.m. | Mass | Crypt Church |
+| Tue., Dec. 8 | 10:00 a.m. | Docent Commissioning Mass | Crypt Church |
+| Tue., Dec. 8 | 12:10 p.m.* | Solemn Mass of the Immaculate Conception; principal celebrant and homilist Most Reverend Gabriele G. Caccia, Apostolic Nuncio to the United States | Great Upper Church |
+| Tue., Dec. 8 | 2:30 p.m.* | Misa Solemne de la Inmaculada Concepción (Solemn Mass in Spanish); principal celebrant and homilist Most Reverend Juan Esposito-Garcia, Auxiliary Bishop of Washington | Great Upper Church |
+| Tue., Dec. 8 | 5:15 p.m. | Mass | Great Upper Church |
+
+\*Livestreamed on www.nationalshrine.org/mass.
+
+The event page does not post holy-day confession times, so none are given here. The Shrine's [Mass and confession times page](https://www.nationalshrine.org/mass-confession-times) lists its novena, "Immaculate Conception: November 29 – December 7." Check your own parish for local times.
 
 ## How to plan around Dec. 8
 
@@ -156,4 +171,4 @@ Not yet announced. The Basilica of the National Shrine of the Immaculate Concept
 - Print the one-page planner above for Dec. 8, 2026, and the holy days through December 2027.
 - For the next Marian date on the calendar, see [Our Lady of Guadalupe Day](/news/our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24/).
 
-Not covered here: Mass times, local diocesan rules and other local exceptions. Check your diocese or parish.
+Not covered here: parish Mass times, local diocesan rules and other local exceptions. Check your diocese or parish.
