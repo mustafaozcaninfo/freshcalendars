@@ -49,7 +49,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [new-mexico-legislature-2027-session-january-19-prefiling-january-4, colorado-legislature-2027-session-january-11, texas-legislative-session-2027-january-12-bill-filing-deadlines]
+related: [arkansas-legislature-2027-session-january-11-prefiling-november-16, colorado-legislature-2027-session-january-11, texas-legislative-session-2027-january-12-bill-filing-deadlines]
 assets:
   overlay: true
   kicker: "Oklahoma Legislature · 2027 session"

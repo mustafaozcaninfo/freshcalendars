@@ -48,7 +48,7 @@ internalLinks:
     label: "March 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [colorado-legislature-2027-session-january-11, california-legislature-2027-28-session-december-7-bill-deadlines, new-mexico-legislature-2027-session-january-19-prefiling-january-4]
+related: [colorado-legislature-2027-session-january-11, california-legislature-2027-28-session-december-7-bill-deadlines, nevada-legislature-2027-session-february-1-bdr-deadlines]
 assets:
   overlay: true
   kicker: "Utah Legislature · 2027 General Session"
