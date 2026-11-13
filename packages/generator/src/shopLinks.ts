@@ -11,7 +11,7 @@ type Box = { title: string; text: string; href: string; cta: string };
 const BOXES: Record<string, Box> = {
   yearly: { title: "Planning the year on paper?", text: "2027 planners compared by size, paper weight and price, from the maker listings.", href: `${SHOP}/categories/dated-planners`, cta: "See 2027 planners" },
   monthly: { title: "Want the month on the wall?", text: "2027 wall calendars that print holidays, with sizes and prices in one table.", href: `${SHOP}/2027-wall-calendars-with-holidays`, cta: "Compare wall calendars" },
-  weekly: { title: "Prefer a bound weekly planner?", text: "Undated weekly planners in A5: start in any week, compared by pages and paper.", href: `${SHOP}/undated-weekly-planners-a5`, cta: "Compare weekly planners" },
+  weekly: { title: "Prefer a bound weekly planner?", text: "Weekly planners in A5 with no printed dates: start in any week, compared by pages and paper.", href: `${SHOP}/undated-weekly-planners-a5`, cta: "Compare weekly planners" },
   school: { title: "Need a planner for the school year?", text: "2026-2027 academic planners in 8.5 x 11 inches, compared by layout and cover.", href: `${SHOP}/academic-planners-2026-2027-8-5-x-11`, cta: "Compare academic planners" },
   "when-is:black-friday": { title: "Planner prices below list", text: "Planners and calendars priced 15% or more below their list price, largest cut first.", href: `${SHOP}/black-friday-planner-deals`, cta: "See the price cuts" },
   "when-is:cyber-monday": { title: "Journal and pen prices below list", text: "Journals, notebooks and pens priced 15% or more below their list price.", href: `${SHOP}/black-friday-journal-deals`, cta: "See the price cuts" },

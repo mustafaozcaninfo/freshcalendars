@@ -26,27 +26,27 @@ export const MONTHLY_VARIANT_META: Record<
   "color-modern": {
     label: "Modern Color",
     shortLabel: "Color",
-    description: "Contemporary accent header — print-friendly teal and coral.",
+    description: "A color header in teal and coral, light on ink.",
   },
   holidays: {
     label: "US Holidays Marked",
     shortLabel: "Holidays",
-    description: "Federal holidays labeled in-cell with weekend accents.",
+    description: "US holidays named in the date boxes, with the weekend columns tinted.",
   },
   "notes-planner": {
     label: "Notes Planner",
     shortLabel: "Planner",
-    description: "Oversized ruled cells plus a wide notes column.",
+    description: "Large ruled date boxes and a wide notes column.",
   },
   "landscape-soft": {
     label: "Landscape Soft",
     shortLabel: "Landscape",
-    description: "Wide landscape sheet with soft seasonal aesthetic.",
+    description: "A wide landscape sheet with a soft seasonal tint.",
   },
   "monday-start": {
     label: "Monday Start",
     shortLabel: "Mon-start",
-    description: "Workweek-first Mon–Sun monthly grid for office and school planners.",
+    description: "A month with weeks that run Monday to Sunday.",
   },
 };
 

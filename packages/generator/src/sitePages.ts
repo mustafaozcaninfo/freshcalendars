@@ -67,7 +67,7 @@ import { shopBoxHtml } from "./shopLinks.js";
 import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
 import { STUDIO_STYLES, studioAssets } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
-import { datedPages, datedIndexNav, monthYearPath, yearHref } from "./datedPages.js";
+import { datedPages, datedIndexNav, designCards, monthTable, monthYearPath, yearHref } from "./datedPages.js";
 import { classroomGuideBody, fiscalGuideBody, mondayGuideBody, printGuideExtra } from "./guideCopy.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary } from "./conceptPages.js";
 
@@ -386,7 +386,7 @@ const LIGHTBOX_JS = `
       lb.on('uiRegister',function(){
         lb.pswp.ui.registerElement({name:'fc-caption',order:9,isButton:false,appendTo:'root',onInit:function(el,pswp){
           el.className='pswp-fc-caption';
-          function set(){var a=(pswp.currSlide&&pswp.currSlide.data.alt)||'';el.textContent=a.split(' — ').pop();el.hidden=!a;}
+          function set(){var a=(pswp.currSlide&&pswp.currSlide.data.alt)||'';el.textContent=a;el.hidden=!a;}
           pswp.on('change',set);set();
         }});
       });
@@ -438,7 +438,7 @@ const CONTACT_JS = `
       var data=await res.json().catch(function(){return {};});
       if(!res.ok||!data.ok){ throw new Error(data.error||'Could not send message.'); }
       form.reset();
-      if(msg){ msg.textContent='Thanks — your message was sent.'; msg.className='form-msg ok'; }
+      if(msg){ msg.textContent='Thanks, your message was sent.'; msg.className='form-msg ok'; }
     }catch(err){
       if(msg){ msg.textContent=err&&err.message?err.message:'Could not send message.'; msg.className='form-msg err'; }
     }finally{
@@ -603,7 +603,7 @@ function sidebar(opts: {
     { href: "/printable-weekly-calendar.html", label: "Weekly calendar", title: "Printable weekly calendar" },
     { href: "/printable-school-calendar.html", label: "School year", title: "Printable school year calendar" },
     { href: "/page/school-holidays/", label: "School holidays", title: "School holiday planning" },
-    { href: "/blank-calendars.html", label: "Blank calendar", title: "Printable blank undated calendar" },
+    { href: "/blank-calendars.html", label: "Blank calendar", title: "Printable blank calendar" },
     { href: "/printable-blank-yearly-calendar.html", label: "Blank yearly", title: "Printable blank yearly calendar" },
     { href: "/printable-monday-start-calendar.html", label: "Monday start", title: "Monday-start calendars" },
     { href: "/holidays/", label: `${planningY} US holidays`, title: `${planningY} US holidays list` },
@@ -694,7 +694,7 @@ function variantGallery(
   if (!meta.variants?.length) return "";
   const items = meta.variants
     .map((v) => {
-      const alt = meta.imageAlts[v.png] ?? `${meta.title} — ${v.label}`;
+      const alt = meta.imageAlts[v.png] ?? `${meta.title}, ${v.label}`;
       const landscape = v.id.includes("landscape");
       return `
 <article class="gallery-item" id="template-${esc(v.id)}">
@@ -723,7 +723,7 @@ function variantGallery(
   const heading = opts.heading ?? "Printable templates";
   const lead =
     opts.lead ??
-    "Independent designs — not one layout recolored. Pick ink budget, holiday marks, handwriting space, landscape, or Monday-start. Click any preview to enlarge.";
+    "Each design is its own layout. Select a preview to enlarge it, then download the PDF or PNG.";
   return `
 <section class="section">
   <h2>${esc(heading)}</h2>
@@ -786,11 +786,11 @@ function monthCard(y: number, m: number, style = "scenic", start: "sunday" | "mo
   return { title: `${name} ${y} calendar${start === "monday" ? ", Monday start" : ""}`, href: `/${monthNumberToSlug(m)}-calendars.html`, img: f.preview, pdf: f.pdf, alt: `${name} ${y} printable calendar, ${label} design, ${start === "monday" ? "Monday" : "Sunday"} start` };
 }
 const yearCard = (y: number, id = "classic", label = "yearly"): PrintCard => ({ title: `${y} ${label} calendar`, href: y === resolvePlanningYear() ? "/printable-calendars.html" : "/printable-yearly-calendar.html", img: `/assets/${y}/yearly/${id}/calendar-preview.webp`, pdf: `/assets/${y}/yearly/${id}/calendar.pdf`, alt: `${y} printable ${label} calendar, twelve months on one page`, landscape: id.includes("landscape") });
-const blankCard = (id: string, label: string): PrintCard => ({ title: `${label} blank calendar`, href: `/blank-calendars.html#template-${id}`, img: `/assets/blank/${id}/calendar-preview.webp`, pdf: `/assets/blank/${id}/calendar.pdf`, alt: `Blank printable monthly calendar, ${label.toLowerCase()} design, undated`, landscape: id === "landscape" });
-const weeklyCard = (id: string, label: string): PrintCard => ({ title: `${label} weekly planner`, href: `/printable-weekly-calendar.html#template-${id}`, img: `/assets/weekly/${id}/calendar-preview.webp`, pdf: `/assets/weekly/${id}/calendar.pdf`, alt: `Printable weekly planner, ${label.toLowerCase()} layout, undated` });
+const blankCard = (id: string, label: string): PrintCard => ({ title: `${label} blank calendar`, href: `/blank-calendars.html#template-${id}`, img: `/assets/blank/${id}/calendar-preview.webp`, pdf: `/assets/blank/${id}/calendar.pdf`, alt: `Blank printable monthly calendar, ${label.toLowerCase()} design`, landscape: id === "landscape" });
+const weeklyCard = (id: string, label: string): PrintCard => ({ title: `${label} weekly planner`, href: `/printable-weekly-calendar.html#template-${id}`, img: `/assets/weekly/${id}/calendar-preview.webp`, pdf: `/assets/weekly/${id}/calendar.pdf`, alt: `Printable weekly planner, ${label.toLowerCase()} layout` });
 function blankYearCard(): PrintCard {
   const o = blankYearlyAssetPaths();
-  return { title: "Blank yearly calendar", href: "/printable-blank-yearly-calendar.html", img: pv(o.png), pdf: o.pdf, alt: "Blank printable yearly calendar, twelve undated months on one page" };
+  return { title: "Blank yearly calendar", href: "/printable-blank-yearly-calendar.html", img: pv(o.png), pdf: o.pdf, alt: "Blank printable yearly calendar, twelve empty months on one page" };
 }
 function schoolCard(today: Date): PrintCard {
   const o = schoolYearOverviewAssetPaths(schoolYearStartYear(today));
@@ -912,13 +912,13 @@ function renderHome(meta: SeoMeta, today: Date): string {
   const main = `
 <section class="section">
   <h2>This month &amp; next</h2>
-  <p class="lead" style="margin:0 0 1.25rem;max-width:52ch">Each month page shows that month’s next occurrence: today that means ${curName} ${curY} and ${nextName} ${nextY}.</p>
+  <p class="lead" style="margin:0 0 1.25rem;max-width:52ch">${curName} ${curY} and ${nextName} ${nextY}, ready to print.</p>
   <div class="showcase">
     <article class="showcase-card">
       <div class="visual">${imgTag({
         src: curPng,
         alt: `Printable ${curName} ${curY} calendar preview`,
-        title: `Printable ${curName} ${curY} calendar — click to enlarge`,
+        title: `Printable ${curName} ${curY} calendar, click to enlarge`,
         width: 1100,
         height: 1420,
         fetchpriority: "high",
@@ -928,7 +928,7 @@ function renderHome(meta: SeoMeta, today: Date): string {
       <div class="meta">
         <div class="label">Current month</div>
         <h3>${curName} ${curY}</h3>
-        <p style="margin:0 0 .85rem;color:var(--muted)">Six print styles — holidays, Monday-start, planner, and more.</p>
+        <p style="margin:0 0 .85rem;color:var(--muted)">Seven designs, Sunday or Monday start, Letter or A4.</p>
         <div class="cta">
           <a class="btn btn-primary btn-sm" href="/${curSlug}-calendars.html" title="Open ${curName} ${curY} printable calendar page">Open ${curName}</a>
           ${downloadBtn(cdnUrl(curAssets.pdf), "PDF", `Download ${curName} ${curY} printable calendar PDF | Fresh Calendars`, "ghost", "sm")}
@@ -939,7 +939,7 @@ function renderHome(meta: SeoMeta, today: Date): string {
       <div class="visual">${imgTag({
         src: nextPng,
         alt: `Printable ${nextName} ${nextY} calendar preview`,
-        title: `Printable ${nextName} ${nextY} calendar — click to enlarge`,
+        title: `Printable ${nextName} ${nextY} calendar, click to enlarge`,
         width: 1100,
         height: 1420,
         loading: "lazy",
@@ -948,7 +948,7 @@ function renderHome(meta: SeoMeta, today: Date): string {
       <div class="meta">
         <div class="label">Coming up</div>
         <h3>${nextName} ${nextY}</h3>
-        <p style="margin:0 0 .85rem;color:var(--muted)">Stay a month ahead — same Fresh Calendars engine, next grid ready.</p>
+        <p style="margin:0 0 .85rem;color:var(--muted)">Print next month before it starts.</p>
         <div class="cta">
           <a class="btn btn-primary btn-sm" href="/${nextSlug}-calendars.html" title="Open ${nextName} ${nextY} printable calendar page">Open ${nextName}</a>
           ${downloadBtn(cdnUrl(nextAssets.pdf), "PDF", `Download ${nextName} ${nextY} printable calendar PDF | Fresh Calendars`, "ghost", "sm")}
@@ -964,7 +964,7 @@ ${adUnit(ADS.homeTop, "FreshCalendars_New_Index", "header")}
   <h2>${planningYear} &amp; ${nextPlanning} yearly calendars</h2>
   <div class="yearly-band">
     <div>
-      <p>One-page year-at-a-glance for ${planningYear}: twelve accurate mini-months, five poster formats, print-ready PNG and PDF.</p>
+      <p>All of ${planningYear} on one page: twelve small months in five layouts, PDF or PNG.</p>
       <div class="cta">
         <a class="btn btn-primary" href="/printable-calendars.html" title="${planningYear} printable yearly calendar">View ${planningYear}</a>
         ${downloadBtn(yearlyPdf, "PDF", `Download ${planningYear} yearly printable calendar PDF | Fresh Calendars`, "ghost")}
@@ -973,7 +973,7 @@ ${adUnit(ADS.homeTop, "FreshCalendars_New_Index", "header")}
     ${imgTag({
       src: yearlyPng,
       alt: `Printable ${planningYear} yearly calendar preview`,
-      title: `Printable ${planningYear} yearly calendar — click to enlarge`,
+      title: `Printable ${planningYear} yearly calendar, click to enlarge`,
       width: 1100,
       height: 1420,
       loading: "lazy",
@@ -982,7 +982,7 @@ ${adUnit(ADS.homeTop, "FreshCalendars_New_Index", "header")}
   </div>
   <div class="yearly-band" style="margin-top:1.25rem">
     <div>
-      <p>Plan ahead with the ${nextPlanning} yearly hub — same five formats, ready on the <a href="/printable-yearly-calendar.html">${nextPlanning} yearly calendar</a> page.</p>
+      <p>Planning ahead? The <a href="/printable-yearly-calendar.html">${nextPlanning} yearly calendar</a> comes in the same five layouts.</p>
       <div class="cta">
         <a class="btn btn-primary" href="/printable-yearly-calendar.html" title="${nextPlanning} printable yearly calendar">View ${nextPlanning}</a>
         ${downloadBtn(nextYearlyPdf, "PDF", `Download ${nextPlanning} yearly printable calendar PDF | Fresh Calendars`, "ghost")}
@@ -991,7 +991,7 @@ ${adUnit(ADS.homeTop, "FreshCalendars_New_Index", "header")}
     ${imgTag({
       src: nextYearlyPng,
       alt: `Printable ${nextPlanning} yearly calendar preview`,
-      title: `Printable ${nextPlanning} yearly calendar — click to enlarge`,
+      title: `Printable ${nextPlanning} yearly calendar, click to enlarge`,
       width: 1100,
       height: 1420,
       loading: "lazy",
@@ -1003,16 +1003,17 @@ ${adUnit(ADS.homeTop, "FreshCalendars_New_Index", "header")}
 ${adUnit(ADS.homeMid, "FreshCalendars_Home_Mid", "banner")}
 
 <section class="section prose">
-  <h2>Why printable calendars still win</h2>
-  <p>Screens remind you; paper helps you decide. A printable calendar puts the whole month — or the whole year — in one glance without app notifications competing for attention. Fresh Calendars is built for that: download, print, write, move on.</p>
-  <p>Every dated grid is generated from a calendar engine (not hand-edited weekdays), so ${planningYear} federal holidays and month lengths stay correct. Month pages roll forward when a month ends, so in August the January page already shows next January.</p>
+  <h2>What you can print here</h2>
   <ul class="feature-list">
-    <li><strong>Five monthly designs</strong> — classic B&amp;W, modern color, holidays marked, notes planner, landscape soft.</li>
-    <li><strong>Blank undated sheets</strong> — reuse forever when weekdays don't matter yet.</li>
-    <li><strong>Yearly poster</strong> — wall planning without flipping twelve pages.</li>
-    <li><strong>Instant downloads</strong> — print-ready PNG and PDF without signup.</li>
+    <li><strong><a href="/monthly-calendars/">Monthly calendars</a>:</strong> seven designs for every month through ${planningYear + 4}.</li>
+    <li><strong><a href="/printable-calendars.html">Yearly calendars</a>:</strong> the whole year on one page.</li>
+    <li><strong><a href="/blank-calendars.html">Blank calendars</a>:</strong> empty date boxes to fill in for any month.</li>
+    <li><strong><a href="/printable-weekly-calendar.html">Weekly planners</a>:</strong> five layouts, from hourly to habit tracker.</li>
+    <li><strong><a href="/holidays/">Holiday dates</a>:</strong> US, UK and Canada, with a <a href="/days-until/">countdown</a> for each.</li>
+    <li><strong><a href="/calendar-tools/">Date calculators</a>:</strong> days between dates, business days and week numbers.</li>
   </ul>
-  <h3>Start here</h3>
+  <p>Weekdays and holiday dates are calculated for each year, so every sheet matches the real calendar.</p>
+  <h3>Every month</h3>
   <div class="month-chips">${monthChips(curSlug)}</div>
   <div class="cta" style="margin-top:1.25rem">
     <a class="btn btn-primary" href="/printable-weekly-calendar.html" title="Printable weekly calendar">Weekly calendar</a>
@@ -1068,16 +1069,16 @@ function schoolYearMonths(today: Date): { label: string; href: string; year: num
 function renderGuidePage(entry: UrlEntry, meta: SeoMeta, today: Date): string {
   const g = entry.guide ?? "print";
   if (g === "weekly") {
-    const hero = calendarStudio(meta, "Free undated weekly planners for your schedule, priorities and habits. Choose a design and paper size, then download a reusable PDF or PNG.");
+    const hero = calendarStudio(meta, "Free weekly planners for your schedule, priorities and habits. The sheets have no dates, so one print works for any week. Pick a design and a paper size.");
     const main = `
 ${variantGallery(meta, {
-  heading: "Five weekly templates",
-  lead: "Undated PNG/PDF packs — classic Sunday, Monday-start, hourly, priorities, and habit tracker. Reuse any week; fill dates by hand.",
+  heading: "Five weekly layouts",
+  lead: "Sunday start, Monday start, hourly, priorities and habit tracker. Write the dates in and reuse the sheet any week.",
 })}
 <section class="section prose" id="week-grid">
   <h2>This week</h2>
   ${weekGridHtml(today)}
-  <p>Tip: In your browser choose <strong>Print → More settings → Background graphics</strong> if outlines look faint. For US Letter, keep default margins — or download a template PDF above for a cleaner sheet.</p>
+  <p>To print this week with its dates, use your browser’s Print command. If the lines look faint, turn on <strong>Background graphics</strong> under More settings.</p>
   <div class="cta">
     ${downloadBtn(meta.download.pdf, "Classic PDF", meta.downloadTitles.pdf)}
     ${downloadBtn(meta.download.png, "Classic PNG", meta.downloadTitles.png, "ghost")}
@@ -1087,7 +1088,7 @@ ${variantGallery(meta, {
 ${adUnit(ADS.homeMid, "FreshCalendars_Weekly_Mid", "banner")}
 <section class="section prose">
   <h2>Need a full month or year?</h2>
-  <p>Weekly sheets are perfect for sprints; dated monthly templates carry holidays and five print styles. Yearly posters cover ${resolvePlanningYear(today)} and ${resolvePlanningYear(today) + 1}.</p>
+  <p>Every month comes in seven designs with the holidays marked, and the yearly calendar puts ${resolvePlanningYear(today)} or ${resolvePlanningYear(today) + 1} on one page.</p>
   <div class="month-chips">${monthChips(monthNumberToSlug(today.getMonth() + 1))}</div>
   <div class="cta" style="margin-top:1rem">
     <a class="btn btn-primary btn-sm" href="/printable-calendars.html">${resolvePlanningYear(today)} yearly</a>
@@ -1123,13 +1124,13 @@ ${faqSection(meta)}${shopBoxHtml("weekly")}`;
       meta,
       meta.download.png,
       "Fresh Calendars · School year",
-      `August–July academic overview for ${esc(span)} — not a district-official calendar. Mark breaks by hand, then grab Classic or Monday-start months below.`,
+      `The ${esc(span)} school year on one page, August to July. Mark your district’s breaks by hand, then print each month below.`,
     )}
 ${adBand(ADS.inArticle, "FreshCalendars_School_Top")}`;
     const main = `
 <section class="section prose">
   <h2>${esc(label)} month pack</h2>
-  <p>Each row links the month page plus direct Classic B&amp;W and Monday-start downloads for that academic month.</p>
+  <p>Each month of the school year as a black-and-white PDF and a Monday-start PDF. The month name opens all seven designs.</p>
   <div class="table-scroll" role="region" aria-label="School year month pack" tabindex="0">
   <table class="hol-table">
     <thead><tr><th>Month</th><th>Classic B&amp;W</th><th>Monday start</th></tr></thead>
@@ -1137,19 +1138,15 @@ ${adBand(ADS.inArticle, "FreshCalendars_School_Top")}`;
   </table>
   </div>
   ${adUnit(ADS.homeMid, "FreshCalendars_School_Mid", "banner")}
-  <h2>Classroom strip</h2>
-  <p>Pair the overview with weekly habit/priorities planners and blank notes for write-ins.</p>
+  <h2>More for the classroom</h2>
+  <p>Weekly sheets for routines and blank months for students to fill in.</p>
   <div class="cta">
-    <a class="btn btn-primary btn-sm" href="/printable-weekly-calendar.html#template-habit">Weekly habits</a>
+    <a class="btn btn-primary btn-sm" href="/printable-weekly-calendar.html#template-habit">Habit tracker</a>
     <a class="btn btn-ghost btn-sm" href="/printable-weekly-calendar.html#template-priorities">Weekly priorities</a>
-    <a class="btn btn-ghost btn-sm" href="/blank-calendars.html#template-notes">Blank notes</a>
-    <a class="btn btn-ghost btn-sm" href="/blank-calendars.html#template-kids">Kids blank</a>
+    <a class="btn btn-ghost btn-sm" href="/blank-calendars.html#template-notes">Blank month with notes</a>
+    <a class="btn btn-ghost btn-sm" href="/blank-calendars.html#template-kids">Kids blank month</a>
     <a class="btn btn-ghost btn-sm" href="/guides/classroom-printable-calendars.html">Classroom guide</a>
-    <a class="btn btn-ghost btn-sm" href="/page/school-holidays/">School holiday planning</a>
-  </div>
-  <h3>Month chips</h3>
-  <div class="school-months">
-    ${months.map((x) => `<a href="${x.href}" title="Printable ${esc(x.label)} calendar">${esc(x.label)}</a>`).join("")}
+    <a class="btn btn-ghost btn-sm" href="/page/school-holidays/">School holidays</a>
   </div>
 </section>
 ${adUnit(ADS.blankMid, "FreshCalendars_School_Bottom", "banner")}
@@ -1166,7 +1163,7 @@ ${faqSection(meta)}${shopBoxHtml("school")}`;
             { href: "/guides/classroom-printable-calendars.html", label: "Classroom guide", title: "Classroom printable calendars guide" },
             { href: "/holidays/", label: "US holidays", title: "US holidays list" },
             { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
-            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank undated calendar" },
+            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank calendar" },
             { href: "/printable-calendars.html", label: "Yearly calendar", title: "Printable yearly calendar" },
           ],
           downloads: meta.download,
@@ -1191,7 +1188,7 @@ ${faqSection(meta)}${shopBoxHtml("school")}`;
     const curPng = cdnUrl(curAssets.png);
     const nextPng = cdnUrl(nextAssets.png);
     const hero = `${calendarStudio(meta,
-      "Mon–Sun monthly calendars for workweeks and classrooms — current and next month previews, then every month.",
+      "Monthly calendars with weeks that run Monday to Sunday: this month and next month first, then every other month.",
       {year: curY, month: curM, start: "monday"},
     )}
 ${adBand(ADS.inArticle, "FreshCalendars_Monday_Top")}`;
@@ -1203,11 +1200,11 @@ ${adBand(ADS.inArticle, "FreshCalendars_Monday_Top")}`;
       <div class="gallery-visual">${imgTag({ src: curPng, alt: `${curName} ${curY} Monday-start calendar`, title: `${curName} ${curY} Monday start`, width: 1100, height: 1420, loading: "eager", lightbox: true })}</div>
       <div class="gallery-copy">
         <h3>${esc(curName)} ${curY}</h3>
-        <p>Monday-start dated monthly for the current month.</p>
+        <p>This month with weeks that run Monday to Sunday.</p>
         <div class="cta">
           ${downloadBtn(cdnUrl(curAssets.pdf), "PDF", `Download ${curName} ${curY} Monday-start PDF`, "primary", "sm")}
           ${downloadBtn(curPng, "PNG", `Download ${curName} ${curY} Monday-start PNG`, "ghost", "sm")}
-          <a class="btn btn-ghost btn-sm" href="/${curSlug}-calendars.html#template-monday-start">Month page</a>
+          <a class="btn btn-ghost btn-sm" href="/${curSlug}-calendars.html">Month page</a>
         </div>
       </div>
     </article>
@@ -1215,11 +1212,11 @@ ${adBand(ADS.inArticle, "FreshCalendars_Monday_Top")}`;
       <div class="gallery-visual">${imgTag({ src: nextPng, alt: `${nextName} ${nextY} Monday-start calendar`, title: `${nextName} ${nextY} Monday start`, width: 1100, height: 1420, loading: "lazy", lightbox: true })}</div>
       <div class="gallery-copy">
         <h3>${esc(nextName)} ${nextY}</h3>
-        <p>Preview next month’s Monday-start sheet.</p>
+        <p>Next month in the same layout.</p>
         <div class="cta">
           ${downloadBtn(cdnUrl(nextAssets.pdf), "PDF", `Download ${nextName} ${nextY} Monday-start PDF`, "primary", "sm")}
           ${downloadBtn(nextPng, "PNG", `Download ${nextName} ${nextY} Monday-start PNG`, "ghost", "sm")}
-          <a class="btn btn-ghost btn-sm" href="/${nextSlug}-calendars.html#template-monday-start">Month page</a>
+          <a class="btn btn-ghost btn-sm" href="/${nextSlug}-calendars.html">Month page</a>
         </div>
       </div>
     </article>
@@ -1227,9 +1224,9 @@ ${adBand(ADS.inArticle, "FreshCalendars_Monday_Top")}`;
 </section>
 <section class="section prose">
   <h2>All months</h2>
-  <p>Every month page includes a Monday-start PDF/PNG in the gallery.</p>
+  <p>Open a month and choose a Monday start: all seven designs have one.</p>
   <div class="month-chips">${monthChips()}</div>
-  <p>Also see the <a href="/guides/monday-start-calendar.html">Monday-start how-to</a>, <a href="/blank-calendars.html#template-monday-start">undated Monday blank</a>, and <a href="/printable-weekly-calendar.html#template-monday-start">Monday weekly</a>.</p>
+  <p>Also see the <a href="/guides/monday-start-calendar.html">Monday or Sunday start guide</a>, <a href="/blank-calendars.html#template-monday-start">blank Monday-start month</a>, and <a href="/printable-weekly-calendar.html#template-monday-start">Monday-start weekly planner</a>.</p>
 </section>
 ${adUnit(ADS.blankMid, "FreshCalendars_Monday_Bottom", "banner")}
 ${faqSection(meta)}`;
@@ -1244,7 +1241,7 @@ ${faqSection(meta)}`;
             { href: "/guides/monday-start-calendar.html", label: "Monday vs Sunday start", title: "Monday-start vs Sunday-start calendars" },
             { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
             { href: "/printable-calendars.html", label: "Yearly calendar", title: "Printable yearly calendar" },
-            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank undated calendar" },
+            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank calendar" },
             { href: "/holidays/", label: "US holidays", title: "US holidays list" },
             { href: "/print-guide.html", label: "Print guide", title: "How to print a calendar" },
           ],
@@ -1339,7 +1336,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_PrintGuide_Top")}`;
   <ul>
     <li>Grayscale + draft/economy mode for classroom stacks.</li>
     <li>Skip color-modern until the final wall copy.</li>
-    <li>Reuse the <a href="/blank-calendars.html">blank undated</a> sheet when weekdays don’t matter yet.</li>
+    <li>Use a <a href="/blank-calendars.html">blank calendar</a> for drafts: one print works for any month.</li>
   </ul>
 ${printGuideExtra(today)}
   <h2>More printables</h2>
@@ -1380,21 +1377,21 @@ export function renderPageHtml(
       meta.download.png,
       isNext ? "Fresh Calendars · Next year" : "Fresh Calendars · Yearly",
       isNext
-        ? `Plan ahead with a ${y} year-at-a-glance poster — five formats and twelve mini-months.`
-        : `Poster-style ${y} year-at-a-glance — five formats with twelve accurate mini-months on one sheet.`,
+        ? `Plan ahead with ${y} on one page: twelve small months in seven layouts.`
+        : `All of ${y} on one page: twelve small months in seven layouts.`,
     )}
 ${adBand(ADS.yearTop, "Freshcalendars_New_Year", "header")}`;
     const main = `
 ${variantGallery(meta, {
-  heading: `Five ${y} yearly templates`,
-  lead: "Classic portrait, landscape wall, holidays emphasis, Monday-start, and ink-compact — independent poster designs for the full year.",
+  heading: `${y} yearly calendar designs`,
+  lead: "Portrait, landscape, holidays marked, Monday start and a compact low-ink version.",
 })}
 ${adUnit(ADS.yearMid, "FreshCalendars_Year_InContent", "banner")}
 <section class="section prose">
-  <h2>Why a ${y} yearly printable</h2>
-  <p>The yearly templates are built for wall planning and annual reviews: see every ${y} month without flipping pages. Holidays are tinted on mini cells from the same engine that powers monthly downloads.</p>
-  <p>Need large writing cells or named federal holidays in a single month? Jump into a monthly page for five specialized layouts — classic ink-saver, modern color, holidays marked, notes planner, and landscape.</p>
-  <p><strong>${isNext ? "Also available" : "Plan ahead"}:</strong> <a href="${otherHref}" title="${otherY} printable yearly calendar">${otherY} yearly calendar</a> with the same five formats.</p>
+  <h2>${y} on one page</h2>
+  <p>A yearly calendar shows all twelve months of ${y} at once, which suits a wall or the inside of a planner. US holidays are tinted on the small months.</p>
+  <p>For large date boxes or holidays named in the boxes, open a month page: each month comes in seven designs.</p>
+  <p><strong>${isNext ? "Also available" : "Plan ahead"}:</strong> <a href="${otherHref}" title="${otherY} printable yearly calendar">${otherY} yearly calendar</a> in the same layouts.</p>
   <div class="du-chips">${[y + 1, y + 2, y + 3, y + 4].map((x) => { const href = yearHref(x, today); return href && href.endsWith("/") ? `<a href="${href}">${x} calendar</a>` : ""; }).join("")}</div>
   <h2>All months</h2>
   <div class="month-chips">${monthChips()}</div>
@@ -1448,16 +1445,17 @@ ${faqSection(meta)}${shopBoxHtml("yearly")}`;
 ${adBand(ADS.monthTop, "FreshCalendars_Month_New_Header", "header")}`;
     const main = `
 ${monthPager(m)}
-${variantGallery(meta)}
+<section class="section"><h2>${name} ${y}: all seven designs</h2>${designCards(y, m)}</section>
 ${nextYearMonth(m, y)}
 ${adUnit(ADS.monthMid, "FreshCalendars_Month_InContent", "banner")}
 <section class="section prose">
   <h2>${name} ${y} guide</h2>
   ${ed.overview(y).map((p) => `<p>${esc(p)}</p>`).join("")}
-  <h3>At a glance</h3>
-  <p>${name} ${y} starts on ${startDay} and spans ${grid.weeks.flat().filter(Boolean).length} days.</p>
+  <h3>${name} ${y} at a glance</h3>
+  <p>${name} ${y} starts on a ${startDay} and has ${grid.weeks.flat().filter(Boolean).length} days. Holidays are ringed, and the first column is the ISO week number.</p>
+  ${monthTable(y, m)}
   <h3>Holidays this month</h3>
-  <ul>${hols.map((h) => `<li><a href="${holidayWhenIsPath(h.slug)}" title="When is ${esc(h.name)} ${y}?"><strong>${esc(h.name)}</strong></a> — ${esc(h.formatted)}</li>`).join("") || "<li>No listed holidays this month.</li>"}</ul>
+  <ul>${hols.map((h) => `<li><a href="${holidayWhenIsPath(h.slug)}" title="When is ${esc(h.name)} ${y}?"><strong>${esc(h.name)}</strong></a>: ${esc(h.formatted)}</li>`).join("") || "<li>No listed holidays this month.</li>"}</ul>
   <h3>Planning tips for ${name} ${y}</h3>
   <ul>${ed.planningTips(y).map((t) => `<li>${esc(t)}</li>`).join("")}</ul>
   <h3>${esc(ed.historyTitle)}</h3>
@@ -1489,13 +1487,13 @@ ${faqSection(meta)}${shopBoxHtml("monthly")}`;
             { href: "/printable-calendars.html", label: `${y} yearly calendar`, title: `${y} printable yearly calendar` },
             { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
             { href: "/printable-monday-start-calendar.html", label: "Monday-start months", title: "Monday-start calendars" },
-            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank undated calendar" },
+            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank calendar" },
             { href: "/holidays/", label: `${y} US holidays`, title: `${y} US holidays list` },
             { href: "/print-guide.html", label: "Print guide", title: "How to print a calendar" },
           ],
           downloads: meta.download,
           downloadTitles: meta.downloadTitles,
-          extra: `<h3>Templates on this page</h3><p>Scroll the gallery for B&amp;W, color, holidays, planner, landscape, and Monday-start — each is a separate print file. Click previews to enlarge.</p>`,
+          extra: `<h3>On this page</h3><p>Seven designs, each on US Letter or A4 with a Sunday or Monday start, as PDF and PNG.</p>`,
         }),
       )}`,
       { preloadImage: displayPreviewUrl(meta.download.png) },
@@ -1507,20 +1505,20 @@ ${faqSection(meta)}${shopBoxHtml("monthly")}`;
       meta,
       meta.download.png,
       "Fresh Calendars · Blank",
-      "Five undated monthly templates — classic, Monday-start, notes, landscape, and kids/classroom. Reuse any month, then switch to dated sheets when weekdays matter.",
+      "Five blank month templates with empty date boxes: classic, Monday start, notes, landscape and kids. One print works for any month of any year.",
     )}
 ${adBand(ADS.blankTop, "FreshCalendars_Blank", "header")}`;
     const main = `
 ${variantGallery(meta, {
   heading: "Five blank templates",
-  lead: "Independent undated designs. Primary download is Classic; open Blank yearly for a 12-month fill-in poster.",
+  lead: "Each design is its own layout. For twelve empty months on one page, open the blank yearly calendar.",
 })}
 ${adUnit(ADS.blankMid, "FreshCalendars_Blank_InContent", "banner")}
 <section class="section prose">
-  <h2>When blank beats dated</h2>
-  <p>Blank templates shine for classrooms, bullet journals, and reusable office clipboards. Fill the month name yourself; skip holiday math until you need it.</p>
-  <p>Need a year poster without dates? Try the <a href="/printable-blank-yearly-calendar.html">blank yearly calendar</a>. For accurate weekdays, open a dated monthly page (seven designs, each with a Monday-start option).</p>
-  <h2>Dated months</h2>
+  <h2>When to print a blank calendar</h2>
+  <p>A blank calendar has the grid and the weekday names but no month or dates, so one print works for any month. Use it for a classroom, a rota, a meal plan or a draft.</p>
+  <p>For twelve empty months on one page, print the <a href="/printable-blank-yearly-calendar.html">blank yearly calendar</a>. For a month with its dates and holidays printed, pick it below.</p>
+  <h2>Calendars with dates</h2>
   <div class="month-chips">${monthChips()}</div>
 </section>
 ${adUnit(ADS.inArticle, "FreshCalendars_Blank_Bottom", "banner")}
@@ -1530,13 +1528,13 @@ ${faqSection(meta)}`;
       `${hero}${withSidebar(
         main,
         sidebar({
-          title: "Jump to a dated month",
+          title: "Months with dates",
           today,
           links: [
             { href: "/printable-blank-yearly-calendar.html", label: "Blank yearly", title: "Printable blank yearly calendar" },
-            { href: "/printable-monday-start-calendar.html", label: "Monday-start dated", title: "Monday-start calendars" },
+            { href: "/printable-monday-start-calendar.html", label: "Monday start months", title: "Monday-start calendars" },
             { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
-            { href: "/printable-calendars.html", label: "Dated yearly calendar", title: "Printable yearly calendar" },
+            { href: "/printable-calendars.html", label: "Yearly calendar", title: "Printable yearly calendar" },
             { href: "/guides/classroom-printable-calendars.html", label: "Classroom guide", title: "Classroom printable calendars guide" },
             { href: "/print-guide.html", label: "Print guide", title: "How to print a calendar" },
           ],
@@ -1554,16 +1552,16 @@ ${faqSection(meta)}`;
       meta,
       meta.download.png,
       "Fresh Calendars · Blank yearly",
-      "Undated twelve mini-month fill-in poster — month names only, empty cells for any year you write in.",
+      "Twelve small months on one page with the month names printed and the date boxes empty, for any year you write in.",
     )}
 ${adBand(ADS.blankTop, "FreshCalendars_BlankYearly_Header")}`;
     const main = `
 <section class="section prose">
-  <h2>Undated year at a glance</h2>
-  <p>Use this when you need a reusable wall poster, a custom fiscal span, or a draft before printing a dated yearly calendar.</p>
+  <h2>A year you fill in yourself</h2>
+  <p>Use it for a year that does not start in January (a school or fiscal year), for a sheet you reuse, or as a draft before you print the dated yearly calendar.</p>
   <div class="cta">
-    <a class="btn btn-primary btn-sm" href="/blank-calendars.html">Blank monthly pack</a>
-    <a class="btn btn-ghost btn-sm" href="/printable-calendars.html">Dated yearly</a>
+    <a class="btn btn-primary btn-sm" href="/blank-calendars.html">Blank months</a>
+    <a class="btn btn-ghost btn-sm" href="/printable-calendars.html">Yearly calendar</a>
     <a class="btn btn-ghost btn-sm" href="/guides/fiscal-year-calendar.html">Fiscal year guide</a>
   </div>
 </section>
@@ -1577,8 +1575,8 @@ ${faqSection(meta)}`;
           title: "Blank tools",
           today,
           links: [
-            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank undated calendar" },
-            { href: "/printable-calendars.html", label: "Dated yearly calendar", title: "Printable yearly calendar" },
+            { href: "/blank-calendars.html", label: "Blank month", title: "Printable blank calendar" },
+            { href: "/printable-calendars.html", label: "Yearly calendar", title: "Printable yearly calendar" },
             { href: "/printable-weekly-calendar.html", label: "Weekly planner", title: "Printable weekly calendar" },
             { href: "/printable-school-calendar.html", label: "School year", title: "Printable school year calendar" },
             { href: "/guides/fiscal-year-calendar.html", label: "Fiscal year guide", title: "Fiscal year vs calendar year printables" },
@@ -1629,9 +1627,9 @@ ${adBand(ADS.inArticle, "FreshCalendars_Holidays_Top")}`;
     const main = `
 <section class="section prose">
   <h2>All ${y} ${localeLabel} holidays and observances</h2>
-  <p>Browse the dates below, filter by holiday name or type, and open a holiday for future dates and planning details.</p>
+  <p>Browse the dates below, filter by name or type, or open a holiday for its dates in the next five years.</p>
   ${alsoLinks}
-  <p>Print the year: <a href="/printable-calendars.html">${y} yearly</a> · <a href="/printable-yearly-calendar.html">${y + 1} yearly</a> · <a href="/printable-school-calendar.html">school year hub</a>.</p>
+  <p>Print the year: <a href="/printable-calendars.html">${y} yearly</a> · <a href="/printable-yearly-calendar.html">${y + 1} yearly</a> · <a href="/printable-school-calendar.html">school year calendar</a>.</p>
   <div data-holiday-filter><div class="holiday-toolbar"><label>${iconHtml("search")}<input type="search" data-holiday-query placeholder="Find a holiday…" aria-label="Find a holiday"></label><label>Type<select data-holiday-kind><option value="">All types</option>${[...new Set(list.map(h => holidayKindKey(h.kind)))].map(kind => `<option value="${esc(kind)}">${esc(holidayKindLabel(kind, locale))}</option>`).join("")}</select></label><button type="button" data-holiday-reset>Reset filters</button></div><p class="holiday-result" data-holiday-count aria-live="polite">${list.length} dates</p><div class="table-scroll" role="region" aria-label="${y} holidays table" tabindex="0">
   <table class="hol-table" data-holiday-table>
     <thead><tr><th>Holiday</th><th>Type</th><th>Date</th></tr></thead>
@@ -1699,7 +1697,7 @@ ${faqSection(meta)}`;
           ],
           downloads: meta.download,
           downloadTitles: meta.downloadTitles,
-          extra: `<h3>Print with marks</h3><p>Open any month and choose the holidays template to see labels in-cell.</p>`,
+          extra: `<h3>Print the holidays</h3><p>Open any month and choose the Holidays design to print these dates in the boxes.</p>`,
         }),
       )}`,
     );
@@ -1724,7 +1722,7 @@ ${faqSection(meta)}`;
     const lead = ed ? ed.lead(h) : `${h.blurb}`;
     const overview = ed
       ? ed.overview(h).map((p) => `<p>${esc(p)}</p>`).join("\n  ")
-      : `<p>${esc(h.name)} ${y} falls on <strong>${esc(h.formatted)}</strong>. ${esc(h.blurb)}</p>`;
+      : `<p>${esc(h.name)} ${y} falls on <strong>${esc(h.formatted)}</strong>.</p>`;
     const howCalc = ed ? ed.howCalculated(h) : ruleHowCalculated(def, h);
     // Same rule, next five years: answers "when is X 2028" without a page per year.
     const upcoming = [y, y + 1, y + 2, y + 3, y + 4].map((yy) => resolveHoliday(def, yy));
@@ -1744,19 +1742,7 @@ ${faqSection(meta)}`;
       ? `<h3>${esc(ed.meaningTitle)}</h3>
   ${ed.meaning(h).map((p) => `<p>${esc(p)}</p>`).join("\n  ")}`
       : "";
-    const tips = ed
-      ? ed.planningTips(h)
-      : [
-          `Block travel and school closures on the ${mName} ${y} sheet before the week fills up.`,
-          `Scan nearby federal or observance days on the full ${hubLabel} list.`,
-          `For classrooms, mark the break by hand on a school-year calendar.`,
-        ];
-    const printTip =
-      locale === "uk"
-        ? `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and mark ${esc(h.name)} on the grid (UK bank holidays are listed on our <a href="${hub}">${hubLabel}</a> hub). Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a>.`
-        : locale === "ca"
-          ? `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and mark ${esc(h.name)} beside other Canadian dates from our <a href="${hub}">${hubLabel}</a> hub. Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a>.`
-          : `Open the <a href="/${mSlug}-calendars.html" title="${mName} ${y} printable calendar">${mName} ${y} printable</a> and choose the holidays-marked template so ${esc(h.name)} is labeled in its date box. Prefer a wall overview? Grab the <a href="/printable-calendars.html">${y} yearly poster</a> or plan ahead with <a href="/printable-yearly-calendar.html">${y + 1} yearly</a>.`;
+    const tips = ed ? ed.planningTips(h) : [];
     // Neighbours by date (across the year boundary), so every when-is page
     // gets links from the pages around it rather than only from January's.
     const pool = [y - 1, y, y + 1]
@@ -1782,7 +1768,7 @@ ${faqSection(meta)}`;
       .join("");
     const dstGuide =
       slug === "daylight-savings"
-        ? `<p>Need both spring-forward and fall-back dates on one checklist? See our <a href="/page/daylight-savings/">daylight saving time guide</a>.</p>`
+        ? `<p>Both clock changes for this year and next are on the <a href="/page/daylight-savings/">daylight saving time page</a>.</p>`
         : "";
     const hero = `
 <section class="hero"><div class="hero-inner">
@@ -1803,20 +1789,17 @@ ${adBand(ADS.inArticle, "FreshCalendars_WhenIs_Top")}`;
   ${volatile(holidayGuidesHtml(slug, `More on ${h.name} ${y}`))}
   ${holidayMonthBlock(h, holidaysForMonth(h.year, h.month, locale), locale === "us")}
   ${hasCountdown(slug) ? `<p class="du-link"><a href="${countdownPath(slug)}">How many days until ${esc(h.name)}? Countdown in days, weeks and weekdays →</a></p>` : ""}
-  <p>This page always shows the next ${esc(h.name)}: once ${esc(h.formatted)} has passed, it switches to the ${y + 1} date.</p>
+  <p>This page shows the next ${esc(h.name)}. After ${esc(h.formatted)} it moves to ${y + 1}.</p>
   ${datesTable}
   <h3>How the date is calculated</h3>
   <p>${esc(howCalc)}</p>
-  <p>The same date rules power our <a href="${hub}">${hubLabel} list</a>${locale === "us" ? " and US Holidays Marked monthly templates" : ""}.</p>
+  <p>Every date on the <a href="${hub}">${hubLabel} list</a> is worked out the same way.</p>
   ${meaning}
-  <h3>Print this month</h3>
-  <p>${printTip}</p>
   ${dstGuide}
-  <h3>Plan around ${esc(h.name)}</h3>
+  ${tips.length ? `<h3>Plan around ${esc(h.name)}</h3>
   <ul>
     ${tips.map((t) => `<li>${esc(t)}</li>`).join("\n    ")}
-    <li>Use the <a href="/printable-weekly-calendar.html">weekly planner pack</a> for the days around ${esc(h.formatted)}.</li>
-  </ul>
+  </ul>` : ""}
   ${adUnit(ADS.holiday, "FreshCalendars_New_Holidays", "banner")}
   <h3>Nearby holidays</h3>
   <div class="side-links" style="grid-template-columns:repeat(auto-fill,minmax(12rem,1fr));display:grid;gap:.5rem">${related}</div>
@@ -1859,22 +1842,22 @@ ${faqSection(meta)}${shopBoxHtml(`when-is:${slug}`)}`;
 <section class="hero"><div class="hero-inner">
   <div class="eyebrow">Fresh Calendars · About</div>
   <h1>About Fresh Calendars</h1>
-  <p class="lead">Free printable calendars generated from a live engine — monthly, yearly, weekly, blank, and school hubs with accurate US holidays.</p>
+  <p class="lead">Free printable calendars: monthly, yearly, weekly, blank and school-year sheets, with holiday dates worked out for each year.</p>
 </div></section>
 ${adBand(ADS.inArticle, "FreshCalendars_About_Top")}`;
     const main = `
 <section class="section prose">
   <h2>What we make</h2>
-  <p>Fresh Calendars publishes evergreen printable pages so bookmarks stay useful: month URLs roll to the next occurrence, and yearly hubs track the current planning year (${py}) plus a dedicated next-year page (${py + 1}).</p>
-  <p>Monthly pages offer scenic, modern, minimal, floral, landscape, holiday and planner designs, with Sunday or Monday starts. Yearly pages include minimal and floral posters alongside the original formats. Weekly planners include classic, Monday-start, hourly, priorities, and habit-tracker packs — all free to download.</p>
+  <p>Fresh Calendars is a free printable calendar site. Each month has one page that always shows the next time that month comes round, so a bookmark keeps working, and every month and year through ${py + 4} also has its own address.</p>
+  <p>Months come in seven designs with a Sunday or a Monday start, on US Letter or A4. There are yearly calendars, blank calendars, weekly planners and a school-year calendar too, plus holiday dates for the US, the UK and Canada and a set of date calculators. Everything is free to download.</p>
   <h2>How downloads work</h2>
-  <p>PNG and PDF files are generated as print-ready sheets and delivered at full quality. Please link to our calendar pages (not the raw file URLs) when you share Fresh Calendars with others.</p>
+  <p>Every calendar is a PDF for printing and a PNG image. Weekdays and holiday dates are calculated for each year, not typed in. If you share a calendar, please link to its page and not to the file.</p>
   <h2>Get in touch</h2>
-  <p>Questions about licensing or a broken file? Use the <a href="/page/contact/">contact form</a>. Advertising details live on <a href="/page/advertising/">About advertising</a>.</p>
+  <p>For a question about licensing or a file that will not open, use the <a href="/page/contact/">contact form</a>. How the site is funded is on the <a href="/page/advertising/">advertising page</a>.</p>
   <div class="cta">
     <a class="btn btn-primary" href="/printable-calendars.html">${py} yearly</a>
     <a class="btn btn-ghost" href="/printable-yearly-calendar.html">${py + 1} yearly</a>
-    <a class="btn btn-ghost" href="/printable-weekly-calendar.html">Weekly pack</a>
+    <a class="btn btn-ghost" href="/printable-weekly-calendar.html">Weekly planners</a>
   </div>
 </section>
 ${faqSection(meta)}`;
@@ -1931,7 +1914,7 @@ ${faqSection(meta)}`;
 <section class="hero"><div class="hero-inner">
   <div class="eyebrow">Fresh Calendars</div>
   <h1>Message Fresh Calendars</h1>
-  <p class="lead">Questions about templates, downloads, licensing, or a broken file — send a note. We store messages securely and reply by email.</p>
+  <p class="lead">Questions about a calendar, a download that will not open, or licensing? Send a message and we reply by email.</p>
 </div></section>
 ${adBand(ADS.inArticle, "FreshCalendars_Contact_Top")}`;
     const main = `
@@ -1976,22 +1959,28 @@ ${faqSection(meta)}`;
   }
 
   if (key === "school-holidays") {
-    const py = resolvePlanningYear(today);
+    const sy = schoolYearStartYear(today);
     const hero = `
 <section class="hero"><div class="hero-inner">
   <div class="eyebrow">Fresh Calendars · School year</div>
-  <h1>School holidays calendar: plan the August to July year</h1>
-  <p class="lead">August–July school-year planning with printable month packs — mark district breaks yourself and print Classic or Monday-start templates.</p>
+  <h1>School holidays calendar ${sy}-${sy + 1}</h1>
+  <p class="lead">Plan the August to July school year: the holidays that fall in term time and every month to print. Your district sets the breaks.</p>
 </div></section>
 ${adBand(ADS.inArticle, "FreshCalendars_SchoolHolidays_Top")}`;
     const main = `
 <section class="section prose">
-  <h2>Printable school-year calendars</h2>
-  <p>District calendars vary by state and county. Fresh Calendars has a <a href="/printable-school-calendar.html">school-year hub</a> with an Aug–Jul overview and month-by-month downloads for ${py}–${py + 1}.</p>
-  <p>For US federal observances, see the <a href="/holidays/">holidays list</a>. For DST planning, see <a href="/page/daylight-savings/">daylight saving time</a>.</p>
+  <h2>Federal holidays in the ${sy}-${sy + 1} school year</h2>
+  <p>Schools usually close on these days. When one falls on a Saturday or Sunday, the day off is normally the nearest weekday.</p>
+  <table class="dates-table">
+    <thead><tr><th scope="col">Holiday</th><th scope="col">Date</th><th scope="col">Day</th></tr></thead>
+    <tbody>${[...holidaysForYear(sy, { federalOnly: true }).filter((h) => h.month >= 8), ...holidaysForYear(sy + 1, { federalOnly: true }).filter((h) => h.month <= 7)].map((h) => `<tr><td><a href="${holidayWhenIsPath(h.slug)}">${esc(h.name)}</a></td><td>${esc(h.date.toLocaleDateString("en-US", { month: "long", day: "numeric", year: "numeric" }))}</td><td>${esc(h.weekdayName)}</td></tr>`).join("")}</tbody>
+  </table>
+  <h2>What your district decides</h2>
+  <p>The first and last day of school, fall and spring break, winter break and teacher work days are set by each district, and they differ between states and counties. Copy them from your district's own calendar onto the <a href="/printable-school-calendar.html">school year calendar</a>, which shows August to July on one page.</p>
+  <p>Clocks change twice during the school year: see <a href="/page/daylight-savings/">daylight saving time</a>. The <a href="/guides/classroom-printable-calendars.html">classroom guide</a> counts the weekdays in each month.</p>
   <div class="cta">
-    <a class="btn btn-primary" href="/printable-school-calendar.html">School year hub</a>
-    <a class="btn btn-ghost" href="/blank-calendars.html">Blank templates</a>
+    <a class="btn btn-primary" href="/printable-school-calendar.html">School year calendar</a>
+    <a class="btn btn-ghost" href="/blank-calendars.html">Blank calendars</a>
   </div>
 </section>
 ${printRow("School year printables", [schoolCard(today), monthCard(today.getFullYear(), today.getMonth() + 1, "classic-bw"), blankCard("kids", "Kids")])}
@@ -2039,7 +2028,7 @@ ${faqSection(meta)}`;
 
   const lead =
     key === "privacy-policy"
-      ? "How Fresh Calendars collects, uses, and protects information when you browse, download, or contact us — including cookies, hosting logs, AdSense, and contact-form messages."
+      ? "How Fresh Calendars collects, uses, and protects information when you browse, download, or contact us, including cookies, hosting logs, AdSense, and contact-form messages."
       : "Rules for using Fresh Calendars, downloading free printable calendars, linking to our pages, and the limits of our liability.";
   const body = key === "privacy-policy" ? privacyPolicyBody() : termsOfUseBody();
   const label = key === "privacy-policy" ? "Privacy" : "Terms";
@@ -2064,7 +2053,7 @@ function privacyPolicyBody(): string {
 <p>This Privacy Policy explains how <strong>Fresh Calendars, Inc.</strong> (“Fresh Calendars”, “we”, “us”, “our”) handles information on <a href="https://freshcalendars.com/">https://freshcalendars.com/</a> (the “Site”). We take visitor privacy seriously. If you have questions, use our <a href="/page/contact/">contact form</a>.</p>
 
 <h2>1. Scope</h2>
-<p>This policy covers online activity on the Site only — browsing, downloads, advertising impressions, and messages you send through our contact form. It does not cover offline collection or third-party sites we link to.</p>
+<p>This policy covers online activity on the Site only: browsing, downloads, advertising impressions, and messages you send through our contact form. It does not cover offline collection or third-party sites we link to.</p>
 <p>By using the Site you consent to this Privacy Policy. If you do not agree, please stop using the Site.</p>
 
 <h2>2. Information we collect</h2>
@@ -2123,7 +2112,7 @@ function privacyPolicyBody(): string {
 <h2>5. Sharing</h2>
 <p>We may share limited data with:</p>
 <ul>
-  <li><strong>Service providers</strong> that host the Site, store form messages, deliver downloadable files, or filter abuse — only as needed to perform those services</li>
+  <li><strong>Service providers</strong> that host the Site, store form messages, deliver downloadable files, or filter abuse, only as needed to perform those services</li>
   <li><strong>Advertising partners</strong> such as Google, as described above</li>
   <li><strong>Authorities</strong> when required by law, valid legal process, or to protect users, the Site, or our rights</li>
 </ul>
@@ -2167,7 +2156,7 @@ function termsOfUseBody(): string {
 <h2>2. License to use calendars</h2>
 <ul>
   <li>Calendars and previews on the Site are <strong>free for personal, classroom, and internal non-commercial use</strong> (for example printing for your home, school, or office wall).</li>
-  <li>You may <strong>not</strong> redistribute, resell, sublicense, or re-host our calendar files (PNG, PDF, or other downloads) in bulk, in paid packs, on file-sharing sites, or as a competing download library — whether online or offline.</li>
+  <li>You may <strong>not</strong> redistribute, resell, sublicense, or re-host our calendar files (PNG, PDF, or other downloads) in bulk, in paid packs, on file-sharing sites, or as a competing download library, whether online or offline.</li>
   <li>You may not use the calendars or Site content for unlawful purposes.</li>
   <li>We do not grant trademark rights in the name “Fresh Calendars” or site branding beyond normal descriptive linking.</li>
 </ul>
@@ -2184,7 +2173,7 @@ function termsOfUseBody(): string {
 <p>Holiday dates, weekday layouts, and editorial copy are provided for general information. While we generate calendars from a rules engine, content may contain typographical or technical errors. Do not rely on the Site as your sole source for legal, payroll, religious, or safety-critical scheduling decisions. You use information and downloads at your own risk.</p>
 
 <h2>5. No warranty; downloads</h2>
-<p>The Service and all calendars are provided “as is” and “as available,” without warranties of any kind, express or implied — including merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that files will open on every device, print perfectly on every printer, or remain available at the same URL forever.</p>
+<p>The Service and all calendars are provided “as is” and “as available,” without warranties of any kind, express or implied, including merchantability, fitness for a particular purpose, and non-infringement. We do not warrant that files will open on every device, print perfectly on every printer, or remain available at the same URL forever.</p>
 <p>If a downloaded calendar does not meet your expectations, contains a date error, or fails to open, we are not obligated to provide a refund (the files are free) or specific damages; please report issues via the contact form so we can investigate.</p>
 
 <h2>6. Advertising</h2>
@@ -2203,7 +2192,7 @@ function termsOfUseBody(): string {
 </ul>
 
 <h2>9. Changes to the Service</h2>
-<p>We may modify, suspend, or discontinue any part of the Service — including templates, years, holiday lists, or downloads — at any time with or without notice. We may also change designs, engine rules, or URLs (for example evergreen month pages that roll to the next occurrence).</p>
+<p>We may modify, suspend, or discontinue any part of the Service (including templates, years, holiday lists, or downloads) at any time with or without notice. We may also change designs, engine rules, or URLs (for example evergreen month pages that roll to the next occurrence).</p>
 
 <h2>10. Changes to these Terms</h2>
 <p>We may update these Terms at our discretion. The “Last updated” date will change when we do. For material changes we will try to provide reasonable notice (for example at least 15 days when practical). Continued use after changes become effective constitutes acceptance. If you do not agree, stop using the Service.</p>
@@ -2212,7 +2201,7 @@ function termsOfUseBody(): string {
 <p>We may suspend or block access to the Service immediately, without prior notice, if you breach these Terms or if needed to protect the Site or other users. Provisions that by nature should survive (including ownership, disclaimers, indemnity, and limitations of liability) will survive termination.</p>
 
 <h2>12. Limitation of liability</h2>
-<p>To the fullest extent permitted by law, Fresh Calendars and its operators will not be liable for any direct, indirect, incidental, consequential, special, or punitive damages — including lost profits, lost data, lost time, or business interruption — arising out of or related to your use of (or inability to use) the Service or any calendar file, even if advised of the possibility of such damages.</p>
+<p>To the fullest extent permitted by law, Fresh Calendars and its operators will not be liable for any direct, indirect, incidental, consequential, special, or punitive damages (including lost profits, lost data, lost time, or business interruption) arising out of or related to your use of (or inability to use) the Service or any calendar file, even if advised of the possibility of such damages.</p>
 
 <h2>13. Indemnity</h2>
 <p>You agree to indemnify and hold harmless Fresh Calendars and its operators from claims, damages, losses, and expenses (including reasonable legal fees) arising from your misuse of the Service, your redistribution of files in violation of these Terms, or your violation of law or third-party rights.</p>
@@ -2380,28 +2369,28 @@ Downloads: https://cdn.freshcalendars.com
 Feed: ${absUrl("/feed.xml")}
 
 ## Primary pages
-- ${absUrl("/")} — homepage, current & next month
-- ${absUrl("/printable-calendars.html")} — current planning-year yearly posters
-- ${absUrl("/printable-yearly-calendar.html")} — next-year yearly posters
-- ${absUrl("/printable-weekly-calendar.html")} — weekly planner templates + this week
-- ${absUrl("/printable-school-calendar.html")} — August–July academic hub
-- ${absUrl("/blank-calendars.html")} — undated blank monthly (5 templates)
-- ${absUrl("/printable-blank-yearly-calendar.html")} — undated blank yearly poster
-- ${absUrl("/printable-monday-start-calendar.html")} — Monday-start monthly hub
-- ${absUrl("/print-guide.html")} — how to print (paper, margins, ink)
-- ${absUrl("/holidays")} — US holidays (planning year)
-- ${absUrl("/uk-holidays")} — UK bank holidays
-- ${absUrl("/canada-holidays")} — Canada holidays
-- ${absUrl("/guides/classroom-printable-calendars.html")} — classroom guide
-- ${absUrl("/page/about")} — about the site
-- ${absUrl("/page/contact")} — contact form
+- ${absUrl("/")}: homepage, current & next month
+- ${absUrl("/printable-calendars.html")}: this year on one page
+- ${absUrl("/printable-yearly-calendar.html")}: next year on one page
+- ${absUrl("/printable-weekly-calendar.html")}: weekly planner templates + this week
+- ${absUrl("/printable-school-calendar.html")}: school year calendar, August to July
+- ${absUrl("/blank-calendars.html")}: blank monthly calendars (5 designs)
+- ${absUrl("/printable-blank-yearly-calendar.html")}: blank yearly calendar
+- ${absUrl("/printable-monday-start-calendar.html")}: Monday-start monthly calendars
+- ${absUrl("/print-guide.html")}: how to print (paper, margins, ink)
+- ${absUrl("/holidays")}: US holidays (planning year)
+- ${absUrl("/uk-holidays")}: UK bank holidays
+- ${absUrl("/canada-holidays")}: Canada holidays
+- ${absUrl("/guides/classroom-printable-calendars.html")}: classroom guide
+- ${absUrl("/page/about")}: about the site
+- ${absUrl("/page/contact")}: contact form
 
 ${
   NEWS_LAUNCHED
     ? `## News
-- ${SITE_ORIGIN}/news/ — calendar, holiday and date news (Fresh Calendars News Desk)
-- ${SITE_ORIGIN}/news/feed.xml — news RSS
-- ${SITE_ORIGIN}/news/sitemap.xml — news sitemap index
+- ${SITE_ORIGIN}/news/: calendar, holiday and date news (Fresh Calendars News Desk)
+- ${SITE_ORIGIN}/news/feed.xml: news RSS
+- ${SITE_ORIGIN}/news/sitemap.xml: news sitemap index
 
 `
     : ""
@@ -2409,7 +2398,7 @@ ${
 ${MONTH_SLUGS.map((m) => `- ${absUrl(`/${m}-calendars.html`)}`).join("\n")}
 
 ## Holiday when-is pages (engine-calculated)
-${allHolidayRules().map((h) => `- ${absUrl(holidayWhenIsPath(h.slug))} — ${h.name}`).join("\n")}
+${allHolidayRules().map((h) => `- ${absUrl(holidayWhenIsPath(h.slug))}: ${h.name}`).join("\n")}
 
 ## Notes for crawlers
 - Prefer evergreen month/year/holiday URLs. Year-qualified twin paths 301 to evergreen.

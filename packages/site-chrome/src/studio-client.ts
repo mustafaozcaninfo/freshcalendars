@@ -28,7 +28,7 @@ document.querySelectorAll('[data-studio]').forEach(function(el){
   el.querySelector('.studio-secondary').dataset.downloadFormat=state.format==='pdf'?'png':'pdf';el.querySelector('[data-secondary-label]').textContent='Download '+(state.format==='pdf'?'PNG':'PDF');
   el.querySelector('[data-studio-description]').textContent=model.lead.replaceAll(String(model.year),String(state.year));
   if(f.display){main.srcset=f.srcset;main.src=f.display;}else{main.removeAttribute('srcset');main.src=f.png;}main.alt=label+' calendar, '+state.paper.toUpperCase()+', '+state.start+' start';
-  el.querySelector('[data-studio-title]').textContent=model.month?label+' '+(model.titleKind||'Calendar')+' (Free Printable)':label;document.title=document.title.replace(/\b20\d\d\b/,String(state.year));
+  el.querySelector('[data-studio-title]').textContent=model.month?label+' '+(model.titleKind||'Calendar'):label;document.title=document.title.replace(/\b20\d\d\b/,String(state.year));
   el.querySelectorAll('[data-choice]').forEach(function(b){b.setAttribute('aria-pressed',String(state[b.dataset.choice]===b.dataset.value));});
   el.querySelectorAll('[data-style-thumb]').forEach(function(img){img.src=selectedFiles(img.dataset.styleThumb).preview;});
   el.querySelectorAll('[data-download-format]').forEach(function(a){var format=a.dataset.downloadFormat;a.href=f[format];a.download=label.toLowerCase().replaceAll(' ','-')+'-'+state.style+'-'+state.paper+'-'+state.start+'.'+format;});

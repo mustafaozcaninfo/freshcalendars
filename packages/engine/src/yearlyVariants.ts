@@ -19,27 +19,27 @@ export const YEARLY_VARIANT_META: Record<
   classic: {
     label: "Classic Year Poster",
     shortLabel: "Classic",
-    description: "Portrait year-at-a-glance with holiday tints on mini-months.",
+    description: "Twelve small months on a portrait page, with holidays tinted.",
   },
   "landscape-wall": {
     label: "Landscape Wall",
     shortLabel: "Landscape",
-    description: "Wide landscape yearly poster for walls and desk rails.",
+    description: "Twelve months on a wide landscape page, for a wall or a desk.",
   },
   holidays: {
     label: "Holidays Emphasis",
     shortLabel: "Holidays",
-    description: "Yearly poster with stronger US holiday marks.",
+    description: "The year on one page with US holidays marked more strongly.",
   },
   "monday-start": {
     label: "Monday Start",
     shortLabel: "Mon-start",
-    description: "Monday-first mini-months for workweek planning.",
+    description: "Twelve small months with weeks that run Monday to Sunday.",
   },
   "ink-compact": {
     label: "Ink Compact",
     shortLabel: "Compact",
-    description: "Dense black-and-white year grid — minimal ink.",
+    description: "A compact black-and-white year that uses little ink.",
   },
 };
 

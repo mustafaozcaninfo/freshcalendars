@@ -103,7 +103,7 @@ function baseMeta(partial: {
       ? `${monthNumberToName(partial.month)} ${partial.year}`
       : partial.year
         ? `${partial.year} yearly`
-        : "blank undated";
+        : "blank";
 
   const variants = partial.variants?.map((v) => {
     const pngCdn = toCdn(v.png);
@@ -114,20 +114,20 @@ function baseMeta(partial: {
       pdf: pdfCdn,
       pngTitle:
         v.pngTitle ??
-        `Download ${labelCore} printable calendar PNG — ${v.label} template | ${SITE_NAME}`,
+        `Download ${labelCore} printable calendar PNG, ${v.label} design | ${SITE_NAME}`,
       pdfTitle:
         v.pdfTitle ??
-        `Download ${labelCore} printable calendar PDF — ${v.label} template | ${SITE_NAME}`,
+        `Download ${labelCore} printable calendar PDF, ${v.label} design | ${SITE_NAME}`,
     };
   });
 
   const pngAlt =
     partial.family === "blank"
-      ? `Printable blank undated monthly calendar template — ${SITE_NAME}`
+      ? `Printable blank monthly calendar template, ${SITE_NAME}`
       : partial.family === "yearly"
-        ? `Printable ${partial.year} year-at-a-glance calendar poster — ${SITE_NAME}`
+        ? `Printable ${partial.year} year-at-a-glance calendar, ${SITE_NAME}`
         : partial.family === "monthly"
-          ? `Printable ${labelCore} calendar — ${SITE_NAME}`
+          ? `Printable ${labelCore} calendar, ${SITE_NAME}`
           : partial.title;
 
   const downloadTitles = partial.downloadTitles ?? {
@@ -137,12 +137,12 @@ function baseMeta(partial: {
 
   const imageAlts: Record<string, string> = {
     [png]: pngAlt,
-    [ogAbs]: `${partial.title} — Open Graph preview image`,
-    [ogImagePath]: `${partial.title} — Open Graph preview image`,
+    [ogAbs]: `${partial.title}, share image`,
+    [ogImagePath]: `${partial.title}, share image`,
   };
   if (variants) {
     for (const v of variants) {
-      imageAlts[v.png] = `${pngAlt} — ${v.label} template`;
+      imageAlts[v.png] = `${pngAlt}, ${v.label} design`;
     }
   }
 
@@ -169,7 +169,7 @@ function baseMeta(partial: {
           url: ogAbs,
           width: 1200,
           height: 630,
-          alt: `${partial.title} — Open Graph preview image`,
+          alt: `${partial.title}, share image`,
         },
       ],
     },
@@ -268,8 +268,8 @@ export function buildMetaForEntry(
       pageId: entry.pageId,
       path: "/",
       // Both years: from autumn on, searchers ask for next year's calendar and the home page serves it too.
-      title: `Printable Calendars ${year} & ${year + 1} · Free Monthly & Year PDFs`,
-      description: `Free printable calendars for ${year} and ${year + 1}: this month’s ${curName} sheet, every month ahead, blank write-ins, and year-at-a-glance PDFs. No account.`,
+      title: `Free Printable Calendars ${year} and ${year + 1} · PDF, No Sign-Up`,
+      description: `Free printable calendars for ${year} and ${year + 1}: ${curName} and every month after it, the year on one page, blank and weekly sheets. PDF or PNG, no sign-up.`,
       family: "home",
       year,
       month: curM,
@@ -288,15 +288,15 @@ export function buildMetaForEntry(
       faq: [
         {
           q: `Are Fresh Calendars ${year} printables really free?`,
-          a: `Yes. Monthly and yearly ${year} PNG/PDF downloads are free for personal use — no account and no watermark on the print files.`,
+          a: `Yes. Every PDF and PNG is free for personal and classroom use, with no account and no watermark.`,
         },
         {
           q: `Which calendar should I download first?`,
-          a: `Start with this month's dated monthly page (five template styles), keep a blank undated sheet for scratch planning, and pin the ${year} yearly poster for wall overview.`,
+          a: `Start with this month's page, which has seven designs. Add the ${year} yearly calendar for the wall and a blank calendar for anything without fixed dates.`,
         },
         {
           q: `Do the calendars include US holidays?`,
-          a: `Yes. Holidays are calculated dynamically for each year. Use the “US Holidays Marked” monthly template or the holidays list page for federal dates.`,
+          a: `Yes. Choose the Holidays design on any month page to print US holidays in the date boxes, or open the holidays page for the full list.`,
         },
         {
           q: `Will January pages show the correct year later in ${year}?`,
@@ -329,11 +329,11 @@ export function buildMetaForEntry(
       pageId: entry.pageId,
       path: entry.path,
       title: isNext
-        ? `${year} Printable Calendar · Free Year-at-a-Glance PDF`
-        : `${year} Printable Calendar · Free Year-at-a-Glance PDF`,
+        ? `${year} Calendar Printable · Free One-Page Yearly PDF`
+        : `${year} Calendar Printable · Free One-Page Yearly PDF`,
       description: isNext
         ? `Free ${year} printable calendar on one page, in PDF and PNG: all twelve months in portrait, landscape, holidays, Monday-start and ink-saving designs.`
-        : `Free ${year} yearly printable calendar in PNG and PDF: five poster formats with twelve mini-months and accurate ${year} weekdays on one page.`,
+        : `Free ${year} calendar on one page, in PDF and PNG: all twelve months in portrait, landscape, holidays, Monday-start and ink-saving designs.`,
       family: "yearly",
       year,
       month: null,
@@ -416,9 +416,9 @@ export function buildMetaForEntry(
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
-      title: `Blank Calendar Printable · 5 Free Undated Templates (PDF)`,
+      title: `Blank Calendar Template · Free Printable PDF, 5 Designs`,
       description:
-        "Blank monthly calendar printables: five undated sheets (classic, Monday-start, notes, landscape, kids) in PNG and PDF that you can reuse any month.",
+        "Free blank calendar templates to fill in yourself: classic, Monday start, notes, landscape and kids designs. PDF or PNG, Letter or A4, good for any month.",
       family: "blank",
       year: null,
       month: null,
@@ -426,7 +426,7 @@ export function buildMetaForEntry(
       keywords: [
         "printable blank calendar",
         "blank monthly calendar",
-        "undated calendar",
+        "blank calendar template",
         "fill in calendar",
         "monday start blank calendar",
       ],
@@ -444,14 +444,14 @@ export function buildMetaForEntry(
       path: entry.path,
       title: `Blank Yearly Calendar Printable · Free 12-Month PDF`,
       description:
-        "Blank yearly calendar to fill in by hand: twelve undated mini-months on one page, in PNG and PDF. Reuse it for any year or a custom fiscal span.",
+        "Blank yearly calendar to fill in by hand: twelve empty months on one page, in PDF and PNG. Use it for any year, a school year or a fiscal year.",
       family: "blank",
       year: null,
       month: null,
       priority: 0.85,
       keywords: [
         "blank yearly calendar",
-        "undated year at a glance",
+        "blank year at a glance",
         "fill in yearly calendar",
         "printable blank year calendar",
       ],
@@ -463,21 +463,21 @@ export function buildMetaForEntry(
       faq: [
         {
           q: "Is this blank yearly calendar dated?",
-          a: "No — month names are printed, but day cells are empty so you can fill any year by hand.",
+          a: "No. The month names are printed and the day boxes are empty, so you can write in any year.",
         },
         {
           q: "When should I use blank yearly vs dated yearly?",
-          a: "Use blank yearly for reusable posters or custom fiscal spans. Use the dated yearly poster when you want accurate weekdays and US holidays.",
+          a: "Use the blank one for a year that does not start in January, or to reuse the same sheet. Use the dated yearly calendar when you want the weekdays and US holidays printed.",
         },
         {
           q: "Can I print a blank monthly instead?",
-          a: "Yes — the blank monthly hub has five undated monthly templates including Monday-start and kids/classroom.",
+          a: "Yes. The blank calendar page has five monthly designs, including a Monday start and a kids sheet.",
         },
       ],
       download,
       downloadTitles: {
-        png: `Download blank yearly undated calendar PNG | ${SITE_NAME}`,
-        pdf: `Download blank yearly undated calendar PDF | ${SITE_NAME}`,
+        png: `Download blank yearly calendar PNG | ${SITE_NAME}`,
+        pdf: `Download blank yearly calendar PDF | ${SITE_NAME}`,
       },
     });
   }
@@ -506,8 +506,8 @@ export function buildMetaForEntry(
             : `Canada Statutory Holidays ${year} and ${year + 1} · Dates`,
       description:
         locale === "us"
-          ? `US federal holidays for ${year} and ${year + 1}: all ${federal.length} dates with weekdays, plus popular observances${highlight ? ` (Thanksgiving ${highlight.formatted})` : ""} and a printable calendar.`
-          : `${localeLabel} public and bank holidays for ${year} and ${year + 1}: ${federal.length} dates with weekdays, plus observances${highlight ? ` (${highlightName} ${highlight.formatted})` : ""}.`,
+          ? `US federal holidays for ${year} and ${year + 1}: all ${federal.length} dates with weekdays, plus widely kept observances${highlight ? `, including Thanksgiving on ${highlight.formatted}` : ""}.`
+          : `${locale === "uk" ? "UK bank holidays" : "Canada statutory holidays"} for ${year} and ${year + 1}: ${federal.length} dates with weekdays, plus observances${highlight ? `, including ${highlightName} on ${highlight.formatted}` : ""}.`,
       family: "holidays",
       year,
       month: null,
@@ -540,24 +540,24 @@ export function buildMetaForEntry(
       faq: [
         {
           q: `How are ${year} ${localeLabel} holiday dates calculated?`,
-          a: `Every date on this page is computed by rules (fixed days, nth weekdays, Easter computus, and relative offsets). Nothing is hand-typed for a single year.`,
+          a: `Each date is worked out from the rule that sets it: a fixed day, a weekday such as the fourth Thursday of November, or the date of Easter. Nothing is typed in by hand for one year.`,
         },
         {
           q: `How many holidays are listed for ${year}?`,
-          a: `${list.length} holidays for ${localeLabel}: ${federal.length} public/bank (or federal) plus observances.`,
+          a: `${list.length} in all: ${federal.length} ${locale === "us" ? "federal holidays" : "public holidays"} and ${list.length - federal.length} widely kept observances.`,
         },
         {
           q: `When is ${highlightName} ${year}?`,
           a: highlight
             ? `${highlightName} ${year} is ${highlight.formatted}.`
-            : `${highlightName} ${year} is calculated from the holiday engine rules.`,
+            : `${highlightName} ${year} is listed in the table on this page.`,
         },
         {
           q: `Where can I print a ${year} calendar?`,
           a:
             locale === "us"
-              ? `Open any monthly page and choose the US Holidays Marked template — cells are labeled from this same holiday engine.`
-              : `Use our dated monthly printables and mark ${localeLabel} holidays by hand, or open each when-is page for the exact date.`,
+              ? `Open any month page and choose the Holidays design. It prints the same dates in the day boxes.`
+              : `Print any month page and mark the ${localeLabel} holidays by hand; each holiday in the table links to its date page.`,
         },
       ],
       download: {
@@ -649,21 +649,21 @@ export function buildMetaForEntry(
         faq: [
           {
             q: "What paper size should I use?",
-            a: "US Letter (8.5×11 in) is the default for Fresh Calendars downloads. A4 works if you choose “fit to printable area” in your printer dialog.",
+            a: "Use the size in your printer tray. Every calendar has its own US Letter (8.5 × 11 in) and A4 (210 × 297 mm) file, so nothing needs scaling.",
           },
           {
             q: "Why is my calendar cut off at the edges?",
-            a: "Turn off “fit to page” only if margins are already safe; otherwise enable fit-to-printable-area and disable borderless unless your printer supports it cleanly.",
+            a: "The printer cannot reach the outer edge of the sheet. Switch the scale from “Actual size” to “Fit” and turn off borderless printing.",
           },
           {
             q: "Which template uses the least ink?",
-            a: "Choose the classic black-and-white monthly template, print in grayscale, and use draft/economy mode for planning drafts.",
+            a: "The Minimal design: black lines on white with no shading. Print it in grayscale, and in draft mode for a copy you will replace.",
           },
         ],
       },
       weekly: {
         title: `Weekly Calendar Printable · 5 Free Planner Templates`,
-        description: `Printable weekly calendars: classic Sunday, Monday-start, hourly, priorities, and habit-tracker PNG and PDF sheets, plus this week’s grid to print.`,
+        description: `Free weekly calendar printables: Sunday start, Monday start, hourly, priorities and habit tracker layouts in PDF and PNG, plus this week with its dates.`,
         keywords: [
           "printable weekly calendar",
           "weekly planner printable",
@@ -675,15 +675,15 @@ export function buildMetaForEntry(
         faq: [
           {
             q: "Are the weekly downloads dated?",
-            a: "The five PNG/PDF weekly templates are undated write-in sheets you can reuse. The on-page grid shows the current week’s dates and rolls forward when the site rebuilds.",
+            a: "No. The five weekly templates have no dates, so one print works for any week. The grid on the page shows this week with its dates.",
           },
           {
             q: "Which weekly template should I use?",
-            a: "Classic Sunday for general planning, Monday-start for workweeks, hourly for meetings, priorities for focus weeks, and habit tracker for routines.",
+            a: "Sunday start for a household week, Monday start for a work week, hourly for appointments, priorities for a short task list, and the habit tracker for routines.",
           },
           {
             q: "Can I print just this week?",
-            a: "Yes — use your browser Print dialog on the weekly page, or download a template PDF for a cleaner sheet.",
+            a: "Yes. Print the page from your browser to get this week with its dates, or download a template PDF and write the dates in.",
           },
         ],
       },
@@ -699,21 +699,21 @@ export function buildMetaForEntry(
         faq: [
           {
             q: "Is this an official district school calendar?",
-            a: "No — dates are a standard Aug→Jul academic span. Mark your own district breaks, in-service days, and local holidays by hand.",
+            a: "No. It shows August to July with the correct weekdays. Mark your district’s first day, breaks and teacher work days by hand.",
           },
           {
             q: "What is the school year overview download?",
-            a: "A single PNG/PDF poster with twelve mini-months from August through July for the current academic span.",
+            a: "One page with twelve small months, August to July, as a PDF and a PNG.",
           },
           {
             q: "Which monthly templates are linked?",
-            a: "Each month offers Classic Black & White and Monday-start PDF/PNG downloads, plus the full monthly gallery on each month page.",
+            a: "Each month of the school year has a black-and-white PDF and a Monday-start PDF here, and all seven designs on its own page.",
           },
         ],
       },
       "monday-start": {
         title: `Monday Start Calendar Printable · Free Monthly PDFs`,
-        description: `Monday-start monthly calendars: Mon–Sun printable grids for this month and next, links to every month, and a short how-to for Monday-first planning.`,
+        description: `Free Monday start calendars: this month and next month as PDFs with weeks running Monday to Sunday, plus every other month, Letter or A4.`,
         keywords: [
           "monday start calendar",
           "monday start printable calendar",
@@ -723,21 +723,21 @@ export function buildMetaForEntry(
         faq: [
           {
             q: "What is a Monday-start calendar?",
-            a: "The first column is Monday and the week ends on Sunday — common for workweeks, schools, and ISO-style planners.",
+            a: "The first column is Monday and each week ends with Saturday and Sunday together. It is the layout ISO week numbers use.",
           },
           {
             q: "Do all months have a Monday-start template?",
-            a: "Yes — every monthly page includes a Monday-start PNG/PDF alongside Classic B&W and the other designs.",
+            a: "Yes. Every month page offers a Monday start for all seven designs.",
           },
           {
             q: "Is there a Monday-start blank template too?",
-            a: "Yes — the blank calendar hub includes an undated Monday-start monthly sheet.",
+            a: "Yes. The blank calendar page has a Monday-start month with empty date boxes.",
           },
         ],
       },
       classroom: {
         title: `Classroom Calendar Printables · Free for Teachers`,
-        description: `Free classroom calendar printables for teachers: the August to July school year on one page, blank kids months, weekly habit trackers and Monday-start months.`,
+        description: `Free classroom calendars for teachers: the school year on one page, a blank kids month, weekly trackers, and the weekdays in each month from August to July.`,
         keywords: [
           "classroom printable calendar",
           "teacher calendar printable",
@@ -747,17 +747,17 @@ export function buildMetaForEntry(
         faq: [
           {
             q: "Which calendar should teachers print first?",
-            a: "Start with the school-year overview poster, then Classic B&W or Monday-start months for wall and handouts.",
+            a: "The school year on one page for the wall, then this month in the Minimal design for handouts.",
           },
           {
             q: "Are district breaks included?",
-            a: "No — mark local breaks by hand. Our engine covers US federal and selected UK/Canada holidays, not every school district.",
+            a: "No. Mark your district’s breaks by hand. The calendars print US holidays only.",
           },
         ],
       },
       "monday-guide": {
         title: `Monday vs Sunday Start Calendar · Which One to Print`,
-        description: `Monday start or Sunday start? How each calendar layout fits workweeks, school weeks and ISO week numbers, with free printable months in both layouts.`,
+        description: `Monday start or Sunday start? Where each layout is the norm, how many rows each month needs in both, and free printable months either way.`,
         keywords: [
           "monday start vs sunday start calendar",
           "how to choose monday start calendar",
@@ -766,17 +766,17 @@ export function buildMetaForEntry(
         faq: [
           {
             q: "Should I use Monday-start or Sunday-start?",
-            a: "Prefer Monday-start for workweeks and many classrooms; Sunday-start for US consumer planners and church/weekend-first layouts.",
+            a: "Monday start if you plan around the work or school week. Sunday start if the other calendars you read put Sunday first, as most US calendars do.",
           },
           {
             q: "Where do I download Monday-start months?",
-            a: "Open the Monday-start hub or any monthly page gallery and choose the Monday Start template.",
+            a: "On the Monday start page, or on any month page by choosing a Monday start before you download.",
           },
         ],
       },
       fiscal: {
         title: `Fiscal Year vs Calendar Year · Dates and Printables`,
-        description: `Fiscal year vs calendar year: when each starts and ends, how the August to July school year differs, and which free printable yearly calendar fits each.`,
+        description: `Fiscal year vs calendar year: start and end dates of the US federal fiscal year and the UK tax year, the quarters, and a calendar to print for each.`,
         keywords: [
           "fiscal year calendar printable",
           "fiscal vs calendar year",
@@ -786,11 +786,11 @@ export function buildMetaForEntry(
         faq: [
           {
             q: "What is the difference between fiscal and calendar year?",
-            a: "A calendar year runs January–December. A fiscal year is any 12-month accounting span (for example July–June or October–September).",
+            a: "A calendar year runs January 1 to December 31. A fiscal year is any other twelve-month period used for budgets and accounts, such as October to September.",
           },
           {
             q: "Which printable should I use for a fiscal year?",
-            a: "Use the blank yearly undated poster and label your fiscal months, or chain dated monthly sheets for your span. School hubs cover Aug–Jul specifically.",
+            a: "Print the blank yearly calendar and write your fiscal months into its twelve boxes, or print the twelve dated months of your year.",
           },
         ],
       },
@@ -845,8 +845,8 @@ export function buildMetaForEntry(
       downloadTitles:
         g === "weekly"
           ? {
-              png: `Download printable weekly calendar PNG — classic Sunday template | ${SITE_NAME}`,
-              pdf: `Download printable weekly calendar PDF — classic Sunday template | ${SITE_NAME}`,
+              png: `Download printable weekly calendar PNG, Sunday start | ${SITE_NAME}`,
+              pdf: `Download printable weekly calendar PDF, Sunday start | ${SITE_NAME}`,
             }
           : g === "school"
             ? {
@@ -908,11 +908,11 @@ export function buildMetaForEntry(
     about: [
       {
         q: "What is Fresh Calendars?",
-        a: "Fresh Calendars is a free printable calendar site — monthly, yearly, weekly, blank, and school-year hubs generated from a live calendar engine with US holidays.",
+        a: "A free printable calendar site: monthly, yearly, weekly, blank and school-year calendars, with US holiday dates worked out for each year.",
       },
       {
         q: "Why do month and when-is URLs stay the same every year?",
-        a: "Evergreen month pages roll to the next occurrence of that month; when-is holiday pages roll to the next upcoming date for that holiday. Yearly hubs track the current planning year. Bookmarks stay useful.",
+        a: "So a bookmark keeps working. A month page moves to next year once the month ends, and a holiday page moves to the next date once the day has passed.",
       },
     ],
     advertising: [
@@ -930,10 +930,10 @@ export function buildMetaForEntry(
     contact: `Contact ${SITE_NAME} about printable calendars, broken downloads, or licensing questions. Send a message with the form and we reply by email.`,
     "privacy-policy": `How ${SITE_NAME} handles your data: hosting logs, cookies, Google AdSense, contact-form storage, and the ad choices available to you.`,
     "terms-of-use": `Terms for using ${SITE_NAME}: the personal calendar license, linking rules, disclaimers, and liability limits that apply to our free downloads.`,
-    about: `What ${SITE_NAME} is: free printables, pages that roll to the next date, a live US holidays engine, and how monthly/yearly sheets are built.`,
+    about: `About ${SITE_NAME}: free printable calendars, holiday dates worked out for every year, and how the monthly and yearly sheets are made.`,
     advertising: `How ads fund ${SITE_NAME}: where AdSense units and Auto ads appear and which privacy controls you can use, while calendars stay free to download.`,
     disclosure: `${SITE_NAME} affiliate disclosure: how Amazon Associates and other advertising relationships work on this site and when a link may earn us a commission.`,
-    "school-holidays": `School holiday planning for the August to July year: month packs, a school-year overview, and classroom printables. Check your district for official dates.`,
+    "school-holidays": `Plan school holidays for the August to July year: the federal holidays in term time, the school year on one page and every month to print.`,
     "daylight-savings": `US daylight saving time ${today.getFullYear()} and ${today.getFullYear() + 1}: clocks spring forward the second Sunday of March and fall back the first Sunday of November.`,
   };
   return baseMeta({
