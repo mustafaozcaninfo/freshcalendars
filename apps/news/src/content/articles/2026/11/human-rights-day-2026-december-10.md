@@ -1,9 +1,9 @@
 ---
 title: "Human Rights Day 2026: Thursday, Dec. 10, All 30 Articles"
-description: "Human Rights Day 2026 is Thursday, Dec. 10, per the United Nations (UN). The 2026 theme is not yet announced. All 30 articles and a free checklist."
+description: "Human Rights Day 2026 is Thursday, Dec. 10, per the United Nations (UN). The 2026 theme is Making Humanity Together. All 30 articles, free checklist."
 type: explainer
 publishedAt: "2026-11-04T07:48:00-05:00"
-updatedAt: "2026-11-04T07:48:00-05:00"
+updatedAt: "2026-11-12T23:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["human rights day 2026", "when is human rights day", "human rights week 2026", "universal declaration of human rights articles"]
@@ -93,13 +93,13 @@ hero:
 summary:
   - "Human Rights Day is Thursday, Dec. 10, 2026. The United Nations (UN) says it is observed annually around the world on 10 December."
   - "The UN General Assembly proclaimed the Universal Declaration of Human Rights in Paris on 10 December 1948. It has 30 articles."
-  - "The Office of the High Commissioner for Human Rights (OHCHR) had not announced a 2026 theme as of Nov. 4. The 2025 UN campaign was 'Human Rights, Our Everyday Essentials.'"
+  - "The UN's 2026 theme is Making Humanity Together, a campaign inviting people to share stories. The 2025 UN campaign was 'Human Rights, Our Everyday Essentials.'"
   - "The date is fixed, so the weekday moves: Friday in 2027, Sunday in 2028 and Wednesday in 2031."
 faq:
   - q: "When is Human Rights Day 2026?"
     a: "Thursday, Dec. 10, 2026. The UN says Human Rights Day is observed annually on 10 December; the weekday is our calculation."
   - q: "What is the Human Rights Day 2026 theme?"
-    a: "Not yet announced by OHCHR as of Nov. 4, 2026. The 2025 UN campaign was 'Human Rights, Our Everyday Essentials.'"
+    a: "The UN's Human Rights Day page gives the 2026 theme as Making Humanity Together. The 2025 UN campaign was 'Human Rights, Our Everyday Essentials.'"
   - q: "How many articles are in the Universal Declaration of Human Rights?"
     a: "The UN refers to its 30 Articles. The table in this story lists all 30 with our short labels."
   - q: "Is there a Human Rights Week in 2026?"
@@ -149,7 +149,7 @@ downloads:
 draft: false
 ---
 
-**Human Rights Day is Thursday, Dec. 10, 2026,** according to the United Nations (UN), which says the day "is observed annually around the world on 10 December." The date marks the day the UN General Assembly proclaimed the Declaration in Paris, in 1948. Below are all 30 articles of the Universal Declaration of Human Rights with short labels, the date through 2031 and a free checklist. The Office of the High Commissioner for Human Rights (OHCHR) had not announced a 2026 theme as of Nov. 4.
+**Human Rights Day is Thursday, Dec. 10, 2026,** according to the United Nations (UN), which says the day "is observed annually around the world on 10 December." The date marks the day the UN General Assembly proclaimed the Declaration in Paris, in 1948. Below are all 30 articles of the Universal Declaration of Human Rights with short labels, the date through 2031 and a free checklist. The UN's 2026 theme is Making Humanity Together.
 
 ## Why is Human Rights Day on Dec. 10?
 
@@ -159,13 +159,17 @@ An older count is lower: Guinness World Records lists it as the "Most translated
 
 The UN Dag Hammarskjöld Library says the drafting group began its work in February 1947 and lists Eleanor Roosevelt among its members.
 
-## What is the Human Rights Day 2026 theme?
+## Human Rights Day 2026 theme: Making Humanity Together
 
-OHCHR had not announced a 2026 theme as of Nov. 4, 2026. The 2025 UN campaign was "Human Rights, Our Everyday Essentials." We will not guess a 2026 title; check the [UN's Human Rights Day page](https://www.un.org/en/observances/human-rights-day) for the announcement.
+The [UN's Human Rights Day page](https://www.un.org/en/observances/human-rights-day) gives the 2026 theme as Making Humanity Together, with the tagline "Human rights are our shared story. Our shared power. Our shared future." The UN says that "at a time of growing uncertainty, division and insecurity, Human Rights Day 2026 invites people everywhere to help tell a different story: one that makes visible how human rights are lived every day by millions of people around the world."
+
+The UN calls Making Humanity Together "a call to share these stories, celebrate what we can achieve together and help shape a future rooted in dignity, equality, solidarity and our common humanity." The page describes a global participatory campaign and asks people to "Add your thread. Share your story."
+
+The 2025 UN campaign was "Human Rights, Our Everyday Essentials."
 
 ## What are the 30 articles of the Universal Declaration?
 
-The table gives our short labels, based on the OHCHR plain-language version in "ABC: Teaching Human Rights," Annex 1. They are summaries, not the legal text. Read the full text at un.org.
+The table gives our short labels, based on the plain-language version from the Office of the High Commissioner for Human Rights (OHCHR) in "ABC: Teaching Human Rights," Annex 1. They are summaries, not the legal text. Read the full text at un.org.
 
 | Article | Short label |
 |---|---|
