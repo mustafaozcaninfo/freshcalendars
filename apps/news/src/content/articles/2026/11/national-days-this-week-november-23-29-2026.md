@@ -118,7 +118,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [national-days-this-week-november-16-22-2026, why-thanksgiving-2026-is-november-26, native-american-heritage-day-2026-friday-november-27-heritage-month]
+related: [national-days-this-week-november-30-december-6-2026, why-thanksgiving-2026-is-november-26, native-american-heritage-day-2026-friday-november-27-heritage-month]
 downloads:
   - group: "Thanksgiving Week Planner printables"
     title: "Thanksgiving Week Planner, Nov. 23-29, 2026"
