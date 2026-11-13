@@ -21,7 +21,14 @@
    "Make it easy to find old entries",
    "Add a monthly overview",
    "If you miss a few days"
-  ]
+  ],
+  "prices": {
+   "58": 17.99,
+   "71": 12.64,
+   "151": 4.95,
+   "160": 9.99
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "how-to-use-a-daily-planner",
@@ -46,7 +53,14 @@
    "5. Plan breaks",
    "6. Review the day",
    "Choosing a daily planner layout"
-  ]
+  ],
+  "prices": {
+   "7": 3.99,
+   "16": 9.49,
+   "104": 7.19,
+   "105": 25.0
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "how-to-choose-a-planner",
@@ -71,7 +85,14 @@
    "Academic planners",
    "Other details to check",
    "Try a layout before you buy"
-  ]
+  ],
+  "prices": {
+   "6": 21.2,
+   "110": 9.99,
+   "118": 33.5,
+   "126": 9.99
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "types-of-journals",
@@ -98,7 +119,15 @@
    "6. Project or idea notebook",
    "7. Reading or habit log",
    "Combining journal types"
-  ]
+  ],
+  "prices": {
+   "40": 16.99,
+   "60": 9.99,
+   "151": 4.95,
+   "157": 7.19,
+   "166": 8.09
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "planner-accessories-guide",
@@ -123,12 +152,20 @@
    "Stencils for neat headings and shapes",
    "A small starter kit",
    "Practice on a printed calendar"
-  ]
+  ],
+  "prices": {
+   "71": 12.64,
+   "75": 5.55,
+   "88": 5.58,
+   "90": 6.99,
+   "185": 29.99
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "christmas-gifts-for-planner-lovers",
   "id": 6,
-  "title": "Christmas Gifts for Planner Lovers: 25 Picks in 4 Price Bands",
+  "title": "Christmas Gifts for Planner Lovers: 24 Picks in 4 Price Bands",
   "type": "gift",
   "primary_query": "christmas gifts for planner lovers",
   "cluster": "gifts-christmas",
@@ -146,7 +183,6 @@
    282,
    296,
    301,
-   306,
    307,
    463,
    567,
@@ -189,8 +225,34 @@
   "published_at": "2026-11-09T08:40:00.000000Z",
   "enabled": true,
   "pillar": true,
-  "price_checked": "2026-11-11",
-  "refresh_by": null
+  "price_checked": "2026-11-13",
+  "refresh_by": null,
+  "prices": {
+   "71": 12.64,
+   "118": 33.5,
+   "194": 47.6,
+   "214": 29.99,
+   "231": 29.99,
+   "235": 10.29,
+   "237": 29.99,
+   "246": 12.89,
+   "258": 12.01,
+   "281": 40.99,
+   "282": 9.97,
+   "296": 9.99,
+   "301": 11.99,
+   "307": 11.95,
+   "463": 12.98,
+   "567": 16.79,
+   "616": 9.99,
+   "642": 15.99,
+   "902": 7.99,
+   "952": 6.99,
+   "956": 5.99,
+   "1140": 14.95,
+   "1247": 7.99,
+   "1815": 8.99
+  }
  },
  {
   "slug": "best-wall-calendars",
@@ -221,7 +283,17 @@
    "Best for the school year: Relinpoe 24 x 36 in academic calendar",
    "Which 2027 wall calendars print federal holidays?",
    "What size wall calendar fits a home?"
-  ]
+  ],
+  "prices": {
+   "273": 7.99,
+   "274": 12.99,
+   "290": 28.99,
+   "291": 9.99,
+   "292": 7.99,
+   "294": 15.99,
+   "300": 11.99
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "best-calendar-year-planners",
@@ -252,11 +324,23 @@
    "Best for two years on one cover: Urneeds 2027-2028 monthly planner",
    "Best for five years: Goiunlt 2027-2031 A5 monthly planner",
    "Best for a start this month: Leuchtturm1917 B5 planner, Nov 2026 to Feb 2028",
-   "Best for reusing the cover: Fan&Ran A5 leather binder",
+   "Best for reusing the cover: Fan&amp;Ran A5 leather binder",
    "Best for one day per page: At-A-Glance 7.75 x 12 in daily planner",
    "Which 2027 planners state a paper weight?",
    "Which planners start in January 2027?"
-  ]
+  ],
+  "prices": {
+   "118": 33.5,
+   "191": 56.08,
+   "196": 7.58,
+   "203": 13.99,
+   "212": 8.99,
+   "234": 11.99,
+   "249": 12.99,
+   "281": 40.99,
+   "282": 9.97
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "planner-dates-and-holidays",
@@ -288,7 +372,16 @@
    "A 16-month start in November 2026: LEUCHTTURM1917 B5",
    "A wall layout for 2027 and 2028: Feteulo 2-year calendar",
    "Free printables for the same 2027 dates"
-  ]
+  ],
+  "prices": {
+   "118": 33.5,
+   "196": 7.58,
+   "203": 13.99,
+   "212": 8.99,
+   "234": 11.99,
+   "291": 9.99
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "best-gratitude-journals",
@@ -320,7 +413,17 @@
    "How long does a gratitude journal take each day?",
    "Are five-year memory books gratitude journals?",
    "Printables to pair with a journal"
-  ]
+  ],
+  "prices": {
+   "233": 13.97,
+   "235": 10.29,
+   "236": 6.99,
+   "237": 29.99,
+   "238": 13.66,
+   "239": 11.99,
+   "284": 7.49
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "christmas-gifts-for-teachers-stationery",
@@ -349,7 +452,19 @@
    "Pens and highlighters teachers use for marking",
    "Small add-ons: sticky notes and planner tabs",
    "Where to find the matching printables and guides"
-  ]
+  ],
+  "prices": {
+   "69": 11.59,
+   "71": 12.64,
+   "201": 29.95,
+   "244": 26.99,
+   "657": 10.89,
+   "1086": 7.99,
+   "1102": 18.99,
+   "1195": 11.0,
+   "1402": 9.99
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "gifts-for-writers-journals-and-pens",
@@ -378,7 +493,20 @@
    "Leather journals as gifts",
    "Pens and ink: one pairing rule",
    "What else to add to the gift?"
-  ]
+  ],
+  "prices": {
+   "214": 29.99,
+   "227": 24.99,
+   "715": 24.29,
+   "719": 19.0,
+   "780": 59.0,
+   "874": 25.99,
+   "879": 15.95,
+   "1121": 25.98,
+   "1122": 12.27,
+   "1270": 9.99
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "gifts-for-artists-who-sketch",
@@ -411,7 +539,21 @@
    "Over twenty dollars: a marker set, a pencil kit and a pad",
    "A sketch a day in 2027: how many pages is that?",
    "Free printables and where to browse"
-  ]
+  ],
+  "prices": {
+   "480": 9.99,
+   "481": 9.99,
+   "733": 24.99,
+   "981": 21.99,
+   "983": 19.99,
+   "988": 15.66,
+   "1314": 27.99,
+   "1319": 15.97,
+   "1549": 5.88,
+   "1713": 14.99,
+   "1718": 7.99
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "travel-journal-gifts-for-travelers",
@@ -419,20 +561,18 @@
   "primary_query": "travel journal gifts for travelers: 10 picks by size and pages",
   "cluster": "travel-journal-gifts-for-travelers",
   "id": 14,
-  "title": "Travel Journal Gifts for Travelers: 10 Picks by Size and Pages",
+  "title": "Travel Journal Gifts for Travelers: 8 Picks by Size and Pages",
   "enabled": true,
   "published_at": "2026-11-10T08:10:00.000000Z",
   "products": [
    256,
-   286,
    828,
    840,
    871,
    874,
    875,
    879,
-   881,
-   909
+   881
   ],
   "h2": [
    "What this list compares",
@@ -441,7 +581,18 @@
    "Keepsake and reading journals for slower trips",
    "When to order a travel journal gift",
    "Related buying guides"
-  ]
+  ],
+  "prices": {
+   "256": 22.0,
+   "828": 11.99,
+   "840": 6.99,
+   "871": 32.98,
+   "874": 25.99,
+   "875": 28.04,
+   "879": 15.95,
+   "881": 8.95
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "baby-memory-book-gifts-for-new-parents",
@@ -467,7 +618,17 @@
    "Pregnancy journals for parents who are still waiting",
    "Timing a baby book gift",
    "More baby and memory books"
-  ]
+  ],
+  "prices": {
+   "369": 29.95,
+   "370": 18.96,
+   "377": 27.99,
+   "378": 19.96,
+   "379": 15.97,
+   "420": 39.99,
+   "421": 34.95
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "planner-gifts-for-college-students",
@@ -475,15 +636,13 @@
   "primary_query": "planner gifts for college students: 11 picks, dated or undated",
   "cluster": "planner-gifts-for-college-students",
   "id": 16,
-  "title": "Planner Gifts for College Students: 11 Picks, Dated or Undated",
+  "title": "Planner Gifts for College Students: 9 Picks",
   "enabled": true,
   "published_at": "2026-11-10T09:00:00.000000Z",
   "products": [
    71,
-   124,
    200,
    244,
-   306,
    657,
    1151,
    1187,
@@ -492,14 +651,26 @@
    1402
   ],
   "h2": [
-   "How the eleven gifts were sorted",
-   "Planners: dated, undated and what is left of the year",
+   "How the nine gifts were sorted",
+   "Planners: the undated pick",
    "Notebooks for note-taking",
    "Tabs and sticky notes for color coding",
    "Pens and highlighters that fit a student budget",
    "Dated or undated: which planner for which student?",
    "Where to find more student supplies"
-  ]
+  ],
+  "prices": {
+   "71": 12.64,
+   "200": 9.99,
+   "244": 26.99,
+   "657": 10.89,
+   "1151": 9.99,
+   "1187": 3.98,
+   "1195": 11.0,
+   "1376": 12.99,
+   "1402": 9.99
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "leather-journals-under-30",
@@ -531,7 +702,17 @@
    "A travel set: passport size notebook with 3 inserts",
    "A binder cover only: PATIKIL A5, red PU leather",
    "What you give up under $30"
-  ]
+  ],
+  "prices": {
+   "227": 24.99,
+   "715": 24.29,
+   "716": 21.99,
+   "718": 24.0,
+   "719": 19.0,
+   "874": 25.99,
+   "1676": 17.49
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "best-page-a-day-calendars",
@@ -2003,7 +2184,19 @@
    "Stencils and markers for people who design their own pages",
    "Which journal paper goes with markers and fountain pens?",
    "When to buy and what to add for free"
-  ]
+  ],
+  "prices": {
+   "250": 14.95,
+   "252": 24.95,
+   "267": 9.99,
+   "270": 15.99,
+   "288": 8.29,
+   "301": 11.99,
+   "983": 19.99,
+   "1141": 24.95,
+   "1193": 16.99
+  },
+  "price_checked": "2026-11-13"
  },
  {
   "slug": "planner-gifts-for-moms",
@@ -2066,9 +2259,33 @@
   "image": "existing",
   "published_at": "2026-11-10T09:25:00.000000Z",
   "enabled": true,
-  "price_checked": null,
+  "price_checked": "2026-11-13",
   "refresh_by": null,
-  "pillar": true
+  "pillar": true,
+  "prices": {
+   "211": 8.99,
+   "231": 29.99,
+   "237": 29.99,
+   "238": 13.66,
+   "259": 32.97,
+   "377": 27.99,
+   "379": 15.97,
+   "420": 39.99,
+   "463": 12.98,
+   "593": 11.79,
+   "950": 9.99,
+   "968": 11.99,
+   "992": 25.99,
+   "1103": 10.99,
+   "1134": 12.99,
+   "1214": 24.97,
+   "1552": 27.99,
+   "1598": 23.99,
+   "1661": 9.99,
+   "1814": 15.29,
+   "2099": 15.29,
+   "2101": 16.99
+  }
  },
  {
   "slug": "planner-stickers-and-washi-tape-under-10",
@@ -3142,8 +3359,36 @@
   "published_at": "2026-11-10T06:05:00.000000Z",
   "enabled": true,
   "pillar": true,
-  "price_checked": "2026-11-11",
-  "refresh_by": null
+  "price_checked": "2026-11-13",
+  "refresh_by": null,
+  "prices": {
+   "69": 11.59,
+   "71": 12.64,
+   "164": 9.99,
+   "262": 11.99,
+   "265": 12.95,
+   "267": 9.99,
+   "395": 4.99,
+   "470": 4.37,
+   "478": 5.99,
+   "657": 10.89,
+   "769": 9.99,
+   "774": 8.99,
+   "902": 7.99,
+   "1187": 3.98,
+   "1195": 11.0,
+   "1259": 8.99,
+   "1260": 6.99,
+   "1327": 4.99,
+   "1396": 3.99,
+   "1402": 9.99,
+   "1624": 5.98,
+   "1671": 8.99,
+   "1859": 3.59,
+   "1890": 3.98,
+   "1891": 5.85,
+   "1892": 4.99
+  }
  },
  {
   "slug": "best-bullet-journal-with-thick-paper",

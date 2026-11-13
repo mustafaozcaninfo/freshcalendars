@@ -209,6 +209,13 @@ Use the `shop-article` skill (`.claude/skills/shop-article/SKILL.md`): which que
 - Not fixable from here: on any 404 page Livewire posts `pageLoaded` to `/livewire/update`, the platform answers 204 with no body and the script logs "Unexpected end of JSON input". Nothing visible breaks; report it to FreshStore support.
 - Sitemap checked: the 11 holiday articles and `/categories/logbooks-and-record-books` are in it.
 
+### Price refresh of Nov. 13, 2026
+- `article_prices.py` on the 24 articles published Nov. 9 to 11 found real drift in 10: 23 price cells and the figures computed from them (Grabie fineliners $19.99 to $26.99, At-A-Glance $49.99 to $56.08), two products that were no longer below list price, and four products with no offer left (124, 306, 286, 909). The four were disabled and redirected to their category (redirects 866 to 869) and taken out of three articles.
+- Titles that carried a count changed: `christmas-gifts-for-planner-lovers` is now 24 picks, `travel-journal-gifts-for-travelers` 8 picks, `planner-gifts-for-college-students` 9 picks. The slug was sent with each PATCH and did not change.
+- **Open:** `planner-gifts-for-college-students` lost both dated academic planners and its "at or under 20 dollars" rule (Grabie is above it now). It is true as written but thin: add two in-stock dated academic planners and restore the angle.
+- How it was done, for the next refresh: one file per article with the live body and every product's current price, a Sonnet agent per three to four articles that edits only prices, computed figures, counts and removed products and logs each change, then a word-level diff read in the main session before the PATCH. Things the diff caught: a dollar amount written into prose (amounts stay in tables), and "checked" dates moved on tables that hold dates, not prices.
+- `CHECK` lines are often not drift: an article that prints only unit costs or no price for a linked product gets them until its prices are recorded (`--record`).
+
 ### Hidden categories (crawl of Nov. 13, 2026)
 
 - `tools/crawl.py` found one real fault on 1,906 URLs: 50 product pages linked to six categories that were created hidden on Nov. 9 and never opened, so the links returned 404.
