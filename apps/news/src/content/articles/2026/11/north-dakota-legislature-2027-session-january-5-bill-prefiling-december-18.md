@@ -58,7 +58,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [montana-legislature-2027-session-january-4-bill-request-deadlines, utah-legislature-2027-general-session-january-19-march-5, nebraska-legislature-2027-session-january-6-day-90-june-4]
+related: [minnesota-legislature-2027-session-january-12-adjournment-may-17, utah-legislature-2027-general-session-january-19-march-5, nebraska-legislature-2027-session-january-6-day-90-june-4]
 assets:
   overlay: true
   kicker: "North Dakota Legislature · 2027 session"
