@@ -48,7 +48,7 @@ internalLinks:
     label: "March 2027 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [nebraska-legislature-2027-session-january-6-day-90-june-4, missouri-general-assembly-2027-session-january-6-prefiling-december-1, kentucky-general-assembly-2027-session-january-5-sine-die-march-30]
+related: [nebraska-legislature-2027-session-january-6-day-90-june-4, missouri-general-assembly-2027-session-january-6-prefiling-december-1, minnesota-legislature-2027-session-january-12-adjournment-may-17]
 assets:
   overlay: true
   kicker: "Iowa Legislature · 2027 session"
