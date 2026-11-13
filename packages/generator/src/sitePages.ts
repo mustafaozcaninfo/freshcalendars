@@ -68,6 +68,7 @@ import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
 import { STUDIO_STYLES, studioAssets } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
 import { datedPages, datedIndexNav, monthYearPath, yearHref } from "./datedPages.js";
+import { classroomGuideBody, fiscalGuideBody, mondayGuideBody, printGuideExtra } from "./guideCopy.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary } from "./conceptPages.js";
 
 /**
@@ -1261,39 +1262,21 @@ ${faqSection(meta)}`;
         ? {
             eyebrow: "Guide · Classroom",
             h1: "Classroom calendar printables for teachers",
-            lead: "School-year overviews, kids blanks, weekly habit trackers, and Monday-start months for teachers and parents on Fresh Calendars.",
-            body: `
-  <h2>Start with the school year</h2>
-  <p>Download the <a href="/printable-school-calendar.html">Aug–Jul overview</a>, then print Classic B&amp;W or Monday-start months for the wall and handouts. Mark district breaks yourself — this is not an official district calendar.</p>
-  <h2>Write-in sheets</h2>
-  <p>Use the <a href="/blank-calendars.html#template-kids">kids blank</a> and <a href="/blank-calendars.html#template-notes">notes blank</a> for undated classroom work. Pair with <a href="/printable-weekly-calendar.html#template-habit">weekly habits</a>.</p>
-  <h2>Holidays</h2>
-  <p>US federal days are on <a href="/holidays/">holidays</a>; UK and Canada lists are separate hubs if you teach internationally.</p>`,
+            lead: "What to print for a classroom wall, calendar time and handouts, with the weekdays in every month of the school year.",
+            body: classroomGuideBody(today),
           }
         : g === "monday-guide"
           ? {
               eyebrow: "Guide · Monday start",
               h1: "Monday start vs Sunday start calendar",
-              lead: "When Mon–Sun grids win for workweeks and schools — and which Fresh Calendars files to download first.",
-              body: `
-  <h2>Use Monday-start when…</h2>
-  <p>Your week is work-first, your school follows ISO-style weeks, or you want weekends together at the end of the row. Jump to the <a href="/printable-monday-start-calendar.html">Monday-start hub</a> for current/next month PDFs.</p>
-  <h2>Stay Sunday-start when…</h2>
-  <p>US consumer planners, church calendars, or habit of “weekend first” layouts. Classic B&amp;W and most monthly templates remain Sunday-start.</p>
-  <h2>Related downloads</h2>
-  <p><a href="/blank-calendars.html#template-monday-start">Blank Monday monthly</a> · <a href="/printable-weekly-calendar.html#template-monday-start">Monday weekly</a> · <a href="/printable-calendars.html">Yearly Monday-start poster</a> (in the yearly gallery).</p>`,
+              lead: "Which layout to print, where each is the norm, and how many rows each month needs in both.",
+              body: mondayGuideBody(today),
             }
           : {
               eyebrow: "Guide · Fiscal year",
               h1: "Fiscal year vs calendar year",
-              lead: "Jan–Dec, custom fiscal spans, and academic Aug–Jul — matching Fresh Calendars downloads to each.",
-              body: `
-  <h2>Calendar year</h2>
-  <p>January–December. Use the <a href="/printable-calendars.html">dated yearly poster</a> and the monthly pages.</p>
-  <h2>Fiscal year</h2>
-  <p>Any 12-month accounting span. Print the <a href="/printable-blank-yearly-calendar.html">blank yearly</a> poster and label your fiscal months, or chain dated month PDFs for your span.</p>
-  <h2>Academic year</h2>
-  <p>August–July lives on the <a href="/printable-school-calendar.html">school year hub</a> with an overview download and month pack.</p>`,
+              lead: "How a fiscal year differs from January to December, the dates of the common ones, and how to print a calendar for yours.",
+              body: fiscalGuideBody(today),
             };
     const hero = `
 <section class="hero"><div class="hero-inner">
@@ -1328,7 +1311,7 @@ ${faqSection(meta)}`;
 <section class="hero"><div class="hero-inner">
   <div class="eyebrow">Fresh Calendars · Print guide</div>
   <h1>How to print a calendar that fits the page</h1>
-  <p class="lead">Paper size, margins, fit-to-page, ink-saver settings, and PDF vs PNG — so Fresh Calendars sheets actually fit the page.</p>
+  <p class="lead">Paper size, scale, margins and ink settings for a calendar that fills the sheet without clipping, on US Letter or A4.</p>
   <div class="cta">
     <a class="btn btn-primary" href="/blank-calendars.html">Blank calendar</a>
     <a class="btn btn-ghost" href="/printable-calendars.html">Yearly poster</a>
@@ -1339,8 +1322,8 @@ ${adBand(ADS.inArticle, "FreshCalendars_PrintGuide_Top")}`;
 <section class="section prose">
   <h2>1. Pick the right file</h2>
   <ul>
-    <li><strong>PDF</strong> — best for desktop print dialogs and consistent fonts.</li>
-    <li><strong>PNG</strong> — handy for preview, annotation apps, or when PDF viewers misbehave.</li>
+    <li><strong>PDF:</strong> best for printing. The fonts are embedded and the page size is exact.</li>
+    <li><strong>PNG:</strong> an image for annotation apps, slides, or a phone that will not open the PDF.</li>
     <li>For planning drafts, start with the <strong>classic black &amp; white</strong> monthly template.</li>
   </ul>
   <h2>2. Paper &amp; orientation</h2>
@@ -1358,7 +1341,8 @@ ${adBand(ADS.inArticle, "FreshCalendars_PrintGuide_Top")}`;
     <li>Skip color-modern until the final wall copy.</li>
     <li>Reuse the <a href="/blank-calendars.html">blank undated</a> sheet when weekdays don’t matter yet.</li>
   </ul>
-  <h2>5. Quick links</h2>
+${printGuideExtra(today)}
+  <h2>More printables</h2>
   <div class="cta">
     <a class="btn btn-primary btn-sm" href="/printable-weekly-calendar.html">Weekly</a>
     <a class="btn btn-ghost btn-sm" href="/printable-school-calendar.html">School year</a>
