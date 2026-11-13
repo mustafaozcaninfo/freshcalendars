@@ -1,0 +1,146 @@
+---
+title: "FAA Ground Stop Today: All U.S. Airports Held at 3:54 p.m. ET"
+description: "The Federal Aviation Administration (FAA) ground-stopped all U.S. airports at 3:54 p.m. ET Nov. 13, 2026. See the order's times by zone and the FAA map."
+type: news
+publishedAt: "2026-11-13T16:32:00-05:00"
+authors: [christina-gerland]
+category: planning
+keywords: ["faa ground stop today", "nationwide ground stop", "faa ground stop map", "faa flight delays today", "when will flights resume"]
+dateline: "New York"
+assets:
+  overlay: true
+  kicker: "FAA ground stop · Fri., Nov. 13, 2026"
+  date: "2026-11-13"
+  card: { top: "All U.S. airports ground stopped", big: "3:54 p.m. ET", bottom: "FAA advisory 111" }
+hero:
+  src: ../../../../assets/news/faa-ground-stop-november-13-2026/faa-ground-stop-november-13-2026.webp
+  alt: "Air traffic control tower at Chicago O'Hare International Airport under storm clouds, a file photo for the FAA ground stop today"
+  caption: "File photo from July 2009: the control tower at Chicago O'Hare International Airport. The FAA stopped O'Hare departures at 3:10 p.m. ET on Nov. 13, 2026, before the national order."
+  credit: "Photo: Ad Meskens / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 3.0"
+    url: "https://creativecommons.org/licenses/by-sa/3.0"
+    source: "https://commons.wikimedia.org/wiki/File:Tower_at_O%27Hare_at_sunset.jpg"
+    author: "Ad Meskens"
+    authorUrl: "https://commons.wikimedia.org/wiki/User:AdMeskens"
+summary:
+  - "The Federal Aviation Administration (FAA) sent a National Ground Stop advisory, number 111, at 3:54 p.m. ET on Friday, Nov. 13, 2026. It says all airports are ground stopped and departing traffic should stay on the ground until further notice."
+  - "The advisory lists an event time that ends at 0400 UTC on Nov. 14, which is 11 p.m. ET on Nov. 13. That is the planning window on the notice, and the order itself runs until further notice."
+  - "The FAA's reason on the national advisory is \"extraordinary circumstances and for reasons of safety.\" Its earlier Chicago O'Hare ground stop lists an equipment outage with the comment \"comms issues.\""
+  - "Inbound international flights are managed case by case, the advisory says. A ground stop holds flights at the departure airport; it does not cancel them."
+faq:
+  - q: "Is the FAA ground stop still in effect?"
+    a: "When we checked the FAA advisory database at 4:25 p.m. ET on Nov. 13, 2026, it listed no advisory canceling National Ground Stop advisory 111. The order runs until further notice, so look for a later advisory with a cancellation in its title."
+  - q: "Where is the FAA ground stop map?"
+    a: "The FAA's National Airspace System Status page at nasstatus.faa.gov has a map view, a list view and a tile view of airports with ground stops, ground delays, departure delays and closures."
+  - q: "Does a ground stop mean my flight is canceled?"
+    a: "No. A ground stop holds aircraft at the airport they are leaving from. Only the airline cancels or reschedules a flight, so the airline's app or website is the place to check a flight number."
+  - q: "What about flights that are already in the air?"
+    a: "The national advisory covers departing traffic. It says inbound international flights will be managed on a case by case basis. The FAA's advisory list also shows a notice titled \"Nation Wide Airborne Holding\" sent at 4:20 p.m. ET."
+  - q: "Was the ground stop caused by a cyberattack?"
+    a: "The FAA has not said so. Its national advisory gives no technical cause, and the Chicago O'Hare advisory lists an equipment outage and communications issues."
+sources:
+  - title: "ATCSCC ADVZY 111 DCC 11/13/2026 National Ground Stop"
+    url: "https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=111&adv_date=11132026&facId=DCC&title=ATCSCC%20ADVZY%20111%20DCC%2011/13/2026%20NATIONAL%20GROUND%20STOP&titleDate=11/13/2026"
+    publisher: "Federal Aviation Administration, Air Traffic Control System Command Center"
+    date: "2026-11-13"
+  - title: "ATCSCC ADVZY 107 ORD/ZAU 11/13/2026 CDM Ground Stop"
+    url: "https://www.fly.faa.gov/adv/adv_otherdis.jsp?advn=107&adv_date=11132026&facId=ORD&title=ATCSCC%20ADVZY%20107%20ORD/ZAU%2011/13/2026%20CDM%20GROUND%20STOP&titleDate=11/13/2026"
+    publisher: "Federal Aviation Administration, Air Traffic Control System Command Center"
+    date: "2026-11-13"
+  - title: "National Airspace System Status"
+    url: "https://nasstatus.faa.gov/"
+    publisher: "Federal Aviation Administration"
+    date: "2026-11-13"
+  - title: "Advisories Database"
+    url: "https://www.fly.faa.gov/adv/advAdvisoryForm.jsp"
+    publisher: "Federal Aviation Administration, Air Traffic Control System Command Center"
+    date: "2026-11-13"
+  - title: "Ground stop ordered at airports nationwide for reasons of safety"
+    url: "https://www.today.com/news/ground-stop-ordered-airports-nationwide-reasons-safety-rcna609250"
+    publisher: "NBC News (TODAY)"
+    date: "2026-11-13"
+  - title: "Nationwide ground stop ordered at airports: FAA"
+    url: "https://abcnews.com/US/nationwide-ground-stop-ordered-airports-faa/story?id=138121848"
+    publisher: "ABC News"
+    date: "2026-11-13"
+internalLinks:
+  - href: "/november-calendars.html"
+    label: "November 2026 printable calendar"
+  - href: "/when-is/thanksgiving/"
+    label: "When is Thanksgiving?"
+related: [thanksgiving-travel-2026-best-days-to-fly-and-drive, christmas-travel-2026-busiest-days-to-fly-tsa-checkpoint-counts, tsa-confirmid-45-fee-no-real-id-holiday-travel-2026]
+draft: false
+---
+
+**The Federal Aviation Administration (FAA) ground-stopped all U.S. airports at 3:54 p.m. ET on Friday, Nov. 13, 2026.** Its National Ground Stop advisory, number 111, tells every aircraft operator that departing traffic should stay on the ground until further notice. NBC News and ABC News reported the order within minutes.
+
+The advisory is four sentences long. The times on it are in Coordinated Universal Time (UTC), which pilots call Zulu, so the table further down converts them for each U.S. time zone.
+
+## What the FAA ground stop advisory says
+
+The FAA's Air Traffic Control System Command Center (ATCSCC) in Virginia sends these advisories to airlines and pilots. Advisory 111 reads:
+
+> "Due to extraordinary circumstances and for reasons of safety. Attention all aircraft operators, by order of the Federal Aviation Command Center all airports are ground stopped. All departing traffic should remain ground stopped until further notice. Inbound international flights will be managed on a case by case basis."
+
+Three things follow from that wording. The order covers departures, and it names all airports. It has no fixed end. Flights from abroad that were already on their way are handled one at a time.
+
+## FAA ground stop times in ET, CT, MT and PT
+
+The advisory lists an event time of "13/2053 - 14/0400" and a send time of 20:54 on Nov. 13, all in UTC. Converted:
+
+| On the advisory | UTC | Eastern | Central | Mountain | Pacific |
+|---|---|---|---|---|---|
+| Event time starts | 20:53, Nov. 13 | 3:53 p.m. | 2:53 p.m. | 1:53 p.m. | 12:53 p.m. |
+| Advisory sent | 20:54, Nov. 13 | 3:54 p.m. | 2:54 p.m. | 1:54 p.m. | 12:54 p.m. |
+| Event time ends | 04:00, Nov. 14 | 11 p.m. | 10 p.m. | 9 p.m. | 8 p.m. |
+| Advisory expires | 04:30, Nov. 14 | 11:30 p.m. | 10:30 p.m. | 9:30 p.m. | 8:30 p.m. |
+
+Every local time in the table falls on Friday, Nov. 13. The 11 p.m. ET end is the window printed on the notice. It is not a promise that flights resume then: the text says "until further notice," and the FAA can cancel the stop earlier or extend it with a new advisory.
+
+## Chicago O'Hare and Midway were stopped first
+
+The national order came 44 minutes after a ground stop at Chicago O'Hare International Airport (ORD). FAA advisory 107 lists that stop from 3:10 p.m. to 4:30 p.m. ET, gives the impacting condition as "equipment / outage" and adds the comment "comms issues." It rated the chance of an extension as medium.
+
+The FAA's status page showed a ground stop at Chicago Midway International Airport (MDW) from 3:17 p.m. ET, also "due to equipment outage."
+
+| Time (ET), Nov. 13 | What the FAA posted |
+|---|---|
+| 3:10 p.m. | Ground stop begins for flights to Chicago O'Hare, equipment outage |
+| 3:17 p.m. | Ground stop begins for Chicago Midway, equipment outage |
+| 3:30 p.m. | Advisory 108 sent: "All Airports Diversion Recovery Activated" |
+| 3:54 p.m. | Advisory 111 sent: National Ground Stop |
+| 4:20 p.m. | Advisory 116 sent: "Nation Wide Airborne Holding" |
+| 4:21 p.m. | Advisory 117 sent: all centers, "Extended Flight Plan Drop Times Implemented" |
+
+The FAA has not published a technical cause for the national stop. Advisory 111 gives only "extraordinary circumstances" and safety. Anything beyond the equipment outage and communications issues on the Chicago notices is unconfirmed.
+
+## Where to see the FAA ground stop map
+
+The official map is the FAA's National Airspace System Status page, [nasstatus.faa.gov](https://nasstatus.faa.gov/). It has three views: list, tile and map. Each airport with a ground stop, ground delay program, departure delay or closure appears with its times and the reason the FAA gives.
+
+Three cautions. The page shows times in the time zone of your device. And during the first half hour of the national order it still listed airports one by one, with O'Hare and Midway as ground stops and airports such as Newark, Las Vegas, Houston and Phoenix as departure delays, so an airport missing from the list was not proof that flights were leaving.
+
+A third: at about 4:40 p.m. ET the status page read "No active airport events" and the advisory database returned no advisories for Nov. 13, including the ones it had listed 20 minutes earlier. An empty page is not a cancellation. Only an FAA advisory or statement lifting the stop is.
+
+To read the advisories themselves:
+
+1. Open the FAA's [Advisories Database](https://www.fly.faa.gov/adv/advAdvisoryForm.jsp).
+2. Keep the date on Nov. 13, 2026 and select "Show Selected Advisories."
+3. Read down from the top, where the newest notice sits. A cancellation of the national ground stop would appear there with its own number and send time.
+
+## When flights will resume after the ground stop
+
+The FAA had not announced a restart time as of 4:25 p.m. ET on Nov. 13. The advisory database listed no cancellation of advisory 111 at that time.
+
+A restart is gradual. After a ground stop ends, aircraft and crews are out of position, and airports release held flights in order. Friday evening departures and Saturday morning flights on Nov. 14 can run late even after the order is lifted. The FAA has not published delay or cancellation counts for this event, and none are given here.
+
+## What travelers should do during the ground stop
+
+- Check the flight number in the airline's app or website before leaving for the airport. The airline, not the FAA, cancels and rebooks flights.
+- Turn on the airline's text or app alerts for the flight.
+- Check a connecting flight separately; it may be held at a different airport.
+- Ask the airline about a travel waiver before paying a change fee. Airlines post waivers on their own sites, and none had been confirmed from an airline's page when this was written.
+- Keep receipts for meals and hotels if the airline's customer service plan covers delays within its control.
+
+Thanksgiving is Thursday, Nov. 26, 13 days after this ground stop. Our guide to the [best days to fly and drive for Thanksgiving 2026](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/) has the travel period day by day, and the [November 2026 printable calendar](/november-calendars.html) has room to note a rebooked flight. Travelers without a REAL ID who get rebooked onto a later date should check whether a [$45 Transportation Security Administration (TSA) ConfirmID receipt](/news/tsa-confirmid-45-fee-no-real-id-holiday-travel-2026/) still covers the new travel day.
