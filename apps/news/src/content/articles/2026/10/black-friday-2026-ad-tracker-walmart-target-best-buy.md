@@ -9,7 +9,7 @@ category: retail-dates
 keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
 dateline: "New York"
 assets:
-  scene: shopping
+  overlay: true
   kicker: "Black Friday 2026 · Fri., Nov. 27"
   date: "2026-11-27"
   card: { top: "Black Friday 2026", big: "Fri., Nov. 27", bottom: "Walmart deals Nov. 23-29" }
@@ -43,9 +43,16 @@ assets:
     description: "One-page Black Friday 2026 deals calendar: Target early deals Nov. 5-7, Walmart events Nov. 12-15 and Nov. 23-29, Black Friday Nov. 27 and Cyber Monday Nov. 30."
     alt: "Printable November 2026 calendar marking Target and Walmart Black Friday deal dates, Black Friday and Cyber Monday"
 hero:
-  src: ../../../../assets/news/black-friday-2026-ad-tracker-walmart-target-best-buy/black-friday-2026-ad-tracker-walmart-target-best-buy.jpg
-  alt: "Black Friday 2026 ad tracker: a shopping scene beside a calendar card for Friday, Nov. 27"
-  caption: "Black Friday is Friday, Nov. 27, 2026. Walmart, Target, Best Buy and Amazon have published their deal dates."
+  src: ../../../../assets/news/black-friday-2026-ad-tracker-walmart-target-best-buy/black-friday-2026-ad-tracker-walmart-target-best-buy.webp
+  alt: "Black Friday shoppers hurry through a store entrance past metal barriers as the doors open at night"
+  caption: "File photo: shoppers rush into a store as the doors open on a past Black Friday. Black Friday 2026 is Friday, Nov. 27."
+  credit: "Photo: Powhusku from Laramie, WY, USA / Wikimedia Commons, cropped, edited"
+  license:
+    name: "CC BY-SA 2.0"
+    url: "https://creativecommons.org/licenses/by-sa/2.0"
+    source: "https://commons.wikimedia.org/wiki/File:Black_Friday_by_Powhusku.jpg"
+    author: "Powhusku from Laramie, WY, USA"
+    authorUrl: "https://www.flickr.com/people/44293847@N08"
 summary:
   - "Black Friday 2026 is Friday, Nov. 27. Thanksgiving is Thursday, Nov. 26, Small Business Saturday is Nov. 28 and Cyber Monday is Monday, Nov. 30."
   - "Target has also set dates: Deal of the Day every day Nov. 1 to Dec. 24, Early Black Friday deals Nov. 5 to 7 and stores open at 6 a.m. local time on Nov. 27, 2026. Its Holiday Price Match Guarantee runs Nov. 1 to Dec. 24."
