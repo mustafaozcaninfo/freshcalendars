@@ -92,7 +92,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb, rrsp-deadline-2027-march-1-canada-tax-season-dates, canada-statutory-holidays-2027-federal-general-holidays]
+related: [cpp-2027-ympe-76700-maximum-pensionable-earnings-yampe, canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb, rrsp-deadline-2027-march-1-canada-tax-season-dates]
 draft: false
 downloads:
   - group: "EI Premiums and Benefit Rates printables"
