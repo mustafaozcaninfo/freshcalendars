@@ -150,7 +150,7 @@ Every row comes from the association's own page. Weekdays are computed from the 
 | South Carolina | South Carolina High School League (SCHSL) | Fri.-Sat., Dec. 4-5 | South Carolina State University, Orangeburg |
 | Pennsylvania | Pennsylvania Interscholastic Athletic Association (PIAA) | Thu.-Sat., Dec. 10-12 | Chapman Field, Cumberland Valley High School |
 | North Carolina | North Carolina High School Athletic Association (NCHSAA) | Thu.-Sat., Dec. 10-12 | Kenan Stadium, Chapel Hill; Helen & Leonard Moretz Stadium, Hickory; Barker-Lane Stadium, Buies Creek |
-| Louisiana | Louisiana High School Athletic Association (LHSAA) | Thu.-Sat., Dec. 10-12 (2026 Allstate Sugar Bowl LHSAA Prep Classic) | Caesars Superdome, New Orleans |
+| Louisiana | [Louisiana High School Athletic Association (LHSAA)](/news/lhsaa-prep-classic-2026-superdome-schedule-kickoff-times/) | Thu.-Sat., Dec. 10-12 (2026 Allstate Sugar Bowl LHSAA Prep Classic) | Caesars Superdome, New Orleans |
 | Georgia | Georgia High School Association (GHSA) | Tue.-Wed., Dec. 15-16 | Mercedes-Benz Stadium, Atlanta |
 | Texas | [University Interscholastic League (UIL)](/news/uil-football-state-championships-2026-schedule-att-stadium/) | Wed.-Sat., Dec. 16-19 (classes 1A to 6A) | AT&T Stadium, Arlington |
 
