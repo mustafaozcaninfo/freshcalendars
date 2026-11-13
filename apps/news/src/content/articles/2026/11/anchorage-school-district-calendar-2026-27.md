@@ -214,3 +214,5 @@ The district's 2027-28 calendar (revised 8-4-26) lists teachers' first day as Au
 ## Print the Anchorage School District calendar
 
 The printable shows the first and last day, Winter Break, Spring Break, the holidays, the student release days and the early-release conference days on a 10-month sheet, with space to write in conferences. It uses only the dates in the district's 2026-27 calendar, which is marked "Subject to change", so check the district's calendar page before booking travel.
+
+Anchorage families who also plan around the state Permanent Fund Dividend (PFD) can see the [Alaska PFD 2026 payment dates](/news/alaska-pfd-2026-payment-dates-eligible-not-paid/), with the status cutoffs for the Nov. 19, Dec. 17 and Jan. 21 payments.
