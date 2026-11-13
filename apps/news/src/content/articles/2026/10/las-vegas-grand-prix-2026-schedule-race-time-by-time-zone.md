@@ -20,7 +20,6 @@ hero:
     author: "Matt Kieffer"
 summary:
   - "The Las Vegas Grand Prix race is Saturday, Nov. 21, 2026, at 20:00 local time, Formula 1 (F1) says. That is 11 p.m. Eastern Standard Time (EST) and 04:00 Greenwich Mean Time (GMT) on Sunday, by our conversion."
-  - "East Coast fans watch both qualifying (Friday, Nov. 20) and the race at 11 p.m. EST, by our conversion."
   - "The weekend is Round 21 of 23 on F1's 2026 calendar, Nov. 19 to 21, one day earlier on the calendar than the 2025 weekend."
   - "Kimi Antonelli leads the drivers' standings with 390 points to Max Verstappen's 279 after São Paulo, F1 says, and beIN Sports reported he already clinched the title in Mexico City."
   - "Apple says F1 TV Premium is included at no additional cost for Apple TV subscribers in the U.S."

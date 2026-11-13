@@ -24,7 +24,6 @@ summary:
   - "FIDE's regulations print no time zone; Khel Now and 365chess both say it is Central European Time (CET), which makes each game 9 a.m. Eastern Time (ET) and 6 a.m. Pacific Time (PT)."
   - "The first player to score 7.5 points wins the title. A tie-break, if needed, is set for Sat., Dec. 12."
   - "The match is at the Fondation Martin Bodmer in Cologny, Geneva. Tickets are on sale; FIDE has not yet announced the online broadcast partner."
-  - "Game 3 falls on Thanksgiving, Thu., Nov. 26."
 faq:
   - q: "What time does Gukesh vs. Sindarov start?"
     a: "FIDE's match regulations list each game at 3:00 pm in Geneva. Khel Now and 365chess both say that is Central European Time, so games start at 9 a.m. Eastern Time and 6 a.m. Pacific Time."

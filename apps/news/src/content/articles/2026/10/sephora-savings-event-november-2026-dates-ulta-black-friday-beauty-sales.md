@@ -23,7 +23,6 @@ summary:
   - "NBC News Select listed 15% off for VIB and 10% off for Insider from Nov. 3 to Nov. 9, and 30% off Sephora Collection products for all shoppers from Oct. 30 to Nov. 9."
   - "Ulta Beauty's early Black Friday deals started Oct. 25 and end at 11:59 p.m. Central Time (CT) on Nov. 21, which is 12:59 a.m. Eastern Time (ET) on Nov. 22. Ulta's page lists new deals for Nov. 15 to 21. Its Black Friday sale starts online at 9 p.m. ET on Nov. 21, per its page as of Oct. 31."
   - "We could not confirm Sephora Black Friday or Cyber Monday 2026 dates from an official source."
-  - "A free one-page beauty sale calendar with every date in Eastern Time is below."
 faq:
   - q: "When is the Sephora sale for VIB members in November 2026?"
     a: "NBC News Select and The Daily Beast both reported that VIB members got 15% off from Tuesday, Nov. 3 to Monday, Nov. 9, 2026. The event is over."

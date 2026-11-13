@@ -38,7 +38,6 @@ summary:
   - "None of them is a general late-November or Thanksgiving weekend holiday, so the list shows no general state holiday on Black Friday (Nov. 27) or Cyber Monday (Nov. 30)."
   - "Shoppers pay normal state and local sales tax on those days, including online."
   - "Florida's hunting, fishing and camping holiday runs Sept. 1 to Dec. 31, 2026, so it covers both days, but only for listed items under set price limits."
-  - "Holidays can be added or be narrower than a list shows, so check your state revenue department."
 faq:
   - q: "Is there a sales tax holiday on Black Friday 2026?"
     a: "Not in the ITEP list. It shows no general state sales tax holiday on Friday, Nov. 27, 2026."

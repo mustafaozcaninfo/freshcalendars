@@ -40,7 +40,6 @@ summary:
   - "Amazon.ca announced on Nov. 10 that its Black Friday Week runs Thu., Nov. 19 to Mon., Nov. 30 (Cyber Monday). Best Buy Canada says its Black Friday sale is on now with no dates posted."
   - "Walmart Canada, Costco Canada, Apple Canada, Staples Canada and Rona posted no readable 2026 sale dates. Indigo confirms Nov. 27 but no sale dates, and Home Depot Canada shows early savings with no dates."
   - "Black Friday is not on the Government of Canada's list of 10 general holidays for federally regulated employers."
-  - "The Competition Bureau's two tests for an ordinary (regular) price are a volume test (more than 50% of sales) and a time test (offered in good faith for a substantial period)."
 faq:
   - q: "When is Black Friday 2026 in Canada?"
     a: "Friday, Nov. 27, 2026. Cyber Monday is Monday, Nov. 30, 2026."

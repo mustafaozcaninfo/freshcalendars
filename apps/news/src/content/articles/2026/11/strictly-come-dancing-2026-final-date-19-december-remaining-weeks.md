@@ -22,7 +22,6 @@ summary:
   - "Strictly Come Dancing's 2026 live final is on Saturday 19 December 2026, per the entertainment site TV Zone UK and the audience-ticket agency Donaheys."
   - "Six live Saturday shows remain from 13 November: 14, 21 (Blackpool), 28 November and 5 (Musicals Week), 12 and 19 December 2026, per Donaheys, Live Blackpool and the BBC."
   - "Nine couples remain after Bethany Antonia and Nancy Xu left on 8 November. Week 8 is on BBC One from 6.25pm on Saturday 14 November, the BBC says."
-  - "In 2025 the final was on Saturday 20 December and Karen Carney and Carlos Gu won, the Shropshire Star and Express & Star reported."
   - "The Strictly Come Dancing Live Tour 2027 opens on Friday 22 January 2027 at Utilita Arena Birmingham, per WhatsOnStage and the Yorkshire Evening Post."
 faq:
   - q: "When is the Strictly Come Dancing 2026 final?"
