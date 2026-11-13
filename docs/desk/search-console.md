@@ -1,6 +1,6 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-13T09:14 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-13T17:12 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
@@ -281,13 +281,13 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 75 that are 7 to 21 days old): 89 Submitted and indexed, 1 URL is unknown to Google.
+Sample of 89 stories published 2 to 21 days ago (the gate counts the 75 that are 7 to 21 days old): 88 Submitted and indexed, 1 Excluded by ‘noindex’ tag.
 
-- not indexed: /news/federal-reserve-holidays-2027-bank-closures/ (URL is unknown to Google), 9 days old
+- not indexed: /news/linkedin-games-answers-today-october-29-2026-queens-tango-zip/ (Excluded by ‘noindex’ tag), 15 days old
 
 ## Sitemaps
 
-- /sitemap.xml: 0 errors, 0 warnings, 1,376 URLs submitted, last read 2026-11-11
+- /sitemap.xml: 0 errors, 0 warnings, 1,598 URLs submitted, last read 2026-11-11
 - /news/sitemap.xml: 0 errors, 0 warnings, 1,298 URLs submitted, last read 2026-11-13
 - /news/news-sitemap.xml: 0 errors, 0 warnings, 80 URLs submitted, last read 2026-11-12
 - /sitemap.xml: 0 errors, 0 warnings, 96 URLs submitted, last read 2026-11-07

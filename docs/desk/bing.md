@@ -1,6 +1,6 @@
 # Bing Webmaster Tools (generated, do not edit)
 
-Read 2026-11-13T09:15 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
+Read 2026-11-13T17:13 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
 
 ## Clicks and impressions
 

@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-13T09:14:38.298Z",
+ "generatedAt": "2026-11-13T17:12:15.275Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -2324,21 +2324,21 @@
  },
  "indexed": {
   "checked": 75,
-  "sampled": 90,
+  "sampled": 89,
   "indexed": 74,
   "notIndexed": [
    {
-    "url": "https://freshcalendars.com/news/federal-reserve-holidays-2027-bank-closures/",
+    "url": "https://freshcalendars.com/news/linkedin-games-answers-today-october-29-2026-queens-tango-zip/",
     "status": "not indexed",
-    "state": "URL is unknown to Google",
-    "age": 9
+    "state": "Excluded by ‘noindex’ tag",
+    "age": 15
    }
   ],
   "states": {
-   "Submitted and indexed": 89,
-   "URL is unknown to Google": 1
+   "Submitted and indexed": 88,
+   "Excluded by ‘noindex’ tag": 1
   },
-  "unknown": 0
+  "unknown": 1
  },
  "sitemaps": [
   {
@@ -2346,7 +2346,7 @@
    "errors": 0,
    "warnings": 0,
    "lastDownloaded": "2026-11-11T17:53:36.751Z",
-   "submitted": 1376
+   "submitted": 1598
   },
   {
    "path": "https://freshcalendars.com/news/sitemap.xml",
