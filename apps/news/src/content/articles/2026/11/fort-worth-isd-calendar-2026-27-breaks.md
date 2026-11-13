@@ -56,7 +56,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [dallas-isd-calendar-2026-27-holidays-breaks, arlington-isd-calendar-2026-27-breaks, keller-isd-calendar-2026-27]
+related: [dallas-isd-calendar-2026-27-holidays-breaks, arlington-isd-calendar-2026-27-breaks, mansfield-isd-calendar-2026-27]
 assets:
   overlay: true
   kicker: "Fort Worth ISD · 2026-27"

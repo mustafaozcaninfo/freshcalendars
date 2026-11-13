@@ -265,7 +265,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/page/school-holidays/"
     label: "School holidays guide"
-related: [college-finals-week-fall-2026-winter-break-dates-universities, nyc-public-schools-calendar-2026-27-breaks-holidays, pittsburgh-public-schools-calendar-2026-27-breaks]
+related: [east-baton-rouge-parish-schools-calendar-2026-27, nyc-public-schools-calendar-2026-27-breaks-holidays, pittsburgh-public-schools-calendar-2026-27-breaks]
 downloads:
   - group: "Winter break printable"
     title: "Winter Break 2026 by School District"
