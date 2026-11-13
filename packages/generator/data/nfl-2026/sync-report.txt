@@ -1,21 +1,29 @@
-NFL schedule sync, 2026-11-05T08:18:26.440Z (written)
+NFL schedule sync, 2026-11-13T20:12:10.208Z (written)
 Sources: ESPN scoreboard feed (18 weeks, 272 games); club schedule pages (248 games confirmed by at least one club).
 
-Kickoff changes confirmed by a club site (0):
+Kickoff changes confirmed by a club site (2):
+  Week 11: Jacksonville Jaguars at New York Giants: Sun., Nov. 22 1:00 p.m. ET (CBS) -> Sun., Nov. 22 4:25 p.m. ET (CBS) [jaguars.com, ESPN]
+  Week 11: Pittsburgh Steelers at Philadelphia Eagles: Sun., Nov. 22 4:25 p.m. ET (CBS) -> Sun., Nov. 22 1:00 p.m. ET (CBS) [philadelphiaeagles.com, ESPN]
 
-Final scores added (13):
-  Week 8: Arizona Cardinals at Dallas Cowboys: 33-30
-  Week 8: Atlanta Falcons at Tampa Bay Buccaneers: 0-16
-  Week 8: Baltimore Ravens at Buffalo Bills: 10-36
-  Week 8: Cleveland Browns at Pittsburgh Steelers: 6-27
-  Week 8: Indianapolis Colts at Jacksonville Jaguars: 7-42
-  Week 8: Las Vegas Raiders at New York Jets: 38-33
-  Week 8: Minnesota Vikings at Detroit Lions: 15-19
-  Week 8: Tennessee Titans at Cincinnati Bengals: 36-43
-  Week 8: Los Angeles Chargers at Los Angeles Rams: 9-24
-  Week 8: Kansas City Chiefs at Denver Broncos: 24-28
-  Week 8: New England Patriots at Miami Dolphins: 24-19
-  Week 8: Philadelphia Eagles at Washington Commanders: 10-27
-  Week 8: Chicago Bears at Seattle Seahawks: 34-17
+Final scores added (16):
+  Week 9: Jacksonville Jaguars at Baltimore Ravens: 33-10
+  Week 9: Cincinnati Bengals at Atlanta Falcons: 34-17
+  Week 9: Cleveland Browns at New Orleans Saints: 22-23
+  Week 9: Dallas Cowboys at Indianapolis Colts: 27-23
+  Week 9: Denver Broncos at Carolina Panthers: 26-21
+  Week 9: Detroit Lions at Miami Dolphins: 19-9
+  Week 9: Los Angeles Rams at Washington Commanders: 20-13
+  Week 9: New York Giants at Philadelphia Eagles: 19-11
+  Week 9: New York Jets at Kansas City Chiefs: 12-35
+  Week 9: Houston Texans at Los Angeles Chargers: 44-22
+  Week 9: Las Vegas Raiders at San Francisco 49ers: 17-38
+  Week 9: Arizona Cardinals at Seattle Seahawks: 3-17
+  Week 9: Green Bay Packers at New England Patriots: 45-27
+  Week 9: Tampa Bay Buccaneers at Chicago Bears: 24-27
+  Week 9: Buffalo Bills at Minnesota Vikings: 23-6
+  Week 10: Washington Commanders at New York Giants: 24-21
 
-Differences not applied (0):
+Differences not applied (3):
+  Week 9: Detroit Lions at Miami Dolphins: network CSV FOX, ESPN CBS; not applied
+  Week 11: Miami Dolphins at Buffalo Bills: network CSV FOX, ESPN CBS; not applied
+  Week 11: Tampa Bay Buccaneers at Detroit Lions: network CSV CBS, ESPN FOX; not applied
