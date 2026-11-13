@@ -80,7 +80,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [premios-billboard-2026-winners-how-to-watch-replay, hallmark-countdown-to-christmas-2026-schedule-printable, the-game-awards-2026-tickets-october-29-date-december-10-nominations]
+related: [cma-country-christmas-2026-december-1-abc-time-host-performers, hallmark-countdown-to-christmas-2026-schedule-printable, premios-billboard-2026-winners-how-to-watch-replay]
 downloads:
   - group: "CMA Awards 2026 Watch Sheet printables"
     title: "CMA Awards 2026 Watch Sheet, Nov. 18, 2026"

@@ -117,7 +117,7 @@ internalLinks:
     label: "April printable calendar"
   - href: "/june-calendars.html"
     label: "June printable calendar"
-related: [golf-schedule-december-2026-hero-world-challenge-grant-thornton-pnc, golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge, nascar-cup-schedule-2027-daytona-500-february-21-full-race-list]
+related: [golf-schedule-december-2026-hero-world-challenge-grant-thornton-pnc, golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge, tgl-2027-schedule-dates-times-december-27-opener]
 draft: false
 downloads:
   - group: "PGA Tour Schedule 2027 printables"

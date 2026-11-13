@@ -101,7 +101,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [hallmark-countdown-to-christmas-2026-schedule-printable, lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime, netflix-christmas-movies-2026-release-dates-holiday-watch-list]
+related: [hallmark-countdown-to-christmas-2026-schedule-printable, lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime, cma-country-christmas-2026-december-1-abc-time-host-performers]
 draft: false
 ---
 
