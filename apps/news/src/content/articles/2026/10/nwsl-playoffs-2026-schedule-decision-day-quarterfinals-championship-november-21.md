@@ -1,6 +1,6 @@
 ---
 title: "NWSL Playoffs 2026 Schedule: Semifinals Nov. 14-15, Final Nov. 21"
-description: "The National Women's Soccer League (NWSL) playoffs 2026 schedule: semifinals Nov. 14-15, championship Sat., Nov. 21, 8 p.m. ET on CBS. Results and a printable."
+description: "The National Women's Soccer League (NWSL) playoffs 2026 schedule: semifinals Nov. 14-15, final Sat., Nov. 21, 8 p.m. ET on CBS. Results and a printable."
 type: news
 publishedAt: "2026-10-30T21:44:00-04:00"
 updatedAt: "2026-11-13T16:13:00-05:00"

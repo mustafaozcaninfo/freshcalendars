@@ -1,6 +1,6 @@
 ---
 title: "ATP Finals 2026 in Turin: Nov. 15-22, Qualified Players and TV"
-description: "The Association of Tennis Professionals (ATP) Finals run Nov. 15-22 in Turin on Tennis Channel. All eight singles players, the groups and day-one times are set."
+description: "The Association of Tennis Professionals (ATP) Finals run Nov. 15-22 in Turin on Tennis Channel. All eight players, the groups and day-one times are set."
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
 updatedAt: "2026-11-13T16:07:00-05:00"

@@ -88,6 +88,7 @@ assets:
   date: "2026-11-03"
   card: { top: "Sephora VIB and Insider open", big: "Tue., Nov. 3", bottom: "Rouge members started Fri., Oct. 30" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: beauty-sale-calendar-november-2026
     group: beauty-sales-2026
     title: "Beauty Sale Calendar, November 2026"

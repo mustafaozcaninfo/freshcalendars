@@ -15,6 +15,7 @@ assets:
   date: "2026-12-25"
   card: { top: "Christmas Day 2026", big: "Fri., Dec. 25", bottom: "Christmas Eve is Thu., Dec. 24" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: december-2026-christmas-calendar-key-dates
     group: christmas-2026
     title: "December 2026 Calendar With Holidays and Christmas Countdown Key Dates"
