@@ -1,0 +1,609 @@
+{
+ "title": "Dinner and a Show",
+ "publicationDate": "2026-11-13",
+ "constructors": [
+  "Ian Livengood"
+ ],
+ "width": 11,
+ "height": 11,
+ "cells": [
+  null,
+  null,
+  null,
+  "T",
+  "H",
+  "I",
+  "S",
+  null,
+  "E",
+  "L",
+  "F",
+  null,
+  null,
+  "H",
+  "O",
+  "I",
+  "S",
+  "T",
+  null,
+  "B",
+  "O",
+  "A",
+  null,
+  "M",
+  "E",
+  "M",
+  "P",
+  "H",
+  "I",
+  "S",
+  "B",
+  "B",
+  "Q",
+  "S",
+  "O",
+  "L",
+  "E",
+  "S",
+  null,
+  "R",
+  "I",
+  "S",
+  "E",
+  "S",
+  "P",
+  "O",
+  "L",
+  null,
+  "T",
+  "O",
+  "U",
+  "R",
+  null,
+  null,
+  null,
+  "F",
+  "R",
+  "O",
+  "Z",
+  "E",
+  "N",
+  "P",
+  "I",
+  "Z",
+  "Z",
+  "A",
+  null,
+  null,
+  null,
+  "I",
+  "R",
+  "E",
+  null,
+  null,
+  "O",
+  "I",
+  "L",
+  "P",
+  "R",
+  "E",
+  "P",
+  null,
+  null,
+  "S",
+  "U",
+  "N",
+  "N",
+  "Y",
+  "A",
+  "U",
+  "D",
+  "I",
+  "O",
+  "J",
+  "A",
+  "C",
+  "K",
+  "S",
+  null,
+  "R",
+  "E",
+  "N",
+  "T",
+  "R",
+  "O",
+  "L",
+  "L",
+  "S",
+  null,
+  null,
+  "T",
+  "S",
+  "A",
+  null,
+  "B",
+  "E",
+  "T",
+  "A",
+  null,
+  null,
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "\"What's the meaning of all ___?\"",
+   "cells": [
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "Helper in a red-and-green hat",
+   "cells": [
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "Lift",
+   "cells": [
+    13,
+    14,
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "Squeezing snake",
+   "cells": [
+    19,
+    20,
+    21
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Rack of ribs at a 2009 Broadway musical?",
+   "cells": [
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Shoe parts that can have treads",
+   "cells": [
+    33,
+    34,
+    35,
+    36,
+    37
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "13",
+   "text": "Climbs",
+   "cells": [
+    39,
+    40,
+    41,
+    42,
+    43
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "One on the campaign trail, informally",
+   "cells": [
+    44,
+    45,
+    46
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "___ de force",
+   "cells": [
+    48,
+    49,
+    50,
+    51
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Italian pie at a 2018 Broadway musical?",
+   "cells": [
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62,
+    63,
+    64,
+    65
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Dublin's land: Abbr.",
+   "cells": [
+    69,
+    70,
+    71
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Word with baron, boom or barrel",
+   "cells": [
+    74,
+    75,
+    76
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Assemble ingredients in the kitchen, say",
+   "cells": [
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "Marvin Gaye song with the lyric \"Oh, the dark days are done, and the bright days are here\"",
+   "cells": [
+    83,
+    84,
+    85,
+    86,
+    87
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Stereo system cable hookups",
+   "cells": [
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "32",
+   "text": "Sushi servings at a 1996 Broadway musical?",
+   "cells": [
+    99,
+    100,
+    101,
+    102,
+    103,
+    104,
+    105,
+    106,
+    107
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "Bag-screening org.",
+   "cells": [
+    110,
+    111,
+    112
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Phi ___ Kappa",
+   "cells": [
+    114,
+    115,
+    116,
+    117
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Weighty book",
+   "cells": [
+    3,
+    14,
+    25,
+    36
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Person who embraces non-mainstream trends",
+   "cells": [
+    4,
+    15,
+    26,
+    37,
+    48,
+    59,
+    70
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "\"Kinda sorta\"",
+   "cells": [
+    5,
+    16,
+    27
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Provoke, as trouble",
+   "cells": [
+    6,
+    17,
+    28,
+    39,
+    50,
+    61
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "___ and flows",
+   "cells": [
+    8,
+    19,
+    30,
+    41
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Part of the ear",
+   "cells": [
+    9,
+    20,
+    31,
+    42
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Common queries, for short",
+   "cells": [
+    10,
+    21,
+    32,
+    43
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Meaning of \"Ni hao\" and \"Ciao\"",
+   "cells": [
+    13,
+    24,
+    35,
+    46,
+    57
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Tie up, as a boat",
+   "cells": [
+    23,
+    34,
+    45,
+    56
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Apple's virtual assistant",
+   "cells": [
+    29,
+    40,
+    51,
+    62
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Letters on lotion bottle",
+   "cells": [
+    33,
+    44,
+    55
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "16",
+   "text": "\"___ potato, two potato ...\"",
+   "cells": [
+    49,
+    60,
+    71
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "\"Hush!\"",
+   "cells": [
+    58,
+    69,
+    80,
+    91,
+    102
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "Falls deeply asleep, with \"out\"",
+   "cells": [
+    63,
+    74,
+    85,
+    96,
+    107
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "20",
+   "text": "Red wine selections, for short",
+   "cells": [
+    64,
+    75,
+    86,
+    97
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "Olympic gymnast Raisman",
+   "cells": [
+    65,
+    76,
+    87
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Role played on stage",
+   "cells": [
+    77,
+    88,
+    99,
+    110
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Wishes undone",
+   "cells": [
+    78,
+    89,
+    100,
+    111
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "Teacher Krabappel on \"The Simpsons\"",
+   "cells": [
+    79,
+    90,
+    101,
+    112
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "Mineral once called \"white gold\"",
+   "cells": [
+    83,
+    94,
+    105,
+    116
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "The Bruins of the N.C.A.A.",
+   "cells": [
+    84,
+    95,
+    106,
+    117
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "30",
+   "text": "Sphere",
+   "cells": [
+    92,
+    103,
+    114
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "31",
+   "text": "QB Montana",
+   "cells": [
+    93,
+    104,
+    115
+   ]
+  }
+ ]
+}
