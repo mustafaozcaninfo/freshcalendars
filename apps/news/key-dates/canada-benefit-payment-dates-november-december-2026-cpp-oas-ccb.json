@@ -8,7 +8,15 @@
     "label": "Canada Child Benefit payment"
   },
   {
+    "date": "2026-11-25",
+    "label": "Newfoundland and Labrador disability benefit payment"
+  },
+  {
     "date": "2026-12-22",
     "label": "CPP and OAS payments"
+  },
+  {
+    "date": "2026-12-24",
+    "label": "Newfoundland and Labrador disability benefit payment"
   }
 ]
