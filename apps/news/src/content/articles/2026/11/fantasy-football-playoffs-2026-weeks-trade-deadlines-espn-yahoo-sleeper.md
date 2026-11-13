@@ -3,7 +3,7 @@ title: "Fantasy Football Playoffs 2026: Weeks 15-18, Dec. 17 to Jan. 10"
 description: "Fantasy football playoffs 2026 run Week 15 to 18, Dec. 17 to Jan. 10, by ESPN's default. Christmas game lock times and a one-page printable."
 type: explainer
 publishedAt: "2026-11-03T11:02:00-05:00"
-updatedAt: "2026-11-05T12:15:00-05:00"
+updatedAt: "2026-11-13T16:15:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["fantasy football playoffs 2026 weeks", "when do fantasy football playoffs start 2026", "fantasy football championship week 2026", "fantasy trade deadline 2026"]
@@ -54,15 +54,15 @@ hero:
 summary:
   - "ESPN sets 14 regular-season weeks for fantasy football and says its playoffs begin in Week 15 and finish in Week 18; in the 2026 National Football League (NFL) schedule that is Dec. 17 to Jan. 10."
   - "NFL Week 16 has games on Thursday, Dec. 24 and Friday, Dec. 25, so players in those games lock before the weekend on a platform that locks each player at his own kickoff."
-  - "ESPN has a universal trade deadline in public leagues but no 2026 date on its help page; Yahoo posts no 2026 defaults there; Sleeper says commissioners can manage the trade deadline in General Settings."
+  - "Yahoo's default trade deadline is Saturday, Nov. 28, 2026, and its default playoffs run Dec. 22 to Jan. 4; ESPN has a universal trade deadline in public leagues but no 2026 date on its help page; Sleeper commissioners set the deadline week."
   - "A free one-page printable lists Weeks 14 to 18, the Christmas games in Eastern Time (ET) and a matchup line for each playoff week."
 faq:
   - q: "When do fantasy football playoffs start in 2026?"
-    a: "On ESPN, Week 15, which starts Thu., Dec. 17, 2026, per ESPN Fan Support and NFL.com. Yahoo and Sleeper leagues use the weeks their commissioners set, and neither help page names a 2026 default."
+    a: "On ESPN, Week 15, which starts Thu., Dec. 17, 2026, per ESPN Fan Support and NFL.com. Yahoo's default playoffs start Tue., Dec. 22, 2026, in its Week 16. Sleeper leagues use the weeks their commissioners set, and its help page names no default."
   - q: "What week is the fantasy football championship in 2026?"
-    a: "ESPN says its playoffs finish in Week 18, which NFL.com lists for Jan. 9-10, 2027. A league that ends earlier has its own settings."
+    a: "ESPN says its playoffs finish in Week 18, which NFL.com lists for Jan. 9-10, 2027. Yahoo's default playoffs end Mon., Jan. 4, 2027. A league that ends earlier has its own settings."
   - q: "When is the fantasy trade deadline in 2026?"
-    a: "ESPN has not posted the date on its help page. Sleeper says commissioners can manage the trade deadline in the league's General Settings, and for private leagues on any platform, check your league settings."
+    a: "Yahoo's default is Saturday, Nov. 28, 2026, for public leagues. ESPN has not posted the date on its help page. Sleeper says commissioners can manage the trade deadline in the league's General Settings. For private leagues on any platform, check your league settings."
   - q: "When does the real NFL trade deadline fall in 2026?"
     a: "Nov. 10, 2026, per NFL.com's important dates page. It has no effect on a fantasy trade deadline."
   - q: "Do any teams have a bye in fantasy playoff weeks?"
@@ -88,6 +88,10 @@ sources:
   - title: "Important dates and deadlines for Yahoo Fantasy Football"
     url: "https://help.yahoo.com/kb/SLN6608.html"
     publisher: "Yahoo Help"
+  - title: "Important Fantasy Football 2026 Game Dates"
+    url: "https://football.fantasysports.yahoo.com/f1/gamedates"
+    publisher: "Yahoo Fantasy Football"
+    date: "2026-11-13"
   - title: "Transaction and lineup deadlines in Yahoo Fantasy"
     url: "https://help.yahoo.com/kb/SLN6775.html"
     publisher: "Yahoo Help"
@@ -125,7 +129,7 @@ related: [nfl-week-16-schedule-2026-printable-pick-em-sheet-game-times, nfl-week
 draft: false
 ---
 
-**ESPN says its fantasy football playoffs begin in Week 15 and finish in Week 18, after a 14-week regular season, which on the 2026 National Football League (NFL) schedule means Thursday, Dec. 17, 2026 to Jan. 9-10, 2027.** The 14 weeks and the playoff weeks come from ESPN Fan Support's "Length of Fantasy Football Season" page, updated Oct. 5, 2026; the dates come from NFL.com. Yahoo and Sleeper post no 2026 defaults on the help pages we checked, so their leagues follow the commissioner's settings. Game times are Eastern Time (ET), and the one-page printable below holds the weeks, dates and Christmas games.
+**ESPN says its fantasy football playoffs begin in Week 15 and finish in Week 18, after a 14-week regular season, which on the 2026 National Football League (NFL) schedule means Thursday, Dec. 17, 2026 to Jan. 9-10, 2027.** The 14 weeks and the playoff weeks come from ESPN Fan Support's "Length of Fantasy Football Season" page, updated Oct. 5, 2026; the dates come from NFL.com. Yahoo's game-dates page sets its default trade deadline at Saturday, Nov. 28, 2026, still ahead, and its default playoffs at Dec. 22 to Jan. 4. Sleeper posts no default, so its leagues follow the commissioner's settings. Game times are Eastern Time (ET), and the one-page printable below holds the weeks, dates and Christmas games.
 
 ## Which NFL dates are the fantasy football playoff weeks in 2026?
 
@@ -152,12 +156,12 @@ Yahoo's lineup help page says players lock at "The start of the player's real-li
 | Platform | Posted | Not posted |
 |---|---|---|
 | ESPN | 14 regular-season weeks; playoffs Week 15 to Week 18; a universal trade deadline in public leagues | A 2026 trade deadline date |
-| Yahoo | Players lock at the start of the real-life game | 2026 playoff weeks or a default trade deadline; the page still names the 2025 schedule |
-| Sleeper | Commissioners can manage the trade deadline in General Settings | A default deadline week |
+| Yahoo | Default trade deadline Sat., Nov. 28, 2026; default playoffs Tue., Dec. 22 to Mon., Jan. 4, 2027 (its Weeks 16 and 17); players lock at the start of the real-life game | Dates for private leagues, which commissioners set |
+| Sleeper | Commissioners can manage the trade deadline in General Settings | A default deadline week or playoff weeks |
 
 ## When is the fantasy football trade deadline in 2026?
 
-ESPN's help page, updated Aug. 11, 2026, says "In all ESPN Public fantasy leagues, there is a universal Trade Deadline set by ESPN." It gives no 2026 date, so check your league settings for the day. Sleeper's page, dated Apr. 22, 2026, says "Commissioners can manage the trade deadline at any time in the league's General Settings." Yahoo's help page lists no default trade deadline.
+Yahoo's Important Game Dates page lists a default trade deadline of Saturday, Nov. 28, 2026 for its public leagues, which falls in Yahoo's Week 12 (Nov. 24 to 30). Its default playoffs start Tuesday, Dec. 22 and end Monday, Jan. 4, 2027, so Yahoo's default final is NFL Week 17, a week before ESPN's. ESPN's help page, updated Aug. 11, 2026, says "In all ESPN Public fantasy leagues, there is a universal Trade Deadline set by ESPN." It gives no 2026 date, so check your league settings for the day. Sleeper's page, dated Apr. 22, 2026, says "Commissioners can manage the trade deadline at any time in the league's General Settings." Yahoo's separate help pages list no default; the dates above come from its game-dates page.
 
 The NFL's own trade deadline is a different date: Nov. 10, 2026, per NFL.com's important dates page. See our [NFL trade deadline 2026 story](/news/nfl-trade-deadline-2026-november-10-time-et/) for the time.
 

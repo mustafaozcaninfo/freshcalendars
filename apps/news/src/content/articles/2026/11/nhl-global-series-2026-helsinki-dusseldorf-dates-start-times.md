@@ -1,8 +1,9 @@
 ---
 title: "NHL Global Series 2026: Helsinki Nov. 12, 14, Düsseldorf Dec. 18, 20"
-description: "The NHL Global Series 2026 opens in Helsinki on Nov. 12 at noon ET. A puck-drop table converts all four games to ET, with a free printable."
+description: "The NHL Global Series 2026 continues in Helsinki on Nov. 14 at 1 p.m. ET after Carolina won Game 1, 4-1. A puck-drop table converts all four games."
 type: news
 publishedAt: "2026-11-07T17:17:00-05:00"
+updatedAt: "2026-11-13T16:07:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["nhl global series 2026", "nhl helsinki 2026", "hurricanes kraken helsinki time", "nhl dusseldorf 2026"]
@@ -19,19 +20,19 @@ hero:
     author: "Lasse Keskinen"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Lasse_Keskinen"
 summary:
-  - "The National Hockey League (NHL) lists Hurricanes vs. Kraken in Helsinki on Thursday, Nov. 12, at 7 p.m. Eastern European Time (EET) and Saturday, Nov. 14, 2026, at 8 p.m. EET."
+  - "The Carolina Hurricanes beat the Seattle Kraken 4-1 in Helsinki on Thursday, Nov. 12. Game 2 is Saturday, Nov. 14, 2026, at 8 p.m. Eastern European Time (EET), per the National Hockey League (NHL)."
   - "The Carolina Hurricanes convert those puck drops to noon and 1 p.m. Eastern Time (ET); the Seattle Kraken give 9 a.m. and 10 a.m. Pacific Time (PT)."
   - "NHL.com's German page lists Senators vs. Blackhawks in Düsseldorf on Friday, Dec. 18, at 19:00 and Sunday, Dec. 20, 2026, at 14:00 Central European Time (CET), which is 1 p.m. and 8 a.m. ET by our conversion."
-  - "U.S. and Canadian national TV for all four games is not yet announced."
+  - "NHL.com lists Prime Video, NHL Network and Sportsnet One among the Game 2 broadcasters; Düsseldorf TV is not yet announced."
 faq:
   - q: "What time is Hurricanes vs. Kraken in Helsinki?"
-    a: "Game 1 is Thursday, Nov. 12, 2026, at 7 p.m. EET (noon ET). Game 2 is Saturday, Nov. 14, at 8 p.m. EET (1 p.m. ET), per NHL.com and the Hurricanes."
+    a: "Game 1 was Thursday, Nov. 12, 2026, at 7 p.m. EET (noon ET), and Carolina won 4-1. Game 2 is Saturday, Nov. 14, at 8 p.m. EET (1 p.m. ET), per NHL.com and the Hurricanes."
   - q: "Where are the NHL Global Series games in Finland played?"
     a: "At Veikkaus Arena in Helsinki, formerly known as Hartwall Arena. The arena says it holds up to 15,500 guests."
   - q: "What time are the Senators and Blackhawks games in Düsseldorf?"
     a: "NHL.com lists Friday, Dec. 18, at 19:00 and Sunday, Dec. 20, 2026, at 14:00 local time at the Düsseldorf dome venue. By our conversion that is 1 p.m. ET and 8 a.m. ET."
   - q: "What channel shows the NHL Global Series 2026?"
-    a: "In the Seattle market, the Kraken list local stations and Prime Video for both games. In Finland, the NHL says fans can watch on Viaplay 1 Urheilu and one other channel. U.S. and Canadian national TV is not yet announced."
+    a: "For Game 2, NHL.com lists Prime Video, NHL Network and Sportsnet One, plus local stations in the Seattle market. In Finland, the NHL says fans can watch on Viaplay 1 Urheilu and one other channel. Düsseldorf broadcasts are not yet announced."
   - q: "Which team is the home team in Helsinki?"
     a: "The Kraken say each club gets a designated home matchup, but no official page we read says which game is whose."
 sources:
@@ -46,9 +47,11 @@ sources:
   - title: "2026 NHL Global Series"
     url: "https://www.nhl.com/hurricanes/fans/global-series-2026"
     publisher: "Carolina Hurricanes"
+    date: "2026-11-13"
   - title: "2026 NHL Global Series Finland"
     url: "https://www.nhl.com/kraken/info/global-series"
     publisher: "Seattle Kraken"
+    date: "2026-11-13"
   - title: "2026 NHL Global Series Finland, Kraken and Hurricanes"
     url: "https://www.nhl.com/kraken/news/2026-nhl-global-series-finland-seattle-kraken-carolina-hurricanes-bn"
     publisher: "Seattle Kraken"
@@ -57,6 +60,18 @@ sources:
     url: "https://www.nhl.com/news/nhl-bringing-global-series-fan-fest-to-helsinki-for-hurricanes-kraken-games"
     publisher: "National Hockey League"
     date: "2026-11-04"
+  - title: "Recap: Aho, Välimäki help Canes down Kraken in Finland"
+    url: "https://www.nhl.com/hurricanes/news/recap-aho-valimaki-help-canes-down-kraken-in-finland"
+    publisher: "Carolina Hurricanes"
+    date: "2026-11-12"
+  - title: "Hurricanes-Kraken Global Series game recap, Nov. 12, 2026"
+    url: "https://www.nhl.com/news/carolina-hurricanes-seattle-kraken-global-series-game-recap-november-12-2026"
+    publisher: "NHL.com"
+    date: "2026-11-12"
+  - title: "Hurricanes, Kraken eye finale after open practice"
+    url: "https://www.nhl.com/news/2026-nhl-global-series-carolina-hurricanes-seattle-kraken-eye-finale-after-open-practice"
+    publisher: "NHL.com"
+    date: "2026-11-13"
   - title: "Veikkaus Arena"
     url: "https://www.veikkausarena.fi/en"
     publisher: "Veikkaus Arena"
@@ -96,7 +111,7 @@ assets:
         - { start: "2026-12-18T19:00+01:00", tz: "Europe/Berlin", title: "Senators vs. Blackhawks", detail: "Düsseldorf", airing: live, src: 8, quote: ["18. Dezember: 19:00 Uhr", "Dec. 18 and Dec. 20"] }
         - { start: "2026-12-20T14:00+01:00", tz: "Europe/Berlin", title: "Senators vs. Blackhawks", detail: "Düsseldorf", airing: live, src: 8, quote: ["20. Dezember: 14:00 Uhr", "Dec. 18 and Dec. 20"] }
       unconfirmed:
-        - { label: "U.S. and Canadian national TV, all four games", why: "not yet announced" }
+        - { label: "TV for the two Düsseldorf games", why: "not yet announced" }
         - { label: "Home team for each Helsinki game", why: "not stated on any official page we read" }
 downloads:
   - group: "NHL Global Series 2026 Game Schedule printables"
@@ -110,7 +125,7 @@ downloads:
 draft: false
 ---
 
-**The 2026 NHL Global Series starts Thursday, Nov. 12, 2026, with the Carolina Hurricanes and Seattle Kraken at Veikkaus Arena in Helsinki at 7 p.m. Eastern European Time (EET), which is noon Eastern Time (ET), according to NHL.com.** Game 2 is Saturday, Nov. 14, at 8 p.m. EET (1 p.m. ET). The Ottawa Senators and Chicago Blackhawks play in Düsseldorf on Dec. 18 and Dec. 20. The puck-drop table below converts all four games to U.S. and U.K. time, and a free printable schedule follows it.
+**The Carolina Hurricanes beat the Seattle Kraken 4-1 at Veikkaus Arena in Helsinki on Thursday, Nov. 12, 2026, in Game 1 of the NHL Global Series, according to NHL.com. Game 2 is Saturday, Nov. 14, at 8 p.m. Eastern European Time (EET), which is 1 p.m. Eastern Time (ET).** The Ottawa Senators and Chicago Blackhawks play in Düsseldorf on Dec. 18 and Dec. 20. The puck-drop table below converts all four games to U.S. and U.K. time, and a free printable schedule follows it.
 
 ## What time are the four NHL Global Series games?
 
@@ -125,15 +140,19 @@ The National Hockey League (NHL) gave the Finland times in Eastern European Time
 
 The Hurricanes list the Helsinki puck drops as "12:00 p.m. ET" and "1:00 p.m. ET", and the Kraken list "9:00 a.m. (PT)" and "10:00 a.m. (PT)". Raleigh and Ottawa are on Eastern Time, Chicago is on Central Time and Seattle is on Pacific Time.
 
+## What was the score of Game 1?
+
+Carolina won 4-1 on Thursday, Nov. 12. Nikolaj Ehlers, Sebastian Aho (two goals), Juuso Välimäki scored for the Hurricanes, Frederick Gaudreau for the Kraken, and Brandon Bussi made 12 saves, according to NHL.com and the Hurricanes. Carolina is 15-3-2 and Seattle 9-7-1.
+
 ## Who plays in Helsinki, and where?
 
 The NHL's July 16, 2026 schedule release says the defending Stanley Cup-champion Hurricanes and the Kraken play a pair of games at Veikkaus Arena in Helsinki. NHL.com says the arena, formerly known as Hartwall Arena, has hosted seven previous NHL regular-season games, and the arena's own site says it holds up to 15,500 guests. NHL.com also says 11 NHL games have been played in Finland, seven of them in Helsinki.
 
-The Kraken say these are their first regular-season games outside North America. Their news story says each club gets a designated "home" matchup during the series. No official page we read says which game is whose, so we do not list a home team.
+The Kraken said these are their first regular-season games outside North America. Their news story says each club gets a designated "home" matchup during the series. No official page we read says which game is whose, so we do not list a home team.
 
 ## Where to watch Hurricanes vs. Kraken?
 
-NHL.com says the games are available through international media rightsholders and, in certain territories, on NHL.TV through a streaming partner. In Finland, the NHL's Fan Fest release says fans can watch on Viaplay 1 Urheilu and one other channel. In the Seattle market, the Kraken list local stations and Prime Video for both games. The Hurricanes say broadcast and streaming details "will be announced soon". U.S. and Canadian national television for all four games is not yet announced.
+NHL.com says the games are available through international media rightsholders and, in certain territories, on NHL.TV through a streaming partner. In Finland, the NHL's Fan Fest release says fans can watch on Viaplay 1 Urheilu and one other channel. NHL.com lists the Game 2 broadcasters as Prime Video, NHL Network, Sportsnet One and local stations. The Kraken list one local station and Prime Video for Game 1, and two local stations and Prime Video for Game 2. Broadcasts of the Düsseldorf games are not yet announced.
 
 ## What is the Helsinki Fan Fest schedule?
 
@@ -145,7 +164,7 @@ The NHL's Nov. 4, 2026 release lists a free Fan Fest at Narinkkatori in Helsinki
 | Fri., Nov. 13 | 4 p.m. to 9 p.m. (16:00-21:00) | No game |
 | Sat., Nov. 14 | Noon (12:00) to postgame | Game 2 watch party |
 
-The Kraken list an open practice on Friday, Nov. 13, from 11 a.m. to 2:15 p.m. EET.
+The Kraken listed an open practice on Friday, Nov. 13, from 11 a.m. to 2:15 p.m. EET.
 
 ## When are the Senators and Blackhawks games in Düsseldorf?
 

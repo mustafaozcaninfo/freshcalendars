@@ -3,7 +3,7 @@ title: "NYSE Holidays 2027: 10 Closed Days and an Early Close Nov. 26"
 description: "The NYSE is closed 10 days in 2027, including Good Friday, March 26, and closes early Nov. 26. It opens Dec. 31, 2027, unlike federal offices."
 type: explainer
 publishedAt: "2026-10-19T11:04:00-04:00"
-updatedAt: "2026-11-03T19:24:00-05:00"
+updatedAt: "2026-11-13T16:14:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["stock market holidays 2027", "NYSE holidays 2027", "is the stock market open Good Friday 2027", "stock market closed 2027", "market holidays 2027"]
@@ -35,6 +35,11 @@ sources:
   - title: "Holidays & Trading Hours"
     url: "https://www.nyse.com/markets/hours-calendars"
     publisher: "New York Stock Exchange (Intercontinental Exchange)"
+    date: "2026-11-13"
+  - title: "U.S. Market Holidays & Trading Hours"
+    url: "https://www.nasdaq.com/market-activity/stock-market-holiday-schedule"
+    publisher: "Nasdaq"
+    date: "2026-11-13"
   - title: "Holiday Schedule"
     url: "https://www.sifma.org/resources/general/holiday-schedule/"
     publisher: "Securities Industry and Financial Markets Association (SIFMA)"
@@ -67,6 +72,19 @@ draft: false
 
 **The New York Stock Exchange (NYSE) is closed on 10 days in 2027**, according to the holiday calendar NYSE Group published on Dec. 23, 2025. The list differs from the federal one in three ways: the market closes for Good Friday, stays open on Columbus Day and Veterans Day, and trades on **Friday, Dec. 31, 2027**, when most federal offices are closed.
 
+## NYSE holidays left in 2026: Thanksgiving, Dec. 24 and Dec. 25
+
+Two full closures and two early closes remain this year, according to the NYSE's "Holidays & Trading Hours" page, and Nasdaq's 2026 holiday schedule lists the same dates. The NYSE says "each market will close early at 1:00 p.m. (1:15 p.m. for eligible options)" on the early-close days. The NYSE American, NYSE Arca, NYSE National and NYSE Texas late trading sessions close at 5:00 p.m. on those days.
+
+| Date | Day | NYSE status |
+|---|---|---|
+| Nov. 26, 2026 | Thursday | Closed for Thanksgiving Day |
+| Nov. 27, 2026 | Friday | Early close, 1:00 p.m. Eastern Time |
+| Dec. 24, 2026 | Thursday | Early close, 1:00 p.m. Eastern Time |
+| Dec. 25, 2026 | Friday | Closed for Christmas Day |
+
+Dec. 31, 2026 is not on the NYSE's closure or early-close list. The next closure after Christmas is New Year's Day, Friday, Jan. 1, 2027, the first row of the 2027 table below. For bonds, the Securities Industry and Financial Markets Association (SIFMA) recommends a 2:00 p.m. Eastern Time early close on Nov. 27 and Dec. 24, 2026, according to its holiday schedule.
+
 ## NYSE holidays 2027
 
 | Holiday | Date | Day |
@@ -84,20 +102,25 @@ draft: false
 
 **Early close:** On Friday, Nov. 26, 2027, the day after Thanksgiving, markets close at 1 p.m. Eastern Time. NYSE Group lists no other early closes for 2027.
 
-The schedule applies to NYSE Group's equity and options markets. Most U.S. stock exchanges, including Nasdaq, publish the same closed days.
+The schedule applies to NYSE Group's equity and options markets. Nasdaq's holiday schedule page lists only 2026 dates so far.
 
-## NYSE holidays left in 2026
+## NYSE holidays 2028
 
-Two full closures and two early closes remain this year, according to the NYSE's "Holidays & Trading Hours" page. The NYSE says "each market will close early at 1:00 p.m. (1:15 p.m. for eligible options)" on the early-close days. The NYSE American, NYSE Arca, NYSE National and NYSE Texas late trading sessions close at 5:00 p.m. on those days.
+The NYSE's page also lists 2028. The market is closed on the days below.
 
-| Date | Day | NYSE status |
+| Holiday | Date | Day |
 |---|---|---|
-| Nov. 26, 2026 | Thursday | Closed for Thanksgiving Day |
-| Nov. 27, 2026 | Friday | Early close, 1:00 p.m. Eastern Time |
-| Dec. 24, 2026 | Thursday | Early close, 1:00 p.m. Eastern Time |
-| Dec. 25, 2026 | Friday | Closed for Christmas Day |
+| Martin Luther King, Jr. Day | Jan. 17 | Monday |
+| Washington's Birthday | Feb. 21 | Monday |
+| Good Friday | April 14 | Friday |
+| Memorial Day | May 29 | Monday |
+| Juneteenth | June 19 | Monday |
+| Independence Day | July 4 | Tuesday |
+| Labor Day | Sept. 4 | Monday |
+| Thanksgiving Day | Nov. 23 | Thursday |
+| Christmas Day | Dec. 25 | Monday |
 
-Dec. 31, 2026 is not on the NYSE's closure or early-close list. The next closure after Christmas is New Year's Day, Friday, Jan. 1, 2027, the first row of the table above. For bonds, the Securities Industry and Financial Markets Association (SIFMA) recommends a 2:00 p.m. Eastern Time early close on Nov. 27 and Dec. 24, 2026, according to its holiday schedule.
+Early closes at 1 p.m. Eastern Time in 2028 are Monday, July 3, and Friday, Nov. 24, the day after Thanksgiving. No New Year's Day holiday is observed for Saturday, Jan. 1, 2028.
 
 ## Open on Dec. 31, 2027
 

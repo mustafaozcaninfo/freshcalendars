@@ -3,6 +3,7 @@ title: "College Football Rivalry Week 2026: Egg Bowl Nov. 27, Game Nov. 28"
 description: "College football Rivalry Week 2026 is Nov. 26-28: Michigan at Ohio State at noon ET on FOX, the Egg Bowl Friday. Iron Bowl time not yet set. Viewing sheet."
 type: news
 publishedAt: "2026-11-01T01:30:00-05:00"
+updatedAt: "2026-11-13T16:07:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["rivalry week 2026 schedule", "Iron Bowl 2026 time", "Ohio State Michigan 2026 time", "Egg Bowl 2026", "Black Friday college football 2026"]
@@ -73,7 +74,7 @@ sources:
   - title: "College football schedule, Week 14 (Nov. 26-28, 2026)"
     url: "https://www.espn.com/college-football/schedule/_/week/14/year/2026/seasontype/2"
     publisher: "ESPN"
-    date: "2026-11-01"
+    date: "2026-11-13"
   - title: "Ohio State to face Michigan at noon on Fox"
     url: "https://www.buckeyesports.com/ohio-state-to-face-michigan-at-noon-on-fox/"
     publisher: "Buckeye Sports Bulletin"
@@ -135,7 +136,7 @@ draft: false
 
 ## Which rivalry games are played Nov. 26-28, 2026?
 
-ESPN's schedule (checked Nov. 1, 2026) lists these rivalry games with their dates, sites and times. A dash means the time and network are not yet announced.
+ESPN's schedule (checked Nov. 13, 2026) lists these rivalry games with their dates, sites and times. A dash means the time and network are not yet announced.
 
 | Rivalry | Game | Date | Site | Time (ET) | TV |
 |---|---|---|---|---|---|
@@ -167,17 +168,18 @@ Every Friday game below has a set time on ESPN's list. The Central Time (CT), Mo
 | 3:00 p.m. | 2:00 p.m. | 1:00 p.m. | 12:00 p.m. | App State at South Alabama | ESPN+ |
 | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | Florida at Florida State | ABC |
 | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | North Dakota State at San Jose State | CBS Sports Network |
+| 4:30 p.m. | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | Air Force at New Mexico | The CW |
 | 7:30 p.m. | 6:30 p.m. | 5:30 p.m. | 4:30 p.m. | Texas at Texas A&M | ABC |
 | 7:30 p.m. | 6:30 p.m. | 5:30 p.m. | 4:30 p.m. | Minnesota at Wisconsin | NBC |
 | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. | 6:00 p.m. | West Virginia at Utah | FOX |
 
-Four more games have no time yet. ESPN lists Florida Atlantic at East Carolina and Temple at Memphis for Friday, and says Tulane at South Florida and Tulsa at University of Texas at San Antonio (UTSA) "will be played Nov. 27 or Nov. 28."
+Two more Friday games have no time yet: ESPN lists Temple at Memphis and Tulsa at University of Texas at San Antonio (UTSA) with the time to be determined. Air Force at New Mexico, listed for Saturday on Nov. 1, is now on Friday at 4:30 p.m. ET on The CW. Florida Atlantic at East Carolina and Tulane at South Florida are now listed for Saturday with no time.
 
 Nebraska Athletics confirmed the Iowa game at 11 a.m. CT on CBS on May 27, 2026. Florida's athletic site reported on Jan. 26, 2026 that the Florida-Florida State game moved to Friday, Nov. 27.
 
 ## What time is the Iron Bowl, and how do the Southeastern Conference windows work?
 
-ESPN does not list kickoff times for the six Southeastern Conference (SEC) games on Saturday, Nov. 28. It lists a start window for each instead, and the league picks the exact time later.
+ESPN's Nov. 13 schedule shows no kickoff time for the six Southeastern Conference (SEC) games on Saturday, Nov. 28. The windows below are the ones ESPN listed on Nov. 1, and the league picks the exact time later.
 
 | Game | Window type | Start window (ET) | CT | MT | PT |
 |---|---|---|---|---|---|
@@ -202,11 +204,10 @@ Only a few Saturday games have a set time on ESPN's list. All times are ET.
 |---|---|---|---|---|---|
 | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | Michigan at Ohio State | FOX |
 | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | Jacksonville State at Delaware | CBS Sports Network |
-| 4:30 p.m. | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | Air Force at New Mexico | The CW |
 | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. | 6:00 p.m. | Nevada at University of Nevada, Las Vegas (UNLV) (Allegiant Stadium) | CBS Sports Network |
 | 11:00 p.m. | 10:00 p.m. | 9:00 p.m. | 8:00 p.m. | Sacramento State at Hawai'i | MW+ (Mountain West streaming) |
 
-ESPN also lists these Saturday games without a time or network: Penn State at Maryland, Michigan State at Rutgers, Illinois at Northwestern, Kansas State at Iowa State, Kansas at Oklahoma State, Duke at Wake Forest, Cincinnati at Brigham Young University (BYU), Baylor at Houston, Southern Methodist University (SMU) at Stanford, Pittsburgh at California, University of Central Florida (UCF) at Colorado, University of Southern California (USC) at University of California, Los Angeles (UCLA) (Rose Bowl, Pasadena), Notre Dame at Syracuse, Boston College at Miami (Hard Rock Stadium, Miami Gardens), NC State at North Carolina (Kenan Stadium, Chapel Hill), Washington at Oregon (Autzen Stadium, Eugene), Army at Rice (Houston) and Navy at Charlotte.
+ESPN also lists these Saturday games without a time or network: Penn State at Maryland, Michigan State at Rutgers, Illinois at Northwestern, Kansas State at Iowa State, Kansas at Oklahoma State, Duke at Wake Forest, Florida Atlantic at East Carolina, Tulane at South Florida, Cincinnati at Brigham Young University (BYU), Baylor at Houston, Southern Methodist University (SMU) at Stanford, Pittsburgh at California, University of Central Florida (UCF) at Colorado, University of Southern California (USC) at University of California, Los Angeles (UCLA) (Rose Bowl, Pasadena), Notre Dame at Syracuse, Boston College at Miami (Hard Rock Stadium, Miami Gardens), NC State at North Carolina (Kenan Stadium, Chapel Hill), Washington at Oregon (Autzen Stadium, Eugene), Army at Rice (Houston) and Navy at Charlotte.
 
 ## Which rivalries are not played in 2026?
 

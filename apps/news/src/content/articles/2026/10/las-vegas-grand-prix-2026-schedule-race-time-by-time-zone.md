@@ -3,6 +3,7 @@ title: "Las Vegas Grand Prix 2026 Time: Nov. 21 at 11 p.m. ET"
 description: "The Las Vegas Grand Prix is Saturday, Nov. 21, 2026, at 8 p.m. local time, 11 p.m. EST. Every session in ET, CT, MT and GMT, plus a free weekend schedule."
 type: news
 publishedAt: "2026-10-27T07:48:00-04:00"
+updatedAt: "2026-11-13T16:13:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Las Vegas Grand Prix 2026", "Las Vegas Grand Prix 2026 time", "F1 Las Vegas 2026 schedule", "what time is the Las Vegas Grand Prix"]
@@ -19,8 +20,8 @@ hero:
     author: "Matt Kieffer"
 summary:
   - "The Las Vegas Grand Prix race is Saturday, Nov. 21, 2026, at 20:00 local time, Formula 1 (F1) says. That is 11 p.m. Eastern Standard Time (EST) and 04:00 Greenwich Mean Time (GMT) on Sunday, by our conversion."
-  - "East Coast fans watch both qualifying (Friday, Nov. 20) and the race at 11 p.m. EST, by our conversion."
   - "The weekend is Round 21 of 23 on F1's 2026 calendar, Nov. 19 to 21, one day earlier on the calendar than the 2025 weekend."
+  - "Kimi Antonelli leads the drivers' standings with 390 points to Max Verstappen's 279 after São Paulo, F1 says, and beIN Sports reported he already clinched the title in Mexico City."
   - "Apple says F1 TV Premium is included at no additional cost for Apple TV subscribers in the U.S."
 faq:
   - q: "What time is the Las Vegas Grand Prix race in 2026?"
@@ -37,9 +38,19 @@ sources:
   - title: "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026"
     url: "https://www.formula1.com/en/latest/article/formula-1-heineken-las-vegas-grand-prix-2026.1qmWzcBwKK5hkTbYbhVC22"
     publisher: "Formula 1"
+    date: "2026-11-13"
   - title: "Formula 1 2026 race calendar"
     url: "https://www.formula1.com/en/racing/2026.html"
     publisher: "Formula 1"
+    date: "2026-11-13"
+  - title: "2026 Drivers' Standings"
+    url: "https://www.formula1.com/en/results/2026/drivers"
+    publisher: "Formula 1"
+    date: "2026-11-13"
+  - title: "Kimi Antonelli Makes History as Formula 1's Youngest World Champion"
+    url: "https://www.beinsports.com/en-us/motorsports/motorsports-formula-1/articles-video/kimi-antonelli-makes-history-as-formula-1-s-youngest-world-champion-2026-11-01"
+    publisher: "beIN Sports"
+    date: "2026-11-01"
   - title: "Formula 1 begins this weekend, exclusively on Apple TV in the U.S."
     url: "https://www.apple.com/newsroom/2026/03/formula-1-begins-this-weekend-exclusively-on-apple-tv-in-the-us/"
     publisher: "Apple"
@@ -136,7 +147,7 @@ In its March 5, 2026 newsroom post, Apple said F1 is exclusively on Apple TV in 
 
 ## Where does Las Vegas fall in the 2026 F1 season?
 
-F1's 2026 calendar lists Las Vegas as Round 21 of 23, on Nov. 19 to 21.
+F1's 2026 calendar lists Las Vegas as Round 21 of 23, on Nov. 19 to 21. The drivers' title is not on the line this weekend. After Round 20 in São Paulo, F1's standings page shows Kimi Antonelli of Mercedes first with 390 points, Verstappen second with 279 and George Russell third with 262. beIN Sports reported that Antonelli, at 20, clinched the 2026 World Drivers' Championship at the Mexico City Grand Prix on Nov. 1, and formula1.com now runs stories about his 2027 title defence.
 
 | Round | Race | Dates |
 |---|---|---|
