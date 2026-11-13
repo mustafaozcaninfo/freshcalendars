@@ -1,3 +1,4 @@
+import { checkLinkGraph } from "./linkGraph.js";
 import fs from "node:fs/promises";
 import { createRequire } from "node:module";
 import path from "node:path";
@@ -436,6 +437,20 @@ export async function verifyDist(): Promise<void> {
     today: string;
   };
   const errors: string[] = [];
+
+  // Internal links: nothing broken, nothing in the sitemap left with too few pages linking to it.
+  const sitePages = new Map<string, string>();
+  const walk = async (dir: string): Promise<void> => {
+    for (const e of await fs.readdir(dir, { withFileTypes: true })) {
+      const file = path.join(dir, e.name);
+      if (e.isDirectory()) await walk(file);
+      else if (e.name.endsWith(".html")) sitePages.set(`/${path.relative(DIST_SITE, file).split(path.sep).join("/")}`.replace(/(^|\/)index\.html$/, "$1"), await fs.readFile(file, "utf8"));
+    }
+  };
+  await walk(DIST_SITE);
+  const sitemapXml = await fs.readFile(path.join(DIST_SITE, "sitemap.xml"), "utf8");
+  const sitemapPaths = [...sitemapXml.matchAll(/<loc>https:\/\/freshcalendars\.com([^<]*)<\/loc>/g)].map((m) => m[1] || "/").filter((u) => !u.startsWith("/news"));
+  errors.push(...checkLinkGraph(sitePages, sitemapPaths));
 
   for (const p of manifest.pages) {
     const metaPath = path.join(DIST_META, `${p.pageId}.json`);

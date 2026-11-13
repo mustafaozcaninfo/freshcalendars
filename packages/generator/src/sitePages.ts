@@ -67,7 +67,7 @@ import { shopBoxHtml } from "./shopLinks.js";
 import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
 import { STUDIO_STYLES, studioAssets } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
-import { datedPages, datedIndexNav, designCards, monthTable, monthYearPath, yearHref } from "./datedPages.js";
+import { datedPages, datedIndexNav, designCards, monthHref, monthTable, monthYearPath, yearHref } from "./datedPages.js";
 import { classroomGuideBody, fiscalGuideBody, mondayGuideBody, printGuideExtra } from "./guideCopy.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary } from "./conceptPages.js";
 
@@ -1733,7 +1733,10 @@ ${faqSection(meta)}`;
       ${upcoming
         .map((u) => {
           const date = u.date.toLocaleDateString("en-US", { month: "long", day: "numeric" });
-          return `<tr><td>${u.year}</td><td>${esc(date)}</td><td>${esc(u.weekdayName)}</td></tr>`;
+          // The month page of that year: the reader's next step, and the dated pages' way in.
+          const month = monthHref(u.year, u.month, today);
+          const dateCell = month ? `<a href="${month}" title="${monthNumberToName(u.month)} ${u.year} printable calendar">${esc(date)}</a>` : esc(date);
+          return `<tr><td>${u.year}</td><td>${dateCell}</td><td>${esc(u.weekdayName)}</td></tr>`;
         })
         .join("\n      ")}
     </tbody>
