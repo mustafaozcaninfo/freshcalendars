@@ -49,7 +49,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [denver-public-schools-calendar-2026-27-breaks, douglas-county-school-district-calendar-2026-27-breaks, winter-break-2026-school-districts-dates]
+related: [denver-public-schools-calendar-2026-27-breaks, boulder-valley-school-district-calendar-2026-27, douglas-county-school-district-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "Jeffco Public Schools · 2026-27"
