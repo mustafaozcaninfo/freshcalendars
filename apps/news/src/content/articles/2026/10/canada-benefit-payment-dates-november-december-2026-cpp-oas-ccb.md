@@ -3,6 +3,7 @@ title: "Canada Pension Plan Payment Dates: Nov. 26 and Dec. 22, 2026"
 description: "Canada Pension Plan (CPP) payment dates are Thursday, Nov. 26 and Tuesday, Dec. 22, 2026, per Service Canada. A table lists every federal benefit date."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
+updatedAt: "2026-11-13T07:20:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["CPP payment dates November 2026", "OAS payment dates December 2026", "Canada Child Benefit payment dates November 2026", "Canada benefit payment dates December 2026"]
@@ -18,10 +19,12 @@ assets:
     title: "Canada Benefit Payment Dates, Nov. and Dec. 2026"
     subtitle: "CPP, OAS and GIS, CCB, CDB and other dates on the Service Canada calendar"
     layout: month
+    noKit: "Dated month calendar of payments from the Service Canada calendar; no kit fits a two-month payment calendar"
     rows:
       - ["Tue., Nov. 10", "Ontario Trillium Benefit"]
       - ["Thu., Nov. 19", "Canada Disability Benefit"]
       - ["Fri., Nov. 20", "Canada Child Benefit"]
+      - ["Wed., Nov. 25", "Newfoundland and Labrador disability benefit"]
       - ["Thu., Nov. 26", "CPP, OAS and GIS"]
       - ["Fri., Nov. 27", "Alberta child and family benefit"]
       - ["Fri., Nov. 27", "Veterans disability pension"]
@@ -30,8 +33,8 @@ assets:
       - ["Thu., Dec. 17", "Canada Disability Benefit"]
       - ["Tue., Dec. 22", "CPP, OAS and GIS"]
       - ["Wed., Dec. 23", "Veterans disability pension"]
-    note: "Source: Service Canada, Benefits payment calendar; Canada Revenue Agency, Benefit payment dates. No GST/HST credit or advance Canada Workers Benefit payment is listed for Nov. or Dec. 2026."
-    inkSaver: true
+      - ["Thu., Dec. 24", "Newfoundland and Labrador disability benefit"]
+    note: "Source: Service Canada, Benefits payment calendar; Canada Revenue Agency, Benefit payment dates. No GST/HST credit, Canada Groceries and Essentials Benefit or advance Canada Workers Benefit payment is listed for Nov. or Dec. 2026."
     description: "One-page printable calendar of Canada's federal benefit payment dates for November and December 2026: CPP, OAS, GIS, CCB and the Canada Disability Benefit."
     alt: "Printable two-month calendar of Canada benefit payment dates for November and December 2026 with numbered markers and a legend"
 hero:
@@ -50,7 +53,7 @@ summary:
   - "Canada Pension Plan (CPP) and Old Age Security (OAS) payments, including the Guaranteed Income Supplement (GIS), arrive on Thursday, Nov. 26 and Tuesday, Dec. 22, 2026, according to Service Canada."
   - "The Canada Child Benefit (CCB) is paid on Friday, Nov. 20 and Friday, Dec. 11; the Canada Disability Benefit (CDB) on Thursday, Nov. 19 and Thursday, Dec. 17."
   - "For October to December 2026, OAS pays up to $762.50 a month at ages 65 to 74 and up to $838.75 at 75 and older, after a 1.4% increase."
-  - "The Goods and Services Tax (GST) and Harmonized Sales Tax (HST) credit and the advance Canada Workers Benefit (CWB) have no November or December 2026 payment, and the Canada Carbon Rebate has ended."
+  - "The Goods and Services Tax (GST) and Harmonized Sales Tax (HST) credit, its successor the Canada Groceries and Essentials Benefit (CGEB), and the advance Canada Workers Benefit (CWB) have no November or December 2026 payment, and the Canada Carbon Rebate has ended."
 faq:
   - q: "When is the CPP payment in November 2026?"
     a: "Service Canada lists Thursday, Nov. 26, 2026 for Canada Pension Plan payments. The December payment is Tuesday, Dec. 22."
@@ -59,7 +62,7 @@ faq:
   - q: "When is the Canada Child Benefit paid in November and December 2026?"
     a: "The Canada Child Benefit is paid on Friday, Nov. 20 and Friday, Dec. 11, 2026, according to Service Canada and the Canada Revenue Agency."
   - q: "Is there a GST/HST credit payment in November or December 2026?"
-    a: "No. The Canada Revenue Agency lists 2026 GST/HST credit payments on Jan. 5, Apr. 2, Jul. 3 and Oct. 5. It had not listed a January 2027 date when this story was published."
+    a: "No. The Canada Revenue Agency (CRA) lists GST/HST credit payments on Jan. 5 and Apr. 2, 2026 only. The Jul. 3 and Oct. 5, 2026 payments are listed under the Canada Groceries and Essentials Benefit (CGEB), formerly the GST/HST credit, and CRA says the remaining two quarterly payments in 2026 are made under the CGEB. Neither has a November or December 2026 payment listed, and no 2027 date is shown yet."
   - q: "Is the Canada Carbon Rebate still paid?"
     a: "No. The Canada Revenue Agency says the fuel charge and the rebate stopped on March 15, 2025, and that no payments were made after April 2025."
 sources:
@@ -77,6 +80,9 @@ sources:
     publisher: "Service Canada, Government of Canada"
   - title: "Canada Carbon Rebate"
     url: "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/canada-carbon-rebate.html"
+    publisher: "Canada Revenue Agency"
+  - title: "Province of Newfoundland and Labrador"
+    url: "https://www.canada.ca/en/revenue-agency/services/child-family-benefits/provincial-territorial-programs/province-newfoundland-labrador.html"
     publisher: "Canada Revenue Agency"
   - title: "CPP, OAS and GIS payment dates 2026"
     url: "https://www.moneysense.ca/earn/benefits/cpp-payments-oas-gis-dates-2026/"
@@ -112,7 +118,7 @@ downloads:
 
 **Canada Pension Plan (CPP) and Old Age Security (OAS) payments, including the Guaranteed Income Supplement (GIS), arrive on Thursday, Nov. 26, 2026 and Tuesday, Dec. 22, 2026**, according to the Service Canada benefits payment calendar. The table below puts every federal date for both months in one place, with the weekday for each.
 
-<p class="callout"><b>Checked Oct. 28, 2026.</b> Dates come from the Service Canada calendar and the Canada Revenue Agency (CRA) pages listed under sources. MoneySense, a Canadian personal finance site, also lists Nov. 26 and Dec. 22 for CPP, OAS and GIS in its Oct. 26, 2026 payment-dates article.</p>
+<p class="callout"><b>Checked Nov. 13, 2026.</b> Dates come from the Service Canada calendar and the Canada Revenue Agency (CRA) pages listed under sources. MoneySense, a Canadian personal finance site, also lists Nov. 26 and Dec. 22 for CPP, OAS and GIS in its Oct. 26, 2026 payment-dates article.</p>
 
 ## What are the benefit payment dates for November and December 2026?
 
@@ -121,6 +127,7 @@ downloads:
 | Nov. 10 | Tuesday | Ontario Trillium Benefit (provincial) | Service Canada calendar |
 | Nov. 19 | Thursday | Canada Disability Benefit (CDB) | Service Canada calendar |
 | Nov. 20 | Friday | Canada Child Benefit (CCB) | Service Canada calendar, CRA |
+| Nov. 25 | Wednesday | Newfoundland and Labrador disability benefit (NLDB) | Service Canada calendar, CRA |
 | Nov. 26 | Thursday | CPP, OAS and GIS | Service Canada calendar |
 | Nov. 27 | Friday | Alberta child and family benefit (provincial) | Service Canada calendar |
 | Nov. 27 | Friday | Veterans disability pension | Service Canada calendar |
@@ -129,6 +136,7 @@ downloads:
 | Dec. 17 | Thursday | Canada Disability Benefit (CDB) | Service Canada calendar |
 | Dec. 22 | Tuesday | CPP, OAS and GIS | Service Canada calendar |
 | Dec. 23 | Wednesday | Veterans disability pension | Service Canada calendar |
+| Dec. 24 | Thursday | Newfoundland and Labrador disability benefit (NLDB) | Service Canada calendar, CRA |
 
 The weekdays were computed from the dates on the Service Canada calendar. For the full month on paper, use the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), or print the one-page sheet in the downloads box on this page, which marks each date above.
 
@@ -149,11 +157,11 @@ Three federal payments have nothing scheduled in either month.
 
 | Benefit | What the official page says |
 |---|---|
-| Goods and Services Tax (GST) and Harmonized Sales Tax (HST) credit | CRA lists 2026 payments on Jan. 5 (Monday), Apr. 2 (Thursday), Jul. 3 (Friday) and Oct. 5 (Monday). None falls in November or December. CRA had not listed a January 2027 date when this story was published. |
+| Goods and Services Tax (GST) and Harmonized Sales Tax (HST) credit | CRA lists GST/HST credit payments on Jan. 5 (Monday) and Apr. 2 (Thursday), 2026 only. The Jul. 3 (Friday) and Oct. 5 (Monday) payments are listed under the Canada Groceries and Essentials Benefit (CGEB), formerly the GST/HST credit. CRA lists none for either in November or December, and no 2027 date is shown yet. |
 | Advance Canada Workers Benefit (CWB) | CRA lists 2026 advance payments on Jan. 12 (Monday), Jul. 10 (Friday) and Oct. 9 (Friday). None falls in November or December. |
 | Canada Carbon Rebate | CRA says the fuel charge and the rebate stopped on March 15, 2025, and that no payments were made after April 2025. |
 
-If you were expecting a GST/HST credit or an advance CWB payment in these two months, the CRA pages show none scheduled. The CRA payment-dates pages are the source for any later date.
+If you were expecting a GST/HST credit, CGEB or an advance CWB payment in these two months, the CRA pages show none scheduled. The CRA payment-dates pages are the source for any later date.
 
 ## What is the Canada Disability Benefit date?
 
@@ -161,4 +169,10 @@ The Service Canada calendar lists the Canada Disability Benefit on Thursday, Nov
 
 ## Who else do these dates affect?
 
-Ontario's Trillium Benefit is listed on Tuesday, Nov. 10 and Thursday, Dec. 10, and Alberta's child and family benefit on Friday, Nov. 27, on the same Service Canada calendar. Veterans disability pension payments are listed for Friday, Nov. 27 and Wednesday, Dec. 23. For shipping and mail dates around the same weeks, see the [Canada Post Christmas deadlines](/news/canada-post-holiday-shipping-deadlines-2026-christmas/); for days off, see the [Canada holidays calendar](/canada-holidays/) and the [statutory holidays for 2027](/news/canada-statutory-holidays-2027-federal-general-holidays/).
+Ontario's Trillium Benefit is listed on Tuesday, Nov. 10 and Thursday, Dec. 10, and Alberta's child and family benefit on Friday, Nov. 27, on the same Service Canada calendar. Veterans disability pension payments are listed for Friday, Nov. 27 and Wednesday, Dec. 23.
+
+## What is the Newfoundland and Labrador disability benefit date?
+
+The Service Canada calendar and the CRA payment-dates page list the Newfoundland and Labrador disability benefit (NLDB) on Wednesday, Nov. 25 and Thursday, Dec. 24, 2026. CRA says the NLDB is up to $400 a month ($4,800 annually) for residents of the province on the first day of the payment month who are aged 18 to 64 and hold a valid disability tax credit (DTC) certificate. CRA says the provincial government fully funds the program and that payments are normally issued on the 25th of each month, or the earlier working day if the 25th is a weekend or holiday.
+
+For shipping and mail dates around the same weeks, see the [Canada Post Christmas deadlines](/news/canada-post-holiday-shipping-deadlines-2026-christmas/); for days off, see the [Canada holidays calendar](/canada-holidays/) and the [statutory holidays for 2027](/news/canada-statutory-holidays-2027-federal-general-holidays/).
