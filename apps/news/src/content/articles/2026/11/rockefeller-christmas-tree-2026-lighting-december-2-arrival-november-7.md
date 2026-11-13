@@ -42,7 +42,6 @@ assets:
       unconfirmed:
         - { label: "NBC broadcast airtime", why: "Rockefeller Center says NBC will announce it closer to the event" }
         - { label: "Performers", why: "not yet announced for the 2026 broadcast" }
-        - { label: "Streaming availability", why: "not yet announced for the 2026 broadcast" }
 hero:
   src: ../../../../assets/news/rockefeller-christmas-tree-2026-lighting-december-2-arrival-november-7/rockefeller-christmas-tree-2026-lighting-december-2-arrival-november-7.webp
   alt: "Rockefeller Center Christmas tree lit at night, with the 2026 Rockefeller tree lighting set for Wednesday, Dec. 2"

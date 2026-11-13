@@ -17,41 +17,40 @@ assets:
   overlay: true
   kicker: "FA Cup Second Round Draw · Mon., Nov. 9"
   date: "2026-11-09"
-  card: { top: "Draw at about 6.45pm GMT", big: "1:45 p.m. ET", bottom: "Live on TV, HBO Max and YouTube" }
+  card: { top: "FA Cup second round", big: "20 ties", bottom: "Dec. 4 to 7; eight live on TV" }
   printable:
     kit: deadline-matrix
     slug: fa-cup-second-round-draw-dates-2026
     group: fa-cup-second-round-2026
-    title: "FA Cup Second Round Draw 2026: Dates and Channels"
-    subtitle: "Draw on Monday, Nov. 9, then 40 ties on the weekend of Saturday, Dec. 5"
-    note: "Source: The Football Association (The FA), Emirates FA Cup second round draw numbers confirmed (Nov. 6, 2026). Draw time is approximately 6.45pm GMT, which is 1:45 p.m. ET, worked out by Fresh Calendars."
-    description: "One-page FA Cup second round 2026 sheet: the Nov. 9 draw, where it is shown live, the 40 ties on the weekend of Dec. 5 and what The FA has not confirmed."
-    alt: "Printable FA Cup second round draw 2026 sheet with the Nov. 9 draw, channels and the weekend of Dec. 5 for the 40 ties"
+    title: "FA Cup Second Round 2026: Dates and Channels"
+    subtitle: "20 ties on the weekend of Saturday, Dec. 5; third round draw Monday, Dec. 7"
+    note: "Source: The Football Association (The FA), second round draw confirmed (Nov. 9, 2026) and television broadcast selections (Nov. 12, 2026)."
+    description: "One-page FA Cup second round 2026 sheet: the 20 ties on the weekend of Dec. 5, the eight shown live and the third round draw on Dec. 7."
+    alt: "Printable FA Cup second round 2026 sheet with the weekend of Dec. 5 for the 20 ties, the live TV picks and the third round draw on Dec. 7"
     data:
       target:
-        date: 2026-12-05
-        label: "FA Cup second round ties, weekend of Dec. 5"
-      columns: ["Draw", "Ties"]
+        date: 2026-12-07
+        label: "Third round draw"
+      columns: ["Ties", "Television"]
       rows:
-        - date: 2026-11-09
-          cells:
-            Draw: { text: "Live on TNT Sports 1, HBO Max and TNT Sports YouTube", src: "https://www.thefa.com/news/2026/nov/06/emirates-fa-cup-second-round-draw-to-be-broadcast-on-tnt-sports-20260611" }
-          src: "https://www.thefa.com/news/2026/nov/06/emirates-fa-cup-second-round-draw-to-be-broadcast-on-tnt-sports-20260611"
-          quote: "The Emirates FA Cup second round proper draw will be made on Monday 9 November, live on TNT Sports."
         - date: 2026-12-05
           cells:
-            Ties: { text: "40 ties, weekend of Saturday 5 December", src: "https://www.thefa.com/news/2026/nov/06/emirates-fa-cup-second-round-draw-to-be-broadcast-on-tnt-sports-20260611" }
-          src: "https://www.thefa.com/news/2026/nov/06/emirates-fa-cup-second-round-draw-to-be-broadcast-on-tnt-sports-20260611"
-          quote: "The 40 ties will take place on the weekend of Saturday 5 December."
+            Ties: { text: "20 ties, weekend of Saturday 5 December", src: "https://www.thefa.com/news/2026/nov/09/draw-confirmed-for-emirates-fa-cup-second-round-20261109" }
+            Television: { text: "Eight ties live on TNT Sports and HBO Max", src: "https://www.thefa.com/news/2026/nov/12/efac-second-round-broadcast-selections-20261211" }
+          src: "https://www.thefa.com/news/2026/nov/09/draw-confirmed-for-emirates-fa-cup-second-round-20261109"
+          quote: "A total of 20 ties were drawn out for the second round, which will be staged across the weekend of Saturday 5 December."
+        - date: 2026-12-07
+          cells:
+            Ties: { text: "Guiseley v Notts County", src: "https://www.thefa.com/news/2026/nov/12/efac-second-round-broadcast-selections-20261211" }
+            Television: { text: "Third round draw before the tie, live on TNT Sports", src: "https://www.thefa.com/news/2026/nov/12/efac-second-round-broadcast-selections-20261211" }
+          src: "https://www.thefa.com/news/2026/nov/12/efac-second-round-broadcast-selections-20261211"
+          quote: "The third round draw will take place before the tie between Guiseley and Notts County on Monday 7 December live on TNT Sports, and further details will be announced in due course."
       unconfirmed:
-        - { label: "Draw time to the minute", why: "FA page says approximately 6.45pm GMT only" }
-        - { label: "Exact day of the 40 ties", why: "FA page gives only the weekend of Saturday 5 December" }
-        - { label: "Pairings for balls 6, 16, 23, 29, 33", why: "still 'or' entries until first-round ties finish" }
-        - { label: "Berkhamsted or Berkhamstead spelling", why: "FA page spells the club both ways" }
+        - { label: "Third round draw time", why: "The FA says further details will be announced" }
 hero:
   src: ../../../../assets/news/fa-cup-second-round-draw-2026-time-tv-ball-numbers/fa-cup-second-round-draw-2026-time-tv-ball-numbers.webp
   alt: "FA Cup second round draw 2026: a floodlit match at Sincil Bank Stadium, home of Lincoln City, file photo"
-  caption: "File photo: a floodlit match at Sincil Bank Stadium, home of Lincoln City. The draw itself is at Plymouth Parkway."
+  caption: "File photo: a floodlit match at Sincil Bank Stadium, home of Lincoln City. The second round is played on the weekend of Saturday, Dec. 5, 2026."
   credit: "Photo: Richard Humphrey / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -97,10 +96,10 @@ internalLinks:
 related: [fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times, carabao-cup-quarter-finals-2026-27-fixtures-kickoff-times-tv, january-transfer-window-2027-dates-premier-league-deadline-day]
 downloads:
   - group: "FA Cup Second Round Draw 2026 printables"
-    title: "FA Cup Second Round Draw 2026: Dates and Channels"
-    description: "One-page FA Cup second round 2026 sheet: the Nov. 9 draw, where it is shown live, the 40 ties on the weekend of Dec. 5 and what The FA has not confirmed."
+    title: "FA Cup Second Round 2026: Dates and Channels"
+    description: "One-page FA Cup second round 2026 sheet: the 20 ties on the weekend of Dec. 5, the eight shown live and the third round draw on Dec. 7."
     preview: ../../../../assets/news/fa-cup-second-round-2026/fa-cup-second-round-draw-dates-2026.png
-    alt: "Printable FA Cup second round draw 2026 sheet with the Nov. 9 draw, channels and the weekend of Dec. 5 for the 40 ties"
+    alt: "Printable FA Cup second round 2026 sheet with the weekend of Dec. 5 for the 20 ties, the live TV picks and the third round draw on Dec. 7"
     pdf: "/news/downloads/fa-cup-second-round-2026/fa-cup-second-round-draw-dates-2026.pdf"
     png: "/news/downloads/fa-cup-second-round-2026/fa-cup-second-round-draw-dates-2026.png"
     pages: 1

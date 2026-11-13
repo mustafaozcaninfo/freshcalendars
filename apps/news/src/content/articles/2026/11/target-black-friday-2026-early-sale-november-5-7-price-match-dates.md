@@ -33,7 +33,7 @@ assets:
       - ["Sat., Dec. 26", "Extended return window begins"]
       - ["Fri., Jan. 8, 2027", "Apple, Beats and mobile phone returns due"]
       - ["Sun., Jan. 24, 2027", "Electronics, entertainment and most Target Plus returns due"]
-    note: "Source: Target press release, Oct. 21, 2026, Target Help FAQs, Nov. 4, 2026, and Target holiday shopping fact sheet, Nov. 5, 2026. Tip: keep your receipt and request a price match on or before Dec. 24."
+    note: "Source: Target press release, Oct. 21, 2026, Target Help FAQs and Target holiday shopping fact sheet, Nov. 5, 2026. Tip: keep your receipt and request a price match on or before Dec. 24."
     description: "One-page Target holiday deals calendar for 2026: Early Black Friday Nov. 5-7, Deal of the Day, price match to Dec. 24, holiday store hours and return dates."
     alt: "Printable list of Target holiday deal and price match dates for 2026"
 hero:

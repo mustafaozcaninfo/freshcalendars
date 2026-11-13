@@ -27,7 +27,7 @@ assets:
       - ["Sun., Nov. 8", "Women's semi-final 2, Australia v Fiji, Sydney: 6:45am GMT / 1:45 a.m. ET / 10:45 p.m. PT (Sat.). Australia won 30-14."]
       - ["Sun., Nov. 8", "Men's semi-final 2, Australia v Samoa, Sydney: 9:05am GMT / 4:05 a.m. ET / 1:05 a.m. PT. Australia won 44-12."]
       - ["Tue., Nov. 10", "Wheelchair semi-finals, Wollongong: England beat Australia 86-18, France beat Ireland 82-26"]
-      - ["Fri., Nov. 13", "Wheelchair final, England v France, Wollongong: 8:45am GMT / 3:45 a.m. ET / 12:45 a.m. PT. England won 50-38."]
+      - ["Fri., Nov. 13", "Wheelchair final, England v France, Wollongong: 8:45am GMT / 3:45 a.m. ET. England won 50-38."]
       - ["Sun., Nov. 15", "Women's final, Australia v New Zealand, Suncorp Stadium, Brisbane: 5:10am GMT / 12:10 a.m. ET / 9:10 p.m. PT (Sat.)"]
       - ["Sun., Nov. 15", "Men's final, Australia v New Zealand, Suncorp Stadium, Brisbane: 8:35am GMT / 3:35 a.m. ET / 12:35 a.m. PT"]
     note: "Source: International Rugby League (IRL) match reports and the official site, rlwc2026.com; Sky Sports schedule page of Nov. 13, 2026 (times in GMT). Eastern and Pacific times worked out by Fresh Calendars."

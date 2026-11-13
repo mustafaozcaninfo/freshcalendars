@@ -54,7 +54,7 @@ downloads:
 draft: false
 ---
 
-**The next Law School Admission Test (LSAT) you can still register for is Jan. 13-16, 2027, and the deadline is Dec. 1, 2026.** The November test began Nov. 11 and ends Nov. 14; its registration closed on Oct. 1. The Law School Admission Council (LSAC) lists five more administrations in the 2026-27 cycle, the last in June 2027.
+**The next Law School Admission Test (LSAT) you can still register for is Jan. 13-16, 2027. The deadline is Dec. 1, 2026.** The November test began Nov. 11 and ends Nov. 14. Its registration closed on Oct. 1. The Law School Admission Council (LSAC) lists five more administrations in the 2026-27 cycle, the last in June 2027.
 
 ## LSAT dates and deadlines, 2026-27
 
