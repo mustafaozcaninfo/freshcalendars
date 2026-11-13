@@ -107,7 +107,7 @@ assets:
         - { text: "Half of Social Security is excluded from income.", src: 2, quote: "exclude one-half of your Social Security benefits as shown in Box 5 of your SSA-1099 statement" }
         - { text: "Apply online through myPATH.", src: 2, quote: "Property Tax/Rent Rebate Program applications can now be submitted online via the Department of Revenue's myPATH portal at myPATH.pa.gov." }
         - { text: "Proof of age options.", src: 1, quote: "Proof of age, such as a birth certificate, driver's license or PA ID, Medicare card, or passport" }
-        - { text: "Every claimant submits proof of income.", src: 2, quote: "All claimants must submit proof of annual income." }
+        - { text: "Proof of income for each claimant.", src: 2, quote: "All claimants must submit proof of annual income." }
         - { text: "Disability award letter for Social Security or SSI disability.", src: 2, quote: "provide a copy of your award letter." }
         - { text: "Renters complete Schedule RC.", src: 2, quote: "PA Rent Certificate (PA-1000 Schedule RC) - You must always complete this schedule before completing Line 16" }
       unconfirmed:

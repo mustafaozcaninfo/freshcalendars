@@ -73,7 +73,7 @@ assets:
         - { from: "2026-10-14", kind: early, label: "2-hour early release", src: 1, quote: "OCTOBER 14 | 2-Hour Early Release (PD)" }
         - { from: "2026-11-02", kind: holiday, label: "No school", src: 1, quote: "NOVEMBER 2 | No School" }
         - { from: "2026-11-03", kind: holiday, label: "Election Day, no school", src: 1, quote: "NOVEMBER 3 | Election Day (No School)" }
-        - { from: "2026-11-11", kind: holiday, label: "Veterans Day", src: 2, quote: "Wednesday, November 11: Veteran's Day Schools and District Offices Closed" }
+        - { from: "2026-11-11", kind: holiday, label: "Veteran's Day", src: 2, quote: "Wednesday, November 11: Veteran's Day Schools and District Offices Closed" }
         - { from: "2026-11-23", to: "2026-11-27", kind: break, label: "Thanksgiving", src: 2, quote: "Monday, November 23 through Friday, November 27: Thanksgiving holiday closures" }
         - { from: "2026-12-21", to: "2026-12-23", kind: break, label: "Winter break, staff only", src: 1, quote: "DECEMBER 21-23 | Winter Break (No School, School Staff Only; 12-Month Works)" }
         - { from: "2026-12-24", to: "2026-12-25", kind: break, label: "Christmas, district closed", src: 1, quote: "DECEMBER 24-25 | Christmas (District Closed)" }
@@ -82,7 +82,7 @@ assets:
         - { from: "2027-01-01", kind: break, label: "New Year's Day", src: 1, quote: "JANUARY 1 | New Year’s Day (District Closed)" }
         - { from: "2027-01-18", kind: holiday, label: "Martin Luther King Jr. Day", src: 1, quote: "JANUARY 18 | Dr. MLK Jr. Day (District Closed)" }
         - { from: "2027-02-10", kind: early, label: "2-hour early release", src: 1, quote: "FEBRUARY 10 | 2-Hour Early Release (PD)" }
-        - { from: "2027-02-15", kind: holiday, label: "Presidents' Day", src: 1, quote: "FEBRUARY 15 | President’s Day (District Closed)" }
+        - { from: "2027-02-15", kind: holiday, label: "President's Day", src: 1, quote: "FEBRUARY 15 | President’s Day (District Closed)" }
         - { from: "2027-03-26", kind: holiday, label: "No school", src: 1, quote: "MARCH 26 | No School" }
         - { from: "2027-03-29", to: "2027-04-02", kind: break, label: "Spring break", src: 1, quote: "MARCH 29-31 | Spring Break; APRIL 1–2 | Spring Break" }
         - { from: "2027-05-21", kind: last, label: "Last day for seniors", src: 1, quote: "MAY 21 | Last Day for Seniors" }
