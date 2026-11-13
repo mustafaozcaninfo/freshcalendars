@@ -19,6 +19,7 @@ assets:
     subtitle: "13 games, Nov. 19 to 23. All times Eastern (EST). Write your pick and the final score."
     columns: ["Kickoff (ET)", "Game and network · Pick · Score"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its list layout and changes two kickoff times only"
     rows:
       - ["Thu., Nov. 19 · 8:15 p.m.", "Colts at Texans (Prime Video)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 22 · 1:00 p.m.", "Dolphins at Bills (CBS)  Pick: ______  Score: ______"]
@@ -35,7 +36,6 @@ assets:
       - ["Mon., Nov. 23 · 8:15 p.m.", "Bengals at Commanders (ESPN)  Pick: ______  Score: ______"]
       - ["Tiebreaker · Mon., Nov. 23", "Total points, Bengals at Commanders: ______"]
     note: "Source: NFL.com Week 11 schedule; times ET; subject to flexible scheduling. Byes: Falcons, Browns, Packers, Rams, Patriots, Seahawks."
-    inkSaver: true
     description: "A one-page NFL Week 11 2026 pick'em sheet with all 13 games, Eastern Time kickoffs, TV networks, blanks for picks and scores, and a tiebreaker line."
     alt: "Printable NFL Week 11 2026 pick'em sheet listing 13 games with kickoff, network and blanks for picks and scores"
 hero:
@@ -73,14 +73,6 @@ downloads:
     alt: "Printable NFL Week 11 2026 pick'em sheet listing 13 games with kickoff, network and blanks for picks and scores"
     pdf: "/news/downloads/nfl-week-11-2026/nfl-week-11-pick-em-sheet-2026.pdf"
     png: "/news/downloads/nfl-week-11-2026/nfl-week-11-pick-em-sheet-2026.png"
-    pages: 1
-  - group: "NFL Week 11 Pick'em Sheet 2026 printables"
-    title: "NFL Week 11 Pick'em Sheet 2026 (ink saver)"
-    description: "A one-page NFL Week 11 2026 pick'em sheet with all 13 games, Eastern Time kickoffs, TV networks, blanks for picks and scores, and a tiebreaker line. Ink-saver version."
-    preview: ../../../../assets/news/nfl-week-11-2026/nfl-week-11-pick-em-sheet-2026-ink.png
-    alt: "Printable NFL Week 11 2026 pick'em sheet listing 13 games with kickoff, network and blanks for picks and scores, ink-saver version"
-    pdf: "/news/downloads/nfl-week-11-2026/nfl-week-11-pick-em-sheet-2026-ink.pdf"
-    png: "/news/downloads/nfl-week-11-2026/nfl-week-11-pick-em-sheet-2026-ink.png"
     pages: 1
 sources:
   - title: "NFL Week 11 Schedule 2026: Games, Times, Matchups & Tickets"
