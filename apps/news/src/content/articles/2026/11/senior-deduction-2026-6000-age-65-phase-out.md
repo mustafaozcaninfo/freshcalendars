@@ -70,7 +70,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [2027-tax-brackets-401k-hsa-limits-irs, car-loan-interest-deduction-2026-10000-who-qualifies, tax-calendar-2027-irs-deadlines]
+related: [2027-tax-brackets-401k-hsa-limits-irs, car-loan-interest-deduction-2026-10000-who-qualifies, pennsylvania-property-tax-rent-rebate-deadline-december-31-2026]
 assets:
   overlay: true
   kicker: "Senior deduction · Tax year 2026"

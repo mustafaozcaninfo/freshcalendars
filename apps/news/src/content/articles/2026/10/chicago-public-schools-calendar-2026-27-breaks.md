@@ -47,7 +47,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [nyc-public-schools-calendar-2026-27-breaks-holidays, clark-county-school-district-calendar-2026-27-breaks, gocps-2027-28-application-deadline-november-13-offers]
+related: [nyc-public-schools-calendar-2026-27-breaks-holidays, clark-county-school-district-calendar-2026-27-breaks, saint-louis-public-schools-calendar-2026-27]
 downloads:
   - group: "Chicago schools printable"
     title: "Chicago Public Schools Calendar 2026-27"
