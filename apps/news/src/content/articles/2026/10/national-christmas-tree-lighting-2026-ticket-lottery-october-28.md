@@ -3,7 +3,7 @@ title: "National Christmas Tree Lighting 2026: Dec. 3, Lottery Winners Nov. 12"
 description: "The National Christmas Tree lighting is Thursday, Dec. 3, 2026, on the Ellipse. The free ticket lottery closed Nov. 4; winners are notified Nov. 12."
 type: news
 publishedAt: "2026-10-25T15:19:00-04:00"
-updatedAt: "2026-10-31T15:50:00-04:00"
+updatedAt: "2026-11-13T01:35:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["National Christmas Tree lighting 2026", "National Christmas Tree tickets lottery", "National Christmas Tree lighting date", "Capitol Christmas Tree 2026"]
@@ -23,7 +23,7 @@ summary:
   - "The National Park Service (NPS) says the 2026 National Christmas Tree lighting ceremony is Dec. 3 on the Ellipse in Washington, D.C., which is a Thursday."
   - "The free ticket lottery opened at 10 a.m. Eastern Time (ET) on Wed., Oct. 28, and closes at 3 p.m. ET on Wed., Nov. 4; winners are notified on Thu., Nov. 12."
   - "Each winner may receive up to five tickets, and the NPS says there is no charge to enter the lottery or receive tickets."
-  - "The U.S. Capitol Christmas Tree is a separate event: the 2026 tree comes from the Nez Perce-Clearwater National Forests in Idaho, and its lighting date is not yet announced."
+  - "The U.S. Capitol Christmas Tree is a separate event: the 2026 tree comes from the Nez Perce-Clearwater National Forests in Idaho, it arrives at the U.S. Capitol on Fri., Nov. 20 at 10 a.m., and its lighting date is not yet announced."
 faq:
   - q: "When is the National Christmas Tree lighting 2026?"
     a: "The NPS says the ceremony takes place Dec. 3 on the Ellipse in Washington, D.C. Dec. 3, 2026 is a Thursday. The start time is not yet announced."
@@ -40,7 +40,7 @@ faq:
   - q: "Where can I watch if I do not win tickets?"
     a: "The National Park Foundation says the ceremony will premiere nationwide on Saturday, Dec. 5 on its YouTube channel and on other national and local media channels. A 2026 television broadcaster is not yet named."
   - q: "Is the U.S. Capitol Christmas Tree the same event?"
-    a: "No. The Capitol tree is a separate event. Its 2026 lighting date is not yet announced; in 2025 the Architect of the Capitol listed the ceremony for Tuesday, Dec. 2 at 5 p.m. on the West Front Lawn."
+    a: "No. The Capitol tree is a separate event. The Architect of the Capitol says it arrives at the U.S. Capitol on Friday, Nov. 20 at 10 a.m. Its 2026 lighting date is not yet announced; in 2025 the Architect of the Capitol listed the ceremony for Tuesday, Dec. 2 at 5 p.m. on the West Front Lawn. The 2026 tree will then be lit from dusk until 11 p.m. each evening through early January 2027."
 sources:
   - title: "2026 National Christmas Tree Lighting Ticket Lottery Opens Oct. 28"
     url: "https://www.nps.gov/whho/learn/news/2026-national-christmas-tree-lighting-ticket-lottery-opens-oct-28.htm"
@@ -81,6 +81,7 @@ assets:
   date: "2026-12-03"
   card: { top: "National Christmas Tree lighting", big: "Lottery open now, closes Nov. 4", bottom: "Ceremony Thu., Dec. 3 on the Ellipse" }
   printable:
+    noKit: "Mixed dated timeline from NPS, NPF and Capitol tree sources; the fact sheet has no verbatim source quotes for the kit data."
     slug: national-christmas-tree-2026-timeline
     group: national-christmas-tree-2026
     title: "National Christmas Tree Lighting 2026 Timeline"
@@ -92,6 +93,7 @@ assets:
       - ["Wed., Nov. 4", "3 p.m. ET: ticket lottery closes"]
       - ["Thu., Nov. 5", "Capitol tree tour stop in Arco, Idaho"]
       - ["Thu., Nov. 12", "Lottery winners notified"]
+      - ["Fri., Nov. 20", "Capitol tree arrives at the U.S. Capitol, 10 a.m."]
       - ["Thu., Dec. 3", "National Christmas Tree lighting ceremony on the Ellipse"]
     note: "Sources: National Park Service; National Park Foundation; U.S. Capitol Christmas Tree (USDA Forest Service)."
     description: "One-page timeline for the 2026 National Christmas Tree ticket lottery, the Capitol tree tour and the Thursday, Dec. 3 lighting ceremony."
@@ -127,12 +129,14 @@ No. The U.S. Capitol Christmas Tree is a separate event with its own website; se
 |---|---|---|
 | Tree | Engelmann spruce, Nez Perce-Clearwater National Forests, Idaho | U.S. Capitol Christmas Tree |
 | Whistle-stop tour in Idaho | Thu., Oct. 29 (Grangeville) to Thu., Nov. 5 (Arco) | U.S. Capitol Christmas Tree |
-| Lighting date | Not yet announced | U.S. Capitol Christmas Tree |
+| Arrival at the U.S. Capitol | Fri., Nov. 20, 10 a.m. ET | Architect of the Capitol |
+| Lighting date | Not yet announced (ceremony on the West Front Lawn) | Architect of the Capitol |
+| Nightly lighting | Dusk until 11 p.m. each evening through early January 2027 | Architect of the Capitol |
 
-For comparison, the Architect of the Capitol listed last year's ceremony for Tuesday, Dec. 2, 2025 at 5 p.m. on the West Front Lawn. That is a 2025 detail, not a 2026 date.
+The Architect of the Capitol posted its notice on Nov. 2, 2026. For comparison, the Architect of the Capitol listed last year's ceremony for Tuesday, Dec. 2, 2025 at 5 p.m. on the West Front Lawn. That is a 2025 detail, not a 2026 date.
 
 ## What goes on the printable timeline?
 
-The one-page printable lists six dates in order: the lottery opening and closing, the winner notices, the Dec. 3 ceremony and two Capitol tree tour stops. Dates that are not yet announced are left off. For the rest of the month, see our [December 2026 important dates story](/news/december-2026-important-dates-holidays-days-until/), the [Christmas 2026 countdown](/news/christmas-2026-calendar-printable-countdown/) and the [New York holiday calendar with the Rockefeller tree and Macy's parade](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/).
+The one-page printable lists seven dates in order: the lottery opening and closing, the winner notices, the Dec. 3 ceremony, two Capitol tree tour stops and the Capitol tree's Nov. 20 arrival. Dates that are not yet announced are left off. For the rest of the month, see our [December 2026 important dates story](/news/december-2026-important-dates-holidays-days-until/), the [Christmas 2026 countdown](/news/christmas-2026-calendar-printable-countdown/) and the [New York holiday calendar with the Rockefeller tree and Macy's parade](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/).
 
 Not confirmed in this story: the ceremony start time, the 2026 television broadcaster and the 2026 Capitol tree lighting date.
