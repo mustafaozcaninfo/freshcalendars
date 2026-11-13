@@ -99,7 +99,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [holiday-menus-2026-every-chain-tracker, holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks, tim-hortons-holiday-menu-2026-canada]
+related: [holiday-menus-2026-every-chain-tracker, chick-fil-a-peppermint-milkshake-2026, tim-hortons-holiday-menu-2026-canada]
 downloads:
   - group: "Starbucks Holiday Menu 2026 Checklist printables"
     title: "Starbucks Holiday Menu 2026 Checklist"
