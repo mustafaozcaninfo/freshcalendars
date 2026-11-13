@@ -3,7 +3,7 @@ title: "World Chess Championship 2026: Game 1 Nov. 24, 9 a.m. ET"
 description: "World Chess Championship 2026 starts Nov. 24 in Geneva at 9 a.m. ET. See all 14 classical games, the Dec. 12 tie-break and the 6 a.m. Pacific start."
 type: news
 publishedAt: "2026-11-07T10:50:00-05:00"
-updatedAt: "2026-11-07T10:50:00-05:00"
+updatedAt: "2026-11-13T16:16:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["world chess championship 2026", "gukesh vs sindarov", "world chess championship 2026 schedule", "gukesh sindarov game time"]
@@ -23,7 +23,7 @@ summary:
   - "The International Chess Federation (FIDE) regulations schedule 14 classical games from Tue., Nov. 24 to Fri., Dec. 11, 2026 in Geneva, each at 3:00 pm."
   - "FIDE's regulations print no time zone; Khel Now and 365chess both say it is Central European Time (CET), which makes each game 9 a.m. Eastern Time (ET) and 6 a.m. Pacific Time (PT)."
   - "The first player to score 7.5 points wins the title. A tie-break, if needed, is set for Sat., Dec. 12."
-  - "Game 3 falls on Thanksgiving, Thu., Nov. 26. Broadcast details have not yet been announced."
+  - "The match is at the Fondation Martin Bodmer in Cologny, Geneva. Tickets are on sale; FIDE has not yet announced the online broadcast partner."
 faq:
   - q: "What time does Gukesh vs. Sindarov start?"
     a: "FIDE's match regulations list each game at 3:00 pm in Geneva. Khel Now and 365chess both say that is Central European Time, so games start at 9 a.m. Eastern Time and 6 a.m. Pacific Time."
@@ -32,11 +32,23 @@ faq:
   - q: "What happens if the match is tied after 14 games?"
     a: "A tie-break is played, according to the regulations: four games at 15 minutes plus a 10-second increment, then two at 10 minutes plus 5 seconds, then two at 3 minutes plus 2 seconds, then single 3+2 games until one player wins. The tie-break is scheduled for Sat., Dec. 12, time not yet announced."
   - q: "Where can I watch the World Chess Championship 2026?"
-    a: "Broadcast details have not yet been announced, according to worldchess.com on Nov. 5, 2026."
+    a: "FIDE has not yet announced the online broadcast partner or commentators; worldchess.com said on Nov. 5, 2026 that broadcast details had not yet been announced. For fans in Geneva, FIDE says the Fan Zone shows a live feed from the playing hall on a big screen, and Very Important Person (VIP) Day Pass holders get live commentary from grandmasters Peter Svidler and Peter Leko."
+  - q: "Where is the World Chess Championship 2026 being played?"
+    a: "At the Fondation Martin Bodmer in Cologny, Geneva, Switzerland, according to FIDE's Sept. 14, 2026 announcement. The opening ceremony is on Sun., Nov. 22."
 sources:
   - title: "Regulations for the FIDE World Championship Match 2026"
     url: "https://doc.fide.com/docs/DOC/2026_2FC_decisions/CM2-2026_06.pdf"
     publisher: "International Chess Federation (FIDE)"
+  - title: "Salesforce FIDE World Championship Match 2026: Schedule, format, and prize fund confirmed"
+    url: "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/"
+    publisher: "International Chess Federation (FIDE)"
+    date: "2026-09-14"
+  - title: "Ticket sales for the Salesforce FIDE World Championship are now open"
+    url: "https://www.fide.com/ticket-sales-for-the-salesforce-fide-world-championship-are-now-open/"
+    publisher: "International Chess Federation (FIDE)"
+  - title: "Salesforce FIDE World Championship Match 2026"
+    url: "https://www.geneve.com/en/events/championnat-du-monde-fide-salesforce-2026"
+    publisher: "Geneva Tourism"
   - title: "Geneva to host FIDE World Championship Match 2026"
     url: "https://www.fide.com/geneva-to-host-fide-world-championship-match-2026/"
     publisher: "International Chess Federation (FIDE)"
@@ -106,11 +118,13 @@ assets:
 draft: false
 ---
 
-**The International Chess Federation (FIDE) schedules Game 1 of the 2026 World Chess Championship between Gukesh D and Javokhir Sindarov for Tue., Nov. 24 in Geneva, at 3:00 pm local time, which is 9 a.m. Eastern Time (ET), according to FIDE's match regulations.** The 14 classical games run through Fri., Dec. 11, with a tie-break, if needed, set for Sat., Dec. 12. FIDE's regulations print no time zone; Khel Now and 365chess both say it is Central European Time (CET). Broadcast details have not yet been announced.
+**The International Chess Federation (FIDE) schedules Game 1 of the 2026 World Chess Championship between Gukesh D and Javokhir Sindarov for Tue., Nov. 24 in Geneva, at 3:00 pm local time, which is 9 a.m. Eastern Time (ET), according to FIDE's match regulations.** The 14 classical games run through Fri., Dec. 11, with a tie-break, if needed, set for Sat., Dec. 12. FIDE's regulations print no time zone; Khel Now and 365chess both say it is Central European Time (CET). The match is played at the Fondation Martin Bodmer in Cologny, Geneva. FIDE has not yet announced the online broadcast partner.
 
 ## World Chess Championship 2026 dates in Geneva
 
-FIDE's regulations say the match is "organised from 22 November to 13 December 2026 in Geneva." The schedule starts with arrivals on Fri., Nov. 20; the opening ceremony is on Sun., Nov. 22, with a media day, and a technical meeting follows on Mon., Nov. 23. The ceremony time and the exact venue in Geneva are not yet announced.
+FIDE's regulations say the match is "organised from 22 November to 13 December 2026 in Geneva." The schedule starts with arrivals on Fri., Nov. 20; the opening ceremony is on Sun., Nov. 22, with a media day, and a technical meeting follows on Mon., Nov. 23. The ceremony time is not yet announced.
+
+The venue is the Fondation Martin Bodmer, a library and museum in Cologny, Geneva, according to FIDE's Sept. 14, 2026 announcement of the regulations, which gives the match dates as Nov. 22 to Dec. 12. Its title sponsor is Salesforce, so FIDE calls the event the Salesforce FIDE World Championship Match 2026. Tickets are on sale on FIDE's ticket site: a Very Important Person (VIP) Day Pass, which includes an hour in the playing hall, and a Fan Zone Pass. Geneva Tourism lists prices from 19 Swiss francs (CHF).
 
 FIDE's July 28, 2026 announcement had said the match would run "from November 25 to December 15." The later regulations moved it, so older pages may show different dates. Mark the days on our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html).
 
@@ -177,11 +191,13 @@ There is a 10-minute pause between tie-break games. The tie-break time on Sat., 
 
 ## How much is the prize fund?
 
-Article 4.5.1 sets the prize fund in US dollars (USD) at "2,500,000 USD net of any applicable local taxes". Article 4.5.2(a) pays 200,000 USD for each game won.
+Article 4.5.1 sets the prize fund in US dollars (USD) at "2,500,000 USD net of any applicable local taxes". Article 4.5.2(a) pays 200,000 USD for each game won. FIDE says the winner receives USD 1.3 million and the runner-up USD 1.2 million if the final classical score is 7.5-6.5 with 13 decisive games, or 8-6 with all 14 decisive, and the same split applies if the tie-break decides the match.
 
 ## Where to watch the World Chess Championship 2026
 
-Not yet announced. World Chess said on Nov. 5, 2026: "Broadcast details ... have not yet been announced." Ticket details are not yet announced either.
+The online broadcast partner is not yet announced. World Chess said on Nov. 5, 2026: "Broadcast details ... have not yet been announced."
+
+In Geneva, FIDE says the Fan Zone shows a live broadcast from the playing hall on a big screen, and VIP Day Pass holders get live commentary from grandmasters Peter Svidler and Peter Leko. Fan Zone activities include simuls, tournaments, master classes and grandmaster Q&As on selected days.
 
 ## Free World Chess Championship 2026 game tracker
 

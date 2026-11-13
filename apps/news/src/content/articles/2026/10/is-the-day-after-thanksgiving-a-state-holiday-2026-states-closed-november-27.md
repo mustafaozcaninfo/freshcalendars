@@ -1,9 +1,9 @@
 ---
-title: "Closed Day After Thanksgiving 2026? 19 States Close Nov. 27"
-description: "Friday, Nov. 27, 2026 is not a federal holiday, but 19 states list it as a paid holiday or closure for state workers. A table shows each state's name."
+title: "Closed Day After Thanksgiving 2026? 22 States Close Nov. 27"
+description: "Friday, Nov. 27, 2026 is not a federal holiday, but 22 states list it as a paid holiday or closure for state workers. A table shows each state's name."
 type: news
 publishedAt: "2026-10-28T15:49:00-04:00"
-updatedAt: "2026-11-07T23:20:00-05:00"
+updatedAt: "2026-11-13T16:08:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is the day after thanksgiving a state holiday 2026", "state offices closed day after thanksgiving 2026", "is black friday a paid holiday for state employees", "friday after thanksgiving holiday by state"]
@@ -11,10 +11,11 @@ assets:
   overlay: true
   kicker: "Day After Thanksgiving 2026 · Fri., Nov. 27"
   date: "2026-11-27"
-  card: { top: "States with a paid holiday", big: "19 states", bottom: "Not a federal holiday" }
+  card: { top: "States with a paid holiday", big: "22 states", bottom: "Not a federal holiday" }
   printable:
     slug: day-after-thanksgiving-2026-state-holiday-check
     group: thanksgiving-2026
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     title: "Day After Thanksgiving 2026: State Holiday Check by State"
     subtitle: "Is Fri., Nov. 27, 2026 a paid holiday for state employees?"
     rows:
@@ -23,11 +24,14 @@ assets:
       - ["Florida", "Yes: Friday after Thanksgiving (Florida Statutes 110.117)"]
       - ["Georgia", "Yes: State Holiday observed on Friday, November 27"]
       - ["Illinois", "Yes: Thanksgiving, Thursday and Friday"]
+      - ["Iowa", "Yes: Day after Thanksgiving, Friday, November 27"]
       - ["Indiana", "Yes: Lincoln's Birthday observed Friday, November 27"]
       - ["Kansas", "Yes: day after Thanksgiving, Friday, November 27, 2026"]
       - ["Kentucky", "Yes: Thanksgiving, Thursday and Friday"]
+      - ["Louisiana", "Yes: Acadian Day, governor's proclamation of Oct. 9"]
       - ["Maryland", "Yes: American Indian Heritage Day"]
       - ["Minnesota", "Yes: Friday after Thanksgiving (executive branch)"]
+      - ["Missouri", "Yes: state offices closed by Executive Order 26-22"]
       - ["Nebraska", "Yes: Day after Thanksgiving (page lists no year)"]
       - ["Nevada", "Yes: Family Day"]
       - ["North Carolina", "Yes: Thanksgiving, Thursday and Friday"]
@@ -37,19 +41,17 @@ assets:
       - ["Texas", "Yes: Day after Thanksgiving (Friday)"]
       - ["Virginia", "Yes: Thanksgiving is the fourth Thursday and the Friday after"]
       - ["Washington", "Yes: Native American Heritage Day"]
-      - ["Louisiana", "Partial: Acadian Day by governor's proclamation, not yet announced"]
       - ["Vermont", "Partial: most offices closed under employee contracts"]
       - ["Open (9 states)", "Arizona, Connecticut, Hawaii, Idaho, Montana, New Jersey, New York, Ohio, Wyoming"]
       - ["Open (District)", "District of Columbia government lists Thanksgiving Thursday only"]
-      - ["Not confirmed (20)", "Alabama, Alaska, Arkansas, Colorado, Iowa, Maine, Massachusetts, Michigan, Mississippi, Missouri"]
+      - ["Not confirmed (18)", "Alabama, Alaska, Arkansas, Colorado, Maine, Massachusetts, Michigan, Mississippi"]
       - ["Not confirmed (cont.)", "New Hampshire, New Mexico, North Dakota, Oklahoma, Rhode Island, South Dakota, Tennessee, Utah, West Virginia, Wisconsin"]
-    note: "Source: each state's official holiday page or statute, checked Oct. 28, 2026; OPM federal holidays."
-    inkSaver: true
+    note: "Source: each state's official holiday page or statute, checked Nov. 13, 2026; OPM federal holidays."
     description: "A one-page check of which states list Friday, Nov. 27, 2026 as a paid state holiday, which do not, and which are not confirmed."
     alt: "Printable table of state holidays on the day after Thanksgiving 2026, by state"
 hero:
   src: ../../../../assets/news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27.webp
-  alt: "The Texas State Capitol in Austin; the day after Thanksgiving 2026 is a state holiday in Texas and 18 other states"
+  alt: "The Texas State Capitol in Austin; the day after Thanksgiving 2026 is a state holiday in Texas and 21 other states"
   caption: "File photo of the Texas State Capitol in Austin. Texas lists Friday, Nov. 27, 2026, the day after Thanksgiving, as a state holiday."
   credit: "Photo: LoneStarMike / Wikimedia Commons, cropped, edited"
   license:
@@ -60,22 +62,23 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:LoneStarMike"
 summary:
   - "Friday, Nov. 27, 2026, the day after Thanksgiving, is not a federal holiday on the U.S. Office of Personnel Management (OPM) list."
-  - "Nineteen states list the day as a paid holiday or office closure; Louisiana and Vermont are partial."
-  - "Nine states and the District of Columbia government list only Thanksgiving Thursday; 20 states could not be confirmed from a readable official page."
+  - "Twenty-two states list the day as a paid holiday or office closure; Vermont is partial."
+  - "Nine states and the District of Columbia government list only Thanksgiving Thursday; 18 states could not be confirmed from a readable official page."
   - "Union contracts can differ from the state list, so state employees should check with their agency."
 faq:
   - q: "Is the day after Thanksgiving a federal holiday?"
     a: "No. The Office of Personnel Management (OPM) federal holiday list names Thanksgiving Day, Thursday, Nov. 26, 2026, and not the Friday after."
   - q: "Is Black Friday a paid holiday for state employees?"
-    a: "It depends on the state. In 2026, 19 states list Friday, Nov. 27 as a paid holiday or closure, two are partial, and nine states plus the District of Columbia list Thanksgiving Thursday only."
+    a: "It depends on the state. In 2026, 22 states list Friday, Nov. 27 as a paid holiday or closure, one is partial, and nine states plus the District of Columbia list Thanksgiving Thursday only."
   - q: "Do private employers close on the day after Thanksgiving?"
     a: "Private employers set their own policy. This story covers state government offices only."
   - q: "What if my state is not confirmed?"
-    a: "Check with your agency's human resources office or your union contract. This story did not mark those 20 states as yes or no."
+    a: "Check with your agency's human resources office or your union contract. This story did not mark those 18 states as yes or no."
 sources:
   - title: "Federal holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
+    date: "2026-11-13"
   - title: "State Holidays"
     url: "https://www.calhr.ca.gov/about-calhr/divisions-programs/personnel-management/leave-benefits/state-holidays/"
     publisher: "California Department of Human Resources"
@@ -112,6 +115,22 @@ sources:
   - title: "Driver and Vehicle Services holiday closings"
     url: "https://www.pa.gov/agencies/dmv/alerts/holiday-closings"
     publisher: "Pennsylvania Department of Transportation (PennDOT)"
+  - title: "State Holidays"
+    url: "https://das.iowa.gov/state-employees/state-accounting/centralized-payroll/state-holidays"
+    publisher: "Iowa Department of Administrative Services"
+    date: "2026-11-13"
+  - title: "Governor's Executive Orders 2026"
+    url: "https://www.sos.mo.gov/library/reference/orders/2026"
+    publisher: "Missouri Secretary of State"
+    date: "2026-11-13"
+  - title: "Proclamation 43 of 2026, Legal State Holiday: Acadian Day"
+    url: "https://irp.cdn-website.com/675ebc74/files/uploaded/Proclamation+No.+43+JML+2026.pdf"
+    publisher: "Office of the Governor of Louisiana"
+    date: "2026-10-09"
+  - title: "2026 Holiday Schedule"
+    url: "https://lpsc.louisiana.gov/DNC_Holidays"
+    publisher: "Louisiana Public Service Commission"
+    date: "2026-11-13"
 internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
@@ -127,18 +146,10 @@ downloads:
     pdf: "/news/downloads/thanksgiving-2026/day-after-thanksgiving-2026-state-holiday-check.pdf"
     png: "/news/downloads/thanksgiving-2026/day-after-thanksgiving-2026-state-holiday-check.png"
     pages: 1
-  - group: "Day After Thanksgiving 2026 printables"
-    title: "Day After Thanksgiving 2026: State Holiday Check by State (ink saver)"
-    description: "A one-page check of which states list Friday, Nov. 27, 2026 as a paid state holiday, which do not, and which are not confirmed. Ink-saver version."
-    preview: ../../../../assets/news/thanksgiving-2026/day-after-thanksgiving-2026-state-holiday-check-ink.png
-    alt: "Printable table of state holidays on the day after Thanksgiving 2026, by state, ink-saver version"
-    pdf: "/news/downloads/thanksgiving-2026/day-after-thanksgiving-2026-state-holiday-check-ink.pdf"
-    png: "/news/downloads/thanksgiving-2026/day-after-thanksgiving-2026-state-holiday-check-ink.png"
-    pages: 1
 draft: false
 ---
 
-**Friday, Nov. 27, 2026, the day after Thanksgiving, is not a federal holiday, but at least 19 states list it as a paid holiday for state employees, according to each state's official holiday schedule.** The U.S. Office of Personnel Management (OPM) federal holidays list names Thanksgiving Day on Thursday, Nov. 26, and no Friday. Each state decides for its own employees. The table below uses each state's own page and its name for the day.
+**Friday, Nov. 27, 2026, the day after Thanksgiving, is not a federal holiday, but at least 22 states list it as a paid holiday for state employees, according to each state's official holiday schedule.** The U.S. Office of Personnel Management (OPM) federal holidays list names Thanksgiving Day on Thursday, Nov. 26, and no Friday. Each state decides for its own employees. The table below uses each state's own page and its name for the day.
 
 ## Is the day after Thanksgiving a federal holiday?
 
@@ -146,7 +157,7 @@ No. The [OPM federal holidays page](https://www.opm.gov/policy-data-oversight/pa
 
 ## Which states close state offices on Friday, Nov. 27, 2026?
 
-Nineteen states list the day as a paid holiday or closure. Several use a different name, such as Family Day in Nevada, American Indian Heritage Day in Maryland and Native American Heritage Day in Washington. Indiana moves Lincoln's Birthday to the Friday and observes Washington's Birthday on Thursday, Dec. 24.
+Twenty-two states list the day as a paid holiday or closure. Several use a different name, such as Family Day in Nevada, American Indian Heritage Day in Maryland and Native American Heritage Day in Washington. Indiana moves Lincoln's Birthday to the Friday and observes Washington's Birthday on Thursday, Dec. 24.
 
 | State | What the official page says | Source |
 |---|---|---|
@@ -155,11 +166,14 @@ Nineteen states list the day as a paid holiday or closure. Several use a differe
 | Florida | "Friday after Thanksgiving" | [Florida Statutes 110.117(1)(h)](https://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0100-0199/0110/Sections/0110.117.html) |
 | Georgia | "State Holiday: Observed on Friday, November 27" | [Georgia state holidays 2026](https://georgia.gov/georgia-state-holidays-2026) |
 | Illinois | "Thanksgiving: Thursday and Friday, November 26 and 27" | [Illinois State Treasurer](https://www.illinoistreasurer.gov/?p=210) |
+| Iowa | "Day after Thanksgiving," Friday, November 27 | [Iowa Department of Administrative Services](https://das.iowa.gov/state-employees/state-accounting/centralized-payroll/state-holidays) |
 | Indiana | "Lincoln's Birthday: Friday, November 27" | [Indiana State Personnel Department](https://www.in.gov/spd/benefits/state-holidays/) |
 | Kansas | Unnamed holiday, "Friday, November 27, 2026" | [Kansas Department of Administration](https://admin.ks.gov/offices/personnel-services/agency-information/holidays-for-state-of-kansas-executive-branch-employees/holidays-for-2026) |
 | Kentucky | "Thanksgiving - Thursday, November 26, 2026 & Friday, November 27, 2026" | [Kentucky Personnel Cabinet](https://extranet.personnel.ky.gov/pages/leave.aspx) |
+| Louisiana | "Acadian Day," Friday, November 27, 2026, declared a legal state holiday by Gov. Jeff Landry's proclamation dated Oct. 9 | [Governor's Proclamation 43 of 2026](https://irp.cdn-website.com/675ebc74/files/uploaded/Proclamation+No.+43+JML+2026.pdf), [Louisiana Public Service Commission holiday schedule](https://lpsc.louisiana.gov/DNC_Holidays) |
 | Maryland | "American Indian Heritage Day," Nov. 27 | [Maryland Department of Budget and Management](https://dbm.maryland.gov/employees/Pages/StateHolidays2026.aspx) |
 | Minnesota | "The Friday after Thanksgiving" for the executive branch | [Minnesota Statutes 645.44](https://www.revisor.mn.gov/statutes/cite/645.44) |
+| Missouri | Gov. Mike Kehoe "orders state offices to be closed on Friday, November 27, 2026" (Executive Order 26-22, Nov. 6) | [Missouri Secretary of State, 2026 executive orders](https://www.sos.mo.gov/library/reference/orders/2026) |
 | Nebraska | "Day after Thanksgiving" (the page shows no year; bargaining-unit staff should check with their agency) | [Nebraska Department of Administrative Services (DAS)](https://das.nebraska.gov/personnel/holiday.html) |
 | Nevada | "Family Day," the Friday following the fourth Thursday in November | [Nevada Revised Statutes, Chapter 236](https://www.leg.state.nv.us/NRS/NRS-236.html) |
 | North Carolina | "Thanksgiving November 26 & 27, 2026 Thursday & Friday" | [North Carolina Office of State Human Resources](https://oshr.nc.gov/state-employee-resources/benefits/leave/holidays) |
@@ -172,11 +186,12 @@ Nineteen states list the day as a paid holiday or closure. Several use a differe
 
 Pennsylvania's entry comes from the transportation department's closings list, and Delaware's from the judicial branch page, so they speak for those offices. The [Native American Heritage Day story](/news/native-american-heritage-day-2026-friday-november-27-heritage-month/) explains the Washington law.
 
+Louisiana's Acadian Day is a governor's proclamation, and Missouri's closure is an executive order, so both are set for 2026 only. The Louisiana proclamation text is read from a copy hosted outside a state domain.
+
 ## Which states are partial?
 
 | State | What the official page says | Source |
 |---|---|---|
-| Louisiana | The Friday after Thanksgiving is "Acadian Day," set each year by the governor's proclamation. The 2026 proclamation is not yet announced. | No 2026 proclamation published |
 | Vermont | "Most State offices will be closed on the day after Thanksgiving (see Holiday Articles in State employee contracts)" | [Vermont Department of Human Resources](https://humanresources.vermont.gov/benefits-wellness/holiday-schedule) |
 
 ## Which states list Thanksgiving Thursday only?
@@ -198,7 +213,7 @@ Nine states and the District of Columbia government show Thanksgiving Thursday a
 
 ## Which states could not be confirmed?
 
-This story could not confirm the day from a readable official page for 20 states: Alabama, Alaska, Arkansas, Colorado, Iowa, Maine, Massachusetts, Michigan, Mississippi, Missouri, New Hampshire, New Mexico, North Dakota, Oklahoma, Rhode Island, South Dakota, Tennessee, Utah, West Virginia and Wisconsin. They are not marked yes or no. Check with your agency. In Missouri, the governor closed state offices by executive order in 2023 and 2024; no 2026 order has been issued.
+This story could not confirm the day from a readable official page for 18 states: Alabama, Alaska, Arkansas, Colorado, Maine, Massachusetts, Michigan, Mississippi, New Hampshire, New Mexico, North Dakota, Oklahoma, Rhode Island, South Dakota, Tennessee, Utah, West Virginia and Wisconsin. They are not marked yes or no. Check with your agency.
 
 ## Are motor vehicle offices open on Friday, Nov. 27, 2026?
 
@@ -217,4 +232,4 @@ Union contracts can differ from a state's published list. Private employers set 
 
 ## Where is the printable?
 
-The free printable on this page lists each state's status on one sheet. The [November 2026 printable calendar](/november-calendars.html) shows the full month. Counts: 19 states yes, 2 partial, 9 states plus the District of Columbia open, 20 not confirmed, checked Oct. 28, 2026.
+The free printable lists each state's status on one sheet. The [November 2026 printable calendar](/november-calendars.html) shows the full month. Counts: 22 states yes, 1 partial, 9 states plus the District of Columbia open, 18 not confirmed, checked Nov. 13, 2026.

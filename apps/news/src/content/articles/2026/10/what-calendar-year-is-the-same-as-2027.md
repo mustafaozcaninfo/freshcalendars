@@ -1,6 +1,6 @@
 ---
 title: "Years With the Same Calendar as 2027: 2021 and 2010, Next 2038"
-description: "2021 and 2010 have the same calendar as 2027: all three have 365 days and start on a Friday. See 21 matching years, the next repeat and a printable list."
+description: "2021 is the latest year with the same calendar as 2027, and 2038 is the next. All start on a Friday with 365 days. See 21 matches and a printable list."
 type: explainer
 publishedAt: "2026-10-23T14:09:00-04:00"
 authors: [jessica-hartwell]
@@ -99,7 +99,7 @@ downloads:
 draft: false
 ---
 
-**2021 and 2010 have the same calendar as 2027.** All three are common years of 365 days that begin on Friday, Jan. 1, so every date in 2027 falls on the same day of the week as it did in 2021 and in 2010. The next year to repeat the 2027 calendar is 2038.
+**2021 has the same calendar as 2027, and so does 2010; the next matching year is 2038.** All three of 2010, 2021 and 2027 are common years of 365 days that begin on Friday, Jan. 1, so every date in 2027 falls on the same day of the week as it did in 2021 and in 2010.
 
 That makes an old 2021 wall calendar usable as a weekday grid for 2027. The holidays printed on it are another matter, and a few of them are wrong for 2027 (see below).
 

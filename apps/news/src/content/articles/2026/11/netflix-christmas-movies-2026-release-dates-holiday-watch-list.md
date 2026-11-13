@@ -3,7 +3,7 @@ title: "Netflix Christmas Movies 2026: 32 Holiday Titles Dated Nov. 1-28"
 description: "Netflix Christmas movies 2026: 32 holiday titles are dated Nov. 1 to 28, and In a Holidaze is Dec. 2. Each date by week, plus a printable watch list."
 type: news
 publishedAt: "2026-11-01T10:45:00-05:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-13T16:13:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["netflix christmas movies 2026", "new netflix holiday movies 2026", "netflix christmas movies release dates", "in a holidaze netflix release date", "gospel of christmas netflix release date"]
@@ -68,13 +68,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Glowing_Christmas_Tree_Lights_in_the_Winter_Night.jpg"
     author: "epSos.de"
 summary:
-  - "Netflix's Oct. 31, 2026 list dates 32 holiday titles from Sunday, Nov. 1 to Saturday, Nov. 28; 10 of them are dated Nov. 1 or Nov. 3."
-  - "Netflix names three original holiday movies: A Dog's Perfect Christmas on Nov. 4, Tyler Perry's The Gospel of Christmas on Nov. 11 and Guarding Stars on Nov. 18."
+  - "Netflix's Oct. 31, 2026 list dates 32 holiday titles from Sunday, Nov. 1 to Saturday, Nov. 28; 20 are out as of Nov. 13 and 12 are still to come."
+  - "Netflix names three original holiday movies: A Dog's Perfect Christmas (Nov. 4) and Tyler Perry's The Gospel of Christmas (Nov. 11) are out, and Guarding Stars arrives Nov. 18."
   - "In a Holidaze is dated Wednesday, Dec. 2 on Netflix's fall movie page; the full December list is not yet posted."
   - "Netflix's Help Center says originals typically release at 12:00 a.m. Pacific Time, which is 3 a.m. Eastern Time."
 faq:
   - q: "When does The Gospel of Christmas come out on Netflix?"
-    a: "Netflix Tudum says Tyler Perry's The Gospel of Christmas will be released on Nov. 11, 2026, a Wednesday. Netflix's August fall movie page had listed it only as fall 2026."
+    a: "Tyler Perry's The Gospel of Christmas was released on Nov. 11, 2026, a Wednesday, per Netflix Tudum. Netflix's August fall movie page had listed it only as fall 2026."
   - q: "When does In a Holidaze come out on Netflix?"
     a: "Netflix's fall movie page, published Aug. 26, 2026, lists In a Holiday... In a Holidaze, a holiday romance, for Wednesday, Dec. 2, 2026."
   - q: "Which Netflix Christmas movies are originals?"
@@ -123,43 +123,43 @@ downloads:
 draft: false
 ---
 
-**Netflix's "New on Netflix in November 2026" list, published Oct. 31, 2026 on Netflix Tudum, dates 32 holiday titles between Sunday, Nov. 1 and Saturday, Nov. 28, and Netflix's fall movie page lists "In a Holiday... In a Holidaze" for Wednesday, Dec. 2.** The table below groups every one by week, and a free printable watch list follows it.
+**Netflix's "New on Netflix in November 2026" list, published Oct. 31, 2026 on Netflix Tudum, dates 32 holiday titles between Sunday, Nov. 1 and Saturday, Nov. 28, and Netflix's fall movie page lists "In a Holiday... In a Holidaze" for Wednesday, Dec. 2.** As of Friday, Nov. 13, 20 of the 32 are out; the next, Christmas On The Ranch and Reporting for Christmas, arrive Monday, Nov. 16, and Guarding Stars follows Wednesday, Nov. 18. The table below groups every title by date with its status, and a free printable watch list follows it.
 
-Seven titles were dated Sunday, Nov. 1, and three more are dated Tuesday, Nov. 3, so the list is front-loaded. Netflix's own pick for original holiday movies is short: Tudum says to add "A Dog's Perfect Christmas, The Gospel of Christmas, and Guarding Stars to your watchlist."
+Seven titles were dated Sunday, Nov. 1, and three more were dated Tuesday, Nov. 3, so the list is front-loaded. Netflix's own pick for original holiday movies is short: Tudum says to add "A Dog's Perfect Christmas, The Gospel of Christmas, and Guarding Stars to your watchlist."
 
 ## Netflix holiday titles by date, November and December 2026
 
-Dates are U.S. release dates from Netflix Tudum's list; the weekdays are our calculation. Netflix does not say on that list which titles are originals or licensed, so only the three it names are marked as originals below.
+Dates are U.S. release dates from Netflix Tudum's list; the weekdays and the "Out now" status (a title dated Nov. 13 or earlier) are our calculation as of Nov. 13. Netflix does not say on that list which titles are originals or licensed, so only the three it names are marked as originals below.
 
-| Week | Day and date | Titles | Count |
-|---|---|---|---|
-| Nov. 1 to 8 | Sunday, Nov. 1 | The Best Christmas Pageant Ever; Ghosting: The Spirit of Christmas; No Sleep 'Til Christmas; Same Time, Next Christmas; A Sudden Case of Christmas; Mistletoe Murders; Barbie in the Nutcracker | 7 |
-| Nov. 1 to 8 | Tuesday, Nov. 3 | A Cinderella Christmas Ball; Christmas Time Is Here; Menorah in the Middle | 3 |
-| Nov. 1 to 8 | Wednesday, Nov. 4 | A Dog's Perfect Christmas; A Runaway Bride for Christmas; Deck the Hallways | 3 |
-| Nov. 1 to 8 | Thursday, Nov. 5 | Deck the Halls | 1 |
-| Nov. 9 to 15 | Wednesday, Nov. 11 | Tyler Perry's The Gospel of Christmas; How to Fall In Love By Christmas; Rodeo Christmas Romance | 3 |
-| Nov. 9 to 15 | Thursday, Nov. 12 | A Christmas Castle Proposal: A Royal in Paradise 2; The Christmas Switch | 2 |
-| Nov. 9 to 15 | Friday, Nov. 13 | A Merry Christmas Wish | 1 |
-| Nov. 16 to 22 | Monday, Nov. 16 | Christmas On The Ranch; Reporting for Christmas | 2 |
-| Nov. 16 to 22 | Wednesday, Nov. 18 | Guarding Stars; America's Test Kitchen Friendsgiving | 2 |
-| Nov. 16 to 22 | Thursday, Nov. 19 | A Cherry Pie Christmas; Christmas at Fields Ranch | 2 |
-| Nov. 16 to 22 | Saturday, Nov. 21 | Marry Christmas; Mistletoe Mixup | 2 |
-| Nov. 23 to 30 | Monday, Nov. 23 | The Great British Baking Show: Holidays | 1 |
-| Nov. 23 to 30 | Tuesday, Nov. 24 | All for Christmas; The Trouble With Mistletoe | 2 |
-| Nov. 23 to 30 | Saturday, Nov. 28 | Salish's 12 Games of Christmas | 1 |
-| December | Wednesday, Dec. 2 | In a Holiday... In a Holidaze | 1 |
+| Week | Day and date | Titles | Count | Status |
+|---|---|---|---|---|
+| Nov. 1 to 8 | Sunday, Nov. 1 | The Best Christmas Pageant Ever; Ghosting: The Spirit of Christmas; No Sleep 'Til Christmas; Same Time, Next Christmas; A Sudden Case of Christmas; Mistletoe Murders; Barbie in the Nutcracker | 7 | Out now |
+| Nov. 1 to 8 | Tuesday, Nov. 3 | A Cinderella Christmas Ball; Christmas Time Is Here; Menorah in the Middle | 3 | Out now |
+| Nov. 1 to 8 | Wednesday, Nov. 4 | A Dog's Perfect Christmas; A Runaway Bride for Christmas; Deck the Hallways | 3 | Out now |
+| Nov. 1 to 8 | Thursday, Nov. 5 | Deck the Halls | 1 | Out now |
+| Nov. 9 to 15 | Wednesday, Nov. 11 | Tyler Perry's The Gospel of Christmas; How to Fall In Love By Christmas; Rodeo Christmas Romance | 3 | Out now |
+| Nov. 9 to 15 | Thursday, Nov. 12 | A Christmas Castle Proposal: A Royal in Paradise 2; The Christmas Switch | 2 | Out now |
+| Nov. 9 to 15 | Friday, Nov. 13 | A Merry Christmas Wish | 1 | Out now |
+| Nov. 16 to 22 | Monday, Nov. 16 | Christmas On The Ranch; Reporting for Christmas | 2 | Coming Nov. 16 |
+| Nov. 16 to 22 | Wednesday, Nov. 18 | Guarding Stars; America's Test Kitchen Friendsgiving | 2 | Coming Nov. 18 |
+| Nov. 16 to 22 | Thursday, Nov. 19 | A Cherry Pie Christmas; Christmas at Fields Ranch | 2 | Coming Nov. 19 |
+| Nov. 16 to 22 | Saturday, Nov. 21 | Marry Christmas; Mistletoe Mixup | 2 | Coming Nov. 21 |
+| Nov. 23 to 30 | Monday, Nov. 23 | The Great British Baking Show: Holidays | 1 | Coming Nov. 23 |
+| Nov. 23 to 30 | Tuesday, Nov. 24 | All for Christmas; The Trouble With Mistletoe | 2 | Coming Nov. 24 |
+| Nov. 23 to 30 | Saturday, Nov. 28 | Salish's 12 Games of Christmas | 1 | Coming Nov. 28 |
+| December | Wednesday, Dec. 2 | In a Holiday... In a Holidaze | 1 | Coming Dec. 2 |
 
 ## Which Netflix original holiday movies are dated?
 
 Netflix's Oct. 31 list names three originals, and each has a date.
 
-- **A Dog's Perfect Christmas, Wednesday, Nov. 4.** Tudum describes it as a holiday drama "from the bestselling author of A Dog's Purpose." Netflix's fall movie page also lists it for Nov. 4.
-- **Tyler Perry's The Gospel of Christmas, Wednesday, Nov. 11.** A Tudum article from Oct. 16, 2026 says it "will be released on Nov. 11." The Aug. 26 fall movie page had listed it only as "Fall 2026."
-- **Guarding Stars, Wednesday, Nov. 18.** Tudum calls it a holiday romance. The cast includes Léa Seydoux, Laurence Rupp, Jella Haase and Catherine Deneuve, and Marie Kreutzer is the director and writer.
+- **A Dog's Perfect Christmas, Wednesday, Nov. 4 (out now).** Tudum describes it as a holiday drama "from the bestselling author of A Dog's Purpose." Netflix's fall movie page also lists it for Nov. 4.
+- **Tyler Perry's The Gospel of Christmas, Wednesday, Nov. 11 (out now).** A Tudum article from Oct. 16, 2026 said it "will be released on Nov. 11." The Aug. 26 fall movie page had listed it only as "Fall 2026."
+- **Guarding Stars, Wednesday, Nov. 18 (next up).** Tudum calls it a holiday romance in which a bodyguard heads to a Montana ranch with the actor she protects and posing as a couple for Christmas sparks a real romance. The cast includes Leighton Meester, Jared Padalecki, Noah LaLonde and Andie MacDowell, and Elizabeth Allen Rosenbaum is the director.
 
 ## What holiday titles has Netflix dated for December 2026?
 
-Only one so far. Netflix's fall movie page, published Aug. 26, 2026, lists "In a Holiday... In a Holidaze," a holiday romance, for Wednesday, Dec. 2. The cast named there is T.J. Power, Charlotte Nicdao, Josh Helman, Emily Barclay and Benedict Hardie.
+Only one so far. Netflix's fall movie page, published Aug. 26, 2026, lists "In a Holiday... In a Holidaze," a holiday romance, for Wednesday, Dec. 2. The cast named there includes Maddie Ziegler, Graham Phillips, Elias Kacavas, Patton Oswalt and Rob Lowe, and Tiffany Paulsen is the director.
 
 The full December list is not yet posted. Netflix posted the November list on Oct. 31, so a December list could appear near the end of November, but Netflix has not said when. This story and the printable will change when it does.
 

@@ -1,8 +1,9 @@
 ---
 title: "Coming to Hulu November 2026: 109 Dated Titles, Percy Jackson Nov. 20"
-description: "Hulu Press lists 109 dated additions for November 2026, 36 of them on Nov. 1. Every date by weekday, Percy Jackson season 3 on Nov. 20, and a printable."
+description: "Percy Jackson season 3 premieres on Hulu Nov. 20, and Hulu Press dates 39 more titles from Nov. 14 to 30. Every date by weekday, plus a printable."
 type: news
 publishedAt: "2026-10-27T21:42:00-04:00"
+updatedAt: "2026-11-13T16:13:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Hulu November 2026", "Hulu November 2026 schedule", "what's coming to Hulu in November", "Percy Jackson season 3 release date Hulu"]
@@ -50,17 +51,17 @@ hero:
     author: "Derek Jensen (Tysto)"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Tysto"
 summary:
-  - "Hulu Press lists 109 dated additions for November 2026, 36 of them on Sunday, Nov. 1."
+  - "Hulu Press lists 39 dated rows from Saturday, Nov. 14 to Monday, Nov. 30, out of 109 for the month; 70 were dated Nov. 1 to 13."
   - "Disney+ Press, in its Oct. 15, 2026 list, puts a two-episode premiere of Percy Jackson and the Olympians season 3 on Disney+ and Hulu on Friday, Nov. 20."
   - "Hulu Press tags four rows as Hulu Originals: All's Fair season 2, both versions of The Remarried Empress and The Secret Lives of Mormon Wives: Orange County."
-  - "The two press pages disagree on one date: Wolves Up Close with Bertie Gregory is Saturday, Nov. 7 on Hulu Press and Friday, Nov. 6 on Disney+ Press."
+  - "Disney+ Press also lists new episodes of Percy Jackson season 3 on Friday, Nov. 27, and the two press pages disagreed on one past date: Wolves Up Close with Bertie Gregory, Saturday, Nov. 7 on Hulu Press and Friday, Nov. 6 on Disney+ Press."
 faq:
   - q: "When does Percy Jackson season 3 come out on Hulu?"
-    a: "Disney+ Press, in its Oct. 15, 2026 list, gives a two-episode premiere on Disney+ and Hulu for Friday, Nov. 20, 2026. The Hulu Press November page does not list season 3; it lists the complete seasons 1 and 2 for Sunday, Nov. 1."
+    a: "Disney+ Press, in its Oct. 15, 2026 list, gives a two-episode premiere on Disney+ and Hulu for Friday, Nov. 20, 2026, with new episodes on Friday, Nov. 27. The Hulu Press November page does not list season 3; it lists the complete seasons 1 and 2, added Sunday, Nov. 1."
   - q: "Which Hulu Originals arrive in November 2026?"
-    a: "Hulu Press tags All's Fair season 2 and The Remarried Empress season 1 (Sub and Dub, both Korean) for Wednesday, Nov. 4, and The Secret Lives of Mormon Wives: Orange County, complete season 1, for Thursday, Nov. 12."
+    a: "Hulu Press tagged All's Fair season 2 and The Remarried Empress season 1 (Sub and Dub, both Korean) for Wednesday, Nov. 4, and The Secret Lives of Mormon Wives: Orange County, complete season 1, for Thursday, Nov. 12. Disney+ Press lists new episodes of the first two through Nov. 25."
   - q: "What is the date of Wolves Up Close with Bertie Gregory?"
-    a: "The two official pages differ. Hulu Press lists Saturday, Nov. 7, 2026, and Disney+ Press lists Friday, Nov. 6. Check Hulu before you plan around it."
+    a: "The two official pages differ, and the date has passed. Hulu Press listed Saturday, Nov. 7, 2026, and Disney+ Press listed Friday, Nov. 6. If you missed it, check Hulu."
   - q: "When do Family Guy: The Peter Clause and The Circle season 1 come to Hulu?"
     a: "Disney+ Press lists both as coming in November 2026 with no date. The date is not yet announced."
   - q: "Does Hulu Press list titles leaving in November 2026?"
@@ -99,13 +100,33 @@ downloads:
 draft: false
 ---
 
-**The Hulu Press November 2026 schedule lists 109 dated additions, from 36 rows on Sunday, Nov. 1 to "The First Omen" on Monday, Nov. 30, and Disney+ Press adds a two-episode premiere of "Percy Jackson and the Olympians" season 3 on Friday, Nov. 20.** The table below puts every Hulu date in order with its weekday, and a free printable watch calendar follows it.
+**Percy Jackson and the Olympians season 3 premieres on Disney+ and Hulu on Friday, Nov. 20, with two episodes, and the Hulu Press November 2026 schedule has 39 more dated rows between Saturday, Nov. 14 and Monday, Nov. 30.** Every date is listed by weekday, with what was added Nov. 1 to 13 after it and a free printable watch calendar at the end.
 
-<p class="callout"><b>Checked Oct. 27, 2026.</b> The Hulu Press page carries no publication date, and the Disney+ Press list is dated Oct. 15, 2026. Titles can change, so confirm on Hulu before you plan a watch night.</p>
+The Hulu Press page carries no publication date, and the Disney+ Press list is dated Oct. 15, 2026. Titles can change, so confirm on Hulu before you plan a watch night. Hulu Press had not published a December 2026 schedule as of Nov. 13.
 
-## What is coming to Hulu in November 2026?
+## What is coming to Hulu from Nov. 14 to 30, 2026?
 
-The Hulu Press page has four columns: date, show, category and status. Every row in the November list reads "Added." This table groups the rows by date and adds the weekday. Spanish-language versions ("En Espanol") are separate rows on the Hulu Press page and are not listed again here. Our count of the rows is in the second table further down.
+The Hulu Press page has four columns: date, show, category and status, and every row reads "Added." This table groups the remaining rows by date and adds the weekday. Spanish-language versions ("En Espanol") are separate rows on the Hulu Press page and are not listed again here. Our count of the rows is in the second table further down.
+
+| Day and date | Titles on Hulu Press |
+|---|---|
+| Saturday, Nov. 14 | Expedition: Saving Our Seas |
+| Sunday, Nov. 15 | Call of the Night: Complete Season 2 (Sub and Dub); Hero Without a Class: Who Even Needs Skills?!: Complete Season 1 (Sub and Dub); My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon: Complete Season 1 (Sub and Dub); Paddington in Peru |
+| Tuesday, Nov. 17 | I'm Still Here (2024) |
+| Wednesday, Nov. 18 | Vienna Game: Complete Season 1 (Sub, German) |
+| Friday, Nov. 20 | A Christmas Story (1983); Ezra (2023); Four Christmases (2008); Fred Claus (2007); Jack Frost (1998); National Lampoon's Christmas Vacation (1989); The Polar Express (2004); Tom and Jerry: Forbidden Compass (2025); Whistle (2026) |
+| Sunday, Nov. 22 | This Is Not a Test (2025) |
+| Monday, Nov. 23 | MAO: Season 1, Part 2 (Dub); Mickey 17 (2025) |
+| Wednesday, Nov. 25 | Borderlands (2024) |
+| Thursday, Nov. 26 | Chuck Norris's Epic Guide to Military Vehicles; The Curse of Oak Island: Season 13; History's Greatest Warriors: Season 1; Hot Rods and Muscle Cars; Speed Demons; The UnBelievable With Dan Aykroyd: Season 3; Mummies (2023) |
+| Friday, Nov. 27 | Couture (2025); Runner (2026); Toys and Colors Elf Academy (2026) |
+| Monday, Nov. 30 | The First Omen (2024) |
+
+Percy Jackson season 3 is not in this table because it is not on the Hulu Press page; it comes from Disney+ Press and is covered below.
+
+## What was added to Hulu from Nov. 1 to 13, 2026?
+
+These rows were dated Nov. 1 to 13 on the Hulu Press page. Sunday, Nov. 1 was the largest day, with 36 rows.
 
 | Day and date | Titles on Hulu Press |
 |---|---|
@@ -121,23 +142,10 @@ The Hulu Press page has four columns: date, show, category and status. Every row
 | Wednesday, Nov. 11 | Rivals: Season 2, Part 2 |
 | Thursday, Nov. 12 | Battle of the 80s Supercars With David Hasselhoff; The Curse of Oak Island: Drilling Down: Season 10; The First 48: Season 29; Predator Hunters: Season 1; Road Wars: Complete Season 7; The Secret Lives of Mormon Wives: Orange County: Complete Season 1 (Hulu Original) |
 | Friday, Nov. 13 | The Baltimorons (2025); LOL Live with Comedian CP (2026); Postcards for Christmas |
-| Saturday, Nov. 14 | Expedition: Saving Our Seas |
-| Sunday, Nov. 15 | Call of the Night: Complete Season 2 (Sub and Dub); Hero Without a Class: Who Even Needs Skills?!: Complete Season 1 (Sub and Dub); My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon: Complete Season 1 (Sub and Dub); Paddington in Peru |
-| Tuesday, Nov. 17 | I'm Still Here (2024) |
-| Wednesday, Nov. 18 | Vienna Game: Complete Season 1 (Sub, German) |
-| Friday, Nov. 20 | A Christmas Story (1983); Ezra (2023); Four Christmases (2008); Fred Claus (2007); Jack Frost (1998); National Lampoon's Christmas Vacation (1989); The Polar Express (2004); Tom and Jerry: Forbidden Compass (2025); Whistle (2026) |
-| Sunday, Nov. 22 | This Is Not a Test (2025) |
-| Monday, Nov. 23 | MAO: Season 1, Part 2 (Dub); Mickey 17 (2025) |
-| Wednesday, Nov. 25 | Borderlands (2024) |
-| Thursday, Nov. 26 | Chuck Norris's Epic Guide to Military Vehicles; The Curse of Oak Island: Season 13; History's Greatest Warriors: Season 1; Hot Rods and Muscle Cars; Speed Demons; The UnBelievable With Dan Aykroyd: Season 3; Mummies (2023) |
-| Friday, Nov. 27 | Couture (2025); Runner (2026); Toys and Colors Elf Academy (2026) |
-| Monday, Nov. 30 | The First Omen (2024) |
-
-Percy Jackson season 3 is not in this table because it is not on the Hulu Press page; it comes from Disney+ Press and is covered below.
 
 ## How many Hulu titles are dated on each day?
 
-Counting the rows on the Hulu Press page, including the Spanish-language rows, gives 109 in all. The first day of the month carries the most: 36 rows on Sunday, Nov. 1. Friday, Nov. 20 has 14 rows, including the holiday films and some Spanish-language versions.
+Counting the rows on the Hulu Press page, including the Spanish-language rows, gives 109 in all. The first day of the month carried the most: 36 rows on Sunday, Nov. 1. Friday, Nov. 20 has 14 rows, the most of any date still ahead, including the holiday films and some Spanish-language versions.
 
 | Date | Rows on Hulu Press |
 |---|---|
@@ -152,14 +160,14 @@ Rows by date are our count of the Hulu Press page.
 
 ## When does Percy Jackson season 3 come out on Hulu?
 
-Disney+ Press, in its Oct. 15, 2026 list "Next on Disney+ and Hulu: November 2026," puts a two-episode premiere of "Percy Jackson and the Olympians" season 3 on Disney+ and Hulu on Friday, Nov. 20. Hulu Press has a related row earlier in the month: "Percy Jackson and the Olympians: Complete Seasons 1 and 2" is added on Sunday, Nov. 1. Neither page gives a release time for the premiere, so none is stated here. For the Disney+ side of the month, see our [Disney+ November 2026 list](/news/new-on-disney-plus-november-2026-release-dates/).
+Disney+ Press, in its Oct. 15, 2026 list "Next on Disney+ and Hulu: November 2026," puts a two-episode premiere of "Percy Jackson and the Olympians" season 3 on Disney+ and Hulu on Friday, Nov. 20, with new episodes on Friday, Nov. 27. Hulu Press has a related row that is already live: "Percy Jackson and the Olympians: Complete Seasons 1 and 2" was added on Sunday, Nov. 1. Neither page gives a release time for the premiere, so none is given here. For the Disney+ side of the month, see our [Disney+ November 2026 list](/news/new-on-disney-plus-november-2026-release-dates/).
 
 ## Which Hulu Originals are listed for November?
 
-Hulu Press puts the "Hulu Original" tag on four rows in November.
+Hulu Press puts the "Hulu Original" tag on four rows in November. All four were dated before Nov. 14, so they are already on Hulu.
 
-- Wednesday, Nov. 4: "All's Fair" season 2. Disney+ Press lists a three-episode premiere.
-- Wednesday, Nov. 4: "The Remarried Empress" season 1, in Korean with subtitles and with a dub. Disney+ Press lists a four-episode premiere.
+- Wednesday, Nov. 4: "All's Fair" season 2. Disney+ Press listed a three-episode premiere, with new episodes Wednesdays, Nov. 18 and Nov. 25.
+- Wednesday, Nov. 4: "The Remarried Empress" season 1, in Korean with subtitles and with a dub. Disney+ Press listed a four-episode premiere, with new episodes on Nov. 18 and finale episodes on Nov. 25.
 - Thursday, Nov. 12: "The Secret Lives of Mormon Wives: Orange County," complete season 1, with all episodes.
 
 "The Remarried Empress" accounts for two of the four tagged rows, the subtitled and the dubbed versions.
@@ -170,10 +178,10 @@ Disney+ Press lists several titles that continue past their first date.
 
 | Title | Dates from Disney+ Press |
 |---|---|
-| Rivals season 2, part 2 | Three-episode premiere Wednesday, Nov. 11; new episodes Wednesdays, Nov. 18 and Nov. 25 |
-| The Lowdown season 2 (FX) | New episodes Wednesdays, Nov. 4, 11 and 18 at 9 p.m. Pacific Time (PT); finale Nov. 25 |
+| Rivals season 2, part 2 | Three-episode premiere Wednesday, Nov. 11 (past); new episodes Wednesdays, Nov. 18 and Nov. 25 |
+| The Lowdown season 2 (FX) | New episodes Wednesdays, Nov. 4 and 11 (past), then Nov. 18 at 9 p.m. Pacific Time (PT); finale Nov. 25 |
 
-The same list names Shark Tank, Abbott Elementary, Scrubs, Grey's Anatomy, 9-1-1, 9-1-1: Nashville and The Kardashians season 8 as network series with new episodes weekly. This story does not repeat their days or times because it did not copy them from the page.
+The same list names Shark Tank, Abbott Elementary, Scrubs, Grey's Anatomy, 9-1-1, 9-1-1: Nashville and The Kardashians season 8 as network series with new episodes weekly. Their days and times are not repeated here because they were not copied from the page.
 
 ## What is coming to Hulu in November without a date?
 
@@ -181,11 +189,11 @@ Disney+ Press lists two titles as coming in November with no date: the holiday s
 
 ## Do the Hulu and Disney+ press pages disagree?
 
-On one date, yes. Hulu Press lists "Wolves Up Close with Bertie Gregory" on Saturday, Nov. 7, and Disney+ Press lists it on Friday, Nov. 6. The table above follows Hulu Press for this title. Check Hulu closer to the date.
+On one date, yes, and it has passed. Hulu Press listed "Wolves Up Close with Bertie Gregory" on Saturday, Nov. 7, and Disney+ Press listed it on Friday, Nov. 6. The tables follow Hulu Press for this title. If you missed it, check Hulu.
 
 ## What is on Hulu for the holidays and for movie nights?
 
-On Friday, Nov. 20, Hulu Press adds "A Christmas Story" (1983), "Four Christmases" (2008), "National Lampoon's Christmas Vacation" (1989) and "The Polar Express" (2004); Disney+ Press lists the same four. Hulu Press also lists "Fred Claus" (2007) and "Jack Frost" (1998) that day. Earlier in the month, "Postcards for Christmas" arrives Friday, Nov. 13. Recent films dated by Hulu Press include "Black Bag" (2025) on Monday, Nov. 2, "Mickey 17" (2025) on Monday, Nov. 23 and "Borderlands" (2024) on Wednesday, Nov. 25.
+On Friday, Nov. 20, Hulu Press adds "A Christmas Story" (1983), "Four Christmases" (2008), "National Lampoon's Christmas Vacation" (1989) and "The Polar Express" (2004); Disney+ Press lists the same four. Hulu Press also lists "Fred Claus" (2007) and "Jack Frost" (1998) that day. "Postcards for Christmas" was added Friday, Nov. 13. Recent films dated by Hulu Press include "Mickey 17" (2025) on Monday, Nov. 23 and "Borderlands" (2024) on Wednesday, Nov. 25; "Black Bag" (2025) was added Monday, Nov. 2.
 
 ## Print the Hulu November 2026 watch calendar
 

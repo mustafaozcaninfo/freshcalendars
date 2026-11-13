@@ -1,9 +1,9 @@
 ---
-title: "London Christmas Lights 2026: Carnaby at 6pm, Covent Garden 12 Nov."
-description: "Carnaby Street's Christmas lights 2026 switched on Wednesday 4 November from 6pm; Covent Garden is 12 November. A table gives each street, tickets and ET."
+title: "London Christmas Lights 2026: Switch-On Dates and Times"
+description: "London's Christmas lights 2026 are on at Carnaby, Regent, Oxford and Bond Street; Covent Garden was 12 November. Belfast is 14 November. Times in ET."
 type: news
 publishedAt: "2026-10-28T23:45:00-04:00"
-updatedAt: "2026-11-06T12:02:00-05:00"
+updatedAt: "2026-11-13T16:16:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["London Christmas lights switch on 2026", "Regent Street Christmas lights 2026", "Carnaby Christmas lights 2026", "Covent Garden lights switch on 2026", "Christmas lights switch on dates 2026 UK"]
@@ -19,23 +19,31 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Regent_Street_Christmas_Lights_2016_-_geograph.org.uk_-_5233956.jpg"
     author: "Oast House Archive"
 summary:
-  - "Carnaby Street switched on its Christmas lights on Wednesday 4 November 2026, with the switch-on and button push from 6pm and music from 4.30pm, according to Shaftesbury Capital's Soho site; free tickets were offered through sign-up."
-  - "Regent Street's lights returned from Thursday 5 November 2026, with a traffic-free event, according to Regent Street Online. Covent Garden's switch-on is on Thursday 12 November."
-  - "Oxford Street's Harry Potter switch-on is Monday 9 November 2026 from 4:30pm, and Bond Street lights up on Thursday 12 November, according to their own sites. Time Out and Fact Magazines reported Leicester Square's lights for Sunday 1 November."
-  - "Belfast City Hall's switch-on is Saturday 14 November 2026, 6.30pm to 7.30pm, ticketed. The Trafalgar Square tree has no 2026 date, and no street has published an end date."
+  - "Carnaby Street switched on its Christmas lights on Wednesday 4 November 2026, with the button push from 6pm and music from 4.30pm, according to Shaftesbury Capital's Soho site. Regent Street's lights returned on Thursday 5 November, according to Regent Street Online."
+  - "Oxford Street's Harry Potter lights were switched on from Monday 9 November 2026, and Bond Street's switch-on ran from 4pm to 8pm on Thursday 12 November, according to their own sites. Covent Garden's page set its switch-on for 12 November, with the show at 5pm."
+  - "Belfast City Hall's switch-on is the next dated event: Saturday 14 November 2026, 6.30pm to 7.30pm. All tickets are allocated, according to Belfast City Council."
+  - "The Trafalgar Square tree has no official 2026 date, and none of these streets publishes a date when its lights go off."
 sources:
   - title: "Welcome To Oxford Street, London's Centre For High Street Fashion"
     url: "https://www.oxfordstreet.co.uk/"
     publisher: "Oxford Street"
-    date: "2026-11-04"
+    date: "2026-11-13"
+  - title: "Harry Potter x Oxford Street Christmas switch-on event"
+    url: "https://www.oxfordstreet.co.uk/whats-happening/harry-potter-x-oxford-street-christmas-switch-on-event/"
+    publisher: "Oxford Street"
+    date: "2026-11-13"
   - title: "Christmas | Oxford Street"
     url: "https://www.oxfordstreet.co.uk/christmas"
     publisher: "Oxford Street"
-    date: "2026-11-04"
+    date: "2026-11-13"
   - title: "Bond Street | The home of luxury shopping in London"
     url: "https://www.bondstreet.co.uk/"
     publisher: "Bond Street"
-    date: "2026-11-04"
+    date: "2026-11-13"
+  - title: "Bond Street's Magical Christmas Lights"
+    url: "https://www.bondstreet.co.uk/articles/bond-streets-magical-christmas-lights"
+    publisher: "Bond Street"
+    date: "2026-11-13"
   - title: "Exact date that Oxford Street's 2026 Christmas Lights Will Switch On, with a Magical Harry Potter Theme"
     url: "https://www.timeout.com/london/news/oxford-street-christmas-lights-2026-harry-potter-100726"
     publisher: "Time Out"
@@ -51,19 +59,19 @@ sources:
   - title: "The Festive Spirits return to Regent Street"
     url: "https://www.regentstreetonline.com/news/the-festive-spirits-return-to-regent-street"
     publisher: "Regent Street Online"
-    date: "2026-10-01"
+    date: "2026-11-06"
   - title: "Carnaby Street Light Switch On | Holiday Magic in Soho"
     url: "https://www.thisissoho.co.uk/christmas-in-soho/carnaby-street-light-switch-on/"
     publisher: "Shaftesbury Capital"
-    date: "2026-11-06"
+    date: "2026-11-13"
   - title: "Covent Garden Lights Switch On"
     url: "https://www.coventgarden.london/event/covent-garden-lights-switch-on"
     publisher: "Covent Garden"
-    date: "2026-10-29"
+    date: "2026-11-13"
   - title: "Christmas lights switch-on"
     url: "https://www.belfastcity.gov.uk/events/christmas-lights-switch-on"
     publisher: "Belfast City Council"
-    date: "2026-10-29"
+    date: "2026-11-13"
   - title: "Skate at Somerset House"
     url: "https://www.somersethouse.org.uk/whats-on/skate-somerset-house"
     publisher: "Somerset House"
@@ -75,21 +83,22 @@ sources:
   - title: "Trafalgar Square Christmas tree"
     url: "https://www.london.gov.uk/who-we-are/city-halls-buildings-and-squares/trafalgar-square/christmas"
     publisher: "Greater London Authority"
+    date: "2026-11-13"
 faq:
   - q: "When do the Carnaby Street Christmas lights switch on in 2026?"
     a: "Wednesday 4 November 2026. Shaftesbury Capital's Soho site gave the switch-on and button push from 6pm, which is 1 p.m. ET, with music from 4.30pm (11:30 a.m. ET)."
   - q: "When are the Regent Street Christmas lights switched on in 2026?"
-    a: "Regent Street Online says the lights returned from Thursday 5 November 2026, with a traffic-free event and an evening of in-store experiences. No time is given."
+    a: "Regent Street Online says the famous lights returned on Thursday 5 November 2026. Its earlier announcement mentioned a traffic-free event and an evening of in-store experiences, with no start time."
   - q: "When is the Covent Garden Christmas lights switch-on in 2026?"
-    a: "Thursday 12 November 2026, according to Covent Garden. The page gives no time and says to stay tuned for more information."
+    a: "Thursday 12 November 2026, according to Covent Garden. Its page set the switch-on show for 5pm (12 p.m. ET), with offers across the neighbourhood from 4pm and the button push during the show. The page does not say when the lights go off."
   - q: "When do the Oxford Street Christmas lights switch on in 2026?"
-    a: "Monday 9 November 2026, from 4:30pm, with a Harry Potter theme, according to Oxford Street's own site. That is 11:30 a.m. ET. The site does not say whether the event is ticketed."
+    a: "Monday 9 November 2026, with a Harry Potter theme. Oxford Street's site announced the event from 4:30pm (11:30 a.m. ET) and now says the lights are aglow. It does not say when they go off."
   - q: "When do the Bond Street Christmas lights switch on in 2026?"
-    a: "Thursday 12 November 2026, according to Bond Street's site. The site does not give a switch-on time."
+    a: "Thursday 12 November 2026. Bond Street's site says the street was traffic-free from 4pm to 8pm (11 a.m. to 3 p.m. ET) and that the lights switched on that evening. It gives no end date."
   - q: "When are the Leicester Square Christmas lights switched on in 2026?"
     a: "Time Out and Fact Magazines both reported the lights were set to switch on on Sunday 1 November 2026. Leicester Square's own site shows no date or time."
   - q: "When is the Trafalgar Square Christmas tree lit in 2026?"
-    a: "The 2026 date has not been announced. In 2025, the City of Oslo said the lighting ceremony would take place on Thursday 4 December at 18:00."
+    a: "No official 2026 date has been found. In 2025, the City of Oslo said the lighting ceremony would take place on Thursday 4 December at 18:00. The Greater London Authority says the tree stays up until just before Twelfth Night."
 related: [uk-christmas-lights-switch-ons-2026-belfast-cardiff-manchester, manchester-birmingham-christmas-markets-2026-dates-opening-times, fenwick-christmas-window-2026-newcastle-public-viewing-monday-2-november]
 internalLinks:
   - href: "/december-calendars.html"
@@ -145,21 +154,21 @@ assets:
         - { label: "Trafalgar Square tree lighting", why: "the 2026 date has not been announced" }
 ---
 
-**Carnaby Street switched on its Christmas lights on Wednesday 4 November 2026, Regent Street's lights returned from Thursday 5 November and Covent Garden's switch-on is on Thursday 12 November**, according to Shaftesbury Capital's Soho site, Regent Street Online and Covent Garden. The table below puts every confirmed date in order, with the official source, ticket needs and Eastern Time (ET) for the two events with a published clock time. A printable is further down.
+**Carnaby Street switched on its Christmas lights on Wednesday 4 November 2026, Regent Street's lights returned on Thursday 5 November, Oxford Street's followed on Monday 9 November and Bond Street's on Thursday 12 November**, according to each district's own site. Covent Garden's page set its switch-on for 12 November too. The next dated event is Belfast City Hall on Saturday 14 November. The table puts each date in order, with the official source, ticket needs and Eastern Time (ET). None of the London districts says when its display goes off. A printable is further down.
 
-Times on the official pages are in Greenwich Mean Time (GMT). US clocks fall back on Sunday 1 November, so London is five hours ahead of ET from then on.
+Times on the official pages are in Greenwich Mean Time (GMT). US clocks fell back on Sunday 1 November, so London is five hours ahead of ET.
 
 ## When do the London Christmas lights switch on in 2026?
 
 | Date | Switch-on | Time | Tickets | US time (ET) | Official source |
 |---|---|---|---|---|---|
-| Wed 4 Nov | Carnaby Street | Switch-on and button push from 6pm (music from 4.30pm) | Free switch-on ticket sign-up | 1 p.m. (music 11:30 a.m.) | Shaftesbury Capital (Soho) |
-| Thu 5 Nov | Regent Street | Not given | Not stated | Not given | Regent Street Online |
-| Mon 9 Nov | Oxford Street (Harry Potter theme) | From 4:30pm | Not stated | 11:30 a.m. | Oxford Street |
+| Wed 4 Nov | Carnaby Street (done) | Switch-on and button push from 6pm (music from 4.30pm) | Free switch-on ticket sign-up | 1 p.m. (music 11:30 a.m.) | Shaftesbury Capital (Soho) |
+| Thu 5 Nov | Regent Street (done) | Not given | Not stated | Not given | Regent Street Online |
+| Mon 9 Nov | Oxford Street, Harry Potter theme (done) | Announced from 4:30pm | Not stated | 11:30 a.m. | Oxford Street |
 | Wed 11 Nov | Skate at Somerset House opens (to 10 Jan 2027) | Not given | Adults £13 to £28.50, children £11 to £15, plus £1.50 booking fee per ticket | Not given | Somerset House |
-| Thu 12 Nov | Covent Garden | Not given | Not stated | Not given | Covent Garden |
-| Thu 12 Nov | Bond Street | Not announced on its site | Not stated | Not given | Bond Street |
-| Sat 14 Nov | Belfast City Hall | 6.30pm to 7.30pm | Ticketed; the council lists it as free | 1:30 p.m. | Belfast City Council |
+| Thu 12 Nov | Covent Garden (set for this date) | Offers from 4pm, show at 5pm | Not stated | 11 a.m. offers, 12 p.m. show | Covent Garden |
+| Thu 12 Nov | Bond Street (done) | Traffic-free street 4pm to 8pm | Not stated | 11 a.m. to 3 p.m. | Bond Street |
+| Sat 14 Nov | Belfast City Hall | 6.30pm to 7.30pm | Ticketed; all tickets are allocated | 1:30 p.m. | Belfast City Council |
 
 The Somerset House row is an ice rink opening, not a lights event, and is listed because it falls in the same week. The ET column is our conversion of the published GMT times.
 
@@ -167,38 +176,38 @@ The Somerset House row is an ice rink opening, not a lights event, and is listed
 
 **Carnaby Street.** Shaftesbury Capital's Soho site says Carnaby Street "will switch on its colourful 90s-inspired Christmas lights on Wednesday 4 November." The page says "Join us for our Switch On and button push moment from 6pm," with music "from 4.30pm" ("a soundtrack of 90s classics and much-loved Christmas hits"), and it offered a free sign-up for switch-on tickets.
 
-**Regent Street.** Regent Street Online, in a news post dated 1 October 2026, says "the Regent Street lights are returning from Thursday 5th November, with a traffic-free event and evening of exclusive in store experiences." It does not give a start time.
+**Regent Street.** A Regent Street Online news post dated 6 November 2026 says "the famous Regent Street lights returned on Thursday 5th November." An earlier post, dated 1 October 2026, had announced a traffic-free event and an evening of in-store experiences. Neither gives a start time.
 
-**Covent Garden.** The Covent Garden site says "Join us Thursday 12th November for the annual Christmas Lights Switch On in Covent Garden." It gives no time and adds "Stay tuned for more information."
+**Covent Garden.** The Covent Garden site says "Join us from 4pm on Thursday 12th November for the annual Christmas Lights Switch On in Covent Garden." Its timings: 4pm offers across the neighbourhood, 4:30pm everyone in position on the Piazza, 5pm switch-on show with the button push, 5:45pm the official start of Christmas in Covent Garden. The page was still written as an announcement when we read it, so we have no official confirmation that the show ran as planned.
 
-**Oxford Street.** Oxford Street's own site says "the Harry Potter x Oxford Street switch-on event is taking place on Monday 9th November from 4:30pm!" The homepage prints no year; the site's Christmas page refers to "Christmas 2026," and Time Out reported Monday 9 November on 3 November 2026. The site does not say whether the event is ticketed or where it is held.
+**Oxford Street.** Oxford Street's own event page says "the Oxford Street Christmas lights are now aglow with a captivating display of Harry Potter themed decorations," alongside its usual Christmas lights. The event had been announced for Monday 9 November from 4:30pm. The site does not say whether the event was ticketed.
 
-**Bond Street.** Bond Street's site says "Save the date and marvel as the jewel in Mayfair's crown lights up this festive season on Thursday 12th November." The site gives no switch-on time.
+**Bond Street.** Bond Street's site says "Christmas magic arrived on Bond Street tonight, Thursday 12th of November," and that the street was traffic-free from 4pm to 8pm for its switch-on and Christmas market. The site's home page says the street "is officially lit up for the festive season."
 
-**Leicester Square.** The square's own site shows no date. Time Out (30 October 2026) wrote that the lights "will be turned on this weekend, on Sunday November 1," and Fact Magazines (28 October 2026) wrote "The lights arrive on 1 November 2026." Neither gives a time, so we have no official confirmation that it happened as planned.
+**Leicester Square.** The square's own site was not reachable when we checked. Time Out (30 October 2026) wrote that the lights "will be turned on this weekend, on Sunday November 1," and Fact Magazines (28 October 2026) wrote "The lights arrive on 1 November 2026." Neither gives a time, so we have no official confirmation that it happened as planned.
 
 ## When is the Belfast Christmas lights switch-on?
 
-Belfast City Council lists the switch-on for Saturday 14 November 2026, 6.30pm to 7.30pm at Belfast City Hall. It says "this will be a ticketed event," with tickets from visitbelfast.com from 10am on Tuesday 3 November. The page also labels the event free, so tickets are required even though the council lists it as free. Belfast is on GMT, so 6.30pm is 1:30 p.m. ET.
+Belfast City Council lists the switch-on for Saturday 14 November 2026, 6.30pm to 7.30pm at Belfast City Hall. The council's page now says "all tickets are now allocated." Tickets for the wheelchair-accessible viewing platform can be booked in person at the Visit Belfast Welcome Centre or by calling 028 9024 6609, limited to two per booking. Donegall Square North is fully closed to traffic from 4.30pm to 10.30pm. Belfast is on GMT, so 6.30pm is 1:30 p.m. ET.
 
 ## When is the Trafalgar Square Christmas tree lit?
 
-The 2026 lighting date has not been announced. In 2025, the City of Oslo, which gives the tree, said in a press release on 6 November 2025 that "the lighting ceremony will take place on Thursday, 4 December at 18:00." That was the first Thursday of December in 2025. The Greater London Authority (GLA) says the tree "remains in Trafalgar Square until just before the Twelfth Night of Christmas."
+We found no official 2026 lighting date. In 2025, the City of Oslo, which gives the tree, said in a press release on 6 November 2025 that "the lighting ceremony will take place on Thursday, 4 December at 18:00." That was the first Thursday of December in 2025. The Greater London Authority (GLA) says the tree "remains in Trafalgar Square until just before the Twelfth Night of Christmas."
 
 ## Which switch-ons have no 2026 date yet?
 
 | Switch-on | Status |
 |---|---|
-| Trafalgar Square tree | Not yet announced |
+| Trafalgar Square tree | No official 2026 date found |
 | Christmas at Kew | Not confirmed; the official site blocked our automated check |
 | Southbank Centre Winter Market | Not yet announced |
 | Manchester, Birmingham, Edinburgh | Not yet announced for lights; see our [Manchester and Birmingham Christmas markets story](/news/manchester-birmingham-christmas-markets-2026-dates-opening-times/) for the market dates |
 | Glasgow | Visit Glasgow says it "will be sharing more details soon" |
 
-Cardiff is not listed because we could not confirm a date on a council page. None of the streets above has published a date when its lights are switched off.
+Cardiff is not listed because we could not confirm a date on a council page. None of the streets above has published a date when its lights are switched off; the Greater London Authority gives only that the Trafalgar Square tree stays "until just before the Twelfth Night of Christmas."
 
 ## How can you plan around these dates?
 
-The printable lists the dated events, with Belfast's ticket release on Tuesday 3 November. Add them to the [November 2026 printable calendar](/november-calendars.html), and the [December 2026 printable calendar](/december-calendars.html) is ready for the tree date when it comes. For the holiday itself, see [when is Christmas Day](/when-is/christmas-day/). Another London event is covered in our [Hyde Park Winter Wonderland 2026 story](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/), and the [Coca-Cola Christmas truck tour story](/news/coca-cola-christmas-truck-tour-2026-uk-vote-closes-3-november-dates/) covers another seasonal date.
+The printable lists the dated events. Add them to the [November 2026 printable calendar](/november-calendars.html), and the [December 2026 printable calendar](/december-calendars.html) is ready for the tree date when it comes. For the holiday itself, see [when is Christmas Day](/when-is/christmas-day/). Another London event is covered in our [Hyde Park Winter Wonderland 2026 story](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/), and the [Coca-Cola Christmas truck tour story](/news/coca-cola-christmas-truck-tour-2026-uk-vote-closes-3-november-dates/) covers another seasonal date.
 
-We checked the official pages on 6 November 2026 and will update the table when the Trafalgar Square tree and the other listed switch-ons publish 2026 dates.
+The table will change when the Trafalgar Square tree and the other listed switch-ons publish 2026 dates.

@@ -1,8 +1,9 @@
 ---
 title: "Kohl's Black Friday 2026: Opens 5 a.m. Nov. 27, Week Nov. 22-28"
-description: "Kohl's Black Friday 2026 starts with Early Access Nov. 6-8. Stores close Thanksgiving and reopen 5 a.m. Nov. 27; a table and printable list every date."
+description: "Kohl's stores close Thanksgiving and reopen 5 a.m. Nov. 27; Black Friday Week runs Nov. 22-28. A table and printable list every date, with 2025 compared."
 type: news
 publishedAt: "2026-11-01T18:50:00-05:00"
+updatedAt: "2026-11-13T16:11:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["kohl's black friday 2026", "kohl's black friday early access 2026", "kohl's black friday hours 2026", "is kohl's open on thanksgiving 2026"]
@@ -48,7 +49,7 @@ downloads:
 hero:
   src: ../../../../assets/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/kohls-black-friday-2026-dates-early-access-november-6-store-hours.webp
   alt: "Kohl's Black Friday 2026: a Kohl's store with a Sephora sign in Aspen Hill, Maryland"
-  caption: "Kohl's says Black Friday Early Access starts Friday, Nov. 6, 2026, and stores reopen at 5 a.m. on Nov. 27. File photo of the Kohl's store in Aspen Hill, Maryland."
+  caption: "Kohl's says stores close on Thanksgiving Day and reopen at 5 a.m. on Friday, Nov. 27, 2026. File photo of the Kohl's store in Aspen Hill, Maryland."
   credit: "Photo: G. Edward Johnson / Wikimedia Commons, edited"
   license:
     name: "CC BY 4.0"
@@ -56,19 +57,19 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Kohls_Northgate_building_Aspen_Hill_MD_2024-05-25_08-17-51.jpg"
     author: "G. Edward Johnson"
 summary:
-  - "Kohl's Black Friday Early Access runs Friday, Nov. 6, through Sunday, Nov. 8, 2026, followed by Black Friday Week on Nov. 22-28 and Cyber Deals on Nov. 29-30, per Kohl's Oct. 30 release."
+  - "Kohl's Black Friday Week runs Sunday, Nov. 22, through Saturday, Nov. 28, 2026, followed by Cyber Deals on Nov. 29-30, per Kohl's Oct. 30 release. Early Access ran Nov. 6-8."
   - "Kohl's stores are closed on Thanksgiving Day, Thursday, Nov. 26, and reopen at 5 a.m. local time on Friday, Nov. 27; the company says hours may vary by location."
-  - "Kohl's Cash earns $15 for every $50 spent on Nov. 6 only, and $10 for every $50 spent Nov. 7-8."
-  - "Kohl's has not posted its 2026 holiday return window or specific doorbuster items and prices."
+  - "Kohl's Cash during Black Friday Week and Cyber Deals is $15 for every $50 spent; the first 200 shoppers at every store get $5 to $100 in instant Kohl's Cash on Nov. 27."
+  - "Specific doorbuster items and prices were not in the Oct. 30 release."
 faq:
   - q: "When does Kohl's Black Friday 2026 start?"
-    a: "Black Friday Early Access starts Friday, Nov. 6, 2026, and runs through Sunday, Nov. 8, according to Kohl's Oct. 30 release. Black Friday Week follows from Sunday, Nov. 22, through Saturday, Nov. 28."
+    a: "Black Friday Week runs from Sunday, Nov. 22, through Saturday, Nov. 28, 2026, according to Kohl's Oct. 30 release. Early Access ran Friday, Nov. 6, through Sunday, Nov. 8."
   - q: "Is Kohl's open on Thanksgiving 2026?"
     a: "No. Kohl's says stores will be closed on Thursday, Nov. 26, and reopen at 5 a.m. local time on Friday, Nov. 27. Store hours may vary by location."
   - q: "What time does Kohl's open on Black Friday 2026?"
     a: "5 a.m. local time on Friday, Nov. 27, according to Kohl's. The company says hours may vary by location."
-  - q: "How much Kohl's Cash can you earn during Early Access?"
-    a: "$15 for every $50 spent only on Nov. 6, and $10 for every $50 spent from Nov. 7-8, according to Kohl's."
+  - q: "How much Kohl's Cash can you earn during Black Friday Week?"
+    a: "$15 for every $50 spent during Black Friday Week, Nov. 22-28, and again during Cyber Deals on Nov. 29-30, according to Kohl's. Early Access, which ended Nov. 8, paid $15 per $50 on Nov. 6 only and $10 per $50 on Nov. 7-8."
   - q: "When do Kohl's online doorbusters start?"
     a: "On Kohls.com beginning Thanksgiving Day, Thursday, Nov. 26, at 12:01 a.m. Central Time (CT). In stores, doorbusters run Friday, Nov. 27, through Saturday, Nov. 28."
 sources:
@@ -92,14 +93,14 @@ related: [black-friday-2026-store-hours-walmart-target-best-buy, black-friday-20
 draft: false
 ---
 
-**Kohl's Black Friday Early Access starts Friday, Nov. 6, 2026, and runs through Sunday, Nov. 8, followed by Black Friday Week on Nov. 22-28 and Cyber Deals on Nov. 29-30, per Kohl's Oct. 30 announcement.** Stores are closed on Thanksgiving Day and reopen at 5 a.m. local time on Friday, Nov. 27. The release was issued at 8:00 a.m. Eastern Daylight Time (EDT). Kohl's own newsroom and Business Wire block automated access, so we read the same release text on FinancialContent's Business Wire feed. The table below puts every date in one place, and there is a one-page printable.
+**Kohl's Black Friday Week runs Sunday, Nov. 22, through Saturday, Nov. 28, 2026, followed by Cyber Deals on Nov. 29-30, per Kohl's Oct. 30 announcement.** Stores are closed on Thanksgiving Day and reopen at 5 a.m. local time on Friday, Nov. 27. Early Access, Nov. 6-8, has ended. The release was issued at 8:00 a.m. Eastern Daylight Time (EDT). Kohl's own newsroom and Business Wire block automated access, so we read the same release text on FinancialContent's Business Wire feed. The table below puts every date in one place, and there is a one-page printable.
 
 ## Kohl's November 2026 sale dates, Kohl's Cash and store hours
 
 | Date | Day | What Kohl's published |
 |---|---|---|
-| Nov. 6, 2026 | Friday | Early Access starts; $15 Kohl's Cash for every $50 spent, Nov. 6 only |
-| Nov. 7-8, 2026 | Saturday-Sunday | Early Access continues; $10 Kohl's Cash for every $50 spent |
+| Nov. 6, 2026 | Friday | Early Access started; $15 Kohl's Cash for every $50 spent, Nov. 6 only |
+| Nov. 7-8, 2026 | Saturday-Sunday | Early Access ended Nov. 8; $10 Kohl's Cash for every $50 spent |
 | Nov. 22, 2026 | Sunday | Black Friday Week begins |
 | Nov. 26, 2026 | Thursday | Stores closed; online doorbusters on Kohls.com from 12:01 a.m. Central Time (CT) |
 | Nov. 27, 2026 | Friday | Stores reopen at 5 a.m. local time; first 200 shoppers at every store get $5 to $100 in instant Kohl's Cash |
@@ -121,13 +122,13 @@ Kohl's published its 2025 schedule in a Nov. 7, 2025 release. Last year's Early 
 
 Every date lands one day earlier on the calendar because Thanksgiving falls on Nov. 26 this year. The sequence is the same: a three-day Early Access, a seven-day Black Friday Week, a Thanksgiving closure and a 5 a.m. reopening.
 
-## What does Kohl's Early Access offer on Nov. 6-8?
+## What did Kohl's Early Access offer on Nov. 6-8?
 
-Kohl's says Early Access "starts Fri., Nov. 6, through Sun. Nov. 8." The Kohl's Cash offer changes during the weekend: "Earn $15 Kohl's Cash for every $50 spent only on Nov. 6" and "Earn $10 Kohl's Cash for every $50 spent from Nov. 7-8." Friday is therefore the day with the higher earn rate.
+Kohl's said Early Access ran "Fri., Nov. 6, through Sun. Nov. 8." The Kohl's Cash offer changed during the weekend: "Earn $15 Kohl's Cash for every $50 spent only on Nov. 6" and "Earn $10 Kohl's Cash for every $50 spent from Nov. 7-8." Friday had the higher earn rate. During Black Friday Week the earn rate returns to $15 Kohl's Cash for every $50 spent.
 
 ## Is Kohl's open on Thanksgiving 2026, and when does it open Black Friday?
 
-No. Kohl's says: "Stores will be closed Thanksgiving Day, Thursday, Nov. 26, and reopen at 5 a.m. local time on Friday, Nov. 27." The company adds that "store hours may vary by location." It has not posted hours beyond the 5 a.m. opening. For Walmart, Target and Best Buy, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/); Home Depot's schedule is in our [Home Depot Black Friday 2026 story](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/).
+No. Kohl's says: "Stores will be closed Thanksgiving Day, Thursday, Nov. 26, and reopen at 5 a.m. local time on Friday, Nov. 27." The company adds that "store hours may vary by location." The Oct. 30 release gives no hours beyond the 5 a.m. opening. For Walmart, Target and Best Buy, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/); Home Depot's schedule is in our [Home Depot Black Friday 2026 story](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/).
 
 ## What are the Kohl's Black Friday Week doorbusters and giveaways?
 
@@ -147,9 +148,9 @@ Cyber Deals "start Sun., Nov. 29, through Mon., Nov. 30," with "40% off qualifyi
 
 ## What has Kohl's not announced?
 
-- The 2026 holiday return window.
 - Store hours beyond the 5 a.m. opening on Nov. 27.
-- Specific doorbuster items and prices.
+- Specific doorbuster items and prices, which the Oct. 30 release does not list.
+- The 2026 holiday return window, which we could not confirm because Kohl's website blocks automated access. Check Kohl's return policy page before you buy.
 
 ## Print the Kohl's Black Friday 2026 dates
 

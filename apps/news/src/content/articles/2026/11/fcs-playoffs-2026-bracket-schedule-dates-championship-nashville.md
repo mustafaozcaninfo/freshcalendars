@@ -3,7 +3,7 @@ title: "FCS Playoffs 2026: Selection Sunday Nov. 22, Title Game Jan. 11"
 description: "Football Championship Subdivision (FCS) playoffs 2026: bracket Nov. 22, title game Jan. 11 in Nashville. Every round date and a printable watch guide."
 type: news
 publishedAt: "2026-11-06T10:36:00-05:00"
-updatedAt: "2026-11-06T10:36:00-05:00"
+updatedAt: "2026-11-13T16:26:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["fcs playoffs 2026 schedule", "fcs playoff bracket 2026", "fcs championship 2027 date", "fcs selection sunday 2026"]
@@ -18,12 +18,12 @@ assets:
     group: fcs-playoffs-2026
     title: "FCS Playoffs 2026 Watch Guide: Nov. 22 to Jan. 11"
     subtitle: "Selection Sunday, every round and the title game in Nashville"
-    note: "Source: NCAA.com, 2026 FCS football championship: Bracket, schedule, selection info for the playoffs (page updated Oct. 28, 2026). Times not posted by the NCAA are marked not yet announced."
+    note: "Source: NCAA.com, 2026 FCS football championship: Bracket, schedule, selection info for the playoffs (page updated Oct. 28, 2026). Selection show time: ESPN Press Room, Nov. 10, 2026. Times not posted by the NCAA are marked not yet announced."
     description: "A watch guide for the 2026 FCS playoffs: Selection Sunday Nov. 22, each round through the Jan. 11 title game, with times in four U.S. zones and lines for matchups."
     alt: "Printable FCS playoffs 2026 watch guide from Selection Sunday on Nov. 22 to the Jan. 11 title game in Nashville"
     data:
       events:
-        - { date: "2026-11-22", time: TBA, title: "Selection Sunday", detail: "Bracket revealed on a selection show", channel: "ESPN Family of Networks", airing: live, src: 1, quote: ["Sunday, Nov. 22", "The bracket will be revealed via a selection show on the ESPN Family of Networks"] }
+        - { start: "2026-11-22T12:00-05:00", title: "Selection Sunday", detail: "Bracket revealed on the FCS Football Selection Special", channel: "ESPNU", airing: live, src: 5, quote: ["FCS Football Selection Special", "ESPNU at noon, on Sunday, Nov. 22"] }
         - { date: "2026-11-28", time: TBA, title: "First round", detail: "Game times set after the bracket", channel: "ESPN+", airing: live, src: 1, quote: ["Saturday, Nov. 28 on ESPN+"] }
         - { date: "2026-12-05", time: TBA, title: "Second round", detail: "Game times set after the bracket", channel: "ESPN+", airing: live, src: 1, quote: ["Saturday, Dec. 5 on ESPN+"] }
         - { start: "2026-12-11T21:00-05:00", title: "Quarterfinal, Game 1", channel: "ESPN", airing: live, src: 1, quote: ["Friday, Dec. 11", "9 p.m. ET on ESPN"] }
@@ -35,7 +35,6 @@ assets:
         - { start: "2027-01-11T19:30-05:00", title: "FCS national championship", detail: "FirstBank Stadium, Nashville, Tenn.", channel: "ESPN", airing: live, src: 1, quote: ["Monday, Jan. 11 at FirstBank Stadium in Nashville, Tenn.", "7:30 p.m. ET on ESPN"] }
       fill: { title: "Matchups after Selection Sunday", labels: ["First round winner I follow", "Second round matchup", "Quarterfinal matchup", "Semifinal matchup", "Title game matchup"] }
       unconfirmed:
-        - { label: "Selection show time", why: "The NCAA page gives the date and the ESPN Family of Networks, not a time" }
         - { label: "First and second round kickoff times", why: "The NCAA page lists only the dates and ESPN+" }
         - { label: "Quarterfinal Game 4 time", why: "The NCAA page says Time TBD" }
 hero:
@@ -50,13 +49,13 @@ hero:
     author: "PCN02WPS"
     authorUrl: "https://commons.wikimedia.org/wiki/User:PCN02WPS"
 summary:
-  - "The National Collegiate Athletic Association (NCAA) says the 24-team FCS bracket is revealed Sunday, Nov. 22, with the first round Saturday, Nov. 28 and the second round Saturday, Dec. 5, both on ESPN+."
+  - "The National Collegiate Athletic Association (NCAA) says the 24-team FCS bracket is revealed Sunday, Nov. 22, at noon ET on ESPNU per ESPN, with the first round Saturday, Nov. 28 and the second round Saturday, Dec. 5, both on ESPN+."
   - "Quarterfinals are Fri., Dec. 11 and Sat., Dec. 12, semifinals Sat., Dec. 19, and the title game is Mon., Jan. 11, 2027, at 7:30 p.m. Eastern Time (ET) at FirstBank Stadium in Nashville on ESPN."
-  - "The NCAA page does not give a selection show time or first and second round kickoff times."
+  - "The NCAA page does not give first and second round kickoff times; those are set after the bracket."
   - "Last season Montana State beat Illinois State 35-34 in overtime in the Jan. 5, 2026, title game in Nashville."
 faq:
   - q: "When is Selection Sunday for the 2026 FCS playoffs?"
-    a: "Sunday, Nov. 22, 2026, per NCAA.com. The bracket is revealed on a selection show on the ESPN Family of Networks and in a selections release. The NCAA page does not give a time."
+    a: "Sunday, Nov. 22, 2026, per NCAA.com. ESPN says the FCS Football Selection Special airs at noon ET (11 a.m. CT, 10 a.m. MT, 9 a.m. PT) on ESPNU. The NCAA also publishes a selections release."
   - q: "When is the 2026 FCS championship game?"
     a: "Monday, Jan. 11, 2027, at FirstBank Stadium in Nashville, Tennessee, at 7:30 p.m. ET on ESPN, per NCAA.com. That is 6:30 p.m. Central Time (CT)."
   - q: "How many teams make the 2026 FCS playoffs?"
@@ -69,7 +68,7 @@ sources:
   - title: "2026 FCS football championship: Bracket, schedule, selection info for the playoffs"
     url: "https://www.ncaa.com/news/football/article/2026-09-02/2026-fcs-football-championship-bracket-schedule-selection-info-playoffs"
     publisher: "National Collegiate Athletic Association (NCAA)"
-    date: "2026-10-28"
+    date: "2026-11-13"
   - title: "Nashville Awarded 2026, 2027 NCAA Division I Football Championship Game"
     url: "https://www.nashvillesports.com/blog/nashville-awarded-2026-2027-ncaa-division-i-football-championship-game"
     publisher: "Nashville Sports Council"
@@ -82,6 +81,10 @@ sources:
     url: "https://www.foxnews.com/sports/montana-state-wins-first-fcs-national-championship-since-1984-thrilling-ot-victory-illinois-state.amp"
     publisher: "Fox News"
     date: "2026-01-06"
+  - title: "ESPN presents 2026-27 NCAA Fall Championship action with 700+ hours of live coverage"
+    url: "https://espnpressroom.com/press-release/espn-presents-2026-27-ncaa-fall-championship-action-with-700-hours-of-live-coverage/"
+    publisher: "ESPN Press Room"
+    date: "2026-11-10"
 downloads:
   - group: "FCS Playoffs 2026 Watch Guide printables"
     title: "FCS Playoffs 2026 Watch Guide: Nov. 22 to Jan. 11"
@@ -102,15 +105,15 @@ draft: false
 
 **The 2026 Football Championship Subdivision (FCS) playoffs start with the bracket reveal on Sunday, Nov. 22 and end with the national championship game on Monday, Jan. 11, 2027, at FirstBank Stadium in Nashville, Tennessee, at 7:30 p.m. Eastern Time (ET) on ESPN, according to the National Collegiate Athletic Association (NCAA).** The 24-team bracket has 23 games in all, and the title game comes 50 days after Selection Sunday.
 
-The NCAA has not named the field, so no team appears below. It also has not posted a selection show time or kickoff times for the first two rounds; game times are set after the bracket is out. This story lists what NCAA.com has published (its page showed an Oct. 28, 2026 update), converts the posted times to four U.S. zones and adds a one-page printable.
+The NCAA has not named the field, so no team appears below. ESPN's press room says the FCS Football Selection Special airs at noon ET on ESPNU. Kickoff times for the first two rounds are not yet announced; game times are set after the bracket is out. This story lists what NCAA.com and ESPN have published (the NCAA page showed an Oct. 28, 2026 update), converts the posted times to four U.S. zones and adds a one-page printable.
 
 ## FCS playoffs 2026 schedule by round
 
-Every date and network below comes from the NCAA's playoff page, which says the bracket "will be revealed via a selection show on the ESPN Family of Networks and a selections release." The weekdays are computed from the calendar.
+Every date and network below comes from the NCAA's playoff page (the selection show time is from ESPN), which says the bracket "will be revealed via a selection show on the ESPN Family of Networks and a selections release." The weekdays are computed from the calendar.
 
 | Round | Date | Games | Network (per NCAA) |
 |---|---|---|---|
-| Selection Sunday | Sun., Nov. 22 | Bracket reveal | ESPN Family of Networks |
+| Selection Sunday | Sun., Nov. 22, noon ET | Bracket reveal | ESPNU (per ESPN) |
 | First round | Sat., Nov. 28 | 8 | ESPN+ |
 | Second round | Sat., Dec. 5 | 8 | ESPN+ |
 | Quarterfinals | Fri., Dec. 11 and Sat., Dec. 12 | 4 | ESPN; Game 4 on ESPN+ |
