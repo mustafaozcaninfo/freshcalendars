@@ -1,0 +1,24 @@
+{
+ "center_letter": "i",
+ "outer_letters": "kmnpub",
+ "pangrams": [
+  "bumpkin"
+ ],
+ "answers": [
+  "bikini",
+  "kink",
+  "mini",
+  "minim",
+  "minimum",
+  "mink",
+  "nimbi",
+  "nubbin",
+  "pimp",
+  "pink",
+  "pinup",
+  "pippin",
+  "pumpkin",
+  "unkink",
+  "unpin"
+ ]
+}
