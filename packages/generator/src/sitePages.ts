@@ -1072,7 +1072,7 @@ function renderGuidePage(entry: UrlEntry, meta: SeoMeta, today: Date): string {
     const hero = calendarStudio(meta, "Free weekly planners for your schedule, priorities and habits. The sheets have no dates, so one print works for any week. Pick a design and a paper size.");
     const main = `
 ${variantGallery(meta, {
-  heading: "Five weekly templates",
+  heading: "Five weekly layouts",
   lead: "Sunday start, Monday start, hourly, priorities and habit tracker. Write the dates in and reuse the sheet any week.",
 })}
 <section class="section prose" id="week-grid">

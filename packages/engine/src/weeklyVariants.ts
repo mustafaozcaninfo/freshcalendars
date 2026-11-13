@@ -19,27 +19,27 @@ export const WEEKLY_VARIANT_META: Record<
   "classic-sun": {
     label: "Classic Sunday Week",
     shortLabel: "Classic",
-    description: "Clean seven-day Sunday-start planner with write-in cells.",
+    description: "Seven days, Sunday first, with room to write in each.",
   },
   "monday-start": {
     label: "Monday Start Week",
     shortLabel: "Mon-start",
-    description: "Mon–Sun workweek-first weekly planner.",
+    description: "Seven days, Monday first, for a work or school week.",
   },
   hourly: {
     label: "Hourly Week",
     shortLabel: "Hourly",
-    description: "Days with 7am–7pm hour blocks for appointments.",
+    description: "Seven days with hour rows from 7 a.m. to 7 p.m. for appointments.",
   },
   priorities: {
     label: "Priorities Planner",
     shortLabel: "Priorities",
-    description: "Week grid with top-three priorities and notes.",
+    description: "A week with a top-three priorities box and a notes column.",
   },
   habit: {
     label: "Habit Tracker Week",
     shortLabel: "Habits",
-    description: "Seven-day habit rows with checkbox tracks.",
+    description: "Rows of habits with a checkbox for each day of the week.",
   },
 };
 
