@@ -2,6 +2,11 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-13 (search desk, evening)
+
+- **Same windows as the morning read (to Nov. 10), nothing new to decide.** Read of Nov. 13, 17:12 UTC: /news/ web week Nov. 4-10 2,627 clicks (-23%), 581,396 impressions (-10%); the gate still passes (indexed 74 of 75, no fall two weeks in a row), Monday's read decides. Sitemaps 0 errors.
+- **The one gate miss is deliberate: /news/linkedin-games-answers-today-october-29-2026-queens-tango-zip/** is "Excluded by 'noindex' tag" because its frontmatter sets `noindex: true` (15 days old). Nothing to fix on the page. Manager: `scripts/news-gsc.mjs` could leave `noindex: true` stories out of the gate's sample so the indexed share counts only pages meant to be indexed. /news/federal-reserve-holidays-2027-bank-closures/, unknown to Google this morning, is no longer listed as not indexed.
+
 ## 2026-11-13 (search desk, morning)
 
 - **/news/ web clicks fell a second read in a row, but the gate still passes.** Read of Nov. 13, 09:14 UTC (windows to Nov. 10): /news/ web week Nov. 4-10 had 2,627 clicks (-23% on 3,419, week Oct. 28 to Nov. 3) and 581,396 impressions (-10% on 649,236); image 485 clicks (-18% on 589), 289,816 impressions (-3%); Discover 0 for an eighth window. The week before still rose, so "no fall two weeks in a row" passes (export: "no"); gate indexed 99% (74 of 75). The Monday, Nov. 16 read decides: a week ending Nov. 13 below Nov. 4-10 fails the gate and holds phase 2. The fall is the election and Halloween pages losing their dates (sample ballot 257 to 68 clicks, 14 days against 14), not a site problem.
