@@ -146,6 +146,14 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - `tools/category_guides.py` links every live article from its product category. Run it weekly and after scheduled articles go live; it skips articles that are not live yet.
 - The checker fails an H2 another article already uses, so give the "what we left out" section a heading that names the product kind.
 
+### Holiday article batch (live Nov. 13, 2026)
+
+- 11 articles for the holiday family, ids 136 to 146: `best-boxed-christmas-cards` (pillar, all 27 boxes), `how-many-christmas-cards-in-a-box`, `when-to-mail-christmas-cards`, `stationery-advent-calendars`, `advent-calendar-books`, `christmas-gift-tags`, `christmas-envelope-seals`, `greeting-card-organizers`, `boxed-thank-you-cards`, `christmas-scrapbook-paper`, `christmas-planner-books`. Refresh the price tables by Dec. 1.
+- Facts files were built from each product's spec table (the rows `product_apply.py` already checked against the listing) plus the offer text, with unit costs computed in the file. Compute a cost per 100 from the price and the count, never from a rounded unit cost: rounding first put eight cells one to four cents off.
+- Postal facts in `when-to-mail-christmas-cards` (send-by dates, stamp prices, the nonmachinable rule) were read on usps.com, about.usps.com and pe.usps.com on Nov. 13, 2026. USPS changes prices in January and July; recheck the postage table then, and replace the dates when USPS publishes the next season's release (late September).
+- Writers invent reasons in "what we left out" ("we dropped packs sold without envelopes"). Give them the real count of the category and the real reason each product was skipped, or write that section yourself.
+- A drawing made by an agent needs a render check: lay all the SVGs out on one page and test every `<text>` box against the viewBox and against the other labels.
+
 ### New product family: Holiday Cards and Gift Wrap (live Nov. 12, 2026)
 - Categories 64 to 74. Live: advent calendars (65), advent activity books and journals (66), boxed Christmas cards (67), thank you cards (68), greeting card organizers (70), Christmas scrapbook paper and washi tape (71), gift tags and ribbon (72), Christmas planners and organizers (73), envelope seals and holiday stickers (74). Hidden until it has real cards: birthday and all-occasion cards (69).
 - 189 of the 298 filled products are live. The rest stay hidden: 84 the writers rejected (off-category, thin listing, near-copy), 23 the editor pruned, 2 that failed the number check.
