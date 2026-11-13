@@ -87,7 +87,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     historyFacts: [
       { label: "Feb 2", text: "Groundhog Day tradition in Punxsutawney, PA." },
       { label: "Feb 14", text: "Valentine’s Day." },
-      { label: "Feb 19, 1942", text: "Executive Order 9066 signed (historical remembrance)." },
+      { label: "Feb 19, 1942", text: "Executive Order 9066 is signed." },
       { label: "Feb 1", text: "Start of Black History Month in the United States." },
     ],
     faqBase: (y) => [
@@ -116,7 +116,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Mar 15", text: "Ides of March, a classical date associated with Caesar." },
       { label: "Mar 8", text: "International Women’s Day." },
       { label: "Mar 10, 1876", text: "First telephone transmission credited to Bell." },
-      { label: "Mar 26, 1953", text: "Jonas Salk announces polio vaccine success." },
+      { label: "Mar 26, 1953", text: "Jonas Salk announces on radio that he has tested a polio vaccine." },
     ],
     faqBase: (y) => [
       { q: `When do clocks change in March ${y}?`, a: `Daylight saving time starts on the second Sunday of March, when clocks move forward one hour at 2:00 a.m. Hawaii and most of Arizona do not change.` },
@@ -144,7 +144,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Apr 22, 1970", text: "First Earth Day observed in the United States." },
       { label: "Apr 15", text: "Traditional US Tax Day (shifts when it falls on a weekend/holiday)." },
       { label: "Apr 12, 1961", text: "Yuri Gagarin becomes first human in space." },
-      { label: "Apr 23", text: "UNESCO World Book Day / Shakespeare commemorations." },
+      { label: "Apr 23", text: "UNESCO World Book and Copyright Day, the date of Shakespeare’s death in 1616." },
     ],
     faqBase: (y) => [
       { q: `Does the April ${y} calendar show Easter?`, a: `When Easter Sunday falls in April ${y}, the Holidays design names it. The Easter page has the date for each year.` },
@@ -253,7 +253,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     historyBlurb: (y) =>
       `Four dates to know as you fill in August ${y}:`,
     historyFacts: [
-      { label: "Aug 15, 1914", text: "Panama Canal opens." },
+      { label: "Aug 15, 1914", text: "The Panama Canal opens with its first official transit." },
       { label: "Aug 26, 1920", text: "The 19th Amendment is certified; the date is now Women’s Equality Day." },
       { label: "Aug 28, 1963", text: "March on Washington / “I Have a Dream” speech." },
       { label: "Aug 12, 1981", text: "IBM introduces its first personal computer." },
@@ -340,7 +340,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Nov 11", text: "Veterans Day (fixed federal holiday)." },
       { label: "Fourth Thursday", text: "Thanksgiving Day (US)." },
       { label: "Nov 19, 1863", text: "Lincoln delivers the Gettysburg Address." },
-      { label: "Nov 9, 1989", text: "Berlin Wall opens." },
+      { label: "Nov 9, 1989", text: "The Berlin Wall’s border crossings open." },
     ],
     faqBase: (y) => [
       { q: `When is Thanksgiving ${y}?`, a: `Thanksgiving is the fourth Thursday of November. The Holidays design names it in its date box.` },

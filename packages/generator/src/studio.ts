@@ -94,12 +94,18 @@ export async function ensureOtherPaperAssets() {
   const walk = async (dir: string): Promise<string[]> => (await Promise.all((await fs.readdir(dir, { withFileTypes: true })).filter(e => e.name !== "studio" && e.name !== "monthly").map(e => e.isDirectory() ? walk(path.join(dir, e.name)) : e.name === "calendar.pdf" ? [path.join(dir, e.name)] : []))).flat();
   const yearlyFolder = path.join(DIST_ASSETS, "studio/yearly");
   const extra = await fs.stat(yearlyFolder).then(() => walk(yearlyFolder)).catch(() => []);
+  // A paper-size copy is stale when its source sheet changed (a template edit), not only when it is
+  // missing: the manifest keeps the hash of the PNG each copy was made from.
+  const manifestPath = path.join(DIST_ASSETS, ".paper-build.json");
+  const made: Record<string, string> = JSON.parse(await fs.readFile(manifestPath, "utf8").catch(() => "{}"));
   for (const file of [...await walk(DIST_ASSETS), ...extra]) {
     const source = await fs.readFile(file), pngFile = file.replace(/\.pdf$/, ".png");
+    const key = path.relative(DIST_ASSETS, file), hash = crypto.createHash("sha1").update(await fs.readFile(pngFile)).digest("hex");
+    const fresh = made[key] === hash; made[key] = hash;
     const info = await sharp(pngFile).metadata(); const landscape = info.width! > info.height!;
     for (const paper of ["letter", "a4"]) {
       const target = file.replace(/\.pdf$/, `-${paper}.pdf`);
-      if (await fs.stat(target).then(s => s.mtimeMs >= 0).catch(() => false)) continue;
+      if (fresh && await fs.stat(target).then(() => true).catch(() => false)) continue;
       const points = paper === "letter" ? [612, 792] : [595.276, 841.89]; if (landscape) points.reverse();
       const doc = await PDFDocument.create();
       for (const page of await doc.embedPdf(source)) { const sheet = doc.addPage(points); const scale = Math.min(points[0]! / page.width, points[1]! / page.height); sheet.drawPage(page, { x: (points[0]! - page.width * scale) / 2, y: (points[1]! - page.height * scale) / 2, width: page.width * scale, height: page.height * scale }); }
@@ -108,7 +114,7 @@ export async function ensureOtherPaperAssets() {
       await sharp(pngFile).resize({ width, height, fit: "contain", background: "#fff" }).png().toFile(target.replace(/\.pdf$/, ".png"));
       await sharp(target.replace(/\.pdf$/, ".png")).resize({ width: 500 }).webp({ quality: 83 }).toFile(target.replace(/\.pdf$/, ".webp"));
     }
-  }
+  }  await fs.writeFile(manifestPath, JSON.stringify(made));
 }
 
 export async function ensureYearlyStudio(years: number[]) {
