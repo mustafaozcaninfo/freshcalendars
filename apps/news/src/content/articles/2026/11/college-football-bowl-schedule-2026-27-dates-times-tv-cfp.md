@@ -112,7 +112,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [college-football-conference-championship-games-2026-schedule-times-tv, fcs-playoffs-2026-bracket-schedule-dates-championship-nashville, college-football-playoff-rankings-2026-schedule-dates-times]
+related: [college-football-conference-championship-games-2026-schedule-times-tv, celebration-bowl-2026-december-12-time-tv-meac-swac, college-football-playoff-rankings-2026-schedule-dates-times]
 draft: false
 ---
 
