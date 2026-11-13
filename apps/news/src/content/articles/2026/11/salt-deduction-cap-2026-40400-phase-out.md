@@ -63,7 +63,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [2027-tax-brackets-401k-hsa-limits-irs, year-end-money-deadlines-december-31-2026, tax-calendar-2027-irs-deadlines]
+related: [2027-tax-brackets-401k-hsa-limits-irs, year-end-money-deadlines-december-31-2026, la-county-property-tax-due-dates-2026-27-december-10]
 assets:
   overlay: true
   kicker: "SALT cap · Tax year 2026"

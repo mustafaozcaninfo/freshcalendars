@@ -50,7 +50,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [houston-isd-calendar-2026-27-holidays-breaks, austin-isd-calendar-2026-27-holidays-breaks, northwest-isd-calendar-2026-27]
+related: [houston-isd-calendar-2026-27-holidays-breaks, austin-isd-calendar-2026-27-holidays-breaks, comal-isd-calendar-2026-27]
 downloads:
   - group: "Northside ISD Calendar 2026-27 printables"
     title: "Northside ISD Calendar 2026-27"

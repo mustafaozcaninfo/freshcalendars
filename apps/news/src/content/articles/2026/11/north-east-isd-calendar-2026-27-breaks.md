@@ -67,7 +67,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [northside-isd-calendar-2026-27-breaks, austin-isd-calendar-2026-27-holidays-breaks, houston-isd-calendar-2026-27-holidays-breaks]
+related: [northside-isd-calendar-2026-27-breaks, austin-isd-calendar-2026-27-holidays-breaks, comal-isd-calendar-2026-27]
 draft: false
 assets:
   overlay: true
