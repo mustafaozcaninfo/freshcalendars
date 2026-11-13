@@ -3,7 +3,7 @@ title: "FAA Ground Stop Today: All U.S. Airports Held at 3:54 p.m. ET"
 description: "The Federal Aviation Administration (FAA) ground-stopped all U.S. airports at 3:54 p.m. ET Nov. 13, 2026. See the order's times by zone and the FAA map."
 type: news
 publishedAt: "2026-11-13T16:32:00-05:00"
-updatedAt: "2026-11-13T17:31:00-05:00"
+updatedAt: "2026-11-13T17:59:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["faa ground stop today", "nationwide ground stop", "faa ground stop map", "faa flight delays today", "when will flights resume"]
@@ -31,7 +31,7 @@ summary:
   - "Inbound international flights are managed case by case, the advisory says. A ground stop holds flights at the departure airport; it does not cancel them."
 faq:
   - q: "Is the FAA ground stop still in effect?"
-    a: "When we checked the FAA advisory database at 5:25 p.m. ET on Nov. 13, 2026, it returned no advisories for the day, which the database has done at times and is not a cancellation. No official had announced that National Ground Stop advisory 111 was lifted. The order runs until further notice, so look for a later advisory with a cancellation in its title."
+    a: "As of 5:55 p.m. ET on Nov. 13, 2026, no official had announced that National Ground Stop advisory 111 was lifted, and the FAA's own statement at 5:52 p.m. said flights remained halted. The advisory database returned no advisories for the day when we checked, which the database has done at times and is not a cancellation. The order runs until further notice, so look for a later advisory with a cancellation in its title."
   - q: "Where is the FAA ground stop map?"
     a: "The FAA's National Airspace System Status page at nasstatus.faa.gov has a map view, a list view and a tile view of airports with ground stops, ground delays, departure delays and closures."
   - q: "Does a ground stop mean my flight is canceled?"
@@ -90,6 +90,7 @@ The advisory is four sentences long. The times on it are in Coordinated Universa
 
 Newest first. Times are ET and each entry says where it comes from.
 
+- **5:52 p.m.** The FAA said on X that "there has been a temporary telecommunications outage" and that "out of an abundance of caution all flights have been halted." It said every flight had been accounted for and international flights would be handled case by case. NBC News carried the agency's statement. No official had said the order was lifted.
 - **By 5:25 p.m.** Homeland Security Secretary Markwayne Mullin told reporters outside the White House there was "no indication, as of yet, that this was a nefarious act" and called it "a telecommunication outage throughout FAA," adding that President Donald Trump had been briefed, that all flights were accounted for and that "everybody is safe." CBS News and NBC News carried the briefing. No official had said the order was lifted.
 - **By 5:15 p.m.** At least 8,000 U.S. flights were delayed and 400 canceled Friday afternoon, the flight-tracking site FlightAware reported, according to CBS News. FlightRadar24 counted about 3,100 aircraft already airborne toward U.S. airports when the stop began.
 - **5:01 p.m.** The FAA status page no longer lists ground stops at Chicago O'Hare or Chicago Midway. It shows ground delay programs at Boston (26 minutes on average, volume), LaGuardia (45 minutes, wind), San Diego (34 minutes, volume) and San Francisco (138 minutes, wind). The FAA has posted no cancellation of the national order and no statement on its newsroom page.
@@ -201,7 +202,7 @@ Advisory 111 gives only "extraordinary circumstances" and safety. Transportation
 
 Homeland Security Secretary Markwayne Mullin, speaking to reporters outside the White House, said on Nov. 13 there was "no indication, as of yet, that this was a nefarious act against us" and that it was "just a telecommunication outage." He said President Donald Trump had been briefed, that officials were "not ruling out anything" on the cause, and that all flights were accounted for and safe, according to CBS News and NBC News.
 
-Neither the FAA nor the Transportation Department has said what caused the communication issue. ABC News and CBS News describe this as the second nationwide ground stop since Sept. 11, 2001; the other came on Jan. 11, 2023, after an outage of the FAA's pilot notice system.
+The FAA itself said on X that there had been "a temporary telecommunications outage" and that all flights had been halted "out of an abundance of caution," with every flight accounted for, NBC News reported. Neither the FAA nor the Transportation Department has said what caused the communication issue. ABC News and CBS News describe this as the second nationwide ground stop since Sept. 11, 2001; the other came on Jan. 11, 2023, after an outage of the FAA's pilot notice system.
 
 ## Where to see the FAA ground stop map
 
@@ -219,7 +220,7 @@ To read the advisories themselves:
 
 ## When flights will resume after the ground stop
 
-The FAA had not announced a restart time as of 5:25 p.m. ET on Nov. 13, and no official had said the national order was lifted. The advisory database returned no advisories for the day at that time, which is not a cancellation.
+The FAA had not announced a restart time as of 5:55 p.m. ET on Nov. 13, and no official had said the national order was lifted. The FAA's own statement at 5:52 p.m. said flights remained halted. The advisory database returned no advisories for the day when we checked, which is not a cancellation.
 
 A restart is gradual. After a ground stop ends, aircraft and crews are out of position, and airports release held flights in order. Friday evening departures and Saturday morning flights on Nov. 14 can run late even after the order is lifted. The FAA has not published delay or cancellation counts for this event, and none are given here.
 
