@@ -30,7 +30,7 @@ export const BF_HOURS: [string, string, "2026" | "2025"][] = [
 /** [store, Christmas Eve closing, source year]. */
 export const XMAS_EVE: [string, string, "2026" | "2025"][] = [
   ["Home Depot", "5 p.m.", "2026"], ["Walmart", "6 p.m.", "2025"], ["Sam's Club", "6 p.m.", "2025"], ["Costco", "5 p.m.", "2025"],
-  ["H-E-B", "8 p.m.", "2025"], ["Trader Joe's", "5 p.m.", "2025"], ["Target", "Varies by store", "2025"], ["Whole Foods", "Varies by store", "2025"],
+  ["H-E-B", "8 p.m.", "2025"], ["Trader Joe's", "5 p.m.", "2025"], ["Target", "8 p.m.", "2026"], ["Whole Foods", "Varies by store", "2025"],
 ];
 
 /** Check mark drawn as SVG in the text color: ✓ is not in Sora or Manrope and printed in a system font. */
