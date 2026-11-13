@@ -61,7 +61,7 @@ internalLinks:
     label: "Printable school-year calendar 2026-27"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [fort-worth-isd-calendar-2026-27-breaks, dallas-isd-calendar-2026-27-holidays-breaks, keller-isd-calendar-2026-27]
+related: [fort-worth-isd-calendar-2026-27-breaks, dallas-isd-calendar-2026-27-holidays-breaks, mansfield-isd-calendar-2026-27]
 assets:
   overlay: true
   kicker: "Arlington ISD · 2026-27"
