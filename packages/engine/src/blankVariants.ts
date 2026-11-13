@@ -1,4 +1,4 @@
-/** Blank undated printable variant ids (generator owns HTML/CSS). */
+/** Blank printable variant ids (generator owns HTML/CSS). */
 
 export const BLANK_VARIANT_IDS = [
   "classic",
@@ -19,22 +19,22 @@ export const BLANK_VARIANT_META: Record<
   classic: {
     label: "Classic Blank",
     shortLabel: "Classic",
-    description: "Undated Sunday-start monthly grid with generous writing space.",
+    description: "A Sunday-start month with empty date boxes and room to write.",
   },
   "monday-start": {
     label: "Monday Start Blank",
     shortLabel: "Mon-start",
-    description: "Undated Mon–Sun blank monthly for workweek-first planning.",
+    description: "A blank month that runs Monday to Sunday, for planning around the work week.",
   },
   notes: {
     label: "Notes Blank",
     shortLabel: "Notes",
-    description: "Undated grid with ruled cells and a wide notes column.",
+    description: "A blank month with ruled boxes and a wide notes column.",
   },
   landscape: {
     label: "Landscape Blank",
     shortLabel: "Landscape",
-    description: "Wide undated landscape monthly for wall or desk use.",
+    description: "A wide blank month in landscape, for a wall or a desk.",
   },
   kids: {
     label: "Kids / Classroom Blank",
@@ -50,7 +50,7 @@ export function blankVariantAssetPaths(variantId: BlankVariantId): { png: string
   };
 }
 
-/** Undated 12-month blank yearly poster. */
+/** Blank 12-month yearly poster. */
 export function blankYearlyAssetPaths(): { png: string; pdf: string } {
   return {
     png: "/assets/blank/yearly/classic/calendar.png",

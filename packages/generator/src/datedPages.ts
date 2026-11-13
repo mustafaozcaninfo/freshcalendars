@@ -67,7 +67,7 @@ function monthFacts(year: number, month: number) {
 }
 
 /** The month as a table with holidays ringed and the ISO week number of each row. */
-function monthTable(year: number, month: number): string {
+export function monthTable(year: number, month: number): string {
   const name = monthNumberToName(month), hol = new Map(holidaysForMonth(year, month).map((h) => [h.day, h.name]));
   const rows = buildMonthGrid({ year, month }).weeks.map((w) => {
     const i = w.findIndex(Boolean), monday = Date.UTC(year, month - 1, w[i]!.day) + (1 - i) * DAY;
@@ -80,7 +80,7 @@ function monthTable(year: number, month: number): string {
 </table>`;
 }
 
-function designCards(year: number, month: number): string {
+export function designCards(year: number, month: number): string {
   const name = monthNumberToName(month);
   return `<ul class="design-grid">${STUDIO_STYLES.map((s) => {
     const sun = studioAssets(year, month, s.id), mon = studioAssets(year, month, s.id, "letter", "monday"), a4 = studioAssets(year, month, s.id, "a4");

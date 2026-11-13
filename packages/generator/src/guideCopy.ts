@@ -55,7 +55,7 @@ export function mondayGuideBody(today: Date): string {
     <li>You are copying dates from a US school, league or pay calendar laid out Sunday first.</li>
   </ul>
   <h2>Which files to print</h2>
-  <p>Every monthly design comes in both layouts: open a month, choose a Monday start and download. The <a href="/printable-monday-start-calendar.html">Monday-start page</a> has this month and next month ready, the <a href="/blank-calendars.html#template-monday-start">undated Monday blank</a> works for any month, and the <a href="/printable-weekly-calendar.html#template-monday-start">Monday weekly planner</a> matches it for the week.</p>`;
+  <p>Every monthly design comes in both layouts: open a month, choose a Monday start and download. The <a href="/printable-monday-start-calendar.html">Monday-start page</a> has this month and next month ready, the <a href="/blank-calendars.html#template-monday-start">blank Monday-start month</a> works for any month, and the <a href="/printable-weekly-calendar.html#template-monday-start">Monday weekly planner</a> matches it for the week.</p>`;
 }
 
 export function fiscalGuideBody(today: Date): string {

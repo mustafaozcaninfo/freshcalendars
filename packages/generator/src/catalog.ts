@@ -1,4 +1,4 @@
-/** Printable template catalog — independent designs, not recolors. */
+/** Printable template catalog: independent designs, not recolors. */
 
 export type PrintSize = { width: number; height: number };
 
@@ -52,7 +52,7 @@ export const MONTHLY_VARIANTS: MonthlyVariant[] = [
     label: "Modern Color",
     shortLabel: "Color",
     description:
-      "Contemporary accent header and weekday strip — still print-friendly with restrained teal/coral ink use.",
+      "A color header and weekday strip in teal and coral, light on ink.",
     templateFile: "color-modern.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -65,7 +65,7 @@ export const MONTHLY_VARIANTS: MonthlyVariant[] = [
     label: "US Holidays Marked",
     shortLabel: "Holidays",
     description:
-      "Federal holidays named in-cell with weekend columns tinted — built from the live holiday engine for that year.",
+      "US holidays named in the date boxes, with the weekend columns tinted.",
     templateFile: "holidays.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -91,7 +91,7 @@ export const MONTHLY_VARIANTS: MonthlyVariant[] = [
     label: "Landscape Soft",
     shortLabel: "Landscape",
     description:
-      "Wide landscape sheet with soft seasonal wash and centered typography — a distinct alternate aesthetic, not a recolor.",
+      "A wide landscape sheet with a soft seasonal tint and centered type.",
     templateFile: "landscape-soft.html",
     size: LANDSCAPE,
     weekStartsOn: 0,
@@ -104,7 +104,7 @@ export const MONTHLY_VARIANTS: MonthlyVariant[] = [
     label: "Monday Start",
     shortLabel: "Mon-start",
     description:
-      "Workweek-first Mon–Sun monthly grid — same crisp print layout as classic, aligned to Monday.",
+      "The classic layout with weeks that run Monday to Sunday.",
     templateFile: "monday-start.html",
     size: PORTRAIT,
     weekStartsOn: 1,
@@ -130,7 +130,7 @@ export function monthlyAssetPaths(
   return { png: pngRel, pdf: pdfRel, pngRel, pdfRel };
 }
 
-/* ——— Yearly variants ——— */
+/* Yearly variants */
 
 export type YearlyVariantId =
   | "classic"
@@ -157,7 +157,7 @@ export const YEARLY_VARIANTS: YearlyVariant[] = [
     id: "classic",
     label: "Classic Year Poster",
     shortLabel: "Classic",
-    description: "Portrait year-at-a-glance with soft teal wash — twelve mini-months, holiday tints.",
+    description: "Twelve small months on a portrait page, with holidays tinted.",
     templateFile: "classic.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -167,7 +167,7 @@ export const YEARLY_VARIANTS: YearlyVariant[] = [
     id: "landscape-wall",
     label: "Landscape Wall",
     shortLabel: "Landscape",
-    description: "Wide landscape poster for wall strips and desk rails — distinct layout, not a recolor.",
+    description: "Twelve months on a wide landscape page, for a wall or a desk.",
     templateFile: "landscape-wall.html",
     size: LANDSCAPE,
     weekStartsOn: 0,
@@ -177,7 +177,7 @@ export const YEARLY_VARIANTS: YearlyVariant[] = [
     id: "holidays",
     label: "Holidays Emphasis",
     shortLabel: "Holidays",
-    description: "Portrait yearly with stronger US holiday marks and weekend column cues on mini grids.",
+    description: "The year on one page with US holidays marked more strongly.",
     templateFile: "holidays.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -187,7 +187,7 @@ export const YEARLY_VARIANTS: YearlyVariant[] = [
     id: "monday-start",
     label: "Monday Start",
     shortLabel: "Mon-start",
-    description: "ISO-style Monday-first mini-months for workweek planning across the year.",
+    description: "Twelve small months with weeks that run Monday to Sunday.",
     templateFile: "monday-start.html",
     size: PORTRAIT,
     weekStartsOn: 1,
@@ -197,7 +197,7 @@ export const YEARLY_VARIANTS: YearlyVariant[] = [
     id: "ink-compact",
     label: "Ink Compact",
     shortLabel: "Compact",
-    description: "Dense black-and-white year grid — maximum contrast, minimal ink, tight typography.",
+    description: "A compact black-and-white year that uses little ink.",
     templateFile: "ink-compact.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -221,7 +221,7 @@ export function yearlyAssetPaths(
   };
 }
 
-/* ——— Weekly variants (undated printable packs) ——— */
+/* Weekly variants (sheets with no dates) */
 
 export type WeeklyVariantId =
   | "classic-sun"
@@ -247,7 +247,7 @@ export const WEEKLY_VARIANTS: WeeklyVariant[] = [
     id: "classic-sun",
     label: "Classic Sunday Week",
     shortLabel: "Classic",
-    description: "Clean seven-day Sunday-start planner with generous write-in cells.",
+    description: "Seven days, Sunday first, with room to write in each.",
     templateFile: "classic-sun.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -256,7 +256,7 @@ export const WEEKLY_VARIANTS: WeeklyVariant[] = [
     id: "monday-start",
     label: "Monday Start Week",
     shortLabel: "Mon-start",
-    description: "Workweek-first Mon–Sun grid for office and school planners.",
+    description: "Seven days, Monday first, for a work or school week.",
     templateFile: "monday-start.html",
     size: PORTRAIT,
     weekStartsOn: 1,
@@ -265,7 +265,7 @@ export const WEEKLY_VARIANTS: WeeklyVariant[] = [
     id: "hourly",
     label: "Hourly Week",
     shortLabel: "Hourly",
-    description: "Seven days with 7am–7pm hour blocks for meetings and appointments.",
+    description: "Seven days with hour rows from 7 a.m. to 7 p.m. for appointments.",
     templateFile: "hourly.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -274,7 +274,7 @@ export const WEEKLY_VARIANTS: WeeklyVariant[] = [
     id: "priorities",
     label: "Priorities Planner",
     shortLabel: "Priorities",
-    description: "Week grid plus top-three priorities and a wide notes column.",
+    description: "A week with a top-three priorities box and a notes column.",
     templateFile: "priorities.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -283,7 +283,7 @@ export const WEEKLY_VARIANTS: WeeklyVariant[] = [
     id: "habit",
     label: "Habit Tracker Week",
     shortLabel: "Habits",
-    description: "Seven-day habit rows with checkbox tracks for routines.",
+    description: "Rows of habits with a checkbox for each day of the week.",
     templateFile: "habit.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -303,7 +303,7 @@ export function weeklyAssetPaths(variantId: WeeklyVariantId): { png: string; pdf
   };
 }
 
-/* ——— Blank undated variants ——— */
+/* Blank variants */
 
 export type BlankVariantId =
   | "classic"
@@ -329,7 +329,7 @@ export const BLANK_VARIANTS: BlankVariant[] = [
     id: "classic",
     label: "Classic Blank",
     shortLabel: "Classic",
-    description: "Undated Sunday-start monthly grid with generous writing space.",
+    description: "A Sunday-start month with empty date boxes and room to write.",
     templateFile: "classic.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -338,7 +338,7 @@ export const BLANK_VARIANTS: BlankVariant[] = [
     id: "monday-start",
     label: "Monday Start Blank",
     shortLabel: "Mon-start",
-    description: "Undated Mon–Sun blank monthly for workweek-first planning.",
+    description: "A blank month that runs Monday to Sunday, for planning around the work week.",
     templateFile: "monday-start.html",
     size: PORTRAIT,
     weekStartsOn: 1,
@@ -347,7 +347,7 @@ export const BLANK_VARIANTS: BlankVariant[] = [
     id: "notes",
     label: "Notes Blank",
     shortLabel: "Notes",
-    description: "Undated grid with ruled cells and a wide notes column.",
+    description: "A blank month with ruled boxes and a wide notes column.",
     templateFile: "notes.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -356,7 +356,7 @@ export const BLANK_VARIANTS: BlankVariant[] = [
     id: "landscape",
     label: "Landscape Blank",
     shortLabel: "Landscape",
-    description: "Wide undated landscape monthly for wall or desk use.",
+    description: "A wide blank month in landscape, for a wall or a desk.",
     templateFile: "landscape.html",
     size: LANDSCAPE,
     weekStartsOn: 0,

@@ -4,7 +4,7 @@ import type { ResolvedHoliday } from "../holidays/engine.js";
 export type FaqItem = { q: string; a: string };
 
 export type MonthEditorial = {
-  /** Hero lead — unique per month */
+  /** Hero lead, unique per month */
   lead: (year: number) => string;
   /** Meta description seed */
   description: (year: number) => string;
@@ -41,21 +41,21 @@ function startWeekday(year: number, month: number): string {
 const EDITORIAL: Record<number, MonthEditorial> = {
   1: {
     lead: (y) =>
-      `Start ${y} on paper — a Fresh Calendars January sheet for resolutions, MLK Day, and Q1 deadlines.`,
+      `January ${y} on one page, with New Year's Day and Martin Luther King Jr. Day in place for the first plans of the year.`,
     description: (y) =>
-      `January ${y} printable calendar in seven free designs, PNG and PDF. Correct weekdays, with New Year's Day and MLK Day on the holidays template. No signup.`,
+      `Free January ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. New Year's Day and Martin Luther King Jr. Day are marked.`,
     overview: (y) => [
-      `January ${y} is the reset month on Fresh Calendars: 31 dated cells, New Year’s Day, and Martin Luther King Jr. Day already marked.`,
-      `Print a classic ink-saver for binders or the holidays layout when federal days need to jump out on the fridge.`,
+      `January ${y} has 31 days and two federal holidays: New Year's Day on the 1st and Martin Luther King Jr. Day on the third Monday.`,
+      `It is the month most people start a new calendar, so print it before the holidays end and write in what is already fixed.`,
     ],
     planningTips: (y) => [
-      `Park three ${y} goals in the notes-planner side band before meetings fill the first week.`,
-      `Flag MLK Day closures for banks and schools even if your office stays open.`,
-      `Pair January with the ${y} yearly poster so Q1 stays visible wall-to-wall.`,
+      `Write this year's fixed dates first: birthdays, school terms and renewals.`,
+      `Check which offices and schools close on Martin Luther King Jr. Day.`,
+      `Print the ${y} yearly calendar too, so the whole year sits beside the month.`,
     ],
-    historyTitle: "January on the timeline",
+    historyTitle: "January in history",
     historyBlurb: (y) =>
-      `From Mozart’s birth to the first iPhone announcement, January has hosted openings that redefined culture and technology. Use these anchors as conversation starters when you fill your January ${y} sheet.`,
+      `Four dates to know as you fill in January ${y}:`,
     historyFacts: [
       { label: "Jan 27, 1756", text: "Wolfgang Amadeus Mozart born in Salzburg." },
       { label: "Jan 1, 1892", text: "Ellis Island immigration station opens." },
@@ -63,101 +63,83 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Jan 9, 2007", text: "Apple introduces the first iPhone." },
     ],
     faqBase: (y) => [
-      {
-        q: `Why download a January ${y} calendar instead of a blank one?`,
-        a: `Dated January ${y} templates already place weekdays correctly, so New Year’s Day and MLK Day land on the right cells without manual counting.`,
-      },
-      {
-        q: `Is January a good month for goal tracking?`,
-        a: `Yes — January’s “reset” energy pairs well with our notes-planner layout: large ruled cells for habits plus a side band for quarterly priorities.`,
-      },
+      { q: `Why print a January ${y} calendar with dates instead of a blank one?`, a: `The dates and weekdays are already in the right boxes, with New Year's Day and Martin Luther King Jr. Day marked in the Holidays design.` },
+      { q: `When is Martin Luther King Jr. Day in ${y}?`, a: `It is the third Monday of January. The Holidays design names it in its date box.` },
     ],
   },
   2: {
     lead: (y) =>
-      `February ${y} is short — lock Valentine’s and Presidents’ Day on a Fresh Calendars month grid before the weeks collide.`,
+      `February ${y} with Valentine's Day and Presidents' Day, in a grid sized for the shortest month of the year.`,
     description: (y) =>
-      `February ${y} printable calendar with the real ${y} day count, Presidents' Day marked on the holidays template, and seven free designs in PNG and PDF.`,
+      `Free February ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Valentine's Day and Presidents' Day are marked.`,
     overview: (y) => [
-      `February ${y} gets the correct day count on Fresh Calendars — including leap years — so weekday placement never drifts.`,
-      `Use the holidays sheet for Presidents’ Day (third Monday) and keep Valentine’s dinner plans on the planner layout.`,
+      `February ${y} has ${daysInMonth(y, 2)} days. Groundhog Day is on the 2nd, Valentine's Day on the 14th and Presidents' Day on the third Monday.`,
+      `A short month often fits in four or five rows, which leaves larger boxes to write in.`,
     ],
     planningTips: (y) => [
-      `Confirm leap length before booking trips that cross month-end.`,
-      `Reserve Valentine’s weekend early; the 14th fills fast.`,
-      `Black History Month notes fit cleanly on the notes-planner variant.`,
+      `Mark the Presidents' Day long weekend before you book anything around it.`,
+      `Note Valentine's Day reservations early; the 14th fills up.`,
+      `In a leap year, check deadlines that fall on the 29th.`,
     ],
-    historyTitle: "February checkpoints",
+    historyTitle: "February in history",
     historyBlurb: (y) =>
-      `Groundhog Day folklore, landmark civil-rights moments, and leap-day quirks all live in February. Stamp a few on your February ${y} printable if you teach or share family trivia.`,
+      `Four dates to know as you fill in February ${y}:`,
     historyFacts: [
       { label: "Feb 2", text: "Groundhog Day tradition in Punxsutawney, PA." },
-      { label: "Feb 14", text: "Valentine’s Day — widely observed gift & dinner date." },
+      { label: "Feb 14", text: "Valentine’s Day." },
       { label: "Feb 19, 1942", text: "Executive Order 9066 signed (historical remembrance)." },
       { label: "Feb 1", text: "Start of Black History Month in the United States." },
     ],
     faqBase: (y) => [
-      {
-        q: `How many days does February ${y} have?`,
-        a: `February ${y} has ${daysInMonth(y, 2)} days. Our printable grids are generated for that exact length.`,
-      },
-      {
-        q: `Does the February ${y} calendar include Presidents’ Day?`,
-        a: `Yes on the holidays variant — Presidents’ Day is the third Monday in February and is marked on its ${y} date.`,
-      },
+      { q: `How many days does February ${y} have?`, a: `February ${y} has ${daysInMonth(y, 2)} days, and the printed grid matches.` },
+      { q: `Does the February ${y} calendar show Presidents' Day?`, a: `Yes, in the Holidays design. Presidents' Day is the third Monday of February.` },
     ],
   },
   3: {
     lead: (y) =>
-      `March ${y} from Fresh Calendars — spring-forward energy, school breaks, and a dated grid before daylight stretches.`,
+      `March ${y} with the start of daylight saving time and St. Patrick's Day, ready for spring plans.`,
     description: (y) =>
-      `March ${y} printable calendar in seven free designs, PNG and PDF, with accurate weekdays and room for spring break and March planning notes.`,
+      `Free March ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. St. Patrick's Day and the clock change are marked.`,
     overview: (y) => [
-      `March ${y} is when schedules reopen outdoors and spring break windows appear. Fresh Calendars keeps every weekday locked for the month.`,
-      `Pin the landscape sheet near a mudroom or classroom; use Monday-start if your week is work-first.`,
+      `March ${y} has 31 days. Clocks spring forward on the second Sunday, and St. Patrick's Day is on the 17th.`,
+      `Spring break and the end of the first quarter often land here, so the month fills quickly.`,
     ],
     planningTips: (y) => [
-      `Note DST changes when you meet remote teammates across regions.`,
-      `Block spring-break coverage on the classic or planner sheet early.`,
-      `Cross-link St. Patrick’s Day from the holidays list if you host events.`,
+      `Circle the second Sunday: clocks move forward one hour at 2:00 a.m.`,
+      `Write spring break dates from your school's calendar.`,
+      `Mark the last working day of the quarter if you report on it.`,
     ],
-    historyTitle: "March highlights",
+    historyTitle: "March in history",
     historyBlurb: (y) =>
-      `Ides of March lore, women’s history observances, and famous launches make March a storytelling month. Pair a fact with your March ${y} download when you share it.`,
+      `Four dates to know as you fill in March ${y}:`,
     historyFacts: [
-      { label: "Mar 15", text: "Ides of March — classical date associated with Caesar." },
-      { label: "Mar 8", text: "International Women’s Day (widely observed)." },
+      { label: "Mar 15", text: "Ides of March, a classical date associated with Caesar." },
+      { label: "Mar 8", text: "International Women’s Day." },
       { label: "Mar 10, 1876", text: "First telephone transmission credited to Bell." },
       { label: "Mar 26, 1953", text: "Jonas Salk announces polio vaccine success." },
     ],
     faqBase: (y) => [
-      {
-        q: `What makes the March ${y} printable different from other months?`,
-        a: `Editorial copy, FAQs, and holiday callouts are written specifically for March ${y} — not reused from January or April pages.`,
-      },
-      {
-        q: `Can I print March ${y} in color and black & white?`,
-        a: `Yes. Classic B&W needs no color ink; Modern Color and Landscape Soft use restrained accents when you want a wall-ready look.`,
-      },
+      { q: `When do clocks change in March ${y}?`, a: `Daylight saving time starts on the second Sunday of March, when clocks move forward one hour at 2:00 a.m. Hawaii and most of Arizona do not change.` },
+      { q: `Can I print March ${y} in black and white?`, a: `Yes. The Minimal design uses black lines only, and every design prints cleanly in grayscale.` },
     ],
   },
   4: {
     lead: (y) =>
-      `April ${y} on Fresh Calendars — showers, tax timing, Earth Day, and Easter-aware holiday cells when the Sunday lands here.`,
+      `April ${y} with Earth Day and the tax deadline, and Easter when it falls in the month.`,
     description: (y) =>
-      `April ${y} printable calendar in seven free designs, PNG and PDF, with Easter-aware holiday marks, accurate weekdays, and April planning tips.`,
+      `Free April ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Earth Day is marked, and Easter when it falls in April.`,
     overview: (y) => [
-      `April’s thirty days pack testing windows, outdoor reopenings, and Earth Day projects. Fresh Calendars dates the grid so nothing slips a weekday.`,
-      `When Easter falls in April ${y}, the holidays template labels Sunday from the same computus as our when-is page.`,
+      `April ${y} has 30 days. April Fools' Day is on the 1st and Earth Day on the 22nd; Easter falls in April in some years and March in others.`,
+      `US income tax returns are normally due on April 15, or the next working day when that is a weekend or holiday.`,
     ],
     planningTips: (y) => [
-      `Mark early-April US tax deadlines on the planner before weekend trips.`,
-      `Circle Earth Day (April 22) for classroom or community work.`,
-      `Open the Easter when-is page for the exact Sunday in ${y}.`,
+      `Check this year's tax filing deadline before you write it in.`,
+      `Look up Easter on its own page: the date moves every year.`,
+      `Add school testing dates as soon as they are announced.`,
     ],
-    historyTitle: "April anchors",
+    historyTitle: "April in history",
     historyBlurb: (y) =>
-      `From the first MLB opening days to Earth Day’s founding story, April is full of public rituals. Note one on your April ${y} sheet for students or newsletters.`,
+      `Four dates to know as you fill in April ${y}:`,
     historyFacts: [
       { label: "Apr 22, 1970", text: "First Earth Day observed in the United States." },
       { label: "Apr 15", text: "Traditional US Tax Day (shifts when it falls on a weekend/holiday)." },
@@ -165,33 +147,27 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Apr 23", text: "UNESCO World Book Day / Shakespeare commemorations." },
     ],
     faqBase: (y) => [
-      {
-        q: `Does the April ${y} calendar show Easter?`,
-        a: `When Easter Sunday falls in April ${y}, the holidays template labels it using our Gregorian computus. Check the Easter page for the exact date.`,
-      },
-      {
-        q: `Which April ${y} template is best for classrooms?`,
-        a: `Landscape Soft reads well on a bulletin board; Notes Planner works for homework and field-trip logistics.`,
-      },
+      { q: `Does the April ${y} calendar show Easter?`, a: `When Easter Sunday falls in April ${y}, the Holidays design names it. The Easter page has the date for each year.` },
+      { q: `Which April ${y} design suits a classroom?`, a: `Landscape reads well on a bulletin board, and Planner has a notes column for homework and trips.` },
     ],
   },
   5: {
     lead: (y) =>
-      `May ${y} Fresh Calendars sheets for graduations, Mother’s Day, and Memorial Day weekend logistics.`,
+      `May ${y} with Mother's Day and the Memorial Day weekend, the unofficial start of summer.`,
     description: (y) =>
-      `May ${y} printable calendar with Memorial Day calculated, seven free designs in PNG and PDF, and layouts that work for families and classrooms.`,
+      `Free May ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Mother's Day and Memorial Day are marked.`,
     overview: (y) => [
-      `May ${y} bridges spring and summer: Mother’s Day, finales, and Memorial Day as the unofficial US summer start.`,
-      `Because Memorial Day moves, Fresh Calendars regenerates May ${y} instead of recycling last year’s grid.`,
+      `May ${y} has 31 days. Cinco de Mayo is on the 5th, Mother's Day on the second Sunday and Memorial Day on the last Monday.`,
+      `Graduations and the end of the school year crowd the second half of the month.`,
     ],
     planningTips: (y) => [
-      `Book Memorial Day travel once the holidays template shows the Monday.`,
-      `Lock Mother’s Day brunch in the first week of May.`,
-      `Classic B&W photocopies cleanly into end-of-year school packets.`,
+      `Book Mother's Day plans early: it is always the second Sunday.`,
+      `Mark the Memorial Day long weekend before travel prices rise.`,
+      `Write graduation and exam dates as soon as schools publish them.`,
     ],
-    historyTitle: "May notes from history",
+    historyTitle: "May in history",
     historyBlurb: (y) =>
-      `May Day labor traditions, aviation firsts, and Memorial Day’s evolution from Decoration Day give the month depth beyond cookouts.`,
+      `Four dates to know as you fill in May ${y}:`,
     historyFacts: [
       { label: "May 1", text: "International Workers’ Day / May Day observances." },
       { label: "May 5", text: "Cinco de Mayo commemorations in many US communities." },
@@ -199,135 +175,111 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "May 25, 1961", text: "Kennedy announces Moon landing goal." },
     ],
     faqBase: (y) => [
-      {
-        q: `When is Memorial Day in May ${y}?`,
-        a: `Memorial Day is the last Monday in May. Our holidays template places the ${y} date automatically from the federal rules engine.`,
-      },
-      {
-        q: `Are May ${y} downloads free for personal printing?`,
-        a: `Yes — PNG and PDF for every May ${y} design are free for personal use from Fresh Calendars.`,
-      },
+      { q: `When is Memorial Day in May ${y}?`, a: `Memorial Day is the last Monday of May. The Holidays design names it in its date box.` },
+      { q: `When is Mother's Day in ${y}?`, a: `In the United States it is the second Sunday of May.` },
     ],
   },
   6: {
     lead: (y) =>
-      `June ${y} Fresh Calendars printables — solstice daylight, Juneteenth, and Father’s Day on one month page.`,
+      `June ${y} with Flag Day, Juneteenth and Father's Day, as school ends and summer plans begin.`,
     description: (y) =>
-      `June ${y} printable calendar with Juneteenth marked, seven free designs in PNG and PDF, and tips for summer schedules and camp weeks.`,
+      `Free June ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Flag Day, Juneteenth and Father's Day are marked.`,
     overview: (y) => [
-      `June ${y} brings peak Northern Hemisphere daylight plus Juneteenth (June 19) and Father’s Day on the third Sunday.`,
-      `Households and teams both benefit from a Fresh Calendars wall sheet before camp and vacation PTO overlap.`,
+      `June ${y} has 30 days. Flag Day is on the 14th, Juneteenth on the 19th and Father's Day on the third Sunday.`,
+      `The longest days of the year in the Northern Hemisphere fall around the 21st.`,
     ],
     planningTips: (y) => [
-      `Mark Juneteenth before scheduling client work that week.`,
-      `Align camp drop-offs on the notes-planner variant.`,
-      `Landscape soft works above a kitchen command center.`,
+      `Line up camp and childcare dates against work days.`,
+      `Check whether your employer closes for Juneteenth.`,
+      `Mark the last day of school and the first day of any trip.`,
     ],
-    historyTitle: "June memory lane",
+    historyTitle: "June in history",
     historyBlurb: (y) =>
-      `From D-Day anniversaries to pride-month community events, June carries both solemn and celebratory public memory.`,
+      `Four dates to know as you fill in June ${y}:`,
     historyFacts: [
       { label: "Jun 6, 1944", text: "D-Day Allied landings in Normandy." },
-      { label: "Jun 19, 1865", text: "News of emancipation reaches Galveston — Juneteenth root." },
-      { label: "Jun 21", text: "Approx. Northern Hemisphere summer solstice." },
+      { label: "Jun 19, 1865", text: "News of emancipation reaches Galveston, Texas, the origin of Juneteenth." },
+      { label: "Jun 21", text: "Summer solstice in the Northern Hemisphere, on or near this date." },
       { label: "Jun 26, 2015", text: "US Supreme Court decides Obergefell v. Hodges." },
     ],
     faqBase: (y) => [
-      {
-        q: `Is Juneteenth shown on the June ${y} holidays calendar?`,
-        a: `Yes. Juneteenth is a fixed US federal holiday on June 19 and is labeled on our holidays variant for ${y}.`,
-      },
-      {
-        q: `Why are there five June ${y} templates?`,
-        a: `Each design has its own HTML/CSS root — classic B&W, modern color, holidays, notes planner, and landscape — so you can match print ink, wall space, or handwriting needs.`,
-      },
+      { q: `Is Juneteenth on the June ${y} calendar?`, a: `Yes. Juneteenth is a federal holiday on June 19 and the Holidays design names it.` },
+      { q: `When is Father's Day in ${y}?`, a: `In the United States it is the third Sunday of June.` },
     ],
   },
   7: {
     lead: (y) =>
-      `July ${y} Fresh Calendars grids for Independence Day travel, cookouts, and mid-week holiday bridges.`,
+      `July ${y} with Independence Day and the middle of summer, for travel, camps and time off.`,
     description: (y) =>
-      `July ${y} printable calendar with Independence Day labeled, seven free designs in PNG and PDF, and room for midsummer travel plans.`,
+      `Free July ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start, on Letter or A4. Independence Day is marked.`,
     overview: (y) => [
-      `July ${y} is defined in the US by Independence Day. Fresh Calendars places the 4th correctly so group plans stop asking “what day is it?”`,
-      `Vacations and special retail hours pile up — a dated month sheet keeps the chaos readable.`,
+      `July ${y} has 31 days and one federal holiday: Independence Day on the 4th.`,
+      `When July 4 falls on a weekend, federal offices close on the nearest weekday.`,
     ],
     planningTips: (y) => [
-      `Decide bridge days early if July 4 lands mid-week.`,
-      `Log heat-wave backups on the planner sheet.`,
-      `Classic B&W photocopies well for neighborhood flyers.`,
+      `Check which day your workplace observes Independence Day this year.`,
+      `Block out vacation weeks so the whole household can see them.`,
+      `Note camp start and pickup times in the day boxes.`,
     ],
-    historyTitle: "July anchors",
+    historyTitle: "July in history",
     historyBlurb: (y) =>
-      `Apollo 11, the Declaration’s anniversary, and summer cultural festivals give July ${y} planners more than cookout dates to note.`,
+      `Four dates to know as you fill in July ${y}:`,
     historyFacts: [
       { label: "Jul 4, 1776", text: "Declaration of Independence adopted." },
       { label: "Jul 20, 1969", text: "Apollo 11 Moon landing." },
       { label: "Jul 14", text: "Bastille Day commemorations (France; observed by many US communities)." },
-      { label: "Jul 1, 1867", text: "Canadian Confederation — Canada Day." },
+      { label: "Jul 1, 1867", text: "Canadian Confederation, now Canada Day." },
     ],
     faqBase: (y) => [
-      {
-        q: `Does the July ${y} holidays calendar mark Independence Day?`,
-        a: `Yes — July 4 is a fixed federal holiday and appears in-cell on the holidays template for ${y}.`,
-      },
-      {
-        q: `Can I use the July ${y} PNG online?`,
-        a: `Personal use and linking to our HTML pages is fine. Prefer CDN PNG/PDF URLs from the download buttons for embeds.`,
-      },
+      { q: `Does the July ${y} calendar mark Independence Day?`, a: `Yes. July 4 is a federal holiday and the Holidays design names it.` },
+      { q: `Can I share the July ${y} calendar online?`, a: `Please link to this page instead of uploading the file. The calendars are free for personal and classroom use.` },
     ],
   },
   8: {
     lead: (y) =>
-      `August ${y} Fresh Calendars month — last vacations, supply lists, and back-to-school dates without a federal holiday buffer.`,
+      `August ${y}, a month with no federal holidays, for back-to-school dates and the last trips of summer.`,
     description: (y) =>
-      `August ${y} printable calendar in seven free designs, PNG and PDF, with weekend tints and room for back-to-school dates. No federal holidays this month.`,
+      `Free August ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start, on Letter or A4, with room for back-to-school dates.`,
     overview: (y) => [
-      `August ${y} is often the last full stretch of summer break. Fresh Calendars still ships a full dated grid even with no US federal holiday.`,
-      `Use notes-planner for first-day-of-school announcements the week they drop.`,
+      `August ${y} has 31 days and no US federal holidays.`,
+      `Many school districts start the new year this month, so first days, orientations and supply lists belong here.`,
     ],
     planningTips: (y) => [
-      `Write school start dates as soon as districts publish them.`,
-      `Modern color suits dorm or office pinboards.`,
-      `Monday-start helps workweek-first classrooms.`,
+      `Write the first day of school from your district's calendar.`,
+      `Schedule physicals and haircuts before the first week of term.`,
+      `Start a school-year calendar now: it runs August to July.`,
     ],
-    historyTitle: "August flashbacks",
+    historyTitle: "August in history",
     historyBlurb: (y) =>
-      `Canal openings, voting-rights milestones, and late-summer speeches punctuate August. A few facts turn an August ${y} printable into a mini teaching aid.`,
+      `Four dates to know as you fill in August ${y}:`,
     historyFacts: [
       { label: "Aug 15, 1914", text: "Panama Canal opens." },
-      { label: "Aug 26, 1920", text: "19th Amendment certified — Women’s Equality Day root." },
+      { label: "Aug 26, 1920", text: "The 19th Amendment is certified; the date is now Women’s Equality Day." },
       { label: "Aug 28, 1963", text: "March on Washington / “I Have a Dream” speech." },
       { label: "Aug 12, 1981", text: "IBM introduces its first personal computer." },
     ],
     faqBase: (y) => [
-      {
-        q: `Are there US federal holidays in August ${y}?`,
-        a: `Usually none. Our holidays template still marks weekends and any engine-listed observances so August ${y} stays scannable.`,
-      },
-      {
-        q: `Which August ${y} design matches Google Image “calendar” styles?`,
-        a: `We ship five independent roots: high-contrast B&W, modern color header, holidays/weekend red, notes planner, and soft landscape — reflecting common search-result aesthetics without cloning any one site.`,
-      },
+      { q: `Are there US federal holidays in August ${y}?`, a: `No. August has no federal holidays; the next one is Labor Day on the first Monday of September.` },
+      { q: `Which calendar covers a whole school year?`, a: `The school year calendar shows August to July on one page, and each month has its own sheet.` },
     ],
   },
   9: {
     lead: (y) =>
-      `September ${y} Fresh Calendars reset — Labor Day weekend, school rhythm, and early Q4 prep on one printable.`,
+      `September ${y} with Labor Day and the first full month of school, as routines settle in.`,
     description: (y) =>
-      `September ${y} printable calendar with Labor Day placed, seven free designs in PNG and PDF, and tips for the back-to-routine month.`,
+      `Free September ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Labor Day and Patriot Day are marked.`,
     overview: (y) => [
-      `September ${y} is the practical new year for many US households. Fresh Calendars anchors Labor Day (first Monday) then the busier weeks that follow.`,
-      `Meeting density climbs after the holiday weekend — keep it visible on a wall sheet.`,
+      `September ${y} has 30 days. Labor Day is the first Monday, and Patriot Day is observed on the 11th.`,
+      `Autumn begins in the Northern Hemisphere around the 22nd.`,
     ],
     planningTips: (y) => [
-      `Treat Labor Day week as a soft launch for autumn goals.`,
-      `Schedule wardrobe and HVAC swaps on quieter mid-month days.`,
-      `Classic B&W handouts work for PTA and teams.`,
+      `Mark the Labor Day long weekend first.`,
+      `Add weekly activities once the school timetable is fixed.`,
+      `Set a reminder for the end of the third quarter on the 30th.`,
     ],
-    historyTitle: "September bookmarks",
+    historyTitle: "September in history",
     historyBlurb: (y) =>
-      `From Labor Day’s labor-movement roots to autumn equinox science, September rewards a calendar that is both practical and curious.`,
+      `Four dates to know as you fill in September ${y}:`,
     historyFacts: [
       { label: "First Monday", text: "Labor Day (US federal holiday)." },
       { label: "~Sep 22", text: "Northern Hemisphere autumn equinox (date varies)." },
@@ -335,67 +287,55 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Sep 17, 1787", text: "US Constitution signed." },
     ],
     faqBase: (y) => [
-      {
-        q: `When is Labor Day in September ${y}?`,
-        a: `Labor Day is the first Monday in September. The holidays template computes the exact ${y} date from federal rules.`,
-      },
-      {
-        q: `Is September ${y} content duplicated from other months?`,
-        a: `No. Overview, tips, history blurbs, and FAQs are authored for September specifically so search and AI systems see unique page substance.`,
-      },
+      { q: `When is Labor Day in September ${y}?`, a: `Labor Day is the first Monday of September. The Holidays design names it in its date box.` },
+      { q: `When does fall start in ${y}?`, a: `The autumn equinox in the Northern Hemisphere falls around September 22; the exact date varies by year.` },
     ],
   },
   10: {
     lead: (y) =>
-      `October ${y} Fresh Calendars planning — federal Monday observance, Halloween, and Q4 sprint weeks.`,
+      `October ${y} with Columbus Day and Halloween, and the first month of the federal fiscal year.`,
     description: (y) =>
-      `October ${y} printable calendar with holiday marks, room to plan Halloween, and seven free designs to download as PNG or PDF.`,
+      `Free October ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Columbus Day and Halloween are marked.`,
     overview: (y) => [
-      `October ${y} packs earlier sunsets, school events, and Halloween on the 31st. Fresh Calendars follows the federal second-Monday rule for Columbus Day while you note local Indigenous Peoples’ Day practice.`,
-      `Notes-planner is the costume-and-party workhorse by mid-month.`,
+      `October ${y} has 31 days. Columbus Day, also Indigenous Peoples' Day in many places, is the second Monday, and Halloween is on the 31st.`,
+      `The US federal fiscal year starts on October 1.`,
     ],
     planningTips: (y) => [
-      `Park costume logistics on the notes sheet by the 15th.`,
-      `Mirror office closures on the holidays variant.`,
-      `Landscape soft suits a hallway countdown.`,
+      `Check whether your school or bank closes on the second Monday.`,
+      `Note the weekday Halloween falls on before you plan a party.`,
+      `Daylight saving time ends early in November: add a reminder.`,
     ],
-    historyTitle: "October bite-size history",
+    historyTitle: "October in history",
     historyBlurb: (y) =>
-      `From the 1929 market crash anniversary discussions to space-age firsts, October is dense with teachable moments for an October ${y} wall calendar.`,
+      `Four dates to know as you fill in October ${y}:`,
     historyFacts: [
       { label: "Oct 1, 1958", text: "NASA begins operations." },
       { label: "Oct 4, 1957", text: "Sputnik 1 launches." },
       { label: "Oct 29, 1929", text: "Black Tuesday stock market crash." },
-      { label: "Oct 31", text: "Halloween — widely celebrated in the US." },
+      { label: "Oct 31", text: "Halloween." },
     ],
     faqBase: (y) => [
-      {
-        q: `Does the October ${y} calendar include Columbus Day?`,
-        a: `The holidays variant marks the federal Columbus Day (second Monday in October) for ${y}. Add local Indigenous Peoples’ Day notes as needed.`,
-      },
-      {
-        q: `Best October ${y} template for Halloween planning?`,
-        a: `Notes Planner — ruled day cells plus a side notes column for costume lists and candy runs.`,
-      },
+      { q: `Does the October ${y} calendar include Columbus Day?`, a: `Yes, in the Holidays design. The federal holiday is the second Monday of October; add Indigenous Peoples' Day where it is observed.` },
+      { q: `Which October ${y} design suits Halloween planning?`, a: `Planner: ruled date boxes and a notes column for costume and party lists.` },
     ],
   },
   11: {
     lead: (y) =>
-      `November ${y} Fresh Calendars — Veterans Day, Thanksgiving week math, and travel locks before the fourth Thursday.`,
+      `November ${y} with Veterans Day and Thanksgiving, and the end of daylight saving time.`,
     description: (y) =>
-      `November ${y} printable calendar with Thanksgiving calculated and Veterans Day marked. Seven free designs to download as PNG or PDF.`,
+      `Free November ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Veterans Day and Thanksgiving are marked.`,
     overview: (y) => [
-      `November ${y} concentrates Veterans Day (11th) and Thanksgiving (fourth Thursday). Fresh Calendars regenerates the month so Wednesday travel never inherits last year’s weekday.`,
-      `Shade the holiday week early, then cook prep two days prior on the planner.`,
+      `November ${y} has 30 days. Clocks fall back on the first Sunday, Veterans Day is on the 11th and Thanksgiving is the fourth Thursday.`,
+      `Black Friday follows Thanksgiving, and the holiday season starts from there.`,
     ],
     planningTips: (y) => [
-      `Circle Thanksgiving week on the holidays template first.`,
-      `Verify local Veterans Day school/bank closures.`,
-      `Classic B&W sticks well to fridge magnet sheets.`,
+      `Shade Thanksgiving week first, then book travel around it.`,
+      `Check local school and bank closures for Veterans Day.`,
+      `Circle the first Sunday: clocks go back one hour at 2:00 a.m.`,
     ],
-    historyTitle: "November remembrances on paper",
+    historyTitle: "November in history",
     historyBlurb: (y) =>
-      `Armistice roots of Veterans Day and the evolving Thanksgiving story give November ${y} more gravity than shopping alone.`,
+      `Four dates to know as you fill in November ${y}:`,
     historyFacts: [
       { label: "Nov 11", text: "Veterans Day (fixed federal holiday)." },
       { label: "Fourth Thursday", text: "Thanksgiving Day (US)." },
@@ -403,48 +343,36 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Nov 9, 1989", text: "Berlin Wall opens." },
     ],
     faqBase: (y) => [
-      {
-        q: `When is Thanksgiving ${y}?`,
-        a: `Thanksgiving is the fourth Thursday of November. The holidays template labels its exact November ${y} date.`,
-      },
-      {
-        q: `Do November ${y} FAQs match other month pages?`,
-        a: `No. Each month ships original questions and answers so pages do not share identical FAQ blocks.`,
-      },
+      { q: `When is Thanksgiving ${y}?`, a: `Thanksgiving is the fourth Thursday of November. The Holidays design names it in its date box.` },
+      { q: `When do clocks go back in November ${y}?`, a: `Daylight saving time ends on the first Sunday of November, when clocks go back one hour at 2:00 a.m.` },
     ],
   },
   12: {
     lead: (y) =>
-      `December ${y} Fresh Calendars sheets for Christmas Day, shipping cutoffs, and year-end office closures.`,
+      `December ${y} with Christmas Eve, Christmas Day and New Year's Eve, for the busiest weeks of the year.`,
     description: (y) =>
-      `December ${y} printable calendar with Christmas marked, seven free designs in PNG and PDF, and space for year-end planning notes.`,
+      `Free December ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Christmas Day and New Year's Eve are marked.`,
     overview: (y) => [
-      `December ${y} compresses concerts, religious observances, and Christmas Day on the 25th. Fresh Calendars keeps the grid honest while fiscal close and family travel compete.`,
-      `Mark shipping cutoffs before gift orders slip past carrier deadlines.`,
+      `December ${y} has 31 days. Christmas Day on the 25th is a federal holiday; Christmas Eve and New Year's Eve are not, though many workplaces close early.`,
+      `Winter begins in the Northern Hemisphere around the 21st.`,
     ],
     planningTips: (y) => [
-      `Log carrier cutoffs on the planner variant early.`,
-      `Shade workplace closures between Christmas and New Year’s.`,
-      `Landscape soft is a gentle dining-room wall piece.`,
+      `Write shipping deadlines from each carrier's own page before you order gifts.`,
+      `Mark the days your workplace and school are closed between Christmas and New Year's Day.`,
+      `Print January now so the first week of the new year is ready.`,
     ],
-    historyTitle: "December checkpoints",
+    historyTitle: "December in history",
     historyBlurb: (y) =>
-      `From Wright brothers flight anniversary chatter to year-end cultural releases, December ${y} is busier than the holiday countdown suggests.`,
+      `Four dates to know as you fill in December ${y}:`,
     historyFacts: [
       { label: "Dec 17, 1903", text: "Wright brothers’ first powered flight." },
       { label: "Dec 25", text: "Christmas Day (US federal holiday)." },
       { label: "Dec 26", text: "Boxing Day / start of Kwanzaa (cultural observances)." },
-      { label: "Dec 31", text: "New Year’s Eve — unofficial planning checkpoint." },
+      { label: "Dec 31", text: "New Year’s Eve." },
     ],
     faqBase: (y) => [
-      {
-        q: `Is Christmas labeled on the December ${y} holidays calendar?`,
-        a: `Yes. Christmas Day is a fixed federal holiday on December 25 and appears in-cell for ${y}.`,
-      },
-      {
-        q: `Can I print December ${y} and January together?`,
-        a: `Download December ${y} here and January ${y + 1} from the January page, which shows ${y + 1} from February ${y} onward.`,
-      },
+      { q: `Is Christmas marked on the December ${y} calendar?`, a: `Yes. Christmas Day is a federal holiday on December 25 and the Holidays design names it.` },
+      { q: `Can I print December ${y} and January together?`, a: `Yes. Print December here, then open the January page for the next year's sheet.` },
     ],
   },
 };
@@ -466,21 +394,21 @@ export function buildMonthlyFaq(
   const dim = daysInMonth(year, month);
   const holLine =
     holidays.length > 0
-      ? holidays.map((h) => `${h.name} (${h.formatted})`).join("; ")
-      : `No US federal holidays fall in ${name} ${year} on our engine list.`;
+      ? `${holidays.map((h) => `${h.name} (${h.formatted})`).join("; ")}.`
+      : `None of the holidays on our US list falls in ${name} ${year}.`;
 
   const dynamic: FaqItem[] = [
     {
       q: `What day does ${name} ${year} start on?`,
-      a: `${name} ${year} begins on ${start} and contains ${dim} days. Fresh Calendars print files match that weekday layout exactly.`,
+      a: `${name} ${year} starts on a ${start} and has ${dim} days.`,
     },
     {
       q: `Which US holidays fall in ${name} ${year}?`,
       a: holLine,
     },
     {
-      q: `How do I download all the ${name} ${year} templates?`,
-      a: `On each ${name} ${year} Fresh Calendars page you’ll find Classic B&W, Modern Color, US Holidays, Notes Planner, Landscape Soft, and Monday-start — each with its own PNG/PDF on our CDN.`,
+      q: `Which designs does the ${name} ${year} calendar come in?`,
+      a: `Seven: Classic, Modern, Minimal, Floral, Landscape, Holidays and Planner. Each one has a Sunday or a Monday start, on US Letter or A4, as a PDF and a PNG.`,
     },
   ];
 
@@ -490,20 +418,20 @@ export function buildMonthlyFaq(
 export function buildYearlyFaq(year: number): FaqItem[] {
   return [
     {
-      q: `What is included in the ${year} yearly printable?`,
-      a: `Fresh Calendars ships a year-at-a-glance poster with all twelve ${year} mini-months, weekdays generated for the full span.`,
+      q: `What is on the ${year} yearly calendar?`,
+      a: `All twelve months of ${year} on one page, with the correct weekdays and US holidays tinted.`,
     },
     {
-      q: `How is the ${year} yearly page different from monthly pages?`,
-      a: `The yearly hub is the full ${year} overview; monthly Fresh Calendars pages add large-cell templates, holiday marks, and month-only editorial.`,
+      q: `How is the yearly calendar different from the month pages?`,
+      a: `The yearly calendar shows the whole of ${year} at once. A month page gives one month with large date boxes to write in.`,
     },
     {
-      q: `Can I print the ${year} calendar for free?`,
-      a: `Yes — Fresh Calendars yearly PNG/PDF packs for ${year} are free for personal printing.`,
+      q: `Is the ${year} calendar free to print?`,
+      a: `Yes. The PDF and PNG are free for personal and classroom use, with no sign-up.`,
     },
     {
-      q: `Do yearly downloads include US holidays?`,
-      a: `Mini-months tint federal dates for ${year}. For named in-cell labels, open a monthly holidays variant on Fresh Calendars.`,
+      q: `Does the ${year} yearly calendar show US holidays?`,
+      a: `Yes, as tinted dates. To see each holiday named, print a month in the Holidays design.`,
     },
   ];
 }
@@ -511,20 +439,20 @@ export function buildYearlyFaq(year: number): FaqItem[] {
 export function buildBlankFaq(): FaqItem[] {
   return [
     {
-      q: "What is a blank printable calendar?",
-      a: "An undated Fresh Calendars monthly grid with room to write. Pencil the month name and dates yourself — great for classrooms and bullet journals.",
+      q: "What is a blank calendar?",
+      a: "A month grid with the weekday names printed and the date boxes empty. You write in the month and the dates, so one print works for any month.",
     },
     {
-      q: "When should I use blank instead of dated months?",
-      a: "Pick blank to reuse one PDF all year or teach calendar skills. Pick dated Fresh Calendars months when weekdays and holidays must be correct.",
+      q: "When should I print a blank calendar instead of a month with dates?",
+      a: "Print a blank one to reuse the same sheet or to teach how a calendar works. Print a month page when you want the dates and holidays already in place.",
     },
     {
-      q: "Are blank calendars free?",
-      a: "Yes — blank Fresh Calendars PNG/PDF files are free to print for personal use.",
+      q: "Are the blank calendars free?",
+      a: "Yes. Every PDF and PNG is free for personal and classroom use, with no sign-up.",
     },
     {
-      q: "Does the blank template include holidays?",
-      a: "No — blanks stay undated on purpose. Switch to a dated holidays month when you need engine-calculated US federal days.",
+      q: "Do the blank calendars show holidays?",
+      a: "No. They have no dates, so there is nothing to mark. For holidays, print a month page in the Holidays design.",
     },
   ];
 }
