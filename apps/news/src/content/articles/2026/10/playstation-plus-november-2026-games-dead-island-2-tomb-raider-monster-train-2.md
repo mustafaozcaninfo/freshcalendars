@@ -3,7 +3,7 @@ title: "PS Plus November 2026 Games: Dead Island 2, Monster Train 2"
 description: "PlayStation Plus (PS Plus) November 2026 games are Dead Island 2, Tomb Raider IV–VI Remastered and Monster Train 2, playable Nov. 3-30. Printable calendar."
 type: news
 publishedAt: "2026-10-28T13:48:00-04:00"
-updatedAt: "2026-11-01T10:27:00-05:00"
+updatedAt: "2026-11-13T11:36:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["playstation plus november 2026 games", "ps plus november games list", "ps plus essential november 2026", "when do ps plus november games come out"]
@@ -43,7 +43,7 @@ summary:
   - "The PlayStation Blog said on Oct. 28, 2026 that Dead Island 2, Tomb Raider IV–VI Remastered and Monster Train 2 are the PS Plus Monthly Games for November."
   - "All three are playable from Tuesday, Nov. 3 to Monday, Nov. 30, 2026."
   - "The October games (F1 25, Hunt: Showdown 1896, Earth Defense Force: World Brothers 2) can be added until Monday, Nov. 2."
-  - "Sony has not given a time of day for any of these dates, and the November Game Catalog is not yet announced."
+  - "Sony has not given a time of day for any of these dates, and the November Game Catalog (Extra and Premium) starts Tuesday, Nov. 17, with more titles on Nov. 24."
 faq:
   - q: "When do the PS Plus November 2026 games come out?"
     a: "The PlayStation Blog says all three are available to play from Tuesday, Nov. 3 to Monday, Nov. 30, 2026. Sony has not given a time of day."
@@ -54,7 +54,7 @@ faq:
   - q: "When do the October PS Plus games leave?"
     a: "PlayStation Plus members have until Monday, Nov. 2 to add F1 25, Hunt: Showdown 1896 and Earth Defense Force: World Brothers 2 to their library, per the PlayStation Blog."
   - q: "What is in the November 2026 PS Plus Game Catalog?"
-    a: "It is not yet announced. The Game Catalog is part of the Extra and Premium tiers."
+    a: "The PlayStation Blog post of Nov. 10, 2026 lists Death Stranding 2: On the Beach, Atomfall and Dragon Quest III HD-2D Remake from Tuesday, Nov. 17, and Like a Dragon: Pirate Yakuza in Hawaii on Nov. 24 in the US, the UK and Japan. Sony has not given a time of day for Nov. 17."
 sources:
   - title: "PlayStation Plus Monthly Games for November: Dead Island 2, Tomb Raider IV – VI Remastered, Monster Train 2"
     url: "https://blog.playstation.com/2026/10/28/playstation-plus-monthly-games-for-november-dead-island-2-tomb-raider-iv-vi-remastered-monster-train-2/"
@@ -64,6 +64,14 @@ sources:
     url: "https://www.playstation.com/en-us/ps-plus/"
     publisher: "Sony Interactive Entertainment"
     date: "2026-10-28"
+  - title: "PlayStation Plus Game Catalog for November: Death Stranding 2: On the Beach, Like a Dragon: Pirate Yakuza in Hawaii, Atomfall, Dragon Quest III HD-2D Remake and more"
+    url: "https://blog.playstation.com/2026/11/10/playstation-plus-game-catalog-for-november-death-stranding-2-on-the-beach-like-a-dragon-pirate-yakuza-in-hawaii-atomfall-dragon-quest-iii-hd-2d-remake-and-more/"
+    publisher: "PlayStation Blog (Sony Interactive Entertainment)"
+    date: "2026-11-10"
+  - title: "PlayStation Store's Black Friday Deals 2026"
+    url: "https://blog.playstation.com/2026/11/03/playstations-black-friday-deals-2026/"
+    publisher: "PlayStation Blog (Sony Interactive Entertainment)"
+    date: "2026-11-03"
 downloads:
   - group: "PS Plus November 2026 Monthly Games Calendar printables"
     title: "PS Plus November 2026 Monthly Games Calendar"
@@ -94,7 +102,7 @@ draft: false
 
 **Sony announced on the PlayStation Blog on Wednesday, Oct. 28, 2026, that Dead Island 2, Tomb Raider IV–VI Remastered and Monster Train 2 are the PlayStation Plus (PS Plus) Monthly Games for November, playable from Tuesday, Nov. 3 to Monday, Nov. 30.** The blog post says all three are available to play across that window. The tables below add the dates around it, and a free printable calendar follows.
 
-<p class="callout"><b>Checked Oct. 28, 2026.</b> Sony has not given a time of day for the Nov. 3 start, the Nov. 30 end or the Nov. 2 cutoff for the October games. This story does not state one.</p>
+<p class="callout"><b>Checked Nov. 13, 2026.</b> Sony has not given a time of day for the Nov. 3 start, the Nov. 30 end, the Nov. 2 cutoff for the October games or the Nov. 17 Game Catalog start. This story does not state one.</p>
 
 ## Which games are the PS Plus November 2026 Monthly Games?
 
@@ -144,7 +152,24 @@ If you play on PS5, our [PS5 price and crossplay guide](/news/peak-ps5-price-cro
 
 ## What is in the November 2026 Game Catalog?
 
-Not yet announced. The Game Catalog belongs to the Extra and Premium tiers, and the blog post covers only the three Monthly Games. Black Friday PlayStation Store sale dates are also not announced; for store ad dates, see our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and [When is Black Friday?](/when-is/black-friday/).
+The PlayStation Blog posted the November Game Catalog on Nov. 10, 2026. The Game Catalog belongs to the Extra and Premium tiers, and the post says "The full lineup will be available to play from November 17, unless otherwise noted." It also says Game Catalog and Premium/Deluxe lineups may differ by region.
+
+| Game | Platforms | Available |
+|---|---|---|
+| Hell Let Loose | PS5 | Wed., Nov. 11 (US, UK); Nov. 12 (Japan) |
+| Death Stranding 2: On the Beach | PS5 | Tue., Nov. 17 |
+| Atomfall | PS5, PS4 | Tue., Nov. 17 |
+| Dragon Quest III HD-2D Remake | PS5 | Tue., Nov. 17 |
+| Like a Dragon: Pirate Yakuza in Hawaii | PS5, PS4 | Tue., Nov. 24 (US, UK, Japan) |
+| Trepang2 | PS5 | Tue., Nov. 24 (US, UK) |
+| MotoGP 26 | PS5 | Tue., Nov. 24 (US, UK) |
+| Cricket 26 – The Official Game of the Ashes | PS5, PS4 | Tue., Nov. 24 (US, UK) |
+
+Soul Reaver 2 and Freedom Wars Remastered (PS5, PS4) are added to PlayStation Plus Premium. The post names no titles leaving the catalog, and Sony has not given a time of day for Nov. 17.
+
+## When is the PlayStation Store Black Friday sale in November 2026?
+
+The PlayStation Blog post of Nov. 3, 2026 says the promotion began Wednesday, Nov. 4 at 12:00 a.m. Pacific Standard Time (PST), Greenwich Mean Time (GMT) and Japan Standard Time (JST), and runs through Monday, Nov. 30, ending 11:59 p.m. in those zones. New titles join on Monday, Nov. 16 at 12:00 a.m., and certain discounts end Friday, Nov. 20 at 11:59 p.m. Days of Play 2026 is not announced. For the full sale, see our [PlayStation Black Friday deals story](/news/playstation-black-friday-2026-ps-store-deals-november-4-30/); for store ad dates, see our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and [When is Black Friday?](/when-is/black-friday/).
 
 ## Print the PS Plus November 2026 calendar
 
