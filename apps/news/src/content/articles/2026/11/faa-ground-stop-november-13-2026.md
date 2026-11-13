@@ -3,6 +3,7 @@ title: "FAA Ground Stop Today: All U.S. Airports Held at 3:54 p.m. ET"
 description: "The Federal Aviation Administration (FAA) ground-stopped all U.S. airports at 3:54 p.m. ET Nov. 13, 2026. See the order's times by zone and the FAA map."
 type: news
 publishedAt: "2026-11-13T16:32:00-05:00"
+updatedAt: "2026-11-13T17:08:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["faa ground stop today", "nationwide ground stop", "faa ground stop map", "faa flight delays today", "when will flights resume"]
@@ -75,7 +76,19 @@ draft: false
 
 **The Federal Aviation Administration (FAA) ground-stopped all U.S. airports at 3:54 p.m. ET on Friday, Nov. 13, 2026.** Its National Ground Stop advisory, number 111, tells every aircraft operator that departing traffic should stay on the ground until further notice. NBC News and ABC News reported the order within minutes.
 
-The advisory is four sentences long. The times on it are in Coordinated Universal Time (UTC), which pilots call Zulu, so the table further down converts them for each U.S. time zone.
+The advisory is four sentences long. The times on it are in Coordinated Universal Time (UTC), which pilots call Zulu, so the tables further down convert them for each U.S. time zone and for all 50 states.
+
+## FAA ground stop live updates for Nov. 13
+
+Newest first. Times are ET and each entry says where it comes from.
+
+- **5:01 p.m.** The FAA status page no longer lists ground stops at Chicago O'Hare or Chicago Midway. It shows ground delay programs at Boston (26 minutes on average, volume), LaGuardia (45 minutes, wind), San Diego (34 minutes, volume) and San Francisco (138 minutes, wind). The FAA has posted no cancellation of the national order and no statement on its newsroom page.
+- **4:40 p.m.** The status page reads "No active airport events" and the advisory database returns no advisories for Nov. 13.
+- **4:21 p.m.** Advisory 117 goes to all centers: "Extended Flight Plan Drop Times Implemented."
+- **4:20 p.m.** Advisory 116 is sent with the title "Nation Wide Airborne Holding."
+- **3:54 p.m.** Advisory 111, the National Ground Stop, is sent.
+- **3:17 p.m.** Ground stop at Chicago Midway for an equipment outage.
+- **3:10 p.m.** Ground stop at Chicago O'Hare for an equipment outage, with the comment "comms issues."
 
 ## What the FAA ground stop advisory says
 
@@ -97,6 +110,66 @@ The advisory lists an event time of "13/2053 - 14/0400" and a send time of 20:54
 | Advisory expires | 04:30, Nov. 14 | 11:30 p.m. | 10:30 p.m. | 9:30 p.m. | 8:30 p.m. |
 
 Every local time in the table falls on Friday, Nov. 13. The 11 p.m. ET end is the window printed on the notice. It is not a promise that flights resume then: the text says "until further notice," and the FAA can cancel the stop earlier or extend it with a new advisory.
+
+## FAA ground stop by state: local time the order took effect
+
+The order names all airports, so it applies in every state and the District of Columbia. The table gives one major airport per state, the local time there when advisory 111 was sent, and the local time the window printed on the notice ends. All of it is Friday, Nov. 13.
+
+| State | Major airport | Order sent, local time | Window on the notice ends |
+|---|---|---|---|
+| Alabama | Birmingham-Shuttlesworth International (BHM) | 2:54 p.m. CST | 10 p.m. |
+| Alaska | Ted Stevens Anchorage International (ANC) | 11:54 a.m. AKST | 7 p.m. |
+| Arizona | Phoenix Sky Harbor International (PHX) | 1:54 p.m. MST | 9 p.m. |
+| Arkansas | Clinton National, Little Rock (LIT) | 2:54 p.m. CST | 10 p.m. |
+| California | Los Angeles International (LAX) | 12:54 p.m. PST | 8 p.m. |
+| Colorado | Denver International (DEN) | 1:54 p.m. MST | 9 p.m. |
+| Connecticut | Bradley International (BDL) | 3:54 p.m. EST | 11 p.m. |
+| Delaware | Wilmington Airport (ILG) | 3:54 p.m. EST | 11 p.m. |
+| District of Columbia | Ronald Reagan Washington National (DCA) | 3:54 p.m. EST | 11 p.m. |
+| Florida | Orlando International (MCO) | 3:54 p.m. EST | 11 p.m. |
+| Georgia | Hartsfield-Jackson Atlanta International (ATL) | 3:54 p.m. EST | 11 p.m. |
+| Hawaii | Daniel K. Inouye International, Honolulu (HNL) | 10:54 a.m. Hawaii time | 6 p.m. |
+| Idaho | Boise Airport (BOI) | 1:54 p.m. MST | 9 p.m. |
+| Illinois | Chicago O'Hare International (ORD) | 2:54 p.m. CST | 10 p.m. |
+| Indiana | Indianapolis International (IND) | 3:54 p.m. EST | 11 p.m. |
+| Iowa | Des Moines International (DSM) | 2:54 p.m. CST | 10 p.m. |
+| Kansas | Wichita Dwight D. Eisenhower National (ICT) | 2:54 p.m. CST | 10 p.m. |
+| Kentucky | Louisville Muhammad Ali International (SDF) | 3:54 p.m. EST | 11 p.m. |
+| Louisiana | Louis Armstrong New Orleans International (MSY) | 2:54 p.m. CST | 10 p.m. |
+| Maine | Portland International Jetport (PWM) | 3:54 p.m. EST | 11 p.m. |
+| Maryland | Baltimore/Washington International Thurgood Marshall (BWI) | 3:54 p.m. EST | 11 p.m. |
+| Massachusetts | Boston Logan International (BOS) | 3:54 p.m. EST | 11 p.m. |
+| Michigan | Detroit Metropolitan Wayne County (DTW) | 3:54 p.m. EST | 11 p.m. |
+| Minnesota | Minneapolis-St. Paul International (MSP) | 2:54 p.m. CST | 10 p.m. |
+| Mississippi | Jackson-Medgar Wiley Evers International (JAN) | 2:54 p.m. CST | 10 p.m. |
+| Missouri | St. Louis Lambert International (STL) | 2:54 p.m. CST | 10 p.m. |
+| Montana | Bozeman Yellowstone International (BZN) | 1:54 p.m. MST | 9 p.m. |
+| Nebraska | Eppley Airfield, Omaha (OMA) | 2:54 p.m. CST | 10 p.m. |
+| Nevada | Harry Reid International, Las Vegas (LAS) | 12:54 p.m. PST | 8 p.m. |
+| New Hampshire | Manchester-Boston Regional (MHT) | 3:54 p.m. EST | 11 p.m. |
+| New Jersey | Newark Liberty International (EWR) | 3:54 p.m. EST | 11 p.m. |
+| New Mexico | Albuquerque International Sunport (ABQ) | 1:54 p.m. MST | 9 p.m. |
+| New York | John F. Kennedy International (JFK) | 3:54 p.m. EST | 11 p.m. |
+| North Carolina | Charlotte Douglas International (CLT) | 3:54 p.m. EST | 11 p.m. |
+| North Dakota | Hector International, Fargo (FAR) | 2:54 p.m. CST | 10 p.m. |
+| Ohio | Cleveland Hopkins International (CLE) | 3:54 p.m. EST | 11 p.m. |
+| Oklahoma | Will Rogers International, Oklahoma City (OKC) | 2:54 p.m. CST | 10 p.m. |
+| Oregon | Portland International (PDX) | 12:54 p.m. PST | 8 p.m. |
+| Pennsylvania | Philadelphia International (PHL) | 3:54 p.m. EST | 11 p.m. |
+| Rhode Island | Rhode Island T.F. Green International (PVD) | 3:54 p.m. EST | 11 p.m. |
+| South Carolina | Charleston International (CHS) | 3:54 p.m. EST | 11 p.m. |
+| South Dakota | Sioux Falls Regional (FSD) | 2:54 p.m. CST | 10 p.m. |
+| Tennessee | Nashville International (BNA) | 2:54 p.m. CST | 10 p.m. |
+| Texas | Dallas Fort Worth International (DFW) | 2:54 p.m. CST | 10 p.m. |
+| Utah | Salt Lake City International (SLC) | 1:54 p.m. MST | 9 p.m. |
+| Vermont | Patrick Leahy Burlington International (BTV) | 3:54 p.m. EST | 11 p.m. |
+| Virginia | Washington Dulles International (IAD) | 3:54 p.m. EST | 11 p.m. |
+| Washington | Seattle-Tacoma International (SEA) | 12:54 p.m. PST | 8 p.m. |
+| West Virginia | West Virginia International Yeager, Charleston (CRW) | 3:54 p.m. EST | 11 p.m. |
+| Wisconsin | Milwaukee Mitchell International (MKE) | 2:54 p.m. CST | 10 p.m. |
+| Wyoming | Jackson Hole Airport (JAC) | 1:54 p.m. MST | 9 p.m. |
+
+States that span two time zones, such as Florida, Tennessee, Kentucky, Texas and Idaho, are shown at the time of the airport listed. Airports not named here are covered by the same order.
 
 ## Chicago O'Hare and Midway were stopped first
 
