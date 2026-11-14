@@ -62,7 +62,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [montgomery-county-public-schools-calendar-2026-27-breaks, prince-georges-county-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
+related: [montgomery-county-public-schools-calendar-2026-27-breaks, prince-georges-county-public-schools-calendar-2026-27-breaks, my-school-dc-lottery-2027-28-deadlines-february-1-march-1]
 assets:
   overlay: true
   kicker: "DCPS 2026-27"
