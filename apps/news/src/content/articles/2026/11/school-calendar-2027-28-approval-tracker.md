@@ -1,9 +1,9 @@
 ---
-title: "2027-28 School Calendar: Seven Districts Approved, Start Aug. 2-24"
-description: "As of Nov. 4, 2026, seven big districts have approved 2027-28 school calendars; first days run Aug. 2 to 24. Tracker by district, with a printable."
+title: "2027-28 School Calendar: Eight Districts Approved, Start Aug. 2-24"
+description: "As of Nov. 14, 2026, eight big districts have approved 2027-28 school calendars; first days run Aug. 2 to 24. Tracker by district, with a printable."
 type: news
 publishedAt: "2026-11-04T13:05:00-05:00"
-updatedAt: "2026-11-04T13:05:00-05:00"
+updatedAt: "2026-11-14T03:25:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["2027-28 school calendar", "school calendar 2027-2028 approved", "first day of school 2027", "2027-28 school year start date"]
@@ -18,19 +18,19 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:The_1916_Durango_High_School_Building,_as_of_this_writing_(in_2015)_the_city%27s_school_administration_building,_in_Durango,_Colorado_LCCN2015632607.tif"
     author: "Carol M. Highsmith"
 summary:
-  - "As of Nov. 4, 2026, Charlotte-Mecklenburg Schools (CMS), Hawaii, Katy, Northside, Fairfax County, Palm Beach County and Lee County have approved 2027-28 calendars with a first day we could read."
-  - "Among those seven, the first day runs from Monday, Aug. 2, 2027 in Hawaii to Tuesday, Aug. 24, 2027 in CMS."
+  - "As of Nov. 14, 2026, Charlotte-Mecklenburg Schools (CMS), Hawaii, Katy, Northside, Fairfax County, Palm Beach County, Lee County and Howard County (Md.) have approved 2027-28 calendars with a first day we could read."
+  - "Among those eight, the first day runs from Monday, Aug. 2, 2027 in Hawaii to Tuesday, Aug. 24, 2027 in CMS."
   - "Chicago, Orange County, Clark County and Columbus post 2027-28 calendars, but the documents we read do not say a board approved them."
   - "Houston, Dallas, Philadelphia, San Diego, Cypress-Fairbanks, Memphis-Shelby County and Wake County had nothing posted for 2027-28 when we checked."
 faq:
   - q: "Which large districts have approved a 2027-28 school calendar?"
-    a: "As of Nov. 4, 2026, Charlotte-Mecklenburg Schools, the Hawaii State Department of Education, Katy ISD, Northside ISD, Fairfax County Public Schools, Palm Beach County and Lee County have approved calendars with dates we read. Polk, Broward and Hillsborough counties say they approved theirs, but we did not read their dates."
+    a: "As of Nov. 14, 2026, Charlotte-Mecklenburg Schools, the Hawaii State Department of Education, Katy ISD, Northside ISD, Fairfax County Public Schools, Palm Beach County, Lee County and Howard County Public School System (Md.) have approved calendars with dates we read. Polk, Broward and Hillsborough counties say they approved theirs, but we did not read their dates."
   - q: "When is the first day of school in 2027?"
-    a: "It depends on the district. Among the approved calendars we read, Hawaii starts Monday, Aug. 2, 2027, Northside ISD Monday, Aug. 9, Palm Beach County and Lee County Tuesday, Aug. 10, Katy ISD Wednesday, Aug. 11, Fairfax County Monday, Aug. 23 and Charlotte-Mecklenburg Tuesday, Aug. 24."
+    a: "It depends on the district. Among the approved calendars we read, Hawaii starts Monday, Aug. 2, 2027, Northside ISD Monday, Aug. 9, Palm Beach County and Lee County Tuesday, Aug. 10, Katy ISD Wednesday, Aug. 11, Fairfax County and Howard County Monday, Aug. 23 and Charlotte-Mecklenburg Tuesday, Aug. 24."
   - q: "Are the posted but unapproved calendars final?"
     a: "The Chicago, Orange County, Clark County and Columbus documents we read do not say a board approved them, and the Clark County calendar is marked \"Subject to change\". Treat their dates as posted, not confirmed."
   - q: "Why are some districts not listed with dates?"
-    a: "Nothing was posted for 2027-28 on the calendar pages of Houston, Dallas, Philadelphia, San Diego, Cypress-Fairbanks, Memphis-Shelby County and Wake County on Nov. 4, 2026. Another 12 districts refused automated access, so we list them as not confirmed."
+    a: "Nothing was posted for 2027-28 on the calendar pages of Houston, Dallas, Philadelphia, San Diego, Cypress-Fairbanks, Memphis-Shelby County and Wake County on Nov. 14, 2026. Another 12 districts refused automated access, so we list them as not confirmed."
 sources:
   - title: "2027-2028 CMS Traditional Calendar (PDF), approved by the Board of Education on April 14, 2026"
     url: "https://resources.finalsite.net/images/v1787851442/cmsk12ncus/g3fyb1hpvgti5z1ys3f1/CMSTraditionalCalendar27-28.pdf"
@@ -79,6 +79,10 @@ sources:
   - title: "27-28 CCS Traditional Calendar (PDF)"
     url: "https://resources.finalsite.net/images/v1791394814/ccsohus/zwqfj5cltgukc5mxow06/2027-2028CCSTraditionalCalendar.pdf"
     publisher: "Columbus City Schools"
+  - title: "Board of Education Approves 2027-2028 Academic Calendar"
+    url: "https://news.hcpss.org/news-posts/2026/09/board-of-education-approves-2027-2028-academic-calendar/"
+    publisher: "Howard County Public School System"
+    date: "2026-09-25"
   - title: "2027 - 2028 Instructional Calendar (PDF), board approved 11/04/2025"
     url: "https://www.leeschools.net/common/pages/GetFile.ashx?key=OllyDber"
     publisher: "The School District of Lee County"
@@ -86,27 +90,27 @@ sources:
   - title: "District Calendar"
     url: "https://www.houstonisd.org/our-district/district-calendar"
     publisher: "Houston Independent School District"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "District Calendar"
     url: "https://www.dallasisd.org/calendar"
     publisher: "Dallas Independent School District"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Academic Calendar"
     url: "https://www.philasd.org/calendar/"
     publisher: "School District of Philadelphia"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Academic Calendars"
     url: "https://www.sandiegounified.org/academics/academic_calendars"
     publisher: "San Diego Unified School District"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Student calendars"
     url: "https://www.scsk12.org/calendar25/"
     publisher: "Memphis-Shelby County Schools"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Calendars"
     url: "https://www.wcpss.net/calendars"
     publisher: "Wake County Public School System"
-    date: "2026-11-04"
+    date: "2026-11-14"
 internalLinks:
   - href: "/printable-school-calendar.html"
     label: "Printable school-year calendar"
@@ -123,7 +127,7 @@ assets:
     slug: school-calendar-2027-28-approval-tracker
     group: school-calendar-2027-28
     title: "2027-28 School Calendars: Approval Tracker"
-    subtitle: "Large districts with a 2027-28 calendar posted, as of Nov. 4, 2026"
+    subtitle: "Large districts with a 2027-28 calendar posted, as of Nov. 14, 2026"
     landscape: true
     data:
       columns:
@@ -148,7 +152,10 @@ assets:
           quote: "Aug. 10, 2026 and Aug. 9, 2027; May 26, 2027 and May 25, 2028"
         - cells: { district: "Fairfax County (FCPS)", status: "Adopted July 9, 2026", first: "Mon., Aug. 23, 2027", last: "Wed., June 14, 2028", breaks: "Two-week winter, one-week spring" }
           src: "https://content.govdelivery.com/accounts/VAEDUFCPS/bulletins/41ff9e7"
-          quote: "The 2027-28 school year will begin on August 23, 2027 and end on June 14, 2028"
+          quote: "The 2027-28 school year will begin on August 23, 2027, and conclude on June 14, 2028"
+        - cells: { district: "Howard County (Md.)", status: "Approved Sept. 24, 2026", first: "Mon., Aug. 23, 2027", last: "Tue., June 6, 2028", breaks: "Winter Dec. 24-31; spring Apr. 13-18" }
+          src: "https://news.hcpss.org/news-posts/2026/09/board-of-education-approves-2027-2028-academic-calendar/"
+          quote: "The first day for students is Monday, Aug. 23, 2027.; The last day of school for students is scheduled for Tuesday, June 6, 2028.; Schools will be closed for students for winter break from Dec. 24-31, 2027.; Spring break will be from April 13-18, 2028."
         - cells: { district: "Palm Beach County", status: "Approved Aug. 12, 2026", first: "Tue., Aug. 10, 2027", last: "Not labeled", breaks: "Not labeled" }
           src: "https://resources.finalsite.net/images/v1789744496/palmbeachschoolsorg/ynlc0tbq3ehjths0ckpv/FY28_SchoolCalendar.pdf"
           quote: "School Board Approved 8/12/2026; Tuesday, August 10 First Day of School for Students"
@@ -165,16 +172,16 @@ assets:
           src: "https://resources.finalsite.net/images/v1791394814/ccsohus/zwqfj5cltgukc5mxow06/2027-2028CCSTraditionalCalendar.pdf"
           quote: "Aug. 19 First Day of School for Grades 1-12; Dec. 20-31 All Schools Closed - Winter Break; Apr. 14-21 All Schools Closed - Spring Break; May 25 Last Day for Students"
       unconfirmed:
-        - { label: "Houston, Dallas, Philadelphia, San Diego, Cypress-Fairbanks, Memphis-Shelby County, Wake County", why: "Nothing posted for 2027-28 on Nov. 4, 2026" }
+        - { label: "Houston, Dallas, Philadelphia, San Diego, Cypress-Fairbanks, Memphis-Shelby County, Wake County", why: "Nothing posted for 2027-28 on Nov. 14, 2026" }
       note:
         - "Weekdays are computed. Posted calendars may change; check your district."
-    note: "Source: each district's 2027-28 calendar or board release, checked Nov. 4, 2026; see the story at freshcalendars.com/news."
-    description: "One-page tracker of 2027-28 school calendars from large districts: approval status, first day, last day and breaks, as of Nov. 4, 2026."
+    note: "Source: each district's 2027-28 calendar or board release, checked Nov. 14, 2026; see the story at freshcalendars.com/news."
+    description: "One-page tracker of 2027-28 school calendars from large districts: approval status, first day, last day and breaks, as of Nov. 14, 2026."
     alt: "Printable table of 2027-28 school calendars by district with first day, last day and breaks"
 downloads:
   - group: "2027-28 School Calendars printables"
     title: "2027-28 School Calendars: Approval Tracker"
-    description: "One-page tracker of 2027-28 school calendars from large districts: approval status, first day, last day and breaks, as of Nov. 4, 2026."
+    description: "One-page tracker of 2027-28 school calendars from large districts: approval status, first day, last day and breaks, as of Nov. 14, 2026."
     preview: ../../../../assets/news/school-calendar-2027-28/school-calendar-2027-28-approval-tracker.png
     alt: "Printable table of 2027-28 school calendars by district with first day, last day and breaks"
     pdf: "/news/downloads/school-calendar-2027-28/school-calendar-2027-28-approval-tracker.pdf"
@@ -183,7 +190,7 @@ downloads:
 draft: false
 ---
 
-**As of Nov. 4, 2026, seven large U.S. school districts have an approved 2027-28 calendar with a first day we could read, and the earliest is Monday, Aug. 2, 2027 in Hawaii, according to the Hawaii State Department of Education (HIDOE).** The latest of the seven is Tuesday, Aug. 24, 2027 at Charlotte-Mecklenburg Schools (CMS), whose Board of Education approved its calendar on April 14, 2026. This is a tracker: we update it as boards vote and districts post.
+**As of Nov. 14, 2026, eight large U.S. school districts have an approved 2027-28 calendar with a first day we could read, and the earliest is Monday, Aug. 2, 2027 in Hawaii, according to the Hawaii State Department of Education (HIDOE).** The latest of the eight is Tuesday, Aug. 24, 2027 at Charlotte-Mecklenburg Schools (CMS), whose Board of Education approved its calendar on April 14, 2026. This is a tracker: we update it as boards vote and districts post.
 
 ## 2027-28 school calendar tracker by district
 
@@ -197,7 +204,8 @@ The table is sorted by status: approved, posted, nothing posted, not confirmed. 
 | Northside ISD (San Antonio) | Approved | Board news Dec. 9, 2025 | Mon., Aug. 9, 2027 | Thu., May 25, 2028 | Not read | Not read |
 | Fairfax County Public Schools (FCPS) | Approved | July 9, 2026 | Mon., Aug. 23, 2027 | Wed., June 14, 2028 | Two weeks, dates not read | One week, dates not read |
 | Palm Beach County | Approved | Aug. 12, 2026 | Tue., Aug. 10, 2027 | Not labeled | Not labeled | Not labeled |
-| Lee County (Fort Myers, Fla.) | Approved | Nov. 4, 2025 | Tue., Aug. 10, 2027 | Tue., May 30, 2028 | Not read | Not read |
+| Lee County (Fort Myers, Fla.) | Approved | Nov. 4, 2025 | Tue., Aug. 10, 2027 | Tue., May 30, 2028 | Dec. 20-31, 2027 | Mar. 13-17, 2028 |
+| Howard County Public School System (Md.) | Approved | Sept. 24, 2026 | Mon., Aug. 23, 2027 | Tue., June 6, 2028 | Dec. 24-31, 2027 | Apr. 13-18, 2028 |
 | Polk County (Fla.) | Approved | Feb. 24, 2026 | Not read | Not read | Not read | Not read |
 | Broward County Public Schools (BCPS) | Approved | Board release Dec. 18, 2025 | Not confirmed | Not confirmed | Not confirmed | Not confirmed |
 | Hillsborough County (Fla.) | Approved | Vote date not read | Not read | Not read | Not read | Not read |
@@ -218,7 +226,9 @@ Hawaii's 2027-2028 official school calendar reads "Approved May 15, 2025", with 
 
 Katy ISD's board release of Jan. 20, 2026 gives the first day as Aug. 11, 2027 and the last day as May 24, 2028, with fall break Oct. 8-12, 2027 and spring break March 13-17, 2028. Northside ISD's board approved the 2026-27 and 2027-28 calendars together, with first days of Aug. 10, 2026 and Aug. 9, 2027 and last days of May 26, 2027 and May 25, 2028.
 
-Fairfax County Public Schools said in a bulletin sent July 13, 2026: "The 2027-28 school year will begin on August 23, 2027." The last day is June 14, 2028, with a two-week winter break and a one-week spring break. FFXnow reported July 15, 2026 that the board adopted the calendar July 9. Palm Beach County's PDF is stamped "School Board Approved 8/12/2026" and shows Tuesday, Aug. 10, 2027 as the first day. The School District of Lee County's 2027-28 PDF, marked as board approved 11/04/2025, starts students Tuesday, Aug. 10, 2027 and ends Tuesday, May 30, 2028 with an early dismissal, as our [Lee County story](/news/lee-county-schools-calendar-2026-27-breaks/) notes.
+Howard County Public School System said Sept. 25, 2026 that its Board of Education approved the calendar at a Sept. 24, 2026 meeting: "The first day for students is Monday, Aug. 23, 2027." The last day is "Tuesday, June 6, 2028", winter break is "Dec. 24-31, 2027" and spring break "April 13-18, 2028".
+
+Fairfax County Public Schools said in a bulletin sent July 13, 2026: "The 2027-28 school year will begin on August 23, 2027, and conclude on June 14, 2028." The bulletin gives a two-week winter break and a one-week spring break. FFXnow reported July 15, 2026 that the board adopted the calendar July 9. Palm Beach County's PDF is stamped "School Board Approved 8/12/2026" and shows Tuesday, Aug. 10, 2027 as the first day. The School District of Lee County's 2027-28 PDF, marked as board approved 11/04/2025, starts students Tuesday, Aug. 10, 2027 and ends Tuesday, May 30, 2028 with an early dismissal, with winter break "Dec 20 – 31" and spring break "Mar 13 – 17", as our [Lee County story](/news/lee-county-schools-calendar-2026-27-breaks/) notes.
 
 ## Approved calendars where we did not read the dates
 
@@ -252,7 +262,7 @@ The weekday shift is a calendar fact: a date lands one weekday later each year. 
 
 ## Which districts have nothing posted for 2027-28?
 
-On Nov. 4, 2026, the calendar pages of Houston Independent School District, Dallas Independent School District, the School District of Philadelphia, San Diego Unified, Cypress-Fairbanks ISD, Memphis-Shelby County Schools and the Wake County Public School System (WCPSS) showed nothing for 2027-28. We could not check NYC, Los Angeles Unified School District (LAUSD), Miami-Dade, Gwinnett, Montgomery County in Maryland, Prince George's, Duval, Austin, Denver, Cobb, Baltimore County or Fort Worth, because their sites refused automated access or could not be read. They are listed as not confirmed.
+On Nov. 14, 2026, the calendar pages of Houston Independent School District, Dallas Independent School District, the School District of Philadelphia, San Diego Unified, Cypress-Fairbanks ISD, Memphis-Shelby County Schools and the Wake County Public School System (WCPSS) showed nothing for 2027-28. We could not check NYC, Los Angeles Unified School District (LAUSD), Miami-Dade, Gwinnett, Montgomery County in Maryland, Prince George's, Duval, Austin, Denver, Cobb, Baltimore County or Fort Worth, because their sites refused automated access or could not be read. They are listed as not confirmed.
 
 ## Print the 2027-28 tracker
 

@@ -3,7 +3,7 @@ title: "Christmas Tree Lighting 2026: National Dec. 3, Rockefeller Dec. 2"
 description: "Christmas tree lighting 2026 is Dec. 3 for the National Tree and Boston Common; Rockefeller Center is reported for Dec. 2. A table covers tickets and cost."
 type: news
 publishedAt: "2026-11-03T06:48:00-05:00"
-updatedAt: "2026-11-14T01:40:00-05:00"
+updatedAt: "2026-11-14T03:25:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["christmas tree lighting 2026", "tree lighting 2026 near me", "rockefeller tree lighting 2026 date", "boston common tree lighting 2026"]
@@ -28,7 +28,7 @@ faq:
   - q: "When is the Rockefeller Center tree lighting in 2026?"
     a: "amNY and NY1 both reported on Oct. 26, 2026 that the ceremony is on Wednesday, Dec. 2, during NBC's Christmas in Rockefeller Center. amNY and TV Insider list the broadcast at 7 p.m. ET. The official site was not readable when we checked."
   - q: "How do I get tickets to the National Christmas Tree lighting in 2026?"
-    a: "Enter the free lottery on Recreation.gov. The lottery closed at 3 p.m. ET on Wednesday, Nov. 4, 2026. The National Park Service set Thursday, Nov. 12 for notifying winners, and each winner can get up to five tickets. Entry is closed, so check your email for a result."
+    a: "Enter the free lottery on Recreation.gov. The lottery closed at 3 p.m. ET on Wednesday, Nov. 4, 2026. The National Park Service said it would notify winners on Thursday, Nov. 12, and each winner can get up to five tickets. Entry is closed."
   - q: "Is the Boston Common tree lighting free in 2026?"
     a: "Yes. The City of Boston lists the Dec. 3, 2026 event, 6 p.m. to 8 p.m. at 139 Tremont Street, as free."
   - q: "When is the Chicago Christmas tree lighting in 2026?"
@@ -136,7 +136,7 @@ This story puts the confirmed dates in one table, shows how to attend each in pe
 | City and tree | Date | Local time | Cost and tickets | How to see it in person | Source |
 |---|---|---|---|---|---|
 | New York, Rockefeller Center (reported) | Wed., Dec. 2 | 7 p.m. ET broadcast (reported) | Not said in our sources | Tree on display through Jan. 9, 2027, seen from the Plaza or The Rink | amNY, NY1, TV Insider |
-| Washington, D.C., National Christmas Tree | Thu., Dec. 3 | Start time not announced | Free; no charge to enter the lottery or receive tickets | Lottery on Recreation.gov closed 3 p.m. ET Wed., Nov. 4; winners to be notified Thu., Nov. 12 | NPS (Oct. 19, 2026) |
+| Washington, D.C., National Christmas Tree | Thu., Dec. 3 | Start time not announced | Free; no charge to enter the lottery or receive tickets | Lottery on Recreation.gov closed 3 p.m. ET Wed., Nov. 4; NPS said winners would be notified Thu., Nov. 12 | NPS (Oct. 19, 2026) |
 | Boston Common | Thu., Dec. 3 | 6 p.m. to 8 p.m. ET | Free | Free event at 139 Tremont Street | City of Boston |
 | Boston, Copley Square | Mon., Nov. 30 | 5 p.m. to 6 p.m. ET | Free | Free event at 560 Boylston Street | City of Boston |
 | Chicago, Millennium Park | Fri., Nov. 20 | Festivities 4 p.m.; ceremony 6 p.m.; lighting about 6:30 p.m. | Not said in our sources | Millennium Park | City of Chicago |
@@ -153,17 +153,17 @@ Both say the tree is a Norway spruce from West Edmeston, New York. amNY gives it
 
 ## How do you get tickets to the National Christmas Tree lighting?
 
-The NPS says the ceremony takes place Dec. 3 on the Ellipse in Washington, D.C. Tickets came from a lottery on Recreation.gov that opened at 10 a.m. ET on Wednesday, Oct. 28 and closed at 3 p.m. ET on Wednesday, Nov. 4, 2026. There is no charge to receive tickets, and each winner can get up to five. The NPS set Thursday, Nov. 12 for notifying winners, so the lottery is over and the tickets are not on sale.
+The NPS says the ceremony takes place Dec. 3 on the Ellipse in Washington, D.C. Tickets came from a lottery on Recreation.gov that opened at 10 a.m. ET on Wednesday, Oct. 28 and closed at 3 p.m. ET on Wednesday, Nov. 4, 2026. There is no charge to receive tickets, and each winner can get up to five. The NPS said it would notify winners on Thursday, Nov. 12, and the lottery is over, so the tickets are not on sale.
 
 The NPS release does not give a start time, and we found none elsewhere. The National Park Foundation's thenationaltree.org says the ceremony premieres nationwide on Saturday, Dec. 5 on the foundation's YouTube channel and will air on other national and local media channels. The page gives public visiting from Dec. 5 in one place and from Dec. 7 in another, running through Jan. 1, 2027, so check it before you go.
 
 ## When is the Boston Common tree lighting in 2026?
 
-The City of Boston lists the Boston Common Tree Lighting for Dec. 3, 2026, 6 p.m. to 8 p.m., at 139 Tremont Street, and calls it free. The tree is a gift from the Province of Nova Scotia; the city says 2026 marks the 55th year Nova Scotia has given Boston a tree in thanks for relief efforts. Mayor Michelle Wu hosts with Nova Scotia Premier Tim Houston. At about 8:15 p.m., right after the Common ceremony, the lights on the Commonwealth Avenue Mall are switched on. The 2026 TV broadcast and the tree's arrival date are not yet announced.
+The City of Boston lists the Boston Common Tree Lighting for Dec. 3, 2026, 6 p.m. to 8 p.m., at 139 Tremont Street, and calls it free. The tree is a gift from the Province of Nova Scotia; the city says 2026 marks the 55th year Nova Scotia has given Boston a tree in thanks for relief efforts. Mayor Michelle Wu hosts with Nova Scotia Premier Tim Houston. At about 8:15 p.m., right after the Common ceremony, the lights on the Commonwealth Avenue Mall are switched on. The city says the arrival of the tree, a 46-foot white spruce, will be celebrated on Boston Common at approximately 11 a.m. on Tuesday, Nov. 24. The 2026 TV broadcast is not yet announced.
 
 For comparison, in 2025 the Parks Department said the lighting was Thursday, Dec. 4, 6 to 8 p.m., with a Channel 5 broadcast from 7 p.m. Treat that as last year's schedule until the city posts a 2026 broadcast.
 
-Copley Square has its own event on Monday, Nov. 30, 2026, 5 p.m. to 6 p.m. at 560 Boylston Street, also free. The city lists music from vocalist Joelle James, the Boston Children's Chorus and Symphonic of Emerson College, visits from Santa Claus and Rudolph, and the grand reopening of Copley Square Park.
+Copley Square has its own event on Monday, Nov. 30, 2026, 5 p.m. to 6 p.m. at 560 Boylston Street, also free. The city lists musical performances by vocalist Julia Chisholm, the Boston Children's Chorus and Rey Royale, visits from Santa Claus and Rudolph, and the grand reopening of Copley Square Park.
 
 ## When is the Capitol Christmas Tree lighting in 2026?
 
