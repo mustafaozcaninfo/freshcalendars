@@ -127,7 +127,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [national-days-this-week-november-30-december-6-2026, national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff, human-rights-day-2026-december-10]
+related: [national-days-this-week-december-14-20-2026, national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff, human-rights-day-2026-december-10]
 downloads:
   - group: "National Days Week Planner printables"
     title: "National Days Week Planner, Dec. 7-13, 2026"

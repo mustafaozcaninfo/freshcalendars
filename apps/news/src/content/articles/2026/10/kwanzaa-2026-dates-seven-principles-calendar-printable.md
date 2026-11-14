@@ -66,7 +66,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [hanukkah-2026-dates-calendar, christmas-2026-calendar-printable-countdown]
+related: [hanukkah-2026-dates-calendar, christmas-2026-calendar-printable-countdown, national-days-this-week-december-21-27-2026]
 downloads:
   - group: "Kwanzaa 2026 Seven-Day Calendar printables"
     title: "Kwanzaa 2026 Seven-Day Calendar"
