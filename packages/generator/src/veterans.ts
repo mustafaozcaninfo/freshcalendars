@@ -227,6 +227,20 @@ export const DEALS_2026: Deal[] = [
   ["Viva Chicken", "Free entrée w/ a guest entrée", []],
   ["Yogurtland", "15% off", []],
 ];
+/** Offers that outlast the day, from the story's "Deals you can still use after Nov. 11" table: [ends, brand, what to do]. */
+const STILL_VALID: [string, string, string][] = [
+  ["Nov. 15", "Kura Sushi", "20% off with a valid ID"],
+  ["Nov. 18", "Cattlemens", "California: emailed certificate, dine-in"],
+  ["Nov. 25", "Freddy's", "Redeem the combo meal card"],
+  ["Nov. 25", "Hoss's Steak &amp; Sea House", "$10 off a $40 check"],
+  ["Nov. 30", "Eat'n Park", "10% off the dine-in check"],
+  ["Nov. 30", "Twin Peaks", "20% off with military ID"],
+  ["Dec. 4", "Great Clips", "Redeem the free haircut card"],
+  ["Dec. 6", "Hof's Hut, Lucille's Smokehouse", "Redeem the $10 card"],
+  ["Dec. 24", "Aspen Creek Grill", "Redeem the $15 voucher"],
+  ["Dec. 31", "BJ's Restaurant &amp; Brewhouse", "Free appetizer coupon"],
+  ["May 31, 2027", "Texas Roadhouse", "Redeem the meal voucher"],
+];
 /** Free meals per page (two columns); the list runs over pages 1 and 2 since the Nov. 11 Military.com list. */
 const PER_PAGE = Math.ceil(CONFIRMED_2026.length / 2);
 const TAG: Record<string, string> = { D: "Dine-in", ID: "ID", F: "Family", T: "Hours", L: "Later" };
@@ -274,7 +288,7 @@ function cheatSheet(fonts: string): string {
   const page2 = freePage(second, span(second));
   const page3 = `<section class="page vd">${header("Veterans Day Deals and Wallet Card, 2026")}
     <div class="cols"><div>${tbl(`Discounts and deals for 2026 (${DEALS_2026.length})`, DEALS_2026, true).replace("<h2>", '<h2 class="c">')}</div>
-      <div><div class="side"><b>Also on Nov. 11, 2026</b><ul><li>National parks: free entrance for U.S. citizens and residents</li><li>Free Military Lifetime Pass for veterans, year-round</li><li>Closed: federal offices, banks, post offices · Open: stock markets</li><li>Great Clips and Sport Clips: free or discounted haircut</li><li>Grace For Vets: free car wash at participating washes</li><li>Year-round: Home Depot and Lowe's take 10% off</li></ul></div></div></div>
+      <div><div class="side"><b>Also on Nov. 11, 2026</b><ul><li>National parks: free entrance for U.S. citizens and residents</li><li>Free Military Lifetime Pass for veterans, year-round</li><li>Closed: federal offices, banks, post offices · Open: stock markets</li><li>Great Clips and Sport Clips: free or discounted haircut</li><li>Grace For Vets: free car wash at participating washes</li><li>Year-round: Home Depot and Lowe's take 10% off</li></ul></div><div class="side"><b>Still valid after Nov. 11</b><table><tbody>${STILL_VALID.map(([e, br, w]) => `<tr><td class="b">${e}</td><td><strong>${br}</strong>: ${w}</td></tr>`).join("")}</tbody></table><p style="margin:3px 0 0">Each date is the last day, in 2026 unless a year is given. Vouchers and cards were handed out on Nov. 11.</p></div></div></div>
     <div class="cut"><div><b><svg width="13" height="11" viewBox="0 0 13 11" fill="none" stroke="#b91c1c" stroke-width="1.5" style="vertical-align:-1px;margin-right:4px"><circle cx="2.6" cy="2.6" r="1.9"/><circle cx="2.6" cy="8.4" r="1.9"/><path d="M4.2 3.6 12.4 9.4M4.2 7.4 12.4 1.6"/></svg>Wallet card: bring one of these</b><ol><li>Veteran ID Card (VA) or Veteran Health Identification Card</li><li>Military ID: Common Access Card or Uniformed Services ID</li><li>Driver's license or state ID with a veteran designation</li><li>DD-214 (a copy or a photo on your phone)</li></ol></div><div><b>Before you go</b>Most offers are for the veteran only, not guests; drinks, tax and tip are usually extra; many are dine-in only and limited to Nov. 11. Wear the uniform only where the offer says it counts.</div></div>
     <p class="note">Source: Military.com list updated Nov. 11, 2026; the Department of Veterans Affairs; the American Legion; and brand pages (Little Caesars, Shake Shack, Chipotle, Dave &amp; Buster's, Red Robin, Pilot, Freddy's, Bob Evans, Great Clips). Green boxes: announced for 2026. Park, VA and store terms as published.</p>
     ${foot}</section>`;
