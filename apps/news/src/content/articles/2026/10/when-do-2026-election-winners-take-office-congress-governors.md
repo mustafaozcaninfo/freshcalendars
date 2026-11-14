@@ -66,7 +66,7 @@ sources:
   - title: "Texas Governor and Lieutenant Governor Inauguration Date"
     url: "https://ballotpedia.org/Texas_Governor_and_Lieutenant_Governor_Inauguration_Date_Amendment_(2015)"
     publisher: "Ballotpedia"
-  - title: "ORS 176.010: Commencement of term; inauguration (2025 edition)"
+  - title: "Oregon Revised Statutes 176.010: Commencement of term; inauguration (2025 edition)"
     url: "https://www.oregonlegislature.gov/bills_laws/ors/ors176.html"
     publisher: "Oregon Legislature"
     date: "2026-11-14"
@@ -193,7 +193,7 @@ For four of the 36 states we could not confirm the 2027 term-start date on an of
 
 - **Arkansas:** not confirmed on an official source; check the state.
 - **Georgia:** the governor is sworn in before a joint session of the General Assembly, which convenes on the second Monday of January, Jan. 11, 2027; the inauguration day is set each cycle.
-- **Oregon:** state law ties the start to an event, not a date. The governor's term begins when the Speaker of the House publishes the election returns (Oregon Revised Statutes, ORS, 176.010), and the governor is inaugurated by taking the oath. We found no calendar date on an official source; check the state.
+- **Oregon:** state law ties the start to an event, not a date. The governor's term begins when the Speaker of the House publishes the election returns (Oregon Revised Statutes 176.010), and the governor is inaugurated by taking the oath. We found no calendar date on an official source; check the state.
 - **Vermont:** the constitution does not fix a calendar date; check the state.
 
 ## What about the Senate special elections?
