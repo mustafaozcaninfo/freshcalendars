@@ -3,6 +3,7 @@ title: "Thursday Night Football: Jaguars at Ravens, Nov. 5, 8:15 p.m. ET"
 description: "Thursday Night Football: Jaguars at Ravens on Nov. 5, 2026, kicked off at 8:15 p.m. ET on Prime Video. Every U.S. zone and UK time, plus a printable."
 type: news
 publishedAt: "2026-11-05T12:09:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Thursday Night Football tonight", "Jaguars vs Ravens time channel", "Jaguars vs Ravens live stream", "TNF schedule 2026", "what channel is Thursday Night Football"]
@@ -34,8 +35,8 @@ assets:
           quote: "Week 9—Thursday, November 5: Jacksonville Jaguars at Baltimore Ravens. Games kick off at 8:15 p.m. ET."
 hero:
   src: ../../../../assets/news/thursday-night-football-tonight-jaguars-ravens-tnf-schedule-2026/thursday-night-football-tonight-jaguars-ravens-tnf-schedule-2026.webp
-  alt: "Thursday Night Football venue: the M&T Bank Stadium entrance in Baltimore lit at dusk, where the Jaguars play the Ravens on Nov. 5, 2026"
-  caption: "M&T Bank Stadium in Baltimore, home of the Ravens, who host the Jacksonville Jaguars on Thursday Night Football on Nov. 5, 2026. File photo."
+  alt: "Thursday Night Football venue: the M&T Bank Stadium entrance in Baltimore lit at dusk, where the Jaguars played the Ravens on Nov. 5, 2026"
+  caption: "M&T Bank Stadium in Baltimore, home of the Ravens, who hosted the Jacksonville Jaguars on Thursday Night Football on Nov. 5, 2026. File photo."
   credit: "Photo: Matthew Binebrink / Wikimedia Commons, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -44,29 +45,35 @@ hero:
     author: "Matthew Binebrink"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Mbinebri"
 summary:
-  - "The Jacksonville Jaguars play at the Baltimore Ravens tonight, Thu., Nov. 5, 2026, at 8:15 p.m. Eastern Time (ET) on Prime Video, per Amazon, NFL.com and the Ravens."
-  - "Kickoff is 7:15 p.m. Central, 6:15 p.m. Mountain, 5:15 p.m. Pacific and 1:15 a.m. Friday in the United Kingdom; the table has the conversions."
-  - "NFL.com standings show the Jaguars at 5-2 and the Ravens at 4-4 after Week 8; the game is at M&T Bank Stadium in Baltimore."
-  - "Week 9 continues Sunday, Nov. 8, and ends Monday, Nov. 9, with Bills at Vikings at 8:15 p.m. ET on ESPN."
+  - "The Jacksonville Jaguars beat the Baltimore Ravens 33-10 on Thu., Nov. 5, 2026, the Jaguars say; kickoff was at 8:15 p.m. Eastern Time (ET) on Prime Video, per Amazon, NFL.com and the Ravens."
+  - "Kickoff was 7:15 p.m. Central, 6:15 p.m. Mountain, 5:15 p.m. Pacific and 1:15 a.m. Friday in the United Kingdom; the table has the conversions."
+  - "NFL.com standings showed the Jaguars at 5-2 and the Ravens at 4-4 after Week 8; the game was at M&T Bank Stadium in Baltimore."
+  - "The next Thursday Night Football game is Week 11, Colts at Texans on Thu., Nov. 19, at 8:15 p.m. ET on Prime Video, per Amazon."
 faq:
-  - q: "What time is Jaguars vs Ravens tonight?"
-    a: "8:15 p.m. ET on Thu., Nov. 5, 2026, per Amazon, NFL.com and the Ravens. That is 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific. Amazon says its pregame show, TNF Tonight, starts at 7 p.m. ET."
-  - q: "What channel is Jaguars vs Ravens on?"
-    a: "Prime Video. NFL.com and the Ravens both list the game on Prime Video. Amazon says the games also stream on Amazon.com, in the NFL+ apps and on Twitch, with a Spanish-language version on Prime Video."
-  - q: "Can I watch Jaguars vs Ravens on local TV?"
-    a: "Amazon says Thursday Night Football games air over the air in the two teams' home markets. We have not confirmed the local station names for this game, so check the Ravens and Jaguars websites."
-  - q: "What radio station has the Ravens game?"
-    a: "The Ravens list 98 Rock (97.9 FM) and a 1090 AM station as their radio stations for the game."
+  - q: "Who won Jaguars vs Ravens on Thursday Night Football?"
+    a: "The Jaguars won 33-10 at M&T Bank Stadium on Thu., Nov. 5, 2026, according to the Jaguars' game coverage."
+  - q: "What time was Jaguars vs Ravens?"
+    a: "8:15 p.m. ET on Thu., Nov. 5, 2026, per Amazon, NFL.com and the Ravens. That was 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific. Amazon said its pregame show, TNF Tonight, started at 7 p.m. ET."
+  - q: "What channel was Jaguars vs Ravens on?"
+    a: "Prime Video. NFL.com and the Ravens both listed the game on Prime Video. Amazon says the games also stream on Amazon.com, in the NFL+ apps and on Twitch, with a Spanish-language version on Prime Video."
+  - q: "Was Jaguars vs Ravens on local TV?"
+    a: "Amazon says Thursday Night Football games air over the air in the two teams' home markets. We did not confirm the local station names for this game."
+  - q: "What radio station had the Ravens game?"
+    a: "The Ravens listed 98 Rock (97.9 FM) and a 1090 AM station as their radio stations for the game."
   - q: "Who is on the Thursday Night Football broadcast?"
     a: "Amazon lists Al Michaels (play-by-play), Kirk Herbstreit (analyst) and Kaylee Hartung (sideline) as the season crew. Amazon's page does not name the crew for this single game."
   - q: "When is the next Thursday Night Football game?"
-    a: "Week 10 is Commanders at Giants on Thu., Nov. 12, 2026, at 8:15 p.m. ET on Prime Video, per the 2026 TNF schedule listed by Amazon."
+    a: "Week 11 is Colts at Texans on Thu., Nov. 19, 2026, at 8:15 p.m. ET on Prime Video, per the 2026 TNF schedule listed by Amazon. Week 10 was Commanders at Giants on Nov. 12."
   - q: "When did the Jaguars and Ravens last play?"
     a: "We could not confirm the date or score of their last meeting from an official source, so we do not give one here."
 sources:
   - title: "'Thursday Night Football' 2026 schedule: How to watch live on Prime Video"
     url: "https://www.aboutamazon.com/md/news/entertainment/thursday-night-football-schedule-prime-video"
     publisher: "Amazon"
+  - title: "Top Storylines From Jaguars' Week 9 Win Over Ravens"
+    url: "https://www.jaguars.com/news/"
+    publisher: "Jacksonville Jaguars"
+    date: "2026-11-06"
   - title: "NFL Schedules: Games, Times, Matchups & Tickets, Week 9"
     url: "https://www.nfl.com/schedules/2026/REG9/"
     publisher: "NFL"
@@ -98,13 +105,13 @@ downloads:
 draft: false
 ---
 
-**The Jacksonville Jaguars play at the Baltimore Ravens on Thursday Night Football (TNF) tonight, Thursday, Nov. 5, 2026, at 8:15 p.m. Eastern Time (ET) on Prime Video, per Amazon, the National Football League (NFL) and the Ravens.** The game is Week 9 of the NFL season and is played at M&T Bank Stadium in Baltimore.
+**The Jacksonville Jaguars beat the Baltimore Ravens 33-10 on Thursday Night Football (TNF) on Thursday, Nov. 5, 2026, the Jaguars say; kickoff was at 8:15 p.m. Eastern Time (ET) on Prime Video, per Amazon, the National Football League (NFL) and the Ravens.** The game was Week 9 of the NFL season and was played at M&T Bank Stadium in Baltimore.
 
-By the NFL.com standings, the Jaguars are 5-2 and the Ravens are 4-4 after Week 8. This page has the kickoff in every U.S. time zone and in the United Kingdom, how to watch and listen, what else is on in Week 9, and a one-page printable. It follows our story on the [previous Thursday night game, Panthers at Packers](/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/).
+By the NFL.com standings, the Jaguars were 5-2 and the Ravens were 4-4 after Week 8. Below are the kickoff in every U.S. time zone and in the United Kingdom, how to watch and listen, what else was on in Week 9, and a one-page printable. It follows our story on the [previous Thursday night game, Panthers at Packers](/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/).
 
-## What time is Jaguars at Ravens in my time zone?
+## What time was Jaguars at Ravens in each time zone?
 
-Kickoff is 8:15 p.m. ET. Nov. 5 falls after the U.S. clock change on Sunday, Nov. 1, so Eastern Standard Time (EST) applies. The United Kingdom has been on Greenwich Mean Time (GMT) since Oct. 25.
+Kickoff was 8:15 p.m. ET. Nov. 5 fell after the U.S. clock change on Sunday, Nov. 1, so Eastern Standard Time (EST) applied. The United Kingdom had been on Greenwich Mean Time (GMT) since Oct. 25.
 
 | Time zone | Thu., Nov. 5 (Jaguars at Ravens, 8:15 p.m. ET) | Sun., Nov. 8 (Sunday Night Football, 8:20 p.m. ET) |
 |---|---|---|
@@ -116,11 +123,11 @@ Kickoff is 8:15 p.m. ET. Nov. 5 falls after the U.S. clock change on Sunday, Nov
 
 We worked these out from the 8:15 p.m. ET listing and the 8:20 p.m. ET Sunday listing in our NFL schedule file.
 
-## What channel is Jaguars vs Ravens on?
+## What channel was Jaguars vs Ravens on?
 
-Prime Video. The NFL and the Ravens list the game on Prime Video, and the Ravens' own schedule page shows 8:15 p.m. EST. Amazon says every Thursday game kicks off at 8:15 p.m. ET, that its pregame show, TNF Tonight, starts at 7 p.m. ET, and that the games air over the air in the two teams' home markets, stream on Twitch and have a Spanish-language version on Prime Video. The Ravens' May 14, 2026 newsroom story lists the game as Thursday, Nov. 5, on Prime Video at 8:15 p.m.
+Prime Video. The NFL and the Ravens listed the game on Prime Video, and the Ravens' own schedule page showed 8:15 p.m. EST. Amazon says every Thursday game kicks off at 8:15 p.m. ET, that its pregame show, TNF Tonight, starts at 7 p.m. ET, and that the games air over the air in the two teams' home markets, stream on Twitch and have a Spanish-language version on Prime Video. The Ravens' May 14, 2026 newsroom story listed the game as Thursday, Nov. 5, on Prime Video at 8:15 p.m.
 
-## How to watch the Jaguars vs Ravens live stream, TV and radio
+## How the Jaguars vs Ravens game was shown, on TV and radio
 
 | Option | Where | Listed by |
 |---|---|---|
@@ -133,22 +140,24 @@ Prime Video. The NFL and the Ravens list the game on Prime Video, and the Ravens
 | 98 Rock (97.9 FM) | Ravens radio | Baltimore Ravens |
 | 1090 AM | Ravens radio | Baltimore Ravens |
 
-Amazon says the over-the-air game airs in the two home markets. We did not confirm the local station names for this game. Outside those markets, the live stream is on Prime Video, which needs an Amazon account with Prime Video access.
+Amazon says the over-the-air game airs in the two home markets. We did not confirm the local station names for this game. Outside those markets, the live stream was on Prime Video.
 
 Amazon lists the season crew as Al Michaels (play-by-play), Kirk Herbstreit (analyst) and Kaylee Hartung (sideline). Its page lists the season crew, not the crew for this single game.
 
 ## Jaguars and Ravens records and venue for Week 9
+
+The Jaguars' game coverage on jaguars.com reports the final as Jaguars 33, Ravens 10. We did not confirm the teams' new records from an official page.
 
 | Team | Record after Week 8 | Division record |
 |---|---|---|
 | Jacksonville Jaguars | 5-2-0 | 1-1-0 in the American Football Conference (AFC) South |
 | Baltimore Ravens | 4-4-0 | 0-2-0 in the AFC North |
 
-The Ravens list M&T Bank Stadium as the site. We could not confirm the date or score of the teams' most recent meeting from an official source, and no official Week 9 injury report was available when this was written, so neither is covered here.
+The Ravens listed M&T Bank Stadium as the site. We could not confirm the date or score of the teams' previous meeting from an official source, so it is not covered here.
 
-## What else is on in NFL Week 9?
+## What else was on in NFL Week 9?
 
-NFL.com's Week 9 schedule, as held in our schedule file, runs through Monday, Nov. 9. All times are ET.
+NFL.com's Week 9 schedule, as held in our schedule file, ran through Monday, Nov. 9. All times are ET.
 
 | Day | Time | Game | TV |
 |---|---|---|---|
@@ -161,8 +170,8 @@ NFL.com's Week 9 schedule, as held in our schedule file, runs through Monday, No
 | Sun., Nov. 8 | 8:20 p.m. | Buccaneers at Bears | NBC and Universo |
 | Mon., Nov. 9 | 8:15 p.m. | Bills at Vikings | ESPN, ABC, ESPN2, ESPN Deportes and NFL Network |
 
-The full week is in our [Week 9 schedule and pick'em sheet story](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/). Week 10 brings the next Thursday game, Commanders at Giants on Nov. 12, at 8:15 p.m. ET on Prime Video; the full Thursday list is in our [Panthers at Packers story](/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/).
+The full week is in our [Week 9 schedule and pick'em sheet story](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/). Week 10's Thursday game was Commanders at Giants on Nov. 12, and Week 11 brings Colts at Texans on Thursday, Nov. 19, at 8:15 p.m. ET on Prime Video, per Amazon; the full Thursday list is in our [Panthers at Packers story](/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/).
 
 ## Is there a printable Jaguars at Ravens watch guide?
 
-Yes. The one-page watch guide shows the 8:15 p.m. ET kickoff in Eastern, Central, Mountain and Pacific Time, the Prime Video channel and a spot for your pick. Pin it next to the [November 2026 printable calendar](/november-calendars.html) or the [December 2026 printable calendar](/december-calendars.html). For every game of the season by week, see our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/). Times can change, so check NFL.com on game day.
+Yes. The one-page watch guide shows the 8:15 p.m. ET kickoff in Eastern, Central, Mountain and Pacific Time, the Prime Video channel and a spot for your pick. Pin it next to the [November 2026 printable calendar](/november-calendars.html) or the [December 2026 printable calendar](/december-calendars.html). For every game of the season by week, see our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/). 

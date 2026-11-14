@@ -1,9 +1,9 @@
 ---
 title: "College Football Week 11 2026: Miami at Notre Dame, 7:30 p.m. ET"
-description: "College football Week 11 2026: Miami at Notre Dame was Saturday, Nov. 7 at 7:30 p.m. ET on NBC. All 16 ranked-team games with TV, plus a pick'em sheet."
+description: "College football Week 11 2026: Miami at Notre Dame was Nov. 7 at 7:30 p.m. ET on NBC. All 16 ranked-team games with TV, plus the Nov. 10 playoff rankings."
 type: news
 publishedAt: "2026-11-01T01:22:00-05:00"
-updatedAt: "2026-11-05T01:32:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["college football week 11 schedule 2026", "college football games Nov 7 2026", "Miami Notre Dame time", "college football TV schedule Saturday"]
@@ -43,8 +43,8 @@ assets:
         - { start: "2026-11-07T21:30-05:00", title: "West Virginia at Texas Tech", channel: "ESPN", src: 1 }
 hero:
   src: ../../../../assets/news/college-football-week-11-schedule-2026-miami-notre-dame-game-times-tv/college-football-week-11-schedule-2026-miami-notre-dame-game-times-tv.webp
-  alt: "College football Week 11 schedule 2026: Notre Dame Stadium lit at night, where Miami visits Notre Dame on Nov. 7"
-  caption: "File photo: Notre Dame Stadium at night. Miami visits on Saturday, Nov. 7, 2026, at 7:30 p.m. ET on NBC, according to ESPN."
+  alt: "College football Week 11 schedule 2026: Notre Dame Stadium lit at night, where Miami visited Notre Dame on Nov. 7"
+  caption: "File photo: Notre Dame Stadium at night. Miami visited on Saturday, Nov. 7, 2026, for a 7:30 p.m. ET kickoff on NBC, according to ESPN."
   credit: "Photo: Eccekevin / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -53,24 +53,28 @@ hero:
     author: "Eccekevin"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Eccekevin"
 summary:
-  - "Miami at Notre Dame kicks off at 7:30 p.m. Eastern Time (ET) on Saturday, Nov. 7, 2026, on NBC and Peacock, according to ESPN's schedule."
-  - "ESPN lists 16 games with a team ranked in the Oct. 25 Associated Press (AP) poll, all 16 with times and networks as of Nov. 5."
-  - "Oregon at Ohio State is at 3:30 p.m. ET on CBS, and Alabama at LSU is at 3:30 p.m. ET on the American Broadcasting Company (ABC)."
-  - "The first College Football Playoff (CFP) rankings are scheduled for Tuesday, Nov. 3, and the second for Tuesday, Nov. 10, per the schedule FBSchedules reported."
+  - "Miami at Notre Dame kicked off at 7:30 p.m. Eastern Time (ET) on Saturday, Nov. 7, 2026, on NBC and Peacock, according to ESPN's schedule."
+  - "ESPN listed 16 games with a team ranked in the Oct. 25 Associated Press (AP) poll, all 16 with times and networks as of Nov. 5."
+  - "Oregon at Ohio State was at 3:30 p.m. ET on CBS, and Alabama at LSU was at 3:30 p.m. ET on the American Broadcasting Company (ABC)."
+  - "The College Football Playoff (CFP) selection committee released its second rankings on Tuesday, Nov. 10: Georgia, Utah, Alabama and UCLA in the top four, Notre Dame fifth and Miami seventh, per the CFP."
 faq:
-  - q: "What time is Miami at Notre Dame on Nov. 7, 2026?"
+  - q: "What time was Miami at Notre Dame on Nov. 7, 2026?"
     a: "7:30 p.m. ET at Notre Dame Stadium, on NBC and Peacock, per ESPN. By our conversion that is 6:30 p.m. Central Time (CT), 5:30 p.m. Mountain Time (MT) and 4:30 p.m. Pacific Time (PT)."
-  - q: "What time do the first college football games start on Nov. 7?"
-    a: "ESPN lists three noon ET games with a ranked team: BYU at Utah on ABC, Texas at Missouri on ESPN and UCLA at Minnesota on FOX. Oklahoma State at Kansas State follows at 1:00 p.m. ET on TNT."
-  - q: "Is Indiana playing on Nov. 7?"
-    a: "Not in ESPN's schedule. Indiana, No. 4 in the Oct. 25 AP poll, has no game listed for Nov. 7."
-  - q: "When are the College Football Playoff rankings this week?"
-    a: "The first rankings are due Tuesday, Nov. 3, from 7 to 8 p.m. ET on ESPN, according to the schedule FBSchedules reported on Aug. 6, 2026. The second set follows on Tuesday, Nov. 10, from 9 to 9:30 p.m. ET."
+  - q: "What time did the first college football games start on Nov. 7?"
+    a: "ESPN listed three noon ET games with a ranked team: BYU at Utah on ABC, Texas at Missouri on ESPN and UCLA at Minnesota on FOX. Oklahoma State at Kansas State followed at 1:00 p.m. ET on TNT."
+  - q: "Did Indiana play on Nov. 7?"
+    a: "Not in ESPN's schedule. Indiana, No. 4 in the Oct. 25 AP poll, had no game listed for Nov. 7."
+  - q: "What do the latest College Football Playoff rankings say?"
+    a: "The selection committee released its second rankings on Tuesday, Nov. 10: 1 Georgia (8-1), 2 Utah (9-0), 3 Alabama (7-2), 4 UCLA (9-0), 5 Notre Dame (8-1), 6 Texas (7-2) and 7 Miami (8-1), per the CFP. The first rankings came out Tuesday, Nov. 3."
 sources:
   - title: "College football schedule, Week 11, 2026"
     url: "https://www.espn.com/college-football/schedule/_/week/11/year/2026/seasontype/2"
     publisher: "ESPN"
     date: "2026-11-05"
+  - title: "CFP Selection Committee Rankings 2026"
+    url: "https://www.collegefootballplayoff.com/rankings"
+    publisher: "College Football Playoff"
+    date: "2026-11-14"
   - title: "College football schedule, TV selections for November 7, 2026"
     url: "https://fbschedules.com/college-football-schedule-tv-selections-for-november-7-2026/"
     publisher: "FBSchedules"
@@ -101,11 +105,11 @@ related: [college-football-week-10-schedule-2026-halloween-top-25-game-times-tv,
 draft: false
 ---
 
-**Miami at Notre Dame kicks off at 7:30 p.m. Eastern Time (ET) on Saturday, Nov. 7, 2026, on NBC and Peacock, according to ESPN's Week 11 schedule.** ESPN lists 16 games with a ranked team that day, all with times and networks as of Nov. 5. Below: every game with its channel, a Central, Mountain and Pacific time table, the weeknight and Friday games, and a one-page pick'em sheet.
+**Miami at Notre Dame kicked off at 7:30 p.m. Eastern Time (ET) on Saturday, Nov. 7, 2026, on NBC and Peacock, according to ESPN's Week 11 schedule.** ESPN listed 16 games with a ranked team that day, all with times and networks as of Nov. 5. Below: every game with its channel, a Central, Mountain and Pacific time table, the weeknight and Friday games, the Nov. 10 playoff rankings and a one-page pick'em sheet. Final scores are not recorded here.
 
 ## What is the college football schedule for Saturday, Nov. 7, 2026?
 
-Rankings are the Associated Press (AP) Top 25 of Oct. 25, 2026, as shown on ESPN; a newer AP poll was due Sunday, Nov. 1, so current ranks may differ from the ones here. Times are ET from ESPN's schedule, which was checked on Nov. 5. ESPN now lists University of California, Los Angeles (UCLA) at Minnesota, Cincinnati at Houston and Iowa at Northwestern on FOX, matching the FBSchedules TV selections for Nov. 7. The American Broadcasting Company (ABC), CBS, NBC, FOX, ESPN, Turner Network Television (TNT), USA Network, Big Ten Network (BTN), Atlantic Coast Conference (ACC) Network and Southeastern Conference (SEC) Network carry them.
+Rankings are the Associated Press (AP) Top 25 of Oct. 25, 2026, as shown on ESPN; a newer AP poll came out after those games, so current ranks differ from the ones here. Times are ET from ESPN's schedule, which was checked on Nov. 5. ESPN listed University of California, Los Angeles (UCLA) at Minnesota, Cincinnati at Houston and Iowa at Northwestern on FOX, matching the FBSchedules TV selections for Nov. 7. The American Broadcasting Company (ABC), CBS, NBC, FOX, ESPN, Turner Network Television (TNT), USA Network, Big Ten Network (BTN), Atlantic Coast Conference (ACC) Network and Southeastern Conference (SEC) Network carried them.
 
 | Kickoff (ET) | TV | Game (Oct. 25 rank) | Stadium |
 |---|---|---|---|
@@ -126,7 +130,7 @@ Rankings are the Associated Press (AP) Top 25 of Oct. 25, 2026, as shown on ESPN
 | 7:45 p.m. | SEC Network | Oklahoma at (17) Florida | Ben Hill Griffin Stadium, Gainesville |
 | 9:30 p.m. | ESPN | West Virginia at (13) Texas Tech | Galaxy Stadium (as ESPN lists it), Lubbock |
 
-Boise State and Northwestern are tied at No. 20 in the poll. Indiana, No. 4, has no game on Nov. 7 in ESPN's schedule, and Southern Methodist University (SMU) and Arizona play Friday (below). ESPN lists Florida as the home team against Oklahoma in Gainesville.
+Boise State and Northwestern are tied at No. 20 in the poll. Indiana, No. 4, had no game on Nov. 7 in ESPN's schedule, and Southern Methodist University (SMU) and Arizona played Friday (below). ESPN listed Florida as the home team against Oklahoma in Gainesville.
 
 ## What time is each Nov. 7 window in my time zone?
 
@@ -148,18 +152,18 @@ The Central, Mountain and Pacific columns are our conversion from the ET times o
 
 Six games on ESPN's schedule match two teams that were ranked in the Oct. 25 poll. Records are from that poll, before the Oct. 31 games.
 
-- **Miami at Notre Dame, 7:30 p.m. ET, NBC.** No. 1 Miami was 7-0 and No. 5 Notre Dame 6-1. The game is at Notre Dame Stadium and streams on Peacock.
-- **Georgia at Ole Miss, 7:30 p.m. ET, ABC.** No. 3 Georgia was 6-1 and No. 12 Ole Miss 5-2, in Oxford, Miss. It starts at the same time as Miami at Notre Dame, on a different network.
+- **Miami at Notre Dame, 7:30 p.m. ET, NBC.** No. 1 Miami was 7-0 and No. 5 Notre Dame 6-1. The game was at Notre Dame Stadium and streamed on Peacock.
+- **Georgia at Ole Miss, 7:30 p.m. ET, ABC.** No. 3 Georgia was 6-1 and No. 12 Ole Miss 5-2, in Oxford, Miss. It started at the same time as Miami at Notre Dame, on a different network.
 - **Alabama at LSU, 3:30 p.m. ET, ABC.** No. 10 Alabama was 6-2 and No. 15 LSU 6-2, at Tiger Stadium in Baton Rouge.
 - **BYU at Utah, 12 p.m. ET, ABC.** No. 8 BYU was 6-1 and No. 6 Utah 7-0, at Rice-Eccles Stadium in Salt Lake City.
 - **Kentucky at Tennessee, 6:15 p.m. ET, ESPN.** No. 9 Kentucky was 7-1 and No. 16 Tennessee 6-2, at Neyland Stadium in Knoxville.
 - **Texas at Missouri, 12 p.m. ET, ESPN.** No. 11 Texas was 5-2 and No. 23 Missouri 5-2, in Columbia, Mo.
 
-Oregon at Ohio State is the 3:30 p.m. ET game with a top-five team: No. 2 Ohio State was 6-1 in the Oct. 25 poll, while Oregon was not in the top 25. It airs on CBS and streams on Paramount+.
+Oregon at Ohio State is the 3:30 p.m. ET game with a top-five team: No. 2 Ohio State was 6-1 in the Oct. 25 poll, while Oregon was not in the top 25. It aired on CBS and streamed on Paramount+.
 
 ## Which games are on weeknights and Friday, Nov. 3 to 6?
 
-ESPN lists these Football Bowl Subdivision games before Saturday. Only the Friday games have a ranked team, SMU (No. 19) and Arizona (No. 22) in the Oct. 25 poll. All times are ET.
+ESPN listed these Football Bowl Subdivision games before Saturday. Only the Friday games have a ranked team, SMU (No. 19) and Arizona (No. 22) in the Oct. 25 poll. All times are ET.
 
 | Day | Time (ET) | Game | TV |
 |---|---|---|---|
@@ -176,9 +180,21 @@ ESPN lists these Football Bowl Subdivision games before Saturday. Only the Frida
 | Fri., Nov. 6 | 9:00 p.m. | New Mexico at Nevada, Reno | CBS Sports Network |
 | Fri., Nov. 6 | 10:15 p.m. | Texas Christian University (TCU) at (22) Arizona, Tucson | ESPN |
 
-## When are the College Football Playoff rankings?
+## What did the College Football Playoff rankings say after Nov. 7?
 
-According to the schedule FBSchedules reported on Aug. 6, 2026, the first College Football Playoff (CFP) rankings of the season come out Tuesday, Nov. 3, from 7 to 8 p.m. ET on ESPN, and the second on Tuesday, Nov. 10, from 9 to 9:30 p.m. ET. That is before and after the Nov. 7 games. Our [CFP rankings schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) has the full list, and the [conference championship games story](/news/college-football-conference-championship-games-2026-schedule-times-tv/) covers the title games.
+The College Football Playoff (CFP) selection committee released its first rankings of the season on Tuesday, Nov. 3, and its second on Tuesday, Nov. 10, after the Nov. 7 games, according to the CFP. FBSchedules had reported the times as 7 to 8 p.m. ET and 9 to 9:30 p.m. ET on ESPN. The Nov. 10 rankings, read on the CFP site on Nov. 14:
+
+| CFP rank | Team | Record |
+|---|---|---|
+| 1 | Georgia | 8-1 |
+| 2 | Utah | 9-0 |
+| 3 | Alabama | 7-2 |
+| 4 | UCLA | 9-0 |
+| 5 | Notre Dame | 8-1 |
+| 6 | Texas | 7-2 |
+| 7 | Miami | 8-1 |
+
+The CFP page lists Oregon 16th and Ohio State 20th. Our [CFP rankings schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) has the full list, and the [conference championship games story](/news/college-football-conference-championship-games-2026-schedule-times-tv/) covers the title games.
 
 ## How do I plan the viewing week?
 
@@ -193,4 +209,4 @@ According to the schedule FBSchedules reported on Aug. 6, 2026, the first Colleg
 
 ## Is there a printable pick'em sheet for Week 11?
 
-Yes. The one-page sheet lists all 16 Nov. 7 games in kickoff order, with the network, blanks for your pick and the score, and a tiebreaker line for total points in Miami at Notre Dame. It follows our [Week 10 sheet](/news/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv/). Keep it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). Times can change; check ESPN on game day.
+The one-page sheet lists all 16 Nov. 7 games in kickoff order, with the network, blanks for your pick and the score, and a tiebreaker line for total points in Miami at Notre Dame. It follows our [Week 10 sheet](/news/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv/). Keep it beside the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). The sheet is a record of the Nov. 7 slate as ESPN listed it on Nov. 5.

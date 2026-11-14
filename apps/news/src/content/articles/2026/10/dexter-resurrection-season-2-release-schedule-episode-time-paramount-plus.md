@@ -3,7 +3,7 @@ title: "Dexter: Resurrection Season 2 Schedule: Episodes Through Jan. 1"
 description: "Dexter: Resurrection Season 2 premiered Oct. 30, 2026 on Paramount+ and drops weekly on Fridays. TheWrap reports 10 episodes through Jan. 1, 2027."
 type: news
 publishedAt: "2026-10-30T03:42:00-04:00"
-updatedAt: "2026-11-01T02:42:00-05:00"
+updatedAt: "2026-11-14T18:05:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["when does dexter resurrection 2 come out", "dexter resurrection season 2 release schedule", "dexter resurrection season 2 episode 2 release date", "dexter resurrection season 2 what time"]
@@ -12,7 +12,7 @@ assets:
   overlay: true
   kicker: "Dexter: Resurrection · Fri., Oct. 30"
   date: "2026-10-30"
-  card: { top: "Season 2 premieres", big: "Fri., Oct. 30", bottom: "Paramount+ Premium plan" }
+  card: { top: "Season 2 premiered", big: "Fri., Oct. 30", bottom: "Paramount+ Premium plan" }
   printable:
     slug: dexter-resurrection-season-2-watch-tracker-2026
     group: tv-2026
@@ -37,7 +37,7 @@ assets:
 hero:
   src: ../../../../assets/news/dexter-resurrection-season-2-release-schedule-episode-time-paramount-plus/dexter-resurrection-season-2-release-schedule-episode-time-paramount-plus.webp
   alt: "Dexter: Resurrection Season 2 release schedule: Michael C. Hall, who plays Dexter Morgan, speaking at a Comic-Con panel"
-  caption: "Michael C. Hall, who plays Dexter Morgan, at a San Diego Comic-Con panel. Dexter: Resurrection Season 2 premieres Friday, Oct. 30, 2026 on Paramount+ with the Premium plan."
+  caption: "Michael C. Hall, who plays Dexter Morgan, at a San Diego Comic-Con panel. Dexter: Resurrection Season 2 premiered Friday, Oct. 30, 2026 on Paramount+ with the Premium plan."
   credit: "Photo: Gage Skidmore from Peoria, AZ, United States of America / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -47,7 +47,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/22007612@N05"
 summary:
   - "Dexter: Resurrection Season 2 premiered Friday, Oct. 30, 2026, on Paramount+ with the Premium plan, per Paramount, and runs weekly on Fridays."
-  - "Paramount+ says one new episode drops weekly through the season finale. TheWrap reports 10 episodes ending Jan. 1, 2027."
+  - "Paramount+ says one new episode drops weekly through the season finale and lists episode 4 for Nov. 20. TheWrap reports 10 episodes ending Jan. 1, 2027."
   - "HollywoodLife reports a 3:01 a.m. Eastern Time (ET) release; Paramount has not posted a time."
   - "Two reported drops fall on holidays: Christmas Day (Dec. 25) and New Year's Day (Jan. 1, 2027)."
 faq:
@@ -56,7 +56,7 @@ faq:
   - q: "What time does Dexter: Resurrection Season 2 come out?"
     a: "HollywoodLife reports 3:01 a.m. ET (12:01 a.m. Pacific Time, PT). Paramount has not posted a release time."
   - q: "When is Dexter: Resurrection Season 2 episode 2?"
-    a: "TheWrap reports episode 2 for Friday, Nov. 6, 2026. Paramount+ confirms only one new episode weekly."
+    a: "Episode 2, \"Fallen,\" was dated Friday, Nov. 6, 2026 on Paramount+'s Season 2 page, which lists it as streaming. Episode 3, \"Live Free and Die,\" is dated Nov. 13 and episode 4 (title to be announced) Nov. 20."
   - q: "How many episodes is Season 2?"
     a: "Paramount has not announced a count. TheWrap reports 10 episodes. Season 1 had 10, per Paramount+."
   - q: "Do I need the Premium plan?"
@@ -69,7 +69,7 @@ sources:
   - title: "Dexter: Resurrection Season 2: Everything You Need To Know"
     url: "https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-everything-you-need-to-know/"
     publisher: "Paramount+"
-    date: "2026-10-26"
+    date: "2026-11-14"
   - title: "Dexter: Resurrection Season 2 Trailer Breakdown"
     url: "https://www.paramountplus.com/sneak-peak/dexter-resurrection-season-2-trailer-breakdown/"
     publisher: "Paramount+"
@@ -116,9 +116,9 @@ downloads:
 draft: false
 ---
 
-**Dexter: Resurrection Season 2 premiered Friday, Oct. 30, 2026, on Paramount+ with the Premium plan, according to Paramount Press Express, and continues weekly on Fridays.** The next episode is reported for Friday, Nov. 6, 2026. Paramount+ says one new episode drops weekly through the season finale. TheWrap reports a 10-episode run with the finale on Jan. 1, 2027, and HollywoodLife reports a 3:01 a.m. Eastern Time (ET) release.
+**Dexter: Resurrection Season 2 premiered Friday, Oct. 30, 2026, on Paramount+ with the Premium plan, according to Paramount Press Express, and continues weekly on Fridays.** Paramount+ dates episode 2 as Nov. 6 and episode 3 as Nov. 13, and lists episode 4 for Friday, Nov. 20, 2026. It says one new episode drops weekly through the season finale. TheWrap reports a 10-episode run with the finale on Jan. 1, 2027, and HollywoodLife reports a 3:01 a.m. Eastern Time (ET) release.
 
-Paramount confirms the premiere date and the weekly rhythm. The episode count, the finale date and the release hour are reported, not announced. The table below separates the two, and the same dates sit on a one-page printable Season 2 watch tracker.
+Paramount confirms the premiere date, the weekly rhythm and the first four episode dates. The episode count, the finale date and the release hour are reported, not announced. The table below separates the two, and the same dates sit on a one-page printable Season 2 watch tracker.
 
 ## When does Dexter: Resurrection Season 2 come out?
 
@@ -126,20 +126,20 @@ Paramount's Sept. 8, 2026 announcement says the series "will return for a second
 
 ## What is the Dexter: Resurrection Season 2 release schedule?
 
-Paramount+ said on Oct. 6, 2026 that there is "one new episode dropping weekly through the season finale." TheWrap, on Oct. 29, 2026, reported the dates below, all Fridays. We checked each weekday against the 2026 and 2027 calendars. Paramount has not published episode titles.
+Paramount+ said on Oct. 6, 2026 that there is "one new episode dropping weekly through the season finale." TheWrap, on Oct. 29, 2026, reported the dates below, all Fridays. We checked each weekday against the 2026 and 2027 calendars. Paramount+'s Season 2 page lists titles for the first three episodes and gives episode 4's as to be announced; it dates episodes 1 to 4 as shown.
 
-| Episode | Date (reported by TheWrap) | Note |
+| Episode | Date | Note |
 |---|---|---|
-| 1 | Fri., Oct. 30, 2026 | Premiere, confirmed by Paramount |
-| 2 | Fri., Nov. 6, 2026 | Reported |
-| 3 | Fri., Nov. 13, 2026 | Reported |
-| 4 | Fri., Nov. 20, 2026 | Reported |
-| 5 | Fri., Nov. 27, 2026 | Reported |
-| 6 | Fri., Dec. 4, 2026 | Reported |
-| 7 | Fri., Dec. 11, 2026 | Reported |
-| 8 | Fri., Dec. 18, 2026 | Reported |
-| 9 | Fri., Dec. 25, 2026 | Christmas Day, reported |
-| 10 | Fri., Jan. 1, 2027 | New Year's Day, season finale, reported |
+| 1 | Fri., Oct. 30, 2026 | "Risky Business," premiere, confirmed by Paramount |
+| 2 | Fri., Nov. 6, 2026 | "Fallen," dated by Paramount+ |
+| 3 | Fri., Nov. 13, 2026 | "Live Free and Die," dated by Paramount+ |
+| 4 | Fri., Nov. 20, 2026 | Title to be announced; dated by Paramount+ |
+| 5 | Fri., Nov. 27, 2026 | Reported by TheWrap |
+| 6 | Fri., Dec. 4, 2026 | Reported by TheWrap |
+| 7 | Fri., Dec. 11, 2026 | Reported by TheWrap |
+| 8 | Fri., Dec. 18, 2026 | Reported by TheWrap |
+| 9 | Fri., Dec. 25, 2026 | Christmas Day, reported by TheWrap |
+| 10 | Fri., Jan. 1, 2027 | New Year's Day, season finale, reported by TheWrap |
 
 Two drops fall on holidays. Episode 9 lands on Christmas Day, and the reported finale lands on New Year's Day. Check [when Christmas Day falls](/when-is/christmas-day/) and mark the Fridays on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
 
@@ -154,7 +154,7 @@ Paramount has not posted a release time. HollywoodLife, on Oct. 17, 2026, report
 | United Kingdom (UK) clocks | 7:01 a.m. Greenwich Mean Time (GMT) | Oct. 30 |
 | United Kingdom (UK) clocks | 8:01 a.m. GMT | Nov. 6 onward |
 
-The U.S. clocks went back on Sunday, Nov. 1, so the UK gap changes after the premiere. The UK column is a time conversion only: Paramount has not announced UK availability.
+The U.S. clocks went back on Sunday, Nov. 1, so the UK gap changed after the premiere. The UK column is a time conversion only: Paramount has not announced UK availability.
 
 ## Do you need the Premium plan?
 

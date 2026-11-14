@@ -1,6 +1,6 @@
 ---
 title: "Dunkin' Holiday Menu 2026 Starts Nov. 4, Two Days After Caribou"
-description: "Dunkin' holiday menu 2026 started Wednesday, Nov. 4, with the Avengers: Doomsday menu. Four Marvel restaurant takeovers open Nov. 17-18; Caribou, Starbucks dates."
+description: "Dunkin' holiday menu 2026 started Wednesday, Nov. 4, with the Avengers: Doomsday menu. Four Marvel restaurant takeovers open Nov. 17-18. Start dates by chain."
 type: news
 publishedAt: "2026-10-29T15:52:00-04:00"
 updatedAt: "2026-11-14T17:09:00-05:00"

@@ -21,7 +21,7 @@ hero:
 summary:
   - "Arizona and Florida order a recount when a margin is one-half of one percent (0.5%) or less of the votes cast; Ohio's automatic line is less than 0.5% for county and local contests and less than 0.25% for statewide ones."
   - "Georgia and North Carolina do not order recounts themselves: a candidate asks, at a margin of 0.5% or less in Georgia and 0.5% or 10,000 votes, whichever is less, in North Carolina's statewide contests."
-  - "Florida's recount results were due by 3 p.m. on Thu., Nov. 12, 2026, the 9th day after the Nov. 3 election (our computation from the statute); WLRN and Spectrum News 13 reported machine recounts in U.S. House District 27 and state House District 33."
+  - "Florida's recount results were due by 3 p.m. on Thu., Nov. 12, 2026, the 9th day after the Nov. 3 election (our computation from the statute); Miami public radio and Spectrum News 13 reported machine recounts in U.S. House District 27 and state House District 33."
   - "Georgia's request is due two business days after certification, Michigan's petition by 5 p.m. on the second day after the state canvassers certify, and North Carolina's demand by noon on the second business day after the county canvass."
 faq:
   - q: "How close does an election have to be for a recount?"
@@ -176,7 +176,7 @@ Florida has two steps. Under Florida Statutes 102.141, a margin of one-half of a
 
 ## Which Florida races went to a recount in 2026?
 
-WLRN reported on Nov. 9, 2026 that machine recounts were set for Florida's 27th Congressional District in Miami-Dade County, where Republican U.S. Rep. Maria Salazar led Democrat Eliot Rodriguez by 1,090 votes, or 0.44%, and for state House District 33. Spectrum News 13 reported that the Brevard County machine recount in District 33 changed Democrat Daniel McDow's total by two votes and Republican Monique Miller's by one, left the percentages unchanged and did not call for a manual recount. We did not find a final result for District 27 in two newsrooms, so none is given here; the Florida Division of Elections posts the official results.
+A Miami public radio report on Nov. 9, 2026 said machine recounts were set for Florida's 27th Congressional District in Miami-Dade County, where Republican U.S. Rep. Maria Salazar led Democrat Eliot Rodriguez by 1,090 votes, or 0.44%, and for state House District 33. Spectrum News 13 reported that the Brevard County machine recount in District 33 changed Democrat Daniel McDow's total by two votes and Republican Monique Miller's by one, left the percentages unchanged and did not call for a manual recount. We did not find a final result for District 27 in two newsrooms, so none is given here; the Florida Division of Elections posts the official results.
 
 ## What are the Georgia, Michigan and North Carolina deadlines?
 

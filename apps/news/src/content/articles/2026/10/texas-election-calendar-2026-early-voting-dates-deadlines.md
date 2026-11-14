@@ -3,7 +3,7 @@ title: "Texas Election Calendar 2026: Early Voting Ran Oct. 19-30"
 description: "Texas election calendar 2026: early voting ran Oct. 19-30 and Election Day was Nov. 3. Every 2026 date, from the March 3 primary to Dec. 12 local runoffs."
 type: news
 publishedAt: "2026-10-21T15:30:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:09:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Texas election calendar 2026", "Texas early voting dates 2026", "Texas election schedule 2026", "Texas mail ballot deadline 2026", "Texas primary runoff 2026 date"]
@@ -12,25 +12,25 @@ hero:
   src: ../../../../assets/news/texas-election-calendar-2026-early-voting-dates-deadlines/texas-election-calendar-2026-early-voting-dates-deadlines.jpg
   alt: "Texas election calendar 2026: October grid with early voting Oct. 19-30 highlighted and a Nov. 3 Election Day card"
   title: "Texas election calendar 2026"
-  caption: "Early voting in Texas ran Monday, Oct. 19 through Friday, Oct. 30, 2026. Election Day is Tuesday, Nov. 3, with polls open 7 a.m. to 7 p.m."
+  caption: "Early voting in Texas ran Monday, Oct. 19 through Friday, Oct. 30, 2026. Election Day was Tuesday, Nov. 3, with polls open 7 a.m. to 7 p.m."
 summary:
   - "Early voting for the Nov. 3, 2026 general election ran Monday, Oct. 19 through Friday, Oct. 30. There is no early voting on Saturday, Oct. 31, or on Nov. 1 and 2."
-  - "Applications for a ballot by mail had to reach your county's early voting clerk by Friday, Oct. 23. Mailed ballots are due by 7 p.m. on Election Day, or by 5 p.m. Nov. 4 if postmarked by 7 p.m. Nov. 3."
-  - "Polls are open 7 a.m. to 7 p.m. on Tuesday, Nov. 3, tomorrow. The registration deadline for this election was Monday, Oct. 5."
-  - "The primary was held March 3 and the primary runoff May 26. Runoffs for local Nov. 3 races are set for Saturday, Dec. 12."
+  - "Applications for a ballot by mail had to reach your county's early voting clerk by Friday, Oct. 23. Mailed ballots were due by 7 p.m. on Election Day, or by 5 p.m. Nov. 4 if postmarked by 7 p.m. Nov. 3."
+  - "Polls were open 7 a.m. to 7 p.m. on Tuesday, Nov. 3. The registration deadline for this election was Monday, Oct. 5."
+  - "The primary was held March 3 and the primary runoff May 26. Runoffs for local Nov. 3 races are set for Saturday, Dec. 12, and the governor can conduct the state canvass as early as Saturday, Nov. 21."
 faq:
   - q: "When was early voting in Texas for November 2026?"
-    a: "Monday, Oct. 19 through Friday, Oct. 30, 2026, and it has ended. Early voters could use any early voting site in the county where they are registered. To vote now, go to your polling place on Tuesday, Nov. 3."
+    a: "Monday, Oct. 19 through Friday, Oct. 30, 2026, and it has ended. Early voters could use any early voting site in the county where they were registered. Election Day was Tuesday, Nov. 3."
   - q: "What is the last day to apply for a mail ballot in Texas?"
     a: "The application had to be received by the early voting clerk by Friday, Oct. 23, 2026, by the close of regular business or noon, whichever is later. A postmark does not count; the clerk must have it."
   - q: "Is there early voting on the weekend in Texas?"
     a: "Yes, on Saturday, Oct. 24 and Sunday, Oct. 25. The county's main early voting site had to be open at least 12 hours that Saturday and six hours that Sunday. There was no early voting on Saturday, Oct. 31, or on Nov. 1 and 2."
   - q: "What time do polls open and close in Texas on Election Day?"
-    a: "7 a.m. to 7 p.m. local time on Tuesday, Nov. 3, 2026. Anyone in line at 7 p.m. can still vote."
+    a: "7 a.m. to 7 p.m. local time on Tuesday, Nov. 3, 2026. Anyone in line at 7 p.m. could still vote."
   - q: "When was the Texas primary runoff in 2026?"
     a: "Tuesday, May 26, 2026, with early voting May 18-22. The primary itself was Tuesday, March 3, with early voting Feb. 17-27."
   - q: "Is it too late to register to vote in Texas for November 2026?"
-    a: "Yes, for this election. The deadline was Monday, Oct. 5, 2026. You can still register now for later elections, and you can check whether you are registered on the Secretary of State's voter portal."
+    a: "Yes, for the Nov. 3 election, which has passed. The deadline was Monday, Oct. 5, 2026. You can still register now for later elections, and you can check whether you are registered on the Secretary of State's voter portal."
 sources:
   - title: "Important Election Dates"
     url: "https://www.sos.state.tx.us/elections/voter/important-election-dates.shtml"
@@ -67,9 +67,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Election Day is tomorrow, Tuesday, Nov. 3, 2026.</b> Early voting ended Friday, Oct. 30, and the Oct. 23 deadline to apply for a ballot by mail has passed. Polls are open 7 a.m. to 7 p.m.</p>
-
-**Early voting in Texas ended Friday, Oct. 30, 2026, and Election Day is Tuesday, Nov. 3, with polls open 7 a.m. to 7 p.m.** The deadline to apply for a ballot by mail, Friday, Oct. 23, has passed. Every date below comes from the Texas Secretary of State's election calendars. Your county sets the Election Day polling places; check your county's list before you go.
+**Early voting in Texas ended Friday, Oct. 30, 2026, and Election Day was Tuesday, Nov. 3, with polls open 7 a.m. to 7 p.m.** The deadline to apply for a ballot by mail was Friday, Oct. 23. Every date below comes from the Texas Secretary of State's election calendars. For the count and certification, see our [Texas election results guide](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/).
 
 ## Texas election dates around Nov. 3
 
@@ -78,9 +76,9 @@ draft: false
 | Fri., Oct. 23 (passed) | Last day for the clerk to receive a mail ballot application |
 | Through Fri., Oct. 30 (ended) | Early voting at any early voting site in your county |
 | Sat., Oct. 31-Mon., Nov. 2 | No early voting |
-| Tue., Nov. 3, 7 a.m.-7 p.m. | Election Day; mailed ballots due by 7 p.m. |
-| Wed., Nov. 4, 5 p.m. | Mailed ballots postmarked by 7 p.m. Nov. 3 still count if they arrive by now |
-| Mon., Nov. 9 | Ballots from overseas and military voters due; last day to fix a flagged mail ballot in person at the early voting clerk's office |
+| Tue., Nov. 3, 7 a.m.-7 p.m. (held) | Election Day; mailed ballots were due by 7 p.m. |
+| Wed., Nov. 4, 5 p.m. | Mailed ballots postmarked by 7 p.m. Nov. 3 still counted if they arrived by then |
+| Mon., Nov. 9 | Ballots from overseas and military voters were due; last day to fix a flagged mail ballot in person at the early voting clerk's office |
 
 The voter registration deadline for this election was Monday, Oct. 5. The 30th day before the election fell on a Sunday, so the state moved the deadline to the next business day.
 
@@ -103,8 +101,8 @@ Weekday early voting could not start before 6 a.m. or run past 10 p.m. Sunday vo
 Texas allows voting by mail for people who are 65 or older on Election Day, sick or disabled, expecting to give birth within three weeks before or after Election Day, out of their county for all of early voting and Election Day, civilly committed under Chapter 841 of the Health and Safety Code, or confined in jail but otherwise eligible, according to VoteTexas.gov.
 
 - **Application:** it had to reach the early voting clerk by Friday, Oct. 23, by the close of regular business or noon, whichever is later. You can deliver it in person, mail it, or send it by email or fax. An emailed or faxed copy needs the original to reach the clerk within four business days.
-- **Ballot:** due by 7 p.m. on Nov. 3. A ballot mailed in the United States with a postmark or receipt mark of 7 p.m. Nov. 3 or earlier counts if it arrives by 5 p.m. Wednesday, Nov. 4.
-- **Overseas and military voters:** ballots sent by 7 p.m. Nov. 3 count if they arrive by Monday, Nov. 9. Some voters who applied with a Federal Post Card Application (FPCA) do not need a postmark.
+- **Ballot:** due by 7 p.m. on Nov. 3. A ballot mailed in the United States with a postmark or receipt mark of 7 p.m. Nov. 3 or earlier counted if it arrived by 5 p.m. Wednesday, Nov. 4.
+- **Overseas and military voters:** ballots sent by 7 p.m. Nov. 3 counted if they arrived by Monday, Nov. 9. Some voters who applied with a Federal Post Card Application (FPCA) do not need a postmark.
 - **Fixing a problem:** if the clerk flags a defect on your carrier envelope, you can correct certain defects in person at the early voting clerk's office through the sixth day after the election, Monday, Nov. 9.
 
 Deadlines in other states are in our [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/) guide.
@@ -119,12 +117,12 @@ The March and May dates have passed but still answer a common question: when eac
 | Primary runoff | Mon., April 27 | Mon., May 18-Fri., May 22 | Fri., May 15 | Tue., May 26 |
 | General election | Mon., Oct. 5 | Mon., Oct. 19-Fri., Oct. 30 | Fri., Oct. 23 | Tue., Nov. 3 |
 
-Some cities, school districts and other local bodies also held elections on Saturday, May 2. After Nov. 3, the governor can conduct the state canvass of results as early as Saturday, Nov. 21. Runoffs for local races decided on Nov. 3 are set for Saturday, Dec. 12, under the Secretary of State's designation.
+Some cities, school districts and other local bodies also held elections on Saturday, May 2. After Nov. 3, the governor can conduct the state canvass of results as early as Saturday, Nov. 21. Runoffs for local races not decided on Nov. 3 are set for Saturday, Dec. 12, under the Secretary of State's designation.
 
-## What is on the ballot
+## What was on the ballot
 
-Texans choose a U.S. senator, a governor and seven other statewide officials, plus 10 seats on the state's top courts. There are no statewide propositions this year. Every certified candidate is listed in our [Texas ballot 2026 guide](/news/texas-ballot-2026-candidates-senate-governor-statewide-races/), and your county's sample ballot shows the local races; our [sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/) guide links the largest counties. Bring one of the accepted photo IDs, and note that phones cannot be used where you vote.
+Texans chose a U.S. senator, a governor and seven other statewide officials, plus 10 seats on the state's top courts. There are no statewide propositions this year. Every certified candidate is listed in our [Texas ballot 2026 guide](/news/texas-ballot-2026-candidates-senate-governor-statewide-races/), and your county's sample ballot shows the local races; our [sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/) guide links the largest counties. Bring one of the accepted photo IDs, and note that phones cannot be used where you vote.
 
 ## Print the calendar
 
-Our free one-page Texas Election Calendar 2026 marks October and November with each early voting day and its minimum hours, the Oct. 23 mail deadline, Election Day and the ballots that can arrive after it. A strip at the bottom lists the March primary, the May runoff and the dates after Nov. 3. For your own plans, use our [October](/october-calendars.html) and [November 2026 calendars](/november-calendars.html) or a [yearly calendar](/printable-yearly-calendar.html). On election night, see [what time polls close](/news/what-time-do-polls-close-election-day-2026/) across the country.
+Our free one-page Texas Election Calendar 2026 marks October and November with each early voting day and its minimum hours, the Oct. 23 mail deadline, Election Day and the ballots that can arrive after it. A strip at the bottom lists the March primary, the May runoff and the dates after Nov. 3. For your own plans, use our [October](/october-calendars.html) and [November 2026 calendars](/november-calendars.html) or a [yearly calendar](/printable-yearly-calendar.html).

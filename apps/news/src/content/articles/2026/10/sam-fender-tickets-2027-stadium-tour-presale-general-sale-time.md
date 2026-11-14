@@ -1,6 +1,6 @@
 ---
 title: "Sam Fender Tickets 2027: General Sale Oct. 30 at 9:30 a.m. UK Time"
-description: "Sam Fender 2027 tickets went on general sale Fri., Oct. 30 at 9:30 a.m. UK time, 5:30 a.m. ET. Presale was Oct. 29; times for every US zone and nine shows."
+description: "Sam Fender 2027 tickets went on general sale Oct. 30 at 9:30 a.m. UK time, 5:30 a.m. ET. Sale times for every US zone, plus UK and North America tour dates."
 type: news
 publishedAt: "2026-10-28T03:46:00-04:00"
 updatedAt: "2026-11-02T14:10:00-05:00"
@@ -11,7 +11,7 @@ dateline: "London"
 hero:
   src: ../../../../assets/news/sam-fender-tickets-2027-stadium-tour-presale-general-sale-time/sam-fender-tickets-2027-stadium-tour-presale-general-sale-time.webp
   alt: "Sam Fender tickets 2027 stadium tour, St. James' Park in Newcastle"
-  caption: "Sam Fender's Proper Massive Stadium Tour 2027 opens at St. James' Park, Newcastle, on Thu., June 3, 2027. File photo of the stadium."
+  caption: "Sam Fender's UK stadium shows in 2027 start at St. James' Park, Newcastle, on Thu., June 3, 2027. File photo of the stadium."
   credit: "Photo: Arne Müseler / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 3.0 de"
@@ -21,8 +21,8 @@ hero:
 summary:
   - "The Newcastle United presale for Sam Fender's St. James' Park shows started Thursday, Oct. 29, 2026 at 9:30 a.m. UK time, according to Newcastle United."
   - "General sale for the Proper Massive Stadium Tour 2027 was set for Friday, Oct. 30, 2026 at 9:30 a.m. Greenwich Mean Time (GMT), which is 5:30 a.m. Eastern Time (ET) and 2:30 a.m. Pacific Time (PT)."
-  - "samfender.com lists nine shows from Thu., June 3 to Sat., July 17, 2027, with a limit of 6 tickets per person."
-  - "Ticket prices and North American dates have not been announced."
+  - "samfender.com lists 13 UK, Irish and Belgian shows from Thu., June 3 to Thu., Sept. 2, 2027, and 10 North American shows from Tue., April 20 to Sun., May 9, 2027; it marked most June and July dates sold out on Nov. 14."
+  - "The 6-ticket limit was the maximum on samfender.com when we checked on Oct. 28, and the pages we read give no ticket prices."
 faq:
   - q: "What time did Sam Fender tickets go on sale?"
     a: "General sale was set for Friday, Oct. 30, 2026 at 9:30 a.m. UK time, according to samfender.com, Ticketmaster and Newcastle United. That was 5:30 a.m. Eastern Time (ET)."
@@ -31,7 +31,7 @@ faq:
   - q: "Does the presale guarantee tickets?"
     a: "No. samfender.com says entry to the presale does not guarantee tickets."
   - q: "Is Sam Fender touring North America in 2027?"
-    a: "No North American dates are listed on samfender.com, which says more dates are coming soon."
+    a: "Yes. samfender.com lists 10 North American shows from Tue., April 20, 2027 in Boston to Sun., May 9, 2027 in Vancouver, each with an access presale button."
   - q: "How much do Sam Fender tickets cost?"
     a: "No official prices were found on the pages we checked on Oct. 28, 2026, so we do not quote any."
 sources:
@@ -54,58 +54,51 @@ internalLinks:
     label: "July 2027 printable calendar"
 related: [hyde-park-winter-wonderland-2026-dates-opening-times-tickets, uk-europe-clocks-go-back-october-25-2026-time-difference, uk-bank-holidays-2027-dates-england-scotland-northern-ireland]
 downloads:
-  - group: "Sam Fender 2027 Ticket Day Checklist printables"
-    title: "Sam Fender 2027 Ticket Day Checklist"
-    description: "A one-page checklist for Sam Fender 2027 ticket day: presale and general sale times, the 6-ticket limit and all nine show dates."
+  - group: "Sam Fender 2027 Tour Dates Checklist printables"
+    title: "Sam Fender 2027 Tour Dates Checklist"
+    description: "A one-page checklist of Sam Fender's 2027 UK, Ireland and Belgium show dates, with the 6-ticket limit and a reminder to buy from official sellers."
     preview: ../../../../assets/news/sam-fender-2027/sam-fender-2027-ticket-day-checklist.png
-    alt: "Printable Sam Fender 2027 ticket day checklist with sale times and nine show dates."
+    alt: "Printable Sam Fender 2027 tour dates checklist with 13 UK, Ireland and Belgium show dates."
     pdf: "/news/downloads/sam-fender-2027/sam-fender-2027-ticket-day-checklist.pdf"
     png: "/news/downloads/sam-fender-2027/sam-fender-2027-ticket-day-checklist.png"
-    pages: 1
-  - group: "Sam Fender 2027 Ticket Day Checklist printables"
-    title: "Sam Fender 2027 Ticket Day Checklist (ink saver)"
-    description: "A one-page checklist for Sam Fender 2027 ticket day: presale and general sale times, the 6-ticket limit and all nine show dates. Ink-saver version."
-    preview: ../../../../assets/news/sam-fender-2027/sam-fender-2027-ticket-day-checklist-ink.png
-    alt: "Printable Sam Fender 2027 ticket day checklist with sale times and nine show dates, ink-saver version"
-    pdf: "/news/downloads/sam-fender-2027/sam-fender-2027-ticket-day-checklist-ink.pdf"
-    png: "/news/downloads/sam-fender-2027/sam-fender-2027-ticket-day-checklist-ink.png"
     pages: 1
 draft: false
 assets:
   overlay: true
-  kicker: "Sam Fender 2027 · General sale Fri., Oct. 30"
+  kicker: "Sam Fender 2027 · Proper Massive tour dates"
   date: "2026-10-30"
-  card: { top: "General sale at 9:30 a.m. UK time", big: "Fri., Oct. 30", bottom: "5:30 a.m. ET, 2:30 a.m. PT" }
+  card: { top: "Proper Massive Stadium Tour", big: "Apr. 20 to Sept. 2", bottom: "North America, UK, Ireland, Belgium" }
   printable:
     slug: sam-fender-2027-ticket-day-checklist
     group: sam-fender-2027
-    title: "Sam Fender 2027 Ticket Day Checklist"
-    subtitle: "Proper Massive Stadium Tour 2027: sale times are UK time (GMT)"
+    title: "Sam Fender 2027 Tour Dates Checklist"
+    subtitle: "Proper Massive Stadium Tour 2027: UK, Ireland and Belgium dates"
     layout: checklist
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - { when: "Presale", what: "Thu., Oct. 29, 2026, 9:30 a.m. Newcastle United presale (St. James' Park shows)", section: "Sale days" }
-      - { when: "General sale", what: "Fri., Oct. 30, 2026, 9:30 a.m. general sale (5:30 a.m. ET, 2:30 a.m. PT)", section: "Sale days" }
-      - { when: "Check", what: "Maximum 6 tickets per person", section: "Before you buy" }
-      - { when: "Check", what: "Presale entry does not guarantee tickets", section: "Before you buy" }
+      - { when: "Check", what: "Maximum 6 tickets per person (samfender.com, Oct. 28)", section: "Before you buy" }
       - { when: "Check", what: "Buy through samfender.com links or official sellers", section: "Before you buy" }
       - { when: "Thu., June 3, 2027", what: "St. James' Park, Newcastle", section: "Show dates" }
       - { when: "Sat., June 5, 2027", what: "St. James' Park, Newcastle", section: "Show dates" }
       - { when: "Thu., June 10, 2027", what: "Principality Stadium, Cardiff", section: "Show dates" }
+      - { when: "Sat., June 12, 2027", what: "Principality Stadium, Cardiff", section: "Show dates" }
       - { when: "Fri., June 18, 2027", what: "Wembley Stadium, London", section: "Show dates" }
       - { when: "Sun., June 20, 2027", what: "Wembley Stadium, London", section: "Show dates" }
       - { when: "Thu., July 1, 2027", what: "Marlay Park, Dublin", section: "Show dates" }
+      - { when: "Sat., July 3, 2027", what: "Rock Werchter, Belgium", section: "Show dates" }
       - { when: "Thu., July 8, 2027", what: "Murrayfield Stadium, Edinburgh", section: "Show dates" }
+      - { when: "Sat., July 10, 2027", what: "Murrayfield Stadium, Edinburgh", section: "Show dates" }
       - { when: "Thu., July 15, 2027", what: "Etihad Stadium, Manchester", section: "Show dates" }
       - { when: "Sat., July 17, 2027", what: "Etihad Stadium, Manchester", section: "Show dates" }
-    note: "Source: samfender.com/tour; Ticketmaster UK (Oct. 21, 2026); Newcastle United (Oct. 2026). More dates are listed as coming soon."
-    description: "A one-page checklist for Sam Fender 2027 ticket day: presale and general sale times, the 6-ticket limit and all nine show dates."
-    alt: "Printable Sam Fender 2027 ticket day checklist with sale times and nine show dates."
+      - { when: "Thu., Sept. 2, 2027", what: "Wembley Stadium, London", section: "Show dates" }
+    note: "Source: samfender.com/tour, read Nov. 14, 2026; Ticketmaster UK (Oct. 21, 2026). Weekdays are our calculation."
+    description: "A one-page checklist of Sam Fender's 2027 UK, Ireland and Belgium show dates, with the 6-ticket limit and a reminder to buy from official sellers."
+    alt: "Printable Sam Fender 2027 tour dates checklist with 13 UK, Ireland and Belgium show dates."
 ---
 
 **Sam Fender's general sale for the Proper Massive Stadium Tour 2027 was set for Friday, Oct. 30, 2026 at 9:30 a.m. Greenwich Mean Time (GMT), 5:30 a.m. Eastern Time (ET)**, according to Ticketmaster UK and samfender.com. A day earlier, on Thursday, Oct. 29, the Newcastle United presale for the St. James' Park shows was set to start at 9:30 a.m. UK time, the club said. Both sale days have passed; this story keeps the sale times for the record.
 
-The United Kingdom (UK) went back to GMT on Oct. 25 and US clocks changed on Nov. 1, so on both sale days GMT was 4 hours ahead of ET. Our table below converts the time for every US zone, and a one-page checklist is in the downloads.
+The United Kingdom (UK) went back to GMT on Oct. 25 and US clocks changed on Nov. 1, so on both sale days GMT was 4 hours ahead of ET. Our table below converts the time for every US zone, and a one-page checklist of the UK, Irish and Belgian show dates is in the downloads. North American dates are further down.
 
 ## What time did Sam Fender tickets go on sale?
 
@@ -136,7 +129,7 @@ samfender.com also described an album pre-order presale on Wednesday, Oct. 28 at
 | Thu., July 15, 2027 | Etihad Stadium | Manchester |
 | Sat., July 17, 2027 | Etihad Stadium | Manchester |
 
-The dates come from samfender.com, read Oct. 28, 2026; the weekdays are our calculation. Ticketmaster UK lists the UK dates and leaves out Dublin. The site says "More Dates Soon," and no North American dates are listed. Mark the shows on the [June 2027 printable calendar](/june-calendars.html) and the [July 2027 printable calendar](/july-calendars.html).
+The dates above are the nine on sale first, from samfender.com on Oct. 28, 2026. By Nov. 14 the site also listed Cardiff on Saturday, June 12, Rock Werchter in Belgium on Saturday, July 3, Edinburgh on Saturday, July 10 and Wembley on Thursday, Sept. 2, 2027. It marked the first nine as sold out, except Cardiff on June 10, which it showed as sold out too, and offered "Buy tickets" for June 12, July 3, July 10 and Sept. 2. The weekdays are our calculation. Ticketmaster UK lists the UK dates and leaves out Dublin. Mark the shows on the [June 2027 printable calendar](/june-calendars.html) and the [July 2027 printable calendar](/july-calendars.html).
 
 ## What are the ticket limits and prices?
 

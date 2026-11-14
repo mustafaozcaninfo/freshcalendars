@@ -1,59 +1,59 @@
 ---
-title: "CFP Rankings 2026 Release Dates: Nov. 10 and Selection Day Dec. 6"
-description: "College Football Playoff (CFP) rankings come out Tuesdays on ESPN: Nov. 10, 17, 24 and Dec. 1, then Selection Day Dec. 6. Full schedule and a printable."
+title: "CFP Rankings 2026 Dates: Next Is Nov. 17, Selection Day Dec. 6"
+description: "College Football Playoff (CFP) rankings: Georgia led Nov. 10; next shows Nov. 17, 24, Dec. 1 on ESPN, Selection Day Dec. 6. Full schedule, printable."
 type: news
 publishedAt: "2026-10-24T00:50:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:50:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["CFP rankings 2026 schedule", "when do college football playoff rankings come out 2026", "first CFP rankings 2026", "CFP selection day 2026", "college football playoff schedule 2026"]
 dateline: "New York"
 assets:
   scene: sports
-  kicker: "CFP rankings · Tue., Nov. 3"
-  date: "2026-11-03"
-  card: { top: "First CFP rankings", big: "Tue., Nov. 3", bottom: "7 p.m. ET on ESPN" }
+  kicker: "CFP rankings · Tue., Nov. 17"
+  date: "2026-11-17"
+  card: { top: "Next CFP rankings", big: "Tue., Nov. 17", bottom: "9 p.m. ET on ESPN" }
   printable:
     slug: cfp-2026-27-rankings-playoff-schedule
     group: cfp-2026
     title: "College Football Playoff 2026-27 Schedule"
-    subtitle: "Every rankings release and playoff date, times in Eastern Time"
+    subtitle: "Remaining rankings releases and playoff dates, Eastern Time"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     layout: list
     columns: ["When (ET)", "Show or game"]
     notesLabel: "My bracket picks"
     rows:
-      - ["Nov. 3, 7 p.m.", "First CFP rankings, ESPN"]
-      - ["Nov. 10, 9 p.m.", "CFP rankings, ESPN"]
       - ["Nov. 17, 9 p.m.", "CFP rankings, ESPN"]
       - ["Nov. 24, 7:30 p.m.", "CFP rankings, ESPN"]
       - ["Dec. 1, 7 p.m.", "CFP rankings, ESPN"]
       - ["Dec. 6, noon", "Selection Day: final rankings and bracket, ESPN"]
       - ["Dec. 18, 8 p.m.", "First round, campus sites, ESPN"]
-      - ["Dec. 19", "First round, campus sites"]
-      - ["Dec. 30", "Fiesta Bowl quarterfinal, Glendale, Ariz."]
+      - ["Dec. 19, noon, 3:30, 7:30 p.m.", "First round, campus sites"]
+      - ["Dec. 30, 7:30 p.m.", "Fiesta Bowl quarterfinal, Glendale, Ariz."]
       - ["Jan. 1", "Peach, Cotton and Rose Bowl quarterfinals"]
-      - ["Jan. 14", "Orange Bowl semifinal, Miami Gardens, Fla."]
-      - ["Jan. 15", "Sugar Bowl semifinal, New Orleans"]
+      - ["Jan. 14, 7:30 p.m.", "Orange Bowl semifinal, Miami Gardens, Fla."]
+      - ["Jan. 15, 7:30 p.m.", "Sugar Bowl semifinal, New Orleans"]
       - ["Jan. 25, 7:30 p.m.", "National championship, Las Vegas, ABC and ESPN"]
     note: "Source: NCAA.com and College Football Playoff rankings schedule; CFP and ESPN game schedule; dates and times in Eastern Time, subject to change."
-    inkSaver: true
-    description: "One-page College Football Playoff 2026-27 schedule with all six rankings release dates, times in Eastern Time and the full playoff bracket from the first round to the title game. Free."
-    alt: "College Football Playoff 2026-27 schedule printable listing six rankings shows and every playoff game with dates and Eastern Time start times"
+    description: "One-page College Football Playoff 2026-27 schedule with the remaining rankings release dates, times in Eastern Time and every playoff game from the first round to the title game."
+    alt: "College Football Playoff 2026-27 schedule printable listing the remaining rankings shows and every playoff game with dates and Eastern Time start times"
 hero:
   src: ../../../../assets/news/college-football-playoff-rankings-2026-schedule-dates-times/college-football-playoff-rankings-2026-schedule-dates-times.jpg
-  alt: "College Football Playoff rankings 2026 schedule: a football beside a date tile for Tuesday, Nov. 3 and a card reading first CFP rankings at 7 p.m. ET on ESPN"
-  title: "First CFP rankings: Nov. 3"
-  caption: "The first College Football Playoff rankings of 2026 are released Tuesday, Nov. 3 at 7 p.m. Eastern Time on ESPN. Selection Day is Sunday, Dec. 6."
+  alt: "College Football Playoff rankings 2026 schedule: a football beside a date tile for Tuesday, Nov. 17 and a card reading next CFP rankings at 9 p.m. ET on ESPN"
+  title: "Next CFP rankings: Nov. 17"
+  caption: "The next College Football Playoff rankings of 2026 come out Tuesday, Nov. 17 at 9 p.m. Eastern Time on ESPN; the first two came out Nov. 3 and Nov. 10. Selection Day is Sunday, Dec. 6."
 summary:
-  - "The first College Football Playoff (CFP) rankings of the season come out Tuesday, Nov. 3, 2026, from 7 to 8 p.m. Eastern Time (ET) on ESPN, per NCAA.com."
-  - "Four more Tuesday rankings shows follow on Nov. 10, Nov. 17, Nov. 24 and Dec. 1, before Selection Day on Sunday, Dec. 6 from noon to 3 p.m. ET."
+  - "The first College Football Playoff (CFP) rankings came out Tuesday, Nov. 3, 2026, with Miami No. 1 and Georgia No. 2; on Nov. 10 Georgia moved to No. 1, with Utah No. 2 and Alabama No. 3, per NCAA.com."
+  - "Three more Tuesday rankings shows follow on Nov. 17 (9 p.m. Eastern Time, ET, on ESPN), Nov. 24 and Dec. 1, before Selection Day on Sunday, Dec. 6 from noon to 3 p.m. ET."
   - "The playoff starts with first-round games on Friday, Dec. 18 and Saturday, Dec. 19 at campus sites."
   - "The national championship is Monday, Jan. 25, 2027 at 7:30 p.m. ET at Allegiant Stadium in Las Vegas."
 faq:
-  - q: "When do the first College Football Playoff rankings come out in 2026?"
-    a: "Tuesday, Nov. 3, 2026, from 7 to 8 p.m. Eastern Time on ESPN, according to NCAA.com. It is the first of six rankings shows the selection committee releases this season."
+  - q: "When did the first College Football Playoff rankings come out in 2026?"
+    a: "Tuesday, Nov. 3, 2026, from 7 to 8 p.m. Eastern Time on ESPN, according to NCAA.com. Miami was No. 1 and Georgia No. 2. It was the first of six rankings shows the selection committee releases this season."
   - q: "What time are the CFP rankings released each week?"
-    a: "The Nov. 10 and Nov. 17 shows run 9 to 9:30 p.m. ET, Nov. 24 runs 7:30 to 8 p.m., Dec. 1 runs 7 to 7:30 p.m., and Selection Day on Dec. 6 runs noon to 3 p.m. All times are Eastern Time on ESPN."
+    a: "The Nov. 10 and Nov. 17 shows run 9 to 9:30 p.m. ET (Nov. 10 has aired), Nov. 24 runs 7:30 to 8 p.m., Dec. 1 runs 7 to 7:30 p.m., and Selection Day on Dec. 6 runs noon to 3 p.m. All times are Eastern Time on ESPN."
+  - q: "Who was No. 1 in the second CFP rankings?"
+    a: "Georgia (8-1), on Nov. 10, 2026, ahead of Utah (9-0) and Alabama (7-2), according to NCAA.com. Miami had been No. 1 on Nov. 3 and was No. 7 on Nov. 10."
   - q: "When is CFP Selection Day 2026?"
     a: "Sunday, Dec. 6, 2026, from noon to 3 p.m. Eastern Time on ESPN. That show reveals the final rankings and the 12-team bracket with seeds and matchups."
   - q: "How many teams make the College Football Playoff?"
@@ -68,8 +68,20 @@ sources:
   - title: "When do the College Football Playoff rankings come out? Release dates and schedule"
     url: "https://www.ncaa.com/news/football/article/2026-08-11/when-do-college-football-playoff-rankings-come-out"
     publisher: "NCAA.com"
-    date: "2026-08-27"
-  - title: "College Football Playoff sets 2026 rankings release schedule"
+    date: "2026-11-10"
+  - title: "Miami, Georgia lead the first College Football Playoff rankings of 2026"
+    url: "https://www.ncaa.com/news/football/article/2026-11-03/miami-georgia-lead-first-college-football-playoff-rankings-2026"
+    publisher: "NCAA.com"
+    date: "2026-11-03"
+  - title: "College Football Playoff bracket, based on current committee rankings"
+    url: "https://www.ncaa.com/news/football/article/2026-11-10/college-football-playoff-bracket-based-current-committee-rankings"
+    publisher: "NCAA.com"
+    date: "2026-11-10"
+  - title: "College Football Playoff rankings and schedule"
+    url: "https://www.collegefootballplayoff.com/rankings"
+    publisher: "College Football Playoff"
+    date: "2026-11-14"
+  - title: "College Football Playoff sets 2026 rankings
     url: "https://fbschedules.com/college-football-playoff-sets-2026-rankings-release-schedule/"
     publisher: "FBSchedules.com"
   - title: "College Football Playoff sets 2026-27 schedule, kickoff times, TV designations"
@@ -95,22 +107,14 @@ downloads:
     pdf: "/news/downloads/cfp-2026/cfp-2026-27-rankings-playoff-schedule.pdf"
     png: "/news/downloads/cfp-2026/cfp-2026-27-rankings-playoff-schedule.png"
     pages: 1
-  - group: "College Football Playoff 2026-27 Schedule printables"
-    title: "College Football Playoff 2026-27 Schedule (ink saver)"
-    description: "One-page College Football Playoff 2026-27 schedule with all six rankings release dates, times in Eastern Time and the full playoff bracket. Free. Ink-saver version."
-    preview: ../../../../assets/news/cfp-2026/cfp-2026-27-rankings-playoff-schedule-ink.png
-    alt: "College Football Playoff 2026-27 schedule printable listing six rankings shows and every playoff game with dates and Eastern Time start time, ink-saver version"
-    pdf: "/news/downloads/cfp-2026/cfp-2026-27-rankings-playoff-schedule-ink.pdf"
-    png: "/news/downloads/cfp-2026/cfp-2026-27-rankings-playoff-schedule-ink.png"
-    pages: 1
 draft: false
 ---
 
-**The first College Football Playoff (CFP) rankings of 2026 come out Tuesday, Nov. 3, from 7 to 8 p.m. Eastern Time (ET) on ESPN**, according to the National Collegiate Athletic Association (NCAA) and its NCAA.com schedule. Five more rankings shows follow through December, ending with Selection Day on Sunday, Dec. 6, when the selection committee sets the 12-team bracket. Twelve teams make the field. The clock below counts down to three key dates.
+**The first College Football Playoff (CFP) rankings of 2026 came out Tuesday, Nov. 3, from 7 to 8 p.m. Eastern Time (ET) on ESPN, with Miami No. 1 and Georgia No. 2**, according to the National Collegiate Athletic Association (NCAA) and its NCAA.com. The second rankings, on Nov. 10, put Georgia at No. 1, Utah No. 2 and Alabama No. 3. Four shows remain, starting Tuesday, Nov. 17 at 9 p.m. ET and ending with Selection Day on Sunday, Dec. 6, when the selection committee sets the 12-team bracket. The clock below counts down to three key dates.
 
 ## Countdown to the CFP dates
 
-<div class="tool-box" data-launch-clock data-local="2026-11-03" data-done="This date has arrived. Check ESPN for the rankings." data-targets="First CFP rankings, 7 p.m. ET Tue., Nov. 3|2026-11-04T00:00:00Z;Selection Day show, noon ET Sun., Dec. 6|2026-12-06T17:00:00Z;National championship, 7:30 p.m. ET Mon., Jan. 25|2027-01-26T00:30:00Z" hidden>
+<div class="tool-box" data-launch-clock data-local="2026-11-17" data-done="This date has arrived. Check ESPN for the rankings." data-targets="Next CFP rankings, 9 p.m. ET Tue., Nov. 17|2026-11-18T02:00:00Z;Selection Day show, noon ET Sun., Dec. 6|2026-12-06T17:00:00Z;National championship, 7:30 p.m. ET Mon., Jan. 25|2027-01-26T00:30:00Z" hidden>
 <p class="tool-title">Days, hours, minutes and seconds to go</p>
 <label for="lc-store">Count down to</label>
 <select id="lc-store"></select>
@@ -121,18 +125,18 @@ The clock needs JavaScript. Without it, use the tables below. It counts to the e
 
 ## When do the College Football Playoff rankings come out?
 
-The committee reveals its rankings six times. The first five land on Tuesday nights; Selection Day moves to a Sunday afternoon. All of them air on ESPN in Eastern Time, per NCAA.com.
+The committee reveals its rankings six times. The first five land on Tuesday nights; Selection Day moves to a Sunday afternoon. All of them air on ESPN in Eastern Time, per NCAA.com. The top three teams for the two shows already held come from NCAA.com's reports.
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-| Date | Day | CFP rankings show | Time (Eastern) | Days from Nov. 2 |
-|---|---|---|---|---|
-| Nov. 3 | Tuesday | First rankings | 7 to 8 p.m. | 1 |
-| Nov. 10 | Tuesday | Weekly rankings | 9 to 9:30 p.m. | 8 |
-| Nov. 17 | Tuesday | Weekly rankings | 9 to 9:30 p.m. | 15 |
-| Nov. 24 | Tuesday | Weekly rankings | 7:30 to 8 p.m. | 22 |
-| Dec. 1 | Tuesday | Weekly rankings | 7 to 7:30 p.m. | 29 |
-| Dec. 6 | Sunday | Selection Day: final rankings and bracket | Noon to 3 p.m. | 34 |
+| Date | Day | CFP rankings show | Time (Eastern) | Top three | Days from Nov. 14 |
+|---|---|---|---|---|---|
+| Nov. 3 | Tuesday | First rankings | 7 to 8 p.m. | Miami, Georgia, Utah | Passed |
+| Nov. 10 | Tuesday | Weekly rankings | 9 to 9:30 p.m. | Georgia, Utah, Alabama | Passed |
+| Nov. 17 | Tuesday | Weekly rankings | 9 to 9:30 p.m. | Not yet released | 3 |
+| Nov. 24 | Tuesday | Weekly rankings | 7:30 to 8 p.m. | Not yet released | 10 |
+| Dec. 1 | Tuesday | Weekly rankings | 7 to 7:30 p.m. | Not yet released | 17 |
+| Dec. 6 | Sunday | Selection Day: final rankings and bracket | Noon to 3 p.m. | Not yet released | 22 |
 
 The first show is the committee's opening look, which can differ from the polls. Last season the committee's first No. 1 was Ohio State, released Nov. 4, 2025, while Indiana ended up No. 1 on Selection Day, Dec. 7, 2025, according to NCAA.com.
 
@@ -150,28 +154,28 @@ Selection Day on Dec. 6 seeds the bracket. First-round games are played at the h
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-| Date | Day | Round | Site | Days from Nov. 2 |
+| Date | Day | Round | Site | Days from Nov. 14 |
 |---|---|---|---|---|
-| Dec. 18 | Friday | First round (8 p.m. ET, ESPN) | Campus sites | 46 |
-| Dec. 19 | Saturday | First round | Campus sites | 47 |
-| Dec. 30 | Wednesday | Fiesta Bowl quarterfinal | Glendale, Ariz. | 58 |
+| Dec. 18 | Friday | First round (8 p.m. ET, ESPN) | Campus sites | 34 |
+| Dec. 19 | Saturday | First round (noon, 3:30 and 7:30 p.m. ET) | Campus sites | 35 |
+| Dec. 30 | Wednesday | Fiesta Bowl quarterfinal (7:30 p.m. ET) | Glendale, Ariz. | 46 |
 
 ### January 2027 games
 
 <p class="days-live" data-days-until="2027" hidden></p>
 
-| Date | Day | Round | Site | Days from Nov. 2 |
+| Date | Day | Round | Site | Days from Nov. 14 |
 |---|---|---|---|---|
-| Jan. 1 | Friday | Peach, Cotton and Rose Bowl quarterfinals | Atlanta; Arlington, Texas; Pasadena | 60 |
-| Jan. 14 | Thursday | Orange Bowl semifinal | Miami Gardens, Fla. | 73 |
-| Jan. 15 | Friday | Sugar Bowl semifinal | New Orleans | 74 |
-| Jan. 25 | Monday | National championship (7:30 p.m. ET) | Las Vegas | 84 |
+| Jan. 1 | Friday | Peach, Cotton and Rose Bowl quarterfinals (times not yet set) | Atlanta; Arlington, Texas; Pasadena | 48 |
+| Jan. 14 | Thursday | Orange Bowl semifinal (7:30 p.m. ET) | Miami Gardens, Fla. | 61 |
+| Jan. 15 | Friday | Sugar Bowl semifinal (7:30 p.m. ET) | New Orleans | 62 |
+| Jan. 25 | Monday | National championship (7:30 p.m. ET) | Las Vegas | 72 |
 
-The national championship is Monday, Jan. 25, 2027, at 7:30 p.m. Eastern Time at Allegiant Stadium in Las Vegas, on ABC and ESPN, according to ESPN and fbschedules.com. The quarterfinal and semifinal bowls listed here are the designated playoff sites; kickoff times for each game depend on the matchups set on Selection Day.
+The national championship is Monday, Jan. 25, 2027, at 7:30 p.m. Eastern Time at Allegiant Stadium in Las Vegas, on ABC and ESPN, according to ESPN and fbschedules.com. The College Football Playoff site lists 7:30 p.m. ET for the Fiesta, Orange and Sugar Bowls and shows the Jan. 1 kickoff times as to be determined.
 
 ## Print the schedule
 
-Our free one-page sheet lists all six rankings shows and every playoff date with Eastern Time start times, and leaves room to fill in your own bracket picks. Use the ink-saver version for a home printer. It is a static sheet, so check the tables above if a date or time changes.
+Our free one-page sheet lists the four remaining rankings shows and every playoff date with Eastern Time start times, and leaves room to fill in your own bracket picks. It is a static sheet, so check the tables above if a date or time changes.
 
 ## Plan the season
 
