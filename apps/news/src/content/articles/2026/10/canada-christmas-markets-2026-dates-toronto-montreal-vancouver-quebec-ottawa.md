@@ -3,6 +3,7 @@ title: "Christmas Markets Canada 2026: Toronto Nov. 12, Montreal Nov. 13"
 description: "Toronto's Distillery Winter Village opens Thursday, Nov. 12, 2026, Montreal's market Nov. 13 and Vancouver's Nov. 16. Closing dates and a free-visit guide."
 type: news
 publishedAt: "2026-10-30T02:30:00-04:00"
+updatedAt: "2026-11-13T21:29:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Christmas markets Canada 2026 dates", "Distillery Winter Village 2026 dates", "Vancouver Christmas Market 2026", "Toronto Christmas market 2026 free days", "Quebec City German Christmas Market 2026"]
@@ -39,6 +40,10 @@ sources:
     url: "https://thedistillerywintervillage.com/faq"
     publisher: "The Distillery Winter Village"
     date: "2026-10-30"
+  - title: "Daily Schedule | The Distillery Winter Village"
+    url: "https://thedistillerywintervillage.com/hours"
+    publisher: "The Distillery Winter Village"
+    date: "2026-11-13"
   - title: "The Distillery Winter Village | Toronto's Holiday Market in the Distillery District"
     url: "https://thedistillerywintervillage.com/"
     publisher: "The Distillery Winter Village"
@@ -147,7 +152,25 @@ The Distillery Winter Village is the market formerly called the Toronto Christma
 
 Tickets start at $16 plus HST and a service charge, and come as General Admission, Flex or Express. They are bought online in advance, and the market has no on-site box office.
 
-The tree lighting ceremony is at 6 p.m. on Thursday, Nov. 12. On opening day the retail shops are open from 10 a.m. to 9 p.m. and the cabins from 11 a.m. to 9 p.m. Hours for other days are not listed on the pages we read.
+The tree lighting ceremony is at 6 p.m. on Thursday, Nov. 12.
+
+## What are the Distillery Winter Village shop and cabin hours?
+
+The Distillery's daily schedule page lists retail shop and cabin hours for every day of the season. On regular days tickets are required from 4 p.m. to closing on Fridays, Saturdays and Sundays, and every day from Dec. 14; Thursday, Dec. 3 and Thursday, Dec. 10 also need tickets from 4 p.m. Kids aged 9 and under are always free to enter, according to the market's homepage.
+
+| Day | Retail shops | Cabins |
+|---|---|---|
+| Friday and Saturday | 10 a.m. to 10 p.m. | 11 a.m. to 10 p.m. |
+| Sunday to Thursday | 10 a.m. to 9 p.m. | 11 a.m. to 9 p.m. |
+| Wed., Nov. 25 | 10 a.m. to 5 p.m. | 11 a.m. to 9 p.m. |
+| Thu., Dec. 24 | 10 a.m. to 6 p.m. | 11 a.m. to 6 p.m. |
+| Fri., Dec. 25 | Closed | Closed |
+| Sat., Dec. 26 | Noon to 5 p.m. | 11 a.m. to 10 p.m. |
+| Thu., Dec. 31 | 10 a.m. to 10 p.m. | 11 a.m. to midnight |
+| Fri., Jan. 1, 2027 | Noon to 5 p.m. | 11 a.m. to 9 p.m. |
+| Sun., Jan. 3, 2027 (last day) | 10 a.m. to 9 p.m. | 11 a.m. to 6 p.m. |
+
+On Dec. 31 tickets are required from 4 p.m. to midnight, and Jan. 1 to 3 need no tickets, according to the same page.
 
 ## What are the Vancouver Christmas Market hours and ticket prices?
 

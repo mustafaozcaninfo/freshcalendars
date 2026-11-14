@@ -3,7 +3,7 @@ title: "Black Friday Ads 2026: Date Is Nov. 27, Walmart Deals Nov. 23-29"
 description: "Black Friday 2026 is Friday, Nov. 27. Ad tracker with Walmart, Target, Best Buy, JCPenney and Kohl's sale dates, Costco prices and a live countdown."
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
-updatedAt: "2026-11-13T12:03:00-05:00"
+updatedAt: "2026-11-13T21:29:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
@@ -150,6 +150,10 @@ sources:
     url: "https://investors.dicks.com/news/press-releases/news-details/2026/DICKS-Sporting-Goods-Inc--to-Hire-Over-11000-Seasonal-Teammates-for-the-2026-Holiday-Shopping-Season/default.aspx"
     publisher: "Dick's Sporting Goods"
     date: "2026-10-15"
+  - title: "DICK'S Sporting Goods Announces 2026 Holiday Deals, Gift Shop and Black Friday Hours"
+    url: "https://www.prnewswire.com/news-releases/dicks-sporting-goods-announces-2026-holiday-deals-gift-shop-and-black-friday-hours-302934896.html"
+    publisher: "Dick's Sporting Goods via PR Newswire"
+    date: "2026-11-10"
   - title: "Everyone Deserves a Better Deal. At JCPenney, They Get One. Period."
     url: "https://corporate.jcpenney.com/2026/11/02/everyone-deserves-a-better-deal-at-jcpenney-they-get-one-period/"
     publisher: "JCPenney Newsroom"
@@ -209,7 +213,7 @@ Ten retailers already have a sale running on Friday, Nov. 13, two weeks before B
 | No end date given | Lowe's Black Friday deals | Oct. 29 |
 | No end date given | BJ's Wholesale Club Early Black Friday deals, in clubs and online | Oct. 23 |
 
-Next to open: Lowe's 12 Days of Deals and JCPenney's Holiday Daily Deals on Monday, Nov. 16; Best Buy's 10 days of Black Friday deals and Amazon's Black Friday Week on Thursday, Nov. 19; then Walmart's main event on Monday, Nov. 23. Still without dates: Target's Black Friday and Cyber Monday events, Macy's, the Dick's Sporting Goods sale, and the Black Friday and Cyber Monday events at BJ's.
+Next to open: Lowe's 12 Days of Deals and JCPenney's Holiday Daily Deals on Monday, Nov. 16; Best Buy's 10 days of Black Friday deals and Amazon's Black Friday Week on Thursday, Nov. 19; then Walmart's main event on Monday, Nov. 23. Still without dates: Target's Black Friday and Cyber Monday events, Macy's, and the Black Friday and Cyber Monday events at BJ's.
 
 ## Countdown to Black Friday 2026
 
@@ -250,6 +254,7 @@ These are the dated events retailers have announced so far. Unconfirmed sales ar
 | Nov. 20 to 29 | Fri. to Sun. | JCPenney Black Friday Deals | - |
 | Nov. 21 to 28 | Sat. to Sat. | Ulta Beauty Black Friday: online from 9 p.m. ET on Nov. 21, in stores Nov. 22 to 28 | - |
 | Nov. 22 to 28 | Sun. to Sat. | Kohl's Black Friday Week | - |
+| Nov. 22 to Dec. 5 | Sun. to Sat. | Dick's Sporting Goods holiday deals | - |
 | Nov. 23 to 29 | Mon. to Sun. | Walmart Black Friday Deals | - |
 | Nov. 26 | Thursday | Thanksgiving; Walmart, Best Buy, Home Depot, Kohl's and Dick's stores closed | - |
 | Nov. 27 | Friday | Black Friday; Lowe's Doorbusters; Costco holiday savings begin (through Nov. 30) | - |
@@ -278,7 +283,7 @@ Amazon's Black Friday Week and Cyber Monday events run Nov. 19 to 30, 2026, star
 | BJ's Wholesale Club | Announced Oct. 15: Early Black Friday deals from Oct. 23, in clubs and online; Black Friday and Cyber Monday dates not in the release | Not confirmed here |
 | Ulta Beauty ([Black Friday page](https://www.ulta.com/blackfriday)) | Early Black Friday deals from Oct. 25 to Nov. 21, in store and online; Black Friday online from Nov. 21 at 8 p.m. CT (9 p.m. ET), in store Nov. 22 at 10 a.m. local time through Nov. 28; Cyber Monday online only, Nov. 29 at 12 a.m. CT (1 a.m. ET) through Dec. 1 at 2 a.m. CT (3 a.m. ET); Big Holiday Beauty Sale Nov. 29 to Dec. 24, in store and online | Not confirmed here |
 | Macy's | Not yet announced | Not confirmed here |
-| Dick's Sporting Goods | Oct. 15 release: stores and distribution centers closed Thanksgiving Day, retail locations reopen Black Friday, Nov. 27; Black Friday sale dates not yet announced | Not confirmed here |
+| Dick's Sporting Goods | Announced Nov. 10: holiday deals valid Sunday, Nov. 22, to Saturday, Dec. 5; all stores closed Thanksgiving Day; doors open 6 a.m. on Black Friday, Nov. 27. The Oct. 15 release also said distribution centers close Thanksgiving Day | Not confirmed here |
 
 Where a cell reads "Not confirmed here," we do not have a verified 2025 date from that retailer, so we do not print one.
 

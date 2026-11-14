@@ -3,6 +3,7 @@ title: "Survivor Series 2026 Start Time: 6 p.m. ET on Nov. 28"
 description: "World Wrestling Entertainment (WWE) lists Survivor Series: WarGames for Sat., Nov. 28 in Houston at 6 p.m. ET. Times for every U.S. zone, the UK and Japan."
 type: news
 publishedAt: "2026-10-30T07:50:00-04:00"
+updatedAt: "2026-11-13T21:29:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["survivor series 2026", "survivor series wargames 2026 start time", "survivor series 2026 date", "how to watch survivor series 2026"]
@@ -22,7 +23,7 @@ hero:
 summary:
   - "WWE lists Survivor Series: WarGames for Saturday, Nov. 28, 2026, at Daikin Park in Houston, the event's first return to the city since 2017."
   - "The ESPN App streams it live at 6 p.m. Eastern Time (ET), which is 5 p.m. in Houston and 3 p.m. Pacific Time (PT), by our conversion."
-  - "No matches are listed on WWE's event page as of Oct. 30, and WWE has not announced a pre-show time."
+  - "As of Nov. 13, WWE lists a WarGames Match, The Bloodline vs. The 946, and Liv Morgan vs. Becky Lynch for the Women's World Championship; no pre-show time is announced."
 faq:
   - q: "What time is Survivor Series 2026?"
     a: "WWE's event page says it streams live on the ESPN App on Saturday, Nov. 28, at 6 p.m. ET. By our conversion that is 5 p.m. Central Time (CT), 4 p.m. Mountain Time (MT) and 3 p.m. PT."
@@ -32,6 +33,8 @@ faq:
     a: "On the ESPN App. WWE's event page says it streams live there, and a 2025 WWE release said ESPN platforms become the exclusive U.S. home of WWE premium live events starting in 2026."
   - q: "What time is Survivor Series 2026 in the UK?"
     a: "11 p.m. Greenwich Mean Time (GMT) on Saturday, Nov. 28, by our conversion of WWE's 6 p.m. ET. WWE's official pages do not yet name a UK broadcaster for 2026."
+  - q: "What matches are on the Survivor Series 2026 card?"
+    a: "As of Nov. 13, WWE lists a WarGames Match, The Bloodline vs. The 946, and Women's World Champion Liv Morgan vs. Becky Lynch. WWE may add matches, and the teams' lineups may still change."
   - q: "What time is Survivor Series 2026 in Japan?"
     a: "Netflix lists the event streaming live at 8:00 a.m. Japan Standard Time (JST) on Sunday, Nov. 29."
 sources:
@@ -42,7 +45,23 @@ sources:
   - title: "Survivor Series WarGames 2026"
     url: "https://www.wwe.com/shows/survivor-series-wargames/2026"
     publisher: "WWE"
-    date: "2026-10-30"
+    date: "2026-11-13"
+  - title: "The Bloodline vs. The 946 (WarGames Match)"
+    url: "https://www.wwe.com/shows/survivor-series-wargames/2026/the-bloodline-vs-the-946"
+    publisher: "WWE"
+    date: "2026-11-09"
+  - title: "Morgan vs. Lynch (Women's World Title)"
+    url: "https://www.wwe.com/shows/survivor-series-wargames/2026/morgan-lynch-world-title"
+    publisher: "WWE"
+    date: "2026-11-13"
+  - title: "What to watch on WWE this week"
+    url: "https://www.wwe.com/article/wwe-upcoming-events"
+    publisher: "WWE"
+    date: "2026-11-13"
+  - title: "Wrestlepalooza: Perth | WWE"
+    url: "https://www.wwe.com/event/wrestlepalooza-perth"
+    publisher: "WWE"
+    date: "2026-11-13"
   - title: "ESPN to become exclusive U.S. home of WWE premium live events"
     url: "https://corporate.wwe.com/about/news/2025/08-06-2025"
     publisher: "WWE"
@@ -58,6 +77,11 @@ sources:
   - title: "Riyadh to host WWE Crown Jewel on Saturday, November 7"
     url: "https://www.wwe.com/article/riyadh-to-host-wwe-crown-jewel-on-saturday-november-7"
     publisher: "WWE"
+    date: "2026-09-01"
+  - title: "Riyadh to host WWE Crown Jewel on Saturday, November 7"
+    url: "https://corporate.wwe.com/about/news/2026/09-01-2026"
+    publisher: "WWE"
+    date: "2026-09-01"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -74,39 +98,46 @@ assets:
     group: survivor-series-2026
     title: "WWE Survivor Series WarGames 2026 Watch Plan, Nov. 28"
     subtitle: "Dates and start times from WWE, with time-zone conversions"
-    columns: ["When", "What"]
-    layout: list
-    rows:
-      - ["Sat., Nov. 7", "Crown Jewel, Riyadh, Saudi Arabia (start time not announced)"]
-      - ["Sat., Nov. 28, 6 p.m. ET", "Survivor Series: WarGames, Daikin Park, Houston, on the ESPN App"]
-      - ["Sat., Nov. 28, 5 p.m. CT", "Central Time"]
-      - ["Sat., Nov. 28, 4 p.m. MT", "Mountain Time"]
-      - ["Sat., Nov. 28, 3 p.m. PT", "Pacific Time"]
-      - ["Sat., Nov. 28, 2 p.m.", "Alaska"]
-      - ["Sat., Nov. 28, 1 p.m.", "Hawaii"]
-      - ["Sat., Nov. 28, 11 p.m.", "United Kingdom (GMT)"]
-      - ["Sun., Nov. 29, 8 a.m.", "Japan (JST), per Netflix"]
-      - ["Sat., Dec. 12", "Wrestlepalooza, Perth, Australia (start time not announced)"]
-    note: "Source: WWE (wwe.com, corporate.wwe.com), checked Oct. 30, 2026. Time zones other than Eastern are our conversion; Japan time is from Netflix."
-    inkSaver: true
-    description: "A one-page watch plan with the Survivor Series: WarGames 2026 start time in U.S. and world time zones, plus Crown Jewel and Wrestlepalooza dates."
-    alt: "WWE Survivor Series WarGames 2026 watch plan with the Nov. 28 start time in U.S. time zones, the UK and Japan"
+    kit: watch-guide
+    data:
+      pick: "My pick"
+      events:
+        - start: "2026-11-07T14:00-05:00"
+          title: "Crown Jewel (held Nov. 7)"
+          detail: "Riyadh Season Stadium, Riyadh"
+          src: "https://www.wwe.com/article/wwe-upcoming-events"
+          quote: ["Saturday, Nov. 7", "2 p.m. ET"]
+        - start: "2026-11-28T18:00-05:00"
+          title: "Survivor Series: WarGames"
+          detail: "Daikin Park, Houston"
+          stream: "ESPN App"
+          src: "https://www.wwe.com/article/wwe-upcoming-events"
+          quote: "Saturday, Nov. 28, 2026, Daikin Park, Houston, Texas - 6 p.m. ET"
+        - start: "2026-11-29T08:00+09:00"
+          tz: "Asia/Tokyo"
+          title: "Survivor Series: WarGames in Japan"
+          stream: "Netflix"
+          src: "https://about.netflix.com/en/news/wwe-in-japan"
+          quote: "Streaming live at 8:00 a.m. JST on Sunday, November 29"
+        - date: "2026-12-12"
+          time: TBA
+          title: "Wrestlepalooza"
+          detail: "Perth, Western Australia"
+          src: "https://www.wwe.com/event/wrestlepalooza-perth"
+          quote: "Saturday, Dec. 12"
+      unconfirmed:
+        - { label: "Wrestlepalooza start time", why: "WWE's event page shows 6:30 PM with no time zone" }
+    note: "Source: WWE (wwe.com, corporate.wwe.com), checked Nov. 13, 2026. Time zones other than Eastern are our conversion; Japan time is from Netflix."
+    description: "A one-page watch plan with the Survivor Series: WarGames 2026 start time in U.S. time zones and Japan, plus Crown Jewel and Wrestlepalooza dates."
+    alt: "WWE Survivor Series WarGames 2026 watch plan with the Nov. 28 start time in U.S. time zones and Japan"
 downloads:
   - group: "WWE Survivor Series WarGames 2026 Watch Plan printables"
     title: "WWE Survivor Series WarGames 2026 Watch Plan, Nov. 28"
-    description: "A one-page watch plan with the Survivor Series: WarGames 2026 start time in U.S. and world time zones, plus Crown Jewel and Wrestlepalooza dates."
+    description: "A one-page watch plan with the Survivor Series: WarGames 2026 start time in U.S. time zones and Japan, plus Crown Jewel and Wrestlepalooza dates."
     preview: ../../../../assets/news/survivor-series-2026/wwe-survivor-series-wargames-2026-watch-plan.png
-    alt: "WWE Survivor Series WarGames 2026 watch plan with the Nov. 28 start time in U.S. time zones, the UK and Japan"
+    alt: "WWE Survivor Series WarGames 2026 watch plan with the Nov. 28 start time in U.S. time zones and Japan"
     pdf: "/news/downloads/survivor-series-2026/wwe-survivor-series-wargames-2026-watch-plan.pdf"
     png: "/news/downloads/survivor-series-2026/wwe-survivor-series-wargames-2026-watch-plan.png"
-    pages: 1
-  - group: "WWE Survivor Series WarGames 2026 Watch Plan printables"
-    title: "WWE Survivor Series WarGames 2026 Watch Plan, Nov. 28 (ink saver)"
-    description: "A one-page watch plan with the Survivor Series: WarGames 2026 start time in U.S. and world time zones, plus Crown Jewel and Wrestlepalooza dates. Ink-saver version."
-    preview: ../../../../assets/news/survivor-series-2026/wwe-survivor-series-wargames-2026-watch-plan-ink.png
-    alt: "WWE Survivor Series WarGames 2026 watch plan with the Nov. 28 start time in U.S. time zones, the UK and Japan, ink-saver version"
-    pdf: "/news/downloads/survivor-series-2026/wwe-survivor-series-wargames-2026-watch-plan-ink.pdf"
-    png: "/news/downloads/survivor-series-2026/wwe-survivor-series-wargames-2026-watch-plan-ink.png"
     pages: 1
 draft: false
 ---
@@ -144,7 +175,12 @@ WWE's official pages we checked do not name a UK broadcaster for 2026. Netflix s
 
 ## Which matches are on the Survivor Series 2026 card?
 
-As of Oct. 30, no matches are listed on WWE's event page for Survivor Series: WarGames 2026. This story will add the card once WWE posts it.
+As of Nov. 13, WWE's show page lists two matches for Survivor Series: WarGames 2026:
+
+- **WarGames Match:** The Bloodline vs. The 946. WWE says "The Bloodline will battle The 946 in a career-altering WarGames Match." Each team's lineup may still change.
+- **Women's World Championship:** Women's World Champion Liv Morgan vs. Becky Lynch.
+
+WWE may add matches before Nov. 28. WWE has not announced a Kickoff (pre-show) time.
 
 ## How does this compare with Survivor Series 2025?
 
@@ -154,12 +190,12 @@ In 2025, Survivor Series was on Saturday, Nov. 29, at Petco Park in San Diego. W
 
 | Date | Event | Place | Start time |
 |---|---|---|---|
-| Sat., Nov. 7, 2026 | Crown Jewel | Riyadh, Saudi Arabia (per WWE) | Not announced |
+| Sat., Nov. 7, 2026 (held) | Crown Jewel | Riyadh Season Stadium, Riyadh | 2 p.m. ET |
 | Sat., Nov. 28, 2026 | Survivor Series: WarGames | Daikin Park, Houston | 6 p.m. ET on the ESPN App |
 | Sat., Dec. 12, 2026 | Wrestlepalooza | Perth, Western Australia | Not confirmed |
 
-WWE's Crown Jewel announcement gives the date and Riyadh; we do not name a venue because it may have changed. The Wrestlepalooza listing comes from WWE's events page. Netflix's Japan post lists these events as well.
+WWE's Sept. 1, 2026 release names the Crown Jewel venue, and WWE's "What to watch" page lists it at 2 p.m. ET. The Wrestlepalooza listing comes from WWE's event page, which shows "6:30 PM" with no time zone, so we do not print a start time. Netflix's Japan post lists these events as well.
 
 ## Free Survivor Series WarGames 2026 watch plan
 
-Our one-page printable lists the three dates above and the Nov. 28 start time in U.S. zones, the UK and Japan. Mark the night on the [November 2026 printable calendar](/november-calendars.html) and the Perth date on the [December 2026 printable calendar](/december-calendars.html). For another start-time table, see our story on the [Ultimate Fighting Championship (UFC) Fight Night start time](/news/ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch/), and for the first weekend of November, [sports on TV on Nov. 1](/news/sports-on-tv-today-november-1-2026/).
+Our one-page printable lists the three dates above and the Nov. 28 start time in U.S. zones and Japan. Mark the night on the [November 2026 printable calendar](/november-calendars.html) and the Perth date on the [December 2026 printable calendar](/december-calendars.html). For another start-time table, see our story on the [Ultimate Fighting Championship (UFC) Fight Night start time](/news/ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch/), and for the first weekend of November, [sports on TV on Nov. 1](/news/sports-on-tv-today-november-1-2026/).
