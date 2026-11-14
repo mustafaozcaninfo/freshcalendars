@@ -3,7 +3,7 @@ title: "Mail-In Ballot Drop-Off on Election Day 2026: Cutoffs by State"
 description: "Most states took a hand-in mail ballot until polls closed Nov. 3, 2026; Alabama, Louisiana, Oklahoma, Tennessee and West Virginia did not. Cutoffs listed."
 type: explainer
 publishedAt: "2026-11-02T14:05:00-05:00"
-updatedAt: "2026-11-14T17:45:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["can i drop off my mail in ballot on election day", "mail in ballot drop off election day 2026", "ballot drop box election day 2026", "where to drop off mail ballot", "mail ballot drop off deadline by state"]

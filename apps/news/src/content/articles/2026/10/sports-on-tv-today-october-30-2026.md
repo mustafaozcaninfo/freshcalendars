@@ -3,7 +3,7 @@ title: "Sports on TV Today, Oct. 30, 2026: 20 Events, From 1 p.m. ET"
 description: "Sports on TV on Friday, Oct. 30, 2026: 20 events from 1 p.m. ET. A time-ordered table with channels for basketball, hockey, college football, racing."
 type: news
 publishedAt: "2026-10-30T01:55:00-04:00"
-updatedAt: "2026-11-14T18:00:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["sports on TV today", "sports schedule today October 30 2026", "what games are on tonight", "sports on TV tonight Friday", "printable sports TV schedule"]

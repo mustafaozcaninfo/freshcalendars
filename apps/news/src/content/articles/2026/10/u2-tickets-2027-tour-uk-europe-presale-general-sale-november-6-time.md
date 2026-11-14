@@ -3,7 +3,7 @@ title: "U2 Tickets 2027: General Sale Nov. 6 at 10 a.m. GMT"
 description: "U2 tickets 2027 went on general sale Fri., Nov. 6 at 10 a.m. GMT, 5 a.m. ET. Presale steps, 26 UK and Europe shows in nine cities and a timeline."
 type: news
 publishedAt: "2026-10-30T05:40:00-04:00"
-updatedAt: "2026-11-14T18:10:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["U2 tickets 2027", "U2 presale", "U2 Tottenham Hotspur Stadium 2027", "U2 general sale time", "U2 tour 2027 dates"]

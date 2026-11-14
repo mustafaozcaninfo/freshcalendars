@@ -3,7 +3,7 @@ title: "Daylight Saving Time 2026: Ended Nov. 1, Senate Bill Still Waiting"
 description: "Daylight saving time 2026 ended at 2 a.m. Sunday, Nov. 1. The House passed permanent DST 308-117 on July 14; no Senate vote yet. Next: March 14, 2027."
 type: news
 publishedAt: "2026-10-17T16:00:00-04:00"
-updatedAt: "2026-11-14T17:45:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["daylight saving time ends 2026", "fall back November 1 2026", "Sunshine Protection Act 2026", "permanent daylight saving time", "clocks change 2026"]

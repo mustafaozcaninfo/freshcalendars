@@ -3,7 +3,7 @@ title: "NHL Games Today, Oct. 29, 2026: 11 Games From 7:00 p.m. ET"
 description: "NHL games on Thursday, Oct. 29, 2026: 11 games from 7:00 to 10:00 p.m. ET, with every final score. Arenas, TV listings and a printable record sheet."
 type: news
 publishedAt: "2026-10-29T16:10:00-04:00"
-updatedAt: "2026-11-14T17:50:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today", "NHL games tonight", "NHL schedule October 29 2026", "NHL TV schedule today", "printable NHL schedule"]

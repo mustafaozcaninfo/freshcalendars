@@ -3,7 +3,7 @@ title: "Cavaliers Schedule November 2026: 14 Games, Printable and TV"
 description: "The Cavaliers play 14 games in November 2026, from Nov. 2 against Oklahoma City to Nov. 29 against Miami. Times in ET, TV, NBA Cup games and a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-14T17:35:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Cavaliers schedule November 2026", "Cavs game tonight", "Cavs NBA Cup schedule 2026", "Cavaliers printable schedule"]

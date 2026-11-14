@@ -3,7 +3,7 @@ title: "Carabao Cup Fourth Round 2026: Fleetwood Beat Arsenal on Penalties"
 description: "Carabao Cup fourth round, Oct. 27 to 29, 2026: Fleetwood Town beat Arsenal 5-3 on penalties. All results, UK and US times, quarter-finals Dec. 15-17."
 type: news
 publishedAt: "2026-10-27T11:58:00-04:00"
-updatedAt: "2026-11-14T17:45:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["carabao cup fourth round results", "fleetwood vs arsenal result", "liverpool vs chelsea carabao cup result", "carabao cup quarter final draw", "carabao cup fourth round 2026"]

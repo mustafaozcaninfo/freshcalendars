@@ -3,7 +3,7 @@ title: "Godzilla Minus Zero Release Date: IMAX Nov. 3, Wide Nov. 6"
 description: "Godzilla Minus Zero had IMAX Early Access Nov. 3 and opened Nov. 6 (GKIDS), then led the box office with $30.5 million, per Variety. Dates by country."
 type: news
 publishedAt: "2026-11-01T01:47:00-04:00"
-updatedAt: "2026-11-14T17:40:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["godzilla minus zero release date", "godzilla minus zero imax", "godzilla day november 3", "when does godzilla minus zero come out", "godzilla minus zero uk release"]

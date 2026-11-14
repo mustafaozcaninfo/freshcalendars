@@ -3,7 +3,7 @@ title: "How Old Is Hello Kitty in 2026? 52 Years Since 1974 Design"
 description: "Hello Kitty's age in 2026: Sanrio gives no birth year, only a 1974 design, 52 years ago. Her birthday was Sunday, Nov. 1; weekdays to 2030 inside."
 type: explainer
 publishedAt: "2026-10-31T17:45:00-04:00"
-updatedAt: "2026-11-14T17:40:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Hello Kitty birthday 2026", "Hello Kitty Day November 1", "how old is Hello Kitty", "when is Hello Kitty's birthday"]

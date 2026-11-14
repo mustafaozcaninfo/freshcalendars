@@ -3,7 +3,7 @@ title: "NHL Games Today, Nov. 1, 2026: 5 Games, 1:00 to 8:00 p.m. ET"
 description: "NHL games on Sunday, Nov. 1, 2026: 5 games from 1:00 to 8:00 p.m. ET, with final scores. Time-zone table for every game, Canadian TV channels, printable."
 type: news
 publishedAt: "2026-10-30T01:58:00-04:00"
-updatedAt: "2026-11-14T17:20:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today November 1 2026", "NHL schedule November 1 2026", "NHL games Sunday", "NHL TV schedule today", "printable NHL schedule"]

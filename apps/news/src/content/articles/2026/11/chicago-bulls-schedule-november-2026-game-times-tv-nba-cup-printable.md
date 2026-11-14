@@ -3,7 +3,7 @@ title: "Bulls Schedule November 2026: 13 Games, Times in CT and ET"
 description: "The Bulls play 13 games in November 2026, from Nov. 2 at Philadelphia to Nov. 28 against Indiana, with Central and Eastern times, TV and a printable."
 type: news
 publishedAt: "2026-11-02T10:10:00-05:00"
-updatedAt: "2026-11-14T17:50:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bulls schedule November 2026", "Bulls game tonight", "Chicago Bulls NBA Cup schedule 2026", "Bulls printable schedule"]

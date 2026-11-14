@@ -3,7 +3,7 @@ title: "Coca-Cola Christmas Truck Tour 2026: Stops Not Yet Announced"
 description: "Coca-Cola Christmas Truck Tour 2026 dates and stops are not yet announced; the Great Britain vote closed Nov. 3. Includes a one-page checklist."
 type: news
 publishedAt: "2026-10-28T13:41:00-04:00"
-updatedAt: "2026-11-14T17:20:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["coca cola christmas truck tour 2026", "coca cola truck tour 2026 dates", "coca cola truck vote", "coca cola christmas truck near me 2026"]

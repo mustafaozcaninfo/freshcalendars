@@ -3,7 +3,7 @@ title: "CFP Rankings 2026 Dates: Next Is Nov. 17, Selection Day Dec. 6"
 description: "College Football Playoff (CFP) rankings: Georgia led Nov. 10; next shows Nov. 17, 24, Dec. 1 on ESPN, Selection Day Dec. 6. Full schedule, printable."
 type: news
 publishedAt: "2026-10-24T00:50:00-04:00"
-updatedAt: "2026-11-14T17:50:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["CFP rankings 2026 schedule", "when do college football playoff rankings come out 2026", "first CFP rankings 2026", "CFP selection day 2026", "college football playoff schedule 2026"]

@@ -3,7 +3,7 @@ title: "National Chicken Sandwich Day 2026: Jollibee Deal Was Monday, Nov. 9"
 description: "National Chicken Sandwich Day 2026 was Monday, Nov. 9: Jollibee Rewards members got a Buy One, Get One (BOGO) chicken sandwich. No other offer confirmed."
 type: news
 publishedAt: "2026-11-08T06:07:00-05:00"
-updatedAt: "2026-11-14T18:35:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["National Chicken Sandwich Day deals 2026", "National Fried Chicken Sandwich Day 2026", "Jollibee BOGO chicken sandwich", "chicken sandwich deals November 9"]

@@ -3,7 +3,7 @@ title: "London Fireworks 2026: Battersea, Alexandra Palace 7 and 8 November"
 description: "London's Bonfire Night fireworks 2026 ran Thursday 5 to Sunday 8 November. Times, Battersea tickets from £10.60 and gates for Wimbledon and Blackheath."
 type: news
 publishedAt: "2026-10-29T15:45:00-04:00"
-updatedAt: "2026-11-14T17:30:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["London fireworks 2026", "Battersea Park fireworks 2026", "Alexandra Palace fireworks 2026", "Blackheath fireworks 2026 time", "Bonfire Night London 2026"]

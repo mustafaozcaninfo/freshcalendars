@@ -3,7 +3,7 @@ title: "Winnipeg Election 2026: Gillingham Re-elected With 80,206 Votes"
 description: "Winnipeg election 2026: Scott Gillingham was re-elected mayor on Oct. 28 with 80,206 votes. Voting hours were 8 a.m. to 8 p.m. Central Time, plus ID rules."
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
-updatedAt: "2026-11-14T17:55:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Winnipeg election 2026", "Winnipeg election day October 28", "Winnipeg voting hours", "what ID do I need to vote in Winnipeg"]

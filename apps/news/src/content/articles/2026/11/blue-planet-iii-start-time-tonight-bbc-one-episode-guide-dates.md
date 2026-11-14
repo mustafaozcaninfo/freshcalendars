@@ -3,7 +3,7 @@ title: "Blue Planet 3 Episode 3: Sunday 15 Nov at 8pm GMT, 3 p.m. ET"
 description: "Blue Planet 3 episode 3, Seasonal Seas, is on BBC One Sunday 15 November at 8pm UK time, 3 p.m. ET. Full episode guide to 29 Nov with US times."
 type: news
 publishedAt: "2026-11-01T10:43:00-05:00"
-updatedAt: "2026-11-14T17:30:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["blue planet 3", "blue planet iii start time", "blue planet iii episode guide", "blue planet 3 bbc one episodes", "blue planet iii us release"]

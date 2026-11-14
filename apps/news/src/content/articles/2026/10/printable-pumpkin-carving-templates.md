@@ -3,7 +3,7 @@ title: "Pumpkin Carving Templates PDF: 18 Free Printable Stencils"
 description: "Print 18 free pumpkin carving templates as PDF, 8 Easy and 10 Medium, each checked for loose pieces, plus a 19-page pack of all of them."
 type: explainer
 publishedAt: "2026-10-29T08:15:00-04:00"
-updatedAt: "2026-11-14T18:10:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["printable pumpkin carving templates", "pumpkin carving stencils", "free printable pumpkin stencils", "easy pumpkin carving templates", "scary pumpkin stencils"]

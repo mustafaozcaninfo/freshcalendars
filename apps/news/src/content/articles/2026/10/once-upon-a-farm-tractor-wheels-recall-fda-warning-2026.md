@@ -3,7 +3,7 @@ title: "Once Upon a Farm Tractor Wheels Recall: Do Not Buy or Serve"
 description: "The Food and Drug Administration (FDA) says do not buy or serve Once Upon a Farm Tractor Wheels bars. Both notices compared, plus a printable fridge note."
 type: news
 publishedAt: "2026-10-31T16:45:00-04:00"
-updatedAt: "2026-11-14T18:05:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["Once Upon a Farm recall", "Tractor Wheels recall", "Once Upon a Farm FDA warning", "Tractor Wheels toddler bars choking", "Once Upon a Farm refund"]

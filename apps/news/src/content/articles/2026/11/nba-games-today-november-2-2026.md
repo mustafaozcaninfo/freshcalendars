@@ -3,7 +3,7 @@ title: "NBA Games Today, Nov. 2: Thunder at Cavaliers on Peacock, 7 p.m. ET"
 description: "Thunder at Cavaliers at 7 p.m. ET was the only game listed on Peacock on Monday, Nov. 2, 2026. Thunder won 117-112. All 15 finals, arenas and time zones."
 type: news
 publishedAt: "2026-10-31T19:41:00-04:00"
-updatedAt: "2026-11-14T17:30:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA games today", "NBA games tonight November 2", "NBA schedule today", "NBA games Monday", "printable NBA schedule"]

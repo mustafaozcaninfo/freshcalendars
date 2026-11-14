@@ -3,7 +3,7 @@ title: "Paris Masters 2026 Schedule: Singles Final Nov. 8, 9 a.m. ET"
 description: "Carlos Alcaraz won the Paris Masters 2026 singles final on Nov. 8, played at 3 p.m. CET, 9 a.m. ET. Final time by U.S. time zone and the order of play."
 type: news
 publishedAt: "2026-10-27T11:55:00-04:00"
-updatedAt: "2026-11-14T17:30:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["paris masters 2026 schedule", "rolex paris masters 2026 final time", "paris masters 2026 dates", "paris masters order of play times"]

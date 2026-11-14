@@ -3,7 +3,7 @@ title: "World Science Day 2026: Nov. 10 and the Science Diplomacy Theme"
 description: "World Science Day fell on Tuesday, Nov. 10, 2026. The theme was \"Common ground through science diplomacy,\" with four aims, activity ideas and a free sheet."
 type: news
 publishedAt: "2026-11-06T14:05:00-05:00"
-updatedAt: "2026-11-14T18:05:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["world science day 2026", "world science day for peace and development 2026 theme", "unesco science day", "science diplomacy"]

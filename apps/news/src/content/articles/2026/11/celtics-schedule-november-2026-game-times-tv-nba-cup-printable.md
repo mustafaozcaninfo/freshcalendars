@@ -3,7 +3,7 @@ title: "Celtics Schedule November 2026: 16 Games, Times and Cup Dates"
 description: "The Celtics play 16 games in November 2026, 12 on the road; the next is Sun., Nov. 15 vs. Dallas, 6 p.m. ET. TV, NBA Cup games and a printable."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
-updatedAt: "2026-11-14T17:44:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Celtics schedule November 2026", "Celtics game tonight", "Celtics NBA Cup schedule 2026", "Celtics printable schedule"]

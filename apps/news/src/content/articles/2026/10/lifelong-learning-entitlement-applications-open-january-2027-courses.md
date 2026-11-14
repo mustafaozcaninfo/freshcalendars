@@ -3,7 +3,7 @@ title: "Lifelong Learning Entitlement Applications Open 30 October 2026"
 description: "Lifelong Learning Entitlement (LLE) applications opened 30 October 2026 for courses from 1 January to 31 July 2027. Route table, key numbers, checklist."
 type: news
 publishedAt: "2026-10-30T10:22:00-04:00"
-updatedAt: "2026-11-14T17:55:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["lifelong learning entitlement applications open", "lifelong learning entitlement how to apply", "LLE student finance 2027", "LLE £39,160"]

@@ -3,7 +3,7 @@ title: "Ice Skating Rinks 2026-27: Bryant Park Oct. 28, Chicago Nov. 13"
 description: "Wollman and Bryant Park rinks opened Oct. 28, 2026, Somerset House Nov. 11; Maggie Daley Ice Ribbon was set for Nov. 13. Dates, hours and prices per rink."
 type: news
 publishedAt: "2026-11-01T22:43:00-05:00"
-updatedAt: "2026-11-14T17:20:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["ice skating rinks open 2026", "bryant park ice skating 2026", "wollman rink 2026 dates", "maggie daley ice ribbon 2026 opening", "somerset house skate 2026"]

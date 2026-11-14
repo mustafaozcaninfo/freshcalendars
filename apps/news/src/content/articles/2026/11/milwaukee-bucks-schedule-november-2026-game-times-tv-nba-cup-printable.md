@@ -3,7 +3,7 @@ title: "Bucks Schedule November 2026: 16 Games, Cup Games Nov. 6, 13, 25, 27"
 description: "The Bucks play 16 games in November 2026, 8 at home and 8 away; the next is Sun., Nov. 15 vs. Atlanta, 7 p.m. CT. CT and ET times plus a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-14T17:40:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bucks schedule November 2026", "Bucks game tonight", "Bucks NBA Cup schedule", "Milwaukee Bucks printable schedule"]

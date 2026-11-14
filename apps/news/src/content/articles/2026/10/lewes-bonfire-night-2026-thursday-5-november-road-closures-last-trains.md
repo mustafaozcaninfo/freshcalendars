@@ -3,7 +3,7 @@ title: "Lewes Bonfire 2026: Roads Closed From 4.45 p.m., No Trains From 5 p.m."
 description: "Lewes Bonfire 2026 was Thursday 5 November: roads closed from 4.45 p.m. and no trains stopped from 5 p.m. A timeline has last trains and procession times."
 type: news
 publishedAt: "2026-10-29T21:39:00-04:00"
-updatedAt: "2026-11-14T17:20:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Lewes Bonfire 2026", "Lewes bonfire night 2026 trains", "Lewes bonfire road closures 2026", "Lewes bonfire procession times"]

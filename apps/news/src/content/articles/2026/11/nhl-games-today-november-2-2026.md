@@ -3,7 +3,7 @@ title: "NHL Games Nov. 2, 2026: Final Scores and Start Times, 4 Games"
 description: "NHL games Monday, Nov. 2, 2026: Bruins, Red Wings, Avalanche and Flames won. Final scores, ET start times, a time-zone table, TV table and printable sheet."
 type: news
 publishedAt: "2026-10-31T21:44:00-04:00"
-updatedAt: "2026-11-14T18:05:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today November 2 2026", "NHL schedule Monday November 2", "NHL games tonight", "Flames vs Sharks time", "Avalanche vs Blackhawks time"]

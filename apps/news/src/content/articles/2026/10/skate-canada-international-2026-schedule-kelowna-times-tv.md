@@ -3,7 +3,7 @@ title: "Skate Canada 2026 Results: All Four Podiums With Scores"
 description: "Mao Shimada won the women's event at Skate Canada International 2026 with 235.44 points. All four podiums with scores, plus the Grand Prix Final site."
 type: news
 publishedAt: "2026-10-30T21:43:00-04:00"
-updatedAt: "2026-11-14T18:00:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["skate canada international 2026 results", "skate canada international 2026 schedule", "skate canada 2026 tv schedule", "skate canada kelowna times", "grand prix figure skating 2026 schedule"]

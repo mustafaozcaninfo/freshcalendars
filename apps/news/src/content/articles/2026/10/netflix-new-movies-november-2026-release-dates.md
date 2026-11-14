@@ -3,7 +3,7 @@ title: "New on Netflix November 2026: 10 Movies, First on Nov. 4"
 description: "Netflix lists 10 movies for November 2026, from A Dog's Perfect Christmas on Nov. 4 to The Mosquito Bowl on Nov. 25. Week table and a free printable."
 type: news
 publishedAt: "2026-10-25T20:19:00-04:00"
-updatedAt: "2026-11-14T18:15:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Netflix November 2026", "Netflix movies November 2026", "Netflix November 2026 release dates", "A Dog's Perfect Christmas Netflix"]

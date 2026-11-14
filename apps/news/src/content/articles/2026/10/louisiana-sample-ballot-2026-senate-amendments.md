@@ -3,7 +3,7 @@ title: "Louisiana Sample Ballot 2026: Senate Race and 10 Amendments"
 description: "Louisiana sample ballot for Nov. 3, 2026: U.S. Senate (Julia Letlow won, per two newsrooms), 10 amendments, House primaries. Lookup tools and a checklist."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
-updatedAt: "2026-11-14T17:25:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Louisiana sample ballot 2026", "Louisiana constitutional amendments 2026", "Louisiana Senate race 2026", "Louisiana early voting 2026", "sample ballot by zip code Louisiana"]

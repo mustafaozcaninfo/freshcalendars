@@ -3,7 +3,7 @@ title: "NHL Games Today, Oct. 30, 2026: 3 Games, First Puck Drop 6:00 p.m. ET"
 description: "NHL games on Friday, Oct. 30, 2026: Devils beat Vegas 5-2, Panthers 5-2, Flames 6-2. Start times, TV, time zones, Saturday's 10 games, a score sheet."
 type: news
 publishedAt: "2026-10-29T19:40:00-04:00"
-updatedAt: "2026-11-14T17:35:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today", "NHL games tonight", "NHL schedule October 30 2026", "NHL Halloween games 2026", "printable NHL schedule"]

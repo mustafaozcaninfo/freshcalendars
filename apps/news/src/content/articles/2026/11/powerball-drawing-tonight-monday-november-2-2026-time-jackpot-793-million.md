@@ -3,7 +3,7 @@ title: "Powerball Numbers Nov. 2, 2026: 7-23-29-64-66, Powerball 23"
 description: "Powerball Nov. 2, 2026: 7, 23, 29, 64, 66 and Powerball 23; no jackpot winner on $804 million. Results since, draw times by zone and dates to Dec. 30."
 type: news
 publishedAt: "2026-11-01T01:46:00-04:00"
-updatedAt: "2026-11-14T18:25:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["powerball drawing tonight", "powerball drawing time", "powerball jackpot", "when is the next powerball drawing", "mega millions drawing days"]

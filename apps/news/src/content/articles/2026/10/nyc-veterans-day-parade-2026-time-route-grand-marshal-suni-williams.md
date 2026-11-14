@@ -3,7 +3,7 @@ title: "NYC Veterans Day Parade 2026: Nov. 11, 12:30 p.m. Step-Off"
 description: "The 107th NYC Veterans Day Parade was held Wednesday, Nov. 11, 2026, per the United War Veterans Council. ABC7 reported a 12:30 p.m. ET step-off."
 type: news
 publishedAt: "2026-10-29T05:45:00-04:00"
-updatedAt: "2026-11-14T17:20:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 shop: veterans-day

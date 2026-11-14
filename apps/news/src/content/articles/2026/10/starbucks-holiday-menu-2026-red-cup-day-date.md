@@ -3,7 +3,7 @@ title: "Starbucks Holiday Menu 2026 Began Nov. 5; Red Cup Day Is Nov. 17"
 description: "Starbucks' 2026 holiday menu returned Thursday, Nov. 5; Red Cup Day is Tuesday, Nov. 17. Drinks list with the new Tiramisu Velvet Latte, and a checklist."
 type: news
 publishedAt: "2026-10-24T00:50:00-04:00"
-updatedAt: "2026-11-14T18:10:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Starbucks holiday menu 2026", "Starbucks red cup day 2026", "when does Starbucks holiday menu come out 2026", "Starbucks holiday cups 2026"]

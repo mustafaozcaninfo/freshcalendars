@@ -3,7 +3,7 @@ title: "Sam Fender Tickets 2027: General Sale Oct. 30 at 9:30 a.m. UK Time"
 description: "Sam Fender 2027 tickets went on general sale Oct. 30 at 9:30 a.m. UK time, 5:30 a.m. ET. Sale times for every US zone, UK and North America tour dates."
 type: news
 publishedAt: "2026-10-28T03:46:00-04:00"
-updatedAt: "2026-11-14T18:35:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Sam Fender tickets", "Sam Fender tour 2027", "Sam Fender general sale time", "Sam Fender presale", "Sam Fender St James' Park 2027"]

@@ -3,7 +3,7 @@ title: "SNL Hosts November 2026: Druski Nov. 7, John Mulaney Nov. 14"
 description: "Saturday Night Live (SNL) hosts for November 2026: Druski on Nov. 7 with The Strokes, John Mulaney on Nov. 14. Every season 52 host and a free printable."
 type: news
 publishedAt: "2026-10-29T10:08:00-04:00"
-updatedAt: "2026-11-14T18:50:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["who is hosting snl this week", "snl host october 31 2026", "snl hosts november 2026", "snl season 52 hosts"]

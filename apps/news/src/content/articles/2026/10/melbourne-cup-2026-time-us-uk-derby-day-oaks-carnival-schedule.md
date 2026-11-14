@@ -3,7 +3,7 @@ title: "Melbourne Cup 2026 Time: First Race Was 6:45 p.m. ET on Nov. 2"
 description: "Point of Law won the 2026 Melbourne Cup on Tuesday, Nov. 3 (Monday night, Nov. 2 in the U.S., first race 6:45 p.m. ET). Times in ET, PT and UK GMT."
 type: news
 publishedAt: "2026-10-30T12:32:00-04:00"
-updatedAt: "2026-11-14T17:55:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Melbourne Cup 2026 time", "Melbourne Cup 2026 US time", "Melbourne Cup Carnival 2026 dates", "Victoria Derby Day 2026", "what time is the Melbourne Cup in the US"]

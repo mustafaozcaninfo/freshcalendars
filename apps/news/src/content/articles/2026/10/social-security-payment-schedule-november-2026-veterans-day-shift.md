@@ -3,7 +3,7 @@ title: "Social Security Payment Schedule November 2026: Nov. 10 Was Early"
 description: "Social Security paid the 1st-to-10th birthday group Tuesday, Nov. 10, 2026, a day early for Veterans Day. Nov. 18 and 25 are still ahead, plus December dates."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
-updatedAt: "2026-11-14T17:30:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["Social Security payment schedule November 2026", "Social Security Veterans Day 2026", "SSI payment December 2026", "Social Security payment dates December 2026"]

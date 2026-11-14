@@ -3,7 +3,7 @@ title: "October 22, 2026: Thursday, Day 295, This Day in History"
 description: "Oct. 22, 2026 was a Thursday, day 295 of the year. On this day: Sam Houston took office in 1836 and Kennedy spoke on Cuba in 1962. Printable timeline."
 type: explainer
 publishedAt: "2026-10-21T13:05:00-04:00"
-updatedAt: "2026-11-14T18:20:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["this day in history October 22", "October 22 2026", "what happened on October 22", "October 22 holidays", "what day is October 22 2026"]

@@ -3,7 +3,7 @@ title: "Spurs Schedule November 2026: 16 Games, Times in CT and ET"
 description: "The Spurs play 16 games in November 2026; the next is Sun., Nov. 15 at Utah, 4 p.m. CT. All games in CT and ET, TV, four NBA Cup games and a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-14T17:36:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Spurs schedule November 2026", "Spurs game tonight", "San Antonio Spurs NBA Cup schedule 2026", "Spurs printable schedule"]

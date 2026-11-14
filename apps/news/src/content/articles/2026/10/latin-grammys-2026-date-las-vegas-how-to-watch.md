@@ -3,7 +3,7 @@ title: "Latin Grammys 2026: Held Nov. 12 in Las Vegas, 8 p.m. EST on Univision"
 description: "The 27th Latin Grammys aired Thursday, Nov. 12, 2026 at 8 p.m. EST on Univision from Las Vegas, after a 7 p.m. pre-show. Roselyn Sánchez hosted."
 type: news
 publishedAt: "2026-10-25T17:06:00-04:00"
-updatedAt: "2026-11-14T18:15:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Latin Grammys 2026", "Latin Grammy 2026 fecha", "Latin Grammys 2026 date and time", "how to watch Latin Grammys"]

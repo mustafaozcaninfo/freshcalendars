@@ -3,7 +3,7 @@ title: "Thunder Schedule November 2026: 15 Games, Times in CT and ET"
 description: "The Thunder are 4-3 in November 2026 and play at Sacramento Sun., Nov. 15, 8 p.m. Central Time (CT), 9 p.m. ET. All 15 games with TV and NBA Cup games."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-14T18:30:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Thunder schedule November 2026", "Thunder game tonight", "Oklahoma City Thunder NBA Cup schedule 2026", "Thunder printable schedule"]

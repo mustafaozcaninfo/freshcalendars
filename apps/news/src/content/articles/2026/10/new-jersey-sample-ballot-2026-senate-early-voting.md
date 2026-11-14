@@ -3,7 +3,7 @@ title: "New Jersey Sample Ballot 2026: Senate Candidates and Mail Rules"
 description: "New Jersey's Nov. 3, 2026 ballot had four U.S. Senate candidates; sample ballots came from county clerks. Mail ballot rules and where to find results."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
-updatedAt: "2026-11-14T17:52:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["New Jersey sample ballot 2026", "NJ Senate race 2026", "New Jersey early voting 2026", "sample ballot by zip code NJ", "New Jersey vote by mail 2026"]

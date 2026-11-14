@@ -3,7 +3,7 @@ title: "World Kindness Day 2026: Friday, Nov. 13, Free Week Planner"
 description: "World Kindness Day was Friday, Nov. 13, 2026. The next kindness dates run to Feb. 24, 2027, and a free printable planner covers Nov. 9 to 13."
 type: explainer
 publishedAt: "2026-10-30T19:45:00-04:00"
-updatedAt: "2026-11-14T17:20:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["world kindness day 2026", "when is world kindness day", "world kindness day ideas", "kindness calendar 2026"]
