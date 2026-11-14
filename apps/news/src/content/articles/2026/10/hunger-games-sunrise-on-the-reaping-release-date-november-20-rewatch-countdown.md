@@ -3,7 +3,7 @@ title: "Sunrise on the Reaping Release Date: Nov. 20, About 158 Minutes"
 description: "Sunrise on the Reaping release date is Friday, Nov. 20, 2026, with a runtime of about 158 minutes. Includes films in order and a 5-night rewatch plan."
 type: news
 publishedAt: "2026-10-29T11:52:00-04:00"
-updatedAt: "2026-11-06T12:02:00-05:00"
+updatedAt: "2026-11-14T15:07:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["sunrise on the reaping release date", "hunger games sunrise on the reaping runtime", "when does sunrise on the reaping come out", "hunger games movies in order"]
@@ -41,7 +41,7 @@ downloads:
 hero:
   src: ../../../../assets/news/hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown/hunger-games-sunrise-on-the-reaping-release-date-november-20-rewatch-countdown.webp
   alt: "Empty cinema auditorium with red seats facing the screen, for the Sunrise on the Reaping release date"
-  caption: "File photo: a cinema auditorium in Sweden. The Hunger Games: Sunrise on the Reaping opens in U.S. and UK theaters on Friday, Nov. 20, 2026."
+  caption: "File photo: a cinema auditorium in Sweden. The Hunger Games: Sunrise on the Reaping opens in U.S. theaters on Friday, Nov. 20, 2026."
   credit: "Photo: SannaHSthlm / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -56,15 +56,15 @@ summary:
   - "Five earlier films, one a night from Sun., Nov. 15 to Thu., Nov. 19, end the night before the opening."
 faq:
   - q: "When does The Hunger Games: Sunrise on the Reaping come out?"
-    a: "Fathom Entertainment says it will be released in theatres everywhere on Nov. 20, 2026. The BBFC lists the same date for the UK."
+    a: "Fathom Entertainment says it will be released in theatres everywhere on Nov. 20, 2026. The BBFC page now lists 21/11/2026 for the UK."
   - q: "How long is Sunrise on the Reaping?"
     a: "The BBFC lists an approximate running time of 158 minutes, or 2 hours 38 minutes."
   - q: "Who directs Sunrise on the Reaping?"
     a: "Francis Lawrence directs from a script by Billy Ray, according to The Credits from the Motion Picture Association."
   - q: "What is the U.S. rating?"
-    a: "The Motion Picture Association (MPA) rating was not listed on official pages we could check."
+    a: "Cinemark lists the film as PG-13. We did not find the rating on the Motion Picture Association (MPA) site."
   - q: "Are there early screenings?"
-    a: "Some theaters list early-access shows. The studio has not announced fan screenings on pages we could reach."
+    a: "Yes. Yahoo Entertainment and SuperHeroHype report that Lionsgate set early-access screenings in premium formats from Wednesday, Nov. 18, at participating theaters, two days before the opening."
   - q: "What order should I watch the Hunger Games films in?"
     a: "This story suggests release order, from the 2012 film to The Ballad of Songbirds & Snakes in 2023."
 sources:
@@ -75,7 +75,19 @@ sources:
   - title: "The Hunger Games: Sunrise on the Reaping"
     url: "https://www.bbfc.co.uk/release/the-hunger-games-sunrise-on-the-reaping-q29sbgvjdglvbjpwwc0xmdm0mtu1"
     publisher: "British Board of Film Classification (BBFC)"
-    date: "2026-11-06"
+    date: "2026-11-14"
+  - title: "The Hunger Games: Sunrise on the Reaping Showtimes & Tickets"
+    url: "https://www.cinemark.com/movies/the-hunger-games-sunrise-on-the-reaping"
+    publisher: "Cinemark"
+    date: "2026-11-14"
+  - title: "Hunger Games: Sunrise on the Reaping Tickets Go on Sale This Week, Early Screenings Announced"
+    url: "https://www.yahoo.com/entertainment/movies/articles/hunger-games-sunrise-reaping-tickets-180732108.html"
+    publisher: "Yahoo Entertainment"
+    date: "2026-10-26"
+  - title: "Hunger Games: Sunrise on the Reaping Lets Fans See New Movie Early as Tickets Go On Sale"
+    url: "https://www.superherohype.com/movies/701787-hunger-games-sunrise-on-the-reaping-early-screenings"
+    publisher: "SuperHeroHype"
+    date: "2026-10-26"
   - title: "The Hunger Games: Sunrise on the Reaping Unveils First Footage and a Stacked New Cast"
     url: "https://www.motionpictures.org/2026/04/the-hunger-games-sunrise-on-the-reaping-unveils-first-footage-and-a-stacked-new-cast/"
     publisher: "The Credits, Motion Picture Association"
@@ -97,21 +109,21 @@ draft: false
 
 ## When does Sunrise on the Reaping come out?
 
-Fathom Entertainment's "The Hunger Games Returns to Theatres" gives Nov. 20, 2026, which is a Friday. The BBFC page for the film lists the same date (20/11/2026) for the UK. Lionsgate is the studio. A Canada date was not confirmed on the pages we checked.
+Fathom Entertainment's "The Hunger Games Returns to Theatres" gives Nov. 20, 2026, which is a Friday. The BBFC page for the film now lists 21/11/2026 for the UK, a Saturday, so UK readers should check their cinema. Lionsgate is the studio. A Canada date was not confirmed on the pages we checked.
 
 Nov. 20 is also the day Mockingjay Part 2 opened in the U.S. in 2015, so Sunrise arrives 11 years to the day after it.
 
 ## How long is Sunrise on the Reaping?
 
-The BBFC lists an approximate running time of 158 minutes, which is 2 hours 38 minutes. The BBFC classified the 2D version on Oct. 14, 2026, the IMAX version on Oct. 20 and the 3D version on Oct. 28. It lists the content advice "moderate violence, injury detail, threat, upsetting scenes." The 158-minute figure is the BBFC's UK listing and is marked approximate.
+The BBFC lists an approximate running time of 158 minutes, which is 2 hours 38 minutes. The BBFC classified the 2D version on Oct. 14, 2026, the IMAX version on Oct. 20, the 3D version on Oct. 28 and the ScreenX version on Nov. 12. It lists the content advice "moderate violence, injury detail, threat, upsetting scenes." The 158-minute figure is the BBFC's UK listing and is marked approximate. Cinemark's U.S. page lists 2 hr 43 min, so U.S. theater listings may differ.
 
 | Detail | Status |
 |---|---|
 | U.S. release | Fri., Nov. 20, 2026 (Fathom Entertainment) |
 | Approximate running time | 158 minutes (BBFC) |
-| U.S. Motion Picture Association (MPA) rating | Not listed on official pages we could check |
-| Ticket on-sale date | Not confirmed |
-| Fan or preview screenings | Some theaters list early-access shows; the studio has not announced fan screenings on pages we could reach |
+| U.S. rating | PG-13 (Cinemark listing) |
+| Ticket on-sale date | Wed., Oct. 28, 2026, 9 a.m. ET; tickets are on sale now (Yahoo Entertainment, SuperHeroHype) |
+| Early-access screenings | From Wed., Nov. 18, 6 p.m. local time, premium formats at participating theaters (Yahoo Entertainment, SuperHeroHype) |
 
 ## Who made Sunrise on the Reaping?
 
@@ -153,4 +165,4 @@ For other releases this month, see the [Netflix movies for November 2026](/news/
 
 ## How we keep this accurate
 
-The release date comes from Fathom Entertainment, the running time from the BBFC, and the cast from The Credits. The earlier release dates are reported figures from film-record references. Dates can change, so check your theater's listing near Nov. 20.
+The release date comes from Fathom Entertainment, the running time from the BBFC, and the cast from The Credits. The earlier release dates are reported figures from film-record references. The ticket and early-screening details come from Yahoo Entertainment and SuperHeroHype reporting on Lionsgate's announcement, and the PG-13 rating from Cinemark. Check your theater's listing for showtimes.

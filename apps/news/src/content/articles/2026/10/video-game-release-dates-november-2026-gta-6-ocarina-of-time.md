@@ -1,8 +1,9 @@
 ---
 title: "Video Game Release Dates November 2026: GTA 6 on Nov. 19"
-description: "Grand Theft Auto (GTA) VI launches Thu., Nov. 19, 2026, says Rockstar Games. Eight confirmed November games with weekdays, platforms and a printable."
+description: "Grand Theft Auto (GTA) VI launches Thu., Nov. 19, 2026, says Rockstar Games, and pre-load is open. Eight November games by weekday, plus a printable."
 type: news
 publishedAt: "2026-10-31T14:23:00-04:00"
+updatedAt: "2026-11-14T15:07:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["video game release dates november 2026", "new games november 2026", "games coming out november 2026", "gta 6 release date november 19"]
@@ -16,8 +17,9 @@ assets:
     slug: video-game-releases-november-2026
     group: video-games-2026
     title: "Video Game Release Calendar, November 2026"
-    subtitle: "Release dates publishers have confirmed as of Oct. 31, 2026"
+    subtitle: "Release dates publishers have confirmed as of Nov. 14, 2026"
     layout: month
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Wed., Nov. 4", "World of Warcraft: Forever, PC, 6 p.m. ET"]
       - ["Thu., Nov. 5", "The Legend of Zelda: Ocarina of Time, Switch 2"]
@@ -27,8 +29,7 @@ assets:
       - ["Thu., Nov. 12", "Pikmin 4 Switch 2 Edition"]
       - ["Thu., Nov. 12", "Sonic Pico Park"]
       - ["Thu., Nov. 19", "Grand Theft Auto VI, PS5 and Xbox Series X|S"]
-    note: "Source: Rockstar Games, Nintendo, Blizzard Entertainment, Sega, Sports Interactive, Aspyr, Pico Park official site. Check the publisher's page for changes."
-    inkSaver: true
+    note: "Source: Rockstar Games, Nintendo, Blizzard Entertainment, Sega, Sports Interactive, Aspyr, Pico Park official site, checked Nov. 14, 2026. Check the publisher's page for changes."
     description: "A one-page November 2026 video game release calendar with eight publisher-confirmed dates, weekdays and the World of Warcraft: Forever launch time in Eastern Time."
     alt: "A printable November 2026 calendar marking eight video game release dates"
 hero:
@@ -45,21 +46,22 @@ hero:
 summary:
   - "Eight games have a November 2026 date on the publisher's own page, from World of Warcraft: Forever on Wednesday, Nov. 4 to Grand Theft Auto VI on Thursday, Nov. 19."
   - "Thursday, Nov. 12 has three releases: Metaphor: ReFantazio, Pikmin 4 Nintendo Switch 2 Edition and Sonic Pico Park."
-  - "Blizzard says World of Warcraft: Forever launches worldwide at 3:00 p.m. Pacific Standard Time (PST), which is 6 p.m. Eastern Time (ET)."
-  - "Rockstar Games lists Grand Theft Auto VI for Nov. 19 but its pages we read give no launch time or price."
+  - "Blizzard said World of Warcraft: Forever would launch worldwide at 3:00 p.m. Pacific Standard Time (PST), which is 6 p.m. Eastern Time (ET), and it is now live."
+  - "Rockstar Games lists Grand Theft Auto VI for Nov. 19 and has opened pre-load, but its pages we read give no launch time or price."
 faq:
   - q: "When does Grand Theft Auto VI come out?"
-    a: "Rockstar Games lists Grand Theft Auto VI for Thursday, Nov. 19, 2026 on PlayStation 5 and Xbox Series X|S. Rockstar has not published a launch time or price on the pages we read."
+    a: "Rockstar Games lists Grand Theft Auto VI for Thursday, Nov. 19, 2026 on PlayStation 5 and Xbox Series X|S. Rockstar has opened pre-load, and the pages we read give no launch time or price."
   - q: "When does Ocarina of Time come out on Nintendo Switch 2?"
-    a: "Nintendo's US store page lists The Legend of Zelda: Ocarina of Time for Switch 2 as releasing 11/5/26, which is Thursday, Nov. 5, 2026."
-  - q: "What time does World of Warcraft: Forever launch?"
-    a: "Blizzard says it launches worldwide on Nov. 4 at 3:00 p.m. PST. That is 6 p.m. ET, because US clocks are on standard time from Nov. 1."
+    a: "It was set for Thursday, Nov. 5, 2026, and Nintendo's US store page now reads \"Available now.\""
+  - q: "What time did World of Warcraft: Forever launch?"
+    a: "Blizzard said it would launch worldwide on Nov. 4 at 3:00 p.m. PST, which is 6 p.m. ET, and its news page now says the game is live."
   - q: "Is The Binding of Isaac: Repentance+ Online in the table?"
     a: "No. Gematsu reported Nov. 19 on Aug. 18, 2026, but we found no publisher page, so it stays out until one confirms it."
 sources:
   - title: "Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI"
     publisher: "Rockstar Games"
+    date: "2026-11-14"
   - title: "Grand Theft Auto VI is Now Set to Launch November 19, 2026"
     url: "https://www.rockstargames.com/newswire/article/ak3ak31a49a221/grand-theft-auto-vi-is-now-set-to-launch-november-19-2026"
     publisher: "Rockstar Games"
@@ -69,6 +71,7 @@ sources:
   - title: "World of Warcraft news"
     url: "https://worldofwarcraft.blizzard.com/en-us/news"
     publisher: "Blizzard Entertainment"
+    date: "2026-11-14"
   - title: "Metaphor: ReFantazio Nintendo Switch 2 release announcement"
     url: "https://sega.co.jp/en/release/260610_1.html"
     publisher: "Sega"
@@ -79,7 +82,7 @@ sources:
   - title: "Football Manager news"
     url: "https://www.footballmanager.com/news"
     publisher: "Sports Interactive"
-    date: "2026-09-29"
+    date: "2026-11-10"
   - title: "Sonic Pico Park"
     url: "https://picoparkgame.com/en/spp/"
     publisher: "Pico Park official site"
@@ -102,14 +105,6 @@ downloads:
     pdf: "/news/downloads/video-games-2026/video-game-releases-november-2026.pdf"
     png: "/news/downloads/video-games-2026/video-game-releases-november-2026.png"
     pages: 1
-  - group: "Video Game Release Calendar printables"
-    title: "Video Game Release Calendar, November 2026 (ink saver)"
-    description: "A one-page November 2026 video game release calendar with eight publisher-confirmed dates, weekdays and the World of Warcraft: Forever launch time in Eastern Time. Ink-saver version."
-    preview: ../../../../assets/news/video-games-2026/video-game-releases-november-2026-ink.png
-    alt: "A printable November 2026 calendar marking eight video game release dates, ink-saver version"
-    pdf: "/news/downloads/video-games-2026/video-game-releases-november-2026-ink.pdf"
-    png: "/news/downloads/video-games-2026/video-game-releases-november-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
@@ -130,11 +125,11 @@ Platform names follow each publisher's page: PlayStation 5 (PS5), Xbox Series X|
 | Nov. 12 | Thursday | Sonic Pico Park | Switch, Switch 2, PS5, Xbox Series X\|S, Xbox One, Windows (Steam) | Pico Park site | [Official site](https://picoparkgame.com/en/spp/) |
 | Nov. 19 | Thursday | Grand Theft Auto VI | PS5, Xbox Series X\|S | Rockstar Games | [Rockstar Games](https://www.rockstargames.com/VI): "Coming November 19, 2026." |
 
-Blizzard says World of Warcraft: Forever launches worldwide at 3:00 p.m. Pacific Standard Time (PST), which is 6 p.m. Eastern Time (ET); our [WoW Forever launch time by time zone](/news/wow-forever-launch-time-by-time-zone-november-4/) story has the zone table. Print the month with our [November 2026 printable calendar](/november-calendars.html), or use the [printable weekly calendar](/printable-weekly-calendar.html) to block out a launch week.
+Blizzard said World of Warcraft: Forever would launch worldwide at 3:00 p.m. Pacific Standard Time (PST), which is 6 p.m. Eastern Time (ET), and its news page now reads "Now Live!" Our [WoW Forever launch time by time zone](/news/wow-forever-launch-time-by-time-zone-november-4/) story has the zone table. Football Manager 27 went live across platforms on Nov. 10, per Sports Interactive, and Nintendo's store page for Ocarina of Time now reads "Available now." Print the month with our [November 2026 printable calendar](/november-calendars.html), or use the [printable weekly calendar](/printable-weekly-calendar.html) to block out a launch week.
 
 ## When is Grand Theft Auto VI out, and what has Rockstar not said?
 
-Rockstar's game page reads "Coming November 19, 2026," and its newswire article is titled "Grand Theft Auto VI is Now Set to Launch November 19, 2026." The platforms are PS5 and Xbox Series X|S. The Rockstar pages we read give no launch time and no price. Our [GTA 6 countdown by time zone](/news/gta-6-countdown-release-time-by-time-zone/) tracks the days left, and [what is confirmed for the game](/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/) covers the rest.
+Rockstar's game page reads "Coming November 19, 2026," and its newswire article is titled "Grand Theft Auto VI is Now Set to Launch November 19, 2026." The platforms are PS5 and Xbox Series X|S. Rockstar opened pre-load on Nov. 10, according to the headline of its newswire post, "Pre-Load Grand Theft Auto VI Now." The Rockstar pages we read give no launch time and no price. Our [GTA 6 countdown by time zone](/news/gta-6-countdown-release-time-by-time-zone/) tracks the days left, and [what is confirmed for the game](/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/) covers the rest.
 
 ## Which November 2026 releases share a day?
 

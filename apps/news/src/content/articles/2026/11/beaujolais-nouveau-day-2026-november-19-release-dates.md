@@ -3,6 +3,7 @@ title: "Beaujolais Nouveau 2026 Date: Thursday, Nov. 19, and Dates to 2030"
 description: "Beaujolais Nouveau 2026 is released Thursday, Nov. 19, the third Thursday of November. Release dates through 2030 and Beaujeu festival dates, Nov. 18-22."
 type: explainer
 publishedAt: "2026-10-29T19:45:00-04:00"
+updatedAt: "2026-11-14T15:06:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Beaujolais Nouveau 2026", "Beaujolais Nouveau Day 2026", "when is Beaujolais Nouveau released", "Beaujolais Nouveau release date"]
@@ -19,6 +20,7 @@ assets:
     title: "Beaujolais Nouveau Release Dates 2026 to 2030"
     subtitle: "Third Thursday of November, plus the Beaujeu festival in 2026"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Thu., Nov. 19, 2026", "Beaujolais Nouveau release (third Thursday of November)"]
       - ["Wed., Nov. 18 to Sun., Nov. 22, 2026", "Les Sarmentelles de Beaujeu festival, France"]
@@ -58,9 +60,11 @@ sources:
   - title: "Beaujolais Nouveau 2026: release date | Discover Beaujolais"
     url: "https://www.discoverbeaujolais.com/beaujolais-nouveau"
     publisher: "Inter Beaujolais (Discover Beaujolais)"
+    date: "2026-11-14"
   - title: "Les Sarmentelles de Beaujeu"
     url: "https://www.sarmentelles.fr"
     publisher: "Les Sarmentelles de Beaujeu"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -123,7 +127,16 @@ Discover Beaujolais says it is made predominantly from Gamay grapes grown within
 
 ## When is the Les Sarmentelles de Beaujeu festival in 2026?
 
-The official site of Les Sarmentelles de Beaujeu lists the festival "Du 18 au 22 novembre 2026," which is Wednesday, Nov. 18, to Sunday, Nov. 22, 2026, in Beaujeu, France. The release date, Thursday, Nov. 19, sits inside that window. We have not listed a program, prices or times because we did not confirm them on an official page.
+The official site of Les Sarmentelles de Beaujeu lists the festival "Du 18 au 22 novembre 2026," which is Wednesday, Nov. 18, to Sunday, Nov. 22, 2026, in Beaujeu, France. The release date, Thursday, Nov. 19, sits inside that window. The festival's 2026 program lists these opening events in Beaujeu:
+
+| Day | Time | Event |
+|---|---|---|
+| Wed., Nov. 18 | 4:45 p.m. (16h45) | Opening ceremony, Place de l'Hôtel de Ville |
+| Wed., Nov. 18 | 5 to 9 p.m. | Tasting route through the village center, 15 euros |
+| Wed., Nov. 18 | 11 p.m. | Torchlight parade, the "percée du Beaujolais" and a dance |
+| Thu., Nov. 19 | 10 a.m. to 5 p.m. | Producers' market and guided walks |
+
+Times are French local time. Several Wednesday evening dinners are listed as full. Check the festival's site for the rest of the program and for booking.
 
 ## Print the release dates
 

@@ -3,7 +3,7 @@ title: "SNAP Payment Schedule December 2026: Dec. 1 Start, Christmas Flagged"
 description: "Supplemental Nutrition Assistance Program (SNAP) December 2026 deposits start Tuesday, Dec. 1 in five places. Days by state, with Christmas Day flagged."
 type: news
 publishedAt: "2026-10-31T10:30:00-04:00"
-updatedAt: "2026-11-02T02:43:00-05:00"
+updatedAt: "2026-11-14T15:07:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["SNAP payment schedule December 2026", "when will SNAP be deposited December 2026", "food stamps December 2026 dates by state", "SNAP deposit dates by state"]
@@ -34,7 +34,7 @@ faq:
   - q: "How do I find out my exact deposit day?"
     a: "FNS says each state sets its own schedule. Use your state's EBT portal or the notice from your state agency, which is final."
   - q: "What is the most SNAP a household can get in December 2026?"
-    a: "Colorado Politics and News4Jax report that, since Oct. 1, 2026, the maximum is $306 a month for one person and $1,023 for four in the 48 states and DC."
+    a: "The USDA Food and Nutrition Service lists $306 a month for one person and $1,023 for four in the 48 states and DC for fiscal year 2027, effective Oct. 1, 2026."
 sources:
   - title: "Monthly Issuance Schedule"
     url: "https://www.fna.usda.gov/snap/monthly-issuance-schedule"
@@ -43,6 +43,11 @@ sources:
   - title: "Supplemental Nutrition Assistance Program (SNAP) Monthly Issuance Schedule for All States and Territories (PDF)"
     url: "https://www.fna.usda.gov/sites/default/files/resource-files/Monthly-Issuance-Schedule-All-States.pdf"
     publisher: "USDA Food and Nutrition Service"
+    date: "2021-11-04"
+  - title: "SNAP Cost-of-Living Adjustment (COLA) Information, fiscal year 2027"
+    url: "https://www.fns.usda.gov/snap/allotment/COLA"
+    publisher: "USDA Food and Nutrition Service"
+    date: "2026-11-14"
   - title: "What to know about SNAP increases starting Oct. 1"
     url: "https://www.coloradopolitics.com/2026/09/28/what-to-know-about-snap-increases-starting-oct-1-5/"
     publisher: "Colorado Politics"
@@ -69,6 +74,7 @@ assets:
   printable:
     slug: snap-deposit-dates-december-2026
     group: snap-2026
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     title: "SNAP Deposit Dates to Mark, December 2026"
     subtitle: "Single-day schedules, the Christmas Day flag and the end of the longest ranges"
     rows:
@@ -103,7 +109,7 @@ downloads:
 
 **Supplemental Nutrition Assistance Program (SNAP) benefits for December 2026 load on each state's standing monthly schedule, as published by the U.S. Department of Agriculture (USDA) Food and Nutrition Service (FNS): Alaska, North Dakota, Rhode Island, Vermont and the U.S. Virgin Islands issue to every household on Tuesday, Dec. 1.** The ranges for Florida and Texas include Christmas Day, Friday, Dec. 25, so those two rows are flagged below.
 
-The days are each state's standing monthly schedule as published by FNS; the USDA pages could not be opened by automated tools on Oct. 31, so the days below come from the same schedule used in our [November 2026 SNAP story](/news/snap-payment-schedule-november-2026-deposit-dates-by-state/), whose FNS page shows a last-updated date of July 26, 2024. The PDF itself ends with "Updated: November 4, 2021." Each state can change its days, and the notice from your state agency or your Electronic Benefit Transfer (EBT) portal is final.
+The days are each state's standing monthly schedule as published by FNS. The FNS page shows a last-updated date of July 26, 2024, and the PDF it links ends with "Updated: November 4, 2021." We re-read both on Nov. 14, 2026, and the single-day states below match the PDF; the same schedule is used in our [November 2026 SNAP story](/news/snap-payment-schedule-november-2026-deposit-dates-by-state/). Each state can change its days, and the notice from your state agency or your Electronic Benefit Transfer (EBT) portal is final.
 
 ## What are the SNAP deposit days in each state in December 2026?
 
@@ -177,14 +183,16 @@ The FNS document names no Christmas shift for any state. It does say Pennsylvani
 
 ## How much SNAP can a household get in December 2026?
 
-The maximum monthly benefit rose on Oct. 1, 2026, for fiscal year 2027. The USDA page for the table was not reachable, so these figures rest on two newsrooms that agree. Colorado Politics (Sept. 28, 2026) and News4Jax (Oct. 2, 2026) both report the amounts for the 48 states and the District of Columbia (DC).
+The maximum monthly benefit rose on Oct. 1, 2026, for fiscal year 2027. The USDA Food and Nutrition Service lists the fiscal year 2027 maximums, effective Oct. 1, 2026, for the 48 states and the District of Columbia (DC). Colorado Politics (Sept. 28, 2026) and News4Jax (Oct. 2, 2026) report the earlier amounts, which are the "before" column.
 
 | Household size | Maximum monthly benefit from Oct. 1, 2026 | Before the increase |
 |---|---|---|
 | 1 person | $306 | $298 |
+| 2 people | $562 | Not in our sources |
+| 3 people | $808 | Not in our sources |
 | 4 people | $1,023 | $994 |
 
-These are maximum monthly benefits for the 48 states and DC. We left out the other household sizes and Alaska and Hawaii because the two reports did not give us figures we could confirm for them.
+These are maximum monthly benefits for the 48 states and DC. USDA lists separate, higher amounts for Alaska and Hawaii, which we left out.
 
 ## Which weekend and holiday dates fall in December 2026?
 
