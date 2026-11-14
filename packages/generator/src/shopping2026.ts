@@ -24,7 +24,7 @@ const XMAS_THEMES: Theme[] = [
 /** [store, Black Friday opening, source year]. */
 export const BF_HOURS: [string, string, "2026" | "2025"][] = [
   ["Home Depot", "6 a.m.", "2026"], ["Lowe's", "6 a.m.", "2025"], ["Walmart", "6 a.m.", "2026"], ["Target", "6 a.m.", "2026"],
-  ["Best Buy", "6 a.m.-10 p.m.", "2025"], ["Dick's Sporting Goods", "6 a.m.-10 p.m.", "2025"], ["Kohl's", "5 a.m.", "2026"],
+  ["Best Buy", "6 a.m.-10 p.m.", "2025"], ["Dick's Sporting Goods", "6 a.m.", "2026"], ["Kohl's", "5 a.m.", "2026"],
   ["JCPenney", "5 a.m.", "2026"], ["Macy's", "6 a.m.-10 p.m.", "2025"], ["Costco", "9 a.m.", "2025"], ["Sam's Club", "Regular hours", "2025"],
 ];
 /** [store, Christmas Eve closing, source year]. */
@@ -74,7 +74,7 @@ function blackFriday(fonts: string, t: Theme): string {
       <div class="box" style="margin-top:10px"><b>Before I go</b><ul class="chk" style="margin-top:6px"><li>Check each store's hours for my location</li><li>Compare prices online and note price history</li><li>Load coupons and member offers in the apps</li><li>Read return and price-match policies</li></ul></div></div>
       <div><h2>My shopping list</h2><table class="lines"><thead><tr><th style="width:34%">Item</th><th>Store</th><th>Target price</th><th style="width:12%">Got it</th></tr></thead><tbody>${list}</tbody></table>
       <h2>Cyber Monday wish list</h2><table class="lines"><tbody>${Array.from({ length: 4 }, () => "<tr><td></td><td style='width:30%'></td></tr>").join("")}</tbody></table></div></div>
-    <p class="note">Hours: Home Depot, Walmart, Kohl's and JCPenney 2026 from each chain's own release; the others are each chain's 2025 Black Friday hours as reported by the Associated Press and will be updated when the 2026 hours are announced. Hours vary by location. Stock market early close: NYSE 2026 calendar.</p>
+    <p class="note">Hours: Home Depot, Walmart, Target, Dick's, Kohl's and JCPenney 2026 from each chain's own release; the others are each chain's 2025 Black Friday hours as reported by the Associated Press and will be updated when the 2026 hours are announced. Hours vary by location. Stock market early close: NYSE 2026 calendar.</p>
     <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/black-friday-2026-store-hours-walmart-target-best-buy/</div></section>`;
   return doc(fonts, LETTER, css(t, c), [page]);
 }
