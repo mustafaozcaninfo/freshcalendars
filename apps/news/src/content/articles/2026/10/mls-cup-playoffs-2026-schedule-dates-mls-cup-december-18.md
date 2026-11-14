@@ -3,7 +3,7 @@ title: "MLS Cup Playoffs 2026 Schedule: Wild Card Nov. 19, Cup Dec. 18"
 description: "The Major League Soccer (MLS) Cup playoffs 2026 start with Wild Card matches Thu., Nov. 19; MLS Cup is Fri., Dec. 18. Each round by date, TV, printable."
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
-updatedAt: "2026-11-08T21:30:00-05:00"
+updatedAt: "2026-11-14T01:14:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["MLS Cup playoffs 2026 schedule", "MLS Cup 2026 date", "MLS playoffs 2026 format", "MLS Decision Day 2026"]
@@ -12,7 +12,7 @@ assets:
   overlay: true
   kicker: "MLS Cup Playoffs · 2026"
   date: "2026-12-18"
-  card: { top: "MLS Cup Playoffs 2026", big: "MLS Cup Fri., Dec. 18", bottom: "Decision Day Nov. 7, all games on Apple TV" }
+  card: { top: "MLS Cup Playoffs 2026", big: "MLS Cup Fri., Dec. 18", bottom: "Wild Card Nov. 19, all games on Apple TV" }
   printable:
     noKit: "Round date ranges (Round One Game One Nov. 21 to 24) fit no kit; the fact sheet has no per-row source quotes."
     slug: mls-cup-playoffs-2026
@@ -44,7 +44,7 @@ hero:
     authorUrl: "https://www.flickr.com/photos/65699349@N00"
 summary:
   - "Major League Soccer (MLS) lists MLS Cup presented by Audi for Fri., Dec. 18, 2026. Decision Day was Sat., Nov. 7, and all 18 playoff spots are confirmed."
-  - "The Wild Card is Thu., Nov. 19: Orlando City host FC Cincinnati at 7:30 p.m. ET and Seattle Sounders FC host Real Salt Lake at 10 p.m. ET. Round One is a best-of-3 series that begins Fri., Nov. 20, with Game 1s from Sat., Nov. 21 to Tue., Nov. 24 and a Game 3 on Wed., Dec. 2 if needed; then the conference semifinals and finals follow."
+  - "The Wild Card is Thu., Nov. 19: Orlando City host FC Cincinnati at 7:30 p.m. ET (Inter.co Stadium) and Seattle Sounders FC host Real Salt Lake at 10 p.m. ET (Lumen Field). Round One is a best-of-3 series whose Game 1s run from Sat., Nov. 21 to Tue., Nov. 24, with a Game 3 on Wed., Dec. 2 if needed; then the conference semifinals and finals follow."
   - "MLS says every playoff match is on Apple TV; MLS Cup also airs on FOX and FOX Deportes in the U.S. and TSN and RDS in Canada, and select matches on FS1."
   - "MLS says all dates are subject to change."
 faq:
@@ -60,7 +60,7 @@ faq:
     a: "Yes. MLS states that the dates are subject to change, so check mlssoccer.com before you plan around one."
 sources:
   - title: "Audi 2026 MLS Cup Playoffs: Round One & Wild Card matchups, schedule"
-    date: "2026-11-08"
+    date: "2026-11-14"
     url: "https://www.mlssoccer.com/playoffs/2026/news/audi-2026-mls-cup-playoffs-round-one-wild-card-matchups"
     publisher: "Major League Soccer"
   - title: "Every team that's in: Audi 2026 MLS Cup Playoffs"
@@ -75,6 +75,7 @@ sources:
     publisher: "Major League Soccer"
     date: "2026-11-07"
   - title: "Audi 2026 MLS Cup Playoffs: Key dates & schedule information"
+    date: "2026-11-14"
     url: "https://www.mlssoccer.com/playoffs/2026/news/audi-2026-mls-cup-playoffs-key-dates-schedule-information"
     publisher: "Major League Soccer"
   - title: "Major League Soccer announces Audi 2026 MLS Cup Playoffs schedule"
@@ -111,7 +112,7 @@ This page lays out each round by date with its weekday, lists the final field an
 
 ## What is the MLS Cup playoffs 2026 schedule?
 
-MLS publishes one date or range for each stage. Round One is a best-of-3 series that, per MLS, begins on Friday, Nov. 20; the posted games run from Sat., Nov. 21 to Wed., Dec. 2.
+MLS publishes one date or range for each stage. Round One is a best-of-3 series. MLS's matchup page says it begins Saturday, Nov. 21, while its key-dates page gives a window that opens Friday, Nov. 20; the posted games run from Sat., Nov. 21 to Wed., Dec. 2.
 
 | Stage | Dates |
 |---|---|
@@ -154,14 +155,14 @@ The higher seed hosts each Wild Card match. The two Wild Card matches come first
 
 | Conference | Matchup | When | TV |
 |---|---|---|---|
-| East | (8) Orlando City vs. (9) FC Cincinnati (Wild Card) | Thu., Nov. 19, 7:30 p.m. ET | Apple TV |
-| West | (8) Seattle Sounders FC vs. (9) Real Salt Lake (Wild Card) | Thu., Nov. 19, 10 p.m. ET | Apple TV |
+| East | (8) Orlando City vs. (9) FC Cincinnati (Wild Card), Inter.co Stadium | Thu., Nov. 19, 7:30 p.m. ET | Apple TV |
+| West | (8) Seattle Sounders FC vs. (9) Real Salt Lake (Wild Card), Lumen Field | Thu., Nov. 19, 10 p.m. ET | Apple TV |
 
 Source: Major League Soccer, 2026.
 
 ## What is the Round One schedule for the MLS playoffs 2026?
 
-MLS says the Round One best-of-3 series begins on Friday, Nov. 20. All times are ET as posted by MLS; "Time not yet announced" means MLS has not posted a kickoff time, and the same goes for a venue. TV channels are Apple TV, FS1, FOX Deportes, The Sports Network (TSN) and Réseau des sports (RDS).
+MLS's matchup page says the Round One best-of-3 series begins on Saturday, Nov. 21. All times are ET as posted by MLS; "Time not yet announced" means MLS has not posted a kickoff time, and the same goes for a venue. TV channels are Apple TV, FS1, FOX Deportes, The Sports Network (TSN) and Réseau des sports (RDS).
 
 | Series | Game | Date | Time ET | Venue | TV |
 |---|---|---|---|---|---|
@@ -181,16 +182,16 @@ MLS says the Round One best-of-3 series begins on Friday, Nov. 20. All times are
 | | Game 2 | Fri., Nov. 27 | 10 p.m. | Not yet announced | Apple TV, FS1, FOX Deportes |
 | | Game 3 (if necessary) | Wed., Dec. 2 | Time not yet announced | BC Place | Apple TV |
 | West: (2) FC Dallas vs. (7) Portland Timbers | Game 1 | Sat., Nov. 21 | 4 p.m. | Toyota Stadium | Apple TV |
-| | Game 2 | Sat., Nov. 28 | 10:30 p.m. | Providence Park | Apple TV |
+| | Game 2 | Sat., Nov. 28 | 10:30 p.m. | Providence Park | Apple TV, FS1, FOX Deportes, TSN, RDS |
 | | Game 3 (if necessary) | Wed., Dec. 2 | Time not yet announced | Toyota Stadium | Apple TV |
 | West: (3) St. Louis City SC vs. (6) LAFC | Game 1 | Mon., Nov. 23 | 8 p.m. | Energizer Park | Apple TV, FS1, FOX Deportes, TSN, RDS |
-| | Game 2 | Sat., Nov. 28 | 8:30 p.m. | LAFC home stadium, Los Angeles | Apple TV |
+| | Game 2 | Sat., Nov. 28 | 8:30 p.m. | Bank of Montreal (BMO) Stadium, Los Angeles | Apple TV |
 | | Game 3 (if necessary) | Wed., Dec. 2 | Time not yet announced | Energizer Park | Apple TV |
 | West: (4) San Jose Earthquakes vs. (5) Houston Dynamo FC | Game 1 | Tue., Nov. 24 | 10 p.m. | PayPal Park | Apple TV, FS1, FOX Deportes, TSN, RDS |
 | | Game 2 | Sat., Nov. 28 | 2:30 p.m. | Shell Energy Stadium | Apple TV |
 | | Game 3 (if necessary) | Wed., Dec. 2 | Time not yet announced | PayPal Park | Apple TV |
 
-Source: Major League Soccer, "Audi 2026 MLS Cup Playoffs: Round One & Wild Card matchups, schedule," accessed Nov. 8, 2026.
+Source: Major League Soccer, "Audi 2026 MLS Cup Playoffs: Round One & Wild Card matchups, schedule," accessed Nov. 14, 2026.
 
 Round One is a best-of-3 series. Game Three is played only if it is needed, which is why MLS lists it separately, on Wed., Dec. 2. The conference semifinals and conference finals follow, and MLS Cup closes the season.
 

@@ -17,32 +17,18 @@ assets:
     slug: lol-worlds-2026-schedule-bracket-tracker
     group: lol-worlds-2026
     title: "LoL Worlds 2026 Schedule and Knockout Bracket Tracker"
-    subtitle: "Fill in Swiss winners, quarterfinals, semifinals and the Grand Final"
+    subtitle: "Semifinal results and the Grand Final, Gen.G vs Bilibili Gaming, Nov. 14"
     layout: list
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     columns: ["Date", "Stage and your picks"]
-    description: "Every Worlds 2026 date from the Swiss Stage to the Nov. 14 Grand Final, with blanks for winners, bracket matchups and the final score."
-    alt: "Printable LoL Worlds 2026 schedule and knockout bracket tracker with blanks for each stage winner and the final score"
+    description: "The Worlds 2026 semifinal results and the Nov. 14 Grand Final, Gen.G vs Bilibili Gaming, with blanks for the final score and the champion."
+    alt: "Printable LoL Worlds 2026 tracker with the semifinal results and blanks for the Grand Final score and champion"
     rows:
-      - ["Fri., Oct. 23", "Swiss Stage, Allen, Texas, 1 p.m. EDT. Winners: ________  ________"]
-      - ["Sat., Oct. 24", "Swiss Stage, Allen, Texas, 1 p.m. EDT. Winners: ________  ________"]
-      - ["Sun., Oct. 25", "Swiss Stage, Allen, Texas, 1 p.m. EDT. Winners: ________  ________"]
-      - ["Mon., Oct. 26", "Swiss Stage, Allen, Texas, 1 p.m. EDT. Winners: ________"]
-      - ["Wed., Oct. 28", "Swiss Stage, Allen, Texas, 4 p.m. EDT. Winners: ________  ________"]
-      - ["Thu., Oct. 29", "Swiss Stage, Allen, Texas, 4 p.m. EDT. Winners: ________  ________"]
-      - ["Fri., Oct. 30", "Swiss Stage, Allen, Texas, 4 p.m. EDT. Winners: ________  ________"]
-      - ["Sat., Oct. 31", "Swiss Stage, Allen, Texas, 1 p.m. EDT. Final eight: ________"]
-      - ["Tue., Nov. 3", "Quarterfinal 1, Allen, Texas: ________ vs ________  Score ___-___"]
-      - ["Wed., Nov. 4", "Quarterfinal 2, Allen, Texas: ________ vs ________  Score ___-___"]
-      - ["Thu., Nov. 5", "Quarterfinal 3, Allen, Texas: ________ vs ________  Score ___-___"]
-      - ["Fri., Nov. 6", "Quarterfinal 4, Allen, Texas: ________ vs ________  Score ___-___"]
-      - ["Sat., Nov. 7", "Semifinal 1, Allen, Texas: QF winner ___ vs QF winner ___  Score ___-___"]
-      - ["Sun., Nov. 8", "Semifinal 2, Allen, Texas: QF winner ___ vs QF winner ___  Score ___-___"]
-      - ["Thu., Nov. 12", "Worlds Fan Fest, Pier 36, Manhattan, 3-9 p.m. EST"]
-      - ["Fri., Nov. 13", "Worlds Fan Fest, Pier 36, Manhattan, 3-9 p.m. EST"]
+      - ["Sun., Nov. 8", "Semifinal: Gen.G swept Shanghai Invictus Gaming 3-0"]
+      - ["Mon., Nov. 9", "Semifinal: Bilibili Gaming beat T1 3-1"]
       - ["Sat., Nov. 14", "Worlds Fan Fest, Pier 36, Manhattan, 11 a.m.-8 p.m. EST"]
-      - ["Sat., Nov. 14", "Grand Final, 2 p.m. EST, Barclays Center, Brooklyn: ________ vs ________  Score ___-___  Champion ________"]
-    note: "Source: Riot Games / LoL Esports, Worlds 2026 Primer and MSI and Worlds Updates. Fan-made, unofficial. Matchups and times can change."
+      - ["Sat., Nov. 14", "Grand Final, 2 p.m. EST, Barclays Center, Brooklyn: Gen.G vs Bilibili Gaming  Score ___-___  Champion ________"]
+    note: "Source: Riot Games / LoL Esports, Worlds 2026 Primer; results from GosuGamers and EarlyGame, checked Nov. 13, 2026. Fan-made, unofficial. Matchups and times can change."
 hero:
   src: ../../../../assets/news/lol-worlds-2026-schedule-tickets/lol-worlds-2026-schedule-tickets.jpg
   alt: "LoL Worlds 2026 schedule: a game controller with a calendar card for the Grand Final on Saturday, Nov. 14"
@@ -109,9 +95,9 @@ related: [world-series-2026-schedule-game-times-tv-channel]
 downloads:
   - group: "LoL Worlds 2026 Schedule and Knockout Bracket Tracker printables"
     title: "LoL Worlds 2026 Schedule and Knockout Bracket Tracker"
-    description: "Every Worlds 2026 date from the Swiss Stage to the Nov. 14 Grand Final, with blanks for winners, bracket matchups and the final score."
+    description: "The Worlds 2026 semifinal results and the Nov. 14 Grand Final, Gen.G vs Bilibili Gaming, with blanks for the final score and the champion."
     preview: ../../../../assets/news/lol-worlds-2026/lol-worlds-2026-schedule-bracket-tracker.png
-    alt: "Printable LoL Worlds 2026 schedule and knockout bracket tracker with blanks for each stage winner and the final score"
+    alt: "Printable LoL Worlds 2026 tracker with the semifinal results and blanks for the Grand Final score and champion"
     pdf: "/news/downloads/lol-worlds-2026/lol-worlds-2026-schedule-bracket-tracker.pdf"
     png: "/news/downloads/lol-worlds-2026/lol-worlds-2026-schedule-bracket-tracker.png"
     pages: 1

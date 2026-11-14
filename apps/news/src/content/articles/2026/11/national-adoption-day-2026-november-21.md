@@ -3,7 +3,7 @@ title: "National Adoption Day 2026: Saturday, Nov. 21, Dates to 2031"
 description: "National Adoption Day 2026 is Saturday, Nov. 21, per nationaladoptionday.org. Courts finalize adoptions of children in state care. Dates to 2031, events."
 type: explainer
 publishedAt: "2026-11-04T07:50:00-05:00"
-updatedAt: "2026-11-04T07:50:00-05:00"
+updatedAt: "2026-11-14T01:14:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national adoption day 2026", "when is national adoption day", "national adoption month 2026", "adoption day events near me"]
@@ -39,7 +39,7 @@ assets:
             - "Ask your state agency how to become a resource parent"
             - "Spread the word about permanency for every child"
       unconfirmed:
-        - { label: "2026 National Adoption Month proclamation", why: "a 2026 proclamation had not been issued as of Nov. 4, 2026" }
+        - { label: "2026 National Adoption Month proclamation", why: "a 2026 proclamation had not been issued as of Nov. 14, 2026" }
 hero:
   src: ../../../../assets/news/national-adoption-day-2026-november-21/national-adoption-day-2026-november-21.webp
   alt: "Wooden blocks spelling adopt next to a gavel and adoption forms, for National Adoption Day 2026 on Nov. 21"
@@ -53,8 +53,8 @@ hero:
 summary:
   - "National Adoption Day 2026 is Saturday, Nov. 21, according to the coalition site nationaladoptionday.org, five days before Thanksgiving on Thursday, Nov. 26."
   - "The day is held on or around the Saturday before Thanksgiving to finalize and celebrate adoptions of children in state care, so some courts hold their events on other days."
-  - "The coalition site says it has recognized more than 95,000 children moving from state care to a permanent family since it launched National Adoption Day in 1999."
-  - "November is National Adoption Month; the 2025 proclamation was Proclamation 10992 of Nov. 17, 2025, and a 2026 proclamation had not been issued as of Nov. 4."
+  - "The coalition site says it has recognized more than 95,000 children moving from state care to a permanent family since the coalition launched National Adoption Day in 2000."
+  - "November is National Adoption Month; the 2025 proclamation was Proclamation 10992 of Nov. 17, 2025, and a 2026 proclamation had not appeared in the Federal Register as of Nov. 14."
 faq:
   - q: "When is National Adoption Day 2026?"
     a: "Saturday, Nov. 21, 2026, according to nationaladoptionday.org. Some calendar sites list Nov. 22 or Nov. 18; the organizer says Nov. 21."
@@ -68,7 +68,7 @@ sources:
   - title: "National Adoption Day"
     url: "https://www.nationaladoptionday.org/"
     publisher: "National Adoption Day coalition"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "National Adoption Month, 2025 (Proclamation 10992), 90 FR 52549"
     url: "https://www.federalregister.gov/documents/full_text/html/2025/11/20/2025-20570.html"
     publisher: "Federal Register"
@@ -91,13 +91,13 @@ downloads:
 draft: false
 ---
 
-**National Adoption Day 2026 is Saturday, Nov. 21,** according to the coalition site nationaladoptionday.org, which says the day is held "on or around the Saturday before Thanksgiving" to finalize and celebrate adoptions of children in the child welfare system. Thanksgiving 2026 is Thursday, Nov. 26. Below are the dates through 2031, the events the site listed on Nov. 4 and a free one-page sheet.
+**National Adoption Day 2026 is Saturday, Nov. 21,** according to the coalition site nationaladoptionday.org, which says the day is held "on or around the Saturday before Thanksgiving" to finalize and celebrate adoptions of children in the child welfare system. Thanksgiving 2026 is Thursday, Nov. 26. Below are the dates through 2031, the events the site listed on Nov. 14 and a free one-page sheet.
 
 ## When is National Adoption Day 2026?
 
 The organizer's site gives "Saturday, November 21, 2026." Some calendar sites list Nov. 22 or Nov. 18; the organizer says Nov. 21, so that is the date used here.
 
-The wording is "on or around," so a court may hold its event on another day. The site's own event list shows that (see the table below). The coalition says it launched National Adoption Day in 1999 and that the day has recognized more than 95,000 children who moved from state care to a permanent family. The partners it names are the Dave Thomas Foundation for Adoption, the Congressional Coalition on Adoption Institute, the Alliance for Children's Rights and the Children's Action Network.
+The wording is "on or around," so a court may hold its event on another day. The site's own event list shows that (see the table below). The coalition says it launched National Adoption Day in 2000, that courts and organizations in more than 400 communities have opened their doors for it, and that the day has recognized more than 95,000 children who moved from state care to a permanent family. It describes the day as an effort to raise awareness of the more than 100,000 children waiting to be adopted out of state care in the United States. The partners it names are the Dave Thomas Foundation for Adoption, the Congressional Coalition on Adoption Institute, the Alliance for Children's Rights and the Children's Action Network.
 
 ## National Adoption Day dates through 2031
 
@@ -116,7 +116,7 @@ Mark it on the [November 2026 printable calendar](/november-calendars.html). For
 
 ## Which National Adoption Day events are listed for 2026?
 
-The site's Events section listed these on Nov. 4, 2026. It gives no times: each court sets its own, so check the site's event list and your county family court.
+The site's Events section listed these on Nov. 14, 2026. It gives no times: each court sets its own, so check the site's event list and your county family court.
 
 | Event | Place | Date listed |
 |---|---|---|
@@ -131,11 +131,11 @@ Several courts hold their event before Nov. 21, which fits the "on or around" ru
 
 ## How can you take part in National Adoption Day?
 
-The coalition site points to four actions: "Register your event," "Access resources to help plan your National Adoption Day event," "Share your story" and "spread the word about the importance of permanency for every child." Organizers register events on the site. Readers who want to attend can check the event list and call their county family court. Federal counts of children in state care and adoptions are published by the Children's Bureau, part of the Administration for Children and Families (ACF); its site refused our automated check on Nov. 4, so this story gives no federal numbers.
+The coalition site points to four actions: "Register your event," "Access resources to help plan your National Adoption Day event," "Share your story" and "spread the word about the importance of permanency for every child." Organizers register events on the site. Readers who want to attend can check the event list and call their county family court. Federal counts of children in state care and adoptions are published by the Children's Bureau, part of the Administration for Children and Families (ACF); its site refused our automated check on Nov. 4 and has not been re-checked, so this story gives no federal numbers.
 
 ## Is November National Adoption Month in 2026?
 
-November is National Adoption Month. The 2025 proclamation, "National Adoption Month, 2025," was Proclamation 10992 of Nov. 17, 2025, published in the Federal Register on Nov. 20, 2025 (90 FR 52549). A 2026 proclamation had not been issued as of Nov. 4, 2026, and we have not confirmed a 2026 theme. Other November dates are in the [heritage day story for Friday, Nov. 27](/news/native-american-heritage-day-2026-friday-november-27-heritage-month/) and the [America Recycles Day story for Nov. 15](/news/america-recycles-day-2026-november-15/).
+November is National Adoption Month. The 2025 proclamation, "National Adoption Month, 2025," was Proclamation 10992 of Nov. 17, 2025, published in the Federal Register on Nov. 20, 2025 (90 FR 52549). A 2026 proclamation had not appeared in the Federal Register as of Nov. 14, 2026, and we have not confirmed a 2026 theme. Other November dates are in the [heritage day story for Friday, Nov. 27](/news/native-american-heritage-day-2026-friday-november-27-heritage-month/) and the [America Recycles Day story for Nov. 15](/news/america-recycles-day-2026-november-15/).
 
 ## What does the free National Adoption Day sheet include?
 

@@ -9,7 +9,7 @@ category: sports
 keywords: ["motogp 2026 remaining races schedule", "motogp valencia 2026 race time", "motogp qatar 2026 time et", "motogp portugal 2026 schedule", "last motogp race 2026"]
 hero:
   src: ../../../../assets/news/motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk/motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk.webp
-  alt: "MotoGP 2026 remaining races schedule: Qatar, Portugal and Valencia final rounds"
+  alt: "MotoGP 2026 remaining races schedule: Portugal and Valencia final rounds"
   caption: "Marc Márquez at the Valencia round in 2017 (file photo). The 2026 Valencia Grand Prix on Nov. 29 is the 22nd and last round."
   credit: "Photo: Box Repsol / Wikimedia Commons, cropped, edited"
   license:
@@ -94,14 +94,11 @@ assets:
   printable:
     slug: motogp-2026-final-rounds-race-times
     group: motogp-2026
-    title: "MotoGP 2026 Final Rounds Race Times, Qatar to Valencia"
-    subtitle: "Session times converted to Eastern and UK time; all three rounds fall after the U.S. clocks change."
+    title: "MotoGP 2026 Final Rounds Race Times, Portugal and Valencia"
+    subtitle: "Session times converted to Eastern and UK time; both rounds fall after the U.S. clocks change."
     columns: ["Session (local time)", "Eastern / UK"]
     layout: list
     rows:
-      - ["Sat., Nov. 7 · Qatar Q2, 15:05", "7:05 a.m. EST / 12:05 p.m. GMT"]
-      - ["Sat., Nov. 7 · Qatar Sprint, 19:00", "11:00 a.m. EST / 4:00 p.m. GMT"]
-      - ["Sun., Nov. 8 · Qatar race, 19:00", "11:00 a.m. EST / 4:00 p.m. GMT"]
       - ["Sat., Nov. 21 · Portugal Q2, 11:15", "6:15 a.m. EST / 11:15 a.m. GMT"]
       - ["Sat., Nov. 21 · Portugal Sprint, 15:00", "10:00 a.m. EST / 3:00 p.m. GMT"]
       - ["Sun., Nov. 22 · Portugal race, 13:00", "8:00 a.m. EST / 1:00 p.m. GMT"]
@@ -109,25 +106,16 @@ assets:
       - ["Sat., Nov. 28 · Valencia Sprint, 15:00", "9:00 a.m. EST / 2:00 p.m. GMT"]
       - ["Sun., Nov. 29 · Valencia race, 14:00", "8:00 a.m. EST / 1:00 p.m. GMT"]
     note: "Source: MotoGP official 2026 calendar and timetable (motogp.com)"
-    inkSaver: true
-    description: "A one-page sheet with the MotoGP 2026 Q2, Sprint and race times for Qatar, Portugal and Valencia in Eastern and UK time."
-    alt: "MotoGP 2026 final rounds sheet with Q2, Sprint and race times for Qatar, Portugal and Valencia in Eastern and UK time"
+    description: "A one-page sheet with the MotoGP 2026 Q2, Sprint and race times for Portugal and Valencia in Eastern and UK time."
+    alt: "MotoGP 2026 final rounds sheet with Q2, Sprint and race times for Portugal and Valencia in Eastern and UK time"
 downloads:
   - group: "MotoGP 2026 Final Rounds Race Times printables"
-    title: "MotoGP 2026 Final Rounds Race Times, Qatar to Valencia"
-    description: "A one-page sheet with the MotoGP 2026 Q2, Sprint and race times for Qatar, Portugal and Valencia in Eastern and UK time."
+    title: "MotoGP 2026 Final Rounds Race Times, Portugal and Valencia"
+    description: "A one-page sheet with the MotoGP 2026 Q2, Sprint and race times for Portugal and Valencia in Eastern and UK time."
     preview: ../../../../assets/news/motogp-2026/motogp-2026-final-rounds-race-times.png
-    alt: "MotoGP 2026 final rounds sheet with Q2, Sprint and race times for Qatar, Portugal and Valencia in Eastern and UK time"
+    alt: "MotoGP 2026 final rounds sheet with Q2, Sprint and race times for Portugal and Valencia in Eastern and UK time"
     pdf: "/news/downloads/motogp-2026/motogp-2026-final-rounds-race-times.pdf"
     png: "/news/downloads/motogp-2026/motogp-2026-final-rounds-race-times.png"
-    pages: 1
-  - group: "MotoGP 2026 Final Rounds Race Times printables"
-    title: "MotoGP 2026 Final Rounds Race Times, Qatar to Valencia (ink saver)"
-    description: "A one-page sheet with the MotoGP 2026 Q2, Sprint and race times for Qatar, Portugal and Valencia in Eastern and UK time. Ink-saver version."
-    preview: ../../../../assets/news/motogp-2026/motogp-2026-final-rounds-race-times-ink.png
-    alt: "MotoGP 2026 final rounds sheet with Q2, Sprint and race times for Qatar, Portugal and Valencia in Eastern and UK time, ink-saver version"
-    pdf: "/news/downloads/motogp-2026/motogp-2026-final-rounds-race-times-ink.pdf"
-    png: "/news/downloads/motogp-2026/motogp-2026-final-rounds-race-times-ink.png"
     pages: 1
 draft: false
 ---

@@ -3,6 +3,7 @@ title: "25 Days of Christmas 2026 Schedule: Freeform, Dec. 1-25"
 description: "Freeform's 25 Days of Christmas 2026 schedule runs Tuesday, Dec. 1 to Dec. 25. See all 235 airings by night in ET and PT, plus a free printable calendar."
 type: explainer
 publishedAt: "2026-11-04T06:43:00-05:00"
+updatedAt: "2026-11-14T01:14:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["christmas movies on tv tonight 2026", "25 days of christmas 2026 schedule", "freeform 25 days of christmas 2026", "christmas movies on tv 2026 schedule"]
@@ -54,7 +55,7 @@ assets:
         - { start: "2026-12-25T20:20-05:00", title: "Home Alone 2", detail: "Evening kickoff", channel: "Freeform", airing: eastern, src: 1, quote: "Dec. 25: 8:20 p.m. Home Alone 2" }
       fill: { title: "My Christmas movie nights", labels: ["Movie night I will not miss", "Who I am watching with"] }
       unconfirmed:
-        - { label: "Other networks' 2026 holiday lineups", why: "Not posted on an official site as of Nov. 4, 2026" }
+        - { label: "ABC, AMC, CBS and NBC 2026 holiday lineups", why: "Not posted on an official site as of Nov. 14, 2026" }
 hero:
   src: ../../../../assets/news/christmas-movies-on-tv-2026-schedule-by-channel/christmas-movies-on-tv-2026-schedule-by-channel.webp
   alt: "A lit Christmas tree beside a flat-screen television in a family room, for Christmas movies on TV 2026"
@@ -70,7 +71,7 @@ summary:
   - "Freeform's 25 Days of Christmas 2026 returns Tuesday, Dec. 1 and runs through Dec. 25, with Christmas films listed every night from 7 a.m. Eastern Time (ET), according to Freeform's schedule published Nov. 2, 2026."
   - "Freeform lists 235 airings over the 25 days. How the Grinch Stole Christmas (2000) airs 18 times, and Home Alone and Home Alone 2 air 17 times each."
   - "Three Freeform premieres are marked: Ice Age: A Mammoth Christmas on Dec. 2, A Very Jonas Christmas Movie on Dec. 7 and Mickey's Home Alone on Dec. 19."
-  - "ABC, American Movie Classics (AMC), Turner Broadcasting System (TBS), Turner Network Television (TNT), CBS and NBC had not posted 2026 holiday schedules on official sites on Nov. 4, 2026; this story will be updated when they do."
+  - "Turner Broadcasting System (TBS) and Turner Network Television (TNT) list their 'A Christmas Story' 24-hour marathons for Dec. 24-25. ABC, American Movie Classics (AMC), CBS and NBC had not posted 2026 holiday schedules on official sites on Nov. 14, 2026."
 faq:
   - q: "What Christmas movies are on TV tonight in 2026?"
     a: "From Tuesday, Dec. 1 the night-by-night table lists every Freeform film with its time. Before Dec. 1 the Freeform schedule has not started; for Hallmark and Lifetime premieres, see our separate stories linked above."
@@ -86,7 +87,11 @@ sources:
   - title: "Freeform's \"25 Days of Christmas\" Schedule 2026"
     url: "https://www.freeform.com/news/recaps-and-news/25-days-of-christmas-schedule"
     publisher: "Freeform"
-    date: "2026-11-02"
+    date: "2026-11-14"
+  - title: "TBS's \"All I Watch for Christmas\" and TNT's \"Christmas Maximus\" Programming Kicks Off the Holiday Season Beginning Friday, November 13"
+    url: "http://www.thefutoncritic.com/news/2026/11/10/tbss-all-i-watch-for-christmas-and-tnts-christmas-maximus-programming-kicks-off-the-holiday-season-beginning-friday-november-13-311214/20261110wbd01"
+    publisher: "Warner Bros. Discovery (press release via The Futon Critic)"
+    date: "2026-11-10"
 downloads:
   - group: "Freeform 25 Days of Christmas 2026 Viewing Calendar printables"
     title: "Freeform 25 Days of Christmas 2026 Viewing Calendar"
@@ -107,7 +112,7 @@ draft: false
 
 **Freeform's 25 Days of Christmas 2026 returns Tuesday, Dec. 1 and runs through Dec. 25, with Christmas films listed every night from 7 a.m., according to the schedule Freeform published Nov. 2, 2026.** Freeform prints its times as EST/PST, so the East and West feeds air each film at the same clock time: the times below are Eastern and Pacific, per Freeform. Viewers in the Central and Mountain time zones should check local listings. Freeform says all programming is subject to change.
 
-Freeform's list is the only 2026 network schedule we could confirm on an official site today. It runs to 235 airings, which we counted from the published list. The night-by-night table below carries all of them, the "best nights" table picks out the marathons and premieres, and a free printable viewing calendar sits at the end. For the rest of the season, our [Hallmark Countdown to Christmas schedule](/news/hallmark-countdown-to-christmas-2026-schedule-printable/), [Lifetime Christmas movie schedule](/news/lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime/) and [Netflix Christmas movie list](/news/netflix-christmas-movies-2026-release-dates-holiday-watch-list/) cover those channels, so this story does not repeat them.
+Freeform's list is the only full night-by-night 2026 holiday movie schedule we could confirm on an official site as of Nov. 14, 2026. It runs to 235 airings, which we counted from the published list. The night-by-night table below carries all of them, the "best nights" table picks out the marathons and premieres, and a free printable viewing calendar sits at the end. For the rest of the season, our [Hallmark Countdown to Christmas schedule](/news/hallmark-countdown-to-christmas-2026-schedule-printable/), [Lifetime Christmas movie schedule](/news/lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime/) and [Netflix Christmas movie list](/news/netflix-christmas-movies-2026-release-dates-holiday-watch-list/) cover those channels, so this story does not repeat them.
 
 ## Freeform 25 Days of Christmas 2026: every night's films and times
 
@@ -183,11 +188,19 @@ Counted by family, the three Santa Clause films air 36 times, the first two Home
 
 ## What is not posted yet for other channels?
 
-Other networks have not published their 2026 holiday schedules on a source we could use as of Nov. 4, 2026, so none is listed here.
+Warner Bros. Discovery posted the Turner Broadcasting System (TBS) and Turner Network Television (TNT) holiday schedule on Nov. 10, 2026. TBS's "All I Watch for Christmas" and TNT's "Christmas Maximus" began Friday, Nov. 13. The three 24-hour marathons, in Eastern Time (ET), are:
+
+| Marathon | Network | Runs |
+|---|---|---|
+| Elf | TBS | Fri., Nov. 27, 8 p.m. to Sun., Nov. 28, 8 p.m. |
+| National Lampoon's Christmas Vacation | TNT | Sat., Nov. 28, 8 p.m. to Sun., Nov. 29, 8 p.m. |
+| A Christmas Story | TBS | Thu., Dec. 24, 8 p.m. to Fri., Dec. 25, 8 p.m. |
+| A Christmas Story | TNT | Thu., Dec. 24, 9 p.m. to Fri., Dec. 25, 9 p.m. |
+
+The full list of other airings is in the Warner Bros. Discovery release. The other networks have not published 2026 holiday schedules on a source we could use as of Nov. 14, 2026, so none is listed here.
 
 - ABC: we could not load ABC's press site, so its 2026 holiday lineup is not covered.
 - American Movie Classics (AMC): its "Best Christmas Ever" 2026 schedule is not announced.
-- Turner Broadcasting System (TBS) and Turner Network Television (TNT): no 2026 "A Christmas Story" 24-hour marathon is posted.
 - CBS and NBC: 2026 holiday specials such as Rudolph, Frosty and It's a Wonderful Life are not posted.
 
 This story will be updated when those networks post their schedules. Hallmark, Lifetime and Netflix are in the stories linked above.

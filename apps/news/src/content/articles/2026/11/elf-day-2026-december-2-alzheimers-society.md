@@ -3,7 +3,7 @@ title: "Elf Day 2026: Wednesday, Dec. 2, Sign-Up and Printable Planner"
 description: "Elf Day 2026 is Wednesday 2 December, Alzheimer's Society says. Sign-ups opened 1 September; includes countdown dates and a printable planner."
 type: news
 publishedAt: "2026-11-07T07:17:00-05:00"
-updatedAt: "2026-11-07T07:17:00-05:00"
+updatedAt: "2026-11-14T01:14:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["elf day 2026", "when is elf day 2026", "elf day alzheimer's society", "elf day ideas"]
@@ -19,7 +19,7 @@ assets:
     group: elf-day-2026
     title: "Elf Day 2026 Activity Planner, Wednesday 2 December"
     subtitle: "Alzheimer's Society Elf Day: facts, ideas checklist and donations tally"
-    note: "Source: Alzheimer's Society, Elf Day page and Elf Day 2026 sign-up page, read Nov. 7, 2026. Ideas are the charity's own list."
+    note: "Source: Alzheimer's Society, Elf Day page and Elf Day 2026 sign-up page, read Nov. 14, 2026. Ideas are the charity's own list."
     description: "One-page Elf Day 2026 planner: the 2 December date, sign-up facts, a checklist of the charity's fundraising ideas and a donations tally."
     alt: "Printable Elf Day 2026 planner with the 2 December date, sign-up facts, an ideas checklist and a donations tally"
     notesLabel: "Who is taking part, what we will run and when we pay in"
@@ -77,11 +77,11 @@ sources:
   - title: "Elf Day | Alzheimer's Society"
     url: "https://www.alzheimers.org.uk/get-involved/events-and-fundraising/organise-your-own-fundraising/elf-day"
     publisher: "Alzheimer's Society"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "Elf Day 2026 | Alzheimers Society"
     url: "https://alzheimersevents.org.uk/ps/event/ElfDay2026"
     publisher: "Alzheimer's Society"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "How can we help you? | Alzheimer's Society"
     url: "https://www.alzheimers.org.uk/about-us/how-can-we-help-you"
     publisher: "Alzheimer's Society"
@@ -118,11 +118,11 @@ downloads:
 draft: false
 ---
 
-**Alzheimer's Society's Elf Day 2026 is Wednesday 2 December,** according to the charity's Elf Day page (read Nov. 7, 2026), and registrations opened on 1 September 2026. Below are the sign-up facts, a countdown with suggested dates, the next four Elf Day dates and a one-page printable planner.
+**Alzheimer's Society's Elf Day 2026 is Wednesday 2 December,** according to the charity's Elf Day page (read Nov. 14, 2026), and registrations opened on 1 September 2026. Below are the sign-up facts, a countdown with suggested dates, the next four Elf Day dates and a one-page printable planner.
 
 ## What date is Elf Day 2026?
 
-The charity's page says: "This year Elf Day will be the 2 December." It also says: "On the first Wednesday of December every year, we celebrate Elf Day." The page describes it as a time when workplaces, clubs, groups of friends and families across the UK come together to make a difference for people affected by dementia. Mark the day on the [December 2026 printable calendar](/december-calendars.html).
+The charity's page says: "This year Elf Day will be the 2 December." It also says: "On the first Wednesday of December every year, we celebrate Elf Day." The page says you can host your event whenever and wherever you like, and that if you cannot make the date you can choose any date over the festive period. It describes the day as a time when workplaces, clubs, groups of friends and families across the UK come together to make a difference for people affected by dementia. Mark the day on the [December 2026 printable calendar](/december-calendars.html).
 
 ## How do you sign up for Elf Day?
 

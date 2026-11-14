@@ -11,20 +11,18 @@ dateline: "New York"
 assets:
   scene: none
   overlay: true
-  kicker: "Best Buy holiday deals · Fri., Oct. 30"
-  date: "2026-10-30"
-  card: { top: "DoorBOOsters start", big: "Fri., Oct. 30", bottom: "Early Black Friday Deals Nov. 6" }
+  kicker: "Best Buy holiday deals · Thu., Nov. 19"
+  date: "2026-11-19"
+  card: { top: "10 days of Black Friday deals", big: "Thu., Nov. 19", bottom: "Cyber Week Deals Dec. 1-6" }
   printable:
     slug: best-buy-holiday-deals-calendar-2026
     group: best-buy-holiday-2026
     title: "Best Buy Holiday Deals Calendar 2026"
-    subtitle: "Announced dates from Oct. 30, 2026 to Jan. 31, 2027"
+    subtitle: "Announced dates from Nov. 1, 2026 to Jan. 31, 2027"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Fri., Oct. 30", "DoorBOOsters begin; holiday returns window opens"]
-      - ["Sun., Nov. 1", "Extended store hours begin"]
-      - ["Fri., Nov. 6", "Early Black Friday Deals and Doorbusters; new deals every Friday"]
-      - ["Fri., Nov. 13", "New Friday deals (weekly drops)"]
+      - ["Sun., Nov. 1", "Extended store hours begin; holiday return window opened Oct. 30"]
       - ["Thu., Nov. 19", "10 days of Black Friday doorbusters begin; double rewards start"]
       - ["Fri., Nov. 20", "New Friday deals (weekly drops)"]
       - ["Thu., Nov. 26", "Thanksgiving: stores closed; deals online and in the app"]
@@ -36,14 +34,13 @@ assets:
       - ["Thu., Dec. 31", "Last purchase day for the holiday return window"]
       - ["Jan. 15, 2027 (Fri.)", "Return deadline for most holiday purchases"]
       - ["Jan. 31, 2027 (Sun.)", "Return deadline for Plus and Total members"]
-    note: "Source: Best Buy Corporate News, Oct. 27, 2026. Weekdays and the Nov. 28 end of the 10-day sale are our computation."
-    inkSaver: true
-    description: "One-page Best Buy holiday deals calendar for 2026: DoorBOOsters Oct. 30, Early Black Friday Deals Nov. 6, Cyber Week Dec. 1-6 and return deadlines Jan. 15 and Jan. 31."
-    alt: "Printable list of Best Buy holiday deal dates from Oct. 30, 2026 to Jan. 31, 2027 with weekdays"
+    note: "Source: Best Buy Corporate News, holiday calendar page checked Nov. 13, 2026. Weekdays and the Nov. 28 end of the 10-day sale are our computation."
+    description: "One-page Best Buy holiday deals calendar for 2026: 10 days of Black Friday deals from Nov. 19, Cyber Week Dec. 1-6 and return deadlines Jan. 15 and Jan. 31."
+    alt: "Printable list of Best Buy holiday deal dates from Nov. 1, 2026 to Jan. 31, 2027 with weekdays"
 hero:
   src: ../../../../assets/news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar.webp
-  alt: "Best Buy store entrance, the retailer whose Black Friday 2026 holiday calendar starts with DoorBOOsters on Oct. 30"
-  caption: "A Best Buy store (file photo). Best Buy says its 2026 holiday deals start Friday, Oct. 30, with Early Black Friday Deals on Nov. 6."
+  alt: "Best Buy store entrance, the retailer whose 10 days of Black Friday 2026 deals start on Nov. 19"
+  caption: "A Best Buy store (file photo). Best Buy says its 10 days of Black Friday deals start Thursday, Nov. 19, 2026."
   credit: "Photo: Hastengeims / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -94,19 +91,11 @@ related: [black-friday-2026-ad-tracker-walmart-target-best-buy, black-friday-202
 downloads:
   - group: "Best Buy Holiday Deals Calendar 2026 printables"
     title: "Best Buy Holiday Deals Calendar 2026"
-    description: "One-page Best Buy holiday deals calendar for 2026: DoorBOOsters Oct. 30, Early Black Friday Deals Nov. 6, Cyber Week Dec. 1-6 and return deadlines Jan. 15 and Jan. 31."
+    description: "One-page Best Buy holiday deals calendar for 2026: 10 days of Black Friday deals from Nov. 19, Cyber Week Dec. 1-6 and return deadlines Jan. 15 and Jan. 31."
     preview: ../../../../assets/news/best-buy-holiday-2026/best-buy-holiday-deals-calendar-2026.png
-    alt: "Printable list of Best Buy holiday deal dates from Oct. 30, 2026 to Jan. 31, 2027 with weekdays"
+    alt: "Printable list of Best Buy holiday deal dates from Nov. 1, 2026 to Jan. 31, 2027 with weekdays"
     pdf: "/news/downloads/best-buy-holiday-2026/best-buy-holiday-deals-calendar-2026.pdf"
     png: "/news/downloads/best-buy-holiday-2026/best-buy-holiday-deals-calendar-2026.png"
-    pages: 1
-  - group: "Best Buy Holiday Deals Calendar 2026 printables"
-    title: "Best Buy Holiday Deals Calendar 2026 (ink saver)"
-    description: "One-page Best Buy holiday deals calendar for 2026: DoorBOOsters Oct. 30, Early Black Friday Deals Nov. 6, Cyber Week Dec. 1-6 and return deadlines Jan. 15 and Jan. 31. Ink-saver version."
-    preview: ../../../../assets/news/best-buy-holiday-2026/best-buy-holiday-deals-calendar-2026-ink.png
-    alt: "Printable list of Best Buy holiday deal dates from Oct. 30, 2026 to Jan. 31, 2027 with weekdays, ink-saver version"
-    pdf: "/news/downloads/best-buy-holiday-2026/best-buy-holiday-deals-calendar-2026-ink.pdf"
-    png: "/news/downloads/best-buy-holiday-2026/best-buy-holiday-deals-calendar-2026-ink.png"
     pages: 1
 draft: false
 ---
@@ -169,4 +158,4 @@ Patrick McGinnis, chief revenue officer at Best Buy, said in the announcement: "
 
 ## Print the Best Buy holiday deals calendar
 
-Our free one-page printable lists every date above, from Friday, Oct. 30, to the Jan. 31, 2027 return deadline, with weekdays. There is a standard version and an ink-saver version for home printers.
+Our free one-page printable lists the dates still ahead, from Sunday, Nov. 1, to the Jan. 31, 2027 return deadline, with weekdays.

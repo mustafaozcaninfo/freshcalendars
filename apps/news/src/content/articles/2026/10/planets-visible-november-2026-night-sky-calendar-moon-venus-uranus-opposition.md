@@ -3,7 +3,7 @@ title: "Planets Visible in November 2026: Uranus Opposition Nov. 25"
 description: "Planets visible in November 2026: Uranus reaches opposition Nov. 25 and the Moon passed about 1° from Venus Nov. 7. A day-by-day sky table."
 type: explainer
 publishedAt: "2026-10-28T07:45:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T01:16:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["planets visible November 2026", "night sky November 2026", "Uranus opposition 2026", "Moon and Venus November 2026", "November 2026 sky calendar"]
@@ -11,7 +11,7 @@ dateline: "New York"
 hero:
   src: ../../../../assets/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition.webp
   alt: "Planets visible in November 2026: the Moon and Venus close together in the sky, in a NASA photo of an earlier Moon and Venus conjunction"
-  caption: "File photo of an earlier Moon and Venus conjunction. In November 2026 the crescent Moon is about 1 degree from Venus on Saturday, Nov. 7."
+  caption: "File photo of an earlier Moon and Venus conjunction. The crescent Moon passed about 1 degree from Venus on Saturday, Nov. 7; Mars and Jupiter meet on Nov. 16."
   credit: "Photo: NASA/Bill Ingalls, cropped, edited"
   license:
     name: "Public domain (NASA)"
@@ -21,9 +21,9 @@ hero:
 assets:
   scene: night-sky
   kicker: "Night sky · November 2026"
-  date: "2026-11-07"
+  date: "2026-11-16"
   overlay: true
-  card: { top: "Crescent Moon near Venus", big: "Sat., Nov. 7", bottom: "East, before sunrise" }
+  card: { top: "Mars about 1.2° from Jupiter", big: "Mon., Nov. 16", bottom: "Morning sky, before dawn" }
   printable:
     slug: november-2026-night-sky-calendar-planets-moon
     group: night-sky-2026
@@ -47,7 +47,7 @@ assets:
     description: "A one-page November 2026 night sky calendar with moon phases, Moon and planet pairings, Mercury's best morning and Uranus at opposition."
     alt: "November 2026 night sky calendar printable with moon phases, planet pairings and Uranus at opposition"
 summary:
-  - "The thin crescent Moon passes about 1° from Venus in the east-southeast before sunrise on Saturday, Nov. 7, 2026."
+  - "Next up is Mars about 1.2° from Jupiter in the morning sky on Monday, Nov. 16; the thin crescent Moon passed about 1° from Venus on Saturday, Nov. 7."
   - "Uranus reaches opposition at about 6 p.m. Eastern Standard Time on Wednesday, Nov. 25, at magnitude 5.6 in Taurus, with the Beaver Moon nearby."
   - "Jupiter, Mars and Venus fill the morning sky, Saturn and Neptune the evening sky, and Mercury is best before dawn around Nov. 20-22."
   - "NASA published its November 2026 skywatching guide on Nov. 2; the times below were computed from NASA Jet Propulsion Laboratory Horizons data, and NASA's guide also lists Mars and Jupiter close together on the mornings of Nov. 15 and 16."
@@ -108,7 +108,7 @@ downloads:
 draft: false
 ---
 
-**The best planet sight of November 2026 is a thin crescent Moon about 1° from Venus in the east-southeast before sunrise on Saturday, Nov. 7, and Uranus reaches opposition on Wednesday, Nov. 25**, according to our night sky calendar computed from NASA Jet Propulsion Laboratory (JPL) Horizons data. NASA published its "What's Up" guide for November 2026 on Nov. 2; we calculated the month's planet events ourselves and took the Moon phases from the U.S. Naval Observatory (USNO).
+**Mars comes within about 1.2° of Jupiter in the morning sky on Monday, Nov. 16, and Uranus reaches opposition on Wednesday, Nov. 25; a thin crescent Moon passed about 1° from Venus on Saturday, Nov. 7**, according to our night sky calendar computed from NASA Jet Propulsion Laboratory (JPL) Horizons data. NASA published its "What's Up" guide for November 2026 on Nov. 2; we calculated the month's planet events ourselves and took the Moon phases from the U.S. Naval Observatory (USNO).
 
 Clocks fell back at 2 a.m. on Nov. 1, so every time below is Eastern Standard Time (EST) unless marked; see [when daylight saving time ends](/when-is/daylight-savings/).
 
@@ -143,13 +143,13 @@ Venus, Jupiter and Mars all rise before the Sun in November, according to JPL Ho
 | Jupiter | 74° on Nov. 1, 87° on Nov. 15, 101° on Nov. 30 | About -2.0 to -2.2 |
 | Mars | 80° on Nov. 1, 87° on Nov. 15, 96° on Nov. 30 | About +0.8 to +0.4 |
 
-Lower magnitudes are brighter. Venus is the brightest of the three and climbs higher before sunrise every day of the month, from only 13° from the Sun on Nov. 1 to 40° by Nov. 30. On Nov. 7 Venus is still fairly low, so find an open view to the east-southeast.
+Lower magnitudes are brighter. Venus is the brightest of the three and climbs higher before sunrise every day of the month, from only 13° from the Sun on Nov. 1 to 40° by Nov. 30. Venus stayed fairly low on Nov. 7 and keeps climbing, so find an open view to the east-southeast.
 
-Jupiter and Mars are the other pair to find. The Moon, a day past last quarter, was near both in the east-southeast before dawn on Nov. 2 and is near them again before dawn on Nov. 3. On Nov. 16 the planets themselves are about 1.2° apart, with Jupiter at magnitude -2.1 and Mars at +0.7; NASA's guide lists the pair close together on the mornings of Nov. 15 and 16, in the southeast before sunrise. On Nov. 30 the waning gibbous Moon returns to the same part of the sky, about 1.1° from Jupiter and 3.0° from Mars.
+Jupiter and Mars are the other pair to find. The Moon, a day past last quarter, was near both in the east-southeast before dawn on Nov. 2 and again on Nov. 3. On Nov. 16 the planets themselves are about 1.2° apart, with Jupiter at magnitude -2.1 and Mars at +0.7; NASA's guide lists the pair close together on the mornings of Nov. 15 and 16, in the southeast before sunrise. On Nov. 30 the waning gibbous Moon returns to the same part of the sky, about 1.1° from Jupiter and 3.0° from Mars.
 
 ## Can I see Mercury, Saturn and Neptune?
 
-Mercury passes between Earth and the Sun on Nov. 4, so it is lost in the glare. It then moves into the morning sky after about Nov. 10 and reaches its greatest western elongation, 19.6° from the Sun, at about 7 p.m. on Nov. 20. The best view is before dawn on Nov. 20-22, at about magnitude -0.1 to -0.7 in late November. Our guide to [Mercury retrograde](/news/mercury-retrograde-2026-ends-november-13-dates-times-2027/) lists every date and time through 2027.
+Mercury passed between Earth and the Sun on Nov. 4 and was lost in the glare. It moves into the morning sky after about Nov. 10 and reaches its greatest western elongation, 19.6° from the Sun, at about 7 p.m. on Nov. 20. The best view is before dawn on Nov. 20-22, at about magnitude -0.1 to -0.7 in late November. Our guide to [Mercury retrograde](/news/mercury-retrograde-2026-ends-november-13-dates-times-2027/) lists every date and time through 2027.
 
 Saturn is in the evening sky, 151° from the Sun on Nov. 1 and 120° by Nov. 30, at magnitude +0.5 to +0.6. It is best in the early evening in the south. Neptune is also an evening planet but shines at only magnitude 7.7, so it needs binoculars or a telescope; the Moon passes about 4.4° from it on Nov. 20.
 
