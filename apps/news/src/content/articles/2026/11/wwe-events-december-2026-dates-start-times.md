@@ -87,7 +87,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [survivor-series-wargames-2026-date-start-time-houston-espn, fury-vs-joshua-december-11-2026-fight-time-ring-walk-netflix, avengers-doomsday-release-date-december-18-countdown-tickets-runtime]
+related: [survivor-series-wargames-2026-date-start-time-houston-espn, royal-rumble-2027-date-february-6-state-farm-stadium-glendale, avengers-doomsday-release-date-december-18-countdown-tickets-runtime]
 assets:
   overlay: true
   kicker: "WWE in December · Dec. 4-30, 2026"

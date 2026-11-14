@@ -106,7 +106,7 @@ downloads:
     pdf: "/news/downloads/europa-league-2026-27/europa-conference-league-november-2026-kickoff-times-et-ink.pdf"
     png: "/news/downloads/europa-league-2026-27/europa-conference-league-november-2026-kickoff-times-et-ink.png"
     pages: 1
-related: [champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5, premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv, soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels]
+related: [champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5, premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv, europa-league-conference-league-december-2026-schedule-kickoff-times-et]
 draft: false
 ---
 
