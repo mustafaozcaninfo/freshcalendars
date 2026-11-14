@@ -15,6 +15,7 @@ assets:
   date: "2026-11-14"
   card: { top: "Cavaliers host Dallas", big: "7:30 p.m. ET", bottom: "Sat., Nov. 14, game 8 of 14" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: cleveland-cavaliers-schedule-november-2026
     group: cavaliers-schedule-2026
     title: "Cavaliers Schedule, November 2026"

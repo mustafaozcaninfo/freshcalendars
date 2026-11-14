@@ -13,6 +13,7 @@ assets:
   date: "2026-11-05"
   card: { top: "Canada's Eurovision vote closed", big: "Thu., Nov. 5", bottom: "Choice announced by December" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: canadas-choice-eurovision-2027-vote-tracker
     group: eurovision-2027
     title: "Canada's Choice Eurovision 2027 Vote Tracker"

@@ -15,6 +15,7 @@ assets:
   date: "2026-11-14"
   card: { top: "Atlanta at Bucks", big: "7 p.m. CT", bottom: "8 p.m. ET, no national TV listed" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: bucks-schedule-november-2026
     group: bucks-schedule-2026
     title: "Bucks Schedule, November 2026"

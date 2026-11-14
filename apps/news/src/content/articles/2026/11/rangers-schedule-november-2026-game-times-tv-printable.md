@@ -15,6 +15,7 @@ assets:
   date: "2026-11-16"
   card: { top: "Next game", big: "Mon., Nov. 16", bottom: "Montreal at New York, 7:30 p.m. ET" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: new-york-rangers-schedule-november-2026
     group: rangers-schedule-2026
     title: "New York Rangers Schedule, November 2026"

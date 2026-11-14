@@ -71,6 +71,7 @@ assets:
   date: "2026-11-05"
   card: { top: "Bonfire Night cut-off", big: "Midnight", bottom: "On other nights the cut-off is 11 p.m." }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: bonfire-night-2026-fireworks-calendar
     group: bonfire-night-2026
     title: "Bonfire Night 2026 Fireworks Calendar"

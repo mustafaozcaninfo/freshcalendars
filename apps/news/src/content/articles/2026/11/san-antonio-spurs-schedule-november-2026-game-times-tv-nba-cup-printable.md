@@ -15,6 +15,7 @@ assets:
   date: "2026-11-14"
   card: { top: "Spurs at Utah", big: "4 p.m. CT", bottom: "5 p.m. ET, no national TV listed" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: san-antonio-spurs-schedule-november-2026
     group: spurs-schedule-2026
     title: "Spurs Schedule, November 2026"

@@ -14,6 +14,7 @@ assets:
   date: "2026-11-05"
   card: { top: "Target, Home Depot, Starbucks started", big: "Thu., Nov. 5", bottom: "Best Buy followed Fri., Nov. 6" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: holiday-sale-start-dates-november-2-8-2026
     group: holiday-sales-2026
     title: "Holiday Sale Start Dates, Nov. 2-8, 2026"

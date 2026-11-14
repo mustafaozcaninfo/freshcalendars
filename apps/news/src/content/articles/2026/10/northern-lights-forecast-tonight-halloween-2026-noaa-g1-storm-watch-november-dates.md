@@ -78,6 +78,7 @@ assets:
   date: "2026-11-14"
   card: { top: "Next Kp 5 (G1) outlook dates", big: "Nov. 17", bottom: "and Wed., Nov. 18, per NOAA's outlook" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: northern-lights-watch-dates-november-2026
     group: northern-lights-2026
     title: "Northern Lights Watch Dates, November 2026"

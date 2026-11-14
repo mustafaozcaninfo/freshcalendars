@@ -15,6 +15,7 @@ assets:
   date: "2026-11-14"
   card: { top: "Bulls at Minnesota", big: "7 p.m. CT", bottom: "Sat., Nov. 14, game 6 of 13" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: bulls-schedule-november-2026
     group: bulls-schedule-2026
     title: "Bulls Schedule, November 2026"

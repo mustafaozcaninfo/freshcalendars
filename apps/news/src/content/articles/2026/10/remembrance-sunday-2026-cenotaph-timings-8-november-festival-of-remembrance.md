@@ -78,6 +78,7 @@ assets:
   date: "2026-11-08"
   card: { top: "Two-minute silence at", big: "11am GMT", bottom: "6am ET on Sunday 8 November" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: remembrance-weekend-timetable-2026
     group: remembrance-2026
     title: "Remembrance Weekend 2026 Timetable, 7 to 11 November"

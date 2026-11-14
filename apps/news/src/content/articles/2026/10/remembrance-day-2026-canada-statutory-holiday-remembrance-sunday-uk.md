@@ -97,6 +97,7 @@ assets:
   date: "2026-11-11"
   card: { top: "Two minutes of silence", big: "11 a.m.", bottom: "Remembrance Sunday in the UK: Nov. 8" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: remembrance-day-2026-by-province-and-territory
     group: remembrance-2026
     title: "Remembrance Day 2026 by Province and Territory"

@@ -15,6 +15,7 @@ assets:
   date: "2026-11-14"
   card: { top: "Next game", big: "Sat., Nov. 14", bottom: "Edmonton at Toronto, 5 p.m. MT" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: edmonton-oilers-schedule-november-2026
     group: oilers-schedule-2026
     title: "Oilers Schedule, November 2026"

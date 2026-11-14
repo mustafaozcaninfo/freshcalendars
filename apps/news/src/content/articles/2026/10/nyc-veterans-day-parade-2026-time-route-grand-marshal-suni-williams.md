@@ -78,6 +78,7 @@ assets:
   date: "2026-11-11"
   card: { top: "Stepped off on Fifth Avenue", big: "12:30 p.m. ET", bottom: "Grand Marshal: Suni Williams" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: nyc-veterans-day-parade-2026-day-plan
     group: veterans-day-2026
     title: "NYC Veterans Day Parade 2026 Day Plan"

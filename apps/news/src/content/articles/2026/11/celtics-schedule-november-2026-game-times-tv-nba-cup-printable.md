@@ -15,6 +15,7 @@ assets:
   date: "2026-11-14"
   card: { top: "Dallas at Celtics, TD Garden", big: "6 p.m. ET", bottom: "No national TV listed" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: celtics-schedule-november-2026
     group: celtics-schedule-2026
     title: "Celtics Schedule, November 2026"

@@ -72,6 +72,7 @@ assets:
   date: "2026-11-01"
   card: { top: "2026 Gold Glove winners", big: "20 winners", bottom: "Platinum: Bellinger, Crow-Armstrong" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: gold-glove-2026-winners-and-mlb-awards-dates
     group: gold-glove-2026
     title: "Gold Glove 2026 Winners and MLB Awards Dates"

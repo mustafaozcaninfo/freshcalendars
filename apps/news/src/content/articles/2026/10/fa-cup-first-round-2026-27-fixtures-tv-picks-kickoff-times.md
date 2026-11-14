@@ -15,6 +15,7 @@ assets:
   date: "2026-11-07"
   card: { top: "Eight ties were live on TNT Sports", big: "Nov. 6-9", bottom: "Kick-off times in UK, ET and PT" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: fa-cup-first-round-tv-picks-round-dates-2026-27
     group: fa-cup-2026-27
     title: "FA Cup 2026-27 First Round TV Picks and Round Dates"

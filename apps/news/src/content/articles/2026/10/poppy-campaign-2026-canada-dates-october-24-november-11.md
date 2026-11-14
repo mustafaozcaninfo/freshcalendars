@@ -82,6 +82,7 @@ assets:
   date: "2026-11-11"
   card: { top: "Campaign ended on Remembrance Day", big: "Wed., Nov. 11", bottom: "Started Sat., Oct. 24" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: poppy-campaign-2026-dates
     group: remembrance-2026
     title: "Poppy Campaign 2026 Dates, Oct. 24 to Nov. 11"

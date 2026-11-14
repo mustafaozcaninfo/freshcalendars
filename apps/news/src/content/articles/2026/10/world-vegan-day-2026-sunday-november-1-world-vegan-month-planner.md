@@ -14,6 +14,7 @@ assets:
   date: "2026-11-01"
   card: { top: "World Vegan Month", big: "Nov. 1-30", bottom: "Began Sunday, Nov. 1, 2026" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: world-vegan-month-2026-planner
     group: world-vegan-month-2026
     title: "World Vegan Month 2026 Planner, Nov. 1-30"

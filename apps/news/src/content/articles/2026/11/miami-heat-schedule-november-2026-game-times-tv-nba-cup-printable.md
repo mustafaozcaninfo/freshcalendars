@@ -15,6 +15,7 @@ assets:
   date: "2026-11-14"
   card: { top: "Heat vs. Detroit", big: "8 p.m. ET", bottom: "Five-game home stand runs to Nov. 22" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: miami-heat-schedule-november-2026
     group: heat-schedule-2026
     title: "Miami Heat Schedule, November 2026"

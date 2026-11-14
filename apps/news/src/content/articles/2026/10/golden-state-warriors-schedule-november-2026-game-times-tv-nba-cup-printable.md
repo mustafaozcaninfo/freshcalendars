@@ -15,6 +15,7 @@ assets:
   date: "2026-11-14"
   card: { top: "Warriors at New Orleans", big: "5 p.m. PT", bottom: "8 p.m. ET, no national TV listed" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: golden-state-warriors-schedule-november-2026
     group: warriors-schedule-2026
     title: "Golden State Warriors November 2026 Schedule"

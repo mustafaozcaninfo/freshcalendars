@@ -14,6 +14,7 @@ assets:
   date: "2026-11-15"
   card: { top: "Lakers at Suns, no national TV listed", big: "1 p.m. PT", bottom: "4 p.m. ET, Sun., Nov. 15" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: lakers-schedule-november-2026
     group: lakers-schedule-2026
     title: "Lakers Schedule, November 2026"

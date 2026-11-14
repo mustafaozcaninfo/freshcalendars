@@ -14,6 +14,7 @@ assets:
   date: "2026-10-30"
   card: { top: "Season 2 premiered", big: "Fri., Oct. 30", bottom: "Paramount+ Premium plan" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: dexter-resurrection-season-2-watch-tracker-2026
     group: tv-2026
     title: "Dexter: Resurrection Season 2 Watch Tracker 2026"
