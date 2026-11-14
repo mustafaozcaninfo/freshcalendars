@@ -6,41 +6,61 @@ Eight Claude accounts work on /news/. All of them are signed in to GitHub as the
 |---|---|---|---|---|
 | Manager | `M` | plans, queues, review, code changes, the phase decision | – | by hand (the owner's own sessions) |
 | Writer 1 | `w1` | holidays, elections, government and civic deadlines, UK and Canada (categories `holidays`, `elections`, `planning`, `uk-canada`) | `christina-gerland` | writer routine, below |
-| Writer 2 | `w2` | school calendars, test dates, family planning, money and benefits: Social Security, SNAP, taxes, wages (categories `school-calendars`, `money-benefits`) | `aaron-kessler` | writer routine, below |
-| Writer 3 | `w3` | time and clock changes, sky events, calendar guides, retail dates, entertainment and streaming, gaming and tech, all sports, every league and country (categories `time-change`, `sky-events`, `calendar-guides`, `retail-dates`, `entertainment`, `gaming-tech`, `sports`) | `jessica-hartwell` | writer routine, below |
+| Writer 2 | `w2` | school calendars, test dates, family planning, money and benefits: Social Security, SNAP, taxes, wages; from Nov. 14, 2026 also retail dates: sales, store hours, "what's open", brand menus and deals (categories `school-calendars`, `money-benefits`, `retail-dates`) | `aaron-kessler`; `jessica-hartwell` on `retail-dates` stories | writer routine, below |
+| Writer 3 | `w3` | time and clock changes, sky events, calendar guides, entertainment and streaming, gaming and tech, all sports, every league and country (categories `time-change`, `sky-events`, `calendar-guides`, `entertainment`, `gaming-tech`, `sports`) | `jessica-hartwell` | writer routine, below |
 | Writer 4 | `w4` | the puzzle desk: daily puzzle pages and monthly roundups, nothing else | `news-desk` | routines A, B and C (`docs/PUZZLE-ROUTINES.md`) |
 | Research | `r` | finds topics for w1 to w3 and keeps their queues full, unblocks items whose source has posted; writes no story | – | research routine, below |
 | Update | `u` | every update of an existing story, in every beat: facts and `updatedAt` only; writes no new story | the story's own editor | update routine, below |
 | Search | `s` | reads Search Console (web, image, Discover) once a day, decides which pages to improve and how, files the briefs for `u`, measures what each change did; writes no story and edits none | – | search routine, below |
 
-One category, one editor, one writer account: the byline is the editor who owns the story's category (`categories` in `apps/news/src/content/authors/<id>.json`), and a writer only files stories in its own categories. A money story is `money-benefits`, not `planning`.
+One category, one editor, one writer account: the byline is the editor who owns the story's category (`categories` in `apps/news/src/content/authors/<id>.json`), whichever account writes it, and a writer only files stories in its own categories. A money story is `money-benefits`, not `planning`. `retail-dates` moved from w3 to w2 on Nov. 14, 2026 (manager's decision from the reader numbers: retail earns 19 readers per story against 3 for w2's two categories, and w3 had seven categories); its byline stays `jessica-hartwell`.
 
 ## Volume and growth policy
 
 /news/ started on Oct. 17, 2026 and published up to 89 stories a day in its second week. A young section that swings between bursts and silence looks like scaled content to Google; a steady, slowly rising daily output of useful stories, spread over the day, does not. So the desk publishes the same amount every day, in every beat, around the clock, and steps up only when Search Console shows Google is keeping up.
 
-**CURRENT PHASE: 1**
+**CURRENT PHASE: 2**
 
-**SPRINT ENDED on Nov. 4, 2026 (owner's decision on Nov. 5: too many stories in a burst risks a Google penalty).** The phase line above applies again today: 2 new stories per writer run, 24 new a day for the desk. Update items (`upd-`) are not new stories and continue at the normal pace.
+**Phase 2 since Nov. 14, 2026 (owner's decision, carried out by the manager): 3 new stories per writer run, 36 a day.** The gate passed on Nov. 14 (99% of sampled stories indexed; clicks fell one week, not two). The owner also asked for higher limits, so a phase 3 exists from now on. The Nov. 4 sprint stays ended: growth comes in steps a week or more apart, never in a burst.
 
 | Phase | Per writer run | Per writer per day (4 runs) | Desk total per day (3 writers) | Starts |
 |---|---|---|---|---|
-| 1 | 2 new stories | 8 new | **24 new** | Nov. 2, 2026 (now) |
-| 2 | 3 new stories | 12 new | **36 new** | when the gate passes, earliest Nov. 17, 2026 |
+| 1 | 2 new stories | 8 new | **24 new** | Nov. 2 to Nov. 13, 2026 |
+| 2 | 3 new stories | 12 new | **36 new** | Nov. 14, 2026 (now) |
+| 3 | 4 new stories | 16 new | **48 new** | when the gate and the reader check pass, earliest Nov. 28, 2026 |
 
 Updates come from the update desk (`u`, since Nov. 3, 2026), not from the writers: up to 3 per run, as many runs as its usage allows.
 
 Puzzle pages (routines A to C, about 6 to 10 a day) come on top and do not count.
 
-- **36 new stories a day is the ceiling.** There is no phase 3. Growth after that comes from better stories and updates, not more of them.
+- **48 new stories a day is the ceiling** (phase 3). The numbers of Nov. 14, 2026 say why it is not higher: 40 stories brought 65% of all readers and two thirds of the stories had under 5 readers in a week, so more stories only help when they are in the formats that earn readers. The third and fourth story of a run must be in a GROW format of the research desk's scoreboard (`docs/desk/research-log.md`, "Learned"); a run that has only KEEP or HOLD items left writes two and stops.
 - **Fewer is allowed, padding is not.** A run that finds only one topic worth writing (information gain, `CLAUDE.md`) writes one. A run never writes a thin story to reach the number.
 - **The gate** (`docs/desk/search-console.md` holds its numbers, read daily from Search Console by `scripts/news-gsc.mjs`; the owner checks the manual-action and security part and the manager changes the phase line above, every Monday):
   1. no manual action and no security issue;
   2. at least 60% of the /news/ URLs published 7 to 21 days earlier are indexed (Pages report, or URL Inspection on a sample of 20);
-  3. /news/ clicks and impressions did not fall two weeks in a row.
+  3. /news/ clicks and impressions did not fall two weeks in a row;
+  4. reader check, for a step up only: readers per story (beacon, `docs/desk/traffic.md`) of the stories published in the last 14 days are not lower than in the 14 days before. More stories with fewer readers each is not growth.
 
   All three pass: move up one phase (two weeks in a phase at least). Any one fails: move down one phase; in phase 1, drop to "1 new per run" until the gate passes again.
 - **Updates count as much as new stories.** A silent update (facts and `updatedAt` only, `CLAUDE.md`) of a story whose date is coming up keeps it ranking and costs a fraction of a new story.
+
+## Growth plan (manager, from Nov. 14, 2026)
+
+The owner handed the steering of /news/ to the manager sessions of the research account on Nov. 14, 2026: the phase line, the queues' priorities and this plan. The goal is readers, counted by the first-party beacon (`docs/desk/traffic.md`), with Google and Bing clicks as the second and third numbers.
+
+**Baseline** (Nov. 7 to 13, the beacon's first week): about 12,100 readers, 1,050 to 2,200 on a normal day and 3,279 on Veterans Day; by source Bing 2,996, DuckDuckGo 2,211, Google 2,187, direct 2,058, Yahoo 1,491. Google web clicks 2,174 in the week to Nov. 11.
+
+**Targets, readers per week** (goals to steer by, checked every Monday; not forecasts): Nov. 16-22: 13,000 (no single big day, so this already needs growth). Nov. 23-29, Thanksgiving and Black Friday: 20,000. Nov. 30 to Dec. 6: 16,000. Dec. 14-20: 20,000. Dec. 21-27: 25,000. A week under target by more than a fifth gets a line in the log saying which lever failed.
+
+**Levers, in the order of what the numbers support:**
+
+1. **Formats that earn readers get the slots.** Deals, free offers and sales on a date (108 readers per story), "what's open" and hours (19, and 50 Google clicks per story), brand menus (12), one-event start times and schedules (10). Tax and deadline dates (1.8), district school calendars (2.5), monthly team schedules and legislature sessions are held.
+2. **Bing first.** Bing, DuckDuckGo and Yahoo together send three times Google's readers. Date and start-time pages that Google answers in its own box still earn clicks there, so they are written when we can rank on Bing.
+3. **The next case of a hit.** Every story with 300 or more readers in a week is a template: the same question for the next event (award show, parade, free-meal day, cultural holiday, retailer sale).
+4. **Capacity where the readers are.** w2 writes `retail-dates` from Nov. 14; phase 2 from Nov. 14; phase 3 when the reader check passes.
+5. **The winners stay fresh.** The 40 stories that bring most readers are the update desk's first job each day while their date is ahead.
+
+**Every Monday the manager** applies the gate and the reader check, compares the week with its target, rewrites the targets if two weeks ran more than a fifth above or below, and writes three lines in `docs/desk/research-log.md` ("Runs"): the week's readers against target, what worked, what changes.
 
 ## Search Console data
 
@@ -222,7 +242,7 @@ You are the Fresh Calendars research desk (account r, /news/). This is a fresh s
 
 3. What is already covered. List every story slug and title on main (`apps/news/src/content/articles`), the open pull requests, the `claude/desk-*` branches (`git fetch origin '+refs/heads/claude/desk-*:refs/remotes/origin/claude/desk-*'`), every item in the three queue files and the topics the log turned down. A topic covered by any of them is never added again.
 
-4. Targets are ceilings, not quotas. Per writer, count the open items in its "Queue" section (unticked, not blocked). The ceiling is two days of its phase output (phase 1: 16 items, phase 2: 24). Never add an item to reach the number: a queue below the ceiling with the reason in the log line is right, a queue filled with HOLD formats is wrong (a writer with an empty queue finds its own topic, `docs/DESK.md` "Queues"). Each "Updates" section should hold at least 6 open items. Add at most 12 new items and 6 update items in this run; at most 2 items of one template in a run (same headline shape with a different state, team, county or district), and never more than 4 open items of one template in a queue: when a queue holds more, add none of that template and say so in the log.
+4. Targets are ceilings, not quotas. Per writer, count the open items in its "Queue" section (unticked, not blocked). The ceiling is two days of its phase output (phase 1: 16 items, phase 2: 24, phase 3: 32). Never add an item to reach the number: a queue below the ceiling with the reason in the log line is right, a queue filled with HOLD formats is wrong (a writer with an empty queue finds its own topic, `docs/DESK.md` "Queues"). Each "Updates" section should hold at least 6 open items. Add at most 18 new items and 6 update items in this run; at most 2 items of one template in a run (same headline shape with a different state, team, county or district), and never more than 4 open items of one template in a queue: when a queue holds more, add none of that template and say so in the log.
 
 5. Find, in this order:
    a. Owner's notes and "Learned" in `docs/desk/research-log.md`.
@@ -338,7 +358,7 @@ You are the Fresh Calendars search desk (account s, /news/). This is a fresh ses
 
 ## Manager (account M)
 
-The owner's own sessions. The writers find their own topics, so the manager steers instead of feeding every story:
+The owner's own sessions and, from Nov. 14, 2026, the manual sessions of the research account, to which the owner handed the steering ("Growth plan"). The writers find their own topics, so the manager steers instead of feeding every story:
 
 1. **Every day: read the "Desk watchdog" issue** and act on "Needs a person". Then **check what went live.** List the day's writer pull requests (`gh pr list --state merged --search "[W in:title"`), read a sample of the stories, check one with `pnpm news:verify-live <slug>`. A problem goes back as a new item at the top of the same writer's queue ("fix: ...").
 2. **Unblocking and queue filling are the research desk's daily work** (below). The manager reads `docs/desk/research-log.md` once a day, removes a topic that should not be written, and moves the ones that matter most to the top; items marked "needs code" stay the manager's own work (branch and pull request).
