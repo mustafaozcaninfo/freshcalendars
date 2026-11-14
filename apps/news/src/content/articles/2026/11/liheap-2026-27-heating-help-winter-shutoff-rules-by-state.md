@@ -3,7 +3,7 @@ title: "LIHEAP 2026-27: Pennsylvania Opened Nov. 2, Shutoff Rules by State"
 description: "Low Income Home Energy Assistance Program (LIHEAP) 2026-27: Pennsylvania opened Nov. 2. Apply-by dates, winter shutoff rules by state and a printable."
 type: explainer
 publishedAt: "2026-11-04T06:50:00-05:00"
-updatedAt: "2026-11-04T17:25:00-05:00"
+updatedAt: "2026-11-14T15:55:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["LIHEAP 2026", "HEAP application 2026", "winter shutoff moratorium 2026", "heating assistance 2026-27 by state"]
@@ -20,12 +20,12 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Andre_Carrotflower"
 summary:
   - "Pennsylvania's Low Income Home Energy Assistance Program (LIHEAP) season opened Nov. 2, 2026 and runs through April 23, 2027, with benefits of $200 to $1,000 by household size, income and fuel type."
-  - "New York City's 2026-2027 Regular Home Energy Assistance Program (HEAP) benefit is scheduled to open Nov. 2, 2026; its page lists no closing date."
+  - "New York City's 2026-2027 Regular Home Energy Assistance Program (HEAP) benefit opened Nov. 2, 2026; its page lists no closing date."
   - "Ohio, Minnesota and Connecticut all list May 31, 2027 as the last day to apply; New Jersey's window runs to June 30, 2027."
   - "Shutoff protections differ: Minnesota's cold weather period is Oct. 1 to April 30, Indiana's is Dec. 1 to March 15 under conditions, and Ohio has a reconnect order, which is not a moratorium."
 faq:
   - q: "When does LIHEAP open for 2026-27?"
-    a: "It depends on the state. Connecticut began taking applications Sept. 1, 2026, New Jersey Oct. 1, Pennsylvania Nov. 2 and Ohio on July 1, 2026. New York City's Regular HEAP benefit is scheduled to open Nov. 2, 2026."
+    a: "It depends on the state. Connecticut began taking applications Sept. 1, 2026, New Jersey Oct. 1, Pennsylvania Nov. 2 and Ohio on July 1, 2026. New York City's Regular HEAP benefit opened Nov. 2, 2026."
   - q: "What is the last day to apply for heating assistance in 2026-27?"
     a: "Ohio, Minnesota and Connecticut list May 31, 2027. Pennsylvania's season ends April 23, 2027 and New Jersey's window ends June 30, 2027. Wisconsin and New York City list no closing date."
   - q: "Does a winter shutoff moratorium cover everyone?"
@@ -136,7 +136,7 @@ downloads:
     pages: 1
 ---
 
-Pennsylvania's Low Income Home Energy Assistance Program (LIHEAP) season opened Nov. 2, 2026 and runs through April 23, 2027, according to the state's LIHEAP page, and New York City's Regular Home Energy Assistance Program (HEAP) benefit is scheduled to open the same day, per the city's Energy Assistance page. Other states opened earlier or close later. This story puts each state's own application window and its winter shutoff protection side by side, with a one-page printable of the dates.
+Pennsylvania's Low Income Home Energy Assistance Program (LIHEAP) season opened Nov. 2, 2026 and runs through April 23, 2027, according to the state's LIHEAP page, and New York City's Regular Home Energy Assistance Program (HEAP) benefit opened the same day, per the city's Energy Assistance page. Other states opened earlier or close later. This story puts each state's own application window and its winter shutoff protection side by side, with a one-page printable of the dates.
 
 ## When can you apply for heating help in 2026-27?
 
@@ -145,7 +145,7 @@ Each row comes from the state or city page named in it. A blank means the page d
 | State | Program | Opens | Last day to apply |
 |---|---|---|---|
 | Pennsylvania | LIHEAP | Nov. 2, 2026 (opened) | April 23, 2027 |
-| New York City | Regular HEAP benefit | Scheduled for Nov. 2, 2026 | Not listed |
+| New York City | Regular HEAP benefit | Nov. 2, 2026 (opened) | Not listed |
 | New Jersey | LIHEAP and Universal Service Fund | Oct. 1, 2026 | June 30, 2027 |
 | Ohio | HEAP | July 1, 2026 | May 31, 2027 |
 | Minnesota | Energy Assistance Program | Not on the page | May 31, 2027 |
@@ -153,7 +153,7 @@ Each row comes from the state or city page named in it. A blank means the page d
 | Connecticut | Connecticut Energy Assistance Program | Sept. 1, 2026 | May 31, 2027 |
 | Virginia | Fuel assistance (rule 22VAC40-680-40) | Not earlier than Sept. 1 | Not later than March 31 |
 
-Some details sit on the pages themselves. Pennsylvania says households can receive from $200 to $1,000 based on household size, income and fuel type. New Jersey says its application period runs on a first come, first served basis, and lists a hotline at 1-800-510-3102. Wisconsin's Department of Administration says the state is now taking applications for the upcoming heating season and points to [energybenefit.wi.gov](https://energybenefit.wi.gov/). Connecticut says online and in-person applications began Tuesday, Sept. 1, 2026, and that the last day a household can apply to establish eligibility is May 31, 2027.
+Some details sit on the pages themselves. Pennsylvania says households can receive from $200 to $1,000 based on household size, income and fuel type. New Jersey says its application period runs on a first come, first served basis, and lists a hotline at 1-800-510-3102. Wisconsin's Department of Administration says the state is now taking applications for the upcoming heating season and points to [energybenefit.wi.gov](https://energybenefit.wi.gov/). New York City's page also says its Emergency HEAP benefit is scheduled to open Jan. 4, 2027. Connecticut says online and in-person applications began Tuesday, Sept. 1, 2026, and that the last day a household can apply to establish eligibility is May 31, 2027.
 
 Virginia's row is the rule, not this year's dates. The Board of Social Services sets the specific 2026-27 dates, and we could not confirm them. The Massachusetts, Michigan and Illinois pages did not load for our check, so use your state's own page.
 

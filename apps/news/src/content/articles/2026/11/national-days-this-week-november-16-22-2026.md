@@ -3,6 +3,7 @@ title: "National Days This Week, Nov. 16-22, 2026: Six on Thursday, Nov. 19"
 description: "Thirteen official observances fall on Nov. 16-22, 2026, from International Day for Tolerance to National Adoption Day, with a printable planner by day."
 type: explainer
 publishedAt: "2026-11-07T06:10:00-05:00"
+updatedAt: "2026-11-14T15:34:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national days this week", "holidays this week november 2026", "what day is it this week november 16 2026", "awareness days november 2026"]
@@ -86,7 +87,7 @@ sources:
   - title: "International Day for Tolerance"
     url: "https://www.unesco.org/en/days/tolerance"
     publisher: "UNESCO"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "Member states endorse World Prematurity Day as official global health campaign"
     url: "https://www.who.int/news/item/28-05-2025-member-states-endorse-world-prematurity-day-as-official-global-health-campaign"
     publisher: "World Health Organization"
@@ -94,15 +95,15 @@ sources:
   - title: "World AMR Awareness Week 2026"
     url: "https://www.who.int/campaigns/world-amr-awareness-week/world-amr-awareness-week-2026"
     publisher: "World Health Organization"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "World Philosophy Day"
     url: "https://www.unesco.org/en/days/philosophy"
     publisher: "UNESCO"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "World Toilet Day"
     url: "https://www.un.org/en/observances/toilet-day"
     publisher: "United Nations"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "Great American Smokeout"
     url: "https://www.cancer.org/healthy/stay-away-from-tobacco/great-american-smokeout.html"
     publisher: "American Cancer Society"
@@ -110,18 +111,18 @@ sources:
   - title: "National Rural Health Day"
     url: "https://nosorh.org/?p=6069"
     publisher: "National Organization of State Offices of Rural Health"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "International Men's Day"
     url: "https://internationalmensday.com"
     publisher: "International Men's Day (global organiser)"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "Beaujolais Nouveau 2026: release date | Discover Beaujolais"
     url: "https://www.discoverbeaujolais.com/beaujolais-nouveau"
     publisher: "Inter Beaujolais (Discover Beaujolais)"
   - title: "Africa Industrialization Day"
     url: "https://www.un.org/en/observances/africa-industrialization-day"
     publisher: "United Nations"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "World Children's Day"
     url: "https://www.un.org/en/observances/world-childrens-day"
     publisher: "United Nations"
@@ -129,11 +130,11 @@ sources:
   - title: "Transgender Day of Remembrance"
     url: "https://tdor.translivesmatter.info/"
     publisher: "Remembering Our Dead"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "National Adoption Day"
     url: "https://www.nationaladoptionday.org"
     publisher: "National Adoption Day coalition"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "World Day of Remembrance for Road Traffic Victims"
     url: "https://www.un.org/en/observances/road-traffic-victims-day"
     publisher: "United Nations"
@@ -173,7 +174,7 @@ This list includes only days set by the UN, its agencies or the organizing body.
 | Nov. 19 | Thursday | National Rural Health Day | National Organization of State Offices of Rural Health (NOSORH) | Headline: Celebrating 15 Years of the Power of Rural | |
 | Nov. 19 | Thursday | International Men's Day | Organizers (internationalmensday.com) | The Future is Everyone | [International Men's Day 2026](/news/international-mens-day-2026-november-19-theme/) |
 | Nov. 19 | Thursday | Beaujolais Nouveau Day | Inter Beaujolais | Not applicable | [Beaujolais Nouveau 2026](/news/beaujolais-nouveau-day-2026-november-19-release-dates/) |
-| Nov. 20 | Friday | Africa Industrialization Day | UN General Assembly, 1989 | Not announced | |
+| Nov. 20 | Friday | Africa Industrialization Day | UN General Assembly, 1989 | Financing Industrialization for Inclusive and Sustainable Development (Africa Industrialization Week, Lusaka, Zambia, Nov. 17-20) | |
 | Nov. 20 | Friday | World Children's Day | UN | Not announced | [World Children's Day 2026](/news/world-childrens-day-2026-friday-november-20-rights-of-the-child/) |
 | Nov. 20 | Friday | Transgender Day of Remembrance | Organizers (Remembering Our Dead) | Not given | |
 | Nov. 21 | Saturday | National Adoption Day | National Adoption Day coalition | Not given | [National Adoption Day 2026](/news/national-adoption-day-2026-november-21/) |
@@ -201,7 +202,7 @@ Three of the six follow a third-Thursday rule, and Nov. 19 is the third Thursday
 
 ## Friday and Saturday: Africa, children, remembrance and adoption
 
-The UN says its General Assembly proclaimed 20 November "Africa Industrialization Day" in December 1989. No 2026 theme is announced. The UN also lists World Children's Day on 20 November; our [World Children's Day story](/news/world-childrens-day-2026-friday-november-20-rights-of-the-child/) reports that the United Nations Children's Fund (UNICEF) had announced no 2026 theme as of Nov. 4.
+The UN says its General Assembly proclaimed 20 November "Africa Industrialization Day" in December 1989. The UN page says Africa Industrialization Week 2026 will be held in Lusaka, Zambia, from 17 to 20 November 2026, under the theme "Financing Industrialization for Inclusive and Sustainable Development." The UN also lists World Children's Day on 20 November; our [World Children's Day story](/news/world-childrens-day-2026-friday-november-20-rights-of-the-child/) reports that the United Nations Children's Fund (UNICEF) had announced no 2026 theme as of Nov. 4.
 
 The Remembering Our Dead site states: "Transgender Day of Remembrance is 20th November 2026."
 
