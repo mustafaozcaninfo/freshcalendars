@@ -3,7 +3,7 @@ title: "São Paulo Grand Prix 2026 Start Time: Nov. 8, 12 p.m. EST"
 description: "Norris won the São Paulo Grand Prix on Sunday, Nov. 8, 2026, which started 2 p.m. local, 12 p.m. EST. Every session in U.S. time zones and a printable."
 type: explainer
 publishedAt: "2026-10-26T01:12:00-04:00"
-updatedAt: "2026-11-14T17:45:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Brazil Grand Prix 2026 time", "São Paulo Grand Prix 2026 schedule", "F1 Brazil race time", "Brazilian Grand Prix 2026"]

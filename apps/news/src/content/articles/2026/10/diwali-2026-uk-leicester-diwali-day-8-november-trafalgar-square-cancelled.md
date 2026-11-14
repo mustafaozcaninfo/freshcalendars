@@ -3,7 +3,7 @@ title: "Diwali 2026 UK: Leicester Diwali Day Sunday 8 November, Sunset 16:22"
 description: "Leicester Diwali Day 2026 was Sunday 8 November at Cossington Recreation Ground, with no public fireworks. Sunset was 16:22 in London and Leicester."
 type: news
 publishedAt: "2026-10-29T03:45:00-04:00"
-updatedAt: "2026-11-14T18:00:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Diwali 2026 UK", "Leicester Diwali 2026", "Diwali on the Square 2026", "Leicester Diwali fireworks 2026"]

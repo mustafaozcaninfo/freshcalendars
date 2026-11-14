@@ -3,7 +3,7 @@ title: "Canadiens Schedule November 2026: 14 Games, TV in Canada and U.S."
 description: "The Canadiens play 14 games in November 2026, 3-0-2 after five, next Nov. 14. Every game time in ET, TV in Canada and the U.S., and a printable."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
-updatedAt: "2026-11-14T17:05:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Canadiens schedule November 2026", "Habs game tonight", "Canadiens TV schedule", "Canadiens Maple Leafs November 7 2026", "Canadiens printable schedule"]

@@ -3,7 +3,7 @@ title: "Premier League Fixtures, Oct. 31-Nov. 2: UK and US Times and TV"
 description: "Premier League, Oct. 31-Nov. 2, 2026: Chelsea beat Manchester United 2-0 at 12:30pm UK time, 8:30 a.m. ET. All ten scores, with times and TV channels."
 type: news
 publishedAt: "2026-10-29T15:50:00-04:00"
-updatedAt: "2026-11-14T18:10:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["premier league fixtures this weekend", "liverpool vs arsenal kick off time", "newcastle vs everton time tv", "premier league on tv this weekend", "chelsea vs man united time"]

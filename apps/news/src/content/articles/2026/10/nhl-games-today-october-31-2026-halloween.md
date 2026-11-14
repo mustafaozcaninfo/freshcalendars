@@ -3,7 +3,7 @@ title: "NHL Games Today, Oct. 31, 2026: 10 Halloween Games From 1:00 p.m. ET"
 description: "The NHL played 10 games on Saturday, Oct. 31, 2026 (Halloween), from 1:00 to 10:00 p.m. ET. Final scores, a time-zone table, TV notes and a printable."
 type: news
 publishedAt: "2026-10-29T19:53:00-04:00"
-updatedAt: "2026-11-14T17:35:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today", "NHL games Halloween 2026", "NHL schedule October 31 2026", "NHL TV schedule today", "printable NHL schedule"]

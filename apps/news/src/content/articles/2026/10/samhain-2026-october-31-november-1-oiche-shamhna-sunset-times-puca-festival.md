@@ -3,7 +3,7 @@ title: "Samhain 2026: Oct. 31 Eve, Nov. 1 Date and Sunset Times"
 description: "Samhain 2026 was Sunday, Nov. 1, with Oíche Shamhna on Saturday, Oct. 31. Dublin sunset on Oct. 31 was 4:55 p.m., London 4:35 p.m., New York 5:53 p.m."
 type: explainer
 publishedAt: "2026-10-30T15:48:00-04:00"
-updatedAt: "2026-11-14T17:50:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["samhain 2026", "when is samhain 2026", "samhain 2026 date", "puca festival 2026"]

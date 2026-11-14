@@ -3,7 +3,7 @@ title: "SNAP Benefits November 2026: Dates by State, Weekends Flagged"
 description: "Supplemental Nutrition Assistance Program (SNAP) benefits loaded Sunday, Nov. 1, 2026 in some states. Deposit days by state, with weekend days flagged."
 type: explainer
 publishedAt: "2026-10-29T10:05:43-04:00"
-updatedAt: "2026-11-14T17:15:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["SNAP payment schedule November 2026", "when will SNAP be deposited November 2026", "food stamps November 2026 dates by state", "SNAP deposit dates by state"]

@@ -3,7 +3,7 @@ title: "Ohio Sample Ballot 2026: Counties, Candidates and Issue 3 Voter ID"
 description: "The Ohio Nov. 3, 2026 ballot by county: statewide candidates, the U.S. Senate special election, Issue 3 on voter ID and key dates. Results are with the state."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
-updatedAt: "2026-11-14T18:20:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Ohio sample ballot 2026", "Ohio Issue 3 2026", "Ohio governor candidates 2026", "Ohio Senate race 2026", "sample ballot by zip code Ohio"]
