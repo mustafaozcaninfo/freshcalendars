@@ -116,7 +116,7 @@ The United Nations Educational, Scientific and Cultural Organization (UNESCO) in
 
 ## What time is the solstice on Yalda Night in each time zone?
 
-USNO lists the December 2026 solstice at 20:50 UTC on Dec. 21. The local times are computed by Fresh Calendars from that USNO time. USNO gives Tehran no daylight time in December, so Tehran is UTC+3:30.
+USNO lists the December 2026 solstice at 20:50 Universal Time (UT) on Dec. 21, which is 20:50 UTC. The local times are computed by Fresh Calendars from that USNO time. USNO gives Tehran no daylight time in December, so Tehran is UTC+3:30.
 
 | Place | Local time of the solstice | Local date |
 |---|---|---|
