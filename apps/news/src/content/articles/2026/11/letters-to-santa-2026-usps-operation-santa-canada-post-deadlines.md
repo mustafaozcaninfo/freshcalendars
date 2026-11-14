@@ -79,15 +79,13 @@ assets:
     group: letters-to-santa-2026
     title: "Letters to Santa 2026: USPS and Canada Post Dates"
     subtitle: "Letter writing, adoption and last-send dates, in order"
-    note: "Source: USPS Operation Santa (uspsoperationsanta.com) and Canada Post Santa letter program, read Nov. 4, 2026. Neither promises a reply or a gift."
+    note: "Source: USPS Operation Santa (uspsoperationsanta.com) and Canada Post Santa letter program, read Nov. 13, 2026. Neither promises a reply or a gift."
     description: "A one-page printable of the 2026 letters-to-Santa dates for USPS Operation Santa and Canada Post, in date order, with days left before Christmas."
-    alt: "Printable grid of 2026 letters-to-Santa dates for USPS Operation Santa and Canada Post, from Sept. 14 to Dec. 12"
+    alt: "Printable grid of 2026 letters-to-Santa dates for USPS Operation Santa and Canada Post, from Nov. 16 to Dec. 12"
     data:
       target: { date: "2026-12-25", label: "Christmas Day" }
       columns: ["United States", "Canada"]
       rows:
-        - { date: "2026-09-14", cells: { "United States": "Mailroom starts accepting letters to Santa" }, src: 1, quote: "Sept. 14, 2026: The mailroom starts accepting letters to Santa." }
-        - { date: "2026-11-02", cells: { "United States": "Registration opens for adopters" }, src: 1, quote: "Nov. 2: Registration Opens for Adopters" }
         - { date: "2026-11-16", cells: { "United States": "Letter adoption starts" }, src: 1, quote: "Nov. 16: Letter Adoption Starts." }
         - { date: "2026-12-05", cells: { "United States": "Last day to send letters; postmarked by this date" }, src: 2, quote: "Saturday, December 5: This is the last day to send letters. Letters must be postmarked by this date." }
         - { date: "2026-12-09", cells: { "Canada": "Send your letter to Santa by this date" }, src: 4, quote: "Send your letter to Santa no later than December 9, 2026!" }
@@ -97,7 +95,7 @@ downloads:
     title: "Letters to Santa 2026: USPS and Canada Post Dates"
     description: "A one-page printable of the 2026 letters-to-Santa dates for USPS Operation Santa and Canada Post, in date order, with days left before Christmas."
     preview: ../../../../assets/news/letters-to-santa-2026/letters-to-santa-dates-2026.png
-    alt: "Printable grid of 2026 letters-to-Santa dates for USPS Operation Santa and Canada Post, from Sept. 14 to Dec. 12"
+    alt: "Printable grid of 2026 letters-to-Santa dates for USPS Operation Santa and Canada Post, from Nov. 16 to Dec. 12"
     pdf: "/news/downloads/letters-to-santa-2026/letters-to-santa-dates-2026.pdf"
     png: "/news/downloads/letters-to-santa-2026/letters-to-santa-dates-2026.png"
     pages: 1

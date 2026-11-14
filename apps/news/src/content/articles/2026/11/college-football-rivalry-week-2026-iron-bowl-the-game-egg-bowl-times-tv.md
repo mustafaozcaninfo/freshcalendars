@@ -19,11 +19,13 @@ assets:
     subtitle: "Thu., Nov. 26 to Sat., Nov. 28. Times Eastern (ET); SEC windows are start-time ranges. Write your pick and the score."
     columns: ["When (ET)", "Game and network · Pick · Score"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Thu., Nov. 26 · 8:00 p.m.", "TCU at Texas Tech (ESPN)  Pick: ______  Score: ______"]
       - ["Fri., Nov. 27 · 12:00 p.m.", "Egg Bowl: Mississippi State at Ole Miss (ABC)  Pick: ______  Score: ______"]
       - ["Fri., Nov. 27 · 12:00 p.m.", "Nebraska at Iowa (CBS)  Pick: ______  Score: ______"]
       - ["Fri., Nov. 27 · 3:30 p.m.", "Florida at Florida State (ABC)  Pick: ______  Score: ______"]
+      - ["Fri., Nov. 27 · 4:30 p.m.", "Air Force at New Mexico (The CW)  Pick: ______  Score: ______"]
       - ["Fri., Nov. 27 · 7:30 p.m.", "Texas at Texas A&M (ABC)  Pick: ______  Score: ______"]
       - ["Fri., Nov. 27 · 7:30 p.m.", "Minnesota at Wisconsin (NBC)  Pick: ______  Score: ______"]
       - ["Fri., Nov. 27 · 9:00 p.m.", "West Virginia at Utah (FOX)  Pick: ______  Score: ______"]
@@ -37,8 +39,7 @@ assets:
       - ["Sat., Nov. 28 · time to be announced", "South Carolina at Clemson  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · time to be announced", "USC at UCLA  Pick: ______  Score: ______"]
       - ["Tiebreaker · Sat., Nov. 28", "Total points, Michigan at Ohio State: ______"]
-    note: "Source: ESPN college football schedule, Week 14 (checked Nov. 1, 2026); Auburn Athletics (SEC flex rule); Buckeye Sports Bulletin; Nebraska Athletics. Times can change; check ESPN."
-    inkSaver: true
+    note: "Source: ESPN college football schedule, Week 14 (checked Nov. 13, 2026); Auburn Athletics (SEC flex rule); Buckeye Sports Bulletin; Nebraska Athletics. Times can change; check ESPN."
     description: "A one-page college football Rivalry Week 2026 sheet with Nov. 26-28 games, Eastern Time kickoffs or SEC windows, networks, and blanks for picks and scores."
     alt: "Printable college football Rivalry Week 2026 viewing sheet listing Nov. 26-28 games with time, network and blanks for picks and scores"
 hero:
@@ -119,14 +120,6 @@ downloads:
     alt: "Printable college football Rivalry Week 2026 viewing sheet listing Nov. 26-28 games with time, network and blanks for picks and scores"
     pdf: "/news/downloads/college-football-rivalry-week-2026/college-football-rivalry-week-2026-viewing-sheet.pdf"
     png: "/news/downloads/college-football-rivalry-week-2026/college-football-rivalry-week-2026-viewing-sheet.png"
-    pages: 1
-  - group: "College Football Rivalry Week Viewing Sheet 2026 printables"
-    title: "College Football Rivalry Week Viewing Sheet 2026 (ink saver)"
-    description: "A one-page college football Rivalry Week 2026 sheet with Nov. 26-28 games, Eastern Time kickoffs or SEC windows, networks, and blanks for picks and scores. Ink-saver version."
-    preview: ../../../../assets/news/college-football-rivalry-week-2026/college-football-rivalry-week-2026-viewing-sheet-ink.png
-    alt: "Printable college football Rivalry Week 2026 viewing sheet listing Nov. 26-28 games with time, network and blanks for picks and scores, ink-saver version"
-    pdf: "/news/downloads/college-football-rivalry-week-2026/college-football-rivalry-week-2026-viewing-sheet-ink.pdf"
-    png: "/news/downloads/college-football-rivalry-week-2026/college-football-rivalry-week-2026-viewing-sheet-ink.png"
     pages: 1
 related: [thanksgiving-football-schedule-2026-nfl-college-games, college-football-conference-championship-games-2026-schedule-times-tv, army-navy-game-2026-date-kickoff-time-metlife-stadium-tv]
 draft: false

@@ -3,7 +3,7 @@ title: "UFC 335 Start Time: Oliveira vs. Lopes, Main Card 9 p.m. ET Dec. 12"
 description: "The Ultimate Fighting Championship (UFC) 335 main card is Sat., Dec. 12, 2026: 9 p.m. ET, 6 p.m. Pacific Time. Each segment's time in six time zones."
 type: news
 publishedAt: "2026-11-04T10:50:00-05:00"
-updatedAt: "2026-11-05T09:25:00-05:00"
+updatedAt: "2026-11-14T01:40:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["UFC 335 start time", "UFC 335 time", "UFC 335 main card time", "Oliveira vs Lopes time", "UFC 335 how to watch"]
@@ -20,8 +20,8 @@ hero:
     author: "CrispyCream27"
 summary:
   - "The Ultimate Fighting Championship (UFC) lists the UFC 335 main card for 9 p.m. Eastern Time (ET) on Saturday, Dec. 12, 2026, at T-Mobile Arena in Las Vegas; Paramount+ says the same."
-  - "UFC.com lists prelims at 7 p.m. ET and early prelims at 5 p.m. ET; Paramount+ still shows both as to be determined."
-  - "Charles Oliveira vs. Diego Lopes headlines the main card with Alex Pereira vs. Sergei Pavlovich, per UFC.com; it streams on Paramount+ with no pay-per-view."
+  - "UFC.com listed prelims at 7 p.m. ET and early prelims at 5 p.m. ET when we read it on Nov. 4; Paramount+ still showed both as to be determined on Nov. 9."
+  - "Charles Oliveira vs. Diego Lopes headlines the main card with Alex Pereira vs. Sergei Pavlovich, per UFC.com and Paramount+; it streams on Paramount+ with no pay-per-view."
   - "In Greenwich Mean Time (GMT) the main card falls at 2 a.m. on Sunday, Dec. 13, by our conversion."
 faq:
   - q: "What time does UFC 335 start?"
@@ -42,7 +42,7 @@ sources:
   - title: "How To Watch UFC 335: Oliveira vs. Lopes"
     url: "https://www.paramountplus.com/sneak-peak/how-to-watch-ufc-335-oliveira-lopes/"
     publisher: "Paramount+"
-    date: "2026-10-12"
+    date: "2026-11-09"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -61,7 +61,7 @@ assets:
     group: ufc-335-2026
     title: "UFC 335 Fight Night Card, Dec. 12, 2026"
     subtitle: "Early prelims, prelims and main card times in four US time zones"
-    note: "Source: UFC.com, UFC 335: Oliveira vs. Lopes; Paramount+, How To Watch UFC 335 (Oct. 12, 2026). Fight cards are subject to change."
+    note: "Source: UFC.com, UFC 335: Oliveira vs. Lopes; Paramount+, How To Watch UFC 335 (Nov. 9, 2026). Fight cards are subject to change."
     description: "A one-page UFC 335 fight night card for Dec. 12, 2026 with early prelims, prelims and main card times in ET, CT, MT and PT, plus a pick column."
     alt: "Printable UFC 335 fight night card for Dec. 12, 2026 with segment start times in four US time zones"
     data:
@@ -85,7 +85,7 @@ downloads:
 draft: false
 ---
 
-**UFC 335: Oliveira vs. Lopes is Saturday, Dec. 12, 2026, at T-Mobile Arena in Las Vegas, with the main card at 9 p.m. Eastern Time (ET), 6 p.m. Pacific Time (PT), according to the UFC event page and Paramount+.** UFC.com lists the prelims at 7 p.m. ET and the early prelims at 5 p.m. ET. Below: each segment in six time zones, the bouts listed so far and what is still not announced.
+**UFC 335: Oliveira vs. Lopes is Saturday, Dec. 12, 2026, at T-Mobile Arena in Las Vegas, with the main card at 9 p.m. Eastern Time (ET), 6 p.m. Pacific Time (PT), according to the UFC event page and Paramount+.** UFC.com listed the prelims at 7 p.m. ET and the early prelims at 5 p.m. ET on Nov. 4; Paramount+ still gives both as to be determined. Below: each segment in six time zones, the bouts listed so far and what is still not announced.
 
 ## UFC 335 segment times in six time zones
 
@@ -97,11 +97,11 @@ The table converts UFC.com's listed times. Because 9 p.m. ET is 2 a.m. Greenwich
 | Prelims | 7:00 p.m. | 6:00 p.m. | 5:00 p.m. | 4:00 p.m. | 12:00 a.m. Sun. | 11:00 a.m. Sun. |
 | Main card | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. | 6:00 p.m. | 2:00 a.m. Sun. | 1:00 p.m. Sun. |
 
-Both UFC.com and Paramount+ give the main card as 9 p.m. ET. The prelim and early prelim times are UFC.com's; Paramount+ still lists them as to be determined. The other columns are our conversion.
+Both UFC.com and Paramount+ give the main card as 9 p.m. ET. The prelim and early prelim times are UFC.com's as of Nov. 4, and UFC.com blocked our automated re-check on Nov. 14; Paramount+'s page, updated Nov. 9, still lists them as to be determined. The other columns are our conversion.
 
 ## Which fights are listed for UFC 335?
 
-UFC.com lists Charles Oliveira vs. Diego Lopes, a lightweight bout, as the main event and Paramount+ calls it the main event too. Paramount+ names Alex Pereira vs. Sergei Pavlovich, a heavyweight bout, as the co-main event. UFC.com now places both bouts on the 9 p.m. ET main card.
+UFC.com lists Charles Oliveira vs. Diego Lopes, a lightweight bout, as the main event and Paramount+ calls it the main event too and describes it as a title bout with Oliveira as the reigning champion of that belt. Paramount+ names Alex Pereira vs. Sergei Pavlovich, a heavyweight bout, as the co-main event. UFC.com placed both bouts on the 9 p.m. ET main card when we read it.
 
 | Bout | Division | Segment on UFC.com | Listed by |
 |---|---|---|---|
@@ -110,9 +110,8 @@ UFC.com lists Charles Oliveira vs. Diego Lopes, a lightweight bout, as the main 
 | Brandon Moreno vs. Charles Johnson | Flyweight | Not yet assigned | UFC.com |
 | Joe Pyfer vs. Bo Nickal | Middleweight | Not yet assigned | UFC.com |
 | Quentin Pasley vs. Junior Tafa | Light heavyweight | Not yet assigned | UFC.com |
-| Maycee Barber vs. Carli Judice | Women's flyweight | Not on UFC.com | Paramount+ |
 
-UFC.com shows no bouts yet under the early prelims or the prelims, and Paramount+ still lists both as to be determined, so the table assigns no other bout to a segment. Paramount+ adds that fight cards are subject to change. This story gives no odds or predictions.
+UFC.com showed no bouts under the early prelims or the prelims, and Paramount+ still lists both as to be determined, so the table assigns no other bout to a segment. Paramount+'s Nov. 9 card lists the first five bouts above and no longer shows Maycee Barber vs. Carli Judice, which an earlier version of its page listed. Paramount+ adds that fight cards are subject to change. This story gives no odds or predictions.
 
 ## How do you watch UFC 335?
 

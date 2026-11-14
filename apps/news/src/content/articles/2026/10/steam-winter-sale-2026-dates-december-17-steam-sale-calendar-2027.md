@@ -151,7 +151,7 @@ Valve's calendar page does not list a 2026 Autumn Sale, Steam Awards dates or an
 
 ## Print the Steam sale and Fest calendar
 
-The printable lists all 19 rows above on one US Letter page, with weekdays and a Done column. Pair it with the [2027 printable yearly calendar](/printable-yearly-calendar.html) to see where each event falls in the year.
+The printable lists all 18 rows above on one US Letter page, with weekdays and a Done column. Pair it with the [2027 printable yearly calendar](/printable-yearly-calendar.html) to see where each event falls in the year.
 
 ## How we keep this accurate
 

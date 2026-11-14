@@ -90,23 +90,22 @@ internalLinks:
 related: [nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, chicago-blackhawks-schedule-december-2026-game-times-tv-printable, ottawa-senators-schedule-december-2026-game-times-tv-printable]
 assets:
   overlay: true
-  kicker: "NHL Global Series · Helsinki, Nov. 12"
-  date: "2026-11-12"
-  card: { top: "Hurricanes vs. Kraken, Game 1", big: "Noon ET", bottom: "Game 2: Sat., Nov. 14, 1 p.m. ET" }
+  kicker: "NHL Global Series · Helsinki, Nov. 14"
+  date: "2026-11-14"
+  card: { top: "Hurricanes vs. Kraken, Game 2", big: "1 p.m. ET", bottom: "Sat., Nov. 14 · Carolina won Game 1" }
   printable:
     kit: watch-guide
     slug: nhl-global-series-2026-game-schedule
     group: nhl-global-series-2026
     title: "NHL Global Series 2026 Game Schedule"
-    subtitle: "Helsinki, Nov. 12 and 14, and Düsseldorf, Dec. 18 and 20"
+    subtitle: "Helsinki, Nov. 14, and Düsseldorf, Dec. 18 and 20"
     note: "Source: NHL.com, Carolina Hurricanes, Seattle Kraken and NHL.com Deutschland. Eastern Time conversions by Fresh Calendars from the local times NHL.com gives."
-    description: "One-page printable schedule of the four 2026 NHL Global Series games in Helsinki and Düsseldorf, with local and Eastern, Central, Mountain and Pacific times."
-    alt: "Printable schedule of the four NHL Global Series 2026 games in Helsinki and Düsseldorf with start times by U.S. time zone"
+    description: "One-page printable schedule of the three remaining 2026 NHL Global Series games in Helsinki and Düsseldorf, with local and Eastern, Central, Mountain and Pacific times."
+    alt: "Printable schedule of the three remaining NHL Global Series 2026 games in Helsinki and Düsseldorf with start times by U.S. time zone"
     data:
       pick: false
       layout: table
       events:
-        - { start: "2026-11-12T19:00+02:00", tz: "Europe/Helsinki", title: "Hurricanes vs. Kraken, Game 1", detail: "Veikkaus Arena, Helsinki", airing: live, src: 2, quote: "Game 1 – Thursday, Nov. 12, 2026, 7 p.m. EET" }
         - { start: "2026-11-14T20:00+02:00", tz: "Europe/Helsinki", title: "Hurricanes vs. Kraken, Game 2", detail: "Veikkaus Arena, Helsinki", airing: live, src: 2, quote: "Game 2 – Saturday, Nov. 14, 2026, 8 p.m. EET" }
         - { start: "2026-12-18T19:00+01:00", tz: "Europe/Berlin", title: "Senators vs. Blackhawks", detail: "Düsseldorf", airing: live, src: 8, quote: ["18. Dezember: 19:00 Uhr", "Dec. 18 and Dec. 20"] }
         - { start: "2026-12-20T14:00+01:00", tz: "Europe/Berlin", title: "Senators vs. Blackhawks", detail: "Düsseldorf", airing: live, src: 8, quote: ["20. Dezember: 14:00 Uhr", "Dec. 18 and Dec. 20"] }
@@ -116,9 +115,9 @@ assets:
 downloads:
   - group: "NHL Global Series 2026 Game Schedule printables"
     title: "NHL Global Series 2026 Game Schedule"
-    description: "One-page printable schedule of the four 2026 NHL Global Series games in Helsinki and Düsseldorf, with local and Eastern, Central, Mountain and Pacific times."
+    description: "One-page printable schedule of the three remaining 2026 NHL Global Series games in Helsinki and Düsseldorf, with local and Eastern, Central, Mountain and Pacific times."
     preview: ../../../../assets/news/nhl-global-series-2026/nhl-global-series-2026-game-schedule.png
-    alt: "Printable schedule of the four NHL Global Series 2026 games in Helsinki and Düsseldorf with start times by U.S. time zone"
+    alt: "Printable schedule of the three remaining NHL Global Series 2026 games in Helsinki and Düsseldorf with start times by U.S. time zone"
     pdf: "/news/downloads/nhl-global-series-2026/nhl-global-series-2026-game-schedule.pdf"
     png: "/news/downloads/nhl-global-series-2026/nhl-global-series-2026-game-schedule.png"
     pages: 1
@@ -172,4 +171,4 @@ NHL.com's German event page lists "Chicago Blackhawks gegen Ottawa Senators" at 
 
 ## Free NHL Global Series printable
 
-Our one-page schedule lists all four games with local, Eastern, Central, Mountain and Pacific times. Mark the dates on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html). The games also appear in our list of the [Winter Classic and other 2026-27 NHL special events](/news/nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city/), and our [Hometown Remix jerseys story](/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/) covers the league's 2026-27 jersey line.
+Our one-page schedule lists the three games still to play, Game 2 in Helsinki and both Düsseldorf games, with local, Eastern, Central, Mountain and Pacific times. Mark the dates on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html). The games also appear in our list of the [Winter Classic and other 2026-27 NHL special events](/news/nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city/), and our [Hometown Remix jerseys story](/news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/) covers the league's 2026-27 jersey line.

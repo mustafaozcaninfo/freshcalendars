@@ -9,23 +9,24 @@ category: entertainment
 keywords: ["The Gilded Age season 4 release date", "Gilded Age season 4 premiere time", "what time does The Gilded Age come out on HBO Max", "new on HBO November 2026"]
 assets:
   overlay: true
-  kicker: "The Gilded Age · HBO · Sun., Nov. 1"
-  date: "2026-11-01"
-  card: { top: "The Gilded Age Season 4", big: "Sun., Nov. 1", bottom: "9 p.m. ET/PT on HBO" }
+  kicker: "The Gilded Age · HBO · Sun., Nov. 15"
+  date: "2026-11-15"
+  card: { top: "The Gilded Age S4 Episode 3", big: "Sun., Nov. 15", bottom: "Weekly on HBO through Dec. 20" }
   printable:
     slug: hbo-november-2026-premiere-calendar
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     group: hbo-november-2026
     title: "HBO November 2026 Premiere Calendar"
-    subtitle: "Four HBO premiere dates, from The Gilded Age on Nov. 1"
+    subtitle: "The Gilded Age episodes and two HBO documentaries, Nov. 15-29"
     rows:
-      - ["Sun., Nov. 1", "The Gilded Age Season 4 premiere, 9 p.m. ET/PT"]
-      - ["Sun., Nov. 8", "City of God: The Fight Rages On Season 2, HBO Latino"]
+      - ["Sun., Nov. 15", "The Gilded Age Season 4, episode 3, HBO"]
       - ["Tue., Nov. 17", "When a Witness Recants, 9 p.m. ET/PT"]
+      - ["Sun., Nov. 22", "The Gilded Age Season 4, episode 4, HBO"]
       - ["Wed., Nov. 25", "The Slightest Touch, 9 p.m. ET/PT"]
-    note: "Source: Warner Bros. Discovery Pressroom, HBO media releases, Oct. 2026."
-    inkSaver: true
-    description: "One-page HBO November 2026 premiere calendar with four dates: The Gilded Age Season 4, City of God season 2 and two documentaries. Free printable."
-    alt: "Printable HBO November 2026 premiere calendar listing The Gilded Age Season 4 on Nov. 1 and three other HBO dates"
+      - ["Sun., Nov. 29", "The Gilded Age Season 4, episode 5, HBO"]
+    note: "Source: Warner Bros. Discovery Pressroom, HBO media releases, Oct. 2026; Brit + Co and Dexerto weekly schedule (checked Nov. 2, 2026). Check the HBO guide for start times of Gilded Age episodes."
+    description: "One-page HBO November 2026 premiere calendar with five dates: three Gilded Age Season 4 episodes and two documentaries. Free printable."
+    alt: "Printable HBO November 2026 calendar listing Gilded Age Season 4 episodes 3 to 5 and two HBO documentaries"
 hero:
   src: ../../../../assets/news/the-gilded-age-season-4-premiere-time-november-1-hbo-max/the-gilded-age-season-4-premiere-time-november-1-hbo-max.webp
   alt: "The Gilded Age Season 4 premiere: The Breakers mansion in Newport, Rhode Island, from the Gilded Age era"
@@ -81,19 +82,11 @@ related: [new-on-hbo-max-november-2026-release-dates-city-of-god-tony, new-on-pr
 downloads:
   - group: "HBO November 2026 Premiere Calendar printables"
     title: "HBO November 2026 Premiere Calendar"
-    description: "One-page HBO November 2026 premiere calendar with four dates: The Gilded Age Season 4, City of God season 2 and two documentaries. Free printable."
+    description: "One-page HBO November 2026 premiere calendar with five dates: three Gilded Age Season 4 episodes and two documentaries. Free printable."
     preview: ../../../../assets/news/hbo-november-2026/hbo-november-2026-premiere-calendar.png
-    alt: "Printable HBO November 2026 premiere calendar listing The Gilded Age Season 4 on Nov. 1 and three other HBO dates"
+    alt: "Printable HBO November 2026 calendar listing Gilded Age Season 4 episodes 3 to 5 and two HBO documentaries"
     pdf: "/news/downloads/hbo-november-2026/hbo-november-2026-premiere-calendar.pdf"
     png: "/news/downloads/hbo-november-2026/hbo-november-2026-premiere-calendar.png"
-    pages: 1
-  - group: "HBO November 2026 Premiere Calendar printables"
-    title: "HBO November 2026 Premiere Calendar (ink saver)"
-    description: "One-page HBO November 2026 premiere calendar with four dates: The Gilded Age Season 4, City of God season 2 and two documentaries. Free printable. Ink-saver version."
-    preview: ../../../../assets/news/hbo-november-2026/hbo-november-2026-premiere-calendar-ink.png
-    alt: "Printable HBO November 2026 premiere calendar listing The Gilded Age Season 4 on Nov. 1 and three other HBO dates, ink-saver version"
-    pdf: "/news/downloads/hbo-november-2026/hbo-november-2026-premiere-calendar-ink.pdf"
-    png: "/news/downloads/hbo-november-2026/hbo-november-2026-premiere-calendar-ink.png"
     pages: 1
 draft: false
 ---

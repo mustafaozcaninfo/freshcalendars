@@ -3,6 +3,7 @@ title: "Avengers: Doomsday Release Date: Dec. 18, Runtime and Countdown"
 description: "Avengers: Doomsday opens in theaters Friday, Dec. 18, 2026, says Disney. The reported runtime is 2 hours and 45 minutes. Free printable countdown."
 type: explainer
 publishedAt: "2026-11-01T04:55:00-05:00"
+updatedAt: "2026-11-14T01:16:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["avengers doomsday release date", "avengers doomsday tickets", "avengers doomsday runtime", "how many days until avengers doomsday"]
@@ -10,7 +11,7 @@ assets:
   overlay: true
   kicker: "Avengers: Doomsday · Dec. 18, 2026"
   date: "2026-12-18"
-  card: { top: "Opens in theaters", big: "Fri., Dec. 18", bottom: "47 days from Nov. 1, 2026" }
+  card: { top: "Opens in theaters", big: "Fri., Dec. 18", bottom: "34 days from Nov. 14, 2026" }
   printable:
     slug: avengers-doomsday-countdown-2026
     group: avengers-doomsday-2026
@@ -20,12 +21,12 @@ assets:
     rows:
       - ["Mon., July 20", "Infinity Vision tickets reported on sale (MPA, citing The Hollywood Reporter)"]
       - ["Fri., Sept. 25", "Avengers Endgame: Encore, with a sneak peek (Disney)"]
-      - ["Wed., Nov. 4", "Dunkin' lineup starts (Dunkin')"]
-      - ["Mon., Nov. 9", "Fandango premiere trip sweepstakes ends (Fandango)"]
+      - ["Wed., Nov. 4", "Dunkin' lineup started (Dunkin')"]
+      - ["Mon., Nov. 9", "Fandango premiere trip sweepstakes ended (Fandango)"]
       - ["Fri., Dec. 18", "Avengers: Doomsday opens in theaters (Disney)"]
       - ["Dec. 17, 2027", "Avengers: Secret Wars, as reported by Variety in 2025"]
-    note: "Source: The Walt Disney Company (Sept. 3, 2026); Motion Picture Association (MPA) blog, citing The Hollywood Reporter (July 14, 2026); Dunkin' (Oct. 6, 2026); Fandango; Variety (May 23, 2025)."
-    inkSaver: true
+    note: "Source: The Walt Disney Company (Sept. 3, 2026); Motion Picture Association (MPA) blog, citing The Hollywood Reporter (July 14, 2026); Dunkin' (Oct. 6, 2026); Fandango (checked Nov. 14, 2026); Variety (May 23, 2025)."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page countdown to Avengers: Doomsday on Dec. 18, 2026, with six dated rows from the July ticket report to the reported Dec. 17, 2027 Secret Wars date, each with a tick box."
     alt: "Printable Avengers: Doomsday countdown with six dated rows from July 20 to Dec. 18, 2026 and the reported Dec. 17, 2027 Secret Wars date, each with a tick box"
 downloads:
@@ -36,14 +37,6 @@ downloads:
     alt: "Printable Avengers: Doomsday countdown with six dated rows from July 20 to Dec. 18, 2026 and the reported Dec. 17, 2027 Secret Wars date, each with a tick box"
     pdf: "/news/downloads/avengers-doomsday-2026/avengers-doomsday-countdown-2026.pdf"
     png: "/news/downloads/avengers-doomsday-2026/avengers-doomsday-countdown-2026.png"
-    pages: 1
-  - group: "Avengers printables"
-    title: "Avengers: Doomsday Countdown, Dec. 18, 2026 (ink saver)"
-    description: "One-page countdown to Avengers: Doomsday on Dec. 18, 2026, with six dated rows from the July ticket report to the Dec. 17, 2027 Secret Wars date. Ink-saver version."
-    preview: ../../../../assets/news/avengers-doomsday-2026/avengers-doomsday-countdown-2026-ink.png
-    alt: "Printable Avengers: Doomsday countdown with six dated rows from July 20, 2026 to Dec. 17, 2027, ink-saver version"
-    pdf: "/news/downloads/avengers-doomsday-2026/avengers-doomsday-countdown-2026-ink.pdf"
-    png: "/news/downloads/avengers-doomsday-2026/avengers-doomsday-countdown-2026-ink.png"
     pages: 1
 hero:
   src: ../../../../assets/news/avengers-doomsday-release-date-december-18-countdown-tickets-runtime/avengers-doomsday-release-date-december-18-countdown-tickets-runtime.webp
@@ -59,13 +52,13 @@ hero:
 summary:
   - "The Walt Disney Company says Marvel Studios' Avengers: Doomsday arrives in theaters Dec. 18, 2026, a Friday, and closes out Disney's 2026 films."
   - "A Motion Picture Association (MPA) blog post of July 14, 2026, citing The Hollywood Reporter, put the runtime at two hours and 45 minutes and said it could be tweaked before the final cut."
-  - "From Nov. 1, 2026 the film is 47 days away."
+  - "From Nov. 14, 2026 the film is 34 days away."
   - "UK and international dates, the MPA rating, IMAX, Dolby and 3D formats and standard-showing on-sale dates are not announced on the pages we checked."
 faq:
   - q: "When is the Avengers: Doomsday release date?"
     a: "Disney says Dec. 18, 2026, and Fandango lists Friday, Dec. 18, 2026."
   - q: "How many days until Avengers: Doomsday?"
-    a: "From Nov. 1, 2026 it is 47 days. From Dec. 1 it is 17 days."
+    a: "From Nov. 14, 2026 it is 34 days. From Dec. 1 it is 17 days."
   - q: "How long is Avengers: Doomsday?"
     a: "The Motion Picture Association blog, citing The Hollywood Reporter, reported two hours and 45 minutes in July 2026 and said it could change before the final cut."
   - q: "Are Avengers: Doomsday tickets on sale?"
@@ -90,9 +83,11 @@ sources:
   - title: "Avengers: Doomsday (2026) movie overview"
     url: "https://www.fandango.com/avengers-doomsday-2026-237176/movie-overview"
     publisher: "Fandango"
+    date: "2026-11-14"
   - title: "Avengers: Doomsday"
     url: "https://www.cinemark.com/movies/avengers-doomsday"
     publisher: "Cinemark"
+    date: "2026-11-14"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -116,11 +111,10 @@ We counted from the calendar. Dec. 18, 2026 is a Friday.
 
 | From | Days to Dec. 18, 2026 |
 |---|---|
-| Sun., Nov. 1 | 47 |
-| Wed., Nov. 4 | 44 |
-| Mon., Nov. 9 | 39 |
+| Sat., Nov. 14 | 34 |
 | Tue., Dec. 1 | 17 |
 | Fri., Dec. 11 | 7 |
+| Thu., Dec. 17 | 1 |
 
 To count down on paper, mark the date on a [November 2026 printable calendar](/november-calendars.html) and a [December 2026 printable calendar](/december-calendars.html).
 
@@ -139,13 +133,13 @@ For other showings, the Fandango page says "We'll notify you when tickets go on 
 | Date | What happens | Source |
 |---|---|---|
 | Mon., July 20, 2026 | Infinity Vision tickets reported on sale | MPA blog, citing The Hollywood Reporter |
-| Fri., Sept. 25, 2026 | Avengers Endgame: Encore, with an exclusive look | The Walt Disney Company |
-| Wed., Nov. 4, 2026 | Dunkin' and Marvel Studios lineup starts | Dunkin' |
-| Mon., Nov. 9, 2026 | Fandango sweepstakes for a trip to the Los Angeles world premiere ends | Fandango |
+| Fri., Sept. 25, 2026 | Avengers Endgame: Encore, with an exclusive look (played) | The Walt Disney Company |
+| Wed., Nov. 4, 2026 | Dunkin' and Marvel Studios lineup started | Dunkin' |
+| Mon., Nov. 9, 2026 | Fandango sweepstakes for a trip to the premiere ended | Fandango |
 | Fri., Dec. 18, 2026 | Avengers: Doomsday opens in theaters | The Walt Disney Company |
 | Dec. 17, 2027 | Avengers: Secret Wars, as reported in 2025 | Variety, May 23, 2025 |
 
-Disney said Endgame Encore moviegoers in IMAX and Infinity Vision-certified theaters would "also receive an additional sneak peek." Dunkin' says its limited-time lineup begins Nov. 4 and includes a $14.99 Doctor Doom Munchkins tin; details are in our [Dunkin' holiday menu story](/news/dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu/). Variety reported on May 23, 2025 that Marvel moved Avengers: Secret Wars to Dec. 17, 2027.
+Disney said Endgame Encore moviegoers in IMAX and Infinity Vision-certified theaters would "also receive an additional sneak peek." Dunkin' said its limited-time lineup began Nov. 4 and includes a $14.99 Doctor Doom Munchkins tin; details are in our [Dunkin' holiday menu story](/news/dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu/). Variety reported on May 23, 2025 that Marvel moved Avengers: Secret Wars to Dec. 17, 2027.
 
 ## What has not been announced for Avengers: Doomsday?
 
@@ -156,11 +150,11 @@ Disney said Endgame Encore moviegoers in IMAX and Infinity Vision-certified thea
 | IMAX, Dolby and 3D formats | Not announced |
 | MPA rating | Not announced |
 | Final trailer date | Not announced |
-| Premiere date | Not announced; Fandango's sweepstakes mentions a Los Angeles world premiere |
+| Premiere date | Not announced; Fandango's sweepstakes, which ended Nov. 9, offered a trip to the premiere |
 
 ## Print the Avengers: Doomsday countdown
 
-The printable lists the six dates in the road table with a tick box for each, and an ink-saver version is included. It uses no Marvel or Disney logos or art. For other films this month, see [new movies in theaters in November 2026](/news/new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed/) and [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/).
+The printable lists the six dates in the road table with a tick box for each. It uses no Marvel or Disney logos or art. For other films this month, see [new movies in theaters in November 2026](/news/new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed/) and [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/).
 
 ## Where the Avengers: Doomsday dates come from
 

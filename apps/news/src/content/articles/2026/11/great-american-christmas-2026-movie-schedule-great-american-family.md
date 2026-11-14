@@ -1,8 +1,9 @@
 ---
 title: "Great American Christmas 2026 Schedule: 15 Premieres by Date"
-description: "Great American Christmas 2026 schedule: 15 dated premieres run Oct. 31 to Dec. 19, plus 3 undated movies. Every date and a printable 18-title checklist."
+description: "Great American Christmas 2026 schedule: 15 premieres Oct. 31 to Dec. 19, 12 of them from Nov. 14 on. Every date, plus a printable 18-title checklist."
 type: news
 publishedAt: "2026-11-01T11:30:00-05:00"
+updatedAt: "2026-11-14T01:14:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["great american christmas 2026 schedule", "great american family christmas movies 2026", "great american family christmas movie premieres", "great american christmas 2026 movie list"]
@@ -37,8 +38,8 @@ assets:
       - { when: "No date", what: "A Second Chance Christmas", section: "Undated" }
       - { when: "No date", what: "Silver Bells at Christmas", section: "Undated" }
       - { when: "No date", what: "A Christmas Prayer Tradition", section: "Undated" }
-    note: "Source: Great American Family, Great American Christmas 2026 (checked Nov. 1, 2026); TVLine (Oct. 12, 2026)."
-    inkSaver: true
+    note: "Source: Great American Family, Great American Christmas 2026 (checked Nov. 14, 2026); TVLine (Oct. 12, 2026)."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page checklist of the 15 dated Great American Family Christmas premieres, Oct. 31 to Dec. 19, 2026, plus 3 undated movies, with a tick box for each. Free."
     alt: "Printable Great American Christmas 2026 movie checklist with 15 dated premieres and 3 undated movies, each with a tick box"
 hero:
@@ -52,24 +53,24 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Christmas_at_Eisenhower_National_Historic_Site_(409e35fe-034f-4804-835d-8f633f7cb06e).jpeg"
     author: "NPS Photo"
 summary:
-  - "Great American Family's home page lists 15 dated Great American Christmas 2026 premieres, from Saturday, Oct. 31 to Saturday, Dec. 19."
-  - "Three more Christmas movies on the page have no date, and 15 plus 3 equals the 18 new originals TVLine reported."
-  - "The page shows 8/7c (8 p.m. Eastern Time, 7 p.m. Central) only for the featured premieres; the list itself gives no times."
+  - "Great American Family's home page lists 12 upcoming Great American Christmas 2026 premieres, from Saturday, Nov. 14 to Saturday, Dec. 19; its Nov. 1 list had 15 dated premieres from Oct. 31."
+  - "Six more Christmas movies on the page show no date, and 12 plus 6 equals the 18 new originals TVLine reported."
+  - "The page shows 8/7c (8 p.m. Eastern Time, 7 p.m. Central) only for the four featured premieres; the list itself gives no times."
   - "A free printable checklist has all 18 titles with a tick box for each."
 faq:
   - q: "When does Great American Christmas 2026 end?"
     a: "The last dated premiere on Great American Family's home page is Christmas Wrapped in Love on Saturday, Dec. 19. TVLine also lists it as the last, at 8 p.m."
   - q: "How many Christmas movies are on Great American Family in 2026?"
-    a: "The page dates 15 premieres and shows 3 more Christmas titles without dates. Together that is 18, the number TVLine reported as new originals."
+    a: "The page's Nov. 1 list dated 15 premieres and showed 3 more titles without dates. Together that is 18, the number TVLine reported as new originals."
   - q: "Where can I watch Great American Family Christmas movies?"
     a: "The network's page links to a Channel Finder and promotes a Pure Flix premium membership and an app. It does not say which of them streams the movies."
   - q: "What time do Great American Family Christmas movies start?"
-    a: "The page gives 8/7c, meaning 8 p.m. Eastern Time (ET) and 7 p.m. Central, for the featured premieres only. It lists no times for the other dates."
+    a: "The page gives 8/7c, meaning 8 p.m. Eastern Time (ET) and 7 p.m. Central, for the four featured premieres only. It lists no times for the other dates."
 sources:
   - title: "Great American Family home page (Great American Christmas 2026)"
     url: "https://www.greatamericanfamily.com/"
     publisher: "Great American Family"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "2026 Great American Family Christmas Movies Schedule"
     url: "https://tvline.com/2265350/2026-great-american-family-christmas-movies-schedule-full-cast-photos-list"
     publisher: "TVLine"
@@ -91,21 +92,13 @@ downloads:
     pdf: "/news/downloads/great-american-christmas-2026/great-american-christmas-2026-movie-checklist.pdf"
     png: "/news/downloads/great-american-christmas-2026/great-american-christmas-2026-movie-checklist.png"
     pages: 1
-  - group: "Great American Christmas 2026 Movie Checklist printables"
-    title: "Great American Christmas 2026 Movie Checklist (ink saver)"
-    description: "One-page checklist of the 15 dated Great American Family Christmas premieres, Oct. 31 to Dec. 19, 2026, plus 3 undated movies, with a tick box for each. Free. Ink-saver version."
-    preview: ../../../../assets/news/great-american-christmas-2026/great-american-christmas-2026-movie-checklist-ink.png
-    alt: "Printable Great American Christmas 2026 movie checklist with 15 dated premieres and 3 undated movies, each with a tick box, ink-saver version"
-    pdf: "/news/downloads/great-american-christmas-2026/great-american-christmas-2026-movie-checklist-ink.pdf"
-    png: "/news/downloads/great-american-christmas-2026/great-american-christmas-2026-movie-checklist-ink.png"
-    pages: 1
 ---
 
-**Great American Family lists 15 dated premieres for its Great American Christmas 2026 event, running from Saturday, Oct. 31 to Saturday, Dec. 19, according to the network's own home page, checked Nov. 1, 2026.** Three more Christmas movies appear on the page without a date. This story has the full table, explains the count, and links a printable checklist.
+**Great American Family's Great American Christmas 2026 event has 15 dated premieres, from Saturday, Oct. 31 to Saturday, Dec. 19, and 12 of them are still ahead from Saturday, Nov. 14, according to the network's own home page, checked Nov. 14, 2026.** The page now shows the three October and early November premieres without dates, next to three Christmas movies it never dated. This story has the full table, explains the count, and links a printable checklist.
 
 ## Great American Family Christmas movie premiere dates for 2026
 
-The network's page names the event "Great American Christmas 2026". The table follows its list, with weekdays computed from the dates.
+The network's page names the event "Great American Christmas 2026". The table follows its list as of Nov. 1 and Nov. 14, with weekdays computed from the dates.
 
 | Date | Day | Title |
 |---|---|---|
@@ -125,22 +118,23 @@ The network's page names the event "Great American Christmas 2026". The table fo
 | Dec. 13 | Sunday | A Very Evergreen Christmas |
 | Dec. 19 | Saturday | Christmas Wrapped in Love |
 
-The page says A Very Arctic Christmas "Premieres Saturday, October 31". Because the first date has already passed, the next dated premiere is The Christmas Ring on Saturday, Nov. 7. Only one date falls on a Friday: A Sweet Christmas Anniversary on Nov. 27, the day after Thanksgiving. For that week, see our [Thanksgiving date page](/when-is/thanksgiving/).
+The page said on Nov. 1 that A Very Arctic Christmas "Premieres Saturday, October 31". That premiere, The Christmas Ring on Nov. 7 and An Ozark Mountain Christmas on Nov. 8 have passed, and the page now lists the three without dates. The Christmas Yes List premieres Saturday, Nov. 14, and Christmas at Moose Lake follows on Sunday, Nov. 15. Only one date falls on a Friday: A Sweet Christmas Anniversary on Nov. 27, the day after Thanksgiving. For that week, see our [Thanksgiving date page](/when-is/thanksgiving/).
 
 ## What time do the premieres start?
 
-The list itself shows no times. The page adds "8/7c", which is 8 p.m. Eastern Time (ET) and 7 p.m. Central, only on the featured premieres: A Very Arctic Christmas, The Christmas Ring, An Ozark Mountain Christmas, The Christmas Yes List and A Sweet Christmas Anniversary. We do not assign a time to the other ten, and the network has not shown one for them on that page.
+The list itself shows no times. The page adds "8/7c", which is 8 p.m. Eastern Time (ET) and 7 p.m. Central, only on the four premieres it features now: The Christmas Yes List (Nov. 14), Christmas at Moose Lake (Nov. 15), Three Generations, One Christmas (Nov. 21) and A Sweet Christmas Anniversary (Nov. 27). On Nov. 1 it showed 8/7c on A Very Arctic Christmas, The Christmas Ring and An Ozark Mountain Christmas instead. We do not assign a time to the other premieres, and the network has not shown one for them on that page.
 
 ## Why are there 15 dated movies and 18 in the reports?
 
-TVLine, in a schedule story updated Oct. 12, 2026, said the network is "bringing 18 new originals to the table this holiday season". The network's page dates 15 and also shows three Christmas titles with no date: A Second Chance Christmas, Silver Bells at Christmas and A Christmas Prayer Tradition. Fifteen plus three is 18, which matches TVLine's number.
+TVLine, in a schedule story updated Oct. 12, 2026, said the network is "bringing 18 new originals to the table this holiday season". The network's page dated 15 on Nov. 1 and also showed three Christmas titles with no date: A Second Chance Christmas, Silver Bells at Christmas and A Christmas Prayer Tradition. Fifteen plus three is 18, which matches TVLine's number.
 
 | Source | What it says |
 |---|---|
-| Great American Family page | 15 dated premieres; 3 Christmas titles with no date |
-| TVLine (Oct. 12, 2026) | 18 new originals; A Second Chance Christmas on Saturday, Oct. 10 at 8 p.m.; Christmas Wrapped in Love last, Saturday, Dec. 19 at 8 p.m. |
+| Great American Family page (Nov. 1) | 15 dated premieres; 3 Christmas titles with no date |
+| Great American Family page (Nov. 14) | 12 dated premieres from Nov. 14 to Dec. 19; 6 titles with no date, including the 3 that premiered Oct. 31, Nov. 7 and Nov. 8 |
+| TVLine (Oct. 12, 2026) | 18 new originals; A Second Chance Christmas on Saturday, Oct. 10, Silver Bells at Christmas on Saturday, Oct. 17 and A Christmas Prayer Tradition on Saturday, Oct. 24, all at 8 p.m.; Christmas Wrapped in Love last, Saturday, Dec. 19 at 8 p.m. |
 
-The two sources differ on one title. TVLine lists A Second Chance Christmas for Saturday, Oct. 10, and the network's page gives it no date. Both agree that Christmas Wrapped in Love closes the dated list on Dec. 19.
+The two sources differ on three titles. TVLine lists A Second Chance Christmas, Silver Bells at Christmas and A Christmas Prayer Tradition for Saturdays in October, and the network's page gives them no date. Both agree that Christmas Wrapped in Love closes the dated list on Dec. 19.
 
 ## How do you watch Great American Family Christmas movies?
 

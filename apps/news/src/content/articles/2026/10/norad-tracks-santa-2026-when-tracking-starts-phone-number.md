@@ -3,7 +3,7 @@ title: "NORAD Santa Tracker 2026: Not Yet Set, 2025 Hours by Zone"
 description: "North American Aerospace Defense Command (NORAD) has not yet announced 2026 Santa hours. In 2025 calls ran 4 a.m. to midnight Mountain Standard Time."
 type: explainer
 publishedAt: "2026-10-28T18:00:00-04:00"
-updatedAt: "2026-10-30T15:27:00-04:00"
+updatedAt: "2026-11-14T01:15:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["NORAD Santa tracker 2026", "NORAD tracks Santa", "NORAD Santa phone number", "when does NORAD start tracking Santa", "NORAD tracks Santa hours"]
@@ -52,6 +52,7 @@ sources:
   - title: "NORAD Tracks Santa"
     url: "https://www.dvidshub.net/feature/noradtrackssanta"
     publisher: "Defense Visual Information Distribution Service (DVIDS), NORAD"
+    date: "2026-11-14"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -67,6 +68,7 @@ assets:
   overlay: true
   card: { top: "Phone operators answered from", big: "4 a.m. MST", bottom: "Dec. 24, 2025 hours; 2026 not yet announced" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: norad-tracks-santa-timeline-2026
     group: norad-tracks-santa-2026
     title: "NORAD Tracks Santa Timeline, December 2026"
@@ -111,10 +113,10 @@ NORAD's 2025 release listed two start points. They are laid out here against the
 | 2026 date | What NORAD did in 2025 | 2026 status |
 |---|---|---|
 | Tuesday, Dec. 1 | The website, www.noradsanta.org, "will launch on Dec. 1" with Santa's North Pole Village: a holiday countdown, games, a movie theater, holiday music and a web store | Not yet announced |
-| Thursday, Dec. 24 | Phone operators answered from 4 a.m. to midnight MST | Not yet announced |
+| Thursday, Dec. 24 | Phone operators answered from 4 a.m. to midnight MST; NORAD's program page also says live tracking on the website and app begins at 2:00 a.m. MST | Not yet announced |
 | Friday, Dec. 25 | Trackers could follow Santa until 3 a.m. on Dec. 25 through the phone system or the website | Not yet announced |
 
-The 3 a.m. end of tracking is shown as NORAD stated it, without a time zone conversion.
+The 3 a.m. end of tracking is shown as NORAD said it, without a time zone conversion. NORAD's program page on DVIDS, read on Nov. 14, 2026, still carries the 2025 wording: the countdown starts Dec. 1, live tracking begins at 2:00 a.m. MST on Dec. 24 (4 a.m. Eastern Standard Time), and the phone line opens at 4:00 a.m. MST. It names no 2026 hours.
 
 ## What time does NORAD start tracking Santa in my time zone?
 

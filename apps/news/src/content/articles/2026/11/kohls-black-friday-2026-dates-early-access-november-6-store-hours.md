@@ -9,42 +9,32 @@ category: retail-dates
 keywords: ["kohl's black friday 2026", "kohl's black friday early access 2026", "kohl's black friday hours 2026", "is kohl's open on thanksgiving 2026"]
 assets:
   overlay: true
-  kicker: "Kohl's · Early Access Fri., Nov. 6"
-  date: "2026-11-06"
-  card: { top: "Black Friday Early Access", big: "Nov. 6 to 8", bottom: "Stores closed Thanksgiving Day" }
+  kicker: "Kohl's · Black Friday Week Nov. 22-28"
+  date: "2026-11-22"
+  card: { top: "Black Friday Week", big: "Nov. 22 to 28", bottom: "Stores closed Thanksgiving Day" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: kohls-black-friday-2026-dates-printable
     group: black-friday-2026
     title: "Kohl's Black Friday 2026 Dates, November"
-    subtitle: "Early Access, Black Friday Week, store hours and Cyber Deals"
+    subtitle: "Black Friday Week, store hours and Cyber Deals"
     rows:
-      - ["Fri., Nov. 6", "Early Access starts; $15 Kohl's Cash per $50 (Nov. 6 only)"]
-      - ["Sat., Nov. 7 to Sun., Nov. 8", "$10 Kohl's Cash per $50"]
-      - ["Sun., Nov. 22 to Sat., Nov. 28", "Black Friday Week"]
+      - ["Sun., Nov. 22 to Sat., Nov. 28", "Black Friday Week; $15 Kohl's Cash per $50"]
       - ["Thu., Nov. 26", "Stores closed; online doorbusters from 12:01 a.m. CT"]
       - ["Fri., Nov. 27", "Stores open 5 a.m.; first 200 get $5-$100 Kohl's Cash"]
       - ["Sat., Nov. 28", "First 200 get Sephora at Kohl's gift"]
-      - ["Sun., Nov. 29 to Mon., Nov. 30", "Cyber Deals"]
+      - ["Sun., Nov. 29 to Mon., Nov. 30", "Cyber Deals; $15 Kohl's Cash per $50"]
     note: "Source: Kohl's release via Business Wire, Oct. 30, 2026. Store hours may vary by location."
-    inkSaver: true
-    description: "One-page Kohl's Black Friday 2026 calendar: Early Access Nov. 6-8, Black Friday Week Nov. 22-28, Thanksgiving closure, 5 a.m. opening and Cyber Deals Nov. 29-30."
-    alt: "Printable November 2026 calendar marking Kohl's Early Access, Black Friday Week, store opening and Cyber Deals dates"
+    description: "One-page Kohl's Black Friday 2026 calendar: Black Friday Week Nov. 22-28, Thanksgiving closure, 5 a.m. opening and Cyber Deals Nov. 29-30."
+    alt: "Printable November 2026 calendar marking Kohl's Black Friday Week, store opening and Cyber Deals dates"
 downloads:
   - group: "Kohl's Black Friday 2026 Dates printables"
     title: "Kohl's Black Friday 2026 Dates, November"
-    description: "One-page Kohl's Black Friday 2026 calendar: Early Access Nov. 6-8, Black Friday Week Nov. 22-28, Thanksgiving closure, 5 a.m. opening and Cyber Deals Nov. 29-30."
+    description: "One-page Kohl's Black Friday 2026 calendar: Black Friday Week Nov. 22-28, Thanksgiving closure, 5 a.m. opening and Cyber Deals Nov. 29-30."
     preview: ../../../../assets/news/black-friday-2026/kohls-black-friday-2026-dates-printable.png
-    alt: "Printable November 2026 calendar marking Kohl's Early Access, Black Friday Week, store opening and Cyber Deals dates"
+    alt: "Printable November 2026 calendar marking Kohl's Black Friday Week, store opening and Cyber Deals dates"
     pdf: "/news/downloads/black-friday-2026/kohls-black-friday-2026-dates-printable.pdf"
     png: "/news/downloads/black-friday-2026/kohls-black-friday-2026-dates-printable.png"
-    pages: 1
-  - group: "Kohl's Black Friday 2026 Dates printables"
-    title: "Kohl's Black Friday 2026 Dates, November (ink saver)"
-    description: "One-page Kohl's Black Friday 2026 calendar: Early Access Nov. 6-8, Black Friday Week Nov. 22-28, Thanksgiving closure, 5 a.m. opening and Cyber Deals Nov. 29-30. Ink-saver version."
-    preview: ../../../../assets/news/black-friday-2026/kohls-black-friday-2026-dates-printable-ink.png
-    alt: "Printable November 2026 calendar marking Kohl's Early Access, Black Friday Week, store opening and Cyber Deals dates, ink-saver version"
-    pdf: "/news/downloads/black-friday-2026/kohls-black-friday-2026-dates-printable-ink.pdf"
-    png: "/news/downloads/black-friday-2026/kohls-black-friday-2026-dates-printable-ink.png"
     pages: 1
 hero:
   src: ../../../../assets/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/kohls-black-friday-2026-dates-early-access-november-6-store-hours.webp

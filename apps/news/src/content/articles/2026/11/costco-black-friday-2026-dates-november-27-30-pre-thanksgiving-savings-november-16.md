@@ -18,12 +18,12 @@ assets:
     group: black-friday-2026
     title: "Costco Black Friday 2026 Deal Calendar"
     subtitle: "Costco holiday savings windows, Oct. 30 to Nov. 30, 2026"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Mon., Nov. 16 to Mon., Nov. 30", "Pre-Thanksgiving savings, warehouses and Costco.com"]
       - ["Thu., Nov. 26", "Thanksgiving: warehouses closed, deals on Costco.com"]
       - ["Fri., Nov. 27 to Mon., Nov. 30", "Black Friday holiday savings"]
-    note: "Source: Costco Wholesale holiday savings pages (Black Friday, Pre-Thanksgiving, Thanksgiving Day), checked Nov. 1, 2026. Wider holiday savings run Oct. 30 to Nov. 30; dates vary by item."
-    inkSaver: true
+    note: "Source: Costco Wholesale holiday savings pages (Black Friday, Pre-Thanksgiving, Thanksgiving Day), checked Nov. 13, 2026. Wider holiday savings run Oct. 30 to Nov. 30; dates vary by item."
     description: "One-page Costco Black Friday 2026 deal calendar: holiday savings Oct. 30 to Nov. 30, pre-Thanksgiving Nov. 16 to 30, Thanksgiving closure and Black Friday savings Nov. 27 to 30."
     alt: "Printable November 2026 calendar marking Costco's holiday savings windows, the Thanksgiving closure and Black Friday savings"
 hero:
@@ -61,14 +61,6 @@ downloads:
     alt: "Printable November 2026 calendar marking Costco's holiday savings windows, the Thanksgiving closure and Black Friday savings"
     pdf: "/news/downloads/black-friday-2026/costco-black-friday-2026-deal-calendar.pdf"
     png: "/news/downloads/black-friday-2026/costco-black-friday-2026-deal-calendar.png"
-    pages: 1
-  - group: "Costco Black Friday 2026 Deal Calendar printables"
-    title: "Costco Black Friday 2026 Deal Calendar (ink saver)"
-    description: "Ink-saver Costco Black Friday 2026 deal calendar: holiday savings Oct. 30 to Nov. 30, pre-Thanksgiving Nov. 16 to 30, Thanksgiving closure, Black Friday Nov. 27 to 30."
-    preview: ../../../../assets/news/black-friday-2026/costco-black-friday-2026-deal-calendar-ink.png
-    alt: "Printable November 2026 calendar marking Costco's holiday savings windows, the Thanksgiving closure and Black Friday savings, ink-saver version"
-    pdf: "/news/downloads/black-friday-2026/costco-black-friday-2026-deal-calendar-ink.pdf"
-    png: "/news/downloads/black-friday-2026/costco-black-friday-2026-deal-calendar-ink.png"
     pages: 1
 sources:
   - title: "Black Friday: Holiday Savings Valid Nov. 27 - Nov. 30"

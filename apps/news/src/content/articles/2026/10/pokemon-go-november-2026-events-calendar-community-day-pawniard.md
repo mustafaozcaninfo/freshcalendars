@@ -265,7 +265,7 @@ The official save-the-date puts Kaohsiung, Taiwan and Los Angeles from Friday, F
 
 ## Print the Pokémon GO events calendar for November 2026
 
-The printable lists the dated rows above from Oct. 30 to Dec. 3, plus the 2027 GO Tour dates, with a tick box beside each. It leaves out the December dates, which the section above lists. Pair it with a [November 2026 printable calendar](/november-calendars.html) for your own plans, and flip to the [December 2026 printable calendar](/december-calendars.html) once the season ends on Dec. 1. If you also track console game dates, see our [PlayStation Plus November 2026 games](/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/) story and the [Grand Theft Auto (GTA) 6 countdown](/news/gta-6-countdown-release-time-by-time-zone/).
+The printable lists the dated rows above from Nov. 14 to Dec. 3, including the Dec. 1 and Dec. 3 season dates, plus the 2027 GO Tour dates, with a tick box beside each. It leaves out the events that ended before Nov. 14. Pair it with a [November 2026 printable calendar](/november-calendars.html) for your own plans, and flip to the [December 2026 printable calendar](/december-calendars.html) once the season ends on Dec. 1. If you also track console game dates, see our [PlayStation Plus November 2026 games](/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/) story and the [Grand Theft Auto (GTA) 6 countdown](/news/gta-6-countdown-release-time-by-time-zone/).
 
 ## How we keep this accurate
 

@@ -81,17 +81,18 @@ assets:
     subtitle: "York Barbican sessions in GMT, ET, CT and PT, with room for your picks"
     columns: ["Day", "Sessions (13:00 and 19:00 in York)"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Sat., Nov. 28", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
-      - ["Sun., Nov. 29", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
-      - ["Mon., Nov. 30", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
-      - ["Tue., Dec. 1", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
+      - ["Sat., Nov. 28", "Round 1 · 1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
+      - ["Sun., Nov. 29", "Round 1 · 1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
+      - ["Mon., Nov. 30", "Round 1 · 1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
+      - ["Tue., Dec. 1", "Round 1 · 1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
       - ["Wed., Dec. 2", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
       - ["Thu., Dec. 3", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
       - ["Fri., Dec. 4", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
       - ["Sat., Dec. 5", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
       - ["Sun., Dec. 6", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
-    note: "Source: York Barbican event page. York is on GMT; ET is 5 hours behind, CT 6 and PT 8. The round played each day is not yet announced."
+    note: "Source: York Barbican event page. York is on GMT; ET is 5 hours behind, CT 6 and PT 8. Round 1 is listed for Nov. 28 to Dec. 1 (checked Nov. 13, 2026); the rounds after that are not yet announced."
     description: "A one-page UK Snooker Championship 2026 session sheet for Nov. 28 to Dec. 6 with GMT, ET, CT and PT times and a line for your picks each day."
     alt: "UK Snooker Championship 2026 session sheet with two sessions a day in four time zones and a picks line"
 draft: false
@@ -174,4 +175,4 @@ For other sport on UK time, see the [Professional Darts Corporation (PDC) World 
 
 ## Free UK Championship 2026 session sheet
 
-The printable lists each day from Sat., Nov. 28 to Sun., Dec. 6 with both sessions in GMT, ET, CT and PT and a line for your picks. Its source note names York Barbican.
+The printable lists each day from Sat., Nov. 28 to Sun., Dec. 6, marks Round 1 on the first four, and gives both sessions in GMT, ET, CT and PT and a line for your picks. Its source note names York Barbican.

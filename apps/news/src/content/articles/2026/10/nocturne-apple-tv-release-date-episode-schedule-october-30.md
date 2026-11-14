@@ -10,29 +10,26 @@ keywords: ["Nocturne release date", "Nocturne episode schedule", "Nocturne Apple
 dateline: "New York"
 assets:
   overlay: true
-  kicker: "Nocturne · Apple TV · Fri., Oct. 30"
-  date: "2026-10-30"
-  card: { top: "Nocturne premieres", big: "Fri., Oct. 30", bottom: "2 episodes, then weekly to Dec. 25" }
+  kicker: "Nocturne · Apple TV · Next: Nov. 20"
+  date: "2026-11-20"
+  card: { top: "Nocturne episode 5 is next", big: "Fri., Nov. 20", bottom: "Weekly to the Dec. 25 finale" }
   printable:
     slug: nocturne-episode-schedule-2026
     group: tv-2026
     title: "Nocturne Episode Schedule 2026"
-    subtitle: "Apple TV: 2 episodes Oct. 30, then one every Friday to Dec. 25"
+    subtitle: "Apple TV: episodes 5 to 10, one every Friday from Nov. 20 to Dec. 25"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Fri., Oct. 30", "Episodes 1 and 2 (premiere)"]
-      - ["Fri., Nov. 6", "Episode 3"]
-      - ["Fri., Nov. 13", "Episode 4"]
       - ["Fri., Nov. 20", "Episode 5"]
       - ["Fri., Nov. 27", "Episode 6"]
       - ["Fri., Dec. 4", "Episode 7"]
       - ["Fri., Dec. 11", "Episode 8"]
       - ["Fri., Dec. 18", "Episode 9"]
       - ["Fri., Dec. 25", "Episode 10 (finale)"]
-    note: "Source: Apple TV Press, Jul. 7 and Sept. 29, 2026. Episode dates 3-10 are our count from Apple's weekly schedule."
-    inkSaver: true
-    description: "One-page Nocturne episode schedule for Apple TV with all 10 episodes by Friday date and a watch tracker. Free printable."
-    alt: "Nocturne episode schedule printable listing 10 Apple TV episodes from Oct. 30 to Dec. 25, 2026"
+    note: "Source: Apple TV Press, Jul. 7 and Sept. 29, 2026. Episode dates 5-10 are our count from Apple's weekly schedule."
+    description: "One-page Nocturne episode schedule for Apple TV with episodes 5 to 10 by Friday date and a watch tracker. Free printable."
+    alt: "Nocturne episode schedule printable listing Apple TV episodes 5 to 10 from Nov. 20 to Dec. 25, 2026"
 hero:
   src: ../../../../assets/news/nocturne-apple-tv-release-date-episode-schedule-october-30/nocturne-apple-tv-release-date-episode-schedule-october-30.webp
   alt: "Stephen Graham, who stars in Nocturne, the Apple TV crime drama with a release date of Oct. 30, 2026"
@@ -77,19 +74,11 @@ related: [new-on-apple-tv-november-2026-release-dates, from-season-5-release-dat
 downloads:
   - group: "Nocturne Episode Schedule 2026 printables"
     title: "Nocturne Episode Schedule 2026"
-    description: "One-page Nocturne episode schedule for Apple TV with all 10 episodes by Friday date and a watch tracker. Free printable."
+    description: "One-page Nocturne episode schedule for Apple TV with episodes 5 to 10 by Friday date and a watch tracker. Free printable."
     preview: ../../../../assets/news/tv-2026/nocturne-episode-schedule-2026.png
-    alt: "Nocturne episode schedule printable listing 10 Apple TV episodes from Oct. 30 to Dec. 25, 2026"
+    alt: "Nocturne episode schedule printable listing Apple TV episodes 5 to 10 from Nov. 20 to Dec. 25, 2026"
     pdf: "/news/downloads/tv-2026/nocturne-episode-schedule-2026.pdf"
     png: "/news/downloads/tv-2026/nocturne-episode-schedule-2026.png"
-    pages: 1
-  - group: "Nocturne Episode Schedule 2026 printables"
-    title: "Nocturne Episode Schedule 2026 (ink saver)"
-    description: "One-page Nocturne episode schedule for Apple TV with all 10 episodes by Friday date and a watch tracker. Free printable. Ink-saver version."
-    preview: ../../../../assets/news/tv-2026/nocturne-episode-schedule-2026-ink.png
-    alt: "Nocturne episode schedule printable listing 10 Apple TV episodes from Oct. 30 to Dec. 25, 2026, ink-saver version"
-    pdf: "/news/downloads/tv-2026/nocturne-episode-schedule-2026-ink.pdf"
-    png: "/news/downloads/tv-2026/nocturne-episode-schedule-2026-ink.png"
     pages: 1
 draft: false
 ---

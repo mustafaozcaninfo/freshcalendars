@@ -1,6 +1,6 @@
 ---
 title: "IHSAA Football Tournament 2026: Regionals Nov. 13, Finals Nov. 27-28"
-description: "Indiana High School Athletic Association (IHSAA) regionals were Nov. 13; semi-states are Nov. 20, state finals Nov. 27-28 at Lucas Oil Stadium. Finals $20 a day."
+description: "Indiana High School Athletic Association (IHSAA) regionals were Nov. 13; semi-states are Nov. 20, state finals Nov. 27-28 at Lucas Oil Stadium."
 type: news
 publishedAt: "2026-10-30T19:42:00-04:00"
 updatedAt: "2026-11-14T01:14:00-05:00"

@@ -29,6 +29,7 @@ assets:
     subtitle: "Common years of 365 days that start on Friday, Jan. 1 (1927 to 2126)"
     columns: ["Year", "How far from 2027"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["1937", "90 years earlier"]
       - ["1943", "84 years earlier"]

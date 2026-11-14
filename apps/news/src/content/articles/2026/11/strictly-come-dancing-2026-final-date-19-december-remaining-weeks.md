@@ -95,20 +95,20 @@ assets:
     group: strictly-final-2026
     title: "Strictly Come Dancing 2026: Remaining Live Shows"
     subtitle: "Every live Saturday left, from 14 November to the 19 December final"
-    note: "Source: Donaheys audience tickets; Live Blackpool; TV Zone UK; BBC Media Centre (Musicals Week). Start times not listed here; check the BBC for Week 8."
+    note: "Source: Donaheys audience tickets; Live Blackpool; TV Zone UK; BBC Media Centre (Musicals Week). Week 8 starts at 6.25pm on BBC One; later start times are not announced."
     description: "A one-page list of the Strictly Come Dancing 2026 live shows still to air, from Week 8 on 14 November to the Grand Final on 19 December."
     alt: "Printable list of the Strictly Come Dancing 2026 remaining live Saturdays, from 14 November to the 19 December final."
     data:
       pick: "My pick to win"
       events:
-        - { date: "2026-11-14", time: TBA, title: "Week 8 live show", src: 2, quote: "7th, 14th & 28th November, 5th, 12th & 19th December 2026 [Nov. 14]" }
+        - { date: "2026-11-14", time: "6.25pm", title: "Week 8 live show", src: 2, quote: "7th, 14th & 28th November, 5th, 12th & 19th December 2026 [Nov. 14]" }
         - { date: "2026-11-21", time: TBA, title: "Blackpool Week (Week 9)", src: 3, quote: "on Saturday 21 November 2026" }
         - { date: "2026-11-28", time: TBA, title: "Week 10 live show", src: 2, quote: "7th, 14th & 28th November, 5th, 12th & 19th December 2026 [Nov. 28]" }
         - { date: "2026-12-05", time: TBA, title: "Musicals Week (Week 11)", src: 10, quote: "Musicals Week - 5 December" }
         - { date: "2026-12-12", time: TBA, title: "Week 12 live show", src: 2, quote: "7th, 14th & 28th November, 5th, 12th & 19th December 2026 [Dec. 12]" }
         - { date: "2026-12-19", time: TBA, title: "Grand Final (Week 13)", src: 1, quote: "conclude with its live final on Saturday 19th December" }
       unconfirmed:
-        - { label: "Start times", why: "not listed on this sheet; the BBC gives 6.25pm for Week 8 only and later shows are not announced as of 13 November 2026" }
+        - { label: "Later start times", why: "the BBC gives 6.25pm for Week 8 only; later shows are not announced as of 13 November 2026" }
         - { label: "Other theme weeks", why: "the BBC lists Musicals Week (5 December) and no other theme week for the remaining shows as of 13 November 2026" }
 ---
 
