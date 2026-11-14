@@ -3,7 +3,7 @@ title: "FAA Ground Stop Today: All U.S. Airports Held at 3:54 p.m. ET"
 description: "The Federal Aviation Administration (FAA) ground-stopped all U.S. airports at 3:54 p.m. ET Nov. 13, 2026. See the order's times by zone and the FAA map."
 type: news
 publishedAt: "2026-11-13T16:32:00-05:00"
-updatedAt: "2026-11-13T19:01:00-05:00"
+updatedAt: "2026-11-13T19:12:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["faa ground stop today", "nationwide ground stop", "faa ground stop map", "faa flight delays today", "when will flights resume"]
@@ -31,7 +31,7 @@ summary:
   - "Inbound international flights are managed case by case, the advisory says. A ground stop holds flights at the departure airport; it does not cancel them."
 faq:
   - q: "Is the FAA ground stop still in effect?"
-    a: "As of 7:01 p.m. ET on Nov. 13, 2026, no official had announced that National Ground Stop advisory 111 was lifted. In a statement shortly after 6 p.m. carried by ABC News, the FAA said the ground stop remained in effect and that flights would be allowed to depart as en route facilities recovered, coordinated through its command center. The advisory database returned no advisories for the day when we checked, which the database has done at times and is not a cancellation. The order runs until further notice, so look for a later advisory with a cancellation in its title."
+    a: "As of 7:12 p.m. ET on Nov. 13, 2026, no official had announced that National Ground Stop advisory 111 was lifted. In a statement shortly after 6 p.m. carried by ABC News, the FAA said the ground stop remained in effect and that flights would be allowed to depart as en route facilities recovered, coordinated through its command center. The advisory database returned no advisories for the day when we checked, which the database has done at times and is not a cancellation. The order runs until further notice, so look for a later advisory with a cancellation in its title."
   - q: "Where is the FAA ground stop map?"
     a: "The FAA's National Airspace System Status page at nasstatus.faa.gov has a map view, a list view and a tile view of airports with ground stops, ground delays, departure delays and closures."
   - q: "Does a ground stop mean my flight is canceled?"
@@ -94,6 +94,7 @@ The advisory is four sentences long. The times on it are in Coordinated Universa
 
 Newest first. Times are ET and each entry says where it comes from.
 
+- **7:12 p.m.** The last equipment-tied delay cleared from the FAA status page. Houston George Bush Intercontinental Airport (IAH), which an hour earlier had a departure delay of about 165 minutes tied to a ground stop and equipment, no longer appeared, and the page listed no nationwide program. Only routine ground delays for wind or volume remained, at Boston, LaGuardia, San Diego and San Francisco. No FAA advisory or statement had lifted the national order; an NBC News post at 7:01 p.m. said the FAA had given no timeline for restarting flights.
 - **7:01 p.m.** Recovery was under way, but the national order was not formally lifted. In a statement shortly after 6 p.m. carried by ABC News, the FAA said the ground stop remained in effect and that "as enroute facilities recover, flights will be allowed to depart" through coordination with its command center. On the FAA status page the Houston George Bush Intercontinental Airport (IAH) departure delay had eased to 165 minutes and was falling, no nationwide program was listed, and the ground delays at Boston, LaGuardia, San Diego and San Francisco were unchanged. Delta and United had posted travel waivers for Friday and Saturday, ABC News reported.
 - **6:43 p.m.** The national order had still not been lifted. No FAA advisory or statement cancelled it, and the advisory database still returned no advisories for the day. On the FAA status page a departure delay appeared at Houston George Bush Intercontinental Airport (IAH), averaging 165 minutes and rising, which the page's reason field ties to a ground stop and equipment; the ground delays at Boston, LaGuardia, San Diego and San Francisco were unchanged. CBS News, updated at 6:36 p.m., and NBC News still described the stop as in effect.
 - **6:30 p.m.** The FAA status page no longer lists the Chicago O'Hare departure delay or any nationwide program. It shows only routine ground delays for wind or volume at Boston, LaGuardia, San Diego and San Francisco. No FAA advisory or statement had lifted the national order, and the advisory database still returned no advisories for the day.
@@ -229,7 +230,7 @@ To read the advisories themselves:
 
 ## When flights will resume after the ground stop
 
-The FAA had not announced a full restart time as of 7:01 p.m. ET on Nov. 13, and no official had said the national order was lifted. In a statement shortly after 6 p.m., carried by ABC News, the FAA said the ground stop remained in effect and that "as enroute facilities recover, flights will be allowed to depart" through coordination with its command center, a gradual resumption rather than a single all-clear. By about 7 p.m. the FAA status page listed no nationwide program, and the departure delay at Houston George Bush Intercontinental Airport (IAH) had eased to about 165 minutes and was falling. The advisory database still returned no advisories for the day, which is not a cancellation.
+The FAA had not announced a full restart time as of 7:12 p.m. ET on Nov. 13, and no official had said the national order was lifted. In a statement shortly after 6 p.m., carried by ABC News, the FAA said the ground stop remained in effect and that "as enroute facilities recover, flights will be allowed to depart" through coordination with its command center, a gradual resumption rather than a single all-clear. An NBC News post at 7:01 p.m. said the FAA had given no timeline for restarting flights. By about 7:12 p.m. the FAA status page listed no nationwide program and no longer showed the Houston George Bush Intercontinental Airport (IAH) departure delay that had run to about 165 minutes earlier; only routine ground delays for wind or volume remained. The advisory database still returned no advisories for the day, which is not a cancellation.
 
 A restart is gradual. After a ground stop ends, aircraft and crews are out of position, and airports release held flights in order. Friday evening departures and Saturday morning flights on Nov. 14 can run late even after the order is lifted. The FAA has not published delay or cancellation counts for this event, and none are given here.
 
