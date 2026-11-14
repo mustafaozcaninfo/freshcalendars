@@ -1,9 +1,9 @@
 ---
-title: "AP Exam Registration Deadline 2027: Nov. 13, Exams May 3-14"
-description: "The Advanced Placement (AP) exam registration deadline for 2027 is Nov. 13, 2026, says College Board. Day-by-day exam grid for May 3-7 and May 10-14."
+title: "AP Exam Schedule 2027: May 3-14, $40 Late Order Fee From Nov. 14"
+description: "The Advanced Placement (AP) exam order deadline passed Nov. 13, 2026, says College Board. A $40 late fee applies to Mar. 12; exams run May 3-14."
 type: explainer
 publishedAt: "2026-10-25T12:30:00-04:00"
-updatedAt: "2026-11-03T11:23:00-05:00"
+updatedAt: "2026-11-14T17:02:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["AP exam schedule 2027", "AP exam dates 2027", "AP exam registration deadline", "when are AP exams 2027"]
@@ -11,7 +11,7 @@ dateline: "New York"
 hero:
   src: ../../../../assets/news/ap-exam-schedule-2027-dates-times-registration-deadline/ap-exam-schedule-2027-dates-times-registration-deadline.webp
   alt: "AP exam schedule 2027 runs May 3 to 14: students writing at desks in rows during an exam"
-  caption: "Students sit an exam. The 2027 Advanced Placement (AP) Exams run May 3 to 7 and May 10 to 14, and orders are due Nov. 13, 2026, College Board says."
+  caption: "Students sit an exam. The 2027 Advanced Placement (AP) Exams run May 3 to 7 and May 10 to 14, and orders were due Nov. 13, 2026, College Board says."
   credit: "Photo: Narek75 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -21,14 +21,14 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Narek75"
 summary:
   - "The 2027 AP Exams run May 3-7 and May 10-14, according to College Board."
-  - "Schools must order exams by Friday, Nov. 13, 2026, for full-year and first-semester courses; a late order fee of $40 per exam starts Nov. 14."
+  - "Schools had to order exams by Friday, Nov. 13, 2026, for full-year and first-semester courses; a late order fee of $40 per exam applies from Nov. 14 to March 12, 2027."
   - "Each exam costs $99 in the U.S. and $129 outside the U.S. Payment is due by June 15, 2027."
   - "Spanish, Chinese, French, German, Italian and Japanese language exams, Spanish Literature and Statistics are fully digital from May 2027."
 faq:
   - q: "When are AP exams in 2027?"
     a: "May 3-7 and May 10-14, 2027, according to College Board. Morning exams start at 8 a.m. and afternoon exams at 12 p.m. local time for most schools."
   - q: "What is the AP exam registration deadline for 2027?"
-    a: "Schools order exams by Nov. 13, 2026, for full-year and first-semester courses and exam-only sections. Courses that start after Nov. 13 can be ordered by March 12, 2027."
+    a: "Schools had to order exams by Nov. 13, 2026, for full-year and first-semester courses and exam-only sections. Courses that start after Nov. 13 can be ordered by March 12, 2027."
   - q: "How much does an AP exam cost in 2027?"
     a: "College Board lists $99 per exam in the U.S. and $129 outside the U.S. Orders placed Nov. 14, 2026 to March 12, 2027 add a $40 per exam late fee, and an unused or canceled exam also carries a $40 per exam fee."
   - q: "When are the AP portfolio deadlines in 2027?"
@@ -41,18 +41,21 @@ sources:
   - title: "2027 AP Exam Dates - AP Students"
     url: "https://apstudents.collegeboard.org/exam-dates"
     publisher: "College Board"
+    date: "2026-11-14"
   - title: "AP Exam Dates"
     url: "https://apcentral.collegeboard.org/exam-administration-ordering-scores/exam-dates"
     publisher: "College Board"
   - title: "AP Exam Fees"
     url: "https://apcentral.collegeboard.org/exam-administration-ordering-scores/ordering-fees/exam-fees"
     publisher: "College Board"
+    date: "2026-11-14"
   - title: "2027 AP Exam Late-Testing Dates - AP Central"
     url: "https://apcentral.collegeboard.org/exam-administration-ordering-scores/exam-dates/late-testing-dates"
     publisher: "College Board"
   - title: "AP Calendar - AP Students"
     url: "https://apstudents.collegeboard.org/calendar"
     publisher: "College Board"
+    date: "2026-11-14"
 internalLinks:
   - href: "/may-calendars.html"
     label: "May 2027 printable calendar"
@@ -63,7 +66,7 @@ assets:
   overlay: true
   kicker: "AP Exams · May 3 to 14, 2027"
   date: "2027-05-03"
-  card: { top: "2027 AP Exam schedule", big: "May 3 to 14", bottom: "Order exams by Nov. 13, 2026" }
+  card: { top: "2027 AP Exam schedule", big: "May 3 to 14", bottom: "$40 late order fee from Nov. 14" }
   printable:
     slug: ap-exam-schedule-2027
     group: ap-exams-2027
@@ -97,7 +100,7 @@ downloads:
 draft: false
 ---
 
-**The 2027 Advanced Placement (AP) Exams run May 3-7 and May 10-14, and schools must order them by Friday, Nov. 13, 2026**, according to College Board. That deadline is 19 days after this story's Oct. 25 publication. Exams start at 8 a.m. and 12 p.m. local time for most schools. Below is the full day-by-day grid, the deadlines that come before it, and the subjects that go fully digital in 2027.
+**The 2027 Advanced Placement (AP) Exams run May 3-7 and May 10-14, and schools had to order them by Friday, Nov. 13, 2026**, according to College Board. Orders placed from Saturday, Nov. 14, through March 12, 2027, carry a $40 per exam late fee. Exams start at 8 a.m. and 12 p.m. local time for most schools. Below is the full day-by-day grid, the deadlines that come before it, and the subjects that go fully digital in 2027.
 
 ## What is the 2027 AP exam schedule?
 
@@ -120,19 +123,19 @@ College Board lists two sessions a day, Session 1 in the morning and Session 2 i
 
 ## What are the AP registration and payment deadlines?
 
-Schools place the orders, and College Board sets the dates. Your school may set an earlier internal deadline, so ask your AP coordinator for it now.
+Schools place the orders, and College Board sets the dates. Your school may have set an earlier internal deadline, so ask your AP coordinator where your order stands.
 
 | Date | What happens | Source |
 |---|---|---|
-| Fri., Nov. 13, 2026 | Orders due for full-year and first-semester courses and exam-only sections | College Board exam fees page |
-| Sat., Nov. 14, 2026 | Late order fee of $40 per exam begins for orders placed through March 12, 2027 | College Board exam fees page |
+| Fri., Nov. 13, 2026 | Orders were due for full-year and first-semester courses and exam-only sections | College Board exam fees page |
+| Sat., Nov. 14, 2026 | Late order fee of $40 per exam applies for orders placed through March 12, 2027 | College Board exam fees page |
 | Fri., March 12, 2027 | Orders due for courses that start after Nov. 13 | College Board exam fees page |
 | Fri., April 30, 2027 | Digital portfolios due 11:59 p.m. ET: Computer Science Principles, Seminar, Research, World Languages and Cultures | College Board exam dates page |
 | Mon., May 3 to Fri., May 14, 2027 | Exam weeks | College Board exam dates page |
 | Fri., May 7, 2027 | Art and Design digital portfolio due 11:59 p.m. ET | College Board exam dates page |
 | Tue., June 15, 2027 | Payment postmark deadline; late payment fee is $225 | College Board exam fees page |
 
-Mark the [November 2026 printable calendar](/november-calendars.html) now, since the first date is the one that costs money if it slips.
+The first date has passed, and the late fee now applies to exams ordered after it. Mark the next dates on the [November 2026 printable calendar](/november-calendars.html).
 
 ## How much does an AP exam cost?
 

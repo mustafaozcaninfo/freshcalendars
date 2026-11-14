@@ -3,7 +3,7 @@ title: "SALT Deduction Cap 2026: $40,400, Phase-Out Above $505,000"
 description: "The 2026 state and local tax (SALT) deduction cap is $40,400, shrinking above $505,000 of income to $10,000. A table shows the cap at six income levels."
 type: explainer
 publishedAt: "2026-11-07T08:38:00-05:00"
-updatedAt: "2026-11-07T08:38:00-05:00"
+updatedAt: "2026-11-14T17:03:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["salt cap 2026", "salt deduction 2026 limit", "salt cap phase out", "state and local tax deduction 2026"]
@@ -36,7 +36,7 @@ faq:
   - q: "Which tax year does a payment count for?"
     a: "IRS Topic 503 says you deduct the tax in the taxable year you pay it."
   - q: "What is the SALT cap for 2027?"
-    a: "The IRS has not yet published the 2027 figures. The law sets 101 percent of the 2026 amounts, which by our calculation is $40,804, with a threshold of $510,050."
+    a: "The IRS's 2027 inflation adjustments (IR-2026-133, Nov. 5, 2026) list no SALT limit. The law sets 101 percent of the 2026 amounts, which by our calculation is $40,804, with a threshold of $510,050."
 sources:
   - title: "Public Law 119-21, Sec. 70120 (enrolled law)"
     url: "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
@@ -48,10 +48,15 @@ sources:
   - title: "Instructions for Schedule A (Form 1040) (2025)"
     url: "https://www.irs.gov/instructions/i1040sca"
     publisher: "Internal Revenue Service"
+    date: "2026-11-14"
   - title: "Topic no. 503, Deductible taxes"
     url: "https://www.irs.gov/taxtopics/tc503"
     publisher: "Internal Revenue Service"
     date: "2026-09-24"
+  - title: "IRS releases tax inflation adjustments for tax year 2027 (IR-2026-133)"
+    url: "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2027-taxpayers-continue-to-benefit-from-the-working-families-tax-cuts"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-05"
   - title: "IRS releases tax inflation adjustments for tax year 2026, including amendments from the One, Big, Beautiful Bill (IR-2025-103)"
     url: "https://www.irs.gov/newsroom/irs-releases-tax-inflation-adjustments-for-tax-year-2026-including-amendments-from-the-one-big-beautiful-bill"
     publisher: "Internal Revenue Service"
@@ -160,7 +165,7 @@ Topic 503 also says, "You deduct the tax in the taxable year you pay them." A pr
 
 ## Do you need to itemize to use it?
 
-Yes. The SALT deduction is claimed on Schedule A (Form 1040), and it only helps when itemized deductions are larger than the standard deduction. The IRS inflation adjustments for 2026 (IR-2025-103, Oct. 9, 2025) set the standard deduction at $16,100 for single filers and married people filing separately, $32,200 for married couples filing jointly and $24,150 for heads of household. The instructions for the 2026 Schedule A are not yet released.
+Yes. The SALT deduction is claimed on Schedule A (Form 1040), and it only helps when itemized deductions are larger than the standard deduction. The IRS inflation adjustments for 2026 (IR-2025-103, Oct. 9, 2025) set the standard deduction at $16,100 for single filers and married people filing separately, $32,200 for married couples filing jointly and $24,150 for heads of household. For 2027 the IRS (IR-2026-133, Nov. 5, 2026) set the standard deduction at $16,600 for single filers and married people filing separately, $33,200 for married couples filing jointly and $24,925 for heads of household. The instructions for the 2026 Schedule A are not yet released.
 
 ## How do the SALT limit and threshold change after 2026?
 
@@ -173,7 +178,7 @@ Public Law 119-21 sets both amounts by year.
 | 2027 to 2029 | 101 percent of the prior year's amount | 101 percent of the prior year's amount | Public Law 119-21 |
 | 2030 and later | $10,000 | Not stated in our sources | Public Law 119-21 |
 
-The 2025 Schedule A instructions say the limit "has increased to $40,000" and apply the reduction above $500,000 ($250,000 if married filing separately), using the line "Multiply line 6 by 30% (0.30)." The IRS has not yet published the 2027 figures. By our calculation from the law, 101 percent of $40,400 is $40,804 and 101 percent of $505,000 is $510,050.
+The 2025 Schedule A instructions say the limit "has increased to $40,000" and apply the reduction above $500,000 ($250,000 if married filing separately), using the line "Multiply line 6 by 30% (0.30)." The IRS's 2027 inflation adjustments (IR-2026-133, Nov. 5, 2026) list no SALT limit. By our calculation from the law, 101 percent of $40,400 is $40,804 and 101 percent of $505,000 is $510,050.
 
 ## SALT cap worksheet to print
 
