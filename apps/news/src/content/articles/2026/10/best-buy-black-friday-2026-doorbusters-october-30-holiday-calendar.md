@@ -24,7 +24,6 @@ assets:
     rows:
       - ["Sun., Nov. 1", "Extended store hours begin; holiday return window opened Oct. 30"]
       - ["Thu., Nov. 19", "10 days of Black Friday doorbusters begin; double rewards start"]
-      - ["Fri., Nov. 20", "New Friday deals (weekly drops)"]
       - ["Thu., Nov. 26", "Thanksgiving: stores closed; deals online and in the app"]
       - ["Fri., Nov. 27", "Black Friday; new Friday deals"]
       - ["Sat., Nov. 28", "Last day of 10 days of Black Friday deals (our count)"]

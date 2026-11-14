@@ -23,7 +23,7 @@ assets:
     alt: "Printable NCAA volleyball tournament 2026 watch guide with the Dec. 17 semifinals and Dec. 20 final in San Antonio"
     data:
       events:
-        - { start: "2026-11-29T18:00-05:00", title: "Selection show: full bracket revealed", detail: "NCAA DI Women's Volleyball Selection Special", channel: "ESPN", airing: live, src: 7, quote: ["The NCAA DI Women's Volleyball Selection Special unveils the full bracket on Sunday, Nov. 29, at 6 p.m. on ESPN."] }
+        - { start: "2026-11-29T18:00-05:00", title: "Selection show: full bracket revealed", channel: "ESPN", airing: live, src: 7, quote: ["The NCAA DI Women's Volleyball Selection Special unveils the full bracket on Sunday, Nov. 29, at 6 p.m. on ESPN."] }
         - { start: "2026-12-17T17:30-06:00", title: "National semifinals", detail: "Alamodome listed event time", channel: "ESPN networks", airing: live, src: 3, quote: ["Dec 17 Time: 5:30PM", "Thursday, Dec. 17"] }
         - { start: "2026-12-20T14:30-06:00", title: "National championship game", detail: "Alamodome listed event time", channel: "ESPN networks", airing: live, src: 3, quote: ["Dec 20 Time: 2:30PM", "the National Championship Game on Sunday, Dec. 20."] }
       unconfirmed:
