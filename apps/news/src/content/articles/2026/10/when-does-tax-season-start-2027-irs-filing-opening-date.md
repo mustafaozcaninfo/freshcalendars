@@ -58,7 +58,7 @@ internalLinks:
     label: "April printable calendars"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [tax-calendar-2027-irs-deadlines, tax-refund-schedule-2027-when-to-expect-your-refund, car-loan-interest-deduction-2026-10000-who-qualifies]
+related: [tax-calendar-2027-irs-deadlines, estimated-tax-payment-january-15-2027-fourth-quarter, tax-refund-schedule-2027-when-to-expect-your-refund]
 downloads:
   - group: "2027 Tax Season Checklist printables"
     title: "2027 Tax Season Checklist"
