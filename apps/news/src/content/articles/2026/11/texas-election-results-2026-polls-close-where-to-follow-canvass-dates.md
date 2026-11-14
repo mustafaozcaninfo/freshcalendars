@@ -3,7 +3,7 @@ title: "Texas Election Results 2026: Polls Closed 7 p.m., Canvass Nov. 17"
 description: "Texas election results 2026: polls closed at 7 p.m. Central Time, 8 p.m. ET. Counties canvass by Nov. 17; the state canvass starts no earlier than Nov. 21."
 type: explainer
 publishedAt: "2026-11-02T13:12:00-05:00"
-updatedAt: "2026-11-14T01:17:00-05:00"
+updatedAt: "2026-11-14T06:57:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["texas election results 2026", "texas election night results", "when do texas polls close", "texas election canvass 2026", "texas late mail ballots"]
@@ -70,6 +70,9 @@ sources:
   - title: "Texas Election Code, Section 67.003 (Local Canvass)"
     url: "https://texas.public.law/statutes/tex._election_code_section_67.003"
     publisher: "Public.Law (copy of the Texas Election Code)"
+  - title: "Texas Election Code, Section 1.006 (Effect of Weekend or Holiday)"
+    url: "https://texas.public.law/statutes/tex._election_code_section_1.006"
+    publisher: "Public.Law (copy of the Texas Election Code)"
   - title: "Texas Election Code, Section 67.012 (State Canvass)"
     url: "https://texas.public.law/statutes/tex._election_code_section_67.012"
     publisher: "Public.Law (copy of the Texas Election Code)"
@@ -104,7 +107,7 @@ assets:
       - ["Mon., Nov. 16", "Provisional ballots counted by this day (13th day)"]
       - ["Tue., Nov. 17", "Latest day for a local canvass in this election (14th day)"]
       - ["Sat., Nov. 21", "Earliest day for the state canvass (18th day)"]
-      - ["Sun., Dec. 6", "Latest day for the state canvass (33rd day)"]
+      - ["Mon., Dec. 7", "Latest day for the state canvass (33rd day is Sun., Dec. 6)"]
       - ["Sat., Dec. 12", "Runoffs for local races decided on Nov. 3"]
     note: "Source: Texas Election Code sections 65.051, 67.003 and 67.012; Texas Secretary of State election calendar; Texas Tribune voter guide. Checked Nov. 14, 2026. Check your county."
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
@@ -163,7 +166,7 @@ A canvass is the official count. Counties do it first, then the state.
 | Earliest local canvass | Fri., Nov. 6 | Not before the third day after Election Day (section 67.003) |
 | Provisional ballots verified and counted | By Mon., Nov. 16 | 13th day, for an election on the general election date (section 65.051) |
 | Latest local canvass | Tue., Nov. 17 | Up to the 14th day for this election (section 67.003) |
-| State canvass | Sat., Nov. 21 to Sun., Dec. 6 | Between the 18th and 33rd day after Election Day (section 67.012) |
+| State canvass | Sat., Nov. 21 to Mon., Dec. 7 | Between the 18th and 33rd day after Election Day (section 67.012); the 33rd day is Sun., Dec. 6, so the Texas Secretary of State's election law calendar lists Mon., Dec. 7 as the last day (section 1.006) |
 | Runoffs for local races | Sat., Dec. 12 | Texas Secretary of State's designation |
 
 Other states certify on different dates; see [when 2026 election results are certified, by state](/news/when-are-2026-election-results-certified-deadlines-by-state/).

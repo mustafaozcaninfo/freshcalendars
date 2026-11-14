@@ -3,7 +3,7 @@ title: "Veterans Day Deals Still Valid: Vouchers Good to May 31, 2027"
 description: "Veterans Day deals still valid: 10% off at Eat'n Park, vouchers to May 31, 2027 and year-round discounts. The Nov. 11 list is kept as a record."
 type: update
 publishedAt: "2026-10-20T16:55:00-04:00"
-updatedAt: "2026-11-14T01:14:00-05:00"
+updatedAt: "2026-11-14T07:01:00-05:00"
 authors: [christina-gerland]
 category: holidays
 shop: veterans-day
@@ -158,7 +158,7 @@ related: [veterans-day-2026-wednesday-november-11, veteran-id-card-how-to-prove-
 downloads:
   - group: "Veterans Day printables"
     title: "Veterans Day Free Meals Cheat Sheet, 2026"
-    description: "The 167 free meals and 43 discounts confirmed for Nov. 11, 2026, tagged for dine-in, ID, family, hours and later use, and a wallet card of IDs."
+    description: "The 167 free meals and 43 discounts confirmed for Nov. 11, 2026, a box of offers still valid after Nov. 11 with their last day, and a wallet card of IDs."
     preview: ../../../../assets/news/veterans-day/veterans-day-free-meals-cheat-sheet-2026.png
     alt: "Veterans Day free meals cheat sheet 2026 printable listing restaurant offers with dine-in and ID tags and a wallet card of accepted proof of service"
     pdf: "/news/downloads/veterans-day/veterans-day-free-meals-cheat-sheet-2026.pdf"
@@ -496,4 +496,4 @@ Veterans Day is a federal holiday under 5 U.S.C. § 6103, and it never moves to 
 
 ## Print the cheat sheet
 
-The free three-page cheat sheet lists the 167 free meals and 43 discounts confirmed for Nov. 11, 2026, the Great Clips and Sport Clips haircuts and the Grace For Vets car wash, with tags for dine-in, ID, family, hours and later use, plus a cut-out wallet card of accepted IDs. It is a record of the Nov. 11 offers; the deals near the top of the story are the ones that still work. Pin your dates on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). For the rest of the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/).
+The free three-page cheat sheet lists the 167 free meals and 43 discounts confirmed for Nov. 11, 2026, the Great Clips and Sport Clips haircuts and the Grace For Vets car wash, with tags for dine-in, ID, family, hours and later use, plus a cut-out wallet card of accepted IDs. Page three now has a box of the offers still valid after Nov. 11, each with its last day; the rest is a record of the Nov. 11 offers. Pin your dates on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). For the rest of the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/).
