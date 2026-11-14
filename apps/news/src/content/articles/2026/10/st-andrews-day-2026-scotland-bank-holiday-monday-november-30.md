@@ -68,6 +68,7 @@ assets:
   date: "2026-11-30"
   card: { top: "St Andrew's Day 2026", big: "Mon., Nov. 30", bottom: "Scotland bank holiday, no substitute this year" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: st-andrews-day-dates-2023-2028
     group: st-andrews-day-2026
     title: "St Andrew's Day Bank Holiday Dates, 2023 to 2028"

@@ -90,7 +90,7 @@ assets:
     description: "One-page planner of the 2026 dates, daily hours and Dec. 24 closing times of the Nuremberg, Vienna, Strasbourg, Cologne, Prague and Tivoli Christmas markets."
     alt: "Printable planner of the 2026 dates, hours and Dec. 24 closing times of six European Christmas markets."
     data:
-      holiday: { date: "2026-11-27", name: "Nuremberg Christkindlesmarkt opens", src: 1, quote: "27. November bis 24. Dezember 2026" }
+      holiday: { date: "2026-11-27", name: "Nuremberg Christkindlesmarkt opens", src: 1, quote: "Nuremberg Christmas Market 2026 November 27 to December 24" }
       status:
         - { name: "Vienna", status: open, detail: "Nov. 13 to Dec. 26, daily 10 a.m. to 10 p.m.; Dec. 24 until 6:30 p.m.", src: 2, quote: ["13. November bis 26. Dezember 2026", "Täglich 10 bis 22 Uhr", "24. Dezember 2026: 10 bis 18:30 Uhr"] }
         - { name: "Tivoli Gardens, Copenhagen", status: limited, detail: "Nov. 13 to Jan. 3; hours not posted", src: 6, quote: "13 November - 3 January" }

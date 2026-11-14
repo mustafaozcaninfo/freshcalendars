@@ -93,6 +93,7 @@ assets:
   date: "2026-11-27"
   card: { top: "Three companies open", big: "Fri., Nov. 27", bottom: "New York, Boston and Seattle" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: nutcracker-2026-season-dates-by-company
     group: nutcracker-2026
     title: "Nutcracker 2026 Season Calendar by Company"

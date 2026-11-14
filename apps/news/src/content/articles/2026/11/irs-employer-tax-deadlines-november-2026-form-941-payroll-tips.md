@@ -60,7 +60,7 @@ assets:
     description: "IRS employer tax dates from Nov. 16 to Dec. 15, 2026: payroll tax deposits and employee tip reports, with check boxes."
     alt: "Printable matrix of IRS employer tax deadlines from Nov. 16 to Dec. 15, 2026 with Employers and Employees columns"
     data:
-      target: { date: "2026-11-17", label: "Monthly depositors: October payroll tax" }
+      target: { date: "2026-12-15", label: "Monthly depositors: November payroll tax" }
       columns: ["Employers", "Employees"]
       rows:
         - date: "2026-11-16"
@@ -74,23 +74,23 @@ assets:
         - date: "2026-11-18"
           cells: { Employers: "Semiweekly deposit for payments on Nov. 11-13" }
           src: 1
-          quote: "11/18/2026 Deposit payroll tax for payments on November 11-13 if the semiweekly deposit rule applies."
+          quote: "2026-11-18 Deposit payroll tax for payments on November 11-13 if the semiweekly deposit rule applies."
         - date: "2026-11-20"
           cells: { Employers: "Semiweekly deposit for payments on Nov. 14-17" }
           src: 1
-          quote: "11/20/2026 Deposit payroll tax for payments on November 14-17 if the semiweekly deposit rule applies."
+          quote: "2026-11-20 Deposit payroll tax for payments on November 14-17 if the semiweekly deposit rule applies."
         - date: "2026-11-25"
           cells: { Employers: "Semiweekly deposit for payments on Nov. 18-20" }
           src: 1
-          quote: "11/25/2026 Deposit payroll tax for payments on November 18-20 if the semiweekly deposit rule applies."
+          quote: "2026-11-25 Deposit payroll tax for payments on November 18-20 if the semiweekly deposit rule applies."
         - date: "2026-12-10"
           cells: { Employees: "Report November tips of $20 or more" }
           src: 1
-          quote: "12/10/2026 Employers: Employees are required to report to you tips of $20 or more earned during November."
+          quote: "2026-12-10 Employers: Employees are required to report to you tips of $20 or more earned during November."
         - date: "2026-12-15"
           cells: { Employers: "Monthly depositors: November payroll tax" }
           src: 1
-          quote: "12/15/2026 Social security, Medicare, and withheld income tax. Deposit tax for payments made in November if the monthly deposit rule applies."
+          quote: "2026-12-15 Social security, Medicare, and withheld income tax. Deposit tax for payments made in November if the monthly deposit rule applies."
 downloads:
   - group: "IRS Employer Tax Deadlines printables"
     title: "IRS Employer Tax Deadlines, November 2026"
