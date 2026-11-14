@@ -1,18 +1,18 @@
 ---
-title: "KFC Christmas Menu 2026: Gravymas Burger £7.99, From 9 November"
-description: "Kentucky Fried Chicken (KFC) Christmas menu 2026 starts 9 November, to 3 January, per Britbrief and Foodbible. Gravymas Burger £7.99; five prices."
+title: "KFC Christmas Menu 2026: Gravymas Burger £7.99, to 3 January"
+description: "Kentucky Fried Chicken (KFC) Christmas menu 2026 runs 9 November to 3 January, per Britbrief, Foodbible and Verge Magazine. Gravymas Burger £7.99; prices."
 type: news
 publishedAt: "2026-11-04T14:55:00-05:00"
-updatedAt: "2026-11-04T14:55:00-05:00"
+updatedAt: "2026-11-14T15:43:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["kfc christmas menu 2026", "kfc gravy burger 2026", "kfc gravymas burger", "kfc festive bucket 2026"]
 dateline: "London"
 assets:
   overlay: true
-  kicker: "KFC Christmas menu · Mon., 9 Nov."
-  date: "2026-11-09"
-  card: { top: "Gravymas range on sale", big: "Mon., 9 Nov.", bottom: "Until Sun., 3 Jan." }
+  kicker: "KFC Christmas menu · Until Sun., 3 Jan."
+  date: "2027-01-03"
+  card: { top: "Gravymas range on sale until", big: "Sun., 3 Jan.", bottom: "Burger £7.99" }
   printable:
     kit: fact-table
     slug: kfc-christmas-menu-2026-price-card
@@ -20,7 +20,7 @@ assets:
     title: "KFC Christmas Menu 2026: Prices and Dates"
     subtitle: "Gravymas range, as reported by Britbrief and Foodbible"
     year: 2026
-    note: "Source: Britbrief, 28 Oct 2026, and Foodbible, 29 Oct 2026. KFC's own pages could not be checked; prices in a given restaurant or delivery app may differ."
+    note: "Source: Britbrief, 28 Oct 2026, Foodbible, 29 Oct 2026, and Verge Magazine, 27 Oct 2026. KFC's own pages could not be read; prices in a given restaurant or delivery app may differ."
     description: "One-page card of the KFC UK 2026 Christmas menu: Gravymas Burger, meals, fries and buckets with prices, plus the 9 November start and 3 January end."
     alt: "Printable KFC Christmas menu 2026 card listing each festive item with its price and contents, and the start and end dates"
     data:
@@ -65,21 +65,21 @@ hero:
     author: "BrokenSphere"
     authorUrl: "https://commons.wikimedia.org/wiki/User:BrokenSphere"
 summary:
-  - "KFC's Gravymas range goes on sale Monday 9 November 2026 and runs to Sunday 3 January 2027, according to Britbrief (28 October) and Foodbible (29 October)."
+  - "KFC's Gravymas range went on sale Monday 9 November 2026 and runs to Sunday 3 January 2027, according to Britbrief (28 October), Foodbible (29 October) and Verge Magazine (27 October)."
   - "The Gravymas Burger costs £7.99, Festive Loaded Fries £3.99, the Fully Festive Meal £13.49, the Festive Double Bucket £20.99 and the Festive Triple Bucket £24.99."
   - "By those dates the run is 56 days, or eight weeks, and 46 of them fall before Christmas Day."
-  - "KFC's own UK pages returned an error when we checked, so Christmas Day opening and app or delivery availability are not confirmed."
+  - "KFC's own UK pages showed no menu text when we checked, so Christmas Day opening and app or delivery availability are not confirmed."
 faq:
   - q: "When does the KFC Christmas menu start in 2026?"
-    a: "Monday 9 November 2026, according to both Britbrief and Foodbible. Foodbible says the range launches in-store on that day."
+    a: "It started Monday 9 November 2026, according to Britbrief, Foodbible and Verge Magazine. Foodbible says the range launched in-store on that day."
   - q: "When does the KFC Gravymas range end?"
-    a: "Sunday 3 January 2027 by the dates both newsrooms report. Britbrief adds that it is on sale while stocks last."
+    a: "Sunday 3 January 2027 by the dates all three newsrooms report. Britbrief adds that it is on sale while stocks last."
   - q: "How much is the KFC Gravymas Burger?"
-    a: "£7.99 on its own, per Britbrief and Foodbible. Foodbible prices the Gravymas Meal at £11.99; Britbrief says the Gravymas Box Meal starts from £11.99."
+    a: "£7.99 on its own, per Britbrief and Foodbible; Verge Magazine says it is priced from £7.99. Foodbible prices the Gravymas Meal at £11.99; Britbrief says the Gravymas Box Meal starts from £11.99."
   - q: "What came before it: what was KFC's festive burger in 2025?"
     a: "Verge Magazine reported on 27 October 2025 that the 2025 festive burger was the Stuffing Stacker, available until 4th January 2026."
   - q: "Is KFC open on Christmas Day 2026?"
-    a: "Neither report says. KFC's own pages could not be checked, so Christmas Day and Boxing Day opening is not confirmed here. Check with your local restaurant."
+    a: "None of the three reports says. KFC's own pages could not be read, so Christmas Day and Boxing Day opening is not confirmed here. Check with your local restaurant."
 sources:
   - title: "KFC 2026 Christmas menu brings back gravy burger"
     url: "https://britbrief.co.uk/business/retail/kfc-2026-christmas-menu-brings-back-gravy-burger.html"
@@ -93,6 +93,10 @@ sources:
     url: "https://vergemagazine.co.uk/kfc-brings-back-its-festive-favourite-the-stuffing-stacker-burger-returns-for-christmas-2025"
     publisher: "Verge Magazine"
     date: "2025-10-27"
+  - title: "KFC unveils new Gravymas burger and festive Christmas menu for 2026"
+    url: "https://vergemagazine.co.uk/kfc-unveils-new-gravymas-burger-and-festive-christmas-menu-for-2026/"
+    publisher: "Verge Magazine"
+    date: "2026-10-27"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -119,11 +123,11 @@ downloads:
 draft: false
 ---
 
-**Kentucky Fried Chicken (KFC) puts its Gravymas range on sale in the UK on Monday 9 November 2026 and runs to Sunday 3 January 2027, according to Britbrief (28 October) and Foodbible (29 October).** The Gravymas Burger costs £7.99. KFC's own news and Christmas pages returned an error when we tried them, so everything here rests on those two newsrooms, which agree on the dates and prices below.
+**Kentucky Fried Chicken (KFC) put its Gravymas range on sale in the UK on Monday 9 November 2026, and it runs to Sunday 3 January 2027, according to Britbrief (28 October), Foodbible (29 October) and Verge Magazine (27 October).** The Gravymas Burger costs £7.99. KFC's own pages showed no menu text when we tried them, so everything here rests on those three newsrooms, which agree on the dates and the prices below.
 
 ## What is on the KFC Christmas menu 2026?
 
-Britbrief describes the Gravymas Burger as a crispy Original Recipe Fillet stacked with a hash brown and melted cheese. Foodbible calls the range indulgent and says it can be bought alone or as part of a meal; its headline says the burger is back after five years, a claim we have not seen elsewhere.
+Britbrief describes the Gravymas Burger as a crispy Original Recipe Fillet stacked with a hash brown and melted cheese. Foodbible says the range can be bought alone or as part of a meal; its headline says the burger is back after five years, a claim we have not seen elsewhere.
 
 | Item | Price as reported | What is in it | Source note |
 |---|---|---|---|
@@ -134,13 +138,13 @@ Britbrief describes the Gravymas Burger as a crispy Original Recipe Fillet stack
 | Festive Double Bucket | £20.99 | Three combinations | Price: both reports; combinations: Britbrief |
 | Festive Triple Bucket | £24.99 | All three options together | Price: both reports; contents: Britbrief |
 
-Britbrief lists the Double Bucket combinations as six Original Recipe pieces with six Tenders, six Original Recipe with eight Hot Wings, or six Tenders with six more Tenders. It says the Triple Bucket stacks all three options. Britbrief also reports that both buckets include four regular portions of fries, two large sides and a large drink; Foodbible does not mention this, so treat it as Britbrief's report only.
+Britbrief lists the Double Bucket combinations as six Original Recipe pieces with six Tenders, six Original Recipe with eight Hot Wings, or six Tenders with six more Tenders. It says the Triple Bucket stacks all three options. Britbrief and Verge Magazine both report that the buckets include four regular portions of fries, two large sides and a large drink; Foodbible does not mention this.
 
 Foodbible says the range is sold from participating KFC restaurants across Great Britain, Northern Ireland and the Republic of Ireland. Britbrief does not say. Neither report prices items by restaurant or delivery app, and we could not check KFC's own page, so the price you pay in a given restaurant or app may differ from the figures above.
 
 ## How long does the KFC Gravymas range run?
 
-Britbrief says "from November 9, for six weeks only, until January 3, while stocks last." Foodbible gives Monday 9 November to Sunday 3 January. Counting both days, those dates make 56 days, which is eight weeks rather than six, so we use the dates. Neither report prints a year; 9 November falls on a Monday in 2026 and 3 January on a Sunday in 2027, which matches the weekdays Foodbible gives.
+Britbrief says "from November 9, for six weeks only, until January 3, while stocks last." Foodbible gives Monday 9 November to Sunday 3 January, and Verge Magazine says the range launches on Monday 9th November 2026 and is available until Sunday 3rd January 2027. Counting both days, those dates make 56 days, which is eight weeks rather than six, so we use the dates. Neither report prints a year; 9 November falls on a Monday in 2026 and 3 January on a Sunday in 2027, which matches the weekdays Foodbible gives.
 
 | Measure | Result | How we got it |
 |---|---|---|

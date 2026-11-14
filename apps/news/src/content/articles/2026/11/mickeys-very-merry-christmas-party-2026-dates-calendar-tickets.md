@@ -3,6 +3,7 @@ title: "Mickey's Very Merry Christmas Party 2026: 25 Nights, Nov. 8-Dec. 22"
 description: "Mickey's Very Merry Christmas Party 2026 runs 25 nights, Nov. 8 to Dec. 22, at Magic Kingdom. Tickets are $189 to $229 plus tax, with a printable calendar."
 type: news
 publishedAt: "2026-10-31T21:50:00-04:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [jessica-hartwell]
 dateline: "Orlando"
 category: entertainment
@@ -18,13 +19,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Cinderella%27s_Castle_at_night.jpg"
     author: "Pcaponebk"
 summary:
-  - "The first 2026 party night is Sunday, Nov. 8, and the last is Tuesday, Dec. 22, according to Walt Disney World."
+  - "The first 2026 party night was Sunday, Nov. 8, and the last is Tuesday, Dec. 22, according to Walt Disney World."
   - "Of the 25 nights, 12 fall in November and 13 in December; none falls on a Saturday."
   - "Event tickets are $189 to $229 per ticket plus tax, depending on the date, and children ages 3 to 9 save $10."
   - "Annual Passholders and Disney Vacation Club (DVC) Members save $10 per ticket on 11 of the 25 nights, Nov. 8 to 20 and Nov. 29 to Dec. 3."
 faq:
   - q: "When is the first Mickey's Very Merry Christmas Party in 2026?"
-    a: "Sunday, Nov. 8, 2026, from 7 p.m. to midnight at Magic Kingdom, according to Walt Disney World. Ticketholders can enter the park as early as 4 p.m. that day."
+    a: "Sunday, Nov. 8, 2026, from 7 p.m. to midnight at Magic Kingdom, according to Walt Disney World, so the 2026 run has begun. Ticketholders could enter the park as early as 4 p.m. on each party night."
   - q: "How much are Mickey's Very Merry Christmas Party tickets in 2026?"
     a: "$189 to $229 per ticket plus tax, with the price varying by event date, according to Walt Disney World. Children ages 3 to 9 save $10 per ticket. The page we checked lists no price for individual nights."
   - q: "Do I need a park ticket as well as a party ticket?"
@@ -42,19 +43,11 @@ downloads:
     pdf: "/news/downloads/mickeys-christmas-party-2026/mickeys-very-merry-christmas-party-2026-calendar.pdf"
     png: "/news/downloads/mickeys-christmas-party-2026/mickeys-very-merry-christmas-party-2026-calendar.png"
     pages: 1
-  - group: "Mickey's Very Merry Christmas Party 2026 Calendar printables"
-    title: "Mickey's Very Merry Christmas Party 2026 Calendar (ink saver)"
-    description: "A one-page calendar of the 25 Mickey's Very Merry Christmas Party nights in November and December 2026, marking the Passholder and Disney Vacation Club discount nights. Ink-saver version."
-    preview: ../../../../assets/news/mickeys-christmas-party-2026/mickeys-very-merry-christmas-party-2026-calendar-ink.png
-    alt: "Printable calendar of the 25 Mickey's Very Merry Christmas Party nights at Magic Kingdom in November and December 2026, ink-saver version"
-    pdf: "/news/downloads/mickeys-christmas-party-2026/mickeys-very-merry-christmas-party-2026-calendar-ink.pdf"
-    png: "/news/downloads/mickeys-christmas-party-2026/mickeys-very-merry-christmas-party-2026-calendar-ink.png"
-    pages: 1
 sources:
   - title: "Mickey's Very Merry Christmas Party"
     url: "https://disneyworld.disney.go.com/events-tours/magic-kingdom/mickeys-very-merry-christmas-party/"
     publisher: "Walt Disney World Resort"
-    date: "2026-11-01"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -67,15 +60,15 @@ draft: false
 assets:
   overlay: true
   kicker: "Mickey's Christmas Party 2026 · 25 nights"
-  date: "2026-11-08"
-  card: { top: "First party night", big: "Sun., Nov. 8", bottom: "7 p.m. to midnight ET" }
+  date: "2026-12-22"
+  card: { top: "Last party night", big: "Tue., Dec. 22", bottom: "7 p.m. to midnight ET" }
   printable:
     slug: mickeys-very-merry-christmas-party-2026-calendar
     group: mickeys-christmas-party-2026
     title: "Mickey's Very Merry Christmas Party 2026 Calendar"
     subtitle: "25 party nights at Magic Kingdom, Nov. 8 to Dec. 22"
     layout: list
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Sun., Nov. 8", "7 p.m. to midnight; $10 Annual Passholder or Disney Vacation Club discount"]
       - ["Mon., Nov. 9", "7 p.m. to midnight; $10 Annual Passholder or Disney Vacation Club discount"]
@@ -102,12 +95,12 @@ assets:
       - ["Fri., Dec. 18", "7 p.m. to midnight"]
       - ["Sun., Dec. 20", "7 p.m. to midnight"]
       - ["Tue., Dec. 22", "7 p.m. to midnight"]
-    note: "Source: Walt Disney World, Mickey's Very Merry Christmas Party event page, checked Nov. 1, 2026."
+    note: "Source: Walt Disney World, Mickey's Very Merry Christmas Party event page, checked Nov. 14, 2026."
     description: "A one-page calendar of the 25 Mickey's Very Merry Christmas Party nights in November and December 2026, marking the Passholder and Disney Vacation Club discount nights."
     alt: "Printable calendar of the 25 Mickey's Very Merry Christmas Party nights at Magic Kingdom in November and December 2026."
 ---
 
-**The first 2026 party night for Mickey's Very Merry Christmas Party is Sunday, Nov. 8, 2026, at Magic Kingdom, 7 p.m. to midnight Eastern Time (ET), according to Walt Disney World.** The event is held select nights through Tuesday, Dec. 22, 25 nights in all. The table below lists every night with its weekday and whether the $10 Annual Passholder and Disney Vacation Club (DVC) discount applies, and a printable calendar carries the same dates.
+**Mickey's Very Merry Christmas Party 2026 began Sunday, Nov. 8, at Magic Kingdom, and runs 7 p.m. to midnight Eastern Time (ET) on select nights through Tuesday, Dec. 22, 25 nights in all, according to Walt Disney World.** Four nights (Nov. 8, 9, 12 and 13) have passed. The table below lists every night with its weekday and whether the $10 Annual Passholder and Disney Vacation Club (DVC) discount applies, and a printable calendar carries the same dates.
 
 ## Which nights is Mickey's Very Merry Christmas Party held in 2026?
 

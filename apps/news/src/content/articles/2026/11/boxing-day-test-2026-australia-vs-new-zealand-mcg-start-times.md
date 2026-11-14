@@ -3,7 +3,7 @@ title: "Boxing Day Test 2026 Start Time: 6:30 p.m. ET on Dec. 25"
 description: "The Boxing Day Test 2026 starts Sat., Dec. 26 at 10:30 a.m. local time in Melbourne, 6:30 p.m. ET on Dec. 25. Times for all four Tests and a printable."
 type: explainer
 publishedAt: "2026-11-03T11:02:00-05:00"
-updatedAt: "2026-11-03T11:02:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["boxing day test 2026", "australia vs new zealand test 2026 time", "boxing day test start time us", "australia v new zealand test series 2026 schedule"]
@@ -40,6 +40,10 @@ sources:
   - title: "Australia v New Zealand Tests 2026-27 - Men"
     url: "https://www.cricket.com.au/matches/series/CA:4605/australia-v-new-zealand-tests-2026-27-men"
     publisher: "Cricket Australia"
+  - title: "Labuschagne dropped for Tests against New Zealand"
+    url: "https://www.cricket.com.au/news/4606602/marnus-labuschagne-loses-place-dropped-axes-tests-against-new-zealand-australia-selectors-george-bailey"
+    publisher: "Cricket Australia"
+    date: "2026-11-09"
   - title: "Boxing Day Test Day 1: Australia v New Zealand"
     url: "https://www.mcg.org.au/events/2026/december/boxing-day-test-day-1-australia-v-new-zealand"
     publisher: "Melbourne Cricket Ground"
@@ -138,7 +142,7 @@ The same release lists the 150th Anniversary Test against England at the MCG on 
 
 No U.S. or U.K. broadcaster is confirmed on a rights holder's page as of Nov. 3, 2026, so none is named here. Cricket Australia says the season is shown live in Australia on Kayo Sports, Foxtel, Seven and 7plus. Check your own TV or streaming provider's cricket listings closer to the date.
 
-Squads are not yet announced, and the sources do not give lunch and tea times, so the table shows only start times. For another New Zealand schedule converted to ET and GMT, see [India vs New Zealand 2026](/news/india-vs-new-zealand-2026-schedule-odi-test-start-times-et-gmt-ist/). Another Australian date converted for U.S. and U.K. readers is the [Melbourne Cup 2026](/news/melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule/).
+Squads are not yet announced: on Nov. 9 Cricket Australia reported that selection chair George Bailey said the Test squad will be picked at the end of the next round of Sheffield Shield cricket. The sources do not give lunch and tea times, so the table shows only start times. For another New Zealand schedule converted to ET and GMT, see [India vs New Zealand 2026](/news/india-vs-new-zealand-2026-schedule-odi-test-start-times-et-gmt-ist/). Another Australian date converted for U.S. and U.K. readers is the [Melbourne Cup 2026](/news/melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule/).
 
 ## Boxing Day Test 2026 watch guide printable
 

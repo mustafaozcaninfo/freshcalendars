@@ -3,7 +3,7 @@ title: "Operation Christmas Child 2026: Collection Week Nov. 16-23"
 description: "Operation Christmas Child's 2026 National Collection Week runs Mon., Nov. 16 to Mon., Nov. 23, per Samaritan's Purse. Find a drop-off, print a pack list."
 type: explainer
 publishedAt: "2026-11-06T06:36:00-05:00"
-updatedAt: "2026-11-11T03:20:00-05:00"
+updatedAt: "2026-11-14T15:06:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["operation christmas child 2026 drop off", "national collection week 2026", "operation christmas child 2026 dates", "what to put in operation christmas child shoebox"]
@@ -80,7 +80,7 @@ summary:
   - "Samaritan's Purse lists National Collection Week for Operation Christmas Child as Nov. 16-23, 2026, Monday to Monday, 8 days counting both ends."
   - "The drop-off finder searches by city or ZIP code within 25, 50, 75 or 100 miles; Samaritan's Purse does not post hours on the page, so check each location."
   - "The suggested donation is $10 per shoebox. Soap, food, candy, liquids, medication, money and breakable items are on the official do-not-pack list."
-  - "Samaritan's Purse UK gives Nov. 9-16, 2026 for the United Kingdom; Samaritan's Purse Canada lists Nov. 16-22, 2026 and a drop-off locator."
+  - "Samaritan's Purse UK gives Nov. 9-16, 2026 for the United Kingdom; Samaritan's Purse Canada lists Nov. 16-22, 2026, a drop-off locator and a $12 donation per box."
 faq:
   - q: "When is Operation Christmas Child National Collection Week in 2026?"
     a: "Samaritan's Purse lists it as Nov. 16-23, 2026. That is Monday, Nov. 16 to Monday, Nov. 23, by our calendar count."
@@ -93,36 +93,36 @@ faq:
   - q: "Can I mail a shoebox?"
     a: "Samaritan's Purse says only its Boone and Charlotte locations accept mailed gifts. The questions page has the mailing address."
   - q: "When is National Collection Week in Canada in 2026?"
-    a: "Samaritan's Purse Canada lists Nov. 16-22, 2026, Monday to Sunday. Its drop-off locator shows over 300 locations across Canada and gives no hours, so check each location."
+    a: "Samaritan's Purse Canada lists Nov. 16-22, 2026, Monday to Sunday. Its drop-off locator shows over 300 locations across Canada and gives no hours, so check each location. It asks for a $12-per-shoebox donation, where the U.S. pages suggest $10."
 sources:
   - title: "Operation Christmas Child | Shoebox Outreach of Samaritan's Purse"
     url: "https://www.samaritanspurse.org/operation-christmas-child/"
     publisher: "Samaritan's Purse"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Operation Christmas Child frequently asked questions"
     url: "https://www.samaritanspurse.org/operation-christmas-child/frequently-asked-questions/"
     publisher: "Samaritan's Purse"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Find Your Shoebox Drop-off Location"
     url: "https://www.samaritanspurse.org/operation-christmas-child/drop-off-locations/"
     publisher: "Samaritan's Purse"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Official Shoebox Gift Suggestions"
     url: "https://www.samaritanspurse.org/operation-christmas-child/what-goes-in-my-shoebox-suggestions/"
     publisher: "Samaritan's Purse"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Operation Christmas Child fact sheet"
     url: "https://www.samaritanspurse.org/operation-christmas-child/fact-sheet-occ/"
     publisher: "Samaritan's Purse"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Drop off Locations - Samaritan's Purse Canada"
     url: "https://www.samaritanspurse.ca/drop-off-locations/"
     publisher: "Samaritan's Purse Canada"
-    date: "2026-11-11"
+    date: "2026-11-14"
   - title: "Operation Christmas Child (UK)"
     url: "https://www.samaritans-purse.org.uk/what-we-do/operation-christmas-child"
     publisher: "Samaritan's Purse UK"
-    date: "2026-11-06"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -141,7 +141,7 @@ downloads:
 draft: false
 ---
 
-**Operation Christmas Child's National Collection Week runs Nov. 16-23, 2026,** according to Samaritan's Purse, the charity that runs the shoebox program. That is Monday, Nov. 16 to Monday, Nov. 23 by our calendar count. Below are a day-by-day planner, how to use the drop-off finder, the official pack and do-not-pack lists and the dates in the United Kingdom (UK) and Canada. We read the official pages on Nov. 6, 2026; they show no publication date.
+**Operation Christmas Child's National Collection Week runs Nov. 16-23, 2026,** according to Samaritan's Purse, the charity that runs the shoebox program. That is Monday, Nov. 16 to Monday, Nov. 23 by our calendar count. Below are a day-by-day planner, how to use the drop-off finder, the official pack and do-not-pack lists and the dates in the United Kingdom (UK) and Canada. We re-read the official pages on Nov. 14, 2026; they show no publication date.
 
 ## When is Operation Christmas Child collection week in 2026?
 
@@ -199,7 +199,7 @@ You can also build a shoebox online year-round. The suggested amount is $30 per 
 | United Kingdom | 9-16 November 2026 | Samaritan's Purse UK |
 | Canada | Nov. 16-22, 2026 | Samaritan's Purse Canada |
 
-The UK dates apply to the UK program only, and the Canadian week ends a day earlier than the U.S. one. Do not use either for a U.S. drop-off. For Canada, Samaritan's Purse Canada's [drop-off locations page](https://www.samaritanspurse.ca/drop-off-locations/) says over 300 locations are open across the country and gives no hours, so check each location. We read the Canadian pages on Nov. 11, 2026.
+The UK dates apply to the UK program only, and the Canadian week ends a day earlier than the U.S. one. Do not use either for a U.S. drop-off. For Canada, Samaritan's Purse Canada's [drop-off locations page](https://www.samaritanspurse.ca/drop-off-locations/) says over 300 locations are open across the country and gives no hours, so check each location. It asks for a $12-per-shoebox donation, where the U.S. pages suggest $10.
 
 ## How big is Operation Christmas Child?
 

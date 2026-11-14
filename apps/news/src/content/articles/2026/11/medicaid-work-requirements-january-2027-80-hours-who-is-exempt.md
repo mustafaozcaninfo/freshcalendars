@@ -3,7 +3,7 @@ title: "Medicaid Work Requirements 2027: 80 Hours a Month From Jan. 1"
 description: "Medicaid work requirements start Jan. 1, 2027: adults 19 to 64 need 80 hours a month. An exemption checklist, a state timeline and a printable tracker."
 type: news
 publishedAt: "2026-11-06T06:10:00-05:00"
-updatedAt: "2026-11-06T06:10:00-05:00"
+updatedAt: "2026-11-14T15:33:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["medicaid work requirements 2027", "when do medicaid work requirements start", "medicaid 80 hours rule", "medicaid work requirement exemptions"]
@@ -23,7 +23,7 @@ summary:
   - "Under Public Law 119-21, Medicaid work requirements begin Jan. 1, 2027, unless a state starts sooner, for adults at least 19 and under 65 in the adult expansion group, per CMS guidance dated Dec. 8, 2025."
   - "To qualify in a month, an adult needs at least 80 hours of work, community service or a work program, half-time school, a combination totaling 80 hours, or income of at least $580 (the federal minimum wage of $7.25 times 80)."
   - "Parents and caregivers of a child 13 and under, people who are medically frail, American Indians and Alaska Natives, people in drug or alcohol treatment and others are excluded."
-  - "Nebraska (May 1, 2026) and Iowa (Dec. 1, 2026) start earlier, per their own agencies; a state can also ask CMS for a good-faith exemption that ends no later than Dec. 31, 2028."
+  - "Nebraska (May 1, 2026) and Iowa (Dec. 1, 2026) start earlier, per their own agencies. On Nov. 13, 2026, CMS offered states an optional hold-harmless period through June 30, 2027, according to NBC News and Nextgov."
 faq:
   - q: "When do Medicaid work requirements start?"
     a: "Jan. 1, 2027, per the CMS bulletin of Dec. 8, 2025, unless a state opts to start sooner. The July 31, 2026 date is when the interim final rule took effect, not the start of the requirement."
@@ -35,8 +35,10 @@ faq:
     a: "The state sends a notice and the person has 30 calendar days from receipt to demonstrate compliance. If they do not, the state must deny the application or terminate eligibility, per the CMS bulletin."
   - q: "Do U.S. territories have to follow the requirement?"
     a: "No. The CMCS bulletin of Dec. 8, 2025 says the requirement does not apply in U.S. territories. The CMS fact sheet counts 43 states and the District of Columbia that cover the affected group."
+  - q: "Can a state delay enforcement after Jan. 1, 2027?"
+    a: "Yes, if it chooses. NBC News and Nextgov report that on Friday, Nov. 13, 2026, CMS offered states an optional hold-harmless period through June 30, 2027, so no one in a state that opts in loses coverage over the requirement before July 1. The requirement still starts Jan. 1 and states keep checking. We could not read the CMS letter itself, so ask your state agency whether it is using the period."
   - q: "Which states start before 2027?"
-    a: "Nebraska and Iowa say so on their own agency pages. Montana and Georgia could not be confirmed from official pages for this story, so check your state's Medicaid agency."
+    a: "Nebraska (May 1, 2026) and Iowa (Dec. 1, 2026) say so on their own agency pages. Montana and Georgia could not be confirmed from official pages for this story, so check your state's Medicaid agency."
 sources:
   - title: "CMS Informational Bulletin on the Medicaid community engagement requirement"
     url: "https://www.medicaid.gov/federal-policy-guidance/downloads/cib12082025.pdf"
@@ -57,9 +59,19 @@ sources:
   - title: "Work Requirements"
     url: "https://dhhs.ne.gov/WorkRequirements"
     publisher: "Nebraska Department of Health and Human Services"
+    date: "2026-11-14"
   - title: "IHAWP Community Engagement Requirements"
     url: "https://hhs.iowa.gov/medicaid/plans-programs/iowa-health-wellness-plan/ihawp-community-engagement-requirements"
     publisher: "Iowa Health and Human Services"
+    date: "2026-11-14"
+  - title: "Trump administration delays Medicaid work requirements by six months"
+    url: "https://www.nbcnews.com/politics/politics-news/trump-administration-delays-medicaid-work-requirements-six-months-rcna609256"
+    publisher: "NBC News"
+    date: "2026-11-13"
+  - title: "CMS lets states punt Medicaid work requirements by six months"
+    url: "https://www.nextgov.com/digital-government/2026/11/cms-lets-states-punt-medicaid-work-requirements-six-months/417227/"
+    publisher: "Nextgov"
+    date: "2026-11-13"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -101,7 +113,7 @@ assets:
         - { text: "An income test: the federal minimum wage times 80 hours, currently $7.25 x 80 = $580 per month.", src: 1, quote: "e.g., currently, $7.25 x 80 = $580 per month" }
         - { text: "After a notice, you have 30 calendar days from receipt to show you comply.", src: 1, quote: "30 calendar days from the date such notice is received to demonstrate compliance" }
       unconfirmed:
-        - { label: "Your state's own start date and forms", why: "check your state's Medicaid agency; Montana and Georgia dates not confirmed" }
+        - { label: "Your state's own start date and forms", why: "check your state's Medicaid agency; states may delay enforcement to June 30, 2027; Montana and Georgia not confirmed" }
     note: "Source: CMS bulletin of Dec. 8, 2025; Centers for Medicare & Medicaid Services; Public Law 119-21. Your state sets its own forms."
     description: "One-page tracker for the 80 hours a month Medicaid work requirements ask from Jan. 1, 2027, with the $580 income line and a checklist of exclusions."
     alt: "Printable Medicaid work requirement tracker for 2027 with twelve monthly boxes and an exclusion checklist"
@@ -162,16 +174,20 @@ States may also grant short-term hardship exemptions, according to the bulletin 
 |---|---|---|
 | Fri., July 31, 2026 | Effective date of the interim final rule; comments closed the same day | [Federal Register, June 3, 2026](https://www.govinfo.gov/content/pkg/FR-2026-06-03/html/2026-11094.htm) |
 | Tue., Dec. 1, 2026 | Iowa: certain Iowa Health and Wellness Plan members must meet monthly requirements | [Iowa Health and Human Services](https://hhs.iowa.gov/medicaid/plans-programs/iowa-health-wellness-plan/ihawp-community-engagement-requirements) |
+| Fri., Nov. 13, 2026 | CMS offers states an optional hold-harmless period through June 30, 2027 | NBC News and Nextgov |
 | Fri., Jan. 1, 2027 | National start, unless a state opts in sooner; six-month renewals begin for renewals initiated on or after this date | [CMCS bulletin](https://www.medicaid.gov/federal-policy-guidance/downloads/cib12082025.pdf) |
+| Wed., June 30, 2027 | Last day of the optional hold-harmless period CMS offered states on Nov. 13, 2026 | NBC News and Nextgov |
 | Sun., Dec. 31, 2028 | Latest day a state's good-faith exemption can run | CMCS bulletin, page 11 |
 
 The July 31, 2026 date is not the start of the requirement. The CMS fact sheet says states "must generally implement this requirement no later than January 1, 2027." A state may ask for a good-faith exemption and must show a good-faith effort; CMS had not posted an approval for any state on its pages as of Nov. 6, 2026.
+
+On Friday, Nov. 13, 2026, CMS told states they may choose a hold-harmless period through June 30, 2027, according to NBC News and Nextgov. The requirement still starts Jan. 1, 2027 and states that use the option keep checking whether people meet it or qualify for an exemption, but no one in those states loses coverage over it before July 1. The option is each state's choice. We could not open the CMS letter, so these details rest on the two newsrooms; your state agency says whether it is using the period.
 
 ## Which states start before 2027?
 
 | State | Date on its own agency page | Detail |
 |---|---|---|
-| Nebraska | "Medicaid work requirements start on May 1, 2026" (a Friday) | Checks start for members whose coverage periods end on or after July 31, 2026, per Nebraska Department of Health and Human Services (DHHS) |
+| Nebraska | "Medicaid work requirements start on May 1, 2026" (a Friday), now in effect | Checks start for members whose coverage periods end on or after July 31, 2026, per Nebraska Department of Health and Human Services (DHHS) |
 | Iowa | "By December 1, 2026" | Certain Iowa Health and Wellness Plan members; current members at renewal dates on or after February 2027, per Iowa Health and Human Services (HHS) |
 
 Montana and Georgia could not be confirmed from official pages for this story, so check your state's Medicaid agency for dates. Pages are linked in the sources above.

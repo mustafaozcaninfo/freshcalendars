@@ -3,6 +3,7 @@ title: "Kentucky 2027 Election Dates: Primary May 18, General Nov. 2"
 description: "Kentucky's 2027 primary is Tuesday, May 18 and the general election Tuesday, Nov. 2; candidates file by Jan. 8. Registration deadlines, printable sheet."
 type: news
 publishedAt: "2026-11-04T06:40:00-05:00"
+updatedAt: "2026-11-14T15:42:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Kentucky primary 2027", "Kentucky governor election 2027 date", "Kentucky filing deadline 2027", "Kentucky voter registration deadline 2027", "Kentucky election calendar 2027"]
@@ -14,7 +15,7 @@ hero:
   credit: "Photo: Mobilus In Mobili / Wikimedia Commons, edited"
   license: { name: "CC BY-SA 2.0", url: "https://creativecommons.org/licenses/by-sa/2.0", source: "https://commons.wikimedia.org/wiki/File:U.S._Route_60_Frankfort,_KY_(23892062134).jpg", author: "Mobilus In Mobili", authorUrl: "https://www.flickr.com/people/52257493@N00" }
 summary:
-  - "Candidates for 2027 Kentucky state offices must file by 4:00 PM on Friday, Jan. 8, 2027, and signatures on filing forms may be collected starting today, Wednesday, Nov. 4, 2026, per the Kentucky State Board of Elections."
+  - "Candidates for 2027 Kentucky state offices must file by 4:00 PM on Friday, Jan. 8, 2027, and signatures on filing forms have been collectable since Wednesday, Nov. 4, 2026, per the Kentucky State Board of Elections."
   - "The primary is Tuesday, May 18, 2027, and the general election is Tuesday, Nov. 2, 2027. Polls are open 6 a.m. to 6 p.m. prevailing time."
   - "Voters who want to take part in a party's 2027 primary must change party affiliation by Thursday, Dec. 31, 2026. The last day to register for the primary is Monday, April 19, 2027."
   - "In-person early voting without an excuse runs Thursday through Saturday, May 13-15 for the primary and Oct. 28-30 for the general election."
@@ -35,15 +36,15 @@ sources:
   - title: "2027 Kentucky Election Calendar"
     url: "https://elect.ky.gov/Resources/Documents/2027%20Election%20Calendar.pdf"
     publisher: "Kentucky State Board of Elections"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Kentucky Election Schedule 2026-2036"
     url: "https://elect.ky.gov/Resources/Documents/Election%20Schedule%202026-2036.pdf"
     publisher: "Kentucky State Board of Elections"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Election Calendar 2026-2027"
     url: "https://www.sos.ms.gov/sites/default/files/publications/Election%20Calendar_2026.pdf"
     publisher: "Mississippi Secretary of State"
-    date: "2026-11-04"
+    date: "2026-11-14"
 internalLinks:
   - href: "/may-calendars.html"
     label: "May printable calendar"
@@ -63,14 +64,13 @@ assets:
     group: kentucky-2027-election-calendar
     title: "Kentucky 2027 Election Deadlines: Primary and General"
     subtitle: "Filing, registration, absentee and early voting dates, in date order"
-    note: "Source: Kentucky State Board of Elections, 2027 Kentucky Election Calendar, read Nov. 4, 2026. Times are as printed by the board; polls use prevailing (local) time, Eastern or Central."
+    note: "Source: Kentucky State Board of Elections, 2027 Kentucky Election Calendar, read Nov. 14, 2026. Times are as printed by the board; polls use prevailing (local) time, Eastern or Central."
     description: "One page of Kentucky's 2027 election dates for the May 18 primary and Nov. 2 general election: filing, party change, registration, absentee and early voting."
     alt: "Printable grid of Kentucky 2027 election deadlines for the May 18 primary and Nov. 2 general election, in date order"
     data:
       target: { date: "2027-11-02", label: "General election" }
       columns: ["Primary (May 18)", "General (Nov. 2)"]
       rows:
-        - { date: "2026-11-04", cells: { "Primary (May 18)": "Earliest day to sign candidate filing forms" }, src: 1, quote: "Wednesday 11/4/26 (2026-11-04)" }
         - { date: "2026-12-31", cells: { "Primary (May 18)": "Last day to change party and vote in its primary" }, src: 1, quote: "Thursday 12/31/26 (2026-12-31)" }
         - { date: "2027-01-08", cells: { "Primary (May 18)": "Candidate filing deadline, 4:00 PM" }, src: 1, quote: "Friday 1/8/27 4:00 PM (2027-01-08)" }
         - { date: "2027-04-01", cells: { "Primary (May 18)": "Independent and organization candidacy statement, 4:00 PM" }, src: 1, quote: "Thursday 4/1/27 4:00 PM (2027-04-01)" }
@@ -102,7 +102,7 @@ downloads:
 draft: false
 ---
 
-**Kentucky's candidate filing deadline for 2027 offices is 4:00 PM on Friday, Jan. 8, 2027, the primary is Tuesday, May 18 and the general election is Tuesday, Nov. 2, according to the Kentucky State Board of Elections' "2027 Kentucky Election Calendar."** Signatures on candidate filing forms for a 2027 office may be gathered starting today, Wednesday, Nov. 4, 2026. The table below sets every primary and general election date side by side, with weekdays and times as the board prints them. The board's PDF carries no printed issue date; we read it on Nov. 4, 2026.
+**Kentucky's candidate filing deadline for 2027 offices is 4:00 PM on Friday, Jan. 8, 2027, the primary is Tuesday, May 18 and the general election is Tuesday, Nov. 2, according to the Kentucky State Board of Elections' "2027 Kentucky Election Calendar."** Signatures on candidate filing forms for a 2027 office have been gatherable since Wednesday, Nov. 4, 2026. The table below sets every primary and general election date side by side, with weekdays and times as the board prints them. The board's PDF carries no printed issue date; we read it on Nov. 4 and again on Nov. 14, 2026.
 
 ## Kentucky 2027 election dates: primary and general side by side
 
@@ -131,7 +131,7 @@ The calendar sets three candidate dates:
 - **Friday, Jan. 8, 2027, 4:00 PM:** the filing deadline for candidates who must run in the primary.
 - **Thursday, April 1, 2027, 4:00 PM:** the deadline for the statement of candidacy for independent and political organization candidates.
 
-From today, that is 65 days to the Jan. 8 deadline, 195 days to the May 18 primary and 363 days to the Nov. 2 general election.
+From Nov. 14, 2026, that is 55 days to the Jan. 8 deadline, 185 days to the May 18 primary and 353 days to the Nov. 2 general election.
 
 ## What are the Kentucky registration and party-change deadlines?
 

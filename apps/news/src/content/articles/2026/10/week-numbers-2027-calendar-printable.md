@@ -3,7 +3,7 @@ title: "Week Numbers 2027: Week 1 Starts Jan. 4, Printable Calendars"
 description: "Week numbers 2027: week 1 starts Monday, Jan. 4, and the year has 52 weeks. Every week's dates, the U.S. count and four free printable calendars."
 type: explainer
 publishedAt: "2026-10-18T11:40:00-04:00"
-updatedAt: "2026-11-05T19:20:00-05:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["week numbers 2027", "2027 calendar with week numbers", "what week is it", "ISO week number 2027", "how many weeks in 2027"]
@@ -17,10 +17,10 @@ summary:
   - "Under the international ISO 8601 standard, week 1 of 2027 runs from Monday, Jan. 4 to Sunday, Jan. 10, and 2027 has 52 weeks."
   - "Jan. 1 to 3, 2027 still belong to week 53 of 2026, because 2026 is a 53-week year."
   - "The U.S. system used by Excel's default WEEKNUM starts weeks on Sunday and counts the week of Jan. 1 as week 1, so it numbers 2027 up to week 53."
-  - "Thursday, Nov. 5, 2026, is in ISO week 45 (Monday, Nov. 2 to Sunday, Nov. 8)."
+  - "The rest of November 2026 is ISO weeks 46 to 49: week 46 runs Monday, Nov. 9 to Sunday, Nov. 15, and week 49 starts Monday, Nov. 30."
 faq:
   - q: "What week number is it today?"
-    a: "Thursday, Nov. 5, 2026, is in ISO week 45, which runs Monday, Nov. 2 to Sunday, Nov. 8; week 46 starts Monday, Nov. 9. Under the U.S. Sunday-start system it also falls in week 45, which began on Sunday, Nov. 1."
+    a: "Mid-November 2026 is ISO week 46, which runs Monday, Nov. 9 to Sunday, Nov. 15. Week 47 starts Monday, Nov. 16, week 48 on Nov. 23 and week 49 on Nov. 30. The U.S. Sunday-start system gives the same numbers for these weeks, with each week starting a day earlier."
   - q: "When does week 1 of 2027 start?"
     a: "Monday, Jan. 4, 2027, under ISO 8601. Week 1 is the week that contains the year's first Thursday, and in 2027 that Thursday is Jan. 7."
   - q: "How many weeks are in 2027?"
@@ -94,7 +94,16 @@ draft: false
 
 ## What week is it today?
 
-Thursday, Nov. 5, 2026, is in **ISO week 45** (Monday, Nov. 2 to Sunday, Nov. 8); week 46 starts Monday, Nov. 9. If your office counts weeks from Sunday, the U.S. way, Nov. 5 also falls in week 45, which began on Sunday, Nov. 1. In that count, week 1 of 2026 ran from Dec. 28, 2025, to Jan. 3, 2026.
+The week of Monday, Nov. 9 to Sunday, Nov. 15, 2026, is **ISO week 46**. The weeks after it:
+
+| ISO week | Monday to Sunday | U.S. week (Sunday start) |
+|---|---|---|
+| 46 | Nov. 9 to Nov. 15 | 46, from Sunday, Nov. 8 |
+| 47 | Nov. 16 to Nov. 22 | 47, from Sunday, Nov. 15 |
+| 48 | Nov. 23 to Nov. 29 | 48, from Sunday, Nov. 22 (Thanksgiving, Thursday, Nov. 26) |
+| 49 | Nov. 30 to Dec. 6 | 49, from Sunday, Nov. 29 |
+
+In the U.S. count, week 1 of 2026 ran from Dec. 28, 2025, to Jan. 3, 2026, so both systems give the same number for these weeks.
 
 ## How ISO week numbers work
 

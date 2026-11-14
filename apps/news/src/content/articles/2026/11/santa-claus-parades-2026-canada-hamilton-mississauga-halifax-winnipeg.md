@@ -3,7 +3,7 @@ title: "Santa Claus Parades in Canada 2026: Hamilton Nov. 14, Halifax Nov. 21"
 description: "Santa Claus parades in Canada 2026: Hamilton Nov. 14 at 2 p.m., Mississauga Nov. 21 at 6 p.m. A table by city with start points and a printable list."
 type: news
 publishedAt: "2026-11-04T13:57:00-05:00"
-updatedAt: "2026-11-08T23:26:00-05:00"
+updatedAt: "2026-11-14T15:12:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["santa claus parade 2026 canada", "hamilton santa claus parade 2026", "mississauga santa claus parade 2026", "santa claus parade near me ontario"]
@@ -41,7 +41,7 @@ sources:
   - title: "Hamilton Santa Claus Parade"
     url: "https://hamiltonsantaparade.com"
     publisher: "Hamilton Santa Claus Parade"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Be part of the magic: Apply to be a part of the 2026 Mississauga Santa Claus Parade"
     url: "https://www.mississauga.ca/?p=167627"
     publisher: "City of Mississauga"
@@ -49,11 +49,11 @@ sources:
   - title: "Holiday Parade of Lights"
     url: "https://discoverhalifaxns.com/holiday-parade-of-lights/"
     publisher: "Discover Halifax"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Homepage - Manitoba Hydro Santa Parade"
     url: "https://www.mbhydrosantaparade.com/"
     publisher: "Winnipeg Santa Claus Parade"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Home - Help Santa Toy Parade"
     url: "https://toyparade.ca/"
     publisher: "Help Santa Toy Parade"
@@ -65,7 +65,7 @@ sources:
   - title: "Get Festive! Find holiday events, parades, productions, and more in Nova Scotia"
     url: "https://www.novascotia.com/trip-ideas/stories/get-festive-holiday-events-parades-productions-nova-scotia"
     publisher: "Tourism Nova Scotia"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "The Parade - The Original Santa Claus Parade"
     url: "https://thesantaclausparade.com/the-parade/"
     publisher: "The Original Santa Claus Parade"
@@ -116,7 +116,7 @@ assets:
     group: santa-claus-parades-2026-canada
     title: "Santa Claus Parades 2026 in Canada: Dates and Times"
     subtitle: "Hamilton, Mississauga, Ottawa, Montreal, Toronto and Edmonton times; Halifax and Winnipeg details still to come"
-    note: "Source: Hamilton Santa Claus Parade (hamiltonsantaparade.com); City of Mississauga, Aug. 17, 2026; Help Santa Toy Parade (toyparade.ca); The Original Santa Claus Parade; Kingsway Holiday Parade; Montréal centre-ville. Checked Nov. 8, 2026."
+    note: "Source: Hamilton Santa Claus Parade (hamiltonsantaparade.com); City of Mississauga, Aug. 17, 2026; Help Santa Toy Parade (toyparade.ca); The Original Santa Claus Parade; Kingsway Holiday Parade; Montréal centre-ville. Checked Nov. 14, 2026."
     description: "A one-page list of the 2026 Santa Claus parades in Hamilton on Nov. 14, Mississauga and Ottawa on Nov. 21, with the cities still missing a time or date."
     alt: "Printable list of 2026 Santa Claus parades in Canada with dates and start times"
     data:
@@ -161,7 +161,7 @@ assets:
           quote: "November 22, 2026 In Person @ 12:30PM EST"
       unconfirmed:
         - { label: "Winnipeg start time", why: "Nov. 14; the site lists 5:00PM by the date but does not call it the start" }
-        - { label: "Halifax time and route", why: "Nov. 21; not announced as of Nov. 6, 2026" }
+        - { label: "Halifax time and route", why: "Nov. 21; not announced as of Nov. 14, 2026" }
 ---
 
 **Hamilton's Santa Claus Parade is on Saturday, Nov. 14, 2026 at 2 p.m., and Mississauga's follows on Saturday, Nov. 21 at 6 p.m.**, according to the organizer's site, hamiltonsantaparade.com, and the City of Mississauga. Winnipeg's parade is Nov. 14, Halifax's is Nov. 21, Edmonton's is Nov. 21 at 5:30 p.m. and Montreal's is Nov. 21 at 11 a.m. ET, each on its organizer's or Tourism Nova Scotia's page. Toronto's and Ottawa's have their own stories. Halifax's start time is the main detail still missing.
@@ -185,7 +185,7 @@ Weekdays are computed from the 2026 calendar: Nov. 14 and Nov. 21 are both Satur
 
 ## Hamilton Santa Claus Parade 2026: time and route
 
-The organizer's page says: "The parade begins at 2:00PM on Saturday November 14th 2026." It adds: "The parade will start at Upper Sherman and Acadia Drive." and "We will end at the South side parking lot. (outside of the old Hudson Bay)."
+The organizer's page says: "The parade begins at 2:00PM on Saturday November 14th 2026." It adds: "The parade will start at Upper Sherman and Acadia Drive." It then heads north on Upper Sherman to Limeridge Road and west to Lime Ridge Mall. The page adds: "We will end at the South side parking lot. (outside of the old Hudson Bay)."
 
 Route details can change before parade day, so check that page again before you go. It also says that Mission Services "will be collecting non-perishable food items and any financial donations."
 

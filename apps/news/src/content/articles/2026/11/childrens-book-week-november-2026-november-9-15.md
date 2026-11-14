@@ -3,7 +3,7 @@ title: "Children's Book Week November 2026: Nov. 9-15, Free Reading Log"
 description: "Children's Book Week runs Nov. 9-15, 2026, with the theme Books: Get Curious. A day-by-day table, a countdown and a free printable reading log."
 type: news
 publishedAt: "2026-11-08T06:56:00-05:00"
-updatedAt: "2026-11-08T06:56:00-05:00"
+updatedAt: "2026-11-14T15:12:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["children's book week november 2026", "children's book week 2026", "books get curious", "national young readers week 2026"]
@@ -12,7 +12,7 @@ assets:
   overlay: true
   kicker: "Children's Book Week · Nov. 9-15"
   date: "2026-11-09"
-  card: { top: "Children's Book Week 2026", big: "Mon., Nov. 9", bottom: "Theme: Books: Get Curious" }
+  card: { top: "Children's Book Week 2026", big: "Nov. 9-15", bottom: "Theme: Books: Get Curious" }
   printable:
     kit: activity-sheet
     slug: childrens-book-week-2026-reading-log
@@ -45,11 +45,9 @@ assets:
             - "Visit the library or a school book display"
             - "Ask the school or library what it has planned"
       unconfirmed:
-        - { label: "Organizer's official dates and slogan page", why: "everychildareader.net blocked (waiting room)" }
         - { label: "National Young Readers Week 2026 dates", why: "single source; another says Nov 9-15" }
-        - { label: "Free school resources", why: "official FAQ blocked" }
         - { label: "Activities by day", why: "no official schedule found" }
-    note: "Source: Video Librarian (Nov. 3, 2026); Delaware Division of Libraries, Children's Book Week guide; Publishers Weekly (Feb. 10, 2026). Check your own school or library for events."
+    note: "Source: Every Child a Reader (checked Nov. 14, 2026); Video Librarian (Nov. 3, 2026); Delaware Division of Libraries guide; Publishers Weekly (Feb. 10, 2026). Check your own school or library for events."
     description: "One-page Children's Book Week 2026 reading log for Nov. 9-15 with a daily tally, book lines and a plan checklist. Free printable from Fresh Calendars."
     alt: "Printable Children's Book Week 2026 reading log with a seven-day tally, lines for four books and a plan checklist"
 hero:
@@ -64,20 +62,28 @@ hero:
     author: "Alequihdez"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Alequihdez"
 summary:
-  - "Children's Book Week returns Monday, Nov. 9 through Sunday, Nov. 15, 2026, according to Video Librarian and a Delaware Division of Libraries guide."
-  - "The 2026 theme is \"Books: Get Curious,\" announced with a poster by Grace Lin, Publishers Weekly reported on Feb. 10, 2026."
+  - "Children's Book Week runs Monday, Nov. 9 through Sunday, Nov. 15, 2026, according to its organizer, Every Child a Reader."
+  - "The 2026 theme is \"Books: Get Curious,\" with a poster by Grace Lin; the organizer lists a free poster, coloring pages, bookmarks and a jingle."
   - "The spring 2026 edition was May 4-10, a separate week from the November one."
   - "National Young Readers Week dates for 2026 rest on one listing and are not confirmed here."
 faq:
   - q: "Is the spring Children's Book Week the same as the November one?"
     a: "No. Publishers Weekly gave May 4-10 for the spring 2026 edition. The November week is a separate set of dates, Nov. 9-15, so a poster or event dated May belongs to the earlier week."
   - q: "Can schools use free Children's Book Week resources?"
-    a: "Not confirmed. The organizer's FAQ and resource pages could not be opened when this story was written, and no other source we found says which resources are free."
+    a: "Yes. Every Child a Reader lists free resources for the 2026 slogan: the Grace Lin poster and coloring pages, bookmarks and activity pages from book creators, a Curiosity Book Club, coloring pages in 15 languages, a draw-your-own bookmark page, the Book Week jingle and 105 fun facts pages. It says they stay available through the summer and into the fall."
   - q: "Is there an official day-by-day schedule for Children's Book Week?"
-    a: "No official schedule turned up. The day table lists the seven calendar days only; ask your school or library what it has planned."
+    a: "No official schedule turned up on the organizer's pages we read. Its guidance is that schools, libraries and bookstores plan their own events, so the day table lists the seven calendar days only; ask your school or library what it has planned."
   - q: "What is National Young Readers Week?"
     a: "It is a reading observance listed for the same week. Sources disagree on its start year and sponsors, so none is given here."
 sources:
+  - title: "Celebrate in 2026"
+    url: "https://everychildareader.net/cbw/celebrate-2026/"
+    publisher: "Every Child a Reader"
+    date: "2026-11-14"
+  - title: "Children's Book Week Resources"
+    url: "https://everychildareader.net/cbw/cbw-resources/"
+    publisher: "Every Child a Reader"
+    date: "2026-11-14"
   - title: "Children's Book Week 2026: 10 Free Program Ideas for Libraries and Classrooms"
     url: "https://videolibrarian.com/articles/news/childrens-book-week-2026-activities/"
     publisher: "Video Librarian"
@@ -85,6 +91,7 @@ sources:
   - title: "Home - Children's Book Week: November 9-15, 2026 - LibGuides at Delaware Division of Libraries"
     url: "https://guides.lib.de.us/childrensbookweek"
     publisher: "Delaware Division of Libraries"
+    date: "2026-11-14"
   - title: "2026 Children's Book Week Poster Revealed"
     url: "https://www.publishersweekly.com/pw/by-topic/childrens/childrens-industry-news/article/99663-2026-children-s-book-week-poster-by-grace-lin-revealed.html"
     publisher: "Publishers Weekly"
@@ -107,7 +114,7 @@ downloads:
 draft: false
 ---
 
-**Children's Book Week runs Monday, Nov. 9 through Sunday, Nov. 15, 2026, according to Video Librarian (Nov. 3, 2026) and a Delaware Division of Libraries guide, and the 2026 theme is "Books: Get Curious," Publishers Weekly reported.** The seven-day table and countdown below show where the week sits on the calendar, and a free reading log covers the days.
+**Children's Book Week runs Monday, Nov. 9 through Sunday, Nov. 15, 2026, according to its organizer, Every Child a Reader, and the 2026 theme is "Books: Get Curious."** Video Librarian and a Delaware Division of Libraries guide give the same dates. The seven-day table and countdown below show where the week sits on the calendar, and a free reading log covers the days.
 
 ## Children's Book Week 2026 dates: November and spring editions
 
@@ -115,10 +122,10 @@ The week has two editions in 2026, and the dates differ.
 
 | Edition | 2026 dates | Source |
 |---|---|---|
-| November | Nov. 9-15 | Video Librarian, Nov. 3, 2026; Delaware Division of Libraries guide |
-| Spring | May 4-10 | Publishers Weekly, Feb. 10, 2026 |
+| November | Nov. 9-15 | Every Child a Reader; Video Librarian, Nov. 3, 2026; Delaware Division of Libraries guide |
+| Spring | May 4-10 | Every Child a Reader; Publishers Weekly, Feb. 10, 2026 |
 
-Only the November week is still ahead. Keep the two apart when you read posters or school notices: anything dated May 4-10 belongs to the spring edition. Nov. 9 is a Monday and Nov. 15 a Sunday. Our [November 2026 printable calendar](/november-calendars.html) shows both dates in the month.
+The spring week is over, and the November week ends Sunday, Nov. 15. Keep the two apart when you read posters or school notices: anything dated May 4-10 belongs to the spring edition. Nov. 9 is a Monday and Nov. 15 a Sunday. Our [November 2026 printable calendar](/november-calendars.html) shows both dates in the month.
 
 ## Countdown to Children's Book Week
 
@@ -147,26 +154,24 @@ The table counts the days from today to each day of the week. The "Day of the we
 | Nov. 14 | Saturday | Day 6 of 7 | 6 |
 | Nov. 15 | Sunday | Day 7 of 7: Children's Book Week ends | 7 |
 
-The static counts above are from Sunday, Nov. 8, 2026. For school dates around the week, see the [printable school calendar](/printable-school-calendar.html).
+The static counts above were set before the week began. For school dates around the week, see the [printable school calendar](/printable-school-calendar.html).
 
 ## What is the 2026 Children's Book Week theme?
 
-The theme is "Books: Get Curious." Publishers Weekly reported it on Feb. 10, 2026, in a story that also revealed the 2026 poster by Grace Lin. Video Librarian's Nov. 3 story on free program ideas for libraries and classrooms and the Delaware Division of Libraries guide use the same wording. The poster is Lin's work.
+The theme is "Books: Get Curious." Every Child a Reader, the organizer, calls it the 2026 slogan. Publishers Weekly reported it on Feb. 10, 2026, in a story that also revealed the 2026 poster by Grace Lin. Video Librarian's Nov. 3 story on free program ideas for libraries and classrooms and the Delaware Division of Libraries guide use the same wording.
+
+The organizer lists these free resources for the theme: the Grace Lin poster and coloring pages, bookmarks and activity pages from book creators, a Curiosity Book Club, "It's Book Week" coloring pages in 15 languages, a draw-your-own bookmark page, the Book Week jingle and 105 fun facts pages. It says they stay available through the summer and into the fall, so teachers and caregivers can still use them after the week ends.
 
 ## What is National Young Readers Week?
 
 National Young Readers Week is a reading observance listed for the same week. One calendar listing gives Monday, Nov. 9 through Friday, Nov. 13, 2026, while another is reported to run Nov. 9-15. No organizer page was reachable, so the end date is not confirmed here. Sources also disagree on when it began and who sponsors it, so no origin year is given.
 
-## Children's Book Week 2026 details not yet announced
+## Children's Book Week 2026 details we could not confirm
 
-The organizer's own website was behind a waiting room when this story was written, so these items rest on the trade and library sources above or are left out:
-
-- the organizer's wording of the dates and slogan,
-- which free resources schools can use, and whether any are free,
 - any day-by-day activity schedule,
 - the exact National Young Readers Week dates.
 
-A school or library that is taking part can say what it has planned. The two sources that give Nov. 9-15 are independent of each other: a trade magazine for libraries and a state library's guide.
+The organizer's pages we read list resources and ideas for groups, not a daily program. A school or library that is taking part can say what it has planned.
 
 ## Free Children's Book Week reading log to print
 

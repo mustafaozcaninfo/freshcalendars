@@ -3,7 +3,7 @@ title: "Lewes Polar Bear Plunge 2027: Sunday, Feb. 7 at 1:00 p.m."
 description: "The 36th Lewes Polar Bear Plunge is Sunday, Feb. 7, 2027, at 1:00 p.m. in Rehoboth Beach. See why 2026 was canceled, the incentives and a checklist."
 type: news
 publishedAt: "2026-11-04T07:10:00-05:00"
-updatedAt: "2026-11-04T07:10:00-05:00"
+updatedAt: "2026-11-14T15:43:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["lewes polar bear plunge 2027", "polar bear plunge 2027", "rehoboth beach polar plunge 2027", "polar plunge 2027 dates"]
@@ -22,7 +22,7 @@ summary:
   - "Special Olympics Delaware lists the 36th annual Lewes Polar Bear Plunge for Sunday, Feb. 7, 2027, at 1:00 p.m. in Rehoboth Beach."
   - "It is the first in-person plunge since 2025: the City of Rehoboth Beach canceled the 2026 plunge on Feb. 26, 2026, after a weather postponement."
   - "Official Bear status needs at least $100 raised; the site lists incentives from a hoodie at $100 to custom stained glass at $7,500."
-  - "Check-in times and places for 2027 are not yet announced. A printable plunge-day checklist is below."
+  - "The 2027 check-in schedule, subject to change, runs from Wed., Feb. 3 to plunge day, when check-in is 10:00 a.m. to 12:55 p.m. A printable checklist is below."
 faq:
   - q: "What time is the Lewes Polar Bear Plunge in 2027?"
     a: "The in-person plunge is Sunday, Feb. 7, 2027, at 1:00 p.m. in Rehoboth Beach, according to plungede.org."
@@ -38,18 +38,23 @@ sources:
   - title: "Plunge DE - Be Bold. Get Cold."
     url: "https://plungede.org/"
     publisher: "Special Olympics Delaware"
+    date: "2026-11-14"
   - title: "Frequently Asked Questions"
     url: "https://plungede.org/about/frequently-asked-questions/"
     publisher: "Special Olympics Delaware"
+    date: "2026-11-14"
   - title: "Registration"
     url: "https://plungede.org/resources/registration/"
     publisher: "Special Olympics Delaware"
+    date: "2026-11-14"
   - title: "Fundraising Incentives"
     url: "https://plungede.org/resources/fundraising-incentives/"
     publisher: "Special Olympics Delaware"
+    date: "2026-11-14"
   - title: "Schedule of Events"
     url: "https://plungede.org/weekend-festival/schedule-of-events/"
     publisher: "Special Olympics Delaware"
+    date: "2026-11-14"
   - title: "Maps and Parking"
     url: "https://plungede.org/resources/maps-parking/"
     publisher: "Special Olympics Delaware"
@@ -93,6 +98,11 @@ sources:
   - title: "Maryland State Police Polar Bear Plunge"
     url: "https://plungemd.com/"
     publisher: "Maryland State Police Polar Bear Plunge"
+    date: "2026-11-14"
+  - title: "2027 Check-In Schedule"
+    url: "https://plungede.org/wp-content/uploads/2026/08/2027-Check-In-Schedule-1.pdf"
+    publisher: "Special Olympics Delaware"
+    date: "2026-11-14"
 internalLinks:
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
@@ -127,13 +137,16 @@ assets:
         - text: "A virtual plunge is offered: backyard, schoolyard, any time, any place."
           src: 1
           quote: "Virtual – Backyard, schoolyard, any time, any place."
+        - text: "Plunge-day check-in is 10:00 a.m. to 12:55 p.m. at the tent near the bandstand on Rehoboth Ave, plunge only."
+          src: 19
+          quote: "Sunday, February 7, 2027 – PLUNGE DAY!!! 10:00 a.m. - 12:55 p.m. – Plunge ONLY Tent near the bandstand on Rehoboth Ave"
       activities:
         - type: checklist
           title: "Sign up and raise"
           items:
             - "Register on the GoFundMe Pro site or with the paper form"
             - "Raise at least $100 to be an Official Bear"
-            - "Plan where and when you check in (2027 times not yet announced)"
+            - "Check in Sun., Feb. 7, 10:00 a.m. to 12:55 p.m. (subject to change)"
         - type: checklist
           title: "Pack"
           items:
@@ -149,7 +162,7 @@ assets:
             - "Do not go near the jetties"
             - "Plunge with a friend: use the buddy system"
             - "No tents or drones on the beach"
-    note: "Source: Special Olympics Delaware, plungede.org (home, frequently asked questions, registration, fundraising incentives, tips for a bearable plunge). Checked Nov. 4, 2026."
+    note: "Source: Special Olympics Delaware, plungede.org (home, frequently asked questions, registration, fundraising incentives, tips for a bearable plunge, 2027 check-in schedule). Checked Nov. 14, 2026."
     description: "Printable checklist for the Lewes Polar Bear Plunge on Sunday, Feb. 7, 2027: sign-up steps, what to bring, arrival and the official safety rules."
     alt: "Checklist for the Lewes Polar Bear Plunge 2027 with sign-up, packing and safety rules"
 downloads:
@@ -177,9 +190,17 @@ The Plunge DE homepage lists "In-Person – Sunday, February 7, 2027 in Rehoboth
 | In-person plunge | Sunday, Feb. 7, 2027, 1:00 p.m., Rehoboth Beach | plungede.org homepage |
 | Edition | 36th annual Lewes Polar Bear Plunge | plungede.org homepage |
 | Virtual plunge | "Backyard, schoolyard, any time, any place." | plungede.org homepage |
-| Check-in times and places | Not yet announced for 2027 | plungede.org registration page |
+| Check-in, plunge day | 10:00 a.m. to 12:55 p.m., plunge only, tent near the bandstand on Rehoboth Ave (subject to change) | 2027 Check-In Schedule |
 
-The frequently asked questions page says to join "on the first Sunday in February at 1:00 p.m. in Rehoboth Beach" and "strongly recommend[s] taking advantage of one of the early check-in opportunities." As of Nov. 4, 2026, the 2027 check-in times are not posted; some pages say 2027 registration is still to be determined. The registration page tells plungers to "plan ahead when and where you will check in."
+The frequently asked questions page says to join "on the first Sunday in February at 1:00 p.m. in Rehoboth Beach" and "strongly recommend[s] taking advantage of one of the early check-in opportunities." The registration page tells plungers to "plan ahead when and where you will check in," and links a 2027 check-in schedule that the Plunge DE site says is subject to change.
+
+| Day | Time | What | Place |
+|---|---|---|---|
+| Wed., Feb. 3, 2027 | 9:00 a.m. to 6:00 p.m. | Plunge and/or 5K | Special Olympics Delaware office, 619 S. College Ave, Newark |
+| Fri., Feb. 5 | 4:00 to 7:00 p.m. | Plunge and/or 5K | Rehoboth Beach Convention Center, 229 Rehoboth Ave |
+| Sat., Feb. 6 | 8:30 to 9:55 a.m. | 5K only | Tent near the Bandstand on Rehoboth Ave |
+| Sat., Feb. 6 | 4:00 to 7:00 p.m. | Plunge only | Rehoboth Beach Convention Center |
+| Sun., Feb. 7 | 10:00 a.m. to 12:55 p.m. | Plunge only | Tent near the bandstand on Rehoboth Ave |
 
 ## Why was there no Lewes Polar Bear Plunge in 2026?
 
@@ -200,17 +221,22 @@ The site's history page gives these figures. It lists no 2026 total.
 
 ## What is the plunge-day schedule of events?
 
-The 2027 schedule is not yet announced. The schedule page lists these events without a year. Treat them as the most recent schedule the site lists, not as 2027 times.
+The schedule page lists these events without a year, so the festival times are not confirmed for 2027. Treat them as the most recent schedule the site lists. The check-in times above are the only 2027 festival times posted.
 
 | Time | Event | Place |
 |---|---|---|
-| 10:00 a.m. | 5K Run to the Plunge | Boardwalk at Rehoboth Avenue |
-| 10 a.m. to 3 p.m. | Sand sculpting demonstration | Beach in front of Candy Kitchen |
-| Noon to 2 p.m. | Fire & Ice Festivities | Atlantic Sands Hotel & Conference Center |
-| 2:30 to 5 p.m. | Restaurant chili contest | Not listed |
-| 4 to 7 p.m. | Registration & Souvenirs | Rehoboth Beach Convention Center |
+| Sat., 10:00 a.m. | 5K Run to the Plunge | Boardwalk at Rehoboth Avenue |
+| Sat., 10 a.m. to 3 p.m. | Sand sculpting demonstration | Beach in front of Candy Kitchen |
+| Sat., noon to 2 p.m. | Fire & Ice Festivities | Atlantic Sands Hotel & Conference Center |
+| Sat., 2:30 to 5 p.m. | Restaurant chili contest | At participating restaurants |
+| Sat., 4 to 7 p.m. | Registration & Souvenirs | Rehoboth Beach Convention Center |
+| Sun., 9 a.m. to noon | Ice sculpting demonstration | Tents on Rehoboth Ave near the bandstand |
+| Sun., 9 a.m. to 1 p.m. | Sand sculpting demonstration | Beach in front of Candy Kitchen |
+| Sun., 10:00 a.m. to 12:55 p.m. | Registration & Souvenirs | Tents on Rehoboth Ave near the bandstand |
+| Sun., 1:00 p.m. | Plunge | Rehoboth Beach |
+| Sun., 1:15 p.m. | Aprés Plunge Party | Rehoboth Beach Convention Center |
 
-The only 2027 time confirmed is the 1:00 p.m. plunge. The 2026 cancellation also covered the 5K Run to the Plunge, and no 2027 5K details are posted yet.
+The 1:00 p.m. plunge and the check-in times above are the 2027 times confirmed. The 2026 cancellation also covered the 5K Run to the Plunge. The 2027 check-in schedule lists 5K check-in on Saturday, Feb. 6, but no 2027 5K start time is posted.
 
 ## How do you register and what are the fundraising incentives?
 
@@ -243,11 +269,12 @@ These dates are confirmed on each organizer's own page. Times are the organizers
 | Plunge | Date | Time and place | Source |
 |---|---|---|---|
 | Polar Plunge MN, White Bear Lake | Saturday, Jan. 30, 2027 | Begins at 12:00 p.m. (subject to change), White Bear Lake County Park, 5050 Lake Avenue | plungemn.org |
+| Maryland State Police Polar Bear Plunge, Sandy Point State Park | Saturday, Jan. 30, 2027 | Open 10:00 a.m. to 4:00 p.m., plunges at 11 a.m. and 2 p.m. | plungemd.com |
 | Polar Plunge Chicago for Special Olympics Illinois | Sunday, March 7, 2027 | North Avenue Beach: 8:00 a.m. beach and registration open, 9:45 a.m. opening ceremony, 10:00 to 11:15 a.m. plunge waves | Special Children's Charities |
 | Polar Plunge MN, Big Lake | Saturday, March 20, 2027 | Begins at 12:00 p.m. (subject to change), Willy's On the Water, Big Lake, Minnesota | plungemn.org |
 
-Not yet announced on their own sites: the Coney Island Polar Bear Club New Year's Day 2027 plunge, which its site calls "the annual Coney Island Polar Bear New Year's Day Plunge, which is open to the public" without a time, and the Maryland State Police Polar Bear Plunge at Sandy Point, where plungemd.com showed no dates on Nov. 4, 2026. Our [printable yearly calendar](/printable-yearly-calendar.html) leaves room to add them once they post.
+Not yet announced on its own site: the Coney Island Polar Bear Club New Year's Day 2027 plunge, which its site calls "the annual Coney Island Polar Bear New Year's Day Plunge, which is open to the public" without a time. Our [printable yearly calendar](/printable-yearly-calendar.html) leaves room to add them once they post dates.
 
 ## Plunge-day checklist to print
 
-The printable "Lewes Polar Bear Plunge 2027 Checklist" lists the sign-up steps, the $100 minimum, what to bring, the arrival advice and the five safety rules from the tips page, with the Sunday, Feb. 7 plunge at 1:00 p.m. at the top. Recheck plungede.org for check-in times once they are posted.
+The printable "Lewes Polar Bear Plunge 2027 Checklist" lists the sign-up steps, the $100 minimum, what to bring, the plunge-day check-in window and the five safety rules from the tips page, with the Sunday, Feb. 7 plunge at 1:00 p.m. at the top. Recheck plungede.org before you go, because the check-in schedule is subject to change.

@@ -3,7 +3,7 @@ title: "MotoGP Calendar 2027: 22 Races From Buriram March 7 to Valencia"
 description: "The 2027 MotoGP calendar has 22 Grands Prix, Buriram on Mar. 7 to Valencia on Nov. 28. Weekend dates, time gaps to ET by venue and a printable."
 type: news
 publishedAt: "2026-11-08T17:38:00-05:00"
-updatedAt: "2026-11-08T17:38:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["MotoGP calendar 2027", "MotoGP 2027 schedule", "MotoGP 2027 race dates", "MotoGP Austin 2027"]
@@ -71,7 +71,7 @@ summary:
   - "The 2027 MotoGP season has 22 Grands Prix, from Thailand at Buriram on Sun., Mar. 7 to Valencia on Sun., Nov. 28, according to motogp.com."
   - "The United States round is at the Circuit of the Americas in Austin on Sun., Apr. 25, in a weekend that runs Apr. 23-25."
   - "Seven pairs of races fall on consecutive weekends, and the longest break is 28 days, from Czechia on July 18 to Great Britain on Aug. 15."
-  - "Session and race start times and the 2027 broadcasters are not yet announced."
+  - "ESPN is the exclusive U.S. rights holder for 2027 and 2028, motogp.com said on Nov. 12. Session and race start times and the UK broadcaster are not yet announced."
 faq:
   - q: "How many Sprints are there in 2027?"
     a: "One per Grand Prix weekend. motogp.com's blog says every weekend has a Saturday Sprint and a Sunday Grand Prix, and its Oct. 7, 2026 format story describes distinct grids for the Sprint and the Grand Prix at every round."
@@ -80,7 +80,7 @@ faq:
   - q: "When does MotoGP testing start before 2027?"
     a: "With the Valencia Test on Dec. 1, 2026. Next come a Sepang shakedown on Jan. 29-30, the Sepang Test on Jan. 31 and Feb. 1, and a Buriram test on Feb. 6-7, 2027."
   - q: "Which channel shows MotoGP in the U.S. and UK in 2027?"
-    a: "Not yet announced. motogp.com's calendar story does not name a 2027 broadcaster for either country."
+    a: "In the U.S., ESPN: motogp.com announced on Nov. 12, 2026 a two-year agreement making ESPN the exclusive U.S. rights holder through 2027 and 2028, with races live or on same-day delay on its networks. The UK broadcaster is not yet announced."
 sources:
   - title: "2027 MotoGP calendar revealed"
     url: "https://www.motogp.com/en/news/2026/09/25/2027-motogp-calendar-revealed/1092589"
@@ -102,6 +102,10 @@ sources:
     url: "https://www.motogp.com/en/news/2026/10/07/motogp-introduces-new-weekend-format-from-2027/1174695"
     publisher: "MotoGP"
     date: "2026-10-07"
+  - title: "MotoGP and ESPN announce multi-year broadcast agreement across the United States and Latin America"
+    url: "https://www.motogp.com/en/news/2026/11/12/motogp-and-espn-announce-multi-year-broadcast-agreement-across-the-united-states-and-latin-america/1185285"
+    publisher: "MotoGP"
+    date: "2026-11-12"
   - title: "What are the MotoGP rules? A complete overview"
     url: "https://www.motogp.com/en/news/2025/03/11/what-are-the-motogp-rules-a-complete-overview/521386"
     publisher: "MotoGP"
@@ -198,6 +202,6 @@ motogp.com's pre-season story of Sept. 2, 2026 lists the dates below. The Valenc
 
 Each weekend has a Saturday Sprint and a Sunday Grand Prix, according to motogp.com's blog. Under the format announced on Oct. 7, 2026, all riders take part in Grand Prix Qualifying 1 and the top 12 go through to GP Q2, which creates distinct grids for the Sprint and the Grand Prix at every round. For the machines, motogp.com's rules overview says engine size is to be reduced from 1000cc to 850cc, and a motogp.com notice of Mar. 6, 2025 says Pirelli will become the official tyre supplier from 2027.
 
-## What start times and broadcasters are not yet announced?
+## Who shows MotoGP in 2027, and what is not yet announced?
 
-No 2027 session or race start times are published. The motogp.com blog of Nov. 5, 2026 says European races typically start at 2 p.m. local time, which is usually 8 a.m. ET; that is a general pattern from the blog, not a 2027 timetable. The 2027 U.S. and UK broadcasters are also not yet announced. For another 2027 season list, see the [F1 calendar for 2027](/news/f1-calendar-2027-race-dates-sprint-weekends-printable/) and the [IndyCar schedule for 2027](/news/indycar-schedule-2027-17-races-indy-500-may-30/).
+No 2027 session or race start times are published. The motogp.com blog of Nov. 5, 2026 says European races typically start at 2 p.m. local time, which is usually 8 a.m. ET; that is a general pattern from the blog, not a 2027 timetable. On Nov. 12, 2026 motogp.com announced that ESPN becomes the exclusive U.S. media rights holder for 2027 and 2028, with Grands Prix on ESPN networks and platforms live or on same-day delay. The 2027 UK broadcaster is not yet announced. For another 2027 season list, see the [F1 calendar for 2027](/news/f1-calendar-2027-race-dates-sprint-weekends-printable/) and the [IndyCar schedule for 2027](/news/indycar-schedule-2027-17-races-indy-500-may-30/).

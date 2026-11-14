@@ -3,6 +3,7 @@ title: "NFL Week 17 Schedule 2026: New Year's Eve Game on Dec. 31"
 description: "NFL Week 17 schedule 2026: Ravens at Bengals opens on New Year's Eve, 8:15 p.m. ET. Four games have no date yet; the free pick'em sheet leaves lines blank."
 type: news
 publishedAt: "2026-11-02T17:13:00-05:00"
+updatedAt: "2026-11-14T15:44:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 17 schedule 2026", "NFL Saturday games January 2 2027", "NFL Week 17 pick em sheet printable", "NFL New Year's Eve game 2026"]
@@ -67,7 +68,7 @@ faq:
   - q: "Which teams have a bye in NFL Week 17 2026?"
     a: "None. NFL.com lists 16 games, so all 32 teams play."
   - q: "Which Week 17 games do not have a date yet?"
-    a: "Broncos at Patriots, Chiefs at Chargers, Rams at Buccaneers and Commanders at Jaguars. NFL.com says dates and times will be announced at a later date."
+    a: "Broncos at Patriots, Chiefs at Chargers, Rams at Buccaneers and Commanders at Jaguars. NFL.com says dates and times will be announced no later than immediately after Week 15."
   - q: "When is NFL Week 18 in 2026?"
     a: "The NFL's schedule release puts Week 18 on Sat., Jan. 9, and Sun., Jan. 10, 2027."
 downloads:
@@ -91,7 +92,7 @@ sources:
   - title: "NFL Week 17 Schedule 2026"
     url: "https://www.nfl.com/schedules/2026/by-week/week-17"
     publisher: "National Football League"
-    date: "2026-11-02"
+    date: "2026-11-14"
   - title: "NFL 2026 Schedule Announced"
     url: "https://media.nfl.com/football-information/2026/news/2026-nfl-schedule-announced"
     publisher: "National Football League"
@@ -147,7 +148,7 @@ Yes. Ravens at Bengals kicks off Thursday, Dec. 31, at 8:15 p.m. ET on Prime Vid
 
 Two, but NFL.com has not said which. Its Week 17 page says: "In Week 17, two of the four designated matchups will be played on Saturday at 4:30 PM ET on NBC and 8:00 PM ET on Peacock, with the remainder to be played either on Thursday night (8:15 PM ET), Sunday afternoon (1:00 PM ET and 4:25 PM ET), Sunday night (8:20 PM ET), or Monday night (8:15 PM ET)." Saturday is Jan. 2, 2027. NBC Insider describes the 4:30 p.m. ET slot as the "NFL Holiday Special" on NBC and Peacock and the 8 p.m. ET slot as a "Peacock NFL Exclusive."
 
-The Saturday matchups are not yet announced; NFL.com says only that the dates and start times of the designated games "will be determined and announced at a later date."
+The Saturday matchups are not yet announced; NFL.com says the dates and start times of the designated Week 17 games "will be determined and announced at a later date during the season, no later than immediately after Week 15." As of Nov. 14, 2026, the Week 17 page still shows all four as to be determined.
 
 | Saturday, Jan. 2, 2027 | Kickoff (ET) | TV |
 |---|---|---|

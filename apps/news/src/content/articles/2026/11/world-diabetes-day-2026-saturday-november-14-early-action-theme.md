@@ -3,6 +3,7 @@ title: "World Diabetes Day 2026: Saturday, Nov. 14, Early Action Theme"
 description: "World Diabetes Day is Saturday, Nov. 14, 2026, and the theme is Early action on diabetes. November dates, official counts and a free checklist."
 type: explainer
 publishedAt: "2026-10-31T23:40:00-04:00"
+updatedAt: "2026-11-14T15:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["world diabetes day 2026", "world diabetes day 2026 theme", "when is world diabetes day", "american diabetes month 2026"]
@@ -18,16 +19,15 @@ assets:
     title: "World Diabetes Day 2026 Early Action Checklist"
     subtitle: "November dates and early-diagnosis steps from IDF, WHO and ADA"
     notesLabel: "Questions for my health care provider"
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - { when: "Sun., Nov. 1", what: "American Diabetes Month begins (ADA campaign)", section: "November dates" }
-      - { when: "Mon., Nov. 9", what: "IDF webinar, 8:00-9:30 a.m. ET (14:00-15:30 CET)", section: "November dates" }
       - { when: "Sat., Nov. 14", what: "World Diabetes Day; Sir Frederick Banting born Nov. 14, 1891", section: "November dates" }
       - { when: "Mon., Nov. 30", what: "American Diabetes Month ends", section: "November dates" }
       - { when: "", what: "Take the ADA 60-Second Type 2 Diabetes Risk Test: diabetes.org/RiskTest", section: "Early action" }
       - { when: "", what: "Ask a health care provider about screening and early diagnosis", section: "Early action" }
       - { when: "", what: "Read the WHO World Diabetes Day 2026 campaign page", section: "Early action" }
-      - { when: "", what: "Register for the IDF webinar Early action on diabetes saves lives", section: "Early action" }
+      - { when: "", what: "Learn the common symptoms on the WHO page: increased thirst, frequent urination, tiredness, blurred vision", section: "Early action" }
     note: "Source: IDF; WHO; ADA; CDC; Veterans Affairs Canada. This sheet is not medical advice."
     description: "One-page World Diabetes Day 2026 checklist: November dates from Nov. 1 to Nov. 30 and early-action steps drawn from IDF, WHO and ADA pages."
     alt: "Printable World Diabetes Day 2026 early action checklist with November dates and tick boxes for early-diagnosis steps"
@@ -44,7 +44,7 @@ hero:
 summary:
   - "World Diabetes Day is Saturday, Nov. 14, 2026. The International Diabetes Federation (IDF) gives the theme as Early action on diabetes for 2026-27, with a focus on early diagnosis and risk reduction."
   - "Nov. 14 is the birthday of Sir Frederick Banting, born in 1891; 2026 is his 135th. The day was created in 1991 and became a United Nations day through a resolution adopted in December 2006."
-  - "In the U.S., the American Diabetes Association (ADA) runs its American Diabetes Month campaign throughout November. The IDF webinar is Monday, Nov. 9, 8:00-9:30 a.m. Eastern Time (ET)."
+  - "In the U.S., the American Diabetes Association (ADA) runs its American Diabetes Month campaign throughout November. The IDF held its webinar on Monday, Nov. 9."
   - "Official counts differ by source: the Centers for Disease Control and Prevention (CDC) says 40.1 million in the U.S. in 2023; the IDF says 589 million adults worldwide."
 faq:
   - q: "What is the date of World Diabetes Day in 2026?"
@@ -61,9 +61,11 @@ sources:
   - title: "World Diabetes Day"
     url: "https://worlddiabetesday.org/"
     publisher: "International Diabetes Federation"
+    date: "2026-11-14"
   - title: "World Diabetes Day 2026"
     url: "https://www.who.int/campaigns/world-diabetes-day/2026"
     publisher: "World Health Organization"
+    date: "2026-11-14"
   - title: "World Diabetes Day 2026: how to get involved (webinar)"
     url: "https://idf.org/news-and-resources/webinars/world-diabetes-day-2026-how-to-get-involved/"
     publisher: "International Diabetes Federation"
@@ -113,14 +115,6 @@ downloads:
     pdf: "/news/downloads/world-diabetes-day-2026/world-diabetes-day-2026-early-action-checklist.pdf"
     png: "/news/downloads/world-diabetes-day-2026/world-diabetes-day-2026-early-action-checklist.png"
     pages: 1
-  - group: "World Diabetes Day 2026 Early Action Checklist printables"
-    title: "World Diabetes Day 2026 Early Action Checklist (ink saver)"
-    description: "One-page World Diabetes Day 2026 checklist: November dates from Nov. 1 to Nov. 30 and early-action steps drawn from IDF, WHO and ADA pages. Ink-saver version."
-    preview: ../../../../assets/news/world-diabetes-day-2026/world-diabetes-day-2026-early-action-checklist-ink.png
-    alt: "Printable World Diabetes Day 2026 early action checklist with November dates and tick boxes for early-diagnosis steps, ink-saver version"
-    pdf: "/news/downloads/world-diabetes-day-2026/world-diabetes-day-2026-early-action-checklist-ink.pdf"
-    png: "/news/downloads/world-diabetes-day-2026/world-diabetes-day-2026-early-action-checklist-ink.png"
-    pages: 1
 draft: false
 ---
 
@@ -128,7 +122,7 @@ draft: false
 
 ## What is the World Diabetes Day 2026 theme?
 
-The IDF names "Early action on diabetes" as the theme for World Diabetes Day 2026-27, with the focus on early diagnosis and risk reduction. The World Health Organization (WHO) campaign page says the theme highlights the importance of earlier diagnosis and access to comprehensive care.
+The IDF names "Early action on diabetes" as the theme for World Diabetes Day 2026-27, with the focus on early diagnosis and risk reduction. It lists 307 activities in 72 countries and territories on its site. The World Health Organization (WHO) campaign page says the theme highlights the importance of earlier diagnosis, access to comprehensive care and reducing diabetes stigma. It names increased thirst, frequent urination, tiredness and blurred vision as common symptoms, and says one global target is for 80% of people with diabetes to be diagnosed by 2030.
 
 ## Which dates matter in November 2026?
 
@@ -137,7 +131,7 @@ Nov. 14 falls on a Saturday. American Diabetes Month, the U.S. campaign, covers 
 | Date | What | Source |
 |---|---|---|
 | Sun., Nov. 1 | American Diabetes Month begins | American Diabetes Association (ADA) |
-| Mon., Nov. 9 | IDF webinar "Early action on diabetes saves lives," 8:00-9:30 a.m. Eastern Time (ET) | IDF |
+| Mon., Nov. 9 | IDF webinar "Early action on diabetes saves lives," held 8:00-9:30 a.m. Eastern Time (ET) | IDF |
 | Sat., Nov. 14 | World Diabetes Day; Sir Frederick Banting's 135th birthday | IDF; WHO; Veterans Affairs Canada |
 | Mon., Nov. 30 | American Diabetes Month ends | ADA |
 
@@ -166,10 +160,12 @@ The counts below come from different agencies, so they do not match. The IDF cou
 | IDF Diabetes Atlas, 11th edition (Apr. 7, 2025) | 589 million; 252 million unaware | Adults aged 20-79 worldwide; projected 853 million by 2050 |
 | WHO fact sheet (updated Nov. 14, 2024) | 830 million; 14% of adults | Adults 18 and older, 2022, up from 200 million in 1990 |
 | WHO fact sheet | 1.6 million deaths | Directly caused by diabetes, 2021 |
+| WHO campaign page, World Diabetes Day 2026 | More than 40% undiagnosed | People living with diabetes worldwide; the page states no year |
+| IDF, World Diabetes Day site | 635 million at high risk of type 2 diabetes | Adults worldwide; the page states no year |
 
 ## What is on the early action checklist?
 
-The printable has the four November dates above and four early-action steps taken from the sources: take the ADA risk test, ask a health care provider about screening, read the WHO campaign page and register for the IDF webinar. Early diagnosis is the campaign focus, and a provider is the person to ask whether screening fits you. This story and the sheet give no medical advice beyond what the sources say. The sheet also comes in an ink-saver version, and it ties in with our [printable monthly calendar](/printable-monthly-calendar.html).
+The printable has three November dates from the table above and four early-action steps taken from the sources: take the ADA risk test, ask a health care provider about screening, read the WHO campaign page and learn the common symptoms the WHO lists. Early diagnosis is the campaign focus, and a provider is the person to ask whether screening fits you. This story and the sheet give no medical advice beyond what the sources say. The sheet ties in with our [printable monthly calendar](/printable-monthly-calendar.html).
 
 For other health awareness days this month, see the [Great American Smokeout planner](/news/great-american-smokeout-2026-november-19-quit-day-planner/) and the [World Kindness Day planner](/news/world-kindness-day-2026-friday-november-13-kindness-dates-printable/). The full month is in our [November 2026 important dates](/news/november-2026-important-dates-days-until/) list.
 

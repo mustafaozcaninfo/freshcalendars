@@ -3,7 +3,7 @@ title: "SAT Dec. 5, 2026: Register by Nov. 20, Scores Dec. 18"
 description: "The SAT is Sat., Dec. 5, 2026; register by Nov. 20 (late Nov. 24). Scores reach students Dec. 18. Includes a day-by-day countdown and a printable sheet."
 type: news
 publishedAt: "2026-11-04T08:48:00-05:00"
-updatedAt: "2026-11-04T08:48:00-05:00"
+updatedAt: "2026-11-14T15:07:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["sat december 2026", "december sat scores release date", "sat december 5 2026", "sat registration deadline december 2026"]
@@ -29,7 +29,7 @@ assets:
     group: sat-december-2026
     title: "SAT December 5, 2026 Deadlines and Test Day Checklist"
     subtitle: "Registration, change, test day and score dates"
-    note: "Source: College Board, December 5, 2026 SAT Test Date, SAT Suite Test Dates and Deadlines, SAT Test Fees, What to Expect on Test Day, What to Bring on SAT Test Day and Score Release Dates, read Nov. 4, 2026. Deadlines expire at 11:59 p.m. ET. Thu., Dec. 3 is our computation."
+    note: "Source: College Board, December 5, 2026 SAT Test Date, SAT Suite Test Dates and Deadlines, SAT Test Fees, What to Expect on Test Day, What to Bring on SAT Test Day and Score Release Dates, read Nov. 14, 2026. Deadlines expire at 11:59 p.m. ET. Thu., Dec. 3 is our computation."
     description: "A one-page sheet of the College Board deadlines, fees, test-day items and score release dates for the Saturday, Dec. 5, 2026 SAT."
     alt: "Printable grid of SAT deadlines, fees, test-day items and score dates for the Dec. 5, 2026 test"
     data:
@@ -85,39 +85,39 @@ sources:
   - title: "December 5, 2026 SAT Test Date - SAT Suite | College Board"
     url: "https://satsuite.collegeboard.org/dates/december-5-2026-sat-test-date"
     publisher: "College Board"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "SAT Suite Test Dates and Deadlines"
     url: "https://satsuite.collegeboard.org/sat/dates-deadlines"
     publisher: "College Board"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "SAT Test Fees"
     url: "https://satsuite.collegeboard.org/sat/registration/fees-refunds/test-fees"
     publisher: "College Board"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Canceling Your SAT Registration"
     url: "https://satsuite.collegeboard.org/sat/registration/change-cancel/canceling-registration"
     publisher: "College Board"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Fall 2026 Score Release Dates for SAT Weekend"
     url: "https://satsuite.collegeboard.org/scores/score-release-dates"
     publisher: "College Board"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "What to Expect on Test Day"
     url: "https://satsuite.collegeboard.org/sat/what-to-bring-do/what-to-expect"
     publisher: "College Board"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "What to Bring on SAT Test Day"
     url: "https://satsuite.collegeboard.org/sat/what-to-bring-do/what-to-bring"
     publisher: "College Board"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Sunday Testing"
     url: "https://satsuite.collegeboard.org/sat/registration/additional-registration-options/sunday-testing"
     publisher: "College Board"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "March 6, 2027 SAT Test Date"
     url: "https://satsuite.collegeboard.org/dates/march-6-2027-sat-test-date"
     publisher: "College Board"
-    date: "2026-11-04"
+    date: "2026-11-14"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -140,16 +140,16 @@ The SAT is on Saturday, Dec. 5, 2026, and College Board's [test date page](https
 
 ## Dates to mark from Nov. 20 to Dec. 21
 
-The days left are counted from Wednesday, Nov. 4, 2026 (our math). Thu., Dec. 3 is our computation from College Board's rule that a late cancellation must come "by Thursday 11:59 p.m. ET before test day."
+The days left are counted from Saturday, Nov. 14, 2026 (our math). Thu., Dec. 3 is our computation from College Board's rule that a late cancellation must come "by Thursday 11:59 p.m. ET before test day."
 
-| Date | Step | Days left from Nov. 4 | What missing it costs |
+| Date | Step | Days left from Nov. 14 | What missing it costs |
 |---|---|---|---|
-| Fri., Nov. 20 | Registration deadline | 16 | Late registration fee of $38 if you register by Nov. 24 |
-| Tue., Nov. 24 | Deadline for changes, regular cancellation and late registration | 20 | After this, a cancellation is a late cancel at $44 |
-| Thu., Dec. 3 | Last day to cancel late (computed) | 29 | After this, College Board lists no later cancellation date |
-| Sat., Dec. 5 | Test day: doors close at 8 a.m. | 31 | Late or absent students register again and pay standard fees |
-| Fri., Dec. 18 | Scores to students | 44 | Not applicable |
-| Mon., Dec. 21 | Scores to the K-12 educator portal | 47 | Not applicable |
+| Fri., Nov. 20 | Registration deadline | 6 | Late registration fee of $38 if you register by Nov. 24 |
+| Tue., Nov. 24 | Deadline for changes, regular cancellation and late registration | 10 | After this, a cancellation is a late cancel at $44 |
+| Thu., Dec. 3 | Last day to cancel late (computed) | 19 | After this, College Board lists no later cancellation date |
+| Sat., Dec. 5 | Test day: doors close at 8 a.m. | 21 | Late or absent students register again and pay standard fees |
+| Fri., Dec. 18 | Scores to students | 34 | Not applicable |
+| Mon., Dec. 21 | Scores to the K-12 educator portal | 37 | Not applicable |
 
 Fees come from College Board's [SAT test fees page](https://satsuite.collegeboard.org/sat/registration/fees-refunds/test-fees), which is labeled "Fees Through June 2027." "Additional fees may apply" to late registration, according to the test date page; the fees page lists $38.
 

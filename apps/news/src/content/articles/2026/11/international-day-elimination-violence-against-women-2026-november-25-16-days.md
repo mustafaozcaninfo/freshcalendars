@@ -3,7 +3,7 @@ title: "Violence Against Women Day 2026: Nov. 25, 16 Days to Dec. 10"
 description: "The UN marks the International Day for the Elimination of Violence against Women on Wed., Nov. 25, 2026; the 16 Days run to Dec. 10. Hotline and calendar."
 type: explainer
 publishedAt: "2026-11-04T12:39:00-05:00"
-updatedAt: "2026-11-04T12:39:00-05:00"
+updatedAt: "2026-11-14T15:33:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["international day for the elimination of violence against women 2026", "16 days of activism 2026", "orange the world 2026", "november 25 orange day"]
@@ -73,7 +73,7 @@ hero:
 summary:
   - "The International Day for the Elimination of Violence against Women is Wednesday, Nov. 25, 2026, per the United Nations (UN) observance page."
   - "The 16 Days of Activism run from Nov. 25 to Dec. 10, 2026, ending on Human Rights Day. Counted inclusively, that is 16 days."
-  - "UN Women Asia-Pacific gives the 2026 theme as 'UNiTE to End Violence Against Women and Girls: Ensure justice, protect survivors, end impunity.'"
+  - "UN Women gives the 2026 theme as 'UNiTE to End Violence Against Women and Girls: Ensure justice, protect survivors, end impunity.'"
   - "In the U.S., the National Domestic Violence Hotline is 1-800-799-7233; text Start to 88788."
 faq:
   - q: "When is the International Day for the Elimination of Violence against Women in 2026?"
@@ -81,7 +81,7 @@ faq:
   - q: "What are the 16 Days of Activism in 2026?"
     a: "UN Women Asia-Pacific says to mark the 16 Days of Activism against Gender-Based Violence from 25 November to 10 December 2026."
   - q: "What is the 2026 theme?"
-    a: "UN Women Asia-Pacific gives 'UNiTE to End Violence Against Women and Girls: Ensure justice, protect survivors, end impunity.' We found no separate global theme page."
+    a: "UN Women's campaign page and its Asia-Pacific office both give 'UNiTE to End Violence Against Women and Girls: Ensure justice, protect survivors, end impunity.' The UN observance page still shows the 2025 theme."
   - q: "What is Orange the World?"
     a: "UN Women says it calls on people everywhere to wear the colour orange and take action to end violence against women and girls."
   - q: "Who can I call in the United States?"
@@ -90,7 +90,7 @@ sources:
   - title: "International Day for the Elimination of Violence against Women"
     url: "https://www.un.org/en/observances/ending-violence-against-women-day"
     publisher: "United Nations"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "16 Days of Activism 2026: Ensure justice, protect survivors, end impunity"
     url: "https://asiapacific.unwomen.org/en/stories/announcement/2026/08/16-days-of-activism-2026"
     publisher: "UN Women Asia-Pacific"
@@ -99,6 +99,10 @@ sources:
     url: "https://www.haut-conseil-egalite.gouv.fr/resolution-54134-de-lassemblee-generale-des-nations-unies-adoptee-le-17-decembre-1999-0"
     publisher: "High Council for Equality between Women and Men (France)"
     date: "2026-11-04"
+  - title: "16 Days of Activism 2026: Ensure justice, protect survivors, end impunity"
+    url: "https://www.unwomen.org/en/what-we-do/ending-violence-against-women/unite/theme"
+    publisher: "UN Women"
+    date: "2026-11-14"
   - title: "Orange the World"
     url: "https://www.unwomen.org/en/what-we-do/ending-violence-against-women/unite/orange-the-world"
     publisher: "UN Women"
@@ -137,7 +141,7 @@ downloads:
 draft: false
 ---
 
-**The International Day for the Elimination of Violence against Women is Wednesday, Nov. 25, 2026,** according to the United Nations (UN) observance page, and the 16 Days of Activism that start that day run to Dec. 10. Below are all 16 days on a calendar with the UN days inside the span, the 2026 theme as UN Women Asia-Pacific gives it, and a free printable.
+**The International Day for the Elimination of Violence against Women is Wednesday, Nov. 25, 2026,** according to the United Nations (UN) observance page, and the 16 Days of Activism that start that day run to Dec. 10. Below are all 16 days on a calendar with the UN days inside the span, the 2026 theme as UN Women gives it, and a free printable.
 
 > **If you need help in the United States:** the National Domestic Violence Hotline is 1-800-799-7233. You can also text the word "Start" to 88788, according to the hotline's [Get help page](https://www.thehotline.org/get-help/).
 
@@ -158,9 +162,9 @@ Nov. 25 is a fixed date, so the weekday moves. We calculated it for the next fiv
 
 ## What is the 2026 theme?
 
-UN Women Asia-Pacific, a regional UN Women office, published an announcement dated 21 August 2026. It says: "From 25 November to 10 December 2026, mark the 16 Days of Activism against Gender-Based Violence." It gives the theme as "UNiTE to End Violence Against Women and Girls: Ensure justice, protect survivors, end impunity."
+UN Women's global campaign page says: "From 25 November to 10 December 2026, mark the 16 Days of Activism against Gender-Based Violence under the theme: 'UNiTE to End Violence Against Women and Girls: Ensure justice, protect survivors, end impunity.'" Its Asia-Pacific office, a regional UN Women office, published the same theme in an announcement dated 21 August 2026.
 
-We found no separate global 2026 theme page, so the title above is the regional office's. The UN observance page still shows the 2025 theme, "UNiTE to End Digital Violence against Women and Girls."
+The UN observance page still shows the 2025 theme, "UNiTE to End Digital Violence against Women and Girls."
 
 ## Which days fall inside the 16 Days of Activism?
 

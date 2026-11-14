@@ -3,7 +3,7 @@ title: "Tax Day 2027: Thursday, April 15, Plus a Live Countdown"
 description: "Tax Day 2027 is Thursday, April 15, for 2026 federal returns. See a live countdown and every 2027 IRS due date for individuals and small businesses."
 type: explainer
 publishedAt: "2026-10-20T01:30:00-04:00"
-updatedAt: "2026-11-06T17:19:00-05:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["tax deadline 2027 date", "tax deadline 2027", "2027 tax calendar", "when are taxes due 2027", "tax day 2027"]
@@ -52,6 +52,10 @@ sources:
   - title: "Rev. Proc. 2026-35 (tax year 2027 inflation adjustments)"
     url: "https://www.irs.gov/pub/irs-drop/rp-26-35.pdf"
     publisher: "Internal Revenue Service"
+  - title: "401(k) limit increases to $25,500 for 2027, IRA limit remains $7,500 (IR-2026-136)"
+    url: "https://www.irs.gov/newsroom/401k-limit-increases-to-25500-for-2027-ira-limit-remains-7500"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-12"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
@@ -146,12 +150,13 @@ Washington, D.C.'s Emancipation Day can push Tax Day when April 15 falls on a we
 
 On Nov. 5, 2026, the IRS released the tax year 2027 inflation adjustments in news release IR-2026-133 and Rev. Proc. 2026-35. The release says the adjustments "generally apply to tax returns filed in 2028," so the return due April 15, 2027 still uses the 2026 figures: a $16,100 standard deduction for single filers, $24,150 for heads of household and $32,200 for married couples filing jointly (Rev. Proc. 2025-32). For 2027, the standard deduction is $16,600 for single filers and married couples filing separately, $24,925 for heads of household and $33,200 for married couples filing jointly, up $1,000 from 2026. The top rate stays 37%, for single income over $661,375 and married filing jointly over $793,650. See the [2027 tax brackets and contribution limits](/news/2027-tax-brackets-401k-hsa-limits-irs/) for the full figures.
 
-Two items are still pending as of Nov. 6, 2026:
+On Nov. 12, 2026, the IRS announced in news release IR-2026-136 and Notice 2026-66 that the 2027 401(k) limit rises to $25,500, up from $24,500 for 2026, and that the IRA limit remains $7,500. The 2027 catch-up limit for workers 50 and older in most 401(k) plans is $8,500, which makes $34,000 the usual total for that age group. Those limits apply to 2027 contributions, not to the 2026 IRA contributions that are due April 15, 2027.
 
-- **The 2027 401(k) and IRA contribution limits.** The IRS announces them in a separate fall notice. The 2026 limits came out on Nov. 13, 2025.
+One item is still pending as of Nov. 14, 2026:
+
 - **The start of filing season.** The date the 2027 filing season opens is not yet announced.
 
-We will update this story when the IRS publishes both.
+We will update this story when the IRS publishes it.
 
 ## Planning the year
 

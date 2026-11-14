@@ -3,7 +3,7 @@ title: "National Day of Mourning 2026: Noon Nov. 26 on Cole's Hill, Livestream"
 description: "National Day of Mourning 2026 is Thursday, Nov. 26 at noon ET on Cole's Hill in Plymouth. Start time in every U.S. time zone and the livestream."
 type: news
 publishedAt: "2026-11-07T07:15:00-05:00"
-updatedAt: "2026-11-07T07:15:00-05:00"
+updatedAt: "2026-11-14T15:08:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national day of mourning 2026", "national day of mourning plymouth", "national day of mourning livestream", "day of mourning thanksgiving 2026"]
@@ -36,9 +36,9 @@ assets:
             - "Thursday, November 26, 2026"
             - "12:00 Noon"
       unconfirmed:
-        - { label: "Livestream start time", why: "UAINE had not posted one as of Nov. 7, 2026" }
-        - { label: "March route", why: "UAINE had not published a detailed route as of Nov. 7, 2026" }
-        - { label: "Bus details", why: "UAINE says details are to be announced" }
+        - { label: "Livestream start time", why: "UAINE had not posted one as of Nov. 14, 2026" }
+        - { label: "March route", why: "UAINE had not published a detailed route as of Nov. 14, 2026" }
+        - { label: "Bus details", why: "UAINE still lists details as to be announced (Nov. 14, 2026)" }
 hero:
   src: ../../../../assets/news/national-day-of-mourning-2026-plymouth-november-26/national-day-of-mourning-2026-plymouth-november-26.webp
   alt: "Grass slope and stone stairs of Cole's Hill in Plymouth, Massachusetts, site of the National Day of Mourning 2026"
@@ -70,14 +70,14 @@ sources:
   - title: "United American Indians of New England - UAINE (National Day of Mourning)"
     url: "https://www.uaine.org"
     publisher: "United American Indians of New England (UAINE)"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "National Day of Mourning Monument (1998)"
     url: "https://plimoth.org/yath/unit-5/national-day-of-mourning-monument-1998"
     publisher: "Plimoth Patuxet Museums"
-  - title: "America's Hometown Thanksgiving Celebration"
-    url: "https://usathanksgiving.com"
+  - title: "Thanksgiving Parade event information"
+    url: "https://usathanksgiving.com/events/parade/"
     publisher: "America's Hometown Thanksgiving Celebration"
-    date: "2026-11-07"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -131,21 +131,21 @@ UAINE lists these requests for the outdoor program in Plymouth:
 - No eating at the outdoor speak-out or march, unless for medical reasons, out of respect for participants who are fasting.
 - Dress for the weather.
 
-UAINE says it welcomes non-Native supporters. After the march, box lunches (turkey and vegan) will be available, with no full sit-down social.
+UAINE says it welcomes non-Native supporters. After the march, box lunches (turkey and vegan) will be available, with no full sit-down social, and UAINE t-shirts will be for sale following the march.
 
 ## What access and travel details has UAINE announced?
 
 For access, UAINE says it has chairs for Elders and others who need to sit during the initial rally, will try to have a couple of cars for people who cannot walk the full march route, and will have American Sign Language (ASL) interpreters on stage.
 
-For travel, UAINE says there will likely be two buses from New York City and likely one bus from Jamaica Plain (Boston). Details are to be announced; the organizer's [Facebook event](https://www.facebook.com/share/19bteju1GY/) carries bus information. On the march, UAINE says the town agreed in the settlement of Oct. 19, 1998 that UAINE may march on the day without a permit as long as it gives the town advance notice.
+For travel, UAINE says there will likely be two buses from New York City and likely one bus from Jamaica Plain (Boston). Details are still to be announced as of Nov. 14; the organizer's [Facebook event](https://www.facebook.com/share/19bteju1GY/) carries bus information. On the march, UAINE says the town agreed in the settlement of Oct. 19, 1998 that UAINE may march on the day without a permit as long as it gives the town advance notice.
 
 ## What else is happening in Plymouth that week?
 
-America's Hometown Thanksgiving Celebration lists its parade in Plymouth for Saturday, Nov. 21, 2026; the start time is not yet posted. The parade is a separate event from the National Day of Mourning.
+America's Hometown Thanksgiving Celebration lists its parade in Plymouth for Saturday, Nov. 21, 2026, with opening ceremonies at 9:00 a.m. and the step-off at 10:00 a.m. at Plymouth Rock. The parade is a separate event from the National Day of Mourning.
 
 | Date | Event | Source |
 |---|---|---|
-| Sat., Nov. 21 | America's Hometown Thanksgiving Parade, Plymouth (start time not yet posted) | America's Hometown Thanksgiving Celebration |
+| Sat., Nov. 21 | America's Hometown Thanksgiving Parade, Plymouth, step-off 10 a.m. at Plymouth Rock | America's Hometown Thanksgiving Celebration |
 | Thu., Nov. 26 | National Day of Mourning, noon ET, Cole's Hill | UAINE |
 | Fri., Nov. 27 | Native American Heritage Day | See our [Native American Heritage Day guide](/news/native-american-heritage-day-2026-friday-november-27-heritage-month/) |
 

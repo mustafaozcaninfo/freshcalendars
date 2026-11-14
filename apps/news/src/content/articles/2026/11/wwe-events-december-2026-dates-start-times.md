@@ -1,8 +1,9 @@
 ---
 title: "WWE Events December 2026: Perth Dec. 12, John Cena Classic Dec. 14"
-description: "World Wrestling Entertainment (WWE) lists Wrestlepalooza: Perth for Sat., Dec. 12 and John Cena Classic for Mon., Dec. 14, 6 p.m. ET. Venues and times."
+description: "World Wrestling Entertainment (WWE) lists Wrestlepalooza: Perth for Sat., Dec. 12 at 6:30 p.m. local and the John Cena Classic Dec. 14, 6 p.m. ET."
 type: news
 publishedAt: "2026-11-06T16:42:00-05:00"
+updatedAt: "2026-11-14T15:58:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["wwe december 2026 schedule", "wwe events december 2026", "wwe john cena classic date", "wrestlepalooza perth 2026 time"]
@@ -18,13 +19,13 @@ hero:
     author: "-wuppertaler"
     authorUrl: "https://commons.wikimedia.org/wiki/User:-wuppertaler"
 summary:
-  - "WWE lists Wrestlepalooza: Perth for Saturday, Dec. 12, 2026, at RAC Arena in Perth, streaming live on the ESPN App in the United States; WWE has not posted a start time."
+  - "WWE lists Wrestlepalooza: Perth for Saturday, Dec. 12, 2026, at RAC Arena in Perth, streaming live on the ESPN App in the United States; WWE's event page lists 6:30 p.m. local time, which is 5:30 a.m. ET."
   - "The John Cena Classic is Monday, Dec. 14, at 6:00 p.m. at ESPN Wide World of Sports in Orlando, and WWE says it streams live on Netflix as a special edition of Raw."
   - "Worlds Collide: Doomsday follows on Tuesday, Dec. 15 at 7:30 p.m., and Lucha Libre AAA Worldwide (AAA) has Guerra de Titanes on Saturday, Dec. 19 at 7:00 p.m. in Guadalajara."
   - "The table below puts every confirmed December date, venue and local time in one place, with Eastern, Pacific and Greenwich Mean Time conversions."
 faq:
   - q: "What time is Wrestlepalooza: Perth on Dec. 12, 2026?"
-    a: "WWE has not posted a confirmed start time as of Nov. 6, 2026. WWE's page says it streams live on Saturday, Dec. 12, exclusively on the ESPN App in the United States and on Netflix internationally."
+    a: "WWE's event page lists Saturday, Dec. 12 at 6:30 PM at RAC Arena in Perth, which is 5:30 a.m. ET, 2:30 a.m. PT and 10:30 GMT by our conversion. WWE's page says it streams live exclusively on the ESPN App in the United States and on Netflix internationally."
   - q: "What time is the John Cena Classic?"
     a: "WWE's event page lists Monday, Dec. 14 at 6:00 PM at ESPN Wide World of Sports in Orlando. By our conversion that is 3 p.m. Pacific Time (PT) and 11 p.m. Greenwich Mean Time (GMT)."
   - q: "Where can you watch the John Cena Classic?"
@@ -37,7 +38,7 @@ sources:
   - title: "Wrestlepalooza 2026 | WWE"
     url: "https://www.wwe.com/shows/wrestlepalooza/2026"
     publisher: "WWE"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "WWE expands partnership with Western Australia through 2028"
     url: "https://www.wwe.com/article/wwe-expands-partnership-with-western-australia-through-2028"
     publisher: "WWE"
@@ -78,6 +79,10 @@ sources:
     url: "https://www.wwe.com/article/wwe-announces-return-to-melbourne-brisbane-and-auckland-this-december"
     publisher: "WWE"
     date: "2026-10-11"
+  - title: "Wrestlepalooza: Perth | WWE"
+    url: "https://www.wwe.com/event/wrestlepalooza-perth"
+    publisher: "WWE"
+    date: "2026-11-14"
   - title: "WWE Raw on Netflix release date news"
     url: "https://www.netflix.com/tudum/articles/wwe-raw-netflix-release-date-news"
     publisher: "Netflix Tudum"
@@ -99,7 +104,7 @@ assets:
     group: wwe-december-2026
     title: "WWE December 2026 Watch Guide: Dates, Venues and Times"
     subtitle: "Confirmed WWE and AAA dates, Dec. 3 to Dec. 28, 2026"
-    note: "Source: WWE (wwe.com, corporate.wwe.com), checked Nov. 6, 2026. Start times only where WWE lists them; time-zone columns are converted by Fresh Calendars."
+    note: "Source: WWE (wwe.com, corporate.wwe.com), checked Nov. 14, 2026. Start times only where WWE lists them; time-zone columns are converted by Fresh Calendars."
     description: "A WWE December 2026 watch guide with each confirmed date, venue and listed start time, converted to Eastern, Central, Mountain and Pacific Time."
     alt: "WWE December 2026 watch guide listing Wrestlepalooza: Perth, the John Cena Classic and other December dates with time zones"
     landscape: true
@@ -131,12 +136,12 @@ assets:
           title: "SmackDown, RAC Arena, Perth"
           src: 2
           quote: "RAC Arena host SmackDown on Friday, December 11"
-        - date: "2026-12-12"
-          time: TBA
+        - start: "2026-12-12T18:30+08:00"
+          tz: "Australia/Perth"
           title: "Wrestlepalooza: Perth, RAC Arena, Perth"
           stream: "ESPN App (U.S.), Netflix (international)"
-          src: 1
-          quote: "streaming live Saturday, Dec. 12 exclusively on the ESPN App in the United States"
+          src: 12
+          quote: "Saturday, December 12 | 6:30 PM"
         - start: "2026-12-14T18:00-05:00"
           title: "John Cena Classic, ESPN Wide World of Sports, Orlando, FL"
           stream: "Netflix"
@@ -170,7 +175,6 @@ assets:
           src: 8
           quote: "Monday, December 28 | 6:30 PM"
       unconfirmed:
-        - { label: "Wrestlepalooza: Perth start time", why: "WWE had not posted one as of Nov. 6, 2026" }
         - { label: "Holiday Live Tour and Raw and SmackDown start times", why: "WWE lists dates and venues only" }
 downloads:
   - group: "WWE December 2026 Watch Guide printables"
@@ -184,7 +188,7 @@ downloads:
 draft: false
 ---
 
-**World Wrestling Entertainment (WWE) lists Wrestlepalooza: Perth for Saturday, Dec. 12, 2026, in Perth at the Royal Automobile Club (RAC) Arena, and the John Cena Classic for Monday, Dec. 14, at 6:00 p.m. Eastern Time (ET) in Orlando, according to WWE's event pages.** WWE has not posted a confirmed start time for Wrestlepalooza yet. Below: every confirmed December date with its venue and time, how to watch, and a printable watch guide.
+**World Wrestling Entertainment (WWE) lists Wrestlepalooza: Perth for Saturday, Dec. 12, 2026, at 6:30 p.m. local time at the Royal Automobile Club (RAC) Arena in Perth, and the John Cena Classic for Monday, Dec. 14, at 6:00 p.m. Eastern Time (ET) in Orlando, according to WWE's event pages.** The Perth time is 5:30 a.m. ET by our conversion. Below: every confirmed December date with its venue and time, how to watch, and a printable watch guide.
 
 ## WWE December 2026 schedule: dates, venues and times
 
@@ -197,7 +201,7 @@ WWE's pages list local times without a time zone. The ET, Pacific Time (PT) and 
 | Mon., Dec. 7 | Raw | Huntington Center, Toledo, OH | Not listed | Not listed |
 | Wed., Dec. 9 | Melbourne show | Rod Laver Arena, Melbourne | Not listed | Not listed |
 | Fri., Dec. 11 | SmackDown | RAC Arena, Perth | Not listed | Not listed |
-| Sat., Dec. 12 | Wrestlepalooza: Perth | RAC Arena, Perth | Not confirmed | Not confirmed |
+| Sat., Dec. 12 | Wrestlepalooza: Perth | RAC Arena, Perth | 6:30 PM | 5:30 a.m. ET / 2:30 a.m. PT / 10:30 GMT |
 | Mon., Dec. 14 | John Cena Classic | ESPN Wide World of Sports, Orlando, FL | 6:00 PM | 6 p.m. ET / 3 p.m. PT / 11 p.m. GMT |
 | Tue., Dec. 15 | Worlds Collide: Doomsday | ESPN Wide World of Sports, Orlando, FL | 7:30 PM | 7:30 p.m. ET / 4:30 p.m. PT / 12:30 a.m. GMT Wed., Dec. 16 |
 | Tue., Dec. 15 | Brisbane show | Brisbane Entertainment Centre | Not listed | Not listed |
@@ -207,13 +211,13 @@ WWE's pages list local times without a time zone. The ET, Pacific Time (PT) and 
 | Sat., Dec. 26 | Holiday Live Tour | Madison Square Garden, New York City | Not confirmed | Not confirmed |
 | Mon., Dec. 28 | Two Shows, One Night: Raw & SmackDown | Benchmark International Arena, Tampa, FL | 6:30 PM | 6:30 p.m. ET / 3:30 p.m. PT / 11:30 p.m. GMT |
 
-Guadalajara does not observe daylight saving time, so its 7:00 PM listing is 8 p.m. ET by our conversion. The Rockford, Grand Rapids, Toledo, Perth, Melbourne, Brisbane and Auckland dates come from WWE's announcements of Sept. 8, Sept. 23, Aug. 26 and Oct. 11, 2026, which give dates and venues only.
+Perth is on Australian Western Standard Time (UTC plus 8), so its 6:30 PM listing is 10:30 GMT on the same Saturday by our conversion. Guadalajara does not observe daylight saving time, so its 7:00 PM listing is 8 p.m. ET by our conversion. The Rockford, Grand Rapids, Toledo, Perth, Melbourne, Brisbane and Auckland dates come from WWE's announcements of Sept. 8, Sept. 23, Aug. 26 and Oct. 11, 2026, which give dates and venues only.
 
 ## When is Wrestlepalooza: Perth and what time does it start?
 
 WWE's Wrestlepalooza page says the show is "streaming live Saturday, Dec. 12 exclusively on the ESPN App in the United States," with Netflix carrying it internationally. WWE's Aug. 26, 2026 announcement says RAC Arena hosts SmackDown on Friday, Dec. 11, Wrestlepalooza: Perth on Saturday, Dec. 12, and Raw on Monday, Dec. 14. It adds that Perth will host WWE Weekend Takeovers with a Premium Live Event annually from 2026 through 2028.
 
-WWE has not posted a confirmed start time. Perth is 13 hours ahead of Eastern Time in December, so an evening show in Perth falls on Saturday morning in the United States. We will not print a clock time until WWE does. WWE's Nov. 3 release names the John Cena Classic as the special edition of Raw on Dec. 14, and the pages we checked do not explain how that fits with the Perth Raw listing.
+WWE's Wrestlepalooza: Perth event page lists "Saturday, December 12 | 6:30 PM" at RAC Arena. Perth is 13 hours ahead of Eastern Time in December, so the evening show falls on Saturday morning in the United States: 5:30 a.m. ET and 2:30 a.m. PT. RAC Arena's own page showed the time as to be confirmed when we looked, so check closer to the day. WWE's Nov. 3 release names the John Cena Classic as the special edition of Raw on Dec. 14, and the pages we checked do not explain how that fits with the Perth Raw listing.
 
 ## When is the John Cena Classic and how do you watch it?
 
@@ -227,9 +231,9 @@ WWE lists Worlds Collide: Doomsday for "Tuesday, December 15 | 7:30 PM" at ESPN 
 
 Guerra de Titanes, from Lucha Libre AAA Worldwide (AAA), is listed for "Saturday, December 19 | 7:00 PM" at Arena Guadalajara. The two Raw and SmackDown double-header nights are Monday, Dec. 21, in Washington and Monday, Dec. 28, in Tampa, both at 6:30 PM. The Holiday Live Tour stops at Madison Square Garden on Saturday, Dec. 26, and at the BMO Center in Rockford on Thursday, Dec. 3, per WWE's Sept. 23 announcement, with no start times confirmed.
 
-## Not announced as of Nov. 6
+## Not announced
 
-WWE's pages list no Saturday Night's Main Event or Tribute to the Troops in December, and no match cards, doors times or UK broadcaster for Wrestlepalooza. The previous premium live event, Survivor Series: WarGames, is Nov. 28; see our [Survivor Series 2026 start time story](/news/survivor-series-wargames-2026-date-start-time-houston-espn/).
+WWE's pages list no Saturday Night's Main Event or Tribute to the Troops in December, and no match cards, doors times or UK broadcaster for Wrestlepalooza; the Perth event page says featured Superstar information is not yet available. The previous premium live event, Survivor Series: WarGames, is Nov. 28; see our [Survivor Series 2026 start time story](/news/survivor-series-wargames-2026-date-start-time-houston-espn/).
 
 ## Free WWE December 2026 watch guide
 

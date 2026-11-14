@@ -3,7 +3,7 @@ title: "NYC Holiday Calendar 2026: Tree Lighting Dec. 2, Macy's Parade Nov. 26"
 description: "New York's 2026 holiday season: the Rockefeller tree is lit Dec. 2 and the 100th Macy's parade is Nov. 26. A printable lists 14 official dates to Jan. 10."
 type: explainer
 publishedAt: "2026-10-22T13:09:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["NYC holiday calendar 2026", "Rockefeller Christmas tree lighting 2026", "when is the Rockefeller tree lighting", "Bryant Park Winter Village 2026", "NYC Christmas events 2026"]
@@ -12,7 +12,7 @@ assets:
   scene: winter-holidays
   kicker: "New York City · Holidays 2026"
   date: "2026-12-02"
-  card: { top: "Rockefeller tree lighting", big: "Wed., Dec. 2", bottom: "Tree arrives Sat., Nov. 7" }
+  card: { top: "Rockefeller tree lighting", big: "Wed., Dec. 2", bottom: "Tree arrived Sat., Nov. 7" }
   printable:
     slug: nyc-holiday-calendar-2026
     group: nyc-holidays-2026
@@ -22,9 +22,9 @@ assets:
     columns: ["When", "What and where"]
     rows:
       - ["Wed., Oct. 28 to Jan. 3, 2027", "Bryant Park Winter Village holiday shops; rink open through Feb. 28"]
-      - ["Sun., Nov. 1, 8 a.m.", "TCS New York City Marathon, Staten Island to Central Park (clocks fall back at 2 a.m.)"]
-      - ["Wed., Nov. 4", "Radio City Christmas Spectacular opens, 230 shows"]
-      - ["Sat., Nov. 7", "Rockefeller Center Christmas Tree arrives, Meet the Tree Day"]
+      - ["Sun., Nov. 1, 8 a.m.", "TCS New York City Marathon, Staten Island to Central Park (clocks fell back at 2 a.m.)"]
+      - ["Wed., Nov. 4", "Radio City Christmas Spectacular opened, 230 shows"]
+      - ["Sat., Nov. 7", "Rockefeller Center Christmas Tree arrived, Meet the Tree Day"]
       - ["Sat., Nov. 14 to Jan. 10, 2027", "Holiday Train Show, New York Botanical Garden, Bronx"]
       - ["Sat., Nov. 14", "New Skate House opens at The Rink at Rockefeller Center"]
       - ["Thu., Nov. 19 to Jan. 4, 2027", "Macy's Herald Square holiday windows"]
@@ -37,29 +37,29 @@ assets:
       - ["Thu., Dec. 31", "Times Square New Year's Eve ball drop at midnight"]
     note: "Source: Rockefeller Center; Macy's, Inc.; The Rockettes; Bryant Park Corporation; New York Botanical Garden; Brooklyn Botanic Garden; New York Road Runners; Times Square Alliance; NYC Public Schools. Check each organizer before you go."
     notesLabel: "Tickets, reservations and plans"
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "Fourteen official New York City holiday dates on one page, from the Bryant Park opening on Oct. 28 to the last train show day on Jan. 10, 2027."
     alt: "NYC holiday calendar 2026 printable listing the Rockefeller tree lighting, Macy's parade, Radio City, Bryant Park and botanical garden dates"
 hero:
   src: ../../../../assets/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade.jpg
   alt: "NYC holiday calendar 2026 illustration: a snowy winter scene with a Dec. 2 date tile and a card for the Rockefeller Center tree lighting"
   title: "NYC holiday calendar 2026"
-  caption: "The Rockefeller Center Christmas Tree arrives on Saturday, Nov. 7, 2026, and is lit on Wednesday, Dec. 2, according to Rockefeller Center."
+  caption: "The Rockefeller Center Christmas Tree arrived on Saturday, Nov. 7, 2026, and will be lit on Wednesday, Dec. 2, according to Rockefeller Center."
 summary:
-  - "The Rockefeller Center Christmas Tree arrives on Saturday, Nov. 7, 2026, and the Tree Lighting Ceremony is Wednesday, Dec. 2, broadcast on NBC."
+  - "The Rockefeller Center Christmas Tree arrived on Saturday, Nov. 7, 2026, and the Tree Lighting Ceremony is Wednesday, Dec. 2, broadcast on NBC."
   - "The 100th Macy's Thanksgiving Day Parade is Thursday, Nov. 26, at 8:30 a.m., and Macy's Herald Square windows open Nov. 19."
-  - "Bryant Park's Winter Village opened Oct. 28, the Radio City Christmas Spectacular starts Nov. 4 and the New York Botanical Garden (NYBG) Holiday Train Show runs Nov. 14 to Jan. 10."
+  - "Bryant Park's Winter Village opened Oct. 28, the Radio City Christmas Spectacular opened Nov. 4 and the New York Botanical Garden (NYBG) Holiday Train Show runs Nov. 14 to Jan. 10."
   - "A free printable lists 14 official dates from Oct. 28, 2026 to Jan. 10, 2027."
 faq:
   - q: "When is the Rockefeller Christmas tree lighting in 2026?"
-    a: "Wednesday, Dec. 2, 2026. The tree arrives at Rockefeller Plaza on Saturday, Nov. 7. Rockefeller Center has not yet posted the ceremony's start time; the Christmas in Rockefeller Center broadcast airs live on NBC."
-  - q: "When does the Rockefeller tree arrive in 2026?"
-    a: "Saturday, Nov. 7, 2026, on what Rockefeller Center calls Meet the Tree Day. Where the tree comes from and how tall it is have not been announced."
+    a: "Wednesday, Dec. 2, 2026. The tree arrived at Rockefeller Plaza on Saturday, Nov. 7. Rockefeller Center has not yet posted the ceremony's start time; the Christmas in Rockefeller Center broadcast airs live on NBC."
+  - q: "When did the Rockefeller tree arrive in 2026?"
+    a: "Saturday, Nov. 7, 2026, on what Rockefeller Center calls Meet the Tree Day. NBC New York and ABC7 New York report that it is a Norway spruce from West Edmeston, New York. We could not read an official height."
   - q: "When does Bryant Park Winter Village open in 2026?"
     a: "Wednesday, Oct. 28, 2026, at noon. The holiday shops run through Jan. 3, 2027, and the rink stays open daily through Feb. 28, 2027."
   - q: "When do the Macy's holiday windows open in 2026?"
     a: "The Herald Square windows debut on Thursday, Nov. 19, 2026, and stay up through Monday, Jan. 4, 2027. This year's theme is the Blue Hippopotamus, a balloon from the 1931 parade."
-  - q: "When does the Radio City Christmas Spectacular start in 2026?"
+  - q: "When did the Radio City Christmas Spectacular start in 2026?"
     a: "Wednesday, Nov. 4, 2026. The Rockettes list 230 performances this season."
   - q: "Is the Rink at Rockefeller Center open before the tree arrives?"
     a: "Yes. The rink opened on Oct. 10, 2026, and its new Skate House opens on Nov. 14. The rink closes on Dec. 1 and Dec. 2 for the tree lighting and runs through March 27, 2027."
@@ -87,6 +87,14 @@ sources:
   - title: "Holiday Train Show"
     url: "https://www.nybg.org/event/holiday-train-show-2026/"
     publisher: "New York Botanical Garden"
+  - title: "Rockefeller Center Christmas tree arrives in New York City"
+    url: "https://www.nbcnewyork.com/holidays/rockefeller-center-christmas-tree-arrives-in-new-york-city-2/6568503/"
+    publisher: "NBC New York"
+    date: "2026-11-07"
+  - title: "2026 Rockefeller Center Christmas tree selected"
+    url: "https://abcnews.com/US/2026-rockefeller-center-christmas-tree-selected/story?id=137576323"
+    publisher: "ABC7 New York"
+    date: "2026-10-26"
   - title: "Lightscape"
     url: "https://www.bbg.org/lightscape"
     publisher: "Brooklyn Botanic Garden"
@@ -118,18 +126,10 @@ downloads:
     pdf: "/news/downloads/nyc-holidays-2026/nyc-holiday-calendar-2026.pdf"
     png: "/news/downloads/nyc-holidays-2026/nyc-holiday-calendar-2026.png"
     pages: 1
-  - group: "NYC Holiday Calendar 2026 printables"
-    title: "NYC Holiday Calendar 2026 (ink saver)"
-    description: "Fourteen official New York City holiday dates on one page, from the Bryant Park opening on Oct. 28 to the last train show day on Jan. 10, 2027. Ink-saver version."
-    preview: ../../../../assets/news/nyc-holidays-2026/nyc-holiday-calendar-2026-ink.png
-    alt: "NYC holiday calendar 2026 printable listing the Rockefeller tree lighting, Macy's parade, Radio City, Bryant Park and botanical garden dates, ink-saver version"
-    pdf: "/news/downloads/nyc-holidays-2026/nyc-holiday-calendar-2026-ink.pdf"
-    png: "/news/downloads/nyc-holidays-2026/nyc-holiday-calendar-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
-**The Rockefeller Center Christmas Tree arrives on Saturday, Nov. 7, 2026, and will be lit on Wednesday, Dec. 2.** Those two dates anchor a New York holiday season that starts earlier than many visitors expect: Bryant Park's Winter Village opened on Oct. 28, and the 100th Macy's Thanksgiving Day Parade falls on Nov. 26.
+**The Rockefeller Center Christmas Tree arrived on Saturday, Nov. 7, 2026, and will be lit on Wednesday, Dec. 2.** Those two dates anchor a New York holiday season that starts earlier than many visitors expect: Bryant Park's Winter Village opened on Oct. 28, and the 100th Macy's Thanksgiving Day Parade falls on Nov. 26.
 
 Every date below comes from the organizer's own site or press release. Nothing is guessed. Where a time or detail has not been announced yet, as with the tree lighting's start time, the parade hosts and the Times Square performers, we say so and give last year's detail only when it helps you plan.
 
@@ -139,8 +139,8 @@ Every date below comes from the organizer's own site or press release. Nothing i
 |---|---|
 | Wed., Oct. 28 | Bryant Park Winter Village opened at noon |
 | Sun., Nov. 1 | New York City Marathon, 8 a.m. start |
-| Wed., Nov. 4 | Radio City Christmas Spectacular opens |
-| Sat., Nov. 7 | Rockefeller Center Christmas Tree arrives |
+| Wed., Nov. 4 | Radio City Christmas Spectacular opened |
+| Sat., Nov. 7 | Rockefeller Center Christmas Tree arrived |
 | Sat., Nov. 14 | Holiday Train Show opens at the New York Botanical Garden |
 | Thu., Nov. 19 | Macy's Herald Square holiday windows debut |
 | Fri., Nov. 20 | Lightscape opens at Brooklyn Botanic Garden |
@@ -156,9 +156,9 @@ Every date below comes from the organizer's own site or press release. Nothing i
 
 ## Rockefeller Center Christmas Tree
 
-Rockefeller Center says the 2026 tree returns to the plaza on **Saturday, Nov. 7**. It is the second year of Meet the Tree Day, when families can watch it arrive. The **Tree Lighting Ceremony is Wednesday, Dec. 2**, and the Christmas in Rockefeller Center broadcast airs live on NBC. Our [Rockefeller Christmas tree 2026 guide](/news/rockefeller-christmas-tree-2026-lighting-december-2-arrival-november-7/) has the lighting time by time zone and where the tree is from.
+Rockefeller Center said the 2026 tree would return to the plaza on **Saturday, Nov. 7**, and it did. It was the second year of Meet the Tree Day, when families can watch it arrive. NBC New York and ABC7 New York both report that the tree is a Norway spruce from West Edmeston, New York. The **Tree Lighting Ceremony is Wednesday, Dec. 2**, and the Christmas in Rockefeller Center broadcast airs live on NBC. Our [Rockefeller Christmas tree 2026 guide](/news/rockefeller-christmas-tree-2026-lighting-december-2-arrival-november-7/) has the lighting time by time zone and where the tree is from.
 
-Still to come: the ceremony's start time, the performers, where the tree is from and its height. Last year's tree stood 75 feet tall with more than 50,000 multicolored lights, according to Rockefeller Center. The Swarovski star weighs about 900 pounds. It has 70 spikes. After the season, the tree is milled into lumber for Habitat for Humanity homes.
+Still to come: the ceremony's start time and the performers. Last year's tree stood 75 feet tall with more than 50,000 multicolored lights, according to Rockefeller Center. The Swarovski star weighs about 900 pounds. It has 70 spikes. After the season, the tree is milled into lumber for Habitat for Humanity homes.
 
 **The Rink.** The skating rink opened on Oct. 10, and its new Skate House opens on Nov. 14. The rink closes on Dec. 1 and 2 for the lighting and stays open through March 27, 2027.
 
@@ -175,7 +175,7 @@ Macy's flagship windows debut on **Thursday, Nov. 19** and stay up through **Mon
 ## Shows, markets and lights
 
 - **Bryant Park Winter Village** opened **Wednesday, Oct. 28, at noon**. The holiday shops run through Jan. 3, 2027, from 11 a.m. to 8 p.m. on weekdays and 10 a.m. to 8 p.m. on weekends. The free-admission rink stays open daily through Feb. 28.
-- **Radio City Christmas Spectacular** starts **Wednesday, Nov. 4**, with 230 performances this season, according to the Rockettes.
+- **Radio City Christmas Spectacular** opened **Wednesday, Nov. 4**, with 230 performances this season, according to the Rockettes.
 - **Holiday Train Show** at the New York Botanical Garden in the Bronx runs **Nov. 14, 2026 to Jan. 10, 2027**. It is the show's 35th year; members get a preview on Nov. 13.
 - **Lightscape** at Brooklyn Botanic Garden runs on select nights from **Nov. 20, 2026 to Jan. 3, 2027**.
 

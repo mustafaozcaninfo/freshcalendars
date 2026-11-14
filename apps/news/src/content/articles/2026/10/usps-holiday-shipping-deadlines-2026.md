@@ -3,7 +3,7 @@ title: "USPS Holiday Shipping Deadlines 2026: Dec. 17 Ground, Dec. 19 Express"
 description: "USPS holiday shipping deadlines 2026: Ground Advantage Dec. 17, Priority Mail Dec. 18, Express Dec. 19. International dates and a free printable sheet."
 type: news
 publishedAt: "2026-10-19T10:55:00-04:00"
-updatedAt: "2026-11-09T03:25:00-05:00"
+updatedAt: "2026-11-14T15:43:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["holiday shipping deadlines 2026 usps", "USPS holiday shipping deadlines 2026", "last day to ship for Christmas 2026", "USPS Christmas deadline 2026", "Priority Mail holiday deadline"]
@@ -15,17 +15,17 @@ assets:
   card: { top: "Ground Advantage, lower 48", big: "Thu., Dec. 17", bottom: "Priority Mail Dec. 18, Express Dec. 19" }
   printable:
     slug: usps-christmas-send-by-dates-2026
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     group: usps-christmas-2026
     title: "USPS Christmas Send-By Dates 2026"
     subtitle: "Recommended send-by dates for delivery before Dec. 25. Delivery dates are not guaranteed."
-    inkSaver: true
     rows:
       - ["Wed., Dec. 9", "International First-Class Package and Priority Mail; military First-Class Mail and Priority Mail"]
       - ["Wed., Dec. 16", "Priority Mail Express International; military Priority Mail Express where offered"]
       - ["Thu., Dec. 17", "Ground Advantage and First-Class Mail, lower 48 states"]
       - ["Fri., Dec. 18", "Priority Mail, lower 48 states"]
       - ["Sat., Dec. 19", "Priority Mail Express, lower 48 states"]
-    note: "Source: U.S. Postal Service, 2026 Holiday Shipping Deadlines, and its Sept. 22, 2026 announcement. Ground Advantage to Alaska, Hawaii and the territories has a service expectation of 10 days or more; military Ground Advantage dates are earlier (Nov. 4). Check your ZIP Codes at usps.com."
+    note: "Source: U.S. Postal Service, 2026 Holiday Shipping Deadlines, and its Sept. 22, 2026 announcement. Ground Advantage to Alaska, Hawaii and the territories has a service expectation of 10 days or more; the military Ground Advantage date (Nov. 4) has passed. Read Nov. 14, 2026. Check your ZIP Codes at usps.com."
     description: "One-page printable of USPS recommended 2026 Christmas send-by dates for domestic, international and military mail, with a note that delivery dates are not guaranteed."
     alt: "Printable calendar of USPS recommended Christmas 2026 send-by dates from Dec. 9 to Dec. 19 with a note that delivery dates are not guaranteed"
 hero:
@@ -37,7 +37,7 @@ summary:
   - "To arrive by Christmas in the lower 48 states, the Postal Service recommends sending USPS Ground Advantage and First-Class Mail by Thursday, Dec. 17, 2026."
   - "Priority Mail should go by Friday, Dec. 18, and Priority Mail Express by Saturday, Dec. 19."
   - "International First-Class Package and Priority Mail should go by Wednesday, Dec. 9, and Priority Mail Express International by Wednesday, Dec. 16."
-  - "Ground Advantage to Alaska, Hawaii, Puerto Rico and the territories has a service expectation of 10 days or more; military Ground Advantage is Nov. 4. All dates are recommendations, not guarantees."
+  - "Ground Advantage to Alaska, Hawaii, Puerto Rico and the territories has a service expectation of 10 days or more; the military Ground Advantage date, Nov. 4, has passed. All dates are recommendations, not guarantees."
 faq:
   - q: "What are the USPS holiday shipping deadlines for 2026?"
     a: "For Christmas delivery in the lower 48 states, the Postal Service recommends Ground Advantage and First-Class Mail by Thursday, Dec. 17, 2026, Priority Mail by Friday, Dec. 18, and Priority Mail Express by Saturday, Dec. 19. The days-until table on this page counts from today."
@@ -57,6 +57,7 @@ sources:
   - title: "2026 Holiday Shipping Deadlines"
     url: "https://www.usps.com/holiday/holiday-shipping-dates.htm"
     publisher: "U.S. Postal Service"
+    date: "2026-11-14"
   - title: "Postal Service Recommends 2026 Holiday Mailing and Shipping Dates"
     url: "https://about.usps.com/newsroom/national-releases/2026/0922-usps-recommends-2026-holiday-mailing-shipping-dates.htm"
     publisher: "U.S. Postal Service"
@@ -90,14 +91,6 @@ downloads:
     pdf: "/news/downloads/usps-christmas-2026/usps-christmas-send-by-dates-2026.pdf"
     png: "/news/downloads/usps-christmas-2026/usps-christmas-send-by-dates-2026.png"
     pages: 1
-  - group: "USPS Christmas Send-By Dates 2026 printables"
-    title: "USPS Christmas Send-By Dates 2026 (ink saver)"
-    description: "One-page printable of USPS recommended 2026 Christmas send-by dates for domestic, international and military mail, with a note that delivery dates are not guaranteed. Ink-saver version."
-    preview: ../../../../assets/news/usps-christmas-2026/usps-christmas-send-by-dates-2026-ink.png
-    alt: "Printable calendar of USPS recommended Christmas 2026 send-by dates from Dec. 9 to Dec. 19 with a note that delivery dates are not guaranteed, ink-saver version"
-    pdf: "/news/downloads/usps-christmas-2026/usps-christmas-send-by-dates-2026-ink.pdf"
-    png: "/news/downloads/usps-christmas-2026/usps-christmas-send-by-dates-2026-ink.png"
-    pages: 1
 corrections:
   - date: "2026-10-22T02:40:00-04:00"
     text: "An earlier version listed Wednesday, Dec. 16 as the Ground Advantage date for Alaska, Hawaii, Puerto Rico and the territories. USPS lists no single date; it says those packages have a service expectation of 10 days or more."
@@ -105,8 +98,6 @@ draft: false
 ---
 
 **To get a package delivered by Christmas in the lower 48 states, the U.S. Postal Service (USPS) recommends mailing it by Thursday, Dec. 17, 2026** for USPS Ground Advantage and First-Class Mail, by **Friday, Dec. 18** for Priority Mail, and by **Saturday, Dec. 19** for Priority Mail Express. The agency announced the dates on Sept. 22. They are recommendations for expected delivery by Dec. 25, not guarantees.
-
-*Last checked against the [USPS holiday shipping page](https://www.usps.com/holiday/holiday-shipping-dates.htm) on Monday, Nov. 9, 2026.*
 
 ## USPS holiday shipping deadlines 2026
 
@@ -142,7 +133,7 @@ Mail to an Army Post Office (APO), Fleet Post Office (FPO) or Diplomatic Post Of
 
 | Service | Recommended send-by date |
 |---|---|
-| USPS Ground Advantage | Wednesday, Nov. 4 |
+| USPS Ground Advantage | Wednesday, Nov. 4 (passed) |
 | First-Class Mail | Wednesday, Dec. 9 |
 | Priority Mail | Wednesday, Dec. 9 |
 | Priority Mail Express Military Service | Wednesday, Dec. 16 |
@@ -174,22 +165,20 @@ Post offices close on federal holidays. The ones that matter for holiday shippin
 
 | Date | Day | Holiday |
 |---|---|---|
-| Nov. 11 | Wednesday | Veterans Day |
 | Nov. 26 | Thursday | Thanksgiving Day |
 | Dec. 25 | Friday | Christmas Day |
 | Jan. 1, 2027 | Friday | New Year's Day |
 
-Christmas Eve, Thursday, Dec. 24, is not a federal holiday, but retail hours vary by branch. Our [Veterans Day story](/news/veterans-day-2026-wednesday-november-11/) lists what else is closed on Nov. 11.
+Christmas Eve, Thursday, Dec. 24, is not a federal holiday, but retail hours vary by branch.
 
 ## Free printable send-by sheet
 
-Print the one-page sheet of these dates and pin it where the wrapping happens. It is labeled "Recommended send-by dates" and says delivery dates are not guaranteed. An ink-saver version is included.
+Print the one-page sheet of these dates and pin it where the wrapping happens. It is labeled "Recommended send-by dates" and says delivery dates are not guaranteed.
 
 ## Plan backward from the holiday
 
 | If you are sending | Aim to ship by |
 |---|---|
-| Gifts to a military address by Ground Advantage | Nov. 4 |
 | Hanukkah gifts (first night Dec. 4) | Late November |
 | Advent calendars for Dec. 1 | The week before Thanksgiving |
 | Christmas gifts by Ground Advantage | Dec. 14-17 |

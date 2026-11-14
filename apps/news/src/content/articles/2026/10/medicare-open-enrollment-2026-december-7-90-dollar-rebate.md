@@ -3,7 +3,7 @@ title: "Medicare Open Enrollment 2026 Ends Dec. 7: Countdown and Key Dates"
 description: "Medicare open enrollment 2026 ends Monday, Dec. 7. See a live countdown, key dates through 2027 and who gets the one-time $90 Part B rebate."
 type: news
 publishedAt: "2026-10-18T08:40:00-04:00"
-updatedAt: "2026-11-07T21:18:00-05:00"
+updatedAt: "2026-11-14T15:43:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["medicare open enrollment 2026 deadline", "Medicare open enrollment 2026", "Medicare deadline December 7", "$90 Medicare rebate", "Part D out-of-pocket cap 2027"]
@@ -67,7 +67,7 @@ related: [social-security-cola-2027-3-6-percent-payment-dates, aca-open-enrollme
 draft: false
 ---
 
-**The Medicare open enrollment 2026 deadline is Monday, Dec. 7, the last day to change your Medicare coverage for 2027.** The date does not move. Enrollment started on Thursday, Oct. 15, it is the main window each year to change Medicare health and drug coverage, and any change made now takes effect on Jan. 1, 2027. This month, about 20.8 million people in Original Medicare are also receiving a one-time $90 payment toward their Part B premium.
+**The Medicare open enrollment 2026 deadline is Monday, Dec. 7, the last day to change your Medicare coverage for 2027.** The date does not move. Enrollment started on Thursday, Oct. 15, it is the main window each year to change Medicare health and drug coverage, and any change made now takes effect on Jan. 1, 2027. The Centers for Medicare & Medicaid Services (CMS) scheduled a one-time $90 payment for about 20.8 million people in Original Medicare for October 2026, toward their Part B premium.
 
 ## Countdown to the Dec. 7 deadline
 
@@ -105,7 +105,7 @@ Plans can change their costs, drug lists and networks every year. That includes 
 
 | Date | What happens |
 |---|---|
-| On or around Thursday, Oct. 8, 2026 | Most $90 rebates paid by direct deposit |
+| On or around Thursday, Oct. 8, 2026 | Most $90 rebates by direct deposit, per CMS |
 | Thursday, Oct. 15, 2026 | Open enrollment begins; Social Security starts answering payment-status calls |
 | Later in October 2026 | Remaining $90 rebates mailed as paper checks |
 | November 2026 | 2027 Part B premium and deductible expected from the Centers for Medicare & Medicaid Services (CMS) |

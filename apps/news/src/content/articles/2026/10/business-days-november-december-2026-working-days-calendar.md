@@ -3,6 +3,7 @@ title: "Business Days in November 2026: 19 Federal, 20 Trading Days"
 description: "November 2026 has 19 U.S. federal business days and 20 stock market trading days; December has 22 of each. Week-by-week count and UK totals."
 type: explainer
 publishedAt: "2026-10-27T10:35:00-04:00"
+updatedAt: "2026-11-14T15:08:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["business days in November 2026", "working days in December 2026", "how many business days in November 2026", "trading days November 2026"]
@@ -21,17 +22,17 @@ hero:
 summary:
   - "November 2026 has 21 weekdays, 19 U.S. federal working days and 20 NYSE trading days, one of them a half day."
   - "December 2026 has 23 weekdays, 22 federal working days and 22 NYSE trading days, one of them a half day."
-  - "Counted from Monday, Nov. 2, there are 41 federal working days left in 2026."
-  - "Ten business days from Monday, Nov. 9 land on Tuesday, Nov. 24 once Veterans Day is skipped."
+  - "Counted from Monday, Nov. 16, there are 32 federal working days and 32 NYSE trading days left in 2026."
+  - "Ten business days from Monday, Nov. 16 land on Tuesday, Dec. 1 once Thanksgiving is skipped."
 faq:
   - q: "How many business days are in November 2026?"
-    a: "There are 21 weekdays. Counting the Office of Personnel Management's federal holidays on Nov. 11 and Nov. 26, that leaves 19 federal working days. The New York Stock Exchange trades 20 days, because it is open on Veterans Day."
+    a: "There are 21 weekdays. Counting the Office of Personnel Management's federal holidays on Nov. 11 and Nov. 26, that leaves 19 federal working days. The New York Stock Exchange trades 20 days, because it was open on Veterans Day."
   - q: "How many working days are in December 2026?"
     a: "There are 23 weekdays and 22 federal working days, because Christmas Day falls on Friday, Dec. 25. The New York Stock Exchange also trades 22 days, one of them a half day on Dec. 24."
   - q: "Is Dec. 24, 2026 a business day?"
     a: "Yes for federal purposes: it is not a federal holiday, and as of Oct. 23, 2026 no executive order had given federal workers the day off. The stock market closes early at 1:00 p.m. Eastern Time (ET)."
   - q: "Do banks count Veterans Day as a business day?"
-    a: "The Federal Reserve lists Veterans Day among the holidays it observes. Many banks close on Nov. 11 too, so check your own bank."
+    a: "The Federal Reserve lists Veterans Day among the holidays it observes. Many banks closed on Nov. 11 too."
 sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
@@ -56,16 +57,16 @@ related: [is-christmas-eve-a-federal-holiday-2026, net-30-60-90-due-date-calenda
 assets:
   overlay: true
   kicker: "Business days · Nov. and Dec. 2026"
-  date: "2026-11-11"
+  date: "2026-11-27"
   card: { top: "Federal working days in November", big: "19", bottom: "21 weekdays minus Nov. 11 and Nov. 26" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: business-days-november-december-2026
     group: business-days-2026
     title: "Business Days, November and December 2026"
     subtitle: "Holidays, early closes and monthly counts"
     layout: list
     rows:
-      - ["Wed., Nov. 11", "Veterans Day: federal holiday, Federal Reserve closed; NYSE open"]
       - ["Thu., Nov. 26", "Thanksgiving Day: federal holiday, NYSE closed, Federal Reserve closed"]
       - ["Fri., Nov. 27", "NYSE early close at 1:00 p.m. ET (1:15 p.m. eligible options)"]
       - ["Mon., Nov. 30", "St Andrew's Day: bank holiday in Scotland only"]
@@ -75,7 +76,6 @@ assets:
       - ["November counts", "21 weekdays, 19 federal, 20 NYSE, 21 England and Wales, 20 Scotland"]
       - ["December counts", "23 weekdays, 22 federal, 22 NYSE, 21 England and Wales, 21 Scotland"]
     note: "Source: OPM, NYSE, Federal Reserve, GOV.UK."
-    inkSaver: true
     description: "Holidays, early closes and business-day counts for November and December 2026 on one page."
     alt: "Business days printable for November and December 2026 listing holidays, early closes and monthly counts"
 downloads:
@@ -87,18 +87,10 @@ downloads:
     pdf: "/news/downloads/business-days-2026/business-days-november-december-2026.pdf"
     png: "/news/downloads/business-days-2026/business-days-november-december-2026.png"
     pages: 1
-  - group: "Business Days printables"
-    title: "Business Days, November and December 2026 (ink saver)"
-    description: "Holidays, early closes and business-day counts for November and December 2026 on one page. Ink-saver version."
-    preview: ../../../../assets/news/business-days-2026/business-days-november-december-2026-ink.png
-    alt: "Business days printable for November and December 2026 listing holidays, early closes and monthly counts, ink-saver version"
-    pdf: "/news/downloads/business-days-2026/business-days-november-december-2026-ink.pdf"
-    png: "/news/downloads/business-days-2026/business-days-november-december-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
-**November 2026 has 19 U.S. federal working days and 20 New York Stock Exchange (NYSE) trading days**, out of 21 weekdays, according to the U.S. Office of Personnel Management (OPM) and the NYSE holiday calendar. December 2026 has 22 of each, out of 23 weekdays. The counts differ because the NYSE trades on Veterans Day, Wednesday, Nov. 11, while federal offices are closed.
+**November 2026 has 19 U.S. federal working days and 20 New York Stock Exchange (NYSE) trading days**, out of 21 weekdays, according to the U.S. Office of Personnel Management (OPM) and the NYSE holiday calendar. December 2026 has 22 of each, out of 23 weekdays. The counts differ because the NYSE traded on Veterans Day, Wednesday, Nov. 11, while federal offices were closed.
 
 ## Business days per month: federal, NYSE and UK
 
@@ -116,7 +108,7 @@ November 1, 2026 is a Sunday, so the month starts with a full week on Monday, No
 
 | Date | Day | What happens | Source |
 |---|---|---|---|
-| Nov. 11 | Wednesday | Veterans Day: federal holiday; the Federal Reserve observes it; NYSE open | OPM, Federal Reserve, NYSE |
+| Nov. 11 | Wednesday | Veterans Day (past): federal holiday; the Federal Reserve observed it; NYSE was open | OPM, Federal Reserve, NYSE |
 | Nov. 26 | Thursday | Thanksgiving Day: federal holiday; NYSE closed; the Federal Reserve observes it | OPM, NYSE, Federal Reserve |
 | Nov. 27 | Friday | NYSE closes at 1:00 p.m. Eastern Time (ET), 1:15 p.m. for eligible options | NYSE |
 | Nov. 30 | Monday | St Andrew's Day: bank holiday in Scotland only | GOV.UK |
@@ -128,7 +120,7 @@ GOV.UK lists no November bank holidays in England, Wales or Northern Ireland. Th
 
 ## How many business days are left in 2026?
 
-Counted from Monday, Nov. 2 through Thursday, Dec. 31, there are 44 weekdays, 41 federal working days and 42 NYSE trading days. Here is the split week by week.
+Counted from Monday, Nov. 2 through Thursday, Dec. 31, there are 44 weekdays, 41 federal working days and 42 NYSE trading days. From Monday, Nov. 16 to the end of the year, 32 federal working days and 32 NYSE trading days remain, out of 34 weekdays. Here is the split week by week.
 
 | Week | Weekdays | Federal working days | Holiday or early close |
 |---|---|---|---|
@@ -144,17 +136,17 @@ Counted from Monday, Nov. 2 through Thursday, Dec. 31, there are 44 weekdays, 41
 
 The NYSE count differs from the federal count in one week only: Nov. 9-13 has 5 trading days but 4 federal working days. Whether Thursday, Dec. 24 is also a day off for federal workers is covered in our story on [whether Christmas Eve is a federal holiday](/news/is-christmas-eve-a-federal-holiday-2026/).
 
-## What date is 10 business days from Nov. 9, 2026?
+## What date is 10 business days from Nov. 16, 2026?
 
 Business-day deadlines skip weekends and holidays, so the date depends on whose holidays you use. Using the federal list:
 
 | Start | Add | Lands on | Skipped |
 |---|---|---|---|
-| Monday, Nov. 9 | 10 business days | Tuesday, Nov. 24 | Veterans Day, Nov. 11, and two weekends |
+| Monday, Nov. 16 | 10 business days | Tuesday, Dec. 1 | Thanksgiving Day, Nov. 26, and two weekends |
 | Monday, Dec. 21 | 5 business days | Tuesday, Dec. 29 | Christmas Day, Dec. 25, and one weekend |
 
-Without the Nov. 11 skip, 10 business days from Nov. 9 would land on Monday, Nov. 23. Count day one as the first business day after the start date. [When Veterans Day falls](/when-is/veterans-day/) in other years is on our calendar page, and you can mark deadlines on a [November 2026 printable calendar](/november-calendars.html) or a [December 2026 printable calendar](/december-calendars.html).
+Without the Nov. 26 skip, 10 business days from Nov. 16 would land on Monday, Nov. 30. Count day one as the first business day after the start date. [When Veterans Day falls](/when-is/veterans-day/) in other years is on our calendar page, and you can mark deadlines on a [November 2026 printable calendar](/november-calendars.html) or a [December 2026 printable calendar](/december-calendars.html).
 
 ## What the NYSE does differently
 
-The NYSE is closed on Thursday, Nov. 26 and Friday, Dec. 25, 2026, and each market closes early on Friday, Nov. 27 and Thursday, Dec. 24. It trades on Veterans Day. The 2027 list is in our [NYSE holidays 2027](/news/stock-market-holidays-2027-nyse-closed-dates/) story. For the UK side of the Christmas week, see [the Boxing Day substitute on Dec. 28](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/). The free printable below puts the holidays, early closes and monthly counts on one page.
+The NYSE is closed on Thursday, Nov. 26 and Friday, Dec. 25, 2026, and each market closes early on Friday, Nov. 27 and Thursday, Dec. 24. It traded on Veterans Day. The 2027 list is in our [NYSE holidays 2027](/news/stock-market-holidays-2027-nyse-closed-dates/) story. For the UK side of the Christmas week, see [the Boxing Day substitute on Dec. 28](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/). The free printable below puts the holidays, early closes and monthly counts on one page.

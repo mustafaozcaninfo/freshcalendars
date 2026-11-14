@@ -1,9 +1,9 @@
 ---
 title: "COP31 2026: Nov. 9-20 in Antalya, Leaders' Summit Nov. 11-12"
-description: "COP31 runs Nov. 9-20, 2026 in Antalya, Türkiye, per the United Nations. The Leaders' Summit is Nov. 11-12, and the premises close Sunday, Nov. 15."
+description: "COP31 runs Nov. 9-20, 2026 in Antalya, Türkiye, per the United Nations. The Leaders' Summit was Nov. 11-12, and the premises close Sunday, Nov. 15."
 type: news
 publishedAt: "2026-11-08T07:08:00-05:00"
-updatedAt: "2026-11-08T07:08:00-05:00"
+updatedAt: "2026-11-14T15:08:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["COP31 2026", "COP31 dates", "COP31 Antalya schedule", "COP31 leaders summit", "UN climate conference 2026"]
@@ -19,23 +19,28 @@ hero:
     author: "Anton Nikiforov"
     authorUrl: "https://web.archive.org/web/20161026161435/http://www.panoramio.com/user/1240436?with_photo_id=71840663"
 summary:
-  - "COP31, the 31st UN Climate Change Conference, takes place in Antalya, Türkiye, from Monday, Nov. 9 to Friday, Nov. 20, 2026."
-  - "The Leaders' Summit is on Nov. 11-12, and the Green Zone is closed to visitors during it, according to the United Nations Framework Convention on Climate Change (UNFCCC)."
+  - "COP31, the 31st UN Climate Change Conference, is under way in Antalya, Türkiye, and runs until Friday, Nov. 20, 2026; it opened Monday, Nov. 9."
+  - "The Leaders' Summit took place on Nov. 11-12, and the Green Zone was closed to visitors during it, according to the United Nations Framework Convention on Climate Change (UNFCCC)."
   - "The conference premises, including the registration desk, are closed on Sunday, Nov. 15."
-  - "The opening-session time and the daily programme are not published yet; UNFCCC says the programme comes out shortly before the conference starts."
+  - "Session times for the rest of the conference are on UNFCCC's programme pages, which we could not read for this update."
 faq:
-  - q: "What time does COP31 start on Nov. 9?"
-    a: "No start time is published yet. UNFCCC says the programme will be published shortly before COP31 starts. Registration is listed from 07:00 to 19:00 on Nov. 9, but UNFCCC does not state a time zone for those hours."
+  - q: "When does COP31 end?"
+    a: "COP31 ends on Friday, Nov. 20, 2026, according to the United Nations. It began on Monday, Nov. 9."
   - q: "Can the public attend COP31?"
-    a: "UNFCCC says the Green Zone is closed to visitors during the Leaders' Summit on Nov. 11-12. The sources checked give no visitor rules for other days."
-  - q: "Where is the Leaders' Summit held?"
-    a: "Climate Home News reported on Apr. 14, 2026 that it takes place in Antalya, on Türkiye's south coast, on Nov. 11 and 12. Times for the two days have not been published."
+    a: "UNFCCC said the Green Zone was closed to visitors during the Leaders' Summit on Nov. 11-12. The sources checked give no visitor rules for other days."
+  - q: "When was the Leaders' Summit held?"
+    a: "UNFCCC's Antalya Leaders' Summit page lists Wednesday, Nov. 11 and Thursday, Nov. 12, 2026. The United Nations says the Secretary-General spoke at the summit."
   - q: "What is the time difference between Antalya and the US East Coast?"
-    a: "Antalya is 8 hours ahead of Eastern Time (ET) from Nov. 9, so 09:00 in Antalya is 01:00 ET the same day. This assumes Türkiye time of UTC+3, which the UNFCCC page does not state; it gives only Central European Time (CET) for deadlines."
+    a: "Antalya is 8 hours ahead of Eastern Time (ET) in November, so 09:00 in Antalya is 01:00 ET the same day. This assumes Türkiye time of UTC+3, which the UNFCCC page does not state; it gives only Central European Time (CET) for deadlines."
 sources:
   - title: "COP31 to take place 9-20 November 2026 in Antalya, Türkiye | United Nations"
     url: "https://www.un.org/en/climatechange/cop31"
     publisher: "United Nations"
+    date: "2026-11-14"
+  - title: "Antalya Leaders' Summit at COP 31 | UNFCCC"
+    url: "https://unfccc.int/cop31/high-level"
+    publisher: "UNFCCC"
+    date: "2026-11-14"
   - title: "Information for COP 31 participants (A-Z) | UNFCCC"
     url: "https://unfccc.int/cop31/ifp"
     publisher: "UNFCCC"
@@ -63,26 +68,16 @@ assets:
     slug: cop31-2026-antalya-dates-printable
     group: cop31-2026
     title: "COP31 2026 Antalya Dates: Nov. 9-20 Key Days"
-    subtitle: "Opening, Leaders' Summit, Sunday closure and last day"
+    subtitle: "Sunday closure and last day"
     note: "Source: United Nations (COP31 dates); UNFCCC, Information for COP 31 participants (A-Z)."
-    description: "A one-page sheet of the confirmed COP31 dates in Antalya, Türkiye: Nov. 9 start, Nov. 11-12 Leaders' Summit, the Nov. 15 closure and the Nov. 20 end."
-    alt: "Printable sheet listing the confirmed COP31 2026 dates in Antalya, Türkiye"
+    description: "A one-page sheet of the confirmed remaining COP31 dates in Antalya, Türkiye: the Nov. 15 closure and the Nov. 20 end."
+    alt: "Printable sheet listing the confirmed remaining COP31 2026 dates in Antalya, Türkiye"
     data:
       target:
         date: "2026-11-20"
         label: "COP31 closes"
       columns: ["What happens"]
       rows:
-        - date: "2026-11-09"
-          cells:
-            "What happens": { text: "COP31 begins in Antalya, Türkiye", src: "https://www.un.org/en/climatechange/cop31" }
-          src: "https://www.un.org/en/climatechange/cop31"
-          quote: "The 31st UN Climate Change Conference (COP31) will take place in Antalya, Türkiye, from 9 to 20 November 2026."
-        - date: "2026-11-11"
-          cells:
-            "What happens": { text: "Leaders' Summit (Nov. 11-12); Green Zone closed to visitors", src: "https://unfccc.int/cop31/ifp" }
-          src: "https://unfccc.int/cop31/ifp"
-          quote: "The Leaders' Summit takes place on 11-12 November, and the Green Zone is closed to visitors during it."
         - date: "2026-11-15"
           cells:
             "What happens": { text: "Conference premises closed (Sunday)", src: "https://unfccc.int/cop31/ifp" }
@@ -94,21 +89,20 @@ assets:
           src: "https://www.un.org/en/climatechange/cop31"
           quote: "The 31st UN Climate Change Conference (COP31) will take place in Antalya, Türkiye, from 9 to 20 November 2026."
       unconfirmed:
-        - { label: "Opening-session and daily session times", why: "UNFCCC says the programme is published shortly before the conference starts" }
-        - { label: "Leaders' Summit times", why: "No official page with times found" }
+        - { label: "Session times for the final week", why: "UNFCCC's programme pages could not be read for this update" }
 downloads:
   - group: "COP31 2026 Antalya Dates printables"
     title: "COP31 2026 Antalya Dates: Nov. 9-20 Key Days"
-    description: "A one-page sheet of the confirmed COP31 dates in Antalya, Türkiye: Nov. 9 start, Nov. 11-12 Leaders' Summit, the Nov. 15 closure and the Nov. 20 end."
+    description: "A one-page sheet of the confirmed remaining COP31 dates in Antalya, Türkiye: the Nov. 15 closure and the Nov. 20 end."
     preview: ../../../../assets/news/cop31-2026/cop31-2026-antalya-dates-printable.png
-    alt: "Printable sheet listing the confirmed COP31 2026 dates in Antalya, Türkiye"
+    alt: "Printable sheet listing the confirmed remaining COP31 2026 dates in Antalya, Türkiye"
     pdf: "/news/downloads/cop31-2026/cop31-2026-antalya-dates-printable.pdf"
     png: "/news/downloads/cop31-2026/cop31-2026-antalya-dates-printable.png"
     pages: 1
 draft: false
 ---
 
-The 31st United Nations (UN) Climate Change Conference, COP31, takes place in Antalya, Türkiye, from Monday, Nov. 9 to Friday, Nov. 20, 2026, according to the UN. The United Nations Framework Convention on Climate Change (UNFCCC) lists the Leaders' Summit on Nov. 11-12 and a closure of the conference premises on Sunday, Nov. 15. The opening-session time and the daily programme are not published yet.
+The 31st United Nations (UN) Climate Change Conference, COP31, is under way in Antalya, Türkiye. It opened on Monday, Nov. 9 and ends on Friday, Nov. 20, 2026, according to the UN. The United Nations Framework Convention on Climate Change (UNFCCC) lists the Leaders' Summit on Nov. 11-12, which has now taken place, and a closure of the conference premises on Sunday, Nov. 15. Session times for the final week are on UNFCCC's programme pages, which did not load for this check.
 
 ## COP31 2026 dates and what is confirmed
 
@@ -118,30 +112,29 @@ The UN says COP31 "will take place in Antalya, Türkiye, from 9 to 20 November 2
 |---|---|---|
 | Dates | Monday, Nov. 9 to Friday, Nov. 20, 2026 | UN; UNFCCC |
 | Place | Antalya, Türkiye | UN |
-| Leaders' Summit | Nov. 11-12 | UNFCCC; Climate Home News |
+| Leaders' Summit | Nov. 11-12, held | UNFCCC; Climate Home News |
 | Sunday, Nov. 15 | Conference premises, including the registration desk, closed | UNFCCC |
-| Opening-session time | Not yet published | |
-| Daily programme | Published shortly before the conference starts, per UNFCCC | UNFCCC |
+| Session times | On UNFCCC's programme pages; not read for this update | |
 
 ## COP31 key days and the countdown
 
-The table counts the days from today to each confirmed date. It uses the UNFCCC information page for participants and the UN announcement.
+The table shows where each confirmed date stands on Saturday, Nov. 14. It uses the UNFCCC pages and the UN announcement.
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-| Date | Day | What happens | Days from today |
+| Date | Day | What happens | Status on Nov. 14 |
 |---|---|---|---|
-| Nov. 9 | Monday | COP31 begins in Antalya | 1 |
-| Nov. 11 | Wednesday | Leaders' Summit, day 1; Green Zone closed to visitors | 3 |
-| Nov. 12 | Thursday | Leaders' Summit, day 2; Green Zone closed to visitors | 4 |
-| Nov. 15 | Sunday | Conference premises closed | 7 |
-| Nov. 20 | Friday | COP31 ends | 12 |
+| Nov. 9 | Monday | COP31 begins in Antalya | Done |
+| Nov. 11 | Wednesday | Leaders' Summit, day 1; Green Zone closed to visitors | Done |
+| Nov. 12 | Thursday | Leaders' Summit, day 2; Green Zone closed to visitors | Done |
+| Nov. 15 | Sunday | Conference premises closed | Tomorrow |
+| Nov. 20 | Friday | COP31 ends | In 6 days |
 
-The free printable sheet keeps the confirmed dates on one page. Pair it with the [November 2026 printable calendar](/november-calendars.html) or the [printable yearly calendar](/printable-yearly-calendar.html). The wider month list is in [November 2026 holidays and important dates](/news/november-2026-important-dates-days-until/).
+The free printable sheet keeps the confirmed dates still ahead on one page. Pair it with the [November 2026 printable calendar](/november-calendars.html) or the [printable yearly calendar](/printable-yearly-calendar.html). The wider month list is in [November 2026 holidays and important dates](/news/november-2026-important-dates-days-until/).
 
-## What is known about opening day on Nov. 9?
+## What were the participant service hours?
 
-The date is confirmed; the time is not. UNFCCC's information page says the programme will be published shortly before the conference starts, and the opening-session time has not been published. The same page lists the participant services below, and it gives no time zone for them.
+UNFCCC's information page listed the participant services below. It gave no time zone for them, and we could not re-read it on Nov. 14, so treat the hours as last confirmed on Nov. 8.
 
 | Service | Dates | Hours |
 |---|---|---|
@@ -149,18 +142,18 @@ The date is confirmed; the time is not. UNFCCC's information page says the progr
 | Registration | Nov. 8-11 | 07:00-19:00 |
 | Registration | Nov. 12-20 | 08:00-19:00 |
 
-Registration opens a day early, on Sunday, Nov. 8. On Sunday, Nov. 15 the page says the premises, including the registration desk, are closed.
+On Sunday, Nov. 15 the page says the premises, including the registration desk, are closed.
 
 ## When is the COP31 Leaders' Summit?
 
-The UNFCCC information page says the Leaders' Summit "takes place on 11-12 November," a Wednesday and a Thursday. Climate Home News reported on Apr. 14, 2026 that it takes place in Antalya, on Türkiye's south coast, on Nov. 11 and 12. UNFCCC's high-level page, which would carry the day-by-day times, did not load for this check, so no summit times are given here.
+The Leaders' Summit took place on Wednesday, Nov. 11 and Thursday, Nov. 12. UNFCCC's Antalya Leaders' Summit page lists those two days as the first part of the high-level segment for heads of state and government, and the UN says the Secretary-General addressed the summit. Climate Home News reported the same dates on Apr. 14, 2026, in Antalya on Türkiye's south coast.
 
-Per UNFCCC, the Green Zone is closed to visitors during the summit.
+Per UNFCCC, the Green Zone was closed to visitors during the summit.
 
 ## How do Antalya times convert to Eastern Time?
 
-U.S. clocks went back on Sunday, Nov. 1, so Eastern Time (ET) is UTC-5 from Nov. 9. Antalya is on UTC+3, which makes it 8 hours ahead of ET: 09:00 in Antalya is 01:00 ET the same day. That conversion is computed here. The UNFCCC page gives only Central European Time (CET) for its deadlines, and no official page checked states the Antalya offset. UNFCCC has not published session times, so the conversion applies once they appear.
+U.S. clocks went back on Sunday, Nov. 1, so Eastern Time (ET) is UTC-5 throughout the conference. Antalya is on UTC+3, which makes it 8 hours ahead of ET: 09:00 in Antalya is 01:00 ET the same day. That conversion is computed here. The UNFCCC page gives only Central European Time (CET) for its deadlines, and no official page checked states the Antalya offset. The conversion applies to any session time you find in the programme.
 
 ## How to follow COP31
 
-UNFCCC publishes the programme and participant information on its COP31 pages, at unfccc.int/cop31. Check the programme once it is out, because it will hold the session times that are missing now. The Leaders' Summit page is at unfccc.int/cop31/high-level. For the dates alone, the UN announcement is at un.org/en/climatechange/cop31.
+UNFCCC publishes the programme and participant information on its COP31 pages, at unfccc.int/cop31. Check the programme for session times in the final week, which end on Nov. 20. The Leaders' Summit page is at unfccc.int/cop31/high-level. For the dates alone, the UN announcement is at un.org/en/climatechange/cop31.

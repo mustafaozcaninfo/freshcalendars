@@ -3,6 +3,7 @@ title: "PGA Tour Schedule 2027: 36 Events, Eight Signature Events, All Dates"
 description: "The 2027 Professional Golfers' Association (PGA) Tour schedule has 36 events, Jan. 18 to Aug. 29. Round days for every week, majors and a printable."
 type: news
 publishedAt: "2026-11-09T06:10:00-05:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["pga tour schedule 2027", "2027 pga tour schedule", "pga tour 2027 signature events", "2027 golf majors dates"]
@@ -56,7 +57,7 @@ assets:
         - { cells: { week: "June 21-27", rounds: "June 24-27", event: "Travelers Championship (Signature)", venue: "TPC River Highlands, Cromwell, Connecticut", winner: "__________" }, src: 1, quote: "June 21-27" }
         - { cells: { week: "June 28-July 4", rounds: "July 1-4", event: "John Deere Classic", venue: "TPC Deere Run, Silvis, Illinois", winner: "__________" }, src: 1, quote: "June 28-July 4" }
         - { cells: { week: "July 5-11", rounds: "July 8-11", event: "Genesis Scottish Open", venue: "The Renaissance Club, North Berwick, Scotland", winner: "__________" }, src: 1, quote: "July 5-11" }
-        - { cells: { week: "July 5-11", rounds: "July 8-11", event: "Louisville event at Hurstbourne", venue: "Hurstbourne Country Club, Louisville, Kentucky", winner: "__________" }, src: 1, quote: "July 5-11" }
+        - { cells: { week: "July 5-11", rounds: "July 8-11", event: "Isco Championship", venue: "Hurstbourne Country Club, Louisville, Kentucky", winner: "__________" }, src: 1, quote: "July 5-11" }
         - { cells: { week: "July 12-18", rounds: "July 15-18", event: "The Open Championship (Major)", venue: "Old Course at St Andrews, Fife, Scotland", winner: "__________" }, src: 1, quote: "July 12-18" }
         - { cells: { week: "July 12-18", rounds: "July 15-18", event: "Corales Puntacana Championship", venue: "Puntacana Resort, Punta Cana, Dominican Republic", winner: "__________" }, src: 1, quote: "July 12-18" }
         - { cells: { week: "July 19-25", rounds: "July 22-25", event: "3M Open", venue: "TPC Twin Cities, Blaine, Minnesota", winner: "__________" }, src: 1, quote: "July 19-25" }
@@ -165,7 +166,7 @@ The tour weeks, courses, cities and points come from the PGA Tour's release, whi
 | 25 | June 21-27 | June 24-27 | Travelers Championship | TPC River Highlands, Cromwell, Connecticut | 700 | Signature Event |
 | 26 | June 28-July 4 | July 1-4 | John Deere Classic | TPC Deere Run, Silvis, Illinois | 500 | - |
 | 27 | July 5-11 | July 8-11 | Genesis Scottish Open | The Renaissance Club, North Berwick, Scotland | 500 | Co-sanctioned with DP World Tour |
-| 28 | July 5-11 | July 8-11 | Louisville event at Hurstbourne | Hurstbourne Country Club, Louisville, Kentucky | 300 | - |
+| 28 | July 5-11 | July 8-11 | Isco Championship | Hurstbourne Country Club, Louisville, Kentucky | 300 | - |
 | 29 | July 12-18 | July 15-18 | The Open Championship | Old Course at St Andrews, Fife, Scotland | 750 | Major |
 | 30 | July 12-18 | July 15-18 | Corales Puntacana Championship | Puntacana Resort, Punta Cana, Dominican Republic | 300 | - |
 | 31 | July 19-25 | July 22-25 | 3M Open | TPC Twin Cities, Blaine, Minnesota | 500 | - |
@@ -214,7 +215,7 @@ The PGA Championship's own site lists "May 17-23, 2027" at Fields Ranch East at 
 
 The Sompo Championship is the one new event. It is the penultimate event of the regular season, on July 26-Aug. 1 at the North Course at Silverado Resort in Napa, California, which hosted a tour event from 2014 to 2025, the tour says. GO by Raymond James follows on Aug. 2-8 at Sedgefield Country Club in Greensboro, North Carolina.
 
-Four weeks list two events: Feb. 15-21 (The Genesis Invitational and a TBD event), May 10-16 (Truist Championship and ONEflight Myrtle Beach Classic), July 5-11 (Genesis Scottish Open and the Louisville event at Hurstbourne Country Club) and July 12-18 (The Open Championship and Corales Puntacana Championship). The table lists 300 FedExCup points for the Louisville event, the Myrtle Beach Classic, the Corales Puntacana Championship and the TBD event.
+Four weeks list two events: Feb. 15-21 (The Genesis Invitational and a TBD event), May 10-16 (Truist Championship and ONEflight Myrtle Beach Classic), July 5-11 (Genesis Scottish Open and the Isco Championship at Hurstbourne Country Club) and July 12-18 (The Open Championship and Corales Puntacana Championship). The table lists 300 FedExCup points for the Isco Championship, the Myrtle Beach Classic, the Corales Puntacana Championship and the TBD event.
 
 ## When are the 2027 FedExCup Playoffs?
 

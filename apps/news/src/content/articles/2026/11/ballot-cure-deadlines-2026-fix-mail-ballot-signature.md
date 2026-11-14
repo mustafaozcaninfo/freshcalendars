@@ -3,6 +3,7 @@ title: "Ballot Cure Deadlines 2026: Florida Nov. 5, Oregon Nov. 24"
 description: "Mail ballot signature problem? Florida's cure deadline was 5 p.m. Nov. 5; Oregon's is Nov. 24. Cure dates by state, with Arizona's missing-signature trap."
 type: explainer
 publishedAt: "2026-11-03T08:20:00-05:00"
+updatedAt: "2026-11-14T15:20:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["ballot cure deadline 2026", "how to fix mail ballot signature", "what happens to mail ballots after election day", "mail ballot rejected signature 2026"]
@@ -18,8 +19,8 @@ hero:
     author: "Michael Barera"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Michael_Barera"
 summary:
-  - "If a county finds a problem with the signature on your returned mail ballot, some states let you fix it after Election Day on Nov. 3, 2026: Florida until 5 p.m. Thu., Nov. 5 and Oregon until Tue., Nov. 24."
-  - "Between those dates: Ohio on Sat., Nov. 7, Nevada's Clark County at 5 p.m. Mon., Nov. 9, Arizona (signature mismatch) and New York on Tue., Nov. 10, and Colorado at 11:59 p.m. Mountain Time (MT) Thu., Nov. 12."
+  - "If a county finds a problem with the signature on your returned mail ballot, some states let you fix it after Election Day on Nov. 3, 2026: Florida until 5 p.m. Thu., Nov. 5 and Oregon until Tue., Nov. 24, the one confirmed window still open on Nov. 14."
+  - "Between those dates, now closed: Ohio on Sat., Nov. 7, Nevada's Clark County at 5 p.m. Mon., Nov. 9, Arizona (signature mismatch) and New York on Tue., Nov. 10, and Colorado at 11:59 p.m. Mountain Time (MT) Thu., Nov. 12."
   - "Arizona has a trap: a missing signature must be fixed by 7 p.m. on Election Day, not days later. Minnesota has no cure process after the election."
   - "Texas, Georgia, Michigan, Pennsylvania and other states are not confirmed here; ask your county election office."
 faq:
@@ -28,7 +29,7 @@ faq:
   - q: "How do I know if my ballot needs curing?"
     a: "Check your ballot status in your state's official tracker, such as Nevada's myballot.nv.gov, or on your county election office's website; the U.S. Election Assistance Commission (EAC) links to state sites at eac.gov/voters. Answer any letter, email, text or call from the election office right away."
   - q: "Can I fix a missing signature after Election Day in Arizona?"
-    a: "No. Under Arizona Revised Statutes 16-550, a missing signature must be fixed by 7:00 p.m. on Election Day, Tue., Nov. 3, 2026. A signature that does not match can be corrected until the fifth business day after the election, Tue., Nov. 10."
+    a: "No. Under Arizona Revised Statutes 16-550, a missing signature had to be fixed by 7:00 p.m. on Election Day, Tue., Nov. 3, 2026. A signature that does not match could be corrected until the fifth business day after the election, Tue., Nov. 10."
   - q: "Does every state allow ballot curing?"
     a: "No. Minnesota's statute has no cure process after the election. A ballot rejected at least five days before the election gets a replacement ballot, and an official must attempt to contact a voter whose ballot is rejected within five days of it."
 sources:
@@ -42,6 +43,7 @@ sources:
   - title: "Mail ballot signature cure notice, 2026 general election"
     url: "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:49388c5e-e4e8-4d0d-b850-be1f8290f71f/original/as/mbsigcure-26g.pdf"
     publisher: "Clark County Election Department"
+    date: "2026-11-14"
   - title: "Arizona Revised Statutes, Section 16-550"
     url: "https://www.azleg.gov/ars/16/00550.htm"
     publisher: "Arizona Legislature"
@@ -51,9 +53,11 @@ sources:
   - title: "Rejected Ballots FAQs"
     url: "https://www.coloradosos.gov/pubs/elections/FAQs/rejectedBallots.html"
     publisher: "Colorado Secretary of State"
-  - title: "Upcoming Elections"
+    date: "2026-11-14"
+  - title: "Current & Upcoming Elections"
     url: "https://sos.oregon.gov/elections/pages/current-election.aspx"
     publisher: "Oregon Secretary of State"
+    date: "2026-11-14"
   - title: "Minnesota Statutes, Section 203B.121"
     url: "https://www.revisor.mn.gov/statutes/cite/203B.121"
     publisher: "Minnesota Office of the Revisor of Statutes"
@@ -80,7 +84,7 @@ assets:
   overlay: true
   kicker: "Mail ballots · after Nov. 3"
   date: "2026-11-05"
-  card: { top: "Fix a signature problem by", big: "Nov. 5 to Nov. 24", bottom: "Cure dates for 8 states, 2026" }
+  card: { top: "Oregon cure deadline", big: "Nov. 24", bottom: "Cure dates for 8 states, 2026" }
   printable:
     kit: deadline-matrix
     slug: ballot-cure-deadlines-2026
@@ -114,7 +118,7 @@ downloads:
     pages: 1
 ---
 
-**If your mail ballot has a signature problem, some states give you days after Election Day on Nov. 3, 2026 to fix it: Florida until 5 p.m. Thu., Nov. 5 and Oregon until Tue., Nov. 24, according to each state's statute or Secretary of State.** This is called curing. The table below turns each state's written rule into a 2026 calendar date, with the weekday checked. Other states are not confirmed here; check your county election office.
+**If your mail ballot has a signature problem, some states give you days after Election Day on Nov. 3, 2026 to fix it: Florida's window ran until 5 p.m. Thu., Nov. 5 and Oregon's runs until Tue., Nov. 24, according to each state's statute or Secretary of State.** This is called curing. The table below turns each state's written rule into a 2026 calendar date, with the weekday checked. Other states are not confirmed here; check your county election office.
 
 Our [mail ballot arrival deadlines by state](/news/mail-ballot-deadlines-2026-by-state/) cover when a ballot must be postmarked or received. This story starts after that point: the ballot is in, and the county has found a problem with the envelope.
 
@@ -134,14 +138,14 @@ Dates are computed from each state's rule, with weekdays checked. The Colorado d
 | Nevada (Clark County) | 5 p.m. Mon., Nov. 9 | Mail ballot signature | Clark County notice: "Required Action by 5:00 p.m. on November 9, 2026" and "Postmarks do not count." |
 | New York | The later of 7 business days after the notice is mailed, or 5 p.m. Tue., Nov. 10 | Unsigned or mismatched signature, missing witness and similar envelope defects | Received "no later than seven business days after the board's mailing ... or by five p.m. on the seventh day following the election, whichever is later" (Election Law 9-209) |
 | Colorado | 11:59 p.m. Mountain Time (MT) Thu., Nov. 12 | Signature | "11:59 PM MT on the eighth day after Election Day. If the eighth day falls on a state or federal holiday, the deadline moves to the following day." (Colorado Secretary of State) |
-| Oregon | Tue., Nov. 24 | Challenged ballot, such as a signature | "You will have until 21 days after the election to resolve the challenge with your county elections office." (Oregon Secretary of State) |
+| Oregon | Tue., Nov. 24 | Challenged ballot, such as a signature | "Last day to resolve ballot challenges : November 24" (Oregon Secretary of State, which also lists certification on Dec. 10) |
 | Minnesota | None after the election | Replacement ballot or voting in person | No cure process; see below (Minnesota Statutes 203B.121) |
 
-Nevada's tracker, [myballot.nv.gov](https://myballot.nv.gov/), shows ballot status. Voters in other Nevada counties should check the notice from their own county.
+As of Nov. 14, every date in the table except Oregon's has passed. Nevada's tracker, [myballot.nv.gov](https://myballot.nv.gov/), shows ballot status. Voters in other Nevada counties should check the notice from their own county.
 
 ## Why is Arizona's missing-signature deadline Election Day?
 
-Arizona treats two signature problems differently. A signature that does not match can be corrected until the fifth business day after the election, which is Tue., Nov. 10, 2026. A missing signature has a much shorter window: "not later than 7:00 p.m. on election day," Tue., Nov. 3, under Arizona Revised Statutes 16-550. A voter who learns of a missing signature after Nov. 3 is past that deadline.
+Arizona treats two signature problems differently. A signature that does not match could be corrected until the fifth business day after the election, which was Tue., Nov. 10, 2026. A missing signature had a much shorter window: "not later than 7:00 p.m. on election day," Tue., Nov. 3, under Arizona Revised Statutes 16-550. A voter who learned of a missing signature after Nov. 3 was past that deadline.
 
 ## How does Colorado's Veterans Day change its cure deadline?
 

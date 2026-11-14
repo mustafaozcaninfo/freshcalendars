@@ -3,6 +3,7 @@ title: "Christmas Jumper Day 2026 Is Thursday, Dec. 10: Countdown Planner"
 description: "Christmas Jumper Day 2026 is Thursday 10 December, says Save the Children UK, though groups may pick another day. Countdown dates and a printable planner."
 type: news
 publishedAt: "2026-10-30T23:40:00-04:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["christmas jumper day 2026", "when is christmas jumper day 2026", "christmas jumper day 2026 date", "christmas jumper day ideas school"]
@@ -61,7 +62,7 @@ sources:
   - title: "Christmas Jumper Day 2026 For Charity | Save The Children UK"
     url: "https://www.savethechildren.org.uk/christmas-jumper-day"
     publisher: "Save the Children UK"
-    date: "2026-10-31"
+    date: "2026-11-14"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -90,7 +91,7 @@ downloads:
 draft: false
 ---
 
-**Save the Children UK's Christmas Jumper Day 2026 is Thursday 10 December 2026,** according to the charity's official Christmas Jumper Day page (read Oct. 31, 2026), and groups may pick another day. Below is a countdown with suggested dates for a school or workplace organiser, the facts from the page in one table, and a one-page printable planner.
+**Save the Children UK's Christmas Jumper Day 2026 is Thursday 10 December 2026,** according to the charity's official Christmas Jumper Day page (read Nov. 14, 2026), and groups may pick another day. Below is a countdown with suggested dates for a school or workplace organiser, the facts from the page in one table, and a one-page printable planner.
 
 ## What date is Christmas Jumper Day 2026?
 
@@ -108,6 +109,7 @@ The page says: "Sign up for Christmas Jumper Day 2026 on Thursday 10 December." 
 | Employers | "Ask your workplace about matching the total you raise" |
 | First one | 14 December 2012 (a Friday, by our calculation) |
 | 2025 result | "In 2025 you raised an absolutely amazing £2.6 million" |
+| Total since 2012 | "£42M+ has been raised" |
 
 The page does not give a sign-up deadline, so we list none.
 

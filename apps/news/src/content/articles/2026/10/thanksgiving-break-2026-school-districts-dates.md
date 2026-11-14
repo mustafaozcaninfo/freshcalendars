@@ -2,7 +2,7 @@
 title: "Thanksgiving 2026 School Break: 52 of 81 Districts Off Nov. 23-27"
 description: "Thanksgiving 2026 school break: 52 of 81 districts are off Nov. 23-27, 18 from Nov. 25, and 11 only Nov. 26-27. A free printable lists 60 of them."
 type: news
-updatedAt: "2026-11-09T11:35:00-05:00"
+updatedAt: "2026-11-14T15:08:00-05:00"
 publishedAt: "2026-10-22T13:10:00-04:00"
 authors: [aaron-kessler]
 category: school-calendars
@@ -148,7 +148,7 @@ assets:
           src: 47
         - cells: { district: "Hawaii public schools", off: "Thu., Nov. 26 to Fri., Nov. 27", days: "2" }
           src: 48
-        - cells: { district: "Seattle Public Schools", off: "Thu., Nov. 26 to Fri., Nov. 27", days: "2" }
+        - cells: { district: "Seattle Public Schools (no school Nov. 23-25 for elementary and K-8)", off: "Thu., Nov. 26 to Fri., Nov. 27", days: "2" }
           src: 49
 hero:
   src: ../../../../assets/news/thanksgiving-break-2026-school-districts-dates/thanksgiving-break-2026-school-districts-dates.jpg
@@ -158,13 +158,13 @@ hero:
 summary:
   - "Thanksgiving is Thursday, Nov. 26, 2026. In 52 of 81 U.S. districts we checked, students are off the whole week, Monday, Nov. 23 through Friday, Nov. 27."
   - "Eighteen districts start the break on Wednesday, Nov. 25, among them Clark County, Fairfax County, Wake County, Charlotte-Mecklenburg, Philadelphia, DC Public Schools and Minneapolis."
-  - "Eleven districts, including New York City, Chicago, Boston and Seattle, hold classes Monday to Wednesday and close only Nov. 26-27; Montgomery County, Md., dismisses early Nov. 23-25."
+  - "Eleven districts, including New York City, Chicago and Boston, hold classes Monday to Wednesday and close only Nov. 26-27; Montgomery County, Md., dismisses early Nov. 23-25, and Seattle elementary and K-8 schools close Nov. 23-25 for conferences."
   - "Classes resume Monday, Nov. 30 in 21 of the 24 districts in the chart. A free printable lists 60 of them."
 faq:
   - q: "When is Thanksgiving break 2026?"
     a: "For 52 of the 81 districts we checked, Monday, Nov. 23 through Friday, Nov. 27, 2026. Some districts start on Wednesday, Nov. 25, and a few close only on Thanksgiving Day, Nov. 26, and Friday, Nov. 27."
   - q: "Is there school the week of Thanksgiving 2026?"
-    a: "It depends on the district. Los Angeles, Miami-Dade, Houston, Dallas, Cobb County, Austin and every Florida district in the table are closed all week. New York City, Chicago, Boston, Seattle and Montgomery County, Md., have school Monday through Wednesday."
+    a: "It depends on the district. Los Angeles, Miami-Dade, Houston, Dallas, Cobb County, Austin and every Florida district in the table are closed all week. New York City, Chicago, Boston and Montgomery County, Md., have school Monday through Wednesday. Seattle elementary and K-8 schools are closed Nov. 23-25 for conferences."
   - q: "Do NYC public schools have Thanksgiving week off in 2026?"
     a: "No. NYC Public Schools close for Thanksgiving recess on Thursday, Nov. 26 and Friday, Nov. 27 only. Classes meet Monday through Wednesday, Nov. 23-25."
   - q: "Does Los Angeles Unified have the whole Thanksgiving week off?"
@@ -321,6 +321,7 @@ sources:
   - title: "2026-27 School Year Dates"
     url: "https://www.seattleschools.org/school-year-dates"
     publisher: "Seattle Public Schools"
+    date: "2026-11-14"
   - title: "2026-27 School Year Calendar"
     url: "https://resources.finalsite.net/images/v1781034912/asdk12org/oepf6wk9lxaj6widuixy/26-27_Accessible.pdf"
     publisher: "Anchorage School District"
@@ -521,7 +522,7 @@ Thanksgiving is Thursday, Nov. 26, 2026. Every date below comes from the distric
 | [Baltimore County, Md.](/news/baltimore-county-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 (Nov. 25 is a school day) |
 | [Boston Public Schools](/news/boston-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
 | [Hawaii public schools](/news/hawaii-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
-| [Seattle Public Schools](/news/seattle-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
+| [Seattle Public Schools](/news/seattle-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 (elementary and K-8 schools also closed Nov. 23-25 for conferences) |
 | [Anchorage, Alaska](/news/anchorage-school-district-calendar-2026-27/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
 | [Newark Public Schools, N.J.](/news/newark-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
 | [Pittsburgh Public Schools, Pa.](/news/pittsburgh-public-schools-calendar-2026-27-breaks/) | Thu., Nov. 26 to Fri., Nov. 27 | 2 |
@@ -545,7 +546,8 @@ Clark County, which covers Las Vegas, has no school on Wednesday, Nov. 25. The d
 
 - **New York City Public Schools** close for Thanksgiving recess on Nov. 26 and 27 only. The [NYC public schools calendar](/news/nyc-public-schools-calendar-2026-27-breaks-holidays/) has every other day off this year.
 - **Chicago Public Schools** close Nov. 26 and 27. See the [Chicago Public Schools calendar](/news/chicago-public-schools-calendar-2026-27-breaks/) for the rest of the year.
-- **Baltimore County, Md.,** Boston, Hawaii and Seattle also close only Nov. 26-27. In Baltimore County, Wednesday, Nov. 25 is a school day with early dismissal, 3 hours early, per its calendar.
+- **Baltimore County, Md.,** Boston and Hawaii also close only Nov. 26-27. In Baltimore County, Wednesday, Nov. 25 is a school day with early dismissal, 3 hours early, per its calendar.
+- **Seattle** closes all schools Nov. 26-27, and its district calendar also lists Nov. 23-25 as Family-Teacher conference days with no school for elementary and K-8 schools; middle and high schools are open unless a school says otherwise.
 - **Anchorage, Newark, Pittsburgh and Saint Paul** also close only Nov. 26-27. Newark dismisses students and staff at 1 p.m. on Wednesday, Nov. 25.
 - **Montgomery County, Md.,** closes Nov. 26 and 27 and dismisses students early on Monday, Tuesday and Wednesday, Nov. 23, 24 and 25. The [Montgomery County Public Schools calendar](/news/montgomery-county-public-schools-calendar-2026-27-breaks/) has the rest of the year.
 

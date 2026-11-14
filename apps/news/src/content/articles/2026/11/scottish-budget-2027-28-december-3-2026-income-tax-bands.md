@@ -3,6 +3,7 @@ title: "Scottish Budget 2027-28: Thursday 3 December 2026 and Tax Bands"
 description: "The Scottish Budget 2027-28 is set for Thursday 3 December 2026. The 2026-27 income tax bands run from 19% to 48%, with tax worked out at four salaries."
 type: news
 publishedAt: "2026-11-04T09:15:00-05:00"
+updatedAt: "2026-11-14T15:36:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["scottish budget 2026 date", "scottish budget december 2026", "scottish income tax 2027-28", "scottish budget 2027-28"]
@@ -43,6 +44,10 @@ sources:
     url: "https://www.parliament.scot/chamber-and-committees/committees/current-and-previous-committees/session-7/finance-and-public-administration-committee/correspondence/2026/draft-scottish-budget-timetable-scottish-government-update-september-2026"
     publisher: "Scottish Parliament"
     date: "2026-09-03"
+  - title: "UK Budget delivers real cut to Scotland's funding"
+    url: "https://www.gov.scot/news/uk-budget-delivers-real-cut-to-scotlands-funding/"
+    publisher: "Scottish Government"
+    date: "2026-10-28"
   - title: "Forthcoming Publications - September 2026"
     url: "https://fiscalcommission.scot/?p=16208"
     publisher: "Scottish Fiscal Commission"
@@ -143,6 +148,8 @@ Thursday 3 December 2026. Gilruth wrote to Clare Haughey, Member of the Scottish
 The SFC's "Forthcoming Publications - September 2026" page agrees. It says the Scottish Government is "to present its 2027-28 Budget on Thursday 3 December 2026" and adds: "We will publish our next forecasts – Scotland's Economic and Fiscal Forecasts – at the same time as the Budget."
 
 The time of the statement is not announced. The Scottish Parliament had no business listing for 3 December when we checked, so we give no start time.
+
+The UK Budget Gilruth's letter waited for took place on 28 October 2026. The Scottish Government said that day that it delivers a real terms cut of around £650 million to Scotland's budget in 2027-28, made up of a 1.3% cut in the resource block grant (around £550 million) and a 1.5% cut in capital (around £100 million). How the Scottish Government responds is for the 3 December Budget.
 
 ## Scottish Budget dates still to be scheduled
 

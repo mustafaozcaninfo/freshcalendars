@@ -3,6 +3,7 @@ title: "Florida Legislative Session 2027: March 2 to April 30, Committee Weeks"
 description: "Florida's 2027 session opens Tue., March 2 and runs to Fri., April 30. Every interim committee week, the Nov. 17 organization session and a printable."
 type: explainer
 publishedAt: "2026-11-10T06:10:00-05:00"
+updatedAt: "2026-11-14T15:40:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["florida legislative session 2027", "when does florida legislature start 2027", "florida legislative session 2027 dates", "florida organization session 2026"]
@@ -39,13 +40,17 @@ sources:
   - title: "2026-2027 Interim Committee Meeting Schedule (memo from the Secretary of the Senate, Aug. 3, 2026)"
     url: "https://www.flsenate.gov/PublishedContent/Offices/President/2026-2027_Interim_Committee_Meeting_Schedule_.pdf"
     publisher: "The Florida Senate"
-    date: "2026-08-03"
+    date: "2026-11-14"
   - title: "2027 Regular Session Dates"
     url: "https://www.flsenate.gov/PublishedContent/Home/CalendarLinks/Links/000_-_2027_Session_Dates.pdf"
     publisher: "The Florida Senate"
   - title: "Important Legislative Dates for the 2026 Regular Session"
     url: "https://www.flhouse.gov/FileStores/Web/HouseContent/Approved/ClerksOffice/ImportantLegislativeDates.pdf"
     publisher: "Florida House of Representatives"
+  - title: "The Florida Senate home page, 2026 Organization Session notice"
+    url: "https://www.flsenate.gov/"
+    publisher: "The Florida Senate"
+    date: "2026-11-14"
   - title: "Senate calendar, March 13, 2026"
     url: "https://flsenate.gov/Home/03-13-2026"
     publisher: "The Florida Senate"
@@ -101,7 +106,7 @@ draft: false
 
 | Date | What happens | Source |
 |---|---|---|
-| Tue., Nov. 17, 2026 | Organization session, "for the exclusive purpose of organization and selection of officers" | Senate memo, Aug. 3, 2026 |
+| Tue., Nov. 17, 2026 | Organization session, "for the exclusive purpose of organization and selection of officers"; the Senate convenes at 10:00 a.m. ET | Senate memo, Aug. 3, 2026; Senate website |
 | Tue., Nov. 17-Thu., Nov. 19, 2026 | Training for Senators | Senate memo |
 | Mon., Nov. 30-Thu., Dec. 3, 2026 | Interim committee week | Senate memo |
 | Mon., Jan. 4-Thu., Jan. 7, 2027 | Interim committee week | Senate memo |
@@ -113,7 +118,7 @@ draft: false
 | Tue., April 20, 2027 (day 50) | Last day for regularly scheduled committee meetings, Senate Rule 2.9(2) | 2027 Regular Session dates |
 | Fri., April 30, 2027 (day 60) | Last day of Regular Session | 2027 Regular Session dates |
 
-The Senate memo, signed by Secretary of the Senate Tracy C. Cantella, says the interim weeks were agreed to with the Florida House. It also says more information on the organization session will be distributed after the 2026 general election, so the time and program are not yet announced.
+The Senate memo, signed by Secretary of the Senate Tracy C. Cantella, says the interim weeks were agreed to with the Florida House. It also says more information on the organization session would follow the 2026 general election. The Senate's website now says it "will convene in Organization Session at 10:00 a.m. on Tuesday, November 17, 2026." The House has not posted its start time on its home page, so the House time is not yet announced.
 
 ## Why does the Florida Legislature meet on Nov. 17?
 

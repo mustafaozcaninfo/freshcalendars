@@ -3,6 +3,7 @@ title: "St. Nicholas Day 2026: Sunday, Dec. 6, Eve on Dec. 5"
 description: "St. Nicholas Day 2026 is Sunday, Dec. 6, with the eve on Saturday, Dec. 5. Why U.S. Catholic calendars skip him that day, and the Sinterklaas date."
 type: explainer
 publishedAt: "2026-11-03T06:00:00-05:00"
+updatedAt: "2026-11-14T15:31:00-05:00"
 authors: [christina-gerland]
 category: holidays
 dateline: "Washington"
@@ -22,7 +23,7 @@ summary:
   - "St. Nicholas Day falls on Sunday, Dec. 6, 2026, and the eve is Saturday, Dec. 5."
   - "Dec. 6, 2026 is the Second Sunday of Advent, so the United States Conference of Catholic Bishops (USCCB) calendar does not list Saint Nicholas that day; in 2027 he is back on Monday, Dec. 6."
   - "The Orthodox Church in America (OCA) lists Saint Nicholas the Wonderworker on Sunday, Dec. 6, 2026."
-  - "The national Sinterklaas arrival in the Netherlands is Saturday, Nov. 14, in Grave, with the live broadcast at noon Central European Time (CET), 6 a.m. Eastern Time (ET)."
+  - "The national Sinterklaas arrival in the Netherlands was Saturday, Nov. 14, in Grave, with the live broadcast at noon Central European Time (CET), 6 a.m. Eastern Time (ET)."
 faq:
   - q: "When is St. Nicholas Day in 2026?"
     a: "Sunday, Dec. 6, 2026. The Orthodox Church in America (OCA) gives the calendar date as Sunday, December 6, 2026."
@@ -30,8 +31,8 @@ faq:
     a: "Saturday, Dec. 5, 2026. The St. Nicholas Center calls Dec. 5 the Eve of Sinterklaas."
   - q: "Why is St. Nicholas not on the U.S. Catholic calendar on Dec. 6, 2026?"
     a: "Dec. 6, 2026 is the Second Sunday of Advent, and the United States Conference of Catholic Bishops (USCCB) lists only that Sunday on the day. Saint Nicholas is an optional memorial in its calendar."
-  - q: "When is the national Sinterklaas arrival in 2026?"
-    a: "Saturday, Nov. 14, in Grave, North Brabant, the Netherlands, per Omroep Brabant. The live broadcast starts at noon Central European Time (CET), which is 6 a.m. Eastern Time (ET)."
+  - q: "When was the national Sinterklaas arrival in 2026?"
+    a: "Saturday, Nov. 14, in Grave, North Brabant, the Netherlands, per Omroep Brabant. The live broadcast started at noon Central European Time (CET), which is 6 a.m. Eastern Time (ET)."
 sources:
   - title: "Liturgical Calendar for the Dioceses of the United States of America 2026"
     url: "https://www.usccb.org/resources/2026cal.pdf"
@@ -79,6 +80,7 @@ assets:
     subtitle: "Sinterklaas arrival, the eve and the feast, with notes for your own plans"
     year: 2026
     layout: checklist
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - { when: "Sat., Nov. 14", what: "National Sinterklaas arrival in Grave; live broadcast at noon CET, 6 a.m. ET", section: "Dates" }
       - { when: "Sat., Dec. 5", what: "St. Nicholas Eve", section: "Dates" }
@@ -93,7 +95,7 @@ assets:
     alt: "St. Nicholas 2026 checklist with tick boxes for Nov. 14, Dec. 5, Dec. 6 and a shoe-night list"
 ---
 
-**St. Nicholas Day 2026 is Sunday, Dec. 6, and the eve is Saturday, Dec. 5.** The Orthodox Church in America (OCA) gives the calendar date for Saint Nicholas the Wonderworker as Sunday, December 6, 2026. The same day is the Second Sunday of Advent, which changes how the U.S. Catholic calendar treats it. Dec. 6 is 33 days away from Nov. 3, and the national Sinterklaas arrival in the Netherlands, Saturday, Nov. 14, is 11 days away.
+**St. Nicholas Day 2026 is Sunday, Dec. 6, and the eve is Saturday, Dec. 5.** The Orthodox Church in America (OCA) gives the calendar date for Saint Nicholas the Wonderworker as Sunday, December 6, 2026. The same day is the Second Sunday of Advent, which changes how the U.S. Catholic calendar treats it. The national Sinterklaas arrival in the Netherlands took place on Saturday, Nov. 14, which starts the Sinterklaas season ahead of the eve.
 
 ## When is St. Nicholas Day in 2026?
 
@@ -116,11 +118,11 @@ In 2027 he is back. The USCCB's 2027 calendar lists Monday, Dec. 6, 2027 as "Adv
 
 Put the dates on your [December 2026 printable calendar](/december-calendars.html) and the Nov. 14 arrival on the [November 2026 printable calendar](/november-calendars.html).
 
-## When is the national Sinterklaas arrival in the Netherlands?
+## When was the national Sinterklaas arrival in the Netherlands?
 
-The national Sinterklaas arrival (landelijke intocht) in 2026 is Saturday, Nov. 14, in Grave, in the municipality of Land van Cuijk, North Brabant. Omroep Brabant reported that the town is confirmed by the municipality and the broadcaster, and that it is the first national arrival in Brabant since 2000. Hart van Nederland also named Grave as this year's host city, and the St. Nicholas Center lists the same date and place.
+The national Sinterklaas arrival (landelijke intocht) in 2026 was Saturday, Nov. 14, in Grave, in the municipality of Land van Cuijk, North Brabant. Omroep Brabant reported that the town is confirmed by the municipality and the broadcaster, and that it is the first national arrival in Brabant since 2000. Hart van Nederland also named Grave as this year's host city, and the St. Nicholas Center lists the same date and place.
 
-The live broadcast starts at 12:00 (noon) Central European Time (CET). CET is UTC+1 and Eastern Time (ET) is UTC-5 after Nov. 1, so that is 6 a.m. ET. We computed the conversion.
+The live broadcast started at 12:00 (noon) Central European Time (CET). CET is UTC+1 and Eastern Time (ET) is UTC-5 after Nov. 1, so that is 6 a.m. ET. We computed the conversion.
 
 ## What happens on St. Nicholas Eve?
 

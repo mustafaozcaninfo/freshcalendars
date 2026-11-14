@@ -3,6 +3,7 @@ title: "Ballet Nutcracker 2026: Opening Dates for 7 Companies From Nov. 27"
 description: "Ballet Nutcracker 2026 opens Fri., Nov. 27 at New York City Ballet, Boston Ballet and Pacific Northwest Ballet. Table of 7 companies' openings, run times."
 type: news
 publishedAt: "2026-11-01T22:40:00-05:00"
+updatedAt: "2026-11-14T15:36:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["nutcracker 2026", "nutcracker 2026 dates", "nyc ballet nutcracker 2026", "boston ballet nutcracker 2026", "when does the nutcracker start"]
@@ -54,31 +55,31 @@ sources:
   - title: "George Balanchine's The Nutcracker"
     url: "https://www.nycballet.com/nutcracker/"
     publisher: "New York City Ballet"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "The Nutcracker"
     url: "https://www.bostonballet.org/nutcracker"
     publisher: "Boston Ballet"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "Nutcracker"
     url: "https://www.sfballet.org/nutcracker/"
     publisher: "San Francisco Ballet"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "Nutcracker"
     url: "https://www.pnb.org/nutcracker/"
     publisher: "Pacific Northwest Ballet"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "Nutcracker"
     url: "https://www.atlantaballet.com/performances/nutcracker"
     publisher: "Atlanta Ballet"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "Nutcracker"
     url: "https://www.ballet.org.uk/"
     publisher: "English National Ballet"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "The Nutcracker"
     url: "https://www.rbo.org.uk/"
     publisher: "Royal Ballet and Opera"
-    date: "2026-11-01"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -92,6 +93,7 @@ assets:
   date: "2026-11-27"
   card: { top: "Three companies open", big: "Fri., Nov. 27", bottom: "New York, Boston and Seattle" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: nutcracker-2026-season-dates-by-company
     group: nutcracker-2026
     title: "Nutcracker 2026 Season Calendar by Company"
@@ -111,7 +113,7 @@ assets:
     alt: "Printable list of 2026 Nutcracker opening dates for seven ballet companies, ordered by opening date."
 ---
 
-**New York City Ballet, Boston Ballet and Pacific Northwest Ballet (PNB) all open The Nutcracker on Friday, Nov. 27, 2026, the day after Thanksgiving**, according to each company's own website, read in early November 2026. San Francisco Ballet opens Friday, Dec. 4, Atlanta Ballet opens Saturday, Dec. 5, and two London companies list December starts. The table below puts all seven side by side, and a one-page printable lists them by opening date.
+**New York City Ballet, Boston Ballet and Pacific Northwest Ballet (PNB) all open The Nutcracker on Friday, Nov. 27, 2026, the day after Thanksgiving**, according to each company's own website, read on Nov. 1 and again on Nov. 14, 2026. San Francisco Ballet opens Friday, Dec. 4, Atlanta Ballet opens Saturday, Dec. 5, and two London companies list December starts. The table below puts all seven side by side, and a one-page printable lists them by opening date.
 
 ## Nutcracker 2026 runs by company
 
@@ -125,13 +127,13 @@ assets:
 | Thu., Dec. 3 | Royal Ballet and Opera, London | Wed., Jan. 13, 2027 | Main stage | Not listed | Not listed |
 | Fri., Dec. 4 | San Francisco Ballet | Sun., Dec. 27 | War Memorial Opera House | About 2 hours 7 minutes | Dec. 27, per the company's page |
 | Sat., Dec. 5 | Atlanta Ballet | Sat., Dec. 26 | Cobb Energy Performing Arts Centre | 2 hours 8 minutes, including intermission | Not listed |
-| Thu., Dec. 17 | English National Ballet (ENB), London | Sun., Jan. 10, 2027 | Not listed | Not listed | Not listed |
+| Thu., Dec. 17 | English National Ballet (ENB), London | Sun., Jan. 10, 2027 | London Coliseum | Not listed | Not listed |
 
 ## When does the Nutcracker start in New York, Boston and Seattle?
 
 All three open Friday, Nov. 27. New York City Ballet lists the run as Nov. 27, 2026 to Jan. 2, 2027, and Boston Ballet lists November 27 to December 31, 2026. Pacific Northwest Ballet lists November 27 to December 27, 2026, and its Opening Weekend Enchanted Lobby runs Nov. 27-29. Boston Ballet also lists an "Elevated Nutcracker Experience" on Dec. 12 and 19 at 1:30 p.m.
 
-When we read Boston Ballet's page, it said ticket transactions were paused for system maintenance and that the company could not process transactions during that time. It lists early access for subscribers and for groups of 10 or more.
+When we read Boston Ballet's page on Nov. 14, it still said ticket transactions were paused for system maintenance and that the company could not process transactions during that time. It lists early access for subscribers and for groups of 10 or more.
 
 ## Nutcracker dates in San Francisco and Atlanta
 
@@ -141,7 +143,7 @@ Atlanta Ballet lists December 5-26, 2026 at the Cobb Energy Performing Arts Cent
 
 ## London Nutcracker dates in 2026
 
-Royal Ballet and Opera lists The Nutcracker on its main stage from 3 December 2026 to 13 January 2027, and cinema screenings from Tuesday, 1 December 2026. English National Ballet lists Thursday, 17 Dec 2026 to Sunday, 10 Jan 2027. Its listing does not name a venue, so we do not either.
+Royal Ballet and Opera lists The Nutcracker on its main stage from 3 December 2026 to 13 January 2027, and cinema screenings from Tuesday, 1 December 2026. English National Ballet lists Thursday, 17 Dec 2026 to Sunday, 10 Jan 2027. Its site names the London Coliseum as the venue.
 
 ## Sensory-friendly, relaxed and audio-described Nutcracker performances
 

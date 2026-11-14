@@ -3,6 +3,7 @@ title: "Winter Fuel Payment 2026: £100 to £300, Paid Nov.-Dec."
 description: "Winter Fuel Payment 2026 is £100 to £300 for people born on or before 27 June 1960. Amounts by birth date, the £35,000 income rule and a free printable."
 type: news
 publishedAt: "2026-10-26T12:25:00-04:00"
+updatedAt: "2026-11-14T15:43:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["winter fuel payment 2026", "winter fuel payment 2026 dates", "when will winter fuel payment be paid 2026", "winter fuel payment £35,000", "winter fuel payment how much"]
@@ -20,7 +21,7 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:247homerescue"
 summary:
   - "People born on or before 27 June 1960 could get £100 to £300 for winter 2026 to 2027, according to GOV.UK."
-  - "GOV.UK says most eligible people will be paid in November or December 2026. Exact payment dates are not published."
+  - "GOV.UK says most eligible people will be paid in November or December 2026. Exact payment dates are not published, and GOV.UK says to contact the payment centre if nothing has arrived by 27 January 2027."
   - "If total income is over £35,000, HM Revenue and Customs (HMRC) takes the payment back; a partner's income does not count."
   - "The claim deadline for winter 2026 to 2027 is Wednesday, 31 March 2027. Scotland has its own Pension Age Winter Heating Payment."
 faq:
@@ -35,40 +36,48 @@ faq:
   - q: "Can I opt out of the Winter Fuel Payment for 2026?"
     a: "No. GOV.UK says you can no longer opt out for 2026 to 2027. Opting out for 2027 to 2028 is possible from 21 December 2026."
   - q: "Do people in Scotland get the Winter Fuel Payment?"
-    a: "No. The Pension Age Winter Heating Payment replaces it in Scotland, between £105.55 and £316.70, according to mygov.scot. Payment dates for it are not published on the page we used."
+    a: "No. The Pension Age Winter Heating Payment replaces it in Scotland, between £105.55 and £316.70, according to mygov.scot. mygov.scot says payments start from November 2026 and continue throughout winter."
 sources:
   - title: "Winter Fuel Payment: Overview"
     url: "https://www.gov.uk/winter-fuel-payment"
     publisher: "GOV.UK"
-    date: "2026-10-26"
+    date: "2026-11-14"
   - title: "Winter Fuel Payment: Eligibility"
     url: "https://www.gov.uk/winter-fuel-payment/eligibility"
     publisher: "GOV.UK"
-    date: "2026-10-26"
+    date: "2026-11-14"
   - title: "Winter Fuel Payment: How much you'll get"
     url: "https://www.gov.uk/winter-fuel-payment/how-much-youll-get"
     publisher: "GOV.UK"
-    date: "2026-10-26"
+    date: "2026-11-14"
+  - title: "Winter Fuel Payment: When you'll get paid"
+    url: "https://www.gov.uk/winter-fuel-payment/when-youll-get-paid"
+    publisher: "GOV.UK"
+    date: "2026-11-14"
   - title: "Winter Fuel Payment: How to claim"
     url: "https://www.gov.uk/winter-fuel-payment/how-to-claim"
     publisher: "GOV.UK"
-    date: "2026-10-26"
+    date: "2026-11-14"
   - title: "Paying back the Winter Fuel Payment"
     url: "https://www.gov.uk/guidance/paying-back-the-winter-fuel-payment"
     publisher: "GOV.UK"
-    date: "2026-10-26"
+    date: "2026-11-14"
   - title: "Winter Fuel Payment: Opt out"
     url: "https://www.gov.uk/winter-fuel-payment/opt-out-of-winter-fuel-payment"
     publisher: "GOV.UK"
-    date: "2026-10-26"
+    date: "2026-11-14"
   - title: "Winter Fuel Payment"
     url: "https://www.nidirect.gov.uk/articles/winter-fuel-payment"
     publisher: "nidirect"
-    date: "2026-10-26"
+    date: "2026-11-14"
   - title: "Pension Age Winter Heating Payment"
     url: "https://www.mygov.scot/pension-age-winter-heating-payment"
     publisher: "mygov.scot"
-    date: "2026-10-26"
+    date: "2026-11-14"
+  - title: "Pension Age Winter Heating Payment: When you'll be paid"
+    url: "https://www.mygov.scot/pension-age-winter-heating-payment/when-youll-be-paid"
+    publisher: "mygov.scot"
+    date: "2026-11-14"
 internalLinks:
   - href: "/uk-holidays/"
     label: "2026 UK holiday list"
@@ -94,27 +103,20 @@ assets:
       - ["Nov. to Dec. 2026", "Most eligible people are paid (exact dates not published)"]
       - ["Mon., Dec. 21, 2026", "Opting out for 2027 to 2028 becomes possible"]
       - ["Jan. 2027", "Tax code changes to start collecting the 2026 payment if income is over £35,000"]
+      - ["Wed., Jan. 27, 2027", "Contact the payment centre if no letter or payment has arrived"]
       - ["Mar. 31, 2027", "Wednesday: deadline to claim for winter 2026 to 2027"]
-    note: "Source: GOV.UK Winter Fuel Payment pages; mygov.scot; nidirect. Exact payment dates are not published."
-    inkSaver: true
-    description: "One-page Winter Fuel Payment 2026 timeline: qualifying week, phone claims, letters, payments, opt-out and the 31 March 2027 claim deadline."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
+    note: "Source: GOV.UK Winter Fuel Payment pages, re-read Nov. 14, 2026; mygov.scot; nidirect. Exact payment dates are not published."
+    description: "One-page Winter Fuel Payment 2026 timeline: qualifying week, phone claims, letters, payments, opt-out, 27 January contact date and the 31 March 2027 claim deadline."
     alt: "Printable Winter Fuel Payment 2026 key dates timeline from the September qualifying week to the 31 March 2027 claim deadline"
 downloads:
   - group: "Winter Fuel Payment 2026 Key Dates printables"
     title: "Winter Fuel Payment 2026 Key Dates"
-    description: "One-page Winter Fuel Payment 2026 timeline: qualifying week, phone claims, letters, payments, opt-out and the 31 March 2027 claim deadline."
+    description: "One-page Winter Fuel Payment 2026 timeline: qualifying week, phone claims, letters, payments, opt-out, 27 January contact date and the 31 March 2027 claim deadline."
     preview: ../../../../assets/news/winter-fuel-payment-2026/winter-fuel-payment-2026-key-dates.png
     alt: "Printable Winter Fuel Payment 2026 key dates timeline from the September qualifying week to the 31 March 2027 claim deadline"
     pdf: "/news/downloads/winter-fuel-payment-2026/winter-fuel-payment-2026-key-dates.pdf"
     png: "/news/downloads/winter-fuel-payment-2026/winter-fuel-payment-2026-key-dates.png"
-    pages: 1
-  - group: "Winter Fuel Payment 2026 Key Dates printables"
-    title: "Winter Fuel Payment 2026 Key Dates (ink saver)"
-    description: "One-page Winter Fuel Payment 2026 timeline: qualifying week, phone claims, letters, payments, opt-out and the 31 March 2027 claim deadline. Ink-saver version."
-    preview: ../../../../assets/news/winter-fuel-payment-2026/winter-fuel-payment-2026-key-dates-ink.png
-    alt: "Printable Winter Fuel Payment 2026 key dates timeline from the September qualifying week to the 31 March 2027 claim deadline, ink-saver version"
-    pdf: "/news/downloads/winter-fuel-payment-2026/winter-fuel-payment-2026-key-dates-ink.pdf"
-    png: "/news/downloads/winter-fuel-payment-2026/winter-fuel-payment-2026-key-dates-ink.png"
     pages: 1
 draft: false
 ---
@@ -146,7 +148,7 @@ Source: GOV.UK, "Winter Fuel Payment: How much you'll get", fetched 26 Oct. 2026
 
 ## When will the Winter Fuel Payment be paid?
 
-GOV.UK says most eligible people will be paid in November or December 2026. It does not publish a payment date, so do not rely on a specific day from any other site. The dates that are published are below.
+GOV.UK says most eligible people will be paid in November or December 2026. It does not publish a payment date, so do not rely on a specific day from any other site. If you have no letter, or the money has not reached your account by 27 January 2027, GOV.UK says to contact the Winter Fuel Payment Centre. The dates that are published are below.
 
 | Date | What happens | Source |
 |---|---|---|
@@ -156,6 +158,7 @@ GOV.UK says most eligible people will be paid in November or December 2026. It d
 | Nov. and Dec. 2026 | Most eligible people are paid | GOV.UK |
 | Mon., 21 Dec. 2026 | Opting out for 2027 to 2028 becomes possible | GOV.UK |
 | Jan. 2027 | Tax code changes to start collecting the 2026 payment | GOV.UK |
+| Wed., 27 Jan. 2027 | Contact the Winter Fuel Payment Centre if you have no letter or the money has not arrived | GOV.UK |
 | Wed., 31 March 2027 | Claim deadline for winter 2026 to 2027 | GOV.UK |
 
 Our [December 2026 printable calendar](/december-calendars.html) has room to mark the payment window, and the [2026 UK holiday list](/uk-holidays/) shows the bank holidays that fall in it. The [Christmas bank holidays story](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/) covers the substitute Boxing Day on Monday, 28 December.
@@ -180,8 +183,8 @@ GOV.UK says the deadline to claim for winter 2026 to 2027 is Wednesday, 31 March
 
 ## What about Scotland?
 
-The Winter Fuel Payment does not apply in Scotland. The Pension Age Winter Heating Payment (PAWHP) replaces it there, and mygov.scot gives an amount of between £105.55 and £316.70. It says letters are being sent from November 2026, and that the £35,000 income limit applies to individual income. We did not find payment dates for it, so none are listed.
+The Winter Fuel Payment does not apply in Scotland. The Pension Age Winter Heating Payment (PAWHP) replaces it there, and mygov.scot gives an amount of between £105.55 and £316.70. It says letters are being sent from November 2026, payments start from November 2026 and continue throughout winter, and the £35,000 income limit applies to individual income. mygov.scot gives no single payment date, and says to contact Social Security Scotland if you have not been paid by the start of March 2027.
 
 ## Printable
 
-The key-dates timeline, from the qualifying week to the 31 March 2027 claim deadline, is in the downloads below. For next year's days off, see our [UK bank holidays 2027 list](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/), and for the other UK money date this week, the [UK Budget 2026 story](/news/uk-budget-2026-date-wednesday-28-october-what-time/). The [2026 printable yearly calendar](/printable-yearly-calendar.html) shows the whole winter on one page.
+The key-dates timeline, from the qualifying week to the 31 March 2027 claim deadline, is in the downloads below. For next year's days off, see our [UK bank holidays 2027 list](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/), and for the other UK money date that month, the [UK Budget 2026 story](/news/uk-budget-2026-date-wednesday-28-october-what-time/). The [2026 printable yearly calendar](/printable-yearly-calendar.html) shows the whole winter on one page.

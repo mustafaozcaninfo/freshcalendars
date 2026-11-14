@@ -3,7 +3,7 @@ title: "Early Decision Deadlines 2026: Nov. 1 at 10 Colleges, Duke Nov. 2"
 description: "Early Decision (ED) and Early Action (EA) deadlines were Nov. 1 at 10 colleges and Nov. 2 at Duke. The University of California (UC) filing runs Nov. 1-30."
 type: news
 publishedAt: "2026-10-29T23:50:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T15:08:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["early decision deadline 2026", "early action deadline November 1 2026", "college application deadlines November 1", "UC application deadline 2026"]
@@ -11,7 +11,7 @@ dateline: "New York"
 hero:
   src: ../../../../assets/news/early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30/early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30.webp
   alt: "Early decision deadline 2026: Harvard Yard in autumn with red leaves and brick dormitories"
-  caption: "File photo: Harvard Yard in autumn. Harvard's Restrictive Early Action deadline is Sunday, Nov. 1, 2026, at 11:59 p.m. in the applicant's local time."
+  caption: "File photo: Harvard Yard in autumn. Harvard's Restrictive Early Action deadline was Sunday, Nov. 1, 2026, at 11:59 p.m. in the applicant's local time."
   credit: "Photo: Nina R from Africa / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -21,69 +21,69 @@ hero:
     authorUrl: "https://www.flickr.com/people/150102727@N06"
 summary:
   - "Sunday, Nov. 1, 2026 was the early deadline at Harvard, Yale, MIT, Penn, Brown, Cornell, Johns Hopkins, Rice, Vanderbilt and Georgetown."
-  - "Duke's Early Decision deadline is Monday, Nov. 2 (today), not Nov. 1, on its 2026-2027 checklist."
-  - "The University of California (UC) filing period for fall 2027 runs Nov. 1 to 30, with decisions in March."
+  - "Duke's Early Decision deadline was Monday, Nov. 2, not Nov. 1, on its 2026-2027 checklist."
+  - "The University of California (UC) filing period for fall 2027 runs Nov. 1 to 30, and is still open, with decisions in March."
   - "U.S. clocks fell back at 2 a.m. on Nov. 1, so an 11:59 p.m. deadline that night was in standard time."
 faq:
   - q: "What is the early decision deadline in 2026?"
-    a: "Sunday, Nov. 1, 2026 at Penn, Brown, Cornell, Johns Hopkins, Rice and Vanderbilt, according to each college, so that date has passed. Duke's Early Decision deadline is Monday, Nov. 2, today. Harvard, Yale, MIT and Georgetown use Early Action plans with Nov. 1 deadlines."
+    a: "Sunday, Nov. 1, 2026 at Penn, Brown, Cornell, Johns Hopkins, Rice and Vanderbilt, according to each college, so that date has passed. Duke's Early Decision deadline was Monday, Nov. 2. Harvard, Yale, MIT and Georgetown use Early Action plans with Nov. 1 deadlines."
   - q: "Is the Nov. 1 deadline Eastern Time?"
     a: "Only some colleges say. Harvard and Brown state 11:59 p.m. in the applicant's local time. The other pages we checked do not state a time zone, so confirm the time on the college's own site."
   - q: "Does Georgetown have Early Decision?"
     a: "No. Georgetown offers Early Action, due Nov. 1, with decisions by Dec. 15. Its site says Early Action applicants may not apply to any binding Early Decision programs."
   - q: "When is the UC application deadline for fall 2027?"
-    a: "The filing period is Nov. 1 to 30, 2026, according to UC Admissions. The application opened Aug. 1, and decisions come in March."
+    a: "The filing period is Nov. 1 to 30, 2026, according to UC Admissions, so it closes on Monday, Nov. 30. The application opened Aug. 1, and decisions come in March."
   - q: "Do the clocks change on the deadline night?"
-    a: "Yes. Daylight Saving Time (DST) ended at 2 a.m. Sunday, Nov. 1, 2026, and clocks fell back one hour. For a deadline in Eastern Time (ET) nothing changed, but check the clock on your device."
+    a: "Yes, that night. Daylight Saving Time (DST) ended at 2 a.m. Sunday, Nov. 1, 2026, and clocks fell back one hour. For a deadline in Eastern Time (ET) nothing changed."
 sources:
   - title: "First-Year Applicants - Harvard College"
     url: "https://college.harvard.edu/admissions/apply/first-year-applicants"
     publisher: "Harvard College"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Application Deadlines"
     url: "https://admissions.yale.edu/application-deadlines"
     publisher: "Yale University"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Deadlines & requirements"
     url: "https://mitadmissions.org/apply/firstyear/deadlines-requirements/"
     publisher: "MIT Admissions"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "First-Year Applicants"
     url: "https://admissions.upenn.edu/how-to-apply/first-year-applicants"
     publisher: "University of Pennsylvania"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Application Checklist for First-Year Applicants"
     url: "https://admission.brown.edu/first-year/application-checklist"
     publisher: "Brown University"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "First-Year Applicants"
     url: "https://admissions.cornell.edu/how-to-apply/first-year-applicants"
     publisher: "Cornell University"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Application Deadlines & Requirements"
     url: "https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/"
     publisher: "Johns Hopkins University"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "First-Year Domestic Applicants"
     url: "https://admission.rice.edu/apply/first-year-domestic-applicants"
     publisher: "Rice University"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Apply"
     url: "https://admissions.vanderbilt.edu/apply/"
     publisher: "Vanderbilt University"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "First Year Applicants"
     url: "https://uadmissions.georgetown.edu/apply/first-year-applicants/"
     publisher: "Georgetown University"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Checklist and Deadlines"
     url: "https://admissions.duke.edu/checklist/"
     publisher: "Duke University"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Dates & deadlines - UC Admissions"
     url: "https://admission.universityofcalifornia.edu/how-to-apply/applying-as-a-first-year/dates-and-deadlines.html"
     publisher: "University of California"
-    date: "2026-10-30"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -98,20 +98,12 @@ downloads:
     pdf: "/news/downloads/early-decision-2026/early-application-deadline-tracker-2026.pdf"
     png: "/news/downloads/early-decision-2026/early-application-deadline-tracker-2026.png"
     pages: 1
-  - group: "Early Application Deadline Tracker 2026 printables"
-    title: "Early Application Deadline Tracker 2026 (ink saver)"
-    description: "A one-page checklist of early application deadlines for 12 colleges, with Duke's Nov. 2 date and the UC Nov. 1-30 window. Ink-saver version."
-    preview: ../../../../assets/news/early-decision-2026/early-application-deadline-tracker-2026-ink.png
-    alt: "Early application deadline tracker 2026 with tick boxes for Nov. 1 deadlines, ink-saver version"
-    pdf: "/news/downloads/early-decision-2026/early-application-deadline-tracker-2026-ink.pdf"
-    png: "/news/downloads/early-decision-2026/early-application-deadline-tracker-2026-ink.png"
-    pages: 1
 related: [sat-act-test-dates-2026-27-registration-deadlines, college-spring-break-2027-dates-universities, regular-decision-deadlines-2027-january-1-january-5-colleges]
 assets:
   overlay: true
-  kicker: "Early application deadlines · Nov. 1, 2026"
-  date: "2026-11-01"
-  card: { top: "ED and EA deadlines", big: "Sun., Nov. 1", bottom: "Duke: Nov. 2 · UC: Nov. 1-30" }
+  kicker: "UC application deadline · Nov. 30, 2026"
+  date: "2026-11-30"
+  card: { top: "UC filing period closes", big: "Mon., Nov. 30", bottom: "ED and EA were Nov. 1-2" }
   printable:
     slug: early-application-deadline-tracker-2026
     group: early-decision-2026
@@ -131,20 +123,20 @@ assets:
       - { when: "Sun., Nov. 1", what: "Georgetown: Early Action (decision by Dec. 15)", section: "Due Sunday, Nov. 1, 2026" }
       - { when: "Mon., Nov. 2", what: "Duke: Early Decision", section: "Other early dates" }
       - { when: "Nov. 1-30", what: "University of California: filing period", section: "Other early dates" }
-      - { when: "Sun., Nov. 1", what: "Device clock set after the 2 a.m. fall-back", section: "Check for each college" }
+      - { when: "Fri., Nov. 20", what: "Duke: first-quarter grade report due from counselors", section: "Check for each college" }
       - { when: "Any day", what: "Fee or waiver handled", section: "Check for each college" }
       - { when: "Any day", what: "Application portal shows submitted", section: "Check for each college" }
       - { when: "Any day", what: "Decision date written down", section: "Check for each college" }
-    note: "Source: each college's admissions page, checked Oct. 30, 2026, and UC Admissions. Confirm times on the college's own site."
-    inkSaver: true
+    note: "Source: each college's admissions page, checked Nov. 14, 2026, and UC Admissions. Confirm times on the college's own site."
     description: "A one-page checklist of early application deadlines for 12 colleges, with Duke's Nov. 2 date and the UC Nov. 1-30 window."
     alt: "Early application deadline tracker 2026 with tick boxes for Nov. 1 deadlines"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
 draft: false
 ---
 
-**Sunday, Nov. 1, 2026, was the Early Decision (ED) and Early Action (EA) deadline at 10 of the 12 schools below, according to each admissions office.** Duke is the exception at Monday, Nov. 2 (today), and the University of California (UC) takes applications for the whole month. U.S. clocks also fell back one hour at 2 a.m. on Nov. 1.
+**Sunday, Nov. 1, 2026, was the Early Decision (ED) and Early Action (EA) deadline at 10 of the 12 schools below, according to each admissions office.** Duke was the exception at Monday, Nov. 2, and the University of California (UC) takes applications for the whole month, until Monday, Nov. 30. U.S. clocks also fell back one hour at 2 a.m. on Nov. 1.
 
-All dates come from each college's own admissions page, checked Oct. 30, 2026.
+All dates come from each college's own admissions page, checked Nov. 14, 2026.
 
 ## Which colleges had a Nov. 1 early deadline?
 
@@ -167,11 +159,12 @@ Regular Decision (RD) is Massachusetts Institute of Technology (MIT)'s "Regular 
 
 ## Why is Duke's deadline Nov. 2?
 
-Duke's Early Decision deadline is Monday, Nov. 2, not Nov. 1, on its checklist page, which says the dates "represent the 2026-2027 admission cycle deadlines." Duke's Regular Decision deadline is Monday, Jan. 4, 2027. A student who planned around "Nov. 1 everywhere" has one extra day at Duke, which ends today, so check the time on its site.
+Duke's Early Decision deadline is Monday, Nov. 2, not Nov. 1, on its checklist page, which says the dates "represent the 2026-2027 admission cycle deadlines." Duke's Regular Decision deadline is Monday, Jan. 4, 2027. A student who planned around "Nov. 1 everywhere" had one extra day at Duke. Duke also asks counselors to send the first-quarter grade report by Friday, Nov. 20.
 
 ## Which later rounds and release dates matter?
 
 - **Johns Hopkins:** Early Decision II and Regular Decision are due Saturday, Jan. 2, 2027. Early Decision II decisions come Feb. 12, 2027 and Regular Decision decisions March 24, 2027.
+- **Johns Hopkins:** the Early Decision I financial aid deadline is Sunday, Nov. 15, and decisions come Dec. 11.
 - **Rice:** Early Decision II and Regular Decision are due Monday, Jan. 4, 2027; Regular Decision decisions come by April 1.
 - **Vanderbilt:** Early Decision II and Regular Decision are due Friday, Jan. 1, 2027, with Early Decision II decisions in mid-February 2027.
 - **Penn:** Regular Decision decisions come in April; **Cornell:** late March.

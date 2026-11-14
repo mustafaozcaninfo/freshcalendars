@@ -1,15 +1,18 @@
 {
   "v": 3,
   "kit": "watch-guide",
-  "hash": "b0e9033e563d2b6e",
+  "hash": "fb712e4022cd70f6",
   "files": [
     "/news/downloads/uk-christmas-lights-switch-ons-2026/uk-christmas-lights-switch-ons-2026-belfast-cardiff-newcastle-watch-guide.pdf",
     "/news/downloads/uk-christmas-lights-switch-ons-2026/uk-christmas-lights-switch-ons-2026-belfast-cardiff-newcastle-watch-guide-a4.pdf"
   ],
   "computed": [
+    "1 p.m.",
+    "noon",
+    "11 a.m.",
+    "7 p.m.",
     "6 a.m.",
     "5 a.m.",
-    "4 a.m.",
-    "noon"
+    "4 a.m."
   ]
 }

@@ -3,7 +3,7 @@ title: "London New Year's Day Parade 2027: Starts 1 p.m. UK, 8 a.m. ET"
 description: "London New Year's Day Parade 2027 starts at 1 p.m. UK time on Fri., Jan. 1, or 8 a.m. ET. Route from Piccadilly to Whitehall, US time zones, how to watch."
 type: explainer
 publishedAt: "2026-11-04T13:57:00-05:00"
-updatedAt: "2026-11-04T13:57:00-05:00"
+updatedAt: "2026-11-14T15:42:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["london new years day parade 2027", "london new year's day parade start time", "london parade route", "london new year parade on pbs time"]
@@ -22,7 +22,7 @@ summary:
   - "Time Out and The Late Edition both list London's New Year's Day Parade for Friday, Jan. 1, 2027, starting at 1 p.m. Greenwich Mean Time (GMT). That is 8 a.m. Eastern Time (ET), by our conversion."
   - "The route runs from Piccadilly through Regent Street, St James's and Pall Mall to Whitehall, ending near Westminster. The Late Edition says it is free to stand and watch."
   - "In the United States, the parade is televised on the Public Broadcasting Service (PBS), per Time Out. The 2027 air time is not yet announced; check your local PBS station."
-  - "Grandstand ticket prices, road closures and the 2027 headliners are not yet announced. The organiser's own page could not be checked, so confirm on londonparade.com."
+  - "Grandstand ticket prices and road closures are not yet confirmed in the sources we could read. The organiser's own page could not be checked, so confirm on londonparade.com."
 faq:
   - q: "What time does the London New Year's Day Parade start in 2027?"
     a: "Time Out lists a 1pm start on Friday, Jan. 1, 2027, and The Late Edition lists 13:00 to 16:30. That is 1 p.m. Greenwich Mean Time (GMT), or 8 a.m. Eastern Time (ET), by our conversion."
@@ -38,11 +38,15 @@ sources:
   - title: "London's New Year's Day Parade will welcome 2027"
     url: "https://www.timeout.com/london/things-to-do/new-years-day-parade"
     publisher: "Time Out"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "London New Year's Day Parade 2027: route, times and where to stand"
     url: "https://thelateedition.co.uk/guides/new-years-day-parade-london/"
     publisher: "The Late Edition"
-    date: "2026-09-06"
+    date: "2026-11-14"
+  - title: "Bay City Rollers to headline New Year's Day parade"
+    url: "https://www.yahoo.com/entertainment/music/articles/bay-city-rollers-headline-years-120603271.html"
+    publisher: "BBC London (via Yahoo)"
+    date: "2026-11-14"
   - title: "London New Year's Eve celebrations"
     url: "https://nye.london.gov.uk"
     publisher: "Greater London Authority (GLA)"
@@ -81,7 +85,7 @@ assets:
     group: london-new-years-day-parade-2027
     title: "London New Year's Day Parade 2027 Watch Guide"
     subtitle: "Start time in U.S. time zones, route and what is not yet announced"
-    note: "Source: Time Out, Nov. 4, 2026; The Late Edition, Sept. 6, 2026. The organiser's page could not be checked; confirm on londonparade.com. Time zones converted by Fresh Calendars."
+    note: "Source: Time Out and The Late Edition, re-read Nov. 14, 2026. The organiser's page could not be checked; confirm on londonparade.com. Time zones converted by Fresh Calendars."
     description: "A one-page guide to London's New Year's Day Parade on Fri., Jan. 1, 2027: 1 p.m. GMT start in U.S. time zones, route and items not yet announced."
     alt: "Printable London New Year's Day Parade 2027 watch guide with start times in U.S. time zones"
     data:
@@ -97,7 +101,7 @@ assets:
           quote: ["Fri, 1 Jan 2027", "Start time: 1pm"]
       unconfirmed:
         - { label: "Grandstand ticket prices and seller", why: "Not yet announced as of Nov. 4, 2026" }
-        - { label: "PBS air time", why: "Not yet announced as of Nov. 4, 2026" }
+        - { label: "PBS air time", why: "Not yet announced as of Nov. 14, 2026" }
         - { label: "Road closures", why: "No Transport for London notice found as of Nov. 4, 2026" }
 draft: false
 ---
@@ -120,7 +124,7 @@ For the holiday dates around it, see our [UK bank holidays 2027 dates](/news/uk-
 
 ## What is the London New Year's Day Parade route?
 
-Time Out says the route "will move from Piccadilly, through Regent Street and St James's, along Pall Mall and through Whitehall, ending at Westminster." The Late Edition lists Piccadilly, Regent Street, St James's and Pall Mall, then Trafalgar Square and down Whitehall. The two sources agree on the start on Piccadilly and an end near Westminster. They differ on the finish street, so we do not name one.
+Time Out says the route "will move from Piccadilly, through Regent Street and St James's, along Pall Mall and through Whitehall, ending at Westminster." The Late Edition lists Piccadilly, Regent Street, St James's and Pall Mall, then Trafalgar Square and down Whitehall, and BBC London lists the same stretches with a finish at Westminster. The two sources agree on the start on Piccadilly and an end near Westminster. They differ on the finish street, so we do not name one.
 
 | Order | Stretch | Source |
 |---|---|---|
@@ -128,8 +132,8 @@ Time Out says the route "will move from Piccadilly, through Regent Street and St
 | 2 | Regent Street | Time Out, The Late Edition |
 | 3 | St James's | Time Out, The Late Edition |
 | 4 | Pall Mall | Time Out, The Late Edition |
-| 5 | Trafalgar Square | The Late Edition |
-| 6 | Whitehall, ending near Westminster | Time Out, The Late Edition |
+| 5 | Trafalgar Square | The Late Edition, BBC London |
+| 6 | Whitehall, ending near Westminster | Time Out, The Late Edition, BBC London |
 
 ## Is the parade free, and where can you stand?
 
@@ -139,7 +143,7 @@ The route table above is the best guide to where to stand: Piccadilly is the sta
 
 ## Who performs in the parade?
 
-Time Out says more than 8,000 performers from across the globe take part. The Late Edition describes mostly American high school and college marching bands, plus London borough entries, heritage vehicles and floats. Headliners for 2027 are not yet announced.
+Time Out says more than 8,000 performers from across the globe take part. The Late Edition describes mostly American high school and college marching bands, plus London borough entries, heritage vehicles and floats. BBC London reports 8,000 performers from around the world.
 
 ## What time is the London parade on PBS?
 
@@ -148,7 +152,6 @@ Time Out says that in America the parade is televised on the Public Broadcasting
 ## London parade details not yet announced
 
 - Grandstand ticket prices and seller for 2027
-- The 2027 headliners
 - Transport for London (TfL) road and Tube closures for Jan. 1, 2027
 - The PBS air time
 - The number of countries taking part

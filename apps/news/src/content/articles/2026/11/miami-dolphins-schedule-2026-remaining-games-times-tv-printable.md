@@ -1,26 +1,25 @@
 ---
-title: "Miami Dolphins Schedule 2026: Lions Nov. 8, 10 Games Left"
-description: "The Dolphins host the Lions on Sun., Nov. 8, 2026, at 1 p.m. ET on FOX. All 10 remaining games with times in ET, CT and PT, TV channels and a printable."
+title: "Miami Dolphins Schedule 2026: Colts Nov. 15, 9 Games Left"
+description: "The Dolphins play at the Colts on Sun., Nov. 15, 2026, at 1 p.m. ET on CBS. All 9 remaining games with times in ET, CT and PT, TV channels and a printable."
 type: news
 publishedAt: "2026-11-01T18:40:00-05:00"
-updatedAt: "2026-11-05T12:13:00-05:00"
+updatedAt: "2026-11-14T15:06:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Dolphins schedule", "Miami Dolphins schedule 2026", "Dolphins next game", "Dolphins schedule printable"]
 dateline: "Miami Gardens"
 assets:
   overlay: true
-  kicker: "Dolphins 2026 · Next: Sun., Nov. 8"
-  date: "2026-11-08"
-  card: { top: "Lions at Dolphins, Hard Rock Stadium", big: "1 p.m. ET", bottom: "On FOX, Week 9" }
+  kicker: "Dolphins 2026 · Next: Sun., Nov. 15"
+  date: "2026-11-15"
+  card: { top: "Dolphins at Colts, Lucas Oil Stadium", big: "1 p.m. ET", bottom: "On CBS, Week 10" }
   printable:
     slug: miami-dolphins-schedule-2026-printable
     group: nfl-2026
     title: "Miami Dolphins 2026 Schedule: Remaining Games"
-    subtitle: "Weeks 9 to 18, Eastern Time, with TV and a score box for each game"
+    subtitle: "Weeks 10 to 18, Eastern Time, with TV and a score box for each game"
     layout: list
     rows:
-      - ["Sun., Nov. 8 · 1 p.m. ET", "Vs. Detroit Lions, FOX   Score: ______"]
       - ["Sun., Nov. 15 · 1 p.m. ET", "At Indianapolis Colts, CBS   Score: ______"]
       - ["Sun., Nov. 22 · 1 p.m. ET", "At Buffalo Bills, FOX   Score: ______"]
       - ["Sun., Nov. 29 · 1 p.m. ET", "Vs. New York Jets, CBS   Score: ______"]
@@ -31,31 +30,23 @@ assets:
       - ["Sun., Jan. 3, 2027 · 1 p.m. ET", "Vs. Buffalo Bills, CBS   Score: ______"]
       - ["Jan. 9 or 10, 2027 · TBD", "At New England Patriots, TV TBD   Score: ______"]
     note: "Source: Miami Dolphins 2026 schedule release; NFL Flexible Scheduling Procedures. Times are Eastern Time (ET) and subject to flexible scheduling. Home games are at Hard Rock Stadium."
-    inkSaver: true
-    description: "The 10 remaining Miami Dolphins games in the 2026 season, Weeks 9 to 18, with Eastern Time start times, TV and a score box for each game."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
+    description: "The 9 remaining Miami Dolphins games in the 2026 season, Weeks 10 to 18, with Eastern Time start times, TV and a score box for each game."
     alt: "Printable Miami Dolphins 2026 schedule listing the remaining games with Eastern Time start times, TV and score boxes"
 downloads:
   - group: "Miami Dolphins 2026 Schedule printables"
     title: "Miami Dolphins 2026 Schedule: Remaining Games"
-    description: "The 10 remaining Miami Dolphins games in the 2026 season, Weeks 9 to 18, with Eastern Time start times, TV and a score box for each game."
+    description: "The 9 remaining Miami Dolphins games in the 2026 season, Weeks 10 to 18, with Eastern Time start times, TV and a score box for each game."
     preview: ../../../../assets/news/nfl-2026/miami-dolphins-schedule-2026-printable.png
     alt: "Printable Miami Dolphins 2026 schedule listing the remaining games with Eastern Time start times, TV and score boxes"
     pdf: "/news/downloads/nfl-2026/miami-dolphins-schedule-2026-printable.pdf"
     png: "/news/downloads/nfl-2026/miami-dolphins-schedule-2026-printable.png"
     pages: 1
-  - group: "Miami Dolphins 2026 Schedule printables"
-    title: "Miami Dolphins 2026 Schedule: Remaining Games (ink saver)"
-    description: "The 10 remaining Miami Dolphins games in the 2026 season, Weeks 9 to 18, with Eastern Time start times, TV and a score box for each game. Ink-saver version."
-    preview: ../../../../assets/news/nfl-2026/miami-dolphins-schedule-2026-printable-ink.png
-    alt: "Printable Miami Dolphins 2026 schedule listing the remaining games with Eastern Time start times, TV and score boxes, ink-saver version"
-    pdf: "/news/downloads/nfl-2026/miami-dolphins-schedule-2026-printable-ink.pdf"
-    png: "/news/downloads/nfl-2026/miami-dolphins-schedule-2026-printable-ink.png"
-    pages: 1
 hero:
   src: ../../../../assets/news/miami-dolphins-schedule-2026-remaining-games-times-tv-printable/miami-dolphins-schedule-2026-remaining-games-times-tv-printable.webp
   alt: "Miami Dolphins schedule 2026: Hard Rock Stadium in Miami Gardens, Florida, where the Dolphins play their home games"
   title: "Dolphins schedule"
-  caption: "Hard Rock Stadium in Miami Gardens, Florida, during the national anthem before a Dolphins game (file photo). Five of the 10 remaining games are here."
+  caption: "Hard Rock Stadium in Miami Gardens, Florida, during the national anthem before a Dolphins game (file photo). Four of the nine remaining games are here."
   credit: "Photo: Gatorfan252525 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -63,15 +54,15 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Hard_Rock_Stadium_during_the_national_anthem_before_a_Miami_Dolphins_game.jpg"
     author: "Gatorfan252525"
 summary:
-  - "The Dolphins next play the Detroit Lions on Sun., Nov. 8, 2026, at 1 p.m. ET on FOX at Hard Rock Stadium, per the team's 2026 schedule release."
-  - "Ten games remain, Weeks 9 to 18: five at home and five on the road, with four against American Football Conference (AFC) East rivals."
-  - "Weeks 9 to 17 are subject to flexible scheduling; the NFL's procedures set the latest notice at 12 days before the game in Weeks 5 to 13 and generally 6 days in Weeks 14 to 17."
+  - "The Dolphins next play at the Indianapolis Colts on Sun., Nov. 15, 2026, at 1 p.m. ET on CBS at Lucas Oil Stadium, per the team."
+  - "Nine games remain, Weeks 10 to 18: four at home and five on the road, with four against American Football Conference (AFC) East rivals."
+  - "Weeks 10 to 17 are subject to flexible scheduling; the NFL's procedures set the latest notice at 12 days before the game in Weeks 5 to 13 and generally 6 days in Weeks 14 to 17."
   - "The Week 18 game at New England on Jan. 9 or 10, 2027, has no date, time or network until after Week 17."
 faq:
   - q: "When do the Dolphins play next?"
-    a: "Sun., Nov. 8, 2026, against the Detroit Lions at Hard Rock Stadium, 1 p.m. ET (noon CT, 10 a.m. PT) on FOX, per the Miami Dolphins' 2026 schedule release."
+    a: "Sun., Nov. 15, 2026, at the Indianapolis Colts at Lucas Oil Stadium, 1 p.m. ET (noon CT, 10 a.m. PT) on CBS, per the Miami Dolphins."
   - q: "How many Dolphins games are left in 2026?"
-    a: "Ten, Weeks 9 to 18, counting the rows in the team's schedule: five at home and five on the road. The Dolphins hosted the New England Patriots on Sun., Nov. 1 (Week 8)."
+    a: "Nine, Weeks 10 to 18, counting the rows in the team's schedule: four at home and five on the road. The Dolphins lost 19-9 to the Detroit Lions on Sun., Nov. 8 (Week 9), per the team."
   - q: "When is the Dolphins game on Thanksgiving weekend?"
     a: "Sun., Nov. 29, 2026, against the New York Jets at Hard Rock Stadium, 1 p.m. ET on CBS. Thanksgiving is Thu., Nov. 26."
   - q: "Can the Dolphins game times change?"
@@ -82,6 +73,15 @@ sources:
   - title: "Miami Dolphins announce 2026 schedule presented by Skyscanner"
     url: "https://www.miamidolphins.com/news/miami-dolphins-announce-2026-schedule-presented-by-skyscanner"
     publisher: "Miami Dolphins"
+    date: "2026-11-14"
+  - title: "How to Watch, Stream & Listen: Miami Dolphins at Indianapolis Colts"
+    url: "https://www.miamidolphins.com/news/how-to-watch-stream-listen-miami-dolphins-at-indianapolis-colts"
+    publisher: "Miami Dolphins"
+    date: "2026-11-12"
+  - title: "Three Takeaways: Dolphins Match Lions Physicality"
+    url: "https://www.miamidolphins.com/news/three-takeaways-dolphins-match-lions-physicality"
+    publisher: "Miami Dolphins"
+    date: "2026-11-09"
   - title: "Flexible Scheduling Procedures"
     url: "https://www.nfl.com/legal/flexible-scheduling-procedures"
     publisher: "NFL"
@@ -106,16 +106,16 @@ related: [nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times, printable
 draft: false
 ---
 
-**The Miami Dolphins next play the Detroit Lions on Sun., Nov. 8, 2026, at 1 p.m. Eastern Time (ET) on FOX at Hard Rock Stadium, according to the team's 2026 schedule release.** Ten games remain, and a one-page printable with a score box for each is further down.
+**The Miami Dolphins next play at the Indianapolis Colts on Sun., Nov. 15, 2026, at 1 p.m. Eastern Time (ET) on CBS at Lucas Oil Stadium, according to the team.** Nine games remain, and a one-page printable with a score box for each is further down.
 
-The Dolphins (1-5 entering the game) hosted the New England Patriots on Sun., Nov. 1, in Week 8, and lost 24-19, per NFL.com, which lists them at 1-6. The Dolphins' bye week was Week 6, on Sun., Oct. 18. The table below is built from the Miami Dolphins' schedule release; times are in ET, with Central Time (CT) and Pacific Time (PT) added by us. Weekdays are our own calculation, and the National Football League (NFL) lists Week 9 on its own [schedule page](https://www.nfl.com/schedules/2026/by-week/reg-9).
+The Dolphins hosted the New England Patriots on Sun., Nov. 1, in Week 8, and lost 24-19, per NFL.com. They then lost 19-9 to the Detroit Lions at home on Sun., Nov. 8, per the team. The Dolphins' bye week was Week 6, on Sun., Oct. 18. The table below is built from the Miami Dolphins' schedule release; times are in ET, with Central Time (CT) and Pacific Time (PT) added by us. Weekdays are our own calculation, and the National Football League (NFL) lists each week on its own [schedule page](https://www.nfl.com/schedules/2026/by-week/reg-10).
 
 ## Dolphins schedule for the rest of 2026
 
 | Week | Date | Game | Time (ET / CT / PT) | TV | Stadium |
 |---|---|---|---|---|---|
 | 8 | Sun., Nov. 1 | Patriots at Dolphins | Final (Patriots 24, Dolphins 19) | CBS | Hard Rock Stadium |
-| 9 | Sun., Nov. 8 | Lions at Dolphins | 1 p.m. / noon / 10 a.m. | FOX | Hard Rock Stadium |
+| 9 | Sun., Nov. 8 | Lions at Dolphins | Final (Lions 19, Dolphins 9) | FOX | Hard Rock Stadium |
 | 10 | Sun., Nov. 15 | Dolphins at Colts | 1 p.m. / noon / 10 a.m. | CBS | Lucas Oil Stadium |
 | 11 | Sun., Nov. 22 | Dolphins at Bills | 1 p.m. / noon / 10 a.m. | FOX | Highmark Stadium |
 | 12 | Sun., Nov. 29 | Jets at Dolphins | 1 p.m. / noon / 10 a.m. | CBS | Hard Rock Stadium |
@@ -126,16 +126,16 @@ The Dolphins (1-5 entering the game) hosted the New England Patriots on Sun., No
 | 17 | Sun., Jan. 3, 2027 | Bills at Dolphins | 1 p.m. / noon / 10 a.m. | CBS | Hard Rock Stadium |
 | 18 | Jan. 9 or 10, 2027 | Dolphins at Patriots | To be determined | To be determined | Gillette Stadium |
 
-The Week 8 row is the Nov. 1 game against New England, which the Patriots won 24-19, per NFL.com. Hard Rock Stadium is at 347 Don Shula Drive, Miami Gardens, Florida 33056, per the stadium's website.
+The Week 8 row is the Nov. 1 game against New England, which the Patriots won 24-19, per NFL.com. The Week 9 row is the Nov. 8 game, which the Lions won 19-9, per the Dolphins. Hard Rock Stadium is at 347 Don Shula Drive, Miami Gardens, Florida 33056, per the stadium's website.
 
 ## How many Dolphins games are home, away and against division rivals?
 
-Counting the 10 rows from Week 9 to Week 18 gives an even split. These are our own counts from the schedule release:
+Counting the nine rows from Week 10 to Week 18 gives five road games and four at home. These are our own counts from the schedule release:
 
-- **Home (5):** Detroit, the New York Jets, Chicago, the Los Angeles Chargers and Buffalo.
+- **Home (4):** the New York Jets, Chicago, the Los Angeles Chargers and Buffalo.
 - **Away (5):** Indianapolis, Buffalo, Denver, Green Bay and New England.
 - **American Football Conference (AFC) East games (4):** at Buffalo on Nov. 22, against the Jets on Nov. 29, against Buffalo on Jan. 3 and at New England in Week 18.
-- **TV:** FOX has five of the nine dated games (Weeks 9, 11, 13, 15 and 16) and CBS has four (Weeks 10, 12, 14 and 17). Week 18 has no network yet.
+- **TV:** FOX has four of the eight dated games (Weeks 11, 13, 15 and 16) and CBS has four (Weeks 10, 12, 14 and 17). Week 18 has no network yet.
 
 The Jets game on Nov. 29 falls on the Sunday after Thanksgiving, which is Thu., Nov. 26, 2026. Our [Thanksgiving date page](/when-is/thanksgiving/) has the holiday itself.
 
@@ -147,9 +147,8 @@ We subtracted those windows from each date. These are the latest announcement da
 
 | Week | Game date | Latest flex notice | Rule |
 |---|---|---|---|
-| 9 | Sun., Nov. 8 | Tue., Oct. 27 (passed) | 12 days |
-| 10 | Sun., Nov. 15 | Tue., Nov. 3 | 12 days |
-| 11 | Sun., Nov. 22 | Tue., Nov. 10 | 12 days |
+| 10 | Sun., Nov. 15 | Tue., Nov. 3 (passed) | 12 days |
+| 11 | Sun., Nov. 22 | Tue., Nov. 10 (passed) | 12 days |
 | 12 | Sun., Nov. 29 | Tue., Nov. 17 | 12 days |
 | 13 | Sun., Dec. 6 | Tue., Nov. 24 | 12 days |
 | 14 | Sun., Dec. 13 | Mon., Dec. 7 | 6 days, generally |
@@ -157,10 +156,10 @@ We subtracted those windows from each date. These are the latest announcement da
 | 16 | Sun., Dec. 27 | Mon., Dec. 21 | 6 days, generally |
 | 17 | Sun., Jan. 3, 2027 | Mon., Dec. 28 | 6 days, generally |
 
-Because the Week 9 deadline has passed, the Lions game stays as listed here. For the rest of the NFL's Week 9 slate, see our [Week 9 schedule and pick-em sheet](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/).
+Because the Week 10 and Week 11 deadlines have passed, the Colts game stays at 1 p.m. ET on CBS, as the team's Nov. 12 viewing guide lists it, and the Bills game stays as listed here. Weeks 12 and later can still move. For the rest of the NFL's Week 9 slate, see our [Week 9 schedule and pick-em sheet](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/).
 
 ## Is there a printable Dolphins schedule for 2026?
 
-Yes. The one-page sheet lists Weeks 9 to 18 with the date, ET start time, opponent, home or away, TV and a blank score field, and it has an ink-saver version. Tape it next to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), and write the Week 18 date in once the NFL sets it. For every team and week, use our [printable NFL schedule for 2026-27](/news/printable-nfl-schedule-2026-2027-pdf/). The postseason dates are in the [NFL playoff schedule for 2027](/news/nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi/).
+Yes. The one-page sheet lists Weeks 10 to 18 with the date, ET start time, opponent, home or away, TV and a blank score field. Tape it next to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), and write the Week 18 date in once the NFL sets it. For every team and week, use our [printable NFL schedule for 2026-27](/news/printable-nfl-schedule-2026-2027-pdf/). The postseason dates are in the [NFL playoff schedule for 2027](/news/nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi/).
 
 Because times can move under flexible scheduling, recheck them on the team's site or NFL.com before game day. Injuries and playoff odds are not part of the schedule release and are not covered here.

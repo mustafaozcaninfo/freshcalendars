@@ -1,18 +1,18 @@
 ---
 title: "World Adoption Day 2026: Monday, Nov. 9, and How to Take Part"
-description: "World Adoption Day 2026 is Monday, Nov. 9, per the organizer. Its steps to take part, a live countdown to National Adoption Day and a free sheet."
+description: "World Adoption Day 2026 was Monday, Nov. 9, per the organizer. Its steps to take part, a live countdown to National Adoption Day and a free sheet."
 type: news
 publishedAt: "2026-11-09T06:30:00-05:00"
-updatedAt: "2026-11-09T06:30:00-05:00"
+updatedAt: "2026-11-14T15:15:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["world adoption day 2026", "world adoption day november 9", "how to take part in world adoption day", "world adoption day vs national adoption day"]
 dateline: "New York"
 assets:
   overlay: true
-  kicker: "World Adoption Day · Mon., Nov. 9"
-  date: "2026-11-09"
-  card: { top: "World Adoption Day 2026", big: "Mon., Nov. 9", bottom: "#WorldAdoptionDay" }
+  kicker: "National Adoption Day · Sat., Nov. 21"
+  date: "2026-11-21"
+  card: { top: "Next: National Adoption Day", big: "Sat., Nov. 21", bottom: "World Adoption Day was Nov. 9" }
   printable:
     kit: activity-sheet
     slug: world-adoption-day-2026-ways-to-take-part
@@ -43,7 +43,7 @@ assets:
 hero:
   src: ../../../../assets/news/world-adoption-day-2026-november-9/world-adoption-day-2026-november-9.webp
   alt: "Paper cut-out family held in two cupped hands, for World Adoption Day 2026 on Nov. 9"
-  caption: "A stock-style photo of a paper cut-out family in cupped hands, not an event photo. World Adoption Day 2026 is Monday, Nov. 9."
+  caption: "A stock-style photo of a paper cut-out family in cupped hands, not an event photo. World Adoption Day 2026 was Monday, Nov. 9."
   credit: "Photo: perpetual.fostering / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -51,15 +51,15 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Parenting_Concept_-_Paper_Cut_Out_In_Hands_-_48412401617.jpg"
     author: "perpetual.fostering"
 summary:
-  - "World Adoption Day falls on November 9, which is Monday, Nov. 9 in 2026, according to the organizer's site worldadoptionday.org."
-  - "The organizer asks people to post a photo of a hand with a smiley face drawn on it on Nov. 9, tag three friends and use #WorldAdoptionDay."
-  - "National Adoption Day in the US is a separate day, Saturday, Nov. 21, 2026, according to the coalition site nationaladoptionday.org."
+  - "World Adoption Day falls on November 9, which was Monday, Nov. 9 in 2026, according to the organizer's site worldadoptionday.org."
+  - "The organizer asked people to post a photo of a hand with a smiley face drawn on it on Nov. 9, tag three friends and use #WorldAdoptionDay."
+  - "National Adoption Day in the US is a separate day and is still ahead: Saturday, Nov. 21, 2026, according to the coalition site nationaladoptionday.org."
   - "The organizer page shows no year, so the 2026 date rests on the fixed Nov. 9 date and a computed weekday."
 faq:
   - q: "Is World Adoption Day a public holiday?"
     a: "No source we checked lists it as one. The organizer describes it as a day to lift up all voices in the adoption community, and we found no government or United Nations page for it."
   - q: "What is the difference between World Adoption Day and National Adoption Day?"
-    a: "They are two separate observances run by different organizations. World Adoption Day is the organizer's Nov. 9 social media day; National Adoption Day is the US coalition's Saturday, Nov. 21, 2026."
+    a: "They are two separate observances run by different organizations. World Adoption Day is the organizer's Nov. 9 social media day; National Adoption Day is the US coalition's Saturday, Nov. 21, 2026, which is still ahead."
   - q: "Do I have to post online to take part?"
     a: "No. Posting a photo is one of the organizer's steps. The others are making a reel, sharing, donating or fundraising for waiting families, and contacting lawmakers about international adoption policy."
   - q: "Can I apply to be an ambassador?"
@@ -68,11 +68,11 @@ sources:
   - title: "World Adoption Day"
     url: "https://worldadoptionday.org/"
     publisher: "World Adoption Day"
-    date: "2026-11-08"
+    date: "2026-11-14"
   - title: "National Adoption Day"
     url: "https://www.nationaladoptionday.org/"
     publisher: "National Adoption Day coalition"
-    date: "2026-11-08"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -91,29 +91,29 @@ downloads:
 draft: false
 ---
 
-**World Adoption Day 2026 is Monday, Nov. 9,** according to the organizer's site, worldadoptionday.org, which tells people to post on "November 9th." The page shows no year, so the weekday is our calculation: Nov. 9, 2026 is the 313th day of the year and a Monday. The organizer calls it "a day to lift up all voices in the adoption community." Below are the organizer's steps and a live countdown to the separate US National Adoption Day.
+**World Adoption Day 2026 was Monday, Nov. 9,** according to the organizer's site, worldadoptionday.org, which tells people to post on "November 9th." The page shows no year, so the weekday is our calculation: Nov. 9, 2026 is the 313th day of the year and a Monday. The organizer calls it "a day to lift up all voices in the adoption community." Below are the organizer's steps and a live countdown to the separate US National Adoption Day, which is next.
 
 ## When is World Adoption Day 2026, and how far is National Adoption Day?
 
-The two days are different observances with different organizers. The coalition site nationaladoptionday.org gives "Saturday, November 21, 2026" for National Adoption Day. On Monday, Nov. 9, that is 12 days later; our [National Adoption Day 2026 story](/news/national-adoption-day-2026-november-21/) covers the court events and dates to 2031.
+The two days are different observances with different organizers. The coalition site nationaladoptionday.org gives "Saturday, November 21, 2026" for National Adoption Day. That is 12 days after Nov. 9. The coalition's events list shows a Nov. 21 event in Dover, Delaware, as of Nov. 14. Our [National Adoption Day 2026 story](/news/national-adoption-day-2026-november-21/) covers the court events and dates to 2031.
 
-<div class="tool-box" data-launch-clock data-local="2026-11-09" data-done="The day is here." data-targets="World Adoption Day, midnight in your own time zone|;World Adoption Day, midnight Eastern Time (ET)|2026-11-09T05:00:00Z;National Adoption Day, midnight Eastern Time (ET)|2026-11-21T05:00:00Z" hidden>
-<p class="tool-title">Days, hours, minutes and seconds until the two days</p>
+<div class="tool-box" data-launch-clock data-local="2026-11-21" data-done="The day is here." data-targets="National Adoption Day, midnight in your own time zone|;National Adoption Day, midnight Eastern Time (ET)|2026-11-21T05:00:00Z" hidden>
+<p class="tool-title">Days, hours, minutes and seconds until National Adoption Day</p>
 <label for="lc-store">Count down to</label>
 <select id="lc-store"></select>
 <div class="tool-out"></div>
 </div>
 
-The clock needs JavaScript. The first option counts to midnight on your own device; the Eastern Time options count from a fixed instant. Eastern Time is five hours behind Coordinated Universal Time (UTC) on both dates.
+The clock needs JavaScript. The first option counts to midnight on your own device; the Eastern Time option counts from a fixed instant. Eastern Time is five hours behind Coordinated Universal Time (UTC) on Nov. 21.
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
 | Date | Observance | Days from today |
 |---|---|---|
-| Nov. 9 (Monday) | World Adoption Day, per worldadoptionday.org | 0 |
-| Nov. 21 (Saturday) | National Adoption Day (US), per nationaladoptionday.org | 12 |
+| Nov. 9 (Monday) | World Adoption Day, per worldadoptionday.org | Passed |
+| Nov. 21 (Saturday) | National Adoption Day (US), per nationaladoptionday.org | 7 |
 
-The last column fills in with the days left from your own date when the page loads. The static figures are for Monday, Nov. 9. For the month around both days, use the [November 2026 printable calendar](/november-calendars.html).
+The last column fills in with the days left from your own date when the page loads. The static figures are for Saturday, Nov. 14. For the month around both days, use the [November 2026 printable calendar](/november-calendars.html).
 
 ## How does the organizer ask people to take part?
 
@@ -128,7 +128,7 @@ The organizer's page lists several ways, none of them required. Each is the orga
 | Policy | Contact lawmakers about international adoption policy |
 | Ambassador | Apply through the form on the page |
 
-The posting steps are tied to Nov. 9, but the reel is meant to go up before it. If you plan to join in, the printable sheet turns the steps into tick boxes.
+The posting steps were tied to Nov. 9, and the reel was meant to go up before it. The printable sheet turns the steps into tick boxes.
 
 ## Is World Adoption Day an official holiday?
 

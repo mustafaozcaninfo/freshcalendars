@@ -3,31 +3,31 @@ title: "Golf Schedule November 2026: PGA Tour and LPGA Dates Nov. 5-Dec. 6"
 description: "November 2026 golf schedule: men's and women's pro events from Nov. 5 to Dec. 6, including the RSM Classic and CME Group Tour Championship on Nov. 19-22."
 type: news
 publishedAt: "2026-11-01T08:46:00-05:00"
+updatedAt: "2026-11-14T15:07:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["golf schedule November 2026", "PGA Tour schedule this week", "LPGA CME Group Tour Championship 2026 dates", "RSM Classic 2026 dates", "Hero World Challenge 2026 dates"]
 dateline: "New York"
 assets:
   overlay: true
-  kicker: "Pro golf · Starts Thu., Nov. 5, 2026"
-  date: "2026-11-05"
-  card: { top: "PGA Tour and LPGA, week one", big: "Thu., Nov. 5", bottom: "Los Cabos, Mexico, and Omitama, Japan" }
+  kicker: "Pro golf · Next: RSM Classic, Nov. 19-22"
+  date: "2026-11-19"
+  card: { top: "RSM Classic and CME Group Tour Championship", big: "Thu., Nov. 19", bottom: "St. Simons Island and Naples, Florida" }
   printable:
     slug: pro-golf-schedule-november-december-2026
     group: pro-golf-2026
     title: "Pro Golf Schedule November-December 2026"
     subtitle: "PGA Tour and LPGA events, dates and venues"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Thu., Nov. 5 to Sun., Nov. 8", "PGA Tour: World Wide Technology Championship, Los Cabos, Mexico. LPGA: TOTO Japan Classic, Omitama, Japan"]
-      - ["Thu., Nov. 12 to Sun., Nov. 15", "PGA Tour: Austin Championship (announced as Good Good Championship), Austin, Texas. LPGA: The ANNIKA, Belleair, Florida"]
+      - ["Thu., Nov. 12 to Sun., Nov. 15", "PGA Tour: Austin Championship presented by Compliance Solutions, Austin, Texas. LPGA: The ANNIKA, Belleair, Florida"]
       - ["Thu., Nov. 19 to Sun., Nov. 22", "PGA Tour: The RSM Classic, St. Simons Island, Georgia. LPGA: CME Group Tour Championship, Naples, Florida"]
       - ["Thu., Dec. 3 to Sun., Dec. 6", "PGA Tour: Hero World Challenge, Albany, Bahamas"]
       - ["Thu., Dec. 10 to Sun., Dec. 13", "PGA Tour Q-School presented by Korn Ferry"]
       - ["Fri., Dec. 11 to Sun., Dec. 13", "PGA Tour and LPGA: Grant Thornton Invitational, Naples, Florida"]
-    note: "Source: PGA Tour schedule and LPGA tournaments page, read Nov. 1, 2026. Tee times and TV windows are posted by the tours in event week."
-    inkSaver: true
-    description: "One-page list of the PGA Tour and LPGA events from Nov. 5 to Dec. 13, 2026, with weekdays, venues and the Grant Thornton Invitational."
+    note: "Source: PGA Tour schedule and LPGA tournaments page, read Nov. 14, 2026. Tee times and TV windows are posted by the tours in event week."
+    description: "One-page list of the PGA Tour and LPGA events from Nov. 12 to Dec. 13, 2026, with weekdays, venues and the Grant Thornton Invitational."
     alt: "Printable pro golf schedule for November and December 2026 listing PGA Tour and LPGA events by date"
 hero:
   src: ../../../../assets/news/golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge/golf-schedule-november-2026-pga-tour-lpga-rsm-classic-cme-hero-world-challenge.webp
@@ -40,23 +40,31 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Ocean_Forest.jpg"
     author: "Ashleylouisewilliams3408"
 summary:
-  - "This week's pro golf starts Thu., Nov. 5, 2026: the PGA Tour's World Wide Technology Championship in Los Cabos and the LPGA's TOTO Japan Classic, both through Sun., Nov. 8."
+  - "The PGA Tour's Austin Championship presented by Compliance Solutions ($6 million) and the LPGA's The ANNIKA run through Sun., Nov. 15, 2026, the first week of the fall run that goes on to the RSM Classic."
   - "The RSM Classic (PGA Tour, $7.4 million) and the CME Group Tour Championship (LPGA, $11 million) are both Nov. 19-22."
   - "The Hero World Challenge is Dec. 3-6 in the Bahamas, and PGA Tour Q-School presented by Korn Ferry is Dec. 10-13."
 faq:
   - q: "What golf is on this week?"
-    a: "The PGA Tour's World Wide Technology Championship and the LPGA's TOTO Japan Classic both run Thu., Nov. 5 to Sun., Nov. 8, 2026, according to the tours' schedules."
+    a: "The PGA Tour's Austin Championship presented by Compliance Solutions and the LPGA's The ANNIKA both finish Sun., Nov. 15, 2026. The RSM Classic and the CME Group Tour Championship start Thu., Nov. 19, according to the tours' schedules."
   - q: "When is the CME Group Tour Championship 2026?"
     a: "Nov. 19-22 in Naples, Florida, with an $11 million purse and a $4 million first-place prize, according to the LPGA."
   - q: "When is the Hero World Challenge 2026?"
     a: "Dec. 3-6 at Albany GC in the Bahamas, according to the PGA Tour. Defending champion Hideki Matsuyama is a two-time winner at Albany, in 2016 and 2025."
   - q: "What are the tee times and TV windows?"
-    a: "Neither was published when we checked on Nov. 1, 2026. We do not list channels or times; the tours post them in event week."
+    a: "We do not list channels or times; the tours post them in event week."
 sources:
   - title: "PGA TOUR Schedule"
     url: "https://www.pgatour.com/schedule"
     publisher: "PGA Tour"
-    date: "2026-11-01"
+    date: "2026-11-14"
+  - title: "Purse breakdown: Austin Championship presented by Compliance Solutions"
+    url: "https://www.pgatour.com/article/news/latest/2026/11/09/purse-breakdown-prize-money-austin-championship-presented-by-compliance-solutions-austin-texas-fazio-canyons-course-omni-barton-creek-resort-spa"
+    publisher: "PGA Tour"
+    date: "2026-11-09"
+  - title: "PGA Tour this week: Facts and figures for Austin Championship presented by Compliance Solutions"
+    url: "https://www.pgatour.com/article/news/latest/2026/11/10/austin-championship-presented-by-compliance-solutions-facts-and-figures-fazio-canyons-course-omni-barton-creek-resort-spa-austin-texas-2026"
+    publisher: "PGA Tour"
+    date: "2026-11-10"
   - title: "PGA TOUR unveils 2026 FedExCup Fall schedule"
     url: "https://www.pgatour.com/article/news/latest/2026/01/09/pga-tour-unveils-2026-fedexcup-fall-schedule-two-new-events-asheville-austin"
     publisher: "PGA Tour"
@@ -71,7 +79,7 @@ sources:
   - title: "Tournaments | LPGA"
     url: "https://www.lpga.com/tournaments"
     publisher: "LPGA"
-    date: "2026-11-01"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -81,35 +89,27 @@ related: [golf-schedule-december-2026-hero-world-challenge-grant-thornton-pnc, p
 downloads:
   - group: "Pro Golf Schedule November-December 2026 printables"
     title: "Pro Golf Schedule November-December 2026"
-    description: "One-page list of the PGA Tour and LPGA events from Nov. 5 to Dec. 13, 2026, with weekdays, venues and the Grant Thornton Invitational."
+    description: "One-page list of the PGA Tour and LPGA events from Nov. 12 to Dec. 13, 2026, with weekdays, venues and the Grant Thornton Invitational."
     preview: ../../../../assets/news/pro-golf-2026/pro-golf-schedule-november-december-2026.png
     alt: "Printable pro golf schedule for November and December 2026 listing PGA Tour and LPGA events by date"
     pdf: "/news/downloads/pro-golf-2026/pro-golf-schedule-november-december-2026.pdf"
     png: "/news/downloads/pro-golf-2026/pro-golf-schedule-november-december-2026.png"
     pages: 1
-  - group: "Pro Golf Schedule November-December 2026 printables"
-    title: "Pro Golf Schedule November-December 2026 (ink saver)"
-    description: "One-page list of the PGA Tour and LPGA events from Nov. 5 to Dec. 13, 2026, with weekdays, venues and the Grant Thornton Invitational. Ink-saver version."
-    preview: ../../../../assets/news/pro-golf-2026/pro-golf-schedule-november-december-2026-ink.png
-    alt: "Printable pro golf schedule for November and December 2026 listing PGA Tour and LPGA events by date, ink-saver version"
-    pdf: "/news/downloads/pro-golf-2026/pro-golf-schedule-november-december-2026-ink.pdf"
-    png: "/news/downloads/pro-golf-2026/pro-golf-schedule-november-december-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
-**This week's pro golf starts Thursday, Nov. 5, 2026, with the Professional Golfers' Association (PGA) Tour's World Wide Technology Championship at El Cardonal at Diamante in Los Cabos, Mexico, and the Ladies Professional Golf Association (LPGA) TOTO Japan Classic (Nov. 5-8), according to the tours' schedules.** Both run Thursday through Sunday. The tables below put the two tours side by side through mid-December, and a one-page printable follows.
+**Pro golf's current week finishes Sunday, Nov. 15, 2026, with the Professional Golfers' Association (PGA) Tour's Austin Championship presented by Compliance Solutions in Austin, Texas, and the Ladies Professional Golf Association (LPGA) Tour's The ANNIKA driven by Gainbridge at Pelican in Belleair, Florida, according to the tours' schedules.** The RSM Classic and the CME Group Tour Championship follow Nov. 19-22. The tables below put the two tours side by side through mid-December, and a one-page printable follows.
 
-Tee times and television windows had not been published when we read both schedules on Nov. 1, 2026, so this page lists neither. The tours post TV times in event week.
+Tee times and television windows are not listed here. The tours post TV times in event week.
 
 ## What is the PGA Tour and LPGA golf schedule for November 2026?
 
-The PGA Tour's schedule page and the LPGA's tournaments page give these dates. The weekdays are our own calculation.
+The PGA Tour's schedule page and the LPGA's tournaments page give these dates. The weekdays are our own calculation. The Nov. 5-8 week, the PGA Tour's World Wide Technology Championship and the LPGA's TOTO Japan Classic, has been played.
 
 | Week | PGA Tour event and venue | LPGA event and venue | LPGA purse |
 |---|---|---|---|
 | Nov. 5-8 (Thu-Sun) | World Wide Technology Championship, El Cardonal at Diamante, Los Cabos, Mexico | TOTO Japan Classic, Taiheiyo Club Minori Course, Omitama, Japan | $2.10 million |
-| Nov. 12-15 (Thu-Sun) | Austin Championship, Omni Barton Creek Resort & Spa (Fazio Canyons Course), Austin, Texas | The ANNIKA driven by Gainbridge at Pelican, Belleair, Florida | $3.25 million |
+| Nov. 12-15 (Thu-Sun) | Austin Championship presented by Compliance Solutions, Omni Barton Creek Resort & Spa (Fazio Canyons Course), Austin, Texas | The ANNIKA driven by Gainbridge at Pelican, Belleair, Florida | $3.25 million |
 | Nov. 19-22 (Thu-Sun) | The RSM Classic, Sea Island Golf Club, St. Simons Island, Georgia | CME Group Tour Championship, Naples, Florida | $11 million |
 | Dec. 11-13 (Fri-Sun) | Grant Thornton Invitational, Naples, Florida | Grant Thornton Invitational, Naples, Florida | $2.05 million |
 
@@ -117,7 +117,7 @@ The PGA Tour's own purses: $6 million for the World Wide Technology Championship
 
 ## When is the Austin Championship, also called the Good Good Championship?
 
-Nov. 12-15. The event is listed on the PGA Tour schedule as the Austin Championship and was announced in January as the Good Good Championship, played at Omni Barton Creek Resort & Spa (Fazio Canyons Course) in Austin, Texas, with a $6 million purse, according to the PGA Tour's Jan. 9, 2026 article. We use the schedule's name in the table because it is the current listing.
+Nov. 12-15. The PGA Tour now lists the event as the Austin Championship presented by Compliance Solutions. It was announced in January as the Good Good Championship. It is played at Omni Barton Creek Resort & Spa (Fazio Canyons Course) in Austin, Texas, with a $6 million purse and a $1.08 million first-place prize, according to the PGA Tour's purse breakdown and facts-and-figures articles. The PGA Tour calls it the seventh of eight FedExCup Fall events, and the winner gets 500 FedExCup points.
 
 ## When is the RSM Classic 2026?
 
@@ -141,6 +141,6 @@ The PGA Tour's schedule lists PGA Tour Q-School (qualifying school) presented by
 
 ## Is there a printable pro golf schedule for 2026?
 
-Yes. The one-page sheet lists each event with its weekday dates and venue, with an ink-saver version for home printers. Pin it next to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
+Yes. The one-page sheet lists each event from the Nov. 12-15 week on, with its weekday dates and venue. Pin it next to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
 
 For other sports on the same dates, see [sports on TV today for Nov. 2, 2026](/news/sports-on-tv-today-november-2-2026/), the [NFL Week 11 schedule](/news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/) and the [Turin tennis finals schedule for 2026](/news/atp-finals-2026-turin-dates-schedule-time-zones-tv-qualified-players/).

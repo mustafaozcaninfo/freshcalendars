@@ -3,6 +3,7 @@ title: "OHSAA Football Playoffs 2026: State Finals Dec. 3-5 in Canton"
 description: "The Ohio High School Athletic Association (OHSAA) football playoffs end with state finals Dec. 3-5 in Canton. Every round, kickoff and ticket price."
 type: news
 publishedAt: "2026-10-31T05:44:00-04:00"
+updatedAt: "2026-11-14T15:12:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["ohsaa football playoffs 2026 schedule", "ohio high school football playoffs 2026", "ohsaa state championship 2026 canton", "ohsaa regional quarterfinals november 6", "ohsaa football tickets"]
@@ -18,17 +19,17 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Tom_Benson_Hall_of_Fame_Stadium_(August_12,_2023).jpg"
     author: "Engineerchange"
 summary:
-  - "The Ohio High School Athletic Association (OHSAA) plays its regional quarterfinals (second round) on Friday, Nov. 6, 2026, after the regional first round on Friday, Oct. 30."
-  - "Regional semifinals are Friday, Nov. 13, regional finals Friday, Nov. 20 at neutral sites, and state semifinals Friday, Nov. 27, the day after Thanksgiving."
+  - "The Ohio High School Athletic Association (OHSAA) played its regional semifinals (third round) on Friday, Nov. 13, 2026, after the first round on Oct. 30 and the quarterfinals on Nov. 6."
+  - "Regional finals are Friday, Nov. 20 at neutral sites, and state semifinals are Friday, Nov. 27, the day after Thanksgiving."
   - "The seven state championships are Thursday to Saturday, Dec. 3-5, 2026, at Tom Benson Hall of Fame Stadium in Canton, from Division II at 7 p.m. Eastern Time (ET) on Thursday to Division IV at 7:30 p.m. ET on Saturday."
   - "Regional tickets cost $12 for adults and $5 for students; state semifinal and championship tickets cost $16 for adults and $10 for students, the OHSAA says."
 faq:
-  - q: "When are the OHSAA football regional quarterfinals in 2026?"
-    a: "Friday, Nov. 6, 2026, according to the OHSAA's regional first round pairings release. The regional first round was Friday, Oct. 30, with 7 p.m. kickoffs unless otherwise noted."
+  - q: "When are the OHSAA football regional finals in 2026?"
+    a: "Friday, Nov. 20, 2026, at neutral sites, according to the OHSAA's regional semifinal pairings release. The regional semifinals were Friday, Nov. 13, at the higher seed's site."
   - q: "When and where are the OHSAA football state championships in 2026?"
     a: "Thursday to Saturday, Dec. 3-5, 2026, at Tom Benson Hall of Fame Stadium in Canton, per the OHSAA's 2026 tournament coverage page."
   - q: "How much are OHSAA football playoff tickets?"
-    a: "Regional tickets are $12 for adults and $5 for students. State semifinal tickets are $16 for adults and $10 for students. State championship tickets are sold online only, at $16 for adults and $10 for students, through www.OHSAA.org/tickets."
+    a: "Regional tickets are $12 for adults and $5 for students. State semifinal tickets are $16 for adults and $10 for students. Playoff tickets go on sale Tuesdays at 10 a.m. at www.ohsaa.org/tickets. State championship tickets are sold online only, at $16 for adults and $10 for students, through www.OHSAA.org/tickets."
   - q: "How can you watch the OHSAA football playoffs?"
     a: "Spectrum is the official TV partner of the OHSAA. Regional and state semifinal games on Spectrum News 1 kick off at 7:07 p.m. Spectrum streams all 14 state semifinal games and all seven state championship games on spectrumnews1.com and OHSAA.tv."
   - q: "Where are the OHSAA football playoff pairings?"
@@ -38,12 +39,18 @@ sources:
     url: "https://www.ohsaa.org/Sports/News/ohsaa-football-regional-first-round-playoff-pairings"
     publisher: "Ohio High School Athletic Association"
     date: "2026-10-25"
+  - title: "OHSAA Football Regional Semifinal Pairings"
+    url: "https://www.ohsaa.org/news-media/articles/ohsaa-football-regional-semifinal-pairings"
+    publisher: "Ohio High School Athletic Association"
+    date: "2026-11-08"
   - title: "2026 Football Calendar"
     url: "https://www.ohsaa.org/sports/football"
     publisher: "Ohio High School Athletic Association"
+    date: "2026-11-14"
   - title: "2026 OHSAA Football Tournament Coverage"
     url: "https://www.ohsaa.org/Sports-Tournaments/Football/Football-2026/2026-OHSAA-Football-Tournament-Coverage"
     publisher: "Ohio High School Athletic Association"
+    date: "2026-11-14"
   - title: "Spectrum TV Timing Schedule for 2026 OHSAA Football Regional and State Semifinal Games"
     url: "https://ohsaaweb.blob.core.windows.net/files/Sports/Football/PlayoffTVTiming.pdf"
     publisher: "Ohio High School Athletic Association"
@@ -67,17 +74,15 @@ assets:
   scene: sports
   kicker: "OHSAA football playoffs · Dec. 3-5"
   date: "2026-12-03"
-  card: { top: "Regional quarterfinals", big: "Fri., Nov. 6", bottom: "State finals Dec. 3-5 in Canton" }
+  card: { top: "Regional finals", big: "Fri., Nov. 20", bottom: "State finals Dec. 3-5 in Canton" }
   printable:
     slug: ohsaa-football-playoffs-2026-calendar
     group: ohsaa-football-2026
     title: "OHSAA Football Playoffs 2026 Calendar"
-    subtitle: "Regional first round to Canton state finals, Oct. 30 to Dec. 5, 2026"
+    subtitle: "Regional finals to Canton state finals, Nov. 20 to Dec. 5, 2026"
     layout: timeline
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Fri., Oct. 30", "Regional first round, 7 p.m. kickoffs unless otherwise noted"]
-      - ["Fri., Nov. 6", "Regional quarterfinals (second round)"]
-      - ["Fri., Nov. 13", "Regional semifinals (third round)"]
       - ["Fri., Nov. 20", "Regional finals at neutral sites"]
       - ["Fri., Nov. 27", "State semifinals"]
       - ["Thu., Dec. 3", "Canton: Division II, 7 p.m. ET"]
@@ -87,46 +92,37 @@ assets:
       - ["Sat., Dec. 5", "Canton: Division VII, 10:30 a.m. ET"]
       - ["Sat., Dec. 5", "Canton: Division VI, 3 p.m. ET"]
       - ["Sat., Dec. 5", "Canton: Division IV, 7:30 p.m. ET"]
-    note: "Source: Ohio High School Athletic Association (OHSAA), regional first round pairings release (Oct. 25, 2026) and 2026 Football Tournament Coverage page. Eastern Time (ET)."
-    inkSaver: true
-    description: "A one-page OHSAA football playoffs 2026 calendar with every round date and the seven Canton state championship kickoff times in Eastern Time."
-    alt: "OHSAA football playoffs 2026 calendar listing round dates from Oct. 30 to Dec. 5 and the seven state championship times"
+    note: "Source: Ohio High School Athletic Association (OHSAA), regional semifinal pairings release (Nov. 8, 2026) and 2026 Football Tournament Coverage page, read Nov. 14, 2026. Eastern Time (ET)."
+    description: "A one-page OHSAA football playoffs 2026 calendar with the remaining round dates and the seven Canton state championship kickoff times in Eastern Time."
+    alt: "OHSAA football playoffs 2026 calendar listing round dates from Nov. 20 to Dec. 5 and the seven state championship times"
 downloads:
   - group: "OHSAA Football Playoffs 2026 Calendar printables"
     title: "OHSAA Football Playoffs 2026 Calendar"
-    description: "A one-page OHSAA football playoffs 2026 calendar with every round date and the seven Canton state championship kickoff times in Eastern Time."
+    description: "A one-page OHSAA football playoffs 2026 calendar with the remaining round dates and the seven Canton state championship kickoff times in Eastern Time."
     preview: ../../../../assets/news/ohsaa-football-2026/ohsaa-football-playoffs-2026-calendar.png
-    alt: "OHSAA football playoffs 2026 calendar listing round dates from Oct. 30 to Dec. 5 and the seven state championship times"
+    alt: "OHSAA football playoffs 2026 calendar listing round dates from Nov. 20 to Dec. 5 and the seven state championship times"
     pdf: "/news/downloads/ohsaa-football-2026/ohsaa-football-playoffs-2026-calendar.pdf"
     png: "/news/downloads/ohsaa-football-2026/ohsaa-football-playoffs-2026-calendar.png"
-    pages: 1
-  - group: "OHSAA Football Playoffs 2026 Calendar printables"
-    title: "OHSAA Football Playoffs 2026 Calendar (ink saver)"
-    description: "A one-page OHSAA football playoffs 2026 calendar with every round date and the seven Canton state championship kickoff times in Eastern Time. Ink-saver version."
-    preview: ../../../../assets/news/ohsaa-football-2026/ohsaa-football-playoffs-2026-calendar-ink.png
-    alt: "OHSAA football playoffs 2026 calendar listing round dates from Oct. 30 to Dec. 5 and the seven state championship times, ink-saver version"
-    pdf: "/news/downloads/ohsaa-football-2026/ohsaa-football-playoffs-2026-calendar-ink.pdf"
-    png: "/news/downloads/ohsaa-football-2026/ohsaa-football-playoffs-2026-calendar-ink.png"
     pages: 1
 draft: false
 ---
 
-**The Ohio High School Athletic Association (OHSAA) plays its football regional quarterfinals on Friday, Nov. 6, 2026, at 7 p.m.; the regional first round was Friday, Oct. 30, and the state championships are Dec. 3-5 at Tom Benson Hall of Fame Stadium in Canton, the OHSAA says.** Below: every round with its date, kickoff and ticket price, the Canton finals by division and time, the 2025 title game scores and where to watch.
+**The Ohio High School Athletic Association (OHSAA) football regional semifinals were Friday, Nov. 13, 2026; the regional finals are Friday, Nov. 20 at neutral sites, and the state championships are Dec. 3-5 at Tom Benson Hall of Fame Stadium in Canton, the OHSAA says.** Below: every round with its date, kickoff and ticket price, the Canton finals by division and time, the 2025 title game scores and where to watch.
 
 ## OHSAA football playoff dates and kickoffs for 2026
 
-The OHSAA's regional first round release says that "unless otherwise noted, all regional first-round games will be played on Friday, October 30, with kickoffs set for 7 p.m." The same release lists the Fridays that follow. The OHSAA posts pairings on its [football page](https://www.ohsaa.org/sports/football).
+The OHSAA's regional first round release says that "unless otherwise noted, all regional first-round games will be played on Friday, October 30, with kickoffs set for 7 p.m." The OHSAA's Nov. 8 regional semifinal release says those games kicked off at 7 p.m. "unless otherwise noted" at the higher seed's site, and that neutral sites start with the regional finals on Nov. 20. The OHSAA posts pairings on its [football page](https://www.ohsaa.org/sports/football).
 
 | Date | Round | Kickoff | Ticket (adult / student) |
 |---|---|---|---|
 | Fri., Oct. 30 | Regional first round (played) | 7 p.m. | $12 / $5 |
-| Fri., Nov. 6 | Regional quarterfinals (second round) | 7:07 p.m. on Spectrum News 1; 7 p.m. if only streamed | $12 / $5 |
-| Fri., Nov. 13 | Regional semifinals (third round) | 7:07 p.m. on Spectrum News 1; 7 p.m. if only streamed | $12 / $5 |
+| Fri., Nov. 6 | Regional quarterfinals (second round, played) | 7:07 p.m. on Spectrum News 1; 7 p.m. if only streamed | $12 / $5 |
+| Fri., Nov. 13 | Regional semifinals (third round, played) | 7:07 p.m. on Spectrum News 1; 7 p.m. if only streamed | $12 / $5 |
 | Fri., Nov. 20 | Regional finals, neutral sites | 7:07 p.m. on Spectrum News 1; 7 p.m. if only streamed | $12 / $5 |
 | Fri., Nov. 27 | State semifinals | 7:07 p.m. on Spectrum News 1; 7 p.m. if only streamed | $16 / $10 |
 | Thu.-Sat., Dec. 3-5 | State championships, Canton | See the next table | $16 / $10 |
 
-The first round was set at 7 p.m. The OHSAA's Spectrum timing schedule gives the later kickoffs for regional and state semifinal games: 7:07 p.m. on Spectrum News 1, and the regular 7:00 p.m. for games only streamed. The release does not list other kickoff times, so check each pairing for a change. Ticket prices are from the OHSAA's playoff information page. State semifinals fall on the day after Thanksgiving; see the [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) for the college and NFL games that week.
+The first round was set at 7 p.m. The OHSAA's Spectrum timing schedule gives the later kickoffs for regional and state semifinal games: 7:07 p.m. on Spectrum News 1, and the regular 7:00 p.m. for games only streamed. The release does not list other kickoff times, so check each pairing for a change. Ticket prices are from the OHSAA's playoff information page, and the OHSAA says playoff tickets go on sale Tuesdays at 10 a.m. at www.OHSAA.org/tickets. State semifinals fall on the day after Thanksgiving; see the [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) for the college and NFL games that week.
 
 ## What time are the OHSAA state football championships in Canton?
 
@@ -168,4 +164,4 @@ These are the 2025 title game scores, per the OHSAA's 2025 tournament coverage p
 
 ## Is there a printable OHSAA football playoff calendar?
 
-Our free OHSAA Football Playoffs 2026 Calendar puts every round date and the seven Canton kickoff times on one page. Indiana runs a different tournament; see our story on the [Indiana football tournament schedule](/news/ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals/).
+Our free OHSAA Football Playoffs 2026 Calendar puts the remaining round dates and the seven Canton kickoff times on one page. Indiana runs a different tournament; see our story on the [Indiana football tournament schedule](/news/ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals/).

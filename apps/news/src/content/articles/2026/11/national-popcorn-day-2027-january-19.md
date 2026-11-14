@@ -3,6 +3,7 @@ title: "National Popcorn Day 2027: Tuesday, Jan. 19, Weekdays to 2031"
 description: "National Popcorn Day 2027 is Tuesday, Jan. 19, per the Popcorn Board. Weekdays to 2031, 2026 theater deals, popcorn facts and a free printable quiz."
 type: explainer
 publishedAt: "2026-11-04T06:40:00-05:00"
+updatedAt: "2026-11-14T15:42:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national popcorn day 2027", "when is national popcorn day", "national popcorn day deals", "popcorn facts"]
@@ -44,7 +45,7 @@ assets:
             - "Cheese"
             - "Your own flavor"
       unconfirmed:
-        - { label: "2027 theater deals", why: "no 2027 popcorn deals were announced as of Nov. 4, 2026" }
+        - { label: "2027 theater deals", why: "no 2027 popcorn deals were announced as of Nov. 14, 2026" }
 hero:
   src: ../../../../assets/news/national-popcorn-day-2027-january-19/national-popcorn-day-2027-january-19.webp
   alt: "A glass bowl of white popcorn, the snack celebrated on National Popcorn Day 2027 on Tuesday, Jan. 19"
@@ -60,21 +61,21 @@ summary:
   - "National Popcorn Day is January 19th, according to the Popcorn Board, so in 2027 it falls on Tuesday, Jan. 19."
   - "In 2026 the day fell on a Monday, and Cinema United said theaters offered one-day popcorn deals. No 2027 deals have been announced."
   - "The U.S. Census Bureau said Americans consume some 14 billion quarts of popcorn a year, or 43 quarts per person (2016-2020 average sales)."
-  - "Our free printable has a six-question popcorn facts quiz with answers and a flavor tally."
+  - "Our free printable has a four-question popcorn facts quiz with answers and a flavor tally."
 faq:
   - q: "Is National Popcorn Day always on Jan. 19?"
     a: "Yes. The Popcorn Board lists it as January 19th with no year, and a local television station (KBSI) wrote in 2024 that it is observed every year on January 19. Only the weekday changes."
   - q: "Who started National Popcorn Day?"
     a: "The Popcorn Board does not say. Its newsroom page gives the date but no founder or origin, so we do not name one."
   - q: "Are there National Popcorn Day deals in 2027?"
-    a: "None have been announced as of Nov. 4, 2026. In 2026 the Cinema Foundation and Cinema United announced one-day theater deals on Jan. 19."
+    a: "None have been announced as of Nov. 14, 2026. In 2026 the Cinema Foundation and Cinema United announced one-day theater deals on Jan. 19."
   - q: "Is National Popcorn Day a day off?"
     a: "We found no source that makes it a day off. It is an observance, and the day before it is Martin Luther King Jr. Day on Monday, Jan. 18, 2027."
 sources:
   - title: "National Popcorn Day (Jan. 19)"
     url: "https://popcorn.org/Newsroom/National-Popcorn-Day-Jan-19"
     publisher: "The Popcorn Board"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "The Popcorn Board home page"
     url: "https://www.popcorn.org/"
     publisher: "The Popcorn Board"
@@ -125,7 +126,7 @@ downloads:
 draft: false
 ---
 
-**National Popcorn Day is January 19th, according to the Popcorn Board, so it falls on Tuesday, Jan. 19, in 2027.** The Board's newsroom page says: "January 19th is National Popcorn Day, a day bursting with goodness and good taste." The page (checked Nov. 4, 2026) gives no year, so the date does not move; only the weekday does. Below are the weekdays through 2031, what theaters did in 2026, popcorn facts from official sources and a free printable quiz.
+**National Popcorn Day is January 19th, according to the Popcorn Board, so it falls on Tuesday, Jan. 19, in 2027.** The Board's newsroom page says: "January 19th is National Popcorn Day, a day bursting with goodness and good taste." The page (checked Nov. 14, 2026) gives no year, so the date does not move; only the weekday does. Below are the weekdays through 2031, what theaters did in 2026, popcorn facts from official sources and a free printable quiz.
 
 ## Which weekday is National Popcorn Day through 2031?
 
@@ -144,7 +145,7 @@ In 2027 the day comes right after [Martin Luther King Jr. Day on Monday, Jan. 18
 
 ## Will movie theaters offer National Popcorn Day deals in 2027?
 
-Not yet announced as of Nov. 4, 2026. Here is what happened last year. On Jan. 5, 2026, Cinema United, with The Cinema Foundation, announced "the annual nationwide celebration of America's favorite movie snack on Monday, January 19," with one-day-only popcorn deals at movie theatres nationwide. On Jan. 17, 2026, Savor Nation reported that "Movie theaters are popping out deals in celebration of National Popcorn Day Monday, Jan. 19."
+Not yet announced as of Nov. 14, 2026. Here is what happened last year. On Jan. 5, 2026, Cinema United, with The Cinema Foundation, announced "the annual nationwide celebration of America's favorite movie snack on Monday, January 19," with one-day-only popcorn deals at movie theatres nationwide. On Jan. 17, 2026, Savor Nation reported that "Movie theaters are popping out deals in celebration of National Popcorn Day Monday, Jan. 19."
 
 That is the 2026 record, not a promise for 2027. We will not list any 2027 deal until a source publishes it.
 
@@ -166,4 +167,4 @@ The Census Bureau's consumption figures are an average based on 2016-2020 sales,
 
 ## What does the free popcorn quiz include?
 
-Our printable has six quiz questions with answers drawn from the sources above: whether popcorn is a whole grain, the date, the 2027 weekday, Popcorn Poppin' Month, and the Census Bureau's per-person and national quart figures. A flavor tally with tick boxes (plain with salt, butter, caramel, cheese and one of your own) and a notes area for your favorite finish the page. The flavor list is ours, not from any source.
+Our printable has four quiz questions with answers drawn from the sources above: whether popcorn is a whole grain, the date, Popcorn Poppin' Month and the Census Bureau's national quart figure. A flavor tally with tick boxes (plain with salt, butter, caramel, cheese and one of your own) and a notes area for your favorite finish the page. The flavor list is ours, not from any source.

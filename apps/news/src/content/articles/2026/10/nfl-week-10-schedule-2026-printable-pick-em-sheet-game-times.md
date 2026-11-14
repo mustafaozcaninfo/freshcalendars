@@ -3,7 +3,7 @@ title: "NFL Week 10 Schedule 2026: 14 Games, Nov. 12-16, Pick'em Sheet"
 description: "NFL Week 10 schedule 2026: 14 games, Nov. 12 to 16, with ET kickoffs and TV. Patriots at Lions in Munich is 9:30 a.m. ET; printable pick'em sheet included."
 type: news
 publishedAt: "2026-10-29T11:46:00-04:00"
-updatedAt: "2026-11-05T09:22:00-05:00"
+updatedAt: "2026-11-14T15:20:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 10 schedule 2026", "NFL Week 10 2026 game times", "NFL Week 10 pick em sheet printable", "Patriots Lions Munich time"]
@@ -14,6 +14,7 @@ assets:
   date: "2026-11-15"
   card: { top: "NFL Week 10: 14 games", big: "9:30 a.m. ET Sun.", bottom: "Patriots at Lions in Munich" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: nfl-week-10-pick-em-sheet-2026
     group: nfl-week-10-2026
     title: "NFL Week 10 Pick'em Sheet 2026"
@@ -21,7 +22,7 @@ assets:
     columns: ["Kickoff (ET)", "Game and network · Pick · Score"]
     layout: list
     rows:
-      - ["Thu., Nov. 12 · 8:15 p.m.", "Commanders at Giants (Prime Video)  Pick: ______  Score: ______"]
+      - ["Thu., Nov. 12 · 8:15 p.m.", "Commanders at Giants (Prime Video)  Final: Commanders 24, Giants 21"]
       - ["Sun., Nov. 15 · 9:30 a.m.", "Patriots at Lions, Munich (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 15 · 1:00 p.m.", "Chiefs at Falcons (CBS)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 15 · 1:00 p.m.", "Texans at Browns (FOX)  Pick: ______  Score: ______"]
@@ -36,8 +37,7 @@ assets:
       - ["Sun., Nov. 15 · 8:20 p.m.", "Steelers at Bengals (NBC)  Pick: ______  Score: ______"]
       - ["Mon., Nov. 16 · 8:15 p.m.", "Chargers at Ravens (ESPN)  Pick: ______  Score: ______"]
       - ["Tiebreaker · Mon., Nov. 16", "Total points, Chargers at Ravens: ______"]
-    note: "Source: National Football League (NFL) 2026 schedule, Week 10. Byes: Bears, Broncos, Eagles, Buccaneers. Times can change; check NFL.com."
-    inkSaver: true
+    note: "Source: National Football League (NFL) 2026 schedule, Week 10. Byes: Bears, Broncos, Eagles, Buccaneers. Times can change; check NFL.com. Thursday result checked Nov. 14."
     description: "A one-page NFL Week 10 2026 pick'em sheet with all 14 games, Eastern Time kickoffs, TV networks, blanks for picks and scores, and a tiebreaker line."
     alt: "Printable NFL Week 10 2026 pick'em sheet listing 14 games with kickoff, network and blanks for picks and scores"
 downloads:
@@ -48,14 +48,6 @@ downloads:
     alt: "Printable NFL Week 10 2026 pick'em sheet listing 14 games with kickoff, network and blanks for picks and scores"
     pdf: "/news/downloads/nfl-week-10-2026/nfl-week-10-pick-em-sheet-2026.pdf"
     png: "/news/downloads/nfl-week-10-2026/nfl-week-10-pick-em-sheet-2026.png"
-    pages: 1
-  - group: "NFL Week 10 Pick'em Sheet 2026 printables"
-    title: "NFL Week 10 Pick'em Sheet 2026 (ink saver)"
-    description: "A one-page NFL Week 10 2026 pick'em sheet with all 14 games, Eastern Time kickoffs, TV networks, blanks for picks and scores, and a tiebreaker line. Ink-saver version."
-    preview: ../../../../assets/news/nfl-week-10-2026/nfl-week-10-pick-em-sheet-2026-ink.png
-    alt: "Printable NFL Week 10 2026 pick'em sheet listing 14 games with kickoff, network and blanks for picks and scores, ink-saver version"
-    pdf: "/news/downloads/nfl-week-10-2026/nfl-week-10-pick-em-sheet-2026-ink.pdf"
-    png: "/news/downloads/nfl-week-10-2026/nfl-week-10-pick-em-sheet-2026-ink.png"
     pages: 1
 hero:
   src: ../../../../assets/news/nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times/nfl-week-10-schedule-2026-printable-pick-em-sheet-game-times.webp
@@ -88,6 +80,7 @@ sources:
   - title: "2026 NFL Schedule Week 10"
     url: "https://www.nfl.com/schedules/2026/by-week/week-10"
     publisher: "National Football League"
+    date: "2026-11-14"
   - title: "NFL Announces Important Dates For 2026-2027"
     url: "https://www.seahawks.com/news/nfl-announces-important-dates-for-2026-2027"
     publisher: "Seattle Seahawks"
@@ -101,7 +94,7 @@ related: [nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times, nfl-trad
 draft: false
 ---
 
-**The National Football League (NFL) plays 14 Week 10 games from Thursday, Nov. 12 to Monday, Nov. 16, 2026, including Patriots at Lions in Munich at 9:30 a.m. Eastern Time (ET) on Sunday, according to NFL.com.** The sections below cover the 14-game table, a time-zone grid that includes Munich, a rest-day table for teams on short or long breaks, and a printable pick'em sheet with a Monday total-points tiebreaker.
+**The National Football League (NFL) plays 14 Week 10 games from Thursday, Nov. 12 to Monday, Nov. 16, 2026, including Patriots at Lions in Munich at 9:30 a.m. Eastern Time (ET) on Sunday, according to NFL.com.** The Washington Commanders beat the New York Giants 24-21 in the Thursday opener, NFL.com shows. The sections below cover the 14-game table, a time-zone grid that includes Munich, a rest-day table for teams on short or long breaks, and a printable pick'em sheet with a Monday total-points tiebreaker.
 
 ## What is the NFL Week 10 schedule for 2026?
 
@@ -148,7 +141,7 @@ Four teams sit out Week 10: the Chicago Bears, Denver Broncos, Philadelphia Eagl
 
 ## Week 10 turnarounds: Giants and Commanders on four days, Ravens on 11
 
-The shortest Week 10 gap is on Thursday, Nov. 12. The Washington Commanders and New York Giants both played on Sunday, Nov. 8, so they have four days. The Buffalo Bills and Minnesota Vikings played Monday, Nov. 9 and have six, and the New England Patriots have seven before Munich. The Tennessee Titans and Pittsburgh Steelers were on bye in Week 9 and last played Nov. 1, 14 days before their Nov. 15 games. The Baltimore Ravens played Thursday, Nov. 5 and do not play again until Monday, Nov. 16, an 11-day gap.
+The shortest Week 10 gap was on Thursday, Nov. 12. The Washington Commanders and New York Giants both played on Sunday, Nov. 8, so they had four days. The Buffalo Bills and Minnesota Vikings played Monday, Nov. 9 and have six, and the New England Patriots have seven before Munich. The Tennessee Titans and Pittsburgh Steelers were on bye in Week 9 and last played Nov. 1, 14 days before their Nov. 15 games. The Baltimore Ravens played Thursday, Nov. 5 and do not play again until Monday, Nov. 16, an 11-day gap.
 
 | Team | Previous game | Days of rest | Week 10 game (ET) |
 |---|---|---|---|
@@ -165,7 +158,7 @@ Days of rest are calendar days between the two dates, counted by us from the NFL
 
 ## Is there a printable NFL Week 10 pick'em sheet?
 
-Yes. The one-page PDF puts the 14 games in start-time order with the network next to each, and every line has blanks for your pick and the final score plus a tick box for finished games. At the bottom, the tiebreaker asks for total points in Monday's Chargers at Ravens game. It pairs well with the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and your picks should be in before Thursday night.
+Yes. The one-page PDF puts the 14 games in start-time order with the network next to each, and every line has blanks for your pick and the final score plus a tick box for finished games. At the bottom, the tiebreaker asks for total points in Monday's Chargers at Ravens game. It pairs well with the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html), and the Thursday line already shows the final score, so your picks are due before Sunday's 9:30 a.m. ET kickoff in Munich.
 
 ## Which games are on Sunday, Nov. 15?
 

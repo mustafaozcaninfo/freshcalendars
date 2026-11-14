@@ -1,9 +1,9 @@
 ---
 title: "Lord Mayor's Show 2026: Nov. 14 at 11 a.m., Route and Closures"
-description: "The Lord Mayor's Show 2026 is Saturday, Nov. 14, setting off from Mansion House at 11 a.m. London time. Timetable in ET, road closures, printable."
+description: "The Lord Mayor's Show 2026 set off from Mansion House at 11 a.m. London time on Saturday, Nov. 14. Timetable in ET, closures, iPlayer replay, printable."
 type: explainer
 publishedAt: "2026-10-26T05:15:00-04:00"
-updatedAt: "2026-11-06T09:30:00-05:00"
+updatedAt: "2026-11-14T15:12:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Lord Mayor's Show 2026", "Lord Mayor's Show 2026 date", "Lord Mayor's Show time", "Lord Mayor's Show road closures"]
@@ -11,7 +11,7 @@ dateline: "London"
 hero:
   src: ../../../../assets/news/lord-mayors-show-2026-date-time-route-november-14/lord-mayors-show-2026-date-time-route-november-14.webp
   alt: "Drummers in red and gold uniforms march in a past Lord Mayor's Show procession in the City of London"
-  caption: "A past Lord Mayor's Show. The 2026 procession sets off from Mansion House at 11am on Nov. 14."
+  caption: "A past Lord Mayor's Show. The 2026 procession set off from Mansion House at 11am on Nov. 14."
   credit: "Photo: Matt Brown / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -19,24 +19,24 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Marching_band_at_Lord_Mayor%27s_Show_2024-11-09.jpg"
     author: "Matt Brown"
 summary:
-  - "The Lord Mayor's Show 2026 sets off from Mansion House on Saturday, Nov. 14 at 11 a.m. London time, according to the Lord Mayor's Show website."
+  - "The Lord Mayor's Show 2026 set off from Mansion House on Saturday, Nov. 14 at 11 a.m. London time, according to the Lord Mayor's Show website, which now links to the live broadcast on iPlayer."
   - "The timetable puts the procession at St Paul's Cathedral at 11:13 a.m. and the Royal Courts of Justice at 11:26 a.m. (Aldwych end), and the head of the procession back at Mansion House at 1:33 p.m."
-  - "Most City of London roads are completely closed from about 7 a.m. (6 a.m. in the Bank area) until about 4 p.m., the Show's 2026 closures page says."
+  - "Most City of London roads were completely closed from about 7 a.m. (5 a.m. in the Bank area, midnight for Princes Street), with most reopening around 4 p.m., the Show's 2026 closures page says."
   - "In the United States, 11 a.m. in London is 6 a.m. Eastern Time (ET) and 3 a.m. Pacific Time (PT), our calculation."
 faq:
   - q: "When is the Lord Mayor's Show 2026?"
-    a: "Saturday, Nov. 14, 2026, at 11 a.m. London time, according to the Lord Mayor's Show website. It sets off from Mansion House."
+    a: "Saturday, Nov. 14, 2026, at 11 a.m. London time, according to the Lord Mayor's Show website. It set off from Mansion House."
   - q: "What time is the Lord Mayor's Show in New York?"
     a: "11 a.m. Greenwich Mean Time (GMT) is 6 a.m. Eastern Time (ET) and 3 a.m. Pacific Time (PT) on Nov. 14, our calculation. Clocks have changed on both sides of the Atlantic by then."
   - q: "Which roads are closed for the Lord Mayor's Show 2026?"
-    a: "The Show's 2026 closures page says most City of London roads are completely closed from about 7 a.m. (6 a.m. in the Bank area) until about 4 p.m. Blackfriars Bridge closes from 7 a.m. and the Embankment from 9 a.m. between Southwark and Westminster bridges. Kingsway, Waterloo Bridge, Bishopsgate, Southwark Bridge and London Bridge stay open."
+    a: "The Show's 2026 closures page says most City of London roads were completely closed from about 7 a.m. (5 a.m. in the Bank area, midnight for Princes Street), and most reopened around 4 p.m. The map marked Blackfriars Bridge closed from 7 a.m. and the Embankment from 9 a.m. between Southwark and Westminster bridges. Kingsway, Waterloo Bridge, Bishopsgate, Southwark Bridge and London Bridge stayed open."
   - q: "Who is the 2026 Lord Mayor of London?"
-    a: "Alderman Bronek Masojada will be the 698th Lord Mayor of London. The City of London Corporation reported his election on Sept. 29, 2026."
+    a: "Alderman Bronek Masojada is the 698th Lord Mayor of London, according to the Show website. The City of London Corporation reported his election on Sept. 29, 2026."
 sources:
   - title: "Lord Mayor's Show 2026"
     url: "https://www.lordmayorsshow.london/"
     publisher: "Lord Mayor's Show"
-    date: "2026-10-26"
+    date: "2026-11-14"
   - title: "Procession"
     url: "https://lordmayorsshow.london/procession"
     publisher: "Lord Mayor's Show"
@@ -52,11 +52,11 @@ sources:
   - title: "The Lord Mayor's Show 14 November 2026: timetable"
     url: "https://lordmayorsshow.london/practicalities/timetable"
     publisher: "Lord Mayor's Show"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Closures"
     url: "https://www.lordmayorsshow.london/closures"
     publisher: "Lord Mayor's Show"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Road closures for the Lord Mayor's Show, 14 November 2026 (map PDF)"
     url: "https://lordmayorsshow.london/dl/visitors/2026_lordmayorsshow_closures.pdf"
     publisher: "Lord Mayor's Show"
@@ -91,14 +91,14 @@ assets:
   overlay: true
   kicker: "Lord Mayor's Show · Sat., Nov. 14, 2026"
   date: "2026-11-14"
-  card: { top: "Procession sets off at", big: "11 a.m.", bottom: "From Mansion House, London (6 a.m. ET)" }
+  card: { top: "Procession set off at", big: "11 a.m.", bottom: "From Mansion House, London (6 a.m. ET)" }
   printable:
     kit: watch-guide
     slug: lord-mayors-show-2026-day-planner
     group: lord-mayors-show-2026
     title: "Lord Mayor's Show 2026 Day Planner"
     subtitle: "Saturday, Nov. 14, 2026: official London times with Eastern and Pacific Time"
-    note: "Source: Lord Mayor's Show timetable and 2026 road closures page and map, read Nov. 6, 2026. US times converted by Fresh Calendars."
+    note: "Source: Lord Mayor's Show timetable and 2026 road closures page and map, read Nov. 14, 2026. US times converted by Fresh Calendars."
     description: "A one-page planner for the Lord Mayor's Show on Nov. 14, 2026: the official procession timetable and road closure times in London, Eastern and Pacific Time."
     alt: "Printable Lord Mayor's Show 2026 day planner with the procession timetable and road closure times"
     data:
@@ -107,11 +107,11 @@ assets:
       events:
         - start: "2026-11-14T07:00+00:00"
           tz: "Europe/London"
-          title: "Most City of London roads completely closed (6 a.m. in the Bank area)"
+          title: "Most City of London roads completely closed (5 a.m. in the Bank area)"
           src: 6
           quote:
             - "ROAD CLOSURES FOR THE LORD MAYOR'S SHOW / 14 NOVEMBER 2026"
-            - "from about 7am (6am in the Bank area) until about 4pm"
+            - "from about 7am (5am in the Bank area, midnight for Princes Street)"
         - start: "2026-11-14T11:00+00:00"
           tz: "Europe/London"
           title: "Procession sets off from Mansion House"
@@ -160,23 +160,22 @@ assets:
           src: 6
           quote:
             - "ROAD CLOSURES FOR THE LORD MAYOR'S SHOW / 14 NOVEMBER 2026"
-            - "from about 7am (6am in the Bank area) until about 4pm"
+            - "Most roads will reopen around 4pm."
       unconfirmed:
-        - { label: "BBC broadcast time for 2026", why: "Not announced as of Nov. 6, 2026" }
-        - { label: "2026 fireworks", why: "Not announced as of Nov. 6, 2026" }
+        - { label: "2026 fireworks", why: "Not announced as of Nov. 14, 2026" }
 ---
 
-**The Lord Mayor's Show 2026 sets off from Mansion House at 11 a.m. Greenwich Mean Time (GMT) on Saturday, Nov. 14**, according to the Lord Mayor's Show website, which says the Show "will fill most of the City of London." That is 6 a.m. Eastern Time (ET) and 3 a.m. Pacific Time (PT) in the United States, by our calculation.
+**The Lord Mayor's Show 2026 set off from Mansion House at 11 a.m. Greenwich Mean Time (GMT) on Saturday, Nov. 14**, according to the Lord Mayor's Show website, which says the Show "will fill most of the City of London." That is 6 a.m. Eastern Time (ET) and 3 a.m. Pacific Time (PT) in the United States, by our calculation.
 
 This story gives the official timetable, the 2026 road closures, and a one-page planner you can print.
 
 ## What time does the Lord Mayor's Show start?
 
-The procession starts at 11 a.m. London time. The Show's timetable page, headed "The Lord Mayor's Show 14 November 2026," says "The procession sets off from Mansion House at 11am." The City of London Corporation's Oct. 21, 2026 news release says it will set off "from the Mayoral residence," which is Mansion House.
+The procession started at 11 a.m. London time. The Show's timetable page, headed "The Lord Mayor's Show 14 November 2026," says "The procession sets off from Mansion House at 11am." The City of London Corporation's Oct. 21, 2026 news release says it will set off "from the Mayoral residence," which is Mansion House.
 
-The Lord Mayor, though, begins earlier on the river. The City of London Corporation says he will leave Westminster at 8.30 a.m. aboard the Royal Shallop "Jubilant," then disembark at His Majesty's Ship (HMS) President and join the procession through the Square Mile.
+The Lord Mayor, though, began earlier on the river. The City of London Corporation said he would leave Westminster at 8.30 a.m. aboard the Royal Shallop "Jubilant," then disembark at His Majesty's Ship (HMS) President and join the procession through the Square Mile.
 
-The Royal Navy will provide the Guard of Honour and parade the King's Colour on the King's 78th birthday, the City of London Corporation says. Nov. 14 is the King's birthday.
+The Royal Navy was to provide the Guard of Honour and parade the King's Colour on the King's 78th birthday, the City of London Corporation said. Nov. 14 is the King's birthday.
 
 ## Lord Mayor's Show 2026 timetable in London, ET and PT
 
@@ -192,20 +191,21 @@ The Royal Navy will provide the Guard of Honour and parade the King's Colour on 
 | 1:18 p.m. | 8:18 a.m. | 5:18 a.m. | Procession reaches the top of Blackfriars Bridge |
 | 1:33 p.m. | 8:33 a.m. | 5:33 a.m. | Head of the procession returns to Mansion House |
 
-Source: Lord Mayor's Show timetable page, read Nov. 6, 2026. The Eastern and Pacific Time columns are our calculation: Eastern Time is GMT minus 5 hours and Pacific Time is GMT minus 8 hours on Nov. 14, after clocks changed on both sides of the Atlantic.
+Source: Lord Mayor's Show timetable page, read Nov. 14, 2026. The Eastern and Pacific Time columns are our calculation: Eastern Time is GMT minus 5 hours and Pacific Time is GMT minus 8 hours on Nov. 14, after clocks changed on both sides of the Atlantic.
 
 ## Who becomes Lord Mayor on Nov. 13?
 
-Alderman Bronek Masojada will be the 698th Lord Mayor of London, according to the Lord Mayor's Show website. The City of London Corporation reported on Sept. 29, 2026 that he was elected. The website says he will take office in the Silent Ceremony on Friday, Nov. 13, the day before the Show.
+Alderman Bronek Masojada is the 698th Lord Mayor of London, according to the Lord Mayor's Show website. The City of London Corporation reported on Sept. 29, 2026 that he was elected. The website says he was to take office in the Silent Ceremony on Friday, Nov. 13, the day before the Show.
 
 ## Which roads close for the Lord Mayor's Show?
 
-The Show's 2026 closures page and map ("Road closures for the Lord Mayor's Show, 14 November 2026") say most City of London roads are completely closed "from about 7am (6am in the Bank area) until about 4pm." The map itself is marked "Bank area closed 5am," so the Bank area closes in the early morning; check the map for the exact hour.
+The Show's 2026 closures page and map ("Road closures for the Lord Mayor's Show, 14 November 2026") say most City of London roads were completely closed "from about 7am (5am in the Bank area, midnight for Princes Street)," with most roads reopening "around 4pm."
 
 | Road | Closure, according to the organizer |
 |---|---|
-| Most City of London roads | Completely closed from about 7 a.m. (2 a.m. ET) until about 4 p.m. (11 a.m. ET) |
-| Bank area | Closed from early morning (6 a.m. in the text, 5 a.m. on the map) |
+| Most City of London roads | Completely closed from about 7 a.m. (2 a.m. ET); most reopened around 4 p.m. (11 a.m. ET) |
+| Bank area | Closed from 5 a.m. (midnight ET) |
+| Princes Street | Closed from midnight London time (7 p.m. ET on Nov. 13) |
 | Blackfriars Bridge | Closed from 7 a.m. |
 | The Embankment | Closed from 9 a.m. between Southwark and Westminster bridges |
 | City Road | Closed from 7 a.m. up to the Old Street roundabout |
@@ -224,7 +224,7 @@ The timetable page advises arriving at Bank by about 10:30 a.m. London time, at 
 | Aldwych | About 11:15 a.m. | About 6:15 a.m. | About 3:15 a.m. |
 | Embankment or Queen Victoria Street | About 1:15 p.m. | About 8:15 a.m. | About 5:15 a.m. |
 
-A British Broadcasting Corporation (BBC) broadcast time for 2026 and any 2026 fireworks are not yet announced in what we read.
+The Show website says the live broadcast of the Lord Mayor's Show is available on iPlayer, the British Broadcasting Corporation (BBC) streaming service. Any 2026 fireworks are not announced in what we read.
 
 ## How does the Show fit with other UK dates?
 

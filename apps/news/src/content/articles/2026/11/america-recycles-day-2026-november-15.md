@@ -3,6 +3,7 @@ title: "America Recycles Day 2026: Nov. 15 and What Goes in the Bin"
 description: "America Recycles Day 2026 is Sunday, Nov. 15. See what the U.S. Environmental Protection Agency says goes in the bin, plus a free one-page checklist."
 type: explainer
 publishedAt: "2026-11-04T06:42:00-05:00"
+updatedAt: "2026-11-14T15:08:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["america recycles day 2026", "when is america recycles day", "what can i recycle curbside", "america recycles day events"]
@@ -80,7 +81,7 @@ sources:
   - title: "America Recycles Day | US EPA"
     url: "https://epa.gov/recyclingstrategy/america-recycles-day"
     publisher: "U.S. Environmental Protection Agency"
-    date: "2025-11-14"
+    date: "2026-11-14"
   - title: "Reduce, Reuse, Recycle | US EPA"
     url: "https://www.epa.gov/recycling"
     publisher: "U.S. Environmental Protection Agency"
@@ -92,6 +93,7 @@ sources:
   - title: "AMERICA RECYCLES DAY - Keep America Beautiful"
     url: "https://kab.org/our-signature-programs/america-recycles-day/"
     publisher: "Keep America Beautiful"
+    date: "2026-11-14"
   - title: "How Do I Recycle Common Recyclables"
     url: "https://www.epa.gov/recycle/how-do-i-recycle-common-recyclables"
     publisher: "U.S. Environmental Protection Agency"
@@ -107,13 +109,15 @@ sources:
   - title: "SWA Celebrates America Recycles Day"
     url: "https://www.swa.org/Calendar.aspx?EID=5456"
     publisher: "Solid Waste Authority of Palm Beach County"
+    date: "2026-11-14"
   - title: "American Recycles Day"
     url: "https://www.diamondbarca.gov/calendar.aspx?EID=1848"
     publisher: "City of Diamond Bar, California"
+    date: "2026-11-14"
   - title: "Prince William County celebrates America Recycles Month"
     url: "https://www.pwcva.gov/news/prince-william-county-celebrates-america-recycles-month"
     publisher: "Prince William County, Virginia"
-    date: "2026-10-20"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -132,7 +136,7 @@ downloads:
 draft: false
 ---
 
-**America Recycles Day is Sunday, Nov. 15, 2026.** The U.S. Environmental Protection Agency (EPA) says: "On America Recycles Day (November 15), EPA recognizes the importance and impact of recycling." Below are EPA's rules for common items, three local events from official pages and a free one-page checklist (all checked Nov. 4, 2026).
+**America Recycles Day is Sunday, Nov. 15, 2026.** The U.S. Environmental Protection Agency (EPA) says: "On America Recycles Day (November 15), EPA recognizes the importance and impact of recycling." Below are EPA's rules for common items, three local events from official pages and a free one-page checklist (checked Nov. 14, 2026).
 
 ## When is America Recycles Day in 2026 and after?
 
@@ -173,13 +177,13 @@ EPA adds that donating or recycling consumer electronics "conserves our natural 
 
 ## Which America Recycles Day events are confirmed?
 
-We found these on official local pages. Check each page before you go.
+We found these on official local pages. Check each page before you go. The Diamond Bar event is today, Saturday, Nov. 14, and the Prince William stop on Nov. 10 has passed.
 
 | Where | When | Details |
 |---|---|---|
 | Solid Waste Authority (SWA) of Palm Beach County, Florida | Sunday, Nov. 15, 2026, 9 a.m. to 1 p.m. | "SWA Celebrates America Recycles Day" at the SWA Education Center, 6751 N. Jog Road, West Palm Beach |
-| City of Diamond Bar, California | Saturday, Nov. 14, 2026, 9 a.m. to 2 p.m. | "American Recycles Day" event in the South Coast Air Quality Management District (AQMD) parking lot, 21865 Copley Drive |
-| Prince William County, Virginia | Nov. 10, 16, 17, 18 and 20, 2026 | Events for America Recycles Month, with a pledge open through Nov. 20 at mwcog.org/recyclesday, per the county's Oct. 20 news release |
+| City of Diamond Bar, California | Saturday, Nov. 14, 2026, 9 a.m. to 2 p.m. | "American Recycles Day" drive-thru event in the South Coast Air Quality Management District (AQMD) parking lot, 21865 Copley Drive. The city said at 11:30 a.m. on Nov. 14 that onsite shredding is closed because the truck is full; other services run until 2 p.m. |
+| Prince William County, Virginia | Nov. 16, 17, 18 and 20, 2026 (Nov. 10 has passed) | Events for America Recycles Month, with a pledge open through Nov. 20 at mwcog.org/recyclesday, per the county's Oct. 20 news release |
 
 We did not find a 2026 event hosted by EPA itself.
 

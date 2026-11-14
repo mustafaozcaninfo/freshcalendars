@@ -1,8 +1,9 @@
 ---
-title: "Canada Holiday Light Shows 2026: Opening Nov. 13, 20 and 27"
-description: "Canada's holiday light shows 2026 start with Zoolights Nov. 13, Canyon Lights Nov. 20 and VanDusen Nov. 27. A table gives hours and Dec. 25 closings."
+title: "Canada Holiday Lights 2026: Canyon Lights Nov. 20, VanDusen Nov. 27"
+description: "Canada's holiday light shows 2026: Zoolights opened Nov. 13, Canyon Lights opens Nov. 20 and VanDusen Nov. 27. A table gives hours and Dec. 25 closings."
 type: news
 publishedAt: "2026-11-06T06:10:00-05:00"
+updatedAt: "2026-11-14T15:33:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["canyon lights 2026", "zoolights calgary 2026", "vandusen festival of lights 2026", "christmas lights vancouver 2026", "canada holiday light shows 2026"]
@@ -19,7 +20,7 @@ hero:
     author: "GoToVan from Vancouver, Canada"
     authorUrl: "https://www.flickr.com/people/47022937@N03"
 summary:
-  - "Calgary's Zoolights runs Nov. 13, 2026 to Jan. 3, 2027, nightly from 5:30 to 9:30 p.m., according to the Wilder Institute and Calgary Zoo."
+  - "Calgary's Zoolights opened Nov. 13, 2026 to Jan. 3, 2027, nightly from 5:30 to 9:30 p.m., according to the Wilder Institute and Calgary Zoo."
   - "Canyon Lights at Capilano Suspension Bridge Park in North Vancouver runs Nov. 20, 2026 to Jan. 10, 2027, with park hours of 11 a.m. to 10 p.m. and no visits on Dec. 25."
   - "VanDusen Botanical Garden's Festival of Lights runs Nov. 27, 2026 to Jan. 3, 2027, 4 to 10 p.m.; the garden's page does not post last entry, closed days or prices."
   - "All four shows are listed from Nov. 27, 2026 to Jan. 3, 2027, but Canyon Lights and Zoolights are closed on Dec. 25."
@@ -36,23 +37,23 @@ sources:
   - title: "Canyon Lights | Capilano Suspension Bridge Park"
     url: "https://www.capbridge.com/canyon-lights/"
     publisher: "Capilano Suspension Bridge Park"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "ZOOLIGHTS - Wilder Institute's Calgary Zoo"
     url: "https://www.calgaryzoo.com/zoolights"
     publisher: "Wilder Institute/Calgary Zoo"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Home - VanDusen Botanical Garden"
     url: "https://www.vandusengarden.org/"
     publisher: "VanDusen Botanical Garden"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Hours & Admission - VanDusen Botanical Garden"
     url: "https://www.vandusengarden.org/hours-admission/"
     publisher: "VanDusen Botanical Garden"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Winter Festival of Lights | Niagara Falls Tourism"
     url: "https://www.niagarafallstourism.com/WFOL/"
     publisher: "Niagara Falls Tourism"
-    date: "2026-11-06"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -81,8 +82,8 @@ assets:
   overlay: true
   scene: winter-holidays
   kicker: "Canada holiday lights · Nov. 13 to Jan. 10"
-  date: "2026-11-13"
-  card: { top: "First show opens", big: "Nov. 13", bottom: "Calgary Zoo ZOOLIGHTS" }
+  date: "2026-11-20"
+  card: { top: "Canyon Lights opens", big: "Nov. 20", bottom: "Capilano Suspension Bridge Park" }
   printable:
     kit: deadline-matrix
     slug: canada-holiday-light-shows-2026-dates
@@ -104,10 +105,10 @@ assets:
         - { date: "2027-01-03", cells: { ZOOLIGHTS: { text: "Last night", src: 2 }, VanDusen: { text: "Last night", src: 3 } }, src: 2, quote: ["ZOOLIGHTS runs from November 13, 2026, to January 3, 2027, nightly from 5:30 to 9:30 p.m.", "November 27, 2026 – January 3, 2027"] }
         - { date: "2027-01-10", cells: { "Canyon Lights": { text: "Last night", src: 1 }, Niagara: { text: "Last night", src: 5 } }, src: 1, quote: ["November 20, 2026 – January 10, 2027.", "Join Us from November 14, 2026 to January 10, 2027."] }
       unconfirmed:
-        - { label: "VanDusen last entry, closed days and prices", why: "Not posted on the garden's page as of Nov. 6, 2026" }
+        - { label: "VanDusen last entry, closed days and prices", why: "Not posted on the garden's page as of Nov. 14, 2026" }
 ---
 
-**Calgary's Zoolights opens Friday, Nov. 13, 2026, Canyon Lights at Capilano Suspension Bridge Park in North Vancouver opens Friday, Nov. 20 and VanDusen Botanical Garden's Festival of Lights opens Friday, Nov. 27**, according to each attraction's official site. Niagara Falls' Winter Festival of Lights starts Saturday, Nov. 14. The side-by-side table, the nights all of them overlap and a one-page printable are below.
+**Calgary's Zoolights opened Friday, Nov. 13, 2026, Canyon Lights at Capilano Suspension Bridge Park in North Vancouver opens Friday, Nov. 20 and VanDusen Botanical Garden's Festival of Lights opens Friday, Nov. 27**, according to each attraction's official site. Niagara Falls' Winter Festival of Lights starts Saturday, Nov. 14, 2026. The side-by-side table, the nights all of them overlap and a one-page printable are below.
 
 ## What are the Canada holiday light show dates and hours for 2026?
 
@@ -122,7 +123,7 @@ The weekdays and the run lengths below are our calculation from the official dat
 
 ## Which nights are all the light shows open at once?
 
-All four shows are listed from Friday, Nov. 27, 2026 through Sunday, Jan. 3, 2027, the date the last of Zoolights and VanDusen ends. That is 38 calendar days. Canyon Lights and Zoolights are closed on Friday, Dec. 25, which leaves 37 nights when all four are listed as running. VanDusen's closed days are not posted on the garden's page, so check before you go. Before Nov. 27 the lineup builds one show at a time: Zoolights on Nov. 13, Niagara on Nov. 14, Canyon Lights on Nov. 20. After Jan. 3, only Canyon Lights and Niagara continue, both to Sunday, Jan. 10, 2027.
+All four shows are listed from Friday, Nov. 27, 2026 through Sunday, Jan. 3, 2027, the date the last of Zoolights and VanDusen ends. That is 38 calendar days. Canyon Lights and Zoolights are closed on Friday, Dec. 25, which leaves 37 nights when all four are listed as running. VanDusen's closed days are not posted on the garden's page, so check before you go. Before Nov. 27 the lineup builds one show at a time: Zoolights opened Nov. 13, Niagara starts Nov. 14 and Canyon Lights Nov. 20. After Jan. 3, only Canyon Lights and Niagara continue, both to Sunday, Jan. 10, 2027.
 
 ## Canyon Lights at Capilano Suspension Bridge Park
 
@@ -142,7 +143,7 @@ Niagara Falls Tourism lists the festival from Nov. 14, 2026 to Jan. 10, 2027, ni
 
 ## Which Canadian light shows have no dates yet?
 
-Stanley Park Bright Nights in Vancouver, Toronto Zoo Terra Lumina, Montreal's Lumino and the Edmonton shows were not posted or not readable on official pages when we checked on Nov. 6, 2026, so they are not listed.
+Stanley Park Bright Nights in Vancouver, Toronto Zoo Terra Lumina, Montreal's Lumino and the Edmonton shows were not posted or not readable on official pages when we checked on Nov. 6 and 14, 2026, so they are not listed.
 
 ## Which light show dates should you mark?
 

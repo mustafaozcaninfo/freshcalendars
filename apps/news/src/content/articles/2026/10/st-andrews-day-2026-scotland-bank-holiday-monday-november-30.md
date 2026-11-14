@@ -3,6 +3,7 @@ title: "St Andrew's Day 2026: Scotland Bank Holiday Monday, Nov. 30"
 description: "St Andrew's Day 2026 is a Scotland bank holiday on Monday, Nov. 30, with no substitute day. Dates for 2023 to 2028 and a printable list."
 type: explainer
 publishedAt: "2026-10-25T17:20:00-04:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["St Andrew's Day 2026", "St Andrew's Day bank holiday 2026", "is St Andrew's Day a bank holiday", "Scotland bank holidays November 2026"]
@@ -67,6 +68,7 @@ assets:
   date: "2026-11-30"
   card: { top: "St Andrew's Day 2026", big: "Mon., Nov. 30", bottom: "Scotland bank holiday, no substitute this year" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: st-andrews-day-dates-2023-2028
     group: st-andrews-day-2026
     title: "St Andrew's Day Bank Holiday Dates, 2023 to 2028"
@@ -85,7 +87,7 @@ assets:
     alt: "Printable list of St Andrew's Day bank holiday dates in Scotland from 2023 to 2028, with substitute days in 2024 and 2025."
 ---
 
-**St Andrew's Day is a bank holiday in Scotland on Monday, Nov. 30, 2026, and there is no substitute day this year**, according to the GOV.UK list of United Kingdom (UK) bank holidays. From Sunday, Oct. 25, 2026, that is 36 days away. St Andrew is Scotland's patron saint.
+**St Andrew's Day is a bank holiday in Scotland on Monday, Nov. 30, 2026, and there is no substitute day this year**, according to the GOV.UK list of United Kingdom (UK) bank holidays. From Saturday, Nov. 14, 2026, that is 16 days away. St Andrew is Scotland's patron saint.
 
 The table below runs from 2023 to 2028 and shows when the date moved. A one-page version is attached to this story as a printable list.
 

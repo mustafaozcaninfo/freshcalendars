@@ -48,7 +48,7 @@ sources:
   - title: "Working Families Tax Cuts provisions"
     url: "https://www.irs.gov/newsroom/one-big-beautiful-bill-provisions"
     publisher: "Internal Revenue Service"
-    date: "2026-10-22"
+    date: "2026-11-10"
   - title: "Donating Safely and Avoiding Scams"
     url: "https://consumer.ftc.gov/features/donating-safely-and-avoiding-scams"
     publisher: "Federal Trade Commission"
@@ -78,7 +78,7 @@ downloads:
     pdf: "/news/downloads/giving-tuesday-2026/giving-tuesday-2026-checklist.pdf"
     png: "/news/downloads/giving-tuesday-2026/giving-tuesday-2026-checklist.png"
     pages: 1
-updatedAt: "2026-11-09T15:25:00-05:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 draft: false
 assets:
   overlay: true
@@ -114,7 +114,7 @@ assets:
             - "Keep your receipts and ask a tax professional what you need"
 ---
 
-GivingTuesday 2026 falls on **Tuesday, Dec. 1**, according to GivingTuesday, and a new rule from the Internal Revenue Service (IRS) applies to it: beginning with tax year 2026, people who do not itemize may deduct up to $1,000 of cash gifts to eligible charities. From Monday, Nov. 9, 2026, the day is 22 days away. The Federal Trade Commission (FTC) steps for checking a charity and a one-page printable checklist follow.
+GivingTuesday 2026 falls on **Tuesday, Dec. 1**, according to GivingTuesday, and a new rule from the Internal Revenue Service (IRS) applies to it: beginning with tax year 2026, people who do not itemize may deduct up to $1,000 of cash gifts to eligible charities. From Saturday, Nov. 14, 2026, the day is 17 days away. The Federal Trade Commission (FTC) steps for checking a charity and a one-page printable checklist follow.
 
 ## When is GivingTuesday 2026?
 
@@ -129,7 +129,7 @@ GivingTuesday says it was created in 2012 "as a simple idea: a day that encourag
 
 ## What is the new deduction for people who do not itemize?
 
-The IRS page "Working Families Tax Cuts" says that beginning with tax year 2026, individuals who do not itemize may deduct up to $1,000 of cash contributions made to eligible charitable organizations, and up to $2,000 for married taxpayers filing jointly. The page was last reviewed Oct. 22, 2026.
+The IRS page "Working Families Tax Cuts" says that beginning with tax year 2026, individuals who do not itemize may deduct up to $1,000 of cash contributions made to eligible charitable organizations, and up to $2,000 for married taxpayers filing jointly. The page was last reviewed Nov. 10, 2026.
 A cash gift made on GivingTuesday 2026 falls in tax year 2026, so it can count. Whether it does for you depends on your own return, so check with a tax professional.
 
 | Gift | Counts toward the new deduction? | IRS wording |

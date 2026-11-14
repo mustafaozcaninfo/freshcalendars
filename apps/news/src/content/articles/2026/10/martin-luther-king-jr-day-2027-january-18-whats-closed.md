@@ -3,6 +3,7 @@ title: "MLK Day 2027 Is Monday, Jan. 18: What Is Closed, Dates to 2030"
 description: "Martin Luther King Jr. (MLK) Day 2027 is Monday, Jan. 18, a federal holiday. What is closed, including stock markets, and dates through 2030."
 type: news
 publishedAt: "2026-10-25T01:30:00-04:00"
+updatedAt: "2026-11-14T15:45:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["MLK Day 2027", "Martin Luther King Jr. Day 2027 date", "is MLK Day a federal holiday", "what's closed on MLK Day 2027"]
@@ -40,6 +41,7 @@ sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
+    date: "2026-11-14"
   - title: "5 U.S. Code 6103, Holidays"
     url: "https://www.law.cornell.edu/uscode/text/5/6103"
     publisher: "Legal Information Institute, Cornell Law School"
@@ -49,6 +51,7 @@ sources:
   - title: "Holidays & Trading Hours"
     url: "https://www.nyse.com/markets/hours-calendars"
     publisher: "New York Stock Exchange"
+    date: "2026-11-14"
   - title: "What Goes Into Making a Federal Holiday: Ronald Reagan and Martin Luther King, Jr. Day"
     url: "https://reagan.blogs.archives.gov/2017/01/16/what-goes-into-making-a-federal-holiday-ronald-reagan-and-martin-luther-king-jr-day"
     publisher: "National Archives, Reagan Library"
@@ -91,6 +94,7 @@ assets:
     group: mlk-day-2027
     title: "Martin Luther King Jr. Day 2027 Planner"
     subtitle: "What is closed on Monday, Jan. 18, 2027, and what to check first"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     layout: checklist
     rows:
       - { when: "Mon., Jan. 18", what: "Federal offices closed (Office of Personnel Management)", section: "What's closed" }
@@ -106,7 +110,7 @@ assets:
     alt: "Printable Martin Luther King Jr. Day 2027 planner with a checklist of closures and things to check"
 ---
 
-Martin Luther King Jr. Day 2027 falls on **Monday, Jan. 18**, according to the U.S. Office of Personnel Management (OPM), which lists the federal holiday under its official name, "Birthday of Martin Luther King, Jr." From Sunday, Oct. 25, 2026, the day is 85 days away. Federal offices and the New York Stock Exchange (NYSE) close, and the page offers a one-page printable planner.
+Martin Luther King Jr. Day 2027 falls on **Monday, Jan. 18**, according to the U.S. Office of Personnel Management (OPM), which lists the federal holiday under its official name, "Birthday of Martin Luther King, Jr." The New York Stock Exchange (NYSE) lists the same date as a market holiday on its 2027 calendar. Federal offices and the exchange close, and a one-page printable planner is below.
 
 ## Is MLK Day a federal holiday?
 

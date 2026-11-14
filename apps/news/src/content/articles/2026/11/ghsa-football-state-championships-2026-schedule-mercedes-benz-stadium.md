@@ -3,6 +3,7 @@ title: "GHSA State Championship 2026: Dec. 15-16 Game Times by Class"
 description: "The Georgia High School Association (GHSA) plays its football finals Dec. 15-16 at Mercedes-Benz Stadium. All eight game times, flag Dec. 8, printable."
 type: news
 publishedAt: "2026-11-09T11:10:00-05:00"
+updatedAt: "2026-11-14T15:33:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["ghsa state championship 2026", "ghsa football championship schedule 2026", "ghsa state finals 2026 times", "ghsa flag football championship 2026"]
@@ -38,7 +39,7 @@ sources:
   - title: "GHSA/Tommy Guillebeau Football State Championships Presented by Alfa Insurance"
     url: "https://www.ghsa.net/ghsa-football-state-championship"
     publisher: "Georgia High School Association"
-    date: "2026-11-09"
+    date: "2026-11-14"
   - title: "GHSA Championship Event Ticket Prices for 2026-2027"
     url: "https://www.ghsa.net/ghsa-championship-event-ticket-prices"
     publisher: "Georgia High School Association"
@@ -46,11 +47,11 @@ sources:
   - title: "Flag Football | GHSA.net"
     url: "https://www.ghsa.net/flag-football"
     publisher: "Georgia High School Association"
-    date: "2026-11-09"
+    date: "2026-11-14"
   - title: "Football | GHSA.net"
     url: "https://www.ghsa.net/football"
     publisher: "Georgia High School Association"
-    date: "2026-11-09"
+    date: "2026-11-14"
   - title: "Congratulations to the 2025 State Football Champions!"
     url: "https://www.ghsa.net/congratulations-2025-state-football-champions"
     publisher: "Georgia High School Association"
@@ -76,7 +77,7 @@ assets:
     group: ghsa-football-state-championships-2026
     title: "GHSA Football State Championships 2026 Game Schedule"
     subtitle: "Mercedes-Benz Stadium, Atlanta: flag Dec. 8, tackle Dec. 15-16"
-    note: "Source: Georgia High School Association, football state championship and flag football pages, read Nov. 9, 2026. Times are Eastern; Central and Pacific are computed by Fresh Calendars."
+    note: "Source: Georgia High School Association, football state championship and flag football pages, read Nov. 14, 2026. Times are Eastern; Central and Pacific are computed by Fresh Calendars."
     description: "Printable schedule of the eight GHSA football state finals on Dec. 15-16, 2026, and the five flag football finals on Dec. 8, with ET, CT and PT times."
     alt: "Printable schedule of the GHSA football and flag football state finals at Mercedes-Benz Stadium with Eastern, Central and Pacific times and blank lines for the teams"
     data:
@@ -98,7 +99,7 @@ assets:
         - { start: "2026-12-16T20:00-05:00", title: "Class AAAAAAA", detail: "Mercedes-Benz Stadium", channel: "GPB", airing: live, src: 1, quote: ["Wed. Dec 16", "8:00pm AAAAAAA"] }
       fill: { title: "Matchups once the playoffs are done", labels: ["Flag football matchups", "Tackle matchups", "Where I am watching"] }
       unconfirmed:
-        - { label: "Matchups in all 13 games", why: "not yet decided; the tackle playoffs start Nov. 13" }
+        - { label: "Matchups in all 13 games", why: "not yet decided; the tackle playoffs began Nov. 13" }
         - { label: "Gate times and parking prices", why: "not posted on GHSA's page" }
 downloads:
   - group: "GHSA Football State Championships 2026 Game Schedule printables"
@@ -169,7 +170,7 @@ GHSA says all finals will be televised live on Georgia Public Broadcasting (GPB)
 
 ## GHSA football playoff dates before the finals
 
-Per GHSA's football page, the tackle playoff rounds before Atlanta are below. Matchups are not yet decided.
+Per GHSA's football page, the tackle playoff rounds before Atlanta are below. The first round was played Friday, Nov. 13. Finals matchups are not yet decided.
 
 | Round | Date |
 |---|---|

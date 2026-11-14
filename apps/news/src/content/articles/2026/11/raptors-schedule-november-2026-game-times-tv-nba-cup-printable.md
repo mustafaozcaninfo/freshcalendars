@@ -1,32 +1,25 @@
 ---
 title: "Raptors Schedule November 2026: 14 Games, Times in ET and PT"
-description: "The Raptors schedule for November 2026 starts Mon., Nov. 2, at the LA Clippers, 10 p.m. ET. All 14 games in ET and PT, three NBA Cup games and a printable."
+description: "The Raptors schedule for November 2026: next game Sun., Nov. 15 vs. the Knicks, 6 p.m. ET. All 14 games in ET and PT, three NBA Cup games and a printable."
 type: news
 publishedAt: "2026-11-01T20:45:00-05:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T15:33:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Raptors schedule", "Raptors schedule November 2026", "next Raptors game", "Raptors game tonight", "Raptors NBA Cup 2026"]
 dateline: "Toronto"
 assets:
   overlay: true
-  kicker: "Raptors · Next game Mon., Nov. 2, 2026"
-  date: "2026-11-02"
-  card: { top: "Raptors at Clippers", big: "10 p.m. ET", bottom: "7 p.m. PT in Los Angeles" }
+  kicker: "Raptors · Next game Sun., Nov. 15, 2026"
+  date: "2026-11-15"
+  card: { top: "Raptors vs. Knicks", big: "6 p.m. ET", bottom: "3 p.m. PT, Sun., Nov. 15 in Toronto" }
   printable:
     slug: raptors-schedule-november-2026
     group: raptors-schedule-2026
     title: "Raptors Schedule, November 2026"
-    subtitle: "All 14 November games plus Dec. 1 and Dec. 3, ET"
+    subtitle: "Games from Sun., Nov. 15 to Thu., Dec. 3, ET"
     layout: list
     rows:
-      - ["Sun., Nov. 1", "At Lakers, 9 p.m. ET"]
-      - ["Mon., Nov. 2", "At Clippers, 10 p.m. ET"]
-      - ["Wed., Nov. 4", "At Nuggets, 9 p.m. ET"]
-      - ["Fri., Nov. 6", "At Bucks, 8 p.m. ET (Cup)"]
-      - ["Mon., Nov. 9", "Grizzlies, 7:30 p.m. ET"]
-      - ["Wed., Nov. 11", "Celtics, 7 p.m. ET"]
-      - ["Thu., Nov. 12", "At 76ers, 7 p.m. ET"]
       - ["Sun., Nov. 15", "Knicks, 6 p.m. ET"]
       - ["Tue., Nov. 17", "Knicks, 7:30 p.m. ET"]
       - ["Wed., Nov. 18", "Wizards, 7:30 p.m. ET"]
@@ -36,10 +29,10 @@ assets:
       - ["Sun., Nov. 29", "Nuggets, 6 p.m. ET"]
       - ["Tue., Dec. 1", "At Rockets, 8:30 p.m. ET"]
       - ["Thu., Dec. 3", "At Spurs, 8 p.m. ET"]
-    note: "Source: National Basketball Association (NBA), 2026-27 NBA Regular Season Schedule (as of Aug. 13, 2026; subject to change). Times are Eastern Time."
-    inkSaver: true
-    description: "Raptors games from Nov. 1 through Dec. 3, 2026, with Eastern Time start times, national TV and NBA Cup games, from the NBA's August schedule."
-    alt: "Printable Raptors schedule for November 2026 listing 16 games with Eastern Time start times"
+    note: "Source: National Basketball Association (NBA), 2026-27 NBA Regular Season Schedule (as of Aug. 13, 2026; subject to change). Times are Eastern Time. Re-read Nov. 14, 2026."
+    description: "Raptors games from Nov. 15 through Dec. 3, 2026, with Eastern Time start times, national TV and NBA Cup games, from the NBA's August schedule."
+    alt: "Printable Raptors schedule listing nine games from Nov. 15 to Dec. 3, 2026 with Eastern Time start times"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
 hero:
   src: ../../../../assets/news/raptors-schedule-november-2026-game-times-tv-nba-cup-printable/raptors-schedule-november-2026-game-times-tv-nba-cup-printable.webp
   alt: "Raptors schedule November 2026: the seating bowl inside Scotiabank Arena in Toronto seen from the upper level"
@@ -52,26 +45,26 @@ hero:
     author: "Chicken4War"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Chicken4War"
 summary:
-  - "The Raptors' next game is Mon., Nov. 2, 2026, at the LA Clippers at 7 p.m. PT (10 p.m. ET), per the NBA's August schedule."
+  - "The Raptors' next game is Sun., Nov. 15, 2026, at home against the Knicks at 6 p.m. ET (3 p.m. PT), per the NBA's August schedule."
   - "The schedule lists 14 Raptors games in November 2026, from Sun., Nov. 1 at the Lakers to Sun., Nov. 29 against Denver: 8 at home and 6 on the road, by our count."
   - "Three November games are Emirates NBA Cup group games: Nov. 6 at Milwaukee, Nov. 20 at Detroit and Nov. 27 against Brooklyn."
   - "Canadian TV assignments are not in the NBA's league schedule; the Raptors list them at nba.com/raptors/schedule."
 faq:
   - q: "When is the next Raptors game?"
-    a: "Mon., Nov. 2, 2026, at the LA Clippers, 7 p.m. PT (10 p.m. ET), according to the NBA's 2026-27 schedule. After that, the Raptors play at Denver on Wed., Nov. 4 at 9 p.m. ET."
+    a: "Sun., Nov. 15, 2026, at home against the New York Knicks, 6 p.m. ET (3 p.m. PT), according to the NBA's 2026-27 schedule. The Knicks return on Tue., Nov. 17 at 7:30 p.m. ET."
   - q: "When do the Raptors play the Lakers?"
-    a: "The schedule lists Sun., Nov. 1, 2026, at the Lakers, 6 p.m. PT (9 p.m. ET)."
+    a: "The schedule listed Sun., Nov. 1, 2026, at the Lakers, 6 p.m. PT (9 p.m. ET). That game is past."
   - q: "How many Raptors games are in November 2026?"
     a: "14, according to the NBA's schedule dated Aug. 13, 2026: 8 at home and 6 on the road, by our count. Their home games come in two three-game blocks: Nov. 15, 17 and 18, then Nov. 23, 27 and 29."
   - q: "Which Raptors games are NBA Cup games?"
-    a: "The Raptors opened Cup group play at home against Orlando on Oct. 30. In November the schedule flags Nov. 6 at Milwaukee, Nov. 20 at Detroit and Nov. 27 against Brooklyn."
+    a: "The Raptors opened Cup group play at home against Orlando on Oct. 30. In November the schedule flags Nov. 6 at Milwaukee (past), Nov. 20 at Detroit and Nov. 27 against Brooklyn."
   - q: "Which channel shows the Raptors in Canada?"
-    a: "The NBA's league schedule does not list Canadian channels. The Raptors' schedule page at nba.com/raptors/schedule does. The only national U.S. game in November is Nov. 20 at Detroit on Prime Video."
+    a: "The NBA's league schedule does not list Canadian channels. The Raptors' schedule page at nba.com/raptors/schedule does. The only national U.S. game in November is Nov. 20 at Detroit on Prime Video, six days away."
 sources:
   - title: "2026-27 NBA Regular Season Schedule (by date), as of Aug. 13, 2026"
     url: "https://pr.nba.com/wp-content/uploads/sites/46/2026/08/2026-27-NBA-Regular-Season-Schedule-By-Date.pdf"
     publisher: "NBA Communications"
-    date: "2026-08-13"
+    date: "2026-11-14"
   - title: "2026 NBA Cup group play schedule announced"
     url: "https://www.nba.com/news/2026-nba-cup-group-play-schedule-announced"
     publisher: "NBA.com"
@@ -89,30 +82,22 @@ related: [lakers-schedule-november-2026-game-times-tv-nba-cup-printable, nba-cup
 downloads:
   - group: "Raptors Schedule printables"
     title: "Raptors Schedule, November 2026"
-    description: "Raptors games from Nov. 1 through Dec. 3, 2026, with Eastern Time start times, national TV and NBA Cup games, from the NBA's August schedule."
+    description: "Raptors games from Nov. 15 through Dec. 3, 2026, with Eastern Time start times, national TV and NBA Cup games, from the NBA's August schedule."
     preview: ../../../../assets/news/raptors-schedule-2026/raptors-schedule-november-2026.png
-    alt: "Printable Raptors schedule for November 2026 listing 16 games with Eastern Time start times"
+    alt: "Printable Raptors schedule listing nine games from Nov. 15 to Dec. 3, 2026 with Eastern Time start times"
     pdf: "/news/downloads/raptors-schedule-2026/raptors-schedule-november-2026.pdf"
     png: "/news/downloads/raptors-schedule-2026/raptors-schedule-november-2026.png"
-    pages: 1
-  - group: "Raptors Schedule printables"
-    title: "Raptors Schedule, November 2026 (ink saver)"
-    description: "Raptors games from Nov. 1 through Dec. 3, 2026, with Eastern Time start times, national TV and NBA Cup games, from the NBA's August schedule. Ink-saver version."
-    preview: ../../../../assets/news/raptors-schedule-2026/raptors-schedule-november-2026-ink.png
-    alt: "Printable Raptors schedule for November 2026 listing 16 games with Eastern Time start times, ink-saver version"
-    pdf: "/news/downloads/raptors-schedule-2026/raptors-schedule-november-2026-ink.pdf"
-    png: "/news/downloads/raptors-schedule-2026/raptors-schedule-november-2026-ink.png"
     pages: 1
 draft: false
 ---
 
-**The Toronto Raptors play at the LA Clippers on Monday, Nov. 2, 2026, at 7 p.m. Pacific Time (PT), which is 10 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule.**
+**The Toronto Raptors' next game is Sunday, Nov. 15, 2026, at home against the New York Knicks at 6 p.m. Eastern Time (ET), which is 3 p.m. Pacific Time (PT), according to the National Basketball Association (NBA) schedule.**
 
 The NBA's 2026-27 regular season schedule PDF, dated Aug. 13, 2026 and marked "subject to change," lists 14 Raptors games in November. Toronto is on Eastern Time, and Canada and the U.S. ended daylight saving time on Nov. 1, so every time below is standard time. The table adds a Pacific column (ET minus 3 hours) and the local time the NBA prints for road games.
 
 ## Raptors games in November 2026, by date
 
-Weekdays are our own calculation. The two December rows are the first games after the month ends.
+Games through Nov. 12 have been played; the table keeps them for the full month. Weekdays are our own calculation. The two December rows are the first games after the month ends.
 
 | Date | Game | ET | PT | Local time on the NBA list | Cup |
 |---|---|---|---|---|---|
@@ -149,6 +134,6 @@ Our [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockou
 
 ## Is there a printable Raptors schedule for November 2026?
 
-Yes. The one-page sheet lists every November game plus Dec. 1 and Dec. 3, with the opponent, the ET start time and Cup or Prime Video flags, and it has an ink-saver version. Keep it next to the [November 2026 printable calendar](/november-calendars.html), and use the [December 2026 printable calendar](/december-calendars.html) for the Dec. 1 and Dec. 3 games.
+Yes. The one-page sheet lists the games from Nov. 15 through Dec. 3, with the opponent, the ET start time and Cup or Prime Video flags. Keep it next to the [November 2026 printable calendar](/november-calendars.html), and use the [December 2026 printable calendar](/december-calendars.html) for the Dec. 1 and Dec. 3 games.
 
-The Raptors open November with four straight road games, from the Lakers on Nov. 1 to Milwaukee on Nov. 6. Check NBA.com for the latest tip-off time before heading out.
+The Raptors opened November with four straight road games, from the Lakers on Nov. 1 to Milwaukee on Nov. 6. Check NBA.com for the latest tip-off time before heading out.

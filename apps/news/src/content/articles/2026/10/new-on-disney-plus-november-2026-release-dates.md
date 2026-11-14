@@ -3,7 +3,7 @@ title: "New on Disney+ November 2026: Percy Jackson Season 3 on Nov. 20"
 description: "Disney+ Press lists Percy Jackson and the Olympians season 3 for Fri., Nov. 20, 2026, with a two-episode premiere. First titles arrived Nov. 4."
 type: news
 publishedAt: "2026-10-25T23:18:00-04:00"
-updatedAt: "2026-11-11T05:30:00-05:00"
+updatedAt: "2026-11-14T15:45:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Disney+ November 2026", "Disney Plus November 2026", "Percy Jackson season 3 release date", "Disney+ November 2026 release dates"]
@@ -119,11 +119,9 @@ draft: false
 
 **Disney+ Press, in its Oct. 15, 2026 list "Next on Disney+ and Hulu: November 2026," puts the two-episode premiere of "Percy Jackson and the Olympians" season 3 on Friday, Nov. 20, and the month's first Disney+ titles on Wednesday, Nov. 4.** Every Disney+ date by week. A free printable follows.
 
-<p class="callout"><b>Checked Nov. 11, 2026.</b> The dates come from Disney+ Press. Titles can change, so confirm on Disney+ before you plan a watch night.</p>
-
 ## What is new on Disney+ in November 2026?
 
-The Disney+ Press page tags each item Disney+, Hulu, or Disney+ and Hulu. This table keeps the items marked for Disney+. The page is U.S.-facing, and this story does not cover other countries. One entry is the Country Music Association (CMA) Awards, and another carries "F1" in its title; both are explained below the table.
+The Disney+ Press page tags each item Disney+, Hulu, or Disney+ and Hulu. This table keeps the items marked for Disney+. The page is U.S.-facing, and this story does not cover other countries. Titles dated before Saturday, Nov. 14 have already streamed, and dates can change, so confirm on Disney+ before you plan a watch night. One entry is the Country Music Association (CMA) Awards, and another carries "F1" in its title; both are explained below the table.
 
 | Week | Day and date | Title | Notes |
 |---|---|---|---|
