@@ -79,38 +79,29 @@ assets:
   date: "2026-11-14"
   card: { top: "UFC 334 main card", big: "9 p.m. ET", bottom: "6 p.m. PT · 2 a.m. UK Sun. · Paramount+" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: ufc-fight-night-schedule-nov-dec-2026
     group: ufc-nov-dec-2026
-    title: "UFC Fight Night Schedule, Nov. 7 to Dec. 12, 2026"
+    title: "UFC Fight Night Schedule, Nov. 14 to Dec. 12, 2026"
     subtitle: "Main card times in ET and PT, as listed by Paramount+ and UFC"
     columns: ["Event", "Main card time"]
     layout: list
     rows:
-      - ["Sat., Nov. 7 · Fight Night, Las Vegas", "Paramount+: 5 p.m. ET · 2 p.m. PT. UFC page: 8 p.m. ET · 5 p.m. PT"]
       - ["Sat., Nov. 14 · UFC 334, Madison Square Garden", "9 p.m. ET · 6 p.m. PT (prelims 7 p.m. ET, early prelims 5 p.m. ET)"]
       - ["Sat., Nov. 21 · Fight Night, Doha", "Paramount+: 5 p.m. ET · 2 p.m. PT. UFC page: 1 p.m. ET · 10 a.m. PT"]
       - ["Sat., Dec. 12 · UFC 335, T-Mobile Arena, Las Vegas", "9 p.m. ET · 6 p.m. PT (prelims 7 p.m. ET, early prelims 5 p.m. ET)"]
-      - ["Before each fight night", "Check the times again: the two sources differ on Nov. 7 and Nov. 21"]
-    note: "Source: Paramount+, UFC schedule 2026 (updated Oct. 30, 2026); UFC event pages (checked Nov. 1, 2026). Cards, dates and times are subject to change."
-    inkSaver: true
-    description: "A one-page sheet with the UFC main card times in ET and PT for Nov. 7, Nov. 14, Nov. 21 and Dec. 12, 2026, with both listed times where sources differ."
-    alt: "UFC fight night schedule for Nov. 7 to Dec. 12, 2026 with main card times in Eastern and Pacific time"
+      - ["Before each fight night", "Check the times again: the two sources differ on Nov. 21"]
+    note: "Source: Paramount+, UFC schedule 2026 (updated Nov. 9, 2026); UFC event pages (read Nov. 1, 2026). Cards, dates and times are subject to change."
+    description: "A one-page sheet with the UFC main card times in ET and PT for Nov. 14, Nov. 21 and Dec. 12, 2026, with both listed times where sources differ."
+    alt: "UFC fight night schedule for Nov. 14 to Dec. 12, 2026 with main card times in Eastern and Pacific time"
 downloads:
   - group: "UFC Fight Night Schedule printables"
-    title: "UFC Fight Night Schedule, Nov. 7 to Dec. 12, 2026"
-    description: "A one-page sheet with the UFC main card times in ET and PT for Nov. 7, Nov. 14, Nov. 21 and Dec. 12, 2026, with both listed times where sources differ."
+    title: "UFC Fight Night Schedule, Nov. 14 to Dec. 12, 2026"
+    description: "A one-page sheet with the UFC main card times in ET and PT for Nov. 14, Nov. 21 and Dec. 12, 2026, with both listed times where sources differ."
     preview: ../../../../assets/news/ufc-nov-dec-2026/ufc-fight-night-schedule-nov-dec-2026.png
-    alt: "UFC fight night schedule for Nov. 7 to Dec. 12, 2026 with main card times in Eastern and Pacific time"
+    alt: "UFC fight night schedule for Nov. 14 to Dec. 12, 2026 with main card times in Eastern and Pacific time"
     pdf: "/news/downloads/ufc-nov-dec-2026/ufc-fight-night-schedule-nov-dec-2026.pdf"
     png: "/news/downloads/ufc-nov-dec-2026/ufc-fight-night-schedule-nov-dec-2026.png"
-    pages: 1
-  - group: "UFC Fight Night Schedule printables"
-    title: "UFC Fight Night Schedule, Nov. 7 to Dec. 12, 2026 (ink saver)"
-    description: "A one-page sheet with the UFC main card times in ET and PT for Nov. 7, Nov. 14, Nov. 21 and Dec. 12, 2026, with both listed times where sources differ. Ink-saver version."
-    preview: ../../../../assets/news/ufc-nov-dec-2026/ufc-fight-night-schedule-nov-dec-2026-ink.png
-    alt: "UFC fight night schedule for Nov. 7 to Dec. 12, 2026 with main card times in Eastern and Pacific time, ink-saver version"
-    pdf: "/news/downloads/ufc-nov-dec-2026/ufc-fight-night-schedule-nov-dec-2026-ink.pdf"
-    png: "/news/downloads/ufc-nov-dec-2026/ufc-fight-night-schedule-nov-dec-2026-ink.png"
     pages: 1
 draft: false
 ---
@@ -156,4 +147,4 @@ In the United States, Paramount+ lists UFC 334, the Nov. 21 card and UFC 335 as 
 
 ## Free UFC fight night schedule for November and December 2026
 
-Our one-page printable lists the four events, their main card times in ET and PT, both listed times where the sources differ, and a reminder to check again before fight night. Keep it beside the [November 2026 printable calendar](/november-calendars.html).
+Our one-page printable lists the three upcoming events, their main card times in ET and PT, both listed times where the sources differ, and a reminder to check again before fight night. Keep it beside the [November 2026 printable calendar](/november-calendars.html).

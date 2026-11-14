@@ -10,20 +10,18 @@ keywords: ["target black friday 2026", "target early black friday sale 2026", "t
 dateline: "Minneapolis"
 assets:
   overlay: true
-  kicker: "Target Black Friday 2026 · Nov. 5-7"
-  date: "2026-11-05"
-  card: { top: "Early Black Friday deals", big: "Nov. 5-7", bottom: "Price match to Dec. 24" }
+  kicker: "Target Black Friday 2026 · Nov. 27"
+  date: "2026-11-27"
+  card: { top: "Stores open at 6 a.m.", big: "Fri., Nov. 27", bottom: "Price match to Dec. 24" }
   printable:
     slug: target-holiday-deals-calendar-2026
     group: black-friday-2026
     title: "Target Holiday Deals Calendar 2026"
-    subtitle: "Deal of the Day, Early Black Friday and price match dates, Nov. 1 to Jan. 24, 2027"
+    subtitle: "Deal of the Day, store hours, price match and return dates, Nov. 1 to Jan. 24, 2027"
     noKit: "Fact sheet gave no per-date source quotes or printable data block for a kit; list layout kept."
     layout: list
     rows:
       - ["Sun., Nov. 1", "Deal of the Day starts (new deal every day through Dec. 24); Holiday Price Match starts"]
-      - ["Thu., Nov. 5", "Early Black Friday deals begin"]
-      - ["Sat., Nov. 7", "Early Black Friday deals end"]
       - ["Thu., Nov. 26", "Thanksgiving Day: all Target stores closed"]
       - ["Fri., Nov. 27", "Black Friday: stores open at 6 a.m. local time, close at current closing time"]
       - ["Sun., Nov. 29", "Extended store hours begin (through Dec. 23; vary by location)"]
@@ -34,12 +32,12 @@ assets:
       - ["Fri., Jan. 8, 2027", "Apple, Beats and mobile phone returns due"]
       - ["Sun., Jan. 24, 2027", "Electronics, entertainment and most Target Plus returns due"]
     note: "Source: Target press release, Oct. 21, 2026, Target Help FAQs and Target holiday shopping fact sheet, Nov. 5, 2026. Tip: keep your receipt and request a price match on or before Dec. 24."
-    description: "One-page Target holiday deals calendar for 2026: Early Black Friday Nov. 5-7, Deal of the Day, price match to Dec. 24, holiday store hours and return dates."
+    description: "One-page Target holiday deals calendar for 2026: Deal of the Day, price match to Dec. 24, Black Friday and holiday store hours, and return dates."
     alt: "Printable list of Target holiday deal and price match dates for 2026"
 hero:
   src: ../../../../assets/news/target-black-friday-2026-early-sale-november-5-7-price-match-dates/target-black-friday-2026-early-sale-november-5-7-price-match-dates.webp
   alt: "Target store with red bullseye signs at Georgia Avenue and Eastern Avenue in Washington, D.C., for Target Black Friday 2026 dates"
-  caption: "File photo: a Target store in Washington, D.C. Target says its Early Black Friday deals run Nov. 5-7, 2026."
+  caption: "File photo: a Target store in Washington, D.C. Target says its stores open at 6 a.m. local time on Black Friday, Nov. 27, 2026."
   credit: "Photo: Farragutful / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -94,7 +92,7 @@ related: [black-friday-2026-ad-tracker-walmart-target-best-buy, walmart-black-fr
 downloads:
   - group: "Target Holiday Deals Calendar 2026 printables"
     title: "Target Holiday Deals Calendar 2026"
-    description: "One-page Target holiday deals calendar for 2026: Early Black Friday Nov. 5-7, Deal of the Day, price match to Dec. 24, holiday store hours and return dates."
+    description: "One-page Target holiday deals calendar for 2026: Deal of the Day, price match to Dec. 24, Black Friday and holiday store hours, and return dates."
     preview: ../../../../assets/news/black-friday-2026/target-holiday-deals-calendar-2026.png
     alt: "Printable list of Target holiday deal and price match dates for 2026"
     pdf: "/news/downloads/black-friday-2026/target-holiday-deals-calendar-2026.pdf"
@@ -165,4 +163,4 @@ Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-ta
 
 ## Print the Target holiday deals calendar 2026
 
-The one-page printable lists the Nov. 1 start, the Nov. 5-7 sale, the holiday store hours, the price match deadline, the extended return dates and the dates Target has not announced, with weekdays.
+The one-page printable lists the Nov. 1 start, the holiday store hours, the price match deadline, the extended return dates and the dates Target has not announced, with weekdays.

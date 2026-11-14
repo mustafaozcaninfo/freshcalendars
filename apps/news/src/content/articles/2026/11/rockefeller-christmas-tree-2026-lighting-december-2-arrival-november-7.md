@@ -12,26 +12,19 @@ assets:
   overlay: true
   kicker: "Rockefeller Center · Tree Lighting 2026"
   date: "2026-12-02"
-  card: { top: "Tree Lighting Ceremony", big: "Wed., Dec. 2", bottom: "7 to 10 p.m. ET; tree arrives Nov. 7" }
+  card: { top: "Tree Lighting Ceremony", big: "Wed., Dec. 2", bottom: "7 to 10 p.m. ET · 76-foot spruce" }
   printable:
     kit: watch-guide
     slug: rockefeller-tree-lighting-2026-watch-guide
     group: rockefeller-tree-2026
     title: "Rockefeller Tree Lighting 2026 Watch Guide"
-    subtitle: "Meet the Tree Day and the Dec. 2 lighting in four U.S. time zones"
+    subtitle: "The Dec. 2 lighting in four U.S. time zones"
     note: "Source: Rockefeller Center, 2026 Christmas Tree and Tree Lighting pages. The ceremony is not open to the public; the lighting airs on NBC's Christmas in Rockefeller Center broadcast."
-    description: "A one-page guide to the 2026 Rockefeller Center tree events: Meet the Tree Day on Nov. 7 and the Dec. 2 lighting, with the start time in Eastern, Central, Mountain and Pacific time."
-    alt: "Printable watch guide for the 2026 Rockefeller Center tree: Meet the Tree Day Nov. 7 and the lighting Wednesday, Dec. 2, 7 to 10 p.m. ET"
+    description: "A one-page guide to the Dec. 2, 2026 Rockefeller Center tree lighting, with the start time in Eastern, Central, Mountain and Pacific time."
+    alt: "Printable watch guide for the 2026 Rockefeller Center tree lighting on Wednesday, Dec. 2, 7 to 10 p.m. ET"
     data:
       pick: "My plan"
       events:
-        - start: "2026-11-07T10:00-05:00"
-          title: "Meet the Tree Day"
-          detail: "Tree arrives; Holiday Workshop, free"
-          src: "https://www.rockefellercenter.com/magazine/events/the-virtual-lighting-before-christmas/"
-          quote:
-            - "On Saturday, November 7, the Rockefeller Center Christmas Tree arrives in New York City"
-            - "From 10 AM–1 PM, the Holiday Workshop"
         - start: "2026-12-02T19:00-05:00"
           title: "Tree Lighting Ceremony"
           detail: "Lit near the end of the broadcast"
@@ -104,9 +97,9 @@ related: [nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, ice-skating-r
 downloads:
   - group: "Rockefeller Tree Lighting 2026 Watch Guide printables"
     title: "Rockefeller Tree Lighting 2026 Watch Guide"
-    description: "A one-page guide to the 2026 Rockefeller Center tree events: Meet the Tree Day on Nov. 7 and the Dec. 2 lighting, with the start time in Eastern, Central, Mountain and Pacific time."
+    description: "A one-page guide to the Dec. 2, 2026 Rockefeller Center tree lighting, with the start time in Eastern, Central, Mountain and Pacific time."
     preview: ../../../../assets/news/rockefeller-tree-2026/rockefeller-tree-lighting-2026-watch-guide.png
-    alt: "Printable watch guide for the 2026 Rockefeller Center tree: Meet the Tree Day Nov. 7 and the lighting Wednesday, Dec. 2, 7 to 10 p.m. ET"
+    alt: "Printable watch guide for the 2026 Rockefeller Center tree lighting on Wednesday, Dec. 2, 7 to 10 p.m. ET"
     pdf: "/news/downloads/rockefeller-tree-2026/rockefeller-tree-lighting-2026-watch-guide.pdf"
     png: "/news/downloads/rockefeller-tree-2026/rockefeller-tree-lighting-2026-watch-guide.png"
     pages: 1

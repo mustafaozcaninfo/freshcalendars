@@ -3,7 +3,7 @@ title: "Native American Heritage Day 2026: Friday, Nov. 27, and Month Dates"
 description: "Native American Heritage Day 2026 is Friday, Nov. 27. Month runs Nov. 1-30; Public Law 111-33 only encourages the day and no federal holiday is listed."
 type: explainer
 publishedAt: "2026-10-28T11:44:00-04:00"
-updatedAt: "2026-11-05T03:22:47-05:00"
+updatedAt: "2026-11-14T01:30:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["native american heritage day 2026", "native american heritage month 2026", "is native american heritage day a federal holiday", "day after thanksgiving holiday 2026"]
@@ -26,6 +26,7 @@ assets:
       - ["Mon., Nov. 30", "Last day of the month"]
     note: "Source: U.S. Government Publishing Office (GPO) govinfo, Public Law 111-33; U.S. Office of Personnel Management (OPM), federal holidays; Washington State Legislature, RCW 1.16.050. Weekdays computed."
     inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "A one-page November 2026 calendar marking Native American Heritage Month, Native American Heritage Day on Nov. 27 and the federal holidays in the month."
     alt: "Native American Heritage Month calendar for November 2026 printable"
 hero:
@@ -42,7 +43,7 @@ summary:
   - "Native American Heritage Day 2026 is Friday, Nov. 27, the Friday after Thanksgiving Day on Thursday, Nov. 26."
   - "Public Law 111-33 (2009) only encourages observance; the Office of Personnel Management (OPM) does not list the day as a federal holiday."
   - "Washington state law lists the Friday after the fourth Thursday in November as a legal holiday named Native American Heritage Day."
-  - "Native American Heritage Month runs from Sunday, Nov. 1 to Monday, Nov. 30, 2026; no 2026 presidential message has been announced."
+  - "Native American Heritage Month runs from Sunday, Nov. 1 to Monday, Nov. 30, 2026; as of Nov. 14 no 2026 presidential message has been published."
 faq:
   - q: "Is Native American Heritage Day a federal holiday?"
     a: "No. The Office of Personnel Management (OPM) 2026 federal holiday list does not include it. Public Law 111-33 encourages observance and does not create a paid federal holiday."
@@ -58,6 +59,7 @@ sources:
   - title: "Federal holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management (OPM)"
+    date: "2026-11-14"
   - title: "RCW 1.16.050, Legal holidays"
     url: "https://app.leg.wa.gov/RCW/default.aspx?cite=1.16.050"
     publisher: "Washington State Legislature"
@@ -68,6 +70,11 @@ sources:
   - title: "National Native American Heritage Month"
     url: "https://nativeamericanheritagemonth.gov/"
     publisher: "Library of Congress and partners"
+    date: "2026-11-14"
+  - title: "Presidential Actions"
+    url: "https://www.whitehouse.gov/presidential-actions/"
+    publisher: "The White House"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -140,9 +147,9 @@ November 1, 2026, is a Sunday, so the month runs from Sunday, Nov. 1 to Monday, 
 
 ## Has a 2026 proclamation been announced?
 
-Not yet announced. In 2025, the White House issued a "Message on National Native American Heritage Month" dated Nov. 4, 2025, according to The American Presidency Project. As of Oct. 23, 2026, the presidential actions page on whitehouse.gov showed no 2026 proclamation or message.
+Not yet announced. In 2025, the White House issued a "Message on National Native American Heritage Month" dated Nov. 4, 2025, according to The American Presidency Project. As of Nov. 14, 2026, the presidential actions page on whitehouse.gov listed items through Nov. 12, and none was a 2026 Native American Heritage Month proclamation or message.
 
-The official hub, [nativeamericanheritagemonth.gov](https://nativeamericanheritagemonth.gov/), is hosted by the Library of Congress with partners. As of Oct. 28 it still shows the 2025 page. Programs at the Smithsonian National Museum of the American Indian (NMAI) for November 2026 are not confirmed here; check americanindian.si.edu.
+The official hub, [nativeamericanheritagemonth.gov](https://nativeamericanheritagemonth.gov/), is hosted by the Library of Congress with partners. As of Nov. 14 it still shows the 2025 page. Programs at the Smithsonian National Museum of the American Indian (NMAI) for November 2026 are not confirmed here; the museum's site returned a service error when we checked on Nov. 14, so check americanindian.si.edu.
 
 ## What else is on the calendar in November 2026?
 

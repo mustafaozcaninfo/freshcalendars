@@ -19,18 +19,18 @@ assets:
     title: "Thanksgiving 2026 TV Schedule, Nov. 25-27"
     subtitle: "Parades and NFL games, Eastern Time unless noted"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     columns: ["When", "What and where to watch"]
     rows:
       - ["Wed., Nov. 25, 8 p.m.", "Packers at Rams, first NFL Thanksgiving Eve game, U2 halftime · Netflix"]
-      - ["Thu., Nov. 26, 8:30 a.m.", "100th Macy's Thanksgiving Day Parade, 8:30 a.m. in every time zone · NBC, Peacock, Telemundo"]
+      - ["Thu., Nov. 26, 8:30 a.m.", "100th Macy's Thanksgiving Day Parade, 8:30 a.m. in every time zone, hosts Guthrie, Kotb and Roker · NBC, Peacock, Telemundo"]
       - ["Thu., Nov. 26, 8:45 a.m.", "America's Thanksgiving Parade steps off in Detroit, its 100th parade"]
       - ["Thu., Nov. 26, 1 p.m.", "Bears at Lions · CBS, Paramount+, NFL+"]
       - ["Thu., Nov. 26, 4:30 p.m.", "Eagles at Cowboys · FOX, FOX One, NFL+"]
       - ["Thu., Nov. 26, 8:20 p.m.", "Chiefs at Bills · NBC, Peacock, NFL+"]
       - ["Fri., Nov. 27, 3 p.m.", "Broncos at Steelers, Black Friday game · Prime Video"]
-    note: "Source: NFL.com 2026 schedule release; Macy's, Inc., 100-day countdown release (Aug. 18, 2026); Michigan Department of Military and Veterans Affairs events listing. Check local listings for regional channels."
+    note: "Source: NFL.com 2026 schedule release; Macy's, Inc., 100-day countdown release (Aug. 18, 2026); NBCUniversal parade release (Nov. 13, 2026); Michigan Department of Military and Veterans Affairs events listing. Check local listings for regional channels."
     notesLabel: "Who is hosting, who is cooking"
-    inkSaver: true
     description: "Every Thanksgiving week 2026 broadcast on one page: the 100th Macy's parade, the Detroit parade and all five NFL games, with channels."
     alt: "Thanksgiving 2026 TV schedule printable listing the Macy's parade and five NFL games from Nov. 25 to Nov. 27 with times and channels"
 hero:
@@ -100,14 +100,6 @@ downloads:
     alt: "Thanksgiving 2026 TV schedule printable listing the Macy's parade and five NFL games from Nov. 25 to Nov. 27 with times and channels"
     pdf: "/news/downloads/thanksgiving-2026/thanksgiving-2026-tv-schedule.pdf"
     png: "/news/downloads/thanksgiving-2026/thanksgiving-2026-tv-schedule.png"
-    pages: 1
-  - group: "Thanksgiving 2026 TV Schedule printables"
-    title: "Thanksgiving 2026 TV Schedule, Nov. 25-27 (ink saver)"
-    description: "Every Thanksgiving week 2026 broadcast on one page: the 100th Macy's parade, the Detroit parade and all five NFL games, with channels. Ink-saver version."
-    preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-2026-tv-schedule-ink.png
-    alt: "Thanksgiving 2026 TV schedule printable listing the Macy's parade and five NFL games from Nov. 25 to Nov. 27 with times and channels, ink-saver version"
-    pdf: "/news/downloads/thanksgiving-2026/thanksgiving-2026-tv-schedule-ink.pdf"
-    png: "/news/downloads/thanksgiving-2026/thanksgiving-2026-tv-schedule-ink.png"
     pages: 1
 draft: false
 ---

@@ -20,6 +20,7 @@ assets:
     title: "CBS Holiday Specials 2026 TV Schedule"
     subtitle: "All 11 specials, Nov. 14 to Dec. 31, 2026, times in Eastern Time (ET)"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Sat., Nov. 14", "8 p.m. ET: Nickelodeon Kids' Choice Awards (5 p.m. PT)"]
       - ["Mon., Nov. 23", "8 p.m. ET: Pillsbury Bake-Off Classic"]

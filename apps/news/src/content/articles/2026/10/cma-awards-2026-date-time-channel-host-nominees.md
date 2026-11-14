@@ -31,6 +31,7 @@ assets:
       - ["Channel", "ABC (American Broadcasting Company)"]
       - ["Stream", "Live on Disney+; next day on Hulu"]
       - ["Host", "Lainey Wilson"]
+      - ["Also announced", "Taylor Swift performs; Brooks & Dunn get the Willie Nelson Lifetime Achievement Award"]
       - ["Venue", "Bridgestone Arena, Nashville"]
       - ["Entertainer of the Year pick", "____________________"]
       - ["Album of the Year pick", "____________________"]

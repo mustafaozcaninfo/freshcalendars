@@ -3,7 +3,7 @@ title: "Hyde Park Winter Wonderland 2026: Nov. 19 to Jan. 3, Opening Times"
 description: "Hyde Park Winter Wonderland 2026 opens Thursday, Nov. 19 and runs to Sunday, Jan. 3, 2027, closed Dec. 25. Day-by-day opening times and ticket slots."
 type: news
 publishedAt: "2026-10-27T21:42:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T01:14:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Winter Wonderland 2026 dates", "Hyde Park Winter Wonderland opening times", "when does Winter Wonderland open 2026", "Winter Wonderland tickets 2026"]
@@ -21,7 +21,7 @@ hero:
 summary:
   - "Hyde Park Winter Wonderland 2026 is open every day from Thursday, Nov. 19, 2026 to Sunday, Jan. 3, 2027, apart from Christmas Day, according to its official website."
   - "It opens at 10 a.m. unless a date is listed with a later start; every evening it is open until 10 p.m. London time."
-  - "Entry tickets are sold in one-hour slots, and Off-Peak slots are free to enter, but you must still book a ticket."
+  - "Entry tickets are sold in one-hour slots and are on sale now. The Tickets Guide lists entry at £1.00 Off-Peak, £5.50 Standard and £8.25 Peak."
   - "The 2026 run starts 5 days later than the 2025 run (Nov. 14) and ends 2 days later (Jan. 1, 2026 close), by our calculation from The Royal Parks."
 faq:
   - q: "When does Winter Wonderland open in 2026?"
@@ -31,30 +31,30 @@ faq:
   - q: "What time does Hyde Park Winter Wonderland close?"
     a: "The official Getting Here page says it is open until 10 p.m. every evening. Entry tickets are sold for slots from 10 a.m. to 8 p.m., with last entry at 9:30 p.m."
   - q: "Is Winter Wonderland free to enter?"
-    a: "Off-Peak time slots are always free to enter, but you must still book an entry ticket, says the Tickets Guide. Spending £25 in one transaction when pre-booking also gives free entry."
+    a: "The Tickets Guide lists Off-Peak entry at £1.00 and says Off-Peak slots are \"always free to enter (you must still book an entry ticket).\" Standard is £5.50 and Peak is £8.25. Spending £25 in one transaction when pre-booking also unlocks free entry."
   - q: "Can you still get Preview Night tickets?"
     a: "Preview Night is on Wednesday, Nov. 18, and The Royal Parks lists its tickets as sold out."
 sources:
   - title: "Getting Here – Winter Wonderland"
     url: "https://hydeparkwinterwonderland.com/getting-here/"
     publisher: "Hyde Park Winter Wonderland"
-    date: "2026-10-27"
+    date: "2026-11-14"
   - title: "Tickets Guide – Winter Wonderland"
     url: "https://hydeparkwinterwonderland.com/tickets-guide/"
     publisher: "Hyde Park Winter Wonderland"
-    date: "2026-10-27"
+    date: "2026-11-14"
   - title: "Magical Ice Kingdom presents Neverland"
     url: "https://hydeparkwinterwonderland.com/attraction/magical-ice-kingdom/"
     publisher: "Hyde Park Winter Wonderland"
-    date: "2026-10-27"
+    date: "2026-11-14"
   - title: "Hyde Park Winter Wonderland"
     url: "https://hydeparkwinterwonderland.com/"
     publisher: "Hyde Park Winter Wonderland"
-    date: "2026-10-27"
+    date: "2026-11-14"
   - title: "Hyde Park Winter Wonderland | The Royal Parks"
     url: "https://www.royalparks.org.uk/whats-on/hyde-park-winter-wonderland-0"
     publisher: "The Royal Parks"
-    date: "2026-10-27"
+    date: "2026-11-14"
   - title: "Hyde Park Winter Wonderland Preview Night"
     url: "https://www.royalparks.org.uk/whats-on/hyde-park-winter-wonderland-preview-night"
     publisher: "The Royal Parks"
@@ -99,6 +99,7 @@ assets:
     subtitle: "Nov. 19, 2026 to Jan. 3, 2027, London time (GMT), open until 10 p.m."
     layout: list
     inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Thu., Nov. 19 to Fri., Nov. 20", "Opens 12 p.m."]
       - ["Sat., Nov. 21 to Sun., Nov. 22", "Opens 10 a.m."]
@@ -171,13 +172,15 @@ The weekdays are our calculation from the listed dates. The 10 a.m. rows are dat
 
 ## How do Winter Wonderland tickets work?
 
-The Tickets Guide describes entry tickets in one-hour slots from 10 a.m. to 8 p.m., with last entry at 9:30 p.m. Slots come in three types: Off-Peak, Standard (gold) and Peak (orange). The guide says Peak slots are "mostly later in the day and over weekends." We did not find a list of 2026 Peak dates.
+The Tickets Guide describes entry tickets in one-hour slots from 10 a.m. to 8 p.m., with last entry at 9:30 p.m. Slots come in three types: Off-Peak (green), Standard (gold) and Peak (orange). The guide says Peak slots are "mostly later in the day and over weekends." We did not find a list of 2026 Peak dates.
 
-- **Off-Peak:** "always free to enter (you must still book an entry ticket)," the Tickets Guide says.
+- **Off-Peak (green slots):** listed at £1.00. The Tickets Guide also says these slots are "always free to enter (you must still book an entry ticket)." The home page says Off-Peak entry is £1 every Monday to Thursday throughout November.
+- **Standard (gold slots):** £5.50.
+- **Peak (orange slots):** £8.25, mostly later in the day and at weekends.
 - **Free entry with spend:** spending £25 in one transaction when pre-booking gives free entry.
 - **Advance prices:** available until 23:59 the day before the visit.
 
-A standard entry price is not given clearly enough on the page to quote, and a ticket on-sale date was not stated when we checked on Oct. 27, 2026. We have not found 2025 prices either.
+Tickets are on sale now, according to the Tickets Guide, and are sold through its authorised partner, SeeTickets. Booking fees are included in the prices shown. We have not found 2025 prices to compare.
 
 ## What do attractions cost?
 

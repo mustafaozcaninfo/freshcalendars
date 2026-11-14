@@ -3,7 +3,7 @@ title: "California Polls Close Time 2026: 8 p.m. PT, Count to Dec. 3"
 description: "California polls closed at 8 p.m. Pacific Time (PT), 11 p.m. ET, Nov. 3, 2026. Where results post, a day-by-day count timeline and the Dec. 3 deadline."
 type: explainer
 publishedAt: "2026-11-02T13:14:00-05:00"
-updatedAt: "2026-11-05T07:45:00-05:00"
+updatedAt: "2026-11-14T01:17:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["california election results 2026", "california election night results", "when do california polls close", "california vote count timeline", "california unprocessed ballots report"]
@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends.webp
   alt: "California election results 2026: the dome of the California State Capitol in Sacramento against a deep blue sky, beside a card reading polls close 8 p.m. PT"
   title: "California election results, Nov. 3, 2026"
-  caption: "The California State Capitol in Sacramento. California polls close at 8 p.m. Pacific Time on Nov. 3, 2026, and counties have 30 days to finish counting."
+  caption: "The California State Capitol in Sacramento. California polls closed at 8 p.m. Pacific Time on Nov. 3, 2026, and counties have 30 days to finish counting."
   credit: "Photo: Photograph: Radomianin / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -20,13 +20,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:California_State_Capitol_(top),_NW_view_up.jpg"
     author: "Radomianin"
 summary:
-  - "California polls close at 8 p.m. Pacific Time (PT) on Tuesday, Nov. 3, 2026, which is 11 p.m. Eastern Time (ET). The Secretary of State's results site begins posting results after 8 p.m."
-  - "The first results posted are typically ballots received before Election Day, and election-night totals are semi-official. Counties have until Thu., Dec. 3 to finish the canvass."
-  - "A mailed ballot postmarked by Nov. 3 counts if it arrives by Tue., Nov. 10, and a voter with a signature problem has until 5 p.m. on Wed., Nov. 25 to fix it."
+  - "California polls closed at 8 p.m. Pacific Time (PT) on Tuesday, Nov. 3, 2026, which is 11 p.m. Eastern Time (ET). The Secretary of State's results site began posting results after 8 p.m."
+  - "On Nov. 5 the Secretary of State said counties had counted 8,906,017 ballots and estimated 4,816,722 still to process. Counties have until Thu., Dec. 3 to finish the canvass."
+  - "A mailed ballot postmarked by Nov. 3 counted if it arrived by Tue., Nov. 10, and a voter with a signature problem has until 5 p.m. on Wed., Nov. 25 to fix it."
   - "The Secretary of State must certify the statewide vote by Fri., Dec. 11, according to the state's official election calendar."
 faq:
   - q: "What time do California polls close on Nov. 3, 2026?"
-    a: "At 8 p.m. Pacific Time (PT), which is 11 p.m. Eastern Time (ET). Polls open at 7 a.m."
+    a: "At 8 p.m. Pacific Time (PT), which is 11 p.m. Eastern Time (ET). Polls opened at 7 a.m. and have closed for this election."
   - q: "Where can I see California election results?"
     a: "On the California Secretary of State's Election Results website, electionresults.sos.ca.gov. The Secretary of State says results are available beginning after the polls close at 8:00 p.m. and are updated each day throughout the canvass."
   - q: "Why does California take weeks to count the vote?"
@@ -36,7 +36,7 @@ faq:
   - q: "Can I still fix a ballot signature problem after Election Day?"
     a: "Yes. A voter whose mail ballot signature did not match, or who forgot to sign, can submit a statement until 5 p.m. on Wed., Nov. 25, 2026. Counties must send the notices by Tue., Nov. 17."
   - q: "Can I register to vote on Election Day in California?"
-    a: "Yes. Conditional voter registration lets a person register and vote a provisional ballot at a county elections office, vote center or polling place until 8 p.m. on Nov. 3."
+    a: "Yes, in California conditional voter registration lets a person register and vote a provisional ballot at a county elections office, vote center or polling place until 8 p.m. on Election Day. For this election that deadline, 8 p.m. on Nov. 3, has passed."
   - q: "Can I ask for a recount in California?"
     a: "A voter may file a recount request within five days beginning on the 31st day after a statewide election, which is Fri., Dec. 4 to Tue., Dec. 8 this year, and must pay the county's cost for each day of the recount."
 sources:
@@ -46,6 +46,11 @@ sources:
   - title: "Official Canvass: Vote Counting Process"
     url: "https://www.sos.ca.gov/elections/upcoming-elections/vote-counting-process"
     publisher: "California Secretary of State"
+    date: "2026-11-14"
+  - title: "The Office of the California Secretary of State Issues Unprocessed Ballot Report"
+    url: "https://www.sos.ca.gov/administration/news-releases-and-advisories/2026-news-releases-and-advisories/office-california-secretary-state-issues-unprocessed-ballot-report"
+    publisher: "California Secretary of State"
+    date: "2026-11-05"
   - title: "November 3, 2026, General Election Calendar"
     url: "https://elections.cdn.sos.ca.gov/statewide-elections/2026-primary/election-guide/section-07-general-election-calendar.pdf"
     publisher: "California Secretary of State"
@@ -88,7 +93,7 @@ assets:
   overlay: true
   kicker: "California election results · Nov. 3, 2026"
   date: "2026-11-03"
-  card: { top: "California polls close", big: "8 p.m. PT", bottom: "11 p.m. ET; counties certify by Dec. 3" }
+  card: { top: "California polls closed", big: "8 p.m. PT", bottom: "11 p.m. ET; counties certify by Dec. 3" }
   printable:
     slug: california-election-results-timeline-2026
     group: california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends
@@ -96,6 +101,7 @@ assets:
     subtitle: "From poll closing on Nov. 3 to state certification on Dec. 11, in date order"
     layout: timeline
     year: 2026
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Tue., Nov. 3, 8 p.m.", "Polls close (11 p.m. ET). Results begin posting at electionresults.sos.ca.gov"]
       - ["Thu., Nov. 5", "Counties send the state a first estimate of ballots still unprocessed"]
@@ -129,7 +135,7 @@ downloads:
     pages: 1
 ---
 
-**California polls close at 8 p.m. Pacific Time (PT) on Tuesday, Nov. 3, 2026, which is 11 p.m. Eastern Time (ET), and the California Secretary of State's Election Results website begins posting results after that.** The count does not end that night. Counties have until Thu., Dec. 3 to complete the canvass, and the Secretary of State must certify the statewide vote by Fri., Dec. 11, according to the state's official election calendar.
+**California polls closed at 8 p.m. Pacific Time (PT) on Tuesday, Nov. 3, 2026, which is 11 p.m. Eastern Time (ET), and the California Secretary of State's Election Results website began posting results after that.** The count did not end that night. Counties have until Thu., Dec. 3 to complete the canvass, and the Secretary of State must certify the statewide vote by Fri., Dec. 11, according to the state's official election calendar.
 
 ## Where do California results appear on election night?
 
@@ -142,13 +148,14 @@ What the first numbers contain matters. The Secretary of State's vote counting p
 | Date | What happens |
 |---|---|
 | Tue., Nov. 3, 8 p.m. | Polls close; counties begin the semi-official canvass; last time to register conditionally and vote a provisional ballot |
-| Thu., Nov. 5 | Counties send the state a first estimate of unprocessed ballots; see the [unprocessed ballots status page](https://electionresults.sos.ca.gov/unprocessed-ballots-status) |
+| Thu., Nov. 5 | Counties send the state a first estimate of unprocessed ballots (8,906,017 counted, 4,816,722 estimated left, per the Secretary of State); see the [unprocessed ballots status page](https://electionresults.sos.ca.gov/unprocessed-ballots-status) |
 | Mon., Nov. 9 | From this day, counties report estimates to the state on any day they publish updated results |
 | Tue., Nov. 10 | Last day for mailed ballots to arrive |
 | Mon., Nov. 16 | Counties finish counting most ballots |
 | Tue., Nov. 17 | Counties must have sent notices to voters with signature problems |
 | Wed., Nov. 25, 5 p.m. | Last day to fix a signature problem |
 | Thu., Dec. 3 | Counties complete the canvass and certify |
+| Fri., Dec. 4 | Counties' deadline to report final results to the Secretary of State, per its Nov. 5 release |
 | Fri., Dec. 11 | Secretary of State certifies the statewide vote |
 
 The Nov. 16 deadline has exceptions. Counties may still be working on provisional and conditional ballots, ballots with signature problems, ballots forwarded from other counties or needing duplication, and ballots received after the fourth day following the election.
@@ -157,13 +164,13 @@ The Nov. 16 deadline has exceptions. Counties may still be working on provisiona
 
 Counties give the Secretary of State "an estimate of their remaining unprocessed ballots" two days after the election, and the office posts that report online and updates it daily, according to its vote counting page. It issued the same kind of report after the June primary.
 
-For this election, the Secretary of State's [Unprocessed Ballots Status page](https://electionresults.sos.ca.gov/unprocessed-ballots-status) for the Nov. 3, 2026 general election is the place to check. It was live on the morning of Thu., Nov. 5, but it had not yet posted a statewide unprocessed-ballot total or an "as of" time, and it does not post an update schedule. The page says "it typically takes weeks for counties to process and count all of the ballots" and that, for the most up-to-date vote counts before statewide certified results are published, "you may contact a county elections office directly."
+For this election, the Secretary of State's [Unprocessed Ballots Status page](https://electionresults.sos.ca.gov/unprocessed-ballots-status) for the Nov. 3, 2026 general election is the place to check. In its release of Nov. 5, 2026, the office said county elections officials had processed and counted 8,906,017 ballots and estimated that 4,816,722 remained to be processed and counted. It compiles those figures from county estimates and does not post an update schedule. The page says "it typically takes weeks for counties to process and count all of the ballots" and that, for the most up-to-date vote counts before statewide certified results are published, "you may contact a county elections office directly."
 
 Counties have their own duty. Starting the Thursday after the election, each county must update its website at least twice by the next Thursday and at least twice a week after that. Each update must show updated results, the ballots processed and the estimated ballots left in five groups (polling place, mailed ballots received on or before Election Day, mailed ballots received after Election Day, provisional and conditional registration), and the date and time of the next release.
 
 ## Which California ballots can arrive after Election Day?
 
-A mailed ballot counts if it arrives within seven days of Election Day, by Tue., Nov. 10, and either carries a postmark or carrier date stamp of Nov. 3 or earlier, or has no usable postmark and is signed and dated on or before Election Day. A ballot delivered by hand must reach the county by 8 p.m. on Nov. 3, according to the Secretary of State's voting plan page.
+A mailed ballot counted if it arrived within seven days of Election Day, by Tue., Nov. 10, and either carried a postmark or carrier date stamp of Nov. 3 or earlier, or had no usable postmark and was signed and dated on or before Election Day. A ballot delivered by hand had to reach the county by 8 p.m. on Nov. 3, according to the Secretary of State's voting plan page.
 
 For a signature problem, the county sends a notice by Tue., Nov. 17. The voter can return a signature verification statement in person, or by mail, email or fax, until 5 p.m. on Wed., Nov. 25. To follow your own ballot, sign up for alerts at the Secretary of State's Where's My Ballot service, which sends email, text or voice call notices. Our [California propositions guide](/news/california-propositions-2026-november-ballot-explained/) has the rest of the voting-day rules.
 

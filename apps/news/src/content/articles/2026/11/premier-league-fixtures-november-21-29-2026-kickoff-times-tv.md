@@ -107,11 +107,11 @@ draft: false
 
 **Liverpool v Manchester United kicks off on Sunday, Nov. 22, 2026 at 4:30pm UK time, which is 11:30 a.m. Eastern Time (ET), on Sky Sports, according to the Premier League's fixtures list.** Everton v Liverpool and Arsenal v Manchester City follow on Sunday, Nov. 29, and the league says all fixtures are subject to change.
 
-The tables below give the 20 matches in Matchweeks 11 and 12 in UK time (Greenwich Mean Time, GMT), ET and Pacific Time (PT), with the UK channel and, where NBC Sports states one, the US channel. Three of them have no UK time on the league's page; their ET times come from NBC Sports. A printable version is further down.
+The tables below give the 20 matches in Matchweeks 11 and 12 in UK time (Greenwich Mean Time, GMT), ET and Pacific Time (PT), with the UK channel and, where NBC Sports states one, the US channel. Seven of them show "Not listed" in the UK column; their ET times come from NBC Sports. A printable version is further down.
 
 ## Matchweek 11 kick-off times, Nov. 21-23
 
-UK time is ET plus 5 hours and PT plus 8 hours, so ET and PT columns are worked out by Fresh Calendars from the league's UK times. No kick-off moves to a different day in the US. The five Saturday games with no UK time come from NBC Sports, which lists 10 a.m. ET for each; the league's page shows no UK time or broadcaster for them.
+UK time is ET plus 5 hours and PT plus 8 hours, so ET and PT columns are worked out by Fresh Calendars from the league's UK times. No kick-off moves to a different day in the US. The seven Saturday games shown as "Not listed" in the UK column come from NBC Sports, which lists 10 a.m. ET for each; the league's page shows no UK time or broadcaster for them.
 
 | Day | Match | UK (GMT) | ET | PT | UK channel | US channel (NBC Sports) |
 |---|---|---|---|---|---|---|

@@ -10,31 +10,25 @@ keywords: ["champions league schedule november 2026", "champions league matchday
 dateline: "London"
 assets:
   overlay: true
-  kicker: "Champions League · Nov. 3-4 and 24-25, 2026"
-  date: "2026-11-03"
-  card: { top: "Matchday 4 starts Tue., Nov. 3", big: "12:45 p.m. ET", bottom: "5:45pm in the UK · all games on Paramount+" }
+  kicker: "Champions League · Matchday 5 · Nov. 24-25, 2026"
+  date: "2026-11-24"
+  card: { top: "Matchday 5 starts Tue., Nov. 24", big: "12:45 p.m. ET", bottom: "5:45pm in the UK · all games on Paramount+" }
   printable:
     slug: champions-league-november-2026-schedule-et
     group: champions-league-2026-27
     title: "Champions League November 2026 Schedule in ET"
-    subtitle: "Matchdays 4 and 5 in Eastern Time (12:45 p.m. ET is 5:45pm in the UK, 3 p.m. ET is 8pm)"
+    subtitle: "Matchday 5 in Eastern Time (12:45 p.m. ET is 5:45pm in the UK, 3 p.m. ET is 8pm)"
     rows:
-      - ["Tue., Nov. 3", "12:45 p.m. ET: Shakhtar v Sporting CP; Galatasaray v Stuttgart"]
-      - ["Tue., Nov. 3", "3 p.m. ET: Barcelona v Aston Villa; Atlético de Madrid v Bayern München; Manchester United v Roma"]
-      - ["Tue., Nov. 3", "3 p.m. ET: Feyenoord v Inter; Bodø/Glimt v Lille; Villarreal v Paris Saint-Germain; LASK v Slovan Bratislava"]
-      - ["Wed., Nov. 4", "12:45 p.m. ET: Fenerbahçe v Liverpool; AEK Athens v Real Madrid"]
-      - ["Wed., Nov. 4", "3 p.m. ET: Borussia Dortmund v Real Betis; Porto v Napoli; PSV v Club Brugge; Leipzig v Manchester City"]
-      - ["Wed., Nov. 4", "3 p.m. ET: Slavia Praha v Arsenal; Lens v Como; Viking v Sabah"]
       - ["Tue., Nov. 24", "12:45 p.m. ET: Bodø/Glimt v LASK; Galatasaray v Aston Villa"]
       - ["Tue., Nov. 24", "3 p.m. ET: Real Madrid v PSV; Manchester City v Napoli; Arsenal v Borussia Dortmund; Feyenoord v Porto"]
       - ["Tue., Nov. 24", "3 p.m. ET: Leipzig v Lens; Slovan Bratislava v Real Betis; Como v AEK Athens"]
       - ["Wed., Nov. 25", "12:45 p.m. ET: Slavia Praha v Villarreal; Sabah v Barcelona"]
       - ["Wed., Nov. 25", "3 p.m. ET: Paris Saint-Germain v Roma; Inter v Stuttgart; Atlético de Madrid v Viking; Sporting CP v Manchester United"]
       - ["Wed., Nov. 25", "3 p.m. ET: Club Brugge v Liverpool; Lille v Bayern München; Shakhtar v Fenerbahçe"]
-    note: "Source: UEFA.com fixtures (times converted from Central European Time); Amazon UK Prime Video listings. Checked Oct. 28, 2026."
-    inkSaver: true
-    description: "One-page Champions League November 2026 schedule for matchdays 4 and 5, with all 36 games grouped by Eastern Time kickoff slot."
-    alt: "Printable Champions League November 2026 schedule in Eastern Time listing matchday 4 and 5 games by kickoff slot"
+    note: "Source: UEFA.com fixtures (times converted from Central European Time); Amazon UK Prime Video listings. Checked Nov. 13, 2026."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
+    description: "One-page Champions League matchday 5 schedule, Nov. 24-25, 2026, with all 18 games grouped by Eastern Time kickoff slot."
+    alt: "Printable Champions League November 2026 schedule in Eastern Time listing matchday 5 games by kickoff slot"
 hero:
   src: ../../../../assets/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5.webp
   alt: "A floodlit football stadium at night, illustrating the Champions League schedule for November 2026 with kickoff times in Eastern Time"
@@ -108,19 +102,11 @@ draft: false
 downloads:
   - group: "Champions League November 2026 Schedule in ET printables"
     title: "Champions League November 2026 Schedule in ET"
-    description: "One-page Champions League November 2026 schedule for matchdays 4 and 5, with all 36 games grouped by Eastern Time kickoff slot."
+    description: "One-page Champions League matchday 5 schedule, Nov. 24-25, 2026, with all 18 games grouped by Eastern Time kickoff slot."
     preview: ../../../../assets/news/champions-league-2026-27/champions-league-november-2026-schedule-et.png
-    alt: "Printable Champions League November 2026 schedule in Eastern Time listing matchday 4 and 5 games by kickoff slot"
+    alt: "Printable Champions League November 2026 schedule in Eastern Time listing matchday 5 games by kickoff slot"
     pdf: "/news/downloads/champions-league-2026-27/champions-league-november-2026-schedule-et.pdf"
     png: "/news/downloads/champions-league-2026-27/champions-league-november-2026-schedule-et.png"
-    pages: 1
-  - group: "Champions League November 2026 Schedule in ET printables"
-    title: "Champions League November 2026 Schedule in ET (ink saver)"
-    description: "One-page Champions League November 2026 schedule for matchdays 4 and 5, with all 36 games grouped by Eastern Time kickoff slot. Ink-saver version."
-    preview: ../../../../assets/news/champions-league-2026-27/champions-league-november-2026-schedule-et-ink.png
-    alt: "Printable Champions League November 2026 schedule in Eastern Time listing matchday 4 and 5 games by kickoff slot, ink-saver version"
-    pdf: "/news/downloads/champions-league-2026-27/champions-league-november-2026-schedule-et-ink.pdf"
-    png: "/news/downloads/champions-league-2026-27/champions-league-november-2026-schedule-et-ink.png"
     pages: 1
 ---
 
@@ -216,4 +202,4 @@ Amazon UK's November 2026 guide lists two Prime Video games: Manchester United v
 
 ## Is there a printable Champions League schedule?
 
-Yes. The one-page printable groups all 36 games by ET kickoff slot, so it fits next to the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For other UK and European fixtures in U.S. time, see the [Carabao Cup fourth round](/news/carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk/), the [FA Cup first round](/news/fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times/) and the [National Football League (NFL) games in Europe and Mexico](/news/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times/).
+Yes. The one-page printable groups the 18 matchday 5 games by ET kickoff slot, so it fits next to the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). For other UK and European fixtures in U.S. time, see the [Carabao Cup fourth round](/news/carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk/), the [FA Cup first round](/news/fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times/) and the [National Football League (NFL) games in Europe and Mexico](/news/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times/).

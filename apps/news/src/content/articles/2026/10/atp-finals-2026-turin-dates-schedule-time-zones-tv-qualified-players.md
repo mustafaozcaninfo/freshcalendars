@@ -140,21 +140,22 @@ assets:
     subtitle: "Dates, TV channel by country and blank lines for match times."
     columns: ["Date or country", "What to note"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Sun., Nov. 15", "Opening day · Time: ________"]
-      - ["Mon., Nov. 16", "Time: ________"]
+      - ["Sun., Nov. 15", "Opening day. Zverev vs Jodar not before 2 p.m. Turin (8 a.m. ET); Shelton vs Fils not before 8:30 p.m. Turin (2:30 p.m. ET)"]
+      - ["Mon., Nov. 16", "Alcaraz vs Tiafoe not before 2 p.m. Turin (8 a.m. ET); Medvedev vs Cobolli not before 8:30 p.m. Turin (2:30 p.m. ET)"]
       - ["Tue., Nov. 17", "Time: ________"]
       - ["Wed., Nov. 18", "Time: ________"]
       - ["Thu., Nov. 19", "Time: ________"]
       - ["Fri., Nov. 20", "Time: ________"]
-      - ["Sat., Nov. 21", "Time: ________"]
-      - ["Sun., Nov. 22", "Last day of the event · Time: ________"]
+      - ["Sat., Nov. 21", "Semifinals. Singles semifinal not before 2:30 p.m. Turin (8:30 a.m. ET); not before 8:30 p.m. Turin (2:30 p.m. ET)"]
+      - ["Sun., Nov. 22", "Finals day. Doubles final 3 p.m. Turin (9 a.m. ET); singles final not before 6 p.m. Turin (12 p.m. ET)"]
       - ["United States", "Tennis Channel (incl. Puerto Rico, U.S. Virgin Islands)"]
       - ["United Kingdom", "Sky UK (incl. Northern Ireland, Ireland)"]
       - ["Canada", "TSN"]
       - ["Italy", "Sky Italia and Mediaset"]
       - ["Streaming", "Tennis TV (TennisTV.com) streams ATP Tour action"]
-    note: "Source: Nitto ATP Finals (nittoatpfinals.com), checked Oct. 28, 2026; ATP Tour. The 2026 order of play is not yet announced."
+    note: "Source: Nitto ATP Finals (nittoatpfinals.com), checked Nov. 13, 2026; ATP Tour. Order of play for Nov. 17 onward is not yet announced; times are Turin time and subject to change."
     description: "A one-page ATP Finals 2026 viewing planner with the Nov. 15-22 dates, the TV channel for the U.S., U.K., Canada and Italy, and blank lines for match times."
     alt: "ATP Finals 2026 viewing planner with dates, TV channels by country and blank time lines"
 draft: false
@@ -279,4 +280,4 @@ The event's points and prize money page, under "Singles Prize Money (2026)", lis
 
 ## Free ATP Finals 2026 viewing planner
 
-The printable lists the eight dates from Sun., Nov. 15 to Sun., Nov. 22 with a blank line for each match time, plus the TV channel for the United States, United Kingdom, Canada and Italy. It carries the same source note as this story: Nitto ATP Finals, checked Oct. 28, 2026, and the ATP Tour. Recheck the event's site for the daily order of play before you plan a viewing day. For another season-ending tennis event, see the [Women's Tennis Association (WTA) Finals 2026 dates and time zones](/news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/).
+The printable lists the eight dates from Sun., Nov. 15 to Sun., Nov. 22 with the known match times and a blank line for each day without one, plus the TV channel for the United States, United Kingdom, Canada and Italy. It carries the same source note as this story: Nitto ATP Finals, checked Nov. 13, 2026, and the ATP Tour. Recheck the event's site for the daily order of play before you plan a viewing day. For another season-ending tennis event, see the [Women's Tennis Association (WTA) Finals 2026 dates and time zones](/news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/).

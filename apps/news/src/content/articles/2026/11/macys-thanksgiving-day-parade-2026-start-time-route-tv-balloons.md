@@ -96,7 +96,9 @@ assets:
       - { when: "Thu., Nov. 26", what: "Pacific: step-off 5:30 a.m. PT, NBC 8:30 a.m.", section: "Step-off by zone" }
       - { when: "Thu., Nov. 26", what: "Alaska: step-off 4:30 a.m. AKT, NBC 8:30 a.m.", section: "Step-off by zone" }
       - { when: "Thu., Nov. 26", what: "Hawaii: step-off 3:30 a.m. HT, NBC 8:30 a.m.", section: "Step-off by zone" }
-    note: "Source: Time Out New York (Oct. 28, 2026) and CentralPark.com. Other zones are our conversion; check the NBC local listing."
+      - { when: "Thu., Nov. 26", what: "Live on NBC, Peacock and Telemundo; encore on NBC at 2 p.m. ET/PT", section: "Parade morning" }
+    note: "Source: NBCUniversal and CentralPark.com (checked Nov. 13, 2026); route per Time Out New York. Other zones are our conversion; check the NBC local listing."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "A one-page Macy's Thanksgiving Day Parade 2026 morning plan with the 8:30 a.m. ET step-off, route stops and the start time in each U.S. time zone."
     alt: "Macy's Thanksgiving Day Parade 2026 morning plan checklist with route stops and step-off times by time zone"
 downloads:

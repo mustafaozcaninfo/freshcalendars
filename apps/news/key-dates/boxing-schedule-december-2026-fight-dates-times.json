@@ -1,6 +1,8 @@
 [
   { "date": "2026-12-05", "label": "Walker vs Rocha, Wolverhampton" },
+  { "date": "2026-12-10", "label": "Diaz vs Chaves, Orlando" },
   { "date": "2026-12-11", "label": "Fury vs Joshua, Cardiff, live on Netflix", "weight": 3 },
   { "date": "2026-12-12", "label": "Bivol vs Smith and Soro vs Liddard" },
-  { "date": "2026-12-19", "label": "Cacace vs Ball, WBA super-featherweight championship" }
+  { "date": "2026-12-19", "label": "Cacace vs Ball, WBA super-featherweight championship, Belfast" },
+  { "date": "2026-12-24", "label": "Paul vs Doumbé, Dubai" }
 ]

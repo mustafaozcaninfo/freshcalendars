@@ -122,7 +122,7 @@ assets:
           quote: "Saturday, November 14, 8:00 am – 6:00 pm*"
         - start: "2026-11-15T08:00-05:00"
           title: "In-person show, second day"
-          detail: "8 a.m. to 5 p.m."
+          detail: "8 a.m. to 5 p.m.; Best in Show about 4:30 p.m."
           airing: live
           src: "https://nds.nationaldogshow.com/"
           quote: "Sunday, November 15, 8:00 am – 5:00 pm"

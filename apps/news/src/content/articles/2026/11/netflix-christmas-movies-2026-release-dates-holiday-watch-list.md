@@ -11,8 +11,8 @@ dateline: "Los Angeles"
 assets:
   overlay: true
   kicker: "Netflix holiday movies 2026"
-  date: "2026-11-04"
-  card: { top: "First Netflix original holiday movie", big: "Wed., Nov. 4", bottom: "A Dog's Perfect Christmas" }
+  date: "2026-11-18"
+  card: { top: "Next Netflix original holiday film", big: "Wed., Nov. 18", bottom: "Guarding Stars" }
   printable:
     slug: netflix-holiday-watch-list-2026
     group: netflix-holiday-2026
@@ -54,6 +54,7 @@ assets:
       - { when: "Sat., Nov. 28", what: "Salish's 12 Games of Christmas", section: "Nov. 23 to 30" }
       - { when: "Wed., Dec. 2", what: "In a Holiday... In a Holidaze", section: "December" }
     note: "Source: Netflix Tudum, New on Netflix in November 2026 (Oct. 31, 2026) and New fall movies on Netflix (Aug. 26, 2026). The full December list is not yet posted. Dates can change."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true
     description: "One-page Netflix holiday watch list for 2026 with the date of each Christmas and holiday title Netflix lists for November and Dec. 2, and a tick box for each."
     alt: "Printable Netflix holiday watch list 2026 with titles grouped by week and a tick box for each"

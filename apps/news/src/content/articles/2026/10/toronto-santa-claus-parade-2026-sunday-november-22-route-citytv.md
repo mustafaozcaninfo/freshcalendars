@@ -1,9 +1,9 @@
 ---
 title: "Toronto Santa Claus Parade 2026: Sunday, Nov. 22 at 12:30 p.m. ET"
-description: "The Toronto Santa Claus Parade is Sunday, Nov. 22, 2026 at 12:30 p.m. ET, on Citytv at 2 p.m. The route is not yet confirmed. Ottawa's parade is Nov. 21."
+description: "The Toronto Santa Claus Parade is Sunday, Nov. 22, 2026 at 12:30 p.m. ET on a new route from Christie Pits, on Citytv at 2 p.m. Ottawa's is Nov. 21."
 type: news
 publishedAt: "2026-10-28T13:50:00-04:00"
-updatedAt: "2026-11-11T07:25:00-05:00"
+updatedAt: "2026-11-14T01:20:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["toronto santa claus parade 2026", "santa claus parade 2026 date", "when is the santa claus parade toronto", "ottawa santa parade 2026"]
@@ -21,7 +21,7 @@ hero:
 summary:
   - "The Original Santa Claus Parade in Toronto returns for its 122nd year on Sunday, Nov. 22, 2026, according to thesantaclausparade.com, and will air on Citytv and stream on Citytv+."
   - "Ottawa's Help Santa Toy Parade is Saturday, Nov. 21, 2026, at 11 a.m. Eastern Time (ET), its 57th year, according to toyparade.ca."
-  - "The Toronto parade starts at 12:30 p.m. Eastern Time (ET) and airs on Citytv at 2:00 p.m. ET, according to the organizers; the 2026 route is still to be confirmed, since their site shows a route image but no readable route text, though it lists 27 road closures."
+  - "The Toronto parade starts at 12:30 p.m. Eastern Time (ET) at Christie Pits and airs on Citytv at 2:00 p.m. ET, according to the organizers, who published a new 2026 route that ends at the St. Lawrence Market."
   - "The 5k Holly Jolly Fun Run leads the Toronto parade and starts at 11:45 a.m. ET, according to the organizers."
 faq:
   - q: "When is the Santa Claus Parade in Toronto in 2026?"
@@ -29,7 +29,7 @@ faq:
   - q: "What time does the Toronto Santa Claus Parade start in 2026?"
     a: "12:30 p.m. ET on Sunday, Nov. 22, 2026, according to the organizers' parade page, which lists the Citytv broadcast at 2:00 p.m. ET. The 5k Holly Jolly Fun Run, which leads the parade, starts at 11:45 a.m. in 2026."
   - q: "What is the Toronto Santa Claus Parade route for 2026?"
-    a: "The 2026 route is still to be confirmed; the organizers' site shows an image labeled 'Parade Route 2026' but no readable route text. In 2025 the route ran from Christie St. and Bloor St. W. to Front St. and Jarvis St., about 6.5 km."
+    a: "A new route, according to the organizers' Nov. 5 news release: from Christie Pits (750 Bloor St. W.) east on Bloor St. to Yonge St., south to Richmond St., west on Richmond, south on University Ave., east on Wellington St., south on Bay St. and east on Front St. to the St. Lawrence Market at Jarvis St."
   - q: "When is the Ottawa Santa parade in 2026?"
     a: "The Help Santa Toy Parade is on Saturday, Nov. 21, 2026, at 11 a.m. ET, according to toyparade.ca. It starts at Queen Elizabeth Driveway and Somerset St. W., heading southbound, and ends at Lansdowne Park and TD Place."
 sources:
@@ -40,7 +40,15 @@ sources:
   - title: "The Parade"
     url: "https://www.thesantaclausparade.com/the-parade"
     publisher: "The Original Santa Claus Parade"
-    date: "2026-11-11"
+    date: "2026-11-14"
+  - title: "122nd Original Santa Claus Parade Expected to Draw More Than 750,000 on Sunday, Nov. 22, 2026"
+    url: "https://finance.yahoo.com/media-advertising/articles/122nd-original-santa-claus-parade-190000723.html"
+    publisher: "The Original Santa Claus Parade, via Globe Newswire"
+    date: "2026-11-05"
+  - title: "The Toronto Santa Claus Parade will take a new route in 2026"
+    url: "https://www.blogto.com/radar/2026/11/toronto-santa-claus-parade-route-changing/"
+    publisher: "blogTO"
+    date: "2026-11-06"
   - title: "Holly Jolly Fun Run"
     url: "https://www.thesantaclausparade.com/holly-jolly-fun-run"
     publisher: "The Original Santa Claus Parade"
@@ -52,7 +60,7 @@ sources:
   - title: "Help Santa Toy Parade"
     url: "https://www.toyparade.ca"
     publisher: "Help Santa Toy Parade"
-    date: "2026-10-28"
+    date: "2026-11-14"
   - title: "Service advisories"
     url: "https://www.ttc.ca"
     publisher: "Toronto Transit Commission"
@@ -91,20 +99,18 @@ assets:
     rows:
       - ["Sat., Nov. 21, 11 a.m.", "Ottawa Help Santa Toy Parade starts at Queen Elizabeth Driveway and Somerset St. W."]
       - ["Sat., Nov. 21", "Ottawa parade ends at Lansdowne Park and TD Place"]
-      - ["Sun., Nov. 22", "Road closures from 6 a.m. (Queens Park) to 7 p.m. downtown; list on thesantaclausparade.com; TTC notices not yet posted"]
+      - ["Sun., Nov. 22", "Road closures from 6 a.m. (Queens Park) to 7 p.m. downtown; list on thesantaclausparade.com; transit notices not yet posted"]
       - ["Sun., Nov. 22, 11:45 a.m.", "Toronto 5k Holly Jolly Fun Run leads the parade; gather at 300 Bloor St. W."]
-      - ["Sun., Nov. 22, 12:30 p.m.", "Toronto parade starts in person (2026 route still to be confirmed)"]
+      - ["Sun., Nov. 22, 12:30 p.m.", "Toronto parade starts at Christie Pits on a new route and ends at the St. Lawrence Market"]
       - ["Sun., Nov. 22, 2:00 p.m.", "Parade airs on Citytv; also streaming on Citytv+"]
-    note: "Source: The Santa Claus Parade (thesantaclausparade.com); Help Santa Toy Parade (toyparade.ca), Nov. 11, 2026."
+    note: "Source: The Santa Claus Parade (thesantaclausparade.com); Help Santa Toy Parade (toyparade.ca), Nov. 14, 2026."
     description: "A one-page planner for the Santa Claus Parades in Ottawa on Nov. 21 and Toronto on Nov. 22, 2026, with the start times and items still to be announced."
     alt: "Printable Santa Claus Parade 2026 planner for Toronto and Ottawa."
 ---
 
-<p class="callout"><b>Checked Nov. 11, 2026.</b> The organizers now list 27 road closures for Nov. 22. The 2026 route is still only a map image, and Toronto Transit Commission (TTC) and City of Toronto notices are not out yet.</p>
+**The 122nd Santa Claus Parade in Toronto is on Sunday, Nov. 22, 2026**, according to the parade's official website, thesantaclausparade.com. The parade follows a new route this year. Ottawa's Help Santa Toy Parade comes a day earlier, on Saturday, Nov. 21, at 11 a.m. Eastern Time (ET), according to toyparade.ca; see our [Ottawa Santa Claus Parade story](/news/ottawa-santa-claus-parade-2026-november-21-route-time/) for its route. Toronto and Ottawa are both on ET, which is Eastern Standard Time after Nov. 1.
 
-**The 122nd Santa Claus Parade in Toronto is on Sunday, Nov. 22, 2026**, according to the parade's official website, thesantaclausparade.com. That is 25 days after Oct. 28, our count. Ottawa's Help Santa Toy Parade comes a day earlier, on Saturday, Nov. 21, at 11 a.m. Eastern Time (ET), according to toyparade.ca; see our [Ottawa Santa Claus Parade story](/news/ottawa-santa-claus-parade-2026-november-21-route-time/) for its route. Toronto and Ottawa are both on ET, which is Eastern Standard Time after Nov. 1.
-
-Both parades are in one table below, with the organizers' 2026 road closures, what is still to be announced, and a one-page planner you can print.
+Both parades are in one table below, with the new Toronto route, the organizers' posted road closures, what is still to be announced, and a one-page planner you can print.
 
 ## When are the Santa parades in Toronto and Ottawa?
 
@@ -113,11 +119,11 @@ Both parades are in one table below, with the organizers' 2026 road closures, wh
 | Parade | The Original Santa Claus Parade, 122nd year | Help Santa Toy Parade, 57th year |
 | Date | Sunday, Nov. 22, 2026 | Saturday, Nov. 21, 2026 |
 | Start time | 12:30 p.m. ET | 11 a.m. ET |
-| Start point | 2026 route not yet announced | Queen Elizabeth Driveway at Somerset St. W., southbound |
-| End point | 2026 route not yet announced | Lansdowne Park and TD Place |
+| Start point | Christie Pits, 750 Bloor St. W. | Queen Elizabeth Driveway at Somerset St. W., southbound |
+| End point | St. Lawrence Market at Jarvis St. | Lansdowne Park and TD Place |
 | On TV | Citytv at 2:00 p.m. ET, and Citytv+ | Not listed on the official page |
 
-The Toronto details come from the parade's homepage and its parade page. The Ottawa details come from toyparade.ca. The organizers' frequently asked questions page still showed 2025 content when we checked, so the 2026 times come from the parade page.
+The Toronto details come from the parade's homepage, its parade page and the organizers' Nov. 5 news release. The Ottawa details come from toyparade.ca. The organizers' frequently asked questions page still showed 2025 content when we checked, so the 2026 times come from the parade page.
 
 ## What time does the Toronto Santa Claus Parade start?
 
@@ -127,7 +133,7 @@ One 2026 time is published. The organizers say the 5k Holly Jolly Fun Run "will 
 
 ## What are the 2026 Toronto road closures?
 
-The organizers' parade page now has a "2026 Road Closures" list of 27 rows. It is a list of closed roads, not the parade route, which is still only a map image.
+The organizers' parade page has a "2026 Road Closures" list of 27 rows. It is a list of closed roads, not the parade route. blogTO reports that a complete list of closures will come closer to the event, and some rows, such as Queens Park, sit off the new route, so check the page again before you go.
 
 | Road | From | To | Start | End |
 |---|---|---|---|---|
@@ -159,13 +165,17 @@ The organizers' parade page now has a "2026 Road Closures" list of 27 rows. It i
 | King St W | Simcoe St | York St | 11 a.m. | 6 p.m. |
 | Church St | King St | The Esplanade | 11 a.m. | 7 p.m. |
 
-Source: The Original Santa Claus Parade, thesantaclausparade.com/the-parade, checked Nov. 11, 2026.
+Source: The Original Santa Claus Parade, thesantaclausparade.com/the-parade, checked Nov. 14, 2026.
 
 In that list, the earliest closure is Queens Park from Charles St. to Bloor St. at 6 a.m., and Queens Park reopens at 6 p.m. Seven rows stay closed until 7 p.m., the latest reopening listed: Wellington St. W., Wellington St. E., Bay St. (Queen St. to Lake Shore Blvd.), Yonge St. (Adelaide St. W. to Lake Shore Blvd.), Front St. W., Jarvis St. and Church St. (King St. to The Esplanade).
 
 ## What is the 2026 Toronto route?
 
-Still to be confirmed. The parade page now shows an image labeled "Parade Route 2026" but no readable route text. For comparison, the 2025 frequently asked questions page described a route of about 6.5 km from Christie St. and Bloor St. W. to Front St. and Jarvis St., ending at approximately 3:30 p.m. Treat that as last year's route until the 2026 map appears.
+The route is new this year. The organizers' Nov. 5 news release says it begins at Christie Pits, 750 Bloor St. W., and travels east along Bloor St. to Yonge St., then south to Richmond St. From there it heads west on Richmond St., south on University Ave., east on Wellington St., south on Bay St. and east again on Front St., finishing at the St. Lawrence Market at Jarvis St. blogTO, which quotes an organizers' spokesperson, says the route skips the usual loop around the Queen's Park roundabout and changed because of construction in the city.
+
+The Holly Jolly Fun Run follows the same route and finishes at Yonge and Wellington. The release also says Santa's Treats Zone opens at 10:30 a.m. at Christie Pits and the new Santa's Magic Zone opens at 11 a.m. at Sankofa Square.
+
+For comparison, the 2025 frequently asked questions page described a route of about 6.5 km from Christie St. and Bloor St. W. to Front St. and Jarvis St., ending at approximately 3:30 p.m. The organizers have not published a 2026 end time.
 
 ## Where can you watch the Toronto parade on TV?
 
@@ -173,8 +183,9 @@ The parade's website says: "Watch Live on Citytv, Citytv+, or on the route!" Its
 
 ## What is still to be announced?
 
-- Toronto 2026 route map (the organizer shows an image but no readable route text)
-- TTC service notices and City of Toronto notices for Nov. 22
+- A finish time for the 2026 route
+- The complete list of road closures for the new route
+- Toronto Transit Commission (TTC) service notices and City of Toronto notices for Nov. 22
 
 On transit, the TTC service advisories for Nov. 23, 2025 listed route diversions such as "19 Temporary route change due to Toronto Santa Claus Parade." No 2026 Santa Claus Parade notice was posted on ttc.ca or in toronto.ca news when we checked on Nov. 11, so look there closer to the date.
 

@@ -26,6 +26,7 @@ assets:
       - ["Sat., Dec. 5 to Sun., Dec. 6", "Semifinal second legs"]
       - ["Thu., Dec. 10 to Sun., Dec. 13", "Final (Dec. 24-27 if Toluca is a finalist)"]
     note: "Source: TUDN and Claro Sports (Nov. 2026); standings from Liga MX (ligamx.net). Kickoff times not yet announced."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true
     description: "Dated Liga MX Apertura 2026 Liguilla calendar from Jornada 17 on Nov. 22 to the Final on Dec. 10-13, one page."
     alt: "Printable Liga MX Liguilla Apertura 2026 calendar from Jornada 17 to the Final in December"

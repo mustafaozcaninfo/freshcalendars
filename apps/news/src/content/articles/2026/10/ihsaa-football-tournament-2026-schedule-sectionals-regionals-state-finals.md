@@ -1,9 +1,9 @@
 ---
 title: "IHSAA Football Tournament 2026: Regionals Nov. 13, Finals Nov. 27-28"
-description: "Indiana High School Athletic Association (IHSAA) sectionals were Nov. 6; regionals are Nov. 13, state finals Nov. 27-28 at Lucas Oil Stadium. Tickets $8+."
+description: "Indiana High School Athletic Association (IHSAA) regionals were Nov. 13; semi-states are Nov. 20, state finals Nov. 27-28 at Lucas Oil Stadium."
 type: news
 publishedAt: "2026-10-30T19:42:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T01:14:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["ihsaa football", "ihsaa football tournament 2026", "ihsaa state finals 2026", "ihsaa football sectional championships", "ihsaa football tickets"]
@@ -20,15 +20,15 @@ hero:
     author: "SounderBruce"
     authorUrl: "https://commons.wikimedia.org/wiki/User:SounderBruce"
 summary:
-  - "The Indiana High School Athletic Association (IHSAA) played football sectional semifinals in all six classes on Friday, Oct. 30, 2026; sectional championships are next, Friday, Nov. 6, at 7 p.m. local time unless the host school sets another time."
-  - "The state finals are Friday and Saturday, Nov. 27-28, 2026, at Lucas Oil Stadium in Indianapolis; Class 6A closes Friday at 7 p.m. Eastern Time (ET) and Class 5A closes Saturday at 7 p.m. ET."
+  - "The Indiana High School Athletic Association (IHSAA) played its football sectional championships on Nov. 6 and regionals on Friday, Nov. 13, 2026; semi-states are next, Friday, Nov. 20, at 7 p.m. local time unless the host school sets another time."
+  - "The state finals are Friday and Saturday, Nov. 27-28, 2026, at Lucas Oil Stadium in Indianapolis; Class 6A closes Friday at 7 p.m. Eastern Time (ET) and Class 5A closes Saturday at 7 p.m. ET. Gates open at 10 a.m. ET each day."
   - "Tickets cost $8 for sectionals, $10 for regionals, $12 for semi-states and $20 per day for the state finals, the IHSAA says; children age 5 and younger are free."
   - "Games stream on IHSAAtv, with sectionals and regionals included and pay-per-view prices for semi-states and state finals. The IHSAA names no TV network."
 faq:
   - q: "When is the next round of IHSAA football games?"
-    a: "Sectional championships are on Friday, Nov. 6, 2026, according to the IHSAA, after the sectional semifinals in all six classes on Oct. 30. Kickoff is 7 p.m. local time or as determined by the host school."
+    a: "Semi-states are on Friday, Nov. 20, 2026, according to the IHSAA, after regionals on Nov. 13. Kickoff is 7 p.m. local time or as determined by the host school."
   - q: "When are the IHSAA football state finals in 2026?"
-    a: "Friday and Saturday, Nov. 27-28, 2026, at Lucas Oil Stadium in Indianapolis, according to the IHSAA."
+    a: "Friday and Saturday, Nov. 27-28, 2026, at Lucas Oil Stadium in Indianapolis, according to the IHSAA. Gates open at 10 a.m. ET each day."
   - q: "How much are IHSAA football tournament tickets?"
     a: "The IHSAA lists $8 per person for sectionals, $10 for regionals, $12 for semi-states and $20 per person per day for the state finals. Children age 5 and younger are free at every round."
   - q: "How do you watch IHSAA football playoff games?"
@@ -39,11 +39,11 @@ sources:
   - title: "Football"
     url: "https://www.ihsaa.org/sports/boys/football"
     publisher: "Indiana High School Athletic Association"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "2026-27 State Tournament Series"
     url: "https://www.ihsaa.org/sports/boys/football/2026-27-tournament"
     publisher: "Indiana High School Athletic Association"
-    date: "2026-10-30"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -56,7 +56,7 @@ assets:
   overlay: true
   kicker: "IHSAA football · Nov. 27-28"
   date: "2026-11-27"
-  card: { top: "State finals, Lucas Oil Stadium", big: "Nov. 27-28", bottom: "Sectional championships Nov. 6" }
+  card: { top: "State finals, Lucas Oil Stadium", big: "Nov. 27-28", bottom: "Semi-states Nov. 20" }
   printable:
     slug: ihsaa-football-tournament-2026-tracker
     group: ihsaa-football-2026
@@ -77,6 +77,7 @@ assets:
       - ["Sat., Nov. 28", "State final, Class 3A: 3 p.m. ET (2 p.m. CT)"]
       - ["Sat., Nov. 28", "State final, Class 5A: 7 p.m. ET (6 p.m. CT)"]
     note: "Source: Indiana High School Athletic Association (IHSAA), 2026-27 State Tournament Series. Local time or as determined by the host school; Central Time (CT) is our conversion."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true
     description: "A one-page IHSAA football tournament 2026 tracker with every round date and the six state final kickoff times in Eastern and Central Time."
     alt: "IHSAA football tournament 2026 tracker listing round dates from Oct. 23 to Nov. 28 and state final times"
@@ -100,7 +101,7 @@ downloads:
 draft: false
 ---
 
-**The Indiana High School Athletic Association (IHSAA) played its football sectional semifinals on Friday, Oct. 30, 2026; sectional championships are next, on Friday, Nov. 6, with a 7 p.m. local-time kickoff unless the host school sets another time, and the state finals are Nov. 27-28 at Lucas Oil Stadium in Indianapolis.** The IHSAA's 2026-27 State Tournament Series page lists every round from Oct. 23 to Nov. 28. Below: the round-by-round dates, state final kickoff times in Eastern and Central Time, ticket prices and where to stream.
+**The Indiana High School Athletic Association (IHSAA) played its football regionals on Friday, Nov. 13, 2026; semi-states are next, on Friday, Nov. 20, with a 7 p.m. local-time kickoff unless the host school sets another time, and the state finals are Nov. 27-28 at Lucas Oil Stadium in Indianapolis.** The IHSAA's 2026-27 State Tournament Series page lists every round from Oct. 23 to Nov. 28. Below: the round-by-round dates, state final kickoff times in Eastern and Central Time, ticket prices and where to stream.
 
 ## When are the IHSAA football tournament rounds in 2026?
 
@@ -108,11 +109,11 @@ The IHSAA runs the tournament across six Fridays and one Saturday. Class 6A star
 
 | Date | Round | Kickoff | Ticket (per person) | Stream on IHSAAtv |
 |---|---|---|---|---|
-| Fri., Oct. 23 | Sectional first round (Classes 5A, 4A, 3A, 2A, 1A) | 7 p.m. local | $8 | Included |
+| Fri., Oct. 23 (played) | Sectional first round (Classes 5A, 4A, 3A, 2A, 1A) | 7 p.m. local | $8 | Included |
 | Fri., Oct. 30 (played) | Sectional semifinals (all six classes) | 7 p.m. local | $8 | Included |
-| Fri., Nov. 6 (next) | Sectional championships | 7 p.m. local | $8 | Included |
-| Fri., Nov. 13 | Regionals | 7 p.m. local | $10 | Included |
-| Fri., Nov. 20 | Semi-states | 7 p.m. local | $12 | Pay-per-view, $12 a game or $20 for all games |
+| Fri., Nov. 6 (played) | Sectional championships | 7 p.m. local | $8 | Included |
+| Fri., Nov. 13 (played) | Regionals | 7 p.m. local | $10 | Included |
+| Fri., Nov. 20 (next) | Semi-states | 7 p.m. local | $12 | Pay-per-view, $12 a game or $20 for all games (all 12 games) |
 | Fri.-Sat., Nov. 27-28 | State finals, Lucas Oil Stadium | See the next table | $20 per day | Pay-per-view, $20 a game or $25 for all games |
 
 The IHSAA lists 48 sectionals, 8 in each class, with 4 to 8 teams in each sectional. Pairings and brackets are on the [IHSAA tournament page](https://www.ihsaa.org/sports/boys/football/2026-27-tournament) under the round tabs; the pairings show was Oct. 11.
@@ -134,7 +135,7 @@ Thanksgiving is Thursday, Nov. 26, 2026, so the finals are the Friday and Saturd
 
 ## How much are IHSAA football tournament tickets?
 
-Sectional, regional and semi-state tickets are digital and sold through Eventlink at ihsaa.eventlink.com; show the ticket on your phone at the gate. State finals tickets are sold by Ticketmaster or at the Lucas Oil Stadium box office. Children age 5 and younger are free at every round.
+Sectional, regional and semi-state tickets are digital and sold through Eventlink at ihsaa.eventlink.com; show the ticket on your phone at the gate. State finals tickets are sold by Ticketmaster or at the Lucas Oil Stadium box office; the IHSAA said the Friday and Saturday ticket links go live on Saturday, Nov. 14. Gates open at 10 a.m. ET each day, one hour before the first kickoff. Lucas Oil Stadium is cashless and all state finals tickets are digital. Children age 5 and younger are free at every round.
 
 | Round | Price per person |
 |---|---|

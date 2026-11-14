@@ -1,17 +1,17 @@
 ---
-title: "Ski Resort Opening Dates 2026-27: Vail Nov. 13, Whistler Nov. 20"
-description: "Ski resort opening dates 2026-27: Vail Mountain plans Nov. 13, Whistler Blackcomb and Park City Nov. 20, Aspen Mountain Nov. 26. Table and printable."
+title: "Ski Resort Opening Dates 2026-27: Whistler, Park City Nov. 20"
+description: "Ski resort opening dates 2026-27: Vail opened Nov. 13; Whistler Blackcomb and Park City plan Nov. 20, Aspen Mountain Nov. 26. Table and printable."
 type: news
 publishedAt: "2026-11-01T12:47:00-05:00"
-updatedAt: "2026-11-04T13:41:00-05:00"
+updatedAt: "2026-11-14T01:17:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["ski resort opening dates 2026", "when do ski resorts open 2026", "vail opening day 2026", "breckenridge opening day 2026", "park city opening day 2026"]
 assets:
   overlay: true
-  kicker: "Ski Resort Openings 2026-27 · Nov. 5"
-  date: "2026-11-05"
-  card: { top: "Next opening: Mammoth Mountain", big: "Thu., Nov. 5", bottom: "Breckenridge, Copper follow Nov. 6" }
+  kicker: "Ski Resort Openings 2026-27 · Nov. 14"
+  date: "2026-11-20"
+  card: { top: "Next: Whistler and Park City", big: "Fri., Nov. 20", bottom: "Vail opened Nov. 13 · Aspen Mountain Nov. 26" }
   printable:
     slug: ski-resort-opening-dates-2026-27-checklist
     group: ski-openings-2026
@@ -22,9 +22,10 @@ assets:
     rows:
       - ["Wed., Oct. 28", "Arapahoe Basin: opened"]
       - ["Fri., Oct. 30", "Keystone: opened"]
-      - ["Thu., Nov. 5", "Mammoth Mountain: opening day"]
-      - ["Fri., Nov. 6", "Breckenridge and Copper Mountain: planned"]
-      - ["Fri., Nov. 13", "Vail Mountain: planned"]
+      - ["Thu., Nov. 5", "Mammoth Mountain: open"]
+      - ["Sun., Nov. 8", "Copper Mountain: opened (delayed from Nov. 6)"]
+      - ["Wed., Nov. 11", "Breckenridge: set to open (delayed from Nov. 6)"]
+      - ["Fri., Nov. 13", "Vail Mountain: opened. Winter Park: first day listed"]
       - ["Fri., Nov. 20", "Whistler Blackcomb, Park City Mountain, Heavenly and Northstar: planned"]
       - ["Sat., Nov. 21", "Stowe, Okemo and Mount Snow: targeted"]
       - ["Wed., Nov. 25", "Beaver Creek, Crested Butte, Palisades Tahoe and Big Sky: planned"]
@@ -32,14 +33,14 @@ assets:
       - ["Fri., Nov. 27", "Jackson Hole: reported by SnowBrains and Teton Gravity Research"]
       - ["Fri., Dec. 4", "Kirkwood and Stevens Pass: planned"]
       - ["Sat., Dec. 12", "Aspen Highlands and Buttermilk: scheduled"]
-      - ["Not announced", "Winter Park (no date), Killington and Loveland"]
-    note: "Source: Vail Resorts (Aug. 18 and Oct. 26-28, 2026), Copper Mountain, Mammoth Mountain, Palisades Tahoe, Aspen Snowmass, Big Sky and Stowe official sites; Jackson Hole as reported by SnowBrains and Teton Gravity Research. Dates are weather and conditions permitting."
+      - ["No date given", "Killington (0 of 19 lifts open Nov. 13) and Loveland"]
+    note: "Source: Vail Resorts (Aug. 18 and Oct. 26-Nov. 13, 2026), Summit Daily (Copper Mountain, Nov. 8), Mammoth Mountain, Winter Park, Killington, Palisades Tahoe, Aspen Snowmass, Big Sky and Stowe official sites; Jackson Hole as reported by SnowBrains and Teton Gravity Research. Dates are weather and conditions permitting."
     description: "One-page checklist of 2026-27 ski resort opening dates from Arapahoe Basin on Oct. 28 to Aspen Highlands on Dec. 12, with a Done column to tick."
     alt: "Printable list of 2026-27 ski resort opening dates with a Done column"
 hero:
   src: ../../../../assets/news/ski-resort-opening-dates-2026-27-vail-breckenridge-park-city-whistler-aspen/ski-resort-opening-dates-2026-27-vail-breckenridge-park-city-whistler-aspen.webp
   alt: "Breckenridge Ski Area seen from Dercum Mountain at Keystone, for ski resort opening dates 2026-27"
-  caption: "File photo: Breckenridge Ski Area. Vail Resorts plans to open Breckenridge on Nov. 6, 2026."
+  caption: "File photo: Breckenridge Ski Area. Breckenridge was set to open Nov. 11, 2026, after a delay from Nov. 6."
   credit: "Photo: Ahodges7 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 3.0"
@@ -47,22 +48,34 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Breckenridge_Ski_Area_from_Dercum_Mountain,_Keystone_Ski_Area.jpg"
     author: "Ahodges7"
 summary:
-  - "Arapahoe Basin opened Wednesday, Oct. 28, 2026, and Keystone opened Friday, Oct. 30; no other resort in the table has opened."
-  - "Mammoth Mountain opens Thursday, Nov. 5. Vail Resorts plans Breckenridge on Nov. 6, Vail Mountain on Nov. 13, and Whistler Blackcomb, Park City Mountain, Heavenly and Northstar on Nov. 20."
+  - "Arapahoe Basin opened Oct. 28, 2026, Keystone Oct. 30, Copper Mountain Nov. 8 after a delay, and Vail Mountain Nov. 13. Breckenridge was set to open Nov. 11, delayed from Nov. 6."
+  - "Vail Resorts plans Whistler Blackcomb, Park City Mountain, Heavenly and Northstar on Friday, Nov. 20; Stowe, Okemo and Mount Snow target Saturday, Nov. 21."
   - "Beaver Creek, Crested Butte, Palisades Tahoe and Big Sky list Wednesday, Nov. 25; Aspen Mountain and Snowmass are scheduled for Thanksgiving Day, Nov. 26."
-  - "Winter Park gives no date, and Killington and Loveland have not announced 2026-27 dates. All dates depend on weather and conditions."
+  - "Killington shows no lifts open on its Nov. 13 snow report. All dates depend on weather and conditions."
 faq:
   - q: "When does Vail Mountain open in 2026?"
-    a: "Friday, Nov. 13, 2026. Vail's official site says \"Opening Day is Nov. 13th!\" and Vail Resorts lists the date as planned, subject to weather and conditions."
+    a: "Vail Mountain opened Friday, Nov. 13, 2026, according to Vail Resorts' release that day. Intermediate terrain on Ramshorn was open, and beginner terrain is to follow as conditions allow."
   - q: "When does Breckenridge open in 2026?"
-    a: "Friday, Nov. 6, 2026, according to Vail Resorts' Aug. 18 release of planned opening dates."
+    a: "Wednesday, Nov. 11, 2026. Vail Resorts' Aug. 18 release planned Friday, Nov. 6, and its Nov. 9 release moved the opening to Nov. 11."
   - q: "When does Park City Mountain open in 2026?"
     a: "Friday, Nov. 20, 2026, per Vail Resorts' planned dates for Park City Mountain in Utah."
   - q: "Which ski resorts are open right now?"
-    a: "As of Nov. 1, 2026, Arapahoe Basin (opened Oct. 28) and Keystone (opened Oct. 30) are the two in our table that have opened."
+    a: "As of Nov. 14, 2026, Arapahoe Basin (Oct. 28), Keystone (Oct. 30), Mammoth Mountain, Copper Mountain (Nov. 8) and Vail Mountain (Nov. 13) are open. Breckenridge was set to open Nov. 11."
   - q: "Can a ski resort change its opening date?"
     a: "Yes. Vail Resorts says opening dates are subject to change based on weather and conditions, and Palisades Tahoe says opening day operations, including lifts and terrain, are weather and conditions permitting."
 sources:
+  - title: "Vail Mountain Opens for the 2026/27 Winter Season"
+    url: "https://news.vailresorts.com/news-and-stories?item=123201"
+    publisher: "Vail Resorts"
+    date: "2026-11-13"
+  - title: "Breckenridge Ski Resort Kicks Off Winter in The Kingdom"
+    url: "https://news.vailresorts.com/BreckOpeningDay2026"
+    publisher: "Vail Resorts"
+    date: "2026-11-09"
+  - title: "PHOTOS: Copper Mountain welcomes first skiers, snowboarders for opening day and shot at 'redemption'"
+    url: "https://www.summitdaily.com/news/photos-copper-mountain-welcomes-first-skiers-snowboarders-for-opening-day-and-shot-at-redemption/"
+    publisher: "Summit Daily"
+    date: "2026-11-08"
   - title: "Is Winter About to Show Off? Vail Resorts Announces 2026/27 Opening Dates"
     url: "https://news.vailresorts.com/"
     publisher: "Vail Resorts"
@@ -111,16 +124,26 @@ sources:
   - title: "Mammoth Mountain"
     url: "https://www.mammothmountain.com/"
     publisher: "Mammoth Mountain"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Big Sky Resort winter opening"
     url: "https://bigskyresort.com/"
     publisher: "Big Sky Resort"
+    date: "2026-11-14"
   - title: "Stowe Mountain Resort opening day"
     url: "https://www.stowe.com/"
     publisher: "Stowe Mountain Resort"
   - title: "Hours of Operations at Winter Park Resort"
     url: "https://www.winterparkresort.com/"
     publisher: "Winter Park Resort"
+    date: "2026-11-14"
+  - title: "Killington Resort snow report"
+    url: "https://www.killington.com/"
+    publisher: "Killington Resort"
+    date: "2026-11-13"
+  - title: "Loveland Ski Area"
+    url: "https://www.skiloveland.com/"
+    publisher: "Loveland Ski Area"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -139,20 +162,21 @@ downloads:
 draft: false
 ---
 
-Arapahoe Basin opened Wednesday, Oct. 28, 2026, and Keystone opened Friday, Oct. 30; the next openings are Mammoth Mountain on Thursday, Nov. 5, Breckenridge and Copper Mountain on Friday, Nov. 6, and Vail Mountain on Friday, Nov. 13, according to the resorts and Vail Resorts. The table below lists every 2026-27 opening date we could confirm, sorted by date, and the printable at the end of the story turns it into a checklist.
+Arapahoe Basin opened Wednesday, Oct. 28, 2026, Keystone opened Friday, Oct. 30, Copper Mountain opened Sunday, Nov. 8 and Vail Mountain opened Friday, Nov. 13; the next openings are Whistler Blackcomb, Park City Mountain, Heavenly and Northstar on Friday, Nov. 20, according to the resorts and Vail Resorts. The table below lists every 2026-27 opening date we could confirm, sorted by date, and the printable at the end of the story turns it into a checklist.
 
 ## Ski resort opening dates 2026-27, sorted by date
 
-Vail Resorts' Aug. 18, 2026 release ("Is Winter About to Show Off? Vail Resorts Announces 2026/27 Opening Dates") lists the planned dates for its own resorts and adds: "Opening dates are subject to change based on weather and conditions." The other rows come from each resort's own page. "Planned" and "targeted" are the words the sources use.
+Vail Resorts' Aug. 18, 2026 release ("Is Winter About to Show Off? Vail Resorts Announces 2026/27 Opening Dates") lists the planned dates for its own resorts and adds: "Opening dates are subject to change based on weather and conditions." The other rows come from each resort's own page. "Planned" and "targeted" are the words the sources use. Rows for dates that have passed show what the sources say happened.
 
 | Date | Resort | State or province | Status | Source |
 |---|---|---|---|---|
 | Wed., Oct. 28 | Arapahoe Basin | Colorado | Opened (80th winter season) | Denver7, OpenSnow |
 | Fri., Oct. 30 | Keystone | Colorado | Opened | Vail Resorts, Summit Daily |
-| Thu., Nov. 5 | Mammoth Mountain | California | Listed ("Mammoth Opens This Thursday," "Opening Day Nov 5") | Mammoth Mountain |
-| Fri., Nov. 6 | Breckenridge | Colorado | Planned | Vail Resorts |
-| Fri., Nov. 6 | Copper Mountain | Colorado | Listed ("Winter opening day is November 6!") | Copper Mountain |
-| Fri., Nov. 13 | Vail Mountain | Colorado | Planned | Vail Resorts, vail.com |
+| Thu., Nov. 5 | Mammoth Mountain | California | Open (site now reads "Mammoth's Open!"; opening day was listed as Nov. 5) | Mammoth Mountain |
+| Sun., Nov. 8 | Copper Mountain | Colorado | Opened after a two-day weather delay from Nov. 6 | Summit Daily |
+| Wed., Nov. 11 | Breckenridge | Colorado | Set to open, moved from Nov. 6 | Vail Resorts |
+| Fri., Nov. 13 | Vail Mountain | Colorado | Opened | Vail Resorts |
+| Fri., Nov. 13 | Winter Park | Colorado | First day of skiing and riding listed | Winter Park |
 | Fri., Nov. 20 | Whistler Blackcomb | British Columbia | Planned | Vail Resorts |
 | Fri., Nov. 20 | Park City Mountain | Utah | Planned | Vail Resorts |
 | Fri., Nov. 20 | Heavenly | California | Planned | Vail Resorts |
@@ -174,11 +198,11 @@ Vail Resorts' Aug. 18, 2026 release ("Is Winter About to Show Off? Vail Resorts 
 
 ## Which ski resorts have already opened?
 
-Two so far. Denver7 and OpenSnow both reported that Arapahoe Basin opened on Wednesday, Oct. 28, 2026, its 80th winter season. Vail Resorts' newsroom announced on Oct. 28 that Keystone would open on Friday, Oct. 30, and Summit Daily reported on Oct. 30 that it opened that day. We found no confirmation that any other resort in the table has opened.
+Several. Denver7 and OpenSnow both reported that Arapahoe Basin opened on Wednesday, Oct. 28, 2026, its 80th winter season. Vail Resorts' newsroom announced on Oct. 28 that Keystone would open on Friday, Oct. 30, and Summit Daily reported on Oct. 30 that it opened that day. Mammoth Mountain's site now reads "Mammoth's Open!" Summit Daily reported on Nov. 8 that Copper Mountain opened that Sunday after a two-day weather delay; Copper had listed Nov. 6. Vail Resorts said on Nov. 13 that Vail Mountain "today kicked off the 2026/27 winter season," with intermediate skiing and riding on Ramshorn and beginner terrain to open once conditions allow. Winter Park's site lists Nov. 13 as its first day of skiing and riding.
 
 ## When do Vail, Breckenridge and Park City open?
 
-Vail Resorts plans Breckenridge on Friday, Nov. 6, and Vail Mountain on Friday, Nov. 13; vail.com says "Opening Day is Nov. 13th!" Park City Mountain in Utah is planned for Friday, Nov. 20, the same day as Whistler Blackcomb in British Columbia, Heavenly and Northstar. Kirkwood and Stevens Pass follow on Friday, Dec. 4. Copper Mountain's site says "Winter opening day is November 6!" Mammoth Mountain's says "Mammoth Opens This Thursday" with "Opening Day Nov 5."
+Vail Mountain opened on Friday, Nov. 13, as planned. Breckenridge's planned Nov. 6 opening slipped: Vail Resorts' Nov. 9 release said the resort would kick off the season on Wednesday, Nov. 11, with the BreckConnect Gondola and the Colorado SuperChair serving intermediate terrain on Springmeier. We have not seen a release confirming that day. Park City Mountain in Utah is planned for Friday, Nov. 20, the same day as Whistler Blackcomb in British Columbia, Heavenly and Northstar. Kirkwood and Stevens Pass follow on Friday, Dec. 4.
 
 Stowe, Okemo and Mount Snow are "targeting Saturday, November 21," per a Vail Resorts release dated Oct. 26.
 
@@ -196,7 +220,7 @@ Palisades Tahoe's page states: "Opening Day is November 25, 2026," and adds that
 
 ## Which resorts have no 2026-27 date yet?
 
-Winter Park's hours page says its first day of skiing and riding for winter 26/27 is "as soon as possible," with no date. Killington and Loveland have not announced a 2026-27 opening date that we could confirm; the Loveland site gives none. Check each resort's page before you book.
+Killington's site showed 0 of 19 lifts open on its Nov. 13 snow report and gives no opening date. Loveland's site says "Loveland Ski Area is open for the 2026-2027 season!" without a date, and lists its Loveland Valley ski and ride school as opening Nov. 20, 2026. Check each resort's page before you book.
 
 Jackson Hole's Friday, Nov. 27 date comes from SnowBrains and Teton Gravity Research, both dated Aug. 10, 2026. We could not reach the resort's own page, so treat it as reported.
 

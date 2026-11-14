@@ -84,13 +84,14 @@ assets:
     subtitle: "Dates to mark before the 127th Army-Navy Game on Dec. 12, 2026"
     columns: ["Date", "What and days to go from Oct. 26"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Mon., Oct. 26", "Day 0: story checked; the countdown starts here"]
       - ["Thu., Nov. 26", "Thanksgiving, 31 days to go"]
       - ["Sat., Dec. 5", "American Athletic Conference championship game, as reported by FBSchedules.com, 40 days to go"]
+      - ["Fri., Dec. 11", "Army-Navy Gala, Ellis Island, by request for Army A Club members (Army athletics), 46 days to go"]
       - ["Sat., Dec. 12", "127th Army-Navy Game, MetLife Stadium, East Rutherford, N.J., 47 days to go"]
       - ["Sat., Dec. 12", "Kickoff 3 p.m. Eastern on CBS (Army athletics); our conversion: noon Pacific, 1 p.m. Mountain, 2 p.m. Central"]
-    note: "Source: Army West Point Athletics, May 27, 2026; U.S. Naval Academy Public Affairs Office; FBSchedules.com. Schedule subject to change; conversions and day counts are ours."
+    note: "Source: Army West Point Athletics, May 27, 2026; U.S. Naval Academy Public Affairs Office; FBSchedules.com. Checked Nov. 13, 2026. Schedule subject to change; conversions and day counts are ours."
     description: "A one-page Army-Navy 2026 countdown with the Thanksgiving, conference title game and Dec. 12 kickoff dates, the CBS channel and days to go."
     alt: "Army-Navy 2026 countdown listing Nov. 26, Dec. 5 and Dec. 12 with days to go and the 3 p.m. Eastern kickoff"
 downloads:

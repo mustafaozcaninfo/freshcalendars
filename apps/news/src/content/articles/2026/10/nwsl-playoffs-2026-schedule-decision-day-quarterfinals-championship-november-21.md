@@ -153,4 +153,4 @@ For another league's postseason on the same calendar, see the [Major League Socc
 
 ## Is there a printable NWSL playoffs schedule?
 
-Yes. The one-page sheet lists Decision Day, the four quarterfinal results, the two semifinals and the Nov. 21 final with kickoff times and channels. Use the notes area to write in the finalists and the scores.
+Yes. The one-page sheet lists Decision Day, the four quarterfinal results, the two semifinals and the Nov. 21 final, with kickoff times and channels for Decision Day, the semifinals and the final. Use the notes area to write in the finalists and the scores.

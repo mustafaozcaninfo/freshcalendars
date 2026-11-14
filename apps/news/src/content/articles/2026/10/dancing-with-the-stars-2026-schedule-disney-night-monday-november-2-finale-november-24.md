@@ -11,9 +11,9 @@ dateline: "New York"
 assets:
   scene: calendar
   overlay: true
-  kicker: "Dancing with the Stars · Mon., Nov. 2"
-  date: "2026-11-02"
-  card: { top: "Disney Night airs", big: "Mon., Nov. 2", bottom: "8 to 10 p.m. ET on ABC" }
+  kicker: "Dancing with the Stars · Tue., Nov. 17"
+  date: "2026-11-17"
+  card: { top: "Semi-Finals air", big: "Tue., Nov. 17", bottom: "8 to 10 p.m. ET on ABC" }
   printable:
     kit: watch-guide
     slug: dancing-with-the-stars-season-35-schedule-2026
@@ -38,7 +38,7 @@ assets:
 hero:
   src: ../../../../assets/news/dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24/dancing-with-the-stars-2026-schedule-disney-night-monday-november-2-finale-november-24.webp
   alt: "Dancing with the Stars schedule 2026: a mirrored disco ball turning in blue light"
-  caption: "File photo of a mirrored disco ball. Dancing with the Stars Disney Night airs Monday, Nov. 2, 2026, 8 to 10 p.m. ET on ABC."
+  caption: "File photo of a mirrored disco ball. Dancing with the Stars Semi-Finals air Tuesday, Nov. 17, 2026, 8 to 10 p.m. ET on ABC."
   credit: "Photo: Catboy69 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"

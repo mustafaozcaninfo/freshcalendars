@@ -11,21 +11,16 @@ assets:
   overlay: true
   kicker: "Hulu · November 2026"
   date: "2026-11-20"
-  card: { top: "Percy Jackson season 3 on Hulu", big: "Fri., Nov. 20", bottom: "109 dated additions in the month" }
+  card: { top: "Percy Jackson season 3 on Hulu", big: "Fri., Nov. 20", bottom: "39 more dated rows to Nov. 30" }
   printable:
     slug: hulu-november-2026-watch-calendar
     group: hulu-2026
     title: "New on Hulu, November 2026: Watch Calendar"
     subtitle: "Key Hulu dates, from the Hulu Press schedule"
     layout: auto
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Sun., Nov. 1", "36 rows, incl. Aliens, The Devil Wears Prada, Percy Jackson seasons 1-2"]
-      - ["Mon., Nov. 2", "Black Bag (2025)"]
-      - ["Wed., Nov. 4", "All's Fair season 2 (Hulu Original)"]
-      - ["Wed., Nov. 4", "The Remarried Empress season 1 (Hulu Original)"]
-      - ["Wed., Nov. 11", "Rivals season 2, part 2"]
-      - ["Thu., Nov. 12", "The Secret Lives of Mormon Wives: Orange County (Hulu Original)"]
-      - ["Fri., Nov. 13", "The Baltimorons (2025); Postcards for Christmas"]
+      - ["Sat., Nov. 14", "Expedition: Saving Our Seas"]
       - ["Sun., Nov. 15", "Paddington in Peru; three anime seasons"]
       - ["Tue., Nov. 17", "I'm Still Here (2024)"]
       - ["Wed., Nov. 18", "Rivals new episode"]
@@ -34,10 +29,10 @@ assets:
       - ["Mon., Nov. 23", "Mickey 17 (2025)"]
       - ["Wed., Nov. 25", "Borderlands (2024); Rivals new episode"]
       - ["Thu., Nov. 26", "Mummies (2023)"]
+      - ["Fri., Nov. 27", "Percy Jackson season 3 new episodes"]
       - ["Mon., Nov. 30", "The First Omen (2024)"]
     note: "Source: Hulu Press November 2026 schedule; Disney+ Press, Oct. 15, 2026. Dates can change."
-    inkSaver: true
-    description: "One-page Hulu November 2026 watch calendar with 16 key Hulu dates from Hulu Press and Disney+ Press. Free to print."
+    description: "One-page Hulu November 2026 watch calendar with 11 key Hulu dates from Hulu Press and Disney+ Press. Free to print."
     alt: "Printable Hulu November 2026 month calendar with Hulu titles marked on their release dates"
 hero:
   src: ../../../../assets/news/new-on-hulu-november-2026-release-dates/new-on-hulu-november-2026-release-dates.webp
@@ -83,19 +78,11 @@ related: [new-on-hbo-max-november-2026-release-dates-city-of-god-tony, new-on-di
 downloads:
   - group: "New on Hulu printables"
     title: "New on Hulu, November 2026: Watch Calendar"
-    description: "One-page Hulu November 2026 watch calendar with 16 key Hulu dates from Hulu Press and Disney+ Press. Free to print."
+    description: "One-page Hulu November 2026 watch calendar with 11 key Hulu dates from Hulu Press and Disney+ Press. Free to print."
     preview: ../../../../assets/news/hulu-2026/hulu-november-2026-watch-calendar.png
     alt: "Printable Hulu November 2026 month calendar with Hulu titles marked on their release dates"
     pdf: "/news/downloads/hulu-2026/hulu-november-2026-watch-calendar.pdf"
     png: "/news/downloads/hulu-2026/hulu-november-2026-watch-calendar.png"
-    pages: 1
-  - group: "New on Hulu printables"
-    title: "New on Hulu, November 2026: Watch Calendar (ink saver)"
-    description: "One-page Hulu November 2026 watch calendar with 16 key Hulu dates from Hulu Press and Disney+ Press. Free to print. Ink-saver version."
-    preview: ../../../../assets/news/hulu-2026/hulu-november-2026-watch-calendar-ink.png
-    alt: "Printable Hulu November 2026 month calendar with Hulu titles marked on their release dates, ink-saver version"
-    pdf: "/news/downloads/hulu-2026/hulu-november-2026-watch-calendar-ink.pdf"
-    png: "/news/downloads/hulu-2026/hulu-november-2026-watch-calendar-ink.png"
     pages: 1
 draft: false
 ---
@@ -197,7 +184,7 @@ On Friday, Nov. 20, Hulu Press adds "A Christmas Story" (1983), "Four Christmase
 
 ## Print the Hulu November 2026 watch calendar
 
-The printable puts 16 key Hulu entries on their dates on a one-page US Letter calendar, drawn from the Hulu Press schedule and the Disney+ Press list. Print it for the fridge, or print a [November 2026 calendar](/november-calendars.html) and add your own titles. If you plan the month by week, the [printable weekly calendar](/printable-weekly-calendar.html) gives you room for each watch night. For movies on other services, see [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/) and [Prime Video for November 2026](/news/new-on-prime-video-november-2026-rings-of-power-season-3/).
+The printable puts 11 key Hulu entries on their dates on a one-page US Letter calendar, drawn from the Hulu Press schedule and the Disney+ Press list. Print it for the fridge, or print a [November 2026 calendar](/november-calendars.html) and add your own titles. If you plan the month by week, the [printable weekly calendar](/printable-weekly-calendar.html) gives you room for each watch night. For movies on other services, see [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/) and [Prime Video for November 2026](/news/new-on-prime-video-november-2026-rings-of-power-season-3/).
 
 ## How we keep this accurate
 

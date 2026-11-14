@@ -18,7 +18,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:RAC_Arena,_October_2018.jpg"
     author: "Samuel Wiki"
 summary:
-  - "The fifth United Cup runs Fri., Jan. 1 to Sun., Jan. 10, 2027, in Perth and Sydney , according to unitedcup.com."
+  - "The fifth United Cup runs Fri., Jan. 1 to Sun., Jan. 10, 2027, in Perth and Sydney, according to unitedcup.com."
   - "Sydney hosts the two semi-finals on Sat., Jan. 9 and the final on Sun., Jan. 10, 2027."
   - "The 18 teams and six groups were announced Nov. 11, 2026: Perth hosts Groups A, C and E, Sydney hosts Groups B, D and F."
   - "The final starts at 5:30 p.m. Sydney time on Sun., Jan. 10, which is 1:30 a.m. ET that day. Other 2027 session times are not yet announced; the tables convert 2026 times."

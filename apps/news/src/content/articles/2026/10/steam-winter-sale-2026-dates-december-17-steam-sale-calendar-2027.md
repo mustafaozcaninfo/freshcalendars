@@ -17,11 +17,11 @@ assets:
     slug: steam-sale-and-fest-calendar-2026-2027
     group: steam-2026
     title: "Steam Sale and Fest Calendar 2026-2027"
-    subtitle: "Valve's published Steam sale and Fest dates, Oct. 2026 to July 2027"
+    subtitle: "Valve's published Steam sale and Fest dates, Nov. 2026 to July 2027"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     layout: list
     year: 2027
     rows:
-      - ["Oct. 26 to Nov. 2, 2026", "Steam Scream V Fest, Mon. to Mon. (horror and Halloween-centric games)"]
       - ["Nov. 16 to Nov. 23, 2026", "Auto-Battler role-playing game (RPG) Fest, Mon. to Mon."]
       - ["Dec. 17, 2026 to Mon., Jan. 4, 2027", "Steam Winter Sale 2026, Thu. to Mon. (19 days)"]
       - ["Thu., Jan. 14, 2027 to Mon., Jan. 18, 2027", "Desktop Companion Fest"]
@@ -40,9 +40,8 @@ assets:
       - ["Mon., June 14, 2027 to Mon., June 21, 2027", "Steam Next Fest"]
       - ["Thu., June 24, 2027 to Thu., July 8, 2027", "Steam Summer Sale 2027 (15 days)"]
       - ["To be determined", "Steam Autumn Sale 2027 (Valve lists \"TBD\")"]
-    note: "Source: Valve, Upcoming Steam Events (Steamworks), checked Oct. 28, 2026. Dates only; Valve does not list start times on this page."
-    inkSaver: true
-    description: "One-page Steam sale and Fest calendar from Oct. 2026 to July 2027, with weekdays and Valve's published dates for each sale and themed Fest. Free to print."
+    note: "Source: Valve, Upcoming Steam Events (Steamworks), checked Nov. 13, 2026. Dates only; Valve does not list start times on this page."
+    description: "One-page Steam sale and Fest calendar from Nov. 2026 to July 2027, with weekdays and Valve's published dates for each sale and themed Fest. Free to print."
     alt: "Printable Steam Sale and Fest Calendar 2026-2027 listing each Steam sale and Fest with its dates"
 hero:
   src: ../../../../assets/news/steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027/steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027.webp
@@ -80,19 +79,11 @@ sources:
 downloads:
   - group: "Steam Sale and Fest Calendar 2026-2027 printables"
     title: "Steam Sale and Fest Calendar 2026-2027"
-    description: "One-page Steam sale and Fest calendar from Oct. 2026 to July 2027, with weekdays and Valve's published dates for each sale and themed Fest. Free to print."
+    description: "One-page Steam sale and Fest calendar from Nov. 2026 to July 2027, with weekdays and Valve's published dates for each sale and themed Fest. Free to print."
     preview: ../../../../assets/news/steam-2026/steam-sale-and-fest-calendar-2026-2027.png
     alt: "Printable Steam Sale and Fest Calendar 2026-2027 listing each Steam sale and Fest with its dates"
     pdf: "/news/downloads/steam-2026/steam-sale-and-fest-calendar-2026-2027.pdf"
     png: "/news/downloads/steam-2026/steam-sale-and-fest-calendar-2026-2027.png"
-    pages: 1
-  - group: "Steam Sale and Fest Calendar 2026-2027 printables"
-    title: "Steam Sale and Fest Calendar 2026-2027 (ink saver)"
-    description: "One-page Steam sale and Fest calendar from Oct. 2026 to July 2027, with weekdays and Valve's published dates for each sale and themed Fest. Free to print. Ink-saver version."
-    preview: ../../../../assets/news/steam-2026/steam-sale-and-fest-calendar-2026-2027-ink.png
-    alt: "Printable Steam Sale and Fest Calendar 2026-2027 listing each Steam sale and Fest with its dates, ink-saver version"
-    pdf: "/news/downloads/steam-2026/steam-sale-and-fest-calendar-2026-2027-ink.pdf"
-    png: "/news/downloads/steam-2026/steam-sale-and-fest-calendar-2026-2027-ink.png"
     pages: 1
 internalLinks:
   - href: "/december-calendars.html"
@@ -160,7 +151,7 @@ Valve's calendar page does not list a 2026 Autumn Sale, Steam Awards dates or an
 
 ## Print the Steam sale and Fest calendar
 
-The printable lists all 19 rows above on one US Letter page, with weekdays and a Done column. Pair it with the [2027 printable yearly calendar](/printable-yearly-calendar.html) to see where each event falls in the year.
+The printable lists all 18 rows above on one US Letter page, with weekdays and a Done column. Pair it with the [2027 printable yearly calendar](/printable-yearly-calendar.html) to see where each event falls in the year.
 
 ## How we keep this accurate
 

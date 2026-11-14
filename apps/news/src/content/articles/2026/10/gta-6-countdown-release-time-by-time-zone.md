@@ -20,7 +20,6 @@ assets:
     subtitle: "Countdown milestones, store release times in Eastern Time and a get-ready list"
     layout: checklist
     rows:
-      - { when: "Tue., Nov. 10", what: "9 days to go: pre-load opens for digital pre-orders", section: "Countdown milestones" }
       - { when: "Mon., Nov. 16", what: "3 days to go", section: "Countdown milestones" }
       - { when: "Wed., Nov. 18", what: "1 day to go: first stores open this afternoon ET", section: "Countdown milestones" }
       - { when: "Wed., Nov. 18, 1:30 p.m. ET", what: "India PlayStation Store (12:00 a.m. IST)", section: "Release times, PlayStation Store listings" }
@@ -35,7 +34,7 @@ assets:
     note: "Source: PlayStation Store listings for Grand Theft Auto VI (US, UK, Canada, Germany, India), checked Nov. 13, 2026; Rockstar Games."
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page GTA 6 launch checklist with countdown milestones, PlayStation Store release times converted to Eastern Time and a get-ready list. Free."
-    alt: "GTA 6 launch checklist printable with countdown milestones from Nov. 10 to Nov. 18, store release times and a get-ready checklist"
+    alt: "GTA 6 launch checklist printable with countdown milestones from Nov. 16 to Nov. 18, store release times and a get-ready checklist"
 hero:
   src: ../../../../assets/news/gta-6-countdown-release-time-by-time-zone/gta-6-countdown-release-time-by-time-zone.jpg
   alt: "GTA 6 countdown: a night-sky fireworks scene beside a date tile for Thursday, Nov. 19, 2026 and a card reading launch Nov. 19 at 12:00 a.m. ET"
@@ -115,7 +114,7 @@ downloads:
     title: "GTA 6 Launch Checklist and Release Times, Nov. 19, 2026"
     description: "One-page GTA 6 launch checklist with countdown milestones, PlayStation Store release times converted to Eastern Time and a get-ready list. Free."
     preview: ../../../../assets/news/gta-6-countdown/gta-6-launch-week-checklist-2026.png
-    alt: "GTA 6 launch checklist printable with countdown milestones from Nov. 10 to Nov. 18, store release times and a get-ready checklist"
+    alt: "GTA 6 launch checklist printable with countdown milestones from Nov. 16 to Nov. 18, store release times and a get-ready checklist"
     pdf: "/news/downloads/gta-6-countdown/gta-6-launch-week-checklist-2026.pdf"
     png: "/news/downloads/gta-6-countdown/gta-6-launch-week-checklist-2026.png"
     pages: 1

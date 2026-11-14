@@ -1,8 +1,9 @@
 ---
 title: "College Football Bowl Schedule 2026-27: 37 Bowls, Dec. 12-Jan. 25"
-description: "College football bowl season 2026-27 runs Dec. 12 to Jan. 25 with 37 bowls and 11 playoff games. Kickoff and TV for each; three quarterfinals not set."
+description: "College football bowl season 2026-27 runs Dec. 12 to Jan. 25: 37 bowls, 11 playoff games, kickoff and TV for each. Jan. 1 order is set Dec. 6."
 type: news
 publishedAt: "2026-11-01T01:20:00-05:00"
+updatedAt: "2026-11-14T01:14:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["bowl schedule 2026-27", "college football bowl games dates times TV", "CFP schedule 2026 first round quarterfinal dates", "college football playoff schedule 2026"]
@@ -24,7 +25,7 @@ assets:
       - ["Sun., Dec. 6", "Playoff Selection Day: bowl matchups announced"]
       - ["Sat., Dec. 12", "Celebration Bowl noon ABC; Army-Navy Game 3 p.m. CBS"]
       - ["Tue., Dec. 15", "Salute to Veterans Bowl 5:30 p.m. ESPN; Frisco Football Classic 9 p.m. ESPN"]
-      - ["Wed., Dec. 16", "San Juan Bowl: time and TV not yet announced"]
+      - ["Wed., Dec. 16", "San Juan Bowl 7:30 p.m.; TV not yet announced"]
       - ["Fri., Dec. 18", "Boca Raton Bowl 11 a.m. ESPN; Gasparilla Bowl 2:30 p.m. ESPN; playoff first round 8 p.m. ESPN"]
       - ["Sat., Dec. 19", "Playoff first round: noon ABC; 3:30 and 7:30 p.m. Turner Network Television (TNT)"]
       - ["Mon., Dec. 21", "Myrtle Beach Bowl 11 a.m. ESPN; Idaho Potato Bowl 2:30 p.m. ESPN"]
@@ -36,13 +37,13 @@ assets:
       - ["Tue., Dec. 29", "Birmingham Bowl 2 p.m.; Pop-Tarts Bowl 5:30 p.m.; Alamo Bowl 9 p.m. (all ESPN)"]
       - ["Wed., Dec. 30", "Gator Bowl 11:30 a.m. ESPN; Music City Bowl 3 p.m. ESPN; Fiesta Bowl quarterfinal 7:30 p.m. TNT"]
       - ["Thu., Dec. 31", "ReliaQuest noon ESPN; Sun Bowl 2 p.m. CBS; Las Vegas 3:45 p.m. ESPN; Texas Bowl 7:30 p.m. ESPN"]
-      - ["Fri., Jan. 1, 2027", "Quarterfinals: Cotton, Rose and Peach Bowls; times and TV not yet announced"]
+      - ["Fri., Jan. 1, 2027", "Quarterfinals: Cotton, Rose and Peach Bowls at noon TNT, 4 p.m. ABC, 8 p.m. ESPN; order set Dec. 6"]
       - ["Sat., Jan. 2, 2027", "Citrus noon ABC; First Responder 3:30 p.m. ABC; Arizona 4:30 p.m. The CW; Liberty 7:30 p.m. ABC"]
       - ["Thu., Jan. 14, 2027", "Orange Bowl semifinal 7:30 p.m. TNT, Miami Gardens"]
       - ["Fri., Jan. 15, 2027", "Sugar Bowl semifinal 7:30 p.m. ABC, New Orleans"]
       - ["Mon., Jan. 25, 2027", "National Championship 7:30 p.m. ABC, Las Vegas"]
-    note: "Source: ESPN college football bowl and playoff schedule (checked Nov. 1, 2026); FOX Sports, 2026-27 College Football Playoff schedule (June 1, 2026). Times can change; check ESPN."
-    inkSaver: true
+    note: "Source: ESPN college football bowl and playoff schedule (checked Nov. 14, 2026); San Juan Bowl and Sun Belt Conference (Nov. 14, 2026); FOX Sports, 2026-27 College Football Playoff schedule (Nov. 14, 2026). Times can change; check ESPN."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "A one-page 2026-27 college football bowl season watch sheet with one row per day from the conference title games to the Jan. 25 national championship, Eastern Time kickoffs and networks."
     alt: "Printable college football bowl schedule 2026-27 watch sheet listing every game day from Dec. 4 to Jan. 25 with Eastern Time kickoffs and networks"
 hero:
@@ -57,27 +58,27 @@ hero:
     author: "A.J. Lipp"
 summary:
   - "ESPN's schedule lists 37 bowl games, the Army-Navy Game and 11 College Football Playoff (CFP) games from Saturday, Dec. 12, 2026, to Monday, Jan. 25, 2027."
-  - "Teams are not set until CFP Selection Day on Sunday, Dec. 6; the three New Year's Day quarterfinals (Cotton, Rose and Peach Bowls) have no kickoff time or channel yet."
-  - "By our count of the table, ESPN carries 26 of the 45 games with a listed channel, ABC 10, Turner Network Television (TNT) 4, The CW 3 and CBS 2."
+  - "Teams are not set until CFP Selection Day on Sunday, Dec. 6; the three New Year's Day quarterfinals (Cotton, Rose and Peach Bowls) use noon, 4 p.m. and 8 p.m. ET windows that are assigned that day."
+  - "By our count of the table, ESPN carries 27 of the 48 games with a listed channel, ABC 11, Turner Network Television (TNT) 5, The CW 3 and CBS 2."
   - "Saturday, Dec. 26 has the most games on one day (five). There are no games on Friday, Dec. 25 or Sunday, Dec. 27."
 faq:
   - q: "When does the 2026-27 college bowl season start?"
-    a: "The Cricket Celebration Bowl at Mercedes-Benz Stadium in Atlanta kicks off the bowl slate on Saturday, Dec. 12, 2026, at noon ET on ABC, according to ESPN. The Army-Navy Game follows at 3 p.m. ET on CBS. The San Juan Bowl on Wednesday, Dec. 16 has no time or channel yet."
+    a: "The Cricket Celebration Bowl at Mercedes-Benz Stadium in Atlanta kicks off the bowl slate on Saturday, Dec. 12, 2026, at noon ET on ABC, according to ESPN. The Army-Navy Game follows at 3 p.m. ET on CBS. The San Juan Bowl on Wednesday, Dec. 16 kicks off at 7:30 p.m. ET; its channel is not yet announced."
   - q: "When are the bowl matchups announced?"
     a: "On CFP Selection Day, Sunday, Dec. 6, 2026, according to FOX Sports and ESPN's schedule. No teams are set before then, which is why this story lists games, not matchups."
   - q: "What are the College Football Playoff dates in 2026-27?"
     a: "First round Friday, Dec. 18 and Saturday, Dec. 19 at campus sites; quarterfinals Wednesday, Dec. 30 (Fiesta Bowl) and Friday, Jan. 1 (Cotton, Rose and Peach Bowls); semifinals Thursday, Jan. 14 (Orange Bowl) and Friday, Jan. 15 (Sugar Bowl); national championship Monday, Jan. 25, 2027, in Las Vegas. All per ESPN's schedule."
   - q: "What time is the Rose Bowl on Jan. 1, 2027?"
-    a: "Not yet announced. ESPN lists the Rose Bowl, Cotton Bowl and Peach Bowl quarterfinals on Friday, Jan. 1 with the time and channel to be announced."
+    a: "Not yet announced for the Rose Bowl alone. The College Football Playoff schedule puts the Rose, Cotton and Peach Bowl quarterfinals at noon ET (TNT and truTV), 4 p.m. ET (ABC and ESPN) and 8 p.m. ET (ESPN) on Friday, Jan. 1, and assigns the games to those windows on Selection Day, Sunday, Dec. 6, according to FOX Sports."
   - q: "Are there bowl games on Christmas Day?"
     a: "No. ESPN's schedule has no college bowl games on Friday, Dec. 25 or Sunday, Dec. 27, 2026. The games resume on Saturday, Dec. 26 with the Pinstripe Bowl at noon ET on ABC."
   - q: "Which channel shows the most bowl games?"
-    a: "ESPN. Of the 45 games in our table with a listed channel, ESPN has 26 (one of them a CFP first-round game), ABC 10, Turner Network Television (TNT) 4, The CW 3 and CBS 2. Four games have no channel yet."
+    a: "ESPN. Of the 48 games in our table with a listed channel, ESPN has 27 (two of them CFP games), ABC 11, Turner Network Television (TNT) 5, The CW 3 and CBS 2. The San Juan Bowl has no channel yet."
 sources:
   - title: "College football bowl and playoff schedule 2026"
     url: "https://www.espn.com/college-football/schedule/_/week/1/year/2026/seasontype/3"
     publisher: "ESPN"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "ESPN unveils 32-game college football Bowl Season slate for 2026-27 season"
     url: "http://espnpressroom.com/press-release/espn-unveils-32-game-college-football-bowl-season-slate-for-2026-27-season/"
     publisher: "ESPN Press Room"
@@ -89,7 +90,15 @@ sources:
   - title: "2026-27 College Football Playoff schedule: dates, times, networks revealed"
     url: "https://www.foxsports.com/stories/college-football/2026-27-college-football-playoff-schedule-dates-times-networks-revealed"
     publisher: "FOX Sports"
-    date: "2026-06-01"
+    date: "2026-11-14"
+  - title: "TransPerfect San Juan Bowl"
+    url: "https://www.sanjuanbowl.com/"
+    publisher: "TransPerfect San Juan Bowl"
+    date: "2026-11-14"
+  - title: "Sun Belt Conference Announces Historic Primary Agreement with TransPerfect San Juan Bowl"
+    url: "https://sunbeltsports.org/news/2026/10/22/football-sun-belt-conference-announces-historic-primary-agreement-with-transperfect-san-juan-bowl.aspx"
+    publisher: "Sun Belt Conference"
+    date: "2026-10-22"
 downloads:
   - group: "College Football Bowl Schedule 2026-27 Watch Sheet printables"
     title: "College Football Bowl Schedule 2026-27 Watch Sheet"
@@ -98,14 +107,6 @@ downloads:
     alt: "Printable college football bowl schedule 2026-27 watch sheet listing every game day from Dec. 4 to Jan. 25 with Eastern Time kickoffs and networks"
     pdf: "/news/downloads/college-football-bowls-2026-27/college-football-bowl-schedule-2026-27-watch-sheet.pdf"
     png: "/news/downloads/college-football-bowls-2026-27/college-football-bowl-schedule-2026-27-watch-sheet.png"
-    pages: 1
-  - group: "College Football Bowl Schedule 2026-27 Watch Sheet printables"
-    title: "College Football Bowl Schedule 2026-27 Watch Sheet (ink saver)"
-    description: "Ink-saver version: a one-page 2026-27 college football bowl watch sheet, one row per day, Dec. 4 to Jan. 25, Eastern Time kickoffs and networks."
-    preview: ../../../../assets/news/college-football-bowls-2026-27/college-football-bowl-schedule-2026-27-watch-sheet-ink.png
-    alt: "Ink-saver printable college football bowl schedule 2026-27 watch sheet listing every game day from Dec. 4 to Jan. 25 with kickoffs and networks"
-    pdf: "/news/downloads/college-football-bowls-2026-27/college-football-bowl-schedule-2026-27-watch-sheet-ink.pdf"
-    png: "/news/downloads/college-football-bowls-2026-27/college-football-bowl-schedule-2026-27-watch-sheet-ink.png"
     pages: 1
 internalLinks:
   - href: "/december-calendars.html"
@@ -116,9 +117,9 @@ related: [college-football-conference-championship-games-2026-schedule-times-tv,
 draft: false
 ---
 
-**College football's 2026-27 postseason runs from Saturday, Dec. 12, 2026, to Monday, Jan. 25, 2027, with 37 bowl games, the Army-Navy Game and 11 College Football Playoff (CFP) games, according to ESPN's schedule checked Nov. 1.** Below: every date, kickoff in Eastern Time (ET) and channel, a count by network, what the times mean on the West Coast, and a one-page watch sheet.
+**College football's 2026-27 postseason runs from Saturday, Dec. 12, 2026, to Monday, Jan. 25, 2027, with 37 bowl games, the Army-Navy Game and 11 College Football Playoff (CFP) games, according to ESPN's schedule checked Nov. 14.** Below: every date, kickoff in Eastern Time (ET) and channel, a count by network, what the times mean on the West Coast, and a one-page watch sheet.
 
-The matchups do not exist yet. Teams are named on CFP Selection Day, Sunday, Dec. 6, 2026, per FOX Sports, so this story lists games and kickoffs; it does not guess who plays.
+The matchups do not exist yet. Teams are named on CFP Selection Day, Sunday, Dec. 6, 2026, per FOX Sports, so this story lists games and kickoffs; it does not guess who plays. The same day sets which of the three Jan. 1 quarterfinals goes in the noon, 4 p.m. and 8 p.m. ET windows.
 
 ## How many bowl and playoff games are there, and when?
 
@@ -154,7 +155,7 @@ The regular season ends with title games on Friday, Dec. 4 and Saturday, Dec. 5,
 
 ## Which bowl games are played Dec. 12-24?
 
-The first bowl is on Saturday, Dec. 12, and the [Army-Navy Game](/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/) shares that day. The CFP first round falls inside this stretch, on Friday, Dec. 18 and Saturday, Dec. 19, at campus sites, two of them on Turner Network Television (TNT). The San Juan Bowl on Wednesday, Dec. 16 is listed without a time or channel.
+The first bowl is on Saturday, Dec. 12, and the [Army-Navy Game](/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/) shares that day. The CFP first round falls inside this stretch, on Friday, Dec. 18 and Saturday, Dec. 19, at campus sites, two of them on Turner Network Television (TNT). The San Juan Bowl on Wednesday, Dec. 16 kicks off at 7:30 p.m. ET, according to the bowl and the Sun Belt Conference; its channel is not yet announced.
 
 | Date | Game | Stadium, city | Time (ET) | TV |
 |---|---|---|---|---|
@@ -162,7 +163,7 @@ The first bowl is on Saturday, Dec. 12, and the [Army-Navy Game](/news/army-navy
 | Sat., Dec. 12 | Army-Navy Game | MetLife Stadium, East Rutherford, N.J. | 3 p.m. | CBS |
 | Tue., Dec. 15 | IS4S Salute to Veterans Bowl | Cramton Bowl, Montgomery, Ala. | 5:30 p.m. | ESPN |
 | Tue., Dec. 15 | Frisco Football Classic | Ford Center at The Star, Frisco, Texas | 9 p.m. | ESPN |
-| Wed., Dec. 16 | TransPerfect San Juan Bowl | Hiram Bithorn Stadium, San Juan, Puerto Rico | to be announced | to be announced |
+| Wed., Dec. 16 | TransPerfect San Juan Bowl | Hiram Bithorn Stadium, San Juan, Puerto Rico | 7:30 p.m. | to be announced |
 | Fri., Dec. 18 | Boca Raton Bowl | Flagler Credit Union Stadium, Boca Raton, Fla. | 11 a.m. | ESPN |
 | Fri., Dec. 18 | Gasparilla Bowl | Raymond James Stadium, Tampa | 2:30 p.m. | ESPN |
 | Fri., Dec. 18 | CFP first round | Higher seed's stadium | 8 p.m. | ESPN |
@@ -207,15 +208,15 @@ Bowls resume on Saturday, Dec. 26. The Fiesta Bowl on Wednesday, Dec. 30 is the 
 
 ## What are the New Year's Day quarterfinals and Jan. 2 bowls?
 
-Three CFP quarterfinals are on Friday, Jan. 1, 2027: the Cotton Bowl at AT&T Stadium in Arlington, Texas, the Rose Bowl in Pasadena, Calif., and the Peach Bowl at Mercedes-Benz Stadium in Atlanta. ESPN lists the kickoff times and channels as to be announced. The order and times are not set before Selection Day, so check ESPN after Sunday, Dec. 6.
+Three CFP quarterfinals are on Friday, Jan. 1, 2027: the Cotton Bowl at AT&T Stadium in Arlington, Texas, the Rose Bowl in Pasadena, Calif., and the Peach Bowl at Mercedes-Benz Stadium in Atlanta. The playoff's schedule sets three windows for them, noon, 4 p.m. and 8 p.m. ET, with the noon game on TNT and truTV, the 4 p.m. game on ABC and ESPN and the 8 p.m. game on ESPN. Which bowl gets which window is not set before Selection Day, so check ESPN after Sunday, Dec. 6.
 
 Four bowls follow on Saturday, Jan. 2.
 
 | Date | Game | Stadium, city | Time (ET) | TV |
 |---|---|---|---|---|
-| Fri., Jan. 1 | CFP quarterfinal, Cotton Bowl | AT&T Stadium, Arlington, Texas | to be announced | to be announced |
-| Fri., Jan. 1 | CFP quarterfinal, Rose Bowl | Rose Bowl, Pasadena, Calif. | to be announced | to be announced |
-| Fri., Jan. 1 | CFP quarterfinal, Peach Bowl | Mercedes-Benz Stadium, Atlanta | to be announced | to be announced |
+| Fri., Jan. 1 | CFP quarterfinal, Cotton Bowl | AT&T Stadium, Arlington, Texas | noon, 4 p.m. or 8 p.m. | TNT, ABC or ESPN, by window |
+| Fri., Jan. 1 | CFP quarterfinal, Rose Bowl | Rose Bowl, Pasadena, Calif. | noon, 4 p.m. or 8 p.m. | TNT, ABC or ESPN, by window |
+| Fri., Jan. 1 | CFP quarterfinal, Peach Bowl | Mercedes-Benz Stadium, Atlanta | noon, 4 p.m. or 8 p.m. | TNT, ABC or ESPN, by window |
 | Sat., Jan. 2 | Citrus Bowl | Camping World Stadium, Orlando | 12 p.m. | ABC |
 | Sat., Jan. 2 | First Responder Bowl | Gerald J. Ford Stadium, Dallas | 3:30 p.m. | ABC |
 | Sat., Jan. 2 | Arizona Bowl | Casino Del Sol Stadium, Tucson | 4:30 p.m. | The CW |
@@ -233,16 +234,16 @@ After the Jan. 2 bowls, ESPN lists no games for 11 days, Jan. 3-13. Then come th
 
 ## Which networks carry the bowl games?
 
-Counting the 45 games in the three tables above that have a listed channel (the conference title games are not included; four games are still to be announced), our tally is:
+Counting the 48 games in the three tables above that have a listed channel (the conference title games are not included; the San Juan Bowl channel is still to be announced, and the Jan. 1 games are counted by window), our tally is:
 
 | Network | Games | Examples |
 |---|---|---|
-| ESPN | 26 | Boca Raton Bowl, Alamo Bowl, one CFP first-round game |
-| ABC | 10 | Cricket Celebration Bowl, Pinstripe Bowl, Sugar Bowl, National Championship |
-| TNT | 4 | Two CFP first-round games, Fiesta Bowl, Orange Bowl |
+| ESPN | 27 | Boca Raton Bowl, Alamo Bowl, one CFP first-round game, the 8 p.m. Jan. 1 quarterfinal |
+| ABC | 11 | Cricket Celebration Bowl, Pinstripe Bowl, the 4 p.m. Jan. 1 quarterfinal, Sugar Bowl, National Championship |
+| TNT | 5 | Two CFP first-round games, Fiesta Bowl, the noon Jan. 1 quarterfinal, Orange Bowl |
 | The CW | 3 | Poinsettia Bowl, Holiday Bowl, Arizona Bowl |
 | CBS | 2 | Army-Navy Game, Sun Bowl |
-| To be announced | 4 | San Juan Bowl, three New Year's Day quarterfinals |
+| To be announced | 1 | San Juan Bowl |
 
 ## What time is each kickoff on the West Coast and in Central time?
 
@@ -254,7 +255,9 @@ Every time above is ET. These Central Time (CT), Mountain Time (MT) and Pacific 
 | 12 p.m. | 11 a.m. | 10 a.m. | 9 a.m. | Celebration, Pinstripe, ReliaQuest, Citrus; CFP first round Dec. 19 |
 | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | 11:30 a.m. | Gasparilla, Idaho Potato, New Mexico |
 | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | Duke's Mayo, First Responder; CFP first round Dec. 19 |
-| 7:30 p.m. | 6:30 p.m. | 5:30 p.m. | 4:30 p.m. | Poinsettia, Cactus, Texas, Liberty; semifinals and title game |
+| 7:30 p.m. | 6:30 p.m. | 5:30 p.m. | 4:30 p.m. | San Juan, Poinsettia, Cactus, Texas, Liberty; semifinals and title game |
+| 4 p.m. | 3 p.m. | 2 p.m. | 1 p.m. | Jan. 1 quarterfinal window |
+| 8 p.m. | 7 p.m. | 6 p.m. | 5 p.m. | Jan. 1 quarterfinal window |
 | 9 p.m. | 8 p.m. | 7 p.m. | 6 p.m. | Frisco Football Classic, Frisco Bowl, Alamo Bowl |
 
 On the West Coast the earliest listed kickoffs, the two 11 a.m. ET games and the 11:30 a.m. ET Gator Bowl, start at 8 a.m. and 8:30 a.m. PT. The latest listed start is 9 p.m. ET, 6 p.m. PT. The semifinals and national championship at 7:30 p.m. ET start at 4:30 p.m. PT.

@@ -3,7 +3,7 @@ title: "Elf on the Shelf 2026: Scout Elves Return Nov. 26 or Dec. 1"
 description: "When does Elf on the Shelf start in 2026? Most Scout Elves return Thanksgiving night, Nov. 26, or Dec. 1. See 29 nightly ideas and a free printable."
 type: explainer
 publishedAt: "2026-11-05T06:45:00-05:00"
-updatedAt: "2026-11-05T06:45:00-05:00"
+updatedAt: "2026-11-14T01:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["elf on the shelf ideas 2026", "when does elf on the shelf arrive 2026", "elf on the shelf calendar printable", "elf on the shelf countdown 2026"]
@@ -92,9 +92,11 @@ sources:
   - title: "November Elf Prep Checklist"
     url: "https://elfontheshelf.com/blog/november-elf-prep-checklist/"
     publisher: "The Elf on the Shelf"
+    date: "2026-11-14"
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
+    date: "2026-11-14"
   - title: "Home - The Lumistella Company"
     url: "https://lumistella.com/"
     publisher: "The Lumistella Company"
@@ -102,8 +104,9 @@ sources:
     url: "https://lumistella.com/en/who-we-are/"
     publisher: "The Lumistella Company"
   - title: "Elf Ideas"
-    url: "https://elfontheshelf.com/scout-elf-ideas-intro/"
+    url: "https://elfontheshelf.com/ideas-scout-elves/"
     publisher: "The Elf on the Shelf"
+    date: "2026-11-14"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -180,7 +183,7 @@ The ideas are our own: each takes under 5 minutes and uses things already in a h
 
 ## Where can you get the printable Elf on the Shelf idea calendar?
 
-The free one-page sheet lists all 29 nights with the date, both night counts and a tick box. T numbers count from Thanksgiving night and D numbers from Dec. 1, so a family on the Dec. 1 start reads the D column and ignores the five nights before it. It is plain text and boxes, with no drawing of the elf. For the official ideas, The Elf on the Shelf runs its own [Elf Ideas page](https://elfontheshelf.com/scout-elf-ideas-intro/); we link to it and do not copy it. If your family also counts down with doors, our [advent calendar 2026 dates and printables](/news/advent-calendar-2026-dates-free-printable/) story covers Dec. 1 to 24, and the [letters to Santa 2026 deadlines](/news/letters-to-santa-2026-usps-operation-santa-canada-post-deadlines/) story covers the mail dates.
+The free one-page sheet lists all 29 nights with the date, both night counts and a tick box. T numbers count from Thanksgiving night and D numbers from Dec. 1, so a family on the Dec. 1 start reads the D column and ignores the five nights before it. It is plain text and boxes, with no drawing of the elf. For the official ideas, The Elf on the Shelf runs its own [Elf Ideas page](https://elfontheshelf.com/ideas-scout-elves/); we link to it and do not copy it. If your family also counts down with doors, our [advent calendar 2026 dates and printables](/news/advent-calendar-2026-dates-free-printable/) story covers Dec. 1 to 24, and the [letters to Santa 2026 deadlines](/news/letters-to-santa-2026-usps-operation-santa-canada-post-deadlines/) story covers the mail dates.
 
 ## Who makes The Elf on the Shelf?
 

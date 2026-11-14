@@ -76,6 +76,7 @@ assets:
     subtitle: "Race Sat., Nov. 21, 2026 at 8 p.m. local (UTC-8). Local time is Pacific Standard Time."
     columns: ["Session", "Local and Eastern"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Thu., Nov. 19 · First practice", "4:30 p.m. PST / 7:30 p.m. EST"]
       - ["Thu., Nov. 19 · Second practice", "8 p.m. PST / 11 p.m. EST"]

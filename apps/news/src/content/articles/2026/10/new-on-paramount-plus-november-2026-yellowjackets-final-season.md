@@ -18,15 +18,17 @@ assets:
     title: "Paramount+ November 2026 Premiere Calendar"
     subtitle: "Dated premieres and the plan each one needs, from Paramount Press Express"
     layout: auto
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Fri., Nov. 6", "It Gets Worse: six episodes, Premium Plan"]
+      - ["Sat., Nov. 14", "Nickelodeon Kids' Choice Awards, 8 to 9:30 p.m. ET, CBS and Nickelodeon"]
       - ["Tue., Nov. 17", "He Said, She Said: Till Death Do Us Part: three parts"]
       - ["Fri., Nov. 20", "Yellowjackets: final season, Premium Plan"]
+      - ["Mon., Nov. 23", "Pillsbury Bake-Off Classic, 8 to 10 p.m. ET, CBS"]
       - ["Thu., Nov. 26", "The JLo Show on CBS, 8 to 10 p.m. ET/PT; live stream for Premium"]
+      - ["Fri., Nov. 27", "Soul Train Awards, 8 to 10 p.m. ET, CBS"]
     note: "Source: Paramount Press Express releases; paramountplus.com prices, checked Oct. 28, 2026. Dexter: Resurrection season 2 returns Fri., Oct. 30. Premium $13.99 a month, Essential $8.99 a month."
-    inkSaver: true
     description: "One-page Paramount+ November 2026 calendar with the dated premieres, the plan each needs and the Thanksgiving JLo Show time, from Paramount Press Express. Free to print."
-    alt: "Printable Paramount+ November 2026 month calendar with four premiere dates marked"
+    alt: "Printable Paramount+ November 2026 month calendar with six dated premieres and specials marked"
 hero:
   src: ../../../../assets/news/new-on-paramount-plus-november-2026-yellowjackets-final-season/new-on-paramount-plus-november-2026-yellowjackets-final-season.webp
   alt: "A hand holding a TV remote control, for the list of what is new on Paramount+ in November 2026"
@@ -95,17 +97,9 @@ downloads:
     title: "Paramount+ November 2026 Premiere Calendar"
     description: "One-page Paramount+ November 2026 calendar with the dated premieres, the plan each needs and the Thanksgiving JLo Show time, from Paramount Press Express. Free to print."
     preview: ../../../../assets/news/paramount-plus-november-2026/paramount-plus-november-2026-premiere-calendar.png
-    alt: "Printable Paramount+ November 2026 month calendar with four premiere dates marked"
+    alt: "Printable Paramount+ November 2026 month calendar with six dated premieres and specials marked"
     pdf: "/news/downloads/paramount-plus-november-2026/paramount-plus-november-2026-premiere-calendar.pdf"
     png: "/news/downloads/paramount-plus-november-2026/paramount-plus-november-2026-premiere-calendar.png"
-    pages: 1
-  - group: "Paramount+ November 2026 Premiere Calendar printables"
-    title: "Paramount+ November 2026 Premiere Calendar (ink saver)"
-    description: "One-page Paramount+ November 2026 calendar with the dated premieres, the plan each needs and the Thanksgiving JLo Show time, from Paramount Press Express. Free to print. Ink-saver version."
-    preview: ../../../../assets/news/paramount-plus-november-2026/paramount-plus-november-2026-premiere-calendar-ink.png
-    alt: "Printable Paramount+ November 2026 month calendar with four premiere dates marked, ink-saver version"
-    pdf: "/news/downloads/paramount-plus-november-2026/paramount-plus-november-2026-premiere-calendar-ink.pdf"
-    png: "/news/downloads/paramount-plus-november-2026/paramount-plus-november-2026-premiere-calendar-ink.png"
     pages: 1
 draft: false
 ---
@@ -155,7 +149,7 @@ Paramount has not published a full November 2026 list, so this covers only title
 
 ## Print the Paramount+ November 2026 premiere calendar
 
-The printable marks four November premiere dates on a one-page US Letter calendar with the plan for each, and its note carries the Dexter date of Oct. 30 and both prices as checked Oct. 28. Print it beside a [November 2026 printable calendar](/november-calendars.html) if you want room for your own watch nights. For other services, see [Apple TV for November 2026](/news/new-on-apple-tv-november-2026-release-dates/), [Hulu for November 2026](/news/new-on-hulu-november-2026-release-dates/) and [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/).
+The printable lists six dated November entries on a one-page US Letter calendar, from the Nov. 14 Kids' Choice Awards to the Nov. 27 Soul Train Awards, with the plan named for Yellowjackets and the live stream of The JLo Show. Its note carries the Dexter date of Oct. 30 and both prices as checked Oct. 28. Print it beside a [November 2026 printable calendar](/november-calendars.html) if you want room for your own watch nights. For other services, see [Apple TV for November 2026](/news/new-on-apple-tv-november-2026-release-dates/), [Hulu for November 2026](/news/new-on-hulu-november-2026-release-dates/) and [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/).
 
 ## How we keep this accurate
 

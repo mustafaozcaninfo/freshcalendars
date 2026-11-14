@@ -80,9 +80,9 @@ sources:
 downloads:
   - group: "India vs New Zealand 2026 Schedule in NZ Time and ET printables"
     title: "India vs New Zealand 2026 Schedule in NZ Time and ET"
-    description: "A one-page India vs New Zealand 2026 schedule with every T20I, ODI and Test, the venue, and start times in New Zealand time and Eastern Time."
+    description: "A one-page India vs New Zealand 2026 schedule with the fifth ODI and both Tests, the venue, and start times in New Zealand time and Eastern Time."
     preview: ../../../../assets/news/india-vs-new-zealand-2026/india-vs-new-zealand-2026-schedule-nz-time-et.png
-    alt: "India vs New Zealand 2026 schedule with 12 matches, venues and start times in New Zealand time and ET"
+    alt: "India vs New Zealand 2026 schedule with the fifth ODI and two Tests, venues and start times in New Zealand time and ET"
     pdf: "/news/downloads/india-vs-new-zealand-2026/india-vs-new-zealand-2026-schedule-nz-time-et.pdf"
     png: "/news/downloads/india-vs-new-zealand-2026/india-vs-new-zealand-2026-schedule-nz-time-et.png"
     pages: 1
@@ -95,31 +95,23 @@ related: [us-india-time-difference-after-november-1-2026-ist-10-5-hours, boxing-
 assets:
   overlay: true
   kicker: "India vs New Zealand · 2026"
-  date: "2026-11-04"
-  card: { top: "First ODI, Auckland", big: "9 p.m. ET", bottom: "Tue., Nov. 3 (Wed., Nov. 4 in NZ)" }
+  date: "2026-11-14"
+  card: { top: "India lead 2-1, fifth ODI", big: "9 p.m. ET", bottom: "Sat., Nov. 14 (Sun., Nov. 15 in NZ)" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: india-vs-new-zealand-2026-schedule-nz-time-et
     group: india-vs-new-zealand-2026
     title: "India vs New Zealand 2026 Schedule in NZ Time and ET"
-    subtitle: "Five T20Is, five ODIs and two Tests with start times in New Zealand time and Eastern Time."
+    subtitle: "Fifth ODI and two Tests, India lead the ODI series 2-1, with start times in New Zealand time and Eastern Time."
     columns: ["Match and date (NZ)", "Venue, NZ start and ET start"]
     layout: list
     rows:
-      - ["1st T20I, Thu., Oct. 22", "Hagley Oval, Christchurch · 8 p.m. NZ · 3 a.m. ET"]
-      - ["2nd T20I, Sat., Oct. 24", "Hagley Oval, Christchurch · 8 p.m. NZ · 3 a.m. ET"]
-      - ["3rd T20I, Tue., Oct. 27", "Hnry Stadium, Wellington · 8 p.m. NZ · 3 a.m. ET"]
-      - ["4th T20I, Fri., Oct. 30", "Eden Park, Auckland · 8 p.m. NZ · 3 a.m. ET"]
-      - ["5th T20I, Sun., Nov. 1", "Seddon Park, Hamilton · 8 p.m. NZ · 2 a.m. ET"]
-      - ["1st ODI, Wed., Nov. 4", "Eden Park, Auckland · 3 p.m. NZ · Tue., Nov. 3, 9 p.m. ET"]
-      - ["2nd ODI, Sat., Nov. 7", "Hnry Stadium, Wellington · 3 p.m. NZ · Fri., Nov. 6, 9 p.m. ET"]
-      - ["3rd ODI, Tue., Nov. 10", "Seddon Park, Hamilton · 3 p.m. NZ · Mon., Nov. 9, 9 p.m. ET"]
-      - ["4th ODI, Fri., Nov. 13", "Bay Oval, Mount Maunganui · 3 p.m. NZ · Thu., Nov. 12, 9 p.m. ET"]
       - ["5th ODI, Sun., Nov. 15", "Bay Oval, Mount Maunganui · 3 p.m. NZ · Sat., Nov. 14, 9 p.m. ET"]
       - ["1st Test, Thu., Nov. 19", "Basin Reserve, Wellington · 11 a.m. NZ · Wed., Nov. 18, 5 p.m. ET"]
       - ["2nd Test, Fri., Nov. 27", "Hagley Oval, Christchurch · 11 a.m. NZ · Thu., Nov. 26, 5 p.m. ET"]
     note: "Source: International Cricket Council (dates); NZ Cricket schedule release via Sportnation NZ (venues, local times); times converted to ET by Fresh Calendars."
-    description: "A one-page India vs New Zealand 2026 schedule with every T20I, ODI and Test, the venue, and start times in New Zealand time and Eastern Time."
-    alt: "India vs New Zealand 2026 schedule with 12 matches, venues and start times in New Zealand time and ET"
+    description: "A one-page India vs New Zealand 2026 schedule with the fifth ODI and both Tests, the venue, and start times in New Zealand time and Eastern Time."
+    alt: "India vs New Zealand 2026 schedule with the fifth ODI and two Tests, venues and start times in New Zealand time and ET"
 draft: false
 ---
 
@@ -173,7 +165,7 @@ Those offsets shift the calendar date for North American readers. An ODI startin
 
 The second Test therefore starts on Thanksgiving Day in the United States. Two Indian newsrooms, Khel Now and the Free Press Journal, report 12:30 p.m. IST for the T20Is and 7:30 a.m. IST for the ODIs, which matches this conversion.
 
-The first four T20Is were played before U.S. clocks changed, so their ET times were 3 a.m. on the New Zealand date. They are in the printable below.
+The first four T20Is were played before U.S. clocks changed, so their ET times were 3 a.m. on the New Zealand date. The printable below leaves them out and holds only the matches still to play.
 
 ## India vs New Zealand squads for the Tests
 
@@ -191,4 +183,4 @@ For another schedule converted to U.S., U.K. and Canadian times, see the [Women'
 
 ## Free India vs New Zealand 2026 schedule printable
 
-The one-page printable lists all 12 matches with the venue, the New Zealand start and the ET start, including the date shift. Its source note names the ICC for dates and NZC's schedule release for venues and local times. The ICC page also says Sri Lanka visits New Zealand in December.
+The one-page printable lists the three matches still to play (the fifth ODI and both Tests) with the venue, the New Zealand start and the ET start, including the date shift. Its source note names the ICC for dates and NZC's schedule release for venues and local times. The ICC page also says Sri Lanka visits New Zealand in December.

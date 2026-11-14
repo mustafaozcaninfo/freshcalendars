@@ -34,9 +34,9 @@ faq:
 downloads:
   - group: "Free Parking Holidays 2026 printables"
     title: "Free Parking Holidays 2026: Meter Rules by City"
-    description: "One page showing which of 12 U.S. cities leave parking meters free on Veterans Day, Thanksgiving, Christmas and New Year's Day 2026-27."
+    description: "One page showing which of 12 U.S. cities leave parking meters free on Thanksgiving, the day after, Christmas and New Year's Day 2026-27."
     preview: ../../../../assets/news/free-parking-holidays-2026/free-parking-holidays-meter-rules-2026.png
-    alt: "Printable grid of 12 cities' parking meter rules for Veterans Day, Thanksgiving, Christmas and New Year's Day 2026-27."
+    alt: "Printable grid of 12 cities' parking meter rules for Thanksgiving, the day after, Christmas and New Year's Day 2026-27."
     pdf: "/news/downloads/free-parking-holidays-2026/free-parking-holidays-meter-rules-2026.pdf"
     png: "/news/downloads/free-parking-holidays-2026/free-parking-holidays-meter-rules-2026.png"
     pages: 1
@@ -112,21 +112,14 @@ assets:
     slug: free-parking-holidays-meter-rules-2026
     group: free-parking-holidays-2026
     title: "Free Parking Holidays 2026: Meter Rules by City"
-    subtitle: "Which of 12 cities leave meters free on four holidays"
+    subtitle: "Which of 12 cities leave meters free on Thanksgiving, Christmas and New Year's Day"
     note: "Source: city and agency parking pages for San Francisco (SFMTA), Washington, D.C. (DDOT), Philadelphia (PPA), New York City (DOT), Boston, Denver, Seattle (SDOT), Austin, Baltimore, Portland (PBOT), San Diego and Minneapolis, read Nov. 9 to 13, 2026."
-    description: "One page showing which of 12 U.S. cities leave parking meters free on Veterans Day, Thanksgiving, Christmas and New Year's Day 2026-27."
-    alt: "Printable grid of 12 cities' parking meter rules for Veterans Day, Thanksgiving, Christmas and New Year's Day 2026-27."
+    description: "One page showing which of 12 U.S. cities leave parking meters free on Thanksgiving, the day after, Christmas and New Year's Day 2026-27."
+    alt: "Printable grid of 12 cities' parking meter rules for Thanksgiving, the day after, Christmas and New Year's Day 2026-27."
     data:
       target: { date: "2027-01-01", label: "New Year's Day" }
       columns: ["Meters free", "Meters enforced", "Not on list or not posted"]
       rows:
-        - date: "2026-11-11"
-          src: 1
-          quote: "Veterans Day (Wednesday, November 11, 2026)"
-          cells:
-            "Meters free": "Boston, D.C., Denver, Minneapolis, Portland, San Diego, Seattle"
-            "Meters enforced": { text: "San Francisco", src: 1 }
-            "Not on list or not posted": "Austin, Baltimore, New York City, Philadelphia"
         - date: "2026-11-26"
           src: 13
           quote: "Thursday, November 26, 2026"

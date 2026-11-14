@@ -21,12 +21,10 @@ assets:
     layout: list
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Sun., Nov. 1", "Men's pool, Tonga v Samoa, Sydney: 9:05am GMT / 4:05 a.m. ET / 1:05 a.m. PT. Tonga won 20-18."]
       - ["Sat., Nov. 7", "Women's semi-final 1, New Zealand v Samoa, Newcastle: 6:45am GMT / 1:45 a.m. ET / 10:45 p.m. PT (Fri.). New Zealand won 32-0."]
       - ["Sat., Nov. 7", "Men's semi-final 1, New Zealand v Tonga, Newcastle: 9:05am GMT / 4:05 a.m. ET / 1:05 a.m. PT. New Zealand won 34-10."]
       - ["Sun., Nov. 8", "Women's semi-final 2, Australia v Fiji, Sydney: 6:45am GMT / 1:45 a.m. ET / 10:45 p.m. PT (Sat.). Australia won 30-14."]
       - ["Sun., Nov. 8", "Men's semi-final 2, Australia v Samoa, Sydney: 9:05am GMT / 4:05 a.m. ET / 1:05 a.m. PT. Australia won 44-12."]
-      - ["Tue., Nov. 10", "Wheelchair semi-finals, Wollongong: England beat Australia 86-18, France beat Ireland 82-26"]
       - ["Fri., Nov. 13", "Wheelchair final, England v France, Wollongong: 8:45am GMT / 3:45 a.m. ET. England won 50-38."]
       - ["Sun., Nov. 15", "Women's final, Australia v New Zealand, Suncorp Stadium, Brisbane: 5:10am GMT / 12:10 a.m. ET / 9:10 p.m. PT (Sat.)"]
       - ["Sun., Nov. 15", "Men's final, Australia v New Zealand, Suncorp Stadium, Brisbane: 8:35am GMT / 3:35 a.m. ET / 12:35 a.m. PT"]
@@ -216,4 +214,4 @@ The IRL says Brisbane's Suncorp Stadium hosts the men's and women's finals on Su
 
 ## Is there a printable Rugby League World Cup 2026 knockout schedule?
 
-Yes. The one-page sheet lists the Tonga v Samoa game, both semi-finals for the men and women, the wheelchair results and both finals with GMT, Eastern and Pacific times.
+Yes. The one-page sheet lists both semi-finals for the men and women, the wheelchair final result and both finals with GMT, Eastern and Pacific times.

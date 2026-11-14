@@ -3,7 +3,7 @@ title: "Panera Holiday Menu 2026: Peppermint White Mocha, Snowman Cup Dec. 3"
 description: "Panera's 2026 holiday menu arrived the week of Nov. 5 with Peppermint and Pistachio White Mochas; on Dec. 3 the first 12 in-cafe $25 buyers get a free cup."
 type: news
 publishedAt: "2026-11-05T23:30:00-05:00"
-updatedAt: "2026-11-05T23:30:00-05:00"
+updatedAt: "2026-11-14T01:15:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["panera holiday menu 2026", "panera peppermint white mocha", "panera snowman cup 2026", "peet's holiday menu 2026"]
@@ -19,7 +19,7 @@ assets:
     group: panera-holiday-2026
     title: "Panera Holiday Menu 2026: Items and Free Snowman Cup Rules"
     subtitle: "New and returning items, plus the Dec. 3, 2026 free cup checklist"
-    note: "Source: Panera Bread press release, Panera Celebrates the Season's Perfectly Imperfect Moments with Cozy Holiday Menu Drop and New Collectible Snowman Cups, Nov. 5, 2026. Peet's Coffee 2026 holiday items: launch date not yet announced."
+    note: "Source: Panera Bread press release, Panera Celebrates the Season's Perfectly Imperfect Moments with Cozy Holiday Menu Drop and New Collectible Snowman Cups, Nov. 5, 2026. Peet's Coffee 2026 holiday menu began Nov. 4, 2026."
     description: "One-page Panera 2026 holiday menu checklist: each drink and bakery item with its forms, new or returning, plus the Dec. 3 free Snowman Cup rules."
     alt: "Printable checklist of the Panera holiday menu 2026 with each item, whether it is new or returning, its forms and the Dec. 3 free Snowman Cup rules"
     data:
@@ -37,10 +37,10 @@ assets:
         - { cells: { item: "Purchase of $25 or more at the cashier, in the cafe", status: "Rule", forms: "In-cafe purchase at the cashier" }, src: 1, quote: "On December 3, 2026 only, the first 12 customers that make an in-cafe purchase at the cashier of $25 or more" }
         - { cells: { item: "First 12 customers; 12 cups per participating cafe", status: "Rule", forms: "While supplies last" }, src: 1, quote: "Supplies are limited to 12 cups per participating cafe." }
         - { cells: { item: "Limit one per person", status: "Rule", forms: "Not valid with any other coupon or offer" }, src: 1, quote: "Limit one per person." }
-      note: "Peet's Coffee 2026 holiday launch date and advent calendar: not yet announced."
+      note: "Peet's Coffee 2026 holiday menu began Nov. 4, 2026; its release names no advent calendar."
       unconfirmed:
         - { label: "Panera holiday menu end date and drink prices", why: "The Nov. 5, 2026 release gives neither" }
-        - { label: "Peet's Coffee 2026 holiday menu launch date and advent calendar", why: "Not yet announced on peets.com as of Nov. 6, 2026" }
+        - { label: "Peet's Coffee 2026 advent calendar", why: "Peet's Nov. 4, 2026 release does not mention one" }
 hero:
   src: ../../../../assets/news/panera-holiday-menu-2026-peppermint-pistachio-white-mocha-snowman-cup/panera-holiday-menu-2026-peppermint-pistachio-white-mocha-snowman-cup.webp
   alt: "Snowy Panera Bread cafe exterior in Lockport, Illinois, for the Panera holiday menu 2026"
@@ -56,7 +56,7 @@ summary:
   - "Panera Bread's holiday menu arrived the week of Nov. 5, 2026 at bakery-cafes nationwide, per its Nov. 5 press release."
   - "New are the Peppermint White Mocha and Pistachio White Mocha (latte, iced coffee and Frozen Java) and the Cocoa Marshmallow Cake Slice; the Mitten Cookie returns."
   - "On Thursday, Dec. 3, 2026 only, the first 12 customers who spend $25 or more in a cafe at the cashier get a free Snowman Cup, one per person."
-  - "Peet's Coffee has not announced its 2026 holiday launch date or advent calendar."
+  - "Peet's Coffee began its 2026 holiday menu Nov. 4, 2026, and its release names no advent calendar."
 faq:
   - q: "When does the Panera holiday menu start in 2026?"
     a: "Panera's Nov. 5, 2026 release says the menu is available starting this week at bakery-cafes nationwide. It gives no exact start day and no end date."
@@ -67,7 +67,7 @@ faq:
   - q: "Does the free Snowman Cup need a MyPanera membership?"
     a: "The release names no membership requirement. It lists the in-cafe $25 purchase, the first-12 limit, one per person and no combining with other coupons or offers."
   - q: "When does the Peet's Coffee holiday menu start in 2026?"
-    a: "Peet's has not announced a 2026 launch date. Last year, in 2025, its holiday menu began Nov. 6."
+    a: "Peet's holiday menu and seasonal offerings began Nov. 4, 2026, at participating coffeebars nationwide and in the Peetnik Rewards app. Last year, in 2025, it began Nov. 6."
 sources:
   - title: "Panera Celebrates the Season's Perfectly Imperfect Moments with Cozy Holiday Menu Drop and New Collectible Snowman Cups"
     url: "https://www.panerabread.com/en-us/press/press-room/panera-celebrates-the-seasons-perfectly-imperfect-moments-with-cozy-holiday-menu-drop-and-new-collectible-snowman-cups.html"
@@ -76,11 +76,23 @@ sources:
   - title: "Peet's Coffee holiday page"
     url: "https://www.peets.com/pages/holiday"
     publisher: "Peet's Coffee"
-    date: "2026-11-05"
+    date: "2026-11-14"
   - title: "Peet's Coffee newsroom (lists the Nov. 6, 2025 PR Newswire release, Peet's Coffee Celebrates the Holidays with New Festive Menu and Its First-Ever Coffee Advent Calendar)"
     url: "https://www.peets.com/pages/newsroom"
     publisher: "Peet's Coffee"
+    date: "2026-11-14"
+  - title: "Peet's Coffee Introduces Holiday Blend and Seasonal Menu for 2026"
+    url: "https://www.foodinfotech.com/peets-coffee-introduces-holiday-blend-and-seasonal-menu-for-2026/"
+    publisher: "Food Info Tech"
     date: "2026-11-05"
+  - title: "Peet's Coffee launches the holiday season with new flavours, flare and fun"
+    url: "https://www.teaandcoffee.net/news/40429/peets-coffee-launches-the-season-with-new-flavours-flare-and-fun/"
+    publisher: "Tea & Coffee Trade Journal"
+    date: "2026-11-05"
+  - title: "Get ready for some holiday sparkle"
+    url: "https://www.restaurantbusinessonline.com/food/get-ready-some-holiday-sparkle"
+    publisher: "Restaurant Business"
+    date: "2026-11-09"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -136,10 +148,12 @@ The Snowman Cups are limited-edition glass cups sold in mystery boxes. Each box 
 
 ## Peet's Coffee holiday menu 2026: what is known
 
-Peet's Coffee has not announced a 2026 holiday launch date or an advent calendar. Its holiday page at peets.com shows the 2026 Holiday Blend and holiday drinks: Peppermint Mocha, Iced Peppermint Mocha, Holiday Spice Latte, Iced Holiday Spice Latte and an Iced Peppermint Bark Matcha. The page lists no launch date or prices, and the Peet's newsroom had no 2026 holiday release as of Nov. 6, 2026.
+Peet's Coffee began its 2026 holiday menu on Nov. 4, 2026. Its press release, carried by [Food Info Tech](https://www.foodinfotech.com/peets-coffee-introduces-holiday-blend-and-seasonal-menu-for-2026/) and the [Tea & Coffee Trade Journal](https://www.teaandcoffee.net/news/40429/peets-coffee-launches-the-season-with-new-flavours-flare-and-fun/), says the holiday menu and seasonal offerings are available for a limited time at participating coffeebars nationwide and through the Peetnik Rewards app.
 
-Last year is the only dated reference. In 2025, a Nov. 6 release on PR Newswire, listed on the Peet's newsroom, said the holiday menu was available starting that day at coffeebars nationwide. It also introduced the "12 Days of Peet's Advent Calendar," which retailed for $79.95 at Peets.com and coffeebars. Treat those as 2025 facts until Peet's publishes 2026 details.
+The new and seasonal drinks are the Peppermint Bark Matcha, Peppermint Mocha and Holiday Spice Latte (the last two hot or iced). [Restaurant Business](https://www.restaurantbusinessonline.com/food/get-ready-some-holiday-sparkle) adds a Sparkling Black Cherry Energy, an Iced Gingerbread Loaf and a Mini Apple-Cran Queen Croissant. The 2026 Holiday Blend returns, and a "Home for the Holidays" giveaway runs on holiday packaging.
+
+The 2026 release does not mention an advent calendar. Last year, on Nov. 6, 2025, Peet's release introduced the "12 Days of Peet's Advent Calendar," which retailed for $79.95 at Peets.com and coffeebars. Treat that as a 2025 fact.
 
 ## Print the Panera holiday menu checklist
 
-The free printable lists each Panera item with its forms, whether it is new or returning, and the Dec. 3 free cup rules as a checklist, with Peet's 2026 listed as not yet announced. It is one US Letter page with no Panera logos. Mark Dec. 3 on a [December 2026 calendar](/december-calendars.html), or print a [November 2026 calendar](/november-calendars.html) to track your visits.
+The free printable lists each Panera item with its forms, whether it is new or returning, and the Dec. 3 free cup rules as a checklist, with the Peet's 2026 launch date. It is one US Letter page with no Panera logos. Mark Dec. 3 on a [December 2026 calendar](/december-calendars.html), or print a [November 2026 calendar](/november-calendars.html) to track your visits.

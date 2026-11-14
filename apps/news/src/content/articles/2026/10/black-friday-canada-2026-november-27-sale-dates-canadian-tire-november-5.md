@@ -10,19 +10,11 @@ keywords: ["black friday canada 2026", "when is black friday 2026 canada", "blac
 downloads:
   - group: "Black Friday Canada 2026 Planner printables"
     title: "Black Friday Canada 2026 Planner"
-    description: "One-page Black Friday Canada 2026 planner with sale dates, Canada Post holiday deadlines and a deal check."
+    description: "One-page Black Friday Canada 2026 planner with Canadian Tire and Amazon.ca sale dates, Canada Post holiday deadlines and a deal check."
     preview: ../../../../assets/news/black-friday-2026/black-friday-canada-2026-planner.png
     alt: "Printable Black Friday Canada 2026 planner with sale dates, Canada Post deadlines and a deal check"
     pdf: "/news/downloads/black-friday-2026/black-friday-canada-2026-planner.pdf"
     png: "/news/downloads/black-friday-2026/black-friday-canada-2026-planner.png"
-    pages: 1
-  - group: "Black Friday Canada 2026 Planner printables"
-    title: "Black Friday Canada 2026 Planner (ink saver)"
-    description: "One-page Black Friday Canada 2026 planner with sale dates, Canada Post holiday deadlines and a deal check. Ink-saver version."
-    preview: ../../../../assets/news/black-friday-2026/black-friday-canada-2026-planner-ink.png
-    alt: "Printable Black Friday Canada 2026 planner with sale dates, Canada Post deadlines and a deal check, ink-saver version"
-    pdf: "/news/downloads/black-friday-2026/black-friday-canada-2026-planner-ink.pdf"
-    png: "/news/downloads/black-friday-2026/black-friday-canada-2026-planner-ink.png"
     pages: 1
 hero:
   src: ../../../../assets/news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5.webp
@@ -115,18 +107,18 @@ assets:
     subtitle: "Sale dates, Canada Post deadlines and a deal check"
     layout: checklist
     rows:
-      - { when: "Now", what: "Canadian Tire early deals (Week 1) live", section: "Sale dates" }
+      - { when: "Thu., Nov. 5", what: "Canadian Tire early deals (Week 1) start; no end date posted", section: "Sale dates" }
+      - { when: "Thu., Nov. 19", what: "Amazon.ca Black Friday Week starts", section: "Sale dates" }
       - { when: "Fri., Nov. 27", what: "Black Friday", section: "Sale dates" }
-      - { when: "Mon., Nov. 30", what: "Cyber Monday", section: "Sale dates" }
+      - { when: "Mon., Nov. 30", what: "Cyber Monday; Amazon.ca Black Friday Week ends", section: "Sale dates" }
       - { when: "Thu., Dec. 10", what: "Canada Post Regular Parcel, national deadline", section: "Canada Post" }
       - { when: "Mon., Dec. 14", what: "Canada Post Expedited Parcel, national deadline", section: "Canada Post" }
       - { when: "Fri., Dec. 18", what: "Canada Post cards, national deadline", section: "Canada Post" }
       - { when: "Tue., Dec. 22", what: "Canada Post Xpresspost, national deadline", section: "Canada Post" }
       - { when: "", what: "Compare the regular price history before you buy", section: "Deal check" }
       - { when: "", what: "Keep receipts and order confirmations", section: "Deal check" }
-    note: "Source: Canadian Tire; Competition Bureau Canada; Canada Post."
-    inkSaver: true
-    description: "One-page Black Friday Canada 2026 planner with sale dates, Canada Post holiday deadlines and a deal check."
+    note: "Source: Canadian Tire (page read Nov. 3); Amazon Canada, Nov. 10; Competition Bureau Canada; Canada Post. Checked Nov. 13, 2026."
+    description: "One-page Black Friday Canada 2026 planner with Canadian Tire and Amazon.ca sale dates, Canada Post holiday deadlines and a deal check."
     alt: "Printable Black Friday Canada 2026 planner with sale dates, Canada Post deadlines and a deal check"
 ---
 

@@ -31,7 +31,7 @@ assets:
       - ["Thu., Nov. 26", "Thanksgiving Day"]
       - ["Thu., Nov. 26 and Fri., Nov. 27", "ESPN Events Invitational, Magic Group, Kissimmee: Boston College, UCF, Cincinnati, Georgia"]
       - ["Thu., Nov. 26 and Fri., Nov. 27", "Rady Children's Invitational, University of San Diego: UCLA, Georgetown, Saint Mary's, Texas"]
-    note: "Source: tournament and school athletics releases and ESPN Press Room (May to July 2026). Tip times not yet announced are left out."
+    note: "Source: tournament and school athletics releases and ESPN Press Room (May to Nov. 13, 2026). Tip times not yet announced are left out."
     description: "A one-page Feast Week 2026 college basketball calendar with seven Thanksgiving-week tournaments, Nov. 17 to Nov. 28, their venues and confirmed teams."
     alt: "Printable Feast Week 2026 college basketball tournament calendar listing dates, venues and teams for Maui, Atlantis, Players Era and more"
 hero:

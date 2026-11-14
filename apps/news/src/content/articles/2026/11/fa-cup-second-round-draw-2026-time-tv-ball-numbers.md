@@ -172,4 +172,4 @@ The third round draw takes place before the Guiseley v Notts County tie on Monda
 
 ## Print the FA Cup draw sheet
 
-The free printable lists the Nov. 9 draw with its channels, the Dec. 5 weekend and what The FA had not confirmed before the draw, with days counted to the ties.
+The free printable lists the 20 ties on the weekend of Saturday, Dec. 5, the eight shown live on TNT Sports and HBO Max, Guiseley v Notts County and the third round draw on Monday, Dec. 7, and what The FA has not confirmed (the draw time), with days counted to Dec. 7. It has no kick-off times, so use the table above.
