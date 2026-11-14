@@ -3,6 +3,7 @@ title: "Black Friday 2026 Price Match: Only Best Buy Matches Rivals"
 description: "Black Friday 2026 price match: only Best Buy matches a competitor, and it excludes Black Friday pricing. Walmart and Target match only their own prices."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
+updatedAt: "2026-11-14T15:31:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["black friday price match 2026", "does best buy price match black friday", "does walmart price match", "target price match policy"]
@@ -63,7 +64,7 @@ summary:
   - "Of Target, Walmart and Best Buy, only Best Buy matches a competitor's price; Walmart says it does not match competitors' online or in-store prices, and Target matches only its own prices."
   - "Best Buy's policy, effective Oct. 30, 2026, excludes Black Friday pricing and items at a Qualified Competitor from the Thursday before Thanksgiving through the Monday after."
   - "Walmart's policy excludes Black Friday and Cyber Monday deals from its own-price matching; Target does not accept screenshots or pictures as proof."
-  - "Amazon's price matching page returned an error when we checked on Oct. 30, 2026, so its current terms are not confirmed."
+  - "Amazon's help page, read Nov. 14, 2026, says it does not offer price matching compensation. Target's holiday window runs Nov. 1 to Dec. 24, 2026."
 faq:
   - q: "Does Best Buy price match on Black Friday?"
     a: "Not for Black Friday pricing. Best Buy's Price Match Guarantee excludes items denoted as Black Friday pricing and items for sale at a Qualified Competitor from the Thursday before Thanksgiving through the Monday after Thanksgiving."
@@ -72,7 +73,7 @@ faq:
   - q: "Does Target match Amazon or other stores?"
     a: "No. Target's page says an item's price must be validated by a team member on Target.com or Target's digital ad, so it does not match competitors."
   - q: "Does Amazon price match?"
-    a: "We could not confirm. Amazon's Price Matching help page returned an error on Oct. 30, 2026."
+    a: "No. Amazon's Pricing and Price Matching help page, read Nov. 14, 2026, says: \"we don't offer price matching compensation.\""
 sources:
   - title: "Price Match Guarantee"
     url: "https://www.bestbuy.com/site/help-topics/price-match-guarantee/pcmcat290300050002.c?id=pcmcat290300050002"
@@ -81,11 +82,15 @@ sources:
   - title: "Walmart Price Match Policy"
     url: "https://corporate.walmart.com/policies"
     publisher: "Walmart"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Price Match Guarantee"
     url: "https://www.target.com/help/articles/policies-guidelines/price-match-guarantee"
     publisher: "Target"
-    date: "2026-10-30"
+    date: "2026-11-14"
+  - title: "Pricing and Price Matching"
+    url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=G9EAYKPV5YYDB8P7"
+    publisher: "Amazon"
+    date: "2026-11-14"
   - title: "Target help article on price matching"
     url: "https://www.target.com/help/article/000062256"
     publisher: "Target"
@@ -101,7 +106,7 @@ related: [black-friday-2026-ad-tracker-walmart-target-best-buy, black-friday-202
 draft: false
 ---
 
-Of Target, Walmart and Best Buy, only Best Buy matches a competitor's price, and its [Price Match Guarantee](https://www.bestbuy.com/site/help-topics/price-match-guarantee/pcmcat290300050002.c?id=pcmcat290300050002), effective Oct. 30, 2026, excludes Black Friday pricing and competitor prices from the Thursday before Thanksgiving through the Monday after. Walmart and Target match only their own prices. We read each policy on the retailer's own site on Oct. 30, 2026; Amazon's page would not load.
+Of Target, Walmart and Best Buy, only Best Buy matches a competitor's price, and its [Price Match Guarantee](https://www.bestbuy.com/site/help-topics/price-match-guarantee/pcmcat290300050002.c?id=pcmcat290300050002), effective Oct. 30, 2026, excludes Black Friday pricing and competitor prices from the Thursday before Thanksgiving through the Monday after. Walmart and Target match only their own prices. We read the Best Buy policy on the retailer's own site on Oct. 30, 2026, and the Walmart, Target and Amazon pages again on Nov. 14, 2026. Amazon says it does not offer price matching compensation.
 
 This story covers matching a rival's lower price before or at purchase. For refunds of the difference after you buy, see the [post-purchase price adjustment policies](/news/black-friday-2026-price-adjustment-policies/). Black Friday is Fri., Nov. 27, 2026; see [when is Black Friday](/when-is/black-friday/) and [Cyber Monday](/when-is/cyber-monday/), Mon., Nov. 30.
 
@@ -112,7 +117,7 @@ This story covers matching a rival's lower price before or at purchase. For refu
 | Best Buy | Yes, Qualified Competitors | Excludes Black Friday pricing and competitor items from the Thursday before Thanksgiving through the Monday after | Chat, 1-888-237-8289 or any employee in store |
 | Walmart | No | Special events including Black Friday and Cyber Monday deals are not matched | At checkout |
 | Target | No | Not stated for competitors; it matches its own prices | At checkout or Guest Services |
-| Amazon | Not confirmed | Not confirmed | Help page returned an error Oct. 30, 2026 |
+| Amazon | No | Not applicable | Its help page says it does not offer price matching compensation |
 
 Policy pages: [Best Buy](https://www.bestbuy.com/site/help-topics/price-match-guarantee/pcmcat290300050002.c?id=pcmcat290300050002), [Walmart](https://corporate.walmart.com/policies), [Target](https://www.target.com/help/articles/policies-guidelines/price-match-guarantee).
 
@@ -138,11 +143,11 @@ No. Target's [Price Match Guarantee](https://www.target.com/help/articles/polici
 
 Target lists these as not matched: a lower price at a different Target store, items with a promotional Target GiftCard, Registry completion coupons and other Target coupons, Target Circle Bonuses, clearance, closeout, liquidation, refurbished or typographical-error prices, and Target Plus items. Target.com matches are not available in Alaska and Hawaii, and "other exclusions may apply."
 
-Ask at checkout or at Guest Services. Target says screenshots or pictures cannot be accepted, so have the digital ad, Target.com or the Target App ready. The phone line is 1-800-591-3869. Target's early deal dates and its Holiday Price Match window are in our [Target Black Friday 2026](/news/target-black-friday-2026-early-sale-november-5-7-price-match-dates/) guide.
+Target's page, read Nov. 14, 2026, says that if you buy between Nov. 1 and Dec. 24, 2026 and the Target price drops, you can request a match, with proof of purchase. Ask at checkout or at Guest Services. Target says screenshots or pictures cannot be accepted, so have the digital ad, Target.com or the Target App ready. The phone line is 1-800-591-3869. Target's early deal dates and its Holiday Price Match window are in our [Target Black Friday 2026](/news/target-black-friday-2026-early-sale-november-5-7-price-match-dates/) guide.
 
-## What about Amazon's price matching?
+## Does Amazon price match?
 
-Amazon's [Price Matching help page](https://www.amazon.com/gp/help/customer/display.html?nodeId=G9EAYKPV5YYDB8P7) returned a 503 error when we checked on Oct. 30, 2026. Its current terms are not confirmed, so this story makes no claim about them.
+Amazon's [Pricing and Price Matching help page](https://www.amazon.com/gp/help/customer/display.html?nodeId=G9EAYKPV5YYDB8P7) loaded on Nov. 14, 2026. It says Amazon works to keep prices competitive and, "As a result, we don't offer price matching compensation." It had returned a 503 error when we checked on Oct. 30, 2026.
 
 ## What counts as an identical item?
 

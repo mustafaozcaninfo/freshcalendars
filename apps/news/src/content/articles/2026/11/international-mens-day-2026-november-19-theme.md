@@ -3,7 +3,7 @@ title: "International Men's Day 2026: Thu., Nov. 19, Global and UK Themes"
 description: "International Men's Day is Thu., Nov. 19, 2026. The global theme is The Future is Everyone, and British organisers chose Supporting Men and Boys."
 type: explainer
 publishedAt: "2026-11-06T12:40:00-05:00"
-updatedAt: "2026-11-06T12:40:00-05:00"
+updatedAt: "2026-11-14T15:31:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["international men's day 2026", "international men's day 2026 theme", "when is international men's day 2026", "international men's day uk 2026"]
@@ -84,24 +84,24 @@ faq:
   - q: "Do events have to be on November 19?"
     a: "No. The UK site says many organisations and people hold events in the week before and the week after, and asks people not to be constrained by the day of the week."
   - q: "How do I list an event in the UK?"
-    a: "The UK site says events can be listed by emailing the team. Its home page lists events from Nov. 11 to Nov. 19."
+    a: "The UK site says events can be listed by emailing the team. Its events calendar lists events from Nov. 17 to Nov. 19."
 sources:
   - title: "International Mens Day - The Official Site"
     url: "https://internationalmensday.com/"
     publisher: "International Men's Day (global organiser)"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "International Men's Day theme"
     url: "https://internationalmensday.com/theme"
     publisher: "International Men's Day (global organiser)"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "The official website for International Men's Day in the UK"
     url: "https://ukmensday.org.uk/"
     publisher: "Association for Male Health and Wellbeing"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "2026 Theme | International Men's Day (UK)"
     url: "https://ukmensday.org.uk/2026-theme/"
     publisher: "Association for Male Health and Wellbeing"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Men's Health Strategy for England"
     url: "https://www.gov.uk/government/publications/mens-health-strategy-for-england"
     publisher: "GOV.UK"
@@ -177,14 +177,13 @@ The free printable checklist turns these steps into tick boxes, with the global 
 
 ## Which UK events does the organiser list?
 
-The UK home page lists the events below. It also lists a Nov. 14 men's conference that we leave out because the listing gives its name only as an abbreviation. Check each event's own page for times and booking.
+The UK events calendar lists the events below, from Nov. 17 to Nov. 19. Check each event's own page for times and booking.
 
 | Date | Event as listed by the UK organiser |
 |---|---|
-| Nov. 11 | Working Dads Summit |
 | Nov. 17 | ManKind Initiative Annual Conference |
 | Nov. 18 | OurCoop Men's Voices 2026; Teen Boys Conference; Bath Rugby Foundation Lunch; "In Conversation with Louis Theroux" at King's College London (KCL) |
-| Nov. 19 | Events in Cumbria; a South Yorkshire Police, Fire and Ambulance event; Future Men Conference |
+| Nov. 19 | Cumbria event led by Britain's Energy Coast Business Cluster; South Yorkshire Police, Fire and Ambulance Event; Future Men Conference: Who is Raising our Boys?; Stoke-on-Trent Industrial Walk; What About The Boys 2026 |
 
 ## Is there a UK government strategy?
 

@@ -35,7 +35,7 @@ assets:
       - ["Wed., Dec. 23", "Priority, all three zones; Xpresspost, Local Zone"]
       - ["Fri., Dec. 25", "Christmas Day: no collection or delivery"]
       - ["Mon., Dec. 28", "Boxing Day observed: no collection or delivery"]
-    note: "Source: Canada Post, Plan your holiday sending, Santa letter program and holiday schedule, checked Nov. 10, 2026. Dates are between major urban centres and depend on origin and destination; some restrictions apply."
+    note: "Source: Canada Post, Plan your holiday sending, Santa letter program and holiday schedule, checked Nov. 14, 2026. Dates are between major urban centres and depend on origin and destination; some restrictions apply."
     description: "One-page printable of Canada Post's 2026 Christmas send-by dates for parcels and cards, with the Santa letter date, earliest to latest."
     alt: "Printable list of Canada Post 2026 Christmas send-by dates from Dec. 3 to Dec. 23, with Christmas Day and Boxing Day closures"
 hero:
@@ -97,7 +97,7 @@ draft: false
 
 **Canada Post's first 2026 Christmas send-by date is Thursday, Dec. 3**, for Tracked Packet or Small Packet to Africa and to Central and South America and the Caribbean, and for cards to those regions. Letters to Santa have to go by **Wednesday, Dec. 9**, and Priority parcels within Canada by **Wednesday, Dec. 23**, according to Canada Post's "Plan your holiday sending" page.
 
-<p class="callout"><b>Checked Nov. 10, 2026.</b> Dates below come from the three Canada Post pages listed under sources. Canada Post says its dates are between major urban centres, depend on origin and destination, and that some restrictions apply.</p>
+Every date below comes from the three Canada Post pages listed under sources. Canada Post says its dates are between major urban centres, depend on origin and destination, and that some restrictions apply.
 
 ## What are all the Canada Post Christmas deadlines, earliest to latest?
 
@@ -180,4 +180,4 @@ Canada Post's holiday schedule page does not give hours for Dec. 24 or Dec. 31 i
 
 ## Free printable send-by checklist
 
-The one-page printable lists the same dates sorted earliest to latest, with Christmas Day and Boxing Day closures at the bottom and a Done column to tick. An ink-saver version is included. Our [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/) cover the American side if you are shipping within the United States.
+The one-page printable lists the same dates sorted earliest to latest, with Christmas Day and Boxing Day closures at the bottom and a Done column to tick. Our [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/) cover the American side if you are shipping within the United States.

@@ -3,7 +3,7 @@ title: "Qatar Grand Prix 2026: Race Nov. 29 at 11 a.m. ET, Every Session"
 description: "The Qatar Grand Prix 2026 race is Sunday, Nov. 29, at 11 a.m. ET, 7 p.m. local time. Every session in U.S. time zones and GMT, plus a printable schedule."
 type: news
 publishedAt: "2026-10-27T19:44:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T15:31:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Qatar Grand Prix 2026 time", "Qatar GP 2026 schedule", "F1 Qatar race time ET", "Qatar Grand Prix 2026 how to watch"]
@@ -42,6 +42,7 @@ sources:
   - title: "Qatar Grand Prix 2026 - F1 Race"
     url: "https://www.formula1.com/en/racing/2026/qatar"
     publisher: "Formula 1"
+    date: "2026-11-14"
   - title: "Lusail International Circuit"
     url: "https://www.lcsc.qa/"
     publisher: "Lusail International Circuit"
@@ -56,7 +57,7 @@ sources:
   - title: "2026 Drivers' Standings"
     url: "https://www.formula1.com/en/results/2026/drivers"
     publisher: "Formula 1"
-    date: "2026-11-02"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -147,7 +148,7 @@ F1's 2026 calendar lists Qatar as Round 22 of 23, with Abu Dhabi as the season f
 | 22 | Qatar | Nov. 27 to 29 |
 | 23 | Abu Dhabi | Dec. 4 to 6 |
 
-Source: formula1.com, 2026 calendar. On formula1.com's 2026 Drivers' Standings as of Nov. 2, 2026, Kimi Antonelli (Mercedes) leads with 380 points, followed by Max Verstappen with 261 and Lewis Hamilton (Ferrari) with 259. The latest completed race listed on formula1.com is the Mexico City Grand Prix on Nov. 1, won by Verstappen in 2:20:28.772, with Hamilton second (+0.799) and Antonelli third (+4.006). Formula1.com lists the São Paulo Grand Prix on Nov. 6 to 8 as the next race. For the previous round, see our [Las Vegas Grand Prix 2026 race time](/news/las-vegas-grand-prix-2026-schedule-race-time-by-time-zone/) story, and for the rounds before Qatar the [São Paulo](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/) and [Mexico City](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/) stories. Two-wheel fans can follow the [MotoGP final races](/news/motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk/) too.
+Source: formula1.com, 2026 calendar. On formula1.com's 2026 Drivers' Standings after the São Paulo race, Kimi Antonelli (Mercedes) leads with 390 points, followed by Max Verstappen with 279 and George Russell (Mercedes) with 262. The latest completed race listed on formula1.com is the São Paulo Grand Prix on Nov. 8, won by Lando Norris (McLaren) in 1:35:23.504. Las Vegas, Nov. 19 to 21, is the next race. For the previous round, see our [Las Vegas Grand Prix 2026 race time](/news/las-vegas-grand-prix-2026-schedule-race-time-by-time-zone/) story, and for the rounds before Qatar the [São Paulo](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/) and [Mexico City](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/) stories. Two-wheel fans can follow the [MotoGP final races](/news/motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk/) too.
 
 ## Free Qatar Grand Prix 2026 weekend schedule
 

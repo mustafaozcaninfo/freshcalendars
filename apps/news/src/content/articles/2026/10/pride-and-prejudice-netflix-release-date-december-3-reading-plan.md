@@ -2,6 +2,7 @@
 title: "Pride and Prejudice Netflix Release Date: Dec. 3, 35-Day Plan"
 description: "Pride and Prejudice on Netflix debuts Thu., Dec. 3, 2026, with Emma Corrin and Jack Lowden. See what is not announced and a free 35-day reading plan."
 type: news
+updatedAt: "2026-11-14T15:31:00-05:00"
 publishedAt: "2026-10-28T21:46:00-04:00"
 authors: [jessica-hartwell]
 category: entertainment
@@ -13,6 +14,7 @@ assets:
   date: "2026-12-03"
   card: { top: "Netflix series premieres", big: "Thu., Dec. 3", bottom: "35 days from Thu., Oct. 29" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: pride-and-prejudice-reading-plan-2026
     group: pride-and-prejudice-2026
     title: "Pride and Prejudice Reading Plan Before Dec. 3, 2026"
@@ -42,7 +44,7 @@ hero:
 summary:
   - "Netflix Tudum said on Oct. 28, 2026 that Pride and Prejudice debuts on Thursday, Dec. 3, 2026; Netflix labels it a Limited Series."
   - "Dolly Alderton wrote all six episodes, Euros Lyn directs, and Emma Corrin and Jack Lowden star as Elizabeth Bennet and Mr. Darcy."
-  - "Netflix has not announced a release time, whether all six episodes arrive at once, the episode runtime or the filming locations."
+  - "Netflix has not announced a release time, the episode runtime or the filming locations; Time Out and Collider both report all six episodes arrive together."
   - "Dec. 3 is 35 days after Oct. 29, and the novel has 61 chapters in the Project Gutenberg edition, so five weekly chunks finish it in time."
 faq:
   - q: "When does Pride and Prejudice come out on Netflix?"
@@ -50,7 +52,7 @@ faq:
   - q: "How many episodes does the Netflix Pride and Prejudice have?"
     a: "Six. Netflix Tudum calls it Dolly Alderton's six-part series, and Alderton wrote all six episodes."
   - q: "Will all six episodes be released at once?"
-    a: "Not announced. Netflix says only that the series debuts on Dec. 3."
+    a: "Time Out and Collider both report that all six episodes arrive on Dec. 3. Netflix itself says only that the series debuts on that date."
   - q: "Is the Netflix series faithful to the book?"
     a: "Netflix Tudum says the six episodes will hew closely to the 1813 novel."
   - q: "How long is the novel Pride and Prejudice?"
@@ -59,7 +61,7 @@ sources:
   - title: "Pride and Prejudice: Teaser, Cast, Photos, Release Date"
     url: "https://www.netflix.com/tudum/articles/pride-and-prejudice-cast-photos-release-date-news"
     publisher: "Netflix Tudum"
-    date: "2026-10-28"
+    date: "2026-11-14"
   - title: "Watch the Trailer for Pride and Prejudice"
     url: "https://www.netflix.com/tudum/articles/dolly-alderton-pride-and-prejudice-trailer-emma-corrin-jack-lowden"
     publisher: "Netflix Tudum"
@@ -68,6 +70,12 @@ sources:
     url: "https://www.netflix.com/tudum/articles/pride-and-prejudice-photos-release-date-teaser-art"
     publisher: "Netflix Tudum"
     date: "2026-10-28"
+  - title: "Netflix's Pride & Prejudice: Premiere Date, first look photos, official trailer"
+    url: "https://www.timeout.com/usa/news/heres-your-first-look-at-netflixs-buzzy-pride-and-prejudice-adaptation-091926"
+    publisher: "Time Out"
+  - title: "Netflix Officially Sets Release Date for New 'Pride & Prejudice' Reboot"
+    url: "https://collider.com/netflix-pride-and-prejudice-reboot-images-release-date-december-2026/"
+    publisher: "Collider"
   - title: "Pride and Prejudice (Limited Series)"
     url: "https://www.netflix.com/title/81737965"
     publisher: "Netflix"
@@ -108,12 +116,11 @@ draft: false
 
 Netflix Tudum's article "Pride and Prejudice: Teaser, Cast, Photos, Release Date" says the series "debuts on Dec. 3." Dec. 3, 2026 is a Thursday. Alderton announced the date at the Jane Austen Festival in Bath, England, according to a second Tudum article from Oct. 28, 2026.
 
-Netflix has not announced these details, so none are given here:
+Netflix Tudum says only that the series "debuts on Dec. 3." Time Out and Collider, two independent newsrooms, both report that all six episodes will be released that day. Netflix has not announced these details, so none are given here:
 
 | Detail | Status |
 |---|---|
 | Release time of day | Not announced |
-| Whether all six episodes arrive at once | Not announced; Netflix says only "debuts on Dec. 3" |
 | Episode runtime | Not announced |
 | Filming locations | Not announced |
 

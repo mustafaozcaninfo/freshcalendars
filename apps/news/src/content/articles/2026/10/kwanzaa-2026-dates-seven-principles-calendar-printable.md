@@ -3,7 +3,7 @@ title: "Kwanzaa 2026: Dec. 26 to Jan. 1, Principle for Each Day"
 description: "Kwanzaa 2026 runs Saturday, Dec. 26, to Friday, Jan. 1, 2027. A table lists each day's principle and meaning, with the candle order and a printable."
 type: explainer
 publishedAt: "2026-10-25T01:32:00-04:00"
-updatedAt: "2026-11-09T07:27:00-05:00"
+updatedAt: "2026-11-14T15:31:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Kwanzaa 2026", "when is Kwanzaa 2026", "Kwanzaa principles by day", "Kwanzaa 2026 calendar"]
@@ -111,7 +111,7 @@ assets:
     alt: "Printable Kwanzaa 2026 seven-day calendar listing each day's principle and the greeting Habari gani"
 ---
 
-Kwanzaa 2026 starts on **Saturday, Dec. 26**, and ends on **Friday, Jan. 1, 2027**, according to Maulana Karenga's site, which says the holiday "is celebrated from December 26 to January 1." From Sunday, Oct. 25, 2026, the first day is 62 days away. This page lists the principle for each day and offers a one-page printable calendar.
+Kwanzaa 2026 starts on **Saturday, Dec. 26**, and ends on **Friday, Jan. 1, 2027**, according to Maulana Karenga's site, which says the holiday "is celebrated from December 26 to January 1." From Saturday, Nov. 14, 2026, the first day is 42 days away. The table below gives the principle for each day, and a one-page printable calendar follows.
 
 ## When is Kwanzaa 2026?
 

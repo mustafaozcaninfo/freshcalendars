@@ -1,16 +1,16 @@
 ---
 title: "UK Christmas Markets 2026: York and Cardiff Open Nov. 12"
-description: "UK Christmas markets 2026 open Thursday 12 November in York and Cardiff, Bath on 26 November, Lincoln on 3 December. Hours, last days and a printable."
+description: "UK Christmas markets 2026: York and Cardiff opened 12 November, Belfast on the 14th, Bath on 26 November, Lincoln on 3 December. Hours and a printable."
 type: explainer
 publishedAt: "2026-11-04T06:00:00-05:00"
-updatedAt: "2026-11-08T11:25:00-05:00"
+updatedAt: "2026-11-14T15:31:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["york christmas market 2026", "bath christmas market 2026", "cardiff christmas market 2026", "belfast christmas market 2026", "lincoln cathedral christmas market 2026"]
 hero:
   src: ../../../../assets/news/uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast/uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast.webp
-  alt: "Stalls at the York Christmas market, file photo, ahead of the York, Bath, Cardiff, Lincoln and Belfast Christmas markets 2026"
-  caption: "File photo of York's Christmas market in 2023. York's 2026 market opens Thursday 12 November, according to Visit York."
+  alt: "Stalls at the York Christmas market, file photo, for the York, Bath, Cardiff, Lincoln and Belfast Christmas markets 2026"
+  caption: "File photo of York's Christmas market in 2023. York's 2026 market opened Thursday 12 November, according to Visit York."
   credit: "Photo: Malcolmxl5 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -19,7 +19,7 @@ hero:
     author: "Malcolmxl5"
 summary:
   - "York's Christmas market runs 12 November to 21 December 2026, 10.30am to 7pm Wednesday to Monday and closed on Tuesdays, according to Visit York."
-  - "Cardiff's market opens Thursday 12 November and runs to Wednesday 23 December; Bath's runs Thursday 26 November to Sunday 13 December, per the organisers' own sites."
+  - "Cardiff's market opened Thursday 12 November and runs to Wednesday 23 December; Bath's runs Thursday 26 November to Sunday 13 December, per the organisers' own sites."
   - "Lincoln Cathedral calls its 3 to 5 December market its first-ever, with tickets on sale; Belfast's market runs Saturday 14 November to Tuesday 22 December, opening at noon on the first day."
   - "By our count, York is open on 35 of its 40 dates, and all of York, Bath and Cardiff are open in the week of Monday 30 November, the same week as Lincoln."
 faq:
@@ -41,23 +41,23 @@ sources:
   - title: "Bath Christmas Market"
     url: "https://www.bathchristmasmarket.co.uk/"
     publisher: "Bath Christmas Market"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Cardiff Christmas Market"
     url: "https://www.cardiffchristmasmarket.com/"
     publisher: "Cardiff Christmas Market"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Lincoln Cathedral"
     url: "https://www.lincolncathedral.com/"
     publisher: "Lincoln Cathedral"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Christmas Lights Switch-on"
     url: "https://www.belfastcity.gov.uk/christmaslights"
     publisher: "Belfast City Council"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Christmas in Belfast"
     url: "https://www.belfastcity.gov.uk/christmas"
     publisher: "Belfast City Council"
-    date: "2026-11-04"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -109,7 +109,7 @@ assets:
         - { label: "Lincoln Cathedral market ticket price and hours", why: "Not printed on the cathedral homepage" }
 ---
 
-**York's Christmas market opens Thursday 12 November 2026 and runs to 21 December, and Cardiff's opens the same day and runs to Wednesday 23 December**, according to Visit York and the Cardiff Christmas Market's own site. Bath's follows on Thursday 26 November, Lincoln Cathedral holds a ticketed market on 3 to 5 December and Belfast's opens on 14 November and closes on 22 December. Our comparison table, a week-by-week grid and a one-page printable are below.
+**York's Christmas market opened Thursday 12 November 2026 and runs to 21 December, and Cardiff's opened the same day and runs to Wednesday 23 December**, according to Visit York and the Cardiff Christmas Market's own site. Bath's follows on Thursday 26 November, Lincoln Cathedral holds a ticketed market on 3 to 5 December and Belfast's opens at noon on 14 November and closes on 22 December. Our comparison table, a week-by-week grid and a one-page printable are below.
 
 We also cover [Manchester and Birmingham](/news/manchester-birmingham-christmas-markets-2026-dates-opening-times/), [Edinburgh](/news/edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight/), Newcastle's [Fenwick Christmas window](/news/fenwick-christmas-window-2026-newcastle-public-viewing-monday-2-november/) and [London's Hyde Park Winter Wonderland](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/) in separate stories.
 
@@ -123,7 +123,7 @@ We also cover [Manchester and Birmingham](/news/manchester-birmingham-christmas-
 | Lincoln Cathedral | 3 to 5 Dec. | Not applicable | Not printed | Not printed | Saturday 5 Dec. |
 | Belfast | 14 Nov. to 22 Dec., opens noon on 14 Nov. | Not announced | Not announced | Not announced | Tuesday 22 Dec. |
 
-Sources: Visit York, the Bath Christmas Market and Cardiff Christmas Market sites, Lincoln Cathedral and Belfast City Council, all seen on 4 November 2026. Saturday 5 December for Lincoln is our reading of the cathedral's "3 to 5 December" and its weekday; the cathedral prints no hours.
+Sources: Visit York, the Bath Christmas Market and Cardiff Christmas Market sites, Lincoln Cathedral and Belfast City Council, all seen between 4 and 14 November 2026 (Visit York's page was last read on 4 November, as it now blocks automated access). Saturday 5 December for Lincoln is our reading of the cathedral's "3 to 5 December" and its weekday; the cathedral prints no hours.
 
 ## What are the York Christmas market 2026 dates and hours?
 
@@ -175,4 +175,4 @@ The week of Monday 30 November is the only one in which York, Bath, Cardiff and 
 
 The printable lists each opening, York's 5pm close on 21 December, Lincoln's dates and Belfast's switch-on at 6.30pm, market opening at noon and closing on 22 December. Print it, then add the dates to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
 
-Dates and hours can change, and we checked the organisers' pages on 8 November 2026. Belfast's daily hours and the Lincoln hours and prices are still to come.
+Dates and hours can change, and we checked the organisers' pages on 14 November 2026. Belfast's daily hours and the Lincoln hours and prices are still to come.
