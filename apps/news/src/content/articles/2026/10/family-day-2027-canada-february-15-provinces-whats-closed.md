@@ -3,6 +3,7 @@ title: "Alberta Family Day 2027: Monday, Feb. 15, Same Day in Ontario"
 description: "Alberta Family Day 2027 is Monday, Feb. 15, the third Monday in February. Ontario lists it too; Nova Scotia calls the same Monday Heritage Day."
 type: explainer
 publishedAt: "2026-10-31T01:00:00-04:00"
+updatedAt: "2026-11-14T17:02:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["family day 2027", "family day 2027 ontario", "louis riel day 2027", "heritage day 2027 nova scotia", "family day 2027 alberta"]
@@ -21,7 +22,7 @@ hero:
 summary:
   - "Family Day 2027 is Monday, Feb. 15, the third Monday in February."
   - "Alberta's general holidays page lists Alberta Family Day on the third Monday in February, and Ontario's guide lists Family Day among its nine public holidays."
-  - "Nova Scotia's regulation names the same Monday Heritage Day, for 2015 and each year after."
+  - "Nova Scotia's regulation names the same Monday Heritage Day; British Columbia lists Family Day and Manitoba Louis Riel Day on Feb. 15, 2027."
   - "Feb. 15, 2027 is also Washington's Birthday, a U.S. federal holiday."
 faq:
   - q: "When is Family Day in 2027?"
@@ -33,11 +34,22 @@ faq:
   - q: "What is Heritage Day in Nova Scotia?"
     a: "Nova Scotia Heritage Day is the third Monday in February in 2015 and each later year, under the province's holiday regulation. In 2027 that is Feb. 15."
   - q: "When is Louis Riel Day in 2027?"
-    a: "Not yet confirmed here. We have not checked Manitoba's official page, so this story gives no Louis Riel Day date."
+    a: "Monday, Feb. 15, 2027. Manitoba's general holidays page describes Louis Riel Day as the 3rd Monday in February and lists Feb. 15 for 2027."
+  - q: "Is Family Day a holiday in British Columbia in 2027?"
+    a: "Yes. British Columbia's statutory holidays page lists Family Day on Monday, Feb. 15, 2027."
 sources:
   - title: "Alberta general holidays"
     url: "https://www.alberta.ca/alberta-general-holidays"
     publisher: "Government of Alberta"
+    date: "2026-11-14"
+  - title: "Statutory holidays"
+    url: "https://www2.gov.bc.ca/gov/content/employment-business/employment-standards-advice/employment-standards/statutory-holidays"
+    publisher: "Government of British Columbia"
+    date: "2026-11-14"
+  - title: "General Holidays - Employment Standards"
+    url: "https://www.gov.mb.ca/labour/standards/doc,gen-holidays-after-april-30-07,factsheet.html"
+    publisher: "Government of Manitoba"
+    date: "2026-11-14"
   - title: "Your guide to the Employment Standards Act: Public holidays"
     url: "https://www.ontario.ca/document/your-guide-employment-standards-act-0/public-holidays"
     publisher: "Government of Ontario"
@@ -61,42 +73,34 @@ assets:
   kicker: "Family Day 2027"
   date: "2027-02-15"
   overlay: true
-  card: { top: "Third Monday in February", big: "Mon., Feb. 15", bottom: "Ontario, Alberta; Heritage Day in N.S." }
+  card: { top: "Third Monday in February", big: "Mon., Feb. 15", bottom: "Family Day: B.C., Alberta, Ontario" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: family-day-long-weekend-planner-february-2027
     group: family-day-2027
     title: "February 2027 Long Weekend Planner (Canada)"
-    subtitle: "Family Day and Heritage Day, Monday, Feb. 15, 2027"
+    subtitle: "Family Day, Louis Riel Day and Heritage Day, Monday, Feb. 15, 2027"
     year: 2027
     rows:
       - ["Sat., Feb. 13 to Mon., Feb. 15", "Long weekend around the Monday holiday"]
-      - ["Mon., Feb. 15", "Family Day in Ontario and Alberta; Heritage Day in Nova Scotia"]
+      - ["Mon., Feb. 15", "Family Day in B.C., Alberta and Ontario; Louis Riel Day in Manitoba; Heritage Day in Nova Scotia"]
       - ["Mon., Feb. 15", "Washington's Birthday, a U.S. federal holiday"]
-    note: "Source: Government of Alberta, Government of Ontario, Government of Nova Scotia, U.S. Office of Personnel Management. Other provinces set their own February holidays; check your province."
-    inkSaver: true
-    description: "February 2027 month grid with Family Day and Heritage Day on Monday, Feb. 15, 2027, plus the long weekend."
+    note: "Source: Governments of Alberta, British Columbia, Manitoba, Ontario and Nova Scotia, U.S. Office of Personnel Management. Other provinces set their own February holidays; check your province."
+    description: "February 2027 month grid with Family Day, Louis Riel Day and Heritage Day on Monday, Feb. 15, 2027, plus the long weekend."
     alt: "February 2027 long weekend planner for Canada with Family Day on Monday, Feb. 15 marked"
 downloads:
   - group: "February 2027 Long Weekend Planner (Canada) printables"
     title: "February 2027 Long Weekend Planner (Canada)"
-    description: "February 2027 month grid with Family Day and Heritage Day on Monday, Feb. 15, 2027, plus the long weekend."
+    description: "February 2027 month grid with Family Day, Louis Riel Day and Heritage Day on Monday, Feb. 15, 2027, plus the long weekend."
     preview: ../../../../assets/news/family-day-2027/family-day-long-weekend-planner-february-2027.png
     alt: "February 2027 long weekend planner for Canada with Family Day on Monday, Feb. 15 marked"
     pdf: "/news/downloads/family-day-2027/family-day-long-weekend-planner-february-2027.pdf"
     png: "/news/downloads/family-day-2027/family-day-long-weekend-planner-february-2027.png"
     pages: 1
-  - group: "February 2027 Long Weekend Planner (Canada) printables"
-    title: "February 2027 Long Weekend Planner (Canada) (ink saver)"
-    description: "February 2027 month grid with Family Day and Heritage Day on Monday, Feb. 15, 2027, plus the long weekend. Ink-saver version."
-    preview: ../../../../assets/news/family-day-2027/family-day-long-weekend-planner-february-2027-ink.png
-    alt: "February 2027 long weekend planner for Canada with Family Day on Monday, Feb. 15 marked, ink-saver version"
-    pdf: "/news/downloads/family-day-2027/family-day-long-weekend-planner-february-2027-ink.pdf"
-    png: "/news/downloads/family-day-2027/family-day-long-weekend-planner-february-2027-ink.png"
-    pages: 1
 draft: false
 ---
 
-**Family Day 2027 falls on Monday, Feb. 15, the third Monday in February.** Alberta's general holidays page lists Alberta Family Day on that Monday, Ontario's Employment Standards Act guide lists Family Day among its public holidays, and Nova Scotia's holiday regulation calls the same Monday Heritage Day. Print the one-page [February 2027 long weekend planner](/news/downloads/family-day-2027/family-day-long-weekend-planner-february-2027.pdf) below to mark it.
+**Family Day 2027 falls on Monday, Feb. 15, the third Monday in February.** Alberta's general holidays page lists Alberta Family Day on that Monday, British Columbia lists Family Day on Feb. 15, Manitoba calls the day Louis Riel Day, Ontario's Employment Standards Act guide lists Family Day among its public holidays, and Nova Scotia's holiday regulation calls the same Monday Heritage Day. Print the one-page [February 2027 long weekend planner](/news/downloads/family-day-2027/family-day-long-weekend-planner-february-2027.pdf) below to mark it.
 
 ## Family Day 2027 by province
 
@@ -106,6 +110,8 @@ The table lists only what each province's own page says. The date is computed: t
 |---|---|---|---|---|
 | Alberta | Alberta Family Day | Third Monday in February | Mon., Feb. 15 | Yes |
 | Ontario | Family Day | Listed among nine public holidays | Mon., Feb. 15 | Yes |
+| British Columbia | Family Day | Listed in the 2027 statutory holidays | Mon., Feb. 15 | Yes |
+| Manitoba | Louis Riel Day | 3rd Monday in February | Mon., Feb. 15 | Yes |
 | Nova Scotia | Nova Scotia Heritage Day | Third Monday in February in 2015 and each later year | Mon., Feb. 15 | Yes |
 
 Alberta says it has 9 general holidays, and Ontario says it has nine public holidays, so Family Day is one of a short list in both. The Ontario guide was updated on July 8, 2024. The Nova Scotia regulation gives the rule for 2015 and every later year, which covers 2027.
@@ -114,9 +120,9 @@ Alberta says it has 9 general holidays, and Ontario says it has nine public holi
 
 Ontario's guide to the Employment Standards Act lists Family Day among the province's public holidays, so it applies to the Monday, Feb. 15, 2027 shown above. Check the guide itself for the rules on pay if you work that day.
 
-## What about Louis Riel Day and the other provinces?
+## When is Louis Riel Day, and what about the other provinces?
 
-Other provinces set their own February holidays, and we have not yet checked British Columbia, Saskatchewan, New Brunswick, Manitoba (Louis Riel Day), Prince Edward Island (Islander Day) or Yukon (Heritage Day) on their official pages. This story gives no date or rule for them. Check your province's employment standards page, and see our [Canada statutory holidays 2027 list](/news/canada-statutory-holidays-2027-federal-general-holidays/) for the federal holidays set by the Canada Labour Code.
+Manitoba's general holidays page lists Louis Riel Day as the 3rd Monday in February and gives Feb. 15 for 2027. British Columbia's statutory holidays page lists Family Day on Monday, Feb. 15, 2027. Other provinces set their own February holidays, and we have not yet checked Saskatchewan, New Brunswick, Prince Edward Island (Islander Day) or Yukon (Heritage Day) on their official pages, so no date or rule is given for them. Check your province's employment standards page, and see our [Canada statutory holidays 2027 list](/news/canada-statutory-holidays-2027-federal-general-holidays/) for the federal holidays set by the Canada Labour Code.
 
 ## Family Day dates, 2027 to 2031
 

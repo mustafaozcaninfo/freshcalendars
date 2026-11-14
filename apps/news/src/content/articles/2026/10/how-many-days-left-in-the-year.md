@@ -1,16 +1,16 @@
 ---
-title: "Days Left in the Year: 60 From Nov. 1, 2026, With Formula"
-description: "From Nov. 1, 2026 there are 60 days left in the year, or 61 counting today. The formula, 44 weekdays and a printable table for 2026 and leap year 2028."
+title: "Days Left in the Year: 47 From Nov. 14, 2026, With Formula"
+description: "From Nov. 14, 2026 there are 47 days left in the year, or 48 counting today. The formula, 34 weekdays and a printable table for 2026 and leap year 2028."
 type: explainer
 publishedAt: "2026-10-30T08:22:00-04:00"
-updatedAt: "2026-11-01T05:33:00-05:00"
+updatedAt: "2026-11-14T17:02:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how many days are left in the year", "days left in the year", "days remaining in the year", "days until December 31"]
 hero:
   src: ../../../../assets/news/how-many-days-left-in-the-year/how-many-days-left-in-the-year.webp
   alt: "An hourglass, a picture of counting how many days are left in the year"
-  caption: "File photo of an hourglass. The days left in a year are the days in that year minus today's day number, as the table below shows."
+  caption: "File photo of an hourglass. The days left in a year are the days in that year minus today's day number."
   credit: "Photo: Suohros / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
@@ -63,27 +63,28 @@ downloads:
     png: "/news/downloads/days-left-in-the-year/days-left-in-the-year-2026-2028-ink.png"
     pages: 1
 summary:
-  - "From Sunday, Nov. 1, 2026 (day 305 of 365), 60 days are left in the year not counting today and 61 counting today."
+  - "From Saturday, Nov. 14, 2026 (day 318 of 365), 47 days are left in the year not counting today and 48 counting today."
   - "The formula is days in the year minus today's day number: 365 in a common year, 366 in a leap year, per the U.S. Naval Observatory (USNO) rule."
-  - "Of those 60 days, 44 are weekdays (Monday to Friday) and 16 are weekend days, holidays not removed."
+  - "Of those 47 days, 34 are weekdays (Monday to Friday) and 13 are weekend days, holidays not removed."
   - "A table below gives days left on the first of each month in 2026 and in leap year 2028."
 faq:
   - q: "Do I count today when I work out the days left?"
-    a: "Pick one rule and say it. Not counting today is 365 (or 366) minus the day number; counting today adds 1. On Nov. 1, 2026 that is 60 or 61."
+    a: "Pick one rule and say it. Not counting today is 365 (or 366) minus the day number; counting today adds 1. On Nov. 14, 2026 that is 47 or 48."
   - q: "How many days are left in a leap year?"
     a: "Subtract from 366. On Jan. 1, 2028 there are 365 days left after that day; on Dec. 31 there are 0. From March 1 on, the same calendar date has the same count left in a leap year and a common year."
   - q: "How do I find the days until December 31?"
     a: "Subtract today's day number from 365 or 366. Dec. 31 is day 365 in a common year and day 366 in a leap year, so the result is the days between today and Dec. 31, not counting today."
   - q: "Are weekends included in the days left?"
-    a: "Yes. The days left in the year are calendar days. From Nov. 1, 2026, 16 of the 60 days are Saturdays or Sundays (8 of each); the other 44 are Monday to Friday, and this count does not remove holidays."
+    a: "Yes. The days left in the year are calendar days. From Nov. 14, 2026, 13 of the 47 days are Saturdays or Sundays (6 Saturdays and 7 Sundays); the other 34 are Monday to Friday, and this count does not remove holidays."
   - q: "How many weeks are left in the year?"
-    a: "Divide the days left by 7. From Nov. 1, 2026, 60 days is 8 full weeks and 4 days; counting today, 61 days is 8 weeks and 5 days."
+    a: "Divide the days left by 7. From Nov. 14, 2026, 47 days is 6 full weeks and 5 days; counting today, 48 days is 6 weeks and 6 days."
   - q: "Is the year countdown a business-day count?"
     a: "No. It counts every calendar day. For working days, see our business days for November and December 2026."
 sources:
   - title: "Leap Years"
     url: "https://aa.usno.navy.mil/faq/leap_years"
     publisher: "U.S. Naval Observatory"
+    date: "2026-11-14"
   - title: "Date function"
     url: "https://support.microsoft.com/en-us/office/date-function-e36c0c8c-4104-49da-ab83-82328b832349"
     publisher: "Microsoft Support"
@@ -104,21 +105,21 @@ related: [how-to-calculate-day-of-year, 100th-day-of-the-year, december-2026-imp
 draft: false
 ---
 
-**From Sunday, Nov. 1, 2026, there are 60 days left in the year if you do not count today and 61 if you do, using the 365-day common year and the leap-year rule published by the U.S. Naval Observatory (USNO).** The method works on any date: subtract today's day number from the number of days in the year. This story shows the formula, the Nov. 1 example, a table for the first of every month in 2026 and in leap year 2028, and a one-page printable of that table.
+**From Saturday, Nov. 14, 2026, there are 47 days left in the year if you do not count today and 48 if you do, using the 365-day common year and the leap-year rule published by the U.S. Naval Observatory (USNO).** The method works on any date: subtract today's day number from the number of days in the year. Below: the formula, the Nov. 14 example, a table for the first of every month in 2026 and in leap year 2028, and a one-page printable of that table.
 
-## What is the count of days left from Nov. 1, 2026?
+## What is the count of days left from Nov. 14, 2026?
 
-Nov. 1, 2026 is day 305 of the year: 31 days in January, 28 in February, 31 in March, 30 in April, 31 in May, 30 in June, 31 in July, 31 in August, 30 in September and 31 in October add up to 304, and November adds 1 more. 2026 is a common year, so it has 365 days.
+Nov. 14, 2026 is day 318 of the year: January to October add up to 304 days (31, 28, 31, 30, 31, 30, 31, 31, 30 and 31), and November adds 14 more. 2026 is a common year, so it has 365 days.
 
 | Count | Calculation | Result |
 |---|---|---|
-| Days left, not counting today | 365 - 305 | 60 days (Nov. 2 to Dec. 31) |
-| Days left, counting today | 365 - 305 + 1 | 61 days (Nov. 1 to Dec. 31) |
-| Weekdays in the 60 days | Monday to Friday, holidays not removed | 44 |
-| Weekend days in the 60 days | 8 Saturdays and 8 Sundays | 16 |
-| Weeks in the 60 days | 60 / 7 | 8 weeks and 4 days |
+| Days left, not counting today | 365 - 318 | 47 days (Nov. 15 to Dec. 31) |
+| Days left, counting today | 365 - 318 + 1 | 48 days (Nov. 14 to Dec. 31) |
+| Weekdays in the 47 days | Monday to Friday, holidays not removed | 34 |
+| Weekend days in the 47 days | 6 Saturdays and 7 Sundays | 13 |
+| Weeks in the 47 days | 47 / 7 | 6 weeks and 5 days |
 
-Nov. 1 is a Sunday, so counting today adds one more weekend day (44 weekdays and 17 weekend days in 61 days). These numbers are for Nov. 1 only; the number changes by one every day, which is why the page gives the method instead of a figure that goes stale. For what falls inside that stretch, see our [December 2026 holidays and key dates](/news/december-2026-important-dates-holidays-days-until/) story.
+Nov. 14 is a Saturday, so counting today adds one more weekend day (34 weekdays and 14 weekend days in 48 days). These numbers are for Nov. 14 only; the number drops by one every day, so the method lasts longer than any single figure. For what falls inside that stretch, see our [December 2026 holidays and key dates](/news/december-2026-important-dates-holidays-days-until/) story. On the first of the month, Nov. 1 had 60 days left and Dec. 1 has 30.
 
 ## How do you calculate the days remaining in a year?
 
@@ -128,7 +129,7 @@ Three steps cover every date.
 2. Use 365 for a common year or 366 for a leap year. The USNO states the leap-year rule this way: years evenly divisible by 4 are leap years, with the exception of centurial years that are not evenly divisible by 400. Its examples: 1600, 2000 and 2400 are leap years; 1700, 1800, 1900 and 2100 are not.
 3. Subtract. For days left not counting today, take the days in the year minus the day number. For days left counting today, add 1.
 
-In a spreadsheet, put the date in cell A1. Our formula for the day number uses the date function (DATE) and the year function (YEAR): `=A1-DATE(YEAR(A1),1,0)`. Microsoft Support documents that a day value below 1 counts back from the first of the month, so a day of 0 is the last day of the prior month. For days left, the days-between function (DAYS) works: `=DAYS(DATE(YEAR(A1),12,31),A1)` returns the difference between Dec. 31 and A1. Microsoft Support describes its days function as returning "the number of days between two dates", with 31-Dec-2021 minus 1-Jan-2021 giving 364, so it is a difference and does not count both ends. Add 1 to count today. For A1 = Nov. 1, 2026 the formula returns 60.
+In a spreadsheet, put the date in cell A1. Our formula for the day number uses the date function (DATE) and the year function (YEAR): `=A1-DATE(YEAR(A1),1,0)`. Microsoft Support documents that a day value below 1 counts back from the first of the month, so a day of 0 is the last day of the prior month. For days left, the days-between function (DAYS) works: `=DAYS(DATE(YEAR(A1),12,31),A1)` returns the difference between Dec. 31 and A1. Microsoft Support describes its days function as returning "the number of days between two dates", with 31-Dec-2021 minus 1-Jan-2021 giving 364, so it is a difference and does not count both ends. Add 1 to count today. For A1 = Nov. 14, 2026 the formula returns 47.
 
 ## Does a leap year change the days left?
 
@@ -156,9 +157,9 @@ Our [leap year explainer](/news/what-is-a-leap-year/) covers the rule in full. T
 
 ## How do days left convert to weeks and months?
 
-Divide by 7 for weeks and keep the remainder as days: 60 days is 8 weeks and 4 days. Months do not convert cleanly, because they run 28 to 31 days; from Nov. 1 the days left cover the rest of November (29 days, Nov. 2 to 30) and all of December (31 days). The full weeks in a year are a separate question, covered in [how many weeks are in a year](/news/how-many-weeks-in-a-year/).
+Divide by 7 for weeks and keep the remainder as days: 47 days is 6 weeks and 5 days. Months do not convert cleanly, because they run 28 to 31 days; from Nov. 14 the days left cover the rest of November (16 days, Nov. 15 to 30) and all of December (31 days). The full weeks in a year are a separate question, covered in [how many weeks are in a year](/news/how-many-weeks-in-a-year/).
 
-The count above is calendar days, weekends included. A working-days count removes weekends and, depending on the employer, holidays. The 44 weekdays from Nov. 2 to Dec. 31 still include Thanksgiving, Christmas and any other weekday holiday, so use it as a ceiling, not as a count of days worked. Our [business days for November and December 2026](/news/business-days-november-december-2026-working-days-calendar/) story lists working days for that period.
+The count above is calendar days, weekends included. A working-days count removes weekends and, depending on the employer, holidays. The 34 weekdays from Nov. 15 to Dec. 31 still include Thanksgiving, Christmas and any other weekday holiday, so use it as a ceiling, not as a count of days worked. Our [business days for November and December 2026](/news/business-days-november-december-2026-working-days-calendar/) story lists working days for that period.
 
 ## How do you set up a year-end countdown?
 
@@ -171,4 +172,4 @@ A countdown is a personal planning tool, not an official calendar of holidays or
 
 ## Printable: days left on the first of each month
 
-The printable on this page is the table above in one sheet: 2026 (common) and 2028 (leap) day numbers and days left for the first of every month. It carries a year in its title because the days-left figures for dates after Feb. 28 are the same in every common year and in every leap year, as the table shows.
+The printable is the month-start table in one sheet: 2026 (common) and 2028 (leap) day numbers and days left for the first of every month. It carries a year in its title because the days-left figures for dates after Feb. 28 are the same in every common year and in every leap year, as the table shows.
