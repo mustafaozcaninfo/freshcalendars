@@ -3,6 +3,7 @@ title: "Sundance Film Festival 2027 Dates: Jan. 21-31 in Boulder"
 description: "The 2027 Sundance Film Festival runs Jan. 21-31 in Boulder, Colorado. A day-by-day calendar with online screenings Jan. 28-31 and ticket dates."
 type: news
 publishedAt: "2026-11-04T10:50:00-05:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["sundance 2027 dates", "sundance boulder 2027", "sundance film festival 2027 tickets", "sundance 2027 online screenings"]
@@ -47,6 +48,10 @@ sources:
     url: "https://www.sundance.org/?p=74934"
     publisher: "Sundance Institute"
     date: "2026-02-24"
+  - title: "2027 Sundance Film Festival Event Celebrating Sundance Institute: The Boulder Debut to Honor Jesse Eisenberg, Gina Prince-Bythewood, Beth de Araújo, and Dawn Porter"
+    url: "https://www.sundance.org/blogs/2027-sundance-film-festival-event-celebrating-sundance-institute-the-boulder-debut-to-honor-jesse-eisenberg-gina-prince-bythewood-beth-de-araujo-and-dawn-porter/"
+    publisher: "Sundance Institute"
+    date: "2026-11-13"
   - title: "The Insider's Guide to the 2026 Sundance Film Festival"
     url: "https://www.sundance.org/blogs/the-insiders-guide-to-the-2026-sundance-film-festival/"
     publisher: "Sundance Institute"
@@ -68,7 +73,7 @@ assets:
     group: sundance-2027
     title: "Sundance Film Festival 2027 Planner: Boulder, Jan. 21-31"
     subtitle: "Tickets, premieres, gala, online screenings and awards by day"
-    note: "Source: Sundance Institute (July 29 and Oct. 21, 2026). Times not announced."
+    note: "Source: Sundance Institute (July 29, Oct. 21 and Nov. 13, 2026). Times not announced."
     description: "A Sundance Film Festival 2027 planner with the Boulder dates: tickets Jan. 8, opening Jan. 21, gala Jan. 22, online screenings Jan. 28-31 and awards Jan. 29."
     alt: "Sundance Film Festival 2027 planner listing Boulder festival dates from Jan. 8 to Jan. 31 with a space for picks"
     data:
@@ -77,7 +82,7 @@ assets:
         - { date: "2027-01-08", time: tba, title: "Single film tickets go on sale", airing: live, src: 2, quote: "Single Film Tickets will go on sale starting January 8, 2027." }
         - { date: "2027-01-21", time: tba, title: "Festival opens; world premieres begin", airing: live, src: 1, quote: "World premieres will be held Thursday, January 21, to Tuesday, January 26" }
         - { date: "2027-01-21", time: tba, title: "Press and industry screenings begin", airing: live, src: 1, quote: "starting Thursday, January 21, through Wednesday, January 27, Cinemark Century will host P&I screenings" }
-        - { date: "2027-01-22", time: tba, title: "Festival gala", airing: live, src: 1, quote: "Our annual Festival gala will take place on Friday, January 22." }
+        - { date: "2027-01-22", time: tba, title: "Gala at Limelight Boulder hotel", airing: live, src: 4, quote: "taking place on Friday, January 22, 2027, at the Limelight Boulder hotel in Boulder, Colorado" }
         - { date: "2027-01-26", time: tba, title: "Last day of world premieres", airing: live, src: 1, quote: "World premieres will be held Thursday, January 21, to Tuesday, January 26" }
         - { date: "2027-01-27", time: tba, title: "Legacy program begins", airing: live, src: 2, quote: "The Legacy program will take place from Tuesday, January 27, through Sunday, January 31" }
         - { date: "2027-01-28", time: tba, title: "At-home online screenings begin", airing: live, src: 1, quote: "at-home online screenings from Thursday, January 28, to Sunday, January 31" }
@@ -85,8 +90,8 @@ assets:
         - { date: "2027-01-31", time: tba, title: "Festival and online screenings end", airing: live, src: 1, quote: "at-home online screenings from Thursday, January 28, to Sunday, January 31" }
       fill: { title: "Sundance 2027 plan", labels: ["Films to see", "who is coming"] }
       unconfirmed:
-        - { label: "Film lineup", why: "The Institute says it will be announced in December; no day given as of Nov. 4, 2026" }
-        - { label: "Screening and event times", why: "Not in the Institute pages we used as of Nov. 4, 2026" }
+        - { label: "Film lineup", why: "The Institute says it will be announced in December; no day given as of Nov. 14, 2026" }
+        - { label: "Screening and event times", why: "Not in the Institute pages we used as of Nov. 14, 2026" }
 downloads:
   - group: "Sundance Film Festival 2027 Planner printables"
     title: "Sundance Film Festival 2027 Planner: Boulder, Jan. 21-31"
@@ -99,7 +104,7 @@ downloads:
 draft: false
 ---
 
-**The 2027 Sundance Film Festival takes place Jan. 21-31, 2027, in Boulder, Colorado, with at-home online screenings from Thursday, Jan. 28, to Sunday, Jan. 31, the Sundance Institute says.** It is the festival's first year in Boulder. The 2026 edition was held in Park City and Salt Lake City, Utah, from Jan. 22 to Feb. 1, per the Institute's 2026 guide. The film lineup "will be announced in December," with no day given as of Nov. 4, 2026.
+**The 2027 Sundance Film Festival takes place Jan. 21-31, 2027, in Boulder, Colorado, with at-home online screenings from Thursday, Jan. 28, to Sunday, Jan. 31, the Sundance Institute says.** It is the festival's first year in Boulder. The 2026 edition was held in Park City and Salt Lake City, Utah, from Jan. 22 to Feb. 1, per the Institute's 2026 guide. The film lineup "will be announced in December," with no day given as of Nov. 14, 2026.
 
 ## Sundance 2027 festival calendar by day
 
@@ -109,7 +114,7 @@ The Institute's pages give these dates. It has not posted screening times, so th
 |---|---|---|
 | Fri., Jan. 8, 2027 | Single film tickets go on sale | Institute, Oct. 21, 2026 |
 | Thu., Jan. 21 | Festival opens; world premieres begin; press and industry (P&I) screenings begin | Institute, July 29, 2026 |
-| Fri., Jan. 22 | Festival gala | Institute, July 29, 2026 |
+| Fri., Jan. 22 | Festival gala, "Celebrating Sundance Institute: The Boulder Debut," at the Limelight Boulder hotel | Institute, Nov. 13, 2026 |
 | Tue., Jan. 26 | Last day of world premieres | Institute, July 29, 2026 |
 | Wed., Jan. 27 | Legacy program begins (runs through Sun., Jan. 31); last day of P&I screenings at Cinemark Century | Institute, Oct. 21 and July 29, 2026 |
 | Thu., Jan. 28 | At-home online screenings begin | Institute, July 29, 2026 |
@@ -117,6 +122,8 @@ The Institute's pages give these dates. It has not posted screening times, so th
 | Sun., Jan. 31 | Festival and online screenings end | Institute, July 29, 2026 |
 
 The Institute wrote that "World premieres will be held Thursday, January 21, to Tuesday, January 26," and that the Legacy program, announced Oct. 21, 2026, runs from Jan. 27 through Sunday, Jan. 31. Jan. 27, 2027, falls on a Wednesday. The festival spans 11 days, counting both Jan. 21 and Jan. 31.
+
+The gala is the Institute's annual fundraiser. In its Nov. 13, 2026 announcement the Institute said Stanley Tucci will emcee and that it will honor Jesse Eisenberg (Trailblazer Award), Gina Prince-Bythewood (Robert Redford Luminary Award), Beth de Araújo (Vanguard Award for Fiction) and Dawn Porter (Vanguard Award for Nonfiction).
 
 ## Can you watch Sundance 2027 online?
 

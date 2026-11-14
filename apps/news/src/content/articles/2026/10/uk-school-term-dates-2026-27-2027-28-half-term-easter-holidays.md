@@ -3,7 +3,7 @@ title: "UK School Term Dates 2027: Half Term 15-19 February, Easter Differs"
 description: "2027 school term dates in the UK: six councils set February half term for 15-19 February. Westminster and Leeds Easter breaks are compared, plus 2027-28."
 type: explainer
 publishedAt: "2026-10-31T03:00:00-04:00"
-updatedAt: "2026-11-02T14:36:54-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["school holidays 2027 uk", "half term february 2027", "easter holidays 2027 school", "school term dates 2027-28", "leeds school holidays 2027"]
@@ -39,16 +39,19 @@ sources:
   - title: "Bi-borough determined term and holiday dates 2026-27"
     url: "https://www.westminster.gov.uk/sites/default/files/media/documents/Bi-borough%20determined%20term%20and%20holiday%20dates%202026-27.pdf"
     publisher: "Westminster City Council and Royal Borough of Kensington and Chelsea"
+    date: "2026-11-14"
   - title: "School term and holiday dates"
     url: "https://westminster.gov.uk/children-and-families/education/school-term-and-holiday-dates"
     publisher: "Westminster City Council"
-    date: "2026-10-29"
+    date: "2026-11-14"
   - title: "Bi-borough determined term dates 2027-28"
     url: "https://www.westminster.gov.uk/sites/default/files/media/documents/bi-borough-determined-term-dates-2027-28.pdf"
     publisher: "Westminster City Council and Royal Borough of Kensington and Chelsea"
+    date: "2026-11-14"
   - title: "School holidays and term dates"
     url: "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates"
     publisher: "Leeds City Council"
+    date: "2026-11-14"
   - title: "School term changes for 2026 to 2027"
     url: "https://www.surreycc.gov.uk/schools-and-learning/schools/term-dates/school-term-dates-and-changes-for-2026-to-2027"
     publisher: "Surrey County Council"
@@ -70,14 +73,6 @@ downloads:
     pdf: "/news/downloads/school-calendars/school-holidays-2026-27-westminster-leeds.pdf"
     png: "/news/downloads/school-calendars/school-holidays-2026-27-westminster-leeds.png"
     pages: 1
-  - group: "School Holidays 2026-27 printables"
-    title: "School Holidays 2026-27: Westminster and Leeds (ink saver)"
-    description: "A one-page list of 2026-27 school holiday dates set by Westminster and Leeds councils, side by side. Ink-saver version."
-    preview: ../../../../assets/news/school-calendars/school-holidays-2026-27-westminster-leeds-ink.png
-    alt: "Printable list of 2026-27 school holidays for Westminster and Leeds, ink-saver version"
-    pdf: "/news/downloads/school-calendars/school-holidays-2026-27-westminster-leeds-ink.pdf"
-    png: "/news/downloads/school-calendars/school-holidays-2026-27-westminster-leeds-ink.png"
-    pages: 1
 internalLinks:
   - href: "/printable-school-calendar.html"
     label: "Printable school calendar"
@@ -96,7 +91,6 @@ assets:
     title: "School Holidays 2026-27: Westminster and Leeds"
     subtitle: "Council term dates side by side"
     rows:
-      - ["Oct. 26 to Oct. 30, 2026", "Westminster: autumn half term. Leeds: term ends Oct. 23, back Nov. 2."]
       - ["Dec. 18, 2026", "Last day of autumn term, Westminster and Leeds."]
       - ["Dec. 21, 2026 to Jan. 1, 2027", "Christmas holiday, Westminster and Leeds."]
       - ["Mon., Feb. 15 to Fri., Feb. 19, 2027", "February half term, Westminster and Leeds."]
@@ -107,7 +101,7 @@ assets:
     note: "Source: Westminster City Council (bi-borough dates, 2026-27, shown as proposed in the document notes) and Leeds City Council. Academies may set different dates; check your school."
     year: 2027
     layout: list
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "A one-page list of 2026-27 school holiday dates set by Westminster and Leeds councils, side by side."
     alt: "Printable list of 2026-27 school holidays for Westminster and Leeds"
 ---
@@ -143,7 +137,7 @@ The Westminster dates come from the bi-borough document it shares with the Royal
 | May half term | Mon 31 May to Fri 4 June 2027 | Mon 31 May to Fri 4 June 2027 |
 | Last day of summer term | Thu 22 July 2027 | Thu 22 July 2027 |
 
-Leeds starts its autumn term on Tuesday 1 September 2026. Its summer holidays run from Friday 23 July to Friday 3 September 2027. Westminster's summer term runs from Monday 7 June to Thursday 22 July 2027.
+The autumn half term, Monday 26 to Friday 30 October 2026, is over in both areas. Leeds started its autumn term on Tuesday 1 September 2026, and its summer holidays run from Friday 23 July to Friday 3 September 2027. Westminster's summer term runs from Monday 7 June to Thursday 22 July 2027.
 
 ## Why do Easter 2027 school holidays differ?
 

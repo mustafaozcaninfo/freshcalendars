@@ -3,7 +3,7 @@ title: "Orionid Meteor Shower 2026: Peaked Oct. 21-22, Active to Nov. 7"
 description: "The Orionid meteor shower 2026 peaked Oct. 21-22 and was active through Nov. 7. Best viewing was after moonset until dawn, with times by U.S. city."
 type: news
 publishedAt: "2026-10-18T04:10:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["Orionid meteor shower 2026 viewing times", "Orionid meteor shower tonight", "how to watch the Orionids", "Orionids peak time 2026", "meteor shower October 2026"]
@@ -87,11 +87,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> The Oct. 21-22 peak has passed, but NASA lists the Orionids as active through Nov. 7, with fewer meteors each night; watch after moonset before dawn. Next come the <a href="/news/november-2026-meteor-showers-taurids-leonids/">Southern Taurids on Nov. 4-5 and the Leonids on Nov. 16-17</a>, then the <a href="/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/">Geminids on Dec. 13-14</a>.</p>
+<p class="callout"><b>The best window was moonset to dawn.</b> On the Oct. 21-22 peak the moon, about 86% lit, stayed up until around 3 to 4 a.m. local time in most U.S. cities. From moonset until dawn twilight began, about 5:15 to 6:30 a.m., the sky was dark and the Orionids were at their best. The shower stayed active through Nov. 7, with the darkest hours before dawn.</p>
 
-<p class="callout"><b>The best window was moonset to dawn.</b> On the Oct. 21-22 peak the moon, about 86% lit, stayed up until around 3 to 4 a.m. local time in most U.S. cities. From moonset until dawn twilight began, about 5:15 to 6:30 a.m., the sky was dark and the Orionids were at their best. The shower stays active through Nov. 7, with the darkest hours still before dawn.</p>
-
-**The Orionid meteor shower, made of dust from Halley's Comet, peaked the night of Wednesday, Oct. 21 into Thursday, Oct. 22, 2026, and remains active through Nov. 7.** Under a dark sky you could see up to about 20 meteors an hour at the peak; rates fall each night now, though you may still catch a few after moonset before dawn. The table below gives the moonset and the end of full darkness for 12 U.S. cities on the peak morning, from U.S. Naval Observatory data.
+**The Orionid meteor shower, made of dust from Halley's Comet, peaked the night of Wednesday, Oct. 21 into Thursday, Oct. 22, 2026, and was active through Nov. 7.** The next peaks are the Leonids on Nov. 16-17 and the Geminids on Dec. 13-14 (American Meteor Society). Under a dark sky you could see up to about 20 meteors an hour at the peak; rates fell each night after the peak. The table below gives the moonset and the end of full darkness for 12 U.S. cities on the peak morning, from U.S. Naval Observatory data.
 
 ## Orionid viewing times by city
 
@@ -146,7 +144,7 @@ The meteors seem to come from a point near the raised club of the constellation 
 
 ## How to watch: a short checklist
 
-1. **Check the sky.** Clouds matter more than anything else. The shower is active through Nov. 7, so pick a clear morning before dawn.
+1. **Check the sky.** Clouds matter more than anything else. The shower was active through Nov. 7, so the same steps work for the Leonids on Nov. 16-17.
 2. **Get away from lights.** A park, a beach or the edge of town with a wide view of the southeastern to southern sky beats a backyard under a streetlight.
 3. **Set an alarm for moonset.** Use the table above.
 4. **Let your eyes adjust.** Give yourself 20 to 30 minutes in the dark without looking at a phone. If you need light, use a red flashlight or your phone's red-light or night mode with the brightness down.
@@ -179,5 +177,6 @@ The moon looked full on both the evening of Oct. 25 and Oct. 26, rising in the e
 | Oct. 26 | Full Hunter's Moon |
 | Nov. 1 | Daylight saving time ends in the U.S.; evenings get dark an hour earlier by the clock |
 | Night of Nov. 16-17 | Leonid meteor shower peak |
+| Night of Dec. 13-14 | Geminid meteor shower peak |
 
-If you want the clock change and the full moon on the same page, our [November 2026 printable calendar](/november-calendars.html) and the [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) have the dates. The next showers are the Taurids and Leonids; see [November 2026 meteor showers](/news/november-2026-meteor-showers-taurids-leonids/). Our [Leonid meteor shower guide](/news/leonid-meteor-shower-2026-peak-november-16-17-moon-best-times/) covers its peak and viewing times. Print the viewing-times sheet below to take outside: it has the city table, a checklist and a tally grid, in a night-sky or ink-saver version.
+If you want the clock change and the full moon on the same page, our [November 2026 printable calendar](/november-calendars.html) and the [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) have the dates. The Taurids have peaked and the Leonids come next; see [November 2026 meteor showers](/news/november-2026-meteor-showers-taurids-leonids/). Our [Leonid meteor shower guide](/news/leonid-meteor-shower-2026-peak-november-16-17-moon-best-times/) covers its peak and viewing times. Print the viewing-times sheet below to take outside: it has the city table, a checklist and a tally grid, in a night-sky or ink-saver version.

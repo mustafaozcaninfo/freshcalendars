@@ -1,15 +1,16 @@
 ---
-title: "McDonald's Pokémon Happy Meal 2026: Reported Nov. 10 Start, 15 Cards"
-description: "McDonald's Pokémon Happy Meal 2026 arrives in November; reports put the U.S. start at Nov. 10. A table splits confirmed from reported, plus a checklist."
+title: "McDonald's Pokémon Happy Meal 2026: Started Nov. 10, 15 Toys, 15 Cards"
+description: "McDonald's Pokémon Happy Meal 2026 started Nov. 10 with 15 toys and 15 cards. A table splits confirmed from reported facts, plus a collector checklist."
 type: news
 publishedAt: "2026-10-31T17:20:00-04:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["mcdonald's pokémon happy meal 2026", "pokémon happy meal release date", "mcdonald's pokémon cards 2026", "pokémon happy meal toys"]
 assets:
   overlay: true
   kicker: "Happy Meal · November 2026"
-  card: { top: "15 toys and 15 cards", big: "November 2026", bottom: "U.S. start reported for Tue., Nov. 10" }
+  card: { top: "15 toys and 15 cards", big: "November 2026", bottom: "U.S. start: Tue., Nov. 10" }
   printable:
     slug: pokemon-happy-meal-2026-collector-checklist
     group: pokemon-happy-meal-2026
@@ -82,26 +83,36 @@ downloads:
 summary:
   - "The Pokémon Company says the Pokémon Happy Meals arrive in November 2026 at participating McDonald's for a limited time while supplies last."
   - "The collection has 15 toys and 15 cards, seven of them foil, and each meal includes two Pokémon Trading Card Game cards."
-  - "Dexerto and GoNintendo report a U.S. start of Tuesday, Nov. 10, 2026; the official page gives the month only."
-  - "GoNintendo, citing PokéBeach, reports an end date of Monday, Dec. 14, which would make a 35-day run."
+  - "The U.S. Pokémon Happy Meal started Tuesday, Nov. 10, 2026, according to ABC News and Attractions Magazine; The Pokémon Company's Oct. 29 page gave the month only."
+  - "No end date is official: ABC News says only \"for a limited time while supplies last\". GoNintendo, citing PokéBeach, reported Monday, Dec. 14, which would make a 35-day run."
 faq:
   - q: "When does the McDonald's Pokémon Happy Meal start in 2026?"
-    a: "The Pokémon Company says November 2026. Dexerto, quoting McDonald's marketing executive Guillaume Huin, and GoNintendo report Tuesday, Nov. 10 in the U.S. We could not open McDonald's U.S. menu page to confirm the day."
+    a: "It started Tuesday, Nov. 10, 2026, in the U.S., according to ABC News and Attractions Magazine. The Pokémon Company's Oct. 29 page said November 2026. We could not open McDonald's or Pokémon's own pages to confirm the day, because they blocked automated access."
   - q: "When does the Pokémon Happy Meal end?"
-    a: "The Pokémon Company gives no end date: it says the meals are available for a limited time while supplies last. GoNintendo, citing PokéBeach, reports Monday, Dec. 14; Nintendo Life's earlier report said Dec. 9."
+    a: "The Pokémon Company gives no end date: it says the meals are available for a limited time while supplies last. GoNintendo, citing PokéBeach, reported Monday, Dec. 14; Nintendo Life's earlier report said Dec. 9. ABC News repeats only \"limited time while supplies last\"."
   - q: "How many toys and cards are in the 2026 Pokémon Happy Meal collection?"
     a: "The Pokémon Company says there are 15 toys and 15 cards, including seven foil cards."
   - q: "How many cards come in each Pokémon Happy Meal?"
-    a: "Two Pokémon Trading Card Game cards in each meal, per The Pokémon Company. GoNintendo says the two cards are random."
+    a: "Two Pokémon Trading Card Game cards in each meal, per The Pokémon Company and ABC News. GoNintendo says the two cards are random."
   - q: "Which Pokémon are in the toy set?"
-    a: "There is no full official toy list in the sources we used. The Pokémon Company's text mentions Pikachu, Rowlet and Sprigatito designs; Dexerto lists Pikachu, Eevee, Charmander, Squirtle and Umbreon. The three box themes are Pikachu, Umbreon and Torchic."
+    a: "There is no full official toy list in the sources we used. ABC News and Attractions Magazine both name Pikachu, Bulbasaur, Charmander, Squirtle, Eevee, Rowlet and Sprigatito. Dexerto also lists Umbreon. The three box themes are Pikachu, Umbreon and Torchic."
   - q: "How much does the Pokémon Happy Meal cost?"
     a: "Price is not announced, and it varies by restaurant."
   - q: "Is the Pokémon Happy Meal different in Quebec?"
     a: "Yes. The Pokémon Company says the miniature Happy Meal box-shaped toys will not be available in Quebec, Canada. Quebec gets a Pokémon sticker and a booster pack with four Pokémon Trading Card Game cards."
+  - q: "Is the Pokémon Happy Meal in other countries?"
+    a: "ABC News and Attractions Magazine say the first wave in November 2026 includes the U.S., Canada, Australia, New Zealand, France, Fiji and Spain, with more countries through February 2027. Exact dates for most countries are not announced."
   - q: "How do I find a participating McDonald's?"
     a: "Use the McDonald's app or the restaurant locator at mcdonalds.com/us/en-us/restaurant-locator.html, and check with your local restaurant, because the meals are sold at participating locations only."
 sources:
+  - title: "McDonald's brings back Pokemon Happy Meals with 15 toys, trading cards"
+    url: "https://abcnews.com/GMA/Food/mcdonalds-brings-back-pokemon-happy-meals/story?id=138022291"
+    publisher: "ABC News"
+    date: "2026-11-10"
+  - title: "McDonald's Pokémon Happy Meal launches Nov. 10 with toys and cards"
+    url: "https://attractionsmagazine.com/mcdonalds-pokemon-cards-happy-meals-2026/"
+    publisher: "Attractions Magazine"
+    date: "2026-11-11"
   - title: "Pokémon Happy Meals Are Coming to McDonald's in an Exciting New Way"
     url: "https://www.pokemon.com/us/news/pokemon-happy-meals-are-coming-to-mcdonalds-in-an-exciting-new-way-"
     publisher: "The Pokémon Company"
@@ -127,7 +138,7 @@ related: [pokemon-go-november-2026-events-calendar-community-day-pawniard]
 draft: false
 ---
 
-The Pokémon Company says Pokémon Happy Meals return to participating McDonald's in November 2026 for a limited time while supplies last, with 15 toys, 15 cards (seven foil) and two Pokémon Trading Card Game (TCG) cards in each meal. Dexerto, quoting a McDonald's post by marketing executive Guillaume Huin, and GoNintendo, citing PokéBeach, report a U.S. start of Tuesday, Nov. 10, 2026. McDonald's U.S. menu page cited in those reports did not load for us (it blocked automated access), so the exact day is reported, not confirmed on an official page we could open.
+Pokémon Happy Meals arrived at participating McDonald's in the U.S. on Tuesday, Nov. 10, 2026, according to ABC News and Attractions Magazine, with 15 toys, 15 cards (seven foil) and two Pokémon Trading Card Game (TCG) cards in each meal. They are sold for a limited time while supplies last. McDonald's and The Pokémon Company pages blocked automated access for us, so the start day rests on those two newsrooms, not on an official page we could open.
 
 The table below separates what The Pokémon Company has confirmed from what outlets report, and the printable at the end gives you 30 numbered slots to tick off. For other November dates, see our [November 2026 printable calendar](/november-calendars.html).
 
@@ -136,19 +147,20 @@ The table below separates what The Pokémon Company has confirmed from what outl
 | Detail | What the sources say | Status |
 |---|---|---|
 | Month | November 2026 | Official (pokemon.com, Oct. 29, 2026) |
-| U.S. start date | Tuesday, Nov. 10 | Reported: Dexerto citing McDonald's; GoNintendo citing PokéBeach. Earlier reports, including Nintendo Life, said Thursday, Nov. 5 |
-| End date | Monday, Dec. 14 (GoNintendo, citing PokéBeach); Wednesday, Dec. 9 (Nintendo Life, earlier report) | Reported, and the two disagree. pokemon.com says only "limited time while supplies last" |
+| U.S. start date | Tuesday, Nov. 10 (started) | Reported by ABC News and Attractions Magazine; earlier reports said Thursday, Nov. 5. pokemon.com (Oct. 29) gave the month only |
+| End date | Monday, Dec. 14 (GoNintendo, citing PokéBeach); Wednesday, Dec. 9 (Nintendo Life, earlier report) | Reported before launch, and the two disagree. ABC News and pokemon.com say only "limited time while supplies last" |
 | Toys | 15 | Official |
 | Cards | 15, including seven foil | Official |
 | Cards per meal | Two Pokémon TCG cards | Official |
 | Box themes | Pikachu, Umbreon or Torchic | Official |
-| Named toys | Pokémon.com text mentions Pikachu, Rowlet and Sprigatito designs; Dexerto lists Pikachu, Eevee, Charmander, Squirtle and Umbreon | The lists differ; no full official toy list in our sources |
+| Named toys | ABC News and Attractions Magazine: Pikachu, Bulbasaur, Charmander, Squirtle, Eevee, Rowlet, Sprigatito; Dexerto adds Umbreon | Reported; no full official toy list in our sources |
+| Other countries | First wave in November 2026: U.S., Canada, Australia, New Zealand, France, Fiji, Spain; more through February 2027 | Reported by ABC News and Attractions Magazine; most dates not announced |
 | Quebec | No miniature box toys; a Pokémon sticker and a booster pack with four TCG cards instead | Official |
 | Price | Not announced; varies by restaurant | Not announced |
 
 ## How long would the Pokémon Happy Meal run?
 
-If the reported U.S. window of Tuesday, Nov. 10 to Monday, Dec. 14, 2026 holds, the run is 35 days counting both days. That is a computed figure from reported dates, not an announced one. The earlier reported window, Thursday, Nov. 5 to Wednesday, Dec. 9, also adds up to 35 days. The Pokémon Company itself gives no end date, and says the meals are sold "while supplies last", so restaurants can run out before any date. You can pencil the reported dates into the [December 2026 printable calendar](/december-calendars.html).
+If the window of Tuesday, Nov. 10 to Monday, Dec. 14, 2026 that GoNintendo reported before launch holds, the run is 35 days counting both days. That is a computed figure from reported dates, not an announced one. The earlier reported window, Thursday, Nov. 5 to Wednesday, Dec. 9, also adds up to 35 days. The Pokémon Company itself gives no end date, and says the meals are sold "while supplies last", so restaurants can run out before any date. You can pencil the dates into the [December 2026 printable calendar](/december-calendars.html).
 
 ## What comes in each Pokémon Happy Meal?
 
@@ -158,7 +170,7 @@ Dexerto adds that the collection includes a Quick Response (QR) code game set in
 
 ## Which Pokémon toys are in the set?
 
-There is no complete official toy list in the sources we used, and we are not reprinting unofficial lists. The Pokémon Company's text mentions Pikachu, Rowlet and Sprigatito designs. Dexerto names Pikachu, Eevee, Charmander, Squirtle and Umbreon. Because the lists differ, the printable leaves a blank line for each name.
+There is no complete official toy list in the sources we used. ABC News and Attractions Magazine both name Pikachu, Bulbasaur, Charmander, Squirtle, Eevee, Rowlet and Sprigatito, and Dexerto also lists Umbreon. The printable leaves a blank line for each name.
 
 ## Is the Pokémon Happy Meal different in Quebec?
 
@@ -176,7 +188,7 @@ The printable has 15 toy slots and 15 card slots, each numbered with a blank lin
 
 ## What is still not confirmed?
 
-- The exact U.S. start date on an official page we could open.
+- An official McDonald's or Pokémon page we could open that states the Nov. 10 start.
 - The end date, which The Pokémon Company has not given.
 - The full toy and card lists.
 - The price.

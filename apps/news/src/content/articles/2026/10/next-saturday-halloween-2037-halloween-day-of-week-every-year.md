@@ -3,7 +3,7 @@ title: "Halloween 2027 Day of the Week: Sunday, Next Saturday in 2037"
 description: "Halloween 2027 is a Sunday. The next Saturday Halloween is Oct. 31, 2037. See the weekday for every year to 2050, plus a printable list."
 type: explainer
 publishedAt: "2026-10-31T09:40:00-04:00"
-updatedAt: "2026-11-04T13:30:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["next saturday halloween", "next halloween on a saturday", "what day is halloween 2027", "next friday halloween", "halloween on a weekend"]
@@ -11,7 +11,7 @@ dateline: "New York"
 hero:
   src: ../../../../assets/news/next-saturday-halloween-2037-halloween-day-of-week-every-year/next-saturday-halloween-2037-halloween-day-of-week-every-year.webp
   alt: "Next Saturday Halloween: a lit jack-o'-lantern on a stone wall at night"
-  caption: "Halloween falls on a Saturday in 2026, then not again until 2037, 2043 and 2048. National Park Service (NPS) file photo of a jack-o'-lantern."
+  caption: "Halloween fell on a Saturday in 2026 and next does so in 2037, 2043 and 2048. National Park Service (NPS) file photo of a jack-o'-lantern."
   credit: "Photo: NPS photo / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -26,8 +26,8 @@ summary:
 assets:
   scene: halloween
   overlay: true
-  kicker: "Halloween · Sat., Oct. 31, 2026"
-  date: "2026-10-31"
+  kicker: "Halloween · Sun., Oct. 31, 2027"
+  date: "2027-10-31"
   card: { top: "Next Saturday Halloween", big: "Sat., Oct. 31, 2037", bottom: "11 years after 2026" }
   printable:
     slug: halloween-day-of-week-2027-2045
@@ -36,6 +36,7 @@ assets:
     subtitle: "The weekday of Oct. 31 for each year, with weekend years marked"
     columns: ["Year", "Halloween (Oct. 31)"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["2027", "Sunday, weekend"]
       - ["2028", "Tuesday"]

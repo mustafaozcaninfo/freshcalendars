@@ -1,9 +1,9 @@
 ---
 title: "Pret Christmas Menu 2026: New Hot Baguette, Calories for Six Items"
-description: "Pret's Christmas menu 2026 was live on pret.co.uk on 5 November, with a new Christmas Hot Baguette. Calories for six items; no prices or launch date yet."
+description: "Pret's Christmas menu 2026 launched 3 November with a new Christmas Hot Baguette and runs to year end. Calories for six items; Pick your Pair is £4.99."
 type: news
 publishedAt: "2026-11-05T06:10:00-05:00"
-updatedAt: "2026-11-05T06:10:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["pret christmas sandwich 2026", "pret christmas menu 2026", "pret christmas baguette", "pret gingerbread latte"]
@@ -18,7 +18,7 @@ assets:
     title: "Pret Christmas Menu 2026 Card"
     subtitle: "Every item on Pret's Christmas page: type and what the page says"
     year: 2026
-    note: "Source: Pret A Manger, Christmas Menu page and product pages, read 5 Nov. 2026. Pret has not published a launch date or prices."
+    note: "Source: Pret A Manger, Christmas Menu page and product pages, read 5 Nov. 2026; press release of 3 Nov. 2026. Menu runs to the end of December, while stocks last."
     description: "One-page card of Pret A Manger's 2026 Christmas menu: 16 items by type, new or returning where Pret says so, and kilocalories where listed."
     alt: "Printable table of the Pret Christmas menu 2026 with each item, its type and a note from Pret's page"
     data:
@@ -75,7 +75,7 @@ assets:
         - cells: { item: "Pret's Christmas Half Baguette", type: "Pick your Pair", note: "352 kcal; not vegetarian" }
           src: 1
           quote: "Pret's Christmas Half Baguette"
-      note: "Kilocalories (kcal) are per serving from Pret's product pages. Pret published no prices."
+      note: "Kilocalories (kcal) are per serving from Pret's product pages. Pick your Pair is £4.99 (Pret press release)."
 hero:
   src: ../../../../assets/news/pret-christmas-menu-2026/pret-christmas-menu-2026.webp
   alt: "A British Christmas dinner plate with pigs in blankets, sprouts and roast potatoes, the flavours of the Pret Christmas menu 2026"
@@ -88,26 +88,26 @@ hero:
     author: "Rich Summers"
     authorUrl: "https://www.flickr.com/photos/89127659@N00"
 summary:
-  - "Pret A Manger's Christmas menu page was live on pret.co.uk on 5 November 2026; Pret has not published a launch date."
+  - "Pret A Manger's 2026 Christmas menu went on sale in shops across the UK on 3 November 2026 and runs to the end of December, while stocks last, per Pret's press release."
   - "The new item is the Christmas Hot Baguette, made with British chicken, port and orange cranberry sauce, herby pork stuffing and Grevé cheese."
-  - "The Christmas Sandwich returns, and every one sold supports The Pret Foundation's work on homelessness; Pret did not state a 2026 donation amount."
-  - "Pret listed no prices. Calories are published for six items, from 121 kilocalories (kcal) for the Christmas Ham Hock Side Soup to 462 kcal for the Chocolate Pistachio Croissant Roll."
+  - "The Christmas Sandwich returns, and every one sold supports The Pret Foundation's work on homelessness; Pret did not state a 2026 donation amount per sandwich."
+  - "Pret's only published price is £4.99 for Pick your Pair. Calories are published for six items, from 121 kilocalories (kcal) for the Christmas Ham Hock Side Soup to 462 kcal for the Chocolate Pistachio Croissant Roll."
 faq:
   - q: "When did the Pret Christmas menu 2026 launch?"
-    a: "Pret has not published a launch date. The Christmas menu page was live on pret.co.uk on 5 November 2026 and carries no date. In 2025 Pret said festive favourites were available from 4 November."
+    a: "Pret's press release of 3 November 2026 says the Christmas menu is available in shops across the UK from 3 November until the end of December, while stocks last. In 2025 Pret said festive favourites were available from 4 November."
   - q: "What is new on the Pret Christmas menu in 2026?"
-    a: "Pret calls the Christmas Hot Baguette new. It combines thick slices of British chicken with Port & orange cranberry sauce and herby pork stuffing with Grevé cheese. The Pick your Pair offer is also new for Christmas."
+    a: "Pret calls the Christmas Hot Baguette new. It combines thick slices of British chicken with Port & orange cranberry sauce and herby pork stuffing with Grevé cheese. Christmas items were also added to the £4.99 Pick your Pair deal."
   - q: "Does Pret have a vegan Christmas item in 2026?"
     a: "None of the items we checked is marked vegan. The Brie, Pistachio & Cranberry Half Baguette is suitable for vegetarians but not vegans, per Pret's product page."
   - q: "How much does the Pret Christmas menu cost in 2026?"
-    a: "We print no prices because Pret's Christmas page and the product pages we read did not list any."
+    a: "Pret's press release gives one price: £4.99 for Pick your Pair, which now includes Christmas half sandwiches, half baguettes and soup. We print no other prices because Pret's Christmas page and the product pages we read did not list any."
   - q: "How much of the Christmas Sandwich price goes to The Pret Foundation?"
-    a: "Pret has not stated a 2026 amount. In 2025 it said it would donate £1 from each Christmas Lunch sandwich."
+    a: "Pret has not given a 2026 amount per sandwich; its press release says every Christmas Sandwich sold gives back to the foundation. In 2025 it said it would donate £1 from each Christmas Lunch sandwich."
 sources:
   - title: "Christmas Menu | Jolly Good Food | Pret A Manger"
     url: "https://www.pret.co.uk/en-GB/christmas-menu-2026"
     publisher: "Pret A Manger"
-    date: "2026-11-05"
+    date: "2026-11-14"
   - title: "Brie, Pistachio & Cranberry Half Baguette"
     url: "https://www.pret.co.uk/en-GB/products/UK020341/brie-pistachio-and-cranberry-half-baguette"
     publisher: "Pret A Manger"
@@ -139,7 +139,15 @@ sources:
   - title: "Pret media centre"
     url: "https://www.pret.com/en-GB/mediacentre"
     publisher: "Pret A Manger"
-    date: "2026-11-05"
+    date: "2026-11-14"
+  - title: "Jolly Good Food: Pret a Manger unveils its 2026 Christmas menu"
+    url: "https://www.pret.com/en-GB/pr-jolly-good-food-pret-a-manger-unveils-its-2026-christmas-menu"
+    publisher: "Pret A Manger"
+    date: "2026-11-03"
+  - title: "Pret A Manger introduces new £4.99 Pick your Pair lunch deal and welcomes autumn menu"
+    url: "https://www.pret.com/en-GB/pr-pret-a-manger-introduces-new-pick-your-pair-lunch-deal-and-welcomes-autumn-menu"
+    publisher: "Pret A Manger"
+    date: "2026-09-08"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -166,32 +174,32 @@ downloads:
 draft: false
 ---
 
-**Pret A Manger's Christmas menu was on its United Kingdom (UK) website on 5 November 2026, with a new Christmas Hot Baguette and the Christmas Sandwich back, according to Pret's own Christmas page.** The page carries no date and Pret's media centre listed no 2026 Christmas release that day, so Pret has not published a launch date. In 2025, Pret said festive favourites were available from 4 November.
+**Pret A Manger's Christmas menu went on sale in shops across the United Kingdom (UK) on 3 November 2026, with a new Christmas Hot Baguette and the Christmas Sandwich back, according to Pret's press release.** Pret says the menu is available until the end of December, while stocks last. In 2025, Pret said festive favourites were available from 4 November.
 
 ## What is on the Pret Christmas menu in 2026?
 
-The page names 16 items. The table groups them by type and uses Pret's own wording for what is new or returning; where the page says nothing, the table says so. Kilocalories (kcal) come from Pret's product pages, read on 5 November 2026.
+Pret's Christmas page names 16 items. The table groups them by type and uses Pret's own wording, from the page and the press release, for what is new or returning; where neither says, the table says so. Kilocalories (kcal) come from Pret's product pages, read on 5 November 2026.
 
 | Item | Type | New or returning | Vegetarian | kcal |
 |---|---|---|---|---|
 | Christmas Hot Baguette | Hot baguette | New | Not checked | Not read |
 | Christmas Sandwich | Sandwich | Returns | Not checked | Not read |
 | Brie, Pistachio & Cranberry Baguette | Baguette | Returns | Not checked | Not read |
-| Christmas dinner, in a baguette (British turkey) | Baguette | Not stated | Not checked | Not read |
-| Chocolate Orange Latte | Drink | Not stated | Not checked | Not read |
-| Orange Hot Chocolate | Drink | Not stated | Not checked | Not read |
+| Christmas dinner, in a baguette (British turkey) | Baguette | Not given | Not checked | Not read |
+| Chocolate Orange Latte | Drink | New | Not checked | Not read |
+| Orange Hot Chocolate | Drink | New | Not checked | Not read |
 | Gingerbread Latte | Drink | Returns | Not checked | Not read |
-| Triple Chocolate Crunch Loaf Cake | Sweet | Not stated | Yes | 441 |
-| Chocolate Pistachio Croissant Roll | Sweet | Not stated | Yes | 462 |
-| Chocolate Chunk Cookie | Sweet | Not stated | Not checked | Not listed |
+| Triple Chocolate Crunch Loaf Cake | Sweet | New | Yes | 441 |
+| Chocolate Pistachio Croissant Roll | Sweet | New | Yes | 462 |
+| Chocolate Chunk Cookie | Sweet | Not given | Not checked | Not listed |
 | Pigs in Blankets Roll | Hot roll | Returns | Not checked | Not read |
-| Pret Lobster Roll | Roll | Not stated | Not checked | Not read |
-| Brie, Pistachio & Cranberry Half Baguette | Pick your Pair | Offer is new | Yes | 296 |
-| Pret's Christmas Half Sandwich | Pick your Pair | Offer is new | No | 275 |
-| Christmas Ham Hock Side Soup | Pick your Pair | Offer is new | No | 121 |
-| Pret's Christmas Half Baguette | Pick your Pair | Offer is new | No | 352 |
+| Pret Lobster Roll | Roll | Limited-time return | Not checked | Not read |
+| Brie, Pistachio & Cranberry Half Baguette | Pick your Pair | Added for Christmas | Yes | 296 |
+| Pret's Christmas Half Sandwich | Pick your Pair | Added for Christmas | No | 275 |
+| Christmas Ham Hock Side Soup | Pick your Pair | Added for Christmas | No | 121 |
+| Pret's Christmas Half Baguette | Pick your Pair | Added for Christmas | No | 352 |
 
-For the full-size sandwich, baguettes, rolls and drinks, check Pret's allergen and nutrition guide.
+Pret's press release also names a Boxing Day Toastie, a Jaffa Cake Loaf Cake and Jolly Good Tiffin, which are not among the 16 items on the Christmas page. For the full-size sandwich, baguettes, rolls and drinks, check Pret's allergen and nutrition guide.
 
 ## What is the new Christmas Hot Baguette?
 
@@ -203,11 +211,11 @@ Pret calls the Christmas Sandwich "iconic" and says every one sold supports The 
 
 ## Pret Gingerbread Latte and festive drinks
 
-The Gingerbread Latte is back. The Chocolate Orange Latte blends Pret's espresso with chocolate and orange flavours, and the Orange Hot Chocolate combines rich chocolate with zesty orange. Both are finished with a swirl of chocolate whipped cream. Pret's page does not say whether the two orange drinks are new.
+The Gingerbread Latte is back. The Chocolate Orange Latte blends Pret's espresso with chocolate and orange flavours, and the Orange Hot Chocolate combines rich chocolate with zesty orange. Both are finished with a swirl of chocolate whipped cream. Pret's press release calls both orange drinks new additions.
 
 ## Pick your Pair calories and dietary flags
 
-Pret labels Pick your Pair "new for Christmas" and lists four items. The table gives the figures from each product page. We did not read the offer's pairing rules or price, so check them in store or in the app.
+Pret labels Pick your Pair "new for Christmas" on the menu page. Its press release says the £4.99 deal launched earlier this year and has been extended with seasonal options, among them the four items below. Pret describes the deal as a mix and match of selected half baguettes, half sandwiches, side soups, side salads and protein pots. The table gives the figures from each product page.
 
 | Pick your Pair item | kcal per serving | Vegetarian |
 |---|---|---|
@@ -222,13 +230,13 @@ The Christmas Ham Hock Side Soup is the lightest of the four at 121 kcal and the
 
 | | 2025 | 2026 |
 |---|---|---|
-| Launch date | From 4 November, per Pret's 2025 page | Not published; on the menu as of 5 November |
+| Launch date | From 4 November, per Pret's 2025 page | From 3 November, per Pret's press release; runs to the end of December |
 | Christmas sandwich name | Christmas Lunch Sandwich | Christmas Sandwich |
-| Donation | £1 from each Christmas Lunch sandwich | Supports The Pret Foundation; amount not stated |
+| Donation | £1 from each Christmas Lunch sandwich | Supports The Pret Foundation; amount not given |
 
-## Prices and dates Pret has not given
+## Prices and delivery
 
-Pret published no prices on the pages we read, so we print none. We also found no end date and no Club Pret details for 2026. To compare other chains, see our [UK Christmas menus 2026 roundup](/news/uk-christmas-menus-2026-greggs-costa-starbucks-kfc/), the [UK Christmas sandwiches 2026 comparison](/news/uk-christmas-sandwiches-2026-ms-pret-boots-tesco/) and the [Costa Christmas menu 2026](/news/costa-christmas-menu-2026-ferrero-rocher-latte/). Mark the weeks on a [November 2026 printable calendar](/november-calendars.html) or a [December 2026 printable calendar](/december-calendars.html).
+Pret's press release gives one price, £4.99 for Pick your Pair. The menu page and product pages we read list no other prices, so we print none, and we found no Club Pret details for 2026. Selected products are also available for delivery through Deliveroo, Uber Eats and Just Eat, per the release. To compare other chains, see our [UK Christmas menus 2026 roundup](/news/uk-christmas-menus-2026-greggs-costa-starbucks-kfc/), the [UK Christmas sandwiches 2026 comparison](/news/uk-christmas-sandwiches-2026-ms-pret-boots-tesco/) and the [Costa Christmas menu 2026](/news/costa-christmas-menu-2026-ferrero-rocher-latte/). Mark the weeks on a [November 2026 printable calendar](/november-calendars.html) or a [December 2026 printable calendar](/december-calendars.html).
 
 ## Print the Pret Christmas menu card
 

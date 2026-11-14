@@ -1,9 +1,9 @@
 ---
-title: "Is Costco Open on Veterans Day 2026? Yes, Wednesday, Nov. 11"
-description: "Costco is open on Veterans Day, Wednesday, Nov. 11, 2026. It closes U.S. warehouses on seven holidays; a table lists each closure date through 2027."
+title: "Is Costco Open on Thanksgiving 2026? Closed Thursday, Nov. 26"
+description: "Costco closes U.S. warehouses Thursday, Nov. 26 for Thanksgiving and Friday, Dec. 25. It has seven holiday closures; a table lists each date through 2027."
 type: news
 publishedAt: "2026-10-19T11:00:00-04:00"
-updatedAt: "2026-11-02T16:39:00-05:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Costco holiday hours 2026", "is Costco open on Thanksgiving 2026", "Costco closed Christmas 2026", "Costco holiday closures", "is Costco open on Veterans Day"]
@@ -16,7 +16,7 @@ hero:
 summary:
   - "Costco closes its U.S. warehouses on seven holidays: New Year's Day, Easter Sunday, Memorial Day, Independence Day, Labor Day, Thanksgiving Day and Christmas Day."
   - "The next closures are Thanksgiving, Thursday, Nov. 26, and Christmas Day, Friday, Dec. 25, 2026, then New Year's Day, Friday, Jan. 1, 2027."
-  - "Veterans Day, Black Friday, Christmas Eve and New Year's Eve are not on Costco's closure list, so warehouses open, with local hours."
+  - "Black Friday, Christmas Eve and New Year's Eve are not on Costco's closure list, so warehouses open, with local hours. Veterans Day, Nov. 11, was not a closure either."
   - "Gas stations, pharmacies and other departments can keep different hours; check your warehouse page."
 faq:
   - q: "Is Costco open on Thanksgiving 2026?"
@@ -25,17 +25,19 @@ faq:
     a: "Yes. Black Friday, Nov. 27, is not a Costco holiday closure. Hours are set by each warehouse."
   - q: "Is Costco open on Christmas Eve and Christmas Day 2026?"
     a: "Costco is closed on Christmas Day, Friday, Dec. 25. Christmas Eve is not on its closure list, so warehouses open, often with shorter hours; check your local warehouse."
-  - q: "Is Costco open on Veterans Day?"
-    a: "Yes. Veterans Day, Wednesday, Nov. 11, 2026, is not one of Costco's seven holiday closures."
+  - q: "Was Costco open on Veterans Day?"
+    a: "Yes. Veterans Day, Wednesday, Nov. 11, 2026, is not one of Costco's seven holiday closures, so warehouses were open with local hours."
   - q: "Is Costco open on New Year's Day 2027?"
     a: "No. Costco closes U.S. warehouses on New Year's Day, Friday, Jan. 1, 2027."
 sources:
   - title: "Holiday Savings Valid Nov. 26"
     url: "https://www.costco.com/o/-/thanksgiving-day"
     publisher: "Costco Wholesale"
+    date: "2026-11-14"
   - title: "What are Costco's holiday closures?"
     url: "https://customerservice.costco.com/app/answers/detail/a_id/701/~/what-are-costcos-holiday-closures"
     publisher: "Costco Wholesale Customer Service"
+    date: "2026-11-14"
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
@@ -50,13 +52,13 @@ related: [usps-holiday-shipping-deadlines-2026, why-thanksgiving-2026-is-novembe
 draft: false
 ---
 
-**Costco closes its U.S. warehouses on seven holidays a year**, according to its customer service page, and the next two are close: **Thanksgiving, Thursday, Nov. 26**, and **Christmas Day, Friday, Dec. 25, 2026**. Warehouses then close again on New Year's Day, Friday, Jan. 1, 2027. Everything else, including Veterans Day, Black Friday and Christmas Eve, is a regular business day, with hours set by each warehouse.
+**Costco closes its U.S. warehouses on seven holidays a year**, according to its customer service page, and the next two are close: **Thanksgiving, Thursday, Nov. 26**, and **Christmas Day, Friday, Dec. 25, 2026**. Warehouses then close again on New Year's Day, Friday, Jan. 1, 2027. Everything else, including Black Friday and Christmas Eve, is a regular business day, with hours set by each warehouse.
 
 ## Costco holiday closures, Nov. 2026 to Sept. 2027
 
 | Holiday | Date | Costco |
 |---|---|---|
-| Veterans Day | Wednesday, Nov. 11, 2026 | Open |
+| Veterans Day | Wednesday, Nov. 11, 2026 | Was open |
 | Thanksgiving Day | Thursday, Nov. 26, 2026 | **Closed** |
 | Black Friday | Friday, Nov. 27, 2026 | Open |
 | Christmas Eve | Thursday, Dec. 24, 2026 | Open (local hours) |
@@ -88,6 +90,6 @@ Costco's gas stations, pharmacies, optical centers and tire centers often keep d
 
 ## Not a federal holiday schedule
 
-Costco's list is not the same as the federal holiday list. Costco stays open on several federal holidays, including Veterans Day, Martin Luther King Jr. Day and Presidents' Day, and closes on Easter Sunday, which is not a federal holiday. Easter 2027 falls on March 28; see [when Easter falls](/when-is/easter/) each year. Shoppers buying holiday sets early, such as this year's [LEGO advent calendars](/news/lego-advent-calendars-2026-prices-whats-inside/), can also order online from Costco.com on days the warehouses are closed.
+Costco's list is not the same as the federal holiday list. Costco stays open on several federal holidays, including Veterans Day (Nov. 11, 2026), Martin Luther King Jr. Day and Presidents' Day, and closes on Easter Sunday, which is not a federal holiday. Easter 2027 falls on March 28; see [when Easter falls](/when-is/easter/) each year. Shoppers buying holiday sets early, such as this year's [LEGO advent calendars](/news/lego-advent-calendars-2026-prices-whats-inside/), can also order online from Costco.com on days the warehouses are closed.
 
 For other chains, see our [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/) and [Christmas Eve and Christmas Day store hours](/news/christmas-eve-christmas-day-2026-store-hours/).

@@ -3,7 +3,7 @@ title: "F1 Calendar 2027: 24 Races and 10 Sprint Weekends, Printable"
 description: "The 2027 Formula 1 (F1) calendar has 24 Grands Prix, Bahrain on Mar. 14 to Abu Dhabi on Dec. 12. Every race date, 10 Sprint weekends and a printable."
 type: news
 publishedAt: "2026-11-01T19:20:00-05:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["F1 calendar 2027", "Formula 1 2027 schedule", "F1 2027 sprint races", "F1 2027 calendar printable"]
@@ -85,6 +85,7 @@ sources:
   - title: "F1 Schedule 2027"
     url: "https://www.formula1.com/en/racing/2027"
     publisher: "Formula 1"
+    date: "2026-11-14"
   - title: "Formula 1 returns to Turkey's Istanbul Park from 2027 as part of new five-year agreement"
     url: "https://www.formula1.com/en/latest/article/formula-1-returns-to-turkeys-istanbul-park-from-2027-as-part-of-new-five-year-agreement.1I7OZGeDPoC6Vysv3iqadY.1I7OZGeDPoC6Vysv3iqadY"
     publisher: "Formula 1"
@@ -179,9 +180,9 @@ These counts are computed from the race days above, not stated by Formula 1. Ele
 
 The longest gap is 35 days, from Hungary on Aug. 1 to Italy on Sept. 5. The next longest is 21 days, from Miami on May 2 to Canada on May 23. Eight gaps are 14 days, one is 13 days (Brazil on Nov. 7 to Las Vegas on Nov. 20) and one is 15 days (Las Vegas to Qatar on Dec. 5).
 
-## Are the 2026 races still to come?
+## Which 2026 races are still to come?
 
-Yes. The 2026 season still has São Paulo (Nov. 6-8), Las Vegas (Nov. 19-21), Qatar (Nov. 27-29) and Abu Dhabi (Dec. 4-6) left, per formula1.com. For those weekends, see the [São Paulo Grand Prix 2026 schedule](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/), the [Las Vegas Grand Prix 2026 race time by U.S. time zone](/news/las-vegas-grand-prix-2026-schedule-race-time-by-time-zone/) and the [Abu Dhabi Grand Prix 2026 schedule](/news/abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone/). To see the Bahrain and Saudi Arabia weekends by day, use the [March printable calendar](/march-calendars.html). Another 2027 season list, for the National Association for Stock Car Auto Racing (NASCAR), is the [NASCAR Cup schedule for 2027](/news/nascar-cup-schedule-2027-daytona-500-february-21-full-race-list/).
+Three. The 2026 season has Las Vegas (Nov. 19-21), Qatar (Nov. 27-29) and Abu Dhabi (Dec. 4-6) left, per formula1.com, which lists the São Paulo weekend (Nov. 6-8) as the previous round. For those weekends, see the [Las Vegas Grand Prix 2026 race time by U.S. time zone](/news/las-vegas-grand-prix-2026-schedule-race-time-by-time-zone/) and the [Abu Dhabi Grand Prix 2026 schedule](/news/abu-dhabi-grand-prix-2026-schedule-race-time-by-time-zone/). The earlier [São Paulo Grand Prix 2026 schedule](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/) covers the weekend just run. To see the Bahrain and Saudi Arabia weekends by day, use the [March printable calendar](/march-calendars.html). Another 2027 season list, for the National Association for Stock Car Auto Racing (NASCAR), is the [NASCAR Cup schedule for 2027](/news/nascar-cup-schedule-2027-daytona-500-february-21-full-race-list/).
 
 ## What is not yet announced for 2027?
 

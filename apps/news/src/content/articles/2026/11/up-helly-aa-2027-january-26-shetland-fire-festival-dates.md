@@ -1,9 +1,9 @@
 ---
-title: "Up Helly Aa 2027: Lerwick on Jan. 26, Plus 7 More Fire Festivals"
-description: "Up Helly Aa 2027 is Tuesday, Jan. 26 in Lerwick. See seven more Shetland fire festival dates to Mar. 5, the day's times in ET and a free printable."
+title: "Up Helly Aa 2027: Lerwick on Jan. 26, Plus 9 More Fire Festivals"
+description: "Up Helly Aa 2027 is Tuesday, Jan. 26 in Lerwick. See nine more Shetland fire festival dates to Mar. 19, the day's times in ET and a free printable."
 type: explainer
 publishedAt: "2026-11-10T05:21:00-05:00"
-updatedAt: "2026-11-10T05:21:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 dateline: "Lerwick"
@@ -22,7 +22,7 @@ hero:
 summary:
   - "Up Helly Aa 2027 is on Tuesday, Jan. 26, 2027 in Lerwick, Shetland, according to the Lerwick Up Helly Aa Committee."
   - "The procession lights up at 19:30 Greenwich Mean Time (GMT) on the Hillhead, which is 2:30 p.m. ET."
-  - "Seven other Shetland fire festivals have 2027 dates on Shetland.org, from Scalloway on Fri., Jan. 8 to Bressay on Fri., Mar. 5."
+  - "Nine other Shetland fire festivals have 2027 dates on Shetland.org, from Scalloway on Fri., Jan. 8 to Delting on Fri., Mar. 19."
   - "The 2027 Guizer Jarl is a secret until after the event, and Lerwick Town Hall tickets for 2027 have not been announced."
 faq:
   - q: "Who is the Guizer Jarl for 2027?"
@@ -39,7 +39,7 @@ sources:
   - title: "Up Helly Aa 2027 | Up Helly Aa"
     url: "https://uphellyaa.org/up-helly-aa-2027/"
     publisher: "Lerwick Up Helly Aa Committee"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Up Helly Aa"
     url: "https://uphellyaa.org/"
     publisher: "Lerwick Up Helly Aa Committee"
@@ -47,35 +47,35 @@ sources:
   - title: "Lerwick Up Helly Aa"
     url: "https://www.shetland.org/visit/events/lerwick-uha"
     publisher: "Promote Shetland (Shetland.org)"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Scalloway Up Helly Aa"
     url: "https://www.shetland.org/visit/events/scalloway-fire-festival"
     publisher: "Promote Shetland (Shetland.org)"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Nesting and Girlsta Up Helly Aa"
     url: "https://www.shetland.org/visit/events/nesting-girlsta-uha"
     publisher: "Promote Shetland (Shetland.org)"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Uyeasound Up Helly Aa"
     url: "https://www.shetland.org/visit/events/uyeasound-uha"
     publisher: "Promote Shetland (Shetland.org)"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Northmavine Up Helly Aa"
     url: "https://www.shetland.org/visit/events/northmavine-uha"
     publisher: "Promote Shetland (Shetland.org)"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Cullivoe Up Helly Aa"
     url: "https://www.shetland.org/visit/events/cullivoe-uha"
     publisher: "Promote Shetland (Shetland.org)"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Norwick Up Helly Aa"
     url: "https://www.shetland.org/visit/events/norwick-uha"
     publisher: "Promote Shetland (Shetland.org)"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Bressay Up Helly Aa"
     url: "https://www.shetland.org/visit/events/bressay-uha"
     publisher: "Promote Shetland (Shetland.org)"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Lerwick Junior Up Helly Aa"
     url: "https://www.shetland.org/visit/events/lerwick-junior-up-helly-aa"
     publisher: "Promote Shetland (Shetland.org)"
@@ -83,11 +83,11 @@ sources:
   - title: "Tickets"
     url: "https://uphellyaa.org/tickets/"
     publisher: "Lerwick Up Helly Aa Committee"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Up Helly Aa Exhibition"
     url: "https://uphellyaa.org/up-helly-aa-exhibition/"
     publisher: "Lerwick Up Helly Aa Committee"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Recent festivals: 2026"
     url: "https://uphellyaa.org/recent-festivals/2026/"
     publisher: "Lerwick Up Helly Aa Committee"
@@ -108,6 +108,14 @@ sources:
     url: "https://www.northlinkferries.co.uk/routes-times-and-prices/"
     publisher: "NorthLink Ferries"
     date: "2026-11-10"
+  - title: "South Mainland Up Helly Aa"
+    url: "https://www.shetland.org/visit/events/south-mainland-uha"
+    publisher: "Promote Shetland (Shetland.org)"
+    date: "2026-11-14"
+  - title: "Delting Up Helly Aa"
+    url: "https://www.shetland.org/visit/events/delting-uha"
+    publisher: "Promote Shetland (Shetland.org)"
+    date: "2026-11-14"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -124,10 +132,10 @@ assets:
     slug: up-helly-aa-2027-fire-festival-dates
     group: up-helly-aa-2027
     title: "Up Helly Aa 2027 Shetland Fire Festival Dates"
-    subtitle: "Eight festival dates and the Lerwick day on Tue., Jan. 26, 2027"
+    subtitle: "Ten festival dates and the Lerwick day on Tue., Jan. 26, 2027"
     note: "Source: Lerwick Up Helly Aa Committee (uphellyaa.org) and Promote Shetland (Shetland.org). Lerwick times are Greenwich Mean Time (GMT); Eastern Time (ET) is GMT minus 5 hours in January."
-    description: "One-page printable list of the eight 2027 Shetland fire festival dates and the Lerwick Up Helly Aa day programme in GMT and ET."
-    alt: "Printable list of the eight 2027 Shetland Up Helly Aa fire festival dates and the Lerwick day programme"
+    description: "One-page printable list of the ten 2027 Shetland fire festival dates and the Lerwick Up Helly Aa day programme in GMT and ET."
+    alt: "Printable list of the ten 2027 Shetland Up Helly Aa fire festival dates and the Lerwick day programme"
     data:
       columns:
         - { key: when, label: "Date and time" }
@@ -149,32 +157,34 @@ assets:
         - { cells: { when: "Fri., Feb. 26", what: "Cullivoe, Yell: galley taken to the marina and burned" }, src: 8 }
         - { cells: { when: "Sat., Feb. 27", what: "Norwick, Unst: procession to the beach and burning" }, src: 9 }
         - { cells: { when: "Fri., Mar. 5", what: "Bressay: torch procession, galley burned, hall dance" }, src: 10 }
-      note: ["Dates not yet posted on Shetland.org: South Mainland, Delting and Walls. Check Shetland.org before you travel."]
+        - { cells: { when: "Fri., Mar. 12", what: "South Mainland" }, src: 21, quote: "12 Mar 2027" }
+        - { cells: { when: "Fri., Mar. 19", what: "Delting, Brae" }, src: 22, quote: "19 Mar 2027" }
+      note: ["Date not yet posted on Shetland.org: Walls. Check Shetland.org before you travel."]
 downloads:
   - group: "Up Helly Aa 2027 Shetland Fire Festival Dates printables"
     title: "Up Helly Aa 2027 Shetland Fire Festival Dates"
-    description: "One-page printable list of the eight 2027 Shetland fire festival dates and the Lerwick Up Helly Aa day programme in GMT and ET."
+    description: "One-page printable list of the ten 2027 Shetland fire festival dates and the Lerwick Up Helly Aa day programme in GMT and ET."
     preview: ../../../../assets/news/up-helly-aa-2027/up-helly-aa-2027-fire-festival-dates.png
-    alt: "Printable list of the eight 2027 Shetland Up Helly Aa fire festival dates and the Lerwick day programme"
+    alt: "Printable list of the ten 2027 Shetland Up Helly Aa fire festival dates and the Lerwick day programme"
     pdf: "/news/downloads/up-helly-aa-2027/up-helly-aa-2027-fire-festival-dates.pdf"
     png: "/news/downloads/up-helly-aa-2027/up-helly-aa-2027-fire-festival-dates.png"
     pages: 1
   - group: "Up Helly Aa 2027 Shetland Fire Festival Dates printables"
     title: "Up Helly Aa 2027 Shetland Fire Festival Dates (A4)"
-    description: "One-page printable list of the eight 2027 Shetland fire festival dates and the Lerwick Up Helly Aa day programme in GMT and ET. A4 paper."
+    description: "One-page printable list of the ten 2027 Shetland fire festival dates and the Lerwick Up Helly Aa day programme in GMT and ET. A4 paper."
     preview: ../../../../assets/news/up-helly-aa-2027/up-helly-aa-2027-fire-festival-dates-a4.png
-    alt: "Printable list of the eight 2027 Shetland Up Helly Aa fire festival dates and the Lerwick day programme, A4"
+    alt: "Printable list of the ten 2027 Shetland Up Helly Aa fire festival dates and the Lerwick day programme, A4"
     pdf: "/news/downloads/up-helly-aa-2027/up-helly-aa-2027-fire-festival-dates-a4.pdf"
     png: "/news/downloads/up-helly-aa-2027/up-helly-aa-2027-fire-festival-dates-a4.png"
     pages: 1
 draft: false
 ---
 
-**Up Helly Aa 2027 is on Tuesday, Jan. 26, 2027 in Lerwick, Shetland, according to the Lerwick Up Helly Aa Committee, and the procession lights up at 19:30 Greenwich Mean Time (GMT), which is 2:30 p.m. ET.** Seven more Shetland fire festivals have 2027 dates on Shetland.org, run by Promote Shetland, from Scalloway on Friday, Jan. 8 to Bressay on Friday, Mar. 5. The tables below put all eight dates and the Lerwick day's clock times side by side, and a free printable list follows them.
+**Up Helly Aa 2027 is on Tuesday, Jan. 26, 2027 in Lerwick, Shetland, according to the Lerwick Up Helly Aa Committee, and the procession lights up at 19:30 Greenwich Mean Time (GMT), which is 2:30 p.m. ET.** Nine more Shetland fire festivals have 2027 dates on Shetland.org, run by Promote Shetland, from Scalloway on Friday, Jan. 8 to Delting on Friday, Mar. 19. The tables below put all ten dates and the Lerwick day's clock times side by side, and a free printable list follows them.
 
 ## Shetland fire festival dates in 2027
 
-The Lerwick date and the rule behind it come from the committee: the festival "takes place in Lerwick, Shetland, on the last Tuesday in January every year." The other seven dates are from each festival's page on Shetland.org. The weekdays are computed by Fresh Calendars.
+The Lerwick date and the rule behind it come from the committee: the festival "takes place in Lerwick, Shetland, on the last Tuesday in January every year." The other nine dates are from each festival's page on Shetland.org. The weekdays are computed by Fresh Calendars.
 
 | Festival | 2027 date | What the official page says |
 |---|---|---|
@@ -186,8 +196,10 @@ The Lerwick date and the rule behind it come from the committee: the festival "t
 | Cullivoe, Yell | Fri., Feb. 26 | Galley taken to the marina and burned |
 | Norwick, Unst | Sat., Feb. 27 | Procession to the beach and burning |
 | Bressay | Fri., Mar. 5 | Torch procession, galley burned, hall dance |
+| South Mainland | Fri., Mar. 12 | Date only |
+| Delting, Brae | Fri., Mar. 19 | Date only |
 
-Lerwick Junior Up Helly Aa is held the same day, Jan. 26, according to Shetland.org. South Mainland, Delting and Walls also hold fire festivals, but their 2027 dates are not yet posted on Shetland.org, so none is given here. NorthLink Ferries' guide lists Norwick on Mar. 6, while Shetland.org lists Feb. 27; the table uses the official Shetland.org date, so check it again before you travel.
+Lerwick Junior Up Helly Aa is held the same day, Jan. 26, according to Shetland.org. Walls also holds a fire festival, but its 2027 date is not yet posted on Shetland.org, so none is given here. NorthLink Ferries' guide lists Norwick on Mar. 6, while Shetland.org lists Feb. 27; the table uses the official Shetland.org date, so check it again before you travel.
 
 ## What time is Lerwick Up Helly Aa on Jan. 26?
 
@@ -225,4 +237,4 @@ Burns Night falls the day before, on Monday, Jan. 25; see [Burns Night 2027 and 
 
 ## Print the Up Helly Aa 2027 dates
 
-The printable "Up Helly Aa 2027 Shetland Fire Festival Dates" puts the eight festival dates and the Lerwick day times, in GMT and ET, on one US Letter page, with the sources named at the bottom.
+The printable "Up Helly Aa 2027 Shetland Fire Festival Dates" puts the ten festival dates and the Lerwick day times, in GMT and ET, on one US Letter page, with the sources named at the bottom.

@@ -3,7 +3,7 @@ title: "Is the DMV Open on Election Day 2026? Not a Federal Holiday"
 description: "Election Day was not a federal holiday, so banks and the post office stayed open Nov. 3, 2026. Six states list it as a state holiday; time off to vote."
 type: explainer
 publishedAt: "2026-10-20T10:50:00-04:00"
-updatedAt: "2026-11-05T03:22:58-05:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is election day a holiday", "is the DMV open on election day", "are banks open on election day", "is the post office open on election day", "election day 2026 school closed"]
@@ -24,7 +24,7 @@ faq:
   - q: "Are banks open on Election Day 2026?"
     a: "Nov. 3 is not on the Federal Reserve's 2026 holiday list, so Federal Reserve Banks are open. Most banks follow the Federal Reserve holiday schedule; check your branch."
   - q: "Is mail delivered on Election Day?"
-    a: "Nov. 3 is not a federal holiday, and U.S. Postal Service (USPS) holidays are the federal holidays. The next one is Veterans Day, Wednesday, Nov. 11."
+    a: "Nov. 3 is not a federal holiday, and U.S. Postal Service (USPS) holidays are the federal holidays. Veterans Day, Wednesday, Nov. 11, has passed; the next is Thanksgiving Day, Thursday, Nov. 26."
   - q: "Is the stock market open on Election Day?"
     a: "Yes. Nov. 3 is not on the NYSE 2026 holiday list, so regular hours of 9:30 a.m. to 4 p.m. Eastern Time (ET) apply. The Securities Industry and Financial Markets Association (SIFMA) holiday schedule has no U.S. entry for Nov. 3."
   - q: "Which states make Election Day a holiday?"
@@ -58,7 +58,7 @@ sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
-    date: "2026-11-02"
+    date: "2026-11-14"
   - title: "Holidays & Trading Hours"
     url: "https://www.nyse.com/markets/hours-calendars"
     publisher: "New York Stock Exchange"
@@ -128,9 +128,9 @@ assets:
       - ["Tue., Nov. 3", "New York City public schools: in session remotely for all students"]
       - ["Tue., Nov. 3", "Check your school district calendar"]
       - ["Tue., Nov. 3", "Check your polling place hours"]
-      - ["Wed., Nov. 11", "Next federal holiday: Veterans Day"]
-    note: "Source: OPM; Federal Reserve Board K.8; NYSE; state HR holiday pages (DE, IL, IN, LA, MD, NJ, NY, KY); NYC Public Schools. Checked Nov. 2, 2026."
-    inkSaver: true
+      - ["Thu., Nov. 26", "Next federal holiday: Thanksgiving Day"]
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
+    note: "Source: OPM; Federal Reserve Board K.8; NYSE; state HR holiday pages (DE, IL, IN, LA, MD, NJ, NY, KY); NYC Public Schools. Checked Nov. 14, 2026."
     description: "One-page Election Day 2026 list of what is open and closed on Tuesday, Nov. 3: federal offices, banks, stock market, state offices and schools."
     alt: "Election Day 2026 open and closed printable listing federal, bank, stock market, state office and school status for Nov. 3"
 downloads:
@@ -141,14 +141,6 @@ downloads:
     alt: "Election Day 2026 open and closed printable listing federal, bank, stock market, state office and school status for Nov. 3"
     pdf: "/news/downloads/election-day-2026/election-day-2026-open-closed.pdf"
     png: "/news/downloads/election-day-2026/election-day-2026-open-closed.png"
-    pages: 1
-  - group: "Election Day 2026 printables"
-    title: "Election Day 2026: What's Open and Closed, Tue., Nov. 3 (ink saver)"
-    description: "One-page Election Day 2026 list of what is open and closed on Tuesday, Nov. 3: federal offices, banks, stock market, state offices and schools. Ink-saver version."
-    preview: ../../../../assets/news/election-day-2026/election-day-2026-open-closed-ink.png
-    alt: "Election Day 2026 open and closed printable listing federal, bank, stock market, state office and school status for Nov. 3, ink-saver version"
-    pdf: "/news/downloads/election-day-2026/election-day-2026-open-closed-ink.pdf"
-    png: "/news/downloads/election-day-2026/election-day-2026-open-closed-ink.png"
     pages: 1
 draft: false
 ---
@@ -167,7 +159,7 @@ Because Election Day is not a federal holiday, the schedule that held on Tuesday
 | State offices | Closed in the states that list Election Day as a holiday (table below) | State HR pages |
 | Public schools | Varied by district; New York City public schools held remote classes for all students | NYC Public Schools |
 
-The next federal holiday is [Veterans Day, Wednesday, Nov. 11](/news/veterans-day-2026-wednesday-november-11/), when federal offices and many banks close; see also [when Veterans Day falls](/when-is/veterans-day/).
+The most recent federal holiday was [Veterans Day, Wednesday, Nov. 11](/news/veterans-day-2026-wednesday-november-11/), when federal offices and many banks closed; see also [when Veterans Day falls](/when-is/veterans-day/). The next one is Thanksgiving Day, Thursday, Nov. 26.
 
 ## Is the Department of Motor Vehicles (DMV) open on Election Day?
 

@@ -3,6 +3,7 @@ title: "RRSP Deadline 2027: Monday, March 1, Plus Canada Tax Season Dates"
 description: "The Registered Retirement Savings Plan (RRSP) deadline for 2026 is Mon., March 1, 2027 by the 60-day count. Also: 2026 and 2027 limits and filing dates."
 type: explainer
 publishedAt: "2026-11-02T12:56:00-05:00"
+updatedAt: "2026-11-14T17:12:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["RRSP deadline 2027", "RRSP contribution deadline 2027", "RRSP limit 2027", "Canada tax deadline 2027", "when can I file my taxes 2027 Canada"]
@@ -18,15 +19,16 @@ assets:
     title: "Canada Tax Dates, Dec. 2026 to June 2027"
     subtitle: "RRSP deadline, filing and payment dates for 2026 returns"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Dec. 15, 2026", "Last 2026 tax instalment for most people (Tuesday)"]
       - ["Dec. 31, 2026", "First Home Savings Account contributions for 2026 end this day (Thursday)"]
+      - ["Feb. 22, 2027", "Tax season begins, per the CRA (Monday)"]
       - ["Mar. 1, 2027", "RRSP deadline for 2026 returns, computed (Monday)"]
       - ["Mar. 15, 2027", "First 2027 instalment, on the CRA's usual schedule (Monday)"]
       - ["Apr. 30, 2027", "File and pay balance owing, CRA's usual date (Friday)"]
       - ["Jun. 15, 2027", "Self-employed filing, CRA's usual date (Tuesday)"]
-    note: "Source: Canada Revenue Agency, Due dates and payment dates; Payment due dates for instalments; Participating in your FHSAs. 2027 dates not yet posted by the CRA. Online filing opening date for 2026 returns not yet announced."
-    inkSaver: true
+    note: "Source: Canada Revenue Agency, Due dates and payment dates; Payment due dates for instalments; Participating in your FHSAs. Season start from the CRA tax tip of Sept. 22, 2026; checked Nov. 14, 2026. Other 2027 dates not yet posted by the CRA."
     description: "One-page printable list of Canada tax dates from December 2026 to June 2027: RRSP deadline, instalments, filing and payment dates for 2026 returns."
     alt: "Printable list of Canada tax dates from December 2026 to June 2027 with a Done column"
 hero:
@@ -41,9 +43,9 @@ hero:
     author: "Michel Rathwell from Cornwall, Canada"
     authorUrl: "https://www.flickr.com/people/93922433@N02"
 summary:
-  - "The Registered Retirement Savings Plan (RRSP) deadline for the 2026 tax year falls on Monday, March 1, 2027, 60 days after Dec. 31, 2026; the Canada Revenue Agency (CRA) has not posted its 2027 dates."
+  - "The Registered Retirement Savings Plan (RRSP) deadline for the 2026 tax year falls on Monday, March 1, 2027, 60 days after Dec. 31, 2026; the Canada Revenue Agency (CRA) has not posted its 2027 RRSP date."
   - "The CRA's 2026 RRSP dollar limit is $33,810 and the 2027 limit is $35,390."
-  - "Last year the CRA opened online filing on Feb. 23 and set April 30 as the filing deadline for most people and June 15 for the self-employed. The 2027 opening date is not yet announced."
+  - "The CRA says the 2027 tax season begins Monday, Feb. 22, 2027. Last year it set April 30 as the filing deadline for most people and June 15 for the self-employed; the 2027 deadlines are not yet posted."
   - "First Home Savings Account (FHSA) room is counted by calendar year, so it has no 60-day window like the RRSP."
 faq:
   - q: "What is the RRSP deadline for 2027?"
@@ -51,14 +53,18 @@ faq:
   - q: "What is the RRSP limit for 2027?"
     a: "The CRA lists an RRSP dollar limit of $35,390 for 2027 and $33,810 for 2026."
   - q: "When can I file my 2026 taxes in Canada?"
-    a: "The CRA has not announced the 2027 opening date. Last year online filing opened on Monday, Feb. 23, 2026 at 6:00 a.m. Eastern time."
+    a: "The CRA says the upcoming tax season begins Monday, Feb. 22, 2027. Last year online filing opened on Monday, Feb. 23, 2026 at 6:00 a.m. Eastern time."
   - q: "Does the FHSA have a 60-day window like the RRSP?"
     a: "No. The CRA counts FHSA contributions by calendar year, so contributions for 2026 must be made in 2026."
 sources:
   - title: "Due dates and payment dates - Personal income tax"
     url: "https://www.canada.ca/en/revenue-agency/services/tax/individuals/topics/important-dates-individuals.html"
     publisher: "Canada Revenue Agency"
-    date: "2026-09-17"
+    date: "2026-11-14"
+  - title: "The CRA is enhancing security for online income tax and benefit return filing"
+    url: "https://www.canada.ca/en/revenue-agency/news/newsroom/tax-tips/tax-tips-2026/enhancing-security-online-income-tax-benefit-return-filing.html"
+    publisher: "Canada Revenue Agency"
+    date: "2026-09-22"
   - title: "MP, DB, RRSP, DPSP, ALDA, TFSA limits, YMPE and the YAMPE"
     url: "https://www.canada.ca/en/revenue-agency/services/tax/registered-plans-administrators/pspa/mp-rrsp-dpsp-tfsa-limits-ympe.html"
     publisher: "Canada Revenue Agency"
@@ -103,33 +109,23 @@ downloads:
     pdf: "/news/downloads/canada-tax-2027/canada-tax-dates-december-2026-june-2027.pdf"
     png: "/news/downloads/canada-tax-2027/canada-tax-dates-december-2026-june-2027.png"
     pages: 1
-  - group: "Canada Tax Dates printables"
-    title: "Canada Tax Dates, Dec. 2026 to June 2027 (ink saver)"
-    description: "One-page printable list of Canada tax dates from December 2026 to June 2027: RRSP deadline, instalments, filing and payment dates for 2026 returns. Ink-saver version."
-    preview: ../../../../assets/news/canada-tax-2027/canada-tax-dates-december-2026-june-2027-ink.png
-    alt: "Printable list of Canada tax dates from December 2026 to June 2027 with a Done column, ink-saver version"
-    pdf: "/news/downloads/canada-tax-2027/canada-tax-dates-december-2026-june-2027-ink.pdf"
-    png: "/news/downloads/canada-tax-2027/canada-tax-dates-december-2026-june-2027-ink.png"
-    pages: 1
 ---
 
 **The Registered Retirement Savings Plan (RRSP) deadline for the 2026 tax year falls on Monday, March 1, 2027**, which is 60 days after Dec. 31, 2026. The Canada Revenue Agency (CRA) has not posted its 2027 dates yet, so this date is computed from the count behind the 2026 deadline, not copied from a CRA page.
 
-<p class="callout"><b>Checked Nov. 2, 2026.</b> The CRA's "Due dates and payment dates" page lists March 2, 2026 as the deadline to contribute to an RRSP, a Pooled Registered Pension Plan (PRPP) or a Specified Pension Plan (SPP). The 60th day after Dec. 31, 2025 was Sunday, March 1, 2026, and the CRA listed the Monday, March 2.</p>
-
 ## When is the RRSP contribution deadline for 2026 returns?
 
-The CRA words it as the "deadline to contribute to an RRSP". For the 2026 tax year, counting 60 days from Dec. 31, 2026 lands on Monday, March 1, 2027, a weekday. Check the CRA due-dates page once it lists 2027 before you rely on the day. Put the date on the [March 2027 printable calendar](/march-calendars.html) in pencil until then.
+The CRA's "Due dates and payment dates" page, which we re-read on Nov. 14, 2026, lists March 2, 2026 as the "Deadline to contribute to an RRSP", a Pooled Registered Pension Plan (PRPP) or a Specified Pension Plan (SPP). The 60th day after Dec. 31, 2025 was Sunday, March 1, 2026, and the CRA listed Monday, March 2. It words the 2026 line as a "deadline to contribute to an RRSP". For the 2026 tax year, counting 60 days from Dec. 31, 2026 lands on Monday, March 1, 2027, a weekday. Check the CRA due-dates page once it lists 2027 before you rely on the day. Put the date on the [March 2027 printable calendar](/march-calendars.html) in pencil until then.
 
 ## Canada tax dates from now to June 2027
 
-The table separates what the CRA has posted from what is computed or carried over from last year's schedule.
+The table separates what the CRA has posted from what is computed or carried over from last year's schedule. The 2027 deadlines are not yet posted.
 
 | Date | Weekday | What | Status |
 |---|---|---|---|
 | Dec. 15, 2026 | Tuesday | Last 2026 instalment for most people who pay instalments | Posted by the CRA |
 | Dec. 31, 2026 | Thursday | Calendar year ends; First Home Savings Account (FHSA) contributions for 2026 must be made by this day | Computed from calendar-year rule |
-| Date to be set | None | Online filing opening for 2026 returns (last year: Monday, Feb. 23, 2026) | Not yet announced |
+| Feb. 22, 2027 | Monday | Tax season begins for 2026 returns (last year: Monday, Feb. 23, 2026) | Posted by the CRA |
 | Mar. 1, 2027 | Monday | RRSP contribution deadline for 2026 returns | Computed from the 60-day count; not yet posted |
 | Mar. 15, 2027 | Monday | First 2027 instalment | CRA's usual schedule; 2027 not yet posted |
 | Apr. 30, 2027 | Friday | File 2026 return (most people) and pay balance owing | CRA's usual date; 2027 not yet posted |
@@ -141,7 +137,7 @@ The one-page sheet in the downloads box lists these dates with a Done column. Ad
 
 ## When can I file my 2026 taxes in Canada?
 
-The CRA has not announced when online filing opens in 2027. Last year, its online filing overview page said the electronic filing services opened Monday, Feb. 23, 2026 at 6:00 a.m. Eastern time, and its tax tip said Feb. 23 was the date to start filing 2025 returns online. The same tax tip set April 30, 2026 as the deadline for most individuals to file and June 15, 2026 for self-employed individuals. Those are 2026 dates; the 2027 versions are in the table above as the CRA's usual dates, not as posted ones.
+The CRA says the upcoming tax season begins Monday, Feb. 22, 2027, in a tax tip published Sept. 22, 2026 about a new optional sign-in step for online filing. For comparison, last year its online filing overview page said the electronic filing services opened Monday, Feb. 23, 2026 at 6:00 a.m. Eastern time, and its tax tip said Feb. 23 was the date to start filing 2025 returns online. The same tax tip set April 30, 2026 as the deadline for most individuals to file and June 15, 2026 for self-employed individuals. Those are 2026 dates; the 2027 versions are in the table above as the CRA's usual dates, not as posted ones.
 
 ## What are the 2026 and 2027 RRSP limits?
 

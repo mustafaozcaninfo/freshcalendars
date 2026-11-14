@@ -3,6 +3,7 @@ title: "30 Hours Free Childcare in England: Apply by 31 December 2026"
 description: "To get 30 hours free childcare in England from 1 January 2027, apply by 31 December 2026 if your child turns 9 months by then. Next two deadlines, planner."
 type: explainer
 publishedAt: "2026-11-01T04:46:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["30 hours free childcare deadline", "free childcare january 2027 apply by", "when to apply for 30 hours free childcare", "childcare code reconfirm 3 months"]
@@ -38,7 +39,7 @@ sources:
   - title: "Free Childcare for Working Parents: When to apply"
     url: "https://www.gov.uk/free-childcare-if-working/when-to-apply"
     publisher: "GOV.UK"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "Free Childcare for Working Parents: Check eligibility"
     url: "https://www.gov.uk/free-childcare-if-working/check-eligibility"
     publisher: "GOV.UK"
@@ -46,15 +47,15 @@ sources:
   - title: "Free Childcare for Working Parents: After applying"
     url: "https://www.gov.uk/free-childcare-if-working/after-applying"
     publisher: "GOV.UK"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "Tax-Free Childcare"
     url: "https://www.gov.uk/tax-free-childcare"
     publisher: "GOV.UK"
-    date: "2026-09-30"
+    date: "2026-11-14"
   - title: "National Minimum Wage and National Living Wage rates"
     url: "https://www.gov.uk/national-minimum-wage-rates"
     publisher: "GOV.UK"
-    date: "2026-10-28"
+    date: "2026-11-14"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -69,6 +70,7 @@ assets:
   date: "2026-12-31"
   card: { top: "Apply by", big: "Thu., 31 Dec.", bottom: "Hours from Fri., 1 Jan. 2027" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: free-childcare-deadlines-2027-planner
     group: free-childcare-2027
     title: "Free Childcare Deadlines 2027 Planner"
@@ -106,7 +108,7 @@ downloads:
 draft: false
 ---
 
-**Parents in England whose child turns 9 months old between 1 September and 31 December 2026 must apply for 30 hours of free childcare by Thursday 31 December 2026 to get hours from Friday 1 January 2027**, according to the GOV.UK page "Free Childcare for Working Parents: When to apply". This story puts all three 2027 deadlines in one table with weekdays, adds a worked example and a reconfirmation note, and offers a one-page printable planner.
+**Parents in England whose child turns 9 months old between 1 September and 31 December 2026 must apply for 30 hours of free childcare by Thursday 31 December 2026 to get hours from Friday 1 January 2027**, according to the GOV.UK page "Free Childcare for Working Parents: When to apply". All three 2027 deadlines sit in one table with weekdays, with a worked example, a reconfirmation note and a one-page printable planner.
 
 ## What are the 30 hours free childcare deadlines for 2027?
 
@@ -150,7 +152,7 @@ GOV.UK's wage rates page, updated 28 October 2026, lists these hourly rates:
 |---|---|---|
 | 21 and over | £12.71 | £13.21 |
 | 18 to 20 | £10.85 | £11.27 |
-| Under 18 and apprentice | Not listed here | £8.31 |
+| Under 18 and apprentice | £8.00 | £8.31 |
 
 GOV.UK has not published the 3-month earnings figure for April 2027, so the figures in the section above apply now. The minimum earnings test is tied to the wage. Our calculation, not a GOV.UK figure: 16 hours × £13.21 × 13 weeks = £2,747.68 for ages 21 and over.
 
@@ -164,7 +166,7 @@ Tax-Free Childcare has its own 3-month check. GOV.UK says that for every £8 you
 
 ## Which UK nations does this cover?
 
-The pages used here are for England. Scotland, Wales and Northern Ireland run their own schemes, and this story gives no hours for them. Other 2027 dates for England readers are in our [annual leave 2027 story](/news/uk-annual-leave-2027-bank-holidays-double-your-days-off/) and the [Self Assessment deadline story](/news/self-assessment-deadline-31-january-2027-tax-return-penalties/). Adults planning study can see our [Lifelong Learning Entitlement](/news/lifelong-learning-entitlement-applications-open-january-2027-courses/) guide. Council term dates are not covered here.
+The pages used here are for England. Scotland, Wales and Northern Ireland run their own schemes, and no hours for them are given here. Other 2027 dates for England readers are in our [annual leave 2027 story](/news/uk-annual-leave-2027-bank-holidays-double-your-days-off/) and the [Self Assessment deadline story](/news/self-assessment-deadline-31-january-2027-tax-return-penalties/). Adults planning study can see our [Lifelong Learning Entitlement](/news/lifelong-learning-entitlement-applications-open-january-2027-courses/) guide. Council term dates are not covered here.
 
 ## Free childcare deadlines 2027 planner
 

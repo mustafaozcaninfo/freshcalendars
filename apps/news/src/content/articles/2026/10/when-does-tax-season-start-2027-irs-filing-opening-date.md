@@ -3,6 +3,7 @@ title: "2027 Tax Filing Start Date: Not Yet Announced, 2026 Was Jan. 26"
 description: "The 2027 tax filing start date is not yet announced by the IRS. The 2026 season opened Jan. 26 and Tax Day is April 15. Two years compared and a checklist."
 type: explainer
 publishedAt: "2026-10-31T00:58:00-04:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["when can i file taxes 2027", "tax season 2027 start date", "irs free file 2027", "when does tax season start 2027", "irs filing season 2027"]
@@ -19,13 +20,13 @@ hero:
     author: "Sealy j"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Sealy_j"
 summary:
-  - "As of Oct. 31, 2026, the IRS has not announced the opening day of the 2027 filing season or of IRS Free File."
+  - "As of Nov. 14, 2026, the IRS has not announced the opening day of the 2027 filing season or of IRS Free File."
   - "The 2026 season opened Monday, Jan. 26, 2026, announced on Jan. 8; the 2025 season opened Monday, Jan. 27, 2025, announced on Jan. 10."
   - "Tax Day 2027 is Thursday, April 15, 2027; the IRS says an e-filed return takes 3 weeks from the date you e-filed."
   - "The table below sets the last two opening days side by side and the printable lists the dates to mark."
 faq:
   - q: "When does tax season start in 2027?"
-    a: "The IRS has not announced it. As of Oct. 31, 2026, no opening date for the 2027 filing season has been published. Last year the IRS announced its start on Jan. 8, 2026."
+    a: "The IRS has not announced it. As of Nov. 14, 2026, no opening date for the 2027 filing season has been published. Last year the IRS announced its start on Jan. 8, 2026."
   - q: "When can I file taxes in 2027?"
     a: "Not yet announced. The IRS says when it will begin accepting returns in its filing season announcement. Last year's season opened Monday, Jan. 26, 2026."
   - q: "When does IRS Free File open for 2027?"
@@ -50,7 +51,11 @@ sources:
   - title: "Refunds"
     url: "https://www.irs.gov/refunds"
     publisher: "Internal Revenue Service"
-    date: "2026-10-16"
+    date: "2026-11-14"
+  - title: "IRS newsroom: latest news releases"
+    url: "https://www.irs.gov/newsroom"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-14"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January printable calendars"
@@ -87,6 +92,7 @@ assets:
     title: "2027 Tax Season Checklist"
     subtitle: "Dates to mark; blanks to fill when the IRS announces them"
     year: 2027
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Mon., Feb. 1, 2027", "W-2 and 1099 forms due to you (Jan. 31 is a Sunday)"]
       - ["Date to be announced", "IRS Free File opening: write the date here"]
@@ -98,7 +104,7 @@ assets:
     alt: "Printable 2027 tax season checklist with W-2 and 1099 due date, blanks for IRS opening days and Tax Day on April 15, 2027"
 ---
 
-**The Internal Revenue Service (IRS) has not announced when the 2027 filing season opens, as of Oct. 31, 2026.** Last year's season opened Monday, Jan. 26, 2026, according to IRS news release IR-2026-12, and Tax Day 2027 is Thursday, April 15, 2027. This page sets the last two opening days side by side, shows what that pattern does not promise, and ends with a printable checklist.
+**The Internal Revenue Service (IRS) has not announced when the 2027 filing season opens, as of Nov. 14, 2026.** Last year's season opened Monday, Jan. 26, 2026, according to IRS news release IR-2026-12, and Tax Day 2027 is Thursday, April 15, 2027. This page sets the last two opening days side by side, shows what that pattern does not promise, and ends with a printable checklist.
 
 ## What has the IRS announced about the 2027 filing season?
 

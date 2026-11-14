@@ -3,7 +3,7 @@ title: "Sydney Hobart 2026 Start Time: 1 p.m. Dec. 26, 9 p.m. ET Dec. 25"
 description: "The Sydney Hobart 2026 starts at 1 p.m. Sydney time on Sat., Dec. 26: 9 p.m. ET on Dec. 25 and 2 a.m. in the UK. Every U.S. zone and the harbour rules."
 type: explainer
 publishedAt: "2026-11-04T07:30:00-05:00"
-updatedAt: "2026-11-04T07:30:00-05:00"
+updatedAt: "2026-11-14T17:01:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["sydney to hobart 2026 start time", "sydney hobart 2026 start time us", "how to watch sydney hobart 2026", "sydney hobart 2026 where to watch start"]
@@ -31,22 +31,31 @@ faq:
     a: "1 p.m. AEDT is 2 a.m. GMT on Sat., Dec. 26, by our conversion from the official start time."
   - q: "How can you watch the Sydney Hobart start live?"
     a: "The race site says the start is broadcast live on the Nine Network and streamed on 9Now, and that international viewers can watch on its website or on the club's television feed via YouTube."
+  - q: "How many yachts are in the 2026 Sydney Hobart?"
+    a: "Entries closed on Oct. 23, 2026 with 107 yachts confirmed for the start, per the race site."
   - q: "Where does the Sydney Hobart start?"
     a: "The NSW Government lists the start at Nielsen Park on Sydney Harbour. The race site names South Head, North Head, Christison Park, Watsons Bay and Lady Bay Beach as viewing points."
 sources:
   - title: "Rolex Sydney to Hobart Yacht Race | NSW Government"
     url: "https://www.nsw.gov.au/driving-boating-and-transport/boating-and-marine/using-waterways-boating-and-transport-information/boating-on-sydney-harbour/sydney-harbour-major-events/rolex-sydney-to-hobart-yacht-race"
     publisher: "NSW Government"
+    date: "2026-11-14"
   - title: "Rolex Sydney Hobart 2026"
     url: "https://rolexsydneyhobart.com/race/2026/"
     publisher: "Cruising Yacht Club of Australia (CYCA)"
+    date: "2026-11-14"
   - title: "The countdown to the 2026 Rolex Sydney Hobart begins"
     url: "https://rolexsydneyhobart.com/race/2026/news/pre-race/the-countdown-to-the-2026-rolex-sydney-hobart-begins/"
     publisher: "Rolex Sydney Hobart"
     date: "2026-05-26"
+  - title: "Rolex Sydney Hobart entries close with 107 starters confirmed"
+    url: "https://rolexsydneyhobart.com/race/2026/news/pre-race/rolex-sydney-hobart-entries-close-with-107-starters-confirmed/"
+    publisher: "Rolex Sydney Hobart"
+    date: "2026-10-23"
   - title: "Live broadcast"
     url: "https://rolexsydneyhobart.com/spectators/how-to-follow-the-start/live-broadcast"
     publisher: "Rolex Sydney Hobart"
+    date: "2026-11-14"
   - title: "Sydney Hobart 2026 broadcast and coverage report"
     url: "https://www.sailsmagazine.com.au/?p=114142"
     publisher: "Sails Magazine"
@@ -126,7 +135,7 @@ draft: false
 
 **The 2026 Rolex Sydney Hobart yacht race starts at 1 p.m. Australian Eastern Daylight Time (AEDT) on Boxing Day, Saturday, Dec. 26, 2026, according to the Rolex Sydney Hobart race site and the New South Wales (NSW) Government, which is 9 p.m. Eastern Time (ET) on Friday, Dec. 25 in the United States.** For readers in the U.K., Greenwich Mean Time (GMT), it is 2 a.m. on Dec. 26. The table below converts the start into every U.S. zone, the harbour rules after it, and the viewing spots on the water. A start-day planner printable at the end puts the times on one sheet.
 
-The race is 52 days away from Nov. 4. It is the 81st edition of the 628 nautical mile blue water classic, the race site says, run from Sydney Harbour to Hobart. This story has no entry list, forecast or results. Mark the date on the [December 2026 printable calendar](/december-calendars.html).
+It is the 81st edition of the 628 nautical mile blue water classic, the race site says, run from Sydney Harbour to Hobart. Entries closed on Oct. 23 with 107 yachts confirmed, including four 100-foot maxis, Christian Beck's LawConnect, Anthony Bell's Loyal, Mark Richards's Palm Beach XI and Grant Wharington's Wild Thing 100. There is no forecast or result here. Mark the date on the [December 2026 printable calendar](/december-calendars.html).
 
 ## What time does the Sydney Hobart start in the US, UK and Australia?
 
@@ -171,7 +180,7 @@ The NSW page warns small vessels to avoid South Head and North Head after the st
 
 ## What happened in the 2025 Sydney Hobart?
 
-These are last year's figures, not 2026 ones. The 2025 race was the 80th. Master Lock Comanche took line honours in 2 days 5 hours 3 minutes 36 seconds, the race site reported on Dec. 29, 2025. The race record, 1 day 9 hours 15 minutes 24 seconds, was set in 2017, the same page says. The 2026 entry count is not confirmed as of Nov. 4, 2026, so none is given here.
+These are last year's figures, not 2026 ones. The 2025 race was the 80th. Master Lock Comanche took line honours in 2 days 5 hours 3 minutes 36 seconds, the race site reported on Dec. 29, 2025. The race record, 1 day 9 hours 15 minutes 24 seconds, was set in 2017, the same page says. The 2026 fleet is 107 yachts, the race site said when entries closed on Oct. 23, 2026.
 
 For another Boxing Day event converted to U.S. and U.K. times, see the [Boxing Day Test at the Melbourne Cricket Ground](/news/boxing-day-test-2026-australia-vs-new-zealand-mcg-start-times/). Readers in the U.K. can check the [Boxing Day substitute bank holiday on Dec. 28](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/) in our bank holiday story.
 

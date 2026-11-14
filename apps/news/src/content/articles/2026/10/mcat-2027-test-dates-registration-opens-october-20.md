@@ -3,7 +3,7 @@ title: "MCAT 2027 Test Dates: 35 Exam Days, Jan. 15 to Sept. 11"
 description: "Medical College Admission Test (MCAT) 2027 test dates: registration is open for all groups. All 35 days, Jan. 15 to Sept. 11, plus fees and score releases."
 type: news
 publishedAt: "2026-10-19T11:24:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["MCAT 2027 test dates", "mcat registration 2027", "MCAT registration opening 2027", "MCAT score release dates 2027", "MCAT 2027 fees"]
@@ -33,6 +33,7 @@ sources:
   - title: "2027 MCAT Registration Opening"
     url: "https://students-residents.aamc.org/register-mcat-exam/2027-mcat-registration-opening"
     publisher: "Association of American Medical Colleges"
+    date: "2026-11-14"
   - title: "U.S. MCAT Calendar: Scheduling Deadlines and Score Release Dates"
     url: "https://students-residents.aamc.org/register-mcat-exam/us-mcat-calendar-scheduling-deadlines-and-score-release-dates-0"
     publisher: "Association of American Medical Colleges"
@@ -59,8 +60,6 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> Registration is open for all groups: Group A opened Oct. 20, Group B on Oct. 21 and Group C, for U.S. territories and international test centers, on Oct. 22. For the first test date, Friday, Jan. 15, 2027, the next deadline is the 60-day deadline on Nov. 16, 2026.</p>
-
 **Registration for the 2027 Medical College Admission Test (MCAT) is open to every test taker, after opening in three state-group waves on Oct. 20, 21 and 22, 2026**, according to the Association of American Medical Colleges (AAMC). It helps to know your top three dates and your backup centers before you log in.
 
 ## When registration opened for you
@@ -71,7 +70,7 @@ draft: false
 | Wednesday, Oct. 21, 2026 | Group B | Alabama, Alaska, Arizona, Arkansas, California, Colorado, Hawaii, Idaho, Illinois, Indiana, Iowa, Kansas, Louisiana, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Mexico, North Dakota, Oklahoma, Oregon, South Dakota, Texas, Utah, Washington, Wisconsin, Wyoming |
 | Thursday, Oct. 22, 2026 | Group C | U.S. territories and international locations, including Canada, Puerto Rico, Guam and the U.S. Virgin Islands |
 
-The AAMC's registration opening page lists each group. Have two or three backup dates and centers ready in case your first choice is full.
+The AAMC's registration opening page lists each group. Have two or three backup dates and centers ready in case your first choice is full. For the first test date, Friday, Jan. 15, 2027, the 60-day scheduling deadline is Nov. 16, 2026.
 
 **Before opening day:** From Oct. 5 through Oct. 19, the AAMC let applicants complete the first five tabs of the registration form in the MCAT Registration System. Doing that left only date, center and payment for registration day. That window has passed.
 

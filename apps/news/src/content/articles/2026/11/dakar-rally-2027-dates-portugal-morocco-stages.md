@@ -3,6 +3,7 @@ title: "Dakar Rally 2027 Dates: Jan. 9-23, Portugal to Marrakech Stages"
 description: "Dakar Rally 2027 runs Jan. 9-23 from Portugal to Marrakech, Morocco. A prologue, 12 stages, 7,824 km and the Jan. 17 rest day in Agadir, day by day."
 type: news
 publishedAt: "2026-11-04T12:58:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["dakar 2027", "dakar rally 2027 dates", "dakar 2027 route", "dakar 2027 stages"]
@@ -18,7 +19,7 @@ assets:
     group: dakar-2027
     title: "Dakar Rally 2027 Stage Calendar: Jan. 9-23"
     subtitle: "Prologue, 12 stages, transfer day and rest day with timed and total kilometres"
-    note: "Source: Atalayar and Autoguide stage lists, Oct. 30, 2026, with Reuters, Al Jazeera, Autoguide, Diário de Notícias and Morocco World News; the official route book was not readable. Dates subject to approval by the International Automobile Federation (FIA) World Motor Sport Council."
+    note: "Source: Dakar official route page (dakar.com), read Nov. 14, 2026, matching the Atalayar and Autoguide stage lists of Oct. 30, 2026. Dates subject to approval by the International Automobile Federation (FIA) World Motor Sport Council, per Reuters."
     description: "A one-page Dakar Rally 2027 stage calendar: prologue Jan. 9, 12 stages, the Jan. 11 transfer, the Jan. 17 rest day in Agadir and the Jan. 23 finish in Marrakech."
     alt: "Printable Dakar Rally 2027 stage calendar listing each day from Jan. 9 to Jan. 23 with timed and total kilometres"
     data:
@@ -44,9 +45,8 @@ assets:
         - { cells: { stage: "11", date: "Fri., Jan. 22", route: "Smara - Marrakech", note: "455 km timed; total 1,035 km" }, src: 6, quote: "Stage 11 (Smara - Marrakech) - Friday 22 January: 455 km timed and 580 km liaison (total of 1,035 km)." }
         - { cells: { stage: "12", date: "Sat., Jan. 23", route: "Marrakech - Marrakech", note: "22 km timed; finish; total 240 km" }, src: 6, quote: "Stage 12 (Marrakech - Marrakech) - Saturday 23 January: 22 km timed and 218 km liaison (total of 240 km)." }
       unconfirmed:
-        - { label: "Stage start times", why: "Not yet announced as of Nov. 4, 2026" }
-        - { label: "Official route book", why: "The organizer's site was not readable on Nov. 4, 2026" }
-        - { label: "TV and streaming", why: "No 2027 broadcaster announced as of Nov. 4, 2026" }
+        - { label: "Stage start times", why: "Not yet announced as of Nov. 14, 2026" }
+        - { label: "TV and streaming", why: "No U.S. or UK broadcaster found as of Nov. 14, 2026" }
 hero:
   src: ../../../../assets/news/dakar-rally-2027-dates-portugal-morocco-stages/dakar-rally-2027-dates-portugal-morocco-stages.webp
   alt: "Jemaa el-Fnaa square in the Marrakech medina, the finish city of the Dakar Rally 2027, in a file photo"
@@ -62,7 +62,7 @@ summary:
   - "The 49th Dakar Rally runs Jan. 9-23, 2027, from Loulé-Faro in Portugal to Marrakech in Morocco, Reuters and Morocco World News report."
   - "It has a prologue on Sat., Jan. 9 and 12 stages, with a rest day in Agadir on Sun., Jan. 17."
   - "The route covers 7,824 km, of which 4,341 km are timed, and the dates are subject to approval by the International Automobile Federation (FIA) World Motor Sport Council."
-  - "Stage start times, TV and streaming are not yet announced."
+  - "Stage start times are not yet announced, and no U.S. or UK broadcaster has been named; Australia's SBS carries it."
 faq:
   - q: "When is the Dakar Rally 2027?"
     a: "Jan. 9-23, 2027, with the prologue on Sat., Jan. 9 and the finish in Marrakech on Sat., Jan. 23, according to Reuters and Morocco World News. The dates are subject to FIA World Motor Sport Council approval."
@@ -71,7 +71,7 @@ faq:
   - q: "How many stages does the Dakar Rally 2027 have?"
     a: "A prologue plus 12 stages, per Autoguide. Morocco hosts 11 of the 12 stages, per Morocco World News, and there is a rest day in Agadir."
   - q: "What time do the Dakar Rally 2027 stages start, and where can I watch?"
-    a: "Stage start times, TV and streaming have not been announced as of Nov. 4, 2026."
+    a: "Stage start times are not yet announced as of Nov. 14, 2026. The organizer says the rally is broadcast in 190 countries, and SBS shows extended highlights of every stage in Australia. No U.S. or UK broadcaster has been named."
 sources:
   - title: "Rallying: Dakar Rally 2027 will be held in Portugal and Morocco, organisers say"
     url: "https://www.thestar.com.my/sport/others/2026/10/30/rallying-dakar-rally-2027-will-be-held-in-portugal-and-morocco-organisers-say"
@@ -97,6 +97,18 @@ sources:
     url: "https://www.atalayar.com/en/articulo/sports/2027-dakar-rally-official-route-between-portugal-and-morocco-key-dates-and-reasons-for-the-change-of-venue/20261030110854230172.html"
     publisher: "Atalayar"
     date: "2026-10-30"
+  - title: "Dakar 2027 route"
+    url: "https://www.dakar.com/en/overall-route"
+    publisher: "Dakar Rally (Amaury Sport Organisation)"
+    date: "2026-11-14"
+  - title: "Morocco at the Heart of the 49th Edition of the Dakar"
+    url: "https://www.dakar.com/en/news/2027/morocco-at-the-heart-of-the-49th-edition-of-the-dakar/208419"
+    publisher: "Dakar Rally (Amaury Sport Organisation)"
+    date: "2026-11-09"
+  - title: "How to watch Dakar Rally 2027 on SBS"
+    url: "https://www.sbs.com.au/sport/how-to-watch-dakar-rally"
+    publisher: "SBS"
+    date: "2026-11-14"
 downloads:
   - group: "Dakar Rally 2027 Stage Calendar printables"
     title: "Dakar Rally 2027 Stage Calendar: Jan. 9-23"
@@ -117,7 +129,7 @@ draft: false
 
 **The 49th Dakar Rally will run from Saturday, Jan. 9 to Saturday, Jan. 23, 2027, from Loulé-Faro in Portugal to Marrakech in Morocco, according to Reuters and Morocco World News.** Diário de Notícias, the Portuguese daily, also reports the route between Loulé-Faro and Marrakech. The event has a prologue on Jan. 9 and then 12 stages, per Autoguide.
 
-The organizer's own site, dakar.com, and the Amaury Sport Organisation (ASO) site refused automated access, so every fact here rests on at least two newsrooms, named in the text. The dates are subject to approval by the International Automobile Federation (FIA) World Motor Sport Council, Reuters and Al Jazeera both report. One report we read gives different dates and stage counts than the others; we did not use it.
+The organizer's own route page at dakar.com, read on Nov. 14, 2026, lists the same prologue, 12 stages, dates, towns and distances as the table below. The dates are subject to approval by the International Automobile Federation (FIA) World Motor Sport Council, Reuters and Al Jazeera both report. One report we read gives different dates and stage counts than the others; we did not use it.
 
 ## Why did the Dakar Rally 2027 move to Portugal and Morocco?
 
@@ -125,7 +137,7 @@ Al Jazeera reports that the rally was first scheduled to run from Jan. 1 to Jan.
 
 ## Dakar Rally 2027 stage dates, day by day
 
-Morocco World News says Morocco hosts 11 of the 12 stages, and Al Jazeera says Morocco has 11 stages and a rest day in Agadir. Portugal has the prologue and Stage 1, per Autoguide. The table follows the day-by-day lists Atalayar and Autoguide published on Oct. 30, 2026, which agree on every date, town and distance. The weekdays are ours, computed from the dates, and the route book from the organizer was not readable.
+Morocco World News says Morocco hosts 11 of the 12 stages, and Al Jazeera says Morocco has 11 stages and a rest day in Agadir. Portugal has the prologue and Stage 1, per Autoguide. The table matches the organizer's route page on dakar.com and the day-by-day lists Atalayar and Autoguide published on Oct. 30, 2026. The weekdays follow the dates.
 
 | Day | Date | Stage | Route | Timed km | Total km |
 |---|---|---|---|---|---|
@@ -154,7 +166,11 @@ Autoguide reports that the 49th edition "will cover 7,824 kilometres, including 
 
 ## What is not yet announced for the Dakar Rally 2027?
 
-Stage start times, TV and streaming have not been announced as of Nov. 4, 2026. Treat the dates and stage list above as the organizer's plan reported by the press until the FIA World Motor Sport Council approves them.
+Stage start times are not yet announced as of Nov. 14, 2026, and we found no U.S. or UK broadcaster. The organizer says the Dakar is broadcast in 190 countries. In Australia, the Special Broadcasting Service (SBS) says it will show extended highlights of every stage, 52 minutes each, on SBS On Demand and on air each afternoon. Reuters and Al Jazeera report that the dates await approval by the FIA World Motor Sport Council.
+
+## Before the first stage
+
+The organizer's pages say the service park opens in Loulé-Faro on Jan. 5, with administrative and technical scrutineering there from Jan. 6 to 8. On Nov. 9 it said 350 competitors had registered, and registration stays open until Nov. 20.
 
 ## Dakar Rally 2027 dates to mark on a January 2027 calendar
 
