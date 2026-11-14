@@ -3,7 +3,7 @@ title: "UK Trains at Christmas 2026: None Dec. 25, Paddington Shut"
 description: "UK trains at Christmas 2026: no National Rail services Fri., Dec. 25, and Great Western Railway (GWR) cannot reach Paddington until Jan. 4. Closure table."
 type: news
 publishedAt: "2026-11-03T12:50:00-05:00"
-updatedAt: "2026-11-06T21:20:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["trains christmas 2026", "are there trains on boxing day 2026", "paddington closed christmas 2026", "birmingham new street closed christmas 2026"]
@@ -39,9 +39,15 @@ sources:
   - title: "Christmas and New Year engineering works"
     url: "https://www.networkrail.co.uk/our-work/looking-after-the-railway/planned-works/christmas-and-new-year-engineering-works/"
     publisher: "Network Rail"
+    date: "2026-11-14"
   - title: "Christmas and New Year 2026/27 Travel Summary"
     url: "https://www.nationalrail.co.uk/Christmas"
     publisher: "National Rail"
+    date: "2026-11-14"
+  - title: "Christmas Eve last direct trains from London"
+    url: "https://www.nationalrail.co.uk/travel-information/christmas-eve-last-trains/"
+    publisher: "National Rail"
+    date: "2026-11-14"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -96,7 +102,6 @@ assets:
         - { date: "2027-01-04", cells: { Where: "Paddington", What: "Great Western Railway trains can reach it again" }, src: 1, quote: "Great Western Railway services will be unable to access Paddington until Monday 4 January 2027." }
         - { date: "2027-02-01", cells: { Where: "Huddersfield", What: "Network Rail: disrupted until the morning" }, src: 1, quote: "with the railway disrupted in the area from Christmas Day until the morning of 1 February 2027" }
       unconfirmed:
-        - { label: "Christmas Eve last-train times", why: "Not published on the two pages" }
         - { label: "New Year last trains guide", why: "National Rail says it will be published in early December" }
         - { label: "Wales and the Tube on Dec. 25 and 26", why: "Not confirmed here; check your Welsh operator and Transport for London" }
 ---
@@ -109,7 +114,24 @@ The two official pages do not always agree on end dates, so the closure table be
 
 Network Rail says: "As usual, train services will not operate on most routes in England on Christmas Day and Boxing Day." National Rail is more specific. On Friday, Dec. 25 "there will be no National Rail services on Christmas Day as usual". On Saturday, Dec. 26 "most train operators will have no service", but it expects "a limited train service will be operated by the following train operators on some routes only": Chiltern Railways, Merseyrail, London Overground, ScotRail, Southern and Stansted Express. Trains run on Monday, Dec. 28, when the Boxing Day bank holiday falls on a substitute day.
 
-National Rail has not published Christmas Eve last-train times: that guide "will be published here late November / early December". Its guide to the New Year extra services is due "in early December". For the bank holiday dates themselves, see our story on [UK Christmas bank holidays in 2026](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/) and [when is Boxing Day in the UK](/when-is/uk-boxing-day/).
+National Rail has now published its guide to the last direct trains from London on Christmas Eve, Thursday, Dec. 24 (see the table below). Its guide to the New Year extra services is due "in early December". Network Rail says journey planners, including National Rail, are up to date with travel information through to Jan. 4, 2027. For the bank holiday dates themselves, see our story on [UK Christmas bank holidays in 2026](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/) and [when is Boxing Day in the UK](/when-is/uk-boxing-day/).
+
+## What are the last trains from London on Christmas Eve 2026?
+
+National Rail's list covers last direct trains with no connection needed, based on its Journey Planner, and warns that times may change at short notice. A selection of its rows:
+
+| Destination | Last train from London | Terminal | Operator |
+|---|---|---|---|
+| Birmingham Moor Street | 20:02 | Marylebone | Chiltern Railways |
+| Bristol Temple Meads | 21:02 | Paddington | Great Western Railway |
+| Cardiff Central | 20:48 | Paddington | Great Western Railway |
+| Edinburgh | 14:38 | Euston | Avanti West Coast |
+| Glasgow Central | 16:29 | Euston | Avanti West Coast |
+| Manchester Piccadilly | 18:33 | Euston | Avanti West Coast |
+| Norwich | 21:30 | Liverpool Street | Greater Anglia |
+| Portsmouth Harbour | 20:30 | Waterloo | South Western Railway |
+
+National Rail lists no direct train from London on Christmas Eve to Aberdeen, Birmingham New Street, Hull, Leeds, Newcastle, Sunderland or York. Check the full list and your own journey on National Rail's Journey Planner.
 
 ## Day-by-day UK train changes, Dec. 24 to Jan. 4
 

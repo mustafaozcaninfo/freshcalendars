@@ -3,6 +3,7 @@ title: "Golf Schedule December 2026: Hero World Challenge Dec. 3-6"
 description: "December 2026 golf schedule: Hero World Challenge Dec. 3-6, Grant Thornton Invitational Dec. 11-13, Orlando event week Dec. 17-20, with TV windows."
 type: explainer
 publishedAt: "2026-11-04T06:48:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["golf schedule december 2026", "hero world challenge 2026", "grant thornton invitational 2026 tv", "pnc championship 2026 dates", "dp world tour december 2026"]
@@ -39,7 +40,7 @@ assets:
       note:
         - "Grant Thornton on Golf Channel in ET: Fri., Dec. 11, 1-4 p.m.; Sat., Dec. 12, 2-3 p.m.; Sun., Dec. 13, 1-2 p.m."
         - "Grant Thornton on NBC in ET: Sat., Dec. 12, 3-5 p.m.; Sun., Dec. 13, 2-4 p.m."
-        - "Hero World Challenge 2026 TV windows are not yet announced; PNC Championship round days are not yet posted."
+        - "Hero World Challenge on Golf Channel all four rounds and NBC rounds three and four; clock times not yet announced. PNC Championship round days are not yet posted."
 hero:
   src: ../../../../assets/news/golf-schedule-december-2026-hero-world-challenge-grant-thornton-pnc/golf-schedule-december-2026-hero-world-challenge-grant-thornton-pnc.webp
   alt: "Golf schedule December 2026: a sunlit golf course with a raked bunker in the foreground and palm trees lining the fairway"
@@ -64,12 +65,12 @@ faq:
   - q: "When is the PNC Championship 2026?"
     a: "The tournament's own site says Dec. 17-20, 2026 at the Ritz-Carlton Golf Club in Orlando. The PGA Tour lists Dec. 14-20. The 36-hole round days are not yet posted."
   - q: "Where is the Hero World Challenge on TV?"
-    a: "The 2026 TV windows are not yet announced. In 2025 the PGA Tour listed Golf Channel and NBC with Peacock."
+    a: "The tournament says Golf Channel carries all four rounds and NBC carries rounds three and four. Daily clock times are not yet announced; in 2025 the PGA Tour listed Golf Channel and NBC with Peacock."
 sources:
   - title: "Hero World Challenge overview"
     url: "https://www.pgatour.com/tournaments/2026/hero-world-challenge/R2026478/overview"
     publisher: "PGA Tour"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "How to watch Round 1-2: coverage details, Hero World Challenge"
     url: "https://www.pgatour.com/article/news/latest/2025/12/02/how-to-watch-round-1-2-coverage-details-live-scores-tee-time-featured-groups-times-hero-world-challenge-golf-channel-scottie-scheffler-albany"
     publisher: "PGA Tour"
@@ -88,15 +89,19 @@ sources:
   - title: "PNC Championship overview"
     url: "https://www.pgatour.com/pgatour-champions/tournaments/2026/pnc-championship/S2026600/overview"
     publisher: "PGA Tour Champions"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "PNC Championship"
     url: "https://www.pncchampionship.com"
     publisher: "PNC Championship"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "DP World Tour schedule"
     url: "https://www.europeantour.com/dpworld-tour/schedule/"
     publisher: "DP World Tour"
     date: "2026-11-04"
+  - title: "2026 Hero World Challenge player field"
+    url: "https://heroworldchallenge.com/field/"
+    publisher: "Hero World Challenge"
+    date: "2026-11-14"
 downloads:
   - group: "Golf Schedule December 2026 printables"
     title: "Golf Schedule December 2026: Dates and TV Windows"
@@ -117,7 +122,7 @@ draft: false
 
 **The Hero World Challenge runs Thursday to Sunday, Dec. 3-6, 2026, at Albany Golf Club in Albany, Bahamas, with a $5,000,000 purse, according to the Professional Golfers' Association (PGA) Tour.** Eight days later the Grant Thornton Invitational opens in Naples, Florida (Dec. 11-13), and the parent-and-child event named for its sponsor, the Pittsburgh bank holding company (PNC), follows in Orlando as the PNC Championship (Dec. 17-20, per the tournament). The tables below put each event's dates, course, purse and television windows in Eastern Time (ET) in one place, and a one-page printable follows.
 
-Not everything is out yet. The 2026 Hero World Challenge field size and television windows are not yet announced, and the PNC Championship has not posted which days its two rounds fall on. Those gaps are marked below. Last year's windows are labeled as last year's.
+Some details are still open. The Hero World Challenge has named which networks carry it but not the clock times, and the PNC Championship has not posted which days its two rounds fall on. Those gaps are marked below. Last year's windows are labeled as last year's.
 
 ## December 2026 golf dates, courses and purses
 
@@ -131,9 +136,9 @@ Sources: PGA Tour tournament pages, the Grant Thornton release of Oct. 22, 2026 
 
 ## What are the Hero World Challenge 2026 details?
 
-The Hero World Challenge is Dec. 3-6 at Albany Golf Club, a par 72 of 7,449 yards, per the PGA Tour's tournament page. Hideki Matsuyama won the 2025 event at 22 under par (266). The field size for 2026 is not yet announced.
+The Hero World Challenge is Dec. 3-6 at Albany Golf Club, a par 72 of 7,449 yards, per the PGA Tour's tournament page. Hideki Matsuyama won the 2025 event at 22 under par (266). The tournament's site says the field is 20 players and lists 17 so far, led by Scottie Scheffler (ranked No. 1 in the Official World Golf Ranking as of the Aug. 31 eligibility date), Cameron Young, Matt Fitzpatrick and defending champion Hideki Matsuyama. Three spots are still listed as tournament exemptions to be announced.
 
-TV windows for 2026 are not yet announced either. For reference, the PGA Tour's 2025 coverage guide listed these windows, all in ET:
+The tournament says Golf Channel carries all four rounds and NBC carries the third and final rounds. Daily clock times for 2026 are not yet announced. For reference, the PGA Tour's 2025 coverage guide listed these windows, all in ET:
 
 | 2025 round | Golf Channel | NBC and Peacock |
 |---|---|---|

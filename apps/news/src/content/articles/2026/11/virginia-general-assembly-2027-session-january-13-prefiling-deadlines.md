@@ -3,6 +3,7 @@ title: "Virginia General Assembly 2027: Session Opens Wed., Jan. 13"
 description: "The Virginia General Assembly convenes Wed., Jan. 13, 2027. Every 2027 prefiling deadline from Legislative Services, plus a printable session tracker."
 type: explainer
 publishedAt: "2026-11-10T06:37:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["virginia general assembly 2027", "virginia general assembly 2027 session dates", "when does virginia general assembly start 2027", "virginia prefiling deadline 2027"]
@@ -84,7 +85,7 @@ assets:
         - { date: "2027-04-07", cells: { Milestone: "Reconvened session, sixth Wednesday after adjournment (computed)" }, src: 2, quote: "The General Assembly shall reconvene on the sixth Wednesday after adjournment of each regular or special session. (2027-04-07)" }
         - { date: "2027-07-01", cells: { Milestone: "Default effective date for laws of a regular session" }, src: 4, quote: "shall take effect on the first day of July following the adjournment (July 1, 2027)" }
       unconfirmed:
-        - { label: "2027 session calendar: crossover, bill-filing deadline, adjournment and reconvened dates", why: "The General Assembly adopts it when it convenes; the division had posted only the prefiling schedule as of Nov. 10, 2026" }
+        - { label: "2027 session calendar: crossover, bill-filing deadline, adjournment and reconvened dates", why: "The General Assembly adopts it when it convenes; the division had posted only the prefiling schedule as of Nov. 14, 2026" }
 downloads:
   - group: "Virginia General Assembly 2027 Session Tracker printables"
     title: "Virginia General Assembly 2027 Session Tracker: Jan. 13 Opening"
@@ -113,16 +114,16 @@ The constitution says "no regular session of the General Assembly convened in an
 
 ## Virginia prefiling deadlines for the 2027 session
 
-Prefiling lets members and the public see bills before the session starts. The division's calendar lists these steps. Days left count from today, Tuesday, Nov. 10, 2026.
+Prefiling lets members and the public see bills before the session starts. The division's calendar lists these steps. Days left count from Saturday, Nov. 14, 2026.
 
-| Date | Days from Nov. 10 | Deadline (DLS wording) |
+| Date | Days from Nov. 14 | Deadline (DLS wording) |
 |---|---|---|
-| Mon., Nov. 16, 2026 | 6 | "Last day for committees to act on legislation continued from the 2026 Regular Session by midnight" |
-| Mon., Nov. 30, 2026 | 20 | "All requests for drafts of legislation to be prefiled to DLS by 5:00 p.m." |
-| Thu., Dec. 31, 2026 | 51 | "All drafts of legislation to be prefiled available for review by midnight" |
-| Wed., Jan. 6, 2027 | 57 | "All requests for drafts, redrafts, and corrections of legislation creating or continuing a study to DLS by 5:00 p.m.; All requests for redrafts and corrections for legislation to be prefiled to DLS by 5:00 p.m." |
-| Tue., Jan. 12, 2027 | 63 | "All drafts of legislation to be prefiled available by noon" |
-| Wed., Jan. 13, 2027 | 64 | "Prefiling ends at 10:00 a.m." |
+| Mon., Nov. 16, 2026 | 2 | "Last day for committees to act on legislation continued from the 2026 Regular Session by midnight" |
+| Mon., Nov. 30, 2026 | 16 | "All requests for drafts of legislation to be prefiled to DLS by 5:00 p.m." |
+| Thu., Dec. 31, 2026 | 47 | "All drafts of legislation to be prefiled available for review by midnight" |
+| Wed., Jan. 6, 2027 | 53 | "All requests for drafts, redrafts, and corrections of legislation creating or continuing a study to DLS by 5:00 p.m.; All requests for redrafts and corrections for legislation to be prefiled to DLS by 5:00 p.m." |
+| Tue., Jan. 12, 2027 | 59 | "All drafts of legislation to be prefiled available by noon" |
+| Wed., Jan. 13, 2027 | 60 | "Prefiling ends at 10:00 a.m." |
 
 The calendar numbers session days from Jan. 13 as day 1, so Jan. 31 is day 19.
 
