@@ -61,7 +61,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [w2-1099-deadline-2027-february-1-irs-due-dates, when-does-tax-season-start-2027-irs-filing-opening-date, irs-employer-tax-deadlines-november-2026-form-941-payroll-tips]
+related: [estimated-tax-payment-january-15-2027-fourth-quarter, w2-1099-deadline-2027-february-1-irs-due-dates, irs-employer-tax-deadlines-november-2026-form-941-payroll-tips]
 downloads:
   - group: "Tax calendar printable"
     title: "2027 Federal Tax Calendar"
