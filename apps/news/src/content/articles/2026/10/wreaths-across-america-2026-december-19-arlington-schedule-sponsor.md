@@ -3,6 +3,7 @@ title: "Wreaths Across America 2026: Dec. 19 Arlington Schedule, $17 Wreath"
 description: "Wreaths Across America Day 2026 is Saturday, Dec. 19. Arlington placement starts 8 a.m. EST, the Tomb of the Unknown Soldier at noon; a wreath costs $17."
 type: news
 publishedAt: "2026-10-30T05:30:00-04:00"
+updatedAt: "2026-11-14T15:30:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["wreaths across america 2026", "wreaths across america day 2026 date", "wreaths across america arlington 2026 schedule", "sponsor a wreath 2026"]
@@ -30,9 +31,15 @@ faq:
     a: "One veteran's wreath sponsorship costs $17 on the Wreaths Across America sponsorship page, which also offers recurring sponsorships."
   - q: "Do I need to register to volunteer at Arlington?"
     a: "Registration is not required but is recommended through the Volunteer button. Arlington says it will not require registration of each volunteer in 2026, and each volunteer receives one wreath to place."
+  - q: "Is the U.S. Air Force Memorial open near Arlington?"
+    a: "Not for now. Arlington National Cemetery says that beginning on or about Nov. 2, 2026, the U.S. Air Force Memorial and surrounding area will temporarily close to all visitors for utilities and construction work tied to the cemetery's Southern Expansion project."
   - q: "What is Family Pass Holder Day?"
     a: "Sunday, Dec. 13, 2026, is Family Pass Holder Day at Arlington, limited to Family Pass Holders, people with an immediate next of kin buried there. No registration is required. Arlington is the only participating cemetery with a Family Pass Holder Day."
 sources:
+  - title: "Wreaths Across America Day: Saturday, Dec. 19, 2026"
+    url: "https://arlingtoncemetery.mil/WAA/Wreaths-In"
+    publisher: "Arlington National Cemetery"
+    date: "2026-10-26"
   - title: "Home - Wreaths Across America"
     url: "https://www.wreathsacrossamerica.org/"
     publisher: "Wreaths Across America"
@@ -127,7 +134,7 @@ The Arlington National Cemetery location page lists the 2026 placement schedule 
 
 The page says there are 268,750 veteran graves at Arlington, which is also the coverage goal. As of Oct. 30, 2026, it showed 29,208 wreaths sponsored, 10.9% of the goal.
 
-Registration is not required but is recommended through the Volunteer button on the location page. Arlington says it will not require registration of each volunteer in 2026.
+Registration is not required but is recommended through the Volunteer button on the location page. Arlington says it will not require registration of each volunteer in 2026. The cemetery's own Wreaths Across America Day page, published Oct. 26, 2026, says members of the general public can take part beginning at 8 a.m. and that registration is not required.
 
 ## What is Family Pass Holder Day on Dec. 13?
 
@@ -142,6 +149,10 @@ One veteran's wreath sponsorship costs $17 on the Wreaths Across America sponsor
 Adults driving onto the cemetery should be ready to present a REAL ID at the security checkpoint. Visitors who park in the Welcome Center garage, walk in, take Metro or use a ride share go through standard screening at the Welcome Center and do not need a REAL ID.
 
 Joint Base Myer-Henderson Hall is open to Department of Defense (DoD) identification card holders only, with parking at the Tri-Services lot; entry to the cemetery from the base is only through the Old Post Chapel gate.
+
+## Is the U.S. Air Force Memorial closed?
+
+Arlington National Cemetery says that beginning on or about Nov. 2, 2026, the U.S. Air Force Memorial and surrounding area will temporarily close to all visitors. The cemetery gives the reason as ongoing utilities and construction work for its Southern Expansion project.
 
 ## What are the rules for placing a wreath?
 

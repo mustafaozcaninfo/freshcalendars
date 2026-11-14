@@ -4,6 +4,7 @@ description: "Pride and Prejudice on Netflix debuts Thu., Dec. 3, 2026, with Emm
 type: news
 updatedAt: "2026-11-14T15:31:00-05:00"
 publishedAt: "2026-10-28T21:46:00-04:00"
+updatedAt: "2026-11-14T11:20:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["pride and prejudice netflix release date", "pride and prejudice 2026 series", "pride and prejudice netflix cast", "pride and prejudice trailer netflix", "read pride and prejudice before netflix"]
@@ -126,7 +127,7 @@ Netflix Tudum says only that the series "debuts on Dec. 3." Time Out and Collide
 
 ## Who is in the Netflix Pride and Prejudice cast?
 
-Netflix Tudum's trailer article names the cast below. It says Alderton wrote all six episodes and that Euros Lyn directs.
+Netflix Tudum's trailer article names the main cast below. It says Alderton wrote all six episodes and that Euros Lyn directs. Tudum's "Teaser, Cast, Photos, Release Date" article adds 10 more roles, listed in the table after Lady Catherine.
 
 | Character | Actor |
 |---|---|
@@ -142,6 +143,16 @@ Netflix Tudum's trailer article names the cast below. It says Alderton wrote all
 | Mr. Bingley | Daryl McCormack |
 | Mr. Wickham | Louis Partridge |
 | Lady Catherine de Bourgh | Fiona Shaw |
+| Caroline Bingley | Siena Kelly |
+| Georgiana Darcy | Isabella Sermon |
+| Mrs. Gardiner | Anjana Vasan |
+| Mr. Gardiner | Sebastian Armesto |
+| Lady Lucas | Rosie Cavaliero |
+| Sir William Lucas | Justin Edwards |
+| Mrs. Hurst | Saffron Coomber |
+| Mr. Hurst | James Dryden |
+| Colonel Forster | James Northcote |
+| Harriet Forster | Eloise Webb |
 
 Alderton and Lyn are also executive producers, "alongside Laura Lankester, Will Johnston, and Louise Mutter for Lookout Point," Tudum says. It adds that "the six episodes will hew closely to the 1813 novel."
 

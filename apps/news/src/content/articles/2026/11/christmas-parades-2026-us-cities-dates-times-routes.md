@@ -149,7 +149,7 @@ The Hollywood Christmas Parade's home page lists Sunday, Nov. 29, 2026. It has n
 | Other Sunday street closures | Start between 1:00 p.m. and 4:00 p.m. |
 | Hollywood Freeway (U.S. 101) ramps: Cahuenga Boulevard off-ramps and the southbound Vine Street off-ramp | Close 3:00 p.m.; reopen 10:00 p.m. |
 
-The closure page also carries a reopening line with a Dec. 1 date that does not match the calendar (Dec. 1, 2026 is a Tuesday), so we do not repeat it. "No Parking" signs go up along the routes from Thursday, Nov. 26, and enforcement runs from Saturday, Nov. 28 to Monday morning, Nov. 30. Check the organizer's page before you drive in.
+The closure page also carries a reopening line with a Dec. 1 date that does not match the calendar (Dec. 1, 2026 is a Tuesday), so we do not repeat it. "No Parking" signs go up along the routes from Thursday, Nov. 26, and enforcement runs from Saturday, Nov. 28 to Monday morning, Nov. 30. Check the organizer's page before you drive in. The full closure table, route and TV dates are in our [Hollywood Christmas Parade 2026 guide](/news/hollywood-christmas-parade-2026-date-route-tv/).
 
 ## Denver Parade of Lights: route and TV
 
