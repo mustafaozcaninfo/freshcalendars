@@ -56,7 +56,7 @@ sources:
     url: "https://www.moaa.org/content/publications-and-media/news-articles/2026-news-articles/finance/ndaa-and-military-pay-house-and-senate-versions-differ-on-your-2027-raise/"
     publisher: "Military Officers Association of America"
     date: "2026-10-07"
-  - title: "Request for Information: Special Rates to Achieve January 2027 Pay Adjustments for Certain Law Enforcement Personnel (CPM 2026-13)"
+  - title: "Request for Information: Special Rates to Achieve January 2027 Pay Adjustments for Certain Law Enforcement Personnel"
     url: "https://www.opm.gov/chcoc/latest-memos/request-for-information-special-rates-to-achieve-january-2027-pay-adjustments-for-certain-law-enforcement-personnel.pdf"
     publisher: "U.S. Office of Personnel Management (OPM)"
     date: "2026-11-06"
@@ -93,12 +93,12 @@ assets:
       - ["Wed., July 22, 2026", "House passed its defense bill (H.R. 8800) with 7/6/5 military raises"]
       - ["Wed., Aug. 26, 2026", "Alternative pay plan letter (House Document 119-189) dated"]
       - ["Tue., Nov. 3, 2026", "Election Day; defense bill talks to start after (MOAA)"]
-      - ["Fri., Nov. 6, 2026", "OPM memo CPM 2026-13 on law enforcement special rates"]
+      - ["Fri., Nov. 6, 2026", "OPM memo on law enforcement special rates"]
       - ["Fri., Dec. 11, 2026", "Government funding deadline"]
       - ["Late December 2026", "Executive order setting final rates expected (FedSmith)"]
       - ["Jan. 1, 2027", "Military raise effective date in the budget request"]
       - ["Sun., Jan. 10, 2027", "Law enforcement special-rate raises start (OPM)"]
-    note: "Sources: House Document 119-189; OPM memo CPM 2026-13 (Nov. 6, 2026); Congressional Research Service; Federal News Network; FedSmith; Military Officers Association of America (MOAA)."
+    note: "Sources: House Document 119-189; OPM memo of Nov. 6, 2026; Congressional Research Service; Federal News Network; FedSmith; Military Officers Association of America (MOAA)."
     description: "A one-page timeline of the dates behind the 2027 federal civilian pay freeze plan and the military pay raise, from July 22, 2026 to Jan. 10, 2027."
     alt: "Federal pay 2027 timeline with key dates from July 2026 to January 2027"
 ---
@@ -123,7 +123,7 @@ The plan cites authority under Title 5 of the U.S. Code for the civilian adjustm
 
 House Document 119-189 is titled "Alternative Plan for Pay Adjustments." It says base pay and locality pay for civilian federal employees will not change from the 2026 rates. Without the plan, the document says, locality pay would automatically increase by an average of 20.6 percent. For law enforcement, it directs the Office of Personnel Management (OPM) to "increase 2027 compensation for law enforcement personnel by 3.8 percent."
 
-OPM's memo CPM 2026-13 of Nov. 6, 2026, says it will use special salary rates to carry that out. It will raise current Special Rate Tables L001 through L140 by 3.8 percent in January 2027; those tables cover around 140,000 employees. It will also extend special rates to more law enforcement positions, such as certain Office of Inspector General jobs, and says newly covered personnel would see increases of approximately 6.7 percent, subject to pay caps. The increases take effect at the start of the first pay period on or after Jan. 1, 2027, which the memo gives as Jan. 10, 2027. The memo says the Executive Schedule Level IV cap stays at $197,200 in 2027. Agencies had until Nov. 25 to ask to opt out of the new coverage.
+OPM's memo of Nov. 6, 2026, says it will use special salary rates to carry that out. It will raise current Special Rate Tables L001 through L140 by 3.8 percent in January 2027; those tables cover around 140,000 employees. It will also extend special rates to more law enforcement positions, such as certain Office of Inspector General jobs, and says newly covered personnel would see increases of approximately 6.7 percent, subject to pay caps. The increases take effect at the start of the first pay period on or after Jan. 1, 2027, which the memo gives as Jan. 10, 2027. The memo says the Executive Schedule Level IV cap stays at $197,200 in 2027. Agencies have until Nov. 25 to ask to opt out of the new coverage.
 
 For comparison, in 2026 Executive Order 14368, signed Dec. 18, 2025, set a 1.0% across-the-board increase for statutory pay systems and kept locality rates at 2025 levels. That was last year's order, not a 2027 figure.
 
