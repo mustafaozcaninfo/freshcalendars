@@ -187,4 +187,4 @@ The Winter Fuel Payment does not apply in Scotland. The Pension Age Winter Heati
 
 ## Printable
 
-The key-dates timeline, from the qualifying week to the 31 March 2027 claim deadline, is in the downloads below. For next year's days off, see our [UK bank holidays 2027 list](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/), and for the other UK money date this week, the [UK Budget 2026 story](/news/uk-budget-2026-date-wednesday-28-october-what-time/). The [2026 printable yearly calendar](/printable-yearly-calendar.html) shows the whole winter on one page.
+The key-dates timeline, from the qualifying week to the 31 March 2027 claim deadline, is in the downloads below. For next year's days off, see our [UK bank holidays 2027 list](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/), and for the other UK money date that month, the [UK Budget 2026 story](/news/uk-budget-2026-date-wednesday-28-october-what-time/). The [2026 printable yearly calendar](/printable-yearly-calendar.html) shows the whole winter on one page.
