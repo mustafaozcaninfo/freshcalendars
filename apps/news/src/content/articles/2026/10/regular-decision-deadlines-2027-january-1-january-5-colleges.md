@@ -3,7 +3,7 @@ title: "Regular Decision Deadlines 2027: Harvard Jan. 1, Eight Others Jan. 2-5"
 description: "Regular Decision deadlines 2027: Harvard is Fri., Jan. 1 and eight more colleges list Jan. 2 to 5. A date-order table and a printable checklist follow."
 type: news
 publishedAt: "2026-10-31T02:55:00-04:00"
-updatedAt: "2026-11-06T21:20:00-05:00"
+updatedAt: "2026-11-14T15:42:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["regular decision deadline 2027", "college application deadlines january 2027", "harvard regular decision deadline"]
@@ -21,7 +21,7 @@ hero:
 summary:
   - "Harvard's Regular Decision deadline is Friday, Jan. 1, 2027, which is New Year's Day."
   - "Yale, Cornell and Johns Hopkins list Saturday, Jan. 2; Duke and Notre Dame list Monday, Jan. 4; Stanford, Penn and Brown list Tuesday, Jan. 5."
-  - "Cornell lists Jan. 19 for other materials, and Brown's deadline is 11:59 p.m. in the applicant's local time."
+  - "Cornell lists Jan. 19 for other materials; Harvard and Brown both set 11:59 p.m. in the applicant's local time."
   - "The table sorts all nine colleges by date with the weekday, and a printable checklist follows the same order."
 faq:
   - q: "What is the Harvard Regular Decision deadline for 2027?"
@@ -30,19 +30,19 @@ faq:
     a: "Yale, Cornell and Johns Hopkins list January 2, which is a Saturday in 2027."
   - q: "Does Cornell have a second date in January?"
     a: "Cornell's page lists January 2 for the application, fee and portfolio, and January 19 for other materials. Jan. 19, 2027 is a Tuesday."
-  - q: "What time is the Brown deadline?"
-    a: "Brown requires applying by January 5 at 11:59 p.m. in the applicant's local time. The other pages we used did not state a time."
+  - q: "What time is the Harvard deadline?"
+    a: "Harvard's page says applicants' portions are due by January 1 at 11:59 p.m. in their local time. Brown also sets 11:59 p.m. local time, on January 5."
   - q: "Where can I find a deadline for a college not on this list?"
     a: "The Common App requirements grid, 2026-27 First-year deadlines, fees and requirements, lists every member college's deadlines."
 sources:
   - title: "First-Year Applicants"
     url: "https://college.harvard.edu/admissions/apply/first-year-applicants"
     publisher: "Harvard College"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "Timelines | Undergraduate Admissions"
     url: "https://admissions.yale.edu/application-deadlines"
     publisher: "Yale University"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "Stanford Undergraduate Admission"
     url: "https://admission.stanford.edu/"
     publisher: "Stanford University"
@@ -50,35 +50,35 @@ sources:
   - title: "First-Year Applicants"
     url: "https://admissions.upenn.edu/how-to-apply/first-year-applicants"
     publisher: "University of Pennsylvania"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "Regular Decision"
     url: "https://admission.brown.edu/first-year/regular-decision"
     publisher: "Brown University"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "First-Year Applicants"
     url: "https://admissions.cornell.edu/how-to-apply/first-year-applicants"
     publisher: "Cornell University"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "Apply"
     url: "https://admissions.duke.edu/apply/"
     publisher: "Duke University"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "Application Deadlines and Requirements"
     url: "https://apply.jhu.edu/how-to-apply/application-deadlines-requirements/"
     publisher: "Johns Hopkins University"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "International Applicants: Application Information"
     url: "https://admissions.nd.edu/information-for/international-applicants/application-information/"
     publisher: "University of Notre Dame"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "Deadlines & requirements | MIT Admissions"
     url: "https://mitadmissions.org/apply/firstyear/deadlines-requirements/"
     publisher: "Massachusetts Institute of Technology"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "First-Year Application Plans and Deadlines | Undergraduate Admission"
     url: "https://admission.gatech.edu/first-year/deadlines"
     publisher: "Georgia Institute of Technology"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "2026-27 First-year deadlines, fees and requirements"
     url: "https://content.commonapp.org/Files/ReqGrid.pdf"
     publisher: "Common App"
@@ -101,14 +101,14 @@ assets:
     title: "Regular Decision Deadlines 2027 Checklist"
     subtitle: "Eleven colleges, Jan. 1 to Jan. 6, 2027"
     year: 2027
-    note: "Source: each college's own admissions page, read Oct. 31, 2026 (MIT and Georgia Tech Nov. 6, 2026); Common App 2026-27 requirements grid, updated Sept. 25, 2026."
+    note: "Source: each college's own admissions page, read Oct. 31 and rechecked Nov. 14, 2026 (Stanford's page blocked the recheck); Common App 2026-27 requirements grid, updated Sept. 25, 2026."
     description: "One-page checklist of the Regular Decision deadlines at eleven colleges, Jan. 1 to Jan. 6, 2027, with weekdays."
     alt: "Checklist of eleven Regular Decision deadlines from Jan. 1 to Jan. 6, 2027"
     data:
       target: { date: "2027-01-06", label: "Georgia Tech Regular Decision" }
       columns: ["Colleges"]
       rows:
-        - { date: "2027-01-01", cells: { Colleges: "Harvard (New Year's Day)" }, src: "https://college.harvard.edu/admissions/apply/first-year-applicants", quote: "Regular Decision candidates apply by January 1" }
+        - { date: "2027-01-01", cells: { Colleges: "Harvard (New Year's Day; 11:59 p.m. local time)" }, src: "https://college.harvard.edu/admissions/apply/first-year-applicants", quote: ["Regular Decision candidates apply by January 1", "Your portions of the application are due by January 1 at 11:59pm (your local time)"] }
         - { date: "2027-01-02", cells: { Colleges: "Yale; Cornell (other materials Tue., Jan. 19); Johns Hopkins" }, src: "https://admissions.yale.edu/application-deadlines", quote: ["Application Deadline: January 2", "January 2", "January 2, 2027"] }
         - { date: "2027-01-04", cells: { Colleges: "Duke; Notre Dame; MIT (Regular Action)" }, src: "https://admissions.duke.edu/apply/", quote: ["Regular Decision applications are due January 4", "January 4 for Regular Decision", "Regular Action (RA) applications are due January 4 and admission decisions are released in mid-March."] }
         - { date: "2027-01-05", cells: { Colleges: "Stanford; Penn; Brown (11:59 p.m. local time)" }, src: "https://admission.stanford.edu/", quote: ["JAN5", "Our Regular Decision application deadline is January 5, 2027", "requires applying by January 5 (11:59 p.m. applicant's local time)"] }
@@ -125,15 +125,15 @@ downloads:
 draft: false
 ---
 
-**Harvard College lists a Regular Decision deadline of January 1, which is Friday, Jan. 1, 2027, and eight other colleges list dates from Jan. 2 to Jan. 5, according to each college's own admissions page on Oct. 31, 2026, and rechecked on Nov. 6, 2026.** The table below puts all nine in date order with the weekday, and a printable checklist follows the same order. Early rounds are covered in our [early decision deadlines story](/news/early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30/).
+**Harvard College lists a Regular Decision deadline of January 1, which is Friday, Jan. 1, 2027, and eight other colleges list dates from Jan. 2 to Jan. 5, according to each college's own admissions page on Oct. 31, 2026, and rechecked on Nov. 14, 2026.** The table below puts all nine in date order with the weekday, and a printable checklist follows the same order. Early rounds are covered in our [early decision deadlines story](/news/early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30/).
 
 ## Regular Decision deadlines at nine colleges, in date order
 
-Harvard, Yale, Stanford, Brown and Notre Dame do not name the admissions cycle on the pages we read, so their dates are given as listed on the page on Oct. 31, 2026. Penn names 2027 in its own sentence, and Duke and Johns Hopkins label the 2026-27 cycle.
+Harvard, Yale, Stanford, Brown and Notre Dame do not name the admissions cycle on the pages we read, so their dates are given as listed on the page when we read it. Penn names 2027 in its own sentence, and Duke and Johns Hopkins label the 2026-27 cycle.
 
 | Date (2027) | College | What the college's page says | Time |
 |---|---|---|---|
-| Fri., Jan. 1 | Harvard | "Regular Decision candidates apply by January 1" | Not stated on the page we used |
+| Fri., Jan. 1 | Harvard | "Regular Decision candidates apply by January 1" | 11:59 p.m., applicant's local time |
 | Sat., Jan. 2 | Yale | "Application Deadline: January 2" | Not stated on the page we used |
 | Sat., Jan. 2 | Cornell | January 2 for the application, fee and portfolio; January 19 for other materials | Not stated on the page we used |
 | Sat., Jan. 2 | Johns Hopkins | "January 2, 2027" (2026-2027 cycle) | Not stated on the page we used |
@@ -145,7 +145,7 @@ Harvard, Yale, Stanford, Brown and Notre Dame do not name the admissions cycle o
 
 ## Massachusetts Institute of Technology (MIT) and Georgia Tech deadlines
 
-Two more colleges, MIT and the Georgia Institute of Technology (Georgia Tech), are not in the nine-college table above. We read both pages on Nov. 6, 2026. MIT's page does not name a cycle year. Georgia Tech's table is headed "2026-2027 Important Dates".
+Two more colleges, MIT and the Georgia Institute of Technology (Georgia Tech), are not in the nine-college table above. We read both pages on Nov. 6 and again on Nov. 14, 2026. MIT's page does not name a cycle year. Georgia Tech's table is headed "2026-2027 Important Dates".
 
 | Date (2027) | College | Early dates | What the college's page says |
 |---|---|---|---|
@@ -164,9 +164,9 @@ Mark the dates on a [January 2027 printable calendar](/january-calendars.html) o
 
 Cornell's first-year applicant page lists January 2 for the application, the fee and the portfolio. It lists January 19 for other materials, which is a Tuesday in 2027. Check the Cornell page for which items count as other materials before relying on the later date.
 
-## What does Brown's 11:59 p.m. local time mean?
+## What do the 11:59 p.m. local times mean?
 
-Brown says Regular Decision "requires applying by January 5 (11:59 p.m. applicant's local time)." The other eight pages we used do not state a time, so confirm it with the college.
+Brown says Regular Decision "requires applying by January 5 (11:59 p.m. applicant's local time)." Harvard's page says applicants' portions "are due by January 1 at 11:59pm (your local time)." Georgia Tech says "All deadlines are 11:59 p.m. in your time zone." The other pages we used do not state a time, so confirm it with the college.
 
 ## Where can you check colleges not on this list?
 

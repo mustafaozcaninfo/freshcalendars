@@ -3,7 +3,7 @@ title: "Tricare Open Season 2026: Nov. 9 to Dec. 8, Changes Start Jan. 1"
 description: "Tricare Open Season 2026 runs Monday, Nov. 9 to Tuesday, Dec. 8. Changes take effect Jan. 1, 2027. See who can change plans and who is outside it."
 type: news
 publishedAt: "2026-11-08T06:12:00-05:00"
-updatedAt: "2026-11-08T06:12:00-05:00"
+updatedAt: "2026-11-14T15:43:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["Tricare Open Season 2026", "Tricare open enrollment 2027", "Tricare open season dates", "Tricare Prime vs Select"]
@@ -28,7 +28,7 @@ faq:
   - q: "Is Tricare Open Season the same as Federal Benefits Open Season?"
     a: "No. Tricare's window ends Dec. 8, while the Office of Personnel Management (OPM) says Federal Benefits Open Season runs Nov. 9 through Dec. 14, 2026. Tricare describes the federal window as covering dental and vision plans."
   - q: "What if I miss Dec. 8?"
-    a: "The Tricare pages reviewed do not say what happens after the window closes. Call your regional contractor, listed on the Tricare Call Us page, before Dec. 8 if a change is urgent."
+    a: "Outside open season you can enroll in or change to a Tricare Prime option or Tricare Select only with a Tricare Qualifying Life Event, such as marriage, divorce or the birth or adoption of a child. Someone not in a plan who does not enroll is eligible only for care at a military hospital or clinic, if space is available."
   - q: "Does Tricare For Life take part in open season?"
     a: "No. Tricare's FAQ lists Tricare For Life first among the groups that open season does not apply to."
   - q: "Will Tricare charge a fee to change plans?"
@@ -37,11 +37,11 @@ sources:
   - title: "Tricare Open Season"
     url: "https://tricare.mil/OpenSeason"
     publisher: "Tricare (Defense Health Agency)"
-    date: "2026-10-27"
+    date: "2026-11-13"
   - title: "What is the Tricare Open Season and when is it?"
     url: "https://tricare.mil/FAQs/General/GEN_OpenSeason_WhatWhen"
     publisher: "Tricare (Defense Health Agency)"
-    date: "2026-10-28"
+    date: "2026-11-14"
   - title: "OPM Announces 2026 Federal Benefits Open Season as Premium Growth Slows for Second Consecutive Year"
     url: "https://www.opm.gov/news/news-releases/opm-announces-2026-federal-benefits-open-season-as-premium-growth-slows-for-second-consecutive-year/"
     publisher: "U.S. Office of Personnel Management"
@@ -63,7 +63,7 @@ assets:
     group: tricare-open-season-2026
     title: "Tricare Open Season 2026 Deadline Matrix"
     subtitle: "Tricare and Federal Benefits open season dates, Nov. 9, 2026 to Jan. 1, 2027"
-    note: "Source: Tricare Open Season page (tricare.mil/OpenSeason, updated Oct. 27, 2026); U.S. Office of Personnel Management. Tricare states no time of day."
+    note: "Source: Tricare Open Season page (tricare.mil/OpenSeason, updated Nov. 13, 2026); U.S. Office of Personnel Management. Tricare states no time of day."
     description: "One-page matrix of the Tricare Open Season and Federal Benefits Open Season dates for 2026, with days left to Jan. 1, 2027 and boxes to tick."
     alt: "Printable deadline matrix of Tricare and Federal Benefits open season dates for 2026"
     data:
@@ -141,13 +141,17 @@ Tricare also says coverage "will continue automatically for 2027" for enrollees 
 
 ## Who can change plans during Tricare Open Season?
 
-Tricare says open season applies to people who have or are eligible for Tricare Prime options, including the Tricare Prime Demo, and for Tricare Select. The Prime list on the page has more than one option, so check which one you hold on the Tricare site.
+Tricare says open season applies to people who have or are eligible for Tricare Prime options, including the Uniformed Services Family Health Plan and the Tricare Prime Demo, and for Tricare Select. During the window you can keep your plan, enroll if you are eligible but not enrolled, or switch between eligible Prime options and Select. You can also switch between individual and family enrollment.
 
 ## Who is outside Tricare Open Season?
 
 Tricare says open season does not apply to active duty service members, Tricare For Life beneficiaries, or people enrolled in Tricare Reserve Select, Tricare Retired Reserve or Tricare Young Adult. The FAQ lists Tricare For Life first among those groups.
 
 Tricare's pages do not say whether Medicare-eligible beneficiaries as a group are in or out; only Tricare For Life is named. Anyone unsure should ask the regional contractor before Dec. 8.
+
+## What if you miss Tricare Open Season?
+
+Tricare says that outside open season you can enroll in or change to a Tricare Prime option or Tricare Select only if you have a Tricare Qualifying Life Event. Tricare's FAQ gives marriage, divorce and the birth or adoption of a child as examples. The Open Season page adds that if you are not in a plan and do not enroll, you are eligible only for care at a military hospital or clinic, if space is available.
 
 ## How to change a Tricare plan before Dec. 8
 
@@ -167,7 +171,7 @@ Tricare does not publish a side-by-side Prime and Select table on its Open Seaso
 - the Compare Plans Tool at tricare.mil/Plans/ComparePlans,
 - the Health Plan Costs page at tricare.mil/comparecosts.
 
-The page does not mention plan-change fees, and no 2027 premium amounts appear in the pages used for this story.
+The Open Season page does not mention plan-change fees, and no 2027 premium amounts appear in the pages used for this story. It describes the Health Plan Costs page as the place to review enrollment fees, deductibles and other out-of-pocket costs.
 
 ## Tricare Open Season versus Federal Benefits Open Season
 
