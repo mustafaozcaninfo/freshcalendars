@@ -22,7 +22,7 @@ summary:
   - "Admission is free at all three Christkindlmarket Chicago markets, which open Friday, Nov. 20, 2026 on the market's 30th anniversary, per NBC Chicago and Choose Chicago."
   - "Daley Plaza (50 W. Washington St.) and Aurora at RiverEdge Park run through Thursday, Dec. 24; Wrigleyville at Gallagher Way stays open through Thursday, Dec. 31."
   - "All three markets keep short 11 a.m. to 4 p.m. hours on Thanksgiving (Thu., Nov. 26) and Christmas Eve (Thu., Dec. 24)."
-  - "The 2026 mugs include a pearl-finish flute, a green tree-shaped cup, a ceramic beer stein and a new mini stein shot cup. The flute mug costs $10 empty and the stein $20, per Block Club Chicago and NBC Chicago."
+  - "The 2026 mugs include a pearl-finish flute, a green tree-shaped cup, a ceramic beer stein and a new mini stein shot cup. The flute mug costs $10 empty and the shot cup $7, per Block Club Chicago and NBC Chicago."
 faq:
   - q: "Is the Christkindlmarket Chicago free in 2026?"
     a: "Yes. NBC Chicago and Choose Chicago both report that the Christkindlmarket is free to visit. Food, drinks, the collectible mugs and vendor goods are sold separately."
@@ -31,7 +31,7 @@ faq:
   - q: "Is the Christkindlmarket open on Thanksgiving and Christmas Day?"
     a: "On Thanksgiving (Thu., Nov. 26), all three markets open 11 a.m. to 4 p.m. On Christmas Day (Fri., Dec. 25), the Wrigleyville market is closed; Daley Plaza and Aurora have already ended their seasons on Dec. 24."
   - q: "What are the 2026 Christkindlmarket mugs?"
-    a: "Choose Chicago lists a pearl-finish flute-shaped mug, a green Christmas-tree-shaped mug for non-alcoholic drinks, a ceramic beer stein with market and skyline details, and a new mini stein shot cup. Block Club Chicago and NBC Chicago report $10 for the flute mug and the tree mug, $20 for the stein and $7 for the shot cup, when bought without a drink."
+    a: "Choose Chicago lists a pearl-finish flute-shaped mug, a green Christmas-tree-shaped mug for non-alcoholic drinks, a ceramic beer stein with market and skyline details, and a new mini stein shot cup. Block Club Chicago and NBC Chicago report $10 for the flute mug and $7 for the shot cup, when bought without a drink."
   - q: "Which Christkindlmarket stays open after Christmas?"
     a: "Only the Wrigleyville market at Gallagher Way (3635 N. Clark St.). It runs through New Year's Eve, Thursday, Dec. 31, 2026, while Daley Plaza and Aurora close on Dec. 24."
 sources:
@@ -155,7 +155,7 @@ Because the three markets end on different days, the holiday most readers ask ab
 
 Choose Chicago lists four collectible mugs for the 30th year. There is a flute-shaped mug with a pearl finish, a nod to pearl as a traditional 30th-anniversary symbol, and a green Christmas-tree-shaped mug meant for non-alcoholic drinks. A ceramic beer stein carries market scenes and skyline details, and new this year is a mini stein shot cup.
 
-Mugs can be filled with glühwein, hot cocoa, hot cider or chai, per Choose Chicago. The glühwein is imported German hot spiced wine from Original Nürnberger Glühwein. Block Club Chicago and NBC Chicago both report the prices: the 200-milliliter flute mug costs $10 empty, and the shot cup is $7. Block Club Chicago also lists the green tree mug at $10 and the 0.5-liter beer stein at $20 when bought without a drink.
+Mugs can be filled with glühwein, hot cocoa, hot cider or chai, per Choose Chicago. The glühwein is imported German hot spiced wine from Original Nürnberger Glühwein. Block Club Chicago and NBC Chicago both report the prices: the 200-milliliter flute mug costs $10 empty, and the shot cup is $7. Prices for the tree mug and the beer stein are not confirmed by both newsrooms, so we do not list them.
 
 Choose Chicago also notes a preview party, "'Twas the Night Before Christkindlmarket," that gives early access to a limited group of ticket holders. Block Club Chicago and NBC Chicago both put it on Thursday, Nov. 19, the night before opening. We have no price confirmed by two sources, and the public opening-ceremony time has not been announced.
 

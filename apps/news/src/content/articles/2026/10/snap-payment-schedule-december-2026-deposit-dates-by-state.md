@@ -43,7 +43,6 @@ sources:
   - title: "Supplemental Nutrition Assistance Program (SNAP) Monthly Issuance Schedule for All States and Territories (PDF)"
     url: "https://www.fna.usda.gov/sites/default/files/resource-files/Monthly-Issuance-Schedule-All-States.pdf"
     publisher: "USDA Food and Nutrition Service"
-    date: "2021-11-04"
   - title: "SNAP Cost-of-Living Adjustment (COLA) Information, fiscal year 2027"
     url: "https://www.fns.usda.gov/snap/allotment/COLA"
     publisher: "USDA Food and Nutrition Service"
