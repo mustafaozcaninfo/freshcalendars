@@ -85,7 +85,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [winnipeg-jets-schedule-december-2026-game-times-tv-printable, edmonton-oilers-schedule-december-2026-game-times-tv-printable, toronto-maple-leafs-schedule-december-2026-game-times-tv-printable]
+related: [winnipeg-jets-schedule-december-2026-game-times-tv-printable, edmonton-oilers-schedule-december-2026-game-times-tv-printable, colorado-avalanche-schedule-december-2026-game-times-tv-printable]
 draft: false
 ---
 
