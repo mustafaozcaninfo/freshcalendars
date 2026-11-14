@@ -91,7 +91,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5, january-transfer-window-2027-dates-premier-league-deadline-day, europa-league-conference-league-november-2026-schedule-kickoff-times-et]
+related: [champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5, europa-league-conference-league-december-2026-schedule-kickoff-times-et, europa-league-conference-league-november-2026-schedule-kickoff-times-et]
 draft: false
 ---
 
