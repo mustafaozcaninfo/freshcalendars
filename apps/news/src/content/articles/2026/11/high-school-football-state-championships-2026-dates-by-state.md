@@ -114,7 +114,7 @@ assets:
     title: "High School Football State Finals 2026 by State"
     subtitle: "Final dates and stadiums from each state association, read Nov. 14, 2026"
     note: "Source: each state association's own football page, read Nov. 14, 2026 (South Carolina Nov. 8, Tennessee Oct. 30). Not posted or not readable: Florida, California, Kentucky, Mississippi, Illinois, New York, Arizona and Oklahoma."
-    description: "One-page table of 2026 high school football state final dates and stadiums for Michigan, Minnesota, New Jersey, Alabama, Ohio, Tennessee, South Carolina, Pennsylvania, North Carolina, Louisiana, Virginia, Georgia and Texas."
+    description: "One-page table of 2026 high school football state final dates and stadiums for 13 states, including Texas, Georgia, Ohio, Michigan and Pennsylvania."
     alt: "Printable table of 2026 high school football state championship dates and stadiums by state, from Michigan on Nov. 27-28 to Texas on Dec. 16-19"
     data:
       columns:
@@ -140,7 +140,7 @@ assets:
 downloads:
   - group: "High School Football State Finals 2026 by State printables"
     title: "High School Football State Finals 2026 by State"
-    description: "One-page table of 2026 high school football state final dates and stadiums for Michigan, Minnesota, New Jersey, Alabama, Ohio, Tennessee, South Carolina, Pennsylvania, North Carolina, Louisiana, Virginia, Georgia and Texas."
+    description: "One-page table of 2026 high school football state final dates and stadiums for 13 states, including Texas, Georgia, Ohio, Michigan and Pennsylvania."
     preview: ../../../../assets/news/high-school-football-state-championships-2026/high-school-football-state-finals-2026-by-state.png
     alt: "Printable table of 2026 high school football state championship dates and stadiums by state, from Michigan on Nov. 27-28 to Texas on Dec. 16-19"
     pdf: "/news/downloads/high-school-football-state-championships-2026/high-school-football-state-finals-2026-by-state.pdf"

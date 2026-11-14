@@ -4,7 +4,6 @@ description: "Pride and Prejudice on Netflix debuts Thu., Dec. 3, 2026, with Emm
 type: news
 updatedAt: "2026-11-14T15:31:00-05:00"
 publishedAt: "2026-10-28T21:46:00-04:00"
-updatedAt: "2026-11-14T11:20:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["pride and prejudice netflix release date", "pride and prejudice 2026 series", "pride and prejudice netflix cast", "pride and prejudice trailer netflix", "read pride and prejudice before netflix"]
