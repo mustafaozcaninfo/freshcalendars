@@ -3,7 +3,7 @@ title: "Pumpkin Carving Templates PDF: 18 Free Printable Stencils"
 description: "Print 18 free pumpkin carving templates as PDF, 8 Easy and 10 Medium, each checked for loose pieces, plus a 19-page pack of all of them."
 type: explainer
 publishedAt: "2026-10-29T08:15:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T18:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["printable pumpkin carving templates", "pumpkin carving stencils", "free printable pumpkin stencils", "easy pumpkin carving templates", "scary pumpkin stencils"]
@@ -318,6 +318,6 @@ Pumpkin carving is the largest single cause of Halloween injuries in estimates f
 
 The CPSC also recommends battery-operated lights or glow sticks instead of an open-flame candle. If you do use a candle, keep the pumpkin away from curtains, decorations and anything else that can catch fire, and never leave it burning unattended.
 
-## Plan the rest of Halloween night
+## Halloween 2026 in review and the 2027 date
 
-Halloween was on a Saturday in 2026. See [what time trick-or-treating started](/news/halloween-2026-what-day-trick-or-treating-start/) in five cities and the [sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) for Oct. 31. For hosting, our [witches' brew punch recipe](/news/halloween-party-ideas-2026-witches-brew-punch/) comes with a printable party checklist. For the date in future years, see [when is Halloween](/when-is/halloween/), and see the [November 2026 printable calendar](/november-calendars.html) for the month ahead.
+Halloween was on a Saturday in 2026. See [what time trick-or-treating started](/news/halloween-2026-what-day-trick-or-treating-start/) in five cities and the [sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) for Oct. 31. For next year, Halloween 2027 is Sunday, Oct. 31; our [witches' brew punch recipe](/news/halloween-party-ideas-2026-witches-brew-punch/) comes with a printable party checklist. For the date in future years, see [when is Halloween](/when-is/halloween/), and see the [November 2026 printable calendar](/november-calendars.html) for the month.

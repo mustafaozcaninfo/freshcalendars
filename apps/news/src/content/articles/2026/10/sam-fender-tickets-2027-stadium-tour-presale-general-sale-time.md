@@ -1,9 +1,9 @@
 ---
 title: "Sam Fender Tickets 2027: General Sale Oct. 30 at 9:30 a.m. UK Time"
-description: "Sam Fender 2027 tickets went on general sale Oct. 30 at 9:30 a.m. UK time, 5:30 a.m. ET. Sale times for every US zone, plus UK and North America tour dates."
+description: "Sam Fender 2027 tickets went on general sale Oct. 30 at 9:30 a.m. UK time, 5:30 a.m. ET. Sale times for every US zone, UK and North America tour dates."
 type: news
 publishedAt: "2026-10-28T03:46:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T18:35:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Sam Fender tickets", "Sam Fender tour 2027", "Sam Fender general sale time", "Sam Fender presale", "Sam Fender St James' Park 2027"]
@@ -38,7 +38,7 @@ sources:
   - title: "Sam Fender - Official Website (Tour)"
     url: "https://www.samfender.com/tour"
     publisher: "Sam Fender"
-    date: "2026-10-28"
+    date: "2026-11-14"
   - title: "Sam Fender announces Proper Massive Stadium Tour for 2027"
     url: "https://discover.ticketmaster.co.uk/news/sam-fender-uk-proper-massive-stadium-tour-2027-tickets-81417/"
     publisher: "Ticketmaster UK"
@@ -129,7 +129,26 @@ samfender.com also described an album pre-order presale on Wednesday, Oct. 28 at
 | Thu., July 15, 2027 | Etihad Stadium | Manchester |
 | Sat., July 17, 2027 | Etihad Stadium | Manchester |
 
-The dates above are the nine on sale first, from samfender.com on Oct. 28, 2026. By Nov. 14 the site also listed Cardiff on Saturday, June 12, Rock Werchter in Belgium on Saturday, July 3, Edinburgh on Saturday, July 10 and Wembley on Thursday, Sept. 2, 2027. It marked the first nine as sold out, except Cardiff on June 10, which it showed as sold out too, and offered "Buy tickets" for June 12, July 3, July 10 and Sept. 2. The weekdays are our calculation. Ticketmaster UK lists the UK dates and leaves out Dublin. Mark the shows on the [June 2027 printable calendar](/june-calendars.html) and the [July 2027 printable calendar](/july-calendars.html).
+The dates above are the nine on sale first, from samfender.com on Oct. 28, 2026. By Nov. 14 the site also listed Cardiff on Saturday, June 12, Rock Werchter in Belgium on Saturday, July 3, Edinburgh on Saturday, July 10 and Wembley on Thursday, Sept. 2, 2027. It marked all nine of the first dates "Sold out" and showed a "Buy tickets" link for the four added ones. The weekdays are our calculation. Ticketmaster UK lists the UK dates and leaves out Dublin. Mark the shows on the [June 2027 printable calendar](/june-calendars.html) and the [July 2027 printable calendar](/july-calendars.html).
+
+## What are the Sam Fender North America 2027 dates?
+
+samfender.com lists a North American leg headed "North America & CA '27", each date with an "Access presale" button. The page gives no year beside the dates, so we read them as 2027 from the heading; the weekdays are our calculation.
+
+| Date | Venue | City |
+|---|---|---|
+| Tue., April 20 | Metro-Goldwyn-Mayer (MGM) Music Hall at Fenway | Boston |
+| Thu., April 22 | Radio City Music Hall | New York |
+| Sat., April 24 | Scotiabank Arena | Toronto |
+| Tue., April 27 | The Rave, Eagles Ballroom | Milwaukee |
+| Thu., April 29 | Red Rocks Amphitheatre | Denver |
+| Sat., May 1 | Mullett Arena | Arizona |
+| Mon., May 3 | Greek Theatre | Los Angeles |
+| Wed., May 5 | Venue to be announced | Portland |
+| Fri., May 7 | WaMu Theater | Seattle |
+| Sun., May 9 | Rogers Arena | Vancouver |
+
+We did not find sale times or prices for these shows on the page, so we give none.
 
 ## What are the ticket limits and prices?
 
@@ -137,10 +156,10 @@ samfender.com says the maximum is 6 tickets per person. No official ticket price
 
 ## What else has been reported?
 
-The music magazine New Musical Express (NME) and the station Radio X reported that general sale was at 9:30 a.m. GMT, matching the official pages. NME also reports Wunderhorse as support and a Rock Werchter festival headline slot in Belgium on July 3, 2027. That festival date is not on the tour list at samfender.com, so we have not added it to the table.
+The music magazine New Musical Express (NME) and the station Radio X reported that general sale was at 9:30 a.m. GMT, matching the official pages. NME also reported a Rock Werchter festival headline slot in Belgium on July 3, 2027, which samfender.com now lists too, as Rock Werchter in Brussels on its tour page.
 
 ## How do you avoid fake tickets?
 
 Newcastle United said general sale would run via samfender.com, and the tour page carried the sale links. Start from samfender.com rather than a link in a message or an unofficial listing, and use the checklist to keep the sale times and the 6-ticket limit in view.
 
-Dates can change, so check samfender.com for the current sale status. If you live in Britain, see the [UK bank holidays 2027 story](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/) for days off near the June dates. Another London event with a ticket guide is [Hyde Park Winter Wonderland 2026](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/).
+Check samfender.com for the current sale status. If you live in Britain, see the [UK bank holidays 2027 story](/news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/) for days off near the June dates. Another London event with a ticket guide is [Hyde Park Winter Wonderland 2026](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/).
