@@ -1,15 +1,15 @@
 ---
 title: "BEA GDP Release Schedule 2026: Next Estimates Nov. 25, Dec. 23"
-description: "Gross domestic product (GDP) grew 3.4% in the third quarter of 2026, the Bureau of Economic Analysis (BEA) says. See all 13 releases through Dec. 23."
+description: "Gross domestic product (GDP) grew 3.4% in the third quarter of 2026, the Bureau of Economic Analysis (BEA) says. See all 14 releases through Dec. 23."
 type: news
 publishedAt: "2026-10-28T17:46:00-04:00"
-updatedAt: "2026-10-29T10:05:00-04:00"
+updatedAt: "2026-11-14T01:30:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["gdp report today", "gdp release october 29 2026", "q3 gdp release date 2026", "pce release date", "bea release schedule november 2026"]
 hero:
   src: ../../../../assets/news/gdp-report-october-29-2026-time-bea-release-calendar/gdp-report-october-29-2026-time-bea-release-calendar.webp
-  alt: "Herbert C. Hoover Building, the U.S. Commerce Department headquarters in Washington, ahead of the GDP report on Oct. 29, 2026"
+  alt: "Herbert C. Hoover Building, the U.S. Commerce Department headquarters in Washington, home of the department that publishes GDP"
   caption: "The Herbert C. Hoover Building in Washington is the Commerce Department's headquarters; the department's Bureau of Economic Analysis (BEA) publishes GDP. File photo."
   credit: "Photo: Tony Webster / Wikimedia Commons, cropped, edited"
   license:
@@ -21,8 +21,8 @@ hero:
 summary:
   - "Real gross domestic product (GDP) increased at an annual rate of 3.4 percent in the third quarter of 2026, up from 2.2 percent in the second quarter, according to the Bureau of Economic Analysis (BEA) advance estimate released Oct. 29 at 8:30 a.m. Eastern Time (ET)."
   - "The personal consumption expenditures (PCE) price index rose 0.5 percent in September and 3.6 percent from a year earlier; excluding food and energy it rose 0.3 percent and 3.1 percent, the BEA said."
-  - "The BEA's schedule lists 13 releases from Oct. 29 to Dec. 23, 2026, including the second GDP estimate on Nov. 25 and the third on Dec. 23."
-  - "U.S. clocks fall back on Sunday, Nov. 1, so the 8:30 a.m. ET releases are on Eastern Daylight Time (EDT) on Oct. 29 and on Eastern Standard Time (EST) from Nov. 4 on."
+  - "The BEA's schedule lists 14 releases from Oct. 29 to Dec. 23, 2026, including the second GDP estimate on Nov. 25 and the third on Dec. 23."
+  - "U.S. clocks fell back on Sunday, Nov. 1, so the 8:30 a.m. ET releases were on Eastern Daylight Time (EDT) on Oct. 29 and are on Eastern Standard Time (EST) from Nov. 4 on."
 faq:
   - q: "What time is the GDP report on Oct. 29, 2026?"
     a: "8:30 a.m. Eastern Daylight Time (EDT), which is 7:30 a.m. Central, 6:30 a.m. Mountain, 5:30 a.m. in Arizona and Pacific, and 12:30 p.m. in London."
@@ -46,7 +46,11 @@ sources:
   - title: "Release Schedule"
     url: "https://www.bea.gov/news/schedule"
     publisher: "U.S. Bureau of Economic Analysis"
-    date: "2026-10-28"
+    date: "2026-11-14"
+  - title: "U.S. International Trade in Goods and Services, September 2026"
+    url: "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026"
+    publisher: "U.S. Census Bureau and U.S. Bureau of Economic Analysis"
+    date: "2026-11-04"
   - title: "Gross Domestic Product"
     url: "https://www.bea.gov/data/gdp/gross-domestic-product"
     publisher: "U.S. Bureau of Economic Analysis"
@@ -64,37 +68,31 @@ related: [fomc-meeting-dates-2027-fed-schedule-december-2026, business-days-nove
 downloads:
   - group: "BEA Economic Release Calendar printables"
     title: "BEA Economic Release Calendar, Oct. to Dec. 2026"
-    description: "All 13 Bureau of Economic Analysis releases from Oct. 29 to Dec. 23, 2026, with weekdays and Eastern Time release times."
+    description: "All 14 Bureau of Economic Analysis releases from Oct. 29 to Dec. 23, 2026, with weekdays and Eastern Time release times."
     preview: ../../../../assets/news/bea-release-calendar-2026/bea-economic-release-calendar-oct-dec-2026.png
-    alt: "BEA economic release calendar printable listing 13 releases from Oct. 29 to Dec. 23, 2026"
+    alt: "BEA economic release calendar printable listing 14 releases from Oct. 29 to Dec. 23, 2026"
     pdf: "/news/downloads/bea-release-calendar-2026/bea-economic-release-calendar-oct-dec-2026.pdf"
     png: "/news/downloads/bea-release-calendar-2026/bea-economic-release-calendar-oct-dec-2026.png"
-    pages: 1
-  - group: "BEA Economic Release Calendar printables"
-    title: "BEA Economic Release Calendar, Oct. to Dec. 2026 (ink saver)"
-    description: "All 13 Bureau of Economic Analysis releases from Oct. 29 to Dec. 23, 2026, with weekdays and Eastern Time release times. Ink-saver version."
-    preview: ../../../../assets/news/bea-release-calendar-2026/bea-economic-release-calendar-oct-dec-2026-ink.png
-    alt: "BEA economic release calendar printable listing 13 releases from Oct. 29 to Dec. 23, 2026, ink-saver version"
-    pdf: "/news/downloads/bea-release-calendar-2026/bea-economic-release-calendar-oct-dec-2026-ink.pdf"
-    png: "/news/downloads/bea-release-calendar-2026/bea-economic-release-calendar-oct-dec-2026-ink.png"
     pages: 1
 assets:
   scene: money
   overlay: true
-  kicker: "GDP report · Thu., Oct. 29, 2026"
-  date: "2026-10-29"
-  card: { top: "Q3 2026 GDP advance estimate", big: "8:30 a.m. ET", bottom: "Thu., Oct. 29, 2026" }
+  kicker: "GDP second estimate · Wed., Nov. 25, 2026"
+  date: "2026-11-25"
+  card: { top: "Q3 2026 GDP second estimate", big: "Wed., Nov. 25", bottom: "8:30 a.m. ET, after the 3.4% advance estimate" }
   printable:
     slug: bea-economic-release-calendar-oct-dec-2026
     group: bea-release-calendar-2026
     title: "BEA Economic Release Calendar, Oct. to Dec. 2026"
     subtitle: "Bureau of Economic Analysis releases, times in Eastern Time"
     year: 2026
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     layout: list
     rows:
       - ["Thu., Oct. 29, 8:30 a.m.", "GDP (Advance Estimate), 3rd Quarter 2026"]
       - ["Thu., Oct. 29, 8:30 a.m.", "Personal Income and Outlays, September 2026"]
       - ["Wed., Nov. 4, 8:30 a.m.", "U.S. International Trade in Goods and Services, September 2026"]
+      - ["Tue., Nov. 17, 10:00 a.m.", "Experimental Super Intelligence Economic Statistics, 2024 (article)"]
       - ["Wed., Nov. 18, 10:00 a.m.", "Outdoor Recreation Economic Statistics, U.S. and States, 2025"]
       - ["Fri., Nov. 20, 8:30 a.m.", "Activities of U.S. Multinational Enterprises, 2024"]
       - ["Wed., Nov. 25, 8:30 a.m.", "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026"]
@@ -105,10 +103,9 @@ assets:
       - ["Fri., Dec. 18, 8:30 a.m.", "U.S. International Transactions and Investment Position, 3rd Quarter 2026"]
       - ["Wed., Dec. 23, 8:30 a.m.", "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 3rd Quarter 2026"]
       - ["Wed., Dec. 23, 8:30 a.m.", "Personal Income and Outlays, November 2026"]
-    note: "Source: U.S. Bureau of Economic Analysis (BEA), Release Schedule. Times are Eastern; clocks fall back Nov. 1, 2026."
-    inkSaver: true
-    description: "All 13 Bureau of Economic Analysis releases from Oct. 29 to Dec. 23, 2026, with weekdays and Eastern Time release times."
-    alt: "BEA economic release calendar printable listing 13 releases from Oct. 29 to Dec. 23, 2026"
+    note: "Source: U.S. Bureau of Economic Analysis (BEA), Release Schedule, checked Nov. 14, 2026. Times are Eastern; clocks fell back Nov. 1, 2026."
+    description: "All 14 Bureau of Economic Analysis releases from Oct. 29 to Dec. 23, 2026, with weekdays and Eastern Time release times."
+    alt: "BEA economic release calendar printable listing 14 releases from Oct. 29 to Dec. 23, 2026"
 ---
 
 The Oct. 29 reports are out. The next GDP estimate is Wednesday, Nov. 25, at 8:30 a.m. ET.
@@ -137,13 +134,14 @@ The BEA says the personal consumption expenditures (PCE) price index, "released 
 
 ## What is the full BEA release calendar through Dec. 23, 2026?
 
-The schedule has 13 releases between Oct. 29 and Dec. 23. All are at 8:30 a.m. ET except one, the Nov. 18 outdoor recreation release at 10:00 a.m. ET. The same 13 rows are on the printable at the end of the story.
+The schedule has 14 items between Oct. 29 and Dec. 23. All are at 8:30 a.m. ET except two at 10:00 a.m. ET: an article on Nov. 17 and the outdoor recreation release on Nov. 18. The same 14 rows are on the printable at the end of the story. The Nov. 4 trade report is out: the BEA and the U.S. Census Bureau said the goods and services deficit was $105.0 billion in September, down $0.7 billion from August, and gave Dec. 8 as the next trade release.
 
 | Date | ET time | Release |
 |---|---|---|
 | Thu., Oct. 29 | 8:30 a.m. | GDP (Advance Estimate), 3rd Quarter 2026 |
 | Thu., Oct. 29 | 8:30 a.m. | Personal Income and Outlays, September 2026 |
-| Wed., Nov. 4 | 8:30 a.m. | U.S. International Trade in Goods and Services, September 2026 |
+| Wed., Nov. 4 | 8:30 a.m. | U.S. International Trade in Goods and Services, September 2026 (released) |
+| Tue., Nov. 17 | 10:00 a.m. | Experimental Super Intelligence Economic Statistics, 2024 (article) |
 | Wed., Nov. 18 | 10:00 a.m. | Outdoor Recreation Economic Statistics, U.S. and States, 2025 |
 | Fri., Nov. 20 | 8:30 a.m. | Activities of U.S. Multinational Enterprises, 2024 |
 | Wed., Nov. 25 | 8:30 a.m. | GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 |
@@ -155,17 +153,17 @@ The schedule has 13 releases between Oct. 29 and Dec. 23. All are at 8:30 a.m. E
 | Wed., Dec. 23 | 8:30 a.m. | GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 3rd Quarter 2026 |
 | Wed., Dec. 23 | 8:30 a.m. | Personal Income and Outlays, November 2026 |
 
-Source: BEA, Release Schedule, checked Oct. 28, 2026. Mark them on a [November 2026 printable calendar](/november-calendars.html) and a [December 2026 printable calendar](/december-calendars.html).
+Source: BEA, Release Schedule, checked Nov. 14, 2026. Mark them on a [November 2026 printable calendar](/november-calendars.html) and a [December 2026 printable calendar](/december-calendars.html).
 
 ## What time is each BEA release in other time zones?
 
-The BEA lists times in Eastern Time. We converted them with a time zone calculation; the conversions are ours, not the BEA's. The U.S. clocks fall back on Sunday, Nov. 1, 2026, so Oct. 29 is on Eastern Daylight Time (EDT) and every later date in the table is on Eastern Standard Time (EST). The UK has been on Greenwich Mean Time (GMT) since Oct. 25, 2026. Arizona does not change its clocks and stays on Mountain Standard Time (MST) all year.
+The BEA lists times in Eastern Time. We converted them with a time zone calculation; the conversions are ours, not the BEA's. The U.S. clocks fell back on Sunday, Nov. 1, 2026, so Oct. 29 was on Eastern Daylight Time (EDT) and every later date in the table is on Eastern Standard Time (EST). The UK has been on Greenwich Mean Time (GMT) since Oct. 25, 2026. Arizona does not change its clocks and stays on Mountain Standard Time (MST) all year.
 
 | Release date | Eastern | Central | Mountain | Arizona | Pacific | London |
 |---|---|---|---|---|---|---|
 | Thu., Oct. 29 | 8:30 a.m. EDT | 7:30 a.m. CDT | 6:30 a.m. MDT | 5:30 a.m. MST | 5:30 a.m. PDT | 12:30 p.m. GMT |
 | Wed., Nov. 4 | 8:30 a.m. EST | 7:30 a.m. CST | 6:30 a.m. MST | 6:30 a.m. MST | 5:30 a.m. PST | 1:30 p.m. GMT |
-| Wed., Nov. 18 (10:00 a.m. ET release) | 10:00 a.m. EST | 9:00 a.m. CST | 8:00 a.m. MST | 8:00 a.m. MST | 7:00 a.m. PST | 3:00 p.m. GMT |
+| Tue., Nov. 17 and Wed., Nov. 18 (10:00 a.m. ET releases) | 10:00 a.m. EST | 9:00 a.m. CST | 8:00 a.m. MST | 8:00 a.m. MST | 7:00 a.m. PST | 3:00 p.m. GMT |
 | Fri., Nov. 20 to Wed., Dec. 23 (all other 8:30 a.m. ET releases) | 8:30 a.m. EST | 7:30 a.m. CST | 6:30 a.m. MST | 6:30 a.m. MST | 5:30 a.m. PST | 1:30 p.m. GMT |
 
 Oct. 29 is the odd one out. Arizona matches Pacific time that day and Mountain time afterward, and London is four hours ahead of Eastern, not the five hours it is from Nov. 1 on.

@@ -66,45 +66,34 @@ related: [black-friday-2026-ad-tracker-walmart-target-best-buy, amazon-black-fri
 downloads:
   - group: "Beauty Sale Calendar printables"
     title: "Beauty Sale Calendar, November 2026"
-    description: "One-page beauty sale calendar for November 2026 with Sephora Savings Event tiers and Ulta Black Friday dates in Eastern Time."
+    description: "One-page beauty sale calendar for November 2026 with Ulta early deals, Black Friday and Cyber Monday dates in Eastern Time."
     preview: ../../../../assets/news/beauty-sales-2026/beauty-sale-calendar-november-2026.png
-    alt: "Printable beauty sale calendar for November 2026 with Sephora Savings Event and Ulta Black Friday dates"
+    alt: "Printable beauty sale calendar for November 2026 with Ulta early deals, Black Friday and Cyber Monday dates"
     pdf: "/news/downloads/beauty-sales-2026/beauty-sale-calendar-november-2026.pdf"
     png: "/news/downloads/beauty-sales-2026/beauty-sale-calendar-november-2026.png"
-    pages: 1
-  - group: "Beauty Sale Calendar printables"
-    title: "Beauty Sale Calendar, November 2026 (ink saver)"
-    description: "One-page beauty sale calendar for November 2026 with Sephora Savings Event tiers and Ulta Black Friday dates in Eastern Time. Ink-saver version."
-    preview: ../../../../assets/news/beauty-sales-2026/beauty-sale-calendar-november-2026-ink.png
-    alt: "Printable beauty sale calendar for November 2026 with Sephora Savings Event and Ulta Black Friday dates, ink-saver version"
-    pdf: "/news/downloads/beauty-sales-2026/beauty-sale-calendar-november-2026-ink.pdf"
-    png: "/news/downloads/beauty-sales-2026/beauty-sale-calendar-november-2026-ink.png"
     pages: 1
 draft: false
 assets:
   overlay: true
-  kicker: "Sephora sale November 2026 · Through Nov. 9"
-  date: "2026-11-03"
-  card: { top: "Sephora VIB and Insider open", big: "Tue., Nov. 3", bottom: "Rouge members started Fri., Oct. 30" }
+  kicker: "Ulta Black Friday 2026 · Online Nov. 21"
+  date: "2026-11-21"
+  card: { top: "Ulta Black Friday online", big: "Sat., Nov. 21", bottom: "9 p.m. ET; Sephora ended Nov. 9" }
   printable:
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: beauty-sale-calendar-november-2026
     group: beauty-sales-2026
     title: "Beauty Sale Calendar, November 2026"
-    subtitle: "Sephora Savings Event and Ulta Black Friday dates in Eastern Time"
+    subtitle: "Ulta early deals, Black Friday and Cyber Monday dates in Eastern Time"
     rows:
-      - ["Fri., Oct. 30", "Sephora Rouge 20% and Sephora Collection 30% open (through Nov. 9)"]
-      - ["Tue., Nov. 3", "Sephora VIB 15% and Insider 10% open (through Nov. 9)"]
-      - ["Mon., Nov. 9", "Sephora Savings Event ends"]
+      - ["Sun., Nov. 15 to Sat., Nov. 21", "Ulta lists a new round of early deals"]
       - ["Sat., Nov. 21", "Ulta early deals end 12:59 a.m. ET Nov. 22; Black Friday online 9 p.m. ET"]
       - ["Sun., Nov. 22", "Ulta Black Friday in stores 10 a.m. local time (through Nov. 28)"]
       - ["Sun., Nov. 29", "Ulta Cyber Monday online from 1 a.m. ET; Big Holiday Beauty Sale opens"]
       - ["Tue., Dec. 1", "Ulta Cyber Monday ends 3 a.m. ET"]
       - ["Thu., Dec. 24", "Ulta Big Holiday Beauty Sale ends"]
-    note: "Source: NBC News Select; The Daily Beast; Ulta Beauty. Central Time converted to Eastern Time by Fresh Calendars."
-    inkSaver: true
-    description: "One-page beauty sale calendar for November 2026 with Sephora Savings Event tiers and Ulta Black Friday dates in Eastern Time."
-    alt: "Printable beauty sale calendar for November 2026 with Sephora Savings Event and Ulta Black Friday dates"
+    note: "Source: Ulta Beauty, checked Nov. 13, 2026. Central Time converted to Eastern Time by Fresh Calendars. Sephora Savings Event ended Nov. 9."
+    description: "One-page beauty sale calendar for November 2026 with Ulta early deals, Black Friday and Cyber Monday dates in Eastern Time."
+    alt: "Printable beauty sale calendar for November 2026 with Ulta early deals, Black Friday and Cyber Monday dates"
 ---
 
 **Sephora's fall Savings Event ended Monday, Nov. 9, 2026. Rouge members had 20% off from Friday, Oct. 30, and Very Important Beauty Insider (VIB) and Insider members had their tiers from Tuesday, Nov. 3, NBC News Select and The Daily Beast reported.** With Black Friday on Nov. 27, the next dated beauty sale is Ulta Beauty's: its early deals run through Nov. 21, and its Black Friday sale starts online that night. This story lines those dates up, with Central Time (CT) converted to Eastern Time (ET), in a [free one-page beauty sale calendar](#downloads).

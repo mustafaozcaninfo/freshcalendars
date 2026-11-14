@@ -98,6 +98,7 @@ assets:
     subtitle: "Session times converted to Eastern and UK time; both rounds fall after the U.S. clocks change."
     columns: ["Session (local time)", "Eastern / UK"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Sat., Nov. 21 · Portugal Q2, 11:15", "6:15 a.m. EST / 11:15 a.m. GMT"]
       - ["Sat., Nov. 21 · Portugal Sprint, 15:00", "10:00 a.m. EST / 3:00 p.m. GMT"]

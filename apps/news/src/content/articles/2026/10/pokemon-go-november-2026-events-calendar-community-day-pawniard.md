@@ -17,20 +17,11 @@ assets:
     slug: pokemon-go-events-calendar-november-2026
     group: pokemon-go-2026
     title: "Pokémon GO Events Calendar, November 2026"
-    subtitle: "Official event dates, Oct. 30 to Dec. 3, plus GO Tour 2027"
+    subtitle: "Official event dates, Nov. 14 to Dec. 3, plus GO Tour 2027"
     layout: list
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Sat., Oct. 31, 2 to 5 p.m.", "Chandelure Super Mega Raid Day (local time)"]
-      - ["Sun., Nov. 1, 10 a.m.", "Halloween 2026 Part II starts (local time)"]
-      - ["Tue., Nov. 3, 10 a.m.", "GO Pass: November starts (local time)"]
-      - ["Thu., Nov. 5, 8 p.m.", "Halloween Part II and GO Pass: Halloween end"]
       - ["Tue., Nov. 3 to Tue., Dec. 1", "GO Battle League cups change weekly (1 p.m. Pacific Time)"]
-      - ["Fri., Nov. 6 to Sun., Nov. 8", "Wild Area: Sendai and Mexico City; ticket add-ons active"]
-      - ["Sat., Nov. 7, 8 p.m.", "GO Pass: Halloween rewards expire"]
-      - ["Mon., Nov. 9, 10 a.m.", "Into the Wild and GO Pass: Into the Wild start (local time)"]
-      - ["Mon., Nov. 9 to Fri., Nov. 13", "6 to 7 p.m.: Raid Hours (Zacian, Zamazenta), Max Battles (Registeel, Regidrago, Latias, Latios)"]
-      - ["Fri., Nov. 13, 8 p.m.", "Into the Wild ends (local time)"]
       - ["Sat., Nov. 14, 10 a.m.", "Wild Area: Global Special Research; Dynamax Trails early access; Karlsruhe (to 8 p.m.)"]
       - ["Sat., Nov. 14, 5 p.m.", "Minior Leonids starts; sky effect 5 to 9 p.m. daily"]
       - ["Sun., Nov. 15", "Stockholm Wild Area, 10 a.m. to 6 p.m.; GO Pass: Into the Wild ends 6 p.m."]
@@ -50,7 +41,7 @@ assets:
       - ["Feb. 19 to Feb. 21, 2027", "GO Tour 2027: Kaohsiung and Los Angeles"]
       - ["Feb. 27 to Feb. 28, 2027", "GO Tour 2027: Global"]
     note: "Source: Pokémon GO official news (pokemongo.com), checked Nov. 13, 2026. All times local unless marked."
-    description: "One-page Pokémon GO events calendar for November 2026 with official dates from Oct. 30 to Dec. 3 and the GO Tour 2027 dates. Free to print."
+    description: "One-page Pokémon GO events calendar for November 2026 with official dates from Nov. 14 to Dec. 3 and the GO Tour 2027 dates. Free to print."
     alt: "Printable Pokémon GO events calendar for November 2026 with a tick box beside each official event date"
 hero:
   src: ../../../../assets/news/pokemon-go-november-2026-events-calendar-community-day-pawniard/pokemon-go-november-2026-events-calendar-community-day-pawniard.webp
@@ -154,7 +145,7 @@ sources:
 downloads:
   - group: "Pokémon GO Events Calendar printables"
     title: "Pokémon GO Events Calendar, November 2026"
-    description: "One-page Pokémon GO events calendar for November 2026 with official dates from Oct. 30 to Dec. 3 and the GO Tour 2027 dates. Free to print."
+    description: "One-page Pokémon GO events calendar for November 2026 with official dates from Nov. 14 to Dec. 3 and the GO Tour 2027 dates. Free to print."
     preview: ../../../../assets/news/pokemon-go-2026/pokemon-go-events-calendar-november-2026.png
     alt: "Printable Pokémon GO events calendar for November 2026 with a tick box beside each official event date"
     pdf: "/news/downloads/pokemon-go-2026/pokemon-go-events-calendar-november-2026.pdf"

@@ -127,15 +127,15 @@ downloads:
 draft: false
 assets:
   overlay: true
-  kicker: "London Christmas lights · From Wed., Nov. 4, 2026"
-  date: "2026-11-04"
-  card: { top: "Carnaby Street switched on", big: "Wed., Nov. 4", bottom: "Regent Street Thu., Nov. 5" }
+  kicker: "London Christmas lights · Belfast Sat., Nov. 14"
+  date: "2026-11-14"
+  card: { top: "London lights are on", big: "Nov. 14", bottom: "Belfast City Hall, 6.30pm" }
   printable:
     kit: watch-guide
     slug: london-christmas-lights-switch-on-2026-watch-guide
     group: london-christmas-lights-2026
     title: "Christmas Lights Switch-On Dates 2026, London and Belfast"
-    subtitle: "Confirmed dates from the official sources, in UK time and Eastern Time"
+    subtitle: "Next switch-on: Belfast City Hall, Nov. 14, in UK time and Eastern Time"
     note: "Source: Shaftesbury Capital (Carnaby Street), Regent Street Online, Oxford Street, Covent Garden, Bond Street and Belfast City Council."
     description: "A one-page list of the 2026 Christmas lights switch-on dates in Carnaby Street, Regent Street, Oxford Street, Covent Garden, Bond Street and Belfast."
     alt: "Printable calendar of 2026 Christmas lights switch-on dates in London and Belfast."
@@ -143,11 +143,6 @@ assets:
       pick: "Going?"
       layout: table
       events:
-        - { start: "2026-11-04T18:00+00:00", tz: "Europe/London", title: "Carnaby Street switch-on", detail: "button push from 6pm; music from 4.30pm", src: 8 }
-        - { date: "2026-11-05", time: tba, title: "Regent Street lights return", detail: "traffic-free event", src: 7 }
-        - { start: "2026-11-09T16:30+00:00", tz: "Europe/London", title: "Oxford Street switch-on", detail: "Harry Potter theme", src: 2 }
-        - { date: "2026-11-12", time: tba, title: "Covent Garden switch-on", src: 9 }
-        - { date: "2026-11-12", time: tba, title: "Bond Street switch-on", src: 3 }
         - { start: "2026-11-14T18:30+00:00", tz: "Europe/London", title: "Belfast City Hall switch-on", detail: "ticketed event", src: 10 }
       unconfirmed:
         - { label: "Leicester Square switch-on", why: "Time Out and Fact Magazines reported Nov. 1, 2026; the square's own site shows no date" }

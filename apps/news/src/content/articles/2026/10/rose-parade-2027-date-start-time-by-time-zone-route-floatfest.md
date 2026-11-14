@@ -3,7 +3,7 @@ title: "Rose Parade 2027: Starts Jan. 1 at 8 a.m., Times by Zone"
 description: "The 138th Rose Parade starts 8 a.m. Pacific Time on Friday, Jan. 1, 2027, 11 a.m. ET. Start by time zone, the route, Bandfest and Floatfest dates."
 type: news
 publishedAt: "2026-10-26T08:50:00-04:00"
-updatedAt: "2026-10-30T01:05:00-04:00"
+updatedAt: "2026-11-14T01:15:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["rose parade 2027", "what time is the rose parade 2027", "rose parade route", "rose parade float viewing 2027", "bandfest 2027"]
@@ -31,25 +31,32 @@ faq:
   - q: "When is Bandfest 2027?"
     a: "The Tournament of Roses lists Bandfest from 10:00 a.m. on Tuesday, Dec. 29, 2026 to 4:00 p.m. on Wednesday, Dec. 30, 2026, at 1570 E. Colorado Blvd. in Pasadena. It is ticketed."
   - q: "When can you see the Rose Parade floats up close?"
-    a: "Floatfest is listed for Friday, Jan. 1 from 1:30 to 5:00 p.m., Saturday, Jan. 2 from 7:00 a.m. to 5:00 p.m. and Sunday, Jan. 3 from 9:00 a.m. to 4:00 p.m. It is ticketed. See the table for entry cutoffs."
+    a: "Floatfest is listed for Friday, Jan. 1 from 1:30 to 5:00 p.m., Saturday, Jan. 2 from 7:00 a.m. to 5:00 p.m. and Sunday, Jan. 3 from 9:00 a.m. to 4:00 p.m. It is ticketed. Sunday ticket sales end at 2:30 p.m. and the last entry is 3:00 p.m.; see the table for the other days."
   - q: "What channel is the Rose Parade on in 2027?"
     a: "The pages we used do not name a television or streaming broadcaster for 2027. Check the Tournament of Roses site for the announcement."
   - q: "What time is the Rose Bowl Game in 2027?"
-    a: "Not yet announced. The Rose Bowl Game presented by Prudential is a College Football Playoff (CFP) quarterfinal on Friday, Jan. 1, 2027. Kickoff time and teams are not yet announced."
+    a: "Not yet set. The Rose Bowl Game presented by Prudential is a College Football Playoff (CFP) quarterfinal on Friday, Jan. 1, 2027, and will kick off at either 1 p.m. or 5 p.m. PT, according to the Tournament of Roses. The CFP bracket and game time will be announced on ESPN on Sunday, Dec. 6. The teams are not yet announced."
 sources:
   - title: "138th Rose Parade presented by Honda"
     url: "https://tournamentofroses.com/event/rose-parade/"
     publisher: "Tournament of Roses"
+    date: "2026-11-14"
   - title: "Bandfest"
     url: "https://tournamentofroses.com/event/bandfest/"
     publisher: "Tournament of Roses"
+    date: "2026-11-14"
   - title: "Floatfest"
     url: "https://tournamentofroses.com/event/floatfest-a-rose-parade-showcase/"
     publisher: "Tournament of Roses"
+    date: "2026-11-14"
   - title: "CFP Announces 2026 and 2027 Playoff Sites, Rose Bowl Game to be Quarterfinal"
     url: "https://rosebowlgame.com/news/2026/2/3/general-cfp-announces-2026-and-2027-playoff-sites-rose-bowl-game-to-be-quarterfinal.aspx"
     publisher: "Rose Bowl Game"
     date: "2026-02-03"
+  - title: "Public ticket sale for the 2027 CFP quarterfinal at the Rose Bowl Game presented by Prudential"
+    url: "https://rosebowlgame.com/news/2026/9/1/general-the-pasadena-tournament-of-roses-announces-public-ticket-sale-for-the-2027-cfp-quarterfinal-at-the-rose-bowl-game-presented-by-prudential.aspx"
+    publisher: "Rose Bowl Game"
+    date: "2026-09-01"
   - title: "Theme for the 2027 Rose Parade is announced"
     url: "https://www.nbclosangeles.com/news/local/theme-for-the-2027-rose-parade-is-announced/3832567/"
     publisher: "NBC Los Angeles"
@@ -79,11 +86,12 @@ assets:
       - ["Dec. 31, 2026", "Thu. Overnight street parking in Pasadena begins at noon"]
       - ["Fri., Jan. 1", "138th Rose Parade, 8 a.m. to 10 a.m. PT (11 a.m. to 1 p.m. ET)"]
       - ["Fri., Jan. 1", "Floatfest, 1:30 to 5 p.m. (sales end 3:30, last entry 4:00; ticketed)"]
-      - ["Fri., Jan. 1", "Rose Bowl Game (CFP quarterfinal): kickoff not yet announced"]
+      - ["Fri., Jan. 1", "Rose Bowl Game (CFP quarterfinal): 1 p.m. or 5 p.m. PT, set Dec. 6"]
       - ["Sat., Jan. 2", "Floatfest, 7 to 9 a.m. for seniors and disabled visitors"]
       - ["Sat., Jan. 2", "Floatfest, 9 a.m. to 5 p.m. (sales end 3:30, last entry 4:00)"]
-      - ["Sun., Jan. 3", "Floatfest, 9 a.m. to 4 p.m. (see the official page for last entry)"]
-    note: "Source: Tournament of Roses (tournamentofroses.com) and Rose Bowl Game (rosebowlgame.com). ET time is our conversion. Check the official pages for changes."
+      - ["Sun., Jan. 3", "Floatfest, 9 a.m. to 4 p.m. (sales end 2:30, last entry 3:00)"]
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
+    note: "Source: Tournament of Roses (tournamentofroses.com) and Rose Bowl Game (rosebowlgame.com). ET time is our conversion. Checked Nov. 14, 2026. Check the official pages for changes."
     description: "A one-page Rose Parade week 2027 schedule with Bandfest, the Jan. 1 parade start, Floatfest hours and the Rose Bowl Game date."
     alt: "Rose Parade week 2027 schedule listing Bandfest, the parade, Floatfest and the Rose Bowl Game dates"
 downloads:
@@ -97,8 +105,6 @@ downloads:
     pages: 1
 draft: false
 ---
-
-<p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> The 2027 Rose Parade theme is "Welcome," announced by Tournament of Roses President Terry Madigan in January 2026, per NBC Los Angeles. The Grand Marshal and the broadcasters are still not yet announced.</p>
 
 **The 138th Rose Parade presented by Honda begins at 8 a.m. Pacific Time (PT) on Friday, Jan. 1, 2027, which is 11 a.m. Eastern Time (ET), according to the Tournament of Roses.** The organization lists the parade from 8:00 a.m. to 10:00 a.m. in Pasadena, California. Below: the start time in each U.S. time zone, the route, and one week of dates from four separate official pages.
 
@@ -135,10 +141,10 @@ Each event has its own page on the Tournament of Roses site, and the Rose Bowl G
 | Thu., Dec. 31, 2026 | Overnight street parking begins | Noon, Pasadena streets |
 | Fri., Jan. 1, 2027 | 138th Rose Parade | 8:00 a.m. to 10:00 a.m. (11 a.m. to 1 p.m. ET) |
 | Fri., Jan. 1, 2027 | Floatfest (ticketed) | 1:30 to 5:00 p.m.; ticket sales end 3:30 p.m., last entry 4:00 p.m. |
-| Fri., Jan. 1, 2027 | Rose Bowl Game presented by Prudential | Kickoff time not yet announced |
+| Fri., Jan. 1, 2027 | Rose Bowl Game presented by Prudential | Kickoff at 1 p.m. or 5 p.m., to be announced Dec. 6 |
 | Sat., Jan. 2, 2027 | Floatfest, seniors and disabled visitors | 7:00 to 9:00 a.m. |
 | Sat., Jan. 2, 2027 | Floatfest (ticketed) | 9:00 a.m. to 5:00 p.m.; sales end 3:30 p.m., last entry 4:00 p.m. |
-| Sun., Jan. 3, 2027 | Floatfest (ticketed) | 9:00 a.m. to 4:00 p.m.; see the official page for last entry |
+| Sun., Jan. 3, 2027 | Floatfest (ticketed) | 9:00 a.m. to 4:00 p.m.; sales end 2:30 p.m., last entry 3:00 p.m. |
 
 ## What are Bandfest and Floatfest?
 
@@ -148,7 +154,7 @@ Floatfest, the Tournament of Roses float viewing event, is at East Sierra Madre 
 
 ## What time is the Rose Bowl Game in 2027?
 
-The Rose Bowl Game presented by Prudential is a College Football Playoff (CFP) quarterfinal on Friday, Jan. 1, 2027, according to a Feb. 3, 2026 release on rosebowlgame.com. Kickoff time and teams are not yet announced. Our [college football playoff rankings and dates](/news/college-football-playoff-rankings-2026-schedule-dates-times/) story tracks the schedule.
+The Rose Bowl Game presented by Prudential is a College Football Playoff (CFP) quarterfinal on Friday, Jan. 1, 2027, according to a Feb. 3, 2026 release on rosebowlgame.com. The Tournament of Roses says kickoff will be either 1 p.m. or 5 p.m. PT, and that the CFP bracket and game time will be announced on ESPN on Sunday, Dec. 6. The teams are not yet announced. Our [college football playoff rankings and dates](/news/college-football-playoff-rankings-2026-schedule-dates-times/) story tracks the schedule.
 
 ## Is the 2027 theme or TV channel announced?
 
