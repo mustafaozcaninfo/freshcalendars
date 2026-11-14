@@ -164,7 +164,7 @@ Rows 1 to 3 each have a single black square, in column 12, so 1-Across, 15-Acros
 
 Mark the solving days on our [printable calendar for November 2026](/november-calendars.html) or the [weekly calendar to print](/printable-weekly-calendar.html).
 
-More puzzles for Friday: [Wordle hints](/news/wordle-hint-answer-today-november-13-2026-1973/), [Connections hints](/news/nyt-connections-hints-answers-november-13-2026-1251/) and [Strands hints](/news/nyt-strands-hints-answers-november-13-2026-985/). Yesterday's grid is in our [Crossword answers for Nov. 12](/news/nyt-crossword-answers-november-12-2026/).
+More puzzles for Friday: [Wordle hints](/news/wordle-hint-answer-today-november-13-2026-1973/), [Connections hints](/news/nyt-connections-hints-answers-november-13-2026-1251/) and [Strands hints](/news/nyt-strands-hints-answers-november-13-2026-985/). Yesterday's grid is in our [Crossword answers for Nov. 12](/news/nyt-crossword-answers-november-12-2026/). The next grid is in our [Crossword answers for Nov. 14](/news/nyt-crossword-answers-november-14-2026/).
 
 ## Today's NYT Crossword answers (spoilers)
 

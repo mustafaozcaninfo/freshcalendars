@@ -118,6 +118,8 @@ Solving 17-Across opens a Down entry at every square of row 6, so solve it befor
 
 [Thursday's Midi](/news/nyt-midi-crossword-answers-november-12-2026/) had 31 black squares, 90 letters and 34 clues. Friday has 27 black squares, 94 letters and 41 clues, so the grid is more open. Both are 11 by 11. Counts come from the official grid data.
 
+Saturday's themed grid has its own [Midi page for Nov. 14](/news/nyt-midi-crossword-answers-november-14-2026/).
+
 Today's grid has 41 entries to fill; the rules for the format are on our [Midi Crossword page](/news/topic/nyt-midi-crossword/#how-it-works).
 
 Plan the week around the puzzle with our [weekly planner you can print](/printable-weekly-calendar.html) or the [printable calendar for November 2026](/november-calendars.html).

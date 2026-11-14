@@ -1,0 +1,1098 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-14",
+ "constructors": [
+  "Byron Walden"
+ ],
+ "width": 15,
+ "height": 15,
+ "cells": [
+  "C",
+  "H",
+  "A",
+  "W",
+  null,
+  "L",
+  "O",
+  "F",
+  "T",
+  null,
+  "C",
+  "R",
+  "A",
+  "S",
+  "H",
+  "L",
+  "I",
+  "T",
+  "H",
+  "U",
+  "A",
+  "N",
+  "I",
+  "A",
+  null,
+  "H",
+  "E",
+  "N",
+  "C",
+  "E",
+  "A",
+  "R",
+  "R",
+  "A",
+  "N",
+  "G",
+  "I",
+  "N",
+  "G",
+  null,
+  "I",
+  "D",
+  "I",
+  "O",
+  "M",
+  "M",
+  "E",
+  "A",
+  "T",
+  "H",
+  "O",
+  "O",
+  "K",
+  null,
+  "S",
+  "C",
+  "H",
+  "M",
+  "O",
+  "S",
+  null,
+  null,
+  null,
+  "A",
+  "E",
+  "O",
+  "N",
+  null,
+  "P",
+  "O",
+  "K",
+  "E",
+  "A",
+  "T",
+  null,
+  "T",
+  "W",
+  "O",
+  "M",
+  "A",
+  "N",
+  null,
+  "P",
+  "A",
+  "L",
+  "E",
+  "A",
+  "L",
+  "E",
+  "S",
+  "R",
+  "A",
+  "P",
+  "I",
+  "D",
+  null,
+  "P",
+  "E",
+  "C",
+  "A",
+  "N",
+  "T",
+  "A",
+  "R",
+  "T",
+  "E",
+  "Y",
+  "E",
+  null,
+  "Q",
+  "U",
+  "A",
+  "K",
+  "E",
+  "R",
+  "S",
+  null,
+  "C",
+  "P",
+  "U",
+  "A",
+  "N",
+  "N",
+  "O",
+  "U",
+  "N",
+  "C",
+  "E",
+  "R",
+  null,
+  "C",
+  "U",
+  "T",
+  "I",
+  "N",
+  "T",
+  "E",
+  "D",
+  "T",
+  "A",
+  "L",
+  "K",
+  "S",
+  null,
+  "D",
+  "R",
+  "Y",
+  "S",
+  "E",
+  "T",
+  null,
+  "M",
+  "E",
+  "T",
+  "R",
+  "E",
+  "S",
+  null,
+  "C",
+  "R",
+  "A",
+  "G",
+  null,
+  null,
+  null,
+  "L",
+  "A",
+  "B",
+  "A",
+  "T",
+  "T",
+  null,
+  "F",
+  "L",
+  "A",
+  "T",
+  "H",
+  "E",
+  "A",
+  "D",
+  "I",
+  "N",
+  "A",
+  "W",
+  "E",
+  null,
+  "B",
+  "E",
+  "E",
+  "F",
+  "C",
+  "U",
+  "R",
+  "R",
+  "Y",
+  "N",
+  "O",
+  "T",
+  "A",
+  "R",
+  null,
+  "E",
+  "A",
+  "R",
+  "T",
+  "H",
+  "R",
+  "I",
+  "S",
+  "E",
+  "T",
+  "R",
+  "E",
+  "S",
+  "S",
+  null,
+  "A",
+  "R",
+  "K",
+  "S",
+  null,
+  "S",
+  "E",
+  "E",
+  "D"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Leaves with a pungent taste in one's mouth?",
+   "cells": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "Artist's pad, perhaps",
+   "cells": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "___ pad",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Country that celebrates Stork Day on March 25 to honor the return of its national bird",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "It follows that",
+   "cells": [
+    25,
+    26,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Orchestrator's work",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "Hot potato or cold fish, e.g.",
+   "cells": [
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "S-shaped hanger",
+   "cells": [
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Saps",
+   "cells": [
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Very long span",
+   "cells": [
+    63,
+    64,
+    65,
+    66
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Nudge",
+   "cells": [
+    68,
+    69,
+    70,
+    71,
+    72,
+    73
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Like some saws and bobsleds",
+   "cells": [
+    75,
+    76,
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Light refreshments?",
+   "cells": [
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "With 30-Across, kind of movement",
+   "cells": [
+    90,
+    91,
+    92,
+    93,
+    94
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Nutty pastry",
+   "cells": [
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "30",
+   "text": "See 28-Across",
+   "cells": [
+    105,
+    106,
+    107
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "31",
+   "text": "First Day observers",
+   "cells": [
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "Intel component, for short",
+   "cells": [
+    117,
+    118,
+    119
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Emcee",
+   "cells": [
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "36",
+   "text": "Break dancing?",
+   "cells": [
+    130,
+    131,
+    132,
+    133,
+    134
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "38",
+   "text": "Alex Honnold's \"How I climbed a 3,000-foot vertical cliff — without ropes\" and others",
+   "cells": [
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "39",
+   "text": "Kind of concrete that does not require pre-mixing",
+   "cells": [
+    144,
+    145,
+    146,
+    147,
+    148,
+    149
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "40",
+   "text": "Lengths at the London Olympics",
+   "cells": [
+    151,
+    152,
+    153,
+    154,
+    155,
+    156
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "41",
+   "text": "\"He clasps the ___ with crooked hands\": Tennyson, \"The Eagle\"",
+   "cells": [
+    158,
+    159,
+    160,
+    161
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "42",
+   "text": "Eponymous Ontario brewer John",
+   "cells": [
+    165,
+    166,
+    167,
+    168,
+    169,
+    170
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "43",
+   "text": "Kind of catfish or screw",
+   "cells": [
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "47",
+   "text": "Stupefied",
+   "cells": [
+    180,
+    181,
+    182,
+    183,
+    184
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "48",
+   "text": "Spicy, savory South Asian dish",
+   "cells": [
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "49",
+   "text": "Vape marketing claim",
+   "cells": [
+    195,
+    196,
+    197,
+    198,
+    199
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "50",
+   "text": "Depiction on a 1969 postage stamp honoring the Apollo 8 mission",
+   "cells": [
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "51",
+   "text": "Lock",
+   "cells": [
+    210,
+    211,
+    212,
+    213,
+    214
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "52",
+   "text": "Cabinets used by cantors",
+   "cells": [
+    216,
+    217,
+    218,
+    219
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "53",
+   "text": "Sow what?",
+   "cells": [
+    221,
+    222,
+    223,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Kind of juice in a bloody Caesar",
+   "cells": [
+    0,
+    15,
+    30,
+    45
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Charter",
+   "cells": [
+    1,
+    16,
+    31,
+    46
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Name amusingly hidden in \"cutthroat razor\"",
+   "cells": [
+    2,
+    17,
+    32,
+    47
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "End of a riddle",
+   "cells": [
+    3,
+    18,
+    33,
+    48,
+    63,
+    78,
+    93
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Biscayne Bay, for example",
+   "cells": [
+    5,
+    20,
+    35,
+    50,
+    65,
+    80
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Whopper topper",
+   "cells": [
+    6,
+    21,
+    36,
+    51,
+    66
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Bad tipper?",
+   "cells": [
+    7,
+    22,
+    37,
+    52
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Word with dog or ear",
+   "cells": [
+    8,
+    23,
+    38
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Bunch of dubious characters?",
+   "cells": [
+    10,
+    25,
+    40,
+    55,
+    70,
+    85,
+    100,
+    115,
+    130,
+    145,
+    160,
+    175,
+    190,
+    205
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "1988 comedy with Arnold Schwarzenegger as Ivan Danko",
+   "cells": [
+    11,
+    26,
+    41,
+    56,
+    71,
+    86,
+    101
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Creature features?",
+   "cells": [
+    12,
+    27,
+    42,
+    57,
+    72,
+    87,
+    102,
+    117,
+    132,
+    147
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Confection named for Yankee legend Phil Rizzuto",
+   "cells": [
+    13,
+    28,
+    43,
+    58,
+    73,
+    88,
+    103,
+    118,
+    133,
+    148
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Finishes a shift?",
+   "cells": [
+    14,
+    29,
+    44,
+    59
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "Country house?",
+   "cells": [
+    19,
+    34,
+    49,
+    64,
+    79,
+    94,
+    109,
+    124,
+    139,
+    154,
+    169,
+    184,
+    199,
+    214
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "20",
+   "text": "\"Go ___\" (environmentalist's catchphrase)",
+   "cells": [
+    54,
+    69,
+    84,
+    99,
+    114
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "Fast bowler, in cricket",
+   "cells": [
+    68,
+    83,
+    98,
+    113,
+    128
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "\"My ___\"",
+   "cells": [
+    75,
+    90,
+    105,
+    120,
+    135
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Noted DC locale since 1939",
+   "cells": [
+    76,
+    91,
+    106,
+    121,
+    136,
+    151,
+    166,
+    181,
+    196,
+    211
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Freewheeling exchange",
+   "cells": [
+    77,
+    92,
+    107,
+    122,
+    137,
+    152,
+    167,
+    182,
+    197,
+    212
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "Toys from China, for short",
+   "cells": [
+    82,
+    97,
+    112,
+    127,
+    142
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "Set back the growth of",
+   "cells": [
+    89,
+    104,
+    119,
+    134,
+    149
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "29",
+   "text": "Starts to make a move",
+   "cells": [
+    96,
+    111,
+    126,
+    141,
+    156
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "Available, as an apartment",
+   "cells": [
+    110,
+    125,
+    140,
+    155,
+    170
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "35",
+   "text": "Pontiac and others",
+   "cells": [
+    123,
+    138,
+    153,
+    168,
+    183,
+    198,
+    213
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "37",
+   "text": "Ethnic group in China's Xinjiang region",
+   "cells": [
+    131,
+    146,
+    161,
+    176,
+    191,
+    206,
+    221
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "39",
+   "text": "Works in progress",
+   "cells": [
+    144,
+    159,
+    174,
+    189,
+    204,
+    219
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "41",
+   "text": "Supreme Court position",
+   "cells": [
+    158,
+    173,
+    188,
+    203,
+    218
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "42",
+   "text": "Stuff in a trap",
+   "cells": [
+    165,
+    180,
+    195,
+    210
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "43",
+   "text": "\"In time we hate that which we often ___\": \"Antony and Cleopatra\"",
+   "cells": [
+    172,
+    187,
+    202,
+    217
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "44",
+   "text": "Fort ___, Ontario",
+   "cells": [
+    177,
+    192,
+    207,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "45",
+   "text": "Rump of Parliament?",
+   "cells": [
+    178,
+    193,
+    208,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "46",
+   "text": "Processed with bloodroot or butternut",
+   "cells": [
+    179,
+    194,
+    209,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "48",
+   "text": "Actress/comedian Benaderet",
+   "cells": [
+    186,
+    201,
+    216
+   ]
+  }
+ ]
+}

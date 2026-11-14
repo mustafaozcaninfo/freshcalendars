@@ -95,7 +95,7 @@ Our [Mini Crossword page](/news/topic/nyt-mini-crossword/#how-it-works) covers h
 
 Keep the solve on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
 
-More for Friday, Nov. 13: [Wordle hints](/news/wordle-hint-answer-today-november-13-2026-1973/), [Connections hints](/news/nyt-connections-hints-answers-november-13-2026-1251/), [Strands hints](/news/nyt-strands-hints-answers-november-13-2026-985/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-13-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-13-2026/). Thursday's grid is in the [Mini answers for Nov. 12](/news/nyt-mini-crossword-answers-november-12-2026/).
+More for Friday, Nov. 13: [Wordle hints](/news/wordle-hint-answer-today-november-13-2026-1973/), [Connections hints](/news/nyt-connections-hints-answers-november-13-2026-1251/), [Strands hints](/news/nyt-strands-hints-answers-november-13-2026-985/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-13-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-13-2026/). Thursday's grid is in the [Mini answers for Nov. 12](/news/nyt-mini-crossword-answers-november-12-2026/), and Saturday's is on the [Nov. 14 Mini page](/news/nyt-mini-crossword-answers-november-14-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 
