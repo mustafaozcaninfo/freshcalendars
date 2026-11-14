@@ -1,10 +1,10 @@
 ---
 title: "Christmas Menus 2026 in the UK: Start Date by Chain"
-description: "UK Christmas menus 2026 began at Greggs and Costa on 22 October, Burger King on 3 November; Wetherspoon starts 12 November. Days on sale per chain."
+description: "UK Christmas menus 2026 began at Greggs and Costa on 22 October, Burger King on 3 November, KFC on 9 November and Wetherspoon on 12 November. Days on sale."
 type: news
 dateline: "London"
 publishedAt: "2026-11-04T14:57:00-05:00"
-updatedAt: "2026-11-04T14:57:00-05:00"
+updatedAt: "2026-11-14T15:42:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["christmas menu 2026 uk", "festive menus 2026", "when do christmas menus start uk 2026", "burger king christmas menu uk 2026", "wetherspoons christmas menu 2026"]
@@ -12,7 +12,7 @@ assets:
   overlay: true
   kicker: "UK Christmas menus · 2026"
   date: "2026-11-09"
-  card: { top: "KFC's Gravymas range starts", big: "Mon., 9 Nov.", bottom: "Wetherspoon from Thu., 12 Nov." }
+  card: { top: "Wetherspoon menu began", big: "Thu., 12 Nov.", bottom: "KFC Gravymas from Mon., 9 Nov." }
   printable:
     kit: deadline-matrix
     slug: uk-christmas-menus-2026-start-dates
@@ -68,21 +68,22 @@ hero:
 summary:
   - "Greggs says its festive range was in shop from 22nd October 2026, and Costa Coffee's Christmas menu launched in the UK and Ireland on 22 October 2026, while stocks last, according to Retail Times and What's The Jam."
   - "Burger King UK's festive menu launched on 3 November 2026 at participating restaurants, Retail Times and Brit Brief report; the end date is not confirmed."
-  - "Kentucky Fried Chicken (KFC) runs its Gravymas range from Monday 9 November 2026 to Sunday 3 January 2027, Britbrief and Foodbible report."
-  - "Wetherspoon says its Christmas menu runs from Thursday 12 November to Thursday 31 December, excluding Christmas Day."
+  - "Kentucky Fried Chicken (KFC) began its Gravymas range on Monday 9 November 2026 and runs it to Sunday 3 January 2027, Britbrief and Foodbible reported."
+  - "Wetherspoon says its Christmas menu runs from Thursday 12 November, which has now begun, to Thursday 31 December, excluding Christmas Day."
 faq:
   - q: "When do Christmas menus start in the UK in 2026?"
-    a: "It depends on the chain. Greggs and Costa began on 22 October, Burger King UK on 3 November, KFC starts on 9 November and Wetherspoon on 12 November. The table above has the source for each."
+    a: "It depends on the chain. Greggs and Costa began on 22 October, Burger King UK on 3 November, KFC on 9 November and Wetherspoon on 12 November. The table above has the source for each."
   - q: "When does the Wetherspoon Christmas menu start in 2026?"
-    a: "Thursday 12 November, and it runs until Thursday 31 December, excluding Christmas Day, according to the Wetherspoon website. The banner does not print a year, but both weekdays match 2026. Dishes and prices are not confirmed."
+    a: "It began on Thursday 12 November and runs until Thursday 31 December, excluding Christmas Day, according to the Wetherspoon website, which still showed those dates on 14 November. The banner does not print a year, but both weekdays match 2026. Dishes and prices are not confirmed."
   - q: "Is there a Burger King Christmas menu in the UK in 2026?"
     a: "Yes. Retail Times reports that Burger King UK's festive menu launched on 3rd November at participating restaurants nationwide. Brit Brief says how long it stays on sale has not been confirmed."
   - q: "How long does the KFC Christmas menu last in 2026?"
-    a: "The Gravymas range runs from Monday 9 November to Sunday 3 January 2027, according to Foodbible and Britbrief, at participating restaurants."
+    a: "The Gravymas range began on Monday 9 November and runs to Sunday 3 January 2027, according to Foodbible and Britbrief, at participating restaurants."
 sources:
   - title: "Fill your festive feeds"
     url: "https://www.greggs.com/news/fill-your-festive-feeds"
     publisher: "Greggs"
+    date: "2026-11-14"
   - title: "Costa Coffee unwraps its festive 2026 menu"
     url: "https://retailtimes.co.uk/costa-coffee-unwraps-its-festive-2026-menu-bringing-something-for-every-christmas-catch-up/"
     publisher: "Retail Times"
@@ -109,6 +110,7 @@ sources:
   - title: "Christmas menu banner"
     url: "https://www.jdwetherspoon.com/"
     publisher: "Wetherspoon"
+    date: "2026-11-14"
   - title: "Tesco signals the start of the Christmas season with a flavour-packed meal deal"
     url: "https://retailtimes.co.uk/tesco-signals-the-start-of-the-christmas-season-with-a-flavour-packed-meal-deal/"
     publisher: "Retail Times"
@@ -159,7 +161,7 @@ downloads:
 draft: false
 ---
 
-**Greggs says its festive range was in shop from 22nd October 2026, and Costa Coffee's Christmas menu launched across the UK and Ireland the same day, while stocks last, Retail Times reported on 20 October.** Burger King UK followed on 3 November, Kentucky Fried Chicken (KFC) starts its Gravymas range on Monday 9 November, and Wetherspoon's Christmas menu starts on Thursday 12 November, according to the Wetherspoon website. The table counts the days each menu has before Christmas Day.
+**Greggs says its festive range was in shop from 22nd October 2026, and Costa Coffee's Christmas menu launched across the UK and Ireland the same day, while stocks last, Retail Times reported on 20 October.** Burger King UK followed on 3 November, Kentucky Fried Chicken (KFC) began its Gravymas range on Monday 9 November, and Wetherspoon's Christmas menu began on Thursday 12 November, according to the Wetherspoon website. The table counts the days each menu has before Christmas Day.
 
 ## Christmas menu start dates in the UK, chain by chain
 
@@ -191,11 +193,11 @@ Retail Times reports that the Burger King UK festive menu launched on 3rd Novemb
 
 ## KFC Gravymas range, 9 November to 3 January
 
-Britbrief (28 October) and Foodbible (29 October) both report that the Gravymas range runs from Monday 9 November to Sunday 3 January at participating restaurants. Both give the Gravymas Burger at £7.99. Our [KFC UK Christmas menu story](/news/kfc-uk-christmas-menu-2026-gravymas/) lists the rest of the range.
+Britbrief (28 October) and Foodbible (29 October) both reported that the Gravymas range runs from Monday 9 November to Sunday 3 January at participating restaurants. Both give the Gravymas Burger at £7.99. Our [KFC UK Christmas menu story](/news/kfc-uk-christmas-menu-2026-gravymas/) lists the rest of the range.
 
 ## Wetherspoon Christmas menu dates
 
-The Wetherspoon website says: "The Christmas menu will be available at Wetherspoon's pubs from Thursday 12 November until Thursday 31 December" (excluding Christmas Day). The banner prints no year. Both weekdays match 2026, and the feature it links to is titled "christmas-at-wetherspoon-2026". Our [Wetherspoon Christmas menu 2026 story](/news/wetherspoon-christmas-menu-2026/) lists the dishes the page names; prices are not confirmed.
+The Wetherspoon website, read on 14 November, says: "The Christmas menu will be available at Wetherspoon's pubs from Thursday 12 November until Thursday 31 December" (excluding Christmas Day). The banner prints no year. Both weekdays match 2026, and the feature it links to is titled "christmas-at-wetherspoon-2026". Our [Wetherspoon Christmas menu 2026 story](/news/wetherspoon-christmas-menu-2026/) lists the dishes the page names; prices are not confirmed.
 
 ## Supermarket Christmas meal deals
 

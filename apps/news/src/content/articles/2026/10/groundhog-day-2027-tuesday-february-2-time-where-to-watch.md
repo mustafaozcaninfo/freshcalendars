@@ -3,7 +3,7 @@ title: "Groundhog Day 2027 Is Tuesday, Feb. 2: Phil's Record"
 description: "Groundhog Day 2027 is Tue., Feb. 2. The National Oceanic and Atmospheric Administration (NOAA) says Phil was right 30% of the time in 10 years."
 type: explainer
 publishedAt: "2026-10-31T01:00:00-04:00"
-updatedAt: "2026-11-14T15:45:00-05:00"
+updatedAt: "2026-11-14T15:42:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["groundhog day 2027", "what time is groundhog day 2027", "punxsutawney phil accuracy", "groundhog day six more weeks"]

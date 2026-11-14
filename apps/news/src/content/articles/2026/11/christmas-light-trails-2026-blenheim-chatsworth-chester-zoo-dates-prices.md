@@ -1,15 +1,16 @@
 ---
 title: "Christmas Light Trails 2026: Chatsworth from 7 November to 3 January"
-description: "Chatsworth's Christmas light trail 2026 opened Saturday 7 November; Blenheim Palace and Chester Zoo open 13 November. A table compares dates and prices."
+description: "Chatsworth's Christmas light trail 2026 opened Saturday 7 November; Blenheim Palace and Chester Zoo opened 13 November. A table compares dates and prices."
 type: news
 publishedAt: "2026-11-04T09:03:00-05:00"
+updatedAt: "2026-11-14T15:42:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Christmas light trails 2026", "Blenheim Christmas 2026", "Chatsworth Christmas 2026", "Chester Zoo Lanterns and Light 2026"]
 hero:
   src: ../../../../assets/news/christmas-light-trails-2026-blenheim-chatsworth-chester-zoo-dates-prices/christmas-light-trails-2026-blenheim-chatsworth-chester-zoo-dates-prices.webp
   alt: "Chatsworth House lit with Christmas illuminations at night, Christmas light trails 2026"
-  caption: "File photo from an earlier year of Chatsworth House with its Christmas illuminations. Chatsworth's 2026 Christmas trail opens on 7 November."
+  caption: "File photo from an earlier year of Chatsworth House with its Christmas illuminations. Chatsworth's 2026 Christmas trail opened on 7 November."
   credit: "Photo: Robrocket82 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -20,7 +21,7 @@ summary:
   - "Chatsworth's Christmas trail runs from 7 November 2026 to 3 January 2027, and Blenheim Palace and Chester Zoo run from Friday 13 November to Sunday 3 January, according to each venue's own page."
   - "By our count from those dates, Chatsworth is open for 58 days, and Blenheim Palace and Chester Zoo for 52 days each."
   - "Chatsworth lists adult tickets at £40.00 and child tickets at £12.00, and Chester Zoo says tickets start from £12; Blenheim's page does not show prices."
-  - "Chatsworth's tickets include its Christmas market only for visits from 7 November to 13 December inclusive."
+  - "Chatsworth's tickets include its Christmas market only for visits from 7 November to 13 December inclusive; Blenheim's market runs from 13 November to 20 December."
 faq:
   - q: "When do the Christmas light trails open in 2026?"
     a: "Chatsworth's first day is 7 November 2026. Blenheim Palace and Chester Zoo start on Friday 13 November, according to their own pages."
@@ -34,19 +35,19 @@ sources:
   - title: "Christmas at Blenheim Palace 2026 | Illuminated Trail, Cinderella & Market"
     url: "https://www.blenheimpalace.com/christmas"
     publisher: "Blenheim Palace"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Christmas at Chatsworth"
     url: "https://www.chatsworth.org/christmas"
     publisher: "Chatsworth"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Lanterns & Light"
     url: "https://www.chesterzoo.org/lanterns"
     publisher: "Chester Zoo"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Lanterns & Light tickets"
     url: "https://www.chesterzoo.org/lanterns-light-tickets/"
     publisher: "Chester Zoo"
-    date: "2026-11-04"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -74,15 +75,15 @@ draft: false
 assets:
   overlay: true
   kicker: "UK light trails · 2026"
-  date: "2026-11-13"
-  card: { top: "Blenheim and Chester Zoo open", big: "Fri., 13 Nov.", bottom: "Chatsworth from Sat., 7 Nov." }
+  date: "2027-01-03"
+  card: { top: "All three trails end", big: "Sun., 3 Jan.", bottom: "Open now since 7 and 13 Nov." }
   printable:
     kit: deadline-matrix
     slug: christmas-light-trails-2026-weekend-planner
     group: christmas-light-trails-2026
     title: "Christmas Light Trails 2026 Planner: Blenheim, Chatsworth, Chester Zoo"
     subtitle: "Opening and closing dates from each venue's own page"
-    note: "Source: Blenheim Palace; Chatsworth; Chester Zoo, read 4 November 2026. Chester Zoo's page prints no year. Check each booking page for your date."
+    note: "Source: Blenheim Palace; Chatsworth; Chester Zoo, read 14 November 2026. Chester Zoo's page prints no year. Check each booking page for your date."
     description: "A one-page grid of the 2026 opening and closing dates of the Blenheim Palace, Chatsworth and Chester Zoo Christmas light trails, with tick boxes."
     alt: "Printable grid of the 2026 Christmas light trail dates at Blenheim Palace, Chatsworth and Chester Zoo."
     data:
@@ -105,6 +106,11 @@ assets:
             Chatsworth: { text: "Last day the ticket includes the Christmas market", src: 2 }
           src: 2
           quote: "Visit between 7 November and 13 December (inclusive) - your tickets include the Christmas market"
+        - date: "2026-12-20"
+          cells:
+            Blenheim Palace: { text: "Last day of the Christmas Market", src: 1 }
+          src: 1
+          quote: "The Christmas Market is open from Friday 13th November until Sunday 20th December 2026."
         - date: "2027-01-03"
           cells:
             Blenheim Palace: { text: "Last day", src: 1 }
@@ -116,7 +122,7 @@ assets:
         - { label: "Kew Gardens, Wakehurst and Longleat trails", why: "Not listed: their official pages were not read for this story" }
 ---
 
-**Chatsworth's Christmas trail opens on Saturday 7 November 2026, and Blenheim Palace and Chester Zoo open their light trails on Friday 13 November, according to each venue's own page.** All three run to Sunday 3 January 2027. The table below sets out hours, tickets and booking rules, and a one-page planner is below it.
+**Chatsworth's Christmas trail opened on Saturday 7 November 2026, and Blenheim Palace and Chester Zoo opened their light trails on Friday 13 November, according to each venue's own page.** All three run to Sunday 3 January 2027. The table below sets out hours, tickets and booking rules, and a one-page planner is below it.
 
 ## How do the three light trails compare?
 
@@ -127,8 +133,8 @@ assets:
 | Days open, by our count | 52 (about 7.4 weeks) | 58 (about 8.3 weeks) | 52 (about 7.4 weeks) |
 | Hours | 10.00-20.00 | Market 10am-5.30pm Monday to Thursday, 10am-6pm Friday to Sunday; arrival any time after 9am | Sessions 4.30pm-8pm |
 | Cheapest ticket as stated | Prices on Blenheim's booking page | Child (3-16) £12.00 (£10.90 without donation) | From £12 |
-| Christmas market | Not confirmed (end date not on the page) | Included for visits 7 November to 13 December inclusive | Not listed |
-| Booking rule | Limited capacity with timed entry; parking chargeable and pre-booked | All tickets must be booked in advance | Timeslots; quiet hour at 4pm on some dates |
+| Christmas market | Market open Friday 13 November to Sunday 20 December 2026 | Included for visits 7 November to 13 December inclusive | Not listed |
+| Booking rule | Limited capacity with timed entry; parking chargeable and pre-booked | All tickets must be booked in advance | Timeslots; quiet hour at 4pm on four dates, sold out |
 
 The day counts are our calculation, counting the first and last dates. They assume each trail runs every date in the range. Chester Zoo's page prints no year; its weekdays (Friday 13 November, Sunday 3 January) match 2026-27, so we read them that way.
 
@@ -140,7 +146,9 @@ Chatsworth has nine weekends from its Saturday opening: 7-8, 14-15, 21-22 and 28
 
 Blenheim's Christmas page, titled "Christmas at Blenheim Palace 2026 | Illuminated Trail, Cinderella & Market", gives "Friday 13th November 2026 - Sunday 3rd January 2027" and hours of 10.00-20.00. It describes "limited capacity with timed entry" and says parking "is chargeable and should be pre-booked," applying to all visitors. Prices are not on that page, so check Blenheim's booking page.
 
-The page also says "No Blenheim Palace discounts apply to tickets." It adds that annual pass holder discounts "do not apply on 5, 6, 12, 13, and 19 December." We found no market end date on the page, so we do not give one.
+The page also says "No Blenheim Palace discounts apply to tickets." It adds that annual pass holder discounts "do not apply on 5, 6, 12, 13, and 19 December." The page says the Christmas Market "is open from Friday 13th November until Sunday 20th December 2026," so it closes two weeks before the trail does.
+
+New for 2026 are dog-friendly trail nights, on which dogs may join the trail with no separate booking: Wednesday 18 November, Tuesday 24 and Wednesday 25 November, Tuesday 1 and Wednesday 2 December, Tuesday 8 and Wednesday 9 December, Tuesday 15 and Wednesday 16 December, and Tuesday 29 December. Dogs are not allowed inside the Palace, apart from assistance dogs.
 
 ## What are Chatsworth's Christmas prices and hours?
 
@@ -156,7 +164,7 @@ Tickets for visits between 7 November and 13 December inclusive include the Chri
 
 ## When are Chester Zoo's Lanterns and Light sessions?
 
-Chester Zoo lists Lanterns & Light from "Friday 13 November - Sunday 3 January," with sessions at "4.30pm - 8pm." Its page says all tickets are just £12 for timeslots after 6:30pm in November, and its tickets page says tickets "start from £12." A quiet hour runs at 4pm on 20, 21 and 26 November and 3 December.
+Chester Zoo lists Lanterns & Light from "Friday 13 November - Sunday 3 January," with sessions at "4.30pm - 8pm." Its page says all tickets are just £12 for timeslots after 6:30pm in November, and its tickets page says tickets "start from £12." The £12 November offer excludes Saturdays. The quiet hour sessions, at 4pm on 20, 21 and 26 November and 3 December, are sold out for 2026. The tickets page also lists two adult-only evenings (18 and over) but its text gives no dates.
 
 ## Which other trails are not covered here?
 
@@ -164,6 +172,6 @@ Kew Gardens runs its own Christmas trail, and its dates and prices are on kew.or
 
 ## Which dates should you mark on the planner?
 
-The planner lists Chatsworth's 7 November opening, the 13 November openings at Blenheim Palace and Chester Zoo, 13 December as the last day Chatsworth tickets include the market, and 3 January 2027 as the last day for all three.
+The planner lists Chatsworth's 7 November opening, the 13 November openings at Blenheim Palace and Chester Zoo, 13 December as the last day Chatsworth tickets include the market, 20 December as the last day of Blenheim's Christmas Market, and 3 January 2027 as the last day for all three.
 
-None of the three pages lists closed days, so check the booking page for your date. For other UK seasonal events, see our stories on the [Manchester and Birmingham Christmas markets](/news/manchester-birmingham-christmas-markets-2026-dates-opening-times/), [Hyde Park Winter Wonderland](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/) and [Edinburgh's Christmas](/news/edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight/). We read all four official pages on 4 November 2026, and dates, hours and prices can change.
+None of the three pages lists closed days, so check the booking page for your date. For other UK seasonal events, see our stories on the [Manchester and Birmingham Christmas markets](/news/manchester-birmingham-christmas-markets-2026-dates-opening-times/), [Hyde Park Winter Wonderland](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/) and [Edinburgh's Christmas](/news/edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight/). We read all four official pages on 4 November 2026 and again on 14 November 2026, and dates, hours and prices can change.

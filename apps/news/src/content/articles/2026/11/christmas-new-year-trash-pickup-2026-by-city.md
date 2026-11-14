@@ -3,7 +3,7 @@ title: "Christmas Trash Pickup 2026: Friday Routes Move to Dec. 26, 20 Cities"
 description: "Christmas and New Year's Day both fall on a Friday, so Phoenix and Oklahoma City collect Saturday, Dec. 26 and Jan. 2. 20 cities checked."
 type: explainer
 publishedAt: "2026-11-03T18:42:00-05:00"
-updatedAt: "2026-11-06T00:39:00-05:00"
+updatedAt: "2026-11-14T15:42:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["christmas trash pickup 2026", "new year's day trash pickup 2027", "is trash picked up on christmas", "garbage pickup christmas week 2026"]
@@ -25,11 +25,11 @@ summary:
   - "Seven of the 20 cities, including New York City, Los Angeles and Chicago, have not posted a schedule on the pages we checked."
 faq:
   - q: "Is trash picked up on Christmas Day 2026?"
-    a: "Not in the cities that have posted. Phoenix, Oklahoma City, Jacksonville, Charlotte and San Diego have no pickup on Fri., Dec. 25, 2026, Fort Worth moves Friday collection to Saturday, and Denver delays collection one day. Houston, San Francisco, Philadelphia and others have not posted collection details yet."
+    a: "Not in the cities that have posted. Phoenix, Oklahoma City, Jacksonville, Charlotte and San Diego have no pickup on Fri., Dec. 25, 2026, Fort Worth moves Friday collection to Saturday, and Denver says Christmas week collections are not impacted while offices close Friday. Houston, San Francisco, Philadelphia and others have not posted collection details yet."
   - q: "Is trash picked up on New Year's Day 2027?"
     a: "Phoenix and Oklahoma City have posted no pickup on Fri., Jan. 1, 2027, with Friday routes collected Saturday, Jan. 2. Jacksonville says its schedule changes only on Thanksgiving Day and Christmas Day. Most other cities have not posted 2027 dates."
   - q: "My trash day is Thursday. Does Christmas change it?"
-    a: "Oklahoma City lists Christmas Eve, Thursday, Dec. 24, as collection as usual. Denver and San Diego move collection one day later only from the holiday on for the rest of that week, so a Thursday route is not affected there. Check your own city page."
+    a: "Oklahoma City lists Christmas Eve, Thursday, Dec. 24, as collection as usual. San Diego moves collection one day later only from the holiday on for the rest of that week, so a Thursday route is not affected there, and Denver says collections are not impacted in Christmas week. Check your own city page."
   - q: "What if my city has not posted a schedule?"
     a: "Check the city's solid waste page again closer to the holidays; Seattle Public Utilities (SPU), for example, posted its 2025 winter schedule on Nov. 21, 2025. Until then, treat our table as the last official word and do not assume Friday routes stay unchanged."
 downloads:
@@ -45,7 +45,7 @@ sources:
   - title: "Holiday Collection Schedule | City of Phoenix"
     url: "https://www.phoenix.gov/publicworks/bulktrash/holiday-schedule"
     publisher: "City of Phoenix Public Works"
-    date: "2026-11-03"
+    date: "2026-11-14"
   - title: "My Trash Day | City of OKC"
     url: "https://www.okc.gov/departments/utilities/trash-bulk-waste/holiday-trash-schedule/trash-recycling-holiday-makeup-days"
     publisher: "City of Oklahoma City"
@@ -53,7 +53,7 @@ sources:
   - title: "Holiday Schedules"
     url: "https://www.jacksonville.gov/departments/office-of-administrative-services/solid-waste/holiday-schedules"
     publisher: "City of Jacksonville Solid Waste"
-    date: "2026-11-03"
+    date: "2026-11-14"
   - title: "2026 Holiday Collection Schedule - City of Charlotte"
     url: "https://www.charlottenc.gov/Services/Trash-and-Recycling/2026-Holiday-Collection-Schedule"
     publisher: "City of Charlotte"
@@ -61,11 +61,11 @@ sources:
   - title: "Collection Schedules"
     url: "https://www.sandiego.gov/environmental-services/collection/schedule"
     publisher: "City of San Diego Environmental Services"
-    date: "2026-11-03"
+    date: "2026-11-14"
   - title: "Trash, Recycle, Compost: Collection Schedules and Guidelines"
     url: "https://www.denvergov.org/trashschedule"
     publisher: "City and County of Denver"
-    date: "2026-11-03"
+    date: "2026-11-14"
   - title: "View your Recycling, Composting and Trash Schedule | City of Austin"
     url: "https://www.austintexas.gov/myschedule"
     publisher: "City of Austin"
@@ -168,7 +168,7 @@ Christmas Eve is Thursday, Dec. 24. Each row is the city's own wording, read on 
 | Jacksonville | Friday pickups serviced Sat., Dec. 26, 2026 | Regular day, under the city's rule that schedules change only on Thanksgiving Day and Christmas Day | [Jacksonville Solid Waste](https://www.jacksonville.gov/departments/office-of-administrative-services/solid-waste/holiday-schedules) |
 | Charlotte | City closed, no collection; Friday routes collected Sat., Dec. 26 | 2027 schedule not yet posted; in 2026 collection ran as scheduled (2026 only) | [City of Charlotte](https://www.charlottenc.gov/Services/Trash-and-Recycling/2026-Holiday-Collection-Schedule) |
 | San Diego | No collection; trash collected one day later for the rest of that week | Not yet posted (list shows Jan. 1, 2026 only) | [San Diego Environmental Services](https://www.sandiego.gov/environmental-services/collection/schedule) |
-| Denver | City-observed holiday; collections delayed one day for the rest of the week | Not yet listed | [City and County of Denver](https://www.denvergov.org/trashschedule) |
+| Denver | Collections not impacted in Christmas week; offices and the Cherry Creek Recycling Drop-off close Friday (drop-off also Saturday) | Not yet listed | [City and County of Denver](https://www.denvergov.org/trashschedule) |
 | Fort Worth | Friday collection moves to Saturday (2026 holiday PDF, read Nov. 6, 2026) | Not yet posted; the PDF's New Year's row is for Jan. 1, 2026 only | [City of Fort Worth](https://www.fortworthtexas.gov/files/assets/public/v/3/environmental-services/solid-waste/documents/envd-solid-waste-holiday-schedule-2026-ada.pdf) |
 | Austin | Standing rule: a collection day on or after the holiday in the same week slides one day later | Same standing rule | [City of Austin](https://www.austintexas.gov/myschedule) |
 | San Francisco | Listed as to be determined | Not yet posted (list shows Jan. 1, 2026 only) | [Recology San Francisco](https://www.recology.com/recology-san-francisco/holiday-calendar/) |
@@ -183,7 +183,7 @@ Seven more cities are not yet posted for either holiday on the pages we checked:
 
 Phoenix says "Solid waste collections will not be provided on Christmas Day (Friday, December 25, 2026)" and that residents with a Friday collection day will have trash and recycling collected on Saturday, Dec. 26. Charlotte says the city will be closed on Friday, Dec. 25, with no collection, and that Friday routes run on a one-day delay, collected on Saturday, Dec. 26. Oklahoma City's table lists Christmas Day, Friday, Dec. 25, with a makeup day of Saturday, Dec. 26. Jacksonville says customers with a Friday pickup will be serviced on Saturday, Dec. 26, 2026. Fort Worth's 2026 holiday schedule PDF says "Friday collection moves to Saturday" for Christmas, Friday, Dec. 25, 2026.
 
-San Diego lists "Friday, Dec. 25, 2026 – Christmas Day" among the holidays with no collection of trash, recyclables or organic waste, and collects one day later for the remainder of that week. Denver lists Christmas Day, Friday, Dec. 25, under observed holidays with collections delayed one day, and says a collection that falls on or after the holiday is delayed one day for the rest of that week only.
+San Diego lists "Friday, Dec. 25, 2026 – Christmas Day" among the holidays with no collection of trash, recyclables or organic waste, and collects one day later for the remainder of that week. Denver lists Christmas Day, Friday, Dec. 25, among its 2026 observed holidays and says collections will not be impacted that week, though offices will be closed Friday, so Friday routes stay on Friday. The Cherry Creek Recycling Drop-off is closed Friday and Saturday. For other observed holidays the city delays collection one day for the rest of that week.
 
 ## Is trash picked up on New Year's Day 2027?
 
