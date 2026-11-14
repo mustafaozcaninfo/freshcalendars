@@ -3,7 +3,7 @@ title: "Thursday Night Football: Packers 27, Panthers 19 on Oct. 29"
 description: "Thursday Night Football: the Packers beat the Panthers 27-19 on Oct. 29, 2026. Kickoff was 8:15 p.m. ET on Prime Video; the Thursday schedule to Dec. 31."
 type: news
 publishedAt: "2026-10-27T21:40:00-04:00"
-updatedAt: "2026-11-14T17:05:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Thursday Night Football tonight", "Panthers vs Packers live stream", "Panthers vs Packers time channel", "TNF schedule 2026", "what channel is Thursday Night Football"]
@@ -14,6 +14,7 @@ assets:
   date: "2026-10-29"
   card: { top: "Packers 27, Panthers 19", big: "Final", bottom: "Thu., Oct. 29 at Lambeau Field" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: tnf-schedule-2026
     group: tnf-2026
     title: "Thursday Night Football Schedule 2026 (Weeks 8 to 17)"
@@ -67,6 +68,14 @@ sources:
     url: "https://www.espn.com/nfl/scoreboard/_/week/8/year/2026/seasontype/2"
     publisher: "ESPN"
     date: "2026-10-29"
+  - title: "2026 NFL schedule by week, Week 10"
+    url: "https://www.nfl.com/schedules/2026/by-week/week-10"
+    publisher: "NFL"
+    date: "2026-11-14"
+  - title: "2026 NFL schedule by week, Week 11"
+    url: "https://www.nfl.com/schedules/2026/by-week/week-11"
+    publisher: "NFL"
+    date: "2026-11-14"
   - title: "NFL Schedules: Games, Times, Matchups & Tickets, Week 8"
     url: "https://www.nfl.com/schedules/2026/REG8/"
     publisher: "NFL"

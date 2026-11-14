@@ -3,7 +3,7 @@ title: "Halloween on a Saturday After 2026: Next Time Is 2037"
 description: "Halloween next falls on a Saturday in 2037, after 2026. Clocks fell back the night after in 2026; earlier Saturday years were 2009, 2015 and 2020."
 type: explainer
 publishedAt: "2026-10-29T10:08:00-04:00"
-updatedAt: "2026-11-01T05:45:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["daylight saving time halloween", "do clocks change on halloween 2026", "why does daylight saving time end after halloween", "daylight saving time ends november 1 2026 halloween"]
@@ -24,7 +24,7 @@ summary:
   - "Halloween falls on a Saturday with the change the next night in 2009, 2015, 2020, 2026 and 2037, gaps of 6, 5, 6 and 11 years."
   - "From 1987 to 2006 the change came on the last Sunday of October, so Halloween came on or after it in all 20 years."
 faq:
-  - q: "Do clocks change on Halloween 2026?"
+  - q: "Did clocks change on Halloween 2026?"
     a: "No. Halloween was Saturday, Oct. 31, 2026. Clocks went back at 2 a.m. local time on Sunday, Nov. 1, the morning after."
   - q: "Is Halloween always in daylight saving time?"
     a: "Yes, under the current rule. Daylight saving time ends on the first Sunday of November, and the earliest that Sunday can be is Nov. 1, so Oct. 31 always falls before the change."
@@ -34,8 +34,8 @@ faq:
     a: "The statute and its amendment notes do not give a reason, so this story does not offer one."
   - q: "When does the clock change fall the night after Halloween again?"
     a: "In 2037. Nov. 1 is the first Sunday of November in 2009, 2015, 2020, 2026 and 2037, so Halloween is the Saturday before the change in each of those years."
-  - q: "What time does the change happen on Nov. 1, 2026?"
-    a: "At 2 a.m. local time, when clocks go back to 1 a.m."
+  - q: "What time did the change happen on Nov. 1, 2026?"
+    a: "At 2 a.m. local time, when clocks went back to 1 a.m."
 sources:
   - title: "15 U.S. Code § 260a - Advancement of time or changeover dates"
     url: "https://www.law.cornell.edu/uscode/text/15/260a"
@@ -70,8 +70,9 @@ assets:
   overlay: true
   kicker: "Halloween and DST · Nov. 1, 2026"
   date: "2026-11-01"
-  card: { top: "Clocks fall back", big: "Sun., Nov. 1", bottom: "The night after Halloween" }
+  card: { top: "Clocks fell back", big: "Sun., Nov. 1", bottom: "The night after Halloween" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: halloween-and-the-clock-change-2026-2040
     group: halloween-clock-change-2026
     title: "Halloween and the Clock Change, 2026 to 2040"
@@ -98,11 +99,11 @@ assets:
     alt: "Printable list of Halloween weekdays and fall-back dates for each year from 2026 to 2040"
 ---
 
-Daylight saving time (DST) ended at 2 a.m. local time on **Sunday, Nov. 1, 2026**, the night after Halloween, because 15 U.S. Code § 260a, the federal statute published by Cornell Law School's Legal Information Institute, ends it at "2 o'clock antemeridian on the first Sunday of November." Halloween was Saturday, Oct. 31, so the clocks did not change on Halloween itself. This story covers the Halloween angle and the history of the rule; the full 2026 guide, with time zones and the Senate bill, is in our [daylight saving time ends Nov. 1 story](/news/daylight-saving-time-ends-november-1-2026/).
+Daylight saving time (DST) ended at 2 a.m. local time on **Sunday, Nov. 1, 2026**, the night after Halloween, because 15 U.S. Code § 260a, the federal statute published by Cornell Law School's Legal Information Institute, ends it at "2 o'clock antemeridian on the first Sunday of November." Halloween was Saturday, Oct. 31, so the clocks did not change on Halloween itself. The Halloween angle and the history of the rule are here; the full 2026 guide, with time zones and the Senate bill, is in our [daylight saving time ends Nov. 1 story](/news/daylight-saving-time-ends-november-1-2026/).
 
-## Do clocks change on Halloween 2026?
+## Did clocks change on Halloween 2026?
 
-No. Halloween fell on Saturday, Oct. 31, and the change came at 2 a.m. the next morning, Sunday, Nov. 1. Trick-or-treating happened in daylight saving time, and at 2 a.m. Sunday the time became 1 a.m. If an oven, car or wall clock still shows the old time, set it back one hour now. Sunset times for the night are in our [Halloween 2026 trick-or-treat story](/news/halloween-2026-saturday-sunset-trick-or-treat-times/), and both dates sit on the [October 2026 printable calendar](/october-calendars.html) and the [November 2026 printable calendar](/november-calendars.html).
+No. Halloween fell on Saturday, Oct. 31, and the change came at 2 a.m. the next morning, Sunday, Nov. 1. Trick-or-treating happened in daylight saving time, and at 2 a.m. Sunday the time became 1 a.m. An oven, car or wall clock that still shows the old time needs to be set back one hour. Sunset times for the night are in our [Halloween 2026 trick-or-treat story](/news/halloween-2026-saturday-sunset-trick-or-treat-times/), and both dates sit on the [October 2026 printable calendar](/october-calendars.html) and the [November 2026 printable calendar](/november-calendars.html).
 
 ## Why does daylight saving time end after Halloween?
 
@@ -178,4 +179,4 @@ Source: 15 U.S. Code § 260a, Legal Information Institute, Cornell Law School; w
 - Trick-or-treating on Saturday, Oct. 31, was the last evening on daylight saving time.
 - Set manual clocks, such as ovens, car dashboards and wall clocks, back one hour if they still show the old time.
 - Note the next two changes: clocks spring forward on Sunday, March 14, 2027, and fall back on Sunday, Nov. 7, 2027, a week after that year's Halloween.
-- Keep the printable below for the years ahead; it lists the Halloween weekday and the fall-back date for 2026 through 2040.
+- Keep the printable for the years ahead; it lists the Halloween weekday and the fall-back date for 2026 through 2040.
