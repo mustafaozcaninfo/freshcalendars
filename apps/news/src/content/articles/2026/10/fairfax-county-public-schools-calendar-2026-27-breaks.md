@@ -48,7 +48,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [henrico-county-public-schools-calendar-2026-27, virginia-beach-city-public-schools-calendar-2026-27-breaks, spring-break-2027-dates-school-districts]
+related: [fairfax-county-real-estate-tax-due-december-7-2026-loudoun, henrico-county-public-schools-calendar-2026-27, virginia-beach-city-public-schools-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "FCPS 2026-27"
