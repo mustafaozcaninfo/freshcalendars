@@ -3,6 +3,7 @@ title: "Birds of Prey 2026 Race Times: Dec. 3 Downhill at 1 p.m. ET"
 description: "Birds of Prey 2026 at Beaver Creek has seven World Cup races Dec. 3-13, the first downhill at 1 p.m. ET. The schedule is preliminary; times in U.S. zones."
 type: news
 publishedAt: "2026-11-04T10:50:00-05:00"
+updatedAt: "2026-11-14T15:45:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["birds of prey 2026", "beaver creek world cup 2026", "birds of prey race schedule", "beaver creek downhill 2026 start time"]
@@ -33,8 +34,7 @@ assets:
         - { start: "2026-12-13T11:00-07:00", title: "Women's super-G", detail: "Red Tail Stadium, Beaver Creek", src: 1, quote: "Sunday Dec 13, 2026 11:00 am" }
       fill: { title: "Birds of Prey plan", labels: ["Where to watch", "with whom"] }
       unconfirmed:
-        - { label: "2026 U.S. TV and streaming", why: "Not yet announced as of Nov. 4, 2026" }
-        - { label: "Training run times", why: "Not on the organizer's schedule as of Nov. 4, 2026" }
+        - { label: "Training run times", why: "Not on the organizer's schedule as of Nov. 14, 2026" }
 hero:
   src: ../../../../assets/news/beaver-creek-birds-of-prey-2026-world-cup-race-times/beaver-creek-birds-of-prey-2026-world-cup-race-times.webp
   alt: "A downhill racer in a tuck on the course in a file photo for Birds of Prey 2026 at Beaver Creek"
@@ -50,7 +50,7 @@ summary:
   - "Birds of Prey 2026 at Beaver Creek, Colorado has seven World Cup races from Dec. 3 to Dec. 13, according to the organizer's schedule of events."
   - "The men race Dec. 3-6 (two downhills, a super-G and a giant slalom) and the women Dec. 11-13 (two downhills and a super-G), all at Red Tail Stadium."
   - "The first downhill, Thu., Dec. 3 at 11 a.m. Mountain Time (MT), is 1 p.m. Eastern Time (ET) and 7 p.m. Central European Time (CET)."
-  - "The schedule is preliminary pending International Ski and Snowboard Federation (FIS) Council approval, and 2026 U.S. TV and streaming are not yet announced."
+  - "The schedule is preliminary pending International Ski and Snowboard Federation (FIS) Council approval, and the organizer lists NBC Sports Network (NBCSN), Peacock and NBC for U.S. viewers."
 faq:
   - q: "When is Birds of Prey 2026?"
     a: "Dec. 3-13, 2026 in Beaver Creek, Colorado. The men race Dec. 3-6 and the women Dec. 11-13, per the organizer's schedule of events."
@@ -59,12 +59,16 @@ faq:
   - q: "How many races are at Birds of Prey 2026?"
     a: "Seven: two men's downhills, a super-G and a giant slalom on Dec. 3-6, and two women's downhills and a super-G on Dec. 11-13."
   - q: "What TV channel shows Birds of Prey 2026?"
-    a: "The 2026 U.S. TV and streaming plans are not yet announced."
+    a: "The organizer's domestic television schedule lists NBCSN for the Dec. 3 men's downhill, Peacock with NBCSN for most other races, and Peacock alone for the first giant slalom run and the Dec. 13 women's super-G. NBC shows tape-delayed replays. The schedule is subject to change."
 sources:
   - title: "Schedule of Events | Stifel Birds of Prey"
     url: "https://bcworldcup.com/events/"
     publisher: "Vail Valley Foundation, Stifel Birds of Prey"
-    date: "2026-11-04"
+    date: "2026-11-14"
+  - title: "Men's and Women's World Cup Races | Stifel Birds of Prey"
+    url: "https://bcworldcup.com/birds-of-prey-menswomens/"
+    publisher: "Vail Valley Foundation, Stifel Birds of Prey"
+    date: "2026-11-14"
   - title: "Second Women's Downhill Added for 2026"
     url: "https://vvf.org/news/second-womens-downhill-2026/"
     publisher: "Vail Valley Foundation"
@@ -128,13 +132,31 @@ The organizer's page lists events around the races:
 | Fri., Dec. 4 | U.S. Alpine Ski Team autograph session (men), 3 p.m. MT |
 | Fri., Dec. 11 | U.S. Alpine Ski Team autograph session (women), 3 p.m. MT |
 | Sat., Dec. 12 | Women's Award Ceremony and Bib Draw, 6:00 p.m. MT, Birds of Prey Way |
-| Sat., Dec. 12 | Fireworks, 6:00 p.m. MT |
+| Sat., Dec. 12 | Fireworks, 6:30 p.m. MT |
 
-Free live music is listed on Birds of Prey Way on Dec. 3, 4 and 12. Training run times and general admission prices are not yet posted on the schedule.
+Free live music is listed on Birds of Prey Way on nine days between Dec. 3 and Dec. 13. The organizer says all races are free and open to the public, with the stadium reached by free shuttle from Beaver Creek Village. Training run times are not yet posted on the schedule.
 
-## Who won the 2025 Birds of Prey downhill, and where is it on TV?
+## Who won the 2025 Birds of Prey downhill?
 
-In 2025, Marco Odermatt won the men's downhill on Dec. 4, his 48th World Cup victory, according to the International Ski and Snowboard Federation. That is last year's result and says nothing about 2026. U.S. TV and streaming for the 2026 races are not yet announced.
+In 2025, Marco Odermatt won the men's downhill on Dec. 4, his 48th World Cup victory, according to the International Ski and Snowboard Federation. That is last year's result and says nothing about 2026. The 2026 U.S. television plan is in the next section.
+
+## Where can you watch Birds of Prey 2026 on TV?
+
+The organizer's page lists this domestic schedule, in Eastern Time, and says it is subject to change. NBC Sports Network (NBCSN) and Peacock carry most races. The giant slalom has two runs, at 10:00 a.m. and 1:00 p.m. MT, which are noon and 3:00 p.m. ET.
+
+| Date | Race | ET | Watch |
+|---|---|---|---|
+| Thu., Dec. 3 | Men's downhill | 1:00 p.m. | NBCSN |
+| Fri., Dec. 4 | Men's downhill | 1:00 p.m. | Peacock and NBCSN |
+| Sat., Dec. 5 | Men's super-G | 12:30 p.m. | Peacock and NBCSN |
+| Sat., Dec. 5 | Men's super-G | 5:00 p.m. | NBC (tape delay) |
+| Sun., Dec. 6 | Men's giant slalom, run 1 | 12:00 p.m. | Peacock |
+| Sun., Dec. 6 | Men's giant slalom, run 2 | 3:00 p.m. | Peacock and NBCSN |
+| Fri., Dec. 11 | Women's downhill | 1:00 p.m. | Peacock and NBCSN |
+| Sat., Dec. 12 | Women's downhill | 1:00 p.m. | Peacock and NBCSN |
+| Sat., Dec. 12 | Women's downhill | 5:00 p.m. | NBC (tape delay) |
+| Sun., Dec. 13 | Women's super-G | 1:00 p.m. | Peacock |
+| Sun., Dec. 27 | Women's super-G | 1:00 p.m. | NBC (tape delay) |
 
 ## Birds of Prey dates to mark on a December 2026 calendar
 
