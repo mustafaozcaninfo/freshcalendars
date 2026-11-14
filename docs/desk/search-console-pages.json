@@ -1,17 +1,17 @@
 {
- "generatedAt": "2026-11-13T17:12:15.275Z",
+ "generatedAt": "2026-11-14T09:13:39.239Z",
  "window": {
-  "start": "2026-10-14",
-  "end": "2026-11-10"
+  "start": "2026-10-15",
+  "end": "2026-11-11"
  },
  "halves": {
   "web14": {
-   "start": "2026-10-28",
-   "end": "2026-11-10"
+   "start": "2026-10-29",
+   "end": "2026-11-11"
   },
   "webPrev14": {
-   "start": "2026-10-14",
-   "end": "2026-10-27"
+   "start": "2026-10-15",
+   "end": "2026-10-28"
   }
  },
  "note": "Every /news/ page with web, image or Discover impressions in the 28 days; a story not listed had none. Top queries come from the 5,000 largest query-page rows.",
@@ -167,11 +167,11 @@
    },
    "web14": {
     "clicks": 5,
-    "impressions": 37
+    "impressions": 34
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 67
+    "impressions": 70
    },
    "queries": [
     {
@@ -277,11 +277,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 14
+    "impressions": 11
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 26
+    "impressions": 29
    },
    "queries": [
     {
@@ -540,12 +540,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 14
+    "clicks": 0,
+    "impressions": 12
    },
    "webPrev14": {
-    "clicks": 1,
-    "impressions": 57
+    "clicks": 2,
+    "impressions": 59
    },
    "queries": []
   },
@@ -620,11 +620,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 10
+    "impressions": 9
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 12
+    "impressions": 13
    },
    "queries": []
   },
@@ -914,11 +914,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 11622
+    "impressions": 10899
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 529
+    "impressions": 1252
    },
    "queries": [
     {
@@ -1024,11 +1024,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 269
+    "impressions": 229
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 925
+    "impressions": 965
    },
    "queries": [
     {
@@ -1336,11 +1336,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 530
+    "impressions": 400
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 710
+    "impressions": 840
    },
    "queries": [
     {
@@ -1422,11 +1422,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 20
+    "impressions": 18
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 58
+    "impressions": 60
    },
    "queries": [
     {
@@ -1587,11 +1587,11 @@
    },
    "web14": {
     "clicks": 4,
-    "impressions": 735
+    "impressions": 666
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 259
+    "impressions": 328
    },
    "queries": [
     {
@@ -1642,11 +1642,11 @@
    },
    "web14": {
     "clicks": 6,
-    "impressions": 942
+    "impressions": 928
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 14
    },
    "queries": [
     {
@@ -1697,11 +1697,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 859
+    "impressions": 615
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 192
+    "impressions": 436
    },
    "queries": [
     {
@@ -1844,11 +1844,11 @@
    },
    "web14": {
     "clicks": 6,
-    "impressions": 1685
+    "impressions": 1446
    },
    "webPrev14": {
     "clicks": 10,
-    "impressions": 2905
+    "impressions": 3144
    },
    "queries": [
     {
@@ -1954,11 +1954,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 21
+    "impressions": 17
    },
    "webPrev14": {
     "clicks": 22,
-    "impressions": 25009
+    "impressions": 25013
    },
    "queries": [
     {
@@ -2009,11 +2009,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 17
+    "impressions": 12
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 25
+    "impressions": 30
    },
    "queries": [
     {
@@ -2119,11 +2119,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 17
+    "impressions": 8
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 9
    },
    "queries": [
     {
@@ -2150,11 +2150,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 100
+    "impressions": 74
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 43
+    "impressions": 69
    },
    "queries": [
     {
@@ -2579,11 +2579,11 @@
    },
    "web14": {
     "clicks": 5,
-    "impressions": 14401
+    "impressions": 14399
    },
    "webPrev14": {
     "clicks": 24,
-    "impressions": 5434
+    "impressions": 5436
    },
    "queries": [
     {
@@ -2750,12 +2750,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 9,
-    "impressions": 1570
+    "clicks": 7,
+    "impressions": 1488
    },
    "webPrev14": {
-    "clicks": 22,
-    "impressions": 840
+    "clicks": 24,
+    "impressions": 922
    },
    "queries": [
     {
@@ -2806,11 +2806,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 1644
+    "impressions": 1613
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 31
    },
    "queries": [
     {
@@ -2916,11 +2916,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 196
+    "impressions": 181
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 83
+    "impressions": 98
    },
    "queries": [
     {
@@ -3473,11 +3473,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 13
+    "impressions": 12
    },
    "webPrev14": {
     "clicks": 7,
-    "impressions": 106
+    "impressions": 107
    },
    "queries": [
     {
@@ -3528,11 +3528,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 6
+    "impressions": 0
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 115
+    "impressions": 121
    },
    "queries": [
     {
@@ -3565,11 +3565,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 21
+    "impressions": 15
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 37
+    "impressions": 43
    },
    "queries": [
     {
@@ -3619,12 +3619,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 2,
-    "impressions": 29
+    "clicks": 0,
+    "impressions": 12
    },
    "webPrev14": {
-    "clicks": 2,
-    "impressions": 51
+    "clicks": 4,
+    "impressions": 68
    },
    "queries": [
     {
@@ -3889,11 +3889,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 18
+    "impressions": 10
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 200
+    "impressions": 208
    },
    "queries": [
     {
@@ -4164,11 +4164,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 242
+    "impressions": 238
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 4
    },
    "queries": [
     {
@@ -4328,12 +4328,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 2,
-    "impressions": 301
+    "clicks": 1,
+    "impressions": 229
    },
    "webPrev14": {
-    "clicks": 6,
-    "impressions": 229
+    "clicks": 7,
+    "impressions": 301
    },
    "queries": [
     {
@@ -4439,11 +4439,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 65
+    "impressions": 62
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 274
+    "impressions": 277
    },
    "queries": [
     {
@@ -4549,11 +4549,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 279
+    "impressions": 195
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 40
+    "impressions": 124
    },
    "queries": [
     {
@@ -4776,11 +4776,11 @@
    },
    "web14": {
     "clicks": 3,
-    "impressions": 102
+    "impressions": 98
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 59
+    "impressions": 63
    },
    "queries": [
     {
@@ -4934,11 +4934,11 @@
    },
    "web14": {
     "clicks": 3,
-    "impressions": 473
+    "impressions": 427
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 46
    },
    "queries": [
     {
@@ -5050,11 +5050,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 55
+    "impressions": 39
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 132
+    "impressions": 148
    },
    "queries": []
   },
@@ -5074,11 +5074,11 @@
    },
    "web14": {
     "clicks": 4,
-    "impressions": 5780
+    "impressions": 4774
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 4430
+    "impressions": 5436
    },
    "queries": [
     {
@@ -5129,11 +5129,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 169
+    "impressions": 159
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 10
    },
    "queries": []
   },
@@ -5239,11 +5239,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 196
+    "impressions": 53
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 82
+    "impressions": 225
    },
    "queries": [
     {
@@ -5551,11 +5551,11 @@
    },
    "web14": {
     "clicks": 4,
-    "impressions": 781
+    "impressions": 768
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 13
    },
    "queries": [
     {
@@ -5612,12 +5612,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 2,
-    "impressions": 2478
+    "clicks": 0,
+    "impressions": 1582
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 435
+    "clicks": 2,
+    "impressions": 1331
    },
    "queries": [
     {
@@ -5883,11 +5883,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 821
+    "impressions": 796
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 3067
+    "impressions": 3092
    },
    "queries": [
     {
@@ -6005,11 +6005,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 550
+    "impressions": 524
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 17
+    "impressions": 43
    },
    "queries": [
     {
@@ -6156,12 +6156,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 1595
+    "clicks": 2,
+    "impressions": 1573
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 255
+    "clicks": 1,
+    "impressions": 277
    },
    "queries": [
     {
@@ -6310,11 +6310,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 227
+    "impressions": 201
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 192
+    "impressions": 218
    },
    "queries": [
     {
@@ -6347,11 +6347,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 190
+    "impressions": 170
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 656
+    "impressions": 676
    },
    "queries": [
     {
@@ -6750,12 +6750,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 26,
-    "impressions": 6697
+    "clicks": 19,
+    "impressions": 4782
    },
    "webPrev14": {
-    "clicks": 5,
-    "impressions": 2029
+    "clicks": 12,
+    "impressions": 3944
    },
    "queries": [
     {
@@ -6904,11 +6904,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 1486
+    "impressions": 1290
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 2
+    "impressions": 198
    },
    "queries": [
     {
@@ -6983,11 +6983,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 188
+    "impressions": 143
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 124
+    "impressions": 169
    },
    "queries": []
   },
@@ -7093,11 +7093,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 484
+    "impressions": 482
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 2
    },
    "queries": []
   },
@@ -7141,11 +7141,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 10
+    "impressions": 4
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 18
+    "impressions": 24
    },
    "queries": [
     {
@@ -7171,12 +7171,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 71
+    "clicks": 2,
+    "impressions": 33
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 2
+    "clicks": 1,
+    "impressions": 40
    },
    "queries": [
     {
@@ -7442,11 +7442,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 636
+    "impressions": 625
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 1288
+    "impressions": 1299
    },
    "queries": [
     {
@@ -8276,11 +8276,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 23
+    "impressions": 18
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 88
+    "impressions": 93
    },
    "queries": [
     {
@@ -8325,11 +8325,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 13
+    "impressions": 3
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 34
+    "impressions": 44
    },
    "queries": [
     {
@@ -8356,11 +8356,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 48
+    "impressions": 29
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 130
+    "impressions": 149
    },
    "queries": [
     {
@@ -8386,12 +8386,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 4,
-    "impressions": 160
+    "clicks": 2,
+    "impressions": 59
    },
    "webPrev14": {
-    "clicks": 3,
-    "impressions": 137
+    "clicks": 5,
+    "impressions": 238
    },
    "queries": [
     {
@@ -8430,11 +8430,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 167
+    "impressions": 110
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 1
+    "impressions": 58
    },
    "queries": [
     {
@@ -8608,11 +8608,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 10
+    "impressions": 9
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 5
+    "impressions": 6
    },
    "queries": []
   },
@@ -8687,11 +8687,11 @@
    },
    "web14": {
     "clicks": 10,
-    "impressions": 5034
+    "impressions": 4963
    },
    "webPrev14": {
     "clicks": 5,
-    "impressions": 714
+    "impressions": 785
    },
    "queries": [
     {
@@ -9017,12 +9017,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 2928
+    "clicks": 2,
+    "impressions": 2466
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 380
+    "clicks": 1,
+    "impressions": 842
    },
    "queries": [
     {
@@ -9200,12 +9200,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 114,
-    "impressions": 25210
+    "clicks": 96,
+    "impressions": 23292
    },
    "webPrev14": {
-    "clicks": 63,
-    "impressions": 3727
+    "clicks": 81,
+    "impressions": 5645
    },
    "queries": [
     {
@@ -9256,11 +9256,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 185
+    "impressions": 163
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 266
+    "impressions": 288
    },
    "queries": [
     {
@@ -9499,12 +9499,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 94
+    "clicks": 0,
+    "impressions": 26
    },
    "webPrev14": {
-    "clicks": 2,
-    "impressions": 101
+    "clicks": 3,
+    "impressions": 169
    },
    "queries": [
     {
@@ -9555,11 +9555,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 136
+    "impressions": 80
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 258
+    "impressions": 314
    },
    "queries": [
     {
@@ -9640,12 +9640,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 726
+    "clicks": 2,
+    "impressions": 647
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 0
+    "clicks": 1,
+    "impressions": 79
    },
    "queries": [
     {
@@ -9933,11 +9933,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 15
+    "impressions": 5
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 85
+    "impressions": 95
    },
    "queries": []
   },
@@ -9957,11 +9957,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 129
+    "impressions": 118
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 324
+    "impressions": 335
    },
    "queries": [
     {
@@ -10018,11 +10018,11 @@
    },
    "web14": {
     "clicks": 33,
-    "impressions": 23281
+    "impressions": 22690
    },
    "webPrev14": {
     "clicks": 4,
-    "impressions": 8262
+    "impressions": 8853
    },
    "queries": [
     {
@@ -10313,11 +10313,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 43
+    "impressions": 38
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 612
+    "impressions": 617
    },
    "queries": [
     {
@@ -10344,11 +10344,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 11
+    "impressions": 9
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 218
+    "impressions": 220
    },
    "queries": [
     {
@@ -10479,11 +10479,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 40
+    "impressions": 35
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 40
+    "impressions": 45
    },
    "queries": [
     {
@@ -10800,12 +10800,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 7,
-    "impressions": 127
+    "clicks": 2,
+    "impressions": 57
    },
    "webPrev14": {
-    "clicks": 27,
-    "impressions": 462
+    "clicks": 32,
+    "impressions": 532
    },
    "queries": []
   },
@@ -10923,11 +10923,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 34
+    "impressions": 25
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 9
    },
    "queries": []
   },
@@ -11026,11 +11026,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 47
+    "impressions": 33
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 1
+    "impressions": 15
    },
    "queries": []
   },
@@ -11129,11 +11129,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 181
+    "impressions": 124
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 3
+    "impressions": 60
    },
    "queries": []
   },
@@ -11213,12 +11213,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 619
+    "clicks": 0,
+    "impressions": 244
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 251
+    "clicks": 1,
+    "impressions": 626
    },
    "queries": [
     {
@@ -11667,11 +11667,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 5
+    "impressions": 3
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 6
+    "impressions": 8
    },
    "queries": []
   },
@@ -11691,11 +11691,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 4272
+    "impressions": 3887
    },
    "webPrev14": {
     "clicks": 6,
-    "impressions": 9379
+    "impressions": 9764
    },
    "queries": [
     {
@@ -11746,11 +11746,11 @@
    },
    "web14": {
     "clicks": 7,
-    "impressions": 1498
+    "impressions": 1262
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 20
+    "impressions": 256
    },
    "queries": [
     {
@@ -11801,11 +11801,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 7
+    "impressions": 3
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 88
+    "impressions": 92
    },
    "queries": [
     {
@@ -12135,12 +12135,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 2,
-    "impressions": 516
+    "clicks": 1,
+    "impressions": 170
    },
    "webPrev14": {
-    "clicks": 2,
-    "impressions": 200
+    "clicks": 3,
+    "impressions": 546
    },
    "queries": [
     {
@@ -12575,12 +12575,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 210,
-    "impressions": 2644
+    "clicks": 175,
+    "impressions": 2330
    },
    "webPrev14": {
-    "clicks": 73,
-    "impressions": 686
+    "clicks": 108,
+    "impressions": 1000
    },
    "queries": [
     {
@@ -12685,12 +12685,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 3475
+    "clicks": 2,
+    "impressions": 3232
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 4
+    "clicks": 1,
+    "impressions": 247
    },
    "queries": [
     {
@@ -12741,11 +12741,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 1373
+    "impressions": 1068
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 48
+    "impressions": 353
    },
    "queries": [
     {
@@ -12930,11 +12930,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 450
+    "impressions": 398
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 52
    },
    "queries": [
     {
@@ -13009,11 +13009,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 6
+    "impressions": 5
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 28
+    "impressions": 29
    },
    "queries": []
   },
@@ -13136,11 +13136,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 13
+    "impressions": 12
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 7
+    "impressions": 8
    },
    "queries": []
   },
@@ -13466,11 +13466,11 @@
    },
    "web14": {
     "clicks": 4,
-    "impressions": 280
+    "impressions": 261
    },
    "webPrev14": {
     "clicks": 8,
-    "impressions": 596
+    "impressions": 615
    },
    "queries": [
     {
@@ -13515,11 +13515,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 12
+    "impressions": 6
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 32
+    "impressions": 38
    },
    "queries": [
     {
@@ -13797,11 +13797,11 @@
    },
    "web14": {
     "clicks": 4,
-    "impressions": 797
+    "impressions": 715
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 212
+    "impressions": 294
    },
    "queries": [
     {
@@ -13876,11 +13876,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 177
+    "impressions": 171
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 354
+    "impressions": 360
    },
    "queries": [
     {
@@ -13907,11 +13907,11 @@
    },
    "web14": {
     "clicks": 3,
-    "impressions": 108
+    "impressions": 106
    },
    "webPrev14": {
     "clicks": 18,
-    "impressions": 1271
+    "impressions": 1273
    },
    "queries": [
     {
@@ -14041,11 +14041,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 1727
+    "impressions": 1493
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 433
+    "impressions": 667
    },
    "queries": [
     {
@@ -14095,12 +14095,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 8,
-    "impressions": 437
+    "clicks": 6,
+    "impressions": 408
    },
    "webPrev14": {
-    "clicks": 7,
-    "impressions": 355
+    "clicks": 9,
+    "impressions": 384
    },
    "queries": [
     {
@@ -14151,11 +14151,11 @@
    },
    "web14": {
     "clicks": 6,
-    "impressions": 3878
+    "impressions": 3051
    },
    "webPrev14": {
     "clicks": 4,
-    "impressions": 6022
+    "impressions": 6849
    },
    "queries": [
     {
@@ -14205,12 +14205,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 2,
-    "impressions": 2806
+    "clicks": 1,
+    "impressions": 2570
    },
    "webPrev14": {
-    "clicks": 6,
-    "impressions": 2793
+    "clicks": 7,
+    "impressions": 3029
    },
    "queries": [
     {
@@ -14347,11 +14347,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 13
+    "impressions": 12
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 41
+    "impressions": 42
    },
    "queries": []
   },
@@ -14370,12 +14370,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 8,
-    "impressions": 14459
+    "clicks": 7,
+    "impressions": 13918
    },
    "webPrev14": {
-    "clicks": 1,
-    "impressions": 3434
+    "clicks": 2,
+    "impressions": 3975
    },
    "queries": [
     {
@@ -15031,11 +15031,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 1114
+    "impressions": 791
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 1011
+    "impressions": 1334
    },
    "queries": [
     {
@@ -15598,11 +15598,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 73
+    "impressions": 55
    },
    "webPrev14": {
     "clicks": 5,
-    "impressions": 1325
+    "impressions": 1343
    },
    "queries": [
     {
@@ -15653,11 +15653,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 313
+    "impressions": 290
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 1
+    "impressions": 24
    },
    "queries": [
     {
@@ -16129,11 +16129,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 36
+    "impressions": 34
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 76
+    "impressions": 78
    },
    "queries": [
     {
@@ -16160,11 +16160,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 1
+    "impressions": 0
    },
    "webPrev14": {
     "clicks": 11,
-    "impressions": 709
+    "impressions": 710
    },
    "queries": [
     {
@@ -16282,11 +16282,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 258
+    "impressions": 227
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 122
+    "impressions": 153
    },
    "queries": [
     {
@@ -16312,12 +16312,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 317,
-    "impressions": 11183
+    "clicks": 278,
+    "impressions": 9886
    },
    "webPrev14": {
-    "clicks": 162,
-    "impressions": 5932
+    "clicks": 201,
+    "impressions": 7229
    },
    "queries": [
     {
@@ -16392,11 +16392,11 @@
    },
    "web14": {
     "clicks": 7,
-    "impressions": 1046
+    "impressions": 1032
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 14
    },
    "queries": [
     {
@@ -16515,11 +16515,11 @@
    },
    "web14": {
     "clicks": 3,
-    "impressions": 59
+    "impressions": 45
    },
    "webPrev14": {
     "clicks": 8,
-    "impressions": 239
+    "impressions": 253
    },
    "queries": [
     {
@@ -16709,12 +16709,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 121
+    "clicks": 1,
+    "impressions": 91
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 0
+    "clicks": 2,
+    "impressions": 30
    },
    "queries": [
     {
@@ -16942,12 +16942,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 17,
-    "impressions": 3302
+    "clicks": 16,
+    "impressions": 3101
    },
    "webPrev14": {
-    "clicks": 7,
-    "impressions": 1508
+    "clicks": 8,
+    "impressions": 1709
    },
    "queries": [
     {
@@ -17255,12 +17255,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 11,
-    "impressions": 763
+    "clicks": 5,
+    "impressions": 361
    },
    "webPrev14": {
-    "clicks": 5,
-    "impressions": 413
+    "clicks": 11,
+    "impressions": 815
    },
    "queries": [
     {
@@ -17501,11 +17501,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 508
+    "impressions": 484
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 46
+    "impressions": 70
    },
    "queries": [
     {
@@ -17636,11 +17636,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 329
+    "impressions": 248
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 98
+    "impressions": 179
    },
    "queries": [
     {
@@ -17697,12 +17697,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 12,
-    "impressions": 572
+    "clicks": 10,
+    "impressions": 409
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 167
+    "clicks": 2,
+    "impressions": 330
    },
    "queries": [
     {
@@ -17955,11 +17955,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 32
+    "impressions": 31
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 43
+    "impressions": 44
    },
    "queries": [
     {
@@ -18181,11 +18181,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 49
+    "impressions": 26
    },
    "webPrev14": {
     "clicks": 6,
-    "impressions": 198
+    "impressions": 221
    },
    "queries": [
     {
@@ -18522,11 +18522,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 1
+    "impressions": 0
    },
    "webPrev14": {
     "clicks": 7,
-    "impressions": 272
+    "impressions": 273
    },
    "queries": [
     {
@@ -18553,11 +18553,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 3
+    "impressions": 0
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 107
+    "impressions": 110
    },
    "queries": []
   },
@@ -18741,12 +18741,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 1141
+    "clicks": 0,
+    "impressions": 1048
    },
    "webPrev14": {
-    "clicks": 3,
-    "impressions": 1146
+    "clicks": 4,
+    "impressions": 1239
    },
    "queries": [
     {
@@ -19022,12 +19022,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 2,
-    "impressions": 118
+    "clicks": 1,
+    "impressions": 103
    },
    "webPrev14": {
-    "clicks": 1,
-    "impressions": 48
+    "clicks": 2,
+    "impressions": 63
    },
    "queries": [
     {
@@ -19065,12 +19065,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 7,
-    "impressions": 91
+    "clicks": 6,
+    "impressions": 84
    },
    "webPrev14": {
-    "clicks": 7,
-    "impressions": 198
+    "clicks": 8,
+    "impressions": 205
    },
    "queries": [
     {
@@ -19158,11 +19158,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 2161
+    "impressions": 1813
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 673
+    "impressions": 1021
    },
    "queries": [
     {
@@ -19213,11 +19213,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 311
+    "impressions": 292
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 1177
+    "impressions": 1196
    },
    "queries": [
     {
@@ -19268,11 +19268,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 102
+    "impressions": 34
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 5
+    "impressions": 73
    },
    "queries": [
     {
@@ -19379,11 +19379,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 53
+    "impressions": 51
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 52
+    "impressions": 54
    },
    "queries": [
     {
@@ -19409,12 +19409,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 6
+    "clicks": 0,
+    "impressions": 4
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 21
+    "clicks": 1,
+    "impressions": 23
    },
    "queries": []
   },
@@ -19434,11 +19434,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 1
+    "impressions": 0
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 139
+    "impressions": 140
    },
    "queries": []
   },
@@ -19457,12 +19457,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 29
+    "clicks": 0,
+    "impressions": 22
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 0
+    "clicks": 1,
+    "impressions": 7
    },
    "queries": [
     {
@@ -19587,11 +19587,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 8
+    "impressions": 1
    },
    "webPrev14": {
     "clicks": 4,
-    "impressions": 1071
+    "impressions": 1078
    },
    "queries": [
     {
@@ -19618,11 +19618,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 71
+    "impressions": 48
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 37
+    "impressions": 60
    },
    "queries": [
     {
@@ -19684,12 +19684,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 15
+    "clicks": 0,
+    "impressions": 14
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 16
+    "clicks": 1,
+    "impressions": 17
    },
    "queries": []
   },
@@ -19709,11 +19709,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 346
+    "impressions": 296
    },
    "webPrev14": {
     "clicks": 5,
-    "impressions": 1522
+    "impressions": 1572
    },
    "queries": [
     {
@@ -20226,12 +20226,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 4,
-    "impressions": 1173
+    "clicks": 3,
+    "impressions": 1016
    },
    "webPrev14": {
-    "clicks": 3,
-    "impressions": 1156
+    "clicks": 4,
+    "impressions": 1313
    },
    "queries": [
     {
@@ -20281,12 +20281,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 814
+    "clicks": 2,
+    "impressions": 762
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 0
+    "clicks": 1,
+    "impressions": 52
    },
    "queries": []
   },
@@ -20330,11 +20330,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 3014
+    "impressions": 2734
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 1295
+    "impressions": 1575
    },
    "queries": [
     {
@@ -20477,11 +20477,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 15
+    "impressions": 14
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 126
+    "impressions": 127
    },
    "queries": [
     {
@@ -20734,11 +20734,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 169
+    "impressions": 106
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 122
+    "impressions": 185
    },
    "queries": [
     {
@@ -20789,11 +20789,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 87
+    "impressions": 48
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 32
+    "impressions": 71
    },
    "queries": []
   },
@@ -20813,11 +20813,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 71
+    "impressions": 37
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 77
+    "impressions": 111
    },
    "queries": [
     {
@@ -20844,11 +20844,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 27
+    "impressions": 23
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 518
+    "impressions": 522
    },
    "queries": [
     {
@@ -20936,11 +20936,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 82
+    "impressions": 5
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 2385
+    "impressions": 2462
    },
    "queries": [
     {
@@ -21205,11 +21205,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 484
+    "impressions": 340
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 302
+    "impressions": 446
    },
    "queries": [
     {
@@ -21248,11 +21248,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 687
+    "impressions": 648
    },
    "webPrev14": {
     "clicks": 9,
-    "impressions": 1056
+    "impressions": 1095
    },
    "queries": [
     {
@@ -21479,12 +21479,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 259
+    "clicks": 0,
+    "impressions": 224
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 1
+    "clicks": 1,
+    "impressions": 36
    },
    "queries": [
     {
@@ -21726,11 +21726,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 3717
+    "impressions": 2384
    },
    "webPrev14": {
     "clicks": 14,
-    "impressions": 20689
+    "impressions": 22022
    },
    "queries": [
     {
@@ -21836,11 +21836,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 1346
+    "impressions": 1292
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 54
    },
    "queries": [
     {
@@ -21916,11 +21916,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 13
+    "impressions": 3
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 36
+    "impressions": 46
    },
    "queries": []
   },
@@ -22153,11 +22153,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 33
+    "impressions": 4
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 29
    },
    "queries": []
   },
@@ -22300,11 +22300,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 18
+    "impressions": 16
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 17
+    "impressions": 19
    },
    "queries": []
   },
@@ -22507,11 +22507,11 @@
    },
    "web14": {
     "clicks": 6,
-    "impressions": 255
+    "impressions": 245
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 10
    },
    "queries": []
   },
@@ -22580,11 +22580,11 @@
    },
    "web14": {
     "clicks": 8,
-    "impressions": 1139
+    "impressions": 1126
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 13
    },
    "queries": [
     {
@@ -22684,11 +22684,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 72
+    "impressions": 55
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 24
+    "impressions": 41
    },
    "queries": [
     {
@@ -22733,11 +22733,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 28
+    "impressions": 24
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 14
+    "impressions": 18
    },
    "queries": []
   },
@@ -23167,11 +23167,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 26
+    "impressions": 10
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 58
+    "impressions": 74
    },
    "queries": []
   },
@@ -23214,12 +23214,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 6,
-    "impressions": 1002
+    "clicks": 1,
+    "impressions": 755
    },
    "webPrev14": {
-    "clicks": 6,
-    "impressions": 212
+    "clicks": 11,
+    "impressions": 459
    },
    "queries": [
     {
@@ -23270,11 +23270,11 @@
    },
    "web14": {
     "clicks": 4,
-    "impressions": 38
+    "impressions": 27
    },
    "webPrev14": {
     "clicks": 14,
-    "impressions": 194
+    "impressions": 205
    },
    "queries": [
     {
@@ -23490,11 +23490,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 75
+    "impressions": 60
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 15
    },
    "queries": [
     {
@@ -23533,11 +23533,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 34
+    "impressions": 14
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 102
+    "impressions": 122
    },
    "queries": []
   },
@@ -23581,11 +23581,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 964
+    "impressions": 935
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 29
    },
    "queries": []
   },
@@ -23605,11 +23605,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 219
+    "impressions": 204
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 15
    },
    "queries": []
   },
@@ -23653,11 +23653,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 114
+    "impressions": 100
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 64
+    "impressions": 78
    },
    "queries": [
     {
@@ -23745,11 +23745,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 109
+    "impressions": 100
    },
    "webPrev14": {
     "clicks": 4,
-    "impressions": 254
+    "impressions": 263
    },
    "queries": [
     {
@@ -23959,11 +23959,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 480
+    "impressions": 445
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 35
    },
    "queries": [
     {
@@ -24057,11 +24057,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 445
+    "impressions": 417
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 117
+    "impressions": 145
    },
    "queries": []
   },
@@ -24379,12 +24379,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 6,
-    "impressions": 566
+    "clicks": 5,
+    "impressions": 505
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 0
+    "clicks": 1,
+    "impressions": 61
    },
    "queries": [
     {
@@ -24795,12 +24795,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 142,
-    "impressions": 3147
+    "clicks": 129,
+    "impressions": 2653
    },
    "webPrev14": {
-    "clicks": 1,
-    "impressions": 15
+    "clicks": 14,
+    "impressions": 509
    },
    "queries": [
     {
@@ -24851,11 +24851,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 254
+    "impressions": 204
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 177
+    "impressions": 227
    },
    "queries": [
     {
@@ -25041,11 +25041,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 7
+    "impressions": 6
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 34
+    "impressions": 35
    },
    "queries": [
     {
@@ -25230,12 +25230,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 12,
-    "impressions": 427
+    "clicks": 11,
+    "impressions": 364
    },
    "webPrev14": {
-    "clicks": 5,
-    "impressions": 282
+    "clicks": 6,
+    "impressions": 345
    },
    "queries": [
     {
@@ -25286,11 +25286,11 @@
    },
    "web14": {
     "clicks": 10,
-    "impressions": 3379
+    "impressions": 3307
    },
    "webPrev14": {
     "clicks": 7,
-    "impressions": 991
+    "impressions": 1063
    },
    "queries": [
     {
@@ -25341,11 +25341,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 56
+    "impressions": 54
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 104
+    "impressions": 106
    },
    "queries": []
   },
@@ -25641,11 +25641,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 2
+    "impressions": 1
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 178
+    "impressions": 179
    },
    "queries": [
     {
@@ -25690,11 +25690,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 662
+    "impressions": 411
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 590
+    "impressions": 841
    },
    "queries": [
     {
@@ -25720,12 +25720,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 6,
-    "impressions": 4331
+    "clicks": 5,
+    "impressions": 4101
    },
    "webPrev14": {
-    "clicks": 3,
-    "impressions": 2238
+    "clicks": 4,
+    "impressions": 2468
    },
    "queries": [
     {
@@ -25807,11 +25807,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 61
+    "impressions": 47
    },
    "webPrev14": {
     "clicks": 7,
-    "impressions": 5965
+    "impressions": 5979
    },
    "queries": [
     {
@@ -26515,11 +26515,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 16
+    "impressions": 15
    },
    "webPrev14": {
     "clicks": 9,
-    "impressions": 8992
+    "impressions": 8993
    },
    "queries": [
     {
@@ -26570,11 +26570,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 49
+    "impressions": 29
    },
    "webPrev14": {
     "clicks": 12,
-    "impressions": 5987
+    "impressions": 6007
    },
    "queries": [
     {
@@ -26625,11 +26625,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 2
+    "impressions": 1
    },
    "webPrev14": {
     "clicks": 12,
-    "impressions": 2777
+    "impressions": 2778
    },
    "queries": [
     {
@@ -26680,11 +26680,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 311
+    "impressions": 100
    },
    "webPrev14": {
     "clicks": 136,
-    "impressions": 13949
+    "impressions": 14160
    },
    "queries": [
     {
@@ -26735,11 +26735,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 47
+    "impressions": 16
    },
    "webPrev14": {
     "clicks": 35,
-    "impressions": 3810
+    "impressions": 3841
    },
    "queries": [
     {
@@ -26789,12 +26789,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 1156
+    "clicks": 0,
+    "impressions": 46
    },
    "webPrev14": {
-    "clicks": 12,
-    "impressions": 1955
+    "clicks": 13,
+    "impressions": 3065
    },
    "queries": [
     {
@@ -26844,12 +26844,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 14,
-    "impressions": 4512
+    "clicks": 4,
+    "impressions": 2378
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 3
+    "clicks": 10,
+    "impressions": 2137
    },
    "queries": [
     {
@@ -27388,11 +27388,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 4
+    "impressions": 3
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 528
+    "impressions": 529
    },
    "queries": [
     {
@@ -27419,11 +27419,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 15
+    "impressions": 12
    },
    "webPrev14": {
     "clicks": 4,
-    "impressions": 499
+    "impressions": 502
    },
    "queries": [
     {
@@ -28194,11 +28194,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 2
+    "impressions": 1
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 58
+    "impressions": 59
    },
    "queries": []
   },
@@ -28218,11 +28218,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 51
+    "impressions": 2
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 40
+    "impressions": 89
    },
    "queries": [
     {
@@ -28255,11 +28255,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 39
+    "impressions": 27
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 12
    },
    "queries": []
   },
@@ -29208,11 +29208,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 33
+    "impressions": 30
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 616
+    "impressions": 619
    },
    "queries": [
     {
@@ -29251,11 +29251,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 22
+    "impressions": 17
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 878
+    "impressions": 883
    },
    "queries": [
     {
@@ -29288,11 +29288,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 19
+    "impressions": 14
    },
    "webPrev14": {
     "clicks": 4,
-    "impressions": 1672
+    "impressions": 1677
    },
    "queries": [
     {
@@ -29343,11 +29343,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 48
+    "impressions": 18
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 45
+    "impressions": 75
    },
    "queries": []
   },
@@ -29410,11 +29410,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 328
+    "impressions": 306
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 22
    },
    "queries": [
     {
@@ -29914,11 +29914,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 27
+    "impressions": 15
    },
    "webPrev14": {
     "clicks": 10,
-    "impressions": 921
+    "impressions": 933
    },
    "queries": [
     {
@@ -29951,11 +29951,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 60
+    "impressions": 32
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 419
+    "impressions": 447
    },
    "queries": []
   },
@@ -29975,11 +29975,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 173
+    "impressions": 24
    },
    "webPrev14": {
     "clicks": 4,
-    "impressions": 191
+    "impressions": 340
    },
    "queries": [
     {
@@ -30005,12 +30005,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 2,
-    "impressions": 450
+    "clicks": 1,
+    "impressions": 317
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 1
+    "clicks": 1,
+    "impressions": 134
    },
    "queries": []
   },
@@ -30563,11 +30563,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 93
+    "impressions": 66
    },
    "webPrev14": {
     "clicks": 23,
-    "impressions": 1631
+    "impressions": 1658
    },
    "queries": [
     {
@@ -30618,11 +30618,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 26
+    "impressions": 21
    },
    "webPrev14": {
     "clicks": 6,
-    "impressions": 306
+    "impressions": 311
    },
    "queries": []
   },
@@ -30642,11 +30642,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 165
+    "impressions": 104
    },
    "webPrev14": {
     "clicks": 17,
-    "impressions": 1319
+    "impressions": 1380
    },
    "queries": [
     {
@@ -30696,12 +30696,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 12,
-    "impressions": 1261
+    "clicks": 1,
+    "impressions": 433
    },
    "webPrev14": {
-    "clicks": 11,
-    "impressions": 272
+    "clicks": 22,
+    "impressions": 1100
    },
    "queries": [
     {
@@ -30751,12 +30751,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 10,
-    "impressions": 1057
+    "clicks": 8,
+    "impressions": 909
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 2
+    "clicks": 2,
+    "impressions": 150
    },
    "queries": []
   },
@@ -31468,11 +31468,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 3
+    "impressions": 1
    },
    "webPrev14": {
     "clicks": 11,
-    "impressions": 776
+    "impressions": 778
    },
    "queries": [
     {
@@ -31566,11 +31566,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 19
+    "impressions": 5
    },
    "webPrev14": {
     "clicks": 9,
-    "impressions": 1247
+    "impressions": 1261
    },
    "queries": [
     {
@@ -31620,12 +31620,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 683
+    "clicks": 0,
+    "impressions": 52
    },
    "webPrev14": {
-    "clicks": 7,
-    "impressions": 958
+    "clicks": 8,
+    "impressions": 1589
    },
    "queries": [
     {
@@ -31675,12 +31675,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 632
+    "clicks": 0,
+    "impressions": 196
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 1
+    "clicks": 3,
+    "impressions": 437
    },
    "queries": []
   },
@@ -31829,11 +31829,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 621
+    "impressions": 614
    },
    "webPrev14": {
     "clicks": 7,
-    "impressions": 1239
+    "impressions": 1246
    },
    "queries": [
     {
@@ -31884,11 +31884,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 185
+    "impressions": 175
    },
    "webPrev14": {
     "clicks": 5,
-    "impressions": 551
+    "impressions": 561
    },
    "queries": [
     {
@@ -31938,12 +31938,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 2,
-    "impressions": 108
+    "clicks": 0,
+    "impressions": 81
    },
    "webPrev14": {
-    "clicks": 11,
-    "impressions": 226
+    "clicks": 13,
+    "impressions": 253
    },
    "queries": [
     {
@@ -32298,11 +32298,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 10
+    "impressions": 9
    },
    "webPrev14": {
     "clicks": 4,
-    "impressions": 128
+    "impressions": 129
    },
    "queries": [
     {
@@ -32549,11 +32549,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 2692
+    "impressions": 2500
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 1633
+    "impressions": 1825
    },
    "queries": [
     {
@@ -32658,12 +32658,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 5,
-    "impressions": 457
+    "clicks": 4,
+    "impressions": 413
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 22
+    "clicks": 1,
+    "impressions": 66
    },
    "queries": [
     {
@@ -32898,11 +32898,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 976
+    "impressions": 882
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 2464
+    "impressions": 2558
    },
    "queries": []
   },
@@ -32994,12 +32994,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 1623
+    "clicks": 2,
+    "impressions": 1295
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 215
+    "clicks": 1,
+    "impressions": 543
    },
    "queries": [
     {
@@ -33258,11 +33258,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 558
+    "impressions": 542
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 16
    },
    "queries": [
     {
@@ -33393,11 +33393,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 132
+    "impressions": 125
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 7
    },
    "queries": [
     {
@@ -33429,12 +33429,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 2,
-    "impressions": 455
+    "clicks": 1,
+    "impressions": 446
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 0
+    "clicks": 1,
+    "impressions": 9
    },
    "queries": [
     {
@@ -33687,11 +33687,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 20
+    "impressions": 18
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 30
+    "impressions": 32
    },
    "queries": [
     {
@@ -34066,11 +34066,11 @@
    },
    "web14": {
     "clicks": 6,
-    "impressions": 306
+    "impressions": 298
    },
    "webPrev14": {
     "clicks": 6,
-    "impressions": 126
+    "impressions": 134
    },
    "queries": [
     {
@@ -34121,11 +34121,11 @@
    },
    "web14": {
     "clicks": 3,
-    "impressions": 822
+    "impressions": 732
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 161
+    "impressions": 251
    },
    "queries": [
     {
@@ -34201,11 +34201,11 @@
    },
    "web14": {
     "clicks": 3,
-    "impressions": 177
+    "impressions": 169
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 1
+    "impressions": 9
    },
    "queries": [
     {
@@ -34647,12 +34647,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 6
+    "clicks": 0,
+    "impressions": 3
    },
    "webPrev14": {
-    "clicks": 1,
-    "impressions": 317
+    "clicks": 2,
+    "impressions": 320
    },
    "queries": [
     {
@@ -34684,12 +34684,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 2,
-    "impressions": 28
+    "clicks": 1,
+    "impressions": 7
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 90
+    "clicks": 1,
+    "impressions": 111
    },
    "queries": [
     {
@@ -34715,12 +34715,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 219
+    "clicks": 1,
+    "impressions": 185
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 0
+    "clicks": 2,
+    "impressions": 34
    },
    "queries": [
     {
@@ -34930,12 +34930,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 10,
-    "impressions": 2392
+    "clicks": 9,
+    "impressions": 2189
    },
    "webPrev14": {
-    "clicks": 1,
-    "impressions": 4116
+    "clicks": 2,
+    "impressions": 4319
    },
    "queries": [
     {
@@ -35140,11 +35140,11 @@
    },
    "web14": {
     "clicks": 5,
-    "impressions": 7333
+    "impressions": 6233
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 1133
+    "impressions": 2233
    },
    "queries": [
     {
@@ -35359,11 +35359,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 124
+    "impressions": 115
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 49
+    "impressions": 58
    },
    "queries": [
     {
@@ -35719,12 +35719,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 720
+    "clicks": 2,
+    "impressions": 486
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 0
+    "clicks": 1,
+    "impressions": 234
    },
    "queries": []
   },
@@ -35775,11 +35775,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 26
+    "impressions": 22
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 21
+    "impressions": 25
    },
    "queries": [
     {
@@ -35811,12 +35811,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 68,
-    "impressions": 1377
+    "clicks": 58,
+    "impressions": 974
    },
    "webPrev14": {
-    "clicks": 257,
-    "impressions": 27851
+    "clicks": 267,
+    "impressions": 28254
    },
    "queries": [
     {
@@ -36073,11 +36073,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 115
+    "impressions": 94
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 248
+    "impressions": 269
    },
    "queries": [
     {
@@ -36128,11 +36128,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 308
+    "impressions": 257
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 285
+    "impressions": 336
    },
    "queries": [
     {
@@ -36488,11 +36488,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 18
+    "impressions": 16
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 2
    },
    "queries": []
   },
@@ -36647,11 +36647,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 41
+    "impressions": 25
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 21
+    "impressions": 37
    },
    "queries": [
     {
@@ -36825,11 +36825,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 268
+    "impressions": 260
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 97
+    "impressions": 105
    },
    "queries": [
     {
@@ -37191,11 +37191,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 25
+    "impressions": 21
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 62
+    "impressions": 66
    },
    "queries": [
     {
@@ -37228,11 +37228,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 16
+    "impressions": 15
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 245
+    "impressions": 246
    },
    "queries": []
   },
@@ -37623,11 +37623,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 42
+    "impressions": 37
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 45
+    "impressions": 50
    },
    "queries": []
   },
@@ -37646,12 +37646,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 1327
+    "clicks": 0,
+    "impressions": 1073
    },
    "webPrev14": {
-    "clicks": 2,
-    "impressions": 871
+    "clicks": 3,
+    "impressions": 1125
    },
    "queries": [
     {
@@ -37757,11 +37757,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 3
+    "impressions": 1
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 1
+    "impressions": 3
    },
    "queries": []
   },
@@ -37885,11 +37885,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 122
+    "impressions": 108
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 383
+    "impressions": 397
    },
    "queries": [
     {
@@ -37959,11 +37959,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 25
+    "impressions": 13
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 2
+    "impressions": 14
    },
    "queries": [
     {
@@ -37995,12 +37995,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 11,
-    "impressions": 478
+    "clicks": 2,
+    "impressions": 116
    },
    "webPrev14": {
-    "clicks": 1,
-    "impressions": 12
+    "clicks": 10,
+    "impressions": 374
    },
    "queries": [
     {
@@ -38051,11 +38051,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 267
+    "impressions": 234
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 33
    },
    "queries": [
     {
@@ -38144,11 +38144,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 874
+    "impressions": 783
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 387
+    "impressions": 478
    },
    "queries": [
     {
@@ -38461,11 +38461,11 @@
    },
    "web14": {
     "clicks": 3,
-    "impressions": 1506
+    "impressions": 1481
    },
    "webPrev14": {
     "clicks": 21,
-    "impressions": 16487
+    "impressions": 16512
    },
    "queries": [
     {
@@ -38516,11 +38516,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 50
+    "impressions": 33
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 209
+    "impressions": 226
    },
    "queries": [
     {
@@ -38596,11 +38596,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 60
+    "impressions": 52
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 43
+    "impressions": 51
    },
    "queries": [
     {
@@ -38916,11 +38916,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 14
+    "impressions": 13
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 68
+    "impressions": 69
    },
    "queries": []
   },
@@ -38940,11 +38940,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 56
+    "impressions": 46
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 143
+    "impressions": 153
    },
    "queries": [
     {
@@ -39069,11 +39069,11 @@
    },
    "web14": {
     "clicks": 2,
-    "impressions": 171
+    "impressions": 165
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 104
+    "impressions": 110
    },
    "queries": []
   },
@@ -39093,11 +39093,11 @@
    },
    "web14": {
     "clicks": 6,
-    "impressions": 421
+    "impressions": 403
    },
    "webPrev14": {
     "clicks": 4,
-    "impressions": 215
+    "impressions": 233
    },
    "queries": [
     {
@@ -39124,11 +39124,11 @@
    },
    "web14": {
     "clicks": 3,
-    "impressions": 2192
+    "impressions": 2191
    },
    "webPrev14": {
     "clicks": 4,
-    "impressions": 978
+    "impressions": 979
    },
    "queries": [
     {
@@ -39178,12 +39178,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 73,
-    "impressions": 7121
+    "clicks": 72,
+    "impressions": 7000
    },
    "webPrev14": {
-    "clicks": 17,
-    "impressions": 1003
+    "clicks": 18,
+    "impressions": 1124
    },
    "queries": [
     {
@@ -39257,12 +39257,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 4,
-    "impressions": 188
+    "clicks": 3,
+    "impressions": 120
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 0
+    "clicks": 1,
+    "impressions": 68
    },
    "queries": [
     {
@@ -39343,11 +39343,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 31
+    "impressions": 22
    },
    "webPrev14": {
     "clicks": 8,
-    "impressions": 112
+    "impressions": 121
    },
    "queries": []
   },
@@ -39367,11 +39367,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 274
+    "impressions": 229
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 45
    },
    "queries": [
     {
@@ -39545,11 +39545,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 1352
+    "impressions": 877
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 8
+    "impressions": 483
    },
    "queries": [
     {
@@ -39631,11 +39631,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 17
+    "impressions": 10
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 47
+    "impressions": 54
    },
    "queries": [
     {
@@ -39747,12 +39747,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 249
+    "clicks": 0,
+    "impressions": 241
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 0
+    "clicks": 1,
+    "impressions": 8
    },
    "queries": [
     {
@@ -40177,11 +40177,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 263
+    "impressions": 216
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 223
+    "impressions": 270
    },
    "queries": []
   },
@@ -40299,11 +40299,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 8534
+    "impressions": 8478
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 15770
+    "impressions": 15826
    },
    "queries": [
     {
@@ -40354,11 +40354,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 975
+    "impressions": 18
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 1461
+    "impressions": 2418
    },
    "queries": [
     {
@@ -40409,11 +40409,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 48
+    "impressions": 34
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 14
+    "impressions": 28
    },
    "queries": [
     {
@@ -40679,11 +40679,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 85
+    "impressions": 67
    },
    "webPrev14": {
     "clicks": 5,
-    "impressions": 1376
+    "impressions": 1394
    },
    "queries": [
     {
@@ -40962,11 +40962,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 30
+    "impressions": 26
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 71
+    "impressions": 75
    },
    "queries": []
   },
@@ -41407,11 +41407,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 30
+    "impressions": 29
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 40
+    "impressions": 41
    },
    "queries": [
     {
@@ -41663,11 +41663,11 @@
    },
    "web14": {
     "clicks": 3,
-    "impressions": 1740
+    "impressions": 1290
    },
    "webPrev14": {
     "clicks": 9,
-    "impressions": 1846
+    "impressions": 2296
    },
    "queries": [
     {
@@ -41717,12 +41717,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 42,
-    "impressions": 2664
+    "clicks": 41,
+    "impressions": 2460
    },
    "webPrev14": {
-    "clicks": 14,
-    "impressions": 2914
+    "clicks": 15,
+    "impressions": 3118
    },
    "queries": [
     {
@@ -42605,11 +42605,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 58
+    "impressions": 56
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 2
    },
    "queries": [
     {
@@ -42735,11 +42735,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 3572
+    "impressions": 3221
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 171
+    "impressions": 522
    },
    "queries": [
     {
@@ -42978,12 +42978,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 33,
-    "impressions": 4441
+    "clicks": 32,
+    "impressions": 4133
    },
    "webPrev14": {
-    "clicks": 5,
-    "impressions": 2455
+    "clicks": 6,
+    "impressions": 2763
    },
    "queries": [
     {
@@ -43058,11 +43058,11 @@
    },
    "web14": {
     "clicks": 5,
-    "impressions": 5710
+    "impressions": 5247
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 2374
+    "impressions": 2837
    },
    "queries": [
     {
@@ -43258,12 +43258,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 6,
-    "impressions": 467
+    "clicks": 4,
+    "impressions": 424
    },
    "webPrev14": {
-    "clicks": 8,
-    "impressions": 524
+    "clicks": 10,
+    "impressions": 567
    },
    "queries": [
     {
@@ -43362,12 +43362,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 3,
-    "impressions": 286
+    "clicks": 2,
+    "impressions": 243
    },
    "webPrev14": {
-    "clicks": 12,
-    "impressions": 882
+    "clicks": 13,
+    "impressions": 925
    },
    "queries": [
     {
@@ -43504,11 +43504,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 2318
+    "impressions": 2119
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 631
+    "impressions": 830
    },
    "queries": [
     {
@@ -43590,11 +43590,11 @@
    },
    "web14": {
     "clicks": 5,
-    "impressions": 245
+    "impressions": 201
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 131
+    "impressions": 175
    },
    "queries": [
     {
@@ -43633,11 +43633,11 @@
    },
    "web14": {
     "clicks": 4,
-    "impressions": 252
+    "impressions": 247
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 63
+    "impressions": 68
    },
    "queries": []
   },
@@ -43657,11 +43657,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 287
+    "impressions": 278
    },
    "webPrev14": {
     "clicks": 41,
-    "impressions": 608
+    "impressions": 617
    },
    "queries": [
     {
@@ -43833,12 +43833,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 37,
-    "impressions": 213599
+    "clicks": 31,
+    "impressions": 157429
    },
    "webPrev14": {
-    "clicks": 29,
-    "impressions": 100948
+    "clicks": 35,
+    "impressions": 157118
    },
    "queries": [
     {
@@ -43975,11 +43975,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 175
+    "impressions": 34
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 1
+    "impressions": 142
    },
    "queries": []
   },
@@ -44048,11 +44048,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 413
+    "impressions": 405
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 736
+    "impressions": 744
    },
    "queries": [
     {
@@ -44127,11 +44127,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 11
+    "impressions": 1
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 9
+    "impressions": 19
    },
    "queries": []
   },
@@ -44284,12 +44284,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 1
+    "clicks": 0,
+    "impressions": 0
    },
    "webPrev14": {
-    "clicks": 0,
-    "impressions": 3
+    "clicks": 1,
+    "impressions": 4
    },
    "queries": [
     {
@@ -44384,11 +44384,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 22
+    "impressions": 20
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 56
+    "impressions": 58
    },
    "queries": [
     {
@@ -45112,11 +45112,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 11
+    "impressions": 7
    },
    "webPrev14": {
     "clicks": 1,
-    "impressions": 768
+    "impressions": 772
    },
    "queries": [
     {
@@ -45167,11 +45167,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 451
+    "impressions": 401
    },
    "webPrev14": {
     "clicks": 15,
-    "impressions": 3935
+    "impressions": 3985
    },
    "queries": [
     {
@@ -45222,11 +45222,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 50
+    "impressions": 19
    },
    "webPrev14": {
     "clicks": 3,
-    "impressions": 1532
+    "impressions": 1563
    },
    "queries": [
     {
@@ -45277,11 +45277,11 @@
    },
    "web14": {
     "clicks": 0,
-    "impressions": 2753
+    "impressions": 695
    },
    "webPrev14": {
     "clicks": 2,
-    "impressions": 1278
+    "impressions": 3336
    },
    "queries": [
     {
@@ -45331,12 +45331,12 @@
     "impressions": 0
    },
    "web14": {
-    "clicks": 1,
-    "impressions": 2897
+    "clicks": 0,
+    "impressions": 1896
    },
    "webPrev14": {
-    "clicks": 1,
-    "impressions": 7
+    "clicks": 2,
+    "impressions": 1008
    },
    "queries": [
     {
@@ -45907,11 +45907,11 @@
    },
    "web14": {
     "clicks": 1,
-    "impressions": 100
+    "impressions": 68
    },
    "webPrev14": {
     "clicks": 34,
-    "impressions": 2668
+    "impressions": 2700
    },
    "queries": [
     {
@@ -46163,11 +46163,11 @@
    },
    "web14": {
     "clicks": 6,
-    "impressions": 869
+    "impressions": 855
    },
    "webPrev14": {
     "clicks": 0,
-    "impressions": 0
+    "impressions": 14
    },
    "queries": [
     {

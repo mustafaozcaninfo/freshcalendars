@@ -1,20 +1,20 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-13T17:12 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-14T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 99% (74 of 75 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (75 of 75 sampled)
 - PASS: /news/ clicks and impressions did not fall two weeks in a row — no
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
 ## Weekly totals (latest first)
 
-- /news/, web: 2026-11-04..2026-11-10: 2,627 clicks, 581,396 impressions | 2026-10-28..2026-11-03: 3,419 clicks, 649,236 impressions | 2026-10-21..2026-10-27: 1,532 clicks, 363,103 impressions
-- /news/, image: 2026-11-04..2026-11-10: 485 clicks, 289,816 impressions | 2026-10-28..2026-11-03: 589 clicks, 299,168 impressions | 2026-10-21..2026-10-27: 348 clicks, 152,069 impressions
-- /news/, Discover: 2026-11-04..2026-11-10: 0 clicks, 0 impressions | 2026-10-28..2026-11-03: 0 clicks, 0 impressions | 2026-10-21..2026-10-27: 0 clicks, 0 impressions
-- Calendar site, web: 2026-11-04..2026-11-10: 58 clicks, 6,354 impressions | 2026-10-28..2026-11-03: 61 clicks, 5,794 impressions | 2026-10-21..2026-10-27: 53 clicks, 5,000 impressions
-- Calendar site, image: 2026-11-04..2026-11-10: 58 clicks, 31,176 impressions | 2026-10-28..2026-11-03: 54 clicks, 37,349 impressions | 2026-10-21..2026-10-27: 36 clicks, 15,235 impressions
+- /news/, web: 2026-11-05..2026-11-11: 2,174 clicks, 492,486 impressions | 2026-10-29..2026-11-04: 3,595 clicks, 642,016 impressions | 2026-10-22..2026-10-28: 1,620 clicks, 414,115 impressions
+- /news/, image: 2026-11-05..2026-11-11: 418 clicks, 245,331 impressions | 2026-10-29..2026-11-04: 581 clicks, 308,257 impressions | 2026-10-22..2026-10-28: 391 clicks, 175,015 impressions
+- /news/, Discover: 2026-11-05..2026-11-11: 0 clicks, 0 impressions | 2026-10-29..2026-11-04: 0 clicks, 0 impressions | 2026-10-22..2026-10-28: 0 clicks, 0 impressions
+- Calendar site, web: 2026-11-05..2026-11-11: 46 clicks, 5,333 impressions | 2026-10-29..2026-11-04: 55 clicks, 5,956 impressions | 2026-10-22..2026-10-28: 58 clicks, 5,252 impressions
+- Calendar site, image: 2026-11-05..2026-11-11: 39 clicks, 23,259 impressions | 2026-10-29..2026-11-04: 67 clicks, 41,911 impressions | 2026-10-22..2026-10-28: 35 clicks, 15,737 impressions
 
 ## Web opportunities: ranking 2.5 to 20 with a click rate below what that position earns
 
@@ -173,32 +173,32 @@ Pages with 800 or more impressions and a click rate of 1% or less, with their to
 ## Pages that lost or gained clicks (last 14 days against the 14 before; web)
 
 Losing: 
-- /news/sample-ballot-by-zip-code-2026-texas-ballot/: 257 → 68 clicks (27,851 → 1,377 impressions)
-- /news/nyt-connections-hints-answers-october-26-2026-1233/: 136 → 0 clicks (13,949 → 311 impressions)
-- /news/when-will-we-know-election-results-2026-midterms/: 41 → 1 clicks (608 → 287 impressions)
-- /news/nyt-connections-hints-answers-october-27-2026-1234/: 35 → 0 clicks (3,810 → 47 impressions)
-- /news/world-series-2026-schedule-game-times-tv-channel/: 34 → 1 clicks (2,668 → 100 impressions)
-- /news/nyt-spelling-bee-hints-answers-october-25-2026/: 23 → 0 clicks (1,631 → 93 impressions)
-- /news/ballon-dor-2026-date-time-by-time-zone-nominees-london/: 22 → 0 clicks (25,009 → 21 impressions)
-- /news/election-night-2026-tv-schedule-how-to-watch-results/: 27 → 7 clicks (462 → 127 impressions)
-- /news/black-friday-2026-ad-tracker-walmart-target-best-buy/: 24 → 5 clicks (5,434 → 14,401 impressions)
-- /news/sunset-times-after-daylight-saving-time-ends-2026/: 21 → 3 clicks (16,487 → 1,506 impressions)
+- /news/sample-ballot-by-zip-code-2026-texas-ballot/: 267 → 58 clicks (28,254 → 974 impressions)
+- /news/nyt-connections-hints-answers-october-26-2026-1233/: 136 → 0 clicks (14,160 → 100 impressions)
+- /news/when-will-we-know-election-results-2026-midterms/: 41 → 1 clicks (617 → 278 impressions)
+- /news/nyt-connections-hints-answers-october-27-2026-1234/: 35 → 0 clicks (3,841 → 16 impressions)
+- /news/world-series-2026-schedule-game-times-tv-channel/: 34 → 1 clicks (2,700 → 68 impressions)
+- /news/election-night-2026-tv-schedule-how-to-watch-results/: 32 → 2 clicks (532 → 57 impressions)
+- /news/nyt-spelling-bee-hints-answers-october-25-2026/: 23 → 0 clicks (1,658 → 66 impressions)
+- /: 46 → 24 clicks (391 → 395 impressions)
+- /news/ballon-dor-2026-date-time-by-time-zone-nominees-london/: 22 → 0 clicks (25,013 → 17 impressions)
+- /news/nyt-spelling-bee-hints-answers-october-28-2026/: 22 → 1 clicks (1,100 → 433 impressions)
 
 Gaining: 
 - /news/nyt-connections-hints-answers-november-1-2026-1239/: 0 → 199 clicks (0 → 29,099 impressions)
-- /news/is-election-day-a-holiday-2026-whats-open/: 162 → 317 clicks (5,932 → 11,183 impressions)
 - /news/great-british-bake-off-2026-free-from-week-tuesday-3-november-episode-schedule/: 0 → 150 clicks (0 → 8,982 impressions)
-- /news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/: 1 → 142 clicks (15 → 3,147 impressions)
-- /news/free-rides-to-the-polls-2026-lyft-uber-transit/: 73 → 210 clicks (686 → 2,644 impressions)
 - /news/nyt-connections-hints-answers-november-7-2026-1245/: 0 → 135 clicks (0 → 26,897 impressions)
-- /news/downloads/november-2026-calendar/november-2026-gratitude-calendar.pdf: 4 → 117 clicks (18 → 463 impressions)
+- /news/nhl-hometown-remix-jerseys-2026-27-unveil-date-game-schedule/: 14 → 129 clicks (509 → 2,653 impressions)
+- /news/downloads/november-2026-calendar/november-2026-gratitude-calendar.pdf: 9 → 112 clicks (30 → 451 impressions)
 - /news/downloads/college-basketball-2026-27/feast-week-2026-college-basketball-tournament-calendar.pdf: 0 → 82 clicks (0 → 464 impressions)
 - /news/printable-pumpkin-carving-templates/: 0 → 82 clicks (0 → 1,681 impressions)
 - /news/nyt-connections-hints-answers-november-4-2026-1242/: 0 → 78 clicks (0 → 6,983 impressions)
+- /news/nyt-connections-hints-answers-october-30-2026-1237/: 0 → 75 clicks (0 → 14,450 impressions)
+- /news/free-rides-to-the-polls-2026-lyft-uber-transit/: 108 → 175 clicks (1,000 → 2,330 impressions)
 
 ## Pages that compete with each other (one query, two or more of our pages; web, 28 days)
 
-- "thanksgiving 2026" (284,692 impressions): /news/why-thanksgiving-2026-is-november-26/ 284,594 at 2.7; /when-is/thanksgiving/ 98 at 44.2
+- "thanksgiving 2026" (284,690 impressions): /news/why-thanksgiving-2026-is-november-26/ 284,594 at 2.7; /when-is/thanksgiving/ 96 at 44.1
 - "bank holidays 2027" (15,528 impressions): /news/uk-bank-holidays-2027-dates-england-scotland-northern-ireland/ 15,475 at 1.2; /news/downloads/uk-bank-holidays-2027/uk-bank-holidays-2027.pdf 53 at 67.4
 - "black friday 2026" (2,126 impressions): /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ 1,427 at 2.3; /news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/ 470 at 1.7; /news/downloads/black-friday-2026-uk/black-friday-2026-uk-shopping-planner.pdf 102 at 71.9; /news/black-friday-2026-uk-date-27-november-amazon-uk-sale-dates/ 77 at 68.6; /news/downloads/black-friday-2026-uk/black-friday-2026-uk-shopping-planner-ink.pdf 50 at 82.7
 - "mini crossword answers" (1,596 impressions): /news/nyt-mini-crossword-answers-october-26-2026/ 982 at 7.5; /news/nyt-mini-crossword-answers-october-28-2026/ 614 at 7.7
@@ -219,12 +219,12 @@ Gaining:
 - /news/hanukkah-2026-dates-calendar/: 36 clicks, 5,885 impressions, position 14.9
 - /news/january-2027-calendar-printable/: 34 clicks, 7,582 impressions, position 39.3
 - /news/november-2026-important-dates-days-until/: 30 clicks, 16,303 impressions, position 35.4
-- /december-calendars.html: 29 clicks, 12,838 impressions, position 75.3
+- /december-calendars.html: 29 clicks, 12,635 impressions, position 75.4
 - /news/gta-6-october-22-2026-what-is-confirmed-release-countdown/: 28 clicks, 5,867 impressions, position 46.6
 - /news/why-thanksgiving-2026-is-november-26/: 25 clicks, 37,123 impressions, position 31.5
-- /printable-yearly-calendar.html: 24 clicks, 19,637 impressions, position 60.6
-- /blank-calendars.html: 23 clicks, 4,198 impressions, position 63.9
+- /printable-yearly-calendar.html: 24 clicks, 18,959 impressions, position 60.7
 - /news/hunters-moon-october-2026-full-moon-time/: 21 clicks, 11,329 impressions, position 28.9
+- /news/veterans-day-2026-wednesday-november-11/: 20 clicks, 13,211 impressions, position 32.1
 
 Ranking in web results but absent from image results (hero alt text, caption, file name):
 - /news/nyt-spelling-bee-hints-answers-october-26-2026/: 332 web impressions, position 7
@@ -263,17 +263,17 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Top calendar-site pages, web, last 28 days
 
-- /: 70 clicks, 807 impressions, position 33.1
-- /blank-calendars.html: 20 clicks, 480 impressions, position 19.2
-- /january-calendars.html: 12 clicks, 455 impressions, position 13.8
+- /: 70 clicks, 786 impressions, position 32.7
+- /blank-calendars.html: 20 clicks, 467 impressions, position 19
+- /january-calendars.html: 12 clicks, 448 impressions, position 13.7
 - /monthly-calendars/: 12 clicks, 208 impressions, position 23.8
-- /printable-calendars.html: 7 clicks, 323 impressions, position 18.1
-- /november-calendars.html: 6 clicks, 455 impressions, position 7.3
-- /september-calendars.html: 5 clicks, 2,147 impressions, position 7.4
+- /printable-calendars.html: 7 clicks, 321 impressions, position 17.8
+- /november-calendars.html: 6 clicks, 449 impressions, position 7.3
 - /articles/journaling-for-beginners: 5 clicks, 23 impressions, position 6.1
-- /april-calendars.html: 4 clicks, 885 impressions, position 8.4
-- /october-calendars.html: 4 clicks, 481 impressions, position 9
-- /march-calendars.html: 4 clicks, 431 impressions, position 9.8
+- /september-calendars.html: 4 clicks, 1,963 impressions, position 7.3
+- /april-calendars.html: 4 clicks, 871 impressions, position 8.3
+- /october-calendars.html: 4 clicks, 469 impressions, position 8.9
+- /march-calendars.html: 4 clicks, 397 impressions, position 10
 - /assets/2027/yearly/monday-start/calendar.pdf: 4 clicks, 202 impressions, position 8.7
 - /calendars/: 4 clicks, 100 impressions, position 11.7
 - /: 4 clicks, 36 impressions, position 13.6
@@ -281,31 +281,31 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 89 stories published 2 to 21 days ago (the gate counts the 75 that are 7 to 21 days old): 88 Submitted and indexed, 1 Excluded by ‘noindex’ tag.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 75 that are 7 to 21 days old): 90 Submitted and indexed.
 
-- not indexed: /news/linkedin-games-answers-today-october-29-2026-queens-tango-zip/ (Excluded by ‘noindex’ tag), 15 days old
+- every sampled story is indexed
 
 ## Sitemaps
 
-- /sitemap.xml: 0 errors, 0 warnings, 1,598 URLs submitted, last read 2026-11-11
+- /sitemap.xml: 0 errors, 0 warnings, 1,614 URLs submitted, last read 2026-11-13
 - /news/sitemap.xml: 0 errors, 0 warnings, 1,298 URLs submitted, last read 2026-11-13
 - /news/news-sitemap.xml: 0 errors, 0 warnings, 80 URLs submitted, last read 2026-11-12
 - /sitemap.xml: 0 errors, 0 warnings, 96 URLs submitted, last read 2026-11-07
 
 ## Experiments (title and snippet changes of the search desk, 14 days before against 14 days after)
 
-- lunar-new-year-2027-year-of-the-goat (changed 2026-11-03): before 2 clicks, 1,347 impressions, CTR 0.15%, position 6.8; after: not yet (7 of 15 days)
-- julian-date-calendar-2027-2026-printable (changed 2026-11-05): before 13 clicks, 1,732 impressions, CTR 0.75%, position 3.6; after: not yet (5 of 15 days)
-- clark-county-school-district-calendar-2026-27-breaks (changed 2026-11-05): before 31 clicks, 8,660 impressions, CTR 0.36%, position 6.3; after: not yet (5 of 15 days)
-- week-numbers-2027-calendar-printable (changed 2026-11-05): before 28 clicks, 3,413 impressions, CTR 0.82%, position 3.9; after: not yet (5 of 15 days)
-- sunset-times-after-daylight-saving-time-ends-2026 (changed 2026-11-05): before 4 clicks, 1,538 impressions, CTR 0.26%, position 9.5; after: not yet (5 of 15 days)
-- gta-6-october-22-2026-what-is-confirmed-release-countdown (changed 2026-11-06): before 2 clicks, 110 impressions, CTR 1.82%, position 6.1; after: not yet (4 of 15 days)
-- whats-open-thanksgiving-2026-grocery-stores-walmart-costco (changed 2026-11-06): before 14 clicks, 1,097 impressions, CTR 1.28%, position 10.2; after: not yet (4 of 15 days)
-- black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5 (changed 2026-11-06): before 10 clicks, 11,495 impressions, CTR 0.09%, position 10.9; after: not yet (4 of 15 days)
-- avatar-seven-havens-release-schedule-episodes (changed 2026-11-06): before 14 clicks, 4,472 impressions, CTR 0.31%, position 9; after: not yet (4 of 15 days)
-- baltimore-county-public-schools-calendar-2026-27-breaks (changed 2026-11-07): before 2 clicks, 1,831 impressions, CTR 0.11%, position 5.7; after: not yet (3 of 15 days)
-- thanksgiving-football-schedule-2026-nfl-college-games (changed 2026-11-07): before 47 clicks, 3,588 impressions, CTR 1.31%, position 6.8; after: not yet (3 of 15 days)
-- king-tides-2026-dates-this-week-high-tide-times (changed 2026-11-07): before 16 clicks, 1,154 impressions, CTR 1.39%, position 7.3; after: not yet (3 of 15 days)
-- november-2026-calendar-printable (changed 2026-11-07): before 17 clicks, 703 impressions, CTR 2.42%, position 5.2; after: not yet (3 of 15 days)
-- orange-county-public-schools-calendar-2026-27-breaks-holidays (changed 2026-11-08): before 7 clicks, 3,178 impressions, CTR 0.22%, position 5.5; after: not yet (2 of 15 days)
-- november-2026-important-dates-days-until (changed 2026-11-08): before 6 clicks, 1,661 impressions, CTR 0.36%, position 5.5; after: not yet (2 of 15 days)
+- lunar-new-year-2027-year-of-the-goat (changed 2026-11-03): before 2 clicks, 1,347 impressions, CTR 0.15%, position 6.8; after: not yet (8 of 15 days)
+- julian-date-calendar-2027-2026-printable (changed 2026-11-05): before 13 clicks, 1,732 impressions, CTR 0.75%, position 3.6; after: not yet (6 of 15 days)
+- clark-county-school-district-calendar-2026-27-breaks (changed 2026-11-05): before 31 clicks, 8,660 impressions, CTR 0.36%, position 6.3; after: not yet (6 of 15 days)
+- week-numbers-2027-calendar-printable (changed 2026-11-05): before 28 clicks, 3,413 impressions, CTR 0.82%, position 3.9; after: not yet (6 of 15 days)
+- sunset-times-after-daylight-saving-time-ends-2026 (changed 2026-11-05): before 4 clicks, 1,538 impressions, CTR 0.26%, position 9.5; after: not yet (6 of 15 days)
+- gta-6-october-22-2026-what-is-confirmed-release-countdown (changed 2026-11-06): before 2 clicks, 110 impressions, CTR 1.82%, position 6.1; after: not yet (5 of 15 days)
+- whats-open-thanksgiving-2026-grocery-stores-walmart-costco (changed 2026-11-06): before 14 clicks, 1,097 impressions, CTR 1.28%, position 10.2; after: not yet (5 of 15 days)
+- black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5 (changed 2026-11-06): before 10 clicks, 11,495 impressions, CTR 0.09%, position 10.9; after: not yet (5 of 15 days)
+- avatar-seven-havens-release-schedule-episodes (changed 2026-11-06): before 14 clicks, 4,472 impressions, CTR 0.31%, position 9; after: not yet (5 of 15 days)
+- baltimore-county-public-schools-calendar-2026-27-breaks (changed 2026-11-07): before 2 clicks, 1,831 impressions, CTR 0.11%, position 5.7; after: not yet (4 of 15 days)
+- thanksgiving-football-schedule-2026-nfl-college-games (changed 2026-11-07): before 47 clicks, 3,588 impressions, CTR 1.31%, position 6.8; after: not yet (4 of 15 days)
+- king-tides-2026-dates-this-week-high-tide-times (changed 2026-11-07): before 16 clicks, 1,154 impressions, CTR 1.39%, position 7.3; after: not yet (4 of 15 days)
+- november-2026-calendar-printable (changed 2026-11-07): before 17 clicks, 703 impressions, CTR 2.42%, position 5.2; after: not yet (4 of 15 days)
+- orange-county-public-schools-calendar-2026-27-breaks-holidays (changed 2026-11-08): before 7 clicks, 3,178 impressions, CTR 0.22%, position 5.5; after: not yet (3 of 15 days)
+- november-2026-important-dates-days-until (changed 2026-11-08): before 6 clicks, 1,661 impressions, CTR 0.36%, position 5.5; after: not yet (3 of 15 days)
