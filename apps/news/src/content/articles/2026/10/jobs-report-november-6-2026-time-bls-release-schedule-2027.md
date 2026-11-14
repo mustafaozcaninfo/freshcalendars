@@ -3,7 +3,7 @@ title: "BLS Jobs Report Schedule 2027: First Release Jan. 8, CPI Dates"
 description: "Bureau of Labor Statistics (BLS) jobs report: payrolls rose 165,000 and unemployment was 4.1 percent in October 2026. Next is Dec. 4, plus 2027 dates."
 type: news
 publishedAt: "2026-10-29T05:44:00-04:00"
-updatedAt: "2026-11-06T09:27:00-05:00"
+updatedAt: "2026-11-14T01:15:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["jobs report november 2026", "when is the next jobs report", "october jobs report 2026 release date", "bls release schedule 2027", "cpi release date november 2026"]
@@ -20,7 +20,7 @@ hero:
 summary:
   - "The Bureau of Labor Statistics (BLS) released the October 2026 Employment Situation at 8:30 a.m. Eastern Time (ET) on Friday, Nov. 6, 2026: payroll employment rose by 165,000 and the unemployment rate was 4.1 percent."
   - "The BLS revised August up to +186,000 and September up to +60,000; average hourly earnings rose 14 cents to $38.00."
-  - "The Consumer Price Index (CPI) for October 2026 follows on Tuesday, Nov. 10, and the November jobs report on Friday, Dec. 4, 2026."
+  - "The Consumer Price Index (CPI) for October 2026 came out Tuesday, Nov. 10, with prices up 0.4 percent on the month. The November jobs report is Friday, Dec. 4, 2026."
   - "The BLS has published 2027 dates: the first jobs report is Friday, Jan. 8, 2027, and the November 2027 report is Nov. 5."
 faq:
   - q: "What time is the jobs report on Nov. 6, 2026?"
@@ -30,7 +30,7 @@ faq:
   - q: "When is the next jobs report after Nov. 6?"
     a: "Friday, Dec. 4, 2026, at 8:30 a.m. ET, covering November 2026."
   - q: "When is the CPI release in November 2026?"
-    a: "Tuesday, Nov. 10, 2026, at 8:30 a.m. ET, for October 2026."
+    a: "The October 2026 CPI came out Tuesday, Nov. 10, 2026, at 8:30 a.m. ET. The November 2026 CPI is due Thursday, Dec. 10."
   - q: "When is the first jobs report of 2027?"
     a: "Friday, Jan. 8, 2027, at 8:30 a.m. ET, covering December 2026."
   - q: "Are 2027 JOLTS dates published?"
@@ -52,6 +52,14 @@ sources:
     url: "https://www.bls.gov/news.release/empsit.nr0.htm"
     publisher: "U.S. Bureau of Labor Statistics"
     date: "2026-11-06"
+  - title: "Consumer prices increased 0.4% in October, higher than expected"
+    url: "https://abc7news.com/story/consumer-prices-increased-04-october-higher-expected/20029965/"
+    publisher: "ABC News (Max Zahn), via ABC7"
+    date: "2026-11-11"
+  - title: "October CPI report: elevated inflation"
+    url: "https://cbsnews.com/news/october-cpi-report-elevated-inflation"
+    publisher: "CBS News MoneyWatch (Mary Cunningham)"
+    date: "2026-11-11"
   - title: "The Employment Situation: October 2026"
     url: "https://www.bls.gov/news.release/pdf/empsit.pdf"
     publisher: "U.S. Bureau of Labor Statistics"
@@ -157,7 +165,7 @@ The BLS 2026 schedule lists three releases in each of the two months that matter
 |---|---|---|
 | Tue., Nov. 3 | 10:00 a.m. | JOLTS, September 2026 |
 | Fri., Nov. 6 | 8:30 a.m. | Employment Situation (jobs report), October 2026 |
-| Tue., Nov. 10 | 8:30 a.m. | Consumer Price Index (CPI), October 2026 |
+| Tue., Nov. 10 | 8:30 a.m. | Consumer Price Index (CPI), October 2026 (released) |
 | Tue., Dec. 1 | 10:00 a.m. | JOLTS, October 2026 |
 | Fri., Dec. 4 | 8:30 a.m. | Employment Situation (jobs report), November 2026 |
 | Thu., Dec. 10 | 8:30 a.m. | Consumer Price Index (CPI), November 2026 |
@@ -187,7 +195,7 @@ Source: BLS, Schedule of Selected Releases 2027, checked Oct. 29, 2026. Weekdays
 
 ## What are the CPI release dates for 2027?
 
-The BLS lists 12 Consumer Price Index releases for 2027, all at 8:30 a.m. ET. The CPI for October 2026 comes out on Tuesday, Nov. 10, 2026, and the one for November 2026 on Thursday, Dec. 10, 2026. The weekdays below were computed by us from the BLS dates.
+The BLS lists 12 Consumer Price Index releases for 2027, all at 8:30 a.m. ET. The CPI for October 2026 came out on Tuesday, Nov. 10, 2026: ABC News and CBS News reported that prices rose 0.4 percent in October and that no 12-month rate was given for October because the 2025 shutdown left no October 2025 data to compare. The one for November 2026 is due Thursday, Dec. 10, 2026. The weekdays below were computed by us from the BLS dates.
 
 | Date | ET time | Month covered |
 |---|---|---|

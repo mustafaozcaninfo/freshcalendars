@@ -31,6 +31,7 @@ assets:
     note: "Source: NBA.com and ESPN Press Room (NBA schedule and networks, Aug. 11, 2026); NFL.com and Netflix Tudum (NFL schedule and networks). Pacific Time is computed from Eastern Time."
     notesLabel: "Where I am watching"
     inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "All eight Christmas Day 2026 NBA and NFL games on one page, with Eastern and Pacific start times and where to watch each game."
     alt: "Christmas Day 2026 games printable listing five NBA games and three NFL games with Eastern and Pacific start times and networks"
 hero:
@@ -106,8 +107,6 @@ downloads:
     pages: 1
 draft: false
 ---
-
-<p class="callout"><b>Checked Oct. 26, 2026.</b> Times and networks below come from the NBA, ESPN, the NFL and Netflix releases listed under sources. Pacific Time (PT) columns are our own conversion.</p>
 
 **Christmas Day, Friday, Dec. 25, 2026, has eight games, five from the National Basketball Association (NBA) and three from the National Football League (NFL), running from 12 p.m. to 10:30 p.m. Eastern Time (ET), according to NBA.com and NFL.com.** The NBA games all air on ESPN and the American Broadcasting Company (ABC); the NFL splits its tripleheader between Netflix and FOX.
 

@@ -3,7 +3,7 @@ title: "Heisman Trophy 2026 Ceremony: Saturday, Dec. 12, Ballots Due Dec. 7"
 description: "The 2026 Heisman ceremony is Saturday, Dec. 12. Ballots are due Monday, Dec. 7 at 5 p.m. ET, with the deadline in four U.S. time zones and a printable."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
-updatedAt: "2026-11-03T12:29:00-05:00"
+updatedAt: "2026-11-14T01:14:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Heisman Trophy 2026 date", "Heisman ceremony 2026", "Heisman finalists 2026", "Heisman voting deadline"]
@@ -21,26 +21,32 @@ hero:
 summary:
   - "The Heisman Trophy Trust lists ballots going out Thursday, Dec. 3, 2026, and the voting deadline and finalist announcement on Monday, Dec. 7."
   - "Ballots are due by 5 p.m. Eastern Time (ET) on Dec. 7, which is 4 p.m. Central, 3 p.m. Mountain and 2 p.m. Pacific by our conversion."
-  - "The winner is announced at the televised Heisman ceremony on Saturday, Dec. 12, 2026, on the American Broadcasting Company (ABC), according to heisman.com. The start time and venue are not yet announced; in 2025 it was 7 p.m. ET."
+  - "The winner is announced at the televised Heisman ceremony on Saturday, Dec. 12, 2026, on the American Broadcasting Company (ABC), according to heisman.com. The start time is not yet announced; in 2025 it was 7 p.m. ET. The venue is Jazz at Lincoln Center in New York."
   - "A free printable on this page lists the dates to mark."
 faq:
   - q: "When is the 2026 Heisman Trophy ceremony?"
-    a: "Saturday, Dec. 12, 2026, on ABC, according to the key dates on heisman.com. The start time has not been announced; the 2025 ceremony was Saturday, Dec. 13, at 7 p.m. ET."
+    a: "Saturday, Dec. 12, 2026, on ABC, according to the key dates on heisman.com. The start time has not been announced. It is part of Heisman Weekend, Dec. 11-13, at Jazz at Lincoln Center in New York. The 2025 ceremony was Saturday, Dec. 13, at 7 p.m. ET."
   - q: "When are the 2026 Heisman finalists announced?"
     a: "Monday, Dec. 7, 2026, in the evening, according to the Heisman balloting page. ESPN announces the finalists each year under its rights agreement with the Heisman Trophy Trust. The exact time is not yet announced."
   - q: "When is the Heisman voting deadline in 2026?"
     a: "Ballots are due by 5 p.m. Eastern Time (ET) on Monday, Dec. 7, 2026, according to the Heisman balloting page."
   - q: "Who votes for the Heisman Trophy?"
-    a: "The Heisman balloting page lists 145 media votes per section, 870 in all, and says every living Heisman winner votes. A total voter count is not given in the sources we read."
+    a: "The Heisman balloting page lists 145 media votes per section, 870 in all. Every living Heisman winner votes (60 at present), and the public Heisman Fan Vote counts as one more vote."
   - q: "Who won the Heisman Trophy in 2025?"
     a: "Indiana quarterback Fernando Mendoza won with 2,362 points, according to heisman.com. The 2025 finalists were Jeremiyah Love of Notre Dame, Mendoza, Diego Pavia of Vanderbilt and Julian Sayin of Ohio State."
 sources:
   - title: "The Heisman Trophy: key dates"
     url: "https://www.heisman.com/"
     publisher: "Heisman Trophy Trust"
+    date: "2026-11-14"
   - title: "Heisman balloting information"
     url: "https://www.heisman.com/balloting-info/"
     publisher: "Heisman Trophy Trust"
+    date: "2026-11-14"
+  - title: "Heisman and REVELxp partner to offer premium fan access to Heisman Weekend"
+    url: "https://www.heisman.com/"
+    publisher: "Heisman Trophy Trust"
+    date: "2026-10-20"
   - title: "ESPN and the Heisman Trophy Trust extend exclusive media rights agreement"
     url: "https://espnpressroom.com/press-release/espn-and-the-heisman-trophy-trust-extend-exclusive-media-rights-agreement/"
     publisher: "ESPN Press Room"
@@ -127,7 +133,9 @@ The balloting page says the 2026 finalists are announced in the evening of Monda
 
 ## What time and channel is the 2026 ceremony?
 
-The channel is ABC. The Heisman Trophy Trust's balloting page lists "the announcement of the 2026 Heisman Trophy Winner via the televised Heisman Ceremony on ABC" for Saturday, Dec. 12, and marks it a private event. An October 20, 2026, release about hospitality packages also refers to "the televised Heisman Trophy Ceremony presented by Nissan." The start time and the venue are not yet announced.
+The channel is ABC. The Heisman Trophy Trust's balloting page lists "the announcement of the 2026 Heisman Trophy Winner via the televised Heisman Ceremony on ABC" for Saturday, Dec. 12, and marks it a private event. An October 20, 2026, release about hospitality packages also refers to "the televised Heisman Trophy Ceremony presented by Nissan." The start time is not yet announced.
+
+The Heisman release says Heisman Weekend runs Dec. 11-13, 2026, in New York City, with events at Jazz at Lincoln Center. Heisman Live is Friday evening, Dec. 11. The Heisman Red Carpet and the televised ceremony are Saturday, Dec. 12, with seating for the live ceremony in the Appel Room. The Heisman Club Celebration is Sunday, Dec. 13.
 
 The ESPN release of Dec. 19, 2025, says ESPN remains the ceremony's home.
 
@@ -140,14 +148,14 @@ In 2025, ESPN said the ceremony was Saturday, Dec. 13, at 7 p.m. ET on ABC, from
 | Ceremony date | Saturday, Dec. 13 | Saturday, Dec. 12 |
 | Start time | 7 p.m. ET | Not yet announced |
 | Network | ABC | ABC |
-| Venue | Jazz at Lincoln Center's Appel Room, New York | Not yet announced |
+| Venue | Jazz at Lincoln Center's Appel Room, New York | Jazz at Lincoln Center, New York (Appel Room for the live ceremony) |
 
 The 2025 finalists were Jeremiyah Love (Notre Dame), Fernando Mendoza (Indiana), Diego Pavia (Vanderbilt) and Julian Sayin (Ohio State). Mendoza, Indiana's quarterback, won with 2,362 points, according to heisman.com.
 
 ## Who votes for the Heisman Trophy?
 
-The Heisman balloting page lists 145 media votes per section, 870 media votes in all. Every living Heisman winner also votes. We did not find a total voter count in the sources we read, so we do not give one.
+The Heisman balloting page lists 145 media votes per section, 870 media votes in all. Every living Heisman winner also votes, 60 at present, and the public Heisman Fan Vote counts as one more vote in the tabulation. The page also gives a total for the 2026 race, but the figure is garbled in the text we read, so we do not repeat it.
 
 ## What should you check before Dec. 12?
 
-The finalists list, the broadcast start time and the venue are the open items. The Heisman Trophy Trust and ESPN are the sources to watch, and we will update this story when they publish. For other college football dates in December, see our stories on the [College Football Playoff schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) and the [Army-Navy Game](/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/). A [printable weekly calendar](/printable-weekly-calendar.html) helps if you plan a watch party around the broadcast.
+The finalists list and the broadcast start time are the open items. The Heisman Trophy Trust and ESPN are the sources to watch, and we will update this story when they publish. For other college football dates in December, see our stories on the [College Football Playoff schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) and the [Army-Navy Game](/news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/). A [printable weekly calendar](/printable-weekly-calendar.html) helps if you plan a watch party around the broadcast.

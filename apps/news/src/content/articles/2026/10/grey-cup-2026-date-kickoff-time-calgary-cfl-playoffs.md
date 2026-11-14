@@ -3,7 +3,7 @@ title: "Grey Cup 2026 Start Time: Sunday, Nov. 15, 6 p.m. ET, by Time Zone"
 description: "Montreal plays Edmonton in the 113th Grey Cup, Sunday, Nov. 15, 2026, 6 p.m. ET in Calgary. Start time in every zone, per the Canadian Football League (CFL)."
 type: explainer
 publishedAt: "2026-10-26T01:09:00-04:00"
-updatedAt: "2026-11-11T19:25:00-05:00"
+updatedAt: "2026-11-14T01:13:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Grey Cup 2026", "Grey Cup 2026 date", "when is the Grey Cup", "CFL playoffs 2026 schedule"]
@@ -164,11 +164,13 @@ Saskatchewan does not change its clocks, so Regina is on Central Standard Time a
 
 ## Who is performing at the Grey Cup halftime show?
 
-Riley Green performs in the Bud Light Grey Cup Halftime Show, and Sarah McLachlan sings the national anthem, the CFL said on Nov. 7.
+Riley Green performs in the Bud Light Grey Cup Halftime Show, and Sarah McLachlan sings the national anthem, the CFL said on Nov. 7. The release also lists a pre-game performance from Jim Cuddy and Greg Keelor of Blue Rodeo, and James Barker Band in the SiriusXM Grey Cup Kickoff Show.
+
+It is the 12th time the two clubs have met in the Grey Cup, the CFL says. The Cenovus Energy 2026 Grey Cup Festival runs from Nov. 11 to 15 in Calgary with free and ticketed events.
 
 ## Where can you watch the Grey Cup?
 
-In Canada, the CFL's Nov. 7 release lists TSN, CTV, RDS and Crave for the Grey Cup, and CFL+ internationally. Tickets are available at Ticketmaster, the CFL says.
+In Canada, the CFL's Nov. 7 release lists TSN1, TSN3, TSN4, CTV, RDS and Crave for the Grey Cup, and CFL+ internationally. Tickets are available at Ticketmaster, the CFL says.
 
 In the United States, the CFL says select games air on CBS Sports Network and the rest stream on CFL+. The CFL's Nov. 7 release lists CFL+ for the Grey Cup internationally and names no U.S. TV channel for it.
 

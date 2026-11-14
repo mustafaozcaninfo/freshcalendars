@@ -1,17 +1,17 @@
 ---
-title: "Coming to Peacock November 2026: The Good Daughter on Nov. 12"
-description: "Peacock lists The Good Daughter for Nov. 12, Nelly & Ashanti season 2 for Nov. 19 and Dig for Nov. 23, 2026. Dates by weekday, plus a free printable."
+title: "Coming to Peacock November 2026: Nelly & Ashanti Nov. 19, Dig Nov. 23"
+description: "Peacock lists Nelly & Ashanti season 2 for Nov. 19 and Dig for Nov. 23, 2026, after The Good Daughter on Nov. 12. Dates by weekday, plus a free printable."
 type: news
 publishedAt: "2026-10-29T21:39:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T01:14:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Peacock November 2026", "Peacock November 2026", "what's coming to Peacock November 2026", "Dig Peacock release date", "The Good Daughter Peacock release date"]
 assets:
   overlay: true
   kicker: "Peacock · November 2026"
-  date: "2026-11-12"
-  card: { top: "The Good Daughter on Peacock", big: "Thu., Nov. 12", bottom: "Dig follows on Mon., Nov. 23" }
+  date: "2026-11-19"
+  card: { top: "Nelly & Ashanti season 2 on Peacock", big: "Thu., Nov. 19", bottom: "Dig follows on Mon., Nov. 23" }
   printable:
     slug: peacock-november-2026-watch-calendar
     group: peacock-2026
@@ -41,7 +41,7 @@ assets:
 hero:
   src: ../../../../assets/news/new-on-peacock-november-2026-release-dates/new-on-peacock-november-2026-release-dates.webp
   alt: "New on Peacock November 2026: a flat-screen television on a living room shelf"
-  caption: "A flat-screen TV at home (file photo). Peacock's November 2026 list starts Nov. 1 and dates The Good Daughter for Thu., Nov. 12 and Dig for Mon., Nov. 23."
+  caption: "A flat-screen TV at home (file photo). Peacock's November 2026 list dates Nelly & Ashanti season 2 for Thu., Nov. 19 and Dig for Mon., Nov. 23."
   credit: "Photo: EvanProdromou / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -49,13 +49,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:A_flat-screen_television.jpg"
     author: "EvanProdromou"
 summary:
-  - "Peacock's November 2026 list puts The Good Daughter (six episodes) on Thursday, Nov. 12, Nelly & Ashanti: We Belong Together season 2 on Thursday, Nov. 19 and Dig (10 episodes) on Monday, Nov. 23."
-  - "All three are Peacock Originals released as binge-drops, with every episode available on the first day."
-  - "NBC and Bravo shows stream on Peacock the day after they air; Peacock lists The Fall and Rise of Reggie Dinkins and St. Denis Medical for Tuesday, Nov. 3."
-  - "NBC Insider lists five Sunday Night Football games in November at 8:20 p.m. Eastern Time (ET), plus the Chiefs at Bills game on Thanksgiving night, Thursday, Nov. 26. The Nov. 1 game ended Commanders 27, Eagles 10, per NFL.com."
+  - "Peacock's November 2026 list put The Good Daughter (six episodes) on Thursday, Nov. 12 and dates Nelly & Ashanti: We Belong Together season 2 for Thursday, Nov. 19 and Dig (10 episodes) for Monday, Nov. 23."
+  - "All three are Peacock Originals released as binge-drops, with every episode available on the first day. The Good Daughter arrived Nov. 12."
+  - "NBC and Bravo shows stream on Peacock the day after they air; Peacock listed The Fall and Rise of Reggie Dinkins and St. Denis Medical for Tuesday, Nov. 3."
+  - "NBC Insider lists five Sunday Night Football games in November at 8:20 p.m. Eastern Time (ET), plus the Chiefs at Bills game on Thanksgiving night, Thursday, Nov. 26. The Nov. 1 game ended Commanders 27, Eagles 10, per NFL.com. The Steelers at Bengals game is Sunday, Nov. 15."
 faq:
   - q: "When does The Good Daughter come out on Peacock?"
-    a: "Peacock lists The Good Daughter, a six-episode Peacock Original, for Thursday, Nov. 12, 2026, with all episodes released that day."
+    a: "Peacock listed The Good Daughter, a six-episode Peacock Original, for Thursday, Nov. 12, 2026, with all episodes released that day."
   - q: "When does Dig premiere on Peacock?"
     a: "Peacock lists Dig, a 10-episode Peacock Original created by Amy Poehler and Mike Schur, for Monday, Nov. 23, 2026, as a binge-drop."
   - q: "When does Nelly & Ashanti: We Belong Together season 2 start?"
@@ -68,7 +68,7 @@ sources:
   - title: "What's New on Peacock in November 2026: Dig, The Good Daughter, & More"
     url: "https://www.peacocktv.com/blog/what-to-watch-new-on-peacock"
     publisher: "Peacock"
-    date: "2026-10-27"
+    date: "2026-11-14"
   - title: "How much does a Peacock subscription cost?"
     url: "https://www.peacocktv.com/help/article/how-much-does-a-peacock-subscription-cost"
     publisher: "Peacock Help"
@@ -76,6 +76,10 @@ sources:
     url: "https://www.nfl.com/schedules/2026/REG8"
     publisher: "NFL.com"
     date: "2026-11-01"
+  - title: "NFL schedule, 2026 Week 10"
+    url: "https://www.nfl.com/schedules/2026/REG10"
+    publisher: "NFL.com"
+    date: "2026-11-14"
   - title: "Sunday Night Football Full 2026-2027 Schedule of Games"
     url: "https://www.nbc.com/nbc-insider/nfl-sunday-night-football-schedule-2026-2027"
     publisher: "NBC Insider"
@@ -108,11 +112,11 @@ draft: false
 
 **Peacock's "What's New on Peacock in November 2026" post, updated Oct. 27, 2026, dates "The Good Daughter" for Thursday, Nov. 12, "Nelly & Ashanti: We Belong Together" season 2 for Thursday, Nov. 19 and "Dig" for Monday, Nov. 23.** The table below puts every dated title from that post in weekday order, and a free printable watch calendar follows it.
 
-<p class="callout"><b>Checked Oct. 29, 2026.</b> Peacock's page says content availability may vary over time. Confirm a title on Peacock before you plan a watch night.</p>
+Peacock's page says content availability may vary over time, so confirm a title on Peacock before you plan a watch night.
 
 ## What are the big Peacock releases in November 2026?
 
-Peacock's key takeaways name three releases, and all three are Peacock Originals released as binge-drops.
+Peacock's key takeaways name three releases, and all three are Peacock Originals released as binge-drops. The first, The Good Daughter, arrived Thursday, Nov. 12.
 
 | Date | Title | What Peacock says |
 |---|---|---|
@@ -149,7 +153,7 @@ This table follows the movie and show lists in Peacock's post and adds the weekd
 | Thursday, Nov. 26 | M3GAN 2.0; M3GAN 2.0 (Unrated) |
 | Friday, Nov. 27 | 100th Annual Macy's Thanksgiving Day Parade (NBC simulcast); The National Dog Show special (NBC simulcast); Shop What Happens, premiere; Love Knocked, premiere |
 
-Peacock's list gives no premiere time for the three Originals, so none is stated here. The post also lists "Purina's Incredible Dog Challenge 2026" twice, as a finale on Nov. 30 and as a live event on Nov. 29, so that title is left out of the table.
+Peacock's list, which still read "updated Oct. 27" when re-read on Nov. 14, gives no premiere time for the three Originals, so none is stated here. The post also lists "Purina's Incredible Dog Challenge 2026" twice, as a finale on Nov. 30 and as a live event on Nov. 29, so that title is left out of the table.
 
 ## Which NBC and Bravo shows stream on Peacock the next day?
 
@@ -169,8 +173,8 @@ NBC Insider's "Sunday Night Football Full 2026-2027 Schedule of Games," updated 
 | Date | Game | Kickoff |
 |---|---|---|
 | Sunday, Nov. 1 | Philadelphia Eagles at Washington Commanders | 8:20 p.m. ET; played, Commanders 27, Eagles 10 |
-| Sunday, Nov. 8 | Tampa Bay Buccaneers at Chicago Bears | 8:20 p.m. ET |
-| Sunday, Nov. 15 | Pittsburgh Steelers at Cincinnati Bengals | 8:20 p.m. ET |
+| Sunday, Nov. 8 | Tampa Bay Buccaneers at Chicago Bears | 8:20 p.m. ET; played |
+| Sunday, Nov. 15 | Pittsburgh Steelers at Cincinnati Bengals | 8:20 p.m. ET, confirmed on NFL.com's Week 10 page |
 | Sunday, Nov. 22 | Minnesota Vikings vs. San Francisco 49ers, NFL International Game in Mexico City | 8:20 p.m. ET |
 | Thursday, Nov. 26 | Kansas City Chiefs at Buffalo Bills, Thanksgiving night | 8:20 p.m. ET |
 | Sunday, Nov. 29 | New England Patriots at Los Angeles Chargers | 8:20 p.m. ET |

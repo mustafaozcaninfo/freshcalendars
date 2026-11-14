@@ -12,27 +12,28 @@ assets:
   scene: money
   kicker: "Sales tax holidays 2026"
   date: "2026-11-27"
-  card: { top: "Black Friday", big: "Fri., Nov. 27", bottom: "No general tax holiday listed" }
+  card: { top: "Black Friday", big: "Fri., Nov. 27", bottom: "No general holiday; Florida has one" }
   printable:
     slug: before-you-shop-sales-tax-checklist-2026
     group: black-friday-2026
     title: "Before You Shop: Sales Tax Checklist, Nov. 27 to 30, 2026"
     subtitle: "Check your state's rules before Black Friday and Cyber Monday"
     notesLabel: "State revenue department web address, notes"
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - { when: "Before", what: "Open your state revenue department website and look for sales tax holidays", section: "Check" }
       - { when: "Before", what: "Check whether any holiday covers only certain items", section: "Check" }
+      - { when: "Through Dec. 31", what: "Florida: listed hunting, fishing and camping items under price caps are tax-free, online too", section: "Check" }
       - { when: "Fri., Nov. 27", what: "Compare the total with tax, not only the sticker price", section: "Shop" }
       - { when: "Mon., Nov. 30", what: "Check the tax line on online orders before you pay", section: "Shop" }
       - { when: "After", what: "Keep receipts and order confirmations", section: "Keep" }
-    note: "Source: Institute on Taxation and Economic Policy, Which States Have Sales Tax Holidays in 2026? (Aug. 6, 2026). Tips are general; check your state revenue department."
+    note: "Sources: Institute on Taxation and Economic Policy (Aug. 6, 2026); Florida Department of Revenue (checked Nov. 13, 2026). Tips are general; check your state revenue department."
     description: "One-page checklist for Black Friday, Nov. 27, and Cyber Monday, Nov. 30, 2026: check your state's sales tax rules, compare totals with tax and keep receipts."
     alt: "Printable before you shop sales tax checklist for Black Friday and Cyber Monday 2026"
 hero:
   src: ../../../../assets/news/black-friday-cyber-monday-2026-sales-tax-holiday/black-friday-cyber-monday-2026-sales-tax-holiday.jpg
   alt: "Black Friday Cyber Monday 2026 sales tax holiday illustration: money beside a calendar card for Friday, Nov. 27"
-  caption: "Black Friday is Nov. 27 and Cyber Monday is Nov. 30, 2026; the ITEP list shows no general state sales tax holiday on either day."
+  caption: "Black Friday is Nov. 27 and Cyber Monday is Nov. 30, 2026; the ITEP list shows no general state sales tax holiday on either day. Florida's hunting, fishing and camping holiday covers both days for listed items."
 summary:
   - "The Institute on Taxation and Economic Policy (ITEP) lists 20 states with sales tax holidays in 2026, almost all in summer for back-to-school shopping."
   - "None of them is a general late-November or Thanksgiving weekend holiday, so the list shows no general state holiday on Black Friday (Nov. 27) or Cyber Monday (Nov. 30)."
@@ -74,14 +75,6 @@ downloads:
     alt: "Printable before you shop sales tax checklist for Black Friday and Cyber Monday 2026"
     pdf: "/news/downloads/black-friday-2026/before-you-shop-sales-tax-checklist-2026.pdf"
     png: "/news/downloads/black-friday-2026/before-you-shop-sales-tax-checklist-2026.png"
-    pages: 1
-  - group: "Before You Shop printables"
-    title: "Before You Shop: Sales Tax Checklist, Nov. 27 to 30, 2026 (ink saver)"
-    description: "One-page checklist for Black Friday, Nov. 27, and Cyber Monday, Nov. 30, 2026: check your state's sales tax rules, compare totals with tax and keep receipts. Ink-saver version."
-    preview: ../../../../assets/news/black-friday-2026/before-you-shop-sales-tax-checklist-2026-ink.png
-    alt: "Printable before you shop sales tax checklist for Black Friday and Cyber Monday 2026, ink-saver version"
-    pdf: "/news/downloads/black-friday-2026/before-you-shop-sales-tax-checklist-2026-ink.pdf"
-    png: "/news/downloads/black-friday-2026/before-you-shop-sales-tax-checklist-2026-ink.png"
     pages: 1
 draft: false
 ---
