@@ -3,25 +3,25 @@ title: "FPL Deadlines 2026/27: Gameweek 11 Is Nov. 21, 6 a.m. ET"
 description: "The next Fantasy Premier League (FPL) deadline is Gameweek 11, Sat., Nov. 21, 2026, at 6 a.m. ET. All 38 gameweeks in UK time and ET, plus chip dates."
 type: news
 publishedAt: "2026-10-31T05:45:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T01:25:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
-keywords: ["fpl deadline", "fpl gameweek 10 deadline", "fantasy premier league deadlines 2026/27", "fpl deadline time", "fpl chip deadline gameweek 19"]
+keywords: ["fpl deadline", "fpl gameweek 11 deadline", "fantasy premier league deadlines 2026/27", "fpl deadline time", "fpl chip deadline gameweek 19"]
 dateline: "London"
 assets:
   overlay: true
   kicker: "Fantasy Premier League · 2026/27"
-  date: "2026-11-06"
-  card: { top: "Next FPL deadline: Gameweek 10", big: "1:30 p.m. ET", bottom: "Fri., Nov. 6 · 6:30 p.m. in the UK" }
+  date: "2026-11-21"
+  card: { top: "Next FPL deadline: Gameweek 11", big: "6 a.m. ET", bottom: "Sat., Nov. 21 · 11 a.m. in the UK" }
   printable:
     slug: fpl-deadline-tracker-2026-27
     group: fpl-2026-27
-    title: "FPL Deadline Tracker 2026/27, Gameweeks 10 to 38"
-    subtitle: "Gameweek 10 on, in UK and U.S. Eastern time, with a tick box"
+    title: "FPL Deadline Tracker 2026/27, Gameweeks 11 to 38"
+    subtitle: "Gameweek 11 on, in UK and U.S. Eastern time, with a tick box"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     layout: list
     year: 2026
     rows:
-      - ["Fri., Nov. 6", "Gameweek 10: 6:30 p.m. UK / 1:30 p.m. ET"]
       - ["Sat., Nov. 21", "Gameweek 11: 11:00 a.m. UK / 6:00 a.m. ET"]
       - ["Fri., Nov. 27", "Gameweek 12: 6:30 p.m. UK / 1:30 p.m. ET"]
       - ["Tue., Dec. 1", "Gameweek 13: 6:30 p.m. UK / 1:30 p.m. ET"]
@@ -50,15 +50,14 @@ assets:
       - ["May 15, 2027", "Sat. Gameweek 36: 1:30 p.m. UK / 8:30 a.m. ET (provisional)"]
       - ["May 23, 2027", "Sun. Gameweek 37: 1:30 p.m. UK / 8:30 a.m. ET (provisional)"]
       - ["May 30, 2027", "Sun. Gameweek 38: 2:30 p.m. UK / 9:30 a.m. ET (provisional)"]
-    note: "Source: Fantasy Premier League game data (checked Oct. 31, 2026); Premier League, What's happening with FPL chips in 2026/27 (Jul. 20, 2026). Gameweeks 1 to 9 are left off. Gameweek 20 on is provisional until live TV picks are set. ET times worked out by Fresh Calendars."
-    inkSaver: true
-    description: "One-page tracker with the Fantasy Premier League gameweek deadlines from Gameweek 10 to 38 in 2026/27, in UK and U.S. Eastern time, with a tick box."
-    alt: "Printable Fantasy Premier League deadline tracker for 2026/27 listing gameweek deadlines 10 to 38 in UK and Eastern time"
+    note: "Source: Fantasy Premier League game data (checked Nov. 14, 2026); Premier League, What's happening with FPL chips in 2026/27 (Jul. 20, 2026). Gameweeks 1 to 10 are left off. Gameweek 20 on is provisional until live TV picks are set. ET times worked out by Fresh Calendars."
+    description: "One-page tracker with the Fantasy Premier League gameweek deadlines from Gameweek 11 to 38 in 2026/27, in UK and U.S. Eastern time, with a tick box."
+    alt: "Printable Fantasy Premier League deadline tracker for 2026/27 listing gameweek deadlines 11 to 38 in UK and Eastern time"
 hero:
   src: ../../../../assets/news/fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates/fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates.webp
   alt: "Old Trafford stands and pitch, file photo for FPL deadlines 2026/27 by gameweek"
   title: "FPL deadlines 2026/27"
-  caption: "File photo of Old Trafford. The next Fantasy Premier League deadline is Gameweek 10 on Friday, Nov. 6, 2026, at 6:30 p.m. GMT."
+  caption: "File photo of Old Trafford. The next Fantasy Premier League deadline is Gameweek 11 on Saturday, Nov. 21, 2026, at 11 a.m. GMT."
   credit: "Photo: Stacey MacNaught / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -66,13 +65,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Old_Trafford_(interior),_Manchester_United.jpg"
     author: "Stacey MacNaught"
 summary:
-  - "The next Fantasy Premier League (FPL) deadline is Gameweek 10 on Friday, Nov. 6, 2026, at 6:30 p.m. Greenwich Mean Time (GMT), which is 1:30 p.m. Eastern Time (ET), per the official game data."
-  - "Gameweek 11 closes on Saturday, Nov. 21 at 11 a.m. GMT (6 a.m. ET), 15 days after Gameweek 10, with no deadline listed in between."
+  - "The next Fantasy Premier League (FPL) deadline is Gameweek 11 on Saturday, Nov. 21, 2026, at 11 a.m. Greenwich Mean Time (GMT), which is 6 a.m. Eastern Time (ET), per the official game data."
+  - "Gameweek 11 comes 15 days after the Gameweek 10 deadline on Nov. 6, with no deadline listed in between; Gameweek 12 follows on Friday, Nov. 27 at 6:30 p.m. GMT (1:30 p.m. ET)."
   - "The Premier League says each manager gets a Wildcard, Free Hit, Triple Captain and Bench Boost in each half of the season, and the first set must be used before the Gameweek 19 deadline, now listed as Friday, Jan. 1, 2027, 6:30 p.m. GMT (1:30 p.m. ET)."
   - "Deadlines from Gameweek 20 on are provisional and can move when live television picks are announced."
 faq:
-  - q: "What time is the FPL Gameweek 10 deadline?"
-    a: "Friday, Nov. 6, 2026 at 6:30 p.m. GMT in the UK, which is 1:30 p.m. ET, according to the official Fantasy Premier League game data. The game's data lists the first Gameweek 10 kickoff 90 minutes later."
+  - q: "What time is the FPL Gameweek 11 deadline?"
+    a: "Saturday, Nov. 21, 2026 at 11 a.m. GMT in the UK, which is 6 a.m. ET, according to the official Fantasy Premier League game data. The game's data lists the first Gameweek 11 kickoff, Manchester City v Fulham, 90 minutes later at 12:30 p.m. GMT."
   - q: "When is the FPL Gameweek 19 chip deadline?"
     a: "The game's data lists the Gameweek 19 deadline as Friday, Jan. 1, 2027 at 6:30 p.m. GMT (1:30 p.m. ET). A Premier League article from Jul. 20, 2026 gave an earlier provisional time of 13:30 GMT on Saturday 2 January. Check the deadline shown in the game before you plan a chip."
   - q: "How many FPL chips do you get in 2026/27?"
@@ -83,11 +82,11 @@ sources:
   - title: "Fantasy Premier League game data: gameweek deadlines (bootstrap-static)"
     url: "https://fantasy.premierleague.com/api/bootstrap-static/"
     publisher: "Fantasy Premier League"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "Fantasy Premier League game data: fixtures"
     url: "https://fantasy.premierleague.com/api/fixtures/"
     publisher: "Fantasy Premier League"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "What's happening with FPL chips in 2026/27"
     url: "https://www.premierleague.com/en/news/4679879/whats-happening-with-fpl-chips-in-202627"
     publisher: "Premier League"
@@ -112,42 +111,34 @@ internalLinks:
 related: [premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5, premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv]
 downloads:
   - group: "FPL Deadline Tracker 2026/27 printables"
-    title: "FPL Deadline Tracker 2026/27, Gameweeks 10 to 38"
-    description: "One-page tracker with the Fantasy Premier League gameweek deadlines from Gameweek 10 to 38 in 2026/27, in UK and U.S. Eastern time, with a tick box."
+    title: "FPL Deadline Tracker 2026/27, Gameweeks 11 to 38"
+    description: "One-page tracker with the Fantasy Premier League gameweek deadlines from Gameweek 11 to 38 in 2026/27, in UK and U.S. Eastern time, with a tick box."
     preview: ../../../../assets/news/fpl-2026-27/fpl-deadline-tracker-2026-27.png
-    alt: "Printable Fantasy Premier League deadline tracker for 2026/27 listing gameweek deadlines 10 to 38 in UK and Eastern time"
+    alt: "Printable Fantasy Premier League deadline tracker for 2026/27 listing gameweek deadlines 11 to 38 in UK and Eastern time"
     pdf: "/news/downloads/fpl-2026-27/fpl-deadline-tracker-2026-27.pdf"
     png: "/news/downloads/fpl-2026-27/fpl-deadline-tracker-2026-27.png"
-    pages: 1
-  - group: "FPL Deadline Tracker 2026/27 printables"
-    title: "FPL Deadline Tracker 2026/27, Gameweeks 10 to 38 (ink saver)"
-    description: "One-page tracker with the Fantasy Premier League gameweek deadlines from Gameweek 10 to 38 in 2026/27, in UK and U.S. Eastern time, with a tick box. Ink-saver version."
-    preview: ../../../../assets/news/fpl-2026-27/fpl-deadline-tracker-2026-27-ink.png
-    alt: "Printable Fantasy Premier League deadline tracker for 2026/27 listing gameweek deadlines 10 to 38 in UK and Eastern time, ink-saver version"
-    pdf: "/news/downloads/fpl-2026-27/fpl-deadline-tracker-2026-27-ink.pdf"
-    png: "/news/downloads/fpl-2026-27/fpl-deadline-tracker-2026-27-ink.png"
     pages: 1
 draft: false
 ---
 
-**After Saturday's Gameweek 9 deadline, the next Fantasy Premier League (FPL) deadline is Gameweek 10 on Friday, Nov. 6, 2026, at 6:30 p.m. Greenwich Mean Time (GMT), which is 1:30 p.m. Eastern Time (ET), per the official FPL game data.** The Gameweek 9 deadline was Saturday, Oct. 31, at 11 a.m. GMT (7 a.m. ET), and that round ends with a Monday, Nov. 2 kickoff at 8 p.m. GMT. Below is the full 38-gameweek deadline table in UK time and ET, with the later deadlines marked provisional, then the chip rules and a printable tracker.
+**The next Fantasy Premier League (FPL) deadline is Gameweek 11 on Saturday, Nov. 21, 2026, at 11 a.m. Greenwich Mean Time (GMT), which is 6 a.m. Eastern Time (ET), per the official FPL game data.** The Gameweek 10 deadline was Friday, Nov. 6, at 6:30 p.m. GMT (1:30 p.m. ET), and Gameweek 9 closed on Saturday, Oct. 31, at 11 a.m. GMT (7 a.m. ET). Below is the full 38-gameweek deadline table in UK time and ET, with the later deadlines marked provisional, then the chip rules and a printable tracker.
 
 ## When are the next FPL deadlines?
 
-Gameweek 10 is the next deadline. The international break shows up as the gap before Gameweek 11: 15 days with no deadline listed.
+Gameweek 11 is the next deadline. The international break shows up as the gap after Gameweek 10: 15 days with no deadline listed.
 
 | Gameweek | Day | UK time | ET |
 |---|---|---|---|
-| 10 | Fri., Nov. 6 | 6:30 p.m. GMT | 1:30 p.m. |
 | 11 | Sat., Nov. 21 | 11 a.m. GMT | 6 a.m. |
 | 12 | Fri., Nov. 27 | 6:30 p.m. GMT | 1:30 p.m. |
 | 13 (midweek) | Tue., Dec. 1 | 6:30 p.m. GMT | 1:30 p.m. |
+| 14 | Sat., Dec. 5 | 11 a.m. GMT | 6 a.m. |
 
-Source: official FPL game data, read Oct. 31, 2026. ET times were worked out by Fresh Calendars. Players who also follow the matches can use the [Premier League fixtures for this weekend](/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/) for kick-off times and channels.
+Source: official FPL game data, read Nov. 14, 2026. ET times were worked out by Fresh Calendars. Players who also follow the matches can use the [Premier League fixtures for this weekend](/news/premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv/) for kick-off times and channels.
 
 ## Every FPL gameweek deadline for 2026/27 in UK time and ET
 
-The table covers all 38 gameweeks, from the game's deadline data. UK times are Europe/London local time: British Summer Time (BST) until Oct. 25, 2026, then GMT until the UK clocks change again. ET times are Eastern Daylight Time until Nov. 1, then Eastern Standard Time until the U.S. clocks change again. "Passed" means the deadline came before Nov. 2, "Listed" means the game shows it and "Provisional" is explained in the next section.
+The table covers all 38 gameweeks, from the game's deadline data. UK times are Europe/London local time: British Summer Time (BST) until Oct. 25, 2026, then GMT until the UK clocks change again. ET times are Eastern Daylight Time until Nov. 1, then Eastern Standard Time until the U.S. clocks change again. "Passed" means the deadline came before Nov. 14, "Listed" means the game shows it and "Provisional" is explained in the next section.
 
 | Gameweek | Deadline, UK time | Deadline, ET | Status |
 |---|---|---|---|
@@ -160,7 +151,7 @@ The table covers all 38 gameweeks, from the game's deadline data. UK times are E
 | 7 | Sat., Oct. 17, 11:00 a.m. | 6:00 a.m. | Passed |
 | 8 | Fri., Oct. 23, 6:30 p.m. | 1:30 p.m. | Passed |
 | 9 | Sat., Oct. 31, 11:00 a.m. | 7:00 a.m. | Passed |
-| 10 | Fri., Nov. 6, 6:30 p.m. | 1:30 p.m. | Listed |
+| 10 | Fri., Nov. 6, 6:30 p.m. | 1:30 p.m. | Passed |
 | 11 | Sat., Nov. 21, 11:00 a.m. | 6:00 a.m. | Listed |
 | 12 | Fri., Nov. 27, 6:30 p.m. | 1:30 p.m. | Listed |
 | 13 | Tue., Dec. 1, 6:30 p.m. | 1:30 p.m. | Listed |
@@ -194,7 +185,7 @@ Every gameweek in the data has 10 fixtures covering all 20 teams, and no gamewee
 
 ## How long before kickoff is the FPL deadline?
 
-In every gameweek checked, the deadline is exactly 90 minutes before the first kickoff in the game's data. The Gameweek 10 deadline of 6:30 p.m. GMT sits before an 8 p.m. GMT start for the first match, Everton v Coventry City on Friday, Nov. 6. If the Premier League moves the first match of a gameweek, the deadline follows it in the game.
+In every gameweek checked, the deadline is exactly 90 minutes before the first kickoff in the game's data. The Gameweek 11 deadline of 11 a.m. GMT sits before a 12:30 p.m. GMT start for the first match, Manchester City v Fulham on Saturday, Nov. 21. If the Premier League moves the first match of a gameweek, the deadline follows it in the game.
 
 ## Which FPL deadlines are provisional?
 
@@ -210,15 +201,15 @@ The Premier League's article of Jul. 20, 2026 says managers have two sets of chi
 |---|---|
 | Chips per half | Wildcard, Free Hit, Triple Captain, Bench Boost (Premier League, Jul. 20, 2026) |
 | First-half chips end | Before the Gameweek 19 deadline |
-| Gameweek 19 deadline now | Fri., Jan. 1, 2027, 6:30 p.m. GMT, 1:30 p.m. ET (game data, Oct. 31, 2026) |
+| Gameweek 19 deadline now | Fri., Jan. 1, 2027, 6:30 p.m. GMT, 1:30 p.m. ET (game data, Nov. 14, 2026) |
 | Gameweek 19 deadline in July | 13:30 GMT on Saturday 2 January, which is 8:30 a.m. ET (Premier League, Jul. 20, 2026) |
 
 The July article gave the earlier provisional time. The game's data now lists Friday, Jan. 1 at 6:30 p.m. GMT after the television picks for that round, so the first-half chips run to that deadline and not the earlier one. Check the deadline in the game's own display before you hold a chip.
 
 ## Why do the UK and US deadline times differ by 4 or 5 hours?
 
-Both countries change their clocks on different dates, so the gap moves. The Gameweek 9 deadline on Oct. 31 was 11 a.m. GMT and 7 a.m. ET, a 4-hour gap, while the Gameweek 10 deadline on Nov. 6 is 6:30 p.m. GMT and 1:30 p.m. ET, a 5-hour gap. In the spring, the table shows the Gameweek 30 deadline on Mar. 20, 2027 as 1:30 p.m. UK and 9:30 a.m. ET, a 4-hour gap, and Gameweek 31 on Apr. 10 as 1:30 p.m. UK and 8:30 a.m. ET, a 5-hour gap. Midweek rounds also fall in the data: Gameweeks 13, 18 and 20 close on Tuesdays and Gameweeks 25 and 28 on Wednesdays.
+Both countries change their clocks on different dates, so the gap moves. The Gameweek 9 deadline on Oct. 31 was 11 a.m. GMT and 7 a.m. ET, a 4-hour gap, while the Gameweek 10 deadline on Nov. 6 was 6:30 p.m. GMT and 1:30 p.m. ET, a 5-hour gap. The Gameweek 11 deadline on Nov. 21 is 11 a.m. GMT and 6 a.m. ET, also a 5-hour gap. In the spring, the table shows the Gameweek 30 deadline on Mar. 20, 2027 as 1:30 p.m. UK and 9:30 a.m. ET, a 4-hour gap, and Gameweek 31 on Apr. 10 as 1:30 p.m. UK and 8:30 a.m. ET, a 5-hour gap. Midweek rounds also fall in the data: Gameweeks 13, 18 and 20 close on Tuesdays and Gameweeks 25 and 28 on Wednesdays.
 
 ## Is there a printable FPL deadline tracker?
 
-Yes. The one-page printable lists the 29 deadlines from Gameweek 10 to Gameweek 38 in UK time and ET with a tick box for each, and marks Gameweek 20 on as provisional. Gameweeks 1 to 9 are left off. It sits well beside the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html). For the cup and European dates that share these weeks, see the [Champions League November schedule](/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/) and the [FA Cup first round fixtures](/news/fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times/).
+Yes. The one-page printable lists the 28 deadlines from Gameweek 11 to Gameweek 38 in UK time and ET with a tick box for each, and marks Gameweek 20 on as provisional. Gameweeks 1 to 10 are left off. It sits well beside the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html). For the cup and European dates that share these weeks, see the [Champions League November schedule](/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/) and the [FA Cup first round fixtures](/news/fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times/).

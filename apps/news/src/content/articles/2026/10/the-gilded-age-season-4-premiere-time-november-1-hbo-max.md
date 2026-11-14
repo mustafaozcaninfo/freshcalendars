@@ -93,7 +93,7 @@ draft: false
 
 The next episode of The Gilded Age Season 4, episode 3, airs Sunday, Nov. 15, 2026, on HBO, with episode 4 on Sunday, Nov. 22, according to the weekly schedule published by Brit + Co and Dexerto. HBO's release gave 9 p.m. ET/PT for the Nov. 1 premiere. The outlets list dates only, so check the HBO Max app or your HBO guide for the Nov. 15 start time.
 
-The season premiered Sunday, Nov. 1, 2026, at 9 p.m. Eastern Time (ET) and Pacific Time (PT) on HBO, and it streams on HBO Max. HBO's Oct. 13, 2026 release calls it an eight-episode fourth season from creator Julian Fellowes. Below are the full weekly schedule, the premiere time by U.S. time zone, the other HBO dates in November 2026 and what HBO Max costs. The premiere and the other dates are also on a one-page printable.
+The season premiered Sunday, Nov. 1, 2026, at 9 p.m. Eastern Time (ET) and Pacific Time (PT) on HBO, and it streams on HBO Max. HBO's Oct. 13, 2026 release calls it an eight-episode fourth season from creator Julian Fellowes. Below are the full weekly schedule, the premiere time by U.S. time zone, the other HBO dates in November 2026 and what HBO Max costs. The dates from Nov. 15 to 29 are also on a one-page printable.
 
 ## When do the remaining Gilded Age Season 4 episodes air?
 
@@ -154,4 +154,4 @@ The HBO Max homepage, read Oct. 30, 2026, lists three plans.
 
 ## Print the HBO November 2026 premiere calendar
 
-The printable puts the four HBO dates on one US Letter page. Pair it with a [November 2026 printable calendar](/november-calendars.html), or plan each viewing night on the [printable weekly calendar](/printable-weekly-calendar.html). For other services, see [new on Peacock in November 2026](/news/new-on-peacock-november-2026-release-dates/), [Prime Video's November 2026 list](/news/new-on-prime-video-november-2026-rings-of-power-season-3/) and [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/).
+The printable puts the five dates from Nov. 15 to 29, three Gilded Age episodes and two documentaries, on one US Letter page. Pair it with a [November 2026 printable calendar](/november-calendars.html), or plan each viewing night on the [printable weekly calendar](/printable-weekly-calendar.html). For other services, see [new on Peacock in November 2026](/news/new-on-peacock-november-2026-release-dates/), [Prime Video's November 2026 list](/news/new-on-prime-video-november-2026-rings-of-power-season-3/) and [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/).
