@@ -157,8 +157,8 @@ assets:
         - { cells: { when: "Fri., Feb. 26", what: "Cullivoe, Yell: galley taken to the marina and burned" }, src: 8 }
         - { cells: { when: "Sat., Feb. 27", what: "Norwick, Unst: procession to the beach and burning" }, src: 9 }
         - { cells: { when: "Fri., Mar. 5", what: "Bressay: torch procession, galley burned, hall dance" }, src: 10 }
-        - { cells: { when: "Fri., Mar. 12", what: "South Mainland" }, src: 21, quote: "12 Mar 2027" }
-        - { cells: { when: "Fri., Mar. 19", what: "Delting, Brae" }, src: 22, quote: "19 Mar 2027" }
+        - { cells: { when: "Fri., Mar. 12", what: "South Mainland" }, src: 19, quote: "12 Mar 2027" }
+        - { cells: { when: "Fri., Mar. 19", what: "Delting, Brae" }, src: 20, quote: "19 Mar 2027" }
       note: ["Date not yet posted on Shetland.org: Walls. Check Shetland.org before you travel."]
 downloads:
   - group: "Up Helly Aa 2027 Shetland Fire Festival Dates printables"

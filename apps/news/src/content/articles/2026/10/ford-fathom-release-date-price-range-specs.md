@@ -103,6 +103,7 @@ assets:
   kicker: "Ford Fathom · Preorders early 2027"
   card: { top: "Starting MSRP, standard-range battery", big: "$28,350", bottom: "Plus $1,595 destination" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: ford-fathom-preorder-checklist-2027
     group: ford-fathom-2027
     title: "Ford Fathom Preorder Checklist 2027"

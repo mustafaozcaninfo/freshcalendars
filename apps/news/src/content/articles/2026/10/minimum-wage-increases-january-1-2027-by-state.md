@@ -157,11 +157,11 @@ assets:
         - { cells: { place: "Rhode Island", now: "$16.00", jan: "$17.00", note: "Set in state law, +6.3%" }, src: 18 }
         - { cells: { place: "New Jersey", now: "$15.92", jan: "$16.48", note: "Most employees" }, src: 6 }
         - { cells: { place: "Colorado", now: "$15.16", jan: "$15.71", note: "Rate for 2027; tipped $12.69" }, src: 14 }
-        - { cells: { place: "Maine", now: "$15.10", jan: "$15.70", note: "+4.0%" }, src: 24, quote: "effective January 1, 2027, the state minimum wage will increase from $15.10 to $15.70 per hour" }
+        - { cells: { place: "Maine", now: "$15.10", jan: "$15.70", note: "+4.0%" }, src: 24 }
         - { cells: { place: "Arizona", now: "$15.15", jan: "$15.65", note: "Start of 2027, +3.3%" }, src: 20 }
-        - { cells: { place: "Nebraska", now: "$15.00", jan: "$15.26", note: "State schedule, +1.7%" }, src: 23, quote: "January 1, 2027 $15.26" }
+        - { cells: { place: "Nebraska", now: "$15.00", jan: "$15.26", note: "State schedule, +1.7%" }, src: 23 }
         - { cells: { place: "Michigan", now: "$13.73", jan: "$15.00", note: "Biggest rise, +9.2%" }, src: 9 }
-        - { cells: { place: "Vermont", now: "$14.42", jan: "$14.91", note: "Tipped $7.21 to $7.46" }, src: 22, quote: "Beginning January 1, 2027, the State’s minimum wage will increase from $14.42 to $14.91 per hour" }
+        - { cells: { place: "Vermont", now: "$14.42", jan: "$14.91", note: "Tipped $7.21 to $7.46" }, src: 22 }
         - { cells: { place: "Virginia", now: "$12.77", jan: "$13.75", note: "$15.00 from Jan. 1, 2028" }, src: 8 }
         - { cells: { place: "South Dakota", now: "$11.85", jan: "$12.30", note: "Tipped $5.925 to $6.15" }, src: 10 }
         - { cells: { place: "Minnesota", now: "$11.41", jan: "$11.87", note: "Training wage $9.31 to $9.68" }, src: 7 }

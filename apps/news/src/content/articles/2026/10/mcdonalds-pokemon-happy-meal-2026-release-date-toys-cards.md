@@ -12,6 +12,7 @@ assets:
   kicker: "Happy Meal · November 2026"
   card: { top: "15 toys and 15 cards", big: "November 2026", bottom: "U.S. start: Tue., Nov. 10" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: pokemon-happy-meal-2026-collector-checklist
     group: pokemon-happy-meal-2026
     title: "Pokémon Happy Meal 2026 Collector Checklist"

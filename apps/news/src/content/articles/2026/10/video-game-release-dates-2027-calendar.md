@@ -88,6 +88,7 @@ assets:
   date: "2027-01-28"
   card: { top: "Next confirmed date", big: "Fri., Jan. 15", bottom: "Stranger Than Heaven (Sega)" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: game-release-calendar-2027
     group: game-releases-2027
     title: "2027 Game Release Calendar, Confirmed Dates"

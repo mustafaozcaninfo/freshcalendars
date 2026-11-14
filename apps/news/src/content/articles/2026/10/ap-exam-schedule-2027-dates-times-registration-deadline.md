@@ -68,6 +68,7 @@ assets:
   date: "2027-05-03"
   card: { top: "2027 AP Exam schedule", big: "May 3 to 14", bottom: "$40 late order fee from Nov. 14" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: ap-exam-schedule-2027
     group: ap-exams-2027
     title: "2027 AP Exam Schedule"
