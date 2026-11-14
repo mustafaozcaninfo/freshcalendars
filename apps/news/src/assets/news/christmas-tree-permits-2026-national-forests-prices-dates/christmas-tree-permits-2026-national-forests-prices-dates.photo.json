@@ -17,5 +17,6 @@
   "output": "2400×1350",
   "cropped": false,
   "framed": true,
-  "credit": "Photo: US Forest Service / Wikimedia Commons, edited"
+  "credit": "Photo: US Forest Service / Wikimedia Commons, edited",
+  "overlay": true
 }

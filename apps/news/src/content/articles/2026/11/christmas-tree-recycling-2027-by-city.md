@@ -90,7 +90,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [christmas-new-year-trash-pickup-2026-by-city, thanksgiving-trash-pickup-2026-by-city, america-recycles-day-2026-november-15]
+related: [christmas-new-year-trash-pickup-2026-by-city, christmas-tree-permits-2026-national-forests-prices-dates, america-recycles-day-2026-november-15]
 draft: false
 assets:
   overlay: true
