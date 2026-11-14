@@ -1,0 +1,7 @@
+[
+  { "date": "2026-11-30", "label": "ABC Wonderful World of Disney: Holiday Spectacular, 8 p.m. ET" },
+  { "date": "2026-12-01", "label": "CMA Country Christmas on ABC, 9 p.m. ET" },
+  { "date": "2026-12-24", "label": "Home Alone on ABC, 8 p.m. ET" },
+  { "date": "2026-12-25", "label": "Disney Parks Magical Christmas Day Parade on ABC, 10 a.m. ET", "weight": 3 },
+  { "date": "2026-12-31", "label": "Dick Clark's New Year's Rockin' Eve on ABC, 8 p.m. ET", "weight": 2 }
+]
