@@ -1,0 +1,6 @@
+[
+  { "date": "2027-01-15", "label": "South Carolina property tax due without penalty (tax year 2026)", "weight": 3 },
+  { "date": "2027-01-16", "label": "South Carolina property tax: 3% penalty begins" },
+  { "date": "2027-02-02", "label": "South Carolina property tax: 10% total penalty begins" },
+  { "date": "2027-03-17", "label": "South Carolina property tax: 15% total penalty begins" }
+]

@@ -52,7 +52,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [fairfax-county-real-estate-tax-due-december-7-2026-loudoun, tax-calendar-2027-irs-deadlines, deadline-falls-on-weekend-rules-irs-courts-agencies]
+related: [fairfax-county-real-estate-tax-due-december-7-2026-loudoun, south-carolina-property-tax-due-january-15-2027-penalty-dates, deadline-falls-on-weekend-rules-irs-courts-agencies]
 downloads:
   - group: "LA County Property Tax 2026-27 Payment Checklist printables"
     title: "LA County Property Tax 2026-27 Payment Checklist"

@@ -69,7 +69,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [liheap-2026-27-heating-help-winter-shutoff-rules-by-state, senior-deduction-2026-6000-age-65-phase-out, la-county-property-tax-due-dates-2026-27-december-10]
+related: [kentucky-property-tax-2026-face-amount-december-31-penalty-dates, senior-deduction-2026-6000-age-65-phase-out, la-county-property-tax-due-dates-2026-27-december-10]
 assets:
   overlay: true
   kicker: "Pennsylvania · Property Tax/Rent Rebate"
