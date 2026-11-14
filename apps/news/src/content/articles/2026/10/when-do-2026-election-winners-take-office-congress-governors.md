@@ -3,6 +3,7 @@ title: "120th Congress Start Date: Jan. 3, 2027, Plus 36 Governors"
 description: "The 120th Congress begins at noon ET on Sunday, Jan. 3, 2027. The 36 governors elected Nov. 3 take office on dates set by each state, Dec. 7 to Jan. 20."
 type: explainer
 publishedAt: "2026-10-30T05:30:00-04:00"
+updatedAt: "2026-11-14T15:34:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when do 2026 election winners take office", "when do new members of congress take office 2027", "governor inauguration dates 2027", "when are governors sworn in 2027", "120th congress start date"]
@@ -65,6 +66,10 @@ sources:
   - title: "Texas Governor and Lieutenant Governor Inauguration Date"
     url: "https://ballotpedia.org/Texas_Governor_and_Lieutenant_Governor_Inauguration_Date_Amendment_(2015)"
     publisher: "Ballotpedia"
+  - title: "ORS 176.010: Commencement of term; inauguration (2025 edition)"
+    url: "https://www.oregonlegislature.gov/bills_laws/ors/ors176.html"
+    publisher: "Oregon Legislature"
+    date: "2026-11-14"
   - title: "Maryland Constitution, Article II, Section 1"
     url: "https://codes.findlaw.com/md/maryland-constitution-of-1867/md-const-art-2-sect-1/"
     publisher: "State of Maryland (via FindLaw)"
@@ -188,7 +193,7 @@ For four of the 36 states we could not confirm the 2027 term-start date on an of
 
 - **Arkansas:** not confirmed on an official source; check the state.
 - **Georgia:** the governor is sworn in before a joint session of the General Assembly, which convenes on the second Monday of January, Jan. 11, 2027; the inauguration day is set each cycle.
-- **Oregon:** not confirmed on an official source; check the state.
+- **Oregon:** state law ties the start to an event, not a date. The governor's term begins when the Speaker of the House publishes the election returns (Oregon Revised Statutes, ORS, 176.010), and the governor is inaugurated by taking the oath. We found no calendar date on an official source; check the state.
 - **Vermont:** the constitution does not fix a calendar date; check the state.
 
 ## What about the Senate special elections?

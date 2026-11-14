@@ -3,7 +3,7 @@ title: "Runoff Election 2026 Dates: Georgia Dec. 1, Louisiana Dec. 12"
 description: "Runoff election 2026 dates: Georgia and Mississippi Dec. 1 if required, Louisiana Saturday, Dec. 12. Early voting and deadlines by state, with a printable."
 type: news
 publishedAt: "2026-10-30T19:45:00-04:00"
-updatedAt: "2026-11-09T09:30:00-05:00"
+updatedAt: "2026-11-14T15:34:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["runoff election 2026 dates", "georgia runoff 2026 date", "when is the georgia runoff", "louisiana december 12 election"]
@@ -30,8 +30,6 @@ assets:
     subtitle: "Deadlines before the Dec. 1 and Dec. 12 elections"
     layout: list
     rows:
-      - ["Mon., Nov. 2", "Georgia and Mississippi: last day to register for the Dec. 1 runoff"]
-      - ["Thu., Nov. 12", "Louisiana: register in person or by mail for Dec. 12"]
       - ["Fri., Nov. 20", "Georgia: last day to request a runoff absentee ballot"]
       - ["Sat., Nov. 21", "Louisiana: last day to register online (GeauxVote)"]
       - ["Mon., Nov. 23 to Wed., Nov. 25", "Georgia: runoff early voting (shortened for Thanksgiving)"]
@@ -41,8 +39,8 @@ assets:
       - ["Tue., Dec. 8", "Louisiana: request a mail ballot; Mississippi: mail ballots due 5 p.m."]
       - ["Fri., Dec. 11", "Louisiana: mail ballot must be received"]
       - ["Sat., Dec. 12", "Louisiana: open general and special primary election day"]
-    note: "Source: georgia.gov; Louisiana Secretary of State; Mississippi Secretary of State."
-    inkSaver: true
+    note: "Source: georgia.gov; Louisiana Secretary of State; Mississippi Secretary of State, checked Nov. 14, 2026."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "Registration, mail ballot, early voting and election-day dates for the Georgia, Louisiana and Mississippi runoffs on Dec. 1 and Dec. 12, 2026."
     alt: "Printable list of 2026 runoff election dates for Georgia, Louisiana and Mississippi"
 summary:
@@ -65,7 +63,7 @@ sources:
   - title: "General Election Runoff"
     url: "https://georgia.gov/node/34091"
     publisher: "State of Georgia (georgia.gov)"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Last day to register to vote in the Runoff Election"
     url: "https://georgia.gov/events/2026-11-02/last-day-register-vote-runoff-election"
     publisher: "State of Georgia (georgia.gov)"
@@ -89,7 +87,7 @@ sources:
   - title: "Election Dates"
     url: "https://www.sos.la.gov/elections-voting/election-dates"
     publisher: "Louisiana Secretary of State"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "2026 Elections (calendar, revised 07/2026)"
     url: "https://www.sos.la.gov/media/p31j4zkc/elections-calendar-2026.pdf"
     publisher: "Louisiana Secretary of State"
@@ -165,14 +163,6 @@ downloads:
     pdf: "/news/downloads/election-2026/runoff-election-dates-2026-georgia-louisiana-mississippi.pdf"
     png: "/news/downloads/election-2026/runoff-election-dates-2026-georgia-louisiana-mississippi.png"
     pages: 1
-  - group: "2026 Runoff Election Dates printables"
-    title: "2026 Runoff Election Dates: Georgia, Louisiana, Mississippi (ink saver)"
-    description: "Registration, mail ballot, early voting and election-day dates for the Georgia, Louisiana and Mississippi runoffs on Dec. 1 and Dec. 12, 2026. Ink-saver version."
-    preview: ../../../../assets/news/election-2026/runoff-election-dates-2026-georgia-louisiana-mississippi-ink.png
-    alt: "Printable list of 2026 runoff election dates for Georgia, Louisiana and Mississippi, ink-saver version"
-    pdf: "/news/downloads/election-2026/runoff-election-dates-2026-georgia-louisiana-mississippi-ink.pdf"
-    png: "/news/downloads/election-2026/runoff-election-dates-2026-georgia-louisiana-mississippi-ink.png"
-    pages: 1
 draft: false
 ---
 
@@ -183,7 +173,7 @@ draft: false
 | Milestone | Georgia | Louisiana | Mississippi |
 |---|---|---|---|
 | Election Nov. 3 | General election | U.S. Senate General, open U.S. Representative primary | General election |
-| Register to vote | Mon., Nov. 2 | Thu., Nov. 12 (in person, by mail or at an Office of Motor Vehicles (OMV) office); Sat., Nov. 21 (online, GeauxVote) | Mon., Nov. 2 |
+| Register to vote | Mon., Nov. 2 (passed) | Thu., Nov. 12 (passed; in person, by mail or at an Office of Motor Vehicles (OMV) office); Sat., Nov. 21 (online, GeauxVote) | Mon., Nov. 2 (passed) |
 | Request a mail or absentee ballot | Fri., Nov. 20 | Tue., Dec. 8, 4:30 p.m. | Not covered here |
 | Early or in-person absentee voting | Mon., Nov. 23-Wed., Nov. 25 | Sat., Nov. 28-Sat., Dec. 5 (no Sunday, Nov. 29), 8:30 a.m. to 6 p.m. | In-person absentee ends Sat., Nov. 28 at noon |
 | Runoff or second-round day | Tue., Dec. 1 (if required) | Sat., Dec. 12, polls open 7 a.m. to 8 p.m. | Tue., Dec. 1 (if required), polls open 7 a.m. to 7 p.m. |
@@ -205,7 +195,7 @@ For this election, the Georgia Election Guide on georgia.gov lists an Oct. 5 reg
 
 ## When does Georgia certify the Nov. 3 results?
 
-The Brennan Center for Justice, in an analysis updated Oct. 13, 2026, cites Official Code of Georgia Annotated (O.C.G.A.) sections 21-2-493(k) and 21-2-499(b). It says counties certify by 5 p.m. on the Monday after the election, Nov. 9, and the Secretary of State certifies by 5 p.m. on the 17th day, Nov. 20. Our [midterm results timeline](/news/when-will-we-know-election-results-2026-midterms/) explains how counting works across states.
+The Brennan Center for Justice, in an analysis updated Oct. 13, 2026, cites Official Code of Georgia Annotated (O.C.G.A.) sections 21-2-493(k) and 21-2-499(b). It says counties must certify by 5 p.m. on the Monday after the election, Nov. 9, a deadline that has passed, and that the Secretary of State certifies by 5 p.m. on the 17th day, Nov. 20. Our [midterm results timeline](/news/when-will-we-know-election-results-2026-midterms/) explains how counting works across states.
 
 ## What is Louisiana's Dec. 12 election?
 
@@ -213,7 +203,7 @@ The Louisiana Secretary of State's Election Dates page lists Nov. 3 as "U.S. Sen
 
 | Louisiana deadline for Dec. 12 | Date |
 |---|---|
-| Register in person, by mail or at an Office of Motor Vehicles (OMV) office | Thu., Nov. 12 |
+| Register in person, by mail or at an Office of Motor Vehicles (OMV) office | Thu., Nov. 12 (passed) |
 | Register online (GeauxVote) | Sat., Nov. 21 |
 | Early voting, 8:30 a.m. to 6 p.m. | Sat., Nov. 28-Sat., Dec. 5, except Sun., Nov. 29 |
 | Request a mail ballot | Tue., Dec. 8, by 4:30 p.m. |
@@ -242,7 +232,7 @@ The Mississippi Secretary of State lists Tuesday, Dec. 1 as "General Election/Sp
 
 ## Do Texas and Alabama have general election runoffs?
 
-Texas local runoffs are called by each city, school district or other local body, so check its own page. Two cities have announced Saturday, Dec. 12, 2026 for runoffs from the Nov. 3 local elections, according to their own pages. The City of Austin lists Thursday, Nov. 12 as the last day to register, early voting in person from Monday, Nov. 30 to Tuesday, Dec. 8, and Tuesday, Dec. 1 as the last day to apply for a ballot by mail (it must be received by the early voting clerk). The Austin Chronicle reported on Nov. 4 that City Council Districts 1, 3 and 5 go to the runoff, and Austin's calendar shows the canvass of the Nov. 3 results on Nov. 17, so those pairings remain unofficial until then. The calendar schedules the canvass of the runoff results for Wednesday, Dec. 23 at 10 a.m. in Council Chambers at City Hall, and says the actual date could be earlier. The City of Corpus Christi will hold its runoff from 7:00 a.m. to 7:00 p.m. for Mayor, At-Large Council Member (two positions) and Council Member Districts 1 to 5. Its City Council canvasses the Nov. 3 results on Nov. 17, early voting for the runoff runs from Monday, Nov. 30 through Tuesday, Dec. 8, and the city says early voting and election day locations will be announced later. The City Council canvasses the runoff results on Monday, Dec. 21 at 10 a.m. in Council Chambers, the city says, and the 2026-2028 council is sworn in at 5 p.m. on Monday, Jan. 11, 2027. For other Texas cities and counties, check their own election pages. Our [Texas election calendar](/news/texas-election-calendar-2026-early-voting-dates-deadlines/) covers the state's other dates. Alabama has runoffs only in primaries, and the Alabama Secretary of State lists the 2026 primary runoff as June 16. No Alabama general election runoff appears in that calendar.
+Texas local runoffs are called by each city, school district or other local body, so check its own page. Two cities have announced Saturday, Dec. 12, 2026 for runoffs from the Nov. 3 local elections, according to their own pages. The City of Austin listed Thursday, Nov. 12, now past, as the last day to register, early voting in person from Monday, Nov. 30 to Tuesday, Dec. 8, and Tuesday, Dec. 1 as the last day to apply for a ballot by mail (it must be received by the early voting clerk). The Austin Chronicle reported on Nov. 4 that City Council Districts 1, 3 and 5 go to the runoff, and Austin's calendar shows the canvass of the Nov. 3 results on Nov. 17, so those pairings remain unofficial until then. The calendar schedules the canvass of the runoff results for Wednesday, Dec. 23 at 10 a.m. in Council Chambers at City Hall, and says the actual date could be earlier. The City of Corpus Christi will hold its runoff from 7:00 a.m. to 7:00 p.m. for Mayor, At-Large Council Member (two positions) and Council Member Districts 1 to 5. Its City Council canvasses the Nov. 3 results on Nov. 17, early voting for the runoff runs from Monday, Nov. 30 through Tuesday, Dec. 8, and the city says early voting and election day locations will be announced later. The City Council canvasses the runoff results on Monday, Dec. 21 at 10 a.m. in Council Chambers, the city says, and the 2026-2028 council is sworn in at 5 p.m. on Monday, Jan. 11, 2027. For other Texas cities and counties, check their own election pages. Our [Texas election calendar](/news/texas-election-calendar-2026-early-voting-dates-deadlines/) covers the state's other dates. Alabama has runoffs only in primaries, and the Alabama Secretary of State lists the 2026 primary runoff as June 16. No Alabama general election runoff appears in that calendar.
 
 ## Print the runoff dates
 
