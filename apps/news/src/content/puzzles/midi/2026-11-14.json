@@ -1,0 +1,537 @@
+{
+ "title": "Wine Selections",
+ "editor": "Ian Livengood",
+ "publicationDate": "2026-11-14",
+ "constructors": [
+  "Jeremy Newton"
+ ],
+ "width": 11,
+ "height": 9,
+ "cells": [
+  "E",
+  "T",
+  "C",
+  null,
+  "A",
+  "B",
+  "S",
+  null,
+  "B",
+  "L",
+  "T",
+  "B",
+  "O",
+  "A",
+  null,
+  "T",
+  "E",
+  "A",
+  null,
+  "A",
+  "M",
+  "A",
+  "B",
+  "R",
+  "R",
+  null,
+  "T",
+  "A",
+  "X",
+  "I",
+  "C",
+  "A",
+  "B",
+  null,
+  "O",
+  "P",
+  "T",
+  "I",
+  "C",
+  null,
+  "T",
+  "K",
+  "O",
+  null,
+  null,
+  null,
+  "O",
+  "R",
+  "C",
+  "H",
+  "A",
+  "R",
+  "D",
+  null,
+  null,
+  null,
+  "T",
+  "O",
+  "O",
+  null,
+  "S",
+  "P",
+  "Y",
+  "O",
+  "N",
+  null,
+  "W",
+  "A",
+  "L",
+  "T",
+  "Z",
+  "I",
+  "N",
+  null,
+  "O",
+  "I",
+  "L",
+  "I",
+  "C",
+  "E",
+  null,
+  "A",
+  "D",
+  "E",
+  null,
+  "R",
+  "N",
+  "A",
+  "G",
+  "O",
+  "D",
+  null,
+  "P",
+  "E",
+  "A",
+  null,
+  "S",
+  "E",
+  "W"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "And so forth: Abbr.",
+   "cells": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "4",
+   "text": "\"Six-pack\" muscles",
+   "cells": [
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "Sandwich often held together with a toothpick, in brief",
+   "cells": [
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Neck wrap named after a snake",
+   "cells": [
+    11,
+    12,
+    13
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Earl Grey ___",
+   "cells": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Doctors' org.",
+   "cells": [
+    19,
+    20,
+    21
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "13",
+   "text": "\"It's cold out here!\"",
+   "cells": [
+    22,
+    23,
+    24
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Wine best enjoyed while moving on a runway?",
+   "cells": [
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Sight-related",
+   "cells": [
+    34,
+    35,
+    36,
+    37,
+    38
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "Boxing match result, for short",
+   "cells": [
+    40,
+    41,
+    42
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Wine best enjoyed while touring an R.N.'s workplace?",
+   "cells": [
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Also",
+   "cells": [
+    56,
+    57,
+    58
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Secretly monitor",
+   "cells": [
+    60,
+    61,
+    62,
+    63,
+    64
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Wine best enjoyed while visiting Disney World?",
+   "cells": [
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Petroleum, e.g.",
+   "cells": [
+    74,
+    75,
+    76
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "Skating rink surface",
+   "cells": [
+    77,
+    78,
+    79
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Suffix with Gator or Power",
+   "cells": [
+    81,
+    82,
+    83
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "30",
+   "text": "Genetic messenger",
+   "cells": [
+    85,
+    86,
+    87
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "31",
+   "text": "Janus or Jupiter",
+   "cells": [
+    88,
+    89,
+    90
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "32",
+   "text": "Green morsel",
+   "cells": [
+    92,
+    93,
+    94
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "Stitch up",
+   "cells": [
+    96,
+    97,
+    98
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Recede, as a tide",
+   "cells": [
+    0,
+    11,
+    22
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Director Guillermo del ___",
+   "cells": [
+    1,
+    12,
+    23,
+    34
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Shared a ride",
+   "cells": [
+    2,
+    13,
+    24,
+    35,
+    46,
+    57,
+    68,
+    79,
+    90
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Room beneath the roof",
+   "cells": [
+    4,
+    15,
+    26,
+    37,
+    48
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Next to a sandy shore, like some hotels",
+   "cells": [
+    5,
+    16,
+    27,
+    38,
+    49,
+    60,
+    71,
+    82,
+    93
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Jazz band instrument, for short",
+   "cells": [
+    6,
+    17,
+    28
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Some patio entrances ",
+   "cells": [
+    8,
+    19,
+    30,
+    41,
+    52,
+    63,
+    74,
+    85,
+    96
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "\"so hilarious!!\"",
+   "cells": [
+    9,
+    20,
+    31,
+    42
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Bar bill",
+   "cells": [
+    10,
+    21,
+    32
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "Modest reply to \"Good work!\"",
+   "cells": [
+    29,
+    40,
+    51,
+    62
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Horse gait that's faster than a walk",
+   "cells": [
+    36,
+    47,
+    58,
+    69
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "20",
+   "text": "Sleep ___ (breathing issue)",
+   "cells": [
+    50,
+    61,
+    72,
+    83,
+    94
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "Tex-Mex order",
+   "cells": [
+    56,
+    67,
+    78,
+    89
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "The numeral 6, when rotated 180 degrees",
+   "cells": [
+    64,
+    75,
+    86,
+    97
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Hairpiece",
+   "cells": [
+    66,
+    77,
+    88
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Stick in the microwave",
+   "cells": [
+    70,
+    81,
+    92
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "What a judge interprets",
+   "cells": [
+    76,
+    87,
+    98
+   ]
+  }
+ ]
+}
