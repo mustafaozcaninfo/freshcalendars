@@ -98,7 +98,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [children-in-need-2026-date-friday-13-november-appeal-night, strictly-come-dancing-2026-final-date-19-december-remaining-weeks, the-traitors-2027-start-date-series-5-bbc]
+related: [royal-variety-performance-2026-date-itv-air-date, strictly-come-dancing-2026-final-date-19-december-remaining-weeks, children-in-need-2026-date-friday-13-november-appeal-night]
 draft: false
 ---
 
