@@ -3,6 +3,7 @@ title: "UIL State Championship Schedule 2026: 12 Finals Dec. 16-19"
 description: "The University Interscholastic League (UIL) plays 12 Texas football state finals Dec. 16-19 at AT&T Stadium. Every kickoff in CT and ET, plus a printable."
 type: news
 publishedAt: "2026-11-08T22:50:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["uil state championship schedule 2026", "uil football state championship 2026", "uil state championship tickets 2026", "texas high school football state championship 2026"]
@@ -36,23 +37,23 @@ sources:
   - title: "Football State Championships"
     url: "https://www.uiltexas.org/football/state"
     publisher: "University Interscholastic League"
-    date: "2026-11-09"
+    date: "2026-11-14"
   - title: "Football"
     url: "https://www.uiltexas.org/football"
     publisher: "University Interscholastic League"
-    date: "2026-11-09"
+    date: "2026-11-14"
   - title: "Football State Championships Spectator Information"
     url: "https://www.uiltexas.org/football/state/football-state-championships-spectator-information"
     publisher: "University Interscholastic League"
-    date: "2026-11-09"
+    date: "2026-11-14"
   - title: "2026 UIL Football State Championships: Where to Watch"
     url: "https://www.uiltexas.org/football/state/football-state-championships-broadcast-information"
     publisher: "University Interscholastic League"
-    date: "2026-11-09"
+    date: "2026-11-14"
   - title: "Results - Football State Championships"
     url: "https://www.uiltexas.org/football/state/results"
     publisher: "University Interscholastic League"
-    date: "2026-11-09"
+    date: "2026-11-14"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -70,7 +71,7 @@ assets:
     group: uil-football-state-championships-2026
     title: "UIL Football State Championships 2026 Game Schedule"
     subtitle: "AT&T Stadium, Arlington, Dec. 16-19"
-    note: "Source: University Interscholastic League, Football State Championships page, read Nov. 9, 2026. The page prints no time zone; times are read as Central Time at the stadium and Eastern Time is computed by Fresh Calendars."
+    note: "Source: University Interscholastic League, Football State Championships page, read Nov. 14, 2026. The page prints no time zone; times are read as Central Time at the stadium and Eastern Time is computed by Fresh Calendars."
     description: "Printable schedule of the 12 UIL football state championship games, Dec. 16-19, 2026, with Eastern and Central times and blank team lines."
     alt: "Printable schedule of the 12 UIL football state championship games at AT&T Stadium with Eastern and Central times and blank lines for the teams"
     data:
@@ -91,7 +92,7 @@ assets:
         - { start: "2026-12-19T19:00-06:00", title: "6A Division 1", detail: "AT&T Stadium, Arlington", airing: live, src: 1, quote: ["Saturday, December 19", "6A Division 1 | 7:00 pm"] }
       fill: { title: "Matchups once the playoffs are done", labels: ["Wednesday and Thursday matchups", "Friday and Saturday matchups", "Where I am watching"] }
       unconfirmed:
-        - { label: "Matchups in all 12 games", why: "not yet decided; the playoffs start Nov. 12" }
+        - { label: "Matchups in all 12 games", why: "not yet decided; the playoffs began Nov. 12" }
         - { label: "SeatGeek ticket sale start date", why: "not yet announced" }
 downloads:
   - group: "UIL Football State Championships 2026 Game Schedule printables"
@@ -150,7 +151,20 @@ UIL says tickets are sold through SeatGeek "once available", and the sale start 
 - General public: $20.
 - Participating school: $15, which needs a code from a participating school once the team qualifies.
 
-UIL also says tickets will not be sold onsite and no ticket offices will be open on game days.
+UIL also says tickets will not be sold onsite and no ticket offices will be open on game days. A ticket is good for all games on that day, with no re-entry, and every spectator age 1 and up needs one. All seating is general admission. Tickets are digital only: they must be shown on a mobile device, and paper or printed-at-home tickets are not accepted at the gates.
+
+## Parking and gate times at AT&T Stadium
+
+UIL's spectator page lists these game-day details:
+
+| Item | What UIL says |
+|---|---|
+| Gates | Open 1 hour before the first game of the day |
+| Parking lots | Open 1.5 hours before the first game of the day |
+| Parking price | $25 per vehicle, $50 per bus, credit card only |
+| Parking purchase | On event day only, not in advance |
+| Payments | Food, drink, parking and retail are cashless |
+| Bags | Clear bag policy applies; fans are searched and pass metal detectors |
 
 ## How to watch the UIL football state championships
 

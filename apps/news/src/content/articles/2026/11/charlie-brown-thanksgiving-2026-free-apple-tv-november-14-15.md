@@ -3,6 +3,7 @@ title: "A Charlie Brown Thanksgiving 2026: Free on Apple TV Nov. 14-15"
 description: "A Charlie Brown Thanksgiving streams free on Apple TV Sat., Nov. 14 to Sun., Nov. 15, 2026. Subscribers watch any day. A free viewing calendar is included."
 type: news
 publishedAt: "2026-11-07T17:17:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["charlie brown thanksgiving 2026", "how to watch charlie brown thanksgiving 2026 free", "is charlie brown thanksgiving on tv 2026", "peanuts specials apple tv free 2026"]
@@ -63,7 +64,7 @@ sources:
   - title: "There's no place like Apple TV for the holidays"
     url: "https://www.apple.com/tv-pr/news/2026/09/theres-no-place-like-apple-tv-for-the-holidays/"
     publisher: "Apple TV Press"
-    date: "2026-09-24"
+    date: "2026-11-14"
   - title: "Apple TV Will Stream Free Peanuts Specials This Fall"
     url: "https://www.macrumors.com/2026/09/24/apple-tv-free-peanuts-specials/"
     publisher: "MacRumors"
@@ -100,10 +101,10 @@ Apple TV Press says A Charlie Brown Thanksgiving will "stream for free Saturday,
 
 Apple's summary line says the three specials "will stream for free on October 17-18, November 14-15 and December 12-13, respectively." The weekdays below are computed from those dates. The last column is what Apple's release says about each special.
 
-| Special | Free days on Apple TV | Status on Nov. 7, 2026 | What the release says |
+| Special | Free days on Apple TV | Status on Nov. 14, 2026 | What the release says |
 |---|---|---|---|
 | It's the Great Pumpkin, Charlie Brown | Sat., Oct. 17 to Sun., Oct. 18 | Past | Streamed free on those days |
-| A Charlie Brown Thanksgiving | Sat., Nov. 14 to Sun., Nov. 15 | Upcoming, 7 days away | "Stream for free Saturday, November 14 to Sunday, November 15." |
+| A Charlie Brown Thanksgiving | Sat., Nov. 14 to Sun., Nov. 15 | Free now, through Nov. 15 | "Stream for free Saturday, November 14 to Sunday, November 15." |
 | A Charlie Brown Christmas | Sat., Dec. 12 to Sun., Dec. 13 | Upcoming | "Stream for free Saturday, December 12 to Sunday, December 13." |
 
 Outside those days the programming is for subscribers. Apple's release says it is "available to subscribers now and every day."
@@ -116,7 +117,7 @@ Two stories on this site cover the rest of the day: the [Thanksgiving 2026 TV sc
 
 ## Do you need a subscription or an account for the free days?
 
-MacRumors (Joe Rossignol, Sept. 24, 2026) and MacTrast (Chris Hauk, Nov. 2026) both report that the free window needs no subscription and runs in the Apple TV app. MacTrast lists the app on iPhone, iPad, Mac, smart TVs, Fire TV and Roku. These are news reports, not Apple's own words. Apple's release does not say whether an Apple Account sign-in is needed, and it does not give the hours when each free window starts or ends. Check the Apple TV app on Nov. 14.
+MacRumors (Joe Rossignol, Sept. 24, 2026) and MacTrast (Chris Hauk, Nov. 2026) both report that the free window needs no subscription and runs in the Apple TV app. MacTrast lists the app on iPhone, iPad, Mac, smart TVs, Fire TV and Roku. These are news reports, not Apple's own words. Apple's release does not say whether an Apple Account sign-in is needed, and it does not give the hours when each free window starts or ends. Check the Apple TV app during the Nov. 14-15 window.
 
 ## Is there a broadcast airing in 2026?
 
@@ -124,6 +125,6 @@ No Public Broadcasting Service (PBS) airing of A Charlie Brown Thanksgiving has 
 
 ## What else is new on Apple TV that weekend?
 
-Apple's release also lists a new special, "Snoopy Presents: 12 Days of Snoopy," premiering Friday, Nov. 13 on Apple TV. It is for subscribers; the release does not make it free. The next free Peanuts window is A Charlie Brown Christmas on Dec. 12-13, which sits in the [December 2026 printable calendar](/december-calendars.html) next to the rest of the month.
+Apple's release also lists a new special, "Snoopy Presents: 12 Days of Snoopy," which was set to premiere Friday, Nov. 13 on Apple TV. It is for subscribers; the release does not make it free. The next free Peanuts window is A Charlie Brown Christmas on Dec. 12-13, which sits in the [December 2026 printable calendar](/december-calendars.html) next to the rest of the month.
 
 Print the viewing calendar, mark Nov. 14-15 on the [November 2026 printable calendar](/november-calendars.html) and check the app on Nov. 14.

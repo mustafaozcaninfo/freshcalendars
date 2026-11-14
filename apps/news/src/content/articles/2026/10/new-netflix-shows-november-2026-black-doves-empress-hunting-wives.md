@@ -3,7 +3,7 @@ title: "New Netflix Shows November 2026: Black Doves Season 2 on Nov. 5"
 description: "Netflix lists Black Doves Season 2 for Thursday, Nov. 5, 2026 and four more series through Nov. 26. Dated table by weekday and a free printable watch list."
 type: news
 publishedAt: "2026-10-31T10:00:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new Netflix shows November 2026", "Black Doves season 2 release date", "The Hunting Wives season 2 release date", "The Diplomat season 4", "Netflix series November 2026"]
@@ -12,8 +12,8 @@ assets:
   scene: none
   overlay: true
   kicker: "Netflix · November 2026"
-  date: "2026-11-05"
-  card: { top: "Black Doves Season 2", big: "Thu., Nov. 5", bottom: "The Empress final season Nov. 12" }
+  date: "2026-11-19"
+  card: { top: "Next: The Altruists", big: "Thu., Nov. 19", bottom: "The Hunting Wives Season 2 Nov. 26" }
   printable:
     slug: netflix-november-2026-series
     group: netflix-november-2026
@@ -29,14 +29,14 @@ assets:
       - ["Thu., Nov. 12", "The Empress Season 3 (final season)"]
       - ["Thu., Nov. 19", "The Altruists (limited series, all 8 episodes)"]
       - ["Thu., Nov. 26", "The Hunting Wives Season 2 (Thanksgiving)"]
-    note: "Source: Netflix Tudum and Netflix Newsroom, checked Oct. 31, 2026. Dates can change."
-    inkSaver: true
+    note: "Source: Netflix Tudum and Netflix Newsroom, checked Nov. 14, 2026. Dates can change."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page Netflix series watch list for November 2026 with the release date of each series and season Netflix has dated, and a tick box for each. Free."
     alt: "Printable Netflix series watch list for November 2026 with the release date and title of each series and a tick box for each"
 hero:
   src: ../../../../assets/news/new-netflix-shows-november-2026-black-doves-empress-hunting-wives/new-netflix-shows-november-2026-black-doves-empress-hunting-wives.webp
   alt: "New Netflix shows November 2026: two television remote controls and a bowl of popcorn on a table"
-  caption: "Netflix dates Black Doves Season 2 for Nov. 5 and the final season of The Empress for Nov. 12, 2026. File photo."
+  caption: "Netflix's November 2026 list runs from Black Doves Season 2 on Nov. 5 to The Hunting Wives Season 2 on Nov. 26. File photo."
   credit: "Photo: Nenad Stojkovic / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -44,13 +44,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Remote_control_and_popocorn_from_above.jpg"
     author: "Nenad Stojkovic"
 summary:
-  - "Netflix Tudum's Oct. 30, 2026 What to Watch guide lists Black Doves Season 2 for Thursday, Nov. 5, 2026."
-  - "Dated Netflix series after that: The Devil's Plan: Dead Again on Nov. 10, The Empress Season 3 on Nov. 12, The Altruists on Nov. 19 and The Hunting Wives Season 2 on Nov. 26, Thanksgiving."
+  - "Netflix Tudum listed Black Doves Season 2 for Thursday, Nov. 5, 2026; Netflix's Nov. 13 guide puts The Altruists on Thursday, Nov. 19."
+  - "Other dates on Netflix's list: The Devil's Plan on Nov. 10 and The Empress Season 3 on Nov. 12, both now past, then The Altruists on Nov. 19 and The Hunting Wives Season 2 on Nov. 26, Thanksgiving."
   - "The Diplomat Season 4 is not a November title: all 8 episodes have streamed since Thursday, Oct. 15, 2026."
   - "Netflix's pages checked give no release time for these series."
 faq:
   - q: "When does Black Doves Season 2 come out on Netflix?"
-    a: "Netflix Tudum's What to Watch guide of Oct. 30, 2026 lists Black Doves Season 2 for Thursday, Nov. 5, 2026. Netflix does not give an episode count on that page."
+    a: "Netflix Tudum's What to Watch guide of Oct. 30, 2026 and its November list both give Black Doves Season 2 as arriving Thursday, Nov. 5, 2026. Netflix does not give an episode count on those pages."
   - q: "When does The Hunting Wives Season 2 come out?"
     a: "Netflix Tudum says Season 2 of The Hunting Wives debuts on Netflix on Nov. 26, 2026, which is Thanksgiving Day. The page does not give an episode count."
   - q: "Is The Diplomat Season 4 on Netflix now?"
@@ -61,7 +61,11 @@ sources:
   - title: "New on Netflix in November 2026"
     url: "https://www.netflix.com/tudum/articles/new-on-netflix"
     publisher: "Netflix Tudum"
-    date: "2026-10-31"
+    date: "2026-11-14"
+  - title: "What to Watch on Netflix: November 13, 2026"
+    url: "https://www.netflix.com/tudum/articles/what-to-watch-on-netflix-november-13-2026"
+    publisher: "Netflix Tudum"
+    date: "2026-11-13"
   - title: "What to Watch on Netflix: October 30, 2026"
     url: "https://www.netflix.com/tudum/articles/what-to-watch-on-netflix-october-30-2026"
     publisher: "Netflix Tudum"
@@ -107,20 +111,10 @@ downloads:
     pdf: "/news/downloads/netflix-november-2026/netflix-november-2026-series.pdf"
     png: "/news/downloads/netflix-november-2026/netflix-november-2026-series.png"
     pages: 1
-  - group: "Netflix Series Watch List printables"
-    title: "Netflix Series Watch List, November 2026 (ink saver)"
-    description: "One-page Netflix series watch list for November 2026 with the release date of each series and season Netflix has dated, and a tick box for each. Free. Ink-saver version."
-    preview: ../../../../assets/news/netflix-november-2026/netflix-november-2026-series-ink.png
-    alt: "Printable Netflix series watch list for November 2026 with the release date and title of each series and a tick box for each, ink-saver version"
-    pdf: "/news/downloads/netflix-november-2026/netflix-november-2026-series-ink.pdf"
-    png: "/news/downloads/netflix-november-2026/netflix-november-2026-series-ink.png"
-    pages: 1
 draft: false
 ---
 
-**Netflix Tudum's What to Watch guide of Oct. 30, 2026 lists Black Doves Season 2 for Thursday, Nov. 5, 2026, and Netflix pages date four more series later in the month, ending with The Hunting Wives Season 2 on Nov. 26.** The table below puts each date in order with its weekday, and a free printable watch list follows it.
-
-<p class="callout"><b>Checked Nov. 2, 2026.</b> Netflix published its "New on Netflix in November 2026" list on Oct. 31, and it gives the same dates for Black Doves Season 2 (Nov. 5), The Devil's Plan (Nov. 10), The Empress Season 3 (Nov. 12) and The Hunting Wives Season 2 (Nov. 26). Netflix publishes a What to Watch guide each week. Every date comes from a Netflix page.</p>
+**Netflix Tudum's What to Watch guide of Oct. 30, 2026 listed Black Doves Season 2 for Thursday, Nov. 5, 2026, and Netflix pages date four more series later in the month, ending with The Hunting Wives Season 2 on Nov. 26.** Netflix's "New on Netflix in November 2026" list gives the same dates for Black Doves, The Devil's Plan (Nov. 10), The Empress Season 3 (Nov. 12) and The Hunting Wives; its Nov. 13 guide has The Altruists on Nov. 19. The table below puts each date in order with its weekday, and a free printable watch list follows it.
 
 ## New Netflix series and seasons in November 2026
 
@@ -140,7 +134,7 @@ The table uses only Netflix's own pages: Netflix Tudum and the Netflix Newsroom.
 
 ## When does Black Doves Season 2 come out?
 
-Thursday, Nov. 5, 2026, per Netflix Tudum's What to Watch guide of Oct. 30. The same guide lists The Neighborhood Seasons 1-8 and North of North Season 2 for that day. Netflix does not state an episode count for Black Doves Season 2 on the page, so none is given here.
+Thursday, Nov. 5, 2026, per Netflix Tudum's What to Watch guide of Oct. 30 and its November list. The same guide lists The Neighborhood Seasons 1-8 and North of North Season 2 for that day. Netflix does not state an episode count for Black Doves Season 2 on the page, so none is given here.
 
 ## Is The Diplomat Season 4 a November show?
 
@@ -152,7 +146,7 @@ Netflix Tudum says the season "debuts on Netflix this Nov. 26." That is Thanksgi
 
 ## What are the other Netflix series dates after Nov. 5?
 
-Netflix's Oct. 27 Tudum story on the main trailer gives Tuesday, Nov. 10 for the premiere of The Devil's Plan: Dead Again worldwide. Netflix's November list, published Oct. 31, labels it Season 3 and gives the same date. The Netflix Newsroom announced on Sept. 23 that "The Empress Season 3, premiering November 12, exclusively on Netflix worldwide." It is the third and final season. For The Altruists, Tudum says: "All eight episodes of the series will stream on Netflix starting Nov. 19."
+Netflix's Oct. 27 Tudum story on the main trailer gave Tuesday, Nov. 10 for the premiere of The Devil's Plan: Dead Again worldwide. Netflix's November list, published Oct. 31, labels it Season 3 and gives the same date. The Netflix Newsroom announced on Sept. 23 that "The Empress Season 3, premiering November 12, exclusively on Netflix worldwide." It is the third and final season. For The Altruists, Tudum says: "All eight episodes of the series will stream on Netflix starting Nov. 19." Netflix's Nov. 13 What to Watch guide includes it in the week of Nov. 13 to 19, dated Nov. 19.
 
 ## What time do the new Netflix series start?
 
@@ -160,6 +154,6 @@ The Netflix pages checked, including the November list, give no release time or 
 
 ## Print the Netflix series watch list for November 2026
 
-The printable lists the eight dated entries from Nov. 1 to Nov. 26 on one US Letter page with a tick box for each, and an ink-saver version is included. Netflix's November movies have their own list in our [Netflix movies November 2026 story](/news/netflix-new-movies-november-2026-release-dates/), and this story does not repeat it. To see the weeks at a glance, print a [November 2026 calendar](/november-calendars.html) or a [weekly calendar](/printable-weekly-calendar.html) and mark the Tuesdays and Thursdays above.
+The printable lists the eight dated entries from Nov. 1 to Nov. 26 on one US Letter page with a tick box for each, Netflix's November movies have their own list in our [Netflix movies November 2026 story](/news/netflix-new-movies-november-2026-release-dates/), and this story does not repeat it. To see the weeks at a glance, print a [November 2026 calendar](/november-calendars.html) or a [weekly calendar](/printable-weekly-calendar.html) and mark the Tuesdays and Thursdays above.
 
 For other services' November dates, see the [Hulu November 2026 list](/news/new-on-hulu-november-2026-release-dates/) and the [Disney+ November 2026 list](/news/new-on-disney-plus-november-2026-release-dates/). Looking further ahead, see our [Narnia: The Magician's Nephew](/news/narnia-the-magicians-nephew-release-date-imax-february-12-2027-netflix-april-2/) release guide.

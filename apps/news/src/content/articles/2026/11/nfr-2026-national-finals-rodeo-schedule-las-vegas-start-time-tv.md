@@ -3,6 +3,7 @@ title: "NFR 2026 Schedule: Dec. 3-12, Nightly 5:45 p.m. PT Start"
 description: "The 2026 National Finals Rodeo (NFR) runs Dec. 3-12 in Las Vegas, starting 5:45 p.m. PT (8:45 p.m. ET), with a grid of all ten nights and how to watch."
 type: news
 publishedAt: "2026-11-07T06:00:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["nfr 2026 schedule", "national finals rodeo 2026 tv", "nfr 2026 start time", "nfr 2026 dates"]
@@ -46,6 +47,10 @@ sources:
     url: "https://www.nfrexperience.com/news/2026-wrangler-nfr-top-15-announced"
     publisher: "The Official NFR Experience"
     date: "2026-10-22"
+  - title: "Rodeo Fans Can Meet Their Favorite Cowboys and Barrel Racers at the Wrangler NFR Contestant Autograph Sessions"
+    url: "https://www.nfrexperience.com/news/rodeo-fans-can-meet-their-favorite-cowboys-and-barrel-racers-at-the-wrangler-nfr-contestant-autograph-sessions"
+    publisher: "The Official NFR Experience"
+    date: "2026-11-12"
   - title: "Cowboy+ | The Official NFR Experience"
     url: "https://www.cowboyplus.com/"
     publisher: "Cowboy+"
@@ -149,6 +154,18 @@ The NFR Experience said on Oct. 22, 2026, that the Top 15 contestants in each ev
 ## Is there anything else at the NFR besides the rodeo?
 
 The NFR Experience lists Cowboy Christmas for Dec. 3-12, 2026, from 9 a.m. to 4 p.m. daily at the Las Vegas Convention Center, South Halls, with free admission.
+
+Free contestant autograph sessions start Friday, Dec. 4. The NFR Experience said on Nov. 12, 2026, that each session runs from 11 a.m. to 1 p.m., presumably local time, and features the contestants in one event.
+
+| Date | Event | Location |
+|---|---|---|
+| Fri., Dec. 4 | Barrel racing | Golden Nugget (The Grand Event Center) |
+| Sat., Dec. 5 | Tie-down roping | Metro-Goldwyn-Mayer (MGM) Grand (The District, near the Grand Garden Arena entrance) |
+| Mon., Dec. 7 | Team roping | The Linq (Guy Fieri's Vegas Kitchen & Bar) |
+| Tue., Dec. 8 | Steer wrestling | Circa Las Vegas (Underhang Bar, ages 21 and up) |
+| Wed., Dec. 9 | Bull riding | Treasure Island (Gilley's Saloon) |
+| Thu., Dec. 10 | Bareback riding | Park MGM (The Reserve Bar, ages 21 and up) |
+| Fri., Dec. 11 | Saddle bronc riding | Resorts World (Wrangler Dawg House Saloon) |
 
 ## Where to buy NFR 2026 tickets
 

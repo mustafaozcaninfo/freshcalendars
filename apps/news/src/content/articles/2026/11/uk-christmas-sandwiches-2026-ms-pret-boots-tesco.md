@@ -3,7 +3,7 @@ title: "Christmas Sandwiches 2026: Tesco Meal Deal £3.85, Aldi £1.99"
 description: "Christmas sandwiches 2026: Tesco's meal deal is £3.85 with a Clubcard and Aldi's start at £1.99. Greggs and Costa began on 22 October. Printable table."
 type: news
 publishedAt: "2026-11-04T15:00:00-05:00"
-updatedAt: "2026-11-04T15:00:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["christmas sandwich 2026", "tesco christmas meal deal 2026", "aldi christmas sandwiches 2026", "when do christmas sandwiches come out 2026"]
@@ -54,10 +54,10 @@ assets:
           src: 6
           quote: "Costa Coffee’s Christmas menu launches in stores across the UK & Ireland from 22 October 2026, while stocks last."
       unconfirmed:
-        - { label: "Marks & Spencer (M&S)", why: "No 2026 release on the M&S newsroom" }
+        - { label: "Marks & Spencer (M&S)", why: "No sandwich release on the M&S newsroom" }
         - { label: "Sainsbury's", why: "Only one newsroom reported it, and dates differ" }
         - { label: "Boots", why: "Only one newsroom reported it" }
-        - { label: "Pret", why: "2026 menu not announced" }
+        - { label: "Pret", why: "Menu page live 5 Nov; no launch date or prices" }
         - { label: "Co-op, Waitrose, Asda, Lidl, Caffè Nero, Starbucks UK, Subway UK", why: "No confirmation found" }
 hero:
   src: ../../../../assets/news/uk-christmas-sandwiches-2026-ms-pret-boots-tesco/uk-christmas-sandwiches-2026-ms-pret-boots-tesco.webp
@@ -73,7 +73,7 @@ summary:
   - "Tesco's Christmas meal deal has been on sale since Monday 12 October 2026 at £3.85 with a Clubcard, according to Retail Times and Grocery Gazette."
   - "Aldi's Christmas sandwiches started on Wednesday 14 October from £1.99, with a gammon bloomer to follow on Thursday 26 November, Grocery Gazette and BritBrief reported."
   - "Greggs and Costa both began on Thursday 22 October 2026 and neither gave prices."
-  - "Marks & Spencer, Sainsbury's, Boots and Pret are not confirmed by two sources, so this story prints no 2026 details for them."
+  - "Marks & Spencer, Sainsbury's and Boots are not confirmed by two sources, and Pret's menu page gives no launch date or prices, so this story prints no 2026 sandwich details for them."
 faq:
   - q: "When do Christmas sandwiches come out in 2026?"
     a: "Tesco's festive meal deal went on sale on 12 October, Aldi's range on 14 October, and Greggs and Costa on 22 October 2026. Other chains have not been confirmed."
@@ -82,7 +82,7 @@ faq:
   - q: "How much are Aldi's Christmas sandwiches in 2026?"
     a: "From £1.99 for the Pigs in Blankets Sandwich. The Turkey Feast Sandwich, Brie & Cranberry and Smoked Salmon & Cream Cheese are £2.49 each, and the gammon bloomer is £2.79 from 26 November."
   - q: "Are the Christmas sandwiches at Pret, M&S and Boots out yet in 2026?"
-    a: "Not confirmed. Pret has not announced its 2026 menu, and the Marks & Spencer newsroom has no 2026 release. The Boots newsroom shows only 2023."
+    a: "Pret's own Christmas menu page was live on 5 November with a new Christmas Hot Baguette and the Christmas Sandwich back, but it gives no launch date or prices. Marks & Spencer and Boots are not confirmed: the M&S newsroom's Christmas release of 6 November names no sandwiches, and the Boots newsroom shows only 2023."
 sources:
   - title: "Tesco signals the start of the Christmas season with a flavour-packed meal deal"
     url: "https://retailtimes.co.uk/tesco-signals-the-start-of-the-christmas-season-with-a-flavour-packed-meal-deal/"
@@ -103,6 +103,7 @@ sources:
   - title: "Fill your festive feeds"
     url: "https://www.greggs.com/news/fill-your-festive-feeds"
     publisher: "Greggs"
+    date: "2026-11-14"
   - title: "Costa Coffee unwraps its festive 2026 menu, bringing something for every Christmas catch-up"
     url: "https://retailtimes.co.uk/costa-coffee-unwraps-its-festive-2026-menu-bringing-something-for-every-christmas-catch-up/"
     publisher: "Retail Times"
@@ -114,6 +115,14 @@ sources:
     url: "https://www.morrisons-corporate.com/media-centre/corporate-news/"
     publisher: "Morrisons"
     date: "2026-10-20"
+  - title: "Christmas Menu | Jolly Good Food | Pret A Manger"
+    url: "https://www.pret.co.uk/en-GB/christmas-menu-2026"
+    publisher: "Pret A Manger"
+    date: "2026-11-14"
+  - title: "M&S Launches 'The Home of Christmas', Uniting Food, Fashion, Home and Beauty in One Campaign"
+    url: "https://corporate.marksandspencer.com/newsroom/press-releases/ms-launches-home-christmas-uniting-food-fashion-home-and-beauty-one"
+    publisher: "Marks & Spencer"
+    date: "2026-11-06"
   - title: "Pret A Manger Christmas 2025 menu: new sandwiches"
     url: "https://www.foodbible.com/news/uk-food/pret-a-manger-christmas-2025-menu-new-sandwiches-645703-20251103"
     publisher: "Food Bible"
@@ -178,12 +187,12 @@ Both name the new Tesco Fully Loaded Chicken, Stuffing, Braised Red Cabbage & Cr
 
 Not all on one day. Grocery Gazette (9 October 2026) said the range is "available from 14 October", and BritBrief (8 October) wrote that it is "hitting shelves on October 14". Both then give later dates for three items.
 
-| Date | Weekday | Aldi item arriving | Price | Status on 4 November |
+| Date | Weekday | Aldi item arriving | Price | Status on 14 November |
 |---|---|---|---|---|
-| 14 October | Wednesday | Pigs in Blankets Sandwich, Turkey Feast Sandwich, Brie & Cranberry, Smoked Salmon & Cream Cheese | £1.99 and £2.49 | On sale |
-| 21 October | Wednesday | Festive Falafel Wrap | £2.29 | On sale |
-| 5 November | Thursday | Turkey Feast Wrap | £2.29 | Arrives in 1 day |
-| 26 November | Thursday | Honey Roast Gammon & Christmas Slaw Bloomer | £2.79 | Arrives in 22 days |
+| 14 October | Wednesday | Pigs in Blankets Sandwich, Turkey Feast Sandwich, Brie & Cranberry, Smoked Salmon & Cream Cheese | £1.99 and £2.49 | Date passed |
+| 21 October | Wednesday | Festive Falafel Wrap | £2.29 | Date passed |
+| 5 November | Thursday | Turkey Feast Wrap | £2.29 | Date passed |
+| 26 November | Thursday | Honey Roast Gammon & Christmas Slaw Bloomer | £2.79 | Arrives in 12 days |
 
 Grocery Gazette described the falafel wrap as "a new meat-free option"; neither report is used here for any other dietary claim. The bloomer date is worded "on 26 November" by Grocery Gazette and "Launching on November 26" by BritBrief.
 
@@ -208,14 +217,14 @@ Retail Times (20 October 2026) and What's The Jam agree that Costa's menu launch
 
 ## Which chains have not confirmed their Christmas sandwiches?
 
-Each row below stops at what could be checked. No 2026 names, prices or dates are printed for these chains because fewer than two newsrooms agree, or because the chain's own page does not show them.
+Each row below stops at what could be checked. No 2026 names, prices or dates are printed for these chains because fewer than two newsrooms agree, or because the chain's own page gives no launch date or prices.
 
-| Retailer | Status on 4 November 2026 | Last year |
+| Retailer | Status on 14 November 2026 | Last year |
 |---|---|---|
-| Marks & Spencer (M&S) | Reported by one publisher group only; the M&S newsroom has no 2026 release | Not confirmed |
+| Marks & Spencer (M&S) | Reported by one publisher group only; the M&S newsroom's Christmas release of 6 November names no sandwiches | Not confirmed |
 | Sainsbury's | Reported by one newsroom, and its dates conflict between 1 and 2 November | Not confirmed |
 | Boots | Reported by one newsroom; Boots' own newsroom shows only 2023 | Not confirmed |
-| Pret | 2026 menu not announced | In 2025 Pret's Christmas menu was to be available across the UK "from 4th November until the end of December", Food Bible reported |
+| Pret | Its own Christmas menu page was live on 5 November with a new Christmas Hot Baguette and the Christmas Sandwich back; no launch date or prices | In 2025 Pret's Christmas menu was to be available across the UK "from 4th November until the end of December", Food Bible reported |
 | Morrisons | Its media centre lists a 20 October 2026 headline, "Morrisons Launches Christmas Sandwich Range"; we print no names or prices | Not confirmed |
 | Co-op, Waitrose, Asda, Lidl, Caffè Nero, Starbucks UK, Subway UK | No confirmation found | Not confirmed |
 
@@ -223,7 +232,7 @@ The 2025 Pret dates are last year's and say nothing about 2026.
 
 ## Print the Christmas sandwiches 2026 table
 
-The free printable below holds the confirmed rows for Tesco, Aldi, Greggs and Costa on one page, each with its price as stated and its on-sale date, and lists the chains still to confirm. It leaves out the Aldi wraps, whose dates we could not quote word for word. Pair it with a [November 2026 printable calendar](/november-calendars.html) or a [December 2026 printable calendar](/december-calendars.html) to mark 5 and 26 November.
+The free printable below holds the confirmed rows for Tesco, Aldi, Greggs and Costa on one page, each with its price as stated and its on-sale date, and lists the chains still to confirm. It leaves out the Aldi wraps, whose dates we could not quote word for word. Pair it with a [November 2026 printable calendar](/november-calendars.html) or a [December 2026 printable calendar](/december-calendars.html) to mark 26 November.
 
 ## What this story leaves out
 

@@ -19,18 +19,18 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Sunrise_at_Burnaby,_Vancouver2.jpg"
     author: "David Zhang"
 assets:
-  kicker: "B.C. sunrise · Sun., Nov. 1, 2026"
-  date: "2026-11-01"
-  card: { top: "Vancouver sunrise today", big: "8:01 a.m.", bottom: "Latest: 9:08 a.m. in late December" }
+  kicker: "B.C. sunrise · Winter 2026-27"
+  date: "2026-12-29"
+  card: { top: "Vancouver latest sunrise", big: "9:08 a.m.", bottom: "Dec. 29, 2026 to Jan. 3, 2027" }
   overlay: true
   printable:
     slug: bc-winter-sunrise-sunset-chart-2026-27
     group: bc-sunrise-2026
     title: "B.C. Winter Sunrise and Sunset Chart, 2026-27"
-    subtitle: "Sunrise / sunset in Pacific time (PCT), Nov. 1, 2026 to Mar. 1, 2027"
+    subtitle: "Sunrise / sunset in Pacific time (PCT), Nov. 15, 2026 to Mar. 1, 2027"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Sun., Nov. 1, 2026", "Vancouver 8:01 a.m./5:51 p.m.; Victoria 8:00/5:54; Kelowna 7:48/5:35; Prince George 8:12/5:36"]
       - ["Sun., Nov. 15, 2026", "Vancouver 8:23 a.m./5:30 p.m.; Victoria 8:22/5:34; Kelowna 8:11/5:14; Prince George 8:39/5:12"]
       - ["Tue., Dec. 1, 2026", "Vancouver 8:47 a.m./5:16 p.m.; Victoria 8:44/5:21; Kelowna 8:35/4:59; Prince George 9:07/4:53"]
       - ["Mon., Dec. 21, 2026", "Vancouver 9:05 a.m./5:16 p.m.; Victoria 9:02/5:21; Kelowna 8:54/4:59; Prince George 9:28/4:51"]
@@ -41,25 +41,16 @@ assets:
       - ["Tue., Dec. 29, 2026 to Sun., Jan. 3, 2027", "Latest Vancouver sunrise of the winter: 9:08 a.m."]
       - ["Sat., Feb. 27, 2027", "Vancouver sunrise first back before 8 a.m.: 7:59 a.m."]
     note: "Source: U.S. Naval Observatory sunrise and sunset data, local clock time at UTC-7; Government of British Columbia, B.C.'s new time zone (Pacific time)."
-    inkSaver: true
-    description: "One-page chart of sunrise and sunset times for Vancouver, Victoria, Kelowna and Prince George from Nov. 1, 2026, to Mar. 1, 2027, in Pacific time."
+    description: "One-page chart of sunrise and sunset times for Vancouver, Victoria, Kelowna and Prince George from Nov. 15, 2026, to Mar. 1, 2027, in Pacific time."
     alt: "Printable chart of B.C. winter sunrise and sunset times for four cities from November 2026 to March 2027"
 downloads:
   - group: "B.C. Winter Sunrise and Sunset Chart printables"
     title: "B.C. Winter Sunrise and Sunset Chart, 2026-27"
-    description: "One-page chart of sunrise and sunset times for Vancouver, Victoria, Kelowna and Prince George from Nov. 1, 2026, to Mar. 1, 2027, in Pacific time."
+    description: "One-page chart of sunrise and sunset times for Vancouver, Victoria, Kelowna and Prince George from Nov. 15, 2026, to Mar. 1, 2027, in Pacific time."
     preview: ../../../../assets/news/bc-sunrise-2026/bc-winter-sunrise-sunset-chart-2026-27.png
     alt: "Printable chart of B.C. winter sunrise and sunset times for four cities from November 2026 to March 2027"
     pdf: "/news/downloads/bc-sunrise-2026/bc-winter-sunrise-sunset-chart-2026-27.pdf"
     png: "/news/downloads/bc-sunrise-2026/bc-winter-sunrise-sunset-chart-2026-27.png"
-    pages: 1
-  - group: "B.C. Winter Sunrise and Sunset Chart printables"
-    title: "B.C. Winter Sunrise and Sunset Chart, 2026-27 (ink saver)"
-    description: "One-page chart of sunrise and sunset times for Vancouver, Victoria, Kelowna and Prince George from Nov. 1, 2026, to Mar. 1, 2027, in Pacific time. Ink-saver version."
-    preview: ../../../../assets/news/bc-sunrise-2026/bc-winter-sunrise-sunset-chart-2026-27-ink.png
-    alt: "Printable chart of B.C. winter sunrise and sunset times for four cities from November 2026 to March 2027, ink-saver version"
-    pdf: "/news/downloads/bc-sunrise-2026/bc-winter-sunrise-sunset-chart-2026-27-ink.pdf"
-    png: "/news/downloads/bc-sunrise-2026/bc-winter-sunrise-sunset-chart-2026-27-ink.png"
     pages: 1
 summary:
   - "British Columbia (B.C.) did not turn clocks back on Sunday, Nov. 1, 2026, so Vancouver sunrise was 8:01 a.m. Pacific time (PCT) and sunset was 5:51 p.m., according to the U.S. Naval Observatory (USNO)."

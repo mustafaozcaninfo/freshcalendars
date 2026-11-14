@@ -3,7 +3,7 @@ title: "Winter Tires in Canada 2026-27: Quebec Rule Starts Dec. 1"
 description: "Winter tires in Canada 2026-27: Quebec's rule starts Tue., Dec. 1, with a $200 to $300 fine. Table of BC, Manitoba and Atlantic dates, plus a printable."
 type: news
 publishedAt: "2026-11-03T12:48:00-05:00"
-updatedAt: "2026-11-03T12:48:00-05:00"
+updatedAt: "2026-11-14T15:35:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["winter tires quebec 2026", "when do you need winter tires in bc", "winter tire law canada", "manitoba winter tire loan"]
@@ -36,7 +36,7 @@ sources:
   - title: "Requirements for winter tires"
     url: "https://www.quebec.ca/en/transports/traffic-road-safety/winter-road-safety/requirements-for-winter-tires"
     publisher: "Gouvernement du Québec"
-    date: "2026-10-05"
+    date: "2026-11-14"
   - title: "Designated Winter Tire & Chain Routes"
     url: "https://www2.gov.bc.ca/gov/content/transportation/driving-and-cycling/traveller-information/seasonal/winter-driving/winter-tire-and-chain-up-routes"
     publisher: "Government of British Columbia"
@@ -48,6 +48,7 @@ sources:
   - title: "Winter Tire Program: Get a grip this winter"
     url: "https://www.mpi.mb.ca/winter-tire-program/"
     publisher: "Manitoba Public Insurance"
+    date: "2026-11-14"
   - title: "Public Advisory: Studded Tire Season Extended to May 15"
     url: "https://www.gov.nl.ca/releases/?p=60565"
     publisher: "Government of Newfoundland and Labrador"
@@ -137,7 +138,7 @@ assets:
 
 **Quebec's winter tire requirement starts Tuesday, Dec. 1, 2026, and runs to Monday, March 15, 2027, and drivers who do not comply are liable to a fine of $200 to $300**, according to the Gouvernement du Québec (all dollar amounts in this story are Canadian dollars). British Columbia (BC) has had its rule in force since Thursday, Oct. 1, 2026. The table below sets out each province's official rule, with weekdays for the 2026-27 season, and a one-page printable follows the same dates.
 
-From Tuesday, Nov. 3, there are 28 days until Quebec's rule starts. To keep the date in sight, write it on our [December 2026 printable calendar](/december-calendars.html).
+From Saturday, Nov. 14, there are 17 days until Quebec's rule starts. To keep the date in sight, write it on our [December 2026 printable calendar](/december-calendars.html).
 
 ## Which winter tire rules apply in each province?
 

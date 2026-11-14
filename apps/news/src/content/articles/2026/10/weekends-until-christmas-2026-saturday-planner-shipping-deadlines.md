@@ -3,7 +3,7 @@ title: "Weekends Until Christmas 2026: 7 Full Weekends, Nov. 7 to Dec. 20"
 description: "There are 7 full weekends until Christmas 2026, Nov. 7-8 to Dec. 19-20. A table lists each weekend's events and USPS send-by dates."
 type: explainer
 publishedAt: "2026-10-31T17:55:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["how many weekends until christmas 2026", "saturdays until christmas 2026", "weekends left before christmas", "christmas shopping weekends 2026"]
@@ -20,8 +20,8 @@ assets:
     subtitle: "Seven full weekends from Nov. 7 to Dec. 20, with mail deadlines and dated events"
     layout: list
     rows:
-      - ["Sat., Oct. 31 and Sun., Nov. 1", "Not counted. Military Ground Advantage send-by is Wed., Nov. 4"]
-      - ["Sat., Nov. 7 and Sun., Nov. 8", "Weekend 1. Veterans Day is Wed., Nov. 11 (post offices closed)"]
+      - ["Sat., Oct. 31 and Sun., Nov. 1", "Not counted. Military Ground Advantage send-by was Wed., Nov. 4"]
+      - ["Sat., Nov. 7 and Sun., Nov. 8", "Weekend 1 (passed). Veterans Day was Wed., Nov. 11 (post offices closed)"]
       - ["Sat., Nov. 14 and Sun., Nov. 15", "Weekend 2. No dated item in our sources"]
       - ["Sat., Nov. 21 and Sun., Nov. 22", "Weekend 3. Thanksgiving is Thu., Nov. 26"]
       - ["Sat., Nov. 28 and Sun., Nov. 29", "Weekend 4. Small Business Saturday; first Sunday of Advent"]
@@ -31,17 +31,17 @@ assets:
       - ["Thu., Dec. 24 to Sun., Dec. 27", "Partial weekend. Christmas Eve is Thu., Dec. 24"]
       - ["Fri., Dec. 25", "Christmas Day"]
     note: "Source: U.S. Postal Service (USPS), 2026 Holiday Shipping Deadlines; U.S. Office of Personnel Management (federal holidays); U.S. Small Business Administration; Chabad.org; United States Conference of Catholic Bishops; National Retail Federation. USPS dates are recommendations, not guarantees."
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page planner of the seven weekends before Christmas 2026 with USPS send-by dates, events and Christmas Day. Free printable from Fresh Calendars."
     alt: "Weekends planner printable for Christmas 2026 listing seven weekends, USPS deadlines and Christmas Day on Dec. 25"
 summary:
   - "From Saturday, Nov. 7 to Sunday, Dec. 20, 2026, there are 7 full weekends before Christmas Day on Friday, Dec. 25."
-  - "The weekend of Oct. 31 to Nov. 1 has passed and is not counted; it was the last weekend before the Wednesday, Nov. 4 military Ground Advantage send-by date from the U.S. Postal Service (USPS)."
+  - "The weekends of Oct. 31 to Nov. 1 (not counted) and Nov. 7-8 have passed; the Wednesday, Nov. 4 military Ground Advantage send-by date from the U.S. Postal Service (USPS) came after the first of them."
   - "The last full weekend before the USPS Ground Advantage and Priority Mail send-by dates (Thursday, Dec. 17 and Friday, Dec. 18) is Dec. 12-13."
-  - "A free one-page planner lists each weekend with its dated events, plus Christmas Day, with an ink-saver version."
+  - "A free one-page planner lists each weekend with its dated events, plus Christmas Day."
 faq:
   - q: "How many weekends are left until Christmas 2026?"
-    a: "Seven full weekends, counting Saturday, Nov. 7 and Sunday, Nov. 8 through Saturday, Dec. 19 and Sunday, Dec. 20. The weekend of Oct. 31 to Nov. 1 has passed and is not counted. Thursday, Dec. 24 to Sunday, Dec. 27 is a partial weekend around Christmas Day on Friday, Dec. 25."
+    a: "Seven full weekends, counting Saturday, Nov. 7 and Sunday, Nov. 8 through Saturday, Dec. 19 and Sunday, Dec. 20. The weekends of Oct. 31 to Nov. 1 (not counted) and Nov. 7-8 have passed, and Nov. 14-15 is this weekend. Thursday, Dec. 24 to Sunday, Dec. 27 is a partial weekend around Christmas Day on Friday, Dec. 25."
   - q: "How many Saturdays are there until Christmas 2026?"
     a: "Seven Saturdays fall from Nov. 7 through Dec. 19, and Dec. 19 is the last one before Christmas Day on Friday, Dec. 25."
   - q: "What is the last weekend to mail Christmas gifts by USPS?"
@@ -94,14 +94,6 @@ downloads:
     pdf: "/news/downloads/weekends-until-christmas-2026/weekends-until-christmas-2026-planner.pdf"
     png: "/news/downloads/weekends-until-christmas-2026/weekends-until-christmas-2026-planner.png"
     pages: 1
-  - group: "Weekends Until Christmas 2026 Planner printables"
-    title: "Weekends Until Christmas 2026 Planner (ink saver)"
-    description: "One-page planner of the seven weekends before Christmas 2026 with USPS send-by dates, events and Christmas Day. Free printable from Fresh Calendars. Ink-saver version."
-    preview: ../../../../assets/news/weekends-until-christmas-2026/weekends-until-christmas-2026-planner-ink.png
-    alt: "Weekends planner printable for Christmas 2026 listing seven weekends, USPS deadlines and Christmas Day on Dec. 25, ink-saver version"
-    pdf: "/news/downloads/weekends-until-christmas-2026/weekends-until-christmas-2026-planner-ink.pdf"
-    png: "/news/downloads/weekends-until-christmas-2026/weekends-until-christmas-2026-planner-ink.png"
-    pages: 1
 hero:
   src: ../../../../assets/news/weekends-until-christmas-2026-saturday-planner-shipping-deadlines/weekends-until-christmas-2026-saturday-planner-shipping-deadlines.webp
   alt: "Wrapped gifts under a Christmas tree, for the 7 weekends until Christmas 2026"
@@ -120,7 +112,7 @@ draft: false
 
 ## How many weekends are left until Christmas 2026?
 
-Count the Saturday-and-Sunday pairs that start after today, Sunday, Nov. 1, and end before Christmas Day. That gives seven: Nov. 7-8, Nov. 14-15, Nov. 21-22, Nov. 28-29, Dec. 5-6, Dec. 12-13 and Dec. 19-20. Counted by Saturdays alone, the same seven dates apply, from Nov. 7 to Dec. 19.
+Count the Saturday-and-Sunday pairs that start after Sunday, Nov. 1, and end before Christmas Day. That gives seven: Nov. 7-8, Nov. 14-15, Nov. 21-22, Nov. 28-29, Dec. 5-6, Dec. 12-13 and Dec. 19-20. Counted by Saturdays alone, the same seven dates apply, from Nov. 7 to Dec. 19. Nov. 7-8 has passed and Nov. 14-15 is under way, so five full weekends follow this one.
 
 The weekend after Christmas is not in the count. Christmas Day is a Friday, so the Dec. 24-27 stretch is a four-day block with Christmas Eve on Thursday, Dec. 24 and Christmas Day on Friday, Dec. 25. Christmas Day is a federal holiday, according to the U.S. Office of Personnel Management. To check the date in other years, see [when is Christmas Day](/when-is/christmas-day/).
 
@@ -128,8 +120,8 @@ The weekend after Christmas is not in the count. Christmas Day is a Friday, so t
 
 | Weekend | What is due before it | What falls on it |
 |---|---|---|
-| Oct. 31 - Nov. 1 (not counted) | Nothing in our sources | Wed., Nov. 4 follows: USPS military Ground Advantage send-by date |
-| 1: Nov. 7-8 | Military Ground Advantage send-by passed on Nov. 4 | No dated item in our sources; Veterans Day is Wed., Nov. 11 and post offices are closed |
+| Oct. 31 - Nov. 1 (not counted) | Nothing in our sources | Wed., Nov. 4 followed: USPS military Ground Advantage send-by date |
+| 1: Nov. 7-8 (passed) | Military Ground Advantage send-by passed on Nov. 4 | No dated item in our sources; Veterans Day was Wed., Nov. 11 and post offices were closed |
 | 2: Nov. 14-15 | Nothing in our sources | No dated item in our sources |
 | 3: Nov. 21-22 | Nothing in our sources | Thanksgiving is Thu., Nov. 26, with post offices closed |
 | 4: Nov. 28-29 | Thanksgiving (Nov. 26) and Black Friday (Fri., Nov. 27) | Small Business Saturday (Sat., Nov. 28); first Sunday of Advent (Nov. 29); Cyber Monday is Mon., Nov. 30 |
@@ -162,4 +154,4 @@ Saturday, Dec. 19 is the last Saturday before Christmas Day. It is Super Saturda
 
 ## Print the weekends planner
 
-The planner puts the seven weekends, the partial Dec. 24-27 weekend and Christmas Day on one US Letter page, with an ink-saver version for a home printer. Pair it with the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), or print a [weekly calendar](/printable-weekly-calendar.html) for the weeks you want to plan in more detail.
+The planner puts the seven weekends, the partial Dec. 24-27 weekend and Christmas Day on one US Letter page. Pair it with the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), or print a [weekly calendar](/printable-weekly-calendar.html) for the weeks you want to plan in more detail.

@@ -53,7 +53,7 @@ faq:
   - q: "Is the PlayStation Store sale only for PS5 games?"
     a: "No. Sony Interactive Entertainment's post lists PS5, PS4 and PS VR2 games, expansions and DLC."
   - q: "Does the post name any game discounts?"
-    a: "Only as a preview. It shows a handful of titles, such as ASTRO BOT and Valheim, with no prices, and names no PlayStation Plus offers or console prices. The full list is on the PlayStation Store promotion page, and discounts vary by region."
+    a: "Only as a preview. It shows a handful of titles, such as Valheim and Mortal Shell II, with no prices, and names no PlayStation Plus offers or console prices. The full list is on the PlayStation Store promotion page, and discounts vary by region."
   - q: "Where are the dates, on the PlayStation deals page?"
     a: "On Nov. 14, 2026, the playstation.com Black Friday deals page still carried a placeholder message with no dates. The dates are in the PlayStation.Blog post."
   - q: "Have Xbox, Nintendo or Steam announced Black Friday sales?"
@@ -91,7 +91,7 @@ draft: false
 
 **The PlayStation Store Black Friday sale started Wednesday, Nov. 4, 2026, and runs through Monday, Nov. 30, with certain discounts ending earlier on Friday, Nov. 20, according to a Nov. 3 post on PlayStation.Blog by Sony Interactive Entertainment.** Both end times are 23:59 on the clock of the store, which works out to 2:59 a.m. ET the next morning for U.S. shoppers. The table below converts every step, and a free printable wish list holds the two deadlines.
 
-PlayStation.Blog says the promotion offers up to 75% off on thousands of PS5, PS4 and PlayStation VR2 (PS VR2) games, expansions and downloadable content (DLC). The post shows a preview of titles in the sale, among them Marvel's Wolverine Digital Deluxe Edition, ASTRO BOT, Valheim and NBA 2K27, but gives no prices, no PlayStation Plus offers and no console prices. Discounts appear on the store's Black Friday promotion page.
+PlayStation.Blog says the promotion offers up to 75% off on thousands of PS5, PS4 and PlayStation VR2 (PS VR2) games, expansions and downloadable content (DLC). The post shows a preview of titles in the sale, among them Marvel's Wolverine Digital Deluxe Edition, Valheim, Mortal Shell II and NBA 2K27, but gives no prices, no PlayStation Plus offers and no console prices. Discounts appear on the store's Black Friday promotion page.
 
 ## What are the PlayStation Store Black Friday 2026 dates?
 
