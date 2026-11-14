@@ -3,6 +3,7 @@ title: "Bulls Schedule December 2026: 12 Games, 7 at Home, Times in CT"
 description: "The Bulls play 12 games in December 2026, opening Dec. 1 vs. New York at 7 p.m. Central Time (CT). ET times, TV, the Cup gap and a free printable."
 type: news
 publishedAt: "2026-11-09T22:41:00-05:00"
+updatedAt: "2026-11-14T15:43:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bulls schedule December 2026", "Chicago Bulls games December", "Bulls game tonight", "next Bulls game", "Bulls printable schedule"]
@@ -75,7 +76,7 @@ sources:
   - title: "Emirates NBA Cup: Key dates & schedule"
     url: "https://www.nba.com/news/emirates-nba-cup-key-dates-schedule"
     publisher: "NBA.com"
-    date: "2026-11-07"
+    date: "2026-11-14"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -123,7 +124,7 @@ The Dec. 1 game against the Knicks is the only one with a national network liste
 
 No. After the Dec. 3 game against Cleveland, the next Bulls game on the schedule is Sunday, Dec. 13, against Houston. The NBA's August PDF has no regular-season games for any team from Dec. 4 to Dec. 11.
 
-That span holds the Emirates NBA Cup knockout rounds. NBA.com's Cup page, updated Nov. 7, 2026, lists the quarterfinals on Dec. 4-5, the semifinals on Dec. 8 and/or Dec. 9 and the championship on Dec. 11 at Hinkle Fieldhouse in Indianapolis. The Bulls are in East Group C and lost 125-111 to Boston on Oct. 30, with group games left against Atlanta on Nov. 13, Washington on Nov. 20 and at Charlotte on Nov. 25, so whether they play in the knockouts depends on those results. Our [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/) lists every round, and the [Bulls' November schedule](/news/chicago-bulls-schedule-november-2026-game-times-tv-nba-cup-printable/) covers the group games.
+That span holds the Emirates NBA Cup knockout rounds. NBA.com's Cup page, updated Nov. 14, 2026, lists the quarterfinals on Dec. 4-5, the semifinals on Dec. 8 and/or Dec. 9 and the championship on Dec. 11 at Hinkle Fieldhouse in Indianapolis. The Bulls are in East Group C. They lost 125-111 to Boston on Oct. 30 and beat Atlanta 125-117 in overtime on Nov. 13, with group games left against Washington on Nov. 20 (8 p.m. ET) and at Charlotte on Nov. 25 (7 p.m. ET), so whether they play in the knockouts depends on those results. Our [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/) lists every round, and the [Bulls' November schedule](/news/chicago-bulls-schedule-november-2026-game-times-tv-nba-cup-printable/) covers the group games.
 
 ## Back-to-backs, road trip and the Heat games
 
