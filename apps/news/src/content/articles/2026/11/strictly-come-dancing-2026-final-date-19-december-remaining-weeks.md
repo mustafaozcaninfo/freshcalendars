@@ -73,7 +73,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/uk-christmas-day/"
     label: "When is Christmas Day in the UK?"
-related: [children-in-need-2026-date-friday-13-november-appeal-night, the-traitors-2027-start-date-series-5-bbc, im-a-celebrity-2026-start-date-monday-16-november-itv]
+related: [children-in-need-2026-date-friday-13-november-appeal-night, royal-variety-performance-2026-date-itv-air-date, im-a-celebrity-2026-start-date-monday-16-november-itv]
 downloads:
   - group: "Strictly Come Dancing 2026 printables"
     title: "Strictly Come Dancing 2026: Remaining Live Shows"
