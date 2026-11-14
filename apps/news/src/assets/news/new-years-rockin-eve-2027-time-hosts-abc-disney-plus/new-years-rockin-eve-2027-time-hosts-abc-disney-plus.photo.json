@@ -17,5 +17,6 @@
   "original": "2048×1367",
   "output": "2048×1152",
   "cropped": true,
-  "credit": "Photo: Andrew Muller / Wikimedia Commons, cropped"
+  "credit": "Photo: Andrew Muller / Wikimedia Commons, cropped, edited",
+  "overlay": true
 }

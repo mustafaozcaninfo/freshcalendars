@@ -82,7 +82,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [cma-awards-2026-date-time-channel-host-nominees, cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve, christmas-movies-on-tv-2026-schedule-by-channel]
+related: [abc-christmas-schedule-2026-cma-country-christmas-disney-parade, cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve, christmas-movies-on-tv-2026-schedule-by-channel]
 downloads:
   - group: "ABC December 2026 Holiday TV Checklist printables"
     title: "ABC December 2026 Holiday TV Checklist"
