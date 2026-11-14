@@ -1,6 +1,6 @@
 ---
 title: "National Family Literacy Day 2026: Month Dates, 7-Day Reading Plan"
-description: "National Family Literacy Day was Sunday, Nov. 1, 2026; the month runs to Nov. 30. See the dates, the Nov. 8-11 conference in San Antonio and a 7-day reading plan."
+description: "National Family Literacy Day was Sunday, Nov. 1, 2026; the month runs to Nov. 30. Dates, the Nov. 8-11 San Antonio conference and a 7-day reading plan."
 type: explainer
 publishedAt: "2026-10-31T16:46:00-04:00"
 updatedAt: "2026-11-14T17:06:00-05:00"
