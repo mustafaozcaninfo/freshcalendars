@@ -3,7 +3,7 @@ title: "Knicks Schedule November 2026: 14 Games, NBA Cup Nov. 13, 25, 27"
 description: "The Knicks play 14 games in November 2026, nine at home and five on the road. Game times in ET, national TV and NBA Cup games, plus a free printable."
 type: news
 publishedAt: "2026-10-31T03:50:00-04:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T15:08:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Knicks schedule November 2026", "Knicks game tonight", "Knicks NBA Cup schedule 2026", "Knicks printable schedule"]
@@ -11,10 +11,11 @@ dateline: "New York"
 assets:
   scene: sports
   overlay: true
-  kicker: "Knicks · Next game Mon., Nov. 2, 2026"
-  date: "2026-11-02"
-  card: { top: "Nets at Knicks, Madison Square Garden", big: "7:30 p.m. ET", bottom: "First of 14 November games" }
+  kicker: "Knicks · Next game Sun., Nov. 15, 2026"
+  date: "2026-11-15"
+  card: { top: "Knicks at Toronto", big: "6 p.m. ET", bottom: "8 November games left" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: knicks-schedule-november-2026
     group: knicks-schedule-2026
     title: "Knicks Schedule, November 2026"
@@ -51,17 +52,17 @@ hero:
     author: "Jean-Baptiste Bellet from Toulouse, France"
     authorUrl: "https://www.flickr.com/people/8767215@N04"
 summary:
-  - "The Knicks' next game is Mon., Nov. 2, 2026, against Brooklyn at Madison Square Garden at 7:30 p.m. ET, per the NBA's schedule dated Aug. 13, 2026."
+  - "The Knicks' next game is Sun., Nov. 15, 2026, at Toronto at 6 p.m. ET, per the NBA's schedule dated Aug. 13, 2026. They lost 106-104 at Indiana on Fri., Nov. 13."
   - "The NBA lists 14 Knicks games in November 2026, nine at home and five on the road, from Nov. 2 to Sun., Nov. 29 against Atlanta."
   - "National TV is listed for three November games: ESPN on Nov. 11, and Prime Video on Nov. 13 and Nov. 27."
   - "Three November games are Emirates NBA Cup group games (Nov. 13, 25 and 27), after the Oct. 30 game at Philadelphia."
 faq:
   - q: "When is the next Knicks game?"
-    a: "Mon., Nov. 2, 2026, against Brooklyn at Madison Square Garden, 7:30 p.m. ET, according to the NBA's 2026-27 schedule. The Knicks played at Philadelphia on Fri., Oct. 30."
+    a: "Sun., Nov. 15, 2026, at Toronto, 6 p.m. ET, according to the NBA's 2026-27 schedule. They play at Toronto again on Tue., Nov. 17. The Knicks lost 106-104 at Indiana on Fri., Nov. 13."
   - q: "How many Knicks games are in November 2026?"
     a: "14, according to the NBA's schedule dated Aug. 13, 2026: nine at home and five on the road. The Knicks finish the month with five straight home games, from Sat., Nov. 21 to Sun., Nov. 29."
   - q: "Which Knicks games are NBA Cup games?"
-    a: "Four group games: at Philadelphia on Fri., Oct. 30, at Indiana on Fri., Nov. 13, against Cleveland on Wed., Nov. 25 and against Miami on Fri., Nov. 27."
+    a: "Four group games: at Philadelphia on Fri., Oct. 30, at Indiana on Fri., Nov. 13 (a 106-104 Pacers win), against Cleveland on Wed., Nov. 25 and against Miami on Fri., Nov. 27."
   - q: "Which Knicks games are on national TV in November?"
     a: "Three: Cleveland on ESPN on Wed., Nov. 11, at Indiana on Prime Video on Fri., Nov. 13, and Miami on Prime Video on Fri., Nov. 27, per the NBA's schedule."
   - q: "Where are local Knicks broadcasts listed?"
@@ -75,6 +76,10 @@ sources:
     url: "https://www.nba.com/news/2026-nba-cup-group-play-schedule-announced"
     publisher: "NBA.com"
     date: "2026-08-12"
+  - title: "Game Rewind: Pacers 106, Knicks 104 (NBA Cup)"
+    url: "https://www.nba.com/pacers/news/rewind-pacers-knicks-261113"
+    publisher: "Indiana Pacers on NBA.com"
+    date: "2026-11-13"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -103,9 +108,9 @@ downloads:
 draft: false
 ---
 
-**The New York Knicks host Brooklyn on Monday, Nov. 2, 2026, at 7:30 p.m. Eastern Time (ET) at Madison Square Garden, according to the National Basketball Association (NBA) schedule.** The NBA lists 14 Knicks games in November, and a one-page printable of all of them is further down.
+**The New York Knicks play at Toronto on Sunday, Nov. 15, 2026, at 6 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule.** The NBA lists 14 Knicks games in November, six of them already played, and a one-page printable of all of them is further down.
 
-The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so the table needs no conversion except for one game in Minnesota, which also gets a Central Time (CT) time. Weekdays are our own calculation. The Knicks' previous game was at Philadelphia on Friday, Oct. 30.
+The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so the table needs no conversion except for one game in Minnesota, which also gets a Central Time (CT) time. Weekdays are our own calculation. The Knicks' most recent game was at Indiana on Friday, Nov. 13, and the NBA's schedule has not changed for the rest of the month as of Nov. 14.
 
 ## Knicks game times and TV for every November game
 
@@ -128,7 +133,7 @@ Nine of the 14 games are at home and five are on the road. "None listed" means t
 | Fri., Nov. 27 | Miami at New York | 7 p.m. | Prime Video | Yes |
 | Sun., Nov. 29 | Atlanta at New York | 6 p.m. | None listed | No |
 
-National TV is listed for only three of the 14 games. The NBA's schedule does not include local broadcasts; those are on the Knicks' official schedule page at nba.com/knicks/schedule.
+The Indiana Pacers' recap on NBA.com says the Pacers beat the Knicks 106-104 on Nov. 13, the Pacers' first NBA Cup win of the season. National TV is listed for only three of the 14 games. The NBA's schedule does not include local broadcasts; those are on the Knicks' official schedule page at nba.com/knicks/schedule.
 
 ## Which Knicks games count in the NBA Cup?
 
