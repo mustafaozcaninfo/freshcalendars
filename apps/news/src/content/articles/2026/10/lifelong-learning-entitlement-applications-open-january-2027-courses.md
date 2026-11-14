@@ -1,9 +1,9 @@
 ---
 title: "Lifelong Learning Entitlement Applications Open 30 October 2026"
-description: "Lifelong Learning Entitlement (LLE) applications opened 30 October 2026 for courses from 1 January to 31 August 2027. Route table, key numbers, checklist."
+description: "Lifelong Learning Entitlement (LLE) applications opened 30 October 2026 for courses from 1 January to 31 July 2027. Route table, key numbers, checklist."
 type: news
 publishedAt: "2026-10-30T10:22:00-04:00"
-updatedAt: "2026-11-01T10:30:00-05:00"
+updatedAt: "2026-11-14T17:55:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["lifelong learning entitlement applications open", "lifelong learning entitlement how to apply", "LLE student finance 2027", "LLE £39,160"]
@@ -19,40 +19,40 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:The_John_Rylands_Library_Reading_Room_(50048784892).jpg"
     author: "Michael D Beckwith from England"
 summary:
-  - "GOV.UK says applications for the Lifelong Learning Entitlement (LLE) opened on Friday 30 October 2026 for courses starting from 1 January 2027 to 31 August 2027."
+  - "GOV.UK says applications for the Lifelong Learning Entitlement (LLE) opened on Friday 30 October 2026 for courses starting from 1 January 2027 to 31 July 2027."
   - "Students who have not had student finance before can get a Tuition Fee Loan of up to £39,160, GOV.UK says, the same as around 4 years of full-time study or 480 credits."
   - "Courses starting from the 2027/28 academic year open for applications in Spring 2027; GOV.UK has not given a date, and no application deadline is listed yet."
   - "You need a new GOV.UK One Login account to apply, even if you already have a Student Finance England account."
 faq:
   - q: "When did Lifelong Learning Entitlement applications open?"
-    a: "GOV.UK published the announcement on 30 October 2026 and says students in England can now apply for courses starting on or after 1 January 2027 to 31 August 2027."
+    a: "GOV.UK published the announcement on 30 October 2026 and says students in England can now apply for courses starting on or after 1 January 2027 to 31 July 2027."
   - q: "What is the Lifelong Learning Entitlement tuition loan limit?"
     a: "GOV.UK says students who have not had student finance before can get a standard entitlement of Tuition Fee Loan of up to £39,160. It describes this as around 4 years of full-time study or 480 credits."
   - q: "Is there a deadline to apply for the Lifelong Learning Entitlement?"
-    a: "The GOV.UK pages we checked on 30 October 2026 do not list an application deadline. Check the GOV.UK application page before you plan around a date."
+    a: "The GOV.UK pages we checked on 14 November 2026 do not list an application deadline. Check the GOV.UK application page before you plan around a date."
   - q: "Can I apply if I am over 60?"
     a: "GOV.UK says you must be under 60 on the first day of your course to apply for a Tuition Fee Loan."
   - q: "Do I need a new account to apply?"
     a: "Yes. GOV.UK says you need a GOV.UK One Login account to apply for the LLE, and that you must create a new account for LLE funding even if you already have a Student Finance England account."
-  - q: "When can I apply for a course that starts in September 2027?"
+  - q: "When can I apply for a course in the 2027/28 academic year?"
     a: "GOV.UK says applications for the 2027/28 academic year will go live in Spring 2027. It has not given an exact date."
 sources:
   - title: "Applications for the Lifelong Learning Entitlement (LLE) are now open"
     url: "https://www.gov.uk/government/news/applications-for-the-lifelong-learning-entitlement-lle-are-now-open"
     publisher: "GOV.UK"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Student finance if your course starts on or after 1 January 2027"
     url: "https://www.gov.uk/student-finance-on-or-after-1-january-2027"
     publisher: "GOV.UK"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Student finance if your course starts on or after 1 January 2027: Eligibility"
     url: "https://www.gov.uk/student-finance-on-or-after-1-january-2027/eligibility"
     publisher: "GOV.UK"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Apply for student finance: Lifelong Learning Entitlement"
     url: "https://www.gov.uk/apply-for-student-finance-lifelong-learning-entitlement"
     publisher: "GOV.UK"
-    date: "2026-10-30"
+    date: "2026-11-14"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -70,7 +70,7 @@ assets:
     slug: lifelong-learning-entitlement-application-checklist-2027
     group: lifelong-learning-entitlement-2027
     title: "Lifelong Learning Entitlement application checklist 2027"
-    subtitle: "Courses starting 1 Jan. to 31 Aug. 2027, England"
+    subtitle: "Courses starting 1 Jan. to 31 July 2027, England"
     layout: checklist
     year: 2026
     rows:
@@ -81,15 +81,15 @@ assets:
       - { when: "Residence", what: "Home in England and 3 years' continuous residence before the course start month", section: "Check you qualify" }
       - { when: "Provider", what: "Your provider is registered with the Office for Students", section: "Check you qualify" }
       - { when: "Account", what: "Create a GOV.UK One Login account; an old Student Finance England account is not enough", section: "Before you apply" }
-      - { when: "Window", what: "Courses from Sept. 2027 (2027/28): wait for Spring 2027, date not yet announced", section: "Before you apply" }
-      - { when: "Now", what: "Apply on GOV.UK for a course starting 1 Jan. to 31 Aug. 2027", section: "Apply" }
+      - { when: "Window", what: "Courses in the 2027/28 academic year: wait for Spring 2027, date not yet announced", section: "Before you apply" }
+      - { when: "Now", what: "Apply on GOV.UK for a course starting 1 Jan. to 31 July 2027", section: "Apply" }
       - { when: "Tuition", what: "Tuition Fee Loan up to £39,160 in total", section: "Apply" }
       - { when: "Living costs", what: "Maintenance Loan up to £15,415 per course year may be available", section: "Apply" }
       - { when: "Each year", what: "On a course longer than a year, reapply for each year you want funding", section: "After you apply" }
-      - { when: "Repayment", what: "Repay when you earn over £25,000 a year; 4.1% interest currently", section: "After you apply" }
+      - { when: "Repayment", what: "Repay when you earn over £25,000 a year; 4.1% interest as of 14 Nov. 2026", section: "After you apply" }
       - { when: "Write-off", what: "Loans are written off 40 years after the April you are first due to repay", section: "After you apply" }
-    note: "Source: GOV.UK and Student Loans Company, Lifelong Learning Entitlement pages, checked 30 October 2026. No application deadline is listed yet."
-    inkSaver: true
+    note: "Source: GOV.UK and Student Loans Company, Lifelong Learning Entitlement pages, checked 14 November 2026. No application deadline is listed yet."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page Lifelong Learning Entitlement 2027 checklist: who qualifies, the GOV.UK One Login account, the £39,160 loan limit and repayment terms."
     alt: "Printable Lifelong Learning Entitlement application checklist 2027 with eligibility checks, account, loan limits and repayment terms"
 downloads:
@@ -101,30 +101,22 @@ downloads:
     pdf: "/news/downloads/lifelong-learning-entitlement-2027/lifelong-learning-entitlement-application-checklist-2027.pdf"
     png: "/news/downloads/lifelong-learning-entitlement-2027/lifelong-learning-entitlement-application-checklist-2027.png"
     pages: 1
-  - group: "Lifelong Learning Entitlement application checklist 2027 printables"
-    title: "Lifelong Learning Entitlement application checklist 2027 (ink saver)"
-    description: "One-page Lifelong Learning Entitlement 2027 checklist: who qualifies, the GOV.UK One Login account, the £39,160 loan limit and repayment terms. Ink-saver version."
-    preview: ../../../../assets/news/lifelong-learning-entitlement-2027/lifelong-learning-entitlement-application-checklist-2027-ink.png
-    alt: "Printable Lifelong Learning Entitlement application checklist 2027 with eligibility checks, account, loan limits and repayment terms, ink-saver version"
-    pdf: "/news/downloads/lifelong-learning-entitlement-2027/lifelong-learning-entitlement-application-checklist-2027-ink.pdf"
-    png: "/news/downloads/lifelong-learning-entitlement-2027/lifelong-learning-entitlement-application-checklist-2027-ink.png"
-    pages: 1
 draft: false
 ---
 
-**Applications for the Lifelong Learning Entitlement (LLE) opened on Friday 30 October 2026, for courses starting from 1 January 2027 to 31 August 2027**, according to a GOV.UK announcement that points students to the Student Loans Company (SLC) application. GOV.UK says students who have not had student finance before can get a Tuition Fee Loan of up to £39,160. This story adds a table that matches your course start date to the right route, a table of the key numbers and a one-page checklist.
+**Applications for the Lifelong Learning Entitlement (LLE) opened on Friday 30 October 2026, for courses starting from 1 January 2027 to 31 July 2027**, according to a GOV.UK announcement that points students to the Student Loans Company (SLC) application. GOV.UK says students who have not had student finance before can get a Tuition Fee Loan of up to £39,160. This story adds a table that matches your course start date to the right route, a table of the key numbers and a one-page checklist.
 
 ## Which route applies to your course start date?
 
-GOV.UK says students in England on undergraduate and certain postgraduate courses starting on or after 1 January 2027 to 31 August 2027 can now apply for the LLE. Its overview page also says there is a different way to apply if your course starts before 1 January 2027. The 2027/28 academic year is a later window.
+GOV.UK says students in England on undergraduate and certain postgraduate courses starting on or after 1 January 2027 to 31 July 2027 can now apply for the LLE. Its overview page also says there is a different way to apply if your course starts before 1 January 2027. The 2027/28 academic year is a later window.
 
-| Course start date | Route to apply | Status on 30 October 2026 |
+| Course start date | Route to apply | Status on 14 November 2026 |
 |---|---|---|
 | Before Friday 1 January 2027 | The different, existing route that GOV.UK describes | Not the LLE |
-| Friday 1 January 2027 to Tuesday 31 August 2027 | Lifelong Learning Entitlement | Open now |
-| From September 2027 (2027/28 academic year) | Lifelong Learning Entitlement | Opens in Spring 2027; date not yet announced |
+| Friday 1 January 2027 to Saturday 31 July 2027 | Lifelong Learning Entitlement | Open |
+| 2027/28 academic year | Lifelong Learning Entitlement | Opens in Spring 2027; date not yet announced |
 
-Weekdays are our calculation. Source: GOV.UK, applications announcement and student finance overview, 30 October 2026.
+Weekdays are our calculation. Source: GOV.UK, applications announcement (30 October 2026) and student finance overview, read 14 November 2026.
 
 GOV.UK also says students who started a course before 1 January 2027 cannot apply for the LLE for that course, and that returners after 12 months or more away apply for the LLE for a course starting on or after 1 January 2027. No application deadline is listed on the pages we checked. The [January 2027 printable calendar](/january-calendars.html) is a handy place to mark your own course start.
 
@@ -139,11 +131,11 @@ The numbers below come from the GOV.UK overview and eligibility pages for course
 | Maintenance Loan | Up to £15,415 per course year | Maximum available; you may be able to apply |
 | Repayment starts | Earnings over £25,000 a year | For courses starting from 1 January 2027 |
 | Write-off | 40 years | After the April you are first due to repay |
-| Interest | 4.1% | What you are currently charged |
+| Interest | 4.1% | What you are charged, as read on 14 November 2026 |
 | Age limit | Under 60 | On the first day of your course, for a Tuition Fee Loan |
 | Credits a year | 30 to 180 | You are normally only eligible when you study in this range |
 
-Source: GOV.UK, student finance if your course starts on or after 1 January 2027, 30 October 2026.
+Source: GOV.UK, student finance if your course starts on or after 1 January 2027, read 14 November 2026.
 
 GOV.UK does not list per-year tuition fee caps for 2027 on these pages, so we do not give any.
 

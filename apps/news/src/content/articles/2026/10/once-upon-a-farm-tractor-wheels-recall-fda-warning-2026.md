@@ -3,7 +3,7 @@ title: "Once Upon a Farm Tractor Wheels Recall: Do Not Buy or Serve"
 description: "The Food and Drug Administration (FDA) says do not buy or serve Once Upon a Farm Tractor Wheels bars. Both notices compared, plus a printable fridge note."
 type: news
 publishedAt: "2026-10-31T16:45:00-04:00"
-updatedAt: "2026-10-31T17:16:00-04:00"
+updatedAt: "2026-11-14T18:05:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["Once Upon a Farm recall", "Tractor Wheels recall", "Once Upon a Farm FDA warning", "Tractor Wheels toddler bars choking", "Once Upon a Farm refund"]
@@ -19,21 +19,21 @@ hero:
     source: "https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-consumers-not-buy-or-serve-once-upon-farm-tractor-wheels-organic-toddler-soft-baked-bars"
     author: "Once Upon a Farm"
 summary:
-  - "On Oct. 30, 2026, the FDA advised consumers not to buy or serve Once Upon a Farm Tractor Wheels Organic Toddler Soft-Baked Bars, in all flavors, quantities and varieties, including all lot codes and expiration dates, and to throw them away."
+  - "On Oct. 30, 2026, the FDA advised consumers not to buy or serve Once Upon a Farm Tractor Wheels Organic Toddler Soft-Baked Bars, in all flavors, quantities and varieties, including all lot codes and expiration dates up to Aug. 26, 2027. Its Nov. 3 update says to return them to the place of purchase for a refund or throw them away."
   - "The FDA said it has received several reports of toddlers ages 1.5 to 2.5 years suffering complete airway obstruction; the company said its voluntary recall followed three consumer complaints."
   - "Once Upon a Farm told customers not to open the package and to return it to the place of purchase for a full refund or email care@uponafarm.com."
-  - "The company said no other Once Upon a Farm products are affected. UPC numbers, lot codes, reformulation details and a refund deadline have not been published in the two notices."
+  - "The company said no other Once Upon a Farm products are affected. UPC numbers, individual lot codes, reformulation details and a refund deadline have not been published in the notices we read."
 faq:
   - q: "Is the Once Upon a Farm Tractor Wheels bar recalled?"
     a: "Yes. Once Upon a Farm announced a voluntary recall on Oct. 30, 2026, and the FDA advised consumers the same day not to buy or serve the product and to throw it away. The FDA said it informed the firm of reports of adverse events and the firm agreed to initiate a recall."
   - q: "Which Tractor Wheels flavors are recalled?"
     a: "The company named three flavors: Apple, Sweet Potato & Spinach; Strawberry, Pumpkin & Beet; and Banana, Pumpkin & Cauliflower. The FDA said the advisory covers all flavors, quantities and varieties."
   - q: "Do lot codes or expiration dates matter?"
-    a: "No. The FDA said the advisory includes all lot codes and expiration dates. The notices do not list lot codes or Universal Product Code (UPC) numbers."
+    a: "No. The FDA said the advisory includes all lot codes and expiration dates, up to 8/26/2027 in its Nov. 3 update. The notices do not list lot codes or Universal Product Code (UPC) numbers."
   - q: "Where were the bars sold?"
     a: "The FDA said the bars were sold nationwide online and at stores, including Costco, Target and Walmart, and may be sold elsewhere, such as Amazon.com and other third-party vendors. The company said it distributed them online and through distribution centers and retail stores in 45 states and Puerto Rico."
   - q: "How do I get a refund?"
-    a: "The company said consumers should not open the package or use the contents, and should return the product to the place of purchase for a full refund or contact care@uponafarm.com. No refund deadline has been published."
+    a: "The company said consumers should not open the package or use the contents, and should return the product to the place of purchase for a full refund or contact care@uponafarm.com. The FDA's Nov. 3 update also says to return it to the place of purchase for a refund or throw it away. No refund deadline has been published."
   - q: "Are other Once Upon a Farm products recalled?"
     a: "The company said no other Once Upon a Farm products are impacted by this recall."
   - q: "What if my child ate one of the bars?"
@@ -42,11 +42,11 @@ sources:
   - title: "FDA Advises Consumers Not to Buy or Serve Once Upon a Farm Tractor Wheels Organic Toddler Soft-Baked Bars"
     url: "https://www.fda.gov/food/alerts-advisories-safety-information/fda-advises-consumers-not-buy-or-serve-once-upon-farm-tractor-wheels-organic-toddler-soft-baked-bars"
     publisher: "U.S. Food and Drug Administration"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Once Upon a Farm Announces Recall and Reformulation of Tractor Wheels Due to Potential Choking Hazard"
     url: "https://ir.onceuponafarmorganics.com/news-events/press-releases/detail/119/once-upon-a-farm-announces-recall-and-reformulation-of-tractor-wheels-due-to-potential-choking-hazard"
     publisher: "Once Upon a Farm (Business Wire)"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Alerts, Advisories & Safety Information"
     url: "https://www.fda.gov/food/recalls-outbreaks-emergencies/alerts-advisories-safety-information"
     publisher: "U.S. Food and Drug Administration"
@@ -70,13 +70,13 @@ assets:
     rows:
       - { when: "Stop", what: "Stop serving Tractor Wheels bars; do not buy them", section: "What to do" }
       - { when: "Flavors", what: "All 3 flavors: Apple, Sweet Potato & Spinach; Strawberry, Pumpkin & Beet; Banana, Pumpkin & Cauliflower", section: "What to do" }
-      - { when: "Lots", what: "Every lot code and expiration date is covered (FDA)", section: "What to do" }
+      - { when: "Lots", what: "Every lot code and expiration date up to Aug. 26, 2027 is covered (FDA)", section: "What to do" }
       - { when: "Store", what: "Keep the bars away from children until you return or throw them away", section: "What to do" }
       - { when: "Refund", what: "Do not open; return to the store for a full refund or email care@uponafarm.com", section: "Refund and health" }
       - { when: "Symptoms", what: "If a child has symptoms, call your health care provider", section: "Refund and health" }
       - { when: "Choking", what: "Choking and first aid has failed: call 9-1-1", section: "Refund and health" }
-    note: "Source: U.S. Food and Drug Administration advisory, Oct. 30, 2026; Once Upon a Farm press release, Oct. 30, 2026. FDA consumer line: 1-888-463-6332."
-    inkSaver: true
+    note: "Source: U.S. Food and Drug Administration advisory, Oct. 30, 2026, updated Nov. 3, 2026; Once Upon a Farm press release, Oct. 30, 2026. FDA consumer line: 1-888-463-6332."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page fridge note for the Oct. 30, 2026 Once Upon a Farm Tractor Wheels recall: stop serving, all flavors and lots, refund route, symptoms and 9-1-1."
     alt: "Tractor Wheels recall fridge note printable with stop, flavors, lots, refund and health steps"
 downloads:
@@ -88,18 +88,10 @@ downloads:
     pdf: "/news/downloads/once-upon-a-farm-recall-2026/tractor-wheels-recall-fridge-note-2026.pdf"
     png: "/news/downloads/once-upon-a-farm-recall-2026/tractor-wheels-recall-fridge-note-2026.png"
     pages: 1
-  - group: "Tractor Wheels Recall Fridge Note 2026 printables"
-    title: "Tractor Wheels Recall Fridge Note 2026 (ink saver)"
-    description: "One-page fridge note for the Oct. 30, 2026 Once Upon a Farm Tractor Wheels recall: stop serving, all flavors and lots, refund route, symptoms and 9-1-1. Ink-saver version."
-    preview: ../../../../assets/news/once-upon-a-farm-recall-2026/tractor-wheels-recall-fridge-note-2026-ink.png
-    alt: "Tractor Wheels recall fridge note printable with stop, flavors, lots, refund and health steps, ink-saver version"
-    pdf: "/news/downloads/once-upon-a-farm-recall-2026/tractor-wheels-recall-fridge-note-2026-ink.pdf"
-    png: "/news/downloads/once-upon-a-farm-recall-2026/tractor-wheels-recall-fridge-note-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
-**On Oct. 30, 2026, the Food and Drug Administration (FDA) advised consumers not to buy or serve any Once Upon a Farm Tractor Wheels Organic Toddler Soft-Baked Bars, in all flavors, quantities and varieties, including all lot codes and expiration dates, and to throw them away immediately.** Once Upon a Farm announced a voluntary recall the same day. Both notices are summarized below, with a [free fridge note](#print-the-tractor-wheels-fridge-note) and a side-by-side of where the two differ. Retailers, the FDA said, should not sell the product.
+**On Oct. 30, 2026, the Food and Drug Administration (FDA) advised consumers not to buy or serve any Once Upon a Farm Tractor Wheels Organic Toddler Soft-Baked Bars, in all flavors, quantities and varieties, including all lot codes and expiration dates, and to throw them away immediately.** Once Upon a Farm announced a voluntary recall the same day. On Nov. 3 the FDA updated its advisory: it now says the expiration dates run up to Aug. 26, 2027 and that consumers can return the product to the place of purchase for a refund or throw it away. Both notices are summarized below, with a [free fridge note](#print-the-tractor-wheels-fridge-note) and a side-by-side of where the two differ. Retailers, the FDA said, should not sell the product.
 
 ## Check your pantry for Tractor Wheels bars
 
@@ -109,8 +101,8 @@ draft: false
 | Flavor 1 | Apple, Sweet Potato & Spinach |
 | Flavor 2 | Strawberry, Pumpkin & Beet |
 | Flavor 3 | Banana, Pumpkin & Cauliflower |
-| Lot codes and dates | All lot codes and expiration dates (FDA) |
-| What to do | FDA: do not buy or serve, throw away immediately. Company: do not open the package or use the contents |
+| Lot codes and dates | All lot codes and expiration dates up to Aug. 26, 2027 (FDA, Nov. 3 update) |
+| What to do | FDA: do not buy or serve; return to the place of purchase for a refund or throw away immediately. Company: do not open the package or use the contents |
 | Refund | Return to the place of purchase for a full refund, or contact care@uponafarm.com (company) |
 
 ## What the FDA says and what the company says
@@ -119,11 +111,11 @@ The two notices agree on the product and the age group. They differ in how they 
 
 | Point | FDA advisory, Oct. 30, 2026 | Company release, Oct. 30, 2026 |
 |---|---|---|
-| Instruction | Do not buy or serve; throw it away immediately | Do not open the package or use the contents; return to the place of purchase for a full refund or email care@uponafarm.com |
+| Instruction | Do not buy or serve; throw it away immediately. Nov. 3 update: return it to the place of purchase for a refund or throw it away immediately | Do not open the package or use the contents; return to the place of purchase for a full refund or email care@uponafarm.com |
 | Number of reports | "Several reports" of toddlers suffering complete airway obstruction; no number given | Decision followed "three consumer complaints" |
 | Hazard wording | "Potentially fatal choking hazard" | "Potential choking hazard" |
 | Where sold | Nationwide online and at stores, including Costco, Target and Walmart; may be sold elsewhere, such as Amazon.com and other third-party vendors | Online and through distribution centers and retail stores in 45 states and Puerto Rico |
-| Scope | All flavors, quantities and varieties, all lot codes and expiration dates | Three named flavors; no other Once Upon a Farm products are impacted |
+| Scope | All flavors, quantities and varieties, all lot codes and expiration dates (up to 8/26/2027 in the Nov. 3 update) | Three named flavors; no other Once Upon a Farm products are impacted |
 | Recall status | Said it informed the firm of reports of adverse events and the firm agreed to initiate a recall | Voluntary recall, "out of an abundance of caution," working with the FDA |
 
 "Potentially fatal" is the FDA's wording only. The company's release calls it a potential choking hazard.
@@ -136,18 +128,18 @@ The company said its decision followed three consumer complaints and that it act
 
 ## What has not been published yet for the Tractor Wheels recall?
 
-| Open question | Status in the Oct. 30 notices |
+| Open question | Status in the notices, as read Nov. 14 |
 |---|---|
 | Universal Product Code (UPC) numbers | Not listed |
-| Lot codes | Not listed; the FDA covers all lot codes and expiration dates |
+| Lot codes | Not listed; the FDA covers all lot codes and expiration dates up to Aug. 26, 2027 |
 | Reformulation details | The company's headline mentions reformulation; neither notice gives details |
-| Refund deadline | Not stated |
+| Refund deadline | Not given |
 | Number of FDA reports | "Several"; no count |
 
 ## What should you do if you have the bars?
 
-1. Stop serving the bars and do not buy more. The FDA says to throw the product away immediately.
-2. Check for all three flavors listed above. Lot codes and expiration dates do not matter for this advisory.
+1. Stop serving the bars and do not buy more. The FDA says to return the product to the place of purchase for a refund or throw it away immediately.
+2. Check for all three flavors listed above. Lot codes and expiration dates up to Aug. 26, 2027 do not matter for this advisory.
 3. If you want a refund, do not open the package. The company says to return it to the place of purchase or contact care@uponafarm.com.
 4. Contact your health care provider to report symptoms and receive care, if your child has any, as the FDA advises.
 5. Call 9-1-1 if someone is choking and other first aid measures to dislodge the obstruction have failed, the FDA says.
