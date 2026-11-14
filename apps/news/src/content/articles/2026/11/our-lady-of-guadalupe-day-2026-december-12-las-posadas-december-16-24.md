@@ -3,6 +3,7 @@ title: "Our Lady of Guadalupe Day 2026: Dec. 12, Las Posadas Dec. 16-24"
 description: "Our Lady of Guadalupe Day 2026 is Saturday, Dec. 12. Las Posadas runs nine nights, Dec. 16-24, with Los Angeles procession details and a printable."
 type: explainer
 publishedAt: "2026-11-02T18:40:00-05:00"
+updatedAt: "2026-11-14T15:40:00-05:00"
 authors: [christina-gerland]
 category: holidays
 dateline: "Los Angeles"
@@ -20,7 +21,7 @@ hero:
 summary:
   - "The United States Conference of Catholic Bishops (USCCB) lists the Feast of Our Lady of Guadalupe on Dec. 12, 2026, a Saturday."
   - "Las Posadas runs nine nights, Dec. 16 through Christmas Eve, Dec. 24, Olvera Street in Los Angeles says; Dec. 16 is a Wednesday and Dec. 24 a Thursday."
-  - "The Archdiocese of Los Angeles sets its 95th Guadalupe procession and Mass for Sunday, Dec. 6, with the procession at 10:30 a.m. Pacific Time (PT)."
+  - "The Archdiocese of Los Angeles sets its 95th Guadalupe procession and Mass for Sunday, Dec. 6, with the procession at 10:30 a.m. Pacific Time (PT); its Las Mañanitas night is Friday, Dec. 11, from 6 p.m. PT."
   - "Mexico City's Basilica has not published its 2026 program; in 2025 the feast began with Las Mañanitas at midnight, Infobae and Uno TV reported."
 faq:
   - q: "When is Our Lady of Guadalupe Day in 2026?"
@@ -30,23 +31,27 @@ faq:
   - q: "What time does Las Posadas start at Olvera Street?"
     a: "The Olvera Street site says the event commences nightly at 5:30 p.m. and the procession starts at approximately 7 p.m. at the Avila Adobe. The page shows no year, so the 2026 times are not yet confirmed; check the site before you go."
   - q: "When is the Guadalupe procession in Los Angeles in 2026?"
-    a: "Sunday, Dec. 6, 2026. The Archdiocese of Los Angeles says the procession begins at 10:30 a.m. at the parish of Our Lady of Solitude, followed by a Mass at 1 p.m."
+    a: "Sunday, Dec. 6, 2026. The Archdiocese of Los Angeles says the procession begins at 10:30 a.m. at the parish of Our Lady of Solitude, followed by a Mass at 1 p.m. Its Las Mañanitas celebration at the Cathedral of Our Lady of the Angels is Friday, Dec. 11, starting at 6 p.m."
 sources:
   - title: "Feast of Our Lady of Guadalupe, December 12, 2026"
     url: "https://bible.usccb.org/bible/readings/121226.cfm"
     publisher: "United States Conference of Catholic Bishops"
-    date: "2026-11-02"
+    date: "2026-11-14"
   - title: "Advent, December 12"
     url: "https://www.usccb.org/prayer-and-worship/liturgical-year/advent/advent-december-12"
     publisher: "United States Conference of Catholic Bishops"
   - title: "Olvera-Street.com | Las Posadas"
     url: "https://www.olvera-street.com/las-posadas"
     publisher: "Olvera Street, El Pueblo de Los Angeles"
-    date: "2026-11-02"
+    date: "2026-11-14"
   - title: "#GuadalupeLA | LA Catholics"
     url: "https://lacatholics.org/guadalupe/"
     publisher: "Archdiocese of Los Angeles"
-    date: "2026-11-02"
+    date: "2026-11-14"
+  - title: "Las Mañanitas a la Virgen de Guadalupe"
+    url: "https://lacatholics.org/event/las-mananitas-a-la-virgen-de-guadalupe/"
+    publisher: "Archdiocese of Los Angeles"
+    date: "2026-11-14"
   - title: "2026 LA schedule for the pilgrim images of Our Lady of Guadalupe and St. Juan Diego"
     url: "https://lacatholics.org/2026/08/03/2026-la-schedule-for-the-pilgrim-images-of-our-lady-of-guadalupe-st-juan-diego/"
     publisher: "Archdiocese of Los Angeles"
@@ -76,14 +81,6 @@ downloads:
     pdf: "/news/downloads/guadalupe-las-posadas-2026/las-posadas-2026-nine-nights-guadalupe-dec-12.pdf"
     png: "/news/downloads/guadalupe-las-posadas-2026/las-posadas-2026-nine-nights-guadalupe-dec-12.png"
     pages: 1
-  - group: "Las Posadas 2026 printables"
-    title: "Las Posadas 2026: Nine Nights, Dec. 16-24 (ink saver)"
-    description: "A one-page Las Posadas 2026 checklist with the Dec. 12 Guadalupe feast and each night from Dec. 16 to Dec. 24, with room for host home, song and food. Ink-saver version."
-    preview: ../../../../assets/news/guadalupe-las-posadas-2026/las-posadas-2026-nine-nights-guadalupe-dec-12-ink.png
-    alt: "Las Posadas 2026 checklist listing Dec. 12 and the nine nights from Wednesday, Dec. 16 to Thursday, Dec. 24, ink-saver version"
-    pdf: "/news/downloads/guadalupe-las-posadas-2026/las-posadas-2026-nine-nights-guadalupe-dec-12-ink.pdf"
-    png: "/news/downloads/guadalupe-las-posadas-2026/las-posadas-2026-nine-nights-guadalupe-dec-12-ink.png"
-    pages: 1
 draft: false
 assets:
   overlay: true
@@ -91,12 +88,14 @@ assets:
   date: "2026-12-12"
   card: { top: "Feast of Our Lady of Guadalupe", big: "Dec. 12", bottom: "Las Posadas: Dec. 16-24" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: las-posadas-2026-nine-nights-guadalupe-dec-12
     group: guadalupe-las-posadas-2026
     title: "Las Posadas 2026: Nine Nights, Dec. 16-24"
     subtitle: "The Dec. 12 feast and each night to mark, with space for host home, song and food"
     rows:
       - ["Sun., Dec. 6", "Los Angeles Guadalupe procession, 10:30 a.m. PT (archdiocese)"]
+      - ["Fri., Dec. 11", "Las Mañanitas at the Los Angeles cathedral, from 6 p.m. PT (archdiocese)"]
       - ["Sat., Dec. 12", "Feast of Our Lady of Guadalupe"]
       - ["Wed., Dec. 16", "Night 1 of 9 | Host home / Song / Food"]
       - ["Thu., Dec. 17", "Night 2 of 9 | Host home / Song / Food"]
@@ -107,8 +106,7 @@ assets:
       - ["Tue., Dec. 22", "Night 7 of 9 | Host home / Song / Food"]
       - ["Wed., Dec. 23", "Night 8 of 9 | Host home / Song / Food"]
       - ["Thu., Dec. 24", "Night 9 of 9, Christmas Eve | Host home / Song / Food"]
-    note: "Source: United States Conference of Catholic Bishops (Dec. 12 feast); Olvera Street, Los Angeles (Las Posadas, Dec. 16-24); Archdiocese of Los Angeles (Dec. 6). Weekdays computed."
-    inkSaver: true
+    note: "Source: United States Conference of Catholic Bishops (Dec. 12 feast); Olvera Street, Los Angeles (Las Posadas, Dec. 16-24); Archdiocese of Los Angeles (Dec. 6 and Dec. 11). Weekdays computed."
     description: "A one-page Las Posadas 2026 checklist with the Dec. 12 Guadalupe feast and each night from Dec. 16 to Dec. 24, with room for host home, song and food."
     alt: "Las Posadas 2026 checklist listing Dec. 12 and the nine nights from Wednesday, Dec. 16 to Thursday, Dec. 24"
 ---
@@ -154,6 +152,18 @@ The Archdiocese of Los Angeles invites people to its 95th Procession and Mass in
 
 The stadium comes from a second archdiocese page, its 2026 schedule for the pilgrim images of Our Lady of Guadalupe and St. Juan Diego, which says the Mass is "at East LA College Stadium on Sunday, Dec. 6."
 
+## What happens at the Los Angeles cathedral the night before the feast?
+
+The archdiocese lists Las Mañanitas a la Virgen de Guadalupe at the Cathedral of Our Lady of the Angels on Friday, Dec. 11, 2026, running into the early hours of Saturday, Dec. 12. It describes dances by indigenous dancers on the Cathedral Plaza, veneration of the relic of the tilma of St. Juan Diego, a rosary, a mariachi serenade and a midnight Mass celebrated by Archbishop José H. Gomez. The program is in Spanish. Times below are Pacific Time (PT).
+
+| Time (PT) | What the archdiocese lists |
+|---|---|
+| 6:00 to 9:00 p.m. | Plaza festivities with Aztec and ballet folklorico dancers; veneration of the relic of the tilma in the interior chapel |
+| 9:30 p.m. | Veneration of Our Lady of Guadalupe inside the Cathedral |
+| 10:00 p.m. | Holy Rosary with the Cathedral Choir |
+| 10:40 p.m. | Serenade to Our Lady of Guadalupe and mariachi performance |
+| 12:00 a.m. (Sat., Dec. 12) | Midnight Mass |
+
 ## What is the program at the Basilica in Mexico City?
 
 The Basilica of Our Lady of Guadalupe in Mexico City has not published its 2026 program; its site shows only daily times. Last year's program is the guide. In 2025, Infobae and Uno TV both reported the Basilica's official schedule for Dec. 12:
@@ -172,4 +182,4 @@ Organizers of Guadalupe events in San Antonio, at St. Patrick's Cathedral in New
 
 ## Print the Guadalupe and Las Posadas dates
 
-The one-page printable lists the Dec. 6 procession, the Dec. 12 feast and each posada night with a line for host home, song and food. A [list of holiday calendars](/holidays/) has more dates for the season, and [Orthodox Christmas 2027](/news/orthodox-christmas-2027-january-7-three-kings-day-january-6/) and [the Christmas 2026 countdown](/news/christmas-2026-calendar-printable-countdown/) cover what comes after.
+The one-page printable lists the Dec. 6 procession, the Dec. 11 Las Mañanitas night, the Dec. 12 feast and each posada night with a line for host home, song and food. A [list of holiday calendars](/holidays/) has more dates for the season, and [Orthodox Christmas 2027](/news/orthodox-christmas-2027-january-7-three-kings-day-january-6/) and [the Christmas 2026 countdown](/news/christmas-2026-calendar-printable-countdown/) cover what comes after.

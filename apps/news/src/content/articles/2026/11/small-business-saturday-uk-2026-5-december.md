@@ -3,6 +3,7 @@ title: "Small Business Saturday UK 2026: 5 December, Pack and Checklist"
 description: "Small Business Saturday UK 2026 is Saturday 5 December, says the organiser. How shops join, what the 2026 pack holds and a free checklist to print."
 type: news
 publishedAt: "2026-11-04T15:16:00-05:00"
+updatedAt: "2026-11-14T15:33:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["small business saturday uk 2026", "small business saturday 2026 date uk", "small business saturday marketing pack", "small business saturday uk poster"]
@@ -18,7 +19,7 @@ assets:
     group: small-business-saturday-uk-2026
     title: "Small Business Saturday UK 2026 Shop Checklist"
     subtitle: "Weeks to Saturday 5 December: pack, poster, posts and the day"
-    note: "Source: Small Business Saturday UK (smallbusinesssaturdayuk.com), read Nov. 4, 2026. Weekly steps are our suggestions, counted back from the day."
+    note: "Source: Small Business Saturday UK (smallbusinesssaturdayuk.com), read Nov. 14, 2026. Weekly steps are our suggestions, counted back from the day."
     description: "A one-page countdown for UK shop owners to Small Business Saturday on 5 December 2026: the 2026 pack, A3 poster, social posts, the day and after."
     alt: "Printable Small Business Saturday UK 2026 shop checklist counting down to Saturday 5 December"
     data:
@@ -27,7 +28,7 @@ assets:
         - { name: "2026 marketing pack", status: open, detail: "Watch the video, tick the terms, press Request Pack", src: 3, quote: "Our 2026 Marketing Pack" }
         - { name: "Small Business Finder", status: closed, detail: "Feature has been retired", src: 4, quote: "We have now said goodbye to our My Small Business and Small Business Finder features." }
         - { name: "Nation's Favourite Businesses entry", status: closed, detail: "Applications have closed", src: 5, quote: "Applications close on 30 June 2026." }
-        - { name: "Out And About tour", status: limited, detail: "No dates or places posted yet", src: 1, quote: "Out And About" }
+        - { name: "Out And About events", status: open, detail: "Belfast Nov. 17, Manchester Nov. 26, Glasgow Dec. 1", src: 8, quote: "Out And About all over the UK" }
       tasks:
         - { daysBefore: 28, task: "Request the 2026 marketing pack" }
         - { daysBefore: 21, task: "Print the A3 poster and plan your posts" }
@@ -37,7 +38,7 @@ assets:
         - { daysBefore: 0, task: "Post on the day and tag the organiser accounts" }
       fill: ["After the day: thank customers", "Posts that worked", "Notes for next year"]
       unconfirmed:
-        - { label: "Out And About tour dates and places", why: "The organiser had posted none on Nov. 4, 2026" }
+        - { label: "Out And About event times", why: "The organiser says times will be added as they are confirmed" }
 hero:
   src: ../../../../assets/news/small-business-saturday-uk-2026-5-december/small-business-saturday-uk-2026-5-december.webp
   alt: "Independent bookshops on a street in Hay-on-Wye, Wales, a file photo for Small Business Saturday UK 2026"
@@ -52,7 +53,7 @@ hero:
 summary:
   - "Small Business Saturday UK 2026 is Saturday 5 December, the first Saturday in December, according to the organiser."
   - "The organiser's 2026 marketing pack has logos, social graphics with suggested posts, a campaign poster with a print-ready A3 PDF and brand guidelines."
-  - "The Small Business Finder is closed, so shops promote themselves through the pack and their own channels."
+  - "The Small Business Finder is closed. The organiser lists free events in Belfast (Nov. 17), Manchester (Nov. 26) and Glasgow (Dec. 1), plus daily webinars to Dec. 2."
   - "The United States day is Saturday, Nov. 28, 2026, one week earlier, according to the U.S. Small Business Administration (SBA)."
 faq:
   - q: "When is Small Business Saturday UK 2026?"
@@ -62,26 +63,26 @@ faq:
   - q: "Is the Small Business Finder still running?"
     a: "No. The organiser says it has said goodbye to its My Small Business and Small Business Finder features."
   - q: "Is there an official hashtag for Small Business Saturday UK?"
-    a: "We did not find one on the organiser's site, so we do not give one."
+    a: "The organiser's About page names #SmallBizSatUK and #SmallBusinessSaturday as the tags that trend throughout the day. It does not call either one the official hashtag."
   - q: "Is Small Business Saturday UK on the same day as in the United States?"
     a: "No. The U.S. day is Saturday, Nov. 28, 2026, and the UK day is one week later, on Saturday 5 December."
 sources:
   - title: "Small Business Saturday UK"
     url: "https://www.smallbusinesssaturdayuk.com/"
     publisher: "Small Business Saturday UK"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "About us"
     url: "https://smallbusinesssaturdayuk.com/about-us"
     publisher: "Small Business Saturday UK"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Marketing pack"
     url: "https://smallbusinesssaturdayuk.com/marketing-pack"
     publisher: "Small Business Saturday UK"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Small Business Finder"
     url: "https://smallbusinesssaturdayuk.com/small-business-finder"
     publisher: "Small Business Saturday UK"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Small Biz 100 2026"
     url: "https://businesswales.gov.wales/news-and-blog/small-biz-100-2026"
     publisher: "Business Wales (Welsh Government)"
@@ -93,7 +94,15 @@ sources:
   - title: "Small Business Saturday"
     url: "https://www.sba.gov/Saturday"
     publisher: "U.S. Small Business Administration"
-    date: "2026-11-04"
+    date: "2026-11-14"
+  - title: "Out And About"
+    url: "https://smallbusinesssaturdayuk.com/out-and-about"
+    publisher: "Small Business Saturday UK"
+    date: "2026-11-14"
+  - title: "Webinar Series"
+    url: "https://smallbusinesssaturdayuk.com/webinar-series"
+    publisher: "Small Business Saturday UK"
+    date: "2026-11-14"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -124,9 +133,9 @@ draft: false
 
 ## How shops take part in Small Business Saturday UK
 
-Taking part means using the organiser's 2026 marketing pack and promoting the shop yourself. The organiser's site is the place to start: it carries a newsletter sign-up on the homepage, and the pack page explains how to request the materials. We found no business registration for the day on the organiser's site on Nov. 4, 2026.
+Taking part means using the organiser's 2026 marketing pack and promoting the shop yourself. The organiser's site is the place to start: it carries a newsletter sign-up on the homepage, and the pack page explains how to request the materials. We found no business registration for the day on the organiser's site on Nov. 14, 2026. The organiser also runs a free webinar series on Zoom, weekdays at 11am from 2 November to 2 December.
 
-The campaign is led by Michelle Ovens, a Commander of the Order of the British Empire (CBE), who is named on the organiser's site as "Director of Small Business Saturday UK". The site says the day is "Proudly supported by American Express". It gives conflicting counts of how long the UK campaign has run, so we print no start year.
+The campaign is led by Michelle Ovens, a Commander of the Order of the British Empire (CBE), who is named on the organiser's site as "Director of Small Business Saturday UK". The site says the day is "Proudly supported by American Express". The site says the campaign is "proudly in its thirteenth year in the UK".
 
 ## What is in the 2026 marketing pack
 
@@ -141,9 +150,9 @@ To get it, watch the short video on the pack page, tick the Terms & Conditions b
 
 ## What happened to the Small Business Finder
 
-The organiser's Small Business Finder page now reads: "We have now said goodbye to our My Small Business and Small Business Finder features." Shops therefore cannot list themselves there. They promote themselves through the pack and their own channels: the window poster, the social graphics and posts, and the shop's own newsletter or website.
+The organiser's Small Business Finder page now reads: "We have now said goodbye to our My Small Business and Small Business Finder features." The organiser says it closed the finder with the launch of its new website because profiles were user-generated and hard to keep accurate, and it points businesses to Google Business Profiles instead. Shops therefore cannot list themselves there. They promote themselves through the pack and their own channels: the window poster, the social graphics and posts, and the shop's own newsletter or website.
 
-The organiser's own accounts are Instagram (smallbizsatuk), TikTok (@smallbizsatuk), Facebook (SmallBusinessSaturdayUK) and LinkedIn (small-business-saturday-uk). We found no official UK hashtag, so we do not suggest one.
+The organiser's own accounts are Instagram (smallbizsatuk), TikTok (@smallbizsatuk), Facebook (SmallBusinessSaturdayUK) and LinkedIn (small-business-saturday-uk). The About page says #SmallBizSatUK and #SmallBusinessSaturday trend throughout the day; it does not name an official hashtag.
 
 ## Small Business Saturday in the UK and the US
 
@@ -171,6 +180,16 @@ These steps are our suggestions, counted back from Saturday, December 5, 2026. O
 
 The printable below puts these steps on one page, with room for notes after the day. Mark the date on your [December 2026 printable calendar](/december-calendars.html), and check the [UK holidays](/uk-holidays/) page when planning opening hours. Shops that ship orders can use the [Royal Mail last posting dates](/news/royal-mail-last-posting-dates-christmas-2026-second-class-18-december/). Shoppers planning the weekend can see the [UK Christmas markets dates](/news/uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast/). For more United States holiday shopping dates, see our guide to [Green Monday and Super Saturday](/news/green-monday-2026-december-14-super-saturday-december-19/).
 
-## What the organiser has not announced
+## Out And About events and webinars before 5 December
 
-The organiser says its team will be "Out And About" across the UK in 2026, but it had posted no dates or places on Nov. 4, 2026. The Nation's Favourite Businesses programme, which Business Wales (Welsh Government) calls Small Biz 100, is also closed to entries. Business Wales said on 2 June 2026 that the campaign highlights 100 small businesses, one a day for 100 days leading up to Small Business Saturday 2026, and that applications close on 30 June 2026.
+The organiser says its team will be "Out And About" across the UK in the lead-up to the day. Each event takes place in the morning, and it says times will be added as they are confirmed.
+
+| Date | Place | What the organiser lists |
+|---|---|---|
+| Tue., Nov. 17 | Belfast | A Small Business Saturday event: a morning of networking, insights and conversation |
+| Thu., Nov. 26 | Manchester | BT Cyber Prepared UK event |
+| Tue., Dec. 1 | Glasgow | BT Cyber Prepared UK event |
+
+Each listing has a sign-up link on the organiser's Out And About page. The free daily webinars run Monday to Friday at 11am until Wednesday, Dec. 2, and the organiser says anyone who attends 10 or more gets a gift box from Sweet Grind.
+
+The Nation's Favourite Businesses programme, which Business Wales (Welsh Government) calls Small Biz 100, is closed to entries, and the organiser now says the full list is live. Business Wales said on 2 June 2026 that the campaign highlights 100 small businesses, one a day for 100 days leading up to Small Business Saturday 2026, and that applications close on 30 June 2026.
