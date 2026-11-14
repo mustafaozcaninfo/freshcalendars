@@ -1,9 +1,9 @@
 ---
 title: "MotoGP Malaysia 2026 Results: Marc Marquez Wins by 4.1 Seconds"
-description: "Marc Marquez won the Malaysian Grand Prix on Nov. 1, 2026, by 4.1 seconds and leads by 44 points. Pedro Acosta won the Sprint; sessions in U.S. time zones."
+description: "Marc Marquez won the Malaysian Grand Prix on Nov. 1, 2026, by 4.1 seconds and left 44 points ahead. Pedro Acosta won the Sprint; sessions in U.S. times."
 type: explainer
 publishedAt: "2026-10-30T01:45:00-04:00"
-updatedAt: "2026-11-03T07:09:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["motogp malaysia 2026 results", "motogp malaysia 2026 race time", "malaysian gp 2026 winner", "motogp sprint sepang 2026"]
@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones/motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones.webp
   alt: "Main grandstand at Sepang International Circuit in Malaysia, host of the MotoGP Malaysia 2026 race"
   title: "MotoGP Malaysia 2026 race time"
-  caption: "The main grandstand at Sepang International Circuit (file photo). The Malaysian Grand Prix starts at 3 p.m. local time on Sunday, Nov. 1, 2026."
+  caption: "The main grandstand at Sepang International Circuit (file photo). The Malaysian Grand Prix started at 3 p.m. local time on Sunday, Nov. 1, 2026."
   credit: "Photo: Postmortem at Russian Wikipedia / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -64,6 +64,14 @@ sources:
     url: "https://www.motogp.com/en/news/2026/10/25/motogp-grand-prix-race-at-phillip-island-cancelled/1180939"
     publisher: "MotoGP"
     date: "2026-10-24"
+  - title: "Bezzecchi bounces back with Qatar victory as Marquez extends championship lead"
+    url: "https://www.motogp.com/en/news/2026/11/08/bezzecchi-bounces-back-with-qatar-victory-as-marquez-extends-championship-lead/1184256"
+    publisher: "MotoGP"
+    date: "2026-11-08"
+  - title: "MotoGP and ESPN announce multi-year broadcast agreement across the United States and Latin America"
+    url: "https://www.motogp.com/en/news/2026/11/12/motogp-and-espn-announce-multi-year-broadcast-agreement-across-the-united-states-and-latin-america/1185285"
+    publisher: "MotoGP"
+    date: "2026-11-12"
   - title: "2026 MotoGP Broadcasters"
     url: "https://www.motogp.com/en/broadcasters"
     publisher: "MotoGP"
@@ -82,7 +90,7 @@ assets:
     slug: motogp-malaysia-2026-schedule-time-zones
     group: motogp-2026
     title: "MotoGP Malaysia 2026 Schedule in U.S. Time Zones"
-    subtitle: "Sepang times (UTC+8) converted to Eastern and Pacific. U.S. clocks fall back at 2 a.m. Sun., Nov. 1."
+    subtitle: "Sepang times (UTC+8) converted to Eastern and Pacific. U.S. clocks fell back at 2 a.m. Sun., Nov. 1."
     columns: ["Session (Sepang time)", "Eastern / Pacific"]
     layout: list
     rows:
@@ -95,11 +103,11 @@ assets:
       - ["Sun., Nov. 1 · Moto3 race, 12:00", "Sun. 12:00 a.m. EDT / Sat. 9:00 p.m. PDT"]
       - ["Sun., Nov. 1 · Moto2 race, 13:15", "Sun. 1:15 a.m. EDT / Sat. 10:15 p.m. PDT"]
       - ["Sun., Nov. 1 · Malaysian GP, 15:00", "Sun. 2:00 a.m. EST / 12:00 a.m. PDT"]
-      - ["Nov. 6-8 · Qatar", "Remaining 2026 round"]
+      - ["Nov. 6-8 · Qatar", "Held: Bezzecchi won, Marquez second"]
       - ["Nov. 20-22 · Portugal", "Remaining 2026 round"]
       - ["Nov. 27-29 · Valencia", "Remaining 2026 round"]
     note: "Source: MotoGP (motogp.com) official time schedule, Oct. 28, 2026; times converted by Fresh Calendars."
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "A one-page MotoGP Malaysia 2026 schedule with Sepang times converted to U.S. Eastern and Pacific time, plus the remaining 2026 rounds."
     alt: "MotoGP Malaysia 2026 schedule listing sessions in Eastern and Pacific time and the remaining rounds"
 downloads:
@@ -110,14 +118,6 @@ downloads:
     alt: "MotoGP Malaysia 2026 schedule listing sessions in Eastern and Pacific time and the remaining rounds"
     pdf: "/news/downloads/motogp-2026/motogp-malaysia-2026-schedule-time-zones.pdf"
     png: "/news/downloads/motogp-2026/motogp-malaysia-2026-schedule-time-zones.png"
-    pages: 1
-  - group: "MotoGP Malaysia 2026 Schedule in U.S. Time Zones printables"
-    title: "MotoGP Malaysia 2026 Schedule in U.S. Time Zones (ink saver)"
-    description: "A one-page MotoGP Malaysia 2026 schedule with Sepang times converted to U.S. Eastern and Pacific time, plus the remaining 2026 rounds. Ink-saver version."
-    preview: ../../../../assets/news/motogp-2026/motogp-malaysia-2026-schedule-time-zones-ink.png
-    alt: "MotoGP Malaysia 2026 schedule listing sessions in Eastern and Pacific time and the remaining rounds, ink-saver version"
-    pdf: "/news/downloads/motogp-2026/motogp-malaysia-2026-schedule-time-zones-ink.pdf"
-    png: "/news/downloads/motogp-2026/motogp-malaysia-2026-schedule-time-zones-ink.png"
     pages: 1
 draft: false
 ---
@@ -155,11 +155,11 @@ The abbreviations are Central Daylight Time (CDT), Mountain Daylight Time (MDT),
 
 MotoGP said: "The Malaysian GP begins at 15:00, with 20 laps deciding our winner." That is 07:00 UTC. In the United States it was 2 a.m. EST, 1 a.m. CST, 1 a.m. MDT and 12 a.m. (midnight) PDT on Sunday, Nov. 1, by our conversion. The race distance is 110.86 km (68.89 miles), MotoGP's Malaysia event page says.
 
-The Moto3 race is 15 laps and the Moto2 race is 17 laps, per the same page. MotoGP also lists a post-race press conference at 16:45 local time.
+The Moto3 race is 15 laps and the Moto2 race is 17 laps, per the same page.
 
 ## What time was the MotoGP Sprint at Sepang?
 
-MotoGP said "the Tissot Sprint starting at 15:00" on Saturday, Oct. 31. That is also 07:00 UTC, so it was 3 a.m. EDT, 2 a.m. CDT, 1 a.m. MDT and 12 a.m. (midnight) PDT on Saturday, by our conversion. MotoGP qualifying is at 10:50 local time the same day, which is Friday night, 10:50 p.m. EDT, in the East.
+MotoGP said "the Tissot Sprint starting at 15:00" on Saturday, Oct. 31. That is also 07:00 UTC, so it was 3 a.m. EDT, 2 a.m. CDT, 1 a.m. MDT and 12 a.m. (midnight) PDT on Saturday, by our conversion. MotoGP qualifying was at 10:50 local time the same day, which is Friday night, 10:50 p.m. EDT, in the East.
 
 ## Why did the clock change matter for a 2 a.m. race?
 
@@ -169,7 +169,7 @@ Our [when does daylight saving time end](/when-is/daylight-savings/) page has th
 
 ## Where can you watch MotoGP in the United States?
 
-MotoGP's official broadcaster list names FOX Sports for the United States. Check your local listings for the channel and start of coverage.
+MotoGP's official broadcaster list names FOX Sports for the United States. Check your local listings for the channel and start of coverage. On Nov. 12 MotoGP announced a two-year agreement making ESPN its exclusive U.S. media rights holder for the 2027 and 2028 seasons, after the current U.S. arrangement ends with the 2026 season.
 
 ## Has MotoGP cancelled a race this season?
 
@@ -181,9 +181,11 @@ After Malaysia, MotoGP's calendar lists three rounds:
 
 | Round | Dates, 2026 |
 |---|---|
-| Qatar | Nov. 6-8 |
+| Qatar | Nov. 6-8 (held) |
 | Portugal | Nov. 20-22 |
 | Valencia | Nov. 27-29 |
+
+Marco Bezzecchi won the Qatar Grand Prix on Sunday, Nov. 8, with Marc Marquez second and Raul Fernandez third, MotoGP reported. Marquez left Qatar 60 points clear of Jorge Martin, with 74 points still available. MotoGP wrote that if Marquez wins the Sprint at Portimao, he will be crowned 2026 world champion.
 
 ## Free MotoGP Malaysia 2026 schedule in U.S. time
 

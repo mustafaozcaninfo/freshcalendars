@@ -3,7 +3,7 @@ title: "SNAP Benefits November 2026: Dates by State, Weekends Flagged"
 description: "Supplemental Nutrition Assistance Program (SNAP) benefits loaded Sunday, Nov. 1, 2026 in some states. Deposit days by state, with weekend days flagged."
 type: explainer
 publishedAt: "2026-10-29T10:05:43-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:15:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["SNAP payment schedule November 2026", "when will SNAP be deposited November 2026", "food stamps November 2026 dates by state", "SNAP deposit dates by state"]
@@ -28,9 +28,9 @@ faq:
   - q: "When will SNAP be deposited in November 2026?"
     a: "It depends on the state. FNS lists days from the 1st to the 28th. Alaska, North Dakota, Rhode Island, Vermont and the U.S. Virgin Islands issued on the 1st, Sunday, Nov. 1, 2026, which has passed. Find your state in the table above."
   - q: "Does SNAP come on a weekend?"
-    a: "Several states have schedule days on Saturday or Sunday in November 2026, such as Nov. 1 (past), 7 and 8. The FNS document gives no weekend shift rule for most states. Check your state agency's notice or EBT portal."
+    a: "Several states have schedule days on Saturday or Sunday in November 2026, such as Nov. 14 and 15 (Nov. 1, 7 and 8 have passed). The FNS document gives no weekend shift rule for most states. Check your state agency's notice or EBT portal."
   - q: "Is there a Veterans Day change to SNAP deposits?"
-    a: "Veterans Day is Wednesday, Nov. 11, 2026. The FNS document names no Veterans Day shift. It says Pennsylvania counts business days without weekends and holidays, and that New York City posts on days that are not Sundays or holidays."
+    a: "Veterans Day was Wednesday, Nov. 11, 2026. The FNS document names no Veterans Day shift. It says Pennsylvania counts business days without weekends and holidays, and that New York City posts on days that are not Sundays or holidays."
   - q: "How do I find out my exact deposit day?"
     a: "FNS says each state sets its own schedule and the state's notice is final. Use your state's Electronic Benefit Transfer (EBT) portal or the notice from your state agency."
   - q: "What is the most SNAP a household can get in November 2026?"
@@ -46,7 +46,7 @@ sources:
   - title: "SNAP Cost-of-Living Adjustment (COLA) Information"
     url: "https://www.fna.usda.gov/snap/allotment/cola"
     publisher: "USDA Food and Nutrition Service"
-    date: "2026-10-21"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -94,6 +94,7 @@ assets:
       - ["Mississippi", "4th to 21st; Last two digits of case number"]
       - ["Missouri", "1st to 22nd; Birth month and first letter of last name"]
     note: "Source: USDA Food and Nutrition Service, SNAP Monthly Issuance Schedule for All States and Territories (updated July 26, 2024); FY 2027 COLA table. Your state agency's notice is final."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true
     description: "SNAP deposit days for Alabama through Missouri, with the rule that sets each household's day, from the USDA Food and Nutrition Service schedule."
     alt: "Printable list of SNAP deposit days by state, Alabama to Missouri, November 2026"
@@ -206,8 +207,8 @@ November 1, 2026 is a Sunday, so the weekends are Nov. 1, 7, 8, 14, 15, 21, 22, 
 | Weekend date | States and territories with a schedule day on it |
 |---|---|
 | Sunday, Nov. 1 (past) | Alaska, Arizona, California, Colorado, Connecticut, District of Columbia, Florida, Guam, Idaho, Illinois, Iowa, Kansas, Kentucky, Louisiana, Massachusetts, Missouri, Nebraska, Nevada, New Jersey, New Mexico, New York, North Dakota, Oklahoma, Oregon, Rhode Island, South Carolina, Tennessee, Texas, Vermont, U.S. Virgin Islands, Virginia, Washington, West Virginia, Wyoming |
-| Saturday, Nov. 7 | Alabama, Arizona, California, Colorado, Delaware, District of Columbia, Florida, Georgia, Guam, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Nevada, New Mexico, New York, North Carolina, Oregon, South Carolina, Tennessee, Texas, Virginia, Washington, West Virginia |
-| Sunday, Nov. 8 | Alabama, Arizona, Arkansas, California, Colorado, Delaware, District of Columbia, Florida, Guam, Idaho, Illinois, Iowa, Kansas, Maryland, Massachusetts, Minnesota, Mississippi, Missouri, Nevada, New Mexico, New York, Ohio, Oregon, Puerto Rico, South Carolina, Tennessee, Washington, West Virginia, Wisconsin |
+| Saturday, Nov. 7 (past) | Alabama, Arizona, California, Colorado, Delaware, District of Columbia, Florida, Georgia, Guam, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Nevada, New Mexico, New York, North Carolina, Oregon, South Carolina, Tennessee, Texas, Virginia, Washington, West Virginia |
+| Sunday, Nov. 8 (past) | Alabama, Arizona, Arkansas, California, Colorado, Delaware, District of Columbia, Florida, Guam, Idaho, Illinois, Iowa, Kansas, Maryland, Massachusetts, Minnesota, Mississippi, Missouri, Nevada, New Mexico, New York, Ohio, Oregon, Puerto Rico, South Carolina, Tennessee, Washington, West Virginia, Wisconsin |
 | Saturday, Nov. 14 | Alabama, Delaware, Florida, Maine, Maryland, Massachusetts, Mississippi, Missouri, New Mexico, Ohio, Puerto Rico, Tennessee, Washington, Wisconsin |
 | Sunday, Nov. 15 | Alabama, Delaware, Florida, Georgia, Indiana, Kentucky, Louisiana, Maryland, Michigan, Mississippi, Missouri, New Mexico, North Carolina, South Carolina, Tennessee, Texas, Utah, Washington, Wisconsin |
 | Saturday, Nov. 21 | Alabama, Delaware, Florida, Georgia, Indiana, Louisiana, Maryland, Michigan, Mississippi, Missouri, North Carolina, Texas |
@@ -221,11 +222,11 @@ The FNS document gives no weekend or holiday shift rule for these states. The ex
 
 ## Does Veterans Day change SNAP deposits?
 
-Veterans Day is Wednesday, Nov. 11, 2026, a federal holiday (see [when is Veterans Day](/when-is/veterans-day/)). The FNS document names no Veterans Day shift for any state. It does say Pennsylvania's first 10 business days exclude weekends and holidays, and that New York City posts on days that are not Sundays or holidays. Cardholders in those two places should confirm with their state or city notice whether Nov. 11 counts. Our [Social Security payment schedule](/news/social-security-payment-schedule-november-2026-veterans-day-shift/) explains how another federal benefit handles that date.
+Veterans Day was Wednesday, Nov. 11, 2026, a federal holiday (see [when is Veterans Day](/when-is/veterans-day/)). The FNS document names no Veterans Day shift for any state. It does say Pennsylvania's first 10 business days exclude weekends and holidays, and that New York City posts on days that are not Sundays or holidays. Cardholders in those two places should confirm with their state or city notice whether Nov. 11 counted. Our [Social Security payment schedule](/news/social-security-payment-schedule-november-2026-veterans-day-shift/) explains how another federal benefit handles that date.
 
 ## How much SNAP can a household get in November 2026?
 
-November 2026 benefits use the FY 2027 maximum allotments, which FNS lists as effective Oct. 1, 2026, through Sept. 30, 2027 (page updated Oct. 21, 2026).
+November 2026 benefits use the FY 2027 maximum allotments, which FNS lists as effective Oct. 1, 2026, through Sept. 30, 2027 (page updated Nov. 4, 2026).
 
 | Household size | Maximum monthly allotment, 48 states and DC |
 |---|---|

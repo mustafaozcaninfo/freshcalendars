@@ -3,7 +3,7 @@ title: "Oilers Schedule November 2026: 15 Games, Vegas on Nov. 24"
 description: "Oilers November 2026 schedule: 15 games, six at home at Rogers Place, with Vegas on national TV Nov. 24. Mountain and Eastern times, TV and a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Oilers schedule November 2026", "Oilers game tonight", "Oilers TV schedule", "Oilers Canucks November 7 2026", "Oilers printable schedule"]
@@ -12,8 +12,8 @@ assets:
   scene: sports
   overlay: true
   kicker: "Oilers · November 2026"
-  date: "2026-11-03"
-  card: { top: "Next game", big: "Tue., Nov. 3", bottom: "Edmonton at New Jersey, 5:30 p.m. MT" }
+  date: "2026-11-14"
+  card: { top: "Next game", big: "Sat., Nov. 14", bottom: "Edmonton at Toronto, 5 p.m. MT" }
   printable:
     slug: edmonton-oilers-schedule-november-2026
     group: oilers-schedule-2026
@@ -69,17 +69,17 @@ downloads:
     png: "/news/downloads/oilers-schedule-2026/edmonton-oilers-schedule-november-2026-ink.png"
     pages: 1
 summary:
-  - "The Oilers' next game is Tue., Nov. 3, 2026, at New Jersey, at 5:30 p.m. Mountain Time (MT), 7:30 p.m. Eastern Time (ET), per the NHL schedule fetched Nov. 2, 2026."
+  - "The Oilers' next game is Sat., Nov. 14, 2026, at Toronto, at 5 p.m. Mountain Time (MT), 7 p.m. Eastern Time (ET). They won four of their first six November games, per the NHL."
   - "The NHL lists 15 Oilers games in November 2026, six at home at Rogers Place and nine on the road, from Sun., Nov. 1 to Sat., Nov. 28 at Seattle."
-  - "The home opener for the month is Thu., Nov. 5, against the Anaheim Ducks at 6 p.m. MT, 8 p.m. ET, on Sportsnet West."
+  - "The Oilers opened the month at Rogers Place on Thu., Nov. 5, a 5-4 loss to the Anaheim Ducks, and beat Vancouver 4-2 there on Sat., Nov. 7."
   - "Vegas visits Rogers Place on Tue., Nov. 24, at 6 p.m. MT, 8 p.m. ET, the month's U.S. national game on TNT and truTV."
 faq:
   - q: "When is the next Oilers game?"
-    a: "Tue., Nov. 3, 2026, at the New Jersey Devils, 5:30 p.m. MT, 7:30 p.m. ET, according to the NHL schedule. The Oilers' next home game is Thu., Nov. 5, against Anaheim."
+    a: "Sat., Nov. 14, 2026, at the Toronto Maple Leafs, 5 p.m. MT, 7 p.m. ET, according to the NHL schedule. The Oilers' next home game is Tue., Nov. 24, against Vegas."
   - q: "How many Oilers games are in November 2026?"
     a: "15, according to the NHL schedule fetched Nov. 2, 2026: six at home at Rogers Place and nine on the road."
   - q: "What time is Oilers vs. Canucks on Nov. 7, 2026?"
-    a: "8 p.m. MT, 10 p.m. ET, at Rogers Place on Sat., Nov. 7. The NHL lists Sportsnet and TVA Sports in Canada."
+    a: "The game started at 8 p.m. MT, 10 p.m. ET, at Rogers Place on Sat., Nov. 7, and the Oilers won 4-2, per the NHL. It aired on Sportsnet and TVA Sports in Canada."
   - q: "What channel are the Oilers on in November 2026?"
     a: "Most games are on Sportsnet or Sportsnet West in Canada, with TVA Sports for national French-language games. The NHL lists TNT and truTV in the U.S. for the Nov. 24 game against Vegas."
   - q: "Can the Oilers schedule change?"
@@ -88,7 +88,7 @@ sources:
   - title: "Edmonton Oilers club schedule, November 2026 (NHL web API)"
     url: "https://api-web.nhle.com/v1/club-schedule/EDM/month/2026-11"
     publisher: "National Hockey League"
-    date: "2026-11-02"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -100,9 +100,9 @@ related: [montreal-canadiens-schedule-november-2026-game-times-tv-printable, tor
 draft: false
 ---
 
-**The Edmonton Oilers' next game is Tuesday, Nov. 3, 2026, at the New Jersey Devils, at 5:30 p.m. Mountain Time (MT), which is 7:30 p.m. Eastern Time (ET), according to the National Hockey League (NHL) schedule.** The full month with start times and TV is below, and a one-page printable is further down.
+**The Edmonton Oilers' next game is Saturday, Nov. 14, 2026, at the Toronto Maple Leafs, at 5 p.m. Mountain Time (MT), which is 7 p.m. Eastern Time (ET), according to the National Hockey League (NHL) schedule.** The full month with start times and TV is below, and a one-page printable is further down.
 
-The source is the NHL's club schedule for Edmonton, fetched Nov. 2, 2026. We converted its start times to MT, the Edmonton zone, and to ET, and calculated the weekdays. Six games are at home at Rogers Place. Nine are on the road. The Oilers opened the month at the New York Rangers on Sunday, Nov. 1, and have no game on Nov. 2, so the next chance to see them is Tuesday night in New Jersey.
+The source is the NHL's club schedule for Edmonton, fetched Nov. 2, 2026. We converted its start times to MT, the Edmonton zone, and to ET, and calculated the weekdays. Six games are at home at Rogers Place. Nine are on the road. The NHL's scores, checked Nov. 14, show the Oilers have played six games this month: a 4-1 win at the New York Rangers on Nov. 1, a 4-3 shootout loss at New Jersey on Nov. 3, a 5-4 loss to Anaheim on Nov. 5, a 4-2 win over Vancouver on Nov. 7, a 3-1 win over the Rangers on Nov. 9 and a 3-2 overtime win over Philadelphia on Nov. 11.
 
 ## Oilers game times and TV for every November game
 
@@ -130,7 +130,7 @@ Listings change. Check the NHL schedule on game day.
 
 ## What time is Oilers vs. Canucks on Nov. 7, 2026?
 
-Vancouver visits Rogers Place on Saturday, Nov. 7, at 8 p.m. MT, which is 10 p.m. ET, the Oilers' latest home start of the month. The NHL lists Sportsnet and TVA Sports in Canada and no United States national broadcaster. Anaheim opens the home slate two nights earlier, on Thursday, Nov. 5, at 6 p.m. MT, 8 p.m. ET, on Sportsnet West.
+Vancouver visited Rogers Place on Saturday, Nov. 7, at 8 p.m. MT, which is 10 p.m. ET, the Oilers' latest home start of the month, and Edmonton won 4-2. The NHL listed Sportsnet and TVA Sports in Canada and no United States national broadcaster. Anaheim opened the home slate two nights earlier, on Thursday, Nov. 5, at 6 p.m. MT, 8 p.m. ET, on Sportsnet West, and won 5-4.
 
 ## Oilers vs. Vegas on Nov. 24 is a national TV game
 

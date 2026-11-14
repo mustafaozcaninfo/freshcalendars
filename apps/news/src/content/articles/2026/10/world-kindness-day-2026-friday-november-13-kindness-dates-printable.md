@@ -1,8 +1,9 @@
 ---
 title: "World Kindness Day 2026: Friday, Nov. 13, Free Week Planner"
-description: "World Kindness Day is Friday, Nov. 13, 2026. School-year kindness dates through Feb. 24, 2027 and a free printable planner for Nov. 9 to 13."
+description: "World Kindness Day was Friday, Nov. 13, 2026. The next kindness dates run to Feb. 24, 2027, and a free printable planner covers Nov. 9 to 13."
 type: explainer
 publishedAt: "2026-10-30T19:45:00-04:00"
+updatedAt: "2026-11-14T17:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["world kindness day 2026", "when is world kindness day", "world kindness day ideas", "kindness calendar 2026"]
@@ -19,6 +20,7 @@ assets:
     subtitle: "One small action a day, Monday to World Kindness Day on Friday, Nov. 13"
     notesLabel: "What happened, and who to thank next"
     inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - { when: "Mon., Nov. 9", what: "Write a thank-you note to a school staff member", section: "At school" }
       - { when: "Tue., Nov. 10", what: "Invite someone who sits alone to join your group", section: "At school" }
@@ -36,7 +38,7 @@ assets:
 hero:
   src: ../../../../assets/news/world-kindness-day-2026-friday-november-13-kindness-dates-printable/world-kindness-day-2026-friday-november-13-kindness-dates-printable.webp
   alt: "Painted kindness rocks with a sailboat and bright patterns, the kind of small gesture shared on World Kindness Day 2026"
-  caption: "Painted stones like these are a common kindness project; World Kindness Day falls on Friday, Nov. 13, 2026."
+  caption: "Painted stones like these are a common kindness project; World Kindness Day fell on Friday, Nov. 13, 2026."
   credit: "Photo: AnnRos / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
@@ -44,17 +46,17 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Painted_stones_with_sailboat.jpg"
     author: "AnnRos"
 summary:
-  - "World Kindness Day is Friday, Nov. 13, 2026, according to the Random Acts of Kindness (RAK) Foundation. It is an awareness day, not a day off."
+  - "World Kindness Day was Friday, Nov. 13, 2026, according to the Random Acts of Kindness (RAK) Foundation. It is an awareness day, not a day off."
   - "The World Kindness Movement says the day traces back to the movement's founding in 1998. It has not published a 2026 theme on its site."
   - "Next on the kindness calendar: RAK Day on Wednesday, Feb. 17, 2027, and Pink Shirt Day in Canada on Wednesday, Feb. 24, 2027."
-  - "Our free printable plans one small action a day for Nov. 9 to 13."
+  - "Our free printable planned one small action a day for Nov. 9 to 13; the next World Kindness Day is Saturday, Nov. 13, 2027."
 faq:
   - q: "Is World Kindness Day a holiday?"
-    a: "It is an awareness day. We found no source that makes it a day off, so schools and offices keep their own Nov. 13 schedules."
-  - q: "What is the date of World Kindness Day in 2027?"
+    a: "It is an awareness day. We found no source that makes it a day off, so schools and offices kept their own Nov. 13 schedules."
+  - q: "When is World Kindness Day in 2027?"
     a: "Saturday, Nov. 13, 2027. The date is fixed at Nov. 13, so the weekday moves."
-  - q: "Is there a 2026 World Kindness Day theme?"
-    a: "The World Kindness Movement has not published one on its site, so we list none."
+  - q: "Was there a 2026 World Kindness Day theme?"
+    a: "The World Kindness Movement did not publish one on its site, so we list none."
   - q: "Where can teachers find free kindness lessons?"
     a: "The Random Acts of Kindness Foundation offers free K-8 lesson plans at randomactsofkindness.org/for-educators."
 sources:
@@ -106,11 +108,11 @@ downloads:
 draft: false
 ---
 
-**World Kindness Day is Friday, Nov. 13, 2026,** according to the Random Acts of Kindness (RAK) Foundation, which lists "World Kindness Day: Nov. 13, 2026" on its home page (checked Oct. 30, 2026). Below are the other kindness dates of the school year, taken from official sites, and a free one-page planner for the week of Nov. 9 to 13 with actions for school, home and the neighborhood.
+**World Kindness Day was Friday, Nov. 13, 2026,** according to the Random Acts of Kindness (RAK) Foundation, which lists "World Kindness Day: Nov. 13, 2026" on its home page (checked Oct. 30, 2026). Below are the next kindness dates of the school year, taken from official sites, and the free one-page planner for the week of Nov. 9 to 13 with actions for school, home and the neighborhood.
 
-## When is World Kindness Day in 2026?
+## When was World Kindness Day in 2026?
 
-Friday, Nov. 13. The RAK Foundation's free 2026 Kindness Calendar PDF marks the same day "World Kindness Day 2026!" The World Kindness Movement says the day is celebrated each November. Nov. 13, 2026 is a Friday, so this year it is also Friday the 13th; see our [Friday the 13th guide](/news/friday-the-13th-november-13-2026-next-friday-13th-dates/) for the other dates. It is an awareness day marked by schools, workplaces and families.
+Friday, Nov. 13. The next one is Saturday, Nov. 13, 2027. The RAK Foundation's free 2026 Kindness Calendar PDF marks the same day "World Kindness Day 2026!" The World Kindness Movement says the day is celebrated each November. Nov. 13, 2026 is a Friday, so in 2026 it was also Friday the 13th; see our [Friday the 13th guide](/news/friday-the-13th-november-13-2026-next-friday-13th-dates/) for the other dates. It is an awareness day marked by schools, workplaces and families.
 
 ## Where did World Kindness Day come from?
 
@@ -120,7 +122,7 @@ The World Kindness Movement's site says: "The origins of World Kindness Day trac
 
 | Date | Observance | Source |
 |---|---|---|
-| Fri., Nov. 13, 2026 | World Kindness Day | RAK Foundation |
+| Fri., Nov. 13, 2026 | World Kindness Day (past) | RAK Foundation |
 | Sun., Feb. 14 to Sat., Feb. 20, 2027 | RAK Week | RAK Foundation |
 | Wed., Feb. 17, 2027 | Random Acts of Kindness Day | RAK Foundation |
 | Wed., Feb. 24, 2027 | Pink Shirt Day (Canada, anti-bullying) | Pink Shirt Day |
@@ -130,11 +132,11 @@ The weekdays are our calculation from the published dates. World Kindness Day 20
 
 ## What free kindness resources are there for families and teachers?
 
-The RAK Foundation offers free [printables](https://www.randomactsofkindness.org/printables), free K-8 lesson plans for educators, and free kindness calendars for 2026 and 2027. The November 2026 calendar gives a daily kindness idea for every day of the month and marks Saturday, Nov. 28 as Small Business Saturday. Mark Nov. 13 on the [November 2026 printable calendar](/november-calendars.html), and see our [November 2026 dates list](/news/november-2026-important-dates-days-until/) for the rest of the month.
+The RAK Foundation offers free [printables](https://www.randomactsofkindness.org/printables), free K-8 lesson plans for educators, and free kindness calendars for 2026 and 2027. The November 2026 calendar gives a daily kindness idea for every day of the month and marks Saturday, Nov. 28 as Small Business Saturday. Keep the [November 2026 printable calendar](/november-calendars.html), and see our [November 2026 dates list](/news/november-2026-important-dates-days-until/) for the rest of the month.
 
-## How can you plan World Kindness Day week?
+## How was the World Kindness Day week planned?
 
-Our week planner gives one tick-box action for each school day from Monday, Nov. 9 to Friday, Nov. 13. The ideas are ours and are meant to be small enough for a school day:
+Our week planner gave one tick-box action for each school day from Monday, Nov. 9 to Friday, Nov. 13. The ideas are ours and are meant to be small enough for a school day:
 
 - **At school:** write a thank-you note to a school staff member; invite someone who sits alone to join your group.
 - **At home:** do a household chore nobody asked you to do; call or message a relative.

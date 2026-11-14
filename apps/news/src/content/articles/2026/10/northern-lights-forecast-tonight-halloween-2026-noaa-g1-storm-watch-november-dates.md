@@ -1,9 +1,9 @@
 ---
-title: "Northern Lights in November 2026: Next Dates Nov. 9, 17 and 18"
-description: "The next northern lights dates in November 2026 are Nov. 9, 17 and 18, each with a planetary K-index of 4 in the 27-day outlook, after Halloween's storm."
+title: "Northern Lights in November 2026: Next Dates Nov. 17 and 18"
+description: "The next northern lights dates in November 2026 are Nov. 17 and 18, each with a planetary K-index of 5 (G1) in the 27-day outlook, after Halloween's storm."
 type: news
 publishedAt: "2026-10-31T01:42:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:14:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["northern lights tonight", "northern lights forecast halloween 2026", "aurora forecast november 2026", "geomagnetic storm october 31 2026"]
@@ -23,7 +23,7 @@ summary:
   - "NOAA's Space Weather Prediction Center forecast a G1 (Minor) geomagnetic storm on Halloween night, Saturday, Oct. 31, 2026, with the strongest period from 11 p.m. EDT to 1 a.m. EST Sunday; that window has now passed."
   - "The forecast peak for Halloween night was a planetary K-index (Kp) of 4.67; the highest Kp in the 3-day forecast was 5.00 (G1), in the block that ended Friday night."
   - "The Moon was 63% lit and rose late in the evening, so moonlight could wash out faint aurora."
-  - "The next dates with a Kp of 4 in the 27-day outlook are Nov. 9, Nov. 17 and Nov. 18."
+  - "The next dates with a Kp of 5, the G1 level, in the 27-day outlook issued Nov. 9 are Nov. 17 and Nov. 18, then Nov. 27 and Nov. 28."
 faq:
   - q: "Did NOAA promise northern lights on Halloween night?"
     a: "NOAA did not promise a sighting anywhere. For a G1 storm its Space Weather Scales page says aurora is commonly visible at high latitudes, such as northern Michigan and Maine. Clouds, city lights and moonlight all matter."
@@ -32,29 +32,21 @@ faq:
   - q: "Does the clock change affect the forecast?"
     a: "No, but it changes how you read it. U.S. clocks fell back at 2 a.m. EDT on Sunday, Nov. 1, which was 1 a.m. EST, so the 1 a.m. hour happened twice on the clock."
   - q: "When is the next chance for northern lights after Halloween?"
-    a: "In SWPC's 27-day outlook issued Oct. 26, the next largest forecast Kp of 4 falls on Nov. 9, Nov. 17 and Nov. 18. A long-range outlook changes, so check the 3-day forecast before you go out."
+    a: "In SWPC's 27-day outlook issued Nov. 9, the next largest forecast Kp of 5 (G1) falls on Nov. 17 and Nov. 18, then on Nov. 27 and Nov. 28. The 3-day forecast issued Nov. 14 expects no G1 storm through Nov. 16. A long-range outlook changes, so check the 3-day forecast before you go out."
 downloads:
   - group: "Northern Lights Watch Dates printables"
     title: "Northern Lights Watch Dates, November 2026"
-    description: "A one-page November 2026 northern lights watch calendar with the Oct. 31 G1 forecast, the next Kp 4 outlook dates and moon phases."
+    description: "A one-page November 2026 northern lights watch calendar with the Oct. 31 G1 forecast, the next Kp 5 outlook dates and moon phases."
     preview: ../../../../assets/news/northern-lights-2026/northern-lights-watch-dates-november-2026.png
-    alt: "Northern lights watch dates for November 2026 listing the G1 forecast on Oct. 31, Kp 4 outlook dates and moon phases"
+    alt: "Northern lights watch dates for November 2026 listing the G1 forecast on Oct. 31, Kp 5 outlook dates and moon phases"
     pdf: "/news/downloads/northern-lights-2026/northern-lights-watch-dates-november-2026.pdf"
     png: "/news/downloads/northern-lights-2026/northern-lights-watch-dates-november-2026.png"
-    pages: 1
-  - group: "Northern Lights Watch Dates printables"
-    title: "Northern Lights Watch Dates, November 2026 (ink saver)"
-    description: "A one-page November 2026 northern lights watch calendar with the Oct. 31 G1 forecast, the next Kp 4 outlook dates and moon phases. Ink-saver version."
-    preview: ../../../../assets/news/northern-lights-2026/northern-lights-watch-dates-november-2026-ink.png
-    alt: "Northern lights watch dates for November 2026 listing the G1 forecast on Oct. 31, Kp 4 outlook dates and moon phases, ink-saver version"
-    pdf: "/news/downloads/northern-lights-2026/northern-lights-watch-dates-november-2026-ink.pdf"
-    png: "/news/downloads/northern-lights-2026/northern-lights-watch-dates-november-2026-ink.png"
     pages: 1
 sources:
   - title: "3-Day Forecast"
     url: "https://services.swpc.noaa.gov/text/3-day-forecast.txt"
     publisher: "NOAA Space Weather Prediction Center"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "Space Weather Alerts, Watches and Warnings"
     url: "https://services.swpc.noaa.gov/products/alerts.json"
     publisher: "NOAA Space Weather Prediction Center"
@@ -65,7 +57,11 @@ sources:
   - title: "27-Day Space Weather Outlook Table"
     url: "https://services.swpc.noaa.gov/text/27-day-outlook.txt"
     publisher: "NOAA Space Weather Prediction Center"
-    date: "2026-10-26"
+    date: "2026-11-09"
+  - title: "Observed Planetary K-index"
+    url: "https://services.swpc.noaa.gov/products/noaa-planetary-k-index.json"
+    publisher: "NOAA Space Weather Prediction Center"
+    date: "2026-11-14"
   - title: "Phases of the Moon"
     url: "https://aa.usno.navy.mil/data/MoonPhases"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
@@ -78,24 +74,24 @@ related: [november-2026-meteor-showers-taurids-leonids, planets-visible-november
 assets:
   scene: night-sky
   overlay: true
-  kicker: "Northern lights · Sat., Oct. 31"
-  date: "2026-10-31"
-  card: { top: "Strongest G1 period forecast", big: "11 p.m. ET", bottom: "Sat., Oct. 31 to 1 a.m. EST Sun." }
+  kicker: "Northern lights · November 2026"
+  date: "2026-11-14"
+  card: { top: "Next Kp 5 (G1) outlook dates", big: "Nov. 17", bottom: "and Wed., Nov. 18, per NOAA's outlook" }
   printable:
     slug: northern-lights-watch-dates-november-2026
     group: northern-lights-2026
     title: "Northern Lights Watch Dates, November 2026"
-    subtitle: "G1 storm forecast Oct. 31 and the next Kp 4 dates"
+    subtitle: "G1 storm forecast Oct. 31 and the next Kp 5 dates"
     rows:
       - ["Sat., Oct. 31 to Sun., Nov. 1", "G1 (Minor) storm forecast; strongest 11 p.m. EDT to 1 a.m. EST"]
-      - ["Mon., Nov. 9", "Kp 4 in outlook; new moon 2:02 a.m. EST"]
-      - ["Tue., Nov. 17", "Kp 4 in outlook; first quarter moon 6:48 a.m. EST"]
-      - ["Wed., Nov. 18", "Kp 4 in outlook"]
+      - ["Tue., Nov. 17", "Kp 5 in outlook; first quarter moon 6:48 a.m. EST"]
+      - ["Wed., Nov. 18", "Kp 5 in outlook"]
       - ["Tue., Nov. 24", "Full moon 9:53 a.m. EST"]
-    note: "Source: NOAA Space Weather Prediction Center 3-Day Forecast (Oct. 31, 2026) and 27-day outlook (Oct. 26, 2026); U.S. Naval Observatory moon phases. Forecasts change; check before you go out."
-    inkSaver: true
+      - ["Fri., Nov. 27", "Kp 5 in outlook"]
+      - ["Sat., Nov. 28", "Kp 5 in outlook"]
+    note: "Source: NOAA Space Weather Prediction Center 3-Day Forecast (Oct. 31, 2026) and 27-day outlook (Nov. 9, 2026); U.S. Naval Observatory moon phases. Forecasts change; check before you go out."
     description: "A one-page November 2026 northern lights watch calendar with the Oct. 31 G1 forecast, the next Kp 4 outlook dates and moon phases."
-    alt: "Northern lights watch dates for November 2026 listing the G1 forecast on Oct. 31, Kp 4 outlook dates and moon phases"
+    alt: "Northern lights watch dates for November 2026 listing the G1 forecast on Oct. 31, Kp 5 outlook dates and moon phases"
 draft: false
 ---
 
@@ -135,15 +131,14 @@ The Moon was a waning gibbous on Halloween, 63% lit, according to the U.S. Naval
 
 ## Northern lights dates to mark in November 2026
 
-SWPC's 27-day outlook, issued Oct. 26, lists the largest forecast Kp for each UTC date. After Nov. 1 (Kp 4) and Nov. 2 (Kp 3), the next dates with a forecast Kp of 4 are below, with USNO moon phases (converted to EST).
+SWPC's 27-day outlook, issued Nov. 9, lists the largest forecast Kp for each UTC date. The planetary K-index that SWPC reported for Nov. 7 and Nov. 8 reached 5.33 and 5.00, the G1 level. The next dates with a forecast Kp of 5 are below, with USNO moon phases (converted to EST).
 
 | Date | Outlook Kp | Moon |
 |---|---|---|
-| Mon., Nov. 9 | 4 | New Moon, 2:02 a.m. EST |
-| Tue., Nov. 17 | 4 | First Quarter, 6:48 a.m. EST |
-| Wed., Nov. 18 | 4 | No phase change listed |
+| Tue., Nov. 17 | 5 | First Quarter, 6:48 a.m. EST |
+| Wed., Nov. 18 | 5 | No phase change listed |
 
-Nov. 9 pairs a Kp 4 forecast with the new moon, which means the darkest skies of the month. The 27-day outlook is a long-range product and changes, so check the [3-day forecast](https://services.swpc.noaa.gov/text/3-day-forecast.txt) before going out. The Full Moon falls on Tue., Nov. 24 at 9:53 a.m. EST, after the outlook table ends on Nov. 21, so it is a moon date only. Print the dates on the [November 2026 printable calendar](/november-calendars.html) or our free Northern Lights Watch Dates sheet.
+The outlook also lists a Kp of 5 on Fri., Nov. 27 and Sat., Nov. 28, near the end of the month. The Full Moon falls on Tue., Nov. 24 at 9:53 a.m. EST, so those two nights have a bright, waning Moon. The 27-day outlook is a long-range product and changes, so check the [3-day forecast](https://services.swpc.noaa.gov/text/3-day-forecast.txt) before going out. The one issued Nov. 14 expects no G1 storm through Nov. 16. Print the dates on the [November 2026 printable calendar](/november-calendars.html) or our free Northern Lights Watch Dates sheet.
 
 ## What else is in the November sky?
 

@@ -1,9 +1,9 @@
 ---
 title: "Poppy Campaign 2026 in Canada: Oct. 24 to Nov. 11, Now Every Year"
-description: "Canada's poppy campaign runs Oct. 24 to Nov. 11, 2026, says the Royal Canadian Legion. The dates are now fixed yearly; a printable timeline is included."
+description: "Canada's poppy campaign ran Oct. 24 to Nov. 11, 2026, says the Royal Canadian Legion. The dates are now fixed yearly, so 2027 starts Oct. 24 too."
 type: news
 publishedAt: "2026-10-29T11:45:00-04:00"
-updatedAt: "2026-11-01T10:31:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["poppy campaign 2026", "when does the poppy campaign start 2026", "when to wear a poppy canada 2026", "poppy campaign dates canada"]
@@ -28,7 +28,7 @@ downloads:
 hero:
   src: ../../../../assets/news/poppy-campaign-2026-canada-dates-october-24-november-11/poppy-campaign-2026-canada-dates-october-24-november-11.webp
   alt: "Red poppies left on the Tomb of the Unknown Soldier in Ottawa, the tradition behind the Poppy Campaign 2026"
-  caption: "File photo: poppies left on the Tomb of the Unknown Soldier at the National War Memorial in Ottawa. The 2026 Poppy Campaign runs Oct. 24 to Nov. 11."
+  caption: "File photo: poppies left on the Tomb of the Unknown Soldier at the National War Memorial in Ottawa. The 2026 Poppy Campaign ran Oct. 24 to Nov. 11."
   credit: "Photo: Mikkel Paulson / Wikimedia Commons, cropped, edited"
   license:
     name: "Public Domain"
@@ -36,21 +36,21 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Canadian_Tomb_of_the_Unknown_Soldier_with_poppies.jpg"
     author: "Mikkel Paulson"
 summary:
-  - "The Royal Canadian Legion's National Poppy Campaign is under way and runs from Saturday, Oct. 24, to Wednesday, Nov. 11, 2026."
-  - "The Legion's Dominion Executive Council approved a standard annual period: from 2026 the campaign runs each year from Oct. 24 through Nov. 11."
+  - "The Royal Canadian Legion's National Poppy Campaign ran from Saturday, Oct. 24, to Wednesday, Nov. 11, 2026."
+  - "The Legion's Dominion Executive Council approved a standard annual period: from 2026 the campaign runs each year from Oct. 24 through Nov. 11, so the 2027 campaign starts Sunday, Oct. 24, 2027."
   - "Under the old last-Friday pattern, the 2026 campaign would have started on Friday, Oct. 30."
-  - "The 2026 start time of the National Remembrance Day Ceremony in Ottawa is not yet announced; in 2025 it was 10:30 a.m."
+  - "The 2026 National Remembrance Day Ceremony in Ottawa took place on Nov. 11; we found no official 2026 start time, and in 2025 it was 10:30 a.m."
 faq:
   - q: "When does the poppy campaign start in 2026?"
-    a: "Saturday, Oct. 24, 2026. The Royal Canadian Legion says the National Poppy Campaign runs each year from Oct. 24 through Nov. 11 beginning in 2026."
+    a: "It started on Saturday, Oct. 24, 2026. The Royal Canadian Legion says the National Poppy Campaign runs each year from Oct. 24 through Nov. 11 beginning in 2026, so 2027 starts Sunday, Oct. 24."
   - q: "When does the poppy campaign end in 2026?"
-    a: "Wednesday, Nov. 11, 2026, which is Remembrance Day."
+    a: "It ended on Wednesday, Nov. 11, 2026, which was Remembrance Day."
   - q: "Is it too late to get a poppy this year?"
-    a: "No. The campaign is under way and runs through Nov. 11. This story does not list where poppies are available; contact your local Legion branch."
+    a: "The 2026 campaign ended on Nov. 11. The Legion runs it again from Oct. 24, 2027. This story does not list where poppies are available; contact your local Legion branch."
   - q: "Does the campaign start on the last Friday of October?"
     a: "Not from 2026. The Legion now uses a fixed Oct. 24 to Nov. 11 period, so older guides that name the last Friday of October are out of date."
-  - q: "What time is the 2026 National Remembrance Day Ceremony in Ottawa?"
-    a: "The start time is not yet announced. In 2025 the Governor General of Canada listed the ceremony at 10:30 a.m. at the National War Memorial on Nov. 11."
+  - q: "What time was the 2026 National Remembrance Day Ceremony in Ottawa?"
+    a: "We found no official 2026 start time. In 2025 the Governor General of Canada listed the ceremony at 10:30 a.m. at the National War Memorial on Nov. 11."
 sources:
   - title: "National Poppy Campaign"
     url: "https://portal.legion.ca/branch-and-command-resources/poppy-and-remembrance/campaigns"
@@ -80,7 +80,7 @@ assets:
   overlay: true
   kicker: "Poppy Campaign · Oct. 24 to Nov. 11, 2026"
   date: "2026-11-11"
-  card: { top: "Campaign ends on Remembrance Day", big: "Wed., Nov. 11", bottom: "Started Sat., Oct. 24" }
+  card: { top: "Campaign ended on Remembrance Day", big: "Wed., Nov. 11", bottom: "Started Sat., Oct. 24" }
   printable:
     slug: poppy-campaign-2026-dates
     group: remembrance-2026
@@ -97,9 +97,9 @@ assets:
     alt: "Printable timeline of the Poppy Campaign 2026 in Canada from Oct. 24 to Nov. 11."
 ---
 
-**The Royal Canadian Legion's National Poppy Campaign is under way and runs from Saturday, Oct. 24, to Wednesday, Nov. 11, 2026**, according to the Legion's National Poppy Campaign page, last updated Oct. 20, 2026. The campaign ends on Remembrance Day, Nov. 11.
+**The Royal Canadian Legion's National Poppy Campaign ran from Saturday, Oct. 24, to Wednesday, Nov. 11, 2026**, according to the Legion's National Poppy Campaign page, last updated Oct. 20, 2026. The campaign ended on Remembrance Day, Nov. 11.
 
-This is the first year of a new rule. The Legion's page says: "Beginning in 2026, the National Poppy Campaign will run annually October 24–November 11." The printable timeline attached to this story keeps the key dates on one page.
+2026 was the first year of a new rule. The Legion's page says: "Beginning in 2026, the National Poppy Campaign will run annually October 24–November 11." The printable timeline attached to this story keeps the key dates on one page.
 
 ## When does the poppy campaign run in 2026?
 
@@ -111,7 +111,7 @@ The Legion says its Dominion Executive Council "has approved a standardized annu
 | Sun., Nov. 8 | Indigenous Veterans Day in Canada | Veterans Affairs Canada |
 | Wed., Nov. 11 | Remembrance Day; campaign ends | Royal Canadian Legion |
 
-Counting both end dates, the 2026 campaign spans 19 days. Veterans Affairs Canada's Veterans' Week page says "November 8 is Indigenous Veterans Day" and "On November 11, our job is to remember." It also says: "Wear a poppy." The official 2026 dates for Veterans' Week were not confirmed on that page, so we do not list them.
+Counting both end dates, the 2026 campaign spanned 19 days. Veterans Affairs Canada's Veterans' Week page says "November 8 is Indigenous Veterans Day" and "On November 11, our job is to remember." It also says: "Wear a poppy." The official 2026 dates for Veterans' Week were not confirmed on that page, so we do not list them.
 
 ## Why do some guides say the last Friday of October?
 
@@ -131,11 +131,11 @@ The weekdays come from the calendar for each year, applied to the Legion's fixed
 
 ## What is the UK poppy appeal date?
 
-The Royal British Legion runs its own Poppy Appeal in the United Kingdom (UK). Its Poppy Appeal 2026 page lists a national launch on Oct. 22, which has passed, and a March Past the Cenotaph in Whitehall on Nov. 8. That is Remembrance Sunday, Sunday, Nov. 8, 2026. Our [Remembrance Day 2026 story](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/) has the Canadian province-by-province holiday table and the UK service details.
+The Royal British Legion runs its own Poppy Appeal in the United Kingdom (UK). Its Poppy Appeal 2026 page lists a national launch on Oct. 22 and a March Past the Cenotaph in Whitehall on Nov. 8. That is Remembrance Sunday, Sunday, Nov. 8, 2026. Our [Remembrance Day 2026 story](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/) has the Canadian province-by-province holiday table and the UK service details.
 
 ## When is the National Remembrance Day Ceremony in Ottawa?
 
-The 2026 start time is not yet announced. Last year, the Governor General of Canada's page, dated Nov. 10, 2025, listed the ceremony for Tuesday, Nov. 11, 2025, at 10:30 a.m. at the National War Memorial in Ottawa. Treat that as the 2025 time only. We do not name a 2026 Silver Cross Mother because none has been announced.
+We found no official 2026 start time for the ceremony, held on Nov. 11. Last year, the Governor General of Canada's page, dated Nov. 10, 2025, listed the ceremony for Tuesday, Nov. 11, 2025, at 10:30 a.m. at the National War Memorial in Ottawa. Treat that as the 2025 time only. We do not name a 2026 Silver Cross Mother because we found no official announcement.
 
 ## How should a poppy be worn?
 
@@ -143,4 +143,4 @@ The Legion's public poppy guidance page was unavailable when we checked on Oct. 
 
 ## Where does this fit in November?
 
-Remembrance Day falls on the same date as [Veterans Day in the United States](/news/veterans-day-2026-wednesday-november-11/). If you are planning around payments this month, see our [Canada benefit payment dates for November and December 2026](/news/canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb/). Mark the dates on the [October 2026 printable calendar](/october-calendars.html) and the [November 2026 printable calendar](/november-calendars.html).
+Remembrance Day fell on the same date as [Veterans Day in the United States](/news/veterans-day-2026-wednesday-november-11/). If you are planning around payments this month, see our [Canada benefit payment dates for November and December 2026](/news/canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb/). Mark the dates on the [October 2026 printable calendar](/october-calendars.html) and the [November 2026 printable calendar](/november-calendars.html).

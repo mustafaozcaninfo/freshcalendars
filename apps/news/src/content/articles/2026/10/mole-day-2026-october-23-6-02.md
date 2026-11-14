@@ -3,7 +3,7 @@ title: "Mole Day 2026: Oct. 23 From 6:02 a.m. to 6:02 p.m., Free Worksheet"
 description: "Mole Day 2026 was Friday, Oct. 23, from 6:02 a.m. to 6:02 p.m., for Avogadro's number, 6.02 x 10^23. What a mole is, how it started and a free worksheet."
 type: explainer
 publishedAt: "2026-10-21T13:06:00-04:00"
-updatedAt: "2026-10-24T01:40:00-04:00"
+updatedAt: "2026-11-14T17:15:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Mole Day 2026", "when is Mole Day", "Mole Day October 23", "Avogadro's number", "Mole Day activities"]
@@ -12,15 +12,15 @@ hero:
   src: ../../../../assets/news/mole-day-2026-october-23-6-02/mole-day-2026-october-23-6-02.jpg
   alt: "Mole Day 2026: a clock at 6:02 beside a calendar card for Friday, Oct. 23, and a molecule model with the number 6.02 x 10^23"
   title: "Mole Day 2026, Friday, Oct. 23"
-  caption: "Mole Day runs from 6:02 a.m. to 6:02 p.m. on Oct. 23, a nod to the first digits of Avogadro's number, 6.02 x 10^23."
+  caption: "Mole Day ran from 6:02 a.m. to 6:02 p.m. on Oct. 23, 2026, a nod to the first digits of Avogadro's number, 6.02 x 10^23."
 summary:
-  - "Mole Day falls on Friday, Oct. 23, 2026, and runs from 6:02 a.m. to 6:02 p.m., echoing 6.02 x 10^23, the first digits of the Avogadro constant."
+  - "Mole Day 2026 was Friday, Oct. 23, from 6:02 a.m. to 6:02 p.m., echoing 6.02 x 10^23, the first digits of the Avogadro constant."
   - "One mole contains exactly 6.022 140 76 x 10^23 particles. The value has been fixed by definition since the International System of Units was revised in 2019."
   - "The National Mole Day Foundation, founded on May 15, 1991, by Wisconsin chemistry teacher Maurice Oehler, promotes the day in schools."
   - "Our free practice sheet has four mole problems, worked from standard atomic weights, with an answer key."
 faq:
   - q: "When is Mole Day 2026?"
-    a: "Friday, Oct. 23, 2026, from 6:02 a.m. to 6:02 p.m. in your local time zone."
+    a: "It was Friday, Oct. 23, 2026, from 6:02 a.m. to 6:02 p.m. in local time. The National Mole Day Foundation says Mole Day is celebrated annually on Oct. 23; in 2027 that date is a Saturday (our calculation)."
   - q: "Why is Mole Day on Oct. 23 at 6:02?"
     a: "The date and time, 10/23 and 6:02, mirror the Avogadro constant, about 6.02 x 10^23 particles per mole, written with the month and day for the exponent."
   - q: "What is a mole in chemistry?"
@@ -51,7 +51,7 @@ related: [october-22-2026-this-day-in-history-observances, national-candy-corn-d
 downloads:
   - group: "Mole Day printables"
     title: "Mole Day 2026 Practice Sheet"
-    description: "The Avogadro constant, what a mole is, four practice problems with molar masses and an answer key, for Friday, Oct. 23."
+    description: "The Avogadro constant, what a mole is, four practice problems with molar masses and an answer key, made for Mole Day, Oct. 23."
     preview: ../../../../assets/news/oct22/mole-day-2026-practice-sheet.png
     alt: "Mole Day 2026 practice sheet printable with the Avogadro constant, four mole problems and an answer key"
     pdf: "/news/downloads/oct22/mole-day-2026-practice-sheet.pdf"
@@ -60,13 +60,11 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Sat., Oct. 24, 2026.</b> Mole Day 2026, Friday, Oct. 23, has passed. Mole Day is Oct. 23 every year; in 2027 it falls on a Saturday.</p>
-
-**Mole Day 2026 is Friday, Oct. 23, and runs from 6:02 a.m. to 6:02 p.m.** The date and time spell out 6.02 x 10^23, the first digits of the Avogadro constant, the number of particles in one mole. Chemistry classes mark it with problems, puns and treats. Below: what the number means, how the day started, and a free practice sheet with an answer key.
+**Mole Day 2026 was Friday, Oct. 23, from 6:02 a.m. to 6:02 p.m.** The date and time spell out 6.02 x 10^23, the first digits of the Avogadro constant, the number of particles in one mole. Chemistry classes mark it with problems, puns and treats. Below: what the number means, how the day started, and a free practice sheet with an answer key. The foundation says Mole Day is celebrated every year on Oct. 23, so the next one falls on Saturday, Oct. 23, 2027, by our calculation.
 
 ## Why 6:02 on Oct. 23
 
-Write the Avogadro constant in short form, 6.02 x 10^23, and the pieces line up with the clock and the calendar: 6:02 on the 23rd day of the 10th month. The National Mole Day Foundation asks schools to celebrate from 6:02 a.m. to 6:02 p.m. local time. In 2026 that is a school day, a Friday.
+Write the Avogadro constant in short form, 6.02 x 10^23, and the pieces line up with the clock and the calendar: 6:02 on the 23rd day of the 10th month. The National Mole Day Foundation asks schools to celebrate from 6:02 a.m. to 6:02 p.m. local time. In 2026 that was a school day, a Friday.
 
 ## What a mole is
 
@@ -76,7 +74,7 @@ The mole links the tiny scale of atoms to amounts you can weigh. One mole of wat
 
 ## How Mole Day started
 
-Maurice Oehler, a high school chemistry teacher from Prairie du Chien, Wisconsin, founded the National Mole Day Foundation on May 15, 1991, the foundation says, after an article in The Science Teacher in the early 1980s suggested the idea. The foundation picks a pun-based theme each year; its 2025 theme was "MOLEassic Park." It had not posted a 2026 theme on its site when we checked on Oct. 21.
+Maurice Oehler, a high school chemistry teacher from Prairie du Chien, Wisconsin, founded the National Mole Day Foundation on May 15, 1991, the foundation says, after an article in The Science Teacher in the early 1980s suggested the idea. The foundation picks a pun-based theme each year; its 2025 theme was "MOLEassic Park." Its site lists the 2026 theme as "Molar Cup"
 
 ## Try it: four mole problems
 

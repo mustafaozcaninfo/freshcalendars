@@ -1,16 +1,16 @@
 ---
 title: "Bengals vs. Falcons in Madrid: 9:30 a.m. ET Kickoff on NFL Network"
-description: "Bengals vs. Falcons in Madrid kicks off Sun., Nov. 8 at 9:30 a.m. ET (3:30 p.m. local) on NFL Network. Times for every U.S. zone and a free printable."
+description: "Bengals vs. Falcons in Madrid kicked off Sun., Nov. 8 at 9:30 a.m. ET on NFL Network; Cincinnati won 34-17. Times for every U.S. zone and a printable."
 type: news
 publishedAt: "2026-11-08T06:04:00-05:00"
-updatedAt: "2026-11-08T06:04:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bengals vs Falcons Madrid 2026", "NFL Madrid game time", "Bengals Falcons Week 9 TV channel", "watch Bengals Falcons Spain"]
 hero:
   src: ../../../../assets/news/bengals-falcons-madrid-2026-kickoff-time-tv-streaming/bengals-falcons-madrid-2026-kickoff-time-tv-streaming.webp
   alt: "Bengals vs Falcons Madrid 2026: the curved metal facade of Santiago Bernabéu Stadium under a blue sky"
-  caption: "Santiago Bernabéu Stadium in Madrid (file photo). The Bengals and Falcons play there Sun., Nov. 8, 2026, per the Falcons."
+  caption: "Santiago Bernabéu Stadium in Madrid (file photo). The Bengals and Falcons played there Sun., Nov. 8, 2026, per the Falcons."
   credit: "Photo: Luis García (Zaqarbal) / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -19,19 +19,21 @@ hero:
     author: "Luis García (Zaqarbal)"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Zaqarbal"
 summary:
-  - "Bengals vs. Falcons is Sunday, Nov. 8, 2026, at 9:30 a.m. Eastern Time (ET), 3:30 p.m. in Madrid, at Bernabéu Stadium, per the Bengals, the Falcons and NFL.com."
-  - "In the United States the game is on NFL Network nationally, with the Bengals' local broadcast station (WLWT) per the Bengals and Atlanta News First (WANF) per the Falcons; both clubs list NFL+ and ESPN streaming."
-  - "From Spain, the Bengals list Cuatro (free to air) and the sports streaming service (DAZN), and the Falcons list DAZN."
-  - "It is Week 9: the Bengals call it Week 9 and the Falcons call it week nine of the 2026 season."
+  - "Bengals vs. Falcons was Sunday, Nov. 8, 2026, at 9:30 a.m. Eastern Time (ET), 3:30 p.m. in Madrid, at Bernabéu Stadium, per the Bengals, the Falcons and NFL.com."
+  - "The Bengals won 34-17 to improve to 6-2, the team says; Joe Burrow threw for 271 yards."
+  - "In the United States the game aired on NFL Network nationally, with the Bengals' local broadcast station (WLWT) per the Bengals and Atlanta News First (WANF) per the Falcons; both clubs list NFL+ and ESPN streaming."
+  - "From Spain, the Bengals listed Cuatro (free to air) and the sports streaming service (DAZN), and the Falcons listed DAZN."
 faq:
-  - q: "What time is Bengals vs. Falcons in Pacific Time?"
+  - q: "What time was Bengals vs. Falcons in Pacific Time?"
     a: "6:30 a.m. Pacific Standard Time (PST), 8:30 a.m. Central and 7:30 a.m. Mountain, computed from the 9:30 a.m. ET kickoff the Bengals and Falcons give."
-  - q: "Which stations carry the game in Atlanta and Cincinnati?"
-    a: "The Falcons list Atlanta News First (WANF) as local television. The Bengals list their local broadcast station (WLWT). Both list NFL Network as the national channel."
-  - q: "Is the Madrid game on free television in Spain?"
-    a: "The Bengals page lists Cuatro as free-to-air television in Spain, along with the sports streaming service (DAZN), which it says excludes China. Only the Bengals page names Cuatro; the Falcons page names DAZN only."
-  - q: "Does the NFL.com page say Week 9?"
-    a: "Not in its text. NFL.com lists the game under NFL Important Dates at 9:30 AM ET at Bernabéu Stadium. The Week 9 label comes from the Bengals and the Falcons."
+  - q: "Which stations carried the game in Atlanta and Cincinnati?"
+    a: "The Falcons listed Atlanta News First (WANF) as local television. The Bengals listed their local broadcast station (WLWT). Both listed NFL Network as the national channel."
+  - q: "Was the Madrid game on free television in Spain?"
+    a: "The Bengals page listed Cuatro as free-to-air television in Spain, along with the sports streaming service (DAZN), which it said excludes China. Only the Bengals page named Cuatro; the Falcons page named DAZN only."
+  - q: "Who won Bengals vs. Falcons in Madrid?"
+    a: "The Bengals, 34-17, to improve to 6-2, according to the Bengals' postgame recap."
+  - q: "Did the NFL.com page say Week 9?"
+    a: "Not in its text. NFL.com listed the game under NFL Important Dates at 9:30 AM ET at Bernabéu Stadium. The Week 9 label came from the Bengals and the Falcons."
 sources:
   - title: "How To Watch Bengals at Falcons Week 9 in Madrid: TV, Streaming and Radio Information"
     url: "https://www.bengals.com/news/how-to-watch-listen-stream-falcons-bengals-week-9-2026-madrid"
@@ -41,6 +43,10 @@ sources:
     url: "https://www.atlantafalcons.com/news/where-watch-atlanta-falcons-cincinnati-bengals-madrid-stream-tv-radio"
     publisher: "Atlanta Falcons"
     date: "2026-11-04"
+  - title: "Bengals Beat Falcons 34-17 | Postgame Recap, Notes & Quotes"
+    url: "https://www.bengals.com/news/bengals-falcons-recap-postgame-notes-quotes-stats-week-9-2026"
+    publisher: "Cincinnati Bengals"
+    date: "2026-11-08"
   - title: "NFL Important Dates"
     url: "https://www.nfl.com/news/nfl-important-dates"
     publisher: "NFL.com"
@@ -83,7 +89,7 @@ downloads:
 draft: false
 ---
 
-**The Cincinnati Bengals and Atlanta Falcons play at Bernabéu Stadium in Madrid on Sunday, Nov. 8, 2026, with kickoff at 9:30 a.m. Eastern Time (ET), or 3:30 p.m. local time, according to the Bengals and Falcons.** NFL.com lists the same 9:30 a.m. ET start. NFL Network is the national U.S. channel on both club pages. Kickoff times for the other U.S. zones and a free printable watch guide follow.
+**The Cincinnati Bengals and Atlanta Falcons played at Bernabéu Stadium in Madrid on Sunday, Nov. 8, 2026, with kickoff at 9:30 a.m. Eastern Time (ET), or 3:30 p.m. local time, according to the Bengals and Falcons.** The Bengals won 34-17. NFL.com listed the same 9:30 a.m. ET start, and NFL Network was the national U.S. channel on both club pages. Kickoff times for the other U.S. zones and a free printable watch guide follow.
 
 ## Bengals vs. Falcons kickoff time in each time zone
 
@@ -98,18 +104,11 @@ Both clubs and NFL.com give the kickoff in Eastern Time, and the Falcons add the
 | Greenwich Mean Time (GMT) | 2:30 p.m. | Computed |
 | Madrid (CET) | 3:30 p.m. | Falcons |
 
-## Countdown to Bengals vs. Falcons kickoff
+## Bengals vs. Falcons result
 
-<div class="tool-box" data-launch-clock data-local="2026-11-08" data-done="Kickoff. Bengals vs. Falcons in Madrid is under way." data-targets="Kickoff in Madrid, 9:30 a.m. ET|2026-11-08T14:30:00Z" hidden>
-<p class="tool-title">Days, hours, minutes and seconds until kickoff</p>
-<label for="lc-store">Count down to</label>
-<select id="lc-store"></select>
-<div class="tool-out"></div>
-</div>
+Cincinnati defeated Atlanta 34-17 and improved to 6-2, the Bengals say. Quarterback Joe Burrow completed 24 of 29 passes for 271 yards, and Ja'Marr Chase caught 10 passes for 155 yards, including a 47-yard touchdown in the first quarter. The Falcons scored 10 points on their first two drives; the Bengals led 24-10 at halftime and held Atlanta to seven points the rest of the way. Cincinnati hosts Pittsburgh on Sunday Night Football in Week 10.
 
-The clock counts to 9:30 a.m. ET, which is 14:30 Coordinated Universal Time (UTC), and shows that moment in your own time zone. It needs JavaScript.
-
-## Where to watch Bengals vs. Falcons in the United States
+## Where Bengals vs. Falcons aired in the United States
 
 | Item | Bengals page | Falcons page |
 |---|---|---|
@@ -117,19 +116,19 @@ The clock counts to 9:30 a.m. ET, which is 14:30 Coordinated Universal Time (UTC
 | Local TV | Bengals local station (WLWT) | Atlanta News First (WANF) |
 | Streaming | ESPN+ or NFL+ nationally | NFL+ and ESPN streaming platforms |
 
-The Bengals list their local broadcast station (WLWT) and say the game "can be streamed on ESPN+ or NFL+ nationally." The Falcons say it "can be streamed on NFL+ and ESPN streaming platforms." Both club pages also list radio stations, which this story leaves out.
+The Bengals listed their local broadcast station (WLWT) and said the game "can be streamed on ESPN+ or NFL+ nationally." The Falcons said it "can be streamed on NFL+ and ESPN streaming platforms." Both club pages also listed radio stations, which this story leaves out.
 
-## How to watch Bengals vs. Falcons from Spain
+## How Bengals vs. Falcons aired in Spain
 
-The Bengals page says viewers in Spain can tune in to Cuatro, which it describes as free-to-air television, and to the sports streaming service (DAZN), noting that DAZN excludes China. The Falcons page says international fans can stream on DAZN. Cuatro appears only on the Bengals page, so check local listings.
+The Bengals page said viewers in Spain could tune in to Cuatro, which it described as free-to-air television, and to the sports streaming service (DAZN), noting that DAZN excludes China. The Falcons page said international fans could stream on DAZN. Cuatro appeared only on the Bengals page.
 
 ## Is Bengals vs. Falcons Week 9 or Week 10?
 
-Week 9. The Bengals page title reads "Week 9" and says the team faces the Atlanta Falcons in Week 9, and the Falcons page calls the game week nine of the 2026 season. NFL.com's Important Dates entry lists the game, the stadium and the 9:30 AM ET time without a week number. The full slate is in the [NFL Week 9 schedule](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/), and the other overseas dates are in the [NFL international games story](/news/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times/).
+Week 9. The Bengals page title read "Week 9" and said the team faced the Atlanta Falcons in Week 9, and the Falcons page called the game week nine of the 2026 season. NFL.com's Important Dates entry listed the game, the stadium and the 9:30 AM ET time without a week number. The full slate is in the [NFL Week 9 schedule](/news/nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times/), and the other overseas dates are in the [NFL international games story](/news/nfl-international-games-november-2026-madrid-munich-mexico-city-kickoff-times/).
 
 ## What else is confirmed about the Madrid game?
 
-The Falcons page says they face the Bengals at Bernabéu Stadium in Madrid, Spain, and NFL.com's entry reads "NFL International Game at Bernabéu Stadium presented by NetApp (Madrid, Spain)." The Bengals page also lists a watch party at 1:30 p.m. local time on Sunday; that is not the kickoff. None of the three pages says why the game is in Madrid.
+The Falcons page said they faced the Bengals at Bernabéu Stadium in Madrid, Spain, and NFL.com's entry reads "NFL International Game at Bernabéu Stadium presented by NetApp (Madrid, Spain)." The Bengals page also listed a watch party at 1:30 p.m. local time on Sunday; that was not the kickoff. None of the three pages said why the game is in Madrid.
 
 ## Printable watch guide for the Madrid game
 

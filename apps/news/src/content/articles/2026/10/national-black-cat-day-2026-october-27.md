@@ -3,7 +3,7 @@ title: "National Black Cat Day 2026: Oct. 27 Origin and Dates Through 2030"
 description: "National Black Cat Day 2026 was Tuesday, Oct. 27. Cats Protection, a UK charity, started it in 2011; the U.S. Black Cat Appreciation Day is Aug. 17."
 type: explainer
 publishedAt: "2026-10-25T13:10:00-04:00"
-updatedAt: "2026-10-28T16:12:00-04:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["National Black Cat Day 2026", "Black Cat Day October 27", "when is black cat day", "black cat appreciation day"]
@@ -22,15 +22,17 @@ assets:
     rows:
       - { when: "Any day", what: "Adopt a cat, or offer a temporary home to one, through a local shelter", section: "Ways to help" }
       - { when: "Any day", what: "Donate to a shelter or rescue near you", section: "Ways to help" }
-      - { when: "Tue., Oct. 27", what: "Share photos with #BlackCatDay", section: "Ways to help" }
-      - { when: "Tue., Oct. 27", what: "National Black Cat Day, started by Cats Protection in 2011", section: "Key dates" }
-      - { when: "Sat., Oct. 31", what: "Halloween, four days later", section: "Key dates" }
+      - { when: "Each Oct. 27", what: "Share photos with #BlackCatDay", section: "Ways to help" }
+      - { when: "Tue., Oct. 27", what: "National Black Cat Day 2026, started by Cats Protection in 2011", section: "Key dates" }
+      - { when: "Sat., Oct. 31", what: "Halloween 2026, four days later", section: "Key dates" }
       - { when: "Aug. 17, 2027", what: "U.S. Black Cat Appreciation Day (a Tuesday)", section: "Key dates" }
+      - { when: "Wed., Oct. 27, 2027", what: "Next National Black Cat Day", section: "Key dates" }
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     note: "Sources: Cats Protection; ASPCA. Weekdays computed."
 hero:
   src: ../../../../assets/news/national-black-cat-day-2026-october-27/national-black-cat-day-2026-october-27.webp
-  alt: "National Black Cat Day 2026 is Tuesday, Oct. 27: a dark-coated cat resting on a doorstep"
-  caption: "A dark-coated cat rests outdoors. National Black Cat Day, started by the UK charity Cats Protection in 2011, falls on Tuesday, Oct. 27, 2026."
+  alt: "National Black Cat Day 2026 was Tuesday, Oct. 27: a dark-coated cat resting on a doorstep"
+  caption: "A dark-coated cat rests outdoors. National Black Cat Day, started by the UK charity Cats Protection in 2011, was on Tuesday, Oct. 27, 2026."
   credit: "Photo: Petro Stelte / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -39,10 +41,10 @@ hero:
     author: "Petro Stelte"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Petro_Stelte"
 summary:
-  - "National Black Cat Day is Oct. 27, which is a Tuesday in 2026."
+  - "National Black Cat Day is Oct. 27; in 2026 it was a Tuesday. In 2027 it is a Wednesday."
   - "Cats Protection, a United Kingdom (UK) charity, launched the day on Oct. 27, 2011, as Black Cat Awareness Day."
   - "In the U.S., Aug. 17 is called Black Cat Appreciation Day; Aug. 17, 2027, is a Tuesday."
-  - "Halloween follows four days later, on Saturday, Oct. 31, 2026."
+  - "Halloween came four days later, on Saturday, Oct. 31, 2026."
 sources:
   - title: "The history of National Black Cat Day"
     url: "https://cats.org.uk/cats-blog/history-of-national-black-cat-day"
@@ -72,7 +74,7 @@ draft: false
 
 National Black Cat Day 2026 was Tuesday, Oct. 27. Next year the day falls on Wednesday, Oct. 27, 2027.
 
-**National Black Cat Day is observed on Oct. 27, which falls on a Tuesday in 2026.** Cats Protection, a charity in the United Kingdom (UK), says it launched the day on Oct. 27, 2011.
+**National Black Cat Day is observed on Oct. 27, which was a Tuesday in 2026.** Cats Protection, a charity in the United Kingdom (UK), says it launched the day on Oct. 27, 2011.
 
 ## Where National Black Cat Day comes from
 
@@ -116,6 +118,6 @@ Oct. 27 moves one weekday later each year, and two in a leap year. The weekdays 
 - Donate to a shelter or rescue near you.
 - Share photos with #BlackCatDay.
 
-Halloween is four days later, on Saturday, Oct. 31; see our [Halloween 2026 trick-or-treating story](/news/halloween-2026-what-day-trick-or-treating-start/) for that date. Mark both on the [October 2026 printable calendar](/october-calendars.html), and put the U.S. day on the [August calendar](/august-calendars.html) for 2027. The free printable checklist for the day lists the ways to help and the dates above.
+Halloween came four days later, on Saturday, Oct. 31; see our [Halloween 2026 trick-or-treating story](/news/halloween-2026-what-day-trick-or-treating-start/) for that date. The [October 2026 printable calendar](/october-calendars.html) keeps both dates on record; put the U.S. day on the [August calendar](/august-calendars.html) for 2027. The free printable checklist for the day lists the ways to help and the dates above.
 
 For another October observance, see [Intersex Awareness Day on Oct. 26](/news/intersex-awareness-day-2026-october-26/).

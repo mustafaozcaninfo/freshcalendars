@@ -3,6 +3,7 @@ title: "Stellar Blade Switch 2 Release Time: Nov. 5 at 10 a.m. ET"
 description: "Stellar Blade Complete Edition launched on Nintendo Switch 2 at 10 a.m. ET Thu., Nov. 5, 2026, which was Nov. 6 in Korea and Japan. Times by time zone."
 type: news
 publishedAt: "2026-11-03T14:30:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["stellar blade switch 2 release time", "stellar blade switch 2 release date", "stellar blade complete edition switch 2", "stellar blade switch 2 price"]
@@ -36,7 +37,7 @@ assets:
 hero:
   src: ../../../../assets/news/stellar-blade-switch-2-release-time-november-5/stellar-blade-switch-2-release-time-november-5.webp
   alt: "A Nintendo Switch 2 console in its dock, for the Stellar Blade Switch 2 release time of 10 a.m. ET on Thursday, Nov. 5, 2026"
-  caption: "A Nintendo Switch 2 in its dock (file photo). Stellar Blade Complete Edition arrives on the console Nov. 5, 2026."
+  caption: "A Nintendo Switch 2 in its dock (file photo). Stellar Blade Complete Edition was due on the console Nov. 5, 2026."
   credit: "Photo: Crisco 1492 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -45,15 +46,15 @@ hero:
     author: "Crisco 1492"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Crisco_1492"
 summary:
-  - "Shift Up Corp. says Stellar Blade Complete Edition launches worldwide on Nintendo Switch 2 at 00:00 Korea Standard Time (KST) and Japan Standard Time (JST) on Nov. 6, 2026."
-  - "That is 10 a.m. Eastern Time (ET) and 7 a.m. Pacific Time (PT) on Thursday, Nov. 5, and 15:00 Greenwich Mean Time (GMT) in the UK."
-  - "The listed price is $59.99, with £54.99, €59.99, ¥7,980 and ₩69,800 in other markets."
+  - "Shift Up Corp. set the worldwide launch of Stellar Blade Complete Edition on Nintendo Switch 2 for 00:00 Korea Standard Time (KST) and Japan Standard Time (JST) on Nov. 6, 2026."
+  - "That was 10 a.m. Eastern Time (ET) and 7 a.m. Pacific Time (PT) on Thursday, Nov. 5, and 15:00 Greenwich Mean Time (GMT) in the UK."
+  - "The listed price was $59.99, with £54.99, €59.99, ¥7,980 and ₩69,800 in other markets."
   - "Nintendo UK lists a 25.3 GB download size; RPGSite reports the cartridge holds the full game with no key card."
 faq:
-  - q: "What time does Stellar Blade release on Switch 2?"
-    a: "Shift Up's release lists 00:00 KST and JST on Nov. 6, 2026. That is 10 a.m. ET on Thursday, Nov. 5, or 7 a.m. PT the same day."
+  - q: "What time did Stellar Blade release on Switch 2?"
+    a: "Shift Up's release listed 00:00 KST and JST on Nov. 6, 2026. That was 10 a.m. ET on Thursday, Nov. 5, or 7 a.m. PT the same day."
   - q: "Is the Stellar Blade Switch 2 release date Nov. 5 or Nov. 6?"
-    a: "Both. It is one moment. Nov. 6 is the date in Korea and Japan, and Nov. 5 is the date in the Americas and Europe. Nintendo UK's store page lists Nov. 5."
+    a: "Both. It was one moment. Nov. 6 is the date in Korea and Japan, and Nov. 5 is the date in the Americas and Europe. Nintendo UK's store page lists Nov. 5."
   - q: "How much does Stellar Blade Complete Edition cost on Switch 2?"
     a: "Shift Up lists a manufacturer's suggested retail price (MSRP) of $59.99, £54.99, €59.99, ¥7,980 and ₩69,800."
   - q: "How big is the Stellar Blade Switch 2 download?"
@@ -96,7 +97,7 @@ downloads:
 draft: false
 ---
 
-**Stellar Blade Complete Edition launches on Nintendo Switch 2 at 10 a.m. Eastern Time (ET) on Thursday, Nov. 5, 2026, according to a Shift Up Corp. press release dated Sept. 10.** The company gives the moment as 00:00 Korea Standard Time (KST) and Japan Standard Time (JST) on Nov. 6, so the game carries two dates depending on where you live. The list price is $59.99.
+**Stellar Blade Complete Edition was scheduled to launch on Nintendo Switch 2 at 10 a.m. Eastern Time (ET) on Thursday, Nov. 5, 2026, according to a Shift Up Corp. press release dated Sept. 10.** The company gave the moment as 00:00 Korea Standard Time (KST) and Japan Standard Time (JST) on Nov. 6, so the game carries two dates depending on where you live. The list price was $59.99.
 
 ## Stellar Blade Switch 2 release time by time zone
 

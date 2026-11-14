@@ -3,7 +3,7 @@ title: "Halloween 2026 Trick-or-Treat Hours: Set Town by Town"
 description: "Halloween 2026 was Saturday, Oct. 31, and trick-or-treat hours were set town by town. Four published schedules ran from about 5 p.m. to 8 p.m."
 type: news
 publishedAt: "2026-10-22T01:31:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["what day is Halloween 2026", "what time does trick-or-treating start 2026", "trick-or-treat hours 2026", "Halloween 2026 Saturday"]
@@ -28,6 +28,8 @@ faq:
     a: "Yes. Halloween was Saturday, Oct. 31, 2026."
   - q: "Does trick-or-treating start at 5 or 6 p.m.?"
     a: "It depends on the community. Among the 2026 schedules we checked, Marion, Indiana, started at 5 p.m., Pittsburgh at 5:30 p.m., and Lakewood, Ohio, and Lancaster, Pennsylvania, at 6 p.m."
+  - q: "When is Halloween 2027?"
+    a: "Sunday, Oct. 31, 2027, according to The Old Farmer's Almanac."
   - q: "Is there one national trick-or-treating time?"
     a: "No. The five places in our table are selected examples, not a nationwide schedule, and each sets its own hours."
   - q: "Where can I find my local trick-or-treat time?"
@@ -36,6 +38,7 @@ sources:
   - title: "When Is Halloween 2026?"
     url: "https://www.almanac.com/content/when-is-halloween"
     publisher: "The Old Farmer's Almanac"
+    date: "2026-11-14"
   - title: "City of Pittsburgh Announces Trick-or-Treat Hours and City Halloween Events"
     url: "https://www.pittsburghpa.gov/News-articles/Homepage/City-of-Pittsburgh-Announces-Trick-or-Treat-Hours-and-City-Halloween-Events"
     publisher: "City of Pittsburgh"
@@ -67,7 +70,7 @@ related: [halloween-2026-saturday-sunset-trick-or-treat-times, day-of-the-dead-2
 draft: false
 ---
 
-**Halloween 2026 was Saturday, Oct. 31, and the four published schedules we checked started trick-or-treating between 5 p.m. and 6 p.m.** There is no single nationwide start time. Each city or town sets its own hours, and the schedules we checked on Oct. 22, 2026, ran from about 5 p.m. to 8 p.m. For next year, confirm hours with your local government.
+**Halloween 2026 was Saturday, Oct. 31, and the four published schedules we checked started trick-or-treating between 5 p.m. and 6 p.m.** There is no single nationwide start time. Each city or town sets its own hours, and the schedules we checked on Oct. 22, 2026, ran from about 5 p.m. to 8 p.m. Halloween 2027 falls on Sunday, Oct. 31, according to The Old Farmer's Almanac; confirm hours with your local government.
 
 ## What day is Halloween 2026?
 

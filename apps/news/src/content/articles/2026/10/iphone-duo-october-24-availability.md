@@ -3,7 +3,7 @@ title: "iPhone Duo Availability: On Sale Oct. 23 From $1,999 in the US"
 description: "iPhone Duo went on sale in the US on Oct. 23, from $1,999. Prices for 256GB to 2TB, plus what Apple said about Apple Store pickup and walk-in stock."
 type: news
 publishedAt: "2026-10-23T10:50:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["iPhone Duo October 24", "iPhone Duo availability", "iPhone Duo pickup", "iPhone Duo price", "iPhone Duo in stock"]
@@ -21,9 +21,9 @@ assets:
     layout: checklist
     rows:
       - { when: "Fri., Oct. 16", what: "Preorders opened at 5 a.m. Pacific Time", section: "Key dates" }
-      - { when: "Fri., Oct. 23", what: "On sale in the US; limited walk-in stock reported", section: "Key dates" }
-      - { when: "Sat., Oct. 24", what: "Check Apple Store pickup again (reported by MacRumors)", section: "Key dates" }
-      - { when: "Fri., Oct. 30", what: "Launch in 28 more countries and regions", section: "Key dates" }
+      - { when: "Fri., Oct. 23", what: "Went on sale in the US; limited walk-in stock reported", section: "Key dates" }
+      - { when: "Sat., Oct. 24", what: "Apple store told shoppers to check back for pickup (MacRumors)", section: "Key dates" }
+      - { when: "Fri., Oct. 30", what: "Apple's date for 28 more countries and regions", section: "Key dates" }
       - { when: "256GB", what: "$1,999", section: "US prices before sales tax" }
       - { when: "512GB", what: "$2,199", section: "US prices before sales tax" }
       - { when: "1TB", what: "$2,599", section: "US prices before sales tax" }
@@ -33,9 +33,9 @@ assets:
       - { when: "", what: "Confirm your carrier supports eSIM (no SIM tray)", section: "Before you buy" }
       - { when: "", what: "Read trade-in and plan terms on carrier offers", section: "Before you buy" }
       - { when: "", what: "Carrier installments lock the phone until paid off", section: "Before you buy" }
-      - { when: "", what: "Check the delivery date again at checkout", section: "Before you buy" }
-    note: "Source: Apple Newsroom, Apple unveils iPhone Duo (Sept. 9, 2026); Apple iPhone Duo buy page and technical specifications, checked Oct. 23, 2026; MacRumors (Oct. 23, 2026)."
-    inkSaver: true
+      - { when: "", what: "Check the delivery date at checkout", section: "Before you buy" }
+    note: "Source: Apple Newsroom, Apple unveils iPhone Duo (Sept. 9, 2026); Apple iPhone Duo buy page and technical specifications, checked Nov. 14, 2026; MacRumors (Oct. 23, 2026)."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page iPhone Duo launch weekend checklist with US prices by storage, key dates and what to check before ordering or picking up. Free."
     alt: "iPhone Duo launch weekend checklist printable with key dates from Oct. 16 to Oct. 30, US prices by storage and a before-you-buy list"
 hero:
@@ -73,11 +73,11 @@ sources:
   - title: "Buy iPhone Duo"
     url: "https://www.apple.com/shop/buy-iphone/iphone-duo"
     publisher: "Apple"
-    date: "2026-10-23"
+    date: "2026-11-14"
   - title: "iPhone Duo - Technical Specifications"
     url: "https://www.apple.com/iphone-duo/specs/"
     publisher: "Apple"
-    date: "2026-10-23"
+    date: "2026-11-14"
   - title: "Where to Buy iPhone Duo Today: Stores, Pickup, and Wait Times"
     url: "https://www.macrumors.com/2026/10/23/iphone-duo-apple-store-pickup-available-today/"
     publisher: "MacRumors"
@@ -107,32 +107,22 @@ downloads:
     pdf: "/news/downloads/iphone-duo-2026/iphone-duo-launch-weekend-checklist-2026.pdf"
     png: "/news/downloads/iphone-duo-2026/iphone-duo-launch-weekend-checklist-2026.png"
     pages: 1
-  - group: "iPhone Duo Launch Weekend Buying Checklist printables"
-    title: "iPhone Duo Launch Weekend Buying Checklist, Oct. 24, 2026 (ink saver)"
-    description: "One-page iPhone Duo launch weekend checklist with US prices by storage, key dates and what to check before ordering or picking up. Free. Ink-saver version."
-    preview: ../../../../assets/news/iphone-duo-2026/iphone-duo-launch-weekend-checklist-2026-ink.png
-    alt: "iPhone Duo launch weekend checklist printable with key dates from Oct. 16 to Oct. 30, US prices by storage and a before-you-buy list, ink-saver version"
-    pdf: "/news/downloads/iphone-duo-2026/iphone-duo-launch-weekend-checklist-2026-ink.pdf"
-    png: "/news/downloads/iphone-duo-2026/iphone-duo-launch-weekend-checklist-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
-<p class="callout"><b>Updated Mon., Nov. 2, 2026.</b> The Oct. 24 pickup day and the Oct. 30 date for 28 more countries and regions have passed. Prices, colors and specifications below are from Apple's own pages. Pickup and walk-in stock still change by store and by the hour, so check your store on Apple's site before you go; we do not list stock for any single store.</p>
-
 **Apple's first foldable iPhone, iPhone Duo, went on sale in the US on Friday, Oct. 23, 2026, starting at $1,999, and getting one at a given store depends on that Apple Store.** MacRumors reported that Apple's US online store told shoppers to check back on Saturday, Oct. 24, for Apple Store pickup reservations, and Apple told Reuters that walk-in stock would be limited.
 
-Being listed for sale does not mean a store near you has one ready. Pickup, walk-in stock and delivery dates are three different things, and each can differ by color and storage size.
+Being listed for sale does not mean a store near you has one ready. Pickup, walk-in stock and delivery dates are three different things, and each can differ by color and storage size. Stock changes by store and by the hour, so check your store on Apple's site; we do not list stock for any single store.
 
 ## Key iPhone Duo dates
 
 | Date | What happens | Source |
 |---|---|---|
-| Wed., Sept. 9, 2026 | Apple announces iPhone Duo | Apple Newsroom |
-| Fri., Oct. 16 | Preorders open at 5 a.m. Pacific Time (PT) | Apple Newsroom |
-| Fri., Oct. 23 | On sale in the US and in Apple Stores | Apple Newsroom |
-| Sat., Oct. 24 | Apple's store said to check back for pickup reservations | MacRumors |
-| Fri., Oct. 30 | Apple's date for sale in 28 more countries and regions | Apple Newsroom |
+| Wed., Sept. 9, 2026 | Apple announced iPhone Duo | Apple Newsroom |
+| Fri., Oct. 16 | Preorders opened at 5 a.m. Pacific Time (PT) | Apple Newsroom |
+| Fri., Oct. 23 | Went on sale in the US and in Apple Stores | Apple Newsroom |
+| Sat., Oct. 24 | Apple's store told shoppers to check back for pickup reservations | MacRumors |
+| Fri., Oct. 30 | Apple's date for sale in 28 more countries and regions (now past) | Apple Newsroom |
 
 Keep track of these and the holiday sales that follow on our [October 2026 printable calendar](/october-calendars.html) and [November 2026 calendar](/november-calendars.html).
 
@@ -169,7 +159,7 @@ Maybe. In a statement reported by Reuters on Oct. 21, Apple said its stores "wil
 
 Reuters reported on Oct. 21 that new online orders showed Jan. 25 delivery for nearly every configuration. That is a dated snapshot, not a promise for every model. Look at the delivery date for your exact color and storage on the checkout page before you pay.
 
-If you need a phone soon, a pickup slot at a nearby store matters more than anything else. If you can wait until late January, ordering online saves the trips.
+If you need a phone quickly, a pickup slot at a nearby store matters more than anything else. If you can wait until late January, ordering online saves the trips.
 
 ## Carrier options and the eSIM rule
 

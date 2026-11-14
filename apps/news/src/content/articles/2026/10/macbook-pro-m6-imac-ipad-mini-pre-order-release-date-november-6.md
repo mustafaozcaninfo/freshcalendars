@@ -3,7 +3,7 @@ title: "MacBook Pro M6 Release Date: Nov. 6, Pre-Orders Opened Oct. 28"
 description: "MacBook Pro M6 arrived Friday, Nov. 6, 2026, from $1,999; pre-orders opened Oct. 28. Also iMac and iPad mini dates, prices and a time zone table."
 type: news
 publishedAt: "2026-10-27T19:42:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["macbook pro m6 release date", "macbook pro m6 pre order", "imac m6 release date", "ipad mini 2026 release date", "homepod mini 2 release date"]
@@ -13,7 +13,7 @@ assets:
   overlay: true
   kicker: "Apple pre-orders · Wed., Oct. 28"
   date: "2026-10-28"
-  card: { top: "MacBook Pro with M6 in stores", big: "Fri., Nov. 6", bottom: "Pre-orders open Oct. 28, 10:10 a.m. PT" }
+  card: { top: "MacBook Pro with M6 in stores", big: "Fri., Nov. 6", bottom: "Pre-orders opened Oct. 28, 10:10 a.m. PT" }
   printable:
     slug: apple-launch-dates-oct-28-nov-6-2026
     group: apple-launch-2026
@@ -25,14 +25,15 @@ assets:
       - ["Fri., Oct. 30", "HomePod mini 2 available in stores (pre-orders already open)"]
       - ["Fri., Nov. 6", "MacBook Pro with M6, iMac with M6 and iPad mini availability begins"]
     note: "Source: Apple Newsroom press releases, Oct. 27, 2026; apple.com product pages."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true
     description: "One-page Apple launch timeline: pre-orders open Oct. 28 at 10:10 a.m. PT for MacBook Pro with M6, iMac and iPad mini, availability Nov. 6. Free."
     alt: "Apple launch dates printable timeline from Oct. 28 to Nov. 6, 2026 for MacBook Pro with M6, iMac, iPad mini and HomePod mini 2"
 hero:
   src: ../../../../assets/news/macbook-pro-m6-imac-ipad-mini-pre-order-release-date-november-6/macbook-pro-m6-imac-ipad-mini-pre-order-release-date-november-6.webp
-  alt: "MacBook Pro M6 release date: Apple pre-orders open Oct. 28 at 10:10 a.m. PT, with availability on Nov. 6, 2026"
-  title: "Apple pre-orders open Oct. 28"
-  caption: "File photo of an earlier MacBook Pro, not the new M6 model. Apple's new MacBook Pro can be pre-ordered from Oct. 28, 2026."
+  alt: "MacBook Pro M6 release date: Apple pre-orders opened Oct. 28 at 10:10 a.m. PT, with availability on Nov. 6, 2026"
+  title: "Apple pre-orders opened Oct. 28"
+  caption: "File photo of an earlier MacBook Pro, not the new M6 model. Apple's new MacBook Pro went on sale Nov. 6, 2026, after pre-orders opened Oct. 28."
   credit: "Photo: SimonWaldherr / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -40,19 +41,19 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Apple_iPhone_13_Pro_on_MacBook_Pro_04.jpg"
     author: "SimonWaldherr"
 summary:
-  - "Apple Newsroom says the 14-inch MacBook Pro with M6 could be pre-ordered starting Wednesday, Oct. 28, 2026, with availability beginning Friday, Nov. 6. It starts at $1,999 in the U.S."
+  - "Apple Newsroom said the 14-inch MacBook Pro with M6 could be pre-ordered starting Wednesday, Oct. 28, 2026, with availability beginning Friday, Nov. 6. It starts at $1,999 in the U.S."
   - "Apple's product pages show pre-orders for the MacBook Pro, iMac and iPad mini starting at 10:10 a.m. Pacific Time (PT) on Oct. 28, which is 1:10 p.m. Eastern Time (ET)."
-  - "The iMac with M6 starts at $1,499 and the iPad mini at $699 in the U.S.; both also arrive Friday, Nov. 6."
+  - "The iMac with M6 starts at $1,499 and the iPad mini at $699 in the U.S.; both were due in stores Friday, Nov. 6, the same day as the MacBook Pro."
   - "HomePod mini 2 was already open for pre-order on Oct. 27, at $149, with availability beginning Friday, Oct. 30."
 faq:
   - q: "When can I pre-order the MacBook Pro with M6?"
     a: "Wednesday, Oct. 28, 2026. Apple's MacBook Pro page shows pre-orders starting at 10:10 a.m. PT, which is 1:10 p.m. ET."
   - q: "What is the MacBook Pro M6 release date?"
-    a: "Apple says availability starts Friday, Nov. 6, 2026."
+    a: "Apple set availability for Friday, Nov. 6, 2026."
   - q: "What is the iMac M6 release date?"
-    a: "Apple says customers can pre-order the iMac with M6 starting Oct. 28, with availability beginning Friday, Nov. 6."
+    a: "Apple said customers could pre-order the iMac with M6 starting Oct. 28, with availability beginning Friday, Nov. 6."
   - q: "What is the iPad mini 2026 release date?"
-    a: "Apple says iPad mini with A20 Pro can be pre-ordered starting Wednesday, Oct. 28, with availability beginning Friday, Nov. 6. The new Smart Folio follows the same dates."
+    a: "Apple said iPad mini with A20 Pro could be pre-ordered starting Wednesday, Oct. 28, with availability beginning Friday, Nov. 6. The new Smart Folio followed the same dates."
   - q: "What is the HomePod mini 2 release date?"
     a: "Apple said on Oct. 27 that HomePod mini 2 pre-orders were already open, with availability beginning Friday, Oct. 30. It costs $149 in the U.S."
   - q: "Will there be an M6 Pro or M6 Max MacBook Pro?"
@@ -112,9 +113,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Pre-orders opened Wed., Oct. 28, 2026.</b> Apple's pre-orders for the MacBook Pro with M6, the iMac with M6 and the iPad mini opened that day. Availability begins Friday, Nov. 6, 2026.</p>
+<p class="callout"><b>Pre-orders opened Wed., Oct. 28, 2026.</b> Apple's pre-orders for the MacBook Pro with M6, the iMac with M6 and the iPad mini opened that day. Availability began Friday, Nov. 6, 2026.</p>
 
-**Apple's 14-inch MacBook Pro with M6, the iMac with M6 and the iPad mini arrive in stores Friday, Nov. 6, 2026, and pre-orders opened Wednesday, Oct. 28, at 10:10 a.m. Pacific Time (PT), which is 1:10 p.m. Eastern Time (ET).** Apple Newsroom said on Oct. 27 that the 14-inch MacBook Pro "can be pre-ordered beginning tomorrow, October 28, with availability starting Friday, November 6." The iMac and iPad mini use the same two dates.
+**Apple's 14-inch MacBook Pro with M6, the iMac with M6 and the iPad mini were due in stores Friday, Nov. 6, 2026, and pre-orders opened Wednesday, Oct. 28, at 10:10 a.m. Pacific Time (PT), which is 1:10 p.m. Eastern Time (ET).** Apple Newsroom said on Oct. 27 that the 14-inch MacBook Pro "can be pre-ordered beginning tomorrow, October 28, with availability starting Friday, November 6." The iMac and iPad mini use the same two dates.
 
 The pre-order time is on Apple's own product pages: apple.com/macbook-pro, apple.com/imac and apple.com/ipad-mini each show "Pre-order starting at 10:10 a.m. PT" for Oct. 28. HomePod mini 2 is on a different schedule, covered below.
 
@@ -122,7 +123,7 @@ The pre-order time is on Apple's own product pages: apple.com/macbook-pro, apple
 
 Prices are Apple's U.S. starting prices from its Oct. 27, 2026 press releases. The two iMac versions are named for their central processing unit (CPU) and graphics processing unit (GPU) core counts.
 
-| Product | Pre-orders open | Available | U.S. starting price | With education savings |
+| Product | Pre-orders open | Availability | U.S. starting price | With education savings |
 |---|---|---|---:|---:|
 | MacBook Pro with M6 (14-inch) | Wed., Oct. 28, 10:10 a.m. PT | Fri., Nov. 6 | $1,999 | $1,899 |
 | iMac with M6 (10-core CPU, 10-core GPU) | Wed., Oct. 28, 10:10 a.m. PT | Fri., Nov. 6 | $1,499 | $1,449 |
@@ -130,7 +131,7 @@ Prices are Apple's U.S. starting prices from its Oct. 27, 2026 press releases. T
 | iPad mini with A20 Pro | Wed., Oct. 28, 10:10 a.m. PT | Fri., Nov. 6 | $699 | $649 |
 | HomePod mini 2 | Already open on Oct. 27 | Fri., Oct. 30 | $149 | Not listed |
 
-Apple says the new Smart Folio for iPad mini also goes on pre-order Wednesday, Oct. 28, with availability beginning Friday, Nov. 6.
+Apple said the new Smart Folio for iPad mini also went on pre-order Wednesday, Oct. 28, with availability beginning Friday, Nov. 6.
 
 ## What time did pre-orders open in my time zone?
 
@@ -147,7 +148,7 @@ Apple lists the time in Pacific Time only. The table converts 10:10 a.m. PT for 
 
 The UK moved back to GMT on Oct. 25. Pre-orders opened at that time on Oct. 28; the next date to mark is the Nov. 6 release, which you can add to a [printable weekly calendar](/printable-weekly-calendar.html).
 
-## When does the MacBook Pro with M6 come out?
+## When did the MacBook Pro with M6 come out?
 
 Friday, Nov. 6, 2026, according to Apple Newsroom. Apple said pre-orders ran on apple.com/store and in the Apple Store app in 35 countries and regions, including the U.S.
 
@@ -164,11 +165,11 @@ Apple's release names only the M6 chip. It does not mention M6 Pro or M6 Max mod
 
 ## What is the iMac M6 release date?
 
-Apple says customers can pre-order the iMac with M6 starting Oct. 28, with availability beginning Friday, Nov. 6. The version with a 10-core CPU and 10-core GPU starts at $1,499, or $1,449 with education pricing. The version with a 12-core CPU and 12-core GPU starts at $1,699, or $1,599 with education pricing.
+Apple said customers could pre-order the iMac with M6 starting Oct. 28, with availability beginning Friday, Nov. 6. The version with a 10-core CPU and 10-core GPU started at $1,499, or $1,449 with education pricing. The version with a 12-core CPU and 12-core GPU started at $1,699, or $1,599 with education pricing.
 
 ## What is the iPad mini 2026 release date?
 
-Apple says iPad mini with A20 Pro can be pre-ordered starting Wednesday, Oct. 28, with availability beginning Friday, Nov. 6. It starts at $699, or $649 with education savings.
+Apple said iPad mini with A20 Pro could be pre-ordered starting Wednesday, Oct. 28, with availability beginning Friday, Nov. 6. It started at $699, or $649 with education savings.
 
 ## What is the HomePod mini 2 release date?
 

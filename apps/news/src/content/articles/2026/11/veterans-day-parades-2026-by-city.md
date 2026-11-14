@@ -1,9 +1,9 @@
 ---
 title: "Veterans Day Parades 2026: Birmingham 1 p.m., Houston 11:30 a.m. CT"
-description: "Veterans Day parades 2026: Birmingham steps off Nov. 11 at 1:00 p.m. Central Time, Houston 11:30 a.m., San Diego 10 a.m. Ten cities, ET times, a printable."
+description: "Veterans Day parades 2026: Birmingham began Nov. 11 at 1:00 p.m. Central Time, Houston 11:30 a.m., San Diego 10 a.m. Ten cities, ET times, a printable."
 type: news
 publishedAt: "2026-11-04T15:50:00-05:00"
-updatedAt: "2026-11-08T07:20:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [christina-gerland]
 category: holidays
 shop: veterans-day
@@ -11,7 +11,7 @@ keywords: ["veterans day parade 2026", "veterans day parade near me", "veterans 
 hero:
   src: ../../../../assets/news/veterans-day-parades-2026-by-city/veterans-day-parades-2026-by-city.webp
   alt: "A New York Army National Guard color guard marches in the 2023 New York City Veterans Day Parade; Veterans Day parades 2026 are listed by city"
-  caption: "File photo, 2023: a New York Army National Guard color guard marches in the New York City Veterans Day Parade. The 2026 parades are Nov. 7 to 14."
+  caption: "File photo, 2023: a New York Army National Guard color guard marches in the New York City Veterans Day Parade. The 2026 parades ran Nov. 7 to 14."
   credit: "Photo: U.S. Army National Guard photo by Staff Sgt. Sebastian Rothwyn / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -19,21 +19,21 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:2023_Veterans-Day-Parade.jpg"
     author: "U.S. Army National Guard photo by Staff Sgt. Sebastian Rothwyn"
 summary:
-  - "Birmingham, Ala., holds the National Veterans Day Parade on Wednesday, Nov. 11, 2026 at 1:00 p.m. Central Time (CT), which is 2:00 p.m. Eastern Time (ET), rain or shine."
-  - "Houston's American Heroes Parade begins at 11:30 a.m. CT on Nov. 11 at Dallas and Bagby; San Diego's parade runs 10:00 a.m. to 11:30 a.m. Pacific Time (PT) along Harbor Drive."
-  - "Washington, D.C., holds the National Veterans Day Parade on Sunday, Nov. 8, 2026, beginning at noon ET, after a 5K at 8 a.m., the United States Park Police says."
-  - "Boston, Pittsburgh, Auburn (Wash.) and Orlando marched on Saturday, Nov. 7, and Marietta, Ga., marches on Saturday, Nov. 14, 2026."
+  - "Birmingham, Ala., held the National Veterans Day Parade on Wednesday, Nov. 11, 2026 at 1:00 p.m. Central Time (CT), which is 2:00 p.m. Eastern Time (ET), rain or shine."
+  - "Houston's American Heroes Parade began at 11:30 a.m. CT on Nov. 11 at Dallas and Bagby; San Diego's parade ran 10:00 a.m. to 11:30 a.m. Pacific Time (PT) along Harbor Drive."
+  - "Washington, D.C., held the National Veterans Day Parade on Sunday, Nov. 8, 2026, beginning at noon ET, after a 5K at 8 a.m., the United States Park Police said."
+  - "Boston, Pittsburgh, Auburn (Wash.) and Orlando marched on Saturday, Nov. 7, and Marietta, Ga., marches on Saturday, Nov. 14, 2026, at 10:40 a.m. ET."
 faq:
-  - q: "What time is the Veterans Day parade in Houston in 2026?"
-    a: "The City of Houston says the American Heroes Parade begins at 11:30 a.m. CT (12:30 p.m. ET) on Wednesday, Nov. 11, 2026, at Dallas and Bagby. The ceremony on the City Hall steps is at 10 a.m."
-  - q: "What time is the Veterans Day parade in Birmingham in 2026?"
-    a: "The National Veterans Day Foundation says the 79th National Veterans Day Parade begins at 1:00 p.m. CT (2:00 p.m. ET) on Wednesday, Nov. 11, 2026, rain or shine."
-  - q: "What time is the Veterans Day parade in Washington, D.C., in 2026?"
-    a: "The United States Park Police says the National Veterans Day Parade begins at noon ET on Sunday, Nov. 8, 2026, and is expected to conclude by 2:30 p.m. The 5K starts at 8 a.m. on Constitution Avenue, and the road closures start at 6 a.m."
+  - q: "What time was the Veterans Day parade in Houston in 2026?"
+    a: "The City of Houston said the American Heroes Parade began at 11:30 a.m. CT (12:30 p.m. ET) on Wednesday, Nov. 11, 2026, at Dallas and Bagby. The ceremony on the City Hall steps was at 10 a.m."
+  - q: "What time was the Veterans Day parade in Birmingham in 2026?"
+    a: "The National Veterans Day Foundation said the 79th National Veterans Day Parade began at 1:00 p.m. CT (2:00 p.m. ET) on Wednesday, Nov. 11, 2026, rain or shine."
+  - q: "What time was the Veterans Day parade in Washington, D.C., in 2026?"
+    a: "The United States Park Police said the National Veterans Day Parade began at noon ET on Sunday, Nov. 8, 2026, and was expected to conclude by 2:30 p.m. The 5K started at 8 a.m. on Constitution Avenue, and the road closures started at 6 a.m."
   - q: "Why are some Veterans Day parades on a weekend?"
     a: "The VA says that when Veterans Day falls on a weekday, many communities hold parades or other celebrations on the weekend before or after Nov. 11 so that more people can participate."
-  - q: "What time is the New York City Veterans Day parade in 2026?"
-    a: "The United War Veterans Council lists the parade on Nov. 11, 2026 on Fifth Avenue but posts no step-off time on that page. Our NYC parade story has the time ABC7 New York reported."
+  - q: "What time was the New York City Veterans Day parade in 2026?"
+    a: "The United War Veterans Council listed the parade on Nov. 11, 2026 on Fifth Avenue but posted no step-off time on that page. Our NYC parade story has the time ABC7 New York reported."
 sources:
   - title: "National Veterans Day Parade"
     url: "https://nationalveteransday.org/parade"
@@ -113,9 +113,9 @@ downloads:
 draft: false
 assets:
   overlay: true
-  kicker: "Veterans Day Parades · Wed., Nov. 11, 2026"
+  kicker: "Veterans Day Parades · Nov. 7 to 14, 2026"
   date: "2026-11-11"
-  card: { top: "Birmingham parade steps off", big: "1:00 p.m. CT", bottom: "Houston 11:30 a.m. CT, San Diego 10 a.m. PT" }
+  card: { top: "Veterans Day parades 2026", big: "Ten cities", bottom: "Local start times and Eastern Time" }
   printable:
     kit: watch-guide
     slug: veterans-day-parades-2026-watch-guide
@@ -192,11 +192,11 @@ assets:
         - { label: "Washington, D.C., parade route", why: "the Park Police gives no route; the organizer and Stars and Stripes describe it differently" }
 ---
 
-**Birmingham, Ala., holds the 79th National Veterans Day Parade on Wednesday, Nov. 11, 2026, beginning at 1:00 p.m. Central Time (CT), which is 2:00 p.m. Eastern Time (ET), according to the National Veterans Day Foundation.** The City of Houston says its American Heroes Parade begins at 11:30 a.m. CT, and the United States Ship (USS) Midway Museum lists San Diego's parade from 10:00 a.m. to 11:30 a.m. Pacific Time (PT). Ten cities' official times, ET conversions and routes are in one place, and a printable watch guide keeps them on one sheet.
+**Birmingham, Ala., held the 79th National Veterans Day Parade on Wednesday, Nov. 11, 2026, beginning at 1:00 p.m. Central Time (CT), which is 2:00 p.m. Eastern Time (ET), according to the National Veterans Day Foundation.** The City of Houston said its American Heroes Parade began at 11:30 a.m. CT, and the United States Ship (USS) Midway Museum listed San Diego's parade from 10:00 a.m. to 11:30 a.m. Pacific Time (PT). Ten cities' official times, ET conversions and routes stay here as a record, and a printable watch guide keeps them on one sheet.
 
-Veterans Day is Wednesday, Nov. 11 (see [When is Veterans Day?](/when-is/veterans-day/)), but several cities march on a nearby weekend day. We read nine city or organizer pages on Nov. 4, 2026, and the Washington, D.C., notice from the United States Park Police dated Nov. 6, 2026. None of those pages posts a TV channel or stream, so none is listed here. For the holiday itself, see our [Veterans Day 2026 story](/news/veterans-day-2026-wednesday-november-11/).
+Veterans Day is Wednesday, Nov. 11 (see [When is Veterans Day?](/when-is/veterans-day/)), but several cities marched on a nearby weekend day. We read nine city or organizer pages on Nov. 4, 2026, and the Washington, D.C., notice from the United States Park Police dated Nov. 6, 2026. None of those pages posts a TV channel or stream, so none is listed here. For the holiday itself, see our [Veterans Day 2026 story](/news/veterans-day-2026-wednesday-november-11/).
 
-## Which Veterans Day parades are on Wednesday, Nov. 11?
+## Which Veterans Day parades were on Wednesday, Nov. 11?
 
 | City | Local start | Time in ET | Route start and end | Source |
 |---|---|---|---|---|
@@ -214,7 +214,7 @@ San Diego's page says the parade goes "down Harbor Drive, along San Diego's wate
 
 The United War Veterans Council lists the New York City parade on Nov. 11, 2026 on Fifth Avenue and posts no 2026 step-off time. Our [NYC Veterans Day Parade story](/news/nyc-veterans-day-parade-2026-time-route-grand-marshal-suni-williams/) has the time ABC7 New York reported and the route.
 
-## When is the National Veterans Day Parade in Washington, D.C.?
+## When was the National Veterans Day Parade in Washington, D.C.?
 
 The United States Park Police (National Park Service) says: "On Sunday, Nov. 8, there will be temporary road closures for the National Veterans Day Parade and 5K in D.C." The parade begins at noon ET and "is expected to conclude by 2:30 p.m." The organizer's page lists "Sunday, November 8th, 2026 at Noon," and Stars and Stripes, in a Nov. 4 report, says the parade starts at noon and proceeds down Constitution Avenue past the White House.
 
@@ -233,9 +233,9 @@ The 5K "takes place on Constitution Avenue starting at 8 a.m." The organizer lis
 
 "All closures are expected to open by 4 p.m.," the Park Police says, though some may open earlier or stay closed longer for law enforcement, and "roads will remain closed until cleanup is complete."
 
-## Which Veterans Day parades are on the weekend before or after?
+## Which Veterans Day parades were on the weekend before or after?
 
-The Saturday, Nov. 7 parades in Boston, Pittsburgh, Auburn and Orlando have already taken place. Marietta's parade is still ahead.
+The Saturday, Nov. 7 parades in Boston, Pittsburgh, Auburn and Orlando took place. Marietta's parade is on Saturday, Nov. 14.
 
 | City | Date | Local start | Time in ET | Route start and end | Source |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@ Pittsburgh's county page says the parade is on "Saturday, November 7, 2026 at 10
 
 ## Why are many Veterans Day parades on a weekend?
 
-The VA's Veterans Day facts page says: "when Veterans Day falls on a weekday, many communities choose to hold Veterans Day parades or other celebrations on the weekend before or after November 11 so that more people can participate." In 2026 that is why Boston, Pittsburgh, Auburn and Orlando marched on Nov. 7, Washington, D.C., marches on Sunday, Nov. 8, and Marietta marches on Nov. 14, while Birmingham, Houston and San Diego keep Wednesday, Nov. 11.
+The VA's Veterans Day facts page says: "when Veterans Day falls on a weekday, many communities choose to hold Veterans Day parades or other celebrations on the weekend before or after November 11 so that more people can participate." In 2026 that is why Boston, Pittsburgh, Auburn and Orlando marched on Nov. 7, Washington, D.C., marched on Sunday, Nov. 8, and Marietta marches on Nov. 14, while Birmingham, Houston and San Diego kept Wednesday, Nov. 11.
 
 The VA says the Veterans Day National Ceremony is held each year on Nov. 11 at Arlington National Cemetery and "commences precisely at 11:00 a.m." with a wreath laying at the Tomb of the Unknowns. The page, last updated June 30, 2026, is headed Arlington, Virginia, 11/11/2026.
 

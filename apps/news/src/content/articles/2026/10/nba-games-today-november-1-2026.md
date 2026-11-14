@@ -1,8 +1,9 @@
 ---
 title: "NBA Games Today: Sunday, Nov. 1, 2026, 4 Games From 3:30 p.m. ET"
-description: "NBA games Sunday, Nov. 1, 2026: 4 games, first tip-off 3:30 p.m. ET, all on NBA League Pass. A time-zone table for every game and a printable score sheet."
+description: "NBA games Sunday, Nov. 1, 2026: 4 games, first tip-off 3:30 p.m. ET, all on NBA League Pass. A time-zone table for every game and a printable sheet."
 type: news
 publishedAt: "2026-10-30T01:58:00-04:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA games today November 1 2026", "NBA schedule November 1 2026", "NBA games Sunday", "NBA games after clocks fall back", "printable NBA schedule"]
@@ -13,6 +14,7 @@ assets:
   date: "2026-11-01"
   card: { top: "4 NBA games Sunday", big: "3:30 p.m. ET", bottom: "First games after clocks fall back" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: nba-games-today-november-1-2026
     group: nba-2026-27
     title: "NBA Games Today, Sun., Nov. 1, 2026"
@@ -31,7 +33,7 @@ assets:
 hero:
   src: ../../../../assets/news/nba-games-today-november-1-2026/nba-games-today-november-1-2026.webp
   alt: "Chase Center in San Francisco, a file photo for the NBA games today on Nov. 1, 2026"
-  caption: "File photo of Chase Center in San Francisco. The Warriors host the Clippers there at 8:30 p.m. ET on Sunday, Nov. 1, 2026."
+  caption: "File photo of Chase Center in San Francisco. The Warriors hosted the Clippers there at 8:30 p.m. ET on Sunday, Nov. 1, 2026."
   credit: "Photo: Tony Wasserman from San Francisco, USA / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -40,21 +42,21 @@ hero:
     author: "Tony Wasserman from San Francisco, USA"
     authorUrl: "https://www.flickr.com/people/66897286@N00"
 summary:
-  - "Four National Basketball Association (NBA) games are on the schedule for Sunday, Nov. 1, 2026, per NBA.com, from 3:30 p.m. to 9:00 p.m. Eastern Time (ET)."
-  - "Clocks fall back at 2 a.m. on Nov. 1, so every tip-off is on standard time, and Arizona and Hawaii are one hour farther from Eastern Time than they were on Saturday."
-  - "NBA.com lists no national TV for any of the four games; all four are on NBA League Pass."
-  - "The page has a time-zone table for every game, from Eastern to Hawaii, and a printable score sheet."
+  - "Four National Basketball Association (NBA) games were scheduled for Sunday, Nov. 1, 2026, per NBA.com, from 3:30 p.m. to 9:00 p.m. Eastern Time (ET)."
+  - "Clocks fell back at 2 a.m. on Nov. 1, so every tip-off was on standard time, and Arizona and Hawaii were one hour farther from Eastern Time than on Saturday."
+  - "NBA.com listed no national TV for any of the four games; all four were on NBA League Pass."
+  - "A time-zone table for every game, from Eastern to Hawaii, and a printable score sheet stay here as a record."
 faq:
-  - q: "How many NBA games are on today, Nov. 1, 2026?"
+  - q: "How many NBA games were on Nov. 1, 2026?"
     a: "Four, per NBA.com: Celtics at Magic (3:30 p.m. ET), Nets at Pacers (5:00 p.m. ET), Clippers at Warriors (8:30 p.m. ET) and Raptors at Lakers (9:00 p.m. ET)."
-  - q: "What time do the NBA games start tonight?"
-    a: "The first game, Celtics at Magic, tips off at 3:30 p.m. ET. Nets at Pacers follows at 5:00 p.m. ET, then Clippers at Warriors at 8:30 p.m. ET and Raptors at Lakers at 9:00 p.m. ET."
+  - q: "What time did the NBA games start on Nov. 1?"
+    a: "The first game, Celtics at Magic, was set for 3:30 p.m. ET. Nets at Pacers followed at 5:00 p.m. ET, then Clippers at Warriors at 8:30 p.m. ET and Raptors at Lakers at 9:00 p.m. ET."
   - q: "Did the clocks change before the games on Nov. 1?"
-    a: "Yes. NIST says daylight saving time ends on Nov. 1 at 2 a.m. local time in 2026, so all four tip-offs are on standard time. The times above are Eastern Standard Time."
-  - q: "Which NBA games are on national TV on Sunday?"
-    a: "None, per NBA.com. All four are on NBA League Pass, and local TV is not listed, so check your team's regional network."
+    a: "Yes. NIST says daylight saving time ended on Nov. 1 at 2 a.m. local time in 2026, so all four tip-offs were on standard time. The times above are Eastern Standard Time."
+  - q: "Which NBA games were on national TV on Nov. 1?"
+    a: "None, per NBA.com. All four were on NBA League Pass, and local TV was not listed."
   - q: "Is there a printable NBA schedule for Nov. 1?"
-    a: "Yes. The one-page sheet on this page lists all four games with Eastern tip-off times, arenas, TV and a score line for each. A printed sheet does not update, so check the schedule before tip-off."
+    a: "Yes. The one-page sheet lists all four games with Eastern tip-off times, arenas, TV and a score line for each, as a record of the day."
 sources:
   - title: "NBA Games, November 1, 2026"
     url: "https://www.nba.com/games?date=2026-11-01"
@@ -94,11 +96,11 @@ downloads:
 draft: false
 ---
 
-**There are 4 National Basketball Association (NBA) games today, Sunday, Nov. 1, 2026, with the first tip-off at 3:30 p.m. Eastern Time (ET) and the last at 9:00 p.m. ET, per the NBA.com games page.** They are the first NBA games after U.S. clocks fall back. NBA.com lists no national TV for any of them; all four are on NBA League Pass.
+**There were 4 National Basketball Association (NBA) games on Sunday, Nov. 1, 2026, with the first tip-off at 3:30 p.m. Eastern Time (ET) and the last at 9:00 p.m. ET, per the NBA.com games page.** They were the first NBA games after U.S. clocks fell back. NBA.com listed no national TV for any of them; all four were on NBA League Pass.
 
-The game list and TV details come from NBA.com, fetched Oct. 30, 2026. We cross-checked the times against the CBS Sports schedule, which lists "all times are US/Eastern." This page does not carry live scores. Once a game has started, the [CBS Sports schedule](https://www.cbssports.com/nba/schedule/20261101/) shows the score and then the result.
+The game list and TV details come from NBA.com, fetched Oct. 30, 2026. We cross-checked the times against the CBS Sports schedule, which lists "all times are US/Eastern." Final scores are not recorded here; the [CBS Sports schedule](https://www.cbssports.com/nba/schedule/20261101/) has the results.
 
-## NBA schedule today: times, arenas and TV
+## NBA schedule for Nov. 1: times, arenas and TV
 
 | Tip-off (ET) | Game | Arena | TV |
 |---|---|---|---|
@@ -107,15 +109,15 @@ The game list and TV details come from NBA.com, fetched Oct. 30, 2026. We cross-
 | 8:30 p.m. | LA Clippers at Golden State Warriors | Chase Center, San Francisco | NBA League Pass |
 | 9:00 p.m. | Toronto Raptors at Los Angeles Lakers | Crypto.com Arena, Los Angeles | NBA League Pass |
 
-NBA.com does not list local TV for any of the four games, so check your team's regional network. Our [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/) lists Group Play on Fridays plus Nov. 24 and 25, and Sunday, Nov. 1 is not among those dates.
+NBA.com did not list local TV for any of the four games. Our [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/) lists Group Play on Fridays plus Nov. 24 and 25, and Sunday, Nov. 1 is not among those dates.
 
 ## Times after the clock change
 
-The National Institute of Standards and Technology (NIST) says: "During 2026, daylight saving time is in effect from March 8 at 2 a.m. (local time) to November 1 at 2 a.m. (local time)." All four tip-offs on Sunday come after that switch, so every time on this page is Eastern Standard Time (EST). Our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) has the full details.
+The National Institute of Standards and Technology (NIST) says: "During 2026, daylight saving time is in effect from March 8 at 2 a.m. (local time) to November 1 at 2 a.m. (local time)." All four tip-offs on Sunday came after that switch, so every time on this page is Eastern Standard Time (EST). Our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) has the full details.
 
-Most of Arizona (the Navajo Nation excepted) and Hawaii do not change their clocks. From Nov. 1, Arizona is 2 hours behind Eastern Time instead of 3, and Hawaii is 5 hours behind instead of 6.
+Most of Arizona (the Navajo Nation excepted) and Hawaii do not change their clocks. Since Nov. 1, Arizona is 2 hours behind Eastern Time instead of 3, and Hawaii is 5 hours behind instead of 6.
 
-## What time are the NBA games tonight in my time zone?
+## NBA game times by time zone on Nov. 1
 
 We worked these out from the ET listings and checked each one against the standard-time rules for Central Time (CT), Mountain Time (MT), Pacific Time (PT), Arizona, Alaska and Hawaii.
 
@@ -129,14 +131,14 @@ We worked these out from the ET listings and checked each one against the standa
 | Alaska | 11:30 a.m. | 1:00 p.m. | 4:30 p.m. | 5:00 p.m. |
 | Hawaii | 10:30 a.m. | 12:00 p.m. | 3:30 p.m. | 4:00 p.m. |
 
-Arizona matches Mountain Time on Sunday because Mountain Time has moved back to standard time while Arizona stayed put.
+Arizona matched Mountain Time on Sunday because Mountain Time had moved back to standard time while Arizona stayed put.
 
-## Where to watch the NBA games today
+## Where the NBA games were shown
 
-NBA.com lists all four games on NBA League Pass and shows no national TV channel for any of them. Local TV is not listed, so check your team's regional network. Free streams found on social media are not licensed. Stick to the league, the teams' partners or your TV provider.
+NBA.com listed all four games on NBA League Pass and showed no national TV channel for any of them. Local TV was not listed. For later games, stick to the league, the teams' partners or your TV provider; free streams found on social media are not licensed.
 
 ## Printable NBA schedule and score sheet
 
-The one-page sheet lists all four games with tip-off times in ET, arenas, TV and a line to write in each final score. Print it with the [printable weekly calendar](/printable-weekly-calendar.html) if you track a team through the week, or keep the [November 2026 printable calendar](/november-calendars.html) next to it. The sheet is a snapshot and does not update. If a time changes, the change will show on the NBA.com games page first.
+The one-page sheet lists all four games with tip-off times in ET, arenas, TV and a line to write in each final score. Print it with the [printable weekly calendar](/printable-weekly-calendar.html) if you track a team through the week, or keep the [November 2026 printable calendar](/november-calendars.html) next to it. The sheet is a snapshot of the schedule as listed on Oct. 30.
 
-Saturday's slate is in [NBA games today, Oct. 31](/news/nba-games-today-october-31-2026/), and the National Hockey League (NHL) slate for Sunday is in [NHL games today, Nov. 1](/news/nhl-games-today-november-1-2026/).
+Saturday's slate was in [NBA games today, Oct. 31](/news/nba-games-today-october-31-2026/), and the National Hockey League (NHL) slate for Sunday was in [NHL games today, Nov. 1](/news/nhl-games-today-november-1-2026/).
