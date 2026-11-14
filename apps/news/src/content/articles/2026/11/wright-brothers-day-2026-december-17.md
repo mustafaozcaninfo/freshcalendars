@@ -108,7 +108,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [national-parks-free-days-october-27-veterans-day-2026, bill-of-rights-day-2026-december-15, national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff]
+related: [national-days-this-week-december-14-20-2026, bill-of-rights-day-2026-december-15, national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff]
 downloads:
   - group: "Wright Brothers Day 2026 Flights and Visit Sheet printables"
     title: "Wright Brothers Day 2026 Flights and Visit Sheet"
