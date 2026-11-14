@@ -3,7 +3,7 @@ title: "Nations Championship November 2026: Kick-Off Times in UK and ET"
 description: "The Nations Championship November series runs Nov. 6-29, 2026, with England v New Zealand on Nov. 21 at 2:10pm London time, 9:10 a.m. ET. Finals dates."
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
-updatedAt: "2026-11-07T03:24:00-05:00"
+updatedAt: "2026-11-14T01:16:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["nations championship november 2026 fixtures", "autumn internationals 2026 kick-off times", "england v new zealand 2026 kick-off time", "nations championship finals twickenham"]
@@ -18,16 +18,9 @@ assets:
     slug: nations-championship-november-2026-fixtures-kick-off-times
     group: nations-championship-2026
     title: "Nations Championship November 2026 Fixtures and Kick-Off Times"
-    subtitle: "Rounds 4 to 6 and Finals Weekend in Greenwich Mean Time (GMT) and Eastern Time (ET)"
+    subtitle: "Rounds 5 and 6 and Finals Weekend in Greenwich Mean Time (GMT) and Eastern Time (ET)"
     layout: list
     rows:
-      - ["Fri., Nov. 6", "Ireland v Argentina, Dublin: 8:10pm GMT / 3:10 p.m. ET"]
-      - ["Sat., Nov. 7", "Italy v South Africa, Turin: 11:40am GMT / 6:40 a.m. ET"]
-      - ["Sat., Nov. 7", "Scotland v New Zealand, Edinburgh: 2:10pm GMT / 9:10 a.m. ET"]
-      - ["Sat., Nov. 7", "Wales v Japan, Cardiff: 4:40pm GMT / 11:40 a.m. ET"]
-      - ["Sat., Nov. 7", "France v Fiji, Lyon: 8:10pm GMT / 3:10 p.m. ET"]
-      - ["Sun., Nov. 8", "England v Australia, Twickenham: 3:10pm GMT / 10:10 a.m. ET"]
-      - ["Fri., Nov. 13", "France v South Africa, Paris: 8:10pm GMT / 3:10 p.m. ET"]
       - ["Sat., Nov. 14", "Italy v Argentina, Genoa: 11:40am GMT / 6:40 a.m. ET"]
       - ["Sat., Nov. 14", "Wales v New Zealand, Cardiff: 2:10pm GMT / 9:10 a.m. ET"]
       - ["Sat., Nov. 14", "England v Japan, Twickenham: 4:40pm GMT / 11:40 a.m. ET"]
@@ -45,10 +38,10 @@ assets:
       - ["Sat., Nov. 28", "Finals: 2nd v 2nd, Twickenham: 4:40pm GMT / 11:40 a.m. ET"]
       - ["Sun., Nov. 29", "Finals: 4th v 4th, Twickenham: 1:10pm GMT / 8:10 a.m. ET"]
       - ["Sun., Nov. 29", "Final: 1st v 1st, Twickenham: 4:40pm GMT / 11:40 a.m. ET"]
-    note: "Source: Rugby Australia 2026 Nations Championship Fixtures (times converted from AEDT); Scottish Rugby. Eastern times worked out by Fresh Calendars."
-    inkSaver: true
-    description: "One-page list of every Nations Championship November 2026 fixture and Finals Weekend match with kick-off times in GMT and Eastern Time."
-    alt: "Printable Nations Championship November 2026 fixtures list with Greenwich Mean Time and Eastern Time kick-offs for Rounds 4 to 6 and the finals"
+    note: "Source: Rugby Australia 2026 Nations Championship Fixtures (checked Nov. 14, 2026, times converted from AEDT); Scottish Rugby. Eastern times worked out by Fresh Calendars."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
+    description: "One-page list of the Nations Championship November 2026 fixtures still to play and every Finals Weekend match with kick-off times in GMT and Eastern Time."
+    alt: "Printable Nations Championship November 2026 fixtures list with Greenwich Mean Time and Eastern Time kick-offs for Rounds 5 and 6 and the finals"
 hero:
   src: ../../../../assets/news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us.webp
   alt: "Nations Championship November 2026 fixtures: the stands and pitch at Twickenham Stadium, host of Finals Weekend"
@@ -78,7 +71,11 @@ sources:
   - title: "2026 Nations Championship Fixtures"
     url: "https://www.rugby.com.au/news/2026-nations-rugby-championship-fixtures-schedule-how-to-watch-international-rugby-wallabies-fixtures-2026-2026630"
     publisher: "Rugby Australia"
-    date: "2026-07-14"
+    date: "2026-11-14"
+  - title: "France hold on for thrilling Nations Championship win over South Africa"
+    url: "https://www.rugby.com.au/news/france-hold-on-for-thrilling-nations-championship-win-over-south-africa-20261113"
+    publisher: "Rugby Australia (AFP)"
+    date: "2026-11-13"
   - title: "Nations Championship officially launches as 2026 fixtures, format unveiled"
     url: "https://www.rugby.com.au/news/nations-championship-officially-launches-as-2026-fixtures-format-unveiled-20251117"
     publisher: "Rugby Australia"
@@ -100,19 +97,11 @@ sources:
 downloads:
   - group: "Nations Championship November 2026 Fixtures and Kick-Off Times printables"
     title: "Nations Championship November 2026 Fixtures and Kick-Off Times"
-    description: "One-page list of every Nations Championship November 2026 fixture and Finals Weekend match with kick-off times in GMT and Eastern Time."
+    description: "One-page list of the Nations Championship November 2026 fixtures still to play and every Finals Weekend match with kick-off times in GMT and Eastern Time."
     preview: ../../../../assets/news/nations-championship-2026/nations-championship-november-2026-fixtures-kick-off-times.png
-    alt: "Printable Nations Championship November 2026 fixtures list with Greenwich Mean Time and Eastern Time kick-offs for Rounds 4 to 6 and the finals"
+    alt: "Printable Nations Championship November 2026 fixtures list with Greenwich Mean Time and Eastern Time kick-offs for Rounds 5 and 6 and the finals"
     pdf: "/news/downloads/nations-championship-2026/nations-championship-november-2026-fixtures-kick-off-times.pdf"
     png: "/news/downloads/nations-championship-2026/nations-championship-november-2026-fixtures-kick-off-times.png"
-    pages: 1
-  - group: "Nations Championship November 2026 Fixtures and Kick-Off Times printables"
-    title: "Nations Championship November 2026 Fixtures and Kick-Off Times (ink saver)"
-    description: "One-page list of every Nations Championship November 2026 fixture and Finals Weekend match with kick-off times in GMT and Eastern Time. Ink-saver version."
-    preview: ../../../../assets/news/nations-championship-2026/nations-championship-november-2026-fixtures-kick-off-times-ink.png
-    alt: "Printable Nations Championship November 2026 fixtures list with Greenwich Mean Time and Eastern Time kick-offs for Rounds 4 to 6 and the fin, ink-saver version"
-    pdf: "/news/downloads/nations-championship-2026/nations-championship-november-2026-fixtures-kick-off-times-ink.pdf"
-    png: "/news/downloads/nations-championship-2026/nations-championship-november-2026-fixtures-kick-off-times-ink.png"
     pages: 1
 internalLinks:
   - href: "/november-calendars.html"
@@ -123,7 +112,7 @@ related: [fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times, carabao-cu
 draft: false
 ---
 
-**The Nations Championship November series starts Friday, Nov. 6, 2026, with Ireland v Argentina at 8:10pm Greenwich Mean Time (GMT), 3:10 p.m. Eastern Time (ET), according to Rugby Australia's fixture list.** England v New Zealand is Saturday, Nov. 21, at 2:10pm GMT, 9:10 a.m. ET and 6:10 a.m. Pacific Time (PT). Finals Weekend follows on Nov. 27 to 29 at Allianz Stadium, Twickenham, which Scottish Rugby also lists.
+**The Nations Championship November series began Friday, Nov. 6, 2026, with Ireland v Argentina at 8:10pm Greenwich Mean Time (GMT), 3:10 p.m. Eastern Time (ET), a 42-12 Ireland win, according to Rugby Australia.** England v New Zealand is Saturday, Nov. 21, at 2:10pm GMT, 9:10 a.m. ET and 6:10 a.m. Pacific Time (PT). Finals Weekend follows on Nov. 27 to 29 at Allianz Stadium, Twickenham, which Scottish Rugby also lists.
 
 Rugby league fans have a world event on the same clocks: see the [Rugby League World Cup 2026 semi-final and final times](/news/rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us/).
 
@@ -131,7 +120,7 @@ Rugby Australia prints its times in Australian Eastern Daylight Time (AEDT). We 
 
 ## What are the Nations Championship November 2026 fixtures and kick-off times?
 
-Rounds 4, 5 and 6 are the Northern Hemisphere series, with the six North teams at home. The table gives all 18 matches.
+Rounds 4, 5 and 6 are the Northern Hemisphere series, with the six North teams at home. The table gives all 18 matches; the seven played through Friday, Nov. 13 have their scores in the results table below.
 
 | Date | Match | Venue | UK (GMT) | ET | PT |
 |---|---|---|---|---|---|
@@ -169,7 +158,7 @@ Finals Weekend is Friday, Nov. 27, to Sunday, Nov. 29, 2026, at Allianz Stadium,
 | Sun., Nov. 29 | 4th v 4th | 1:10pm | 8:10 a.m. | 5:10 a.m. |
 | Sun., Nov. 29 | 1st v 1st (the final) | 4:40pm | 11:40 a.m. | 8:40 a.m. |
 
-Rugby Australia's page prints the finals days with a typo, "Saturday 29 November". The days here come from converting its AEDT times and match Scottish Rugby's 27, 28 and 29 November.
+Rugby Australia lists the finals in AEDT on Nov. 28, 29 and 30, which convert to Nov. 27, 28 and 29 in the UK and match Scottish Rugby's dates.
 
 ## How does the Nations Championship work?
 
@@ -180,11 +169,25 @@ Rugby Australia describes 12 nations and six weeks of fixtures across two period
 | North | England, France, Ireland, Italy, Scotland, Wales |
 | South | New Zealand, South Africa, Australia, Argentina, Japan, Fiji |
 
-## What happened in the July rounds?
+## What have the results been so far?
 
-Rugby Australia's page lists the results of Rounds 1 and 2. It does not list Round 3 scores, and we do not state standings.
+Rugby Australia's page lists every result through Round 3 and the first seven November matches. We do not state standings.
 
-| Result | Score |
+November, Round 4 and the first Round 5 match:
+
+| Date | Match | Score |
+|---|---|---|
+| Fri., Nov. 6 | Ireland v Argentina | 42-12 |
+| Sat., Nov. 7 | Italy v South Africa | 7-66 |
+| Sat., Nov. 7 | Scotland v New Zealand | 21-23 |
+| Sat., Nov. 7 | Wales v Japan | 28-21 |
+| Sat., Nov. 7 | France v Fiji | 54-17 |
+| Sun., Nov. 8 | England v Australia | 45-22 |
+| Fri., Nov. 13 | France v South Africa | 21-19 |
+
+July, Rounds 1 to 3:
+
+| Match | Score |
 |---|---|
 | New Zealand v France | 34-32 |
 | Japan v Italy | 27-10 |
@@ -198,6 +201,12 @@ Rugby Australia's page lists the results of Rounds 1 and 2. It does not list Rou
 | England v Fiji | 73-8 |
 | South Africa v Scotland | 42-28 |
 | Argentina v Wales | 35-21 |
+| New Zealand v Ireland | 40-21 |
+| Japan v France | 15-42 |
+| Australia v Italy | 57-10 |
+| Fiji v Scotland | 17-33 |
+| South Africa v Wales | 43-0 |
+| Argentina v England | 24-31 |
 
 ## Where can I watch the Nations Championship?
 
@@ -207,4 +216,4 @@ For other UK sport on U.S. clocks, see the [FA Cup first round kick-off times](/
 
 ## Is there a printable Nations Championship fixture list?
 
-Yes. The one-page sheet lists all 18 November matches and the six Finals Weekend slots with GMT and Eastern kick-off times.
+Yes. The one-page sheet lists the 11 November matches still to play and the six Finals Weekend slots with GMT and Eastern kick-off times.

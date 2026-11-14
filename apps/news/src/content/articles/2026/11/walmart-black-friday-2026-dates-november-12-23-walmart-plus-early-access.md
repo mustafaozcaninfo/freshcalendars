@@ -10,9 +10,9 @@ keywords: ["walmart black friday 2026", "when does walmart black friday start 20
 dateline: "Bentonville, Ark."
 assets:
   overlay: true
-  kicker: "Walmart Black Friday 2026 · Nov. 12"
-  date: "2026-11-12"
-  card: { top: "Three events, online from", big: "Nov. 12", bottom: "12:01 a.m. ET, through Dec. 2" }
+  kicker: "Walmart Black Friday 2026 · Nov. 23"
+  date: "2026-11-23"
+  card: { top: "Black Friday Deals online", big: "Nov. 23", bottom: "12:01 a.m. ET, Walmart+ same time" }
   printable:
     kit: fact-table
     slug: walmart-black-friday-2026-fact-table
@@ -36,7 +36,7 @@ assets:
         - { cells: { event: "Black Friday Deals", dates: "Nov. 23 to Nov. 29", online: "12:01 a.m. ET, Nov. 23", early: "12:01 a.m. ET, Nov. 23", stores: "Nov. 27 at 6 a.m. local time" }, src: 1 }
         - { cells: { event: "Cyber Monday Deals", dates: "Nov. 30 to Dec. 2", online: "12:01 a.m. ET, Nov. 30", early: "Not listed", stores: "Not listed" }, src: 1 }
       note:
-        - "Remaining hot Deal drop items open to all customers at 12:01 a.m. ET on Nov. 13 and Nov. 24."
+        - "Remaining hot Deal drop items open to all customers at 12:01 a.m. ET on Nov. 24."
         - "12:01 a.m. ET is 9:01 p.m. the evening before in Pacific Time; in-store openings do not shift."
 hero:
   src: ../../../../assets/news/walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access/walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access.webp
@@ -154,4 +154,4 @@ In 2025 members got early access at 7 p.m. ET the evening before; in 2026 it beg
 
 ## Print the Walmart Black Friday 2026 deal calendar
 
-The one-page printable lists every start, early access time and end date from the table, with weekdays. There is a standard version and an ink-saver version for home printers.
+The one-page printable lists every start, early access time and end date from the table, with weekdays. It prints on one page.

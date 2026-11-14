@@ -109,18 +109,18 @@ internalLinks:
     label: "When is Christmas Day?"
 downloads:
   - group: "Christmas Lights Switch-On Dates 2026 printables"
-    title: "Christmas Lights Switch-On Dates 2026, London and Belfast"
-    description: "A one-page list of the 2026 Christmas lights switch-on dates in Carnaby Street, Regent Street, Oxford Street, Covent Garden, Bond Street and Belfast."
+    title: "Belfast Christmas Lights Switch-On 2026, Nov. 14"
+    description: "A one-page guide to the Belfast City Hall Christmas lights switch-on on Nov. 14, 2026, in UK time and Eastern Time, with the dates still unconfirmed."
     preview: ../../../../assets/news/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide.png
-    alt: "Printable calendar of 2026 Christmas lights switch-on dates in London and Belfast."
+    alt: "Printable guide to the Belfast City Hall Christmas lights switch-on on Nov. 14, 2026"
     pdf: "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide.pdf"
     png: "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide.png"
     pages: 1
   - group: "Christmas Lights Switch-On Dates 2026 printables"
-    title: "Christmas Lights Switch-On Dates 2026, London and Belfast (A4)"
-    description: "A one-page list of the 2026 Christmas lights switch-on dates in Carnaby Street, Regent Street, Oxford Street, Covent Garden, Bond Street and Belfast. A4 paper."
+    title: "Belfast Christmas Lights Switch-On 2026, Nov. 14 (A4)"
+    description: "A one-page guide to the Belfast City Hall Christmas lights switch-on on Nov. 14, 2026, in UK time and Eastern Time, with the dates still unconfirmed. A4 paper."
     preview: ../../../../assets/news/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide-a4.png
-    alt: "Printable calendar of 2026 Christmas lights switch-on dates in London and Belfast., A4"
+    alt: "Printable guide to the Belfast City Hall Christmas lights switch-on on Nov. 14, 2026, A4"
     pdf: "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide-a4.pdf"
     png: "/news/downloads/london-christmas-lights-2026/london-christmas-lights-switch-on-2026-watch-guide-a4.png"
     pages: 1
@@ -203,6 +203,6 @@ Cardiff is not listed because we could not confirm a date on a council page. Non
 
 ## How can you plan around these dates?
 
-The printable lists the dated events. Add them to the [November 2026 printable calendar](/november-calendars.html), and the [December 2026 printable calendar](/december-calendars.html) is ready for the tree date when it comes. For the holiday itself, see [when is Christmas Day](/when-is/christmas-day/). Another London event is covered in our [Hyde Park Winter Wonderland 2026 story](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/), and the [Coca-Cola Christmas truck tour story](/news/coca-cola-christmas-truck-tour-2026-uk-vote-closes-3-november-dates/) covers another seasonal date.
+The printable covers the next dated event, Belfast City Hall on 14 November, and the two switch-ons still unconfirmed (Leicester Square and the Trafalgar Square tree). Add the dates to the [November 2026 printable calendar](/november-calendars.html), and the [December 2026 printable calendar](/december-calendars.html) is ready for the tree date when it comes. For the holiday itself, see [when is Christmas Day](/when-is/christmas-day/). Another London event is covered in our [Hyde Park Winter Wonderland 2026 story](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/), and the [Coca-Cola Christmas truck tour story](/news/coca-cola-christmas-truck-tour-2026-uk-vote-closes-3-november-dates/) covers another seasonal date.
 
 The table will change when the Trafalgar Square tree and the other listed switch-ons publish 2026 dates.

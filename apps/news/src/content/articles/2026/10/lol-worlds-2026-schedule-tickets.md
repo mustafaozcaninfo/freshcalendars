@@ -24,8 +24,8 @@ assets:
     description: "The Worlds 2026 semifinal results and the Nov. 14 Grand Final, Gen.G vs Bilibili Gaming, with blanks for the final score and the champion."
     alt: "Printable LoL Worlds 2026 tracker with the semifinal results and blanks for the Grand Final score and champion"
     rows:
-      - ["Sun., Nov. 8", "Semifinal: Gen.G swept Shanghai Invictus Gaming 3-0"]
-      - ["Mon., Nov. 9", "Semifinal: Bilibili Gaming beat T1 3-1"]
+      - ["Sat., Nov. 7", "Semifinal: Gen.G swept Shanghai Invictus Gaming 3-0"]
+      - ["Sun., Nov. 8", "Semifinal: Bilibili Gaming beat T1 3-1"]
       - ["Sat., Nov. 14", "Worlds Fan Fest, Pier 36, Manhattan, 11 a.m.-8 p.m. EST"]
       - ["Sat., Nov. 14", "Grand Final, 2 p.m. EST, Barclays Center, Brooklyn: Gen.G vs Bilibili Gaming  Score ___-___  Champion ________"]
     note: "Source: Riot Games / LoL Esports, Worlds 2026 Primer; results from GosuGamers and EarlyGame, checked Nov. 13, 2026. Fan-made, unofficial. Matchups and times can change."
@@ -140,7 +140,7 @@ Sixteen teams played the Swiss Stage at the Credit Union of Texas Event Center i
 
 The eight teams that survived the Swiss Stage moved into the Knockout Stage, a single-elimination bracket of best-of-five matches, in Allen, Texas. The quarterfinals ran Tuesday, Nov. 3, through Friday, Nov. 6, one match a day, and the semifinals followed on Saturday, Nov. 7, and Sunday, Nov. 8. All started at 4 p.m. CST (5 p.m. EST), after the Nov. 1 clock change. The two semifinal winners meet in the Grand Final.
 
-Riot's site does not post match results in its news section, so the semifinal results below come from two newsrooms that agree. [GosuGamers](https://www.gosugamers.net/lol/news/79482-gen-g-sweep-ig-to-become-first-team-to-advance-to-the-worlds-2026-grand-finals) reported that Gen.G swept Shanghai Invictus Gaming (IG) 3-0 on Sunday, Nov. 8, and [GosuGamers](https://www.gosugamers.net/lol/news/79483-bilibili-gaming-knock-out-defending-champions-t1-to-advance-to-worlds-2026-grand-finals) reported that Bilibili Gaming (BLG) beat defending champions T1 3-1 on Monday, Nov. 9. [EarlyGame](https://earlygame.com/news/lol/worlds-2026-gen-g-and-blg-reach-the-grand-final-who-takes-t1s-throne) reports the same two scores and that Gen.G and BLG meet in Brooklyn.
+Riot's site does not post match results in its news section, so the semifinal results below come from two newsrooms that agree. [GosuGamers](https://www.gosugamers.net/lol/news/79482-gen-g-sweep-ig-to-become-first-team-to-advance-to-the-worlds-2026-grand-finals) reported that Gen.G swept Shanghai Invictus Gaming (IG) 3-0 in the first semifinal, and [GosuGamers](https://www.gosugamers.net/lol/news/79483-bilibili-gaming-knock-out-defending-champions-t1-to-advance-to-worlds-2026-grand-finals) reported that Bilibili Gaming (BLG) beat defending champions T1 3-1 in the second. GosuGamers dates the matches Nov. 8 and Nov. 9, a day later than the U.S. dates on Riot's schedule. [EarlyGame](https://earlygame.com/news/lol/worlds-2026-gen-g-and-blg-reach-the-grand-final-who-takes-t1s-throne) reports the same two scores and that Gen.G and BLG meet in Brooklyn.
 
 ## The Grand Final in Brooklyn
 
@@ -160,4 +160,4 @@ Riot streams the matches on [lolesports.com](https://lolesports.com/en-US/news/w
 
 ## Free printable bracket tracker
 
-Our free Worlds 2026 schedule and knockout bracket tracker lists every date from the Swiss Stage to the Grand Final, with blanks for the teams that advance, each quarterfinal and semifinal matchup, the final score and the champion. It prints on any home printer. It is fan-made and unofficial, with no Riot logos or art. Put the key dates on your [October 2026 printable calendar](/october-calendars.html) and [November 2026 printable calendar](/november-calendars.html), and track the final weekend on a [printable weekly calendar](/printable-weekly-calendar.html).
+Our free Worlds 2026 schedule and knockout bracket tracker lists the two semifinal results, the Nov. 14 Worlds Fan Fest and the Grand Final, with blanks for the final score and the champion. It prints on any home printer. It is fan-made and unofficial, with no Riot logos or art. Put the key dates on your [October 2026 printable calendar](/october-calendars.html) and [November 2026 printable calendar](/november-calendars.html), and track the final weekend on a [printable weekly calendar](/printable-weekly-calendar.html).

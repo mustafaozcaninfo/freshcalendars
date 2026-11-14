@@ -144,4 +144,4 @@ Cyber Deals "start Sun., Nov. 29, through Mon., Nov. 30," with "40% off qualifyi
 
 ## Print the Kohl's Black Friday 2026 dates
 
-The one-page printable marks each event from Early Access on Nov. 6 to Cyber Deals on Nov. 30 on a November calendar, with a standard version and an ink-saver version for home printers.
+The one-page printable lists each event from Black Friday Week on Nov. 22 to Cyber Deals on Nov. 30, including the Thanksgiving closure and the 5 a.m. opening on Nov. 27. Early Access, which has ended, is not on it.

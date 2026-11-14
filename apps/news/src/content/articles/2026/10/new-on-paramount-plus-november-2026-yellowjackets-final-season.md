@@ -149,7 +149,7 @@ Paramount has not published a full November 2026 list, so this covers only title
 
 ## Print the Paramount+ November 2026 premiere calendar
 
-The printable marks four November premiere dates on a one-page US Letter calendar with the plan for each, and its note carries the Dexter date of Oct. 30 and both prices as checked Oct. 28. Print it beside a [November 2026 printable calendar](/november-calendars.html) if you want room for your own watch nights. For other services, see [Apple TV for November 2026](/news/new-on-apple-tv-november-2026-release-dates/), [Hulu for November 2026](/news/new-on-hulu-november-2026-release-dates/) and [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/).
+The printable lists six dated November entries on a one-page US Letter calendar, from the Nov. 14 Kids' Choice Awards to the Nov. 27 Soul Train Awards, with the plan named for Yellowjackets and the live stream of The JLo Show. Its note carries the Dexter date of Oct. 30 and both prices as checked Oct. 28. Print it beside a [November 2026 printable calendar](/november-calendars.html) if you want room for your own watch nights. For other services, see [Apple TV for November 2026](/news/new-on-apple-tv-november-2026-release-dates/), [Hulu for November 2026](/news/new-on-hulu-november-2026-release-dates/) and [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/).
 
 ## How we keep this accurate
 

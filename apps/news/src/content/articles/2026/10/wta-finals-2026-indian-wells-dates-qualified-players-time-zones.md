@@ -192,4 +192,4 @@ The WTA tournament page links to broadcasting options by region, but the listing
 
 ## Free WTA Finals 2026 tracker
 
-The printable lists the eight players in the singles field with their race points and a blank result line for each, plus a strip of times from PST to EST, GMT and CET that starts with the WTA's 12 p.m. start. It carries the same source note as this story: WTA, checked Nov. 13, 2026.
+The printable lists the eight players in the singles field with their race points and where each stands (withdrawn, semifinalist, out or waiting on Nov. 13), plus a blank result line for each of the three semifinalists and a strip of times from PST to EST, GMT and CET that starts with the WTA's 12 p.m. start. It carries the same source note as this story: WTA, checked Nov. 13, 2026.

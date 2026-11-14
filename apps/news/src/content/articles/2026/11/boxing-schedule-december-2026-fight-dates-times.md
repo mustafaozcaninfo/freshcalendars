@@ -32,7 +32,7 @@ faq:
   - q: "What else is on the Fury vs Joshua card?"
     a: "Netflix Tudum lists Deontay Wilder vs Jai Opetaia, Martin Bakole vs Solomon Adebayo and Da'Mazion Vanhouter vs Michael Essomba."
   - q: "When is Bivol vs Smith?"
-    a: "Saturday, Dec. 12, 2026, at UMMC Arena in Yekaterinburg, Russia, per Matchroom. The page calls it the Unified World Light Heavyweight Championship. A broadcaster and start time are not stated."
+    a: "Saturday, Dec. 12, 2026, in Yekaterinburg, Russia, per Matchroom. The page calls it the Unified World Light Heavyweight Championship. A broadcaster and start time are not stated."
   - q: "What boxing is on the weekend of Dec. 5?"
     a: "Matchroom lists Walker vs Rocha on Saturday, Dec. 5, 2026, at Civic Hall in Wolverhampton, UK. The start time is not posted."
   - q: "Is there a boxing card on Dec. 19?"
@@ -124,7 +124,7 @@ assets:
         - date: "2026-12-12"
           time: tba
           title: "Dmitry Bivol vs Callum Smith"
-          detail: "UMMC Arena, Yekaterinburg, Russia"
+          detail: "Yekaterinburg, Russia"
           src: 4
           quote: "Saturday 12 December 2026"
         - date: "2026-12-12"
@@ -165,12 +165,12 @@ draft: false
 
 Seven cards have a date on a promoter or broadcaster page as of Nov. 14, 2026. The weekdays are computed from the dates.
 
-| Date | Bout | Venue | Promoter | Where to watch, as stated |
+| Date | Bout | Venue | Promoter | Where to watch, per the source |
 |---|---|---|---|---|
 | Sat., Dec. 5 | Walker vs Rocha | Civic Hall, Wolverhampton, UK | Matchroom Boxing | Check Matchroom for the broadcaster |
 | Fri., Dec. 11 | Tyson Fury vs Anthony Joshua | Principality Stadium, Cardiff, Wales | Matchroom Boxing | Netflix, live globally, at no additional cost to members |
 | Thu., Dec. 10 | Christopher Diaz vs Alan Chaves | Caribe Royale, Orlando, Florida, USA | Matchroom Boxing | Not stated |
-| Sat., Dec. 12 | Dmitry Bivol vs Callum Smith, Unified World Light Heavyweight Championship | UMMC Arena, Yekaterinburg, Russia | Matchroom Boxing | Not stated |
+| Sat., Dec. 12 | Dmitry Bivol vs Callum Smith, Unified World Light Heavyweight Championship | Yekaterinburg, Russia | Matchroom Boxing | Not stated |
 | Sat., Dec. 12 | Soro vs Liddard, Monte Carlo Showdown | Salle des Étoiles, Monte Carlo, Monaco | Matchroom Boxing | Not stated |
 | Sat., Dec. 19 | Anthony Cacace vs Nick Ball, World Boxing Association (WBA) super-featherweight championship | O2 Arena, Belfast, UK | Queensberry | Not stated |
 | Thu., Dec. 24 | Jake Paul vs Cédric Doumbé, eight-round cruiserweight bout | Coca-Cola Arena, Dubai | Most Valuable Promotions | Not stated |
@@ -183,7 +183,7 @@ Netflix Tudum gives "Friday, Dec. 11, 2026" at "Principality Stadium in Cardiff,
 
 ## When are Bivol vs Smith and the Dec. 12 cards?
 
-Matchroom's page for Bivol vs Callum Smith shows "Saturday 12 December 2026" and calls it the Unified World Light Heavyweight Championship; its events list gives UMMC Arena in Yekaterinburg, Russia. Matchroom's Monte Carlo Showdown page shows Soro vs Liddard on the same date at Salle des Étoiles in Monte Carlo, Monaco. Neither page states a broadcaster or a start time.
+Matchroom's page for Bivol vs Callum Smith shows "Saturday 12 December 2026" and calls it the Unified World Light Heavyweight Championship, in Yekaterinburg, Russia. Matchroom's Monte Carlo Showdown page shows Soro vs Liddard on the same date at Salle des Étoiles in Monte Carlo, Monaco. Neither page states a broadcaster or a start time.
 
 ## What are the Diaz vs Chaves, Walker vs Rocha, Cacace vs Ball and Paul vs Doumbé dates?
 

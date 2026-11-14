@@ -147,4 +147,4 @@ Kohl's and Macy's have not yet announced their 2026 Black Friday dates. For refe
 
 ## Print the Costco Black Friday 2026 deal calendar
 
-The printable marks the four windows above on a November 2026 grid, with a standard and an ink-saver version for home printers.
+The printable marks the four windows above on a November 2026 grid. It is checked against Costco's savings pages as of Nov. 13, 2026, and the dates can change.

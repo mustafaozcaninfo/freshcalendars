@@ -165,7 +165,7 @@ Those offsets shift the calendar date for North American readers. An ODI startin
 
 The second Test therefore starts on Thanksgiving Day in the United States. Two Indian newsrooms, Khel Now and the Free Press Journal, report 12:30 p.m. IST for the T20Is and 7:30 a.m. IST for the ODIs, which matches this conversion.
 
-The first four T20Is were played before U.S. clocks changed, so their ET times were 3 a.m. on the New Zealand date. They are in the printable below.
+The first four T20Is were played before U.S. clocks changed, so their ET times were 3 a.m. on the New Zealand date. The printable below leaves them out and holds only the matches still to play.
 
 ## India vs New Zealand squads for the Tests
 
@@ -183,4 +183,4 @@ For another schedule converted to U.S., U.K. and Canadian times, see the [Women'
 
 ## Free India vs New Zealand 2026 schedule printable
 
-The one-page printable lists all 12 matches with the venue, the New Zealand start and the ET start, including the date shift. Its source note names the ICC for dates and NZC's schedule release for venues and local times. The ICC page also says Sri Lanka visits New Zealand in December.
+The one-page printable lists the three matches still to play (the fifth ODI and both Tests) with the venue, the New Zealand start and the ET start, including the date shift. Its source note names the ICC for dates and NZC's schedule release for venues and local times. The ICC page also says Sri Lanka visits New Zealand in December.

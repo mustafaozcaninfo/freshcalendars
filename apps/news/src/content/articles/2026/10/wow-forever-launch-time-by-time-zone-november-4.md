@@ -165,6 +165,6 @@ Blizzard's raid overview says Barrow Deeps, Hyjal Summit and Onyxia's Lair open 
 
 ## Print the WoW Forever launch timeline
 
-The one-page printable, drawn before launch, lists the name reservation deadline, the launch time in the Americas, UK, Central Europe and Asia-Pacific, the launch-week codes end date, the Dec. 9 raids and the Collection end date. Use the ink-saver version for a home printer. It does not update itself, so check Blizzard News if a date moves.
+The one-page printable, checked against Blizzard News on Nov. 13, 2026, lists the name reservation deadline, the launch time in the Americas, UK, Central Europe and Asia-Pacific, the launch-week codes end date, the Dec. 9 raids, the Collection end date and the Hardcore ruleset, which has no date yet. It does not update itself, so check Blizzard News if a date moves.
 
 Plan around the launch with our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html). For another game launch with a time-zone table, see our [Grand Theft Auto (GTA) 6 release time by time zone](/news/gta-6-countdown-release-time-by-time-zone/). Game subscribers can also check the [PlayStation Plus November 2026 games](/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/) and the [Xbox Game Pass changes for Nov. 2 to 6](/news/xbox-game-pass-leaving-october-31-2026-new-games-november-2-6/).

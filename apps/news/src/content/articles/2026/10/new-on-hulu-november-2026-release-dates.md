@@ -184,7 +184,7 @@ On Friday, Nov. 20, Hulu Press adds "A Christmas Story" (1983), "Four Christmase
 
 ## Print the Hulu November 2026 watch calendar
 
-The printable puts 16 key Hulu entries on their dates on a one-page US Letter calendar, drawn from the Hulu Press schedule and the Disney+ Press list. Print it for the fridge, or print a [November 2026 calendar](/november-calendars.html) and add your own titles. If you plan the month by week, the [printable weekly calendar](/printable-weekly-calendar.html) gives you room for each watch night. For movies on other services, see [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/) and [Prime Video for November 2026](/news/new-on-prime-video-november-2026-rings-of-power-season-3/).
+The printable puts 11 key Hulu entries on their dates on a one-page US Letter calendar, drawn from the Hulu Press schedule and the Disney+ Press list. Print it for the fridge, or print a [November 2026 calendar](/november-calendars.html) and add your own titles. If you plan the month by week, the [printable weekly calendar](/printable-weekly-calendar.html) gives you room for each watch night. For movies on other services, see [Netflix movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/) and [Prime Video for November 2026](/news/new-on-prime-video-november-2026-rings-of-power-season-3/).
 
 ## How we keep this accurate
 
