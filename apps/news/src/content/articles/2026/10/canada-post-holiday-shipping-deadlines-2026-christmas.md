@@ -35,7 +35,7 @@ assets:
       - ["Wed., Dec. 23", "Priority, all three zones; Xpresspost, Local Zone"]
       - ["Fri., Dec. 25", "Christmas Day: no collection or delivery"]
       - ["Mon., Dec. 28", "Boxing Day observed: no collection or delivery"]
-    note: "Source: Canada Post, Plan your holiday sending, Santa letter program and holiday schedule, checked Nov. 14, 2026. Dates are between major urban centres and depend on origin and destination; some restrictions apply."
+    note: "Source: Canada Post, Plan your holiday sending, Santa letter program and holiday schedule, read in November 2026. Dates are between major urban centres and depend on origin and destination; some restrictions apply."
     description: "One-page printable of Canada Post's 2026 Christmas send-by dates for parcels and cards, with the Santa letter date, earliest to latest."
     alt: "Printable list of Canada Post 2026 Christmas send-by dates from Dec. 3 to Dec. 23, with Christmas Day and Boxing Day closures"
 hero:

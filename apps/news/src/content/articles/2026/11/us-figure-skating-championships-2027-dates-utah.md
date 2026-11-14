@@ -135,19 +135,19 @@ NBC Sports adds "All times Eastern, check local listings, subject to change." It
 
 ## Session schedule: Jan. 6 to Jan. 10, 2027
 
-U.S. Figure Skating's release of Oct. 1, 2026 lists these sessions. It does not say which time zone the times use.
+U.S. Figure Skating's release of Oct. 1, 2026 lists these sessions. It does not say which time zone the times use. The fourth column is our conversion to Eastern Time if the times are Utah local time, 2 hours behind.
 
-| Date | Session | Time | Event |
-|---|---|---|---|
-| Wed., Jan. 6 | Practices | Not listed | Championship official practices |
-| Thu., Jan. 7 | 1 | 12:55 p.m. | Championship pairs short program |
-| Thu., Jan. 7 | 2 | 3:05 p.m. | Championship rhythm dance |
-| Thu., Jan. 7 | 3 | 7:10 p.m. | Championship women's short program |
-| Fri., Jan. 8 | 4 | 2 p.m. | Men's short program (Group 1) and women's free skate (Group 1) |
-| Fri., Jan. 8 | 5 (medal event) | 6:15 p.m. | Men's short program (Groups 2 and 3) and women's free skate (Groups 2 and 3) |
-| Sat., Jan. 9 | 6 (medal event) | 2 p.m. | Championship free dance |
-| Sat., Jan. 9 | 7 (medal event) | 5:10 p.m. | Championship pairs free skate |
-| Sun., Jan. 10 | 8 (medal event) | 12:45 p.m. | Championship men's free skate |
+| Date | Session | Time | If Utah time, in ET | Event |
+|---|---|---|---|---|
+| Wed., Jan. 6 | Practices | Not listed | Not listed | Championship official practices |
+| Thu., Jan. 7 | 1 | 12:55 p.m. | 2:55 p.m. | Championship pairs short program |
+| Thu., Jan. 7 | 2 | 3:05 p.m. | 5:05 p.m. | Championship rhythm dance |
+| Thu., Jan. 7 | 3 | 7:10 p.m. | 9:10 p.m. | Championship women's short program |
+| Fri., Jan. 8 | 4 | 2 p.m. | 4:00 p.m. | Men's short program (Group 1) and women's free skate (Group 1) |
+| Fri., Jan. 8 | 5 (medal event) | 6:15 p.m. | 8:15 p.m. | Men's short program (Groups 2 and 3) and women's free skate (Groups 2 and 3) |
+| Sat., Jan. 9 | 6 (medal event) | 2 p.m. | 4:00 p.m. | Championship free dance |
+| Sat., Jan. 9 | 7 (medal event) | 5:10 p.m. | 7:10 p.m. | Championship pairs free skate |
+| Sun., Jan. 10 | 8 (medal event) | 12:45 p.m. | 2:45 p.m. | Championship men's free skate |
 
 The release does not say what is scheduled on Jan. 4 or Jan. 5. For comparison, the 2026 championships in St. Louis had junior and novice events on Jan. 5-6 at a separate rink and the championship events on Jan. 7-10 at Enterprise Center, per a U.S. Figure Skating release of Jan. 2, 2026.
 

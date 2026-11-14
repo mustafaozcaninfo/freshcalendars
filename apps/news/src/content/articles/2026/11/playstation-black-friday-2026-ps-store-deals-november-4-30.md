@@ -33,7 +33,7 @@ assets:
         title: "My wish list: game, regular price, sale price, ends Nov. 20?"
         labels: ["1.", "2.", "3.", "4.", "5.", "6.", "7.", "8."]
       unconfirmed:
-        - { label: "Individual game discounts and PlayStation Plus offers", why: "not named in the PlayStation.Blog post" }
+        - { label: "Game discounts and PlayStation Plus offers", why: "not named in the PlayStation.Blog post" }
 hero:
   src: ../../../../assets/news/playstation-black-friday-2026-ps-store-deals-november-4-30/playstation-black-friday-2026-ps-store-deals-november-4-30.webp
   alt: "Shelves of video game cases next to a PS5 console, for PlayStation Black Friday 2026"
