@@ -128,7 +128,7 @@ internalLinks:
     label: "When is Thanksgiving"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday"
-related: [black-friday-2026-store-hours-walmart-target-best-buy, restaurants-open-thanksgiving-2026-hours-by-chain, thanksgiving-2026-planner-countdown-checklist]
+related: [black-friday-2026-store-hours-walmart-target-best-buy, restaurants-open-thanksgiving-2026-hours-by-chain, is-walgreens-open-thanksgiving-2026-pharmacies-cvs]
 downloads:
   - group: "Thanksgiving 2026 printables"
     title: "Thanksgiving 2026: Open or Closed, Thu., Nov. 26"

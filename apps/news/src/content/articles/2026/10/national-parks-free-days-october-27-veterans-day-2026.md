@@ -81,7 +81,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [veterans-day-2026-wednesday-november-11, wright-brothers-day-2026-december-17, november-2026-important-dates-days-until]
+related: [veterans-day-2026-wednesday-november-11, bank-of-america-museums-on-us-december-5-6-2026, november-2026-important-dates-days-until]
 downloads:
   - group: "National Parks Free Days Checklist printables"
     title: "National Parks Free Days Checklist, Oct. 27 and Nov. 11, 2026"
