@@ -13,6 +13,7 @@ assets:
   date: "2026-11-19"
   card: { top: "Nelly & Ashanti season 2 on Peacock", big: "Thu., Nov. 19", bottom: "Dig follows on Mon., Nov. 23" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: peacock-november-2026-watch-calendar
     group: peacock-2026
     title: "New on Peacock, November 2026"

@@ -79,6 +79,7 @@ assets:
   date: "2026-11-14"
   card: { top: "UFC 334 main card", big: "9 p.m. ET", bottom: "6 p.m. PT · 2 a.m. UK Sun. · Paramount+" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: ufc-fight-night-schedule-nov-dec-2026
     group: ufc-nov-dec-2026
     title: "UFC Fight Night Schedule, Nov. 14 to Dec. 12, 2026"

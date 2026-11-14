@@ -1,17 +1,16 @@
 {
   "v": 3,
   "kit": "watch-guide",
-  "hash": "6bf48c11eb05e42f",
+  "hash": "53a0aba36ecc2db7",
   "files": [
     "/news/downloads/nhl-global-series-2026/nhl-global-series-2026-game-schedule.pdf"
   ],
   "computed": [
+    "noon",
     "11 a.m.",
     "10 a.m.",
-    "9 a.m.",
-    "7 p.m.",
-    "noon",
     "8 p.m.",
+    "7 p.m.",
     "7 a.m.",
     "6 a.m.",
     "5 a.m.",

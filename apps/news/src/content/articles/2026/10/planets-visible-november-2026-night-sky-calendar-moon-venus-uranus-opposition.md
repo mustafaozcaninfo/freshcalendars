@@ -25,6 +25,7 @@ assets:
   overlay: true
   card: { top: "Mars about 1.2° from Jupiter", big: "Mon., Nov. 16", bottom: "Morning sky, before dawn" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: november-2026-night-sky-calendar-planets-moon
     group: night-sky-2026
     title: "November 2026 Night Sky Calendar"

@@ -101,7 +101,7 @@ assets:
     data:
       pick: "My pick to win"
       events:
-        - { date: "2026-11-14", time: "6.25pm", title: "Week 8 live show", src: 2, quote: "7th, 14th & 28th November, 5th, 12th & 19th December 2026 [Nov. 14]" }
+        - { date: "2026-11-14", time: TBA, title: "Week 8 live show", src: 2, quote: "7th, 14th & 28th November, 5th, 12th & 19th December 2026 [Nov. 14]" }
         - { date: "2026-11-21", time: TBA, title: "Blackpool Week (Week 9)", src: 3, quote: "on Saturday 21 November 2026" }
         - { date: "2026-11-28", time: TBA, title: "Week 10 live show", src: 2, quote: "7th, 14th & 28th November, 5th, 12th & 19th December 2026 [Nov. 28]" }
         - { date: "2026-12-05", time: TBA, title: "Musicals Week (Week 11)", src: 10, quote: "Musicals Week - 5 December" }
