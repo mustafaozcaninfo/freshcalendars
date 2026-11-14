@@ -3,7 +3,7 @@ title: "College Football Conference Championship Games 2026: All 10, Dec. 4-5"
 description: "College football conference championship games 2026: five on Fri., Dec. 4 and five on Sat., Dec. 5, noon to 9 p.m. ET. Table has TV, sites, a printable."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
-updatedAt: "2026-11-12T19:30:00-05:00"
+updatedAt: "2026-11-14T15:30:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["conference championship games 2026", "conference championship weekend 2026 schedule", "college football championship games TV 2026", "SEC championship game 2026 time"]
@@ -27,9 +27,9 @@ assets:
       - ["Dec. 4, 8 p.m.", "Big 12 title game, AT&T Stadium, ABC"]
       - ["Dec. 4, 8 p.m.", "Pac-12 title game, CBS and Paramount+"]
       - ["Dec. 4, 9 p.m.", "Mountain West title game, FOX (reported)"]
-      - ["Dec. 5, noon", "ACC title game, Charlotte, ABC (reported)"]
+      - ["Dec. 5, noon", "ACC title game, Charlotte, ABC"]
       - ["Dec. 5, noon", "MAC title game, Ford Field, ESPN (reported)"]
-      - ["Dec. 5, 4 p.m.", "SEC title game, Mercedes-Benz Stadium, ABC (reported)"]
+      - ["Dec. 5, 4 p.m.", "Last SEC title game, Mercedes-Benz Stadium, ABC"]
       - ["Dec. 5, 8 p.m.", "American title game, ABC"]
       - ["Dec. 5, 8 p.m.", "Big Ten title game, Lucas Oil Stadium, FOX (reported)"]
       - ["Dec. 6", "CFP Selection Day; first-round sites announced"]
@@ -40,7 +40,7 @@ assets:
       - ["Jan. 14, 7:30 p.m.", "Orange Bowl semifinal, TNT, truTV, HBO Max"]
       - ["Jan. 15, 7:30 p.m.", "Sugar Bowl semifinal, ABC and ESPN"]
       - ["Jan. 25, 7:30 p.m.", "CFP championship, Las Vegas, ABC and ESPN"]
-    note: "Source: Big 12, Pac-12, American and Sun Belt releases (May 27, 2026); ESPN Press Room (June 1, 2026) for the playoff; NCAA.com and FBSchedules for the rest. Times may change."
+    note: "Source: Big 12, Pac-12, American and Sun Belt releases (May 27, 2026); ESPN Press Room (June 1 and June 10, 2026) for the playoff and the SEC; the ACC (Jan. 26, 2026); NCAA.com and FBSchedules for the rest. Times may change."
     description: "One-page list of all 10 college football conference championship games on Dec. 4-5, 2026 plus College Football Playoff dates, with Eastern Time kickoffs and TV. Free."
     alt: "Printable list of the 10 conference championship games on Dec. 4 and 5, 2026 and the College Football Playoff dates, with Eastern Time kickoffs and TV networks"
 hero:
@@ -56,14 +56,14 @@ hero:
     authorUrl: "https://en.wikipedia.org/wiki/en:Carol_M._Highsmith"
 summary:
   - "Five Football Bowl Subdivision (FBS) conference title games are on Friday, Dec. 4, 2026 and five on Saturday, Dec. 5, per conference releases and reports."
-  - "The Big 12, Pac-12, American and Sun Belt confirmed their times in releases dated May 27, 2026; the other six times come from NCAA.com and FBSchedules."
+  - "The 2026 SEC Championship Game on Saturday, Dec. 5 in Atlanta will be the last, Baton Rouge's Channel 9 (WAFB) and Saturday Down South reported on Nov. 9, 2026, because the CFP moves to 24 teams from 2027-28."
   - "Selection Day for the College Football Playoff (CFP) is Sunday, Dec. 6, and the first round is Friday, Dec. 18 and Saturday, Dec. 19."
   - "The CFP national championship is Monday, Jan. 25, 2027, at Allegiant Stadium in Las Vegas; kickoff is 7:30 p.m. ET on ABC and ESPN, per ESPN Press Room."
 faq:
   - q: "When are the conference championship games in 2026?"
     a: "Friday, Dec. 4 and Saturday, Dec. 5, 2026. Five games are on each day, according to conference releases and NCAA.com."
   - q: "What time is the SEC Championship Game in 2026?"
-    a: "4 p.m. ET on Saturday, Dec. 5, on ABC at Mercedes-Benz Stadium in Atlanta, according to NCAA.com. The Southeastern Conference (SEC) page was not readable for this story."
+    a: "4 p.m. ET on Saturday, Dec. 5, on ABC at Mercedes-Benz Stadium in Atlanta, per the ESPN Press Room schedule. It will be the last SEC Championship Game, according to WAFB and Saturday Down South (Nov. 9, 2026)."
   - q: "What time is the Big Ten Championship Game in 2026?"
     a: "8 p.m. ET on Saturday, Dec. 5, on FOX at Lucas Oil Stadium in Indianapolis, as reported by FBSchedules."
   - q: "Where is the Big 12 Championship Game in 2026?"
@@ -73,6 +73,22 @@ faq:
   - q: "When is the college football national championship in 2027?"
     a: "Monday, Jan. 25, 2027, at Allegiant Stadium in Las Vegas, on ABC and ESPN. Kickoff is 7:30 p.m. ET, per ESPN Press Room."
 sources:
+  - title: "End of an Era: SEC Football Championship Game comes to a close"
+    url: "https://www.wafb.com/2026/11/09/end-an-era-sec-football-championship-game-comes-close/"
+    publisher: "WAFB"
+    date: "2026-11-09"
+  - title: "Greg Sankey releases statement on SEC Championship Game ending with CFP expansion"
+    url: "https://www.saturdaydownsouth.com/news/college-football/greg-sankey-releases-statement-on-sec-championship-game-ending-with-cfp-expansion/"
+    publisher: "Saturday Down South"
+    date: "2026-11-09"
+  - title: "ESPN Press Room college football schedule"
+    url: "https://espnpressroom.com/?p=72849"
+    publisher: "ESPN Press Room"
+    date: "2026-06-10"
+  - title: "2026 ACC Football Championship Game to kick off at noon ET on ABC"
+    url: "https://theacc.com/news/2026/1/26/2026-acc-football-championship-game-to-kick-off-at-noon-et-on-abc.aspx"
+    publisher: "Atlantic Coast Conference"
+    date: "2026-01-26"
   - title: "2026-27 CFP broadcast schedule revealed"
     url: "https://espnpressroom.com/us/press-releases/2026/06/2026-27-cfp-broadcast-schedule-revealed/"
     publisher: "ESPN Press Room"
@@ -133,13 +149,13 @@ downloads:
     pages: 1
 ---
 
-**The 2026 college football conference championship games are played Friday, Dec. 4 and Saturday, Dec. 5, with kickoffs from noon to 9 p.m. Eastern Time (ET)**, according to conference announcements dated May 27, 2026 and to the National Collegiate Athletic Association (NCAA) site NCAA.com and FBSchedules for the conferences whose own pages could not be read. Five Football Bowl Subdivision (FBS) title games are on Friday and five on Saturday. The College Football Playoff (CFP) Selection Day follows on Sunday, Dec. 6.
+**The 2026 college football conference championship games are played Friday, Dec. 4 and Saturday, Dec. 5, with kickoffs from noon to 9 p.m. Eastern Time (ET)**, according to conference announcements dated May 27, 2026 and to the National Collegiate Athletic Association (NCAA) site NCAA.com and FBSchedules for the conferences whose own pages could not be read. Five Football Bowl Subdivision (FBS) title games are on Friday and five on Saturday. The College Football Playoff (CFP) Selection Day follows on Sunday, Dec. 6. The Southeastern Conference (SEC) announced on Nov. 9, 2026 that its game in Atlanta will be the last, as Baton Rouge's Channel 9 (WAFB) and Saturday Down South reported, because the CFP expands to 24 teams from the 2027-28 season.
 
 All ten games are listed with ET times, TV and sites. The networks are ESPN, the American Broadcasting Company (ABC), FOX, CBS and CBS Sports Network, and the playoff adds Turner Network Television (TNT). Our free one-page printable adds the CFP dates that come after.
 
 ## What is the schedule for all 10 title games?
 
-Times are Eastern Time. Where a conference gave its time in another zone, that time is in the table, and the ET conversion is ours. A "Confirmed" row comes from a conference release; a "Reported" row comes from the outlet named below the table, because the conference page was not readable for this story.
+Times are Eastern Time. Where a conference gave its time in another zone, that time is in the table, and the ET conversion is ours. A "Confirmed" row comes from a conference release or the ESPN Press Room schedule; a "Reported" row comes from the outlet named below the table, because the conference page was not readable for this story.
 
 | Day | Game | Kickoff (ET) | TV | Site | Status |
 |---|---|---|---|---|---|
@@ -148,13 +164,13 @@ Times are Eastern Time. Where a conference gave its time in another zone, that t
 | Fri., Dec. 4 | Big 12 | 8 p.m. (7 p.m. CT) | ABC | AT&T Stadium, Arlington, Texas | Confirmed |
 | Fri., Dec. 4 | Pac-12 | 8 p.m. (5 p.m. Pacific Time, PT) | CBS and Paramount+ | Home venue of the highest seed | Confirmed |
 | Fri., Dec. 4 | Mountain West | 9 p.m. (7 p.m. Mountain Time, MT) | FOX | Team with the best conference record | Reported |
-| Sat., Dec. 5 | Atlantic Coast Conference (ACC) | Noon | ABC | Bank of America Stadium, Charlotte | Reported |
+| Sat., Dec. 5 | Atlantic Coast Conference (ACC) | Noon | ABC | Bank of America Stadium, Charlotte | Confirmed |
 | Sat., Dec. 5 | Mid-American Conference (MAC) | Noon | ESPN | Ford Field, Detroit | Reported |
-| Sat., Dec. 5 | Southeastern Conference (SEC) | 4 p.m. | ABC | Mercedes-Benz Stadium, Atlanta | Reported |
+| Sat., Dec. 5 | Southeastern Conference (SEC) | 4 p.m. | ABC | Mercedes-Benz Stadium, Atlanta (last SEC title game) | Confirmed |
 | Sat., Dec. 5 | American | 8 p.m. | ABC | Not named in the release | Confirmed |
 | Sat., Dec. 5 | Big Ten | 8 p.m. | FOX | Lucas Oil Stadium, Indianapolis | Reported |
 
-Notes on the sources: the Big 12, Pac-12, American and Sun Belt releases are all dated May 27, 2026. NCAA.com reported the SEC details on June 1, 2026. FBSchedules reported the Big Ten and Mountain West games. The ACC announced in a release titled "2026 ACC Football Championship Game to kick off at noon ET on ABC" on Jan. 26, 2026, and FBSchedules lists the game; the MAC time comes from school releases on May 27, 2026, per FBSchedules. FBSchedules (May 27, 2026) reports the Conference USA game on CBS Sports Network at 7 p.m. ET.
+Notes on the sources: the Big 12, Pac-12, American and Sun Belt releases are all dated May 27, 2026. ESPN Press Room lists the SEC game at 4 p.m. on ABC (June 10, 2026), and NCAA.com reported the SEC details on June 1, 2026. WAFB and Saturday Down South reported on Nov. 9, 2026 that the SEC announced the 2026 game will be its last; no replacement event was named. FBSchedules reported the Big Ten and Mountain West games. The ACC announced in a release titled "2026 ACC Football Championship Game to kick off at noon ET on ABC" on Jan. 26, 2026, which makes the ACC row confirmed; the MAC time comes from school releases on May 27, 2026, per FBSchedules. FBSchedules (May 27, 2026) reports the Conference USA game on CBS Sports Network at 7 p.m. ET.
 
 ## Which games are on Friday and which on Saturday?
 
