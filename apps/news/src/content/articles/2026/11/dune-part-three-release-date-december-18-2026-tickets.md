@@ -10,7 +10,7 @@ assets:
   overlay: true
   kicker: "Dune: Part Three · Dec. 18, 2026"
   date: "2026-12-18"
-  card: { top: "Only in cinemas and IMAX", big: "Fri., Dec. 18", bottom: "42 days from Nov. 6, 2026" }
+  card: { top: "Only in cinemas and IMAX", big: "Fri., Dec. 18", bottom: "Same day as Avengers: Doomsday" }
   printable:
     kit: release-tracker
     slug: december-18-2026-movie-releases

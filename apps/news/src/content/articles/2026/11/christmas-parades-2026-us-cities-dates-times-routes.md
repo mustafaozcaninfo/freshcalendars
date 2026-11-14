@@ -107,7 +107,7 @@ assets:
         - { date: "2026-11-29", time: TBA, title: "Hollywood Christmas Parade", detail: "Route start not posted; start time not announced", src: 2, quote: "Sunday, November 29th, 2026" }
         - { start: "2026-12-05T08:30-06:00", title: "Dallas Holiday Parade", detail: "Downtown Dallas; route not posted", src: 6, quote: "Saturday, December 5, 2026 Step-Off at 8:30am." }
         - { start: "2026-12-05T18:00-07:00", title: "Denver, 9NEWS Parade of Lights (telecast)", detail: "Route on 17th, Curtis, 16th, 15th, Glenarm and Tremont Place", channel: "9NEWS", src: 4, quote: ["Saturday, December 5, 2026!", "12/5/26 airing 6:00 p.m. -7:00 p.m."] }
-        - { start: "2026-12-12T18:00-05:00", title: "Fort Lauderdale, Winterfest Boat Parade", detail: "Starts at Stranahan House; pre-show 5:30 p.m.; livestream on YouTube and Facebook", src: 7, quote: "Saturday, December 12, 2026 from 6:00PM to 8:30PM." }
+        - { start: "2026-12-12T18:00-05:00", title: "Fort Lauderdale, Winterfest Boat Parade", detail: "Starts at Stranahan House; livestream on YouTube, Facebook", src: 7, quote: "Saturday, December 12, 2026 from 6:00PM to 8:30PM." }
       unconfirmed:
         - { label: "Hollywood start time, route text and TV", why: "not posted on the organizer's pages on Nov. 14, 2026" }
         - { label: "Denver step-off time", why: "only the 6:00 p.m. to 7:00 p.m. telecast window is posted" }

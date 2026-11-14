@@ -3,7 +3,7 @@ title: "Bank of England Rate Dates 2027: Eight Decisions From 4 February"
 description: "The Bank of England confirmed eight 2027 interest rate dates, from 4 February to 16 December. See which four come with a Monetary Policy Report."
 type: news
 publishedAt: "2026-10-26T20:37:00-04:00"
-updatedAt: "2026-11-08T23:25:00-05:00"
+updatedAt: "2026-11-14T15:42:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 dateline: "London"
@@ -43,7 +43,7 @@ sources:
   - title: "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes"
     url: "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026"
     publisher: "Bank of England"
-    date: "2026-12-17"
+    date: "2026-11-05"
   - title: "Monetary Policy Committee dates for 2027"
     url: "https://www.bankofengland.co.uk/news/2026/september/mpc-dates-for-2027"
     publisher: "Bank of England"
@@ -74,7 +74,7 @@ assets:
     group: bank-of-england-mpc-2027
     title: "Bank of England MPC Dates 2026-2027"
     subtitle: "Monetary Policy Committee announcement days"
-    note: "Source: Bank of England, Upcoming MPC dates (checked 8 November 2026) and MPC dates for 2027 (17 September 2026)."
+    note: "Source: Bank of England, Upcoming MPC dates (checked 14 November 2026) and MPC dates for 2027 (17 September 2026)."
     description: "One-page list of Bank of England Monetary Policy Committee announcement dates from 17 December 2026 to 16 December 2027, with Report dates marked."
     alt: "Printable list of Bank of England MPC announcement dates from 17 December 2026 to 16 December 2027"
     data:

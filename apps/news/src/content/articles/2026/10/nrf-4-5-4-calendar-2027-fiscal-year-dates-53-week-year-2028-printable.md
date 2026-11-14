@@ -3,7 +3,7 @@ title: "NRF 4-5-4 Calendar 2027: Fiscal Year Jan. 31, 2027 to Jan. 29, 2028"
 description: "The National Retail Federation (NRF) 4-5-4 calendar starts fiscal 2027 on Jan. 31, 2027. Fiscal 2028 has 53 weeks; a printable lists all 12 months."
 type: explainer
 publishedAt: "2026-10-29T01:44:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["4-5-4 calendar 2027", "nrf 4-5-4 calendar 2026", "retail fiscal calendar 2027", "53 week year 2028 retail"]
@@ -23,6 +23,7 @@ assets:
   date: "2027-01-31"
   card: { top: "Fiscal 2027 starts", big: "Sun., Jan. 31, 2027", bottom: "52 weeks; 2028 has 53" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: nrf-4-5-4-retail-calendar-fiscal-2027
     group: nrf-454-2027
     title: "NRF 4-5-4 Retail Calendar, Fiscal 2027"
@@ -71,7 +72,7 @@ sources:
   - title: "4-5-4 Calendar | NRF"
     url: "https://nrf.com/resources/4-5-4-calendar"
     publisher: "National Retail Federation"
-    date: "2026-10-29"
+    date: "2026-11-14"
   - title: "2026-2028 Retail Sales Reporting and 4-5-4 Merchandising Calendar"
     url: "https://nrf.com/api/asset/storyblok?request=NrjfXUUGDZriUn9fUnvhzQ8k5TfESVVKQJMS6Yo6mdUYBAE6nQh8asFw3BXETf%2FDagMK7qODtBQyUSxzDcRro03SJbqi4B8%2FK4JJI2euAF2XSdfd%2B%2B6MBAKs8PK30WG6tmxxt%2BT0%2FQ%3D%3D%7C8GKnsRNyACLBpnss"
     publisher: "National Retail Federation"
@@ -114,7 +115,7 @@ draft: false
 
 NRF describes the 4-5-4 calendar as a retail sales reporting and merchandising calendar. Each quarter has three fiscal months of 4, 5 and 4 weeks, so a quarter is 13 weeks and a standard year is 52. On NRF's 2026-2028 grid the pattern repeats in every quarter: February 4 weeks, March 5, April 4; May 4, June 5, July 4; August 4, September 5, October 4; November 4, December 5, January 4.
 
-Monday, Nov. 2, 2026, falls in fiscal November of fiscal 2026 (Nov. 1 to Nov. 28), in its first week. Our [fiscal year calendar guide](/guides/fiscal-year-calendar.html) explains how a fiscal year differs from a calendar year.
+Saturday, Nov. 14, 2026, falls in fiscal November of fiscal 2026 (Nov. 1 to Nov. 28), on the last day of its second week. Our [fiscal year calendar guide](/guides/fiscal-year-calendar.html) explains how a fiscal year differs from a calendar year.
 
 ## NRF 4-5-4 calendar fiscal 2026, 2027 and 2028 by month
 

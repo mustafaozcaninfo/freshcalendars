@@ -3,7 +3,7 @@ title: "Chinese Lunar Calendar 2027: Starts Feb. 6, No Leap Month"
 description: "The Chinese lunar calendar 2027 has 12 months, no leap month, and begins Feb. 6. Each month's start date and all 24 solar terms, per Hong Kong Observatory."
 type: explainer
 publishedAt: "2026-11-04T15:55:00-05:00"
-updatedAt: "2026-11-04T15:55:00-05:00"
+updatedAt: "2026-11-14T15:42:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["chinese calendar 2027", "lunar calendar 2027 months", "chinese lunar calendar 2027", "2027 leap month chinese calendar", "24 solar terms 2027"]
@@ -36,18 +36,22 @@ sources:
   - title: "Gregorian-Lunar Calendar Conversion Table of 2027 (Ding-wei - year of the Goat)"
     url: "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2027e.txt"
     publisher: "Hong Kong Observatory"
+    date: "2026-11-14"
   - title: "Gregorian-Lunar Calendar Conversion Table of 2026"
     url: "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2026e.txt"
     publisher: "Hong Kong Observatory"
+    date: "2026-11-14"
   - title: "Gregorian-Lunar Calendar Conversion Table of 2028"
     url: "https://www.hko.gov.hk/en/gts/time/calendar/text/files/T2028e.txt"
     publisher: "Hong Kong Observatory"
+    date: "2026-11-14"
   - title: "What year is it today?"
     url: "https://www.hko.gov.hk/en/education/astronomy-and-time/time-service/00506-what-year-is-it-today.html"
     publisher: "Hong Kong Observatory"
   - title: "Statutory Holidays for 2027"
     url: "https://www.labour.gov.hk/eng/news/latest_holidays2027.htm"
     publisher: "Hong Kong Labour Department"
+    date: "2026-11-14"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
@@ -106,7 +110,7 @@ HKO dates are Hong Kong dates, Coordinated Universal Time (UTC) plus 8 hours. A 
 | 11th | Nov. 28 | Sunday | 30 | Heavy Snow (Dec. 7), Winter Solstice (Dec. 22) |
 | 12th | Dec. 28 | Tuesday | 29 | None in 2027 |
 
-The first row belongs to the Year of the Horse, which began on Feb. 17, 2026. The 10th and 11th months of that year start on Nov. 9 and Dec. 9, 2026, according to the HKO 2026 table. Add the 12 lengths from the 1st month through the 12th and you get 354 days. In 2027, six months have 30 days and six have 29.
+The first row belongs to the Year of the Horse, which began on Feb. 17, 2026. The 10th month of that year began on Nov. 9, 2026, and the 11th begins on Dec. 9, according to the HKO 2026 table. Add the 12 lengths from the 1st month through the 12th and you get 354 days. In 2027, six months have 30 days and six have 29.
 
 ## Is there a leap month in the 2027 Chinese calendar?
 

@@ -60,6 +60,7 @@ assets:
   date: "2026-11-27"
   card: { top: "Federal working days in November", big: "19", bottom: "21 weekdays minus Nov. 11 and Nov. 26" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: business-days-november-december-2026
     group: business-days-2026
     title: "Business Days, November and December 2026"

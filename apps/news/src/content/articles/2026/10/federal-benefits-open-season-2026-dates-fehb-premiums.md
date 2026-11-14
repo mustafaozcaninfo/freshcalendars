@@ -3,7 +3,7 @@ title: "Federal Benefits Open Season 2026: Nov. 9 to Dec. 14"
 description: "Federal open season 2026 runs Nov. 9 to Dec. 14, per the Office of Personnel Management (OPM). The average health plan enrollee share rises 10.9% in 2027."
 type: news
 publishedAt: "2026-10-24T16:48:00-04:00"
-updatedAt: "2026-11-08T07:23:00-05:00"
+updatedAt: "2026-11-14T15:42:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["open season 2026 federal employees", "FEHB open season 2026 dates", "2027 FEHB premiums", "federal benefits open season 2026", "FSAFEDS 2027 reenroll"]
@@ -36,7 +36,7 @@ faq:
   - q: "When do my 2027 benefits start?"
     a: "It depends on the program. FEDVIP, FSAFEDS and PSHB start Jan. 1, 2027. FEHB starts Jan. 10, 2027 for non-USPS employees and Jan. 24, 2027 for OWCP compensationers."
   - q: "Are the 2027 FSA contribution limits known?"
-    a: "Yes, for the federal ceiling. The Internal Revenue Service (IRS) said on Nov. 5, 2026 (release IR-2026-133) that the health care FSA salary-reduction limit for tax years beginning in 2027 rises to $3,500, up $100 from the prior year, and the maximum carryover is $700, up $20 from 2026. As of Nov. 6, 2026, OPM's FSA page had not posted FSAFEDS's own 2027 amounts, so confirm the FSAFEDS election limit when you enroll."
+    a: "Yes, for the federal ceiling. The Internal Revenue Service (IRS) said on Nov. 5, 2026 (release IR-2026-133) that the health care FSA salary-reduction limit for tax years beginning in 2027 rises to $3,500, up $100 from the prior year, and the maximum carryover is $700, up $20 from 2026. As of Nov. 14, 2026, OPM's FSA page had not posted FSAFEDS's own 2027 amounts, so confirm the FSAFEDS election limit when you enroll."
 sources:
   - title: "What is the Tricare Open Season and when is it?"
     url: "https://www.tricare.mil/FAQs/General/GEN_OpenSeason_WhatWhen"
@@ -101,7 +101,7 @@ assets:
           src: "https://www.opm.gov/healthcare-insurance/open-season/agency-benefits-officers/housing-for-os-materials/2026-federal-benefits-open-season-highlights-for-plan-year-2027.pdf"
           quote: "December 14, 2026: Open Season ends."
       unconfirmed:
-        - { label: "FSAFEDS 2027 election limit", why: "not on OPM FSA page as of Nov. 6, 2026; not rechecked" }
+        - { label: "FSAFEDS 2027 election limit", why: "not on OPM FSA page as of Nov. 14, 2026" }
 ---
 
 **The Office of Personnel Management (OPM) says the Federal Benefits Open Season for plan year 2027 runs from Monday, Nov. 9 through Monday, Dec. 14, 2026.** The average Federal Employees Health Benefits (FEHB) enrollee share goes up 10.9% for 2027, after a 12.3% rise for 2026, according to OPM's Federal Benefits Open Season Highlights. Our free printable deadline grid puts the start and closing times on one page.
@@ -177,7 +177,7 @@ USPS stands for the U.S. Postal Service. Check the row for your group before you
 
 ## What changes for FSAFEDS and family members?
 
-OPM says FSAFEDS participation "does not automatically continue from year to year." Current participants who want to continue for Benefit Year 2027 must reenroll. A flexible spending account (FSA) is the account type FSAFEDS offers. New for 2027 is the FSAFEDS Visa FSA Card for health care FSA and limited expense health care FSA accounts, with a choice of a debit card or paperless reimbursement. The Internal Revenue Service (IRS) set the 2027 federal ceiling for a health care FSA at $3,500, up $100 from the prior year, with a maximum carryover of $700, up $20 from 2026 (release IR-2026-133, Nov. 5, 2026). That is the federal ceiling. FSAFEDS had not posted its own 2027 amounts on OPM's FSA page as of Nov. 6, 2026, so confirm the FSAFEDS election limit when you enroll.
+OPM says FSAFEDS participation "does not automatically continue from year to year." Current participants who want to continue for Benefit Year 2027 must reenroll. A flexible spending account (FSA) is the account type FSAFEDS offers. New for 2027 is the FSAFEDS Visa FSA Card for health care FSA and limited expense health care FSA accounts, with a choice of a debit card or paperless reimbursement. The Internal Revenue Service (IRS) set the 2027 federal ceiling for a health care FSA at $3,500, up $100 from the prior year, with a maximum carryover of $700, up $20 from 2026 (release IR-2026-133, Nov. 5, 2026). That is the federal ceiling. FSAFEDS had not posted its own 2027 amounts on OPM's FSA page as of Nov. 14, 2026, so confirm the FSAFEDS election limit when you enroll.
 
 There is also a new documentation rule. OPM says "anyone that is adding a new family member to their FEHB or PSHB plan during Open Season for Plan Year 2027, must submit supporting documentation," a requirement from the FEHB Protection Act of 2025. Gather those papers before the deadline.
 

@@ -3,6 +3,7 @@ title: "Bank of Canada Rate Hike: 2.5% on Oct. 28, Next Decision Dec. 9"
 description: "The Bank of Canada raised its overnight rate to 2.5% on Oct. 28, 2026. Next decision is Dec. 9 at 9:45 a.m. ET; see all eight 2027 dates, starting Jan. 27."
 type: news
 publishedAt: "2026-10-28T09:55:00-04:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 dateline: "Ottawa"
@@ -42,6 +43,7 @@ sources:
   - title: "Key interest rate"
     url: "https://www.bankofcanada.ca/core-functions/monetary-policy/key-interest-rate/"
     publisher: "Bank of Canada"
+    date: "2026-11-14"
   - title: "Bank of Canada publishes its 2027 schedule for policy interest rate announcements and other major publications"
     url: "https://www.bankofcanada.ca/2026/07/bank-canada-publishes-2027-schedule-policy-interest-rate-announcements-other-major-publications/"
     publisher: "Bank of Canada"
@@ -138,13 +140,13 @@ This is the first change of 2026. The target was 2.25% from Dec. 10, 2025 throug
 | Jul. 15 | Wednesday | Held at 2.25% | Yes |
 | Sep. 2 | Wednesday | Held at 2.25% | No |
 | Oct. 28 | Wednesday | Raised to 2.5% | Yes |
-| Dec. 9 | Wednesday | Next scheduled date | Not stated |
+| Dec. 9 | Wednesday | Next scheduled date | No |
 
 Source: Bank of Canada, key interest rate page and press release of Oct. 28, 2026. Weekdays are our calculation.
 
 ## When is the next Bank of Canada rate announcement?
 
-The Bank's release gives the next scheduled date as Wednesday, Dec. 9, 2026, and the next Monetary Policy Report as Jan. 27, 2027. Its schedule release lists Dec. 9 at 9:45 a.m. ET. The [December 2026 printable calendar](/december-calendars.html) shows where the day falls.
+The Bank's release gives the next scheduled date as Wednesday, Dec. 9, 2026, and the next Monetary Policy Report as Jan. 27, 2027. Its schedule release lists Dec. 9 at 9:45 a.m. ET and says the Monetary Policy Report comes only with the January, April, July and October announcements, so December has none. The [December 2026 printable calendar](/december-calendars.html) shows where the day falls.
 
 ## What is the Bank of Canada 2027 schedule?
 

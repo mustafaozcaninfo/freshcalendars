@@ -3,7 +3,7 @@ title: "Supercross 2027 Schedule: Anaheim Jan. 9, All 17 Rounds to May 15"
 description: "Supercross 2027 schedule: Anaheim opens Sat., Jan. 9, with 17 rounds to Salt Lake City on May 15. Every round, 250 class and Triple Crown night in a table."
 type: news
 publishedAt: "2026-11-07T23:13:00-05:00"
-updatedAt: "2026-11-07T23:13:00-05:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["supercross 2027 schedule", "supercross schedule 2027", "anaheim supercross 2027", "smx 2027 schedule"]
@@ -18,7 +18,7 @@ assets:
     group: supercross-2027
     title: "Supercross 2027 Schedule: All 17 Rounds"
     subtitle: "Saturdays from Anaheim on Jan. 9 to Salt Lake City on May 15, then Pro Motocross and the SMX playoffs"
-    note: "Source: Monster Energy AMA Supercross schedule page and the SuperMotocross World Championship schedule page, read Nov. 7, 2026. Start times for most rounds, and the playoff and Final venues, are not yet posted."
+    note: "Source: Monster Energy AMA Supercross schedule page and the SuperMotocross World Championship schedule page, read Nov. 14, 2026. The playoff and Final venues are not yet posted."
     description: "One-page printable 2027 Supercross schedule with all 17 rounds, the cities and stadiums, plus the Pro Motocross and SuperMotocross playoff dates."
     alt: "Printable 2027 Supercross schedule listing all 17 rounds with date, city, stadium and 250 class, plus Pro Motocross and playoff dates"
     data:
@@ -52,9 +52,9 @@ assets:
         - { cells: { rd: "SMX", date: "Sat., Sept. 18", city: "Playoff 2", stadium: "Venue to be announced", cls: "SuperMotocross playoff" }, src: 2, quote: "Sep 18, 2027" }
         - { cells: { rd: "SMX", date: "Sat., Sept. 25", city: "World Championship Final", stadium: "Venue to be announced", cls: "SuperMotocross Final" }, src: 2, quote: "Sep 25, 2027" }
       note:
-        - "Every Supercross round lists the 450SX class. Times for most rounds are not yet posted."
+        - "Every Supercross round lists the 450SX class. The playoff and Final venues are not yet posted."
       unconfirmed:
-        - { label: "Start times for most rounds", why: "the SMX schedule page shows a time for six of the 17 rounds" }
+        - { label: "Which session the listed times are", why: "the SMX schedule page shows a time for each of the 17 rounds without naming a session" }
         - { label: "Playoff and Final venues", why: "listed as to be announced on the SMX schedule page" }
         - { label: "2027 TV and streaming", why: "not yet announced in the sources we read" }
 hero:
@@ -72,7 +72,7 @@ summary:
   - "The 2027 Supercross season has 17 rounds, all on Saturdays, from Angel Stadium in Anaheim on Jan. 9 to Rice-Eccles Stadium in Salt Lake City on May 15, per the official schedule."
   - "Anaheim hosts two nights, Rounds 1 and 3, and three rounds are Triple Crown nights: Anaheim on Jan. 23, Arlington on Feb. 27 and Foxborough on Apr. 3."
   - "Pro Motocross follows with 11 rounds from May 29 to Aug. 28, then the SuperMotocross World Championship Final on Sat., Sept. 25 at a venue still to be announced."
-  - "TV and streaming for 2027, start times for most rounds and the playoff venues are not yet announced."
+  - "The SMX schedule page lists a time for all 17 Supercross rounds, mostly 7 p.m. ET, but does not say which session it is. TV and streaming for 2027 and the playoff venues are not yet announced."
 faq:
   - q: "When does Supercross 2027 start?"
     a: "On Saturday, Jan. 9, 2027, at Angel Stadium in Anaheim, California, according to the official Supercross schedule. In 2026 the season began on Saturday, Jan. 10 at the same stadium."
@@ -83,18 +83,18 @@ faq:
   - q: "When is the SMX World Championship Final in 2027?"
     a: "Saturday, Sept. 25, 2027. The SuperMotocross site lists the venue as to be announced, along with Playoff 1 on Sept. 11 and Playoff 2 on Sept. 18."
   - q: "What time do Supercross races start in 2027?"
-    a: "Times for most rounds are not yet posted. The SMX schedule page shows a time for six rounds without saying which session it is."
+    a: "The SMX schedule page lists a time for each of the 17 rounds, such as 4:00 p.m. PT for Anaheim on Jan. 9 (7:00 p.m. ET), without saying which session it is. Baltimore on Apr. 10 is listed at 3:00 p.m. ET."
   - q: "How can you watch Supercross in 2027?"
     a: "The 2027 TV and streaming plan is not yet announced. In 2026, NBC Sports said the season opener aired on Peacock and NBC Sports Network (NBCSN)."
 sources:
   - title: "Tickets | Schedule | Monster Energy AMA Supercross"
     url: "https://www.supercrosslive.com/schedule"
     publisher: "Monster Energy AMA Supercross"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "Schedule | SuperMotocross World Championship"
     url: "https://www.supermotocross.com/schedule"
     publisher: "SuperMotocross World Championship"
-    date: "2026-11-07"
+    date: "2026-11-14"
   - title: "2027 SuperMotocross regular season schedule announced, San Antonio and Baltimore join Supercross"
     url: "https://www.nbcsports.com/motor-sports/news/2027-supermotocross-regular-season-schedule-announced-san-antonio-and-baltimore-join-supercross"
     publisher: "NBC Sports"
@@ -123,9 +123,9 @@ downloads:
     pages: 1
 ---
 
-**The 2027 Supercross season opens Saturday, Jan. 9, 2027, at Angel Stadium in Anaheim, California, and runs 17 rounds to Saturday, May 15, at Rice-Eccles Stadium in Salt Lake City, according to the official Monster Energy American Motorcyclist Association (AMA) Supercross schedule.** Pro Motocross follows, and the SuperMotocross (SMX) World Championship Final is set for Sept. 25. TV for 2027 and start times for most rounds are not yet announced.
+**The 2027 Supercross season opens Saturday, Jan. 9, 2027, at Angel Stadium in Anaheim, California, and runs 17 rounds to Saturday, May 15, at Rice-Eccles Stadium in Salt Lake City, according to the official Monster Energy American Motorcyclist Association (AMA) Supercross schedule.** Pro Motocross follows, and the SuperMotocross (SMX) World Championship Final is set for Sept. 25. The SMX schedule page lists a time for every Supercross round, and TV for 2027 is not yet announced.
 
-The table below adds the weekday, the 250 class and the marks for every round. The 450SX class is listed at every round. A one-page copy is in the downloads box with this story, and the [January 2027 printable calendar](/january-calendars.html) shows the opening weeks by day.
+The first table adds the weekday, the 250 class and the marks for every round. The 450SX class is listed at every round. A one-page copy is in the downloads box with this story, and the [January 2027 printable calendar](/january-calendars.html) shows the opening weeks by day.
 
 ## What is the full 2027 Supercross schedule?
 
@@ -170,15 +170,26 @@ The opener is Round 1 on Saturday, Jan. 9, 2027, at Angel Stadium in Anaheim, an
 
 ## What time do Supercross rounds start in 2027?
 
-Times for most rounds are not yet posted. The SuperMotocross site shows a time next to six rounds but does not say which session it is, so the column below is "the time SMX lists," not a race or gate-drop time. The Eastern Time (ET) equivalent is ours; the zones are Pacific Time (PT), Central Time (CT) and Mountain Time (MT).
+The SuperMotocross site now shows a time next to all 17 Supercross rounds but does not say which session it is, so the column below is "the time SMX lists," not a race or gate-drop time. Sixteen of the 17 convert to 7:00 p.m. ET; Baltimore is listed at 3:00 p.m. ET. The Eastern Time (ET) equivalent is ours; the zones are Pacific Time (PT), Central Time (CT) and Mountain Time (MT).
 
 | Round | City | Date | The time SMX lists | ET equivalent |
 |---|---|---|---|---|
 | 1 | Anaheim | Sat., Jan. 9 | 4:00 p.m. PT | 7:00 p.m. ET |
+| 2 | San Diego | Sat., Jan. 16 | 4:00 p.m. PT | 7:00 p.m. ET |
+| 3 | Anaheim | Sat., Jan. 23 | 4:00 p.m. PT | 7:00 p.m. ET |
 | 4 | San Antonio | Sat., Jan. 30 | 6:00 p.m. CT | 7:00 p.m. ET |
 | 5 | Tampa | Sat., Feb. 6 | 7:00 p.m. ET | 7:00 p.m. ET |
 | 6 | Glendale | Sat., Feb. 13 | 5:00 p.m. MT | 7:00 p.m. ET |
+| 7 | Detroit | Sat., Feb. 20 | 7:00 p.m. ET | 7:00 p.m. ET |
+| 8 | Arlington | Sat., Feb. 27 | 6:00 p.m. CT | 7:00 p.m. ET |
+| 9 | Daytona Beach | Sat., Mar. 6 | 7:00 p.m. ET | 7:00 p.m. ET |
+| 10 | Indianapolis | Sat., Mar. 13 | 7:00 p.m. ET | 7:00 p.m. ET |
+| 11 | Seattle | Sat., Mar. 20 | 4:00 p.m. PT | 7:00 p.m. ET |
+| 12 | Foxborough | Sat., Apr. 3 | 7:00 p.m. ET | 7:00 p.m. ET |
 | 13 | Baltimore | Sat., Apr. 10 | 3:00 p.m. ET | 3:00 p.m. ET |
+| 14 | East Rutherford | Sat., Apr. 17 | 7:00 p.m. ET | 7:00 p.m. ET |
+| 15 | Pittsburgh | Sat., Apr. 24 | 7:00 p.m. ET | 7:00 p.m. ET |
+| 16 | Denver | Sat., May 8 | 5:00 p.m. MT | 7:00 p.m. ET |
 | 17 | Salt Lake City | Sat., May 15 | 5:00 p.m. MT | 7:00 p.m. ET |
 
 For last season's reference, NBC Sports said the 2026 opener at Angel Stadium aired on Peacock and NBC Sports Network (NBCSN), calling it "the race at 7 p.m. ET on Peacock and NBCSN." That is 2026, not a 2027 plan.
@@ -205,4 +216,4 @@ The SMX World Championship ends with three Saturdays on the SuperMotocross site:
 
 ## What is not yet announced for Supercross 2027?
 
-The 2027 TV and streaming plan, the playoff and Final venues, start times for the other rounds and the general ticket on-sale are not yet announced in the sources we read. This story will be updated when they are.
+The 2027 TV and streaming plan, the playoff and Final venues, the session that each listed time refers to and the general ticket on-sale are not yet announced in the sources we read.

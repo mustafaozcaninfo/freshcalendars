@@ -107,8 +107,8 @@ assets:
       pick: "Going?"
       layout: table
       events:
+        - { start: "2026-11-12T19:00+00:00", tz: "Europe/London", title: "Newcastle lights switch-on", detail: "entertainment from 6pm at Grey's Monument; free", src: 8, quote: ["Christmas Lights Switch-On returns on Thursday 12 November", "the big moment at 7pm when Newcastle’s Christmas lights are switched on"] }
         - { date: "2026-11-12", time: tba, title: "Cardiff lights switch-on", detail: "reported by Nation.Cymru; time and venue not announced", src: 4, quote: "with Christmas lights due to come on on November 12" }
-        - { start: "2026-11-12T19:00+00:00", tz: "Europe/London", title: "Newcastle lights switch-on", detail: "entertainment from 6pm at Grey's Monument; free", src: 8, quote: "the big moment at 7pm when Newcastle’s Christmas lights are switched on" }
         - { start: "2026-11-14T12:00+00:00", tz: "Europe/London", title: "Belfast Christmas Market opens", detail: "at the City Hall", src: 1, quote: "the Christmas Market will open at 12 noon on the same day, Saturday 14 November" }
         - { date: "2026-11-14", time: tba, title: "Belfast City Hall switch-on", detail: "6.30pm UK time (1:30 p.m. ET); tickets all allocated", src: 1, quote: "Saturday 14 November 2026, 6.30pm to 7.30pm" }
         - { date: "2026-11-19", time: tba, title: "Newcastle Christmas Markets open", detail: "to Wed. 23 Dec.", src: 6, quote: "officially open on Thursday 19th November and will be in place until Wednesday 23rd December" }

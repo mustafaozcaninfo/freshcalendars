@@ -1,8 +1,9 @@
 ---
 title: "Radio City Christmas Spectacular 2026: Nov. 4 Opening, 230 Shows"
-description: "The Radio City Christmas Spectacular 2026 opened Nov. 4 and runs through Jan. 4, 2027, with 230 shows. Opening-week times in ET, run time, arrival rules."
+description: "The Radio City Christmas Spectacular 2026 opened Nov. 4 and runs through Jan. 4, 2027, with 230 shows. This weekend's times in ET, run time, arrival rules."
 type: news
 publishedAt: "2026-11-01T16:43:00-05:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Radio City Christmas Spectacular 2026", "Rockettes 2026 dates", "Christmas Spectacular show times", "how long is the Rockettes show"]
@@ -49,9 +50,11 @@ sources:
   - title: "Radio City Music Hall"
     url: "https://www.msg.com/radio-city-music-hall"
     publisher: "Madison Square Garden"
+    date: "2026-11-14"
   - title: "Christmas Spectacular: Times & Prices"
     url: "https://www.rockettes.com/christmas/calendar/"
     publisher: "Rockettes"
+    date: "2026-11-14"
   - title: "Christmas Spectacular questions page"
     url: "https://www.rockettes.com/christmas/faq/"
     publisher: "Rockettes"
@@ -94,7 +97,7 @@ downloads:
 draft: false
 assets:
   overlay: true
-  kicker: "Radio City Christmas Spectacular · Opens Wed., Nov. 4, 2026"
+  kicker: "Radio City Christmas Spectacular · Through Jan. 4, 2027"
   date: "2026-11-04"
   card: { top: "230 performances from", big: "Nov. 4", bottom: "Radio City Music Hall, through Jan. 4, 2027" }
   printable:
@@ -102,6 +105,7 @@ assets:
     group: radio-city-christmas-spectacular-2026
     title: "Radio City Christmas Spectacular 2026 Visit Day Planner"
     subtitle: "Plan a 7 p.m. show, Eastern Time"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     layout: timeline
     rows:
       - ["Before the day", "Buy tickets: all sales final, 14-ticket season limit, digital tickets only"]
@@ -118,7 +122,7 @@ assets:
 
 **The Radio City Christmas Spectacular opens Wednesday, Nov. 4, 2026 at Radio City Music Hall and runs through Monday, Jan. 4, 2027, with 230 performances**, according to Madison Square Garden (MSG) Entertainment. Counting both the first and last day, that is 62 days, by our calculation. All times here are Eastern Time (ET).
 
-This story gives the opening-week show times, the run time, the arrival rules, and a one-page planner you can print.
+This story gives this weekend's show times, the run time, the arrival rules, and a one-page planner you can print.
 
 ## When does the Radio City Christmas Spectacular 2026 run?
 
@@ -136,16 +140,16 @@ MSG Entertainment says 230 is "the most ever at the Music Hall since the show's 
 
 In 2025, MSG Entertainment's July 24 release put the season at Nov. 6, 2025 through Jan. 4, 2026, and a Nov. 4, 2025 release extended it through Jan. 5, 2026 "due to overwhelming demand." The 2026 run opens two days earlier in the calendar than 2025's did.
 
-## What are the Christmas Spectacular show times in opening week?
+## What are the Christmas Spectacular show times this weekend?
 
-MSG's Radio City page lists these times, and says it may not show every date. We could not confirm times for later Saturdays or for the rest of the season.
+The show opened Nov. 4 and is now playing. MSG's Radio City page lists these times for the coming days, and its listing runs only a few days ahead. We could not confirm times for the rest of the season.
 
 | Date | Show times (ET) |
 |---|---|
-| Wed., Nov. 4 | 3 p.m. and 7 p.m. |
-| Thu., Nov. 5 | 3 p.m. and 7 p.m. |
-| Fri., Nov. 6 | 3 p.m. and 7 p.m. |
-| Sat., Nov. 7 | 11 a.m. (later Saturday times not confirmed) |
+| Sat., Nov. 14 | 5 p.m. and 8 p.m. (earlier shows that day not listed) |
+| Sun., Nov. 15 | 11 a.m., 2 p.m., 5 p.m. and 8 p.m. |
+
+Opening week ran Wed., Nov. 4 to Fri., Nov. 6 with shows at 3 p.m. and 7 p.m., and Sat., Nov. 7 began with an 11 a.m. show.
 
 For the full calendar, check [rockettes.com](https://www.rockettes.com/christmas/calendar/) before you buy.
 
@@ -160,8 +164,11 @@ The Rockettes' pages give two pieces of advice. The Plan Your Visit page says "A
 | Showtime | Doors open (1 hour before) | Latest arrival per questions page | Show ends (90 minutes) |
 |---|---|---|---|
 | 11 a.m. | 10 a.m. | 10:30 a.m. | About 12:30 p.m. |
+| 2 p.m. | 1 p.m. | 1:30 p.m. | About 3:30 p.m. |
 | 3 p.m. | 2 p.m. | 2:30 p.m. | About 4:30 p.m. |
+| 5 p.m. | 4 p.m. | 4:30 p.m. | About 6:30 p.m. |
 | 7 p.m. | 6 p.m. | 6:30 p.m. | About 8:30 p.m. |
+| 8 p.m. | 7 p.m. | 7:30 p.m. | About 9:30 p.m. |
 
 The doors, latest-arrival and end times in the table are our calculation from the rockettes.com figures.
 

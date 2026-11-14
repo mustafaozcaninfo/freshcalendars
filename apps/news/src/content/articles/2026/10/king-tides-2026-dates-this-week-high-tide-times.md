@@ -75,6 +75,7 @@ assets:
   date: "2026-11-24"
   card: { top: "California king tides", big: "Nov. 24-26", bottom: "Then Dec. 23-25 and Jan. 21-22" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: king-tides-2026-27-california-dates-high-tide-times
     group: king-tides-2026
     title: "King Tides 2026-27: California Dates and High Tide Times"

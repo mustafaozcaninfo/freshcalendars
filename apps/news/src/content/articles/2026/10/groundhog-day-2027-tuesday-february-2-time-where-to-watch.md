@@ -3,6 +3,7 @@ title: "Groundhog Day 2027 Is Tuesday, Feb. 2: Phil's Record"
 description: "Groundhog Day 2027 is Tue., Feb. 2. The National Oceanic and Atmospheric Administration (NOAA) says Phil was right 30% of the time in 10 years."
 type: explainer
 publishedAt: "2026-10-31T01:00:00-04:00"
+updatedAt: "2026-11-14T15:45:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["groundhog day 2027", "what time is groundhog day 2027", "punxsutawney phil accuracy", "groundhog day six more weeks"]
@@ -41,6 +42,11 @@ sources:
   - title: "Groundhog Day schedule information"
     url: "https://groundhog.org/groundhog-day/groundhog-day-events/schedule-info/"
     publisher: "Punxsutawney Groundhog Club"
+    date: "2026-11-14"
+  - title: "Groundhog Day Events"
+    url: "https://groundhog.org/groundhog-day/groundhog-day-events/"
+    publisher: "Punxsutawney Groundhog Club"
+    date: "2026-11-14"
   - title: "Groundhog Day puts Punxsutawney Phil's forecast about winter's length in the spotlight"
     url: "https://www.wsls.com/news/national/2026/02/02/groundhog-day-puts-punxsutawney-phils-forecast-about-winters-length-in-the-spotlight/"
     publisher: "The Associated Press, via WSLS"
@@ -95,7 +101,7 @@ downloads:
     pages: 1
 ---
 
-**Groundhog Day 2027 falls on Tuesday, Feb. 2, and the Punxsutawney Groundhog Club, which runs the event at Gobbler's Knob, has not yet posted its 2027 schedule or the time of Phil's prediction.** The club's [schedule page](https://groundhog.org/groundhog-day/groundhog-day-events/schedule-info/) links to its events listing, so that is where the official time will appear. This story gives the date, last year's call, Phil's record from the National Oceanic and Atmospheric Administration (NOAA) and a count of what "six more weeks" means on the calendar.
+**Groundhog Day 2027 falls on Tuesday, Feb. 2, and the Punxsutawney Groundhog Club, which runs the event at Gobbler's Knob, has not yet posted its 2027 schedule or the time of Phil's prediction.** The club's [schedule page](https://groundhog.org/groundhog-day/groundhog-day-events/schedule-info/) links to its events listing, so that is where the official time will appear. The club's events page says tickets for its Groundhog Day 2027 events go on sale in December 2026 in its online store. This story gives the date, last year's call, Phil's record from the National Oceanic and Atmospheric Administration (NOAA) and a count of what "six more weeks" means on the calendar.
 
 ## What day and time is Groundhog Day 2027?
 

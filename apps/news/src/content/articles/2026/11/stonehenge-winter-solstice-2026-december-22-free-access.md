@@ -3,7 +3,7 @@ title: "Stonehenge Winter Solstice 2026: Free Access on 22 December"
 description: "English Heritage gives free access to Stonehenge on Tuesday 22 December 2026, with sunrise at 8:09am. Parking prices, a timeline and US Eastern times."
 type: explainer
 publishedAt: "2026-11-04T11:56:00-05:00"
-updatedAt: "2026-11-04T11:56:00-05:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["stonehenge winter solstice 2026", "stonehenge solstice 2026 parking", "stonehenge winter solstice sunrise time"]
@@ -32,7 +32,7 @@ assets:
         - { start: "2026-12-22T11:00+00:00", title: "Car park must be vacated", src: 1, quote: "Visitors must vacate the car park by 11:00am on Tuesday 22nd December." }
       fill: { title: "Stonehenge morning plan", labels: ["Travel", "Parking booked"] }
       unconfirmed:
-        - { label: "Stone circle opening and closing times", why: "Not on English Heritage's page as of Nov. 4, 2026" }
+        - { label: "Stone circle opening and closing times", why: "Not on English Heritage's page as of Nov. 14, 2026" }
 hero:
   src: ../../../../assets/news/stonehenge-winter-solstice-2026-december-22-free-access/stonehenge-winter-solstice-2026-december-22-free-access.webp
   alt: "Stonehenge stones in silhouette at dawn with a crowd, a file photo for the Stonehenge winter solstice 2026"
@@ -57,7 +57,7 @@ sources:
   - title: "Winter Solstice 2026"
     url: "https://www.english-heritage.org.uk/visit/places/stonehenge/things-to-do/solstice/winter-solstice-2026/"
     publisher: "English Heritage"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Earth's Seasons - Equinoxes, Solstices, Perihelion, and Aphelion"
     url: "https://aa.usno.navy.mil/calculated/seasons?year=2026&tz=0&tz_sign=-1&tz_label=false&dst=false"
     publisher: "US Naval Observatory (USNO)"
@@ -127,7 +127,7 @@ English Heritage's page does not explain the date. Our reading of the US Naval O
 
 ## How can you watch the Stonehenge sunrise from the US?
 
-English Heritage says it will live stream the winter solstice sunrise for free on its digital channels. Sunrise at 8:09am GMT is 3:09 a.m. ET, so the sunrise falls in the early hours on the US East Coast. The page does not say when the stream starts.
+English Heritage says it will live stream the winter solstice sunrise for free on its digital channels. Sunrise at 8:09am GMT is 3:09 a.m. ET, so the sunrise falls in the early hours on the US East Coast. The page names the official Stonehenge and English Heritage Facebook pages and the English Heritage YouTube channel as the places to watch, and warns about fake Facebook pages and events. It does not say when the stream starts.
 
 ## What are the rules at Stonehenge during the solstice?
 

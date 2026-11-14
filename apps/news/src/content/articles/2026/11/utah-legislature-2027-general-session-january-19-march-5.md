@@ -3,6 +3,7 @@ title: "Utah Legislature 2027 Session Dates: Jan. 19 to March 5"
 description: "Utah's 2027 General Session runs Jan. 19 to March 5, with bill requests closing Jan. 29. Every deadline by session day, plus a printable tracker."
 type: explainer
 publishedAt: "2026-11-11T12:55:00-05:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["utah legislature 2027 session dates", "utah legislative session 2027", "utah legislature 2027", "utah general session 2027 bill request deadline"]
@@ -29,11 +30,11 @@ sources:
   - title: "Significant Session Dates"
     url: "https://le.utah.gov/sessionSchedule/sessdates.jsp"
     publisher: "Utah Office of Legislative Research and General Counsel"
-    date: "2026-11-11"
+    date: "2026-11-14"
   - title: "2027 General Session of the 67th Legislature"
     url: "https://le.utah.gov/~2027/2027.HTM"
     publisher: "Utah State Legislature"
-    date: "2026-11-11"
+    date: "2026-11-14"
   - title: "2026 General Session of the 66th Legislature"
     url: "https://le.utah.gov/~2026/2026.HTM"
     publisher: "Utah State Legislature"
@@ -60,7 +61,7 @@ assets:
     group: utah-legislature-2027
     title: "Utah Legislature 2027 Session Tracker: Key Dates by Session Day"
     subtitle: "Priority bill requests, the Jan. 29 request deadline, March cutoffs and the governor's deadline, 67th Legislature"
-    note: "Source: Utah Office of Legislative Research and General Counsel, Significant Session Dates (read Nov. 11, 2026; some dates may be estimates); Utah State Legislature, 2027 General Session page; Utah Constitution Article VI, Section 16."
+    note: "Source: Utah Office of Legislative Research and General Counsel, Significant Session Dates (read Nov. 14, 2026; some dates may be estimates); Utah State Legislature, 2027 General Session page; Utah Constitution Article VI, Section 16."
     description: "A tracker of Utah's 2027 General Session: the Jan. 19 opening, Jan. 29 bill request deadline, March 2 chamber cutoff, March 5 close and March 25 governor deadline."
     alt: "Printable tracker of 2027 Utah Legislature dates from the Dec. 3 priority request deadline to the March 25 governor deadline"
     data:
@@ -106,7 +107,7 @@ Session day 1 is the "1st Tuesday after the 3rd Monday in January" under Utah Co
 
 | Date | Weekday | Session day | Milestone (schedule wording) | Rule |
 |---|---|---|---|---|
-| Nov. 16, 2026 (passed) | Monday | -67 | Last day to designate the first priority bill request (House and Senate) and the second (Senate) | JR4-2-102(3)(a) |
+| Nov. 16, 2026 | Monday | -67 | Last day to designate the first priority bill request (House and Senate) and the second (Senate) | JR4-2-102(3)(a) |
 | Dec. 3, 2026 | Thursday | -47 | Last day to designate priority bill request number two (House) or number three (Senate) | JR4-2-102(3) |
 | Jan. 7, 2027 | Thursday | -19 | Last day to designate priority bill request number three (House) or number four (Senate) | JR4-2-102(3)(a) |
 | Jan. 19 | Tuesday | 1 | First day of the annual General Session | 36-3-201 |
@@ -124,7 +125,7 @@ Session day 1 is the "1st Tuesday after the 3rd Monday in January" under Utah Co
 | May 4 | Tuesday | 105 | Last day a veto-override session may begin (within 60 days after adjournment) | A7 S8 |
 | May 5 | Wednesday | 106 | Normal effective date for bills; first day to open a bill file for the next General Session | A6 S25, JR4-2-101 |
 
-The schedule also lists Dec. 16, 2026 for the Executive Appropriations Committee's revenue estimates, Jan. 10 for conflict of interest disclosures and the March 1 date when appropriations bills must be available to legislators. The Nov. 16 deadline has already passed; it moves to the next regular business day when Nov. 15 falls on a weekend or holiday.
+The schedule also lists Dec. 16, 2026 for the Executive Appropriations Committee's revenue estimates, Jan. 10 for conflict of interest disclosures and the March 1 date when appropriations bills must be available to legislators. The Nov. 16 deadline is the next one on the schedule: Nov. 15 is a Sunday, so the date moves to the next regular business day. Interim committee meetings end Wednesday, Nov. 18, the same day a legislator-elect may first file legislation after the election.
 
 ## When is the Utah bill request deadline in 2027?
 

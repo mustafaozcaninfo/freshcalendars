@@ -3,6 +3,7 @@ title: "W-2 and 1099 Deadline 2027: Due Feb. 1, With Dates by Form"
 description: "W-2 and 1099-NEC forms for tax year 2026 are due Monday, Feb. 1, 2027, as Jan. 31 is a Sunday. Dates by form, the Nov. 19 e-file cutoff and penalties."
 type: news
 publishedAt: "2026-11-02T06:10:00-05:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["w2 deadline 2027", "1099 deadline 2027", "when are w2s due 2027", "1099-nec due date 2027"]
@@ -47,7 +48,7 @@ sources:
   - title: "Filing Information Returns Electronically (FIRE)"
     url: "https://www.irs.gov/fire"
     publisher: "Internal Revenue Service"
-    date: "2026-10-30"
+    date: "2026-11-13"
   - title: "Information return penalties"
     url: "https://www.irs.gov/payments/information-return-penalties"
     publisher: "Internal Revenue Service"
@@ -85,8 +86,8 @@ assets:
       - ["Tue., Feb. 16", "Recipient copies of 1099-B and 1099-S; 1099-MISC with box 8 or 10"]
       - ["Mon., March 1", "Paper 1099-MISC, R, K, G, W-2G and the interest and dividend forms to the IRS"]
       - ["Wed., March 31", "Electronic 1099-MISC, R, K, G, W-2G and the interest and dividend forms to the IRS"]
-    note: "Source: Internal Revenue Service, Forms W-2 and W-3 instructions (2026), Publication 1099 (2026) and the IRS e-file page (updated Oct. 30, 2026). Jan. 31, Feb. 15 and Feb. 28 fall on a weekend or holiday in 2027."
-    inkSaver: true
+    note: "Source: Internal Revenue Service, Forms W-2 and W-3 instructions (2026), Publication 1099 (2026) and the IRS FIRE page (updated Nov. 13, 2026). Jan. 31, Feb. 15 and Feb. 28 fall on a weekend or holiday in 2027."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "A one-page checklist of the 2027 W-2 and 1099 due dates for tax year 2026, from the Nov. 19 cutoff to the March 31 e-file date."
     alt: "Printable checklist of W-2 and 1099 deadlines in 2027, from Nov. 19, 2026 to March 31, 2027"
 downloads:
@@ -97,14 +98,6 @@ downloads:
     alt: "Printable checklist of W-2 and 1099 deadlines in 2027, from Nov. 19, 2026 to March 31, 2027"
     pdf: "/news/downloads/w2-1099-deadline-2027/w2-1099-deadlines-2027-checklist.pdf"
     png: "/news/downloads/w2-1099-deadline-2027/w2-1099-deadlines-2027-checklist.png"
-    pages: 1
-  - group: "W-2 and 1099 Deadlines 2027 Checklist printables"
-    title: "W-2 and 1099 Deadlines 2027 Checklist (ink saver)"
-    description: "A one-page checklist of the 2027 W-2 and 1099 due dates for tax year 2026, from the Nov. 19 cutoff to the March 31 e-file date. Ink-saver version."
-    preview: ../../../../assets/news/w2-1099-deadline-2027/w2-1099-deadlines-2027-checklist-ink.png
-    alt: "Printable checklist of W-2 and 1099 deadlines in 2027, from Nov. 19, 2026 to March 31, 2027, ink-saver version"
-    pdf: "/news/downloads/w2-1099-deadline-2027/w2-1099-deadlines-2027-checklist-ink.pdf"
-    png: "/news/downloads/w2-1099-deadline-2027/w2-1099-deadlines-2027-checklist-ink.png"
     pages: 1
 draft: false
 ---
@@ -135,7 +128,7 @@ Print the dates on the one-page checklist below, or mark them on the [January](/
 
 ## What happens to the IRS e-file system after Nov. 19, 2026
 
-The IRS page on Filing Information Returns Electronically (FIRE), updated Oct. 30, 2026, says Nov. 19, 2026, at 3 p.m. Eastern Time (ET) is the last time to file information returns through FIRE. After Jan. 1, 2027, the Information Returns Intake System (IRIS) is the only electronic system. FIRE users "must transition to IRIS to file tax year 2026 information returns during the 2027 filing season," the IRS says.
+The IRS page on Filing Information Returns Electronically (FIRE), updated Nov. 13, 2026, says Nov. 19, 2026, at 3 p.m. Eastern Time (ET) is the last time to file information returns through FIRE. After Jan. 1, 2027, the Information Returns Intake System (IRIS) is the only electronic system. FIRE users "must transition to IRIS to file tax year 2026 information returns during the 2027 filing season," the IRS says.
 
 Publication 1099 repeats the change: beginning with tax year 2026 and the 2027 filing season, IRIS is the only intake system, and FIRE will not be available for submissions, whether current-year, prior-year or corrections.
 

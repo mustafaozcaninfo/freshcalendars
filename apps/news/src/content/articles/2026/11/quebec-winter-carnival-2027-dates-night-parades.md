@@ -21,7 +21,7 @@ hero:
 summary:
   - "The Carnaval de Québec runs from Friday, Feb. 5 to Sunday, Feb. 14, 2027, according to its official site, carnaval.qc.ca."
   - "The Effigie, the official pass, costs $29 plus taxes in presale until Jan. 17, 2027, and $39 plus taxes from Jan. 18 to Feb. 14."
-  - "Night parade dates and times, the music lineup, site hours and the ice canoe race date are not yet announced."
+  - "Night parade dates and times, site hours and the ice canoe race date are not yet announced. The music page lists 3 sites, 9 evenings and 27 shows from Feb. 5, all open with the Effigie."
   - "Winterlude in Ottawa-Gatineau runs Jan. 29 to Feb. 15, 2027, so both festivals overlap from Feb. 5 to 14."
 faq:
   - q: "When is the Quebec Winter Carnival in 2027?"
@@ -29,28 +29,32 @@ faq:
   - q: "How much is the Effigie in 2027?"
     a: "The Carnaval's ticketing page lists $29 plus taxes in presale until Jan. 17, 2027, and $39 plus taxes from Jan. 18 to Feb. 14, 2027. Online purchases carry extra fees, and the amount is not stated."
   - q: "When are the 2027 night parades?"
-    a: "The dates and times were not yet announced on carnaval.qc.ca on Nov. 4, 2026."
+    a: "The dates and times were not yet announced on carnaval.qc.ca on Nov. 14, 2026."
   - q: "Where can you buy the Effigie?"
-    a: "Online at lepointdevente.com, at participating Brunet stores starting Nov. 12, at the reception desk at 205 Boulevard des Cèdres from Jan. 4 to Feb. 14, 2027, and on the Carnaval sites from Feb. 5 to 14, 2027."
+    a: "Online at lepointdevente.com, at participating Brunet stores since Nov. 12, at the reception desk at 205 Boulevard des Cèdres from Jan. 4 to Feb. 14, 2027, and on the Carnaval sites from Feb. 5 to 14, 2027."
   - q: "Do the Quebec Winter Carnival and Winterlude overlap?"
     a: "Yes. Winterlude runs Jan. 29 to Feb. 15, 2027, according to Canadian Heritage, so every Carnaval day falls inside it."
 sources:
   - title: "Carnaval de Québec (French homepage)"
     url: "https://www.carnaval.qc.ca/"
     publisher: "Carnaval de Québec"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Carnaval de Québec (English homepage)"
     url: "https://www.carnaval.qc.ca/en/"
     publisher: "Carnaval de Québec"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "L'Effigie 2027"
     url: "https://www.carnaval.qc.ca/billetterie/effigie/"
     publisher: "Carnaval de Québec"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Winterlude"
     url: "https://www.canada.ca/en/canadian-heritage/campaigns/winterlude.html"
     publisher: "Canadian Heritage"
     date: "2026-11-04"
+  - title: "Programmation musicale 2027"
+    url: "https://carnaval.qc.ca/programmation/programmation-musicale-2027/"
+    publisher: "Carnaval de Québec"
+    date: "2026-11-14"
 internalLinks:
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
@@ -58,6 +62,7 @@ internalLinks:
     label: "printable yearly calendar"
 related: [winterlude-2027-dates-ottawa-gatineau, canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa, family-day-2027-canada-february-15-provinces-whats-closed]
 draft: false
+updatedAt: "2026-11-14T15:42:00-05:00"
 downloads:
   - group: "Quebec Winter Carnival 2027 Planner printables"
     title: "Quebec Winter Carnival 2027 Planner, Feb. 5 to 14"
@@ -86,7 +91,7 @@ assets:
     group: quebec-winter-carnival-2027
     title: "Quebec Winter Carnival 2027 Planner, Feb. 5 to 14"
     subtitle: "Effigie dates, where to buy and what is not yet announced"
-    note: "Source: Carnaval de Québec (carnaval.qc.ca), homepages and Effigie page, read Nov. 4, 2026."
+    note: "Source: Carnaval de Québec (carnaval.qc.ca), homepages and Effigie page, read Nov. 14, 2026."
     description: "A one-page planner for the 2027 Carnaval de Québec: opening date, Effigie price dates, points of sale and what is not yet announced."
     alt: "Printable Quebec Winter Carnival 2027 planner with the Feb. 5 opening, Effigie price dates and items not yet announced."
     data:
@@ -104,9 +109,9 @@ assets:
         - { daysBefore: 14, task: "Recheck carnaval.qc.ca for parade dates and site hours" }
         - { daysBefore: 7, task: "Plan travel and a bed for Feb. 5 to 7 or Feb. 12 to 14" }
       unconfirmed:
-        - { label: "Night parade dates and times", why: "Not yet announced on carnaval.qc.ca on Nov. 4, 2026" }
-        - { label: "Music lineup and site hours", why: "Not yet announced on carnaval.qc.ca on Nov. 4, 2026" }
-        - { label: "Ice canoe race date", why: "2027 date not posted on Nov. 4, 2026" }
+        - { label: "Night parade dates and times", why: "Not yet announced on carnaval.qc.ca on Nov. 14, 2026" }
+        - { label: "Artist lineup and site hours", why: "Not yet announced on carnaval.qc.ca on Nov. 14, 2026" }
+        - { label: "Ice canoe race date", why: "2027 date not posted on Nov. 14, 2026" }
 ---
 
 **The Carnaval de Québec runs from Friday, Feb. 5 to Sunday, Feb. 14, 2027**, according to the festival's official site, carnaval.qc.ca. Its official pass, the Effigie, costs $29 plus taxes in presale until Jan. 17, 2027, and $39 plus taxes from Jan. 18. The night parade dates and times are not yet announced; the day-by-day calendar, the Effigie price timeline, the Winterlude overlap and a printable planner are below.
@@ -125,7 +130,7 @@ The French homepage reads "Du 5 au 14 février 2027" and the English page reads 
 | Feb. 13 | Saturday | Second weekend |
 | Feb. 14, 2027 | Sunday | Last day of the Carnaval and of regular Effigie sales |
 
-The home page says that from Feb. 5, "les sites du Carnaval s'animent au rythme de la musique". The music lineup is not announced. A very important person (VIP) area at the Scène Loto-Québec is offered, and the ice canoe race (Course en canot) is presented by the Gouvernement du Québec; its 2027 date is not posted.
+The home page says that from Feb. 5, "les sites du Carnaval s'animent au rythme de la musique". The music page says "Dès le 5 février 2027" a music program starts, with "3 sites. 9 soirées. 27 spectacles" all open with the Effigie. It names the three stages: Scène Loto-Québec (Place de l'Assemblée-Nationale), Scène Érable du Québec (Place George-V) and Électro glace TD (Parc de la Francophonie). The only act it names is The Planet Smashers. A very important person (VIP) area at the Scène Loto-Québec is offered, and the ice canoe race (Course en canot) is presented by the Gouvernement du Québec; its 2027 date is not posted.
 
 ## How much is the Effigie pass in 2027?
 
@@ -143,13 +148,13 @@ Online purchases carry extra fees; the page does not state the amount.
 The ticketing page lists four points of sale:
 
 - Online, at lepointdevente.com.
-- Participating Brunet stores, starting Nov. 12, 2026.
+- Participating Brunet stores, since Nov. 12, 2026.
 - The reception desk at 205 Boulevard des Cèdres, from Jan. 4 to Feb. 14, 2027.
 - On the Carnaval sites, from Feb. 5 to 14, 2027.
 
 ## When are the Quebec Winter Carnival night parades?
 
-Not yet announced. The Défilé de nuit dates and times for 2027 were not on carnaval.qc.ca on Nov. 4, 2026, and we do not give a 2026 schedule because we found no official one. Tourism listings with parade times are not the festival's own announcement, so check carnaval.qc.ca before booking a night.
+Not yet announced. The Défilé de nuit dates and times for 2027 were not on carnaval.qc.ca on Nov. 14, 2026, and we do not give a 2026 schedule because we found no official one. Tourism listings with parade times are not the festival's own announcement, so check carnaval.qc.ca before booking a night.
 
 ## Can you see the Carnaval and Winterlude on one trip?
 
@@ -162,10 +167,10 @@ Canadian Heritage says that from Jan. 29 to Feb. 15, 2027, Winterlude takes plac
 
 ## What is still not announced for the Carnaval?
 
-Recheck carnaval.qc.ca for these items, none of which was posted on Nov. 4, 2026:
+Recheck carnaval.qc.ca for these items, none of which was posted on Nov. 14, 2026:
 
 - Night parade dates and times.
-- The music lineup.
+- The artist lineup, beyond The Planet Smashers.
 - Site opening hours.
 - The snow bath date.
 - Ice Palace details.

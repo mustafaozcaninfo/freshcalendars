@@ -3,7 +3,7 @@ title: "NHL Winter Classic 2027: Dec. 31 at 4 p.m. MT, Time by Zone and TV"
 description: "The 2027 Winter Classic is Thursday, Dec. 31, 2026, at 4 p.m. Mountain Time: Avalanche at Mammoth in Salt Lake City. Start time by U.S. zone and TV."
 type: news
 publishedAt: "2026-10-26T14:40:00-04:00"
-updatedAt: "2026-11-03T12:29:00-05:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL Winter Classic 2027", "Winter Classic 2027 time", "Winter Classic 2026 date", "Avalanche Mammoth Winter Classic", "NHL Stadium Series 2027"]
@@ -44,6 +44,7 @@ sources:
   - title: "2027 DISCOVER NHL WINTER CLASSIC FAQs"
     url: "https://www.nhl.com/events/nhl-winter-classic/2026-27/faq"
     publisher: "National Hockey League"
+    date: "2026-11-14"
   - title: "NHL releases 2026-27 regular-season schedule"
     url: "https://www.nhl.com/news/nhl-releases-2026-27-regular-season-schedule"
     publisher: "National Hockey League"
@@ -76,9 +77,10 @@ assets:
     subtitle: "Winter Classic, Stadium Series, All-Star and season-end dates"
     columns: ["Date", "Event and details"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Sun., Oct. 25, 2026", "Heritage Classic, Jets vs Canadiens (past)"]
-      - ["Thu., Nov. 12, 2026", "Global Series Finland, Helsinki"]
+      - ["Thu., Nov. 12, 2026", "Global Series Finland, Helsinki (past)"]
       - ["Sat., Nov. 14, 2026", "Global Series Finland, Helsinki"]
       - ["Fri., Dec. 18, 2026", "Global Series Germany, Düsseldorf"]
       - ["Sun., Dec. 20, 2026", "Global Series Germany, Düsseldorf"]
@@ -133,13 +135,13 @@ At Rice-Eccles Stadium, on the University of Utah campus in Salt Lake City, acco
 
 ## What are the other NHL special events in 2026-27?
 
-The NHL's July 16, 2026 schedule release lists the Winter Classic alongside the Stadium Series, the All-Star weekend and the Global Series games in Europe. The Dallas Stars page lists the Stadium Series start and network. Where a source does not give a time or network, the table says so.
+The NHL's July 16, 2026 schedule release names the Hurricanes and Seattle Kraken for Helsinki and the Chicago Blackhawks and Ottawa Senators for Düsseldorf, and lists the Winter Classic alongside the Stadium Series, the All-Star weekend and the Global Series games in Europe. The Dallas Stars page lists the Stadium Series start and network. Where a source does not give a time or network, the table says so.
 
 | Date | Event | Teams | Place | Start | TV |
 |---|---|---|---|---|---|
 | Sun., Oct. 25, 2026 (past) | Heritage Classic | Jets vs Canadiens | Not in the sources we used | Not in the sources we used | Not in the sources we used |
-| Thu., Nov. 12 and Sat., Nov. 14, 2026 | Global Series Finland | Not in the sources we used | Helsinki | Not in the sources we used | Not in the sources we used |
-| Fri., Dec. 18 and Sun., Dec. 20, 2026 | Global Series Germany | Not in the sources we used | Düsseldorf | Not in the sources we used | Not in the sources we used |
+| Thu., Nov. 12 (played) and Sat., Nov. 14, 2026 | Global Series Finland | Hurricanes vs Kraken | Helsinki | Not in the sources we used | Not in the sources we used |
+| Fri., Dec. 18 and Sun., Dec. 20, 2026 | Global Series Germany | Blackhawks vs Senators | Düsseldorf | Not in the sources we used | Not in the sources we used |
 | Thu., Dec. 31, 2026 | Discover NHL Winter Classic | Avalanche at Mammoth | Rice-Eccles Stadium, Salt Lake City | 4 p.m. MT (6 p.m. ET, our conversion) | TNT (U.S.), Sportsnet (Canada) |
 | Fri., Feb. 5, 2027 | All-Star skills | Not applicable | Not in the sources we used | Not in the sources we used | Not in the sources we used |
 | Sat., Feb. 6, 2027 | All-Star Game | Not applicable | Not in the sources we used | Not in the sources we used | Not in the sources we used |

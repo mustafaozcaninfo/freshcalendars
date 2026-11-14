@@ -3,6 +3,7 @@ title: "Burns Night 2027: Monday, 25 January, With Supper Running Order"
 description: "Burns Night 2027 is Monday, 25 January, the birthday of Robert Burns, says VisitScotland. See the six-step Burns Supper order and print a running order."
 type: explainer
 publishedAt: "2026-10-31T01:00:00-04:00"
+updatedAt: "2026-11-14T15:41:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["burns night 2027", "burns supper order of events", "what is burns night", "burns night date", "burns supper running order"]
@@ -20,7 +21,7 @@ hero:
 summary:
   - "Burns Night is on 25 January, the birthday of Robert Burns, and in 2027 that is a Monday, according to VisitScotland."
   - "VisitScotland lists six steps for a Burns Supper, from welcoming guests to singing Auld Lang Syne."
-  - "Two 2027 events on VisitScotland's list fall just before the night: Burns Big Birthday Bash on 23 January and Burns an' a' that on 24 January."
+  - "VisitScotland lists four Burns events: Glenapp Castle on 22 to 23 January, Burns Big Birthday Bash on 23 January, Burns an' a' that on 24 January and a January night at the Globe Inn in Dumfries."
   - "The page includes a weekday table for 25 January from 2027 to 2031 and a printable running order."
 faq:
   - q: "When is Burns Night 2027?"
@@ -37,7 +38,7 @@ sources:
   - title: "Burns Night"
     url: "https://www.visitscotland.com/things-to-do/events/burns-night"
     publisher: "VisitScotland"
-    date: "2026-10-31"
+    date: "2026-11-14"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January printable calendars"
@@ -61,6 +62,7 @@ assets:
       - ["4. Enjoy the Burns Supper", "Haggis, neeps and tatties are the traditional centrepiece."]
       - ["5. Speeches and poetry", "Burns recitations and speeches, including the Immortal Memory."]
       - ["6. Finish with Auld Lang Syne", "Guests join hands to sing."]
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     note: "Source: VisitScotland, Burns Night (visitscotland.com/things-to-do/events/burns-night). Burns Night is 25 January, a Monday in 2027."
     inkSaver: true
     description: "A one-page running order for hosting a Burns Supper on Burns Night, Monday, Jan. 25, 2027, using the six steps listed by VisitScotland."
@@ -123,11 +125,13 @@ For 2027, 25 January is a Monday. Bank holiday dates for the year are in our gui
 
 ## Burns Night events in Scotland in January 2027
 
-VisitScotland's Burns Night page lists two events in 2027, both before the night itself.
+VisitScotland's Burns Night page lists four events, three of them dated in 2027 and all before the night itself. The Dumfries pub night is listed only as "January".
 
 | Event | Place | Date |
 |---|---|---|
+| Burns Celebration at Glenapp Castle (grand banquet, traditional supper, whisky, piping and an evening ceilidh) | Ballantrae, South Ayrshire | 22 to 23 January 2027 |
 | Burns Big Birthday Bash (a family-friendly ceilidh) | Alloway, South Ayrshire | 23 January 2027 |
 | Burns an' a' that (meet characters from Burns' world and hear Tam o' Shanter) | Stirling Castle | 24 January 2027 |
+| Traditional Burns Night at the Globe Inn (Scottish food, poetry and music) | Dumfries | January, no day given |
 
 Details are on the VisitScotland page. For other Scottish dates in the winter season, see [Edinburgh's Christmas 2026 dates](/news/edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight/).

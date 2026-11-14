@@ -24,8 +24,8 @@ assets:
       releases:
         - { date: "2026-11-06", title: "Godzilla Minus Zero", platforms: ["In theaters"], note: "Wide release", src: 4, quote: "wide North American release following just days later on November 6" }
         - { date: "2026-11-06", title: "The Cat in the Hat", platforms: ["In theaters"], note: "Wide, with IMAX", src: 12, quote: "comes to theaters and IMAX® across North America on November 6, 2026" }
-        - { date: "2026-11-06", title: "I Play Rocky", platforms: ["Select theaters"], note: "Everywhere later in November", src: 7, quote: ["I Play Rocky is out now in limited theaters.", "It will be in theaters everywhere later in November."] }
-        - { date: "2026-11-13", title: "Paper Tiger", platforms: ["In theaters"], note: "Now in theaters, per Neon", src: 8, quote: "In Theaters Paper Tiger" }
+        - { date: "2026-11-06", title: "I Play Rocky", platforms: ["Select theaters"], note: "Everywhere later in November", src: 7, quote: ["updated on November 6, 2026, to reflect that the film is out now in select theaters", "It will be in theaters everywhere later in November."] }
+        - { date: "2026-11-13", title: "Paper Tiger", platforms: ["In theaters"], note: "Date listed by Neon", src: 8, quote: "In Theaters Nov 13, 2026" }
         - { date: "2026-11-20", title: "The Hunger Games: Sunrise on the Reaping", platforms: ["In theaters"], src: 1, quote: "The Hunger Games: Sunrise on the Reaping | Official Website | November 20 2026" }
         - { date: "2026-11-20", title: "Elsinore", platforms: ["Limited run"], note: "Wider over Thanksgiving", src: 9, quote: "limited run on Friday, Nov. 20" }
         - { date: "2026-11-25", title: "Hexed", platforms: ["In theaters"], src: 2, quote: "Disney's Hexed opens exclusively in theaters November 25, 2026." }
