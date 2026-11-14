@@ -108,7 +108,7 @@ downloads:
     title: "Narnia Countdown and Family Movie Planner 2027 (ink saver)"
     description: "One-page countdown for Narnia: The Magician's Nephew with the Feb. 10 IMAX previews, Feb. 12, 2027 theatrical release, Netflix on April 2 and blanks for tickets and showtime. Ink-saver version."
     preview: ../../../../assets/news/narnia-2027/narnia-magicians-nephew-countdown-planner-2027-ink.png
-    alt: "Printable Narnia countdown and family movie planner with the Feb. 10, Feb. 12 and April 2, 2027 dates and blanks for tickets, showtime and reading the book, ink-saver version"
+    alt: "Printable Narnia countdown and movie planner with the Feb. 10, Feb. 12 and April 2, 2027 dates and blanks for tickets and showtime, ink-saver version"
     pdf: "/news/downloads/narnia-2027/narnia-magicians-nephew-countdown-planner-2027-ink.pdf"
     png: "/news/downloads/narnia-2027/narnia-magicians-nephew-countdown-planner-2027-ink.png"
     pages: 1

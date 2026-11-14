@@ -55,7 +55,6 @@ sources:
   - title: "Mamdani's five ballot proposals pass"
     url: "https://www.cityandstateny.com/politics/2026/11/mamdanis-five-ballot-proposals-appear-set-pass/417019/"
     publisher: "City & State New York"
-    date: "2026-11"
   - title: "Certification of Offices to be Filled at the November 3, 2026 General Election"
     url: "https://elections.ny.gov/certification-offices-be-filled-november-3-2026-general-election"
     publisher: "New York State Board of Elections"
