@@ -3,7 +3,7 @@ title: "NBA All-Star 2027 Date: Feb. 21 in Phoenix, Rising Stars Feb. 19"
 description: "The NBA All-Star Game is Sunday, Feb. 21, 2027, in Phoenix. Rising Stars tips off Feb. 19 at 9 p.m. ET, with times by time zone and a printable."
 type: news
 publishedAt: "2026-10-26T16:38:00-04:00"
-updatedAt: "2026-11-04T13:41:00-05:00"
+updatedAt: "2026-11-14T17:30:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA All-Star 2027", "NBA All Star Game 2027 date", "2027 All-Star Weekend Phoenix", "NBA All Star 2027 time channel", "Rising Stars 2027"]
@@ -37,6 +37,7 @@ sources:
   - title: "NBA All-Star 2027 - Phoenix"
     url: "https://nbaevents.nba.com/nba-all-star-2027"
     publisher: "NBA Events"
+    date: "2026-11-14"
   - title: "Tickets on sale for NBA All-Star 2027 fan events"
     url: "https://www.nba.com/news/2027-nba-all-star-tickets-sale"
     publisher: "NBA.com"
@@ -76,14 +77,16 @@ assets:
     subtitle: "Phoenix, Feb. 19-21, plus season dates"
     columns: ["Date", "Event and details"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Oct. 20, 2026 (Tue.)", "2026-27 NBA regular season begins"]
       - ["Feb. 15, 2027 (Mon.)", "Presidents' Day quadrupleheader on NBC"]
-      - ["Feb. 19, 2027 (Fri.)", "Castrol Rising Stars, 7 p.m. MT (9 p.m. ET), Mortgage Matchup Center"]
+      - ["Feb. 19, 2027 (Fri.)", "Celebrity Game 5 p.m. MT; Castrol Rising Stars 7 p.m. MT (9 p.m. ET)"]
+      - ["Feb. 20, 2027 (Sat.)", "NBA HBCU Classic, noon MT (2 p.m. ET)"]
       - ["Feb. 20, 2027 (Sat.)", "State Farm All-Star Saturday Night, time not announced"]
       - ["Feb. 21, 2027 (Sun.)", "76th NBA All-Star Game on NBC, time not announced"]
       - ["Apr. 11, 2027 (Sun.)", "Regular season ends, all 30 teams play"]
-    note: "Source: NBA.com, NBA Events, NBC Sports. Eastern Time conversion is ours."
+    note: "Source: NBA.com (Oct. 8, 2026), NBA Events, NBC Sports; checked Nov. 14, 2026. Eastern Time conversion is ours."
     description: "A one-page list of NBA All-Star Weekend 2027 dates in Phoenix, with Rising Stars time and the 2026-27 season start, Presidents' Day games and finale."
     alt: "List of NBA All-Star Weekend 2027 dates in Phoenix from Feb. 19 to Feb. 21, with season start and finale"
 downloads:
@@ -102,11 +105,13 @@ draft: false
 
 ## When is NBA All-Star Weekend 2027?
 
-NBA Events gives the dates as Feb. 19-21, 2027. The table below puts each event on its day. The start times for Saturday and Sunday have not been announced in the sources we read, so the table says so.
+NBA Events gives the dates as Feb. 19-21, 2027. The table below puts each event on its day. NBA.com's Oct. 8, 2026 release also gives start times for the Ruffles NBA All-Star Celebrity Game and the NBA Historically Black Colleges and Universities (HBCU) Classic. The Eastern Time column is our conversion. The start times for All-Star Saturday Night and the All-Star Game have not been announced in the sources we read, so the table says so.
 
 | Day | Event | Start | Source |
 |---|---|---|---|
+| Fri., Feb. 19, 2027 | Ruffles NBA All-Star Celebrity Game | 5 p.m. MT (7 p.m. ET) | NBA.com, Oct. 8, 2026 |
 | Fri., Feb. 19, 2027 | Castrol Rising Stars | 7 p.m. MT (9 p.m. ET, our conversion) | NBA.com, Oct. 8, 2026 |
+| Sat., Feb. 20, 2027 | NBA HBCU Classic presented by AT&T | Noon MT (2 p.m. ET) | NBA.com, Oct. 8, 2026 |
 | Sat., Feb. 20, 2027 | State Farm All-Star Saturday Night, including the Kia Skills Challenge | Not announced | NBA Communications, Mar. 7, 2024 |
 | Sun., Feb. 21, 2027 | 76th NBA All-Star Game | Not announced | NBA Events |
 
@@ -142,4 +147,4 @@ The sources we read do not give the All-Star Game tip time, the start of All-Sta
 
 ## Free NBA All-Star Weekend printable
 
-Our one-page list puts the three Phoenix days, the season start, the Presidents' Day games and the April 11 finale in one place, with the Eastern Time conversion for Rising Stars. Mark Feb. 19-21 on the [February 2027 printable calendar](/february-calendars.html) or add the games to a [printable weekly calendar](/printable-weekly-calendar.html). For a hockey event on the same calendar, see the [National Hockey League (NHL) Winter Classic 2027 story](/news/nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city/).
+Our one-page list puts the three Phoenix days, the fan-event start times, the season start, the Presidents' Day games and the April 11 finale in one place, with the Eastern Time conversion for Rising Stars. Mark Feb. 19-21 on the [February 2027 printable calendar](/february-calendars.html) or add the games to a [printable weekly calendar](/printable-weekly-calendar.html). For a hockey event on the same calendar, see the [National Hockey League (NHL) Winter Classic 2027 story](/news/nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city/).
