@@ -3,7 +3,7 @@ title: "Premios Billboard 2026 Winners: Bad Bunny Artist of the Year"
 description: "Premios Billboard 2026 winners: Bad Bunny won Artist of the Year and Fuerza Regida led with 8 awards, per Telemundo. Full list by category, how to watch."
 type: news
 publishedAt: "2026-10-25T13:15:00-04:00"
-updatedAt: "2026-10-25T17:35:00-04:00"
+updatedAt: "2026-11-14T17:09:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Premios Billboard 2026", "Billboard Latin Music Awards 2026 winners", "Premios Billboard 2026 ganadores", "how to watch Premios Billboard"]
@@ -14,6 +14,7 @@ assets:
   date: "2026-10-22"
   card: { top: "Premios Billboard 2026", big: "Full winners list", bottom: "Miami, James L. Knight Center" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: premios-billboard-2026-winners-full-list
     group: premios-billboard-2026
     title: "Premios Billboard 2026 Winners, Full List"
@@ -198,8 +199,8 @@ Source: NBCUniversal, "How to Watch the 2026 Billboard Latin Music Awards," Oct.
 
 ## How to watch Premios Billboard now
 
-The show streamed on Peacock when it aired. We could not confirm whether a replay is available, so we do not promise one. Check Peacock and the Telemundo app for the 2026 Billboard Latin Music Awards, and the Telemundo [Premios Billboard page](https://www.telemundo.com/PremiosBillboard) for winners and any video it posts.
+The show streamed on Peacock when it aired. We could not confirm whether a replay is available, so we do not promise one. As of Nov. 14, Telemundo's Premios Billboard page lists the winners and says the show aired live on Telemundo and Peacock, with no replay information. Check Peacock and the Telemundo app for the 2026 Billboard Latin Music Awards, and the Telemundo [Premios Billboard page](https://www.telemundo.com/PremiosBillboard) for winners and any video it posts.
 
 ## Keep the winners list
 
-Our free printable lists every winner above by category, with the Telemundo source and the check date on the sheet. Mark Oct. 22 on your [October 2026 printable calendar](/october-calendars.html), or plan next week's viewing on a [printable weekly calendar](/printable-weekly-calendar.html). Other events on our calendar this season include the [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/), the [LoL Worlds 2026 schedule](/news/lol-worlds-2026-schedule-tickets/) and the [Ballon d'Or 2026 date and time](/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/).
+Our free printable lists every winner above by category, with the Telemundo source and the check date on the sheet. Mark Oct. 22 on your [October 2026 printable calendar](/october-calendars.html), or plan your viewing on a [printable weekly calendar](/printable-weekly-calendar.html). Other events on our calendar this season include the [World Series 2026 schedule](/news/world-series-2026-schedule-game-times-tv-channel/), the [LoL Worlds 2026 schedule](/news/lol-worlds-2026-schedule-tickets/) and the [Ballon d'Or 2026 date and time](/news/ballon-dor-2026-date-time-by-time-zone-nominees-london/).

@@ -1,25 +1,25 @@
 ---
 title: "Halloween Party Ideas 2026: Witches' Brew Punch Recipe"
-description: "Make a nonalcoholic witches' brew punch for Halloween 2026 with a printable checklist and a bubbling cauldron look that keeps dry ice out of the drink."
+description: "Make a nonalcoholic witches' brew punch for Halloween with a printable checklist and a bubbling cauldron look that keeps dry ice out of the drink."
 type: explainer
 publishedAt: "2026-10-22T01:45:00-04:00"
-updatedAt: "2026-10-22T02:37:00-04:00"
+updatedAt: "2026-11-14T17:08:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["witches brew punch", "bubbling cauldron halloween", "halloween punch recipe", "non alcoholic halloween punch", "halloween party drinks 2026"]
 dateline: "New York"
 assets:
   scene: halloween-party
-  kicker: "Halloween 2026 · Sat., Oct. 31"
+  kicker: "Halloween party punch · Oct. 31"
   date: "2026-10-31"
   card: { top: "Halloween party drink", big: "Witches' brew punch", bottom: "Serves 10-12, no dry ice" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: halloween-witches-brew-punch-recipe-checklist-2026
     group: halloween-2026
     title: "Witches' Brew Punch Recipe and Party Checklist, Halloween 2026"
-    subtitle: "Nonalcoholic punch, about 13 cups (10-12 servings), for Sat., Oct. 31, 2026"
+    subtitle: "Nonalcoholic punch, about 13 cups (10-12 servings), for a Halloween party"
     notesLabel: "Guests and allergies"
-    inkSaver: true
     rows:
       - { when: "4 cups", what: "Cranberry juice", section: "Ingredients" }
       - { when: "4 cups", what: "Apple juice", section: "Ingredients" }
@@ -36,7 +36,7 @@ assets:
       - { when: "", what: "Cups, napkins and a ladle", section: "Also buy" }
       - { when: "", what: "Allergen labels", section: "Also buy" }
       - { when: "", what: "Battery-powered lights for the cauldron", section: "Also buy" }
-      - { when: "Fri., Oct. 30", what: "Buy ingredients, wash fruit, chill juices, check guest allergies", section: "Party timeline" }
+      - { when: "Day before", what: "Buy ingredients, wash fruit, chill juices, check guest allergies", section: "Party timeline" }
       - { when: "2 hours before", what: "Mix the juices and citrus, cover and refrigerate", section: "Party timeline" }
       - { when: "30 min before", what: "Set out cups, napkins, ladle and the ingredient list", section: "Party timeline" }
       - { when: "Serving", what: "Add soda, ice and garnish", section: "Party timeline" }
@@ -47,9 +47,9 @@ assets:
 hero:
   src: ../../../../assets/news/halloween-party-ideas-2026-witches-brew-punch/halloween-party-ideas-2026-witches-brew-punch.jpg
   alt: "Witches' brew punch illustration for Halloween 2026: a bubbling cauldron of green punch with a ladle, lit by party lights, beside an Oct. 31 calendar tile"
-  caption: "Halloween 2026 is Saturday, Oct. 31. Google lists \"witches brew punch\" as the top trending Halloween drink search."
+  caption: "Halloween 2026 fell on Saturday, Oct. 31; in 2027 it is Sunday, Oct. 31. Google listed \"witches brew punch\" as the top trending Halloween drink search in 2026."
 summary:
-  - "Halloween 2026 is Saturday, Oct. 31, and Google says \"witches brew punch\" is the top trending Halloween drink search."
+  - "Halloween 2026 fell on Saturday, Oct. 31, and Google said \"witches brew punch\" was the top trending Halloween drink search that year."
   - "The recipe below is a nonalcoholic punch of about 13 cups, or 10 to 12 servings, made from juice, citrus, berries and soda."
   - "The bubbling cauldron look works with a black bowl and battery-powered lights, with no dry ice in the drink."
   - "Federal and poison center guidance says dry ice should never go into drinking cups or touch bare skin."
@@ -96,14 +96,6 @@ downloads:
     pdf: "/news/downloads/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026.pdf"
     png: "/news/downloads/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026.png"
     pages: 1
-  - group: "Witches' Brew Punch Recipe and Party Checklist printables"
-    title: "Witches' Brew Punch Recipe and Party Checklist, Halloween 2026 (ink saver)"
-    description: "One-page Halloween 2026 witches' brew punch recipe for 10-12 servings: ingredients, five steps, a shopping checklist, a party timeline and a dry ice safety note. Ink-saver version."
-    preview: ../../../../assets/news/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026-ink.png
-    alt: "Printable witches' brew punch recipe and party checklist for Halloween 2026 with ingredients, steps, shopping list and timeline, ink-saver version"
-    pdf: "/news/downloads/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026-ink.pdf"
-    png: "/news/downloads/halloween-2026/halloween-witches-brew-punch-recipe-checklist-2026-ink.png"
-    pages: 1
 internalLinks:
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
@@ -115,11 +107,11 @@ related: [halloween-2026-what-day-trick-or-treating-start, halloween-2026-saturd
 draft: false
 ---
 
-**A nonalcoholic witches' brew punch that makes about 13 cups, or 10 to 12 servings, takes 10 minutes to mix, and Halloween 2026 falls on Saturday, Oct. 31.** The color comes from cranberry juice, berries and citrus, and the fizz from soda or sparkling water. Pour it into a black cauldron-style bowl, add gummy worms or frozen berry "eyeballs," and light the outside of the bowl for the bubbling look.
+**A nonalcoholic witches' brew punch that makes about 13 cups, or 10 to 12 servings, takes 10 minutes to mix, and Halloween 2026 fell on Saturday, Oct. 31.** Halloween 2027 is Sunday, Oct. 31. The color comes from cranberry juice, berries and citrus, and the fizz from soda or sparkling water. Pour it into a black cauldron-style bowl, add gummy worms or frozen berry "eyeballs," and light the outside of the bowl for the bubbling look.
 
-The idea fits what people are searching for. Google's Halloween trends post, published Oct. 14, 2026, names "witches brew punch" as the top trending Halloween drink. It says search interest in "cauldron crock pot" is at an all-time high, that "how to make a bubbling cauldron" is a breakout search this month, and that "where can I buy dry ice" spikes every year. Those are search trends, not a survey of what party hosts plan to serve. The recipe here is our own. Google has not tested or endorsed it.
+The idea fits what people are searching for. Google's Halloween trends post, published Oct. 14, 2026, named "witches brew punch" as the top trending Halloween drink. It said search interest in "cauldron crock pot" was at an all-time high, that "how to make a bubbling cauldron" was a breakout search that month, and that "where can I buy dry ice" spikes every year. Those are search trends, not a survey of what party hosts plan to serve. The recipe here is our own. Google has not tested or endorsed it.
 
-If you are also planning the evening, see our guide to [what time trick-or-treating starts](/news/halloween-2026-what-day-trick-or-treating-start/) and the [sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) for Saturday.
+If you are also planning the evening, see our guide to [what time trick-or-treating starts](/news/halloween-2026-what-day-trick-or-treating-start/) and the [sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) from Halloween 2026.
 
 ## Witches' brew punch recipe
 

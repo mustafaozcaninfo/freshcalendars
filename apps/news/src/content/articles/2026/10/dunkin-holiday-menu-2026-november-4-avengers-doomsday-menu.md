@@ -1,9 +1,9 @@
 ---
 title: "Dunkin' Holiday Menu 2026 Starts Nov. 4, Two Days After Caribou"
-description: "Dunkin' holiday menu 2026 starts Wednesday, Nov. 4, with the Avengers: Doomsday menu. A table compares Caribou (Nov. 2) and Starbucks (Nov. 5)."
+description: "Dunkin' holiday menu 2026 started Wednesday, Nov. 4, with the Avengers: Doomsday menu. Four Marvel restaurant takeovers open Nov. 17-18; Caribou, Starbucks dates."
 type: news
 publishedAt: "2026-10-29T15:52:00-04:00"
-updatedAt: "2026-11-05T05:27:00-05:00"
+updatedAt: "2026-11-14T17:09:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Dunkin holiday menu 2026", "Dunkin Avengers Doomsday menu", "Dunkin November 4 2026", "when does Dunkin holiday menu come out"]
@@ -14,6 +14,7 @@ assets:
   date: "2026-11-04"
   card: { top: "Dunkin' holiday and Avengers menu", big: "Wed., Nov. 4", bottom: "At participating U.S. restaurants" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: dunkin-november-4-2026-menu-checklist
     group: holiday-menus-2026
     title: "Dunkin' Nov. 4, 2026 Lineup Checklist"
@@ -45,7 +46,7 @@ assets:
 hero:
   src: ../../../../assets/news/dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu/dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu.webp
   alt: "Dunkin holiday menu 2026: an assortment of frosted, glazed and sprinkled donuts in a box"
-  caption: "Assorted donuts in a box, a file photo, not Dunkin' products. Dunkin's holiday cups and Avengers: Doomsday menu start Wednesday, Nov. 4, 2026."
+  caption: "Assorted donuts in a box, a file photo, not Dunkin' products. Dunkin's holiday cups and Avengers: Doomsday menu started Wednesday, Nov. 4, 2026."
   credit: "Photo: Liz DeCoster / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -53,15 +54,17 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Box_of_Duck_Donuts_1.jpg"
     author: "Liz DeCoster"
 summary:
-  - "Dunkin' starts its 2026 holiday season and its Avengers: Doomsday menu on Wednesday, Nov. 4, 2026, at participating U.S. restaurants, per Dunkin' releases dated Oct. 6 and Oct. 28."
+  - "Dunkin' started its 2026 holiday season and its Avengers: Doomsday menu on Wednesday, Nov. 4, 2026, at participating U.S. restaurants, per Dunkin' releases dated Oct. 6, Oct. 28 and Nov. 4."
   - "The Marvel Studios menu has six drinks, two donuts, two MUNCHKINS treats and a Doctor Doom 25-Count MUNCHKINS Tin for $14.99, while supplies last."
-  - "Caribou Coffee says its holiday lineup starts Monday, Nov. 2, two days before Dunkin'; Starbucks returns its holiday menu Thursday, Nov. 5."
-  - "Dunkin' has not listed its full holiday drink menu in the release we read, and says more surprises will come at the top of November."
+  - "Caribou Coffee said its holiday lineup started Monday, Nov. 2, two days before Dunkin'; Starbucks set Thursday, Nov. 5 for its holiday menu."
+  - "Four Doomsday-themed Dunkin' restaurants open Nov. 17 in Los Angeles and Chicago and Nov. 18 in New York City and Boston, staying through early December. Dunkin' has not listed its full holiday drink menu in the release we read."
 faq:
-  - q: "When does the Dunkin' holiday menu come out in 2026?"
-    a: "Wednesday, Nov. 4, 2026. Dunkin' says its holiday cups and its donut and MUNCHKINS boxes with the new Donutcracker design appear nationwide beginning Nov. 4 (Dunkin' release, Oct. 28, 2026)."
-  - q: "When does the Dunkin' Avengers: Doomsday menu start?"
-    a: "Wednesday, Nov. 4, 2026, at participating Dunkin' restaurants nationwide, while supplies last, according to Dunkin' (Oct. 6, 2026)."
+  - q: "When did the Dunkin' holiday menu come out in 2026?"
+    a: "Wednesday, Nov. 4, 2026. Dunkin' said its holiday cups and its donut and MUNCHKINS boxes with the new Donutcracker design appear nationwide beginning Nov. 4 (Dunkin' release, Oct. 28, 2026)."
+  - q: "When did the Dunkin' Avengers: Doomsday menu start?"
+    a: "Wednesday, Nov. 4, 2026, at participating Dunkin' restaurants nationwide, while supplies last. Dunkin' said on Oct. 6 it would start then and on Nov. 4 that the lineup was available."
+  - q: "Where are the Dunkin' Avengers: Doomsday restaurant takeovers?"
+    a: "Four restaurants transform from Nov. 17 or 18, per Dunkin': a Fantastic Four theme at 6201 Hollywood Blvd., Los Angeles, and an X-Men theme at 10 West Chicago Ave. on Nov. 17; an Avengers theme at 102 8th Ave., New York City, and a Doctor Doom theme at 209 N Harvard St., Boston (Allston), on Nov. 18. They stay through early December."
   - q: "How much is the Doctor Doom MUNCHKINS Tin?"
     a: "$14.99 with any 25-count MUNCHKINS purchase, at participating restaurants while supplies last, per Dunkin'. Availability and quantities may vary by restaurant."
   - q: "Which holiday drinks is Dunkin' bringing back in 2026?"
@@ -73,6 +76,10 @@ sources:
     url: "https://news.dunkindonuts.com/news/dunkin-unwraps-the-holidays-with-the-debut-of-the-donutcracker-and-the-return-of-cookie-butter-and-toasted-white-chocolate"
     publisher: "Dunkin'"
     date: "2026-10-28"
+  - title: "Doomsday has arrived, and even Super Heroes run on Dunkin' as an Epic New Campaign Arrives Nationwide"
+    url: "https://news.dunkindonuts.com/news/doomsday-has-arrived-and-even-super-heroes-run-on-dunkinR-as-an-epic-new-campaign-arrives-nationwide"
+    publisher: "Dunkin'"
+    date: "2026-11-04"
   - title: "Dunkin' Assembles with Marvel Studios' \"Avengers: Doomsday\" for an Epic New Menu and Limited-Edition Collectibles"
     url: "https://news.dunkindonuts.com/news/dunkin-and-marvel-studios-avengers-doomsday-team-up-2026"
     publisher: "Dunkin'"
@@ -119,7 +126,7 @@ downloads:
 draft: false
 ---
 
-**Dunkin' starts its 2026 holiday season and its "Avengers: Doomsday" menu on Wednesday, Nov. 4, 2026, at participating U.S. restaurants, the company says in newsroom releases dated Oct. 6 and Oct. 28.** The Marvel Studios lineup is limited-time and runs while supplies last. Below are every item Dunkin' named, a table of 2026 holiday menu start dates by chain, and a one-page checklist to print.
+**Dunkin' started its 2026 holiday season and its "Avengers: Doomsday" menu on Wednesday, Nov. 4, 2026, at participating U.S. restaurants, the company said in newsroom releases dated Oct. 6, Oct. 28 and Nov. 4.** The Marvel Studios lineup is limited-time and runs while supplies last. Below are every item Dunkin' named, a table of 2026 holiday menu start dates by chain, and a one-page checklist to print.
 
 ## When does the Dunkin' holiday menu start in 2026?
 
@@ -129,12 +136,12 @@ The release headline says Cookie Butter and Toasted White Chocolate return. The 
 
 ## Holiday menu start dates 2026, by chain
 
-Dunkin' starts two days after Caribou Coffee and one day before Starbucks. Dutch Bros announced its menu Nov. 1, 2026, and Krispy Kreme lists Nov. 3, 2026. McDonald's, Panera and Tim Hortons had not announced 2026 dates on their newsrooms as of Nov. 5, 2026.
+Dunkin' started two days after Caribou Coffee and one day before Starbucks. Dutch Bros announced its menu Nov. 1, 2026, and Krispy Kreme lists Nov. 3, 2026. McDonald's, Panera and Tim Hortons had not announced 2026 dates on their newsrooms as of Nov. 5, 2026.
 
 | Chain | 2026 start | Day | Source |
 |---|---|---|---|
 | Caribou Coffee | Nov. 2 | Monday | Caribou Coffee release, Oct. 13, 2026 |
-| Dunkin' | Nov. 4 | Wednesday | Dunkin' releases, Oct. 6 and Oct. 28, 2026 |
+| Dunkin' | Nov. 4 | Wednesday | Dunkin' releases, Oct. 6, Oct. 28 and Nov. 4, 2026 |
 | Starbucks | Nov. 5 | Thursday | Starbucks, see our [Starbucks holiday menu story](/news/starbucks-holiday-menu-2026-red-cup-day-date/) |
 | Krispy Kreme | Nov. 3 to Jan. 4, 2027 | Tuesday to Monday | Krispy Kreme holiday donuts page, checked Nov. 5, 2026 |
 | Dutch Bros | Announced Nov. 1, 2026, available now | n/a | Dutch Bros release, Nov. 1, 2026 |
@@ -144,7 +151,7 @@ Krispy Kreme says its holiday donuts are "available November 3, 2026 through Jan
 
 ## What is on the Dunkin' Avengers: Doomsday menu?
 
-Dunkin' says the lineup starts Nov. 4 at participating restaurants nationwide, while supplies last. Each description below is Dunkin's.
+Dunkin' said the lineup started Nov. 4 at participating restaurants nationwide, while supplies last, and its Nov. 4 release calls it available now. Each description below is Dunkin's.
 
 | Item | Type | Dunkin's description |
 |---|---|---|
@@ -162,11 +169,20 @@ Dunkin' says the lineup starts Nov. 4 at participating restaurants nationwide, w
 
 From Nov. 4, the Doctor Doom 25-Count Munchkins Tin, inspired by Doom's mask and green hood, is available with any 25-count Munchkins purchase for $14.99 at participating restaurants, while supplies last. Dunkin' says availability and quantities may vary by restaurant.
 
-The limited-edition collection also includes Avengers: Doomsday-themed tumblers, a color-changing mug, glove cup sleeves and character cup sleeves. The glove sleeves feature Doctor Doom, Black Panther, Mister Fantastic and Captain America. Dunkin' lists specific items and quantities as varying by restaurant.
+The Nov. 4 release prices the rest of the limited-edition collection: tumblers $24.99, the color-changing mug $14.99, glove cup sleeves $19.99 and character cup sleeves $8.99. The glove sleeves feature Doctor Doom, Black Panther, Mister Fantastic and Captain America. Dunkin' lists specific items and quantities as varying by restaurant.
 
-## What else has Dunkin' said is coming?
+## What are the Dunkin' Doomsday restaurant takeovers?
 
-Dunkin' says "more surprises" will be announced at the top of November. The film, directed by Anthony and Joe Russo, releases in theaters Friday, Dec. 18, 2026, per the same release.
+Dunkin' said on Oct. 6 that more surprises would come at the top of November. Its Nov. 4 release brought a commercial starring Channing Tatum as Gambit and four themed restaurants, which stay in place through early December.
+
+| Date | City | Theme | Address |
+|---|---|---|---|
+| Nov. 17 | Los Angeles | Fantastic Four | 6201 Hollywood Blvd. |
+| Nov. 17 | Chicago | X-Men | 10 West Chicago Ave. |
+| Nov. 18 | New York City | Avengers | 102 8th Ave. |
+| Nov. 18 | Boston (Allston) | Doctor Doom | 209 N Harvard St. |
+
+The film, directed by Anthony and Joe Russo, releases in theaters Friday, Dec. 18, 2026, per the same release.
 
 For the film's runtime, ticket details and a dated countdown, see our [Avengers: Doomsday release date story](/news/avengers-doomsday-release-date-december-18-countdown-tickets-runtime/). For other films opening that month, see our guide to [new movies in theaters](/news/new-movies-in-theaters-december-2026-release-dates-avengers-doomsday-dune/).
 
@@ -178,4 +194,4 @@ For the rest of the season, see our [Thanksgiving meal deals 2026](/news/thanksg
 
 ## How we keep this accurate
 
-Dates and items come from Dunkin's newsroom releases of Oct. 6 and Oct. 28, 2026, checked on Oct. 29, 2026, and from Caribou Coffee's Oct. 13, 2026 release. Dutch Bros and Krispy Kreme rows were checked on their official pages on Nov. 5, 2026. If Dunkin' publishes its holiday drink list or the November surprises, this story, the table and the printable will change together.
+Dates and items come from Dunkin's newsroom releases of Oct. 6, Oct. 28 and Nov. 4, 2026, rechecked on Nov. 14, 2026, and from Caribou Coffee's Oct. 13, 2026 release. Dutch Bros and Krispy Kreme rows were checked on their official pages on Nov. 5, 2026. If Dunkin' publishes its holiday drink list, this story will change with it.

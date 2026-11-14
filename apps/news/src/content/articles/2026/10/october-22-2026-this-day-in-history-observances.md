@@ -3,7 +3,7 @@ title: "October 22, 2026: Thursday, Day 295, This Day in History"
 description: "Oct. 22, 2026 was a Thursday, day 295 of the year. On this day: Sam Houston took office in 1836 and Kennedy spoke on Cuba in 1962. Printable timeline."
 type: explainer
 publishedAt: "2026-10-21T13:05:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T18:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["this day in history October 22", "October 22 2026", "what happened on October 22", "October 22 holidays", "what day is October 22 2026"]
@@ -12,19 +12,19 @@ hero:
   src: ../../../../assets/news/october-22-2026-this-day-in-history-observances/october-22-2026-this-day-in-history-observances.jpg
   alt: "October 22 this day in history: a tear-off calendar page for Thursday, Oct. 22, beside a timeline with years from 1797 to 2014"
   title: "October 22: this day in history"
-  caption: "Oct. 22, 2026, is a Thursday. On this date, Sam Houston became president of the Republic of Texas in 1836 and John F. Kennedy addressed the nation on Cuba in 1962."
+  caption: "Oct. 22, 2026, was a Thursday. On this date, Sam Houston became president of the Republic of Texas in 1836 and John F. Kennedy addressed the nation on Cuba in 1962."
 summary:
-  - "Thursday, Oct. 22, 2026, is the 295th day of the year, with 70 days left, and falls in ISO week 43. It is not a federal holiday."
+  - "Thursday, Oct. 22, 2026, was the 295th day of the year, with 70 days left, and fell in ISO week 43. It was not a federal holiday."
   - "On this day: the first recorded parachute jump (1797), Sam Houston's inauguration in Texas (1836), the Metropolitan Opera House's opening night (1883), the first xerographic copy (1938) and Kennedy's Cuban missile crisis address (1962)."
   - "In 1975 the Soviet lander Venera 9 sent back the first image taken on the surface of another planet."
-  - "It is International Stuttering Awareness Day. Florida's deadline to request a mail ballot was Oct. 22, and the World Series and Mole Day followed on Friday."
+  - "It was International Stuttering Awareness Day. Florida's deadline to request a mail ballot was Oct. 22, and the World Series and Mole Day followed on Friday."
 faq:
   - q: "What happened on October 22 in history?"
     a: "Among other events: André-Jacques Garnerin made the first recorded parachute jump in 1797, Sam Houston was inaugurated as president of the Republic of Texas in 1836, Chester Carlson made the first xerographic copy in 1938, and President John F. Kennedy told the nation about Soviet missiles in Cuba in 1962."
-  - q: "What day of the week is Oct. 22, 2026?"
-    a: "Thursday. It is the 295th day of 2026, with 70 days left in the year."
+  - q: "What day of the week was Oct. 22, 2026?"
+    a: "Thursday. It was the 295th day of 2026, with 70 days left in the year."
   - q: "Is Oct. 22 a holiday?"
-    a: "Not a federal or state holiday, so banks, schools and post offices are open. It is International Stuttering Awareness Day, observed every year since 1998."
+    a: "Not a federal or state holiday, so banks, schools and post offices were open in 2026. It is International Stuttering Awareness Day, observed every year since 1998."
   - q: "Who was born on October 22?"
     a: "Doris Lessing, the British novelist who won the 2007 Nobel Prize in Literature, was born on Oct. 22, 1919."
 sources:
@@ -78,7 +78,7 @@ downloads:
 draft: false
 ---
 
-**Thursday, Oct. 22, 2026, is the 295th day of the year, and the date has a long list of firsts: the first recorded parachute jump, the first xerographic copy and the first photograph from the surface of another planet.** It is also the day Sam Houston became president of the Republic of Texas and the day John F. Kennedy told Americans about Soviet missiles in Cuba. Below: what happened on Oct. 22 through the years, the day's observance, and what was on the calendar that week.
+**Thursday, Oct. 22, 2026, was the 295th day of the year, and the date has a long list of firsts: the first recorded parachute jump, the first xerographic copy and the first photograph from the surface of another planet.** It is also the day Sam Houston became president of the Republic of Texas and the day John F. Kennedy told Americans about Soviet missiles in Cuba. Below: what happened on Oct. 22 through the years, the day's observance, and what was on the calendar that week.
 
 ## This day in history: October 22
 
@@ -103,9 +103,9 @@ draft: false
 
 ## The observance on Oct. 22
 
-International Stuttering Awareness Day falls on Oct. 22 every year. It has been observed since 1998 and is organized by the International Stuttering Association together with the International Fluency Association and the European League of Stuttering Associations. No United Nations day falls on Oct. 22; UN Day follows on Saturday, Oct. 24.
+International Stuttering Awareness Day falls on Oct. 22 every year. It has been observed since 1998 and is organized by the International Stuttering Association together with the International Fluency Association and the European League of Stuttering Associations. No United Nations day falls on Oct. 22; UN Day followed on Saturday, Oct. 24.
 
-Oct. 22 is not a federal or state holiday, so banks, schools, post offices and federal offices keep their usual hours. The next federal holiday is Veterans Day, Wednesday, Nov. 11.
+Oct. 22 is not a federal or state holiday, so banks, schools, post offices and federal offices kept their usual hours in 2026. The next federal holiday after it was Veterans Day, Wednesday, Nov. 11.
 
 Born on this day: Doris Lessing, the British novelist and 2007 Nobel Prize in Literature winner, in 1919, according to the Nobel Prize's biography.
 
@@ -124,4 +124,4 @@ See how to watch the meteors in our [Orionid meteor shower guide](/news/orionid-
 
 ## Print the timeline
 
-Our free printable puts all eight events on a classroom timeline, with how many years ago each happened and space for students' notes. Pair it with our [October 2026 printable calendar](/october-calendars.html), and look ahead on the [November 2026 calendar](/november-calendars.html) and [when is Halloween](/when-is/halloween/).
+Our free printable puts all eight events on a classroom timeline, with how many years ago each happened and space for students' notes. Pair it with our [October 2026 printable calendar](/october-calendars.html), and see the [November 2026 calendar](/november-calendars.html) and [when is Halloween](/when-is/halloween/).

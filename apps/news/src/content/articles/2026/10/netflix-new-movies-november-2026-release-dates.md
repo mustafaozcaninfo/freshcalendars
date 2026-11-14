@@ -3,7 +3,7 @@ title: "New on Netflix November 2026: 10 Movies, First on Nov. 4"
 description: "Netflix lists 10 movies for November 2026, from A Dog's Perfect Christmas on Nov. 4 to The Mosquito Bowl on Nov. 25. Week table and a free printable."
 type: news
 publishedAt: "2026-10-25T20:19:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T18:15:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Netflix November 2026", "Netflix movies November 2026", "Netflix November 2026 release dates", "A Dog's Perfect Christmas Netflix"]
@@ -14,6 +14,7 @@ assets:
   date: "2026-11-04"
   card: { top: "New on Netflix, November 2026", big: "10 movies listed", bottom: "From Netflix's fall movie guide" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: netflix-november-2026-movies
     group: netflix-november-2026
     title: "Netflix Movies November 2026 Watch List"
@@ -45,12 +46,12 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Noah_Wulf"
 summary:
   - "Netflix's fall movie guide, published Aug. 26, 2026, lists 10 movies for November 2026; nine have a day in that guide, and Netflix's Oct. 31 November list dates Allen for Nov. 12."
-  - "The first is A Dog's Perfect Christmas on Wednesday, Nov. 4, and the last dated one is The Mosquito Bowl on Wednesday, Nov. 25."
+  - "The first, A Dog's Perfect Christmas on Wednesday, Nov. 4, has been out for 10 days; five of the 10 movies were dated Nov. 4 to 13 and the last, The Mosquito Bowl, is Wednesday, Nov. 25."
   - "Netflix's Help Center says its originals are typically released globally at 12:00 a.m. Pacific Time, which is 3 a.m. Eastern Time."
-  - "Netflix posted its November 2026 list on Oct. 31; series are not covered here."
+  - "Netflix's Oct. 31 November list, read again on Nov. 14, gives the same dates as the guide for all 10 movies; series are not covered here."
 faq:
   - q: "What is the first new Netflix movie in November 2026?"
-    a: "Netflix's fall movie guide lists A Dog's Perfect Christmas for Wednesday, Nov. 4, 2026. It is the earliest dated November movie in the guide."
+    a: "A Dog's Perfect Christmas, dated Wednesday, Nov. 4, 2026 in Netflix's fall movie guide and its November list. It is the earliest dated November movie in the guide."
   - q: "Is The Further Mis-Adventures of Cliff Booth on Netflix in November 2026?"
     a: "No. Netflix's guide lists it for Dec. 23, 2026 on Netflix, with an IMAX release on Nov. 25. It is not a November Netflix release."
   - q: "What time do new Netflix movies come out?"
@@ -65,7 +66,7 @@ sources:
   - title: "New on Netflix in November 2026"
     url: "https://www.netflix.com/tudum/articles/new-on-netflix"
     publisher: "Netflix Tudum"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "Release times for Netflix originals"
     url: "https://help.netflix.com/en/node/118959"
     publisher: "Netflix Help Center"
@@ -87,13 +88,11 @@ downloads:
 draft: false
 ---
 
-**Netflix's fall movie guide, published Aug. 26, 2026 on Netflix Tudum, lists 10 movies for November 2026, and the first is "A Dog's Perfect Christmas" on Wednesday, Nov. 4.** Nine of the 10 have a day in that guide, and Netflix's "New on Netflix in November 2026" page, published Oct. 31, dates "Allen" for Nov. 12. The table below puts each date in a week with its weekday, and a free printable watch list follows it.
-
-<p class="callout"><b>Checked Nov. 2, 2026.</b> Netflix posted its November list on Oct. 31. The movie dates below come from Netflix's fall movie guide, and Allen's date comes from the November list. This story covers movies only.</p>
+**Netflix's fall movie guide, published Aug. 26, 2026 on Netflix Tudum, lists 10 movies for November 2026, and the first, "A Dog's Perfect Christmas," was dated Wednesday, Nov. 4.** Nine of the 10 have a day in that guide, and Netflix's "New on Netflix in November 2026" page, published Oct. 31 and read again Nov. 14, dates "Allen" for Nov. 12 and repeats the guide's date for the other nine. Five movies were dated Nov. 4 to 13; five remain, on Nov. 18, 20 and 25. The table below puts each date in a week with its weekday, and a free printable watch list follows it.
 
 ## What is new on Netflix in November 2026?
 
-These are the movies the guide places in November 2026. Some third-party sites list different dates; Netflix's guide is the source used here. The guide did not give plot or cast details for this story, so none are listed.
+These are the movies the guide places in November 2026. Some third-party sites list different dates; Netflix's guide and November list are the sources used here. Dates through Nov. 13 are in the past. The guide did not give plot or cast details for this story, so none are listed.
 
 | Week | Day and date | Movie | Notes |
 |---|---|---|---|
@@ -110,7 +109,7 @@ These are the movies the guide places in November 2026. Some third-party sites l
 
 ## How many Netflix movies are dated each week?
 
-Counting the table above, the week of Nov. 16 has the most dated movies, with four. The week of Nov. 23 has one.
+Counting the table above, the week of Nov. 16 had the most dated movies, with four. The week of Nov. 23 has one.
 
 | Week | Dated movies |
 |---|---|

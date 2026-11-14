@@ -1,9 +1,9 @@
 ---
 title: "Recount Rules 2026: Margins That Trigger One in 6 States"
-description: "A recount is automatic at 0.5% or less in Arizona and Florida, under 0.25% in Ohio statewide. Florida results are due Nov. 12 if ordered. Six states."
+description: "A recount is automatic at 0.5% or less in Arizona and Florida, under 0.25% in Ohio statewide. Florida ran two machine recounts in 2026. Six states."
 type: explainer
 publishedAt: "2026-11-04T12:42:00-05:00"
-updatedAt: "2026-11-04T12:42:00-05:00"
+updatedAt: "2026-11-14T17:09:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["recount rules by state 2026", "automatic recount threshold", "how close does an election have to be for a recount", "recount deadline 2026"]
@@ -21,7 +21,7 @@ hero:
 summary:
   - "Arizona and Florida order a recount when a margin is one-half of one percent (0.5%) or less of the votes cast; Ohio's automatic line is less than 0.5% for county and local contests and less than 0.25% for statewide ones."
   - "Georgia and North Carolina do not order recounts themselves: a candidate asks, at a margin of 0.5% or less in Georgia and 0.5% or 10,000 votes, whichever is less, in North Carolina's statewide contests."
-  - "Florida's recount results are due by 3 p.m. on Thu., Nov. 12, 2026, the 9th day after the Nov. 3 election, if the Secretary of State ordered one (our computation from the statute)."
+  - "Florida's recount results were due by 3 p.m. on Thu., Nov. 12, 2026, the 9th day after the Nov. 3 election (our computation from the statute); WLRN and Spectrum News 13 reported machine recounts in U.S. House District 27 and state House District 33."
   - "Georgia's request is due two business days after certification, Michigan's petition by 5 p.m. on the second day after the state canvassers certify, and North Carolina's demand by noon on the second business day after the county canvass."
 faq:
   - q: "How close does an election have to be for a recount?"
@@ -62,6 +62,14 @@ sources:
     url: "https://ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-182.7.html"
     publisher: "North Carolina General Assembly"
     date: "2026-11-04"
+  - title: "Machine recounts set this week for one Florida congressional race and one state House contest"
+    url: "https://www.wlrn.org/government-politics/2026-11-09/machine-recounts-set-this-week-for-one-florida-congressional-race-and-one-state-house-contest"
+    publisher: "WLRN"
+    date: "2026-11-09"
+  - title: "Brevard County conducts pair of recounts in 2 close races"
+    url: "https://mynews13.com/fl/orlando/news/2026/11/10/brevard-county-begins-machine-recounts-in-two-close-races"
+    publisher: "Spectrum News 13"
+    date: "2026-11-11"
   - title: "Ohio Revised Code, Section 3515.011"
     url: "https://codes.ohio.gov/ohio-revised-code/section-3515.011"
     publisher: "State of Ohio"
@@ -96,7 +104,7 @@ assets:
         - cells: { state: "Arizona", kind: "Automatic", margin: "One-half of one percent or less of votes cast", deadline: "No request needed" }
           src: 1
           quote: "is less than or equal to one-half of one percent of the number of votes cast"
-        - cells: { state: "Florida", kind: "Automatic machine recount", margin: "One-half of a percent or less of votes cast", deadline: "Results due 3 p.m. Thu., Nov. 12, 2026" }
+        - cells: { state: "Florida", kind: "Automatic machine recount", margin: "One-half of a percent or less of votes cast", deadline: "Results were due 3 p.m. Thu., Nov. 12, 2026" }
           src: 2
           quote: "one-half of a percent or less of the votes cast for such office or measure"
         - cells: { state: "Florida", kind: "Manual recount", margin: "One-quarter of a percent or less of votes cast", deadline: "After the second set of unofficial returns" }
@@ -134,7 +142,7 @@ downloads:
     pages: 1
 ---
 
-**A recount is automatic at a margin of one-half of one percent (0.5%) or less of the votes cast in Arizona and Florida, according to Arizona Revised Statutes (A.R.S.) 16-661 and Florida Statutes 102.141, and Florida's results from the Nov. 3, 2026 election are due by 3 p.m. on Thu., Nov. 12.** Ohio's automatic line is less than 0.5% for county and local contests and less than 0.25% statewide. Georgia, Michigan and North Carolina wait for a request. The table below compares six states; the rules come from each state's statute or official page, read on Nov. 4, 2026.
+**A recount is automatic at a margin of one-half of one percent (0.5%) or less of the votes cast in Arizona and Florida, according to Arizona Revised Statutes (A.R.S.) 16-661 and Florida Statutes 102.141, and Florida's results from the Nov. 3, 2026 election were due by 3 p.m. on Thu., Nov. 12.** Ohio's automatic line is less than 0.5% for county and local contests and less than 0.25% statewide. Georgia, Michigan and North Carolina wait for a request. The table below compares six states; the rules come from each state's statute or official page, read on Nov. 4, 2026.
 
 ## Recount margins and deadlines in six states
 
@@ -143,7 +151,7 @@ downloads:
 | State | Type | Margin that triggers it | Deadline for the Nov. 3, 2026 election | Statute or source |
 |---|---|---|---|---|
 | Arizona | Automatic | "less than or equal to one-half of one percent of the number of votes cast" | No request needed | A.R.S. 16-661 |
-| Florida | Automatic machine recount | "one-half of a percent or less of the votes cast for such office or measure" | Results due 3 p.m. Thu., Nov. 12, 2026 | Florida Statutes 102.141 |
+| Florida | Automatic machine recount | "one-half of a percent or less of the votes cast for such office or measure" | Results were due 3 p.m. Thu., Nov. 12, 2026 | Florida Statutes 102.141 |
 | Florida | Manual recount | "one-quarter of a percent or less of the votes cast for such office" (second set of unofficial returns) | Follows the second set of unofficial returns | Florida Statutes 102.166 |
 | Georgia | Requested by a candidate | Less than or equal to 0.5% | Within 2 business days of certification | Georgia.gov, Election Recount Rules in Georgia |
 | Michigan | Requested by petition | Automatic rule is in the Recount Manual (April 2025) | 5 p.m. on the 2nd day after the Board of State Canvassers certifies | Michigan Compiled Laws (MCL) 168.879 |
@@ -164,7 +172,11 @@ North Carolina's statewide rule adds a cap: 0.5% of the votes cast or 10,000 vot
 
 ## What are Florida's recount dates?
 
-Florida has two steps. Under Florida Statutes 102.141, a margin of one-half of a percent or less means "a recount shall be ordered," and results are due "no later than 3 p.m. on the 9th day after any general election in which a recount was ordered by the Secretary of State." For the Nov. 3 election that is Thu., Nov. 12, 2026 (our computation). Florida Statutes 102.166 adds a manual recount when the second set of unofficial returns shows a margin of one-quarter of a percent or less of the votes cast for the office.
+Florida has two steps. Under Florida Statutes 102.141, a margin of one-half of a percent or less means "a recount shall be ordered," and results are due "no later than 3 p.m. on the 9th day after any general election in which a recount was ordered by the Secretary of State." For the Nov. 3 election that was Thu., Nov. 12, 2026 (our computation). Florida Statutes 102.166 adds a manual recount when the second set of unofficial returns shows a margin of one-quarter of a percent or less of the votes cast for the office.
+
+## Which Florida races went to a recount in 2026?
+
+WLRN reported on Nov. 9, 2026 that machine recounts were set for Florida's 27th Congressional District in Miami-Dade County, where Republican U.S. Rep. Maria Salazar led Democrat Eliot Rodriguez by 1,090 votes, or 0.44%, and for state House District 33. Spectrum News 13 reported that the Brevard County machine recount in District 33 changed Democrat Daniel McDow's total by two votes and Republican Monique Miller's by one, left the percentages unchanged and did not call for a manual recount. We did not find a final result for District 27 in two newsrooms, so none is given here; the Florida Division of Elections posts the official results.
 
 ## What are the Georgia, Michigan and North Carolina deadlines?
 
