@@ -77,7 +77,7 @@ downloads:
     pdf: "/news/downloads/nyc-high-school-admissions-2027/nyc-high-school-admissions-dates-2026-27.pdf"
     png: "/news/downloads/nyc-high-school-admissions-2027/nyc-high-school-admissions-dates-2026-27.png"
     pages: 1
-related: [nyc-public-schools-calendar-2026-27-breaks-holidays, kindergarten-registration-2027-28-dates-age-cutoffs-by-district, early-decision-deadlines-2026-november-1-sunday-college-list-uc-november-30]
+related: [nyc-public-schools-calendar-2026-27-breaks-holidays, kindergarten-registration-2027-28-dates-age-cutoffs-by-district, nyc-middle-school-admissions-fall-2027-deadline-december-11]
 assets:
   overlay: true
   kicker: "NYC high school admissions · Fri., Dec. 4"
