@@ -1,16 +1,16 @@
 ---
-title: "National Chicken Sandwich Day 2026: Jollibee Deal on Monday, Nov. 9"
-description: "National Chicken Sandwich Day 2026 is Monday, Nov. 9. Jollibee Rewards members get a Buy One, Get One (BOGO) chicken sandwich; no other offer is confirmed."
+title: "National Chicken Sandwich Day 2026: Jollibee Deal Was Monday, Nov. 9"
+description: "National Chicken Sandwich Day 2026 was Monday, Nov. 9: Jollibee Rewards members got a Buy One, Get One (BOGO) chicken sandwich. No other offer confirmed."
 type: news
 publishedAt: "2026-11-08T06:07:00-05:00"
-updatedAt: "2026-11-08T06:07:00-05:00"
+updatedAt: "2026-11-14T18:35:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["National Chicken Sandwich Day deals 2026", "National Fried Chicken Sandwich Day 2026", "Jollibee BOGO chicken sandwich", "chicken sandwich deals November 9"]
 hero:
   src: ../../../../assets/news/national-chicken-sandwich-day-2026-deals-november-9/national-chicken-sandwich-day-2026-deals-november-9.webp
   alt: "A fried chicken sandwich with slaw on a bun, for National Chicken Sandwich Day deals in 2026"
-  caption: "A fried chicken sandwich, file photo. National Fried Chicken Sandwich Day, also called National Chicken Sandwich Day, falls on Nov. 9, Jollibee USA says."
+  caption: "A fried chicken sandwich, file photo. National Fried Chicken Sandwich Day, also called National Chicken Sandwich Day, falls on Nov. 9, Jollibee USA says; in 2026 it was a Monday."
   credit: "Photo: Breawycker / Wikimedia Commons, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -19,25 +19,28 @@ hero:
     author: "Breawycker"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Breawycker"
 summary:
-  - "National Fried Chicken Sandwich Day, also called National Chicken Sandwich Day, falls on November 9 every year, according to Jollibee USA; in 2026 that is a Monday."
-  - "Jollibee Rewards members get a Buy One, Get One chicken sandwich (Original or Spicy) on Monday, Nov. 9, 2026, online and in-store, as a one-day-only perk."
-  - "The offer requires Jollibee Rewards membership and carries terms and conditions; Jollibee's page gives no start or end time."
+  - "National Fried Chicken Sandwich Day, also called National Chicken Sandwich Day, falls on November 9 every year, according to Jollibee USA; in 2026 that was a Monday and in 2027 it is a Tuesday."
+  - "Jollibee Rewards members got a Buy One, Get One chicken sandwich (Original or Spicy) on Monday, Nov. 9, 2026, online and in-store, as a one-day-only perk."
+  - "The offer required Jollibee Rewards membership and carried terms and conditions; Jollibee's page gave no start or end time."
   - "No other brand's own page could be confirmed for Nov. 9, so no other offer is listed as a deal."
 faq:
-  - q: "Is the Jollibee chicken sandwich offer free?"
-    a: "No. It is a Buy One, Get One offer, so the first sandwich is bought. Jollibee's page says nothing about a free sandwich without a purchase."
-  - q: "Can someone who is not a Jollibee Rewards member use the offer?"
-    a: "Jollibee's page says \"You must be a Jollibee Rewards member to receive the offer.\" Membership is the stated requirement."
-  - q: "Does the offer work for ordering online?"
-    a: "Yes. Jollibee's page says the one-day-only perk \"is valid online and in-store.\" It does not say whether third-party delivery apps count, so check the terms and conditions."
-  - q: "What time does the Nov. 9 offer start and end?"
+  - q: "Was the Jollibee chicken sandwich offer free?"
+    a: "No. It was a Buy One, Get One offer, so the first sandwich was bought. Jollibee's page says nothing about a free sandwich without a purchase."
+  - q: "Could someone who was not a Jollibee Rewards member use the offer?"
+    a: "Jollibee's page says \"You must be a Jollibee Rewards member to receive the offer.\" Membership was the one requirement the page named."
+  - q: "Did the offer work for ordering online?"
+    a: "Yes. Jollibee's page says the one-day-only perk \"is valid online and in-store.\" It does not say whether third-party delivery apps counted."
+  - q: "What time did the Nov. 9 offer start and end?"
     a: "Jollibee's page does not say. No other time for any brand is confirmed here."
+  - q: "When is National Chicken Sandwich Day in 2027?"
+    a: "Jollibee USA says the day falls on November 9 every year, which is Tuesday, Nov. 9, 2027."
   - q: "Is this the same day as Fried Chicken Day in July?"
     a: "No. The Jollibee page puts National Fried Chicken Sandwich Day on November 9. A separate July 6 Fried Chicken Day appeared in a Sporked roundup published July 5, 2026, and its deals are not part of this page."
 sources:
   - title: "National Fried Chicken Sandwich Day 2026 | Jollibee USA"
     url: "https://www.jollibeefoods.com/national-fried-chicken-sandwich-day"
     publisher: "Jollibee USA"
+    date: "2026-11-14"
   - title: "(Almost) Every Deal for National Fried Chicken Day 2026"
     url: "https://sporked.com/article/almost-every-deal-for-national-fried-chicken-day-2026/"
     publisher: "Sporked"
@@ -52,14 +55,14 @@ assets:
   overlay: true
   kicker: "Chicken Sandwich Day · Mon., Nov. 9, 2026"
   date: "2026-11-09"
-  card: { top: "Jollibee Rewards members get", big: "BOGO", bottom: "Original or Spicy, online and in-store" }
+  card: { top: "Jollibee Rewards members got", big: "BOGO", bottom: "Original or Spicy, online and in-store" }
   printable:
     kit: fact-table
     slug: chicken-sandwich-day-2026-jollibee-offer-facts
     group: chicken-sandwich-day-2026
     title: "Chicken Sandwich Day 2026: The Jollibee Offer"
-    subtitle: "What Jollibee USA confirms for Monday, Nov. 9, 2026"
-    note: "Source: Jollibee USA, National Fried Chicken Sandwich Day 2026 page. Terms and conditions apply; the page lists no hours."
+    subtitle: "What Jollibee USA confirmed for Monday, Nov. 9, 2026"
+    note: "Source: Jollibee USA, National Fried Chicken Sandwich Day 2026 page, checked Nov. 14, 2026. Terms and conditions applied; the page listed no hours."
     description: "A one-page sheet of the Jollibee Rewards Buy One, Get One chicken sandwich offer on Monday, Nov. 9, 2026, with who qualifies and where it is valid."
     alt: "Printable sheet of the Jollibee Rewards chicken sandwich offer for Nov. 9, 2026"
     data:
@@ -98,13 +101,13 @@ downloads:
 draft: false
 ---
 
-**National Fried Chicken Sandwich Day, also called National Chicken Sandwich Day, falls on November 9 every year, according to Jollibee USA, and on Monday, Nov. 9, 2026, Jollibee Rewards members get a Buy One, Get One (BOGO) chicken sandwich, Original or Spicy.** The company's own page calls it a "one-day-only perk" that is "valid online and in-store." It gives no hours.
+**National Fried Chicken Sandwich Day, also called National Chicken Sandwich Day, falls on November 9 every year, according to Jollibee USA, and on Monday, Nov. 9, 2026, Jollibee Rewards members got a Buy One, Get One (BOGO) chicken sandwich, Original or Spicy.** The company's own page calls it a "one-day-only perk" that is "valid online and in-store." It gave no hours.
 
-That is the one offer in this story that a brand itself confirms. The printable below keeps it on one sheet with the fine print, and the November 2026 calendar has room to mark the day.
+That was the one offer in this story that a brand itself confirmed. The printable below keeps it on one sheet with the fine print. Next year the day is Tuesday, Nov. 9, 2027, since Jollibee USA puts it on November 9 every year; the weekday is our calculation.
 
-## What does Jollibee confirm for Nov. 9, 2026?
+## What did Jollibee confirm for Nov. 9, 2026?
 
-Jollibee USA's page, titled "National Fried Chicken Sandwich Day 2026," states each condition in its own sentence. We list them as the page words them.
+Jollibee USA's page, titled "National Fried Chicken Sandwich Day 2026," listed each condition in its own sentence. We list them as the page words them.
 
 | Item | What Jollibee USA says |
 |---|---|
@@ -116,23 +119,23 @@ Jollibee USA's page, titled "National Fried Chicken Sandwich Day 2026," states e
 | Fine print | "Terms and conditions apply." |
 | Hours | Not listed |
 
-Because the offer is Buy One, Get One, a sandwich is bought to get the second. Nothing on the page describes it as free.
+Because the offer was Buy One, Get One, a sandwich was bought to get the second. Nothing on the page describes it as free.
 
-## Which other brands have Nov. 9 chicken sandwich deals?
+## Which other brands had Nov. 9 chicken sandwich deals?
 
-None is confirmed here. One national chain's website returned a service error and Wingstop's homepage did not show an offer when we checked, so neither brand's own page could be used. Deal roundups name other chains, but a roundup is not the brand, and a chain's terms (membership, minimum order, app or website, expiry) decide whether a deal is worth a trip.
+None was confirmed. One national chain's website returned a service error and Wingstop's homepage did not show an offer when we checked, so neither brand's own page could be used. Deal roundups named other chains, but a roundup is not the brand.
 
 Chicken sandwich roundups also mix two days. The Jollibee page puts the sandwich day on November 9. A Sporked roundup published July 5, 2026, covers a different celebration, National Fried Chicken Day, which it places on July 6. Deals from that day do not apply on Nov. 9.
 
-## How to claim the Jollibee offer
+## How the Jollibee offer worked
 
-1. Check that you are a Jollibee Rewards member; the page makes membership a requirement.
-2. Order on Monday, Nov. 9, 2026, online or in-store; the page says the perk works in both.
+1. Be a Jollibee Rewards member; the page made membership a requirement.
+2. Order on Monday, Nov. 9, 2026, online or in-store; the page said the perk worked in both.
 3. Pick the Original or Spicy chicken sandwich, the two versions the page names.
-4. Read the terms and conditions, which the page says apply; it gives no time of day.
+4. Follow the terms and conditions, which the page said applied; it gave no time of day.
 
-The offer's end time is the open question. If a store or app shows a cutoff, that is the rule to follow; Jollibee's page does not set one.
+The offer's end time was never stated on Jollibee's page.
 
 ## Where Nov. 9 falls on the calendar
 
-Nov. 9, 2026 is a Monday, and Nov. 8 is a Sunday, so the offer is a weekday one. Two days later is Veterans Day, and the deals brands post for that day are in our [Veterans Day free meals and discounts](/news/veterans-day-free-meals-discounts/) list. Other November food dates sit in the [holiday menus tracker](/news/holiday-menus-2026-every-chain-tracker/), and the full month is in [November 2026 important dates](/news/november-2026-important-dates-days-until/).
+Nov. 9, 2026 was a Monday, so the offer was a weekday one. Two days later was Veterans Day, and the deals brands posted for that day are in our [Veterans Day free meals and discounts](/news/veterans-day-free-meals-discounts/) list. Other November food dates sit in the [holiday menus tracker](/news/holiday-menus-2026-every-chain-tracker/), and the full month is in [November 2026 important dates](/news/november-2026-important-dates-days-until/).

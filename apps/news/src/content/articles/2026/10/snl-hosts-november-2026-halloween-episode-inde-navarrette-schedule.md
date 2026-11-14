@@ -3,16 +3,17 @@ title: "SNL Hosts November 2026: Druski Nov. 7, John Mulaney Nov. 14"
 description: "Saturday Night Live (SNL) hosts for November 2026: Druski on Nov. 7 with The Strokes, John Mulaney on Nov. 14. Every season 52 host and a free printable."
 type: news
 publishedAt: "2026-10-29T10:08:00-04:00"
-updatedAt: "2026-11-01T02:42:00-05:00"
+updatedAt: "2026-11-14T18:50:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["who is hosting snl this week", "snl host october 31 2026", "snl hosts november 2026", "snl season 52 hosts"]
 assets:
   overlay: true
-  kicker: "SNL Season 52 · Sat., Oct. 31, 2026"
-  date: "2026-10-31"
-  card: { top: "Inde Navarrette hosts SNL", big: "Sat., Oct. 31", bottom: "11:30 p.m. ET on NBC, with Gracie Abrams" }
+  kicker: "SNL Season 52 · November 2026"
+  date: "2026-11-14"
+  card: { top: "SNL hosts in November", big: "Nov. 7 and Nov. 14", bottom: "Druski, then John Mulaney, 11:30 p.m. ET" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: snl-season-52-host-tracker-fall-2026
     group: snl-season-52-2026
     title: "SNL Season 52 Host Tracker, Fall 2026"
@@ -34,7 +35,7 @@ assets:
 hero:
   src: ../../../../assets/news/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule.webp
   alt: "SNL hosts November 2026: 30 Rockefeller Plaza in New York, home of NBC and Saturday Night Live, seen from Fifth Avenue"
-  caption: "30 Rockefeller Plaza, where NBC produces Saturday Night Live, seen in August 2024. File photo. Inde Navarrette hosts on Oct. 31, 2026."
+  caption: "30 Rockefeller Plaza, where NBC produces Saturday Night Live, seen in August 2024. File photo. Inde Navarrette hosted on Oct. 31, 2026."
   credit: "Photo: D. Benjamin Miller / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
@@ -42,17 +43,17 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:30_Rockefeller_Plaza_viewed_from_5th_Avenue,_August_29,_2024.jpg"
     author: "D. Benjamin Miller"
 summary:
-  - "Druski hosts Saturday Night Live (SNL) next on Saturday, Nov. 7, 2026, with The Strokes as musical guest, per NBC Insider."
-  - "Inde Navarrette hosted the Halloween episode on Oct. 31 with Gracie Abrams, and John Mulaney hosts Nov. 14 with Phoebe Bridgers."
+  - "Druski hosted Saturday Night Live (SNL) on Saturday, Nov. 7, 2026, with The Strokes as musical guest, and John Mulaney hosts Nov. 14 with Phoebe Bridgers, per NBC Insider."
+  - "Inde Navarrette hosted the Halloween episode on Oct. 31 with Gracie Abrams."
   - "NBC lists Saturdays at 11:30 p.m. Eastern Time (ET) on NBC, with Peacock carrying the episode the next day."
   - "Hosts and musical guests for Nov. 21 and Nov. 28 are not yet announced by NBC."
 faq:
-  - q: "Who is hosting SNL this week?"
-    a: "NBC Insider says Druski hosts Saturday Night Live on Saturday, Nov. 7, 2026, with The Strokes as musical guest. Inde Navarrette hosted the Oct. 31 Halloween episode with Gracie Abrams."
+  - q: "Who is hosting SNL on Nov. 14, 2026?"
+    a: "NBC Insider lists John Mulaney with Phoebe Bridgers as musical guest on Saturday, Nov. 14, 2026. Druski hosted on Nov. 7 with The Strokes, and Inde Navarrette hosted the Oct. 31 Halloween episode with Gracie Abrams."
   - q: "What time is SNL on NBC?"
     a: "NBC lists Saturdays at 11:30 p.m. Eastern Time (ET) on NBC. Check your local NBC listings for the time where you live."
-  - q: "Who hosts SNL on Nov. 7 and Nov. 14, 2026?"
-    a: "NBC Insider lists Druski with The Strokes on Nov. 7, and John Mulaney with Phoebe Bridgers on Nov. 14."
+  - q: "Who hosted SNL on Nov. 7, 2026?"
+    a: "Druski, with The Strokes as musical guest, according to NBC Insider's schedule."
   - q: "Who hosts SNL on Nov. 21 and Nov. 28, 2026?"
     a: "Not yet announced by NBC. The printable has blank rows for both dates."
   - q: "Where can I watch SNL the next day?"
@@ -65,11 +66,11 @@ sources:
   - title: "Every Host of Saturday Night Live Season 52 for 2026-2027"
     url: "https://www.nbc.com/nbc-insider/every-season-52-snl-host-2026-2027"
     publisher: "NBC Insider"
-    date: "2026-10-22"
+    date: "2026-11-14"
   - title: "Get to Know Every Musical Guest of Saturday Night Live Season 52"
     url: "https://www.nbc.com/nbc-insider/every-snl-musical-guest-season-52"
     publisher: "NBC Insider"
-    date: "2026-10-22"
+    date: "2026-11-14"
   - title: "Everything to Know About Saturday Night Live Season 52"
     url: "https://www.nbc.com/nbc-insider/saturday-night-live-season-52-everything-to-know"
     publisher: "NBC Insider"
@@ -100,9 +101,7 @@ downloads:
 draft: false
 ---
 
-**Druski hosts Saturday Night Live (SNL) next, on Saturday, Nov. 7, 2026, at 11:30 p.m. Eastern Time (ET) on NBC, with The Strokes as musical guest, according to NBC Insider; Inde Navarrette hosted the Halloween episode on Oct. 31 with Gracie Abrams.** The tables below list every season 52 host announced so far, with weekday dates, and a free printable tracker follows them.
-
-<p class="callout"><b>Checked Nov. 1, 2026.</b> NBC has not yet announced the hosts or musical guests for Nov. 21 and Nov. 28. We will update this story when it does.</p>
+**John Mulaney hosts Saturday Night Live (SNL) on Saturday, Nov. 14, 2026, at 11:30 p.m. Eastern Time (ET) on NBC, with Phoebe Bridgers as musical guest, according to NBC Insider; Druski hosted on Nov. 7 with The Strokes, and Inde Navarrette hosted the Halloween episode on Oct. 31 with Gracie Abrams.** The tables below list every season 52 host announced so far, with weekday dates, and a free printable tracker follows them. NBC has not yet announced the hosts or musical guests for Nov. 21 and Nov. 28.
 
 ## Who hosted SNL on Oct. 31, 2026?
 
@@ -133,7 +132,7 @@ NBC's Aug. 11, 2026 season guide says season 52 premiered on Sept. 26, 2026 with
 
 ## Who hosts SNL in November 2026?
 
-Druski hosts on Nov. 7 with The Strokes, and John Mulaney hosts on Nov. 14 with Phoebe Bridgers. NBC Insider says The Strokes "will perform as Musical Guests for their fifth time during the November 7 episode hosted by Druski." It calls Bridgers' Nov. 14 slot her "second solo Musical Guest appearance."
+Druski hosted on Nov. 7 with The Strokes, and John Mulaney hosts on Nov. 14 with Phoebe Bridgers. NBC Insider says The Strokes "will perform as Musical Guests for their fifth time during the November 7 episode hosted by Druski." It calls Bridgers' Nov. 14 slot her "second solo Musical Guest appearance."
 
 ## Print the SNL season 52 host tracker
 
@@ -141,4 +140,4 @@ The printable lists each announced date with its host and musical guest. It leav
 
 ## How we keep this accurate
 
-Hosts, musical guests and the air time come from the NBC Insider pages linked in the sources, checked Nov. 1, 2026. NBC can change a host or date, and this story and the printable will change with it.
+Hosts, musical guests and the air time come from the NBC Insider pages linked in the sources, checked Nov. 14, 2026. NBC can change a host or date, and this story and the printable will change with it.

@@ -68,7 +68,7 @@ sources:
   - title: "When do the College Football Playoff rankings come out? Release dates and schedule"
     url: "https://www.ncaa.com/news/football/article/2026-08-11/when-do-college-football-playoff-rankings-come-out"
     publisher: "NCAA.com"
-    date: "2026-11-10"
+    date: "2026-08-27"
   - title: "Miami, Georgia lead the first College Football Playoff rankings of 2026"
     url: "https://www.ncaa.com/news/football/article/2026-11-03/miami-georgia-lead-first-college-football-playoff-rankings-2026"
     publisher: "NCAA.com"
@@ -81,7 +81,7 @@ sources:
     url: "https://www.collegefootballplayoff.com/rankings"
     publisher: "College Football Playoff"
     date: "2026-11-14"
-  - title: "College Football Playoff sets 2026 rankings
+  - title: "College Football Playoff sets 2026 rankings release schedule"
     url: "https://fbschedules.com/college-football-playoff-sets-2026-rankings-release-schedule/"
     publisher: "FBSchedules.com"
   - title: "College Football Playoff sets 2026-27 schedule, kickoff times, TV designations"
