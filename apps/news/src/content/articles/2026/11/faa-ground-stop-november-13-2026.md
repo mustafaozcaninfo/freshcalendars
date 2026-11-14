@@ -1,9 +1,9 @@
 ---
-title: "FAA Ground Stop Today: All U.S. Airports Held at 3:54 p.m. ET"
-description: "The Federal Aviation Administration (FAA) ground-stopped all U.S. airports at 3:54 p.m. ET Nov. 13, 2026. See the order's times by zone and the FAA map."
+title: "FAA Ground Stop Lifted After 4 Hours; Flights Resuming"
+description: "The Federal Aviation Administration (FAA) lifted its nationwide ground stop Friday after more than four hours. See the timeline and state-by-state times."
 type: news
 publishedAt: "2026-11-13T16:32:00-05:00"
-updatedAt: "2026-11-13T20:19:00-05:00"
+updatedAt: "2026-11-13T20:29:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["faa ground stop today", "nationwide ground stop", "faa ground stop map", "faa flight delays today", "when will flights resume"]
@@ -25,13 +25,13 @@ hero:
     author: "Ad Meskens"
     authorUrl: "https://commons.wikimedia.org/wiki/User:AdMeskens"
 summary:
-  - "The Federal Aviation Administration (FAA) sent a National Ground Stop advisory, number 111, at 3:54 p.m. ET on Friday, Nov. 13, 2026. It says all airports are ground stopped and departing traffic should stay on the ground until further notice."
+  - "The Federal Aviation Administration (FAA) lifted its nationwide ground stop on Friday evening, Nov. 13, 2026, more than four hours after it began, ABC News and CNBC reported. The FAA had sent National Ground Stop advisory 111 at 3:54 p.m. ET, holding all departing traffic on the ground."
   - "The advisory lists an event time that ends at 0400 UTC on Nov. 14, which is 11 p.m. ET on Nov. 13. That is the planning window on the notice, and the order itself runs until further notice."
   - "The FAA's reason on the national advisory is \"extraordinary circumstances and for reasons of safety.\" Transportation Secretary Sean Duffy said it followed a communication issue at all air route traffic control centers. Homeland Security Secretary Markwayne Mullin said there was no sign of \"a nefarious act\" and called it a telecommunication outage, CBS News and NBC News reported."
   - "Inbound international flights are managed case by case, the advisory says. A ground stop holds flights at the departure airport; it does not cancel them."
 faq:
   - q: "Is the FAA ground stop still in effect?"
-    a: "As of 8:19 p.m. ET on Nov. 13, 2026, no FAA advisory had cancelled the national ground stop. In its advisory 120 at 5:46 p.m. ET, the FAA said the ground stop remained in effect and that flights would be allowed to depart as en route facilities recovered, coordinated through its command center, and that it expected to update the status at 11 p.m. ET. The order runs until further notice, so look for a later advisory with a cancellation in its title."
+    a: "No. The FAA lifted the national ground stop on the evening of Friday, Nov. 13, 2026, more than four hours after it began at 3:54 p.m. ET. ABC News and CNBC reported the nationwide ground stop was over, ABC News putting the lift at about 8:10 p.m. ET, and the FAA's status page showed no nationwide program. Airlines said flight cancellations would continue into Saturday, Nov. 14, so check your flight in the airline's app."
   - q: "Where is the FAA ground stop map?"
     a: "The FAA's National Airspace System Status page at nasstatus.faa.gov has a map view, a list view and a tile view of airports with ground stops, ground delays, departure delays and closures."
   - q: "Does a ground stop mean my flight is canceled?"
@@ -81,6 +81,10 @@ sources:
     url: "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247"
     publisher: "NBC News"
     date: "2026-11-13"
+  - title: "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend"
+    url: "https://www.cnbc.com/2026/11/13/faa-ground-stop.html"
+    publisher: "CNBC"
+    date: "2026-11-13"
   - title: "Live updates: FAA issues sudden and stunning ground stop for all flights"
     url: "https://www.nbcnews.com/news/us-news/live-blog/live-updates-flights-grounded-faa-communications-outage-rcna609268"
     publisher: "NBC News"
@@ -98,7 +102,7 @@ related: [thanksgiving-travel-2026-best-days-to-fly-and-drive, christmas-travel-
 draft: false
 ---
 
-**The Federal Aviation Administration (FAA) ground-stopped all U.S. airports at 3:54 p.m. ET on Friday, Nov. 13, 2026.** Its National Ground Stop advisory, number 111, tells every aircraft operator that departing traffic should stay on the ground until further notice. NBC News and ABC News reported the order within minutes.
+**The Federal Aviation Administration (FAA) ground-stopped all U.S. airports at 3:54 p.m. ET on Friday, Nov. 13, 2026, and lifted the order that evening, more than four hours later.** Its National Ground Stop advisory, number 111, had told every aircraft operator that departing traffic should stay on the ground until further notice; ABC News reported the FAA said the nationwide stop was over by about 8:10 p.m. ET, and the FAA's status page no longer listed a nationwide program. Airlines said cancellations would continue into Saturday, Nov. 14.
 
 The advisory is four sentences long. The times on it are in Coordinated Universal Time (UTC), which pilots call Zulu, so the tables further down convert them for each U.S. time zone and for all 50 states.
 
@@ -106,6 +110,7 @@ The advisory is four sentences long. The times on it are in Coordinated Universa
 
 Newest first. Times are ET and each entry says where it comes from.
 
+- **8:29 p.m.** The FAA lifted the national ground stop. ABC News reported that the FAA said the nationwide ground stop was over, more than four hours after it began, putting the lift at about 8:10 p.m. On the FAA status page the nationwide program and the equipment-tied delays had cleared: the Chicago O'Hare International Airport (ORD) departure delay no longer appeared, and the page listed only routine ground delays for wind or volume at Boston, LaGuardia, San Diego and San Francisco, with Ronald Reagan Washington National Airport (DCA) and Fort Lauderdale-Hollywood International Airport (FLL) still closed to diverted aircraft into the night. Airlines said cancellations would carry into Saturday, Nov. 14.
 - **8:19 p.m.** The national ground stop was still in effect, with no official restart time and no advisory cancelling it. The FAA status page showed the departure delay at Chicago O'Hare International Airport (ORD) back up to an average of 300 minutes and rising, its reason field giving an FAA equipment problem, as of about 8:07 p.m.; Ronald Reagan Washington National Airport (DCA) and Fort Lauderdale-Hollywood International Airport (FLL) stayed closed to diverted aircraft, and the routine ground delays for wind or volume at Boston, LaGuardia, San Diego and San Francisco were unchanged. NBC News still described the stop as in effect and running through at least 11 p.m. ET.
 - **8:09 p.m.** The national ground stop was still in effect, with no official restart time. Even with the stop in place, the FAA had been clearing some overwater departures case by case: San Francisco International Airport (SFO) said Pacific-bound flights, including toward Hawaii and Asia, had been allowed to leave, NBC News and the San Francisco Standard reported. The FAA status page still showed the Hartsfield-Jackson Atlanta International Airport (ATL) departure delay averaging 180 minutes, its reason field tying it to the national stop, and the advisory database still returned no advisories for the day, which is not a cancellation.
 - **7:54 p.m.** The national order had still not been cancelled; a White House official said President Donald Trump was being kept updated and that the stop would run through at least 11 p.m. ET, NBC News reported. The FAA status page showed a departure delay at Hartsfield-Jackson Atlanta International Airport (ATL) averaging 180 minutes and still rising, with the reason given as the national ground stop, and listed Ronald Reagan Washington National Airport (DCA) and Fort Lauderdale-Hollywood International Airport (FLL) as closed to diverted aircraft; routine ground delays for wind or volume remained at Boston, LaGuardia, San Diego and San Francisco. The tracking site FlightAware counted 10,079 U.S. flight delays and 4,238 cancellations as of 7:30 p.m., NBC News reported, well above the roughly 1,024 cancellations the day before.
@@ -246,9 +251,9 @@ To read the advisories themselves:
 
 ## When flights will resume after the ground stop
 
-The FAA had not announced a full restart time as of 8:19 p.m. ET on Nov. 13, and no official had said the national order was lifted. The FAA's own advisory keeping the stop in place, number 120 at 5:46 p.m. ET, said the ground stop remained in effect and that "as enroute facilities recover, flights will be allowed to depart" through coordination with its command center, a gradual resumption rather than a single all-clear. That advisory said the FAA expected to update the status at 11 p.m. ET (0400 UTC), and NBC News reported that a White House official expected the stop to run through at least 11 p.m. An NBC News post at 7:01 p.m. said the FAA had given no timeline for restarting flights. The FAA status page still reflected the disruption into the evening: at about 8:07 p.m. it showed the departure delay at Chicago O'Hare International Airport (ORD) back up to an average of 300 minutes and rising, its reason field giving an FAA equipment problem, with Ronald Reagan Washington National Airport (DCA) and Fort Lauderdale-Hollywood International Airport (FLL) still closed to diverted aircraft. The advisory database still returned no advisories for the day, which is not a cancellation. Even with the stop in place, the FAA was releasing some overwater departures case by case, such as Pacific-bound flights from San Francisco toward Hawaii and Asia, NBC News and the San Francisco Standard reported.
+The FAA lifted the national ground stop on Friday evening, more than four hours after it began at 3:54 p.m. ET. ABC News reported that the FAA said the nationwide ground stop was over, putting the lift at about 8:10 p.m. ET. By about 8:26 p.m. the FAA's National Airspace System status page no longer listed any nationwide program or equipment-tied delay: the departure delay at Chicago O'Hare International Airport (ORD) had cleared, and the page showed only routine ground delays for wind or volume at Boston, LaGuardia, San Diego and San Francisco, with Ronald Reagan Washington National Airport (DCA) and Fort Lauderdale-Hollywood International Airport (FLL) still closed to diverted aircraft into the night. Earlier, the FAA's advisory keeping the stop in place, number 120 at 5:46 p.m. ET, had said flights would be allowed to depart as en route facilities recovered, through coordination with its command center, a gradual resumption rather than a single all-clear.
 
-A restart is gradual. After a ground stop ends, aircraft and crews are out of position, and airports release held flights in order. Friday evening departures and Saturday morning flights on Nov. 14 can run late even after the order is lifted. The FAA has not published delay or cancellation counts for this event, and none are given here.
+A restart is gradual. After a ground stop ends, aircraft and crews are out of position, and airports release held flights in order. Friday evening departures and Saturday morning flights on Nov. 14 can run late even after the order is lifted. Airlines told travelers to expect cancellations to continue into Saturday, so check the flight number in the airline's app before leaving for the airport.
 
 ## What travelers should do during the ground stop
 
