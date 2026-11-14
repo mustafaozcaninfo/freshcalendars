@@ -195,7 +195,7 @@ Britbrief (28 October) and Foodbible (29 October) both report that the Gravymas 
 
 ## Wetherspoon Christmas menu dates
 
-The Wetherspoon website says: "The Christmas menu will be available at Wetherspoon's pubs from Thursday 12 November until Thursday 31 December" (excluding Christmas Day). The banner prints no year. Both weekdays match 2026, and the feature it links to is titled "christmas-at-wetherspoon-2026". Dishes and prices are not confirmed.
+The Wetherspoon website says: "The Christmas menu will be available at Wetherspoon's pubs from Thursday 12 November until Thursday 31 December" (excluding Christmas Day). The banner prints no year. Both weekdays match 2026, and the feature it links to is titled "christmas-at-wetherspoon-2026". Our [Wetherspoon Christmas menu 2026 story](/news/wetherspoon-christmas-menu-2026/) lists the dishes the page names; prices are not confirmed.
 
 ## Supermarket Christmas meal deals
 
