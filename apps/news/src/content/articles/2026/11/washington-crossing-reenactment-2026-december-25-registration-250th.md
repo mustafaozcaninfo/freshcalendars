@@ -60,7 +60,7 @@ internalLinks:
     label: "When is Christmas?"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [christmas-tree-lightings-2026-dates-times-nyc-dc-boston, christmas-day-2026-games-nba-nfl-schedule-times-tv, christmas-2026-calendar-printable-countdown]
+related: [battle-of-trenton-princeton-250th-reenactments-december-26-27-2026, christmas-tree-lightings-2026-dates-times-nyc-dc-boston, christmas-2026-calendar-printable-countdown]
 downloads:
   - group: "Washington Crossing Park Events printables"
     title: "Washington Crossing Park Events, Dec. 6, 2026 to Jan. 2, 2027"
