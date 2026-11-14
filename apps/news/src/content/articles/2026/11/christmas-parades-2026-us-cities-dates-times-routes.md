@@ -127,7 +127,7 @@ The table below puts the five in date order with each local start time, our East
 | Sun., Nov. 29 | Hollywood Christmas Parade | Not announced | Not announced | Not posted as text; the organizer shows a map image | TV for 2026 not announced |
 | Sat., Dec. 5 | Denver, 9NEWS Parade of Lights | Step-off not posted; telecast 6 p.m. to 7 p.m. Mountain Time (MT) | Telecast 8 p.m. to 9 p.m. ET | Not labeled on the 2026 map | Live on 9NEWS |
 | Sat., Dec. 5 | Dallas Holiday Parade | 8:30 a.m. CT | 9:30 a.m. ET | Downtown Dallas; route not posted | No 2026 channel or air time named |
-| Sat., Dec. 12 | Fort Lauderdale, Seminole Hard Rock Winterfest Boat Parade | 6 p.m. to 8:30 p.m. ET | 6 p.m. to 8:30 p.m. ET | Stranahan House | Viewing areas by ticket; livestream on YouTube and Facebook; TV special on WSVN 7 in South Florida Fri., Dec. 18, 7 p.m. to 8 p.m. |
+| Sat., Dec. 12 | Fort Lauderdale, Seminole Hard Rock Winterfest Boat Parade | 6 p.m. to 8:30 p.m. ET | 6 p.m. to 8:30 p.m. ET | Stranahan House | Viewing areas by ticket; livestream on YouTube and Facebook; TV special on Channel 7 in South Florida Fri., Dec. 18, 7 p.m. to 8 p.m. |
 
 The Eastern Time column is our conversion from the organizers' local times: Chicago and Dallas are one hour ahead of their Central Time, and Denver's telecast is two hours ahead of Mountain Time.
 
@@ -163,7 +163,7 @@ The organizer lists Saturday, Dec. 5, 2026, with a step-off at 8:30 a.m. CT in d
 
 ## Fort Lauderdale Winterfest Boat Parade: viewing and route
 
-The Seminole Hard Rock Winterfest Boat Parade is Saturday, Dec. 12, 2026, from 6:00 p.m. to 8:30 p.m. ET, with a pre-show of non-motorized vessels at 5:30 p.m. The organizer says it starts at Stranahan House, travels east along the New River in Fort Lauderdale to the Intracoastal Waterway, and continues north to Lake Santa Barbara in Pompano Beach. The ticket page lists the Parade Viewing Area at $30.00 through $60.00. The page lists a livestream on YouTube and Facebook on parade day, and a television special on WSVN 7 in South Florida on Friday, Dec. 18, from 7:00 p.m. to 8:00 p.m. (air times subject to change, the page says), with repeats on Dec. 25 and Jan. 1. Boat parades in Seattle, Marina del Rey, San Diego and Newport Beach are in our [boat parades 2026 story](/news/holiday-boat-parades-2026-dates-times-by-city/).
+The Seminole Hard Rock Winterfest Boat Parade is Saturday, Dec. 12, 2026, from 6:00 p.m. to 8:30 p.m. ET, with a pre-show of non-motorized vessels at 5:30 p.m. The organizer says it starts at Stranahan House, travels east along the New River in Fort Lauderdale to the Intracoastal Waterway, and continues north to Lake Santa Barbara in Pompano Beach. The ticket page lists the Parade Viewing Area at $30.00 through $60.00. The page lists a livestream on YouTube and Facebook on parade day, and a television special on Channel 7 in South Florida on Friday, Dec. 18, from 7:00 p.m. to 8:00 p.m. (air times subject to change, the page says), with repeats on Dec. 25 and Jan. 1. Boat parades in Seattle, Marina del Rey, San Diego and Newport Beach are in our [boat parades 2026 story](/news/holiday-boat-parades-2026-dates-times-by-city/).
 
 ## What is not posted yet for the Christmas parades?
 

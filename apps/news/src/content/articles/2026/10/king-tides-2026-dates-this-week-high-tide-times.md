@@ -3,7 +3,7 @@ title: "King Tides Schedule 2026: California Nov. 24-26, Dec. 23-25"
 description: "The 2026 California king tides schedule: Nov. 24-26, Dec. 23-25 and Jan. 21-22, 2027. San Francisco's high tide is predicted at 7.03 feet on Nov. 25."
 type: news
 publishedAt: "2026-10-27T07:45:00-04:00"
-updatedAt: "2026-11-07T07:20:00-05:00"
+updatedAt: "2026-11-14T15:12:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["king tides 2026", "king tide dates 2026", "king tides this week", "California king tides November 2026", "when are king tides"]
@@ -47,6 +47,7 @@ sources:
   - title: "California King Tides Project"
     url: "https://www.coastal.ca.gov/KingTides/"
     publisher: "California Coastal Commission"
+    date: "2026-11-14"
   - title: "What is a King Tide?"
     url: "https://oceanservice.noaa.gov/facts/kingtide.html"
     publisher: "NOAA National Ocean Service"
@@ -54,6 +55,7 @@ sources:
   - title: "Tide predictions (API, high and low, datum MLLW)"
     url: "https://tidesandcurrents.noaa.gov/"
     publisher: "NOAA Tides & Currents"
+    date: "2026-11-14"
   - title: "The Battery, NY (station 8518750): tide predictions, Dec. 23-25, 2026 and Jan. 21-23, 2027"
     url: "https://tidesandcurrents.noaa.gov/stationhome.html?id=8518750"
     publisher: "NOAA Tides & Currents"
@@ -80,7 +82,7 @@ assets:
     columns: ["Date", "High tide (feet above MLLW)"]
     layout: list
     rows:
-      - ["Sat., Nov. 14, 2026", "Rising Tides event, Ferry Plaza, San Francisco, 1-4 p.m."]
+      - ["Sun., Nov. 22, 2026", "King Tides Walk and litter clean-up, Alviso, 9:30 a.m.-noon"]
       - ["Tue., Nov. 24, 2026", "SF 6.94 ft at 10:05 a.m. PST; Seattle 11.93 ft at 5:08 a.m."]
       - ["Wed., Nov. 25, 2026", "SF 7.03 ft at 10:49 a.m. PST; Seattle 12.44 ft at 5:57 a.m."]
       - ["Thu., Nov. 26, 2026", "SF 6.95 ft at 11:38 a.m. PST; Seattle 12.67 ft at 6:48 a.m."]
@@ -186,12 +188,14 @@ No. The Coastal Commission says its dates are based on predicted astronomical ti
 
 ## Where can you watch king tides in California?
 
-The Commission asks the public to photograph king tides, because the photos help show how high water affects the coast and how sea level rise is changing the shoreline. Its page lists seven community events from Nov. 14, 2026 to Jan. 23, 2027, including:
+The Commission asks the public to photograph king tides, because the photos help show how high water affects the coast and how sea level rise is changing the shoreline. Its page lists nine community events from Nov. 14, 2026 to Jan. 23, 2027. The Nov. 14 "Rising Tides" event in San Francisco has taken place; events still ahead include:
 
 | Date | Event | Place | Time |
 |---|---|---|---|
-| Sat., Nov. 14, 2026 | "Rising Tides" education event (Exploratorium and Port of San Francisco) | Ferry Plaza, San Francisco | 1-4 p.m. |
+| Sun., Nov. 22, 2026 | King Tides Walk and litter clean-up | Don Edwards San Francisco Bay National Wildlife Refuge Environmental Education Center, Alviso | 9:30 a.m.-noon |
 | Tue., Nov. 24, 2026 | King Tides Walk | Don Edwards San Francisco Bay National Wildlife Refuge, Ravenswood Unit, Menlo Park | 10:30-11:30 a.m. |
+| Tue., Nov. 24, 2026 | King Tides at Famosa Slough | Famosa Slough, San Diego | 8:30-10:30 a.m. |
+| Wed., Nov. 25, 2026 | King Tide Hike | Tijuana River National Estuarine Research Reserve, Imperial Beach | 9-11 a.m. |
 | Sat., Jan. 23, 2027 | King Tides at the Baylands | Palo Alto Baylands | 11:30 a.m.-1:30 p.m. |
 
 Mark the days on our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html), and print the one-page list below.
