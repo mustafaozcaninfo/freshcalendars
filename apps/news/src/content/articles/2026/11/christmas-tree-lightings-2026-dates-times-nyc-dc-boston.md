@@ -135,11 +135,11 @@ This story puts the confirmed dates in one table, shows how to attend each in pe
 
 | City and tree | Date | Local time | Cost and tickets | How to see it in person | Source |
 |---|---|---|---|---|---|
-| New York, Rockefeller Center (reported) | Wed., Dec. 2 | 7 p.m. ET broadcast (reported) | Not stated in our sources | Tree on display through Jan. 9, 2027, seen from the Plaza or The Rink | amNY, NY1, TV Insider |
+| New York, Rockefeller Center (reported) | Wed., Dec. 2 | 7 p.m. ET broadcast (reported) | Not said in our sources | Tree on display through Jan. 9, 2027, seen from the Plaza or The Rink | amNY, NY1, TV Insider |
 | Washington, D.C., National Christmas Tree | Thu., Dec. 3 | Start time not announced | Free; no charge to enter the lottery or receive tickets | Lottery on Recreation.gov closed 3 p.m. ET Wed., Nov. 4; winners to be notified Thu., Nov. 12 | NPS (Oct. 19, 2026) |
 | Boston Common | Thu., Dec. 3 | 6 p.m. to 8 p.m. ET | Free | Free event at 139 Tremont Street | City of Boston |
 | Boston, Copley Square | Mon., Nov. 30 | 5 p.m. to 6 p.m. ET | Free | Free event at 560 Boylston Street | City of Boston |
-| Chicago, Millennium Park | Fri., Nov. 20 | Festivities 4 p.m.; ceremony 6 p.m.; lighting about 6:30 p.m. | Not stated in our sources | Millennium Park | City of Chicago |
+| Chicago, Millennium Park | Fri., Nov. 20 | Festivities 4 p.m.; ceremony 6 p.m.; lighting about 6:30 p.m. | Not said in our sources | Millennium Park | City of Chicago |
 | Los Angeles, The Grove | Mon., Nov. 16 | Not posted | Ticket terms not posted | Hosted by Lance Bass; terms not posted | The Grove |
 | Washington, D.C., U.S. Capitol Christmas Tree | Date to be announced | Lit each evening from dusk until 11 p.m. | Free, no ticket required | West Front Lawn, through early January 2027 | Architect of the Capitol (Nov. 2, 2026) |
 
