@@ -3,7 +3,7 @@ title: "Guru Nanak Jayanti 2026 Is Tuesday, Nov. 24: Purnima Times"
 description: "Guru Nanak Jayanti 2026 is Tuesday, Nov. 24, on India's central government holiday list. Purnima start and end times in Eastern and Pacific Time."
 type: explainer
 publishedAt: "2026-10-28T23:45:00-04:00"
-updatedAt: "2026-11-08T09:25:00-05:00"
+updatedAt: "2026-11-14T15:07:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Guru Nanak Jayanti 2026", "Gurpurab 2026 date", "Guru Nanak birthday 2026", "Guru Nanak Jayanti 2026 USA time"]
@@ -32,9 +32,9 @@ faq:
   - q: "How many years since Guru Nanak was born?"
     a: "Guru Nanak was born in 1469, so 2026 is the 557th anniversary by our count (2026 minus 1469)."
   - q: "Is Guru Nanak Jayanti a holiday in India in 2026?"
-    a: "It is a closed (compulsory) holiday for central government offices on the DoPT list. Banks are closed on Nov. 24 under the Negotiable Instruments Act in 21 of 34 Reserve Bank of India (RBI) regional office cities, including New Delhi, Mumbai, Kolkata, Chandigarh, Hyderabad, Jaipur and Lucknow, and open in Bengaluru, Chennai, Ahmedabad and 10 other cities, per the RBI holiday matrix read on Nov. 8, 2026. We did not check stock exchanges."
+    a: "It is a closed (compulsory) holiday for central government offices on the DoPT list. Banks are closed on Nov. 24 under the Negotiable Instruments Act in 21 of 34 Reserve Bank of India (RBI) regional office cities, including New Delhi, Mumbai, Kolkata, Chandigarh, Hyderabad, Jaipur and Lucknow, and open in Bengaluru, Chennai, Ahmedabad and 10 other cities, per the RBI holiday matrix read on Nov. 14, 2026. We did not check stock exchanges."
   - q: "When is Guru Nanak Jayanti 2027?"
-    a: "The 2027 date is not yet published on the official lists we found."
+    a: "The Department of Personnel and Training (DoPT) list for 2027, issued on 16 July 2026, includes Guru Nanak's Birthday as a compulsory holiday. People Matters and The Peoples Board, both reading the list, give the date as Sunday, Nov. 14, 2027."
 sources:
   - title: "AG Punjab Holiday List"
     url: "https://cag.gov.in/ag/punjab/en/page-ag-punjab-holiday-list"
@@ -50,7 +50,19 @@ sources:
   - title: "Holidays (Holiday Matrix, November 2026)"
     url: "https://www.rbi.org.in/Scripts/HolidayMatrixDisplay.aspx"
     publisher: "Reserve Bank of India"
-    date: "2026-11-08"
+    date: "2026-11-14"
+  - title: "List of Holidays 2027 to be observed in Central Government Offices, DoPT O.M. dated 16.07.2026"
+    url: "https://www.staffnews.in/2026/07/list-of-holidays-2027-to-be-observed-in-central-government-offices.html"
+    publisher: "StaffNews, reproducing the Department of Personnel and Training (DoPT) memorandum"
+    date: "2026-07-16"
+  - title: "Central government holiday list 2027: Key dates for business operations and employee leave"
+    url: "https://www.peoplematters.in/article/business/central-government-holiday-list-2027-key-dates-for-business-operations-and-employee-leave-52957"
+    publisher: "People Matters"
+    date: "2026-07-18"
+  - title: "Central Govt's 2027 Calendar: 17 Days Off, Five On Weekends"
+    url: "https://www.thepeoplesboard.com/news/central-government-holiday-list-2027-dopt/"
+    publisher: "The Peoples Board"
+    date: "2026-07-18"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -69,6 +81,7 @@ assets:
     group: guru-nanak-jayanti-2026
     title: "Guru Nanak Jayanti 2026 at a Glance"
     subtitle: "Date and Purnima times for Tuesday, Nov. 24, 2026"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     layout: list
     rows:
       - ["Mon., Nov. 23", "Purnima begins 1:12 p.m. ET, 10:12 a.m. PT, 6:12 p.m. GMT (per Drik Panchang)"]
@@ -131,7 +144,7 @@ For a reader in the Eastern, Central, Mountain or Pacific zones, the tithi ends 
 
 ## Is Guru Nanak Jayanti a holiday?
 
-In India it is a closed holiday for central government offices, as the DoPT list shows, and the Accountant General (Punjab) lists it among Punjab holidays. We did not check whether Indian stock exchanges are closed on Nov. 24. For banks, the Reserve Bank of India (RBI) holiday matrix for November 2026, read on Nov. 8, lists Nov. 24 as "Guru Nanak Jayanti/Karthika Purnima/Rahas Purnima", a "Holiday under Negotiable Instruments Act", in 21 of its 34 regional office cities. We found no official proclamation of the day in the United States, United Kingdom or Canada.
+In India it is a closed holiday for central government offices, as the DoPT list shows, and the Accountant General (Punjab) lists it among Punjab holidays. We did not check whether Indian stock exchanges are closed on Nov. 24. For banks, the Reserve Bank of India (RBI) holiday matrix for November 2026, read on Nov. 14, lists Nov. 24 as "Guru Nanak Jayanti/Karthika Purnima/Rahas Purnima", a "Holiday under Negotiable Instruments Act", in 21 of its 34 regional office cities. We found no official proclamation of the day in the United States, United Kingdom or Canada.
 
 ## Bank holiday on Nov. 24 by RBI city
 
@@ -156,7 +169,7 @@ Check your own gurdwara's notice board or website for the Akhand Path start, the
 
 ## When is Guru Nanak Jayanti 2027?
 
-The 2027 date is not yet published on the official lists we found. The festival follows the lunar calendar, so it moves against the Gregorian calendar each year. We will update this story when an official list is available.
+The DoPT list of holidays for 2027, issued as an Office Memorandum on 16 July 2026, includes Guru Nanak's Birthday as a compulsory holiday for central government offices. The StaffNews copy of the list gives the holiday names without the dates in its text. People Matters and The Peoples Board, both reading the memorandum, report the date as Sunday, Nov. 14, 2027, and say no substitute weekday applies. The festival follows the lunar calendar, so it moves against the Gregorian calendar each year.
 
 ## Planning around Guru Nanak Jayanti
 

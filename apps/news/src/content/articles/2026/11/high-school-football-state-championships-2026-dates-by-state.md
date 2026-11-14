@@ -3,7 +3,7 @@ title: "High School Football State Championships 2026: Nov. 21-Dec. 19"
 description: "High school football state championships 2026 run Nov. 21 to Dec. 19. State-by-state dates and stadiums, plus the states with no official date posted."
 type: news
 publishedAt: "2026-11-06T16:42:17-05:00"
-updatedAt: "2026-11-09T10:45:00-05:00"
+updatedAt: "2026-11-14T15:08:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["high school football state championships 2026", "texas high school football state championship 2026", "ghsa state championship 2026", "high school football state finals 2026 dates"]
@@ -20,9 +20,9 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:BullDawg2021"
 summary:
   - "Michigan's 8-player final is Saturday, Nov. 21, 2026, and its 11-player finals are Friday and Saturday, Nov. 27-28, per the Michigan High School Athletic Association (MHSAA)."
-  - "Alabama, Ohio, Tennessee and South Carolina play their state finals Dec. 2-5; Pennsylvania, North Carolina and Louisiana follow Dec. 10-12."
+  - "Alabama, Ohio, Tennessee and South Carolina play their state finals Dec. 2-5; Pennsylvania, North Carolina and Louisiana follow Dec. 10-12, and Virginia Dec. 11-12."
   - "Georgia plays Tuesday and Wednesday, Dec. 15-16, at Mercedes-Benz Stadium; Texas closes the season Wednesday to Saturday, Dec. 16-19, at AT&T Stadium in Arlington."
-  - "Louisiana plays Dec. 10-12 at the Caesars Superdome in New Orleans; Florida, California and nine other states had no readable official date on Nov. 8, so none is printed here."
+  - "Minnesota, Virginia and New Jersey also have official dates; Florida, California and five other states had no readable official date on Nov. 14, so none is printed here."
 faq:
   - q: "When is the Texas high school football state championship in 2026?"
     a: "Wednesday, Dec. 16, to Saturday, Dec. 19, 2026, at AT&T Stadium in Arlington, for classes 1A to 6A, according to the University Interscholastic League (UIL)."
@@ -36,11 +36,11 @@ sources:
   - title: "Football Championships - University Interscholastic League (UIL)"
     url: "https://www.uiltexas.org/football/state"
     publisher: "University Interscholastic League"
-    date: "2026-11-08"
+    date: "2026-11-14"
   - title: "Football | GHSA.net"
     url: "https://www.ghsa.net/football"
     publisher: "Georgia High School Association"
-    date: "2026-11-08"
+    date: "2026-11-14"
   - title: "Football playoff brackets set for 2026 series | TSSAA"
     url: "https://www.tssaa.org/article/football-playoff-brackets-set-for-2026-series"
     publisher: "Tennessee Secondary School Athletic Association"
@@ -48,15 +48,15 @@ sources:
   - title: "Football"
     url: "https://www.ahsaa.com/Sports/Fall/Football"
     publisher: "Alabama High School Athletic Association"
-    date: "2026-11-08"
+    date: "2026-11-14"
   - title: "2026 Football Calendar"
     url: "https://www.ohsaa.org/sports/football"
     publisher: "Ohio High School Athletic Association"
-    date: "2026-11-08"
+    date: "2026-11-14"
   - title: "2026 FOOTBALL CHAMPIONSHIP INFORMATION & RESULTS"
     url: "https://www.piaa.org/sports/football/championships/default.aspx"
     publisher: "Pennsylvania Interscholastic Athletic Association"
-    date: "2026-08-27"
+    date: "2026-11-14"
   - title: "South Carolina High School League"
     url: "https://www.schsl.org/"
     publisher: "South Carolina High School League"
@@ -64,15 +64,15 @@ sources:
   - title: "Football"
     url: "https://www.nchsaa.org/championships/football/"
     publisher: "North Carolina High School Athletic Association"
-    date: "2026-11-08"
+    date: "2026-11-14"
   - title: "Football"
     url: "https://www.mhsaa.com/Sports/Football"
     publisher: "Michigan High School Athletic Association"
-    date: "2026-11-08"
+    date: "2026-11-14"
   - title: "2026-27 State Tournament Series"
     url: "https://www.ihsaa.org/sports/boys/football/2026-27-tournament"
     publisher: "Indiana High School Athletic Association"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Mercedes-Benz Stadium"
     url: "https://www.mercedesbenzstadium.com/"
     publisher: "Mercedes-Benz Stadium"
@@ -83,7 +83,19 @@ sources:
   - title: "LHSAA Football"
     url: "https://www.lhsaa.org/football"
     publisher: "Louisiana High School Athletic Association"
-    date: "2026-11-08"
+    date: "2026-11-14"
+  - title: "Football State Tournament, 2026 State Tournament Schedule"
+    url: "https://www.mshsl.org/sports-activities/football"
+    publisher: "Minnesota State High School League"
+    date: "2026-11-14"
+  - title: "Football Tournament, 2026-27 NJSIAA football calendar"
+    url: "https://www.njsiaa.org/sports/football"
+    publisher: "New Jersey State Interscholastic Athletic Association"
+    date: "2026-11-14"
+  - title: "VHSL Football State Championships"
+    url: "https://www.vhsl.org/football/"
+    publisher: "Virginia High School League"
+    date: "2026-11-14"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -100,9 +112,9 @@ assets:
     slug: high-school-football-state-finals-2026-by-state
     group: high-school-football-state-championships-2026
     title: "High School Football State Finals 2026 by State"
-    subtitle: "Final dates and stadiums from each state association, read Nov. 8, 2026"
-    note: "Source: each state association's own football page, read Nov. 8, 2026 (Tennessee Oct. 30, Pennsylvania Aug. 27). Not posted or not readable that day: Florida, California, Minnesota, Kentucky, Mississippi, Illinois, New Jersey, New York, Arizona, Oklahoma and Virginia."
-    description: "One-page table of 2026 high school football state final dates and stadiums for Michigan, Alabama, Ohio, Tennessee, South Carolina, Pennsylvania, North Carolina, Louisiana, Georgia and Texas."
+    subtitle: "Final dates and stadiums from each state association, read Nov. 14, 2026"
+    note: "Source: each state association's own football page, read Nov. 14, 2026 (South Carolina Nov. 8, Tennessee Oct. 30). Not posted or not readable: Florida, California, Kentucky, Mississippi, Illinois, New York, Arizona and Oklahoma."
+    description: "One-page table of 2026 high school football state final dates and stadiums for Michigan, Minnesota, New Jersey, Alabama, Ohio, Tennessee, South Carolina, Pennsylvania, North Carolina, Louisiana, Virginia, Georgia and Texas."
     alt: "Printable table of 2026 high school football state championship dates and stadiums by state, from Michigan on Nov. 27-28 to Texas on Dec. 16-19"
     data:
       columns:
@@ -111,6 +123,8 @@ assets:
         - { key: venue, label: "Stadium and city" }
       rows:
         - { cells: { state: "Michigan (11-player)", dates: "Fri.-Sat., Nov. 27-28", venue: "Ford Field, Detroit" }, src: 9, quote: "Friday and Saturday, November 27 and 28" }
+        - { cells: { state: "Minnesota", dates: "Fri.-Sat., Nov. 27-28", venue: "U.S. Bank Stadium (Prep Bowl)" }, src: 14, quote: "Nov 27 – 28, 2026" }
+        - { cells: { state: "New Jersey", dates: "Sat. or Sun., Nov. 28 or 29", venue: "MetLife" }, src: 15, quote: "State Finals: 11/28/2026 or 11/29/2026" }
         - { cells: { state: "Alabama", dates: "Wed.-Sat., Dec. 2-5", venue: "Mobile (stadium not named)" }, src: 4, quote: "Dec. 2-5 - Super 7 Finals (Mobile)" }
         - { cells: { state: "Ohio", dates: "Thu.-Sat., Dec. 3-5", venue: "Canton" }, src: 5, quote: "Dec. 3-5 State Championships, Canton" }
         - { cells: { state: "Tennessee", dates: "Thu.-Sat., Dec. 3-5", venue: "Finley Stadium, Chattanooga" }, src: 3, quote: "BlueCross Bowl schedules for Dec. 3 - Dec. 5 in Chattanooga" }
@@ -118,14 +132,15 @@ assets:
         - { cells: { state: "Pennsylvania", dates: "Thu.-Sat., Dec. 10-12", venue: "Chapman Field, Cumberland Valley High School" }, src: 6, quote: "Championships - December 10, 11, & 12 (Chapman Field, Cumberland Valley HS)" }
         - { cells: { state: "North Carolina", dates: "Thu.-Sat., Dec. 10-12", venue: "Kenan Stadium, Moretz Stadium, Barker-Lane Stadium" }, src: 8, quote: "Thursday, Friday, and Saturday, December 10-12." }
         - { cells: { state: "Louisiana", dates: "Thu.-Sat., Dec. 10-12", venue: "Caesars Superdome, New Orleans" }, src: 13, quote: "December 10-12, 2026" }
+        - { cells: { state: "Virginia", dates: "Fri.-Sat., Dec. 11-12", venue: "Salem City Stadium; James Madison University" }, src: 16, quote: "CLASS 1/2 FINALS | December 12, 2026, at Salem City Stadium" }
         - { cells: { state: "Georgia", dates: "Tue.-Wed., Dec. 15-16", venue: "Mercedes-Benz Stadium, Atlanta" }, src: 2, quote: "When: December 15-16, 2026" }
         - { cells: { state: "Texas", dates: "Wed.-Sat., Dec. 16-19", venue: "AT&T Stadium, Arlington" }, src: 1, quote: "1A - 6A - Wednesday, December 16th - Saturday, December 19th - 2026" }
       unconfirmed:
-        - { label: "Game times by class", why: "Not confirmed on the pages read Nov. 8" }
+        - { label: "Game times by class", why: "Not confirmed on the pages read Nov. 14" }
 downloads:
   - group: "High School Football State Finals 2026 by State printables"
     title: "High School Football State Finals 2026 by State"
-    description: "One-page table of 2026 high school football state final dates and stadiums for Michigan, Alabama, Ohio, Tennessee, South Carolina, Pennsylvania, North Carolina, Louisiana, Georgia and Texas."
+    description: "One-page table of 2026 high school football state final dates and stadiums for Michigan, Minnesota, New Jersey, Alabama, Ohio, Tennessee, South Carolina, Pennsylvania, North Carolina, Louisiana, Virginia, Georgia and Texas."
     preview: ../../../../assets/news/high-school-football-state-championships-2026/high-school-football-state-finals-2026-by-state.png
     alt: "Printable table of 2026 high school football state championship dates and stadiums by state, from Michigan on Nov. 27-28 to Texas on Dec. 16-19"
     pdf: "/news/downloads/high-school-football-state-championships-2026/high-school-football-state-finals-2026-by-state.pdf"
@@ -134,7 +149,7 @@ downloads:
 draft: false
 ---
 
-**The University Interscholastic League (UIL) plays the Texas high school football state championships Wednesday to Saturday, Dec. 16-19, 2026, at AT&T Stadium in Arlington, and the Georgia High School Association (GHSA) plays Tuesday and Wednesday, Dec. 15-16, at Mercedes-Benz Stadium.** Michigan's 8-player final on Saturday, Nov. 21 opens the title weekends among the states below, each read on its own association's page on Nov. 6 and rechecked Nov. 8. Below: a state-by-state table, the weekends in order and the states that had not posted a date.
+**The University Interscholastic League (UIL) plays the Texas high school football state championships Wednesday to Saturday, Dec. 16-19, 2026, at AT&T Stadium in Arlington, and the Georgia High School Association (GHSA) plays Tuesday and Wednesday, Dec. 15-16, at Mercedes-Benz Stadium.** Michigan's 8-player final on Saturday, Nov. 21 opens the title weekends among the states below, each read on its own association's page on Nov. 6 and rechecked Nov. 14. Below: a state-by-state table, the weekends in order and the states that had not posted a date.
 
 ## High school football state championships 2026: dates and stadiums by state
 
@@ -144,6 +159,8 @@ Every row comes from the association's own page. Weekdays are computed from the 
 |---|---|---|---|
 | Michigan | Michigan High School Athletic Association (MHSAA) | 11-player: Fri.-Sat., Nov. 27-28; 8-player: Sat., Nov. 21 | Ford Field, Detroit (11-player); Superior Dome, Marquette (8-player) |
 | Indiana | Indiana High School Athletic Association (IHSAA) | Fri.-Sat., Nov. 27-28 | Lucas Oil Stadium, Indianapolis; see our [IHSAA football tournament story](/news/ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals/) |
+| Minnesota | Minnesota State High School League (MSHSL) | Fri.-Sat., Nov. 27-28 (Prep Bowl) | U.S. Bank Stadium |
+| New Jersey | New Jersey State Interscholastic Athletic Association (NJSIAA) | Sat. or Sun., Nov. 28 or 29, set by tournament round | MetLife |
 | Alabama | Alabama High School Athletic Association (AHSAA) | Wed.-Sat., Dec. 2-5 (Super 7 Finals) | Mobile; the page names no stadium |
 | Ohio | Ohio High School Athletic Association (OHSAA) | Thu.-Sat., Dec. 3-5 | Tom Benson Hall of Fame Stadium, Canton; see our [OHSAA football playoffs story](/news/ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton/) |
 | Tennessee | Tennessee Secondary School Athletic Association (TSSAA) | Thu.-Sat., Dec. 3-5 (BlueCross Bowl) | Finley Stadium, Chattanooga |
@@ -151,25 +168,26 @@ Every row comes from the association's own page. Weekdays are computed from the 
 | Pennsylvania | Pennsylvania Interscholastic Athletic Association (PIAA) | Thu.-Sat., Dec. 10-12 | Chapman Field, Cumberland Valley High School |
 | North Carolina | North Carolina High School Athletic Association (NCHSAA) | Thu.-Sat., Dec. 10-12 | Kenan Stadium, Chapel Hill; Helen & Leonard Moretz Stadium, Hickory; Barker-Lane Stadium, Buies Creek |
 | Louisiana | [Louisiana High School Athletic Association (LHSAA)](/news/lhsaa-prep-classic-2026-superdome-schedule-kickoff-times/) | Thu.-Sat., Dec. 10-12 (2026 Allstate Sugar Bowl LHSAA Prep Classic) | Caesars Superdome, New Orleans |
+| Virginia | Virginia High School League (VHSL) | Fri.-Sat., Dec. 11-12 | Salem City Stadium (Class 1/2 and 3/4); James Madison University (Class 5/6) |
 | Georgia | Georgia High School Association (GHSA) | Tue.-Wed., Dec. 15-16 | Mercedes-Benz Stadium, Atlanta |
 | Texas | [University Interscholastic League (UIL)](/news/uil-football-state-championships-2026-schedule-att-stadium/) | Wed.-Sat., Dec. 16-19 (classes 1A to 6A) | AT&T Stadium, Arlington |
 
-The MHSAA page lists "Friday and Saturday, November 27 and 28" with no year; those weekdays match 2026. The Indiana dates and venue are from the IHSAA's 2026-27 State Tournament Series page. The Ohio venue is from the OHSAA's 2026 tournament coverage page. The Pennsylvania page, dated Aug. 27, 2026, gives no city for Chapman Field. The LHSAA page lists Central Time (CT) kickoffs: Thursday, Dec. 10 at noon (Division IV Select), 3:30 p.m. (Division IV Non-Select) and 7 p.m. (Division III Non-Select); Friday, Dec. 11 at noon (Division II Select), 3:30 p.m. (Division III Select) and 7 p.m. (Division II Non-Select); Saturday, Dec. 12 at noon (Division I Select) and 3:30 p.m. (Division I Non-Select). The NCHSAA says it will finalize which class plays at which of its three sites "after the final regional contests."
+The MHSAA page lists "Friday and Saturday, November 27 and 28" with no year; those weekdays match 2026. The Indiana dates and venue are from the IHSAA's 2026-27 State Tournament Series page. The Ohio venue is from the OHSAA's 2026 tournament coverage page. The Pennsylvania page, dated Aug. 27, 2026, gives no city for Chapman Field. The LHSAA page lists Central Time (CT) kickoffs: Thursday, Dec. 10 at noon (Division IV Select), 3:30 p.m. (Division IV Non-Select) and 7 p.m. (Division III Non-Select); Friday, Dec. 11 at noon (Division II Select), 3:30 p.m. (Division III Select) and 7 p.m. (Division II Non-Select); Saturday, Dec. 12 at noon (Division I Select) and 3:30 p.m. (Division I Non-Select). The MSHSL schedule lists four championships on Friday, Nov. 27 (10 a.m., 1 p.m., 4 p.m. and 7 p.m.) and three on Saturday, Nov. 28 (10 a.m., 1 p.m. and 4 p.m.). The NJSIAA calendar lists its public-school state finals on "11/28/2026 or 11/29/2026" at MetLife, and the VHSL lists Class 3/4 on Dec. 11 and Class 1/2 on Dec. 12 at Salem City Stadium and Class 5/6 on Dec. 12 at James Madison University, with game times not yet posted. The NCHSAA says it will finalize which class plays at which of its three sites "after the final regional contests."
 
 ## Which state championship weekends come first?
 
-In order of the first final day: Michigan's 8-player final (Nov. 21), then Michigan's 11-player finals and Indiana (Nov. 27-28), then Alabama (Dec. 2-5). Ohio, Tennessee and South Carolina start Dec. 3 or 4, ahead of Pennsylvania, North Carolina and Louisiana on Dec. 10-12. Georgia is Dec. 15-16 and Texas, Dec. 16-19, is last on this list. The Texas and Georgia finals overlap on Wednesday, Dec. 16.
+In order of the first final day: Michigan's 8-player final (Nov. 21), then the Nov. 27-29 finals in Michigan (11-player), Indiana, Minnesota and New Jersey, then Alabama (Dec. 2-5). Ohio, Tennessee and South Carolina start Dec. 3 or 4, ahead of Pennsylvania, North Carolina and Louisiana on Dec. 10-12, then Virginia on Dec. 11-12. Georgia is Dec. 15-16 and Texas, Dec. 16-19, is last on this list. The Texas and Georgia finals overlap on Wednesday, Dec. 16.
 
-Thanksgiving is Thursday, Nov. 26, so the Michigan and Indiana finals fall on the Friday and Saturday after it. For college football that weekend, see our [Football Championship Subdivision (FCS) playoffs story](/news/fcs-playoffs-2026-bracket-schedule-dates-championship-nashville/).
+Thanksgiving is Thursday, Nov. 26, so the Michigan, Indiana and Minnesota finals fall on the Friday and Saturday after it. For college football that weekend, see our [Football Championship Subdivision (FCS) playoffs story](/news/fcs-playoffs-2026-bracket-schedule-dates-championship-nashville/).
 
-## Which states had not posted finals dates on Nov. 8?
+## Which states had not posted finals dates on Nov. 14?
 
-Florida, California, Minnesota, Kentucky, Mississippi, Illinois, New Jersey, New York, Arizona, Oklahoma and Virginia were not posted or not readable on an official page when rechecked on Nov. 8 (Louisiana, missing on Nov. 6, was read that day), so no date is printed here for them.
+Florida, California, Kentucky, Mississippi, Illinois, New York, Arizona and Oklahoma were not posted or not readable on an official page when rechecked on Nov. 14 (Minnesota, New Jersey and Virginia, missing on Nov. 8, are in the table now), so no date is printed here for them.
 
 ## What is not confirmed yet?
 
-The GHSA page gives the date and stadium; its game times by class are in our [GHSA finals schedule](/news/ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium/). The Alabama and Ohio pages read on Nov. 6 and Nov. 8 do not name a stadium; the Ohio venue comes from the OHSAA's tournament coverage page.
+The GHSA page gives the date and stadium; its game times by class are in our [GHSA finals schedule](/news/ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium/). The Alabama and Ohio pages read on Nov. 6 and Nov. 14 do not name a stadium; the Ohio venue comes from the OHSAA's tournament coverage page.
 
 ## Is there a printable state finals table?
 
-The one-page High School Football State Finals 2026 by State sheet lists the dates and stadiums above for ten states. Mark the weekends on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
+The one-page High School Football State Finals 2026 by State sheet lists the dates and stadiums above for thirteen states. Mark the weekends on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).

@@ -1,16 +1,16 @@
 ---
-title: "Moon Phase Tonight: November 2026 Calendar, New Moon Nov. 9"
-description: "Moon phase tonight, November 2026: new moon Nov. 9 at 2:02 a.m. EST, full Beaver Moon Nov. 24. Daily moonrise, moonset and percent lit for New York."
+title: "Moon Phase Tonight: November 2026 Calendar, Full Moon Nov. 24"
+description: "Moon phase tonight, November 2026: first quarter Nov. 17 at 6:48 a.m. EST, full Beaver Moon Nov. 24. Daily moonrise, moonset and percent lit for New York."
 type: explainer
 publishedAt: "2026-10-27T13:44:00-04:00"
-updatedAt: "2026-11-08T06:38:00-05:00"
+updatedAt: "2026-11-14T15:08:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["moon phase tonight", "moon tonight", "moon phase October 27 2026", "moon phases November 2026", "moon calendar November 2026"]
 hero:
   src: ../../../../assets/news/moon-phase-tonight-october-27-november-2026-moon-calendar/moon-phase-tonight-october-27-november-2026-moon-calendar.webp
   alt: "A waning gibbous Moon with craters lit along its edge against a black sky"
-  caption: "A waning gibbous Moon (file photo). On Nov. 2 the Moon is a waning crescent, 41% lit, according to the U.S. Naval Observatory."
+  caption: "A waning gibbous Moon (file photo). On Nov. 14 the Moon is a waxing crescent, 25% lit, according to the U.S. Naval Observatory."
   credit: "Photo: Astroclubkosova / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
@@ -18,15 +18,15 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Waning_Gibbous_Moon_%E2%80%93_High-Resolution_Lunar_Imaging.jpg"
     author: "Astroclubkosova"
 summary:
-  - "On Monday, Nov. 2, 2026, the Moon is a waning crescent, 41% lit, with no moonrise that date in New York; it sets at 1:37 p.m. and next rises at 12:26 a.m. on Nov. 3, per the U.S. Naval Observatory (USNO)."
-  - "Last quarter is at 3:28 p.m. Eastern Standard Time (EST) on Sunday, Nov. 1, the new moon at 2:02 a.m. EST on Monday, Nov. 9, and first quarter at 6:48 a.m. EST on Tuesday, Nov. 17."
+  - "On Saturday, Nov. 14, 2026, the Moon is a waxing crescent, 25% lit; in New York it rose at 11:29 a.m. and sets at 8:47 p.m., per the U.S. Naval Observatory (USNO)."
+  - "Last quarter is at 3:28 p.m. Eastern Standard Time (EST) on Sunday, Nov. 1, the new moon at 2:02 a.m. EST on Monday, Nov. 9, and first quarter comes at 6:48 a.m. EST on Tuesday, Nov. 17."
   - "November's full moon, the Beaver Moon, is at 9:53 a.m. EST on Tuesday, Nov. 24; that evening it rises at 4:16 p.m. in New York."
   - "The table below gives phase, percent lit, moonrise and moonset for New York every day from Oct. 27 to Nov. 30, with the Nov. 1 clock change handled."
 faq:
-  - q: "What is the moon phase on Nov. 2, 2026?"
-    a: "A waning crescent, 41% lit, according to the U.S. Naval Observatory. In New York the Moon sets at 1:37 p.m. EST and does not rise again until 12:26 a.m. on Tuesday, Nov. 3."
+  - q: "What is the moon phase tonight, Nov. 14, 2026?"
+    a: "A waxing crescent, 25% lit, according to the U.S. Naval Observatory. In New York the Moon rose at 11:29 a.m. EST and sets at 8:47 p.m., so it is low in the west after dark."
   - q: "When is the next new moon?"
-    a: "Monday, Nov. 9, 2026, at 2:02 a.m. EST, which is 07:02 Universal Time (UT), per the U.S. Naval Observatory."
+    a: "Wednesday, Dec. 9, 2026, at 12:52 a.m. EST (00:52 Universal Time, UT), per the U.S. Naval Observatory. November's new moon came on Monday, Nov. 9, at 2:02 a.m. EST."
   - q: "When is the full moon in November 2026?"
     a: "Tuesday, Nov. 24, 2026, at 9:53 a.m. EST (14:53 UT). The Moon rises that day at 4:16 p.m. in New York."
   - q: "How much of the Moon is lit on Halloween 2026?"
@@ -37,7 +37,7 @@ sources:
   - title: "Dates of Primary Phases of the Moon"
     url: "https://aa.usno.navy.mil/calculated/moon/phases?date=2026-11-01&format=p&nump=8"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
-    date: "2026-11-08"
+    date: "2026-11-14"
   - title: "Phases of the Moon"
     url: "https://aa.usno.navy.mil/data/MoonPhases"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
@@ -56,9 +56,9 @@ internalLinks:
 related: [new-years-eve-2026-moon-phase-moonrise-time-midnight-new-york, supermoon-2026-beaver-moon-cold-moon-geminids-solstice, moon-phase-tonight-december-2026-moon-calendar]
 assets:
   overlay: true
-  kicker: "Moon phase · Mon., Nov. 2, 2026"
+  kicker: "Moon phase · Sat., Nov. 14, 2026"
   date: "2026-10-27"
-  card: { top: "Moon phase Nov. 2, 41% lit", big: "12:26 a.m.", bottom: "Next moonrise in New York, USNO" }
+  card: { top: "Moon phase Nov. 14, 25% lit", big: "8:47 p.m.", bottom: "Moonset in New York, USNO" }
   printable:
     slug: moon-calendar-oct-27-nov-30-2026
     group: moon-calendar-2026
@@ -120,7 +120,7 @@ downloads:
 draft: false
 ---
 
-**On Monday, Nov. 2, 2026, the Moon is a waning crescent, 41% lit, and has no moonrise that date in New York**, according to the U.S. Naval Observatory (USNO). It sets at 1:37 p.m. and next rises at 12:26 a.m. on Tuesday, Nov. 3, so it is not up this evening. Last quarter was at 3:28 p.m. Eastern Standard Time (EST) on Sunday, Nov. 1, and the full moon was early Monday, Oct. 26, at 12:12 a.m. Eastern Daylight Time (EDT); see our [Hunter's Moon story](/news/hunters-moon-october-2026-full-moon-time/) for that moment.
+**On Saturday, Nov. 14, 2026, the Moon is a waxing crescent, 25% lit**, according to the U.S. Naval Observatory (USNO). In New York it rose at 11:29 a.m. and sets at 8:47 p.m., so it is up in the evening sky for a few hours after dark. First quarter comes at 6:48 a.m. Eastern Standard Time (EST) on Tuesday, Nov. 17. The new moon was early Monday, Nov. 9, and the full moon was early Monday, Oct. 26, at 12:12 a.m. Eastern Daylight Time (EDT); see our [Hunter's Moon story](/news/hunters-moon-october-2026-full-moon-time/) for that moment.
 
 The calendar below runs day by day from Oct. 27 to Nov. 30, 2026, using USNO data for New York City. It also handles the clock change: daylight saving time ends at 2 a.m. on Sunday, Nov. 1, so times through Oct. 31 are EDT and times from Nov. 1 are Eastern Standard Time (EST). The [daylight saving time page](/when-is/daylight-savings/) has the rule.
 
@@ -136,7 +136,7 @@ USNO gave the same 97% for Oct. 27 in London. Moonrise is local time, and the UK
 | Los Angeles | 7:03 p.m. Pacific Daylight Time (PDT) |
 | London | 4:47 p.m. Greenwich Mean Time (GMT) |
 
-## Main moon phases from Oct. 26 to December 1
+## Main moon phases from Oct. 26 to December 9
 
 | Phase | Eastern time | Universal Time (UT) |
 |---|---|---|
@@ -146,6 +146,7 @@ USNO gave the same 97% for Oct. 27 in London. Moonrise is local time, and the UK
 | First quarter | 6:48 a.m. EST, Tue., Nov. 17 | 11:48, Nov. 17 |
 | Full Moon (Beaver Moon) | 9:53 a.m. EST, Tue., Nov. 24 | 14:53, Nov. 24 |
 | Last quarter | 1:08 a.m. EST, Tue., Dec. 1 | 06:08, Dec. 1 |
+| New Moon | 12:52 a.m. EST, Wed., Dec. 9 | 00:52, Dec. 9 |
 
 November's full moon is commonly called the Beaver Moon. For its names and the other supermoon-season dates, see our [Beaver Moon and Cold Moon guide](/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/).
 
@@ -194,7 +195,7 @@ Times through Sat., Oct. 31 are EDT; from Sun., Nov. 1 they are EST. The printab
 
 ## When is the new moon in November 2026?
 
-USNO's table of primary phases lists the new moon at 07:02 UT on Monday, Nov. 9, 2026, which is 2:02 a.m. EST. In New York on Nov. 9 the Moon is 0% lit, rises at 7:07 a.m. and sets at 4:33 p.m., from USNO data saved on Oct. 20. The day before, Sunday, Nov. 8, it is a waning crescent, 1% lit, rising at 6:02 a.m. and setting at 4:01 p.m.
+USNO's table of primary phases lists the new moon at 07:02 UT on Monday, Nov. 9, 2026, which was 2:02 a.m. EST. In New York on Nov. 9 the Moon was 0% lit, rose at 7:07 a.m. and set at 4:33 p.m., from USNO data. The day before, Sunday, Nov. 8, it was a waning crescent, 1% lit, rising at 6:02 a.m. and setting at 4:01 p.m.
 
 | Date in New York | Phase | Lit | Moonrise | Moonset |
 |---|---|---|---|---|
