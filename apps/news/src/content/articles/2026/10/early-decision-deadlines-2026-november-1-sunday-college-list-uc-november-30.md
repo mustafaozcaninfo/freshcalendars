@@ -123,7 +123,7 @@ assets:
       - { when: "Sun., Nov. 1", what: "Georgetown: Early Action (decision by Dec. 15)", section: "Due Sunday, Nov. 1, 2026" }
       - { when: "Mon., Nov. 2", what: "Duke: Early Decision", section: "Other early dates" }
       - { when: "Nov. 1-30", what: "University of California: filing period", section: "Other early dates" }
-      - { when: "Fri., Nov. 20", what: "Duke: first-quarter grades report due or as soon as grades are available", section: "Check for each college" }
+      - { when: "Fri., Nov. 20", what: "Duke: first-quarter grade report due from counselors", section: "Check for each college" }
       - { when: "Any day", what: "Fee or waiver handled", section: "Check for each college" }
       - { when: "Any day", what: "Application portal shows submitted", section: "Check for each college" }
       - { when: "Any day", what: "Decision date written down", section: "Check for each college" }
@@ -159,7 +159,7 @@ Regular Decision (RD) is Massachusetts Institute of Technology (MIT)'s "Regular 
 
 ## Why is Duke's deadline Nov. 2?
 
-Duke's Early Decision deadline is Monday, Nov. 2, not Nov. 1, on its checklist page, which says the dates "represent the 2026-2027 admission cycle deadlines." Duke's Regular Decision deadline is Monday, Jan. 4, 2027. A student who planned around "Nov. 1 everywhere" had one extra day at Duke. Duke also asks counselors to send the first-quarter grade report by Friday, Nov. 20 or as soon as grades are available.
+Duke's Early Decision deadline is Monday, Nov. 2, not Nov. 1, on its checklist page, which says the dates "represent the 2026-2027 admission cycle deadlines." Duke's Regular Decision deadline is Monday, Jan. 4, 2027. A student who planned around "Nov. 1 everywhere" had one extra day at Duke. Duke also asks counselors to send the first-quarter grade report by Friday, Nov. 20.
 
 ## Which later rounds and release dates matter?
 

@@ -3,16 +3,17 @@ title: "Coming to HBO Max November 2026: City of God Nov. 8, Tony Nov. 20"
 description: "HBO Max November 2026 additions: City of God season 2 on Sun., Nov. 8 and Tony on Fri., Nov. 20, per ScreenCrush. Documentaries follow Nov. 17 and 25."
 type: news
 publishedAt: "2026-11-01T06:41:00-05:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T15:08:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on HBO Max November 2026", "HBO Max November 2026 schedule", "what's coming to HBO Max in November", "City of God season 2 release date HBO Max"]
 assets:
   overlay: true
   kicker: "HBO Max · November 2026"
-  date: "2026-11-08"
-  card: { top: "City of God season 2 on HBO Max", big: "Sun., Nov. 8", bottom: "Tony arrives Fri., Nov. 20" }
+  date: "2026-11-20"
+  card: { top: "Next on HBO Max", big: "Fri., Nov. 20", bottom: "Tony, an A24 film" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: hbo-max-november-2026-watch-calendar
     group: hbo-max-2026
     title: "New on HBO Max, November 2026: Watch Calendar"
@@ -26,20 +27,19 @@ assets:
       - ["Sun., Nov. 8", "City of God: The Fight Rages On season 2 (HBO Original)"]
       - ["Fri., Nov. 13", "Clangold; Maniacs of the Truth; Silent Night"]
       - ["Sat., Nov. 14", "Gift season 1"]
-      - ["Tue., Nov. 17", "When a Witness Recants (HBO documentary)"]
+      - ["Tue., Nov. 17", "When a Witness Recants (HBO documentary, 9 p.m.)"]
       - ["Wed., Nov. 18", "The Hotline (HBO Original)"]
       - ["Fri., Nov. 20", "Tony (A24)"]
       - ["Tue., Nov. 24", "The Buffalo Miracle (HBO Original)"]
-      - ["Wed., Nov. 25", "The Slightest Touch (HBO documentary)"]
+      - ["Wed., Nov. 25", "The Slightest Touch (HBO documentary, 9 p.m.)"]
       - ["Fri., Nov. 27", "The Art of Deception; The Cursed Zoo; The Linares Files"]
-    note: "Source: HBO; Warner Bros. Discovery Pressroom; ScreenCrush (Oct. 23, 2026); Showbizjunkies (Oct. 27, 2026). Dates can change."
-    inkSaver: true
+    note: "Source: HBO home page (read Nov. 14, 2026); Warner Bros. Discovery Pressroom; ScreenCrush (Oct. 23, 2026); Showbizjunkies (Oct. 27, 2026). Dates can change."
     description: "One-page HBO Max November 2026 watch calendar with 13 key dates from WBD, ScreenCrush and Showbizjunkies. Free to print."
     alt: "Printable HBO Max November 2026 month calendar with HBO titles marked on their release dates"
 hero:
   src: ../../../../assets/news/new-on-hbo-max-november-2026-release-dates-city-of-god-tony/new-on-hbo-max-november-2026-release-dates-city-of-god-tony.webp
   alt: "Apartment blocks in Cidade de Deus, the Rio de Janeiro neighborhood behind City of God, for HBO Max November 2026 release dates"
-  caption: "File photo: Cidade de Deus in Rio de Janeiro. City of God: The Fight Rages On season 2 is listed for HBO Max on Sun., Nov. 8, 2026."
+  caption: "File photo: Cidade de Deus in Rio de Janeiro. City of God: The Fight Rages On season 2 was dated for HBO Max on Sun., Nov. 8, 2026."
   credit: "Photo: Junius / Wikimedia Commons, edited"
   license:
     name: "Public domain"
@@ -48,24 +48,25 @@ hero:
     author: "Junius"
 summary:
   - "The Gilded Age season 4 premiered Sunday, Nov. 1 at 9 p.m. on HBO, according to the HBO home page."
-  - "Warner Bros. Discovery (WBD) dates the HBO documentary When a Witness Recants for Tuesday, Nov. 17 and The Slightest Touch for Wednesday, Nov. 25."
+  - "The HBO home page dates the documentary When a Witness Recants for Tuesday, Nov. 17 at 9 p.m. and The Slightest Touch for Wednesday, Nov. 25 at 9 p.m."
   - "ScreenCrush and Showbizjunkies both list City of God: The Fight Rages On season 2 for Sunday, Nov. 8 and the A24 film Tony for Friday, Nov. 20."
   - "No titles leaving HBO Max in November and no HBO Max prices are confirmed here."
 faq:
   - q: "When does City of God season 2 come out on HBO Max?"
-    a: "ScreenCrush and Showbizjunkies both list City of God: The Fight Rages On season 2 as an HBO Original for Sunday, Nov. 8, 2026. Showbizjunkies describes it as a six-episode season."
+    a: "ScreenCrush and Showbizjunkies both listed City of God: The Fight Rages On season 2 for Sunday, Nov. 8, 2026, and the HBO home page now shows it as available. HBO describes it as a six-episode series."
   - q: "When does Tony come to HBO Max?"
     a: "ScreenCrush and Showbizjunkies both list the A24 film Tony for Friday, Nov. 20, 2026."
   - q: "What time did The Gilded Age season 4 start?"
     a: "The HBO home page said season 4 would premiere Nov. 1 at 9 p.m. Our Gilded Age premiere story has the time zones."
   - q: "Which HBO documentaries have official November dates?"
-    a: "The WBD Pressroom lists When a Witness Recants as debuting Nov. 17 and The Slightest Touch as debuting Nov. 25, 2026."
+    a: "The HBO home page lists When a Witness Recants for Nov. 17 at 9 p.m. and The Slightest Touch for Nov. 25 at 9 p.m., 2026. The WBD Pressroom listed the same two dates."
   - q: "What is leaving HBO Max in November 2026?"
     a: "No removals are confirmed in the sources used for this story, so none are listed."
 sources:
   - title: "HBO home page"
     url: "https://www.hbo.com/"
     publisher: "HBO"
+    date: "2026-11-14"
   - title: "WBD Pressroom (US)"
     url: "https://press.wbd.com/us"
     publisher: "Warner Bros. Discovery"
@@ -92,20 +93,10 @@ downloads:
     pdf: "/news/downloads/hbo-max-2026/hbo-max-november-2026-watch-calendar.pdf"
     png: "/news/downloads/hbo-max-2026/hbo-max-november-2026-watch-calendar.png"
     pages: 1
-  - group: "New on HBO Max printables"
-    title: "New on HBO Max, November 2026: Watch Calendar (ink saver)"
-    description: "One-page HBO Max November 2026 watch calendar with 13 key dates from WBD, ScreenCrush and Showbizjunkies. Free to print. Ink-saver version."
-    preview: ../../../../assets/news/hbo-max-2026/hbo-max-november-2026-watch-calendar-ink.png
-    alt: "Printable HBO Max November 2026 month calendar with HBO titles marked on their release dates, ink-saver version"
-    pdf: "/news/downloads/hbo-max-2026/hbo-max-november-2026-watch-calendar-ink.pdf"
-    png: "/news/downloads/hbo-max-2026/hbo-max-november-2026-watch-calendar-ink.png"
-    pages: 1
 draft: false
 ---
 
-**HBO dates "City of God: The Fight Rages On" season 2 for Sunday, Nov. 8, 2026 and the A24 film "Tony" for Friday, Nov. 20, according to ScreenCrush and Showbizjunkies, while Warner Bros. Discovery (WBD) dates two HBO documentaries for Nov. 17 and Nov. 25.** The table below puts the dated November additions in order with their weekday, and a free printable watch calendar follows it.
-
-<p class="callout"><b>Checked Nov. 1, 2026.</b> Only some dates come from HBO and the WBD Pressroom; the rest come from two newsroom lists, marked in the Source column. Titles can change, so confirm on HBO Max before you plan a watch night.</p>
+**HBO dates "City of God: The Fight Rages On" season 2 for Sunday, Nov. 8, 2026 and the A24 film "Tony" for Friday, Nov. 20, according to ScreenCrush and Showbizjunkies, while Warner Bros. Discovery (WBD) dates two HBO documentaries for Nov. 17 and Nov. 25.** The table below puts the dated November additions in order with their weekday, and a free printable watch calendar follows it. Titles can change, so confirm on HBO Max before you plan a watch night.
 
 ## What is coming to HBO Max in November 2026?
 
@@ -125,12 +116,12 @@ The Source column says where each date comes from. "Official" means the HBO home
 | Friday, Nov. 13 | Clangold, season 1; Maniacs of the Truth, season 1; Silent Night | HBO Originals | Both lists |
 | Saturday, Nov. 14 | Gift, season 1 | Series (network not given) | Both lists |
 | Saturday, Nov. 14 | Madame Web | Film | Both lists |
-| Tuesday, Nov. 17 | When a Witness Recants | HBO Original documentary | Official (WBD Pressroom) |
+| Tuesday, Nov. 17 | When a Witness Recants | HBO Original documentary | Official (HBO home page, 9 p.m.) |
 | Wednesday, Nov. 18 | The Hotline | HBO Original | Both lists |
 | Friday, Nov. 20 | Tony | A24 film | Both lists |
 | Friday, Nov. 20 | The Roses (2025) | Film | Both lists |
 | Tuesday, Nov. 24 | The Buffalo Miracle | HBO Original | Both lists |
-| Wednesday, Nov. 25 | The Slightest Touch | HBO Original documentary | Official (WBD Pressroom) |
+| Wednesday, Nov. 25 | The Slightest Touch | HBO Original documentary | Official (HBO home page, 9 p.m.) |
 | Friday, Nov. 27 | The Art of Deception; The Cursed Zoo; The Linares Files | HBO Originals | Both lists |
 | Friday, Nov. 27 | The Magic Faraway Tree (2026) | Film | Both lists |
 
@@ -138,7 +129,7 @@ The table is not the whole month. Sunday, Nov. 1 alone carries many more library
 
 ## When does City of God season 2 come out on HBO Max?
 
-ScreenCrush and Showbizjunkies both list "City of God: The Fight Rages On" season 2 as an HBO Original for Sunday, Nov. 8. Showbizjunkies describes a six-episode season filmed in Rio de Janeiro and São Paulo. Neither list, as read for this story, gives an episode schedule after the first date, so none is stated here.
+ScreenCrush and Showbizjunkies both listed "City of God: The Fight Rages On" season 2 as an HBO Original for Sunday, Nov. 8, and the HBO home page now shows the series as available. HBO describes a six-episode series set in Rio de Janeiro, and Showbizjunkies says it was filmed in Rio de Janeiro and São Paulo. Neither list, as read for this story, gives an episode schedule after the first date, so none is stated here.
 
 ## When does Tony come to HBO Max?
 
@@ -146,11 +137,11 @@ Both lists put the A24 film "Tony" on Friday, Nov. 20. Showbizjunkies describes 
 
 ## When did The Gilded Age season 4 start?
 
-The HBO home page said season 4 would premiere Nov. 1 at 9 p.m., and that date has passed. That is the only time on this page for the month; the other titles are dated by day only. Our [Gilded Age season 4 premiere story](/news/the-gilded-age-season-4-premiere-time-november-1-hbo-max/) covers the premiere time by time zone. The episode schedule and the finale date are not covered here.
+The HBO home page said season 4 would premiere Nov. 1 at 9 p.m., and that date has passed. The two documentaries below also carry a 9 p.m. time; the other titles are dated by day only. Our [Gilded Age season 4 premiere story](/news/the-gilded-age-season-4-premiere-time-november-1-hbo-max/) covers the premiere time by time zone. The episode schedule and the finale date are not covered here.
 
 ## Which HBO documentaries have official November dates?
 
-The WBD Pressroom lists two. "When a Witness Recants" debuts Tuesday, Nov. 17, and "The Slightest Touch" debuts Wednesday, Nov. 25. The Showbizjunkies page describes the first as the story of a 1983 murder of a 14-year-old boy in a Baltimore school hallway. It also lists "The Hotline," about an overdose prevention helpline, for Wednesday, Nov. 18, and "The Buffalo Miracle" for Tuesday, Nov. 24.
+The HBO home page lists two, both at 9 p.m. "When a Witness Recants" premieres Tuesday, Nov. 17, and "The Slightest Touch" premieres Wednesday, Nov. 25. The WBD Pressroom listed the same dates. The Showbizjunkies page describes the first as the story of a 1983 murder of a 14-year-old boy in a Baltimore school hallway. It also lists "The Hotline," about an overdose prevention helpline, for Wednesday, Nov. 18, and "The Buffalo Miracle" for Tuesday, Nov. 24.
 
 ## Are any titles leaving HBO Max in November 2026?
 

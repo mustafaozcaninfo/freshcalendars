@@ -3,7 +3,7 @@ title: "Lifetime Christmas Movies 2026: 11 New Films, Nov. 28-Dec. 20"
 description: "Lifetime Christmas movies 2026 start Saturday, Nov. 28 with 11 new films through Dec. 20. Every date and time, plus a printable watch list."
 type: news
 publishedAt: "2026-10-25T17:20:00-04:00"
-updatedAt: "2026-11-14T15:07:00-05:00"
+updatedAt: "2026-11-14T15:08:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Lifetime Christmas movies 2026", "It's a Wonderful Lifetime 2026 schedule", "Lifetime holiday movies 2026", "new Lifetime Christmas movies"]

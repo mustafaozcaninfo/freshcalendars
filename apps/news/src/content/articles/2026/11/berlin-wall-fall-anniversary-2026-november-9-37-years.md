@@ -1,9 +1,9 @@
 ---
 title: "Berlin Wall Anniversary 2026: 37 Years on Monday, Nov. 9"
-description: "The Berlin Wall anniversary is Monday, Nov. 9, 2026, 37 years on. Berlin Freedom Week runs Nov. 7 to 14, with district events listed by start time."
+description: "The Berlin Wall anniversary was Monday, Nov. 9, 2026, 37 years on. Berlin Freedom Week ends Nov. 14; district events and conference dates are listed."
 type: news
 publishedAt: "2026-11-08T07:06:00-05:00"
-updatedAt: "2026-11-08T07:06:00-05:00"
+updatedAt: "2026-11-14T15:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Berlin Wall fall anniversary 2026", "November 9 2026 Berlin", "Berlin Freedom Week 2026", "37 years fall of the Berlin Wall"]
@@ -19,36 +19,36 @@ hero:
     author: "Ansgar Koreng"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Code"
 summary:
-  - "Monday, Nov. 9, 2026 marks the 37th anniversary of the fall of the Berlin Wall, according to the Berlin city government."
-  - "Berlin Freedom Week runs Nov. 7 to 14, 2026, and the Freedom and Security Women Summit is on Nov. 9 in the German Bundestag."
-  - "Berlin districts hold Nov. 9 commemorations at set times, from 10 a.m. in Pankow to a 4:30 p.m. silent march in Charlottenburg-Wilmersdorf."
-  - "The Berlin Wall Memorial programme for Nov. 9 is not confirmed."
+  - "Monday, Nov. 9, 2026 marked the 37th anniversary of the fall of the Berlin Wall, according to the Berlin city government."
+  - "Berlin Freedom Week runs Nov. 7 to 14, 2026; the Freedom and Security Women Summit was on Nov. 9 in the German Bundestag and the Berlin Freedom Conference on Nov. 10."
+  - "Berlin districts scheduled Nov. 9 commemorations from 10 a.m. in Pankow to a 4:30 p.m. silent march in Charlottenburg-Wilmersdorf."
+  - "No Berlin Wall Memorial programme for Nov. 9 appeared on the foundation homepage."
 faq:
   - q: "How many years since the Berlin Wall fell in 2026?"
-    a: "The city of Berlin counts 37 years: its Nov. 9 events page says Nov. 9, 2026 marks the 37th anniversary. The fall itself dates to 1989."
+    a: "The city of Berlin counts 37 years: its Nov. 9 events page says Nov. 9, 2026 marked the 37th anniversary. The fall itself dates to 1989."
   - q: "Why does Nov. 9 carry more than one memory in Germany?"
     a: "Berlin.de lists four events on Nov. 9: the proclamation of the German Republic in 1918, the Hitler Putsch in 1923, the Night of Broken Glass in 1938 and the fall of the Berlin Wall in 1989. Many district events on the day mark the 1938 pogroms."
-  - q: "Is the main Berlin Wall Memorial ceremony time known?"
-    a: "No. The Berlin Wall Foundation's homepage showed no Nov. 9, 2026 programme when checked on Nov. 8, so no time or place is given here."
-  - q: "Which Berlin events on Nov. 9 have no time listed?"
-    a: "The Freedom and Security Women Summit in the German Bundestag is dated Nov. 9, 2026 on the Freedom Week site, with no time given."
+  - q: "Was a main Berlin Wall Memorial ceremony time published?"
+    a: "Not that we found. The Berlin Wall Foundation's homepage showed no Nov. 9, 2026 programme when checked on Nov. 8 and Nov. 14, so no time or place is given here."
+  - q: "Which Berlin Freedom Week events had no time listed?"
+    a: "The Freedom and Security Women Summit in the German Bundestag, dated Nov. 9, 2026, and the Berlin Freedom Conference, dated Nov. 10, 2026, appear on the Freedom Week site with no time in the text we read."
 sources:
   - title: "Events on November 9 – Berlin.de"
     url: "https://www.berlin.de/en/events/specials/november-9/"
     publisher: "Berlin.de, Berlin city government"
-    date: "2026-11-08"
+    date: "2026-11-14"
   - title: "Berlin Freedom Week – Berlin.de"
     url: "https://www.berlin.de/en/events/9796393-2842498-berlin-freedom-week.en.html"
     publisher: "Berlin.de, Berlin city government"
-    date: "2026-11-05"
+    date: "2026-11-14"
   - title: "Startseite | BERLIN FREEDOM WEEK"
     url: "https://www.berlin-freedom-week.com/"
     publisher: "Berlin Freedom Week"
-    date: "2026-11-08"
+    date: "2026-11-14"
   - title: "Foundation Homepage | Berlin Wall Foundation"
     url: "https://www.stiftung-berliner-mauer.de/en/"
     publisher: "Stiftung Berliner Mauer (Berlin Wall Foundation)"
-    date: "2026-11-08"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -67,7 +67,7 @@ assets:
     group: berlin-wall-anniversary-2026
     title: "Berlin Wall Fall Anniversary 2026 Fact Sheet, Nov. 9"
     subtitle: "37th anniversary and Berlin Freedom Week dates"
-    note: "Source: Berlin.de, Events on November 9 and Berlin Freedom Week; berlin-freedom-week.com."
+    note: "Source: Berlin.de, Events on November 9 and Berlin Freedom Week; berlin-freedom-week.com. Checked Nov. 14, 2026."
     description: "One-page sheet with the 37th anniversary of the fall of the Berlin Wall on Nov. 9, 2026, Berlin Freedom Week dates and what is not yet confirmed."
     alt: "Printable fact sheet for the 37th anniversary of the fall of the Berlin Wall on Nov. 9, 2026"
     data:
@@ -83,17 +83,20 @@ assets:
         - text: "Berlin Freedom Week runs November 7 to 14, 2026."
           src: "https://www.berlin.de/en/events/9796393-2842498-berlin-freedom-week.en.html"
           quote: "November 7 - 14, 2026"
-        - text: "The Freedom and Security Women Summit is held on November 9, 2026, in the German Bundestag."
+        - text: "The Freedom and Security Women Summit was held on November 9, 2026, in the German Bundestag."
           src: "https://www.berlin-freedom-week.com/"
           quote: "am 9. November 2026 im Deutschen Bundestag"
+        - text: "The Berlin Freedom Conference was held on November 10, 2026."
+          src: "https://www.berlin-freedom-week.com/"
+          quote: "am 10. November 2026"
       activities:
         - type: lines
-          title: "Write down once announced"
-          labels: ["Berlin Wall Memorial ceremony time", "Place", "Where I checked"]
+          title: "Notes on the anniversary"
+          labels: ["Event I followed", "Place", "Where I checked"]
       unconfirmed:
         - label: "Berlin Wall Memorial commemoration time and programme"
           why: "No official 2026 programme page with times was found on stiftung-berliner-mauer.de."
-        - label: "Storytelling Salon and Berlin Freedom Conference dates and times"
+        - label: "Storytelling Salon date and time"
           why: "Only a secondary search summary; not on an official page."
 downloads:
   - group: "Berlin Wall Fall Anniversary 2026 Fact Sheet printables"
@@ -107,26 +110,28 @@ downloads:
 draft: false
 ---
 
-**Monday, Nov. 9, 2026 marks the 37th anniversary of the fall of the Berlin Wall, according to the Berlin city government's Nov. 9 events page on Berlin.de.** Berlin Freedom Week runs from Nov. 7 to 14, and several districts hold Nov. 9 commemorations with listed start times. The main Berlin Wall Memorial programme for the day is not confirmed.
+**Monday, Nov. 9, 2026 marked the 37th anniversary of the fall of the Berlin Wall, according to the Berlin city government's Nov. 9 events page on Berlin.de.** Berlin Freedom Week runs from Nov. 7 to 14, so Saturday, Nov. 14 is its last day. Several districts scheduled Nov. 9 commemorations with listed start times. The foundation homepage showed no main Berlin Wall Memorial programme for the day.
 
 ## Berlin Wall anniversary dates to mark in 2026
 
-Nov. 8, 2026 is a Sunday, so the anniversary falls on the next day, Monday. Berlin.de dates Freedom Week as Nov. 7 to 14, 2026, and its programme site, berlin-freedom-week.com, gives the same span. The count in the last column runs from Nov. 8.
+The anniversary fell on a Monday in 2026. Berlin.de dates Freedom Week as Nov. 7 to 14, 2026, and its programme site, berlin-freedom-week.com, gives the same span. Dates for the conference and film evening come from that programme site.
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-| Date | Day | What happens | Days from Nov. 8 |
+| Date | Day | What happens | Status on Nov. 14 |
 |---|---|---|---|
 | Nov. 7 | Saturday | Berlin Freedom Week begins | Passed |
-| Nov. 9 | Monday | 37th anniversary of the fall of the Berlin Wall | 1 |
-| Nov. 9 | Monday | Freedom and Security Women Summit, German Bundestag (no time given) | 1 |
-| Nov. 14 | Saturday | Berlin Freedom Week ends | 6 |
+| Nov. 9 | Monday | 37th anniversary of the fall of the Berlin Wall | Passed |
+| Nov. 9 | Monday | Freedom and Security Women Summit, German Bundestag (no time given) | Passed |
+| Nov. 10 | Tuesday | Berlin Freedom Conference (no time in the text we read) | Passed |
+| Nov. 11 | Wednesday | "Stories of Freedom" documentary evening, Colosseum Berlin | Passed |
+| Nov. 14 | Saturday | Berlin Freedom Week ends | Last day |
 
 The calendar page for [November 2026](/november-calendars.html) shows the week in full, and the [weekly calendar](/printable-weekly-calendar.html) fits the Nov. 9 to 15 run.
 
 ## Which Berlin events on Nov. 9 have a time?
 
-Berlin.de lists five district commemorations with times for Nov. 9, 2026. They sit under its "Events on November 9" page, and the Pankow entry refers to the pogroms that escalated on the night of Nov. 9 to 10, 1938. Times below are as the city prints them.
+Berlin.de listed five district commemorations with times for Nov. 9, 2026. They sit under its "Events on November 9" page, and the Pankow entry refers to the pogroms that escalated on the night of Nov. 9 to 10, 1938. Times below are as the city prints them.
 
 | District | Time | Where |
 |---|---|---|
@@ -151,14 +156,14 @@ The pogroms of 1938 escalated overnight into Nov. 10, and the Pankow entry on Be
 
 ## What is Berlin Freedom Week?
 
-Berlin Freedom Week is a programme the city lists on Berlin.de for Nov. 7 to 14, 2026. One entry from its own site is dated: the Freedom and Security Women Summit takes place on Nov. 9, 2026, in the German Bundestag, with no time given. The Berlin.de page was last edited on Nov. 5, 2026.
+Berlin Freedom Week is a programme the city lists on Berlin.de for Nov. 7 to 14, 2026. Its own site dates several entries: the Freedom and Security Women Summit took place on Nov. 9, 2026, in the German Bundestag, the Berlin Freedom Conference on Nov. 10, and the "Stories of Freedom" documentary evening at Colosseum Berlin on Nov. 11. The site gives no times for the first two in the text we read.
 
-Other programme items, including a Storytelling Salon and a Berlin Freedom Conference, appear only in a search summary and are not confirmed here. Some secondary sites call a Women Liberty Congress the kickoff; the official programme lists the opening as Nov. 7 to 8, so the official dates are used.
+Another programme item, a Storytelling Salon, appears only in a search summary and is not confirmed here. Some secondary sites call a Women Liberty Congress the kickoff; the official programme lists the opening as Nov. 7 to 8, so the official dates are used.
 
-## Is the Berlin Wall Memorial ceremony confirmed?
+## Was the Berlin Wall Memorial ceremony published?
 
-No. The Berlin Wall Foundation's homepage loaded on Nov. 8 but listed no Nov. 9, 2026 programme, and its memorial page was not opened. A secondary Berlin guide labels Nov. 9 items "35 years", which looks carried over from 2024; the 37th anniversary comes from the city's own page. This story will carry the memorial's time and place once the foundation publishes them.
+Not that we found. The Berlin Wall Foundation's homepage loaded on Nov. 8 and again on Nov. 14 but listed no Nov. 9, 2026 programme, and its memorial page was not opened. A secondary Berlin guide labels Nov. 9 items "35 years", which looks carried over from 2024; the 37th anniversary comes from the city's own page.
 
 ## Print the Berlin Wall anniversary fact sheet
 
-The free one-page sheet holds the anniversary date, the four historic Nov. 9 events, the Freedom Week dates and a list of what is still unconfirmed. Write down the memorial time once it is announced.
+The free one-page sheet holds the anniversary date, the four historic Nov. 9 events, the Freedom Week dates, the Nov. 10 conference and a list of what is still unconfirmed, with room for your own notes.
