@@ -1,8 +1,9 @@
 ---
 title: "GoCPS 2027-28 Deadline: Nov. 13 at 5 p.m., High School Offers Feb. 12"
-description: "GoCPS applications for 2027-28 close Fri., Nov. 13, 2026 at 5 p.m. Chicago time. Days left, high school offers Feb. 12 and elementary offers March 12."
+description: "GoCPS applications for 2027-28 closed Nov. 13, 2026 at 5 p.m. CT. High school offers come Feb. 12, 2027, elementary offers March 12, with days to each."
 type: news
 publishedAt: "2026-11-06T14:40:00-05:00"
+updatedAt: "2026-11-13T23:20:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["gocps deadline 2026", "gocps application 2027-28", "cps high school application deadline", "gocps offers 2027"]
@@ -14,46 +15,52 @@ hero:
   credit: "Photo: w_lemay / Wikimedia Commons, cropped, edited"
   license: { name: "CC BY-SA 2.0", url: "https://creativecommons.org/licenses/by-sa/2.0", source: "https://commons.wikimedia.org/wiki/File:Schurz_High_School,_Milwaukee_Avenue_and_Addison_Street,_Irving_Park,_Chicago,_IL_-_54521987315.jpg", author: "w_lemay" }
 summary:
-  - "The GoCPS application for the 2027-28 school year closes Friday, Nov. 13, 2026 at 5:00 PM for both elementary and high school, according to Chicago Public Schools (CPS)."
-  - "CPS lists the time without a zone; for a Chicago school system that is Central Time (CT), or 6 p.m. Eastern Time (ET) (our conversion)."
-  - "Initial high school offers are released Feb. 12, 2027 and initial elementary offers March 12, 2027."
+  - "The GoCPS application for the 2027-28 school year closed Friday, Nov. 13, 2026 at 5:00 PM for both elementary and high school, according to Chicago Public Schools (CPS); its GoCPS page lists no extension."
+  - "Initial high school offers are released Feb. 12, 2027 and initial elementary offers March 12, 2027, 90 and 118 days after Nov. 14 (our math)."
   - "Families get three weeks to accept an offer in the initial window; CPS has not posted the 2027 acceptance dates."
+  - "A family that missed the deadline can apply after the rolling waitlist opens; CPS gives no opening date."
 faq:
   - q: "When is the GoCPS application deadline for 2027-28?"
-    a: "Friday, Nov. 13, 2026 at 5:00 PM, the time the CPS GoCPS page lists for both elementary and high school applications. CPS gives no time zone; Chicago is on Central Time, so that is 6 p.m. Eastern Time (our conversion)."
+    a: "Friday, Nov. 13, 2026 at 5:00 PM, the time the CPS GoCPS page lists for both elementary and high school applications. The window has closed, and the page shows no extension."
   - q: "When are GoCPS offers released for 2027-28?"
     a: "CPS lists Feb. 12, 2027 for initial high school offers and March 12, 2027 for initial elementary offers."
+  - q: "What if a family missed the GoCPS deadline?"
+    a: "CPS says applications can be submitted \"after the rolling waitlist opens.\" It has not posted an opening date."
   - q: "How long do families have to accept a GoCPS offer?"
-    a: "CPS says that in the initial selections window families have three weeks to decide, and offers not accepted by the Offer Acceptance Deadline automatically expire. The 2027 dates are not yet announced."
+    a: "CPS says that in the initial selections window families have three weeks to decide, and after the Offer Acceptance Deadline all students must join the rolling wait list to be considered. The 2027 dates are not yet announced."
   - q: "Can a student take the High School Admissions Test now?"
-    a: "No. CPS listed school-day testing on Oct. 7, 2026 and weekend testing on Oct. 17-18 and Oct. 24-25, and says it cannot offer testing outside the designated window."
+    a: "No. The window has passed. CPS listed school-day testing on Oct. 7, 2026 and weekend testing on Oct. 17-18 and Oct. 24-25, and says it cannot offer testing outside the designated window."
   - q: "What was the deadline last year?"
     a: "For 2026-27, CPS said applications were due at 5 p.m. on Friday, Nov. 14, 2025."
 sources:
   - title: "GoCPS"
     url: "https://www.cps.edu/GoCPS"
     publisher: "Chicago Public Schools"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "High School Admissions Test (HSAT)"
     url: "https://www.cps.edu/gocps/high-school/apply/hsat-test/"
     publisher: "Chicago Public Schools"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Accepting and Declining GoCPS Offers: High School"
     url: "https://www.cps.edu/gocps/high-school/results/accepting-and-declining"
     publisher: "Chicago Public Schools"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Accepting and Declining Offers: K-8"
     url: "https://cps.edu/gocps/elementary-school/results/accepting-and-declining-offers"
     publisher: "Chicago Public Schools"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Apply to High School"
     url: "https://www.cps.edu/gocps/high-school/apply/"
     publisher: "Chicago Public Schools"
-    date: "2026-11-06"
+    date: "2026-11-14"
   - title: "Reminder: GoCPS Applications Due on Friday, November 14"
     url: "https://www.cps.edu/media/community-updates/2025/november/gocps/"
     publisher: "Chicago Public Schools"
     date: "2025-11-10"
+  - title: "Apply to Elementary Schools"
+    url: "https://www.cps.edu/gocps/elementary-school/apply/"
+    publisher: "Chicago Public Schools"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -81,7 +88,7 @@ assets:
     group: gocps-2027-28
     title: "GoCPS 2027-28 Deadlines and Offer Dates"
     subtitle: "Chicago Public Schools application close, offers and decision window"
-    note: "Source: Chicago Public Schools, GoCPS, High School Admissions Test and offer acceptance pages, read Nov. 6, 2026. CPS lists 5:00 PM with no time zone; Chicago is on Central Time. CPS has not posted the 2027 offer acceptance deadlines."
+    note: "Source: Chicago Public Schools, GoCPS, High School Admissions Test and offer acceptance pages, read Nov. 14, 2026. CPS lists 5:00 PM with no time zone; Chicago is on Central Time. Applications closed Nov. 13. CPS has not posted the 2027 offer acceptance deadlines."
     description: "A one-page sheet of the GoCPS 2027-28 dates: applications close Nov. 13, 2026, high school offers Feb. 12, 2027 and elementary offers March 12, 2027."
     alt: "Printable grid of GoCPS 2027-28 application and offer dates for Chicago Public Schools families."
     data:
@@ -113,30 +120,30 @@ assets:
           src: 1
           quote: "MARCH 12th, 2027 - Initial Elementary School GoCPS Offers for the 2027-28 School are Released."
       unconfirmed:
-        - { label: "Offer acceptance deadlines", why: "CPS had not posted the 2027 dates as of Nov. 6, 2026" }
+        - { label: "Offer acceptance deadlines", why: "CPS had not posted the 2027 dates as of Nov. 14, 2026" }
 ---
 
-GoCPS applications for the 2027-28 school year close Friday, Nov. 13, 2026 at 5:00 PM, according to the [Chicago Public Schools (CPS) GoCPS page](https://www.cps.edu/GoCPS), which lists that time for both elementary and high school. The page gives no time zone. Chicago is on Central Time (CT) in November, so we read it as 5 p.m. Chicago time, which is 6 p.m. Eastern Time (ET) (our conversion). Initial high school offers are released Feb. 12, 2027 and elementary offers March 12.
+GoCPS applications for the 2027-28 school year closed Friday, Nov. 13, 2026 at 5:00 PM, according to the [Chicago Public Schools (CPS) GoCPS page](https://www.cps.edu/GoCPS), which lists that time for both elementary and high school and shows no extension (read Nov. 14, 2026). The page gives no time zone. Chicago is on Central Time (CT) in November, so we read it as 5 p.m. Chicago time, which is 6 p.m. Eastern Time (ET) (our conversion). Initial high school offers are released Feb. 12, 2027 and elementary offers March 12.
 
 ## GoCPS 2027-28 dates from application to offers
 
-The days left are counted from Friday, Nov. 6, 2026 (our math).
+The days to offers are counted from Saturday, Nov. 14, 2026 (our math).
 
-| Step | Date | Days left from Nov. 6 |
+| Step | Date | Days from Nov. 14 |
 |---|---|---|
-| GoCPS application closes, elementary and high school (5:00 PM) | Fri., Nov. 13, 2026 | 7 |
-| Early Entrance to Kindergarten application closes (5:00 PM) | Fri., Nov. 13, 2026 | 7 |
-| All high school waitlists close | January 2027 (no day given) | Not yet announced |
-| Initial high school offers released | Fri., Feb. 12, 2027 | 98 |
-| Initial elementary offers released | Fri., March 12, 2027 | 126 |
+| GoCPS application closed, elementary and high school (5:00 PM) | Fri., Nov. 13, 2026 | Closed |
+| Early Entrance to Kindergarten application closed (5:00 PM) | Fri., Nov. 13, 2026 | Closed |
+| Initial high school offers released | Fri., Feb. 12, 2027 | 90 |
+| Initial elementary offers released | Fri., March 12, 2027 | 118 |
+| Offer acceptance deadlines and 2027-28 waitlist close | Not yet announced | Not yet announced |
 
 CPS says the application opened Sept. 9, 2026 at 10:00 AM. For the days that follow, see our [November 2026 printable calendar](/november-calendars.html) and [February 2027 printable calendar](/february-calendars.html).
 
-## Applications close at 5 p.m. Chicago time
+## The deadline was 5 p.m. Chicago time
 
-CPS prints "5:00 PM" and no zone. Families outside the Central Time zone should work from the Chicago clock.
+CPS prints "5:00 PM" and no zone. The Chicago clock set the close.
 
-| Zone | Deadline on Fri., Nov. 13 (our conversion) |
+| Zone | Close on Fri., Nov. 13 (our conversion) |
 |---|---|
 | Central Time (Chicago) | 5 p.m. |
 | Eastern Time | 6 p.m. |
@@ -148,16 +155,16 @@ Last year the deadline fell a day later in the month. In a [community update dat
 | 2026-27 | Fri., Nov. 14, 2025, 5 p.m. |
 | 2027-28 | Fri., Nov. 13, 2026, 5:00 PM |
 
-## What to do before 5 p.m. on Friday
+## What happens after the GoCPS deadline
 
-CPS tells families that "you will rank the programs in order of preference" on the [high school apply page](https://www.cps.edu/gocps/high-school/apply/). Its guidance reads "Rank all programs applying for in true order of preference." A checklist built from that:
+CPS says its process offers "the highest ranked program on their GoCPS application that they are eligible for." What follows, from the CPS pages:
 
-1. Rank every program you applied for in true order of preference, with your first choice at the top.
-2. Check each program on the list again before you submit.
-3. Submit the application, then confirm it went through.
-4. Do it before the close, not at 4:59 p.m.
+1. Wait for offers: Feb. 12, 2027 for high school and March 12, 2027 for elementary.
+2. Decide within the initial selections window. CPS says "families will have three weeks to make a decision on whether to accept their offers." The 2027 dates are not yet announced.
+3. After the Offer Acceptance Deadline passes, CPS says "all students must join the rolling wait list in order to be considered."
+4. A family that missed the deadline can still apply. On the [high school apply page](https://www.cps.edu/gocps/high-school/apply/) and the [elementary apply page](https://www.cps.edu/gocps/elementary-school/apply/), CPS says applications "can be submitted during the fall GoCPS application window or after the rolling waitlist opens." CPS gives no opening date.
 
-CPS says its process offers "the highest ranked program on their GoCPS application that they are eligible for." The same page says students may attend the neighborhood high school general education program for their home address. It does not say whether that requires an application, so check with CPS.
+The high school page also says students may attend the neighborhood high school general education program for their home address. It does not say whether that requires an application, so check with CPS.
 
 ## Has the High School Admissions Test window passed?
 
@@ -174,7 +181,7 @@ CPS lists Feb. 12, 2027 for initial high school offers and March 12, 2027 for in
 | High school | Fri., Feb. 12, 2027 | About three weeks after offers (CPS has not posted the date) |
 | Elementary | Fri., March 12, 2027 | About three weeks after offers (CPS has not posted the date) |
 
-The 2027 acceptance deadlines are not yet announced. CPS lists "January 2027" for high school waitlists to close and says "Waitlist offers will be extended every Tuesday and Friday by 10 am."
+The 2027 acceptance deadlines, round two dates and 2027-28 waitlist close dates are not yet announced.
 
 ## Printable GoCPS 2027-28 deadline sheet
 
