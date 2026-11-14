@@ -1,6 +1,6 @@
 ---
 title: "Grey Cup 2026 Start Time: Sunday, Nov. 15, 6 p.m. ET, by Time Zone"
-description: "Montreal plays Edmonton in the 113th Grey Cup, Sunday, Nov. 15, 2026, 6 p.m. ET in Calgary. Start time in every zone, per the Canadian Football League (CFL)."
+description: "Montreal plays Edmonton in the 113th Grey Cup, Sunday, Nov. 15, 6 p.m. ET in Calgary. Start time in every zone, per the Canadian Football League (CFL)."
 type: explainer
 publishedAt: "2026-10-26T01:09:00-04:00"
 updatedAt: "2026-11-14T01:13:00-05:00"

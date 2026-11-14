@@ -24,7 +24,6 @@ summary:
   - "The fight streams live on Netflix globally to all members at no additional cost, so it is not pay-per-view in the United States or the United Kingdom."
   - "The Press Association (PA), via ESPN, reported the ring walk is planned for about 1 a.m. in Cardiff, which is about 8 p.m. Eastern Time (ET) on Friday, by our conversion."
   - "Netflix lists Deontay Wilder vs. Jai Opetaia, Martin Bakole vs. Solomon Adebayo and Da'Mazion Vanhouter vs. Michael Essomba on the card, and has not yet announced the start time."
-  - "Cardiff Council's licensing subcommittee decides on the late-night license on Nov. 25, according to ESPN."
 faq:
   - q: "When is Fury vs Joshua?"
     a: "Friday, Dec. 11, 2026, at Principality Stadium in Cardiff, Wales, according to Netflix. Matchroom Boxing lists the same date and venue."
