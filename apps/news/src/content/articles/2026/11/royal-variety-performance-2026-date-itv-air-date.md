@@ -2,7 +2,7 @@
 title: "Royal Variety Performance 2026: Fri., Nov. 20 at Royal Albert Hall"
 description: "Royal Variety Performance 2026 is Fri., Nov. 20 at 7:30 p.m. GMT. The TV date is not announced; see 2025's, the night's timings and a printable."
 type: news
-publishedAt: "2026-11-14T10:55:00-05:00"
+publishedAt: "2026-11-14T11:15:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["royal variety performance 2026", "royal variety 2026 date", "when is royal variety on tv", "royal variety 2026 line up"]

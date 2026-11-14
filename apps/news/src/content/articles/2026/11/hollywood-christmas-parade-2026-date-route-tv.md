@@ -2,7 +2,7 @@
 title: "Hollywood Christmas Parade 2026: Nov. 29 Route, CW Airs Dec. 18"
 description: "The 94th Hollywood Christmas Parade is Sunday, Nov. 29, 2026, with a 6 p.m. PT start; The CW airs it Dec. 18. Street closure times and a printable."
 type: news
-publishedAt: "2026-11-14T10:50:00-05:00"
+publishedAt: "2026-11-14T11:15:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["hollywood christmas parade 2026", "hollywood christmas parade route", "hollywood christmas parade tv", "hollywood christmas parade road closures"]
@@ -108,8 +108,6 @@ assets:
       pick: "Going?"
       layout: table
       events:
-        - { start: "2026-11-27T23:00-08:00", tz: "America/Los_Angeles", title: "Sycamore Avenue closes", detail: "Franklin Avenue to Hollywood Boulevard", src: 3, quote: ["11:00 PM (Fri 27th)", "Sycamore from Franklin to Hollywood Blvd.", "Closed Fri Nov 27th, Sat Nov 28th"] }
-        - { start: "2026-11-28T00:01-08:00", tz: "America/Los_Angeles", title: "Hollywood Boulevard closes", detail: "Orange Drive to Highland Avenue; closed all weekend", src: 3, quote: ["Saturday — November 28th, 2026", "12:01 AM", "Hollywood Blvd. between Orange and Highland"] }
         - { start: "2026-11-29T15:00-08:00", tz: "America/Los_Angeles", title: "Hollywood Freeway (U.S. 101) ramps close", detail: "Cahuenga and Vine off-ramps; reopen 10:00 p.m.", src: 3, quote: ["Sunday — November 29th, 2026", "3:00 PM", "HOLLYWOOD FWY/HWY 101 FREEWAY CLOSURE"] }
         - { start: "2026-11-29T16:00-08:00", tz: "America/Los_Angeles", title: "Grandstand bleacher seats open", detail: "Vine, Highland, Hollywood and Sunset closures start", src: 9, quote: ["Sunday, Nov. 29, at 6 p.m.", "Grandstand bleacher seats open at 4 p.m."] }
         - { start: "2026-11-29T17:30-08:00", tz: "America/Los_Angeles", title: "Pre-parade entertainment", src: 8, quote: "The parade will begin at 6 p.m. Sunday, Nov. 29, following pre-parade entertainment at 5:30 p.m." }
@@ -144,7 +142,7 @@ draft: false
 | The CW airing | Fri., Dec. 18 | 8:00 to 10:00 p.m. ET/PT | The CW |
 | The CW encore | Thu., Dec. 24 | 8:00 to 10:00 p.m. ET/PT | The CW |
 
-The organizer's home page says the parade is "Sunday, November 29th, 2026." The 6 p.m. start comes from the two newsrooms; the Beverly Press story is dated Nov. 12 and MyNewsLA's Nov. 6. In 2025 the organizer's page also gave a 6:00 p.m. start. The parade is in Los Angeles, so the times are Pacific Time (PT).
+The organizer's home page says the parade is "Sunday, November 29th, 2026." The 6 p.m. start comes from the two newsrooms; the Beverly Press story is dated Nov. 12 and MyNewsLA's Nov. 6. In 2025 the organizer's page also gave a 6:00 p.m. start. The parade is in Los Angeles, so the times are Pacific Time (PT). On the East Coast, the 5:30 p.m. pre-parade show is 8:30 p.m. ET and the 6 p.m. step-off is 9 p.m. ET.
 
 The CW's Oct. 27 release says Santa and his reindeer close the parade. It names Erik Estrada, Laura McKenzie and Elizabeth Stanton as hosts and adds Dean Cain as the fourth. MyNewsLA and the Beverly Press name Montel Williams instead of Cain, so the fourth host is not settled in our sources. For other holiday programming on The CW and the other networks, see our [Christmas movies on TV schedule](/news/christmas-movies-on-tv-2026-schedule-by-channel/).
 

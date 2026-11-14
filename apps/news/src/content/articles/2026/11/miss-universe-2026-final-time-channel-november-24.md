@@ -2,8 +2,8 @@
 title: "Miss Universe 2026 Time: Tue., Nov. 24 at 7 p.m. ET on Telemundo"
 description: "The 75th Miss Universe final airs Tue., Nov. 24 at 7 p.m. ET on Telemundo and Peacock, an hour earlier than 2025. Start time in 8 zones, free watch sheet."
 type: news
-publishedAt: "2026-11-14T10:44:00-05:00"
-updatedAt: "2026-11-14T10:44:00-05:00"
+publishedAt: "2026-11-14T11:15:00-05:00"
+updatedAt: "2026-11-14T11:15:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["miss universe 2026 time", "miss universe 2026 date", "what time is miss universe", "where to watch miss universe 2026"]
@@ -146,7 +146,7 @@ Telemundo says only that the show airs live from Puerto Rico. A Philippine newsr
 
 In 2025, Fátima Bosch of Mexico was crowned. A viewer used to the 8 p.m. ET pageant start should note that Telemundo's 2026 broadcast starts at 7 p.m. ET.
 
-## What is not announced yet?
+## What has Miss Universe not announced for 2026?
 
 The sources used here do not give start times for the preliminary competition or the national costume show, the number of contestants, or ticket prices. Telemundo's release names only Jacky Bracamontes and Carlos Adyan as lead hosts.
 
