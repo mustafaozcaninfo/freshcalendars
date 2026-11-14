@@ -1,8 +1,9 @@
 ---
-title: "Holiday Deals This Week, Nov. 2-8: Target Nov. 5-7, Best Buy Nov. 6"
-description: "Eight holiday sales and menus start Nov. 2-8, 2026, including Target's Early Black Friday deals Nov. 5-7 and Best Buy's Nov. 6. Day-by-day table, printable"
+title: "Holiday Deals Nov. 2-8, 2026: Target Nov. 5-7, Best Buy Nov. 6"
+description: "Eight holiday sales and menus started Nov. 2-8, 2026, with Target's Early Black Friday deals Nov. 5-7 and Best Buy's Nov. 6. A day-by-day table."
 type: news
 publishedAt: "2026-10-31T23:44:00-04:00"
+updatedAt: "2026-11-14T17:45:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["early black friday deals this week", "holiday sales starting this week november 2026", "target early black friday 2026 nov 5", "what sales start this week"]
@@ -11,12 +12,12 @@ assets:
   overlay: true
   kicker: "Holiday sales · Nov. 2-8, 2026"
   date: "2026-11-05"
-  card: { top: "Target, Home Depot, Starbucks start", big: "Thu., Nov. 5", bottom: "Best Buy follows Fri., Nov. 6" }
+  card: { top: "Target, Home Depot, Starbucks started", big: "Thu., Nov. 5", bottom: "Best Buy followed Fri., Nov. 6" }
   printable:
     slug: holiday-sale-start-dates-november-2-8-2026
     group: holiday-sales-2026
     title: "Holiday Sale Start Dates, Nov. 2-8, 2026"
-    subtitle: "Holiday menus and Black Friday sales that start this week"
+    subtitle: "Holiday menus and Black Friday sales that started Nov. 2-8"
     layout: list
     rows:
       - ["Mon., Nov. 2", "Caribou Coffee holiday lineup starts"]
@@ -30,12 +31,12 @@ assets:
       - ["Sat., Nov. 7", "Target Early Black Friday deals end"]
     note: "Source: Caribou Coffee, Dunkin', Starbucks, The Home Depot, Target, Canadian Tire and Best Buy announcements; NBC News Select and The Daily Beast for Sephora. VIB is Very Important Beauty Insider."
     inkSaver: true
-    description: "One-page list of the holiday menus and Black Friday sales that start Nov. 2-8, 2026: Caribou, Sephora, Dunkin', Starbucks, Home Depot, Target, Canadian Tire and Best Buy."
+    description: "One-page list of the holiday menus and Black Friday sales that started Nov. 2-8, 2026: Caribou, Sephora, Dunkin', Starbucks, Home Depot, Target, Canadian Tire and Best Buy."
     alt: "Printable list of holiday sale and menu start dates from Nov. 2 to 8, 2026 with a Done column"
 hero:
   src: ../../../../assets/news/holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks/holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks.webp
   alt: "Target store entrance in Manchester, Connecticut, for holiday deals this week, Nov. 2-8, 2026"
-  caption: "File photo: a Target store in Manchester, Conn. Target says its Early Black Friday deals run Nov. 5-7, 2026."
+  caption: "File photo: a Target store in Manchester, Conn. Target's Early Black Friday deals ran Nov. 5-7, 2026."
   credit: "Photo: Mike Mozart from Funny YouTube, USA / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -43,19 +44,19 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Target_Store,_Manchester_CT_(14635941878).jpg"
     author: "Mike Mozart from Funny YouTube, USA"
 summary:
-  - "Eight holiday sales and menus start between Monday, Nov. 2, and Sunday, Nov. 8, 2026, and Thursday, Nov. 5, has four of them: Starbucks, Home Depot, Target and Canadian Tire."
-  - "Target's Early Black Friday deals run Nov. 5-7, per its Oct. 21 release; Best Buy's Early Black Friday Deals begin Friday, Nov. 6, per its Oct. 27 announcement."
-  - "Lowe's deals (since Oct. 29) and Best Buy DoorBOOsters (since Oct. 30) are already running."
-  - "Walmart's Early Black Friday Deals start Nov. 12, the week after this one."
+  - "Eight holiday sales and menus started between Monday, Nov. 2, and Sunday, Nov. 8, 2026, and Thursday, Nov. 5, had four of them: Starbucks, Home Depot, Target and Canadian Tire."
+  - "Target's Early Black Friday deals ran Nov. 5-7, per its Oct. 21 release; Best Buy's Early Black Friday Deals began Friday, Nov. 6, per its Oct. 27 announcement."
+  - "Lowe's deals (since Oct. 29) and Best Buy DoorBOOsters (since Oct. 30) started the week before."
+  - "Walmart's Early Black Friday Deals run Nov. 12-15, and Best Buy's 10 days of Black Friday doorbusters start Nov. 19."
 faq:
-  - q: "What holiday sales start this week, Nov. 2-8, 2026?"
+  - q: "What holiday sales started Nov. 2-8, 2026?"
     a: "Caribou Coffee's holiday lineup (Mon., Nov. 2), the Sephora Savings Event for VIB and Insider (Tue., Nov. 3), the Dunkin' holiday menu (Wed., Nov. 4), the Starbucks holiday menu, Home Depot's Black Friday Savings Event, Target's Early Black Friday deals and Canadian Tire's Black Friday deals (all Thu., Nov. 5) and Best Buy's Early Black Friday Deals (Fri., Nov. 6)."
-  - q: "When are Target's Early Black Friday deals in 2026?"
+  - q: "When were Target's Early Black Friday deals in 2026?"
     a: "Nov. 5-7, 2026, according to Target's Oct. 21 press release, which adds that new limited-time offers follow every weekend throughout the holiday season."
-  - q: "When do Best Buy's Early Black Friday Deals start in 2026?"
-    a: "Friday, Nov. 6, 2026, per Best Buy's Oct. 27 holiday calendar announcement."
-  - q: "When does Walmart's Early Black Friday sale start in 2026?"
-    a: "Walmart's Oct. 26 release lists Early Black Friday Deals for Nov. 12-15 and Black Friday Deals for Nov. 23-29, so neither starts this week."
+  - q: "When did Best Buy's Early Black Friday Deals start in 2026?"
+    a: "Friday, Nov. 6, 2026, per Best Buy's Oct. 27 holiday calendar announcement. Its 10 days of Black Friday doorbusters and deals start Nov. 19, according to the same page."
+  - q: "When is Walmart's Early Black Friday sale in 2026?"
+    a: "Nov. 12-15, 2026, according to Walmart's Oct. 26 release, which also lists Black Friday Deals for Nov. 23-29."
 sources:
   - title: "Target Makes it Easier for Guests to Discover Stylish Holiday Gifts They Can't Wait to Give"
     url: "https://corporate.target.com/press/release/2026/10/target-makes-it-easier-for-guests-to-discover-stylish-holiday-gifts-they-can-t-wait-to-give"
@@ -135,11 +136,11 @@ downloads:
 draft: false
 ---
 
-**Eight holiday sales and menus start between Monday, Nov. 2, and Sunday, Nov. 8, 2026, and four of them start on Thursday, Nov. 5, each according to the retailer's own announcement.** Target's Early Black Friday deals run Nov. 5-7, per its Oct. 21 press release, and Best Buy's Early Black Friday Deals begin Friday, Nov. 6, per its Oct. 27 announcement. The day-by-day table below lines them up, and a [one-page printable](#downloads) keeps the week on your fridge.
+**Eight holiday sales and menus started between Monday, Nov. 2, and Sunday, Nov. 8, 2026, and four of them started on Thursday, Nov. 5, each according to the retailer's own announcement.** Target's Early Black Friday deals ran Nov. 5-7, per its Oct. 21 press release, and Best Buy's Early Black Friday Deals began Friday, Nov. 6, per its Oct. 27 announcement. The day-by-day table below lines them up, and a [one-page printable](#downloads) keeps the week as a record.
 
-## Holiday sales and menus that start each day, Nov. 2-8
+## Holiday sales and menus that started each day, Nov. 2-8
 
-| Day | Date | What starts | Source |
+| Day | Date | What started | Source |
 |---|---|---|---|
 | Mon. | Nov. 2 | Caribou Coffee holiday lineup | Caribou Coffee via PR Newswire, Oct. 13 |
 | Tue. | Nov. 3 | Sephora Savings Event opens to Very Important Beauty Insider (VIB) and Insider members; runs through Nov. 9 | NBC News Select and The Daily Beast, Oct. 30 |
@@ -149,13 +150,13 @@ draft: false
 | Thu. | Nov. 5 | Target Early Black Friday deals; run Nov. 5-7 | Target, Oct. 21 |
 | Thu. | Nov. 5 | Canadian Tire Black Friday deals | Canadian Tire, Oct. 29 |
 | Fri. | Nov. 6 | Best Buy Early Black Friday Deals | Best Buy, Oct. 27 |
-| Sat. and Sun. | Nov. 7-8 | No new start in the announcements we read; Target's deals end Nov. 7 | Target, Oct. 21 |
+| Sat. and Sun. | Nov. 7-8 | No new start in the announcements we read; Target's deals ended Nov. 7 | Target, Oct. 21 |
 
 The weekdays are our computation. Mark the week on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
 
-## Which sales are already running this week?
+## Which sales were already running that week?
 
-Two retailers started before Nov. 2. Lowe's Black Friday deals have run since Oct. 29, and its 12 Days of Deals begin Nov. 16, per its Oct. 8 holiday announcement. Best Buy's DoorBOOsters have run since Oct. 30, and Best Buy says new Doorbusters drop every week, per its Oct. 27 holiday calendar.
+Two retailers started before Nov. 2. Lowe's Black Friday deals began Oct. 29, and its 12 Days of Deals begin Nov. 16, per its Oct. 8 holiday announcement. Best Buy's DoorBOOsters began Oct. 30, and Best Buy says new deals drop every Friday, per its Oct. 27 holiday calendar.
 
 ## What does Target's Early Black Friday sale include?
 
@@ -163,25 +164,25 @@ Target's Oct. 21 press release says: "Early Black Friday deals run Nov. 5-7, fol
 
 Last year, Target's Oct. 30, 2025 fact sheet said its "three-day Early Black Friday Sale is back Nov. 6-8" and that the Holiday Price Match Guarantee ran Nov. 1 through Dec. 24. Those are 2025 dates. Target has not announced its 2026 price match, its Black Friday Week dates, Target Circle early access or Thanksgiving hours. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Target, Walmart and Best Buy as they publish. Our [Target Black Friday deals](/news/target-black-friday-2026-early-sale-november-5-7-price-match-dates/) story has the early-deal dates and price match.
 
-## Which holiday menus start this week?
+## Which holiday menus started that week?
 
-Three chains change their menus in order. Caribou Coffee's holiday lineup is available starting Mon., Nov. 2, per its Oct. 13 release. Dunkin' says holiday cups and its Donutcracker box design appear nationwide beginning Wed., Nov. 4, per its Oct. 28 release; see our [Dunkin' holiday menu story](/news/dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu/).
+Three chains changed their menus in order. Caribou Coffee's holiday lineup was available starting Mon., Nov. 2, per its Oct. 13 release. Dunkin' said holiday cups and its Donutcracker box design would appear nationwide beginning Wed., Nov. 4, per its Oct. 28 release; see our [Dunkin' holiday menu story](/news/dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu/).
 
-Starbucks announced on Oct. 5 that its holiday menu returns Thu., Nov. 5. Red Cup Day is Tue., Nov. 17, according to Scripps News, citing Starbucks; the [Starbucks holiday menu story](/news/starbucks-holiday-menu-2026-red-cup-day-date/) has the drink list.
+Starbucks announced on Oct. 5 that its holiday menu would return Thu., Nov. 5. Red Cup Day is Tue., Nov. 17, according to Scripps News, citing Starbucks; the [Starbucks holiday menu story](/news/starbucks-holiday-menu-2026-red-cup-day-date/) has the drink list.
 
-## Which Black Friday sales begin on Nov. 5 and 6?
+## Which Black Friday sales began on Nov. 5 and 6?
 
-The Home Depot says its Black Friday Savings Event runs Nov. 5 through 25; our [Home Depot Black Friday story](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/) covers store hours. Canadian Tire's Black Friday page says its deals start Thu., Nov. 5, with no end date given.
+The Home Depot says its Black Friday Savings Event runs Nov. 5 through 25; our [Home Depot Black Friday story](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/) covers store hours. Canadian Tire's Black Friday page said its deals start Thu., Nov. 5, with no end date given.
 
-Best Buy's Early Black Friday Deals and Doorbusters begin Fri., Nov. 6. The [Best Buy holiday calendar story](/news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/) lists every date through January.
+Best Buy's Early Black Friday Deals and Doorbusters began Fri., Nov. 6, and its 10 days of Black Friday doorbusters and deals start Nov. 19, per its holiday calendar. The [Best Buy holiday calendar story](/news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/) lists every date through January.
 
-## When does the Sephora Savings Event open to VIB and Insider members?
+## When did the Sephora Savings Event open to VIB and Insider members?
 
-Tue., Nov. 3, and it runs through Mon., Nov. 9, NBC News Select and The Daily Beast reported on Oct. 30. We did not have Sephora's own savings page, so this row rests on those two newsrooms.
+Tue., Nov. 3, and it ran through Mon., Nov. 9, NBC News Select and The Daily Beast reported on Oct. 30. We did not have Sephora's own savings page, so this row rests on those two newsrooms.
 
-## What starts after this week?
+## What comes next?
 
-Walmart's Oct. 26 release lists Early Black Friday Deals for Nov. 12-15 and Black Friday Deals for Nov. 23-29. Our [Walmart Black Friday 2026 dates story](/news/walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access/) has the details.
+Walmart's Oct. 26 release lists Early Black Friday Deals for Nov. 12-15 and Black Friday Deals for Nov. 23-29, and Cyber Monday deals from Nov. 30 to Dec. 2. Lowe's 12 Days of Deals begin Nov. 16, and Best Buy's 10 days of Black Friday doorbusters start Nov. 19. Our [Walmart Black Friday 2026 dates story](/news/walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access/) has the details.
 
 ## Print the holiday sale start dates for Nov. 2-8
 

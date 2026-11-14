@@ -1,8 +1,9 @@
 ---
-title: "NHL Games Today, Nov. 2, 2026: 4 Games, First Faceoff 7:00 p.m. ET"
-description: "NHL games today, Monday, Nov. 2, 2026: 4 games from 7:00 to 9:00 p.m. ET. Time-zone table for every game, U.S. and Canada TV table, printable watch sheet."
+title: "NHL Games Nov. 2, 2026: Final Scores and Start Times, 4 Games"
+description: "NHL games Monday, Nov. 2, 2026: Bruins, Red Wings, Avalanche and Flames won. Final scores, ET start times, a time-zone table, TV table and printable sheet."
 type: news
 publishedAt: "2026-10-31T21:44:00-04:00"
+updatedAt: "2026-11-14T18:05:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today November 2 2026", "NHL schedule Monday November 2", "NHL games tonight", "Flames vs Sharks time", "Avalanche vs Blackhawks time"]
@@ -11,7 +12,7 @@ assets:
   overlay: true
   kicker: "NHL · Mon., Nov. 2, 2026"
   date: "2026-11-02"
-  card: { top: "4 NHL games Monday", big: "7:00 p.m. ET", bottom: "Last faceoff 9:00 p.m. ET" }
+  card: { top: "4 NHL games Monday", big: "Nov. 2 scores", bottom: "First faceoff was 7:00 p.m. ET" }
   printable:
     slug: nhl-games-today-november-2-2026
     group: nhl-2026-27
@@ -19,6 +20,7 @@ assets:
     subtitle: "All 4 games, start times in Eastern Time. Write in the final scores."
     columns: ["Start (ET)", "Game and TV"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["7:00 p.m.", "Golden Knights at Bruins, TD Garden. TV: NHL Network, New England Sports Network (NESN). Final: ___ to ___"]
       - ["7:00 p.m.", "Red Wings at Panthers, Amerant Bank Arena. TV: local broadcasts. Final: ___ to ___"]
@@ -31,7 +33,7 @@ assets:
 hero:
   src: ../../../../assets/news/nhl-games-today-november-2-2026/nhl-games-today-november-2-2026.webp
   alt: "NHL games today Nov. 2, 2026: a Sharks home game on the ice at SAP Center at San Jose, seen from the upper seats"
-  caption: "SAP Center at San Jose, where the Calgary Flames visit the Sharks at 9 p.m. ET on Monday, Nov. 2, 2026. File photo from January 2025."
+  caption: "SAP Center at San Jose, where the Calgary Flames beat the Sharks 2-1 in the 9 p.m. ET game on Monday, Nov. 2, 2026. File photo from January 2025."
   credit: "Photo: Yelderberry / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -40,26 +42,32 @@ hero:
     author: "Yelderberry"
     authorUrl: "https://commons.wikimedia.org/w/index.php?title=User:Yelderberry&action=edit&redlink=1"
 summary:
-  - "The National Hockey League (NHL) lists 4 games for Monday, Nov. 2, 2026, from 7:00 p.m. to 9:00 p.m. Eastern Time (ET)."
-  - "Two games start at 7:00 p.m. ET, Golden Knights at Bruins and Red Wings at Panthers; Avalanche at Blackhawks is at 8:00 p.m. ET and Flames at Sharks at 9:00 p.m. ET."
-  - "The NHL lists NHL Network as the national U.S. channel for Golden Knights at Bruins; the other three games carry regional channels, and Flames at Sharks has Canadian national listings."
-  - "The page has a time-zone table for every game, a TV table split into U.S. and Canada, and a printable watch sheet."
+  - "The National Hockey League (NHL) played 4 games on Monday, Nov. 2, 2026, from 7:00 p.m. to 9:00 p.m. Eastern Time (ET): Bruins 3, Golden Knights 2 (shootout); Red Wings 5, Panthers 3; Avalanche 5, Blackhawks 2; Flames 2, Sharks 1."
+  - "Two games started at 7:00 p.m. ET, Golden Knights at Bruins and Red Wings at Panthers; Avalanche at Blackhawks was at 8:00 p.m. ET and Flames at Sharks at 9:00 p.m. ET."
+  - "The NHL listed NHL Network as the national U.S. channel for Golden Knights at Bruins; the other three games carried regional channels, and Flames at Sharks had Canadian national listings."
+  - "The page keeps a time-zone table for every game, a TV table split into U.S. and Canada, and the printable watch sheet."
 faq:
-  - q: "How many NHL games are on tonight, Monday, Nov. 2, 2026?"
-    a: "Four, per the NHL's schedule data. Golden Knights at Bruins and Red Wings at Panthers start at 7:00 p.m. ET, Avalanche at Blackhawks at 8:00 p.m. ET and Flames at Sharks at 9:00 p.m. ET."
-  - q: "What time is Flames vs Sharks on Nov. 2?"
-    a: "The NHL lists a 9:00 p.m. ET start at SAP Center in San Jose, which is 8:00 p.m. Central Time (CT), 7:00 p.m. Mountain Time (MT) and 6:00 p.m. local time in San Jose on Pacific Time (PT)."
-  - q: "What time is Avalanche vs Blackhawks on Nov. 2?"
-    a: "The NHL lists an 8:00 p.m. ET start at the United Center in Chicago, which is 7:00 p.m. local time in Chicago on Central Time (CT), 6:00 p.m. Mountain Time (MT) and 5:00 p.m. Pacific Time (PT)."
-  - q: "Which NHL game is on national TV on Nov. 2?"
-    a: "For Golden Knights at Bruins, the NHL lists NHL Network, Sportsnet+ and a French-language channel as national channels. For Flames at Sharks, it lists Sportsnet+ and a French-language channel as national channels in Canada. The other two games list regional channels only."
-  - q: "Is there a printable NHL schedule for Monday?"
-    a: "Yes. The one-page watch sheet lists all 4 games with start times in ET, arenas, TV and a line for each final score. It does not update, so check the NHL schedule before puck drop."
+  - q: "How many NHL games were played on Monday, Nov. 2, 2026?"
+    a: "Four, per the NHL's schedule data. Golden Knights at Bruins and Red Wings at Panthers started at 7:00 p.m. ET, Avalanche at Blackhawks at 8:00 p.m. ET and Flames at Sharks at 9:00 p.m. ET."
+  - q: "What were the NHL scores on Nov. 2, 2026?"
+    a: "Bruins 3, Golden Knights 2 in a shootout; Red Wings 5, Panthers 3; Avalanche 5, Blackhawks 2; Flames 2, Sharks 1, according to the NHL's score feed."
+  - q: "What time was Flames vs Sharks on Nov. 2?"
+    a: "The NHL listed a 9:00 p.m. ET start at SAP Center in San Jose, which is 8:00 p.m. Central Time (CT), 7:00 p.m. Mountain Time (MT) and 6:00 p.m. local time in San Jose on Pacific Time (PT)."
+  - q: "What time was Avalanche vs Blackhawks on Nov. 2?"
+    a: "The NHL listed an 8:00 p.m. ET start at the United Center in Chicago, which is 7:00 p.m. local time in Chicago on Central Time (CT), 6:00 p.m. Mountain Time (MT) and 5:00 p.m. Pacific Time (PT)."
+  - q: "Which NHL game was on national TV on Nov. 2?"
+    a: "For Golden Knights at Bruins, the NHL listed NHL Network, Sportsnet+ and a French-language channel as national channels. For Flames at Sharks, it listed Sportsnet+ and a French-language channel as national channels in Canada. The other two games listed regional channels only."
+  - q: "Is there a printable NHL sheet for Monday, Nov. 2?"
+    a: "Yes. The one-page watch sheet lists all 4 games with start times in ET, arenas, TV and a line for each final score."
 sources:
   - title: "NHL schedule data, Nov. 2, 2026"
     url: "https://api-web.nhle.com/v1/schedule/2026-11-02"
     publisher: "National Hockey League"
-    date: "2026-11-01"
+    date: "2026-11-14"
+  - title: "NHL scores, Nov. 2, 2026"
+    url: "https://api-web.nhle.com/v1/score/2026-11-02"
+    publisher: "National Hockey League"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -86,11 +94,11 @@ downloads:
 draft: false
 ---
 
-**Monday, Nov. 2, 2026 has 4 National Hockey League (NHL) games, the first faceoff at 7:00 p.m. Eastern Time (ET) and the last at 9:00 p.m. ET, per the NHL's official schedule data.** The Vegas Golden Knights visit the Boston Bruins and the Detroit Red Wings visit the Florida Panthers at 7:00 p.m. ET. The Colorado Avalanche are at the Chicago Blackhawks at 8:00 p.m. ET, and the Calgary Flames are at the San Jose Sharks at 9:00 p.m. ET.
+**Monday, Nov. 2, 2026 had 4 National Hockey League (NHL) games, the first faceoff at 7:00 p.m. Eastern Time (ET) and the last at 9:00 p.m. ET, per the NHL's official schedule data.** The Vegas Golden Knights visited the Boston Bruins and the Detroit Red Wings visited the Florida Panthers at 7:00 p.m. ET. The Colorado Avalanche were at the Chicago Blackhawks at 8:00 p.m. ET, and the Calgary Flames were at the San Jose Sharks at 9:00 p.m. ET. Final scores are in the table below.
 
-We took the games, times, arenas and TV listings from the league's schedule feed on Nov. 1. The feed gives start times in Coordinated Universal Time (UTC), and we converted them to Eastern Time, which is UTC-5 on Nov. 2. This page does not carry live scores.
+We took the games, times, arenas and TV listings from the league's schedule feed on Nov. 1, and the final scores from its score feed. The feed gives start times in Coordinated Universal Time (UTC), and we converted them to Eastern Time, which is UTC-5 on Nov. 2.
 
-## NHL schedule tonight: 4 games, arenas and start times
+## NHL schedule Nov. 2: 4 games, arenas and start times
 
 | Start (ET) | Game | Arena |
 |---|---|---|
@@ -99,9 +107,16 @@ We took the games, times, arenas and TV listings from the league's schedule feed
 | 8:00 p.m. (7:00 p.m. CT local) | Colorado Avalanche at Chicago Blackhawks | United Center, Chicago |
 | 9:00 p.m. (6:00 p.m. PT local) | Calgary Flames at San Jose Sharks | SAP Center at San Jose |
 
-Monday is the first full weeknight on standard time, so every time here is Eastern Standard Time.
+Monday was the first full weeknight on standard time, so every time here is Eastern Standard Time.
 
-## What time are Flames vs Sharks and Avalanche vs Blackhawks where I live?
+| Game | Final |
+|---|---|
+| Golden Knights at Bruins | Bruins 3, Golden Knights 2 (shootout) |
+| Red Wings at Panthers | Red Wings 5, Panthers 3 |
+| Avalanche at Blackhawks | Avalanche 5, Blackhawks 2 |
+| Flames at Sharks | Flames 2, Sharks 1 |
+
+## What time were Flames vs Sharks and Avalanche vs Blackhawks where I live?
 
 We worked these out from the league's Eastern start times for Central Time (CT), Mountain Time (MT), Pacific Time (PT), Arizona, Alaska and Hawaii. Arizona matches Mountain Time on these dates.
 
@@ -115,11 +130,11 @@ We worked these out from the league's Eastern start times for Central Time (CT),
 | Alaska | 3:00 p.m. | 4:00 p.m. | 5:00 p.m. |
 | Hawaii | 2:00 p.m. | 3:00 p.m. | 4:00 p.m. |
 
-The Avalanche and Flames played each other on Saturday, Oct. 31, in Denver; on Monday each team is on the road against a different opponent.
+The Avalanche and Flames played each other on Saturday, Oct. 31, in Denver; on Monday each team was on the road against a different opponent.
 
-## How to watch NHL games tonight
+## How to watch NHL games on Nov. 2
 
-The NHL schedule data lists these channels. Regional channels depend on where you live, so check your provider's guide. The NHL lists the Red Wings' regional network under a short code, so we do not name it.
+The NHL schedule data listed these channels. Regional channels depend on where you live. The NHL lists the Red Wings' regional network under a short code, so we do not name it.
 
 | Game | U.S. TV listed by the NHL | Canada TV listed by the NHL |
 |---|---|---|
@@ -130,6 +145,6 @@ The NHL schedule data lists these channels. Regional channels depend on where yo
 
 ## Printable NHL Monday watch sheet
 
-The one-page sheet puts the 4 games in start-time order, each with its arena, TV and a line for the final score, plus a notes area. Pin it next to the [printable weekly calendar](/printable-weekly-calendar.html), or keep the [November 2026 printable calendar](/november-calendars.html) handy for the week ahead. A printed sheet cannot update itself, so check the NHL schedule if a start time moves.
+The one-page sheet puts the 4 games in start-time order, each with its arena, TV and a line for the final score, plus a notes area. Pin it next to the [printable weekly calendar](/printable-weekly-calendar.html), or keep the [November 2026 printable calendar](/november-calendars.html) handy for the weeks ahead.
 
-Sunday's slate is in [NHL games today for Nov. 1](/news/nhl-games-today-november-1-2026/), the National Basketball Association (NBA) games are in [NBA games today, Nov. 2](/news/nba-games-today-november-2-2026/), and the Toronto Maple Leafs' dates are in the [Maple Leafs November 2026 schedule](/news/toronto-maple-leafs-schedule-november-2026-game-times-tv-printable/).
+Sunday's slate was in [NHL games today for Nov. 1](/news/nhl-games-today-november-1-2026/), the National Basketball Association (NBA) games were in [NBA games today, Nov. 2](/news/nba-games-today-november-2-2026/), and the Toronto Maple Leafs' dates are in the [Maple Leafs November 2026 schedule](/news/toronto-maple-leafs-schedule-november-2026-game-times-tv-printable/).

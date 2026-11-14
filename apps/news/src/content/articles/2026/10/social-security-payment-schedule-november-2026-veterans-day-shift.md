@@ -1,8 +1,9 @@
 ---
-title: "Social Security Payment Schedule November 2026: Nov. 10 Is Early"
-description: "Social Security pays the 1st-to-10th birthday group Tuesday, Nov. 10, 2026, a day early for Veterans Day. Also Nov. 3, 18 and 25, plus December dates."
+title: "Social Security Payment Schedule November 2026: Nov. 10 Was Early"
+description: "Social Security paid the 1st-to-10th birthday group Tuesday, Nov. 10, 2026, a day early for Veterans Day. Nov. 18 and 25 are still ahead, plus December dates."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
+updatedAt: "2026-11-14T17:30:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["Social Security payment schedule November 2026", "Social Security Veterans Day 2026", "SSI payment December 2026", "Social Security payment dates December 2026"]
@@ -11,7 +12,7 @@ hero:
   src: ../../../../assets/news/social-security-payment-schedule-november-2026-veterans-day-shift/social-security-payment-schedule-november-2026-veterans-day-shift.webp
   alt: "Clerks at rows of desks in a Social Security records office in Baltimore, for the Social Security payment schedule November 2026"
   title: "Social Security November 2026 payment schedule"
-  caption: "Social Security clerks in Baltimore, historical Harris & Ewing photo. Birthdays 1st-10th are paid Tuesday, Nov. 10, 2026."
+  caption: "Social Security clerks in Baltimore, historical Harris & Ewing photo. Birthdays 1st-10th were paid Tuesday, Nov. 10, 2026."
   credit: "Photo: Harris & Ewing, photographer / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -19,15 +20,15 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Baltimore,_Md._For_every_social_security_account_number_issued_an_%22employee_master_card%22_is_made_in_the_Social_Security_board_records_office._Testifying_data,_given_on_the_application_blank,_LCCN2016863062.jpg"
     author: "Harris & Ewing, photographer"
 summary:
-  - "People with birthdays on the 1st through the 10th are paid Tuesday, Nov. 10, 2026, because the second Wednesday, Nov. 11, is Veterans Day, a federal holiday."
-  - "The other November Social Security dates are Tuesday, Nov. 3, Wednesday, Nov. 18 and Wednesday, Nov. 25."
+  - "People with birthdays on the 1st through the 10th were paid Tuesday, Nov. 10, 2026, because the second Wednesday, Nov. 11, was Veterans Day, a federal holiday."
+  - "The other November Social Security dates were Tuesday, Nov. 3, and still ahead are Wednesday, Nov. 18 and Wednesday, Nov. 25."
   - "Supplemental Security Income (SSI) has two payments dated in December 2026: Tuesday, Dec. 1 for December and Thursday, Dec. 31 for January 2027."
   - "The 3.6% cost-of-living adjustment (COLA) starts with payments made in January 2027."
 faq:
-  - q: "Why is Social Security paid on Tuesday, Nov. 10, 2026?"
-    a: "The second Wednesday of November is Nov. 11, Veterans Day, a federal holiday. Payments due on a weekend or federal holiday are paid the business day before, so people born on the 1st through the 10th are paid Tuesday, Nov. 10."
-  - q: "When is the third Social Security payment in November 2026?"
-    a: "Wednesday, Nov. 18, for birthdays on the 11th through the 20th. Birthdays on the 21st through the 31st are paid Wednesday, Nov. 25."
+  - q: "Why was Social Security paid on Tuesday, Nov. 10, 2026?"
+    a: "The second Wednesday of November was Nov. 11, Veterans Day, a federal holiday. Payments due on a weekend or federal holiday are paid the business day before, so people born on the 1st through the 10th were paid Tuesday, Nov. 10."
+  - q: "When is the next Social Security payment in November 2026?"
+    a: "Wednesday, Nov. 18, for birthdays on the 11th through the 20th. Birthdays on the 21st through the 31st are paid Wednesday, Nov. 25. The earlier November dates, Nov. 3 and Nov. 10, have passed."
   - q: "Is there an SSI payment in November 2026?"
     a: "No payment is dated in November. November's SSI was paid Friday, Oct. 30, because Nov. 1 is a Sunday. The next one is Tuesday, Dec. 1."
   - q: "Why are there two SSI payments in December 2026?"
@@ -57,8 +58,9 @@ assets:
   kicker: "Social Security · Tue., Nov. 10, 2026"
   date: "2026-11-10"
   overlay: true
-  card: { top: "Veterans Day shift: birthdays 1-10 paid", big: "Tue., Nov. 10", bottom: "Wed., Nov. 11 is a federal holiday" }
+  card: { top: "Veterans Day shift: birthdays 1-10 paid", big: "Tue., Nov. 10", bottom: "Wed., Nov. 11 was a federal holiday" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: social-security-payment-dates-nov-dec-2026
     group: social-security-2026
     title: "Social Security Payment Dates, Nov.-Dec. 2026"
@@ -98,7 +100,7 @@ downloads:
     pages: 1
 ---
 
-**Social Security pays people with birthdays on the 1st through the 10th on Tuesday, Nov. 10, 2026, one day early, because the usual second-Wednesday date, Nov. 11, is Veterans Day.** The Social Security Administration (SSA) publishes the 2026 schedule as Publication No. 05-10031, and its rule is that a payment due on a weekend or federal holiday is paid the business day before. The other November dates are Tuesday, Nov. 3, Wednesday, Nov. 18 and Wednesday, Nov. 25. The Nov. 10 and December rows below apply that rule to the 2026 weekdays; check them against SSA's PDF.
+**Social Security paid people with birthdays on the 1st through the 10th on Tuesday, Nov. 10, 2026, one day early, because the usual second-Wednesday date, Nov. 11, was Veterans Day.** The Social Security Administration (SSA) publishes the 2026 schedule as Publication No. 05-10031, and its rule is that a payment due on a weekend or federal holiday is paid the business day before. The other November dates were Tuesday, Nov. 3, and still to come are Wednesday, Nov. 18 and Wednesday, Nov. 25. The Nov. 10 and December rows below apply that rule to the 2026 weekdays; check them against SSA's PDF.
 
 ## Which Social Security payments come in November 2026?
 
@@ -106,7 +108,7 @@ downloads:
 |---|---|
 | Friday, Oct. 30 | Supplemental Security Income (SSI) for November (Nov. 1 is a Sunday) |
 | Tuesday, Nov. 3 | Benefits started before May 1997, or Social Security plus SSI |
-| **Tuesday, Nov. 10** | **Birthdays on the 1st to the 10th (moved up from Wednesday, Nov. 11, Veterans Day)** |
+| **Tuesday, Nov. 10** | **Birthdays on the 1st to the 10th (moved up from Wednesday, Nov. 11, Veterans Day; paid)** |
 | Wednesday, Nov. 18 | Birthdays on the 11th to the 20th |
 | Wednesday, Nov. 25 | Birthdays on the 21st to the 31st |
 
@@ -114,7 +116,7 @@ No SSI payment is dated in November: November's went out Friday, Oct. 30, and th
 
 ## Why does Veterans Day change one payment date?
 
-Social Security pays by birthday group on the second, third and fourth Wednesdays of the month. In November 2026 the second Wednesday is the 11th, which is Veterans Day, a federal holiday. Because SSA pays the business day before a holiday, the 1st-to-10th group is paid Tuesday, Nov. 10. The other two Wednesday groups keep their dates. Mark Tuesday, Nov. 10 on your [November 2026 printable calendar](/november-calendars.html).
+Social Security pays by birthday group on the second, third and fourth Wednesdays of the month. In November 2026 the second Wednesday was the 11th, which was Veterans Day, a federal holiday. Because SSA pays the business day before a holiday, the 1st-to-10th group was paid Tuesday, Nov. 10. The other two Wednesday groups keep their dates. The remaining November dates fit on your [November 2026 printable calendar](/november-calendars.html).
 
 ## What are the December 2026 payment dates?
 

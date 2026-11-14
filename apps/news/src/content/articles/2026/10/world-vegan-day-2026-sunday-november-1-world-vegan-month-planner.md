@@ -12,7 +12,7 @@ assets:
   overlay: true
   kicker: "World Vegan Day · Sun., Nov. 1"
   date: "2026-11-01"
-  card: { top: "World Vegan Month", big: "Nov. 1-30", bottom: "Starts Sunday, Nov. 1, 2026" }
+  card: { top: "World Vegan Month", big: "Nov. 1-30", bottom: "Began Sunday, Nov. 1, 2026" }
   printable:
     slug: world-vegan-month-2026-planner
     group: world-vegan-month-2026

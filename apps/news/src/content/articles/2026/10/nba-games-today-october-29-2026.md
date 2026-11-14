@@ -1,8 +1,9 @@
 ---
-title: "NBA Games Today, Oct. 29, 2026: Three Games, Times and TV"
-description: "NBA games today, Oct. 29, 2026: three games, tip-offs at 8:00 and 10:00 p.m. ET. Cavaliers at Hawks is on NBA TV; a time-zone table and score sheet follow."
+title: "NBA Games Oct. 29, 2026: Scores, Tip-Off Times and TV"
+description: "NBA games Oct. 29, 2026: Hawks 114, Cavaliers 111; Pelicans 132, Kings 120; Grizzlies 124, Trail Blazers 103. Tip-off times, TV and a time-zone table."
 type: news
 publishedAt: "2026-10-29T16:10:00-04:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NBA games today", "NBA games tonight", "NBA schedule October 29 2026", "NBA TV schedule today", "printable NBA schedule"]
@@ -11,26 +12,26 @@ assets:
   overlay: true
   kicker: "NBA · Thu., Oct. 29, 2026"
   date: "2026-10-29"
-  card: { top: "3 NBA games tonight", big: "8:00 p.m. ET", bottom: "Cavaliers at Hawks on NBA TV" }
+  card: { top: "NBA games, Oct. 29", big: "3 games", bottom: "Hawks beat Cavaliers 114-111" }
   printable:
     slug: nba-games-today-october-29-2026
     group: nba-2026-27
     title: "NBA Games Today, Thu., Oct. 29, 2026"
-    subtitle: "Three games, tip-off times in Eastern Time. Write in the final scores."
+    subtitle: "Three games, tip-off times in Eastern Time, with the final scores."
     columns: ["Tip-off (ET)", "Game, arena and TV"]
     layout: list
     rows:
-      - ["8:00 p.m.", "Cavaliers at Hawks, State Farm Arena, Atlanta. TV: NBA TV. Final: ____ to ____"]
-      - ["8:00 p.m.", "Kings at Pelicans, Smoothie King Center, New Orleans. TV: Gulf Coast Sports, NBC Sports California. Final: ____ to ____"]
-      - ["10:00 p.m.", "Grizzlies at Trail Blazers, Moda Center, Portland. TV: BlazerVision, DAZN. Final: ____ to ____"]
-    note: "Source: CBS Sports NBA schedule for Oct. 29, 2026; TV from CBS Sports, Fubo and iHeartMedia team-station listings. Times can change; check before tip-off."
-    inkSaver: true
-    description: "A one-page NBA schedule for Thursday, Oct. 29, 2026: three games with Eastern tip-off times, arenas, TV and blank lines for the final scores."
-    alt: "Printable NBA games today sheet for Oct. 29, 2026, listing three games with tip-off times, TV and score lines"
+      - ["8:00 p.m.", "Cavaliers at Hawks, State Farm Arena, Atlanta. TV: NBA TV. Final: Hawks 114, Cavaliers 111"]
+      - ["8:00 p.m.", "Kings at Pelicans, Smoothie King Center, New Orleans. TV: Gulf Coast Sports, NBC Sports California. Final: Pelicans 132, Kings 120"]
+      - ["10:00 p.m.", "Grizzlies at Trail Blazers, Moda Center, Portland. TV: BlazerVision, DAZN. Final: Grizzlies 124, Trail Blazers 103"]
+    note: "Source: CBS Sports and ESPN scores for Oct. 29, 2026; TV from CBS Sports, Fubo and iHeartMedia team-station listings."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
+    description: "A one-page NBA schedule for Thursday, Oct. 29, 2026: three games with Eastern tip-off times, arenas, TV and the final scores."
+    alt: "Printable NBA games sheet for Oct. 29, 2026, listing three games with tip-off times, TV and final scores"
 hero:
   src: ../../../../assets/news/nba-games-today-october-29-2026/nba-games-today-october-29-2026.webp
-  alt: "Fans in the stands at State Farm Arena in Atlanta during a Hawks home game, where one of the NBA games today tips off on Oct. 29, 2026"
-  caption: "State Farm Arena in Atlanta during a Hawks home game. The Hawks host the Cleveland Cavaliers there on Oct. 29, 2026, at 8:00 p.m. ET. File photo."
+  alt: "Fans in the stands at State Farm Arena in Atlanta during a Hawks home game, where the Hawks hosted the Cavaliers on Oct. 29, 2026"
+  caption: "State Farm Arena in Atlanta during a Hawks home game. The Hawks hosted the Cleveland Cavaliers there on Oct. 29, 2026, and won 114-111. File photo."
   credit: "Photo: Bama in ATL / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -38,24 +39,28 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:State_Farm_Arena_-_Bulls_VS_Hawks_NBA_Game.jpg"
     author: "Bama in ATL"
 summary:
-  - "Three National Basketball Association (NBA) games are on the schedule for Thursday, Oct. 29, 2026, per the CBS Sports NBA schedule."
-  - "Cavaliers at Hawks and Kings at Pelicans tip off at 8:00 p.m. Eastern Time (ET); Grizzlies at Trail Blazers starts at 10:00 p.m. ET, which is 7:00 p.m. in Portland."
-  - "Cavaliers at Hawks is the one national game, on NBA TV; the other two are on the teams' local channels."
-  - "The Cavaliers, Hawks and Pelicans all played on Wednesday, Oct. 28, so each is on the second night of a back-to-back."
+  - "Three National Basketball Association (NBA) games were played on Thursday, Oct. 29, 2026: Hawks 114, Cavaliers 111; Pelicans 132, Kings 120; Grizzlies 124, Trail Blazers 103, per CBS Sports and ESPN."
+  - "Cavaliers at Hawks and Kings at Pelicans tipped off at 8:00 p.m. Eastern Time (ET); Grizzlies at Trail Blazers started at 10:00 p.m. ET, which was 7:00 p.m. in Portland."
+  - "Cavaliers at Hawks was the one national game, on NBA TV; the other two were on the teams' local channels."
+  - "The Cavaliers, Hawks and Pelicans all played on Wednesday, Oct. 28, so each was on the second night of a back-to-back."
 faq:
-  - q: "How many NBA games are on today, Oct. 29, 2026?"
-    a: "Three: Cleveland Cavaliers at Atlanta Hawks, Sacramento Kings at New Orleans Pelicans and Memphis Grizzlies at Portland Trail Blazers."
-  - q: "What time do the NBA games start tonight?"
-    a: "8:00 p.m. ET for Cavaliers at Hawks and Kings at Pelicans, and 10:00 p.m. ET for Grizzlies at Trail Blazers. That is 5:00 p.m. and 7:00 p.m. Pacific Time."
-  - q: "Which NBA game is on national TV tonight?"
-    a: "Cavaliers at Hawks, on NBA TV, per CBS Sports and Fubo. The other two games are on local channels, with NBA League Pass out of market."
+  - q: "How many NBA games were played on Oct. 29, 2026?"
+    a: "Three: Cleveland Cavaliers at Atlanta Hawks (Hawks won 114-111), Sacramento Kings at New Orleans Pelicans (Pelicans won 132-120) and Memphis Grizzlies at Portland Trail Blazers (Grizzlies won 124-103), per CBS Sports and ESPN."
+  - q: "What time did the NBA games start on Oct. 29?"
+    a: "8:00 p.m. ET for Cavaliers at Hawks and Kings at Pelicans, and 10:00 p.m. ET for Grizzlies at Trail Blazers. That was 5:00 p.m. and 7:00 p.m. Pacific Time."
+  - q: "Which NBA game was on national TV on Oct. 29?"
+    a: "Cavaliers at Hawks, on NBA TV, per CBS Sports and Fubo. The other two games were on local channels, with NBA League Pass out of market."
   - q: "Is there a printable NBA schedule for Oct. 29?"
-    a: "Yes. The one-page sheet on this page lists all three games with tip-off times, arenas, TV and a line for each final score. A printed sheet does not update, so check the schedule before tip-off."
+    a: "Yes. The one-page sheet on this page lists all three games with tip-off times, arenas, TV and the final scores."
 sources:
   - title: "NBA Schedule, Thursday, October 29, 2026"
     url: "https://www.cbssports.com/nba/schedule/20261029/"
     publisher: "CBS Sports"
-    date: "2026-10-29"
+    date: "2026-11-14"
+  - title: "NBA Scoreboard, Thursday, October 29, 2026"
+    url: "https://www.espn.com/nba/scoreboard/_/date/20261029"
+    publisher: "ESPN"
+    date: "2026-11-14"
   - title: "NBA Schedule, Wednesday, October 28, 2026 (results)"
     url: "https://www.cbssports.com/nba/schedule/20261028/"
     publisher: "CBS Sports"
@@ -83,28 +88,20 @@ related: [nhl-games-today-october-29-2026, nba-cup-2026-schedule-dates-group-pla
 downloads:
   - group: "NBA Games Today printables"
     title: "NBA Games Today, Thu., Oct. 29, 2026"
-    description: "A one-page NBA schedule for Thursday, Oct. 29, 2026: three games with Eastern tip-off times, arenas, TV and blank lines for the final scores."
+    description: "A one-page NBA schedule for Thursday, Oct. 29, 2026: three games with Eastern tip-off times, arenas, TV and the final scores."
     preview: ../../../../assets/news/nba-2026-27/nba-games-today-october-29-2026.png
-    alt: "Printable NBA games today sheet for Oct. 29, 2026, listing three games with tip-off times, TV and score lines"
+    alt: "Printable NBA games sheet for Oct. 29, 2026, listing three games with tip-off times, TV and final scores"
     pdf: "/news/downloads/nba-2026-27/nba-games-today-october-29-2026.pdf"
     png: "/news/downloads/nba-2026-27/nba-games-today-october-29-2026.png"
-    pages: 1
-  - group: "NBA Games Today printables"
-    title: "NBA Games Today, Thu., Oct. 29, 2026 (ink saver)"
-    description: "A one-page NBA schedule for Thursday, Oct. 29, 2026: three games with Eastern tip-off times, arenas, TV and blank lines for the final scores. Ink-saver version."
-    preview: ../../../../assets/news/nba-2026-27/nba-games-today-october-29-2026-ink.png
-    alt: "Printable NBA games today sheet for Oct. 29, 2026, listing three games with tip-off times, TV and score lines, ink-saver version"
-    pdf: "/news/downloads/nba-2026-27/nba-games-today-october-29-2026-ink.pdf"
-    png: "/news/downloads/nba-2026-27/nba-games-today-october-29-2026-ink.png"
     pages: 1
 draft: false
 ---
 
-**There are three National Basketball Association (NBA) games today, Thursday, Oct. 29, 2026, with tip-offs at 8:00 p.m. and 10:00 p.m. Eastern Time (ET), per the CBS Sports NBA schedule.** The Cleveland Cavaliers visit the Atlanta Hawks on NBA TV, the Sacramento Kings play at the New Orleans Pelicans, and the Memphis Grizzlies close the night at the Portland Trail Blazers.
+**Three National Basketball Association (NBA) games were played on Thursday, Oct. 29, 2026, with tip-offs at 8:00 p.m. and 10:00 p.m. Eastern Time (ET).** The Atlanta Hawks beat the Cleveland Cavaliers 114-111 on NBA TV, the New Orleans Pelicans beat the Sacramento Kings 132-120, and the Memphis Grizzlies beat the Portland Trail Blazers 124-103, according to CBS Sports and ESPN.
 
-NBA.com refused our automated check of its schedule, so the times below come from the CBS Sports schedule, checked at 4 p.m. ET on Oct. 29, and the TV from CBS Sports, Fubo and the iHeartMedia stations that cover these teams. This page does not carry live scores. Once a game has started, the [CBS Sports schedule](https://www.cbssports.com/nba/schedule/20261029/) shows the score and then the result.
+NBA.com refused our automated check of its schedule, so the times below come from the CBS Sports schedule, checked at 4 p.m. ET on Oct. 29, and the TV from CBS Sports, Fubo and the iHeartMedia stations that cover these teams. The scores are from the [CBS Sports schedule](https://www.cbssports.com/nba/schedule/20261029/) and the [ESPN scoreboard](https://www.espn.com/nba/scoreboard/_/date/20261029), which agree.
 
-## NBA schedule today: times, arenas and TV
+## NBA schedule on Oct. 29: times, arenas and TV
 
 | Tip-off (ET) | Game | Arena | TV |
 |---|---|---|---|
@@ -112,13 +109,13 @@ NBA.com refused our automated check of its schedule, so the times below come fro
 | 8:00 p.m. | Sacramento Kings at New Orleans Pelicans | Smoothie King Center, New Orleans | Gulf Coast Sports and Pelicans+ (New Orleans); NBC Sports California (Sacramento) |
 | 10:00 p.m. | Memphis Grizzlies at Portland Trail Blazers | Moda Center, Portland | BlazerVision and Portland station (KUNP); streaming service (DAZN) for Memphis |
 
-Cavaliers at Hawks is the only game on a national channel tonight. Kings at Pelicans and Grizzlies at Trail Blazers are on the teams' own local channels, so a viewer outside those markets usually needs NBA League Pass. Blackouts apply inside the teams' home areas, and listings can change during the day, so check your provider's guide before tip-off.
+Cavaliers at Hawks was the only game on a national channel. Kings at Pelicans and Grizzlies at Trail Blazers were on the teams' own local channels, so a viewer outside those markets usually needed NBA League Pass.
 
-Grizzlies fans in Memphis should look for the game on DAZN, the streaming service the Portland team station lists for Memphis, not on a cable sports channel.
+Memphis viewers were pointed to DAZN, the streaming service the Portland team station listed for Memphis, not a cable sports channel.
 
-## What time are the NBA games tonight in my time zone?
+## What time were the NBA games on Oct. 29 in each time zone?
 
-Oct. 29 is before the clock change on Sunday, Nov. 1, 2026, so these are daylight times. We worked them out from the ET listings.
+Oct. 29 was before the clock change on Sunday, Nov. 1, 2026, so these are daylight times. We worked them out from the ET listings.
 
 | Time zone | Cavaliers at Hawks | Kings at Pelicans | Grizzlies at Trail Blazers |
 |---|---|---|---|
@@ -130,24 +127,24 @@ Oct. 29 is before the clock change on Sunday, Nov. 1, 2026, so these are dayligh
 | Alaska | 4:00 p.m. | 4:00 p.m. | 6:00 p.m. |
 | Hawaii | 2:00 p.m. | 2:00 p.m. | 4:00 p.m. |
 
-From Nov. 1, Arizona and Hawaii are an hour closer to Eastern Time, because they do not change their clocks. Our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) has the full list.
+Since Nov. 1, Arizona and Hawaii are an hour closer to Eastern Time, because they do not change their clocks. Our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) has the full list.
 
 ## Three teams are on the second night of a back-to-back
 
-Three of the six teams playing tonight also played on Wednesday, according to the CBS Sports results for Oct. 28. The Hawks lost at home to the Miami Heat, 129 to 117. The Cavaliers beat the Washington Wizards 121 to 111 in Cleveland. The Pelicans lost 104 to 91 at home to the Denver Nuggets.
+Three of the six teams that played on Oct. 29 also played on Wednesday, according to the CBS Sports results for Oct. 28. The Hawks lost at home to the Miami Heat, 129 to 117. The Cavaliers beat the Washington Wizards 121 to 111 in Cleveland. The Pelicans lost 104 to 91 at home to the Denver Nuggets.
 
-The Kings, Grizzlies and Trail Blazers did not play on Oct. 28. The official injury report can change up to tip-off, so check the team's own news page if you are following one player.
+The Kings, Grizzlies and Trail Blazers did not play on Oct. 28.
 
-## Where to watch the NBA games today
+## Where the NBA games were shown
 
 1. Cavaliers at Hawks: NBA TV, which is part of many cable and live TV streaming packages, including Fubo.
 2. Kings at Pelicans: Gulf Coast Sports or Pelicans+ around New Orleans, and NBC Sports California around Sacramento.
 3. Grizzlies at Trail Blazers: BlazerVision or the Portland TV station (KUNP) around Portland, and DAZN around Memphis.
 
-Outside those markets, NBA League Pass carries games that are not on national TV. Free streams found on social media are not licensed. Stick to the league, the teams' partners or your TV provider.
+Outside those markets, NBA League Pass carried games that were not on national TV.
 
 ## Printable NBA schedule and score sheet
 
-The one-page sheet lists the three games with tip-off times in ET, arenas, TV and a line to write in each final score, with room for notes below. Print it with the [printable weekly calendar](/printable-weekly-calendar.html) if you track a team through the week, or the [November 2026 printable calendar](/november-calendars.html) once the month turns. The sheet is a snapshot and does not update. If a time changes, the change will show on the CBS Sports schedule first.
+The one-page sheet lists the three games with tip-off times in ET, arenas, TV and the final score of each. Print it with the [printable weekly calendar](/printable-weekly-calendar.html) if you track a team through the week, or the [November 2026 printable calendar](/november-calendars.html).
 
-For dates further out, see the [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/). Tonight's National Hockey League (NHL) slate is in [NHL games today](/news/nhl-games-today-october-29-2026/), and the football game is in our [Thursday Night Football guide](/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/).
+For dates further out, see the [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/). That night's National Hockey League (NHL) slate is in [NHL games today](/news/nhl-games-today-october-29-2026/), and the football game is in our [Thursday Night Football guide](/news/thursday-night-football-tonight-panthers-packers-tnf-schedule-2026/).

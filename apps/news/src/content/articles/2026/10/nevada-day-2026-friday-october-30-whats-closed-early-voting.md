@@ -3,7 +3,7 @@ title: "Can You Vote on Nevada Day 2026? Yes, Early Voting Ran Oct. 30"
 description: "Yes, early voting ran on Nevada Day, Friday, Oct. 30, 2026. State offices, courts and schools closed under Nevada Revised Statutes (NRS) 236.015."
 type: explainer
 publishedAt: "2026-10-27T14:03:00-04:00"
-updatedAt: "2026-11-01T02:39:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Nevada Day 2026", "is Nevada Day a holiday", "Nevada Day what's closed", "Nevada Day early voting"]
@@ -11,7 +11,7 @@ dateline: "Carson City"
 hero:
   src: ../../../../assets/news/nevada-day-2026-friday-october-30-whats-closed-early-voting/nevada-day-2026-friday-october-30-whats-closed-early-voting.webp
   alt: "Nevada Day 2026: the Nevada State Capitol in Carson City with its silver dome and the state flag, the seat of the holiday's state offices"
-  caption: "The Nevada State Capitol in Carson City (file photo). State offices close for Nevada Day on Friday, Oct. 30, 2026; the parade is Saturday."
+  caption: "The Nevada State Capitol in Carson City (file photo). State offices closed for Nevada Day on Friday, Oct. 30, 2026; the parade was Saturday."
   credit: "Photo: Quintin Soloviev / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
@@ -27,14 +27,16 @@ summary:
 faq:
   - q: "Is Nevada Day a holiday in 2026?"
     a: "Yes. Nevada Day is a state legal holiday under NRS 236.015, observed on Friday, Oct. 30, 2026. It is not a federal holiday."
-  - q: "Why is Nevada Day on Oct. 30 and not Oct. 31?"
-    a: "NRS 236.015 says Nevada Day is Oct. 31 but is observed on the last Friday in October. In 2026, Oct. 31 is a Saturday, so the observance is the day before."
-  - q: "Can I vote early on Nevada Day?"
-    a: "Yes. Under NRS 293.3568, early voting by personal appearance runs through the Friday before election day, with Sundays and federal holidays excepted. Nevada Day is a state holiday, so Friday, Oct. 30 was the last day. Check your county clerk's list of sites and hours."
-  - q: "Is the mail delivered on Nevada Day?"
-    a: "Nevada Day is not on the federal holiday list, so the U.S. Postal Service and federal offices run normal schedules."
-  - q: "Are Nevada schools closed on Nevada Day 2026?"
-    a: "The statute requires public schools to close on legal holidays. Confirm the date on your district's calendar, such as the Clark County School District or the Washoe County School District."
+  - q: "When is Nevada Day in 2027?"
+    a: "Friday, Oct. 29, 2027. NRS 236.015 observes Nevada Day on the last Friday in October, and Oct. 31, 2027 is a Sunday."
+  - q: "Why was Nevada Day on Oct. 30 and not Oct. 31?"
+    a: "NRS 236.015 says Nevada Day is Oct. 31 but is observed on the last Friday in October. In 2026, Oct. 31 was a Saturday, so the observance was the day before."
+  - q: "Could I vote early on Nevada Day?"
+    a: "Yes. Under NRS 293.3568, early voting by personal appearance runs through the Friday before election day, with Sundays and federal holidays excepted. Nevada Day is a state holiday, so Friday, Oct. 30 was the last day."
+  - q: "Was the mail delivered on Nevada Day?"
+    a: "Nevada Day is not on the federal holiday list, so the U.S. Postal Service and federal offices ran normal schedules."
+  - q: "Were Nevada schools closed on Nevada Day 2026?"
+    a: "The statute requires public schools to close on legal holidays, so schools were closed on Oct. 30. District calendars, such as the Clark County School District or the Washoe County School District, list the date."
 sources:
   - title: "Constitution of the State of Nevada"
     url: "https://www.leg.state.nv.us/const/nvconst.html"
@@ -70,6 +72,7 @@ assets:
   date: "2026-10-30"
   card: { top: "State offices and schools closed", big: "Fri., Oct. 30", bottom: "Last day of early voting" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: nevada-day-weekend-holidays-2026
     group: nevada-day-2026
     layout: timeline
@@ -113,9 +116,9 @@ Nevada Day was observed **Friday, Oct. 30, 2026**, a state legal holiday under N
 
 Yes. Subsection 2 of NRS 236.015, published by the Nevada Legislature, says that "except as otherwise provided by NRS 293.560 and 293C.527, all state, county and city offices, courts, public schools and the Nevada System of Higher Education must close on the legal holidays enumerated in subsection 1." The two exceptions are in election law. The Washoe County holiday calendar lists "Nevada Day, Friday, October 30, 2026," and the Nevada Department of Taxation lists an "offices closed" event for the same date.
 
-Oct. 31, 2026 is a Saturday, so the anniversary itself falls on Halloween. President Abraham Lincoln proclaimed Nevada a state on Oct. 31, 1864, according to the Nevada Constitution as published by the Nevada Legislature, which makes 2026 the 162nd anniversary.
+Oct. 31, 2026 was a Saturday, so the anniversary itself fell on Halloween. In 2027, Oct. 31 is a Sunday, so under the same statute Nevada Day is observed on Friday, Oct. 29, 2027. President Abraham Lincoln proclaimed Nevada a state on Oct. 31, 1864, according to the Nevada Constitution as published by the Nevada Legislature, which makes 2026 the 162nd anniversary.
 
-## What is closed on Nevada Day 2026?
+## What was closed on Nevada Day 2026?
 
 | Service | Status on Friday, Oct. 30 |
 |---|---|
@@ -126,7 +129,7 @@ Oct. 31, 2026 is a Saturday, so the anniversary itself falls on Halloween. Presi
 | Department of Motor Vehicles (DMV), libraries and other city or county offices | Covered by the state, county and city closure rule; check the office's own page for hours |
 | Federal offices and the U.S. Postal Service | Normal schedules; Nevada Day is not on the federal holiday list |
 
-The Clark County School District and the Washoe County School District have not been confirmed here for 2026, so families should check the district calendar. We did not confirm bank hours, so ask your bank.
+We did not confirm the Clark County School District or Washoe County School District calendars for 2026, or bank hours.
 
 ## Can you vote early on Nevada Day?
 
@@ -134,24 +137,24 @@ Yes. NRS 293.3568 says: "The period for early voting by personal appearance begi
 
 For the Nov. 3, 2026 general election, that period ran from Saturday, Oct. 17 through Friday, Oct. 30. The statute excepts federal holidays, and Nevada Day is a state holiday, so the exception did not apply. Friday, Oct. 30 was the last day of in-person early voting even though county offices were otherwise closed.
 
-Check your county clerk's early voting page for sites and hours: the Clark County Election Department or the Washoe County Registrar of Voters. For mail ballots, see our [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/), and for the wider picture, [which states are voting now](/news/early-voting-2026-which-states-are-voting-now/).
+For mail ballots, see our [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/), and for the wider picture, [which states are voting now](/news/early-voting-2026-which-states-are-voting-now/).
 
 ## Nevada's long weekend, Oct. 30 to Nov. 3
 
-Several dates piled up in five days. Nevada government workers got a three-day weekend, Oct. 30 to Nov. 1.
+Several dates piled up in five days. Nevada government workers had a three-day weekend, Oct. 30 to Nov. 1.
 
-| Date | What happens |
+| Date | What happened |
 |---|---|
 | Fri., Oct. 30 | Nevada Day observed; last day of in-person early voting |
 | Sat., Oct. 31 | Halloween; the Nevada Day anniversary; Nevada Day Parade in Carson City |
 | Sun., Nov. 1 | Daylight saving time ends at 2 a.m. |
 | Tue., Nov. 3 | General election day |
 
-Our [Halloween 2026 trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story covers Saturday evening, and the [When is Halloween?](/when-is/halloween/) page has the date. Both days are marked on the [October 2026 printable calendar](/october-calendars.html).
+Our [Halloween 2026 trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story covered Saturday evening, and the [When is Halloween?](/when-is/halloween/) page has the date. Both days are marked on the [October 2026 printable calendar](/october-calendars.html).
 
 ## When is the Nevada Day Parade?
 
-The parade was Saturday, Oct. 31, 2026, in Carson City. Nevada Day, Inc. announced on April 21, 2026, through Carson Now, that "the parade will step off on October 31st, 2026." The theme is "Pumpkins, Pioneers and Tall Tales," and the announcement mentions about 200 entries. The start time and route are not in the announcement; check nevadaday.com for them.
+The parade was Saturday, Oct. 31, 2026, in Carson City. Nevada Day, Inc. announced on April 21, 2026, through Carson Now, that "the parade will step off on October 31st, 2026." The theme was "Pumpkins, Pioneers and Tall Tales," and the announcement mentioned about 200 entries. The start time and route were not in the announcement.
 
 ## Nevada legal holidays still ahead in 2026
 

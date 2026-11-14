@@ -1,9 +1,9 @@
 ---
 title: "Arlington Veterans Day Ceremony 2026: 11 a.m., Tram From 8:30 a.m."
-description: "The Arlington National Cemetery Veterans Day ceremony is Nov. 11, 2026 at 11 a.m. ET. Tram starts about 8:30 a.m.; arrive by 9:45 a.m. Bag rules, timeline."
+description: "The Arlington National Cemetery Veterans Day ceremony was Nov. 11, 2026 at 11 a.m. ET. Tram from 8:30 a.m., bag rules, the timeline and the 2027 date."
 type: news
 publishedAt: "2026-11-05T19:15:00-05:00"
-updatedAt: "2026-11-05T19:15:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [christina-gerland]
 category: holidays
 shop: veterans-day
@@ -19,21 +19,23 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:U.S._Flag_hanging_at_the_Memorial_Amphitheater_for_the_National_Veterans_Day_Observance_at_Arlington_National_Cemetery_on_November_6,_2023_-_21.jpg"
     author: "Arlington National Cemetery"
 summary:
-  - "The 73rd National Veterans Day Observance is Wednesday, Nov. 11, 2026 at 11 a.m. in the Memorial Amphitheater at Arlington National Cemetery (ANC); it is free and open to the public."
-  - "Attendees must ride the tram from the Welcome Center, which starts at about 8:30 a.m.; ANC asks people to reach the tram by 9:45 a.m. Walking to the amphitheater is prohibited."
-  - "Seating is first come, first served, everyone passes a security checkpoint, and umbrellas, large bags and hard water bottles are prohibited; clear plastic disposable bottles are allowed."
-  - "The wreath-laying at the Tomb of the Unknown Soldier is limited to official participants this year."
+  - "The 73rd National Veterans Day Observance was Wednesday, Nov. 11, 2026 at 11 a.m. in the Memorial Amphitheater at Arlington National Cemetery (ANC); it was free and open to the public."
+  - "Attendees had to ride the tram from the Welcome Center, which started at about 8:30 a.m.; ANC asked people to reach the tram by 9:45 a.m. Walking to the amphitheater was prohibited."
+  - "Seating was first come, first served, everyone passed a security checkpoint, and umbrellas, large bags and hard water bottles were prohibited; clear plastic disposable bottles were allowed."
+  - "The wreath-laying at the Tomb of the Unknown Soldier was limited to official participants in 2026."
 faq:
-  - q: "What time is the Veterans Day ceremony at Arlington National Cemetery in 2026?"
-    a: "ANC says the 73rd National Veterans Day Observance is Wednesday, Nov. 11, 2026 at 11 a.m. ET in the Memorial Amphitheater. A prelude starts at 10:30 a.m."
-  - q: "Can you watch the Arlington Veterans Day observance online?"
-    a: "The Defense Visual Information Distribution Service (DVIDS) lists a webcast of the 73rd National Veterans Day Observance on Nov. 11, 2026 from 10:20 a.m. to 1 p.m. ET."
-  - q: "Can you walk to the Memorial Amphitheater?"
-    a: "No. ANC says attendees must use the tram from the Welcome Center and that walking to and from the amphitheater is strictly prohibited."
-  - q: "Can the public attend the wreath-laying at the Tomb of the Unknown Soldier?"
-    a: "ANC says attendance at the annual wreath-laying ceremony is limited this year to official participants. The notice gives no separate time for it."
-  - q: "Is parking free at Arlington National Cemetery on Veterans Day?"
-    a: "ANC says free parking is available in the Welcome Center parking lot from 8 a.m. to 5 p.m."
+  - q: "What time was the Veterans Day ceremony at Arlington National Cemetery in 2026?"
+    a: "ANC said the 73rd National Veterans Day Observance was Wednesday, Nov. 11, 2026 at 11 a.m. ET in the Memorial Amphitheater. A prelude began at 10:30 a.m."
+  - q: "Was the Arlington Veterans Day observance streamed online?"
+    a: "The Defense Visual Information Distribution Service (DVIDS) listed a webcast of the 73rd National Veterans Day Observance on Nov. 11, 2026 from 10:20 a.m. to 1 p.m. ET."
+  - q: "Could you walk to the Memorial Amphitheater?"
+    a: "No. ANC said attendees must use the tram from the Welcome Center and that walking to and from the amphitheater was strictly prohibited."
+  - q: "Could the public attend the wreath-laying at the Tomb of the Unknown Soldier?"
+    a: "No. ANC said attendance at the annual wreath-laying ceremony was limited in 2026 to official participants. The notice gave no separate time for it."
+  - q: "When is the next Veterans Day?"
+    a: "Veterans Day 2027 is Thursday, Nov. 11, and the Office of Personnel Management (OPM) lists it as a federal holiday. ANC had not announced its 2027 observance details when we checked."
+  - q: "Was parking free at Arlington National Cemetery on Veterans Day?"
+    a: "ANC said free parking was available in the Welcome Center parking lot from 8 a.m. to 5 p.m."
 sources:
   - title: "2026 National Veterans Day Observance Open to Public"
     url: "https://www.arlingtoncemetery.mil/Media/News/Post/15150/2026-National-Veterans-Day-Observance-Open-to-Public"
@@ -47,6 +49,10 @@ sources:
     url: "https://www.arlingtoncemetery.mil/Visit/Visitor-Information"
     publisher: "Arlington National Cemetery"
     date: "2026-11-05"
+  - title: "Veterans Day observance photos, Secretary of Veterans Affairs Douglas Collins speaks"
+    url: "https://www.dvidshub.net/image/10089306/73rd-national-veterans-day-observance"
+    publisher: "Defense Visual Information Distribution Service (DVIDS)"
+    date: "2026-11-11"
   - title: "Changing of the Guard"
     url: "https://www.arlingtoncemetery.mil/Explore/Changing-of-the-Guard"
     publisher: "Arlington National Cemetery"
@@ -133,13 +139,13 @@ assets:
         - { label: "Wreath-laying time and speakers", why: "The Oct. 8, 2026 notice gives no time for the wreath-laying and names no speakers" }
 ---
 
-**The 73rd National Veterans Day Observance is Wednesday, Nov. 11, 2026 at 11 a.m. Eastern Time (ET) in the Memorial Amphitheater at Arlington National Cemetery (ANC), which says the event is free and open to the public.** Anyone attending must ride the tram from the Welcome Center, and ANC asks people to be at the tram by 9:45 a.m. This story puts the day's times, the security rules and the bag list in one place, with a printable timeline. The facts come from ANC's notice of Oct. 8, 2026.
+**The 73rd National Veterans Day Observance was Wednesday, Nov. 11, 2026 at 11 a.m. Eastern Time (ET) in the Memorial Amphitheater at Arlington National Cemetery (ANC), which said the event was free and open to the public.** Anyone attending had to ride the tram from the Welcome Center, and ANC asked people to be at the tram by 9:45 a.m. Below are the day's times, the security rules and the bag list as ANC set them out in its notice of Oct. 8, 2026, with a printable timeline. Veterans Day 2027 falls on Thursday, Nov. 11, according to the Office of Personnel Management (OPM).
 
-Veterans Day is a federal holiday on Wednesday, Nov. 11 in 2026, according to the Office of Personnel Management (OPM) holiday list. For the date itself see [When is Veterans Day?](/when-is/veterans-day/), and for local marches see our [Veterans Day parades by city](/news/veterans-day-parades-2026-by-city/).
+Veterans Day was a federal holiday on Wednesday, Nov. 11 in 2026, according to the OPM holiday list. For the date itself see [When is Veterans Day?](/when-is/veterans-day/), and for local marches see our [Veterans Day parades by city](/news/veterans-day-parades-2026-by-city/).
 
 ## Veterans Day timeline at Arlington National Cemetery
 
-| Time (ET) | What happens | Source |
+| Time (ET) | What was scheduled | Source |
 |---|---|---|
 | 8 a.m. | Cemetery opens; free parking opens at the Welcome Center lot | ANC |
 | About 8:30 a.m. | Tram starts running from the Welcome Center to the Memorial Amphitheater, until event capacity is reached | ANC |
@@ -152,15 +158,15 @@ Veterans Day is a federal holiday on Wednesday, Nov. 11 in 2026, according to th
 
 The printable day-of timeline below keeps the same times on one sheet.
 
-## How does the tram work for the Veterans Day observance?
+## How did the tram work for the Veterans Day observance?
 
-ANC says attendees "must use the tram from the Welcome Center to the Memorial Amphitheater" and that "walking to and from the amphitheater is strictly prohibited." The tram begins at approximately 8:30 a.m. and runs "until event capacity is reached," so the 9:45 a.m. arrival time is advice to secure a ride, not a guarantee. Seating in the amphitheater is first come, first served. After the ceremony the tram returns attendees to the Welcome Center until everyone is back.
+ANC said attendees "must use the tram from the Welcome Center to the Memorial Amphitheater" and that "walking to and from the amphitheater is strictly prohibited." The tram was to begin at approximately 8:30 a.m. and run "until event capacity is reached," so the 9:45 a.m. arrival time was advice to secure a ride, not a guarantee. Seating in the amphitheater was first come, first served. After the ceremony the tram was to return attendees to the Welcome Center until everyone is back.
 
-Free parking is available at the Welcome Center lot from 8 a.m. to 5 p.m. ANC's visitor page says the cemetery is open daily from 8 a.m. to 5 p.m.
+Free parking was available at the Welcome Center lot from 8 a.m. to 5 p.m. ANC's visitor page says the cemetery is open daily from 8 a.m. to 5 p.m.
 
-## What can you bring to the Arlington Veterans Day ceremony?
+## What could you bring to the Arlington Veterans Day ceremony?
 
-Everyone passes through a security checkpoint to enter the cemetery and amphitheater. ANC says the prohibited list may be updated, so check its notice before you go.
+Everyone passes through a security checkpoint to enter the cemetery and amphitheater. ANC said the prohibited list might be updated.
 
 | Bring | Leave at home |
 |---|---|
@@ -171,20 +177,20 @@ Everyone passes through a security checkpoint to enter the cemetery and amphithe
 | | Weapons of any kind, including firearms, ammunition, toy guns and mace or pepper spray |
 | | Laser pointers and range finders; aerosol containers; lighters; screwdrivers or similar tools; air horns; brass knuckles; packages |
 
-The notice also bars "any other items determined to be a potential safety hazard."
+The notice also barred "any other items determined to be a potential safety hazard."
 
-## What is on the program, and who can see the wreath-laying?
+## What was on the program, and who could see the wreath-laying?
 
-ANC lists a prelude at 10:30 a.m. by the U.S. Coast Guard Band with the U.S. Air Force Singing Sergeants, then the observance at 11 a.m. It also lists a wreath-laying ceremony at the Tomb of the Unknown Soldier conducted by the U.S. Army Military District of Washington. Attendance for the wreath-laying "will be limited this year to official participants," and the notice gives no separate time for it. Speakers have not been announced in that notice.
+ANC listed a prelude at 10:30 a.m. by the U.S. Coast Guard Band with the U.S. Air Force Singing Sergeants, then the observance at 11 a.m. It also listed a wreath-laying ceremony at the Tomb of the Unknown Soldier conducted by the U.S. Army Military District of Washington. Attendance for the wreath-laying "will be limited this year to official participants," and the notice gave no separate time for it. The notice named no speakers. DVIDS photo captions from the day show Secretary of Veterans Affairs Douglas Collins and Norman Henninger Jr., commander of the Army and Navy Union, speaking in the amphitheater.
 
-## How can you watch the observance online?
+## Was the observance streamed online?
 
-DVIDS, a Defense Department site, lists a webcast of the "73rd National Veterans Day Observance" scheduled for Nov. 11, 2026, from 10:20 a.m. to 1 p.m. ET.
+DVIDS, a Defense Department site, listed a webcast of the "73rd National Veterans Day Observance" scheduled for Nov. 11, 2026, from 10:20 a.m. to 1 p.m. ET.
 
 ## Will the Changing of the Guard run on Veterans Day?
 
-ANC's Changing of the Guard page says the ceremony takes place "every hour on the hour from October 1 through March 31." That page lists no Veterans Day change, and we did not find a statement on whether it runs during the observance, so check with ANC if it matters to your plans.
+ANC's Changing of the Guard page says the ceremony takes place "every hour on the hour from October 1 through March 31." That page lists no Veterans Day change, and we did not find a statement on whether it ran during the observance.
 
-## Other plans for Veterans Day 2026
+## More on Veterans Day 2026
 
 Mark the day on the [November 2026 printable calendar](/november-calendars.html). For restaurant and retail offers, see [Veterans Day free meals and discounts](/news/veterans-day-free-meals-discounts/), and for the holiday overview see [Veterans Day 2026 on Wednesday, Nov. 11](/news/veterans-day-2026-wednesday-november-11/).

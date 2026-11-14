@@ -3,7 +3,7 @@ title: "Native American Heritage Month 2026 Theme: 250 Years and Beyond"
 description: "The Native American Heritage Month 2026 theme is 250 Years and Beyond, per the Bureau of Indian Affairs (BIA). Events, nine books and a free checklist."
 type: explainer
 publishedAt: "2026-11-01T05:40:00-05:00"
-updatedAt: "2026-11-05T03:22:47-05:00"
+updatedAt: "2026-11-14T17:08:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["native american heritage month 2026", "native american heritage month 2026 theme", "native american heritage month activities for students", "native american heritage month books for kids", "native american heritage month printable"]
@@ -51,12 +51,12 @@ hero:
     authorUrl: "https://www.flickr.com/people/83136374@N05"
 summary:
   - "Native American Heritage Month 2026 runs from Sunday, Nov. 1 to Monday, Nov. 30, and it is an observance, not a federal holiday."
-  - "As of Nov. 2, 2026, the Bureau of Indian Affairs (BIA) page shows the 2026 theme, '250 Years and Beyond: Building a culture of service in Indian Country'."
-  - "The federal Native American Heritage Month website lists two Smithsonian events: Thursday, Nov. 5 and Saturday, Nov. 14, both in Eastern Time (ET)."
+  - "As of Nov. 14, 2026, the Bureau of Indian Affairs (BIA) page shows the 2026 theme, '250 Years and Beyond: Building a culture of service in Indian Country'."
+  - "The federal Native American Heritage Month website lists two Smithsonian events, Thursday, Nov. 5 (held) and Saturday, Nov. 14, both in Eastern Time (ET)."
   - "NYC Public Schools lists nine books by Native authors, from picture books to young adult novels, and our free checklist turns the month into four weeks of tasks."
 faq:
   - q: "What is the theme of Native American Heritage Month 2026?"
-    a: "The Bureau of Indian Affairs (BIA) page shows the 2026 theme as '250 Years and Beyond: Building a culture of service in Indian Country' (checked Nov. 2, 2026)."
+    a: "The Bureau of Indian Affairs (BIA) page shows the 2026 theme as '250 Years and Beyond: Building a culture of service in Indian Country' (checked Nov. 14, 2026)."
   - q: "What are the dates of Native American Heritage Month 2026?"
     a: "Sunday, Nov. 1 to Monday, Nov. 30, 2026. In 2027 it runs from Monday, Nov. 1 to Tuesday, Nov. 30."
   - q: "What are the colors of Native American Heritage Month?"
@@ -71,11 +71,11 @@ sources:
   - title: "National Native American Heritage Month | Indian Affairs"
     url: "https://www.bia.gov/NNAHM"
     publisher: "Bureau of Indian Affairs (BIA), U.S. Department of the Interior"
-    date: "2026-11-02"
+    date: "2026-11-14"
   - title: "Native American Heritage Month 2026, Events"
     url: "https://www.nativeamericanheritagemonth.gov/Events.html"
     publisher: "Federal Native American Heritage Month website, hosted by the Library of Congress"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "Native American Heritage Month - NPS Commemorations and Celebrations"
     url: "https://www.nps.gov/subjects/npscelebrates/native-american-heritage-month.htm"
     publisher: "National Park Service (NPS)"
@@ -118,7 +118,7 @@ draft: false
 
 ## What is the Native American Heritage Month 2026 theme?
 
-The BIA page "National Native American Heritage Month" gives the 2026 theme as "250 Years and Beyond: Building a culture of service in Indian Country," as checked on Nov. 2, 2026. The federal Native American Heritage Month website hosted by the Library of Congress is not a source for the 2026 theme here. On Nov. 1 the BIA page had still carried its 2024 content, so earlier pages may show older themes. The earlier themes in the table below are from the BIA page as we read it on Nov. 1:
+The BIA page "National Native American Heritage Month" gives the 2026 theme as "250 Years and Beyond: Building a culture of service in Indian Country," as checked on Nov. 14, 2026. The federal Native American Heritage Month website hosted by the Library of Congress is not a source for the 2026 theme here. On Nov. 1 the BIA page had still carried its 2024 content, so earlier pages may show older themes. The earlier themes in the table below are from the BIA page as we read it on Nov. 1:
 
 | Year | BIA theme |
 |---|---|
@@ -144,11 +144,11 @@ The BIA page and the federal site also use the older name, National American Ind
 
 ## Which events are listed for November 2026?
 
-The federal Native American Heritage Month website, hosted by the Library of Congress, lists these on its events page:
+The federal Native American Heritage Month website, hosted by the Library of Congress, lists these on its events page, read again on Nov. 14, 2026:
 
 | Date | Event | Time |
 |---|---|---|
-| Thu., Nov. 5 | Artful Evenings: "Water's Edge" with artist Sky Hopinka, Smithsonian | 6 to 9 p.m. ET |
+| Thu., Nov. 5 (held) | Artful Evenings: "Water's Edge" with artist Sky Hopinka, Smithsonian | 6 to 9 p.m. ET |
 | Sat., Nov. 14 | "Always Becoming: Next Chapter", Smithsonian; performances, films, gallery tours | 10:30 a.m. to 4:30 p.m. ET |
 | Fri., Nov. 27 | Native American Heritage Day | [Is it a day off? See our Heritage Day story](/news/native-american-heritage-day-2026-friday-november-27-heritage-month/) |
 

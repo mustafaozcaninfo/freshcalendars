@@ -1,9 +1,9 @@
 ---
 title: "Spurs Schedule November 2026: 16 Games, Times in CT and ET"
-description: "The Spurs schedule for November 2026 starts Mon., Nov. 2, at 7:30 p.m. CT against Utah. All 16 games in CT and ET, TV, four NBA Cup games and a printable."
+description: "The Spurs play 16 games in November 2026; the next is Sun., Nov. 15 at Utah, 4 p.m. CT. All games in CT and ET, TV, four NBA Cup games and a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T17:36:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Spurs schedule November 2026", "Spurs game tonight", "San Antonio Spurs NBA Cup schedule 2026", "Spurs printable schedule"]
@@ -11,9 +11,9 @@ dateline: "San Antonio"
 assets:
   scene: sports
   overlay: true
-  kicker: "Spurs · Next game Mon., Nov. 2, 2026"
-  date: "2026-11-02"
-  card: { top: "Spurs host Utah", big: "7:30 p.m. CT", bottom: "First of 16 November games" }
+  kicker: "Spurs · Next game Sun., Nov. 15, 2026"
+  date: "2026-11-14"
+  card: { top: "Spurs at Utah", big: "4 p.m. CT", bottom: "5 p.m. ET, no national TV listed" }
   printable:
     slug: san-antonio-spurs-schedule-november-2026
     group: spurs-schedule-2026
@@ -52,15 +52,15 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:SPURSStadium.jpg"
     author: "Henry Camacho"
 summary:
-  - "The Spurs' next game is Mon., Nov. 2, 2026, hosting Utah at 7:30 p.m. CT (8:30 p.m. ET), per the NBA's schedule dated Aug. 13, 2026."
+  - "The Spurs' next game is Sun., Nov. 15, 2026, at Utah at 4 p.m. CT (5 p.m. ET), per the NBA's schedule dated Aug. 13, 2026; their Nov. 13 Cup game against Golden State has been played."
   - "The NBA lists 16 Spurs games in November 2026, eight at home and eight on the road, from Nov. 2 to Mon., Nov. 30 at Milwaukee."
   - "National TV is listed for five November games: ESPN on Nov. 4 and Nov. 25, Prime Video on Nov. 13 and Nov. 27, and NBC and Peacock on Nov. 17."
-  - "Four November games are Emirates NBA Cup group games: Nov. 6, 13, 25 and 27."
+  - "Four November games are Emirates NBA Cup group games: Nov. 6 and 13 (played), then Nov. 25 and 27."
 faq:
   - q: "When is the next Spurs game?"
-    a: "Mon., Nov. 2, 2026, hosting Utah at 7:30 p.m. CT (8:30 p.m. ET), according to the NBA's 2026-27 schedule. The Spurs hosted Minnesota on Sat., Oct. 31."
+    a: "Sun., Nov. 15, 2026, at Utah at 4 p.m. CT (5 p.m. ET), according to the NBA's 2026-27 schedule. The Spurs' next home game is Tue., Nov. 17, against Detroit on NBC and Peacock."
   - q: "How many Spurs games are in November 2026?"
-    a: "16, according to the NBA's schedule dated Aug. 13, 2026: eight at home and eight on the road. The Spurs' longest road trip is four games, from Fri., Nov. 6 at Sacramento to Wed., Nov. 11 at Chicago."
+    a: "16, according to the NBA's schedule dated Aug. 13, 2026: eight at home and eight on the road. The Spurs' longest road trip was four games, from Fri., Nov. 6 at Sacramento to Wed., Nov. 11 at Chicago."
   - q: "Which Spurs games are NBA Cup games?"
     a: "Four group games: at Sacramento on Fri., Nov. 6, against Golden State on Fri., Nov. 13, at Portland on Wed., Nov. 25 and against the LA Lakers on Fri., Nov. 27."
   - q: "Which Spurs games are on national TV in November?"
@@ -104,9 +104,9 @@ downloads:
 draft: false
 ---
 
-**The San Antonio Spurs host Utah on Monday, Nov. 2, 2026, at 7:30 p.m. Central Time (CT), which is 8:30 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule.** The NBA lists 16 Spurs games in November, and a one-page printable of all of them is further down.
+**The San Antonio Spurs' next game is Sunday, Nov. 15, 2026, at Utah, at 4 p.m. Central Time (CT), which is 5 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule.** The NBA lists 16 Spurs games in November, and a one-page printable of all of them is further down.
 
-The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so San Antonio fans subtract one hour for CT; the table below gives both. Weekdays are our own calculation. The Spurs' previous game was at home against Minnesota on Saturday, Oct. 31.
+The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so San Antonio fans subtract one hour for CT; the table below gives both. Weekdays are our own calculation. The schedule PDF carries no scores, and the Spurs' first seven November games, through the Nov. 13 Cup game against Golden State, have been played.
 
 ## Spurs game times and TV for every November game
 
@@ -139,10 +139,10 @@ The schedule flags four November Spurs games as Emirates NBA Cup group play: at 
 
 ## Back-to-backs and road trips in the Spurs' November
 
-The Spurs' November turns on an early four-game road trip and a three-game home stand later in the month. These are our own counts from the NBA's schedule:
+The Spurs' November turns on an early four-game road trip, now finished, and a three-game home stand later in the month. These are our own counts from the NBA's schedule:
 
 - **Back-to-backs:** Fri., Nov. 6 and Sat., Nov. 7 (at Sacramento, then at Portland), and Sun., Nov. 29 and Mon., Nov. 30 (home against Boston, then at Milwaukee).
-- **A four-game road trip:** the Spurs play at Sacramento on Nov. 6, at Portland on Nov. 7, at Phoenix on Nov. 9 and at Chicago on Nov. 11 before returning home.
+- **A four-game road trip:** the Spurs played at Sacramento on Nov. 6, at Portland on Nov. 7, at Phoenix on Nov. 9 and at Chicago on Nov. 11 before returning home.
 - **A three-game home stand:** Detroit on Nov. 17, the LA Clippers on Nov. 19 and New Orleans on Nov. 21 are all in San Antonio.
 - **Thanksgiving week:** the Spurs play at Sacramento on Mon., Nov. 23 and at Portland on Wed., Nov. 25, then host the LA Lakers on Fri., Nov. 27 and Boston on Sun., Nov. 29. They have no game on Thanksgiving Day itself, which is Thu., Nov. 26, 2026. Our [Thanksgiving date page](/when-is/thanksgiving/) has the holiday.
 

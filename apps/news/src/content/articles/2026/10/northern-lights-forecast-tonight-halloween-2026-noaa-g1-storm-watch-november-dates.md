@@ -90,7 +90,7 @@ assets:
       - ["Fri., Nov. 27", "Kp 5 in outlook"]
       - ["Sat., Nov. 28", "Kp 5 in outlook"]
     note: "Source: NOAA Space Weather Prediction Center 3-Day Forecast (Oct. 31, 2026) and 27-day outlook (Nov. 9, 2026); U.S. Naval Observatory moon phases. Forecasts change; check before you go out."
-    description: "A one-page November 2026 northern lights watch calendar with the Oct. 31 G1 forecast, the next Kp 4 outlook dates and moon phases."
+    description: "A one-page November 2026 northern lights watch calendar with the Oct. 31 G1 forecast, the next Kp 5 outlook dates and moon phases."
     alt: "Northern lights watch dates for November 2026 listing the G1 forecast on Oct. 31, Kp 5 outlook dates and moon phases"
 draft: false
 ---

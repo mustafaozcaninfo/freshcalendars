@@ -3,7 +3,7 @@ title: "Toray Pan Pacific Open 2026: Shnaider Beats Fernandez 6-4, 5-7, 6-2"
 description: "Diana Shnaider won the 2026 Toray Pan Pacific Open in Tokyo on Nov. 1, beating Leylah Fernandez 6-4, 5-7, 6-2. Semifinal scores and round-by-round results."
 type: news
 publishedAt: "2026-10-29T04:02:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:08:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["toray pan pacific open 2026 schedule", "tokyo wta 2026 final time", "naomi osaka tokyo next match time", "pan pacific open order of play"]
@@ -51,6 +51,7 @@ sources:
   - title: "Tokyo 2026 tournament page"
     url: "https://www.wtatennis.com/tournament/1056/tokyo/2026"
     publisher: "Women's Tennis Association (WTA)"
+    date: "2026-11-14"
   - title: "Toray Pan Pacific Open tournament information"
     url: "https://toray-ppo.com/en/tournament/"
     publisher: "Toray Pan Pacific Open"
@@ -64,9 +65,9 @@ sources:
 downloads:
   - group: "Tokyo 2026 Schedule and Results Tracker printables"
     title: "Tokyo 2026 Schedule and Results Tracker, Oct. 29 to Nov. 1"
-    description: "A one-page Tokyo 2026 Toray Pan Pacific Open tracker with each remaining day, Japan and U.S. Eastern times, and blank lines for the winners."
+    description: "A one-page Tokyo 2026 Toray Pan Pacific Open results sheet: the quarterfinals, semifinals and final, with the semifinal start time in Japan and U.S. Eastern Time."
     preview: ../../../../assets/news/toray-pan-pacific-open-2026/toray-pan-pacific-open-2026-schedule-results-tracker.png
-    alt: "Tokyo 2026 Toray Pan Pacific Open schedule and results tracker with blank winner lines"
+    alt: "Tokyo 2026 Toray Pan Pacific Open results sheet with the quarterfinal, semifinal and final scores"
     pdf: "/news/downloads/toray-pan-pacific-open-2026/toray-pan-pacific-open-2026-schedule-results-tracker.pdf"
     png: "/news/downloads/toray-pan-pacific-open-2026/toray-pan-pacific-open-2026-schedule-results-tracker.png"
     pages: 1
@@ -80,12 +81,13 @@ assets:
   overlay: true
   kicker: "Tokyo WTA 500 · Oct. 26 to Nov. 1, 2026"
   date: "2026-11-01"
-  card: { top: "Semifinals start Fri., Oct. 30", big: "11 p.m. ET", bottom: "Noon Sat. in Tokyo, final Sun., Nov. 1" }
+  card: { top: "Tokyo final, Sun., Nov. 1", big: "Shnaider d. Fernandez", bottom: "6-4, 5-7, 6-2 for her sixth title" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: toray-pan-pacific-open-2026-schedule-results-tracker
     group: toray-pan-pacific-open-2026
     title: "Tokyo 2026 Schedule and Results Tracker, Oct. 29 to Nov. 1"
-    subtitle: "Toray Pan Pacific Open, Tokyo time (JST) and U.S. Eastern Time. Write in each winner."
+    subtitle: "Toray Pan Pacific Open, Tokyo, Oct. 30 to Nov. 1, 2026: quarterfinal, semifinal and final results."
     columns: ["Day and match", "Time and winner"]
     layout: list
     rows:
@@ -93,12 +95,12 @@ assets:
       - ["Fri., Oct. 30 · Quarterfinal", "Pohankova d. Parks 7-6(3), 6-3"]
       - ["Fri., Oct. 30 · Quarterfinal", "Fernandez d. Rybakina, walkover (neck injury)"]
       - ["Fri., Oct. 30 · Quarterfinal", "Shnaider d. Eala 2-6, 7-6(5), 6-4"]
-      - ["Sat., Oct. 31 · Semifinal", "Fernandez v Rakhimova, 12 p.m. JST (11 p.m. EDT Fri., Oct. 30). Winner: ________"]
-      - ["Sat., Oct. 31 · Semifinal", "Shnaider v Pohankova, followed by (no set time). Winner: ________"]
+      - ["Sat., Oct. 31 · Semifinal", "Fernandez d. Rakhimova 7-5, 6-3 (12 p.m. JST, 11 p.m. EDT Fri.)"]
+      - ["Sat., Oct. 31 · Semifinal", "Shnaider d. Pohankova 6-4, 7-6(9) (followed by, no set time)"]
       - ["Sun., Nov. 1 · Final", "Shnaider d. Fernandez 6-4, 5-7, 6-2"]
-    note: "Source: Women's Tennis Association (WTA) order of play and singles draw released Oct. 30, 2026. Eastern times are our conversion. Matches may be moved."
-    description: "A one-page Tokyo 2026 Toray Pan Pacific Open tracker with each remaining day, Japan and U.S. Eastern times, and blank lines for the winners."
-    alt: "Tokyo 2026 Toray Pan Pacific Open schedule and results tracker with blank winner lines"
+    note: "Source: Women's Tennis Association (WTA) order of play and singles draw released Oct. 30, 2026, and the WTA scores and results page. Eastern time is our conversion."
+    description: "A one-page Tokyo 2026 Toray Pan Pacific Open results sheet: the quarterfinals, semifinals and final, with the semifinal start time in Japan and U.S. Eastern Time."
+    alt: "Tokyo 2026 Toray Pan Pacific Open results sheet with the quarterfinal, semifinal and final scores"
 draft: false
 ---
 
@@ -156,4 +158,4 @@ The official WTA and tournament pages we read do not name a U.S. or U.K. broadca
 
 ## Free Tokyo 2026 schedule and results tracker
 
-Our printable lists the quarterfinal results, the semifinal times in Tokyo and Eastern Time, and blank lines for the winners and the champion. Mark the week on the [October 2026 calendar](/october-calendars.html) and the [November 2026 printable calendar](/november-calendars.html). For other events across the clock change, see our [Paris Masters 2026 schedule](/news/paris-masters-2026-schedule-final-time-by-time-zone/) and [WTA Finals 2026 at Indian Wells](/news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/) stories.
+Our printable lists the quarterfinal, semifinal and final results, and the semifinal start time in Tokyo and Eastern Time. Mark the week on the [October 2026 calendar](/october-calendars.html) and the [November 2026 printable calendar](/november-calendars.html). For other events across the clock change, see our [Paris Masters 2026 schedule](/news/paris-masters-2026-schedule-final-time-by-time-zone/) and [WTA Finals 2026 at Indian Wells](/news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/) stories.

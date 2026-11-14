@@ -1,9 +1,9 @@
 ---
 title: "World Science Day 2026: Nov. 10 and the Science Diplomacy Theme"
-description: "World Science Day is Tuesday, Nov. 10, 2026. The theme is \"Common ground through science diplomacy,\" with four aims, activity ideas and a free sheet."
+description: "World Science Day fell on Tuesday, Nov. 10, 2026. The theme was \"Common ground through science diplomacy,\" with four aims, activity ideas and a free sheet."
 type: news
 publishedAt: "2026-11-06T14:05:00-05:00"
-updatedAt: "2026-11-08T07:23:00-05:00"
+updatedAt: "2026-11-14T18:05:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["world science day 2026", "world science day for peace and development 2026 theme", "unesco science day", "science diplomacy"]
@@ -74,10 +74,10 @@ hero:
     author: "Fred Romero from Paris, France"
     authorUrl: "https://www.flickr.com/people/129231073@N06"
 summary:
-  - "World Science Day for Peace and Development is celebrated every 10 November, which is a Tuesday in 2026, according to UNESCO."
-  - "UNESCO's 2026 theme is \"Common ground through science diplomacy.\""
+  - "World Science Day for Peace and Development is celebrated every 10 November, which was a Tuesday in 2026, according to UNESCO. The next is Wednesday, Nov. 10, 2027."
+  - "UNESCO's 2026 theme was \"Common ground through science diplomacy.\""
   - "UNESCO lists four aims for the day, from public awareness of science to support for scientific endeavours."
-  - "UNESCO's page gives no 2026 event date or place; our activity ideas and printable sheet are our own suggestions."
+  - "UNESCO's page gave no 2026 event date or place; our activity ideas and printable sheet are our own suggestions."
 faq:
   - q: "What is the theme of World Science Day 2026?"
     a: "UNESCO's page gives the 2026 theme as \"Common ground through science diplomacy.\" Some other sites list different wording; UNESCO's page is the source here."
@@ -85,12 +85,13 @@ faq:
     a: "Wednesday, Nov. 10, 2027. UNESCO says the day is celebrated every 10 November, so the weekday moves."
   - q: "Is World Science Day a day off?"
     a: "UNESCO's page does not say it is. It describes the day as an observance with four aims."
-  - q: "Is there a UNESCO event on Nov. 10, 2026?"
-    a: "UNESCO's page does not give a 2026 event date or place, so we do not list one."
+  - q: "Was there a UNESCO event on Nov. 10, 2026?"
+    a: "UNESCO's page gave no 2026 event date or place, so we list none. It did post a message from Director-General Khaled El-Enany for the day."
 sources:
   - title: "World Science Day for Peace and Development | UNESCO"
     url: "https://www.unesco.org/en/days/science-peace-development"
     publisher: "United Nations Educational, Scientific and Cultural Organization (UNESCO)"
+    date: "2026-11-14"
   - title: "World Science Day for Peace and Development - International Week | United Nations"
     url: "https://www.un.org/en/node/106610"
     publisher: "United Nations (UN)"
@@ -115,7 +116,7 @@ downloads:
 draft: false
 ---
 
-**World Science Day for Peace and Development is Tuesday, Nov. 10, 2026.** The United Nations Educational, Scientific and Cultural Organization (UNESCO) says the day is "Celebrated every 10 November" and gives the 2026 theme as "Common ground through science diplomacy." Below are the day's four aims, our own classroom and home activity ideas for each, and a free one-page sheet (UNESCO's page checked Nov. 6, 2026).
+**World Science Day for Peace and Development fell on Tuesday, Nov. 10, 2026.** The United Nations Educational, Scientific and Cultural Organization (UNESCO) says the day is "Celebrated every 10 November" and gives the 2026 theme as "Common ground through science diplomacy." Below are the day's four aims, our own classroom and home activity ideas for each, and a free one-page sheet (UNESCO's page checked Nov. 6 and Nov. 14, 2026). The next World Science Day is Wednesday, Nov. 10, 2027.
 
 ## What is the World Science Day 2026 theme?
 
@@ -160,4 +161,4 @@ Our printable pulls UNESCO's date, the 2026 theme and two of the aims onto one p
 
 ## Does UNESCO list a 2026 event?
 
-UNESCO's page does not give a 2026 event date or place, so we list none. UNESCO also covers learning in a separate observance; see [International Day of Education on Sunday, Jan. 24, 2027](/news/international-day-of-education-2027-sunday-january-24/).
+UNESCO's page does not give a 2026 event date or place, so we list none. It does carry a message from Director-General Khaled El-Enany. He said UNESCO reaffirmed that science is a way of "building trust, connecting nations and shaping a more peaceful and sustainable future." UNESCO also covers learning in a separate observance; see [International Day of Education on Sunday, Jan. 24, 2027](/news/international-day-of-education-2027-sunday-january-24/).

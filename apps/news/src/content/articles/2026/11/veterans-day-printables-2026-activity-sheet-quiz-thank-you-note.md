@@ -3,7 +3,7 @@ title: "Veterans Day Printables 2026: Activity Sheet, Quiz, 32-Page Guide"
 description: "Veterans Day printables 2026: a free activity sheet with a quiz and thank-you note, plus the Department of Veterans Affairs (VA) poster and teacher guide."
 type: explainer
 publishedAt: "2026-11-04T15:48:00-05:00"
-updatedAt: "2026-11-09T11:45:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [christina-gerland]
 category: holidays
 shop: veterans-day
@@ -63,10 +63,10 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:U.S._Flags_are_Hung_in_the_Memorial_Amphitheater_in_Preparation_for_the_2024_National_Veterans_Day_Observance,_Arlington_National_Cemetery,_Arlington,_Virginia,_November_4,_2024_-_9.jpg"
     author: "Arlington National Cemetery"
 summary:
-  - "Veterans Day is Wednesday, Nov. 11, 2026. Our free one-page activity sheet has five history facts, a five-question quiz with answers on a cut-off strip, a thank-you note and a checklist."
+  - "Veterans Day was Wednesday, Nov. 11, 2026, and falls on Thursday, Nov. 11, 2027, per the Office of Personnel Management (OPM). Our free one-page activity sheet has five history facts, a five-question quiz with answers on a cut-off strip, a thank-you note and a checklist."
   - "The Department of Veterans Affairs (VA) posts its 2026 Veterans Day poster in an 11-by-17-inch version for office printers and an 18-by-24-inch version for commercial printing."
   - "The VA's 32-page Veterans Day Teachers Resource Guide is a free PDF, and the VA says you may make as many extra copies as you need."
-  - "The national ceremony at Arlington National Cemetery starts at 11:00 a.m. on Nov. 11, per the VA."
+  - "The national ceremony at Arlington National Cemetery is held each Nov. 11 and starts at 11:00 a.m., per the VA."
 faq:
   - q: "Are the Veterans Day printables free?"
     a: "Yes. Our activity sheet is free to print. The VA also posts its 2026 poster and a 32-page Teachers Resource Guide for download, and says you may make as many additional copies of the guide as you need."
@@ -75,7 +75,9 @@ faq:
   - q: "Do you wear a poppy on Veterans Day?"
     a: "The VA says wearing poppies in honor of America's war dead is traditionally done on Memorial Day, not Veterans Day."
   - q: "What time is the national Veterans Day ceremony?"
-    a: "The VA says the ceremony at Arlington National Cemetery starts precisely at 11:00 a.m. on Nov. 11, with a wreath laying at the Tomb of the Unknowns."
+    a: "The VA says the ceremony at Arlington National Cemetery is held each year on Nov. 11 and starts precisely at 11:00 a.m., with a wreath laying at the Tomb of the Unknowns. The 2026 ceremony was on Wednesday, Nov. 11."
+  - q: "When is Veterans Day in 2027?"
+    a: "Thursday, Nov. 11, 2027, according to the 2027 holiday schedule from the Office of Personnel Management (OPM). The VA says the day is always observed officially on Nov. 11, whatever the day of the week."
 sources:
   - title: "History of Veterans Day"
     url: "https://department.va.gov/veterans-day/history-of-veterans-day/"
@@ -105,6 +107,10 @@ sources:
     url: "https://news.va.gov/150674/2026-veterans-day-teachers-resource-guide/"
     publisher: "VA News"
     date: "2026-11-02"
+  - title: "2027 Federal Holidays"
+    url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+    publisher: "U.S. Office of Personnel Management"
+    date: "2026-11-14"
   - title: "5 U.S. Code 6103 - Holidays"
     url: "https://www.law.cornell.edu/uscode/text/5/6103"
     publisher: "Cornell Legal Information Institute (LII)"
@@ -129,7 +135,7 @@ downloads:
 draft: false
 ---
 
-**Veterans Day is Wednesday, Nov. 11, 2026, and the Department of Veterans Affairs (VA) posts its 2026 poster and a 32-page teachers guide for free.** Below is our own one-page activity sheet with a quiz, a thank-you note and a checklist, followed by a guide to the VA files, where to find each and how to print them. For the holiday itself, see [when Veterans Day 2026 falls and what closes](/news/veterans-day-2026-wednesday-november-11/).
+**Veterans Day was Wednesday, Nov. 11, 2026, and the Department of Veterans Affairs (VA) still posts its 2026 poster and a 32-page teachers guide for free.** Next year it falls on Thursday, Nov. 11, 2027, according to the Office of Personnel Management (OPM) holiday schedule. Below is our own one-page activity sheet with a quiz, a thank-you note and a checklist, followed by a guide to the VA files, where to find each and how to print them. For the holiday itself, see [when Veterans Day 2026 falls and what closes](/news/veterans-day-2026-wednesday-november-11/).
 
 ## What is on the free Veterans Day activity sheet?
 
@@ -163,7 +169,7 @@ The VA's Veterans Day page adds that the national ceremony is held each year on 
 
 ## Where do the VA's free Veterans Day printables live?
 
-The VA spreads its files over several pages. This is where each one is, as of Nov. 9, 2026.
+The VA spreads its files over several pages. This is where each one is, as of Nov. 14, 2026.
 
 | File | Where | Details from the VA |
 |---|---|---|
@@ -172,7 +178,7 @@ The VA spreads its files over several pages. This is where each one is, as of No
 | Teachers Resource Guide | [VA guide page](https://department.va.gov/veterans-day/veterans-day-teachers-resource-guide/) (updated Sept. 28, 2026) | PDF, 32 pages, 6 MB |
 | Past posters, 1978 to 2026 | VA Veterans Day Poster Gallery on Flickr, linked from the [VA Veterans Day page](https://department.va.gov/veterans-day/) | "Browse the collection of Veterans Day posters from 1978 until 2026." |
 
-We do not reproduce the poster here; use the VA's links. The VA News announcement of June 30, 2026, by Veterans Day Coordinator Dusan Ilic, says the poster recognizes America's 250th anniversary and combines the modern American flag with an early American flag. It will also be the cover of the official program for the Veterans Day commemoration at Arlington National Cemetery on Nov. 11, 2026.
+We do not reproduce the poster here; use the VA's links. The VA News announcement of June 30, 2026, by Veterans Day Coordinator Dusan Ilic, says the poster recognizes America's 250th anniversary and combines the modern American flag with an early American flag. It was also slated to be the cover of the official program for the Veterans Day commemoration at Arlington National Cemetery on Nov. 11, 2026.
 
 ## How do you print the VA's 2026 poster?
 
@@ -187,11 +193,11 @@ For a home or office printer, the VA's poster page says you can print the poster
 
 The 32-page PDF is built for classrooms. The VA's news post of Nov. 2, 2026 lists its contents: understanding Veterans Day, classroom-ready lessons, student activities and projects, scholarship opportunities, guidance for school and community events, and flag etiquette. The activities include writing prompts, art projects, interviews with Veterans and service-learning opportunities. The VA's guide page says there are about 18 million Veterans living among us, in every state and territory. On its Facts and Information page the VA says: "Teachers' Resource Guides may be downloaded. You may make as many additional copies as you need."
 
-## How can a class or family mark Veterans Day 2026?
+## How can a class or family mark Veterans Day?
 
 These four steps are our suggestions, and they match the checklist on the sheet.
 
-1. Watch the national ceremony at 11 a.m. ET on Nov. 11.
+1. Watch the national ceremony, which starts at 11 a.m. ET each Nov. 11.
 2. Display the flag. Under 4 U.S. Code (U.S.C.) section 6(d), the flag should be displayed on all days, especially listed ones that include "Veterans Day, November 11."
 3. Read the VA's Teachers Resource Guide together.
 4. Write the thank-you note on the sheet and give or send it to a veteran.

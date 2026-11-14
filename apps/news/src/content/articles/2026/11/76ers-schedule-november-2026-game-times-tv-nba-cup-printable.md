@@ -3,7 +3,7 @@ title: "76ers Schedule November 2026: 14 Games and 3 NBA Cup Games"
 description: "The 76ers schedule for November 2026 has 14 games, from Mon., Nov. 2 against Chicago to Sat., Nov. 28 at Houston. TV, NBA Cup games and a printable."
 type: news
 publishedAt: "2026-11-02T10:12:00-05:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["76ers schedule November 2026", "Sixers game tonight", "76ers NBA Cup schedule 2026", "76ers printable schedule"]
@@ -11,15 +11,16 @@ dateline: "Philadelphia"
 assets:
   scene: sports
   overlay: true
-  kicker: "76ers · Next game Mon., Nov. 2, 2026"
-  date: "2026-11-02"
-  card: { top: "Chicago at Philadelphia", big: "7:30 p.m. ET", bottom: "First of 14 November games" }
+  kicker: "76ers · Next game Sun., Nov. 15, 2026"
+  date: "2026-11-15"
+  card: { top: "Indiana at Philadelphia", big: "1 p.m. ET", bottom: "Game 7 of 14 November games" }
   printable:
     slug: 76ers-schedule-november-2026
     group: 76ers-schedule-2026
     title: "76ers Schedule, November 2026"
     subtitle: "All 14 November games, Eastern Time, with TV and Cup games"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Mon., Nov. 2", "Vs. Chicago, 7:30 p.m. ET"]
       - ["Wed., Nov. 4", "At Detroit, 7 p.m. ET, ESPN"]
@@ -51,13 +52,13 @@ hero:
     author: "C P"
     authorUrl: "https://www.flickr.com/people/143306961@N02"
 summary:
-  - "The 76ers' next game is Mon., Nov. 2, 2026, against Chicago at 7:30 p.m. ET in South Philadelphia, per the NBA's schedule dated Aug. 13, 2026."
+  - "The 76ers' next game is Sun., Nov. 15, 2026, against Indiana at 1 p.m. ET in South Philadelphia, then at Brooklyn on Mon., Nov. 16, per the NBA's schedule dated Aug. 13, 2026."
   - "The NBA lists 14 76ers games in November 2026, seven at home and seven on the road, from Nov. 2 to Sat., Nov. 28 at Houston."
   - "National TV is listed for four November games: ESPN on Nov. 4 and Nov. 25, Prime Video on Nov. 6, and NBC and Peacock on Nov. 10."
   - "Three November games are Emirates NBA Cup group games (Nov. 6, 25 and 27), after the Oct. 30 home game against New York."
 faq:
   - q: "When is the next 76ers game?"
-    a: "Mon., Nov. 2, 2026, against Chicago in South Philadelphia, 7:30 p.m. ET, according to the NBA's 2026-27 schedule. The 76ers played at Charlotte on Sat., Oct. 31."
+    a: "Sun., Nov. 15, 2026, against Indiana in South Philadelphia, 1 p.m. ET, according to the NBA's 2026-27 schedule. The 76ers were scheduled to host Toronto on Thu., Nov. 12."
   - q: "How many 76ers games are in November 2026?"
     a: "14, according to the NBA's schedule dated Aug. 13, 2026: seven at home and seven on the road. The 76ers play back-to-backs on Sun., Nov. 15 and Mon., Nov. 16 (at home, then at Brooklyn) and on Fri., Nov. 27 and Sat., Nov. 28 (both on the road)."
   - q: "Which 76ers games are NBA Cup games?"
@@ -103,9 +104,9 @@ downloads:
 draft: false
 ---
 
-**The Philadelphia 76ers host Chicago on Monday, Nov. 2, 2026, at 7:30 p.m. Eastern Time (ET) in South Philadelphia, according to the National Basketball Association (NBA) schedule.** The NBA lists 14 76ers games in November, and a one-page printable of all of them is further down.
+**The Philadelphia 76ers host Indiana on Sunday, Nov. 15, 2026, at 1 p.m. Eastern Time (ET) in South Philadelphia, according to the National Basketball Association (NBA) schedule.** The NBA lists 14 76ers games in November, six of them already played by Nov. 14, and a one-page printable of all of them is further down.
 
-The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so the table needs no conversion except for the two road games in the Central Time (CT) zone, which also get a CT time. Weekdays are our own calculation. The 76ers' previous game was at Charlotte on Saturday, Oct. 31.
+The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so the table needs no conversion except for the two road games in the Central Time (CT) zone, which also get a CT time. Weekdays are our own calculation. The 76ers' last game before November was at Charlotte on Saturday, Oct. 31.
 
 ## 76ers game times and TV for every November game
 

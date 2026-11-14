@@ -3,7 +3,7 @@ title: "Coca-Cola Christmas Truck Tour 2026: Stops Not Yet Announced"
 description: "Coca-Cola Christmas Truck Tour 2026 dates and stops are not yet announced; the Great Britain vote closed Nov. 3. Includes a one-page checklist."
 type: news
 publishedAt: "2026-10-28T13:41:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:20:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["coca cola christmas truck tour 2026", "coca cola truck tour 2026 dates", "coca cola truck vote", "coca cola christmas truck near me 2026"]
@@ -11,7 +11,7 @@ dateline: "London"
 hero:
   src: ../../../../assets/news/coca-cola-christmas-truck-tour-2026-uk-vote-closes-3-november-dates/coca-cola-christmas-truck-tour-2026-uk-vote-closes-3-november-dates.webp
   alt: "Coca-Cola Christmas Truck Tour 2026 vote: Christmas lights over a wet town-centre street in Mold, Wales, at night"
-  caption: "Christmas lights in Mold (Yr Wyddgrug), Wales (file photo). Votes to bring the Coca-Cola Christmas Truck to a town in Great Britain close at 16:00 on 3 November."
+  caption: "Christmas lights in Mold (Yr Wyddgrug), Wales (file photo). Votes to bring the Coca-Cola Christmas Truck to a town in Great Britain closed at 16:00 on 3 November."
   credit: "Photo: Lesbardd / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -19,21 +19,21 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:YrWyddgrug01LB.jpg"
     author: "Lesbardd"
 summary:
-  - "Coca-Cola Great Britain's Christmas Truck Tour vote closes at 16:00 on Tuesday 3 November 2026, according to its terms and conditions; that is 11 a.m. Eastern Time (ET) on Nov. 3."
-  - "Each person in Great Britain can cast up to three votes for towns in Great Britain, and the top five towns are considered for a visit in November or December 2026."
+  - "Coca-Cola Great Britain's Christmas Truck Tour vote closed at 16:00 on Tuesday 3 November 2026, according to its terms and conditions; that was 11 a.m. Eastern Time (ET) on Nov. 3."
+  - "Each person in Great Britain could cast up to three votes for towns in Great Britain, and the top five towns are considered for a visit in November or December 2026."
   - "The 2026 stops, number of stops and start date are not yet announced; confirmed stops will be announced 24 to 48 hours before each visit."
   - "In 2025, news outlets reported 15 stops, announced around 18 November 2025."
 faq:
-  - q: "When does the Coca-Cola Christmas Truck vote close in 2026?"
-    a: "At 16:00 on Tuesday 3 November 2026, according to clause 10 of the Coca-Cola Great Britain terms and conditions. In the UK that is Greenwich Mean Time (GMT), which is 11 a.m. ET on Nov. 3."
+  - q: "When did the Coca-Cola Christmas Truck vote close in 2026?"
+    a: "At 16:00 on Tuesday 3 November 2026, according to clause 10 of the Coca-Cola Great Britain terms and conditions. In the UK that was Greenwich Mean Time (GMT), which was 11 a.m. ET on Nov. 3."
   - q: "Where will the Coca-Cola Christmas Truck stop in 2026?"
     a: "Not yet announced. Coca-Cola Great Britain says confirmed stops will be announced 24 to 48 hours before each visit, and the top five towns by valid votes are only considered."
-  - q: "How many times can I vote for the Coca-Cola truck?"
-    a: "Up to three votes per person across the promotion. They can go to the same town or different towns, and each vote must name a town in Great Britain."
-  - q: "Can people in Northern Ireland vote?"
-    a: "No. The terms say the promotion is open to residents of Great Britain (England, Scotland and Wales) only. The vote page adds 18+ and no purchase necessary."
-  - q: "Is there a prize for voting?"
-    a: "No. Clause 24 of the terms says voters receive no cash, product or personal prize."
+  - q: "How many times could I vote for the Coca-Cola truck?"
+    a: "Up to three votes per person across the promotion. They could go to the same town or different towns, and each vote had to name a town in Great Britain."
+  - q: "Could people in Northern Ireland vote?"
+    a: "No. The terms say the promotion was open to residents of Great Britain (England, Scotland and Wales) only. The vote page added 18+ and no purchase necessary."
+  - q: "Was there a prize for voting?"
+    a: "No. Clause 24 of the terms says voters received no cash, product or personal prize."
 sources:
   - title: "Coca-Cola Christmas Truck Tour | Coca-Cola Great Britain"
     url: "https://www.coca-cola.com/gb/en/offerings/christmas/truck-tour"
@@ -60,14 +60,6 @@ downloads:
     pdf: "/news/downloads/coca-cola-christmas-truck-2026/coca-cola-christmas-truck-2026-vote-visit-checklist.pdf"
     png: "/news/downloads/coca-cola-christmas-truck-2026/coca-cola-christmas-truck-2026-vote-visit-checklist.png"
     pages: 1
-  - group: "Coca-Cola Christmas Truck 2026 printables"
-    title: "Coca-Cola Christmas Truck 2026: Vote and Visit Checklist (ink saver)"
-    description: "A one-page checklist for the 2026 Coca-Cola Christmas Truck Tour vote in Great Britain: deadline, vote limit, how towns are picked and when stops are announced. Ink-saver version."
-    preview: ../../../../assets/news/coca-cola-christmas-truck-2026/coca-cola-christmas-truck-2026-vote-visit-checklist-ink.png
-    alt: "Printable checklist for the Coca-Cola Christmas Truck 2026 vote and visit in Great Britain., ink-saver version"
-    pdf: "/news/downloads/coca-cola-christmas-truck-2026/coca-cola-christmas-truck-2026-vote-visit-checklist-ink.pdf"
-    png: "/news/downloads/coca-cola-christmas-truck-2026/coca-cola-christmas-truck-2026-vote-visit-checklist-ink.png"
-    pages: 1
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -80,19 +72,19 @@ draft: false
 assets:
   scene: winter-holidays
   overlay: true
-  kicker: "Christmas Truck Tour · Vote closes Tue. 3 Nov."
+  kicker: "Christmas Truck Tour · Vote closed Tue. 3 Nov."
   date: "2026-11-03"
-  card: { top: "Vote closes at 16:00 GMT on", big: "Nov. 3", bottom: "11 a.m. ET; top five towns considered" }
+  card: { top: "Vote closed at 16:00 GMT on", big: "Nov. 3", bottom: "11 a.m. ET; top five towns considered" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: coca-cola-christmas-truck-2026-vote-visit-checklist
     group: coca-cola-christmas-truck-2026
     title: "Coca-Cola Christmas Truck 2026: Vote and Visit Checklist"
     subtitle: "Great Britain vote, Tuesday 20 October to Tuesday 3 November 2026"
     layout: checklist
-    inkSaver: true
     rows:
       - { when: "Tue., Oct. 20", what: "Vote opened at 09:00 (clause 10)", section: "Vote" }
-      - { when: "Tue., Nov. 3", what: "Vote closes at 16:00 GMT, 11 a.m. ET", section: "Vote" }
+      - { when: "Tue., Nov. 3", what: "Vote closed at 16:00 GMT, 11 a.m. ET", section: "Vote" }
       - { when: "Up to 3 votes", what: "Same or different towns, each in Great Britain", section: "Vote" }
       - { when: "Log in", what: "Coca-Cola account needed; 18+, GB residents only", section: "Vote" }
       - { when: "Nov. to Dec.", what: "Top five towns considered for a visit in 2026", section: "Visit" }
@@ -103,26 +95,26 @@ assets:
     alt: "Printable checklist for the Coca-Cola Christmas Truck 2026 vote and visit in Great Britain."
 ---
 
-**The Coca-Cola Christmas Truck Tour 2026 vote in Great Britain closes at 16:00 on Tuesday 3 November 2026**, according to the Coca-Cola Great Britain terms and conditions (T&Cs). The UK is on Greenwich Mean Time (GMT) since 25 October, so the deadline is 11 a.m. Eastern Time (ET) on Nov. 3 (US clocks fell back on Nov. 1, so ET is now standard time, by our calculation).
+**The Coca-Cola Christmas Truck Tour 2026 vote in Great Britain closed at 16:00 on Tuesday 3 November 2026**, according to the Coca-Cola Great Britain terms and conditions (T&Cs). The UK has been on Greenwich Mean Time (GMT) since 25 October, so the deadline was 11 a.m. Eastern Time (ET) on Nov. 3 (US clocks fell back on Nov. 1, so ET was standard time, by our calculation).
 
-The company's vote page says this is the first year people across Great Britain can help shape where the truck goes next. No 2026 stop, stop count or start date has been announced. A one-page checklist is in the downloads.
+The company's vote page says this is the first year people across Great Britain can help shape where the truck goes next. No 2026 stop, stop count or start date was announced on the pages we read. A one-page checklist is in the downloads.
 
-## When does the Coca-Cola truck vote open and close?
+## When did the Coca-Cola truck vote open and close?
 
 | Item | Date and time | Source |
 |---|---|---|
 | Vote opens | Tuesday 20 October 2026, 09:00 | Terms, clause 10 |
-| Vote closes | Tuesday 3 November 2026, 16:00 GMT (11 a.m. ET) | Terms, clause 10 |
+| Vote closed | Tuesday 3 November 2026, 16:00 GMT (11 a.m. ET) | Terms, clause 10 |
 | Truck visits | November or December 2026 | Terms, clause 22 |
 | Each stop announced | 24 to 48 hours before the visit | Terms, clause 25 |
 
-Weekdays are our calculation from the listed dates. Coca-Cola's terms give the times as "20.10.26 at 09:00" and "16.00 on 03.11.26". Add 3 Nov. to the [November 2026 printable calendar](/november-calendars.html) so the deadline is not missed.
+Weekdays are our calculation from the listed dates. Coca-Cola's terms give the times as "20.10.26 at 09:00" and "16.00 on 03.11.26". Add 3 Nov. to the [November 2026 printable calendar](/november-calendars.html) for the record.
 
-## How does the vote work?
+## How did the vote work?
 
-The vote page says to log in with a Coca-Cola account and cast up to three votes before 3 November. Clause 4 of the terms allows a maximum of three votes per person throughout the promotional period. Votes may go to the same or different towns, and each vote must nominate a town in Great Britain.
+The vote page said to log in with a Coca-Cola account and cast up to three votes before 3 November. Clause 4 of the terms allows a maximum of three votes per person throughout the promotional period. Votes could go to the same or different towns, and each vote had to nominate a town in Great Britain.
 
-The terms limit the promotion to residents of Great Britain (England, Scotland and Wales), so Northern Ireland is not included. The vote page adds "18+. No purchase necessary." Voters get no cash, product or personal prize (clause 24).
+The terms limited the promotion to residents of Great Britain (England, Scotland and Wales), so Northern Ireland was not included. The vote page added "18+. No purchase necessary." Voters got no cash, product or personal prize (clause 24).
 
 ## How does a town get picked for a visit?
 

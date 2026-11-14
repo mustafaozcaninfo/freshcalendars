@@ -111,8 +111,8 @@ Network names are written as the NHL lists them. MSG Networks (MSG, MSG 2 and MS
 | Sun., Nov. 1 | Edmonton at New York Rangers | 6 p.m. | MSG, NHL Network | Lost 4-1 |
 | Tue., Nov. 3 | St. Louis at New York Rangers | 7 p.m. | MSG | Won 3-1 |
 | Thu., Nov. 5 | Philadelphia at New York Rangers | 7 p.m. | MSG | Won 3-2 |
-| Sat., Nov. 7 | New York Rangers at Seattle, Climate Pledge Arena | 5 p.m. (2 p.m. Pacific Time, PT) | MSG, MSG 2 |
-| Mon., Nov. 9 | New York Rangers at Edmonton, Rogers Place | 8 p.m. (6 p.m. Mountain Time, MT) | MSG, Sportsnet+ |
+| Sat., Nov. 7 | New York Rangers at Seattle, Climate Pledge Arena | 5 p.m. (2 p.m. Pacific Time, PT) | MSG, MSG 2 | Won 4-3 |
+| Mon., Nov. 9 | New York Rangers at Edmonton, Rogers Place | 8 p.m. (6 p.m. Mountain Time, MT) | MSG, Sportsnet+ | Lost 3-1 |
 | Wed., Nov. 11 | New York Rangers at Calgary, Scotiabank Saddledome | 7:30 p.m. (5:30 p.m. MT) | MSG Sportsnet, Prime Video | Won 3-1 |
 | Fri., Nov. 13 | New York Rangers at Vancouver, Rogers Arena | 9 p.m. (6 p.m. PT) | MSG Sportsnet, Sportsnet | Won 5-1 |
 | Mon., Nov. 16 | Montreal at New York Rangers | 7:30 p.m. | TNT, truTV, HBO Max | Not played |

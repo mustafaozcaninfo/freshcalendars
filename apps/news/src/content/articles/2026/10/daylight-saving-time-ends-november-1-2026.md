@@ -3,7 +3,7 @@ title: "Daylight Saving Time 2026: Ended Nov. 1, Senate Bill Still Waiting"
 description: "Daylight saving time 2026 ended at 2 a.m. Sunday, Nov. 1. The House passed permanent DST 308-117 on July 14; no Senate vote yet. Next: March 14, 2027."
 type: news
 publishedAt: "2026-10-17T16:00:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:45:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["daylight saving time ends 2026", "fall back November 1 2026", "Sunshine Protection Act 2026", "permanent daylight saving time", "clocks change 2026"]
@@ -75,8 +75,6 @@ draft: false
 related: [smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist, daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
 ---
 
-<p class="callout"><b>Clocks fell back on Sunday, Nov. 1.</b> At 2 a.m. local time that day, clocks went back one hour to 1 a.m. Phones and other connected devices changed on their own; set ovens, car clocks and wall clocks back by hand. The Sunshine Protection Act passed the House on July 14 and has had no Senate vote, so the change went ahead.</p>
-
 Daylight saving time ended at **2:00 a.m. local time on Sunday, Nov. 1, 2026**, when clocks in most of the United States moved back one hour to 1:00 a.m. The change went ahead even though the House of Representatives voted in July to make daylight saving time permanent: that bill, the Sunshine Protection Act, is still waiting for the Senate. Standard time now runs until Sunday, March 14, 2027.
 
 ## What happened at 2 a.m. on Nov. 1
@@ -122,7 +120,7 @@ The Senate received the bill on July 15 and sent it to the Committee on Commerce
 
 ### Why the timing matters
 
-The lame-duck session starts after the Nov. 3 election, two days after the clocks changed, so the Nov. 1 switch went ahead under current law. The next date that could be affected is March 14, 2027, when clocks are scheduled to spring forward.
+The lame-duck session follows the Nov. 3 election, which fell two days after the clocks changed, so the Nov. 1 switch went ahead under current law. The next date that could be affected is March 14, 2027, when clocks are scheduled to spring forward.
 
 ## The debate in brief
 
@@ -149,10 +147,10 @@ Under current rules, daylight saving time covers 238 days a year, about 65% of t
 - Check smoke and carbon monoxide alarm batteries; many fire departments use the clock change as a reminder. Our [smoke alarm checklist](/news/smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist/) has the steps.
 - If you worked the overnight shift, confirm how your employer counted the repeated 1:00 a.m. hour.
 - Expect earlier sunsets: evenings get dark about an hour sooner by clock time from Nov. 1.
-- Write Nov. 1 and March 14, 2027 on your printed calendar so the next change does not catch you off guard.
+- Write March 14, 2027 on your printed calendar so the next change does not catch you off guard.
 
 ## What to watch next
 
-The Senate returns for its lame-duck session after the Nov. 3 election. If the bill is not passed before the 119th Congress ends on Jan. 3, 2027, it expires and would have to be introduced again in the next Congress. Until a law changes, the second Sunday in March and the first Sunday in November remain the national switch dates. Our [daylight saving time guide](/page/daylight-savings/) lists the 2026 and 2027 switch dates, and you can mark the spring change on a [March 2027 printable calendar](/march-calendars.html).
+The Senate's lame-duck session follows the Nov. 3 election. If the bill is not passed before the 119th Congress ends on Jan. 3, 2027, it expires and would have to be introduced again in the next Congress. Until a law changes, the second Sunday in March and the first Sunday in November remain the national switch dates. Our [daylight saving time guide](/page/daylight-savings/) lists the 2026 and 2027 switch dates, and you can mark the spring change on a [March 2027 printable calendar](/march-calendars.html).
 
 For what the change does to your evenings, see [sunset times after the clocks fall back](/news/sunset-times-after-daylight-saving-time-ends-2026/). Britain and most of Europe switched a week earlier, on Oct. 25, as our [UK and Europe clock story](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) explains, and the rest of the month's dates are in [November 2026 important dates](/news/november-2026-important-dates-days-until/).

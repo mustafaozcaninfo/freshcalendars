@@ -1,9 +1,9 @@
 ---
 title: "2026 PSAT Scores: Released Oct. 22 and Nov. 5, Last Batch Nov. 12"
-description: "Preliminary SAT (PSAT) scores for 2026 were set for Oct. 22 and Nov. 5; the last release is Nov. 12 for schools that submitted by Oct. 30. Printable."
+description: "Preliminary SAT (PSAT) scores for 2026 were scheduled for Oct. 22, Nov. 5 and Nov. 12, by when your school submitted its tests. Table, formula and printable."
 type: explainer
 publishedAt: "2026-10-26T02:21:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:08:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["PSAT scores release date 2026", "when do PSAT scores come out 2026", "PSAT/NMSQT score release", "PSAT Selection Index calculator"]
@@ -11,7 +11,7 @@ dateline: "New York"
 hero:
   src: ../../../../assets/news/psat-scores-2026-release-date-november-5-november-12/psat-scores-2026-release-date-november-5-november-12.webp
   alt: "A student's hand holds a pencil over a multiple-choice test sheet"
-  caption: "A test answer sheet. Fall 2026 PSAT scores reach students on Oct. 22, Nov. 5 or Nov. 12."
+  caption: "A test answer sheet. Fall 2026 PSAT scores were scheduled to reach students on Oct. 22, Nov. 5 or Nov. 12."
   credit: "Photo: Alison wood / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 3.0"
@@ -21,10 +21,11 @@ hero:
     authorUrl: "https://commons.wikimedia.org/w/index.php?title=User:Alison_wood&amp;action=edit&amp;redlink=1"
 assets:
   overlay: true
-  kicker: "PSAT scores · Nov. 5 and Nov. 12, 2026"
-  date: "2026-11-05"
-  card: { top: "Next PSAT score release", big: "Thu., Nov. 5", bottom: "Later schools: Thu., Nov. 12" }
+  kicker: "PSAT scores · Oct. 22, Nov. 5 and Nov. 12, 2026"
+  date: "2026-11-12"
+  card: { top: "2026 PSAT score releases", big: "Last: Thu., Nov. 12", bottom: "Earlier waves: Oct. 22 and Nov. 5" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: psat-nmsqt-score-dates-2026
     group: psat-2026
     title: "PSAT/NMSQT Score Dates 2026"
@@ -42,13 +43,13 @@ assets:
     description: "PSAT/NMSQT testing window, the three 2026 student score release dates and the September 2027 National Merit notice on one page."
     alt: "PSAT/NMSQT score dates 2026 printable timeline from the Oct. 1-30 testing window to September 2027"
 summary:
-  - "College Board releases Fall 2026 in-school PSAT/NMSQT scores to students on Oct. 22, Nov. 5 or Nov. 12, depending on when the school submits its tests."
+  - "College Board scheduled Fall 2026 in-school PSAT/NMSQT scores for students on Oct. 22, Nov. 5 or Nov. 12, depending on when the school submitted its tests. The last date has now passed."
   - "Testing ran Oct. 1-30, 2026; schools chose their own test day."
   - "Scores range from 320 to 1520, and the National Merit Selection Index runs from 48 to 228."
-  - "National Merit students are notified through their high schools in September 2027."
+  - "National Merit students will be notified through their high schools in September 2027."
 faq:
-  - q: "When do PSAT scores come out in 2026?"
-    a: "College Board lists Oct. 22, Nov. 5 and Nov. 12, 2026 as student score release dates for in-school testing. Your date depends on when your school submitted its answer sheets."
+  - q: "When did PSAT scores come out in 2026?"
+    a: "College Board listed Oct. 22, Nov. 5 and Nov. 12, 2026 as student score release dates for in-school testing. The date depended on when your school submitted its answer sheets. If you cannot see a score, ask your counselor."
   - q: "How do I see my PSAT score?"
     a: "U.S. students who gave a mobile phone number at testing can view scores in the BigFuture School app. Students age 13 and older can use a College Board student account for more detail."
   - q: "What is a good PSAT score?"
@@ -96,9 +97,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Checked Oct. 26, 2026.</b> Dates below come from College Board's Fall 2026 score release table for in-school testing.</p>
-
-**College Board will release Fall 2026 Preliminary SAT (PSAT) and National Merit Scholarship Qualifying Test (NMSQT) scores to students on Thursday, Oct. 22, Thursday, Nov. 5 or Thursday, Nov. 12, 2026**, according to its score release table for in-school testing. Which date is yours depends on when your school submitted its tests. The Oct. 22 date has passed, so students who tested later should expect Nov. 5 or Nov. 12.
+**College Board scheduled Fall 2026 Preliminary SAT (PSAT) and National Merit Scholarship Qualifying Test (NMSQT) scores for students on Thursday, Oct. 22, Thursday, Nov. 5 or Thursday, Nov. 12, 2026**, according to its score release table for in-school testing. Which date was yours depended on when your school submitted its tests. All three dates have now passed; educators' electronic score reports for the last wave are due Wednesday, Nov. 18.
 
 ## Which PSAT score date is mine?
 
@@ -110,7 +109,7 @@ Testing for the fall 2026 PSAT/NMSQT ran from Oct. 1 to Oct. 30, 2026, College B
 | Fri., Oct. 23, 2026 | Tue., Nov. 3 | Thu., Nov. 5 | Wed., Nov. 11 |
 | Fri., Oct. 30, 2026 | Tue., Nov. 10 | Thu., Nov. 12 | Wed., Nov. 18 |
 
-The weekdays are our addition; College Board lists the dates without them. If you are unsure which row applies to your school, ask your counselor when the school submitted its tests. A student whose school submitted by Oct. 23 sees scores on Nov. 5, and one whose school submitted by Oct. 30 sees them on Nov. 12. A separate College Board page says scores are typically available online 2-4 weeks after the test administration.
+The weekdays are our addition; College Board lists the dates without them. If you are unsure which row applied to your school, ask your counselor when the school submitted its tests. A student whose school submitted by Oct. 23 was due scores on Nov. 5, and one whose school submitted by Oct. 30 on Nov. 12. A separate College Board page says scores are typically available online 2-4 weeks after the test administration.
 
 ## How do students see PSAT scores?
 
@@ -150,6 +149,6 @@ College Board says about 1.3 million test takers meet the entry requirements eac
 
 ## Printable timeline and next test dates
 
-Print the one-page timeline below to keep the three score dates and the September 2027 notice in one place. Pencil the dates onto the [November 2026 printable calendar](/november-calendars.html); Nov. 5 and Nov. 12 fall in the weeks before the [Thanksgiving holiday on Nov. 26](/when-is/thanksgiving/). School break dates are in our [Thanksgiving break guide for school districts](/news/thanksgiving-break-2026-school-districts-dates/).
+Print the one-page timeline below to keep the three score dates and the September 2027 notice in one place. The [November 2026 printable calendar](/november-calendars.html) shows where Nov. 5 and Nov. 12 fell, in the weeks before the [Thanksgiving holiday on Nov. 26](/when-is/thanksgiving/). School break dates are in our [Thanksgiving break guide for school districts](/news/thanksgiving-break-2026-school-districts-dates/).
 
 Planning the next exams? See the [SAT and ACT test dates for 2026-27](/news/sat-act-test-dates-2026-27-registration-deadlines/) and the [AP exam schedule for 2027](/news/ap-exam-schedule-2027-dates-times-registration-deadline/). Our [SAT November 7 test-day checklist](/news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/) covers what to bring.

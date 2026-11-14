@@ -3,7 +3,7 @@ title: "How Old Is Hello Kitty in 2026? 52 Years Since 1974 Design"
 description: "Hello Kitty's age in 2026: Sanrio gives no birth year, only a 1974 design, 52 years ago. Her birthday was Sunday, Nov. 1; weekdays to 2030 inside."
 type: explainer
 publishedAt: "2026-10-31T17:45:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:40:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Hello Kitty birthday 2026", "Hello Kitty Day November 1", "how old is Hello Kitty", "when is Hello Kitty's birthday"]
@@ -12,25 +12,25 @@ assets:
   overlay: true
   kicker: "Hello Kitty's birthday · Sun., Nov. 1, 2026"
   date: "2026-11-01"
-  card: { top: "Hello Kitty's birthday", big: "Sun., Nov. 1", bottom: "Designed in 1974" }
+  card: { top: "Hello Kitty's birthday", big: "On Nov. 1", bottom: "Designed in 1974" }
   printable:
     slug: hello-kitty-birthday-2026-party-checklist
     group: hello-kitty-birthday-2026
-    title: "Hello Kitty Birthday Party Checklist, Nov. 1, 2026"
-    subtitle: "Decorate, play, treats and kindness for Sunday, Nov. 1"
+    title: "Hello Kitty Birthday Party Checklist, Nov. 1"
+    subtitle: "Decorate, play, treats and kindness for Nov. 1"
     layout: checklist
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - { when: "Before Nov. 1", what: "Measure five apples high: Sanrio says she stands five apples high", section: "Decorate" }
-      - { when: "Before Nov. 1", what: "Circle Sun., Nov. 1 on your November 2026 calendar", section: "Decorate" }
+      - { when: "Before Nov. 1", what: "Circle Nov. 1 on your calendar", section: "Decorate" }
       - { when: "Before Nov. 1", what: "Make a sign: Born in the suburbs of London, England", section: "Decorate" }
-      - { when: "Sun., Nov. 1", what: "Weigh three apples: Sanrio says she weighs as much as three apples", section: "Play" }
-      - { when: "Sun., Nov. 1", what: "Ranking quiz: who placed No. 1 in 2026? (Pompompurin; Hello Kitty was No. 5)", section: "Play" }
-      - { when: "Sun., Nov. 1", what: "Count the years: 1974 design to 2026 is 52 years", section: "Play" }
+      - { when: "On Nov. 1", what: "Weigh three apples: Sanrio says she weighs as much as three apples", section: "Play" }
+      - { when: "On Nov. 1", what: "Ranking quiz: who placed No. 1 in 2026? (Pompompurin; Hello Kitty was No. 5)", section: "Play" }
+      - { when: "On Nov. 1", what: "Count the years: 1974 design to 2026 is 52 years", section: "Play" }
       - { when: "Before Nov. 1", what: "Pick the cake or cupcakes and buy or bake them", section: "Treats" }
       - { when: "Before Nov. 1", what: "Set out a bowl of apples", section: "Treats" }
-      - { when: "Sun., Nov. 1", what: "Write one kind note to a friend or neighbor (Sanrio's 2021 theme was kindness)", section: "Kindness" }
-      - { when: "Sun., Nov. 1", what: "Do one kind thing for someone else", section: "Kindness" }
+      - { when: "On Nov. 1", what: "Write one kind note to a friend or neighbor (Sanrio's 2021 theme was kindness)", section: "Kindness" }
+      - { when: "On Nov. 1", what: "Do one kind thing for someone else", section: "Kindness" }
     note: "Source: Sanrio Company, Ltd., HELLO KITTY brand page and 2026 character ranking results (June 28, 2026); Sanrio.com, Nov. 1, 2021."
 hero:
   src: ../../../../assets/news/hello-kitty-birthday-2026-sunday-november-1-sanrio-facts/hello-kitty-birthday-2026-sunday-november-1-sanrio-facts.webp
@@ -45,31 +45,23 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:%D0%9C%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B5%D1%87%D0%BA%D0%BE"
 downloads:
   - group: "Hello Kitty Birthday Party Checklist printables"
-    title: "Hello Kitty Birthday Party Checklist, Nov. 1, 2026"
-    description: "Decorate, play, treats and kindness checklist for Sunday, Nov. 1, 2026, from Sanrio's brand facts."
+    title: "Hello Kitty Birthday Party Checklist, Nov. 1"
+    description: "Decorate, play, treats and kindness checklist for Hello Kitty's birthday on Nov. 1, from Sanrio's brand facts."
     preview: ../../../../assets/news/hello-kitty-birthday-2026/hello-kitty-birthday-2026-party-checklist.png
-    alt: "Hello Kitty Birthday Party Checklist, Nov. 1, 2026 printable"
+    alt: "Hello Kitty Birthday Party Checklist, Nov. 1 printable"
     pdf: "/news/downloads/hello-kitty-birthday-2026/hello-kitty-birthday-2026-party-checklist.pdf"
     png: "/news/downloads/hello-kitty-birthday-2026/hello-kitty-birthday-2026-party-checklist.png"
-    pages: 1
-  - group: "Hello Kitty Birthday Party Checklist printables"
-    title: "Hello Kitty Birthday Party Checklist, Nov. 1, 2026 (ink saver)"
-    description: "Ink-saver version of the Hello Kitty birthday party checklist for Sunday, Nov. 1, 2026."
-    preview: ../../../../assets/news/hello-kitty-birthday-2026/hello-kitty-birthday-2026-party-checklist-ink.png
-    alt: "Hello Kitty Birthday Party Checklist, Nov. 1, 2026 printable, ink-saver version"
-    pdf: "/news/downloads/hello-kitty-birthday-2026/hello-kitty-birthday-2026-party-checklist-ink.pdf"
-    png: "/news/downloads/hello-kitty-birthday-2026/hello-kitty-birthday-2026-party-checklist-ink.png"
     pages: 1
 summary:
   - "Hello Kitty's birthday was Sunday, Nov. 1, 2026, according to Sanrio Company, Ltd.'s corporate brand page."
   - "Sanrio says she was designed in 1974, which is 52 years before 2026; it gives no birth year, so this is years since the design, not an age."
   - "In Sanrio's 2026 character ranking, announced June 28, 2026, Hello Kitty placed fifth, behind Pompompurin, Cinnamoroll, Pochacco and Kuromi."
-  - "Sanrio had not posted 2026 birthday plans on its corporate news page as of Oct. 31, 2026 (not yet announced)."
+  - "Sanrio's corporate news page, checked Nov. 14, 2026, listed no release about 2026 birthday plans; the newest item was dated Oct. 7."
 sources:
   - title: "HELLO KITTY | Sanrio Company, Ltd."
     url: "https://corporate.sanrio.co.jp/en/business-info/brands/hello_kity/"
     publisher: "Sanrio Company, Ltd."
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "Final Results for the 2026 Sanrio character ranking"
     url: "https://corporate.sanrio.co.jp/en/news/20260628_03.html"
     publisher: "Sanrio Company, Ltd."
@@ -91,7 +83,7 @@ related: [national-cat-day-2026-thursday-october-29, november-2026-important-dat
 draft: false
 ---
 
-**Hello Kitty's birthday was Sunday, Nov. 1, 2026, according to Sanrio's corporate brand page.** The page, checked on Oct. 31, 2026, lists the birthday as "November 1st" and says "She was designed in 1974."
+**Hello Kitty's birthday was Sunday, Nov. 1, 2026, according to Sanrio's corporate brand page.** The page, rechecked on Nov. 14, 2026, lists the birthday as "November 1st" and says "She was designed in 1974."
 
 ## How old is Hello Kitty in 2026?
 
@@ -113,9 +105,9 @@ The weekdays below are computed from the calendar. The last column counts years 
 
 In a Nov. 1, 2021, post titled "Sanrio Celebrates Hello Kitty's Birthday with Kindness," Sanrio.com wrote: "this year, it is officially named Hello Kitty Day." That is the 2021 wording; we did not find a 2026 statement on the name.
 
-## What has Sanrio announced for 2026?
+## What did Sanrio announce for 2026?
 
-Sanrio had not posted 2026 birthday plans on its corporate news page as of Oct. 31, 2026 (not yet announced). Check Sanrio's corporate news page for updates.
+Sanrio's corporate news page, checked on Nov. 14, 2026, listed no release about 2026 birthday plans; its newest item was dated Oct. 7, 2026.
 
 Separately, a Sanrio press release dated Oct. 30, 2025, says Sanrio's Hello Kitty film from New Line Cinema and Warner Bros. Pictures Animation will be distributed globally by Warner Bros. Pictures on July 21, 2028.
 
@@ -134,6 +126,6 @@ Sanrio announced the final results of its 2026 character ranking on June 28, 202
 
 ## How can you plan a Hello Kitty birthday?
 
-The free printable checklist groups plain party tasks under Decorate, Play, Treats and Kindness, using the brand-page facts above and the kindness theme from Sanrio's 2021 post. It names the brand in text only and uses no Sanrio art.
+The printable checklist groups plain party tasks under Decorate, Play, Treats and Kindness, using the brand-page facts above and the kindness theme from Sanrio's 2021 post. It names the brand in text only and uses no Sanrio art.
 
-Next year's date, Monday, Nov. 1, 2027, is in the weekday table above. Use the [November 2026 printable calendar](/november-calendars.html) for the rest of this month and a [printable weekly calendar](/printable-weekly-calendar.html) for plans. For more dates in the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/). Another animal-themed date from last week is covered in our [National Cat Day 2026 story](/news/national-cat-day-2026-thursday-october-29/), and the kindness theme returns on [World Kindness Day](/news/world-kindness-day-2026-friday-november-13-kindness-dates-printable/).
+Next year's date, Monday, Nov. 1, 2027, is in the weekday table above. Use the [November 2026 printable calendar](/november-calendars.html) for the rest of this month and a [printable weekly calendar](/printable-weekly-calendar.html) for plans. For more dates in the month, see [November 2026 important dates](/news/november-2026-important-dates-days-until/). Another animal-themed date, Oct. 29, is covered in our [National Cat Day 2026 story](/news/national-cat-day-2026-thursday-october-29/), and the kindness theme came back on [World Kindness Day](/news/world-kindness-day-2026-friday-november-13-kindness-dates-printable/), Nov. 13.

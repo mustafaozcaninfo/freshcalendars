@@ -3,6 +3,7 @@ title: "How Many People Voted Early in 2026: 59,014,258 Ballots Counted"
 description: "59,014,258 people had voted early in 2026 as of 8:21 a.m. ET on Nov. 3, per the University of Florida Election Lab. Totals for every state and D.C."
 type: analysis
 publishedAt: "2026-11-03T08:26:00-05:00"
+updatedAt: "2026-11-14T17:08:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["how many people voted early 2026", "early voting turnout 2026", "early vote numbers by state 2026", "how many early votes 2026"]
@@ -23,7 +24,7 @@ faq:
   - q: "Does early voting show who is winning?"
     a: "No. The numbers count ballots cast, not choices. Under state law ballots are not counted until Election Day, although the tracker notes that officials may prepare ballots in advance."
   - q: "Is 59 million the final turnout?"
-    a: "No. It is a snapshot taken the morning of Election Day. Votes cast in person on Election Day come on top of it, and mail ballots are still arriving."
+    a: "No. It is a snapshot taken the morning of Election Day, Nov. 3. Votes cast in person on Election Day came on top of it, and mail ballots were still arriving."
   - q: "Where can I see my state's early vote numbers?"
     a: "The University of Florida Election Lab 2026 Early Voting tracker lists each state and links to the original data where possible. Your state election office publishes its own official figures, for example the Colorado Secretary of State's ballot-return release."
 sources:
@@ -104,9 +105,9 @@ assets:
 
 The University of Florida (UF) Election Lab tracker counted 59,014,258 early votes as of 8:21 a.m. Eastern Time (ET) on Tuesday, Nov. 3, 2026, split between 31,900,671 cast in person and 27,113,587 mail ballots returned. The tracker covers 48 states and the District of Columbia (D.C.); Alabama and New Hampshire have no early vote data in its file. The figures below are a preliminary snapshot, not final turnout, and they do not show how anyone voted.
 
-Election Day is today. For early voting end dates in the states we covered, see our story on [which states had early voting](/news/early-voting-2026-which-states-are-voting-now/).
+The tracker's page now shows it was last updated Nov. 11, 2026, at 1:42 p.m. ET, after Election Day; the figures below stay as the Nov. 3 morning snapshot, a record of the early vote before Election Day. For early voting end dates in the states we covered, see our story on [which states had early voting](/news/early-voting-2026-which-states-are-voting-now/).
 
-## How many people have voted early in 2026?
+## How many people voted early in 2026?
 
 The UF Election Lab, run by Dr. Michael McDonald, a professor at the University of Florida, gathers early vote counts from state and local election offices. Its page notes that some states do not provide daily updates and links to the original data where possible.
 
@@ -119,7 +120,7 @@ The UF Election Lab, run by Dr. Michael McDonald, a professor at the University 
 
 Source: University of Florida Election Lab, 2026 Early Voting tracker, last updated 8:21 a.m. ET, Nov. 3, 2026. Shares are our calculation.
 
-The tracker's 49 jurisdictions cast 109,979,856 total ballots in the 2022 general election, by the tracker's 2022 turnout column. The 59,014,258 early votes so far equal 53.7% of that figure, our calculation. That is a comparison with all 2022 ballots, not with 2022 early votes: we do not give a national 2022 early vote total because published figures for it differ.
+The tracker's 49 jurisdictions cast 109,979,856 total ballots in the 2022 general election, by the tracker's 2022 turnout column. The 59,014,258 early votes in the snapshot equal 53.7% of that figure, our calculation. That is a comparison with all 2022 ballots, not with 2022 early votes: we do not give a national 2022 early vote total because published figures for it differ.
 
 ## How fast did the early vote count grow?
 
@@ -224,7 +225,7 @@ A high share does not mean a state's final turnout will beat 2022. Votes cast on
 
 The tracker lists 61,343,169 mail ballots requested and 27,113,587 returned. The difference, 34,229,582, is our calculation: ballots requested that were not yet recorded as returned at 8:21 a.m. ET.
 
-That figure is not a count of ballots that will go uncounted. Many may still be returned or dropped off today. Deadlines differ by state; see our guide to [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/) for where a ballot must arrive and where a Nov. 3 postmark counts.
+That figure is not a count of ballots that will go uncounted. Many could still be returned on Election Day. Deadlines differ by state; see our guide to [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/) for where a ballot must arrive and where a Nov. 3 postmark counts.
 
 ## What does an official state count look like?
 
@@ -232,7 +233,7 @@ State offices publish their own figures, and they can differ from the tracker be
 
 ## What the early vote count does not show
 
-The numbers count ballots, not choices. They do not show who is ahead, and ballots are not counted until Election Day under state law, although the tracker notes that officials may prepare ballots in advance. The count is also not final turnout: in-person voting today and mail ballots still arriving add to it. For when results start to come in, see [when we will know the 2026 election results](/news/when-will-we-know-election-results-2026-midterms/). To plan the rest of the month, use the [November 2026 printable calendar](/november-calendars.html) or the [2026 printable yearly calendar](/printable-yearly-calendar.html).
+The numbers count ballots, not choices. They do not show who is ahead, and ballots are not counted until Election Day under state law, although the tracker notes that officials may prepare ballots in advance. The count is also not final turnout: in-person voting on Election Day and mail ballots still arriving added to it. For when results start to come in, see [when we will know the 2026 election results](/news/when-will-we-know-election-results-2026-midterms/). To plan the rest of the month, use the [November 2026 printable calendar](/november-calendars.html) or the [2026 printable yearly calendar](/printable-yearly-calendar.html).
 
 ## Print the early vote by state list
 

@@ -1,9 +1,9 @@
 ---
 title: "Remembrance Day 2026: Nov. 11, and Which Provinces Give a Day Off"
-description: "Remembrance Day 2026 is Wednesday, Nov. 11. British Columbia and New Brunswick list it as a holiday; Ontario does not. UK Remembrance Sunday is Nov. 8."
+description: "Remembrance Day 2026 was Wednesday, Nov. 11. British Columbia and New Brunswick list it as a holiday; Ontario does not. UK Remembrance Sunday was Nov. 8."
 type: explainer
 publishedAt: "2026-10-24T17:00:00-04:00"
-updatedAt: "2026-11-01T02:43:00-05:00"
+updatedAt: "2026-11-14T17:08:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["is Remembrance Day a statutory holiday 2026", "Remembrance Day 2026", "Remembrance Sunday 2026"]
@@ -11,7 +11,7 @@ dateline: "Ottawa"
 hero:
   src: ../../../../assets/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk.webp
   alt: "Remembrance Day 2026: the National War Memorial in Ottawa under a blue sky, with Parliament's towers behind"
-  caption: "The National War Memorial in Ottawa (file photo). Canada pauses for two minutes of silence at 11 a.m. on Remembrance Day, Wednesday, Nov. 11, 2026."
+  caption: "The National War Memorial in Ottawa (file photo). Canada paused for two minutes of silence at 11 a.m. on Remembrance Day, Wednesday, Nov. 11, 2026."
   credit: "Photo: Robert Linsdell from St. Andrews, Canada / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -22,15 +22,15 @@ hero:
 summary:
   - "Canada.ca lists Remembrance Day on Wednesday, Nov. 11, 2026, and notes that provinces and territories have their own holidays."
   - "British Columbia lists it among its 2026 statutory holidays and New Brunswick counts it as a paid public holiday; Ontario's Employment Standards Act does not include it."
-  - "The nation pauses at 11:00 a.m. for two minutes of silence, according to Veterans Affairs Canada."
-  - "In the UK, the National Service of Remembrance is Sunday, Nov. 8, 2026, at the Cenotaph in London, with no tickets needed."
+  - "The nation pauses at 11:00 a.m. each Nov. 11 for two minutes of silence, according to Veterans Affairs Canada."
+  - "In the UK, the National Service of Remembrance was held on Sunday, Nov. 8, 2026, at the Cenotaph in London, with no tickets needed."
 faq:
   - q: "Is Remembrance Day a statutory holiday in Canada in 2026?"
     a: "It depends on the province. Canada.ca lists the day on Nov. 11, 2026 and says provinces and territories set their own holidays. British Columbia and New Brunswick include it; Ontario's Employment Standards Act does not."
   - q: "Do employers in Ontario have to give Nov. 11 off?"
     a: "No. Ontario's Employment Standards Act public holidays do not include Remembrance Day, so employers are not required to give the day off."
-  - q: "When is Remembrance Sunday in 2026?"
-    a: "Sunday, Nov. 8, 2026. GOV.UK says the national service at the Cenotaph on Whitehall starts at 11 a.m., with a two-minute silence."
+  - q: "When was Remembrance Sunday in 2026?"
+    a: "Sunday, Nov. 8, 2026. GOV.UK said the national service at the Cenotaph on Whitehall started at 11 a.m., with a two-minute silence."
   - q: "Are banks, Canada Post and the stock exchange closed on Remembrance Day 2026?"
     a: "Canada Post lists Remembrance Day on Nov. 11 as a national holiday and says it has no mail collection or delivery on such days. Payments Canada lists Nov. 11 as a system closure day. The Toronto Stock Exchange (TSX) calendar has no Nov. 11 entry. Branch hours vary by bank, so check your bank's branch locator."
   - q: "What about my province or territory?"
@@ -115,7 +115,7 @@ assets:
     alt: "Printable list of Remembrance Day 2026 rules by province and territory, with UK Remembrance Sunday on Nov. 8."
 ---
 
-**Remembrance Day falls on Wednesday, Nov. 11, 2026, and whether it is a day off depends on the province**, according to Canada.ca, which lists the date and notes that provinces and territories have their own holidays. In the United Kingdom (UK), Remembrance Sunday is Sunday, Nov. 8, 2026. From Saturday, Oct. 24, that is 18 days to Nov. 11 and 15 days to Nov. 8.
+**Remembrance Day fell on Wednesday, Nov. 11, 2026, and whether it was a day off depended on the province**, according to Canada.ca, which lists the date and notes that provinces and territories have their own holidays. In the United Kingdom (UK), Remembrance Sunday was Sunday, Nov. 8, 2026.
 
 The table below sets out what each government source says. For the printed version, use the one-page list attached to this story.
 
@@ -142,20 +142,20 @@ Ontario takes a different route. Its Remembrance Day page asks people to "pause 
 
 Veterans Affairs Canada says the nation pauses at 11:00 a.m. for two solemn minutes of silence to honour those who gave their all. Ontario's page gives the same time, 11 a.m. on Nov. 11.
 
-## When is Remembrance Sunday in the UK?
+## When was Remembrance Sunday in the UK?
 
-GOV.UK's guidance for the National Service of Remembrance sets it for Sunday, Nov. 8, 2026. The service is held at the Cenotaph on Whitehall in London and starts at 11 a.m., which is Greenwich Mean Time (GMT) after UK clocks go back on Oct. 25. At 11 a.m. the national two-minute silence is marked by the firing of guns from King's Troop on Horse Guards Parade.
+GOV.UK's guidance for the National Service of Remembrance set it for Sunday, Nov. 8, 2026. The service was held at the Cenotaph on Whitehall in London and started at 11 a.m., which was Greenwich Mean Time (GMT) after UK clocks went back on Oct. 25. At 11 a.m. the national two-minute silence is marked by the firing of guns from King's Troop on Horse Guards Parade.
 
-GOV.UK says no tickets or passes are needed for the event, and that space is limited. Our [Remembrance Sunday 2026 timetable](/news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/) lists the Cenotaph timings, the Festival of Remembrance on 7 November and where to stand.
+GOV.UK said no tickets or passes were needed for the event, and that space was limited. Our [Remembrance Sunday 2026 timetable](/news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/) lists the Cenotaph timings and the Festival of Remembrance on 7 November.
 
 | Event | Date | Time |
 |---|---|---|
-| Remembrance Sunday service, London | Sun., Nov. 8, 2026 | Starts 11 a.m. GMT |
+| Remembrance Sunday service, London | Sun., Nov. 8, 2026 | Started 11 a.m. GMT |
 | Remembrance Day, Canada | Wed., Nov. 11, 2026 | Silence at 11:00 a.m. |
 
-## What is closed in Canada on Remembrance Day, Wednesday, Nov. 11, 2026?
+## What was closed in Canada on Remembrance Day, Wednesday, Nov. 11, 2026?
 
-Several national institutions list Nov. 11, 2026 as a holiday or closure day, and the stock exchange does not.
+Several national institutions listed Nov. 11, 2026 as a holiday or closure day, and the stock exchange did not.
 
 | Service | What the official source says for Nov. 11, 2026 |
 |---|---|
@@ -169,4 +169,4 @@ Branch hours vary by bank. This story does not confirm whether the branches of o
 
 ## Where does this fit in November?
 
-The United States marks [Veterans Day on the same Nov. 11](/news/veterans-day-2026-wednesday-november-11/), covered in our separate story. Our [Canada statutory holidays 2027 table](/news/canada-statutory-holidays-2027-federal-general-holidays/) covers next year's federal list, and the [November 2026 important dates](/news/november-2026-important-dates-days-until/) story counts days to the other dates this month. You can also check [when Veterans Day falls](/when-is/veterans-day/) or mark both dates on the [November 2026 printable calendar](/november-calendars.html).
+The United States marks [Veterans Day on the same Nov. 11](/news/veterans-day-2026-wednesday-november-11/), covered in our separate story. Our [Canada statutory holidays 2027 table](/news/canada-statutory-holidays-2027-federal-general-holidays/) covers next year's federal list, and the [November 2026 important dates](/news/november-2026-important-dates-days-until/) story counts days to the other dates this month. You can also check [when Veterans Day falls](/when-is/veterans-day/) or keep both dates on record with the [November 2026 printable calendar](/november-calendars.html).

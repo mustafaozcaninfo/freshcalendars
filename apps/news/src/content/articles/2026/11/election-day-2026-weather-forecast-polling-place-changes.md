@@ -3,24 +3,25 @@ title: "Election Day 2026 Weather: Mississippi Valley Storms, 19 Moved Polls"
 description: "Election Day 2026 weather: the National Weather Service expected storms across the Mississippi Valley on Nov. 3. Forecasts for 15 cities, 19 moved sites."
 type: news
 publishedAt: "2026-11-03T08:30:00-05:00"
+updatedAt: "2026-11-14T17:08:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["election day weather 2026", "election day forecast", "polling place changes 2026", "miami-dade polling place changes"]
 hero:
   src: ../../../../assets/news/election-day-2026-weather-forecast-polling-place-changes/election-day-2026-weather-forecast-polling-place-changes.webp
   alt: "Vote Here sign at a polling place in Minneapolis, a file photo for Election Day 2026 weather and polling place changes"
-  caption: "File photo of a polling place sign in Minneapolis, not taken today. Rain is forecast in Minneapolis on Nov. 3, 2026, per the National Weather Service."
+  caption: "File photo of a polling place sign in Minneapolis, not taken on Election Day. Rain was forecast in Minneapolis on Nov. 3, 2026, per the National Weather Service."
   credit: "Photo: Tony Webster from Minneapolis, Minnesota, United States / Wikimedia Commons, cropped, edited"
   license: { name: "CC BY 2.0", url: "https://creativecommons.org/licenses/by/2.0", source: "https://commons.wikimedia.org/wiki/File:Vote_Here_-_Election_Polling_Place_(50565230221).jpg", author: "Tony Webster from Minneapolis, Minnesota, United States", authorUrl: "https://www.flickr.com/people/87296837@N00" }
 summary:
-  - "The National Weather Service (NWS) Weather Prediction Center (WPC) expects heavy rain, isolated severe weather and gusty winds to spread across the Mississippi Valley on Tuesday, Nov. 3, 2026."
-  - "Southeast Florida keeps a heavy rain threat, and an NWS coastal flood advisory for coastal Miami-Dade, Broward and Palm Beach counties runs until 7 p.m. Eastern Time (ET), when Florida's polls close."
+  - "The National Weather Service (NWS) Weather Prediction Center (WPC) expected heavy rain, isolated severe weather and gusty winds to spread across the Mississippi Valley on Tuesday, Nov. 3, 2026."
+  - "Southeast Florida had a heavy rain threat, and an NWS coastal flood advisory for coastal Miami-Dade, Broward and Palm Beach counties ran until 7 p.m. Eastern Time (ET), when Florida's polls closed."
   - "Miami-Dade moved 19 precincts to 12 temporary polling places for Nov. 3, according to the county."
   - "No election office had announced a weather closure, delay or extended hours as of 8:20 a.m. ET."
 faq:
   - q: "Will bad weather close polling places on Election Day?"
-    a: "A forecast does not close polls. As of 8:20 a.m. ET on Nov. 3, 2026, no election office had announced a weather-related closure, delay or extended hours that we found. If your area gets severe weather, check your county or state election office for notices."
-  - q: "Are polling places changing nationwide this year?"
+    a: "A forecast does not close polls. As of 8:20 a.m. ET on Nov. 3, 2026, no election office had announced a weather-related closure, delay or extended hours that we found, and we did not check again later that day. In a future election, check your county or state election office for notices if severe weather is forecast."
+  - q: "Did polling places change nationwide this year?"
     a: "There is no nationwide list of polling place changes. Changes are posted by county and state election offices, such as Miami-Dade County, Cumberland County in New Jersey and Johnson County in Iowa. Check your own county."
   - q: "Where do I find my polling place?"
     a: "Use your state or county election office. The U.S. Election Assistance Commission (EAC) has no polling place finder of its own, but its Voters page links to each state's election office. Miami-Dade voters can use the county's Voter Information Lookup."
@@ -113,19 +114,19 @@ downloads:
     pages: 1
 ---
 
-The National Weather Service (NWS) Weather Prediction Center (WPC) expects heavy rain, isolated severe weather and gusty winds to spread across the Mississippi Valley on Election Day, Tuesday, Nov. 3, 2026, and Miami-Dade County moved 19 precincts to 12 temporary polling places. A forecast does not close a polling place: as of 8:20 a.m. Eastern Time (ET), no election office had announced a weather closure, delay or extended hours that we found. For poll hours by state, see [what time polls close on Election Day 2026](/news/what-time-do-polls-close-election-day-2026/).
+The National Weather Service (NWS) Weather Prediction Center (WPC) expected heavy rain, isolated severe weather and gusty winds to spread across the Mississippi Valley on Election Day, Tuesday, Nov. 3, 2026, and Miami-Dade County moved 19 precincts to 12 temporary polling places. A forecast does not close a polling place: as of 8:20 a.m. Eastern Time (ET), no election office had announced a weather closure, delay or extended hours that we found. For poll hours by state, see [what time polls close on Election Day 2026](/news/what-time-do-polls-close-election-day-2026/).
 
-## Where is the storm risk on Election Day 2026?
+## Where was the storm risk on Election Day 2026?
 
-The WPC's Short Range Forecast Discussion, issued at 2:52 a.m. Eastern Standard Time on Nov. 3, says a low pressure area over the central U.S. keeps moving east. Ahead of its trailing cold front, showers and thunderstorms capable of scattered heavy rain and some severe weather will spread into the Middle and Lower Mississippi Valley. Steady rain falls over the Northern Plains and Upper Midwest today. By Thursday, Nov. 5, the front reaches the Northeast and Mid-Atlantic and ends the recent dry stretch there, the WPC says.
+The WPC's Short Range Forecast Discussion, issued at 2:52 a.m. Eastern Standard Time on Nov. 3, said a low pressure area over the central U.S. was moving east. Ahead of its trailing cold front, showers and thunderstorms capable of scattered heavy rain and some severe weather will spread into the Middle and Lower Mississippi Valley. Steady rain was to fall over the Northern Plains and Upper Midwest that day. By Thursday, Nov. 5, the front was due to reach the Northeast and Mid-Atlantic and end the recent dry stretch there, the WPC said.
 
-The NWS Storm Prediction Center (SPC) Day 1 Convective Outlook, issued at 7:51 a.m. ET, rates the risk no higher than Marginal, level 1 of 5. It says thunderstorms with isolated severe wind gusts and perhaps a brief tornado or two are possible from the Sabine and Lower Mississippi Valleys north into the Mid Mississippi Valley. The outlook text puts the greatest potential from eastern Arkansas into northern Louisiana. It is valid until 7 a.m. ET on Wednesday, Nov. 4.
+The NWS Storm Prediction Center (SPC) Day 1 Convective Outlook, issued at 7:51 a.m. ET, rated the risk no higher than Marginal, level 1 of 5. It said thunderstorms with isolated severe wind gusts and perhaps a brief tornado or two were possible from the Sabine and Lower Mississippi Valleys north into the Mid Mississippi Valley. The outlook text put the greatest potential from eastern Arkansas into northern Louisiana. It was valid until 7 a.m. ET on Wednesday, Nov. 4.
 
-In the West, the WPC expects modest rain in north-central California today. It says unseasonably mild weather will prevail for much of the East this week.
+In the West, the WPC expected modest rain in north-central California that day. It said unseasonably mild weather would prevail for much of the East that week.
 
-## What is the forecast in 15 big cities?
+## What was the forecast in 15 big cities?
 
-These are NWS point forecasts for each city, read at 8:20 a.m. ET on Nov. 3 (forecasts were updated between 1:26 a.m. and 7:20 a.m. ET). "Today" is the daytime forecast; the Pacific cities show only the daytime Tuesday values.
+These were NWS point forecasts for each city, read at 8:20 a.m. ET on Nov. 3 (forecasts were updated between 1:26 a.m. and 7:20 a.m. ET). "Today" is the Nov. 3 daytime forecast; the Pacific cities show only the daytime Tuesday values.
 
 | City | Today: high, chance of rain, forecast | Tonight: low, chance of rain, forecast |
 |---|---|---|
@@ -145,11 +146,11 @@ These are NWS point forecasts for each city, read at 8:20 a.m. ET on Nov. 3 (for
 | Los Angeles | 75°F, 0%, Mostly Sunny | Not in the 8:20 a.m. ET forecast |
 | Seattle | 56°F, 8%, Partly Sunny | Not in the 8:20 a.m. ET forecast |
 
-Source: National Weather Service point forecasts, read at 8:20 a.m. ET on Nov. 3, 2026. Forecasts change during the day; open [forecast.weather.gov](https://forecast.weather.gov/) for your address.
+Source: National Weather Service point forecasts, read at 8:20 a.m. ET on Nov. 3, 2026. Forecasts change during the day; this table is a record of the morning forecast, and [forecast.weather.gov](https://forecast.weather.gov/) has current forecasts for your address.
 
-## Which NWS alerts affect South Florida polls until 7 p.m.?
+## Which NWS alerts affected South Florida polls until 7 p.m.?
 
-The WPC says persistent onshore flow keeps the threat of heavy rain over southeast Florida for at least another day. It adds that more rain could worsen problems from the flooding that happened on Monday, Nov. 2, and that Flood Watches remain in effect.
+The WPC said persistent onshore flow kept the threat of heavy rain over southeast Florida for at least another day. It added that more rain could worsen problems from the flooding that happened on Monday, Nov. 2, and that Flood Watches remained in effect.
 
 NWS alerts, read at 8:20 a.m. ET on Nov. 3, include:
 
@@ -162,11 +163,11 @@ NWS alerts, read at 8:20 a.m. ET on Nov. 3, include:
 | NWS Tampa Bay | Flood Warnings (rivers) | Hardee, Hillsborough, DeSoto and Manatee counties | Through Nov. 4 or 5 |
 | NWS Jacksonville | Coastal Flood Advisory and High Surf Advisory | Duval, Flagler, St. Johns, Clay and Putnam zones (surf advisory: Flagler and St. Johns coasts) | 4 a.m. Nov. 5 (coastal flood) |
 
-The Miami coastal flood advisory ends at 7 p.m. ET, the hour polls close in Florida's Eastern time zone. Miami-Dade's Supervisor of Elections says polls are open from 7 a.m. to 7 p.m.
+The Miami coastal flood advisory ran until 7 p.m. ET, the hour polls closed in Florida's Eastern time zone. Miami-Dade's Supervisor of Elections said polls were open from 7 a.m. to 7 p.m.
 
 ## Which Miami-Dade polling places moved for Nov. 3?
 
-In a release dated Oct. 30, 2026, Miami-Dade County listed 12 temporary polling locations covering 19 precincts. The county says: "Voters assigned to these precincts should report to their new temporary polling locations on Tuesday, November 3." Precinct 002 previously voted at St. Mary Magdalen Catholic Church, the release says. The release does not say why the places changed.
+In a release dated Oct. 30, 2026, Miami-Dade County listed 12 temporary polling locations covering 19 precincts. The county said: "Voters assigned to these precincts should report to their new temporary polling locations on Tuesday, November 3." Precinct 002 previously voted at St. Mary Magdalen Catholic Church, the release says. The release does not say why the places changed.
 
 | Precinct(s) | Temporary location |
 |---|---|
@@ -185,13 +186,13 @@ In a release dated Oct. 30, 2026, Miami-Dade County listed 12 temporary polling 
 
 Source: Miami-Dade County release, Oct. 30, 2026. Miami-Dade voters can confirm their assignment in the county's [Voter Information Lookup](https://www.votemiamidade.gov/elections/voters/information.page), which shows a sample ballot and polling place.
 
-## Are other polling places changing?
+## Did other polling places change?
 
 There is no nationwide list of polling place changes, so check your own county. Two other official notices we found:
 
 - Cumberland County Clerk, New Jersey: "Vineland Ward 1, Districts 1 and 2 has moved to Marie D. Durand School, 371 W. Forest Grove Road, Vineland, NJ 08361." The notice shows no posting date.
-- Johnson County, Iowa: lists polling places that moved since 2024, for example Madison at GreenState Credit Union, 2355 Landon Rd. The county says polls are open 7 a.m. to 8 p.m. on Tuesday, Nov. 3.
+- Johnson County, Iowa: lists polling places that moved since 2024, for example Madison at GreenState Credit Union, 2355 Landon Rd. The county said polls were open 7 a.m. to 8 p.m. on Tuesday, Nov. 3.
 
-## How do I check my polling place before I go?
+## How do I check my polling place before an election?
 
-Start with your state or county election office. The U.S. Election Assistance Commission (EAC) has no polling place finder, but its [Voters page](https://www.eac.gov/voters) links to every state's election office. Then check your NWS forecast and alerts at [weather.gov](https://www.weather.gov/). If you need a ride, see [free rides to the polls in 2026](/news/free-rides-to-the-polls-2026-lyft-uber-transit/), and for what is open that day, [is Election Day a holiday in 2026](/news/is-election-day-a-holiday-2026-whats-open/). The planner below puts the Nov. 3 alerts and poll hours on one page; use the [printable weekly planner](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html) for the rest of the week.
+Start with your state or county election office. The U.S. Election Assistance Commission (EAC) has no polling place finder, but its [Voters page](https://www.eac.gov/voters) links to every state's election office. Then check your NWS forecast and alerts at [weather.gov](https://www.weather.gov/) before you go. If you need a ride, see [free rides to the polls in 2026](/news/free-rides-to-the-polls-2026-lyft-uber-transit/), and for what is open that day, [is Election Day a holiday in 2026](/news/is-election-day-a-holiday-2026-whats-open/). The planner below keeps the Nov. 3 alerts and poll hours on one page as a record; use the [printable weekly planner](/printable-weekly-calendar.html) or the [November 2026 calendar](/november-calendars.html) for the weeks ahead.

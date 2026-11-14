@@ -3,7 +3,7 @@ title: "World Series 2026 Schedule: Brewers Beat Rays 4-1 in Five Games"
 description: "The 2026 World Series schedule ended Oct. 28 when the Brewers beat the Rays 4-1 in Game 5. Every game score, start time and TV channel in one table."
 type: news
 publishedAt: "2026-10-21T05:45:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:08:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["World Series 2026 schedule", "World Series game times", "what channel is the World Series on", "Brewers vs Rays World Series", "World Series Game 1 time"]
@@ -15,20 +15,20 @@ hero:
   caption: "Game 1 of the 2026 World Series was on Friday, Oct. 23, at 8 p.m. ET in Milwaukee. Every game aired on FOX."
 summary:
   - "The Milwaukee Brewers won the World Series 4-1, clinching it with a 4-1 win in Game 5 at Tropicana Field on Wednesday, Oct. 28. They won Game 1, 3-2, Game 2, 5-4, and Game 3, 10-1; the Tampa Bay Rays won Game 4, 4-3 in 12 innings."
-  - "FOX televised all games, which streamed on FOX One. FOX Deportes carries every game in Spanish, Univision airs Game 1, and ESPN Radio has the national radio call."
-  - "Milwaukee holds home-field advantage with the better record, 103-59 to 98-64, so it hosted Games 1 and 2. Games 5, 6 and 7 were played only if needed."
+  - "FOX televised all games, which streamed on FOX One. FOX Deportes aired every game in Spanish, Univision aired Game 1, and ESPN Radio had the national radio call."
+  - "Milwaukee held home-field advantage with the better record, 103-59 to 98-64, so it hosted Games 1 and 2. Games 5, 6 and 7 were scheduled only if needed, and Game 5 ended the series."
   - "It was the first World Series title for the Brewers, one of five franchises MLB listed as never having won one before this series. Games 6 and 7 were not needed."
 faq:
   - q: "What time did the World Series start?"
     a: "Game 1 started at 8 p.m. ET on Friday, Oct. 23, 2026, which was 7 p.m. in Milwaukee. Major League Baseball lists every game of the series at 8 p.m. ET."
-  - q: "What channel is the World Series on in 2026?"
-    a: "FOX, in English, for every game. FOX Deportes carries all games in Spanish, and Univision also airs Game 1 in Spanish."
-  - q: "Can I stream the World Series on MLB.TV?"
-    a: "Not as a regular MLB.TV game. Major League Baseball says FOX games are available on MLB.TV only to authenticated subscribers of the network through a participating pay-TV provider. The games stream on FOX One and, with a pay-TV login, on the FOX Sports app."
+  - q: "What channel was the World Series on in 2026?"
+    a: "FOX, in English, for every game. FOX Deportes carried all games in Spanish, and Univision also aired Game 1 in Spanish."
+  - q: "Could I stream the World Series on MLB.TV?"
+    a: "Not as a regular MLB.TV game. Major League Baseball said FOX games were available on MLB.TV only to authenticated subscribers of the network through a participating pay-TV provider. The games streamed on FOX One and, with a pay-TV login, on the FOX Sports app."
   - q: "Who won the 2026 World Series?"
     a: "The Milwaukee Brewers, four games to one. They beat the Tampa Bay Rays 4-1 in Game 5 on Wednesday, Oct. 28, 2026, in Tampa Bay, so Games 6 and 7 were not played."
-  - q: "Where is Game 1 of the World Series?"
-    a: "At American Family Field in Milwaukee, home of the Brewers, who have home-field advantage."
+  - q: "Where was Game 1 of the World Series?"
+    a: "At American Family Field in Milwaukee, home of the Brewers, who had home-field advantage."
 sources:
   - title: "Broadcast schedule announced for the 2026 World Series presented by Capital One"
     url: "https://www.mlb.com/press-release/press-release-broadcast-schedule-announced-for-the-2026-world-series-presented-by-capital-one"
@@ -94,7 +94,7 @@ downloads:
 draft: false
 ---
 
-The Brewers beat the Rays 4-1 in Game 5 at Tropicana Field on Wednesday night and won the World Series four games to one. Jacob Misiorowski got the win; Drew Rasmussen took the loss. Games 6 and 7 are off the schedule. Source: Major League Baseball (MLB) official game data.
+The Brewers beat the Rays 4-1 in Game 5 at Tropicana Field on Wednesday, Oct. 28, and won the World Series four games to one. Jacob Misiorowski got the win; Drew Rasmussen took the loss. Games 6 and 7 were not played. Source: Major League Baseball (MLB) official game data.
 
 **The Milwaukee Brewers won the 2026 World Series on Wednesday, Oct. 28, beating the Tampa Bay Rays 4-1 in Game 5 at Tropicana Field to take the series four games to one, according to Major League Baseball (MLB) game data.** It was the franchise's first title. Milwaukee won Game 1, 3-2, Game 2, 5-4, and Game 3, 10-1, before Tampa Bay won Game 4, 4-3 in 12 innings. Every game started at 8 p.m. Eastern Time (ET) on FOX.
 
@@ -114,10 +114,10 @@ Games 5, 6 and 7 were scheduled only if needed; the series ended with Game 5. Mi
 
 ## How to watch: TV, streaming and radio
 
-- **TV:** FOX carries every game in English. FOX Deportes carries every game in Spanish, and Univision adds a Spanish-language broadcast of Game 1.
-- **Streaming:** FOX telecasts stream on FOX One, FOX's streaming service. With a pay-TV login, they also stream on FOXSports.com and the FOX Sports app.
-- **MLB.TV:** The World Series is not a regular MLB.TV game. MLB says FOX games are available there only to authenticated subscribers of the network through a participating pay-TV provider.
-- **Radio:** ESPN Radio has national coverage of every game, and Univision's Spanish-language radio network carries the series too.
+- **TV:** FOX carried every game in English. FOX Deportes carried every game in Spanish, and Univision added a Spanish-language broadcast of Game 1.
+- **Streaming:** FOX telecasts streamed on FOX One, FOX's streaming service. With a pay-TV login, they also streamed on FOXSports.com and the FOX Sports app.
+- **MLB.TV:** The World Series was not a regular MLB.TV game. MLB said FOX games were available there only to authenticated subscribers of the network through a participating pay-TV provider.
+- **Radio:** ESPN Radio had national coverage of every game, and Univision's Spanish-language radio network carried the series too.
 
 ## How the Brewers and Rays got here
 
@@ -127,7 +127,7 @@ This is the Brewers' second World Series and their first since 1982, when they l
 
 ## Home-field advantage and the 2-3-2 format
 
-The team with the better regular-season record hosts Games 1, 2, 6 and 7. That was Milwaukee this year, by five wins. Tampa Bay hosts Games 3, 4 and 5. Because Games 6 and 7 return to Milwaukee, a long series would have ended where it began.
+The team with the better regular-season record hosts Games 1, 2, 6 and 7. That was Milwaukee this year, by five wins. Tampa Bay hosted Games 3, 4 and 5. Because Games 6 and 7 return to Milwaukee, a long series would have ended where it began.
 
 ## Halloween and the clock change, no Game 7
 
@@ -135,4 +135,4 @@ A Game 7 had been set for 8 p.m. ET on Saturday, Oct. 31, Halloween night, and w
 
 ## Plan the week
 
-Our free schedule and score tracker lists all seven games with the date, home team, start time and channel, plus boxes for each final score and a running series tally, in color or an ink-saver version. Put the games on our [October 2026 printable calendar](/october-calendars.html). The series had been set to run into the weekend of [Halloween](/when-is/halloween/), at the start of our [November 2026 calendar](/november-calendars.html).
+Our free schedule and score tracker listed all seven games with the date, home team, start time and channel, plus boxes for each final score and a running series tally, in color or an ink-saver version. Put the games on our [October 2026 printable calendar](/october-calendars.html). The series had been set to run into the weekend of [Halloween](/when-is/halloween/), at the start of our [November 2026 calendar](/november-calendars.html).

@@ -3,6 +3,7 @@ title: "Mail-In Ballot Drop-Off on Election Day 2026: Cutoffs by State"
 description: "Most states took a hand-in mail ballot until polls closed Nov. 3, 2026; Alabama, Louisiana, Oklahoma, Tennessee and West Virginia did not. Cutoffs listed."
 type: explainer
 publishedAt: "2026-11-02T14:05:00-05:00"
+updatedAt: "2026-11-14T17:45:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["can i drop off my mail in ballot on election day", "mail in ballot drop off election day 2026", "ballot drop box election day 2026", "where to drop off mail ballot", "mail ballot drop off deadline by state"]
@@ -11,8 +12,9 @@ assets:
   overlay: true
   kicker: "Mail ballot drop-off · Tue., Nov. 3, 2026"
   date: "2026-11-03"
-  card: { top: "Hand it in by", big: "7 or 8 p.m.", bottom: "Local time in most states" }
+  card: { top: "Hand-in cutoff", big: "7 or 8 p.m.", bottom: "Local time in most states" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: mail-ballot-drop-off-checklist-2026
     group: mail-ballot-drop-off-2026
     title: "Mail Ballot Drop-Off Checklist, Nov. 3, 2026"
@@ -41,7 +43,7 @@ assets:
 hero:
   src: ../../../../assets/news/can-i-drop-off-my-mail-in-ballot-on-election-day-2026/can-i-drop-off-my-mail-in-ballot-on-election-day-2026.webp
   alt: "Official ballot drop box with a mail-in ballot drop box sign outside a District of Columbia library: can I drop off my mail-in ballot on Election Day"
-  caption: "File photo of an official D.C. ballot drop box. Most states close drop boxes when polls close on Nov. 3, 2026; hand-in rules differ by state."
+  caption: "File photo of an official D.C. ballot drop box. Most states closed drop boxes when polls closed on Nov. 3, 2026; hand-in rules differed by state."
   credit: "Photo: Tony Webster / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -50,25 +52,25 @@ hero:
     author: "Tony Webster"
     authorUrl: "https://www.flickr.com/people/87296837@N00"
 summary:
-  - "In most states a voter can hand in a completed mail ballot on Tuesday, Nov. 3, 2026; the cutoff is 7 or 8 p.m. local time in most of the states in our table."
-  - "Alabama, Louisiana, Oklahoma and West Virginia closed hand-in by Monday, Nov. 2, and Tennessee does not allow hand delivery."
-  - "Delaware, Minnesota, New Jersey, North Carolina and North Dakota do not take mail ballots at a polling place, while Arizona, Michigan, New York and Virginia do."
-  - "The U.S. Postal Service (USPS) says a postmark date may not match the day a carrier collected the mail, so mailing now is risky."
+  - "In most states a voter could hand in a completed mail ballot on Tuesday, Nov. 3, 2026; the cutoff was 7 or 8 p.m. local time in most of the states in our table."
+  - "Alabama, Louisiana, Oklahoma and West Virginia closed hand-in by Monday, Nov. 2, and Tennessee did not allow hand delivery."
+  - "Delaware, Minnesota, New Jersey, North Carolina and North Dakota did not take mail ballots at a polling place, while Arizona, Michigan, New York and Virginia did."
+  - "The U.S. Postal Service (USPS) said a postmark date may not match the day a carrier collected the mail, which is why it advised mailing a week early."
 faq:
-  - q: "Can I drop off my mail-in ballot on Election Day 2026?"
-    a: "In most states, yes: a voter can hand in a completed mail ballot on Tuesday, Nov. 3, 2026, until the state's cutoff. Alabama, Louisiana, Oklahoma and West Virginia closed hand-in by Monday, Nov. 2, and Tennessee does not allow hand delivery. Louisiana's rule is for general voters."
+  - q: "Could I drop off my mail-in ballot on Election Day 2026?"
+    a: "In most states, yes: a voter could hand in a completed mail ballot on Tuesday, Nov. 3, 2026, until the state's cutoff. Alabama, Louisiana, Oklahoma and West Virginia closed hand-in by Monday, Nov. 2, and Tennessee did not allow hand delivery. Louisiana's rule is for general voters."
   - q: "Can I take a mail ballot to my polling place?"
     a: "Where the state's election office says so, yes. Arizona, California, Colorado, Kansas, Maryland, Michigan, New Mexico, New York, Vermont, Virginia and Wisconsin list a polling place or vote center. Delaware, Minnesota, New Jersey, North Carolina and North Dakota say no, as do Boston and Allegheny County, Pennsylvania."
-  - q: "What time do ballot drop boxes close on Nov. 3?"
-    a: "It depends on the state. The cutoffs in our table include 6 p.m. in Indiana and Kentucky, 7 p.m. in Arizona, Florida and Texas, 7:30 p.m. in North Carolina and Ohio, and 8 p.m. in California, Maryland, Michigan and Oregon. Find yours in the table, then confirm with your county."
-  - q: "Should I still mail my ballot?"
-    a: "The U.S. Postal Service recommends mailing a ballot at least one week before the date your election office must receive it, which for a Nov. 3 deadline was Tuesday, Oct. 27. A Postal Service release of Oct. 20, 2026 says postmark dates may not match the day a carrier collected the mail. Hand it in where your state allows."
+  - q: "What time did ballot drop boxes close on Nov. 3?"
+    a: "It depended on the state. The cutoffs in our table included 6 p.m. in Indiana and Kentucky, 7 p.m. in Arizona, Florida and Texas, 7:30 p.m. in North Carolina and Ohio, and 8 p.m. in California, Maryland, Michigan and Oregon. Your state's row is in the table."
+  - q: "Was it too late to mail a ballot on Election Day?"
+    a: "The U.S. Postal Service recommended mailing a ballot at least one week before the date your election office must receive it, which for a Nov. 3 deadline was Tuesday, Oct. 27. A Postal Service release of Oct. 20, 2026 says postmark dates may not match the day a carrier collected the mail. Voters who missed that window were pointed to hand-in where their state allowed it."
   - q: "Can someone else drop off my ballot?"
-    a: "Only where the state allows it. Pennsylvania, Texas and Virginia say only the voter may deliver the ballot. Indiana, Connecticut, Michigan, North Carolina and New Mexico name family members or caregivers. Check the who-can-carry section for each rule."
+    a: "Only where the state allowed it. Pennsylvania, Texas and Virginia said only the voter could deliver the ballot. Indiana, Connecticut, Michigan, North Carolina and New Mexico name family members or caregivers. The who-can-carry section keeps each rule."
   - q: "What if I am in line when the drop-off closes?"
-    a: "California says a drop box may stay open for voters in line at 8 p.m., Oregon lets voters in line at 8 p.m. deposit a ballot, and Ohio lets voters in line at 7:30 p.m. deposit one. For other states, we could not confirm a line rule, so get there early."
+    a: "California said a drop box may stay open for voters in line at 8 p.m., Oregon let voters in line at 8 p.m. deposit a ballot, and Ohio let voters in line at 7:30 p.m. deposit one. For other states, we could not confirm a line rule."
   - q: "Can I vote in person if I already have a mail ballot?"
-    a: "Pennsylvania says no once you return it. Michigan has a surrender rule at the polling place if the tabulator cannot take the ballot, and Boston lets a voter whose ballot never arrived vote in person. Elsewhere, ask your election office before you go."
+    a: "Pennsylvania said no once a mail ballot was returned. Michigan had a surrender rule at the polling place if the tabulator could not take the ballot, and Boston let a voter whose ballot never arrived vote in person. Elsewhere, the election office was the place to ask."
 sources:
   - title: "Absentee Voting Information"
     url: "https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting"
@@ -328,15 +330,15 @@ downloads:
 draft: false
 ---
 
-**On Tuesday, Nov. 3, 2026, a voter can still hand in a completed mail ballot in most states, until a cutoff that is 7 or 8 p.m. local time in most of the states in the table below, but not in Alabama, Louisiana, Oklahoma, Tennessee or West Virginia, according to each state's election office or Secretary of State.** Where you can hand it in varies by state: a drop box, the county or town election office, or a polling place. Mailing it now is risky, because the U.S. Postal Service (USPS) says a postmark date may not match the day a carrier collected the mail.
+**On Tuesday, Nov. 3, 2026, a voter could still hand in a completed mail ballot in most states, until a cutoff that was 7 or 8 p.m. local time in most of the states in the table below, but not in Alabama, Louisiana, Oklahoma, Tennessee or West Virginia, according to each state's election office or Secretary of State.** Where a ballot could be handed in varied by state: a drop box, the county or town election office, or a polling place. Mailing late was risky, because the U.S. Postal Service (USPS) said a postmark date may not match the day a carrier collected the mail.
 
-The sources below are state and county election offices, state statutes and the Postal Service. We could not confirm six states (list further down). For when a mailed ballot must arrive, and which states count a Nov. 3 postmark, see our [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/); this story covers only handing the ballot in yourself. A printable checklist for the trip is at the end.
+The sources below are state and county election offices, state statutes and the Postal Service. We could not confirm six states (list further down). For when a mailed ballot had to arrive, and which states counted a Nov. 3 postmark, see our [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/); this story covers only handing the ballot in yourself. The printable checklist at the end keeps the rules as a record.
 
-## Which states let you hand in a mail ballot on Election Day?
+## Which states let you hand in a mail ballot on Election Day 2026?
 
 Each state fits one of five groups, based on what its election office or statute says. The table below has the cutoff and the source for each.
 
-- **No hand-in on Nov. 3:** Alabama, Louisiana (general voters), Oklahoma, Tennessee and West Virginia. Alabama, Louisiana, Oklahoma and West Virginia closed hand-in by Monday, Nov. 2; Tennessee's guidance does not allow hand delivery at all.
+- **No hand-in on Nov. 3:** Alabama, Louisiana (general voters), Oklahoma, Tennessee and West Virginia. Alabama, Louisiana, Oklahoma and West Virginia closed hand-in by Monday, Nov. 2; Tennessee's guidance did not allow hand delivery at all.
 - **Election office only, as the sources list it:** Delaware, Florida, Georgia, Indiana, Missouri, North Carolina, North Dakota, Ohio, South Carolina, South Dakota and Texas.
 - **Election office or drop box (polling place not listed):** Connecticut, Kentucky, Maine, Massachusetts, Minnesota, New Jersey, Pennsylvania and Wyoming. Minnesota, New Jersey, Boston and Allegheny County, Pennsylvania, say polling places do not take them.
 - **Polling place or vote center takes it:** Arizona, California, Colorado, Kansas, Maryland, Michigan, New Mexico, New York, Vermont, Virginia and Wisconsin.
@@ -417,15 +419,15 @@ Only a few states say. Where the source states a rule, it is below; everywhere e
 - **Virginia:** anyone in line at 7 p.m. may vote, per the Virginia Department of Elections; the line rule is for voting at polls.
 - **Colorado:** the Colorado Secretary of State says voters must submit the ballot or be in line to vote by 7 p.m. That is a voting rule, not a drop-box rule.
 
-For poll-closing times in each state, see [what time polls close on Election Day](/news/what-time-do-polls-close-election-day-2026/). If you need a lift to a drop-off site, [free rides to the polls](/news/free-rides-to-the-polls-2026-lyft-uber-transit/) lists the Nov. 3 offers, and [what is open on Election Day](/news/is-election-day-a-holiday-2026-whats-open/) covers whether it is a holiday and what is open.
+For poll-closing times in each state, see [what time polls close on Election Day](/news/what-time-do-polls-close-election-day-2026/). If you need a lift to a drop-off site, [free rides to the polls](/news/free-rides-to-the-polls-2026-lyft-uber-transit/) listed the Nov. 3 offers, and [what is open on Election Day](/news/is-election-day-a-holiday-2026-whats-open/) covers whether it is a holiday and what is open.
 
-## Should you mail your ballot now instead?
+## Why did the Postal Service advise mailing early?
 
 The Postal Service recommends mailing a completed ballot "at least one week before the deadline by which their completed ballot must be received by their election office," according to its Mailing Recommendations page. For a Nov. 3 arrival deadline, that day was Tuesday, Oct. 27.
 
 A USPS news release of Oct. 20, 2026 adds that "the date on the postmarks may not necessarily match the date that the mailpiece was collected by a letter carrier," and advises asking for a manual postmark at the retail counter. A Federal Register notice of Nov. 24, 2025 says a manual postmark is available "for no additional fee."
 
-A postmark matters only where the state counts one. Indiana says postmarks cannot be considered timely, and Larimer County, Colorado, says "Postmarks do not count." In June 2026 the Supreme Court held in Watson v. Republican National Committee that federal Election Day statutes do not stop Mississippi from counting absentee ballots postmarked by Election Day and received up to five business days later; our [mail ballot deadlines story](/news/mail-ballot-deadlines-2026-by-state/) lists the states with a postmark window. If your state takes hand-in, the table is the safer route.
+A postmark matters only where the state counts one. Indiana says postmarks cannot be considered timely, and Larimer County, Colorado, says "Postmarks do not count." In June 2026 the Supreme Court held in Watson v. Republican National Committee that federal Election Day statutes do not stop Mississippi from counting absentee ballots postmarked by Election Day and received up to five business days later; our [mail ballot deadlines story](/news/mail-ballot-deadlines-2026-by-state/) lists the states with a postmark window. In states that took hand-in, the table shows the route that did not depend on a postmark.
 
 ## Can you vote in person if you already have a mail ballot?
 

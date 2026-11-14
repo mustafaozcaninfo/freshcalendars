@@ -1,9 +1,9 @@
 ---
 title: "FA Cup First Round 2026-27: 8 TV Ties, Kick-Off Times in UK and US"
-description: "The FA Cup first round runs Nov. 6-9, 2026, with 8 ties on live UK TV. Kick-off times in UK, Eastern and Pacific time, plus all 40 ties and the next draw."
+description: "The FA Cup first round was played Nov. 6-9, 2026, with 8 ties on live UK TV. Kick-off times in UK, ET and PT, all 40 ties and the second round draw."
 type: news
 publishedAt: "2026-10-27T17:42:00-04:00"
-updatedAt: "2026-11-08T07:24:00-05:00"
+updatedAt: "2026-11-14T17:25:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["fa cup first round 2026", "fa cup first round fixtures", "fa cup tv picks", "fa cup first round kick off times"]
@@ -13,7 +13,7 @@ assets:
   overlay: true
   kicker: "FA Cup First Round · Nov. 6-9, 2026"
   date: "2026-11-07"
-  card: { top: "Eight ties live on TNT Sports", big: "Nov. 6-9", bottom: "Kick-off times in UK, ET and PT" }
+  card: { top: "Eight ties were live on TNT Sports", big: "Nov. 6-9", bottom: "Kick-off times in UK, ET and PT" }
   printable:
     slug: fa-cup-first-round-tv-picks-round-dates-2026-27
     group: fa-cup-2026-27
@@ -43,7 +43,7 @@ assets:
 hero:
   src: ../../../../assets/news/fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times/fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times.webp
   alt: "FA Cup first round 2026-27: the FA Cup trophy at the National Football Museum in Manchester, file photo"
-  caption: "File photo: the FA Cup trophy at the National Football Museum in Manchester. The first round is played Nov. 6 to 9, 2026."
+  caption: "File photo: the FA Cup trophy at the National Football Museum in Manchester. The first round was played Nov. 6 to 9, 2026."
   credit: "Photo: Ank Kumar / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -51,20 +51,24 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:FA_Cup_Trophy_at_Manchester_National_Football_Museum_(Ank_Kumar)_01.jpg"
     author: "Ank Kumar"
 summary:
-  - "The FA Cup first round runs from Fri., Nov. 6 to Mon., Nov. 9, 2026, with 8 ties live on TNT Sports and HBO Max, per The Football Association (The FA)."
+  - "The FA Cup first round ran from Fri., Nov. 6 to Mon., Nov. 9, 2026, with 8 ties live on TNT Sports and HBO Max, per The Football Association (The FA)."
   - "Two of the eight are also on the BBC: Altrincham v Notts County (Sat., Nov. 7, 5:30pm Greenwich Mean Time, 12:30 p.m. ET) and Cray Wanderers v Stockport County (Sun., Nov. 8, 2:15pm GMT, 9:15 a.m. ET)."
-  - "All other fixtures stay at 3pm on Sat., Nov. 7 unless The FA says otherwise, which is 10 a.m. Eastern Time (ET) and 7 a.m. Pacific Time (PT)."
-  - "The second round draw is Mon., Nov. 9 at about 6.45pm GMT (1:45 p.m. ET, 10:45 a.m. PT), live on TNT Sports; its 40 ties are on the weekend of Sat., Dec. 5, 2026."
+  - "The other fixtures were set for 3pm on Sat., Nov. 7 unless The FA said otherwise, which is 10 a.m. Eastern Time (ET) and 7 a.m. Pacific Time (PT)."
+  - "The FA made the second round draw on Mon., Nov. 9: 20 ties, to be played across the weekend of Sat., Dec. 5, 2026, with times and broadcasts to be announced."
 faq:
-  - q: "What time is the FA Cup first round?"
-    a: "The 32 ties not picked for TV stay at 3pm on Saturday 7 November 2026 unless The FA says otherwise. That is 10 a.m. ET and 7 a.m. PT. The eight televised ties kick off between Nov. 6 and Nov. 9 at the times in the table."
+  - q: "What time was the FA Cup first round?"
+    a: "The 32 ties not picked for TV were set for 3pm on Saturday 7 November 2026 unless The FA said otherwise. That is 10 a.m. ET and 7 a.m. PT. The eight televised ties kicked off between Nov. 6 and Nov. 9 at the times in the table."
   - q: "Which FA Cup first round ties are on TV?"
     a: "The FA lists eight: Oxford City v Leicester City, Altrincham v Notts County, Peterborough United v Reading, Stafford Rangers v Grimsby Town, Cray Wanderers v Stockport County, Wimborne Town v Crawley Town, Oldham Athletic v Sheffield Wednesday and Plymouth Parkway v Berkhamsted."
   - q: "How much do clubs earn in the FA Cup first round?"
     a: "The FA says winners receive 47,750 pounds and losers 15,800 pounds from the prize fund. The 16 clubs in the televised ties also get a 50,000 pound live television broadcast fee each."
-  - q: "When is the FA Cup second round draw?"
-    a: "Monday 9 November 2026 at approximately 6.45pm GMT, live at Plymouth Parkway on TNT Sports 1, HBO Max and the TNT Sports YouTube channel, The FA says. That is 1:45 p.m. ET and 10:45 a.m. PT by our conversion. The 40 second round ties are on the weekend of Saturday 5 December 2026."
+  - q: "What did the FA Cup second round draw produce?"
+    a: "It was made on Monday 9 November 2026, live on TNT Sports, and produced 20 ties, The FA says. They are staged across the weekend of Saturday 5 December 2026, with fixture details and broadcast arrangements to be announced."
 sources:
+  - title: "Emirates FA Cup second round draw confirmed"
+    url: "https://www.thefa.com/news/2026/nov/09/draw-confirmed-for-emirates-fa-cup-second-round-20261109"
+    publisher: "The Football Association (The FA)"
+    date: "2026-11-09"
   - title: "Emirates FA Cup second round draw numbers confirmed"
     url: "https://www.thefa.com/news/2026/nov/06/emirates-fa-cup-second-round-draw-to-be-broadcast-on-tnt-sports-20260611"
     publisher: "The Football Association (The FA)"
@@ -106,13 +110,13 @@ downloads:
 draft: false
 ---
 
-**The FA Cup first round runs from Friday, Nov. 6, to Monday, Nov. 9, 2026, with 8 ties live on Turner Network Television (TNT) Sports, according to The Football Association (The FA).** Two of them are also on British Broadcasting Corporation (BBC) Two. Kick-off times are in Greenwich Mean Time (GMT), the UK time after clocks went back on Oct. 25.
+**The FA Cup first round ran from Friday, Nov. 6, to Monday, Nov. 9, 2026, with 8 ties live on Turner Network Television (TNT) Sports, according to The Football Association (The FA).** Two of them are also on British Broadcasting Corporation (BBC) Two. Kick-off times are in Greenwich Mean Time (GMT), the UK time after clocks went back on Oct. 25.
 
-Converted for U.S. readers, the first televised tie, Oxford City v Leicester City, is at 2:45 p.m. Eastern Time (ET), 11:45 a.m. Pacific Time (PT) on Friday. The table below gives all eight, and the full list of 40 ties and the dates up to the final follow.
+Converted for U.S. readers, the first televised tie, Oxford City v Leicester City, was at 2:45 p.m. Eastern Time (ET), 11:45 a.m. Pacific Time (PT) on Friday. The table below gives all eight, and the full list of 40 ties, the second round draw and the dates up to the final follow.
 
 ## What are the FA Cup first round TV picks and kick-off times?
 
-The FA confirmed the picks on Oct. 22, 2026. The eight ties are on TNT Sports and Home Box Office (HBO) Max, and the FA gave the times in GMT. The U.S. clocks go back on Sunday, Nov. 1, so for Nov. 6 to 9 Eastern Time is 5 hours behind GMT and Pacific Time is 8 hours behind. We worked those columns out ourselves.
+The FA confirmed the picks on Oct. 22, 2026. The eight ties were on TNT Sports and Home Box Office (HBO) Max, and the FA gave the times in GMT. The U.S. clocks went back on Sunday, Nov. 1, so for Nov. 6 to 9 Eastern Time was 5 hours behind GMT and Pacific Time was 8 hours behind. We worked those columns out ourselves.
 
 | Date | Tie | UK (GMT) | ET | PT | Channel per The FA |
 |---|---|---|---|---|---|
@@ -129,7 +133,7 @@ The home club is named first. The FA's pages name HBO Max without saying which c
 
 ## What time do the other FA Cup first round ties kick off?
 
-The FA says all other fixtures remain scheduled at 3pm on Saturday 7 November unless The FA states otherwise. That is 3pm GMT, 10 a.m. ET and 7 a.m. PT. The FA's TV page does not say whether any of the other 32 ties will move.
+The FA said all other fixtures remained scheduled at 3pm on Saturday 7 November unless The FA said otherwise. That is 3pm GMT, 10 a.m. ET and 7 a.m. PT.
 
 ## Which clubs are in the FA Cup first round draw?
 
@@ -162,18 +166,24 @@ The FA made the draw on Monday 19 October 2026 and numbered the 40 ties. The lis
 
 The FA says all 16 clubs in the eight televised ties receive a live television broadcast fee of 50,000 pounds. Winning clubs in the first round receive 47,750 pounds and losing clubs 15,800 pounds from the prize fund. Prize money for later rounds is not in the sources we used.
 
-## When is the FA Cup second round draw?
+## What did the FA Cup second round draw produce?
 
-The Football Association (The FA) says the second round proper draw is on Monday 9 November, live on TNT Sports. It takes place at Plymouth Parkway at approximately 6.45pm GMT, just before Plymouth Parkway v Berkhamsted at 7.30pm GMT, the last first round tie. Eastern and Pacific times are our conversion: 1:45 p.m. ET and 10:45 a.m. PT.
+The Football Association (The FA) made the second round proper draw on Monday 9 November, live on TNT Sports, after the last first round tie, Plymouth Parkway v Berkhamsted, on Monday evening. It produced 20 ties, to be played across the weekend of Saturday 5 December. The FA said further details of when fixtures are scheduled and broadcast arrangements will be announced in due course.
 
-| Detail | Per The FA |
-|---|---|
-| Watch | TNT Sports 1, HBO Max and the TNT Sports YouTube channel |
-| Host | Jules Breach |
-| Draw made by | Karen Carney and Joel Ward |
-| Ties | 40, on the weekend of Saturday 5 December |
+| No. | Tie | No. | Tie |
+|---|---|---|---|
+| 1 | Chesterfield v Cheltenham Town | 11 | Rochdale v Newport County |
+| 2 | Guiseley v Notts County | 12 | Dover Athletic v Leicester City |
+| 3 | Wigan Athletic v Barnsley | 13 | Port Vale v Leyton Orient |
+| 4 | Exeter City v Stevenage | 14 | Grimsby Town v Oldham Athletic |
+| 5 | Plymouth Parkway v Barnet | 15 | Shrewsbury Town v Burton Albion |
+| 6 | York City v Carlisle United | 16 | Salisbury v Blackpool |
+| 7 | Crewe Alexandra v Plymouth Argyle | 17 | Wimborne Town v Bradford City |
+| 8 | AFC Fylde v Luton Town | 18 | Rotherham United v Bristol Rovers |
+| 9 | Barrow v Kidderminster Harriers | 19 | Reading v Stockport County |
+| 10 | Colchester United v Mansfield Town | 20 | Wycombe Wanderers v Milton Keynes Dons |
 
-The FA published the second round ball numbers on Nov. 6, and our [second round draw guide](/news/fa-cup-second-round-draw-2026-time-tv-ball-numbers/) lists them. Pencil the draw onto the [November 2026 printable calendar](/november-calendars.html).
+The draw is listed home club first, as the FA printed it. Our [second round draw guide](/news/fa-cup-second-round-draw-2026-time-tv-ball-numbers/) has the ball numbers and TV details. Pencil the weekend onto the [December 2026 printable calendar](/december-calendars.html).
 
 ## What are the FA Cup round dates after the first round?
 
@@ -190,7 +200,7 @@ The FA's 2026-27 round dates for the rounds that follow:
 | Semi-final | Sat., Apr. 24, 2027 |
 | Final | Sat., May 22, 2027 (Wembley Stadium) |
 
-The second round falls on the [December 2026 printable calendar](/december-calendars.html). The printable below keeps the TV picks and these dates on one page. For another UK cup this season, see the [Carabao Cup fourth round schedule](/news/carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk/).
+The printable below keeps the TV picks and these dates on one page. For another UK cup this season, see the [Carabao Cup fourth round schedule](/news/carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk/).
 
 ## Is there a printable FA Cup first round schedule?
 

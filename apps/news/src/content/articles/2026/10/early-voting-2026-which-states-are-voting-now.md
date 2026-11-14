@@ -3,14 +3,14 @@ title: "Early Voting 2026: End Dates by State, Last Day Nov. 1"
 description: "Early voting 2026 ended by Sunday, Nov. 1, before Election Day on Nov. 3. End dates for selected states, from Oct. 27 in Louisiana, plus hours and ID."
 type: news
 publishedAt: "2026-10-22T01:36:00-04:00"
-updatedAt: "2026-11-08T02:45:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["early voting 2026", "which states have early voting", "early voting dates by state", "early voting now"]
 dateline: "New York"
 hero:
   src: ../../../../assets/news/early-voting-2026-which-states-are-voting-now/early-voting-2026-which-states-are-voting-now.jpg
-  alt: "Early voting 2026: which states are voting now, with a November 2026 calendar card marking Election Day on Nov. 3"
+  alt: "Early voting 2026 end dates by state, with a November 2026 calendar card marking Election Day on Nov. 3"
   title: "Early voting 2026: end dates by state"
   caption: "Early in-person voting ended in the states covered here by Sunday, Nov. 1, ahead of Election Day on Tuesday, Nov. 3, 2026. Dates differed by state."
 summary:
@@ -94,9 +94,9 @@ internalLinks:
 related: [michigan-ballot-2026-proposals-candidates, how-many-people-voted-early-2026-59-million-early-votes, mail-ballot-deadlines-2026-by-state]
 assets:
   kicker: "Early voting · Nov. 3, 2026"
-  title: "Which states are voting now"
+  title: "Early voting end dates"
   date: "2026-11-03"
-  card: { top: "Election Day is", big: "Tue., Nov. 3", bottom: "Early voting is open in many states" }
+  card: { top: "Election Day was", big: "Tue., Nov. 3", bottom: "Early voting has ended" }
   printable:
     slug: early-voting-dates-by-state-2026
     group: election-2026
@@ -117,12 +117,13 @@ assets:
       - ["Tue., Oct. 6-Sat., Oct. 31", "New Mexico: county clerk offices; more sites from Oct. 17"]
       - ["Tue., Nov. 3", "Election Day"]
     note: "Sources: state election offices in Connecticut, Texas, Georgia, Michigan, New York, North Carolina, Maryland and Delaware; Massachusetts and Tennessee dates as reported; Santa Fe County Clerk, New Mexico."
-    description: "Early voting dates and hours for eleven states ahead of Election Day on Nov. 3, 2026, with boxes to tick off. Selected states, not a complete list."
+    description: "Early voting dates and hours for eleven states before Election Day on Nov. 3, 2026, as a record. Selected states, not a complete list."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     alt: "Early voting dates by state 2026 printable listing eleven states and Election Day on Nov. 3"
 downloads:
   - group: "Early Voting Dates by State printables"
     title: "Early Voting Dates by State, Nov. 3, 2026"
-    description: "Early voting dates and hours for eleven states ahead of Election Day on Nov. 3, 2026, with boxes to tick off. Selected states, not a complete list."
+    description: "Early voting dates and hours for eleven states before Election Day on Nov. 3, 2026, as a record. Selected states, not a complete list."
     preview: ../../../../assets/news/election-2026/early-voting-dates-by-state-2026.png
     alt: "Early voting dates by state 2026 printable listing eleven states and Election Day on Nov. 3"
     pdf: "/news/downloads/election-2026/early-voting-dates-by-state-2026.pdf"
@@ -131,9 +132,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Election Day was Tuesday, Nov. 3, 2026.</b> The University of Florida Election Lab counted 59,014,258 early votes nationwide as of 8:21 a.m. Eastern Time on Election Day; the <a href="/news/how-many-people-voted-early-2026-59-million-early-votes/">state-by-state early vote totals</a> are in our separate story. Texas, Georgia and Massachusetts ended early in-person voting on Friday, Oct. 30. North Carolina ended at 3 p.m. Saturday, Oct. 31; Connecticut, Michigan, New York and Delaware ended Sunday, Nov. 1. Maryland and Tennessee ended Thursday, Oct. 29, and Louisiana and Pennsylvania ended Tuesday, Oct. 27, according to the Center for Election Innovation & Research (CEIR).</p>
-
-**Early in-person voting has ended in the states covered in this guide, ahead of Election Day on Tuesday, Nov. 3, 2026.** Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland, Delaware, Michigan and New York all closed their early voting windows by Sunday, Nov. 1. This is a guide to selected states with confirmed dates, not a complete list. The Center for Election Innovation & Research (CEIR) says 47 states plus the District of Columbia offer early in-person voting in 2026, with end dates ranging from Oct. 27 in Louisiana and Pennsylvania to the day before Election Day in 14 states.
+**Early in-person voting has ended in the states covered in this guide, ahead of Election Day on Tuesday, Nov. 3, 2026.** Connecticut, Texas, Georgia, North Carolina, Massachusetts, Tennessee, New Mexico, Maryland, Delaware, Michigan and New York all closed their early voting windows by Sunday, Nov. 1. This is a guide to selected states with confirmed dates, not a complete list. The Center for Election Innovation & Research (CEIR) says 47 states plus the District of Columbia offer early in-person voting in 2026, with end dates ranging from Oct. 27 in Louisiana and Pennsylvania to the day before Election Day in 14 states. The University of Florida Election Lab counted 59,014,258 early votes nationwide as of 8:21 a.m. Eastern Time on Election Day; the [state-by-state early vote totals](/news/how-many-people-voted-early-2026-59-million-early-votes/) are in our separate story.
 
 ## Early voting dates by state
 
@@ -191,9 +190,9 @@ New York City posted one schedule for all five boroughs:
 - **Michigan registration:** Online and mail registration closed Oct. 19. After that, voters could register in person at their local clerk's office, with proof of residency, through 8 p.m. on Election Day.
 - **New York registration:** Applications had to be received by a board of elections by Saturday, Oct. 24, the first day of early voting, to vote on Nov. 3.
 
-## When is Election Day 2026?
+## When was Election Day 2026?
 
-Election Day is Tuesday, Nov. 3, 2026. Early voting is separate from voting by mail. If you plan to return a mail ballot, see the [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/). Wondering whether you get the day off? Read [is Election Day a holiday and what is open](/news/is-election-day-a-holiday-2026-whats-open/). Mark Nov. 3 on a [November 2026 printable calendar](/november-calendars.html), and see the [October 2026 calendar](/october-calendars.html) for the early voting weeks that just ended. Illinois voters can see our [Illinois Election Day guide](/news/when-is-election-day-2026-illinois-polls-early-voting/) for polling hours.
+Election Day was Tuesday, Nov. 3, 2026. Early voting is separate from voting by mail. For mail ballot rules, see the [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/). Wondering whether you got the day off? Read [is Election Day a holiday and what is open](/news/is-election-day-a-holiday-2026-whats-open/). The [November 2026 printable calendar](/november-calendars.html) and the [October 2026 calendar](/october-calendars.html) show the early voting weeks. Illinois voters can see our [Illinois Election Day guide](/news/when-is-election-day-2026-illinois-polls-early-voting/) for polling hours.
 
 ## How to find your polling place
 

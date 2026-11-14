@@ -3,7 +3,7 @@ title: "Cavaliers Schedule November 2026: 14 Games, Printable and TV"
 description: "The Cavaliers play 14 games in November 2026, from Nov. 2 against Oklahoma City to Nov. 29 against Miami. Times in ET, TV, NBA Cup games and a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T17:35:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Cavaliers schedule November 2026", "Cavs game tonight", "Cavs NBA Cup schedule 2026", "Cavaliers printable schedule"]
@@ -11,9 +11,9 @@ dateline: "Cleveland"
 assets:
   scene: sports
   overlay: true
-  kicker: "Cavaliers · Next game Mon., Nov. 2, 2026"
-  date: "2026-11-02"
-  card: { top: "Cavaliers host Oklahoma City tonight", big: "7 p.m. ET", bottom: "One of 14 November games" }
+  kicker: "Cavaliers · Next game Sat., Nov. 14, 2026"
+  date: "2026-11-14"
+  card: { top: "Cavaliers host Dallas", big: "7:30 p.m. ET", bottom: "Sat., Nov. 14, game 8 of 14" }
   printable:
     slug: cleveland-cavaliers-schedule-november-2026
     group: cavaliers-schedule-2026
@@ -51,13 +51,13 @@ hero:
     author: "Erik Drost"
     authorUrl: "https://www.flickr.com/people/62091376@N03"
 summary:
-  - "The Cavaliers' next game is tonight, Mon., Nov. 2, 2026, hosting Oklahoma City at 7 p.m. ET on Peacock and NBC Sports Network (NBCSN), per the NBA's schedule dated Aug. 13, 2026."
+  - "The Cavaliers' next game is Sat., Nov. 14, 2026, hosting Dallas at 7:30 p.m. ET with no national TV listed, per the NBA's schedule dated Aug. 13, 2026."
   - "The NBA lists 14 Cavaliers games in November 2026, eight at home and six on the road, from Nov. 2 to Sun., Nov. 29 against Miami."
-  - "National TV is listed for three November games: Oklahoma City on Nov. 2, Philadelphia on Nov. 6 and at New York on Nov. 11."
+  - "National TV was listed for three November games, all before Nov. 14: Oklahoma City on Nov. 2, Philadelphia on Nov. 6 and at New York on Nov. 11."
   - "Four November games are Emirates NBA Cup group games: Nov. 6, Nov. 13, Nov. 20 and Nov. 25."
 faq:
   - q: "When is the next Cavaliers game?"
-    a: "Tonight, Mon., Nov. 2, 2026, Cleveland hosts Oklahoma City at 7 p.m. ET on Peacock and NBC Sports Network (NBCSN), according to the NBA's 2026-27 schedule. The Cavaliers played at Milwaukee on Sat., Oct. 31."
+    a: "Sat., Nov. 14, 2026, Cleveland hosts Dallas at 7:30 p.m. ET, with no national TV listed, according to the NBA's 2026-27 schedule. The previous game on that schedule was at Miami on Fri., Nov. 13."
   - q: "How many Cavaliers games are in November 2026?"
     a: "14, according to the NBA's schedule dated Aug. 13, 2026: eight at home and six on the road. The Cavaliers' longest homestand is four games, from Sat., Nov. 14 to Fri., Nov. 20."
   - q: "Which Cavaliers games are NBA Cup games?"
@@ -103,9 +103,9 @@ downloads:
 draft: false
 ---
 
-**The Cleveland Cavaliers host Oklahoma City tonight, Monday, Nov. 2, 2026, at 7 p.m. Eastern Time (ET) on Peacock and NBC Sports Network (NBCSN), according to the National Basketball Association (NBA) schedule.** The NBA lists 14 Cavaliers games in November, and a one-page printable of all of them is further down.
+**The Cleveland Cavaliers host Dallas on Saturday, Nov. 14, 2026, at 7:30 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule, with no national TV listed.** The NBA lists 14 Cavaliers games in November, seven of them before that date, and a one-page printable of all of them is further down.
 
-The source is the NBA's 2026-27 regular season schedule from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so the table below adds the local time only for games played outside the Eastern zone. Weekdays are our own calculation. The Cavaliers' previous game was at Milwaukee on Saturday, Oct. 31.
+The source is the NBA's 2026-27 regular season schedule from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so the table below adds the local time only for games played outside the Eastern zone. Weekdays are our own calculation. The schedule's previous game was at Miami on Friday, Nov. 13. We did not check game results.
 
 ## Cavaliers game times and TV for every November game
 
@@ -136,7 +136,7 @@ The schedule flags four November Cavaliers games as Emirates NBA Cup group play:
 
 ## Back-to-backs and road games in the Cavaliers' November
 
-The Cavaliers' only road trip longer than two games runs three stops from Nov. 9 to Nov. 13, and both their back-to-backs come in the first two weeks. These are our own counts from the NBA's schedule:
+The Cavaliers' only road trip longer than two games ran three stops from Nov. 9 to Nov. 13, and both their back-to-backs come in the first two weeks. These are our own counts from the NBA's schedule:
 
 - **Eight home games, six on the road.** The home dates are Nov. 2, 6, 7, 14, 16, 18, 20 and 29; the six road games are Nov. 4, 9, 11, 13, 23 and 25.
 - **Two back-to-backs:** Nov. 6 and Nov. 7 (both at home) and Nov. 13 and Nov. 14 (at Miami, then home against Dallas).

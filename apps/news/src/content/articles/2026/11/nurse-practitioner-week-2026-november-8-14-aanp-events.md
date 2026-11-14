@@ -3,6 +3,7 @@ title: "National Nurse Practitioner Week 2026: Nov. 8-14, Today Show Nov. 10"
 description: "National Nurse Practitioner Week 2026 runs Nov. 8-14, says the American Association of Nurse Practitioners (AANP). Day-by-day table and a free printable."
 type: news
 publishedAt: "2026-11-06T14:15:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["nurse practitioner week 2026", "NP Week 2026", "NP Week events", "National NP Week 2026 dates", "NP Spirit Day 2026"]
@@ -11,7 +12,7 @@ assets:
   overlay: true
   kicker: "National NP Week · Nov. 8-14, 2026"
   date: "2026-11-08"
-  card: { top: "National NP Week 2026", big: "Nov. 8-14", bottom: "NP Spirit Day on Thu., Nov. 12" }
+  card: { top: "National NP Week 2026", big: "Nov. 8-14", bottom: "NP Spirit Day was Thu., Nov. 12" }
   printable:
     kit: activity-sheet
     slug: national-np-week-2026-dates-ideas
@@ -25,14 +26,14 @@ assets:
     data:
       day: { date: "2026-11-08", name: "National NP Week 2026 begins", src: 1, quote: "NP Week 2026 will be held November 8-14, 2026." }
       facts:
-        - { text: "AANP is joining hundreds of NPs in New York City on Tuesday, Nov. 10, for a Today Show event.", src: 2, quote: "joining up with hundreds of NPs in New York City on Tuesday, Nov. 10," }
-        - { text: "AANP asks NPs to share photos on NP Spirit Day on Thursday, Nov. 12.", src: 2, quote: "sharing YOUR photos on NP Spirit Day on Nov. 12." }
+        - { text: "AANP said it would join hundreds of NPs in New York City on Tuesday, Nov. 10, for a Today Show event.", src: 2, quote: "joining up with hundreds of NPs in New York City on Tuesday, Nov. 10," }
+        - { text: "AANP asked NPs to share photos on NP Spirit Day on Thursday, Nov. 12.", src: 2, quote: "sharing YOUR photos on NP Spirit Day on Nov. 12." }
       activities:
         - type: checklist
           title: "Ways to mark the week"
           items:
             - "Write a thank-you note to a nurse practitioner"
-            - "Post a photo with #NPsLead on Nov. 12"
+            - "Post a photo with #NPsLead"
             - "Share the AANP NP fact sheet with a friend"
             - "Ask a local official to read the AANP proclamation"
       unconfirmed:
@@ -50,22 +51,23 @@ hero:
     author: "U.S. Navy photo by Tom Watanabe."
 summary:
   - "National Nurse Practitioner (NP) Week 2026 runs Sunday, Nov. 8, to Saturday, Nov. 14, according to the American Association of Nurse Practitioners (AANP)."
-  - "AANP said on Aug. 4, 2026 that it is joining hundreds of NPs in New York City on Tuesday, Nov. 10, for a Today Show event. No start time was given."
-  - "NP Spirit Day is Thursday, Nov. 12, when AANP asks NPs to share their photos. The campaign heading is 'Filling the Map... Again!' with the hashtag #NPsLead."
+  - "AANP said on Aug. 4, 2026 that it would join hundreds of NPs in New York City on Tuesday, Nov. 10, for a Today Show event. No start time was given."
+  - "NP Spirit Day was Thursday, Nov. 12, when AANP asked NPs to share their photos. The campaign heading is 'Filling the Map... Again!' with the hashtag #NPsLead."
   - "A free one-page sheet lists the week's dates and a checklist of ways to thank a nurse practitioner."
 faq:
   - q: "When is National Nurse Practitioner Week 2026?"
     a: "Nov. 8-14, 2026, according to AANP. Nov. 8 is a Sunday and Nov. 14 is a Saturday."
-  - q: "When is NP Spirit Day 2026?"
-    a: "Thursday, Nov. 12, 2026. AANP's Aug. 4 announcement asks people to share their photos that day."
-  - q: "What time is the Today Show NP Week event?"
-    a: "AANP has not given a time. It said it is joining hundreds of NPs in New York City on Tuesday, Nov. 10."
+  - q: "When was NP Spirit Day 2026?"
+    a: "Thursday, Nov. 12, 2026. AANP's Aug. 4 announcement asked people to share their photos that day."
+  - q: "What time was the Today Show NP Week event?"
+    a: "AANP never gave a time in the pages we read. It said it would join hundreds of NPs in New York City on Tuesday, Nov. 10."
   - q: "What are the 2027 dates for NP Week?"
-    a: "Not announced in the AANP pages we read."
+    a: "Not announced in the AANP pages we read on Nov. 14, 2026."
 sources:
   - title: "NP Week"
     url: "https://www.aanp.org/about/about-the-american-association-of-nurse-practitioners-aanp/media/np-week"
     publisher: "American Association of Nurse Practitioners"
+    date: "2026-11-14"
   - title: "Get Ready for the 2026 National NP Week Celebration"
     url: "https://www.aanp.org/news-feed/get-ready-for-the-2026-national-np-week-celebration"
     publisher: "American Association of Nurse Practitioners"
@@ -88,7 +90,7 @@ downloads:
 draft: false
 ---
 
-National Nurse Practitioner (NP) Week 2026 runs Nov. 8-14, according to the American Association of Nurse Practitioners (AANP), which says the week is "held annually to celebrate these exceptional health care providers." That is Sunday through Saturday. AANP's Aug. 4, 2026 announcement names two dated events: a Today Show gathering in New York City on Tuesday, Nov. 10, and NP Spirit Day on Thursday, Nov. 12. This page lays out the week day by day and includes a free printable sheet.
+National Nurse Practitioner (NP) Week 2026 runs Nov. 8-14, according to the American Association of Nurse Practitioners (AANP), which says the week is "held annually to celebrate these exceptional health care providers." That is Sunday through Saturday. AANP's Aug. 4, 2026 announcement named two dated events: a Today Show gathering in New York City on Tuesday, Nov. 10, and NP Spirit Day on Thursday, Nov. 12, both now past. This page lays out the week day by day and includes a free printable sheet.
 
 ## NP Week 2026 day by day
 
@@ -98,9 +100,9 @@ The weekdays below are our calculation from AANP's dates. The event rows are AAN
 |---|---|---|
 | Nov. 8 | Sunday | NP Week 2026 begins |
 | Nov. 9 | Monday | No event listed |
-| Nov. 10 | Tuesday | AANP joins hundreds of NPs in New York City for a Today Show event; no time given |
+| Nov. 10 | Tuesday | AANP said it would join hundreds of NPs in New York City for a Today Show event; no time given |
 | Nov. 11 | Wednesday | No event listed |
-| Nov. 12 | Thursday | NP Spirit Day: share your photos |
+| Nov. 12 | Thursday | NP Spirit Day: AANP asked people to share their photos |
 | Nov. 13 | Friday | No event listed |
 | Nov. 14 | Saturday | NP Week 2026 ends |
 
@@ -108,7 +110,7 @@ For the rest of the month, see our [November 2026 holidays and important dates](
 
 ## What are the Today Show event and NP Spirit Day?
 
-On Aug. 4, 2026, AANP wrote that it is "joining up with hundreds of NPs in New York City on Tuesday, Nov. 10," for a Today Show event. The post gave no time, so check the show's schedule closer to the day. We could not confirm a start time.
+On Aug. 4, 2026, AANP wrote that it was "joining up with hundreds of NPs in New York City on Tuesday, Nov. 10," for a Today Show event. The post gave no time, and we could not confirm a start time or what aired.
 
 AANP also asked people to share their photos on NP Spirit Day on Nov. 12. The campaign heading is "Filling the Map... Again!" and the hashtag is #NPsLead.
 
@@ -121,7 +123,7 @@ AANP's NP Week page lists a 2026 NP Week Resource Guide with a sample news relea
 These are our suggestions, not AANP events:
 
 - Write a short thank-you note to a nurse practitioner you know.
-- Post a photo with #NPsLead on Thursday, Nov. 12.
+- Post a photo with #NPsLead.
 - Share AANP's NP fact sheet with a friend or coworker.
 - Ask a local official to read AANP's proclamation.
 
@@ -129,4 +131,4 @@ The printable sheet puts the dates and this checklist on one page.
 
 ## What is not announced yet?
 
-AANP's pages we read give no official 2026 theme, no start time for the Nov. 10 event and no 2027 dates. We will update this story if AANP posts them.
+AANP's pages we read on Nov. 14 give no official 2026 theme, no start time for the Nov. 10 event and no 2027 dates.
