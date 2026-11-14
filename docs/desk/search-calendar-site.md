@@ -2,6 +2,12 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-14 (search desk, morning)
+
+- **/news/ web clicks fell 40% in the week to Nov. 11; the gate still passes, Monday decides.** Read of Nov. 14, 09:13 UTC (windows to Nov. 11): /news/ web week Nov. 5-11 had 2,174 clicks (-40% on 3,595, week Oct. 29 to Nov. 4) and 492,486 impressions (-23% on 642,016); image 418 clicks (-28% on 581), 245,331 impressions (-20%); Discover 0 for a ninth window. The week before rose, so "no fall two weeks in a row" passes (export: "no"); indexed 100% (75 of 75, the noindex LinkedIn page is out of the sample now). The fall is the election pages losing their date (sample ballot 267 to 58 clicks, "what's open on Election Day", results night) and October puzzle pages ageing out; the Nov. 16 read is the first window with no election days in it. Manual actions and security issues need the owner's check.
+- **Still no briefs before Nov. 22.** The candidates of this read (Native American Heritage Month theme, Canada 2027 holidays, Halloween weekday, Hanukkah, Pret Christmas menu, Guru Nanak Jayanti) were retitled by the Nov. 8 headline migration; the Black Friday ad tracker was updated Nov. 13 and 14; Great American Christmas, CBS holiday specials and Native American Heritage Day are in the update desk's batch of Nov. 13-14; the rest are past events, puzzle pages, running experiments or dates Google answers. The only image gap is a dated puzzle page.
+- **Calendar site web 46 clicks, 5,333 impressions (week Nov. 5-11) against 55 and 5,956**; image 39 clicks against 67, 23,259 impressions against 41,911. The title template note of Nov. 7 (/september-calendars.html) stands. All four sitemaps 0 errors (/news/sitemap.xml 1,298 URLs, news sitemap 80).
+
 ## 2026-11-13 (search desk, evening)
 
 - **Same windows as the morning read (to Nov. 10), nothing new to decide.** Read of Nov. 13, 17:12 UTC: /news/ web week Nov. 4-10 2,627 clicks (-23%), 581,396 impressions (-10%); the gate still passes (indexed 74 of 75, no fall two weeks in a row), Monday's read decides. Sitemaps 0 errors.
