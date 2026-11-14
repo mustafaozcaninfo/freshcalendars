@@ -3,7 +3,7 @@ title: "Edinburgh's Christmas 2026 Dates: Opens 14 November, Ends 3 January"
 description: "Edinburgh's Christmas 2026 runs Saturday 14 November to Sunday 3 January. Big Wheel hours, Torchlight Procession on 29 December and a printable."
 type: news
 publishedAt: "2026-10-30T02:25:00-04:00"
-updatedAt: "2026-11-07T11:19:00-05:00"
+updatedAt: "2026-11-14T15:34:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Edinburgh's Christmas 2026 dates", "Edinburgh Christmas market 2026", "Edinburgh Big Wheel 2026 opening times", "Edinburgh Hogmanay 2026 torchlight procession date"]
@@ -11,7 +11,7 @@ dateline: "Edinburgh"
 hero:
   src: ../../../../assets/news/edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight/edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight.webp
   alt: "Big wheel in Princes Street Gardens beside the Scott Monument, file photo, ahead of Edinburgh's Christmas 2026 dates"
-  caption: "File photo of a big wheel in Princes Street Gardens beside the Scott Monument, from an earlier year. Edinburgh's Christmas 2026 opens Saturday 14 November."
+  caption: "File photo of a big wheel in Princes Street Gardens beside the Scott Monument, from an earlier year. Edinburgh's Christmas 2026 runs from 14 November to 3 January 2027."
   credit: "Photo: M J Richardson / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -23,7 +23,7 @@ summary:
   - "Edinburgh's Christmas runs from Saturday 14 November 2026 to Sunday 3 January 2027, according to the official website, edwinterfest.com."
   - "The Big Wheel is open 10:00 to 22:00 (last admission 21:30), with changed hours on 17 November, 24 to 26 December, 31 December, 1 January and 3 January, and closed on Christmas Day."
   - "The Torchlight Procession is Tuesday 29 December 2026 at 18:30, the Night Afore Party with The Fratellis is Wednesday 30 December at 18:00, and the Hogmanay Street Party is Thursday 31 December from 20:00, with prices from £10."
-  - "By our count the season lasts 51 days, counting both the first and last date. Market stall hours have not yet been published on the official site."
+  - "By our count the season lasts 51 days, counting both the first and last date. East Princes Street Gardens, home of the Traditional Christmas Markets, is open 10:00 to 22:00 daily with changed hours on seven dates; entry to the sites is free."
 faq:
   - q: "When does Edinburgh's Christmas 2026 start and end?"
     a: "It runs from Saturday 14 November 2026 to Sunday 3 January 2027, according to the official Edinburgh's Christmas website."
@@ -33,15 +33,25 @@ faq:
     a: "Tuesday 29 December 2026 at 18:30, according to the official Edinburgh's Hogmanay website. The event page says prices start from £5.75."
   - q: "When is the Edinburgh Hogmanay Street Party in 2026?"
     a: "Thursday 31 December 2026 from 20:00, according to the official website. The official listing gives prices from £10."
-  - q: "Are the Edinburgh Christmas market opening hours published?"
-    a: "Not yet. The official site publishes daily hours only for the Big Wheel so far, so check edwinterfest.com for stall hours and closed days."
+  - q: "What are the Edinburgh Christmas market opening hours?"
+    a: "The official Your Visit page gives hours for the site that holds the Traditional Christmas Markets, East Princes Street Gardens: 10:00 to 22:00 daily, with changes on seven dates and a closure on Christmas Day. It does not list hours for individual stalls, so check edwinterfest.com. Entry to the sites is free and non-ticketed, according to the official FAQs."
 sources:
   - title: "Edinburgh's Christmas - Official Website"
     url: "https://edwinterfest.com/edinburgh-christmas"
     publisher: "Edinburgh's Christmas (Unique Assembly)"
+    date: "2026-11-14"
+  - title: "Your Visit | Edinburgh's Christmas - Official Website"
+    url: "https://edwinterfest.com/edinburgh-christmas/your-visit"
+    publisher: "Edinburgh's Christmas (Unique Assembly)"
+    date: "2026-11-14"
+  - title: "FAQs | Edinburgh's Christmas"
+    url: "https://edwinterfest.com/edinburgh-christmas/faqs"
+    publisher: "Edinburgh's Christmas (Unique Assembly)"
+    date: "2026-11-14"
   - title: "Big Wheel | 14 Nov - 03 Jan | Edinburgh's Christmas"
     url: "https://edwinterfest.com/whats-on/lner-big-wheel"
     publisher: "Edinburgh's Christmas (Unique Assembly)"
+    date: "2026-11-14"
   - title: "Family Ice Experience with Icelandair"
     url: "https://edwinterfest.com/whats-on/family-ice-experience"
     publisher: "Edinburgh's Christmas (Unique Assembly)"
@@ -92,8 +102,8 @@ assets:
   overlay: true
   scene: winter-holidays
   kicker: "Edinburgh's Christmas · 14 Nov. 2026 to 3 Jan. 2027"
-  date: "2026-11-14"
-  card: { top: "Edinburgh's Christmas opens", big: "Sat., Nov. 14", bottom: "Torchlight Procession Tue., Dec. 29" }
+  date: "2026-12-29"
+  card: { top: "Torchlight Procession", big: "Tue., Dec. 29", bottom: "Edinburgh's Christmas to Jan. 3" }
   printable:
     slug: edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight
     group: edinburgh-christmas-2026
@@ -120,7 +130,7 @@ assets:
 
 **Edinburgh's Christmas 2026 runs from Saturday 14 November 2026 to Sunday 3 January 2027**, according to the official Edinburgh's Christmas website (edwinterfest.com), created and produced by Unique Assembly. Our day-by-day Big Wheel table and a one-page printable are below.
 
-Daily hours are published only for the Big Wheel so far. The official site has not yet published market stall hours or closed days, so this story does not give them.
+The official site publishes daily hours for the Big Wheel and for the sites that hold the markets, funfair and bars. It does not list hours for individual stalls, so this story does not give them.
 
 ## What are Edinburgh's Christmas 2026 dates?
 
@@ -164,9 +174,16 @@ The same evening, "Hogmanay in the Gardens with Underworld" is in West Princes S
 
 Early-bird tickets for the 2026 Street Party and Torchlight Procession went on sale on 9 January 2026 at 2025 prices, according to the festival's news page of that date.
 
-## What is not yet published?
+## What are the Edinburgh Christmas market opening hours?
 
-The official site does not yet say whether the Christmas market is free to enter, which sites it uses or when its stalls open and close. We have left those out and will not guess. Check edwinterfest.com before you travel.
+The official Your Visit page puts the Traditional Christmas Markets in East Princes Street Gardens and the fairground rides in West Princes Street Gardens. Entry to all Edinburgh's Christmas sites is free and non-ticketed, according to the official FAQs; attractions inside are booked online or at the point of entry.
+
+| Site | Usual hours, 14 November 2026 to 3 January 2027 | Changed hours |
+|---|---|---|
+| East Princes Street Gardens | Daily 10:00 to 22:00 | 17 Nov. 16:00 to 22:00; 24 Dec. 10:00 to 20:00; 25 Dec. closed; 26 Dec. 12:00 to 20:00; 31 Dec. 10:00 to 17:00; 1 Jan. 12:00 to 20:00; 3 Jan. 10:00 to 20:00 |
+| West Princes Street Gardens | Monday to Wednesday 12:00 to 20:00; Thursday and Friday 12:00 to 21:00; Saturday and Sunday 10:00 to 21:00 | 17 Nov. 13:00 to 20:00; 19 to 23 Dec. 11:00 to 21:00; 24 Dec. 11:00 to 19:00; 25 Dec. closed; 26 Dec. 12:00 to 20:00; 27 to 30 Dec. 12:00 to 21:00; 31 Dec. 12:00 to 17:00; 1 Jan. 12:00 to 20:00; 3 Jan. 10:00 to 20:00 |
+
+The page says opening times are subject to change and points to the @edinburghschristmas social channels for updates. It gives site hours, not hours for individual stalls, and we have not guessed those. Check edwinterfest.com before you travel.
 
 ## Which dates should you mark?
 
@@ -176,4 +193,4 @@ The printable lists eleven dates: the opening, the Big Wheel changes (including 
 
 Scotland's St Andrew's Day bank holiday falls on Monday 30 November 2026, inside the run; see our [St Andrew's Day 2026 story](/news/st-andrews-day-2026-scotland-bank-holiday-monday-november-30/). For other UK Christmas events, see our [Manchester and Birmingham Christmas markets story](/news/manchester-birmingham-christmas-markets-2026-dates-opening-times/) and the [Hyde Park Winter Wonderland 2026 story](/news/hyde-park-winter-wonderland-2026-dates-opening-times-tickets/).
 
-Dates and hours can change. The festival's official pages are the source for every time above, and stall hours are still to come.
+Dates and hours can change. The festival's official pages are the source for every time above.
