@@ -3,6 +3,7 @@ title: "Zoo Lights 2026 Dates: 12 Shows, Nov. 14 to Jan. 3, Closed Nights"
 description: "Zoo lights 2026 start Nov. 14 at Atlanta Botanical Garden; most zoo shows open Nov. 19-21 and run to Jan. 3, 2027. Closed nights and prices for 12 shows."
 type: news
 publishedAt: "2026-10-31T19:45:00-04:00"
+updatedAt: "2026-11-14T03:25:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["zoo lights 2026", "zoolights 2026 dates", "holiday lights at the zoo 2026", "when does zoo lights open", "zoo lights closed nights 2026"]
@@ -20,19 +21,19 @@ hero:
 summary:
   - "The first light show on our list opens Saturday, Nov. 14, 2026 at Atlanta Botanical Garden, which is a garden, not a zoo."
   - "Nine of the 12 shows open Nov. 19-21, 2026 and nine of the 12 end Sunday, Jan. 3, 2027, according to each venue's own website."
-  - "Lincoln Park Zoo, Los Angeles Zoo, Denver Zoo, Oregon Zoo and Cincinnati Zoo list Thanksgiving, Nov. 26, as closed; Houston Zoo lights are open on Christmas Day."
-  - "The prices that venues publish run from $7 to $35, and the Bronx Zoo, Houston Zoo and Atlanta Botanical Garden do not list a price in the text we checked."
+  - "Lincoln Park Zoo, Los Angeles Zoo, Denver Zoo and Cincinnati Zoo list Thanksgiving, Nov. 26, as closed; Houston Zoo lights are open on Christmas Day."
+  - "The prices that venues publish run from $7 to $35, and the Bronx Zoo, Houston Zoo and Atlanta Botanical Garden do not list a general admission price in the text we checked."
 faq:
   - q: "When does ZooLights open in 2026 at the National Zoo?"
-    a: "Friday, Nov. 20, 2026, according to the Smithsonian's National Zoo. It runs to Sunday, Jan. 3, 2027, Monday to Saturday 5 to 9 p.m. and Sunday 5 to 8 p.m., with general admission at $10."
+    a: "Friday, Nov. 20, 2026, according to the Smithsonian's National Zoo. It runs to Sunday, Jan. 3, 2027, Monday to Saturday 5 to 9 p.m. and Sunday 5 to 8 p.m., with general admission at $10 and parking at $30 in advance or $40 on the day."
   - q: "When do the Bronx Zoo Holiday Lights start in 2026?"
-    a: "Saturday, Nov. 21, 2026, on select dates through Sunday, Jan. 3, 2027, according to the Bronx Zoo. Tickets are required and must be reserved in advance. The page we checked lists no price or hours."
+    a: "Saturday, Nov. 21, 2026, on select dates through Sunday, Jan. 3, 2027, according to the Bronx Zoo. Tickets are required and must be reserved in advance. The page we checked lists no general admission price or hours, and the Member Preview dates, Nov. 19 and 20, are sold out."
   - q: "Is Lincoln Park Zoo ZooLights free?"
-    a: "Mondays are free with a reservation, according to Lincoln Park Zoo. Other nights, fixed-date tickets are $7 to $12 in advance and $20 on the day, and flexible tickets are $20."
+    a: "Mondays are free with a required reservation, except Dec. 21 and 28, according to Lincoln Park Zoo. Other nights, fixed-date tickets are $7 to $12 in advance and $20 on the day, and flexible tickets are $20."
   - q: "Which zoo light show starts last in 2026?"
     a: "San Diego Zoo Jungle Bells, which starts Saturday, Dec. 19, 2026, with a member preview on Friday, Dec. 18, according to the San Diego Zoo."
   - q: "Which zoo lights are open on Christmas Day 2026?"
-    a: "Houston Zoo Lights is open Friday, Dec. 25, 2026, according to the Houston Zoo. Lincoln Park, Los Angeles, Denver, Oregon, Philadelphia and Cincinnati list Dec. 25 as closed."
+    a: "Houston Zoo Lights is open Friday, Dec. 25, 2026, according to the Houston Zoo. Lincoln Park, Los Angeles, Denver, Philadelphia and Cincinnati list Dec. 25 as closed."
 downloads:
   - group: "Zoo Lights 2026 Opening and Closing Dates printables"
     title: "Zoo Lights 2026 Opening and Closing Dates"
@@ -157,29 +158,29 @@ Hours are local time. "Not listed" means the page we checked did not state it.
 | Opens | Show and city | Closes | Hours | Price on the venue's page |
 |---|---|---|---|---|
 | Sat., Nov. 14 | Atlanta Botanical Garden, Garden Lights, Holiday Nights | Sun., Jan. 10, 2027 | Timed tickets; hours not listed | Not listed; members save $5 |
-| Thu., Nov. 19 | Philadelphia Zoo, LumiNature | Sat., Jan. 9, 2027 | Select nights, 5 to 9 p.m. | General admission $27-31; parking $22 |
-| Thu., Nov. 19 | Houston Zoo Lights | Sun., Jan. 3, 2027 | 5:30 to 10:30 p.m., last entry 9:30 p.m. | Not listed; date-specific tickets with an arrival window |
+| Thu., Nov. 19 | Philadelphia Zoo, LumiNature | Sat., Jan. 9, 2027 | Select nights; hours not listed on the zoo's page | General admission $27-31; members $16 on Nov. 19-22 and 24, Dec. 2 and 7-9, Jan. 2-3; parking $22 |
+| Thu., Nov. 19 | Houston Zoo Lights | Sun., Jan. 3, 2027 | 5:30 to 10:30 p.m., last entry 9:30 p.m. | General price not listed; member preview $14.95 per person per night; date-specific tickets with an arrival window |
 | Thu., Nov. 19 | Cincinnati Zoo, Festival of Lights | Sun., Jan. 3, 2027 | Sun. to Thu. until 9 p.m.; Fri., Sat. and Dec. 20-31 until 10 p.m.; light activities from 4 p.m. | Included in zoo admission |
-| Fri., Nov. 20 | Smithsonian's National Zoo ZooLights, Washington, D.C. | Sun., Jan. 3, 2027 | Mon. to Sat. 5 to 9 p.m.; Sun. 5 to 8 p.m. | $10 general admission; Adults-Only Night Dec. 16, $19 |
-| Fri., Nov. 20 | Lincoln Park Zoo ZooLights, Chicago | Sun., Jan. 3, 2027 | 4:30 to 9 p.m., last entry 8 p.m. | $7-12 fixed-date in advance, $20 day-of; flexible $20; Mondays free with a reservation |
-| Fri., Nov. 20 | Los Angeles Zoo, L.A. Zoo Lights | Sun., Jan. 10, 2027 | Select evenings; two timed entry times | From $19; adults $29-35, children $19-25, under 2 free |
+| Fri., Nov. 20 | Smithsonian's National Zoo ZooLights, Washington, D.C. | Sun., Jan. 3, 2027 | Mon. to Sat. 5 to 9 p.m.; Sun. 5 to 8 p.m. | $10 general admission; Adults-Only Night Dec. 16, $19; parking $30 in advance, $40 day-of |
+| Fri., Nov. 20 | Lincoln Park Zoo ZooLights, Chicago | Sun., Jan. 3, 2027 | 4:30 to 9 p.m., last entry 8 p.m. | $7-12 fixed-date in advance, $20 day-of; flexible $20; Mondays free with a required reservation, except Dec. 21 and 28 |
+| Fri., Nov. 20 | Los Angeles Zoo, L.A. Zoo Lights | Sun., Jan. 10, 2027 | Select evenings; box office 5:45 to 8:45 p.m. | From $19 |
 | Fri., Nov. 20 | Oregon Zoo ZooLights, Portland | Sun., Jan. 3, 2027 | Opens 4:30 p.m.; closes 8:30 to 10:30 p.m. | Adults $13-35, youth $13-30; dated tickets |
-| Sat., Nov. 21 | Bronx Zoo Holiday Lights, New York City | Sun., Jan. 3, 2027 | Select dates; hours not listed | Not listed; tickets must be reserved in advance |
+| Sat., Nov. 21 | Bronx Zoo Holiday Lights, New York City | Sun., Jan. 3, 2027 | Select dates; hours not listed | General price not listed; Holiday Train $4 ($3 members); Cookies & Cocoa $50 per member household; member previews sold out |
 | Sat., Nov. 21 | Brookfield Zoo Chicago, Holiday Magic | Sun., Jan. 3, 2027 | Select dates, 3 to 9 p.m. | From $29.95; free with membership |
 | Mon., Nov. 23 | Denver Zoo Lights ("Zoo Lights 35") | Sun., Jan. 3, 2027 | Sun. to Thu. 4:30 to 9 p.m.; Fri. and Sat. 4:30 to 10 p.m. | Adults $29.95 standard, $25.95 value; youth $22.95 and $18.95; 2 and under free |
 | Sat., Dec. 19 | San Diego Zoo, Jungle Bells | Sun., Jan. 3, 2027 | Zoo open until 8 p.m. | Included with admission and membership |
 
-Denver's show is in its 35th season. San Diego's member preview is Friday, Dec. 18. Houston's member preview is Nov. 17-18, and the National Zoo lists member nights Dec. 8-9.
+Denver's show is in its 35th season. San Diego's member preview is Friday, Dec. 18. Houston's member preview is Nov. 17-18, the National Zoo lists member nights Dec. 8-9 and the Bronx Zoo's Member Preview dates, Nov. 19 and 20, are sold out. The Bronx Zoo's Cookies & Cocoa nights are Dec. 13 and 20.
 
 ## Nights each zoo is closed
 
 | Show | Closed or not listed on the venue's page |
 |---|---|
 | Lincoln Park Zoo | Closed Nov. 26, Dec. 1, 8, 15, 24 and 25 |
-| Brookfield Zoo Chicago | The dates on the zoo's calendar do not include Nov. 26 and 30; Dec. 1-2, 7-9, 14-16, 24 and 25 |
+| Brookfield Zoo Chicago | No closed nights listed; open only on Nov. 21-25 and 27-29, Dec. 3-6, 10-13, 17-23 and 26-31, and Jan. 1-3 |
 | Los Angeles Zoo | Closed Nov. 26 and 30; Dec. 1, 7, 14-16, 24, 25 and 31; Jan. 4-7 |
 | Denver Zoo | Closed Thanksgiving and Christmas |
-| Oregon Zoo | Closed Nov. 24-26 and Dec. 25 |
+| Oregon Zoo | Closed nights not listed on the zoo's page |
 | Philadelphia Zoo | Closed Dec. 24, Dec. 25 and Jan. 1 |
 | Houston Zoo | Closed Wednesday, Dec. 9 and Thursday, Dec. 24 |
 | Cincinnati Zoo | Closed Nov. 26, Dec. 24 and Dec. 25 |
@@ -191,15 +192,15 @@ Show-by-show closures matter because Brookfield, Los Angeles, the Bronx and Phil
 
 ## Thanksgiving week and Christmas Day at zoo lights
 
-Thanksgiving is Thursday, Nov. 26, 2026 (see [when is Thanksgiving](/when-is/thanksgiving/)). Lincoln Park, Los Angeles, Denver, Oregon and Cincinnati list it as closed, and Brookfield's calendar dates skip it. Oregon's closure covers Tuesday, Nov. 24 to Thursday, Nov. 26. Houston, Philadelphia, the National Zoo and Atlanta do not list Nov. 26 as closed.
+Thanksgiving is Thursday, Nov. 26, 2026 (see [when is Thanksgiving](/when-is/thanksgiving/)). Lincoln Park, Los Angeles, Denver and Cincinnati list it as closed, and Brookfield's operating dates skip it. Oregon, Houston, Philadelphia, the National Zoo and Atlanta do not list Nov. 26 as closed.
 
-On Christmas Day, Friday, Dec. 25, Houston Zoo Lights is open; the Houston Zoo lists only Dec. 24 and Dec. 9 as closed. Lincoln Park, Los Angeles, Denver, Oregon, Philadelphia and Cincinnati list Dec. 25 as closed, and Brookfield's dates skip it. San Diego's page excludes only Dec. 24 and does not mention Dec. 25, and the National Zoo, Bronx Zoo and Atlanta pages do not list it either.
+On Christmas Day, Friday, Dec. 25, Houston Zoo Lights is open; the Houston Zoo lists only Dec. 24 and Dec. 9 as closed. Lincoln Park, Los Angeles, Denver, Philadelphia and Cincinnati list Dec. 25 as closed, and Brookfield's dates skip it. San Diego's page excludes only Dec. 24 and does not mention Dec. 25, and the National Zoo, Bronx Zoo and Atlanta pages do not list it either.
 
 ## Ticket rules and timed entry before you go
 
 - **Advance tickets required:** the Bronx Zoo says tickets are required and must be reserved in advance, and its ticket page says entry after 12 p.m. on Holiday Lights dates requires a Holiday Lights ticket. Philadelphia requires advance online reservations.
 - **Brookfield:** the South Gate requires advance tickets and parking reservations.
-- **Timed or dated entry:** Houston sells date-specific tickets with an arrival window, Atlanta uses timed tickets, the Los Angeles Zoo has two entry times and Oregon sells dated tickets.
+- **Timed or dated entry:** Houston sells date-specific tickets with an arrival window, Atlanta uses timed tickets and Oregon sells dated tickets.
 - **Last entry:** Lincoln Park's last entry is 8 p.m., and Houston's is 9:30 p.m.
 - **Price swings:** Lincoln Park's day-of tickets are $20 against $7-12 in advance for fixed dates.
 
