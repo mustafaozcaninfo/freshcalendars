@@ -9,7 +9,7 @@ category: holidays
 keywords: ["christmas tree permit 2026", "national forest christmas tree permit", "recreation.gov christmas tree permit", "free christmas tree fourth grade"]
 hero:
   src: ../../../../assets/news/christmas-tree-permits-2026-national-forests-prices-dates/christmas-tree-permits-2026-national-forests-prices-dates.webp
-  alt: "A person drags a freshly cut Christmas tree through snow with a child and a dog in Bridger-Teton National Forest, a file photo for the Christmas tree permit 2026 guide"
+  alt: "A person drags a freshly cut Christmas tree through snow with a child and a dog in Bridger-Teton National Forest, Christmas tree permit"
   caption: "File photo, December 2017: a person drags a freshly cut Christmas tree through snow in Bridger-Teton National Forest, Wyoming, with a child and a dog."
   credit: "Photo: US Forest Service / Wikimedia Commons, edited"
   license:
