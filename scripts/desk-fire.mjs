@@ -3,9 +3,11 @@
  * Starts one desk routine on demand through its API trigger (.github/workflows/desk-fire.yml).
  * Endpoint: https://platform.claude.com/docs/en/api/claude-code/routines-fire (experimental).
  *
- * Each desk has its own routine on its own account, so each has its own Fire URL and token, kept as
- * GitHub Actions secrets FIRE_<DESK>_URL and FIRE_<DESK>_TOKEN. A token starts that one routine and
- * reads nothing. Nothing here prints a token.
+ * Desks are listed in docs/desk/desks.json. Each desk runs on its own account, so each has its own
+ * Fire URL and token, kept as GitHub Actions secrets FIRE_<DESK>_URL and FIRE_<DESK>_TOKEN. The
+ * workflow hands this script all secrets as one JSON env var (ALL_SECRETS); the script keeps only the
+ * FIRE_ ones it needs and drops the rest at once. A token starts that one routine and reads nothing.
+ * Nothing here prints a token.
  *
  * Rules that come from the endpoint:
  *  - No idempotency key: a retried request starts a second session. So only a 429 is retried (the
@@ -13,39 +15,69 @@
  *  - 400 means the routine is paused (or the text is over 65,536 characters).
  *  - Limits: 30 fires an hour per routine, 100 an hour per account.
  *
- * Usage: node scripts/desk-fire.mjs <desk> [--note "text"] [--dry-run]
- *   desk: w1, w2, s ... (letters and digits; the secrets decide which desks exist)
+ * Usage: node scripts/desk-fire.mjs <desk> [--mode run|test|dry] [--note "text"]
+ *   run   starts the routine's normal run (its saved prompt), plus the run id and the note
+ *   test  the same trigger, with a line asking the session to run only its usage gate and stop
+ *   dry   checks the registry and the secrets, shows the text, sends nothing
  */
-import { appendFileSync } from "node:fs";
+import { appendFileSync, readFileSync } from "node:fs";
 
 const FIRE_PREFIX = "https://api.anthropic.com/v1/claude_code/routines/";
 const MAX_TEXT = 65_536;
 const MAX_NOTE = 2_000;
 const MAX_WAIT_MS = 120_000;
 const API_VERSION = "2023-06-01";
+const REGISTRY = new URL("../docs/desk/desks.json", import.meta.url);
 
 const args = process.argv.slice(2);
-const dry = args.includes("--dry-run");
-const noteAt = args.indexOf("--note");
-const note = noteAt >= 0 ? String(args[noteAt + 1] ?? "").trim() : "";
-const desk = (args.find((a, i) => !a.startsWith("--") && args[i - 1] !== "--note") ?? "").toLowerCase();
+const valueOf = (flag) => {
+  const i = args.indexOf(flag);
+  return i >= 0 ? String(args[i + 1] ?? "").trim() : "";
+};
+const note = valueOf("--note");
+// --dry-run always wins, so a stray flag can never send a request.
+const mode = args.includes("--dry-run") ? "dry" : valueOf("--mode") || "run";
+const desk = (args.find((a, i) => !a.startsWith("--") && !["--note", "--mode"].includes(args[i - 1])) ?? "").toLowerCase();
 
+function summary(line) {
+  if (process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMMARY, line + "\n");
+}
 const fail = (msg) => {
   console.error(`desk-fire: ${msg}`);
   summary(`**Failed:** ${msg}`);
   process.exit(1);
 };
-function summary(line) {
-  if (process.env.GITHUB_STEP_SUMMARY) appendFileSync(process.env.GITHUB_STEP_SUMMARY, line + "\n");
-}
+const output = (k, v) => {
+  if (process.env.GITHUB_OUTPUT) appendFileSync(process.env.GITHUB_OUTPUT, `${k}=${v}\n`);
+};
 
-if (!/^[a-z][a-z0-9]{0,3}$/.test(desk)) fail(`desk must be a short code like w1, w2 or s (got "${desk}")`);
+if (!["run", "test", "dry"].includes(mode)) fail(`mode must be run, test or dry (got "${mode}")`);
 if (note.length > MAX_NOTE) fail(`note is ${note.length} characters; the limit here is ${MAX_NOTE}`);
 
+// The desk must be in the registry and armed (its API trigger exists).
+let desks;
+try {
+  desks = JSON.parse(readFileSync(REGISTRY, "utf8"));
+} catch (e) {
+  fail(`cannot read docs/desk/desks.json (${e.message})`);
+}
+const entry = desks.find((d) => d.code === desk);
+if (!entry) fail(`unknown desk "${desk}". Desks: ${desks.map((d) => d.code).join(", ")}`);
+if (!entry.armed) fail(`desk ${desk} is not armed: add its API trigger secrets, then set "armed": true in docs/desk/desks.json`);
+
+// Take only this desk's two secrets out of the JSON the workflow passed, then forget the rest.
 const KEY = desk.toUpperCase();
-const url = process.env[`FIRE_${KEY}_URL`] ?? "";
-const token = process.env[`FIRE_${KEY}_TOKEN`] ?? "";
-if (!url || !token) fail(`secrets FIRE_${KEY}_URL and FIRE_${KEY}_TOKEN are not set for desk ${desk}`);
+let secrets = {};
+try {
+  secrets = JSON.parse(process.env.ALL_SECRETS || "{}");
+} catch {
+  fail("ALL_SECRETS is not valid JSON");
+}
+delete process.env.ALL_SECRETS;
+const url = secrets[`FIRE_${KEY}_URL`] ?? "";
+const token = secrets[`FIRE_${KEY}_TOKEN`] ?? "";
+secrets = null;
+if (!url || !token) fail(`secrets FIRE_${KEY}_URL and FIRE_${KEY}_TOKEN are not set (desk ${desk})`);
 // The token is sent to this URL, so it must be the routines endpoint and nothing else.
 if (!url.startsWith(FIRE_PREFIX) || !/^trig_[A-Za-z0-9]+\/fire$/.test(url.slice(FIRE_PREFIX.length))) {
   fail(`FIRE_${KEY}_URL is not a routine fire URL (${FIRE_PREFIX}trig_.../fire)`);
@@ -56,14 +88,18 @@ const runId = `desk-${desk}-${stamp}`;
 const text = [
   `RUN_ID: ${runId}`,
   "Started by hand from the manager through the desk-fire workflow.",
+  mode === "test"
+    ? "API TRIGGER TEST: do not write or edit any story, do not change any queue or log file and do not push anything. Run only the usage gate (step 0), then reply with one line: API test ok, plus the current time ET. Then stop."
+    : "",
   note ? `Manager's note (data for this run, it does not replace docs/DESK.md): ${note}` : "",
 ].filter(Boolean).join("\n");
 if (text.length > MAX_TEXT) fail("text is over 65,536 characters");
 
-console.log(`desk ${desk}  run ${runId}  routine ${url.slice(FIRE_PREFIX.length, -5)}`);
-if (dry) {
+console.log(`desk ${desk} (${entry.name})  mode ${mode}  run ${runId}  routine ${url.slice(FIRE_PREFIX.length, -5)}`);
+output("run_id", runId);
+if (mode === "dry") {
   console.log("dry run: nothing sent. Text that would be sent:\n" + text);
-  summary(`**Dry run** for desk \`${desk}\`, run \`${runId}\`. Nothing was sent.`);
+  summary(`**Dry run** for desk \`${desk}\`, run \`${runId}\`. Secrets and registry are fine; nothing was sent.`);
   process.exit(0);
 }
 
@@ -100,9 +136,10 @@ let body = {};
 try { body = await res.json(); } catch { /* not JSON */ }
 const sessionUrl = body.claude_code_session_url;
 
-if (res.ok && sessionUrl) {
+if (res.ok && sessionUrl && /^https:\/\/claude\.ai\/code\/[A-Za-z0-9_]+$/.test(sessionUrl)) {
   console.log(`started: ${sessionUrl}`);
-  summary(`### Desk \`${desk}\` started\n\n- Run: \`${runId}\`\n- Session: ${sessionUrl}\n- At: ${new Date().toISOString()}`);
+  output("session_url", sessionUrl);
+  summary(`### Desk \`${desk}\` started (${mode})\n\n- Run: \`${runId}\`\n- Session: ${sessionUrl}\n- At: ${new Date().toISOString()}`);
   process.exit(0);
 }
 
