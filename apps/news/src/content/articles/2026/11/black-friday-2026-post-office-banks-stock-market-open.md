@@ -104,7 +104,7 @@ internalLinks:
     label: "When is Black Friday"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving"
-related: [is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, black-friday-2026-store-hours-walmart-target-best-buy]
+related: [is-post-office-open-thanksgiving-2026-banks-stock-market, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, black-friday-2026-store-hours-walmart-target-best-buy]
 downloads:
   - group: "Thanksgiving Week 2026 printables"
     title: "Thanksgiving Week 2026: Open or Closed, Nov. 26-27"

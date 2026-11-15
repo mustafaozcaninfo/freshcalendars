@@ -34,6 +34,7 @@ import { buildSuperBowlSquaresDownloads } from "./superBowlSquares.js";
 import { buildDryJanuaryDownloads } from "./dryJanuary.js";
 import { buildJanuaryResetDownloads } from "./januaryReset.js";
 import { buildThanksgivingCookingDownloads } from "./thanksgivingCooking.js";
+import { buildThanksgivingPrintablesDownloads } from "./thanksgivingPrintables.js";
 import { buildShoppingDownloads } from "./shopping2026.js";
 import { buildSkyDownloads } from "./sky2026.js";
 import { buildHeroes5 } from "./heroes5.js";
@@ -176,6 +177,8 @@ async function main(): Promise<void> {
       await buildGiftListDownloads();
     } else if (cmd === "news-thanksgiving-cooking") {
       await buildThanksgivingCookingDownloads();
+    } else if (cmd === "news-thanksgiving-printables") {
+      await buildThanksgivingPrintablesDownloads();
     } else if (cmd === "news-shopping") {
       await buildShoppingDownloads();
     } else if (cmd === "news-sky") {
@@ -276,6 +279,7 @@ async function main(): Promise<void> {
   pnpm fc news-january-reset               # /news/ January 2027 reset planner: 4-page PDF
   pnpm fc news-dry-january                 # /news/ Dry January 2027 31-day tracker
   pnpm fc news-thanksgiving-cooking        # /news/ Thanksgiving Day 2026 cooking plan by turkey weight
+  pnpm fc news-thanksgiving-printables     # /news/ Thanksgiving place cards, gratitude cards and word search
   pnpm fc news-shopping                    # /news/ Black Friday planner + Christmas Eve checklist (3 themes each)
   pnpm fc news-sky                         # /news/ Orionid viewing times + checklist (night, ink)
   pnpm fc news-heroes5                     # /news/ spoiler-free heroes for daily puzzle stories
