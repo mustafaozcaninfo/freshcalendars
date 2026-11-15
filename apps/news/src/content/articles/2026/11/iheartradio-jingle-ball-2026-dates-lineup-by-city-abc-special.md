@@ -69,7 +69,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, great-american-christmas-2026-movie-schedule-great-american-family, coachella-stagecoach-2027-dates-lineup-indio]
+related: [nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, mariah-carey-christmas-tour-2026-uk-dates, coachella-stagecoach-2027-dates-lineup-indio]
 downloads:
   - group: "Jingle Ball 2026 Tour Dates printables"
     title: "Jingle Ball 2026 Tour Dates, December"
