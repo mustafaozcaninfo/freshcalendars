@@ -1,13 +1,7 @@
 {
- "generatedAt": "2026-11-14T15:48:57.239Z",
+ "generatedAt": "2026-11-15T09:14:20.468Z",
  "site": "https://freshcalendars.com/",
  "daily": [
-  {
-   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
-   "Clicks": 3,
-   "Date": "/Date(1752451200000)/",
-   "Impressions": 9557
-  },
   {
    "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
    "Clicks": 5,
@@ -2917,24 +2911,62 @@
    "Clicks": 1058,
    "Date": "/Date(1794355200000)/",
    "Impressions": 92127
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 361,
+   "Date": "/Date(1794441600000)/",
+   "Impressions": 60607
   }
  ],
  "queries": [
   {
+   "key": "veterans day 2026 free meals",
+   "clicks": 577,
+   "impressions": 25857,
+   "posW": 127843,
+   "position": 4.94423173608694,
+   "ctr": 0.022315040414587924
+  },
+  {
    "key": "dia de los muertos 2026",
-   "clicks": 324,
-   "impressions": 16139,
-   "posW": 32278,
-   "position": 2,
-   "ctr": 0.02007559328335089
+   "clicks": 333,
+   "impressions": 16517,
+   "posW": 32656,
+   "position": 1.9771144881031664,
+   "ctr": 0.02016104619482957
+  },
+  {
+   "key": "marine corps birthday 2026",
+   "clicks": 9,
+   "impressions": 6804,
+   "posW": 47628,
+   "position": 7,
+   "ctr": 0.0013227513227513227
+  },
+  {
+   "key": "home depot black friday 2026",
+   "clicks": 31,
+   "impressions": 6006,
+   "posW": 39132,
+   "position": 6.515484515484515,
+   "ctr": 0.005161505161505162
   },
   {
    "key": "day of the dead 2026",
-   "clicks": 69,
-   "impressions": 5506,
-   "posW": 12496,
-   "position": 2.2695241554667636,
-   "ctr": 0.012531783508899382
+   "clicks": 73,
+   "impressions": 5693,
+   "posW": 12870,
+   "position": 2.260670999473037,
+   "ctr": 0.012822764798875813
+  },
+  {
+   "key": "free veterans day meals 2026",
+   "clicks": 37,
+   "impressions": 3175,
+   "posW": 18896,
+   "position": 5.951496062992126,
+   "ctr": 0.011653543307086614
   },
   {
    "key": "ballon d'or 2026 start time",
@@ -2961,6 +2993,14 @@
    "ctr": 0.0006765899864682003
   },
   {
+   "key": "army navy game 2026",
+   "clicks": 39,
+   "impressions": 2638,
+   "posW": 8788,
+   "position": 3.3313115996967397,
+   "ctr": 0.014783927217589083
+  },
+  {
    "key": "what time is the ballon d'or ceremony",
    "clicks": 25,
    "impressions": 2574,
@@ -2985,12 +3025,12 @@
    "ctr": 0.0017293558149589277
   },
   {
-   "key": "veterans day 2026 free meals",
-   "clicks": 108,
-   "impressions": 2242,
-   "posW": 9768,
-   "position": 4.356824264049956,
-   "ctr": 0.04817127564674398
+   "key": "veterans day free meals 2026",
+   "clicks": 52,
+   "impressions": 2194,
+   "posW": 15358,
+   "position": 7,
+   "ctr": 0.023701002734731084
   },
   {
    "key": "movember 2026",
@@ -3002,11 +3042,19 @@
   },
   {
    "key": "dias de los muertos 2026",
-   "clicks": 31,
-   "impressions": 1936,
-   "posW": 5561,
-   "position": 2.872417355371901,
-   "ctr": 0.016012396694214875
+   "clicks": 33,
+   "impressions": 2004,
+   "posW": 5697,
+   "position": 2.842814371257485,
+   "ctr": 0.016467065868263474
+  },
+  {
+   "key": "when is remembrance sunday 2026",
+   "clicks": 5,
+   "impressions": 1988,
+   "posW": 15904,
+   "position": 8,
+   "ctr": 0.0025150905432595573
   },
   {
    "key": "when is dia de los muertos 2026",
@@ -3017,12 +3065,44 @@
    "ctr": 0.03194369247428262
   },
   {
+   "key": "free meals for veterans 2026",
+   "clicks": 25,
+   "impressions": 1803,
+   "posW": 9015,
+   "position": 5,
+   "ctr": 0.013865779256794232
+  },
+  {
+   "key": "is costco open on veterans day",
+   "clicks": 38,
+   "impressions": 1752,
+   "posW": 5273,
+   "position": 3.009703196347032,
+   "ctr": 0.021689497716894976
+  },
+  {
    "key": "ballon d'or 2026 date",
    "clicks": 7,
    "impressions": 1750,
    "posW": 8750,
    "position": 5,
    "ctr": 0.004
+  },
+  {
+   "key": "world kindness day 2026",
+   "clicks": 4,
+   "impressions": 1687,
+   "posW": 13496,
+   "position": 8,
+   "ctr": 0.0023710729104919974
+  },
+  {
+   "key": "veterans day free meals",
+   "clicks": 38,
+   "impressions": 1631,
+   "posW": 11339,
+   "position": 6.952176578786021,
+   "ctr": 0.023298589822194973
   },
   {
    "key": "when is the ballon d'or 2026",
@@ -3033,20 +3113,36 @@
    "ctr": 0.00211118930330753
   },
   {
-   "key": "when is remembrance sunday 2026",
-   "clicks": 1,
-   "impressions": 1396,
-   "posW": 11168,
-   "position": 8,
-   "ctr": 0.0007163323782234957
-  },
-  {
    "key": "halloween 2026 date",
    "clicks": 1,
    "impressions": 1316,
    "posW": 10398,
    "position": 7.901215805471125,
    "ctr": 0.0007598784194528875
+  },
+  {
+   "key": "bonfire night 2026",
+   "clicks": 6,
+   "impressions": 1310,
+   "posW": 9170,
+   "position": 7,
+   "ctr": 0.004580152671755725
+  },
+  {
+   "key": "usmc birthday 2026",
+   "clicks": 3,
+   "impressions": 1201,
+   "posW": 7206,
+   "position": 6,
+   "ctr": 0.002497918401332223
+  },
+  {
+   "key": "singles day 2026",
+   "clicks": 4,
+   "impressions": 1184,
+   "posW": 7104,
+   "position": 6,
+   "ctr": 0.0033783783783783786
   },
   {
    "key": "ballon d'or time",
@@ -3065,12 +3161,12 @@
    "ctr": 0.029159519725557463
   },
   {
-   "key": "bonfire night 2026",
-   "clicks": 4,
-   "impressions": 1141,
-   "posW": 7987,
-   "position": 7,
-   "ctr": 0.0035056967572304996
+   "key": "native american heritage month 2026",
+   "clicks": 13,
+   "impressions": 1146,
+   "posW": 5730,
+   "position": 5,
+   "ctr": 0.011343804537521814
   },
   {
    "key": "time change fall 2026",
@@ -3089,12 +3185,12 @@
    "ctr": 0.02321262766945218
   },
   {
-   "key": "native american heritage month 2026",
-   "clicks": 11,
-   "impressions": 1012,
-   "posW": 5060,
-   "position": 5,
-   "ctr": 0.010869565217391304
+   "key": "operation christmas child 2026",
+   "clicks": 4,
+   "impressions": 1026,
+   "posW": 4104,
+   "position": 4,
+   "ctr": 0.003898635477582846
   },
   {
    "key": "what time does trick or treat start 2026",
@@ -3105,12 +3201,36 @@
    "ctr": 0.002976190476190476
   },
   {
-   "key": "home depot black friday 2026",
-   "clicks": 22,
-   "impressions": 970,
-   "posW": 3880,
-   "position": 4,
-   "ctr": 0.02268041237113402
+   "key": "nurse practitioner week 2026",
+   "clicks": 9,
+   "impressions": 999,
+   "posW": 2997,
+   "position": 3,
+   "ctr": 0.009009009009009009
+  },
+  {
+   "key": "free meals veterans day 2026",
+   "clicks": 18,
+   "impressions": 990,
+   "posW": 4950,
+   "position": 5,
+   "ctr": 0.01818181818181818
+  },
+  {
+   "key": "royal winter fair 2026",
+   "clicks": 2,
+   "impressions": 977,
+   "posW": 7816,
+   "position": 8,
+   "ctr": 0.0020470829068577278
+  },
+  {
+   "key": "veterans day 2026 free meals list",
+   "clicks": 39,
+   "impressions": 968,
+   "posW": 3990,
+   "position": 4.121900826446281,
+   "ctr": 0.040289256198347105
   },
   {
    "key": "when is day of the dead 2026",
@@ -3137,6 +3257,22 @@
    "ctr": 0.002162162162162162
   },
   {
+   "key": "international men's day 2026",
+   "clicks": 2,
+   "impressions": 921,
+   "posW": 4605,
+   "position": 5,
+   "ctr": 0.002171552660152009
+  },
+  {
+   "key": "np week 2026",
+   "clicks": 7,
+   "impressions": 850,
+   "posW": 2550,
+   "position": 3,
+   "ctr": 0.00823529411764706
+  },
+  {
    "key": "when is halloween 2026 calendar",
    "clicks": 1,
    "impressions": 823,
@@ -3151,6 +3287,14 @@
    "posW": 2624,
    "position": 3.2395061728395063,
    "ctr": 0.020987654320987655
+  },
+  {
+   "key": "patoot tea",
+   "clicks": 33,
+   "impressions": 782,
+   "posW": 1564,
+   "position": 2,
+   "ctr": 0.04219948849104859
   },
   {
    "key": "when is bonfire night 2026",
@@ -3169,6 +3313,14 @@
    "ctr": 0.0027137042062415195
   },
   {
+   "key": "2027 calendar with week numbers",
+   "clicks": 7,
+   "impressions": 728,
+   "posW": 3740,
+   "position": 5.137362637362638,
+   "ctr": 0.009615384615384616
+  },
+  {
    "key": "tesco christmas delivery slots 2026",
    "clicks": 7,
    "impressions": 701,
@@ -3183,6 +3335,14 @@
    "posW": 2025,
    "position": 3,
    "ctr": 0.01037037037037037
+  },
+  {
+   "key": "when is veterans day 2026",
+   "clicks": 4,
+   "impressions": 640,
+   "posW": 5120,
+   "position": 8,
+   "ctr": 0.00625
   },
   {
    "key": "milwaukee brewers parade route",
@@ -3207,6 +3367,14 @@
    "posW": 4880,
    "position": 8,
    "ctr": 0.009836065573770493
+  },
+  {
+   "key": "free meals on veterans day",
+   "clicks": 13,
+   "impressions": 599,
+   "posW": 3582,
+   "position": 5.979966611018364,
+   "ctr": 0.021702838063439065
   },
   {
    "key": "when is trick or treat 2026",
@@ -3239,6 +3407,14 @@
    "posW": 1686,
    "position": 3,
    "ctr": 0.0017793594306049821
+  },
+  {
+   "key": "is costco open on veterans day 2026",
+   "clicks": 9,
+   "impressions": 557,
+   "posW": 557,
+   "position": 1,
+   "ctr": 0.01615798922800718
   },
   {
    "key": "ballon d'or ceremony time",
@@ -3281,6 +3457,14 @@
    "ctr": 0.04330708661417323
   },
   {
+   "key": "veterans day free meals list 2026",
+   "clicks": 51,
+   "impressions": 506,
+   "posW": 1070,
+   "position": 2.1146245059288535,
+   "ctr": 0.1007905138339921
+  },
+  {
    "key": "when does trick or treating start 2026",
    "clicks": 1,
    "impressions": 502,
@@ -3295,14 +3479,6 @@
    "posW": 1491,
    "position": 3,
    "ctr": 0.012072434607645875
-  },
-  {
-   "key": "world kindness day 2026",
-   "clicks": 1,
-   "impressions": 492,
-   "posW": 3936,
-   "position": 8,
-   "ctr": 0.0020325203252032522
   },
   {
    "key": "milwaukee brewers parade",
@@ -3321,20 +3497,20 @@
    "ctr": 0.01882845188284519
   },
   {
+   "key": "walmart black friday deals 2026",
+   "clicks": 2,
+   "impressions": 471,
+   "posW": 2826,
+   "position": 6,
+   "ctr": 0.004246284501061571
+  },
+  {
    "key": "week 9 pick sheet 2026",
    "clicks": 8,
    "impressions": 460,
    "posW": 2760,
    "position": 6,
    "ctr": 0.017391304347826087
-  },
-  {
-   "key": "army navy game 2026",
-   "clicks": 5,
-   "impressions": 437,
-   "posW": 2185,
-   "position": 5,
-   "ctr": 0.011441647597254004
   },
   {
    "key": "ballon d'or 2026 ceremony time",
@@ -3353,6 +3529,22 @@
    "ctr": 0.0024752475247524753
   },
   {
+   "key": "macy's thanksgiving day parade 2026",
+   "clicks": 4,
+   "impressions": 399,
+   "posW": 1596,
+   "position": 4,
+   "ctr": 0.010025062656641603
+  },
+  {
+   "key": "week 10 pick sheet 2026",
+   "clicks": 6,
+   "impressions": 397,
+   "posW": 2779,
+   "position": 7,
+   "ctr": 0.015113350125944584
+  },
+  {
    "key": "halloween 2026 date and time",
    "clicks": 2,
    "impressions": 386,
@@ -3361,12 +3553,12 @@
    "ctr": 0.0051813471502590676
   },
   {
-   "key": "2027 calendar with week numbers",
-   "clicks": 2,
-   "impressions": 385,
-   "posW": 2368,
-   "position": 6.150649350649351,
-   "ctr": 0.005194805194805195
+   "key": "free meals for veterans on veterans day",
+   "clicks": 4,
+   "impressions": 378,
+   "posW": 2268,
+   "position": 6,
+   "ctr": 0.010582010582010581
   },
   {
    "key": "what time is trick or treating 2026",
@@ -3401,12 +3593,28 @@
    "ctr": 0.005714285714285714
   },
   {
+   "key": "veterans day free meals list",
+   "clicks": 20,
+   "impressions": 342,
+   "posW": 1368,
+   "position": 4,
+   "ctr": 0.05847953216374269
+  },
+  {
    "key": "from season 5 release date",
    "clicks": 3,
    "impressions": 337,
    "posW": 1685,
    "position": 5,
    "ctr": 0.008902077151335312
+  },
+  {
+   "key": "royal winter fair 2026 schedule",
+   "clicks": 28,
+   "impressions": 337,
+   "posW": 1244,
+   "position": 3.691394658753709,
+   "ctr": 0.0830860534124629
   },
   {
    "key": "november 2026 calendar with holidays",
@@ -3441,12 +3649,52 @@
    "ctr": 0.04153354632587859
   },
   {
-   "key": "veterans day free meals 2026",
+   "key": "world nursery rhyme week 2026",
+   "clicks": 3,
+   "impressions": 311,
+   "posW": 1555,
+   "position": 5,
+   "ctr": 0.00964630225080386
+  },
+  {
+   "key": "free food for veterans on veterans day",
+   "clicks": 9,
+   "impressions": 305,
+   "posW": 1830,
+   "position": 6,
+   "ctr": 0.029508196721311476
+  },
+  {
+   "key": "2026 veterans day free meals",
+   "clicks": 8,
+   "impressions": 304,
+   "posW": 2158,
+   "position": 7.098684210526316,
+   "ctr": 0.02631578947368421
+  },
+  {
+   "key": "army-navy game 2026 date",
+   "clicks": 25,
+   "impressions": 304,
+   "posW": 608,
+   "position": 2,
+   "ctr": 0.08223684210526316
+  },
+  {
+   "key": "veterans day free meals 2026 list",
    "clicks": 12,
-   "impressions": 297,
-   "posW": 2079,
-   "position": 7,
-   "ctr": 0.04040404040404041
+   "impressions": 295,
+   "posW": 885,
+   "position": 3,
+   "ctr": 0.04067796610169491
+  },
+  {
+   "key": "cps calendar 26-27 chicago",
+   "clicks": 12,
+   "impressions": 294,
+   "posW": 1183,
+   "position": 4.023809523809524,
+   "ctr": 0.04081632653061224
   },
   {
    "key": "ballon d'or 2026 live stream",
@@ -3455,6 +3703,30 @@
    "posW": 2646,
    "position": 9,
    "ctr": 0.013605442176870748
+  },
+  {
+   "key": "free food veterans day 2026",
+   "clicks": 15,
+   "impressions": 283,
+   "posW": 1981,
+   "position": 7,
+   "ctr": 0.053003533568904596
+  },
+  {
+   "key": "starbucks red cup day 2026 date",
+   "clicks": 3,
+   "impressions": 280,
+   "posW": 1960,
+   "position": 7,
+   "ctr": 0.010714285714285714
+  },
+  {
+   "key": "marine corps birthday date",
+   "clicks": 2,
+   "impressions": 279,
+   "posW": 1674,
+   "position": 6,
+   "ctr": 0.007168458781362007
   },
   {
    "key": "remembrance sunday 2026",
@@ -3481,12 +3753,36 @@
    "ctr": 0.003745318352059925
   },
   {
+   "key": "cracker barrel thanksgiving 2026",
+   "clicks": 7,
+   "impressions": 266,
+   "posW": 1596,
+   "position": 6,
+   "ctr": 0.02631578947368421
+  },
+  {
    "key": "time change november 1 2026",
    "clicks": 7,
    "impressions": 259,
    "posW": 518,
    "position": 2,
    "ctr": 0.02702702702702703
+  },
+  {
+   "key": "connections nov 12",
+   "clicks": 2,
+   "impressions": 255,
+   "posW": 1275,
+   "position": 5,
+   "ctr": 0.00784313725490196
+  },
+  {
+   "key": "veterans day meals 2026",
+   "clicks": 5,
+   "impressions": 248,
+   "posW": 1984,
+   "position": 8,
+   "ctr": 0.020161290322580645
   },
   {
    "key": "what time is the ballon dor",
@@ -3513,12 +3809,20 @@
    "ctr": 0.02145922746781116
   },
   {
-   "key": "cps calendar 26-27 chicago",
-   "clicks": 8,
-   "impressions": 217,
-   "posW": 952,
-   "position": 4.387096774193548,
-   "ctr": 0.03686635944700461
+   "key": "home depot black friday 2026 dates",
+   "clicks": 28,
+   "impressions": 228,
+   "posW": 228,
+   "position": 1,
+   "ctr": 0.12280701754385964
+  },
+  {
+   "key": "veterans day 2026 free meals near",
+   "clicks": 13,
+   "impressions": 227,
+   "posW": 1135,
+   "position": 5,
+   "ctr": 0.05726872246696035
   },
   {
    "key": "ballon dor 2026 time",
@@ -3527,6 +3831,14 @@
    "posW": 426,
    "position": 2,
    "ctr": 0.03286384976525822
+  },
+  {
+   "key": "veterans day 2026 free meals near me",
+   "clicks": 7,
+   "impressions": 205,
+   "posW": 1435,
+   "position": 7,
+   "ctr": 0.03414634146341464
   },
   {
    "key": "are banks open on election day",
@@ -3601,6 +3913,22 @@
    "ctr": 0.01098901098901099
   },
   {
+   "key": "when is the army navy game 2026",
+   "clicks": 6,
+   "impressions": 182,
+   "posW": 364,
+   "position": 2,
+   "ctr": 0.03296703296703297
+  },
+  {
+   "key": "is costco open veterans day",
+   "clicks": 5,
+   "impressions": 182,
+   "posW": 364,
+   "position": 2,
+   "ctr": 0.027472527472527472
+  },
+  {
    "key": "sample ballot by zip code",
    "clicks": 5,
    "impressions": 175,
@@ -3665,14 +3993,6 @@
    "ctr": 0.012738853503184714
   },
   {
-   "key": "free veterans day meals 2026",
-   "clicks": 6,
-   "impressions": 154,
-   "posW": 770,
-   "position": 5,
-   "ctr": 0.03896103896103896
-  },
-  {
    "key": "colorado amendments and propositions",
    "clicks": 2,
    "impressions": 152,
@@ -3713,6 +4033,14 @@
    "ctr": 0
   },
   {
+   "key": "veterans day 2026 free food list",
+   "clicks": 7,
+   "impressions": 126,
+   "posW": 378,
+   "position": 3,
+   "ctr": 0.05555555555555555
+  },
+  {
    "key": "breeders' cup 2026 schedule printable",
    "clicks": 9,
    "impressions": 124,
@@ -3737,12 +4065,12 @@
    "ctr": 0.01652892561983471
   },
   {
-   "key": "veterans day 2026 free meals list",
-   "clicks": 12,
-   "impressions": 118,
-   "posW": 590,
-   "position": 5,
-   "ctr": 0.1016949152542373
+   "key": "indigenous veterans day 2026",
+   "clicks": 7,
+   "impressions": 121,
+   "posW": 363,
+   "position": 3,
+   "ctr": 0.05785123966942149
   },
   {
    "key": "fall back time change 2026",
@@ -3753,12 +4081,28 @@
    "ctr": 0
   },
   {
+   "key": "starbucks holiday menu 2026 pdf",
+   "clicks": 14,
+   "impressions": 116,
+   "posW": 182,
+   "position": 1.5689655172413792,
+   "ctr": 0.1206896551724138
+  },
+  {
    "key": "clocks go back uk 25 october 2026",
    "clicks": 0,
    "impressions": 115,
    "posW": 805,
    "position": 7,
    "ctr": 0
+  },
+  {
+   "key": "fa cup 2nd round draw 2026",
+   "clicks": 2,
+   "impressions": 113,
+   "posW": 791,
+   "position": 7,
+   "ctr": 0.017699115044247787
   },
   {
    "key": "week 9 nfl schedule 2026",
@@ -3777,6 +4121,14 @@
    "ctr": 0.037037037037037035
   },
   {
+   "key": "2027 dependent care fsa limit",
+   "clicks": 2,
+   "impressions": 108,
+   "posW": 648,
+   "position": 6,
+   "ctr": 0.018518518518518517
+  },
+  {
    "key": "time change october 2026 uk",
    "clicks": 0,
    "impressions": 107,
@@ -3793,12 +4145,12 @@
    "ctr": 0.02857142857142857
   },
   {
-   "key": "royal winter fair 2026 schedule",
-   "clicks": 11,
-   "impressions": 104,
-   "posW": 312,
-   "position": 3,
-   "ctr": 0.10576923076923077
+   "key": "walmart black friday 2026 dates",
+   "clicks": 3,
+   "impressions": 105,
+   "posW": 420,
+   "position": 4,
+   "ctr": 0.02857142857142857
   },
   {
    "key": "thanksgiving 2026 date",
@@ -3815,6 +4167,14 @@
    "posW": 412,
    "position": 4,
    "ctr": 0.02912621359223301
+  },
+  {
+   "key": "national radiologic technology week 2026",
+   "clicks": 4,
+   "impressions": 102,
+   "posW": 510,
+   "position": 5,
+   "ctr": 0.0392156862745098
   },
   {
    "key": "day light saving end date",
@@ -3873,12 +4233,36 @@
    "ctr": 0
   },
   {
+   "key": "costco open on veterans day",
+   "clicks": 3,
+   "impressions": 94,
+   "posW": 470,
+   "position": 5,
+   "ctr": 0.031914893617021274
+  },
+  {
+   "key": "connections nov 11 2026",
+   "clicks": 2,
+   "impressions": 93,
+   "posW": 279,
+   "position": 3,
+   "ctr": 0.021505376344086023
+  },
+  {
    "key": "tesco christmas slots 2026",
    "clicks": 3,
    "impressions": 91,
    "posW": 637,
    "position": 7,
    "ctr": 0.03296703296703297
+  },
+  {
+   "key": "costco open veterans day",
+   "clicks": 4,
+   "impressions": 91,
+   "posW": 182,
+   "position": 2,
+   "ctr": 0.04395604395604396
   },
   {
    "key": "what date is thanksgiving 2026",
@@ -3897,12 +4281,60 @@
    "ctr": 0.06741573033707865
   },
   {
+   "key": "free meals on veterans day 2026",
+   "clicks": 2,
+   "impressions": 88,
+   "posW": 440,
+   "position": 5,
+   "ctr": 0.022727272727272728
+  },
+  {
+   "key": "sephora black friday 2026",
+   "clicks": 2,
+   "impressions": 87,
+   "posW": 261,
+   "position": 3,
+   "ctr": 0.022988505747126436
+  },
+  {
+   "key": "army navy game 2026 date",
+   "clicks": 4,
+   "impressions": 85,
+   "posW": 195,
+   "position": 2.2941176470588234,
+   "ctr": 0.047058823529411764
+  },
+  {
+   "key": "when is army navy game 2026",
+   "clicks": 4,
+   "impressions": 85,
+   "posW": 170,
+   "position": 2,
+   "ctr": 0.047058823529411764
+  },
+  {
    "key": "clocks go back october 2026",
    "clicks": 0,
    "impressions": 84,
    "posW": 756,
    "position": 9,
    "ctr": 0
+  },
+  {
+   "key": "veterans day free meals 2026 printable list",
+   "clicks": 10,
+   "impressions": 84,
+   "posW": 168,
+   "position": 2,
+   "ctr": 0.11904761904761904
+  },
+  {
+   "key": "walmart plus early access deals 2026",
+   "clicks": 4,
+   "impressions": 84,
+   "posW": 168,
+   "position": 2,
+   "ctr": 0.047619047619047616
   },
   {
    "key": "ballon d'or timing",
@@ -3929,6 +4361,14 @@
    "ctr": 0.07407407407407407
   },
   {
+   "key": "snl 11/7/26",
+   "clicks": 7,
+   "impressions": 80,
+   "posW": 320,
+   "position": 4,
+   "ctr": 0.0875
+  },
+  {
    "key": "clocks change date october 2026",
    "clicks": 0,
    "impressions": 78,
@@ -3945,6 +4385,14 @@
    "ctr": 0
   },
   {
+   "key": "2026 army navy game",
+   "clicks": 3,
+   "impressions": 75,
+   "posW": 150,
+   "position": 2,
+   "ctr": 0.04
+  },
+  {
    "key": "thanksgiving day 2026 date",
    "clicks": 0,
    "impressions": 74,
@@ -3959,6 +4407,14 @@
    "posW": 657,
    "position": 9,
    "ctr": 0
+  },
+  {
+   "key": "veterans day 2026 free meals list printable",
+   "clicks": 11,
+   "impressions": 73,
+   "posW": 146,
+   "position": 2,
+   "ctr": 0.1506849315068493
   },
   {
    "key": "november 2026 calendar pdf download",
@@ -3985,12 +4441,12 @@
    "ctr": 0
   },
   {
-   "key": "starbucks holiday menu 2026 pdf",
-   "clicks": 4,
+   "key": "cracker barrel thanksgiving 2026 menu",
+   "clicks": 3,
    "impressions": 66,
-   "posW": 132,
-   "position": 2,
-   "ctr": 0.06060606060606061
+   "posW": 264,
+   "position": 4,
+   "ctr": 0.045454545454545456
   },
   {
    "key": "brewers parade 2026 route",
@@ -4049,6 +4505,22 @@
    "ctr": 0
   },
   {
+   "key": "home depot black friday sale 2026",
+   "clicks": 8,
+   "impressions": 61,
+   "posW": 183,
+   "position": 3,
+   "ctr": 0.13114754098360656
+  },
+  {
+   "key": "international men's day 2026 theme",
+   "clicks": 2,
+   "impressions": 61,
+   "posW": 244,
+   "position": 4,
+   "ctr": 0.03278688524590164
+  },
+  {
    "key": "new year's eve 2026",
    "clicks": 3,
    "impressions": 60,
@@ -4057,20 +4529,28 @@
    "ctr": 0.05
   },
   {
-   "key": "veterans day free meals list 2026",
-   "clicks": 9,
-   "impressions": 58,
-   "posW": 174,
+   "key": "when is the army-navy game this year on tv",
+   "clicks": 4,
+   "impressions": 59,
+   "posW": 177,
    "position": 3,
-   "ctr": 0.15517241379310345
+   "ctr": 0.06779661016949153
   },
   {
-   "key": "free meals for veterans 2026",
-   "clicks": 4,
+   "key": "connections november 11 2026",
+   "clicks": 3,
+   "impressions": 56,
+   "posW": 224,
+   "position": 4,
+   "ctr": 0.05357142857142857
+  },
+  {
+   "key": "veterans day 2026 free meals and discounts",
+   "clicks": 3,
    "impressions": 55,
-   "posW": 275,
-   "position": 5,
-   "ctr": 0.07272727272727272
+   "posW": 495,
+   "position": 9,
+   "ctr": 0.05454545454545454
   },
   {
    "key": "texas sample ballot 2026",
@@ -4113,7 +4593,7 @@
    "ctr": 0.038461538461538464
   },
   {
-   "key": "fall back date 2026",
+   "key": "uk clock change october 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4121,7 +4601,7 @@
    "ctr": 0
   },
   {
-   "key": "uk clock change october 2026",
+   "key": "fall back date 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4134,6 +4614,14 @@
    "impressions": 50,
    "posW": 50,
    "position": 1,
+   "ctr": 0.06
+  },
+  {
+   "key": "elf day 2026",
+   "clicks": 3,
+   "impressions": 50,
+   "posW": 250,
+   "position": 5,
    "ctr": 0.06
   },
   {
@@ -4209,6 +4697,14 @@
    "ctr": 0.09090909090909091
   },
   {
+   "key": "restaurants offering veterans day 2026 freebies",
+   "clicks": 3,
+   "impressions": 44,
+   "posW": 132,
+   "position": 3,
+   "ctr": 0.06818181818181818
+  },
+  {
    "key": "brewers parade shuttle",
    "clicks": 6,
    "impressions": 43,
@@ -4225,6 +4721,14 @@
    "ctr": 0.046511627906976744
   },
   {
+   "key": "veterans day 2026 free meals printable",
+   "clicks": 9,
+   "impressions": 43,
+   "posW": 43,
+   "position": 1,
+   "ctr": 0.20930232558139536
+  },
+  {
    "key": "dea take back 2026",
    "clicks": 0,
    "impressions": 42,
@@ -4233,11 +4737,11 @@
    "ctr": 0
   },
   {
-   "key": "uk time change 2026",
+   "key": "2026 thanksgiving date",
    "clicks": 0,
    "impressions": 41,
-   "posW": 246,
-   "position": 6,
+   "posW": 369,
+   "position": 9,
    "ctr": 0
   },
   {
@@ -4249,11 +4753,11 @@
    "ctr": 0
   },
   {
-   "key": "2026 thanksgiving date",
+   "key": "uk time change 2026",
    "clicks": 0,
    "impressions": 41,
-   "posW": 369,
-   "position": 9,
+   "posW": 246,
+   "position": 6,
    "ctr": 0
   },
   {
@@ -4281,14 +4785,6 @@
    "ctr": 0.10256410256410256
   },
   {
-   "key": "veterans day free meals",
-   "clicks": 4,
-   "impressions": 39,
-   "posW": 195,
-   "position": 5,
-   "ctr": 0.10256410256410256
-  },
-  {
    "key": "what date is halloween 2026",
    "clicks": 0,
    "impressions": 38,
@@ -4305,6 +4801,14 @@
    "ctr": 0.07894736842105263
   },
   {
+   "key": "day of the dead 2026 dates",
+   "clicks": 2,
+   "impressions": 38,
+   "posW": 114,
+   "position": 3,
+   "ctr": 0.05263157894736842
+  },
+  {
    "key": "tesco christmas delivery slots 2026 early access",
    "clicks": 2,
    "impressions": 38,
@@ -4313,12 +4817,28 @@
    "ctr": 0.05263157894736842
   },
   {
-   "key": "day of the dead 2026 dates",
-   "clicks": 2,
-   "impressions": 38,
-   "posW": 114,
+   "key": "chicago public school calendar 2026 2027",
+   "clicks": 4,
+   "impressions": 37,
+   "posW": 111,
    "position": 3,
-   "ctr": 0.05263157894736842
+   "ctr": 0.10810810810810811
+  },
+  {
+   "key": "army vs navy game 2026",
+   "clicks": 3,
+   "impressions": 37,
+   "posW": 74,
+   "position": 2,
+   "ctr": 0.08108108108108109
+  },
+  {
+   "key": "nations championship 2026 kick off times",
+   "clicks": 9,
+   "impressions": 36,
+   "posW": 144,
+   "position": 4,
+   "ctr": 0.25
   },
   {
    "key": "nov 1 2026",
@@ -4369,12 +4889,12 @@
    "ctr": 0.1
   },
   {
-   "key": "2026 veterans day free meals",
-   "clicks": 2,
-   "impressions": 30,
-   "posW": 240,
-   "position": 8,
-   "ctr": 0.06666666666666667
+   "key": "free meals for veterans nov 11",
+   "clicks": 6,
+   "impressions": 29,
+   "posW": 29,
+   "position": 1,
+   "ctr": 0.20689655172413793
   },
   {
    "key": "dia de los muertos 2026 date",
@@ -4391,6 +4911,14 @@
    "posW": 189,
    "position": 7,
    "ctr": 0.037037037037037035
+  },
+  {
+   "key": "ncaa volleyball tournament 2026",
+   "clicks": 3,
+   "impressions": 26,
+   "posW": 104,
+   "position": 4,
+   "ctr": 0.11538461538461539
   },
   {
    "key": "dea take back day 2026",
@@ -4417,12 +4945,20 @@
    "ctr": 0.16
   },
   {
-   "key": "army navy game 2026 date",
-   "clicks": 2,
+   "key": "list of free meals for veterans day",
+   "clicks": 5,
    "impressions": 25,
    "posW": 75,
    "position": 3,
-   "ctr": 0.08
+   "ctr": 0.2
+  },
+  {
+   "key": "royal winter fair schedule",
+   "clicks": 3,
+   "impressions": 25,
+   "posW": 125,
+   "position": 5,
+   "ctr": 0.12
   },
   {
    "key": "balloon d'or 2026 awards list pdf",
@@ -4441,14 +4977,6 @@
    "ctr": 0.045454545454545456
   },
   {
-   "key": "home depot black friday sale 2026",
-   "clicks": 5,
-   "impressions": 22,
-   "posW": 66,
-   "position": 3,
-   "ctr": 0.22727272727272727
-  },
-  {
    "key": "connections 5 november 2026",
    "clicks": 2,
    "impressions": 22,
@@ -4457,11 +4985,27 @@
    "ctr": 0.09090909090909091
   },
   {
+   "key": "veterans day free meals 2026 schedule",
+   "clicks": 3,
+   "impressions": 22,
+   "posW": 44,
+   "position": 2,
+   "ctr": 0.13636363636363635
+  },
+  {
    "key": "what day is trick or treating 2026",
    "clicks": 3,
    "impressions": 21,
    "posW": 70,
    "position": 3.3333333333333335,
+   "ctr": 0.14285714285714285
+  },
+  {
+   "key": "spelling bee 11/6/26",
+   "clicks": 3,
+   "impressions": 21,
+   "posW": 105,
+   "position": 5,
    "ctr": 0.14285714285714285
   },
   {
@@ -4497,27 +5041,11 @@
    "ctr": 0.16666666666666666
   },
   {
-   "key": "tesco christmas delivery slots 2026 booking dates",
-   "clicks": 2,
-   "impressions": 18,
-   "posW": 54,
-   "position": 3,
-   "ctr": 0.1111111111111111
-  },
-  {
    "key": "when do the new governors take office",
    "clicks": 2,
    "impressions": 18,
    "posW": 36,
    "position": 2,
-   "ctr": 0.1111111111111111
-  },
-  {
-   "key": "nfl week 9 pick sheet 2026",
-   "clicks": 2,
-   "impressions": 18,
-   "posW": 108,
-   "position": 6,
    "ctr": 0.1111111111111111
   },
   {
@@ -4529,12 +5057,20 @@
    "ctr": 0.1111111111111111
   },
   {
-   "key": "is costco open on veterans day",
+   "key": "nfl week 9 pick sheet 2026",
    "clicks": 2,
-   "impressions": 17,
-   "posW": 68,
-   "position": 4,
-   "ctr": 0.11764705882352941
+   "impressions": 18,
+   "posW": 108,
+   "position": 6,
+   "ctr": 0.1111111111111111
+  },
+  {
+   "key": "tesco christmas delivery slots 2026 booking dates",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 54,
+   "position": 3,
+   "ctr": 0.1111111111111111
   },
   {
    "key": "día de los muertos 2026",
@@ -4577,6 +5113,14 @@
    "ctr": 0.13333333333333333
   },
   {
+   "key": "free veterans day meals 2026 schedule",
+   "clicks": 3,
+   "impressions": 15,
+   "posW": 30,
+   "position": 2,
+   "ctr": 0.2
+  },
+  {
    "key": "daylight savings 2026 nov 1",
    "clicks": 2,
    "impressions": 14,
@@ -4601,6 +5145,14 @@
    "ctr": 0.14285714285714285
   },
   {
+   "key": "connections 12 november",
+   "clicks": 3,
+   "impressions": 14,
+   "posW": 28,
+   "position": 2,
+   "ctr": 0.21428571428571427
+  },
+  {
    "key": "brewers parade shuttles",
    "clicks": 2,
    "impressions": 13,
@@ -4617,6 +5169,30 @@
    "ctr": 0.15384615384615385
   },
   {
+   "key": "nascar 2027 schedule printable free",
+   "clicks": 6,
+   "impressions": 13,
+   "posW": 26,
+   "position": 2,
+   "ctr": 0.46153846153846156
+  },
+  {
+   "key": "fresno unified calendar 26-27",
+   "clicks": 3,
+   "impressions": 13,
+   "posW": 13,
+   "position": 1,
+   "ctr": 0.23076923076923078
+  },
+  {
+   "key": "veterans day free meals restaurants",
+   "clicks": 3,
+   "impressions": 13,
+   "posW": 39,
+   "position": 3,
+   "ctr": 0.23076923076923078
+  },
+  {
    "key": "voting sample ballot by zip code printable",
    "clicks": 4,
    "impressions": 12,
@@ -4625,35 +5201,11 @@
    "ctr": 0.3333333333333333
   },
   {
-   "key": "chicago public school calendar 2026 2027",
-   "clicks": 1,
-   "impressions": 12,
-   "posW": 36,
-   "position": 3,
-   "ctr": 0.08333333333333333
-  },
-  {
    "key": "nfl schedule 2026 printable free",
    "clicks": 2,
    "impressions": 12,
    "posW": 72,
    "position": 6,
-   "ctr": 0.16666666666666666
-  },
-  {
-   "key": "november gratitude calendar",
-   "clicks": 2,
-   "impressions": 12,
-   "posW": 24,
-   "position": 2,
-   "ctr": 0.16666666666666666
-  },
-  {
-   "key": "free meals on veterans day",
-   "clicks": 2,
-   "impressions": 12,
-   "posW": 60,
-   "position": 5,
    "ctr": 0.16666666666666666
   },
   {
@@ -4665,12 +5217,12 @@
    "ctr": 0.16666666666666666
   },
   {
-   "key": "social security payment schedule 2026 pdf",
-   "clicks": 1,
-   "impressions": 11,
-   "posW": 55,
-   "position": 5,
-   "ctr": 0.09090909090909091
+   "key": "november gratitude calendar",
+   "clicks": 2,
+   "impressions": 12,
+   "posW": 24,
+   "position": 2,
+   "ctr": 0.16666666666666666
   },
   {
    "key": "daylight savings nov 2026",
@@ -4678,6 +5230,14 @@
    "impressions": 11,
    "posW": 33,
    "position": 3,
+   "ctr": 0.09090909090909091
+  },
+  {
+   "key": "social security payment schedule 2026 pdf",
+   "clicks": 1,
+   "impressions": 11,
+   "posW": 55,
+   "position": 5,
    "ctr": 0.09090909090909091
   },
   {
@@ -4695,6 +5255,22 @@
    "posW": 22,
    "position": 2,
    "ctr": 0.18181818181818182
+  },
+  {
+   "key": "santa tracker norad live 2026 schedule",
+   "clicks": 3,
+   "impressions": 11,
+   "posW": 11,
+   "position": 1,
+   "ctr": 0.2727272727272727
+  },
+  {
+   "key": "veterans day 2026 worksheets",
+   "clicks": 3,
+   "impressions": 11,
+   "posW": 55,
+   "position": 5,
+   "ctr": 0.2727272727272727
   },
   {
    "key": "site:freshcalendars.com news",
@@ -4743,206 +5319,6 @@
    "posW": 6,
    "position": 1,
    "ctr": 0.3333333333333333
-  },
-  {
-   "key": "dios de la muerte 2026",
-   "clicks": 3,
-   "impressions": 4,
-   "posW": 12,
-   "position": 3,
-   "ctr": 0.75
-  },
-  {
-   "key": "sample ballot by address 2026",
-   "clicks": 4,
-   "impressions": 3,
-   "posW": 24,
-   "position": 8,
-   "ctr": 1.3333333333333333
-  },
-  {
-   "key": "christmas eve 2026 date",
-   "clicks": 1,
-   "impressions": 3,
-   "posW": 18,
-   "position": 6,
-   "ctr": 0.3333333333333333
-  },
-  {
-   "key": "blossom solver oct 21  2026",
-   "clicks": 2,
-   "impressions": 2,
-   "posW": 4,
-   "position": 2,
-   "ctr": 1
-  },
-  {
-   "key": "time change in october 2026 calendar",
-   "clicks": 1,
-   "impressions": 2,
-   "posW": 14,
-   "position": 7,
-   "ctr": 0.5
-  },
-  {
-   "key": "i need a start on monday calendar that has the month on the top half of the page and lines below it",
-   "clicks": 1,
-   "impressions": 2,
-   "posW": 4,
-   "position": 2,
-   "ctr": 0.5
-  },
-  {
-   "key": "time change november 1, 2026",
-   "clicks": 1,
-   "impressions": 2,
-   "posW": 8,
-   "position": 4,
-   "ctr": 0.5
-  },
-  {
-   "key": "daylight savings 2026 november 1st",
-   "clicks": 1,
-   "impressions": 2,
-   "posW": 4,
-   "position": 2,
-   "ctr": 0.5
-  },
-  {
-   "key": "november 5, 2026 strands hints",
-   "clicks": 4,
-   "impressions": 2,
-   "posW": 8,
-   "position": 4,
-   "ctr": 2
-  },
-  {
-   "key": "diwali 2026 usa calendar pdf download",
-   "clicks": 3,
-   "impressions": 2,
-   "posW": 6,
-   "position": 3,
-   "ctr": 1.5
-  },
-  {
-   "key": "nations championship rugby 2026 kick off times",
-   "clicks": 2,
-   "impressions": 2,
-   "posW": 4,
-   "position": 2,
-   "ctr": 1
-  },
-  {
-   "key": "november weekly reminder landscape calendar 2026",
-   "clicks": 2,
-   "impressions": 1,
-   "posW": 3,
-   "position": 3,
-   "ctr": 2
-  },
-  {
-   "key": "summer times end 25/10/26 clocks back",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 2,
-   "position": 2,
-   "ctr": 1
-  },
-  {
-   "key": "what will the et time be next sunday when the clocks go back in the uk?",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 1,
-   "position": 1,
-   "ctr": 1
-  },
-  {
-   "key": "dec 11 government shutdown",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 6,
-   "position": 6,
-   "ctr": 1
-  },
-  {
-   "key": "time change 25 october",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 4,
-   "position": 4,
-   "ctr": 1
-  },
-  {
-   "key": "does the us time difference change when uk clocks go back",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 4,
-   "position": 4,
-   "ctr": 1
-  },
-  {
-   "key": "daylight savings 2026 usa november 1",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 5,
-   "position": 5,
-   "ctr": 1
-  },
-  {
-   "key": "when are the results of the midterms in usa",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 4,
-   "position": 4,
-   "ctr": 1
-  },
-  {
-   "key": "month calendar  october  2026  black . white",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 2,
-   "position": 2,
-   "ctr": 1
-  },
-  {
-   "key": "when will it get the sunlight on the 1st of november 2026 time back",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 1,
-   "position": 1,
-   "ctr": 1
-  },
-  {
-   "key": "clock go back one 1  hour beb",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 4,
-   "position": 4,
-   "ctr": 1
-  },
-  {
-   "key": "time difference between uk and netherlands 25 october 2026",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 4,
-   "position": 4,
-   "ctr": 1
-  },
-  {
-   "key": "time change timing for 25 oct uk",
-   "clicks": 1,
-   "impressions": 1,
-   "posW": 4,
-   "position": 4,
-   "ctr": 1
-  },
-  {
-   "key": "when will we probably know midterm results?",
-   "clicks": 2,
-   "impressions": 1,
-   "posW": 1,
-   "position": 1,
-   "ctr": 2
   }
  ],
  "pages": [
@@ -6363,19 +6739,19 @@
    "ctr": 0.08823529411764706
   },
   {
-   "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
-   "clicks": 2,
-   "impressions": 33,
-   "posW": 198,
-   "position": 6,
-   "ctr": 0.06060606060606061
-  },
-  {
    "key": "https://freshcalendars.com/news/iphone-duo-october-24-availability/",
    "clicks": 2,
    "impressions": 33,
    "posW": 132,
    "position": 4,
+   "ctr": 0.06060606060606061
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
+   "clicks": 2,
+   "impressions": 33,
+   "posW": 198,
+   "position": 6,
    "ctr": 0.06060606060606061
   },
   {
@@ -6459,19 +6835,19 @@
    "ctr": 0.3333333333333333
   },
   {
-   "key": "https://freshcalendars.com/news/orionid-meteor-shower-2026-peak-october-21-22/",
-   "clicks": 0,
-   "impressions": 12,
-   "posW": 84,
-   "position": 7,
-   "ctr": 0
-  },
-  {
    "key": "https://freshcalendars.com/news/broward-county-school-calendar-2026-27/",
    "clicks": 0,
    "impressions": 12,
    "posW": 96,
    "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/orionid-meteor-shower-2026-peak-october-21-22/",
+   "clicks": 0,
+   "impressions": 12,
+   "posW": 84,
+   "position": 7,
    "ctr": 0
   },
   {
@@ -6564,42 +6940,6 @@
   }
  ],
  "crawl": [
-  {
-   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
-   "AllOtherCodes": 15,
-   "BlockedByRobotsTxt": 0,
-   "Code2xx": 189,
-   "Code301": 145,
-   "Code302": 63,
-   "Code4xx": 15,
-   "Code5xx": 0,
-   "ConnectionTimeout": 0,
-   "ContainsMalware": 0,
-   "CrawledPages": 88,
-   "CrawlErrors": 19,
-   "Date": "/Date(1791504000000)/",
-   "DnsFailures": 0,
-   "InIndex": 162,
-   "InLinks": 262
-  },
-  {
-   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
-   "AllOtherCodes": 15,
-   "BlockedByRobotsTxt": 0,
-   "Code2xx": 189,
-   "Code301": 140,
-   "Code302": 62,
-   "Code4xx": 29,
-   "Code5xx": 0,
-   "ConnectionTimeout": 0,
-   "ContainsMalware": 0,
-   "CrawledPages": 136,
-   "CrawlErrors": 40,
-   "Date": "/Date(1791590400000)/",
-   "DnsFailures": 0,
-   "InIndex": 163,
-   "InLinks": 262
-  },
   {
    "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
    "AllOtherCodes": 14,
@@ -7103,6 +7443,42 @@
    "DnsFailures": 0,
    "InIndex": 3036,
    "InLinks": 392
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 348,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 3178,
+   "Code301": 172,
+   "Code302": 58,
+   "Code4xx": 26,
+   "Code5xx": 2,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 5591,
+   "CrawlErrors": 811,
+   "Date": "/Date(1794268800000)/",
+   "DnsFailures": 0,
+   "InIndex": 3201,
+   "InLinks": 395
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 347,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 3177,
+   "Code301": 172,
+   "Code302": 58,
+   "Code4xx": 39,
+   "Code5xx": 2,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 5380,
+   "CrawlErrors": 701,
+   "Date": "/Date(1794355200000)/",
+   "DnsFailures": 0,
+   "InIndex": 3200,
+   "InLinks": 395
   }
  ],
  "failed": []

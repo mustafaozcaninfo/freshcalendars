@@ -1,14 +1,13 @@
 # Bing Webmaster Tools (generated, do not edit)
 
-Read 2026-11-14T15:48 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
+Read 2026-11-15T09:14 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
 
 ## Clicks and impressions
 
-Last 7 days with data: 4,661 clicks, 455,755 impressions (the 7 before: 3,627 clicks, 445,245 impressions).
+Last 7 days with data: 4,571 clicks, 452,636 impressions (the 7 before: 3,532 clicks, 457,626 impressions).
 
 | Day | Clicks | Impressions |
 |---|---:|---:|
-| 2026-10-29 | 546 | 51,345 |
 | 2026-10-30 | 446 | 51,638 |
 | 2026-10-31 | 468 | 54,105 |
 | 2026-11-01 | 446 | 49,710 |
@@ -22,66 +21,67 @@ Last 7 days with data: 4,661 clicks, 455,755 impressions (the 7 before: 3,627 cl
 | 2026-11-09 | 754 | 75,168 |
 | 2026-11-10 | 1,002 | 101,071 |
 | 2026-11-11 | 1,058 | 92,127 |
+| 2026-11-12 | 361 | 60,607 |
 
 ## Top queries, last 28 days
 
 | Query | Impressions | Clicks | Click rate | Avg. position |
 |---|---:|---:|---:|---:|
-| dia de los muertos 2026 | 16,139 | 324 | 2.0% | 2.0 |
-| day of the dead 2026 | 5,506 | 69 | 1.3% | 2.3 |
+| veterans day 2026 free meals | 25,857 | 577 | 2.2% | 4.9 |
+| dia de los muertos 2026 | 16,517 | 333 | 2.0% | 2.0 |
+| marine corps birthday 2026 | 6,804 | 9 | 0.1% | 7.0 |
+| home depot black friday 2026 | 6,006 | 31 | 0.5% | 6.5 |
+| day of the dead 2026 | 5,693 | 73 | 1.3% | 2.3 |
+| free veterans day meals 2026 | 3,175 | 37 | 1.2% | 6.0 |
 | ballon d'or 2026 start time | 3,004 | 45 | 1.5% | 1.0 |
 | when is halloween 2026 | 2,974 | 2 | 0.1% | 8.2 |
 | day light savings 2026 | 2,956 | 2 | 0.1% | 9.0 |
+| army navy game 2026 | 2,638 | 39 | 1.5% | 3.3 |
 | what time is the ballon d'or ceremony | 2,574 | 25 | 1.0% | 3.0 |
 | brewers parade 2026 details | 2,413 | 38 | 1.6% | 3.7 |
 | what day is halloween 2026 | 2,313 | 4 | 0.2% | 5.7 |
-| veterans day 2026 free meals | 2,242 | 108 | 4.8% | 4.4 |
+| veterans day free meals 2026 | 2,194 | 52 | 2.4% | 7.0 |
 | movember 2026 | 2,061 | 12 | 0.6% | 6.0 |
-| dias de los muertos 2026 | 1,936 | 31 | 1.6% | 2.9 |
+| dias de los muertos 2026 | 2,004 | 33 | 1.6% | 2.8 |
+| when is remembrance sunday 2026 | 1,988 | 5 | 0.3% | 8.0 |
 | when is dia de los muertos 2026 | 1,847 | 59 | 3.2% | 1.5 |
+| free meals for veterans 2026 | 1,803 | 25 | 1.4% | 5.0 |
+| is costco open on veterans day | 1,752 | 38 | 2.2% | 3.0 |
 | ballon d'or 2026 date | 1,750 | 7 | 0.4% | 5.0 |
+| world kindness day 2026 | 1,687 | 4 | 0.2% | 8.0 |
+| veterans day free meals | 1,631 | 38 | 2.3% | 7.0 |
 | when is the ballon d'or 2026 | 1,421 | 3 | 0.2% | 5.0 |
-| when is remembrance sunday 2026 | 1,396 | 1 | 0.1% | 8.0 |
 | halloween 2026 date | 1,316 | 1 | 0.1% | 7.9 |
+| bonfire night 2026 | 1,310 | 6 | 0.5% | 7.0 |
+| usmc birthday 2026 | 1,201 | 3 | 0.2% | 6.0 |
+| singles day 2026 | 1,184 | 4 | 0.3% | 6.0 |
 | ballon d'or time | 1,176 | 27 | 2.3% | 2.0 |
 | ballon d'or 2026 time | 1,166 | 34 | 2.9% | 2.0 |
-| bonfire night 2026 | 1,141 | 4 | 0.4% | 7.0 |
-| time change fall 2026 | 1,126 | 3 | 0.3% | 7.4 |
-| milwaukee brewers parade 2026 | 1,077 | 25 | 2.3% | 2.7 |
-| native american heritage month 2026 | 1,012 | 11 | 1.1% | 5.0 |
-| what time does trick or treat start 2026 | 1,008 | 3 | 0.3% | 5.0 |
-| home depot black friday 2026 | 970 | 22 | 2.3% | 4.0 |
-| when is day of the dead 2026 | 958 | 12 | 1.3% | 2.3 |
-| time change november 2026 | 957 | 7 | 0.7% | 5.1 |
-| ballon d'or 2026 date and time | 925 | 2 | 0.2% | 4.0 |
-| when is halloween 2026 calendar | 823 | 1 | 0.1% | 5.0 |
-| day of the dead 2026 date | 810 | 17 | 2.1% | 3.2 |
-| when is bonfire night 2026 | 756 | 1 | 0.1% | 3.0 |
 
 ## Opportunities (search desk)
 
 Queries at position 2.5 to 20 with 50+ impressions and a click rate under 3%: the title or first sentence may not match what Bing searchers want.
 
+- "veterans day 2026 free meals": 25,857 impressions at 4.9, 2.2% click rate
+- "marine corps birthday 2026": 6,804 impressions at 7.0, 0.1% click rate
+- "home depot black friday 2026": 6,006 impressions at 6.5, 0.5% click rate
+- "free veterans day meals 2026": 3,175 impressions at 6.0, 1.2% click rate
 - "when is halloween 2026": 2,974 impressions at 8.2, 0.1% click rate
 - "day light savings 2026": 2,956 impressions at 9.0, 0.1% click rate
+- "army navy game 2026": 2,638 impressions at 3.3, 1.5% click rate
 - "what time is the ballon d'or ceremony": 2,574 impressions at 3.0, 1.0% click rate
 - "brewers parade 2026 details": 2,413 impressions at 3.7, 1.6% click rate
 - "what day is halloween 2026": 2,313 impressions at 5.7, 0.2% click rate
+- "veterans day free meals 2026": 2,194 impressions at 7.0, 2.4% click rate
 - "movember 2026": 2,061 impressions at 6.0, 0.6% click rate
-- "dias de los muertos 2026": 1,936 impressions at 2.9, 1.6% click rate
+- "dias de los muertos 2026": 2,004 impressions at 2.8, 1.6% click rate
+- "when is remembrance sunday 2026": 1,988 impressions at 8.0, 0.3% click rate
+- "free meals for veterans 2026": 1,803 impressions at 5.0, 1.4% click rate
+- "is costco open on veterans day": 1,752 impressions at 3.0, 2.2% click rate
 - "ballon d'or 2026 date": 1,750 impressions at 5.0, 0.4% click rate
+- "world kindness day 2026": 1,687 impressions at 8.0, 0.2% click rate
+- "veterans day free meals": 1,631 impressions at 7.0, 2.3% click rate
 - "when is the ballon d'or 2026": 1,421 impressions at 5.0, 0.2% click rate
-- "when is remembrance sunday 2026": 1,396 impressions at 8.0, 0.1% click rate
-- "halloween 2026 date": 1,316 impressions at 7.9, 0.1% click rate
-- "bonfire night 2026": 1,141 impressions at 7.0, 0.4% click rate
-- "time change fall 2026": 1,126 impressions at 7.4, 0.3% click rate
-- "milwaukee brewers parade 2026": 1,077 impressions at 2.7, 2.3% click rate
-- "native american heritage month 2026": 1,012 impressions at 5.0, 1.1% click rate
-- "what time does trick or treat start 2026": 1,008 impressions at 5.0, 0.3% click rate
-- "home depot black friday 2026": 970 impressions at 4.0, 2.3% click rate
-- "time change november 2026": 957 impressions at 5.1, 0.7% click rate
-- "ballon d'or 2026 date and time": 925 impressions at 4.0, 0.2% click rate
-- "when is halloween 2026 calendar": 823 impressions at 5.0, 0.1% click rate
 
 ## Top pages, last 28 days
 
@@ -115,5 +115,5 @@ Queries at position 2.5 to 20 with 50+ impressions and a click rate under 3%: th
 
 ## Crawl and index
 
-Latest day 2026-11-09: 4,651 pages crawled, 958 crawl errors, 3,036 pages in the index, 392 inbound links.
+Latest day 2026-11-11: 5,380 pages crawled, 701 crawl errors, 3,200 pages in the index, 395 inbound links.
 
