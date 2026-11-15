@@ -3,6 +3,7 @@ title: "Great American Smokeout 2026: Nov. 19 Quit-Day Planner"
 description: "The Great American Smokeout is Thursday, Nov. 19, 2026, set by the American Cancer Society. A free quit-day planner, help lines and milestone dates."
 type: explainer
 publishedAt: "2026-10-29T19:42:00-04:00"
+updatedAt: "2026-11-15T07:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Great American Smokeout 2026", "when is the Great American Smokeout 2026", "Great American Smokeout date", "quit smoking day November 2026"]
@@ -58,7 +59,7 @@ faq:
   - q: "What is the date of the Great American Smokeout in 2026?"
     a: "Thursday, Nov. 19, 2026. The American Cancer Society says it is held on the third Thursday in November. Nov. 1, 2026 is a Sunday, so the Thursdays are Nov. 5, 12, 19 and 26, and the third is Nov. 19."
   - q: "Is the Great American Smokeout a holiday?"
-    a: "The American Cancer Society page describes it as a day to start a smoke-free journey, not a holiday. We found no source that lists closures."
+    a: "No. The American Cancer Society page calls it an 'event' for starting a smoke-free life, and we found no source that lists closures."
   - q: "Are SmokefreeTXT and the CDC texting portal the same program?"
     a: "No. SmokefreeTXT is run by the National Cancer Institute (text QUIT to 47848). The CDC National Texting Portal is a different program (text QUITNOW to 333888)."
   - q: "Does the quit-day planner give medical advice?"
@@ -113,7 +114,7 @@ downloads:
 draft: false
 ---
 
-**The Great American Smokeout is Thursday, Nov. 19, 2026, the third Thursday in November, held by the American Cancer Society (ACS).** The ACS invites smokers to "start your smoke-free journey" that day. We built a one-page quit-day planner to go with it: the quit date, five quit-day steps, three free help lines and a milestone calendar. It is below, with the dates and sources behind it.
+**The Great American Smokeout is Thursday, Nov. 19, 2026, the third Thursday in November, held by the American Cancer Society (ACS).** The ACS invites smokers to make it the day they "start your journey toward a smoke-free life." We built a one-page quit-day planner to go with it: the quit date, five quit-day steps, three free help lines and a milestone calendar. It is below, with the dates and sources behind it.
 
 ## What date is the Great American Smokeout in 2026?
 
