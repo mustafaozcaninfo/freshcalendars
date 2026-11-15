@@ -128,7 +128,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [new-laws-january-1-2027-by-state, 2027-tax-brackets-401k-hsa-limits-irs, social-security-cola-2027-3-6-percent-payment-dates]
+related: [new-laws-january-1-2027-by-state, 2027-tax-brackets-401k-hsa-limits-irs, paid-family-leave-2027-rates-new-york-california-washington-new-jersey]
 assets:
   overlay: true
   kicker: "Minimum wage 2027"

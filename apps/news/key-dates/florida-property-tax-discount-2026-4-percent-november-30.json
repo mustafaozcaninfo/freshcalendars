@@ -1,0 +1,6 @@
+[
+  { "date": "2026-11-30", "label": "Florida property tax: last day for the 4% discount (computed from statute)" },
+  { "date": "2026-12-31", "label": "Florida property tax: last day for the 3% discount" },
+  { "date": "2027-03-31", "label": "Florida property tax: last day before delinquency (computed)" },
+  { "date": "2027-04-01", "label": "Florida property tax: taxes become delinquent" }
+]
