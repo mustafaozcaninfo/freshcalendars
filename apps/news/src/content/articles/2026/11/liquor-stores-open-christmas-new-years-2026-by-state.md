@@ -18,7 +18,7 @@ assets:
     group: christmas-2026
     title: "Liquor Stores on Christmas Day 2026: States Closed"
     subtitle: "Where package or state liquor stores close on Friday, Dec. 25, by statute or state notice"
-    note: "Source: state statutes and liquor authorities named in the story (Pennsylvania Liquor Control Board, Texas Alcoholic Beverage Commission, Connecticut Department of Consumer Protection and the Minnesota, New Hampshire, Massachusetts, Rhode Island, Idaho, North Carolina, Delaware, Mississippi and Michigan pages), read Nov. 14-15, 2026. Prep steps are our suggestions."
+    note: "Source: state statutes and liquor authorities named in the story (Pennsylvania Liquor Control Board, Texas Alcoholic Beverage Commission, Connecticut Department of Consumer Protection and the Minnesota, New Hampshire, Massachusetts, Rhode Island, Idaho, North Carolina, Delaware, Mississippi and Michigan pages), read Nov. 14, 2026. Prep steps are our suggestions."
     description: "One-page sheet of the 11 states whose liquor stores close on Christmas Day 2026, with each rule, New Year's Day closures and the states not confirmed."
     alt: "Printable sheet of states where liquor stores are closed on Christmas Day 2026, with the rule for each state and a countdown to Dec. 25"
     data:

@@ -135,8 +135,8 @@ draft: false
 13. **Which state came second?** California, at about 162 million pounds (ERS, 2025).
 14. **On what date did Abraham Lincoln issue his Thanksgiving proclamation?** Oct. 3, 1863, according to the National Archives' DocsTeach.
 15. **Which day did Lincoln name?** He set apart "the last Thursday of November next, as a day of Thanksgiving and Praise."
-16. **What changed in 1939?** The National Archives' Center for Legislative Archives says "the last Thursday in November fell on the last day of the month." President Franklin D. Roosevelt moved the holiday a week earlier to lengthen the Christmas shopping season.
-17. **When did the fourth-Thursday rule become law?** The House passed a joint resolution on Oct. 6, 1941, and the Senate amended it to "the fourth Thursday." "President Roosevelt signed the resolution on December 26, 1941."
+16. **What changed in 1939?** The National Archives' Center for Legislative Archives says "the last Thursday in November fell on the last day of the month," which was Nov. 30. President Franklin D. Roosevelt moved the holiday a week earlier to lengthen the Christmas shopping season.
+17. **When did the fourth-Thursday rule become law?** The House passed a joint resolution on Oct. 6, 1941, and the Senate amended it to "the fourth Thursday." "President Roosevelt signed the resolution on December 26, 1941." Since 1941 the holiday has been the fourth Thursday of November.
 18. **Between which two dates can Thanksgiving fall?** Nov. 22 and Nov. 28, which follows from the fourth-Thursday rule (our calculation).
 19. **What are the next two Thanksgiving dates?** Thursday, Nov. 26, 2026 and Thursday, Nov. 25, 2027 (our calculation). See [when Thanksgiving falls each year](/when-is/thanksgiving/).
 20. **In what year did George H.W. Bush pardon a turkey at the White House?** 1989. At the Nov. 17, 1989 proclamation signing, he said the turkey had been "granted a Presidential pardon," according to his presidential library. The 2026 ceremony is covered in [the turkey pardon 2026 story](/news/turkey-pardon-2026-date-time-white-house/).
