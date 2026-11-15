@@ -43,7 +43,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `January ${y} on one page, with New Year's Day and Martin Luther King Jr. Day in place for the first plans of the year.`,
     description: (y) =>
-      `Free January ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. New Year's Day and Martin Luther King Jr. Day are marked.`,
+      `Free January ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start. New Year's Day and Martin Luther King Jr. Day are marked.`,
     overview: (y) => [
       `January ${y} has 31 days and two federal holidays: New Year's Day on the 1st and Martin Luther King Jr. Day on the third Monday.`,
       `It is the month most people start a new calendar, so print it before the holidays end and write in what is already fixed.`,
@@ -71,7 +71,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `February ${y} with Valentine's Day and Presidents' Day, in a grid sized for the shortest month of the year.`,
     description: (y) =>
-      `Free February ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Valentine's Day and Presidents' Day are marked.`,
+      `Free February ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start. Valentine's Day and Presidents' Day are marked.`,
     overview: (y) => [
       `February ${y} has ${daysInMonth(y, 2)} days. Groundhog Day is on the 2nd, Valentine's Day on the 14th and Presidents' Day on the third Monday.`,
       `A short month often fits in four or five rows, which leaves larger boxes to write in.`,
@@ -99,7 +99,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `March ${y} with the start of daylight saving time and St. Patrick's Day, ready for spring plans.`,
     description: (y) =>
-      `Free March ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. St. Patrick's Day and the clock change are marked.`,
+      `Free March ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start. St. Patrick's Day and the clock change are marked.`,
     overview: (y) => [
       `March ${y} has 31 days. Clocks spring forward on the second Sunday, and St. Patrick's Day is on the 17th.`,
       `Spring break and the end of the first quarter often land here, so the month fills quickly.`,
@@ -127,7 +127,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `April ${y} with Earth Day and the tax deadline, and Easter when it falls in the month.`,
     description: (y) =>
-      `Free April ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Earth Day is marked, and Easter when it falls in April.`,
+      `Free April ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start. Earth Day is marked, and Easter when it falls in April.`,
     overview: (y) => [
       `April ${y} has 30 days. April Fools' Day is on the 1st and Earth Day on the 22nd; Easter falls in April in some years and March in others.`,
       `US income tax returns are normally due on April 15, or the next working day when that is a weekend or holiday.`,
@@ -155,7 +155,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `May ${y} with Mother's Day and the Memorial Day weekend, the unofficial start of summer.`,
     description: (y) =>
-      `Free May ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Mother's Day and Memorial Day are marked.`,
+      `Free May ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start. Mother's Day and Memorial Day are marked.`,
     overview: (y) => [
       `May ${y} has 31 days. Cinco de Mayo is on the 5th, Mother's Day on the second Sunday and Memorial Day on the last Monday.`,
       `Graduations and the end of the school year crowd the second half of the month.`,
@@ -183,7 +183,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `June ${y} with Flag Day, Juneteenth and Father's Day, as school ends and summer plans begin.`,
     description: (y) =>
-      `Free June ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Flag Day, Juneteenth and Father's Day are marked.`,
+      `Free June ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start. Flag Day, Juneteenth and Father's Day are marked.`,
     overview: (y) => [
       `June ${y} has 30 days. Flag Day is on the 14th, Juneteenth on the 19th and Father's Day on the third Sunday.`,
       `The longest days of the year in the Northern Hemisphere fall around the 21st.`,
@@ -211,7 +211,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `July ${y} with Independence Day and the middle of summer, for travel, camps and time off.`,
     description: (y) =>
-      `Free July ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start, on Letter or A4. Independence Day is marked.`,
+      `Free July ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start, on Letter or A4. Independence Day is marked.`,
     overview: (y) => [
       `July ${y} has 31 days and one federal holiday: Independence Day on the 4th.`,
       `When July 4 falls on a weekend, federal offices close on the nearest weekday.`,
@@ -239,7 +239,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `August ${y}, a month with no federal holidays, for back-to-school dates and the last trips of summer.`,
     description: (y) =>
-      `Free August ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start, on Letter or A4, with room for back-to-school dates.`,
+      `Free August ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start, on Letter or A4, with room for back-to-school dates.`,
     overview: (y) => [
       `August ${y} has 31 days and no US federal holidays.`,
       `Many school districts start the new year this month, so first days, orientations and supply lists belong here.`,
@@ -267,7 +267,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `September ${y} with Labor Day and the first full month of school, as routines settle in.`,
     description: (y) =>
-      `Free September ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Labor Day and Patriot Day are marked.`,
+      `Free September ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start. Labor Day and Patriot Day are marked.`,
     overview: (y) => [
       `September ${y} has 30 days. Labor Day is the first Monday, and Patriot Day is observed on the 11th.`,
       `Autumn begins in the Northern Hemisphere around the 22nd.`,
@@ -295,7 +295,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `October ${y} with Columbus Day and Halloween, and the first month of the federal fiscal year.`,
     description: (y) =>
-      `Free October ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Columbus Day and Halloween are marked.`,
+      `Free October ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start. Columbus Day and Halloween are marked.`,
     overview: (y) => [
       `October ${y} has 31 days. Columbus Day, also Indigenous Peoples' Day in many places, is the second Monday, and Halloween is on the 31st.`,
       `The US federal fiscal year starts on October 1.`,
@@ -323,7 +323,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `November ${y} with Veterans Day and Thanksgiving, and the end of daylight saving time.`,
     description: (y) =>
-      `Free November ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Veterans Day and Thanksgiving are marked.`,
+      `Free November ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start. Veterans Day and Thanksgiving are marked.`,
     overview: (y) => [
       `November ${y} has 30 days. Clocks fall back on the first Sunday, Veterans Day is on the 11th and Thanksgiving is the fourth Thursday.`,
       `Black Friday follows Thanksgiving, and the holiday season starts from there.`,
@@ -351,7 +351,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     lead: (y) =>
       `December ${y} with Christmas Eve, Christmas Day and New Year's Eve, for the busiest weeks of the year.`,
     description: (y) =>
-      `Free December ${y} calendar to print in seven designs, PDF or PNG, Sunday or Monday start. Christmas Day and New Year's Eve are marked.`,
+      `Free December ${y} calendar to print in eight designs, PDF or PNG, Sunday or Monday start. Christmas Day and New Year's Eve are marked.`,
     overview: (y) => [
       `December ${y} has 31 days. Christmas Day on the 25th is a federal holiday; Christmas Eve and New Year's Eve are not, though many workplaces close early.`,
       `Winter begins in the Northern Hemisphere around the 21st.`,
@@ -408,7 +408,7 @@ export function buildMonthlyFaq(
     },
     {
       q: `Which designs does the ${name} ${year} calendar come in?`,
-      a: `Seven: Classic, Modern, Minimal, Floral, Landscape, Holidays and Planner. Each one has a Sunday or a Monday start, on US Letter or A4, as a PDF and a PNG.`,
+      a: `Eight: Large Print, Classic, Modern, Minimal, Floral, Landscape, Holidays and Planner. Each one has a Sunday or a Monday start, on US Letter or A4, as a PDF and a PNG.`,
     },
   ];
 

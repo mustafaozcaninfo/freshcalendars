@@ -12,12 +12,12 @@
  * No Worker rule covers these paths: the deploy refuses an old-URL rule that matches a real page.
  */
 import {
-  buildMonthGrid, holidayWhenIsPath, holidaysForMonth, holidaysForYear, monthNumberToName, monthNumberToSlug,
-  resolveAllMonthYears, resolvePlanningYear,
+  buildMonthGrid, cdnUrl, holidayWhenIsPath, holidaysForMonth, holidaysForYear, monthNumberToName, monthNumberToSlug,
+  resolveAllMonthYears, resolvePlanningYear, type SeoMeta,
 } from "@freshcalendars/engine";
 import { breadcrumbNavHtml, esc } from "@freshcalendars/site-chrome";
 import { YEARLY_VARIANTS } from "./catalog.js";
-import { STUDIO_STYLES, studioAssets } from "./studio.js";
+import { CARD_STYLES, monthSearchImage, studioAssets, yearSearchImage } from "./studio.js";
 import { isoWeek } from "./toolPages.js";
 
 export type DatedPage = {
@@ -80,12 +80,28 @@ export function monthTable(year: number, month: number): string {
 </table>`;
 }
 
+/** A design card's picture is about a quarter of the 1100 px grid, or half a phone screen. */
+const CARD_SIZES = "(max-width:640px) 45vw, 240px";
+const monthImageName = (year: number, month: number, s: { label: string }) => `${monthNumberToName(month)} ${year} calendar, ${s.label} design`;
+const yearImageName = (year: number, v: { label: string }) => `${year} yearly calendar, ${v.label}`;
+
+/**
+ * The pictures a month or year page offers image search: the same files its design cards show
+ * (designCards, the year posters), so the page, its ImageObject data and the image sitemap agree.
+ */
+export function sheetSearchImages(year: number, month?: number | null): NonNullable<SeoMeta["searchImages"]> {
+  const list = month
+    ? CARD_STYLES.map((s) => ({ image: monthSearchImage(year, month, s.id), name: monthImageName(year, month, s), description: `Free printable ${monthNumberToName(month)} ${year} calendar. ${s.description}.` }))
+    : YEARLY_VARIANTS.map((v) => ({ image: yearSearchImage(year, v.id), name: yearImageName(year, v), description: `Free printable ${year} calendar on one page. ${v.description}` }));
+  return list.map(({ image, name, description }) => ({ url: cdnUrl(image.full), width: image.width, height: image.height, name, description }));
+}
+
 export function designCards(year: number, month: number): string {
   const name = monthNumberToName(month);
-  return `<ul class="design-grid">${STUDIO_STYLES.map((s) => {
+  return `<ul class="design-grid">${CARD_STYLES.map((s) => {
     const sun = studioAssets(year, month, s.id), mon = studioAssets(year, month, s.id, "letter", "monday"), a4 = studioAssets(year, month, s.id, "a4");
-    const wide = s.id === "landscape-soft";
-    return `<li><a class="dg-thumb" href="${sun.pdf}" title="${name} ${year} calendar, ${s.label} design, PDF"><img src="${sun.preview}" alt="${name} ${year} printable calendar, ${s.label} design, Sunday start" width="500" height="${wide ? 386 : 647}" loading="lazy" decoding="async"></a><h3>${s.label}</h3><p>${esc(s.description)}</p><a class="btn btn-primary btn-sm" href="${sun.pdf}" download>Download PDF</a><p class="dg-more"><a href="${mon.pdf}" download>Monday start</a><a href="${a4.pdf}" download>A4</a><a href="${sun.png}" download>PNG</a></p></li>`;
+    const image = monthSearchImage(year, month, s.id);
+    return `<li><a class="dg-thumb" href="${sun.pdf}" title="${name} ${year} calendar, ${s.label} design, PDF"><img src="${image.full}" srcset="${image.srcset}" sizes="${CARD_SIZES}" alt="${esc(monthImageName(year, month, s))}. ${esc(s.description)}" width="${image.width}" height="${image.height}" loading="lazy" decoding="async"></a><h3>${s.label}</h3><p>${esc(s.description)}</p><a class="btn btn-primary btn-sm" href="${sun.pdf}" download>Download PDF</a><p class="dg-more"><a href="${mon.pdf}" download>Monday start</a><a href="${a4.pdf}" download>A4</a><a href="${sun.png}" download>PNG</a></p></li>`;
   }).join("")}</ul>`;
 }
 
@@ -98,14 +114,14 @@ function monthPage(year: number, month: number, today: Date): DatedPage {
   const weeks = f.w1 === f.w2 ? `${f.w1}` : `${f.w1} to ${f.w2}`;
   const body = shell("dated-month", c, `
 <h1>${name} ${year} calendar</h1>
-<p class="tool-lead">${name} ${year} starts on a <strong>${f.start}</strong> and has <strong>${f.days} days</strong>. Print it free as a PDF in seven designs, on US Letter or A4, with a Sunday or a Monday start.</p>
+<p class="tool-lead">${name} ${year} starts on a <strong>${f.start}</strong> and has <strong>${f.days} days</strong>. Print it free as a PDF in eight designs, on US Letter or A4, with a Sunday or a Monday start.</p>
 <nav class="month-pager" aria-label="Other months">${prevHref ? `<a href="${prevHref}" rel="prev">← ${monthNumberToName(prev[1])} ${prev[0]}</a>` : "<span></span>"}${nextHref ? `<a href="${nextHref}" rel="next">${monthNumberToName(next[1])} ${next[0]} →</a>` : "<span></span>"}</nav>
 <div class="dated-top">
   ${monthTable(year, month)}
   <div class="tool-today dated-facts"><div><span>First day</span><strong>${f.start}, ${name} 1</strong></div><div><span>Last day</span><strong>${f.end}, ${name} ${f.days}</strong></div><div><span>Weekdays</span><strong>${f.weekdays} weekdays, ${f.weekendDays} weekend days</strong></div><div><span>Week numbers</span><strong>${weeks}</strong></div></div>
 </div>
 <p class="tool-note">Week numbers follow ISO 8601: a week runs Monday to Sunday, so the Sunday that opens a row belongs to the week before.</p>
-<h2>Print ${name} ${year}: seven designs</h2>
+<h2>Print ${name} ${year}: eight designs</h2>
 ${designCards(year, month)}
 <h2>Holidays in ${name} ${year}</h2>
 ${hols.length
@@ -119,8 +135,9 @@ ${hols.length
 <p>For a month with no dates printed, use the <a href="/blank-calendars.html">blank calendar</a>; for one week per page, the <a href="/printable-weekly-calendar.html">weekly planner</a>. The <a href="/print-guide.html">print guide</a> has the settings for Letter and A4.</p>`);
   return {
     id: `month-${year}-${monthNumberToSlug(month)}`, path: monthYearPath(year, month),
-    title: `${name} ${year} Calendar · Free Printable PDF`,
-    description: `Free printable ${name} ${year} calendar: PDF in seven designs, Letter or A4, Sunday or Monday start. ${name} ${year} starts on a ${f.start} and has ${f.days} days.`,
+    // Same wording as the evergreen month page (engine buildMeta.ts), which this page becomes.
+    title: `${name} ${year} Calendar · Free Printable PDF${hols.length ? " with Holidays" : ", 8 Designs"}`,
+    description: `Free printable ${name} ${year} calendar: PDF in eight designs, Letter or A4, Sunday or Monday start. ${name} ${year} starts on a ${f.start} and has ${f.days} days.`,
     body, crumbs: c, canonicalPath: evergreen, sheet: { year, month },
   };
 }
@@ -137,7 +154,7 @@ function yearPage(year: number, today: Date): DatedPage {
   const planning = resolvePlanningYear(today);
   const evergreen = year === planning ? "/printable-calendars.html" : year === planning + 1 ? "/printable-yearly-calendar.html" : undefined;
   const c = crumbs(["Calendars", "/calendars/"], [`${year}`, yearPath(year)]);
-  const posters = [...YEARLY_VARIANTS.map((v) => ({ label: v.label, base: `/assets/${year}/yearly/${v.id}`, wide: v.id === "landscape-wall" }))];
+  const posters = YEARLY_VARIANTS.map((v) => ({ label: v.label, base: `/assets/${year}/yearly/${v.id}`, image: yearSearchImage(year, v.id), alt: `${yearImageName(year, v)}. ${v.description.replace(/\.$/, "")}` }));
   const body = shell("dated-year", c, `
 <h1>${year} calendar</h1>
 <p class="tool-lead">${year} is a <strong>${leap ? "leap year with 366 days" : "common year with 365 days"}</strong>. It starts on a <strong>${jan1}</strong> and ends on a ${dec31}. Print the whole year on one page, or open any month for its own sheet.</p>
@@ -146,7 +163,7 @@ function yearPage(year: number, today: Date): DatedPage {
 <div class="year-minis">${Array.from({ length: 12 }, (_, i) => miniMonth(year, i + 1, today)).join("")}</div>
 <p class="tool-note">Shaded days are US holidays. Select a month name for its printable page.</p>
 <h2>Print ${year} on one page</h2>
-<ul class="design-grid">${posters.map((p) => `<li><a class="dg-thumb" href="${p.base}/calendar.pdf" title="${year} yearly calendar, ${esc(p.label)}, PDF"><img src="${p.base}/calendar-preview.webp" alt="${year} printable yearly calendar, ${esc(p.label)}" width="500" height="${p.wide ? 344 : 645}" loading="lazy" decoding="async"></a><h3>${esc(p.label)}</h3><a class="btn btn-primary btn-sm" href="${p.base}/calendar.pdf" download>Download PDF</a><p class="dg-more"><a href="${p.base}/calendar.png" download>PNG</a></p></li>`).join("")}</ul>
+<ul class="design-grid">${posters.map((p) => `<li><a class="dg-thumb" href="${p.base}/calendar.pdf" title="${year} yearly calendar, ${esc(p.label)}, PDF"><img src="${p.image.full}" srcset="${p.image.srcset}" sizes="${CARD_SIZES}" alt="${esc(p.alt)}" width="${p.image.width}" height="${p.image.height}" loading="lazy" decoding="async"></a><h3>${esc(p.label)}</h3><a class="btn btn-primary btn-sm" href="${p.base}/calendar.pdf" download>Download PDF</a><p class="dg-more"><a href="${p.base}/calendar.png" download>PNG</a></p></li>`).join("")}</ul>
 <h2>US holidays in ${year}</h2>
 <div class="tool-scroll"><table class="dates-table tool-table"><thead><tr><th scope="col">Holiday</th><th scope="col">Date</th></tr></thead><tbody>${hols.map((h) => `<tr><th scope="row"><a href="${holidayWhenIsPath(h.slug)}">${esc(h.name)}</a></th><td>${esc(h.formatted)}</td></tr>`).join("")}</tbody></table></div>
 <p>The same dates for other countries are on the <a href="/uk-holidays/">UK bank holidays</a> and <a href="/canada-holidays/">Canada holidays</a> pages, and <a href="/days-until/">days until a holiday</a> counts down to each one.</p>

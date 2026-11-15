@@ -65,9 +65,9 @@ import { TOOLS_JS, countdownPath, hasCountdown, toolPages } from "./toolPages.js
 import { holidayGuidesHtml, homeNewsHtml, newsStripHtml } from "./newsLinks.js";
 import { shopBoxHtml } from "./shopLinks.js";
 import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
-import { STUDIO_STYLES, studioAssets } from "./studio.js";
+import { yearSearchImage, STUDIO_STYLES, studioAssets } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
-import { datedPages, datedIndexNav, designCards, monthHref, monthTable, monthYearPath, yearHref } from "./datedPages.js";
+import { datedPages, datedIndexNav, designCards, monthHref, monthTable, monthYearPath, sheetSearchImages, yearHref } from "./datedPages.js";
 import { classroomGuideBody, fiscalGuideBody, mondayGuideBody, printGuideExtra } from "./guideCopy.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary } from "./conceptPages.js";
 
@@ -201,16 +201,40 @@ function metaTags(meta: SeoMeta, opts: { howTo?: boolean } = {}): string {
     },
     // No SearchAction: the site has no search page for it to point at.
   };
-  const imageLd = {
-    "@context": "https://schema.org",
-    "@type": "ImageObject",
-    contentUrl: meta.download.png,
-    url: meta.download.png,
-    name: meta.imageAlts[meta.download.png] ?? meta.title,
-    description: meta.description,
-    width: 1100,
-    height: 1420,
+  // Google's image license data: the terms the printables are free under, and where to ask for more.
+  const imageRights = {
+    license: absUrl("/page/terms-of-use/"),
+    acquireLicensePage: absUrl("/page/contact/"),
+    creditText: "Fresh Calendars",
+    creator: { "@type": "Organization", "@id": "https://freshcalendars.com/#organization", name: "Fresh Calendars", url: "https://freshcalendars.com/" },
+    copyrightNotice: "Fresh Calendars, Inc.",
   };
+  // Month and year pages describe the pictures their design cards show (datedPages.ts
+  // sheetSearchImages); a page with an empty list has no calendar picture of its own to offer.
+  const imageLd = meta.searchImages
+    ? meta.searchImages.map((img) => ({
+        "@context": "https://schema.org",
+        "@type": "ImageObject",
+        contentUrl: img.url,
+        url: img.url,
+        name: img.name,
+        description: img.description,
+        width: img.width,
+        height: img.height,
+        encodingFormat: "image/webp",
+        ...imageRights,
+      }))
+    : [{
+        "@context": "https://schema.org",
+        "@type": "ImageObject",
+        contentUrl: meta.download.png,
+        url: meta.download.png,
+        name: meta.imageAlts[meta.download.png] ?? meta.title,
+        description: meta.description,
+        width: 1100,
+        height: 1420,
+        ...imageRights,
+      }];
   const howToLd = opts.howTo
     ? {
         "@context": "https://schema.org",
@@ -259,7 +283,7 @@ ${hreflang}
 <meta name="twitter:image" content="${esc(meta.twitter.image)}" />
 <script type="application/ld+json">${JSON.stringify(websiteLd)}</script>
 <script type="application/ld+json">${JSON.stringify(breadcrumbLd)}</script>
-<script type="application/ld+json">${JSON.stringify(imageLd)}</script>
+${imageLd.length ? `<script type="application/ld+json">${JSON.stringify(imageLd)}</script>` : ""}
 ${meta.faq.length ? `<script type="application/ld+json">${JSON.stringify(faqLd)}</script>` : ""}
 ${howToLd ? `<script type="application/ld+json">${JSON.stringify(howToLd)}</script>` : ""}
 `;
@@ -689,17 +713,23 @@ function downloadHero(meta: SeoMeta, _visualSrc: string, _eyebrow: string, lead:
 
 function variantGallery(
   meta: SeoMeta,
-  opts: { heading?: string; lead?: string } = {},
+  opts: { heading?: string; lead?: string; yearPosters?: number } = {},
 ): string {
   if (!meta.variants?.length) return "";
   const items = meta.variants
     .map((v) => {
       const alt = meta.imageAlts[v.png] ?? `${meta.title}, ${v.label}`;
       const landscape = v.id.includes("landscape");
+      // Year posters show their search image (studio.ts yearSearchImage); the zoom viewer and the
+      // downloads keep the print PNG.
+      const poster = opts.yearPosters ? yearSearchImage(opts.yearPosters, v.id) : null;
+      const posterAlt = `${opts.yearPosters} yearly calendar, ${v.label}. ${v.description.replace(/\.$/, "")}`;
       return `
 <article class="gallery-item" id="template-${esc(v.id)}">
   <div class="gallery-visual">
-    ${imgTag({
+    ${poster
+      ? `<a href="${esc(v.png)}" title="${esc(posterAlt)}" class="zoomable img-link" data-lightbox-src="${esc(v.png)}" data-lightbox-alt="${esc(posterAlt)}" data-lightbox-w="${landscape ? 1600 : 1100}" data-lightbox-h="${landscape ? 1100 : 1420}"><img src="${poster.full}" srcset="${poster.srcset}" sizes="(max-width:640px) 92vw, 220px" alt="${esc(posterAlt)}" width="${poster.width}" height="${poster.height}" loading="lazy" decoding="async" /></a>`
+      : imgTag({
       src: v.png,
       alt,
       title: alt,
@@ -748,7 +778,7 @@ function nextYearMonth(m: number, y: number): string {
     <div><a class="img-link" href="${monthYearPath(ny, m)}" title="${name} ${ny} printable calendar"><img src="${f.preview}" alt="${name} ${ny} printable calendar, Classic design, Sunday start" width="540" height="697" loading="lazy" decoding="async"></a></div>
     <div>
       <h3>${name} ${ny} printable calendar</h3>
-      <p>Planning a year ahead? ${name} ${ny} starts on a ${start} and has ${days} days. The same seven designs are ready for ${ny}.</p>
+      <p>Planning a year ahead? ${name} ${ny} starts on a ${start} and has ${days} days. The same eight designs are ready for ${ny}.</p>
       <div class="cta">
         <a class="btn btn-primary btn-sm" href="${f.pdf}" download>${name} ${ny} PDF</a>
         <a class="btn btn-ghost btn-sm" href="${monday.pdf}" download>Monday start PDF</a>
@@ -928,7 +958,7 @@ function renderHome(meta: SeoMeta, today: Date): string {
       <div class="meta">
         <div class="label">Current month</div>
         <h3>${curName} ${curY}</h3>
-        <p style="margin:0 0 .85rem;color:var(--muted)">Seven designs, Sunday or Monday start, Letter or A4.</p>
+        <p style="margin:0 0 .85rem;color:var(--muted)">Eight designs, Sunday or Monday start, Letter or A4.</p>
         <div class="cta">
           <a class="btn btn-primary btn-sm" href="/${curSlug}-calendars.html" title="Open ${curName} ${curY} printable calendar page">Open ${curName}</a>
           ${downloadBtn(cdnUrl(curAssets.pdf), "PDF", `Download ${curName} ${curY} printable calendar PDF | Fresh Calendars`, "ghost", "sm")}
@@ -1005,7 +1035,7 @@ ${adUnit(ADS.homeMid, "FreshCalendars_Home_Mid", "banner")}
 <section class="section prose">
   <h2>What you can print here</h2>
   <ul class="feature-list">
-    <li><strong><a href="/monthly-calendars/">Monthly calendars</a>:</strong> seven designs for every month through ${planningYear + 4}.</li>
+    <li><strong><a href="/monthly-calendars/">Monthly calendars</a>:</strong> eight designs for every month through ${planningYear + 4}.</li>
     <li><strong><a href="/printable-calendars.html">Yearly calendars</a>:</strong> the whole year on one page.</li>
     <li><strong><a href="/blank-calendars.html">Blank calendars</a>:</strong> empty date boxes to fill in for any month.</li>
     <li><strong><a href="/printable-weekly-calendar.html">Weekly planners</a>:</strong> five layouts, from hourly to habit tracker.</li>
@@ -1088,7 +1118,7 @@ ${variantGallery(meta, {
 ${adUnit(ADS.homeMid, "FreshCalendars_Weekly_Mid", "banner")}
 <section class="section prose">
   <h2>Need a full month or year?</h2>
-  <p>Every month comes in seven designs with the holidays marked, and the yearly calendar puts ${resolvePlanningYear(today)} or ${resolvePlanningYear(today) + 1} on one page.</p>
+  <p>Every month comes in eight designs with the holidays marked, and the yearly calendar puts ${resolvePlanningYear(today)} or ${resolvePlanningYear(today) + 1} on one page.</p>
   <div class="month-chips">${monthChips(monthNumberToSlug(today.getMonth() + 1))}</div>
   <div class="cta" style="margin-top:1rem">
     <a class="btn btn-primary btn-sm" href="/printable-calendars.html">${resolvePlanningYear(today)} yearly</a>
@@ -1130,7 +1160,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_School_Top")}`;
     const main = `
 <section class="section prose">
   <h2>${esc(label)} month pack</h2>
-  <p>Each month of the school year as a black-and-white PDF and a Monday-start PDF. The month name opens all seven designs.</p>
+  <p>Each month of the school year as a black-and-white PDF and a Monday-start PDF. The month name opens all eight designs.</p>
   <div class="table-scroll" role="region" aria-label="School year month pack" tabindex="0">
   <table class="hol-table">
     <thead><tr><th>Month</th><th>Classic B&amp;W</th><th>Monday start</th></tr></thead>
@@ -1224,7 +1254,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_Monday_Top")}`;
 </section>
 <section class="section prose">
   <h2>All months</h2>
-  <p>Open a month and choose a Monday start: all seven designs have one.</p>
+  <p>Open a month and choose a Monday start: all eight designs have one.</p>
   <div class="month-chips">${monthChips()}</div>
   <p>Also see the <a href="/guides/monday-start-calendar.html">Monday or Sunday start guide</a>, <a href="/blank-calendars.html#template-monday-start">blank Monday-start month</a>, and <a href="/printable-weekly-calendar.html#template-monday-start">Monday-start weekly planner</a>.</p>
 </section>
@@ -1383,6 +1413,7 @@ export function renderPageHtml(
 ${adBand(ADS.yearTop, "Freshcalendars_New_Year", "header")}`;
     const main = `
 ${variantGallery(meta, {
+  yearPosters: y,
   heading: `${y} yearly calendar designs`,
   lead: "Portrait, landscape, holidays marked, Monday start and a compact low-ink version.",
 })}
@@ -1390,7 +1421,7 @@ ${adUnit(ADS.yearMid, "FreshCalendars_Year_InContent", "banner")}
 <section class="section prose">
   <h2>${y} on one page</h2>
   <p>A yearly calendar shows all twelve months of ${y} at once, which suits a wall or the inside of a planner. US holidays are tinted on the small months.</p>
-  <p>For large date boxes or holidays named in the boxes, open a month page: each month comes in seven designs.</p>
+  <p>For large date boxes or holidays named in the boxes, open a month page: each month comes in eight designs.</p>
   <p><strong>${isNext ? "Also available" : "Plan ahead"}:</strong> <a href="${otherHref}" title="${otherY} printable yearly calendar">${otherY} yearly calendar</a> in the same layouts.</p>
   <div class="du-chips">${[y + 1, y + 2, y + 3, y + 4].map((x) => { const href = yearHref(x, today); return href && href.endsWith("/") ? `<a href="${href}">${x} calendar</a>` : ""; }).join("")}</div>
   <h2>All months</h2>
@@ -1445,7 +1476,7 @@ ${faqSection(meta)}${shopBoxHtml("yearly")}`;
 ${adBand(ADS.monthTop, "FreshCalendars_Month_New_Header", "header")}`;
     const main = `
 ${monthPager(m)}
-<section class="section"><h2>${name} ${y}: all seven designs</h2>${designCards(y, m)}</section>
+<section class="section"><h2>${name} ${y}: all eight designs</h2>${designCards(y, m)}</section>
 ${nextYearMonth(m, y)}
 ${adUnit(ADS.monthMid, "FreshCalendars_Month_InContent", "banner")}
 <section class="section prose">
@@ -1493,7 +1524,7 @@ ${faqSection(meta)}${shopBoxHtml("monthly")}`;
           ],
           downloads: meta.download,
           downloadTitles: meta.downloadTitles,
-          extra: `<h3>On this page</h3><p>Seven designs, each on US Letter or A4 with a Sunday or Monday start, as PDF and PNG.</p>`,
+          extra: `<h3>On this page</h3><p>Eight designs, each on US Letter or A4 with a Sunday or Monday start, as PDF and PNG.</p>`,
         }),
       )}`,
       { preloadImage: displayPreviewUrl(meta.download.png) },
@@ -1852,7 +1883,7 @@ ${adBand(ADS.inArticle, "FreshCalendars_About_Top")}`;
 <section class="section prose">
   <h2>What we make</h2>
   <p>Fresh Calendars is a free printable calendar site. Each month has one page that always shows the next time that month comes round, so a bookmark keeps working, and every month and year through ${py + 4} also has its own address.</p>
-  <p>Months come in seven designs with a Sunday or a Monday start, on US Letter or A4. There are yearly calendars, blank calendars, weekly planners and a school-year calendar too, plus holiday dates for the US, the UK and Canada and a set of date calculators. Everything is free to download.</p>
+  <p>Months come in eight designs with a Sunday or a Monday start, on US Letter or A4. There are yearly calendars, blank calendars, weekly planners and a school-year calendar too, plus holiday dates for the US, the UK and Canada and a set of date calculators. Everything is free to download.</p>
   <h2>How downloads work</h2>
   <p>Every calendar is a PDF for printing and a PNG image. Weekdays and holiday dates are calculated for each year, not typed in. If you share a calendar, please link to its page and not to the file.</p>
   <h2>Get in touch</h2>
@@ -2237,6 +2268,9 @@ export function renderConceptHubs(home: SeoMeta, today: Date): { meta: SeoMeta; 
     // A month or year the evergreen page shows today: one indexed address, not two (datedPages.ts).
     if (p.canonicalPath) meta.canonical = `https://freshcalendars.com${p.canonicalPath}`;
     if (p.sheet) meta.calendar = { ...meta.calendar, year: p.sheet.year, month: p.sheet.month ?? null };
+    // The home page's poster (spread in above) is not on these pages: a dated page offers its own
+    // design cards, a tool or library page nothing.
+    meta.searchImages = p.sheet ? sheetSearchImages(p.sheet.year, p.sheet.month) : [];
     meta.ogImagePath = ogImagePath; meta.openGraph.images = [{ url: ogUrl, width: 1200, height: 630, alt: p.title }]; meta.twitter.image = ogUrl;
     return { meta, html: layout(meta, tool && !dated ? `${p.body}<script>${TOOLS_JS}</script>` : p.body, { today }), file: p.path.slice(1) + "index.html" };
   });
@@ -2284,11 +2318,13 @@ ${urls}
   await writeSitePage("sitemap.xml", xml);
 
   const imageUrls = indexable
-    .filter((m) => m.download?.png || (m.variants && m.variants.length))
+    .filter((m) => (m.searchImages ? m.searchImages.length : m.download?.png || (m.variants && m.variants.length)))
     .map((m) => {
-      const imgs = m.variants?.length
-        ? m.variants.map((v) => ({ loc: v.png }))
-        : [{ loc: m.download.png }];
+      const imgs = m.searchImages
+        ? m.searchImages.map((img) => ({ loc: img.url }))
+        : m.variants?.length
+          ? m.variants.map((v) => ({ loc: v.png }))
+          : [{ loc: m.download.png }];
       const imageXml = imgs
         .map(
           (img) => `    <image:image>
