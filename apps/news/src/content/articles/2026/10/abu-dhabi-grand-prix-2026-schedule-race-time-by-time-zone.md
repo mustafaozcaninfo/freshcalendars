@@ -3,6 +3,7 @@ title: "Abu Dhabi Grand Prix Time 2026: 8 a.m. ET on Sunday, Dec. 6"
 description: "The Abu Dhabi Grand Prix 2026 starts Sunday, Dec. 6 at 8 a.m. ET (5 p.m. Gulf time). Race and qualifying times in eight time zones, plus a printable."
 type: news
 publishedAt: "2026-10-30T23:50:00-04:00"
+updatedAt: "2026-11-15T01:20:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Abu Dhabi Grand Prix 2026 time", "F1 Abu Dhabi 2026 schedule", "F1 season finale 2026 start time", "Abu Dhabi GP race time ET"]
@@ -21,7 +22,7 @@ hero:
 summary:
   - "The Formula 1 (F1) Abu Dhabi Grand Prix race starts Sunday, Dec. 6, 2026, at 5 p.m. Gulf Standard Time (GST), which is 8 a.m. Eastern Time (ET), 5 a.m. Pacific Time (PT) and 1 p.m. in the UK, by our conversion of formula1.com times."
   - "Qualifying is Saturday, Dec. 5, at 6 p.m. GST, 9 a.m. ET. Practice 1 is Friday, Dec. 4, at 1:30 a.m. PT, 4:30 a.m. ET."
-  - "It is the final round, Round 23 of 23, of F1's 2026 calendar, one week after Qatar (Nov. 27 to 29)."
+  - "It is the final round, Round 23 of 23, of F1's 2026 calendar, one week after Qatar (Nov. 27 to 29). Kimi Antonelli already clinched the 2026 drivers' title, so Abu Dhabi will not decide it."
   - "Formula 1 says Apple is its exclusive U.S. broadcast partner from 2026, with Apple TV hosting all Free Practice, Qualifying, Sprint sessions and Grands Prix."
 faq:
   - q: "What time is the Abu Dhabi Grand Prix race in 2026?"
@@ -32,6 +33,8 @@ faq:
     a: "F1's race page lists 58 laps and a race distance of 306.188 km at Yas Marina Circuit."
   - q: "Is the Abu Dhabi Grand Prix the last race of 2026?"
     a: "Yes. F1's 2026 calendar lists Abu Dhabi last, as Round 23 of 23."
+  - q: "Will the Abu Dhabi Grand Prix decide the 2026 drivers' title?"
+    a: "No. Formula 1 reported on Nov. 14, 2026 that Kimi Antonelli of Mercedes became the youngest World Champion in F1 history, and its photo caption from Mexico City on Nov. 1 calls him the 2026 F1 World Drivers Champion."
   - q: "Where can you watch the Abu Dhabi Grand Prix in the U.S.?"
     a: "Formula 1 announced on Oct. 17, 2025 that Apple is the sport's exclusive U.S. broadcast partner from 2026, and that Apple TV hosts all Free Practice, Qualifying, Sprint sessions and Grands Prix."
 sources:
@@ -49,6 +52,13 @@ sources:
     url: "https://www.fia.com/news/f1-norris-crowned-fia-formula-one-world-champion-verstappen-takes-abu-dhabi-win"
     publisher: "Federation Internationale de l'Automobile (FIA)"
     date: "2025-12-07"
+  - title: "Our writers on Antonelli's title success and what it means"
+    url: "https://www.formula1.com/en/latest/article/our-writers-on-antonellis-title-success-and-what-it-means.2FAfHA49byUlrrTfVgWKWc"
+    publisher: "Formula 1"
+    date: "2026-11-14"
+  - title: "2026 Drivers' Standings"
+    url: "https://www.formula1.com/en/results/2026/drivers"
+    publisher: "Formula 1"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -123,7 +133,11 @@ Qualifying is on Saturday, Dec. 5, at 6 p.m. GST, which is 9 a.m. ET and 6 a.m. 
 
 ## How did the 2025 Abu Dhabi Grand Prix end?
 
-In 2025, the Federation Internationale de l'Automobile (FIA) reported on Dec. 7 that Max Verstappen won the Abu Dhabi Grand Prix, his 71st career win, and that Lando Norris was crowned the 2025 drivers' world champion. This story does not cover the 2026 title situation.
+In 2025, the Federation Internationale de l'Automobile (FIA) reported on Dec. 7 that Max Verstappen won the Abu Dhabi Grand Prix, his 71st career win, and that Lando Norris was crowned the 2025 drivers' world champion.
+
+## Is the 2026 drivers' title still open at Abu Dhabi?
+
+No. Formula 1 reported on Nov. 14, 2026 that Kimi Antonelli of Mercedes "became the youngest World Champion in Formula 1 history." A Formula 1 photo caption from Mexico City, Nov. 1, calls him the "2026 F1 World Drivers Champion and third placed," so he clinched with third place at that race. Formula 1's 2026 drivers' standings after Round 20 in São Paulo (Nov. 6 to 8, won by Lando Norris) list Antonelli first with 390 points, Max Verstappen second with 279 and George Russell third with 262.
 
 ## Where can you watch the Abu Dhabi Grand Prix in the U.S.?
 
