@@ -100,7 +100,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [netflix-christmas-movies-2026-release-dates-holiday-watch-list, christmas-movies-on-tv-2026-schedule-by-channel, advent-calendar-2026-dates-free-printable]
+related: [netflix-christmas-movies-2026-release-dates-holiday-watch-list, christmas-movies-on-tv-2026-schedule-by-channel, christmas-movie-bingo-2026-printable-cards]
 downloads:
   - group: "Hallmark Countdown to Christmas 2026 Movie Checklist printables"
     title: "Hallmark Countdown to Christmas 2026 Movie Checklist"

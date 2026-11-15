@@ -85,7 +85,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [video-game-release-dates-november-2026-gta-6-ocarina-of-time, steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027, playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2]
+related: [video-game-release-dates-november-2026-gta-6-ocarina-of-time, steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027, nintendo-black-friday-2026-deals-switch-2-bundle-dates]
 draft: false
 ---
 

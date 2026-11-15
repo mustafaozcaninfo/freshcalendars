@@ -30,6 +30,7 @@ import { buildNflBracketDownloads } from "./nflBracket.js";
 import { buildMarchMadnessBracketDownloads } from "./marchMadnessBracket.js";
 import { buildGiftListDownloads } from "./giftList.js";
 import { buildHabitTrackerDownloads } from "./habitTracker.js";
+import { buildChristmasMovieBingoDownloads } from "./christmasMovieBingo.js";
 import { buildSuperBowlSquaresDownloads } from "./superBowlSquares.js";
 import { buildDryJanuaryDownloads } from "./dryJanuary.js";
 import { buildJanuaryResetDownloads } from "./januaryReset.js";
@@ -165,6 +166,8 @@ async function main(): Promise<void> {
       await buildNflBracketDownloads();
     } else if (cmd === "news-march-madness-bracket") {
       await buildMarchMadnessBracketDownloads();
+    } else if (cmd === "news-christmas-movie-bingo") {
+      await buildChristmasMovieBingoDownloads();
     } else if (cmd === "news-habit-tracker") {
       await buildHabitTrackerDownloads();
     } else if (cmd === "news-super-bowl-squares") {
@@ -279,6 +282,7 @@ async function main(): Promise<void> {
   pnpm fc news-january-reset               # /news/ January 2027 reset planner: 4-page PDF
   pnpm fc news-dry-january                 # /news/ Dry January 2027 31-day tracker
   pnpm fc news-thanksgiving-cooking        # /news/ Thanksgiving Day 2026 cooking plan by turkey weight
+  pnpm fc news-christmas-movie-bingo       # /news/ Christmas movie bingo: 6 cards and a caller sheet
   pnpm fc news-thanksgiving-printables     # /news/ Thanksgiving place cards, gratitude cards and word search
   pnpm fc news-shopping                    # /news/ Black Friday planner + Christmas Eve checklist (3 themes each)
   pnpm fc news-sky                         # /news/ Orionid viewing times + checklist (night, ink)
