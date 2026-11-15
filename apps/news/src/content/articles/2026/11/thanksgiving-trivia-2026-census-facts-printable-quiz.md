@@ -100,7 +100,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [why-thanksgiving-2026-is-november-26, thanksgiving-printables-2026-place-cards-kids-table-activities, turkey-pardon-2026-date-time-white-house]
+related: [why-thanksgiving-2026-is-november-26, christmas-facts-2026-census-numbers-printable-quiz, turkey-pardon-2026-date-time-white-house]
 downloads:
   - group: "Thanksgiving Trivia Quiz 2026 printables"
     title: "Thanksgiving Trivia Quiz 2026"

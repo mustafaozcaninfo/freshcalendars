@@ -77,7 +77,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston, christmas-tree-lightings-2026-dates-times-nyc-dc-boston, us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc]
+related: [zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston, christmas-at-biltmore-2026-candlelight-evenings-dates, us-christmas-markets-2026-opening-dates-philadelphia-dc-detroit-nyc]
 draft: false
 assets:
   overlay: true
