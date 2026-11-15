@@ -1,9 +1,9 @@
 ---
 title: "The Game Awards 2026 Tickets: AXS Sale Oct. 29, Show Dec. 10"
-description: "The Game Awards 2026 tickets went on sale Oct. 29 at 10 a.m. PT (1 p.m. ET) via AXS. The show is Thu., Dec. 10. Sale times by zone and a countdown."
+description: "The Game Awards 2026 tickets went on sale Oct. 29 via AXS. The show is Thu., Dec. 10, 7:30 p.m. ET. Sale times by time zone and a countdown."
 type: news
 publishedAt: "2026-10-28T19:45:00-04:00"
-updatedAt: "2026-10-30T01:05:00-04:00"
+updatedAt: "2026-11-15T11:30:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["the game awards 2026", "the game awards 2026 tickets", "the game awards 2026 date", "game awards nominations 2026 date", "when is the game awards 2026"]
@@ -23,7 +23,7 @@ summary:
   - "Public tickets for The Game Awards 2026 went on sale Thursday, Oct. 29, 2026 at 10 a.m. Pacific Time (PT), which is 1 p.m. Eastern Time (ET), through AXS."
   - "The show is Thursday, Dec. 10, 2026, streaming live from the Peacock Theater in Los Angeles, 42 days after the ticket sale."
   - "The Game Awards lists the 2026 nominees as coming mid-November and has not named an exact day."
-  - "Start time, ticket prices, fan voting dates and the streaming platforms are not yet announced."
+  - "The show starts at 7:30 p.m. ET (4:30 p.m. PT) and fan voting closes Wednesday, Dec. 9 at 6 p.m. PT (9 p.m. ET); ticket prices, the fan voting opening date and the streaming platforms are not yet announced."
 faq:
   - q: "When do The Game Awards 2026 tickets go on sale?"
     a: "A limited number of public tickets went on sale at 10 a.m. PT / 1 p.m. ET on Thursday, Oct. 29, 2026, through AXS, according to The Game Awards."
@@ -34,7 +34,9 @@ faq:
   - q: "When are the 2026 Game Awards nominations announced?"
     a: "The Game Awards homepage says the 2026 nominees are coming mid-November. No exact day is announced yet."
   - q: "What time does The Game Awards 2026 start?"
-    a: "The start time is not yet announced. We will add it once The Game Awards publishes it."
+    a: "The opening act starts at 7:30 p.m. ET / 4:30 p.m. PT on Thursday, Dec. 10, 2026, according to The Game Awards FAQ."
+  - q: "When does fan voting close for The Game Awards 2026?"
+    a: "Fan voting closes on Wednesday, Dec. 9, 2026 at 6 p.m. PT (9 p.m. ET), per The Game Awards FAQ. The opening date is not yet announced."
 sources:
   - title: "TGA Returns December 10, 2026"
     url: "https://thegameawards.com/news/tga-returns-december-10-2026"
@@ -44,6 +46,9 @@ sources:
     url: "https://thegameawards.com/news/public-tickets-on-sale-october-29"
     publisher: "The Game Awards"
     date: "2026-10-08"
+  - title: "FAQ & Rules | The Game Awards"
+    url: "https://thegameawards.com/faq"
+    publisher: "The Game Awards"
   - title: "The Game Awards"
     url: "https://thegameawards.com/"
     publisher: "The Game Awards"
@@ -69,28 +74,30 @@ assets:
     slug: the-game-awards-2026-countdown
     group: the-game-awards-2026
     title: "The Game Awards 2026 Countdown and Key Dates"
-    subtitle: "Ticket sale, nominations and show date"
+    subtitle: "Ticket sale, nominations, voting and show"
+    noKit: "The source prints the start as '7:30p ET / 4:30p PT', a time format the watch-guide quote check cannot read, so the dated rows use the timeline layout."
     layout: timeline
     rows:
       - ["Thu., Oct. 29", "Public ticket sale on AXS, 10 a.m. PT / 1 p.m. ET"]
       - ["Mid-November", "Nominees announced (day not yet announced)"]
-      - ["Thu., Dec. 10", "The Game Awards 2026, Peacock Theater, Los Angeles (42 days after the ticket sale)"]
-    note: "Source: The Game Awards (thegameawards.com), checked Oct. 28, 2026. Start time and ticket prices are not yet announced."
-    description: "A one-page The Game Awards 2026 countdown with the Oct. 29 ticket sale, mid-November nominations and the Dec. 10 show date."
-    alt: "The Game Awards 2026 countdown listing the Oct. 29 ticket sale, mid-November nominations and the Dec. 10 show"
+      - ["Wed., Dec. 9", "Fan voting closes, 6 p.m. PT / 9 p.m. ET"]
+      - ["Thu., Dec. 10", "The Game Awards 2026, Peacock Theater, Los Angeles, opening act 7:30 p.m. ET / 4:30 p.m. PT"]
+    note: "Source: The Game Awards FAQ (thegameawards.com/faq), checked Nov. 15, 2026. Ticket prices and the nominees' day are not yet announced."
+    description: "A one-page The Game Awards 2026 countdown with the Oct. 29 ticket sale, the Dec. 9 fan voting close and the Dec. 10 start time."
+    alt: "The Game Awards 2026 countdown listing the ticket sale, fan voting close and show start time"
 downloads:
   - group: "The Game Awards 2026 Countdown and Key Dates printables"
     title: "The Game Awards 2026 Countdown and Key Dates"
-    description: "A one-page The Game Awards 2026 countdown with the Oct. 29 ticket sale, mid-November nominations and the Dec. 10 show date."
+    description: "A one-page The Game Awards 2026 countdown with the Oct. 29 ticket sale, the Dec. 9 fan voting close and the Dec. 10 start time."
     preview: ../../../../assets/news/the-game-awards-2026/the-game-awards-2026-countdown.png
-    alt: "The Game Awards 2026 countdown listing the Oct. 29 ticket sale, mid-November nominations and the Dec. 10 show"
+    alt: "The Game Awards 2026 countdown listing the ticket sale, fan voting close and show start time"
     pdf: "/news/downloads/the-game-awards-2026/the-game-awards-2026-countdown.pdf"
     png: "/news/downloads/the-game-awards-2026/the-game-awards-2026-countdown.png"
     pages: 1
 draft: false
 ---
 
-**Public tickets for The Game Awards 2026 went on sale Thursday, Oct. 29, 2026, at 10 a.m. Pacific Time (PT), which is 1 p.m. Eastern Time (ET), through AXS, and the show is Thursday, Dec. 10, 2026 at the Peacock Theater in Los Angeles, according to The Game Awards.** Its announcement says "a limited number of public tickets" will be available, so buy "while available." Below: the sale time in each time zone, what is still not announced, and a dated countdown.
+**Public tickets for The Game Awards 2026 went on sale Thursday, Oct. 29, 2026, at 10 a.m. Pacific Time (PT), which is 1 p.m. Eastern Time (ET), through AXS, and the show is Thursday, Dec. 10, 2026 at the Peacock Theater in Los Angeles, according to The Game Awards.** The show starts at 7:30 p.m. ET / 4:30 p.m. PT, per the official Frequently Asked Questions (FAQ) page, and the August announcement says "Limited public tickets to attend will go on sale on October 29 at AXS." Below: the sale time in each time zone, show-night and voting times, what is still not announced, and a dated countdown.
 
 ## What time do The Game Awards 2026 tickets go on sale?
 
@@ -110,7 +117,7 @@ Prices are not listed on The Game Awards announcement. The [AXS event page](http
 
 ## When is The Game Awards 2026?
 
-The Game Awards 2026 takes place on Thursday, Dec. 10, 2026, "streaming live from Peacock Theater in Los Angeles," according to its Aug. 10, 2026 announcement. From the ticket sale on Oct. 29 to show night is 42 days. Last year the show was on Thursday, Dec. 11, 2025, per The Game Awards nominees page.
+The Game Awards 2026 takes place on Thursday, Dec. 10, 2026, "streaming live from Peacock Theater in Los Angeles," according to its Aug. 10, 2026 announcement. From the ticket sale on Oct. 29 to show night is 42 days. The FAQ gives the opening act as 7:30 p.m. ET / 4:30 p.m. PT. Fan voting closes the night before, on Wednesday, Dec. 9 at 6 p.m. PT (9 p.m. ET), on TheGameAwards.com (in China via Bilibili). Winners are decided 90% by the voting jury and 10% by fan vote. Last year the show was on Thursday, Dec. 11, 2025, per The Game Awards nominees page.
 
 ## When are the 2026 Game Awards nominations announced?
 
@@ -120,14 +127,13 @@ For a comparison with another awards season, see our [Grammy nominations 2027 da
 
 ## What is not announced yet?
 
-| Item | Status on Oct. 28, 2026 |
+| Item | Status on Nov. 15, 2026 |
 |---|---|
-| Show start time | Not yet announced |
-| Exact nominations day | Not yet announced (mid-November) |
-| Fan voting dates | Not yet announced |
-| Streaming platforms | The homepage says "streams live on all platforms" and names none |
+| Exact nominations day | Not yet announced (the nominees page says "coming mid-November") |
+| Fan voting opening date | Not yet announced (closes Dec. 9, 6 p.m. PT) |
+| Streaming platforms | Free "across all major streaming services"; no platform is named |
 | Pre-show | Not yet announced |
-| Ticket prices | Not listed on the announcement |
+| Ticket prices | Not confirmed |
 
 ## What happened at The Game Awards 2025?
 
@@ -135,4 +141,4 @@ In 2025, Game of the Year went to Clair Obscur: Expedition 33 from Sandfall Inte
 
 ## Free The Game Awards 2026 countdown
 
-Our one-page printable lists the three dates above: the Oct. 29 ticket sale, mid-November nominations and the Dec. 10 show. Mark them on your [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html). Related gaming dates are in our [Grand Theft Auto (GTA) 6 countdown](/news/gta-6-countdown-release-time-by-time-zone/) and [PlayStation Plus November 2026 games](/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/) stories.
+Our one-page printable lists the Oct. 29 ticket sale, mid-November nominations, the Dec. 9 fan voting close and the Dec. 10 start time. Mark them on your [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html). Related gaming dates are in our [Grand Theft Auto (GTA) 6 countdown](/news/gta-6-countdown-release-time-by-time-zone/) and [PlayStation Plus November 2026 games](/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/) stories.
