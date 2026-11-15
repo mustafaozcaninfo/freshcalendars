@@ -3,6 +3,7 @@ title: "Social Security Payment Schedule December 2026: Dec. 9, 16, 23"
 description: "Social Security pays Dec. 9, 16 and 23, 2026, by birthday. January's SSI payment arrives Dec. 31, with the 3.6% raise. A printable marks every date."
 type: news
 publishedAt: "2026-10-31T10:29:00-04:00"
+updatedAt: "2026-11-15T03:20:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["Social Security payment schedule December 2026", "SSI payment December 31 2026", "Social Security payment dates by birthday December 2026", "Social Security COLA 2027 first payment"]
@@ -31,7 +32,7 @@ faq:
   - q: "Why is there no SSI payment in January 2027?"
     a: "Jan. 1, 2027 is New Year's Day, a federal holiday. Under SSA's early-payment rule, January's SSI is paid Thursday, Dec. 31, 2026."
   - q: "When do I see the 3.6% COLA?"
-    a: "SSI recipients see it in the Dec. 31, 2026 payment. Social Security recipients see it in payments made in January 2027."
+    a: "SSA's Oct. 14, 2026 announcement says the 3.6% COLA reaches nearly 72 million Social Security beneficiaries beginning in January 2027. SSI recipients see it in the Dec. 31, 2026 payment."
   - q: "When do people who started benefits before May 1997 get paid in January 2027?"
     a: "Jan. 3, 2027 is a Sunday. SSA has not confirmed that date on a page we could read, so check your my Social Security account."
 sources:
@@ -41,6 +42,10 @@ sources:
   - title: "Schedule of Social Security Payments"
     url: "https://www.ssa.gov/pubs/calendar.htm"
     publisher: "Social Security Administration"
+  - title: "Social Security Announces 3.6 Percent Benefit Increase for 2027"
+    url: "https://content.govdelivery.com/accounts/USSSA/bulletins/42e75c3"
+    publisher: "Social Security Administration"
+    date: "2026-10-14"
   - title: "Social Security announces cost-of-living adjustment for 2027"
     url: "https://foxbusiness.com/economy/social-security-announces-cost-of-living-adjustment-2027"
     publisher: "Fox Business"
@@ -117,7 +122,7 @@ SSI is normally paid on the 1st. Jan. 1, 2027 is New Year's Day, a Friday and a 
 
 ## When does the 3.6% COLA first appear?
 
-Fox Business and American Broadcasting Company (ABC) News both reported on Oct. 14, 2026 that the 2027 cost-of-living adjustment (COLA) is 3.6%. It first appears in the SSI payment of Dec. 31, 2026 and in Social Security payments made in January 2027. December's Social Security payments above are for November benefits and use 2026 amounts. Amounts and a January table are in [Social Security COLA 2027 is 3.6%](/news/social-security-cola-2027-3-6-percent-payment-dates/).
+The Social Security Administration announced on Oct. 14, 2026 that the 2027 cost-of-living adjustment (COLA) is 3.6%, and Fox Business and American Broadcasting Company (ABC) News reported the same figure. SSA's announcement says increased payments to about 7.3 million people receiving SSI begin on Dec. 31, 2026. The raise first appears in the SSI payment of Dec. 31, 2026 and in Social Security payments made in January 2027. December's Social Security payments above are for November benefits and use 2026 amounts. Amounts and a January table are in [Social Security COLA 2027 is 3.6%](/news/social-security-cola-2027-3-6-percent-payment-dates/).
 
 ## What are the January 2027 Social Security dates?
 
