@@ -72,7 +72,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [usps-holiday-shipping-deadlines-2026, christmas-new-year-trash-pickup-2026-by-city, whats-open-new-years-eve-new-years-day-2027]
+related: [usps-holiday-shipping-deadlines-2026, is-hobby-lobby-open-thanksgiving-2026-black-friday-hours, whats-open-new-years-eve-new-years-day-2027]
 downloads:
   - group: "Christmas printables"
     title: "Christmas Eve 2026 Last-Minute Checklist (Classic)"
