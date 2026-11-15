@@ -89,7 +89,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, black-friday-2026-store-hours-walmart-target-best-buy]
+related: [walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access, is-target-open-thanksgiving-2026-black-friday-hours, black-friday-2026-store-hours-walmart-target-best-buy]
 downloads:
   - group: "Walmart Black Friday Week 2026 printables"
     title: "Walmart Black Friday Week 2026: Online and In-Store Times"
