@@ -114,7 +114,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [turkey-pardon-2026-date-time-white-house, thanksgiving-2026-tv-schedule-macys-parade-nfl-games, thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv]
+related: [thanksgiving-printables-2026-place-cards-kids-table-activities, turkey-pardon-2026-date-time-white-house, thanksgiving-2026-tv-schedule-macys-parade-nfl-games]
 draft: false
 ---
 

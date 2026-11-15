@@ -3,7 +3,7 @@ title: "SNAP Income Limits 2027: $1,729 for One, $3,575 for Four"
 description: "Supplemental Nutrition Assistance Program (SNAP) gross income limits for 2027 are $1,729 a month for one person and $3,575 for four, with maximum benefits."
 type: news
 publishedAt: "2026-11-04T07:35:00-05:00"
-updatedAt: "2026-11-08T02:48:27-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["snap maximum benefit 2027", "snap income limits 2027", "snap benefit amounts 2027", "how much snap for family of 4 2027"]
@@ -23,7 +23,7 @@ summary:
   - "The maximum monthly Supplemental Nutrition Assistance Program (SNAP) benefit for fiscal year (FY) 2027, Oct. 1, 2026 to Sept. 30, 2027, is $306 for one person and $1,023 for four in the 48 states and DC, per the U.S. Department of Agriculture (USDA) Food and Nutrition Service (FNS)."
   - "The gross monthly income limit, 130% of poverty, is $1,729 for one person and $3,575 for four; the net limit is $1,330 and $2,750."
   - "Each additional person adds $225 to the maximum benefit, $616 to the gross limit and $474 to the net limit."
-  - "FNS says its eligibility page is being updated for changes from the Working Families Tax Cut Act, so the income figures may change."
+  - "FNS says it is still updating its eligibility page for changes from the Working Families Tax Cut Act, which cover work requirements and non-citizen eligibility."
 faq:
   - q: "What is the maximum SNAP benefit for a family of 4 in 2027?"
     a: "$1,023 a month in the 48 states and DC for fiscal year 2027, which runs from Oct. 1, 2026 to Sept. 30, 2027, according to FNS. Alaska, Guam, Hawaii and the U.S. Virgin Islands have their own amounts, listed in the table above."
@@ -34,16 +34,16 @@ faq:
   - q: "Can SNAP be less than the maximum?"
     a: "Yes. FNS lists the maximum, not what every household gets. It also lists a minimum benefit of $25 for one- and two-person households in the 48 states and DC."
   - q: "Are the 2027 SNAP income limits final?"
-    a: "FNS says its eligibility page \"is being updated for changes from the Working Families Tax Cut Act, so the figures may change.\" Check the page before you rely on the income limits."
+    a: "FNS lists them for Oct. 1, 2026 through Sept. 30, 2027 and says, \"We are in the process of updating this page with the changes made by the Working Families Tax Cut Act,\" which change work requirements and non-citizen eligibility. The income figures on the page were unchanged when we read it on Nov. 14. Check the page before you rely on them."
 sources:
   - title: "SNAP Cost-of-Living Adjustment (COLA) Information"
     url: "https://www.fns.usda.gov/snap/allotment/cola"
     publisher: "USDA Food and Nutrition Service"
-    date: "2026-10-21"
+    date: "2026-11-14"
   - title: "SNAP Eligibility"
     url: "https://www.fns.usda.gov/snap/recipient/eligibility"
     publisher: "USDA Food and Nutrition Service"
-    date: "2026-11-03"
+    date: "2026-11-14"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "printable yearly calendar"
@@ -88,10 +88,10 @@ assets:
         - { cells: { household: "Each added person", max: "+$225", gross: "+$616", net: "+$474" }, src: 1 }
       note:
         - "Amounts are for the 48 states and DC, fiscal year 2027 (Oct. 1, 2026 to Sept. 30, 2027)."
-        - "Gross income limit is 130% of the poverty line; net is 100%. FNS says the income figures may change."
+        - "Gross income limit is 130% of the poverty line; net is 100%. FNS says it is still updating the page for Working Families Tax Cut Act changes."
       unconfirmed:
         - { label: "Alaska, Guam, Hawaii and U.S. Virgin Islands amounts", why: "FNS lists separate figures for them, not in this 48-states table" }
-    note: "Source: USDA Food and Nutrition Service, SNAP Cost-of-Living Adjustment (COLA) Information (updated Oct. 21, 2026) and SNAP Eligibility (updated Nov. 3, 2026). Amounts are for the 48 states and DC; FNS says the income figures may change."
+    note: "Source: USDA Food and Nutrition Service, SNAP Cost-of-Living Adjustment (COLA) Information and SNAP Eligibility, both read Nov. 14, 2026. Amounts are for the 48 states and DC; FNS says it is still updating the eligibility page for Working Families Tax Cut Act changes."
     description: "Printable table of SNAP maximum monthly benefits and gross and net income limits by household size for fiscal year 2027, from FNS."
     alt: "Printable table of SNAP maximum benefit and income limits by household size for fiscal year 2027"
 draft: false
@@ -99,7 +99,7 @@ draft: false
 
 **The maximum monthly Supplemental Nutrition Assistance Program (SNAP) benefit for fiscal year (FY) 2027, which runs from Oct. 1, 2026 to Sept. 30, 2027, is $306 for one person and $1,023 for a household of four in the 48 states and the District of Columbia (DC), according to the U.S. Department of Agriculture (USDA) Food and Nutrition Service (FNS).** The agency's eligibility page puts the gross monthly income limit at $1,729 for one person and $3,575 for four, and the net limit at $1,330 and $2,750.
 
-One caution comes first. The FNS eligibility page, updated Nov. 3, 2026, says it "is being updated for changes from the Working Families Tax Cut Act, so the figures may change." The benefit amounts come from FNS's separate cost-of-living adjustment (COLA) page, updated Oct. 21, 2026. The FNS site blocked automated reads, so both pages were read on FNS's own host, fns-prod.azureedge.us, and are listed below under their fns.usda.gov addresses. We did not find FY2026 figures on the FNS pages we read, so this story does not show a year-over-year change. For when benefits load, see our [January 2027 SNAP payment schedule](/news/snap-payment-schedule-january-2027-deposit-dates-by-state/).
+One caution comes first. The FNS eligibility page says, "We are in the process of updating this page with the changes made by the Working Families Tax Cut Act," which change SNAP work requirements and non-citizen eligibility. The page does not say the income limits will change, and the figures were unchanged when we read it on Nov. 14, 2026. The benefit amounts come from FNS's separate cost-of-living adjustment (COLA) page, read the same day. We did not find FY2026 figures on the FNS pages we read, so this story does not show a year-over-year change. For when benefits load, see our [January 2027 SNAP payment schedule](/news/snap-payment-schedule-january-2027-deposit-dates-by-state/).
 
 ## What is the maximum SNAP benefit by household size in FY2027?
 
@@ -135,7 +135,7 @@ The FNS eligibility page says its information is "for Oct. 1, 2026, through Sept
 | 8 people | $6,037 | $4,644 |
 | Each additional person | +$616 | +$474 |
 
-Because the page says the figures may change, treat this table as the posted FNS numbers as of Nov. 3, 2026. We do not say what the update will change.
+Treat this table as the posted FNS numbers as of Nov. 14, 2026. FNS is still updating the page, and we do not say what the update will change.
 
 ## What are the deductions and asset limits for FY2027?
 
@@ -169,4 +169,4 @@ For the 48 states and DC, the same household maximum is $1,023. We did not find 
 
 ## Print the SNAP amounts and income limits for FY2027
 
-One free one-page sheet lists the maximum allotment, gross limit and net limit for each household size from one to eight, plus the amount each added person adds. Source: FNS, SNAP Cost-of-Living Adjustment (COLA) Information (updated Oct. 21, 2026) and SNAP Eligibility (updated Nov. 3, 2026). To mark your own deposit and renewal dates for the year, use a [printable yearly calendar](/printable-yearly-calendar.html) or the [January 2027 printable calendar](/january-calendars.html). The December deposit days are in our [December 2026 SNAP payment schedule](/news/snap-payment-schedule-december-2026-deposit-dates-by-state/).
+One free one-page sheet lists the maximum allotment, gross limit and net limit for each household size from one to eight, plus the amount each added person adds. Source: FNS, SNAP Cost-of-Living Adjustment (COLA) Information and SNAP Eligibility, both read Nov. 14, 2026. To mark your own deposit and renewal dates for the year, use a [printable yearly calendar](/printable-yearly-calendar.html) or the [January 2027 printable calendar](/january-calendars.html). The December deposit days are in our [December 2026 SNAP payment schedule](/news/snap-payment-schedule-december-2026-deposit-dates-by-state/).

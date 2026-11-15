@@ -3,6 +3,7 @@ title: "Federal Reserve Holidays 2027: 11 Days, Banks Open June 18"
 description: "The Federal Reserve observes 11 holidays in 2027. Reserve Banks are open Fri., June 18, Dec. 24 and Dec. 31 despite Saturday holidays. Printable included."
 type: explainer
 publishedAt: "2026-11-04T14:59:00-05:00"
+updatedAt: "2026-11-14T17:01:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["federal reserve holidays 2027", "bank holidays 2027", "are banks open on juneteenth 2027", "fed holiday schedule 2027"]
@@ -22,7 +23,7 @@ summary:
   - "The Federal Reserve Board's K.8 schedule lists 11 holidays for 2027; two of them, Juneteenth and Christmas Day, fall on Saturdays."
   - "For a Saturday holiday, Reserve Banks are open the Friday before while the Board of Governors is closed: June 18, Dec. 24 and Dec. 31, 2027."
   - "Independence Day falls on Sunday, July 4, so all Federal Reserve offices are closed Monday, July 5, 2027."
-  - "On Friday, June 18 and Friday, Dec. 24, federal offices are closed under the Office of Personnel Management (OPM) list while Reserve Banks are open."
+  - "On Friday, June 18, Friday, Dec. 24 and Friday, Dec. 31, federal offices are closed under the Office of Personnel Management (OPM) tables while Reserve Banks are open."
 faq:
   - q: "Are Federal Reserve Banks open on Juneteenth 2027?"
     a: "Juneteenth falls on Saturday, June 19, 2027. Per the Federal Reserve Board, Reserve Banks and Branches are open the preceding Friday, June 18, while the Board of Governors is closed."
@@ -40,6 +41,7 @@ sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
+    date: "2026-11-14"
 internalLinks:
   - href: "/holidays/"
     label: "US holiday list"
@@ -77,9 +79,7 @@ assets:
         - { date: "2027-11-11", cells: { "Reserve Banks": "Closed", "Board": "Closed", "OPM federal offices": { text: "Closed", src: 2 } }, src: 1, quote: ["Veterans Day Nov. 11 (Thu)", "Thu Nov 11"] }
         - { date: "2027-11-25", cells: { "Reserve Banks": "Closed", "Board": "Closed", "OPM federal offices": { text: "Closed", src: 2 } }, src: 1, quote: ["Thanksgiving Day Nov. 25 (Thu)", "Thu Nov 25"] }
         - { date: "2027-12-24", cells: { "Reserve Banks": "Open", "Board": "Closed", "OPM federal offices": { text: "Closed (Christmas)", src: 2 } }, src: 1, quote: ["Saturday - the Federal Reserve Banks are open, but the Board of Governors is closed on July 3, 2026, June 18, 2027, December 24, 2027, December 31, 2027, and November 10, 2028.", "Fri Dec 24 (Christmas)"] }
-        - { date: "2027-12-31", cells: { "Reserve Banks": "Open", "Board": "Closed", "OPM federal offices": "See OPM 2028 table" }, src: 1, quote: "Saturday - the Federal Reserve Banks are open, but the Board of Governors is closed on July 3, 2026, June 18, 2027, December 24, 2027, December 31, 2027, and November 10, 2028." }
-      unconfirmed:
-        - { label: "OPM status on Dec. 31, 2027", why: "Not on the OPM page we read; check OPM's 2028 table" }
+        - { date: "2027-12-31", cells: { "Reserve Banks": "Open", "Board": "Closed", "OPM federal offices": { text: "Closed (New Year's Day 2028)", src: 2 } }, src: 1, quote: ["Saturday - the Federal Reserve Banks are open, but the Board of Governors is closed on July 3, 2026, June 18, 2027, December 24, 2027, December 31, 2027, and November 10, 2028.", "Friday, December 31 * New Year’s Day"] }
 draft: false
 downloads:
   - group: "Federal Reserve Holidays 2027 printables"
@@ -110,7 +110,7 @@ downloads:
 | Thanksgiving Day | Thu., Nov. 25 | Closed | Closed | Thu., Nov. 25 |
 | Christmas Day | Sat., Dec. 25 | Open Fri., Dec. 24 | Closed Fri., Dec. 24 | Fri., Dec. 24 |
 
-The first four columns come from the Federal Reserve Board's K.8 page; the last column is the OPM "Federal Holidays" 2027 table. The K.8 page also lists New Year's Day 2028, a Saturday (Jan. 1, 2028): Reserve Banks are open the Friday before, Dec. 31, 2027, and the Board is closed that day.
+The first four columns come from the Federal Reserve Board's K.8 page; the last column is the OPM "Federal Holidays" 2027 table. The K.8 page also lists New Year's Day 2028, a Saturday (Jan. 1, 2028): Reserve Banks are open the Friday before, Dec. 31, 2027, and the Board is closed that day. OPM's 2028 table lists Friday, Dec. 31 as the New Year's Day holiday for federal employees.
 
 ## What is the Federal Reserve's Saturday rule?
 
@@ -126,15 +126,15 @@ Juneteenth National Independence Day falls on Saturday, June 19, 2027. Under the
 
 ## Which Fridays do federal offices close while Reserve Banks stay open?
 
-Two, according to the two official lists side by side. OPM's 2027 table shows Friday, June 18 (Juneteenth) and Friday, Dec. 24 (Christmas) as federal holidays, and OPM says: "If a holiday falls on a Saturday, for most Federal employees, the preceding Friday will be treated as a holiday for pay and leave purposes." The K.8 schedule says Reserve Banks are open on those same two days.
+Three, according to the two official lists side by side. OPM's 2027 table shows Friday, June 18 (Juneteenth) and Friday, Dec. 24 (Christmas) as federal holidays, and its 2028 table shows Friday, Dec. 31 as New Year's Day. OPM says: "If a holiday falls on a Saturday, for most Federal employees, the preceding Friday will be treated as a holiday for pay and leave purposes." The K.8 schedule says Reserve Banks are open on all three days.
 
 | Friday | Reserve Banks | Board of Governors | OPM federal holiday |
 |---|---|---|---|
 | June 18, 2027 | Open | Closed | Yes (Juneteenth) |
 | Dec. 24, 2027 | Open | Closed | Yes (Christmas) |
-| Dec. 31, 2027 | Open | Closed | Not on the OPM page we read |
+| Dec. 31, 2027 | Open | Closed | Yes (New Year's Day 2028) |
 
-For Dec. 31, 2027 we do not state OPM's status; OPM's 2028 table is the place to check. For how OPM's dates play out for federal workers, see our [federal holidays 2027 list](/news/federal-holidays-2027-observed-dates-list/).
+The Dec. 31 row comes from OPM's 2028 table, which lists Friday, December 31 as New Year's Day because Jan. 1, 2028 is a Saturday. For how OPM's dates play out for federal workers, see our [federal holidays 2027 list](/news/federal-holidays-2027-observed-dates-list/).
 
 ## How do Federal Reserve holidays differ from stock market holidays?
 

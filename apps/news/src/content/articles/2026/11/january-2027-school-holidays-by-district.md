@@ -3,7 +3,7 @@ title: "January 2027 School Holidays: All 36 Districts Closed Jan. 18"
 description: "January 2027 school holidays in 36 districts: all close Jan. 18 for Martin Luther King Jr. (MLK) Day and 22 are off Jan. 4. Return dates and workdays."
 type: news
 publishedAt: "2026-11-04T13:03:00-05:00"
-updatedAt: "2026-11-04T13:03:00-05:00"
+updatedAt: "2026-11-14T17:01:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["january 2027 school holidays", "no school january 2027", "when do students go back to school after winter break 2027", "mlk day 2027 schools closed"]
@@ -47,7 +47,7 @@ assets:
         - { cells: { district: "Fort Worth Independent School District, Texas", ends: "Jan. 1", back: "Not printed", other: "Jan. 4 staff day, no students" }, src: 15 }
         - { cells: { district: "Fulton County, Ga.", ends: "Jan. 1", back: "Tue., Jan. 5", other: "Jan. 4 teacher workday, student holiday" }, src: 16 }
         - { cells: { district: "Gwinnett County, Ga.", ends: "Jan. 1", back: "Tue., Jan. 5", other: "Jan. 4 teacher planning, student holiday" }, src: 17 }
-        - { cells: { district: "Hawaii public schools", ends: "Jan. 1", back: "Not printed", other: "Jan. 4 teacher workday, no students" }, src: 18 }
+        - { cells: { district: "Hawaii public schools", ends: "Jan. 1", back: "Tue., Jan. 5", other: "Jan. 4 teacher workday, no students" }, src: 18, quote: "2nd Semester: January 5, 2027 - May 31, 2027" }
         - { cells: { district: "Houston Independent School District, Texas", ends: "Jan. 1 (New Year's Day)", back: "Not printed", other: "Jan. 4 staff professional development, no classes" }, src: 19 }
         - { cells: { district: "Jefferson County, Ky. (Louisville)", ends: "Jan. 1", back: "Not printed", other: "None listed" }, src: 20 }
         - { cells: { district: "Katy Independent School District, Texas", ends: "Jan. 1", back: "Tue., Jan. 5", other: "Jan. 4 campus day, no students" }, src: 21 }
@@ -84,7 +84,7 @@ hero:
 summary:
   - "All 36 U.S. school districts we checked close for students on Monday, Jan. 18, 2027, Martin Luther King Jr. (MLK) Day."
   - "22 of the 36 also keep students home on Monday, Jan. 4; 12 list no Jan. 4 closure and 2 do not say whether students are off."
-  - "Only six calendars print a first day back: Clark County, Fulton County, Gwinnett County, Katy and Orange County on Tuesday, Jan. 5, and Los Angeles Unified on Monday, Jan. 11."
+  - "Only seven calendars print a first day back: Clark County, Fulton County, Gwinnett County, Hawaii, Katy and Orange County on Tuesday, Jan. 5, and Los Angeles Unified on Monday, Jan. 11."
   - "Other January days off range from early release on Jan. 15 to student-free days on Jan. 25, 26 and 29."
 faq:
   - q: "Is there school on Jan. 18, 2027?"
@@ -92,7 +92,7 @@ faq:
   - q: "Are schools closed on Jan. 4, 2027?"
     a: "For students, yes in 22 of the 36 districts we checked, either because winter break runs through Jan. 4 or because of a staff day. 12 list no closure that day, and Lee County and Palm Beach County do not say whether students are off."
   - q: "When do students go back to school after winter break 2027?"
-    a: "It depends on the district. Los Angeles Unified prints Monday, Jan. 11 for the start of the second semester. Clark County, Fulton County, Gwinnett County, Katy and Orange County print Tuesday, Jan. 5. The other calendars in our table do not name a first day back."
+    a: "It depends on the district. Los Angeles Unified prints Monday, Jan. 11 for the start of the second semester. Clark County, Fulton County, Gwinnett County, Hawaii, Katy and Orange County print Tuesday, Jan. 5. The other calendars in our table do not name a first day back."
   - q: "Which districts have no school in late January 2027?"
     a: "Montgomery County, Md. on Jan. 25, the District of Columbia on Jan. 26, and Chicago, Fairfax County and Philadelphia on Jan. 29 each list a day without students. Seattle lists Jan. 28 as a day between semesters."
 sources:
@@ -227,7 +227,7 @@ downloads:
 draft: false
 ---
 
-All 36 U.S. school districts we checked close for students on Monday, Jan. 18, 2027, Martin Luther King Jr. (MLK) Day, and 22 of them also keep students home on Monday, Jan. 4, according to each district's official 2026-27 calendar. Only six calendars print a first day back after winter break; the rest list the break and the days off, so the table below says "Not printed" rather than guess.
+All 36 U.S. school districts we checked close for students on Monday, Jan. 18, 2027, Martin Luther King Jr. (MLK) Day, and 22 of them also keep students home on Monday, Jan. 4, according to each district's official 2026-27 calendar. Only seven calendars print a first day back after winter break; the rest list the break and the days off, so the table below says "Not printed" rather than guess.
 
 ## January 2027 school days off by district
 
@@ -252,7 +252,7 @@ Each row comes from the district's own published calendar, checked as of Nov. 4,
 | [Fort Worth Independent School District, Texas](/news/fort-worth-isd-calendar-2026-27-breaks/) | Jan. 1 | Not printed | Closed | Jan. 4 staff day, no students |
 | [Fulton County, Ga.](/news/fulton-county-schools-calendar-2026-27-breaks/) | Jan. 1 | Tue., Jan. 5 | Closed | Jan. 4 teacher workday, student holiday |
 | [Gwinnett County, Ga.](/news/gwinnett-county-schools-calendar-2026-27-breaks/) | Jan. 1 | Tue., Jan. 5 | Closed | Jan. 4 teacher planning, student holiday |
-| [Hawaii public schools](/news/hawaii-public-schools-calendar-2026-27-breaks/) | Jan. 1 | Not printed | Closed | Jan. 4 teacher workday, no students |
+| [Hawaii public schools](/news/hawaii-public-schools-calendar-2026-27-breaks/) | Jan. 1 | Tue., Jan. 5 | Closed | Jan. 4 teacher workday, no students |
 | [Houston Independent School District, Texas](/news/houston-isd-calendar-2026-27-holidays-breaks/) | Jan. 1 (New Year's Day) | Not printed | Closed | Jan. 4 staff professional development, no classes |
 | [Jefferson County, Ky. (Louisville)](/news/jcps-calendar-2026-27-jefferson-county-public-schools-breaks/) | Jan. 1 | Not printed | Closed | None listed |
 | [Katy Independent School District, Texas](/news/katy-isd-calendar-2026-27-breaks/) | Jan. 1 | Tue., Jan. 5 | Closed | Jan. 4 campus day, no students |
@@ -288,9 +288,9 @@ Of the 22, the break itself runs through Jan. 4 in Austin, Cobb County, Dallas, 
 
 ## When do students go back after winter break?
 
-Six calendars name the first day back:
+Seven calendars name the first day back:
 
-- **Tuesday, Jan. 5:** [Clark County](/news/clark-county-school-district-calendar-2026-27-breaks/) ("Classes Resume"), [Fulton County](/news/fulton-county-schools-calendar-2026-27-breaks/) (first day of second semester), [Gwinnett County](/news/gwinnett-county-schools-calendar-2026-27-breaks/) (begins second semester), [Katy ISD](/news/katy-isd-calendar-2026-27-breaks/) (first day of spring semester) and [Orange County](/news/orange-county-public-schools-calendar-2026-27-breaks-holidays/) (begins second semester).
+- **Tuesday, Jan. 5:** [Clark County](/news/clark-county-school-district-calendar-2026-27-breaks/) ("Classes Resume"), [Fulton County](/news/fulton-county-schools-calendar-2026-27-breaks/) (first day of second semester), [Gwinnett County](/news/gwinnett-county-schools-calendar-2026-27-breaks/) (begins second semester), [Hawaii public schools](/news/hawaii-public-schools-calendar-2026-27-breaks/) (students' second semester begins), [Katy ISD](/news/katy-isd-calendar-2026-27-breaks/) (first day of spring semester) and [Orange County](/news/orange-county-public-schools-calendar-2026-27-breaks-holidays/) (begins second semester).
 - **Monday, Jan. 11:** [Los Angeles Unified](/news/lausd-calendar-2026-27-winter-break-spring-break/), where the second semester begins after a recess that runs from Dec. 21 through Jan. 8, the latest end of any break in the table.
 
 For the other districts, no return day is printed in the sources we read. Dallas lists Jan. 5 as a professional development day without saying whether students attend. For the full winter break picture, including Thanksgiving, see our [winter break 2026 table for 39 districts](/news/winter-break-2026-school-districts-dates/).

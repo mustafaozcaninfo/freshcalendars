@@ -3,7 +3,7 @@ title: "Ballon d'Or 2026 Time: 4 p.m. ET Ceremony, Kane and Putellas Win"
 description: "The Ballon d'Or 2026 ceremony was Monday, Oct. 26 at 4 p.m. ET (9 p.m. London). Harry Kane and Alexia Putellas won; full winners list by award."
 type: news
 publishedAt: "2026-10-25T13:05:00-04:00"
-updatedAt: "2026-11-08T02:45:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Ballon d'Or 2026 winners", "Ballon d'Or 2026 winner", "who won the Ballon d'Or 2026", "Ballon d'Or 2026 nominees"]
@@ -131,7 +131,7 @@ The Ballon d'Or organizers published the winners on ballondor.com after the cere
 | Women's Coach of the Year | Pere Romeu |
 | Sócrates Award | Bukayo Saka |
 
-The Striker of the Year is Kane's second, the organizers said. The organizers also list men's and women's club of the year awards; this story leaves those out because we could not confirm the winners.
+The Striker of the Year was Kane's second, the organizers said. The organizers also list men's and women's club of the year awards; this story leaves those out because we could not confirm the winners.
 
 ## How did the men's and women's votes finish?
 
@@ -159,7 +159,7 @@ The table below converts the 20:00 GMT start into local times; it is our convers
 | Tokyo | 5 a.m. Tuesday, Oct. 27 | Japan Standard Time (JST) |
 | Sydney | 7 a.m. Tuesday, Oct. 27 | Australian Eastern Daylight Time (AEDT) |
 
-Europe left summer time on Sunday, Oct. 25, 2026, and the United States ends daylight saving time on Nov. 1. For that one week New York was 4 hours behind London instead of the usual 5, which is why a 20:00 GMT start landed at 4 p.m. ET and not 3 p.m. Our story on the [UK and Europe clock change](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) has the full time difference table.
+Europe left summer time on Sunday, Oct. 25, 2026, and the United States ended daylight saving time on Nov. 1. For that one week New York was 4 hours behind London instead of the usual 5, which is why a 20:00 GMT start landed at 4 p.m. ET and not 3 p.m. Our story on the [UK and Europe clock change](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) has the full time difference table.
 
 ## Which channels showed the Ballon d'Or 2026?
 

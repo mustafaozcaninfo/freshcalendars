@@ -3,7 +3,7 @@ title: "US-Japan Time Difference: Tokyo 14 Hours Ahead, Beijing 13"
 description: "New York is 14 hours behind Tokyo and Seoul and 13 behind Beijing from Nov. 1, 2026. Tables by US zone and a printable time chart for your desk."
 type: explainer
 publishedAt: "2026-10-30T23:50:00-04:00"
-updatedAt: "2026-11-05T15:26:00-05:00"
+updatedAt: "2026-11-14T17:09:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference between us and japan", "new york to tokyo time difference after daylight saving", "us korea time difference", "us china time difference november 2026"]
@@ -93,10 +93,10 @@ sources:
     url: "https://astro.kasi.re.kr/kor/life/post/calendarData?search_year=2027"
     publisher: "Korea Astronomy and Space Science Institute (KASI)"
     date: "2026-06-29"
-  - title: "China's State Council 2026 holiday notice"
-    url: "https://www.news.cn/20251104/76de5bdd2fb249b6a35c83b96115df8b/c.html"
-    publisher: "Xinhua"
-    date: "2025-11-04"
+  - title: "国务院办公厅关于2027年部分节假日安排的通知 (State Council notice on 2027 holidays)"
+    url: "https://www.news.cn/politics/20261105/f90cd6ad4df94ab4833b141e52ccfc13/c.html"
+    publisher: "Xinhua, reproducing the State Council General Office notice"
+    date: "2026-11-05"
 internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
@@ -193,9 +193,9 @@ Each country's days off differ, so check the one you call. Japan's Cabinet Offic
 
 For South Korea, the Korea Astronomy and Space Science Institute (KASI) 2027 calendar data, published June 2026 by the Korea AeroSpace Administration, gives Seollal (Lunar New Year) on Feb. 6-8, 2027 (Saturday to Monday) with a substitute holiday on Tue., Feb. 9, 2027, and Independence Movement Day (March 1st Movement Day) on Mon., March 1, 2027. Christmas, Fri., Dec. 25, 2026, is also a public holiday in South Korea, on a fixed date.
 
-China's State Council has not yet published its 2027 holiday notice (the 2026 one came on Nov. 4, 2025, per Xinhua), so Spring Festival 2027 days off are not yet announced.
+China's State Council published its 2027 holiday notice on Nov. 5, 2026 (Xinhua carried the full text). Before March 14, 2027 it gives New Year's Day on Jan. 1-3 (Friday to Sunday) and Spring Festival on Feb. 5-13, with Jan. 31 and Feb. 14 (both Sundays) as working days.
 
 - Plan Tokyo calls around Nov. 23, Jan. 1, Jan. 11, Feb. 11 and Feb. 23, and Seoul calls around Dec. 25, Feb. 6-9 and March 1.
-- Leave Beijing out of holiday planning until the State Council notice is out.
+- Plan Beijing calls around Jan. 1-3 and Feb. 5-13, and expect Beijing offices to work on Sun., Jan. 31 and Sun., Feb. 14.
 - Mark Sun., March 14, 2027, when New York moves to 13 hours behind Tokyo and Seoul and 12 behind Beijing.
 - Our [printable weekly calendar](/printable-weekly-calendar.html) is a handy place to note each country's days off.

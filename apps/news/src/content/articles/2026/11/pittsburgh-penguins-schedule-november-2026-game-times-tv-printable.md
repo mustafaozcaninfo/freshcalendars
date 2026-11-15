@@ -1,9 +1,9 @@
 ---
 title: "Pittsburgh Penguins Schedule November 2026: 13 Games, Times and TV"
-description: "The Pittsburgh Penguins play 13 games in November 2026, starting Tue., Nov. 3 at 7 p.m. ET vs. Vegas. TV for every game, the West Coast trip, a printable."
+description: "The Pittsburgh Penguins play 13 games in November 2026; the next is Sat., Nov. 14 vs. Ottawa, 7 p.m. ET. TV for every game, scores so far, a printable."
 type: news
 publishedAt: "2026-11-02T11:22:00-05:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Pittsburgh Penguins schedule November 2026", "Penguins game tonight", "Penguins TV schedule", "Penguins Maple Leafs November 28 2026", "Penguins printable schedule"]
@@ -12,9 +12,10 @@ assets:
   scene: sports
   overlay: true
   kicker: "Penguins · November 2026"
-  date: "2026-11-03"
-  card: { top: "Next game", big: "Tue., Nov. 3", bottom: "Vegas at Pittsburgh, 7 p.m. ET" }
+  date: "2026-11-14"
+  card: { top: "Next game", big: "Sat., Nov. 14", bottom: "Ottawa at Pittsburgh, 7 p.m. ET" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: pittsburgh-penguins-schedule-november-2026
     group: penguins-schedule-2026
     title: "Pittsburgh Penguins Schedule, November 2026"
@@ -67,13 +68,13 @@ downloads:
     png: "/news/downloads/penguins-schedule-2026/pittsburgh-penguins-schedule-november-2026-ink.png"
     pages: 1
 summary:
-  - "The Pittsburgh Penguins' next game is Tue., Nov. 3, 2026, against Vegas at PPG Paints Arena at 7 p.m. ET, per the NHL schedule fetched Nov. 2, 2026."
+  - "The Pittsburgh Penguins' next game is Sat., Nov. 14, 2026, against Ottawa at PPG Paints Arena at 7 p.m. ET. They won two of their first five November games, per the NHL."
   - "The NHL lists 13 Penguins games in November 2026, seven at home and six on the road, from Nov. 3 to Mon., Nov. 30 against Columbus."
-  - "A three-game West Coast swing runs Sat., Nov. 7 through Wed., Nov. 11 at Los Angeles, Anaheim and San Jose, with late ET starts."
+  - "A three-game West Coast swing ran Sat., Nov. 7 through Wed., Nov. 11: a win at Los Angeles, a loss at Anaheim and a shootout win at San Jose."
   - "The Penguins play at Buffalo on Black Friday, Fri., Nov. 27, a national broadcast on Turner Network Television (TNT), truTV and HBO Max."
 faq:
   - q: "When is the next Pittsburgh Penguins game?"
-    a: "Tue., Nov. 3, 2026, against Vegas at PPG Paints Arena, 7 p.m. ET, according to the NHL schedule. It is the Penguins' first game of November 2026."
+    a: "Sat., Nov. 14, 2026, against Ottawa at PPG Paints Arena, 7 p.m. ET, according to the NHL schedule. The Penguins then play St. Louis at home on Thu., Nov. 19."
   - q: "How many Penguins games are in November 2026?"
     a: "13, according to the NHL schedule fetched Nov. 2, 2026: seven at home and six on the road."
   - q: "What channel is the Penguins game on tonight?"
@@ -81,12 +82,12 @@ faq:
   - q: "When do the Penguins play on Thanksgiving weekend 2026?"
     a: "The Penguins host Calgary on Wed., Nov. 25, and play at Buffalo on Black Friday, Fri., Nov. 27, at 8 p.m. ET. They have no game on Thanksgiving Day, Thu., Nov. 26, 2026."
   - q: "Can the Penguins schedule change?"
-    a: "Yes, TV listings can change, so match the channel against the NHL's schedule on game day. The Penguins play three straight West Coast road games: at Los Angeles on Sat., Nov. 7, at Anaheim on Sun., Nov. 8 and at San Jose on Wed., Nov. 11."
+    a: "Yes, TV listings can change, so match the channel against the NHL's schedule on game day. The Penguins played three West Coast road games: at Los Angeles on Sat., Nov. 7, at Anaheim on Sun., Nov. 8 and at San Jose on Wed., Nov. 11."
 sources:
   - title: "Pittsburgh Penguins club schedule, November 2026 (NHL web API)"
     url: "https://api-web.nhle.com/v1/club-schedule/PIT/month/2026-11"
     publisher: "National Hockey League"
-    date: "2026-11-02"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -98,9 +99,9 @@ related: [rangers-schedule-november-2026-game-times-tv-printable, toronto-maple-
 draft: false
 ---
 
-**The Pittsburgh Penguins play 13 games in November 2026, starting Tuesday, Nov. 3, at 7 p.m. Eastern Time (ET) against Vegas at PPG Paints Arena, according to the National Hockey League (NHL) schedule.** The full month with start times and TV is below, and a one-page printable is further down.
+**The Pittsburgh Penguins play 13 games in November 2026, and the next is Saturday, Nov. 14, at 7 p.m. Eastern Time (ET) against Ottawa at PPG Paints Arena, according to the National Hockey League (NHL) schedule.** The full month with start times and TV is below, and a one-page printable is further down.
 
-The source is the NHL's club schedule for the Penguins, fetched Nov. 2, 2026. We converted its start times to ET, which is Pittsburgh time, and calculated the weekdays. Seven games are at home. Six are on the road. November opens at PPG Paints Arena against Vegas on Tuesday night, the first of two straight home games before the team leaves on a West Coast road trip through California.
+The source is the NHL's club schedule for the Penguins, fetched Nov. 2, 2026. We converted its start times to ET, which is Pittsburgh time, and calculated the weekdays. Seven games are at home. Six are on the road. The NHL's scores, checked Nov. 14, show the Penguins have played five games this month: a 3-2 loss to Vegas on Nov. 3, a 6-2 loss to Boston on Nov. 5, a 5-2 win at Los Angeles on Nov. 7, a 5-2 loss at Anaheim on Nov. 8 and a 3-2 shootout win at San Jose on Nov. 11.
 
 ## Penguins game times and TV for every November game
 
@@ -126,7 +127,7 @@ Listings change. Check the NHL schedule on game day.
 
 ## The Penguins' West Coast road trip, Nov. 7-11
 
-The Penguins play three games in California in five nights, every one a late start in Pittsburgh time. They open at Los Angeles on Saturday, Nov. 7, at 9 p.m. ET (6 p.m. PT) at Crypto.com Arena, a road back-to-back with Anaheim on Sunday, Nov. 8, at 8 p.m. ET (5 p.m. PT) at Honda Center, then visit San Jose on Wednesday, Nov. 11, at 10 p.m. ET (7 p.m. PT) at SAP Center. All three stay on SportsNet Pittsburgh; the Anaheim game adds Sportsnet in Canada.
+The Penguins played three games in California in five nights, every one a late start in Pittsburgh time. They opened at Los Angeles on Saturday, Nov. 7, at 9 p.m. ET (6 p.m. PT) at Crypto.com Arena and won 5-2, played a road back-to-back at Anaheim on Sunday, Nov. 8, at 8 p.m. ET (5 p.m. PT) at Honda Center and lost 5-2, then won 3-2 in a shootout at San Jose on Wednesday, Nov. 11, at 10 p.m. ET (7 p.m. PT) at SAP Center. All three were on SportsNet Pittsburgh; the Anaheim game added Sportsnet in Canada.
 
 ## What channel is the Penguins' Black Friday game on?
 

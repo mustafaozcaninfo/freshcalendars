@@ -3,7 +3,7 @@ title: "Canada Time Change 2026: Which Provinces Skipped Nov. 1"
 description: "Canada's 2026 time change was 2 a.m. Sunday, Nov. 1, in Ontario, Quebec and Atlantic Canada. A table lists each province and territory, plus a printable."
 type: news
 publishedAt: "2026-10-28T07:45:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["do clocks go back in Canada 2026", "changement d'heure 2026", "which provinces don't change clocks", "Manitoba Alberta BC time change 2026", "Canada time change November 1 2026"]
@@ -26,6 +26,7 @@ assets:
   card: { top: "Clocks stay put in", big: "BC to Manitoba", bottom: "East still falls back" }
   overlay: true
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: canada-clock-changes-nov-1-2026
     group: canada-time-2026
     title: "Canada Clock Changes, Nov. 1, 2026"
@@ -38,15 +39,14 @@ assets:
       - ["Saskatchewan", "No change. Central Standard Time, UTC-6 all year"]
       - ["Northwest Territories", "No change. NWT Time, UTC-6 all year"]
       - ["Manitoba", "No change. Stays on daylight time, UTC-5"]
-      - ["Northwestern Ontario", "Reported: stays on daylight time. Check with your municipality"]
+      - ["Northwestern Ontario", "Kenora and region stay on daylight time, UTC-5"]
       - ["Ontario (Eastern Time)", "Back 1 hour at 2 a.m. Eastern Standard Time, UTC-5"]
       - ["Quebec", "Back 1 hour at 2 a.m. Eastern Standard Time, UTC-5"]
       - ["NB, NS, PEI", "Back 1 hour at 2 a.m. Atlantic Standard Time, UTC-4"]
       - ["Newfoundland and Labrador", "Back 1 hour. Newfoundland Standard Time, UTC-3:30"]
       - ["Nunavut", "Most of Nunavut goes back. Three zones, check locally"]
       - ["Next change", "Sunday, March 14, 2027: regions that still change go forward 1 hour"]
-    note: "Source: Governments of British Columbia, Alberta, Saskatchewan, Manitoba and the Northwest Territories; Canadian Press report for northwestern Ontario."
-    inkSaver: true
+    note: "Source: Governments of British Columbia, Alberta, Saskatchewan, Manitoba and the Northwest Territories; City of Kenora and Canadian Press for northwestern Ontario."
     description: "One-page list of which Canadian provinces and territories turn clocks back on Nov. 1, 2026, and the time each one keeps this winter."
     alt: "Printable list of Canadian provinces and territories showing which change clocks on Nov. 1, 2026"
 downloads:
@@ -57,14 +57,6 @@ downloads:
     alt: "Printable list of Canadian provinces and territories showing which change clocks on Nov. 1, 2026"
     pdf: "/news/downloads/canada-time-2026/canada-clock-changes-nov-1-2026.pdf"
     png: "/news/downloads/canada-time-2026/canada-clock-changes-nov-1-2026.png"
-    pages: 1
-  - group: "Canada Clock Changes printables"
-    title: "Canada Clock Changes, Nov. 1, 2026 (ink saver)"
-    description: "One-page list of which Canadian provinces and territories turn clocks back on Nov. 1, 2026, and the time each one keeps this winter. Ink-saver version."
-    preview: ../../../../assets/news/canada-time-2026/canada-clock-changes-nov-1-2026-ink.png
-    alt: "Printable list of Canadian provinces and territories showing which change clocks on Nov. 1, 2026, ink-saver version"
-    pdf: "/news/downloads/canada-time-2026/canada-clock-changes-nov-1-2026-ink.pdf"
-    png: "/news/downloads/canada-time-2026/canada-clock-changes-nov-1-2026-ink.png"
     pages: 1
 summary:
   - "Clocks went back one hour at 2 a.m. local time on Sunday, Nov. 1, 2026, in Ontario's Eastern Time zone, Quebec and the Atlantic provinces; no change had been announced there."
@@ -81,8 +73,12 @@ faq:
   - q: "When do clocks go forward in 2027?"
     a: "In regions that still change clocks, on Sunday, March 14, 2027, the second Sunday in March."
   - q: "What about my community in eastern British Columbia or northwestern Ontario?"
-    a: "Both are covered by the notes in this story. Communities that observe mountain time in eastern British Columbia, and communities on Central Time in northwestern Ontario, should check with their municipality."
+    a: "Both are covered by the notes in this story. Kenora and the northwestern regions of Ontario stay on daylight time, per the City of Kenora. Communities that observe mountain time in eastern British Columbia should check with their municipality."
 sources:
+  - title: "City Welcomes Ontario's Decision to Adopt Permanent Daylight Saving Time in Northwestern Ontario"
+    url: "https://www.kenora.ca/news-and-notices/posts/city-welcomes-ontarios-decision-to-adopt-permanent-daylight-saving-time-in-northwestern-ontario/"
+    publisher: "City of Kenora"
+    date: "2026-10-13"
   - title: "Adopting permanent daylight saving time"
     url: "https://news.gov.bc.ca/releases/2026AG0013-000209"
     publisher: "Government of British Columbia, Ministry of Attorney General"
@@ -132,7 +128,7 @@ Times are given in Coordinated Universal Time (UTC) offsets, so a reader can com
 | Saskatchewan | No | Central Standard Time (CST), all year | UTC-6 | Government of Saskatchewan |
 | Northwest Territories | No | Northwest Territories Time, all year | UTC-6 | Government of the NWT, Sept. 23, 2026 |
 | Manitoba | No | Stays on daylight time | UTC-5 | Province of Manitoba, Sept. 17, 2026 |
-| Northwestern Ontario (for example Kenora) | Reported no | Stays on daylight time, reported | UTC-5 | CP24 / Canadian Press, Oct. 13, 2026 |
+| Northwestern Ontario (for example Kenora) | No | Stays on daylight time | UTC-5 | City of Kenora, Oct. 13, 2026; CP24 / Canadian Press |
 | Ontario (Eastern Time zone) | Yes, 2 a.m. | Eastern Standard Time (EST) | UTC-5 | No change announced |
 | Quebec | Yes, 2 a.m. | Eastern Standard Time | UTC-5 | No change announced |
 | New Brunswick, Nova Scotia, Prince Edward Island | Yes, 2 a.m. | Atlantic Standard Time | UTC-4 | No change announced |
@@ -159,7 +155,7 @@ Where the last column says "No change announced", the provincial governments hav
 
 The BC release says mountain-time communities in eastern BC "will not be affected by these changes." Dawson Creek observes Mountain Standard Time (MST) year-round and will share the time of most of BC in winter and summer. Cranbrook, which switches between standard and daylight time, was described as aligned with the rest of the province in winter. Because Alberta itself is moving to UTC-6 all year, communities on mountain time in eastern BC should check with their municipality.
 
-In northwestern Ontario, the Canadian Press reported on Oct. 13, 2026, that the Ontario government said it intends to keep communities that follow Central Time, such as Kenora, on daylight time to stay aligned with Manitoba, with changes in place by Nov. 1. We could not find Ontario's own announcement, so treat this as reported and check with your municipality. Ontario has announced no change for the Eastern Time zone, so Toronto went back.
+In northwestern Ontario, the City of Kenora said on Oct. 13, 2026, that the Province of Ontario announced Kenora and the northwestern regions will move to permanent daylight saving time, aligning with Manitoba, from Nov. 1; the Canadian Press reported the same. We could not find the Ontario government's own release. Communities in the region that wonder whether they are included should check with their municipality. Ontario announced no change for the Eastern Time zone, so Toronto went back.
 
 ## How big is the time difference across Canada this winter?
 

@@ -3,14 +3,14 @@ title: "Am I Registered to Vote? Check Your Status on Can I Vote"
 description: "Check whether you are registered to vote with USAGov's steps: Can I Vote, then your state's election site. Includes a polling place tool and a checklist."
 type: explainer
 publishedAt: "2026-10-29T08:00:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["am I registered to vote", "check voter registration status", "find my polling place", "Election Day November 3 2026"]
 hero:
   src: ../../../../assets/news/am-i-registered-to-vote-check-status-2026/am-i-registered-to-vote-check-status-2026.webp
   alt: "An I Voted sticker on a shirt pocket, for the am I registered to vote 2026 status check"
-  caption: "An I Voted sticker, file photo. Election Day is Tuesday, Nov. 3, 2026, according to the Federal Election Commission."
+  caption: "An I Voted sticker, file photo. Election Day was Tuesday, Nov. 3, 2026, according to the Federal Election Commission."
   credit: "Photo: Lorie Shaull / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -18,24 +18,24 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:A_closeup_of_an_%22I_Voted%22_sticker_on_a_shirt_worn_during_the_Special_Election_on_April_14,_2026.jpg"
     author: "Lorie Shaull"
 summary:
-  - "Election Day is Tuesday, Nov. 3, 2026, tomorrow (Monday, Nov. 2), according to the Federal Election Commission (FEC)."
+  - "Election Day was Tuesday, Nov. 3, 2026, according to the Federal Election Commission (FEC)."
   - "USAGov's steps: visit Can I Vote, select voter registration status, choose your state, then check whether you are registered on your state's election website."
   - "Each state makes its own voting rules, the U.S. Election Assistance Commission (EAC) says, so registration rules on Election Day differ by state."
-  - "Can I Vote also offers a Find Your Polling Place tool, and a day-by-day table below lists what to check through Nov. 3."
+  - "Can I Vote also offers a Find Your Polling Place tool, and a day-by-day table below keeps the Oct. 29 to Nov. 3 plan as a record."
 faq:
   - q: "How do I check if I am registered to vote?"
     a: "USAGov says to visit Can I Vote, select voter registration status, choose your state, and check whether you are registered on your state's election website."
   - q: "What if my name or address is wrong?"
     a: "USAGov's voter registration page explains how to update your name, address and political party affiliation. The EAC says to check especially if you have recently moved or changed your name, and to contact your local elections office if needed."
   - q: "Can I register on Election Day?"
-    a: "Rules differ by state. Some states allow registration on Election Day and some do not, so check your state's election website today."
+    a: "Rules differ by state. Some states allow registration on Election Day and some do not, so check your state's election website for its rules and deadlines."
   - q: "How do I find my polling place?"
     a: "Can I Vote, run by the National Association of Secretaries of State (NASS), offers a Find Your Polling Place tool that links to state election websites."
 sources:
   - title: "How to confirm your voter registration status"
     url: "https://www.usa.gov/confirm-voter-registration"
     publisher: "USAGov"
-    date: "2026-10-06"
+    date: "2026-11-14"
   - title: "Can I Vote"
     url: "https://www.nass.org/can-i-vote"
     publisher: "National Association of Secretaries of State"
@@ -59,14 +59,15 @@ related: [voter-registration-deadline-october-19-2026-early-voting, early-voting
 draft: false
 assets:
   overlay: true
-  kicker: "Voter check · Election Day Tue., Nov. 3, 2026"
+  kicker: "Voter check · Election Day was Tue., Nov. 3, 2026"
   date: "2026-11-03"
-  card: { top: "Check your registration before", big: "Tue., Nov. 3", bottom: "Use Can I Vote to reach your state site" }
+  card: { top: "Election Day was", big: "Tue., Nov. 3", bottom: "Use Can I Vote to reach your state site" }
   printable:
     slug: election-day-2026-voter-checklist
     group: election-day-2026
     title: "Election Day 2026 Voter Checklist, Tue., Nov. 3"
     subtitle: "What to check before you vote"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - { when: "Thu., Oct. 29", what: "Check registration status on Can I Vote", section: "Check now" }
       - { when: "Thu., Oct. 29", what: "Confirm your name and address", section: "Check now" }
@@ -104,7 +105,7 @@ downloads:
     pages: 1
 ---
 
-**Election Day is Tuesday, Nov. 3, 2026, according to the Federal Election Commission (FEC), and USAGov says you can confirm your voter registration status in a few steps through Can I Vote.** The FEC lists "General Election Date 11/03/2026" in its 2026 dates document (data as of May 18, 2026). Today is Monday, Nov. 2, so Election Day is tomorrow.
+**Election Day was Tuesday, Nov. 3, 2026, according to the Federal Election Commission (FEC), and USAGov says you can confirm your voter registration status in a few steps through Can I Vote.** The FEC lists "General Election Date 11/03/2026" in its 2026 dates document (data as of May 18, 2026). You can still use the steps below to confirm your registration before the next election.
 
 ## How do I check if I am registered to vote?
 
@@ -120,15 +121,15 @@ Can I Vote is a "nonpartisan website" created "by state election officials to he
 
 The EAC says to check, especially if you have recently moved or changed your name. If your state page does not show you, or shows an old name or address, contact your local elections office. USAGov's "Voter registration" page explains how to update your name, address and political party affiliation.
 
-Rules differ by state. Some states allow registration on Election Day and some do not, and this story does not list which, so open your state's election website today and read its deadlines. Our earlier story on the [Oct. 19 registration deadline and early voting](/news/voter-registration-deadline-october-19-2026-early-voting/) covers three states in detail.
+Rules differ by state. Some states allow registration on Election Day and some do not, and this story does not list which, so open your state's election website and read its deadlines. Our earlier story on the [Oct. 19 registration deadline and early voting](/news/voter-registration-deadline-october-19-2026-early-voting/) covers three states in detail.
 
 ## How do I find my polling place?
 
 Can I Vote offers a "Find Your Polling Place" tool next to "Voter Registration Status." It sends you to your state's election website. Hours and locations come from that site; they are not listed here because each state sets its own. For the early voting windows that have closed, read [early voting 2026: end dates by state](/news/early-voting-2026-which-states-are-voting-now/).
 
-## What to check in the last week before Nov. 3
+## What to check in the last week before Election Day
 
-The table below is our own plan, built from the steps the sources describe. The sources do not assign tasks to specific days. If you skipped a step, do it today.
+The table below is our own plan, built from the steps the sources describe. The sources do not assign tasks to specific days. The same steps apply before any election.
 
 | Day | What to check |
 |---|---|
@@ -136,8 +137,8 @@ The table below is our own plan, built from the steps the sources describe. The 
 | Fri., Oct. 30 (passed) | Find your polling place and hours on your state site |
 | Sat., Oct. 31 (passed) | Check your state's identification rule |
 | Sun., Nov. 1 (passed) | Check your state's mail ballot return rule |
-| Mon., Nov. 2 (today) | Plan the trip to your polling place |
-| Tue., Nov. 3 | Election Day |
+| Mon., Nov. 2 (passed) | Plan the trip to your polling place |
+| Tue., Nov. 3 (passed) | Election Day |
 
 The printable Election Day 2026 voter checklist (download below) puts the same rows on one page. Our [November 2026 printable calendar](/november-calendars.html) and [October 2026 printable calendar](/october-calendars.html) show the days side by side. Wondering about work or school that day? See [is Election Day a holiday in 2026](/news/is-election-day-a-holiday-2026-whats-open/).
 

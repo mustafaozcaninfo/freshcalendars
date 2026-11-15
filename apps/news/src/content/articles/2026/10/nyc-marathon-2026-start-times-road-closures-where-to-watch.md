@@ -3,7 +3,7 @@ title: "NYC Marathon 2026 Results: Almgren 2:06:01, Chepkirui 2:24:36"
 description: "Andreas Almgren and Sheila Chepkirui won the 2026 New York City Marathon on Nov. 1. Winning times, wave start times, TV and road closures for race day."
 type: news
 publishedAt: "2026-10-24T13:05:00-04:00"
-updatedAt: "2026-11-03T07:09:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NYC Marathon 2026 results", "NYC Marathon 2026 start times", "where to watch NYC Marathon 2026", "NYC Marathon road closures 2026", "NYC Marathon TV channel 2026"]
@@ -15,6 +15,7 @@ assets:
   date: "2026-11-01"
   card: { top: "Wave 1 starts", big: "9:10 a.m. ET", bottom: "Pros start at 8:00 a.m." }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: nyc-marathon-2026-race-day-timeline
     group: nyc-marathon-2026
     title: "NYC Marathon Race-Day Timeline, Nov. 1, 2026"
@@ -41,7 +42,7 @@ assets:
 hero:
   src: ../../../../assets/news/nyc-marathon-2026-start-times-road-closures-where-to-watch/nyc-marathon-2026-start-times-road-closures-where-to-watch.webp
   alt: "NYC Marathon runners seen from behind crossing the Verrazzano-Narrows Bridge from Staten Island, the race's first mile"
-  caption: "File photo from the 2014 race: runners climb the Verrazzano-Narrows Bridge out of Staten Island. The 2026 marathon starts there on Sunday, Nov. 1."
+  caption: "File photo from the 2014 race: runners climb the Verrazzano-Narrows Bridge out of Staten Island. The 2026 marathon started there on Sunday, Nov. 1."
   credit: "Photo: Metropolitan Transportation Authority of the State of New York / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -59,10 +60,10 @@ faq:
     a: "Andreas Almgren of Sweden won the men's race and Sheila Chepkirui of Kenya the women's race on Sunday, Nov. 1, 2026, CBS New York and ABC7 New York reported. Marcel Hug and Catherine Debrunner of Switzerland won the wheelchair races."
   - q: "What time did the NYC Marathon start in 2026?"
     a: "The professional wheelchair divisions started at 8:00 and 8:02 a.m. Eastern Time on Sunday, Nov. 1, 2026. The professional women started at 8:35 a.m. and the professional men at 9:05 a.m. The five amateur waves started at 9:10, 9:45, 10:20, 10:55 and 11:30 a.m., according to New York Road Runners."
-  - q: "What channel is the NYC Marathon on in 2026?"
-    a: "Locally, WABC-TV Channel 7 airs the race live from 8:00 to 11:30 a.m. ET, with pre-race coverage from 7:00 a.m. and continued coverage until 1:00 p.m. Nationally, ESPN2 carries it from 8:00 to 11:30 a.m. ET, and ABC Network airs a two-hour finish-line show from 3:00 to 5:00 p.m. A Spanish-language stream runs on ESPN3."
+  - q: "What channel was the NYC Marathon on in 2026?"
+    a: "Locally, WABC-TV Channel 7 aired the race live from 8:00 to 11:30 a.m. ET, with pre-race coverage from 7:00 a.m. and continued coverage until 1:00 p.m. Nationally, ESPN2 carried it from 8:00 to 11:30 a.m. ET, and ABC Network aired a two-hour finish-line show from 3:00 to 5:00 p.m. A Spanish-language stream ran on ESPN3, per New York Road Runners."
   - q: "Where can I watch the NYC Marathon in person?"
-    a: "Most of the course is open to spectators from mile 3 to mile 26. There is no viewing at the start or on the Verrazzano-Narrows Bridge, and spectators are not allowed on any bridge on the course. New York Road Runners suggests Fourth Avenue in Brooklyn, First Avenue in Manhattan and Fifth Avenue near Central Park, and recommends the subway to get between spots."
+    a: "For race day, most of the course was open to spectators from mile 3 to mile 26. There was no viewing at the start or on the Verrazzano-Narrows Bridge, and spectators were not allowed on any bridge on the course. New York Road Runners suggested Fourth Avenue in Brooklyn, First Avenue in Manhattan and Fifth Avenue near Central Park, and recommended the subway to get between spots."
   - q: "What roads were closed for the NYC Marathon 2026?"
     a: "The New York Police Department closed streets along the course on Sunday, Nov. 1, starting early in the morning for setup. NYRR did not publish 2026 street-by-street closure times on the pages we checked. In 2025 the Metropolitan Transportation Authority closed the Verrazzano-Narrows Bridge to non-emergency traffic from 7:00 a.m. to 4:00 p.m. on race day."
   - q: "Did the NYC Marathon course change for 2026?"
@@ -170,13 +171,13 @@ Runners left Staten Island in staggered groups. The professional and wheelchair 
 | Wave 4 | 10:55 a.m. |
 | Wave 5 | 11:30 a.m. |
 
-Each wave has three start colors (blue, orange and pink) and six corrals. Your bib shows your wave, color and corral. NYRR lets you move to a later wave or corral, but never to an earlier one; starting early risks disqualification. Your finish time is net time, measured from when you cross the start line rather than from the gun.
+Each wave had three start colors (blue, orange and pink) and six corrals. A runner's bib showed the wave, color and corral. NYRR lets you move to a later wave or corral, but never to an earlier one; starting early risks disqualification. Your finish time is net time, measured from when you cross the start line rather than from the gun.
 
 Only registered runners and their guides enter the start area at Fort Wadsworth. The sole bag allowed there is the clear official start village bag from the Expo, and there is no bag check at the start for transport to the finish. NYRR says the start villages and corrals hold more than 1,600 toilets, and discarded clothing is donated to the nonprofit All of Us.
 
 ## How to watch on TV and online
 
-Locally, New York's Channel 7 (WABC-TV) carries the race; nationally it airs on ESPN2 and the American Broadcasting Company (ABC).
+Locally, New York's Channel 7 (WABC-TV) carried the race; nationally it aired on ESPN2 and the American Broadcasting Company (ABC).
 
 | Coverage | Channel | Window (ET) |
 |---|---|---|
@@ -191,7 +192,7 @@ NYRR also lists a finish-line view on ABC7NY.com from 10:30 a.m. to 6:00 p.m. On
 
 ## Where to watch in person
 
-Most of the course is open to spectators from mile 3 to mile 26, according to NYRR. There is no viewing at the start or on the Verrazzano-Narrows Bridge, and spectators are not allowed on any bridge along the route. The Metropolitan Transportation Authority (MTA) subway is the best way to move between spots; check mta.info before you go.
+Most of the course was open to spectators from mile 3 to mile 26, according to NYRR. There was no viewing at the start or on the Verrazzano-Narrows Bridge, and spectators were not allowed on any bridge along the route. The Metropolitan Transportation Authority (MTA) subway is the best way to move between spots; check mta.info before you go.
 
 NYRR's recommended cheer locations include:
 
@@ -214,9 +215,9 @@ For scale, the MTA said that in 2025 the Verrazzano-Narrows Bridge closed to non
 
 ## A new turn in the Bronx
 
-For 2026, NYRR adjusted the route in the Bronx. After crossing the Willis Avenue Bridge, runners turn left onto East 135th Street, right onto Alexander Avenue and continue along Alexander. Instead of turning onto East 138th Street, they now turn left onto East 141st Street, left onto Third Avenue, then right onto East 138th Street to cross the Madison Avenue Bridge back into Manhattan.
+For 2026, NYRR adjusted the route in the Bronx. After crossing the Willis Avenue Bridge, runners turned left onto East 135th Street, right onto Alexander Avenue and continued along Alexander. Instead of turning onto East 138th Street, they turned left onto East 141st Street, left onto Third Avenue, then right onto East 138th Street to cross the Madison Avenue Bridge back into Manhattan.
 
-NYRR calls it the first course change in 15 years, made to reduce the race's impact on the Bronx. It comes as the organization marks the 50th anniversary of the five-borough course, first run on New York City streets on Oct. 24, 1976.
+NYRR calls it the first course change in 15 years, made to reduce the race's impact on the Bronx. It came as the organization marked the 50th anniversary of the five-borough course, first run on New York City streets on Oct. 24, 1976.
 
 ## When the clock stops
 

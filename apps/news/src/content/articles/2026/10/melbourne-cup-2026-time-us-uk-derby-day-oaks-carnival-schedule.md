@@ -1,9 +1,9 @@
 ---
 title: "Melbourne Cup 2026 Time: First Race Was 6:45 p.m. ET on Nov. 2"
-description: "The 2026 Melbourne Cup was Tuesday, Nov. 3 in Melbourne, Monday night, Nov. 2 in the U.S., first race 6:45 p.m. ET. Carnival times in ET, PT and UK GMT."
+description: "Point of Law won the 2026 Melbourne Cup on Tuesday, Nov. 3 (Monday night, Nov. 2 in the U.S., first race 6:45 p.m. ET). Times in ET, PT and UK GMT."
 type: news
 publishedAt: "2026-10-30T12:32:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Melbourne Cup 2026 time", "Melbourne Cup 2026 US time", "Melbourne Cup Carnival 2026 dates", "Victoria Derby Day 2026", "what time is the Melbourne Cup in the US"]
@@ -11,7 +11,7 @@ dateline: "Melbourne"
 hero:
   src: ../../../../assets/news/melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule/melbourne-cup-2026-time-us-uk-derby-day-oaks-carnival-schedule.webp
   alt: "Melbourne Cup 2026 time: crowd and track at Flemington racecourse in Melbourne, home of the Melbourne Cup Carnival"
-  caption: "File photo from 2014 of Flemington racecourse in Melbourne, where the 2026 Melbourne Cup Carnival runs over four race days from Saturday, Oct. 31."
+  caption: "File photo from 2014 of Flemington racecourse in Melbourne, where the 2026 Melbourne Cup Carnival ran over four race days from Saturday, Oct. 31."
   credit: "Photo: Chris Phutully from Australia / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -20,19 +20,21 @@ hero:
     author: "Chris Phutully from Australia"
     authorUrl: "https://www.flickr.com/people/72562013@N06"
 summary:
-  - "The Lexus Melbourne Cup Day is Tuesday, Nov. 3. Its first race is 10:45 a.m. in Melbourne, 6:45 p.m. Eastern Standard Time (EST) on Monday, Nov. 2, and the trophy ceremony is at 2:15 p.m. local time."
-  - "The final field of 24 and the barrier draw were confirmed after Derby Day on Oct. 31, with Point of Law the race favourite in barrier 9, the Victoria Racing Club (VRC) reported."
-  - "Howden Victoria Derby Day was run on Saturday, Oct. 31, where Stormy Marco won the Group 1 Victoria Derby for trainer Chris Waller. Television channels in the United States and United Kingdom are not on the VRC pages."
-  - "Crown Oaks Day is Thursday, Nov. 5 and Champions Stakes Day is Saturday, Nov. 7, both Group 1 days at Flemington."
+  - "Point of Law won the 166th Lexus Melbourne Cup on Tuesday, Nov. 3, for trainer Ciaron Maher and jockey Ethan Brown, the Victoria Racing Club (VRC) reported. Cup Day's first race was 10:45 a.m. in Melbourne, 6:45 p.m. Eastern Standard Time (EST) on Monday, Nov. 2."
+  - "Maher trained the first three home, the first trainer to do so in the race's 166-year history, and 97,112 people attended, the VRC said."
+  - "Howden Victoria Derby Day was run on Saturday, Oct. 31, where Stormy Marco won the Group 1 Victoria Derby for trainer Chris Waller. The VRC pages did not name television channels in the United States or United Kingdom."
+  - "Crown Oaks Day was Thursday, Nov. 5 and Champions Stakes Day Saturday, Nov. 7, both Group 1 days at Flemington."
 faq:
-  - q: "What time is the Melbourne Cup in the US?"
-    a: "The VRC had not published a race-by-race time on the Cup Day page we read on Nov. 1, 2026. Cup Day races start at 10:45 a.m. Melbourne time on Tuesday, Nov. 3, which is 6:45 p.m. EST on Monday, Nov. 2, by our conversion, and the trophy ceremony is at 2:15 p.m. local time, 10:15 p.m. EST."
+  - q: "Who won the 2026 Melbourne Cup?"
+    a: "Point of Law, trained by Ciaron Maher and ridden by Ethan Brown, won the 166th Lexus Melbourne Cup on Tuesday, Nov. 3, 2026, by 3 3/4 lengths, according to the VRC. Maher also trained the second and third horses."
+  - q: "What time was the Melbourne Cup in the US?"
+    a: "Cup Day races started at 10:45 a.m. Melbourne time on Tuesday, Nov. 3, which was 6:45 p.m. EST on Monday, Nov. 2, by our conversion, and the trophy ceremony was at 2:15 p.m. local time, 10:15 p.m. EST."
   - q: "Who won the 2026 Victoria Derby?"
     a: "Stormy Marco won the Group 1 Howden Victoria Derby at Flemington on Saturday, Oct. 31, 2026, for trainer Chris Waller, the VRC reported. Derby Day's first race ran at 12:20 p.m. Melbourne time, 9:20 p.m. EDT on Friday, Oct. 30."
-  - q: "What time is the Melbourne Cup in the UK?"
-    a: "Cup Day starts at 10:45 a.m. Melbourne time, 11:45 p.m. Greenwich Mean Time (GMT) on Monday, Nov. 2, by our conversion. The ceremony at 2:15 p.m. local time is 3:15 a.m. GMT on Tuesday."
-  - q: "What is the prize money for the 2026 Melbourne Cup?"
-    a: "The VRC lists A$8,660,000 in prizemoney for the Group 1 Lexus Melbourne Cup, run over 3200 metres as an open handicap."
+  - q: "What time was the Melbourne Cup in the UK?"
+    a: "Cup Day started at 10:45 a.m. Melbourne time, 11:45 p.m. Greenwich Mean Time (GMT) on Monday, Nov. 2, by our conversion. The ceremony at 2:15 p.m. local time was 3:15 a.m. GMT on Tuesday."
+  - q: "What was the prize money for the 2026 Melbourne Cup?"
+    a: "The VRC listed A$8,660,000 in prizemoney for the Group 1 Lexus Melbourne Cup, run over 3200 metres as an open handicap, before the race. Its race report of Nov. 3 called it the $10.2 million Group 1 Lexus Melbourne Cup."
   - q: "Who won the Melbourne Cup in 2025?"
     a: "Half Yours, ridden by Jamie Melham, won the 2025 Lexus Melbourne Cup by 2 3/4 lengths from Goodie Too Shoes, the VRC reported on Nov. 4, 2025."
 sources:
@@ -68,6 +70,14 @@ sources:
     url: "https://www.vrc.com.au/latest-news/lexus-melbourne-cup-field-and-barriers-announced-for-166th-running/"
     publisher: "Victoria Racing Club"
     date: "2026-10-31"
+  - title: "Nation stops to witness racing history as Ciaron Maher becomes first trainer to win Melbourne Cup trifecta"
+    url: "https://www.vrc.com.au/latest-news/nation-stops-to-witness-racing-history-as-ciaron-maher-becomes-first-trainer-to-win-melbourne-cup-trifecta/"
+    publisher: "Victoria Racing Club"
+    date: "2026-11-03"
+  - title: "Lexus Melbourne Cup Day 2026: Racing highlights and results"
+    url: "https://www.vrc.com.au/latest-news/lexus-melbourne-cup-day-2026-racing-highlights-and-results/"
+    publisher: "Victoria Racing Club"
+    date: "2026-11-03"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -78,7 +88,7 @@ assets:
   overlay: true
   kicker: "Melbourne Cup 2026 · Tue., Nov. 3"
   date: "2026-11-03"
-  card: { top: "Cup Day first race", big: "6:45 p.m. ET Mon.", bottom: "Melbourne Cup Day is Tue., Nov. 3" }
+  card: { top: "Cup Day first race", big: "6:45 p.m. ET Mon.", bottom: "Point of Law won on Tue., Nov. 3" }
   printable:
     slug: melbourne-cup-carnival-2026-race-day-planner
     group: melbourne-cup-2026
@@ -86,6 +96,7 @@ assets:
     subtitle: "Four race days at Flemington, with U.S. Eastern Time for each first race"
     columns: ["Race day", "Melbourne / U.S. Eastern"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Sat., Oct. 31 · Derby Day", "First race 12:20 p.m. Melbourne / 9:20 p.m. EDT Fri., Oct. 30"]
       - ["Tue., Nov. 3 · Melbourne Cup Day", "First race 10:45 a.m. Melbourne / 6:45 p.m. EST Mon., Nov. 2"]
@@ -116,7 +127,7 @@ downloads:
 draft: false
 ---
 
-**The Lexus Melbourne Cup is on Tuesday, Nov. 3 in Melbourne, which is Monday night, Nov. 2 in the United States, with Cup Day's first race at 10:45 a.m. in Melbourne, 6:45 p.m. Eastern Time (ET), according to the Victoria Racing Club (VRC).** Howden Victoria Derby Day, the carnival's opening day, was run on Saturday, Oct. 31, where Stormy Marco won the Group 1 Victoria Derby for trainer Chris Waller. The VRC lists four race days for the carnival. The table below puts each one in Melbourne, Eastern, Pacific and London time.
+**The Lexus Melbourne Cup was on Tuesday, Nov. 3 in Melbourne, which was Monday night, Nov. 2 in the United States, with Cup Day's first race at 10:45 a.m. in Melbourne, 6:45 p.m. Eastern Time (ET), according to the Victoria Racing Club (VRC).** Point of Law won the 166th running for trainer Ciaron Maher and jockey Ethan Brown. Howden Victoria Derby Day, the carnival's opening day, was run on Saturday, Oct. 31, where Stormy Marco won the Group 1 Victoria Derby for trainer Chris Waller. The VRC listed four race days for the carnival. The table below keeps each one in Melbourne, Eastern, Pacific and London time as a record.
 
 ## What are the Melbourne Cup Carnival 2026 dates and times?
 
@@ -132,33 +143,33 @@ The VRC gives its times in Melbourne local time, Australian Eastern Daylight Tim
 | Crown Oaks Day, Thu., Nov. 5 | First race | 1:00 p.m. | 9:00 p.m. EST Wed., Nov. 4 | 6:00 p.m. PST Wed., Nov. 4 | 2:00 a.m. Thu., Nov. 5 |
 | Champions Stakes Day, Sat., Nov. 7 | First race | 12:40 p.m. | 8:40 p.m. EST Fri., Nov. 6 | 5:40 p.m. PST Fri., Nov. 6 | 1:40 a.m. Sat., Nov. 7 |
 
-The abbreviations are Eastern Daylight Time (EDT), Eastern Standard Time (EST), Pacific Daylight Time (PDT) and Pacific Standard Time (PST). U.S. clocks fell back on Sunday, Nov. 1, so Derby Day fell on daylight time and the other three race days fall on standard time. That is why Derby Day was 15 hours behind Melbourne in Eastern time and the later days are 16 hours behind. Our [U.S. and Australia time difference](/news/us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026/) story covers the gap in more cities.
+The abbreviations are Eastern Daylight Time (EDT), Eastern Standard Time (EST), Pacific Daylight Time (PDT) and Pacific Standard Time (PST). U.S. clocks fell back on Sunday, Nov. 1, so Derby Day fell on daylight time and the other three race days fell on standard time. That is why Derby Day was 15 hours behind Melbourne in Eastern time and the later days are 16 hours behind. Our [U.S. and Australia time difference](/news/us-australia-time-difference-after-daylight-saving-time-ends-november-1-2026/) story covers the gap in more cities.
 
-## What time is the Melbourne Cup in the US?
+## What time was the Melbourne Cup in the US, and who won?
 
-The VRC had not published a race-by-race timetable for Cup Day on its page, which we read on Nov. 1, 2026. It lists the gates opening at 9:00 a.m., the first race at 10:45 a.m. and the last race at 5:15 p.m. Melbourne time on Tuesday, Nov. 3. By our conversion, that is 6:45 p.m. EST for the first race and 1:15 a.m. EST on Tuesday for the last race.
+Point of Law, the $7 favourite, won the Cup by 3 3/4 lengths for Maher and Brown, the VRC reported on Nov. 3, 2026. Maher trained the first three finishers, and the crowd of 97,112 was the largest Cup Day attendance since 2016, the VRC said. Before the race, the VRC's page, which we read on Nov. 1, gave no race-by-race timetable. It listed the gates opening at 9:00 a.m., the first race at 10:45 a.m. and the last race at 5:15 p.m. Melbourne time on Tuesday, Nov. 3. By our conversion, that is 6:45 p.m. EST for the first race and 1:15 a.m. EST on Tuesday for the last race.
 
-The VRC confirmed the final field of 24 runners and the barrier draw after Derby Day on Oct. 31, 2026, for what it called the 166th running of the Lexus Melbourne Cup. It listed Point of Law as the race favourite, drawn in barrier 9.
+The VRC confirmed the final field of 24 runners and the barrier draw after Derby Day on Oct. 31, 2026, for what it called the 166th running of the Lexus Melbourne Cup, with Point of Law drawn in barrier 9.
 
-The VRC says the Lexus Melbourne Cup Trophy Ceremony starts at 2:15 p.m. in the Mounting Yard, before the race. It opens with a Welcome to Country, followed by a performance by Robbie Williams, the arrival of the 2026 Lexus Melbourne Cup and the Australian National Anthem. That is 10:15 p.m. EST on Monday, Nov. 2. The Cup race follows the ceremony. See the VRC's race-day page for the Cup start time. Robbie Williams also performs after the last race on The Elms Live Stage, the VRC says.
+The VRC said the Lexus Melbourne Cup Trophy Ceremony started at 2:15 p.m. in the Mounting Yard, before the race. It opened with a Welcome to Country, followed by a performance by Robbie Williams, the arrival of the 2026 Lexus Melbourne Cup and the Australian National Anthem. That was 10:15 p.m. EST on Monday, Nov. 2.
 
-The VRC lists the Group 1 Lexus Melbourne Cup over 3200 metres as an Open Handicap, with prizemoney of A$8,660,000 (Australian dollars, A$).
+Before the race the VRC listed the Group 1 Lexus Melbourne Cup over 3200 metres as an Open Handicap, with prizemoney of A$8,660,000 (Australian dollars, A$); its race report called it the $10.2 million Cup.
 
 ## What time is Victoria Derby Day 2026?
 
 Howden Victoria Derby Day was Saturday, Oct. 31. Gates opened at 10:00 a.m., the first race was at 12:20 p.m. and the last race at 5:40 p.m. in Melbourne, according to the VRC. For viewers in the U.S., the first race was at 9:20 p.m. EDT on Friday, Oct. 30 and the last race at 2:40 a.m. EDT early Saturday. The feature was the Group 1 Victoria Derby over 2500 metres, with A$2,000,000 in prizemoney, won by Stormy Marco for trainer Chris Waller, the VRC reported.
 
-## What time is the Melbourne Cup in the UK?
+## What time was the Melbourne Cup in the UK?
 
-In the United Kingdom, Cup Day starts at 11:45 p.m. GMT on Monday, Nov. 2, by our conversion, and the trophy ceremony is at 3:15 a.m. GMT on Tuesday, Nov. 3. Derby Day's first race was at 1:20 a.m. GMT on Saturday, Oct. 31.
+In the United Kingdom, Cup Day started at 11:45 p.m. GMT on Monday, Nov. 2, by our conversion, and the trophy ceremony was at 3:15 a.m. GMT on Tuesday, Nov. 3. Derby Day's first race was at 1:20 a.m. GMT on Saturday, Oct. 31.
 
-## When are Crown Oaks Day and Champions Stakes Day?
+## When were Crown Oaks Day and Champions Stakes Day?
 
-Crown Oaks Day is Thursday, Nov. 5, with a first race at 1:00 p.m. Melbourne time, the VRC says, and the Group 1 Crown Oaks over 2500 metres. Champions Stakes Day is Saturday, Nov. 7, with a first race at 12:40 p.m. The VRC lists three Group 1 races that day, each worth A$3,000,000: the Champions Stakes (2000 metres), the VRC Champions Mile (1600 metres) and the VRC Champions Sprint (1200 metres).
+Crown Oaks Day was Thursday, Nov. 5, with a first race at 1:00 p.m. Melbourne time, the VRC said, and the Group 1 Crown Oaks over 2500 metres. Champions Stakes Day was Saturday, Nov. 7, with a first race at 12:40 p.m. The VRC listed three Group 1 races that day, each worth A$3,000,000: the Champions Stakes (2000 metres), the VRC Champions Mile (1600 metres) and the VRC Champions Sprint (1200 metres).
 
-## Where can you watch the Melbourne Cup in the US and UK?
+## Where could you watch the Melbourne Cup in the US and UK?
 
-The VRC pages we read do not name 2026 television or streaming channels for the United States or the United Kingdom. Check your racing broadcaster's listings for the carnival before race day.
+The VRC pages we read did not name 2026 television or streaming channels for the United States or the United Kingdom.
 
 ## Who won the Melbourne Cup in 2025?
 
@@ -166,4 +177,4 @@ In 2025, Half Yours won the Lexus Melbourne Cup with jockey Jamie Melham, by 2 3
 
 ## Free Melbourne Cup Carnival 2026 race-day planner
 
-Our printable lists the four race days with the Melbourne time and U.S. Eastern Time of each first race, plus the Cup trophy ceremony, on one page. Mark the week on your [October 2026 printable calendar](/october-calendars.html) and your [November 2026 printable calendar](/november-calendars.html). Other race times by time zone are in our [Breeders' Cup 2026 post times](/news/breeders-cup-2026-post-times-tv-schedule-keeneland/) and [Mexico City Grand Prix 2026 schedule](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/) stories.
+Our printable lists the four race days with the Melbourne time and U.S. Eastern Time of each first race, plus the Cup trophy ceremony, on one page. Keep it with your [October 2026 printable calendar](/october-calendars.html) and your [November 2026 printable calendar](/november-calendars.html). Other race times by time zone are in our [Breeders' Cup 2026 post times](/news/breeders-cup-2026-post-times-tv-schedule-keeneland/) and [Mexico City Grand Prix 2026 schedule](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/) stories.

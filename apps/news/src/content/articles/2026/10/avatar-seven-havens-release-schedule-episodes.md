@@ -1,9 +1,9 @@
 ---
 title: "Avatar: Seven Havens Episode Release Dates: All 13 Out Oct. 30"
-description: "Avatar: Seven Havens episode release dates: all 13 Book One episodes are on Paramount+ since Oct. 30. Book Two has no date yet. Every batch is listed."
+description: "Avatar: Seven Havens Book Two premieres May 21, 2027; all 13 Book One episodes have been on Paramount+ since Oct. 30. Every batch is listed."
 type: news
 publishedAt: "2026-10-23T15:02:00-04:00"
-updatedAt: "2026-11-06T19:25:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Avatar: Seven Havens release schedule", "Avatar Seven Havens episode 10 release date", "when does Avatar Seven Havens come out", "Seven Havens finale date"]
@@ -19,6 +19,7 @@ assets:
     title: "Avatar: Seven Havens Episode Schedule, Book One 2026"
     subtitle: "Weekly Paramount+ release dates for Book One of Avatar: Seven Havens"
     layout: timeline
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Fri., Oct. 9", "Episodes 1-3 (premiere)"]
       - ["Fri., Oct. 16", "Episodes 4-6"]
@@ -34,10 +35,10 @@ hero:
   title: "Finale Fri., Oct. 30"
   caption: "Avatar: Seven Havens released its Book One finale batch, episodes 10-13, on Friday, Oct. 30, 2026, the day before Halloween."
 summary:
-  - "Avatar: Seven Havens Book Two has no release date yet, per Paramount+ (Paramount Plus), checked Nov. 7, 2026."
+  - "Avatar: Seven Havens Book Two premieres Friday, May 21, 2027, per Paramount+ (Paramount Plus), with the finale batch on June 11, 2027."
   - "All 13 Book One episodes have streamed since the Oct. 30, 2026 finale batch, episodes 10-13, the day before Halloween."
   - "The series premiered Friday, Oct. 9, 2026, and runs 26 half-hour episodes across two books of 13."
-  - "Paramount+ says the series has already been renewed for Books 3 and 4; no release time of day for new episodes is confirmed."
+  - "Paramount+ says the series has already been renewed for Books 3 and 4; Book 3 is listed for 2027 with an exact date still to be announced."
 faq:
   - q: "When did Avatar: Seven Havens come out each week?"
     a: "New batches arrived on Fridays. Episodes 7-9 released Friday, Oct. 23, 2026, and the Book One finale, episodes 10-13, released Friday, Oct. 30, according to Paramount+ and TheWrap. Paramount+ has not published a confirmed release time of day."
@@ -46,7 +47,7 @@ faq:
   - q: "When was the Seven Havens finale?"
     a: "The Book One finale batch, episodes 10 through 13, released Friday, Oct. 30, 2026, on Paramount+. Paramount+ says all 13 episodes are available to watch on demand."
   - q: "When does Avatar: Seven Havens Book Two come out?"
-    a: "Paramount+ said on Nov. 4, 2026, that a release date for Book 2 has not yet been announced. Book 2 will contain 13 half-hour episodes, just like Book 1."
+    a: "Book 2 premieres Friday, May 21, 2027, on Paramount+, according to a Paramount+ article published Nov. 13, 2026. Its 13 half-hour episodes arrive in four Friday batches through June 11, 2027."
 sources:
   - title: "Comic-Con 2026 Paramount/CBS Announcements"
     url: "https://www.paramountplus.com/sneak-peak/comic-con-2026-paramount-cbs-announcements/"
@@ -63,7 +64,7 @@ sources:
   - title: "Avatar: Seven Havens Book 2: Everything You Need To Know"
     url: "https://www.paramountplus.com/sneak-peak/avatar-seven-havens-book-2-everything-you-need-to-know/"
     publisher: "Paramount+"
-    date: "2026-11-04"
+    date: "2026-11-13"
   - title: "Avatar: Seven Havens Book 1: Everything You Need To Know"
     url: "https://www.paramountplus.com/sneak-peak/everything-you-need-to-know-about-avatar-seven-havens/"
     publisher: "Paramount+"
@@ -96,7 +97,7 @@ downloads:
 draft: false
 ---
 
-**Avatar: Seven Havens Book Two has no release date yet, per Paramount+ (checked Nov. 6, 2026); all 13 Book One episodes have been streaming since the Oct. 30 finale.**
+**Avatar: Seven Havens Book Two premieres Friday, May 21, 2027, per Paramount+; all 13 Book One episodes have been streaming since the Oct. 30 finale.**
 
 The animated series premiered Friday, Oct. 9, 2026, and the finale batch, episodes 10 through 13, followed on Oct. 30, the day before Halloween. Paramount+ lists the four-batch Book One schedule below, and TheWrap reported the same weekly pattern. The premiere date was revealed with a teaser at the Avatar Studios panel at San Diego Comic-Con on July 23, 2026.
 
@@ -115,9 +116,16 @@ Book One runs 13 episodes. The full series is 26 half-hour episodes ordered as t
 
 ## What we know about Book Two
 
-Paramount+ wrote on Nov. 4, 2026: "A release date for Avatar: Seven Havens Book 2 has not yet been announced." It added that "the release cadence and premiere date for Book 2 will be announced in the future." Book 2 will contain 13 half-hour episodes, just like Book 1.
+Paramount+ published the Book 2 dates on Nov. 13, 2026. Book 2 will contain 13 half-hour episodes, just like Book 1, and arrives in four Friday batches:
 
-Paramount+ also says the series "has already been renewed for Books 3 and 4." Episode counts for those books have not been announced.
+| Date | Weekday | Episodes |
+|---|---|---|
+| May 21, 2027 | Friday | Episodes 1-3 (premiere) |
+| May 28, 2027 | Friday | Episodes 4-6 |
+| June 4, 2027 | Friday | Episodes 7-9 |
+| June 11, 2027 | Friday | Episodes 10-13 (Book Two finale) |
+
+Paramount+ also says the series "has already been renewed for Books 3 and 4." Book 3 is listed for 2027 with its exact date to be announced, and Book 4 has no premiere date yet. Episode counts for those books have not been announced.
 
 ## How to watch
 
@@ -131,4 +139,4 @@ The series is co-created and executive produced by Michael Dante DiMartino and B
 
 ## Mark the finale
 
-Use our [October 2026 printable calendar](/october-calendars.html) to circle the Oct. 30 finale and our [November 2026 printable calendar](/november-calendars.html) for what comes next. The finale lands the day before Halloween; see [when is Halloween](/when-is/halloween/) for the date and weekend plans.
+Use our [October 2026 printable calendar](/october-calendars.html) to circle the Oct. 30 finale and our [November 2026 printable calendar](/november-calendars.html) for what comes next. Book 2 premieres May 21, 2027. The finale lands the day before Halloween; see [when is Halloween](/when-is/halloween/) for the date and weekend plans.

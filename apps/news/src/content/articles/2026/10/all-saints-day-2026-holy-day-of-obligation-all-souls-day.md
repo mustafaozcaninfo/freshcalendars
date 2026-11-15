@@ -3,14 +3,15 @@ title: "All Saints Day and All Souls Day 2026: Nov. 1 and Nov. 2"
 description: "All Saints Day 2026 fell on Sunday, Nov. 1, and All Souls Day on Monday, Nov. 2. A table lists U.S. holy days of obligation through December 2027."
 type: explainer
 publishedAt: "2026-10-25T01:33:00-04:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is All Saints Day a holy day of obligation 2026", "All Saints Day 2026", "All Souls Day 2026", "holy days of obligation 2027"]
 dateline: "Washington"
 hero:
   src: ../../../../assets/news/all-saints-day-2026-holy-day-of-obligation-all-souls-day/all-saints-day-2026-holy-day-of-obligation-all-souls-day.webp
-  alt: "All Saints Day 2026 falls on Sunday, Nov. 1: thousands of candles glowing across a cemetery at night"
-  caption: "Candles light a cemetery at night. All Saints Day falls on Sunday, Nov. 1, 2026, and All Souls Day on Monday, Nov. 2."
+  alt: "All Saints Day 2026 was on Sunday, Nov. 1: thousands of candles glowing across a cemetery at night"
+  caption: "Candles light a cemetery at night. All Saints Day was on Sunday, Nov. 1, 2026, and All Souls Day on Monday, Nov. 2."
   credit: "Photo: Krzysztof Popławski / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -19,13 +20,13 @@ hero:
     author: "Krzysztof Popławski"
     authorUrl: "https://commons.wikimedia.org/wiki/User:KrzysztofPoplawski"
 summary:
-  - "All Saints Day 2026 is Sunday, Nov. 1. The Saturday or Monday exemption does not apply, and the day is a Sunday, so Mass is required anyway."
+  - "All Saints Day 2026 was Sunday, Nov. 1. The Saturday or Monday exemption did not apply, and the day was a Sunday, so Mass was required anyway."
   - "In 2027, Nov. 1 is a Monday, and the U.S. Conference of Catholic Bishops (USCCB) says the obligation to attend Mass that day is abrogated."
-  - "All Souls Day is Monday, Nov. 2, 2026. It is not on the list of U.S. holy days of obligation."
+  - "All Souls Day was Monday, Nov. 2, 2026. It is not on the list of U.S. holy days of obligation."
   - "Six holy days make up the U.S. list; the table below gives each date and its status from November 2026 to December 2027."
 faq:
   - q: "Is All Saints Day a holy day of obligation in 2026?"
-    a: "Yes. Nov. 1, the solemnity of All Saints, is on the USCCB list of U.S. holy days of obligation, and in 2026 it falls on a Sunday. The rule that lifts the obligation applies only on a Saturday or a Monday."
+    a: "Yes. Nov. 1, the solemnity of All Saints, is on the USCCB list of U.S. holy days of obligation, and in 2026 it fell on a Sunday. The rule that lifts the obligation applies only on a Saturday or a Monday."
   - q: "Is All Saints Day a holy day of obligation in 2027?"
     a: "No. The USCCB 2027 liturgical calendar says that because Nov. 1, 2027, is a Monday, the obligation to attend Mass on that date is abrogated."
   - q: "Is All Souls Day a holy day of obligation?"
@@ -61,14 +62,6 @@ downloads:
     pdf: "/news/downloads/holy-days-2026-2027/holy-days-of-obligation-2026-2027.pdf"
     png: "/news/downloads/holy-days-2026-2027/holy-days-of-obligation-2026-2027.png"
     pages: 1
-  - group: "U.S. Catholic Holy Days of Obligation printables"
-    title: "U.S. Catholic Holy Days of Obligation, Nov. 2026 to Dec. 2027 (ink saver)"
-    description: "One-page list of U.S. Catholic holy days of obligation from November 2026 to December 2027, with weekdays and what each date means. Ink-saver version."
-    preview: ../../../../assets/news/holy-days-2026-2027/holy-days-of-obligation-2026-2027-ink.png
-    alt: "Printable list of U.S. Catholic holy days of obligation from November 2026 to December 2027 with weekdays and status, ink-saver version"
-    pdf: "/news/downloads/holy-days-2026-2027/holy-days-of-obligation-2026-2027-ink.pdf"
-    png: "/news/downloads/holy-days-2026-2027/holy-days-of-obligation-2026-2027-ink.png"
-    pages: 1
 draft: false
 assets:
   overlay: true
@@ -83,7 +76,7 @@ assets:
     layout: list
     columns: ["Date", "Holy day and status"]
     rows:
-      - { when: "Nov. 1, 2026 (Sunday)", what: "All Saints: a Sunday, so Mass is required anyway" }
+      - { when: "Nov. 1, 2026 (Sunday)", what: "All Saints: a Sunday, so Mass was required anyway" }
       - { when: "Nov. 2, 2026 (Monday)", what: "All Souls Day: not on the list of U.S. holy days of obligation" }
       - { when: "Dec. 8, 2026 (Tuesday)", what: "Immaculate Conception: obligation" }
       - { when: "Dec. 25, 2026 (Friday)", what: "Christmas: obligation" }
@@ -95,20 +88,20 @@ assets:
       - { when: "Dec. 8, 2027 (Wednesday)", what: "Immaculate Conception: obligation" }
       - { when: "Dec. 25, 2027 (Saturday)", what: "Christmas: the Saturday/Monday rule does not cover Christmas" }
     note: "Source: United States Conference of Catholic Bishops (USCCB), canon 1246 complementary norm and Liturgical Calendars 2026 and 2027. Check your diocese."
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page list of U.S. Catholic holy days of obligation from November 2026 to December 2027, with weekdays and what each date means."
     alt: "Printable list of U.S. Catholic holy days of obligation from November 2026 to December 2027 with weekdays and status"
 ---
 
-All Saints Day 2026 falls on **Sunday, Nov. 1**, and the United States Conference of Catholic Bishops (USCCB) lists Nov. 1, the solemnity of All Saints, among the holy days of obligation in the United States. The date is seven days after Sunday, Oct. 25, 2026. Because it is a Sunday, the Saturday or Monday exemption does not apply, and Mass is required anyway.
+All Saints Day 2026 fell on **Sunday, Nov. 1**, and the United States Conference of Catholic Bishops (USCCB) lists Nov. 1, the solemnity of All Saints, among the holy days of obligation in the United States. Because it was a Sunday, the Saturday or Monday exemption did not apply, and Mass was required anyway.
 
 ## Is All Saints Day a holy day of obligation in 2026?
 
-Yes. The USCCB's canon 1246 complementary norm lists "November 1, the solemnity of All Saints" on the U.S. list. The same norm says that whenever Jan. 1, Aug. 15 or Nov. 1 "falls on a Saturday or on a Monday, the precept to attend Mass is abrogated." Nov. 1, 2026, is a Sunday, so that rule does not come into play. Check your parish for its Mass times.
+Yes. The USCCB's canon 1246 complementary norm lists "November 1, the solemnity of All Saints" on the U.S. list. The same norm says that whenever Jan. 1, Aug. 15 or Nov. 1 "falls on a Saturday or on a Monday, the precept to attend Mass is abrogated." Nov. 1, 2026, was a Sunday, so that rule did not come into play.
 
 ## What is the date of All Souls Day 2026?
 
-All Souls Day is **Monday, Nov. 2, 2026**, the day after All Saints. It is not on the list of U.S. holy days of obligation in the USCCB norm. Our story on [Day of the Dead 2026 dates](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) covers a related early-November observance.
+All Souls Day was **Monday, Nov. 2, 2026**, the day after All Saints. It is not on the list of U.S. holy days of obligation in the USCCB norm. Our story on [Day of the Dead 2026 dates](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) covers a related early-November observance.
 
 ## Is All Saints Day a holy day of obligation in 2027?
 
@@ -120,7 +113,7 @@ The table lists each date on the U.S. list, with weekdays computed for the year 
 
 | Date | Day | Holy day | Status |
 |---|---|---|---|
-| Sun., Nov. 1, 2026 | Sunday | All Saints | Sunday, so Mass is required anyway; the Saturday/Monday rule does not apply |
+| Sun., Nov. 1, 2026 | Sunday | All Saints | Sunday, so Mass was required anyway; the Saturday/Monday rule did not apply |
 | Mon., Nov. 2, 2026 | Monday | All Souls Day | Not on the list of U.S. holy days of obligation |
 | Tue., Dec. 8, 2026 | Tuesday | Immaculate Conception | Obligation |
 | Fri., Dec. 25, 2026 | Friday | Christmas | Obligation |
@@ -144,7 +137,7 @@ Yes. Both the 2026 and 2027 USCCB calendars say that in a decree dated March 23,
 
 ## How to plan around these dates
 
-- Mark Nov. 1 and Nov. 2 on the [November 2026 printable calendar](/november-calendars.html), and see the later dates on the [printable yearly calendar](/printable-yearly-calendar.html).
+- Keep the later dates on the [printable yearly calendar](/printable-yearly-calendar.html); the [November 2026 printable calendar](/november-calendars.html) shows Nov. 1 and Nov. 2.
 - Look at the [November 2026 important dates](/news/november-2026-important-dates-days-until/) for the rest of the month.
 - Print the one-page list above and keep it with your calendar.
 

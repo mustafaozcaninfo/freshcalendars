@@ -3,7 +3,7 @@ title: "UK Budget 2026 Time: Wed., Oct. 28, Key Dates and US Times"
 description: "The UK Budget 2026 was delivered Wed., Oct. 28. Cash Individual Savings Account (ISA) limit stays £20,000. US time-zone table and key dates printable."
 type: news
 publishedAt: "2026-10-26T08:45:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["budget 2026 date uk", "when is the budget 2026", "autumn budget 2026", "budget 28 october 2026", "what time is the budget"]
@@ -22,7 +22,7 @@ hero:
 summary:
   - "The Chancellor of the Exchequer presented the Budget 2026 to Parliament on Wednesday, Oct. 28, 2026, according to HM Treasury on GOV.UK."
   - "The Budget keeps the cash Individual Savings Account (ISA) limit at £20,000 from April 6, 2027, raises the National Living Wage to £13.21 an hour on April 1, 2027, and extends the 5p fuel duty cut to July 1, 2027."
-  - "The Office for Budget Responsibility (OBR) forecast was due the same day, per the Chancellor's July 31, 2026 letter to the Treasury Committee."
+  - "The Office for Budget Responsibility (OBR) published its forecast the same day, Oct. 28, according to the OBR; the Chancellor's July 31, 2026 letter to the Treasury Committee had set that date."
   - "The Commons Order Paper listed the Budget Statement after Prime Minister's Questions, which started at 12 noon Greenwich Mean Time (GMT), or 8 a.m. Eastern Time (ET)."
 faq:
   - q: "Did the Budget 2026 cut the cash ISA limit?"
@@ -41,7 +41,7 @@ sources:
   - title: "Budget 2026 (HTML)"
     url: "https://www.gov.uk/government/publications/budget-2026-document/budget-2026-html"
     publisher: "HM Treasury, GOV.UK"
-    date: "2026-10-28"
+    date: "2026-11-14"
   - title: "Cash Individual Savings Account (ISA) limit reduction"
     url: "https://www.gov.uk/government/publications/reduction-in-the-cash-individual-savings-account-isa-limit/cash-individual-savings-account-isa-limit-reduction"
     publisher: "HM Revenue and Customs, GOV.UK"
@@ -56,6 +56,10 @@ sources:
   - title: "Budget 2025"
     url: "https://www.gov.uk/government/topical-events/budget-2025"
     publisher: "HM Treasury, GOV.UK"
+  - title: "Economic and fiscal outlook – October 2026"
+    url: "https://obr.uk/efo/economic-and-fiscal-outlook-october-2026/"
+    publisher: "Office for Budget Responsibility"
+    date: "2026-11-14"
   - title: "Order Paper for 27 October 2026"
     url: "https://commonsbusiness.parliament.uk/Document/107683/Html?subType=Standard"
     publisher: "UK Parliament, House of Commons"
@@ -79,6 +83,7 @@ assets:
     title: "UK Budget 2026 Key Dates"
     subtitle: "From Budget 2025 to the start of the 2027-28 tax year"
     layout: timeline
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Nov. 26, 2025", "Wednesday: Budget 2025 presented to Parliament"]
       - ["Fri., July 31, 2026", "Chancellor's letter to the Treasury Committee gives Oct. 28 as the forecast and Budget date"]
@@ -112,8 +117,6 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Budget 2026 changes added.</b> The Chancellor presented the Budget 2026 on Wed., Oct. 28, 2026. This story lists what it changes and when, from the Budget 2026 document on GOV.UK: the cash ISA limit stays at £20,000, the National Living Wage rises to £13.21 an hour on April 1, 2027, and the 5p fuel duty cut is extended to July 1, 2027.</p>
-
 **The UK Budget 2026 was delivered on Wednesday, Oct. 28, 2026**, when the Chancellor of the Exchequer presented it to Parliament, according to HM Treasury's "Budget 2026" page on GOV.UK. The House of Commons Order Paper listed the Budget Statement after Prime Minister's Questions, which began at 12 noon GMT; no exact clock time for the statement itself was published. This story lists the Budget's dated changes in one table, with a time-zone table for US readers and a one-page printable of the key dates.
 
 ## What the Budget 2026 changes, and when
@@ -131,13 +134,13 @@ The Budget 2026 document on GOV.UK keeps the headline rates of income tax, Natio
 
 On savings, the document says "the government has decided not to reduce the cash ISA limit, so that it remains at £20,000." That reverses a GOV.UK notice published Sept. 17, 2026, which had set out a cut to £12,000 a year for savers under 65 from April 6, 2027. The Budget is the later of the two and is the current position.
 
-The Office for Budget Responsibility (OBR) forecast was due the same day; its site did not load for us, so we do not quote its figures.
+The Office for Budget Responsibility (OBR) published its Economic and fiscal outlook for October 2026 the same day, Oct. 28, according to the OBR's website. We do not quote its figures here.
 
 ## When was the UK Budget 2026?
 
 Wednesday, Oct. 28, 2026. The date is also in a letter dated July 31, 2026 from John Healey, Chancellor of the Exchequer, to Dame Meg Hillier, Chair of the Treasury Committee. He wrote: "I am writing to inform you that today I have asked the Office for Budget Responsibility to prepare an economic and fiscal forecast for publication on 28 October 2026. This will be accompanied by the Budget."
 
-So the Office for Budget Responsibility (OBR) forecast and the Budget were due the same day, per HM Treasury, GOV.UK, July 31, 2026.
+So the OBR forecast and the Budget were due the same day, per HM Treasury, GOV.UK, July 31, 2026.
 
 ## What time was the Budget statement?
 

@@ -1,40 +1,40 @@
 ---
-title: "Ohio Sample Ballot 2026: Find Yours by County, Plus Issue 3 Voter ID"
-description: "Find your Ohio sample ballot for Nov. 3, 2026 by county. Covers statewide candidates, the U.S. Senate special election, Issue 3 on voter ID and key dates."
+title: "Ohio Sample Ballot 2026: Counties, Candidates and Issue 3 Voter ID"
+description: "The Ohio Nov. 3, 2026 ballot by county: statewide candidates, the U.S. Senate special election, Issue 3 on voter ID and key dates. Results are with the state."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Ohio sample ballot 2026", "Ohio Issue 3 2026", "Ohio governor candidates 2026", "Ohio Senate race 2026", "sample ballot by zip code Ohio"]
 dateline: "Columbus, Ohio"
 assets:
   scene: election
-  kicker: "Ohio · Election Day Nov. 3"
+  kicker: "Ohio · Election Day was Nov. 3"
   date: "2026-11-03"
-  card: { top: "Polls open", big: "6:30 a.m.", bottom: "Close 7:30 p.m.; bring photo ID" }
+  card: { top: "Ohio Election Day was Nov. 3", big: "6:30 a.m. to 7:30 p.m.", bottom: "Official results: Ohio Secretary of State" }
 hero:
   src: ../../../../assets/news/ohio-sample-ballot-2026-governor-senate-issue-3/ohio-sample-ballot-2026-governor-senate-issue-3.jpg
-  alt: "Ohio sample ballot 2026 illustration: a ballot box scene with a Nov. 3 date tile and a card showing polls open at 6:30 a.m."
+  alt: "Ohio sample ballot 2026 illustration: a ballot box scene with a Nov. 3 date tile and a card with the Election Day polling hours"
   title: "Ohio's Nov. 3, 2026 ballot"
-  caption: "Ohio voters choose a governor, five other statewide officers, two Supreme Court justices and a U.S. senator, and decide Issue 3, on Tuesday, Nov. 3, 2026."
+  caption: "Ohio voters chose a governor, four other statewide officers, two Supreme Court justices and a U.S. senator, and decided Issue 3, on Tuesday, Nov. 3, 2026."
 summary:
-  - "Ohio's Nov. 3, 2026 ballot has the race for governor, four other statewide offices, two Ohio Supreme Court seats and a U.S. Senate special election."
-  - "Issue 3, the only statewide issue, is a proposed constitutional amendment requiring voters to show photo identification."
-  - "Each county board of elections posts sample ballots; the Secretary of State's Sample Ballot Directory links to every county."
-  - "Early in-person voting ended Sunday, Nov. 1. Polls are open 6:30 a.m. to 7:30 p.m. on Election Day, Tuesday, Nov. 3."
+  - "Ohio's Nov. 3, 2026 ballot had the race for governor, four other statewide offices, two Ohio Supreme Court seats and a U.S. Senate special election."
+  - "Issue 3, the only statewide issue, was a proposed constitutional amendment requiring voters to show photo identification."
+  - "County boards of elections posted sample ballots; the Secretary of State's Sample Ballot Directory linked to every county."
+  - "Early in-person voting ended Sunday, Nov. 1. Polls were open 6:30 a.m. to 7:30 p.m. on Election Day, Tuesday, Nov. 3. Official results are on the Secretary of State's site."
 faq:
-  - q: "How do I find my Ohio sample ballot?"
-    a: "Start at the Ohio Secretary of State's Sample Ballot Directory, pick your county, and follow the link to your county board of elections, where you can look up the ballot for your precinct by name or address."
-  - q: "Who is running for governor of Ohio in 2026?"
+  - q: "How did Ohio voters find their sample ballot?"
+    a: "The Ohio Secretary of State's Sample Ballot Directory linked each county to its board of elections, where voters could look up the ballot for their precinct by name or address."
+  - q: "Who ran for governor of Ohio in 2026?"
     a: "Republican Vivek Ramaswamy with Robert A. McColley, Democrat Amy Acton with David Pepper, and Libertarian Don Kissick with James L. Mills, according to the candidate list posted by county boards of elections. Several write-in tickets are also certified."
-  - q: "Who is running for U.S. Senate in Ohio?"
+  - q: "Who ran for U.S. Senate in Ohio?"
     a: "Republican Jon Husted, Democrat Sherrod Brown, Libertarian William B. Redpath and Greg Levy, listed as an other-party candidate, for the unexpired term ending Jan. 3, 2029."
-  - q: "What is Ohio Issue 3 in 2026?"
-    a: "A proposed amendment to the Ohio Constitution that would require voters to present photo identification in order to vote. It is the only statewide issue on the Nov. 3 ballot."
+  - q: "What was Ohio Issue 3 in 2026?"
+    a: "A proposed amendment to the Ohio Constitution that would require voters to present photo identification in order to vote. It was the only statewide issue on the Nov. 3 ballot. Official results are on the Ohio Secretary of State's site."
   - q: "When did early voting end in Ohio?"
     a: "Sunday, Nov. 1, 2026. Early in-person voting began Oct. 6 at each county board of elections or its designated early voting site; hours varied by day."
-  - q: "Do I need ID to vote in Ohio?"
+  - q: "Does Ohio require ID to vote?"
     a: "Yes. Ohio requires an unexpired photo ID to vote in person, such as an Ohio driver's license or state ID, a U.S. passport or a military ID."
 sources:
   - title: "Sample Ballot Directory"
@@ -73,15 +73,15 @@ downloads:
 draft: false
 ---
 
-**Ohio voters find their Nov. 3, 2026 sample ballot through their county board of elections, linked from the Secretary of State's Sample Ballot Directory.** Every Ohio ballot has the race for governor, four other statewide offices, two Supreme Court seats, a U.S. Senate special election and Issue 3, a proposed amendment on voter photo ID. House, legislative and local races depend on where you live.
+**Ohio voters found their Nov. 3, 2026 sample ballot through their county board of elections, linked from the Secretary of State's Sample Ballot Directory.** Every Ohio ballot had the race for governor, four other statewide offices, two Supreme Court seats, a U.S. Senate special election and Issue 3, a proposed amendment on voter photo ID. House, legislative and local races depended on where the voter lived. The Secretary of State publishes the official results.
 
-## How to find your Ohio sample ballot
+## How the Ohio sample ballot worked
 
-1. Open the Ohio Secretary of State's Sample Ballot Directory and choose your county.
-2. Follow the link to your county board of elections. Most boards let you search by name or address.
-3. Open the ballot for your precinct and print it, or copy your choices onto the checklist below.
+1. The Ohio Secretary of State's Sample Ballot Directory listed every county.
+2. Each link led to a county board of elections. Most boards let voters search by name or address.
+3. The board's page showed the ballot for the voter's precinct, which could be printed or copied onto the checklist below.
 
-Our [sample ballot guide for all 50 states](/news/sample-ballot-by-zip-code-2026-texas-ballot/) lists the official lookup in every other state. Our [New Jersey sample ballot](/news/new-jersey-sample-ballot-2026-senate-early-voting/) guide covers that state's U.S. Senate candidates and mail ballot rules.
+Our [sample ballot guide for all 50 states](/news/sample-ballot-by-zip-code-2026-texas-ballot/) listed the official lookup in every other state. Our [New Jersey sample ballot](/news/new-jersey-sample-ballot-2026-senate-early-voting/) guide covers that state's U.S. Senate candidates and mail ballot rules.
 
 ## Key dates
 
@@ -90,13 +90,13 @@ Our [sample ballot guide for all 50 states](/news/sample-ballot-by-zip-code-2026
 | Mon., Oct. 5 | Registration deadline (passed) |
 | Tue., Oct. 6 to Sun., Nov. 1 | Early in-person voting at your county board of elections (ended) |
 | Tue., Oct. 27 | Absentee ballot applications had to be received by your county board (passed) |
-| Tue., Nov. 3 | Election Day, polls open 6:30 a.m. to 7:30 p.m. |
+| Tue., Nov. 3 | Election Day, polls open 6:30 a.m. to 7:30 p.m. (past) |
 
-Ohio requires an unexpired photo ID to vote in person. Early voting hours changed by day; on Nov. 3, check your county board's polling place list before you go.
+Ohio requires an unexpired photo ID to vote in person. Early voting hours changed by day.
 
 ## Statewide races
 
-The candidates below are those certified for every Ohio ballot, as listed in the updated election notice the Butler County Board of Elections posted on Oct. 2. The order on your ballot may differ. Write-in candidates are not shown.
+The candidates below were those certified for every Ohio ballot, as listed in the updated election notice the Butler County Board of Elections posted on Oct. 2. The order on your ballot may differ. Write-in candidates are not shown.
 
 | Office | Candidates |
 |---|---|
@@ -110,12 +110,12 @@ The candidates below are those certified for every Ohio ballot, as listed in the
 
 ### U.S. Senate special election
 
-Ohio elects a senator for the unexpired term that ends Jan. 3, 2029. The candidates are Jon Husted (Rep.), Sherrod Brown (Dem.), William B. Redpath (Lib.) and Greg Levy, listed as an other-party candidate.
+Ohio elected a senator for the unexpired term that ends Jan. 3, 2029. The candidates were Jon Husted (Rep.), Sherrod Brown (Dem.), William B. Redpath (Lib.) and Greg Levy, listed as an other-party candidate.
 
 ## Issue 3
 
-Issue 3 is the only statewide question this year. It is a proposed amendment to the Ohio Constitution. Its ballot title says it would require voters to present photo identification in order to vote. Ohio already requires photo ID by law for in-person voting; the amendment would put the rule in the constitution. The full text, the certified ballot language and the arguments for and against are posted by the Secretary of State.
+Issue 3 was the only statewide question this year. It was a proposed amendment to the Ohio Constitution. Its ballot title said it would require voters to present photo identification in order to vote. Ohio already requires photo ID by law for in-person voting; the amendment would have put the rule in the constitution. The full text, the certified ballot language and the arguments for and against are posted by the Secretary of State.
 
 ## Print your checklist
 
-The free one-page checklist below lists every statewide candidate and Issue 3, with key dates and room for your local races. Before you go, check [poll closing times](/news/what-time-do-polls-close-election-day-2026/) across the country, and follow the night with our [2026 midterm results tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/).
+The free one-page checklist below lists every statewide candidate and Issue 3, with key dates and room for local races. For the night itself, see [poll closing times](/news/what-time-do-polls-close-election-day-2026/) across the country and our [2026 midterm results tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/).

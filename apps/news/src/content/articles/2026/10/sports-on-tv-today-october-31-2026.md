@@ -1,8 +1,9 @@
 ---
 title: "Sports on TV Today, Oct. 31, 2026: 54 Events, From 11:15 a.m. ET"
-description: "Sports on TV Saturday, Oct. 31, 2026: 54 events from 11:15 a.m. ET, with the Breeders' Cup Classic at 6:16 p.m. ET. One time-ordered table with channels."
+description: "Sports on TV Saturday, Oct. 31, 2026: 54 events from 11:15 a.m. ET; Sovereignty won the 6:16 p.m. Breeders' Cup Classic. Time-ordered table with channels."
 type: news
 publishedAt: "2026-10-30T04:25:00-04:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["sports on TV today", "sports on TV tomorrow", "sports schedule Saturday October 31 2026", "what games are on Halloween", "printable sports TV schedule"]
@@ -12,6 +13,7 @@ assets:
   date: "2026-10-31"
   card: { top: "College football, Breeders' Cup, F1, NBA, NHL", big: "54 events Saturday", bottom: "Classic 6:16 p.m. · Ohio State at USC 7:30 p.m. ET" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: sports-on-tv-saturday-october-31-2026
     group: sports-tv-2026
     title: "Sports on TV Saturday, Oct. 31, 2026"
@@ -51,7 +53,7 @@ assets:
 hero:
   src: ../../../../assets/news/sports-on-tv-today-october-31-2026/sports-on-tv-today-october-31-2026.webp
   alt: "Aerial view of the Los Angeles Memorial Coliseum, home of USC football, for sports on TV today, Saturday, Oct. 31, 2026"
-  caption: "File photo: the Los Angeles Memorial Coliseum, where Ohio State plays at USC at 7:30 p.m. ET on Saturday, Oct. 31, 2026, on NBC."
+  caption: "File photo: the Los Angeles Memorial Coliseum, where Ohio State played at USC at 7:30 p.m. ET on Saturday, Oct. 31, 2026, on NBC."
   credit: "Photo: Quintin Soloviev / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -60,10 +62,10 @@ hero:
     author: "Quintin Soloviev"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Quintinsoloviev"
 summary:
-  - "Fifty-four sports events are listed for Saturday, Oct. 31, 2026: 33 college football games on national TV or Peacock, 7 National Basketball Association (NBA) games, 10 National Hockey League (NHL) games, the Breeders' Cup, two Formula 1 (F1) sessions and an Ultimate Fighting Championship (UFC) card."
-  - "The Breeders' Cup Classic goes off at 6:16 p.m. Eastern Time (ET) on NBC and Peacock; Florida vs. Georgia is at 3:30 p.m. ET on ABC and Ohio State at University of Southern California (USC) at 7:30 p.m. ET on NBC."
-  - "F1 qualifying in Mexico City is at 5 p.m. ET on Apple TV, the U.S. home of F1; Apple says every practice, including the 1:30 p.m. ET session, is free to watch."
-  - "The last kickoff is Oregon State at Fresno State at 11 p.m. ET on USA Network, three hours before clocks fall back at 2 a.m. on Sunday, Nov. 1."
+  - "Fifty-four sports events were listed for Saturday, Oct. 31, 2026: 33 college football games on national TV or Peacock, 7 National Basketball Association (NBA) games, 10 National Hockey League (NHL) games, the Breeders' Cup, two Formula 1 (F1) sessions and an Ultimate Fighting Championship (UFC) card."
+  - "The Breeders' Cup Classic went off at 6:16 p.m. Eastern Time (ET) on NBC and Peacock, and Sovereignty won it, NBC Sports and USA Today reported. Florida vs. Georgia was at 3:30 p.m. ET on ABC and Ohio State at University of Southern California (USC) at 7:30 p.m. ET on NBC."
+  - "F1 qualifying in Mexico City was at 5 p.m. ET on Apple TV, the U.S. home of F1; Apple says every practice, including the 1:30 p.m. ET session, is free to watch."
+  - "The last kickoff was Oregon State at Fresno State at 11 p.m. ET on USA Network, three hours before clocks fell back at 2 a.m. on Sunday, Nov. 1."
 downloads:
   - group: "Sports on TV Saturday printables"
     title: "Sports on TV Saturday, Oct. 31, 2026"
@@ -82,15 +84,15 @@ downloads:
     png: "/news/downloads/sports-tv-2026/sports-on-tv-saturday-october-31-2026-ink.png"
     pages: 1
 faq:
-  - q: "What sports are on TV on Saturday, Oct. 31, 2026?"
+  - q: "What sports were on TV on Saturday, Oct. 31, 2026?"
     a: "College football from noon to 11 p.m. ET, the Breeders' Cup at Keeneland, F1 practice and qualifying in Mexico City, seven NBA games, ten NHL games and a UFC Fight Night card. The table above lists each in Eastern Time with its channel."
-  - q: "What time is the Breeders' Cup Classic?"
-    a: "Post time is 6:16 p.m. ET as Race 12, per the Breeders' Cup's final race order. NBC and Peacock carry it inside their 3:30 to 6:30 p.m. ET window."
-  - q: "What time is Florida vs. Georgia, and what channel?"
+  - q: "What time was the Breeders' Cup Classic, and who won?"
+    a: "Post time was 6:16 p.m. ET as Race 12, per the Breeders' Cup's final race order, on NBC and Peacock inside their 3:30 to 6:30 p.m. ET window. Sovereignty won the $7 million race, trained by Bill Mott and ridden by Junior Alvarado, according to NBC Sports; USA Today also reported the win."
+  - q: "What time was Florida vs. Georgia, and what channel?"
     a: "3:30 p.m. ET on ABC, in Atlanta, per NCAA.com's TV schedule."
-  - q: "What time is Ohio State at USC?"
+  - q: "What time was Ohio State at USC?"
     a: "7:30 p.m. ET on NBC, which is 4:30 p.m. Pacific Time (PT) at the Los Angeles Memorial Coliseum."
-  - q: "Where can I watch F1 qualifying in the U.S.?"
+  - q: "Where was F1 qualifying shown in the U.S.?"
     a: "On Apple TV, at 5 p.m. ET (3 p.m. in Mexico City). Apple says qualifying needs a subscription; practice sessions are free."
 sources:
   - title: "College football TV schedule and times"
@@ -109,6 +111,14 @@ sources:
     url: "https://www.breederscup.com/news/2026/broadcast-schedule-post-times-announced-for-2026-world-championships"
     publisher: "Breeders' Cup"
     date: "2026-09-22"
+  - title: "Breeders' Cup 2026 results tracker: Winners, payouts, race-by-race updates, analysis"
+    url: "https://www.nbcsports.com/horse-racing/news/breeders-cup-2026-results-tracker-winners-payouts-race-by-race-updates-analysis"
+    publisher: "NBC Sports"
+    date: "2026-10-31"
+  - title: "Sovereignty wins Breeders' Cup Classic: Full 2026 results from Saturday"
+    url: "https://www.centraloregondaily.com/sports/breeders-cup-2026-results-saturday-winners-classic-odds-and-post-time/article_9ad2c509-931a-57ea-8f80-e5533f8e6141.html"
+    publisher: "USA Today (via Central Oregon Daily)"
+    date: "2026-10-31"
   - title: "Mexico City Grand Prix 2026"
     url: "https://www.formula1.com/en/racing/2026/mexico"
     publisher: "Formula 1"
@@ -138,13 +148,13 @@ related: [college-football-week-10-schedule-2026-halloween-top-25-game-times-tv,
 draft: false
 ---
 
-**There are 54 sports events on the schedule for Saturday, Oct. 31, 2026, from the first Breeders' Cup race at 11:15 a.m. Eastern Time (ET) to Oregon State at Fresno State at 11 p.m. ET, according to the National Collegiate Athletic Association (NCAA), the Breeders' Cup, Formula 1 (F1), the National Basketball Association (NBA), the National Hockey League (NHL) and the Ultimate Fighting Championship (UFC).** That is 33 college football games on national TV or Peacock, 7 NBA games, 10 NHL games, the Breeders' Cup card at Keeneland, F1 practice and qualifying in Mexico City and a UFC Fight Night. The table below puts them in one time-ordered list with the channel.
+**There were 54 sports events on the schedule for Saturday, Oct. 31, 2026, from the first Breeders' Cup race at 11:15 a.m. Eastern Time (ET) to Oregon State at Fresno State at 11 p.m. ET, according to the National Collegiate Athletic Association (NCAA), the Breeders' Cup, Formula 1 (F1), the National Basketball Association (NBA), the National Hockey League (NHL) and the Ultimate Fighting Championship (UFC).** That was 33 college football games on national TV or Peacock, 7 NBA games, 10 NHL games, the Breeders' Cup card at Keeneland, F1 practice and qualifying in Mexico City and a UFC Fight Night. The table below puts them in one time-ordered list with the channel. Sovereignty won the Breeders' Cup Classic, according to NBC Sports and USA Today.
 
-This page carries no live scores. Each linked story has the details and its own sources.
+This page carries only that one result; the table is the listing as published before the day. Each linked story has the details and its own sources.
 
-## Sports on TV today: every event in time order
+## Sports on TV on Oct. 31: every event in time order
 
-Saturday is the last day of U.S. daylight time this year, so every start below is on daylight time. Central Time (CT) is one hour behind ET and Pacific Time (PT) is three hours behind; we worked out those columns from the ET listings. Games at the same time on local TV share a row.
+Saturday was the last day of U.S. daylight time this year, so every start below is on daylight time. Central Time (CT) is one hour behind ET and Pacific Time (PT) is three hours behind; we worked out those columns from the ET listings. Games at the same time on local TV share a row.
 
 | ET | CT | PT | Event | TV |
 |---|---|---|---|---|
@@ -201,12 +211,12 @@ Saturday is the last day of U.S. daylight time this year, so every start below i
 | 10:30 p.m. | 9:30 p.m. | 7:30 p.m. | College football: Northern Illinois at University of Nevada, Las Vegas (UNLV) | CBS Sports Network |
 | 11:00 p.m. | 10:00 p.m. | 8:00 p.m. | College football: Oregon State at Fresno State | USA Network |
 
-The Breeders' Cup rows are broadcast windows; the card counts as one event in our total of 54. Start times can change, so check your provider's guide before each start.
+The Breeders' Cup rows are broadcast windows; the card counts as one event in our total of 54. 
 
-## Which sports are on national TV Saturday?
+## Which sports were on national TV Saturday?
 
 - **ABC:** Notre Dame vs. Navy (noon), Florida vs. Georgia (3:30 p.m.) and Miami at North Carolina (7:30 p.m.).
-- **NBC and Peacock:** Breeders' Cup from 3:30 to 6:30 p.m., including the Classic at 6:16 p.m., then Ohio State at USC at 7:30 p.m. on NBC. Peacock alone has Northwestern at Oregon at 3:30 p.m.
+- **NBC and Peacock:** Breeders' Cup from 3:30 to 6:30 p.m., including the Classic at 6:16 p.m., then Ohio State at USC at 7:30 p.m. on NBC. Peacock alone had Northwestern at Oregon at 3:30 p.m.
 - **CBS and FOX:** Minnesota at Indiana (CBS, 3:30 p.m.); Wisconsin at Iowa (noon), Arizona State at BYU (3:30 p.m.) and Oklahoma State at Iowa State (7 p.m.) on FOX.
 - **ESPN networks:** seven college football games on ESPN, ESPN2 and ESPNU, including Mississippi State at Texas in prime time on ESPN.
 - **USA Network:** Breeders' Cup from 1 to 3:30 p.m., and Oregon State at Fresno State at 11 p.m.
@@ -214,7 +224,7 @@ The Breeders' Cup rows are broadcast windows; the card counts as one event in ou
 - **Apple TV:** F1 third practice (1:30 p.m.) and qualifying (5 p.m.).
 - **Paramount+:** UFC Fight Night prelims (5 p.m.) and main card (8 p.m.).
 
-All times are ET. No NHL game has a national U.S. channel in the league's schedule data.
+All times are ET. No NHL game had a national U.S. channel in the league's schedule data.
 
 ## College football on Saturday: 33 games on national TV
 
@@ -226,28 +236,28 @@ Kansas State at Colorado is on TNT at 2 p.m.; FBSchedules lists it as "TNT/truTV
 
 ## Breeders' Cup Saturday at Keeneland
 
-Saturday's 12-race card at Keeneland in Lexington, Ky., starts at 11:15 a.m. ET, and nine Championship races run from 1:10 p.m. to the Classic at 6:16 p.m., per the Breeders' Cup's final race order. USA Network and Peacock carry 1 to 3:30 p.m. ET; NBC and Peacock take over from 3:30 to 6:30 p.m. FanDuel TV and BreedersCup.com carry every race, undercard included. Each post time and purse is in our [Breeders' Cup 2026 schedule](/news/breeders-cup-2026-post-times-tv-schedule-keeneland/).
+Saturday's 12-race card at Keeneland in Lexington, Ky., started at 11:15 a.m. ET, and nine Championship races ran from 1:10 p.m. to the Classic at 6:16 p.m., per the Breeders' Cup's final race order. USA Network and Peacock carried 1 to 3:30 p.m. ET; NBC and Peacock took over from 3:30 to 6:30 p.m. FanDuel TV and BreedersCup.com carried every race, undercard included. Each post time and purse is in our [Breeders' Cup 2026 schedule](/news/breeders-cup-2026-post-times-tv-schedule-keeneland/).
 
 ## F1 Mexico City: third practice and qualifying
 
-F1 lists third practice at 11:30 a.m. Mexico City time, 1:30 p.m. ET, and qualifying at 3 p.m. local, 5 p.m. ET, at the Autódromo Hermanos Rodríguez. Apple TV is "the U.S. home of Formula 1," according to Apple, and its F1 page says "every practice is available without a subscription." Qualifying and the race need an Apple TV subscription. Sunday's race and every session by time zone are in our [Mexico City Grand Prix 2026 schedule](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/).
+F1 listed third practice at 11:30 a.m. Mexico City time, 1:30 p.m. ET, and qualifying at 3 p.m. local, 5 p.m. ET, at the Autódromo Hermanos Rodríguez. Apple TV is "the U.S. home of Formula 1," according to Apple, and its F1 page says "every practice is available without a subscription." Qualifying and the race needed an Apple TV subscription. Sunday's race and every session by time zone are in our [Mexico City Grand Prix 2026 schedule](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/).
 
 ## NBA and NHL games on Halloween
 
-NBA.com lists seven games, from Trail Blazers at Jazz at 3 p.m. ET to Thunder at Rockets at 8:30 p.m. ET; only the two NBA TV games have a national channel. Arenas and every time zone are in [NBA games today, Oct. 31](/news/nba-games-today-october-31-2026/).
+NBA.com listed seven games, from Trail Blazers at Jazz at 3 p.m. ET to Thunder at Rockets at 8:30 p.m. ET; only the two NBA TV games had a national channel. Arenas and every time zone are in [NBA games today, Oct. 31](/news/nba-games-today-october-31-2026/).
 
-The NHL has 10 games, from Blackhawks at Bruins and Blues at Red Wings at 1 p.m. ET to Flames at Avalanche at 10 p.m. ET, all on regional TV in the United States. Channels by team and the Canadian listings are in [NHL games today, Oct. 31](/news/nhl-games-today-october-31-2026-halloween/).
+The NHL had 10 games, from Blackhawks at Bruins and Blues at Red Wings at 1 p.m. ET to Flames at Avalanche at 10 p.m. ET, all on regional TV in the United States. Channels by team and the Canadian listings are in [NHL games today, Oct. 31](/news/nhl-games-today-october-31-2026-halloween/).
 
 ## UFC Fight Night on Saturday
 
-The UFC lists Moicano vs. Nolan at Meta Apex in Las Vegas, with prelims at 5 p.m. ET and the main card at 8 p.m. ET, on Paramount+. The bouts are in our [UFC Fight Night start time](/news/ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch/) story.
+The UFC listed Moicano vs. Nolan at Meta Apex in Las Vegas, with prelims at 5 p.m. ET and the main card at 8 p.m. ET, on Paramount+. The bouts are in our [UFC Fight Night start time](/news/ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch/) story.
 
 ## Late games and the clock change
 
-Oregon State at Fresno State kicks off at 11 p.m. ET, which is 8 p.m. in Fresno, three hours before U.S. clocks fall back at 2 a.m. on Sunday, Nov. 1. Sunday's kickoffs and race times are on standard time, so the F1 race at 2 p.m. in Mexico City is 3 p.m. ET, not 4 p.m. The [daylight saving time page](/when-is/daylight-savings/) has the date and our [clocks fall back on Halloween night](/news/daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year/) story explains the night.
+Oregon State at Fresno State kicked off at 11 p.m. ET, which was 8 p.m. in Fresno, three hours before U.S. clocks fell back at 2 a.m. on Sunday, Nov. 1. Sunday's kickoffs and race times were on standard time, so the F1 race at 2 p.m. in Mexico City was 3 p.m. ET, not 4 p.m. The [daylight saving time page](/when-is/daylight-savings/) has the date and our [clocks fall back on Halloween night](/news/daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year/) story explains the night.
 
 Friday's slate is in [sports on TV today, Oct. 30](/news/sports-on-tv-today-october-30-2026/).
 
 ## Printable sports on TV sheet
 
-The one-page sheet lists Saturday's national TV events in ET with the channel and a tick box for each, with games at the same time grouped on one line. Pin it beside the [printable weekly calendar](/printable-weekly-calendar.html), or mark the weekend on the [October 2026 printable calendar](/october-calendars.html). A printed sheet does not update, so check the schedule if a start time moves.
+The one-page sheet listed Saturday's national TV events in ET with the channel and a tick box for each, with games at the same time grouped on one line. Pin it beside the [printable weekly calendar](/printable-weekly-calendar.html), or mark the weekend on the [October 2026 printable calendar](/october-calendars.html). A printed sheet does not update.

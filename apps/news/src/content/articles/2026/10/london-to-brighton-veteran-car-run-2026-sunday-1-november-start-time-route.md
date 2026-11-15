@@ -1,9 +1,9 @@
 ---
 title: "London to Brighton Veteran Car Run 2026: Start 6.53am, 60-Mile Route"
-description: "The London to Brighton Veteran Car Run 2026 was due to start in Hyde Park at 6.53am on Sunday 1 November. A weekend timetable, route and finish times."
+description: "The 2026 London to Brighton Veteran Car Run left Hyde Park at 6.53am on Sunday 1 November; 349 of 396 cars reached Brighton. Timetable, route, finish times."
 type: news
 publishedAt: "2026-10-28T21:53:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["london to brighton veteran car run 2026", "veteran car run 2026 start time", "london to brighton car run route", "st james's motoring spectacle 2026", "veteran car run madeira drive finish time"]
@@ -11,7 +11,7 @@ dateline: "London"
 hero:
   src: ../../../../assets/news/london-to-brighton-veteran-car-run-2026-sunday-1-november-start-time-route/london-to-brighton-veteran-car-run-2026-sunday-1-november-start-time-route.webp
   alt: "A yellow Wolseley veteran car at the Brighton finish of the London to Brighton Veteran Car Run in 2022; the 2026 run was held on Sunday 1 November"
-  caption: "A Wolseley veteran car in Brighton during the 2022 London to Brighton Veteran Car Run (file photo). The 2026 run was due to leave Hyde Park at 6.53am on Sunday 1 November."
+  caption: "A Wolseley veteran car in Brighton during the 2022 London to Brighton Veteran Car Run (file photo). The 2026 run left Hyde Park at 6.53am on Sunday 1 November."
   credit: "Photo: Peter Trimming / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -19,21 +19,21 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Wolseley,_AT_45,_London_to_Brighton_Veteran_Car_Run_2022_-_geograph.org.uk_-_7337593.jpg"
     author: "Peter Trimming"
 summary:
-  - "The run was due to set off from Serpentine Road in Hyde Park at 6.53am on Sunday 1 November 2026, with the official start open 07:00 to 08:30, the Royal Automobile Club said."
-  - "More than 400 pre-1905 cars were expected on the 60-mile (97km) route, with a halfway break at The Hawth Theatre in Crawley."
+  - "The first cars were flagged away from Hyde Park at 6.53am on Sunday 1 November 2026, with the official start open 07:00 to 08:30, the Royal Automobile Club said."
+  - "In all, 396 pre-1905 vehicles started the 60-mile (97km) route and 349 completed the journey to Brighton, the Royal Automobile Club said; the halfway break was at The Hawth Theatre in Crawley."
   - "The official finish on Madeira Drive, Brighton was listed as 10:00 to 16:30, and slower vehicles could arrive as late as 4.30pm."
-  - "The free St James's Motoring Spectacle was listed for Pall Mall on Saturday 31 October from 10am to 3pm, and no tickets were required."
+  - "The free St James's Motoring Spectacle on Pall Mall on Saturday 31 October drew close to 15,000 visitors, the Royal Automobile Club said."
 faq:
-  - q: "What time does the London to Brighton Veteran Car Run 2026 start?"
-    a: "The field was due to set off at 6.53am on Sunday 1 November 2026, according to the Royal Automobile Club's news release of 23 October 2026. The official start at Serpentine Road in Hyde Park was listed as 07:00 to 08:30 on the timetable."
-  - q: "What time do the cars arrive in Brighton?"
+  - q: "What time did the London to Brighton Veteran Car Run 2026 start?"
+    a: "The first batch of cars was flagged away at 6.53am on Sunday 1 November 2026, according to the Royal Automobile Club's report of 1 November 2026. The official start at Serpentine Road in Hyde Park was listed as 07:00 to 08:30 on the timetable."
+  - q: "What time did the cars arrive in Brighton?"
     a: "Cars were due to begin arriving at Madeira Drive from 10.00am, with slower vehicles arriving as late as 4.30pm, the official timetable said."
-  - q: "How long is the London to Brighton Veteran Car Run route?"
+  - q: "How long was the London to Brighton Veteran Car Run route?"
     a: "The route was 60 miles (97km), from Hyde Park through the lanes of Surrey and Sussex to Madeira Drive in Brighton, according to the official spectators page."
-  - q: "Is the St James's Motoring Spectacle free?"
-    a: "Yes. The organisers describe it as completely free for everyone to enjoy, with no tickets required. It was listed for Pall Mall from 10am to 3pm on Saturday 31 October 2026."
+  - q: "Was the St James's Motoring Spectacle free?"
+    a: "Yes. The organisers described it as completely free for everyone to enjoy, with no tickets required. It ran on Pall Mall from 10am to 3pm on Saturday 31 October 2026, and the Royal Automobile Club said close to 15,000 visitors came."
   - q: "Could I enter the 2026 run?"
-    a: "No. When this story was written on 28 October, the official site said entries were closed for this year's staging."
+    a: "No. The official site said entries were closed for the 2026 staging, and the run took place on Sunday 1 November."
 sources:
   - title: "Veteran Car Run"
     url: "https://www.veterancarrun.com/"
@@ -43,6 +43,14 @@ sources:
     url: "https://www.veterancarrun.com/event-timetable"
     publisher: "Royal Automobile Club"
     date: "2026-10-28"
+  - title: "130 years young: London to Brighton delivers another spectacular Run"
+    url: "https://www.veterancarrun.com/news/130-years-young-london-brighton-delivers-another-spectacular-run"
+    publisher: "Royal Automobile Club"
+    date: "2026-11-01"
+  - title: "Packed Pall Mall Celebrates 140 Years of Marvellous Motoring Milestones"
+    url: "https://www.veterancarrun.com/news/packed-pall-mall-celebrates-140-years-marvellous-motoring-milestones"
+    publisher: "Royal Automobile Club"
+    date: "2026-10-31"
   - title: "Spectators"
     url: "https://www.veterancarrun.com/spectators"
     publisher: "Royal Automobile Club"
@@ -94,6 +102,7 @@ assets:
   date: "2026-11-01"
   card: { top: "Cars leave Hyde Park at", big: "6.53am", bottom: "Finish on Madeira Drive, Brighton, 10:00 to 16:30" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: london-to-brighton-veteran-car-run-2026-weekend-timetable
     group: london-to-brighton-veteran-car-run-2026
     title: "London to Brighton Veteran Car Run Weekend Timetable, 31 Oct to 1 Nov 2026"
@@ -113,9 +122,9 @@ assets:
     alt: "Printable timetable for the London to Brighton Veteran Car Run weekend, 31 October and 1 November 2026."
 ---
 
-**The RM Sotheby's London to Brighton Veteran Car Run was due to set off from Hyde Park at 6.53am on Sunday 1 November 2026, with the first cars leaving at sunrise, and more than 400 pre-1905 cars were expected on the 60-mile run to Madeira Drive in Brighton, the Royal Automobile Club said.** All times here are Greenwich Mean Time (GMT), the UK time since clocks went back on 25 October 2026.
+**The RM Sotheby's London to Brighton Veteran Car Run set off from Hyde Park at 6.53am on Sunday 1 November 2026, and of 396 pre-1905 vehicles flagged away, 349 completed the 60-mile run to Madeira Drive in Brighton, the Royal Automobile Club said.** All times here are Greenwich Mean Time (GMT), the UK time since clocks went back on 25 October 2026.
 
-The organisers' site said entries were closed for this year's staging of the event, which commemorates the Emancipation Run of November 1896. This story puts the Saturday and Sunday programme into one table, lists where to watch, and offers a one-page timetable to print.
+The organisers' site said entries were closed for this year's staging of the event, which commemorates the Emancipation Run of November 1896. The Royal Automobile Club's report of the day said the first car to reach the Sussex seafront was a 1903 Lacoste et Battmann driven by Wolfgang Kraemer of Germany, in just over three hours, and that most starters finished before the 4.30pm deadline. The Saturday and Sunday programme is in one table below, with the places to watch and a one-page timetable to print.
 
 ## What is the weekend timetable?
 
@@ -138,7 +147,7 @@ The U.S. Naval Observatory (USNO) data for central London put sunrise at 06:54 o
 
 ## What is the route and when do cars reach Brighton?
 
-The spectators page gave the route as 60 miles (97km). It started in Hyde Park, wound through the lanes of Surrey and Sussex, and finished on Madeira Drive in Brighton. It also described a newer easterly section that runs from Horley past Gatwick Airport.
+The spectators page gave the route as 60 miles (97km). It started in Hyde Park, wound through the lanes of Surrey and Sussex, and finished on Madeira Drive in Brighton. It also described a newer easterly section that runs from Horley past Gatwick Airport. On the day, the Royal Automobile Club said the route split in two after Westminster Bridge to ease traffic in south London, with both halves rejoining on the A236 just north of Croydon.
 
 The official halfway break was at The Hawth Theatre in Crawley, according to the 23 October news release. The release also said Hyde Park had been the traditional starting point since 1936.
 
@@ -157,17 +166,17 @@ The official pages we read did not say whether there was any charge to watch fro
 
 ## What happens on Pall Mall the day before?
 
-The St James's Motoring Spectacle was listed for Pall Mall on Saturday 31 October from 10am to 3pm. The organisers described it as completely free for everyone to enjoy, and said no tickets were required, in their 22 October news release.
+The St James's Motoring Spectacle was listed for Pall Mall on Saturday 31 October from 10am to 3pm. The organisers described it as completely free for everyone to enjoy, and said no tickets were required, in their 22 October news release. Their report of the day said close to 15,000 visitors attended and more than 160 vehicles were displayed.
 
 The Royal Automobile Club said on 16 September 2026 that chassis 20154, built in November 1904 and described as the oldest known surviving Rolls-Royce, would be shown at the Spectacle.
 
 ## Which are the oldest cars on the run?
 
-The 23 October release named the oldest entries as a pair of Peugeots from 1895 and an even earlier Benz Velo from 1894. It said more than 400 pioneering pre-1905 cars were expected. The event marked the 130th anniversary of the 1896 Emancipation Run, according to a Royal Automobile Club news headline of 25 March 2026.
+The 23 October release named the oldest entries as a pair of Peugeots from 1895 and an even earlier Benz Velo from 1894. It said more than 400 pioneering pre-1905 cars were expected; the final count of starters was 396. The event marked the 130th anniversary of the 1896 Emancipation Run, according to a Royal Automobile Club news headline of 25 March 2026.
 
 ## What is the time for readers in the United States?
 
-The run was due to start on the same morning U.S. clocks fell back, Sunday 1 November at 2 a.m. local time. By our calculation, 6.53am GMT is 1:53 a.m. Eastern Standard Time (EST), after the change. Our [daylight saving time ends story](/news/daylight-saving-time-ends-november-1-2026/) has the U.S. details.
+The run started on the same morning U.S. clocks fell back, Sunday 1 November at 2 a.m. local time. By our calculation, 6.53am GMT is 1:53 a.m. Eastern Standard Time (EST), after the change. Our [daylight saving time ends story](/news/daylight-saving-time-ends-november-1-2026/) has the U.S. details.
 
 ## How does it fit with other UK dates?
 

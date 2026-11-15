@@ -3,7 +3,7 @@ title: "Friday the 13th 2027: Aug. 13, After Nov. 13, 2026"
 description: "Friday the 13th in 2027 falls once, on Aug. 13, 273 days after Nov. 13, 2026. Every date to 2035 and a printable list of all of them."
 type: explainer
 publishedAt: "2026-10-27T19:40:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["next friday the 13th", "friday the 13th november 2026", "when is the next friday the 13th", "friday the 13th 2027"]
@@ -11,7 +11,7 @@ dateline: "New York"
 hero:
   src: ../../../../assets/news/friday-the-13th-november-13-2026-next-friday-13th-dates/friday-the-13th-november-13-2026-next-friday-13th-dates.webp
   alt: "Friday the 13th on a 2020 paper calendar with March 13 and Nov. 13 circled"
-  title: "Next Friday the 13th: Nov. 13, 2026"
+  title: "Next Friday the 13th: Aug. 13, 2027"
   caption: "A 2020 paper calendar with March 13 and Nov. 13 circled: 2020, which had Friday the 13ths in March and November, matches the last two Friday the 13ths of 2026."
   credit: "Photo: I do care about / Wikimedia Commons, cropped, edited"
   license:
@@ -20,15 +20,15 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Double-Friday-The-13th.jpg"
     author: "I do care about"
 summary:
-  - "The next Friday the 13th is Nov. 13, 2026, 11 days after Nov. 2. It is the third and last of 2026, after Feb. 13 and March 13."
-  - "The one after that is Friday, Aug. 13, 2027, 273 days later. 2027 and 2028 have only one each."
+  - "Friday the 13th fell on Nov. 13, 2026, the third and last of the year, after Feb. 13 and March 13."
+  - "The next one is Friday, Aug. 13, 2027, 273 days after Nov. 13, 2026. 2027 and 2028 have only one each."
   - "Every year has at least one Friday the 13th and at most three. A month has one exactly when it starts on a Sunday."
   - "Over the 400-year Gregorian cycle the 13th falls on a Friday 688 times, more than on any other weekday."
 assets:
   overlay: true
-  kicker: "Friday the 13th · Nov. 13, 2026"
+  kicker: "Next Friday the 13th · Aug. 13, 2027"
   date: "2026-11-13"
-  card: { top: "Next Friday the 13th after this one", big: "Aug. 13, 2027", bottom: "273 days later" }
+  card: { top: "Next Friday the 13th", big: "Aug. 13, 2027", bottom: "273 days after Nov. 13, 2026" }
   printable:
     slug: friday-the-13th-dates-2026-2035
     group: friday-the-13th-2026
@@ -36,6 +36,7 @@ assets:
     subtitle: "All 17 dates, each one a Friday, with the gap since the one before"
     columns: ["Date", "Friday the 13th"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Feb. 13, 2026", "Friday, 1 of 3 in 2026"]
       - ["March 13, 2026", "Friday, 2 of 3 in 2026, 28 days after the one before"]
@@ -55,8 +56,7 @@ assets:
       - ["April 13, 2035", "Friday, 1 of 2 in 2035, 182 days after the one before"]
       - ["July 13, 2035", "Friday, 2 of 2 in 2035, 91 days after the one before"]
     note: "Source: Gregorian calendar, computed by Fresh Calendars."
-    inkSaver: true
-    description: "Every Friday the 13th from 2026 to 2035, with how many days each falls after the previous one. Next up: Nov. 13, 2026, then Aug. 13, 2027."
+    description: "Every Friday the 13th from 2026 to 2035, with how many days each falls after the previous one. Next up: Aug. 13, 2027."
     alt: "Printable list of every Friday the 13th from Feb. 13, 2026 to July 13, 2035"
 sources:
   - title: "Leap Years"
@@ -70,7 +70,7 @@ internalLinks:
 related: [palindrome-dates-2027-next-palindrome-days, what-calendar-year-is-the-same-as-2027, november-2026-calendar-printable]
 faq:
   - q: "When is the next Friday the 13th?"
-    a: "Friday, Nov. 13, 2026. The one after it is Friday, Aug. 13, 2027."
+    a: "Friday, Aug. 13, 2027, 273 days after the last one, Friday, Nov. 13, 2026."
   - q: "How many Friday the 13ths are there in 2027?"
     a: "One: Friday, Aug. 13, 2027. 2028 also has one, on Friday, Oct. 13."
   - q: "Can a year have no Friday the 13th?"
@@ -78,30 +78,22 @@ faq:
 downloads:
   - group: "Every Friday the 13th printables"
     title: "Every Friday the 13th, 2026 to 2035"
-    description: "Every Friday the 13th from 2026 to 2035, with how many days each falls after the previous one. Next up: Nov. 13, 2026, then Aug. 13, 2027."
+    description: "Every Friday the 13th from 2026 to 2035, with how many days each falls after the previous one. Next up: Aug. 13, 2027."
     preview: ../../../../assets/news/friday-the-13th-2026/friday-the-13th-dates-2026-2035.png
     alt: "Printable list of every Friday the 13th from Feb. 13, 2026 to July 13, 2035"
     pdf: "/news/downloads/friday-the-13th-2026/friday-the-13th-dates-2026-2035.pdf"
     png: "/news/downloads/friday-the-13th-2026/friday-the-13th-dates-2026-2035.png"
     pages: 1
-  - group: "Every Friday the 13th printables"
-    title: "Every Friday the 13th, 2026 to 2035 (ink saver)"
-    description: "Every Friday the 13th from 2026 to 2035, with how many days each falls after the previous one. Next up: Nov. 13, 2026, then Aug. 13, 2027. Ink-saver version."
-    preview: ../../../../assets/news/friday-the-13th-2026/friday-the-13th-dates-2026-2035-ink.png
-    alt: "Printable list of every Friday the 13th from Feb. 13, 2026 to July 13, 2035, ink-saver version"
-    pdf: "/news/downloads/friday-the-13th-2026/friday-the-13th-dates-2026-2035-ink.pdf"
-    png: "/news/downloads/friday-the-13th-2026/friday-the-13th-dates-2026-2035-ink.png"
-    pages: 1
 draft: false
 ---
 
-**The next Friday the 13th is Nov. 13, 2026, the third and last of 2026, and after it the next one is not until Friday, Aug. 13, 2027, 273 days later.** From Nov. 2, 2026, that is 11 days away. We computed every date in this story from the Gregorian calendar, using the leap-year rule the U.S. Naval Observatory (USNO) publishes.
+**The next Friday the 13th is Friday, Aug. 13, 2027, 273 days after Nov. 13, 2026, the third and last of 2026.** We computed every date in this story from the Gregorian calendar, using the leap-year rule the U.S. Naval Observatory (USNO) publishes.
 
 November 2026 starts on a Sunday, Nov. 1, which is also the day [daylight saving time ends in the U.S.](/news/daylight-saving-time-ends-november-1-2026/) That Sunday start is what puts a Friday on the 13th. Many people consider the date unlucky; the calendar part is simple arithmetic.
 
 ## When is the next Friday the 13th after November 2026?
 
-Friday, Aug. 13, 2027. The wait is 273 days, or 39 weeks. After that the dates come once a year for two years, then more often. Here is every Friday the 13th from 2026 to 2035:
+Friday, Aug. 13, 2027. The wait from Nov. 13, 2026 is 273 days, or 39 weeks. After that the dates come once a year for two years, then more often. Here is every Friday the 13th from 2026 to 2035:
 
 | Year | Friday the 13th dates | How many |
 |---|---|---|
@@ -150,9 +142,9 @@ The Gregorian calendar repeats exactly every 400 years, which is 4,800 months. W
 
 Friday leads by one over Sunday and Wednesday, so the 13th is a Friday slightly more often than any other weekday. The gap is small: Friday takes 688 of 4,800 months, and a perfectly even split would be about 686.
 
-## Does Friday, Nov. 13, 2026 matter for anything else?
+## Did Friday, Nov. 13, 2026 matter for anything else?
 
-It is also the date of Appeal Night for the British Broadcasting Corporation (BBC) Children in Need in the United Kingdom, according to our story on [Children in Need 2026](/news/children-in-need-2026-date-friday-13-november-appeal-night/). For planning the rest of the month, the [November 2026 calendar printable](/news/november-2026-calendar-printable/) has every date, and the [printable yearly calendar](/printable-yearly-calendar.html) shows all twelve months on one page.
+It was also the date of Appeal Night for the British Broadcasting Corporation (BBC) Children in Need in the United Kingdom, according to our story on [Children in Need 2026](/news/children-in-need-2026-date-friday-13-november-appeal-night/). For planning the rest of the month, the [November 2026 calendar printable](/news/november-2026-calendar-printable/) has every date, and the [printable yearly calendar](/printable-yearly-calendar.html) shows all twelve months on one page.
 
 ## Printable list of every Friday the 13th to 2035
 

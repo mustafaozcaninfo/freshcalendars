@@ -1,9 +1,9 @@
 ---
 title: "Monday Night Football: Bills at Vikings Nov. 9, 8:15 p.m. ET"
-description: "Monday Night Football is Bills at Vikings on Mon., Nov. 9, 2026, at 8:15 p.m. ET on ESPN. Kickoff in every U.S. zone and the UK, plus a watch guide."
+description: "The Bills beat the Vikings 23-6 on Monday Night Football, Nov. 9, 2026, at U.S. Bank Stadium. Kickoff was 8:15 p.m. ET on ESPN; times for every zone."
 type: news
 publishedAt: "2026-11-05T12:14:00-05:00"
-updatedAt: "2026-11-05T12:33:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Monday Night Football", "Bills at Vikings", "what channel is Bills Vikings", "MNF Nov. 9 2026"]
@@ -12,7 +12,7 @@ assets:
   overlay: true
   kicker: "Monday Night Football · Nov. 9, 2026"
   date: "2026-11-09"
-  card: { top: "Bills at Vikings kickoff", big: "8:15 p.m. ET", bottom: "Mon., Nov. 9, on ESPN" }
+  card: { top: "Bills 23, Vikings 6", big: "Final", bottom: "Mon., Nov. 9, on ESPN" }
   printable:
     kit: watch-guide
     slug: bills-at-vikings-mnf-watch-guide-2026
@@ -34,11 +34,11 @@ assets:
           src: 1
           quote: "Week 9 (Monday, Nov. 9) Buffalo Bills at Minnesota Vikings — 8:15 p.m. (ESPN) MNF"
       unconfirmed:
-        - { label: "TV announcers and streaming line", why: "No official page we could reach lists them yet" }
+        - { label: "TV announcers and streaming line", why: "No official page we could reach lists them" }
 hero:
   src: ../../../../assets/news/monday-night-football-tonight-bills-vikings-mnf-november-9-2026/monday-night-football-tonight-bills-vikings-mnf-november-9-2026.webp
   alt: "File photo of U.S. Bank Stadium in Minneapolis, a stadium photo used for Monday Night Football, Bills at Vikings"
-  caption: "File photo of U.S. Bank Stadium in Minneapolis. The pages we could reach do not name the venue for this game."
+  caption: "File photo of U.S. Bank Stadium in Minneapolis, where the Bills beat the Vikings 23-6 on Nov. 9, 2026, per the Bills."
   credit: "Photo: August Schwerdfeger / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -47,20 +47,20 @@ hero:
     author: "August Schwerdfeger"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Schwerdf"
 summary:
-  - "Monday Night Football (MNF) on Mon., Nov. 9, 2026, is the Buffalo Bills at the Minnesota Vikings at 8:15 p.m. Eastern Time (ET) on ESPN, per the Bills and NFL.com."
-  - "Kickoff is 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific; in the United Kingdom it is 1:15 a.m. on Tuesday, Nov. 10."
-  - "NFL.com's undated standings table lists both teams at 6-1; the Vikings lead the regular-season series 9-6-0, per the Vikings."
-  - "Week 9 has 15 games, from Thursday, Nov. 5, to this Monday game."
+  - "The Buffalo Bills beat the Minnesota Vikings 23-6 on Monday Night Football (MNF), Mon., Nov. 9, 2026, at U.S. Bank Stadium, per the Bills. Buffalo is 7-1 and Minnesota 6-2, per the Vikings."
+  - "Kickoff was 8:15 p.m. Eastern Time (ET) on ESPN: 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific; in the United Kingdom it was 1:15 a.m. on Tuesday, Nov. 10."
+  - "Before the game both teams were 6-1, per the Vikings; the Vikings led the regular-season series 9-6-0."
+  - "Week 9 had 15 games, from Thursday, Nov. 5, to this Monday game."
 faq:
-  - q: "What time is Bills at Vikings on Monday Night Football?"
-    a: "Kickoff is 8:15 p.m. Eastern Time (ET) on Mon., Nov. 9, 2026, per the Bills schedule page and NFL.com. That is 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific."
-  - q: "What channel is Bills at Vikings on?"
+  - q: "What time was Bills at Vikings on Monday Night Football?"
+    a: "Kickoff was 8:15 p.m. Eastern Time (ET) on Mon., Nov. 9, 2026, per the Bills schedule page and NFL.com. That was 7:15 p.m. Central, 6:15 p.m. Mountain and 5:15 p.m. Pacific. The Bills won 23-6."
+  - q: "What channel was Bills at Vikings on?"
     a: "The Bills page, NFL.com and the Vikings game page list ESPN. The league schedule file we use also lists ABC, ESPN2 and NFL Network for this game, which no official page we reached confirms. Check your listings."
-  - q: "Is there a streaming line for Bills at Vikings?"
-    a: "Not yet announced on any official page we could reach. The same goes for the TV announcers."
+  - q: "Who won Bills at Vikings?"
+    a: "The Bills won 23-6 at U.S. Bank Stadium, per the Bills and the Vikings. Buffalo improved to 7-1 and Minnesota fell to 6-2. The Bills play the Jets on Sunday, Nov. 15, at 1 p.m. ET, per the Bills."
   - q: "When did the Bills and Vikings last play?"
     a: "On Sun., Nov. 13, 2022, when the Vikings won 33-30 in overtime at Highmark Stadium in Orchard Park, New York, according to NBC Sports, Sports Illustrated and FOX Sports. The last game in Minnesota was a 27-6 Bills win on Sept. 23, 2018, per the Vikings."
-  - q: "What time is Bills at Vikings in the United Kingdom?"
+  - q: "What time was Bills at Vikings in the United Kingdom?"
     a: "1:15 a.m. on Tuesday, Nov. 10, on Greenwich Mean Time (GMT), worked out from the 8:15 p.m. ET kickoff."
 sources:
   - title: "Buffalo Bills 2026 schedule"
@@ -72,6 +72,10 @@ sources:
   - title: "Bills at Vikings information and history"
     url: "https://www.vikings.com/tickets/2026/bills-at-vikings-information-history-110926"
     publisher: "Minnesota Vikings"
+  - title: "Bills 23, Vikings 6 | Final Score, recap and highlights"
+    url: "https://www.buffalobills.com/news/bills-23-vikings-6-final-score-recap-highlights"
+    publisher: "Buffalo Bills"
+    date: "2026-11-10"
   - title: "2026 NFL Division Standings"
     url: "https://www.nfl.com/standings/"
     publisher: "NFL.com"
@@ -105,13 +109,13 @@ downloads:
 draft: false
 ---
 
-**Monday Night Football (MNF) on Mon., Nov. 9, 2026, is the Buffalo Bills at the Minnesota Vikings at 8:15 p.m. Eastern Time (ET) on ESPN, according to the Bills' schedule page and the National Football League (NFL) schedule on NFL.com.** The Vikings' game page lists the same night as 7:15 p.m. Central. The league schedule file we use also lists American Broadcasting Company (ABC), ESPN2 and NFL Network for the game; the official pages we reached name ESPN only.
+**The Buffalo Bills beat the Minnesota Vikings 23-6 on Monday Night Football (MNF), Mon., Nov. 9, 2026, at U.S. Bank Stadium, according to the Bills' game recap.** Kickoff was 8:15 p.m. Eastern Time (ET) on ESPN, per the Bills' schedule page and the National Football League (NFL) schedule on NFL.com. The Vikings' game page lists the same night as 7:15 p.m. Central and the final as 23-6, with Buffalo at 7-1 and Minnesota at 6-2. The league schedule file we use also lists American Broadcasting Company (ABC), ESPN2 and NFL Network for the game; the official pages we reached name ESPN only.
 
-This page has the kickoff in every U.S. zone and in the United Kingdom, how to watch and listen, what each side's record looks like, the last time these teams met, and the other Week 9 games. A one-page watch guide is at the end.
+Below are the kickoff in every U.S. zone and in the United Kingdom, how the game was broadcast, the records going in, the previous meeting, and the other Week 9 games. A one-page watch guide is at the end.
 
 ## What time is Bills at Vikings in my time zone?
 
-Kickoff is 8:15 p.m. ET on Monday, Nov. 9. Clocks went back on Nov. 1, so the game falls on standard time: 8:15 p.m. Eastern Standard Time (EST). We worked out the other zones from that listing.
+Kickoff was 8:15 p.m. ET on Monday, Nov. 9. Clocks went back on Nov. 1, so the game falls on standard time: 8:15 p.m. Eastern Standard Time (EST). We worked out the other zones from that listing.
 
 | Time zone | Mon., Nov. 9 (Bills at Vikings) |
 |---|---|
@@ -121,9 +125,9 @@ Kickoff is 8:15 p.m. ET on Monday, Nov. 9. Clocks went back on Nov. 1, so the ga
 | Pacific Standard Time (PST) | 5:15 p.m. |
 | United Kingdom (Greenwich Mean Time, GMT) | 1:15 a.m., Tue., Nov. 10 |
 
-The Vikings' page prints "7:15 PM CST" for the game, which matches. Sunday Night Football on Nov. 8 follows the same math: the Tampa Bay Buccaneers at the Chicago Bears kick off at 8:20 p.m. ET on NBC, per the schedule file, which is 7:20 p.m. Central, 6:20 p.m. Mountain, 5:20 p.m. Pacific and 1:20 a.m. Monday, Nov. 9, in the United Kingdom.
+The Vikings' page prints "7:15 PM CST" for the game, which matches. Sunday Night Football on Nov. 8 follows the same math: the Tampa Bay Buccaneers at the Chicago Bears kicked off at 8:20 p.m. ET on NBC, per the schedule file, which is 7:20 p.m. Central, 6:20 p.m. Mountain, 5:20 p.m. Pacific and 1:20 a.m. Monday, Nov. 9, in the United Kingdom.
 
-## How can I watch and listen to Bills at Vikings?
+## How was Bills at Vikings broadcast?
 
 The Bills' schedule page and NFL.com list ESPN, and the Vikings' game page does too. Our league schedule file adds ABC, ESPN2, ESPN Deportes and NFL Network for this game. No official page we could reach confirms those, so treat ESPN as the sure channel and check your local listings for the rest.
 
@@ -131,17 +135,17 @@ The Bills' schedule page and NFL.com list ESPN, and the Vikings' game page does 
 |---|---|
 | TV | ESPN (Bills, NFL.com, Vikings) |
 | Other channels in the league schedule file | ABC, ESPN2, ESPN Deportes, NFL Network |
-| Streaming line | Not yet announced |
-| TV announcers | Not yet announced |
+| Streaming line | Not listed on the pages we reached |
+| TV announcers | Not listed on the pages we reached |
 | Vikings radio | Vikings Audio Network (KFAN), per the Vikings |
 
 The dial numbers are not printed on those pages.
 
-## How do the Bills and Vikings stand before Nov. 9?
+## How did the Bills and Vikings stand before Nov. 9?
 
 NFL.com's standings page lists the Bills at 6-1 and the Vikings at 6-1, with the Vikings 2-1 in the National Football Conference (NFC) North. The page carries no as-of date, so this is a snapshot we could not match to a dated week; the Vikings' game page also lists both teams at 6-1. Our schedule file's results through Week 8 agree on the Bills' 6-1.
 
-The Vikings' page does not name the stadium for this game, and neither does any other official page we reached, so we are not stating the venue. The photo above is a file picture of U.S. Bank Stadium in Minneapolis. Injury reports for Week 9 were not available to us.
+The Bills' recap names U.S. Bank Stadium as the location, and the photo above is a file picture of that stadium in Minneapolis. After the game the Bills stood at 7-1 and the Vikings at 6-2, per the Vikings' game page; the Bills' recap calls it Buffalo's fourth win in a row.
 
 ## When did the Bills and Vikings last play?
 
@@ -151,7 +155,7 @@ The last game in Minnesota was on Sept. 23, 2018, a 27-6 Bills win, per the Viki
 
 ## What else is on in NFL Week 9?
 
-Week 9 has 15 games, from Thursday, Nov. 5, to this Monday night, per the schedule file. Times are Eastern.
+Week 9 had 15 games, from Thursday, Nov. 5, to that Monday night, per the schedule file. Times are Eastern.
 
 | Day | Time | Game | TV |
 |---|---|---|---|
@@ -175,4 +179,4 @@ Our [NFL Week 9 schedule and pick'em sheet](/news/nfl-week-9-schedule-2026-print
 
 ## Is there a printable Bills at Vikings watch guide?
 
-Yes. The one-page watch guide shows the 8:15 p.m. ET kickoff on ESPN in Eastern, Central, Mountain and Pacific time, with a line for your pick and a note on what is not yet announced. Pin it next to the [November 2026 printable calendar](/november-calendars.html), or plan ahead with the [December 2026 printable calendar](/december-calendars.html).
+Yes. The one-page watch guide shows the 8:15 p.m. ET kickoff on ESPN in Eastern, Central, Mountain and Pacific time, with a line for your pick. Pin it next to the [November 2026 printable calendar](/november-calendars.html), or plan ahead with the [December 2026 printable calendar](/december-calendars.html).

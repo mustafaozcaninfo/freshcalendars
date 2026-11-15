@@ -3,7 +3,7 @@ title: "IndyCar Schedule 2027: 17 Races, Indy 500 on May 30"
 description: "The 2027 IndyCar schedule has 17 races, from St. Petersburg on Mar. 7 to Laguna Seca on Sept. 5. The 111th Indy 500 is May 30; printable copy included."
 type: news
 publishedAt: "2026-11-07T10:48:00-05:00"
-updatedAt: "2026-11-07T10:48:00-05:00"
+updatedAt: "2026-11-14T17:01:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["IndyCar schedule 2027", "IndyCar 2027 schedule", "Indy 500 2027 date", "IndyCar 2027 calendar"]
@@ -51,7 +51,6 @@ assets:
         - "Start times for 2027 races are not yet announced."
       unconfirmed:
         - { label: "Race start times", why: "IndyCar said tune-in times will be announced at a later date" }
-        - { label: "Indianapolis 500 practice, qualifying and Carb Day dates", why: "not in the schedule announcements we read" }
 hero:
   src: ../../../../assets/news/indycar-schedule-2027-17-races-indy-500-may-30/indycar-schedule-2027-17-races-indy-500-may-30.webp
   alt: "IndyCar field at Indianapolis Motor Speedway, a file photo for the IndyCar schedule 2027"
@@ -65,14 +64,14 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Doctorindy"
 summary:
   - "The 2027 IndyCar season has 17 races, from the Streets of St. Petersburg on Sun., Mar. 7 to WeatherTech Raceway Laguna Seca on Sun., Sept. 5, according to IndyCar."
-  - "The 111th Indianapolis 500 is Sun., May 30, and the Milwaukee Mile hosts a doubleheader on Sat., Aug. 28 and Sun., Aug. 29."
+  - "The 111th Indianapolis 500 is Sun., May 30, with Carb Day on Fri., May 28, and the Milwaukee Mile hosts a doubleheader on Sat., Aug. 28 and Sun., Aug. 29."
   - "All races will be broadcast on FOX in the United States for the third consecutive season."
   - "Start times are not yet announced; IndyCar says tune-in times will come at a later date."
 faq:
   - q: "When does the 2027 IndyCar season start?"
     a: "With the race on the Streets of St. Petersburg, Florida, on Sunday, Mar. 7, 2027. IndyCar says it will be the 17th time the championship opens in St. Petersburg."
   - q: "When is the 2027 Indy 500?"
-    a: "Sunday, May 30, 2027. IndyCar calls it the 111th Running of the Indianapolis 500 presented by Gainbridge."
+    a: "Sunday, May 30, 2027. IndyCar calls it the 111th Running of the Indianapolis 500 presented by Gainbridge. Indianapolis Motor Speedway lists Carb Day on Friday, May 28, and qualifying on Saturday and Sunday, May 22-23."
   - q: "When does the 2027 IndyCar season end?"
     a: "With the race at WeatherTech Raceway Laguna Seca in Monterey, California, on Sunday, Sept. 5, 2027."
   - q: "What time do 2027 IndyCar races start?"
@@ -91,6 +90,11 @@ sources:
   - title: "NTT INDYCAR SERIES Race Schedule"
     url: "https://www.indycar.com/schedule"
     publisher: "INDYCAR"
+    date: "2026-11-14"
+  - title: "Indianapolis 500 presented by Gainbridge"
+    url: "https://www.indianapolismotorspeedway.com/events/indy500"
+    publisher: "Indianapolis Motor Speedway"
+    date: "2026-11-14"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
@@ -141,7 +145,17 @@ IndyCar describes Phoenix as a "1-mile desert oval" and the Indianapolis 500 is 
 
 ## When is the 2027 Indy 500?
 
-IndyCar says the 111th Running of the Indianapolis 500 presented by Gainbridge is set for Sunday, May 30, 2027, race 7 of 17. The road-course race at IMS comes two weeks earlier, on Sat., May 15. Dates for Indy 500 practice, qualifying and Carb Day are not in the announcements we read. Phase Two also mentions three additional telecasts during the two days of qualifying for the Indianapolis 500, without dates. To see May 2027 by day, use the [May printable calendar](/may-calendars.html).
+IndyCar says the 111th Running of the Indianapolis 500 presented by Gainbridge is set for Sunday, May 30, 2027, race 7 of 17. The road-course race at IMS comes two weeks earlier, on Sat., May 15. Indianapolis Motor Speedway lists the rest of the month, shown below, and Phase Two mentions three additional telecasts during the two days of qualifying for the Indianapolis 500 and coverage of Miller Lite Carb Day. To see May 2027 by day, use the [May printable calendar](/may-calendars.html).
+
+| Date | Indianapolis Motor Speedway lists |
+|---|---|
+| Fri., May 14 | IndyCar Grand Prix practice and qualifying |
+| Sat., May 15 | IndyCar Grand Prix race day |
+| Tues. to Fri., May 18-21, and Mon., May 24 | Indy 500 practice |
+| Sat. and Sun., May 22-23 | PPG presents Armed Forces Qualifying |
+| Fri., May 28 | Miller Lite Carb Day |
+| Sat., May 29 | Legends Day and Drivers' Meeting |
+| Sun., May 30 | Indianapolis 500 race day |
 
 ## How does the 2027 IndyCar season break down by month?
 
@@ -171,4 +185,4 @@ IndyCar says that for the third consecutive season, all races will be broadcast 
 
 ## What is not yet announced for 2027?
 
-IndyCar says tune-in times for next season's events will be announced at a later date, so no race has a start time yet. Indy 500 practice, qualifying and Carb Day dates are also not yet listed in the announcements. This story will be updated when IndyCar publishes them.
+IndyCar says tune-in times for next season's events will be announced at a later date, so no race has a start time yet. Session times for Indy 500 practice, qualifying and Carb Day are not listed either. We will add them when IndyCar publishes them.

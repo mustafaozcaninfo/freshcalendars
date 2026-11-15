@@ -1,16 +1,17 @@
 ---
 title: "College Basketball Opening Night 2026: Florida vs. Miami at 6 p.m. ET"
-description: "College basketball opening night was Mon., Nov. 2, 2026: No. 1 Florida vs. No. 14 Miami at 6 p.m. ET on ESPN2. All 18 men's Top 25 games, TV, a printable."
+description: "College basketball opening night was Nov. 2, 2026: No. 1 Florida beat No. 14 Miami 77-67 on ESPN2. All 18 Top 25 games, scores, TV times, a printable."
 type: news
 publishedAt: "2026-11-01T01:30:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["college basketball opening night 2026", "college basketball games today November 2", "Champions Classic 2026 time", "Florida Miami basketball time"]
 assets:
   overlay: true
-  kicker: "College basketball opens · Mon., Nov. 2, 2026"
+  kicker: "College basketball opened · Mon., Nov. 2, 2026"
   date: "2026-11-02"
-  card: { top: "Florida vs. Miami in Tampa", big: "6 p.m. ET", bottom: "ESPN2, Mon., Nov. 2" }
+  card: { top: "Florida vs. Miami in Tampa", big: "Florida 77-67", bottom: "Final, Mon., Nov. 2" }
   printable:
     slug: college-basketball-opening-week-2026-watch-sheet
     group: college-basketball-2026-27
@@ -47,12 +48,13 @@ assets:
       - ["Tue., Nov. 10 · 9:30 p.m.", "No. 17 Kansas vs. No. 23 Kentucky, Chicago (ESPN)"]
     note: "Source: ESPN men's and women's college basketball schedules (checked Nov. 1, 2026); AP preseason polls of Oct. 19 (men) and Oct. 20 (women), 2026. Times can change; check ESPN."
     inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "A one-page college basketball opening week 2026 sheet with 26 men's and women's games from Nov. 2 to Nov. 10, Eastern Time tipoffs, networks and a Done column."
     alt: "Printable college basketball opening week 2026 watch sheet listing 26 games from Nov. 2 to Nov. 10 with tipoff time and network"
 hero:
   src: ../../../../assets/news/college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic/college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic.webp
-  alt: "College basketball opening night 2026: the interior of Cameron Indoor Stadium in Durham, where No. 2 Duke hosts Army"
-  caption: "File photo: Cameron Indoor Stadium in Durham. Duke hosts Army there on Monday, Nov. 2, 2026, at 6:30 p.m. ET on ESPNU, per ESPN's schedule."
+  alt: "College basketball opening night 2026: the interior of Cameron Indoor Stadium in Durham, where No. 2 Duke hosted Army"
+  caption: "File photo: Cameron Indoor Stadium in Durham. Duke beat Army there 84-50 on Monday, Nov. 2, 2026, on ESPNU, per ESPN."
   credit: "Photo: Discover Durham / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -60,23 +62,23 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:BSKT005_Cameron_Indoor_Stadium_DiscoverDurham.jpg"
     author: "Discover Durham"
 summary:
-  - "ESPN lists 18 men's games with a Top 25 team on Monday, Nov. 2, 2026, starting with No. 1 Florida vs. No. 14 Miami at 6 p.m. Eastern Time (ET) on ESPN2 in Tampa."
-  - "The women's schedule opens the day in Paris: No. 1 South Carolina vs. No. 20 Maryland at noon ET on ESPN, then No. 12 North Carolina vs. No. 21 Oklahoma at 2:30 p.m. ET on ESPN2."
-  - "UConn plays Michigan in Boston on Friday, Nov. 6 at 8 p.m. ET on TNT, and the State Farm Champions Classic is Tuesday, Nov. 10 at the United Center in Chicago."
-  - "The printable watch sheet lists 26 men's and women's games from Nov. 2 to Nov. 10 with Eastern Time tipoffs and networks."
+  - "ESPN listed 18 men's games with a Top 25 team on Monday, Nov. 2, 2026. No. 1 Florida beat No. 14 Miami 77-67 at 6 p.m. Eastern Time (ET) on ESPN2 in Tampa."
+  - "The women's schedule opened the day in Paris: No. 1 South Carolina vs. No. 20 Maryland at noon ET on ESPN, then No. 12 North Carolina vs. No. 21 Oklahoma at 2:30 p.m. ET on ESPN2."
+  - "UConn beat Michigan 85-77 in Boston on Friday, Nov. 6. At the State Farm Champions Classic on Tuesday, Nov. 10, Michigan State beat Duke 79-73 and Kansas beat Kentucky 89-69."
+  - "The printable watch sheet lists 26 men's and women's games from Nov. 2 to Nov. 10 with Eastern Time tipoffs and networks, as ESPN listed them on Nov. 1."
 faq:
-  - q: "What time is Florida vs. Miami on Nov. 2, 2026?"
-    a: "6 p.m. ET on ESPN2 at Benchmark International Arena in Tampa, as the Orion180 Tipoff Classic, per ESPN's schedule. That is 5 p.m. Central Time (CT), 4 p.m. Mountain Time (MT) and 3 p.m. Pacific Time (PT), by our conversion."
-  - q: "What time are the Champions Classic games on Nov. 10, 2026?"
-    a: "ESPN lists No. 6 Michigan State vs. No. 2 Duke at 7 p.m. ET and No. 17 Kansas vs. No. 23 Kentucky at 9:30 p.m. ET, both on ESPN, at the United Center in Chicago."
-  - q: "Where can I watch UConn vs. Michigan in 2026?"
-    a: "The men's game is Friday, Nov. 6 at 8 p.m. ET on TNT at TD Garden in Boston, part of the Hall of Fame Series. The women's teams meet earlier, on Thursday, Nov. 5 at 6:30 p.m. ET on FS1 at Crisler Center in Ann Arbor."
-  - q: "When does South Carolina play in the first week?"
-    a: "ESPN lists No. 1 South Carolina vs. Maryland on Monday, Nov. 2 at noon ET on ESPN in Paris, and vs. North Carolina on Sunday, Nov. 8 at 5:30 p.m. ET on ESPN at Spectrum Center in Charlotte."
+  - q: "What time was Florida vs. Miami on Nov. 2, 2026?"
+    a: "6 p.m. ET on ESPN2 at Benchmark International Arena in Tampa, as the Orion180 Tipoff Classic, per ESPN's schedule. That was 5 p.m. Central Time (CT), 4 p.m. Mountain Time (MT) and 3 p.m. Pacific Time (PT), by our conversion. Florida won 77-67, per ESPN."
+  - q: "What time were the Champions Classic games on Nov. 10, 2026?"
+    a: "ESPN listed No. 6 Michigan State vs. No. 2 Duke at 7 p.m. ET and No. 17 Kansas vs. No. 23 Kentucky at 9:30 p.m. ET, both on ESPN, at the United Center in Chicago. Michigan State won 79-73 and Kansas won 89-69, per ESPN."
+  - q: "Where was UConn vs. Michigan in 2026?"
+    a: "The men's game was Friday, Nov. 6 at 8 p.m. ET on TNT at TD Garden in Boston, part of the Hall of Fame Series, and UConn won 85-77. The women's teams met earlier, on Thursday, Nov. 5 at 6:30 p.m. ET on FS1 at Crisler Center in Ann Arbor."
+  - q: "When did South Carolina play in the first week?"
+    a: "ESPN listed No. 1 South Carolina vs. Maryland on Monday, Nov. 2 at noon ET on ESPN in Paris, and vs. North Carolina on Sunday, Nov. 8 at 5:30 p.m. ET on ESPN at Spectrum Center in Charlotte."
   - q: "Are ESPN+, Peacock and B1G+ on regular TV?"
     a: "No. ESPN's listings include streaming services such as ESPN+, Peacock, Big Ten Plus (B1G+) and SECN+ next to the television networks. Check that you have the service before game day."
-  - q: "When is the first women's AP poll of the regular season?"
-    a: "NCAA.com's report on the preseason poll says the first regular-season women's poll is released Nov. 9, 2026."
+  - q: "When was the first women's AP poll of the regular season?"
+    a: "NCAA.com's report on the preseason poll said the first regular-season women's poll would be released Nov. 9, 2026."
 sources:
   - title: "College basketball men's schedule, Nov. 2-10, 2026"
     url: "https://www.espn.com/mens-college-basketball/schedule"
@@ -86,6 +88,10 @@ sources:
     url: "https://www.espn.com/womens-college-basketball/schedule"
     publisher: "ESPN"
     date: "2026-11-01"
+  - title: "Men's college basketball scoreboard, Nov. 2-10, 2026 (final scores)"
+    url: "https://www.espn.com/mens-college-basketball/scoreboard"
+    publisher: "ESPN"
+    date: "2026-11-14"
   - title: "ESPN and SEC announce 2026-27 men's college basketball schedule with more than 230 games across ESPN networks"
     url: "https://espnpressroom.com/press-release/espn-and-sec-announce-2026-27-mens-college-basketball-schedule-with-more-than-230-games-across-espn-networks/"
     publisher: "ESPN Press Room"
@@ -139,11 +145,11 @@ related: [college-basketball-2026-27-key-dates-season-start-march-madness-printa
 draft: false
 ---
 
-**College basketball's season tips off Monday, Nov. 2, 2026, with No. 1 Florida vs. No. 14 Miami at 6 p.m. Eastern Time (ET) on ESPN2 in Tampa, and ESPN's schedule lists 18 men's games with a Top 25 team that day.** Below: every opening-night game with its channel, the tipoffs in Central, Mountain and Pacific time, the women's games, both preseason polls, the Champions Classic on Nov. 10 and a one-page watch sheet.
+**College basketball's season tipped off Monday, Nov. 2, 2026, with No. 1 Florida beating No. 14 Miami 77-67 at 6 p.m. Eastern Time (ET) on ESPN2 in Tampa, and ESPN's schedule listed 18 men's games with a Top 25 team that day.** Below: every opening-night game with its channel, the tipoffs in Central, Mountain and Pacific time, the women's games, both preseason polls, the first week's results through the Champions Classic on Nov. 10 and a one-page watch sheet.
 
 ESPN's press release on the 2026-27 men's schedule says "The season tips off Monday, Nov. 2." For the full season calendar through March, see our [college basketball 2026-27 key dates story](/news/college-basketball-2026-27-key-dates-season-start-march-madness-printable/).
 
-## Which men's Top 25 games are on Monday, Nov. 2?
+## Which men's Top 25 games were on Monday, Nov. 2?
 
 Times are ET from ESPN's men's schedule, checked Nov. 1, 2026. Rankings are the Associated Press (AP) preseason Top 25 of Oct. 19, 2026, as shown on ESPN. "vs." marks a neutral site; "at" means the second team is at home. The TV column uses Big Ten Network (BTN), CBS Sports Network (CBSSN), Turner Network Television (TNT), Southeastern Conference (SEC) Network and Atlantic Coast Conference (ACC) Network, plus streaming services such as SEC Network+ (SECN), written "SECN+" in ESPN's listings.
 
@@ -168,7 +174,7 @@ Times are ET from ESPN's men's schedule, checked Nov. 1, 2026. Rankings are the 
 | 10:00 p.m. | No. 5 Arizona vs. No. 22 University of California, Los Angeles (UCLA) | T-Mobile Arena, Las Vegas (Hall of Fame Series) | TNT |
 | 10:30 p.m. | Milwaukee at No. 21 University of Southern California (USC) | Galen Center, Los Angeles | B1G+ |
 
-Twenty ranked teams play on Monday. Tennessee (No. 8), Virginia (No. 9), Arkansas (No. 12), Alabama (No. 20) and Kentucky (No. 23) open Tuesday, Nov. 3 in ESPN's schedule, against Wofford, Drexel, Arkansas-Pine Bluff, Sam Houston and Manhattan.
+Twenty ranked teams play on Monday. Tennessee (No. 8), Virginia (No. 9), Arkansas (No. 12), Alabama (No. 20) and Kentucky (No. 23) opened Tuesday, Nov. 3 in ESPN's schedule, against Wofford, Drexel, Arkansas-Pine Bluff, Sam Houston and Manhattan.
 
 ## How do I read the TV column?
 
@@ -192,26 +198,26 @@ The CT, MT and PT columns are our conversion from the ET tipoff on ESPN, not an 
 | 10:00 p.m. | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. |
 | 10:30 p.m. | 9:30 p.m. | 8:30 p.m. | 7:30 p.m. |
 
-## Which men's games should you watch in the first week?
+## Which men's games headlined the first week?
 
-Florida opened the preseason AP poll at No. 1 with 47 first-place votes, News 9 reported, and Miami is No. 14 on ESPN's list. They meet on a neutral court in Tampa on Monday, then Florida hosts Jacksonville on Thursday, Nov. 5 and plays at Florida State on Tuesday, Nov. 10.
+Florida opened the preseason AP poll at No. 1 with 47 first-place votes, News 9 reported, and Miami was No. 14 on ESPN's list. They met on a neutral court in Tampa on Monday. Florida then hosted Jacksonville on Thursday, Nov. 5 and won at Florida State 81-72 on Tuesday, Nov. 10, per ESPN. Scores below are from ESPN's scoreboard, checked Nov. 14.
 
-| Date and tipoff (ET) | Game | Venue | TV per ESPN |
-|---|---|---|---|
-| Mon., Nov. 2, 6:00 p.m. | No. 14 Miami vs. No. 1 Florida | Tampa | ESPN2 |
-| Mon., Nov. 2, 7:30 p.m. | No. 15 Gonzaga vs. Purdue | T-Mobile Arena, Las Vegas | TNT |
-| Mon., Nov. 2, 10:00 p.m. | No. 5 Arizona vs. No. 22 UCLA | T-Mobile Arena, Las Vegas | TNT |
-| Fri., Nov. 6, 8:00 p.m. | No. 4 UConn vs. No. 16 Michigan | TD Garden, Boston (Hall of Fame Series) | TNT |
-| Sun., Nov. 8, 1:00 p.m. | No. 12 Arkansas vs. No. 9 Virginia | Capital One Arena, Washington | ESPN |
-| Tue., Nov. 10, 7:00 p.m. | No. 6 Michigan State vs. No. 2 Duke | United Center, Chicago (State Farm Champions Classic) | ESPN |
-| Tue., Nov. 10, 8:00 p.m. | No. 3 Illinois at No. 19 Texas Tech | United Supermarkets Arena, Lubbock | Peacock |
-| Tue., Nov. 10, 9:30 p.m. | No. 17 Kansas vs. No. 23 Kentucky | United Center, Chicago (State Farm Champions Classic) | ESPN |
+| Date and tipoff (ET) | Game | Venue | TV per ESPN | Final score |
+|---|---|---|---|---|
+| Mon., Nov. 2, 6:00 p.m. | No. 14 Miami vs. No. 1 Florida | Tampa | ESPN2 | Florida 77, Miami 67 |
+| Mon., Nov. 2, 7:30 p.m. | No. 15 Gonzaga vs. Purdue | T-Mobile Arena, Las Vegas | TNT | Gonzaga 78, Purdue 72 |
+| Mon., Nov. 2, 10:00 p.m. | No. 5 Arizona vs. No. 22 UCLA | T-Mobile Arena, Las Vegas | TNT | UCLA 84, Arizona 75 |
+| Fri., Nov. 6, 8:00 p.m. | No. 4 UConn vs. No. 16 Michigan | TD Garden, Boston (Hall of Fame Series) | TNT | UConn 85, Michigan 77 |
+| Sun., Nov. 8, 1:00 p.m. | No. 12 Arkansas vs. No. 9 Virginia | Capital One Arena, Washington | ESPN | Virginia 91, Arkansas 72 |
+| Tue., Nov. 10, 7:00 p.m. | No. 6 Michigan State vs. No. 2 Duke | United Center, Chicago (State Farm Champions Classic) | ESPN | Michigan State 79, Duke 73 |
+| Tue., Nov. 10, 8:00 p.m. | No. 3 Illinois at No. 19 Texas Tech | United Supermarkets Arena, Lubbock | Peacock | Texas Tech 84, Illinois 78 |
+| Tue., Nov. 10, 9:30 p.m. | No. 17 Kansas vs. No. 23 Kentucky | United Center, Chicago (State Farm Champions Classic) | ESPN | Kansas 89, Kentucky 69 |
 
-ESPN's press release for the State Farm Champions Classic lists Nov. 10, 2026 at the United Center in Chicago, with Michigan State vs. Duke and Kansas vs. Kentucky. ESPN's schedule puts the first game at 7 p.m. ET and the second at 9:30 p.m. ET, which is 6 p.m. and 8:30 p.m. CT by our conversion. Two other ranked teams play on the same night: Illinois travels to Texas Tech, and Florida visits Florida State at 6 p.m. ET on ESPN2.
+ESPN's press release for the State Farm Champions Classic lists Nov. 10, 2026 at the United Center in Chicago, with Michigan State vs. Duke and Kansas vs. Kentucky. ESPN's schedule puts the first game at 7 p.m. ET and the second at 9:30 p.m. ET, which is 6 p.m. and 8:30 p.m. CT by our conversion. Two other ranked teams played that night: Illinois traveled to Texas Tech, and Florida visited Florida State at 6 p.m. ET on ESPN2.
 
-## What is on the women's schedule?
+## What was on the women's schedule?
 
-ESPN's women's schedule has two games in Paris at Adidas Arena (the Oui-Play event) on Monday, at noon and 2:30 p.m. ET. The preseason poll is from the Associated Press (AP) of Oct. 20, 2026, reported by the National Collegiate Athletic Association (NCAA) at NCAA.com.
+ESPN's women's schedule had two games in Paris at Adidas Arena (the Oui-Play event) on Monday, at noon and 2:30 p.m. ET. The preseason poll is from the Associated Press (AP) of Oct. 20, 2026, reported by the National Collegiate Athletic Association (NCAA) at NCAA.com.
 
 | Date and tipoff (ET) | Game | Venue | TV per ESPN |
 |---|---|---|---|
@@ -223,7 +229,7 @@ ESPN's women's schedule has two games in Paris at Adidas Arena (the Oui-Play eve
 | Sun., Nov. 8, 2:00 p.m. | No. 10 Iowa at No. 2 UConn | Gampel Pavilion, Storrs | FS1 |
 | Sun., Nov. 8, 5:30 p.m. | No. 12 North Carolina vs. No. 1 South Carolina | Spectrum Center, Charlotte (Ally Tipoff) | ESPN |
 
-South Carolina leads the women's preseason poll with 23 first-place votes and UConn is second with six. NCAA.com says the first regular-season poll comes out Nov. 9. ESPN's list also has Duke (No. 4) hosting Green Bay on Tuesday, Nov. 3 and No. 6 Texas hosting Fairleigh Dickinson on Wednesday, Nov. 4.
+South Carolina leads the women's preseason poll with 23 first-place votes and UConn is second with six. NCAA.com said the first regular-season poll would come out Nov. 9. ESPN's list also had Duke (No. 4) hosting Green Bay on Tuesday, Nov. 3 and No. 6 Texas hosting Fairleigh Dickinson on Wednesday, Nov. 4.
 
 ## Where do the preseason Top 10 polls start?
 
@@ -269,4 +275,4 @@ The full Thanksgiving-week list, day by day, is in our [Feast Week 2026 college 
 
 ## Is there a printable college basketball watch sheet?
 
-Yes. The one-page sheet lists 26 men's and women's games from Nov. 2 to Nov. 10 in tipoff order with the ET time, network and a Done column. Women's games carry a W. Keep it next to the [printable weekly calendar](/printable-weekly-calendar.html). Times can change; check ESPN on game day.
+Yes. The one-page sheet lists 26 men's and women's games from Nov. 2 to Nov. 10 in tipoff order with the ET time, network and a Done column, as ESPN listed them on Nov. 1. Women's games carry a W. Keep it next to the [printable weekly calendar](/printable-weekly-calendar.html).

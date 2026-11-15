@@ -3,7 +3,7 @@ title: "Mexico City Grand Prix 2026: Verstappen Wins, Hamilton Second"
 description: "Max Verstappen won the Mexico City Grand Prix on Nov. 1, 2026, ahead of Lewis Hamilton. The race started at 3 p.m. EST; session times in U.S. time zones."
 type: news
 publishedAt: "2026-10-25T14:19:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Mexico City Grand Prix 2026", "F1 Mexico GP time", "F1 Mexico 2026 schedule", "Mexico GP qualifying time", "Mexico City Grand Prix 2027 date"]
@@ -65,7 +65,7 @@ sources:
   - title: "2026 Drivers' Standings"
     url: "https://www.formula1.com/en/results/2026/drivers"
     publisher: "Formula 1"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "2025 Race Results"
     url: "https://www.formula1.com/en/results/2025/races"
     publisher: "Formula 1"
@@ -191,7 +191,7 @@ Going into the weekend, F1's 2026 drivers' standings showed Kimi Antonelli (Merc
 | 2 | Lewis Hamilton | +0.799 |
 | 3 | Kimi Antonelli | +4.006 |
 
-As of Nov. 2, the drivers' standings on F1's results page show Antonelli first with 380 points, Verstappen second with 261 and Hamilton third with 259. Four races remain: the São Paulo Grand Prix on Nov. 6-8, Las Vegas on Nov. 19-21, Qatar on Nov. 27-29 and Abu Dhabi on Dec. 4-6.
+After the next round, the São Paulo Grand Prix on Nov. 8, which Lando Norris won, F1's drivers' standings show Antonelli first with 390 points, Verstappen second with 279 and Russell third with 262. Hamilton is fourth with 261. Three races remain: Las Vegas on Nov. 19-21, Qatar on Nov. 27-29 and Abu Dhabi on Dec. 4-6.
 
 ## Autódromo Hermanos Rodríguez: the Mexico City circuit
 
@@ -207,4 +207,4 @@ F1's [2027 calendar](https://www.formula1.com/en/racing/2027.html) lists the Mex
 
 ## Free Mexico City Grand Prix 2026 weekend schedule
 
-Our printable lists the five sessions and the drivers' parade with Mexico City, Eastern and Pacific times on one page. Mark the weekend on your [October 2026 printable calendar](/october-calendars.html) and your [November 2026 printable calendar](/november-calendars.html). The next race is in our [São Paulo Grand Prix 2026 race time](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/) story, a week later on Nov. 8.
+Our printable lists the five sessions and the drivers' parade with Mexico City, Eastern and Pacific times on one page. Mark the weekend on your [October 2026 printable calendar](/october-calendars.html) and your [November 2026 printable calendar](/november-calendars.html). The next race, a week later on Nov. 8, is covered in our [São Paulo Grand Prix 2026 race time](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/) story.

@@ -3,7 +3,7 @@ title: "Mail Ballot Deadlines 2026 by State: Where a Nov. 3 Postmark Counts"
 description: "Mail ballot deadlines for 2026: most states needed ballots received by Nov. 3; about 15 counted ones postmarked by then. Every state and the court ruling."
 type: explainer
 publishedAt: "2026-10-20T10:40:00-04:00"
-updatedAt: "2026-10-28T16:12:00-04:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["mail ballot deadline 2026", "absentee ballot deadline by state", "postmark deadline ballot", "when is my mail ballot due", "mail in ballot deadline November 2026"]
@@ -12,23 +12,23 @@ hero:
   src: ../../../../assets/news/mail-ballot-deadlines-2026-by-state/mail-ballot-deadlines-2026-by-state.jpg
   alt: "Mail ballot deadlines 2026: an envelope marked official ballot with a Nov. 3 postmark beside a card reading must arrive by Nov. 3"
   title: "Mail ballot deadlines, Nov. 3, 2026"
-  caption: "In most states a mailed ballot must arrive by Election Day, Nov. 3, 2026; the U.S. Postal Service advises mailing it at least a week before it is due."
+  caption: "In most states a mailed ballot had to arrive by Election Day, Nov. 3, 2026; the U.S. Postal Service advised mailing it at least a week before it was due."
 summary:
-  - "In most states, a mailed ballot must be received by Election Day, Tuesday, Nov. 3, 2026, usually by the time polls close; a postmark is not enough."
-  - "About 15 states and the District of Columbia count ballots postmarked by Election Day that arrive later, from one day in Texas to 14 days in Illinois."
+  - "In most states, a mailed ballot had to be received by Election Day, Tuesday, Nov. 3, 2026, usually by the time polls closed; a postmark was not enough."
+  - "About 15 states and the District of Columbia counted ballots postmarked by Election Day that arrived later, from one day in Texas to 14 days in Illinois."
   - "In June 2026 the U.S. Supreme Court ruled in Watson v. Republican National Committee that federal law does not stop states from counting those late-arriving ballots."
-  - "The U.S. Postal Service recommends mailing a ballot at least one week before it is due; with less than a week left before Nov. 3, return it in person or at a drop box instead."
+  - "The U.S. Postal Service recommended mailing a ballot at least one week before it was due. The table below keeps each state's rule as a record, including later windows such as Illinois on Nov. 17."
 faq:
   - q: "When is my mail ballot due in 2026?"
-    a: "In most states it must arrive at your election office by the close of polls on Tuesday, Nov. 3, 2026. In about 15 states and Washington, D.C., a ballot postmarked by Nov. 3 still counts if it arrives within a set number of days. Check the table in this story."
+    a: "In most states it had to arrive at your election office by the close of polls on Tuesday, Nov. 3, 2026. In about 15 states and Washington, D.C., a ballot postmarked by Nov. 3 still counted if it arrived within a set number of days. The table in this story lists each window."
   - q: "Does a postmark count in my state?"
     a: "Only in states with a postmark rule, including California, New York, Illinois, Texas, Nevada, Maryland, Virginia, New Jersey, Massachusetts, Alaska, Oregon, Washington, Mississippi, West Virginia and, for 2026, Kansas. Florida, Georgia, Pennsylvania, Michigan, Arizona, North Carolina, Ohio and most other states require the ballot to arrive by Election Day."
   - q: "What did the Supreme Court decide about mail ballot deadlines?"
     a: "In Watson v. Republican National Committee, decided in June 2026, the Court held that federal Election Day laws do not require ballots to be received by Election Day, so states may count ballots postmarked by Election Day that arrive afterward. The ruling kept Mississippi's five-business-day grace period."
-  - q: "Is it too late to mail my ballot?"
-    a: "The Postal Service advises mailing at least one week before the deadline. If it is closer than that, return your ballot in person or at an official drop box, where your state allows them, by the close of polls on Nov. 3."
+  - q: "Can I still mail my ballot?"
+    a: "The election has passed. The Postal Service advised mailing at least one week before the deadline, and in person or drop box returns were due by the close of polls on Nov. 3. If you are unsure whether your ballot was counted, your state or county election office has a ballot tracker or can look it up."
   - q: "What about Kansas?"
-    a: "A 2025 law ended Kansas's three-day grace period, but a state court blocked it in July 2026 and appeals courts left that order in place. For the Nov. 3 election, Kansas counts ballots postmarked by Election Day that arrive by Friday, Nov. 6."
+    a: "A 2025 law ended Kansas's three-day grace period, but a state court blocked it in July 2026 and appeals courts left that order in place. For the Nov. 3 election, Kansas counted ballots postmarked by Election Day that arrived by Friday, Nov. 6."
 sources:
   - title: "Absentee/mail-in ballot return deadlines by state"
     url: "https://ballotpedia.org/Absentee/mail-in_ballot_return_deadlines"
@@ -72,9 +72,9 @@ downloads:
 draft: false
 ---
 
-Mail-ballot application windows have closed in many states, including Pennsylvania (5 p.m. Oct. 27), Florida's vote-by-mail request (5 p.m. Oct. 22) and Georgia's absentee application (Oct. 23). Return deadlines are unchanged: in states that require arrival by Nov. 3, mailing now may not get there in time, so return your ballot in person or at an official drop box. Pennsylvania, Florida and Georgia must receive the completed ballot by Nov. 3, not just see a postmark.
+Mail-ballot application windows closed in many states before Election Day, including Pennsylvania (5 p.m. Oct. 27), Florida's vote-by-mail request (5 p.m. Oct. 22) and Georgia's absentee application (Oct. 23). Pennsylvania, Florida and Georgia had to receive the completed ballot by Nov. 3, not just see a postmark.
 
-**In most states, a mailed ballot has to arrive by Election Day, Tuesday, Nov. 3, 2026, to count.** A postmark is not enough there: the ballot must be in the election office's hands, usually by the time polls close. About 15 states and the District of Columbia are more forgiving and count ballots postmarked by Nov. 3 that arrive within a set window afterward. If you have not returned your ballot yet, the safest move now is to drop it off in person or at an official drop box rather than mail it.
+**In most states, a mailed ballot had to arrive by Election Day, Tuesday, Nov. 3, 2026, to count.** A postmark was not enough there: the ballot had to be in the election office's hands, usually by the time polls closed. About 15 states and the District of Columbia were more forgiving and counted ballots postmarked by Nov. 3 that arrived within a set window afterward. Some of those windows run past mid-November, so the table below stays as a record of each rule. Your state or county election office can say whether your ballot was received.
 
 ## States that count a Nov. 3 postmark
 
@@ -107,7 +107,7 @@ North Dakota has its own rule: ballots must be postmarked by the day before the 
 
 ## States where the ballot must arrive by Election Day
 
-Everywhere else, the ballot has to be received on or before Nov. 3. The deadline is usually the close of polls, but not always:
+Everywhere else, the ballot had to be received on or before Nov. 3. The deadline was usually the close of polls, but not always:
 
 - **Louisiana:** 4:30 p.m. on Monday, Nov. 2, the day before Election Day.
 - **Alabama:** noon on Nov. 3.
@@ -128,16 +128,16 @@ The decision did not require any state to adopt a grace period. Each state's own
 
 ## Kansas: back to a grace period, for now
 
-A 2025 Kansas law, Senate Bill 4, ended the state's three-day grace period. On July 16, 2026, a Douglas County district judge blocked it, and the Kansas Court of Appeals and then the Kansas Supreme Court declined to lift the order. For the Nov. 3 election, Kansas counts ballots postmarked by Election Day that arrive by Friday, Nov. 6. The case continues.
+A 2025 Kansas law, Senate Bill 4, ended the state's three-day grace period. On July 16, 2026, a Douglas County district judge blocked it, and the Kansas Court of Appeals and then the Kansas Supreme Court declined to lift the order. For the Nov. 3 election, Kansas counted ballots postmarked by Election Day that arrived by Friday, Nov. 6. The case continues.
 
 ## When to mail it
 
-The U.S. Postal Service (USPS) recommends mailing a completed ballot at least one week before the state's deadline. In states that require arrival by Election Day, that was about **Tuesday, Oct. 27**, which has passed. With less than a week to go, do not rely on the mail: use a drop box or return your ballot in person where your state allows, by the close of polls; our guide to [handing in a mail ballot on Election Day](/news/can-i-drop-off-my-mail-in-ballot-on-election-day-2026/) has each state's places and cutoffs. Many states let you track your ballot online; your county or state election office has a link.
+The U.S. Postal Service (USPS) recommended mailing a completed ballot at least one week before the state's deadline. In states that required arrival by Election Day, that was about **Tuesday, Oct. 27**. Late in the window, voters were told not to rely on the mail and to use a drop box or return the ballot in person where their state allowed, by the close of polls; our guide to [handing in a mail ballot on Election Day](/news/can-i-drop-off-my-mail-in-ballot-on-election-day-2026/) has each state's places and cutoffs. Many states let voters track a ballot online; your county or state election office has a link.
 
-Do not wait on a postmark in a grace-period state either. Postal facilities do not always postmark the day a ballot is dropped in a mailbox, so mailing early protects you.
+Postal facilities did not always postmark the day a ballot was dropped in a mailbox, so even in grace-period states mailing early was the safer choice.
 
 ## Military and overseas voters
 
 Voters covered by the federal overseas voting law often have different, more generous deadlines. Check with your state election office or the Federal Voting Assistance Program.
 
-Late-arriving ballots are one reason some states count for days; see [when we will know the results](/news/when-will-we-know-election-results-2026-midterms/). For poll hours on Election Day, see [what time polls close in every state](/news/what-time-do-polls-close-election-day-2026/), and to see your full ballot first, read our guide to [finding your sample ballot](/news/sample-ballot-by-zip-code-2026-texas-ballot/). If you would rather vote in person before Nov. 3, see [which states have early voting open now](/news/early-voting-2026-which-states-are-voting-now/). Mark the mailing deadline on our [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars.
+Late-arriving ballots are one reason some states count for days; see [when we will know the results](/news/when-will-we-know-election-results-2026-midterms/). For poll hours on Election Day, see [what time polls close in every state](/news/what-time-do-polls-close-election-day-2026/), and to see your full ballot first, read our guide to [finding your sample ballot](/news/sample-ballot-by-zip-code-2026-texas-ballot/). Our record of in-person voting before Nov. 3 is in [which states had early voting open](/news/early-voting-2026-which-states-are-voting-now/). Mark the mailing deadline on our [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars.

@@ -1,9 +1,9 @@
 ---
 title: "Greggs Christmas Menu 2026: Festive Bake From 22 October, Six Items"
-description: "Greggs says its 2026 Christmas menu is in shop from Thursday, 22 October, led by a new-recipe Festive Bake. It lists six items and no prices."
+description: "Greggs said its 2026 Christmas menu was in shop from Thursday, 22 October, led by a new-recipe Festive Bake. It lists six items and no prices."
 type: news
 publishedAt: "2026-11-04T14:57:00-05:00"
-updatedAt: "2026-11-04T14:57:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["greggs christmas menu 2026", "greggs festive bake 2026", "when is the greggs festive bake back", "greggs pigs under blankets toastie"]
@@ -53,13 +53,13 @@ hero:
     author: "Takeaway"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Takeaway"
 summary:
-  - "Greggs says its 2026 Christmas menu is in shop from 22nd October 2026, a Thursday."
+  - "Greggs said its 2026 Christmas menu was in shop from 22nd October 2026, a Thursday."
   - "Greggs lists six items: Festive Bake, Pepperoni Pizza with Hot Honey, Pigs in Blankets, Festive Flatbread, Festive Feast Baguette and Pigs Under Blankets Toastie."
   - "The Festive Bake has a new and improved recipe with cooked chicken, smoked ham hock and sweetcure bacon with soft cheese, Greggs says."
   - "In 2025 the menu was reported for 6 November, so the 2026 launch fell 15 days earlier in the calendar. Greggs gives no prices."
 faq:
-  - q: "When is the Greggs Festive Bake back in 2026?"
-    a: "Greggs says its Christmas menu is in shop from 22nd October 2026, a Thursday. Brit Brief and the Times and Star also reported 22 October."
+  - q: "When did the Greggs Festive Bake come back in 2026?"
+    a: "Greggs said its Christmas menu was in shop from 22nd October 2026, a Thursday. Brit Brief and the Times and Star also reported 22 October."
   - q: "What is in the Greggs Festive Bake 2026?"
     a: "Greggs says the new and improved recipe features cooked chicken, smoked ham hock and sweetcure bacon with soft cheese."
   - q: "What is on the Greggs Christmas menu 2026?"
@@ -113,11 +113,11 @@ downloads:
 draft: false
 ---
 
-**Greggs says its 2026 Christmas menu is "in shop from 22nd October 2026", a Thursday, according to the bakery chain's "Fill your festive feeds" page.** The page lists six items, led by a Festive Bake with a new recipe. It gives no prices, so this story sticks to what Greggs has said and marks what it has not.
+**Greggs says its 2026 Christmas menu was "in shop from 22nd October 2026", a Thursday, according to the bakery chain's "Fill your festive feeds" page.** The page lists six items, led by a Festive Bake with a new recipe. It gives no prices, so this story sticks to what Greggs has said and marks what it has not.
 
-## When is the Greggs Festive Bake back in 2026?
+## When did the Greggs Festive Bake come back in 2026?
 
-Greggs' page says: "Pop into your nearest Greggs from 22nd October and discover this year's Christmas menu." The page prints no publication date; the year comes from its own wording, "22nd October 2026". Two newsrooms give the same day. Brit Brief reported on 14 October 2026 that the pastry "will land in stores nationwide from Thursday, October 22". The Times and Star in Cumbria wrote that the line-up "arrives in Cumbria's Greggs branches on Thursday, October 22, as well as nationwide."
+Greggs' page says: "Pop into your nearest Greggs from 22nd October and discover this year's Christmas menu." The page prints no publication date; the year comes from its own wording, "22nd October 2026". Two newsrooms give the same day. Brit Brief reported on 14 October 2026 that the pastry "will land in stores nationwide from Thursday, October 22". The Times and Star in Cumbria wrote that the line-up "arrives in Cumbria's Greggs branches on Thursday, October 22, as well as nationwide." Both reports were written before the launch day.
 
 ## What is on the Greggs Christmas menu 2026?
 

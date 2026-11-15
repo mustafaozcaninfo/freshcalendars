@@ -3,7 +3,7 @@ title: "College Football Oct. 31, 2026 Scores: USC 30-18, Miami 38-35"
 description: "College football Oct. 31, 2026: University of Southern California (USC) beat No. 2 Ohio State 30-18, Miami won 38-35. Scores, times, TV, pick'em sheet."
 type: news
 publishedAt: "2026-10-29T23:45:00-04:00"
-updatedAt: "2026-11-08T02:45:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["college football week 10 scores 2026", "college football schedule week 10 2026", "college football games today", "top 25 college football games Saturday Oct 31"]
@@ -46,7 +46,7 @@ assets:
 hero:
   src: ../../../../assets/news/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv.webp
   alt: "College football Week 10 schedule 2026: Navy and Notre Dame players pile up at the line in a 2008 game"
-  caption: "File photo: Navy and Notre Dame met on Nov. 15, 2008. The two teams play again on Saturday, Oct. 31, 2026, at noon ET in Foxborough, Mass."
+  caption: "File photo: Navy and Notre Dame met on Nov. 15, 2008. The two teams met again on Saturday, Oct. 31, 2026, at noon ET in Foxborough, Mass."
   credit: "Photo: U.S. Navy photo by Mass Communication Specialist 2nd Class Tommy Gilligan / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -57,7 +57,7 @@ summary:
   - "University of Southern California (USC) beat No. 2 Ohio State 30-18, and No. 1 Miami held off North Carolina 38-35 on Saturday, Oct. 31, 2026, Fox Sports and theScore show."
   - "No. 3 Georgia beat No. 17 Florida 27-8 in Atlanta, and No. 5 Notre Dame beat Navy 35-13 in Foxborough, Mass."
   - "ESPN's schedule listed 18 games with a ranked team that day, with first kickoffs at noon Eastern Time (ET)."
-  - "The first College Football Playoff (CFP) rankings are due Tuesday, Nov. 3."
+  - "The first College Football Playoff (CFP) rankings of 2026 were scheduled for Tuesday, Nov. 3, and the weekly poll continues on Tuesdays."
 faq:
   - q: "Who won Ohio State vs. USC?"
     a: "USC beat No. 2 Ohio State 30-18 at the Los Angeles Memorial Coliseum on Saturday, Oct. 31, 2026, according to Fox Sports and theScore."
@@ -229,4 +229,4 @@ Yes. The one-page sheet lists all 18 games in kickoff order with the network, a 
 
 ## What comes after Week 10?
 
-The next AP poll is due Sunday, Nov. 1. The first College Football Playoff (CFP) rankings of 2026 come out Tuesday, Nov. 3 at 7 p.m. ET on ESPN; our [CFP rankings schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) has the dates through Selection Day, and the [conference championship games story](/news/college-football-conference-championship-games-2026-schedule-times-tv/) covers the title games. Times can change; check ESPN on game day.
+The first College Football Playoff (CFP) rankings of 2026 were scheduled for Tuesday, Nov. 3 at 7 p.m. ET on ESPN; our [CFP rankings schedule](/news/college-football-playoff-rankings-2026-schedule-dates-times/) has the dates through Selection Day, and the [conference championship games story](/news/college-football-conference-championship-games-2026-schedule-times-tv/) covers the title games.

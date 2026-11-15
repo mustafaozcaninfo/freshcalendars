@@ -1,9 +1,9 @@
 ---
-title: "Powerball Drawing Nov. 2, 2026: 10:59 p.m. ET, $793 Million Jackpot"
-description: "Powerball drawing Mon., Nov. 2, 2026, was set for 10:59 p.m. ET with an estimated $793 million jackpot. Times in four zones and every draw date to Dec. 30."
+title: "Powerball Numbers Nov. 2, 2026: 7-23-29-64-66, Powerball 23"
+description: "Powerball Nov. 2, 2026: 7, 23, 29, 64, 66 and Powerball 23; no jackpot winner on $804 million. Results since, draw times by zone and dates to Dec. 30."
 type: news
 publishedAt: "2026-11-01T01:46:00-04:00"
-updatedAt: "2026-11-01T02:45:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["powerball drawing tonight", "powerball drawing time", "powerball jackpot", "when is the next powerball drawing", "mega millions drawing days"]
@@ -12,7 +12,7 @@ assets:
   scene: none
   kicker: "Powerball · Mon., Nov. 2, 2026"
   date: "2026-11-02"
-  card: { top: "Next Powerball drawing", big: "10:59 p.m. ET", bottom: "Mon., Nov. 2 · $793 million jackpot" }
+  card: { top: "Powerball, Mon., Nov. 2", big: "7-23-29-64-66", bottom: "Powerball 23 · no jackpot winner" }
   printable:
     slug: powerball-mega-millions-drawing-calendar-nov-dec-2026
     group: powerball-2026
@@ -20,7 +20,6 @@ assets:
     subtitle: "Draw nights by week, with the time in Eastern Time"
     layout: list
     rows:
-      - ["Mon., Nov. 2 to Sun., Nov. 8", "Powerball Mon. 2, Wed. 4, Sat. 7; Mega Millions Tue. 3, Fri. 6"]
       - ["Mon., Nov. 9 to Sun., Nov. 15", "Powerball Mon. 9, Wed. 11, Sat. 14; Mega Millions Tue. 10, Fri. 13"]
       - ["Mon., Nov. 16 to Sun., Nov. 22", "Powerball Mon. 16, Wed. 18, Sat. 21; Mega Millions Tue. 17, Fri. 20"]
       - ["Mon., Nov. 23 to Sun., Nov. 29", "Powerball Mon. 23, Wed. 25, Sat. 28; Mega Millions Tue. 24, Fri. 27"]
@@ -29,14 +28,14 @@ assets:
       - ["Mon., Dec. 14 to Sun., Dec. 20", "Powerball Mon. 14, Wed. 16, Sat. 19; Mega Millions Tue. 15, Fri. 18"]
       - ["Mon., Dec. 21 to Sun., Dec. 27", "Powerball Mon. 21, Wed. 23, Sat. 26; Mega Millions Tue. 22, Fri. 25"]
       - ["Mon., Dec. 28 to Wed., Dec. 30", "Powerball Mon. 28, Wed. 30; Mega Millions Tue. 29"]
-    note: "Source: powerball.com (Powerball Mon., Wed., Sat. at 10:59 p.m. ET) and megamillions.com (Mega Millions Tue., Fri. at 11:00 p.m. ET), checked Nov. 1, 2026. Dates computed from those schedules."
-    inkSaver: true
-    description: "One-page Powerball and Mega Millions drawing calendar for Nov. and Dec. 2026 with draw nights by week, times in Eastern Time and a notes area."
-    alt: "Printable list of Powerball and Mega Millions drawing dates by week from Nov. 2 to Dec. 30, 2026"
+    note: "Source: powerball.com (Powerball Mon., Wed., Sat. at 10:59 p.m. ET, checked Nov. 14, 2026) and megamillions.com (Mega Millions Tue., Fri. at 11:00 p.m. ET, checked Nov. 1, 2026). Dates computed from those schedules."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
+    description: "One-page Powerball and Mega Millions drawing calendar from Nov. 9 to Dec. 30, 2026 with draw nights by week, times in Eastern Time and a notes area."
+    alt: "Printable list of Powerball and Mega Millions drawing dates by week from Nov. 9 to Dec. 30, 2026"
 hero:
   src: ../../../../assets/news/powerball-drawing-tonight-monday-november-2-2026-time-jackpot-793-million/powerball-drawing-tonight-monday-november-2-2026-time-jackpot-793-million.webp
-  alt: "Powerball drawing tonight: a hand marks numbers on a lottery play slip before the Nov. 2, 2026 draw"
-  caption: "Powerball lists its next drawing as Monday, Nov. 2, 2026, with an estimated $793 million jackpot as of Nov. 1."
+  alt: "Powerball drawing: a hand marks numbers on a lottery play slip before the Nov. 2, 2026 draw"
+  caption: "Powerball drew 7, 23, 29, 64, 66 and Powerball 23 on Monday, Nov. 2, 2026; powerball.com lists no jackpot winner that night."
   credit: "Photo: Santeri Viinamäki / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -45,19 +44,19 @@ hero:
     author: "Santeri Viinamäki"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Zunter"
 summary:
-  - "The next Powerball drawing is Monday, Nov. 2, 2026, at 10:59 p.m. Eastern Time (ET), which is 9:59 p.m. Central Time (CT) and 7:59 p.m. Pacific Time (PT), per powerball.com."
-  - "The estimated jackpot is $793 million, with a cash value of $339.9 million. The Saturday, Oct. 31 drawing (2, 4, 18, 50, 56, Powerball 20) had no jackpot winner."
+  - "The Monday, Nov. 2, 2026 Powerball drawing, at 10:59 p.m. Eastern Time (ET), drew 7, 23, 29, 64, 66 and Powerball 23 with Power Play 4x; powerball.com lists no jackpot winner and a jackpot of $804 million."
+  - "The Wednesday, Nov. 4 jackpot of $847 million was won by one ticket sold in New Jersey; the next drawing is Saturday, Nov. 14, with an estimated $63 million."
   - "Powerball draws Monday, Wednesday and Saturday. Mega Millions draws Tuesday and Friday at 11:00 p.m. ET."
-  - "The table lists every drawing from Nov. 2 to Dec. 30, 2026 with ET, CT, Mountain Time (MT) and PT times."
+  - "The table lists every drawing from Nov. 2 to Dec. 30, 2026 with ET, Central Time (CT), Mountain Time (MT) and Pacific Time (PT) times."
 faq:
-  - q: "What time is the Powerball drawing tonight?"
-    a: "Powerball says drawings are at 10:59 p.m. ET. The next one is Monday, Nov. 2, 2026, which is 9:59 p.m. CT, 8:59 p.m. MT and 7:59 p.m. PT."
-  - q: "What is the Powerball jackpot?"
-    a: "powerball.com lists an estimated jackpot of $793 million for Nov. 2, 2026, with a cash value of $339.9 million, as of Nov. 1."
-  - q: "When is the next Powerball drawing after Monday?"
-    a: "Wednesday, Nov. 4 and Saturday, Nov. 7, both at 10:59 p.m. ET, because Powerball draws every Monday, Wednesday and Saturday."
+  - q: "What time is the Powerball drawing?"
+    a: "Powerball says drawings are at 10:59 p.m. ET, which is 9:59 p.m. CT, 8:59 p.m. MT and 7:59 p.m. PT. The Nov. 2, 2026 drawing was at that time; the next is Saturday, Nov. 14."
+  - q: "Did anyone win the Powerball jackpot on Nov. 2, 2026?"
+    a: "No. powerball.com lists no jackpot winner for Nov. 2, when the jackpot was $804 million (cash value $344.6 million). A ticket sold in New Jersey won the $847 million jackpot on Wednesday, Nov. 4."
+  - q: "When is the next Powerball drawing?"
+    a: "Saturday, Nov. 14, 2026, at 10:59 p.m. ET, with an estimated jackpot of $63 million, per powerball.com. Powerball draws every Monday, Wednesday and Saturday."
   - q: "What days is Mega Millions drawn?"
-    a: "Megamillions.com says drawings are held Tuesday and Friday at 11:00 p.m. ET. The next ones are Tuesday, Nov. 3 and Friday, Nov. 6, 2026."
+    a: "Megamillions.com says drawings are held Tuesday and Friday at 11:00 p.m. ET. The next ones are Tuesday, Nov. 17 and Friday, Nov. 20, 2026."
   - q: "What is the last time to buy a Powerball ticket?"
     a: "It depends on where you buy. powerball.com says sales cut-off times vary by one to two hours before the drawing. Florida sells until 10:00 p.m. ET and Georgia stops at 10 p.m. on draw nights."
   - q: "How long do I have to claim a Powerball prize?"
@@ -65,10 +64,14 @@ faq:
   - q: "Are Powerball and Mega Millions drawn on holidays?"
     a: "We found no holiday change on the official sites. Christmas Day, Dec. 25, 2026, is a Friday, a Mega Millions night, so check before then."
 sources:
+  - title: "Powerball draw results, Nov. 2, 4, 7, 9 and 11, 2026"
+    url: "https://www.powerball.com/draw-result?gc=powerball&date=2026-11-02"
+    publisher: "Powerball"
+    date: "2026-11-14"
   - title: "Home | Powerball"
     url: "https://www.powerball.com/games/home"
     publisher: "Powerball"
-    date: "2026-11-01"
+    date: "2026-11-14"
   - title: "Powerball"
     url: "https://www.floridalottery.com/games/draw-games/powerball"
     publisher: "Florida Lottery"
@@ -102,28 +105,20 @@ related: [mega-millions-drawing-tuesday-november-3-2026-time-jackpot-482-million
 downloads:
   - group: "Powerball and Mega Millions Drawing Dates printables"
     title: "Powerball and Mega Millions Drawing Dates, Nov.-Dec. 2026"
-    description: "One-page Powerball and Mega Millions drawing calendar for Nov. and Dec. 2026 with draw nights by week, times in Eastern Time and a notes area."
+    description: "One-page Powerball and Mega Millions drawing calendar from Nov. 9 to Dec. 30, 2026 with draw nights by week, times in Eastern Time and a notes area."
     preview: ../../../../assets/news/powerball-2026/powerball-mega-millions-drawing-calendar-nov-dec-2026.png
-    alt: "Printable list of Powerball and Mega Millions drawing dates by week from Nov. 2 to Dec. 30, 2026"
+    alt: "Printable list of Powerball and Mega Millions drawing dates by week from Nov. 9 to Dec. 30, 2026"
     pdf: "/news/downloads/powerball-2026/powerball-mega-millions-drawing-calendar-nov-dec-2026.pdf"
     png: "/news/downloads/powerball-2026/powerball-mega-millions-drawing-calendar-nov-dec-2026.png"
-    pages: 1
-  - group: "Powerball and Mega Millions Drawing Dates printables"
-    title: "Powerball and Mega Millions Drawing Dates, Nov.-Dec. 2026 (ink saver)"
-    description: "One-page Powerball and Mega Millions drawing calendar for Nov. and Dec. 2026 with draw nights by week, times in Eastern Time and a notes area. Ink-saver version."
-    preview: ../../../../assets/news/powerball-2026/powerball-mega-millions-drawing-calendar-nov-dec-2026-ink.png
-    alt: "Printable list of Powerball and Mega Millions drawing dates by week from Nov. 2 to Dec. 30, 2026, ink-saver version"
-    pdf: "/news/downloads/powerball-2026/powerball-mega-millions-drawing-calendar-nov-dec-2026-ink.pdf"
-    png: "/news/downloads/powerball-2026/powerball-mega-millions-drawing-calendar-nov-dec-2026-ink.png"
     pages: 1
 draft: false
 ---
 
-**The next Powerball drawing is Monday, Nov. 2, 2026, at 10:59 p.m. Eastern Time (ET), with an estimated jackpot of $793 million (cash value $339.9 million), according to powerball.com as of Nov. 1.** That is 9:59 p.m. Central Time (CT), 8:59 p.m. Mountain Time (MT) and 7:59 p.m. Pacific Time (PT). The Saturday, Oct. 31 drawing had no jackpot winner; its winning numbers were 2, 4, 18, 50 and 56 with Powerball 20, and the Power Play was 3x, per powerball.com. Below are the drawing dates for both national games through December.
+**The Powerball drawing on Monday, Nov. 2, 2026, at 10:59 p.m. Eastern Time (ET) drew 7, 23, 29, 64 and 66 with Powerball 23 and Power Play 4x, and powerball.com lists no jackpot winner.** The jackpot was $804 million (cash value $344.6 million), up from the $793 million estimate on Nov. 1. The drawing was at 9:59 p.m. Central Time (CT), 8:59 p.m. Mountain Time (MT) and 7:59 p.m. Pacific Time (PT). Below are the results since, and the drawing dates for both national games through December.
 
 ## What time is the Powerball drawing?
 
-Powerball says drawings are held every Monday, Wednesday and Saturday at 10:59 p.m. ET at the Florida Lottery draw studio in Tallahassee. U.S. clocks went back an hour on Nov. 1, so all four mainland zones are on standard time for the Nov. 2 drawing.
+Powerball says drawings are held every Monday, Wednesday and Saturday at 10:59 p.m. ET at the Florida Lottery draw studio in Tallahassee. U.S. clocks went back an hour on Nov. 1, so all four mainland zones were on standard time for the Nov. 2 drawing.
 
 | Zone | Time on Monday, Nov. 2 |
 |---|---|
@@ -134,9 +129,21 @@ Powerball says drawings are held every Monday, Wednesday and Saturday at 10:59 p
 
 The Eastern time is powerball.com's. The other three rows are our conversions.
 
-## What is the Powerball jackpot for Nov. 2?
+## Powerball results since Nov. 2
 
-powerball.com lists an estimated jackpot of $793 million with a cash value of $339.9 million. It describes the annuity as paid in 30 graduated payments over 29 years. Georgia Lottery lists the jackpot odds as 1 in 292,201,338. Florida Lottery lists overall odds of 1 in 24.87 for any prize.
+On Nov. 1, powerball.com listed an estimated jackpot of $793 million (cash value $339.9 million) for Nov. 2; its results page for the drawing gives $804 million. The results below are from powerball.com's drawing pages, last read on Nov. 14.
+
+| Date | Winning numbers | Powerball | Power Play | Jackpot that night | Jackpot winner |
+|---|---|---|---|---|---|
+| Mon., Nov. 2 | 7, 23, 29, 64, 66 | 23 | 4x | $804 million ($344.6 million cash) | None |
+| Wed., Nov. 4 | 15, 34, 41, 53, 56 | 21 | 2x | $847 million ($363.1 million cash) | One ticket, sold in New Jersey |
+| Sat., Nov. 7 | 3, 36, 37, 56, 61 | 21 | 2x | $20 million ($8.6 million cash) | None |
+| Mon., Nov. 9 | 13, 34, 41, 45, 48 | 25 | 2x | $32 million ($13.5 million cash) | None |
+| Wed., Nov. 11 | 8, 42, 45, 51, 57 | 17 | 3x | $45 million ($19.4 million cash) | None |
+
+The Nov. 2 results page also lists one Match 5 ($1 million) winner in Delaware. The next drawing is Saturday, Nov. 14, 2026, at 10:59 p.m. ET, with an estimated jackpot of $63 million (cash value $26.3 million), per powerball.com on Nov. 14.
+
+powerball.com describes the annuity as paid in 30 graduated payments over 29 years. Georgia Lottery lists the jackpot odds as 1 in 292,201,338. Florida Lottery lists overall odds of 1 in 24.87 for any prize.
 
 A play costs $2. For an extra $1 per play, Power Play multiplies non-jackpot prizes by 2X, 3X, 4X, 5X or 10X. Double Play, also $1 extra, gives another chance in a separate drawing, and only some states offer it. powerball.com says rules differ in Idaho and Montana.
 
@@ -229,4 +236,4 @@ Lottery age limits are set by each state. If gambling is a problem for you or so
 
 ## Print the Powerball and Mega Millions drawing calendar
 
-The one-page printable lists both games' draw nights by week for November and December 2026, with the times in ET and a notes area for your numbers. Use the ink-saver version on a home printer. If you are also watching the month for shopping, see the [holiday deals this week](/news/holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks/), the [weekends until Christmas planner](/news/weekends-until-christmas-2026-saturday-planner-shipping-deadlines/) and the [year-end money deadlines](/news/year-end-money-deadlines-december-31-2026/).
+The one-page printable lists both games' draw nights by week from Nov. 9 through December 2026, with the times in ET and a notes area for your numbers. Each row is one week, Monday to Sunday; the weeks end Nov. 15, Nov. 22, Nov. 29, Dec. 6, Dec. 13, Dec. 20 and Dec. 27. If you are also watching the month for shopping, see the [holiday deals this week](/news/holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks/), the [weekends until Christmas planner](/news/weekends-until-christmas-2026-saturday-planner-shipping-deadlines/) and the [year-end money deadlines](/news/year-end-money-deadlines-december-31-2026/).

@@ -3,6 +3,7 @@ title: "The Year 2038 Problem: 32-Bit Clocks Run Out Jan. 19, 2038"
 description: "The Year 2038 problem hits at 03:14:07 UTC on Jan. 19, 2038, when signed 32-bit Unix time maxes out. Times by zone, the 2106 limit and a checklist."
 type: explainer
 publishedAt: "2026-11-04T15:09:00-05:00"
+updatedAt: "2026-11-14T17:01:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["year 2038 problem", "unix time 2038", "y2038", "2038 bug date", "32-bit time_t"]
@@ -67,6 +68,7 @@ sources:
   - title: "time, _time32, _time64"
     url: "https://learn.microsoft.com/en-us/cpp/c-runtime-library/reference/time-time32-time64?view=msvc-170"
     publisher: "Microsoft Learn"
+    date: "2026-11-14"
   - title: "glibc 2.34 release notes (release branch copy)"
     url: "https://github.com/bminor/glibc/blob/release/2.34/master/NEWS"
     publisher: "glibc project"
@@ -147,7 +149,7 @@ Microsoft also says its default time type "is equivalent to __time64_t by defaul
 
 ## How many days are left until Jan. 19, 2038?
 
-From Jan. 1, 2027 to Jan. 19, 2038 is 4,036 days. As of Nov. 4, 2026, the calendar date is 4,094 days away. Both counts are our calculation and include every leap day in between; the [leap year rules](/news/what-is-a-leap-year/) explain which years those are.
+From Jan. 1, 2027 to Jan. 19, 2038 is 4,036 days. As of Nov. 14, 2026, the calendar date is 4,084 days away. Both counts are our calculation and include every leap day in between; the [leap year rules](/news/what-is-a-leap-year/) explain which years those are.
 
 ## What have operating systems said about 64-bit time?
 
@@ -156,7 +158,7 @@ These are the statements we found from the projects themselves:
 - **glibc.** The 2.34 release notes say it will "Add support for 64-bit time_t on configurations like x86 where time_t is traditionally 32-bit." It adds: "Although time_t still defaults to 32-bit on these configurations, this default may change in future versions." It is "enabled with the _TIME_BITS preprocessor macro set to 64."
 - **glibc 2.40.** The 2.40 release notes for struct lastlog, utmp and utmpx says: "This allows these fields to store timestamps beyond the year 2038, until the year 2106." That is the unsigned limit in the table above.
 - **Debian.** The Debian Wiki says that for the application binary interface (ABI), "it was decided to do an in-architecture ABI transition for all 32-bit architectures except i386 and hurd-i386," and that "The actual transition began on February 27th, 2024." The page was last modified Aug. 10, 2025.
-- **Linux kernel.** In a Jan. 29, 2020 pull request, developer Arnd Bergmann wrote that Linux 5.6 "should be the first release that can serve as a base for a 32-bit system designed to run beyond year 2038." The Register reported it on Jan. 30, 2020. That is the developer's stated goal for the release, not a statement that the problem is solved everywhere.
+- **Linux kernel.** In a Jan. 29, 2020 pull request, developer Arnd Bergmann wrote that Linux 5.6 "should be the first release that can serve as a base for a 32-bit system designed to run beyond year 2038." The Register reported it on Jan. 30, 2020. That is the developer's goal for the release, not a statement that the problem is solved everywhere.
 
 We did not find a statement from the Cybersecurity and Infrastructure Security Agency (CISA) or the National Institute of Standards and Technology (NIST) on this date, and we do not name any product that will fail.
 

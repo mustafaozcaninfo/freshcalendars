@@ -3,7 +3,7 @@ title: "Warm Home Discount 2026-27: £150 Off Bills, Who Qualifies"
 description: "Warm Home Discount 2026-27 is £150 off your electricity bill; the qualifying date is 23 August 2026. Benefit checklist, Scotland steps, printable sheet."
 type: explainer
 publishedAt: "2026-11-04T11:54:00-05:00"
-updatedAt: "2026-11-04T11:54:00-05:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["warm home discount 2026", "warm home discount 2026/27", "warm home discount eligibility", "warm home discount qualifying date", "warm home discount £150"]
@@ -23,7 +23,7 @@ summary:
   - "GOV.UK says the Warm Home Discount is a one-off £150 discount off your electricity bill. The money is not paid to you."
   - "For winter 2026 to 2027 in England and Wales, the qualifying date is 23 August 2026, according to the Department for Energy Security and Net Zero (DESNZ)."
   - "The 2026-27 statement lists four qualifying benefits: Pension Credit, income-related Employment and Support Allowance (ESA), Housing Benefit and Universal Credit."
-  - "In Scotland, the core group gets a letter. A broader group must apply to its supplier. If you get no letter, contact the scheme before 26 February 2027."
+  - "In Scotland, the core group gets a letter. A broader group must apply to its supplier. If you get no letter, contact the scheme before 26 February 2027. GOV.UK gives 31 March 2027 as the bill date."
 faq:
   - q: "How much is the Warm Home Discount in 2026-27?"
     a: "GOV.UK describes it as a one-off £150 discount off your electricity bill. The money is not paid to you."
@@ -41,7 +41,7 @@ sources:
   - title: "Warm Home Discount Scheme: Overview"
     url: "https://www.gov.uk/the-warm-home-discount-scheme"
     publisher: "GOV.UK"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Warm Home Discount: eligibility statement, England and Wales, 2026 to 2027 scheme year"
     url: "https://www.gov.uk/government/publications/warm-home-discount-eligibility-statement-england-and-wales-2026-to-2027-scheme-year"
     publisher: "Department for Energy Security and Net Zero (DESNZ)"
@@ -49,15 +49,19 @@ sources:
   - title: "Warm Home Discount Scheme: If you live in Scotland"
     url: "https://www.gov.uk/the-warm-home-discount-scheme/if-you-live-in-scotland"
     publisher: "GOV.UK"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Warm Home Discount Scheme: If you do not get a letter"
     url: "https://www.gov.uk/the-warm-home-discount-scheme/get-help"
     publisher: "GOV.UK"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Warm Home Discount: eligibility statement, England and Wales, 2025 to 2026 scheme year"
     url: "https://www.gov.uk/government/publications/warm-home-discount-eligibility-statement-england-and-wales-2025-to-2026-scheme-year/warm-home-discount-eligibility-statement-england-and-wales-2025-to-2026"
     publisher: "Department for Energy Security and Net Zero (DESNZ)"
     date: "2025-09-30"
+  - title: "Warm Home Discount Scheme: If you live in England or Wales"
+    url: "https://www.gov.uk/the-warm-home-discount-scheme/if-you-live-in-england-and-wales"
+    publisher: "GOV.UK"
+    date: "2026-11-14"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
@@ -75,11 +79,11 @@ assets:
     group: warm-home-discount-2026
     title: "Warm Home Discount 2026-27 Eligibility Checklist"
     subtitle: "Dates to mark and what to check, England, Wales and Scotland"
-    note: "Source: GOV.UK Warm Home Discount Scheme pages; DESNZ eligibility statement, England and Wales, 2026 to 2027 (published 7 August 2026). Letters arrive between late October 2026 and early January 2027 in Scotland."
-    description: "One-page Warm Home Discount 2026-27 sheet: the 23 August 2026 qualifying date, the 26 February 2027 contact deadline and the 31 March 2027 Scotland bill date."
-    alt: "Printable Warm Home Discount 2026-27 sheet with the qualifying date, contact deadline and Scotland bill date"
+    note: "Source: GOV.UK Warm Home Discount Scheme pages; DESNZ eligibility statement, England and Wales, 2026 to 2027 (published 7 August 2026). Letters arrive between late October 2026 and early January 2027 in England, Wales and Scotland."
+    description: "One-page Warm Home Discount 2026-27 sheet: the 23 August 2026 qualifying date, the 26 February 2027 contact deadline and the 31 March 2027 bill date."
+    alt: "Printable Warm Home Discount 2026-27 sheet with the qualifying date, contact deadline and bill date"
     data:
-      target: { date: "2027-03-31", label: "Scotland: discount on bill by" }
+      target: { date: "2027-03-31", label: "Discount on your bill by" }
       columns: ["Who", "What to check or do"]
       rows:
         - date: "2026-08-23"
@@ -96,31 +100,31 @@ assets:
           quote: "You must contact them before 26 February 2027."
         - date: "2027-03-31"
           cells:
-            Who: { text: "Scotland", src: 3 }
-            What to check or do: { text: "Your supplier applies the discount to your bill by this date if you are eligible", src: 3 }
-          src: 3
-          quote: "If you're eligible, your electricity supplier will apply the discount to your bill by 31 March 2027."
+            Who: { text: "England, Wales and Scotland", src: 6 }
+            What to check or do: { text: "Supplier applies the discount to your bill by this date", src: 6 }
+          src: 6
+          quote: "Your electricity supplier will apply the discount to your bill by 31 March 2027."
 downloads:
   - group: "Warm Home Discount 2026-27 Eligibility Checklist printables"
     title: "Warm Home Discount 2026-27 Eligibility Checklist"
-    description: "One-page Warm Home Discount 2026-27 sheet: the 23 August 2026 qualifying date, the 26 February 2027 contact deadline and the 31 March 2027 Scotland bill date."
+    description: "One-page Warm Home Discount 2026-27 sheet: the 23 August 2026 qualifying date, the 26 February 2027 contact deadline and the 31 March 2027 bill date."
     preview: ../../../../assets/news/warm-home-discount-2026/warm-home-discount-2026-27-checklist.png
-    alt: "Printable Warm Home Discount 2026-27 sheet with the qualifying date, contact deadline and Scotland bill date"
+    alt: "Printable Warm Home Discount 2026-27 sheet with the qualifying date, contact deadline and bill date"
     pdf: "/news/downloads/warm-home-discount-2026/warm-home-discount-2026-27-checklist.pdf"
     png: "/news/downloads/warm-home-discount-2026/warm-home-discount-2026-27-checklist.png"
     pages: 1
   - group: "Warm Home Discount 2026-27 Eligibility Checklist printables"
     title: "Warm Home Discount 2026-27 Eligibility Checklist (A4)"
-    description: "One-page Warm Home Discount 2026-27 sheet: the 23 August 2026 qualifying date, the 26 February 2027 contact deadline and the 31 March 2027 Scotland bill date. A4 paper."
+    description: "One-page Warm Home Discount 2026-27 sheet: the 23 August 2026 qualifying date, the 26 February 2027 contact deadline and the 31 March 2027 bill date. A4 paper."
     preview: ../../../../assets/news/warm-home-discount-2026/warm-home-discount-2026-27-checklist-a4.png
-    alt: "Printable Warm Home Discount 2026-27 sheet with the qualifying date, contact deadline and Scotland bill date, A4"
+    alt: "Printable Warm Home Discount 2026-27 sheet with the qualifying date, contact deadline and bill date, A4"
     pdf: "/news/downloads/warm-home-discount-2026/warm-home-discount-2026-27-checklist-a4.pdf"
     png: "/news/downloads/warm-home-discount-2026/warm-home-discount-2026-27-checklist-a4.png"
     pages: 1
 draft: false
 ---
 
-The Warm Home Discount is a one-off £150 discount off your electricity bill, according to GOV.UK, and for winter 2026 to 2027 the qualifying date in England and Wales is 23 August 2026, the Department for Energy Security and Net Zero (DESNZ) says. The money is not paid to you. This story adds an eligibility checklist by benefit for England and Wales and for Scotland, a timeline to 31 March 2027, a side-by-side with the Cold Weather Payment and Christmas Bonus, and a printable sheet.
+The Warm Home Discount is a one-off £150 discount off your electricity bill, according to GOV.UK, and for winter 2026 to 2027 the qualifying date in England and Wales is 23 August 2026, the Department for Energy Security and Net Zero (DESNZ) says. The money is not paid to you. It adds an eligibility checklist by benefit for England and Wales and for Scotland, a timeline to 31 March 2027, a side-by-side with the Cold Weather Payment and Christmas Bonus, and a printable sheet.
 
 ## What is the Warm Home Discount and how is it paid?
 
@@ -150,7 +154,7 @@ The 2026-27 statement merges what were Core Groups 1 and 2 into one "core group"
 | Caravan | "Caravans will still be generally excluded from the scheme" |
 | Park home | A separate route for Universal Credit recipients with an income of less than £1,758 for at least one relevant assessment period |
 
-Park home applications "are only open for a short period", and the statement gives no dates here. The statement also sets no fixed number of eligible households: "we do not set a finite number of eligible households in this eligibility statement." It refers to "the removal of the high-cost-to-heat threshold", and this story does not go further than that wording.
+Park home applications "are only open for a short period", and the statement gives no dates here. The statement also sets no fixed number of eligible households: "we do not set a finite number of eligible households in this eligibility statement." It refers to "the removal of the high-cost-to-heat threshold", and we do not go further than that wording.
 
 ## How does the 2026-27 benefits list compare with last year's?
 
@@ -162,23 +166,23 @@ The Office of Gas and Electricity Markets (Ofgem) eligibility page still lists s
 
 GOV.UK says the core group, for example people on Pension Credit, get the discount without applying and receive a letter instead. A broader group "must apply directly to their energy supplier, which may have extra eligibility criteria."
 
-Letters arrive "between late October 2026 and early January 2027", per GOV.UK. If you are eligible, your electricity supplier will apply the discount to your bill by 31 March 2027. GOV.UK states that 31 March date on its Scotland page only, so this story does not apply it to England and Wales.
+Letters arrive "between late October 2026 and early January 2027", per GOV.UK. If you are eligible, your electricity supplier will apply the discount to your bill by 31 March 2027. GOV.UK gives the same letter window and the same 31 March date on its England and Wales page.
 
 ## What do I do if I do not get a letter?
 
-GOV.UK says to contact the Warm Home Discount Scheme if you do not get a letter by early January 2027 and you think you are eligible. You must contact them before 26 February 2027. The telephone number is 0800 030 9322, open Monday to Friday, 8am to 6pm.
+GOV.UK says to contact the Warm Home Discount Scheme if you do not get a letter by early January 2027 and you think you are eligible. You must contact them before 26 February 2027. If your letter says you need to give more information, it tells you to call the helpline by that date. The telephone number is 0800 030 9322, open Monday to Friday, 8am to 6pm.
 
-GOV.UK does not say in the pages we used when letters start in England and Wales, so none is given here.
+In England and Wales, GOV.UK says you will get a letter between late October 2026 and early January 2027 if you are eligible, or might be eligible and need to give more information. If you are eligible, the letter confirms you do not need to do anything.
 
 ## Warm Home Discount timeline: dates to mark
 
 | Date | What happens | Source |
 |---|---|---|
 | Sunday 23 Aug. 2026 | Qualifying date for winter 2026 to 2027 | DESNZ statement, GOV.UK Scotland page |
-| Late Oct. 2026 to early Jan. 2027 | Letters arrive (stated for Scotland) | GOV.UK Scotland page |
+| Late Oct. 2026 to early Jan. 2027 | Letters arrive | GOV.UK England and Wales page, Scotland page |
 | Early Jan. 2027 | If no letter, contact the scheme | GOV.UK |
 | Before Friday 26 Feb. 2027 | Last chance to contact the scheme | GOV.UK |
-| Wednesday 31 March 2027 | Scotland: supplier applies the discount by this date | GOV.UK Scotland page |
+| Wednesday 31 March 2027 | Supplier applies the discount to your bill by this date | GOV.UK England and Wales page, Scotland page |
 
 The [February printable calendar](/february-calendars.html) and the [printable yearly calendar](/printable-yearly-calendar.html) have room to mark the contact deadline and the March date.
 
@@ -190,12 +194,10 @@ These are three different payments with different triggers. The facts below come
 |---|---|---|---|
 | Amount | £150 off your electricity bill | £25 for each 7-day period of very cold weather | £10 one-off, tax-free |
 | Paid to you? | No, a discount on the bill | Yes, into the account your benefits are paid into | Yes, paid automatically |
-| Timing | Letters from late Oct. 2026; Scotland bill discount by 31 Mar. 2027 | 1 Nov. 2026 to 31 Mar. 2027, within 14 working days of each cold period | Before Christmas |
+| Timing | Letters from late Oct. 2026; discount on the bill by 31 Mar. 2027 | 1 Nov. 2026 to 31 Mar. 2027, within 14 working days of each cold period | Before Christmas |
 | Apply? | Usually automatic; may need to apply in Scotland | No, automatic | No, automatic |
 | Benefits that count | Four listed (England and Wales) | Pension Credit, income-related ESA, Universal Credit, Support for Mortgage Interest | 24 listed; Universal Credit alone is not on the list |
 
 ## Warm Home Discount printable sheet
 
-The downloads below hold a one-page sheet with the three dated rows, the 23 August 2026 qualifying date, the 26 February 2027 contact deadline and the 31 March 2027 Scotland date, and what to check on each.
-
-*Checked 4 November 2026 against GOV.UK and the DESNZ statement. The England and Wales letter start month is not stated on those pages.*
+The downloads below hold a one-page sheet with the three dated rows, the 23 August 2026 qualifying date, the 26 February 2027 contact deadline and the 31 March 2027 bill date, and what to check on each.

@@ -1,8 +1,9 @@
 ---
 title: "Ontario Trillium Benefit November 2026: Paid Tuesday, Nov. 10"
-description: "The Ontario Trillium Benefit (OTB) is paid Tuesday, Nov. 10, 2026, then Dec. 10, says the Canada Revenue Agency. Credit maximums and a printable."
+description: "The Ontario Trillium Benefit (OTB) was paid Tuesday, Nov. 10, 2026; next is Dec. 10, says the Canada Revenue Agency. Credit maximums and a printable."
 type: news
 publishedAt: "2026-11-06T14:06:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Ontario Trillium Benefit November 2026", "OTB payment date November 10", "OTB December 2026", "Ontario Trillium Benefit payment dates 2026"]
@@ -10,7 +11,7 @@ dateline: "Toronto"
 hero:
   src: ../../../../assets/news/ontario-trillium-benefit-november-2026-payment-date-otb/ontario-trillium-benefit-november-2026-payment-date-otb.webp
   alt: "Ontario Legislative Building at Queen's Park in Toronto with flags, for the Ontario Trillium Benefit November 2026 payment date"
-  caption: "The Ontario Legislative Building at Queen's Park in Toronto, file photo. The Canada Revenue Agency lists Nov. 10, 2026 as the Ontario Trillium Benefit payment date."
+  caption: "The Ontario Legislative Building at Queen's Park in Toronto, file photo. The Canada Revenue Agency listed Nov. 10, 2026 as the Ontario Trillium Benefit payment date."
   credit: "Photo: Benson Kua from Toronto, Canada / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -19,13 +20,13 @@ hero:
     author: "Benson Kua from Toronto, Canada"
     authorUrl: "https://www.flickr.com/photos/91545223@N00"
 summary:
-  - "The Canada Revenue Agency (CRA) lists Tuesday, Nov. 10, 2026 and Thursday, Dec. 10, 2026 as the next two Ontario Trillium Benefit (OTB) payment dates."
+  - "The Canada Revenue Agency (CRA) listed Tuesday, Nov. 10, 2026 as the November Ontario Trillium Benefit (OTB) payment date; the next is Thursday, Dec. 10, 2026."
   - "The CRA says OTB payments are issued on the 10th of each month for the July 2026 to June 2027 benefit year."
   - "The OTB combines three credits; the Government of Ontario lists 2026-27 maximums of $189 to $290 (Northern Ontario Energy Credit), $1,307 or $1,488 (energy and property tax credit) and up to $378 (sales tax credit)."
   - "The CRA has not yet posted the January to June 2027 OTB dates."
 faq:
   - q: "When is the Ontario Trillium Benefit paid in November 2026?"
-    a: "The CRA lists Tuesday, Nov. 10, 2026. The December payment is listed for Thursday, Dec. 10, 2026."
+    a: "The CRA listed Tuesday, Nov. 10, 2026. The next payment, for December, is listed for Thursday, Dec. 10, 2026."
   - q: "What if my Ontario Trillium Benefit payment has not arrived?"
     a: "The CRA says to wait 10 working days after the payment date before contacting it."
   - q: "Can I get the whole Ontario Trillium Benefit in one payment?"
@@ -71,7 +72,7 @@ assets:
   overlay: true
   kicker: "Ontario Trillium Benefit · 2026"
   date: "2026-11-10"
-  card: { top: "Next OTB payment", big: "Tue., Nov. 10", bottom: "Then Thu., Dec. 10" }
+  card: { top: "Next OTB payment", big: "Thu., Dec. 10", bottom: "After Tue., Nov. 10" }
   printable:
     kit: deadline-matrix
     slug: ontario-trillium-benefit-payment-dates-2026
@@ -91,7 +92,7 @@ assets:
         - { label: "January to June 2027 OTB payment dates", why: "The CRA payment dates page had not posted them when we read the page" }
 ---
 
-The Canada Revenue Agency (CRA) lists **Tuesday, Nov. 10, 2026** as the Ontario Trillium Benefit (OTB) payment date, with the next one on **Thursday, Dec. 10**. Both dates come from the CRA's payment dates page, last updated Oct. 14, 2026. The benefit year runs from July 2026 to June 2027, and the CRA says payments "will be issued on the 10th of each month, starting in July 2026."
+The Canada Revenue Agency (CRA) listed **Tuesday, Nov. 10, 2026** as the Ontario Trillium Benefit (OTB) payment date, with the next one on **Thursday, Dec. 10**. Both dates come from the CRA's payment dates page, last updated Oct. 14, 2026. The benefit year runs from July 2026 to June 2027, and the CRA says payments "will be issued on the 10th of each month, starting in July 2026."
 
 For other federal payments in the same weeks, see our guide to [Canada Pension Plan (CPP), Old Age Security (OAS) and Canada Child Benefit (CCB) dates for November and December 2026](/news/canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb/).
 
@@ -132,7 +133,7 @@ The CRA's Ontario page puts the sales tax credit at a "maximum annual credit of 
 
 For an entitlement over $500, the Government of Ontario says you can be paid monthly from July 2026 or in one payment in June 2027, with "the same total amount regardless of which option you choose." If your 2026 annual entitlement is $500 or less, the CRA says it is issued in one lump-sum payment in the first payment month, usually July.
 
-## What if the payment has not arrived by Nov. 10?
+## What if the payment has not arrived?
 
 The CRA says to wait 10 working days after the payment date before contacting it. Count from Nov. 10 for the November payment and from Dec. 10 for the December one.
 

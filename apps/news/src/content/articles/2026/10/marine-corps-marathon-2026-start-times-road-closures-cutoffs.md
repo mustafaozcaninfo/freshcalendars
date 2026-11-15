@@ -3,7 +3,7 @@ title: "Marine Corps Marathon 2026: Start 7:20 a.m., Beat the Bridge 1:15 p.m."
 description: "The 51st Marine Corps Marathon was Sunday, Oct. 25, 2026; all runners started at 7:20 a.m. ET. Beat the Bridge and gauntlet cutoffs and Arlington closures."
 type: news
 publishedAt: "2026-10-25T02:50:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Marine Corps Marathon 2026", "Marine Corps Marathon road closures", "Marine Corps Marathon start time", "beat the bridge time"]
@@ -18,6 +18,7 @@ assets:
     group: marine-corps-marathon-2026
     title: "Marine Corps Marathon 2026 Race-Day Timeline"
     subtitle: "Starts, course cutoffs and closures, Sunday, Oct. 25, 2026"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     layout: timeline
     rows:
       - ["2:30 a.m.", "Metrobus detours begin"]
@@ -111,9 +112,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Sun., Oct. 25, 2026, 5:35 p.m. ET.</b> The 51st Marine Corps Marathon was run on Sunday morning. Marine Corps Maj. Kyle King won the men's race in 2:17:31, his third straight win, and Kaylee Slade won the women's race in 2:44:34, Stars and Stripes reported. The official results page had not been updated for 2026 when we checked. The times and closures below are the plan as published before the race.</p>
-
 The 51st Marine Corps Marathon was on Sunday, Oct. 25, 2026, and all runners started at 7:20 a.m. Eastern Daylight Time (EDT), according to the Marine Corps Marathon race-day page. Wheels started at 7:05 a.m. and Duos at 7:07 a.m. Every participant had to pass 14th and D Streets by 1:15 p.m., the "Beat the Bridge" time, and Arlington County listed road closures from about 3:00 a.m.
+
+Marine Corps Maj. Kyle King won the men's race in 2:17:31, his third straight win, and Kaylee Slade won the women's race in 2:44:34, Stars and Stripes reported. The official results page was not available to us, so the times and closures below are the plan as published before the race.
 
 The marathon calls itself "the third largest marathon in the United States." The U.S. stayed on daylight time until Nov. 1, so every time below is EDT and no clock change affected race morning. The official site listed no 10K or 50K on race day.
 

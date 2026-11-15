@@ -3,6 +3,7 @@ title: "Royal Winter Fair 2026: Nov. 6 to 15, Daily Hours and Horse Show"
 description: "The Royal Agricultural Winter Fair runs Nov. 6 to 15, 2026, at Toronto's Exhibition Place. Daily hours, Horse Show tickets from $45, butter sculpting."
 type: news
 publishedAt: "2026-10-30T02:35:00-04:00"
+updatedAt: "2026-11-14T17:09:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Royal Agricultural Winter Fair 2026", "Royal Winter Fair 2026 dates", "Royal Horse Show 2026 schedule", "Royal Winter Fair hours", "butter sculpture Royal Winter Fair 2026"]
@@ -33,12 +34,12 @@ faq:
   - q: "Is there a Royal Horse Show every day?"
     a: "No. The fair lists no show on Monday, Nov. 9. Every other day from Nov. 6 to 15 has at least one performance."
   - q: "How much does parking cost at the Royal Winter Fair?"
-    a: "Surface lots and the Enercare indoor lot are $18 daily and $15 after 6 p.m., according to the fair's plan-a-visit page, and the prices are subject to change."
+    a: "Regular daily parking is $21 at the surface lots and $24 in the Enercare Centre indoor lot, according to the fair's plan-a-visit page, which says rates are subject to change and rise $3 in the indoor lot on peak days."
 sources:
   - title: "Entertainment & Attractions | The Royal Agricultural Winter Fair"
     url: "https://www.royalfair.org/attractions/"
     publisher: "The Royal Agricultural Winter Fair"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Royal Agricultural Winter Fair 2026 | Exhibition Place"
     url: "https://www.explace.on.ca/event/royal-agricultural-winter-fair-2026/"
     publisher: "Exhibition Place"
@@ -54,7 +55,7 @@ sources:
   - title: "Plan a Visit | The Royal Agricultural Winter Fair"
     url: "https://www.royalfair.org/plan-a-visit/"
     publisher: "The Royal Agricultural Winter Fair"
-    date: "2026-10-30"
+    date: "2026-11-14"
   - title: "Fair Program November 6-15, 2026"
     url: "https://www.royalfair.org/wp-content/uploads/2026/10/RAWF_2026_Daily_ShowGuide_WEB.pdf"
     publisher: "The Royal Agricultural Winter Fair"
@@ -90,6 +91,7 @@ assets:
   date: "2026-11-06"
   card: { top: "The 104th Royal opens", big: "Fri., Nov. 6", bottom: "Exhibition Place, Toronto" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: royal-agricultural-winter-fair-2026-daily-schedule
     group: royal-winter-fair-2026
     title: "Royal Agricultural Winter Fair 2026 Daily Schedule"
@@ -162,7 +164,7 @@ There is an extra 4:30 p.m. show on Fri., Nov. 6, Sun., Nov. 8, Fri., Nov. 13 an
 
 The fair's plan-a-visit page says the GO train drops you beside Exhibition Place. By Toronto Transit Commission (TTC), take the Bloor subway to Dufferin Station and the No. 29 bus south, or go to Bathurst Station and take the No. 511 streetcar south.
 
-Parking at the surface lots and the Enercare indoor lot is $18 daily and $15 after 6 p.m., subject to change. The gate takes Visa, Mastercard, debit, Visa Debit and cash. A GO Transit combo ticket (fair admission plus GO) is $48.28 for a single rider and $103 for a family of two adults and two kids.
+Regular daily parking is $21 at the surface lots and $24 at the Enercare Centre indoor lot, and the indoor rate rises $3 on peak days, according to the page. Rates are subject to change; the fair's page no longer shows an after-6 p.m. rate. The gate takes Visa, Mastercard, debit, Visa Debit and cash. A GO Transit combo ticket (fair admission plus GO) is $48.28 for a single rider and $103 for a family of two adults and two kids.
 
 ## Which dates should you mark?
 
@@ -170,4 +172,4 @@ The printable lists each day of the fair with its hours, Horse Show times and th
 
 For other Toronto and Canadian dates this month, see the [Toronto Santa Claus Parade 2026 story](/news/toronto-santa-claus-parade-2026-sunday-november-22-route-citytv/) and the [Grey Cup 2026 story](/news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/).
 
-Times and prices can change, and we checked the official pages on Oct. 30, 2026. General admission prices are still to confirm.
+Times and prices can change, and we rechecked the fair's plan-a-visit and attractions pages on Nov. 14, 2026, the day before the closing Sunday. General admission prices are still to confirm.

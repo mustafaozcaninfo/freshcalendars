@@ -1,9 +1,9 @@
 ---
-title: "Children in Need 2026: Appeal Night Is Friday, Nov. 13"
-description: "Children in Need 2026 Appeal Night is Friday, Nov. 13, per the charity. The start time is not yet announced. Countdown table and printable planner."
+title: "Children in Need 2026: Appeal Night Was Friday, Nov. 13"
+description: "Children in Need 2026 Appeal Night was Friday, Nov. 13, live on BBC One and iPlayer from 7pm UK time, per the charity. Hosts, donation ways and a planner."
 type: news
 publishedAt: "2026-10-27T11:55:00-04:00"
-updatedAt: "2026-11-04T13:16:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Children in Need 2026", "when is Children in Need 2026", "Children in Need 2026 date", "Pudsey day 2026", "Children in Need appeal night"]
@@ -11,7 +11,7 @@ dateline: "London"
 hero:
   src: ../../../../assets/news/children-in-need-2026-date-friday-13-november-appeal-night/children-in-need-2026-date-friday-13-november-appeal-night.webp
   alt: "Children in Need 2026: a giant Pudsey Bear display at Fleet Services in Hampshire"
-  caption: "BBC Children in Need's website names Friday, Nov. 13 as Appeal Night 2026; the show's start time is not yet announced."
+  caption: "BBC Children in Need held Appeal Night 2026 on Friday, Nov. 13, live on BBC One and iPlayer from 7pm UK time, the charity's website says."
   credit: "Photo: Oscar Taylor / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -19,21 +19,21 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Pudsey_at_Fleet_Services_-_geograph.org.uk_-_8172883.jpg"
     author: "Oscar Taylor"
 summary:
-  - "BBC Children in Need's website names Appeal Night 2026 as Friday, Nov. 13, which is 17 days after Oct. 27."
-  - "The 2026 show start time is not yet announced. BBC Children in Need says the Appeal will broadcast live from Salford on BBC One and iPlayer."
+  - "BBC Children in Need held Appeal Night 2026 on Friday, Nov. 13, live on BBC One and iPlayer from 7pm UK time (2 p.m. Eastern Time, our conversion)."
+  - "The charity says the show was a three-hour broadcast from MediaCityUK in Salford, hosted by Alex Jones, Mel Giedroyc, Rylan, Sara Cox and Tyler West. We found no official 2026 total yet."
   - "In 2025 the 45th Appeal show on Friday, Nov. 14 raised £45.5m, the charity's press release said."
   - "The donate page lists phone, online, Text to Donate and post, and says not to send cash by post."
 faq:
-  - q: "When is Children in Need 2026?"
-    a: "Appeal Night is Friday, Nov. 13, 2026, according to the BBC Children in Need website. The start time is not yet announced."
-  - q: "What time does Children in Need 2026 start?"
-    a: "The start time is not yet announced on an official page. We will add it when the charity or the BBC publishes it."
-  - q: "Is Children in Need on Nov. 20, 2026?"
+  - q: "When was Children in Need 2026?"
+    a: "Appeal Night was Friday, Nov. 13, 2026, according to the BBC Children in Need website."
+  - q: "What time did Children in Need 2026 start?"
+    a: "7pm UK time on BBC One and iPlayer, according to the charity's Appeal show page. That was 2 p.m. Eastern Time, by our conversion (the UK was on Greenwich Mean Time and the US East on standard time)."
+  - q: "Was Children in Need on Nov. 20, 2026?"
     a: "No. Some calendar sites list 20 November, but the charity's own website says Appeal Night is Friday, 13th November."
   - q: "How do I donate to Children in Need?"
     a: "The charity's donate page lists a phone line (0345 7 33 22 33), a Welsh language line (0345 607 0011), online donations, Text to Donate and post. It says not to send cash by post."
   - q: "Who presents Children in Need 2026?"
-    a: "The Irish News, citing the PA news agency, reports that Alex Jones presents for the first time and that Rylan Clark and Sara Cox are on the presenting team. We have not found an official full line-up."
+    a: "The charity's Appeal show page lists Alex Jones, Mel Giedroyc, Rylan, Sara Cox and Tyler West as hosts of the three-hour show from MediaCityUK in Salford."
 sources:
   - title: "By the side of every child- BBC Children in Need"
     url: "https://www.bbcchildreninneed.co.uk/"
@@ -63,7 +63,7 @@ sources:
   - title: "Appeal show - 13th November 2026 - BBC Children in Need"
     url: "https://bbcchildreninneed.co.uk/shows/appeal-show"
     publisher: "BBC Children in Need"
-    date: "2026-11-04"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -84,7 +84,7 @@ assets:
   overlay: true
   kicker: "Children in Need · Fri., Nov. 13, 2026"
   date: "2026-11-13"
-  card: { top: "Appeal Night is on", big: "Fri., Nov. 13", bottom: "17 days from Oct. 27" }
+  card: { top: "Appeal Night was on", big: "Fri., Nov. 13", bottom: "Live on BBC One, 7pm UK time" }
   printable:
     slug: children-in-need-2026-fundraising-planner
     group: children-in-need-2026
@@ -95,45 +95,44 @@ assets:
       - { when: "Tue., Oct. 27", what: "Take the charity's fundraiser quiz for a 2026 Yellow Envelope challenge", section: "Plan" }
       - { when: "Tue., Oct. 27", what: "Check bbcchildreninneed.co.uk for events before Appeal Night", section: "Plan" }
       - { when: "Tue., Nov. 3", what: "Coinstar fee-free paying-in opens (donate page lists 3 Nov to 15 Dec)", section: "Plan" }
-      - { when: "Fri., Nov. 13", what: "Appeal Night: start time not yet announced", section: "Plan" }
+      - { when: "Fri., Nov. 13", what: "Appeal Night: live on BBC One and iPlayer, 7pm UK time", section: "Plan" }
       - { when: "Any day", what: "Online: donate.bbcchildreninneed.co.uk", section: "Pay in" }
       - { when: "Any day", what: "Phone: 0345 7 33 22 33 (Welsh line 0345 607 0011)", section: "Pay in" }
       - { when: "Any day", what: "Text to Donate (see the donate page)", section: "Pay in" }
       - { when: "Any day", what: "Post a cheque, postal order or CAF voucher, never cash", section: "Pay in" }
-    note: "Source: BBC Children in Need website and donate page, read Oct. 27, 2026. Start time not yet announced. CAF is Charities Aid Foundation."
+    note: "Source: BBC Children in Need website, Appeal show page and donate page, read Nov. 14, 2026. CAF is Charities Aid Foundation."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "A one-page checklist for Children in Need 2026: Oct. 27 plan, Coinstar paying-in from Nov. 3, Appeal Night on Nov. 13 and ways to donate."
     alt: "Printable Children in Need 2026 fundraising planner with a checklist of dates and ways to pay in money."
 ---
 
-**British Broadcasting Corporation (BBC) Children in Need's website names Appeal Night 2026 as Friday, Nov. 13**, which is 17 days after Oct. 27. The charity's homepage lists "Everything that's going on between now and Appeal Night on Friday 13th November!" The start time is not yet announced.
+**British Broadcasting Corporation (BBC) Children in Need held Appeal Night 2026 on Friday, Nov. 13**, according to the charity's website. Its Appeal show page says the show was broadcast live on BBC One and iPlayer at 7pm. We found no official 2026 total yet.
 
-Some calendar sites list 20 November. The charity's own site says 13 November, and that is the date we use. Nov. 13, 2026 is a Friday.
+Some calendar sites list 20 November. The charity's own site said 13 November, and that was the date. Nov. 13, 2026 is a Friday.
 
-## What is the Children in Need 2026 countdown?
+## Children in Need 2026 key dates
 
-This table counts from the day we checked the charity's website. The day counts are our arithmetic.
-
-| Date | Days from Oct. 27 | What happens | Source |
-|---|---|---|---|
-| Tue., Oct. 27 | 0 | Homepage lists events and a fundraiser quiz for a 2026 Yellow Envelope challenge | BBC Children in Need website |
-| Tue., Nov. 3 | 7 | Coinstar fee-free paying-in window opens (the donate page lists 3 November to 15 December, without a year) | BBC Children in Need donate page |
-| Fri., Nov. 13 | 17 | Appeal Night | BBC Children in Need website |
+| Date | What happened | Source |
+|---|---|---|
+| Tue., Oct. 27 | Homepage listed events and a fundraiser quiz for a 2026 Yellow Envelope challenge | BBC Children in Need website |
+| Tue., Nov. 3 | Coinstar fee-free paying-in window opened (the donate page lists 3 November to 15 December, without a year) | BBC Children in Need donate page |
+| Fri., Nov. 13 | Appeal Night, live from 7pm UK time | BBC Children in Need Appeal show page |
 
 The homepage says "Take our fundraiser quiz to get your very own 2026 Yellow Envelope fundraising challenge!" The one-page [Children in Need 2026 fundraising planner](/news/downloads/children-in-need-2026/children-in-need-2026-fundraising-planner.pdf) puts these dates and the ways to pay in on a checklist.
 
-## What time is Children in Need 2026 on TV?
+## What time was Children in Need 2026 on TV?
 
-BBC Children in Need's Sep. 21, 2026 announcement says the Appeal "will broadcast live from Salford on Friday 13th November on BBC One and iPlayer." The charity's Appeal show page says the show "will be back on 13th November 2026" and tells readers to check back nearer the time, so the start time is not yet announced on an official page. Nation.Cymru also reports the BBC One and BBC iPlayer broadcast. We have not given a United Kingdom or United States time because there is nothing official to convert. We will add one when it is published.
+The charity's Appeal show page says the Appeal Show returned to BBC iPlayer and BBC One "at 7pm," broadcasting live from MediaCityUK, Salford, for "three hours of entertainment." BBC Children in Need's Sep. 21, 2026 announcement had said the Appeal would broadcast live from Salford on Friday 13th November on BBC One and iPlayer. Nation.Cymru also reported the BBC One and BBC iPlayer broadcast. Our conversion: 7pm in the United Kingdom, on Greenwich Mean Time, was 2 p.m. Eastern Time on the standard-time clocks that began Nov. 1.
 
-## Who is presenting the 2026 appeal show?
+## Who presented the 2026 appeal show?
 
-The Irish News, citing the PA news agency, reports that Alex Jones will present the 2026 appeal show for the first time, and that Rylan Clark "will appear alongside Alex Jones and Sara Cox on the presenting team." The charity's Sep. 21 announcement says the first presenter announcement would be revealed live on air on The One Show. We have not found an official full line-up.
+The charity's Appeal show page lists Alex Jones, Mel Giedroyc, Rylan, Sara Cox and Tyler West as the hosts. The Irish News, citing the PA news agency, had reported earlier that Alex Jones would present the appeal show for the first time and that Rylan Clark would join the presenting team. We have not found an official guest list.
 
-The same announcement says the Run with Pudsey challenge with Joe Wicks asks for "two miles a day in the two weeks leading up to the Appeal on Friday 13 November." It also says Challenge Yourself 2026 has no set dates, and people can sign up and fundraise now.
+The same announcement said the Run with Pudsey challenge with Joe Wicks asked for "two miles a day in the two weeks leading up to the Appeal on Friday 13 November." It also said Challenge Yourself 2026 has no set dates.
 
 ## How many appeals has Children in Need held, and what did 2025 raise?
 
-In 2025, the charity's press release dated Nov. 14, 2025 said the Appeal raised "an incredible £45.5m during the charity's 45th Appeal show." That show was on Friday, Nov. 14, 2025. By simple arithmetic, the 2026 show is the 46th. The 2025 total is last year's figure and says nothing about 2026.
+In 2025, the charity's press release dated Nov. 14, 2025 said the Appeal raised "an incredible £45.5m during the charity's 45th Appeal show." That show was on Friday, Nov. 14, 2025. By simple arithmetic, the 2026 show was the 46th. The 2025 total is last year's figure and says nothing about 2026.
 
 ## How can you donate to Children in Need?
 
@@ -152,10 +151,10 @@ The page says: "Please do not send cash by post."
 
 ## What is not yet announced?
 
-Not yet announced on an official page as of Nov. 4, 2026: the show start time and end time. Not yet announced as of Oct. 27, 2026: the full presenter line-up, the dates and route of the Rickshaw Challenge 2026, and merchandise on-sale dates. We will update this story when the charity publishes them.
+As of Nov. 14, 2026, we found no 2026 Appeal total on the charity's website or media centre; its latest total there was the 2025 figure above. Not announced as of Oct. 27, 2026: the dates and route of the Rickshaw Challenge 2026 and merchandise on-sale dates.
 
 ## How does Appeal Night fit with other November dates?
 
-Appeal Night falls the day before the Lord Mayor's Show in London, covered in our [Lord Mayor's Show 2026 story](/news/lord-mayors-show-2026-date-time-route-november-14/). Bonfire Night is earlier, on Nov. 5, in our [Bonfire Night 2026 story](/news/bonfire-night-2026-thursday-november-5-fireworks-rules/), and our [Remembrance Day 2026 story](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/) explains the days around Nov. 8 and Nov. 11. Another November date for children is [World Children's Day](/news/world-childrens-day-2026-friday-november-20-rights-of-the-child/).
+Appeal Night fell the day before the Lord Mayor's Show in London, covered in our [Lord Mayor's Show 2026 story](/news/lord-mayors-show-2026-date-time-route-november-14/). Bonfire Night was earlier, on Nov. 5, in our [Bonfire Night 2026 story](/news/bonfire-night-2026-thursday-november-5-fireworks-rules/), and our [Remembrance Day 2026 story](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/) explains the days around Nov. 8 and Nov. 11. Another November date for children is [World Children's Day](/news/world-childrens-day-2026-friday-november-20-rights-of-the-child/).
 
-Mark Nov. 3 and Nov. 13 on the [November 2026 printable calendar](/november-calendars.html), or add the fundraising steps to a [printable weekly calendar](/printable-weekly-calendar.html).
+The [November 2026 printable calendar](/november-calendars.html) and a [printable weekly calendar](/printable-weekly-calendar.html) hold the dates above.

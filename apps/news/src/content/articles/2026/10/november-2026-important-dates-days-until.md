@@ -1,9 +1,9 @@
 ---
-title: "November Holidays 2026: Election Day Nov. 3, Thanksgiving Nov. 26"
-description: "November 2026 holidays: Election Day Nov. 3, Veterans Day Nov. 11, Thanksgiving Nov. 26. Days until each, plus a free printable calendar."
+title: "November 2026 Holidays: Thanksgiving Nov. 26, Days Until Each"
+description: "November 2026 holidays: Thanksgiving Nov. 26, Black Friday Nov. 27, Cyber Monday Nov. 30. Days until each date, plus a free printable calendar."
 type: explainer
 publishedAt: "2026-10-19T08:00:00-04:00"
-updatedAt: "2026-11-08T07:26:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["November 2026 holidays", "November 2026 important dates", "holidays in November 2026", "Thanksgiving 2026 calendar", "days until Thanksgiving 2026"]
@@ -12,27 +12,27 @@ hero:
   src: ../../../../assets/news/november-2026-important-dates-days-until/november-2026-important-dates-days-until.jpg
   alt: "November 2026 calendar with holidays marked: Election Day Nov. 3, Diwali Nov. 8, Veterans Day Nov. 11, the GTA VI release Nov. 19 and Thanksgiving Nov. 26"
   title: "November 2026 important dates and how many days until each"
-  caption: "November 2026 holidays at a glance: Veterans Day is Wednesday, Nov. 11, and Thanksgiving is Thursday, Nov. 26, the fourth Thursday of the month."
+  caption: "November 2026 holidays at a glance: Thanksgiving is Thursday, Nov. 26, the fourth Thursday of the month, and Black Friday follows on Nov. 27."
 summary:
   - "November 2026 begins with clocks falling back at 2 a.m. on Sunday, Nov. 1. Election Day is Tuesday, Nov. 3."
-  - "Diwali is Sunday, Nov. 8, Veterans Day is Wednesday, Nov. 11, and Grand Theft Auto VI launches Thursday, Nov. 19."
+  - "Diwali was Sunday, Nov. 8 and Veterans Day was Wednesday, Nov. 11. Grand Theft Auto VI launches Thursday, Nov. 19."
   - "Thanksgiving is Thursday, Nov. 26, followed by Black Friday on Nov. 27 and Cyber Monday on Nov. 30."
-  - "As of Sunday, Nov. 8, there are 3 days until Veterans Day and 18 days until Thanksgiving. A free printable calendar with every holiday comes in Sunday- and Monday-start versions."
+  - "As of Saturday, Nov. 14, there are 5 days until the Grand Theft Auto VI launch and 12 days until Thanksgiving. A free printable calendar with every holiday comes in Sunday- and Monday-start versions."
 faq:
   - q: "How many days until Nov. 5, 2026?"
     a: "It has passed: Nov. 5, 2026 was a Thursday. It was Guy Fawkes Night in the U.K. and the release day for several video games."
   - q: "How many days until Nov. 8, 2026?"
-    a: "It is today, Sunday, Nov. 8, 2026. Nov. 8 is Diwali, the Hindu festival of lights."
+    a: "It has passed: Nov. 8, 2026 was a Sunday and the day of Diwali, the Hindu festival of lights."
   - q: "How many days until Nov. 25, 2026?"
-    a: "17 days from Sunday, Nov. 8. Wednesday, Nov. 25 is the day before Thanksgiving, usually one of the busiest travel days of the year."
+    a: "11 days from Saturday, Nov. 14. Wednesday, Nov. 25 is the day before Thanksgiving, usually one of the busiest travel days of the year."
   - q: "How many days until Thanksgiving 2026?"
-    a: "18 days from Sunday, Nov. 8. Thanksgiving is Thursday, Nov. 26, 2026, the fourth Thursday of November."
+    a: "12 days from Saturday, Nov. 14. Thanksgiving is Thursday, Nov. 26, 2026, the fourth Thursday of November."
   - q: "Does November 2026 start on a Sunday?"
     a: "Yes. Nov. 1, 2026 is a Sunday and Nov. 30 is a Monday, so a Sunday-start calendar has five full rows and a Monday-start calendar needs six."
   - q: "What federal holidays are in November 2026?"
-    a: "Two: Veterans Day on Wednesday, Nov. 11 and Thanksgiving Day on Thursday, Nov. 26. Election Day is not a federal holiday, although some states give workers time off to vote."
+    a: "Two: Veterans Day on Wednesday, Nov. 11, which has passed, and Thanksgiving Day on Thursday, Nov. 26. Election Day is not a federal holiday, although some states give workers time off to vote."
   - q: "How do I count the days until a date myself?"
-    a: "Count the days left in the current month, then add the date in the target month. From Nov. 8, there are 22 days left in the month (Nov. 9 to 30), so Nov. 26 is 26 - 8 = 18 days away."
+    a: "Count the days left in the current month, then add the date in the target month. From Nov. 14, there are 16 days left in the month (Nov. 15 to 30), so Nov. 26 is 26 - 14 = 12 days away."
 sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
@@ -123,7 +123,7 @@ downloads:
 draft: false
 ---
 
-**November 2026 opens with the clock change on Sunday, Nov. 1 and closes with Cyber Monday on Nov. 30.** In between come Election Day on Nov. 3, Diwali on Nov. 8, Veterans Day on Nov. 11, the launch of Grand Theft Auto VI on Nov. 19 and Thanksgiving on Thursday, Nov. 26. The countdowns below are counted from Sunday, Nov. 8, 2026.
+**November 2026 opens with the clock change on Sunday, Nov. 1 and closes with Cyber Monday on Nov. 30.** In between come Election Day on Nov. 3, Diwali on Nov. 8, Veterans Day on Nov. 11, the launch of Grand Theft Auto VI on Nov. 19 and Thanksgiving on Thursday, Nov. 26. The countdowns below are counted from Saturday, Nov. 14, 2026.
 
 ## November 2026 calendar at a glance
 
@@ -157,47 +157,47 @@ A federal holiday does not close every business or school. Banks, stores, transi
 
 <p class="days-live" data-days-until="2026" hidden></p>
 
-| Date | Day | What happens | Days from Nov. 8 |
+| Date | Day | What happens | Days from Nov. 14 |
 |---|---|---|---|
 | Nov. 1 | Sunday | Daylight saving time ended at 2 a.m.; All Saints' Day | Passed |
 | Nov. 2 | Monday | Day of the Dead (Día de los Muertos); All Souls' Day | Passed |
 | Nov. 3 | Tuesday | Election Day | Passed |
 | Nov. 5 | Thursday | Guy Fawkes Night in the U.K. | Passed |
 | Nov. 6 | Friday | Dhanteras, first day of Diwali | Passed |
-| Nov. 8 | Sunday | Diwali and Lakshmi Puja; National Indigenous Veterans Day ceremonies in Canada; Bengals vs. Falcons in Madrid, 9:30 a.m. ET | Today |
-| Nov. 9 | Monday | Military health Open Season begins; Children's Book Week and World Nursery Rhyme Week begin; National School Psychology Week (to Nov. 13); Living Wage Week in the U.K. (to Nov. 15); COP31 climate summit opens in Antalya, Türkiye (to Nov. 20); 37th anniversary of the fall of the Berlin Wall; National Chicken Sandwich Day; FA Cup second round draw, about 1:45 p.m. ET | 1 |
-| Nov. 10 | Tuesday | Bhai Dooj, last day of Diwali; Marine Corps 251st birthday | 2 |
-| Nov. 11 | Wednesday | Veterans Day (federal holiday); Remembrance Day in Canada and the U.K. | 3 |
-| Nov. 16 | Monday | Anti-Bullying Week begins in the U.K. (to Nov. 20) | 8 |
-| Nov. 19 | Thursday | Grand Theft Auto VI launches | 11 |
-| Nov. 24 | Tuesday | Beaver Moon, full at 9:53 a.m. EST | 16 |
-| Nov. 25 | Wednesday | Day before Thanksgiving, a peak travel day | 17 |
-| Nov. 26 | Thursday | Thanksgiving Day (federal holiday) | 18 |
-| Nov. 27 | Friday | Black Friday | 19 |
-| Nov. 29 | Sunday | First Sunday of Advent | 21 |
-| Nov. 30 | Monday | Cyber Monday | 22 |
+| Nov. 8 | Sunday | Diwali and Lakshmi Puja; National Indigenous Veterans Day ceremonies in Canada; Bengals vs. Falcons in Madrid, 9:30 a.m. ET | Passed |
+| Nov. 9 | Monday | Military health Open Season begins; Children's Book Week and World Nursery Rhyme Week begin; National School Psychology Week (to Nov. 13); Living Wage Week in the U.K. (to Nov. 15); COP31 climate summit opens in Antalya, Türkiye (to Nov. 20); 37th anniversary of the fall of the Berlin Wall; National Chicken Sandwich Day; FA Cup second round draw, about 1:45 p.m. ET | Passed |
+| Nov. 10 | Tuesday | Bhai Dooj, last day of Diwali; Marine Corps 251st birthday | Passed |
+| Nov. 11 | Wednesday | Veterans Day (federal holiday); Remembrance Day in Canada and the U.K. | Passed |
+| Nov. 16 | Monday | Anti-Bullying Week begins in the U.K. (to Nov. 20) | 2 |
+| Nov. 19 | Thursday | Grand Theft Auto VI launches | 5 |
+| Nov. 24 | Tuesday | Beaver Moon, full at 9:53 a.m. EST | 10 |
+| Nov. 25 | Wednesday | Day before Thanksgiving, a peak travel day | 11 |
+| Nov. 26 | Thursday | Thanksgiving Day (federal holiday) | 12 |
+| Nov. 27 | Friday | Black Friday | 13 |
+| Nov. 29 | Sunday | First Sunday of Advent | 15 |
+| Nov. 30 | Monday | Cyber Monday | 16 |
 
-To count from a different day, take the days left in the current month and add the date you are counting to. From Nov. 8 there are 22 days left in the month, so Nov. 30 is 22 days away, and Nov. 19 is 19 - 8 = 11 days away.
+To count from a different day, take the days left in the current month and add the date you are counting to. From Nov. 14 there are 16 days left in the month, so Nov. 30 is 16 days away, and Nov. 19 is 19 - 14 = 5 days away.
 
 ## The first week: clocks, ballots and Diwali
 
 **Nov. 1, clocks fall back.** At 2 a.m. on Sunday, Nov. 1, most of the U.S. returned to standard time. Sunsets jump about an hour earlier, to 4:44 p.m. in New York by Nov. 8. Our [daylight saving time report](/news/daylight-saving-time-ends-november-1-2026/) covers the change and the stalled bill to make daylight time permanent.
 
-**Nov. 3, Election Day.** Polls open across the country for federal, state and local races. Texas early voting ran through Friday, Oct. 30. Our guide to finding your [sample ballot by address](/news/sample-ballot-by-zip-code-2026-texas-ballot/) explains why a ZIP code alone can show the wrong races.
+**Nov. 3, Election Day.** Polls opened across the country for federal, state and local races. Texas early voting ran through Friday, Oct. 30. Our guide to finding your [sample ballot by address](/news/sample-ballot-by-zip-code-2026-texas-ballot/) explains why a ZIP code alone can show the wrong races.
 
-**Nov. 5.** Searches for this date are rising, but no single U.S. event explains them. It is Guy Fawkes Night in Britain, and several video games are scheduled for release that day.
+**Nov. 5.** Searches for this date rose, but no single U.S. event explains them. It is Guy Fawkes Night in Britain, and several video games were scheduled for release that day.
 
-**Nov. 6 to 10, Diwali.** The five days run from Dhanteras on Friday to Bhai Dooj on Tuesday, with Lakshmi Puja on Sunday evening, Nov. 8. Our [Diwali 2026 guide](/news/diwali-2026-date-lakshmi-puja-time-usa/) lists evening puja times for 12 U.S. cities.
+**Nov. 6 to 10, Diwali.** The five days ran from Dhanteras on Friday to Bhai Dooj on Tuesday, with Lakshmi Puja on Sunday evening, Nov. 8. Our [Diwali 2026 guide](/news/diwali-2026-date-lakshmi-puja-time-usa/) lists evening puja times for 12 U.S. cities.
 
-**Nov. 8, also on the calendar.** Veterans Affairs Canada lists [National Indigenous Veterans Day ceremonies](/news/national-indigenous-veterans-day-2026-canada-november-8/), and the Bengals and Falcons play in Madrid at 9:30 a.m. Eastern ([kickoff time and TV](/news/bengals-falcons-madrid-2026-kickoff-time-tv-streaming/)).
+**Nov. 8, also on the calendar.** Veterans Affairs Canada lists [National Indigenous Veterans Day ceremonies](/news/national-indigenous-veterans-day-2026-canada-november-8/), and the Bengals and Falcons played in Madrid at 9:30 a.m. Eastern ([kickoff time and TV](/news/bengals-falcons-madrid-2026-kickoff-time-tv-streaming/)).
 
-**Nov. 9 to 16.** Monday, Nov. 9 brings [National Chicken Sandwich Day deals](/news/national-chicken-sandwich-day-2026-deals-november-9/) and the [FA Cup second round draw](/news/fa-cup-second-round-draw-2026-time-tv-ball-numbers/), at about 1:45 p.m. Eastern. [Children's Book Week](/news/childrens-book-week-november-2026-november-9-15/) runs Nov. 9 to 15 and [World Nursery Rhyme Week](/news/world-nursery-rhyme-week-2026-november-9-13-rhymes/) Nov. 9 to 13. [National School Psychology Week](/news/national-school-psychology-week-2026-november-9-13/) runs Nov. 9 to 13, per the National Association of School Psychologists, and [Living Wage Week](/news/living-wage-week-2026-uk-november-9-15-rates/) runs Nov. 9 to 15 in the U.K., per the Living Wage Foundation. The United Nations says [COP31 runs Nov. 9 to 20](/news/cop31-2026-antalya-dates-schedule-how-to-follow/) in Antalya, and Berlin.de marks the [37th anniversary of the fall of the Berlin Wall](/news/berlin-wall-fall-anniversary-2026-november-9-37-years/) on Nov. 9. The Marine Corps turns 251 on Nov. 10 ([DeCA release](/news/marine-corps-birthday-2026-november-10-251st/)), and [Anti-Bullying Week](/news/anti-bullying-week-2026-uk-november-16-20-odd-socks-day/) runs in the U.K. from Nov. 16 to 20.
+**Nov. 9 to 16.** Monday, Nov. 9 brought [National Chicken Sandwich Day deals](/news/national-chicken-sandwich-day-2026-deals-november-9/) and the [FA Cup second round draw](/news/fa-cup-second-round-draw-2026-time-tv-ball-numbers/), at about 1:45 p.m. Eastern. [Children's Book Week](/news/childrens-book-week-november-2026-november-9-15/) runs Nov. 9 to 15 and [World Nursery Rhyme Week](/news/world-nursery-rhyme-week-2026-november-9-13-rhymes/) Nov. 9 to 13. [National School Psychology Week](/news/national-school-psychology-week-2026-november-9-13/) runs Nov. 9 to 13, per the National Association of School Psychologists, and [Living Wage Week](/news/living-wage-week-2026-uk-november-9-15-rates/) runs Nov. 9 to 15 in the U.K., per the Living Wage Foundation. The United Nations says [COP31 runs Nov. 9 to 20](/news/cop31-2026-antalya-dates-schedule-how-to-follow/) in Antalya, and Berlin.de marks the [37th anniversary of the fall of the Berlin Wall](/news/berlin-wall-fall-anniversary-2026-november-9-37-years/) on Nov. 9. The Marine Corps turned 251 on Nov. 10 ([DeCA release](/news/marine-corps-birthday-2026-november-10-251st/)), and [Anti-Bullying Week](/news/anti-bullying-week-2026-uk-november-16-20-odd-socks-day/) runs in the U.K. from Nov. 16 to 20.
 
 ## Mid-month: Veterans Day and a big game launch
 
-Veterans Day falls on Wednesday, Nov. 11. Federal offices, banks and post offices close, while most stores stay open. Our [Veterans Day story](/news/veterans-day-2026-wednesday-november-11/) lists what is open.
+Veterans Day fell on Wednesday, Nov. 11. Federal offices, banks and post offices closed, while most stores stayed open. Our [Veterans Day story](/news/veterans-day-2026-wednesday-november-11/) lists what is open.
 
-Rockstar Games says Grand Theft Auto VI comes out on Thursday, Nov. 19 for PlayStation 5 and Xbox Series X|S, after two delays. Players who pre-order a digital copy can start pre-loading on Nov. 12, the company says.
+Rockstar Games says Grand Theft Auto VI comes out on Thursday, Nov. 19 for PlayStation 5 and Xbox Series X|S, after two delays. The company said players who pre-order a digital copy could start pre-loading on Nov. 12.
 
 ## Thanksgiving week
 

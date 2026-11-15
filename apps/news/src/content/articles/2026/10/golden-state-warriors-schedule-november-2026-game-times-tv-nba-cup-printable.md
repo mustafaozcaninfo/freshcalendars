@@ -3,7 +3,7 @@ title: "Warriors Schedule November 2026: All 14 Game Times in PT and ET"
 description: "Warriors schedule November 2026: 14 games, 8 at home. Times in PT and ET, national TV on three, NBA Cup games Nov. 13, 25 and 27, and a printable."
 type: explainer
 publishedAt: "2026-10-31T01:40:00-04:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["warriors schedule november 2026", "warriors game tonight", "warriors schedule printable", "warriors nba cup schedule 2026"]
@@ -11,10 +11,11 @@ dateline: "New York"
 assets:
   scene: sports
   overlay: true
-  kicker: "Warriors · Next game Mon., Nov. 2, 2026"
-  date: "2026-11-02"
-  card: { top: "Suns at Warriors, Chase Center", big: "7 p.m. PT", bottom: "10 p.m. ET, no national TV listed" }
+  kicker: "Warriors · Next game Mon., Nov. 16, 2026"
+  date: "2026-11-14"
+  card: { top: "Warriors at New Orleans", big: "5 p.m. PT", bottom: "8 p.m. ET, no national TV listed" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: golden-state-warriors-schedule-november-2026
     group: warriors-schedule-2026
     title: "Golden State Warriors November 2026 Schedule"
@@ -42,7 +43,7 @@ assets:
 hero:
   src: ../../../../assets/news/golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable/golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable.webp
   alt: "Golden State Warriors game at Chase Center in San Francisco, seen from the upper deck, for the Warriors November 2026 schedule"
-  caption: "The Warriors host Phoenix at Chase Center in San Francisco on Mon., Nov. 2, 2026, at 7 p.m. PT, per the NBA. File photo of a Warriors home game at Chase Center."
+  caption: "The Warriors hosted Phoenix at Chase Center in San Francisco on Mon., Nov. 2, 2026, at 7 p.m. PT, per the NBA. File photo of a Warriors home game at Chase Center."
   credit: "Photo: Américo Toledano / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -51,15 +52,15 @@ hero:
     author: "Américo Toledano"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Hameryko"
 summary:
-  - "The Golden State Warriors host Phoenix on Mon., Nov. 2, 2026, at 7 p.m. PT (10 p.m. ET) at Chase Center, per the NBA's official schedule; the Nov. 1 game against the LA Clippers has been played."
+  - "The Golden State Warriors' next game is Mon., Nov. 16, 2026, at New Orleans at 5 p.m. PT (8 p.m. ET), per the NBA's official schedule; their games through Nov. 13 at San Antonio have been played."
   - "The NBA's August schedule lists 14 Warriors games in November 2026: 8 at home and 6 away, by our count."
-  - "Three November games are Emirates NBA Cup games: Nov. 13 at San Antonio, Nov. 25 against Sacramento and Nov. 27 at Portland."
+  - "Three November games are Emirates NBA Cup games: Nov. 13 at San Antonio (played), Nov. 25 against Sacramento and Nov. 27 at Portland."
   - "The NBA lists national TV for three Warriors games: ESPN on Nov. 11 and Nov. 18, and Prime Video on Nov. 13."
 faq:
   - q: "When do the Warriors play next?"
-    a: "On Mon., Nov. 2, 2026, the Warriors host Phoenix at Chase Center at 7 p.m. PT (10 p.m. ET), according to the NBA's official schedule. No national TV is listed."
+    a: "On Mon., Nov. 16, 2026, the Warriors play at New Orleans at 5 p.m. PT (8 p.m. ET), according to the NBA's official schedule. No national TV is listed. The next home game is Sun., Nov. 22, against Boston."
   - q: "How many Warriors games are in November 2026?"
-    a: "14, according to the NBA's schedule dated Aug. 13, 2026: 8 at home and 6 away, by our count. The Warriors play five straight home games from Sun., Nov. 1 to Mon., Nov. 9, then five straight road games from Wed., Nov. 11 to Thu., Nov. 19."
+    a: "14, according to the NBA's schedule dated Aug. 13, 2026: 8 at home and 6 away, by our count. The Warriors played five straight home games from Sun., Nov. 1 to Mon., Nov. 9, then play five straight road games from Wed., Nov. 11 to Thu., Nov. 19."
   - q: "Which Warriors games are NBA Cup games?"
     a: "Three in November: at San Antonio on Fri., Nov. 13, against Sacramento on Wed., Nov. 25 and at Portland on Fri., Nov. 27, per the NBA's schedule."
   - q: "Which Warriors games are on national TV?"
@@ -103,7 +104,7 @@ related: [golden-state-warriors-schedule-december-2026-game-times-tv-christmas-p
 draft: false
 ---
 
-**The Golden State Warriors host Phoenix on Monday, Nov. 2, 2026, at 7 p.m. Pacific Time (PT), which is 10 p.m. Eastern Time (ET), at Chase Center in San Francisco, according to the National Basketball Association (NBA) official schedule.** The NBA lists no national TV for that game. The Warriors' Nov. 1 game against the LA Clippers has been played.
+**The Golden State Warriors' next game is Monday, Nov. 16, 2026, at New Orleans, at 5 p.m. Pacific Time (PT), which is 8 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) official schedule.** The NBA lists no national TV for that game. The Warriors' five home games from Nov. 1 to Nov. 9 and their Nov. 11 game at Houston and Nov. 13 Cup game at San Antonio have been played; the NBA's schedule PDF does not carry scores.
 
 The NBA's 2026-27 regular season schedule PDF, dated Aug. 13, 2026 and marked "subject to change," gives each game's ET time and the local time at the home arena. It lists 14 Warriors games in November. The table below converts every tip-off to PT and ET, and to Central Time (CT) for road games in the Central zone, and a printable of the same rows is further down.
 
@@ -145,7 +146,7 @@ After the road trip the Warriors host Boston on Nov. 22 and Sacramento on Nov. 2
 
 ## Which Warriors games are NBA Cup games in November?
 
-The NBA's schedule marks three Warriors games in November as Emirates NBA Cup games: Fri., Nov. 13 at San Antonio, Wed., Nov. 25 against Sacramento and Fri., Nov. 27 at Portland. NBA.com places the Warriors in West Group C with the San Antonio Spurs, Los Angeles Lakers, Portland Trail Blazers and Sacramento Kings. Our [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/) lists the group play and knockout dates, and the [Lakers November schedule](/news/lakers-schedule-november-2026-game-times-tv-nba-cup-printable/) covers the other Los Angeles team in the group.
+The NBA's schedule marks three Warriors games in November as Emirates NBA Cup games: Fri., Nov. 13 at San Antonio (already played), Wed., Nov. 25 against Sacramento and Fri., Nov. 27 at Portland. NBA.com places the Warriors in West Group C with the San Antonio Spurs, Los Angeles Lakers, Portland Trail Blazers and Sacramento Kings. Our [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/) lists the group play and knockout dates, and the [Lakers November schedule](/news/lakers-schedule-november-2026-game-times-tv-nba-cup-printable/) covers the other Los Angeles team in the group.
 
 ## What is the Warriors TV schedule for November 2026?
 

@@ -1,9 +1,10 @@
 ---
 title: "National Sandwich Day 2026 Deals: Nov. 3 at Subway, McAlister's"
-description: "National Sandwich Day 2026 was Tuesday, Nov. 3. Subway's Footlong deal runs through Nov. 8; McAlister's $5 sandwich ended Nov. 3. Dates and fine print."
+description: "National Sandwich Day 2026 was Tuesday, Nov. 3. Subway's Footlong deal ran to Nov. 8; McAlister's $5 sandwich ended Nov. 3. Dates and fine print."
 type: news
 dateline: "New York"
 publishedAt: "2026-11-01T14:50:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national sandwich day 2026 deals", "national sandwich day 2026", "sandwich day deals november 3", "subway national sandwich day 2026"]
@@ -11,15 +12,14 @@ assets:
   overlay: true
   kicker: "National Sandwich Day · Tue., Nov. 3"
   date: "2026-11-03"
-  card: { top: "Subway, McAlister's, Capriotti's", big: "Tue., Nov. 3", bottom: "Sign up for rewards first" }
+  card: { top: "Subway, McAlister's, Capriotti's", big: "Tue., Nov. 3", bottom: "Offers ended by Nov. 8" }
   printable:
     slug: national-sandwich-day-2026-deals-checklist
     group: sandwich-day-2026
     title: "National Sandwich Day 2026 Deals, Nov. 3"
-    subtitle: "Three confirmed offers, with dates and conditions"
+    subtitle: "Three offers, with dates and conditions"
     layout: list
     rows:
-      - ["Before Tue., Nov. 3", "Sign up for the loyalty program: Subway Sub Club, McAlister's Deli rewards, Capriotti's Rewards"]
       - ["Tue., Oct. 27 to Sun., Nov. 8", "Subway: free Footlong with the purchase of another Footlong, Sub Club members, app and online orders"]
       - ["Tue., Oct. 27 to Sun., Nov. 8", "Subway: one use per order, free sub is of equal or lesser price, not on third-party delivery, catering or gift cards"]
       - ["Tue., Oct. 27 to Sun., Nov. 8", "Subway: excludes Fresh Fit, 5 Meat Italian and Big Hot Pastrami; cannot combine with other offers"]
@@ -27,13 +27,13 @@ assets:
       - ["Tue., Nov. 3", "Capriotti's: Rewards Members get buy one, get one 50% off all subs, one day only"]
       - ["Tue., Nov. 3", "Potbelly: 2026 offer not confirmed by Potbelly when we checked"]
     note: "Source: Subway newsroom (Oct. 21, 2026); McAlister's Deli; Capriotti's. Checked Nov. 1, 2026."
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page list of the National Sandwich Day 2026 deals from Subway, McAlister's Deli and Capriotti's, with dates, who qualifies and the fine print."
     alt: "Printable National Sandwich Day 2026 deals list for Tuesday, Nov. 3, 2026"
 hero:
   src: ../../../../assets/news/national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis/national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis.webp
   alt: "A submarine sandwich with ham, cheese, tomato and lettuce for National Sandwich Day 2026 deals"
-  caption: "A submarine sandwich, generic stock photo. National Sandwich Day is Tuesday, Nov. 3, 2026; Subway's deal started Oct. 27 and McAlister's Oct. 30."
+  caption: "A submarine sandwich, generic stock photo. National Sandwich Day was Tuesday, Nov. 3, 2026; Subway's deal ran Oct. 27 to Nov. 8 and McAlister's Oct. 30 to Nov. 3."
   credit: "Photo: Pixabay / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
@@ -41,16 +41,16 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Submarine_sandwich_sub_subway.jpg"
     author: "Pixabay"
 summary:
-  - "Subway's Footlong deal (a free Footlong with the purchase of another Footlong, for Sub Club members) runs Oct. 27 through Nov. 8, 2026 on app and online orders and is still available on Tuesday, Nov. 3, according to Subway's Oct. 21 newsroom release."
-  - "McAlister's Deli lists a $5 sandwich for reward members only, valid Oct. 30 through Nov. 3, 2026, with exclusions."
-  - "Capriotti's Sandwich Shop gives Rewards Members buy one, get one 50% off all subs on Tuesday, Nov. 3, 2026, for one day only."
+  - "Subway's Footlong deal (a free Footlong with the purchase of another Footlong, for Sub Club members) ran Oct. 27 through Nov. 8, 2026 on app and online orders and was still available on Tuesday, Nov. 3, according to Subway's Oct. 21 newsroom release."
+  - "McAlister's Deli listed a $5 sandwich for reward members only, valid Oct. 30 through Nov. 3, 2026, with exclusions."
+  - "Capriotti's Sandwich Shop gave Rewards Members buy one, get one 50% off all subs on Tuesday, Nov. 3, 2026, for one day only."
   - "Potbelly's 2026 offer was not confirmed on an official page when we checked on Nov. 1."
 faq:
-  - q: "Is Subway's National Sandwich Day deal still on Nov. 3, 2026?"
-    a: "Yes. Subway moved its celebration to Tuesday, Oct. 27, and says that for those marking National Sandwich Day on Nov. 3, both returning favorites and the buy one, get one offer will still be available. The offer runs Oct. 27 through Nov. 8 on app and online orders."
-  - q: "Do I need a rewards account for the Nov. 3 sandwich deals?"
-    a: "Yes for all three confirmed offers. Subway's deal is for current and new Sub Club members, McAlister's says reward members only, and Capriotti's says Rewards Members."
-  - q: "Is there a National Sandwich Day deal at Potbelly in 2026?"
+  - q: "Did Subway's National Sandwich Day deal cover Nov. 3, 2026?"
+    a: "Yes. Subway moved its celebration to Tuesday, Oct. 27, and said that for those marking National Sandwich Day on Nov. 3, both returning favorites and the buy one, get one offer would still be available. The offer ran Oct. 27 through Nov. 8 on app and online orders."
+  - q: "Did the Nov. 3 sandwich deals need a rewards account?"
+    a: "Yes for all three confirmed offers. Subway's deal was for current and new Sub Club members, McAlister's said reward members only, and Capriotti's said Rewards Members."
+  - q: "Was there a National Sandwich Day deal at Potbelly in 2026?"
     a: "Potbelly's 2026 offer was not confirmed when we checked on Nov. 1, 2026. In 2025, a Potbelly release said fans could get a free Original Sandwich or Wrap with the purchase of any Big or Original Sandwich or Wrap on Monday, Nov. 3, 2025."
 sources:
   - title: "Subway Moves Up National Sandwich Day to Tuesday, Oct. 27 and Brings Back the Fritos Chicken Enchilada Sub"
@@ -87,19 +87,11 @@ downloads:
     pdf: "/news/downloads/sandwich-day-2026/national-sandwich-day-2026-deals-checklist.pdf"
     png: "/news/downloads/sandwich-day-2026/national-sandwich-day-2026-deals-checklist.png"
     pages: 1
-  - group: "National Sandwich Day 2026 Deals printables"
-    title: "National Sandwich Day 2026 Deals, Nov. 3 (ink saver)"
-    description: "One-page list of the National Sandwich Day 2026 deals from Subway, McAlister's Deli and Capriotti's, with dates, who qualifies and the fine print. Ink-saver version."
-    preview: ../../../../assets/news/sandwich-day-2026/national-sandwich-day-2026-deals-checklist-ink.png
-    alt: "Printable National Sandwich Day 2026 deals list for Tuesday, Nov. 3, 2026, ink-saver version"
-    pdf: "/news/downloads/sandwich-day-2026/national-sandwich-day-2026-deals-checklist-ink.pdf"
-    png: "/news/downloads/sandwich-day-2026/national-sandwich-day-2026-deals-checklist-ink.png"
-    pages: 1
 ---
 
-National Sandwich Day is Tuesday, Nov. 3, 2026, and three chains have confirmed deals on their own pages: Subway's Footlong offer (Oct. 27 through Nov. 8, per its Oct. 21 newsroom release), McAlister's Deli's $5 sandwich (Oct. 30 through Nov. 3, per its home page) and Capriotti's Sandwich Shop's buy one, get one (BOGO) 50% off all subs on Nov. 3 only, per its deals page. All three are for rewards members, so signing up before Tuesday matters. We checked each page on Nov. 1, 2026.
+National Sandwich Day 2026 was Tuesday, Nov. 3, and three chains confirmed deals on their own pages: Subway's Footlong offer (Oct. 27 through Nov. 8, per its Oct. 21 newsroom release), McAlister's Deli's $5 sandwich (Oct. 30 through Nov. 3, per its home page) and Capriotti's Sandwich Shop's buy one, get one (BOGO) 50% off all subs on Nov. 3 only, per its deals page. All three were for rewards members. We checked each page on Nov. 1, 2026, and all three offers have now ended.
 
-The table puts the dates, who qualifies and the fine print side by side, and the free printable "National Sandwich Day 2026 Deals, Nov. 3" keeps them on one page. Tuesday, Nov. 3 is also Election Day; we found no company food deal tied to it on an official page, so none is listed. Use the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html) to mark the days.
+The table puts the dates, who qualifies and the fine print side by side, and the free printable "National Sandwich Day 2026 Deals, Nov. 3" keeps them on one page. Nov. 3 was also Election Day; we found no company food deal tied to it on an official page, so none is listed. The [November 2026 printable calendar](/november-calendars.html) and the [printable weekly calendar](/printable-weekly-calendar.html) cover the dates.
 
 ## Which National Sandwich Day 2026 deals are confirmed?
 
@@ -109,33 +101,32 @@ The table puts the dates, who qualifies and the fine print side by side, and the
 | McAlister's Deli | $5 sandwich | Fri., Oct. 30 through Tue., Nov. 3, 2026 | 5 | Reward members only | Not stated on the page | "Exclusions apply"; the page does not list them or the sandwich size | McAlister's Deli home page |
 | Capriotti's Sandwich Shop | Buy one, get one 50% off all subs | Tue., Nov. 3, 2026 | 1 | Rewards Members | Not stated on the page | None listed | Capriotti's deals page |
 
-The day counts are ours, counting both the first and last day. Capriotti's page does not list hours or whether the offer works in the app, in store or online, so check with your shop.
+The day counts are ours, counting both the first and last day. Capriotti's page did not list hours or whether the offer worked in the app, in store or online.
 
 ## How does Subway's National Sandwich Day deal work?
 
-Subway's release, datelined Miami on Oct. 21, 2026, says the company moved National Sandwich Day up to Tuesday, Oct. 27 and brought back the Fritos Chicken Enchilada Sub. The offer is a free Footlong sandwich with the purchase of another Footlong sandwich, for all current and new Sub Club members, available Oct. 27 through Nov. 8 on app and online orders.
+Subway's release, datelined Miami on Oct. 21, 2026, says the company moved National Sandwich Day up to Tuesday, Oct. 27 and brought back the Fritos Chicken Enchilada Sub. The offer was a free Footlong sandwich with the purchase of another Footlong sandwich, for all current and new Sub Club members, available Oct. 27 through Nov. 8 on app and online orders.
 
-For readers marking the day on Nov. 3, the release says "both returning favorites and the BOGO offer will still be available." The fine print gives one use per order, and the free Footlong is of equal or lesser price. It is not valid on third-party delivery, catering or gift card purchases, excludes Fresh Fit, 5 Meat Italian and Big Hot Pastrami, and cannot be combined with other offers.
+For readers marking the day on Nov. 3, the release said "both returning favorites and the BOGO offer will still be available." The fine print gave one use per order, and the free Footlong was of equal or lesser price. It was not valid on third-party delivery, catering or gift card purchases, excluded Fresh Fit, 5 Meat Italian and Big Hot Pastrami, and could not be combined with other offers.
 
 ## What does McAlister's Deli offer?
 
-McAlister's home page says "Celebrate National Sandwich Day with a $5 sandwich," valid 10/30 through 11/3 for reward members only, with exclusions. The page does not list the exclusions or say which sandwich sizes qualify, so look at the offer in the rewards app or ask at the counter before you order.
+McAlister's home page said "Celebrate National Sandwich Day with a $5 sandwich," valid 10/30 through 11/3 for reward members only, with exclusions. The page did not list the exclusions or say which sandwich sizes qualified.
 
 ## What is the Capriotti's one-day offer?
 
-Capriotti's deals page says that in celebration of National Sandwich Day on Tuesday, November 3, Rewards Members get buy one, get one 50% off all subs, for one day only. Because it lasts a single day, it is the offer with the least room for a late start.
+Capriotti's deals page said that in celebration of National Sandwich Day on Tuesday, November 3, Rewards Members get buy one, get one 50% off all subs, for one day only. It was the shortest of the three offers.
 
 ## What about Potbelly and other chains?
 
-Potbelly ran a National Sandwich Day offer last year. In 2025, a company release dated Oct. 31 said that on Monday, Nov. 3, fans could get a free Original Sandwich or Wrap with the purchase of any Big or Original Sandwich or Wrap. Potbelly's own site blocked automated access, so its 2026 offer was not confirmed when we checked.
+Potbelly ran a National Sandwich Day offer in 2025. In 2025, a company release dated Oct. 31 said that on Monday, Nov. 3, fans could get a free Original Sandwich or Wrap with the purchase of any Big or Original Sandwich or Wrap. Potbelly's own site blocked automated access, so its 2026 offer was never confirmed.
 
 Offers from Schlotzsky's, Firehouse Subs, Jersey Mike's, Jimmy John's, Which Wich, Panera, Wawa and Popeyes were not announced on official pages when we checked on Nov. 1, so none are listed. We will not list a deal until a chain's own page carries it.
 
-## What should you do before Tuesday, Nov. 3?
+## When did each deal end?
 
-1. Join the loyalty program for each chain you plan to use: Sub Club for Subway, the reward program for McAlister's Deli and Capriotti's Rewards.
-2. Use McAlister's $5 sandwich any day from Oct. 30 through Nov. 3.
-3. Order Subway's Footlong deal on the app or online, any day through Nov. 8.
-4. Plan the Capriotti's offer for Nov. 3 itself.
+1. McAlister's $5 sandwich ended Tuesday, Nov. 3.
+2. Capriotti's offer lasted Nov. 3 only.
+3. Subway's Footlong deal ended Sunday, Nov. 8.
 
 Other deal roundups on our site: [Halloween free food 2026](/news/halloween-free-food-2026-chipotle-boorito-krispy-kreme-costume-deals-october-31/), [Veterans Day free meals and discounts](/news/veterans-day-free-meals-discounts/) for Wednesday, Nov. 11 (see also [when is Veterans Day](/when-is/veterans-day/)) and [holiday deals this week, Nov. 2-8](/news/holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks/).

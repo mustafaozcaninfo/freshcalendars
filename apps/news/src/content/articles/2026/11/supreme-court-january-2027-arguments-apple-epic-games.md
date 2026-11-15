@@ -3,6 +3,7 @@ title: "Supreme Court January 2027 Arguments: Apple v. Epic on Jan. 11"
 description: "The Supreme Court hears six cases Jan. 11-20, 2027, from 10 a.m. ET, opening with Apple v. Epic. Each question in plain words and a printable calendar."
 type: explainer
 publishedAt: "2026-11-10T06:42:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["supreme court january 2027 arguments", "supreme court oral arguments january 2027", "apple v epic supreme court argument date", "supreme court argument calendar 2027"]
@@ -49,7 +50,7 @@ sources:
   - title: "Docket for No. 25-1311, Apple Inc. v. Epic Games, Inc."
     url: "https://www.supremecourt.gov/docket/docketfiles/html/public/25-1311.html"
     publisher: "Supreme Court of the United States"
-    date: "2026-11-10"
+    date: "2026-11-14"
   - title: "Docket for No. 24-1016, RiseandShine Corp. v. PepsiCo, Inc."
     url: "https://www.supremecourt.gov/docket/docketfiles/html/public/24-1016.html"
     publisher: "Supreme Court of the United States"
@@ -154,7 +155,7 @@ The calendar lists no cases on Monday, Jan. 18. It marks the day as a legal holi
 
 ## What is the Apple v. Epic Games argument about?
 
-The court's order granting review in No. 25-1311 is limited to Question 1. That question asks whether a court may hold a party in civil contempt based on a violation of an injunction's "spirit" where the injunction is silent about the conduct at issue, as the Ninth Circuit holds, or whether a court must ground civil contempt on the violation of an order that clearly and unambiguously bars the precise conduct, as other circuits hold. The 9th Circuit decided the case Dec. 11, 2025 and denied rehearing March 30, 2026. The court also denied a stay application (26A194) on Aug. 13, 2026.
+The court's order granting review in No. 25-1311 is limited to Question 1. That question asks whether a court may hold a party in civil contempt based on a violation of an injunction's "spirit" where the injunction is silent about the conduct at issue, as the Ninth Circuit holds, or whether a court must ground civil contempt on the violation of an order that clearly and unambiguously bars the precise conduct, as other circuits hold. The 9th Circuit decided the case Dec. 11, 2025 and denied rehearing March 30, 2026. The court also denied a stay application (26A194) on Aug. 13, 2026. Apple filed its brief on the merits on Sept. 14, 2026, and the docket shows Epic Games filed its brief on Nov. 13, 2026.
 
 ## What time do January 2027 arguments start in each time zone?
 

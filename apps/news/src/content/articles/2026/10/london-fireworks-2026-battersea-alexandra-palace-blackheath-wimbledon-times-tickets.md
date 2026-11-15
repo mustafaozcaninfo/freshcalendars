@@ -1,8 +1,9 @@
 ---
 title: "London Fireworks 2026: Battersea, Alexandra Palace 7 and 8 November"
-description: "London's Bonfire Night fireworks 2026 run Thursday 5 to Sunday 8 November. Times, Battersea tickets from £10.60 and gates for Wimbledon and Blackheath."
+description: "London's Bonfire Night fireworks 2026 ran Thursday 5 to Sunday 8 November. Times, Battersea tickets from £10.60 and gates for Wimbledon and Blackheath."
 type: news
 publishedAt: "2026-10-29T15:45:00-04:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["London fireworks 2026", "Battersea Park fireworks 2026", "Alexandra Palace fireworks 2026", "Blackheath fireworks 2026 time", "Bonfire Night London 2026"]
@@ -10,7 +11,7 @@ dateline: "London"
 hero:
   src: ../../../../assets/news/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets/london-fireworks-2026-battersea-alexandra-palace-blackheath-wimbledon-times-tickets.webp
   alt: "London fireworks 2026: pink and white fireworks bursting over a London park display"
-  caption: "Fireworks over Southwark Park in London in 2015, a file photo. The main 2026 displays run from Thursday 5 to Sunday 8 November."
+  caption: "Fireworks over Southwark Park in London in 2015, a file photo. The main 2026 displays ran from Thursday 5 to Sunday 8 November."
   credit: "Photo: Barney Moss / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -18,21 +19,21 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Southwark_Park_Fireworks_2015_1.jpg"
     author: "Barney Moss"
 summary:
-  - "Wimbledon Park's display is on Thursday 5 November 2026: gates and funfair open at 5.15pm and the first fireworks show is at 6.45pm, according to Merton Council."
-  - "Blackheath (Saturday 7 November), Battersea Park (Saturday 7 and Sunday 8 November) and Alexandra Palace (Saturday 7 and Sunday 8 November) follow, each with its own tickets."
-  - "Battersea Park's organiser lists prices from £10.60 to £18.10 for adults depending on release, and tickets cannot be bought at the gate."
-  - "Merton does not state prices on its pages, and Alexandra Palace does not list a fireworks start time on its venue page."
+  - "Wimbledon Park's display was on Thursday 5 November 2026: gates and funfair opened at 5.15pm and the first fireworks show was at 6.45pm, according to Merton Council."
+  - "Blackheath (Saturday 7 November), Battersea Park (Saturday 7 and Sunday 8 November) and Alexandra Palace (Saturday 7 and Sunday 8 November) followed, each with its own tickets."
+  - "Battersea Park's organiser listed prices from £10.60 to £18.10 for adults depending on release, and tickets could not be bought at the gate."
+  - "Merton did not state prices on its pages, and Alexandra Palace did not list a fireworks start time on its venue page."
 faq:
-  - q: "When are the London fireworks displays in 2026?"
+  - q: "When were the London fireworks displays in 2026?"
     a: "Wimbledon Park on Thursday 5 November, Morden Park and Blackheath on Saturday 7 November, Battersea Park on Saturday 7 and Sunday 8 November, and Alexandra Palace on Saturday 7 and Sunday 8 November, according to each organiser."
-  - q: "What time are the fireworks at Battersea Park in 2026?"
-    a: "The organiser estimates 8.30pm on Saturday 7 November and 7pm on Sunday 8 November. Gates close at 8pm on Saturday and 6.30pm on Sunday, with no entry after."
-  - q: "Can you buy tickets on the night?"
-    a: "Not at Battersea Park, where the organiser says tickets must be bought in advance and cannot be bought at the gate. Merton says tickets are needed for both its displays and must be shown on entry."
-  - q: "Do children need a ticket?"
-    a: "It depends on the display. Merton says children under 4 do not need a ticket. Battersea Park says under-5s are free but need a ticket. Blackheath lists a child price for under-10s from £5."
-  - q: "Can you park at the displays?"
-    a: "Merton says there is no car parking at any of its shows. Battersea Park's organiser says there is no parking in the park apart from very limited disabled parking."
+  - q: "What time were the fireworks at Battersea Park in 2026?"
+    a: "The organiser estimated 8.30pm on Saturday 7 November and 7pm on Sunday 8 November. Gates closed at 8pm on Saturday and 6.30pm on Sunday, with no entry after."
+  - q: "Could you buy tickets on the night?"
+    a: "Not at Battersea Park, where the organiser said tickets had to be bought in advance and could not be bought at the gate. Merton said tickets were needed for both its displays and had to be shown on entry."
+  - q: "Did children need a ticket?"
+    a: "It depended on the display. Merton said children under 4 did not need a ticket. Battersea Park said under-5s were free but needed a ticket. Blackheath listed a child price for under-10s from £5."
+  - q: "Could you park at the displays?"
+    a: "Merton said there was no car parking at any of its shows. Battersea Park's organiser said there was no parking in the park apart from very limited disabled parking."
 sources:
   - title: "Fireworks in the Park"
     url: "https://www.merton.gov.uk/fireworks"
@@ -98,6 +99,7 @@ assets:
     subtitle: "Gates, fireworks times and tickets for each display"
     layout: list
     inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Thu., Nov. 5", "Wimbledon Park: gates 5.15pm, first show 6.45pm; second show gates 7.15pm, fireworks 8.30pm. Ticket needed"]
       - ["Sat., Nov. 7", "Morden Park (Merton Council): ticket needed, no car parking. Check Merton's running order"]
@@ -111,11 +113,11 @@ assets:
     alt: "Printable London fireworks planner for 5 to 8 November 2026 listing each display with gates and fireworks times."
 ---
 
-**London's main organised Bonfire Night displays run from Thursday 5 to Sunday 8 November 2026, and the first, at Wimbledon Park on Thursday 5 November, opens its gates and funfair at 5.15pm with the first fireworks show at 6.45pm**, according to Merton Council. The table below puts every display from the organisers' own pages side by side, and a one-page printable follows.
+**London's main organised Bonfire Night displays ran from Thursday 5 to Sunday 8 November 2026, and the first, at Wimbledon Park on Thursday 5 November, opened its gates and funfair at 5.15pm with the first fireworks show at 6.45pm**, according to Merton Council. The table below keeps every display from the organisers' own pages side by side as a record, and a one-page printable follows.
 
-We checked each page on 29 October 2026. Bonfire Night itself, 5 November, is a Thursday this year, and the rules on setting off your own fireworks are in our [Bonfire Night 2026 story](/news/bonfire-night-2026-thursday-november-5-fireworks-rules/).
+We checked each page on 29 October 2026. Bonfire Night itself, 5 November, was a Thursday this year, and the rules on setting off your own fireworks are in our [Bonfire Night 2026 story](/news/bonfire-night-2026-thursday-november-5-fireworks-rules/).
 
-## What are the London fireworks times and prices in 2026?
+## What were the London fireworks times and prices in 2026?
 
 | Display and date | Gates open | Fireworks | Last entry | Cheapest adult price | Children | How tickets are sold |
 |---|---|---|---|---|---|---|
@@ -129,13 +131,13 @@ We checked each page on 29 October 2026. Bonfire Night itself, 5 November, is a 
 
 "Not listed" means the organiser's page we checked does not say. We did not fill gaps from other sites.
 
-## When is the Wimbledon Park and Morden Park display?
+## When was the Wimbledon Park and Morden Park display?
 
 Merton Council's "Fireworks in the Park" page lists Wimbledon Park on Thursday 5 November and Morden Park on Saturday 7 November. Its running order gives 5.15pm for gates and funfair, 6.45pm for the first fireworks show, 7.15pm when gates open for the second show, 8.30pm for the second fireworks show and 10pm when the funfair closes.
 
 Merton's running-order page, as we read it, is not split by park, so we show times in full only for Wimbledon Park. The council says tickets are needed for both displays and must be shown on entry, that children under 4 years of age do not need a ticket, and that there is no car parking at any of its shows. It also warns: "These shows do sell out, so grab your tickets today." Prices are not stated on the Merton pages we checked.
 
-## What time is Blackheath fireworks 2026?
+## What time was Blackheath fireworks 2026?
 
 Lewisham Council's event page says the display takes place on Saturday 7 November 2026, from 5pm to 10.30pm. Its news release of 8 September 2026 says the display starts at 5pm and runs until 10pm, so the two council pages differ on the end time. Check the organiser's ticket page before you travel.
 
@@ -161,14 +163,14 @@ The page does not say which tier is on sale now, so the safe summary is that pri
 
 There is no parking in the park except very limited disabled parking. Albert Bridge is closed to pedestrians and cyclists from 7.30pm to 10pm on Saturday and from 6pm to 8.30pm on Sunday.
 
-## What time are the Alexandra Palace fireworks in 2026?
+## What time were the Alexandra Palace fireworks in 2026?
 
 Alexandra Palace says its "Fireworks & Drone Festival returns on Saturday 7 and Sunday 8 November 2026", with gates open at 4pm (16:00 on the page) and tickets "From £11.50". The fireworks start time is not listed on the venue page, so we do not give one.
 
-## Which dates should you mark?
+## Which dates did the displays fall on?
 
-Saturday 7 November has four displays on the calendar: Morden Park, Blackheath, Battersea Park and Alexandra Palace. Sunday 8 November has Battersea Park and Alexandra Palace. The printable lists each with its gates, fireworks time and ticket note. Add the dates to the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
+Saturday 7 November had four displays on the calendar: Morden Park, Blackheath, Battersea Park and Alexandra Palace. Sunday 8 November had Battersea Park and Alexandra Palace. The printable lists each with its gates, fireworks time and ticket note. Keep the record beside the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
 
 Other London dates around the same time include the [Regent Street, Carnaby and Covent Garden Christmas lights switch-ons](/news/london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden/) and the [Lord Mayor's Show on 14 November](/news/lord-mayors-show-2026-date-time-route-november-14/). Our guide to [Diwali in the UK](/news/diwali-2026-uk-leicester-diwali-day-8-november-trafalgar-square-cancelled/) covers the Leicester and London events.
 
-Times and prices come from the organisers and can change; we did not check displays other than those above.
+Times and prices come from the organisers' pages as we read them on 29 October; we did not check displays other than those above.

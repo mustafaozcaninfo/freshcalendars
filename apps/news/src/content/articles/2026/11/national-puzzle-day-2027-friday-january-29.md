@@ -3,6 +3,7 @@ title: "National Puzzle Day 2027: Friday, Jan. 29, Weekdays to 2032"
 description: "National Puzzle Day 2027 is Friday, Jan. 29, says founder Jodi Jill's puzzledayfun.com. No 2027 free kit yet. Weekdays to 2032 and a one-page plan sheet."
 type: explainer
 publishedAt: "2026-11-04T06:00:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["national puzzle day 2027", "when is national puzzle day", "puzzle day january 29", "free puzzles"]
@@ -38,7 +39,7 @@ assets:
             - "Check puzzledayfun.com for the free kit"
             - "Share your puzzle with #PuzzleDay"
       unconfirmed:
-        - { label: "2027 free Puzzle Kit", why: "the site offered a 2026 kit; no 2027 kit was posted as of Nov. 4, 2026" }
+        - { label: "2027 free Puzzle Kit", why: "the site offered a 2026 kit; the site says a new kit \"is coming\"; no 2027 kit was posted as of Nov. 14, 2026" }
 hero:
   src: ../../../../assets/news/national-puzzle-day-2027-friday-january-29/national-puzzle-day-2027-friday-january-29.webp
   alt: "Jigsaw puzzle pieces, a red piece on green pieces, on a wooden table for National Puzzle Day on Friday, Jan. 29, 2027"
@@ -61,7 +62,7 @@ downloads:
 summary:
   - "National Puzzle Day is Jan. 29 every year, says puzzledayfun.com, so in 2027 it falls on Friday, Jan. 29."
   - "The site says the day was founded by Jodi Jill, a professional puzzle maker, and lists the hashtag #PuzzleDay."
-  - "The founder's site offers a free 2026 Puzzle Kit; no 2027 kit was posted as of Nov. 4, 2026."
+  - "The founder's site offers a free 2026 Puzzle Kit and says a new activity kit is coming; no 2027 kit was posted as of Nov. 14, 2026."
   - "Jan. 29 is a Saturday in 2028, a Monday in 2029 and a Tuesday in 2030 (computed)."
 faq:
   - q: "When is National Puzzle Day in 2027?"
@@ -69,20 +70,20 @@ faq:
   - q: "Who founded National Puzzle Day?"
     a: "Puzzle Day was founded by Jodi Jill, a professional puzzle maker and lifelong puzzle enthusiast, according to puzzledayfun.com."
   - q: "Is there a free puzzle kit for 2027?"
-    a: "Not yet. The founder's site offers a free 2026 Puzzle Kit; as of Nov. 4, 2026 we saw no 2027 kit."
+    a: "Not yet. The founder's site offers a free 2026 Puzzle Kit and says a new activity kit is coming; as of Nov. 14, 2026 we saw no 2027 kit to download."
 sources:
   - title: "Puzzle Day | January 29th | Free Puzzles"
     url: "https://puzzledayfun.com/"
     publisher: "Puzzle Day (Jodi Jill)"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "About Puzzle Day"
     url: "https://puzzledayfun.com/about"
     publisher: "Puzzle Day (Jodi Jill)"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "National Puzzle Day"
     url: "https://jodijill.com/national-puzzle-day"
     publisher: "Jodi Jill"
-    date: "2026-11-04"
+    date: "2026-11-14"
   - title: "Jody Jill"
     url: "https://star883.com/2025/01/29/jody-jill/"
     publisher: "Star 88.3"
@@ -121,7 +122,7 @@ The start year is not settled in the founder's own material. One media page says
 
 ## What does the founder's free puzzle kit include?
 
-The site invites visitors to "Download, Copy and Play our official 2026 Puzzle Kit," free for everyone As of Nov. 4, 2026, we saw no 2027 kit posted, so check puzzledayfun.com closer to January. The site also lists a Puzzle Day Fact Sheet, an escape room activity kit and the hashtag #PuzzleDay.
+The site invites visitors to "Download, Copy and Play our official 2026 Puzzle Kit," free for everyone The site's 2027 banner says a new activity kit is coming, but as of Nov. 14, 2026 we saw no 2027 kit posted, so check puzzledayfun.com closer to January. The site also lists a Puzzle Day Fact Sheet, an escape room activity kit and the hashtag #PuzzleDay.
 
 We found no confirmed New York Times (NYT) Games or USA Today activity tied to the day, and we do not claim one.
 

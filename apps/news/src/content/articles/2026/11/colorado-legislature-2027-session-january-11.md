@@ -3,6 +3,7 @@ title: "Colorado Legislative Session 2027: Starts Mon., Jan. 11"
 description: "The Colorado General Assembly convenes Mon., Jan. 11, 2027. A day-by-day deadline table to the 120th day, May 10, plus a printable session tracker."
 type: explainer
 publishedAt: "2026-11-10T18:40:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["colorado legislative session 2027", "when does the colorado legislature start 2027", "colorado general assembly 2027", "colorado legislature deadlines 2027"]
@@ -17,7 +18,7 @@ summary:
   - "The First Regular Session of the Seventy-sixth General Assembly convenes Monday, Jan. 11, 2027, under House Joint Resolution 26-1031, signed June 3, 2026."
   - "The Legislative Council Staff schedule counts Jan. 11 as day 1 and ends with the 120th day, Monday, May 10, 2027."
   - "The 2026 session opened on Wednesday, Jan. 14 and adjourned sine die on May 13, 2026, so the 2027 start falls three days earlier."
-  - "The convening time and a single 2027 sine die date are not in the 2027 documents; the schedule lists May 7 to reconvene for adjournment sine die if the houses adjourn to a day certain."
+  - "The Colorado Constitution sets 10:00 a.m. for regular sessions, per the Office of Legislative Legal Services; no 2027 sine die date is set, and the schedule lists May 7 to reconvene if the houses adjourn to a day certain."
 faq:
   - q: "What is day 1 of the 2027 Colorado session?"
     a: "Monday, Jan. 11, 2027. The Legislative Council Staff schedule numbers days from there, so Friday, Jan. 15 is day 5 and Monday, May 10 is day 120."
@@ -37,6 +38,7 @@ sources:
   - title: "Colorado General Assembly home page"
     url: "https://leg.colorado.gov/"
     publisher: "Colorado General Assembly"
+    date: "2026-11-14"
   - title: "Deadline Schedule for the 2026 Colorado General Assembly"
     url: "https://content.leg.colorado.gov/sites/default/files/2026_deadline_schedule-accessible.pdf"
     publisher: "Colorado Legislative Council Staff"
@@ -51,6 +53,10 @@ sources:
     url: "https://www.coloradopolitics.com/2026/04/21/colorado-lawmakers-set-jan-11-start-date-for-2027-general-assembly/"
     publisher: "Colorado Politics"
     date: "2026-04-21"
+  - title: "Convening the First Regular Session of the Seventy-sixth General Assembly (memo)"
+    url: "https://content.leg.colorado.gov/sites/default/files/3.-2027-convening-memo-accessible.pdf"
+    publisher: "Colorado Office of Legislative Legal Services"
+    date: "2026-03-17"
   - title: "Watch and Listen"
     url: "https://leg.colorado.gov/watch-listen"
     publisher: "Colorado General Assembly"
@@ -93,7 +99,7 @@ assets:
         - { date: "2027-05-07", cells: { Deadline: "Reconvene for adjournment sine die, if adjourned to a day certain (day 117)" }, src: 2, quote: "May 7 (Friday) Reconvene for adjournment sine die" }
         - { date: "2027-05-10", cells: { Deadline: "Final passage in second house of bills referred to Appropriations; 120th day" }, src: 2, quote: "May 10 (Monday) Final passage in second house of all bills referred to Appropriations Committee" }
       unconfirmed:
-        - { label: "Convening time on Jan. 11", why: "The 2027 documents give the date but no time" }
+        - { label: "Opening-day program on Jan. 11", why: "The 2027 documents give the date but no program" }
         - { label: "A single 2027 sine die date", why: "The schedule lists May 7 to reconvene for sine die if adjourned to a day certain and May 10 as the 120th day" }
 downloads:
   - group: "Colorado Legislature 2027 Session Tracker printables"
@@ -118,7 +124,7 @@ draft: false
 | General Assembly convenes (day 1) | Mon., Jan. 11, 2027 | HJR 26-1031 |
 | 120th day | Mon., May 10, 2027 | LCS schedule |
 
-The convening time is not in the 2027 documents.
+The Office of Legislative Legal Services says in a March 17, 2026 memo that Article V, section 7 of the Colorado Constitution requires the General Assembly to meet in regular session at 10:00 a.m. The 2027 documents publish no opening-day program.
 
 ## Why does the 2027 session start on a Monday?
 
@@ -178,4 +184,4 @@ The General Assembly's [Watch and Listen page](https://leg.colorado.gov/watch-li
 
 The free one-page tracker lists 14 dated rows from the Dec. 15 request deadline to the May 10 120th day, each with a box to check off. Pair it with a [January 2027 calendar](/january-calendars.html) or a [yearly calendar](/printable-yearly-calendar.html). For other legislatures, see the [Texas legislative session 2027 deadlines](/news/texas-legislative-session-2027-january-12-bill-filing-deadlines/) and the [Virginia General Assembly 2027 session dates](/news/virginia-general-assembly-2027-session-january-13-prefiling-deadlines/).
 
-Not confirmed: the convening time on Jan. 11 and a single 2027 sine die date.
+Not confirmed: an opening-day program for Jan. 11 and a single 2027 sine die date.

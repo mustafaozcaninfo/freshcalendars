@@ -12,8 +12,9 @@ assets:
   overlay: true
   kicker: "World Vegan Day · Sun., Nov. 1"
   date: "2026-11-01"
-  card: { top: "World Vegan Month", big: "Nov. 1-30", bottom: "Starts Sunday, Nov. 1, 2026" }
+  card: { top: "World Vegan Month", big: "Nov. 1-30", bottom: "Began Sunday, Nov. 1, 2026" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: world-vegan-month-2026-planner
     group: world-vegan-month-2026
     title: "World Vegan Month 2026 Planner, Nov. 1-30"
@@ -128,7 +129,7 @@ The date stays at Nov. 1, so only the weekday moves. These weekdays are our calc
 
 ## How can you plan World Vegan Month 2026?
 
-Our planner splits Nov. 1-30 into four weekly plans with a tick box for each step. The ideas are ours and are about cooking and sharing meals, not health or nutrition. The society has not confirmed 2026 events or campaigns that we could list.
+Our planner splits Nov. 1-30 into four weekly plans with a tick box for each step. Its dated steps fall on Mon., Nov. 2, Wed., Nov. 11, Thu., Nov. 19 and Sat., Nov. 28. The ideas are ours and are about cooking and sharing meals, not health or nutrition. The society has not confirmed 2026 events or campaigns that we could list.
 
 - **Week 1 (Nov. 1-7):** mark World Vegan Day, pick three recipes and shop for them.
 - **Week 2 (Nov. 8-14):** cook one recipe and look for a cookbook at your library.

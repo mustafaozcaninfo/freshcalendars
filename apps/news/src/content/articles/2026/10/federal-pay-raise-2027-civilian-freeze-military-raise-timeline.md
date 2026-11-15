@@ -3,6 +3,7 @@ title: "Federal Pay Raise 2027: Civilian Freeze Proposed, Military 5% to 7%"
 description: "The proposed 2027 federal pay raise freezes civilian pay at 2026 rates and raises military pay 5% to 7%. A table sets the plan beside two defense bills."
 type: news
 publishedAt: "2026-10-25T15:15:00-04:00"
+updatedAt: "2026-11-14T17:03:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["federal pay raise 2027", "2027 GS pay raise", "military pay raise 2027", "federal pay freeze 2027"]
@@ -20,14 +21,14 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Lorax"
 summary:
   - "House Document 119-189, dated Aug. 26, 2026, says base pay and locality pay for civilian federal employees \"will not change from the 2026 rates\" in 2027."
-  - "The same plan directs the Office of Personnel Management (OPM) to raise 2027 compensation for law enforcement personnel by 3.8 percent."
+  - "The same plan directs the Office of Personnel Management (OPM) to raise 2027 compensation for law enforcement personnel by 3.8 percent; an OPM memo of Nov. 6 says those raises start Jan. 10, 2027."
   - "The plan sets military basic pay raises of 7.0 percent for grades E1 to E5, 6.0 percent for E6 to O3 and 5.0 percent for O4 and above."
-  - "Raise amounts are not final until the President signs an executive order, and OPM has not posted 2027 salary tables as of Oct. 25, 2026."
+  - "Raise amounts are not final until the President signs an executive order, and OPM had not posted 2027 salary tables as of Nov. 14, 2026."
 faq:
   - q: "Will federal employees get a pay raise in 2027?"
     a: "Not under the President's plan. House Document 119-189 says base pay and locality pay for civilian federal employees will not change from the 2026 rates. Federal News Network reported that the amounts are not final until the President signs an executive order."
   - q: "Is there a 2027 General Schedule (GS) pay raise for law enforcement?"
-    a: "The plan directs OPM to increase 2027 compensation for law enforcement personnel by 3.8 percent."
+    a: "The plan directs OPM to increase 2027 compensation for law enforcement personnel by 3.8 percent. OPM's memo of Nov. 6, 2026 says it will raise its special rate tables L001 through L140 by 3.8 percent, effective Jan. 10, 2027, and newly covered personnel would get about 6.7 percent."
   - q: "How much is the military pay raise for 2027?"
     a: "The President's plan and the House defense bill use 7.0, 6.0 and 5.0 percent tiers. The Senate Armed Services Committee bill funds 3.6 percent across the board, which is also the automatic formula figure the Congressional Research Service (CRS) gave for calendar year 2027."
   - q: "When will the final 2027 federal pay raise be set?"
@@ -55,6 +56,10 @@ sources:
     url: "https://www.moaa.org/content/publications-and-media/news-articles/2026-news-articles/finance/ndaa-and-military-pay-house-and-senate-versions-differ-on-your-2027-raise/"
     publisher: "Military Officers Association of America"
     date: "2026-10-07"
+  - title: "Request for Information: Special Rates to Achieve January 2027 Pay Adjustments for Certain Law Enforcement Personnel"
+    url: "https://www.opm.gov/chcoc/latest-memos/request-for-information-special-rates-to-achieve-january-2027-pay-adjustments-for-certain-law-enforcement-personnel.pdf"
+    publisher: "U.S. Office of Personnel Management (OPM)"
+    date: "2026-11-06"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -64,7 +69,7 @@ related: [federal-benefits-open-season-2026-dates-fehb-premiums, government-fund
 downloads:
   - group: "Federal Pay 2027 printables"
     title: "Federal Pay 2027: Key Dates"
-    description: "A one-page timeline of the dates behind the 2027 federal civilian pay freeze plan and the military pay raise, from July 22, 2026 to Jan. 1, 2027."
+    description: "A one-page timeline of the dates behind the 2027 federal civilian pay freeze plan and the military pay raise, from July 22, 2026 to Jan. 10, 2027."
     preview: ../../../../assets/news/federal-pay-2027/federal-pay-2027-timeline.png
     alt: "Federal pay 2027 timeline with key dates from July 2026 to January 2027"
     pdf: "/news/downloads/federal-pay-2027/federal-pay-2027-timeline.pdf"
@@ -83,15 +88,18 @@ assets:
     subtitle: "Key dates for the 2027 civilian and military pay decisions"
     layout: timeline
     year: 2026
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Wed., July 22, 2026", "House passed its defense bill (H.R. 8800) with 7/6/5 military raises"]
       - ["Wed., Aug. 26, 2026", "Alternative pay plan letter (House Document 119-189) dated"]
-      - ["Tue., Nov. 3, 2026", "Election Day; defense bill talks expected after (MOAA)"]
+      - ["Tue., Nov. 3, 2026", "Election Day; defense bill talks to start after (MOAA)"]
+      - ["Fri., Nov. 6, 2026", "OPM memo on law enforcement special rates"]
       - ["Fri., Dec. 11, 2026", "Government funding deadline"]
       - ["Late December 2026", "Executive order setting final rates expected (FedSmith)"]
       - ["Jan. 1, 2027", "Military raise effective date in the budget request"]
-    note: "Sources: House Document 119-189; Congressional Research Service; Federal News Network; FedSmith; Military Officers Association of America (MOAA)."
-    description: "A one-page timeline of the dates behind the 2027 federal civilian pay freeze plan and the military pay raise, from July 22, 2026 to Jan. 1, 2027."
+      - ["Sun., Jan. 10, 2027", "Law enforcement special-rate raises start (OPM)"]
+    note: "Sources: House Document 119-189; OPM memo of Nov. 6, 2026; Congressional Research Service; Federal News Network; FedSmith; Military Officers Association of America (MOAA)."
+    description: "A one-page timeline of the dates behind the 2027 federal civilian pay freeze plan and the military pay raise, from July 22, 2026 to Jan. 10, 2027."
     alt: "Federal pay 2027 timeline with key dates from July 2026 to January 2027"
 ---
 
@@ -115,6 +123,8 @@ The plan cites authority under Title 5 of the U.S. Code for the civilian adjustm
 
 House Document 119-189 is titled "Alternative Plan for Pay Adjustments." It says base pay and locality pay for civilian federal employees will not change from the 2026 rates. Without the plan, the document says, locality pay would automatically increase by an average of 20.6 percent. For law enforcement, it directs the Office of Personnel Management (OPM) to "increase 2027 compensation for law enforcement personnel by 3.8 percent."
 
+OPM's memo of Nov. 6, 2026, says it will use special salary rates to carry that out. It will raise current Special Rate Tables L001 through L140 by 3.8 percent in January 2027; those tables cover around 140,000 employees. It will also extend special rates to more law enforcement positions, such as certain Office of Inspector General jobs, and says newly covered personnel would see increases of approximately 6.7 percent, subject to pay caps. The increases take effect at the start of the first pay period on or after Jan. 1, 2027, which the memo gives as Jan. 10, 2027. The memo says the Executive Schedule Level IV cap stays at $197,200 in 2027. Agencies have until Nov. 25 to ask to opt out of the new coverage.
+
 For comparison, in 2026 Executive Order 14368, signed Dec. 18, 2025, set a 1.0% across-the-board increase for statutory pay systems and kept locality rates at 2025 levels. That was last year's order, not a 2027 figure.
 
 ## How much would military pay rise?
@@ -129,12 +139,14 @@ MOAA reported on Oct. 7, 2026 that the House passed H.R. 8800, the National Defe
 
 | Date | Step | Source |
 |---|---|---|
-| Tue., Nov. 3, 2026 | Election Day; NDAA talks expected after | MOAA |
+| Tue., Nov. 3, 2026 | Election Day; MOAA wrote NDAA talks would start in earnest after it | MOAA |
+| Fri., Nov. 6, 2026 | OPM memo on law enforcement special rates | OPM |
 | Fri., Dec. 11, 2026 | Government funding deadline (see our [funding deadline story](/news/government-funding-deadline-december-11-2026-shutdown/)) | Our story |
 | Late December 2026 | Executive order setting final rates | FedSmith, Aug. 28, 2026 |
 | Fri., Jan. 1, 2027 | Military raise effective date in the budget request | CRS |
+| Sun., Jan. 10, 2027 | First pay period for law enforcement special-rate increases | OPM |
 
-FedSmith reported that the order usually comes in the last two weeks of December. OPM had not posted 2027 salary tables as of Oct. 25, 2026, and effective dates for civilian pay follow the final order. The [December 2026 printable calendar](/december-calendars.html) and the [January 2027 printable calendar](/january-calendars.html) cover the window.
+FedSmith reported that the order usually comes in the last two weeks of December. OPM had not posted 2027 salary tables as of Nov. 14, 2026, and effective dates for civilian pay follow the final order. The [December 2026 printable calendar](/december-calendars.html) and the [January 2027 printable calendar](/january-calendars.html) cover the window.
 
 ## What else is open for federal employees?
 

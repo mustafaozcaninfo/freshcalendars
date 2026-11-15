@@ -3,7 +3,7 @@ title: "Poll Closing Times by State 2026: 6 p.m. to 1 a.m. Eastern"
 description: "Poll closing times by state 2026: polls closed between 6 p.m. and 1 a.m. Eastern on Tuesday, Nov. 3. Split time zones and the in-line rule explained."
 type: explainer
 publishedAt: "2026-10-20T10:30:00-04:00"
-updatedAt: "2026-11-03T12:48:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 featuredUntil: "2026-11-04T02:00:00-05:00"
 authors: [christina-gerland]
 category: elections
@@ -13,21 +13,21 @@ hero:
   src: ../../../../assets/news/what-time-do-polls-close-election-day-2026/what-time-do-polls-close-election-day-2026.jpg
   alt: "What time do polls close on Election Day 2026: four clocks labeled ET, CT, MT and PT showing the same moment on a night sky"
   title: "Poll closing times, Nov. 3, 2026"
-  caption: "Polls close from 6 p.m. Eastern in parts of Indiana and Kentucky to 1 a.m. Eastern in Alaska's Aleutian Islands on Tuesday, Nov. 3, 2026."
+  caption: "Polls closed from 6 p.m. Eastern in parts of Indiana and Kentucky to 1 a.m. Eastern in Alaska's Aleutian Islands on Tuesday, Nov. 3, 2026."
 summary:
-  - "The first polls close at 6 p.m. Eastern Time on Tuesday, Nov. 3, 2026, in most of Indiana and Kentucky; the last close at 1 a.m. Eastern in Alaska's Aleutian Islands."
-  - "Clocks fell back on Sunday, Nov. 1, so Election Day is on standard time everywhere in the U.S."
-  - "The biggest wave comes at 8 p.m. Eastern, when polls close in 18 states and the District of Columbia."
-  - "In every state, anyone in line when polls close is still allowed to vote."
+  - "The first polls closed at 6 p.m. Eastern Time on Tuesday, Nov. 3, 2026, in most of Indiana and Kentucky; the last closed at 1 a.m. Eastern in Alaska's Aleutian Islands."
+  - "Clocks fell back on Sunday, Nov. 1, so Election Day was on standard time everywhere in the U.S."
+  - "The biggest wave came at 8 p.m. Eastern, when polls closed in 18 states and the District of Columbia."
+  - "In every state, anyone in line when polls close is allowed to vote."
 faq:
-  - q: "What time do polls close on Nov. 3, 2026?"
-    a: "It depends on the state. Most polls close at 7 or 8 p.m. local time. In Eastern Time, closings run from 6 p.m. (most of Indiana and Kentucky) to midnight (Hawaii and most of Alaska) and 1 a.m. (the Aleutian Islands)."
-  - q: "Can I still vote if I'm in line when the polls close?"
+  - q: "What time did polls close on Nov. 3, 2026?"
+    a: "It depended on the state. Most polls closed at 7 or 8 p.m. local time. In Eastern Time, closings ran from 6 p.m. (most of Indiana and Kentucky) to midnight (Hawaii and most of Alaska) and 1 a.m. (the Aleutian Islands)."
+  - q: "Can you still vote if you are in line when the polls close?"
     a: "Yes. Every state lets voters who are in line at closing time cast a ballot. Stay in line."
   - q: "What time do polls open?"
     a: "Usually between 6 and 8 a.m. local time. Polls open at 6 a.m. in states including New York, New Jersey, Virginia, Indiana and Kentucky; at 7 a.m. in many others; and later in some small towns in New England and North Dakota."
-  - q: "Which state closes its polls first?"
-    a: "Indiana and Kentucky. Polls close at 6 p.m. local time, which is 6 p.m. Eastern in the parts of each state on Eastern Time and 7 p.m. Eastern in the parts on Central Time."
+  - q: "Which state closed its polls first?"
+    a: "Indiana and Kentucky. Polls closed at 6 p.m. local time, which was 6 p.m. Eastern in the parts of each state on Eastern Time and 7 p.m. Eastern in the parts on Central Time."
   - q: "Does the end of daylight saving time affect Election Day?"
     a: "Only in how you convert times. Clocks fell back on Nov. 1, so on Nov. 3 the Eastern zone is five hours behind UTC, and Arizona, which never changes its clocks, is two hours behind the East Coast."
 sources:
@@ -60,11 +60,11 @@ downloads:
 draft: false
 ---
 
-**Polls close on Tuesday, Nov. 3, 2026 between 6 p.m. and 1 a.m. Eastern Time, depending on the state.** Most of Indiana and Kentucky close first, at 6 p.m. Eastern, and the Aleutian Islands of Alaska close last. Because clocks fell back on Sunday, Nov. 1, the whole country is on standard time on Election Day.
+**Polls closed on Tuesday, Nov. 3, 2026 between 6 p.m. and 1 a.m. Eastern Time, depending on the state.** Most of Indiana and Kentucky closed first, at 6 p.m. Eastern, and the Aleutian Islands of Alaska closed last. Because clocks fell back on Sunday, Nov. 1, the whole country was on standard time on Election Day.
 
-Follow tonight's results on our [Election Night 2026 live blog](/news/election-day-2026-results-map/), which maps each state's closing hour and tracks every Senate and governor race as states report.
+Results are in our [Election Night 2026 live blog](/news/election-day-2026-results-map/), which maps each state's closing hour and tracks every Senate and governor race.
 
-## Poll closing times in Eastern Time
+## Poll closing times in Eastern Time on Nov. 3
 
 <form class="tool-box" data-state-finder data-none="{state} is not listed in this story; check your county election office." onsubmit="return false" hidden>
 <label for="state-pick">Find your state's closing time</label>
@@ -116,6 +116,6 @@ Closing times shape election night. The first results usually appear within an h
 
 ## Before you go
 
-Find your polling place and see your exact ballot before Election Day; our guide to [finding your sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/) explains how. If you need a ride, see our list of [free and discounted rides to the polls](/news/free-rides-to-the-polls-2026-lyft-uber-transit/). Election Day is not a federal holiday, but some states give workers time off to vote and 11 make it a state holiday; see [what's open and closed on Election Day](/news/is-election-day-a-holiday-2026-whats-open/). Remember that clocks [fall back on Nov. 1](/when-is/daylight-savings/), two days earlier. After polls close, see [when results are expected](/news/when-will-we-know-election-results-2026-midterms/) state by state.
+Before the next election, find your polling place and see your exact ballot; our guide to [finding your sample ballot by ZIP code](/news/sample-ballot-by-zip-code-2026-texas-ballot/) explains how. If you need a ride, see our list of [free and discounted rides to the polls](/news/free-rides-to-the-polls-2026-lyft-uber-transit/). Election Day is not a federal holiday, but some states give workers time off to vote and 11 make it a state holiday; see [what's open and closed on Election Day](/news/is-election-day-a-holiday-2026-whats-open/). Clocks [fell back on Nov. 1](/when-is/daylight-savings/), two days earlier. For the count that followed, see [when results were expected](/news/when-will-we-know-election-results-2026-midterms/) state by state.
 
-Mark the day on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html), and print the one-page closing-time chart below.
+Mark the day on our [November 2026 printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html), and print the one-page closing-time chart below as a record of the night.

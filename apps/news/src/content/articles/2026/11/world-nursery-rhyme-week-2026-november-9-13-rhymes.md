@@ -1,9 +1,9 @@
 ---
 title: "World Nursery Rhyme Week 2026: Nov. 9-13 and the 5 Official Rhymes"
-description: "World Nursery Rhyme Week 2026 runs Nov. 9-13, per the organiser. A day-by-day table names the five official rhymes, with a printable activity sheet."
+description: "World Nursery Rhyme Week 2026 ran Nov. 9-13, per the organiser. A day-by-day table and the five official rhymes, with a printable activity sheet."
 type: news
 publishedAt: "2026-11-08T06:25:00-05:00"
-updatedAt: "2026-11-08T06:25:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["world nursery rhyme week 2026", "nursery rhyme week november 2026", "rhyme a day challenge 2026", "world nursery rhyme week rhymes"]
@@ -60,7 +60,7 @@ assets:
 hero:
   src: ../../../../assets/news/world-nursery-rhyme-week-2026-november-9-13-rhymes/world-nursery-rhyme-week-2026-november-9-13-rhymes.webp
   alt: "Children playing a ring game on a rooftop in 1907, a file photo for World Nursery Rhyme Week 2026"
-  caption: "File photo from 1907: children in a ring on the roof of the Brisbane Institute of Social Service. World Nursery Rhyme Week 2026 runs Nov. 9-13."
+  caption: "File photo from 1907: children in a ring on the roof of the Brisbane Institute of Social Service. World Nursery Rhyme Week 2026 ran Nov. 9-13."
   credit: "Photo: Contributor(s): The Queenslander / Wikimedia Commons, edited"
   license:
     name: "Public domain"
@@ -68,19 +68,19 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:StateLibQld_2_76493_Children_on_the_rooftop_of_the_Brisbane_Institute_of_Social_Service,_1907.jpg"
     author: "Contributor(s): The Queenslander"
 summary:
-  - "World Nursery Rhyme Week 2026 runs Monday, Nov. 9, to Friday, Nov. 13, according to the organiser's website."
-  - "The 2026 list has five official rhymes: Hickory Dickory Dock, Doctor Foster, Pussy Cat, Pussy Cat, Row Row Row Your Boat and 12345."
-  - "People who register receive a free pack of resources with supporting activities."
-  - "The organiser's pages do not say which rhyme falls on which day."
+  - "World Nursery Rhyme Week 2026 ran Monday, Nov. 9, to Friday, Nov. 13, according to the organiser's website."
+  - "The 2026 list had five official rhymes: Hickory Dickory Dock, Doctor Foster, Pussy Cat, Pussy Cat, Row Row Row Your Boat and 12345."
+  - "People who registered received a free pack of resources with supporting activities."
+  - "The organiser's pages did not say which rhyme fell on which day."
 faq:
-  - q: "Which rhyme is on which day?"
-    a: "The organiser's How To Take Part page gives five titles and no day-by-day plan, so the order in the rhymes table is the order of the list, not a schedule. Check the resource pack after registering."
-  - q: "Is there a registration deadline or a time of day?"
-    a: "The three official pages read on Nov. 8, 2026 give neither. The pages also give no cost beyond the free resource pack."
-  - q: "Do I have to be in the UK or the US?"
-    a: "The organiser's home page names no country. It says the week is for anyone who works with or has a child under the age of 7."
+  - q: "Which rhyme was on which day?"
+    a: "The organiser's How To Take Part page gave five titles and no day-by-day plan, so the order in the rhymes table is the order of the list, not a schedule."
+  - q: "Was there a registration deadline or a time of day?"
+    a: "The three official pages read on Nov. 8, 2026 gave neither. The pages also gave no cost beyond the free resource pack."
+  - q: "Did you have to be in the UK or the US?"
+    a: "The organiser's home page named no country. It said the week was for anyone who works with or has a child under the age of 7."
   - q: "What if another website shows different dates?"
-    a: "The organiser's home page and About page both give Nov. 9-13, 2026. Some third-party pages list other dates; they conflict with the organiser and are not used here."
+    a: "The organiser's home page and About page both gave Nov. 9-13, 2026. Some third-party pages list other dates; they conflict with the organiser and are not used here."
 sources:
   - title: "Home - World Nursery Rhyme Week"
     url: "https://www.worldnurseryrhymeweek.com/"
@@ -112,27 +112,25 @@ downloads:
 draft: false
 ---
 
-**World Nursery Rhyme Week 2026 runs Monday, Nov. 9, to Friday, Nov. 13, according to the organiser's official website, worldnurseryrhymeweek.com.** The site lists five official rhymes for 2026 and says people who register receive a free resource pack. It does not publish a day-by-day rhyme plan, a registration deadline or a time of day.
+**World Nursery Rhyme Week 2026 ran Monday, Nov. 9, to Friday, Nov. 13, according to the organiser's official website, worldnurseryrhymeweek.com.** The site listed five official rhymes for 2026 and said people who registered received a free resource pack. It did not publish a day-by-day rhyme plan, a registration deadline or a time of day. The organiser had not posted dates for 2027 when we checked.
 
 ## World Nursery Rhyme Week 2026 dates by day
 
-The home page reads "9th to 13th November 2026", and the About page repeats the range. Weekdays are computed from the calendar. The table gives the five days with a live count from today.
+The home page reads "9th to 13th November 2026", and the About page repeats the range. Weekdays are computed from the calendar. The table gives the five days.
 
-<p class="days-live" data-days-until="2026" hidden></p>
-
-| Date | Day | What happens | Days from Nov. 8 |
-|---|---|---|---|
-| Nov. 9 | Monday | World Nursery Rhyme Week begins | 1 |
-| Nov. 10 | Tuesday | Second day of the week | 2 |
-| Nov. 11 | Wednesday | Third day of the week | 3 |
-| Nov. 12 | Thursday | Fourth day of the week | 4 |
-| Nov. 13 | Friday | World Nursery Rhyme Week ends | 5 |
+| Date | Day | What happened |
+|---|---|---|
+| Nov. 9 | Monday | World Nursery Rhyme Week began |
+| Nov. 10 | Tuesday | Second day of the week |
+| Nov. 11 | Wednesday | Third day of the week |
+| Nov. 12 | Thursday | Fourth day of the week |
+| Nov. 13 | Friday | World Nursery Rhyme Week ended |
 
 For a full month view, use the [November 2026 printable calendar](/november-calendars.html).
 
 ## Which five rhymes are official in 2026?
 
-The How To Take Part page carries the heading "Our 5 official rhymes for 2026". The table keeps the organiser's order. The page gives titles only, so no rhyme is tied to a weekday here.
+The How To Take Part page carries the heading "Our 5 official rhymes for 2026". The table keeps the organiser's order. The page gave titles only, so no rhyme is tied to a weekday here.
 
 | Order on the page | Rhyme |
 |---|---|
@@ -144,19 +142,19 @@ The How To Take Part page carries the heading "Our 5 official rhymes for 2026". 
 
 ## What is the Rhyme a Day Challenge?
 
-The organiser's "Rhyme A Day Challenge" section says registrants receive a free pack of resources with supporting activities. The pack itself is not reproduced here; it comes from the organiser after registration.
+The organiser's "Rhyme A Day Challenge" section said registrants received a free pack of resources with supporting activities. The pack itself is not reproduced here; it came from the organiser after registration.
 
 ## Who can take part and how to register?
 
-The home page says the week is for anyone who works with or has a child under the age of 7. It names primary schools, nurseries, preschools, childminders, parents, grandparents, guardians, nannies, home educators, speech and language practitioners and librarians. No country is named.
+The home page said the week was for anyone who works with or has a child under the age of 7. It names primary schools, nurseries, preschools, childminders, parents, grandparents, guardians, nannies, home educators, speech and language practitioners and librarians. No country is named.
 
-To join, the How To Take Part page tells visitors to register and download the free resource pack through a registration page it links. Cost beyond the free pack, a deadline and a time of day do not appear on the pages read.
+To join, the How To Take Part page told visitors to register and download the free resource pack through a registration page it linked. Cost beyond the free pack, a deadline and a time of day did not appear on the pages read.
 
 ## Who runs World Nursery Rhyme Week?
 
 The About page says it was founded by Music Bugs and launched in 2013, and that it promotes the importance of nursery rhymes in early childhood development and education. The organiser says over 8 million children from countries around the world have taken part since 2013. That reach figure is the organiser's own claim.
 
-Another education observance falls in the same days: [Children's Book Week runs Nov. 9-15](/news/childrens-book-week-november-2026-november-9-15/), a separate event. Families can also use the [printable school calendar](/printable-school-calendar.html) to place the week beside term dates.
+Another education observance fell in the same days: [Children's Book Week, Nov. 9-15](/news/childrens-book-week-november-2026-november-9-15/), a separate event. Families can also use the [printable school calendar](/printable-school-calendar.html) to place the week beside term dates.
 
 ## Printable activity sheet for the week
 

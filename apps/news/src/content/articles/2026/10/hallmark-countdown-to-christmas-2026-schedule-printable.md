@@ -3,6 +3,7 @@ title: "Hallmark Countdown to Christmas 2026 Schedule: 34 Movies, Printable"
 description: "Hallmark Countdown to Christmas 2026 runs Oct. 16 to Dec. 20 with 34 new movies, most at 8 p.m. ET. Days-until counts and a printable checklist."
 type: news
 publishedAt: "2026-10-24T00:45:00-04:00"
+updatedAt: "2026-11-14T17:15:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Hallmark Christmas movies 2026 schedule", "Countdown to Christmas 2026 schedule", "printable Hallmark Christmas movie checklist 2026", "new Hallmark movie tonight"]
@@ -19,6 +20,7 @@ assets:
     title: "Hallmark Countdown to Christmas 2026 Movie Checklist"
     subtitle: "All 34 new premieres, Oct. 16 to Dec. 20, 2026, to tick off as you watch"
     layout: checklist
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - { when: "Fri., Oct. 16", what: "'Tis the Season for Setups", section: "October" }
       - { when: "Sat., Oct. 17", what: "Holiday Touchdown: A Bears Love Story", section: "October" }
@@ -73,11 +75,11 @@ hero:
 summary:
   - "The Hallmark Channel's 17th annual Countdown to Christmas runs Friday, Oct. 16 to Sunday, Dec. 20, 2026, with 34 new original movies."
   - "Movies premiere at 8 p.m. Eastern Time (ET) unless noted and stream on Hallmark+ the next day. The lineup was unveiled Sept. 17, 2026."
-  - "The season opened the weekend of Oct. 16. 'Forgotten Holiday' premieres Saturday, Oct. 24; 'What If Christmas' follows Sunday, Oct. 25."
+  - "The season opened Oct. 16. 'The Nights Before Christmas' is the Saturday, Nov. 14 premiere; 'Mistletoe and Mimosas' follows Sunday, Nov. 15."
   - "A free printable checklist lists all 34 movies by month, and the days-until table below highlights the next premiere."
 faq:
   - q: "What new Hallmark movie is on tonight?"
-    a: "On Saturday, Oct. 24, 2026, the Countdown to Christmas premiere is 'Forgotten Holiday' at 8 p.m. Eastern Time, and 'What If Christmas' follows Sunday, Oct. 25. The days-until table above always highlights the next premiere, so it updates as the season goes on."
+    a: "On Saturday, Nov. 14, 2026, the Countdown to Christmas premiere is 'The Nights Before Christmas' at 8 p.m. Eastern Time, and 'Mistletoe and Mimosas' follows Sunday, Nov. 15. The days-until table above highlights the next premiere, so it updates as the season goes on."
   - q: "When does Hallmark Countdown to Christmas 2026 start and end?"
     a: "It runs Friday, Oct. 16 to Sunday, Dec. 20, 2026. The slate was unveiled Sept. 17, 2026, and this is the 17th annual edition, according to TVLine."
   - q: "How many new Hallmark Christmas movies are there in 2026?"
@@ -85,7 +87,7 @@ faq:
   - q: "Where can I stream the new Hallmark Christmas movies?"
     a: "New premieres stream on Hallmark+ the day after they air on the Hallmark Channel, according to the published schedule."
   - q: "Is Mistletoe Murders part of Countdown to Christmas?"
-    a: "The third season of 'Mistletoe Murders' premieres Thursday, Nov. 5 and airs on Thursdays. It is a returning series, not one of the 34 new movies, so it is listed separately below."
+    a: "The third season of 'Mistletoe Murders' premiered Thursday, Nov. 5 and airs on Thursdays. It is a returning series, not one of the 34 new movies, so it is listed separately below."
 sources:
   - title: "Hallmark Channel's Countdown To Christmas 2026 Lineup: See The Complete Schedule Of New Holiday Movies"
     url: "https://tvline.com/2261153/2026-hallmark-channel-christmas-movies-schedule-full-cast-photos-list"
@@ -121,7 +123,7 @@ draft: false
 
 **The Hallmark Channel's Countdown to Christmas 2026 runs from Friday, Oct. 16 to Sunday, Dec. 20, with 34 new original movies, most premiering at 8 p.m. Eastern Time (ET).** The lineup, the 17th annual edition, was unveiled Sept. 17, 2026, and the full schedule below is as published by TVLine. New movies stream on Hallmark+ the day after they air.
 
-The season opened the weekend of Oct. 16, so the first movies have already aired. "Forgotten Holiday" premieres Saturday, Oct. 24, and "What If Christmas" follows Sunday, Oct. 25. The table below counts the days to every movie and marks the next one up.
+The season opened the weekend of Oct. 16, and every premiere through Friday, Nov. 13 has aired. "The Nights Before Christmas" premieres Saturday, Nov. 14, and "Mistletoe and Mimosas" follows Sunday, Nov. 15. The table below counts the days to every movie and marks the next one up.
 
 ## Hallmark Christmas movies 2026: full schedule and days until each
 
@@ -129,56 +131,56 @@ The season opened the weekend of Oct. 16, so the first movies have already aired
 
 Dates and premiere times are as published by TVLine. Movies air at 8 p.m. ET unless a time is listed. The last column counts from today in Eastern Time, and the next premiere is highlighted.
 
-| Date | Day | Premiere | Days from Oct. 24 |
+| Date | Day | Premiere | Days from Nov. 14 |
 |---|---|---|---|
 | Oct. 16 | Friday | 'Tis the Season for Setups | Passed |
 | Oct. 17 | Saturday | Holiday Touchdown: A Bears Love Story | Passed |
 | Oct. 18 | Sunday | Mr. & Mrs. Christmas | Passed |
 | Oct. 23 | Friday | Winter Wonderlanes | Passed |
-| Oct. 24 | Saturday | Forgotten Holiday | Today |
-| Oct. 25 | Sunday | What If Christmas | 1 |
-| Oct. 30 | Friday | Who's Coming for Christmas? | 6 |
-| Oct. 31 | Saturday | Adopting St. Nick | 7 |
-| Nov. 1 | Sunday | A Danish Christmas | 8 |
-| Nov. 6 | Friday | Merry Memories | 13 |
-| Nov. 7 | Saturday | Holiday Unplugged | 14 |
-| Nov. 8 | Sunday | A Season of Promises | 15 |
-| Nov. 13 | Friday | My Christmas Cowboy | 20 |
-| Nov. 14 | Saturday | The Nights Before Christmas | 21 |
-| Nov. 15 | Sunday | Mistletoe and Mimosas | 22 |
-| Nov. 20 | Friday | Our Holiday Playbook | 27 |
-| Nov. 21 | Saturday | Christmas in Blue Dog Valley | 28 |
-| Nov. 22 | Sunday | Double Booked for the Holidays | 29 |
-| Nov. 26 | Thursday | Christmas Delivered | 33 |
-| Nov. 27 | Friday | The Christmas Eve Feast (6 p.m.) | 34 |
-| Nov. 27 | Friday | Return to Santa (8 p.m.) | 34 |
-| Nov. 28 | Saturday | The Most Wonderful Secret (6 p.m.) | 35 |
-| Nov. 28 | Saturday | Holiday Ever After: A Disney World Wish Come True (8 p.m.) | 35 |
-| Nov. 29 | Sunday | Eight Nights for Love (6 p.m.) | 36 |
-| Nov. 29 | Sunday | Miles to Christmas (8 p.m.) | 36 |
-| Dec. 4 | Friday | The Snowflake Effect | 41 |
-| Dec. 5 | Saturday | A Grand Biltmore Christmas | 42 |
-| Dec. 6 | Sunday | An Angel in My Stocking | 43 |
-| Dec. 11 | Friday | Christmas in Canterbury | 48 |
-| Dec. 12 | Saturday | Snow Globe Town | 49 |
-| Dec. 13 | Sunday | Noelle Nomads | 50 |
-| Dec. 18 | Friday | Hearts All Aglow | 55 |
-| Dec. 19 | Saturday | Barking All the Way | 56 |
-| Dec. 20 | Sunday | Save the Date for Christmas | 57 |
+| Oct. 24 | Saturday | Forgotten Holiday | Passed |
+| Oct. 25 | Sunday | What If Christmas | Passed |
+| Oct. 30 | Friday | Who's Coming for Christmas? | Passed |
+| Oct. 31 | Saturday | Adopting St. Nick | Passed |
+| Nov. 1 | Sunday | A Danish Christmas | Passed |
+| Nov. 6 | Friday | Merry Memories | Passed |
+| Nov. 7 | Saturday | Holiday Unplugged | Passed |
+| Nov. 8 | Sunday | A Season of Promises | Passed |
+| Nov. 13 | Friday | My Christmas Cowboy | Passed |
+| Nov. 14 | Saturday | The Nights Before Christmas | Today |
+| Nov. 15 | Sunday | Mistletoe and Mimosas | 1 |
+| Nov. 20 | Friday | Our Holiday Playbook | 6 |
+| Nov. 21 | Saturday | Christmas in Blue Dog Valley | 7 |
+| Nov. 22 | Sunday | Double Booked for the Holidays | 8 |
+| Nov. 26 | Thursday | Christmas Delivered | 12 |
+| Nov. 27 | Friday | The Christmas Eve Feast (6 p.m.) | 13 |
+| Nov. 27 | Friday | Return to Santa (8 p.m.) | 13 |
+| Nov. 28 | Saturday | The Most Wonderful Secret (6 p.m.) | 14 |
+| Nov. 28 | Saturday | Holiday Ever After: A Disney World Wish Come True (8 p.m.) | 14 |
+| Nov. 29 | Sunday | Eight Nights for Love (6 p.m.) | 15 |
+| Nov. 29 | Sunday | Miles to Christmas (8 p.m.) | 15 |
+| Dec. 4 | Friday | The Snowflake Effect | 20 |
+| Dec. 5 | Saturday | A Grand Biltmore Christmas | 21 |
+| Dec. 6 | Sunday | An Angel in My Stocking | 22 |
+| Dec. 11 | Friday | Christmas in Canterbury | 27 |
+| Dec. 12 | Saturday | Snow Globe Town | 28 |
+| Dec. 13 | Sunday | Noelle Nomads | 29 |
+| Dec. 18 | Friday | Hearts All Aglow | 34 |
+| Dec. 19 | Saturday | Barking All the Way | 35 |
+| Dec. 20 | Sunday | Save the Date for Christmas | 36 |
 
 That is 34 new movies in all. The weekend of Nov. 27 to 29, over Thanksgiving, is the busiest: each night carries two premieres, one at 6 p.m. and one at 8 p.m. ET.
 
 ## October premieres
 
-The season opened Friday, Oct. 16 with "'Tis the Season for Setups," starring Amanda Schull, Victor Webster and Barbara Niven. "Holiday Touchdown: A Bears Love Story," with Lyndsy Fonseca and Robert Buckley, followed on Oct. 17, "Mr. & Mrs. Christmas" on Oct. 18 and "Winter Wonderlanes" on Oct. 23. Those premieres have aired and are on Hallmark+. The rest of October brings "Forgotten Holiday" (Oct. 24), "What If Christmas" (Oct. 25), "Who's Coming for Christmas?" (Oct. 30) and "Adopting St. Nick" (Oct. 31).
+The season opened Friday, Oct. 16 with "'Tis the Season for Setups," starring Amanda Schull, Victor Webster and Barbara Niven. "Holiday Touchdown: A Bears Love Story," with Lyndsy Fonseca and Robert Buckley, followed on Oct. 17, "Mr. & Mrs. Christmas" on Oct. 18 and "Winter Wonderlanes" on Oct. 23. The rest of October brought "Forgotten Holiday" (Oct. 24), "What If Christmas" (Oct. 25), "Who's Coming for Christmas?" (Oct. 30) and "Adopting St. Nick" (Oct. 31). Movies stream on Hallmark+ the day after they air.
 
 ## November premieres
 
-November opens with "A Danish Christmas" on Sunday, Nov. 1 and fills every weekend through the month. "Holiday Ever After: A Disney World Wish Come True," with Lacey Chabert and Travis Van Winkle, premieres Saturday, Nov. 28 at 8 p.m. The Thanksgiving weekend doubles up: Nov. 27, 28 and 29 each air a 6 p.m. and an 8 p.m. movie. The third season of "Mistletoe Murders," with Sarah Drew and Peter Mooney, premieres Thursday, Nov. 5 and airs Thursdays; it is a returning series, not one of the 34 new movies, so it is not in the count above.
+November opened with "A Danish Christmas" on Sunday, Nov. 1 and fills every weekend through the month. "Holiday Ever After: A Disney World Wish Come True," with Lacey Chabert and Travis Van Winkle, premieres Saturday, Nov. 28 at 8 p.m. The Thanksgiving weekend doubles up: Nov. 27, 28 and 29 each air a 6 p.m. and an 8 p.m. movie. The third season of "Mistletoe Murders," with Sarah Drew and Peter Mooney, premiered Thursday, Nov. 5 and airs Thursdays; it is a returning series, not one of the 34 new movies, so it is not in the count above.
 
 ## December premieres
 
-December runs nine more movies to the finish. "A Grand Biltmore Christmas," with Holland Roden, Niall Matter, Andie MacDowell and Jonathan Frakes, premieres Saturday, Dec. 5. A "Hallmark Christmas Experience: A Hometown Holiday" special airs the same night at 10 p.m. The season closes with "Save the Date for Christmas" on Sunday, Dec. 20.
+December brings nine more movies to the finish. "A Grand Biltmore Christmas," with Holland Roden, Niall Matter, Andie MacDowell and Jonathan Frakes, premieres Saturday, Dec. 5. A "Hallmark Christmas Experience: A Hometown Holiday" special airs the same night at 10 p.m. The season closes with "Save the Date for Christmas" on Sunday, Dec. 20.
 
 ## Print the full 2026 checklist
 

@@ -3,7 +3,7 @@ title: "Winnipeg Election 2026: Gillingham Re-elected With 80,206 Votes"
 description: "Winnipeg election 2026: Scott Gillingham was re-elected mayor on Oct. 28 with 80,206 votes. Voting hours were 8 a.m. to 8 p.m. Central Time, plus ID rules."
 type: news
 publishedAt: "2026-10-28T00:02:00-04:00"
-updatedAt: "2026-11-01T02:41:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Winnipeg election 2026", "Winnipeg election day October 28", "Winnipeg voting hours", "what ID do I need to vote in Winnipeg"]
@@ -11,7 +11,7 @@ dateline: "Winnipeg"
 hero:
   src: ../../../../assets/news/winnipeg-election-2026-october-28-voting-hours-id-what-to-know/winnipeg-election-2026-october-28-voting-hours-id-what-to-know.webp
   alt: "Winnipeg election 2026: Winnipeg City Hall on Main Street, where advance voting took place"
-  caption: "Winnipeg City Hall at 510 Main Street hosted advance voting. On Election Day, Wednesday, Oct. 28, 2026, voting places open 8 a.m. to 8 p.m. Central Time."
+  caption: "Winnipeg City Hall at 510 Main Street hosted advance voting. On Election Day, Wednesday, Oct. 28, 2026, voting places were open 8 a.m. to 8 p.m. Central Time."
   credit: "Photo: Ccyyrree / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
@@ -48,16 +48,16 @@ summary:
   - "The City of Winnipeg requires every voter to show proof of name and current address; one option is two original pieces of authorized ID."
   - "Winnipeg ballots carry mayor, councillor and school trustee races."
 faq:
-  - q: "What time do polls open and close in Winnipeg on Oct. 28, 2026?"
-    a: "Voting places are open 8 a.m. to 8 p.m. Central Time, the Province of Manitoba says. That is 9 a.m. to 9 p.m. Eastern Time."
-  - q: "Can I still vote if I arrive just before 8 p.m.?"
-    a: "The Province says a qualified voter may vote as long as they enter the voting place before 8:00 p.m. on Election Day."
+  - q: "What time did polls open and close in Winnipeg on Oct. 28, 2026?"
+    a: "Voting places were open 8 a.m. to 8 p.m. Central Time, the Province of Manitoba said. That was 9 a.m. to 9 p.m. Eastern Time."
+  - q: "Could I vote if I arrived just before 8 p.m.?"
+    a: "The Province said a qualified voter could vote as long as they entered the voting place before 8:00 p.m. on Election Day."
   - q: "What ID do I need to vote in Winnipeg?"
     a: "The City requires proof of your name and current address. One option is two original pieces of authorized ID that together show both; each must have your name and at least one must have your current address. Other options are on the City's identification page."
   - q: "Where do I vote in Winnipeg?"
     a: "Use the City's Where Do I Vote tool. In 2022 the City said a voter's designated location was on the voter's notice; we could not confirm the 2026 wording."
-  - q: "Can I still vote in advance?"
-    a: "No. Advance voting at City Hall ended Oct. 23, and the community sites ended Oct. 22, according to the City."
+  - q: "Was there advance voting?"
+    a: "Yes. Advance voting at City Hall ended Oct. 23, and the community sites ended Oct. 22, according to the City."
 sources:
   - title: "Winnipeg election results: Scott Gillingham re-elected mayor, 9 new councillors"
     url: "https://globalnews.ca/news/12122725/election-day-winnipeg-2026/"
@@ -108,13 +108,11 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Oct. 30, 2026, 12:45 a.m. ET.</b> Results: Mayor Scott Gillingham was re-elected with 39.8% of the vote (80,206) on unofficial results from all 245 tabulators, ahead of Kevin Klein (20.7%), Noah Redden (19.8%) and Mike Vogiatzakis (9.7%), Global News and the Canadian Broadcasting Corporation (CBC) reported. The City of Winnipeg results page blocked our automated check, so turnout and the date results become official are not yet confirmed here.</p>
-
 **Winnipeg voted Wednesday, Oct. 28, 2026, and re-elected Mayor Scott Gillingham, who led with 80,206 votes on the City of Winnipeg's results page.** Voting places were open 8 a.m. to 8 p.m. local time (Central Time, CT), and voters showed identification (ID) with their name and current address. Ballots carried the offices of mayor, councillor and school trustee. The result details and the voting-day guidance below are kept for reference.
 
 ## What are the Winnipeg voting hours in other time zones?
 
-The Province of Manitoba says voting places must be open from 8:00 a.m. to 8:00 p.m. On Oct. 28, Central Time is five hours behind Coordinated Universal Time (UTC-5), so the hours convert as follows.
+The Province of Manitoba said voting places must be open from 8:00 a.m. to 8:00 p.m. On Oct. 28, Central Time was five hours behind Coordinated Universal Time (UTC-5), so the hours converted as follows.
 
 | Time zone | Opens | Closes |
 |---|---|---|
@@ -123,7 +121,7 @@ The Province of Manitoba says voting places must be open from 8:00 a.m. to 8:00 
 | Mountain Time (MT) | 7 a.m. | 7 p.m. |
 | Pacific Time (PT) | 6 a.m. | 6 p.m. |
 
-The Province adds that a qualified voter may still vote as long as they enter the voting place before 8:00 p.m. on Election Day.
+The Province added that a qualified voter could still vote as long as they entered the voting place before 8:00 p.m. on Election Day.
 
 ## What ID do I need to vote in Winnipeg?
 
@@ -135,17 +133,17 @@ The City notes that its list "is not exhaustive and additional pieces of ID may 
 
 The City runs a [Where Do I Vote tool](https://www.winnipeg.ca/city-governance/wards-elections/2026-election/voter-app/where-do-i-vote). In 2022 the City said a voter's designated location could be found on the voter's notice. The City also publishes [ward boundary](https://www.winnipeg.ca/city-governance/wards-elections/2026-election/ward-boundaries) and [school division ward boundary](https://www.winnipeg.ca/city-governance/wards-elections/2026-election/school-division-ward-boundaries) maps.
 
-## Is advance voting still open?
+## Was there advance voting?
 
-No. According to the City, advance voting ran at City Hall, 510 Main Street, from Oct. 5 to 23, at mall sites from Oct. 6 to 18, and at community sites from Oct. 19 to 22, from 4 to 8 p.m. Election Day is the last chance to vote.
+Yes. According to the City, advance voting ran at City Hall, 510 Main Street, from Oct. 5 to 23, at mall sites from Oct. 6 to 18, and at community sites from Oct. 19 to 22, from 4 to 8 p.m. Election Day, Oct. 28, was the last chance to vote.
 
 ## Who is on the ballot?
 
 The City's election page lists the offices on the ballot as mayor, councillor and school trustee. The City lists every nominated candidate for mayor, councillor and school trustee on its [candidates page](https://www.winnipeg.ca/city-governance/wards-elections/2026-election/information-voters/candidates). The mayoral nomination period ran from Sept. 16 to 4:30 p.m. on Sept. 22, 2026, the City says.
 
-## Do other Manitoba communities vote today?
+## Did other Manitoba communities vote the same day?
 
-Yes. The Province of Manitoba says the next general municipal election is Wednesday, Oct. 28, 2026, so Manitoba's municipal and school board elections share this date. The Province also lists July 24, 2026 elections in the resort communities of Victoria Beach, Dunnottar and Winnipeg Beach, which are past.
+Yes. The Province of Manitoba said the next general municipal election was Wednesday, Oct. 28, 2026, so Manitoba's municipal and school board elections shared that date. The Province also lists July 24, 2026 elections in the resort communities of Victoria Beach, Dunnottar and Winnipeg Beach, which are past.
 
 ## How many people voted in Winnipeg in 2022?
 

@@ -1,9 +1,9 @@
 ---
 title: "Intersex Awareness Day 2026: Oct. 26 Origin, Nov. 8 Solidarity Day"
-description: "Intersex Awareness Day is observed Oct. 26, a Monday in 2026. It marks a 1996 Boston demonstration; Intersex Day of Solidarity is Sunday, Nov. 8."
+description: "Intersex Awareness Day is observed Oct. 26, a Monday in 2026. It marks a 1996 Boston demonstration; Intersex Day of Solidarity followed on Sunday, Nov. 8."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:09:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Intersex Awareness Day 2026", "Intersex Awareness Day October 26", "Intersex Day of Solidarity"]
@@ -16,12 +16,12 @@ assets:
 hero:
   src: ../../../../assets/news/intersex-awareness-day-2026-october-26/intersex-awareness-day-2026-october-26.jpg
   alt: "Intersex Awareness Day 2026 illustration: a calendar card for Monday, Oct. 26"
-  caption: "Intersex Awareness Day is observed on Oct. 26, which was a Monday in 2026; Intersex Day of Solidarity is Sunday, Nov. 8."
+  caption: "Intersex Awareness Day is observed on Oct. 26, which was a Monday in 2026; Intersex Day of Solidarity fell on Sunday, Nov. 8."
 summary:
   - "Intersex Awareness Day is observed on Oct. 26, which was a Monday in 2026."
   - "It marks the first public intersex demonstration in North America, held Oct. 26, 1996, in Boston outside the annual meeting of the American Academy of Pediatrics (AAP)."
   - "The day was created in 2003 by Emi Koyama and Betsy Driver and was first observed in 2004."
-  - "Nov. 8 is Intersex Day of Solidarity, also called Intersex Day of Remembrance, which marks the birthday of Herculine Barbin."
+  - "Nov. 8 is Intersex Day of Solidarity, also called Intersex Day of Remembrance, which marks the birthday of Herculine Barbin. In 2026 it fell on a Sunday."
 sources:
   - title: "The origins of Intersex Awareness Day"
     url: "https://intersexday.org/en/origin-intersex-awareness-day/"
@@ -55,15 +55,15 @@ interACT: Advocates for Intersex Youth describes the day as a time for awareness
 
 ## Oct. 26 to Nov. 8
 
-Nov. 8 is Intersex Day of Solidarity, which is a Sunday in 2026, six days after Nov. 2. The Intersex Day Project says the date, also called Intersex Day of Remembrance, marks the birthday of Herculine Barbin, a French intersex person.
+Nov. 8 is Intersex Day of Solidarity, which was a Sunday in 2026. The Intersex Day Project says the date, also called Intersex Day of Remembrance, marks the birthday of Herculine Barbin, a French intersex person.
 
 | Date | Observance |
 |---|---|
 | Mon., Oct. 26, 2026 (passed) | Intersex Awareness Day |
-| Sun., Nov. 8, 2026 | Intersex Day of Solidarity |
+| Sun., Nov. 8, 2026 (passed) | Intersex Day of Solidarity |
 
 ## How to read the dates
 
-Oct. 26 falls on a different weekday each year, so the date, not the weekday, defines the observance. In 2026 it landed on a Monday, which put it at the start of a two-week stretch that closes on Sunday, Nov. 8. Counting both days, that is 14 days.
+Oct. 26 falls on a different weekday each year, so the date, not the weekday, defines the observance. In 2026 it landed on a Monday, which put it at the start of a two-week stretch that closed on Sunday, Nov. 8. Counting both days, that is 14 days. Both dates are fixed, so in 2027 Oct. 26 falls on a Tuesday and Nov. 8 on a Monday, by our calendar count.
 
 Mark both dates on the [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars.

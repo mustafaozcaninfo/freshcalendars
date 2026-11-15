@@ -3,25 +3,25 @@ title: "Veteran ID Card: How to Prove Veteran Status for Discounts"
 description: "A Veteran Health ID card, military ID or state license with a Veteran designation can prove status for discounts. Five state rules and a checklist."
 type: explainer
 publishedAt: "2026-11-04T21:05:00-05:00"
-updatedAt: "2026-11-04T21:05:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 shop: veterans-day
 keywords: ["veteran id card", "how to prove veteran status for discounts", "veteran id card for discounts", "veteran designation driver's license"]
 assets:
   overlay: true
-  kicker: "Veterans Day · Wed., Nov. 11"
+  kicker: "Veterans Day 2026 · Proof of service"
   date: "2026-11-11"
   card: { top: "Bring one of these", big: "4 IDs", bottom: "VA lists the IDs that get discounts" }
   printable:
     kit: planner
     slug: what-to-bring-prove-veteran-status-nov-11-2026
     group: veteran-id-2026
-    title: "What to Bring to Prove Veteran Status on Nov. 11, 2026"
-    subtitle: "Tick the proof you have before Veterans Day discounts"
+    title: "What to Bring to Prove Veteran Status for Discounts"
+    subtitle: "Tick the proof you have before you ask for a veteran discount"
     note: "Source: U.S. Department of Veterans Affairs, How to apply for a Veteran ID Card and Types of Veteran ID Cards; National Park Service, Entrance Passes; Georgia Department of Driver Services."
-    description: "One-page checklist of the IDs and papers that can prove veteran status for Veterans Day discounts, with VA's own wording and what is still not confirmed."
-    alt: "Printable checklist of IDs that prove veteran status for Veterans Day discounts on Nov. 11, 2026"
+    description: "One-page checklist of the IDs and papers that can prove veteran status for veteran discounts, with VA's own wording and what is still not confirmed."
+    alt: "Printable checklist of IDs that prove veteran status for veteran discounts"
     data:
       sections:
         - type: checklist
@@ -44,7 +44,6 @@ assets:
         - { text: "VA: any of these IDs gets the same discounts (VHIC, DoD ID, state Veteran designation)", src: 1, quote: "You can use any of these forms of ID to get the same discounts:" }
         - { text: "All new Veteran ID Cards are digital since September 2022", src: 1, quote: "As of September 2022, all new Veteran ID Cards are digital." }
         - { text: "National Park passholders must show photo ID with each pass", src: 8, quote: "Passholders must show valid photo identification (ID) with each pass." }
-        - { text: "Georgia driver services centers closed Wed., Nov. 11, 2026", src: 15, quote: "All centers will be closed Wednesday, November 11th, 2026." }
       unconfirmed:
         - { label: "Veteran ID Card fee", why: "VA page lists no fee" }
         - { label: "Veteran ID Card processing time", why: "VA page gives no timeline" }
@@ -63,14 +62,16 @@ summary:
   - "The Department of Veterans Affairs (VA) says a Veteran Health Identification Card (VHIC), a Department of Defense (DoD) ID or a state license with a Veteran designation gets the same discounts as its Veteran ID Card (VIC)."
   - "VA says all new VICs have been digital since September 2022, and its VIC page lists no fee and no standard processing time."
   - "VA says all 50 states and Puerto Rico offer a Veteran designation; the five state pages we read differ on proof and fees."
-  - "Veterans Day is Wednesday, Nov. 11, 2026, and each retailer decides which proof it accepts."
+  - "Veterans Day was Wednesday, Nov. 11, 2026, and the next one is Thursday, Nov. 11, 2027; each retailer decides which proof it accepts."
 faq:
   - q: "Is a DD-214 enough to prove I am a veteran?"
     a: "It depends on who asks. The ID.me help page lists the DD-214 among its documents for veterans, and the Texas, Florida, Ohio and Georgia licensing pages list it as proof for a designation. VA's own list of IDs that get discounts does not include it, and the National Park Service page for the Military Lifetime Pass does not mention it."
   - q: "Does a veteran designation on my license cost anything?"
     a: "It depends on the state. Florida's fee table shows no fee, Texas says it is free with an original or renewal license, Ohio charges nothing to add the emblem on its own, and California charges a nonrefundable application fee whose amount its page does not give. Fees in other states were not confirmed."
-  - q: "Can I get a Veteran ID Card before Nov. 11?"
-    a: "VA's page gives no standard processing time, so do not count on a new application finishing by Wednesday, Nov. 11. Bring a document you already have."
+  - q: "How long does a Veteran ID Card take to get?"
+    a: "VA's page gives no standard processing time, so do not count on a new application finishing by a set date. Bring a document you already have."
+  - q: "When is the next Veterans Day?"
+    a: "Thursday, Nov. 11, 2027, according to the Office of Personnel Management (OPM) federal holiday list."
   - q: "Do all stores accept the same proof?"
     a: "No. A retailer decides what it accepts. ID.me and SheerID, which verify veterans for some stores, publish their own lists, and those are not store policies."
 sources:
@@ -129,6 +130,10 @@ sources:
   - title: "How do I get a veteran license"
     url: "https://dds.georgia.gov/georgia-licenseid/military-veterans-and-national-guard/how-do-i-veteran-license"
     publisher: "Georgia Department of Driver Services"
+  - title: "Federal Holidays"
+    url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
+    publisher: "Office of Personnel Management (OPM)"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -137,17 +142,17 @@ internalLinks:
 related: [veterans-day-free-meals-discounts, veterans-day-2026-wednesday-november-11, national-parks-free-days-october-27-veterans-day-2026]
 downloads:
   - group: "What to Bring to Prove Veteran Status on Nov. 11 printables"
-    title: "What to Bring to Prove Veteran Status on Nov. 11, 2026"
-    description: "One-page checklist of the IDs and papers that can prove veteran status for Veterans Day discounts, with VA's own wording and what is still not confirmed."
+    title: "What to Bring to Prove Veteran Status for Discounts"
+    description: "One-page checklist of the IDs and papers that can prove veteran status for veteran discounts, with VA's own wording and what is still not confirmed."
     preview: ../../../../assets/news/veteran-id-2026/what-to-bring-prove-veteran-status-nov-11-2026.png
-    alt: "Printable checklist of IDs that prove veteran status for Veterans Day discounts on Nov. 11, 2026"
+    alt: "Printable checklist of IDs that prove veteran status for veteran discounts"
     pdf: "/news/downloads/veteran-id-2026/what-to-bring-prove-veteran-status-nov-11-2026.pdf"
     png: "/news/downloads/veteran-id-2026/what-to-bring-prove-veteran-status-nov-11-2026.png"
     pages: 1
 draft: false
 ---
 
-**The Department of Veterans Affairs (VA) says a Veteran Health Identification Card (VHIC), a Department of Defense (DoD) ID card or a state driver's license with a Veteran designation gets the same discounts as its Veteran ID Card (VIC).** That is on VA's VIC page, last updated July 23, 2026. Veterans Day is Wednesday, Nov. 11, 2026, and many offers in our [Veterans Day free meals and discounts](/news/veterans-day-free-meals-discounts/) list ask for proof of service. Below: which ID proves status, who can get it, what five state pages say about designation proof and fees, and a printable checklist.
+**The Department of Veterans Affairs (VA) says a Veteran Health Identification Card (VHIC), a Department of Defense (DoD) ID card or a state driver's license with a Veteran designation gets the same discounts as its Veteran ID Card (VIC).** That is on VA's VIC page, last updated July 23, 2026. Veterans Day was Wednesday, Nov. 11, 2026, and many offers in our [Veterans Day free meals and discounts](/news/veterans-day-free-meals-discounts/) list asked for proof of service. The next Veterans Day is Thursday, Nov. 11, 2027, per the Office of Personnel Management (OPM). Below: which ID proves status, who can get it, what five state pages say about designation proof and fees, and a printable checklist.
 
 ## Which ID proves veteran status, and who can get it?
 
@@ -162,7 +167,7 @@ VA's page on the VIC says: "You can use any of these forms of ID to get the same
 | VA letter | Veterans eligible for the letter; VA's letters page lists a "Benefits and service summary" and a "Service verification" | Download from VA; ID.me lists "VA eligibility letters" among its documents, but VA's discount list does not name a letter |
 | DD-214 (Certificate of Release or Discharge from Active Duty) | Veterans with the discharge paper | ID.me lists it; the VIC application and four of the state pages below use it as proof |
 
-VA's card overview says you need to be enrolled in VA health care to receive a VHIC, and that a VIC needs an honorable or general discharge. A new VIC may not arrive in time for Nov. 11: the VA page gives no timeline, so start with something you already hold.
+VA's card overview says you need to be enrolled in VA health care to receive a VHIC, and that a VIC needs an honorable or general discharge. A new VIC may not arrive by a set date: the VA page gives no timeline, so start with something you already hold.
 
 The law behind the card, the Veterans Identification Card Act of 2015 (Public Law 114-31, approved July 20, 2015), refers to a required fee. VA's VIC page lists none. Read the fee line when you apply.
 
@@ -178,14 +183,12 @@ VA says all 50 states and Puerto Rico offer a Veteran designation. We read five 
 | Ohio | One proof of military service, such as a DD-214; the state calls it an "Armed Forces" emblem | No fee to add the emblem on its own; normal fees apply for a new or duplicate credential |
 | Georgia | Separation papers (DD-214, member copy 4) or a Certificate of Eligibility (DS-516B) | Qualified veterans may be eligible for a free license as shown on the DS-516B |
 
-Georgia's page also says all driver services centers are closed on Wednesday, Nov. 11, 2026.
-
 ## Which proof do retailers and parks accept?
 
 A retailer decides what it accepts. ID.me's help page lists a DD-214, a driver's license or DMV ID with a veteran endorsement, a state or county veteran ID, VA eligibility letters, a VHIC and a VIC among the documents that prove military status. It says a retiree's DD-214 counts only if it shows 20 years of service or retirement. SheerID's help page says its instant data sources do not differentiate based on discharge status. Those are the verifiers' own pages, not any store's policy; check with the store.
 
-For national parks, the National Park Service (NPS) says veterans and Gold Star families are eligible for a Military Lifetime Pass. It accepts a DoD ID, a VHIC, a VIC (digital only, from VA) or the Veteran designation on a state license. Its entrance pass page says passholders must show valid photo ID with each pass. Our [national parks free days story](/news/national-parks-free-days-october-27-veterans-day-2026/) covers Nov. 11 entry.
+For national parks, the National Park Service (NPS) says veterans and Gold Star families are eligible for a Military Lifetime Pass. It accepts a DoD ID, a VHIC, a VIC (digital only, from VA) or the Veteran designation on a state license. Its entrance pass page says passholders must show valid photo ID with each pass. Our [national parks free days story](/news/national-parks-free-days-october-27-veterans-day-2026/) covers the Nov. 11 free entry.
 
-## What to bring on Veterans Day
+## What to bring for a veteran discount
 
-The printable checklist below lists each proof from this story with a tick box. Pick the one you already hold, add a government photo ID, and check the date on the [November 2026 printable calendar](/november-calendars.html). For the holiday itself, see [when Veterans Day falls](/when-is/veterans-day/) and our [Veterans Day 2026 guide](/news/veterans-day-2026-wednesday-november-11/). Our [VA disability payment dates](/news/va-disability-payment-dates-2026-2027-november-payment-october-30/) guide shows when monthly payments arrive. Our [Veterans Day printables](/news/veterans-day-printables-2026-activity-sheet-quiz-thank-you-note/) page has a free activity sheet and quiz.
+The printable checklist below lists each proof from this story with a tick box. Pick the one you already hold and add a government photo ID. The [November 2026 printable calendar](/november-calendars.html) shows where Veterans Day fell. For the holiday itself, see [when Veterans Day falls](/when-is/veterans-day/) and our [Veterans Day 2026 guide](/news/veterans-day-2026-wednesday-november-11/). Our [VA disability payment dates](/news/va-disability-payment-dates-2026-2027-november-payment-october-30/) guide shows when monthly payments arrive. Our [Veterans Day printables](/news/veterans-day-printables-2026-activity-sheet-quiz-thank-you-note/) page has a free activity sheet and quiz.

@@ -1,8 +1,9 @@
 ---
 title: "Disney Advent Calendar 2026: $275 Christmas Cookies Pin Set, 24 Pins"
-description: "Disney's 2026 pin advent calendar is the $275 Christmas Cookies set, limited to 5,750. See the 12 known pins, where it is sold and the Europe price."
+description: "Disney's 2026 pin advent calendar is the $275 Christmas Cookies set, limited to 5,750. See the 12 known pins, where it sold and the Europe price cut."
 type: news
 publishedAt: "2026-10-19T08:15:00-04:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Disney pin advent calendar 2026", "Disney Christmas Cookies advent calendar", "Disney advent calendar 2026", "Disney pin trading 2026", "Disney Store advent calendar"]
@@ -15,26 +16,28 @@ hero:
 summary:
   - "Disney's 2026 pin advent calendar is the Christmas Cookies 24-Day Advent Calendar Mystery Pin Set, priced at $275."
   - "It is a limited edition of 5,750 worldwide, with 24 cloisonné pins: 12 known characters and 12 mystery designs."
-  - "It is sold at Disneyland Resort, Walt Disney World and DisneyStore.com, two per guest. It was still available on DisneyStore.com on the morning of Oct. 19."
-  - "In Europe it costs 250 euros on the Disney Store's European site."
+  - "It was sold at Disneyland Resort, Walt Disney World and DisneyStore.com, two per guest. It was still available on DisneyStore.com on the morning of Oct. 19, but on Nov. 14 the U.S. product link opened a general pin page instead of the set."
+  - "In Europe the list price is 250 euros, and on Nov. 14 the Disney Store's European site showed it at 200 euros, 20% off, with a Notify Me option instead of a buy button."
 faq:
   - q: "How much is the Disney pin advent calendar 2026?"
-    a: "$275 at the U.S. Disney Store and the Disney parks, and 250 euros on Disney Store Europe."
+    a: "$275 at the U.S. Disney Store and the Disney parks. Disney Store Europe lists 250 euros and, on Nov. 14, showed 200 euros after a 20% discount."
   - q: "What pins are in the 2026 Disney advent calendar?"
     a: "Twelve are known: Santa Mickey Mouse with Minnie Mouse, Goofy, Meeko, Pumbaa, White Rabbit, Simba, Pascal, Cheshire Cat, Jiminy Cricket, Dale, Lucky and Figaro. The other 12 are a mystery until you open them."
   - q: "How many Disney pin advent calendars were made in 2026?"
     a: "5,750 worldwide. It is a limited edition, and the Disney Store limits purchases to two per guest."
   - q: "Is the Disney pin advent calendar sold out?"
-    a: "Not yet. When we checked DisneyStore.com on the morning of Monday, Oct. 19, 2026, it could still be added to the bag at $275, with a limit of two per guest. With 5,750 sets worldwide, stock can go quickly."
+    a: "Disney does not say. On the morning of Monday, Oct. 19, 2026, DisneyStore.com still let shoppers add it to the bag at $275, with a limit of two per guest. On Nov. 14 the U.S. product link opened a general pin page, and the European page offered a Notify Me email option. With 5,750 sets worldwide, stock goes quickly."
   - q: "When do you open the Disney pin advent calendar?"
     a: "One compartment a day from Dec. 1 to Dec. 24, according to Disney. Each compartment hides a mystery cookie pin that goes on the included display tray."
 sources:
   - title: "Disney Christmas Cookies 24-Day Advent Calendar Mystery Pin Set 2026 – Limited Edition"
     url: "https://www.disneystore.com/disney-christmas-cookies-24-day-advent-calendar-mystery-pin-set-2026-limited-edition-438011331262.html"
     publisher: "Disney Store"
+    date: "2026-11-14"
   - title: "Disney Christmas Cookies 24-Day Countdown Limited Edition Calendar Mystery Pin Set 2026"
     url: "https://www.disneystore.eu/disney-christmas-cookies-24-day-countdown-limited-edition-calendar-mystery-pin-set-2026-438011477175.html"
     publisher: "Disney Store Europe"
+    date: "2026-11-14"
   - title: "See The Adorable New Disney Pins Advent Calendar"
     url: "https://www.wdwinfo.com/?p=294293"
     publisher: "WDW Info"
@@ -64,7 +67,7 @@ draft: false
 | Detail | 2026 calendar |
 |---|---|
 | Name | Disney Christmas Cookies 24-Day Advent Calendar Mystery Pin Set 2026, Limited Edition |
-| Price | $275 (U.S.); 250 euros (Disney Store Europe) |
+| Price | $275 (U.S.); 250 euros list, 200 euros with 20% off on Nov. 14 (Disney Store Europe) |
 | Edition size | 5,750 worldwide |
 | Pins | 24: 12 known, 12 mystery |
 | Where sold | Disneyland Resort, Walt Disney World Resort, DisneyStore.com, while supplies last |
@@ -99,9 +102,9 @@ The catch is the edition size. With 5,750 sets worldwide and a two-per-guest lim
 
 ## Where to buy it
 
-- **DisneyStore.com.** Available at $275 on Oct. 19, two per guest.
+- **DisneyStore.com.** Available at $275 on Oct. 19, two per guest. On Nov. 14 the product link opened a general pin page, so check the Disney Store pin section for restocks.
 - **The parks.** Disney says the set is also sold at the Disneyland Resort and Walt Disney World Resort while supplies last. Stock in the parks is separate from the online store.
-- **Disney Store Europe.** The European store lists its own version at 250 euros, shipping within Europe.
+- **Disney Store Europe.** The European store lists its own version at 250 euros, shown at 200 euros after a 20% discount on Nov. 14, with a Notify Me email option shown instead of a buy button. Limit of two per guest.
 
 ## Other 2026 advent calendars
 

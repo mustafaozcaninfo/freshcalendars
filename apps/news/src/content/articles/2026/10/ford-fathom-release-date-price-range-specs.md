@@ -103,6 +103,7 @@ assets:
   kicker: "Ford Fathom · Preorders early 2027"
   card: { top: "Starting MSRP, standard-range battery", big: "$28,350", bottom: "Plus $1,595 destination" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: ford-fathom-preorder-checklist-2027
     group: ford-fathom-2027
     title: "Ford Fathom Preorder Checklist 2027"
@@ -126,13 +127,11 @@ assets:
       - { when: "Home power", what: "Home Power Station and Backup Panel prices, utility approval", section: "Check before you preorder" }
       - { when: "Order", what: "Deposit amount, refund terms and delivery estimate", section: "Check before you preorder" }
       - { when: "Dealer", what: "Dealer fees, taxes, title and registration in your state", section: "Check before you preorder" }
-    note: "Source: Ford.com Fathom page; Ford From the Road, Aug. 6, Aug. 13, Oct. 27 and Oct. 28, 2026. Checked Oct. 30, 2026. Taxes and dealer fees extra."
+    note: "Source: Ford.com Fathom page; Ford From the Road, Aug. 6, Aug. 13, Oct. 27 and Oct. 28, 2026. Taxes and dealer fees extra."
     inkSaver: true
     description: "One-page Ford Fathom preorder checklist with Ford's confirmed price, 2027 dates and features, and the specs to check before ordering."
     alt: "Printable Ford Fathom preorder checklist 2027 with confirmed price, dates and features and the specs still to check"
 ---
-
-<p class="callout"><b>Checked Oct. 29, 2026.</b> We will update this page when Ford publishes range, battery and delivery details.</p>
 
 **The Ford Fathom starts at $28,350, and Ford says preorders begin in early 2027.** That is the manufacturer's suggested retail price (MSRP) for the midsize all-electric pickup with its standard-range battery, according to [Ford's Fathom page](https://www.ford.com/electric/fathom/). The same page lists a $1,595 destination and delivery charge, so the two together come to $29,945 before taxes, title, registration and dealer fees.
 

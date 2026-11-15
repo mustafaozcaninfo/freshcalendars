@@ -3,7 +3,7 @@ title: "Make A Difference Day 2026: Oct. 24, Where to Find a Project"
 description: "Make A Difference Day 2026 was Saturday, Oct. 24; the next is Saturday, Oct. 23, 2027. Where to find a project, campus dates and a free planner."
 type: explainer
 publishedAt: "2026-10-23T02:41:00-04:00"
-updatedAt: "2026-10-25T17:35:00-04:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Make A Difference Day 2026", "Make A Difference Day October 24", "volunteer opportunities near me", "fourth Saturday of October"]
@@ -20,6 +20,7 @@ assets:
     subtitle: "Find a project, confirm the details and pack for Sat., Oct. 24"
     notesLabel: "Project name, address, organizer contact"
     inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - { when: "Before", what: "Search AmeriCorps, Idealist or JustServe for a project near you", section: "Find a project" }
       - { when: "Before", what: "Sign up ahead if the organizer asks for it", section: "Find a project" }
@@ -39,7 +40,7 @@ hero:
   alt: "Make A Difference Day 2026 illustration: an autumn scene beside a calendar card for Saturday, Oct. 24"
   caption: "Make A Difference Day is held on the fourth Saturday of October: Oct. 24 in 2026 and Oct. 23 in 2027."
 summary:
-  - "Make A Difference Day is on the fourth Saturday of October: Saturday, Oct. 24, 2026, and Saturday, Oct. 23, 2027."
+  - "Make A Difference Day is on the fourth Saturday of October: it was Saturday, Oct. 24, 2026, and the next is Saturday, Oct. 23, 2027."
   - "A Gannett weekend magazine created it in 1992. We found no single national 2026 organizer page, theme or official count, so projects are organized locally."
   - "It is not a federal holiday. The only federal holiday in October 2026 was Columbus Day, Monday, Oct. 12."
   - "Search for a project on AmeriCorps, Idealist or JustServe, and check local news or your campus, since many schools pick their own date."
@@ -99,9 +100,7 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>Updated Sun., Oct. 25, 2026.</b> Make A Difference Day 2026, Saturday, Oct. 24, has passed. It falls on the fourth Saturday of October, so the next one is Saturday, Oct. 23, 2027. Many campuses and local groups pick their own dates, and the volunteer finders below list projects all year.</p>
-
-**Make A Difference Day is Saturday, Oct. 24, 2026.** It is held on the fourth Saturday of October, which makes next year's date Saturday, Oct. 23, 2027. A Gannett weekend magazine created the day in 1992, and Points of Light long partnered with it, according to a Points of Light blog post. We found no single national organizer page for 2026, no national theme and no official count, so we give no volunteer totals. Projects are organized locally. It is not a federal holiday; the only one in October 2026 was Columbus Day, Monday, Oct. 12, per the Office of Personnel Management (OPM).
+**Make A Difference Day 2026 was Saturday, Oct. 24.** It is held on the fourth Saturday of October, so the next one is Saturday, Oct. 23, 2027. A Gannett weekend magazine created the day in 1992, and Points of Light long partnered with it, according to a Points of Light blog post. We found no single national organizer page for 2026, no national theme and no official count, so we give no volunteer totals. Projects are organized locally, many campuses and local groups pick their own dates, and the volunteer finders below list projects all year. It is not a federal holiday; the only one in October 2026 was Columbus Day, Monday, Oct. 12, per the Office of Personnel Management (OPM).
 
 ## Where to look for a project
 
@@ -113,12 +112,12 @@ Points of Light's current [days-of-service page](https://www.pointsoflight.org/p
 
 ## Two local examples
 
-- **Venice, Florida.** mysuncoast.com reported on Oct. 21, 2026, that the city's 13th annual event is Saturday, Oct. 24, from 8 to 11 a.m., with check-in at 7:30 a.m. at the Venice Community Center, 326 Nokomis Ave. S.
+- **Venice, Florida.** mysuncoast.com reported on Oct. 21, 2026, that the city's 13th annual event would be Saturday, Oct. 24, from 8 to 11 a.m., with check-in at 7:30 a.m. at the Venice Community Center, 326 Nokomis Ave. S.
 - **McKinney, Texas.** The OneStar Foundation lists an event on Oct. 23-24, organized by Volunteer McKinney, by application.
 
 ## Campuses pick their own date
 
-Many schools do not use the fourth Saturday. Grand Valley State University and Michigan Tech hold theirs on Saturday, Oct. 17, 2026, according to their own pages. Check your campus, town or congregation for its date.
+Many schools do not use the fourth Saturday. Grand Valley State University and Michigan Tech held theirs on Saturday, Oct. 17, 2026, according to their own pages. Check your campus, town or congregation for its date.
 
 ## A few practical tips
 

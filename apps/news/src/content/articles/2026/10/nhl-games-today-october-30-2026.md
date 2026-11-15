@@ -1,8 +1,9 @@
 ---
 title: "NHL Games Today, Oct. 30, 2026: 3 Games, First Puck Drop 6:00 p.m. ET"
-description: "NHL games today, Friday, Oct. 30, 2026: 3 games at 6:00, 7:00 and 8:00 p.m. ET. Time-zone table, TV listings, printable score sheet, Saturday's 10 games."
+description: "NHL games on Friday, Oct. 30, 2026: Devils beat Vegas 5-2, Panthers 5-2, Flames 6-2. Start times, TV, time zones, Saturday's 10 games, a score sheet."
 type: news
 publishedAt: "2026-10-29T19:40:00-04:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today", "NHL games tonight", "NHL schedule October 30 2026", "NHL Halloween games 2026", "printable NHL schedule"]
@@ -11,27 +12,27 @@ assets:
   overlay: true
   kicker: "NHL · Fri., Oct. 30, 2026"
   date: "2026-10-30"
-  card: { top: "3 NHL games on Friday", big: "6:00 p.m. ET", bottom: "Devils at Golden Knights" }
+  card: { top: "NHL games, Fri., Oct. 30", big: "Devils 5-2", bottom: "Final at Vegas" }
   printable:
     slug: nhl-games-today-october-30-2026
     group: nhl-2026-27
     title: "NHL Games Today, Fri., Oct. 30, 2026"
-    subtitle: "All 3 games, start times in Eastern Time. Write in the final scores."
+    subtitle: "All 3 games, start times in Eastern Time, with the final scores."
     columns: ["Start (ET)", "Game, arena and TV"]
     layout: list
     rows:
-      - ["6:00 p.m.", "Devils at Golden Knights, T-Mobile Arena. TV: NHL Network, MSG Sportsnet, Scripps. Final: ___ to ___"]
-      - ["7:00 p.m.", "Jets at Panthers, Amerant Bank Arena. TV: Scripps (Panthers). Final: ___ to ___"]
-      - ["8:00 p.m.", "Kraken at Flames, Scotiabank Saddledome. TV: Prime Video, KONG. Final: ___ to ___"]
-    note: "Source: National Hockey League schedule data (api-web.nhle.com), checked Oct. 29, 2026. US TV only. Times can change; check before puck drop."
-    inkSaver: true
-    description: "A one-page NHL schedule for Friday, Oct. 30, 2026: all 3 games with Eastern start times, arenas, US TV and lines for the final scores."
-    alt: "Printable NHL games today sheet for Oct. 30, 2026, listing 3 games with start times, arenas, TV and score lines"
+      - ["6:00 p.m.", "Devils at Golden Knights, T-Mobile Arena. TV: NHL Network, MSG Sportsnet, Scripps. Final: Devils 5, Golden Knights 2"]
+      - ["7:00 p.m.", "Jets at Panthers, Amerant Bank Arena. TV: Scripps (Panthers). Final: Panthers 5, Jets 2"]
+      - ["8:00 p.m.", "Kraken at Flames, Scotiabank Saddledome. TV: Prime Video, KONG. Final: Flames 6, Kraken 2"]
+    note: "Source: National Hockey League schedule data (api-web.nhle.com): schedule checked Oct. 29, 2026, final scores checked Nov. 14, 2026. US TV only."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
+    description: "A one-page NHL schedule for Friday, Oct. 30, 2026: all 3 games with Eastern start times, arenas, US TV and the final scores."
+    alt: "Printable NHL games sheet for Oct. 30, 2026, listing 3 games with start times, arenas, TV and final scores"
 hero:
   src: ../../../../assets/news/nhl-games-today-october-30-2026/nhl-games-today-october-30-2026.webp
-  alt: "NHL players take a faceoff at Joe Louis Arena, a file photo for the NHL games today on Friday, Oct. 30, 2026"
+  alt: "NHL players take a faceoff at Joe Louis Arena, a file photo for the NHL games on Friday, Oct. 30, 2026"
   title: "NHL games Friday"
-  caption: "File photo of an NHL faceoff in Detroit. Three NHL games are scheduled for Friday, Oct. 30, 2026, and ten more follow on Saturday, Oct. 31."
+  caption: "File photo of an NHL faceoff in Detroit. Three NHL games were played on Friday, Oct. 30, 2026, and ten more on Saturday, Oct. 31."
   credit: "Photo: Ken Lund from Reno, Nevada, USA / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -40,45 +41,37 @@ hero:
     author: "Ken Lund from Reno, Nevada, USA"
     authorUrl: "https://www.flickr.com/people/75683070@N00"
 summary:
-  - "The National Hockey League (NHL) lists 3 games for Friday, Oct. 30, 2026, starting at 6:00, 7:00 and 8:00 p.m. Eastern Time (ET)."
-  - "The games are New Jersey at Vegas, Winnipeg at Florida and Seattle at Calgary."
-  - "Only Devils at Golden Knights has a national U.S. channel in the league's listing: NHL Network."
-  - "Saturday, Oct. 31 has 10 games, from 1:00 p.m. to 10:00 p.m. ET."
+  - "The National Hockey League (NHL) played 3 games on Friday, Oct. 30, 2026, starting at 6:00, 7:00 and 8:00 p.m. Eastern Time (ET)."
+  - "New Jersey won at Vegas 5-2, Florida beat Winnipeg 5-2 and Calgary beat Seattle 6-2, all in regulation, per the NHL."
+  - "Only Devils at Golden Knights had a national U.S. channel in the league's listing: NHL Network."
+  - "Saturday, Oct. 31 had 10 games, from 1:00 p.m. to 10:00 p.m. ET."
 faq:
-  - q: "How many NHL games are on tonight, Friday, Oct. 30, 2026?"
-    a: "3, per the NHL's schedule data: Devils at Golden Knights at 6:00 p.m. ET, Jets at Panthers at 7:00 p.m. ET and Kraken at Flames at 8:00 p.m. ET."
-  - q: "What time is the first NHL game on Oct. 30?"
-    a: "New Jersey at Vegas at 6:00 p.m. ET, which is 3:00 p.m. Pacific Time (PT) at T-Mobile Arena in Las Vegas."
-  - q: "Are there NHL games on Halloween, Saturday, Oct. 31, 2026?"
-    a: "Yes, 10 games, from 1:00 p.m. ET (Blackhawks at Bruins and Blues at Red Wings) to 10:00 p.m. ET (Flames at Avalanche). The full list is in the table above."
-  - q: "Is there a printable NHL schedule for Friday?"
-    a: "Yes. The one-page sheet lists the 3 games with start times in ET, arenas, U.S. TV and a line for each final score. It does not update, so check the NHL schedule before puck drop."
+  - q: "How many NHL games were on Friday, Oct. 30, 2026?"
+    a: "3, per the NHL's schedule data: Devils at Golden Knights at 6:00 p.m. ET (Devils won 5-2), Jets at Panthers at 7:00 p.m. ET (Panthers won 5-2) and Kraken at Flames at 8:00 p.m. ET (Flames won 6-2)."
+  - q: "What time was the first NHL game on Oct. 30?"
+    a: "New Jersey at Vegas at 6:00 p.m. ET, which was 3:00 p.m. Pacific Time (PT) at T-Mobile Arena in Las Vegas."
+  - q: "Were there NHL games on Halloween, Saturday, Oct. 31, 2026?"
+    a: "Yes, 10 games, from 1:00 p.m. ET (Blackhawks at Bruins and Blues at Red Wings) to 10:00 p.m. ET (Flames at Avalanche). The full list is in the table below."
+  - q: "Is there a printable NHL sheet for Friday, Oct. 30?"
+    a: "Yes. The one-page sheet lists the 3 games with start times in ET, arenas, U.S. TV and the final scores."
 downloads:
   - group: "NHL Games Today printables"
     title: "NHL Games Today, Fri., Oct. 30, 2026"
-    description: "A one-page NHL schedule for Friday, Oct. 30, 2026: all 3 games with Eastern start times, arenas, US TV and lines for the final scores."
+    description: "A one-page NHL schedule for Friday, Oct. 30, 2026: all 3 games with Eastern start times, arenas, US TV and the final scores."
     preview: ../../../../assets/news/nhl-2026-27/nhl-games-today-october-30-2026.png
-    alt: "Printable NHL games today sheet for Oct. 30, 2026, listing 3 games with start times, arenas, TV and score lines"
+    alt: "Printable NHL games sheet for Oct. 30, 2026, listing 3 games with start times, arenas, TV and final scores"
     pdf: "/news/downloads/nhl-2026-27/nhl-games-today-october-30-2026.pdf"
     png: "/news/downloads/nhl-2026-27/nhl-games-today-october-30-2026.png"
-    pages: 1
-  - group: "NHL Games Today printables"
-    title: "NHL Games Today, Fri., Oct. 30, 2026 (ink saver)"
-    description: "A one-page NHL schedule for Friday, Oct. 30, 2026: all 3 games with Eastern start times, arenas, US TV and lines for the final scores. Ink-saver version."
-    preview: ../../../../assets/news/nhl-2026-27/nhl-games-today-october-30-2026-ink.png
-    alt: "Printable NHL games today sheet for Oct. 30, 2026, listing 3 games with start times, arenas, TV and score lines, ink-saver version"
-    pdf: "/news/downloads/nhl-2026-27/nhl-games-today-october-30-2026-ink.pdf"
-    png: "/news/downloads/nhl-2026-27/nhl-games-today-october-30-2026-ink.png"
     pages: 1
 sources:
   - title: "NHL schedule data, Oct. 30, 2026"
     url: "https://api-web.nhle.com/v1/schedule/2026-10-30"
     publisher: "National Hockey League"
-    date: "2026-10-29"
+    date: "2026-11-14"
   - title: "NHL schedule data, Oct. 31, 2026"
     url: "https://api-web.nhle.com/v1/schedule/2026-10-31"
     publisher: "National Hockey League"
-    date: "2026-10-29"
+    date: "2026-11-14"
   - title: "NHL standings, Oct. 29, 2026"
     url: "https://api-web.nhle.com/v1/standings/2026-10-29"
     publisher: "National Hockey League"
@@ -97,23 +90,23 @@ related: [nhl-games-today-october-29-2026, nba-games-today-october-30-2026, nhl-
 draft: false
 ---
 
-**There are 3 National Hockey League (NHL) games on Friday, Oct. 30, 2026, and the first puck drop is at 6:00 p.m. Eastern Time (ET), per the NHL's official schedule data.** The New Jersey Devils visit the Vegas Golden Knights at 6:00 p.m. ET, the Winnipeg Jets play at the Florida Panthers at 7:00 p.m. ET and the Seattle Kraken are at the Calgary Flames at 8:00 p.m. ET.
+**There were 3 National Hockey League (NHL) games on Friday, Oct. 30, 2026, and the first puck drop was at 6:00 p.m. Eastern Time (ET), per the NHL's official schedule data.** The New Jersey Devils won at the Vegas Golden Knights 5-2, the Florida Panthers beat the Winnipeg Jets 5-2 and the Calgary Flames beat the Seattle Kraken 6-2, all in regulation.
 
-We took the games, times, arenas and TV listings from the league's schedule feed on Oct. 29. This page does not carry live scores; the [NHL schedule](https://www.nhl.com/schedule) shows them once play starts.
+We took the games, times, arenas and TV listings from the league's schedule feed on Oct. 29 and the final scores from the same feed on Nov. 14. The [NHL schedule](https://www.nhl.com/schedule) has the rest of the season.
 
-## NHL schedule today: 3 games, arenas and TV
+## NHL schedule for Oct. 30: 3 games, arenas, TV and finals
 
-| Start (ET) | Game | Arena | TV listed by the NHL |
-|---|---|---|---|
-| 6:00 p.m. | New Jersey Devils at Vegas Golden Knights | T-Mobile Arena, Las Vegas | U.S.: NHL Network (national), Devils regional network, Scripps (Vegas). Canada: Sportsnet+ (SN+) |
-| 7:00 p.m. | Winnipeg Jets at Florida Panthers | Amerant Bank Arena, Sunrise | U.S.: Scripps (Panthers). Canada: TSN3 (Jets), plus a French-language national broadcast |
-| 8:00 p.m. | Seattle Kraken at Calgary Flames | Scotiabank Saddledome, Calgary | U.S.: Prime Video and a second Kraken regional channel. Canada: Sportsnet (SN) and Sportsnet 360 |
+| Start (ET) | Game | Arena | TV listed by the NHL | Final |
+|---|---|---|---|---|
+| 6:00 p.m. | New Jersey Devils at Vegas Golden Knights | T-Mobile Arena, Las Vegas | U.S.: NHL Network (national), Devils regional network, Scripps (Vegas). Canada: Sportsnet+ (SN+) | Devils 5, Golden Knights 2 |
+| 7:00 p.m. | Winnipeg Jets at Florida Panthers | Amerant Bank Arena, Sunrise | U.S.: Scripps (Panthers). Canada: TSN3 (Jets), plus a French-language national broadcast | Panthers 5, Jets 2 |
+| 8:00 p.m. | Seattle Kraken at Calgary Flames | Scotiabank Saddledome, Calgary | U.S.: Prime Video and a second Kraken regional channel. Canada: Sportsnet (SN) and Sportsnet 360 | Flames 6, Kraken 2 |
 
 Oct. 30 is also Nevada Day, a Nevada state holiday; our [Nevada Day story](/news/nevada-day-2026-friday-october-30-whats-closed-early-voting/) covers what is closed.
 
-## What time are the NHL games tonight in my time zone?
+## What time were the NHL games in each time zone?
 
-Oct. 30 is before the U.S. clock change on Sunday, Nov. 1, 2026, so daylight time applies. We worked these out from the league's Eastern start times.
+Oct. 30 is before the U.S. clock change on Sunday, Nov. 1, 2026, so daylight time applied. We worked these out from the league's Eastern start times.
 
 | Game | ET | Central (CT) | Mountain (MT) | Pacific (PT) |
 |---|---|---|---|---|
@@ -136,17 +129,17 @@ Records are wins-losses-overtime losses (W-L-OTL), from the NHL standings enteri
 | Winnipeg Jets | 4-5-3 (11) |
 | Calgary Flames | 5-7-0 (10) |
 
-These are not Friday's records: Thursday's games are still to be played.
+These are not the records entering Friday's games: Thursday's games were still to be played.
 
-## Where to watch NHL games tonight
+## Where were the NHL games on TV?
 
-In the U.S., the NHL lists one national channel for Friday: NHL Network for Devils at Golden Knights. The other two games are on regional channels, Scripps for the Panthers and Prime Video for the Kraken, so what you can see depends on where you live. Check your provider's guide.
+In the U.S., the NHL listed one national channel for Friday: NHL Network for Devils at Golden Knights. The other two games were on regional channels, Scripps for the Panthers and Prime Video for the Kraken.
 
-In Canada, the league lists Sportsnet+ for the first game, a French-language broadcast for Jets at Panthers, and Sportsnet and Sportsnet 360 for Kraken at Flames.
+In Canada, the league listed Sportsnet+ for the first game, a French-language broadcast for Jets at Panthers, and Sportsnet and Sportsnet 360 for Kraken at Flames.
 
 ## What is on Halloween Saturday, Oct. 31: 10 games
 
-The NHL lists 10 games for Saturday, Oct. 31, 2026, from 1:00 p.m. to 10:00 p.m. ET.
+The NHL listed 10 games for Saturday, Oct. 31, 2026, from 1:00 p.m. to 10:00 p.m. ET. Boston beat Chicago 5-4 in overtime, Nashville beat Tampa Bay 5-4 in a shootout and Edmonton won 4-0 at the Islanders, per the NHL's score data.
 
 | Start (ET) | Game | Canadian national TV |
 |---|---|---|
@@ -161,10 +154,10 @@ The NHL lists 10 games for Saturday, Oct. 31, 2026, from 1:00 p.m. to 10:00 p.m.
 | 8:00 p.m. | Columbus Blue Jackets at Dallas Stars | None listed |
 | 10:00 p.m. | Calgary Flames at Colorado Avalanche | SN |
 
-The NHL's data lists no U.S. national TV for Saturday, so check local listings. The U.S. clocks fall back one hour at 2 a.m. local time on Sunday, Nov. 1, so Saturday's times are not affected; our [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) has the details.
+The NHL's data listed no U.S. national TV for Saturday. The U.S. clocks fall back one hour at 2 a.m. local time on Sunday, Nov. 1, so Saturday's times are not affected; our [daylight saving time story](/news/daylight-saving-time-ends-november-1-2026/) has the details.
 
 ## Printable NHL schedule and score sheet
 
-The one-page sheet has Friday's 3 games in start-time order, each with its arena, U.S. TV and a line for the final score, plus a notes area. Pin it next to the [printable weekly calendar](/printable-weekly-calendar.html), or keep the [November 2026 printable calendar](/november-calendars.html) handy for the week ahead. A printed sheet cannot update itself, so check the NHL schedule if a start time moves.
+The one-page sheet has Friday's 3 games in start-time order, each with its arena, U.S. TV and the final score, plus a notes area. Pin it next to the [printable weekly calendar](/printable-weekly-calendar.html), or keep the [November 2026 printable calendar](/november-calendars.html) handy for the weeks ahead.
 
-Yesterday's slate is in [NHL games today for Oct. 29](/news/nhl-games-today-october-29-2026/). Friday's National Basketball Association (NBA) games are in [NBA games today](/news/nba-games-today-october-30-2026/), and the date and time of the [2027 Winter Classic](/news/nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city/) are set.
+The day before is in [NHL games today for Oct. 29](/news/nhl-games-today-october-29-2026/). Friday's National Basketball Association (NBA) games are in [NBA games today](/news/nba-games-today-october-30-2026/), and the date and time of the [2027 Winter Classic](/news/nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city/) are set.

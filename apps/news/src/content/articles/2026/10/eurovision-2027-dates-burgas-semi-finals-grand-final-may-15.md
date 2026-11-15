@@ -90,8 +90,6 @@ related: [uk-bank-holidays-2027-dates-england-scotland-northern-ireland, lord-ma
 draft: false
 ---
 
-<p class="callout"><b>Checked Nov. 4, 2026.</b> The dates below are confirmed. Tickets go on sale early in 2027. Start times, prices and the UK entry are not yet announced.</p>
-
 **Eurovision 2027 is in Burgas, Bulgaria, with semi-finals on Tuesday, May 11 and Thursday, May 13, 2027, and the grand final on Saturday, May 15, 2027, the European Broadcasting Union (EBU) said on Aug. 13, 2026.** The EBU says the 71st Eurovision Song Contest will be staged at Arena Burgas, which it calls Bulgaria's newest sports and entertainment venue. The EBU says six preview shows run between Monday, May 10 and Saturday, May 15, 2027, so nine shows in all (three contests and six previews). This story counts the days to each show and lists what is confirmed and what is not.
 
 ## When is Eurovision 2027?

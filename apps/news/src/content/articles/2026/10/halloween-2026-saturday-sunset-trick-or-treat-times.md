@@ -3,7 +3,7 @@ title: "Halloween 2026 Sunset Times: 16 U.S. Cities on Oct. 31"
 description: "Halloween 2026 was Saturday, Oct. 31, the first Saturday Halloween since 2020. Sunset and dark times for 16 U.S. cities, such as 5:53 p.m. in New York."
 type: news
 publishedAt: "2026-10-19T10:25:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Halloween 2026", "Halloween 2026 Saturday", "trick or treat times 2026", "sunset on Halloween 2026", "Halloween daylight saving time 2026"]
@@ -11,7 +11,7 @@ dateline: "New York"
 hero:
   src: ../../../../assets/news/halloween-2026-saturday-sunset-trick-or-treat-times/halloween-2026-saturday-sunset-trick-or-treat-times.jpg
   alt: "Halloween 2026: jack-o'-lanterns under a night sky beside a calendar card for Saturday, Oct. 31 and clocks going from 2 a.m. back to 1 a.m."
-  title: "Halloween 2026 is Saturday, Oct. 31, and clocks fall back hours later"
+  title: "Halloween 2026 was Saturday, Oct. 31, and clocks fell back hours later"
   caption: "Halloween 2026 fell on Saturday, Oct. 31. Clocks went back one hour at 2 a.m. Sunday, Nov. 1, so that Sunday was 25 hours long."
 summary:
   - "Halloween 2026 was Saturday, Oct. 31, the first Saturday Halloween since 2020 and the last until 2037."
@@ -30,7 +30,7 @@ faq:
   - q: "Is Halloween a federal holiday?"
     a: "No. Halloween is not one of the 11 federal holidays, and the Federal Reserve's bank holiday calendar does not include it. On Saturday, Oct. 31, 2026, mail delivery and bank hours followed the usual Saturday schedule."
   - q: "Is there a full moon on Halloween 2026?"
-    a: "No. The full moon is Oct. 26. On Halloween the Moon was a waning gibbous, about 63% lit, and it rose around 11 p.m. in most U.S. cities."
+    a: "No. The full moon was Oct. 26. On Halloween the Moon was a waning gibbous, about 63% lit, and it rose around 11 p.m. in most U.S. cities."
 sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
@@ -116,6 +116,6 @@ Halloween is not a federal holiday, so nothing closes for it. The 11 federal hol
 
 ## What follows Halloween
 
-Halloween weekend ran straight into Día de los Muertos on Nov. 1 and 2; our [Day of the Dead 2026 guide](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) has the dates and traditions. Election Day is Tuesday, Nov. 3. For the date of Halloween in other years, see [when is Halloween](/when-is/halloween/), and look back at the month on an [October 2026 calendar](/october-calendars.html). The free printable below lists sunset, dark and moonrise for all 16 cities with room to plan your route. Hosting at home instead? Our [witches' brew punch recipe](/news/halloween-party-ideas-2026-witches-brew-punch/) is nonalcoholic and keeps the dry ice out of the drink.
+Halloween weekend ran straight into Día de los Muertos on Nov. 1 and 2; our [Day of the Dead 2026 guide](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) has the dates and traditions. Election Day followed on Tuesday, Nov. 3. For the date of Halloween in other years, see [when is Halloween](/when-is/halloween/), and look back at the month on an [October 2026 calendar](/october-calendars.html). The free printable below lists sunset, dark and moonrise for all 16 cities with room to plan your route. Hosting at home instead? Our [witches' brew punch recipe](/news/halloween-party-ideas-2026-witches-brew-punch/) is nonalcoholic and keeps the dry ice out of the drink.
 
 Trick-or-treat hours are set town by town; our story on [what time trick-or-treating starts](/news/halloween-2026-what-day-trick-or-treating-start/) lists published schedules.

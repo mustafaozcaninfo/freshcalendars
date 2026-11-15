@@ -3,7 +3,7 @@ title: "Hunter's Moon 2026: Full Oct. 26 at 12:12 a.m. EDT, 20 Cities"
 description: "The 2026 Hunter's Moon was full at 12:12 a.m. EDT on Monday, Oct. 26, or 11:12 p.m. Central Sunday. Moonrise times for 20 U.S. cities and next full moons."
 type: explainer
 publishedAt: "2026-10-20T01:25:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["Hunter's Moon 2026", "full moon October 2026", "October 2026 full moon time", "moonrise tonight", "Beaver Moon November 2026"]
@@ -62,8 +62,6 @@ downloads:
     pages: 1
 draft: false
 ---
-
-<p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> The Hunter's Moon has passed; it was full at 12:12 a.m. Eastern Daylight Time on Monday, Oct. 26, 2026, per the U.S. Naval Observatory. The next full moon is the Beaver Moon at 9:53 a.m. EST on Tuesday, Nov. 24, 2026.</p>
 
 **October's full moon, the Hunter's Moon, was full at 12:12 a.m. Eastern Daylight Time on Monday, Oct. 26, 2026**, according to the U.S. Naval Observatory (USNO). Everywhere west of the Eastern time zone, that moment fell on Sunday evening, Oct. 25, which made Sunday the night to watch the moon come up in the east around sunset.
 
@@ -124,6 +122,6 @@ The Cold Moon rises in New York on Dec. 23 at 3:58 p.m. and is still 99% lit on 
 
 ## Other sky events around the Hunter's Moon
 
-The Orionid meteor shower peaked the night of Oct. 21-22, while the moon was still waxing; our [Orionid guide](/news/orionid-meteor-shower-2026-peak-october-21-22/) explained how to watch after moonset. The Taurids and Leonids follow in November: NASA's November 2026 skywatching guide, published Nov. 2, puts the Southern Taurid peak around Nov. 5 and the Leonids in the early mornings of Nov. 17 and 18; see [November meteor showers](/news/november-2026-meteor-showers-taurids-leonids/).
+The Orionid meteor shower peaked the night of Oct. 21-22, while the moon was still waxing; our [Orionid guide](/news/orionid-meteor-shower-2026-peak-october-21-22/) explained how to watch after moonset. November brought the Taurids and brings the Leonids: NASA's November 2026 skywatching guide, published Nov. 2, puts the Southern Taurid peak around Nov. 5 and the Leonids in the early mornings of Nov. 17 and 18; see [November meteor showers](/news/november-2026-meteor-showers-taurids-leonids/).
 
 Mark the dates on our [October](/october-calendars.html), [November](/november-calendars.html) and [December](/december-calendars.html) printable calendars, and print the moon phase calendar below.
