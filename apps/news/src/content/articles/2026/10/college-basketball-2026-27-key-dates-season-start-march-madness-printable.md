@@ -3,7 +3,7 @@ title: "College Basketball 2026-27 Schedule: Selection Sunday Mar. 14, 2027"
 description: "College basketball 2026-27 opened Nov. 1, 2026. Selection Sunday is Mar. 14, 2027; National Collegiate Athletic Association (NCAA) title games Apr. 4-5."
 type: explainer
 publishedAt: "2026-10-27T17:45:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:01:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["when does college basketball start 2026", "college basketball season start date", "march madness 2027 dates", "2027 final four dates", "selection sunday 2027"]
@@ -11,10 +11,11 @@ dateline: "New York"
 assets:
   scene: sports
   overlay: true
-  kicker: "College Basketball · Opened Sun., Nov. 1, 2026"
-  date: "2026-11-01"
+  kicker: "College Basketball · Selection Sunday Mar. 14, 2027"
+  date: "2027-03-14"
   card: { top: "Men's final at Ford Field", big: "Mon., Apr. 5, 2027", bottom: "Selection Sunday is Mar. 14" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: college-basketball-2026-27-key-dates
     group: college-basketball-2026-27
     title: "College Basketball Key Dates 2026-27"
@@ -73,7 +74,7 @@ sources:
   - title: "2027 March Madness: Men's NCAA tournament schedule, dates"
     url: "https://www.ncaa.com/news/basketball-men/article/2026-05-07/2027-march-madness-mens-ncaa-tournament-schedule-dates"
     publisher: "NCAA.com"
-    date: "2026-05-07"
+    date: "2026-11-14"
   - title: "When does the 2026-27 college basketball season start?"
     url: "https://www.ncaa.com/news/basketball-men/article/2026-08-28/when-does-2026-27-college-basketball-season-start"
     publisher: "NCAA.com"
@@ -81,7 +82,7 @@ sources:
   - title: "2027 March Madness: Women's NCAA tournament schedule, dates, times"
     url: "https://www.ncaa.com/news/basketball-women/article/2026-05-07/2027-march-madness-womens-ncaa-tournament-schedule-dates-times"
     publisher: "NCAA.com"
-    date: "2026-05-07"
+    date: "2026-11-14"
   - title: "First contest dates on Mondays approved for Division I men's and women's basketball"
     url: "https://www.ncaa.org/news/media-center-first-contest-dates-on-mondays-approved-for-di-mens-womens-basketball"
     publisher: "NCAA"
@@ -89,6 +90,11 @@ sources:
   - title: "State Farm Champions Classic returns to Chicago in 2026"
     url: "https://espnevents.com/?p=18827"
     publisher: "ESPN Events"
+    date: "2026-11-14"
+  - title: "Michigan State 79-73 Duke (Nov 10, 2026) Final Score"
+    url: "https://www.espn.com/mens-college-basketball/game/_/gameId/401909564/michigan-st-duke"
+    publisher: "ESPN"
+    date: "2026-11-10"
   - title: "2027 Big Ten Men's Basketball Tournament"
     url: "https://www.gainbridgefieldhouse.com/events/detail/2027-big-ten-mens-basketball-tournament"
     publisher: "Gainbridge Fieldhouse"
@@ -120,23 +126,23 @@ draft: false
 
 **The 2026-27 college basketball season opened on Sunday, Nov. 1, 2026, with Notre Dame against Villanova at 9:30 a.m. Eastern Time (ET) in Rome, and it ends with the men's championship game on Monday, Apr. 5, 2027, according to NCAA.com.** Selection Sunday for the National Collegiate Athletic Association (NCAA) tournaments is Mar. 14, 2027.
 
-This page puts the season start and every March Madness round into one table, men's and women's side by side, with the days left from today, Nov. 2, 2026. A one-page printable of the same dates is below the table.
+The season start and every March Madness round sit in one table, men's and women's side by side, with the days left from Saturday, Nov. 14, 2026. A one-page printable of the same dates is below the table.
 
 ## What are the college basketball 2026-27 key dates?
 
-The table uses the dates NCAA.com lists for the men's and women's 2027 tournaments. The weekdays and the day counts are our own calculation, counted from Monday, Nov. 2, 2026 to the first date in each cell.
+The table uses the dates NCAA.com lists for the men's and women's 2027 tournaments. The weekdays and the day counts are our own calculation, counted from Saturday, Nov. 14, 2026 to the first date in each cell.
 
-| Stage | Men's | Women's | Days from Nov. 2 (men's / women's) |
+| Stage | Men's | Women's | Days from Nov. 14 (men's / women's) |
 |---|---|---|---|
 | Season opener | Sun., Nov. 1, 9:30 a.m. ET, Rome | Sun., Nov. 1, after the men's game, Rome | Played Nov. 1 / Played Nov. 1 |
-| Selection Sunday | Sun., Mar. 14 | Sun., Mar. 14 | 132 / 132 |
-| Opening Round (12 games) | Tue., Mar. 16 and Wed., Mar. 17 | Wed., Mar. 17 and Thu., Mar. 18 | 134 / 135 |
-| First Round (32 games) | Thu., Mar. 18 and Fri., Mar. 19 | Fri., Mar. 19 and Sat., Mar. 20 | 136 / 137 |
-| Second Round (16 games) | Sat., Mar. 20 and Sun., Mar. 21 | Sun., Mar. 21 and Mon., Mar. 22 | 138 / 139 |
-| Sweet 16 (eight games) | Thu., Mar. 25 and Fri., Mar. 26 | Fri., Mar. 26 and Sat., Mar. 27 | 143 / 144 |
-| Elite Eight (four games) | Sat., Mar. 27 and Sun., Mar. 28 | Sun., Mar. 28 and Mon., Mar. 29 | 145 / 146 |
-| Final Four | Sat., Apr. 3, Ford Field, Detroit | Fri., Apr. 2, Nationwide Arena, Columbus, Ohio | 152 / 151 |
-| Championship game | Mon., Apr. 5, Detroit | Sun., Apr. 4, Columbus | 154 / 153 |
+| Selection Sunday | Sun., Mar. 14 | Sun., Mar. 14 | 120 / 120 |
+| Opening Round (12 games) | Tue., Mar. 16 and Wed., Mar. 17 | Wed., Mar. 17 and Thu., Mar. 18 | 122 / 123 |
+| First Round (32 games) | Thu., Mar. 18 and Fri., Mar. 19 | Fri., Mar. 19 and Sat., Mar. 20 | 124 / 125 |
+| Second Round (16 games) | Sat., Mar. 20 and Sun., Mar. 21 | Sun., Mar. 21 and Mon., Mar. 22 | 126 / 127 |
+| Sweet 16 (eight games) | Thu., Mar. 25 and Fri., Mar. 26 | Fri., Mar. 26 and Sat., Mar. 27 | 131 / 132 |
+| Elite Eight (four games) | Sat., Mar. 27 and Sun., Mar. 28 | Sun., Mar. 28 and Mon., Mar. 29 | 133 / 134 |
+| Final Four | Sat., Apr. 3, Ford Field, Detroit | Fri., Apr. 2, Nationwide Arena, Columbus, Ohio | 140 / 139 |
+| Championship game | Mon., Apr. 5, Detroit | Sun., Apr. 4, Columbus | 142 / 141 |
 
 The 2027 tournaments are the first with 76 teams, up from 68, NCAA.com says. That adds a 12-game Opening Round before the 64-team First Round. Women's early rounds are at campus sites.
 
@@ -152,12 +158,12 @@ On Nov. 2, NCAA.com lists the "Field of 68," a season tipoff event of eight game
 
 | Date | Event | Place |
 |---|---|---|
-| Tue., Nov. 10 | State Farm Champions Classic: Michigan State vs. Duke and Kansas vs. Kentucky | United Center, Chicago |
+| Tue., Nov. 10 (played) | State Farm Champions Classic: Michigan State beat Duke 79-73; Kansas and Kentucky also played | United Center, Chicago |
 | Tue., Nov. 17 to Thu., Nov. 19 | Players Era 8 | Las Vegas |
 | Mon., Nov. 23 to Wed., Nov. 25 | Maui Invitational | Hawai'i |
 | Tue., Nov. 24 to Sat., Nov. 28 | Players Era 16 | Las Vegas |
 
-ESPN Events gives the Champions Classic date and matchups; tip times and television are not in the sources we used. NCAA.com gives the other three events. The Thanksgiving week overlap is easier to plan next to the [November 2026 printable calendar](/november-calendars.html), and the [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) covers the other games that week. See our guide to the [Feast Week college basketball tournaments](/news/feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era/).
+ESPN Events gives the Champions Classic date and matchups, and ESPN's box score gives the Michigan State-Duke final; the Kansas-Kentucky score is not in the sources we used. NCAA.com gives the other three events. The Thanksgiving week overlap is easier to plan next to the [November 2026 printable calendar](/november-calendars.html), and the [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) covers the other games that week. See our guide to the [Feast Week college basketball tournaments](/news/feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era/).
 
 ## Where are the 2027 NCAA tournament games played?
 

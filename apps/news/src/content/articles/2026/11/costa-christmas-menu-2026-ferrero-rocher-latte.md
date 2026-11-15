@@ -3,7 +3,7 @@ title: "Costa Christmas Menu 2026: Golden Hazel Latte With Ferrero Rocher"
 description: "Costa Christmas menu 2026 launched 22 October in the UK and Ireland. A table lists every new and returning drink and bake, plus a printable menu card."
 type: news
 publishedAt: "2026-11-04T14:56:00-05:00"
-updatedAt: "2026-11-04T14:56:00-05:00"
+updatedAt: "2026-11-14T17:08:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["costa christmas menu 2026", "costa golden hazel latte", "costa ferrero rocher latte", "costa christmas drinks 2026"]
@@ -112,7 +112,7 @@ hero:
 summary:
   - "Costa Coffee's Christmas menu launched in stores across the UK and Ireland on Thursday, 22 October 2026, while stocks last, according to Retail Times and What's The Jam."
   - "New drinks are the Golden Hazel Latte served with a Ferrero Rocher, a Gingerbread Iced Matcha Latte and the Ultimate Yule Brownie range."
-  - "The Iced Penguin Gingerbread Biscuit comes later, on Thursday, 5 November 2026."
+  - "The Iced Penguin Gingerbread Biscuit was due to launch later, on Thursday, 5 November 2026, per both reports."
   - "Costa did not supply prices in its launch information, What's The Jam reported."
 faq:
   - q: "When did the Costa Christmas menu 2026 launch?"
@@ -120,7 +120,7 @@ faq:
   - q: "What is the Costa Golden Hazel Latte?"
     a: "A new hot drink on the 2026 Christmas menu. Retail Times says it is served with a Ferrero Rocher for an extra special Christmas treat."
   - q: "When is the Iced Penguin Gingerbread Biscuit available at Costa?"
-    a: "From Thursday, 5 November 2026. Both Retail Times and What's The Jam list it as a returning item that launches later than the rest of the menu."
+    a: "It was due from Thursday, 5 November 2026. Both Retail Times and What's The Jam list it as a returning item that launches later than the rest of the menu."
   - q: "How much does the Costa Christmas menu cost in 2026?"
     a: "We do not print prices. What's The Jam reported that Costa has not supplied prices for the new food or drinks in the launch information."
   - q: "Is the Costa Christmas menu available until a set date?"
@@ -186,14 +186,14 @@ The other two new drinks are the Gingerbread Iced Matcha Latte, the one iced dri
 
 ## Costa Christmas menu dates to mark
 
-The menu comes in two stages. Most items went on sale on 22 October; the Iced Penguin Gingerbread Biscuit follows on 5 November. Retail Times writes "launching 5th November" and What's The Jam gives "November 5".
+The menu comes in two stages. Most items went on sale on 22 October; the Iced Penguin Gingerbread Biscuit was due on 5 November. Retail Times writes "launching 5th November" and What's The Jam gives "November 5".
 
 | Date | Day | What happens |
 |---|---|---|
 | 22 October 2026 | Thursday | Christmas menu launches in stores across the UK and Ireland, while stocks last |
-| 5 November 2026 | Thursday | Iced Penguin Gingerbread Biscuit launches |
+| 5 November 2026 | Thursday | Iced Penguin Gingerbread Biscuit due to launch |
 
-Neither report gives an end date or a launch time. To count the weeks, mark both days on a [November 2026 printable calendar](/november-calendars.html) or a [December 2026 printable calendar](/december-calendars.html).
+Neither report gives an end date or a launch time. Costa's own site did not load when we checked on Nov. 14, so we could not confirm the biscuit's launch there. To count the weeks, mark both days on a [November 2026 printable calendar](/november-calendars.html) or a [December 2026 printable calendar](/december-calendars.html).
 
 ## How does the 2026 menu compare with 2025?
 

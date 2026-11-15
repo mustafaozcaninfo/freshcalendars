@@ -3,7 +3,7 @@ title: "Bayern vs. Dortmund: 2-2 Draw on Oct. 31, Goals and Last 5 Meetings"
 description: "Bayern vs. Dortmund ended 2-2 at the Allianz Arena on Sat., Oct. 31, 2026. Goals from Laimer, Guirassy, Upamecano and Silva and the last five meetings."
 type: news
 publishedAt: "2026-10-31T11:15:00-04:00"
-updatedAt: "2026-11-01T10:27:00-05:00"
+updatedAt: "2026-11-14T17:09:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["bayern vs dortmund", "bayern vs dortmund prediction", "bayern vs dortmund last 5 matches", "bayern vs dortmund where to watch", "der klassiker 2026"]
@@ -39,7 +39,7 @@ assets:
     alt: "Printable Bayern vs. Dortmund kickoff times sheet for Oct. 31, 2026, listing local kickoff times in 15 cities"
 hero:
   src: ../../../../assets/news/bayern-vs-dortmund-prediction-last-5-matches-where-to-watch-2026/bayern-vs-dortmund-prediction-last-5-matches-where-to-watch-2026.webp
-  alt: "The Allianz Arena in Munich, where Bayern vs. Dortmund is played on Oct. 31, 2026"
+  alt: "The Allianz Arena in Munich, where Bayern vs. Dortmund was played on Oct. 31, 2026"
   caption: "File photo: the Allianz Arena in Munich. Bayern Munich hosted Borussia Dortmund here at 6:30 p.m. local time, 1:30 p.m. ET, on Saturday, Oct. 31, 2026."
   credit: "Photo: Diego Delso / Wikimedia Commons, cropped, edited"
   license:
@@ -73,14 +73,14 @@ downloads:
 faq:
   - q: "What was the Bayern vs. Dortmund score?"
     a: "Bayern Munich 2, Borussia Dortmund 2, at the Allianz Arena on Saturday, Oct. 31, 2026. Konrad Laimer and Dayot Upamecano scored for Bayern, Serhou Guirassy and Fábio Silva for Dortmund."
-  - q: "What channel is Bayern vs. Dortmund on in the U.S.?"
-    a: "USA Sports holds the English-language Bundesliga rights: at least 30 games a season air on USA Network and the rest stream free on Fandango. Telemundo and Universo carry games in Spanish. Check USA Network's guide for this game's channel."
-  - q: "What is the Bayern vs. Dortmund prediction?"
-    a: "Opta's supercomputer gives Bayern Munich a 67.2% chance to win, Borussia Dortmund 15.4% and a draw 17.4%. Those are model probabilities, not a forecast of the score."
+  - q: "What channel was Bayern vs. Dortmund on in the U.S.?"
+    a: "USA Sports holds the English-language Bundesliga rights: at least 30 games a season air on USA Network and the rest stream free on Fandango. Telemundo and Universo carry games in Spanish. Fandango and USA Network list upcoming games."
+  - q: "What was the Bayern vs. Dortmund prediction?"
+    a: "Before the game, Opta's supercomputer gave Bayern Munich a 67.2% chance to win, Borussia Dortmund 15.4% and a draw 17.4%. Those were model probabilities, not a forecast of the score; the game ended 2-2."
   - q: "What were the last five Bayern vs. Dortmund results?"
     a: "Dortmund 2-3 Bayern (Feb. 28, 2026), Bayern 2-1 Dortmund (Oct. 18, 2025), Bayern 2-2 Dortmund (April 12, 2025), Dortmund 1-1 Bayern (Nov. 30, 2024) and Bayern 0-2 Dortmund (March 30, 2024)."
-  - q: "Who is the referee for Bayern vs. Dortmund?"
-    a: "Tobias Stieler, with Matthias Jollenbeck as video assistant referee, according to Borussia Dortmund."
+  - q: "Who refereed Bayern vs. Dortmund?"
+    a: "Tobias Stieler, with Matthias Jollenbeck as video assistant referee, according to Borussia Dortmund's preview."
 sources:
   - title: "FC Bayern München vs. Borussia Dortmund, Matchday 8, 2026/27: table"
     url: "https://www.bundesliga.com/en/bundesliga/matchday/2026-2027/8/fc-bayern-muenchen-vs-borussia-dortmund/table"
@@ -180,11 +180,11 @@ The 2-2 draw moved both clubs to 18 points, with Bayern still ahead of Dortmund 
 
 ## Where to watch Bayern vs. Dortmund
 
-In the U.S., USA Sports has been the only English-language home of the Bundesliga since the 2026-27 season began: at least 30 games a season air on USA Network, and every other game streams free on Fandango, the league said in July. Telemundo has the Spanish-language rights, with more than 100 games a season on Telemundo and Universo, all of them also on Peacock. Check USA Network's guide first; if the game is not there, it is on Fandango.
+In the U.S., USA Sports has been the only English-language home of the Bundesliga since the 2026-27 season began: at least 30 games a season air on USA Network, and every other game streams free on Fandango, the league said in July. Telemundo has the Spanish-language rights, with more than 100 games a season on Telemundo and Universo, all of them also on Peacock. For other games, check USA Network's guide first; if a game is not there, it is on Fandango.
 
-In Germany the game is on Sky Sport Bundesliga and Sky's streaming service, with coverage from 5:30 p.m. local time, per Borussia Dortmund. Elsewhere, rights differ by country; use the broadcaster's own schedule and skip unofficial streams.
+In Germany the game was on Sky Sport Bundesliga and Sky's streaming service, with coverage from 5:30 p.m. local time, per Borussia Dortmund. Elsewhere, rights differ by country; use the broadcaster's own schedule and skip unofficial streams.
 
-The Bundesliga is also running a Playmobil-style virtual version of the game, built from live match data, starting 6:20 p.m. in Munich (1:20 p.m. ET). In the U.S. it is on Telemundo's YouTube channel and on Fandango. It is a themed extra, not the regular broadcast. All of this weekend's European games on U.S. TV are in our [soccer on TV this weekend](/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/) guide.
+The Bundesliga also ran a Playmobil-style virtual version of the game, built from live match data, from 6:20 p.m. in Munich (1:20 p.m. ET), on Telemundo's YouTube channel and Fandango in the U.S. It was a themed extra, not the regular broadcast. All of this weekend's European games on U.S. TV are in our [soccer on TV this weekend](/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/) guide.
 
 ## Bayern vs. Dortmund kickoff time around the world
 
@@ -206,4 +206,4 @@ We converted the league's 17:30 UTC kickoff with each city's clock rules on Oct.
 | Singapore | 1:30 a.m. Sunday, Nov. 1 |
 | Sydney (AEDT) | 4:30 a.m. Sunday, Nov. 1 |
 
-The free printable below has the same times on one page for a fridge or a watch party. For the U.S. switch on Sunday, see [when daylight saving time ends](/when-is/daylight-savings/); next week's European games will be one hour earlier in ET. Bayern and Dortmund both play in the Champions League in November; dates are in our [Champions League November schedule](/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/).
+The free printable below has the same times on one page for a fridge or a watch party. For the U.S. switch on Nov. 1, see [when daylight saving time ends](/when-is/daylight-savings/); European games since then start one hour earlier in ET. Bayern and Dortmund both play in the Champions League in November; dates are in our [Champions League November schedule](/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/).

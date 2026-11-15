@@ -3,34 +3,34 @@ title: "Texas Ballot 2026: Senate, Governor and Seven Statewide Offices"
 description: "Texas ballot 2026 candidates: Ken Paxton, James Talarico, Greg Abbott and Gina Hinojosa lead the list. Every statewide race and court seat, as certified."
 type: explainer
 publishedAt: "2026-10-21T11:58:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:01:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Texas ballot 2026", "Texas candidates 2026", "Texas governor race 2026 candidates", "Texas Senate race 2026 candidates", "Texas propositions 2026"]
 dateline: "Austin, Texas"
 hero:
   src: ../../../../assets/news/texas-ballot-2026-candidates-senate-governor-statewide-races/texas-ballot-2026-candidates-senate-governor-statewide-races.jpg
-  alt: "Texas ballot 2026: a ballot listing U.S. Senate, governor and lieutenant governor beside a card reading early voting through Oct. 30"
+  alt: "Texas ballot 2026: a ballot listing U.S. Senate, governor and lieutenant governor beside a card reading Nov. 3, 2026"
   title: "Texas ballot 2026: candidates for every statewide race"
-  caption: "Texans vote on Nov. 3, 2026, for a U.S. senator, governor and seven other statewide offices, plus 10 seats on the state's highest courts."
+  caption: "Texans voted on Nov. 3, 2026, for a U.S. senator, governor and seven other statewide offices, plus 10 seats on the state's highest courts."
 summary:
-  - "Texas voters choose a U.S. senator, a governor and seven other statewide executive offices on Tuesday, Nov. 3, 2026, along with 10 seats on the Supreme Court, the Court of Criminal Appeals and the 15th Court of Appeals."
-  - "The U.S. Senate candidates are Ken Paxton (Republican), James Talarico (Democrat) and Ted Brown (Libertarian). For governor: Greg Abbott (Republican), Gina Hinojosa (Democrat) and Pat Dixon (Libertarian)."
-  - "There are no statewide propositions this year. Texas last voted on constitutional amendments on Nov. 4, 2025; cities, counties and school districts may still put local measures on your ballot."
-  - "Early voting ended Friday, Oct. 30. Polls are open 7 a.m. to 7 p.m. on Election Day, Tuesday, Nov. 3, and there is no straight-ticket option."
+  - "Texas voters chose a U.S. senator, a governor and seven other statewide executive offices on Tuesday, Nov. 3, 2026, along with 10 seats on the Supreme Court, the Court of Criminal Appeals and the 15th Court of Appeals."
+  - "The U.S. Senate candidates were Ken Paxton (Republican), James Talarico (Democrat) and Ted Brown (Libertarian). For governor: Greg Abbott (Republican), Gina Hinojosa (Democrat) and Pat Dixon (Libertarian)."
+  - "There were no statewide propositions this year. Texas last voted on constitutional amendments on Nov. 4, 2025; cities, counties and school districts may still put local measures on your ballot."
+  - "Early voting ended Friday, Oct. 30. Polls were open 7 a.m. to 7 p.m. on Election Day, Tuesday, Nov. 3, and there was no straight-ticket option."
 faq:
-  - q: "Who is running for governor of Texas in 2026?"
+  - q: "Who ran for governor of Texas in 2026?"
     a: "Republican Greg Abbott, Democrat Gina Hinojosa and Libertarian Pat Dixon, according to the Secretary of State's ballot certification of Aug. 28, 2026."
-  - q: "Who is running for U.S. Senate in Texas in 2026?"
-    a: "Republican Ken Paxton, Democrat James Talarico and Libertarian Ted Brown. The seat is held by John Cornyn, who is not on the November ballot."
-  - q: "Are there propositions on the Texas ballot in November 2026?"
+  - q: "Who ran for U.S. Senate in Texas in 2026?"
+    a: "Republican Ken Paxton, Democrat James Talarico and Libertarian Ted Brown. The seat is held by John Cornyn, who was not on the November ballot."
+  - q: "Were there propositions on the Texas ballot in November 2026?"
     a: "Not statewide. Texas held its most recent constitutional amendment election on Nov. 4, 2025. Your city, county or school district may have local propositions; your county sample ballot lists them."
-  - q: "Can I vote straight ticket in Texas?"
-    a: "No. Straight-party voting ended in Texas on Sept. 1, 2020. To vote for one party's candidates, you select each candidate one race at a time."
-  - q: "Why is a candidate with no opponent on my ballot?"
-    a: "Since a 2023 law, Senate Bill 1089, unopposed candidates for county, district and statewide offices stay on the ballot and must receive at least one vote to be elected."
+  - q: "Was straight-ticket voting allowed in Texas in 2026?"
+    a: "No. Straight-party voting ended in Texas on Sept. 1, 2020, so voters selected each candidate one race at a time."
+  - q: "Why was a candidate with no opponent on the ballot?"
+    a: "Since a 2023 law, Senate Bill 1089, unopposed candidates for county, district and statewide offices stayed on the ballot and had to receive at least one vote to be elected."
   - q: "Which Texas Senate seats are on the ballot in 2026?"
-    a: "Sixteen of the 31 state Senate seats are up in 2026, along with all 150 Texas House seats, all 38 U.S. House seats and eight State Board of Education districts."
+    a: "Sixteen of the 31 state Senate seats were up in 2026, along with all 150 Texas House seats, all 38 U.S. House seats and eight State Board of Education districts."
 sources:
   - title: "Ballot Certification Report, 2026 November General Election"
     url: "https://www.sos.texas.gov/elections/forms/2026-ballot-cert.pdf"
@@ -71,11 +71,11 @@ downloads:
 draft: false
 ---
 
-**Texas voters elect a U.S. senator, a governor and seven other statewide officials on Tuesday, Nov. 3, 2026, and fill 10 seats on the state's three statewide courts.** The Secretary of State certified the candidates on Aug. 28, and every name below comes from that ballot certification. The U.S. Senate seat now held by John Cornyn is open, and Gov. Greg Abbott and Lt. Gov. Dan Patrick are on the ballot again. There are no statewide propositions this year. Below: each statewide race, the courts, what else is on your ballot, and the dates that matter.
+**Texas voters elected a U.S. senator, a governor and seven other statewide officials on Tuesday, Nov. 3, 2026, and filled 10 seats on the state's three statewide courts.** The Secretary of State certified the candidates on Aug. 28, and every name below comes from that ballot certification. The U.S. Senate seat held by John Cornyn was open, and Gov. Greg Abbott and Lt. Gov. Dan Patrick were on the ballot again. There were no statewide propositions this year. Below: each statewide race, the courts, what else was on the ballot, and the dates that mattered. For results, see our [Texas election results guide](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/).
 
 ## Senate, governor and statewide offices
 
-Candidates are listed in the order of the Secretary of State's certification. Your county's ballot may list parties in a different order.
+Candidates are listed in the order of the Secretary of State's certification. A county ballot may list parties in a different order.
 
 | Office | Republican | Democrat | Other |
 |---|---|---|---|
@@ -109,32 +109,32 @@ Texas elects its judges by party, and three courts are elected statewide: the Su
 
 Supreme Court and Court of Criminal Appeals judges serve six-year terms. The 15th Court of Appeals has a chief justice and two justices for now; the Legislature added Places 4 and 5 later, and they first appear on the 2030 ballot, the Secretary of State says.
 
-## Also on your ballot
+## Also on the ballot
 
 - **U.S. House:** all 38 Texas districts.
 - **Texas Legislature:** all 150 House seats and 16 of the 31 Senate seats.
 - **State Board of Education:** eight of its 15 districts.
-- **Courts and county offices:** courts of appeals for your region, district judges, and county offices such as county judge and commissioners.
+- **Courts and county offices:** courts of appeals by region, district judges, and county offices such as county judge and commissioners.
 
-Unopposed candidates stay on the ballot. A 2023 law, Senate Bill 1089, ended the practice of declaring them elected in advance, so they need at least one vote, the Secretary of State notes. There is no straight-ticket option either: Texas ended straight-party voting on Sept. 1, 2020, so you choose a candidate in each race.
+Unopposed candidates stayed on the ballot. A 2023 law, Senate Bill 1089, ended the practice of declaring them elected in advance, so they needed at least one vote, the Secretary of State notes. There was no straight-ticket option either: Texas ended straight-party voting on Sept. 1, 2020, so voters chose a candidate in each race.
 
-## Are there propositions on the Texas ballot?
+## Were there propositions on the Texas ballot?
 
-Not statewide. Texas usually votes on constitutional amendments in November of odd-numbered years, and its most recent amendment election was Nov. 4, 2025, according to the Texas Legislative Council. Cities, counties, school districts and other local bodies can still put propositions on the Nov. 3 ballot, such as bonds or charter changes. They must post the text of each proposition and a sample ballot on their websites in the 21 days before the election, under the Secretary of State's election calendar. Your county sample ballot shows the ones for your address.
+Not statewide. Texas usually votes on constitutional amendments in November of odd-numbered years, and its most recent amendment election was Nov. 4, 2025, according to the Texas Legislative Council. Cities, counties, school districts and other local bodies could still put propositions on the Nov. 3 ballot, such as bonds or charter changes. They had to post the text of each proposition and a sample ballot on their websites in the 21 days before the election, under the Secretary of State's election calendar. A county sample ballot showed the ones for each address.
 
-## Key dates and how to vote
+## Key dates and how voting worked
 
 | Date | What happens |
 |---|---|
-| Fri., Oct. 23 (passed) | Last day for the clerk to receive an application for a ballot by mail |
-| Through Fri., Oct. 30 (ended) | Early voting at any early voting site in your county |
-| Tue., Nov. 3, 7 a.m.-7 p.m. | Election Day; mailed ballots due by 7 p.m. |
-| Wed., Nov. 4, 5 p.m. | A mailed ballot postmarked by 7 p.m. Nov. 3 still counts if it arrives by now |
+| Fri., Oct. 23 | Last day for the clerk to receive an application for a ballot by mail |
+| Through Fri., Oct. 30 | Early voting at any early voting site in your county |
+| Tue., Nov. 3, 7 a.m.-7 p.m. | Election Day; mailed ballots were due by 7 p.m. |
+| Wed., Nov. 4, 5 p.m. | A mailed ballot postmarked by 7 p.m. Nov. 3 counted if it arrived by this time |
 
 Early voting hours, the full mail ballot rules and the March and May dates are in our [Texas election calendar 2026](/news/texas-election-calendar-2026-early-voting-dates-deadlines/).
 
-Bring one of the seven accepted photo IDs, or sign a Reasonable Impediment Declaration if you cannot reasonably get one. The full ID list, the county election offices for the 12 largest counties and how to find your precinct are in our [sample ballot by ZIP code guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/). Phones cannot be used where you vote, so bring your choices on paper.
+Voters brought one of the seven accepted photo IDs, or signed a Reasonable Impediment Declaration if they could not reasonably get one. The full ID list, the county election offices for the 12 largest counties and how to find a precinct are in our [sample ballot by ZIP code guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/). Phones could not be used where voters cast ballots, so choices had to be brought on paper.
 
 ## Print your checklist
 
-Our free one-page checklist lists every certified candidate for U.S. Senate, the seven statewide executive offices and the 10 statewide court seats, with the key dates, boxes for local propositions and lines for your legislative and local races. Copy your choices from your county sample ballot and take the sheet with you. Plan the trip on our [October](/october-calendars.html) and [November 2026 calendars](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). For results night, see [what time polls close](/news/what-time-do-polls-close-election-day-2026/) and our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/). For another state's races, see our [Minnesota ballot](/news/minnesota-ballot-2026-senate-governor-candidates-school-fund-amendment/) guide.
+Our free one-page checklist lists every certified candidate for U.S. Senate, the seven statewide executive offices and the 10 statewide court seats, with the key dates, boxes for local propositions and lines for legislative and local races. Plan ahead on our [October](/october-calendars.html) and [November 2026 calendars](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html). For how election night worked, see [what time polls closed](/news/what-time-do-polls-close-election-day-2026/) and our [2026 midterm tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/). For another state's races, see our [Minnesota ballot](/news/minnesota-ballot-2026-senate-governor-candidates-school-fund-amendment/) guide.

@@ -3,7 +3,7 @@ title: "Senior Deduction 2026: $6,000 at Age 65, Phase-Out Table"
 description: "The senior deduction is $6,000 at age 65 for 2025 through 2028, shrinking above $75,000 of income. Includes a phase-out table and a filing checklist."
 type: explainer
 publishedAt: "2026-11-07T08:38:00-05:00"
-updatedAt: "2026-11-07T08:38:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["senior deduction 2026", "$6000 senior deduction phase out", "senior deduction income limit", "enhanced deduction for seniors 2026"]
@@ -36,7 +36,7 @@ faq:
   - q: "What if only one spouse is 65?"
     a: "The deduction is $6,000 for that spouse, and the statute requires the couple to file a joint return. The phase-out line for a joint return is $150,000."
   - q: "Is there a 2026 Schedule 1-A yet?"
-    a: "Not yet. The IRS has not released the 2026 form or its instructions. The 2025 form shows how the deduction is worked out."
+    a: "Only as a draft. The IRS has posted an early-release 2026 Schedule 1-A labeled a draft that is not for filing; the senior deduction is in Part V, and the draft tests for a birth date before January 2, 1962. The 2025 form shows how the deduction is worked out."
 sources:
   - title: "Public Law 119-21, Sec. 70103 (One Big Beautiful Bill Act)"
     url: "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
@@ -63,6 +63,10 @@ sources:
   - title: "Revenue Procedure 2025-32"
     url: "https://www.irs.gov/pub/irs-drop/rp-25-32.pdf"
     publisher: "Internal Revenue Service"
+  - title: "2026 Schedule 1-A (Form 1040), early-release draft"
+    url: "https://www.irs.gov/pub/irs-dft/f1040s1a--dft.pdf"
+    publisher: "Internal Revenue Service"
+    date: "2026-11-14"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
@@ -81,7 +85,7 @@ assets:
     group: senior-deduction-2026
     title: "2026 Senior Deduction Rules and Phase-Out"
     subtitle: "The $6,000 deduction at 65, the income line and what to check on Schedule 1-A"
-    note: "Source: Public Law 119-21 Sec. 70103, IRS Check your eligibility page, Tax Tips 2026-12 and 2026-14, Schedule 1-A (2025) and Revenue Procedure 2025-32. Computed by us: fully phased out at $175,000 MAGI single and $250,000 joint."
+    note: "Source: Public Law 119-21 Sec. 70103, IRS Check your eligibility page, Tax Tips 2026-12 and 2026-14, Schedule 1-A (2025 and 2026 draft) and Revenue Procedure 2025-32. Computed by us: fully phased out at $175,000 MAGI single and $250,000 joint."
     description: "A one-page sheet of the $6,000 senior deduction for 2025 to 2028: who qualifies, the MAGI phase-out and the Schedule 1-A Part V steps."
     alt: "Printable sheet of the 2026 senior deduction rules and phase-out"
     data:
@@ -114,15 +118,15 @@ assets:
         - cells: { item: "Itemizing", rule: "Open to itemizers and non-itemizers", check: "No need to itemize" }
           src: 4
           quote: "All new or enhanced deductions are available for both itemizing and non-itemizing taxpayers."
-        - cells: { item: "Where it lands", rule: "Line 37, then Form 1040 or 1040-SR line 13b", check: "Enhanced deduction for seniors" }
-          src: 5
-          quote: "Enhanced deduction for seniors"
+        - cells: { item: "2026 draft form", rule: "Part V line 43; born before Jan. 2, 1962", check: "Draft only, not for filing" }
+          src: 8
+          quote: "were born before January 2, 1962"
         - cells: { item: "Extra standard deduction", rule: "$1,650 for 2026, or $2,050 if unmarried", check: "Added on top of your standard deduction" }
           src: 7
           quote: "For taxable years beginning in 2026, the additional standard deduction amount under § 63(f) for the aged or the blind is $1,650. The additional standard deduction amount is increased to $2,050 if the individual is also unmarried and not a surviving spouse."
       note: "Computed by us from the 6% rule: fully phased out at $175,000 MAGI single and $250,000 joint."
       unconfirmed:
-        - { label: "2026 Schedule 1-A and instructions", why: "The IRS had not released them as of Nov. 7, 2026" }
+        - { label: "2026 Schedule 1-A and instructions", why: "Only an early-release draft was posted as of Nov. 14, 2026" }
 downloads:
   - group: "2026 Senior Deduction Rules and Phase-Out printables"
     title: "2026 Senior Deduction Rules and Phase-Out"
@@ -183,7 +187,7 @@ A worked example, computed by us: a couple filing jointly, both 65 or older, wit
 
 ## Where does the senior deduction go on the return?
 
-The 2025 Schedule 1-A, "Additional Deductions," carries it in Part V. The form's caution says "You and/or your spouse must have a valid social security number. If married, you must file jointly to claim this deduction." Line 37 is the "Enhanced deduction for seniors," and the total goes to line 13b of Form 1040 or 1040-SR. As of Nov. 7, 2026, the IRS has not released the 2026 form or its instructions. The 2025 form shows how the deduction works, and the lines may change.
+The 2025 Schedule 1-A, "Additional Deductions," carries it in Part V. The form's caution says "You and/or your spouse must have a valid social security number. If married, you must file jointly to claim this deduction." Line 37 is the "Enhanced deduction for seniors," and the total goes to line 13b of Form 1040 or 1040-SR. On Nov. 14, 2026, the IRS had posted only an early-release draft of the 2026 form, labeled a draft that is not for filing. In it the senior deduction is again Part V: line 43 is the "Enhanced deduction for seniors," and line 44, the total of Part VI, goes to line 13a of Form 1040, 1040-SR or 1040-NR. The draft asks whether you were born before January 2, 1962, which matches the age-65 test for 2026. Do not file a draft. The final form and instructions can change these lines.
 
 IRS Tax Tip 2026-12 (Feb. 12, 2026) says all new or enhanced deductions are available for both itemizing and non-itemizing taxpayers, so you do not give up the standard deduction to claim it. Another deduction under the same law is covered in our [car loan interest deduction guide](/news/car-loan-interest-deduction-2026-10000-who-qualifies/).
 
@@ -194,6 +198,6 @@ IRS Tax Tip 2026-12 (Feb. 12, 2026) says all new or enhanced deductions are avai
 3. If you are married, you plan to file jointly.
 4. You have worked out MAGI, including any excluded foreign or territory income.
 5. You compared MAGI with $75,000 (single) or $150,000 (joint).
-6. You have the 2026 Schedule 1-A once the IRS releases it.
+6. You have the final 2026 Schedule 1-A once the IRS releases it; only a draft is posted so far.
 
 For other 2027 tax figures see our guide to [2027 tax brackets and retirement limits](/news/2027-tax-brackets-401k-hsa-limits-irs/), and for deadlines the [2027 IRS tax calendar](/news/tax-calendar-2027-irs-deadlines/). Mark your own dates on the [2027 printable yearly calendar](/printable-yearly-calendar.html), the [April 2027 printable calendar](/april-calendars.html) and the [December 2026 printable calendar](/december-calendars.html). The one-page 2026 senior deduction rules sheet below lists the rules and the phase-out for your tax folder. Birth date is the age test: check it against the last day of the year. Added on top of your standard deduction, the extra amount for age and the $6,000 senior deduction both count.

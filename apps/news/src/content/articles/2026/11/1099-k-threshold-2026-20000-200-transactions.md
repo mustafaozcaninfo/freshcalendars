@@ -3,6 +3,7 @@ title: "Form 1099-K Threshold 2026: $20,000 and 200 Transactions"
 description: "The 2026 Form 1099-K threshold is over $20,000 and over 200 transactions, per the IRS. Copies are due Monday, Feb. 1, 2027; a table shows example sellers."
 type: news
 publishedAt: "2026-11-06T14:37:00-05:00"
+updatedAt: "2026-11-14T17:03:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["1099-k threshold 2026", "1099-k 2026 venmo paypal", "1099-k threshold 20000", "when will i get my 1099-k"]
@@ -47,7 +48,7 @@ sources:
   - title: "Understanding your Form 1099-K"
     url: "https://www.irs.gov/businesses/understanding-your-form-1099-k"
     publisher: "Internal Revenue Service"
-    date: "2026-10-28"
+    date: "2026-11-13"
   - title: "IR-2025-107: IRS issues FAQs on Form 1099-K threshold under the One, Big, Beautiful Bill; dollar limit reverts to $20,000"
     url: "https://irs.gov/newsroom/irs-issues-faqs-on-form-1099-k-threshold-under-the-one-big-beautiful-bill-dollar-limit-reverts-to-20000"
     publisher: "Internal Revenue Service"
@@ -74,7 +75,7 @@ assets:
     group: form-1099-k-2026
     title: "Form 1099-K for 2026: Who Gets One and When"
     subtitle: "The reporting test and the 2027 dates for tax year 2026"
-    note: "Source: Internal Revenue Service, Instructions for Form 1099-K (12/2026), Publication 1099 (2026) and Understanding your Form 1099-K, read Nov. 6, 2026."
+    note: "Source: Internal Revenue Service, Instructions for Form 1099-K (12/2026), Publication 1099 (2026) and Understanding your Form 1099-K, read Nov. 14, 2026."
     description: "A one-page sheet of who gets a 2026 Form 1099-K, the $20,000 and 200 transaction test, and the Feb. 1, March 1 and March 31, 2027 dates."
     alt: "Printable sheet of the 2026 Form 1099-K threshold and 2027 due dates"
     data:
@@ -118,9 +119,9 @@ draft: false
 
 ## What is the Form 1099-K threshold for 2026?
 
-We read the IRS pages in this story on Nov. 6, 2026. The instructions say a third party settlement organization (TPSO), the company that settles payments between buyers and sellers on an app or marketplace, reports a payee only if for the calendar year "the gross amount of total reportable payment transactions exceeds $20,000" and "the total number of such transactions exceeds 200." IRS Publication 1099 (2026) puts it the same way: over $20,000 in total payments and over 200 in total transactions.
+We read the IRS pages in this story on Nov. 14, 2026. The instructions say a third party settlement organization (TPSO), the company that settles payments between buyers and sellers on an app or marketplace, reports a payee only if for the calendar year "the gross amount of total reportable payment transactions exceeds $20,000" and "the total number of such transactions exceeds 200." IRS Publication 1099 (2026) puts it the same way: over $20,000 in total payments and over 200 in total transactions.
 
-The IRS consumer page "Understanding your Form 1099-K," reviewed Oct. 28, 2026, says the same for payment apps and online marketplaces and adds that they "may send you a Form 1099-K with lower amounts and/or transactions."
+The IRS consumer page "Understanding your Form 1099-K," reviewed Nov. 13, 2026, says the same for payment apps and online marketplaces and adds that they "may send you a Form 1099-K with lower amounts and/or transactions."
 
 The instructions count the gross amount "without regard to any adjustments for credits, cash equivalents, discount amounts, fees, refunded amounts, shipping amounts, or any other amounts." A refunded sale still counts toward the $20,000 and 200 tests.
 

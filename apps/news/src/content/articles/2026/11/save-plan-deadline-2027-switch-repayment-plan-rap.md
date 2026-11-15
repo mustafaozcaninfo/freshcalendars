@@ -3,6 +3,7 @@ title: "SAVE Plan Deadline: 90 Days From Your Servicer's Notice"
 description: "Borrowers in the federal income-driven repayment plan (SAVE) have 90 days from a servicer's notice to switch. A printable lays out the federal dates."
 type: explainer
 publishedAt: "2026-11-06T13:49:00-05:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["save plan deadline", "save plan ending what to do", "repayment assistance plan rap", "save forbearance ending 2026"]
@@ -20,14 +21,14 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Lorax"
 summary:
   - "Borrowers in the federal income-driven repayment plan (SAVE) have 90 days from their servicer's notice to pick a new repayment plan, the U.S. Department of Education said; servicers began issuing notices on July 1, 2026."
-  - "Borrowers who do not switch within the 90-day window are automatically enrolled in the Standard Repayment Plan or the new Tiered Standard Plan, the Department said."
+  - "Borrowers who miss the 90 days get a final 30-day notice, then are automatically enrolled in the Standard Repayment Plan or the new Tiered Standard Plan, Federal Student Aid says."
   - "Choices include the new Repayment Assistance Plan (RAP), which launched July 1, 2026, and the income-driven IBR, ICR and PAYE plans still open, according to Federal Student Aid."
   - "Federal Student Aid says the One Big Beautiful Bill Act (OBBBA) ends the ICR and PAYE plans no later than July 1, 2028."
 faq:
   - q: "How long do I have to leave the SAVE Plan?"
     a: "At least 90 days from the date your loan servicer communicates, the U.S. Department of Education says. Your servicer's notice gives your specific 90-day deadline; you can also contact your servicer to switch before any notice arrives."
   - q: "What happens if I miss the SAVE Plan deadline?"
-    a: "Borrowers who do not transition within the 90-day period are automatically enrolled in either the Standard Repayment Plan or the new Tiered Standard Plan, according to the Department of Education."
+    a: "Your servicer sends a final 30-day notice. Borrowers who then still have not chosen are automatically enrolled in either the Standard Repayment Plan or the new Tiered Standard Plan, according to Federal Student Aid."
   - q: "Which repayment plans can I switch to?"
     a: "The new Repayment Assistance Plan (RAP), the Tiered Standard Plan and the Standard Repayment Plan, plus the Income-Based Repayment (IBR), Income-Contingent Repayment (ICR) and Pay As You Earn (PAYE) plans, according to Federal Student Aid."
   - q: "When do the ICR and PAYE plans end?"
@@ -41,6 +42,10 @@ sources:
     url: "https://studentaid.gov/announcements-events/idr-court-actions"
     publisher: "Federal Student Aid"
     date: "2026-11-06"
+  - title: "SAVE Plan Borrowers: FAQs About Choosing a Different Repayment Plan"
+    url: "https://studentaid.gov/articles/save/"
+    publisher: "Federal Student Aid"
+    date: "2026-11-14"
   - title: "Income-Driven Repayment (IDR) Plans"
     url: "https://studentaid.gov/manage-loans/repayment/plans/income-driven"
     publisher: "Federal Student Aid"
@@ -76,7 +81,7 @@ assets:
     group: save-plan-2026
     title: "SAVE Plan Timeline 2026-2028: Switch Your Repayment Plan"
     subtitle: "Federal student loan dates for borrowers leaving the SAVE Plan"
-    note: "Source: U.S. Department of Education; Federal Student Aid. Read Nov. 6, 2026. Your servicer's notice gives your own 90-day deadline; check StudentAid.gov."
+    note: "Source: U.S. Department of Education; Federal Student Aid. Read Nov. 14, 2026. Your servicer's notice gives your own 90-day deadline; check StudentAid.gov."
     description: "A one-page timeline of the dates for leaving the SAVE Plan, from the March 2026 court order to the 2028 end of the ICR and PAYE plans, with days before the target."
     alt: "Printable timeline of SAVE Plan repayment dates, from the March 2026 court order to July 2028"
     data:
@@ -96,7 +101,7 @@ assets:
           src: 1
           quote: "a new IDR plan, the Repayment Assistance Plan (RAP), and a new Tiered Standard Plan that will be available to borrowers on July 1, 2026."
       unconfirmed:
-        - { label: "The date notices stop and a final transition deadline", why: "the Department had not published a single nationwide end date as of Nov. 6, 2026; each servicer sets its own 90-day deadline" }
+        - { label: "The date notices stop and a final transition deadline", why: "Federal Student Aid says servicers notify borrowers in groups and will reach every SAVE borrower before the end of 2026; each notice sets its own 90-day deadline" }
 ---
 
 Borrowers enrolled in the SAVE Plan, a federal income-driven repayment plan (SAVE), have at least 90 days from the date on their loan servicer's notice to move to a new repayment plan, the U.S. Department of Education said in a March 27, 2026 announcement. Servicers began issuing those notices on July 1, 2026, and each notice states that borrower's own 90-day deadline. The free printable with this story lays the federal dates out on one page.
@@ -107,7 +112,7 @@ Miss the window, and the Department said your servicer moves you automatically: 
 
 A federal court blocked the SAVE Plan on March 10, 2026. Federal Student Aid (FSA), the office that runs the federal loan program, says the order prevented the Department "from implementing the SAVE Plan and parts of other income-driven repayment (IDR) plans," and that borrowers whose loans are in forbearance because they enrolled in or applied for SAVE "must select a new repayment plan and begin repaying their loans."
 
-The 90 days is not one shared national date. The Department said servicers "will notify borrowers of their specific 90-day deadline," so the date on your own notice is the one that counts. The announcement said the guidance goes to "the 7.5 million borrowers who enrolled in" SAVE.
+The 90 days is not one shared national date. The Department said servicers "will notify borrowers of their specific 90-day deadline," so the date on your own notice is the one that counts. FSA says servicers are notifying borrowers in groups, so two borrowers with the same servicer can have different deadlines, and that every SAVE borrower will be notified before the end of 2026. Your notice arrives with the subject line "You Have 90 Days to Select a New Repayment Plan," and the 90 days run from the servicer's notice, not from any email sent by FSA itself. The announcement said the guidance goes to "the 7.5 million borrowers who enrolled in" SAVE.
 
 Applying for an income-driven plan is faster if you let the Department pull your tax data, FSA says: the process moves quicker "if borrowers provide consent for the Department to obtain their federal tax information directly from the Internal Revenue Service (IRS)."
 
@@ -157,6 +162,6 @@ The Department also described the Tiered Standard Plan with fixed terms of "10, 
 
 ## What happens if you miss the SAVE Plan deadline
 
-If you do nothing within the 90 days, your servicer chooses for you. The Department said borrowers who do not transition in time "will be automatically enrolled into either the Standard Repayment Plan, or the new Tiered Standard Plan." If you would rather pick, FSA says eligible borrowers "can apply for or recertify under the Income-Based Repayment (IBR), Income-Contingent Repayment (ICR), and Pay As You Earn (PAYE) Repayment Plans," and you can start before a notice arrives by contacting your servicer.
+If you do nothing within the 90 days, your servicer sends a final 30-day notice, and after that deadline it chooses for you. The Department said borrowers who do not transition in time "will be automatically enrolled into either the Standard Repayment Plan, or the new Tiered Standard Plan." If you would rather pick, FSA says eligible borrowers "can apply for or recertify under the Income-Based Repayment (IBR), Income-Contingent Repayment (ICR), and Pay As You Earn (PAYE) Repayment Plans," and you can start before a notice arrives by contacting your servicer. The plan you land in depends on your loan dates: FSA says borrowers with no loan received on or after July 1, 2026 go into the Standard Repayment Plan, and those with such a loan in repayment go into the Tiered Standard Plan. Servicers must tell you your new monthly payment at least 21 days before the first due date.
 
 For other federal money dates this season, our guide to the [2027 tax brackets and retirement limits](/news/2027-tax-brackets-401k-hsa-limits-irs/) and the [2027-28 Free Application for Federal Student Aid dates](/news/fafsa-2027-28-open-now-deadlines-tax-year/) cover the IRS figures and the student-aid calendar.

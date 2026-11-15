@@ -1,9 +1,9 @@
 ---
 title: "Diwali 2026 Date: Sunday, Nov. 8, Lakshmi Puja Time by City"
-description: "When is Diwali 2026 in the United States (USA)? Sunday, Nov. 8. Lakshmi Puja times for your U.S. city, then Govardhan Puja Nov. 9 and Bhai Dooj Nov. 10."
+description: "Diwali 2026 in the United States (USA) was Sunday, Nov. 8. Lakshmi Puja times by U.S. city, Govardhan Puja Nov. 9, Bhai Dooj Nov. 10 and the 2027 date."
 type: explainer
 publishedAt: "2026-10-19T07:45:00-04:00"
-updatedAt: "2026-11-08T13:07:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["when is diwali 2026 in usa", "diwali 2026 usa", "Diwali 2026", "Lakshmi Puja time 2026 USA", "Dhanteras 2026"]
@@ -11,7 +11,7 @@ dateline: "New York"
 hero:
   src: ../../../../assets/news/diwali-2026-date-lakshmi-puja-time-usa/diwali-2026-date-lakshmi-puja-time-usa.webp
   alt: "Diwali 2026 USA: a lit clay diya on a stone ledge at night, with the Lakshmi Puja time for New York on Sunday, Nov. 8"
-  caption: "A clay diya, the oil lamp lit on Diwali night (file photo). Diwali 2026 is Sunday, Nov. 8, with Lakshmi Puja after sunset."
+  caption: "A clay diya, the oil lamp lit on Diwali night (file photo). Diwali 2026 was Sunday, Nov. 8, with Lakshmi Puja after sunset."
   credit: "Photo: Phadke09 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -20,29 +20,29 @@ hero:
     author: "Phadke09"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Phadke09"
 summary:
-  - "Diwali 2026 is Sunday, Nov. 8, with Lakshmi Puja in the evening after sunset."
-  - "The five days run from Dhanteras on Friday, Nov. 6 to Bhai Dooj on Tuesday, Nov. 10, with Govardhan Puja on Monday, Nov. 9."
-  - "In New York the Pradosh Kaal evening window is 4:44 p.m. to 7:08 p.m.; in Los Angeles it is 4:54 p.m. to 7:18 p.m. U.S. clocks are on standard time."
+  - "Diwali 2026 was Sunday, Nov. 8, with Lakshmi Puja in the evening after sunset."
+  - "The five days ran from Dhanteras on Friday, Nov. 6 to Bhai Dooj on Tuesday, Nov. 10, with Govardhan Puja on Monday, Nov. 9. Diwali 2027 is expected on Friday, Oct. 29."
+  - "In New York the Pradosh Kaal evening window was 4:44 p.m. to 7:08 p.m.; in Los Angeles it was 4:54 p.m. to 7:18 p.m. U.S. clocks were on standard time."
   - "California's Diwali holiday law, AB 268, was signed Oct. 6, 2025, but a Sacramento Superior Court judge ruled against it in 2026, two newsrooms report. Pennsylvania has named the day Diwali Day since 2024."
 faq:
   - q: "When is Diwali 2026 in the USA?"
-    a: "Sunday, Nov. 8, 2026, the same night as in India. Lakshmi Puja is performed that evening after sunset, on the Amavasya (new moon) night of the Hindu month of Kartik."
+    a: "Sunday, Nov. 8, 2026, the same night as in India. Lakshmi Puja was performed that evening after sunset, on the Amavasya (new moon) night of the Hindu month of Kartik."
   - q: "When are Govardhan Puja and Bhai Dooj 2026?"
-    a: "Govardhan Puja is Monday, Nov. 9, 2026, the day after Diwali, and Bhai Dooj is Tuesday, Nov. 10. Both are school and work days in most of the United States."
+    a: "Govardhan Puja was Monday, Nov. 9, 2026, the day after Diwali, and Bhai Dooj was Tuesday, Nov. 10. Both were school and work days in most of the United States."
   - q: "When is Diwali 2026?"
-    a: "Sunday, Nov. 8, 2026. Lakshmi Puja is performed that evening, on the Amavasya (new moon) night of the Hindu month of Kartik."
+    a: "Sunday, Nov. 8, 2026. Lakshmi Puja was performed that evening, on the Amavasya (new moon) night of the Hindu month of Kartik."
   - q: "What time is Lakshmi Puja in the USA on Diwali 2026?"
-    a: "It is done in the Pradosh Kaal window after sunset on Nov. 8. Counted as 2 hours 24 minutes from sunset, that is 4:44 to 7:08 p.m. in New York, 4:36 to 7:00 p.m. in Chicago, 5:30 to 7:54 p.m. in Houston and Dallas, and 4:54 to 7:18 p.m. in Los Angeles. Local temples often name a narrower muhurat inside that window."
+    a: "It was done in the Pradosh Kaal window after sunset on Nov. 8. Counted as 2 hours 24 minutes from sunset, that was 4:44 to 7:08 p.m. in New York, 4:36 to 7:00 p.m. in Chicago, 5:30 to 7:54 p.m. in Houston and Dallas, and 4:54 to 7:18 p.m. in Los Angeles. Local temples often name a narrower muhurat inside that window."
   - q: "When is Dhanteras 2026?"
-    a: "Friday, Nov. 6, 2026, two days before Diwali. Choti Diwali (Naraka Chaturdashi) is Saturday, Nov. 7."
+    a: "Friday, Nov. 6, 2026, two days before Diwali. Choti Diwali (Naraka Chaturdashi) was Saturday, Nov. 7."
   - q: "Is Diwali the same day in India and the U.S. in 2026?"
     a: "Yes. The new moon comes at 07:02 Universal Time (UT) on Nov. 9, which is 12:32 p.m. in India and 2:02 a.m. Eastern on Nov. 9. In both countries the Amavasya evening, and so Diwali night, is Sunday, Nov. 8."
   - q: "Is Diwali on Nov. 7 or Nov. 8 in the USA in 2026?"
-    a: "Sunday, Nov. 8. Lakshmi Puja is held on the evening when the Amavasya lunar day is in effect after sunset, and the new moon itself comes at 2:02 a.m. Eastern on Nov. 9, so the Amavasya evening is Nov. 8 in every U.S. time zone. Saturday, Nov. 7 is Choti Diwali."
+    a: "Sunday, Nov. 8. Lakshmi Puja is held on the evening when the Amavasya lunar day is in effect after sunset, and the new moon itself came at 2:02 a.m. Eastern on Nov. 9, so the Amavasya evening was Nov. 8 in every U.S. time zone. Saturday, Nov. 7 was Choti Diwali."
   - q: "Are schools closed for Diwali 2026?"
-    a: "Mostly no, because Diwali falls on a Sunday. New York City public schools are open on Monday, Nov. 9 and Tuesday, Nov. 10 and close on Wednesday, Nov. 11 for Veterans Day. Montgomery County Public Schools in Maryland has no Diwali day on its 2026-27 calendar either."
+    a: "Mostly no, because Diwali fell on a Sunday. New York City public schools were open on Monday, Nov. 9 and Tuesday, Nov. 10 and closed on Wednesday, Nov. 11 for Veterans Day. Montgomery County Public Schools in Maryland has no Diwali day on its 2026-27 calendar either."
   - q: "Is Diwali a holiday in California in 2026?"
-    a: "Not as a state holiday this year. AB 268 was signed on Oct. 6, 2025, but Judge Stephen Acquisto of the Sacramento Superior Court ruled against it this summer, Fresnoland and ETV Bharat report (details below). Diwali is not on the California Department of Human Resources (CalHR) state holiday list. Nov. 8, 2026 is a Sunday, so most schools are closed anyway."
+    a: "Not as a state holiday this year. AB 268 was signed on Oct. 6, 2025, but Judge Stephen Acquisto of the Sacramento Superior Court ruled against it this summer, Fresnoland and ETV Bharat report (details below). Diwali is not on the California Department of Human Resources (CalHR) state holiday list. Nov. 8, 2026 was a Sunday, so most schools were closed anyway."
   - q: "When is Diwali 2027?"
     a: "Diwali 2027 is expected on Friday, Oct. 29, 2027, the day of that month's new moon (13:36 UT, per the U.S. Naval Observatory). The Hindu calendar follows the Moon, so the date moves every year."
 sources:
@@ -128,11 +128,11 @@ assets:
 draft: false
 ---
 
-**Diwali 2026 in the United States (USA) is Sunday, Nov. 8, the same night as in India.** Lakshmi Puja, the central prayer of the festival, is done that evening in the Pradosh Kaal window that opens at local sunset, so the exact time depends on your U.S. time zone: it runs about 4:44 to 7:08 p.m. Eastern Time (ET) in New York and 4:54 to 7:18 p.m. Pacific Time (PT) in Los Angeles, with six cities listed next. The night is the Amavasya (new moon) of the Hindu month of Kartik. The five days of celebration began with Dhanteras on Friday, Nov. 6 and Choti Diwali on Saturday, Nov. 7; Govardhan Puja follows on Monday, Nov. 9 and Bhai Dooj on Tuesday, Nov. 10. California's Diwali holiday law was ruled against in court this year, according to Fresnoland and the Eenadu Television (ETV) group news service ETV Bharat.
+**Diwali 2026 in the United States (USA) was Sunday, Nov. 8, the same night as in India.** Lakshmi Puja, the central prayer of the festival, was done that evening in the Pradosh Kaal window that opens at local sunset, so the exact time depended on the U.S. time zone: it ran about 4:44 to 7:08 p.m. Eastern Time (ET) in New York and 4:54 to 7:18 p.m. Pacific Time (PT) in Los Angeles, with six cities listed next. The night was the Amavasya (new moon) of the Hindu month of Kartik. The five days of celebration began with Dhanteras on Friday, Nov. 6 and Choti Diwali on Saturday, Nov. 7; Govardhan Puja followed on Monday, Nov. 9 and Bhai Dooj on Tuesday, Nov. 10. Diwali 2027 is expected on Friday, Oct. 29. California's Diwali holiday law was ruled against in court this year, according to Fresnoland and the Eenadu Television (ETV) group news service ETV Bharat.
 
 ## Lakshmi Puja time on Diwali 2026 in six U.S. cities
 
-Lakshmi Puja is performed in the Pradosh Kaal window that opens at sunset and runs about 2 hours 24 minutes. Here is that window for six U.S. cities on Sunday, Nov. 8, from U.S. Naval Observatory sunset times. Clocks are on standard time, because they fell back on Nov. 1.
+Lakshmi Puja is performed in the Pradosh Kaal window that opens at sunset and runs about 2 hours 24 minutes. Here is that window for six U.S. cities on Sunday, Nov. 8, from U.S. Naval Observatory sunset times. Clocks were on standard time, because they fell back on Nov. 1.
 
 | City | Sunset | Lakshmi Puja (Pradosh Kaal) |
 |---|---|---|
@@ -147,7 +147,7 @@ Your temple or family priest may name a shorter muhurat inside this window. Time
 
 ## Govardhan Puja and Bhai Dooj 2026: sunrise and sunset
 
-Govardhan Puja falls on Monday, Nov. 9 and Bhai Dooj on Tuesday, Nov. 10, both ordinary school and work days in most of the country. Here are sunrise and sunset for both days in four cities, from the U.S. Naval Observatory, in local standard time.
+Govardhan Puja fell on Monday, Nov. 9 and Bhai Dooj on Tuesday, Nov. 10, both ordinary school and work days in most of the country. Here are sunrise and sunset for both days in four cities, from the U.S. Naval Observatory, in local standard time.
 
 | City | Mon., Nov. 9 sunrise | Mon., Nov. 9 sunset | Tue., Nov. 10 sunrise | Tue., Nov. 10 sunset |
 |---|---|---|---|---|
@@ -155,29 +155,6 @@ Govardhan Puja falls on Monday, Nov. 9 and Bhai Dooj on Tuesday, Nov. 10, both o
 | Chicago, IL | 6:33 a.m. | 4:35 p.m. | 6:34 a.m. | 4:34 p.m. |
 | Houston, TX | 6:41 a.m. | 5:29 p.m. | 6:42 a.m. | 5:28 p.m. |
 | Los Angeles, CA | 6:20 a.m. | 4:53 p.m. | 6:21 a.m. | 4:52 p.m. |
-
-## Countdown to Diwali 2026
-
-<div class="tool-box" data-launch-clock data-local="2026-11-08" data-done="Diwali 2026 is here. Happy Diwali." data-targets="Lakshmi Puja begins in New York, 4:44 p.m. EST|2026-11-08T21:44:00Z;Lakshmi Puja begins in Chicago, 4:36 p.m. CST|2026-11-08T22:36:00Z;Lakshmi Puja begins in Houston and Dallas, 5:30 p.m. CST|2026-11-08T23:30:00Z;Lakshmi Puja begins in Los Angeles, 4:54 p.m. PST|2026-11-09T00:54:00Z;Diwali, midnight in your own time zone (an assumption)|" hidden>
-<p class="tool-title">Days, hours, minutes and seconds until Diwali</p>
-<label for="lc-diwali">Count down to</label>
-<select id="lc-diwali"></select>
-<div class="tool-out"></div>
-</div>
-
-The Lakshmi Puja options count to the start of the Pradosh Kaal window (sunset) in each city, from the Naval Observatory sunset times below, shown in your own time zone. Without JavaScript, use the table.
-
-## How many days until the five days of Diwali 2026
-
-<p class="days-live" data-days-until="2026" hidden></p>
-
-| Date | Day | What it marks | Days from today |
-|---|---|---|---|
-| Nov. 6 | Dhanteras | Buying gold, silver or new utensils | - |
-| Nov. 7 | Choti Diwali (Naraka Chaturdashi) | Early oil bath, first diyas, rangoli | - |
-| Nov. 8 | Diwali (Lakshmi Puja) | Lakshmi and Ganesha puja after sunset | - |
-| Nov. 9 | Govardhan Puja | Annakut food offerings | - |
-| Nov. 10 | Bhai Dooj | Sisters pray for brothers; brothers give gifts | - |
 
 ## Diwali 2026 dates: the five days
 
@@ -197,7 +174,7 @@ Hindu festivals follow a lunisolar calendar, so Diwali moves each year, usually 
 
 In 2026 the new moon arrives at 07:02 Universal Time (UT) on Monday, Nov. 9, according to the U.S. Naval Observatory. That is 12:32 p.m. in India and 2:02 a.m. Eastern Time in the United States. On both sides of the world, the Amavasya evening is Sunday, Nov. 8, so Indian and American families celebrate on the same night.
 
-Diwali 2026 is 19 days later than in 2025, when it fell on Oct. 20. In 2027 Diwali is expected on Friday, Oct. 29, the day of that month's new moon at 13:36 UT, according to the Naval Observatory.
+Diwali 2026 was 19 days later than in 2025, when it fell on Oct. 20. In 2027 Diwali is expected on Friday, Oct. 29, the day of that month's new moon at 13:36 UT, according to the Naval Observatory.
 
 ## Lakshmi Puja time in the United States
 
@@ -234,21 +211,21 @@ Lakshmi Puja is traditionally performed during Pradosh Kaal, the window that ope
 | Anchorage, AK | 4:38 p.m. AKST | 4:38 to 7:02 p.m. |
 | Honolulu, HI | 5:52 p.m. HST | 5:52 to 8:16 p.m. |
 
-Many temples and family priests choose a shorter muhurat inside this window, based on the rising sign at their location. When your temple publishes one, follow it. The printable Lakshmi Puja table in the downloads lists the first 12 cities we published, with sunrise as well.
+Many temples and family priests chose a shorter muhurat inside this window, based on the rising sign at their location. The printable Lakshmi Puja table in the downloads lists the first 12 cities we published, with sunrise as well.
 
 ## Where Diwali is a holiday in the U.S.
 
-**California.** Governor Gavin Newsom signed AB 268 on Oct. 6, 2025, to make Diwali a state holiday starting in 2026. Judge Stephen Acquisto of the Sacramento Superior Court then ruled in favor of the San Francisco Taxpayers Association, which had challenged the law, ETV Bharat reported on July 25, 2026 and Fresnoland on Sept. 1, 2026. ETV Bharat quoted the court as finding that AB 268 "violates several provisions of the federal and state constitutions." The reports differ on how much of the law the ruling leaves in place, and we could not confirm from a court record whether the state has appealed. Because Diwali falls on a Sunday this year, most campuses are closed that day anyway.
+**California.** Governor Gavin Newsom signed AB 268 on Oct. 6, 2025, to make Diwali a state holiday starting in 2026. Judge Stephen Acquisto of the Sacramento Superior Court then ruled in favor of the San Francisco Taxpayers Association, which had challenged the law, ETV Bharat reported on July 25, 2026 and Fresnoland on Sept. 1, 2026. ETV Bharat quoted the court as finding that AB 268 "violates several provisions of the federal and state constitutions." The reports differ on how much of the law the ruling leaves in place, and we could not confirm from a court record whether the state has appealed. Because Diwali fell on a Sunday this year, most campuses were closed that day anyway.
 
 **Pennsylvania.** Governor Josh Shapiro signed a law on Oct. 21, 2024 that names the 15th day of the Hindu month of Kartik "Diwali Day" every year, according to the governor's office. It took effect at once, so 2024 was the first Diwali Day under the law.
 
-**New York City.** A law signed by Governor Kathy Hochul on Nov. 14, 2023 made Diwali a holiday for New York City public schools. With Diwali on a Sunday in 2026, there is no school day to cancel.
+**New York City.** A law signed by Governor Kathy Hochul on Nov. 14, 2023 made Diwali a holiday for New York City public schools. With Diwali on a Sunday in 2026, there was no school day to cancel.
 
-Diwali is not a federal holiday, so post offices, banks and federal offices keep their normal hours. On Sunday that means most are closed regardless.
+Diwali is not a federal holiday, so post offices, banks and federal offices keep their normal hours. On Sunday that meant most were closed regardless.
 
 ### Are schools closed for Diwali 2026?
 
-Mostly not. With Diwali on a Sunday, the school calendars we checked keep Monday and Tuesday of Diwali week as ordinary days, so families who stay up late for Lakshmi Puja, or who mark Govardhan Puja and Bhai Dooj, are working around a school week.
+Mostly not. With Diwali on a Sunday, the school calendars we checked kept Monday and Tuesday of Diwali week as ordinary days, so families who stayed up late for Lakshmi Puja, or who marked Govardhan Puja and Bhai Dooj, worked around a school week.
 
 | District or office | Diwali week, Nov. 6 to 10 | Days off nearby |
 |---|---|---|
@@ -256,12 +233,12 @@ Mostly not. With Diwali on a Sunday, the school calendars we checked keep Monday
 | Montgomery County Public Schools, Maryland | Open; no Diwali day on the 2026-27 calendar | No school Mon., Nov. 2; closed Tue., Nov. 3, Election Day |
 | California state offices | Diwali is not on CalHR's state holiday list | Closed Wed., Nov. 11, Veterans Day |
 
-Sources: the 2026-27 calendars of New York City Public Schools and Montgomery County Public Schools, and the CalHR state holiday list. In California, check your own district's calendar rather than relying on AB 268. If your child will miss class on Monday, Nov. 9 or Tuesday, Nov. 10 for Govardhan Puja or Bhai Dooj, look up your district's attendance rules for religious observances before the week starts.
+Sources: the 2026-27 calendars of New York City Public Schools and Montgomery County Public Schools, and the CalHR state holiday list. In California, check your own district's calendar rather than relying on AB 268.
 
-## Planning the week
+## Planning ahead
 
-With Diwali on a Sunday, the main celebrations fall on a weekend for most families: Choti Diwali on Saturday, Lakshmi Puja on Sunday night. Govardhan Puja and Bhai Dooj land on Monday and Tuesday, so families who travel for Bhai Dooj may need a day off. Election Day falls the Tuesday before, on Nov. 3, and Veterans Day the Wednesday after, on Nov. 11.
+Diwali 2026 fell on a Sunday, so the main celebrations landed on a weekend for most families: Choti Diwali on Saturday, Lakshmi Puja on Sunday night. Govardhan Puja and Bhai Dooj landed on Monday and Tuesday.
 
-Our free Diwali planner splits the preparations by day, from cleaning and buying diyas before Dhanteras to the Bhai Dooj tilak. To see the whole month, print a [November 2026 calendar](/november-calendars.html) and mark the five days. For other festivals that follow the Moon, see our guides to [Ramadan 2027](/news/ramadan-2027-calendar-dates-timetable/) and [Lunar New Year 2027](/news/lunar-new-year-2027-year-of-the-goat/), or plan ahead with a [2027 printable yearly calendar](/printable-yearly-calendar.html). Thanksgiving comes 18 days after Diwali, on Nov. 26; our page on [when Thanksgiving falls](/when-is/thanksgiving/) explains the rule. Readers in Britain can follow our guide to [Diwali in the United Kingdom](/news/diwali-2026-uk-leicester-diwali-day-8-november-trafalgar-square-cancelled/).
+Our free Diwali planner splits the preparations by day, from cleaning and buying diyas before Dhanteras to the Bhai Dooj tilak. Print a [November 2026 calendar](/november-calendars.html) for the record. For other festivals that follow the Moon, see our guides to [Ramadan 2027](/news/ramadan-2027-calendar-dates-timetable/) and [Lunar New Year 2027](/news/lunar-new-year-2027-year-of-the-goat/), or plan ahead with a [2027 printable yearly calendar](/printable-yearly-calendar.html). Thanksgiving comes 18 days after Diwali, on Nov. 26; our page on [when Thanksgiving falls](/when-is/thanksgiving/) explains the rule. Readers in Britain can follow our guide to [Diwali in the United Kingdom](/news/diwali-2026-uk-leicester-diwali-day-8-november-trafalgar-square-cancelled/).
 
-Diwali week overlaps other November observances: [Day of the Dead](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) ended on Nov. 2, and [Veterans Day](/news/veterans-day-2026-wednesday-november-11/) follows on Nov. 11. The [2027 federal holiday list](/news/federal-holidays-2027-observed-dates-list/) covers next year's days off.
+Diwali week overlaps other November observances: [Day of the Dead](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) ended on Nov. 2, and [Veterans Day](/news/veterans-day-2026-wednesday-november-11/) came on Nov. 11. The [2027 federal holiday list](/news/federal-holidays-2027-observed-dates-list/) covers next year's days off.

@@ -3,6 +3,7 @@ title: "London New Year's Eve Fireworks 2026: Tickets £20 to £55, Entry 8:00pm
 description: "London's New Year's Eve fireworks 2026 tickets cost £20 to £55 on Thursday 31 December. A gate table by viewing area, entry times and midnight in ET."
 type: news
 publishedAt: "2026-10-30T15:50:00-04:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["london fireworks new years eve 2026", "london nye fireworks tickets 2026", "london new year's eve fireworks gates", "london new year's eve fireworks prices"]
@@ -21,7 +22,7 @@ hero:
 summary:
   - "Tickets for London's New Year's Eve fireworks on Thursday 31 December 2026 cost between £20 and £55, depending on the viewing area, per London City Hall."
   - "You can enter from 8:00pm to 10:30pm; the event ends at 12:30am on Friday 1 January 2027."
-  - "The first batch of tickets went on sale at midday on Friday 23 October; the second batch has no release date yet."
+  - "The first batch of tickets went on sale at midday on Friday 23 October; the second batch goes on sale at 12 noon on Friday 20 November."
   - "Midnight in London is 7 p.m. Eastern Time (ET) on Dec. 31 in New York and Toronto."
 faq:
   - q: "How much are London New Year's Eve fireworks tickets in 2026?"
@@ -33,7 +34,7 @@ faq:
   - q: "Are ticket prices higher than last year?"
     a: "No. London City Hall says ticket prices have stayed the same as last year."
   - q: "When is the second batch of tickets released?"
-    a: "London City Hall has not given a date. Its event page says to keep checking for the exact release date."
+    a: "At 12 noon on Friday 20 November, per London City Hall's event page."
 sources:
   - title: "Mayor announces tickets for London's world-famous New Year's Eve fireworks go on sale next week"
     url: "https://www.london.gov.uk/media-centre/mayors-press-release/Mayor-announces-tickets-for-London%E2%80%99s-world-famous-New-Year%E2%80%99s-Eve-fireworks-go-on-sale-next-week"
@@ -42,6 +43,7 @@ sources:
   - title: "London New Year's Eve 2026"
     url: "https://www.london.gov.uk/events/london-new-years-eve-2026"
     publisher: "London City Hall"
+    date: "2026-11-14"
   - title: "London New Year's Eve fireworks: entry gates"
     url: "https://www.london.gov.uk/nye"
     publisher: "London City Hall"
@@ -69,14 +71,6 @@ downloads:
     pdf: "/news/downloads/london-new-years-eve-2026/london-new-years-eve-fireworks-2026-timeline.pdf"
     png: "/news/downloads/london-new-years-eve-2026/london-new-years-eve-fireworks-2026-timeline.png"
     pages: 1
-  - group: "London New Year's Eve Fireworks Timeline 2026 printables"
-    title: "London New Year's Eve Fireworks Timeline 2026 (ink saver)"
-    description: "One-page timeline for London's New Year's Eve fireworks 2026: ticket sale dates, gate times, midnight and the 12:30am finish. Ink-saver version."
-    preview: ../../../../assets/news/london-new-years-eve-2026/london-new-years-eve-fireworks-2026-timeline-ink.png
-    alt: "Printable timeline for the London New Year's Eve fireworks 2026 with ticket dates and gate times, ink-saver version"
-    pdf: "/news/downloads/london-new-years-eve-2026/london-new-years-eve-fireworks-2026-timeline-ink.pdf"
-    png: "/news/downloads/london-new-years-eve-2026/london-new-years-eve-fireworks-2026-timeline-ink.png"
-    pages: 1
 assets:
   overlay: true
   kicker: "London New Year's Eve"
@@ -90,18 +84,18 @@ assets:
     layout: timeline
     rows:
       - ["Fri., Oct. 23, midday", "First batch of tickets goes on sale"]
-      - ["To be announced", "Second batch of tickets; London City Hall has not given a date"]
+      - ["Fri., Nov. 20, 12 noon", "Second batch of tickets goes on sale"]
       - ["Thu., Dec. 31, 8:00pm", "Entry to the viewing areas opens"]
       - ["Thu., Dec. 31, 10:30pm", "Last entry to the viewing areas"]
       - ["Midnight", "The display opens with Big Ben's bongs"]
       - ["Jan. 1, 2027, 12:30am", "The event ends"]
-    note: "Source: Mayor of London press release, Oct. 16, 2026; London City Hall, London New Year's Eve 2026 event page."
-    inkSaver: true
+    note: "Source: Mayor of London press release, Oct. 16, 2026; London City Hall event page, checked Nov. 14, 2026."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page timeline for London's New Year's Eve fireworks 2026: ticket sale dates, gate times, midnight and the 12:30am finish."
     alt: "Printable timeline for the London New Year's Eve fireworks 2026 with ticket dates and gate times"
 ---
 
-London's New Year's Eve fireworks on Thursday 31 December 2026 have tickets priced from £20 to £55, with entry from 8:00pm to 10:30pm, according to the Mayor of London's press release of 16 October 2026 and the London City Hall event page. The event ends at 12:30am on Friday 1 January 2027. Below: the price and gate table for each viewing area, what is still to be announced, and midnight in London converted for U.S. readers.
+London's New Year's Eve fireworks on Thursday 31 December 2026 have tickets priced from £20 to £55, with entry from 8:00pm to 10:30pm, according to the Mayor of London's press release of 16 October 2026 and the London City Hall event page. The event ends at 12:30am on Friday 1 January 2027. Below: the price and gate table for each viewing area, the second ticket batch, and midnight in London converted for U.S. readers.
 
 ## What do London New Year's Eve fireworks tickets cost in 2026?
 
@@ -124,7 +118,16 @@ Sources: London City Hall event page and entry page, 2026.
 
 ## When do tickets go on sale and when do the gates open?
 
-The first tickets went on sale at midday on Friday 23 October, the Mayor's press release said. The event page lists a second batch but gives no date: it says to keep checking the page for the exact release date.
+The first tickets went on sale at midday on Friday 23 October, the Mayor's press release said. The event page says a second batch of tickets will be released at 12 noon on Friday 20 November.
+
+| Date | What happens |
+|---|---|
+| Friday 23 October, midday | First batch goes on sale |
+| Friday 20 November, 12 noon | Second batch goes on sale |
+
+The same page says vehicle access to the event area is restricted from 2:00pm on 31 December until around 6:00am on 1 January, with closures possible from 12:00pm in the yellow and red areas.
+
+Gate and finish times for the night:
 
 | Time | What happens |
 |---|---|

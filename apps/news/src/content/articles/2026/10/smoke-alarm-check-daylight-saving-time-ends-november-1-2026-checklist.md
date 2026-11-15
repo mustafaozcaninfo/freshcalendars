@@ -1,9 +1,9 @@
 ---
 title: "Smoke Alarm Check: Test Monthly, Replace Every 10 Years, Printable"
-description: "Test smoke alarms monthly and replace each one every 10 years, says the U.S. Fire Administration. A table turns the year made into the replace-by year."
+description: "Test smoke alarms monthly and replace 9-volt and hardwired ones every 10 years, says the U.S. Fire Administration. A table gives each replace-by year."
 type: explainer
 publishedAt: "2026-10-31T18:05:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["change smoke alarm batteries daylight saving time 2026", "test smoke alarm when clocks change", "fall back smoke detector checklist", "when to replace smoke alarm 10 years"]
@@ -19,22 +19,22 @@ assets:
     title: "Smoke Alarm Check, Nov. 1, 2026"
     subtitle: "Test, replace, place and plan: one sheet for every alarm in your home"
     notesLabel: "Alarm locations and dates made"
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - { when: "Each bedroom", what: "Press the test button", section: "Test" }
       - { when: "Hallway", what: "Outside each sleeping area: press the test button", section: "Test" }
       - { when: "Each level", what: "Press the test button on every level", section: "Test" }
       - { when: "Basement", what: "Press the test button", section: "Test" }
       - { when: "Back of alarm", what: "Check the date on the back", section: "Replace" }
-      - { when: "9-volt", what: "Replace 9-volt battery", section: "Replace" }
-      - { when: "Hardwired", what: "Hardwired: replace backup battery", section: "Replace" }
-      - { when: "10 years", what: "Replace the whole alarm every 10 years", section: "Replace" }
+      - { when: "9-volt", what: "9-volt: replace batteries once a year", section: "Replace" }
+      - { when: "Hardwired", what: "Hardwired: backup battery once a year", section: "Replace" }
+      - { when: "10 years", what: "9-volt, hardwired: replace whole alarm", section: "Replace" }
       - { when: "Bedrooms", what: "An alarm in every sleeping room", section: "Place" }
       - { when: "Levels", what: "An alarm on every level, including the basement", section: "Place" }
       - { when: "Linked", what: "Interconnected: when one sounds, all sound", section: "Place" }
       - { when: "Spring 2027", what: "Mark next check: Sun., March 14, 2027", section: "Plan" }
       - { when: "Fall 2027", what: "Mark next check: Sun., Nov. 7, 2027", section: "Plan" }
-    note: "Source: U.S. Fire Administration (USFA), Federal Emergency Management Agency (FEMA), Smoke alarms. Test monthly; replace the entire alarm every 10 years. Clock-change dates: Nov. 1, 2026; March 14 and Nov. 7, 2027."
+    note: "Source: U.S. Fire Administration (USFA), Federal Emergency Management Agency (FEMA), Smoke alarms. Test monthly; replace the entire 9-volt or hardwired alarm every 10 years. Clock-change dates: Nov. 1, 2026; March 14 and Nov. 7, 2027."
     description: "One-page smoke alarm checklist for the Nov. 1, 2026 clock change: test each alarm, check the date, replace batteries and mark the next check dates."
     alt: "Printable smoke alarm checklist for Nov. 1, 2026 with test, replace, place and plan sections"
 hero:
@@ -57,26 +57,18 @@ downloads:
     pdf: "/news/downloads/smoke-alarm-check-2026/smoke-alarm-check-nov-1-2026.pdf"
     png: "/news/downloads/smoke-alarm-check-2026/smoke-alarm-check-nov-1-2026.png"
     pages: 1
-  - group: "Smoke Alarm Check printables"
-    title: "Smoke Alarm Check, Nov. 1, 2026 (ink saver)"
-    description: "One-page smoke alarm checklist for the Nov. 1, 2026 clock change: test each alarm, check the date, replace batteries and mark the next check dates. Ink-saver version."
-    preview: ../../../../assets/news/smoke-alarm-check-2026/smoke-alarm-check-nov-1-2026-ink.png
-    alt: "Printable smoke alarm checklist for Nov. 1, 2026 with test, replace, place and plan sections, ink-saver version"
-    pdf: "/news/downloads/smoke-alarm-check-2026/smoke-alarm-check-nov-1-2026-ink.pdf"
-    png: "/news/downloads/smoke-alarm-check-2026/smoke-alarm-check-nov-1-2026-ink.png"
-    pages: 1
 summary:
   - "U.S. clocks fell back at 2 a.m. local time on Sunday, Nov. 1, 2026; Hawaii and most of Arizona did not change."
-  - "The U.S. Fire Administration (USFA) says to test smoke alarms monthly and replace the entire alarm every 10 years."
-  - "Sealed 10-year lithium-ion alarms take no new battery; USFA says a hardwired alarm's backup battery is replaced once a year."
+  - "The U.S. Fire Administration (USFA) says to test smoke alarms monthly and, for 9-volt and hardwired alarms, replace the entire alarm every 10 years."
+  - "Sealed 10-year lithium-ion alarms take no new battery; USFA says 9-volt and hardwired alarms need new batteries at least once every year."
   - "Our table maps the year an alarm was made to the year it turns 10, and the next two clock changes are Sunday, March 14 and Sunday, Nov. 7, 2027."
 faq:
   - q: "Do I need a new battery in every smoke alarm on Nov. 1?"
-    a: "No. The U.S. Fire Administration lists a nonreplaceable 10-year lithium-ion battery as one option, and that alarm has no battery to swap. It says a hardwired alarm's backup battery is replaced once a year."
+    a: "Not in a sealed alarm. The U.S. Fire Administration lists a nonreplaceable 10-year lithium-ion battery as one option, with no battery to swap. It says to replace the batteries in a 9-volt alarm, and the backup battery in a hardwired one, at least once every year."
   - q: "How often should I test a smoke alarm?"
     a: "The U.S. Fire Administration says to test the alarm monthly. The clock change is a reminder to do the full check twice a year."
   - q: "When should I replace a smoke alarm?"
-    a: "The U.S. Fire Administration says to replace the entire smoke alarm every 10 years."
+    a: "The U.S. Fire Administration says to replace the entire smoke alarm every 10 years for 9-volt and hardwired alarms, and according to the manufacturer's instructions for a sealed lithium-ion alarm."
   - q: "Where should smoke alarms go?"
     a: "In every sleeping room, outside each separate sleeping area and on every level of the home, including the basement, according to the U.S. Fire Administration."
   - q: "Can I get a smoke alarm installed for free?"
@@ -85,7 +77,7 @@ sources:
   - title: "Smoke alarms"
     url: "https://www.usfa.fema.gov/prevention/home-fires/prepare-for-fire/smoke-alarms/"
     publisher: "U.S. Fire Administration, Federal Emergency Management Agency"
-    date: "2026-10-31"
+    date: "2026-11-14"
   - title: "Don't Wait, Check the Date! Replace smoke alarms every 10 years"
     url: "https://www.usfa.fema.gov/downloads/pdf/publications/dont-wait-check-the-date-handout.pdf"
     publisher: "U.S. Fire Administration, Federal Emergency Management Agency"
@@ -108,7 +100,7 @@ U.S. clocks fell back at 2 a.m. local time on Sunday, Nov. 1, 2026 (daylight sav
 
 ## What does the U.S. Fire Administration say to check on a smoke alarm?
 
-The USFA "Smoke alarms" page, which we checked on Oct. 31, 2026, gives four rules in plain terms:
+The USFA "Smoke alarms" page, which we checked on Nov. 14, 2026, gives four rules in plain terms:
 
 - **Test:** "Test the alarm monthly."
 - **Replace:** "Replace the entire smoke alarm every 10 years."
@@ -119,19 +111,19 @@ If you cannot afford an alarm, the same page says some fire departments will ins
 
 ## Does every smoke alarm need a new battery when the clocks change?
 
-No. USFA describes two kinds of battery alarm. One runs on "a disposable 9-volt battery"; the other has "a nonreplaceable 10-year lithium-ion ('long-life') battery." A sealed long-life alarm has no battery to swap, so for that alarm the job on Nov. 1 is a test and a look at its age. Hardwired alarms, USFA says, "have a backup battery that will need to be replaced once a year."
+No. USFA describes two kinds of battery alarm. One runs on "a disposable 9-volt battery"; the other has "a nonreplaceable 10-year lithium-ion ('long-life') battery." A sealed long-life alarm has no battery to swap, so for that alarm the job on Nov. 1 is a test and a look at its age. USFA says to replace the batteries in a 9-volt alarm "at least once every year," and hardwired alarms "usually have a backup battery that will need to be replaced once a year."
 
 | Alarm type | What USFA says | What to do on Nov. 1 |
 |---|---|---|
-| 9-volt battery alarm | Runs on a disposable 9-volt battery | Press the test button; replace the battery if you are replacing it |
-| Sealed 10-year lithium-ion alarm | Battery is nonreplaceable | Test it and check its age; no new battery |
+| 9-volt battery alarm | Runs on a disposable 9-volt battery; replace batteries at least once every year | Press the test button; replace the battery if it is a year old |
+| Sealed 10-year lithium-ion alarm | Battery is nonreplaceable; replace the alarm per the manufacturer | Test it and check its age; no new battery |
 | Hardwired alarm | Has a backup battery replaced once a year | Test it and replace the backup battery |
 
-The USFA text we used gives no replacement schedule for the 9-volt battery, so we do not set one.
+USFA gives the same "replace the entire smoke alarm every 10 years" rule for 9-volt and hardwired alarms. For a sealed long-life alarm it says to replace the alarm "according to the manufacturer's instructions."
 
 ## How old is my smoke alarm? Replace-by years under the 10-year rule
 
-USFA's handout "Don't Wait, Check the Date!" says to look at the back of the alarm for the date of manufacture and to replace the alarm 10 years from that date. Because USFA says to replace the entire alarm every 10 years, we computed the year each alarm turns 10 by adding 10 to its year made. This is our arithmetic from the USFA rule, not a USFA table.
+USFA's handout "Don't Wait, Check the Date!" says to look at the back of the alarm for the date of manufacture and to replace the alarm 10 years from that date. Because USFA says to replace a 9-volt or hardwired alarm every 10 years (check the maker's label on a sealed alarm), we computed the year each alarm turns 10 by adding 10 to its year made. This is our arithmetic from the USFA rule, not a USFA table.
 
 | Year made | Turns 10 in | What to do |
 |---|---|---|
@@ -172,4 +164,4 @@ The March and November dates are the next two changes under current law. Write t
 
 ## Print the smoke alarm checklist
 
-The free sheet has four sections (Test, Replace, Place, Plan), a tick box for each alarm location and a lined area for writing down where each alarm is and the year on its back. The ink-saver version prints in black and white.
+The free sheet has four sections (Test, Replace, Place, Plan), a tick box for each alarm location and a lined area for writing down where each alarm is and the year on its back.

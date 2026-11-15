@@ -3,7 +3,7 @@ title: "Narnia: The Magician's Nephew Release Date: Feb. 12, Netflix April 2"
 description: "Narnia: The Magician's Nephew opens in theaters Feb. 12, 2027, with IMAX previews Feb. 10, then streams on Netflix April 2. Free countdown planner."
 type: news
 publishedAt: "2026-10-29T23:45:00-04:00"
-updatedAt: "2026-10-30T15:27:00-04:00"
+updatedAt: "2026-11-14T17:04:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["narnia release date", "narnia the magician's nephew release date", "greta gerwig narnia netflix date", "narnia imax tickets"]
@@ -28,7 +28,8 @@ assets:
       - ["Tickets bought", "Date: ________  Theater: ________________"]
       - ["Showtime", "Time: ________  Who is coming: ________________"]
       - ["Read the book by", "Date: ________  The Magician's Nephew, C.S. Lewis"]
-    note: "Source: Netflix Tudum, Oct. 15, 2026; trailer date reported by The Associated Press and ABC News, Oct. 13, 2026."
+    note: "Source: Netflix Tudum, Oct. 15, 2026 (checked Nov. 14, 2026); trailer date reported by The Associated Press and ABC News, Oct. 13, 2026."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true
     description: "One-page countdown for Narnia: The Magician's Nephew with the Feb. 10 IMAX previews, Feb. 12, 2027 theatrical release, Netflix on April 2 and blanks for tickets and showtime."
     alt: "Printable Narnia countdown and family movie planner with the Feb. 10, Feb. 12 and April 2, 2027 dates and blanks for tickets, showtime and reading the book"
@@ -47,7 +48,7 @@ summary:
   - "Netflix Tudum said on Oct. 15, 2026 that Narnia: The Magician's Nephew will be in theaters Feb. 12, 2027 and on Netflix April 2, 2027."
   - "Sneak previews only in IMAX begin Feb. 10, 2027, according to Netflix."
   - "Theaters to Netflix is 49 days, or seven weeks, and opening weekend runs into Washington's Birthday (Presidents' Day) on Mon., Feb. 15, 2027."
-  - "Netflix has not announced an IMAX ticket on-sale date, the runtime, the Motion Picture Association (MPA) rating or the IMAX screen count."
+  - "The Motion Picture Association (MPA) rated it PG, ComingSoon and Screen Rant report; Netflix has not announced an IMAX ticket on-sale date, the runtime or the IMAX screen count."
 faq:
   - q: "When is the Narnia release date?"
     a: "Netflix Tudum says Narnia: The Magician's Nephew will be released in theaters Feb. 12, 2027, and on Netflix April 2, 2027."
@@ -58,7 +59,7 @@ faq:
   - q: "Who directs Narnia: The Magician's Nephew?"
     a: "Greta Gerwig. Netflix Tudum's headline is \"Narnia: The Magician's Nephew, Directed by Greta Gerwig, Roars to Life in 2027.\""
   - q: "How long is the movie and what is its rating?"
-    a: "Not announced. Netflix has not given a runtime or a Motion Picture Association (MPA) rating."
+    a: "The MPA rated it PG for thematic elements, fantasy action, some language, brief violence and smoking, per ComingSoon and Screen Rant. Netflix has not announced a runtime."
 sources:
   - title: "Greta Gerwig's 'Narnia: The Magician's Nephew' Movie Trailer, Release Date, Photos, Cast, News"
     url: "https://www.netflix.com/tudum/articles/narnia-release-date"
@@ -79,6 +80,14 @@ sources:
   - title: "Netflix Moves NARNIA to February 2027, Committing to Wide Release and Full Theatrical Window"
     url: "https://www.boxofficepro.com/netflix-moves-narnia-to-february-2027-committing-to-wide-release-and-full-theatrical-window/"
     publisher: "Boxoffice Pro"
+  - title: "Netflix's Narnia: The Magician's Nephew receives official MPA rating"
+    url: "https://www.comingsoon.net/movies/news/2215471-netflix-narnia-movie-official-rating-greta-gerwig-pg"
+    publisher: "ComingSoon"
+    date: "2026-10-27"
+  - title: "Netflix's New Narnia Reboot Rating Officially Honors 21-Year Franchise Tradition"
+    url: "https://screenrant.com/narnia-the-magicians-nephew-netflix-rating-franchise-tradition/"
+    publisher: "Screen Rant"
+    date: "2026-10-27"
 internalLinks:
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
@@ -97,9 +106,9 @@ downloads:
     pages: 1
   - group: "Narnia Countdown and Family Movie Planner 2027 printables"
     title: "Narnia Countdown and Family Movie Planner 2027 (ink saver)"
-    description: "One-page countdown for Narnia: The Magician's Nephew with the Feb. 10 IMAX previews, Feb. 12, 2027 theatrical release, Netflix on April 2 and blanks for tickets and showt Ink-saver version."
+    description: "One-page countdown for Narnia: The Magician's Nephew with the Feb. 10 IMAX previews, Feb. 12, 2027 theatrical release, Netflix on April 2 and blanks for tickets and showtime. Ink-saver version."
     preview: ../../../../assets/news/narnia-2027/narnia-magicians-nephew-countdown-planner-2027-ink.png
-    alt: "Printable Narnia countdown and family movie planner with the Feb. 10, Feb. 12 and April 2, 2027 dates and blanks for tickets, showtime and r, ink-saver version"
+    alt: "Printable Narnia countdown and movie planner with the Feb. 10, Feb. 12 and April 2, 2027 dates and blanks for tickets and showtime, ink-saver version"
     pdf: "/news/downloads/narnia-2027/narnia-magicians-nephew-countdown-planner-2027-ink.pdf"
     png: "/news/downloads/narnia-2027/narnia-magicians-nephew-countdown-planner-2027-ink.png"
     pages: 1
@@ -120,7 +129,7 @@ Tudum's article says: "Narnia: The Magician's Nephew will be released in theater
 | In theaters | Fri., Feb. 12, 2027 | Netflix Tudum |
 | Netflix | Fri., April 2, 2027 | Netflix Tudum |
 
-From Fri., Feb. 12 to Fri., April 2, 2027 is 49 days, or seven weeks. From Fri., Oct. 30, 2026 to the theatrical release is 105 days.
+From Fri., Feb. 12 to Fri., April 2, 2027 is 49 days, or seven weeks.
 
 ## What has Netflix not announced about Narnia?
 
@@ -128,10 +137,11 @@ From Fri., Feb. 12 to Fri., April 2, 2027 is 49 days, or seven weeks. From Fri.,
 |---|---|
 | IMAX ticket on-sale date | Not announced |
 | Runtime | Not announced |
-| Motion Picture Association (MPA) rating | Not announced |
 | IMAX screen count | Not announced |
 
-Check the Netflix and IMAX pages near February for ticket news. This story will change when Netflix gives a date.
+Check the Netflix and IMAX pages near February for ticket news. The IMAX page was not readable when we checked on Nov. 14, 2026.
+
+The rating is out. ComingSoon and Screen Rant both report that the Motion Picture Association (MPA) rated the film PG for "thematic elements, fantasy action, some language, brief violence and smoking." Screen Rant cites FilmRatings.com, which we could not search.
 
 ## Is opening weekend a three-day weekend?
 
@@ -155,4 +165,4 @@ For other Netflix titles, see the [Netflix movies for November 2026](/news/netfl
 
 ## How we keep this accurate
 
-The release dates come from Netflix Tudum, Oct. 15, 2026. The trailer date comes from The Associated Press and ABC News, and the earlier Thanksgiving plan from TheWrap and Boxoffice Pro. Dates can change, so check Netflix before you buy tickets.
+The release dates come from Netflix Tudum, Oct. 15, 2026. The PG rating comes from ComingSoon and Screen Rant, Oct. 27, 2026. The trailer date comes from The Associated Press and ABC News, and the earlier Thanksgiving plan from TheWrap and Boxoffice Pro. Dates can change, so check Netflix before you buy tickets.

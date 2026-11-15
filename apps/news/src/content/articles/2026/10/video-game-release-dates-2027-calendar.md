@@ -1,15 +1,16 @@
 ---
-title: "2027 Video Game Releases: Six Confirmed Dates, First Jan. 15"
+title: "2027 Video Game Releases: Nine Confirmed Dates, First Jan. 15"
 description: "Stranger Than Heaven opens the 2027 video game release calendar on Jan. 15. Every date publishers have confirmed, with weekdays, platforms and sources."
 type: news
 publishedAt: "2026-10-31T07:47:00-04:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["video game release dates 2027", "games coming out in 2027", "2027 game release calendar", "2027 video game releases"]
 hero:
   src: ../../../../assets/news/video-game-release-dates-2027-calendar/video-game-release-dates-2027-calendar.webp
   alt: "Hands holding a game controller, a file photo for video game release dates 2027"
-  caption: "File photo of a person holding a game controller. Six games have publisher-confirmed 2027 release dates so far."
+  caption: "File photo of a person holding a game controller. Nine games have publisher-confirmed 2027 release dates so far."
   credit: "Photo: InclusiveGameLab / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -18,8 +19,8 @@ hero:
     author: "InclusiveGameLab"
     authorUrl: "https://commons.wikimedia.org/wiki/User:InclusiveGameLab"
 summary:
-  - "Six games have a 2027 release date confirmed on the publisher's own page, starting with Stranger Than Heaven on Friday, Jan. 15, 2027."
-  - "Until Dawn 2 and Metroid Ravenous share Thursday, Jan. 28, 2027; Fable follows on Tuesday, Feb. 23."
+  - "Nine games have a 2027 release date confirmed on the publisher's own page, starting with Stranger Than Heaven on Friday, Jan. 15, 2027."
+  - "Until Dawn 2 and Metroid Ravenous share Thursday, Jan. 28, 2027; Tomb Raider: Legacy of Atlantis (Feb. 12), Persona 4 Revival (Feb. 18) and Fable (Feb. 23) follow."
   - "Nintendo has announced Pokémon Winds and Waves, Xenoblade Genesis and Kirby and the World Beyond for 2027 without a day."
   - "Grand Theft Auto VI is a 2026 release, set for Nov. 19, 2026, according to Take-Two."
 faq:
@@ -32,6 +33,18 @@ faq:
   - q: "Why are some rumored 2027 dates missing from this list?"
     a: "Other 2027 games have dates reported by the press. We add a date only after the publisher's own page confirms it."
 sources:
+  - title: "Tomb Raider: Legacy of Atlantis launches Feb 12, 2027 on PS5"
+    url: "https://blog.playstation.com/2026/06/02/tomb-raider-legacy-of-atlantis-launches-feb-12-2027-on-ps5/"
+    publisher: "PlayStation Blog"
+    date: "2026-06-02"
+  - title: "Persona 4 Revival release date, Xbox Games Showcase 2026"
+    url: "https://news.xbox.com/en-us/2026/06/09/persona-4-revival-release-date-xbox-games-showcase-2026/"
+    publisher: "Xbox Wire"
+    date: "2026-06-09"
+  - title: "Exodus launches April 7, 2027, official release date trailer"
+    url: "https://www.exodusgame.com/en-US/news/exodus-launches-april-7-2027-official-release-date-trailer"
+    publisher: "Archetype Entertainment"
+    date: "2026-08-25"
   - title: "Stranger Than Heaven release announcement"
     url: "https://www.sega.co.jp/en/release/260608_3.html"
     publisher: "Sega"
@@ -75,45 +88,40 @@ assets:
   date: "2027-01-28"
   card: { top: "Next confirmed date", big: "Fri., Jan. 15", bottom: "Stranger Than Heaven (Sega)" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: game-release-calendar-2027
     group: game-releases-2027
     title: "2027 Game Release Calendar, Confirmed Dates"
-    subtitle: "Release dates publishers have confirmed as of Oct. 31, 2026"
+    subtitle: "Release dates publishers have confirmed"
     layout: list
     rows:
       - ["Jan. 15, 2027 (Fri.)", "Stranger Than Heaven (Sega): PS5, Xbox, PC"]
       - ["Jan. 28, 2027 (Thu.)", "Until Dawn 2 (PlayStation): PS5"]
       - ["Jan. 28, 2027 (Thu.)", "Metroid Ravenous (Nintendo): Nintendo Switch 2"]
+      - ["Feb. 12, 2027 (Fri.)", "Tomb Raider: Legacy of Atlantis (Amazon Games): PS5, Xbox, PC"]
+      - ["Feb. 18, 2027 (Thu.)", "Persona 4 Revival (Atlus): PS5, Xbox, PC"]
       - ["Feb. 23, 2027 (Tue.)", "Fable (Xbox): Xbox Series X|S, PC, PS5"]
       - ["Feb. 25, 2027 (Thu.)", "Hyrule Warriors: Age of Calamity - Definitive Edition (Nintendo): Switch 2"]
       - ["Mar. 5, 2027 (Fri.)", "Gundam Rogue Orbit (Bandai Namco): PS5, Xbox, PC"]
+      - ["Apr. 7, 2027 (Wed.)", "Exodus (Archetype Entertainment): PS5, Xbox, PC"]
       - ["Spring 2027", "Kirby and the World Beyond (Nintendo): no day announced"]
       - ["2027", "Pokémon Winds and Waves (Nintendo): Switch 2, no date yet"]
       - ["2027", "Xenoblade Genesis (Nintendo): no date yet"]
-    note: "Source: Sega, PlayStation Blog, Nintendo, Xbox Wire and Bandai Namco Entertainment announcements. Check the publisher's page for changes."
-    inkSaver: true
-    description: "A one-page 2027 video game release calendar with the six publisher-confirmed dates and three games announced for 2027 without a day."
+    note: "Source: Sega, PlayStation Blog, Nintendo, Xbox Wire, Bandai Namco Entertainment and Archetype Entertainment announcements. Check the publisher's page for changes."
+    description: "A one-page 2027 video game release calendar with the nine publisher-confirmed dates and three games announced for 2027 without a day."
     alt: "A printable list of 2027 video game release dates with weekdays and platforms"
 downloads:
   - group: "2027 Game Release Calendar printables"
     title: "2027 Game Release Calendar, Confirmed Dates"
-    description: "A one-page 2027 video game release calendar with the six publisher-confirmed dates and three games announced for 2027 without a day."
+    description: "A one-page 2027 video game release calendar with the nine publisher-confirmed dates and three games announced for 2027 without a day."
     preview: ../../../../assets/news/game-releases-2027/game-release-calendar-2027.png
     alt: "A printable list of 2027 video game release dates with weekdays and platforms"
     pdf: "/news/downloads/game-releases-2027/game-release-calendar-2027.pdf"
     png: "/news/downloads/game-releases-2027/game-release-calendar-2027.png"
     pages: 1
-  - group: "2027 Game Release Calendar printables"
-    title: "2027 Game Release Calendar, Confirmed Dates (ink saver)"
-    description: "A one-page 2027 video game release calendar with the six publisher-confirmed dates and three games announced for 2027 without a day. Ink-saver version."
-    preview: ../../../../assets/news/game-releases-2027/game-release-calendar-2027-ink.png
-    alt: "A printable list of 2027 video game release dates with weekdays and platforms, ink-saver version"
-    pdf: "/news/downloads/game-releases-2027/game-release-calendar-2027-ink.pdf"
-    png: "/news/downloads/game-releases-2027/game-release-calendar-2027-ink.png"
-    pages: 1
 ---
 
-**Six video games have a 2027 release date confirmed by their own publishers, and the first is Sega's Stranger Than Heaven on Friday, Jan. 15, 2027.** Sega, PlayStation, Nintendo, Xbox and Bandai Namco have each posted a date on their official pages. The table below lists them in order, with weekdays, platforms and the source for each. We update this page as publishers confirm dates.
+**Nine video games have a 2027 release date confirmed by their own publishers, and the first is Sega's Stranger Than Heaven on Friday, Jan. 15, 2027.** Sega, PlayStation, Nintendo, Xbox, Bandai Namco, Amazon Games and Archetype Entertainment have each posted a date on their official pages. The list runs in date order, with weekdays, platforms and the source for each. We add dates as publishers confirm them.
 
 ## Confirmed 2027 game release dates
 
@@ -124,11 +132,14 @@ Platform names are written as the publishers give them: PlayStation 5 (PS5), Xbo
 | Jan. 15, 2027 | Friday | Stranger Than Heaven | PS5, Xbox, PC | Sega | [Sega release page](https://www.sega.co.jp/en/release/260608_3.html), June 2026 |
 | Jan. 28, 2027 | Thursday | Until Dawn 2 | PS5 | PlayStation | [PlayStation Blog](https://blog.playstation.com/2026/09/03/until-dawn-2-launches-january-28/), Sept. 3, 2026 |
 | Jan. 28, 2027 | Thursday | Metroid Ravenous | Nintendo Switch 2 | Nintendo | [Nintendo news](https://www.nintendo.com/ph/news/article/r4YhVFgDRDvAH4AcD9j9r), September 2026 Nintendo Direct |
+| Feb. 12, 2027 | Friday | Tomb Raider: Legacy of Atlantis | PS5, Xbox Series X\|S, PC | Amazon Games | [PlayStation Blog](https://blog.playstation.com/2026/06/02/tomb-raider-legacy-of-atlantis-launches-feb-12-2027-on-ps5/), June 2, 2026 |
+| Feb. 18, 2027 | Thursday | Persona 4 Revival | PS5, Xbox Series X\|S, PC | Atlus | [Xbox Wire](https://news.xbox.com/en-us/2026/06/09/persona-4-revival-release-date-xbox-games-showcase-2026/), June 9, 2026 |
 | Feb. 23, 2027 | Tuesday | Fable | Xbox Series X\|S, PC, PS5 | Xbox | [Xbox Wire](https://news.xbox.com/en-us/2026/06/07/fable-cast-list-new-trailer-hayley-atwell-xbox-games-showcase-2026/), June 7, 2026 |
 | Feb. 25, 2027 | Thursday | Hyrule Warriors: Age of Calamity - Definitive Edition | Nintendo Switch 2 | Nintendo | [Nintendo news](https://www.nintendo.com/th/news/article/5J7H0wFR4HoYaH14KipxRJ) |
 | Mar. 5, 2027 | Friday | Gundam Rogue Orbit | PS5, Xbox, PC | Bandai Namco | [Bandai Namco Entertainment](https://www.bandainamcoent.com/news/gundam-rogue-orbit-lands-this-march-delivering-an-action-sci-fi-thrill-ride), Sept. 3, 2026 |
+| Apr. 7, 2027 | Wednesday | Exodus | PS5, Xbox Series X\|S, PC | Archetype Entertainment | [Exodus news](https://www.exodusgame.com/en-US/news/exodus-launches-april-7-2027-official-release-date-trailer), Aug. 25, 2026 |
 
-Two games land on Thursday, Jan. 28, 2027: Until Dawn 2 on PS5 and Metroid Ravenous on Switch 2. Fable arrives on Tuesday, Feb. 23, 2027, and Hyrule Warriors: Age of Calamity - Definitive Edition follows two days later on Thursday, Feb. 25. Plan around them with our [January printable calendars](/january-calendars.html) and [February printable calendars](/february-calendars.html).
+Two games land on Thursday, Jan. 28, 2027: Until Dawn 2 on PS5 and Metroid Ravenous on Switch 2. Tomb Raider: Legacy of Atlantis arrives on Friday, Feb. 12, 2027 (Feb. 13 in Japan, Asia, Australia and New Zealand, per PlayStation Blog), Persona 4 Revival on Thursday, Feb. 18, and Fable on Tuesday, Feb. 23. Hyrule Warriors: Age of Calamity - Definitive Edition follows two days later on Thursday, Feb. 25. Exodus closes the confirmed list on Wednesday, Apr. 7, 2027. Plan around them with our [January printable calendars](/january-calendars.html) and [February printable calendars](/february-calendars.html).
 
 ## Which 2027 games have no exact date yet?
 
@@ -142,4 +153,4 @@ No. Take-Two announced in a Business Wire release on June 24, 2026 that Grand Th
 
 ## Print the 2027 game release calendar
 
-The printable on this page puts all six dates, with weekdays and platforms, and the three year-only games on one sheet. It carries the same sources as the story, so you can check a date before you plan around it. Keep it beside your [printable yearly calendar](/printable-yearly-calendar.html). For other 2027 entertainment dates, see the [Golden Globes and Oscars 2027 dates](/news/golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar/).
+The printable puts all nine dates, with weekdays and platforms, and the three year-only games on one sheet. It carries the same sources as the story, so you can check a date before you plan around it. Keep it beside your [printable yearly calendar](/printable-yearly-calendar.html). For other 2027 entertainment dates, see the [Golden Globes and Oscars 2027 dates](/news/golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar/).

@@ -4,13 +4,14 @@ description: "Tesco Christmas delivery slots 2026 opened to all customers at 6am
 type: news
 dateline: "London"
 publishedAt: "2026-11-01T08:50:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Tesco Christmas delivery slots 2026", "when do Tesco Christmas slots open", "Christmas delivery slots 2026 supermarkets", "Sainsbury's Asda Christmas delivery slots 2026"]
 hero:
   src: ../../../../assets/news/tesco-christmas-delivery-slots-2026-booking-dates-uk-supermarkets/tesco-christmas-delivery-slots-2026-booking-dates-uk-supermarkets.webp
   alt: "A Tesco delivery van, for Tesco Christmas delivery slots 2026 booking dates"
-  caption: "File photo of a Tesco delivery van. Christmas slots open to everyone at 6am on Thursday 5 November 2026, per Grocery Gazette and MoneySavingExpert."
+  caption: "File photo of a Tesco delivery van. Christmas slots opened to everyone at 6am on Thursday 5 November 2026, per Grocery Gazette and MoneySavingExpert."
   credit: "Photo: 28704869 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
@@ -19,15 +20,15 @@ hero:
     author: "28704869"
     authorUrl: "https://www.flickr.com/people/78170556@N08"
 summary:
-  - "Tesco customers must sign up to a Delivery Saver plan by 11:59pm on Monday 2 November 2026 to book Christmas slots early from 6am on Tuesday 3 November, Grocery Gazette reported on 1 November."
-  - "Everyone else can book Tesco Christmas slots from 6am on Thursday 5 November, according to Grocery Gazette and MoneySavingExpert (MSE)."
+  - "Tesco customers had to sign up to a Delivery Saver plan by 11:59pm on Monday 2 November 2026 to book Christmas slots early from 6am on Tuesday 3 November, Grocery Gazette reported on 1 November."
+  - "Everyone else could book Tesco Christmas slots from 6am on Thursday 5 November, according to Grocery Gazette and MoneySavingExpert (MSE)."
   - "Sainsbury's Delivery Pass holders have had Christmas slots since Friday 16 October, and its help page confirms it. Asda and Sainsbury's opened to everyone on 20 and 23 October."
   - "Tesco's own Christmas page could not be checked by us, so every Tesco date here comes from two reports that quote Tesco."
 faq:
-  - q: "When do Tesco Christmas delivery slots open in 2026?"
-    a: "Grocery Gazette and MoneySavingExpert report 6am on Tuesday 3 November for Delivery Saver customers and 6am on Thursday 5 November for everyone else."
-  - q: "What is the deadline to get early access to Tesco Christmas slots?"
-    a: "Grocery Gazette reported that customers need a Delivery Saver plan by 11:59pm on Monday 2 November. MSE lists early access for the Anytime Delivery Saver and the Click+Collect plan only, and does not list the Off-Peak plan."
+  - q: "When did Tesco Christmas delivery slots open in 2026?"
+    a: "Grocery Gazette and MoneySavingExpert reported 6am on Tuesday 3 November for Delivery Saver customers and 6am on Thursday 5 November for everyone else. Tesco delivery runs Sunday 20 to Thursday 24 December, according to MSE."
+  - q: "What was the deadline for early access to Tesco Christmas slots?"
+    a: "Grocery Gazette reported that customers needed a Delivery Saver plan by 11:59pm on Monday 2 November. MSE listed early access for the Anytime Delivery Saver and the Click+Collect plan only, and did not list the Off-Peak plan."
   - q: "Which Tesco Christmas delivery dates can you book?"
     a: "MSE gives Sunday 20 December to Thursday 24 December. Tesco's own page could not be checked by us."
   - q: "Can you still get a Sainsbury's or Asda Christmas slot?"
@@ -65,31 +66,21 @@ downloads:
     pdf: "/news/downloads/christmas-food-shop-2026-uk/christmas-food-shop-booking-planner-2026-uk.pdf"
     png: "/news/downloads/christmas-food-shop-2026-uk/christmas-food-shop-booking-planner-2026-uk.png"
     pages: 1
-  - group: "Christmas Food Shop Booking Planner 2026 UK printables"
-    title: "Christmas Food Shop Booking Planner 2026 UK (ink saver)"
-    description: "One-page Christmas 2026 UK food shop booking planner with Tesco, Sainsbury's, Asda, Waitrose, Ocado and M&S dates. Ink-saver version."
-    preview: ../../../../assets/news/christmas-food-shop-2026-uk/christmas-food-shop-booking-planner-2026-uk-ink.png
-    alt: "Printable Christmas food shop booking planner 2026 for UK supermarkets with booking and delivery dates, ink-saver version"
-    pdf: "/news/downloads/christmas-food-shop-2026-uk/christmas-food-shop-booking-planner-2026-uk-ink.pdf"
-    png: "/news/downloads/christmas-food-shop-2026-uk/christmas-food-shop-booking-planner-2026-uk-ink.png"
-    pages: 1
 draft: false
 assets:
   scene: shopping
   overlay: true
-  kicker: "Tesco Christmas slots · Tue. 3 Nov"
+  kicker: "Tesco Christmas slots · Open since 5 Nov"
   date: "2026-11-03"
-  card: { top: "Sign up to Delivery Saver by", big: "Mon. 2 Nov", bottom: "Everyone else books Thu. 5 Nov" }
+  card: { top: "Tesco Christmas delivery", big: "Sun. 20 to Thu. 24 Dec", bottom: "Slots open to all since 5 Nov" }
   printable:
     slug: christmas-food-shop-booking-planner-2026-uk
     group: christmas-food-shop-2026-uk
     title: "Christmas Food Shop Booking Planner 2026 UK"
     subtitle: "Supermarket booking dates and delivery windows"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Mon. 2 Nov", "Tesco: join a Delivery Saver plan by 11:59pm GMT for early booking"]
-      - ["Tue. 3 Nov", "Tesco: 6am, Delivery Saver customers book Christmas slots"]
-      - ["Thu. 5 Nov", "Tesco: 6am, everyone else books Christmas slots"]
       - ["Thu. 26 Nov", "Iceland: Wed. 23 Dec delivery bookable, per MoneySavingExpert"]
       - ["Mon. 14 Dec", "Tesco: Festive Food to Order edits close at 11.45pm"]
       - ["Tue. 15 Dec", "Asda Food to Order final; Waitrose Food Made to Order by 11.59pm"]
@@ -99,24 +90,23 @@ assets:
       - ["Tue. 22 Dec", "M&S Food to Order collection starts (England, Scotland, Wales)"]
       - ["Thu. 24 Dec", "Last day of the Tesco, Sainsbury's, Waitrose and Ocado windows"]
     note: "Source: Grocery Gazette (1 Nov and 14 Oct 2026), MoneySavingExpert (edited 23 Oct 2026), Sainsbury's Help."
-    inkSaver: true
     description: "One-page Christmas 2026 UK food shop booking planner with Tesco, Sainsbury's, Asda, Waitrose, Ocado and M&S dates."
     alt: "Printable Christmas food shop booking planner 2026 for UK supermarkets with booking and delivery dates"
 ---
 
-**Tesco customers must sign up to a Delivery Saver plan by 11:59pm UK time on Monday 2 November 2026 to book Christmas delivery slots early from 6am on Tuesday 3 November, and everyone else can book from 6am on Thursday 5 November, Grocery Gazette reported on 1 November.** UK time is Greenwich Mean Time (GMT) at this time of year. A side-by-side table of every supermarket is below, with a free [booking planner](#downloads) to print.
+**Tesco customers had to sign up to a Delivery Saver plan by 11:59pm UK time on Monday 2 November 2026 to book Christmas delivery slots early from 6am on Tuesday 3 November, and everyone else could book from 6am on Thursday 5 November, Grocery Gazette reported on 1 November.** UK time is Greenwich Mean Time (GMT) at this time of year. A side-by-side table of every supermarket is below, with a free [booking planner](#downloads) to print for the dates still ahead.
 
 We could not check Tesco's own Christmas page, because tesco.com and tescoplc.com block automated access. Every Tesco date here comes from two newsrooms that agree: Grocery Gazette (1 and 14 October 2026) and MoneySavingExpert (MSE), edited 23 October 2026, which quote Tesco. Sainsbury's has an official help page, and that one we checked.
 
-## When do Tesco Christmas delivery slots open in 2026?
+## When did Tesco Christmas delivery slots open in 2026?
 
-Grocery Gazette reported that "general Christmas delivery slots will open on Thursday 5 November". Delivery Saver customers get in first. MSE gives the same two times, 6am on Tuesday 3 November and 6am on Thursday 5 November.
+Grocery Gazette reported that "general Christmas delivery slots will open on Thursday 5 November". Delivery Saver customers got in first. MSE gives the same two times, 6am on Tuesday 3 November and 6am on Thursday 5 November.
 
-Tesco was quoted by Grocery Gazette as saying it has "60,000 more delivery slots available than last year". The same report says delivery windows run from 6am to 11pm, and same-day delivery is offered when an order is booked before 3pm. For the calendar days around the booking, see our [November 2026 printable calendar](/november-calendars.html).
+Tesco was quoted by Grocery Gazette as saying it had "60,000 more delivery slots available than last year". The same report says delivery windows run from 6am to 11pm, and same-day delivery is offered when an order is booked before 3pm. For the calendar days around the booking, see our [November 2026 printable calendar](/november-calendars.html).
 
-## Which Tesco plan gets early access before 2 November?
+## Which Tesco plan got early access before 2 November?
 
-Grocery Gazette says to sign up to "a Delivery Saver plan" by 11:59pm on Monday 2 November, and that an Anytime Delivery Saver plan offers priority access to Christmas slots. MSE is more specific: it lists early access for the Anytime Delivery Saver and for the Click+Collect plan, and it does not list the Off-Peak Delivery Saver. If you want the early slot, confirm with Tesco which plan you are buying before you pay.
+Grocery Gazette said to sign up to "a Delivery Saver plan" by 11:59pm on Monday 2 November, and that an Anytime Delivery Saver plan offered priority access to Christmas slots. MSE was more specific: it listed early access for the Anytime Delivery Saver and for the Click+Collect plan, and it did not list the Off-Peak Delivery Saver.
 
 | Tesco plan (MSE) | Price | Early Christmas access in MSE's list |
 |---|---|---|
@@ -136,7 +126,7 @@ The table combines MSE and Grocery Gazette. The Sainsbury's pass date is also on
 
 | Supermarket | Early or pass booking | Everyone | Delivery window | Edit or order cut-off |
 |---|---|---|---|---|
-| Tesco | Tue. 3 Nov, 6am (plan holders) | Thu. 5 Nov, 6am | Sun. 20 Dec to Thu. 24 Dec | Festive Food to Order: Mon. 14 Dec, 11.45pm; the rest the day before delivery, 11.45pm |
+| Tesco | Tue. 3 Nov, 6am (plan holders; opened) | Thu. 5 Nov, 6am (opened) | Sun. 20 Dec to Thu. 24 Dec | Festive Food to Order: Mon. 14 Dec, 11.45pm; the rest the day before delivery, 11.45pm |
 | Sainsbury's | Fri. 16 Oct (Delivery Pass) | Fri. 23 Oct | Fri. 18 Dec to Thu. 24 Dec | 11pm the day before |
 | Asda | Tue. 13 Oct (pass holders) | Tue. 20 Oct | Mon. 21 Dec to Wed. 23 Dec | Food to Order: finalise by Tue. 15 Dec |
 | Morrisons | Not applicable | Open to all | Fri. 18 Dec to Thu. 31 Dec | Not given |
@@ -148,8 +138,8 @@ The table combines MSE and Grocery Gazette. The Sainsbury's pass date is also on
 
 MSE reports that Aldi and Lidl have no online grocery delivery of their own. If you already hold a slot, delivery timing for parcels is a separate matter: see the [Royal Mail last posting dates for Christmas 2026](/news/royal-mail-last-posting-dates-christmas-2026-second-class-18-december/).
 
-## Which dates should you mark for a Christmas food shop?
+## Which dates are still ahead for a Christmas food shop?
 
-Our planner lists the booking dates and delivery windows above, built from the same reports. Use it with the [December 2026 printable calendar](/december-calendars.html) and the [Christmas Day date page](/when-is/christmas-day/). Shops also close around the holiday, and our story on [UK Christmas bank holidays and the Boxing Day substitute on 28 December](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/) has those dates. Another November date for shoppers is covered in [Black Friday 2026 in the UK](/news/black-friday-2026-uk-date-27-november-amazon-uk-sale-dates/).
+Our planner lists the dates still ahead, such as edit deadlines and delivery windows, built from the same reports. Use it with the [December 2026 printable calendar](/december-calendars.html) and the [Christmas Day date page](/when-is/christmas-day/). Shops also close around the holiday, and our story on [UK Christmas bank holidays and the Boxing Day substitute on 28 December](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/) has those dates. Another November date for shoppers is covered in [Black Friday 2026 in the UK](/news/black-friday-2026-uk-date-27-november-amazon-uk-sale-dates/).
 
 Not covered here: Christmas opening hours for 2026, which we have not found announced, and prices of Christmas food.

@@ -3,6 +3,7 @@ title: "January Transfer Window 2027: Closes Feb. 1 at 11 p.m. GMT (6 p.m. ET)"
 description: "The Premier League January 2027 window runs Jan. 1 to Feb. 1, closing 11 p.m. GMT. Deadline in ET, CT and PT, four leagues' dates and a printable."
 type: explainer
 publishedAt: "2026-11-09T17:16:00-05:00"
+updatedAt: "2026-11-14T17:02:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["january transfer window 2027", "transfer deadline day 2027", "when does the transfer window close", "premier league transfer window january 2027"]
@@ -32,7 +33,7 @@ assets:
         - { label: "LaLiga and Serie A windows", why: "both open Jan. 2; LaLiga ends Feb. 2; see the story for the sources" }
         - { label: "Ligue 1 closing time zone", why: "ligue1.com gives 19:59 on Feb. 1 without a time zone" }
         - { label: "Serie A closing date and time", why: "not given in the Italian Football Federation notice excerpt we read" }
-        - { label: "EFL, Bundesliga, Scottish Premiership and MLS windows", why: "not announced on an official page as of Nov. 9, 2026" }
+        - { label: "Bundesliga, Scottish Premiership and MLS windows", why: "not announced on an official page as of Nov. 14, 2026" }
 hero:
   src: ../../../../assets/news/january-transfer-window-2027-dates-premier-league-deadline-day/january-transfer-window-2027-dates-premier-league-deadline-day.webp
   alt: "Floodlit English football ground at night before kickoff, with the text January transfer window 2027"
@@ -48,7 +49,7 @@ summary:
   - "The Premier League's January 2027 transfer window opens Friday, Jan. 1, and closes Monday, Feb. 1, at 23:00 GMT, which is 6 p.m. ET and 3 p.m. PT."
   - "Last year the window closed at 19:00 GMT on Mon., Feb. 2, 2026, so the 2027 deadline falls four hours later in the evening."
   - "Ligue 1 opens Jan. 1 and closes Feb. 1 at 19:59; LaLiga runs Jan. 2 to Feb. 2; Serie A's winter session starts Jan. 2."
-  - "The English Football League, Bundesliga, Scottish Premiership and Major League Soccer have not posted 2027 windows on an official page."
+  - "The English Football League (EFL) window is also Jan. 1 to Feb. 1, at 23:00, per two reports; the Bundesliga, Scottish Premiership and Major League Soccer have not posted 2027 windows on an official page."
 faq:
   - q: "Is the Premier League window open on New Year's Day?"
     a: "Yes. The Premier League says the window opens on Friday 1 January 2027. It gave no opening time in the notice we read."
@@ -57,7 +58,7 @@ faq:
   - q: "What time is transfer deadline day in the UK?"
     a: "11 p.m. on Monday, Feb. 1, 2027. The UK is on Greenwich Mean Time in winter, so the local clock reads the same as GMT."
   - q: "Do the English Football League clubs close on the same day?"
-    a: "Sky Sports reported on June 15, 2026, that the window re-opens in England on Jan. 1, 2027 and closes on Feb. 1. The English Football League has not posted its own dates, so treat that as a report."
+    a: "Yes, per reports. Derby County's club site and the Pink'un, a Norwich newspaper, both say the EFL confirmed a winter window from Friday, Jan. 1, 2027 to 23:00 on Monday, Feb. 1. We could not read the EFL's own page."
 sources:
   - title: "When does summer 2026 Premier League transfer window open and close?"
     url: "https://www.premierleague.com/en/news/4664145/when-does-summer-2026-premier-league-transfer-window-open-and-close"
@@ -78,10 +79,14 @@ sources:
     url: "https://www.premierleague.com/en/news/4508636/january-2026-transfer-window-all-you-need-to-know"
     publisher: "Premier League"
     date: "2026-01-01"
-  - title: "Summer transfer window 2026 dates: when is deadline day for Premier League and EFL clubs to sign players"
-    url: "https://www.skysports.com/football/news/13546220/summer-transfer-window-2026-dates-when-is-deadline-day-for-premier-league-and-efl-clubs-to-sign-players"
-    publisher: "Sky Sports"
-    date: "2026-06-15"
+  - title: "EFL NEWS: Transfer Window Dates Confirmed for 2026/27 Season"
+    url: "https://www.dcfc.co.uk/news/2026/05/efl-news-transfer-window-dates-confirmed-for-202627-season"
+    publisher: "Derby County"
+    date: "2026-05-26"
+  - title: "Norwich City: EFL set transfer window dates for 26/27"
+    url: "https://www.pinkun.com/sport/norwich-city/26139638.norwich-city-efl-set-transfer-window-dates-26-27/"
+    publisher: "Pink'un"
+    date: "2026-05-22"
 downloads:
   - group: "January Transfer Window 2027 Dates printables"
     title: "January Transfer Window 2027 Dates: Open and Close"
@@ -102,7 +107,7 @@ draft: false
 
 **The Premier League's January 2027 transfer window opens on Friday, Jan. 1, and closes on Monday, Feb. 1, at 23:00 GMT, which is 6 p.m. ET and 3 p.m. PT, according to the Premier League.** Its May 22, 2026, notice says "The window will open on Friday 1 January and close on 1 February, again at 23:00 GMT." Ligue 1 and LaLiga have confirmed their own dates, and the table below sets all of them side by side.
 
-The Premier League did not give an opening time. As of Nov. 9, 2026, the English Football League (EFL), the Bundesliga, the Scottish Premiership and Major League Soccer (MLS) had not posted 2027 windows on an official page.
+The Premier League did not give an opening time. As of Nov. 9, 2026, the Bundesliga, the Scottish Premiership and Major League Soccer (MLS) had not posted 2027 windows on an official page as of Nov. 14, 2026. The English Football League (EFL) site was not readable, but Derby County's club site and the Pink'un newspaper in Norwich both report the EFL's confirmed dates, below.
 
 ## January 2027 transfer window dates by league
 
@@ -114,14 +119,14 @@ Clubs in the Premier League, Ligue 1, LaLiga and Serie A each follow their own l
 | Ligue 1 | Fri., Jan. 1 | Mon., Feb. 1 | 19:59, no time zone given | Not converted |
 | LaLiga | Sat., Jan. 2 | Tue., Feb. 2 (inclusive) | Not given | Not given |
 | Serie A | Sat., Jan. 2 | Not given in the notice excerpt we read | Not given | Not given |
-| EFL | Not announced by the EFL | Not announced by the EFL | Not announced | Not announced |
+| EFL (reported) | Fri., Jan. 1 | Mon., Feb. 1 | 23:00, no time zone printed | Not converted |
 | Bundesliga | Not announced | Not announced | Not announced | Not announced |
 | Scottish Premiership | Not announced | Not announced | Not announced | Not announced |
 | MLS | Not announced | Not announced | Not announced | Not announced |
 
 Ligue 1's page, from the Ligue de Football Professionnel (LFP), says the winter window is "set to begin on Friday, 1 January 2027" with "the market closing on Monday, 1 February 2027 at 19:59." It gives no time zone, so the time is not converted here. LaLiga's page says the winter window "empieza el 2 de enero y termina el 2 de Febrero de 2027, ambos inclusive", which means Jan. 2 to Feb. 2, both days included. The Italian Football Federation (FIGC) notice of May 27, 2026, defines Serie A's winter session as starting on Jan. 2, 2027; the excerpt we read does not give a single closing date or time for it.
 
-Sky Sports reported on June 15, 2026, that the window "will re-open for winter in England on January 1, 2027 and close on February 1." The EFL has not posted these dates on its own site, so they stay out of the table as official.
+Derby County's club site says the EFL "confirmed the dates for the summer and winter transfer windows" and that the winter window "will open on Friday 1st January 2027, and close at 23:00 on Monday 1st February 2027." The Pink'un gives the same dates. We could not read the EFL's own page, so the EFL row stays marked as reported.
 
 ## What time is the Premier League deadline in U.S. time zones?
 
@@ -149,7 +154,7 @@ In 2026 the Premier League said the window "will close at 19:00 GMT on Monday 2 
 | January 2026 (last year) | Mon., Feb. 2, 2026 | 19:00 | 2 p.m. |
 | January 2027 | Mon., Feb. 1, 2027 | 23:00 | 6 p.m. |
 
-From Nov. 9, 2026, the window opens in 53 days and closes in 84 days. The opening day, Jan. 1, falls on the [January 2027 printable calendar](/january-calendars.html)'s first square.
+The opening day, Jan. 1, falls on the [January 2027 printable calendar](/january-calendars.html)'s first square.
 
 ## Football dates to watch before the window opens
 

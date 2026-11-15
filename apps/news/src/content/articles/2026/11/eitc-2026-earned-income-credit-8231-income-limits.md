@@ -3,7 +3,7 @@ title: "EITC 2026: Max Credit $8,231 and Income Limits, Filed in 2027"
 description: "The Earned Income Tax Credit (EITC) for tax year 2026 tops out at $8,231, up from $8,046. Income limit tables plus the 2027 top credit of $8,496."
 type: news
 publishedAt: "2026-11-04T08:41:00-05:00"
-updatedAt: "2026-11-06T17:19:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["eitc 2026", "earned income credit 2027 refund", "eitc income limits 2026", "eitc maximum 2026"]
@@ -61,7 +61,7 @@ sources:
   - title: "Earned Income Tax Credit (EITC)"
     url: "https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit"
     publisher: "Internal Revenue Service"
-    date: "2026-11-03"
+    date: "2026-11-13"
   - title: "IRS opens 2026 filing season (IR-2026-12)"
     url: "https://www.irs.gov/newsroom/irs-opens-2026-filing-season"
     publisher: "Internal Revenue Service"
@@ -167,7 +167,7 @@ The IRS page "Who Qualifies for the Earned Income Tax Credit (EITC)" sets two ru
 
 ## When will EITC refunds be issued in 2027?
 
-The IRS EITC page, reviewed Nov. 3, 2026, says: "By law, we must wait until mid-February to issue refunds to taxpayers who claim the Earned Income Tax Credit." The IRS has not announced when the 2027 filing season opens, and it has not given a 2027 refund date. Our [filing season opening story](/news/when-does-tax-season-start-2027-irs-filing-opening-date/) tracks that date.
+The IRS EITC page, reviewed Nov. 13, 2026, says: "By law, we must wait until mid-February to issue refunds to taxpayers who claim the Earned Income Tax Credit." The IRS has not announced when the 2027 filing season opens, and it has not given a 2027 refund date. Our [filing season opening story](/news/when-does-tax-season-start-2027-irs-filing-opening-date/) tracks that date.
 
 For comparison, last season's timing was: in release IR-2026-12 on Jan. 26, 2026, the IRS said it expected most EITC and Additional Child Tax Credit (ACTC) refunds "by March 2, 2026, for taxpayers who chose direct deposit and have no other issues with their returns," and that Where's My Refund? would project deposit dates by Feb. 21, 2026. These are 2026 dates, not 2027 ones. Our [2027 tax refund schedule](/news/tax-refund-schedule-2027-when-to-expect-your-refund/) has the other dates.
 

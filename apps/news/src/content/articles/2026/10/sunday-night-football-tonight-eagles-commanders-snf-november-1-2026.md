@@ -3,7 +3,7 @@ title: "Eagles Game Nov. 1: Commanders 27, Eagles 10 on Sunday Night"
 description: "The Commanders beat the Eagles 27-10 on Sunday Night Football, Nov. 1, 2026. Kickoff was 8:20 p.m. ET on NBC; times for every U.S. zone."
 type: news
 publishedAt: "2026-10-30T05:20:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["sunday night football tonight", "eagles vs commanders time", "what channel is sunday night football on", "eagles commanders live stream", "SNF week 8 2026"]
@@ -27,6 +27,7 @@ assets:
       - ["8:20 p.m.", "Eagles at Commanders, Northwest Stadium, on NBC and Peacock"]
       - ["Mon., 8:15 p.m.", "Monday Night Football: Bears at Seahawks on ESPN"]
     note: "Source: NFL.com Week 8 schedule; NBC Sports Philadelphia, Oct. 28, 2026. Times can change; check NFL.com on game day."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true
     description: "A one-page timeline for NFL Sunday, Nov. 1, 2026: the clock change, the CBS and FOX windows, and Eagles at Commanders on Sunday Night Football."
     alt: "Printable NFL Sunday viewing timeline for Nov. 1, 2026, from the 2 a.m. clock change to Eagles at Commanders at 8:20 p.m. ET"
@@ -44,7 +45,7 @@ summary:
   - "The Washington Commanders beat the Philadelphia Eagles 27-10 on Sunday Night Football (SNF) on Sunday, Nov. 1, 2026, per NFL.com; kickoff was at 8:20 p.m. Eastern Time (ET)."
   - "NBC and Peacock carried the game, with the pregame from 7 p.m. ET; NBC.com also streamed it, NBC Sports Philadelphia said."
   - "The game was at Northwest Stadium in Landover, Md., on the first night of standard time: 8:20 p.m. EST is 7:20 p.m. CST and 5:20 p.m. PST."
-  - "Next on Sunday nights: Buccaneers at Bears on Nov. 8 and Steelers at Bengals on Nov. 15, both at 8:20 p.m. ET on NBC."
+  - "The next Sunday night game is Steelers at Bengals on Nov. 15 at 8:20 p.m. ET on NBC; Buccaneers at Bears was on Nov. 8."
 downloads:
   - group: "NFL Sunday printables"
     title: "NFL Sunday, Nov. 1, 2026: Viewing Timeline"

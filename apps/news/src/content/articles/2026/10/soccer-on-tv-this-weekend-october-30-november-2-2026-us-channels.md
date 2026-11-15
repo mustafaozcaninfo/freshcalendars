@@ -3,7 +3,7 @@ title: "Soccer on TV, Oct. 30-Nov. 2, 2026: Bayern vs. Dortmund, Channels"
 description: "European soccer on U.S. TV, Oct. 30-Nov. 2, 2026: Bayern vs. Dortmund, Milan vs. Inter and 46 more games, with ET kickoffs and channels."
 type: news
 publishedAt: "2026-10-30T05:30:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["soccer on TV this weekend", "european soccer schedule this weekend", "bayern vs dortmund time", "milan vs inter time", "how to watch la liga serie a bundesliga in the us"]
@@ -120,6 +120,10 @@ sources:
   - title: "beIN Media Group renewed its exclusive rights deal for Ligue 1 and Ligue 2 in the US and Canada"
     url: "https://www.produ.com/english/noticias/bein-media-group-renewed-its-exclusive-rights-deal-for-the-mcdonalds-ligue-1-and-ligue-2-bkt-championship-in-the-us-canada"
     publisher: "Produ"
+  - title: "UEFA Champions League Schedule 2026-2027"
+    url: "https://www.paramountplus.com/sneak-peak/uefa-champions-league-schedule/"
+    publisher: "Paramount+"
+    date: "2026-11-14"
 internalLinks:
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
@@ -223,7 +227,7 @@ Spain, Italy, Germany and France left summer time on Oct. 25 and are on Central 
 
 ## What comes next: the Champions League
 
-Champions League matchday 4 is on Tuesday, Nov. 3, and Wednesday, Nov. 4, at 12:45 and 3 p.m. ET; our [Champions League November schedule](/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/) has the slots. Saturday's American sports are in [sports on TV today, Oct. 31](/news/sports-on-tv-today-october-31-2026/).
+Champions League matchday 4 was played on Tuesday, Nov. 3, and Wednesday, Nov. 4. Matchday 5 is on Tuesday, Nov. 24, and Wednesday, Nov. 25, per Paramount+; our [Champions League November schedule](/news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/) has the slots. Saturday's American sports are in [sports on TV today, Oct. 31](/news/sports-on-tv-today-october-31-2026/).
 
 ## Printable soccer TV guide
 

@@ -3,6 +3,7 @@ title: "SNAP Payment Schedule January 2027: Jan. 1 and Jan. 18 Flagged"
 description: "Supplemental Nutrition Assistance Program (SNAP) January 2027 deposits begin Friday, Jan. 1 in 5 places. Days by state; Martin Luther King Jr. Day flagged."
 type: news
 publishedAt: "2026-11-02T06:00:00-05:00"
+updatedAt: "2026-11-14T17:02:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["SNAP payment schedule January 2027", "when will SNAP be deposited January 2027", "food stamps January 2027 dates by state", "SNAP New Year's Day 2027"]
@@ -33,7 +34,7 @@ faq:
   - q: "Does SNAP come on a weekend in January 2027?"
     a: "Several ranges include Saturdays and Sundays, such as Jan. 2 and 3. The FNS document gives no weekend shift rule for most states, so check your state's notice or EBT portal."
   - q: "What is the most SNAP a household can get in January 2027?"
-    a: "Colorado Politics and News4Jax report that, since Oct. 1, 2026, the maximum is $306 a month for one person and $1,023 for four in the 48 states and DC. The amounts do not change in January."
+    a: "The USDA Food and Nutrition Service lists $306 a month for one person and $1,023 for four in the 48 states and DC for fiscal year 2027, which began Oct. 1, 2026. The amounts do not change in January."
 sources:
   - title: "Monthly Issuance Schedule"
     url: "https://www.fna.usda.gov/snap/monthly-issuance-schedule"
@@ -42,6 +43,11 @@ sources:
   - title: "Supplemental Nutrition Assistance Program (SNAP) Monthly Issuance Schedule for All States and Territories (PDF)"
     url: "https://www.fna.usda.gov/sites/default/files/resource-files/Monthly-Issuance-Schedule-All-States.pdf"
     publisher: "USDA Food and Nutrition Service"
+    date: "2026-11-14"
+  - title: "SNAP Cost-of-Living Adjustment (COLA): fiscal year 2027 standards, allotments and deductions"
+    url: "https://www.fns.usda.gov/snap/allotment/cola"
+    publisher: "USDA Food and Nutrition Service"
+    date: "2026-11-14"
   - title: "The dates when DSS issues SNAP and Cash benefits are changing"
     url: "https://portal.ct.gov/dss/knowledge-base/articles/snap/the-dates-when-dss-issues-snap-and-cash-benefits-are-changing"
     publisher: "Connecticut Department of Social Services"
@@ -83,6 +89,7 @@ assets:
       - ["Mon., Jan. 18", "Martin Luther King Jr. Day, a federal holiday. Many ranges include it: check your state agency"]
       - ["Thu., Jan. 28", "Last day of the Florida and Texas ranges"]
     note: "Source: USDA Food and Nutrition Service, SNAP Monthly Issuance Schedule for All States and Territories (updated July 26, 2024); Connecticut Department of Social Services (Jan. 16, 2026). Your state agency's notice is final."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true
     description: "SNAP deposit dates to mark in January 2027, including the states that issue on one day, the New Year's Day flag and Connecticut's new 8-day schedule."
     alt: "Printable January 2027 calendar of SNAP deposit dates to mark, including New Year's Day"
@@ -108,7 +115,7 @@ downloads:
 
 **Supplemental Nutrition Assistance Program (SNAP) benefits for January 2027 load on each state's standing monthly schedule, as published by the U.S. Department of Agriculture (USDA) Food and Nutrition Service (FNS): Alaska, North Dakota, Rhode Island, Vermont and the U.S. Virgin Islands issue to every household on Friday, Jan. 1, New Year's Day.** Nine more places have ranges that include both Jan. 1 and Martin Luther King Jr. Day, Monday, Jan. 18, so their rows are flagged below.
 
-The FNS schedule is the standing monthly schedule, and the state's own notice is final. The USDA pages could not be opened by automated tools on Nov. 2, so the days below come from the same schedule used in our [December 2026 SNAP story](/news/snap-payment-schedule-december-2026-deposit-dates-by-state/) and our [November 2026 SNAP story](/news/snap-payment-schedule-november-2026-deposit-dates-by-state/), whose FNS page shows a last-updated date of July 26, 2024. We found no FNS announcement that affects January 2027 issuance. Your state agency's notice or Electronic Benefit Transfer (EBT) portal is the place to confirm your day.
+The FNS schedule is the standing monthly schedule, and the state's own notice is final. The days below match the FNS schedule PDF, which we re-read on Nov. 14, 2026; its page shows a last-updated date of July 26, 2024, and the same schedule is behind our [December 2026 SNAP story](/news/snap-payment-schedule-december-2026-deposit-dates-by-state/) and [November 2026 SNAP story](/news/snap-payment-schedule-november-2026-deposit-dates-by-state/). We found no FNS announcement that affects January 2027 issuance. Your state agency's notice or Electronic Benefit Transfer (EBT) portal is the place to confirm your day.
 
 ## What are the SNAP deposit days in each state in January 2027?
 
@@ -184,14 +191,14 @@ The FNS document names no New Year's shift for most states. It does say Pennsylv
 
 ## How much SNAP can a household get in January 2027?
 
-The maximum monthly benefit rose on Oct. 1, 2026, for fiscal year 2027, which runs to Sept. 30, 2027, so it does not change in January. The USDA page for the table was not reachable, so these figures rest on two newsrooms that agree. Colorado Politics (Sept. 28, 2026) and News4Jax (Oct. 2, 2026) both report the amounts for the 48 states and the District of Columbia (DC).
+The maximum monthly benefit rose on Oct. 1, 2026, for fiscal year 2027, which runs to Sept. 30, 2027, so it does not change in January. The FNS fiscal year 2027 allotment page lists these amounts for the 48 states and the District of Columbia (DC). Colorado Politics (Sept. 28, 2026) and News4Jax (Oct. 2, 2026) reported the same figures, and the two reports give the earlier amounts.
 
 | Household size | Maximum monthly benefit from Oct. 1, 2026 | Before the increase |
 |---|---|---|
 | 1 person | $306 | $298 |
 | 4 people | $1,023 | $994 |
 
-These are maximum monthly benefits for the 48 states and DC. We left out the other household sizes and Alaska and Hawaii because the two reports did not give us figures we could confirm for them.
+These are maximum monthly benefits for the 48 states and DC. The FNS page also lists other household sizes and separate amounts for Alaska, Hawaii, Guam and the Virgin Islands; we show two sizes here.
 
 ## Which weekend and holiday dates fall in January 2027?
 

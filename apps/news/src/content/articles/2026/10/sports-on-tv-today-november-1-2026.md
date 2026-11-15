@@ -1,8 +1,9 @@
 ---
-title: "Sports on TV Today, Sunday, Nov. 1, 2026: NFL, F1, NYC Marathon"
-description: "Sports on TV today, Sunday, Nov. 1, 2026, in ET: 13 NFL games, NYC Marathon and F1 Mexico City, 28 events in all with channels and a printable sheet."
+title: "Sports on TV Sunday, Nov. 1, 2026: NFL, F1, NYC Marathon"
+description: "Sports on TV Sunday, Nov. 1, 2026, in ET: 13 NFL games, the NYC Marathon and F1 Mexico City, 28 events in all with channels and a printable sheet."
 type: news
 publishedAt: "2026-10-30T05:35:00-04:00"
+updatedAt: "2026-11-14T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["sports on TV today", "sports on TV Sunday", "sports schedule November 1 2026", "what games are on today", "printable sports TV schedule"]
@@ -45,7 +46,7 @@ assets:
 hero:
   src: ../../../../assets/news/sports-on-tv-today-november-1-2026/sports-on-tv-today-november-1-2026.webp
   alt: "Empower Field at Mile High in Denver, home of the Broncos, for sports on TV today, Sunday, Nov. 1, 2026"
-  caption: "File photo from 2025: Empower Field at Mile High in Denver, where the Chiefs play the Broncos at 4:25 p.m. ET on Sunday, Nov. 1, 2026, on CBS."
+  caption: "File photo from 2025: Empower Field at Mile High in Denver, where the Chiefs played the Broncos at 4:25 p.m. ET on Sunday, Nov. 1, 2026, on CBS."
   credit: "Photo: MhcL947 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -54,10 +55,10 @@ hero:
     author: "MhcL947"
     authorUrl: "https://commons.wikimedia.org/wiki/User:MhcL947"
 summary:
-  - "Sunday, Nov. 1, 2026 has 28 events on our list: 13 National Football League (NFL) games, 4 National Basketball Association (NBA) games, 5 National Hockey League (NHL) games, the NYC Marathon, the Formula 1 (F1) Mexico City Grand Prix, the first college basketball game of the season and three top European soccer games."
-  - "U.S. clocks fall back at 2 a.m., so every time is Eastern Standard Time (EST): 1 p.m. ET is noon Central Time (CT) and 10 a.m. Pacific Time (PT)."
-  - "The F1 race starts at 3 p.m. ET on Apple TV, and Sunday Night Football, Eagles at Commanders, at 8:20 p.m. ET on NBC and Peacock."
-  - "The NYC Marathon is on ESPN2 from 8 to 11:30 a.m. ET, with a finish-line show on ABC from 3 to 5 p.m. ET."
+  - "Sunday, Nov. 1, 2026 had 28 events on our list: 13 National Football League (NFL) games, 4 National Basketball Association (NBA) games, 5 National Hockey League (NHL) games, the NYC Marathon, the Formula 1 (F1) Mexico City Grand Prix, the first college basketball game of the season and three top European soccer games."
+  - "U.S. clocks fell back at 2 a.m., so every time was Eastern Standard Time (EST): 1 p.m. ET was noon Central Time (CT) and 10 a.m. Pacific Time (PT)."
+  - "The F1 race started at 3 p.m. ET on Apple TV, and Sunday Night Football, Eagles at Commanders, at 8:20 p.m. ET on NBC and Peacock."
+  - "The NYC Marathon aired on ESPN2 from 8 to 11:30 a.m. ET, with a finish-line show on ABC from 3 to 5 p.m. ET."
 downloads:
   - group: "Sports on TV Sunday printables"
     title: "Sports on TV Sunday, Nov. 1, 2026"
@@ -76,14 +77,14 @@ downloads:
     png: "/news/downloads/sports-tv-2026/sports-on-tv-sunday-november-1-2026-ink.png"
     pages: 1
 faq:
-  - q: "What sports are on TV today, Sunday, Nov. 1, 2026?"
-    a: "The NYC Marathon in the morning, Notre Dame vs. Villanova in Rome at 9:30 a.m. ET, 13 NFL games, the F1 Mexico City Grand Prix at 3 p.m. ET, four NBA games, five NHL games and Liverpool v Arsenal at 11:30 a.m. ET. The table above has each channel."
-  - q: "What time is the F1 race today?"
-    a: "3 p.m. ET (2 p.m. in Mexico City, noon PT) on Apple TV, which needs a subscription for the race."
-  - q: "What is on Sunday Night Football tonight?"
-    a: "The Philadelphia Eagles at the Washington Commanders at 8:20 p.m. ET on NBC and Peacock. The pregame starts at 7 p.m. ET."
-  - q: "Did the clock change move any game times?"
-    a: "No. Leagues list the same Eastern kickoffs; they are now on standard time. A 1 p.m. ET NFL game is noon CT, 11 a.m. in Denver and Phoenix, and 10 a.m. PT."
+  - q: "What sports were on TV on Sunday, Nov. 1, 2026?"
+    a: "The NYC Marathon in the morning, Notre Dame vs. Villanova in Rome at 9:30 a.m. ET, 13 NFL games, the F1 Mexico City Grand Prix at 3 p.m. ET, four NBA games, five NHL games and Liverpool v Arsenal at 11:30 a.m. ET. The table above lists each channel."
+  - q: "What time was the F1 Mexico City race on Nov. 1?"
+    a: "3 p.m. ET (2 p.m. in Mexico City, noon PT) on Apple TV, which required a subscription for the race."
+  - q: "What was the Sunday Night Football game on Nov. 1?"
+    a: "The Philadelphia Eagles at the Washington Commanders at 8:20 p.m. ET on NBC and Peacock, with the pregame at 7 p.m. ET."
+  - q: "Did the clock change move any game times on Nov. 1?"
+    a: "No. Leagues listed the same Eastern kickoffs; they were now on standard time. A 1 p.m. ET NFL game is noon CT, 11 a.m. in Denver and Phoenix, and 10 a.m. PT."
 sources:
   - title: "NFL Schedule, Week 8, 2026"
     url: "https://www.nfl.com/schedules/2026/by-week/week-8"
@@ -134,11 +135,11 @@ related: [sunday-night-football-tonight-eagles-commanders-snf-november-1-2026, n
 draft: false
 ---
 
-**There are 28 sports events on our list for Sunday, Nov. 1, 2026, from the NYC Marathon's first start at 8 a.m. Eastern Time (ET) to Raptors at Lakers at 9 p.m. ET, according to the National Football League (NFL), New York Road Runners (NYRR), Formula 1 (F1), the National Basketball Association (NBA) and the National Hockey League (NHL).** That is 13 NFL games, the marathon, the Mexico City Grand Prix, the first game of the college basketball season, 4 NBA games, 5 NHL games and three of Europe's biggest soccer games. The table below puts them in time order with the channel.
+**There were 28 sports events on our list for Sunday, Nov. 1, 2026, from the NYC Marathon's first start at 8 a.m. Eastern Time (ET) to Raptors at Lakers at 9 p.m. ET, according to the National Football League (NFL), New York Road Runners (NYRR), Formula 1 (F1), the National Basketball Association (NBA) and the National Hockey League (NHL).** That was 13 NFL games, the marathon, the Mexico City Grand Prix, the first game of the college basketball season, 4 NBA games, 5 NHL games and three of Europe's biggest soccer games. The table below keeps them in time order with the channel as a record.
 
-U.S. clocks fall back at 2 a.m. on Sunday, so every time below is standard time. This page carries no live scores.
+U.S. clocks fell back at 2 a.m. on Sunday, so every time below is standard time. The list carries no scores.
 
-## Sports on TV today: every event in time order
+## Sports on TV Sunday, Nov. 1: every event in time order
 
 Central Time (CT) is one hour behind ET and Pacific Time (PT) three hours behind; we worked out those columns from the ET listings.
 
@@ -167,8 +168,6 @@ Central Time (CT) is one hour behind ET and Pacific Time (PT) three hours behind
 | 8:30 p.m. | 7:30 p.m. | 5:30 p.m. | NBA: Clippers at Warriors | NBA League Pass |
 | 9:00 p.m. | 8:00 p.m. | 6:00 p.m. | NBA: Raptors at Lakers | NBA League Pass |
 
-Times can change, so check your provider's guide before each start.
-
 ## NFL on Sunday: which games are on TV where you live?
 
 NFL.com lists eight games at 1 p.m. ET, four on CBS and four on FOX, then Chargers at Rams at 4:05 p.m. ET on FOX and Chiefs at Broncos and Patriots at Dolphins at 4:25 p.m. ET on CBS. The afternoon games are regional, so your CBS and FOX stations show the ones picked for your market. The Texans, Saints, Giants and 49ers are on bye. Kickoffs in seven time zones are in our [NFL Week 8 schedule](/news/nfl-week-8-schedule-2026-game-times-tv-clock-change/).
@@ -185,7 +184,7 @@ NYRR, the organizer, lists ESPN2 nationally from 8 to 11:30 a.m. ET, Channel 7 i
 
 ## College basketball starts in Rome
 
-Notre Dame plays Villanova in Rome at 9:30 a.m. ET on FOX, the first game of the 2026-27 men's season. Notre Dame Athletics says it is believed to be the first men's college basketball season opener played outside the United States. The rest of the season's dates are in our [college basketball 2026-27 key dates](/news/college-basketball-2026-27-key-dates-season-start-march-madness-printable/).
+Notre Dame played Villanova in Rome at 9:30 a.m. ET on FOX, the first game of the 2026-27 men's season. Notre Dame Athletics says it is believed to be the first men's college basketball season opener played outside the United States. The rest of the season's dates are in our [college basketball 2026-27 key dates](/news/college-basketball-2026-27-key-dates-season-start-march-madness-printable/).
 
 ## NBA and NHL on Sunday
 
@@ -193,7 +192,7 @@ NBA.com lists four games and no national TV, so all four are on NBA League Pass 
 
 ## Soccer on Sunday morning
 
-Racing Santander host Real Madrid at 10:15 a.m. ET on ESPN+, Liverpool host Arsenal at 11:30 a.m. ET on Peacock and Juventus host Napoli at 2:45 p.m. ET on Paramount+. Every kickoff from five leagues, with the U.S. channel, is in [soccer on TV this weekend](/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/).
+Racing Santander hosted Real Madrid at 10:15 a.m. ET on ESPN+, Liverpool hosted Arsenal at 11:30 a.m. ET on Peacock and Juventus hosted Napoli at 2:45 p.m. ET on Paramount+. Every kickoff from five leagues, with the U.S. channel, is in [soccer on TV this weekend](/news/soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels/).
 
 ## Printable sports on TV sheet
 

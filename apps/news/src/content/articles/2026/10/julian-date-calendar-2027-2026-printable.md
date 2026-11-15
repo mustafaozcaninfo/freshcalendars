@@ -3,7 +3,7 @@ title: "Julian Calendar 2027: Printable Day-of-Year Chart, Jan. 1 Is 001"
 description: "A Julian date calendar for 2027 numbers Jan. 1 as 001 and Dec. 31 as 365. Four free printable templates each for 2026 and 2027, plus YYDDD code tables."
 type: explainer
 publishedAt: "2026-10-18T09:20:00-04:00"
-updatedAt: "2026-11-05T07:30:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["Julian date calendar 2027", "Julian date calendar 2026", "day of year calendar printable", "YYDDD date code", "Julian Day Number 2027"]
@@ -20,7 +20,7 @@ summary:
   - "Four free templates for each year, as PDF and PNG, with no sign-up."
 faq:
   - q: "What is today's Julian date?"
-    a: "For Sunday, Oct. 18, 2026, the day-of-year Julian date is 291, written 26291 in YYDDD form. The astronomical Julian Day Number is 2461332 at 12:00 UT."
+    a: "For Saturday, Nov. 14, 2026, the day-of-year Julian date is 318, written 26318 in YYDDD form. The astronomical Julian Day Number is 2461359 at 12:00 UT."
   - q: "What is the Julian date for Jan. 1, 2027?"
     a: "Day of year 001, code 27001 in YYDDD format and 7001 in the military YDDD format. Its astronomical Julian Day Number is 2461407 at 12:00 UT."
   - q: "Is 2027 a leap year?"
@@ -167,7 +167,7 @@ Find the month, then the date. If you have no chart, add the date to the number 
 | November | 304 | 305 |
 | December | 334 | 335 |
 
-Example: Oct. 18 is 273 + 18 = 291. Running the other way, 185 falls in July, because 185 is more than 181 but not more than 212; 185 − 181 = 4, so it is July 4.
+Example: Nov. 14 is 304 + 14 = 318. Running the other way, 185 falls in July, because 185 is more than 181 but not more than 212; 185 − 181 = 4, so it is July 4.
 
 ## Key dates in 2027 and 2026
 
@@ -179,7 +179,7 @@ Example: Oct. 18 is 273 + 18 = 291. Running the other way, 185 falls in July, be
 | Sun., July 4, 2027 | 185 | 27185 | 7185 | 2461591 |
 | Thu., Nov. 25, 2027 (Thanksgiving) | 329 | 27329 | 7329 | 2461735 |
 | Fri., Dec. 31, 2027 | 365 | 27365 | 7365 | 2461771 |
-| Sun., Oct. 18, 2026 (today) | 291 | 26291 | 6291 | 2461332 |
+| Sat., Nov. 14, 2026 | 318 | 26318 | 6318 | 2461359 |
 | Thu., Nov. 26, 2026 (Thanksgiving) | 330 | 26330 | 6330 | 2461371 |
 | Thu., Dec. 31, 2026 | 365 | 26365 | 6365 | 2461406 |
 

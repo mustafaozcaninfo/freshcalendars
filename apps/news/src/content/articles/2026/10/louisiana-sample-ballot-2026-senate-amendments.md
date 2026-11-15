@@ -1,41 +1,41 @@
 ---
 title: "Louisiana Sample Ballot 2026: Senate Race and 10 Amendments"
-description: "Louisiana sample ballot for Nov. 3, 2026: a U.S. Senate race, 10 amendments and House primaries. Look yours up by name or address; printable checklist."
+description: "Louisiana sample ballot for Nov. 3, 2026: U.S. Senate (Julia Letlow won, per two newsrooms), 10 amendments, House primaries. Lookup tools and a checklist."
 type: news
 publishedAt: "2026-10-22T14:13:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Louisiana sample ballot 2026", "Louisiana constitutional amendments 2026", "Louisiana Senate race 2026", "Louisiana early voting 2026", "sample ballot by zip code Louisiana"]
 dateline: "Baton Rouge, La."
 assets:
   scene: election
-  kicker: "Louisiana · Election Day Nov. 3"
+  kicker: "Louisiana · Election Day was Nov. 3"
   date: "2026-11-03"
   card: { top: "On every Louisiana ballot", big: "10 amendments", bottom: "Plus U.S. Senate and House races" }
 hero:
   src: ../../../../assets/news/louisiana-sample-ballot-2026-senate-amendments/louisiana-sample-ballot-2026-senate-amendments.jpg
   alt: "Louisiana sample ballot 2026 illustration: a ballot box scene with a Nov. 3 date tile and a card noting 10 constitutional amendments on the ballot"
   title: "Louisiana's Nov. 3, 2026 ballot"
-  caption: "Louisiana voters decide the U.S. Senate general election, open primaries for all six U.S. House seats and 10 constitutional amendments on Tuesday, Nov. 3, 2026."
+  caption: "Louisiana voters decided the U.S. Senate general election, open primaries for all six U.S. House seats and 10 constitutional amendments on Tuesday, Nov. 3, 2026."
 summary:
-  - "Louisiana's Nov. 3, 2026 ballot has the U.S. Senate general election, open primaries for U.S. House and 10 proposed constitutional amendments."
-  - "The Senate candidates listed by the Secretary of State are Democrat Jamie Davis and Republican Julia Letlow."
-  - "See your exact ballot by name or address in the Louisiana Voter Portal or the GeauxVote app. Early voting ran Oct. 20-27 and has ended."
-  - "Polls are open 6 a.m. to 8 p.m. A U.S. House general election follows on Dec. 12 where no candidate wins outright."
+  - "Louisiana's Nov. 3, 2026 ballot had the U.S. Senate general election, open primaries for U.S. House and 10 proposed constitutional amendments."
+  - "The Senate candidates listed by the Secretary of State were Democrat Jamie Davis and Republican Julia Letlow. Letlow won, WWNO and WAFB reported; official results are on GeauxVote.com."
+  - "The Louisiana Voter Portal and the GeauxVote app show a ballot by name or address. Early voting ran Oct. 20-27."
+  - "Polls were open 6 a.m. to 8 p.m. A U.S. House general election follows on Dec. 12 where no candidate won outright."
 faq:
   - q: "How do I find my Louisiana sample ballot?"
     a: "Use the Louisiana Voter Portal at voterportal.sos.la.gov or the free GeauxVote app. Search by your name and address, and the portal shows the ballot for your precinct, including local races."
-  - q: "Who is running for U.S. Senate in Louisiana in 2026?"
-    a: "The Secretary of State's candidate list for Nov. 3 shows Democrat Jamie Davis and Republican Julia Letlow. They won their parties' closed primaries earlier this year."
+  - q: "Who won the U.S. Senate race in Louisiana in 2026?"
+    a: "Republican Julia Letlow defeated Democrat Jamie Davis, WWNO and WAFB reported on election night. The Secretary of State's candidate list for Nov. 3 showed those two candidates, who won their parties' closed primaries earlier this year. Official results are on GeauxVote.com."
   - q: "How many amendments are on the Louisiana ballot?"
-    a: "Ten proposed constitutional amendments, numbered 1 to 10. They cover property tax exemptions, bail, governor term limits, retirement funding, lead water lines and foreign land purchases."
+    a: "Ten proposed constitutional amendments, numbered 1 to 10, were on the ballot. They cover property tax exemptions, bail, governor term limits, retirement funding, lead water lines and foreign land purchases."
   - q: "When was early voting in Louisiana?"
-    a: "Tuesday, Oct. 20 through Tuesday, Oct. 27, 2026, from 8:30 a.m. to 6 p.m., at your parish registrar's office or another designated site, and it has ended. Early voting was closed on Sunday, Oct. 25."
+    a: "Tuesday, Oct. 20 through Tuesday, Oct. 27, 2026, from 8:30 a.m. to 6 p.m., at your parish registrar's office or another designated site. Early voting was closed on Sunday, Oct. 25."
   - q: "Why is there a Dec. 12 election?"
-    a: "U.S. House races are open primaries on Nov. 3 this year. If no House candidate wins a majority, the top two meet in a general election on Saturday, Dec. 12."
+    a: "U.S. House races were open primaries on Nov. 3 this year. If no House candidate won a majority, the top two meet in a general election on Saturday, Dec. 12."
   - q: "Do I need ID to vote in Louisiana?"
-    a: "Bring a Louisiana driver's license, LA Wallet digital license, special ID or other photo ID with your name and signature. Without one, you can still vote by signing a voter affidavit."
+    a: "A Louisiana driver's license, LA Wallet digital license, special ID or other photo ID with the voter's name and signature was accepted. Without one, a voter could still vote by signing a voter affidavit."
 sources:
   - title: "Sample Ballots"
     url: "https://www.sos.la.gov/elections-voting/sample-ballots"
@@ -55,6 +55,14 @@ sources:
   - title: "Voting in Louisiana"
     url: "https://www.sos.la.gov/elections-voting/ways-to-vote"
     publisher: "Louisiana Secretary of State"
+  - title: "Julia Letlow narrowly wins Louisiana U.S. Senate seat in tighter race than expected"
+    url: "https://www.wwno.org/politics/2026-11-03/julia-letlow-narrowly-wins-louisiana-u-s-senate-seat-in-tighter-race-than-expected"
+    publisher: "WWNO"
+    date: "2026-11-03"
+  - title: "Louisiana election results: Letlow, Johnson, Higgins, Carter, other races decided"
+    url: "https://www.wafb.com/2026/11/03/polls-open-across-louisiana-voters-decide-senate-seat-major-local-races/"
+    publisher: "WAFB"
+    date: "2026-11-03"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -75,7 +83,7 @@ downloads:
 draft: false
 ---
 
-**Louisiana voters can see their exact Nov. 3, 2026 ballot by name or address in the Louisiana Voter Portal or the GeauxVote app.** The statewide ballot has the U.S. Senate general election, open primaries for all six U.S. House seats and 10 proposed constitutional amendments. Parish and local races vary by precinct.
+**Louisiana voters could see their exact Nov. 3, 2026 ballot by name or address in the Louisiana Voter Portal or the GeauxVote app.** The statewide ballot had the U.S. Senate general election, open primaries for all six U.S. House seats and 10 proposed constitutional amendments, and parish and local races varied by precinct. Republican Julia Letlow won the Senate race over Democrat Jamie Davis, according to New Orleans Public Radio (WWNO) and Baton Rouge television station (WAFB); official results are on the Secretary of State's results site, GeauxVote.com.
 
 ## How to find your Louisiana sample ballot
 
@@ -94,28 +102,30 @@ The portal can also search by candidate or amendment. Ballots appear about three
 | Tue., Oct. 13 | Online registration deadline (passed) |
 | Tue., Oct. 20 to Tue., Oct. 27 | Early voting, 8:30 a.m. to 6 p.m., closed Sun., Oct. 25 (ended) |
 | Fri., Oct. 30, 4:30 p.m. | Last day to request a mail ballot, other than military and overseas (passed) |
-| Mon., Nov. 2, 4:30 p.m. | Registrar must receive voted mail ballots (today) |
-| Tue., Nov. 3 | Election Day, polls open 6 a.m. to 8 p.m. |
+| Mon., Nov. 2, 4:30 p.m. | Registrar must receive voted mail ballots (passed) |
+| Tue., Nov. 3 | Election Day, polls open 6 a.m. to 8 p.m. (held) |
 | Sat., Dec. 12 | U.S. House general election, where needed |
 
-Anyone in line at 8 p.m. can still vote. Bring photo ID with your name and signature, such as a driver's license, LA Wallet or a special ID card. Without one, you can vote by signing a voter affidavit.
+Anyone in line at 8 p.m. could still vote. Voters were asked for photo ID with their name and signature, such as a driver's license, LA Wallet or a special ID card; without one, they could vote by signing a voter affidavit.
 
 ## What is on the ballot
 
 ### U.S. Senate
 
-Louisiana used closed party primaries for the Senate for the first time this year. The Secretary of State's candidate list for Nov. 3 shows two candidates:
+Louisiana used closed party primaries for the Senate for the first time this year. The Secretary of State's candidate list for Nov. 3 showed two candidates:
 
 - **Jamie Davis**, Democrat
 - **Julia Letlow**, Republican
 
+Letlow won, WWNO and WAFB reported on election night.
+
 ### U.S. House
 
-Under Act 7 of the 2026 session, House races moved to the fall and are open primaries on Nov. 3, with candidates of any party on one ballot. If nobody wins a majority, the top two meet on Saturday, Dec. 12. Your sample ballot shows the candidates in your district.
+Under Act 7 of the 2026 session, House races moved to the fall and were open primaries on Nov. 3, with candidates of any party on one ballot. If nobody won a majority, the top two meet on Saturday, Dec. 12. Your sample ballot shows the candidates in your district.
 
 ### 10 constitutional amendments
 
-Each amendment is on every ballot statewide. The short descriptions below follow the official ballot questions in the Secretary of State's guide.
+Each amendment was on every ballot statewide. The short descriptions below follow the official ballot questions in the Secretary of State's guide.
 
 | No. | The ballot asks whether to |
 |---|---|

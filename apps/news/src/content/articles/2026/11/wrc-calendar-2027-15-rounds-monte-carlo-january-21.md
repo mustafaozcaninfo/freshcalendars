@@ -3,6 +3,7 @@ title: "WRC Calendar 2027: 15 Rounds, Monte-Carlo Jan. 21 to Saudi Nov. 28"
 description: "The 2027 World Rally Championship has 15 rounds, Monte-Carlo from Jan. 21 to Saudi Arabia from Nov. 25. Weekday dates, ET time gaps and a printable."
 type: news
 publishedAt: "2026-11-09T06:00:00-05:00"
+updatedAt: "2026-11-14T17:01:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["WRC calendar 2027", "WRC 2027 schedule", "Rally US 2027 dates", "World Rally Championship 2027 calendar"]
@@ -62,15 +63,22 @@ summary:
   - "The 2027 World Rally Championship has 15 rounds, from Rallye Monte-Carlo on Thu., Jan. 21 to Rally Saudi Arabia on Thu., Nov. 25, according to wrc.com."
   - "Rally US runs Aug. 26-29, 2027 and returns the championship to the United States for the first time since 1988, the Fédération Internationale de l'Automobile (FIA) said."
   - "Rally d'Italia and Rally Scotland join the calendar, on July 8-11 and Sept. 30-Oct. 3."
-  - "Rally start times, itineraries and 2027 U.S. and UK broadcasters are not yet announced."
+  - "The BBC will show the WRC in the UK from 2027, Crash.net and Advanced Television reported; start times, itineraries and a U.S. broadcaster are not yet announced."
 faq:
   - q: "Is Rally Mexico on the 2027 WRC calendar?"
     a: "No. The 15 rounds on the wrc.com 2027 tab are in Monaco, Sweden, Kenya, Croatia, Spain, Japan, Greece, Italy, Estonia, Finland, the United States, the United Kingdom, Paraguay, Chile and Saudi Arabia."
   - q: "How long is each WRC rally in 2027?"
     a: "Each of the 15 rallies on the 2027 calendar runs four days, Thursday to Sunday, from the dates wrc.com prints."
   - q: "Which channel shows WRC in the U.S. and UK in 2027?"
-    a: "Not yet announced. No official page the story checked names a 2027 broadcaster for either country."
+    a: "In the UK, the BBC, with highlights of every round, live stages including the Power Stage and live coverage of Rally Scotland, according to Crash.net and Advanced Television. A 2027 U.S. broadcaster is not yet announced."
 sources:
+  - title: "BBC to broadcast major motorsport series live from 2027"
+    url: "https://www.crash.net/wrc/news/1104786/1/bbc-broadcast-major-motorsport-series-live-2027"
+    publisher: "Crash.net"
+  - title: "BBC seals FIA World Rally Championship deal"
+    url: "https://www.advanced-television.com/2026/09/18/bbc-seals-fia-world-rally-championship-deal/"
+    publisher: "Advanced Television"
+    date: "2026-09-18"
   - title: "FIA World Rally Championship set for landmark expansion as U.S. and UK return to the calendar for 2027"
     url: "https://www.fia.com/news/fia-world-rally-championship-set-landmark-expansion-us-and-uk-return-calendar-2027"
     publisher: "FIA"
@@ -85,6 +93,7 @@ sources:
   - title: "Rallye Automobile Monte-Carlo: presentation of the event"
     url: "https://acm.mc/en/epreuves/rallye-automobile-monte-carlo/event/presentation-of-the-event/"
     publisher: "Automobile Club de Monaco"
+    date: "2026-11-14"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
@@ -160,4 +169,4 @@ The F1 season has its own list in the [F1 calendar for 2027](/news/f1-calendar-2
 
 ## What WRC start times and broadcasters are not yet announced?
 
-No 2027 itineraries, start times or Power Stage times are published on the WRC calendar or the FIA's announcement. The 2027 U.S. and UK broadcasters are also not yet announced.
+No 2027 itineraries, start times or Power Stage times are published on the WRC calendar or the FIA's announcement. A 2027 U.S. broadcaster is also not yet announced. In the UK, Crash.net and Advanced Television reported that the BBC signed a three-year deal to show the championship from 2027 to 2029, with highlights of every round, live stages including the Power Stage and live coverage of Rally Scotland, a round we list for Sept. 30 to Oct. 3.

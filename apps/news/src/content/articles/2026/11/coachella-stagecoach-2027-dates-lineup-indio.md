@@ -1,8 +1,9 @@
 ---
 title: "Coachella 2027 Dates: April 9-11 and 16-18, Stagecoach April 23-25"
-description: "Coachella 2027 dates are April 9-11 and 16-18 in Indio, California, per two newsrooms. Stagecoach follows April 23-25. The lineup is not yet announced."
+description: "Coachella 2027 is April 9-11 and 16-18 in Indio, California, with Dua Lipa and Tame Impala among the headliners. Stagecoach follows April 23-25. Dates table."
 type: news
 publishedAt: "2026-11-01T11:30:00-05:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Coachella 2027 dates", "Stagecoach 2027 lineup", "Coachella 2027 lineup", "Stagecoach 2027 dates", "Indio April 2027"]
@@ -19,20 +20,32 @@ hero:
     author: "Raph_PH"
     authorUrl: "https://www.flickr.com/people/69880995@N04"
 summary:
-  - "Coachella 2027 is reported for Friday through Sunday, April 9-11, and April 16-18, at the Empire Polo Club in Indio, California."
+  - "Coachella 2027 runs Friday through Sunday, April 9-11, and April 16-18, at the Empire Polo Club in Indio, California, per coachella.com."
   - "Stagecoach 2027 runs Friday through Sunday, April 23-25, at the same venue, the third straight April weekend."
-  - "The Coachella 2027 lineup has not been announced; Stagecoach is headlined by Riley Green, Zach Top and Garth Brooks."
-  - "Sources do not say which Stagecoach headliner plays which day."
+  - "Organizers announced the Coachella lineup on Nov. 11, 2026: Dua Lipa and Tame Impala are among three headliners, per FOX 11 Los Angeles and Time Out."
+  - "Stagecoach is headlined by Riley Green, Zach Top and Garth Brooks; sources do not say which headliner plays which day."
 faq:
   - q: "When is Coachella 2027?"
-    a: "April 9-11 and April 16-18, 2027, according to NME and Radio X."
+    a: "April 9-11 and April 16-18, 2027. The festival's own site, coachella.com, shows those dates, and NME and Radio X reported them in April 2026."
   - q: "Who is playing Coachella 2027?"
-    a: "The lineup has not been announced as of Nov. 1, 2026."
+    a: "Dua Lipa and Tame Impala are among three headliners, with Madonna, Phoebe Bridgers, Don Toliver, Zara Larsson and Weezer also on the bill, per FOX 11 Los Angeles and Time Out. Which headliner plays which night is not confirmed."
   - q: "When is Stagecoach 2027?"
     a: "April 23-25, 2027, at the Empire Polo Club in Indio, per FOX 11 Los Angeles and Pollstar."
   - q: "Who headlines Stagecoach 2027?"
     a: "Riley Green, Zach Top and Garth Brooks. The sources do not say which night each plays."
 sources:
+  - title: "Coachella Valley Music and Arts Festival, April 9-11 and 16-18, 2027"
+    url: "https://www.coachella.com"
+    publisher: "Coachella (Goldenvoice)"
+    date: "2026-11-14"
+  - title: "Coachella 2027 lineup announced: Dua Lipa, Tame Impala, SZA set to headline"
+    url: "https://www.foxla.com/news/coachella-2027-lineup-announced-dua-lipa-tame-impala-sza"
+    publisher: "FOX 11 Los Angeles"
+    date: "2026-11-11"
+  - title: "Coachella 2027 lineup revealed with Dua Lipa, Tame Impala, SZA and Daddy Yankee"
+    url: "https://www.timeout.com/los-angeles/news/coachella-2027-lineup-revealed-with-dua-lipa-tame-impala-sza-and-daddy-yankee-111126"
+    publisher: "Time Out"
+    date: "2026-11-11"
   - title: "Coachella announce dates for 2027 and how to get tickets"
     url: "https://www.nme.com/news/music/coachella-announce-dates-for-2027-and-how-to-get-tickets-3941844"
     publisher: "NME"
@@ -65,14 +78,6 @@ downloads:
     pdf: "/news/downloads/coachella-stagecoach-2027/coachella-stagecoach-2027-dates-april.pdf"
     png: "/news/downloads/coachella-stagecoach-2027/coachella-stagecoach-2027-dates-april.png"
     pages: 1
-  - group: "Coachella and Stagecoach 2027 Dates printables"
-    title: "Coachella and Stagecoach 2027 Dates, April (ink saver)"
-    description: "April 2027 sheet with the Coachella weekend one, weekend two and Stagecoach dates in Indio, California. Ink-saver version."
-    preview: ../../../../assets/news/coachella-stagecoach-2027/coachella-stagecoach-2027-dates-april-ink.png
-    alt: "April 2027 calendar with Coachella and Stagecoach weekends marked, ink-saver version"
-    pdf: "/news/downloads/coachella-stagecoach-2027/coachella-stagecoach-2027-dates-april-ink.pdf"
-    png: "/news/downloads/coachella-stagecoach-2027/coachella-stagecoach-2027-dates-april-ink.png"
-    pages: 1
 assets:
   overlay: true
   kicker: "Coachella and Stagecoach 2027"
@@ -83,17 +88,17 @@ assets:
     group: coachella-stagecoach-2027
     title: "Coachella and Stagecoach 2027 Dates, April"
     subtitle: "Three weekends at the Empire Polo Club in Indio, California"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Fri., April 9 to Sun., April 11", "Coachella, weekend one"]
-      - ["Fri., April 16 to Sun., April 18", "Coachella, weekend two"]
+      - ["Fri., April 9 to Sun., April 11", "Coachella, weekend one (Dua Lipa, Tame Impala, more)"]
+      - ["Fri., April 16 to Sun., April 18", "Coachella, weekend two (same headliners)"]
       - ["Fri., April 23 to Sun., April 25", "Stagecoach: Riley Green, Zach Top, Garth Brooks"]
-    note: "Source: NME and Radio X (Coachella dates, April 2026); FOX LA and Pollstar (Stagecoach, Sept. 14, 2026). Coachella lineup not yet announced."
-    inkSaver: true
+    note: "Source: coachella.com and FOX LA (Coachella dates and lineup, Nov. 11 to 14, 2026); FOX LA and Pollstar (Stagecoach, Sept. 14, 2026). Headliner days not confirmed."
     description: "April 2027 sheet with the Coachella weekend one, weekend two and Stagecoach dates in Indio, California."
     alt: "April 2027 calendar with Coachella and Stagecoach weekends marked"
 ---
 
-**Coachella 2027 is set for April 9-11 and April 16-18 at the Empire Polo Club in Indio, California**, according to New Musical Express (NME) and Radio X, both of which reported the dates in April 2026. Stagecoach follows on April 23-25 at the same venue, per FOX 11 Los Angeles (FOX LA) and Pollstar. That makes three Friday-to-Sunday weekends in a row. The Coachella lineup has not been announced as of Nov. 1, 2026.
+**Coachella 2027 is set for April 9-11 and April 16-18 at the Empire Polo Club in Indio, California**, according to coachella.com, which lists April 9-11 and 16-18, 2027, and to New Musical Express (NME) and Radio X, which reported the dates in April 2026. Stagecoach follows on April 23-25 at the same venue, per FOX 11 Los Angeles (FOX LA) and Pollstar. That makes three Friday-to-Sunday weekends in a row. Organizers announced the Coachella lineup on Nov. 11, 2026, with three headliners, including Dua Lipa and Tame Impala.
 
 ## What are the Coachella and Stagecoach 2027 dates?
 
@@ -103,11 +108,13 @@ assets:
 | Coachella, weekend two | April 16-18, 2027 | Friday to Sunday | Empire Polo Club, Indio |
 | Stagecoach | April 23-25, 2027 | Friday to Sunday | Empire Polo Club, Indio |
 
-[NME](https://www.nme.com/news/music/coachella-announce-dates-for-2027-and-how-to-get-tickets-3941844) wrote on April 22, 2026: "The first weekend will take place from April 9 to 11, while weekend two will run from April 16 to 18." [Radio X](https://www.radiox.co.uk/festivals/coachella-2027-dates-buy-tickets-passes-bundles-payment-plan-rumoured-headliners/) reported the festival returning "9th -11th April and 16th - 18th April 2027." The two outlets agree, and the Coachella dates here rest on those two reports. Put all three weekends on your [April 2027 printable calendar](/april-calendars.html), or use the printable below.
+[NME](https://www.nme.com/news/music/coachella-announce-dates-for-2027-and-how-to-get-tickets-3941844) wrote on April 22, 2026: "The first weekend will take place from April 9 to 11, while weekend two will run from April 16 to 18." [Radio X](https://www.radiox.co.uk/festivals/coachella-2027-dates-buy-tickets-passes-bundles-payment-plan-rumoured-headliners/) reported the festival returning "9th -11th April and 16th - 18th April 2027." The festival's own site shows the same two weekends. Put all three weekends on your [April 2027 printable calendar](/april-calendars.html), or use the printable below.
 
-## Has the Coachella 2027 lineup been announced?
+## Who is playing Coachella 2027?
 
-No. NME wrote that "no artists have yet been revealed for the line-up," and Radio X said the headliner and lineup "is yet to be confirmed." As of Nov. 1, 2026, we have found no announcement, so this story names no Coachella performers. NME noted that major announcements usually come between October and December, which is NME's observation rather than an official schedule.
+FOX LA reported on Nov. 11, 2026 that festival organizers announced three headliners, including Dua Lipa and Tame Impala, with a special featured performance by Daddy Yankee. FOX LA and Time Out both list Madonna, Zara Larsson, Phoebe Bridgers, Weezer and Don Toliver among the other acts. Neither report says which headliner plays which night, so the day-by-day order is not confirmed here.
+
+FOX LA and Time Out both say standalone general admission passes are sold out and that passes with a three-day shuttle, starting at $779, and very important person (VIP) passes went on sale Friday, Nov. 13, at noon. Prices are listed as "starting at."
 
 For comparison, Coachella 2026 ran April 10-12 and April 17-19, 2026, according to coachella.com's 2026 page. The 2027 weekends start one day earlier in April than the 2026 ones did.
 
@@ -123,5 +130,5 @@ Both festivals use the same grounds in Indio, and the dates sit back to back: we
 
 ## What is still not confirmed?
 
-- The Coachella 2027 lineup and headliners.
+- Which Coachella headliner plays which night.
 - Which Stagecoach headliner plays Friday, Saturday or Sunday.

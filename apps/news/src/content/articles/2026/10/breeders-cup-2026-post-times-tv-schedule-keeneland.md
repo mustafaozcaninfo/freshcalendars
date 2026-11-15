@@ -3,7 +3,7 @@ title: "Breeders' Cup 2026 Results: Sovereignty Wins Classic, 14 Winners"
 description: "Sovereignty won the 2026 Breeders' Cup Classic at Keeneland on Oct. 31, 1 3/4 lengths ahead of The Puma. Post times and all 14 winners with jockeys."
 type: news
 publishedAt: "2026-10-25T20:19:00-04:00"
-updatedAt: "2026-11-03T07:09:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Breeders' Cup 2026 results", "Breeders' Cup Classic 2026 winner", "Breeders' Cup 2026 schedule", "Breeders' Cup Classic 2026 post time", "Breeders' Cup Keeneland"]
@@ -53,9 +53,13 @@ sources:
     url: "https://www.nbcsports.com/pressbox/press-releases/kentucky-derby-winners-golden-tempo-and-sovereignty-and-defending-champion-forever-young-headline-7-million-longines-breeders-cup-classic-this-saturday-oct-31-at-3-30-p-m-et-on-nbc-and-peacock"
     publisher: "NBC Sports"
     date: "2026-10-28"
-  - title: "Breeders' Cup | Oct. 30-31, 2026"
+  - title: "Breeders' Cup | Oct. 29-30, 2027"
     url: "https://www.breederscup.com/"
     publisher: "Breeders' Cup"
+    date: "2026-11-14"
+  - title: "Belmont Park to host 2027 Breeders' Cup World Championships"
+    url: "https://www.nyra.com/belmont/news/belmont-park-to-host-2027-breeders-cup-world-championships/"
+    publisher: "New York Racing Association (NYRA)"
 internalLinks:
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
@@ -69,51 +73,43 @@ assets:
   overlay: true
   kicker: "Breeders' Cup · Oct. 30-31, 2026"
   date: "2026-10-31"
-  card: { top: "Breeders' Cup 2026 at Keeneland", big: "Classic 6:16 p.m. ET Sat.", bottom: "NBC, USA Network and Peacock" }
+  card: { top: "Breeders' Cup 2026 at Keeneland", big: "Sovereignty wins Classic", bottom: "14 races, Oct. 30-31" }
   printable:
     slug: breeders-cup-2026-race-tracker
     group: breeders-cup-2026
     title: "Breeders' Cup 2026 Race Tracker, Oct. 30-31"
-    subtitle: "All 14 Championship races at Keeneland, Lexington, Ky. Post times Eastern Time (ET); tick each race as it runs."
+    subtitle: "All 14 Championship races at Keeneland, Lexington, Ky. Post times Eastern Time (ET), with the winners."
     notesLabel: "My picks and the winners"
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - { when: "1-6 p.m.", what: "Fri. TV: USA Network and Peacock", section: "How to watch" }
       - { when: "1-3:30 p.m.", what: "Sat. TV: USA Network and Peacock", section: "How to watch" }
       - { when: "3:30-6:30 p.m.", what: "Sat. TV: NBC and Peacock", section: "How to watch" }
-      - { when: "2:55 p.m.", what: "Race 6: Juvenile Turf Sprint, $1 million", section: "Friday, Oct. 30" }
-      - { when: "3:35 p.m.", what: "Race 7: Juvenile Fillies, $2 million", section: "Friday, Oct. 30" }
-      - { when: "4:15 p.m.", what: "Race 8: John Deere Juvenile Fillies Turf, $1 million", section: "Friday, Oct. 30" }
-      - { when: "4:55 p.m.", what: "Race 9: FanDuel Juvenile, $2 million", section: "Friday, Oct. 30" }
-      - { when: "5:35 p.m.", what: "Race 10: Brown Advisory Juvenile Turf, $1 million", section: "Friday, Oct. 30" }
-      - { when: "1:10 p.m.", what: "Race 4: Filly & Mare Sprint, $1 million", section: "Saturday, Oct. 31" }
-      - { when: "1:48 p.m.", what: "Race 5: Prevagen Turf Sprint, $1 million", section: "Saturday, Oct. 31" }
-      - { when: "2:26 p.m.", what: "Race 6: Dirt Mile, $1 million", section: "Saturday, Oct. 31" }
-      - { when: "3:04 p.m.", what: "Race 7: Maker's Mark Filly & Mare Turf, $2 million", section: "Saturday, Oct. 31" }
-      - { when: "3:42 p.m.", what: "Race 8: Cygames Sprint, $2 million", section: "Saturday, Oct. 31" }
-      - { when: "4:20 p.m.", what: "Race 9: FanDuel Mile, $2 million", section: "Saturday, Oct. 31" }
-      - { when: "4:58 p.m.", what: "Race 10: Longines Distaff, $2 million", section: "Saturday, Oct. 31" }
-      - { when: "5:36 p.m.", what: "Race 11: Longines Turf, $5 million", section: "Saturday, Oct. 31" }
-      - { when: "6:16 p.m.", what: "Race 12: Longines Classic, $7 million", section: "Saturday, Oct. 31" }
-    note: "Source: Breeders' Cup race order and post times (Oct. 21, 2026) and broadcast schedule; NBC Sports. Schedule checked Oct. 29, 2026. Post times are subject to change."
-    description: "A one-page Breeders' Cup 2026 race tracker with all 14 Championship races, post times in Eastern Time, purses, TV windows and tick boxes for Oct. 30-31 at Keeneland."
-    alt: "Printable Breeders' Cup 2026 race tracker listing all 14 Championship races with post times, purses and TV channels for Friday and Saturday"
+      - { when: "2:55 p.m.", what: "Race 6: Juvenile Turf Sprint, $1 million. Winner: Libertango", section: "Friday, Oct. 30" }
+      - { when: "3:35 p.m.", what: "Race 7: Juvenile Fillies, $2 million. Winner: Emphatic", section: "Friday, Oct. 30" }
+      - { when: "4:15 p.m.", what: "Race 8: John Deere Juvenile Fillies Turf, $1 million. Winner: Sun Goddess", section: "Friday, Oct. 30" }
+      - { when: "4:55 p.m.", what: "Race 9: FanDuel Juvenile, $2 million. Winner: Hughes", section: "Friday, Oct. 30" }
+      - { when: "5:35 p.m.", what: "Race 10: Brown Advisory Juvenile Turf, $1 million. Winner: Haffner", section: "Friday, Oct. 30" }
+      - { when: "1:10 p.m.", what: "Race 4: Filly & Mare Sprint, $1 million. Winner: Ways and Means", section: "Saturday, Oct. 31" }
+      - { when: "1:48 p.m.", what: "Race 5: Prevagen Turf Sprint, $1 million. Winner: Bacio", section: "Saturday, Oct. 31" }
+      - { when: "2:26 p.m.", what: "Race 6: Dirt Mile, $1 million. Winner: Further Ado", section: "Saturday, Oct. 31" }
+      - { when: "3:04 p.m.", what: "Race 7: Maker's Mark Filly & Mare Turf, $2 million. Winner: Kathynmarissa", section: "Saturday, Oct. 31" }
+      - { when: "3:42 p.m.", what: "Race 8: Cygames Sprint, $2 million. Winner: T O Elvis", section: "Saturday, Oct. 31" }
+      - { when: "4:20 p.m.", what: "Race 9: FanDuel Mile, $2 million. Winner: Deterministic", section: "Saturday, Oct. 31" }
+      - { when: "4:58 p.m.", what: "Race 10: Longines Distaff, $2 million. Winner: Nitrogen", section: "Saturday, Oct. 31" }
+      - { when: "5:36 p.m.", what: "Race 11: Longines Turf, $5 million. Winner: Benvenuto Cellini", section: "Saturday, Oct. 31" }
+      - { when: "6:16 p.m.", what: "Race 12: Longines Classic, $7 million. Winner: Sovereignty", section: "Saturday, Oct. 31" }
+    note: "Source: Breeders' Cup race order and post times (Oct. 21, 2026) and broadcast schedule; NBC Sports results tracker (Oct. 31, 2026); LEX18."
+    description: "A one-page Breeders' Cup 2026 race record with all 14 Championship races, post times in Eastern Time, purses, TV windows and winners for Oct. 30-31 at Keeneland."
+    alt: "Printable Breeders' Cup 2026 race record listing all 14 Championship races with post times, purses, TV channels and winners for Friday and Saturday"
 downloads:
   - group: "Breeders' Cup 2026 Race Tracker printables"
     title: "Breeders' Cup 2026 Race Tracker, Oct. 30-31"
-    description: "A one-page Breeders' Cup 2026 race tracker with all 14 Championship races, post times in Eastern Time, purses, TV windows and tick boxes for Oct. 30-31 at Keeneland."
+    description: "A one-page Breeders' Cup 2026 race record with all 14 Championship races, post times in Eastern Time, purses, TV windows and winners for Oct. 30-31 at Keeneland."
     preview: ../../../../assets/news/breeders-cup-2026/breeders-cup-2026-race-tracker.png
-    alt: "Printable Breeders' Cup 2026 race tracker listing all 14 Championship races with post times, purses and TV channels for Friday and Saturday"
+    alt: "Printable Breeders' Cup 2026 race record listing all 14 Championship races with post times, purses, TV channels and winners for Friday and Saturday"
     pdf: "/news/downloads/breeders-cup-2026/breeders-cup-2026-race-tracker.pdf"
     png: "/news/downloads/breeders-cup-2026/breeders-cup-2026-race-tracker.png"
-    pages: 1
-  - group: "Breeders' Cup 2026 Race Tracker printables"
-    title: "Breeders' Cup 2026 Race Tracker, Oct. 30-31 (ink saver)"
-    description: "A one-page Breeders' Cup 2026 race tracker with all 14 Championship races, post times in Eastern Time, purses, TV windows and tick boxes for Oct. 30-31 at Keeneland. Ink-saver version."
-    preview: ../../../../assets/news/breeders-cup-2026/breeders-cup-2026-race-tracker-ink.png
-    alt: "Printable Breeders' Cup 2026 race tracker listing all 14 Championship races with post times, purses and TV channels for Friday and Saturday, ink-saver version"
-    pdf: "/news/downloads/breeders-cup-2026/breeders-cup-2026-race-tracker-ink.pdf"
-    png: "/news/downloads/breeders-cup-2026/breeders-cup-2026-race-tracker-ink.png"
     pages: 1
 draft: false
 ---
@@ -145,7 +141,7 @@ Sovereignty, the 2025 Kentucky Derby and Belmont Stakes winner, had missed last 
 
 ## When was the Breeders' Cup 2026?
 
-The 43rd Breeders' Cup World Championships were Friday, Oct. 30 and Saturday, Oct. 31, 2026, at Keeneland. The Breeders' Cup says the two days carried 14 Grade 1 races and more than $34 million in purses and awards. Keeneland hosted for the fourth time, after 2015, 2020 and 2022.
+The 43rd Breeders' Cup World Championships were Friday, Oct. 30 and Saturday, Oct. 31, 2026, at Keeneland. The Breeders' Cup says the two days carried 14 Grade 1 races and more than $34 million in purses and awards. Keeneland hosted for the fourth time, after 2015, 2020 and 2022. The Breeders' Cup's site lists the next World Championships for Oct. 29-30, 2027, and the New York Racing Association (NYRA), which operates Belmont Park in Elmont, N.Y., says the track will host them.
 
 Friday's 10-race card started at 11:55 a.m. ET, with five undercard races before the first Championship race. Saturday's 12-race card started at 11:15 a.m. ET, with three undercard races first.
 
@@ -217,4 +213,4 @@ The Classic ran on Halloween evening, when trick-or-treating was under way in ma
 
 ## Free Breeders' Cup 2026 race tracker
 
-The printable puts all 14 Championship races on one US Letter page in post-time order, with race numbers, purses, the three TV windows and a tick box for each race. A notes area at the bottom has room to write in the winners from the table above. An ink-saver version prints in black and white. Mark the weekend on your [October 2026 printable calendar](/october-calendars.html) or plan Friday and Saturday on a [printable weekly calendar](/printable-weekly-calendar.html).
+The printable puts all 14 Championship races on one US Letter page in post-time order, with race numbers, purses, the winners from the table above, the three TV windows and a tick box for each race. Mark the weekend on your [October 2026 printable calendar](/october-calendars.html) or plan Friday and Saturday on a [printable weekly calendar](/printable-weekly-calendar.html).

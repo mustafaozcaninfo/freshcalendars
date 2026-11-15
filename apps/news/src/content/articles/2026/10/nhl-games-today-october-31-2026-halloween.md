@@ -1,9 +1,9 @@
 ---
 title: "NHL Games Today, Oct. 31, 2026: 10 Halloween Games From 1:00 p.m. ET"
-description: "NHL games today, Saturday, Oct. 31, 2026 (Halloween): 10 games from 1:00 to 10:00 p.m. ET. Time-zone table, TV notes and a printable score sheet."
+description: "The NHL played 10 games on Saturday, Oct. 31, 2026 (Halloween), from 1:00 to 10:00 p.m. ET. Final scores, a time-zone table, TV notes and a printable."
 type: news
 publishedAt: "2026-10-29T19:53:00-04:00"
-updatedAt: "2026-10-29T21:06:00-04:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NHL games today", "NHL games Halloween 2026", "NHL schedule October 31 2026", "NHL TV schedule today", "printable NHL schedule"]
@@ -34,13 +34,14 @@ assets:
       - ["8:00 p.m.", "Blue Jackets at Stars, American Airlines Center. TV: Prime Video, CBJNHL. Final: ___ to ___"]
       - ["10:00 p.m.", "Flames at Avalanche, Ball Arena. TV: Altitude. Final: ___ to ___"]
     note: "Source: National Hockey League schedule data (api-web.nhle.com), checked Oct. 29, 2026. US TV only; no national US channel is listed. Check before puck drop."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true
     description: "A one-page NHL schedule for Saturday, Oct. 31, 2026: all 10 games with Eastern start times, arenas, US TV and lines for the final scores."
     alt: "Printable NHL games today sheet for Oct. 31, 2026, listing 10 games with start times, arenas, TV and score lines"
 hero:
   src: ../../../../assets/news/nhl-games-today-october-31-2026-halloween/nhl-games-today-october-31-2026-halloween.webp
   alt: "TD Garden in Boston before a Bruins game, a file photo for the NHL games today on Halloween, Oct. 31, 2026"
-  caption: "File photo of TD Garden in Boston before a game. The Bruins host the Blackhawks there at 1 p.m. ET on Saturday, Oct. 31, 2026, one of 10 NHL games."
+  caption: "File photo of TD Garden in Boston before a game. The Bruins hosted the Blackhawks there at 1 p.m. ET on Saturday, Oct. 31, 2026, one of 10 NHL games."
   credit: "Photo: AEJ / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -48,26 +49,30 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:TDBanknorthGardenBeforeGame.jpg"
     author: "AEJ"
 summary:
-  - "The National Hockey League (NHL) lists 10 games for Saturday, Oct. 31, 2026 (Halloween), from 1:00 p.m. to 10:00 p.m. Eastern Time (ET)."
-  - "Two games start at 1:00 p.m. ET, two at 2:00, two at 4:00, two at 7:00, one at 8:00 and the last at 10:00 p.m. ET, which is 7:00 p.m. Pacific Time (PT)."
-  - "The NHL lists no national U.S. TV channel for any Saturday game, so check local listings; Canada has national Sportsnet coverage of six games."
-  - "Calgary plays Friday at home against Seattle and Saturday at Colorado, the only back-to-back of the day."
+  - "The National Hockey League (NHL) played 10 games on Saturday, Oct. 31, 2026 (Halloween), from 1:00 p.m. to 10:00 p.m. Eastern Time (ET)."
+  - "Final scores: Bruins 5, Blackhawks 4 (overtime); Blues 5, Red Wings 4; Predators 5, Lightning 4 (shootout); Oilers 4, Islanders 0; Sabres 3, Kings 2; Senators 5, Sharks 1; Canadiens 5, Penguins 4; Maple Leafs 4, Canucks 2; Stars 3, Blue Jackets 1; Avalanche 5, Flames 2."
+  - "Two games started at 1:00 p.m. ET, two at 2:00, two at 4:00, two at 7:00, one at 8:00 and the last at 10:00 p.m. ET, which was 7:00 p.m. Pacific Time (PT)."
+  - "The NHL listed no national U.S. TV channel for any Saturday game; Canada had national Sportsnet coverage of six games."
 faq:
   - q: "How many NHL games are on Halloween, Saturday, Oct. 31, 2026?"
-    a: "10, per the NHL's schedule data. The first two start at 1:00 p.m. ET and the last, Flames at Avalanche, at 10:00 p.m. ET."
+    a: "10, per the NHL's schedule data. The first two started at 1:00 p.m. ET and the last, Flames at Avalanche, at 10:00 p.m. ET. The Avalanche won 5-2."
   - q: "What NHL games are on national TV in the U.S. on Oct. 31?"
-    a: "None. The NHL lists regional channels for each game and no national U.S. channel, so check local listings."
-  - q: "What time is the last NHL game on Oct. 31 in my time zone?"
-    a: "Calgary at Colorado starts at 10:00 p.m. ET, which is 9:00 p.m. Central Time (CT), 8:00 p.m. Mountain Time (MT) and 7:00 p.m. PT."
+    a: "None. The NHL listed regional channels for each game and no national U.S. channel."
+  - q: "What time was the last NHL game on Oct. 31 in my time zone?"
+    a: "Calgary at Colorado started at 10:00 p.m. ET, which is 9:00 p.m. Central Time (CT), 8:00 p.m. Mountain Time (MT) and 7:00 p.m. PT."
   - q: "Do the clocks change before the Saturday games?"
-    a: "No. U.S. clocks fall back one hour at 2 a.m. local time on Sunday, Nov. 1, after all of Saturday's games start."
+    a: "No. U.S. clocks fell back one hour at 2 a.m. local time on Sunday, Nov. 1, after all of Saturday's games had started."
   - q: "Is there a printable NHL schedule for Saturday?"
-    a: "Yes. The one-page sheet lists all 10 games with start times in ET, arenas, U.S. TV and a line for each final score. It does not update, so check the NHL schedule before puck drop."
+    a: "Yes. The one-page sheet lists all 10 games with start times in ET, arenas, U.S. TV and a line for each final score."
 sources:
   - title: "NHL schedule data, Oct. 31, 2026"
     url: "https://api-web.nhle.com/v1/schedule/2026-10-31"
     publisher: "National Hockey League"
-    date: "2026-10-29"
+    date: "2026-11-14"
+  - title: "NHL scores, Oct. 31, 2026"
+    url: "https://api-web.nhle.com/v1/score/2026-10-31"
+    publisher: "National Hockey League"
+    date: "2026-11-14"
   - title: "NHL Schedule"
     url: "https://www.nhl.com/schedule"
     publisher: "National Hockey League"
@@ -99,11 +104,26 @@ downloads:
 draft: false
 ---
 
-**Saturday, Oct. 31, 2026 (Halloween) has 10 National Hockey League (NHL) games, the first at 1 p.m. Eastern Time (ET) and the last at 10 p.m. ET, per the NHL's official schedule data.** Two games start at 1:00 p.m. ET: the Chicago Blackhawks at the Boston Bruins and the St. Louis Blues at the Detroit Red Wings.
+**Saturday, Oct. 31, 2026 (Halloween) had 10 National Hockey League (NHL) games, the first at 1 p.m. Eastern Time (ET) and the last at 10 p.m. ET, per the NHL's official schedule data.** Two games started at 1:00 p.m. ET: the Chicago Blackhawks at the Boston Bruins and the St. Louis Blues at the Detroit Red Wings.
 
-We took the games, start times, arenas and TV listings from the league's schedule feed on Oct. 29. This page does not carry live scores; the [NHL schedule](https://www.nhl.com/schedule) shows them once play starts.
+We took the games, start times, arenas and TV listings from the league's schedule feed on Oct. 29 and the final scores from its score feed on Nov. 14.
 
-## NHL schedule today: 10 games, arenas and start times
+## NHL final scores for Oct. 31, 2026
+
+| Game | Final |
+|---|---|
+| Chicago Blackhawks at Boston Bruins | Bruins 5, Blackhawks 4 (overtime) |
+| St. Louis Blues at Detroit Red Wings | Blues 5, Red Wings 4 |
+| Tampa Bay Lightning at Nashville Predators | Predators 5, Lightning 4 (shootout) |
+| Edmonton Oilers at New York Islanders | Oilers 4, Islanders 0 |
+| Buffalo Sabres at Los Angeles Kings | Sabres 3, Kings 2 |
+| Ottawa Senators at San Jose Sharks | Senators 5, Sharks 1 |
+| Pittsburgh Penguins at Montréal Canadiens | Canadiens 5, Penguins 4 |
+| Toronto Maple Leafs at Vancouver Canucks | Maple Leafs 4, Canucks 2 |
+| Columbus Blue Jackets at Dallas Stars | Stars 3, Blue Jackets 1 |
+| Calgary Flames at Colorado Avalanche | Avalanche 5, Flames 2 |
+
+## NHL schedule for Oct. 31: 10 games, arenas and start times
 
 | Start (ET) | Game | Arena |
 |---|---|---|
@@ -118,9 +138,9 @@ We took the games, start times, arenas and TV listings from the league's schedul
 | 8:00 p.m. | Columbus Blue Jackets at Dallas Stars | American Airlines Center, Dallas |
 | 10:00 p.m. | Calgary Flames at Colorado Avalanche | Ball Arena, Denver |
 
-## What time are the NHL games today in my time zone?
+## What time were the NHL games on Oct. 31 in each time zone?
 
-Oct. 31 is before the U.S. clock change on Sunday, Nov. 1, 2026, so daylight time applies to every start. We worked these out from the league's Eastern start times.
+Oct. 31 is before the U.S. clock change on Sunday, Nov. 1, 2026, so daylight time applied to every start. We worked these out from the league's Eastern start times.
 
 | Start (ET) | Central (CT) | Mountain (MT) | Pacific (PT) | Games |
 |---|---|---|---|---|
@@ -131,11 +151,11 @@ Oct. 31 is before the U.S. clock change on Sunday, Nov. 1, 2026, so daylight tim
 | 8:00 p.m. | 7:00 p.m. | 6:00 p.m. | 5:00 p.m. | Blue Jackets at Stars |
 | 10:00 p.m. | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. | Flames at Avalanche |
 
-The clocks fall back one hour at 2 a.m. local time on Sunday, Nov. 1, after every Saturday game has started. Saturday's times do not change. Our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) has the details.
+The clocks fell back one hour at 2 a.m. local time on Sunday, Nov. 1, after every Saturday game had started. Our story on [daylight saving time ending Nov. 1](/news/daylight-saving-time-ends-november-1-2026/) has the details.
 
-## How to watch NHL games today on Halloween
+## How the NHL games on Halloween were televised
 
-The NHL lists no national U.S. TV channel for any Saturday game. What you can see depends on where you live, so check local listings and your provider's guide. In Canada, the league lists national Sportsnet channels for six of the ten games.
+The NHL listed no national U.S. TV channel for any Saturday game. In Canada, the league listed national Sportsnet channels for six of the ten games.
 
 | Game | U.S. TV listed by the NHL | Canada TV listed by the NHL |
 |---|---|---|
@@ -154,10 +174,10 @@ Some regional channels appear in the league's feed only as short codes, so the t
 
 ## Which team plays two nights in a row?
 
-Calgary is the only team that plays on both Friday and Saturday. That is a back-to-back. The Flames host the Seattle Kraken on Friday, Oct. 30, at 8:00 p.m. ET, then play at the Colorado Avalanche on Saturday at 10:00 p.m. ET, the last game of the day. Friday's full slate is in our story on [NHL games today for Oct. 30](/news/nhl-games-today-october-30-2026/).
+Calgary was the only team that played on both Friday and Saturday. That was a back-to-back. The Flames hosted the Seattle Kraken on Friday, Oct. 30, at 8:00 p.m. ET, then played at the Colorado Avalanche on Saturday at 10:00 p.m. ET, the last game of the day. Friday's full slate is in our story on [NHL games today for Oct. 30](/news/nhl-games-today-october-30-2026/).
 
 ## Printable NHL schedule and score sheet
 
-The one-page sheet has all 10 games in start-time order, each with its arena, U.S. TV and a line for the final score, plus a notes area. Pin it next to the [printable weekly calendar](/printable-weekly-calendar.html), or keep the [November 2026 printable calendar](/november-calendars.html) handy for the week ahead. A printed sheet cannot update itself, so check the NHL schedule if a start time moves.
+The one-page sheet has all 10 games in start-time order, each with its arena, U.S. TV and a line for the final score, plus a notes area. Pin it next to the [printable weekly calendar](/printable-weekly-calendar.html), or keep the [November 2026 printable calendar](/november-calendars.html) handy for the week ahead.
 
-Thursday's slate is in [NHL games today for Oct. 29](/news/nhl-games-today-october-29-2026/). If you have trick-or-treaters at home, our [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story has the evening hours.
+Thursday's slate was in [NHL games today for Oct. 29](/news/nhl-games-today-october-29-2026/). Our [Halloween 2026 sunset and trick-or-treat times](/news/halloween-2026-saturday-sunset-trick-or-treat-times/) story has the evening hours.

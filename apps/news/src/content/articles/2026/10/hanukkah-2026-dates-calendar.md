@@ -3,7 +3,7 @@ title: "First Night of Hanukkah 2026: Friday, Dec. 4, Candle Times"
 description: "The first night of Hanukkah 2026 is Friday evening, Dec. 4, and the holiday ends Dec. 12. Candle times for 20 U.S. cities and free printables."
 type: explainer
 publishedAt: "2026-10-22T11:45:00-04:00"
-updatedAt: "2026-11-02T18:34:00-05:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["first night of Hanukkah 2026", "when is Hanukkah 2026", "Hanukkah 2026 dates", "Hanukkah calendar 2026 printable", "Hanukkah candle lighting 2026"]
@@ -32,7 +32,7 @@ faq:
   - q: "Are Hanukkah candle-lighting times the same everywhere?"
     a: "No. They follow local sunset and community custom. On the two Fridays, Hebcal lists Shabbat candles at 4:10 p.m. in New York, 4:01 p.m. in Chicago, 5:11 p.m. in Miami and 4:25 p.m. in Los Angeles on Dec. 4; the menorah is lit before those times."
   - q: "When is the National Menorah lighting in 2026?"
-    a: "Organizers, American Friends of Lubavitch, list the 2026 lighting on the Ellipse in Washington for Sunday, Dec. 6, 2026, the third night. The time and tickets are not yet announced. Last year's ceremony was on Sunday, Dec. 14, 2025."
+    a: "Organizers, American Friends of Lubavitch, list the 2026 lighting on the Ellipse in Washington for Sunday, Dec. 6, 2026, the third night. Tickets are available on the National Menorah site; the start time is not yet announced. Last year's ceremony was on Sunday, Dec. 14, 2025."
   - q: "Is Hanukkah a federal holiday?"
     a: "No. Hanukkah is not on the U.S. Office of Personnel Management list of federal holidays, so federal offices, banks and the mail stay open. Schools set their own calendars."
   - q: "When is Hanukkah 2027?"
@@ -60,7 +60,7 @@ sources:
   - title: "National Menorah"
     url: "https://www.nationalmenorah.org/"
     publisher: "American Friends of Lubavitch"
-    date: "2026-11-02"
+    date: "2026-11-14"
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
@@ -229,4 +229,4 @@ Because the Hebrew calendar follows both the moon and the sun, Hanukkah moves ar
 
 In 2027 the first candle falls on Christmas Eve, and the last day lands on New Year's Day.
 
-<p class="callout"><b>Public menorah lightings:</b> Organizers, American Friends of Lubavitch, list the 2026 National Menorah lighting on the Ellipse in Washington for Sunday, Dec. 6, 2026, the third night. The time and tickets are not yet announced. Last year's ceremony was held on Sunday, Dec. 14, 2025.</p>
+<p class="callout"><b>Public menorah lightings:</b> Organizers, American Friends of Lubavitch, list the 2026 National Menorah lighting on the Ellipse in Washington for Sunday, Dec. 6, 2026, the third night. Tickets are available on the National Menorah site; the start time is not yet announced. Last year's ceremony was held on Sunday, Dec. 14, 2025.</p>

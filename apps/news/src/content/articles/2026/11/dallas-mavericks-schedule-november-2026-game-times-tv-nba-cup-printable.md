@@ -3,7 +3,7 @@ title: "Mavericks Schedule November 2026: 14 Games With CT and ET Times"
 description: "Mavericks November 2026 schedule: 14 games from Nov. 2 to Nov. 30, seven at home. Central and Eastern times, national TV, three NBA Cup games, printable."
 type: news
 publishedAt: "2026-11-02T11:21:00-05:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Mavericks schedule November 2026", "Mavericks game tonight", "Mavs NBA Cup schedule 2026", "Mavericks printable schedule"]
@@ -11,15 +11,16 @@ dateline: "Dallas"
 assets:
   scene: sports
   overlay: true
-  kicker: "Mavericks · Next game Mon., Nov. 2, 2026"
-  date: "2026-11-02"
-  card: { top: "Sacramento at Dallas", big: "7 p.m. CT", bottom: "First of 14 November games" }
+  kicker: "Mavericks · Next game Sat., Nov. 14, 2026"
+  date: "2026-11-14"
+  card: { top: "Dallas at Cleveland", big: "6:30 p.m. CT", bottom: "Game 7 of 14 November games" }
   printable:
     slug: dallas-mavericks-schedule-november-2026
     group: mavericks-schedule-2026
     title: "Mavericks Schedule, November 2026"
     subtitle: "All 14 November games, Central and Eastern Time, with TV and Cup games"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Mon., Nov. 2", "Vs. Sacramento, 7 p.m. CT / 8 p.m. ET"]
       - ["Wed., Nov. 4", "At San Antonio, 8:30 p.m. CT / 9:30 p.m. ET (ESPN)"]
@@ -51,13 +52,13 @@ hero:
     author: "Joe Mabel"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Jmabel"
 summary:
-  - "The Mavericks' next game is Mon., Nov. 2, 2026, at home against Sacramento at 7 p.m. CT (8 p.m. ET), per the NBA's schedule dated Aug. 13, 2026."
+  - "The Mavericks' next game is Sat., Nov. 14, 2026, at Cleveland at 6:30 p.m. CT (7:30 p.m. ET), then at Boston on Sun., Nov. 15, per the NBA's schedule dated Aug. 13, 2026."
   - "The NBA lists 14 Mavericks games in November 2026, seven at home and seven on the road, from Nov. 2 to Mon., Nov. 30 against Boston."
   - "Three games are on national TV: at San Antonio on Nov. 4 and against Golden State on Nov. 18 on ESPN, and at Denver on Nov. 24 on NBC and Peacock."
   - "Three November games are Emirates NBA Cup group games (Nov. 6, 24 and 27), after the Oct. 30 game against Houston."
 faq:
   - q: "When is the next Mavericks game?"
-    a: "Mon., Nov. 2, 2026, at home against Sacramento, 7 p.m. CT (8 p.m. ET), according to the NBA's 2026-27 schedule. The Mavericks hosted Houston on Fri., Oct. 30."
+    a: "Sat., Nov. 14, 2026, at Cleveland, 6:30 p.m. CT (7:30 p.m. ET), according to the NBA's 2026-27 schedule. The Mavericks were scheduled at Minnesota on Thu., Nov. 12."
   - q: "How many Mavericks games are in November 2026?"
     a: "14, according to the NBA's schedule dated Aug. 13, 2026: seven at home and seven on the road. The Mavericks play back-to-backs on Sun., Nov. 8 and Mon., Nov. 9 (both at home), Sat., Nov. 14 and Sun., Nov. 15 (both on the road), and Sat., Nov. 21 and Sun., Nov. 22 (home, then at Utah)."
   - q: "Which Mavericks games are NBA Cup games?"
@@ -103,9 +104,9 @@ downloads:
 draft: false
 ---
 
-**The Dallas Mavericks host Sacramento on Monday, Nov. 2, 2026, at 7 p.m. Central Time (CT), which is 8 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule.** The NBA lists 14 Mavericks games in November, and a one-page printable of all of them is further down.
+**The Dallas Mavericks play at Cleveland on Saturday, Nov. 14, 2026, at 6:30 p.m. Central Time (CT), which is 7:30 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule.** The NBA lists 14 Mavericks games in November, six of them already played by Nov. 14, and a one-page printable of all of them is further down.
 
-The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so Dallas fans subtract one hour for CT; the table below gives both. Weekdays are our own calculation. The Mavericks' previous game was at home against Houston on Friday, Oct. 30.
+The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so Dallas fans subtract one hour for CT; the table below gives both. Weekdays are our own calculation. The Mavericks' last game before November was at home against Houston on Friday, Oct. 30.
 
 ## Mavericks game times and TV for every November game
 

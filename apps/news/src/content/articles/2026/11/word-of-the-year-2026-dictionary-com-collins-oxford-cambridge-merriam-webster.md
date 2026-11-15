@@ -3,7 +3,7 @@ title: "Word of the Year 2026: Maxxing, Mogging and Picks Still to Come"
 description: "Dictionary.com chose \"maxxing\" and Collins \"mogging\" for 2026. Cambridge, Oxford University Press (OUP) and Merriam-Webster have not announced yet."
 type: news
 publishedAt: "2026-11-06T22:42:00-05:00"
-updatedAt: "2026-11-06T22:42:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["word of the year 2026", "collins word of the year 2026 mogging", "dictionary.com word of the year 2026 maxxing", "oxford word of the year 2026"]
@@ -17,7 +17,7 @@ assets:
     group: word-of-the-year-2026
     title: "Word of the Year 2026 Tracker: Every Dictionary's Pick"
     subtitle: "Two 2026 picks so far; fill in the rest as each dictionary announces"
-    note: "Source: Dictionary.com; ABC News and the Associated Press; University of Cambridge; Oxford University Press; Merriam-Webster; American Dialect Society. Checked Nov. 7, 2026."
+    note: "Source: Dictionary.com; ABC News and the Associated Press; University of Cambridge; Oxford University Press; Merriam-Webster; American Dialect Society. Checked Nov. 14, 2026."
     description: "One-page Word of the Year 2026 tracker: the Dictionary.com and Collins picks, plus blank lines for Cambridge, Oxford, Merriam-Webster and the American Dialect Society."
     alt: "Printable Word of the Year 2026 tracker listing maxxing from Dictionary.com and mogging from Collins, with blanks for the other dictionaries"
     data:
@@ -30,7 +30,7 @@ assets:
         - { date: null, title: "Merriam-Webster: 2026 word", platforms: ["Not yet named"], note: "Last year: slop, mid-December 2025", src: 9 }
         - { date: null, title: "American Dialect Society: 2026 word", platforms: ["Not yet named"], note: "Last year: slop, vote on Jan. 9, 2026", src: 10 }
       unconfirmed:
-        - { label: "Cambridge, Oxford, Merriam-Webster and ADS 2026 dates", why: "none had announced a 2026 pick or date as of Nov. 7, 2026" }
+        - { label: "Cambridge, Oxford, Merriam-Webster and ADS 2026 dates", why: "none had announced a 2026 pick or date as of Nov. 14, 2026" }
 hero:
   src: ../../../../assets/news/word-of-the-year-2026-dictionary-com-collins-oxford-cambridge-merriam-webster/word-of-the-year-2026-dictionary-com-collins-oxford-cambridge-merriam-webster.webp
   alt: "An open English dictionary, for Word of the Year 2026"
@@ -54,7 +54,7 @@ downloads:
 summary:
   - "Dictionary.com's article, dated Oct. 25, 2026, names \"maxxing\" as its 2026 Word of the Year; ABC News and CBS News reported the pick on Monday, Oct. 26."
   - "Collins Dictionary named \"mogging\" on Tuesday, Nov. 3, 2026, according to the Associated Press (AP) on ABC News and to Euronews."
-  - "Cambridge Dictionary, Oxford University Press (OUP), Merriam-Webster and the American Dialect Society (ADS) had not announced a 2026 word as of Nov. 7, 2026."
+  - "Cambridge Dictionary, Oxford University Press (OUP), Merriam-Webster and the American Dialect Society (ADS) had not announced a 2026 word as of Nov. 14, 2026."
   - "In 2025, Cambridge chose \"parasocial\" on Nov. 18, Oxford \"rage bait\" on Dec. 1, and both Merriam-Webster and the ADS chose \"slop\"."
 faq:
   - q: "What is the Dictionary.com Word of the Year 2026?"
@@ -62,9 +62,9 @@ faq:
   - q: "What is the Collins Word of the Year 2026?"
     a: "\"Mogging,\" a slang word meaning to outshine someone or something, according to the Associated Press on ABC News on Nov. 3, 2026."
   - q: "What is the Oxford Word of the Year 2026?"
-    a: "Not yet announced as of Nov. 7, 2026. In 2025, Oxford University Press chose \"rage bait\" on Dec. 1."
+    a: "Not yet announced as of Nov. 14, 2026. In 2025, Oxford University Press chose \"rage bait\" on Dec. 1."
   - q: "What is the Merriam-Webster Word of the Year 2026?"
-    a: "Not yet announced as of Nov. 7, 2026. Merriam-Webster chose \"slop\" for 2025."
+    a: "Not yet announced as of Nov. 14, 2026. Merriam-Webster chose \"slop\" for 2025."
   - q: "When does Cambridge announce its Word of the Year?"
     a: "No 2026 date is announced. Last year Cambridge named \"parasocial\" in a University of Cambridge news post published Nov. 18, 2025."
 sources:
@@ -116,7 +116,7 @@ related: [december-2026-important-dates-holidays-days-until, christmas-number-on
 draft: false
 ---
 
-Two dictionaries have named a Word of the Year for 2026 so far: Dictionary.com picked "maxxing" in an article dated Oct. 25, 2026, and Collins Dictionary picked "mogging" on Tuesday, Nov. 3, 2026. Cambridge Dictionary, Oxford University Press (OUP) and Merriam-Webster had not announced a 2026 word as of Nov. 7, 2026. The tracker below lists each one, and the printable version has blank lines to fill in as the rest arrive.
+Two dictionaries have named a Word of the Year for 2026 so far: Dictionary.com picked "maxxing" in an article dated Oct. 25, 2026, and Collins Dictionary picked "mogging" on Tuesday, Nov. 3, 2026. Cambridge Dictionary, Oxford University Press (OUP) and Merriam-Webster had not announced a 2026 word as of Nov. 14, 2026, and their sites still showed 2025 winners. The tracker below lists each one, and the printable version has blank lines to fill in as the rest arrive.
 
 ## Word of the Year 2026 tracker: every dictionary
 

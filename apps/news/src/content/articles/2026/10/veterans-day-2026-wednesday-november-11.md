@@ -1,9 +1,9 @@
 ---
 title: "Closed for Veterans Day 2026: Post Offices Shut, Stocks Trade"
-description: "Veterans Day 2026 is Wednesday, Nov. 11: post offices and the Federal Reserve close, stocks trade. Department of Motor Vehicles (DMV) hours vary by state."
+description: "Veterans Day 2026 was Wednesday, Nov. 11: post offices and the Federal Reserve closed, stocks traded. Department of Motor Vehicles (DMV) hours varied."
 type: update
 publishedAt: "2026-10-17T17:00:00-04:00"
-updatedAt: "2026-11-08T03:43:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [christina-gerland]
 category: holidays
 shop: veterans-day
@@ -11,8 +11,8 @@ keywords: ["Veterans Day 2026", "what's open and closed on Veterans Day 2026", "
 dateline: "New York"
 hero:
   src: ../../../../assets/news/veterans-day-2026-wednesday-november-11/veterans-day-2026-wednesday-november-11.webp
-  alt: "U.S. Post Office in Hartline, Washington, flying the U.S. flag and the POW/MIA flag; post offices close for Veterans Day 2026"
-  caption: "The U.S. Post Office in Hartline, Washington, in April 2025. Post offices close and regular mail stops on Wednesday, Nov. 11, 2026, Veterans Day."
+  alt: "U.S. Post Office in Hartline, Washington, flying the U.S. flag and the POW/MIA flag; post offices closed for Veterans Day 2026"
+  caption: "The U.S. Post Office in Hartline, Washington, in April 2025. Post offices closed and regular mail stopped on Wednesday, Nov. 11, 2026, Veterans Day."
   credit: "Photo: Cindy Shebley / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -24,33 +24,35 @@ assets:
   overlay: true
   kicker: "Veterans Day · Wednesday, Nov. 11, 2026"
   date: "2026-11-11"
-  card: { top: "Veterans Day 2026", big: "Wed., Nov. 11", bottom: "What is open and closed" }
+  card: { top: "Veterans Day 2026", big: "Wed., Nov. 11", bottom: "What was open and closed" }
 summary:
-  - "Veterans Day 2026 is Wednesday, Nov. 11, a federal holiday that stays on Nov. 11 every year."
-  - "All post offices close and regular mail and retail service resume Thursday, Nov. 12 (U.S. Postal Service, Nov. 4 release); the Federal Reserve and the bond market close."
-  - "The New York Stock Exchange and Nasdaq are open. State offices and Departments of Motor Vehicles vary: the state table and finder show what each state's official page says."
-  - "Arlington's national observance starts at 11 a.m. Eastern Time; the countdown clock shows that moment in your time zone."
+  - "Veterans Day 2026 was Wednesday, Nov. 11, a federal holiday that stays on Nov. 11 every year; in 2027 it falls on Thursday, Nov. 11, per the Office of Personnel Management (OPM)."
+  - "All post offices closed and regular mail and retail service resumed Thursday, Nov. 12 (U.S. Postal Service, Nov. 4 release); the Federal Reserve and the bond market closed."
+  - "The New York Stock Exchange and Nasdaq were open. State offices and Departments of Motor Vehicles varied: the state table and finder show what each state's official page said."
+  - "Arlington's national observance began at 11 a.m. Eastern Time on Nov. 11."
 faq:
   - q: "Is Veterans Day 2026 a federal holiday?"
-    a: "Yes. Veterans Day is one of the 11 federal holidays. In 2026 it falls on Wednesday, Nov. 11, and federal offices are closed."
-  - q: "Is the stock market open on Veterans Day 2026?"
-    a: "Yes. The New York Stock Exchange and Nasdaq hold a normal session from 9:30 a.m. to 4:00 p.m. ET. The bond market closes for the day under the schedule recommended by SIFMA."
-  - q: "Is there mail on Veterans Day?"
-    a: "No. The U.S. Postal Service says all Post Office locations are closed Wednesday, Nov. 11, 2026, and regular mail delivery and retail services resume Thursday, Nov. 12."
-  - q: "Are banks open on Veterans Day?"
-    a: "Most banks close because the Federal Reserve is closed. ATMs, cards and online banking work. The South Carolina State Treasurer's 2026 holiday memo says no wire transfers or Automated Clearing House (ACH) files are processed when banks and the Federal Reserve are closed."
-  - q: "Is the DMV open on Veterans Day 2026?"
-    a: "It depends on the state. California, Georgia, Iowa, Maryland, New Jersey and Pennsylvania list Nov. 11 as a closure for their driver license or motor vehicle offices. Florida, North Carolina and Oregon list it among their DMV holidays or closures. Check the state table."
+    a: "Yes. Veterans Day is one of the 11 federal holidays. In 2026 it fell on Wednesday, Nov. 11, and federal offices were closed. In 2027 it falls on Thursday, Nov. 11, according to the Office of Personnel Management."
+  - q: "When is Veterans Day 2027?"
+    a: "Thursday, Nov. 11, 2027, a federal holiday, according to the Office of Personnel Management's 2027 holiday schedule."
+  - q: "Was the stock market open on Veterans Day 2026?"
+    a: "Yes. The New York Stock Exchange and Nasdaq held a normal session from 9:30 a.m. to 4:00 p.m. ET. The bond market closed for the day under the schedule recommended by the Securities Industry and Financial Markets Association (SIFMA)."
+  - q: "Was there mail on Veterans Day 2026?"
+    a: "No. The U.S. Postal Service said all Post Office locations were closed Wednesday, Nov. 11, 2026, and regular mail delivery and retail services resumed Thursday, Nov. 12."
+  - q: "Were banks open on Veterans Day 2026?"
+    a: "Most banks closed because the Federal Reserve was closed. ATMs, cards and online banking worked. The South Carolina State Treasurer's 2026 holiday memo says no wire transfers or Automated Clearing House (ACH) files are processed when banks and the Federal Reserve are closed."
+  - q: "Was the DMV open on Veterans Day 2026?"
+    a: "It depended on the state. California, Georgia, Iowa, Maryland, New Jersey and Pennsylvania listed Nov. 11 as a closure for their driver license or motor vehicle offices. Florida, North Carolina and Oregon listed it among their DMV holidays or closures. Check the state table."
   - q: "Is Veterans Day a state holiday?"
-    a: "Mostly yes. Of the 51 jurisdictions in the table in this story, 48 have an official page or law that names Nov. 11. The table gives each state's own wording. Some states only list it as a paid holiday, and a few pages do not say whether offices close."
-  - q: "Is Costco open on Veterans Day 2026?"
-    a: "Costco has not posted 2026 Veterans Day hours on a page we could read, so check your warehouse."
-  - q: "Do UPS and FedEx deliver on Veterans Day 2026?"
-    a: "They set their own schedules. We could not read either carrier's 2026 holiday schedule, so check ups.com or fedex.com."
+    a: "Mostly yes. Of the 51 jurisdictions in the table below, 48 have an official page or law that names Nov. 11. The table gives each state's own wording. Some states only list it as a paid holiday, and a few pages do not say whether offices close."
+  - q: "Was Costco open on Veterans Day 2026?"
+    a: "Costco did not post 2026 Veterans Day hours on a page we could read, so we cannot say; check your warehouse for future holidays."
+  - q: "Did UPS and FedEx deliver on Veterans Day 2026?"
+    a: "They set their own schedules. We could not read either carrier's 2026 holiday schedule, so check ups.com or fedex.com for future holidays."
   - q: "Are federal courts open on Veterans Day?"
-    a: "Federal courts generally close on federal holidays; for example, the U.S. Bankruptcy Court for the Eastern District of Washington lists itself closed Wednesday, Nov. 11, 2026."
-  - q: "Are schools closed on Veterans Day 2026?"
-    a: "It depends on the district. NYC Public Schools lists Wednesday, Nov. 11, 2026 as Veterans Day, schools closed. Most districts set their own calendars, so check yours."
+    a: "Federal courts generally close on federal holidays; for example, the U.S. Bankruptcy Court for the Eastern District of Washington listed itself closed Wednesday, Nov. 11, 2026."
+  - q: "Were schools closed on Veterans Day 2026?"
+    a: "It depended on the district. NYC Public Schools listed Wednesday, Nov. 11, 2026 as Veterans Day, schools closed. Most districts set their own calendars."
   - q: "Why isn't Veterans Day on a Monday?"
     a: "Congress moved it to a Monday in October from 1971 to 1977, then passed a 1975 law that returned the observance to Nov. 11 starting in 1978 because of the date's historical meaning."
   - q: "What is the difference between Veterans Day and Memorial Day?"
@@ -59,6 +61,7 @@ sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
+    date: "2026-11-14"
   - title: "Federal Reserve Holidays"
     url: "https://www.federalreserve.gov/aboutthefed/k8.htm"
     publisher: "Board of Governors of the Federal Reserve System"
@@ -175,42 +178,42 @@ draft: false
 related: [veterans-day-parades-2026-by-city, veterans-day-2026-national-ceremony-arlington-time, marine-corps-birthday-2026-november-10-251st]
 ---
 
-Veterans Day 2026 falls on **Wednesday, Nov. 11**, a federal holiday on the Office of Personnel Management (OPM) list. The U.S. Postal Service (USPS) says all Post Office locations close that day, and the Federal Reserve and the bond market close too. The New York Stock Exchange (NYSE) and Nasdaq trade as usual.
+Veterans Day 2026 fell on **Wednesday, Nov. 11**, a federal holiday on the Office of Personnel Management (OPM) list. The U.S. Postal Service (USPS) said all Post Office locations closed that day, and the Federal Reserve and the bond market closed too. The New York Stock Exchange (NYSE) and Nasdaq traded as usual. In 2027 the holiday falls on Thursday, Nov. 11, according to OPM's 2027 schedule.
 
-Below: a table of what is open and closed, every state's official holiday wording with a state finder, and a live countdown to the 11 a.m. Eastern Time (ET) national observance. Unlike most federal holidays, Veterans Day is tied to its date rather than a weekday, which is why it lands midweek this year instead of creating a long weekend.
+Below: a record of what was open and closed, and every state's official holiday wording with a state finder. Unlike most federal holidays, Veterans Day is tied to its date rather than a weekday, which is why it landed midweek in 2026 instead of creating a long weekend.
 
-## What is open and closed on Nov. 11, 2026
+## What was open and closed on Nov. 11, 2026
 
-| Service | Status on Wednesday, Nov. 11 | Source |
+| Service | Status on Wednesday, Nov. 11, 2026 | Source |
 |---|---|---|
 | Federal government offices | Closed | [OPM federal holidays](https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/) |
 | Federal courts | Generally closed on federal holidays; the U.S. Bankruptcy Court for the Eastern District of Washington lists itself closed | [U.S. Bankruptcy Court court holidays](https://www.waeb.uscourts.gov/court-holidays) |
 | Federal Reserve | Closed | [Federal Reserve holidays](https://www.federalreserve.gov/aboutthefed/k8.htm) |
-| Most banks | Closed; ATMs, cards and online banking work; transfers started Nov. 11 generally settle the next business day, Thursday, Nov. 12 | [Federal Reserve holidays](https://www.federalreserve.gov/aboutthefed/k8.htm) |
-| Post offices | Closed; regular delivery and retail resume Thursday, Nov. 12 | [USPS release, Nov. 4, 2026](https://about.usps.com/newsroom/national-releases/2026/1104-usps-to-observe-veterans-day-on-nov-11.htm) |
+| Most banks | Closed; ATMs, cards and online banking worked; transfers started Nov. 11 generally settled the next business day, Thursday, Nov. 12 | [Federal Reserve holidays](https://www.federalreserve.gov/aboutthefed/k8.htm) |
+| Post offices | Closed; regular delivery and retail resumed Thursday, Nov. 12 | [USPS release, Nov. 4, 2026](https://about.usps.com/newsroom/national-releases/2026/1104-usps-to-observe-veterans-day-on-nov-11.htm) |
 | Bond market | Closed (industry recommendation, confirmed Oct. 28, 2026) | [Securities Industry and Financial Markets Association (SIFMA) release](https://www.sifma.org/news/press-releases/sifma-fixed-income-market-close-recommendation-in-the-u-s-the-u-k-and-japan-for-the-u-s-veterans-day-holiday-2026) |
 | Stock market (NYSE, Nasdaq) | Open, 9:30 a.m. to 4 p.m. ET | [NYSE hours and calendars](https://www.nyse.com/trade/hours-calendars) |
 | UPS and FedEx | Set by each carrier; we could not read either 2026 schedule | ups.com, fedex.com |
-| Costco | Has not posted 2026 Veterans Day hours on a page we could read; check your warehouse | Costco warehouse |
+| Costco | Did not post 2026 Veterans Day hours on a page we could read | Costco warehouse |
 | Home Depot | No Nov. 11 entry on its 2026 holiday hours page, which lists Thanksgiving, Nov. 26, as closed | [Home Depot store holiday hours](https://corporate.homedepot.com/news/company/store-holiday-hours-home-depot) |
 | Target | Its 2026 holiday information (Nov. 5) does not list Nov. 11 and gives Thanksgiving as closed | [Target holiday shopping](https://corporate.target.com/press/fact-sheet/2026/11/holiday-shopping-information) |
-| Public schools | Varies by district; NYC Public Schools closed | [NYC Public Schools calendar](https://www.schools.nyc.gov/calendar) |
-| State offices and Departments of Motor Vehicles | Vary by state; see the tables below | State pages below |
+| Public schools | Varied by district; NYC Public Schools closed | [NYC Public Schools calendar](https://www.schools.nyc.gov/calendar) |
+| State offices and Departments of Motor Vehicles | Varied by state; see the tables below | State pages below |
 | National parks | Free-entrance day for U.S. citizens and residents | [National Park Service](https://www.nps.gov/planyourvisit/passes.htm) |
 
-Other chains have not posted Veterans Day hours on pages we could read, so check your store before you go.
+Other chains did not post Veterans Day hours on pages we could read.
 
 ## Post office, national parks and VA hours on Veterans Day 2026
 
 Short answers for Wednesday, Nov. 11, 2026, each with its source:
 
-- **Post office:** closed. The USPS [Nov. 4, 2026 release](https://about.usps.com/newsroom/national-releases/2026/1104-usps-to-observe-veterans-day-on-nov-11.htm) says "All Post Office locations will be closed" and "Regular mail delivery and retail services will resume on Thursday, November 12." UPS and FedEx set their own schedules; we could not read either carrier's 2026 holiday schedule, so check them directly.
-- **National parks:** Nov. 11 is a free-entrance day, but from 2026 free entrance on these days is for U.S. citizens and residents only, the National Park Service (NPS) says (updated Oct. 9, 2026). Details are in our [national parks free days story](/news/national-parks-free-days-october-27-veterans-day-2026/).
-- **VA:** the Department of Veterans Affairs (VA) has no national 2026 notice that we found. Hours for clinics and offices are on each facility's VA.gov page.
+- **Post office:** closed. The USPS [Nov. 4, 2026 release](https://about.usps.com/newsroom/national-releases/2026/1104-usps-to-observe-veterans-day-on-nov-11.htm) says "All Post Office locations will be closed" and "Regular mail delivery and retail services will resume on Thursday, November 12." UPS and FedEx set their own schedules; we could not read either carrier's 2026 holiday schedule.
+- **National parks:** Nov. 11 was a free-entrance day, but from 2026 free entrance on these days is for U.S. citizens and residents only, the National Park Service (NPS) said (updated Oct. 9, 2026). Details are in our [national parks free days story](/news/national-parks-free-days-october-27-veterans-day-2026/).
+- **VA:** the Department of Veterans Affairs (VA) had no national 2026 notice that we found. Hours for clinics and offices are on each facility's VA.gov page.
 
-Federal courts generally close on federal holidays. The U.S. Bankruptcy Court for the Eastern District of Washington, for example, lists Wednesday, Nov. 11, 2026 among its closed days. State courts follow state calendars; Nevada Revised Statutes 236.015 closes that state's courts on legal holidays.
+Federal courts generally close on federal holidays. The U.S. Bankruptcy Court for the Eastern District of Washington, for example, listed Wednesday, Nov. 11, 2026 among its closed days. State courts follow state calendars; Nevada Revised Statutes 236.015 closes that state's courts on legal holidays.
 
-Payment dates around the holiday are in our [November Social Security schedule story](/news/social-security-payment-schedule-november-2026-veterans-day-shift/).
+Payment dates around the holiday were in our [November Social Security schedule story](/news/social-security-payment-schedule-november-2026-veterans-day-shift/).
 
 ### Veterans Day 2026 DMV closures by state
 
@@ -295,27 +298,18 @@ Status uses each page's own words. **Offices closed** means the page says office
 
 Could not confirm from an official page: Louisiana, Maine and Wisconsin. Check your state personnel office.
 
-## Veterans Day 2026 countdown to the Arlington observance
+## Veterans Day 2026 national observance at Arlington
 
-<div class="tool-box" data-launch-clock data-local="2026-11-11" data-done="That moment has arrived." data-targets="Veterans Day, midnight in your own time zone|;National Veterans Day Observance at Arlington, 11 a.m. Eastern Time (ET)|2026-11-11T16:00:00Z;Thanksgiving Day, midnight ET|2026-11-26T05:00:00Z" hidden>
-<p class="tool-title">Days, hours, minutes and seconds until Veterans Day</p>
-<label for="lc-vets">Count down to</label>
-<select id="lc-vets"></select>
-<div class="tool-out"></div>
-</div>
-
-Arlington National Cemetery's [Oct. 8, 2026 notice](https://www.arlingtoncemetery.mil/Media/News/Post/15150/2026-National-Veterans-Day-Observance-Open-to-Public) sets the national observance for 11 a.m. ET; our [Arlington ceremony story](/news/veterans-day-2026-national-ceremony-arlington-time/) has the program, tram and bag rules.
+Arlington National Cemetery's [Oct. 8, 2026 notice](https://www.arlingtoncemetery.mil/Media/News/Post/15150/2026-National-Veterans-Day-Observance-Open-to-Public) set the national observance for 11 a.m. ET; our [Arlington ceremony story](/news/veterans-day-2026-national-ceremony-arlington-time/) has the program, tram and bag rules.
 
 ## Dates around Veterans Day 2026
 
-<p class="days-live" data-days-until="2026" hidden></p>
-
-| Date | Day | What happens | Days from Nov. 8 |
-|---|---|---|---|
-| Nov. 10 | Tuesday | Last business day before the holiday | 2 |
-| Nov. 11 | Wednesday | Veterans Day; Arlington observance 11 a.m. ET | 3 |
-| Nov. 12 | Thursday | Mail delivery and post office retail service resume; Nov. 11 bank transfers generally settle | 4 |
-| Nov. 26 | Thursday | Thanksgiving, the next federal holiday | 18 |
+| Date | Day | What happened |
+|---|---|---|
+| Nov. 10 | Tuesday | Last business day before the holiday |
+| Nov. 11 | Wednesday | Veterans Day; Arlington observance 11 a.m. ET |
+| Nov. 12 | Thursday | Mail delivery and post office retail service resumed; Nov. 11 bank transfers generally settled |
+| Nov. 26 | Thursday | Thanksgiving, the next federal holiday |
 
 ## Why Veterans Day stays on Nov. 11
 
@@ -350,12 +344,12 @@ Ceremonies, including the national observance at Arlington National Cemetery, ar
 
 The two holidays are often confused. Veterans Day honors everyone who has served in the U.S. armed forces, living or dead. Memorial Day, observed on the last Monday in May, honors those who died while serving. In 2027, Memorial Day falls on Monday, May 31.
 
-## Planning tips for Veterans Day week 2026
+## Planning ahead from Veterans Day 2026
 
-- Send time-sensitive mail and bank transfers by Tuesday, Nov. 10.
-- If you have children in school, confirm whether your district is open; closures differ even between neighboring districts.
-- Restaurants and retailers list discounts to veterans and service members on Nov. 11; most require a military ID or proof of service. Our [Veterans Day free meals and discounts list](/news/veterans-day-free-meals-discounts/) tracks every confirmed 2026 offer, and the guide to [proving veteran status for discounts](/news/veteran-id-card-how-to-prove-veteran-status-discounts/) covers the paperwork. Our guide to [Golden Corral's Military Appreciation Night](/news/golden-corral-military-appreciation-night-2026/) covers that event.
+- Next year, Veterans Day is Thursday, Nov. 11, 2027, so mail and bank transfers sent Nov. 10 settle after the holiday.
+- School closures differ even between neighboring districts, so confirm your district's calendar each year.
+- Restaurants and retailers list discounts to veterans and service members on Nov. 11; most require a military ID or proof of service. Our [Veterans Day free meals and discounts list](/news/veterans-day-free-meals-discounts/) tracked every confirmed 2026 offer, and the guide to [proving veteran status for discounts](/news/veteran-id-card-how-to-prove-veteran-status-discounts/) covers the paperwork. Our guide to [Golden Corral's Military Appreciation Night](/news/golden-corral-military-appreciation-night-2026/) covers that event.
 - Parades: see the [Veterans Day parades by city](/news/veterans-day-parades-2026-by-city/) and the [NYC Veterans Day parade](/news/nyc-veterans-day-parade-2026-time-route-grand-marshal-suni-williams/).
 - Thanksgiving follows two weeks later, on Thursday, Nov. 26, so November 2026 has two federal holidays in the same month. Both are marked on our [November 2026 printable calendar](/november-calendars.html), and the full year is in the [2026 US holiday list](/holidays/).
 
-The next federal holiday is [Thanksgiving on Thursday, Nov. 26](/news/why-thanksgiving-2026-is-november-26/). Election Day, Nov. 3, is not a federal holiday; see [what is open on Election Day](/news/is-election-day-a-holiday-2026-whats-open/), and the [2027 federal holiday list](/news/federal-holidays-2027-observed-dates-list/) has next year's dates.
+The next federal holiday is [Thanksgiving on Thursday, Nov. 26](/news/why-thanksgiving-2026-is-november-26/). Election Day, Nov. 3, was not a federal holiday; see [what was open on Election Day](/news/is-election-day-a-holiday-2026-whats-open/), and the [2027 federal holiday list](/news/federal-holidays-2027-observed-dates-list/) has next year's dates.

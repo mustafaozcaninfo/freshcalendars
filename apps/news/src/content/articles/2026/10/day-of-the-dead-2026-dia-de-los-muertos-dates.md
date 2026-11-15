@@ -3,7 +3,7 @@ title: "Day of the Dead Calendar 2026: Nov. 1-2 Dates and Daily Timeline"
 description: "Day of the Dead 2026 ran Sunday, Nov. 1 and Monday, Nov. 2. See the day-by-day timeline from Oct. 27, Mexico City and U.S. events, and a printable."
 type: explainer
 publishedAt: "2026-10-19T10:35:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Day of the Dead 2026", "Día de los Muertos 2026", "Day of the Dead pets October 27", "Day of the Dead San Antonio 2026", "Day of the Dead 2026 calendar"]
@@ -12,7 +12,7 @@ hero:
   src: ../../../../assets/news/day-of-the-dead-2026-dia-de-los-muertos-dates/day-of-the-dead-2026-dia-de-los-muertos-dates.webp
   alt: "Day of the Dead 2026: a candle-lit ofrenda with orange marigolds, a sugar skull, papel picado and rows of candles in Mexico City (file photo)"
   title: "Day of the Dead 2026: Nov. 1 and Nov. 2"
-  caption: "An ofrenda lit with candles and cempasúchil marigolds in Mexico City on Nov. 1, 2012 (file photo). In 2026 the main days fall on Sunday, Nov. 1 and Monday, Nov. 2."
+  caption: "An ofrenda lit with candles and cempasúchil marigolds in Mexico City on Nov. 1, 2012 (file photo). In 2026 the main days were Sunday, Nov. 1 and Monday, Nov. 2."
   credit: "Photo: Luisroj96 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 3.0"
@@ -21,25 +21,25 @@ hero:
     author: "Luisroj96"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Luisroj96"
 summary:
-  - "Día de los Muertos 2026 began on Sunday, Nov. 1 (children who have died) and continues on Monday, Nov. 2 (adults), right after Halloween on Saturday, Oct. 31."
+  - "Día de los Muertos 2026 began on Sunday, Nov. 1 (children who have died) and ended on Monday, Nov. 2 (adults), right after Halloween on Saturday, Oct. 31."
   - "Popular calendars reported by Mexican newsrooms started earlier: pets on Tuesday, Oct. 27, people who died tragically on Oct. 28 and forgotten souls on Oct. 29 and 30. Customs vary by region and family."
-  - "Mexico City's Gran Desfile was scheduled for Saturday, Oct. 31 at 2 p.m. local time; San Antonio's free Calaveras de Azúcar Festival was scheduled for Oct. 31 and Nov. 1, and its altar tour at Historic Market Square runs through Nov. 6."
-  - "It is not a U.S. federal holiday: offices, banks and the mail keep normal hours on Monday, Nov. 2."
+  - "Mexico City's Gran Desfile was scheduled for Saturday, Oct. 31 at 2 p.m. local time; San Antonio's free Calaveras de Azúcar Festival was scheduled for Oct. 31 and Nov. 1, and its altar tour at Historic Market Square runs through Fri., Nov. 6."
+  - "It is not a U.S. federal holiday: offices, banks and the mail kept normal hours on Monday, Nov. 2."
 faq:
   - q: "When is Day of the Dead 2026?"
-    a: "Sunday, Nov. 1 and Monday, Nov. 2, 2026. Many families set up their altars in the last week of October, and public events in Mexico City and U.S. cities start earlier in the month."
+    a: "Sunday, Nov. 1 and Monday, Nov. 2, 2026. Many families set up their altars in the last week of October, and public events in Mexico City and U.S. cities started earlier in the month."
   - q: "Is Day of the Dead on Nov. 1 or Nov. 2?"
     a: "Both. Nov. 1 is usually for children who have died, often called Día de los Angelitos, and Nov. 2 is for adults, the same day as All Souls' Day. Customs vary by region and family."
   - q: "What is Oct. 27 for Day of the Dead?"
-    a: "Mexican newsrooms including Infobae and Expansión report Oct. 27 as the day families remember pets that have died. Infobae describes it as a custom that became popular in recent years, not an ancient or official date."
+    a: "Mexican newsrooms including Infobae and Expansión reported Oct. 27 as the day families remember pets that have died. Infobae describes it as a custom that became popular in recent years, not an ancient or official date."
   - q: "Is Day of the Dead the same as Halloween?"
     a: "No. Halloween on Oct. 31 centers on costumes and trick-or-treating. Día de los Muertos is a Mexican tradition for remembering and welcoming back family members who have died, with ofrendas, flowers, food and cemetery visits."
   - q: "What goes on an ofrenda?"
     a: "Photos of the people being remembered, candles, orange cempasúchil (marigold) flowers, their favorite food and drink, pan de muerto, sugar skulls, papel picado, water and salt, and personal objects."
   - q: "Is Day of the Dead a federal holiday in the United States?"
-    a: "No. It is not on the Office of Personnel Management's list of federal holidays, so federal offices, banks and the Postal Service run normally on Monday, Nov. 2, 2026."
+    a: "No. It is not on the Office of Personnel Management's list of federal holidays, so federal offices, banks and the Postal Service ran normally on Monday, Nov. 2, 2026."
   - q: "Where can I celebrate Day of the Dead in San Antonio in 2026?"
-    a: "The City of San Antonio listed the free Calaveras de Azúcar Festival at Historic Market Square for Saturday, Oct. 31 (10 a.m. to 9:30 p.m.) and Sunday, Nov. 1 (10 a.m. to 8:30 p.m.); both days have passed. It also lists a free self-guided altar tour there daily through Nov. 6."
+    a: "The City of San Antonio listed the free Calaveras de Azúcar Festival at Historic Market Square for Saturday, Oct. 31 (10 a.m. to 9:30 p.m.) and Sunday, Nov. 1 (10 a.m. to 8:30 p.m.); both days have passed. It also lists a free self-guided altar tour there daily through Nov. 6, the last day."
   - q: "Is there a Day of the Dead Barbie for 2026?"
     a: "Yes. Mattel Creations lists the Barbie Signature Día De Muertos 2026 Barbie Doll and a matching Ken doll, each at $80. On Oct. 30 the store showed pre-orders as sold out."
   - q: "What movie is about Day of the Dead?"
@@ -114,7 +114,7 @@ assets:
     slug: day-of-the-dead-2026-calendar
     group: day-of-the-dead-2026
     title: "Day of the Dead 2026 Calendar"
-    subtitle: "Día de los Muertos is Sun., Nov. 1 and Mon., Nov. 2, 2026. Earlier dates follow popular calendars that vary by region and family."
+    subtitle: "Día de los Muertos was Sun., Nov. 1 and Mon., Nov. 2, 2026. Earlier dates follow popular calendars that vary by region and family."
     rows:
       - ["Tue., Oct. 27", "Pets that have died (recent popular custom)"]
       - ["Wed., Oct. 28", "People who died in accidents or tragic deaths"]
@@ -122,11 +122,11 @@ assets:
       - ["Sat., Oct. 31", "Children who died before birth or baptism; Halloween"]
       - ["Sat., Oct. 31", "Mexico City Gran Desfile, 2 p.m. local (4 p.m. ET)"]
       - ["Sun., Nov. 1", "Día de los Angelitos: children who have died"]
-      - ["Sun., Nov. 1", "U.S. clocks fall back one hour at 2 a.m."]
+      - ["Sun., Nov. 1", "U.S. clocks fell back one hour at 2 a.m."]
       - ["Mon., Nov. 2", "Día de los Muertos: adults; All Souls' Day"]
     note: "Source: UNESCO; Secretaría de Cultura (Mexico); Mexico City tourism portal; popular calendar as reported by Infobae, Expansión, La Crónica de Hoy and Récord. Not a U.S. federal holiday (OPM)."
     notesLabel: "Names for my ofrenda"
-    inkSaver: true
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "A one-page Day of the Dead 2026 calendar for October and November: pets on Oct. 27, children on Nov. 1, adults on Nov. 2, with room for names."
     alt: "Day of the Dead 2026 calendar printable with Oct. 27 to Nov. 2 marked and a notes area for ofrenda names"
 downloads:
@@ -138,18 +138,10 @@ downloads:
     pdf: "/news/downloads/day-of-the-dead-2026/day-of-the-dead-2026-calendar.pdf"
     png: "/news/downloads/day-of-the-dead-2026/day-of-the-dead-2026-calendar.png"
     pages: 1
-  - group: "Day of the Dead 2026 Calendar printables"
-    title: "Day of the Dead 2026 Calendar (ink saver)"
-    description: "A one-page Day of the Dead 2026 calendar for October and November: pets on Oct. 27, children on Nov. 1, adults on Nov. 2, with room for names. Ink-saver version."
-    preview: ../../../../assets/news/day-of-the-dead-2026/day-of-the-dead-2026-calendar-ink.png
-    alt: "Day of the Dead 2026 calendar printable with Oct. 27 to Nov. 2 marked and a notes area for ofrenda names, ink-saver version"
-    pdf: "/news/downloads/day-of-the-dead-2026/day-of-the-dead-2026-calendar-ink.pdf"
-    png: "/news/downloads/day-of-the-dead-2026/day-of-the-dead-2026-calendar-ink.png"
-    pages: 1
 draft: false
 ---
 
-**Día de los Muertos 2026 runs from Sunday, Nov. 1 to Monday, Nov. 2, so Nov. 2 is the second day.** The Mexican tradition remembers family members and friends who have died with ofrendas (home altars), marigolds, candles, food and cemetery visits. Both days fall right after Halloween on Saturday, Oct. 31, and the season started earlier: popular calendars reported by Mexican newsrooms set aside Tuesday, Oct. 27 for pets.
+**Día de los Muertos 2026 ran from Sunday, Nov. 1 to Monday, Nov. 2, so Nov. 2 was the second day.** The Mexican tradition remembers family members and friends who have died with ofrendas (home altars), marigolds, candles, food and cemetery visits. Both days came right after Halloween on Saturday, Oct. 31, and the season started earlier: popular calendars reported by Mexican newsrooms set aside Tuesday, Oct. 27 for pets.
 
 ## Day of the Dead 2026 dates at a glance
 
@@ -160,7 +152,7 @@ draft: false
 | Nov. 1 | Sunday | Día de los Angelitos (children); All Saints' Day |
 | Nov. 2 | Monday | Día de los Muertos (adults); All Souls' Day |
 
-The main dates are fixed every year. Only the weekday moves: in 2026 the two central days land on a Sunday and a Monday, so the cemetery visits of Nov. 1 fell on a weekend and Nov. 2 is a regular workday in the United States.
+The main dates are fixed every year. Only the weekday moves: in 2026 the two central days land on a Sunday and a Monday, so the cemetery visits of Nov. 1 fell on a weekend and Nov. 2 was a regular workday in the United States.
 
 ## The week before: Oct. 27 to Nov. 2, day by day
 
@@ -226,7 +218,7 @@ A small pet ofrenda might hold:
 - Water and a small portion of a favorite treat, placed where living pets cannot reach it.
 - Marigolds or another flower, and a candle you can watch.
 
-In 2026 Oct. 27 fell on a Tuesday; by Expansión's timing, a pet altar was ready by that night. Our printable below marks the date for next year's planning too.
+In 2026 Oct. 27 fell on a Tuesday; by Expansión's timing, a pet altar was ready by that night. Our printable below marks the date.
 
 ## Day of the Dead in Mexico City in 2026
 
@@ -249,7 +241,7 @@ Outside the capital, customs change from state to state and town to town. When v
 
 ## Day of the Dead in the United States in 2026
 
-**Día de los Muertos is not a U.S. federal holiday.** The Office of Personnel Management's list does not include it, so on Monday, Nov. 2, 2026, federal offices, banks and the Postal Service keep normal hours. Schools and employers set their own schedules.
+**Día de los Muertos is not a U.S. federal holiday.** The Office of Personnel Management's list does not include it, so on Monday, Nov. 2, 2026, federal offices, banks and the Postal Service kept normal hours. Schools and employers set their own schedules.
 
 It is widely celebrated in U.S. cities, with public altars, parades, art shows and family workshops.
 
@@ -264,7 +256,7 @@ It is widely celebrated in U.S. cities, with public altars, parades, art shows a
 | Calaveras de Azúcar Festival | Sat., Oct. 31, 10 a.m. to 9:30 p.m.; Sun., Nov. 1, 10 a.m. to 8:30 p.m. | Historic Market Square | Free |
 | Self-guided altar tour | Daily through Fri., Nov. 6, 10 a.m. to 6 p.m. | Historic Market Square | Free |
 
-Source: City of San Antonio release of Oct. 20, 2026. The River Parade on Oct. 23 and the La Villita festival of Oct. 23 to 25 have taken place, and the festival days of Oct. 31 and Nov. 1 have passed. The altar tour continues through Fri., Nov. 6.
+Source: City of San Antonio release of Oct. 20, 2026. The River Parade on Oct. 23 and the La Villita festival of Oct. 23 to 25 have taken place, and the festival days of Oct. 31 and Nov. 1 have passed. The altar tour runs through Fri., Nov. 6.
 
 ### Los Angeles events through Nov. 2
 
@@ -275,7 +267,7 @@ Source: City of San Antonio release of Oct. 20, 2026. The River Parade on Oct. 2
 | Día de los Muertos Festival | Through Mon., Nov. 2 | Olvera Street |
 | Plaza de la Familia (Coco theme) | Through Mon., Nov. 2 | Disney California Adventure Park |
 
-The Grand Park closing night on Sun., Nov. 1 has passed; the other three listings run through Mon., Nov. 2. The Music Center, which runs Grand Park, says its schedule and artists may change; Discover Los Angeles lists the Olvera Street festival. Hours and tickets differ by venue, so check each organizer's page before you go.
+The Grand Park closing night on Sun., Nov. 1 has passed; the other three listings ran through Mon., Nov. 2. The Music Center, which runs Grand Park, says its schedule and artists may change; Discover Los Angeles lists the Olvera Street festival. Hours and tickets differ by venue, so check each organizer's page before you go.
 
 ## The 2026 Día de Muertos Barbie
 
@@ -287,7 +279,7 @@ The dolls borrow the season's colors and calavera look; they are collectibles, n
 
 Pixar's **Coco** is the best-known family film set during Día de los Muertos. A boy named Miguel crosses into the Land of the Dead and learns about his family's past. It is fiction inspired by Mexican traditions and a good way to start a conversation with children, but it does not show how every region keeps the days.
 
-At the Disneyland Resort, Plaza de la Familia at Disney California Adventure uses Coco characters and music; its fact sheet lists the 2026 run from Aug. 21 through Nov. 2.
+At the Disneyland Resort, Plaza de la Familia at Disney California Adventure used Coco characters and music; its fact sheet listed the 2026 run from Aug. 21 through Nov. 2.
 
 ## Is Day of the Dead the same as Halloween?
 
@@ -295,7 +287,7 @@ No. Halloween on Oct. 31 has Celtic and Christian roots and centers on costumes 
 
 ## Printable Day of the Dead 2026 calendar
 
-The free one-page sheet below marks every date in this story on an October and November 2026 grid, with a lined area for the names you want on your ofrenda. It prints on US Letter, and an ink-saver version is included. For a plain month, use our [November 2026 printable calendar](/november-calendars.html) or [October 2026 printable calendar](/october-calendars.html).
+The free one-page sheet below marks every date in this story on an October and November 2026 grid, with a lined area for the names you want on your ofrenda. It prints on US Letter. For a plain month, use our [November 2026 printable calendar](/november-calendars.html) or [October 2026 printable calendar](/october-calendars.html).
 
 ## From Halloween to Election Day
 
@@ -306,4 +298,4 @@ The free one-page sheet below marks every date in this story on an October and N
 | Monday, Nov. 2 | Día de los Muertos; All Souls' Day |
 | Tuesday, Nov. 3 | Election Day |
 
-The [All Saints' Day and All Souls' Day guide](/news/all-saints-day-2026-holy-day-of-obligation-all-souls-day/) covers the church side of Nov. 1 and 2. Día de los Muertos opens a busy month: [Diwali](/news/diwali-2026-date-lakshmi-puja-time-usa/) falls on Sunday, Nov. 8 and Veterans Day on Wednesday, Nov. 11, and every date is in our [November 2026 calendar with holidays](/news/november-2026-important-dates-days-until/). The [when is Halloween](/when-is/halloween/) page gives that date for future years.
+The [All Saints' Day and All Souls' Day guide](/news/all-saints-day-2026-holy-day-of-obligation-all-souls-day/) covers the church side of Nov. 1 and 2. Día de los Muertos opens a busy month: [Diwali](/news/diwali-2026-date-lakshmi-puja-time-usa/) fell on Sunday, Nov. 8 and Veterans Day on Wednesday, Nov. 11, and every date is in our [November 2026 calendar with holidays](/news/november-2026-important-dates-days-until/). The [when is Halloween](/when-is/halloween/) page gives that date for future years.

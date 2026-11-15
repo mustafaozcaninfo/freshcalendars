@@ -1,9 +1,9 @@
 ---
 title: "Bucks Schedule November 2026: 16 Games, Cup Games Nov. 6, 13, 25, 27"
-description: "The Bucks schedule for November 2026 lists 16 games, 8 at home and 8 on the road, from Nov. 2 at Minnesota to Nov. 30. CT and ET times plus a printable."
+description: "The Bucks play 16 games in November 2026, 8 at home and 8 away; the next is Sun., Nov. 15 vs. Atlanta, 7 p.m. CT. CT and ET times plus a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bucks schedule November 2026", "Bucks game tonight", "Bucks NBA Cup schedule", "Milwaukee Bucks printable schedule"]
@@ -11,10 +11,11 @@ dateline: "Milwaukee"
 assets:
   scene: sports
   overlay: true
-  kicker: "Bucks · Next game Mon., Nov. 2, 2026"
-  date: "2026-11-02"
-  card: { top: "Bucks at Minnesota", big: "7 p.m. CT", bottom: "First of 16 November games" }
+  kicker: "Bucks · Next game Sun., Nov. 15, 2026"
+  date: "2026-11-14"
+  card: { top: "Atlanta at Bucks", big: "7 p.m. CT", bottom: "8 p.m. ET, no national TV listed" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: bucks-schedule-november-2026
     group: bucks-schedule-2026
     title: "Bucks Schedule, November 2026"
@@ -70,15 +71,15 @@ downloads:
     png: "/news/downloads/bucks-schedule-2026/bucks-schedule-november-2026-ink.png"
     pages: 1
 summary:
-  - "The Bucks' next game is Mon., Nov. 2, 2026, at Minnesota at 7 p.m. CT (8 p.m. ET), per the NBA's schedule dated Aug. 13, 2026."
+  - "The Bucks' next game is Sun., Nov. 15, 2026, at home against Atlanta at 7 p.m. CT (8 p.m. ET), per the NBA's schedule dated Aug. 13, 2026; their Nov. 13 Cup game at Orlando has been played."
   - "The NBA lists 16 Bucks games in November 2026, eight at home and eight on the road, from Nov. 2 to Mon., Nov. 30 against San Antonio."
   - "One November game has a national TV network listed: at Miami on Wed., Nov. 18 on ESPN. The rest show none listed."
-  - "Four games are Emirates NBA Cup group games (Nov. 6, 13, 25 and 27)."
+  - "Four games are Emirates NBA Cup group games: Nov. 6 and 13 (played), then Nov. 25 and 27."
 faq:
   - q: "When is the next Bucks game?"
-    a: "Mon., Nov. 2, 2026, at Minnesota, 7 p.m. CT (8 p.m. ET), according to the NBA's 2026-27 schedule. The Bucks hosted Cleveland on Sat., Oct. 31."
+    a: "Sun., Nov. 15, 2026, at home against Atlanta, 7 p.m. CT (8 p.m. ET), according to the NBA's 2026-27 schedule. No national TV is listed. The Bucks then play at Miami on Wed., Nov. 18, on ESPN."
   - q: "How many Bucks games are in November 2026?"
-    a: "16, according to the NBA's schedule dated Aug. 13, 2026: eight at home and eight on the road. The Bucks play back-to-backs on Tue., Nov. 10 and Wed., Nov. 11, Wed., Nov. 18 and Thu., Nov. 19, and Fri., Nov. 27 and Sat., Nov. 28."
+    a: "16, according to the NBA's schedule dated Aug. 13, 2026: eight at home and eight on the road. The Bucks play back-to-backs on Tue., Nov. 10 and Wed., Nov. 11 (played), Wed., Nov. 18 and Thu., Nov. 19, and Fri., Nov. 27 and Sat., Nov. 28."
   - q: "Which Bucks games are NBA Cup games?"
     a: "Four group games: against Toronto on Fri., Nov. 6, at Orlando on Fri., Nov. 13, against Brooklyn on Wed., Nov. 25 and at Detroit on Fri., Nov. 27."
   - q: "Which Bucks games are on national TV in November?"
@@ -105,9 +106,9 @@ related: [milwaukee-bucks-schedule-december-2026-game-times-tv-printable, celtic
 draft: false
 ---
 
-**The Milwaukee Bucks play at Minnesota on Monday, Nov. 2, 2026, at 7 p.m. Central Time (CT), which is 8 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule.** The NBA lists 16 Bucks games in November, and a one-page printable of all of them is further down.
+**The Milwaukee Bucks' next game is Sunday, Nov. 15, 2026, at home against Atlanta, at 7 p.m. Central Time (CT), which is 8 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule.** The NBA lists 16 Bucks games in November, and a one-page printable of all of them is further down.
 
-The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so Milwaukee fans subtract one hour for CT; the table below gives both. Weekdays are our own calculation. The Bucks' previous game was at home against Cleveland on Saturday, Oct. 31.
+The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so Milwaukee fans subtract one hour for CT; the table below gives both. Weekdays are our own calculation. The schedule PDF carries no scores, and the Bucks' first seven November games, through the Nov. 13 Cup game at Orlando, have been played.
 
 ## Bucks game times and TV for every November game
 
@@ -144,7 +145,7 @@ Each of the Bucks' three November back-to-backs pairs a road game with a home ga
 
 - **Three back-to-backs:** Nov. 10 and 11 (at New York, then home against the LA Lakers), Nov. 18 and 19 (at Miami, then home against Portland), and Nov. 27 and 28 (at Detroit, then home against Oklahoma City).
 - **Two short home stands:** Nov. 6 and 8 at home (Toronto, then Boston), and Nov. 28 and 30 at home (Oklahoma City, then San Antonio).
-- **Two two-game road trips:** at Minnesota on Nov. 2 and at Boston on Nov. 4 to start the month, and at Philadelphia on Nov. 21 and at Toronto on Nov. 23.
+- **Two two-game road trips:** at Minnesota on Nov. 2 and at Boston on Nov. 4 to start the month (played), and at Philadelphia on Nov. 21 and at Toronto on Nov. 23.
 - **Thanksgiving week:** the Bucks host Brooklyn on Wed., Nov. 25 and play at Detroit on Fri., Nov. 27. They have no game on Thanksgiving Day itself, which is Thu., Nov. 26, 2026. Our [Thanksgiving date page](/when-is/thanksgiving/) has the holiday.
 
 Eight home games and eight road games make 16 in all, from Nov. 2 to Nov. 30.

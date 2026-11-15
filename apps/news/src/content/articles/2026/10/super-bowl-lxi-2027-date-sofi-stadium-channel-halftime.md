@@ -3,7 +3,7 @@ title: "Super Bowl 2027: Feb. 14 at SoFi Stadium, Jay-Z Halftime"
 description: "Super Bowl 2027 (LXI) is Feb. 14 at SoFi Stadium on ESPN and ABC. Jay-Z headlines the halftime show; kickoff time is not yet announced. Printable planner."
 type: explainer
 publishedAt: "2026-10-25T17:02:00-04:00"
-updatedAt: "2026-11-05T12:17:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Super Bowl 2027", "Super Bowl LXI date", "where is the Super Bowl 2027", "Super Bowl 2027 channel", "Super Bowl 2027 halftime show"]
@@ -35,8 +35,7 @@ assets:
       - { when: "Plan", what: "Send invitations once the date is official", section: "Party checklist" }
       - { when: "Plan", what: "Make the food and drink list", section: "Party checklist" }
       - { when: "Plan", what: "Check the channel on your TV or app", section: "Party checklist" }
-    note: "Sources: NFL.com (2026-27 important dates); ESPN Press Room; Disney; Apple Music; ABC News Good Morning America (Oct. 27, 2026). Kickoff time not yet announced as of Nov. 1, 2026."
-    inkSaver: true
+    note: "Sources: NFL.com (2026-27 important dates); ESPN Press Room; Disney; Apple Music; ABC News Good Morning America (Oct. 27, 2026). Kickoff time not yet announced as of Nov. 14, 2026."
     description: "One-page Super Bowl LXI planner for February 2027: what the NFL and ESPN have confirmed, dates to watch, and a party checklist."
     alt: "Printable Super Bowl LXI planner for February 2027 with confirmed facts, dates to watch and a party checklist"
 hero:
@@ -72,14 +71,15 @@ sources:
   - title: "ESPN and TelevisaUnivision enter agreement to provide an additional Spanish-language telecast for Super Bowl LXI"
     url: "https://espnpressroom.com/press-release/espn-and-televisaunivision-enter-agreement/"
     publisher: "ESPN Press Room"
-    date: "2026-05-12"
+    date: "2026-11-14"
   - title: "2026-27 National Football League important dates"
     url: "https://www.nfl.com/news/2026-27-national-football-league-important-dates"
     publisher: "NFL"
+    date: "2026-11-14"
   - title: "Super Bowl LXI on Disney+"
     url: "https://thewaltdisneycompany.com/news/super-bowl-disney-plus/"
     publisher: "The Walt Disney Company"
-    date: "2026-10-07"
+    date: "2026-11-14"
   - title: "NFL elevates Pro Bowl selection; AFC-NFC Pro Bowl game will no longer be staged"
     url: "https://www.nfl.com/news/nfl-elevates-pro-bowl-selection-game-s-will-cease-being-contested"
     publisher: "NFL"
@@ -106,18 +106,8 @@ downloads:
     pdf: "/news/downloads/super-bowl-lxi/super-bowl-lxi-planner.pdf"
     png: "/news/downloads/super-bowl-lxi/super-bowl-lxi-planner.png"
     pages: 1
-  - group: "Super Bowl LXI Planner (February 2027) printables"
-    title: "Super Bowl LXI Planner (February 2027) (ink saver)"
-    description: "One-page Super Bowl LXI planner for February 2027: what the NFL and ESPN have confirmed, dates to watch, and a party checklist. Ink-saver version."
-    preview: ../../../../assets/news/super-bowl-lxi/super-bowl-lxi-planner-ink.png
-    alt: "Printable Super Bowl LXI planner for February 2027 with confirmed facts, dates to watch and a party checklist, ink-saver version"
-    pdf: "/news/downloads/super-bowl-lxi/super-bowl-lxi-planner-ink.pdf"
-    png: "/news/downloads/super-bowl-lxi/super-bowl-lxi-planner-ink.png"
-    pages: 1
 draft: false
 ---
-
-<p class="callout"><b>Checked Nov. 1, 2026.</b> Jay-Z announced during Monday Night Football on Oct. 26 that he will headline the halftime show, according to ABC News' Good Morning America. The NFL lists the game for Feb. 14, 2027, and has confirmed the stadium and the network; we will add the kickoff time when the league announces it.</p>
 
 **Super Bowl LXI (61) will be played at SoFi Stadium in Inglewood, California, on Sunday, Feb. 14, 2027, according to the National Football League (NFL) on NFL.com.** ESPN and the American Broadcasting Company (ABC) will air it. Jay-Z will headline the halftime show, he announced during Monday Night Football on Oct. 26, 2026, according to ABC News' Good Morning America. The league has not yet announced the kickoff time.
 
@@ -125,7 +115,7 @@ This page sorts what is confirmed from what is still open, and a one-page planne
 
 ## What has the NFL confirmed about Super Bowl 2027?
 
-NFL.com says Super Bowl LXI "will be played at SoFi Stadium in Inglewood." The table separates confirmed facts from open ones, as of Oct. 31, 2026.
+NFL.com says Super Bowl LXI "will be played at SoFi Stadium in Inglewood." The table separates confirmed facts from open ones, as of Nov. 14, 2026.
 
 | Question | Status | Source |
 |---|---|---|

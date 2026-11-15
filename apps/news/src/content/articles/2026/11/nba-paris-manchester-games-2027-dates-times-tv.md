@@ -35,7 +35,7 @@ sources:
   - title: "2026-27 NBA key dates"
     url: "https://www.nba.com/news/key-dates"
     publisher: "NBA.com"
-    date: "2026-10-28"
+    date: "2026-11-14"
   - title: "Pelicans and Spurs to play regular-season games in Paris and Manchester in 2027"
     url: "https://pr.nba.com/pelicans-spurs-paris-manchester/"
     publisher: "NBA Communications"
@@ -51,6 +51,15 @@ sources:
   - title: "NBA Paris Game 2027 Tickets"
     url: "https://nbaevents.nba.com/paris/en/tickets"
     publisher: "NBA Events"
+    date: "2026-11-14"
+  - title: "NBA Manchester Game 2027 | Tickets & Team Updates"
+    url: "https://nbaevents.nba.com/manchester"
+    publisher: "NBA Events"
+    date: "2026-11-14"
+  - title: "Nuggets defeat Pacers in Mexico City Game"
+    url: "https://www.nba.com/nuggets/news/nuggets-defeat-pacers-in-mexico-city-game"
+    publisher: "NBA.com (Denver Nuggets)"
+    date: "2026-11-07"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -68,7 +77,7 @@ assets:
     group: nba-europe-2027
     title: "NBA Paris and Manchester Games 2027: Tip Times"
     subtitle: "Spurs vs. Pelicans, Jan. 14 and Jan. 17, 2027, in U.S. time zones"
-    note: "Source: NBA.com, 2026-27 NBA key dates (updated Oct. 28, 2026); NBA Communications (May 20, 2026). Paris and Manchester local times are our conversion."
+    note: "Source: NBA.com, 2026-27 NBA key dates (updated Nov. 14, 2026); NBA Communications (May 20, 2026). Paris and Manchester local times are our conversion."
     description: "A one-page sheet with the two NBA Europe games in January 2027, Spurs vs. Pelicans in Paris and Manchester, with tip times in four U.S. time zones and Prime Video."
     alt: "Watch guide for the NBA Paris and Manchester games in January 2027 with tip times by time zone"
     data:
@@ -97,6 +106,7 @@ downloads:
     pdf: "/news/downloads/nba-europe-2027/nba-paris-manchester-games-2027-watch-guide.pdf"
     png: "/news/downloads/nba-europe-2027/nba-paris-manchester-games-2027-watch-guide.png"
     pages: 1
+updatedAt: "2026-11-14T16:59:00-05:00"
 draft: false
 ---
 
@@ -104,7 +114,7 @@ draft: false
 
 ## When are the NBA Paris and Manchester games in 2027?
 
-NBA Communications announced the games on May 20, 2026. The Spurs and Pelicans "will play regular-season games at the Accor Arena in Paris, France, on Thursday, Jan. 14, 2027," and "at Co-op Live in Manchester, England, on Sunday, Jan. 17, 2027." The same two teams play both games, three days apart. NBA.com's key dates, updated Oct. 28, 2026, list the times:
+NBA Communications announced the games on May 20, 2026. The Spurs and Pelicans "will play regular-season games at the Accor Arena in Paris, France, on Thursday, Jan. 14, 2027," and "at Co-op Live in Manchester, England, on Sunday, Jan. 17, 2027." The same two teams play both games, three days apart. NBA.com's key dates, updated Nov. 14, 2026, list the times:
 
 | Game | Date | Teams | Arena | Tip-off (ET) | Streaming |
 |---|---|---|---|---|---|
@@ -128,11 +138,11 @@ NBA.com's key dates list Prime Video for both games. Its "How to watch NBA games
 
 ## Are tickets still available for the NBA Paris Game?
 
-The official NBA Paris Game page says "General Sale tickets are now sold out." The NBA has not published a ticket status for Manchester, so check the arena and league pages.
+The official NBA Paris Game page says "General Sale tickets are now sold out." The NBA Manchester Game page says "General sale tickets to the NBA Manchester Game are sold out!" Premium experience packages are listed on both event pages.
 
 ## Which other NBA game is played abroad this season?
 
-The Denver Nuggets play the Indiana Pacers at an arena in Mexico City on Saturday, Nov. 7, 2026, at 5 p.m. ET on NBA TV, according to NBA.com's key dates; NBA Communications said ESPN carries it in Mexico. The key dates list no London or Berlin regular-season game for 2026-27. Last season the NBA played in Berlin on Jan. 15, 2026, and in London on Jan. 18, 2026.
+The Denver Nuggets beat the Indiana Pacers 114-102 in Mexico City on Saturday, Nov. 7, 2026, according to NBA.com's Nuggets site. The game aired at 5 p.m. ET on NBA TV, and NBA Communications said ESPN carried it in Mexico. The key dates list no London or Berlin regular-season game for 2026-27. Last season the NBA played in Berlin on Jan. 15, 2026, and in London on Jan. 18, 2026.
 
 For the in-season tournament, see our [NBA Cup 2026 schedule](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/) and the [NBA All-Star 2027 schedule in Phoenix](/news/nba-all-star-2027-date-phoenix-rising-stars-schedule/). Our [Spurs schedule for November 2026](/news/san-antonio-spurs-schedule-november-2026-game-times-tv-nba-cup-printable/) covers the team's games before the trip.
 

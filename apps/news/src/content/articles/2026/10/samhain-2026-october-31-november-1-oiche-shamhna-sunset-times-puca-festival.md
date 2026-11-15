@@ -3,7 +3,7 @@ title: "Samhain 2026: Oct. 31 Eve, Nov. 1 Date and Sunset Times"
 description: "Samhain 2026 was Sunday, Nov. 1, with Oíche Shamhna on Saturday, Oct. 31. Dublin sunset on Oct. 31 was 4:55 p.m., London 4:35 p.m., New York 5:53 p.m."
 type: explainer
 publishedAt: "2026-10-30T15:48:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["samhain 2026", "when is samhain 2026", "samhain 2026 date", "puca festival 2026"]
@@ -21,15 +21,15 @@ summary:
   - "Samhain eve, Oíche Shamhna, was Saturday, Oct. 31, 2026, and Samhain was Sunday, Nov. 1. The National Museum of Ireland says it was marked on Nov. 1."
   - "Sunset on Oct. 31, 2026, was 4:55 p.m. in Dublin, 4:35 p.m. in London and 5:53 p.m. in New York, per the U.S. Naval Observatory."
   - "The Púca Festival in Trim and Athboy, County Meath, ran Oct. 29 to Nov. 1, 2026, with its procession in Trim on Friday, Oct. 30."
-  - "Our calculation from U.S. Naval Observatory times puts the astronomical midpoint between the equinox and solstice at about Nov. 6, 2026."
+  - "Our calculation from U.S. Naval Observatory times puts the astronomical midpoint between the equinox and solstice at about Nov. 6, 2026, a week after the date of Samhain."
 faq:
-  - q: "When is Samhain 2026?"
+  - q: "When was Samhain 2026?"
     a: "Samhain was Sunday, Nov. 1, 2026. The eve, Oíche Shamhna, was Saturday, Oct. 31. The National Museum of Ireland says the festival was marked on Nov. 1 and that its eve is still celebrated all over Ireland."
   - q: "Is Samhain the Celtic New Year?"
     a: "The Library of Congress American Folklife Center says it is not as clear today that Samhain marked the beginning of the Celtic year, so this story does not call it that."
-  - q: "When is the Púca Festival 2026?"
+  - q: "When was the Púca Festival 2026?"
     a: "The festival's official site listed Oct. 29 to Nov. 1, 2026. Discover Ireland places it in Trim and Athboy, County Meath."
-  - q: "When is the Samhain fire lit at the Púca Festival?"
+  - q: "When was the Samhain fire lit at the Púca Festival?"
     a: "The festival lists a Lighting of the Samhain Fire, but the date and time are not listed on the official page."
 sources:
   - title: "Traditions and customs of Halloween / Samhain"
@@ -82,7 +82,7 @@ assets:
   overlay: true
   kicker: "Samhain 2026 · Sun., Nov. 1"
   date: "2026-10-31"
-  card: { top: "Oíche Shamhna, Dublin sunset", big: "4:55 p.m.", bottom: "Sat., Oct. 31; Samhain is Sun., Nov. 1" }
+  card: { top: "Oíche Shamhna, Dublin sunset", big: "4:55 p.m.", bottom: "Sat., Oct. 31; Samhain was Sun., Nov. 1" }
   printable:
     slug: samhain-2026-calendar-oct-31-nov-6
     group: samhain-2026
@@ -98,6 +98,7 @@ assets:
       - { when: "Nov. 2 (Monday)", what: "All Souls Day" }
       - { when: "Nov. 6 (Friday)", what: "Astronomical midpoint, about 22:27 UT (our calculation)" }
     note: "Source: National Museum of Ireland; Library of Congress American Folklife Center; U.S. Naval Observatory; Discover Ireland. Midpoint is our calculation from USNO times."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true
     description: "One-page Samhain 2026 calendar from Oct. 29 to Nov. 6 with weekdays, the Dublin sunset on Oíche Shamhna and the astronomical midpoint."
     alt: "Printable Samhain 2026 calendar from Oct. 29 to Nov. 6 with weekdays"
@@ -105,7 +106,7 @@ assets:
 
 Samhain eve, Oíche Shamhna, was **Saturday, Oct. 31, 2026**, and Samhain itself was **Sunday, Nov. 1**; sunset in Dublin on Oct. 31 was 4:55 p.m., per the U.S. Naval Observatory (USNO). The National Museum of Ireland (NMI) says "the festival of Samhain, the first day of winter, was marked on the 1 November," and that the eve, Oíche Shamhna, "is still celebrated all over Ireland with feasting and games."
 
-## When is Samhain 2026?
+## When was Samhain 2026?
 
 Samhain was Sunday, Nov. 1, 2026, and its eve was Saturday, Oct. 31, in line with the NMI's word "eve." The Library of Congress American Folklife Center says Halloween "originated with the Celtic festival known as Samhain in Ireland." The same post says it is "not as clear today that Samhain marked the beginning of the Celtic year," so this story does not call it a Celtic New Year.
 
@@ -136,11 +137,11 @@ The Library of Congress says Hallowmas includes Halloween, All Saints Day (Nov. 
 
 Our story on [All Saints Day 2026](/news/all-saints-day-2026-holy-day-of-obligation-all-souls-day/) covers the Catholic dates, and the [Day of the Dead 2026 dates](/news/day-of-the-dead-2026-dia-de-los-muertos-dates/) story covers a related early-November observance.
 
-## What is the astronomical midpoint after Samhain?
+## What was the astronomical midpoint after Samhain?
 
-USNO lists the September equinox for Sept. 23, 2026, at 00:05 Universal Time (UT) and the December solstice for Dec. 21, 2026, at 20:50 UT. The astronomical midpoint between the two falls at about 22:27 UT on Friday, Nov. 6, 2026, four days after Nov. 2. That is our calculation from USNO times, and it comes about a week after the calendar date of Samhain.
+USNO lists the September equinox for Sept. 23, 2026, at 00:05 Universal Time (UT) and the December solstice for Dec. 21, 2026, at 20:50 UT. The astronomical midpoint between the two fell at about 22:27 UT on Friday, Nov. 6, 2026, four days after Nov. 2. That is our calculation from USNO times, and it came about a week after the calendar date of Samhain.
 
-## What is on at the Púca Festival 2026?
+## What was on at the Púca Festival 2026?
 
 The festival's official site listed Oct. 29 to Nov. 1, 2026, and Discover Ireland places it in Trim and Athboy, County Meath. Discover Ireland listed the Púca Procession in Trim for Friday, Oct. 30, 2026, and said to see the festival website for the time. The festival listed a "Lighting of the Samhain Fire," but its date and time were not listed on the official page.
 

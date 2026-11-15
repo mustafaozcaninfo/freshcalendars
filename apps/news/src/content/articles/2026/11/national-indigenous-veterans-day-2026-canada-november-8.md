@@ -1,9 +1,9 @@
 ---
 title: "Indigenous Veterans Day 2026: Nov. 8 Ceremony Times by City"
-description: "Indigenous Veterans Day ceremonies are Sunday, Nov. 8, 2026: Ottawa at 10:00 a.m., Toronto at 2 p.m., Vancouver at 10:45 a.m. Times by zone, printable."
+description: "Indigenous Veterans Day ceremonies were Sunday, Nov. 8, 2026: Ottawa at 10:00 a.m., Toronto at 2 p.m., Vancouver at 10:45 a.m. Times by zone, printable."
 type: news
 publishedAt: "2026-11-08T06:04:00-05:00"
-updatedAt: "2026-11-08T06:04:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Indigenous Veterans Day 2026", "National Indigenous Veterans Day", "Indigenous Veterans Day Ottawa", "Indigenous Veterans Day Toronto", "Indigenous Veterans Day Vancouver"]
@@ -11,7 +11,7 @@ dateline: "Ottawa"
 hero:
   src: ../../../../assets/news/national-indigenous-veterans-day-2026-canada-november-8/national-indigenous-veterans-day-2026-canada-november-8.webp
   alt: "Bronze monument to Aboriginal war veterans in an Ottawa park, a file photo for Indigenous Veterans Day 2026 on Nov. 8"
-  caption: "File photo of a bronze monument to Aboriginal war veterans in Ottawa. Ceremonies for Indigenous Veterans Day are held on Sunday, Nov. 8, 2026."
+  caption: "File photo of a bronze monument to Aboriginal war veterans in Ottawa. Ceremonies for Indigenous Veterans Day were held on Sunday, Nov. 8, 2026."
   credit: "Photo: Jeangagnon / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -20,19 +20,19 @@ hero:
     author: "Jeangagnon"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Jeangagnon"
 summary:
-  - "Veterans Affairs Canada lists an Indigenous Veterans Day ceremony at the National Indigenous Veterans Monument in Ottawa on Nov. 8, 2026, from 10:00 to 11:30."
-  - "The City of Toronto holds its ceremony at the Spirit Garden on Nathan Phillips Square on Sunday, Nov. 8, at 2 p.m."
-  - "Métis Nation British Columbia lists the Vancouver ceremony at Victory Square for 10:45 a.m. to 1:00 p.m. British Columbia time, which is 12:45 to 3:00 p.m. Eastern Time (ET)."
-  - "Manitoba law names Nov. 8 as Indigenous Veterans Day in that province; no official page read confirms a federal holiday or office closures."
+  - "Veterans Affairs Canada listed an Indigenous Veterans Day ceremony at the National Indigenous Veterans Monument in Ottawa on Nov. 8, 2026, from 10:00 to 11:30."
+  - "The City of Toronto listed its ceremony at the Spirit Garden on Nathan Phillips Square on Sunday, Nov. 8, at 2 p.m."
+  - "Métis Nation British Columbia listed the Vancouver ceremony at Victory Square for 10:45 a.m. to 1:00 p.m. British Columbia time, which is 12:45 to 3:00 p.m. Eastern Time (ET)."
+  - "Manitoba law names Nov. 8 as Indigenous Veterans Day in that province each year; no official page read confirms a federal holiday or office closures."
 faq:
   - q: "Is Indigenous Veterans Day a holiday in Canada?"
     a: "No official source on office, school or federal holiday status for Nov. 8 was found, so none is stated. Manitoba's Indigenous Veterans Day Act sets the name for the day in that province only."
-  - q: "Does the Toronto ceremony include anything besides a ceremony?"
-    a: "The City of Toronto's notice says the event includes a Sacred Fire and a Sharing Circle."
+  - q: "Did the Toronto ceremony include anything besides a ceremony?"
+    a: "The City of Toronto's notice said the event included a Sacred Fire and a Sharing Circle."
   - q: "Who leads the wreath laying in Vancouver?"
-    a: "The Métis Nation British Columbia listing says a Métis wreath is placed by MNBC leaders."
+    a: "The Métis Nation British Columbia listing said a Métis wreath is placed by MNBC leaders."
   - q: "What is the date in 2027?"
-    a: "Not announced. Manitoba's law applies to Manitoba only, and no national official source for 2027 was found."
+    a: "Monday, Nov. 8, 2027, in Manitoba, whose Indigenous Veterans Day Act says \"In each year, November 8 is to be known as Indigenous Veterans Day.\" No national official source for 2027 was found."
   - q: "When did the day start?"
     a: "Sources read for this story disagree on the first year, so it is left out."
 sources:
@@ -109,7 +109,7 @@ assets:
         - { label: "Ottawa ceremony program", why: "no program text found" }
 ---
 
-**National Indigenous Veterans Day ceremonies are listed for Sunday, Nov. 8, 2026, in Ottawa, Toronto and Vancouver, according to Veterans Affairs Canada, the City of Toronto and Métis Nation British Columbia (MNBC).** Start times run from 10:00 a.m. in Ottawa to 2 p.m. in Toronto and 10:45 a.m. in Vancouver, and the zones matter: the Vancouver ceremony runs on British Columbia time, two hours behind Eastern Time (ET).
+**National Indigenous Veterans Day ceremonies were listed for Sunday, Nov. 8, 2026, in Ottawa, Toronto and Vancouver, according to Veterans Affairs Canada, the City of Toronto and Métis Nation British Columbia (MNBC).** Start times run from 10:00 a.m. in Ottawa to 2 p.m. in Toronto and 10:45 a.m. in Vancouver, and the zones mattered: the Vancouver ceremony ran on British Columbia time, two hours behind Eastern Time (ET).
 
 Veterans Affairs Canada lists its Ottawa ceremony as "held in recognition of Indigenous Veterans Day." The agency's pages give Nov. 8 as the event date; the pages read for this story do not spell out "National Indigenous Veterans Day is Nov. 8" in so many words. The Vancouver organizer calls its event the National Indigenous Veterans Day ceremony.
 
@@ -127,7 +127,7 @@ The Veterans Affairs Canada calendar also lists a Toronto event, "Indigenous Vet
 
 ## What is planned at the Toronto and Vancouver ceremonies?
 
-The City of Toronto says it will host a ceremony to commemorate Indigenous Veterans Day on Sunday, Nov. 8, with a Sacred Fire and a Sharing Circle. The Métis Nation British Columbia listing invites people to gather at the Vancouver ceremony and says a Métis wreath is placed by MNBC leaders. No program text was found for the Ottawa ceremony.
+The City of Toronto said it would host a ceremony to commemorate Indigenous Veterans Day on Sunday, Nov. 8, with a Sacred Fire and a Sharing Circle. The Métis Nation British Columbia listing invited people to gather at the Vancouver ceremony and said a Métis wreath is placed by MNBC leaders. No program text was found for the Ottawa ceremony.
 
 ## What does the Defence Team statement say?
 
@@ -135,7 +135,7 @@ The Defence Team Co-Champions for Indigenous Peoples issued a statement on Nov. 
 
 ## Is Nov. 8 a legal day in Manitoba or across Canada?
 
-Manitoba's Bill 223, the Indigenous Veterans Day Act, says: "In each year, November 8 is to be known as Indigenous Veterans Day." That is provincial law and covers Manitoba only. No official source was found on whether federal, provincial or municipal offices close on Nov. 8, or whether the day is a federal statutory holiday, so it states neither.
+Manitoba's Bill 223, the Indigenous Veterans Day Act, says: "In each year, November 8 is to be known as Indigenous Veterans Day." That is provincial law and covers Manitoba only; by its wording the day falls on Monday, Nov. 8, in 2027. No official source was found on whether federal, provincial or municipal offices close on Nov. 8, or whether the day is a federal statutory holiday, so it states neither.
 
 For the days that follow, see the guide to [Remembrance Day 2026 by province](/news/remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk/), the [Poppy Campaign dates](/news/poppy-campaign-2026-canada-dates-october-24-november-11/) and the [Remembrance Sunday 2026 service timings](/news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/) in the UK. The calendar site has [When is Veterans Day?](/when-is/veterans-day/) and the [November 2026 printable calendar](/november-calendars.html).
 
@@ -143,7 +143,7 @@ For the days that follow, see the guide to [Remembrance Day 2026 by province](/n
 
 - The first year the day was observed. Sources read for this story disagree, so none is given.
 - Whether the federal government recognizes the day by statute. Only one secondary source says so, and no official page was read.
-- The date in 2027. Manitoba's law applies to Manitoba only, and no national official source was found.
+- The date in 2027 outside Manitoba. Manitoba's law sets Nov. 8 for that province only, and no national official source was found.
 - Closures of offices and schools on Nov. 8.
 
 The City of Victoria also lists a ceremony page for Nov. 8, but its site blocked automated access and is not used here.

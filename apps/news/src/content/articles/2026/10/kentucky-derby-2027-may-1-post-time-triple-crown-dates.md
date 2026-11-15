@@ -3,6 +3,7 @@ title: "Kentucky Derby 2027 Date: May 1 at About 6:57 p.m. ET"
 description: "Kentucky Derby 2027 is Saturday, May 1, post time about 6:57 p.m. ET. Also the Preakness on May 23, Belmont on June 5 and post times by U.S. time zone."
 type: news
 publishedAt: "2026-10-31T02:55:00-04:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["kentucky derby 2027", "kentucky derby 2027 post time", "triple crown 2027 dates", "preakness 2027"]
@@ -37,6 +38,7 @@ sources:
   - title: "2027 Kentucky Derby & Oaks | April 30 and May 1, 2027"
     url: "https://www.kentuckyderby.com/"
     publisher: "Kentucky Derby"
+    date: "2026-11-14"
   - title: "The Maryland Jockey Club announces changes to 2027 Preakness Week"
     url: "https://www.preakness.com/news/the-maryland-jockey-club-announces-changes-to-2027-preakness-week"
     publisher: "Preakness Stakes"
@@ -44,6 +46,7 @@ sources:
   - title: "Belmont Stakes"
     url: "https://nyra.com/belmont-stakes"
     publisher: "New York Racing Association"
+    date: "2026-11-14"
   - title: "When is the Kentucky Derby 2026? How to watch, post time, TV and streaming info"
     url: "https://www.nbcsports.com/horse-racing/news/when-is-the-kentucky-derby-2026-how-to-watch-post-time-tv-and-streaming-info-schedule-location-date"
     publisher: "NBC Sports"
@@ -77,6 +80,7 @@ assets:
   date: "2027-05-01"
   card: { top: "153rd Kentucky Derby", big: "6:57 p.m. ET", bottom: "Sat., May 1, Churchill Downs" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: triple-crown-2027-calendar
     group: kentucky-derby-2027
     title: "Triple Crown 2027 Calendar: Derby, Preakness, Belmont"
@@ -105,7 +109,7 @@ The official page gives 6:57 p.m. ET as an approximate time, so treat it as a ta
 | Mountain Time (MT) | about 4:57 p.m. |
 | Pacific Time (PT) | about 3:57 p.m. |
 
-The Derby site's page title lists April 30 and May 1, 2027 as the Oaks and Derby days. Our [May 2027 printable calendar](/may-calendars.html) shows where those dates fall.
+The Derby site's page title lists April 30 and May 1, 2027 as the Oaks and Derby days. Its questions and answers say gates open at 9 AM for guests attending the Derby, without naming a zone. Our [May 2027 printable calendar](/may-calendars.html) shows where those dates fall.
 
 ## Triple Crown 2027 dates, tracks and gaps
 
@@ -123,7 +127,7 @@ The Maryland Jockey Club announced changes to Preakness Week on Aug. 5, 2026. Th
 
 ## Where is the 2027 Belmont Stakes?
 
-The New York Racing Association (NYRA) says the 2027 Belmont Stakes "returns home to a brand-new Belmont Park" on Saturday, June 5, 2027. The page used for this story gives the date and the venue, and no post time.
+The New York Racing Association (NYRA) says the 2027 Belmont Stakes "returns home to a brand-new Belmont Park" on Saturday, June 5, 2027. NYRA's page also lists a festival around the race: family four-pack packages are priced for Thursday, June 3, and Friday, June 4, and for Belmont Stakes Day, June 5. It gives backyard general admission for Belmont Stakes Day at $75 and infield general admission at $50. It gives no post time.
 
 ## What channel shows the Derby and Preakness?
 

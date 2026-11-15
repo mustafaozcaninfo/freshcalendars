@@ -3,6 +3,7 @@ title: "California Propositions 2026: All 14 and What Yes or No Means"
 description: "California's Nov. 3, 2026 ballot had 14 propositions, from an $11.25 billion housing bond to voter ID and a one-time billionaire tax. What yes and no mean."
 type: explainer
 publishedAt: "2026-10-20T11:05:00-04:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["California propositions 2026", "California ballot November 2026", "Prop 1 2026 California", "California voter guide 2026", "California sample ballot 2026"]
@@ -11,23 +12,23 @@ hero:
   src: ../../../../assets/news/california-propositions-2026-november-ballot-explained/california-propositions-2026-november-ballot-explained.jpg
   alt: "California propositions 2026: an official ballot with a proposition yes box checked, beside a card reading mailed ballots count if in by Nov. 10"
   title: "California's 14 propositions, Nov. 3, 2026"
-  caption: "California voters decide 14 statewide propositions on Nov. 3, 2026, along with an open race for governor and the rest of the statewide offices."
+  caption: "California voters decided 14 statewide propositions on Nov. 3, 2026, along with an open race for governor and the rest of the statewide offices."
 summary:
-  - "California voters decide 14 statewide propositions on Tuesday, Nov. 3, 2026: five placed by the Legislature and nine citizen initiatives, numbered 1 to 5 and 37 to 45."
+  - "California voters decided 14 statewide propositions on Tuesday, Nov. 3, 2026: five placed by the Legislature and nine citizen initiatives, numbered 1 to 5 and 37 to 45."
   - "They range from an $11.25 billion housing bond (Prop. 1) to a voter ID requirement (Prop. 39) and a one-time tax on billionaires (Prop. 40)."
-  - "Every active voter is mailed a ballot; mailed ballots count if postmarked by Nov. 3 and received by Nov. 10."
-  - "The regular registration deadline passed Oct. 19, but same-day conditional registration is available through Election Day."
+  - "Every active voter was mailed a ballot; mailed ballots counted if postmarked by Nov. 3 and received by Nov. 10."
+  - "Counties keep counting after Election Day, and the Secretary of State says official certified results will be posted by Dec. 11, 2026."
 faq:
   - q: "How many propositions are on the California ballot in 2026?"
-    a: "Fourteen: Propositions 1 through 5, placed by the Legislature, and Propositions 37 through 45, mostly citizen initiatives, according to the Secretary of State's Official Voter Information Guide."
+    a: "Fourteen were on the Nov. 3 ballot: Propositions 1 through 5, placed by the Legislature, and Propositions 37 through 45, mostly citizen initiatives, according to the Secretary of State's Official Voter Information Guide."
   - q: "What is Proposition 1 in California 2026?"
     a: "A $11.25 billion general obligation bond for affordable housing and veterans' housing programs. A yes vote lets the state borrow the money; a no vote does not."
   - q: "What is Prop 40?"
     a: "A one-time 5% tax on the wealth of billionaires, placed as a constitutional amendment and statute. A yes vote imposes the tax; a no vote does not."
-  - q: "When is my California ballot due?"
-    a: "Mailed ballots must be postmarked on or before Nov. 3 and arrive by Nov. 10. You can also drop your ballot at a drop box, vote center or polling place by 8 p.m. on Nov. 3."
-  - q: "Can I still register to vote in California?"
-    a: "Yes. The regular deadline was Oct. 19, but conditional voter registration lets you register and vote a provisional ballot at your county elections office, a vote center or a polling place through 8 p.m. on Election Day."
+  - q: "When will California's final proposition results be official?"
+    a: "The Secretary of State says the official certified results will be posted by Dec. 11, 2026. Until then, the results site is updated as counties count the remaining ballots."
+  - q: "What was the ballot deadline in California?"
+    a: "Mailed ballots had to be postmarked on or before Nov. 3 and arrive by Nov. 10. Ballots could also be returned to a drop box, vote center or polling place by 8 p.m. on Nov. 3."
   - q: "Is there a U.S. Senate race in California in 2026?"
     a: "No. California's Senate seats are next on the ballot in 2028 and 2030. The 2026 ballot has the governor's race, the other statewide offices, all 52 House seats and legislative races."
 sources:
@@ -43,6 +44,10 @@ sources:
   - title: "Same Day Voter Registration (Conditional Voter Registration)"
     url: "https://www.sos.ca.gov/elections/voter-registration/same-day-reg"
     publisher: "California Secretary of State"
+  - title: "Election Results (Official Voter Information Guide)"
+    url: "https://voterguide.sos.ca.gov/voter-info/election-results.htm"
+    publisher: "California Secretary of State"
+    date: "2026-11-14"
   - title: "Governor Newsom issues proclamation declaring California's 2026 General Election"
     url: "https://www.gov.ca.gov/2026/06/08/governor-newsom-issues-proclamation-declaring-californias-2026-general-election/"
     publisher: "Office of the Governor of California"
@@ -66,7 +71,7 @@ downloads:
 draft: false
 ---
 
-**California voters decide 14 statewide propositions on Tuesday, Nov. 3, 2026**, according to the Secretary of State's Official Voter Information Guide. Five were placed on the ballot by the Legislature and are numbered 1 through 5; the other nine, numbered 37 through 45, qualified mostly by petition. The same ballot carries an open race for governor, because Gavin Newsom is term-limited, and every other statewide executive office.
+**California voters decided 14 statewide propositions on Tuesday, Nov. 3, 2026**, according to the Secretary of State's Official Voter Information Guide. Five were placed on the ballot by the Legislature and are numbered 1 through 5; the other nine, numbered 37 through 45, qualified mostly by petition. The same ballot carried an open race for governor, because Gavin Newsom is term-limited, and every other statewide executive office.
 
 ## All 14 propositions at a glance
 
@@ -91,7 +96,7 @@ Each proposition passes with a simple majority of the votes cast on it.
 
 ## What a yes or no vote means
 
-These summaries follow the quick-reference guide in the official voter guide.
+The results are still being counted. The Secretary of State says the official certified results will be posted by Dec. 11, 2026, at sos.ca.gov/elections, and daily updates run on electionresults.sos.ca.gov until then. These summaries follow the quick-reference guide in the official voter guide.
 
 **Prop. 1, housing bonds.** Yes: the state may borrow $11.25 billion for affordable housing and veterans' housing programs. No: it may not.
 
@@ -125,20 +130,18 @@ Several measures overlap. Props. 3, 40, 41, 42 and 43 all deal with taxes, and P
 
 ## Statewide offices on the ballot
 
-Governor, lieutenant governor, attorney general, secretary of state, controller, treasurer, insurance commissioner and superintendent of public instruction are all on the ballot, along with all 52 U.S. House seats, which use new district lines approved by voters in Proposition 50 in November 2025. There is no U.S. Senate race in California this year. Under the top-two primary system, the two highest finishers in the June primary advanced regardless of party; your county sample ballot lists the certified candidates.
+Governor, lieutenant governor, attorney general, secretary of state, controller, treasurer, insurance commissioner and superintendent of public instruction were all on the ballot, along with all 52 U.S. House seats, which use new district lines approved by voters in Proposition 50 in November 2025. There was no U.S. Senate race in California this year. Under the top-two primary system, the two highest finishers in the June primary advanced regardless of party; your county sample ballot lists the certified candidates.
 
-## Key dates and how to vote
+## Key dates
 
 | Date | What |
 |---|---|
 | Oct. 5 | Ballots mailed to every active registered voter |
-| Oct. 19 | Regular registration deadline (passed) |
-| Through Nov. 3, 8 p.m. | Conditional (same-day) registration at county offices, vote centers and polling places |
-| Nov. 3, 7 a.m.-8 p.m. | Polls, vote centers and drop boxes open |
+| Oct. 19 | Regular registration deadline |
+| Nov. 3, 7 a.m.-8 p.m. | Polls, vote centers and drop boxes open; conditional (same-day) registration through 8 p.m. |
 | Nov. 10 | Last day for a ballot postmarked by Nov. 3 to arrive |
+| By Dec. 11 | Official certified results posted by the Secretary of State |
 
-Mailed ballots must be postmarked on or before Election Day and received within seven days. You can track your ballot with the state's Where's My Ballot service. Most voters do not need ID at the polls; first-time voters who registered without a driver's license or Social Security number may be asked for identification, and many documents count.
+Mailed ballots had to be postmarked on or before Election Day and received within seven days. Counties count ballots for up to 30 days after the election, so close races take time; see our [midterm guide](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/). For deadlines in other states, see [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/), and to look up your exact ballot by address, use our [sample ballot guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/).
 
-Counties count ballots for up to 30 days after the election, so close races can take time; see our [midterm guide](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/). For deadlines in other states, see [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/), and to look up your exact ballot by address, use our [sample ballot guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/).
-
-Print the one-page checklist below to mark your choices on all 14 propositions, and add the dates to our [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars or a [weekly planner](/printable-weekly-calendar.html).
+Print the one-page checklist below to review all 14 propositions, and add the dates to our [October](/october-calendars.html) and [November](/november-calendars.html) printable calendars or a [weekly planner](/printable-weekly-calendar.html).

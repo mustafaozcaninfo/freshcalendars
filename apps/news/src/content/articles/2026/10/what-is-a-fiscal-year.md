@@ -3,6 +3,7 @@ title: "What Is a Fiscal Year? Federal Year Runs Oct. 1 to Sept. 30"
 description: "A fiscal year is 12 months ending on the last day of any month but December. The U.S. federal year runs Oct. 1 to Sept. 30; 2027 quarter dates in a table."
 type: explainer
 publishedAt: "2026-10-30T08:22:00-04:00"
+updatedAt: "2026-11-14T17:01:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["what is a fiscal year", "fiscal year vs calendar year", "fiscal quarters", "federal fiscal year", "fiscal year dates"]
@@ -42,10 +43,10 @@ sources:
     url: "https://www.irs.gov/businesses/small-businesses-self-employed/tax-years"
     publisher: "Internal Revenue Service"
     date: "2026-10-30"
-  - title: "States Finalize Fiscal 2026 Budgets Amid Tightening Conditions"
-    url: "https://community.nasbo.org/budgetblogs/blogs/brian-sigritz/2025/07/01/states-finalize-fiscal-2026-budgets-amid-tightenin"
+  - title: "States Enact Fiscal 2027 Budgets Amid Continued Fiscal Constraints"
+    url: "https://community.nasbo.org/blogs/brian-sigritz/2026/07/01/states-enact-fiscal-2027-budgets-amid-continued-fi"
     publisher: "National Association of State Budget Officers"
-    date: "2025-07-01"
+    date: "2026-07-01"
   - title: "Public sector finances glossary"
     url: "https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/methodologies/publicsectorfinancesglossary"
     publisher: "Office for National Statistics"
@@ -58,10 +59,14 @@ sources:
     url: "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/aapl-20250927.htm"
     publisher: "U.S. Securities and Exchange Commission"
     date: "2025-10-31"
-  - title: "Microsoft Corporation Form 10-K for the fiscal year ended June 30, 2025"
-    url: "https://www.sec.gov/Archives/edgar/data/789019/000095017025100235/msft-20250630.htm"
+  - title: "Microsoft Corporation Form 10-K for the fiscal year ended June 30, 2026"
+    url: "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm"
     publisher: "U.S. Securities and Exchange Commission"
-    date: "2025-07-30"
+    date: "2026-07-29"
+  - title: "Apple Inc. Form 10-K for the fiscal year ended September 26, 2026"
+    url: "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/aapl-20260926.htm"
+    publisher: "U.S. Securities and Exchange Commission"
+    date: "2026-11-03"
   - title: "4-5-4 Calendar"
     url: "https://nrf.com/resources/4-5-4-calendar"
     publisher: "National Retail Federation"
@@ -81,14 +86,6 @@ downloads:
     alt: "Printable list of Q1 to Q4 dates for four kinds of year in 2027"
     pdf: "/news/downloads/fiscal-year-2027/fiscal-year-quarter-dates-2027.pdf"
     png: "/news/downloads/fiscal-year-2027/fiscal-year-quarter-dates-2027.png"
-    pages: 1
-  - group: "Fiscal Year 2027 Quarter Dates Reference printables"
-    title: "Fiscal Year 2027 Quarter Dates Reference (ink saver)"
-    description: "One-page list of fiscal quarter dates for the U.S. federal year, a July 1 state year, calendar year 2027 and the UK April-to-March year. Ink-saver version."
-    preview: ../../../../assets/news/fiscal-year-2027/fiscal-year-quarter-dates-2027-ink.png
-    alt: "Printable list of Q1 to Q4 dates for four kinds of year in 2027, ink-saver version"
-    pdf: "/news/downloads/fiscal-year-2027/fiscal-year-quarter-dates-2027-ink.pdf"
-    png: "/news/downloads/fiscal-year-2027/fiscal-year-quarter-dates-2027-ink.png"
     pages: 1
 related: [how-many-business-days-in-a-year, nrf-4-5-4-calendar-2027-fiscal-year-dates-53-week-year-2028-printable, calendar-quarters-2027-q1-q4-dates-days]
 assets:
@@ -118,8 +115,8 @@ assets:
       - ["July to September 2026", "UK financial year starting April 2026, Q2"]
       - ["October to December 2026", "UK financial year starting April 2026, Q3"]
       - ["January to March 2027", "UK financial year starting April 2026, Q4"]
-    note: "Source: 31 U.S.C. 1102; IRS, Tax years; NASBO (July 1, 2025); UK Office for National Statistics. Quarters are three-month blocks (our split); day counts are our calculation."
-    inkSaver: true
+    note: "Source: 31 U.S.C. 1102; IRS, Tax years; NASBO (July 1, 2026); UK Office for National Statistics. Quarters are three-month blocks (our split); day counts are our calculation."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "One-page list of fiscal quarter dates for the U.S. federal year, a July 1 state year, calendar year 2027 and the UK April-to-March year."
     alt: "Printable list of Q1 to Q4 dates for four kinds of year in 2027"
 ---
@@ -134,12 +131,12 @@ The IRS describes a calendar year as 12 consecutive months beginning January 1 a
 |---|---|---|
 | Calendar year | Jan. 1 to Dec. 31 | IRS, Tax years |
 | U.S. federal fiscal year | Oct. 1 to Sept. 30 | 31 U.S.C. 1102 |
-| State fiscal year (46 states) | July 1 start | National Association of State Budget Officers (NASBO), July 1, 2025 |
+| State fiscal year (46 states) | July 1 start | National Association of State Budget Officers (NASBO), July 1, 2026 |
 | United Kingdom (UK) financial year | April to March | Office for National Statistics (ONS) |
-| Microsoft fiscal year | Ended June 30, 2025 | Microsoft Form 10-K |
-| Apple fiscal year | 52 or 53 weeks, ending the last Saturday of September | Apple Form 10-K |
+| Microsoft fiscal year | Ended June 30, 2026 | Microsoft Form 10-K |
+| Apple fiscal year | 52 or 53 weeks, ending the last Saturday of September; the 2026 year ended Sept. 26, 2026 | Apple Form 10-K |
 
-NASBO wrote on July 1, 2025 that "forty-six states begin their fiscal year on July 1." That sentence is about the 2026 budget cycle, and we do not name the other four states here. Companies pick their own year: Microsoft's annual report reads "For the Fiscal Year Ended June 30, 2025," and Apple's covers "the fiscal year ended September 27, 2025." Each company's label names the year by the date it ends.
+NASBO wrote on July 1, 2026 that "Forty-six states begin their fiscal year on July 1." It names the other four: New York begins on April 1, Texas on September 1, and Alabama and Michigan on October 1. Companies pick their own year: Microsoft's latest annual report, filed July 29, 2026, covers the fiscal year ended June 30, 2026, and Apple's, filed Nov. 3, 2026, covers the fiscal year ended Sept. 26, 2026, according to the Securities and Exchange Commission (SEC) filing records. Each company's label names the year by the date it ends.
 
 ## How the federal fiscal year is dated, 2026 to 2030
 

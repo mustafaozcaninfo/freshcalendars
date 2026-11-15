@@ -3,7 +3,7 @@ title: "Thanksgiving Meal Deals 2026: Aldi Under $39, Lidl, Target, Sam's Club"
 description: "Aldi's Thanksgiving meal for 10 is under $39 in 2026. Compare Aldi, Lidl, Target and Sam's Club prices, servings and sale dates, with a printable calendar."
 type: news
 publishedAt: "2026-10-28T01:47:00-04:00"
-updatedAt: "2026-11-03T23:25:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Thanksgiving meal deals 2026", "Aldi Thanksgiving meal 2026", "Target $30 Thanksgiving meal", "Lidl Thanksgiving basket 2026", "Sam's Club Thanksgiving meal 2026"]
@@ -21,16 +21,16 @@ hero:
     author: "Helena Jacoba"
     authorUrl: "https://www.flickr.com/people/69302634@N02"
 summary:
-  - "Sam's Club's Member's Mark Thanksgiving meal goes on sale Wednesday, Oct. 28, 2026: 11 items for about $160, serving up to 16 people, for less than $10 per person."
-  - "Aldi's meal for 10 is under $39 (prices run Oct. 14 through Nov. 25), Target's $30 meal for six runs Nov. 8 through Nov. 29, and Lidl's $35.86 basket for up to 10 runs Nov. 11 through Nov. 25."
+  - "Sam's Club's Member's Mark Thanksgiving meal went on sale Wednesday, Oct. 28, 2026: 11 items for about $160, serving up to 16 people, for less than $10 per person."
+  - "Aldi's meal for 10 is under $39 (prices run Oct. 14 through Nov. 25), Target's $30 meal for six started Nov. 8 and runs through Nov. 29, and Lidl's $35.86 basket for up to 10 started Nov. 11 and runs through Nov. 25."
   - "By our math the announced prices work out to about $10 per person at Sam's Club, under $3.90 at Aldi, $3.59 at Lidl and $5 at Target, before tax."
   - "Walmart's $35 Holiday Meal Basket serves 10 ($3.50 per person) through Dec. 24, 2026, and Amazon Grocery's $25 Thanksgiving meal runs through Nov. 26; Kroger has not announced a 2026 meal."
 faq:
-  - q: "When does the Sam's Club Thanksgiving meal go on sale in 2026?"
-    a: "Wednesday, Oct. 28, 2026. Sam's Club said members can shop for the meal in the club or online starting that day, and add it to their cart with a single click."
+  - q: "When did the Sam's Club Thanksgiving meal go on sale in 2026?"
+    a: "Wednesday, Oct. 28, 2026. Sam's Club said members can shop for the meal in the club or online from that day, and add it to their cart with a single click."
   - q: "How much is the Aldi Thanksgiving meal in 2026?"
-    a: "Under $39 for a meal for 10, or less than $4 per person, Aldi said on Oct. 14. Prices run Oct. 14 through Nov. 25, 2026. The turkey is available Nov. 4."
-  - q: "When does Target's $30 Thanksgiving meal start?"
+    a: "Under $39 for a meal for 10, or less than $4 per person, Aldi said on Oct. 14. Prices run Oct. 14 through Nov. 25, 2026. The turkey became available Nov. 4."
+  - q: "When did Target's $30 Thanksgiving meal start?"
     a: "Sunday, Nov. 8, 2026. Target's meal for six is $30, with prices valid through Nov. 29. The offer is not valid in Alaska or Hawaii."
   - q: "When is Lidl's Thanksgiving basket available?"
     a: "From Nov. 11 through Nov. 25, 2026, for $35.86. Lidl said the meal deal runs Nov. 11 to 25 for Lidl Plus members."
@@ -86,7 +86,7 @@ assets:
   overlay: true
   kicker: "Thanksgiving meal deals · 2026"
   date: "2026-10-28"
-  card: { top: "Sam's Club meal on sale", big: "Wed., Oct. 28", bottom: "Aldi, Target and Lidl deals follow" }
+  card: { top: "Six Thanksgiving meal deals", big: "Thu., Nov. 26", bottom: "Aldi and Lidl deals end Nov. 25" }
   printable:
     kit: fact-table
     slug: thanksgiving-meal-deals-2026-fact-table
@@ -124,7 +124,7 @@ downloads:
 draft: false
 ---
 
-**Sam's Club's 2026 Member's Mark Thanksgiving meal went on sale Wednesday, Oct. 28, 2026: 11 items for about $160, serving up to 16 people, for less than $10 per person, in clubs and online, according to Sam's Club.** Five more deals are in play. Walmart's $35 Holiday Meal Basket for 10 and Amazon Grocery's $25 meal are available now. Aldi's meal for 10 at under $39 is also on, Target's $30 meal for six starts Sunday, Nov. 8, and Lidl's $35.86 basket starts Wednesday, Nov. 11. Below: all six side by side, the dates each deal is live, and a printable calendar. For the holiday date itself, see [when is Thanksgiving](/when-is/thanksgiving/); it falls on Thursday, Nov. 26, 2026.
+**Sam's Club's 2026 Member's Mark Thanksgiving meal went on sale Wednesday, Oct. 28, 2026: 11 items for about $160, serving up to 16 people, for less than $10 per person, in clubs and online, according to Sam's Club.** Five more deals are in play. Walmart's $35 Holiday Meal Basket for 10, Amazon Grocery's $25 meal and Aldi's meal for 10 at under $39 are all available, Target's $30 meal for six started Sunday, Nov. 8, and Lidl's $35.86 basket started Wednesday, Nov. 11. Below: all six side by side, the dates each deal is live, and a printable calendar. For the holiday date itself, see [when is Thanksgiving](/when-is/thanksgiving/); it falls on Thursday, Nov. 26, 2026.
 
 ## How do the six Thanksgiving meals compare?
 
@@ -166,7 +166,7 @@ The items differ, so the per-person price is a guide and not a like-for-like com
 | Nov. 30 | Monday | Walmart's free Express Delivery on the basket ends |
 | Dec. 24 | Thursday | Walmart basket prices valid through this day |
 
-Aldi said the turkey, cranberries and pumpkin pie mix prices are effective until Nov. 25. Sam's Club did not give an end date in its release. Amazon's offer runs through Nov. 26, while supplies last. Because Aldi's turkey arrives Nov. 4 and Lidl's basket starts Nov. 11, a shopper planning a frozen bird should also check when to start thawing it; our [turkey thawing guide](/news/when-to-thaw-thanksgiving-turkey-2026/) has the dates.
+Aldi said the turkey, cranberries and pumpkin pie mix prices are effective until Nov. 25. Sam's Club did not give an end date in its release. Amazon's offer runs through Nov. 26, while supplies last. Because Aldi's turkey arrived Nov. 4 and Lidl's basket started Nov. 11, a shopper planning a frozen bird should also check when to start thawing it; our [turkey thawing guide](/news/when-to-thaw-thanksgiving-turkey-2026/) has the dates.
 
 ## Which stores are covered, and which have not announced?
 

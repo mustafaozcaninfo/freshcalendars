@@ -3,7 +3,7 @@ title: "Northern Lights UK Nov. 1: Scotland Aurora Chance, Darkness Times"
 description: "The Met Office gave a chance of aurora over northern Scotland on Sunday 1 November 2026. Darkness times for eight UK cities and that night's forecast."
 type: news
 publishedAt: "2026-11-01T12:42:00-05:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["northern lights uk tonight", "aurora borealis uk", "northern lights scotland tonight", "met office aurora forecast"]
@@ -58,6 +58,10 @@ sources:
     url: "https://services.swpc.noaa.gov/text/3-day-forecast.txt"
     publisher: "NOAA Space Weather Prediction Center"
     date: "2026-11-01"
+  - title: "Daily Geomagnetic Data"
+    url: "https://services.swpc.noaa.gov/text/daily-geomagnetic-indices.txt"
+    publisher: "NOAA Space Weather Prediction Center"
+    date: "2026-11-14"
   - title: "Phases of the Moon"
     url: "https://aa.usno.navy.mil/data/MoonPhases"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
@@ -78,6 +82,7 @@ assets:
     group: uk-aurora-2026
     title: "UK Aurora Watch, 1-3 November 2026"
     subtitle: "Darkness times in GMT for northern UK cities and the Met Office outlook"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Sun., Nov. 1", "Met Office: chance of aurora in northern Scotland where skies are clear"]
       - ["Sun., Nov. 1", "Lerwick: sunset 16:09, dark 18:32 to 05:05 GMT"]
@@ -152,7 +157,9 @@ That G1 period was the 00:00 to 03:00 UTC block on 1 November, which had ended b
 | Tue. 3 Nov | 18:00-21:00 | 1.67 |
 | Tue. 3 Nov | 21:00-00:00 | 1.33 |
 
-Source: SWPC 3-Day Forecast issued 1 November 2026, 12:30 UTC. Forecasts change, so check the Met Office page for the current outlook. Neither agency promised a sighting.
+Source: SWPC 3-Day Forecast issued 1 November 2026, 12:30 UTC. Neither agency promised a sighting.
+
+After the night, NOAA's daily geomagnetic data gave an estimated planetary Kp of 3.00 for 18:00-21:00 UTC and 2.00 for 21:00-00:00 UTC on 1 November, against forecasts of 2.67 for both. On 2 November the same two blocks were 1.00 and 0.33. The data gives no sighting reports, so it cannot say whether anyone saw aurora.
 
 ## When was aurora activity expected to fade after 1 November?
 

@@ -3,7 +3,7 @@ title: "Japan Series 2026 Results: SoftBank Sweeps DeNA 4-0"
 description: "SoftBank swept DeNA 4-0 to win the 2026 Japan Series, taking Game 4 by 4-2 on Oct. 28 at 5 a.m. ET. Results and game times in U.S. time."
 type: news
 publishedAt: "2026-10-28T05:41:00-04:00"
-updatedAt: "2026-10-28T07:45:00-04:00"
+updatedAt: "2026-11-14T17:07:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Japan Series 2026 schedule", "SoftBank vs DeNA", "Japan Series game times US", "Nippon Series 2026"]
@@ -22,7 +22,7 @@ hero:
 summary:
   - "The Fukuoka SoftBank Hawks beat the Yokohama DeNA BayStars 4-2 in Game 4 on Wednesday, Oct. 28, 2026, at Mizuho PayPay Dome Fukuoka, Nippon Professional Baseball (NPB) says."
   - "SoftBank swept the best-of-seven Japan Series 4-0. NPB lists it as the club's second straight title and its 13th."
-  - "Game 4 began at 6 p.m. Japan Standard Time (JST), 5 a.m. Eastern Time (ET). Games 5 to 7, set for Oct. 29, Oct. 31 and Nov. 1, are not needed."
+  - "Game 4 began at 6 p.m. Japan Standard Time (JST), 5 a.m. Eastern Time (ET). Games 5 to 7, set for Oct. 29, Oct. 31 and Nov. 1, were not needed."
 faq:
   - q: "Who won the 2026 Japan Series?"
     a: "The Fukuoka SoftBank Hawks won, sweeping the Yokohama DeNA BayStars 4-0. They clinched it with a 4-2 win in Game 4 on Wednesday, Oct. 28, 2026, NPB says."
@@ -83,13 +83,13 @@ downloads:
 draft: false
 ---
 
-SoftBank won Game 4, 4-2, and swept the series 4-0. Games 5 to 7 will not be played. The schedule and times below are kept as a record.
+SoftBank won Game 4, 4-2, and swept the series 4-0. Games 5 to 7 were not played. The schedule and times below are kept as a record.
 
 **The Fukuoka SoftBank Hawks won the 2026 Japan Series on Wednesday, Oct. 28, beating the Yokohama DeNA BayStars 4-2 in Game 4 at Mizuho PayPay Dome Fukuoka, according to Nippon Professional Baseball (NPB).** Game 4 began at 6 p.m. Japan Standard Time (JST), which was 5 a.m. Eastern Time (ET). SoftBank swept the best-of-seven series 4-0, and NPB lists it as the club's second straight title and its 13th.
 
 ## What is the Japan Series 2026 schedule?
 
-NPB lists the games below on its page for the series, which Sumitomo Mitsui Banking Corporation (SMBC) sponsors. Games 5 to 7 were to be played only if needed, and the series ended when SoftBank won its fourth game. There are no games on Oct. 26 or Oct. 30. NPB does not list start times for Games 1 to 3 on the page we used.
+NPB lists the games below on its page for the series, which Sumitomo Mitsui Banking Corporation (SMBC) sponsors. Games 5 to 7 were to be played only if needed, and the series ended when SoftBank won its fourth game. There were no games on Oct. 26 or Oct. 30. NPB did not list start times for Games 1 to 3 on the page we used.
 
 | Game | Date | Place | Start (JST) | Status |
 |---|---|---|---|---|
@@ -103,7 +103,7 @@ NPB lists the games below on its page for the series, which Sumitomo Mitsui Bank
 
 ## What time are the Japan Series games in U.S. time zones?
 
-JST is Coordinated Universal Time (UTC) plus 9 hours (UTC+9). The columns below are our conversion, not an official schedule; only Game 4 was played. Games 4 to 6 fell while U.S. daylight time is still in effect, so the zones are Eastern Daylight Time (EDT), Central Daylight Time (CDT), Mountain Daylight Time (MDT) and Pacific Daylight Time (PDT). The United Kingdom has been on Greenwich Mean Time (GMT) since Oct. 25.
+JST is Coordinated Universal Time (UTC) plus 9 hours (UTC+9). The columns below are our conversion, not an official schedule; only Game 4 was played. Games 4 to 6 fell while U.S. daylight time was still in effect, so the zones are Eastern Daylight Time (EDT), Central Daylight Time (CDT), Mountain Daylight Time (MDT) and Pacific Daylight Time (PDT). The United Kingdom had been on Greenwich Mean Time (GMT) since Oct. 25.
 
 | Game | Japan (JST) | Eastern | Central | Mountain | Pacific | UK (GMT) |
 |---|---|---|---|---|---|---|
@@ -122,7 +122,7 @@ Our [daylight saving time ends Nov. 1, 2026](/news/daylight-saving-time-ends-nov
 
 ## How did SoftBank win the series?
 
-The Pacific League's SoftBank Hawks are in their 23rd Japan Series, NPB says. The Central League's DeNA BayStars are in their fifth. The Fukuoka SoftBank Hawks said on Oct. 16, 2026, that it had won the Pacific League Climax Series.
+The Pacific League's SoftBank Hawks played in their 23rd Japan Series, NPB says. The Central League's DeNA BayStars played in their fifth. The Fukuoka SoftBank Hawks said on Oct. 16, 2026, that it had won the Pacific League Climax Series.
 
 NPB's results show SoftBank winning all four games:
 
@@ -133,7 +133,7 @@ NPB's results show SoftBank winning all four games:
 
 NPB's daily report for Game 3 says the series was the first in Japan Series history to open with three straight extra-inning games.
 
-In 2025, SoftBank won the Japan Series 4-1 over the Hanshin Tigers, clinching Game 5 on Oct. 30, 2025, 3-2 at Hanshin Koshien Stadium. NPB lists it as SoftBank's 12th title and the first in five years, The 2026 sweep gives the Hawks back-to-back titles.
+In 2025, SoftBank won the Japan Series 4-1 over the Hanshin Tigers, clinching Game 5 on Oct. 30, 2025, 3-2 at Hanshin Koshien Stadium. NPB lists it as SoftBank's 12th title and the first in five years, The 2026 sweep gave the Hawks back-to-back titles.
 
 ## Where could you watch the Japan Series?
 
@@ -145,7 +145,7 @@ NPB's page lists these Japan broadcasts, and says all games stream free live on 
 | 5 | TV Asahi | Abema, TVer |
 | 6 and 7 | Tokyo Broadcasting System (TBS) | U-Next, TVer |
 
-NPB has not listed a broadcast for viewers outside Japan on the page we used, so we do not name a channel in the United States. NPB's English page, [npb.jp/eng](https://npb.jp/eng/), is where to look for any update.
+NPB did not list a broadcast for viewers outside Japan on the page we used, so we do not name a channel in the United States.
 
 ## Free Japan Series 2026 results sheet
 

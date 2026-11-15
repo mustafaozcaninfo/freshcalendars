@@ -1,9 +1,9 @@
 ---
 title: "Election Night 2026 Map: Results for 35 Senate, 36 Governor Races"
-description: "Election night 2026 results map for the Nov. 3 midterms. Tables for all 35 Senate and 36 governor races; a race is called only when two outlets call it."
+description: "Election night 2026 results map for the Nov. 3 midterms: tables for all 35 Senate and 36 governor races, each called only when two outlets call it."
 type: news
 publishedAt: "2026-11-03T12:48:00-05:00"
-updatedAt: "2026-11-04T00:20:33-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 featuredUntil: "2026-11-04T06:00:00-05:00"
 authors: [christina-gerland]
 category: elections
@@ -11,7 +11,7 @@ keywords: ["election night 2026 live blog", "2026 election results map", "electi
 hero:
   src: ../../../../assets/news/election-day-2026-results-map/election-day-2026-results-map.webp
   alt: "Voting booths at a polling station in Washington, D.C., a file photo for the Election Night 2026 live blog and results map"
-  caption: "File photo: voting booths at a polling station in Washington, D.C., on Nov. 5, 2024. Polls close on Nov. 3, 2026 from 6 p.m. Eastern Time."
+  caption: "File photo: voting booths at a polling station in Washington, D.C., on Nov. 5, 2024. Polls closed on Nov. 3, 2026 from 6 p.m. Eastern Time."
   credit: "Photo: oscepa / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -19,25 +19,25 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Voting_booths_at_a_polling_station_in_Washington_DC,_5_Nov._2024.jpg"
     author: "oscepa"
 summary:
-  - "Polls close from 6 p.m. Eastern Time (ET) in most of Indiana and Kentucky to 1 a.m. ET in Alaska's Aleutian Islands on Tuesday, Nov. 3, 2026; by 8 p.m. ET most polls will have closed in states holding 272 of the 435 U.S. House seats."
-  - "The ballot holds 35 of 100 Senate seats, all 435 House seats and 36 governorships. Counting the 65 Senate seats not on the ballot, Democrats need 17 of the 35 and Republicans 19 for control, arithmetic from Senate.gov and not a forecast."
+  - "Polls closed from 6 p.m. Eastern Time (ET) in most of Indiana and Kentucky to 1 a.m. ET in Alaska's Aleutian Islands on Tuesday, Nov. 3, 2026; by 8 p.m. ET polls had closed in states holding 272 of the 435 U.S. House seats."
+  - "The ballot held 35 of 100 Senate seats, all 435 House seats and 36 governorships. Counting the 65 Senate seats not on the ballot, Democrats needed 17 of the 35 and Republicans 19 for control, arithmetic from Senate.gov and not a forecast."
   - "This page marks a race called only when two named news organizations have called it or the state election office has declared the winner; state and county election offices publish the official counts."
   - "It carries a state-by-state results map, tables for all 35 Senate and 36 governor races, and a link to the election office of every state."
 faq:
-  - q: "When do the first 2026 election results come in?"
-    a: "Polls begin closing at 6 p.m. Eastern Time (ET) in most of Indiana and Kentucky on Nov. 3. Results follow as each state's polls close, and no state releases results before its own polls close. Arizona's counties plan to post first results at 8 p.m. Arizona time, which is 10 p.m. ET, Cronkite News and Votebeat report."
-  - q: "What is being decided on Election Day 2026?"
-    a: "Voters elect all 435 U.S. House members, 35 of 100 U.S. senators (33 regular seats plus special elections in Ohio and Florida) and 36 governors, along with state legislators, other state officials and statewide ballot measures. The races on your own ballot depend on your state, district and county."
-  - q: "How many seats does each party need to control the House and Senate?"
-    a: "A House majority is 218 of 435 seats. A Senate majority is 51 of 100; at 50-50, the vice president, JD Vance, a Republican, breaks ties. Because 65 seats are not on the ballot, Democrats need 17 of the 35 seats up and Republicans need 19, by arithmetic from the seats senators hold today."
+  - q: "When did the first 2026 election results come in?"
+    a: "Polls began closing at 6 p.m. Eastern Time (ET) in most of Indiana and Kentucky on Nov. 3. Results followed as each state's polls closed, and no state released results before its own polls closed. Arizona's counties planned to post first results at 8 p.m. Arizona time, which is 10 p.m. ET, Cronkite News and Votebeat reported."
+  - q: "What was decided on Election Day 2026?"
+    a: "Voters chose all 435 U.S. House members, 35 of 100 U.S. senators (33 regular seats plus special elections in Ohio and Florida) and 36 governors, along with state legislators, other state officials and statewide ballot measures. The races on each ballot depended on the voter's state, district and county."
+  - q: "How many seats did each party need to control the House and Senate?"
+    a: "A House majority is 218 of 435 seats. A Senate majority is 51 of 100; at 50-50, the vice president, JD Vance, a Republican, breaks ties. Because 65 seats were not on the ballot, Democrats needed 17 of the 35 seats up and Republicans needed 19, by arithmetic from the seats senators hold today."
   - q: "Are the results on this page official?"
     a: "No. Election-night counts are unofficial until state and local officials finish the canvass and certification. The U.S. Election Assistance Commission (EAC) says results reported on election night are never the final, certified results, even at 100% of precincts reporting."
   - q: "What does called mean on this page?"
     a: "A race is marked called only when two named, independent news organizations have called it or the state election office has declared the winner. The entry names them and gives the time. A candidate's lead in the count is not a call."
   - q: "Why can a candidate lead and then fall behind?"
     a: "Counties report at different times, and in-person, early, mail and provisional ballots can be counted on different schedules. Early returns may not reflect every area or every kind of ballot, so totals change as more eligible ballots are counted."
-  - q: "How quickly does this page update?"
-    a: "Editors post an entry after a poll-closing wave, a batch of official returns or a race call. Publishing takes about five to ten minutes, so the page can trail the state election offices; use the official links in the state table for the freshest counts."
+  - q: "How current are the results on this page?"
+    a: "Editors posted an entry after a poll-closing wave, a batch of official returns or a race call, and the newest entry is from 12:05 a.m. ET on Nov. 4. Counts have kept changing since, so use the official links in the state table for current counts."
   - q: "Where can I find official results for my state?"
     a: "Use your state election office, linked for every state in the table below; the Federal Election Commission (FEC) says it has no jurisdiction over election results, which states and localities run. The USA.gov directory of state election offices is the source of those links."
   - q: "When will every race be decided?"
@@ -144,9 +144,9 @@ internalLinks:
 related: [when-will-we-know-election-results-2026-midterms, election-night-2026-tv-schedule-how-to-watch-results, what-time-do-polls-close-election-day-2026]
 assets:
   overlay: true
-  kicker: "Election Night 2026 · Tue., Nov. 3"
+  kicker: "Election Night 2026 · Nov. 3"
   date: "2026-11-03"
-  card: { top: "First polls close", big: "6 p.m. ET", bottom: "Indiana and Kentucky" }
+  card: { top: "Nov. 3 results map", big: "35 Senate races", bottom: "and 36 governor races" }
 downloads:
   - group: "Election 2026 printables"
     title: "Election Night 2026 Scorecard"
@@ -166,14 +166,7 @@ downloads:
     pages: 1
 draft: false
 ---
-**Polls on Tuesday, Nov. 3, 2026 begin closing at 6 p.m. Eastern Time (ET) in most of Indiana and Kentucky, and this live blog follows the U.S. Senate, governor and U.S. House results from the first returns to the last polls at 1 a.m. ET.** It opens with a scoreboard and the newest updates, then gives a results map, an hour-by-hour closing guide and a table for every state. Each entry carries a time and its sources. A race is marked called here only when two named, independent news organizations have called it or the state election office has declared the winner, and the official counts come from state and county election offices, which we link for every state.
-
-<div class="tool-box" data-launch-clock data-local="2026-11-03" data-done="Polls have closed at that time. See the live updates for what has been reported." data-targets="First polls close: most of Indiana and Kentucky, 6 p.m. ET|2026-11-03T23:00:00Z;Florida, Georgia, South Carolina, Vermont and Virginia, 7 p.m. ET|2026-11-04T00:00:00Z;North Carolina, Ohio and West Virginia, 7:30 p.m. ET|2026-11-04T00:30:00Z;Pennsylvania, Michigan, Texas and other states, 8 p.m. ET|2026-11-04T01:00:00Z;Arkansas, 8:30 p.m. ET|2026-11-04T01:30:00Z;Arizona, New York, Wisconsin and other states, 9 p.m. ET|2026-11-04T02:00:00Z;Nevada, Utah, Montana and Idaho, 10 p.m. ET|2026-11-04T03:00:00Z;California, Oregon and Washington, 11 p.m. ET|2026-11-04T04:00:00Z;Alaska and Hawaii, midnight ET|2026-11-04T05:00:00Z;Last polls: Alaska's Aleutian Islands, 1 a.m. ET Nov. 4|2026-11-04T06:00:00Z" hidden>
-<p class="tool-title">Countdown to the next poll closing</p>
-<label for="lc-polls">Count down to</label>
-<select id="lc-polls"></select>
-<div class="tool-out"></div>
-</div>
+**Polls on Tuesday, Nov. 3, 2026 began closing at 6 p.m. Eastern Time (ET) in most of Indiana and Kentucky, and this live blog followed the U.S. Senate, governor and U.S. House results from the first returns to the last polls at 1 a.m. ET.** It opens with a scoreboard and the newest updates, then gives a results map, an hour-by-hour closing guide and a table for every state. Each entry carries a time and its sources. A race is marked called here only when two named, independent news organizations have called it or the state election office has declared the winner, and the official counts come from state and county election offices, which we link for every state.
 
 ## Election night scoreboard
 
@@ -475,7 +468,7 @@ Each tile is a state. The left half is its U.S. Senate race and the right half i
 
 ## Poll closing map and hour-by-hour table
 
-The number on each tile is the hour, in p.m. Eastern Time, when most polls in that state close, and 12 is midnight. By 8 p.m. ET most polls will have closed in states with 23 of the 35 Senate races, 20 of the 36 governor races and 272 of the 435 House seats; by 9 p.m. ET, 31 Senate races, 30 governor races and 352 House seats. A state's closing time is not the time its first results appear: no state releases results before its own polls close, and how fast counts arrive depends on each state's rules for early and mail ballots, which our guide to [when each state reports](/news/when-will-we-know-election-results-2026-midterms/) explains. Every state's exact closing time is in [what time polls close on Election Day](/news/what-time-do-polls-close-election-day-2026/), and [the election night TV schedule](/news/election-night-2026-tv-schedule-how-to-watch-results/) lines up each network's coverage with these hours.
+The number on each tile is the hour, in p.m. Eastern Time, when most polls in that state close, and 12 is midnight. By 8 p.m. ET most polls had closed in states with 23 of the 35 Senate races, 20 of the 36 governor races and 272 of the 435 House seats; by 9 p.m. ET, polls had closed in states with 31 Senate races, 30 governor races and 352 House seats. A state's closing time is not the time its first results appear: no state releases results before its own polls close, and how fast counts arrive depends on each state's rules for early and mail ballots, which our guide to [when each state reports](/news/when-will-we-know-election-results-2026-midterms/) explains. Every state's exact closing time is in [what time polls close on Election Day](/news/what-time-do-polls-close-election-day-2026/), and [the election night TV schedule](/news/election-night-2026-tv-schedule-how-to-watch-results/) lines up each network's coverage with these hours.
 
 <!-- live:map-waves:start -->
 <svg viewBox="0 0 770 560" width="100%" role="img" aria-labelledby="map-waves-title map-waves-desc" xmlns="http://www.w3.org/2000/svg" font-family="Manrope, system-ui, sans-serif">
@@ -553,7 +546,7 @@ The number on each tile is the hour, in p.m. Eastern Time, when most polls in th
 
 ## U.S. Senate: what control takes and every race
 
-Thirty-five Senate seats are on the ballot: 33 regular seats and special elections in Ohio and Florida. Republicans hold 22 of those 35 seats and Democrats hold 13, according to the senators' party and class listed on Senate.gov. The other 65 seats are not on the ballot: Republicans hold 31 and Democrats and the two independents who caucus with them hold 34. A Senate majority is 51 seats. At 50-50, Vice President JD Vance, a Republican, breaks the tie under Article I, Section 3 of the Constitution, so Republicans need 50 seats and Democrats need 51. That means Democrats need 17 of tonight's 35 seats and Republicans need 19. These are the numbers the scoreboard uses, and they are arithmetic from the seats held today.
+Thirty-five Senate seats are on the ballot: 33 regular seats and special elections in Ohio and Florida. Republicans hold 22 of those 35 seats and Democrats hold 13, according to the senators' party and class listed on Senate.gov. The other 65 seats are not on the ballot: Republicans hold 31 and Democrats and the two independents who caucus with them hold 34. A Senate majority is 51 seats. At 50-50, Vice President JD Vance, a Republican, breaks the tie under Article I, Section 3 of the Constitution, so Republicans need 50 seats and Democrats need 51. That means Democrats needed 17 of the 35 seats on the Nov. 3 ballot and Republicans needed 19. These are the numbers the scoreboard uses, and they are arithmetic from the seats held today.
 
 The table lists each race by closing time. "Now held by" names the senator who holds the seat today, who may not be a candidate; each state's election office has the official candidate list. Maine's U.S. Senate race uses ranked-choice voting, which [our Maine explainer](/news/maine-ranked-choice-voting-2026-senate-house-how-it-works/) covers, and Georgia and Louisiana have runoff dates in December, which [our runoff guide](/news/runoff-elections-2026-dates-georgia-december-1-louisiana-december-12/) lists.
 
@@ -708,11 +701,11 @@ Every state and the District of Columbia, in alphabetical order. The last column
 | <span id="state-wy"></span>Wyoming | 9 p.m. | Called: R | Called: R | 1 seat: 0 called (D 0, R 0, other 0) | [Wyoming election office](https://sos.wyo.gov/Elections/Default.aspx) |
 <!-- live:states:end -->
 
-## Ballot measures and state legislatures on tonight's ballots
+## Ballot measures and state legislatures on the Nov. 3 ballots
 
-Voters in 46 states also elect state legislators, about 6,100 seats in 88 of 99 chambers, according to NCSL. Ballotpedia counts 145 statewide ballot measures on Nov. 3 ballots out of 164 certified for 2026. A ballot measure is not a candidate race: its result is a yes or no vote, so the live entries will quote the official ballot title and the yes and no totals from the state. Our state guides explain what the measures do, including [California's propositions](/news/california-propositions-2026-november-ballot-explained/), [Florida's amendments](/news/florida-amendments-2026-ballot-senate-special-election/), [Georgia's amendments](/news/georgia-2026-ballot-amendments-advance-voting/), [Michigan's proposals](/news/michigan-ballot-2026-proposals-candidates/), [Arizona's propositions](/news/arizona-propositions-2026-ballot-explained/), [Colorado's measures](/news/colorado-ballot-measures-2026-amendments-propositions-explained/), [Massachusetts' ballot questions](/news/massachusetts-ballot-questions-2026-what-yes-no-votes-do-early-voting-ends-october-30/), [Nevada's questions](/news/nevada-ballot-questions-2026-question-6-question-7-explained/) and [the voter ID measures](/news/voter-id-on-the-ballot-2026-north-carolina-ohio-arizona-nevada/).
+Voters in 46 states also elect state legislators, about 6,100 seats in 88 of 99 chambers, according to NCSL. Ballotpedia counts 145 statewide ballot measures on Nov. 3 ballots out of 164 certified for 2026. A ballot measure is not a candidate race: its result is a yes or no vote, so entries quote the official ballot title and the yes and no totals from the state. Our state guides explain what the measures do, including [California's propositions](/news/california-propositions-2026-november-ballot-explained/), [Florida's amendments](/news/florida-amendments-2026-ballot-senate-special-election/), [Georgia's amendments](/news/georgia-2026-ballot-amendments-advance-voting/), [Michigan's proposals](/news/michigan-ballot-2026-proposals-candidates/), [Arizona's propositions](/news/arizona-propositions-2026-ballot-explained/), [Colorado's measures](/news/colorado-ballot-measures-2026-amendments-propositions-explained/), [Massachusetts' ballot questions](/news/massachusetts-ballot-questions-2026-what-yes-no-votes-do-early-voting-ends-october-30/), [Nevada's questions](/news/nevada-ballot-questions-2026-question-6-question-7-explained/) and [the voter ID measures](/news/voter-id-on-the-ballot-2026-north-carolina-ohio-arizona-nevada/).
 
-## Leading, called and certified: how to read tonight's numbers
+## Leading, called and certified: how to read election night numbers
 
 Election-night counts are unofficial. The U.S. Election Assistance Commission (EAC) says the results reported on election night are never the final, certified results, and that even when a count says 100% of precincts reporting, it is still unofficial. The Federal Election Commission (FEC) says it has no jurisdiction over election results and that elections are governed primarily by state law and run by state and local officials.
 
@@ -738,11 +731,11 @@ A call by a news organization is not a government certification, and a state's r
 
 ## After election night: counting, recounts and certification
 
-Counting does not stop when the night ends. California counties have up to 30 days to finish counting, and Pennsylvania cannot begin processing mail ballots until 7 a.m. on Election Day. Late-arriving ballots postmarked by Election Day count in about 15 states; see [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/). States then canvass and certify, with deadlines that run from Nov. 19 in Minnesota to Dec. 10 in Oregon among the 10 states in our [certification deadlines guide](/news/when-are-2026-election-results-certified-deadlines-by-state/). Georgia holds a runoff on Tuesday, Dec. 1 if no candidate wins a majority, and Louisiana's second round is Saturday, Dec. 12. The 120th Congress begins at noon ET on Sunday, Jan. 3, 2027. Mark the dates on our [December 2026 printable calendar](/december-calendars.html), and keep the [November 2026 printable calendar](/november-calendars.html) for the counting and certification days that fall this month.
+Counting did not stop when the night ended. California counties have up to 30 days to finish counting, and Pennsylvania cannot begin processing mail ballots until 7 a.m. on Election Day. Late-arriving ballots postmarked by Election Day count in about 15 states; see [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/). States then canvass and certify, with deadlines that run from Nov. 19 in Minnesota to Dec. 10 in Oregon among the 10 states in our [certification deadlines guide](/news/when-are-2026-election-results-certified-deadlines-by-state/). Georgia holds a runoff on Tuesday, Dec. 1 if no candidate wins a majority, and Louisiana's second round is Saturday, Dec. 12. The 120th Congress begins at noon ET on Sunday, Jan. 3, 2027. Mark the dates on our [December 2026 printable calendar](/december-calendars.html), and keep the [November 2026 printable calendar](/november-calendars.html) for the counting and certification days that fall this month.
 
 ## Printable election night scorecards
 
-Two one-page sheets below are built from the same data as the scoreboard above. The scorecard gives the House and Senate control math, a 100-seat Senate grid with the 65 seats not on the ballot already filled in, a 435-circle House grid with the 218th seat marked, and the poll closing waves with room for your own tally. The House tally lists all 50 states by closing hour with D, R and other boxes. For the races by name, our two-page [Election Night Tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/) lists every Senate and governor race with space to write in each winner, and the one-page [poll closing times chart](/news/what-time-do-polls-close-election-day-2026/) groups every state by closing hour. Plan the night on a [printable weekly planner](/printable-weekly-calendar.html).
+Two one-page sheets below are built from the same data as the scoreboard above. The scorecard gives the House and Senate control math, a 100-seat Senate grid with the 65 seats not on the ballot already filled in, a 435-circle House grid with the 218th seat marked, and the poll closing waves with room for your own tally. The House tally lists all 50 states by closing hour with D, R and other boxes. For the races by name, our two-page [Election Night Tracker](/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/) lists every Senate and governor race with space to write in each winner, and the one-page [poll closing times chart](/news/what-time-do-polls-close-election-day-2026/) groups every state by closing hour. Keep the [printable weekly planner](/printable-weekly-calendar.html) for the certification dates.
 
 ## More 2026 election coverage
 

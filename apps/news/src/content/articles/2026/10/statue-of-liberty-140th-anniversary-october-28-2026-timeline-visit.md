@@ -3,7 +3,7 @@ title: "Statue of Liberty 140th Anniversary: Oct. 28 Timeline, Tickets"
 description: "The Statue of Liberty's 140th anniversary was Wednesday, Oct. 28, 2026, per the National Park Service. A timeline with weekdays and 2026 ticket prices."
 type: explainer
 publishedAt: "2026-10-27T17:40:00-04:00"
-updatedAt: "2026-10-30T01:05:00-04:00"
+updatedAt: "2026-11-14T17:12:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["statue of liberty 140th anniversary", "statue of liberty anniversary october 28", "when was the statue of liberty dedicated", "statue of liberty ticket prices 2026"]
@@ -21,7 +21,7 @@ hero:
     author: "銀河市長"
 summary:
   - "The Statue of Liberty turned 140 on Wednesday, Oct. 28, 2026, 140 years after it was dedicated on Oct. 28, 1886, a Thursday, the National Park Service says."
-  - "No 140th anniversary event, special hours or closures were found on the National Park Service pages or the Statue City Cruises tickets page on a recheck on Oct. 28, 2026."
+  - "No 140th anniversary event, special hours or closures were found on the National Park Service pages or the Statue City Cruises tickets page on a recheck on Oct. 28, 2026, the day itself."
   - "Ferry and tour tickets cost $26.00 for adults 13 and older, $23.00 for seniors 62 and older and $17.00 for children 4 to 12; children under 4 are free."
   - "Crown and pedestal tickets are limited and sold in advance through Statue City Cruises, the official ferry operator."
 faq:
@@ -29,8 +29,8 @@ faq:
     a: "Oct. 28, 1886, at a ceremony on Bedloe's Island, according to the National Park Service. That day was a Thursday."
   - q: "How tall is the Statue of Liberty?"
     a: "The National Park Service lists the statue at 151 feet, 1 inch (46.05 m) and the pedestal at 154 feet (46.93 m), for a total of 305 feet, 1 inch."
-  - q: "Is the Statue of Liberty open on Oct. 28, 2026?"
-    a: "Not confirmed here. The ferry schedule and any closures are set by the ferry operator, so check Statue City Cruises before you go."
+  - q: "Was the Statue of Liberty open on Oct. 28, 2026?"
+    a: "The recheck on Oct. 28 found no closure or special hours on the National Park Service or Statue City Cruises pages. Ferry schedules are set by the operator, so check Statue City Cruises before any visit."
   - q: "Can you reach Liberty Island without a ferry?"
     a: "No. The National Park Service says the island is reachable only by ferry, and all visitors pass through airport-style security first."
 sources:
@@ -72,6 +72,7 @@ assets:
   date: "2026-10-28"
   card: { top: "Dedicated Oct. 28, 1886", big: "140 years", bottom: "Source: National Park Service" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: statue-of-liberty-timeline-1885-2026
     group: statue-of-liberty-2026
     title: "Statue of Liberty Timeline, 1885 to 2026"
@@ -82,7 +83,7 @@ assets:
       - ["1924", "Designated a National Monument by President Calvin Coolidge"]
       - ["1984", "Restoration of the statue begins"]
       - ["Oct. 28, 1986", "A Tuesday: the centennial is officially celebrated"]
-      - ["Wed., Oct. 28, 2026", "140 years since the dedication; no event announced yet"]
+      - ["Wed., Oct. 28, 2026", "140 years since the dedication; no event was announced"]
     note: "Source: National Park Service, Liberty Island Chronology and Fees & Passes."
     description: "Six Statue of Liberty milestones from 1885 to the 140th anniversary on Oct. 28, 2026, with weekdays and room for notes."
     alt: "Statue of Liberty timeline printable with six milestones from 1885 to 2026"
@@ -97,8 +98,6 @@ downloads:
     pages: 1
 draft: false
 ---
-
-<p class="callout"><b>Updated Oct. 30, 2026, 1:05 a.m. ET.</b> The 140th anniversary was Wednesday, Oct. 28, 2026. A recheck of the National Park Service pages and the Statue City Cruises tickets page found no 140th-anniversary event, special hours or closures.</p>
 
 **The Statue of Liberty turned 140 on Wednesday, Oct. 28, 2026, marking 140 years since it was dedicated on Oct. 28, 1886, per the National Park Service (NPS).** The ceremony took place on Bedloe's Island, now Liberty Island. Below: the timeline with weekdays, 2026 ticket prices, and how to reach the island.
 
@@ -121,9 +120,9 @@ We computed each weekday and the years before 2026 from the dates in the NPS Lib
 
 Our free printable puts these milestones on one page. Pair it with the [October 2026 printable calendar](/october-calendars.html), the [November 2026 calendar](/november-calendars.html) or the [2026 yearly calendar](/printable-yearly-calendar.html).
 
-## Is there a 140th anniversary event?
+## Was there a 140th anniversary event?
 
-None announced. A recheck on Oct. 28, 2026 of the NPS Statue of Liberty pages and the Statue City Cruises tickets page found no 140th anniversary event, special hours or closures. Neither the NPS nor the Statue of Liberty-Ellis Island Foundation has announced a ceremony. For comparison, the NPS chronology records that the centennial was officially celebrated on Oct. 28, 1986. Check the NPS Statue of Liberty pages for any change.
+None was announced. A recheck on Oct. 28, 2026 of the NPS Statue of Liberty pages and the Statue City Cruises tickets page found no 140th anniversary event, special hours or closures. Neither the NPS nor the Statue of Liberty-Ellis Island Foundation had announced a ceremony. For comparison, the NPS chronology records that the centennial was officially celebrated on Oct. 28, 1986.
 
 ## How much are Statue of Liberty tickets in 2026?
 

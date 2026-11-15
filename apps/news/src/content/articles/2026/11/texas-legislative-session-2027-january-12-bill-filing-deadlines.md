@@ -3,6 +3,7 @@ title: "Texas Legislative Session 2027: Jan. 12 to May 31 and Key Deadlines"
 description: "The 90th Texas Legislature meets Jan. 12 to May 31, 2027, per the Legislative Reference Library. Day-by-day deadlines from 2025 and a printable tracker."
 type: explainer
 publishedAt: "2026-11-10T06:00:00-05:00"
+updatedAt: "2026-11-14T16:59:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["texas legislative session 2027", "when does the texas legislature meet 2027", "texas legislature 2027 bill filing deadline", "90th texas legislature dates"]
@@ -20,7 +21,7 @@ summary:
   - "The governor's deadline to sign or veto after adjournment works out to Sunday, June 20, 2027, and a bill without immediate effect takes effect on the 91st day after adjournment, Aug. 30, 2027, unless it names a later date such as Sept. 1."
 faq:
   - q: "When did prefiling start for the 90th Legislature?"
-    a: "Prefiling opened after the Nov. 3, 2026 election. The library's page gives no 2026 opening date that we could read; for the last session, prefiling began Tuesday, Nov. 12, 2024, per the library."
+    a: "Prefiling opened Monday, Nov. 9, 2026, six days after the Nov. 3 election, according to the Texas Tribune and Houston Public Media. For the last session, prefiling began Tuesday, Nov. 12, 2024, per the library."
   - q: "Who presides over the House on opening day?"
     a: "The House elects its Speaker on the first day, under Article III, Section 9 of the Texas Constitution. The Senate and House each adopt their own rules after they convene."
   - q: "Does the session always run the full 140 days?"
@@ -65,6 +66,18 @@ sources:
     url: "https://lrl.texas.gov/whatsNew/client/index.cfm/2024/11/15/First-Day-of-Prefiling-Statistics-89th-Regular-Session"
     publisher: "Texas Legislative Reference Library"
     date: "2024-11-15"
+  - title: "Democrats ambitious as Texas Legislature bill filing begins"
+    url: "https://www.texastribune.org/2026/11/09/texas-legislature-90th-session-bill-filing-begins/"
+    publisher: "The Texas Tribune"
+    date: "2026-11-09"
+  - title: "Texas Democrats set sights on 2027 legislative session as bill filing begins"
+    url: "https://www.houstonpublicmedia.org/articles/news/politics/2026/11/09/566649/texas-democrats-set-sights-on-2027-legislative-session-as-bill-filing-begins/"
+    publisher: "Houston Public Media"
+    date: "2026-11-09"
+  - title: "Sessions and years"
+    url: "https://lrl.texas.gov/sessions/sessionyears.cfm"
+    publisher: "Texas Legislative Reference Library"
+    date: "2026-11-14"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -115,7 +128,7 @@ draft: false
 | Milestone | 2027 date | Source |
 |---|---|---|
 | Session begins (day 1) | Tue., Jan. 12 | LRL: "The 90th Regular Legislative Session begins on January 12, 2027." |
-| Day 60, bill filing deadline | Fri., March 12 (computed) | Counted like the LRL's 2025 notice |
+| Day 60, bill filing deadline | Fri., March 12 | Our count matches the LRL's 2025 method; the Texas Tribune and Houston Public Media report the same date |
 | Last day (day 140) | Mon., May 31 | LRL: "The last day of the 90th Regular Legislative Session is May 31, 2027." |
 | Governor's deadline after adjournment | Sun., June 20 (computed) | Texas Constitution, Art. IV, Sec. 14 |
 | Default effective date | Mon., Aug. 30 (computed) | 91 days after adjournment, unless a bill names a later date |
@@ -128,9 +141,9 @@ Article III, Section 24 says: "No regular session shall be of longer duration th
 
 ## When is the Texas bill filing deadline in 2027?
 
-The library called Friday, March 14, 2025 "the 60-day bill filing deadline for the 89th Regular Session" and reported that "a total of 8,898 bills and joint resolutions had been filed" by then. Jan. 14, 2025 was day 1, so March 14 was day 60. Starting from Jan. 12, 2027, day 60 is Friday, March 12, 2027. That date is our count with the library's method, not a date the library has published for 2027. Article III, Section 5(b) of the constitution devotes the first 30 days to introducing bills.
+The library called Friday, March 14, 2025 "the 60-day bill filing deadline for the 89th Regular Session" and reported that "a total of 8,898 bills and joint resolutions had been filed" by then. Jan. 14, 2025 was day 1, so March 14 was day 60. Starting from Jan. 12, 2027, day 60 is Friday, March 12, 2027. That date is our count with the library's method. The Texas Tribune and Houston Public Media both reported on Nov. 9, 2026 that bill filing ends March 12; the library has not published a 2027 notice yet. Article III, Section 5(b) of the constitution devotes the first 30 days to introducing bills.
 
-Prefiling comes first. For the 89th Legislature it began Tuesday, Nov. 12, 2024, per the library. Prefiling for the 90th opened after the Nov. 3, 2026 election; the Texas Legislative Council lists the first prefiling day in its Dates of Interest calendar. For the vote itself, see the [Texas election calendar for 2026](/news/texas-election-calendar-2026-early-voting-dates-deadlines/).
+Prefiling comes first. For the 89th Legislature it began Tuesday, Nov. 12, 2024, per the library. Prefiling for the 90th opened Monday, Nov. 9, 2026, six days after the Nov. 3 election, according to the Texas Tribune and Houston Public Media. The Tribune counted more than 1,260 bills filed by 5 p.m. that day. For the vote itself, see the [Texas election calendar for 2026](/news/texas-election-calendar-2026-early-voting-dates-deadlines/).
 
 ## What were the 2025 session deadlines, day by day?
 

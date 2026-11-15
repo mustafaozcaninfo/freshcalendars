@@ -1,9 +1,9 @@
 ---
 title: "Bruins Schedule November 2026: 11 Games, Times and TV"
-description: "The Bruins November 2026 schedule has 11 games, from Nov. 2 against Vegas to Nov. 29 against Vancouver. Nine are at home. TV channels and a printable."
+description: "The Bruins play 11 games in November 2026, 3-1 after four, next Nov. 14 vs. Minnesota. Nine at home. Start times in ET, TV channels and a printable."
 type: news
 publishedAt: "2026-11-02T11:20:00-05:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bruins schedule November 2026", "Bruins game tonight", "Bruins TV schedule", "Bruins Maple Leafs November 27 2026", "Bruins printable schedule"]
@@ -13,7 +13,7 @@ assets:
   overlay: true
   kicker: "Bruins · November 2026"
   date: "2026-11-02"
-  card: { top: "Next game", big: "Mon., Nov. 2", bottom: "Vegas at Boston, 7 p.m. ET" }
+  card: { top: "Next game", big: "Sat., Nov. 14", bottom: "Minnesota at Boston, 7 p.m. ET" }
   printable:
     slug: boston-bruins-schedule-november-2026
     group: bruins-schedule-2026
@@ -33,6 +33,7 @@ assets:
       - ["Fri., Nov. 27", "Vs. Toronto, 1 p.m. ET, NESN"]
       - ["Sun., Nov. 29", "Vs. Vancouver, 5 p.m. ET, NESN"]
     note: "Source: National Hockey League schedule, fetched Nov. 2, 2026. Times are Eastern Time (ET). Home games are at TD Garden. TV listings can change."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true
     description: "All 11 Boston Bruins games in November 2026 with Eastern Time start times and TV, from the NHL schedule fetched Nov. 2, 2026."
     alt: "Printable Boston Bruins schedule for November 2026 listing 11 games with Eastern Time start times and TV"
@@ -65,17 +66,17 @@ downloads:
     png: "/news/downloads/bruins-schedule-2026/boston-bruins-schedule-november-2026-ink.png"
     pages: 1
 summary:
-  - "The Boston Bruins' next game is Mon., Nov. 2, 2026, against the Vegas Golden Knights at TD Garden at 7 p.m. ET, per the NHL schedule fetched Nov. 2, 2026."
-  - "The NHL lists 11 Bruins games in November 2026, nine at home and two on the road, from Nov. 2 to Sun., Nov. 29 against Vancouver."
+  - "The Boston Bruins are 3-1 after four November games, per the National Hockey League (NHL); their next is Sat., Nov. 14, 2026, against Minnesota at TD Garden at 7 p.m. ET."
+  - "The NHL lists 11 Bruins games in November 2026, nine at home and two on the road, from Nov. 2 to Sun., Nov. 29 against Vancouver. The schedule is unchanged since Nov. 2."
   - "Most games are on New England Sports Network (NESN); the game at Detroit on Wed., Nov. 18 is a national broadcast with no NESN feed."
   - "The Bruins host Toronto on Black Friday, Fri., Nov. 27, at 1 p.m. ET, one of two afternoon home games this month."
 faq:
   - q: "When is the next Boston Bruins game?"
-    a: "Mon., Nov. 2, 2026, against the Vegas Golden Knights at TD Garden, 7 p.m. ET, according to the NHL schedule fetched Nov. 2, 2026."
+    a: "Sat., Nov. 14, 2026, against the Minnesota Wild at TD Garden, 7 p.m. ET, on NESN, according to the NHL schedule."
   - q: "How many Bruins games are in November 2026?"
-    a: "11, according to the NHL schedule fetched Nov. 2, 2026: nine at home and two on the road."
+    a: "11, according to the NHL schedule: nine at home and two on the road."
   - q: "What channel is the Bruins game on tonight?"
-    a: "Most Bruins games in November 2026 are on NESN, the team's regional outlet. The Nov. 2 and Nov. 8 home games add the NHL Network nationally, and the Nov. 18 game at Detroit is on TNT, truTV and HBO Max with no NESN feed. The channel for each game is in the table above."
+    a: "Most Bruins games in November 2026 are on NESN, the team's regional outlet. The Nov. 2 and Nov. 8 home games added the NHL Network nationally, and the Nov. 18 game at Detroit is on TNT, truTV and HBO Max with no NESN feed. The channel for each game is in the table above."
   - q: "When do the Bruins play on Thanksgiving weekend 2026?"
     a: "The Bruins host Winnipeg on Wed., Nov. 25, and host Toronto on Black Friday, Fri., Nov. 27, at 1 p.m. ET. They have no game on Thanksgiving Day, Thu., Nov. 26, 2026."
   - q: "Can the Bruins schedule change?"
@@ -84,7 +85,7 @@ sources:
   - title: "Boston Bruins club schedule, November 2026 (NHL web API)"
     url: "https://api-web.nhle.com/v1/club-schedule/BOS/month/2026-11"
     publisher: "National Hockey League"
-    date: "2026-11-02"
+    date: "2026-11-14"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -96,9 +97,18 @@ related: [boston-bruins-schedule-december-2026-game-times-tv-printable, toronto-
 draft: false
 ---
 
-**The Boston Bruins play 11 games in November 2026, starting Monday, Nov. 2, at 7 p.m. Eastern Time (ET) against the Vegas Golden Knights at TD Garden, according to the National Hockey League (NHL) schedule.** The full month with start times and TV is below, and a one-page printable is further down.
+**The Boston Bruins play 11 games in November 2026 and are 3-1 after the first four, with the next one on Saturday, Nov. 14, at 7 p.m. Eastern Time (ET) against Minnesota at TD Garden, according to the National Hockey League (NHL).** The full month with start times and TV is below, and a one-page printable is further down.
 
-The source is the NHL's club schedule for the Bruins, fetched Nov. 2, 2026. We converted its start times to ET, which is Boston time, and calculated the weekdays. Nine games are at home. Two are on the road. The month opens with Vegas on Monday night, the first of three home games before the only back-to-back road trip, at Pittsburgh on Nov. 5.
+The source is the NHL's club schedule and scores for the Bruins, re-read Nov. 14, 2026. The schedule is unchanged since Nov. 2. We converted its start times to ET, which is Boston time, and calculated the weekdays. Nine games are at home. Two are on the road.
+
+## Bruins results so far in November 2026
+
+| Date | Game | Result |
+|---|---|---|
+| Mon., Nov. 2 | Vegas at Boston Bruins | Boston 3, Vegas 2 (shootout) |
+| Thu., Nov. 5 | Boston Bruins at Pittsburgh | Boston 6, Pittsburgh 2 |
+| Sun., Nov. 8 | Florida at Boston Bruins | Boston 4, Florida 1 |
+| Thu., Nov. 12 | Montreal at Boston Bruins | Boston 2, Montreal 5 |
 
 ## Bruins game times and TV for every November game
 
@@ -122,11 +132,11 @@ Listings change. Check the NHL schedule on game day.
 
 ## Bruins home stand to open November
 
-The Bruins play their first six games of the month inside a stretch that is nearly all at TD Garden. After hosting Vegas on Monday, Nov. 2, and visiting Pittsburgh on Thursday, Nov. 5, the team returns home for a Sunday matinee against Florida on Nov. 8 at 1 p.m. ET, then hosts Montreal on Thursday, Nov. 12, Minnesota on Saturday, Nov. 14, and Los Angeles on Tuesday, Nov. 17. The one road game at Detroit on Wednesday, Nov. 18, at 7:30 p.m. ET is the Bruins' only national broadcast of the month. For the host team's month, see our [Penguins schedule for November 2026](/news/pittsburgh-penguins-schedule-november-2026-game-times-tv-printable/).
+The Bruins play their first six games of the month inside a stretch that is nearly all at TD Garden. After hosting Vegas on Monday, Nov. 2, and visiting Pittsburgh on Thursday, Nov. 5, the team returned home for a Sunday matinee against Florida on Nov. 8 at 1 p.m. ET, then hosted Montreal on Thursday, Nov. 12. Minnesota is next on Saturday, Nov. 14, then Los Angeles on Tuesday, Nov. 17. The one road game at Detroit on Wednesday, Nov. 18, at 7:30 p.m. ET is the Bruins' only national broadcast of the month. For the host team's month, see our [Penguins schedule for November 2026](/news/pittsburgh-penguins-schedule-november-2026-game-times-tv-printable/).
 
-## What channel is Bruins vs. Canadiens on Nov. 12, 2026?
+## Bruins vs. Canadiens on Nov. 12, 2026
 
-The Bruins host the Montreal Canadiens on Thursday, Nov. 12, at 7 p.m. ET at TD Garden. The NHL lists it on NESN, the Bruins' regional outlet. The Original Six rivals meet here once in November; for Montreal's full month, compare our [Maple Leafs November 2026 schedule](/news/toronto-maple-leafs-schedule-november-2026-game-times-tv-printable/), the [Oilers November 2026 schedule](/news/edmonton-oilers-schedule-november-2026-game-times-tv-printable/) and the [Rangers November 2026 schedule](/news/rangers-schedule-november-2026-game-times-tv-printable/).
+The Bruins hosted the Montreal Canadiens on Thursday, Nov. 12, at 7 p.m. ET at TD Garden, and Montreal won 5-2. The NHL listed it on NESN, the Bruins' regional outlet. The Original Six rivals met once at TD Garden in November; for Montreal's full month, compare our [Maple Leafs November 2026 schedule](/news/toronto-maple-leafs-schedule-november-2026-game-times-tv-printable/), the [Oilers November 2026 schedule](/news/edmonton-oilers-schedule-november-2026-game-times-tv-printable/) and the [Rangers November 2026 schedule](/news/rangers-schedule-november-2026-game-times-tv-printable/).
 
 ## Bruins on Thanksgiving weekend 2026
 

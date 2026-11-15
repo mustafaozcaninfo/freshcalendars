@@ -4,7 +4,7 @@ description: "Krispy Kreme's free costume doughnut ran Fri., Oct. 30 and Sat., O
 type: news
 dateline: "New York"
 publishedAt: "2026-10-30T05:43:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Halloween free food 2026", "Chipotle Boorito 2026", "Krispy Kreme free doughnut costume 2026", "Halloween deals October 31 2026"]
@@ -49,11 +49,11 @@ summary:
   - "Chipotle also listed $0 delivery fees on digital orders placed Oct. 31 and Nov. 1, with a $10 minimum before tax and fees."
   - "The 7-Eleven pizza and delivery deals below come from trade press, not 7-Eleven's own page, which we did not check."
 faq:
-  - q: "Is Krispy Kreme giving away free doughnuts on Halloween 2026?"
-    a: "Yes. Its home page, checked Oct. 30, 2026, offered a free Original Glazed or Classic Ring Doughnut to guests in costume at a participating U.S. shop on Fri., Oct. 30 or Sat., Oct. 31. No purchase is necessary, it is in shop and drive-thru only, and the limit is one per guest."
-  - q: "What time does Chipotle's Boorito start on Oct. 31, 2026?"
+  - q: "Did Krispy Kreme give away free doughnuts on Halloween 2026?"
+    a: "Yes. Its home page, checked Oct. 30, 2026, offered a free Original Glazed or Classic Ring Doughnut to guests in costume at a participating U.S. shop on Fri., Oct. 30 or Sat., Oct. 31. No purchase was necessary, it was in shop and drive-thru only, and the limit was one per guest."
+  - q: "What time did Chipotle's Boorito start on Oct. 31, 2026?"
     a: "At 3 p.m. local time, and it ran to close, according to Chipotle's Oct. 20, 2026 newsroom release."
-  - q: "Do I need the Chipotle Rewards app for the $6 entree?"
+  - q: "Did I need the Chipotle Rewards app for the $6 entree?"
     a: "The release says Chipotle Rewards members could receive the $6 entree when appearing in costume, as determined by the restaurant, and scanning for Rewards at the point of sale."
   - q: "Did the clocks change on Halloween weekend 2026?"
     a: "Daylight Saving Time (DST) ended at 2 a.m. on Sunday, Nov. 1, so Halloween night had an extra hour."
@@ -110,7 +110,7 @@ Krispy Kreme's free costume doughnut ran Friday, Oct. 30, and Saturday, Oct. 31,
 
 ## How does the Krispy Kreme free doughnut work?
 
-Krispy Kreme's home page says to wear your spookiest (or silliest) costume into a participating U.S. shop on Friday, 10/30 or Saturday, 10/31 for a free Original Glazed or Classic Ring Doughnut. No purchase is necessary, it is in shop and drive-thru only, and the limit is one per guest. The page lists no hours, so hours vary by shop; use the shop finder on krispykreme.com before you go.
+Krispy Kreme's home page said to wear your spookiest (or silliest) costume into a participating U.S. shop on Friday, 10/30 or Saturday, 10/31 for a free Original Glazed or Classic Ring Doughnut. No purchase was necessary, it was in shop and drive-thru only, and the limit was one per guest. The page listed no hours, so hours varied by shop.
 
 ## How does Chipotle's $6 Boorito work?
 

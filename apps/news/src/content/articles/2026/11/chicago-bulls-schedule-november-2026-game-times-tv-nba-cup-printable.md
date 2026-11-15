@@ -3,7 +3,7 @@ title: "Bulls Schedule November 2026: 13 Games, Times in CT and ET"
 description: "The Bulls play 13 games in November 2026, from Nov. 2 at Philadelphia to Nov. 28 against Indiana, with Central and Eastern times, TV and a printable."
 type: news
 publishedAt: "2026-11-02T10:10:00-05:00"
-updatedAt: "2026-11-05T21:25:00-05:00"
+updatedAt: "2026-11-14T17:18:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Bulls schedule November 2026", "Bulls game tonight", "Chicago Bulls NBA Cup schedule 2026", "Bulls printable schedule"]
@@ -11,10 +11,11 @@ dateline: "Chicago"
 assets:
   scene: sports
   overlay: true
-  kicker: "Bulls · Next game Mon., Nov. 2, 2026"
-  date: "2026-11-02"
-  card: { top: "Bulls at Philadelphia", big: "6:30 p.m. CT", bottom: "First of 13 November games" }
+  kicker: "Bulls · Next game Sat., Nov. 14, 2026"
+  date: "2026-11-14"
+  card: { top: "Bulls at Minnesota", big: "7 p.m. CT", bottom: "Sat., Nov. 14, game 6 of 13" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: bulls-schedule-november-2026
     group: bulls-schedule-2026
     title: "Bulls Schedule, November 2026"
@@ -50,15 +51,15 @@ hero:
     author: "Jordano53"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Jordano53"
 summary:
-  - "The Bulls' next game is Mon., Nov. 2, 2026, at Philadelphia at 6:30 p.m. CT (7:30 p.m. ET), per the NBA's schedule dated Aug. 13, 2026."
+  - "The Bulls' next game is Sat., Nov. 14, 2026, at Minnesota at 7 p.m. CT (8 p.m. ET), per the NBA's schedule dated Aug. 13, 2026."
   - "The NBA lists 13 Bulls games in November 2026, seven at home and six on the road, from Nov. 2 to Sat., Nov. 28 against Indiana."
   - "No November game has a national TV network listed; the NBA's schedule shows national broadcasts only."
-  - "Three November games are Emirates NBA Cup group games (Nov. 13, 20 and 25), after the Oct. 30 game at Boston."
+  - "Three November games are Emirates NBA Cup group games (Nov. 13, 20 and 25); the Nov. 13 game against Atlanta is the first of them, after the Oct. 30 game at Boston."
 faq:
   - q: "When is the next Bulls game?"
-    a: "Mon., Nov. 2, 2026, at Philadelphia, 6:30 p.m. CT (7:30 p.m. ET), according to the NBA's 2026-27 schedule. The Bulls played at Boston on Fri., Oct. 30."
+    a: "Sat., Nov. 14, 2026, at Minnesota, 7 p.m. CT (8 p.m. ET), according to the NBA's 2026-27 schedule. The previous game on that schedule was at home against Atlanta on Fri., Nov. 13."
   - q: "How many Bulls games are in November 2026?"
-    a: "13, according to the NBA's schedule dated Aug. 13, 2026: seven at home and six on the road. The Bulls play back-to-backs on Fri., Nov. 13 (home) and Sat., Nov. 14 (at Minnesota), and on Sun., Nov. 22 and Mon., Nov. 23, both at home."
+    a: "13, according to the NBA's schedule dated Aug. 13, 2026: seven at home and six on the road. The Bulls play back-to-backs on Fri., Nov. 13 (home) and Sat., Nov. 14 (at Minnesota), and on Sun., Nov. 22 and Mon., Nov. 23, both at home. Five of the 13 were scheduled before Nov. 14."
   - q: "Which Bulls games are NBA Cup games?"
     a: "Four group games: at Boston on Fri., Oct. 30, against Atlanta on Fri., Nov. 13, against Washington on Fri., Nov. 20 and at Charlotte on Wed., Nov. 25."
   - q: "Which Bulls games are on national TV in November?"
@@ -102,9 +103,9 @@ downloads:
 draft: false
 ---
 
-**The Chicago Bulls play at Philadelphia on Monday, Nov. 2, 2026, at 6:30 p.m. Central Time (CT), which is 7:30 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule.** The NBA lists 13 Bulls games in November, and a one-page printable of all of them is further down.
+**The Chicago Bulls play at Minnesota on Saturday, Nov. 14, 2026, at 7 p.m. Central Time (CT), which is 8 p.m. Eastern Time (ET), according to the National Basketball Association (NBA) schedule.** The NBA lists 13 Bulls games in November, five of them before that date, and a one-page printable of all of them is further down.
 
-The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so Chicago fans subtract one hour for CT; the table below gives both. Weekdays are our own calculation. The Bulls' previous game was at Boston on Friday, Oct. 30.
+The source is the NBA's 2026-27 regular season schedule PDF from NBA Communications, dated Aug. 13, 2026 and marked "subject to change." Its times are in ET, so Chicago fans subtract one hour for CT; the table below gives both. Weekdays are our own calculation. The schedule's previous game was at home against Atlanta on Friday, Nov. 13. We did not check game results.
 
 ## Bulls game times and TV for every November game
 

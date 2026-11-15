@@ -3,7 +3,7 @@ title: "Brazil Time Change 2026: New York Is 2 Hours Behind São Paulo"
 description: "Brazil has no time change in 2026 and keeps UTC-3 all year, so New York is 2 hours behind São Paulo from Nov. 1. Tables for every US zone."
 type: explainer
 publishedAt: "2026-10-31T07:45:00-04:00"
-updatedAt: "2026-11-05T15:26:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference between US and Brazil", "New York to São Paulo time difference", "Brazil time vs EST", "Brasília time zone"]
@@ -110,7 +110,7 @@ related: [daylight-saving-time-ends-november-1-2026, mexico-time-difference-afte
 draft: false
 ---
 
-New York is **2 hours behind São Paulo and Brasília** right now, the gap in place since U.S. clocks fell back to standard time at 2 a.m. local time on Sunday, Nov. 1, 2026. Brazil did not move its clocks, so the whole one-hour shift landed in the United States, under the rule from the National Institute of Standards and Technology (NIST). A one-page [printable US-Brazil time converter](/news/downloads/time-change-2026/us-brazil-time-difference-november-2026.pdf) is on this page for your desk.
+New York is **2 hours behind São Paulo and Brasília**, the gap in place since U.S. clocks fell back to standard time at 2 a.m. local time on Sunday, Nov. 1, 2026. Brazil did not move its clocks, so the whole one-hour shift landed in the United States, under the rule from the National Institute of Standards and Technology (NIST). A one-page [printable US-Brazil time converter](/news/downloads/time-change-2026/us-brazil-time-difference-november-2026.pdf) is on this page for your desk.
 
 Every figure below is our own calculation from the Coordinated Universal Time (UTC) offsets.
 
@@ -189,7 +189,7 @@ A New York 9 a.m. start is now 11 a.m. in São Paulo, and a São Paulo 5 p.m. fi
 
 ## How does this affect the São Paulo Grand Prix weekend?
 
-Our [São Paulo Grand Prix schedule](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/) gives the Formula 1 (F1) race on Sunday, Nov. 8, 2026, at 2 p.m. São Paulo time, which is 12 p.m. EST, by that story's conversion. It matches the 2-hour gap above. For the Mexico side of the clock change, see our [Mexico time-difference story](/news/mexico-time-difference-after-november-1-2026-us-clocks-fall-back/).
+Our [São Paulo Grand Prix schedule](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/) lists the Formula 1 (F1) race on Sunday, Nov. 8, 2026, at 2 p.m. São Paulo time, which was 12 p.m. EST by that story's conversion. That matches the 2-hour gap above. For the Mexico side of the clock change, see our [Mexico time-difference story](/news/mexico-time-difference-after-november-1-2026-us-clocks-fall-back/).
 
 ## When does the gap change again?
 

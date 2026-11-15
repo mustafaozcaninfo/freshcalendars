@@ -1,9 +1,9 @@
 ---
 title: "Arizona Propositions 2026: The 8 Measures and What Each Does"
-description: "Arizona's 2026 ballot had eight propositions, all referred by the Legislature, from voter ID to grocery taxes. What each does, and the early ballot rules."
+description: "Arizona's 2026 ballot had eight propositions, all referred by the Legislature. What each does and how voters decided in unofficial results."
 type: explainer
 publishedAt: "2026-10-20T11:30:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["Arizona propositions 2026", "Arizona ballot November 2026", "Prop 144 Arizona", "Arizona early voting 2026", "Arizona voter guide 2026"]
@@ -12,26 +12,34 @@ hero:
   src: ../../../../assets/news/arizona-propositions-2026-ballot-explained/arizona-propositions-2026-ballot-explained.jpg
   alt: "Arizona propositions 2026: an official ballot with Proposition 141 beside a card reading early ballots must arrive by 7 p.m. Nov. 3"
   title: "Arizona's 8 propositions, Nov. 3, 2026"
-  caption: "Arizona voters decide eight propositions on Nov. 3, 2026, all sent to the ballot by the Legislature; early ballots must arrive by 7 p.m. on Election Day."
+  caption: "Arizona voters decided eight propositions on Nov. 3, 2026, all sent to the ballot by the Legislature; five passed and three failed in unofficial results."
 summary:
-  - "Arizona voters decide eight statewide propositions on Nov. 3, 2026, all referred by the Legislature: three constitutional amendments and five statutes."
-  - "They cover mileage-based taxes, race-based preferences, voter ID and citizenship, grocery taxes, drug cartels, school restrooms and sports, photo radar and school spending."
+  - "Arizona voters decided eight statewide propositions on Nov. 3, 2026, all referred by the Legislature: three constitutional amendments and five statutes."
+  - "In unofficial results, Propositions 141, 316, 317, 318 and 319 passed; Propositions 142, 144 and 320 failed."
+  - "The measures covered mileage-based taxes, race-based preferences, voter ID and citizenship, grocery taxes, drug cartels, school restrooms and sports, photo radar and school spending."
   - "No citizen initiative qualified, and courts removed two other legislative referrals before ballots were printed."
-  - "In-person early voting ran Oct. 7-30 and has ended; early ballots must be received by 7 p.m. on Election Day, and postmarks do not count."
 faq:
   - q: "How many propositions are on the Arizona ballot in 2026?"
-    a: "Eight: Propositions 141, 142 and 144, which would amend the state constitution, and Propositions 316, 317, 318, 319 and 320, which would change state law. All were referred by the Legislature."
+    a: "Eight: Propositions 141, 142 and 144, which proposed amending the state constitution, and Propositions 316, 317, 318, 319 and 320, which proposed changing state law. All were referred by the Legislature. In unofficial results, 141, 316, 317, 318 and 319 passed and 142, 144 and 320 failed."
   - q: "What is Prop 144 in Arizona?"
-    a: "A constitutional amendment that would state that only citizens may register and vote, bar foreign nationals from contributing to influence Arizona elections, require voters to provide government-issued identification to cast a ballot, and give voters a right to have their vote tabulated at their voting location."
+    a: "A constitutional amendment that would have stated that only citizens may register and vote, barred foreign nationals from contributing to influence Arizona elections, required voters to provide government-issued identification to cast a ballot, and given voters a right to have their vote tabulated at their voting location. Voters rejected it, with about 53% voting no in unofficial results reported by AZFamily."
   - q: "Do Arizona propositions numbered in the 100s and 300s differ?"
     a: "Yes. Numbers starting with 1 are constitutional amendments; numbers starting with 3 change state law. Measures referred by the Legislature cannot be vetoed by the governor."
   - q: "Is there a U.S. Senate race in Arizona in 2026?"
     a: "No. Arizona's Senate seats are next on the ballot in 2028 and 2030. The top race is governor, which this year is elected on a joint ticket with the new office of lieutenant governor."
-  - q: "When is my Arizona early ballot due?"
-    a: "It must be received by your county recorder or a drop-off location by 7 p.m. on Tuesday, Nov. 3. The suggested mailing date of about Oct. 27 has passed, so drop it off at a voting location or drop box on or before Election Day."
+  - q: "What was the Arizona early ballot deadline?"
+    a: "Early ballots had to be received by the county recorder or a drop-off location by 7 p.m. on Tuesday, Nov. 3. Postmarks did not count."
   - q: "What ID do I need to vote in person in Arizona?"
     a: "One valid photo ID with your name and address, such as an Arizona driver license or tribal ID; or two documents without a photo that show your name and address, such as a utility bill and a bank statement; or a mix of a photo ID and one such document."
 sources:
+  - title: "Arizona voters reject voter ID measure, approve grocery tax limits and cartel designation"
+    url: "https://www.azfamily.com/2026/11/06/arizona-voters-reject-voter-id-measure-approve-grocery-tax-limits-cartel-designation/"
+    publisher: "Arizona's Family (AZFamily)"
+    date: "2026-11-09"
+  - title: "Election Central: Unofficial results from races, propositions in Arizona"
+    url: "https://www.kold.com/2026/11/04/election-central-unofficial-results-races-propositions-arizona/"
+    publisher: "13 News in Tucson"
+    date: "2026-11-12"
   - title: "2026 Ballot Language (final)"
     url: "https://azsos.gov/sites/default/files/docs/2026-Ballot-Language-FINAL.pdf"
     publisher: "Arizona Secretary of State"
@@ -67,22 +75,22 @@ downloads:
 draft: false
 ---
 
-**Arizona voters will decide eight statewide propositions on Tuesday, Nov. 3, 2026, all sent to the ballot by the Legislature.** Three would amend the state constitution and five would change state law. No citizen initiative qualified this year, and courts struck two other legislative referrals over the summer, according to the Secretary of State's final ballot language and reporting by Axios Phoenix.
+**Arizona voters decided eight statewide propositions on Tuesday, Nov. 3, 2026, all sent to the ballot by the Legislature. In unofficial results, five passed and three failed.** Three were constitutional amendments and five were statutes. No citizen initiative qualified this year, and courts struck two other legislative referrals over the summer, according to the Secretary of State's final ballot language and reporting by Axios Phoenix.
 
 ## The eight propositions
 
-| Prop. | Type | What it would do |
-|---|---|---|
-| 141 | Constitutional amendment | Bar state and local governments from taxes or fees based on miles a vehicle travels, and limit monitoring of mileage without the owner's consent |
-| 142 | Constitutional amendment | Bar government bodies, including public schools and universities, from giving preferential treatment based on race or ethnicity, restricting certain diversity programs |
-| 144 | Constitutional amendment | State that only citizens may register and vote, bar foreign contributions to influence elections, require government-issued ID to vote and guarantee tabulation at the voting location |
-| 316 | Statute | Bar cities and towns from imposing or raising grocery taxes without voter approval, and cap the rate at 2% |
-| 317 | Statute | Designate drug cartels as terrorist organizations under Arizona law |
-| 318 | Statute | Require school restrooms, locker rooms and showers to be used according to the sex recorded at birth, and strengthen limits on transgender athletes on single-sex teams |
-| 319 | Statute | Ban photo radar traffic enforcement by state and local governments; existing contracts could continue only with voter approval |
-| 320 | Statute | Require school districts in the largest counties, or with at least 7,500 students, to spend at least 60% of operating budgets on direct instruction |
+| Prop. | Type | What it would do | Result (unofficial) |
+|---|---|---|---|
+| 141 | Constitutional amendment | Bar state and local governments from taxes or fees based on miles a vehicle travels, and limit monitoring of mileage without the owner's consent | Passed, about 51% to 49% |
+| 142 | Constitutional amendment | Bar government bodies, including public schools and universities, from giving preferential treatment based on race or ethnicity, restricting certain diversity programs | Failed, about 60% no |
+| 144 | Constitutional amendment | State that only citizens may register and vote, bar foreign contributions to influence elections, require government-issued ID to vote and guarantee tabulation at the voting location | Failed, about 53% no |
+| 316 | Statute | Bar cities and towns from imposing or raising grocery taxes without voter approval, and cap the rate at 2% | Passed, about 61.5% yes |
+| 317 | Statute | Designate drug cartels as terrorist organizations under Arizona law | Passed, about 57% yes |
+| 318 | Statute | Require school restrooms, locker rooms and showers to be used according to the sex recorded at birth, and strengthen limits on transgender athletes on single-sex teams | Passed |
+| 319 | Statute | Ban photo radar traffic enforcement by state and local governments; existing contracts could continue only with voter approval | Passed, about 61% yes |
+| 320 | Statute | Require school districts in the largest counties, or with at least 7,500 students, to spend at least 60% of operating budgets on direct instruction | Failed, about 51.6% no |
 
-A yes vote enacts each change; a no vote leaves current law in place. Because the Legislature referred all eight, they cannot be vetoed by the governor, and a measure that passes can only be changed later under Arizona's voter-protection rules. The official publicity pamphlet mailed to every household includes the full text, legislative analysis and arguments for and against.
+A yes vote enacted each change; a no vote left current law in place. Because the Legislature referred all eight, the governor could not veto them, and a measure that passed can only be changed later under Arizona's voter-protection rules. The percentages above come from AZFamily and 13 News in Tucson reports of unofficial counts, with Rose Law Group Reporter's election-night tallies matching on Propositions 316 and 317; Proposition 141 was among the last called, and certified results come from the Secretary of State. The official publicity pamphlet mailed to every household includes the full text, legislative analysis and arguments for and against.
 
 Numbers that start with 1 are constitutional amendments; numbers in the 300s are statutes. The gaps in the numbering come from measures that were removed or did not qualify.
 
@@ -91,7 +99,7 @@ Numbers that start with 1 are constitutional amendments; numbers in the 300s are
 - **Governor and lieutenant governor**, elected for the first time as a joint ticket under a 2022 voter-approved change that created the lieutenant governor's office.
 - **Secretary of state, attorney general, state treasurer, superintendent of public instruction and state mine inspector.**
 - **Corporation Commission**, two seats.
-- **Judicial retention:** voters decide whether to keep Arizona Supreme Court justices, Court of Appeals judges and, in larger counties, Superior Court judges. The Commission on Judicial Performance Review publishes its evaluations online.
+- **Judicial retention:** voters decided whether to keep Arizona Supreme Court justices, Court of Appeals judges and, in larger counties, Superior Court judges. The Commission on Judicial Performance Review publishes its evaluations online.
 
 There is no U.S. Senate race in Arizona in 2026. All nine U.S. House seats and the Legislature are on the ballot. Your sample ballot from the county lists the certified candidates.
 
@@ -103,9 +111,9 @@ There is no U.S. Senate race in Arizona in 2026. All nine U.S. House seats and t
 | Wed., Oct. 7 | Early voting began and early ballots were mailed |
 | Fri., Oct. 23 | Last day to request an early ballot by mail (passed) |
 | Fri., Oct. 30, 7 p.m. | End of in-person early voting (passed) |
-| Tue., Nov. 3, 6 a.m.-7 p.m. | Election Day; early ballots must be received by 7 p.m. |
+| Tue., Nov. 3, 6 a.m.-7 p.m. | Election Day (passed); early ballots had to be received by 7 p.m. |
 
-Arizona counts an early ballot only if it arrives by 7 p.m. on Election Day; a postmark is not enough. The suggested mailing date of about Oct. 27 has passed, so drop it off at a voting location or drop box. Sign the affidavit on the envelope, since the county checks that signature against your voter record and will contact you if it is missing or does not match. Arizona stays on Mountain Standard Time all year, so its 7 p.m. closing is 9 p.m. Eastern.
+Arizona counted an early ballot only if it arrived by 7 p.m. on Election Day; a postmark was not enough. Voters sign the affidavit on the envelope, since the county checks that signature against the voter record and contacts the voter if it is missing or does not match. Arizona stays on Mountain Standard Time all year, so its 7 p.m. closing was 9 p.m. Eastern.
 
 ## ID at the polls
 
@@ -113,4 +121,4 @@ Arizona requires identification to vote in person, in one of three ways: one val
 
 ## More election guides
 
-California also has a long list of measures this year; see our guide to [California's 14 propositions](/news/california-propositions-2026-november-ballot-explained/). For every state's rules, see [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/), and to look up your exact ballot by address, use our [sample ballot guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/). Print the Arizona checklist below and mark Nov. 3 on our [November printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html); the [October calendar](/october-calendars.html) shows the early voting days that just ended.
+California also has a long list of measures this year; see our guide to [California's 14 propositions](/news/california-propositions-2026-november-ballot-explained/). For every state's rules, see [mail ballot deadlines by state](/news/mail-ballot-deadlines-2026-by-state/), and to look up your exact ballot by address, use our [sample ballot guide](/news/sample-ballot-by-zip-code-2026-texas-ballot/). Print the Arizona checklist below and mark Nov. 3 on our [November printable calendar](/november-calendars.html) or a [weekly planner](/printable-weekly-calendar.html); the [October calendar](/october-calendars.html) shows the early voting days that ended Oct. 30.

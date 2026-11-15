@@ -3,7 +3,7 @@ title: "Date Format by Country: MM/DD vs DD/MM in 27 Locales"
 description: "Date formats by country: in Common Locale Data Repository (CLDR) 48, Jan. 2, 2027 is 01/02/2027 in U.S. English and 02/01/2027 in British English."
 type: explainer
 publishedAt: "2026-11-04T15:57:00-05:00"
-updatedAt: "2026-11-04T15:57:00-05:00"
+updatedAt: "2026-11-14T17:01:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["date format by country", "01/02/2027 meaning", "mm/dd/yyyy vs dd/mm/yyyy", "which countries use mm dd yyyy"]
@@ -40,6 +40,7 @@ sources:
   - title: "Unicode Common Locale Data Repository (CLDR)"
     url: "https://cldr.unicode.org/"
     publisher: "Unicode Consortium"
+    date: "2026-11-14"
   - title: "ISO 8601: international standard for date and time format"
     url: "https://help.iso.org/en/articles/376284-iso-8601-international-standard-for-date-and-time-format"
     publisher: "International Organization for Standardization"
@@ -127,7 +128,7 @@ assets:
 
 ## How do 27 locales write Jan. 2, 2027?
 
-We formatted Jan. 2, 2027 with CLDR 48 data through International Components for Unicode (ICU) 78.3, using the `short` date style of the JavaScript `Intl.DateTimeFormat` application programming interface (API) in Node.js, and again with a two-digit month, two-digit day and four-digit year. These are locale defaults, not laws. A country's people and agencies may also use other forms, and the result depends on the locale, not on the country alone.
+We formatted Jan. 2, 2027 with CLDR 48 data through International Components for Unicode (ICU) 78.3, using the `short` date style of the JavaScript `Intl.DateTimeFormat` application programming interface (API) in Node.js, and again with a two-digit month, two-digit day and four-digit year. These are locale defaults, not laws. A country's people and agencies may also use other forms, and the result depends on the locale, not on the country alone. The Unicode Consortium released CLDR 49 on Oct. 22, 2026; the data in these tables is CLDR 48, the version we ran, and we have not rerun it on CLDR 49.
 
 ### Month first (MM/DD/YYYY)
 

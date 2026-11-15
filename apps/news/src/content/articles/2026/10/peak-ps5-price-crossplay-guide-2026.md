@@ -3,6 +3,7 @@ title: "Can You Play PEAK Split Screen on PS5? Online Co-op Only"
 description: "PEAK on PS5 has no split-screen listed; official pages describe online co-op only. It costs $9.99, has Steam crossplay, and a disc edition is due Dec. 9."
 type: news
 publishedAt: "2026-10-23T03:00:00-04:00"
+updatedAt: "2026-11-14T17:06:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["PEAK PS5", "PEAK PS5 price", "PEAK PS5 crossplay", "PEAK PS5 release date", "PEAK cross-save"]
@@ -22,10 +23,11 @@ assets:
     title: "PEAK Game Night Checklist, 2026"
     subtitle: "What to check before you buy and before you climb"
     layout: checklist
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - { when: "", what: "Release: Oct. 22, 2026 on PS5, Xbox Series X and S, and Switch 2", section: "Before you buy" }
       - { when: "", what: "U.S. digital price on each console: $9.99 (other regions may differ)", section: "Before you buy" }
-      - { when: "", what: "Steam price: $3.99 (released June 16, 2025)", section: "Before you buy" }
+      - { when: "", what: "Steam: $7.99 list, $4.95 on sale Nov. 14 (released June 16, 2025)", section: "Before you buy" }
       - { when: "", what: "Online play needs PlayStation Plus, Nintendo Switch Online or Xbox's online subscription", section: "Before you buy" }
       - { when: "", what: "Solo offline play works without a subscription", section: "Before you buy" }
       - { when: "", what: "No progress transfer between platforms", section: "Before you buy" }
@@ -37,8 +39,7 @@ assets:
       - { when: "", what: "The island changes every 24 hours", section: "Before you climb" }
       - { when: "", what: "Settings: reduce head bobbing if motion makes you sick", section: "Before you climb" }
       - { when: "", what: "Stay together on the way up", section: "Before you climb" }
-    note: "Source: Landfall PEAK FAQ; PlayStation Store listing; PlayStation Blog, Oct. 15, 2026; Steam. Last checked Oct. 23, 2026."
-    inkSaver: true
+    note: "Source: Landfall PEAK FAQ; PlayStation Store listing; PlayStation Blog, Oct. 15, 2026; Steam. Last checked Nov. 14, 2026."
     description: "One-page PEAK checklist: price, crossplay, subscription and save rules to check before you buy, and what to set up before you climb with friends."
     alt: "Printable PEAK game night checklist with tick boxes for before you buy and before you climb"
 summary:
@@ -50,7 +51,7 @@ faq:
   - q: "When did PEAK come out on PS5?"
     a: "Thursday, Oct. 22, 2026, on PlayStation 5 (PS5), Xbox Series X|S and Nintendo Switch 2. The PC version on Steam came out June 16, 2025."
   - q: "How much is PEAK on PS5?"
-    a: "$9.99 in the U.S. as a digital download, according to the PlayStation Store. Other regions may differ. The Steam price is $3.99."
+    a: "$9.99 in the U.S. as a digital download, according to the PlayStation Store. Other regions may differ. The Steam list price is $7.99, and it was $4.95 on sale on Nov. 14, according to Steam."
   - q: "Does PEAK have crossplay on PS5?"
     a: "Yes. Landfall's FAQ says co-op works across Steam, Xbox Series X|S, Switch 2 and PS5."
   - q: "Does PEAK have cross-save?"
@@ -86,6 +87,7 @@ sources:
   - title: "PEAK on Steam"
     url: "https://store.steampowered.com/app/3527290/PEAK/"
     publisher: "Steam"
+    date: "2026-11-14"
   - title: "Peak climbs onto consoles next week, and a PS5 physical release coming in December"
     url: "https://www.thesixthaxis.com/?p=477402"
     publisher: "TheSixthAxis"
@@ -104,18 +106,8 @@ downloads:
     pdf: "/news/downloads/peak-ps5-2026/peak-game-night-checklist-2026.pdf"
     png: "/news/downloads/peak-ps5-2026/peak-game-night-checklist-2026.png"
     pages: 1
-  - group: "PEAK Game Night Checklist printables"
-    title: "PEAK Game Night Checklist, 2026 (ink saver)"
-    description: "One-page PEAK checklist: price, crossplay, subscription and save rules to check before you buy, and what to set up before you climb with friends. Ink-saver version."
-    preview: ../../../../assets/news/peak-ps5-2026/peak-game-night-checklist-2026-ink.png
-    alt: "Printable PEAK game night checklist with tick boxes for before you buy and before you climb, ink-saver version"
-    pdf: "/news/downloads/peak-ps5-2026/peak-game-night-checklist-2026-ink.pdf"
-    png: "/news/downloads/peak-ps5-2026/peak-game-night-checklist-2026-ink.png"
-    pages: 1
 draft: false
 ---
-
-<p class="callout"><b>Last checked Oct. 23, 2026.</b> Prices are U.S. prices from the official store pages; other regions may differ.</p>
 
 **PEAK launched on PlayStation 5 (PS5) on Thursday, Oct. 22, 2026, for $9.99 in the U.S. as a digital download, with crossplay across Steam, Xbox Series X|S and Nintendo Switch 2.** Landfall and Aggro Crab made the co-op climbing game. It has no cross-save and no online matchmaking, and online play on console needs a subscription.
 
@@ -124,7 +116,7 @@ draft: false
 | Question | Answer |
 |---|---|
 | Release | Thursday, Oct. 22, 2026 on PS5, Xbox Series X\|S and Switch 2 |
-| Price | $9.99 U.S. digital on each console; $3.99 on Steam |
+| Price | $9.99 U.S. digital on each console; Steam $7.99 list, $4.95 on sale Nov. 14 |
 | Crossplay | Yes: Steam, Xbox Series X\|S, Switch 2 and PS5 |
 | Players | Up to four online |
 | Console subscription | Needed for online play, not for solo offline play |
@@ -140,9 +132,9 @@ draft: false
 | PS5 | Oct. 22, 2026 | $9.99 digital |
 | Xbox Series X\|S | Oct. 22, 2026 | $9.99 digital |
 | Nintendo Switch 2 | Oct. 22, 2026 | $9.99 digital |
-| PC (Steam) | June 16, 2025 | $3.99 |
+| PC (Steam) | June 16, 2025 | $7.99 list; $4.95 on sale Nov. 14 |
 
-The console prices come from the PlayStation Store, Xbox Wire and the Nintendo store. The PS5 version includes all content updates, biomes and items added since the original launch, according to the PlayStation Blog. Prices elsewhere may differ. For when the Steam copy goes on sale, see our guide to the [Steam Winter Sale dates](/news/steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027/).
+The console prices come from the PlayStation Store, Xbox Wire and the Nintendo store. The PS5 version includes all content updates, biomes and items added since the original launch, according to the PlayStation Blog. Prices are U.S. prices from the official store pages and may differ elsewhere. For when the Steam copy goes on sale, see our guide to the [Steam Winter Sale dates](/news/steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027/).
 
 ## Crossplay: who can play with whom
 
@@ -177,7 +169,7 @@ Landfall's FAQ describes a settings option to reduce head bobbing, which helps w
 This section is our judgment, based only on the facts above.
 
 - **It suits** a group of up to four who want a $9.99 co-op game and already have a console subscription, or a player who wants a solo offline game. Friends on different platforms can play together.
-- **Consider waiting** if you expect to move a save between platforms, want to join strangers through matchmaking, or need split-screen on one TV. None of those is offered or listed. If you already own it on Steam for $3.99, the PS5 version does not carry your progress.
+- **Consider waiting** if you expect to move a save between platforms, want to join strangers through matchmaking, or need split-screen on one TV. None of those is offered or listed. If you already own it on Steam, the PS5 version does not carry your progress.
 
 ## First-climb checklist
 

@@ -3,7 +3,7 @@ title: "Mexico Time Difference After Nov. 1, 2026: Mexico City Matches Chicago"
 description: "Mexico City is on Chicago's time from Nov. 1, 2026, since most of Mexico did not fall back with US clocks. Tables of every zone and the border towns."
 type: explainer
 publishedAt: "2026-10-28T09:58:00-04:00"
-updatedAt: "2026-11-01T05:45:00-05:00"
+updatedAt: "2026-11-14T17:10:00-05:00"
 authors: [jessica-hartwell]
 category: time-change
 keywords: ["time difference Mexico and US after daylight saving time ends", "what time is it in Mexico City", "does Mexico change clocks November 2026", "Cancun time vs New York", "Tijuana time change November 1"]
@@ -23,6 +23,7 @@ assets:
   card: { top: "Mexico City from Sun., Nov. 1", big: "Same as Chicago", bottom: "1 hour behind New York" }
   overlay: true
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: mexico-us-time-difference-november-2026
     group: time-change-2026
     title: "US-Mexico Time Difference, Before and After Nov. 1, 2026"
@@ -95,7 +96,7 @@ draft: false
 
 US clocks went back one hour at 2 a.m. local time on **Sunday, Nov. 1, 2026**, according to the National Institute of Standards and Technology (NIST), but most of Mexico did not change under its Federal Law on Time Zones (Ley de los Husos Horarios en los Estados Unidos Mexicanos). So from Nov. 1, Mexico City is on the same time as Chicago, and Cancun is on the same time as New York. Only listed towns along the northern border moved their clocks that night.
 
-The tables below are our calculation from the two laws. A one-page [printable list of the US-Mexico time differences](/news/downloads/time-change-2026/mexico-us-time-difference-november-2026.pdf) is on this page for your desk.
+The tables below are our calculation from the two laws, and they hold until clocks move again in March. A one-page [printable list of the US-Mexico time differences](/news/downloads/time-change-2026/mexico-us-time-difference-november-2026.pdf) is on this page for your desk.
 
 ## Does Mexico change clocks on Nov. 1, 2026?
 
@@ -149,10 +150,10 @@ Since the 2022 law, only the northern border uses seasonal time. If your town is
 
 ## When does the next change happen?
 
-The same Article 5 rule puts the next change at 2 a.m. on the second Sunday of March. For the US, that is when daylight saving time returns; see our [daylight saving time guide](/when-is/daylight-savings/). For Canada's split, read [which provinces skip the Nov. 1 change](/news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/).
+The same Article 5 rule puts the next change at 2 a.m. on the second Sunday of March, which is March 14 in 2027 by our count. For the US, that is when daylight saving time returns; see our [daylight saving time guide](/when-is/daylight-savings/). For Canada's split, read [which provinces skip the Nov. 1 change](/news/canada-clocks-fall-back-november-1-2026-which-provinces-no-time-change/).
 
-## Quick checklist for Nov. 1
+## Quick checklist
 
 - Find your Mexican zone in the first table, then your US city in the second.
-- Recheck any recurring call between the US and Mexico: the gap changes by one hour on Nov. 1 for every zone outside the border list.
-- Mark Nov. 1 on a [November 2026 printable calendar](/november-calendars.html).
+- Recheck any recurring call between the US and Mexico: the gap changed by one hour on Nov. 1 for every zone outside the border list.
+- Keep a [November 2026 printable calendar](/november-calendars.html) nearby for the weeks before the next change.

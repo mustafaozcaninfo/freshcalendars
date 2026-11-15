@@ -3,6 +3,7 @@ title: "The Traitors Series 5 Start Date: BBC One in 2027, Not Yet Set"
 description: "The Traitors series 5 is due on BBC One in 2027, with no start date set as of 6 November 2026. See series 4's dates and the renewal deal to at least 2030."
 type: news
 publishedAt: "2026-11-06T13:52:00-05:00"
+updatedAt: "2026-11-14T17:01:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 dateline: "London"
@@ -21,7 +22,7 @@ hero:
 summary:
   - "The trade titles Advanced Television and Televisual both reported that The Traitors series 5 is coming to BBC One and BBC iPlayer in 2027. The British Broadcasting Corporation (BBC) has not announced a start date as of 6 November 2026."
   - "A three-year deal keeps the main show and The Celebrity Traitors on BBC One and BBC iPlayer until at least 2030, with main series 5 to 8 across 2027 to 2030."
-  - "Last year, series 4 launched on Thursday 1 January 2026 at 8pm and ran 12 episodes to its final on Friday 23 January 2026."
+  - "Earlier in 2026, series 4 launched on Thursday 1 January at 8pm and ran 12 episodes to its final on Friday 23 January 2026."
   - "US viewers can stream The Traitors: UK on Peacock, which lists the UK, Australia and US versions."
 faq:
   - q: "When does The Traitors series 5 start?"
@@ -29,7 +30,7 @@ faq:
   - q: "Is The Traitors coming back after 2027?"
     a: "Yes. The trade titles and the Royal Television Society (RTS) reported a three-year deal that keeps the main show and The Celebrity Traitors on BBC One and BBC iPlayer until at least 2030, covering main series 5 (2027), 6 (2028), 7 (2029) and 8 (2030)."
   - q: "When did The Traitors series 4 start and finish?"
-    a: "Last year, series 4 launched on Thursday 1 January 2026 (New Year's Day) at 8pm and finished with its final on Friday 23 January 2026, a run of 12 episodes over 23 days."
+    a: "Earlier in 2026, series 4 launched on Thursday 1 January (New Year's Day) at 8pm and finished with its final on Friday 23 January 2026, a run of 12 episodes over 23 days."
   - q: "How can I watch The Traitors in the US?"
     a: "Peacock says it streams The Traitors, The Traitors: UK and The Traitors: Australia. BBC One and BBC iPlayer carry the UK series in Britain."
 sources:
@@ -114,7 +115,7 @@ draft: false
 
 The Traitors series 5 is coming to BBC One and BBC iPlayer in 2027, though the British Broadcasting Corporation (BBC) has not set a start date as of 6 November 2026, according to the trade titles Advanced Television and Televisual. The BBC's own pages were not reachable for this report, so every fact below is drawn from at least two independent newsrooms, named in the text.
 
-If you are looking only for the exact date, there is not one yet: the two trades say "2027" and nothing narrower. This page sets out what the BBC has confirmed, the renewal schedule that runs to 2030, and when last year's series started and ended, and it will be updated when a date is announced.
+If you are looking only for the exact date, there is not one yet: the two trades say "2027" and nothing narrower. This page sets out what the BBC has confirmed, the renewal schedule that runs to 2030, and when series 4 started and ended in January 2026, and it will be updated when a date is announced.
 
 ## What the BBC has confirmed about The Traitors series 5
 
@@ -146,16 +147,16 @@ The Celebrity Traitors series 2 fell within this run. The Scotsman and Radio X b
 
 ## When The Traitors series 4 started and ended in 2026
 
-For a guide to the timing, last year's main series is the closest comparison. Hello Rayo and TellyMix both reported that series 4 launched on Thursday 1 January 2026, New Year's Day, at 8pm, and finished with its final on Friday 23 January 2026.
+For a guide to the timing, the January 2026 run of series 4 is the closest comparison. Hello Rayo and TellyMix both reported that series 4 launched on Thursday 1 January 2026, New Year's Day, at 8pm, and finished with its final on Friday 23 January 2026.
 
-| Milestone | Date (last year) |
+| Milestone | Date (series 4, 2026) |
 |---|---|
 | Launch | Thursday 1 January 2026, 8pm |
 | Final | Friday 23 January 2026 |
 | Episodes | 12 |
 | Run, launch to final | 23 days |
 
-Counting from launch to final, series 4 ran across 23 days. Whether series 5 keeps the New Year's Day slot is not confirmed; treat the 2026 pattern as last year's, not a 2027 schedule. A [January 2027 printable calendar](/january-calendars.html) is a place to mark a date once the BBC sets one, and a [printable yearly calendar](/printable-yearly-calendar.html) covers the whole run.
+Counting from launch to final, series 4 ran across 23 days. Whether series 5 keeps the New Year's Day slot is not confirmed; treat the 2026 pattern as series 4's, not a 2027 schedule. A [January 2027 printable calendar](/january-calendars.html) is a place to mark a date once the BBC sets one, and a [printable yearly calendar](/printable-yearly-calendar.html) covers the whole run.
 
 ## How to watch The Traitors in the US
 

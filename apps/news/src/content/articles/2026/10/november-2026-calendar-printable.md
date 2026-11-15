@@ -3,7 +3,7 @@ title: "November 2026 Calendar Printable: 14 Free PDFs With Holidays"
 description: "November 2026 starts Sunday, Nov. 1 and has 19 working days. 14 free printable PDFs mark Veterans Day, Nov. 11 and Thanksgiving, Nov. 26."
 type: explainer
 publishedAt: "2026-10-26T05:20:00-04:00"
-updatedAt: "2026-11-07T19:30:00-05:00"
+updatedAt: "2026-11-14T17:00:00-05:00"
 corrections:
   - date: "2026-10-27T03:00:00-04:00"
     text: "An earlier version swapped two Moon phases. The Moon is at last quarter on Sun., Nov. 1 and new on Mon., Nov. 9, per the U.S. Naval Observatory; the moon phase sheet and daily list are corrected."
@@ -52,6 +52,7 @@ sources:
   - title: "Dates and deadlines for 2027 health insurance"
     url: "https://www.healthcare.gov/quick-guide/dates-and-deadlines/"
     publisher: "HealthCare.gov (Centers for Medicare & Medicaid Services)"
+    date: "2026-11-14"
   - title: "Open enrollment"
     url: "https://www.medicare.gov/health-drug-plans/open-enrollment"
     publisher: "Medicare.gov (Centers for Medicare & Medicaid Services)"
@@ -220,7 +221,7 @@ Only Veterans Day and Thanksgiving are federal holidays. The rest of the table l
 |---|---|---|
 | Fri., Oct. 30 | November Supplemental Security Income (SSI) paid early, because Nov. 1 is a Sunday | Social Security Administration (SSA) |
 | Sun., Nov. 1, 2 a.m. | Daylight saving time ends; clocks fall back 1 hour | National Institute of Standards and Technology (NIST) |
-| Sun., Nov. 1 | HealthCare.gov open enrollment for 2027 plans begins | HealthCare.gov |
+| Sun., Nov. 1 | HealthCare.gov open enrollment for 2027 plans began; enroll by Dec. 15 for coverage starting Jan. 1 | HealthCare.gov |
 | Sun., Nov. 1, 3:28 p.m. EST | Last quarter Moon | U.S. Naval Observatory (USNO) |
 | Tue., Nov. 3 | Election Day; Social Security for people paid on the 3rd | State election offices; SSA |
 | Night of Nov. 4-5 | Southern Taurid meteor shower peak | American Meteor Society |
