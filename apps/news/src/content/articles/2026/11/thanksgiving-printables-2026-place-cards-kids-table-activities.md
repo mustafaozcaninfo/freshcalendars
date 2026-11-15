@@ -103,7 +103,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [thanksgiving-2026-planner-countdown-checklist, why-thanksgiving-2026-is-november-26, when-to-thaw-thanksgiving-turkey-2026]
+related: [thanksgiving-2026-planner-countdown-checklist, why-thanksgiving-2026-is-november-26, thanksgiving-trivia-2026-census-facts-printable-quiz]
 downloads:
   - group: "Thanksgiving printables 2026"
     title: "Thanksgiving Place Cards 2026"
