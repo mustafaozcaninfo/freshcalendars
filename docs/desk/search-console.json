@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-15T09:13:32.941Z",
+ "generatedAt": "2026-11-15T16:20:57.217Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -2346,10 +2346,10 @@
   "indexed": 75,
   "notIndexed": [
    {
-    "url": "https://freshcalendars.com/news/quordle-hints-answers-october-28-2026-1738/",
+    "url": "https://freshcalendars.com/news/blossom-word-game-answers-october-27-2026/",
     "status": "not indexed",
     "state": "Excluded by ‘noindex’ tag",
-    "age": 17
+    "age": 19
    }
   ],
   "states": {

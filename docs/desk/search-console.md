@@ -1,6 +1,6 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-15T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-15T16:20 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
@@ -284,7 +284,7 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 Sample of 90 stories published 2 to 21 days ago (the gate counts the 76 that are 7 to 21 days old): 89 Submitted and indexed, 1 Excluded by ‘noindex’ tag.
 
-- not indexed: /news/quordle-hints-answers-october-28-2026-1738/ (Excluded by ‘noindex’ tag), 17 days old
+- not indexed: /news/blossom-word-game-answers-october-27-2026/ (Excluded by ‘noindex’ tag), 19 days old
 
 ## Sitemaps
 
