@@ -2,6 +2,12 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-15 (search desk, evening)
+
+- **Same windows as the morning read (to Nov. 12), same totals; nothing new to decide.** Read of Nov. 15, 16:20 UTC: /news/ web week Nov. 6-12 2,452 clicks (-28% on 3,387), 527,535 impressions (-11% on 595,493); image 436 clicks, 262,355 impressions; Discover 0. Only one falling week, so the gate passes for Monday's phase decision (indexed 75 of 76, 99%); manual actions and security issues need the owner's check in Search Console.
+- **The gate's one miss is a deliberate noindex puzzle page for a fourth read: /news/blossom-word-game-answers-october-27-2026/** ("Excluded by 'noindex' tag", 19 days old). Manager: leave `noindex: true` stories out of the gate sample in `scripts/news-gsc.mjs` (the note of Nov. 13 stands). All four sitemaps 0 errors (/news/sitemap.xml 1,384 URLs, news sitemap 81).
+- **Still no briefs before Nov. 22.** Every non-puzzle candidate in this read (Native American Heritage Month theme, Canada 2027 holidays, Halloween weekday, Hanukkah, Pret Christmas menu, CBS holiday specials) was retitled by the Nov. 8 headline migration, and most were updated Nov. 13-15; the Black Friday ad tracker has an open item; the rest are past events, puzzle pages or running experiments.
+
 ## 2026-11-15 (search desk, morning)
 
 - **/news/ web clicks fell again in the week to Nov. 12, but still only one week in a row; the gate passes.** Read of Nov. 15, 09:13 UTC (windows to Nov. 12): /news/ web week Nov. 6-12 had 2,452 clicks (-28% on 3,387, week Oct. 30 to Nov. 5) and 527,535 impressions (-11% on 595,493); image 436 clicks (-24% on 571), 262,355 impressions (-16% on 312,384); Discover 0 for a tenth window. The week Oct. 30 to Nov. 5 rose on the one before, so "no fall two weeks in a row" still passes; if the week Nov. 13-19 falls again on Nov. 6-12, the gate fails on the read of about Nov. 23 (phase 2 would step back to 1). Manual actions and security issues still need the owner's check in Search Console.
