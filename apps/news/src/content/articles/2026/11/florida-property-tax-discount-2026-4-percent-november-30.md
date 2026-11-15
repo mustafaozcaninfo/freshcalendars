@@ -109,7 +109,7 @@ assets:
         - { cells: { month: "January 2027", disc: "2%", last: "Sun., Jan. 31, 2027", a3: "$2,940", a6: "$5,880" }, src: 1 }
         - { cells: { month: "February 2027", disc: "1%", last: "Sun., Feb. 28, 2027", a3: "$2,970", a6: "$5,940" }, src: 1 }
         - { cells: { month: "March 2027", disc: "None", last: "Wed., March 31, 2027", a3: "$3,000", a6: "$6,000" }, src: 2 }
-        - { cells: { month: "April 1, 2027 or later", disc: "Min. 3% charge", last: "Delinquent", a3: "$3,090", a6: "$6,180" }, src: 3 }
+        - { cells: { month: "April 1, 2027 or later", disc: "3% minimum charge", last: "Delinquent", a3: "$3,090", a6: "$6,180" }, src: 3 }
       unconfirmed:
         - { label: "County mailing dates and online cutoff times", why: "Not given on the sources read; check your county tax collector" }
 ---

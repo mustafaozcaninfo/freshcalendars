@@ -98,7 +98,7 @@ assets:
         - cells: { state: "New Jersey", program: "Temporary Disability and Family Leave Insurance", now: "0.24% + 0.24%", before: "0.19% + 0.23%", benefit: "$1,158 (disability)" }
           src: 7
           quote: "0.0024 (0.24%; 2026 0.19%); 0.0024 (0.24%; 2026 0.23%); 2027 Maximum Temporary Disability Insurance weekly benefit rate: $1,158"
-        - cells: { state: "Maryland", program: "Family and Medical Leave Insurance", now: "See FAMLI site", before: "None", benefit: "Starts Jan. 1, 2028" }
+        - cells: { state: "Maryland", program: "Family and Medical Leave Insurance", now: "Rate on the FAMLI site", before: "None", benefit: "Starts Jan. 1, 2028" }
           src: 8
           quote: "Payroll deductions begin January 1, 2027, but benefits don't start until January 1, 2028."
       note:
