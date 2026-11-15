@@ -63,6 +63,12 @@ export type SeoMeta = {
   };
   imageAlts: Record<string, string>;
   ogImagePath: string;
+  /**
+   * The pictures on the page that image search should show, as absolute URLs: the ImageObject data
+   * and the image sitemap list exactly these. Empty means the page has none to offer; unset keeps
+   * the single download image (pages that predate this list).
+   */
+  searchImages?: { url: string; width: number; height: number; name: string; description: string }[];
 };
 
 export const REQUIRED_SEO_KEYS = [

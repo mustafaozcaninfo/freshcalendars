@@ -27,7 +27,7 @@ const pdf=await PDFDocument.load(await response.body());assert(pdf.getPageCount(
 await page.locator('[data-choice=paper][data-value=letter]').click();await page.locator('[data-choice=start][data-value=sunday]').click();
 const letter=await PDFDocument.load(await(await context.request.get(base+await page.locator('[data-primary-download]').getAttribute('href'))).body());assert(letter.getPage(0).getWidth()===612&&letter.getPage(0).getHeight()===792,'Letter PDF has exact US Letter dimensions');
 await page.locator('[data-choice=format][data-value=png]').click();assert((await page.locator('[data-primary-download]').getAttribute('href')).endsWith('.png'),'PNG selection changes primary download');assert((await page.locator('.studio-secondary').getAttribute('href')).endsWith('.pdf'),'Alternate download remains available');
-for(const style of ['scenic','color-modern','classic-bw','floral','landscape-soft','holidays','notes-planner']){
+for(const style of ['scenic','color-modern','classic-bw','floral','landscape-soft','holidays','notes-planner','large-print']){
  await page.locator('.studio-style-tabs [data-value="'+style+'"]').click();const src=await page.locator('[data-main-preview]').getAttribute('src');assert((await context.request.get(base+src)).status()===200,style+' preview exists');
 }
 await page.locator('[data-favorite]').click();assert(await page.locator('[data-favorite]').getAttribute('aria-pressed')==='true','Favorite is saved');await page.reload();assert(await page.locator('[data-favorite]').getAttribute('aria-pressed')==='true','Favorite survives reload');

@@ -48,7 +48,9 @@ import {
   writeSitemap,
   writeSearchIndex,
 } from "./sitePages.js";
-import { ensureStudioAssets, ensureOtherPaperAssets, ensureYearlyStudio } from "./studio.js";
+import sharp from "sharp";
+import { ensureStudioAssets, ensureOtherPaperAssets, ensureYearlyStudio, SEARCH_IMAGE_WIDTHS } from "./studio.js";
+import { sheetSearchImages } from "./datedPages.js";
 
 export type GenOptions = {
   years: number[];
@@ -257,6 +259,10 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
     const meta = buildMetaForEntry(entry, resolved, { today });
     const errors = validateSeoMeta(meta);
     if (errors.length) throw new Error(`${meta.pageId}: ${errors.join(", ")}`);
+    // Month and year pages name the pictures on their design cards for image search (datedPages.ts).
+    const sheet = meta.calendar;
+    if (sheet.family === "monthly" && sheet.year && sheet.month) meta.searchImages = sheetSearchImages(sheet.year, sheet.month);
+    if (sheet.family === "yearly" && sheet.year) meta.searchImages = sheetSearchImages(sheet.year);
 
     const { html, contentHash } = splitVolatile(renderPageHtml(entry, meta, { today }));
     // lastmod moves only when the page's own content changes, not on every daily bake.
@@ -451,6 +457,7 @@ export async function verifyDist(): Promise<void> {
   const sitemapXml = await fs.readFile(path.join(DIST_SITE, "sitemap.xml"), "utf8");
   const sitemapPaths = [...sitemapXml.matchAll(/<loc>https:\/\/freshcalendars\.com([^<]*)<\/loc>/g)].map((m) => m[1] || "/").filter((u) => !u.startsWith("/news"));
   errors.push(...checkLinkGraph(sitePages, sitemapPaths));
+  const imageSitemapXml = await fs.readFile(path.join(DIST_SITE, "sitemap-images.xml"), "utf8");
 
   for (const p of manifest.pages) {
     const metaPath = path.join(DIST_META, `${p.pageId}.json`);
@@ -463,6 +470,21 @@ export async function verifyDist(): Promise<void> {
         p.path === "/" || p.path === "" ? "index.html" : p.path.replace(/^\//, "");
       const htmlPath = path.join(DIST_SITE, rel);
       await fs.access(htmlPath);
+
+      // Image search data must describe pictures that exist and that the page itself shows: the
+      // ImageObject data and the image sitemap once named files no <img> on the page used.
+      const pageHtml = await fs.readFile(htmlPath.endsWith(".html") ? htmlPath : path.join(htmlPath, "index.html"), "utf8");
+      for (const img of meta.searchImages ?? []) {
+        const rel = new URL(img.url).pathname;
+        for (const file of [rel, ...SEARCH_IMAGE_WIDTHS.map((w) => rel.replace(/\.webp$/, `-${w}.webp`))]) {
+          const info = await sharp(path.join(DIST, file)).metadata().catch(() => null);
+          if (!info) errors.push(`${p.pageId}: missing search image ${file}`);
+          else if (file === rel && (info.width !== img.width || info.height !== img.height)) errors.push(`${p.pageId}: search image ${file} is ${info.width}x${info.height}, meta says ${img.width}x${img.height}`);
+        }
+        if (!pageHtml.includes(`<img src="${rel}"`)) errors.push(`${p.pageId}: search image ${rel} is not shown on the page`);
+        if (!imageSitemapXml.includes(`<image:loc>${img.url}</image:loc>`) && meta.canonical === meta.url) errors.push(`${p.pageId}: search image ${rel} is not in sitemap-images.xml`);
+      }
+      if ((meta.calendar.month || meta.calendar.family === "yearly") && meta.calendar.year && meta.searchImages && !meta.searchImages.length) errors.push(`${p.pageId}: month or year page without search images`);
 
       if (meta.calendar.family === "monthly" && meta.calendar.year && meta.calendar.month) {
         const slug = monthNumberToSlug(meta.calendar.month);

@@ -152,7 +152,8 @@ function baseMeta(partial: {
     canonical: url,
     title: partial.title,
     description: partial.description,
-    robots: "index,follow",
+    // Lets search results show the calendar previews at full size instead of a small thumbnail.
+    robots: "index,follow,max-image-preview:large",
     author: SITE_NAME,
     themeColor: THEME_COLOR,
     keywords: partial.keywords,
@@ -292,7 +293,7 @@ export function buildMetaForEntry(
         },
         {
           q: `Which calendar should I download first?`,
-          a: `Start with this month's page, which has seven designs. Add the ${year} yearly calendar for the wall and a blank calendar for anything without fixed dates.`,
+          a: `Start with this month's page, which has eight designs. Add the ${year} yearly calendar for the wall and a blank calendar for anything without fixed dates.`,
         },
         {
           q: `Do the calendars include US holidays?`,
@@ -375,7 +376,8 @@ export function buildMetaForEntry(
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
-      title: `${name} ${year} Calendar · Free Printable PDF, 7 Designs`,
+      // "with holidays" is the modifier searchers add most; it is only said of a month that has one.
+      title: `${name} ${year} Calendar · Free Printable PDF${hols.length ? " with Holidays" : ", 8 Designs"}`,
       description: editorial.description(year),
       family: "monthly",
       year,
@@ -707,7 +709,7 @@ export function buildMetaForEntry(
           },
           {
             q: "Which monthly templates are linked?",
-            a: "Each month of the school year has a black-and-white PDF and a Monday-start PDF here, and all seven designs on its own page.",
+            a: "Each month of the school year has a black-and-white PDF and a Monday-start PDF here, and all eight designs on its own page.",
           },
         ],
       },
@@ -727,7 +729,7 @@ export function buildMetaForEntry(
           },
           {
             q: "Do all months have a Monday-start template?",
-            a: "Yes. Every month page offers a Monday start for all seven designs.",
+            a: "Yes. Every month page offers a Monday start for all eight designs.",
           },
           {
             q: "Is there a Monday-start blank template too?",

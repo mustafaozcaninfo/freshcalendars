@@ -1,6 +1,6 @@
 import { describe, it } from "node:test";
 import assert from "node:assert/strict";
-import { datedPages, datedYears, monthHref, yearHref } from "./datedPages.js";
+import { datedPages, datedYears, designCards, monthHref, sheetSearchImages, yearHref } from "./datedPages.js";
 
 const today = new Date(2026, 10, 12); // Nov 12, 2026
 
@@ -19,6 +19,27 @@ describe("dated month and year pages", () => {
       assert.ok(p.title.length <= 60, `${p.path} title ${p.title.length}`);
       assert.ok(p.description.length >= 110 && p.description.length <= 160, `${p.path} description ${p.description.length}`);
     }
+  });
+
+  it("names the search images after the query and shows the same files on the design cards", () => {
+    const month = sheetSearchImages(2026, 12), year = sheetSearchImages(2027);
+    assert.equal(month.length, 8);
+    // The wide, bold sheet leads: it is the one that reads at thumbnail size.
+    assert.equal(month[0]!.url, "https://cdn.freshcalendars.com/assets/studio/2026/december/large-print/december-2026-calendar-printable.webp");
+    assert.deepEqual([month[0]!.width, month[0]!.height], [3200, 2472]);
+    const classic = month.find((i) => i.url.endsWith("december-2026-calendar-classic.webp"))!;
+    assert.deepEqual([classic.width, classic.height], [2200, 2848]);
+    const wide = month.find((i) => i.url.endsWith("december-2026-calendar-landscape.webp"))!;
+    assert.deepEqual([wide.width, wide.height], [3200, 2200]);
+    assert.equal(year.length, 5);
+    assert.equal(year[0]!.url, "https://cdn.freshcalendars.com/assets/2027/yearly/classic/2027-yearly-calendar-classic.webp");
+    const all = [...month, ...year];
+    assert.equal(new Set(all.map((i) => i.url)).size, all.length);
+    assert.equal(new Set(all.map((i) => i.name)).size, all.length);
+    const cards = designCards(2026, 12);
+    for (const img of month) assert.ok(cards.includes(`<img src="${new URL(img.url).pathname}"`), img.url);
+    const page2028 = pages.find((p) => p.path === "/2028-calendar/")!;
+    for (const img of sheetSearchImages(2028)) assert.ok(page2028.body.includes(`<img src="${new URL(img.url).pathname}"`), img.url);
   });
 
   it("points a month or year the evergreen page shows at that page", () => {
