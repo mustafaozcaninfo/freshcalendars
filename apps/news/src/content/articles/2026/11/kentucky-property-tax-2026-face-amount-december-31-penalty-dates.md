@@ -68,7 +68,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
-related: [south-carolina-property-tax-due-january-15-2027-penalty-dates, pennsylvania-property-tax-rent-rebate-deadline-december-31-2026, la-county-property-tax-due-dates-2026-27-december-10]
+related: [south-carolina-property-tax-due-january-15-2027-penalty-dates, la-county-property-tax-due-dates-2026-27-december-10, florida-property-tax-discount-2026-4-percent-november-30]
 downloads:
   - group: "Kentucky Property Tax 2026 printables"
     title: "Kentucky Property Tax 2026: Lexington and Louisville Dates"

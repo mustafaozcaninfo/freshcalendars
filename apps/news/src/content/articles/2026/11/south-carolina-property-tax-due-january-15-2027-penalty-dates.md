@@ -78,7 +78,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [kentucky-property-tax-2026-face-amount-december-31-penalty-dates, la-county-property-tax-due-dates-2026-27-december-10, deadline-falls-on-weekend-rules-irs-courts-agencies]
+related: [kentucky-property-tax-2026-face-amount-december-31-penalty-dates, florida-property-tax-discount-2026-4-percent-november-30, deadline-falls-on-weekend-rules-irs-courts-agencies]
 draft: false
 downloads:
   - group: "South Carolina Property Tax Penalty Calendar 2027 printables"
