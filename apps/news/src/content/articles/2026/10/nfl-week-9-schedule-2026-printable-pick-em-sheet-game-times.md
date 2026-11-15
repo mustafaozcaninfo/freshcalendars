@@ -37,7 +37,7 @@ assets:
       - ["Sun., Nov. 8 · 8:20 p.m.", "Buccaneers at Bears (NBC)  Final: Bears 27, Buccaneers 24"]
       - ["Mon., Nov. 9 · 8:15 p.m.", "Bills at Vikings (ESPN, ESPN Deportes, ABC)  Final: Bills 23, Vikings 6"]
       - ["Monday total · Mon., Nov. 9", "Total points, Bills at Vikings: 29"]
-    note: "Source: National Football League, NFL.com Week 9 schedule and final scores (Nov. 14, 2026). Byes: Steelers, Titans."
+    note: "Source: National Football League, NFL.com Week 9 schedule and final scores. Byes: Steelers, Titans."
     description: "A one-page NFL Week 9 2026 sheet with all 15 games, Eastern Time kickoffs, TV networks and final scores."
     alt: "Printable NFL Week 9 2026 sheet listing 15 games with kickoff, network and final score"
 hero:

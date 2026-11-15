@@ -102,6 +102,8 @@ draft: false
 
 **Family Day 2027 falls on Monday, Feb. 15, the third Monday in February.** Alberta's general holidays page lists Alberta Family Day on that Monday, British Columbia lists Family Day on Feb. 15, Manitoba calls the day Louis Riel Day, Ontario's Employment Standards Act guide lists Family Day among its public holidays, and Nova Scotia's holiday regulation calls the same Monday Heritage Day. Print the one-page [February 2027 long weekend planner](/news/downloads/family-day-2027/family-day-long-weekend-planner-february-2027.pdf) below to mark it.
 
+Where Monday is a holiday, the long weekend runs from Saturday, Feb. 13 to Monday, Feb. 15, 2027.
+
 ## Family Day 2027 by province
 
 The table lists only what each province's own page says. The date is computed: the third Monday of February 2027 is Feb. 15.

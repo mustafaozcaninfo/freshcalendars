@@ -105,6 +105,8 @@ draft: false
 
 A price match uses another store's lower price. A price adjustment uses the same store's lower price after you have already paid. This story covers the second case. For competitor prices, see our guide to [Black Friday 2026 price match policies](/news/black-friday-2026-price-match-policy-stores/).
 
+Thanksgiving is Thursday, Nov. 26, 2026, and Black Friday is the next day, Nov. 27.
+
 ## Which stores refund a price drop after you buy?
 
 | Retailer | Refunds its own later price drop? | Window | Proof needed | Policy |

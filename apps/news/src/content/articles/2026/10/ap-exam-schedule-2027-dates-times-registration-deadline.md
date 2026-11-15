@@ -76,16 +76,16 @@ assets:
     layout: list
     columns: ["Day", "Morning (8 a.m.) and afternoon (12 p.m.)"]
     rows:
-      - ["Mon., May 3", "AM: Human Geography, Physics C: Mechanics. PM: Biology, Italian Language and Culture"]
-      - ["Tue., May 4", "AM: Business with Personal Finance, U.S. Government and Politics. PM: European History, Microeconomics"]
-      - ["Wed., May 5", "AM: Cybersecurity, English Literature and Composition. PM: Physics 1, Physics C: Electricity and Magnetism"]
-      - ["Thu., May 6", "AM: French Language and Culture, Physics 2, World History: Modern. PM: African American Studies, Chemistry"]
-      - ["Fri., May 7", "AM: German Language and Culture, United States History. PM: Macroeconomics, Networking (pilot schools)"]
-      - ["Mon., May 10", "AM: Calculus AB, Calculus BC. PM: Music Theory, Seminar"]
-      - ["Tue., May 11", "AM: Japanese Language and Culture, Precalculus. PM: Statistics"]
-      - ["Wed., May 12", "AM: English Language and Composition. PM: Art History, Computer Science A"]
-      - ["Thu., May 13", "AM: Spanish Language and Culture. PM: Chinese Language and Culture, Environmental Science"]
-      - ["Fri., May 14", "AM: Comparative Government and Politics, Computer Science Principles, Spanish Literature and Culture. PM: Latin, Psychology"]
+      - ["Mon., May 3", "Morning: Human Geography, Physics C: Mechanics. Afternoon: Biology, Italian Language and Culture"]
+      - ["Tue., May 4", "Morning: Business with Personal Finance, U.S. Government and Politics. Afternoon: European History, Microeconomics"]
+      - ["Wed., May 5", "Morning: Cybersecurity, English Literature and Composition. Afternoon: Physics 1, Physics C: Electricity and Magnetism"]
+      - ["Thu., May 6", "Morning: French Language and Culture, Physics 2, World History: Modern. Afternoon: African American Studies, Chemistry"]
+      - ["Fri., May 7", "Morning: German Language and Culture, United States History. Afternoon: Macroeconomics, Networking (pilot schools)"]
+      - ["Mon., May 10", "Morning: Calculus AB, Calculus BC. Afternoon: Music Theory, Seminar"]
+      - ["Tue., May 11", "Morning: Japanese Language and Culture, Precalculus. Afternoon: Statistics"]
+      - ["Wed., May 12", "Morning: English Language and Composition. Afternoon: Art History, Computer Science A"]
+      - ["Thu., May 13", "Morning: Spanish Language and Culture. Afternoon: Chinese Language and Culture, Environmental Science"]
+      - ["Fri., May 14", "Morning: Comparative Government and Politics, Computer Science Principles, Spanish Literature and Culture. Afternoon: Latin, Psychology"]
     note: "Source: College Board, 2027 AP Exam Dates. Morning exams 8 a.m., afternoon 12 p.m. local time in most U.S. schools."
     description: "The 2027 AP Exam schedule for May 3 to 14, with morning and afternoon exams for each day on one page."
     alt: "2027 AP Exam schedule printable listing morning and afternoon exams for May 3 to May 14"

@@ -18,7 +18,7 @@ assets:
     group: january-2027-school-holidays
     title: "January 2027 School Days Off by District"
     subtitle: "Winter break end, first day back and other January days listed on 36 district calendars"
-    note: "Source: the 2026-27 official calendars of the 36 districts listed, as of Nov. 4, 2026 (Hawaii rechecked Nov. 14). Check your own school's calendar."
+    note: "Source: the 2026-27 official calendars of the 36 districts listed, as of Nov. 4, 2026. Check your own school's calendar."
     description: "Table of January 2027 school days off in 36 U.S. districts: winter break end, first day back and Jan. 18 MLK Day, with staff days and early release."
     alt: "Printable table of January 2027 school days off by district, with winter break end, first day back and staff days"
     landscape: true

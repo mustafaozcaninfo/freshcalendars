@@ -100,7 +100,7 @@ assets:
       - ["Fri., Nov. 6, 2026", "Platinum Glove Awards and Heart & Hustle Awards"]
       - ["Mon., Nov. 9, 2026", "BBWAA Rookie of the Year; GM Meetings Nov. 9-12 in Las Vegas (reported)"]
       - ["Tue., Nov. 10, 2026", "BBWAA Manager of the Year"]
-      - ["Wed., Nov. 11, 2026", "BBWAA Cy Young and Relief Pitcher of the Year; All-MLB Teams; show at 9 p.m. ET"]
+      - ["Wed., Nov. 11, 2026", "BBWAA Cy Young and Relief Pitcher of the Year; All-MLB Teams"]
       - ["Thu., Nov. 12, 2026", "BBWAA M.V.P. Awards"]
       - ["Tue., Nov. 17, 2026", "Silver Slugger Awards; qualifying offer accept deadline, 4 p.m. ET"]
       - ["Fri., Nov. 20, 2026", "Non-tender deadline (MLB.com)"]

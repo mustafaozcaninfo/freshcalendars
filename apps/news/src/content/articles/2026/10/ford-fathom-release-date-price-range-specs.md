@@ -127,7 +127,7 @@ assets:
       - { when: "Home power", what: "Home Power Station and Backup Panel prices, utility approval", section: "Check before you preorder" }
       - { when: "Order", what: "Deposit amount, refund terms and delivery estimate", section: "Check before you preorder" }
       - { when: "Dealer", what: "Dealer fees, taxes, title and registration in your state", section: "Check before you preorder" }
-    note: "Source: Ford.com Fathom page; Ford From the Road, Aug. 6, Aug. 13, Oct. 27 and Oct. 28, 2026. Checked Oct. 30, 2026. Taxes and dealer fees extra."
+    note: "Source: Ford.com Fathom page; Ford From the Road, Aug. 6, Aug. 13, Oct. 27 and Oct. 28, 2026. Taxes and dealer fees extra."
     inkSaver: true
     description: "One-page Ford Fathom preorder checklist with Ford's confirmed price, 2027 dates and features, and the specs to check before ordering."
     alt: "Printable Ford Fathom preorder checklist 2027 with confirmed price, dates and features and the specs still to check"

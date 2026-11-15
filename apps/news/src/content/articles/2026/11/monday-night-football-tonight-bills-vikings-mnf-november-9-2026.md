@@ -19,7 +19,7 @@ assets:
     group: mnf-bills-vikings-2026
     title: "Bills at Vikings Monday Night Football Watch Guide, Nov. 9, 2026"
     subtitle: "Kickoff in Eastern, Central, Mountain and Pacific time"
-    note: "Source: Buffalo Bills 2026 schedule page; NFL.com Week 9 schedule; Minnesota Vikings game page, read Nov. 14, 2026. Times converted by Fresh Calendars."
+    note: "Source: Buffalo Bills 2026 schedule page; NFL.com Week 9 schedule; Minnesota Vikings game page. Times converted by Fresh Calendars."
     description: "A one-page Bills at Vikings watch guide for Mon., Nov. 9, 2026: the 8:15 p.m. ET kickoff on ESPN in every U.S. time zone, with a pick line."
     alt: "Printable watch guide for Bills at Vikings on Monday Night Football, Nov. 9, 2026, with kickoff in four U.S. time zones"
     landscape: false
