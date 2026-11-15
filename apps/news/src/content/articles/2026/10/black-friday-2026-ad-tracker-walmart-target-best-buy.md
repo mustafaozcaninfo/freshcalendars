@@ -165,7 +165,7 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [target-black-friday-2026-early-sale-november-5-7-price-match-dates, black-friday-2026-store-hours-walmart-target-best-buy, playstation-black-friday-2026-ps-store-deals-november-4-30]
+related: [target-black-friday-2026-early-sale-november-5-7-price-match-dates, black-friday-2026-store-hours-walmart-target-best-buy, restaurant-gift-card-deals-2026-bonus-cards-cheesecake-factory-panera-red-robin]
 downloads:
   - group: "Black Friday 2026 Deals Calendar printables"
     title: "Black Friday 2026 Deals Calendar, November 2026"
