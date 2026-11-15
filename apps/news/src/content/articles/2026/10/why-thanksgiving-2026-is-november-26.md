@@ -165,7 +165,7 @@ downloads:
     png: "/news/downloads/thanksgiving-2026/thanksgiving-2026-calendar-november-ink.png"
     pages: 1
 draft: false
-related: [thanksgiving-2026-planner-countdown-checklist, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, thanksgiving-printables-2026-place-cards-kids-table-activities]
+related: [thanksgiving-2026-planner-countdown-checklist, thanksgiving-trivia-2026-census-facts-printable-quiz, thanksgiving-printables-2026-place-cards-kids-table-activities]
 ---
 
 **Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November.** Federal law, 5 U.S. Code Section 6103, sets the holiday on that weekday, and the U.S. Office of Personnel Management (OPM) lists "Thursday, November 26" as a 2026 federal holiday. The date is not chosen each year; because the law ties Thanksgiving to a weekday, it slides around the calendar while Christmas and other fixed-number holidays stay put. Black Friday follows on Nov. 27. Below is the reason for the date, a table of Thanksgiving dates through 2035, and a printable you can keep.

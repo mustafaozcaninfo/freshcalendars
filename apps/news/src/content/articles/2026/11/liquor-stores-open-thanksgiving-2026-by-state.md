@@ -117,7 +117,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27, is-walgreens-open-thanksgiving-2026-pharmacies-cvs]
+related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, liquor-stores-open-christmas-new-years-2026-by-state, is-walgreens-open-thanksgiving-2026-pharmacies-cvs]
 downloads:
   - group: "Liquor Stores on Thanksgiving 2026 printables"
     title: "Liquor Stores on Thanksgiving 2026: States Closed"
