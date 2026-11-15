@@ -57,7 +57,7 @@ internalLinks:
     label: "When is Christmas?"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [letters-to-santa-2026-usps-operation-santa-canada-post-deadlines, cookie-exchange-2026-planner-printable-sign-up-sheet, secret-santa-2026-printable]
+related: [letters-to-santa-2026-usps-operation-santa-canada-post-deadlines, cookie-exchange-2026-planner-printable-sign-up-sheet, noon-years-eve-2026-kids-countdown-printable-events]
 downloads:
   - group: "Christmas printables 2026"
     title: "Christmas Gift Tags 2026"
