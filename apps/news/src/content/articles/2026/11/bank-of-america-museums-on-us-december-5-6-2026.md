@@ -89,7 +89,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar for 2027"
-related: [national-parks-free-days-october-27-veterans-day-2026, december-2026-important-dates-holidays-days-until]
+related: [national-parks-free-days-october-27-veterans-day-2026, december-2026-important-dates-holidays-days-until, ebt-snap-discounts-2026-amazon-prime-access-walmart-plus-assist-museums]
 downloads:
   - group: "Museums on Us Partner Museums by City printables"
     title: "Museums on Us Partner Museums by City, Dec. 5-6, 2026"
