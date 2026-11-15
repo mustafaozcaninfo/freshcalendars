@@ -36,6 +36,8 @@ import { buildDryJanuaryDownloads } from "./dryJanuary.js";
 import { buildJanuaryResetDownloads } from "./januaryReset.js";
 import { buildThanksgivingCookingDownloads } from "./thanksgivingCooking.js";
 import { buildThanksgivingPrintablesDownloads } from "./thanksgivingPrintables.js";
+import { buildCookieExchangeDownloads } from "./cookieExchange.js";
+import { buildChristmasPrintablesDownloads } from "./christmasPrintables.js";
 import { buildShoppingDownloads } from "./shopping2026.js";
 import { buildSkyDownloads } from "./sky2026.js";
 import { buildHeroes5 } from "./heroes5.js";
@@ -182,6 +184,10 @@ async function main(): Promise<void> {
       await buildThanksgivingCookingDownloads();
     } else if (cmd === "news-thanksgiving-printables") {
       await buildThanksgivingPrintablesDownloads();
+    } else if (cmd === "news-christmas-printables") {
+      await buildChristmasPrintablesDownloads();
+    } else if (cmd === "news-cookie-exchange") {
+      await buildCookieExchangeDownloads();
     } else if (cmd === "news-shopping") {
       await buildShoppingDownloads();
     } else if (cmd === "news-sky") {
@@ -284,6 +290,8 @@ async function main(): Promise<void> {
   pnpm fc news-thanksgiving-cooking        # /news/ Thanksgiving Day 2026 cooking plan by turkey weight
   pnpm fc news-christmas-movie-bingo       # /news/ Christmas movie bingo: 6 cards and a caller sheet
   pnpm fc news-thanksgiving-printables     # /news/ Thanksgiving place cards, gratitude cards and word search
+  pnpm fc news-christmas-printables        # /news/ Christmas gift tags, wish list and letter to Santa
+  pnpm fc news-cookie-exchange             # /news/ Cookie exchange sign-up sheet and recipe cards
   pnpm fc news-shopping                    # /news/ Black Friday planner + Christmas Eve checklist (3 themes each)
   pnpm fc news-sky                         # /news/ Orionid viewing times + checklist (night, ink)
   pnpm fc news-heroes5                     # /news/ spoiler-free heroes for daily puzzle stories
