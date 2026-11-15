@@ -94,7 +94,7 @@ assets:
     year: 2027
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Mon., Feb. 1, 2027", "W-2 and 1099 forms due to you (Jan. 31 is a Sunday)"]
+      - ["Mon., Feb. 1, 2027", "W-2 and 1099 forms due to you"]
       - ["Date to be announced", "IRS Free File opening: write the date here"]
       - ["Date to be announced", "IRS filing season opening: write the date here"]
       - ["Thu., April 15, 2027", "Tax Day: 2026 federal returns due"]

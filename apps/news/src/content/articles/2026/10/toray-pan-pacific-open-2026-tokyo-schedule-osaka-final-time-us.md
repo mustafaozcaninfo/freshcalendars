@@ -64,7 +64,7 @@ sources:
     publisher: "National Institute of Standards and Technology (NIST)"
 downloads:
   - group: "Tokyo 2026 Schedule and Results Tracker printables"
-    title: "Tokyo 2026 Schedule and Results Tracker, Oct. 29 to Nov. 1"
+    title: "Tokyo 2026 Schedule and Results Tracker"
     description: "A one-page Tokyo 2026 Toray Pan Pacific Open results sheet: the quarterfinals, semifinals and final, with the semifinal start time in Japan and U.S. Eastern Time."
     preview: ../../../../assets/news/toray-pan-pacific-open-2026/toray-pan-pacific-open-2026-schedule-results-tracker.png
     alt: "Tokyo 2026 Toray Pan Pacific Open results sheet with the quarterfinal, semifinal and final scores"
@@ -86,7 +86,7 @@ assets:
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: toray-pan-pacific-open-2026-schedule-results-tracker
     group: toray-pan-pacific-open-2026
-    title: "Tokyo 2026 Schedule and Results Tracker, Oct. 29 to Nov. 1"
+    title: "Tokyo 2026 Schedule and Results Tracker"
     subtitle: "Toray Pan Pacific Open, Tokyo, Oct. 30 to Nov. 1, 2026: quarterfinal, semifinal and final results."
     columns: ["Day and match", "Time and winner"]
     layout: list

@@ -50,7 +50,7 @@ assets:
       - ["March 13, 2027 (Sat.)", "Blues vs. Anaheim"]
       - ["March 20, 2027 (Sat.)", "Predators vs. Boston; Islanders vs. Philadelphia"]
       - ["April 1, 2027 (Thu.)", "Islanders at Pittsburgh"]
-    note: "Source: NHL.com and team pages (Sabres, Islanders, Predators, Blues), as of Oct. 27, 2026; unveil and sale date from NHL.com, Nov. 2, 2026. Checked Nov. 14, 2026."
+    note: "Source: NHL.com and team pages (Sabres, Islanders, Predators, Blues), as of Oct. 27, 2026; unveil and sale date from NHL.com, Nov. 2, 2026."
     description: "All 37 announced NHL Hometown Remix games for the Sabres, Islanders, Predators and Blues in date order, with weekdays and a Done box."
     alt: "Printable NHL Hometown Remix game tracker for 2026-27 listing every announced game in date order"
 hero:

@@ -35,7 +35,7 @@ assets:
       - ["Fri., Nov. 27", "At Chicago, 5:30 p.m. ET / 4:30 p.m. CT, TNT, truTV, HBO Max"]
       - ["Sat., Nov. 28", "Vs. Calgary, 7 p.m. ET, MSG, NHL Network"]
       - ["Mon., Nov. 30", "Vs. Carolina, 7 p.m. ET, MSG"]
-    note: "Source: National Hockey League schedule, fetched Nov. 2, 2026. Times are Eastern Time (ET); PT is Pacific Time, MT is Mountain Time, CT is Central Time. Home games are at Madison Square Garden. TV listings can change."
+    note: "Source: National Hockey League schedule. Times are Eastern Time (ET); PT is Pacific Time, MT is Mountain Time, CT is Central Time. Home games are at Madison Square Garden. TV listings can change."
     inkSaver: true
     description: "All 13 New York Rangers games in November 2026 with Eastern Time start times and TV, from the NHL schedule fetched Nov. 2, 2026."
     alt: "Printable New York Rangers schedule for November 2026 listing 13 games with Eastern Time start times and TV"

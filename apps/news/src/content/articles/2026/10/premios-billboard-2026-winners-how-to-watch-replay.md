@@ -56,7 +56,7 @@ assets:
       - { when: "", what: "Latin Rhythm Artist, Duo or Group: Wisin y Yandel", section: "More winners" }
       - { when: "", what: "Lifetime Achievement: Cristian Castro", section: "More winners" }
       - { when: "", what: "Icon Award: Rubén Blades", section: "More winners" }
-    note: "Source: Telemundo winners article, updated Oct. 23, 2026. Checked Oct. 25, 2026."
+    note: "Source: Telemundo winners article, updated Oct. 23, 2026."
 hero:
   src: ../../../../assets/news/premios-billboard-2026-winners-how-to-watch-replay/premios-billboard-2026-winners-how-to-watch-replay.webp
   alt: "Premios Billboard 2026 winners: the empty theater of the James L. Knight Center in Miami, rows of seats facing a lit stage"

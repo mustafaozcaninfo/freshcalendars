@@ -109,7 +109,7 @@ assets:
             - "will take place on Wednesday, Nov. 11, 2026, at 11 a.m. in the Memorial Amphitheater at Arlington National Cemetery."
             - "The tram is scheduled to operate beginning at approximately 8:30 a.m. until event capacity is reached."
         - start: "2026-11-11T09:45-05:00"
-          title: "Arrive at the tram no later than this time"
+          title: "Tram: be at the Welcome Center no later than this time"
           src: 1
           quote:
             - "will take place on Wednesday, Nov. 11, 2026, at 11 a.m. in the Memorial Amphitheater at Arlington National Cemetery."

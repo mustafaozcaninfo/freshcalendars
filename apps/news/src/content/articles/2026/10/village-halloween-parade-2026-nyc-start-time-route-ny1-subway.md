@@ -97,7 +97,7 @@ assets:
       - ["Sat., Oct. 31, 5 to 10 p.m.", "Downtown C trains bypass Spring Street station"]
       - ["Sat., Oct. 31, 5:30 p.m.", "Ticketed Skip the Line marcher arrival opens (5:30 to 8:30 p.m.)"]
       - ["Sat., Oct. 31, 6:30 to 9 p.m.", "Public line-up at Canal St. and 6th Ave.; enter from Sullivan, East Broome or Canal St."]
-      - ["Sat., Oct. 31, 7 p.m.", "Parade steps off; costume required to march"]
+      - ["Sat., Oct. 31, 7 p.m.", "Parade steps off; costume required to take part"]
       - ["Sat., Oct. 31, 8 p.m.", "Live on Spectrum News NY1"]
       - ["Sat., Oct. 31, around 11 p.m.", "Parade ends; watch between King St. and West 15th St."]
     note: "Source: New York's Village Halloween Parade (halloween-nyc.com), checked Oct. 30, 2026. Check Metropolitan Transportation Authority (MTA) service status before you leave."

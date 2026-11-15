@@ -128,7 +128,7 @@ The World Kindness Movement's site says: "The origins of World Kindness Day trac
 | Wed., Feb. 24, 2027 | Pink Shirt Day (Canada, anti-bullying) | Pink Shirt Day |
 | Sat., Nov. 13, 2027 | World Kindness Day | World Kindness Movement (fixed date) |
 
-The weekdays are our calculation from the published dates. World Kindness Day 2027 falls on Saturday, Nov. 13, 2027. Put the winter dates on the [February 2027 printable calendar](/february-calendars.html).
+The weekdays are our calculation from the published dates. World Kindness Day 2027 falls on Saturday, Nov. 13, 2027. The week planner dates its small acts Tue., Nov. 10, Wed., Nov. 11 and Thu., Nov. 12, before the day itself on Nov. 13. Put the winter dates on the [February 2027 printable calendar](/february-calendars.html).
 
 ## What free kindness resources are there for families and teachers?
 

@@ -92,7 +92,7 @@ assets:
     slug: game-release-calendar-2027
     group: game-releases-2027
     title: "2027 Game Release Calendar, Confirmed Dates"
-    subtitle: "Release dates publishers have confirmed as of Nov. 14, 2026"
+    subtitle: "Release dates publishers have confirmed"
     layout: list
     rows:
       - ["Jan. 15, 2027 (Fri.)", "Stranger Than Heaven (Sega): PS5, Xbox, PC"]

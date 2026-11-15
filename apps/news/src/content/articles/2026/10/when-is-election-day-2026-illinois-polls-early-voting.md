@@ -27,7 +27,7 @@ assets:
       - ["Thu., Oct. 29", "Last day to apply for a mail ballot by mail"]
       - ["Mon., Nov. 2", "Last day of in-person early voting"]
       - ["Tue., Nov. 3", "Election Day: polls open 6 a.m. to 7 p.m."]
-    note: "Source: Illinois State Board of Elections; Chicago Board of Election Commissioners; Cook County Clerk, checked Oct. 24, 2026. Confirm dates with your local election authority."
+    note: "Source: Illinois State Board of Elections; Chicago Board of Election Commissioners; Cook County Clerk. Confirm dates with your local election authority."
     notesLabel: "My polling place"
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     inkSaver: true

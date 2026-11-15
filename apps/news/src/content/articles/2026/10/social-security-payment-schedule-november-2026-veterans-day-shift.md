@@ -70,7 +70,7 @@ assets:
       - ["Tue., Nov. 10", "Birthdays 1st-10th (moved up from Veterans Day, Nov. 11)"]
       - ["Wed., Nov. 18", "Birthdays 11th-20th"]
       - ["Wed., Nov. 25", "Birthdays 21st-31st"]
-      - ["Tue., Dec. 1", "SSI for December"]
+      - ["Tue., Dec. 1", "December SSI payment"]
       - ["Thu., Dec. 3", "Started before May 1997, or Social Security plus SSI"]
       - ["Wed., Dec. 9", "Birthdays 1st-10th"]
       - ["Wed., Dec. 16", "Birthdays 11th-20th"]
