@@ -505,6 +505,11 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-spelling-bee-hints-answers-november-26-2026", "bee", "#1c1917", "#fb923c", "Spelling Bee · Thu., Nov. 26, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end.", "nyt-bee-november-26-a"],
   ["nyt-letter-boxed-answer-hints-november-17-2026", "letterboxed", "#3d1f1a", "#93c5fd", "Letter Boxed · Tue., Nov. 17, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-17-a"],
   ["contexto-answer-hints-november-19-2026-1523", "contexto", "#0f172a", "#86efac", "Contexto #1523 · Thu., Nov. 19, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-19-a"],
+  ["nyt-mini-crossword-answers-november-15-2026", "mini", "#0f1d2e", "#86efac", "NYT Mini · Sun., Nov. 15, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end.", "nyt-mini-november-15-a"],
+  ["nyt-midi-crossword-answers-november-15-2026", "midi", "#13213a", "#fdba74", "NYT Midi · Sun., Nov. 15, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end.", "nyt-midi-november-15-a"],
+  ["nyt-crossword-answers-november-15-2026", "crossword", "#172033", "#fcd34d", "NYT Crossword · Sun., Nov. 15, 2026", "NYT Crossword answers", "A hint for every clue first, the full solved grid at the end.", "nyt-crossword-november-15-a"],
+  ["nyt-letter-boxed-answer-hints-november-18-2026", "letterboxed", "#3d1f1a", "#86efac", "Letter Boxed · Wed., Nov. 18, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-18-a"],
+  ["contexto-answer-hints-november-20-2026-1524", "contexto", "#0f172a", "#fca5a5", "Contexto #1524 · Fri., Nov. 20, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-20-a"],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
