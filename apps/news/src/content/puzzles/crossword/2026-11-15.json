@@ -1,0 +1,2169 @@
+{
+ "title": "Side Tracks",
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-15",
+ "constructors": [
+  "Sala Wanetick and Emily Biegas"
+ ],
+ "width": 21,
+ "height": 21,
+ "cells": [
+  "P",
+  "L",
+  "A",
+  "N",
+  "A",
+  "R",
+  null,
+  "H",
+  "A",
+  "Z",
+  "E",
+  "S",
+  null,
+  "S",
+  "C",
+  "A",
+  "N",
+  null,
+  "G",
+  "O",
+  "V",
+  "R",
+  "A",
+  "M",
+  "O",
+  "N",
+  "A",
+  null,
+  "E",
+  "M",
+  "E",
+  "R",
+  "Y",
+  null,
+  "T",
+  "A",
+  "M",
+  "E",
+  null,
+  "R",
+  "C",
+  "A",
+  "E",
+  "V",
+  "E",
+  "R",
+  "Y",
+  "B",
+  "O",
+  "D",
+  "Y",
+  "D",
+  "A",
+  "N",
+  "C",
+  "E",
+  "N",
+  "O",
+  "W",
+  null,
+  "A",
+  "T",
+  "M",
+  "P",
+  "A",
+  "R",
+  "M",
+  null,
+  "B",
+  "R",
+  "B",
+  null,
+  null,
+  null,
+  "T",
+  "U",
+  "P",
+  "A",
+  "C",
+  null,
+  "C",
+  "H",
+  "A",
+  "P",
+  null,
+  null,
+  null,
+  "A",
+  "H",
+  "I",
+  "S",
+  "E",
+  "E",
+  null,
+  "S",
+  "H",
+  "E",
+  "S",
+  "S",
+  "O",
+  "H",
+  "E",
+  "A",
+  "V",
+  "Y",
+  "S",
+  "N",
+  "A",
+  "R",
+  "E",
+  null,
+  "O",
+  "R",
+  "N",
+  "O",
+  "T",
+  null,
+  "S",
+  "I",
+  "T",
+  null,
+  "E",
+  "L",
+  "M",
+  "E",
+  "R",
+  "P",
+  "U",
+  "T",
+  "A",
+  "R",
+  "I",
+  "N",
+  "G",
+  "O",
+  "N",
+  "I",
+  "T",
+  null,
+  "N",
+  "A",
+  "S",
+  "A",
+  "L",
+  null,
+  null,
+  null,
+  "O",
+  "T",
+  "T",
+  "E",
+  "R",
+  "S",
+  null,
+  null,
+  "C",
+  "U",
+  "R",
+  "E",
+  "D",
+  null,
+  null,
+  "A",
+  "D",
+  "O",
+  "P",
+  "T",
+  "S",
+  "T",
+  "S",
+  "E",
+  null,
+  null,
+  "T",
+  "E",
+  "C",
+  "H",
+  "S",
+  null,
+  "P",
+  "A",
+  "P",
+  "A",
+  "L",
+  null,
+  null,
+  "E",
+  "E",
+  "K",
+  "T",
+  "A",
+  "S",
+  null,
+  "U",
+  "H",
+  "U",
+  "H",
+  null,
+  null,
+  "D",
+  "E",
+  "R",
+  "O",
+  "S",
+  "S",
+  "I",
+  null,
+  "A",
+  "L",
+  "Y",
+  "E",
+  "B",
+  "T",
+  null,
+  "P",
+  "A",
+  "R",
+  "E",
+  "N",
+  "T",
+  "H",
+  "E",
+  "T",
+  "I",
+  "C",
+  "A",
+  "L",
+  null,
+  "C",
+  "E",
+  "L",
+  "S",
+  "O",
+  "S",
+  null,
+  "S",
+  "T",
+  "O",
+  "R",
+  "I",
+  "E",
+  "S",
+  null,
+  null,
+  "S",
+  "O",
+  "R",
+  "E",
+  null,
+  "E",
+  "P",
+  "I",
+  "T",
+  "U",
+  "T",
+  null,
+  null,
+  "A",
+  "S",
+  "I",
+  "C",
+  "S",
+  null,
+  "S",
+  "E",
+  "E",
+  "T",
+  "O",
+  null,
+  null,
+  "S",
+  "A",
+  "G",
+  "S",
+  "T",
+  "O",
+  "L",
+  "E",
+  "N",
+  null,
+  null,
+  "O",
+  "C",
+  "T",
+  "E",
+  "T",
+  null,
+  null,
+  "J",
+  "U",
+  "D",
+  "I",
+  "T",
+  "H",
+  null,
+  null,
+  null,
+  "A",
+  "R",
+  "O",
+  "S",
+  "E",
+  null,
+  "O",
+  "H",
+  "W",
+  "H",
+  "A",
+  "T",
+  "A",
+  "N",
+  "I",
+  "G",
+  "H",
+  "T",
+  "A",
+  "T",
+  "A",
+  "R",
+  "I",
+  null,
+  "E",
+  "L",
+  "L",
+  null,
+  "E",
+  "N",
+  "O",
+  "L",
+  "A",
+  null,
+  "T",
+  "O",
+  "N",
+  "Y",
+  "S",
+  "N",
+  "A",
+  "I",
+  "V",
+  "E",
+  "M",
+  "E",
+  "L",
+  "O",
+  "D",
+  "Y",
+  null,
+  "S",
+  "L",
+  "I",
+  "P",
+  "O",
+  "N",
+  null,
+  null,
+  null,
+  "O",
+  "T",
+  "R",
+  "A",
+  null,
+  "A",
+  "K",
+  "I",
+  "R",
+  "A",
+  null,
+  null,
+  null,
+  "E",
+  "G",
+  "O",
+  null,
+  "Y",
+  "A",
+  "K",
+  "S",
+  "I",
+  "T",
+  "D",
+  null,
+  "T",
+  "H",
+  "E",
+  "P",
+  "I",
+  "N",
+  "A",
+  "C",
+  "O",
+  "L",
+  "A",
+  "D",
+  "A",
+  "S",
+  "O",
+  "N",
+  "G",
+  "N",
+  "O",
+  "R",
+  null,
+  "O",
+  "A",
+  "R",
+  "S",
+  null,
+  "S",
+  "N",
+  "O",
+  "R",
+  "E",
+  null,
+  "I",
+  "N",
+  "U",
+  "N",
+  "I",
+  "T",
+  "T",
+  "O",
+  "Y",
+  null,
+  "E",
+  "L",
+  "S",
+  "E",
+  null,
+  "E",
+  "D",
+  "G",
+  "E",
+  "S",
+  null,
+  "A",
+  "S",
+  "S",
+  "E",
+  "T",
+  "S"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Flat",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "Stupors",
+   "cells": [
+    7,
+    8,
+    9,
+    10,
+    11
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Read, as a bar code",
+   "cells": [
+    13,
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Ending of some D.C. addresses",
+   "cells": [
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "___ Singer, longtime cast member on \"The Real Housewives of New York City\"",
+   "cells": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Board at a nail salon",
+   "cells": [
+    28,
+    29,
+    30,
+    31,
+    32
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Housebroken, say",
+   "cells": [
+    34,
+    35,
+    36,
+    37
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Classic TV brand",
+   "cells": [
+    39,
+    40,
+    41
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "\"Gonna Make You Sweat\" (1990)",
+   "cells": [
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56,
+    57,
+    58
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Fixture at many a cash-only restaurant",
+   "cells": [
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "Chicken ___ (cheesy dish)",
+   "cells": [
+    63,
+    64,
+    65,
+    66
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "\"Hang tight,\" in textspeak",
+   "cells": [
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Rap artist who once appeared as a hologram at Coachella",
+   "cells": [
+    74,
+    75,
+    76,
+    77,
+    78
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "30",
+   "text": "Mate",
+   "cells": [
+    80,
+    81,
+    82,
+    83
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "31",
+   "text": "\"Oh, OK\"",
+   "cells": [
+    87,
+    88,
+    89,
+    90,
+    91,
+    92
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "\"I Want You\" (1969)",
+   "cells": [
+    94,
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "36",
+   "text": "Trap",
+   "cells": [
+    105,
+    106,
+    107,
+    108,
+    109
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "39",
+   "text": "\"… never mind\"",
+   "cells": [
+    111,
+    112,
+    113,
+    114,
+    115
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "41",
+   "text": "Canine command",
+   "cells": [
+    117,
+    118,
+    119
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "42",
+   "text": "\"___ the Patchwork Elephant\" (children's book series)",
+   "cells": [
+    121,
+    122,
+    123,
+    124,
+    125
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "43",
+   "text": "\"Single Ladies\" (2008)",
+   "cells": [
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "46",
+   "text": "Like the sounds \"m,\" \"n\" and \"ng,\" in English",
+   "cells": [
+    139,
+    140,
+    141,
+    142,
+    143
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "48",
+   "text": "Emmitt and kin, in \"Zootopia\"",
+   "cells": [
+    147,
+    148,
+    149,
+    150,
+    151,
+    152
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "49",
+   "text": "Like some meats",
+   "cells": [
+    155,
+    156,
+    157,
+    158,
+    159
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "51",
+   "text": "Picks up",
+   "cells": [
+    162,
+    163,
+    164,
+    165,
+    166,
+    167
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "55",
+   "text": "Mao ___-tung",
+   "cells": [
+    168,
+    169,
+    170
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "56",
+   "text": "Some medical assistants, in brief",
+   "cells": [
+    173,
+    174,
+    175,
+    176,
+    177
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "59",
+   "text": "Relating to Leo XIV, e.g.",
+   "cells": [
+    179,
+    180,
+    181,
+    182,
+    183
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "62",
+   "text": "Exclamation on some Halloween décor",
+   "cells": [
+    186,
+    187,
+    188
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "63",
+   "text": "Profs' right hands",
+   "cells": [
+    189,
+    190,
+    191
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "64",
+   "text": "[Wags finger]",
+   "cells": [
+    193,
+    194,
+    195,
+    196
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "65",
+   "text": "Portia of \"Arrested Development\"",
+   "cells": [
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "67",
+   "text": "Olympic gymnast Raisman",
+   "cells": [
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "68",
+   "text": "Govt. payment system",
+   "cells": [
+    210,
+    211,
+    212
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "69",
+   "text": "What six answers in this puzzle are vis-à-vis the song titles in their clues",
+   "cells": [
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "72",
+   "text": "Animation frame",
+   "cells": [
+    228,
+    229,
+    230
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "73",
+   "text": "\"Code red! Code red!\"",
+   "cells": [
+    231,
+    232,
+    233
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "74",
+   "text": "Officially, the Empire State Building has 102 of them",
+   "cells": [
+    235,
+    236,
+    237,
+    238,
+    239,
+    240,
+    241
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "75",
+   "text": "Aggrieved",
+   "cells": [
+    244,
+    245,
+    246,
+    247
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "76",
+   "text": "Lead-in to \"curious,\" for a food website",
+   "cells": [
+    249,
+    250,
+    251
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "77",
+   "text": "Disapproving sound",
+   "cells": [
+    252,
+    253,
+    254
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "78",
+   "text": "Japanese sneaker maker",
+   "cells": [
+    257,
+    258,
+    259,
+    260,
+    261
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "79",
+   "text": "Take care of",
+   "cells": [
+    263,
+    264,
+    265,
+    266,
+    267
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "81",
+   "text": "Lose to gravity",
+   "cells": [
+    270,
+    271,
+    272
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "82",
+   "text": "Like some of the French crown jewels in 2025",
+   "cells": [
+    273,
+    274,
+    275,
+    276,
+    277,
+    278
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "85",
+   "text": "Certain jazz combo",
+   "cells": [
+    281,
+    282,
+    283,
+    284,
+    285
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "87",
+   "text": "Feminist scholar Butler",
+   "cells": [
+    288,
+    289,
+    290,
+    291,
+    292,
+    293
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "90",
+   "text": "Cropped up",
+   "cells": [
+    297,
+    298,
+    299,
+    300,
+    301
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "93",
+   "text": "\"December, 1963\" (1975)",
+   "cells": [
+    303,
+    304,
+    305,
+    306,
+    307,
+    308,
+    309,
+    310,
+    311,
+    312,
+    313,
+    314
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "96",
+   "text": "Early arcade name",
+   "cells": [
+    315,
+    316,
+    317,
+    318,
+    319
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "99",
+   "text": "Couch shape",
+   "cells": [
+    321,
+    322,
+    323
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "101",
+   "text": "Sherlock's sister on TV",
+   "cells": [
+    325,
+    326,
+    327,
+    328,
+    329
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "102",
+   "text": "Musical collection, say",
+   "cells": [
+    331,
+    332,
+    333,
+    334,
+    335
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "103",
+   "text": "\"This Must Be the Place\" (1983)",
+   "cells": [
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343,
+    344,
+    345,
+    346
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "106",
+   "text": "Clog or loafer",
+   "cells": [
+    348,
+    349,
+    350,
+    351,
+    352,
+    353
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "108",
+   "text": "___ vez (again, in Spanish)",
+   "cells": [
+    357,
+    358,
+    359,
+    360
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "109",
+   "text": "Landmark 1988 Japanese animated film",
+   "cells": [
+    362,
+    363,
+    364,
+    365,
+    366
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "110",
+   "text": "Freud conceived of a \"super\" one",
+   "cells": [
+    370,
+    371,
+    372
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "111",
+   "text": "Talks, talks, talks",
+   "cells": [
+    374,
+    375,
+    376,
+    377
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "115",
+   "text": "\"___ be nice!\"",
+   "cells": [
+    378,
+    379,
+    380
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "116",
+   "text": "\"Escape\" (1979)",
+   "cells": [
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395,
+    396,
+    397,
+    398
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "121",
+   "text": "Neither's partner",
+   "cells": [
+    399,
+    400,
+    401
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "122",
+   "text": "Rest on one's ___",
+   "cells": [
+    403,
+    404,
+    405,
+    406
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "123",
+   "text": "Unconsciously make noise?",
+   "cells": [
+    408,
+    409,
+    410,
+    411,
+    412
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "124",
+   "text": "Like some apartment appliances",
+   "cells": [
+    414,
+    415,
+    416,
+    417,
+    418,
+    419
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "125",
+   "text": "Goody bag item",
+   "cells": [
+    420,
+    421,
+    422
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "126",
+   "text": "If's partner, in coding",
+   "cells": [
+    424,
+    425,
+    426,
+    427
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "127",
+   "text": "Defeats by a hair",
+   "cells": [
+    429,
+    430,
+    431,
+    432,
+    433
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "128",
+   "text": "Foreign spies, e.g.",
+   "cells": [
+    435,
+    436,
+    437,
+    438,
+    439,
+    440
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "___ school",
+   "cells": [
+    0,
+    21,
+    42,
+    63
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Hot stuff",
+   "cells": [
+    1,
+    22,
+    43,
+    64
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Red, white and blue land: Abbr.",
+   "cells": [
+    2,
+    23,
+    44,
+    65
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Oscar-winning Sally Field role of 1979",
+   "cells": [
+    3,
+    24,
+    45,
+    66,
+    87,
+    108,
+    129,
+    150
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Whichever",
+   "cells": [
+    4,
+    25,
+    46
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Clergyperson on the bimah",
+   "cells": [
+    5,
+    26,
+    47,
+    68,
+    89
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Comedian Mitch who said \"An escalator can never break; it can only become stairs\"",
+   "cells": [
+    7,
+    28,
+    49,
+    70,
+    91,
+    112,
+    133
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "\"Gilmore Girls\" creator ___ Sherman-Palladino",
+   "cells": [
+    8,
+    29,
+    50
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "British ending",
+   "cells": [
+    9,
+    30,
+    51
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Flop ___ (period of personal setbacks, in modern slang)",
+   "cells": [
+    10,
+    31,
+    52
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Instrument associated with '80s music",
+   "cells": [
+    11,
+    32,
+    53,
+    74,
+    95
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Helps to handle something",
+   "cells": [
+    13,
+    34,
+    55,
+    76,
+    97,
+    118,
+    139
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Rummy relative",
+   "cells": [
+    14,
+    35,
+    56,
+    77,
+    98,
+    119,
+    140
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "14",
+   "text": "BP brand",
+   "cells": [
+    15,
+    36,
+    57,
+    78,
+    99
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "Email status",
+   "cells": [
+    16,
+    37,
+    58
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "16",
+   "text": "Kind of cracker",
+   "cells": [
+    18,
+    39,
+    60,
+    81,
+    102,
+    123
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Musical interval",
+   "cells": [
+    19,
+    40,
+    61,
+    82,
+    103,
+    124
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "Another name for the Slayer Handbook, in the \"Buffy\" franchise",
+   "cells": [
+    20,
+    41,
+    62,
+    83,
+    104,
+    125
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Filmmaker Welles",
+   "cells": [
+    48,
+    69,
+    90,
+    111,
+    132
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Sticks on a table",
+   "cells": [
+    54,
+    75,
+    96,
+    117
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "30",
+   "text": "Instrument with an endpin",
+   "cells": [
+    80,
+    101,
+    122,
+    143,
+    164
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "Mr. abroad",
+   "cells": [
+    88,
+    109,
+    130,
+    151
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "33",
+   "text": "Cain's firstborn",
+   "cells": [
+    92,
+    113,
+    134,
+    155,
+    176
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "34",
+   "text": "Recipe directive",
+   "cells": [
+    94,
+    115,
+    136,
+    157
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "35",
+   "text": "Broccoli unit",
+   "cells": [
+    100,
+    121,
+    142,
+    163
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "36",
+   "text": "Some quick chemical assessments",
+   "cells": [
+    105,
+    126,
+    147,
+    168,
+    189,
+    210,
+    231,
+    252,
+    273
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "37",
+   "text": "Gaga for",
+   "cells": [
+    106,
+    127,
+    148,
+    169,
+    190,
+    211,
+    232,
+    253,
+    274
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "38",
+   "text": "Co-signs",
+   "cells": [
+    107,
+    128,
+    149,
+    170,
+    191,
+    212,
+    233,
+    254,
+    275
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "40",
+   "text": "Albatross",
+   "cells": [
+    114,
+    135,
+    156,
+    177
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "44",
+   "text": "\"Are you out?\"",
+   "cells": [
+    131,
+    152,
+    173,
+    194,
+    215,
+    236,
+    257,
+    278,
+    299
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "45",
+   "text": "Conical dwelling",
+   "cells": [
+    137,
+    158,
+    179,
+    200,
+    221
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "47",
+   "text": "Mexican dip",
+   "cells": [
+    141,
+    162,
+    183,
+    204,
+    225,
+    246,
+    267,
+    288,
+    309
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "50",
+   "text": "Fabric fold stitched into a waistline, say",
+   "cells": [
+    159,
+    180,
+    201,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "52",
+   "text": "Hand gesture in the form of \"bunny ears\"",
+   "cells": [
+    165,
+    186,
+    207,
+    228,
+    249,
+    270,
+    291,
+    312,
+    333
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "53",
+   "text": "Giving thought to somebody?",
+   "cells": [
+    166,
+    187,
+    208,
+    229,
+    250,
+    271,
+    292,
+    313,
+    334
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "54",
+   "text": "Atrium features",
+   "cells": [
+    167,
+    188,
+    209,
+    230,
+    251,
+    272,
+    293,
+    314,
+    335
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "57",
+   "text": "They're used in Ireland but not Northern Ireland",
+   "cells": [
+    174,
+    195,
+    216,
+    237,
+    258
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "58",
+   "text": "French darling",
+   "cells": [
+    175,
+    196,
+    217,
+    238,
+    259
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "60",
+   "text": "Composure",
+   "cells": [
+    181,
+    202,
+    223,
+    244,
+    265
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "61",
+   "text": "Scarflike tie",
+   "cells": [
+    182,
+    203,
+    224,
+    245,
+    266
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "64",
+   "text": "Positive periods",
+   "cells": [
+    193,
+    214,
+    235
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "65",
+   "text": "Cabinet creation of 2002, in brief",
+   "cells": [
+    199,
+    220,
+    241
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "66",
+   "text": "Michigan's Grosse ___",
+   "cells": [
+    205,
+    226,
+    247
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "70",
+   "text": "One-named singer who collaborated with the Velvet Underground",
+   "cells": [
+    218,
+    239,
+    260,
+    281
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "71",
+   "text": "U.K. grocery chain",
+   "cells": [
+    219,
+    240,
+    261,
+    282,
+    303
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "79",
+   "text": "Like most clothing",
+   "cells": [
+    263,
+    284,
+    305,
+    326
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "80",
+   "text": "Essential character",
+   "cells": [
+    264,
+    285,
+    306,
+    327,
+    348
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "83",
+   "text": "Grub",
+   "cells": [
+    276,
+    297,
+    318,
+    339,
+    360
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "84",
+   "text": "Shallowest Great Lake",
+   "cells": [
+    277,
+    298,
+    319,
+    340
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "86",
+   "text": "\"So ___ say\"",
+   "cells": [
+    283,
+    304,
+    325,
+    346
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "88",
+   "text": "Golden Rule preposition",
+   "cells": [
+    289,
+    310,
+    331,
+    352
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "89",
+   "text": "Bacchanal honoree",
+   "cells": [
+    290,
+    311,
+    332,
+    353,
+    374,
+    395,
+    416,
+    437
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "91",
+   "text": "Those on a quest",
+   "cells": [
+    300,
+    321,
+    342,
+    363,
+    384,
+    405,
+    426
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "92",
+   "text": "Planetary orbit shape",
+   "cells": [
+    301,
+    322,
+    343,
+    364,
+    385,
+    406,
+    427
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "94",
+   "text": "Genetic variants",
+   "cells": [
+    307,
+    328,
+    349,
+    370,
+    391,
+    412,
+    433
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "95",
+   "text": "Siberian forest",
+   "cells": [
+    308,
+    329,
+    350,
+    371,
+    392
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "96",
+   "text": "Rub with oil, say",
+   "cells": [
+    315,
+    336,
+    357,
+    378,
+    399,
+    420
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "97",
+   "text": "Result of someone needling you?",
+   "cells": [
+    316,
+    337,
+    358,
+    379,
+    400,
+    421
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "98",
+   "text": "Hang on a clothesline, say",
+   "cells": [
+    317,
+    338,
+    359,
+    380,
+    401,
+    422
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "100",
+   "text": "___ Beth Denberg, original cast member of \"All That\"",
+   "cells": [
+    323,
+    344,
+    365,
+    386
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "104",
+   "text": "Taj ___",
+   "cells": [
+    341,
+    362,
+    383,
+    404,
+    425
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "105",
+   "text": "Ballet, par exemple",
+   "cells": [
+    345,
+    366,
+    387,
+    408,
+    429
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "107",
+   "text": "Speaking spots",
+   "cells": [
+    351,
+    372,
+    393,
+    414,
+    435
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "112",
+   "text": "Top of the top",
+   "cells": [
+    375,
+    396,
+    417,
+    438
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "113",
+   "text": "Do some fiber art",
+   "cells": [
+    376,
+    397,
+    418,
+    439
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "114",
+   "text": "Squad leaders: Abbr.",
+   "cells": [
+    377,
+    398,
+    419,
+    440
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "116",
+   "text": "Third of three X's, maybe",
+   "cells": [
+    382,
+    403,
+    424
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "117",
+   "text": "\"Your point being …?\"",
+   "cells": [
+    388,
+    409,
+    430
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "118",
+   "text": "Worker bee, so to speak",
+   "cells": [
+    389,
+    410,
+    431
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "119",
+   "text": "Load from a lode",
+   "cells": [
+    390,
+    411,
+    432
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "120",
+   "text": "Q&A part: Abbr.",
+   "cells": [
+    394,
+    415,
+    436
+   ]
+  }
+ ]
+}

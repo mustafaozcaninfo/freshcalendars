@@ -1,0 +1,643 @@
+{
+ "title": "Keep It Simple",
+ "editor": "Ian Livengood",
+ "publicationDate": "2026-11-15",
+ "constructors": [
+  "Jeffrey Martinovic"
+ ],
+ "width": 11,
+ "height": 11,
+ "cells": [
+  "B",
+  "A",
+  "D",
+  "P",
+  "R",
+  null,
+  null,
+  "F",
+  "A",
+  "S",
+  "T",
+  "U",
+  "S",
+  "A",
+  "G",
+  "E",
+  null,
+  "V",
+  "I",
+  "S",
+  "T",
+  "A",
+  "R",
+  "E",
+  "H",
+  "A",
+  "B",
+  "C",
+  "E",
+  "N",
+  "T",
+  "E",
+  "R",
+  "P",
+  "A",
+  "L",
+  null,
+  "A",
+  "I",
+  "R",
+  null,
+  "R",
+  "A",
+  "G",
+  null,
+  null,
+  null,
+  "C",
+  "R",
+  "A",
+  "B",
+  "C",
+  "A",
+  "K",
+  "E",
+  null,
+  "S",
+  "A",
+  "D",
+  null,
+  null,
+  null,
+  "C",
+  "Y",
+  "S",
+  "T",
+  "L",
+  "A",
+  "B",
+  "C",
+  "O",
+  "A",
+  "T",
+  "S",
+  null,
+  null,
+  null,
+  "E",
+  "L",
+  "S",
+  null,
+  "A",
+  "N",
+  "O",
+  null,
+  "W",
+  "I",
+  "I",
+  "A",
+  "S",
+  "E",
+  "A",
+  "S",
+  "Y",
+  "A",
+  "S",
+  "A",
+  "B",
+  "C",
+  "D",
+  "A",
+  "N",
+  "T",
+  "E",
+  null,
+  "S",
+  "H",
+  "R",
+  "E",
+  "K",
+  null,
+  null,
+  "T",
+  "V",
+  "S",
+  null,
+  "T",
+  "E",
+  "S",
+  "T",
+  "Y"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Unflattering press coverage, for short",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Do without food",
+   "cells": [
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Cellphone bill figure",
+   "cells": [
+    11,
+    12,
+    13,
+    14,
+    15
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "View from a mountaintop",
+   "cells": [
+    17,
+    18,
+    19,
+    20,
+    21
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Place to recover from knee or shoulder surgery",
+   "cells": [
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "\"Hey, buddy old ___!\"",
+   "cells": [
+    33,
+    34,
+    35
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Beach ball filler",
+   "cells": [
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Mechanic's cloth",
+   "cells": [
+    41,
+    42,
+    43
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Signature Maryland seafood offering",
+   "cells": [
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Down in the dumps",
+   "cells": [
+    56,
+    57,
+    58
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Skin bump",
+   "cells": [
+    62,
+    63,
+    64,
+    65
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Chemists' attire ",
+   "cells": [
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Chicago trains",
+   "cells": [
+    77,
+    78,
+    79
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "\"I'll take that as ___\"",
+   "cells": [
+    81,
+    82,
+    83
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "Gaming console with a motion-sensing remote",
+   "cells": [
+    85,
+    86,
+    87
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "31",
+   "text": "Like child's play ... or (hopefully!) this puzzle?",
+   "cells": [
+    88,
+    89,
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "\"Inferno\" author",
+   "cells": [
+    99,
+    100,
+    101,
+    102,
+    103
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "35",
+   "text": "Animated ogre of film",
+   "cells": [
+    105,
+    106,
+    107,
+    108,
+    109
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "36",
+   "text": "Living room staples",
+   "cells": [
+    112,
+    113,
+    114
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "37",
+   "text": "On edge",
+   "cells": [
+    116,
+    117,
+    118,
+    119,
+    120
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Rude sound preceding \"Excuse me\"",
+   "cells": [
+    0,
+    11,
+    22,
+    33
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Cruising along?",
+   "cells": [
+    1,
+    12,
+    23,
+    34
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Roald of children's literature",
+   "cells": [
+    2,
+    13,
+    24,
+    35
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Scottie Scheffler's org.",
+   "cells": [
+    3,
+    14,
+    25
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Metal rod placed in concrete",
+   "cells": [
+    4,
+    15,
+    26,
+    37,
+    48
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Ominous sight when swimming in the ocean",
+   "cells": [
+    7,
+    18,
+    29
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Wide of the mark",
+   "cells": [
+    8,
+    19,
+    30,
+    41,
+    52,
+    63
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "T-bones and tomahawks",
+   "cells": [
+    9,
+    20,
+    31,
+    42,
+    53,
+    64
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Chain with a red bull's-eye logo",
+   "cells": [
+    10,
+    21,
+    32,
+    43,
+    54,
+    65
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Boom or bust, e.g.",
+   "cells": [
+    17,
+    28,
+    39,
+    50
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "U.S. org. concerned with bugs",
+   "cells": [
+    27,
+    38,
+    49
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "U.S. org. concerned with bugs",
+   "cells": [
+    47,
+    58,
+    69
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "Includes in an email chain, for short",
+   "cells": [
+    51,
+    62,
+    73
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "Tortilla chip dip",
+   "cells": [
+    56,
+    67,
+    78,
+    89,
+    100
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "20",
+   "text": "Missing",
+   "cells": [
+    57,
+    68,
+    79,
+    90,
+    101,
+    112
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "Metal alchemists tried to turn into gold",
+   "cells": [
+    66,
+    77,
+    88,
+    99
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "Places of refuge",
+   "cells": [
+    70,
+    81,
+    92,
+    103,
+    114
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "\"___ idea?\"",
+   "cells": [
+    71,
+    82,
+    93
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Eggs go-with",
+   "cells": [
+    72,
+    83,
+    94,
+    105,
+    116
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "Major conflicts",
+   "cells": [
+    85,
+    96,
+    107,
+    118
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "29",
+   "text": "Possible response to someone who claims to be able to do a double backflip",
+   "cells": [
+    86,
+    97,
+    108,
+    119
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "30",
+   "text": "Disgusting",
+   "cells": [
+    87,
+    98,
+    109,
+    120
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "Off-roader's ride",
+   "cells": [
+    91,
+    102,
+    113
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "33",
+   "text": "___-wolf",
+   "cells": [
+    95,
+    106,
+    117
+   ]
+  }
+ ]
+}
