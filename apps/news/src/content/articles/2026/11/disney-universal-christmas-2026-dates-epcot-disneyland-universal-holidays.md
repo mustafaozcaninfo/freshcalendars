@@ -90,7 +90,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [mickeys-very-merry-christmas-party-2026-dates-calendar-tickets, christmas-2026-calendar-printable-countdown, niagara-falls-winter-festival-of-lights-2026-27-fireworks-schedule]
+related: [mickeys-very-merry-christmas-party-2026-dates-calendar-tickets, six-flags-holiday-in-the-park-2026-dates-by-park, niagara-falls-winter-festival-of-lights-2026-27-fireworks-schedule]
 draft: false
 assets:
   overlay: true
