@@ -84,7 +84,7 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [black-friday-2026-ad-tracker-walmart-target-best-buy, home-depot-black-friday-2026-sale-dates-november-5-25-store-hours, black-friday-2026-price-match-policy-stores]
+related: [black-friday-2026-ad-tracker-walmart-target-best-buy, is-walmart-open-thanksgiving-2026-black-friday-6-am, black-friday-2026-price-match-policy-stores]
 downloads:
   - group: "Walmart Black Friday 2026 Deal Calendar printables"
     title: "Walmart Black Friday 2026 Deal Calendar"

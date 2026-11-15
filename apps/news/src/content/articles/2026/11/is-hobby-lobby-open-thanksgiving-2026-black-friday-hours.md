@@ -101,7 +101,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [black-friday-2026-store-hours-walmart-target-best-buy, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, christmas-eve-christmas-day-2026-store-hours]
+related: [black-friday-2026-store-hours-walmart-target-best-buy, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, is-ikea-open-thanksgiving-2026-black-friday-christmas]
 downloads:
   - group: "Hobby Lobby Holiday Hours 2026 printables"
     title: "Hobby Lobby Holiday Hours 2026, Nov. 26 to Jan. 1"
