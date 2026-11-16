@@ -22,7 +22,7 @@
     // resolve without redirects (assemble.mjs). Unmatched paths go to the Worker.
     "html_handling": "auto-trailing-slash",
     "not_found_handling": "none",
-    "run_worker_first": ["/news/downloads/*", "/api/*"]
+    "run_worker_first": ["/news/downloads/*", "/assets/*", "/api/*"]
   },
   "r2_buckets": [
     { "binding": "CDN", "bucket_name": "freshcalendars" },
