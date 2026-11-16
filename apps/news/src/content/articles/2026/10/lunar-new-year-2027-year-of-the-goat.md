@@ -52,7 +52,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [ramadan-2027-calendar-dates-timetable, dongzhi-festival-2026-december-22-winter-solstice, orthodox-christmas-2027-january-7-three-kings-day-january-6]
+related: [ramadan-2027-calendar-dates-timetable, dongzhi-festival-2026-december-22-winter-solstice, hmong-new-year-2026-fresno-december-31-january-3-schedule]
 downloads:
   - group: "Lunar New Year printables"
     title: "Lunar New Year 2027 Calendar"
