@@ -1,6 +1,6 @@
 ---
 title: "CBS Sports Classic 2026: Kentucky-UNC at 2:30 p.m. ET, Dec. 19"
-description: "CBS Sports Classic 2026 is Dec. 19 in New York: Kentucky-North Carolina at 2:30 p.m. ET. Tip times in 4 U.S. zones, matchups to 2029, a printable viewing card."
+description: "CBS Sports Classic 2026 is Dec. 19 in New York: Kentucky-North Carolina at 2:30 p.m. ET. Tip times in 4 U.S. zones, matchups to 2029, a printable."
 type: news
 publishedAt: "2026-11-15T22:45:00-05:00"
 updatedAt: "2026-11-15T22:45:00-05:00"
@@ -90,6 +90,10 @@ sources:
     url: "https://www2.ljworld.com/sports/ku-mens-basketball/2026/jan/28/ku-joins-cbs-sports-classic-event-first-game-is-next-season-against-ohio-state/"
     publisher: "Lawrence Journal-World"
     date: "2026-01-28"
+  - title: "Kansas Joins CBS Sports Classic Field Through 2029"
+    url: "https://kuathletics.com/news/2026/1/28/mens-basketball-kansas-joins-cbs-sports-classic-field-through-2029"
+    publisher: "Kansas Athletics"
+    date: "2026-01-28"
   - title: "CBS Sports Classic 2025 announcement"
     url: "https://www.cbssportsclassic.com/?p=20127"
     publisher: "CBS Sports Classic"
@@ -142,7 +146,7 @@ Official travel packages "include tickets to both games and hotel accommodations
 
 ## Which matchups are set through 2029?
 
-The organizer's Jan. 28, 2026 release says the CBS Sports Classic added Kansas and "has been extended through 2029 with all four schools." It says the matchups and dates for 2027, 2028 and 2029 "have also been set." Kentucky Athletics gives Kentucky's games, and the Lawrence Journal-World, a newspaper, gave Kansas's; the two agree. Both say the sites are not yet determined.
+The organizer's Jan. 28, 2026 release says the CBS Sports Classic added Kansas and "has been extended through 2029 with all four schools." It says the matchups and dates for 2027, 2028 and 2029 "have also been set." Kentucky Athletics gives Kentucky's games; Kansas Athletics and the Lawrence Journal-World, a newspaper, give Kansas's. They agree. Both say the sites are not yet determined.
 
 | Date | Game one | Game two |
 |---|---|---|

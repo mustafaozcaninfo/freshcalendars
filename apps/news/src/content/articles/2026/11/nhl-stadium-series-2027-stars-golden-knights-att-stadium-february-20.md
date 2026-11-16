@@ -1,6 +1,6 @@
 ---
 title: "NHL Stadium Series 2027: Stars vs. Golden Knights Feb. 20 on ABC"
-description: "The 2027 NHL Stadium Series is Saturday, Feb. 20, at 7 p.m. CT on ABC. Start time in four U.S. zones and the UK, the season's three outdoor games, a printable."
+description: "The 2027 NHL Stadium Series is Sat., Feb. 20, at 7 p.m. CT on ABC. Start time in 4 U.S. zones and the UK, the season's three outdoor games, a printable."
 type: news
 publishedAt: "2026-11-15T22:36:00-05:00"
 updatedAt: "2026-11-15T22:36:00-05:00"
