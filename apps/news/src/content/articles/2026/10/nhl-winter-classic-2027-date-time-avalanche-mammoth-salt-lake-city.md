@@ -64,7 +64,7 @@ internalLinks:
     label: "When is New Year's Eve?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [colorado-avalanche-schedule-december-2026-game-times-tv-printable, nhl-global-series-2026-helsinki-dusseldorf-dates-start-times, pittsburgh-penguins-schedule-november-2026-game-times-tv-printable]
+related: [colorado-avalanche-schedule-december-2026-game-times-tv-printable, nhl-global-series-2026-helsinki-dusseldorf-dates-start-times, nhl-stadium-series-2027-stars-golden-knights-att-stadium-february-20]
 assets:
   overlay: true
   kicker: "NHL Winter Classic · Thu., Dec. 31, 2026"

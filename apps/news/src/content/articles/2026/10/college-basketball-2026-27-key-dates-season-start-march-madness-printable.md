@@ -103,7 +103,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic, march-madness-2027-printable-bracket, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis]
+related: [college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic, march-madness-2027-printable-bracket, cbs-sports-classic-2026-kentucky-north-carolina-kansas-ohio-state-december-19]
 downloads:
   - group: "College Basketball Key Dates 2026-27 printables"
     title: "College Basketball Key Dates 2026-27"
