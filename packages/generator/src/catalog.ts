@@ -28,7 +28,8 @@ export type MonthlyVariant = {
 };
 
 export const PORTRAIT: PrintSize = { width: 1100, height: 1420 };
-export const LANDSCAPE: PrintSize = { width: 1600, height: 1100 };
+/** US Letter on its side (11 x 8.5 in), so a wide sheet fills the page it prints on. */
+export const LANDSCAPE: PrintSize = { width: 1600, height: 1236 };
 
 /** Default / primary download shown in meta.download */
 export const DEFAULT_MONTHLY_VARIANT: MonthlyVariantId = "classic-bw";
@@ -39,7 +40,7 @@ export const MONTHLY_VARIANTS: MonthlyVariant[] = [
     label: "Classic Black & White",
     shortLabel: "Classic B&W",
     description:
-      "High-contrast minimal grid for crisp laser or ink-jet printing. Clean sans header, thin rules, no color ink required.",
+      "Black ink only: a heavy title, big dates and US holidays named in the boxes. No color ink required.",
     templateFile: "classic-bw.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -52,7 +53,7 @@ export const MONTHLY_VARIANTS: MonthlyVariant[] = [
     label: "Modern Color",
     shortLabel: "Color",
     description:
-      "A color header and weekday strip in teal and coral, light on ink.",
+      "A blue title band, rounded date boxes and US holidays named in red.",
     templateFile: "color-modern.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -65,7 +66,7 @@ export const MONTHLY_VARIANTS: MonthlyVariant[] = [
     label: "US Holidays Marked",
     shortLabel: "Holidays",
     description:
-      "US holidays named in the date boxes, with the weekend columns tinted.",
+      "US holidays named in the date boxes and listed below the grid, with the weekend columns tinted.",
     templateFile: "holidays.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -78,7 +79,7 @@ export const MONTHLY_VARIANTS: MonthlyVariant[] = [
     label: "Notes Planner",
     shortLabel: "Planner",
     description:
-      "Oversized day cells with ruled lines plus a wide notes column for handwriting-first monthly planning.",
+      "Ruled date boxes with big dates, plus a notes column with priorities and next-month lines.",
     templateFile: "notes-planner.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -91,7 +92,7 @@ export const MONTHLY_VARIANTS: MonthlyVariant[] = [
     label: "Landscape Soft",
     shortLabel: "Landscape",
     description:
-      "A wide landscape sheet with a soft seasonal tint and centered type.",
+      "US Letter on its side: a green title band, full weekday names, big dates and US holidays named.",
     templateFile: "landscape-soft.html",
     size: LANDSCAPE,
     weekStartsOn: 0,
@@ -104,7 +105,7 @@ export const MONTHLY_VARIANTS: MonthlyVariant[] = [
     label: "Monday Start",
     shortLabel: "Mon-start",
     description:
-      "The classic layout with weeks that run Monday to Sunday.",
+      "The black-and-white layout with weeks that run Monday to Sunday.",
     templateFile: "monday-start.html",
     size: PORTRAIT,
     weekStartsOn: 1,
@@ -157,7 +158,7 @@ export const YEARLY_VARIANTS: YearlyVariant[] = [
     id: "classic",
     label: "Classic Year Poster",
     shortLabel: "Classic",
-    description: "Twelve small months on a portrait page, with holidays tinted.",
+    description: "Twelve months with large dates on a portrait page, US holidays ringed in red.",
     templateFile: "classic.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -177,7 +178,7 @@ export const YEARLY_VARIANTS: YearlyVariant[] = [
     id: "holidays",
     label: "Holidays Emphasis",
     shortLabel: "Holidays",
-    description: "The year on one page with US holidays marked more strongly.",
+    description: "The year on one page with US holidays in red circles and the weekend columns tinted.",
     templateFile: "holidays.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -197,7 +198,7 @@ export const YEARLY_VARIANTS: YearlyVariant[] = [
     id: "ink-compact",
     label: "Ink Compact",
     shortLabel: "Compact",
-    description: "A compact black-and-white year that uses little ink.",
+    description: "A black-and-white year in twelve boxes, holidays ringed, light on ink.",
     templateFile: "ink-compact.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -329,7 +330,7 @@ export const BLANK_VARIANTS: BlankVariant[] = [
     id: "classic",
     label: "Classic Blank",
     shortLabel: "Classic",
-    description: "A Sunday-start month with empty date boxes and room to write.",
+    description: "A Sunday-start month with lines for the month and year and a number box in every day.",
     templateFile: "classic.html",
     size: PORTRAIT,
     weekStartsOn: 0,
@@ -365,7 +366,7 @@ export const BLANK_VARIANTS: BlankVariant[] = [
     id: "kids",
     label: "Kids / Classroom Blank",
     shortLabel: "Kids",
-    description: "Larger day boxes for young writers and classroom write-ins.",
+    description: "Thick lines and big number boxes for young writers and classroom write-ins.",
     templateFile: "kids.html",
     size: PORTRAIT,
     weekStartsOn: 0,

@@ -30,7 +30,7 @@ describe("dated month and year pages", () => {
     const classic = month.find((i) => i.url.endsWith("december-2026-calendar-classic.webp"))!;
     assert.deepEqual([classic.width, classic.height], [2200, 2848]);
     const wide = month.find((i) => i.url.endsWith("december-2026-calendar-landscape.webp"))!;
-    assert.deepEqual([wide.width, wide.height], [3200, 2200]);
+    assert.deepEqual([wide.width, wide.height], [3200, 2472]);
     assert.equal(year.length, 5);
     assert.equal(year[0]!.url, "https://cdn.freshcalendars.com/assets/2027/yearly/classic/2027-yearly-calendar-classic.webp");
     const all = [...month, ...year];

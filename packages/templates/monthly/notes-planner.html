@@ -3,92 +3,42 @@
 <head>
   <meta charset="utf-8" />
   <title>{{title}}</title>
-  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@700&family=Manrope:wght@400;700&display=swap" rel="stylesheet" />
   <style>
-    :root { --ink:#1c2430; --accent:#0092d1; --line:#c5d3dc; --rule:#e8eef3; --paper:#f4f7fa; }
+    :root { --weeks: {{weeks}}; }
     * { box-sizing: border-box; }
-    body {
-      margin: 0; width: 1100px; height: 1420px; padding: 32px;
-      background: var(--paper); color: var(--ink);
-      font-family: Karla, sans-serif;
-    }
-    .sheet {
-      height: 100%; display: grid; grid-template-columns: 1fr 220px; gap: 18px;
-    }
-    .main { display: flex; flex-direction: column; min-width: 0; }
-    .head {
-      display: flex; justify-content: space-between; align-items: flex-end;
-      margin-bottom: 12px; padding-bottom: 10px; border-bottom: 2px solid var(--ink);
-    }
-    .brand { font-size: 11px; letter-spacing: .2em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
-    h1 {
-      margin: 4px 0 0; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 56px; line-height: .9;
-      font-variation-settings: "opsz" 72;
-    }
-    .year { font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 40px; color: var(--accent); }
-    .hint { font-size: 12px; color: #6a6258; margin-bottom: 8px; }
-    table.cal { width: 100%; flex: 1; border-collapse: collapse; table-layout: fixed; }
-    th {
-      font-size: 11px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase;
-      padding: 8px 4px; border-bottom: 1.5px solid var(--accent); color: var(--accent);
-    }
-    td {
-      border: 1px solid var(--line); vertical-align: top; height: 175px; padding: 6px 8px;
-      background:
-        repeating-linear-gradient(transparent, transparent 21px, var(--rule) 21px, var(--rule) 22px),
-        #fff;
-    }
-    td .n {
-      font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 18px; font-weight: 700;
-      background: #fff; display: inline-block; padding: 0 4px 2px 0;
-    }
-    td.hol .n { color: var(--accent); }
-    .side {
-      border: 1.5px solid var(--ink); padding: 16px 14px; background: #fff;
-      display: flex; flex-direction: column;
-    }
-    .side h2 {
-      margin: 0 0 12px; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 20px; font-weight: 700;
-    }
-    .side .lines { flex: 1; background: repeating-linear-gradient(transparent, transparent 27px, var(--line) 27px, var(--line) 28px); }
-    .side .block { margin-top: 16px; }
-    .side .block label {
-      display: block; font-size: 11px; letter-spacing: .14em; text-transform: uppercase;
-      font-weight: 700; color: var(--accent); margin-bottom: 6px;
-    }
-    .side .mini {
-      height: 72px; border-bottom: 1px solid var(--line);
-      background: repeating-linear-gradient(transparent, transparent 23px, var(--rule) 23px, var(--rule) 24px);
-    }
+    /* Planner: ruled date boxes and a notes column for handwriting. */
+    body { margin: 0; width: 1100px; height: 1420px; padding: 40px 40px 0; background: #fff; color: #16202b; font-family: Manrope, sans-serif; }
+    .sheet { display: grid; grid-template-columns: 1fr 232px; gap: 20px; }
+    h1 { margin: 0 0 20px; padding-bottom: 14px; border-bottom: 5px solid #0a7fb8; font-family: Sora, sans-serif; font-weight: 700; font-size: 70px; line-height: 1; letter-spacing: -1.5px; }
+    table { width: 100%; border-collapse: collapse; table-layout: fixed; border: 3px solid #16202b; }
+    th { font-family: Sora, sans-serif; font-weight: 700; font-size: 17px; letter-spacing: 1.5px; text-transform: uppercase; color: #fff; background: #0a7fb8; padding: 10px 2px; border: 2px solid #16202b; }
+    td { height: calc(1165px / var(--weeks)); vertical-align: top; padding: 5px 8px; border: 2px solid #5f7182; background: repeating-linear-gradient(transparent 0 27px, #cfd9e2 27px 28.5px) 0 52px no-repeat #fff; }
+    td .n { font-family: Sora, sans-serif; font-weight: 700; font-size: 32px; line-height: 1.1; }
+    td.hol .n, td .hol-label { color: #0a6a9a; }
+    td .hol-label { display: inline; background: #fff; font-size: 13px; font-weight: 700; line-height: 1.25; }
+    aside { border: 3px solid #16202b; padding: 16px 16px 0; display: flex; flex-direction: column; height: 1340px; }
+    aside h2 { margin: 0; font-family: Sora, sans-serif; font-weight: 700; font-size: 30px; line-height: 1.2; }
+    aside h2 + div { flex: 1; margin-bottom: 18px; background: repeating-linear-gradient(transparent 0 38px, #8a9aa8 38px 39.5px); }
+    aside h2.small { font-size: 20px; letter-spacing: 1.5px; text-transform: uppercase; color: #0a6a9a; }
+    aside h2.small + div { flex: 0 0 158px; }
+    footer { padding-top: 14px; font-size: 13px; letter-spacing: 1.5px; color: #42556c; }
   </style>
 </head>
 <body>
   <div class="sheet">
-    <div class="main">
-      <header class="head">
-        <div>
-          <div class="brand">Fresh Calendars · Planner</div>
-          <h1>{{monthName}}</h1>
-        </div>
-        <div class="year">{{year}}</div>
-      </header>
-      <div class="hint">{{subtitle}} · write in the ruled cells</div>
-      <table class="cal">
+    <main>
+      <h1>{{monthName}} {{year}}</h1>
+      <table>
         <thead><tr>{{weekdayHeader}}</tr></thead>
         <tbody>{{weeksHtml}}</tbody>
       </table>
-    </div>
-    <aside class="side">
-      <h2>Notes</h2>
-      <div class="lines"></div>
-      <div class="block">
-        <label>Priorities</label>
-        <div class="mini"></div>
-      </div>
-      <div class="block">
-        <label>Next month</label>
-        <div class="mini"></div>
-      </div>
+      <footer>FRESHCALENDARS.COM · FREE FOR PERSONAL &amp; CLASSROOM USE</footer>
+    </main>
+    <aside>
+      <h2>Notes</h2><div></div>
+      <h2 class="small">Priorities</h2><div></div>
+      <h2 class="small">Next month</h2><div></div>
     </aside>
   </div>
 </body>

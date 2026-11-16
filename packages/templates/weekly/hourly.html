@@ -3,40 +3,28 @@
 <head>
   <meta charset="utf-8" />
   <title>{{title}}</title>
-  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@700&family=Manrope:wght@400;700&display=swap" rel="stylesheet" />
   <style>
     * { box-sizing: border-box; }
-    body {
-      margin: 0; width: 1100px; height: 1420px; padding: 28px 30px;
-      background: #fff; color: #111; font-family: "IBM Plex Sans", sans-serif;
-    }
-    .sheet { height: 100%; border: 3px solid #111; padding: 16px 16px 12px; display: flex; flex-direction: column; }
-    .head { display: flex; justify-content: space-between; align-items: baseline; border-bottom: 2px solid #111; padding-bottom: 8px; margin-bottom: 10px; }
-    .brand { font-size: 10px; letter-spacing: .22em; text-transform: uppercase; font-weight: 700; }
-    h1 { margin: 2px 0 0; font-size: 32px; font-weight: 700; letter-spacing: -.02em; }
-    .sub { font-size: 12px; color: #444; }
-    table { width: 100%; flex: 1; border-collapse: collapse; table-layout: fixed; }
-    th { font-size: 11px; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; border-bottom: 2px solid #111; padding: 6px 4px; }
-    th.time { width: 48px; }
-    td { border: 1px solid #ccc; height: 72px; vertical-align: top; padding: 2px; }
-    td.time {
-      font-size: 9px; font-weight: 700; color: #555; text-align: right; padding-right: 6px;
-      border-left: none; vertical-align: middle; height: auto;
-    }
-    .foot { margin-top: 8px; font-size: 10px; letter-spacing: .1em; text-transform: uppercase; display: flex; justify-content: space-between; }
+    /* Hourly week: 7 a.m. to 7 p.m. in one-hour rows. */
+    body { margin: 0; width: 1100px; height: 1420px; padding: 42px 44px 0; background: #fff; color: #16202b; font-family: Manrope, sans-serif; }
+    header { height: 112px; display: flex; align-items: flex-end; gap: 24px; padding-bottom: 20px; }
+    h1 { margin: 0; font-family: Sora, sans-serif; font-weight: 700; font-size: 58px; line-height: 1; letter-spacing: -1px; white-space: nowrap; color: #12365e; }
+    .of { font-family: Sora, sans-serif; font-weight: 700; font-size: 24px; letter-spacing: 2px; text-transform: uppercase; white-space: nowrap; padding-bottom: 4px; }
+    .line { flex: 1; border-bottom: 4px solid #16202b; height: 70px; }
+    table { width: 100%; border-collapse: collapse; table-layout: fixed; border: 4px solid #16202b; }
+    th { font-family: Sora, sans-serif; font-weight: 700; font-size: 20px; letter-spacing: 2px; text-transform: uppercase; color: #fff; background: #12365e; padding: 12px 2px; border: 2px solid #16202b; }
+    th.time, td.time { width: 84px; }
+    td { height: 87px; border: 2px solid #5f7182; }
+    td.time { vertical-align: top; padding: 6px 8px; text-align: right; font-family: Sora, sans-serif; font-weight: 700; font-size: 22px; background: #eef3f9; border-color: #16202b; }
+    footer { padding-top: 16px; font-size: 13px; letter-spacing: 1.5px; text-align: center; color: #42556c; }
   </style>
 </head>
 <body>
-  <div class="sheet">
-    <header class="head">
-      <div>
-        <div class="brand">Fresh Calendars · Hourly</div>
-        <h1>Week by the hour</h1>
-      </div>
-      <div class="sub">7am – 7pm · fill dates</div>
-    </header>
-    {{hourlyTableHtml}}
-    <div class="foot"><span>Hourly weekly planner</span><span>freshcalendars.com</span></div>
-  </div>
+  <header>
+    <h1>Hourly Planner</h1><div class="of">Week of</div><div class="line"></div>
+  </header>
+  {{hourlyTableHtml}}
+  <footer>FRESHCALENDARS.COM · FREE FOR PERSONAL &amp; CLASSROOM USE</footer>
 </body>
 </html>

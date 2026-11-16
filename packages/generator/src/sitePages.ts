@@ -728,13 +728,13 @@ function variantGallery(
 <article class="gallery-item" id="template-${esc(v.id)}">
   <div class="gallery-visual">
     ${poster
-      ? `<a href="${esc(v.png)}" title="${esc(posterAlt)}" class="zoomable img-link" data-lightbox-src="${esc(v.png)}" data-lightbox-alt="${esc(posterAlt)}" data-lightbox-w="${landscape ? 1600 : 1100}" data-lightbox-h="${landscape ? 1100 : 1420}"><img src="${poster.full}" srcset="${poster.srcset}" sizes="(max-width:640px) 92vw, 220px" alt="${esc(posterAlt)}" width="${poster.width}" height="${poster.height}" loading="lazy" decoding="async" /></a>`
+      ? `<a href="${esc(v.png)}" title="${esc(posterAlt)}" class="zoomable img-link" data-lightbox-src="${esc(v.png)}" data-lightbox-alt="${esc(posterAlt)}" data-lightbox-w="${landscape ? 1600 : 1100}" data-lightbox-h="${landscape ? 1236 : 1420}"><img src="${poster.full}" srcset="${poster.srcset}" sizes="(max-width:640px) 92vw, 220px" alt="${esc(posterAlt)}" width="${poster.width}" height="${poster.height}" loading="lazy" decoding="async" /></a>`
       : imgTag({
       src: v.png,
       alt,
       title: alt,
       width: landscape ? 1600 : 1100,
-      height: landscape ? 1100 : 1420,
+      height: landscape ? 1236 : 1420,
       loading: "lazy",
       lightbox: true,
     })}

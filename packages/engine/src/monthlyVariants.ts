@@ -21,32 +21,32 @@ export const MONTHLY_VARIANT_META: Record<
     label: "Classic Black & White",
     shortLabel: "Classic B&W",
     description:
-      "High-contrast minimal grid for crisp laser or ink-jet printing.",
+      "Black ink only: a heavy title, big dates and US holidays named in the boxes.",
   },
   "color-modern": {
     label: "Modern Color",
     shortLabel: "Color",
-    description: "A color header in teal and coral, light on ink.",
+    description: "A blue title band, rounded date boxes and US holidays named in red.",
   },
   holidays: {
     label: "US Holidays Marked",
     shortLabel: "Holidays",
-    description: "US holidays named in the date boxes, with the weekend columns tinted.",
+    description: "US holidays named in the date boxes and listed below the grid, with the weekend columns tinted.",
   },
   "notes-planner": {
     label: "Notes Planner",
     shortLabel: "Planner",
-    description: "Large ruled date boxes and a wide notes column.",
+    description: "Ruled date boxes with big dates and a notes column.",
   },
   "landscape-soft": {
     label: "Landscape Soft",
     shortLabel: "Landscape",
-    description: "A wide landscape sheet with a soft seasonal tint.",
+    description: "US Letter on its side: a green title band, full weekday names and big dates.",
   },
   "monday-start": {
     label: "Monday Start",
     shortLabel: "Mon-start",
-    description: "A month with weeks that run Monday to Sunday.",
+    description: "A black-and-white month with weeks that run Monday to Sunday.",
   },
 };
 
