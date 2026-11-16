@@ -33,7 +33,7 @@ document.querySelectorAll('[data-studio]').forEach(function(el){
   el.querySelectorAll('[data-style-thumb]').forEach(function(img){img.src=selectedFiles(img.dataset.styleThumb).preview;});
   el.querySelectorAll('[data-download-format]').forEach(function(a){var format=a.dataset.downloadFormat;a.href=f[format];a.download=label.toLowerCase().replaceAll(' ','-')+'-'+state.style+'-'+state.paper+'-'+state.start+'.'+format;});
   var favorite=el.querySelector('[data-favorite]'),isSaved=saved().includes(favoriteKey());favorite.setAttribute('aria-pressed',String(isSaved));favorite.querySelector('span').textContent=isSaved?'Saved to favorites':'Add to favorites';
-  el.querySelector('[data-format-note]').textContent=state.format.toUpperCase()+' · '+(state.paper==='a4'?'A4 (210 × 297 mm)':'US Letter (8.5 × 11 in)')+(model.month?' · '+state.start.charAt(0).toUpperCase()+state.start.slice(1)+' start':' · Print ready');
+  el.querySelector('[data-format-note]').textContent=state.format.toUpperCase()+', '+(state.paper==='a4'?'A4 (210 × 297 mm)':'US Letter (8.5 × 11 in)')+(model.month?', '+state.start.charAt(0).toUpperCase()+state.start.slice(1)+' start':'');
   el.querySelector('[data-primary-download]').href=f[state.format];el.querySelector('[data-primary-download]').download='freshcalendars-'+state.year+(model.monthName?'-'+model.monthName.toLowerCase():'')+'.'+state.format;el.querySelector('[data-primary-label]').textContent='Download '+state.format.toUpperCase();
   if(push){var q=new URLSearchParams(location.search);['year','style','paper','start'].forEach(function(k){q.set(k,state[k]);});history.replaceState(null,'',location.pathname+'?'+q);}
  }

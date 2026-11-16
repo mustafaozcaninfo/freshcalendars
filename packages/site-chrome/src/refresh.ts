@@ -534,7 +534,7 @@ html[data-theme=dark] .holiday-country-tabs a[aria-current=page]{background:var(
 @media(max-width:380px){.year-minis{grid-template-columns:1fr}}
 .du-chips span{font-size:13px; font-weight:400; color:var(--muted)}
 .tools-page .holiday-month{max-width:820px}
-.tool-links{margin-top:26px}
+.tool-links{margin-top:26px;display:flex;flex-wrap:wrap;gap:8px 22px}
 .du-link a{font-weight:600}
 @media(max-width:900px){.tool-grid{grid-template-columns:repeat(2,minmax(0,1fr))} .tool-today{grid-template-columns:repeat(2,minmax(0,1fr))}}
 @media(max-width:640px){.tools-page .date-tools{grid-template-columns:minmax(0,1fr)} .tool-grid{grid-template-columns:minmax(0,1fr)} .tools-page>h2,.tool-more>h2{font-size:20px; margin-top:30px} .du-answer{padding:20px 18px} .tool-out>div{font-size:14px} .tool-table td,.tool-table th{padding:11px 10px}}

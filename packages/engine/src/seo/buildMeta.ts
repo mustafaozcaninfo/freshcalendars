@@ -202,6 +202,11 @@ function baseMeta(partial: {
   };
 }
 
+/** A legal page's title: the brand is added once, never after a label that already names it. */
+function brandTitle(label: string): string {
+  return label.includes(SITE_NAME) ? label : `${label} | ${SITE_NAME}`;
+}
+
 /** Drop the brand suffix when it would push a title past ~60 characters (SERP truncation). */
 function fitTitle(title: string): string {
   const suffix = ` | ${SITE_NAME}`;
@@ -269,8 +274,8 @@ export function buildMetaForEntry(
       pageId: entry.pageId,
       path: "/",
       // Both years: from autumn on, searchers ask for next year's calendar and the home page serves it too.
-      title: `Free Printable Calendars ${year} and ${year + 1} · PDF, No Sign-Up`,
-      description: `Free printable calendars for ${year} and ${year + 1}: ${curName} and every month after it, the year on one page, blank and weekly sheets. PDF or PNG, no sign-up.`,
+      title: `Free Printable Calendars for ${year} and ${year + 1} in PDF`,
+      description: `Print a free ${curName} ${year} calendar or any month of ${year} and ${year + 1}, the whole year on one page, or a blank or weekly sheet. PDF or PNG, no sign-up.`,
       family: "home",
       year,
       month: curM,
@@ -297,7 +302,7 @@ export function buildMetaForEntry(
         },
         {
           q: `Do the calendars include US holidays?`,
-          a: `Yes. Choose the Holidays design on any month page to print US holidays in the date boxes, or open the holidays page for the full list.`,
+          a: `Yes. Every month design prints US holidays in the date boxes, and the holidays page has the full list.`,
         },
         {
           q: `Will January pages show the correct year later in ${year}?`,
@@ -330,11 +335,11 @@ export function buildMetaForEntry(
       pageId: entry.pageId,
       path: entry.path,
       title: isNext
-        ? `${year} Calendar Printable · Free One-Page Yearly PDF`
-        : `${year} Calendar Printable · Free One-Page Yearly PDF`,
+        ? `Free Printable ${year} Calendar on One Page with Holidays`
+        : `Free Printable ${year} Calendar on One Page with Holidays`,
       description: isNext
-        ? `Free ${year} printable calendar on one page, in PDF and PNG: all twelve months in portrait, landscape, holidays, Monday-start and ink-saving designs.`
-        : `Free ${year} calendar on one page, in PDF and PNG: all twelve months in portrait, landscape, holidays, Monday-start and ink-saving designs.`,
+        ? `Free ${year} printable calendar with all twelve months on one page and US holidays marked. Five designs in PDF and PNG, portrait or landscape, Sunday or Monday start.`
+        : `Free ${year} calendar with all twelve months on one page and US holidays marked. Five designs in PDF and PNG, portrait or landscape, Sunday or Monday start.`,
       family: "yearly",
       year,
       month: null,
@@ -377,7 +382,7 @@ export function buildMetaForEntry(
       pageId: entry.pageId,
       path: entry.path,
       // "with holidays" is the modifier searchers add most; it is only said of a month that has one.
-      title: `${name} ${year} Calendar · Free Printable PDF${hols.length ? " with Holidays" : ", 8 Designs"}`,
+      title: `Free Printable ${name} ${year} Calendar PDF${hols.length ? " with Holidays" : " in 8 Designs"}`,
       description: editorial.description(year),
       family: "monthly",
       year,
@@ -418,9 +423,9 @@ export function buildMetaForEntry(
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
-      title: `Blank Calendar Template · Free Printable PDF, 5 Designs`,
+      title: `Free Blank Calendar Template to Print in 5 Designs`,
       description:
-        "Free blank calendar templates to fill in yourself: classic, Monday start, notes, landscape and kids designs. PDF or PNG, Letter or A4, good for any month.",
+        "Free blank calendar templates with no dates, so they work for any month. Five designs with a Sunday or Monday start, a notes column, landscape or big boxes for kids, in PDF or PNG.",
       family: "blank",
       year: null,
       month: null,
@@ -444,9 +449,9 @@ export function buildMetaForEntry(
     return baseMeta({
       pageId: entry.pageId,
       path: entry.path,
-      title: `Blank Yearly Calendar Printable · Free 12-Month PDF`,
+      title: `Free Blank Yearly Calendar Printable with 12 Months`,
       description:
-        "Blank yearly calendar to fill in by hand: twelve empty months on one page, in PDF and PNG. Use it for any year, a school year or a fiscal year.",
+        "A blank yearly calendar with twelve empty months on one page to number by hand. Free PDF and PNG for any year, a school year or a fiscal year.",
       family: "blank",
       year: null,
       month: null,
@@ -502,14 +507,14 @@ export function buildMetaForEntry(
       path: entry.path,
       title:
         locale === "us"
-          ? `US Federal Holidays ${year} and ${year + 1} · Dates and Weekdays`
+          ? `US Federal Holidays ${year} and ${year + 1} with Dates and Weekdays`
           : locale === "uk"
-            ? `UK Bank Holidays ${year} and ${year + 1} · Dates and Weekdays`
-            : `Canada Statutory Holidays ${year} and ${year + 1} · Dates`,
+            ? `UK Bank Holidays ${year} and ${year + 1} with Dates and Weekdays`
+            : `Canada Statutory Holidays ${year} and ${year + 1} with Dates`,
       description:
         locale === "us"
-          ? `US federal holidays for ${year} and ${year + 1}: all ${federal.length} dates with weekdays, plus widely kept observances${highlight ? `, including Thanksgiving on ${highlight.formatted}` : ""}.`
-          : `${locale === "uk" ? "UK bank holidays" : "Canada statutory holidays"} for ${year} and ${year + 1}: ${federal.length} dates with weekdays, plus observances${highlight ? `, including ${highlightName} on ${highlight.formatted}` : ""}.`,
+          ? `All ${federal.length} US federal holidays for ${year} and ${year + 1} with their dates and weekdays, plus widely kept observances${highlight ? `. Thanksgiving is on ${highlight.formatted}` : ""}.`
+          : `The ${federal.length} ${locale === "uk" ? "UK bank holidays" : "Canada statutory holidays"} for ${year} and ${year + 1} with their dates and weekdays, plus observances${highlight ? `. ${highlightName} is on ${highlight.formatted}` : ""}.`,
       family: "holidays",
       year,
       month: null,
@@ -558,7 +563,7 @@ export function buildMetaForEntry(
           q: `Where can I print a ${year} calendar?`,
           a:
             locale === "us"
-              ? `Open any month page and choose the Holidays design. It prints the same dates in the day boxes.`
+              ? `Open any month page. Every design prints these holidays in the day boxes.`
               : `Print any month page and mark the ${localeLabel} holidays by hand; each holiday in the table links to its date page.`,
         },
       ],
@@ -637,11 +642,12 @@ export function buildMetaForEntry(
     const schoolOverview = schoolYearOverviewAssetPaths(schoolStart);
     const guideMeta: Record<
       string,
-      { title: string; description: string; faq: SeoMeta["faq"]; keywords: string[] }
+      { title: string; crumb: string; description: string; faq: SeoMeta["faq"]; keywords: string[] }
     > = {
       print: {
-        title: `How to Print a Calendar · Paper Size, Margins and Ink`,
-        description: `How to print a calendar that fits the page: Letter vs A4, margins, "Actual size" vs "Fit", low-ink black and white, PDF vs PNG, and common printer fixes.`,
+        title: `How to Print a Calendar on Letter or A4 Without Cut Edges`,
+        crumb: `How to Print a Calendar`,
+        description: `How to print a calendar so it fits the page. Covers Letter and A4, margins, "Actual size" and "Fit", black and white to save ink, PDF or PNG, and common printer fixes.`,
         keywords: [
           "how to print a calendar",
           "printable calendar margins",
@@ -664,8 +670,9 @@ export function buildMetaForEntry(
         ],
       },
       weekly: {
-        title: `Weekly Calendar Printable · 5 Free Planner Templates`,
-        description: `Free weekly calendar printables: Sunday start, Monday start, hourly, priorities and habit tracker layouts in PDF and PNG, plus this week with its dates.`,
+        title: `Free Weekly Calendar Printable in 5 Planner Templates`,
+        crumb: `Weekly Calendar Printable`,
+        description: `Free weekly calendar printables in five layouts with a Sunday or Monday start, hourly rows, priorities or a habit tracker. PDF and PNG, plus this week with its dates.`,
         keywords: [
           "printable weekly calendar",
           "weekly planner printable",
@@ -690,8 +697,9 @@ export function buildMetaForEntry(
         ],
       },
       school: {
-        title: `School Year Calendar ${schoolOverview.span} · Free Printable PDF`,
-        description: `Free ${schoolOverview.span} school year calendar: an August to July overview on one page, plus every month as a PDF in black and white or Monday start.`,
+        title: `Free Printable ${schoolOverview.span} School Year Calendar PDF`,
+        crumb: `School Year Calendar ${schoolOverview.span}`,
+        description: `Free ${schoolOverview.span} school year calendar with August to July on one page, plus every month of the school year as a PDF in black and white or Monday start.`,
         keywords: [
           "school year calendar printable",
           "academic calendar printable",
@@ -714,8 +722,9 @@ export function buildMetaForEntry(
         ],
       },
       "monday-start": {
-        title: `Monday Start Calendar Printable · Free Monthly PDFs`,
-        description: `Free Monday start calendars: this month and next month as PDFs with weeks running Monday to Sunday, plus every other month, Letter or A4.`,
+        title: `Free Monday Start Calendar Printable for Every Month`,
+        crumb: `Monday Start Calendar Printable`,
+        description: `Free Monday start calendars with weeks that run Monday to Sunday. Print this month and next month as PDFs, or open any other month, on Letter or A4.`,
         keywords: [
           "monday start calendar",
           "monday start printable calendar",
@@ -738,8 +747,9 @@ export function buildMetaForEntry(
         ],
       },
       classroom: {
-        title: `Classroom Calendar Printables · Free for Teachers`,
-        description: `Free classroom calendars for teachers: the school year on one page, a blank kids month, weekly trackers, and the weekdays in each month from August to July.`,
+        title: `Free Classroom Calendar Printables for Teachers`,
+        crumb: `Classroom Calendar Printables`,
+        description: `Free classroom calendars for teachers, with the school year on one page, a blank kids month, weekly trackers and the weekdays in each month from August to July.`,
         keywords: [
           "classroom printable calendar",
           "teacher calendar printable",
@@ -758,7 +768,8 @@ export function buildMetaForEntry(
         ],
       },
       "monday-guide": {
-        title: `Monday vs Sunday Start Calendar · Which One to Print`,
+        title: `Monday Start or Sunday Start Calendar, Which One to Print?`,
+        crumb: `Monday vs Sunday Start Calendar`,
         description: `Monday start or Sunday start? Where each layout is the norm, how many rows each month needs in both, and free printable months either way.`,
         keywords: [
           "monday start vs sunday start calendar",
@@ -777,8 +788,9 @@ export function buildMetaForEntry(
         ],
       },
       fiscal: {
-        title: `Fiscal Year vs Calendar Year · Dates and Printables`,
-        description: `Fiscal year vs calendar year: start and end dates of the US federal fiscal year and the UK tax year, the quarters, and a calendar to print for each.`,
+        title: `Fiscal Year vs Calendar Year Dates, with Calendars to Print`,
+        crumb: `Fiscal Year vs Calendar Year`,
+        description: `How a fiscal year differs from a calendar year, with the start and end dates of the US federal fiscal year and the UK tax year, the quarters, and a calendar to print for each.`,
         keywords: [
           "fiscal year calendar printable",
           "fiscal vs calendar year",
@@ -841,7 +853,7 @@ export function buildMetaForEntry(
       month: null,
       priority: 0.85,
       keywords: gm.keywords,
-      breadcrumbs: [home, { name: gm.title.split("|")[0]!.split(" · ")[0]!.trim(), url: absUrl(entry.path) }],
+      breadcrumbs: [home, { name: gm.crumb, url: absUrl(entry.path) }],
       faq: gm.faq,
       download,
       downloadTitles:
@@ -930,23 +942,23 @@ export function buildMetaForEntry(
   };
   const legalDesc: Record<string, string> = {
     contact: `Contact ${SITE_NAME} about printable calendars, broken downloads, or licensing questions. Send a message with the form and we reply by email.`,
-    "privacy-policy": `How ${SITE_NAME} handles your data: hosting logs, cookies, Google AdSense, contact-form storage, and the ad choices available to you.`,
-    "terms-of-use": `Terms for using ${SITE_NAME}: the personal calendar license, linking rules, disclaimers, and liability limits that apply to our free downloads.`,
-    about: `About ${SITE_NAME}: free printable calendars, holiday dates worked out for every year, and how the monthly and yearly sheets are made.`,
-    advertising: `How ads fund ${SITE_NAME}: where AdSense units and Auto ads appear and which privacy controls you can use, while calendars stay free to download.`,
-    disclosure: `${SITE_NAME} affiliate disclosure: how Amazon Associates and other advertising relationships work on this site and when a link may earn us a commission.`,
-    "school-holidays": `Plan school holidays for the August to July year: the federal holidays in term time, the school year on one page and every month to print.`,
-    "daylight-savings": `US daylight saving time ${today.getFullYear()} and ${today.getFullYear() + 1}: clocks spring forward the second Sunday of March and fall back the first Sunday of November.`,
+    "privacy-policy": `How ${SITE_NAME} handles your data, from hosting logs and cookies to Google AdSense and contact-form storage, and the ad choices available to you.`,
+    "terms-of-use": `Terms for using ${SITE_NAME}, including the personal calendar license, linking rules, disclaimers and liability limits that apply to our free downloads.`,
+    about: `${SITE_NAME} makes free printable calendars and works out holiday dates for every year. Who runs the site and how the monthly and yearly sheets are made.`,
+    advertising: `Ads pay for ${SITE_NAME}, so the calendars stay free to download. Where AdSense units and Auto ads appear and which privacy controls you can use.`,
+    disclosure: `${SITE_NAME} affiliate disclosure. How Amazon Associates and other advertising relationships work on this site and when a link may earn us a commission.`,
+    "school-holidays": `Plan school holidays for the August to July year with the federal holidays in term time, the school year on one page and every month to print.`,
+    "daylight-savings": `US daylight saving time dates for ${today.getFullYear()} and ${today.getFullYear() + 1}. Clocks spring forward on the second Sunday of March and fall back on the first Sunday of November.`,
   };
   return baseMeta({
     pageId: entry.pageId,
     path: entry.path,
     title:
       key === "daylight-savings"
-        ? `Daylight Saving Time ${today.getFullYear()} and ${today.getFullYear() + 1} · US Clock Change Dates`
+        ? `Daylight Saving Time ${today.getFullYear()} and ${today.getFullYear() + 1}, US Clock Change Dates`
         : key === "school-holidays"
-          ? `School Holidays Calendar · Plan the August to July Year`
-          : `${({ "privacy-policy": "Privacy Policy", "terms-of-use": "Terms of Use", contact: "Contact Us" } as Record<string, string>)[key] ?? labels[key]} | ${SITE_NAME}`,
+          ? `School Holidays Calendar for the August to July Year`
+          : brandTitle(({ "privacy-policy": "Privacy Policy", "terms-of-use": "Terms of Use", contact: "Contact Us" } as Record<string, string>)[key] ?? labels[key]!),
     description: legalDesc[key] ?? `${labels[key]} for ${SITE_NAME}.`,
     family: "legal",
     year: null,

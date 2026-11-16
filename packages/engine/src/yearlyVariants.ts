@@ -19,7 +19,7 @@ export const YEARLY_VARIANT_META: Record<
   classic: {
     label: "Classic Year Poster",
     shortLabel: "Classic",
-    description: "Twelve small months on a portrait page, with holidays tinted.",
+    description: "Twelve months with large dates on a portrait page, US holidays ringed in red.",
   },
   "landscape-wall": {
     label: "Landscape Wall",
@@ -29,7 +29,7 @@ export const YEARLY_VARIANT_META: Record<
   holidays: {
     label: "Holidays Emphasis",
     shortLabel: "Holidays",
-    description: "The year on one page with US holidays marked more strongly.",
+    description: "The year on one page with US holidays in red circles and the weekend columns tinted.",
   },
   "monday-start": {
     label: "Monday Start",
@@ -39,7 +39,7 @@ export const YEARLY_VARIANT_META: Record<
   "ink-compact": {
     label: "Ink Compact",
     shortLabel: "Compact",
-    description: "A compact black-and-white year that uses little ink.",
+    description: "A black-and-white year in twelve boxes, holidays ringed, light on ink.",
   },
 };
 

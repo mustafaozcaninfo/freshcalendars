@@ -3,48 +3,30 @@
 <head>
   <meta charset="utf-8" />
   <title>{{title}}</title>
-  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@700&family=Manrope:wght@400;700&display=swap" rel="stylesheet" />
   <style>
-    :root { --ink:#1c2430; --accent:#0092d1; --line:#c5d3dc; }
     * { box-sizing: border-box; }
-    body {
-      margin: 0; width: 1100px; height: 1420px; padding: 40px 44px;
-      background: #f0f5f1; color: var(--ink); font-family: Manrope, "IBM Plex Sans", sans-serif;
-    }
-    .sheet {
-      height: 100%; border: 2px solid var(--ink); background: #fff;
-      padding: 28px; display: flex; flex-direction: column;
-    }
-    .head { border-bottom: 3px solid var(--accent); padding-bottom: 12px; margin-bottom: 16px; }
-    .brand { font-size: 12px; letter-spacing: .18em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
-    h1 { margin: 4px 0 0; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 48px; line-height: 1; }
-    table { width: 100%; flex: 1; border-collapse: collapse; table-layout: fixed; }
-    th {
-      font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
-      border-bottom: 2px solid var(--ink); padding: 10px 6px;
-    }
-    th.habit { text-align: left; width: 28%; }
-    td {
-      border: 1px solid var(--line); height: 88px; vertical-align: middle; text-align: center;
-    }
-    td.habit {
-      text-align: left; padding: 10px 12px; font-size: 14px; font-weight: 600; color: #678;
-      border-left: none;
-    }
-    td .box {
-      width: 22px; height: 22px; border: 2px solid var(--ink); margin: 0 auto; display: block;
-    }
-    .foot { margin-top: 12px; font-size: 11px; color: #567; display: flex; justify-content: space-between; }
+    /* Habit tracker: eight habits, a box for each day. */
+    body { margin: 0; width: 1100px; height: 1420px; padding: 42px 44px 0; background: #fff; color: #16202b; font-family: Manrope, sans-serif; }
+    header { height: 112px; display: flex; align-items: flex-end; gap: 24px; padding-bottom: 20px; }
+    h1 { margin: 0; font-family: Sora, sans-serif; font-weight: 700; font-size: 58px; line-height: 1; letter-spacing: -1px; white-space: nowrap; color: #24594b; }
+    .of { font-family: Sora, sans-serif; font-weight: 700; font-size: 24px; letter-spacing: 2px; text-transform: uppercase; white-space: nowrap; padding-bottom: 4px; }
+    .line { flex: 1; border-bottom: 4px solid #16202b; height: 70px; }
+    table { width: 100%; border-collapse: collapse; table-layout: fixed; border: 4px solid #16202b; }
+    th { font-family: Sora, sans-serif; font-weight: 700; font-size: 20px; letter-spacing: 2px; text-transform: uppercase; color: #fff; background: #24594b; padding: 14px 2px; border: 2px solid #16202b; }
+    th.habit, td.habit { width: 380px; text-align: left; padding-left: 18px; }
+    td { height: 142px; text-align: center; vertical-align: middle; border: 2px solid #5f7182; }
+    td.habit { vertical-align: bottom; padding-bottom: 34px; font-size: 0; border-color: #16202b; }
+    td.habit::after { content: ""; display: block; border-bottom: 2.5px solid #5f7182; margin-right: 18px; }
+    td .box { display: inline-block; width: 58px; height: 58px; border: 3px solid #16202b; border-radius: 10px; }
+    footer { padding-top: 16px; font-size: 15px; letter-spacing: .5px; text-align: center; color: #42556c; }
   </style>
 </head>
 <body>
-  <div class="sheet">
-    <header class="head">
-      <div class="brand">Fresh Calendars · Habits</div>
-      <h1>Habit week</h1>
-    </header>
-    {{habitTableHtml}}
-    <div class="foot"><span>Weekly habit tracker</span><span>freshcalendars.com</span></div>
-  </div>
+  <header>
+    <h1>Habit Tracker</h1><div class="of">Week of</div><div class="line"></div>
+  </header>
+  {{habitTableHtml}}
+  <footer>freshcalendars.com</footer>
 </body>
 </html>

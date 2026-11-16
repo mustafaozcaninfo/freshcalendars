@@ -3,57 +3,32 @@
 <head>
   <meta charset="utf-8" />
   <title>{{title}}</title>
-  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@700&family=Manrope:wght@400;700&display=swap" rel="stylesheet" />
   <style>
-    :root { --ink:#2a3439; --accent:#5a6b75; --paper:#f2f4f6; --line:#d0d7de; }
     * { box-sizing: border-box; }
-    body {
-      margin: 0; width: 1100px; height: 1420px; padding: 36px 40px;
-      background: linear-gradient(165deg, #f4f7f3, #dce8df);
-      color: var(--ink); font-family: Manrope, "IBM Plex Sans", sans-serif;
-    }
-    .poster {
-      height: 100%; border: 2px solid var(--ink); background: rgba(255,255,255,.72);
-      padding: 24px 26px 18px; display: flex; flex-direction: column;
-    }
-    .hero {
-      display: flex; justify-content: space-between; align-items: flex-end;
-      border-bottom: 3px solid var(--accent); padding-bottom: 12px; margin-bottom: 14px;
-    }
-    .brand { font-size: 13px; letter-spacing: .18em; text-transform: uppercase; color: var(--accent); font-weight: 700; }
-    h1 { margin: 4px 0 0; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 48px; line-height: .95; font-weight: 500; }
-    .mark { font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 28px; color: var(--accent); max-width: 16ch; text-align: right; }
-    .grid {
-      flex: 1; display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(4, 1fr);
-      gap: 12px;
-    }
-    .month { border: 1px solid var(--line); padding: 8px; background: #fff; }
-    .month h2 {
-      margin: 0 0 6px; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 15px; font-weight: 600; color: var(--accent);
-    }
-    table { width: 100%; border-collapse: collapse; table-layout: fixed; }
-    th { font-size: 8px; color: #678; font-weight: 700; padding: 1px 0; }
-    td {
-      border: 1px solid #e4ebe6; height: 18px; background:
-        linear-gradient(transparent 70%, rgba(61,107,79,.04));
-    }
-    .foot { margin-top: 10px; display: flex; justify-content: space-between; font-size: 11px; color: #567; }
+    /* Blank year: twelve empty months to number by hand. Twelve months of six rows each, so every box is full and the dates read from across a room. */
+    body { margin: 0; width: 1100px; height: 1420px; padding: 38px 44px 0; background: #fff; color: #000; font-family: Manrope, sans-serif; }
+    header { height: 112px; display: flex; align-items: flex-end; justify-content: space-between; padding-bottom: 14px; border-bottom: 6px solid #000; margin-bottom: 20px; }
+    h1 { margin: 0; font-family: Sora, sans-serif; font-weight: 700; font-size: 92px; line-height: .95; letter-spacing: -2px; color: #000; }
+    .tag { font-family: Sora, sans-serif; font-weight: 700; font-size: 19px; letter-spacing: 2.5px; text-transform: uppercase; color:#000; margin-bottom: 6px; }
+    .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px 26px; }
+    .month {  }
+    .month h2 { margin: 0; font-family: Sora, sans-serif; font-weight: 700; font-size: 23px; line-height: 36px; text-align: center; letter-spacing: .5px; border-bottom:3px solid #000;text-align:left; }
+    .month table { width: 100%; border-collapse: collapse; table-layout: fixed; }
+    .month th { height: 28px; font-family: Sora, sans-serif; font-weight: 700; font-size: 15px; color:#000; }
+    .month td { height: 36px; padding: 0; text-align: center; font-size: 19px; font-weight: 700; line-height: 1; }
+    .month td span { display: inline-block; min-width: 32px; line-height: 32px; border-radius: 50%; }
+    .month td { border: 1.5px solid #555; }
+    .month table { margin-top: 2px; }
+    footer { padding-top: 16px; font-size: 15px; letter-spacing: .5px; text-align: center; color: #42556c; }
   </style>
 </head>
 <body>
-  <div class="poster">
-    <header class="hero">
-      <div>
-        <div class="brand">Fresh Calendars · Blank yearly</div>
-        <h1>Year at a glance</h1>
-      </div>
-      <div class="mark">Fill in any year</div>
-    </header>
-    <div class="grid">{{monthsHtml}}</div>
-    <div class="foot">
-      <span>12 mini-months · write your own dates</span>
-      <span>freshcalendars.com</span>
-    </div>
-  </div>
+  <header>
+    <h1>Year: ______</h1>
+    <div class="tag">Fill in any year</div>
+  </header>
+  <div class="grid">{{monthsHtml}}</div>
+  <footer>freshcalendars.com</footer>
 </body>
 </html>

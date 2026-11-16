@@ -3,56 +3,36 @@
 <head>
   <meta charset="utf-8" />
   <title>{{title}}</title>
-  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700&family=Manrope:wght@400;600;700&family=IBM+Plex+Sans:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@700&family=Manrope:wght@400;700&display=swap" rel="stylesheet" />
   <style>
-    :root { --ink:#2a3439; --accent:#5a6b75; --paper:#f2f4f6; --line:#d0d7de; }
     * { box-sizing: border-box; }
-    body {
-      margin: 0; width: 1600px; height: 1100px; padding: 36px 44px;
-      background: linear-gradient(120deg, #f2f4f6, #e8e2d4);
-      color: var(--ink); font-family: Manrope, "IBM Plex Sans", sans-serif;
-    }
-    .pad {
-      height: 100%; border: 2px solid var(--ink); padding: 24px 28px;
-      background: rgba(255,255,255,.7); display: flex; flex-direction: column;
-    }
-    .top { display: flex; justify-content: space-between; align-items: flex-end; margin-bottom: 12px; }
-    .brand { letter-spacing: .2em; text-transform: uppercase; font-size: 12px; color: var(--accent); font-weight: 700; }
-    h1 { margin: 6px 0 0; font-family: Sora, "IBM Plex Sans", sans-serif; font-size: 44px; font-weight: 500; }
-    .month-line { width: 320px; font-size: 13px; }
-    .month-line span { display: block; border-bottom: 1.5px solid var(--ink); height: 28px; margin-top: 4px; }
-    table { width: 100%; flex: 1; border-collapse: collapse; table-layout: fixed; }
-    th {
-      font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase;
-      color: var(--accent); padding: 8px; border-bottom: 2px solid var(--accent);
-    }
-    td {
-      border: 1px solid var(--line); height: 118px; vertical-align: top; padding: 10px;
-      background: rgba(255,255,255,.85);
-    }
-    td .box {
-      width: 20px; height: 20px; border: 1.5px solid var(--ink); border-radius: 2px; opacity: .35;
-    }
-    .foot { margin-top: 10px; font-size: 12px; color: #5a6b60; display: flex; justify-content: space-between; }
+    /* Blank month on US Letter turned on its side, full weekday names. */
+    body { margin: 0; width: 1600px; height: 1236px; padding: 42px 48px 0; background: #fff; color: #16202b; font-family: Manrope, sans-serif; }
+    header { height: 112px; display: flex; align-items: flex-end; gap: 28px; padding-bottom: 20px; }
+    h1 { margin: 0; font-family: Sora, sans-serif; font-weight: 700; font-size: 54px; line-height: 1; letter-spacing: -1px; white-space: nowrap; color: #24594b; }
+    .line { flex: 1; border-bottom: 4px solid #16202b; height: 70px; }
+    .line.year { flex: 0 0 260px; }
+    .body { display: grid; grid-template-columns: 1fr; gap: 20px; }
+    table { width: 100%; border-collapse: collapse; table-layout: fixed; border: 4px solid #16202b; border-radius:0;}
+    th { font-family: Sora, sans-serif; font-weight: 700; font-size: 21px; letter-spacing: 2px; text-transform: uppercase; padding: 12px 4px; border: 2px solid #16202b; background:#eef1f4; }
+    td { height: 186px; vertical-align: top; padding: 0; border: 2px solid #16202b;  }
+    td .box { width: 52px; height: 46px; border-right: 2px solid #16202b; border-bottom: 2px solid #16202b; background:#fff; }
+    aside { border: 4px solid #16202b; padding: 14px 16px; }
+    aside h2 { margin: 0; font-family: Sora, sans-serif; font-weight: 700; font-size: 30px; line-height: 1.2; }
+    aside div { height: 920px; background: repeating-linear-gradient(transparent 0 38px, #8a9aa8 38px 39.5px); }
+    footer { padding-top: 16px; font-size: 15px; letter-spacing: .5px; text-align: center; color: #42556c; }
   </style>
 </head>
 <body>
-  <div class="pad">
-    <div class="top">
-      <div>
-        <div class="brand">Fresh Calendars · Blank landscape</div>
-        <h1>Blank monthly</h1>
-      </div>
-      <div class="month-line">Month / Year <span></span></div>
-    </div>
+  <header>
+    <h1>Month</h1><div class="line"></div><h1>Year</h1><div class="line year"></div>
+  </header>
+  <div class="body">
     <table>
-      <thead><tr>{{weekdayHeader}}</tr></thead>
+      <thead><tr>{{weekdayHeaderLong}}</tr></thead>
       <tbody>{{weeksHtml}}</tbody>
     </table>
-    <div class="foot">
-      <span>Landscape · fill in any month</span>
-      <span>freshcalendars.com</span>
-    </div>
   </div>
+  <footer>freshcalendars.com</footer>
 </body>
 </html>

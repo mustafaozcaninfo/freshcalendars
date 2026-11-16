@@ -128,7 +128,7 @@ export function classroomGuideBody(today: Date): string {
   <h2>Sheets to send home</h2>
   <p>A month sheet with test dates, spirit days and early dismissals filled in is the handout families keep on the fridge. Fill in one copy by hand or type on the PNG, then photocopy. The Minimal design uses the least toner. For families who read dates day-first, write the month name in words on anything you add.</p>
   <h2>Holidays and observances</h2>
-  <p>The Holidays design prints US holidays in the date boxes. The full list with dates is on the <a href="/holidays/">US holidays page</a>, with separate lists for the <a href="/uk-holidays/">United Kingdom</a> and <a href="/canada-holidays/">Canada</a>. School closures are decided by each district, so check its calendar before you mark a day off.</p>
+  <p>Every monthly design prints US holidays in the date boxes. The full list with dates is on the <a href="/holidays/">US holidays page</a>, with separate lists for the <a href="/uk-holidays/">United Kingdom</a> and <a href="/canada-holidays/">Canada</a>. School closures are decided by each district, so check its calendar before you mark a day off.</p>
   <h2>Printing a class set</h2>
   <p>Print one copy from the PDF at actual size, check that the grid is not clipped, then photocopy it. Copying a master is cheaper per page than printing thirty originals on an inkjet. The <a href="/print-guide.html">print guide</a> covers paper size and scaling.</p>`;
 }

@@ -134,8 +134,8 @@ export function homeNewsHtml(now: Date): string {
   const today = todayET(now);
   const dates = data.dates.filter((k) => k.date >= today);
   return `<section class="concept-wrap home-news" data-home-news data-generated="${esc(data.generatedAt)}" aria-label="From Fresh Calendars News">
-<div class="hn-latest"><div class="shelf-heading"><h2>Latest news</h2><a href="/news/">All news →</a></div><ul class="hn-cards" data-hn-stories>${data.stories.map(homeCard).join("")}</ul></div>
-<div class="hn-coming"><div class="shelf-heading"><h2>Coming up</h2><a href="/news/">More dates →</a></div><ol class="hn-dates" data-hn-dates>${dates.map((k) => homeDate(k, today)).join("")}</ol></div>
+<div class="hn-latest"><div class="shelf-heading"><h2>Latest news</h2><a href="/news/">All news</a></div><ul class="hn-cards" data-hn-stories>${data.stories.map(homeCard).join("")}</ul></div>
+<div class="hn-coming"><div class="shelf-heading"><h2>Coming up</h2><a href="/news/">More dates</a></div><ol class="hn-dates" data-hn-dates>${dates.map((k) => homeDate(k, today)).join("")}</ol></div>
 <script>${HOME_NEWS_JS}</script>
 </section>`;
 }
