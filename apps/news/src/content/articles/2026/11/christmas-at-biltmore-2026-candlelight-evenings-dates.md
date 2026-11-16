@@ -116,7 +116,7 @@ assets:
           src: 7
           quote: "premiering Saturday, December 5, at 8/7c, on Hallmark Channel"
         - date: "2026-12-23"
-          cells: { Events: "Last Santa at the Bandstand date window" }
+          cells: { Events: "Santa at the Bandstand window ends" }
           src: 4
           quote: "Nov 7 - Dec 23, Select Dates, 1–5 p.m."
         - date: "2026-12-24"
@@ -128,7 +128,7 @@ assets:
           src: 2
           quote: "Opens December 26"
         - date: "2027-01-09"
-          cells: { Candlelight: "Last Candlelight night" }
+          cells: { Candlelight: "Candlelight Christmas Evenings end" }
           src: 1
           quote: "November 3–January 9, 2027"
         - date: "2027-01-10"
