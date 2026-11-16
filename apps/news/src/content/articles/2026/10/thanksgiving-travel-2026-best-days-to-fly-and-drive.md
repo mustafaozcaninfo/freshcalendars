@@ -1,9 +1,9 @@
 ---
 title: "Thanksgiving Travel 2026: Best Days to Fly and Drive, Nov. 21 to 30"
-description: "Thanksgiving travel 2026 centers on Thursday, Nov. 26. No 2026 forecast was out as of Nov. 8, so we label 2025 patterns and list each day, Nov. 21 to 30."
+description: "American Automobile Association (AAA) projects 81.5 million Thanksgiving travelers in 2026, down 0.1 percent; INRIX drive times for each day, Nov. 24-30."
 type: explainer
 publishedAt: "2026-10-24T13:15:00-04:00"
-updatedAt: "2026-11-08T23:20:00-05:00"
+updatedAt: "2026-11-16T03:25:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["Thanksgiving travel 2026", "best days to travel for Thanksgiving 2026", "busiest travel days Thanksgiving", "Thanksgiving driving times", "REAL ID Thanksgiving"]
@@ -19,26 +19,26 @@ assets:
     group: thanksgiving-2026
     layout: month
     title: "Thanksgiving Travel Calendar, Nov. 21 to 30, 2026"
-    subtitle: "Planning notes for each day, with last year's heaviest traffic for reference"
+    subtitle: "Planning notes for each day, with AAA's 2026 INRIX drive times"
     rows:
       - ["Sat., Nov. 21", "Early getaway weekend; book flights and confirm a REAL ID or passport"]
       - ["Sun., Nov. 22", "Road trip prep: check battery, tire pressure and fuel"]
-      - ["Mon., Nov. 23", "Last day before the AAA holiday period (Tue. to Mon. in 2025); confirm bookings"]
-      - ["Tue., Nov. 24", "2025: heaviest traffic 12 to 9 p.m.; best before noon"]
-      - ["Wed., Nov. 25", "2025: heaviest traffic 11 a.m. to 8 p.m.; best before 11 a.m."]
-      - ["Thu., Nov. 26", "Thanksgiving Day, federal holiday; minimal traffic impact in 2025"]
-      - ["Fri., Nov. 27", "2025: heaviest traffic 1 to 7 p.m.; best before 11 a.m."]
-      - ["Sat., Nov. 28", "2025: heaviest traffic 1 to 8 p.m.; best before 10 a.m."]
-      - ["Sun., Nov. 29", "2025: heaviest traffic 11 a.m. to 8 p.m.; best before 11 a.m."]
-      - ["Mon., Nov. 30", "2025: heaviest traffic 12 to 8 p.m.; best after 8 p.m."]
-    note: "Source: AAA Thanksgiving Travel Forecast 2025 (INRIX drive times, Nov. 17, 2025); OPM federal holidays; TSA REAL ID; Amtrak Media, Nov. 3, 2026. 2026 forecast not yet released as of Nov. 8, 2026."
-    noKit: "Day-by-day travel planning calendar from last year's AAA drive-time windows; no deadlines or fees to compare, so no kit fits."
-    description: "A Thanksgiving 2026 travel calendar for Nov. 21 to 30 with planning notes and last year's heaviest-traffic windows by day."
+      - ["Mon., Nov. 23", "Day before AAA's Nov. 24 to 30 holiday period; confirm bookings"]
+      - ["Tue., Nov. 24", "AAA 2026: heaviest traffic 2 to 8 p.m.; best before 1 p.m."]
+      - ["Wed., Nov. 25", "AAA 2026: heaviest traffic noon to 7 p.m.; best before noon"]
+      - ["Thu., Nov. 26", "Thanksgiving Day, federal holiday; AAA expects minimal traffic"]
+      - ["Fri., Nov. 27", "AAA 2026: heaviest traffic 1 to 7 p.m.; best before noon"]
+      - ["Sat., Nov. 28", "AAA 2026: heaviest traffic noon to 9 p.m.; best before 11 a.m."]
+      - ["Sun., Nov. 29", "AAA 2026: heaviest traffic noon to 8 p.m.; best before 11 a.m."]
+      - ["Mon., Nov. 30", "AAA 2026: heaviest traffic 2 to 7 p.m.; best before 1 p.m."]
+    note: "Source: AAA Thanksgiving Travel Forecast 2026 (INRIX drive times, Nov. 16, 2026); OPM federal holidays; TSA REAL ID; Amtrak Media, Nov. 3, 2026."
+    noKit: "Day-by-day travel planning calendar from AAA's 2026 drive-time windows; no deadlines or fees to compare, so no kit fits."
+    description: "A Thanksgiving 2026 travel calendar for Nov. 21 to 30 with planning notes and AAA's heaviest-traffic windows by day."
     alt: "Thanksgiving 2026 travel calendar printable for Nov. 21 to 30 with planning notes by day"
 hero:
   src: ../../../../assets/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/thanksgiving-travel-2026-best-days-to-fly-and-drive.webp
   alt: "Airplane wing and winglet over green farmland at sunset, a view from a window seat during Thanksgiving travel 2026 planning"
-  caption: "File photo: an Embraer 190 wing at sunset. AAA counted about 6 million domestic flyers over Thanksgiving 2025; its 2026 forecast is not out yet."
+  caption: "File photo: an Embraer 190 wing at sunset. AAA projects 5.96 million domestic flyers over Thanksgiving 2026, down 0.2 percent."
   credit: "Photo: PierreSelim / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 3.0"
@@ -47,20 +47,24 @@ hero:
     author: "PierreSelim"
     authorUrl: "https://commons.wikimedia.org/wiki/User:PierreSelim"
 summary:
-  - "Thanksgiving Day 2026 is Thursday, Nov. 26, a federal holiday, and this guide covers the travel days from Saturday, Nov. 21 to Monday, Nov. 30."
-  - "The American Automobile Association (AAA) had not released its 2026 Thanksgiving forecast as of Nov. 8, 2026; last year's came out Nov. 17, 2025, when AAA and INRIX said the heaviest traffic was in the afternoon and evening."
+  - "Thanksgiving Day 2026 is Thursday, Nov. 26, a federal holiday, and the American Automobile Association (AAA) counts the holiday travel period as seven days, Tuesday, Nov. 24 to Monday, Nov. 30."
+  - "AAA's Nov. 16, 2026 forecast projects 81.5 million travelers, down 0.1 percent from 81.6 million last year; 72.9 million go by car and 5.96 million fly."
+  - "AAA and INRIX put the worst driving between noon and 9 p.m. on the busiest days and name Tuesday and Wednesday out, Sunday and Monday back, as the busiest road days."
   - "Amtrak is adding cars to select Northeast Regional trains from Nov. 20 to 30 and extra round trips on Nov. 24-25 and Nov. 28-29."
-  - "Travelers flying need a REAL ID or another accepted identification, and a canceled or sharply changed flight can qualify for an automatic refund."
 faq:
   - q: "What are the best days to travel for Thanksgiving 2026?"
-    a: "The American Automobile Association (AAA) 2026 forecast was not out as of Nov. 8, 2026. In its 2025 forecast, the lightest driving was before late morning and on Thanksgiving Day itself, Nov. 26 in 2026. Afternoons and evenings were the most congested."
+    a: "AAA and INRIX say the best driving time on most days is before noon or 1 p.m., and Thanksgiving Day, Nov. 26, is expected to have minimal traffic. Afternoons and evenings are the most congested, with the worst window running noon to 9 p.m. on Saturday, Nov. 28."
   - q: "What are the busiest Thanksgiving travel days?"
-    a: "In AAA's 2025 forecast, Sunday and Monday after Thanksgiving were the busiest return days for flights, and INRIX expected heavy road traffic every travel day except Thanksgiving itself. By the same weekdays, those return days fall on Nov. 29 and 30 in 2026. AAA had not released 2026 figures as of Nov. 8, 2026."
+    a: "AAA, citing INRIX, names Tuesday and Wednesday outbound and Sunday and Monday on the return as the busiest road days, which are Nov. 24 and 25 and Nov. 29 and 30 in 2026. Hertz, AAA's rental partner, expects Tuesday and Wednesday to be its busiest pickup days. AAA's release does not name the busiest flying days."
   - q: "Do I need a REAL ID to fly for Thanksgiving?"
     a: "REAL ID enforcement began May 7, 2025. To fly within the United States you need a REAL ID-compliant license, a passport or another accepted identification. The Transportation Security Administration (TSA) says travelers without an acceptable ID must pay a $45 fee."
   - q: "Can I get a refund if my Thanksgiving flight is canceled?"
     a: "Yes. A U.S. Department of Transportation (DOT) rule requires airlines to give an automatic cash refund when a flight is canceled or significantly changed and you decline rebooking or a credit. Significant means a departure or arrival shift of more than three hours for domestic flights or six hours for international flights."
 sources:
+  - title: "Thanksgiving Travel Expected to Dip Slightly Compared to Last Year"
+    url: "https://newsroom.aaa.com/2026/11/aaa-thanksgiving-holiday-travel-forecast/"
+    publisher: "American Automobile Association (AAA)"
+    date: "2026-11-16"
   - title: "Nearly 82 Million Americans Projected to Travel over Thanksgiving"
     url: "https://newsroom.aaa.com/2025/11/aaa-thanksgiving-travel-forecast-2025/"
     publisher: "American Automobile Association (AAA)"
@@ -82,7 +86,7 @@ sources:
 downloads:
   - group: "Thanksgiving Travel Calendar printables"
     title: "Thanksgiving Travel Calendar, Nov. 21 to 30, 2026"
-    description: "A Thanksgiving 2026 travel calendar for Nov. 21 to 30 with planning notes and last year's heaviest-traffic windows by day."
+    description: "A Thanksgiving 2026 travel calendar for Nov. 21 to 30 with planning notes and AAA's heaviest-traffic windows by day."
     preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-travel-calendar-2026.png
     alt: "Thanksgiving 2026 travel calendar printable for Nov. 21 to 30 with planning notes by day"
     pdf: "/news/downloads/thanksgiving-2026/thanksgiving-travel-calendar-2026.pdf"
@@ -90,7 +94,7 @@ downloads:
     pages: 1
   - group: "Thanksgiving Travel Calendar printables"
     title: "Thanksgiving Travel Calendar, Nov. 21 to 30, 2026 (ink saver)"
-    description: "A Thanksgiving 2026 travel calendar for Nov. 21 to 30 with planning notes and last year's heaviest-traffic windows by day. Ink-saver version."
+    description: "A Thanksgiving 2026 travel calendar for Nov. 21 to 30 with planning notes and AAA's heaviest-traffic windows by day. Ink-saver version."
     preview: ../../../../assets/news/thanksgiving-2026/thanksgiving-travel-calendar-2026-ink.png
     alt: "Thanksgiving 2026 travel calendar printable for Nov. 21 to 30 with planning notes by day, ink-saver version"
     pdf: "/news/downloads/thanksgiving-2026/thanksgiving-travel-calendar-2026-ink.pdf"
@@ -105,64 +109,87 @@ related: [faa-ground-stop-november-13-2026, christmas-travel-2026-busiest-days-t
 draft: false
 ---
 
-**Thanksgiving Day in the United States is Thursday, Nov. 26, 2026, a federal holiday. Last year the American Automobile Association (AAA) counted the holiday travel period from the Tuesday before to the Monday after, which is Nov. 24 to 30 in 2026.** The U.S. Office of Personnel Management (OPM) lists the holiday on Nov. 26. The question most people ask, which days to fly or drive, does not yet have a 2026 answer from the main forecaster.
+**The American Automobile Association (AAA) projects 81.5 million Americans will travel at least 50 miles from home for Thanksgiving 2026, down 0.1 percent from last year, according to its Nov. 16, 2026 forecast.** Thanksgiving Day is Thursday, Nov. 26, a federal holiday listed by the U.S. Office of Personnel Management (OPM). AAA counts the holiday period as seven days, Tuesday, Nov. 24 to Monday, Nov. 30.
 
-AAA had not published its 2026 Thanksgiving travel forecast as of Nov. 8, 2026. Last year the forecast came out on Nov. 17, 2025. Until the 2026 version is released, the dates below are firm, and the travel patterns are from the 2025 forecast, clearly labeled as last year's.
+That is about 121,000 fewer travelers than last year, when AAA counted 81.6 million. AAA notes its counts should not be compared with Transportation Security Administration (TSA) screening counts, and no TSA 2026 Thanksgiving projection had been posted yet.
 
 ## The Thanksgiving 2026 travel window
 
 Thanksgiving always lands on the fourth Thursday of November, which is [Nov. 26 in 2026](/news/why-thanksgiving-2026-is-november-26/). Trips cluster around it:
 
-| Date | Day | What last year's data says about this weekday |
+| Date | Day | What AAA and Amtrak say about this day |
 |---|---|---|
-| Nov. 21 | Saturday | Weekend before the holiday week; outside AAA's 2025 travel period |
-| Nov. 22 | Sunday | Outside AAA's 2025 travel period |
-| Nov. 23 | Monday | Outside AAA's 2025 travel period |
-| Nov. 24 | Tuesday | First day of the 2025 travel period; heavy traffic from noon; Amtrak adds two Northeast Regional round trips (Nov. 24-25) |
-| Nov. 25 | Wednesday | Hertz's expected busiest rental pick-up day in 2025; second day of Amtrak's first extra round trips |
-| Nov. 26 | Thursday | Thanksgiving Day; minimal traffic and cheaper flights in 2025 |
-| Nov. 27 | Friday | Heavy traffic 1 to 7 p.m. in 2025 |
-| Nov. 28 | Saturday | Heavy traffic 1 to 8 p.m. in 2025; Amtrak adds two Northeast Regional round trips (Nov. 28-29) |
-| Nov. 29 | Sunday | One of the two busiest flight-return days in 2025; second day of Amtrak's extra round trips |
-| Nov. 30 | Monday | One of the two busiest flight-return days in 2025 |
+| Nov. 21 | Saturday | Weekend before the holiday week; outside AAA's 2026 travel period |
+| Nov. 22 | Sunday | Outside AAA's 2026 travel period |
+| Nov. 23 | Monday | Day before AAA's 2026 travel period |
+| Nov. 24 | Tuesday | First day of AAA's travel period; worst driving 2 to 8 p.m.; Hertz expects a busiest pickup day; Amtrak adds two Northeast Regional round trips (Nov. 24-25) |
+| Nov. 25 | Wednesday | Worst driving noon to 7 p.m.; Hertz expects a busiest pickup day; second day of Amtrak's first extra round trips |
+| Nov. 26 | Thursday | Thanksgiving Day; minimal traffic expected |
+| Nov. 27 | Friday | Worst driving 1 to 7 p.m. |
+| Nov. 28 | Saturday | Worst driving noon to 9 p.m.; Amtrak adds two Northeast Regional round trips (Nov. 28-29) |
+| Nov. 29 | Sunday | Worst driving noon to 8 p.m.; busiest return road day; second day of Amtrak's extra round trips |
+| Nov. 30 | Monday | Last day of AAA's period; worst driving 2 to 7 p.m.; busiest return road day |
 
 You can mark the same window on a [November 2026 printable calendar](/november-calendars.html) or the printable travel calendar below.
 
-## Best and worst times to drive (2025 pattern)
+## Best and worst times to drive, Nov. 24 to 30, 2026
 
-AAA builds its drive-time guidance with INRIX, a transportation analytics company that measures traffic speeds. The windows below are from the 2025 forecast. They are shown on the 2026 calendar by matching each day to the same weekday relative to Thanksgiving, so treat them as last year's pattern, not a 2026 prediction.
+AAA builds its drive-time guidance with INRIX, a transportation analytics company that measures traffic speeds. INRIX gives these times for 2026.
 
-| Date (2026) | Lightest traffic (2025 pattern) | Heaviest traffic (2025 pattern) |
+| Date (2026) | Lightest traffic | Heaviest traffic |
 |---|---|---|
-| Tue., Nov. 24 | Before noon | 12 to 9 p.m. |
-| Wed., Nov. 25 | Before 11 a.m. | 11 a.m. to 8 p.m. |
-| Thu., Nov. 26 | Any time; minimal impact | Minimal |
-| Fri., Nov. 27 | Before 11 a.m. | 1 to 7 p.m. |
-| Sat., Nov. 28 | Before 10 a.m. | 1 to 8 p.m. |
-| Sun., Nov. 29 | Before 11 a.m. | 11 a.m. to 8 p.m. |
-| Mon., Nov. 30 | After 8 p.m. | 12 to 8 p.m. |
+| Tue., Nov. 24 | Before 1 p.m. | 2 to 8 p.m. |
+| Wed., Nov. 25 | Before noon | Noon to 7 p.m. |
+| Thu., Nov. 26 | Minimal traffic expected | Minimal traffic expected |
+| Fri., Nov. 27 | Before noon | 1 to 7 p.m. |
+| Sat., Nov. 28 | Before 11 a.m. | Noon to 9 p.m. |
+| Sun., Nov. 29 | Before 11 a.m. | Noon to 8 p.m. |
+| Mon., Nov. 30 | Before 1 p.m. | 2 to 7 p.m. |
 
-The common thread last year was simple: leave early in the day, and avoid the late-afternoon and evening peak.
+On every day except Thanksgiving, the lightest traffic comes before early afternoon and the heaviest in the afternoon and evening. AAA, citing INRIX, names Tuesday and Wednesday outbound and Sunday and Monday on the return as the busiest road days.
 
-## Last year's numbers (2025, for context)
+## Worst routes and peak times for 2026
 
-In its Nov. 17, 2025 forecast, AAA projected 81.8 million people would travel at least 50 miles from home between Tuesday, Nov. 25 and Monday, Dec. 1, 2025. AAA called it a record for the holiday, an increase of 1.6 million over 2024. At least 73 million of those travelers, nearly 90 percent, went by car. About 6 million flew, up 2 percent from 2024, and buses, trains and cruises carried nearly 2.5 million, up 8.5 percent.
+INRIX also gave the day and time when each metro's route is expected to peak.
 
-In the same 2025 release, INRIX flagged several routes with the biggest delays:
+| Route | Peak day | Peak time |
+|---|---|---|
+| Atlanta to Savannah | Sunday, Nov. 29 | 3:30 p.m. |
+| Boston to Portsmouth | Monday, Nov. 30 | 2:45 p.m. |
+| Chicago to Indianapolis | Monday, Nov. 30 | 4:30 p.m. |
+| Pueblo to Denver | Tuesday, Nov. 24 | 5:30 p.m. |
+| Grand Rapids to Detroit | Friday, Nov. 27 | 4:45 p.m. |
+| Houston to Austin | Sunday, Nov. 29 | 1 p.m. |
+| Bakersfield to Los Angeles | Saturday, Nov. 28 | 7:15 p.m. |
+| Eau Claire to Minneapolis | Sunday, Nov. 29 | 4:45 p.m. |
+| New York to the Hamptons | Tuesday, Nov. 24 | 4:30 p.m. |
+| Philadelphia to the Poconos | Tuesday, Nov. 24 | 4:30 p.m. |
+| Eugene to Portland | Wednesday, Nov. 25 | 4:45 p.m. |
+| San Diego to Palm Springs | Wednesday, Nov. 25 | 5 p.m. |
+| San Francisco to Sacramento | Tuesday, Nov. 24 | 7:15 p.m. |
+| Seattle to Bellingham | Tuesday, Nov. 24 | 6:45 p.m. |
+| Tampa to Gainesville | Saturday, Nov. 28 | 3 p.m. |
+| Washington, D.C. to Baltimore | Tuesday, Nov. 24 | 4:30 p.m. |
 
-| Route (2025 example) | Peak day and time | Travel time | Above normal |
-|---|---|---|---|
-| Los Angeles to Bakersfield, Interstate 5 North | Wednesday, 7:45 p.m. | 4 hours 10 minutes | 147 percent |
-| New York to the Hamptons, Long Island Expressway East | Tuesday, 4:30 p.m. | 4 hours 8 minutes | 163 percent |
-| Washington, D.C. to Baltimore, Baltimore-Washington Parkway North | Tuesday, 4:30 p.m. | 1 hour 50 minutes | 166 percent |
-| Atlanta to Savannah, Interstate 16 East | Sunday, 3:30 p.m. | 5 hours 16 minutes | 53 percent |
-| Indianapolis to Chicago, Interstate 65 North | Sunday, 3:45 p.m. | 4 hours 8 minutes | 57 percent |
+The biggest increases over typical travel times are New York to the Hamptons on the Long Island Expressway East (138 percent), Washington, D.C. to Baltimore (132 percent), Bakersfield to Los Angeles on Interstate 5 South (121 percent) and Boston to Portsmouth on Interstate 95 North (104 percent).
 
-The car-rental company Hertz expected Wednesday to be its busiest pick-up day in 2025.
+## Thanksgiving 2026 travel numbers
+
+AAA's forecast splits the 81.5 million travelers by mode:
+
+| Mode | 2026 projection | Change |
+|---|---|---|
+| Car | 72.9 million | Down from 73.1 million last year |
+| Domestic flights | 5.96 million | Down 0.2 percent |
+| Buses, trains and cruises | 2.6 million | Up 4.1 percent |
+
+Hertz, AAA's rental partner, expects the Tuesday and Wednesday before Thanksgiving to be its busiest pickup days, with Orlando, Phoenix, Las Vegas, Atlanta and Denver as its top cities.
+
+On gas, AAA said monthly pump-price records were set in August, September and October, and November could set one too. The Thanksgiving Day national average has never been above $4 a gallon; the highest was $3.58 in 2022.
 
 ## Flying over Thanksgiving
 
-AAA's 2025 data showed a roundtrip domestic flight averaging about $700. The group noted that it is cheaper to fly on Thanksgiving Day itself, but the flight home drives the ticket price up because Sunday and Monday are the busiest return days. In recent years, except for 2020, the number of Thanksgiving air travelers has run between 5 and 6 million.
+AAA's booking data show roundtrip domestic flights about 17 percent more expensive than last year, averaging $800 per ticket. In its 2025 forecast, AAA noted that it is cheaper to fly on Thanksgiving Day itself.
 
 Two rules matter at the airport. First, REAL ID enforcement began May 7, 2025. To board a domestic flight you need a REAL ID-compliant license, a passport or another accepted form of identification. The Transportation Security Administration (TSA) says travelers without an acceptable ID must pay a $45 fee; the [TSA ConfirmID fee and 10-day window](/news/tsa-confirmid-45-fee-no-real-id-holiday-travel-2026/) are explained in a separate story.
 
@@ -177,21 +204,15 @@ Amtrak said on Nov. 3, 2026 that it is adding cars to select Northeast Regional 
 - Confirm your REAL ID, passport or other accepted identification well before the trip.
 - Check in online and save a mobile or printed boarding pass.
 - Fly on Thanksgiving Day if you can; AAA found it cheaper in 2025.
-- Avoid booking the Sunday or Monday return if a quieter day works for you.
-- Arrive early; holiday security lines are longer than usual.
 - Keep the airline's app and your confirmation number handy in case of changes.
 - Know your refund rights if the airline cancels or significantly changes the flight.
 
 ## Road-trip checklist
 
-- Leave early in the day to miss the late-afternoon and evening peak.
+- Leave before the heaviest window on your travel day, using the INRIX times above.
 - Fill the tank the night before you leave, as AAA recommends.
 - Check the battery and tire pressure before a long drive.
 - Pack water, snacks, phone chargers and a basic emergency kit.
 - Plan rest stops and share your route and arrival time with someone.
 - Build in extra time on the Tuesday and Wednesday out and the Sunday and Monday back.
 - Never drive impaired; have a sober driver for holiday gatherings.
-
-## What to watch for
-
-When AAA releases its 2026 Thanksgiving forecast, the specific drive-time windows and travel totals may shift. This page will be updated with the 2026 figures once they are published. For planning now, the dates are set, and last year's rhythm is a reasonable guide.
