@@ -12,6 +12,7 @@ import {
 } from "@freshcalendars/engine";
 import { breadcrumbNavHtml, esc, iconHtml } from "@freshcalendars/site-chrome";
 import { monthHref } from "./datedPages.js";
+import { daysApart, dayLabel, holidaySpan, holidayTime, isoWeekOf, listAnd, neighbours, observedTime, shortDay, word } from "./pageFacts.js";
 
 export type ToolPage = {
   id: string; path: string; title: string; description: string; body: string;
@@ -378,11 +379,6 @@ ${toolLinks("day-of-year")}`);
 function countdownTitle(label: string, year: number): string {
   return [`How Many Days Until ${label} ${year}? Countdown`, `How Many Days Until ${label} ${year}?`, `Days Until ${label} ${year} Countdown`, `Days Until ${label} ${year}`].find((s) => s.length <= 60) ?? `Days Until ${label}`;
 }
-function clipSentence(s: string, max: number): string {
-  if (s.length <= max) return s;
-  const cut = s.slice(0, max - 1);
-  return `${cut.slice(0, cut.lastIndexOf(" ")).replace(/[,;:]$/, "")}.`;
-}
 
 function countdownHub(today: Date, h: Helpers): ToolPage {
   const t = dayOf(today), y = today.getFullYear();
@@ -403,6 +399,7 @@ ${table("uk")}
 ${table("ca")}
 <h2>How the days are counted</h2>
 <p>Today is not counted and the holiday is. On the day before a holiday the count is 1, and on the day it shows 0. Once a holiday has passed, its row moves to next year's date. Dates are computed from each holiday's rule, such as the fourth Thursday of November for Thanksgiving, for ${y} and ${y + 1}.</p>
+<p>On a holiday's own page, weekdays left are Mondays to Fridays and weekend days are Saturdays and Sundays. Public holidays in between are not taken out of the weekday count.</p>
 <p class="tool-links"><a href="/holidays/">US holidays</a><a href="/uk-holidays/">UK bank holidays</a><a href="/canada-holidays/">Canada holidays</a><a href="${toolPath("days-between-dates")}">Days between dates</a></p>
 ${toolLinks("")}`);
   return { id: "days-until", path: "/days-until/", title: `How Many Days Until Each Holiday in ${y} and ${y + 1}?`, description: `Days left until every US, UK and Canada holiday in ${y} and ${y + 1}, counted from today, plus a counter for any date you choose.`, body, crumbs: c };
@@ -412,7 +409,6 @@ const phrase = (n: number) => (n === 0 ? "today" : n === 1 ? "tomorrow" : `in ${
 function countdownPage(cd: Countdown, today: Date, h: Helpers, upcoming: { c: Countdown; r: ResolvedHoliday }[]): ToolPage {
   const t = dayOf(today), r = resolveNextHoliday(cd.def, today), e = parseIso(r.iso), n = Math.round((e - t) / DAY);
   const name = cd.def.name, label = cd.label, month = monthNumberToName(r.month);
-  const years = Array.from({ length: 6 }, (_, i) => resolveHoliday(cd.def, r.year + i));
   const wd = weekdaysBetween(t, e);
   const stat = (lbl: string, part: string, val: string) => `<div><span>${lbl}</span><strong data-du="${r.iso}" data-du-part="${part}">${h.volatile(val)}</strong></div>`;
   // The eight holidays that follow this one in the year, wrapping round: every countdown is then
@@ -425,6 +421,50 @@ function countdownPage(cd: Countdown, today: Date, h: Helpers, upcoming: { c: Co
   };
   const others = cd.locale === "us" ? after("us", 8) : [...after(cd.locale, 5), ...after("us", 3)];
   const c = crumbs(["Days until", "/days-until/"], [label, countdownPath(cd.slug)]);
+  const years10 = Array.from({ length: 10 }, (_, i) => resolveHoliday(cd.def, r.year + i));
+  const fixed = cd.def.rule.t === "fixed", usFederal = cd.locale === "us" && cd.def.kind === "federal";
+  const span = holidaySpan(cd.def, r.year + 1), near = neighbours(r, cd.locale), before = resolveHoliday(cd.def, r.year - 1);
+  const moved = (x: ResolvedHoliday, prev: ResolvedHoliday) => {
+    const d = Math.round((utc(2001, x.month, x.day) - utc(2001, prev.month, prev.day)) / DAY);
+    return d === 0 ? "Same date" : `${plural(Math.abs(d), "day")} ${d < 0 ? "earlier" : "later"}`;
+  };
+  const dayOff = (x: ResolvedHoliday) => { const o = observedTime(x); return o === holidayTime(x) ? "Same day" : `${dayLabel(o)}${new Date(o).getUTCFullYear() !== x.year ? `, ${new Date(o).getUTCFullYear()}` : ""}`; };
+  const third = fixed ? (usFederal ? "Federal day off" : "") : "Against the year before";
+  const yearRows = years10.map((x, i) => `<tr><th scope="row">${x.year}</th><td>${monthHref(x.year, x.month, today) ? `<a href="${monthHref(x.year, x.month, today)}" title="${monthNumberToName(x.month)} ${x.year} printable calendar">${esc(x.formatted)}</a>` : esc(x.formatted)}</td>${third ? `<td>${fixed ? dayOff(x) : moved(x, i ? years10[i - 1]! : before)}</td>` : ""}<td><span data-du="${x.iso}">${h.volatile(num(Math.round((parseIso(x.iso) - t) / DAY)))}</span></td></tr>`).join("");
+  // How the date behaves: a fixed date walks through the weekdays, a rule-based one moves inside a window.
+  const weekend = years10.find((x) => x.date.getDay() === 0 || x.date.getDay() === 6), again = Array.from({ length: 30 }, (_, i) => resolveHoliday(cd.def, r.year + 1 + i)).find((x) => x.weekdayName === r.weekdayName);
+  const laterWeekend = years10.slice(1).find((x) => x.date.getDay() === 0 || x.date.getDay() === 6);
+  const pattern = fixed
+    ? [
+        `${name} ${r.year} is a ${r.weekdayName}${before.weekdayName !== r.weekdayName ? `, after a ${before.weekdayName} in ${before.year}` : ""}.`,
+        again ? `The next ${r.weekdayName} ${name} after ${r.year} comes in ${again.year}.` : "",
+        weekend && weekend.year !== r.year ? `${name} next lands on a weekend in ${weekend.year}, a ${weekend.weekdayName}.` : "",
+        weekend && weekend.year === r.year && laterWeekend && laterWeekend.year !== again?.year ? `${name} is on a weekend again in ${laterWeekend.year}, a ${laterWeekend.weekdayName}.` : "",
+      ]
+    : span
+      ? [
+          `${name} can come as early as ${monthNumberToName(span.earliest.month)} ${span.earliest.day} and as late as ${monthNumberToName(span.latest.month)} ${span.latest.day}, a window of ${plural(span.days, "day")}.`,
+          `In ${r.year} ${name} is on ${month} ${r.day}, ${r.month === span.earliest.month && r.day === span.earliest.day ? "the earliest date it can have" : r.month === span.latest.month && r.day === span.latest.day ? "the latest date it can have" : `${plural(Math.round((utc(2001, r.month, r.day) - utc(2001, span.earliest.month, span.earliest.day)) / DAY), "day")} after the earliest`}.`,
+          `${name} next falls on ${monthNumberToName(span.earliest.month)} ${span.earliest.day} in ${span.earliest.year} and on ${monthNumberToName(span.latest.month)} ${span.latest.day} in ${span.latest.year}.`,
+        ]
+      : [];
+  const link = (x: ResolvedHoliday) => (hasCountdown(x.slug) ? `<a href="${countdownPath(x.slug)}">${esc(x.name)}</a>` : esc(x.name));
+  const around = [
+    near.before ? `${link(near.before)} comes ${daysApart(near.before, r) === 1 ? "the day before" : `${plural(daysApart(near.before, r), "day")} before it`}, on ${dayLabel(holidayTime(near.before))}` : "",
+    near.after ? `${link(near.after)} follows ${daysApart(near.after, r) === 1 ? "the next day" : `${plural(daysApart(near.after, r), "day")} after`}, on ${dayLabel(holidayTime(near.after))}` : "",
+  ].filter(Boolean);
+  const off = usFederal ? observedTime(r) : e, offDay = new Date(off).getUTCDay();
+  const federal = usFederal
+    ? off !== e
+      ? `${name} ${r.year} falls on a ${r.weekdayName}, so federal offices close on ${dayLabel(off)}.`
+      : offDay === 1 || offDay === 5
+        ? `As a federal holiday on a ${r.weekdayName}, ${name} ${r.year} makes a three-day weekend from ${dayLabel(offDay === 1 ? e - 2 * DAY : e)} to ${dayLabel(offDay === 1 ? e : e + 2 * DAY)}.`
+        : cd.slug === "thanksgiving"
+          ? `Thanksgiving is a federal holiday. The Friday after it, ${shortDay(e + DAY)}, ${r.year}, is not one.`
+          : `${name} is a federal holiday, and in ${r.year} it sits midweek on a ${r.weekdayName} with no weekend attached.`
+    : "";
+  const marks = [100, 60, 30, 14, 7, 1].map((k) => [k === 1 ? "The day before" : `${k} days to go`, dayLabel(e - k * DAY) + (new Date(e - k * DAY).getUTCFullYear() !== r.year ? `, ${new Date(e - k * DAY).getUTCFullYear()}` : "")]);
+  const next = resolveHoliday(cd.def, r.year + 1);
   const body = shell("tool-single days-until-page", c, `
 <h1>How many days until ${esc(label)}?</h1>
 <div class="du-answer"><p class="du-big"><b data-du="${r.iso}">${h.volatile(num(n))}</b> <span data-du="${r.iso}" data-du-part="unit">${h.volatile(n === 1 ? "day" : "days")}</span></p><p>${esc(name)} ${cd.slug === "daylight-savings" ? "starts on" : "is"} <strong>${esc(r.formatted)}</strong>, <span data-du="${r.iso}" data-du-part="phrase">${h.volatile(phrase(n))}</span>.</p></div>
@@ -432,15 +472,22 @@ function countdownPage(cd: Countdown, today: Date, h: Helpers, upcoming: { c: Co
 <p>${esc(cd.def.blurb)} <a href="${holidayWhenIsPath(cd.slug)}">When is ${esc(name)}: the date, the weekday and how it is set</a></p>
 <h2>${esc(name)} on the ${month} ${r.year} calendar</h2>
 ${h.holidayMonthBlock({ name, year: r.year, month: r.month, day: r.day }, holidaysForMonth(r.year, r.month, cd.locale), cd.locale === "us")}
-<h2>Days until ${esc(name)}, ${years[0]!.year} to ${years.at(-1)!.year}</h2>
-<div class="tool-scroll"><table class="dates-table tool-table"><thead><tr><th scope="col">Year</th><th scope="col">Date</th><th scope="col">Days from today</th></tr></thead><tbody>${years.map((x) => `<tr><th scope="row">${x.year}</th><td>${monthHref(x.year, x.month, today) ? `<a href="${monthHref(x.year, x.month, today)}" title="${monthNumberToName(x.month)} ${x.year} printable calendar">${esc(x.formatted)}</a>` : esc(x.formatted)}</td><td><span data-du="${x.iso}">${h.volatile(num(Math.round((parseIso(x.iso) - t) / DAY)))}</span></td></tr>`).join("")}</tbody></table></div>
-<h2>How the countdown is counted</h2>
-<p>Today is not counted and ${esc(name)} is, so the number is how many times you go to sleep before the day. The page counts from the date on your device, and once ${esc(r.formatted)} has passed it moves to ${esc(name)} ${r.year + 1}.</p>
-<p>Weekdays are Monday to Friday; public holidays between now and then are not taken out. For a count between any two dates, use the <a href="${toolPath("days-between-dates")}">days between dates calculator</a>. To find the date a set number of days away, use <a href="${toolPath("days-from-today")}">days from today</a> or <a href="${toolPath("add-days")}">add or subtract days</a>.</p>
+<p>${esc(name)} ${r.year} is day ${dayOfYear(e)} of the year, in ISO week ${isoWeekOf(e)}.${around.length ? ` ${around.join(", and ")}.` : ""}${near.sameDay.length ? ` ${listAnd(near.sameDay.map((x) => esc(x.name)))} ${near.sameDay.length === 1 ? "shares" : "share"} the date.` : ""}${federal ? ` ${esc(federal)}` : ""}</p>
+<h2>Countdown dates for ${esc(name)} ${r.year}</h2>
+<div class="tool-scroll"><table class="dates-table tool-table"><thead><tr><th scope="col">Mark</th><th scope="col">Date</th></tr></thead><tbody>${marks.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${v}</td></tr>`).join("")}</tbody></table></div>
+<p>The count leaves out today and includes ${esc(name)}, so it reads 1 on ${dayLabel(e - DAY)} and 0 on the day. From ${dayLabel(e + DAY)} this page counts to ${esc(name)} ${next.year}, ${esc(next.formatted)}.</p>
+<h2>${esc(name)} dates, ${years10[0]!.year} to ${years10.at(-1)!.year}</h2>
+${pattern.length ? `<p>${pattern.filter(Boolean).map(esc).join(" ")}</p>` : ""}
+<div class="tool-scroll"><table class="dates-table tool-table"><thead><tr><th scope="col">Year</th><th scope="col">Date</th>${third ? `<th scope="col">${third}</th>` : ""}<th scope="col">Days from today</th></tr></thead><tbody>${yearRows}</tbody></table></div>
+<nav class="tool-links" aria-label="Date calculators"><a href="${toolPath("days-between-dates")}">Days between dates</a><a href="${toolPath("days-from-today")}">Days from today</a><a href="${toolPath("add-days")}">Add or subtract days</a><a href="${toolPath("business-days")}">Business days</a></nav>
 <nav class="tool-more" aria-label="More countdowns"><h2>More countdowns</h2><div class="du-chips">${others.map(({ c: o, r: x }) => `<a href="${countdownPath(o.slug)}">${esc(o.label)}<span data-du="${x.iso}" data-du-part="phrase">${h.volatile(phrase(Math.round((parseIso(x.iso) - t) / DAY)))}</span></a>`).join("")}<a href="/days-until/">Every holiday</a></div></nav>`);
   return {
     id: `days-until-${cd.slug}`, path: countdownPath(cd.slug), title: countdownTitle(label, r.year),
-    description: clipSentence(`Days left until ${label}, ${r.formatted}, counted from today: weeks, weekdays and weekends to go, the ${month} ${r.year} calendar and the dates through ${years.at(-1)!.year}.`, 158),
+    description: [
+      `${label} is ${r.formatted}. See the days, weeks and weekdays left, the dates that mark 100, 30 and 7 days to go, and every date through ${r.year + 9}.`,
+      `${label} is ${r.formatted}. See the days, weeks and weekdays left, the 100, 30 and 7 day marks, and every date through ${r.year + 9}.`,
+      `${label} is ${r.formatted}. See the days and weeks left, the 100 and 30 day marks, and the dates through ${r.year + 9}.`,
+    ].find((d) => d.length <= 158) ?? `${label} is ${r.formatted}. Days and weeks left, and the dates through ${r.year + 9}.`,
     body, crumbs: c, holiday: { slug: cd.slug, year: r.year },
   };
 }

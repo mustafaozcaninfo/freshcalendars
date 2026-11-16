@@ -1,4 +1,5 @@
 import assert from "node:assert/strict";
+import { repeatedSentences } from "./pageFacts.js";
 import { test } from "node:test";
 import { addMonths, countdownHolidays, isoWeek, monthsAndDays, observedFederalHolidays, toolPages, usWeek, weekdaysBetween } from "./toolPages.js";
 
@@ -43,6 +44,12 @@ test("every countdown page has a unique path and a title of 60 characters or few
     assert.ok(p.title.length <= 60, p.title);
     assert.ok(p.description.length >= 110 && p.description.length <= 160, `${p.id}: ${p.description.length}`);
   }
+  // No sentence of running text is shared by two countdown pages.
+  const countdowns = pages.filter((p) => p.id.startsWith("days-until-"));
+  assert.deepEqual(repeatedSentences(countdowns), []);
+  assert.equal(new Set(countdowns.map((p) => p.description)).size, countdowns.length);
   const xmas = pages.find((p) => p.id === "days-until-christmas-day")!;
+  assert.match(xmas.body, /The next Friday Christmas Day after 2026 comes in 2037\./);
+  assert.match(xmas.body, /<th scope="row">100 days to go<\/th><td>Wednesday, September 16<\/td>/);
   assert.match(xmas.body, /<b data-du="2026-12-25">43<\/b>/);
 });
