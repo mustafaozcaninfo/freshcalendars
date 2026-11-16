@@ -99,7 +99,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-pickem-sheets-2026, thanksgiving-football-schedule-2026-nfl-college-games]
+related: [nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-pickem-sheets-2026, new-york-giants-schedule-2026-printable-remaining-games]
 draft: false
 ---
 
