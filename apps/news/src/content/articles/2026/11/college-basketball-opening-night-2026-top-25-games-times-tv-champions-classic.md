@@ -141,7 +141,7 @@ downloads:
     pdf: "/news/downloads/college-basketball-2026-27/college-basketball-opening-week-2026-watch-sheet-ink.pdf"
     png: "/news/downloads/college-basketball-2026-27/college-basketball-opening-week-2026-watch-sheet-ink.png"
     pages: 1
-related: [college-basketball-2026-27-key-dates-season-start-march-madness-printable, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, jimmy-v-classic-2026-duke-georgia-alabama-houston-tip-times-espn]
+related: [college-basketball-2026-27-key-dates-season-start-march-madness-printable, acc-sec-challenge-2026-schedule-times-tv, jimmy-v-classic-2026-duke-georgia-alabama-houston-tip-times-espn]
 draft: false
 ---
 

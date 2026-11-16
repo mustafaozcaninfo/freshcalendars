@@ -93,7 +93,7 @@ downloads:
     pdf: "/news/downloads/jimmy-v-classic-2026/jimmy-v-classic-2026-viewing-card.pdf"
     png: "/news/downloads/jimmy-v-classic-2026/jimmy-v-classic-2026-viewing-card.png"
     pages: 1
-related: [college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic, feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era, college-basketball-2026-27-key-dates-season-start-march-madness-printable]
+related: [college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic, feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era, acc-sec-challenge-2026-schedule-times-tv]
 draft: false
 ---
 
