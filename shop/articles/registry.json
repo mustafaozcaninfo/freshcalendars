@@ -5242,7 +5242,9 @@
    273,
    274,
    294,
-   300
+   300,
+   3609,
+   3621
   ],
   "h2": [
    "January 2027 calendar grid with week numbers",
@@ -5250,6 +5252,7 @@
    "How many weekdays and weekends does January 2027 have?",
    "Does January 2027 need five or six rows on a calendar?",
    "Calendars and planners that start in January 2027",
+   "January 2027 calendars from office and publisher brands",
    "Where to get a free printable January 2027 calendar"
   ],
   "related": [
@@ -5269,7 +5272,55 @@
    "273": 7.99,
    "274": 12.99,
    "294": 15.99,
-   "300": 11.99
+   "300": 11.99,
+   "3609": 9.99,
+   "3621": 26.11
+  }
+ },
+ {
+  "slug": "february-calendar",
+  "id": 148,
+  "title": "February 2027 Calendar: 4 Even Weeks, Presidents' Day Feb. 15",
+  "type": "dates",
+  "primary_query": "february 2027 calendar",
+  "cluster": "february-calendar",
+  "products": [
+   212,
+   290,
+   291,
+   3612,
+   3620,
+   3626,
+   3627
+  ],
+  "h2": [
+   "February 2027 calendar grid with ISO week numbers",
+   "Why February 2027 fits four rows on some calendars and five on others",
+   "Holidays and observances in February 2027",
+   "How many working days are in February 2027?",
+   "Is 2027 a leap year?",
+   "2027 calendars by months left on February 1",
+   "Where to get a free printable February 2027 calendar"
+  ],
+  "related": [
+   "january-calendar",
+   "planner-dates-and-holidays",
+   "best-wall-calendars"
+  ],
+  "image": "https://images.pexels.com/photos/5417675/pexels-photo-5417675.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-16T19:47:34.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-16",
+  "refresh_by": "2026-12-01",
+  "prices": {
+   "212": 8.99,
+   "290": 28.99,
+   "291": 9.99,
+   "3612": 18.34,
+   "3620": 18.95,
+   "3626": 28.7,
+   "3627": 19.48
   }
  }
 ]
