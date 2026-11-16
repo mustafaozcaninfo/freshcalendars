@@ -83,7 +83,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [daylight-saving-time-ends-november-1-2026, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14, mexico-time-difference-after-november-1-2026-us-clocks-fall-back]
+related: [daylight-saving-time-ends-november-1-2026, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14, us-time-zones-winter-2026-27-hawaii-alaska-puerto-rico-guam-time-difference]
 downloads:
   - group: "Phoenix vs U.S. Time Zones from Nov. 1 printables"
     title: "Phoenix vs U.S. Time Zones from Nov. 1, 2026"

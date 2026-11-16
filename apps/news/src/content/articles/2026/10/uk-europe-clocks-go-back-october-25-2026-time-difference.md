@@ -49,7 +49,7 @@ internalLinks:
     label: "Daylight saving time guide"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [daylight-saving-time-ends-november-1-2026, uk-clocks-go-forward-2027-march-28-bst, utc-vs-gmt-difference-explained]
+related: [daylight-saving-time-ends-november-1-2026, uk-clocks-go-forward-2027-march-28-bst, us-uk-europe-time-difference-winter-2026-27-new-york-london-5-hours]
 draft: false
 ---
 

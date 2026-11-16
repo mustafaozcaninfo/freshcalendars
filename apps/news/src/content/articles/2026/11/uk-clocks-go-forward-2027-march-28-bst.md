@@ -60,7 +60,7 @@ internalLinks:
     label: "March printable calendar"
   - href: "/page/daylight-savings/"
     label: "Daylight saving time guide"
-related: [uk-europe-clocks-go-back-october-25-2026-time-difference, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14, uk-bank-holidays-2027-dates-england-scotland-northern-ireland]
+related: [uk-europe-clocks-go-back-october-25-2026-time-difference, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14, us-uk-europe-time-difference-winter-2026-27-new-york-london-5-hours]
 draft: false
 downloads:
   - group: "UK Clocks Go Forward 2027 printables"
