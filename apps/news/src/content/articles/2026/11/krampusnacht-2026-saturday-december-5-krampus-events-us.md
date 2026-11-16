@@ -105,7 +105,7 @@ Dec. 5, 2026 is a Saturday. We computed the weekday. Times are local to each eve
 
 | Event | Place | Date | Start time | Cost | Source |
 |---|---|---|---|---|---|
-| Krampus NOLAuf parade | Bywater, New Orleans | Sat., Dec. 5 | 7:30 p.m. CT | Free | Krewe of Krampus |
+| Krampus NOLAuf parade | Bywater, New Orleans | Sat., Dec. 5 | 7:30 p.m. CT (8:30 p.m. ET) | Free | Krewe of Krampus |
 | Krampusnacht Festival | Fort Mifflin, 6400 Hog Island Rd., Philadelphia | Sat., Dec. 5 | 6 p.m. ET | From $32.18 with fees (PhillyVoice) | Fort Mifflin, PhillyVoice |
 | '26 Pennsylvania Krampusnacht | Zembo Shrine, 2801 N 3rd St, Harrisburg | Sat., Dec. 5 | 12 p.m. ET (to 8 p.m.) | Adult price not posted; 12 and under free | Organizer's vendor form |
 | Krampuslauf trail race | Dartmouth Skiway, 39 Grafton Turnpike Rd, Lyme, N.H. | Sat., Dec. 5 | 7 a.m. (9-hour), 9 a.m. (10K), 10 a.m. (5K) ET | Entry fee not shown | UltraSignup |
@@ -114,7 +114,7 @@ Dates and times come from each organizer's page. Weather, ticket sales and sched
 
 ## What time is the Krampus parade in New Orleans?
 
-The Krewe of Krampus lists its Krampus NOLAuf parade for "Saturday, December 5, 2026" with a "7:30pm Start" in the Bywater, and says it is "completely free to attend and open to the public." The route is posted as a map image on the krewe's page, so look at the map there. One line in the page body also mentions December 6th, so confirm the night on the [krewe's page](https://kreweofkrampus.com/krampus-nolauf-parade) before you go.
+The Krewe of Krampus lists its Krampus NOLAuf parade for "Saturday, December 5, 2026" with a "7:30pm Start" in the Bywater (8:30 p.m. ET), and says it is "completely free to attend and open to the public." The route is posted as a map image on the krewe's page, so look at the map there. One line in the page body also mentions December 6th, so confirm the night on the [krewe's page](https://kreweofkrampus.com/krampus-nolauf-parade) before you go.
 
 ## What is on at Fort Mifflin in Philadelphia?
 
