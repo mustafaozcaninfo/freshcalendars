@@ -3,6 +3,7 @@ title: "Planets in December 2026: Geminids Dec. 13-14, Solstice Dec. 21"
 description: "Planets visible in December 2026: Venus rises about 3:24 a.m. EST in New York on Dec. 15; Jupiter and Mars rise before midnight. Day-by-day sky table."
 type: explainer
 publishedAt: "2026-10-31T10:30:00-04:00"
+updatedAt: "2026-11-16T09:25:00-05:00"
 authors: [jessica-hartwell]
 category: sky-events
 keywords: ["planets visible December 2026", "night sky December 2026", "December 2026 sky calendar", "Geminids 2026", "Moon and Jupiter December 2026"]
@@ -26,21 +27,23 @@ assets:
   printable:
     slug: december-2026-night-sky-calendar-planets-moon
     group: night-sky-2026
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     title: "December 2026 Night Sky Calendar"
-    subtitle: "Moon phases, Geminids, solstice and Moon and planet pairings, Eastern time"
+    subtitle: "Moon phases, Geminids, Ursids, solstice and Moon and planet pairings, Eastern time"
     rows:
       - ["Tue., Dec. 1", "Last quarter Moon, 1:08 a.m. EST"]
       - ["Fri., Dec. 4 to Thu., Dec. 17", "Geminids active; peak is the night of Dec. 13-14"]
       - ["Tue., Dec. 8", "New Moon, 7:52 p.m. EST"]
-      - ["Sun., Dec. 13 to Mon., Dec. 14", "Geminid peak night, about 120 to 150 per hour"]
+      - ["Sun., Dec. 13 to Mon., Dec. 14", "Geminid peak night, 15% waxing crescent Moon"]
       - ["Thu., Dec. 17", "First quarter Moon, 12:42 a.m. EST"]
       - ["Thu., Dec. 17", "Moon 4.6° from Neptune (binoculars)"]
       - ["Mon., Dec. 21", "December solstice, 3:50 p.m. EST"]
+      - ["Mon., Dec. 21 to Tue., Dec. 22", "Ursid peak night, about 5 to 10 per hour, 89% Moon"]
       - ["Wed., Dec. 23", "Full Cold Moon, 8:28 p.m. EST"]
       - ["Sun., Dec. 27", "Moon 1.4° from Jupiter, before sunrise"]
       - ["Mon., Dec. 28", "Moon 4.7° from Mars, before sunrise"]
       - ["Wed., Dec. 30", "Last quarter Moon, 1:59 p.m. EST"]
-    note: "Source: U.S. Naval Observatory (moon phases, seasons); American Meteor Society; our calculation from NASA JPL Horizons data. Times Eastern."
+    note: "Source: U.S. Naval Observatory (moon phases, seasons); American Meteor Society (2026/2027 Meteor Shower Calendar); our calculation from NASA JPL Horizons data. Times Eastern."
     inkSaver: true
     description: "A one-page December 2026 night sky calendar with moon phases, the Geminids, the solstice and Moon pairings with Jupiter, Mars and Neptune."
     alt: "December 2026 night sky calendar printable with moon phases, Geminids, the solstice and Moon and planet pairings"
@@ -55,7 +58,7 @@ faq:
   - q: "When is the Moon closest to Jupiter in December 2026?"
     a: "At about 11:30 a.m. Eastern Standard Time on Sunday, Dec. 27, when the waning gibbous Moon is about 1.4° from Jupiter, according to our calculation. At 5 a.m. that morning the gap is still about 4.1°."
   - q: "When do the Geminids peak in 2026?"
-    a: "The night of Sunday, Dec. 13 into Monday, Dec. 14, 2026, according to the American Meteor Society. It puts the rate at roughly 120 to 150 meteors an hour under a dark sky."
+    a: "The night of Sunday, Dec. 13 into Monday, Dec. 14, 2026, according to the American Meteor Society. It calls the Geminids usually the strongest meteor shower of the year, with good activity before midnight, and the Moon is a thin 15% waxing crescent that night."
   - q: "What time is the December solstice in 2026?"
     a: "Monday, Dec. 21, 2026, at 3:50 p.m. Eastern Standard Time (20:50 Universal Time), according to the U.S. Naval Observatory."
   - q: "Why can other sources show different times?"
@@ -74,13 +77,14 @@ sources:
   - title: "Earth's Seasons and Apsides, 2026"
     url: "https://aa.usno.navy.mil/calculated/seasons?year=2026"
     publisher: "U.S. Naval Observatory, Astronomical Applications Department"
-  - title: "Meteor Shower Calendar 2026"
-    url: "https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/"
+  - title: "2026/2027 Meteor Shower Calendar"
+    url: "https://www.amsmeteors.org/calendar/"
     publisher: "American Meteor Society"
+    date: "2026-11-16"
   - title: "What's Up: skywatching tips from NASA"
     url: "https://science.nasa.gov/skywatching/whats-up/"
     publisher: "NASA"
-    date: "2026-10-31"
+    date: "2026-11-16"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -107,7 +111,7 @@ downloads:
 draft: false
 ---
 
-**The Moon passes about 1.4° from Jupiter on Sunday, Dec. 27, 2026, the Geminid meteor shower peaks the night of Dec. 13-14 and the December solstice arrives on Monday, Dec. 21 at 3:50 p.m. Eastern Standard Time (EST)**, according to the U.S. Naval Observatory (USNO) and our night sky calendar computed from NASA Jet Propulsion Laboratory (JPL) Horizons data. NASA's "What's Up" guide for December 2026 was not online as of Oct. 31, so we calculated the planet events ourselves and took the Moon phases and the solstice from the USNO.
+**The Moon passes about 1.4° from Jupiter on Sunday, Dec. 27, 2026, the Geminid meteor shower peaks the night of Dec. 13-14 and the December solstice arrives on Monday, Dec. 21 at 3:50 p.m. Eastern Standard Time (EST)**, according to the U.S. Naval Observatory (USNO) and our night sky calendar computed from NASA Jet Propulsion Laboratory (JPL) Horizons data. NASA's "What's Up" guide for December 2026 was not online as of Nov. 16, so we calculated the planet events ourselves and took the Moon phases and the solstice from the USNO.
 
 All times are Eastern Standard Time. Print the same dates on one page with the [December 2026 night sky calendar printable](#downloads).
 
@@ -118,10 +122,11 @@ All times are Eastern Standard Time. Print the same dates on one page with the [
 | Tue., Dec. 1 | Last quarter Moon | 1:08 a.m. EST (06:08 Universal Time, UT) | Moon phase |
 | Fri., Dec. 4 to Thu., Dec. 17 | Geminids active | Peak night is Dec. 13-14 | Meteor shower |
 | Tue., Dec. 8 | New Moon | 7:52 p.m. EST (00:52 UT on Dec. 9) | Moon phase |
-| Sun., Dec. 13 to Mon., Dec. 14 | Geminids peak | After about 9 p.m. local time | About 120 to 150 per hour |
+| Sun., Dec. 13 to Mon., Dec. 14 | Geminids peak | After about 10 p.m. local time | 15% waxing crescent Moon |
 | Thu., Dec. 17 | First quarter Moon | 12:42 a.m. EST (05:42 UT) | Moon phase |
 | Thu., Dec. 17 | Moon and Neptune | About noon; binoculars or a telescope only (magnitude 7.9) | About 4.6° |
 | Mon., Dec. 21 | December solstice | 3:50 p.m. EST (20:50 UT) | Shortest day in the Northern Hemisphere |
+| Mon., Dec. 21 to Tue., Dec. 22 | Ursids peak | Before dawn | About 5 to 10 per hour; 89% Moon |
 | Wed., Dec. 23 | Full Moon (Cold Moon) | 8:28 p.m. EST (01:28 UT on Dec. 24) | Moon phase |
 | Sun., Dec. 27 | Moon and Jupiter | About 11:30 a.m.; look before sunrise, when the gap is about 4.1° at 5 a.m. | About 1.4° |
 | Mon., Dec. 28 | Moon and Mars | About 8:30 a.m.; look before sunrise, when the gap is about 5.1° at 5 a.m. | About 4.7° |
@@ -154,9 +159,11 @@ Uranus (magnitude 5.6) and Neptune (magnitude 7.9) are evening planets. Uranus i
 
 ## How good are the Geminids in 2026?
 
-The Geminid meteor shower is active from Dec. 4 to Dec. 17 and peaks the night of Sunday, Dec. 13 into Monday, Dec. 14, 2026, according to the American Meteor Society (AMS). Under a dark, clear sky the AMS puts the rate at roughly 120 to 150 meteors an hour at the peak. The Moon is a thin waxing crescent that night, five days after the Dec. 8 new moon in the U.S. Naval Observatory table.
+The Geminid meteor shower is active from Dec. 4 to Dec. 17 and peaks the night of Sunday, Dec. 13 into Monday, Dec. 14, 2026, according to the American Meteor Society (AMS). The AMS says the Geminids are usually the strongest meteor shower of the year and the one major shower with good activity before midnight. The Moon is a thin waxing crescent, 15% illuminated, that night, five days after the Dec. 8 new moon in the U.S. Naval Observatory table.
 
-The Geminid radiant rises in the early evening, so you can start watching by about 9 p.m. local time. Our [Cold Moon, Geminids and solstice guide](/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/) has the viewing tips and the full list of December sky events.
+The AMS says the constellation Gemini is well placed from about 10 p.m. local time, so that is when to start watching. Our [Cold Moon, Geminids and solstice guide](/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/) has the viewing tips and the full list of December sky events.
+
+The Ursid meteor shower is active from Dec. 17 to Dec. 26 and peaks the night of Dec. 21-22, the AMS says. Observers normally see 5 to 10 Ursids per hour in the hours before dawn, with occasional outbursts above 25 per hour. The Moon is 89% illuminated that night, so the AMS expects significant interference while it is above the horizon.
 
 ## What time is the December 2026 solstice?
 
@@ -164,4 +171,4 @@ The December solstice falls on Monday, Dec. 21, 2026, at 3:50 p.m. EST (20:50 UT
 
 ## Where do these times come from?
 
-NASA's skywatching series, "What's Up," had not posted a December 2026 edition as of Oct. 31, 2026. We did not copy another site. We computed positions with Astronomy Engine, checked them against the [NASA JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) ephemeris, and converted from UT to Eastern time. Moon phases and the solstice are from the [USNO moon phases table](https://aa.usno.navy.mil/calculated/moon/phases?year=2026) and the [USNO seasons table](https://aa.usno.navy.mil/calculated/seasons?year=2026), and the Geminid dates and rates are from the [AMS meteor shower calendar](https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/). Planet events are rounded to the half hour, so an event can fall within an hour of the time shown. For last month's events, see the [November 2026 night sky calendar](/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/), and mark December's dates on a [December 2026 printable calendar](/december-calendars.html) or a [2027 yearly calendar](/printable-yearly-calendar.html).
+NASA's skywatching series, "What's Up," had not posted a December 2026 edition as of Nov. 16, 2026. We did not copy another site. We computed positions with Astronomy Engine, checked them against the [NASA JPL Horizons](https://ssd.jpl.nasa.gov/horizons/) ephemeris, and converted from UT to Eastern time. Moon phases and the solstice are from the [USNO moon phases table](https://aa.usno.navy.mil/calculated/moon/phases?year=2026) and the [USNO seasons table](https://aa.usno.navy.mil/calculated/seasons?year=2026), and the Geminid and Ursid dates and Moon conditions are from the [AMS meteor shower calendar](https://www.amsmeteors.org/calendar/). Planet events are rounded to the half hour, so an event can fall within an hour of the time shown. For last month's events, see the [November 2026 night sky calendar](/news/planets-visible-november-2026-night-sky-calendar-moon-venus-uranus-opposition/), and mark December's dates on a [December 2026 printable calendar](/december-calendars.html) or a [2027 yearly calendar](/printable-yearly-calendar.html).
