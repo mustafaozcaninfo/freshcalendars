@@ -96,7 +96,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [winter-solstice-2026-december-21-shortest-day-sunset-times, kwanzaa-2026-dates-seven-principles-calendar-printable, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28]
+related: [winter-solstice-2026-december-21-shortest-day-sunset-times, kwanzaa-2026-dates-seven-principles-calendar-printable, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, national-days-this-week-december-28-2026-january-3-2027]
 downloads:
   - group: "National Days Week Planner printables"
     title: "National Days Week Planner, Dec. 21-27, 2026"
