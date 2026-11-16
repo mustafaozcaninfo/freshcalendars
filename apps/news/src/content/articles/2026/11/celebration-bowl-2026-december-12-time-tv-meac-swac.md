@@ -122,7 +122,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [college-football-bowl-schedule-2026-27-dates-times-tv-cfp, college-football-conference-championship-games-2026-schedule-times-tv, heisman-trophy-2026-ceremony-date-finalists-voting-deadline]
+related: [college-football-bowl-schedule-2026-27-dates-times-tv-cfp, college-football-conference-championship-games-2026-schedule-times-tv, bayou-classic-2026-kickoff-time-tv-grambling-southern-november-28]
 draft: false
 ---
 
