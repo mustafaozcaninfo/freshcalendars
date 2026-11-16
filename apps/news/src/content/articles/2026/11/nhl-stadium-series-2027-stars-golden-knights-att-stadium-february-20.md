@@ -16,7 +16,7 @@ hero:
   license:
     name: "Public domain"
     url: "https://creativecommons.org/publicdomain/mark/1.0/"
-    source: "https://commons.wikimedia.org/wiki/File:AT%26T_Stadium,_home_of_the_Dallas_Cowboys_National_Football_League_team_in_Arlington,_Texas_LCCN2015630685.tif"
+    source: "https://commons.wikimedia.org/wiki/File:Cowboys_Stadium,_a_domed_stadium_with_a_retractable_roof_in_Arlington,_Texas_LCCN2013650777.tif"
     author: "Carol M. Highsmith"
     authorUrl: "https://en.wikipedia.org/wiki/en:Carol_M._Highsmith"
 summary:
