@@ -60,7 +60,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [hallmark-countdown-to-christmas-2026-schedule-printable, lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime, netflix-christmas-movies-2026-release-dates-holiday-watch-list]
+related: [hallmark-countdown-to-christmas-2026-schedule-printable, christmas-facts-2026-census-numbers-printable-quiz, netflix-christmas-movies-2026-release-dates-holiday-watch-list]
 downloads:
   - group: "Christmas movie bingo 2026 printables"
     title: "Christmas Movie Bingo 2026: 6 Cards"
