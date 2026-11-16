@@ -146,7 +146,7 @@ export function designCards(year: number, month: number): string {
   return `<ul class="design-grid">${CARD_STYLES.map((s) => {
     const sun = studioAssets(year, month, s.id), mon = studioAssets(year, month, s.id, "letter", "monday"), a4 = studioAssets(year, month, s.id, "a4");
     const image = monthSearchImage(year, month, s.id);
-    return `<li><a class="dg-thumb" href="${sun.pdf}" title="${name} ${year} calendar, ${s.label} design, PDF"><img src="${image.full}" srcset="${image.srcset}" sizes="${CARD_SIZES}" alt="${esc(monthImageName(year, month, s))}. ${esc(s.description)}" width="${image.width}" height="${image.height}" loading="lazy" decoding="async"></a><h3>${s.label}</h3><p>${esc(s.description)}</p><a class="btn btn-primary btn-sm" href="${sun.pdf}" download>Download PDF</a><p class="dg-more"><a href="${mon.pdf}" download>Monday start</a><a href="${a4.pdf}" download>A4</a><a href="${sun.png}" download>PNG</a></p></li>`;
+    return `<li><a class="dg-thumb" href="${sun.pdf}" title="${name} ${year} calendar, ${s.label} design, PDF"><img src="${image.full}" srcset="${image.srcset}" sizes="${CARD_SIZES}" alt="${esc(monthImageName(year, month, s))}. ${esc(s.description)}" title="${esc(monthImageName(year, month, s))}" width="${image.width}" height="${image.height}" loading="lazy" decoding="async"></a><h3>${s.label}</h3><p>${esc(s.description)}</p><a class="btn btn-primary btn-sm" href="${sun.pdf}" download>Download PDF</a><p class="dg-more"><a href="${mon.pdf}" download>Monday start</a><a href="${a4.pdf}" download>A4</a><a href="${sun.png}" download>PNG</a></p></li>`;
   }).join("")}</ul>`;
 }
 
@@ -200,7 +200,7 @@ function yearPage(year: number, today: Date): DatedPage {
   const planning = resolvePlanningYear(today);
   const evergreen = year === planning ? "/printable-calendars.html" : year === planning + 1 ? "/printable-yearly-calendar.html" : undefined;
   const c = crumbs(["Calendars", "/calendars/"], [`${year}`, yearPath(year)]);
-  const posters = YEARLY_VARIANTS.map((v) => ({ label: v.label, base: `/assets/${year}/yearly/${v.id}`, image: yearSearchImage(year, v.id), alt: `${yearImageName(year, v)}. ${v.description.replace(/\.$/, "")}` }));
+  const posters = YEARLY_VARIANTS.map((v) => ({ label: v.label, base: `/assets/${year}/yearly/${v.id}`, image: yearSearchImage(year, v.id), alt: `${yearImageName(year, v)}. ${v.description.replace(/\.$/, "")}`, title: yearImageName(year, v) }));
   const body = shell("dated-year", c, `
 <h1>${year} calendar</h1>
 <p class="tool-lead">${year} is a <strong>${leap ? "leap year with 366 days" : "common year with 365 days"}</strong>. It starts on a <strong>${jan1}</strong> and ends on a ${dec31}. Print the whole year on one page, or open any month for its own sheet.</p>
@@ -209,7 +209,7 @@ function yearPage(year: number, today: Date): DatedPage {
 <div class="year-minis">${Array.from({ length: 12 }, (_, i) => miniMonth(year, i + 1, today)).join("")}</div>
 <p class="tool-note">Shaded days are US holidays. Select a month name for its printable page.</p>
 <h2>Print ${year} on one page</h2>
-<ul class="design-grid">${posters.map((p) => `<li><a class="dg-thumb" href="${p.base}/calendar.pdf" title="${year} yearly calendar, ${esc(p.label)}, PDF"><img src="${p.image.full}" srcset="${p.image.srcset}" sizes="${CARD_SIZES}" alt="${esc(p.alt)}" width="${p.image.width}" height="${p.image.height}" loading="lazy" decoding="async"></a><h3>${esc(p.label)}</h3><a class="btn btn-primary btn-sm" href="${p.base}/calendar.pdf" download>Download PDF</a><p class="dg-more"><a href="${p.base}/calendar.png" download>PNG</a></p></li>`).join("")}</ul>
+<ul class="design-grid">${posters.map((p) => `<li><a class="dg-thumb" href="${p.base}/calendar.pdf" title="${year} yearly calendar, ${esc(p.label)}, PDF"><img src="${p.image.full}" srcset="${p.image.srcset}" sizes="${CARD_SIZES}" alt="${esc(p.alt)}" title="${esc(p.title)}" width="${p.image.width}" height="${p.image.height}" loading="lazy" decoding="async"></a><h3>${esc(p.label)}</h3><a class="btn btn-primary btn-sm" href="${p.base}/calendar.pdf" download>Download PDF</a><p class="dg-more"><a href="${p.base}/calendar.png" download>PNG</a></p></li>`).join("")}</ul>
 <h2>US holidays in ${year}</h2>
 <div class="tool-scroll"><table class="dates-table tool-table"><thead><tr><th scope="col">Holiday</th><th scope="col">Date</th></tr></thead><tbody>${hols.map((h) => `<tr><th scope="row"><a href="${holidayWhenIsPath(h.slug)}">${esc(h.name)}</a></th><td>${esc(h.formatted)}</td></tr>`).join("")}</tbody></table></div>
 <p>The same dates for other countries are on the <a href="/uk-holidays/">UK bank holidays</a> and <a href="/canada-holidays/">Canada holidays</a> pages, and <a href="/days-until/">days until a holiday</a> counts down to each one.</p>

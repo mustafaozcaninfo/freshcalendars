@@ -27,7 +27,7 @@ document.querySelectorAll('[data-studio]').forEach(function(el){
   el.querySelector('[data-studio-crumb]').textContent=model.crumb.replace(String(model.year),String(state.year));
   el.querySelector('.studio-secondary').dataset.downloadFormat=state.format==='pdf'?'png':'pdf';el.querySelector('[data-secondary-label]').textContent='Download '+(state.format==='pdf'?'PNG':'PDF');
   el.querySelector('[data-studio-description]').textContent=model.lead.replaceAll(String(model.year),String(state.year));
-  if(f.display){main.srcset=f.srcset;main.src=f.display;}else{main.removeAttribute('srcset');main.src=f.png;}main.alt=label+' calendar, '+state.paper.toUpperCase()+', '+state.start+' start';
+  if(f.display){main.srcset=f.srcset;main.src=f.display;}else{main.removeAttribute('srcset');main.src=f.png;}main.alt=label+' calendar, '+state.paper.toUpperCase()+', '+state.start+' start';main.title=main.alt;
   el.querySelector('[data-studio-title]').textContent=model.month?label+' '+(model.titleKind||'Calendar'):label;document.title=document.title.replace(/\b20\d\d\b/,String(state.year));
   el.querySelectorAll('[data-choice]').forEach(function(b){b.setAttribute('aria-pressed',String(state[b.dataset.choice]===b.dataset.value));});
   el.querySelectorAll('[data-style-thumb]').forEach(function(img){img.src=selectedFiles(img.dataset.styleThumb).preview;});
