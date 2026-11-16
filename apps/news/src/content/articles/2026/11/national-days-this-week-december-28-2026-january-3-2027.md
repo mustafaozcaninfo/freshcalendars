@@ -52,7 +52,7 @@ assets:
         - { label: "Canada's 2027 public holiday dates", why: "not posted by the Canada Revenue Agency as of Nov. 16, 2026" }
 hero:
   src: ../../../../assets/news/national-days-this-week-december-28-2026-january-3-2027/national-days-this-week-december-28-2026-january-3-2027.webp
-  alt: "New Year fireworks over Edinburgh seen from Calton Hill with the Dugald Stewart Monument and the Balmoral clock tower, file photo from an earlier year; Hogmanay events in Edinburgh start Dec. 29, 2026."
+  alt: "New Year fireworks over Edinburgh from Calton Hill, a file photo for national days this week, Dec. 28, 2026-Jan. 3, 2027"
   caption: "File photo from an earlier year of New Year fireworks over Edinburgh from Calton Hill. Hogmanay events in Edinburgh start Dec. 29, 2026."
   credit: "Photo: Robbie Shade / Wikimedia Commons, cropped, edited"
   license:
