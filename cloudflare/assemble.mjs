@@ -53,7 +53,8 @@ for (const rel of await walk(SITE)) {
   if (rel.endsWith(".html")) {
     // Pages link calendar files as /assets/...; those are on the CDN now (/assets/* also 301s there).
     const html = await readFile(path.join(SITE, rel), "utf8");
-    const next = html.replace(/(["'(\s,=])\/assets\//g, `$1${CDN}/assets/`);
+    // PDFs keep the site's own host: the Worker serves them with a canonical to their page.
+    const next = html.replace(/(["'(\s,=])\/assets\/(?![^"'\s<>)]*\.pdf\b)/g, `$1${CDN}/assets/`);
     if (next !== html) rewritten++;
     await writeFile(to, next);
   } else {
@@ -158,6 +159,10 @@ const headers = [
   // Search index chunks are named by their content hash (Pagefind): a new build, new names.
   ...["/news/pagefind/fragment/*", "/news/pagefind/index/*", "/news/pagefind/filter/*", "/news/pagefind/*.pf_meta"].map((p) => rule(p, IMMUTABLE)),
   "/news/*.xml\n  Content-Type: text/xml; charset=utf-8\n",
+  // Files that are data for a program, not pages: Google crawled 592 "add to calendar" files and
+  // the search index and listed them all as "Crawled, currently not indexed" (Search Console, 2026-11-16).
+  "/*.ics\n  X-Robots-Tag: noindex\n",
+  "/*.json\n  X-Robots-Tag: noindex\n",
 ];
 await writeFile(path.join(PUBLIC, "_headers"), headers.join(""));
 
@@ -169,6 +174,17 @@ for (const line of pdfMap.split("\n")) {
   if (m) canonical[m[1].replace(/\\(.)/g, "$1")] = m[2];
 }
 await writeFile(path.join(OUT, "pdf-canonical.json"), JSON.stringify(canonical));
+// The page each dated month and year declares as its canonical ("november-2026" and "2026" keys):
+// the Worker names it as the canonical of that month's or year's PDFs.
+const calendarPages = {};
+for (const rel of files) {
+  const m = /^((?:[a-z]+-)?[0-9]{4})-calendar\/index\.html$/.exec(rel);
+  if (!m) continue;
+  const href = /<link rel="canonical" href="([^"]+)"/.exec(await readFile(path.join(PUBLIC, rel), "utf8"))?.[1];
+  if (href) calendarPages[m[1]] = href;
+}
+if (!Object.keys(calendarPages).length) throw new Error("no dated calendar pages found for the PDF canonical map");
+await writeFile(path.join(OUT, "calendar-canonical.json"), JSON.stringify(calendarPages));
 // Content hashes of the printables (news build, astro.config.mjs): the Worker's edge-cache key.
 // dist/news-data comes back from the state bucket on a calendar-only deploy, so this is always the
 // live set; without it the Worker serves from R2 uncached, as before.
@@ -190,4 +206,4 @@ if (shadowed.length) throw new Error(`old-URL rules match deployed pages (Apache
 const count = deployed.length - 2; // _redirects and _headers are config, not assets
 if (count > FILE_LIMIT) throw new Error(`${count} files: over the ${FILE_LIMIT}-file Workers Free limit (move to Workers Paid)`);
 console.log(`[cf] dist/cf/public: ${count} files (limit ${FILE_LIMIT}); ${rewritten} calendar pages point /assets/ at ${CDN}; ` +
-  `${redirectLines.length} redirects, ${Object.keys(canonical).length} PDF canonicals`);
+  `${redirectLines.length} redirects, ${Object.keys(canonical).length} PDF canonicals, ${Object.keys(calendarPages).length} dated pages`);

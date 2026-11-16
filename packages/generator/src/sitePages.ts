@@ -67,7 +67,7 @@ import { shopBoxHtml } from "./shopLinks.js";
 import { DIST_SITE, PHOTOSWIPE_PATH, ROOT } from "./paths.js";
 import { yearSearchImage, STUDIO_STYLES, studioAssets } from "./studio.js";
 import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
-import { datedPages, datedIndexNav, designCards, monthHref, monthNumbersHtml, monthPrintHelpHtml, monthTable, monthYearPath, sheetSearchImages, yearHref } from "./datedPages.js";
+import { datedPages, datedIndexNav, designCards, monthHref, monthRowsNote, monthTable, monthWeekdaysHtml, monthWeeksHtml, monthWorkHtml, monthYearsNote, monthYearPath, sheetSearchImages, yearHref } from "./datedPages.js";
 import { classroomGuideBody, fiscalGuideBody, mondayGuideBody, printGuideExtra } from "./guideCopy.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary } from "./conceptPages.js";
 
@@ -1487,9 +1487,15 @@ ${adUnit(ADS.monthMid, "FreshCalendars_Month_InContent", "banner")}
   ${monthTable(y, m)}
   <h3>Holidays this month</h3>
   <ul>${hols.map((h) => `<li><a href="${holidayWhenIsPath(h.slug)}" title="When is ${esc(h.name)} ${y}?"><strong>${esc(h.name)}</strong></a>: ${esc(h.formatted)}</li>`).join("") || "<li>No listed holidays this month.</li>"}</ul>
-  <h3>${name} ${y} in numbers</h3>
-  ${monthNumbersHtml(y, m)}
-  ${monthPrintHelpHtml(name, y)}
+  <h3>${name} ${y} week by week</h3>
+  ${monthWeeksHtml(y, m)}
+  <h3>Working days in ${name} ${y}</h3>
+  ${monthWorkHtml(y, m)}
+  <h3>${name} ${y} dates by weekday</h3>
+  ${monthWeekdaysHtml(y, m)}
+  <h3>${name} ${y} compared with other years</h3>
+  ${monthYearsNote(y, m)}
+  <p>${monthRowsNote(y, m)} The <a href="/print-guide.html">print guide</a> has the settings for Letter and A4.</p>
   <h3>Planning tips for ${name} ${y}</h3>
   <ul>${ed.planningTips(y).map((t) => `<li>${esc(t)}</li>`).join("")}</ul>
   <h3>${esc(ed.historyTitle)}</h3>

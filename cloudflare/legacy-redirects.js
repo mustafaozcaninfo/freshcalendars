@@ -55,7 +55,33 @@ export const LEGACY_RULES = [
   [/^when-is\/([a-z0-9-]+)-(20[0-9]{2})\/?$/, "/when-is/$1/"],
   [new RegExp(`^(${MONTHS})-calendars\\/?$`), "/$1-calendars.html"],
   [/^news\/page\/1\/?$/, "/news/"],
+  // Search Console "Not found (404)", 2026-11-16: addresses of the site before 2026 that still get crawled.
+  [/^blank-calendar\/?$/, "/blank-calendars.html"],
+  [/^printable-monthly-calendar(\.html)?\/?$/, "/monthly-calendars/"],
+  [new RegExp(`^(?:download|calendar\\/pdf)\\/monthly\\/[0-9]{4}\\/(${MONTHS})\\/`), "/$1-calendars.html"],
+  [/^download\/blank\//, "/blank-calendars.html"],
 ];
+
+/**
+ * Rules that would match pages the site has today (/november-2026-calendar/), so they are kept out
+ * of LEGACY_RULES and its build check: the Worker tries them only after no file answered. A month
+ * or a year with no page of its own (2017, 2018, later a year the site has dropped) goes to the
+ * page that always shows that month or the current year.
+ */
+const NO_PAGE_RULES = [
+  [new RegExp(`^(${MONTHS})-[0-9]{4}-calendar\\/?$`), "/$1-calendars.html"],
+  [/^[0-9]{4}-calendar\/?$/, "/printable-calendars.html"],
+];
+
+/** The redirect for a dated address that has no page, or null. */
+export function noPageRedirect(pathname, search = "") {
+  const rel = pathname.replace(/^\//, "");
+  for (const [re, to] of NO_PAGE_RULES) {
+    const m = re.exec(rel);
+    if (m) return ORIGIN + to.replace(/\$(\d)/g, (_, i) => m[Number(i)] ?? "") + search;
+  }
+  return null;
+}
 
 /** The absolute redirect target for a path ("/foo.html") and query ("?a=1" or ""), or null. */
 export function legacyRedirect(pathname, search = "") {

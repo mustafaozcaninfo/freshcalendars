@@ -160,7 +160,7 @@ deploy() {
   # cdn.freshcalendars.com serves the same printables without their canonical: keep crawlers on
   # freshcalendars.com/news/downloads/ (the Worker adds Link rel=canonical there). Images stay open.
   if [[ "${DRY_RUN:-0}" != "1" ]]; then
-    printf 'User-agent: *\nDisallow: /news/downloads/\nAllow: /\n' |
+    printf 'User-agent: *\nDisallow: /news/downloads/\nDisallow: /assets/*.pdf$\nAllow: /\n' |
       "${RCLONE[@]}" rcat "$CDN_BUCKET/robots.txt" --header-upload "Content-Type: text/plain; charset=utf-8" --header-upload "Cache-Control: public, max-age=3600"
     # The edge kept the old robots.txt for days (no Cache-Control): drop it so the rule applies now.
     local robots; robots="$(mktemp)"; echo robots.txt >"$robots"; purge_cdn "$robots"
