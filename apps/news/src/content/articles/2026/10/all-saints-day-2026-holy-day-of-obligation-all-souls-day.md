@@ -3,7 +3,7 @@ title: "All Saints Day and All Souls Day 2026: Nov. 1 and Nov. 2"
 description: "All Saints Day 2026 fell on Sunday, Nov. 1, and All Souls Day on Monday, Nov. 2. A table lists U.S. holy days of obligation through December 2027."
 type: explainer
 publishedAt: "2026-10-25T01:33:00-04:00"
-updatedAt: "2026-11-14T17:06:00-05:00"
+updatedAt: "2026-11-16T15:25:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is All Saints Day a holy day of obligation 2026", "All Saints Day 2026", "All Souls Day 2026", "holy days of obligation 2027"]
@@ -29,6 +29,8 @@ faq:
     a: "Yes. Nov. 1, the solemnity of All Saints, is on the USCCB list of U.S. holy days of obligation, and in 2026 it fell on a Sunday. The rule that lifts the obligation applies only on a Saturday or a Monday."
   - q: "Is All Saints Day a holy day of obligation in 2027?"
     a: "No. The USCCB 2027 liturgical calendar says that because Nov. 1, 2027, is a Monday, the obligation to attend Mass on that date is abrogated."
+  - q: "When are All Souls Day and All Saints Sunday in 2027?"
+    a: "All Souls' Day 2027 is Tuesday, Nov. 2, 2027, per the USCCB 2027 calendar, and it is not a holy day of obligation. All Saints Sunday, where a church keeps it on the first Sunday in November, falls on Nov. 7, 2027; each congregation sets its own date."
   - q: "Is All Souls Day a holy day of obligation?"
     a: "All Souls Day, Monday, Nov. 2, 2026, is not on the list of U.S. holy days of obligation in the USCCB's canon 1246 norm."
   - q: "Which days are holy days of obligation in the United States?"
@@ -47,6 +49,9 @@ sources:
   - title: "Liturgical Calendar 2026"
     url: "https://www.usccb.org/resources/2026cal.pdf"
     publisher: "United States Conference of Catholic Bishops"
+  - title: "All Saints Sunday, Year A - Lectionary Planning Notes"
+    url: "https://umcdiscipleship.org/worship-planning/from-every-tribe/all-saints-sunday-year-a-lectionary-planning-notes"
+    publisher: "Discipleship Ministries, The United Methodist Church"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -106,6 +111,12 @@ All Souls Day was **Monday, Nov. 2, 2026**, the day after All Saints. It is not 
 ## Is All Saints Day a holy day of obligation in 2027?
 
 No. The USCCB's 2027 liturgical calendar says: "Monday, November 1, is the Solemnity of All Saints. ... because it is a Monday, this year the obligation to attend Mass on this date is abrogated." Nov. 1 moves from a Sunday in 2026 to a Monday in 2027.
+
+## When are All Souls Day and All Saints Sunday in 2027?
+
+All Souls' Day 2027 is **Tuesday, Nov. 2, 2027**. The USCCB 2027 calendar lists it for Nov. 2 as "The Commemoration of All the Faithful Departed (All Souls' Day)", the day after All Saints on Monday, Nov. 1. It is not on the U.S. list of holy days of obligation in 2027 or 2026.
+
+Several Protestant churches keep All Saints Sunday. Discipleship Ministries of The United Methodist Church says "most of us celebrate it on the first Sunday in November." That is **Sunday, Nov. 7, 2027**, the date the USCCB 2027 calendar gives for the Thirty-Second Sunday in Ordinary Time. No denomination has published a 2027 date for it, so congregations set their own. In 2026 Nov. 1 was itself a Sunday, so All Saints Day and All Saints Sunday fell on the same day for churches using that rule.
 
 ## Which U.S. holy days of obligation fall from November 2026 to December 2027?
 

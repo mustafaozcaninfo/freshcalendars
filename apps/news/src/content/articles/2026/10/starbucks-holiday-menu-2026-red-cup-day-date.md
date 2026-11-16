@@ -3,7 +3,7 @@ title: "Starbucks Holiday Menu 2026 Began Nov. 5; Red Cup Day Is Nov. 17"
 description: "Starbucks' 2026 holiday menu returned Thursday, Nov. 5; Red Cup Day is Tuesday, Nov. 17. Drinks list with the new Tiramisu Velvet Latte, and a checklist."
 type: news
 publishedAt: "2026-10-24T00:50:00-04:00"
-updatedAt: "2026-11-14T17:18:00-05:00"
+updatedAt: "2026-11-16T15:27:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Starbucks holiday menu 2026", "Starbucks red cup day 2026", "when does Starbucks holiday menu come out 2026", "Starbucks holiday cups 2026"]
@@ -18,7 +18,7 @@ assets:
     slug: starbucks-holiday-menu-2026-checklist
     group: starbucks-holiday-2026
     title: "Starbucks Holiday Menu 2026 Checklist"
-    subtitle: "Holiday drinks, food and merchandise to try, from Nov. 5, 2026"
+    subtitle: "Every holiday drink and food item on the menu, plus merchandise dates, from Nov. 5, 2026"
     layout: checklist
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
@@ -26,6 +26,8 @@ assets:
       - { when: "", what: "Caramel Brulee Latte (returning)", section: "Drinks" }
       - { when: "", what: "Sugar Cookie Latte (returning)", section: "Drinks" }
       - { when: "", what: "Gingerbread Chai (returning)", section: "Drinks" }
+      - { when: "", what: "Iced Sugar Cookie Cream Matcha (new variation)", section: "Drinks" }
+      - { when: "", what: "Iced Caramel Brulee Cream Chai (new variation)", section: "Drinks" }
       - { when: "", what: "Tiramisu Velvet Latte, hot or iced (new)", section: "Drinks" }
       - { when: "", what: "Tiramisu Velvet Cold Brew (new)", section: "Drinks" }
       - { when: "", what: "Apple Pomegranate Refresher (new)", section: "Drinks" }
@@ -42,9 +44,8 @@ assets:
       - { when: "Nov. 10", what: "Bearista Glass Cold Cup, Surprise Box Edition", section: "Merchandise" }
       - { when: "Nov. 17", what: "Winter Wonderland collection", section: "Merchandise" }
       - { when: "Dec. 1", what: "Original Bearista Glass Cold Cup returns", section: "Merchandise" }
-    note: "Source: Starbucks, Starbucks holiday menu is coming to town Nov. 5, about.starbucks.com, Oct. 5, 2026, and Bearista cold cup dates, Oct. 26, 2026. Red Cup Day is Tuesday, Nov. 17, 2026, per Scripps News."
-    inkSaver: true
-    description: "One-page checklist of the Starbucks 2026 holiday menu: returning and new drinks, food and merchandise to try from Nov. 5. Free."
+    note: "Source: Starbucks, Starbucks holiday menu is coming to town Nov. 5, about.starbucks.com, Oct. 5, 2026, and Bearista cold cup dates, Oct. 26, 2026. Red Cup Day is Tuesday, Nov. 17, 2026, per Scripps News, Today and Yahoo. New variations: Nation's Restaurant News, Nov. 4, 2026, Tasting Table and Food Republic, Nov. 5, 2026."
+    description: "One-page printable menu PDF of every Starbucks 2026 holiday drink and food item, plus merchandise dates, with a tick box for each. Free."
     alt: "Printable Starbucks holiday menu 2026 checklist with drinks, food and merchandise grouped into sections and a tick box for each"
 hero:
   src: ../../../../assets/news/starbucks-holiday-menu-2026-red-cup-day-date/starbucks-holiday-menu-2026-red-cup-day-date.webp
@@ -75,6 +76,26 @@ faq:
   - q: "When does Starbucks holiday merchandise come out in 2026?"
     a: "The Holiday Bearista, Holiday Village and Peppermint Mocha collections arrived Nov. 5. The Winter Wonderland collection launches Tuesday, Nov. 17. A Bearista Glass Cold Cup Surprise Box Edition was due Tuesday, Nov. 10, and the original Bearista Glass Cold Cup returns Tuesday, Dec. 1, in select stores, Starbucks said on Oct. 26."
 sources:
+  - title: "Starbucks holiday menu returns complete with a jolly new pup cup"
+    url: "https://www.nrn.com/quick-service/starbucks-holiday-menu-returns-complete-with-a-jolly-new-pup-cup"
+    publisher: "Nation's Restaurant News"
+    date: "2026-11-04"
+  - title: "Starbucks Holiday Menu 2026 Review"
+    url: "https://www.tastingtable.com/2308401/starbucks-holiday-menu-2026-review/"
+    publisher: "Tasting Table"
+    date: "2026-11-05"
+  - title: "Starbucks Holiday 2026 Menu Review"
+    url: "https://www.foodrepublic.com/2308545/starbucks-holiday-2026-menu-review/"
+    publisher: "Food Republic"
+    date: "2026-11-05"
+  - title: "Starbucks Red Cup Day 2026: How to get a free cup"
+    url: "https://www.today.com/food/restaurants/starbucks-red-cup-day-2026-how-to-get-rcna609166"
+    publisher: "Today"
+    date: "2026-11-16"
+  - title: "Starbucks Red Cup Day 2026"
+    url: "https://www.yahoo.com/lifestyle/articles/starbucks-red-cup-day-2026-113752629.html"
+    publisher: "Yahoo"
+    date: "2026-11-16"
   - title: "Starbucks' 5 new holiday Bear cups go on sale today, including a rare 'golden bear'"
     url: "https://www.yahoo.com/news/us/article/the-starbucks-holiday-menu-includes-a-tiramisu-drink-debut--and-the-viral-bear-cup-is-back-153304404.html"
     publisher: "Yahoo"
@@ -112,19 +133,11 @@ related: [holiday-menus-2026-every-chain-tracker, chick-fil-a-peppermint-milksha
 downloads:
   - group: "Starbucks Holiday Menu 2026 Checklist printables"
     title: "Starbucks Holiday Menu 2026 Checklist"
-    description: "One-page checklist of the Starbucks 2026 holiday menu: returning and new drinks, food and merchandise to try from Nov. 5. Free."
+    description: "One-page printable menu PDF of every Starbucks 2026 holiday drink and food item, plus merchandise dates, with a tick box for each. Free."
     preview: ../../../../assets/news/starbucks-holiday-2026/starbucks-holiday-menu-2026-checklist.png
     alt: "Printable Starbucks holiday menu 2026 checklist with drinks, food and merchandise grouped into sections and a tick box for each"
     pdf: "/news/downloads/starbucks-holiday-2026/starbucks-holiday-menu-2026-checklist.pdf"
     png: "/news/downloads/starbucks-holiday-2026/starbucks-holiday-menu-2026-checklist.png"
-    pages: 1
-  - group: "Starbucks Holiday Menu 2026 Checklist printables"
-    title: "Starbucks Holiday Menu 2026 Checklist (ink saver)"
-    description: "One-page checklist of the Starbucks 2026 holiday menu: returning and new drinks, food and merchandise to try from Nov. 5. Free. Ink-saver version."
-    preview: ../../../../assets/news/starbucks-holiday-2026/starbucks-holiday-menu-2026-checklist-ink.png
-    alt: "Printable Starbucks holiday menu 2026 checklist with drinks, food and merchandise grouped into sections and a tick box for each, ink-saver version"
-    pdf: "/news/downloads/starbucks-holiday-2026/starbucks-holiday-menu-2026-checklist-ink.pdf"
-    png: "/news/downloads/starbucks-holiday-2026/starbucks-holiday-menu-2026-checklist-ink.png"
     pages: 1
 draft: false
 ---
@@ -155,6 +168,8 @@ Returning drinks, all back from Nov. 5:
 - Sugar Cookie Latte
 - Gingerbread Chai
 
+Two iced variations of existing drinks are also on the menu: the Iced Sugar Cookie Cream Matcha and the Iced Caramel Brulee Cream Chai, which Nation's Restaurant News listed as new variations on Nov. 4, 2026. Tasting Table and Food Republic listed both on Nov. 5.
+
 A new Peppermint Mocha Flavored Coffee is also coming to grocery stores.
 
 ## Holiday food
@@ -167,11 +182,11 @@ Three collections arrived Nov. 5: the Holiday Bearista collection, a Holiday Vil
 
 ## When is Starbucks Red Cup Day 2026?
 
-Tuesday, Nov. 17, 2026, according to Scripps News, which cited Starbucks. On that day, customers who buy a holiday drink get a free reusable red cup, at participating stores while supplies last. In 2025, Red Cup Day was Thursday, Nov. 13, according to Starbucks. The Starbucks newsroom blocked our automated check, so we rely on Scripps News for the 2026 date.
+Tuesday, Nov. 17, 2026, according to Scripps News, which cited Starbucks. Today and Yahoo repeated the date and the offer on Nov. 16. On that day, customers who buy a holiday drink get a free reusable red cup, at participating stores while supplies last. In 2025, Red Cup Day was Thursday, Nov. 13, according to Starbucks. The Starbucks newsroom blocked our automated check, so we rely on Scripps News for the 2026 date.
 
-## Print the 2026 holiday checklist
+## Print the 2026 holiday menu
 
-The free printable below lists the returning and new drinks, the holiday food and the merchandise collections, each with a tick box, on one US Letter page. Use the ink-saver version for a home printer. It uses no Starbucks logos or brand art; the names are drawn as plain text.
+The free one-page printable menu PDF below lists every holiday drink and food item, returning and new, plus the merchandise collections, each with a tick box, on one US Letter page. It uses no Starbucks logos or brand art; the names are drawn as plain text.
 
 To plan the season, print a [November 2026 calendar](/november-calendars.html) or a [December 2026 calendar](/december-calendars.html) and circle Nov. 17. For the shopping weeks that follow, see our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/), the [Advent calendar 2026 dates](/news/advent-calendar-2026-dates-free-printable/) and [November 2026 important dates](/news/november-2026-important-dates-days-until/).
 
