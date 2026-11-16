@@ -3,7 +3,7 @@ title: "Thanksgiving 2026: Thursday, Nov. 26, With Game and Parade Times"
 description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November. Dates through 2035, football and Macy's parade times, and a printable."
 type: explainer
 publishedAt: "2026-10-17T16:30:00-04:00"
-updatedAt: "2026-11-06T02:18:00-05:00"
+updatedAt: "2026-11-16T13:25:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["thanksgiving 2026", "what day is thanksgiving 2026", "thanksgiving dates 2026 to 2035", "why is thanksgiving on the 26th this year", "is the day after thanksgiving a holiday"]
@@ -200,20 +200,27 @@ The parade and kickoff times come from the [Thanksgiving 2026 TV schedule](/news
 
 The table below computes each year's U.S. Thanksgiving and Black Friday, the number of days from Thanksgiving to Christmas, and Canadian Thanksgiving, which falls on the second Monday of October. Thanksgiving 2025 was Thursday, Nov. 27, and 2024 was Thursday, Nov. 28.
 
-| Year | U.S. Thanksgiving (Thursday) | Black Friday | Days to Christmas | Canadian Thanksgiving (Monday) |
-|---|---|---|---|---|
-| 2026 | Nov. 26 | Nov. 27 | 29 | Oct. 12 |
-| 2027 | Nov. 25 | Nov. 26 | 30 | Oct. 11 |
-| 2028 | Nov. 23 | Nov. 24 | 32 | Oct. 9 |
-| 2029 | Nov. 22 | Nov. 23 | 33 | Oct. 8 |
-| 2030 | Nov. 28 | Nov. 29 | 27 | Oct. 14 |
-| 2031 | Nov. 27 | Nov. 28 | 28 | Oct. 13 |
-| 2032 | Nov. 25 | Nov. 26 | 30 | Oct. 11 |
-| 2033 | Nov. 24 | Nov. 25 | 31 | Oct. 10 |
-| 2034 | Nov. 23 | Nov. 24 | 32 | Oct. 9 |
-| 2035 | Nov. 22 | Nov. 23 | 33 | Oct. 8 |
+| Year | U.S. Thanksgiving | Days from Nov. 16, 2026 | Black Friday | Days to Christmas | Canadian Thanksgiving (Monday) |
+|---|---|---|---|---|---|
+| 2026 | Thursday, Nov. 26 | 10 | Nov. 27 | 29 | Oct. 12 |
+| 2027 | Thursday, Nov. 25 | 374 | Nov. 26 | 30 | Oct. 11 |
+| 2028 | Thursday, Nov. 23 | 738 | Nov. 24 | 32 | Oct. 9 |
+| 2029 | Thursday, Nov. 22 | 1102 | Nov. 23 | 33 | Oct. 8 |
+| 2030 | Thursday, Nov. 28 | 1473 | Nov. 29 | 27 | Oct. 14 |
+| 2031 | Thursday, Nov. 27 | 1837 | Nov. 28 | 28 | Oct. 13 |
+| 2032 | Thursday, Nov. 25 | - | Nov. 26 | 30 | Oct. 11 |
+| 2033 | Thursday, Nov. 24 | - | Nov. 25 | 31 | Oct. 10 |
+| 2034 | Thursday, Nov. 23 | - | Nov. 24 | 32 | Oct. 9 |
+| 2035 | Thursday, Nov. 22 | - | Nov. 23 | 33 | Oct. 8 |
 
 The earliest Thanksgiving can fall is Nov. 22, next in 2029 and 2035; the latest is Nov. 28, next in 2030. Our [printable Thanksgiving dates for 2026 to 2035](/news/downloads/thanksgiving-2026/thanksgiving-dates-2026-2035.pdf) lists the same years for the fridge, with Black Friday and Canadian Thanksgiving.
+
+## Thanksgiving Day 2026 on our other pages
+
+- [Thanksgiving Day schedule 2026, hour by hour](/news/thanksgiving-day-2026-schedule-hour-by-hour-parade-dog-show-nfl/): parade, dog show and NFL times.
+- [Macy's Thanksgiving Day Parade 2026 start time, route and TV](/news/macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons/)
+- [Thanksgiving college football 2026, every game Nov. 26-28](/news/thanksgiving-football-schedule-2026-nfl-college-games/)
+- [What is open on Thanksgiving 2026](/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/): grocery stores, Walmart and Costco.
 
 ## Why is Thanksgiving on Nov. 26 this year?
 
