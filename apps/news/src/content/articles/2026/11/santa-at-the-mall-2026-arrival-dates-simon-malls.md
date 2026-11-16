@@ -117,7 +117,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [christmas-parades-2026-us-cities-dates-times-routes, letters-to-santa-2026-usps-operation-santa-canada-post-deadlines, christmas-tree-lightings-2026-dates-times-nyc-dc-boston]
+related: [macys-santaland-2026-reservations-november-20-herald-square, christmas-parades-2026-us-cities-dates-times-routes, christmas-tree-lightings-2026-dates-times-nyc-dc-boston]
 downloads:
   - group: "Santa at the Mall 2026 Arrival Dates by Simon Mall printables"
     title: "Santa at the Mall 2026 Arrival Dates by Simon Mall"
