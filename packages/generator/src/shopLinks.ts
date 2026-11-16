@@ -32,5 +32,5 @@ export const shopBoxHref = (key: string): string | undefined => BOXES[key]?.href
 export function shopBoxHtml(key: string): string {
   const b = BOXES[key];
   if (!b) return "";
-  return `<aside class="shop-box" aria-label="From the Fresh Calendars Shop"><span class="shop-box-kicker">From the Fresh Calendars Shop</span><strong>${b.title}</strong><p>${b.text}</p><a href="${b.href}">${b.cta} →</a><small>The shop earns a commission when you buy through its retailer links.</small></aside>`;
+  return `<aside class="shop-box" aria-label="From the Fresh Calendars Shop"><span class="shop-box-kicker">From the Fresh Calendars Shop</span><strong>${b.title}</strong><p>${b.text}</p><a href="${b.href}">${b.cta}</a><small>The shop earns a commission when you buy through its retailer links.</small></aside>`;
 }

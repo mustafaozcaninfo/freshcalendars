@@ -116,7 +116,7 @@ function holidayListHtml(holidays: ResolvedHoliday[]): string {
     return "<div>No US holidays or observances this month.</div>";
   }
   return holidays
-    .map((h) => `<div><strong>${escapeHtml(h.name)}</strong> · ${escapeHtml(h.formatted)}</div>`)
+    .map((h) => `<div><strong>${escapeHtml(h.name)}</strong> ${escapeHtml(h.formatted)}</div>`)
     .join("");
 }
 
@@ -133,7 +133,7 @@ export function renderYearlyPrintHtml(
     })
     .join("");
   return readTemplate(`yearly/${variant.templateFile}`)
-    .replaceAll("{{title}}", `${year} Calendar · ${variant.label}`)
+    .replaceAll("{{title}}", `${year} Calendar, ${variant.label}`)
     .replaceAll("{{year}}", String(year))
     .replaceAll("{{monthsHtml}}", monthsHtml);
 }
@@ -161,7 +161,7 @@ export function renderMonthlyPrintHtml(
   };
 
   return readTemplate(`monthly/${variant.templateFile}`)
-    .replaceAll("{{title}}", `${monthName} ${year} · ${variant.label}`)
+    .replaceAll("{{title}}", `${monthName} ${year} Calendar, ${variant.label}`)
     .replaceAll("{{monthName}}", monthName)
     .replaceAll("{{year}}", String(year))
     .replaceAll("{{subtitle}}", subtitles[variantId])
@@ -233,7 +233,7 @@ function habitTableHtml(weekStartsOn: 0 | 1): string {
 export function renderWeeklyPrintHtml(variantId: WeeklyVariantId = "classic-sun"): string {
   const variant = weeklyVariantById(variantId);
   let html = readTemplate(`weekly/${variant.templateFile}`)
-    .replaceAll("{{title}}", `Weekly Calendar · ${variant.label}`)
+    .replaceAll("{{title}}", `Weekly Calendar, ${variant.label}`)
     .replaceAll("{{daysHtml}}", weeklyDaysHtml(variant.weekStartsOn))
     .replaceAll("{{daysHtmlStacked}}", weeklyDaysStackedHtml(variant.weekStartsOn))
     .replaceAll("{{hourlyTableHtml}}", hourlyTableHtml(variant.weekStartsOn))
@@ -250,7 +250,7 @@ function blankWeeksHtml(rows = 5): string {
 export function renderBlankPrintHtml(variantId: BlankVariantId = "classic"): string {
   const variant = blankVariantById(variantId);
   return readTemplate(`blank/${variant.templateFile}`)
-    .replaceAll("{{title}}", `Blank Calendar · ${variant.label}`)
+    .replaceAll("{{title}}", `Blank Calendar, ${variant.label}`)
     .replaceAll("{{weekdayHeader}}", weekdayHeader(variant.weekStartsOn))
     .replaceAll("{{weekdayHeaderLong}}", weekdayHeader(variant.weekStartsOn, "long"))
     .replaceAll("{{weeksHtml}}", blankWeeksHtml(5));

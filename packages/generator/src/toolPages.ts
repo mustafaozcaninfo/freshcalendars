@@ -225,7 +225,7 @@ function hubPage(today: Date, h: Helpers): ToolPage {
   <div><span>Day of the year</span><strong><b data-today="doy">${h.volatile(String(dayOfYear(t)))}</b> of <b data-today="len">${len}</b></strong></div>
   <div><span>Days left this year</span><strong data-today="left">${h.volatile(String(len - dayOfYear(t)))}</strong></div>
 </div>
-<div class="tool-grid">${TOOLS.map(([slug, icon, name, text, cta]) => `<a class="tool-card" href="${toolPath(slug)}">${iconHtml(icon)}<strong>${name}</strong><span>${text}</span><em>${cta} →</em></a>`).join("")}</div>
+<div class="tool-grid">${TOOLS.map(([slug, icon, name, text, cta]) => `<a class="tool-card" href="${toolPath(slug)}">${iconHtml(icon)}<strong>${name}</strong><span>${text}</span><em>${cta}</em></a>`).join("")}</div>
 <h2>Quick count</h2>
 <div class="date-tools">
   <form data-tool="between"><h3>Days between dates</h3>${dateInput("from", "Start date", "today")}${dateInput("to", "End date", "year-end")}<button class="studio-primary">Count the days</button><output aria-live="polite"></output></form>
@@ -233,12 +233,12 @@ function hubPage(today: Date, h: Helpers): ToolPage {
 </div>
 <h2>Days until the next holidays</h2>
 <table class="dates-table tool-table"><thead><tr><th scope="col">Holiday</th><th scope="col">Date</th><th scope="col">Days left</th></tr></thead><tbody>${next.map(({ c, h: r }) => `<tr><td><a href="${countdownPath(c.slug)}">${esc(c.label)}</a></td><td>${esc(r.formatted)}</td><td><span data-du="${r.iso}">${h.volatile(String(Math.round((parseIso(r.iso) - t) / DAY)))}</span></td></tr>`).join("")}</tbody></table>
-<p><a href="/days-until/">Countdown to every holiday →</a></p>
+<p><a href="/days-until/">Countdown to every holiday</a></p>
 <h2>How the tools count</h2>
 <p>A count between two dates is the number of days you would cross off a calendar: the start date is not counted and the end date is. From a Monday to the Friday of the same week is 4 days. Tick "Count the start date too" where a tool offers it and the same span is 5 days.</p>
 <p>Months are calendar months. One month after January 31 is the last day of February, because February has no 31st. Week numbers follow ISO 8601, the international standard: weeks start on Monday and week 1 is the week with the year's first Thursday.</p>
-<p class="tool-links"><a href="/monthly-calendars/">Monthly calendars</a> · <a href="/printable-calendars.html">Yearly calendar</a> · <a href="/holidays/">US holiday dates</a> · <a href="/print-guide.html">Printing guide</a></p>`);
-  return { id: "calendar-tools", path: "/calendar-tools/", title: "Date Calculator · Days Between Dates, Add Days, Week Number", description: "Free date calculators: count the days between two dates, add or subtract days, find business days, today's week number and the day of the year.", body, crumbs: crumbs(["Calendar tools", "/calendar-tools/"]) };
+<p class="tool-links"><a href="/monthly-calendars/">Monthly calendars</a><a href="/printable-calendars.html">Yearly calendar</a><a href="/holidays/">US holiday dates</a><a href="/print-guide.html">Printing guide</a></p>`);
+  return { id: "calendar-tools", path: "/calendar-tools/", title: "Date Calculators for Days Between Dates and Week Numbers", description: "Free date calculators that count the days between two dates, add or subtract days, find business days, today's week number and the day of the year.", body, crumbs: crumbs(["Calendar tools", "/calendar-tools/"]) };
 }
 
 function betweenPage(today: Date, h: Helpers): ToolPage {
@@ -257,7 +257,7 @@ function betweenPage(today: Date, h: Helpers): ToolPage {
 <p>Leap years are handled: a span that crosses February 29 includes it. ${isLeap(y) ? `${y} is a leap year with 366 days.` : `${y} has 365 days; the next leap year is ${[1, 2, 3, 4, 5, 6, 7, 8].map((k) => y + k).find(isLeap)}.`}</p>
 <p>To count working days without public holidays, use the <a href="${toolPath("business-days")}">business days calculator</a>.</p>
 ${toolLinks("days-between-dates")}`);
-  return { id: "tool-days-between-dates", path: toolPath("days-between-dates"), title: "Days Between Dates Calculator · Days, Weeks and Weekdays", description: "Count the days between two dates. The result also shows the span in weeks, calendar months, weekdays and weekend days, with or without the start date.", body, crumbs: c };
+  return { id: "tool-days-between-dates", path: toolPath("days-between-dates"), title: "Days Between Dates Calculator in Days, Weeks and Weekdays", description: "Count the days between two dates. The result also shows the span in weeks, calendar months, weekdays and weekend days, with or without the start date.", body, crumbs: c };
 }
 
 function addPage(): ToolPage {
@@ -271,7 +271,7 @@ function addPage(): ToolPage {
 <p>Months and years keep the day of the month. When the target month is too short, the answer is that month's last day: one month after January 31 is February 28, or February 29 in a leap year. One year after February 29 is February 28.</p>
 <p>For a ready table of common spans from today, see <a href="${toolPath("days-from-today")}">days from today</a>.</p>
 ${toolLinks("add-days")}`);
-  return { id: "tool-add-days", path: toolPath("add-days"), title: "Add Days to a Date · Add or Subtract Days, Weeks, Months", description: "Add or subtract days, business days, weeks, months or years from any date. See the resulting date with its weekday, week number and day of the year.", body, crumbs: c };
+  return { id: "tool-add-days", path: toolPath("add-days"), title: "Add or Subtract Days, Weeks or Months From a Date", description: "Add or subtract days, business days, weeks, months or years from any date. See the resulting date with its weekday, week number and day of the year.", body, crumbs: c };
 }
 
 function fromTodayPage(today: Date, h: Helpers): ToolPage {
@@ -299,7 +299,7 @@ function fromTodayPage(today: Date, h: Helpers): ToolPage {
 <p>Today is day zero. "30 days from today" is the date 30 days after today, so tomorrow is 1 day from today. A month from today keeps the same day of the month; where the month is too short, the date is its last day.</p>
 <p>The tables use the date on your device and are right the moment you open the page.</p>
 ${toolLinks("days-from-today")}`);
-  return { id: "tool-days-from-today", path: toolPath("days-from-today"), title: "Days From Today · What Date Is 30, 60 or 90 Days From Now?", description: "The date 30, 45, 60, 90, 120 or 180 days from today, and the same number of days ago, with weeks, months and business days from today in one table.", body, crumbs: c };
+  return { id: "tool-days-from-today", path: toolPath("days-from-today"), title: "What Date Is 30, 60 or 90 Days From Today?", description: "The date 30, 45, 60, 90, 120 or 180 days from today, and the same number of days ago, with weeks, months and business days from today in one table.", body, crumbs: c };
 }
 
 function businessPage(today: Date): ToolPage {
@@ -321,9 +321,9 @@ function businessPage(today: Date): ToolPage {
 <div class="tool-scroll"><table class="dates-table tool-table"><thead><tr><th scope="col">Holiday</th><th scope="col">Date</th><th scope="col">Observed</th></tr></thead><tbody>${list(y)}</tbody></table></div>
 <h2>Federal holidays ${y + 1}</h2>
 <div class="tool-scroll"><table class="dates-table tool-table"><thead><tr><th scope="col">Holiday</th><th scope="col">Date</th><th scope="col">Observed</th></tr></thead><tbody>${list(y + 1)}</tbody></table></div>
-<p><a href="/holidays/">All US holidays with weekdays →</a></p>
+<p><a href="/holidays/">All US holidays with weekdays</a></p>
 ${toolLinks("business-days")}`);
-  return { id: "tool-business-days", path: toolPath("business-days"), title: "Business Days Calculator · Weekdays Between Two Dates", description: `Count business days between two dates, Monday to Friday, with US federal holidays skipped on their observed days. Includes the ${y} and ${y + 1} holiday lists.`, body, crumbs: c };
+  return { id: "tool-business-days", path: toolPath("business-days"), title: "Business Days Calculator for Weekdays Between Two Dates", description: `Count business days between two dates, Monday to Friday, with US federal holidays skipped on their observed days. Includes the ${y} and ${y + 1} holiday lists.`, body, crumbs: c };
 }
 
 function weekPage(today: Date, h: Helpers): ToolPage {
@@ -376,7 +376,7 @@ ${toolLinks("day-of-year")}`);
 }
 
 function countdownTitle(label: string, year: number): string {
-  return [`How Many Days Until ${label} ${year}? Countdown`, `How Many Days Until ${label} ${year}?`, `Days Until ${label} ${year} · Countdown`, `Days Until ${label} ${year}`].find((s) => s.length <= 60) ?? `Days Until ${label}`;
+  return [`How Many Days Until ${label} ${year}? Countdown`, `How Many Days Until ${label} ${year}?`, `Days Until ${label} ${year} Countdown`, `Days Until ${label} ${year}`].find((s) => s.length <= 60) ?? `Days Until ${label}`;
 }
 function clipSentence(s: string, max: number): string {
   if (s.length <= max) return s;
@@ -403,9 +403,9 @@ ${table("uk")}
 ${table("ca")}
 <h2>How the days are counted</h2>
 <p>Today is not counted and the holiday is. On the day before a holiday the count is 1, and on the day it shows 0. Once a holiday has passed, its row moves to next year's date. Dates are computed from each holiday's rule, such as the fourth Thursday of November for Thanksgiving, for ${y} and ${y + 1}.</p>
-<p class="tool-links"><a href="/holidays/">US holidays</a> · <a href="/uk-holidays/">UK bank holidays</a> · <a href="/canada-holidays/">Canada holidays</a> · <a href="${toolPath("days-between-dates")}">Days between dates</a></p>
+<p class="tool-links"><a href="/holidays/">US holidays</a><a href="/uk-holidays/">UK bank holidays</a><a href="/canada-holidays/">Canada holidays</a><a href="${toolPath("days-between-dates")}">Days between dates</a></p>
 ${toolLinks("")}`);
-  return { id: "days-until", path: "/days-until/", title: `How Many Days Until…? Holiday Countdowns ${y} and ${y + 1}`, description: `Days left until every US, UK and Canada holiday in ${y} and ${y + 1}, counted from today, plus a counter for any date you choose.`, body, crumbs: c };
+  return { id: "days-until", path: "/days-until/", title: `How Many Days Until Each Holiday in ${y} and ${y + 1}?`, description: `Days left until every US, UK and Canada holiday in ${y} and ${y + 1}, counted from today, plus a counter for any date you choose.`, body, crumbs: c };
 }
 const phrase = (n: number) => (n === 0 ? "today" : n === 1 ? "tomorrow" : `in ${plural(n, "day")}`);
 
@@ -429,7 +429,7 @@ function countdownPage(cd: Countdown, today: Date, h: Helpers, upcoming: { c: Co
 <h1>How many days until ${esc(label)}?</h1>
 <div class="du-answer"><p class="du-big"><b data-du="${r.iso}">${h.volatile(num(n))}</b> <span data-du="${r.iso}" data-du-part="unit">${h.volatile(n === 1 ? "day" : "days")}</span></p><p>${esc(name)} ${cd.slug === "daylight-savings" ? "starts on" : "is"} <strong>${esc(r.formatted)}</strong>, <span data-du="${r.iso}" data-du-part="phrase">${h.volatile(phrase(n))}</span>.</p></div>
 <div class="tool-today">${stat("In weeks", "weeks", weeksAndDays(n))}${stat("In months", "months", monthsText(t, e))}${stat("Weekdays left", "weekdays", num(wd))}${stat("Weekend days left", "weekends", num(n - wd))}</div>
-<p>${esc(cd.def.blurb)} <a href="${holidayWhenIsPath(cd.slug)}">When is ${esc(name)}: the date, the weekday and how it is set →</a></p>
+<p>${esc(cd.def.blurb)} <a href="${holidayWhenIsPath(cd.slug)}">When is ${esc(name)}: the date, the weekday and how it is set</a></p>
 <h2>${esc(name)} on the ${month} ${r.year} calendar</h2>
 ${h.holidayMonthBlock({ name, year: r.year, month: r.month, day: r.day }, holidaysForMonth(r.year, r.month, cd.locale), cd.locale === "us")}
 <h2>Days until ${esc(name)}, ${years[0]!.year} to ${years.at(-1)!.year}</h2>
@@ -437,7 +437,7 @@ ${h.holidayMonthBlock({ name, year: r.year, month: r.month, day: r.day }, holida
 <h2>How the countdown is counted</h2>
 <p>Today is not counted and ${esc(name)} is, so the number is how many times you go to sleep before the day. The page counts from the date on your device, and once ${esc(r.formatted)} has passed it moves to ${esc(name)} ${r.year + 1}.</p>
 <p>Weekdays are Monday to Friday; public holidays between now and then are not taken out. For a count between any two dates, use the <a href="${toolPath("days-between-dates")}">days between dates calculator</a>. To find the date a set number of days away, use <a href="${toolPath("days-from-today")}">days from today</a> or <a href="${toolPath("add-days")}">add or subtract days</a>.</p>
-<nav class="tool-more" aria-label="More countdowns"><h2>More countdowns</h2><div class="du-chips">${others.map(({ c: o, r: x }) => `<a href="${countdownPath(o.slug)}">${esc(o.label)}<span data-du="${x.iso}" data-du-part="phrase">${h.volatile(phrase(Math.round((parseIso(x.iso) - t) / DAY)))}</span></a>`).join("")}<a href="/days-until/">Every holiday →</a></div></nav>`);
+<nav class="tool-more" aria-label="More countdowns"><h2>More countdowns</h2><div class="du-chips">${others.map(({ c: o, r: x }) => `<a href="${countdownPath(o.slug)}">${esc(o.label)}<span data-du="${x.iso}" data-du-part="phrase">${h.volatile(phrase(Math.round((parseIso(x.iso) - t) / DAY)))}</span></a>`).join("")}<a href="/days-until/">Every holiday</a></div></nav>`);
   return {
     id: `days-until-${cd.slug}`, path: countdownPath(cd.slug), title: countdownTitle(label, r.year),
     description: clipSentence(`Days left until ${label}, ${r.formatted}, counted from today: weeks, weekdays and weekends to go, the ${month} ${r.year} calendar and the dates through ${years.at(-1)!.year}.`, 158),

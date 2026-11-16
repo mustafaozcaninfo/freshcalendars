@@ -85,7 +85,7 @@ export function printFaqAnswer(
   if (locale === "ca") {
     return `Print the ${month} ${h.year} calendar and mark ${h.name} by hand. The other Canadian dates are on the Canada holidays page.`;
   }
-  return `Print the ${month} ${h.year} calendar in the Holidays design, which names ${h.name} in its date box.`;
+  return `Print the ${month} ${h.year} calendar, which names ${h.name} in its date box.`;
 }
 
 const EDITORIAL: Record<string, HolidayEditorial> = {

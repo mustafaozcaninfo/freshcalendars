@@ -66,6 +66,51 @@ function monthFacts(year: number, month: number) {
   return { days, start: WEEKDAYS[first]!, end: WEEKDAYS[(first + days - 1) % 7]!, weekdays, weekendDays: days - weekdays, w1, w2 };
 }
 
+/**
+ * The month counted out: what a planner looks up before filling in a sheet (how many weekdays, which
+ * weekday comes five times, where the month sits in the year). All of it is arithmetic on the dates.
+ */
+export function monthNumbersHtml(year: number, month: number): string {
+  const name = monthNumberToName(month), f = monthFacts(year, month);
+  const first = new Date(year, month - 1, 1).getDay();
+  const five = WEEKDAYS.filter((_, g) => Math.floor((f.days - ((g - first + 7) % 7) - 1) / 7) + 1 === 5);
+  const doy = (d: number) => Math.round((Date.UTC(year, month - 1, d) - Date.UTC(year, 0, 1)) / DAY) + 1;
+  const federal = holidaysForMonth(year, month).filter((h) => h.kind === "federal");
+  const list = (a: string[]) => (a.length < 2 ? a.join("") : `${a.slice(0, -1).join(", ")} and ${a.at(-1)}`);
+  const rows: [string, string][] = [
+    ["Days", `${f.days}`],
+    ["First day", `${f.start}, ${name} 1`],
+    ["Last day", `${f.end}, ${name} ${f.days}`],
+    ["Weekdays, Monday to Friday", `${f.weekdays}`],
+    ["Saturdays and Sundays", `${f.weekendDays}`],
+    ...(five.length ? [["Weekdays that come five times", list(five.map((d) => `${d}s`))] as [string, string]] : []),
+    ["US federal holidays", federal.length ? list(federal.map((h) => `${h.name} (${h.weekdayName}, ${name} ${h.day})`)) : "None"],
+    ["ISO week numbers", f.w1 === f.w2 ? `${f.w1}` : `${f.w1} to ${f.w2}`],
+    ["Days of the year", `${doy(1)} to ${doy(f.days)} of ${year % 4 === 0 && (year % 100 !== 0 || year % 400 === 0) ? 366 : 365}`],
+    ["Quarter", `Q${Math.ceil(month / 3)} of ${year}`],
+  ];
+  return `<div class="tool-scroll"><table class="dates-table"><tbody>${rows.map(([k, v]) => `<tr><th scope="row">${k}</th><td>${esc(v)}</td></tr>`).join("")}</tbody></table></div>`;
+}
+
+/** Which sheet suits which use, and the print settings that keep the edges on the paper. */
+export function monthPrintHelpHtml(name: string, year: number): string {
+  return `<h3>Which ${name} ${year} design to print</h3>
+<ul>
+<li><strong>Large Print</strong> and <strong>Landscape</strong> are wide sheets with the biggest dates. They read well from across a kitchen or a classroom.</li>
+<li><strong>Minimal</strong> uses black ink only, so it costs the least to print and photocopies cleanly.</li>
+<li><strong>Planner</strong> has ruled boxes and a notes column for people who write a lot in each day.</li>
+<li><strong>Holidays</strong> lists the month's US holidays again under the grid, with their weekdays.</li>
+<li><strong>Classic</strong>, <strong>Floral</strong> and <strong>Modern</strong> add a picture or color for a wall or a desk.</li>
+</ul>
+<h3>How to print it</h3>
+<ol>
+<li>Pick a design, then the paper size (US Letter or A4) and a Sunday or Monday start.</li>
+<li>Download the PDF. It keeps its sharpness at any size, where the PNG is better for a slide or a document.</li>
+<li>In the print window choose "Actual size" or 100%. "Fit to page" shrinks the grid and leaves a wider margin.</li>
+</ol>
+<p>The <a href="/print-guide.html">print guide</a> covers borderless printing, A4 on Letter paper and saving ink.</p>`;
+}
+
 /** The month as a table with holidays ringed and the ISO week number of each row. */
 export function monthTable(year: number, month: number): string {
   const name = monthNumberToName(month), hol = new Map(holidaysForMonth(year, month).map((h) => [h.day, h.name]));
@@ -115,14 +160,15 @@ function monthPage(year: number, month: number, today: Date): DatedPage {
   const body = shell("dated-month", c, `
 <h1>${name} ${year} calendar</h1>
 <p class="tool-lead">${name} ${year} starts on a <strong>${f.start}</strong> and has <strong>${f.days} days</strong>. Print it free as a PDF in eight designs, on US Letter or A4, with a Sunday or a Monday start.</p>
-<nav class="month-pager" aria-label="Other months">${prevHref ? `<a href="${prevHref}" rel="prev">← ${monthNumberToName(prev[1])} ${prev[0]}</a>` : "<span></span>"}${nextHref ? `<a href="${nextHref}" rel="next">${monthNumberToName(next[1])} ${next[0]} →</a>` : "<span></span>"}</nav>
+<nav class="month-pager" aria-label="Other months">${prevHref ? `<a href="${prevHref}" rel="prev">« ${monthNumberToName(prev[1])} ${prev[0]}</a>` : "<span></span>"}${nextHref ? `<a href="${nextHref}" rel="next">${monthNumberToName(next[1])} ${next[0]} »</a>` : "<span></span>"}</nav>
 <div class="dated-top">
   ${monthTable(year, month)}
   <div class="tool-today dated-facts"><div><span>First day</span><strong>${f.start}, ${name} 1</strong></div><div><span>Last day</span><strong>${f.end}, ${name} ${f.days}</strong></div><div><span>Weekdays</span><strong>${f.weekdays} weekdays, ${f.weekendDays} weekend days</strong></div><div><span>Week numbers</span><strong>${weeks}</strong></div></div>
 </div>
 <p class="tool-note">Week numbers follow ISO 8601: a week runs Monday to Sunday, so the Sunday that opens a row belongs to the week before.</p>
-<h2>Print ${name} ${year}: eight designs</h2>
+<h2>Print ${name} ${year} in eight designs</h2>
 ${designCards(year, month)}
+${monthPrintHelpHtml(name, year)}
 <h2>Holidays in ${name} ${year}</h2>
 ${hols.length
     ? `<div class="tool-scroll"><table class="dates-table tool-table"><thead><tr><th scope="col">Holiday</th><th scope="col">Date</th></tr></thead><tbody>${hols.map((h) => `<tr><th scope="row"><a href="${holidayWhenIsPath(h.slug)}">${esc(h.name)}</a></th><td>${esc(h.formatted)}</td></tr>`).join("")}</tbody></table></div>`
@@ -130,14 +176,14 @@ ${hols.length
 <h2>${name} in other years</h2>
 <div class="du-chips">${years.map((y) => chip(monthHref(y, month, today), `${name} ${y}`, y === year)).join("")}</div>
 <h2>Every month of ${year}</h2>
-<div class="du-chips">${Array.from({ length: 12 }, (_, i) => chip(monthHref(year, i + 1, today), monthNumberToName(i + 1), i + 1 === month)).join("")}${yHref ? `<a href="${yHref}">${year} on one page →</a>` : ""}</div>
+<div class="du-chips">${Array.from({ length: 12 }, (_, i) => chip(monthHref(year, i + 1, today), monthNumberToName(i + 1), i + 1 === month)).join("")}${yHref ? `<a href="${yHref}">${year} on one page</a>` : ""}</div>
 <p>Need a count instead of a sheet? The <a href="/calendar-tools/days-between-dates/">days between dates calculator</a> and the <a href="/calendar-tools/week-number/">week number table</a> use the same calendar.</p>
 <p>For a month with no dates printed, use the <a href="/blank-calendars.html">blank calendar</a>; for one week per page, the <a href="/printable-weekly-calendar.html">weekly planner</a>. The <a href="/print-guide.html">print guide</a> has the settings for Letter and A4.</p>`);
   return {
     id: `month-${year}-${monthNumberToSlug(month)}`, path: monthYearPath(year, month),
     // Same wording as the evergreen month page (engine buildMeta.ts), which this page becomes.
-    title: `${name} ${year} Calendar · Free Printable PDF${hols.length ? " with Holidays" : ", 8 Designs"}`,
-    description: `Free printable ${name} ${year} calendar: PDF in eight designs, Letter or A4, Sunday or Monday start. ${name} ${year} starts on a ${f.start} and has ${f.days} days.`,
+    title: `Free Printable ${name} ${year} Calendar PDF${hols.length ? " with Holidays" : " in 8 Designs"}`,
+    description: `Free printable ${name} ${year} calendar in eight PDF designs, Letter or A4, with a Sunday or Monday start. ${name} ${year} starts on a ${f.start} and has ${f.days} days.`,
     body, crumbs: c, canonicalPath: evergreen, sheet: { year, month },
   };
 }
@@ -172,8 +218,8 @@ function yearPage(year: number, today: Date): DatedPage {
 <p>For numbered days and weeks, see the <a href="/calendar-tools/day-of-year/">day of the year table</a> and the <a href="/calendar-tools/week-number/">week number table</a>. The <a href="/guides/fiscal-year-calendar.html">fiscal year guide</a> has the quarter dates, and <a href="/calendar-tools/business-days/">business days</a> counts the working days between two of them.</p>`);
   return {
     id: `year-${year}`, path: yearPath(year),
-    title: `${year} Calendar · Free Printable Yearly PDF and All 12 Months`,
-    description: `Free printable ${year} calendar: the year on one page as a PDF, every month with week numbers, and US holidays. ${year} starts on a ${jan1} and has ${leap ? 366 : 365} days.`,
+    title: `Free Printable ${year} Calendar with Holidays and All 12 Months`,
+    description: `Free printable ${year} calendar with the year on one page as a PDF, every month with week numbers, and US holidays. ${year} starts on a ${jan1} and has ${leap ? 366 : 365} days.`,
     body, crumbs: c, canonicalPath: evergreen, sheet: { year },
   };
 }
