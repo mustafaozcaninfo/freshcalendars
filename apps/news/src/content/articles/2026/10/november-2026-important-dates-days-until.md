@@ -131,11 +131,11 @@ November 2026 starts on a Sunday and ends on a Monday, so it fills exactly five 
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|
-| 1 · Clocks fall back | 2 | 3 · Election Day | 4 | 5 | 6 | 7 |
-| 8 · Diwali | 9 | 10 | **11 · Veterans Day** | 12 | 13 | 14 |
-| 15 | 16 | 17 | 18 | 19 · Grand Theft Auto VI | 20 | 21 |
-| 22 | 23 | 24 · Full moon | 25 | **26 · Thanksgiving** | 27 · Black Friday | 28 |
-| 29 | 30 · Cyber Monday |  |  |  |  |  |
+| 1: Clocks fall back | 2 | 3: Election Day | 4 | 5 | 6 | 7 |
+| 8: Diwali | 9 | 10 | **11: Veterans Day** | 12 | 13 | 14 |
+| 15 | 16 | 17 | 18 | 19: Grand Theft Auto VI | 20 | 21 |
+| 22 | 23 | 24: Full moon | 25 | **26: Thanksgiving** | 27: Black Friday | 28 |
+| 29 | 30: Cyber Monday |  |  |  |  |  |
 
 The two federal holidays are Veterans Day on Wednesday, Nov. 11 and Thanksgiving Day on Thursday, Nov. 26, according to the U.S. Office of Personnel Management. Election Day, Nov. 3, is not a federal holiday, though 11 states close state offices; see [what is open on Election Day](/news/is-election-day-a-holiday-2026-whats-open/). Our free printable below puts every date in this story on one page, in Sunday-start, Monday-start and ink-saver versions. For plain monthly layouts without the extra dates, the [November 2026 printable calendar](/november-calendars.html) has six designs, including landscape and Monday start.
 

@@ -167,9 +167,9 @@ Because the month starts on a Friday and ends on a Sunday, Fridays, Saturdays an
 | First day | Friday, Jan. 1 |
 | Last day | Sunday, Jan. 31 |
 | Days | 31 (21 weekdays, 10 weekend days) |
-| Federal holidays | New Year's Day, Fri., Jan. 1 · Martin Luther King Jr. Day, Mon., Jan. 18 |
+| Federal holidays | New Year's Day, Fri., Jan. 1; Martin Luther King Jr. Day, Mon., Jan. 18 |
 | Working days | 19 |
-| Three-day weekends | Fri., Jan. 1 to Sun., Jan. 3 · Sat., Jan. 16 to Mon., Jan. 18 |
+| Three-day weekends | Fri., Jan. 1 to Sun., Jan. 3; Sat., Jan. 16 to Mon., Jan. 18 |
 | Week numbers | Week 53 of 2026 (Jan. 1-3), then weeks 1 to 4 of 2027, under International Organization for Standardization (ISO) 8601 |
 | Full moon | Fri., Jan. 22, 7:17 a.m. EST |
 | Same calendar as | 2021 and 2010 |
@@ -210,7 +210,7 @@ The everyday sheet. Sunday is the first column, the way most U.S. wall calendars
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-calendar-with-holidays.pdf"><img title="Download January 2027 Calendar With Holidays (PDF)" src="/news/downloads/january-2027-calendar/january-2027-calendar-with-holidays.webp" alt="January 2027 calendar printable with holidays, Sunday start, New Year's Day Jan. 1 and Martin Luther King Jr. Day Jan. 18 in red" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Calendar With Holidays PDF](/news/downloads/january-2027-calendar/january-2027-calendar-with-holidays.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-calendar-with-holidays.png) · Portrait, Sunday start, US Letter, one page.
+[Download the January 2027 Calendar With Holidays PDF](/news/downloads/january-2027-calendar/january-2027-calendar-with-holidays.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-calendar-with-holidays.png). Portrait, Sunday start, US Letter, one page.
 
 ### 2. January 2027 Calendar, Landscape With Holidays
 
@@ -218,7 +218,7 @@ Turned sideways, the boxes get wider than they are tall, which suits a desk or a
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-calendar-landscape.pdf"><img title="Download January 2027 Calendar, Landscape With Holidays (PDF)" src="/news/downloads/january-2027-calendar/january-2027-calendar-landscape.webp" alt="January 2027 calendar landscape printable with large rounded date boxes and federal holidays marked in red" width="1400" height="1082" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Calendar, Landscape With Holidays PDF](/news/downloads/january-2027-calendar/january-2027-calendar-landscape.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-calendar-landscape.png) · Landscape, big boxes, US Letter, one page.
+[Download the January 2027 Calendar, Landscape With Holidays PDF](/news/downloads/january-2027-calendar/january-2027-calendar-landscape.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-calendar-landscape.png). Landscape, big boxes, US Letter, one page.
 
 ### 3. January 2027 Calendar, Monday Start With Week Numbers
 
@@ -226,7 +226,7 @@ Starting on Monday, January 2027 fits in five rows. The green column gives the w
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-calendar-monday-start-week-numbers.pdf"><img title="Download January 2027 Calendar, Monday Start With Week Numbers (PDF)" src="/news/downloads/january-2027-calendar/january-2027-calendar-monday-start-week-numbers.webp" alt="January 2027 calendar Monday start with ISO week numbers 53, 1, 2, 3 and 4 in a green column" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Calendar, Monday Start With Week Numbers PDF](/news/downloads/january-2027-calendar/january-2027-calendar-monday-start-week-numbers.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-calendar-monday-start-week-numbers.png) · Monday start, ISO week numbers, US Letter, one page.
+[Download the January 2027 Calendar, Monday Start With Week Numbers PDF](/news/downloads/january-2027-calendar/january-2027-calendar-monday-start-week-numbers.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-calendar-monday-start-week-numbers.png). Monday start, ISO week numbers, US Letter, one page.
 
 ### 4. January 2027 Blank Calendar
 
@@ -234,7 +234,7 @@ Dates only, in gray, with nothing else printed in the boxes. It uses the least t
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-blank-calendar.pdf"><img title="Download January 2027 Blank Calendar (PDF)" src="/news/downloads/january-2027-calendar/january-2027-blank-calendar.webp" alt="January 2027 blank calendar printable with thin gray grid lines and dates only" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Blank Calendar PDF](/news/downloads/january-2027-calendar/january-2027-blank-calendar.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-blank-calendar.png) · Blank, ink saver, US Letter, one page.
+[Download the January 2027 Blank Calendar PDF](/news/downloads/january-2027-calendar/january-2027-blank-calendar.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-blank-calendar.png). Blank, ink saver, US Letter, one page.
 
 ### 5. January 2027 Monthly Planner With Notes
 
@@ -242,7 +242,7 @@ A month grid on the left and a planning column on the right: three lines for Jan
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-monthly-planner-with-notes.pdf"><img title="Download January 2027 Monthly Planner With Notes (PDF)" src="/news/downloads/january-2027-calendar/january-2027-monthly-planner-with-notes.webp" alt="January 2027 monthly planner printable with calendar grid, goals, top priorities checkboxes and notes lines" width="1400" height="1082" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Monthly Planner With Notes PDF](/news/downloads/january-2027-calendar/january-2027-monthly-planner-with-notes.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-monthly-planner-with-notes.png) · Planner, landscape, US Letter, one page.
+[Download the January 2027 Monthly Planner With Notes PDF](/news/downloads/january-2027-calendar/january-2027-monthly-planner-with-notes.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-monthly-planner-with-notes.png). Planner, landscape, US Letter, one page.
 
 ### 6. January 2027 Winter Calendar With Snowflakes
 
@@ -250,7 +250,7 @@ The snowflakes are drawn by our own generator, six arms each with two pairs of b
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-winter-calendar-snowflakes.pdf"><img title="Download January 2027 Winter Calendar With Snowflakes (PDF)" src="/news/downloads/january-2027-calendar/january-2027-winter-calendar-snowflakes.webp" alt="January 2027 winter calendar printable with drawn snowflakes and ice-blue date boxes" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Winter Calendar With Snowflakes PDF](/news/downloads/january-2027-calendar/january-2027-winter-calendar-snowflakes.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-winter-calendar-snowflakes.png) · Winter design, US Letter, one page.
+[Download the January 2027 Winter Calendar With Snowflakes PDF](/news/downloads/january-2027-calendar/january-2027-winter-calendar-snowflakes.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-winter-calendar-snowflakes.png). Winter design, US Letter, one page.
 
 ### 7. January 2027 Moon Phase Calendar
 
@@ -258,7 +258,7 @@ Each primary phase of the Moon is drawn in its box with the time in Eastern Stan
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-moon-phase-calendar.pdf"><img title="Download January 2027 Moon Phase Calendar (PDF)" src="/news/downloads/january-2027-calendar/january-2027-moon-phase-calendar.webp" alt="January 2027 moon phase calendar with new moon Jan. 7, first quarter Jan. 15, full moon Jan. 22 and last quarter Jan. 29" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Moon Phase Calendar PDF](/news/downloads/january-2027-calendar/january-2027-moon-phase-calendar.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-moon-phase-calendar.png) · Moon phases, US Letter, one page.
+[Download the January 2027 Moon Phase Calendar PDF](/news/downloads/january-2027-calendar/january-2027-moon-phase-calendar.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-moon-phase-calendar.png). Moon phases, US Letter, one page.
 
 ### 8. January 2027 Coloring Calendar for Kids
 
@@ -266,7 +266,7 @@ Every number is printed as an outline to color in, and the top of the page has a
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-coloring-calendar-for-kids.pdf"><img title="Download January 2027 Coloring Calendar for Kids (PDF)" src="/news/downloads/january-2027-calendar/january-2027-coloring-calendar-for-kids.webp" alt="January 2027 coloring calendar for kids with outlined numbers, a snowman, a mitten and snowflakes" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Coloring Calendar for Kids PDF](/news/downloads/january-2027-calendar/january-2027-coloring-calendar-for-kids.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-coloring-calendar-for-kids.png) · Coloring, kids, US Letter, one page.
+[Download the January 2027 Coloring Calendar for Kids PDF](/news/downloads/january-2027-calendar/january-2027-coloring-calendar-for-kids.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-coloring-calendar-for-kids.png). Coloring, kids, US Letter, one page.
 
 ### 9. January 2027 Daily Calendar List
 
@@ -274,7 +274,7 @@ One line for each of the 31 days, with the weekday and any holiday or Moon phase
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-daily-calendar-list.pdf"><img title="Download January 2027 Daily Calendar List (PDF)" src="/news/downloads/january-2027-calendar/january-2027-daily-calendar-list.webp" alt="January 2027 daily calendar list printable with one line for each of the 31 days" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Daily Calendar List PDF](/news/downloads/january-2027-calendar/january-2027-daily-calendar-list.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-daily-calendar-list.png) · Daily list, US Letter, one page.
+[Download the January 2027 Daily Calendar List PDF](/news/downloads/january-2027-calendar/january-2027-daily-calendar-list.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-daily-calendar-list.png). Daily list, US Letter, one page.
 
 ### 10. January 2027 Habit Tracker
 
@@ -282,7 +282,7 @@ Fourteen habit rows across 31 day columns, each headed with its weekday letter s
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-habit-tracker.pdf"><img title="Download January 2027 Habit Tracker (PDF)" src="/news/downloads/january-2027-calendar/january-2027-habit-tracker.webp" alt="January 2027 habit tracker printable with 14 habit rows and 31 day columns" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Habit Tracker PDF](/news/downloads/january-2027-calendar/january-2027-habit-tracker.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-habit-tracker.png) · Habit tracker, US Letter, one page.
+[Download the January 2027 Habit Tracker PDF](/news/downloads/january-2027-calendar/january-2027-habit-tracker.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-habit-tracker.png). Habit tracker, US Letter, one page.
 
 ### 11. January 2027 Calendar With Key Dates and Deadlines
 
@@ -290,7 +290,7 @@ This is the sheet built from the dates in this story: the early January Suppleme
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-calendar-key-dates-deadlines.pdf"><img title="Download January 2027 Calendar With Key Dates and Deadlines (PDF)" src="/news/downloads/january-2027-calendar/january-2027-calendar-key-dates-deadlines.webp" alt="January 2027 calendar with key dates: Social Security paydays, Jan. 15 deadlines and federal holidays numbered" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Calendar With Key Dates and Deadlines PDF](/news/downloads/january-2027-calendar/january-2027-calendar-key-dates-deadlines.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-calendar-key-dates-deadlines.png) · Key dates, US Letter, one page.
+[Download the January 2027 Calendar With Key Dates and Deadlines PDF](/news/downloads/january-2027-calendar/january-2027-calendar-key-dates-deadlines.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-calendar-key-dates-deadlines.png). Key dates, US Letter, one page.
 
 ### 12. January 2027 Calendar With December 2026 and February 2027
 
@@ -298,7 +298,7 @@ A large January with the month before and the month after underneath, for planni
 
 <a class="tpl" href="/news/downloads/january-2027-calendar/january-2027-calendar-december-2026-february-2027.pdf"><img title="Download January 2027 Calendar With December 2026 and February 2027 (PDF)" src="/news/downloads/january-2027-calendar/january-2027-calendar-december-2026-february-2027.webp" alt="January 2027 calendar with December 2026 and February 2027 three-month printable" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the January 2027 Calendar With December 2026 and February 2027 PDF](/news/downloads/january-2027-calendar/january-2027-calendar-december-2026-february-2027.pdf) · [PNG image](/news/downloads/january-2027-calendar/january-2027-calendar-december-2026-february-2027.png) · Three months, US Letter, one page.
+[Download the January 2027 Calendar With December 2026 and February 2027 PDF](/news/downloads/january-2027-calendar/january-2027-calendar-december-2026-february-2027.pdf), [PNG image](/news/downloads/january-2027-calendar/january-2027-calendar-december-2026-february-2027.png). Three months, US Letter, one page.
 
 ## How to print a January 2027 calendar
 

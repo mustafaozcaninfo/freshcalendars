@@ -54,7 +54,7 @@ A photo passes when:
 - **Unique:** not used by another story (the gate checks the picture itself).
 
 Overlay text (`assets.kicker`, `assets.date`, `assets.card`):
-- Kicker: the topic and the date, under 45 characters ("NYC Marathon · Sun., Nov. 1, 2026").
+- Kicker: the topic and the date, under 45 characters ("NYC Marathon, Sun., Nov. 1, 2026"). No middle dot ("·") in a kicker, a card line or a printable row: write a comma or "at".
 - Card: one fact a reader acts on. `big` is the date, time, price or count ("9:10 a.m. ET", "Tue., Oct. 27"); `top` says what it is; `bottom` adds the next fact. No headline on the image: Discover shows the real headline beside it.
 - Alt: what the photo shows plus the main keyword. Caption: what it is, who took it if it adds trust, and why it is here (20 to 220 characters).
 

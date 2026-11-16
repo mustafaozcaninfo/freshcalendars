@@ -193,12 +193,12 @@ A printable is the product readers keep, so plan it with the story, not after it
 
 **Quote the source for every dated or timed fact** (stories published from 2026-11-04): each item with a date or time carries `quote:`, the sentence or table cell exactly as the source prints it (a list of quotes when the date and the time are in different places) ("Holiday Break Dec. 21 - Jan. 4", "Wednesday, Nov. 18 at 8 p.m. ET", "8/7c"). The kit refuses the item when the quote does not contain that date and time, so a value copied wrong is caught before printing. Times carry the offset of the zone the source states; an offset no zone has that day (`-04:00` in Eastern Time after daylight saving time ends) is refused. Every name and number in kit data (channels, teams, counts) must also be in the story text (`10-PDF-FACTS`). uk-canada stories get an extra A4 file automatically; paste both `downloads:` entries.
 
-**Long content continues on more pages** (up to 6): a kit never fails because a schedule or table is long. Day groups and tables break between rows with "(continued)" headings and repeated column heads, every page gets a "Title, continued · page 2 of 3" header and the footer, and the notes area and source note go on the last page. Paste the `pages:` value `news-assets` prints. The kit refuses data that does not check out (a date that does not exist, a range that ends before it starts, two kinds on one day, a holiday on a Saturday, rows out of order, a `src` that is not one of the story's sources) and lists every problem at once. Fix the data; never the check. When no kit fits, use the rows and layouts below.
+**Long content continues on more pages** (up to 6): a kit never fails because a schedule or table is long. Day groups and tables break between rows with "(continued)" headings and repeated column heads, every page gets a "Title, continued" and "page 2 of 3" header and the footer, and the notes area and source note go on the last page. Paste the `pages:` value `news-assets` prints. The kit refuses data that does not check out (a date that does not exist, a range that ends before it starts, two kinds on one day, a holiday on a Saturday, rows out of order, a `src` that is not one of the story's sources) and lists every problem at once. Fix the data; never the check. When no kit fits, use the rows and layouts below.
 
 ```yaml
 assets:
   scene: thanksgiving
-  kicker: "Thanksgiving 2026 · Thu., Nov. 26"
+  kicker: "Thanksgiving 2026, Thu., Nov. 26"
   date: "2026-11-26"
   card: { top: "Thaw a 20 lb turkey from", big: "Sat., Nov. 21", bottom: "In a fridge at 40°F or below" }
   printable:
@@ -250,7 +250,7 @@ Every printable goes through two gates. `renderPrintables()` (and the Julian and
 | 7 | **Type at least 8 px (6 pt)**; body text 10 px or more, cells 9 px or more. | Smaller does not survive a home printer | generator |
 | 8 | **Contrast at least 3:1 against the background** (error); aim for 4.5:1 for anything a reader must read (warning). Muted text such as dates outside the month still needs 3:1. Never carry meaning by color alone: tags and keys also say it in words. | Pale gray and gold fade out, and many people print in black and white | generator |
 | 9 | **No ink-saver copy** (retired 2026-11-03): one color sheet per story. Keep it printable in gray instead: marks differ by shape (fill, ring, dash, underline) and every key says it in words. Older `-ink` files stay as published. | One file per story; meaning never by color alone | `10-PDF-NO-INK` (stories from 2026-11-14) |
-| 10 | **A clear `<h1>`** that uses the words of `downloads[].title`, and the footer `Free printable from Fresh Calendars · freshcalendars.com/news/<slug>/` (`.foot`). | The title becomes the PDF title in search results | `10-PDF-TITLE` (warning), `10-PDF-TEXT` |
+| 10 | **A clear `<h1>`** that uses the words of `downloads[].title`, and the footer `Free printable from freshcalendars.com/news/<slug>/` (`.foot`). | The title becomes the PDF title in search results | `10-PDF-TITLE` (warning), `10-PDF-TEXT` |
 | 11 | **Sources and dates on the sheet** in a note that starts with "Source:", the same facts as the story. Nothing on a printable that the story does not support. | Same rule as the story | `10-PDF-FACTS`, `10-PDF-FRESH`, review |
 | 12 | **No third-party art, logos or brand marks.** Draw everything; name brands in text only. | Licensing | review |
 | 13 | **Under 2 MB** (most sheets are under 300 KB). | Fast download on a phone | `10-PDF-FILES` |

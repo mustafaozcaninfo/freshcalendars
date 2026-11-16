@@ -280,7 +280,7 @@ The everyday sheet in red and pine green. December 2026 starts on a Tuesday and 
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-calendar-with-holidays.pdf"><img title="Download December 2026 Calendar With Holidays (PDF)" src="/news/downloads/december-2026-calendar/december-2026-calendar-with-holidays.webp" alt="December 2026 calendar printable with holidays, Sunday start, Christmas Day Dec. 25 in red and Hanukkah Dec. 4-12 marked" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Calendar With Holidays PDF](/news/downloads/december-2026-calendar/december-2026-calendar-with-holidays.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-calendar-with-holidays.png) · Portrait, Sunday start, US Letter, one page.
+[Download the December 2026 Calendar With Holidays PDF](/news/downloads/december-2026-calendar/december-2026-calendar-with-holidays.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-calendar-with-holidays.png). Portrait, Sunday start, US Letter, one page.
 
 ### 2. December 2026 Calendar, Landscape With Holidays
 
@@ -288,7 +288,7 @@ Turned sideways for a desk or a fridge, with wide rounded boxes for parties, tra
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-calendar-landscape.pdf"><img title="Download December 2026 Calendar, Landscape With Holidays (PDF)" src="/news/downloads/december-2026-calendar/december-2026-calendar-landscape.webp" alt="December 2026 calendar landscape printable with large rounded date boxes and holidays marked" width="1400" height="1082" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Calendar, Landscape With Holidays PDF](/news/downloads/december-2026-calendar/december-2026-calendar-landscape.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-calendar-landscape.png) · Landscape, big boxes, US Letter, one page.
+[Download the December 2026 Calendar, Landscape With Holidays PDF](/news/downloads/december-2026-calendar/december-2026-calendar-landscape.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-calendar-landscape.png). Landscape, big boxes, US Letter, one page.
 
 ### 3. December 2026 Calendar, Monday Start With Week Numbers
 
@@ -296,7 +296,7 @@ December 2026 ends in week 53, which only happens in some years. Under ISO 8601,
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-calendar-monday-start-week-numbers.pdf"><img title="Download December 2026 Calendar, Monday Start With Week Numbers (PDF)" src="/news/downloads/december-2026-calendar/december-2026-calendar-monday-start-week-numbers.webp" alt="December 2026 calendar Monday start with ISO week numbers 49 to 53 in a green column" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Calendar, Monday Start With Week Numbers PDF](/news/downloads/december-2026-calendar/december-2026-calendar-monday-start-week-numbers.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-calendar-monday-start-week-numbers.png) · Monday start, ISO week numbers, US Letter, one page.
+[Download the December 2026 Calendar, Monday Start With Week Numbers PDF](/news/downloads/december-2026-calendar/december-2026-calendar-monday-start-week-numbers.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-calendar-monday-start-week-numbers.png). Monday start, ISO week numbers, US Letter, one page.
 
 ### 4. December 2026 Blank Calendar
 
@@ -304,7 +304,7 @@ Dates only, in gray. It uses the least toner of the 16 and leaves the most room 
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-blank-calendar.pdf"><img title="Download December 2026 Blank Calendar (PDF)" src="/news/downloads/december-2026-calendar/december-2026-blank-calendar.webp" alt="December 2026 blank calendar printable with thin gray grid lines and dates only" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Blank Calendar PDF](/news/downloads/december-2026-calendar/december-2026-blank-calendar.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-blank-calendar.png) · Blank, ink saver, US Letter, one page.
+[Download the December 2026 Blank Calendar PDF](/news/downloads/december-2026-calendar/december-2026-blank-calendar.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-blank-calendar.png). Blank, ink saver, US Letter, one page.
 
 ### 5. December 2026 Monthly Planner With Notes
 
@@ -312,7 +312,7 @@ A month grid with a planning column: goals for December, five boxes for what has
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-monthly-planner-with-notes.pdf"><img title="Download December 2026 Monthly Planner With Notes (PDF)" src="/news/downloads/december-2026-calendar/december-2026-monthly-planner-with-notes.webp" alt="December 2026 monthly planner printable with calendar grid, goals, year-end checkboxes and notes lines" width="1400" height="1082" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Monthly Planner With Notes PDF](/news/downloads/december-2026-calendar/december-2026-monthly-planner-with-notes.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-monthly-planner-with-notes.png) · Planner, landscape, US Letter, one page.
+[Download the December 2026 Monthly Planner With Notes PDF](/news/downloads/december-2026-calendar/december-2026-monthly-planner-with-notes.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-monthly-planner-with-notes.png). Planner, landscape, US Letter, one page.
 
 ### 6. December 2026 Christmas Calendar
 
@@ -320,7 +320,7 @@ The tree, the holly, the ornaments and the gift box are drawn by our own generat
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-christmas-calendar.pdf"><img title="Download December 2026 Christmas Calendar (PDF)" src="/news/downloads/december-2026-calendar/december-2026-christmas-calendar.webp" alt="December 2026 Christmas calendar printable with a drawn Christmas tree, holly and ornaments and Dec. 25 in red" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Christmas Calendar PDF](/news/downloads/december-2026-calendar/december-2026-christmas-calendar.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-christmas-calendar.png) · Christmas design, US Letter, one page.
+[Download the December 2026 Christmas Calendar PDF](/news/downloads/december-2026-calendar/december-2026-christmas-calendar.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-christmas-calendar.png). Christmas design, US Letter, one page.
 
 ### 7. December 2026 Christmas Countdown Calendar
 
@@ -328,7 +328,7 @@ An Advent-style countdown on paper. Each of the 25 boxes has the weekday, a smal
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-christmas-countdown-calendar.pdf"><img title="Download December 2026 Christmas Countdown Calendar (PDF)" src="/news/downloads/december-2026-calendar/december-2026-christmas-countdown-calendar.webp" alt="December 2026 Christmas countdown calendar printable with 25 numbered boxes from Dec. 1 to Dec. 25" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Christmas Countdown Calendar PDF](/news/downloads/december-2026-calendar/december-2026-christmas-countdown-calendar.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-christmas-countdown-calendar.png) · Countdown, Dec. 1 to 25, US Letter, one page.
+[Download the December 2026 Christmas Countdown Calendar PDF](/news/downloads/december-2026-calendar/december-2026-christmas-countdown-calendar.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-christmas-countdown-calendar.png). Countdown, Dec. 1 to 25, US Letter, one page.
 
 ### 8. December 2026 Winter Night Calendar
 
@@ -336,7 +336,7 @@ A night sky across the top with stars, snowflakes and a crescent Moon, for the m
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-winter-night-calendar.pdf"><img title="Download December 2026 Winter Night Calendar (PDF)" src="/news/downloads/december-2026-calendar/december-2026-winter-night-calendar.webp" alt="December 2026 winter night calendar printable with a drawn starry sky, snowflakes and a crescent Moon" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Winter Night Calendar PDF](/news/downloads/december-2026-calendar/december-2026-winter-night-calendar.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-winter-night-calendar.png) · Winter night design, US Letter, one page.
+[Download the December 2026 Winter Night Calendar PDF](/news/downloads/december-2026-calendar/december-2026-winter-night-calendar.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-winter-night-calendar.png). Winter night design, US Letter, one page.
 
 ### 9. December 2026 Hanukkah Calendar
 
@@ -344,7 +344,7 @@ Eight drawn menorahs, one per night, each with the right number of candles lit, 
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-hanukkah-calendar.pdf"><img title="Download December 2026 Hanukkah Calendar (PDF)" src="/news/downloads/december-2026-calendar/december-2026-hanukkah-calendar.webp" alt="December 2026 Hanukkah calendar printable with a menorah for each of the eight nights from Dec. 4 to Dec. 11" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Hanukkah Calendar PDF](/news/downloads/december-2026-calendar/december-2026-hanukkah-calendar.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-hanukkah-calendar.png) · Hanukkah, eight nights, US Letter, one page.
+[Download the December 2026 Hanukkah Calendar PDF](/news/downloads/december-2026-calendar/december-2026-hanukkah-calendar.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-hanukkah-calendar.png). Hanukkah, eight nights, US Letter, one page.
 
 ### 10. December 2026 Moon Phase and Sky Calendar
 
@@ -352,7 +352,7 @@ December 2026 has five primary Moon phases, two of them last quarters. The sheet
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-moon-phase-calendar.pdf"><img title="Download December 2026 Moon Phase and Sky Calendar (PDF)" src="/news/downloads/december-2026-calendar/december-2026-moon-phase-calendar.webp" alt="December 2026 moon phase calendar with last quarter Dec. 1, new moon Dec. 8, full moon Dec. 23 and the solstice" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Moon Phase and Sky Calendar PDF](/news/downloads/december-2026-calendar/december-2026-moon-phase-calendar.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-moon-phase-calendar.png) · Moon and sky, US Letter, one page.
+[Download the December 2026 Moon Phase and Sky Calendar PDF](/news/downloads/december-2026-calendar/december-2026-moon-phase-calendar.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-moon-phase-calendar.png). Moon and sky, US Letter, one page.
 
 ### 11. December 2026 Coloring Calendar for Kids
 
@@ -360,7 +360,7 @@ Every number is an outline to color in, and the top of the page has a tree, two 
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-coloring-calendar-for-kids.pdf"><img title="Download December 2026 Coloring Calendar for Kids (PDF)" src="/news/downloads/december-2026-calendar/december-2026-coloring-calendar-for-kids.webp" alt="December 2026 coloring calendar for kids with outlined numbers, a Christmas tree, presents and holly" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Coloring Calendar for Kids PDF](/news/downloads/december-2026-calendar/december-2026-coloring-calendar-for-kids.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-coloring-calendar-for-kids.png) · Coloring, kids, US Letter, one page.
+[Download the December 2026 Coloring Calendar for Kids PDF](/news/downloads/december-2026-calendar/december-2026-coloring-calendar-for-kids.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-coloring-calendar-for-kids.png). Coloring, kids, US Letter, one page.
 
 ### 12. December 2026 Holiday Planner
 
@@ -368,7 +368,7 @@ The month, the U.S. Postal Service (USPS) mail-by dates and four lists with tick
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-holiday-planner.pdf"><img title="Download December 2026 Holiday Planner (PDF)" src="/news/downloads/december-2026-calendar/december-2026-holiday-planner.webp" alt="December 2026 holiday planner printable with gift list, cards to send, food and events lists and USPS mailing dates" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Holiday Planner PDF](/news/downloads/december-2026-calendar/december-2026-holiday-planner.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-holiday-planner.png) · Holiday planner, US Letter, one page.
+[Download the December 2026 Holiday Planner PDF](/news/downloads/december-2026-calendar/december-2026-holiday-planner.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-holiday-planner.png). Holiday planner, US Letter, one page.
 
 ### 13. December 2026 Calendar With Key Dates and Deadlines
 
@@ -376,7 +376,7 @@ The sheet built from the dates in this story: 14 numbered deadlines from the Dec
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-calendar-key-dates-deadlines.pdf"><img title="Download December 2026 Calendar With Key Dates and Deadlines (PDF)" src="/news/downloads/december-2026-calendar/december-2026-calendar-key-dates-deadlines.webp" alt="December 2026 calendar with key dates: Social Security paydays, Medicare, ACA and USPS deadlines numbered" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Calendar With Key Dates and Deadlines PDF](/news/downloads/december-2026-calendar/december-2026-calendar-key-dates-deadlines.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-calendar-key-dates-deadlines.png) · Key dates, US Letter, one page.
+[Download the December 2026 Calendar With Key Dates and Deadlines PDF](/news/downloads/december-2026-calendar/december-2026-calendar-key-dates-deadlines.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-calendar-key-dates-deadlines.png). Key dates, US Letter, one page.
 
 ### 14. December 2026 Daily Calendar List
 
@@ -384,7 +384,7 @@ One line for each of the 31 days with the weekday, holidays and Moon phases fill
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-daily-calendar-list.pdf"><img title="Download December 2026 Daily Calendar List (PDF)" src="/news/downloads/december-2026-calendar/december-2026-daily-calendar-list.webp" alt="December 2026 daily calendar list printable with one line for each of the 31 days" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Daily Calendar List PDF](/news/downloads/december-2026-calendar/december-2026-daily-calendar-list.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-daily-calendar-list.png) · Daily list, US Letter, one page.
+[Download the December 2026 Daily Calendar List PDF](/news/downloads/december-2026-calendar/december-2026-daily-calendar-list.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-daily-calendar-list.png). Daily list, US Letter, one page.
 
 ### 15. December 2026 Calendar With November 2026 and January 2027
 
@@ -392,7 +392,7 @@ A large December with the month before and the month after underneath, from Than
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-calendar-november-2026-january-2027.pdf"><img title="Download December 2026 Calendar With November 2026 and January 2027 (PDF)" src="/news/downloads/december-2026-calendar/december-2026-calendar-november-2026-january-2027.webp" alt="December 2026 calendar with November 2026 and January 2027 three-month printable" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Calendar With November 2026 and January 2027 PDF](/news/downloads/december-2026-calendar/december-2026-calendar-november-2026-january-2027.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-calendar-november-2026-january-2027.png) · Three months, US Letter, one page.
+[Download the December 2026 Calendar With November 2026 and January 2027 PDF](/news/downloads/december-2026-calendar/december-2026-calendar-november-2026-january-2027.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-calendar-november-2026-january-2027.png). Three months, US Letter, one page.
 
 ### 16. December 2026 Mini Calendars, 4 per Page
 
@@ -400,7 +400,7 @@ Four small calendars on one sheet with dashed lines to cut along, about postcard
 
 <a class="tpl" href="/news/downloads/december-2026-calendar/december-2026-mini-calendars-4-per-page.pdf"><img title="Download December 2026 Mini Calendars, 4 per Page (PDF)" src="/news/downloads/december-2026-calendar/december-2026-mini-calendars-4-per-page.webp" alt="December 2026 mini calendars, four per page, with Christmas Day circled in red" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the December 2026 Mini Calendars, 4 per Page PDF](/news/downloads/december-2026-calendar/december-2026-mini-calendars-4-per-page.pdf) · [PNG image](/news/downloads/december-2026-calendar/december-2026-mini-calendars-4-per-page.png) · Four per page, US Letter, one page.
+[Download the December 2026 Mini Calendars, 4 per Page PDF](/news/downloads/december-2026-calendar/december-2026-mini-calendars-4-per-page.pdf), [PNG image](/news/downloads/december-2026-calendar/december-2026-mini-calendars-4-per-page.png). Four per page, US Letter, one page.
 
 ## How to print a December 2026 calendar
 

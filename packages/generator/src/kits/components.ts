@@ -120,6 +120,6 @@ return s};</script>`;
 
 export function page(ctx: { fonts: string; storySlug: string }, size: Size, css: string, body: string, note: string): string {
   const html = `<section class="page"><div class="col">${body}<p class="src blk">${esc(note)}</p></div>
-    <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/${ctx.storySlug}/</div></section>`;
+    <div class="foot">Free printable from freshcalendars.com/news/${ctx.storySlug}/</div></section>`;
   return doc(ctx.fonts, size, css, [html]).replace("</body>", `${PAGINATE}</body>`);
 }

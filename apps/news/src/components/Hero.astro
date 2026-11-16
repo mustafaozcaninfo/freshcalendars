@@ -31,7 +31,7 @@ const { src, alt, title, caption, credit = "Illustration: Fresh Calendars", lice
         <span class="credit">
           {credit}
           {/* Title, author, source, license: what CC BY and BY-SA ask for. */}
-          {license && <> · <a href={license.source} rel="nofollow noopener">Source</a> · <a href={license.url} rel="license nofollow noopener">{license.name}</a></>}
+          {license && <>, <a href={license.source} rel="nofollow noopener">Source</a>, <a href={license.url} rel="license nofollow noopener">{license.name}</a></>}
         </span>
       )}
     </figcaption>
