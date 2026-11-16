@@ -101,7 +101,7 @@ downloads:
     pdf: "/news/downloads/college-football-week-11-2026/college-football-week-11-pick-em-sheet-2026.pdf"
     png: "/news/downloads/college-football-week-11-2026/college-football-week-11-pick-em-sheet-2026.png"
     pages: 1
-related: [college-football-week-10-schedule-2026-halloween-top-25-game-times-tv, college-football-playoff-rankings-2026-schedule-dates-times, college-football-conference-championship-games-2026-schedule-times-tv]
+related: [college-football-week-12-schedule-2026-game-times-tv, college-football-playoff-rankings-2026-schedule-dates-times, college-football-conference-championship-games-2026-schedule-times-tv]
 draft: false
 ---
 
