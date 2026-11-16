@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T09:25:19.748Z",
+ "generatedAt": "2026-11-16T19:35:23.264Z",
  "site": "https://freshcalendars.com/",
  "daily": [
   {
@@ -2991,7 +2991,7 @@
    "ctr": 0.0006724949562878278
   },
   {
-   "key": "day light savings 2026",
+   "key": "daylight savings 2026",
    "clicks": 2,
    "impressions": 2956,
    "posW": 26604,
@@ -4487,19 +4487,19 @@
    "ctr": 0.047619047619047616
   },
   {
-   "key": "when is the day of the dead 2026",
-   "clicks": 2,
-   "impressions": 63,
-   "posW": 126,
-   "position": 2,
-   "ctr": 0.031746031746031744
-  },
-  {
    "key": "fall time change 2026 november",
    "clicks": 2,
    "impressions": 63,
    "posW": 252,
    "position": 4,
+   "ctr": 0.031746031746031744
+  },
+  {
+   "key": "when is the day of the dead 2026",
+   "clicks": 2,
+   "impressions": 63,
+   "posW": 126,
+   "position": 2,
    "ctr": 0.031746031746031744
   },
   {
@@ -4599,7 +4599,7 @@
    "ctr": 0.038461538461538464
   },
   {
-   "key": "uk clock change october 2026",
+   "key": "fall back date 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4607,7 +4607,7 @@
    "ctr": 0
   },
   {
-   "key": "fall back date 2026",
+   "key": "uk clock change october 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4743,14 +4743,6 @@
    "ctr": 0
   },
   {
-   "key": "2026 thanksgiving date",
-   "clicks": 0,
-   "impressions": 41,
-   "posW": 369,
-   "position": 9,
-   "ctr": 0
-  },
-  {
    "key": "when does mcat registration open 2027",
    "clicks": 0,
    "impressions": 41,
@@ -4767,11 +4759,11 @@
    "ctr": 0
   },
   {
-   "key": "when is halloween this year 2026",
+   "key": "2026 thanksgiving date",
    "clicks": 0,
-   "impressions": 40,
-   "posW": 240,
-   "position": 6,
+   "impressions": 41,
+   "posW": 369,
+   "position": 9,
    "ctr": 0
   },
   {
@@ -4780,6 +4772,14 @@
    "impressions": 40,
    "posW": 400,
    "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "when is halloween this year 2026",
+   "clicks": 0,
+   "impressions": 40,
+   "posW": 240,
+   "position": 6,
    "ctr": 0
   },
   {
@@ -5047,14 +5047,6 @@
    "ctr": 0.16666666666666666
   },
   {
-   "key": "nfl week 9 pick sheet 2026",
-   "clicks": 2,
-   "impressions": 18,
-   "posW": 108,
-   "position": 6,
-   "ctr": 0.1111111111111111
-  },
-  {
    "key": "when do the new governors take office",
    "clicks": 2,
    "impressions": 18,
@@ -5063,11 +5055,11 @@
    "ctr": 0.1111111111111111
   },
   {
-   "key": "federal pay calendar 2027",
+   "key": "nfl week 9 pick sheet 2026",
    "clicks": 2,
    "impressions": 18,
-   "posW": 126,
-   "position": 7,
+   "posW": 108,
+   "position": 6,
    "ctr": 0.1111111111111111
   },
   {
@@ -5076,6 +5068,14 @@
    "impressions": 18,
    "posW": 54,
    "position": 3,
+   "ctr": 0.1111111111111111
+  },
+  {
+   "key": "federal pay calendar 2027",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 126,
+   "position": 7,
    "ctr": 0.1111111111111111
   },
   {
@@ -6265,7 +6265,7 @@
    "ctr": 0.013043478260869565
   },
   {
-   "key": "https://freshcalendars.com/when-is/new-years-eve",
+   "key": "https://freshcalendars.com/when-is/new-years-eve/",
    "clicks": 4,
    "impressions": 452,
    "posW": 2470,
@@ -6625,7 +6625,7 @@
    "ctr": 0.09950248756218906
   },
   {
-   "key": "https://freshcalendars.com/when-is/christmas-eve",
+   "key": "https://freshcalendars.com/when-is/christmas-eve/",
    "clicks": 1,
    "impressions": 198,
    "posW": 1386,
@@ -7089,19 +7089,19 @@
    "ctr": 0.08695652173913043
   },
   {
-   "key": "https://freshcalendars.com/news/christmas-eve-christmas-day-2026-store-hours/",
-   "clicks": 2,
-   "impressions": 67,
-   "posW": 335,
-   "position": 5,
-   "ctr": 0.029850746268656716
-  },
-  {
    "key": "https://freshcalendars.com/news/kwanzaa-2026-dates-seven-principles-calendar-printable/",
    "clicks": 2,
    "impressions": 67,
    "posW": 469,
    "position": 7,
+   "ctr": 0.029850746268656716
+  },
+  {
+   "key": "https://freshcalendars.com/news/christmas-eve-christmas-day-2026-store-hours/",
+   "clicks": 2,
+   "impressions": 67,
+   "posW": 335,
+   "position": 5,
    "ctr": 0.029850746268656716
   },
   {
@@ -7225,19 +7225,19 @@
    "ctr": 0.08823529411764706
   },
   {
-   "key": "https://freshcalendars.com/news/iphone-duo-october-24-availability/",
-   "clicks": 2,
-   "impressions": 33,
-   "posW": 132,
-   "position": 4,
-   "ctr": 0.06060606060606061
-  },
-  {
    "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
    "clicks": 2,
    "impressions": 33,
    "posW": 198,
    "position": 6,
+   "ctr": 0.06060606060606061
+  },
+  {
+   "key": "https://freshcalendars.com/news/iphone-duo-october-24-availability/",
+   "clicks": 2,
+   "impressions": 33,
+   "posW": 132,
+   "position": 4,
    "ctr": 0.06060606060606061
   },
   {
@@ -7297,6 +7297,14 @@
    "ctr": 0.3333333333333333
   },
   {
+   "key": "https://freshcalendars.com/news/broward-county-school-calendar-2026-27/",
+   "clicks": 0,
+   "impressions": 12,
+   "posW": 96,
+   "position": 8,
+   "ctr": 0
+  },
+  {
    "key": "https://freshcalendars.com/news/mail-ballot-deadlines-2026-by-state/",
    "clicks": 0,
    "impressions": 12,
@@ -7313,10 +7321,10 @@
    "ctr": 0
   },
   {
-   "key": "https://freshcalendars.com/news/broward-county-school-calendar-2026-27/",
+   "key": "https://freshcalendars.com/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/",
    "clicks": 0,
-   "impressions": 12,
-   "posW": 96,
+   "impressions": 11,
+   "posW": 88,
    "position": 8,
    "ctr": 0
   },
@@ -7326,14 +7334,6 @@
    "impressions": 11,
    "posW": 77,
    "position": 7,
-   "ctr": 0
-  },
-  {
-   "key": "https://freshcalendars.com/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/",
-   "clicks": 0,
-   "impressions": 11,
-   "posW": 88,
-   "position": 8,
    "ctr": 0
   },
   {
@@ -7369,14 +7369,6 @@
    "ctr": 0
   },
   {
-   "key": "https://freshcalendars.com/printable-yearly-calendar.html",
-   "clicks": 0,
-   "impressions": 2,
-   "posW": 16,
-   "position": 8,
-   "ctr": 0
-  },
-  {
    "key": "https://freshcalendars.com/when-is/christmas-day",
    "clicks": 0,
    "impressions": 2,
@@ -7385,11 +7377,11 @@
    "ctr": 0
   },
   {
-   "key": "https://freshcalendars.com/news/downloads/julian-date-calendar/2026/astronomical-julian-day-chart-2026.pdf",
+   "key": "https://freshcalendars.com/printable-yearly-calendar.html",
    "clicks": 0,
-   "impressions": 1,
-   "posW": 9,
-   "position": 9,
+   "impressions": 2,
+   "posW": 16,
+   "position": 8,
    "ctr": 0
   },
   {
@@ -7399,27 +7391,17 @@
    "posW": 3,
    "position": 3,
    "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/downloads/julian-date-calendar/2026/astronomical-julian-day-chart-2026.pdf",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 9,
+   "position": 9,
+   "ctr": 0
   }
  ],
  "crawl": [
-  {
-   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
-   "AllOtherCodes": 15,
-   "BlockedByRobotsTxt": 0,
-   "Code2xx": 189,
-   "Code301": 140,
-   "Code302": 62,
-   "Code4xx": 27,
-   "Code5xx": 0,
-   "ConnectionTimeout": 0,
-   "ContainsMalware": 0,
-   "CrawledPages": 106,
-   "CrawlErrors": 32,
-   "Date": "/Date(1791849600000)/",
-   "DnsFailures": 0,
-   "InIndex": 163,
-   "InLinks": 262
-  },
   {
    "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
    "AllOtherCodes": 14,
@@ -7941,6 +7923,24 @@
    "DnsFailures": 0,
    "InIndex": 3262,
    "InLinks": 405
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 347,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 3372,
+   "Code301": 179,
+   "Code302": 58,
+   "Code4xx": 39,
+   "Code5xx": 2,
+   "ConnectionTimeout": 6,
+   "ContainsMalware": 0,
+   "CrawledPages": 7685,
+   "CrawlErrors": 50,
+   "Date": "/Date(1794614400000)/",
+   "DnsFailures": 0,
+   "InIndex": 3391,
+   "InLinks": 408
   }
  ],
  "failed": []

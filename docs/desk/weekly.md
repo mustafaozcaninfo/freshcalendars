@@ -1,17 +1,17 @@
 # The week in numbers (generated, do not edit)
 
-Built 2026-11-16T09:25 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
+Built 2026-11-16T19:35 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
 
 ## Real readers (beacon)
 
 | | This week | Week before | Change |
 |---|---:|---:|---:|
-| Page views | 9,989 | 4,338 | +130% |
-| Avg. seconds on page | 82 | 80 | +3% |
+| Page views | 10,679 | 4,338 | +146% |
+| Avg. seconds on page | 81 | 80 | +2% |
 | Avg. deepest scroll | 26% | 25% | |
-| Views from inside the site | 6.6% | 9.6% | |
+| Views from inside the site | 6.7% | 8.8% | |
 
-Devices: desktop 6,279 (101 s, 29% scroll) · mobile 4,990 (63 s, 22% scroll) · tablet 81 (74 s, 26% scroll)
+Devices: desktop 6,080 (98 s, 29% scroll) · mobile 5,007 (62 s, 23% scroll) · tablet 83 (80 s, 27% scroll)
 
 ## Clarity (daily average)
 
@@ -33,23 +33,23 @@ Devices: desktop 6,279 (101 s, 29% scroll) · mobile 4,990 (63 s, 22% scroll) ·
 
 ## Most read categories
 
-- holidays: 4,334 views (+394%), 42 per story
-- puzzles: 1,865 views (+330%), 13 per story
-- sports: 1,196 views (+107%), 8 per story
-- retail-dates: 996 views (+413%), 20 per story
-- uk-canada: 780 views (+317%), 11 per story
-- entertainment: 413 views (+146%), 7 per story
+- holidays: 4,049 views (+222%), 40 per story
+- puzzles: 2,005 views (+269%), 13 per story
+- sports: 1,184 views (+78%), 8 per story
+- retail-dates: 998 views (+285%), 18 per story
+- uk-canada: 764 views (+217%), 11 per story
+- entertainment: 435 views (+127%), 7 per story
 
 ## Most read stories
 
-- /news/veterans-day-free-meals-discounts/: 3,070 views, 167 s
-- /news/nyt-connections-hints-answers-november-11-2026-1249/: 382 views, 46 s
-- /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/: 311 views, 68 s
-- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 294 views, 115 s
-- /news/costco-holiday-hours-closures-2026-2027/: 245 views, 47 s
-- /news/nyt-connections-hints-answers-november-12-2026-1250/: 204 views, 50 s
-- /news/printable-nfl-schedule-2026-2027-pdf/: 144 views, 59 s
-- /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/: 125 views, 37 s
-- /news/: 117 views, 20 s
-- /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/: 107 views, 77 s
+- /news/veterans-day-free-meals-discounts/: 2,823 views, 165 s
+- /news/nyt-connections-hints-answers-november-11-2026-1249/: 383 views, 46 s
+- /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/: 310 views, 67 s
+- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 299 views, 110 s
+- /news/costco-holiday-hours-closures-2026-2027/: 240 views, 47 s
+- /news/nyt-connections-hints-answers-november-12-2026-1250/: 206 views, 50 s
+- /news/printable-nfl-schedule-2026-2027-pdf/: 145 views, 59 s
+- /news/nyt-connections-hints-answers-november-16-2026-1254/: 130 views, 65 s
+- /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/: 121 views, 37 s
+- /news/: 119 views, 20 s
 

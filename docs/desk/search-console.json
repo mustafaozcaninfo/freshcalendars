@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-16T09:24:32.328Z",
+ "generatedAt": "2026-11-16T19:34:28.866Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "99% (75 of 76 sampled)",
+   "value": "100% (76 of 76 sampled)",
    "pass": true
   },
   {
@@ -2343,42 +2343,34 @@
  "indexed": {
   "checked": 76,
   "sampled": 90,
-  "indexed": 75,
-  "notIndexed": [
-   {
-    "url": "https://freshcalendars.com/news/linkedin-games-answers-today-october-29-2026-queens-tango-zip/",
-    "status": "not indexed",
-    "state": "Excluded by ‘noindex’ tag",
-    "age": 18
-   }
-  ],
+  "indexed": 76,
+  "notIndexed": [],
   "states": {
-   "Submitted and indexed": 89,
-   "Excluded by ‘noindex’ tag": 1
+   "Submitted and indexed": 90
   },
   "unknown": 0
  },
  "sitemaps": [
   {
-   "path": "https://shop.freshcalendars.com/sitemap.xml",
-   "errors": 0,
-   "warnings": 0,
-   "lastDownloaded": "2026-11-14T20:28:08.357Z",
-   "submitted": 1723
-  },
-  {
    "path": "https://freshcalendars.com/news/sitemap.xml",
    "errors": 0,
    "warnings": 0,
-   "lastDownloaded": "2026-11-14T23:52:02.913Z",
-   "submitted": 1463
+   "lastDownloaded": "2026-11-16T18:43:52.041Z",
+   "submitted": 1460
+  },
+  {
+   "path": "https://shop.freshcalendars.com/sitemap.xml",
+   "errors": 0,
+   "warnings": 0,
+   "lastDownloaded": "2026-11-16T18:43:42.901Z",
+   "submitted": 1723
   },
   {
    "path": "https://freshcalendars.com/news/news-sitemap.xml",
    "errors": 0,
    "warnings": 0,
-   "lastDownloaded": "2026-11-14T16:54:38.860Z",
-   "submitted": 81
+   "lastDownloaded": "2026-11-16T18:04:48.055Z",
+   "submitted": 78
   },
   {
    "path": "https://freshcalendars.com/sitemap.xml",

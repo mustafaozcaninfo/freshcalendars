@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-16T09:24 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-16T19:34 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 99% (75 of 76 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (76 of 76 sampled)
 - PASS: /news/ clicks and impressions did not fall two weeks in a row — no
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -282,15 +282,15 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 76 that are 7 to 21 days old): 89 Submitted and indexed, 1 Excluded by ‘noindex’ tag.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 76 that are 7 to 21 days old): 90 Submitted and indexed.
 
-- not indexed: /news/linkedin-games-answers-today-october-29-2026-queens-tango-zip/ (Excluded by ‘noindex’ tag), 18 days old
+- every sampled story is indexed
 
 ## Sitemaps
 
-- /sitemap.xml: 0 errors, 0 warnings, 1,723 URLs submitted, last read 2026-11-14
-- /news/sitemap.xml: 0 errors, 0 warnings, 1,463 URLs submitted, last read 2026-11-14
-- /news/news-sitemap.xml: 0 errors, 0 warnings, 81 URLs submitted, last read 2026-11-14
+- /news/sitemap.xml: 0 errors, 0 warnings, 1,460 URLs submitted, last read 2026-11-16
+- /sitemap.xml: 0 errors, 0 warnings, 1,723 URLs submitted, last read 2026-11-16
+- /news/news-sitemap.xml: 0 errors, 0 warnings, 78 URLs submitted, last read 2026-11-16
 - /sitemap.xml: 0 errors, 0 warnings, 201 URLs submitted, last read 2026-11-16
 
 ## Experiments (title and snippet changes of the search desk, 14 days before against 14 days after)
