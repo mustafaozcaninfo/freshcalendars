@@ -1,8 +1,9 @@
 ---
 title: "Jingle Ball 2026 Dates: Nine Cities, Dec. 1-17, With Lineups"
-description: "Jingle Ball 2026 dates: the iHeartRadio tour plays nine cities Dec. 1-17. Each stop's arena and lineup in one table, plus a printable December sheet."
+description: "Jingle Ball 2026 dates: nine cities Dec. 1-17, with times, arenas and lineups, plus the ABC special Dec. 17 and a printable December sheet."
 type: news
 publishedAt: "2026-11-01T11:30:00-05:00"
+updatedAt: "2026-11-16T01:40:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["jingle ball 2026 lineup", "jingle ball 2026 dates", "iHeartRadio Jingle Ball 2026", "jingle ball 2026 tv special"]
@@ -18,8 +19,9 @@ assets:
     title: "Jingle Ball 2026 Tour Dates, December"
     subtitle: "iHeartRadio Jingle Ball Tour, nine cities, Dec. 1 to Dec. 17, 2026"
     layout: month
+    noKit: "Dated tour schedule by city with arenas, not a watch guide or release tracker"
     rows:
-      - ["Tue., Dec. 1", "Dallas/Fort Worth, Dickies Arena"]
+      - ["Tue., Dec. 1", "Dallas/Fort Worth, Ariat Arena"]
       - ["Fri., Dec. 4", "Los Angeles, Intuit Dome"]
       - ["Mon., Dec. 7", "Chicago, Allstate Arena"]
       - ["Tue., Dec. 8", "Detroit, Little Caesars Arena"]
@@ -28,7 +30,7 @@ assets:
       - ["Mon., Dec. 14", "Washington, D.C., Capital One Arena"]
       - ["Tue., Dec. 15", "Philadelphia, Xfinity Mobile Arena"]
       - ["Thu., Dec. 17", "Nashville, Bridgestone Arena"]
-    note: "Source: iHeartRadio, How to Get 2026 iHeartRadio Jingle Ball Tickets. ABC special in December (date not yet announced), per AP and Spin."
+    note: "Source: iHeartRadio, How to Get 2026 iHeartRadio Jingle Ball Tickets; iHeartMedia; ABC. ABC special Thu., Dec. 17, 8-10 p.m. ET/PT, streaming Fri., Dec. 18."
     notesLabel: "My show and who I am going with"
     inkSaver: true
     description: "The nine 2026 iHeartRadio Jingle Ball Tour stops from Dec. 1 to Dec. 17 on a December month sheet, with the city and arena for each date."
@@ -46,12 +48,12 @@ hero:
 summary:
   - "The 2026 iHeartRadio Jingle Ball Tour Presented by Capital One plays nine cities from Tue., Dec. 1, in Dallas/Fort Worth to Thu., Dec. 17, in Nashville."
   - "Each city has its own lineup. The Beaches are on all nine bills and OneRepublic on six; Ludacris and Freya Skye play five cities each."
-  - "A television special is set for ABC in December, streaming on Hulu and Disney+ the next day. The air date has not been announced."
+  - "The ABC special airs Thu., Dec. 17, 8-10 p.m. ET/PT, according to ABC. iHeartMedia says it streams on Hulu and Disney+ the next day, Friday, Dec. 18."
 faq:
   - q: "Where can I buy Jingle Ball 2026 tickets?"
     a: "iHeartRadio says tickets are on sale through Ticketmaster.com. General sale began Fri., Oct. 2, at 12 p.m. local time, after a Capital One cardholder presale."
   - q: "When does the Jingle Ball 2026 special air on ABC?"
-    a: "The air date and time have not been announced. The Associated Press (AP) and Spin report that it airs in December, with streaming on Hulu and Disney+ the next day."
+    a: "ABC lists \"iHeartRadio Jingle Ball 2026\" for Thursday, Dec. 17, 8-10 p.m., with all times Eastern/Pacific. iHeartMedia says it streams on Hulu and Disney+ the next day, Friday, Dec. 18."
 sources:
   - title: "How to Get 2026 iHeartRadio Jingle Ball Tickets"
     url: "https://www.iheart.com/content/how-to-get-2026-iheartradio-jingle-ball-tickets/"
@@ -64,6 +66,18 @@ sources:
     url: "https://www.spinmagazine.com/2026/09/jingle-ball-lineup/"
     publisher: "Spin"
     date: "2026-09-25"
+  - title: "ABC Decks the Halls With Festive Holiday Programming for 2026"
+    url: "https://www.detpress.com/abc/pressrelease/abc-decks-the-halls-with-festive-holiday-programming-for-2026/"
+    publisher: "ABC"
+    date: "2026-10-27"
+  - title: "iHeartMedia Rings in the Holiday Season With the Iconic 2026 National iHeartRadio Jingle Ball Tour Presented by Capital One"
+    url: "https://www.iheartmedia.com/press/iheartmedia-rings-holiday-season-iconic-2026-national-iheartradio-jingle-ball-tour-presented"
+    publisher: "iHeartMedia"
+    date: "2026-09-25"
+  - title: "Fort Worth's Dickies Arena is now Ariat Arena"
+    url: "https://www.nbcdfw.com/news/local/fort-worths-dickies-arena-is-now-ariat-arena/4095775/"
+    publisher: "NBC"
+    date: "2026-10-26"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -94,21 +108,21 @@ The 2026 iHeartRadio Jingle Ball Tour Presented by Capital One plays nine cities
 
 ## Jingle Ball 2026 dates, arenas and lineups by city
 
-iHeartRadio lists the stops in this order, each hosted by a local iHeartRadio station. The page does not label any artist as a headliner, so the lineups below follow iHeartRadio's order. Artist names are written in news style (Raye, Sombr, Katseye), and the table leaves out one newer act that iHeartRadio lists on seven bills, so check the [full billing](https://www.iheart.com/content/how-to-get-2026-iheartradio-jingle-ball-tickets/) for your city.
+iHeartRadio lists the stops in this order, each hosted by a local iHeartRadio station. Show times come from [iHeartMedia](https://www.iheartmedia.com/press/iheartmedia-rings-holiday-season-iconic-2026-national-iheartradio-jingle-ball-tour-presented) and are local to each city. Dallas/Fort Worth plays at Ariat Arena, the new name for Dickies Arena since Oct. 26, 2026, according to NBC's Dallas/Fort Worth station. The page does not label any artist as a headliner, so the lineups below follow iHeartRadio's order. Artist names are written in news style (Raye, Sombr, Katseye), and the table leaves out one newer act that iHeartRadio lists on seven bills, so check the [full billing](https://www.iheart.com/content/how-to-get-2026-iheartradio-jingle-ball-tickets/) for your city.
 
-| Date | City | Arena | Lineup |
-|---|---|---|---|
-| Tue., Dec. 1 | Dallas/Fort Worth | Dickies Arena | Katseye, Raye, Ludacris, Myles Smith, Tove Lo, Kylie Cantrall, The Beaches |
-| Fri., Dec. 4 | Los Angeles | Intuit Dome | Olivia Rodrigo, Hilary Duff, Raye, OneRepublic, Sienna Spiro, Freya Skye, Bella Kay, Stella Lefty, The Beaches |
-| Mon., Dec. 7 | Chicago | Allstate Arena | Raye, OneRepublic, Ludacris, Dominic Fike, Tove Lo, Freya Skye, The Beaches |
-| Tue., Dec. 8 | Detroit | Little Caesars Arena | Alex Warren, OneRepublic, Ludacris, Tove Lo, Jason Derulo, Bella Kay, Freya Skye, The Beaches |
-| Fri., Dec. 11 | New York | Madison Square Garden | Sombr, Alex Warren, Charlie Puth, Hilary Duff, Teddy Swims, Sienna Spiro, Tomorrow X Together and Yeonjun, Stella Lefty, Freya Skye, Bella Kay, The Beaches |
-| Sun., Dec. 13 | Boston | TD Garden | Sombr, Hilary Duff, Nickelback, Tomorrow X Together and Yeonjun, Freya Skye, Stella Lefty, Adéla, The Beaches |
-| Mon., Dec. 14 | Washington, D.C. | Capital One Arena | Jonas Brothers, Sombr, OneRepublic, Ludacris, Nickelback, Tomorrow X Together and Yeonjun, Kylie Cantrall, The Beaches |
-| Tue., Dec. 15 | Philadelphia | Xfinity Mobile Arena | Sombr, Charlie Puth, OneRepublic, Ludacris, Adéla, Jason Derulo, Kylie Cantrall, The Beaches |
-| Thu., Dec. 17 | Nashville | Bridgestone Arena | Alex Warren, Hilary Duff, Teddy Swims, OneRepublic, Nickelback, Stella Lefty, The Beaches |
+| Date | Time | City | Arena | Lineup |
+|---|---|---|---|---|
+| Tue., Dec. 1 | 7:30 p.m. CT | Dallas/Fort Worth | Ariat Arena (formerly Dickies Arena) | Katseye, Raye, Ludacris, Myles Smith, Tove Lo, Kylie Cantrall, The Beaches |
+| Fri., Dec. 4 | 7:30 p.m. PT | Los Angeles | Intuit Dome | Olivia Rodrigo, Hilary Duff, Raye, OneRepublic, Sienna Spiro, Freya Skye, Bella Kay, Stella Lefty, The Beaches |
+| Mon., Dec. 7 | 7 p.m. CT | Chicago | Allstate Arena | Raye, OneRepublic, Ludacris, Dominic Fike, Tove Lo, Freya Skye, The Beaches |
+| Tue., Dec. 8 | 7:30 p.m. ET | Detroit | Little Caesars Arena | Alex Warren, OneRepublic, Ludacris, Tove Lo, Jason Derulo, Bella Kay, Freya Skye, The Beaches |
+| Fri., Dec. 11 | 7 p.m. ET | New York | Madison Square Garden | Sombr, Alex Warren, Charlie Puth, Hilary Duff, Teddy Swims, Sienna Spiro, Tomorrow X Together and Yeonjun, Stella Lefty, Freya Skye, Bella Kay, The Beaches |
+| Sun., Dec. 13 | 6 p.m. ET | Boston | TD Garden | Sombr, Hilary Duff, Nickelback, Tomorrow X Together and Yeonjun, Freya Skye, Stella Lefty, Adéla, The Beaches |
+| Mon., Dec. 14 | 7:30 p.m. ET | Washington, D.C. | Capital One Arena | Jonas Brothers, Sombr, OneRepublic, Ludacris, Nickelback, Tomorrow X Together and Yeonjun, Kylie Cantrall, The Beaches |
+| Tue., Dec. 15 | 7:30 p.m. ET | Philadelphia | Xfinity Mobile Arena | Sombr, Charlie Puth, OneRepublic, Ludacris, Adéla, Jason Derulo, Kylie Cantrall, The Beaches |
+| Thu., Dec. 17 | 7:30 p.m. CT | Nashville | Bridgestone Arena | Alex Warren, Hilary Duff, Teddy Swims, OneRepublic, Nickelback, Stella Lefty, The Beaches |
 
-Source: iHeartRadio, "How to Get 2026 iHeartRadio Jingle Ball Tickets."
+Source: iHeartRadio, "How to Get 2026 iHeartRadio Jingle Ball Tickets"; times from iHeartMedia, Sept. 25, 2026.
 
 ## Which cities does each repeat artist play?
 
@@ -132,7 +146,9 @@ iHeartRadio says tickets are available through Ticketmaster.com. General sale be
 
 ## When is the Jingle Ball 2026 TV special on ABC?
 
-The Associated Press (AP), in a report carried by The Atlanta Journal-Constitution and updated Sept. 25, 2026, said the tour stops "will be part of a nationwide television special as well, airing on ABC in December. It will be available on Hulu and Disney+ the next day." Spin reported the same day that the American Broadcasting Company (ABC) "will air an iHeartRadio Jingle Ball 2026 primetime special in December." The air date and time have not been announced.
+ABC's holiday programming release, published Oct. 27, 2026, lists "iHeartRadio Jingle Ball 2026" on Thursday, Dec. 17, from 8 to 10 p.m. on ABC, and notes that all times listed are Eastern/Pacific. iHeartMedia said on Sept. 25, 2026, that the special airs on ABC in December and "next day" on Hulu, Disney+ and video on demand (VOD). With the Dec. 17 air date, the next day is Friday, Dec. 18. The Associated Press (AP) and Spin reported the same plan in September.
+
+The special airs the night of the Nashville finale, which starts at 7:30 p.m. CT at Bridgestone Arena.
 
 For other New York dates in December, see our [NYC holiday calendar for 2026](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/). For holiday films, see the [Great American Christmas 2026 movie schedule](/news/great-american-christmas-2026-movie-schedule-great-american-family/), and for live music later in the year, [Coachella and Stagecoach 2027 dates](/news/coachella-stagecoach-2027-dates-lineup-indio/).
 
