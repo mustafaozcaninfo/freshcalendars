@@ -82,7 +82,7 @@ Today's grid is 5-by-5, and how the Mini plays is on our [Mini Crossword page](/
 
 Keep the solve on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
 
-More for Sunday, Nov. 15: [Wordle hints](/news/wordle-hint-answer-today-november-15-2026-1975/), [Connections hints](/news/nyt-connections-hints-answers-november-15-2026-1253/), [Strands hints](/news/nyt-strands-hints-answers-november-15-2026-987/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-15-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-15-2026/). Saturday's grid is in the [Mini answers for Nov. 14](/news/nyt-mini-crossword-answers-november-14-2026/).
+More for Sunday, Nov. 15: [Wordle hints](/news/wordle-hint-answer-today-november-15-2026-1975/), [Connections hints](/news/nyt-connections-hints-answers-november-15-2026-1253/), [Strands hints](/news/nyt-strands-hints-answers-november-15-2026-987/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-15-2026/) and [Pips hints](/news/nyt-pips-hints-answers-november-15-2026/). Saturday's grid is in the [Mini answers for Nov. 14](/news/nyt-mini-crossword-answers-november-14-2026/). Monday's grid is in the [Mini answers for Nov. 16](/news/nyt-mini-crossword-answers-november-16-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 

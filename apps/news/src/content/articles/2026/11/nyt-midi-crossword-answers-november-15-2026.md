@@ -128,7 +128,7 @@ Four clues are fill-in-the-blank: 14-Across, 27-Across, 24-Down and 33-Down. All
 
 With 44 clues on an 11-by-11 grid today, the rules of the format are on our [Midi Crossword page](/news/topic/nyt-midi-crossword/#how-it-works).
 
-Yesterday's grid and answers are in [Saturday's Midi page](/news/nyt-midi-crossword-answers-november-14-2026/). Plan the week with our [weekly planner you can print](/printable-weekly-calendar.html) or the [printable calendar for November 2026](/november-calendars.html).
+Yesterday's grid and answers are in [Saturday's Midi page](/news/nyt-midi-crossword-answers-november-14-2026/). The next grid is in [Monday's Midi page](/news/nyt-midi-crossword-answers-november-16-2026/). Plan the week with our [weekly planner you can print](/printable-weekly-calendar.html) or the [printable calendar for November 2026](/november-calendars.html).
 
 More of Sunday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-15-2026-1975/), [Connections hints](/news/nyt-connections-hints-answers-november-15-2026-1253/), [Strands hints](/news/nyt-strands-hints-answers-november-15-2026-987/), [Pips hints](/news/nyt-pips-hints-answers-november-15-2026/) and [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-15-2026/).
 

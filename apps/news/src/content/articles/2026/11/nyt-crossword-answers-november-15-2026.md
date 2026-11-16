@@ -229,7 +229,7 @@ The grid carries no rebus squares; every cell holds one letter. With a title tha
 
 Mark the solving days on our [printable calendar for November 2026](/november-calendars.html) or the [weekly calendar to print](/printable-weekly-calendar.html).
 
-More of Sunday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-15-2026-1975/), [Connections hints](/news/nyt-connections-hints-answers-november-15-2026-1253/), [Strands hints](/news/nyt-strands-hints-answers-november-15-2026-987/) and [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-15-2026/). Saturday's grid is in our [Crossword answers for Nov. 14](/news/nyt-crossword-answers-november-14-2026/), Friday's in our [Crossword answers for Nov. 13](/news/nyt-crossword-answers-november-13-2026/), and the previous Sunday's in our [Crossword answers for Nov. 8](/news/nyt-crossword-answers-november-8-2026/).
+More of Sunday's puzzles: [Wordle hints](/news/wordle-hint-answer-today-november-15-2026-1975/), [Connections hints](/news/nyt-connections-hints-answers-november-15-2026-1253/), [Strands hints](/news/nyt-strands-hints-answers-november-15-2026-987/) and [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-15-2026/). Saturday's grid is in our [Crossword answers for Nov. 14](/news/nyt-crossword-answers-november-14-2026/), Friday's in our [Crossword answers for Nov. 13](/news/nyt-crossword-answers-november-13-2026/), and the previous Sunday's in our [Crossword answers for Nov. 8](/news/nyt-crossword-answers-november-8-2026/). Monday's grid follows in our [Crossword answers for Nov. 16](/news/nyt-crossword-answers-november-16-2026/).
 
 ## Today's NYT Crossword answers (spoilers)
 
