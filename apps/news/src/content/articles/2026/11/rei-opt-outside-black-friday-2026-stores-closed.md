@@ -85,7 +85,7 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [black-friday-2026-store-hours-walmart-target-best-buy, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, black-friday-2026-ad-tracker-walmart-target-best-buy]
+related: [black-friday-2026-store-hours-walmart-target-best-buy, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, bass-pro-santas-wonderland-2026-free-photos-dates]
 draft: false
 ---
 
