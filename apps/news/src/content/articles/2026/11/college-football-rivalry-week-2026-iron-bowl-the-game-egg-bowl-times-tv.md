@@ -121,7 +121,7 @@ downloads:
     pdf: "/news/downloads/college-football-rivalry-week-2026/college-football-rivalry-week-2026-viewing-sheet.pdf"
     png: "/news/downloads/college-football-rivalry-week-2026/college-football-rivalry-week-2026-viewing-sheet.png"
     pages: 1
-related: [thanksgiving-football-schedule-2026-nfl-college-games, college-football-conference-championship-games-2026-schedule-times-tv, army-navy-game-2026-date-kickoff-time-metlife-stadium-tv]
+related: [college-football-week-12-schedule-2026-game-times-tv, college-football-conference-championship-games-2026-schedule-times-tv, army-navy-game-2026-date-kickoff-time-metlife-stadium-tv]
 draft: false
 ---
 

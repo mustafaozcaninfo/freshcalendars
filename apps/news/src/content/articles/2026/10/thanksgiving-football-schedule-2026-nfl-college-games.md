@@ -131,7 +131,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, thanksgiving-day-2026-schedule-hour-by-hour-parade-dog-show-nfl, national-dog-show-2026-thanksgiving-time-tv-channel-peacock-oaks-tickets]
+related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, thanksgiving-day-2026-schedule-hour-by-hour-parade-dog-show-nfl, nhl-black-friday-2026-games-thanksgiving-showdown-times-tv]
 downloads:
   - group: "Thanksgiving Football Schedule 2026 printables"
     title: "Thanksgiving Football Schedule 2026, Nov. 25-28"
