@@ -2,8 +2,8 @@
 title: "CBS Sports Classic 2026: Kentucky-UNC at 2:30 p.m. ET, Dec. 19"
 description: "CBS Sports Classic 2026 is Dec. 19 in New York: Kentucky-North Carolina at 2:30 p.m. ET. Tip times in 4 U.S. zones, matchups to 2029, a printable."
 type: news
-publishedAt: "2026-11-15T22:45:00-05:00"
-updatedAt: "2026-11-15T22:45:00-05:00"
+publishedAt: "2026-11-15T23:21:00-05:00"
+updatedAt: "2026-11-15T23:21:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["cbs sports classic 2026", "kentucky vs north carolina 2026 time", "kansas vs ohio state cbs sports classic", "cbs sports classic tickets"]

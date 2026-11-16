@@ -2,8 +2,8 @@
 title: "Jimmy V Classic 2026: Duke-Georgia at 9 p.m. ET Dec. 8 on ESPN"
 description: "Jimmy V Classic 2026 is Tue., Dec. 8 at Madison Square Garden: Alabama-Houston 6:30 p.m. ET, Georgia-Duke 9 p.m. Four time zones, 2025 scores, a printable."
 type: news
-publishedAt: "2026-11-15T22:40:00-05:00"
-updatedAt: "2026-11-15T22:40:00-05:00"
+publishedAt: "2026-11-15T23:20:00-05:00"
+updatedAt: "2026-11-15T23:20:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 dateline: "New York"
