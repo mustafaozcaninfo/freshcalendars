@@ -213,7 +213,7 @@ Use the `shop-article` skill (`.claude/skills/shop-article/SKILL.md`): which que
 - The 131 calendars in the shop were mostly marketplace brands. 22 calendars from established makers were found by ASIN (Sonnet agent, WebSearch on amazon.com only) and imported with `products/import-links`; 17 are live (ids 3606 to 3627): AT-A-GLANCE desk pad, 3-month wall and erasable year planner, House of Doolittle (three), Mead Cambridge (two), Brownline (two), Blue Sky, Lang, Graphique, Cavallini, Sierra Club, The Old Farmer's Almanac and Amy Knapp.
 - Hidden: 3624 and 3618 (no offer on import day; show them when they are in stock), 3610 and 3611 (title-only listings), 3607 (its listing gives a start date of 12/31/2027, which would put a wrong date on the page).
 - Publisher calendars sold as books (ISBN as the ASIN) often come with no bullets; expect to lose about one in three of them.
-- Brand pages: AT-A-GLANCE (17 products) and Blue Sky (12) got the new rows and counts. Closed brand pages of live products redirect to `/brands`. House of Doolittle now has three live products and no page text: write it and open the page.
+- Brand pages: AT-A-GLANCE (17 products), Blue Sky (12) and Mead (7) got the new rows and counts, and House of Doolittle (brand 477, three products) was written and opened. A brand page states its count in three places: `subtitle`, the first sentence of `content`, and the rows of `content_bottom`; change all three together. Closed brand pages of live products redirect to `/brands`.
 - `product_apply.py` links a fitting printable for the three calendar categories.
 
 ### Month calendar article and the first AI hero (Nov. 16, 2026)
