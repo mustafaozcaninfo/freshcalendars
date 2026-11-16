@@ -321,7 +321,7 @@ export async function buildSceneGallery(out = path.join(ROOT, ".cache/news-scene
     const names = only?.length ? SCENES.filter((n) => only.includes(n)) : SCENES;
     for (const name of names) {
       const f: Front = { title: name, category: "planning" };
-      const a: Assets = { scene: name, kicker: `Scene · ${name}${SCENES_3D[name] ? " · 3D" : ""}`, date: "2026-11-26", card: { top: "Example card", big: "Thu., Nov. 26", bottom: name } };
+      const a: Assets = { scene: name, kicker: `Scene ${name}${SCENES_3D[name] ? ", 3D" : ""}`, date: "2026-11-26", card: { top: "Example card", big: "Thu., Nov. 26", bottom: name } };
       const doc = sceneDoc(fonts, f, a, "gallery", name);
       shots.push(await sharp(await shootHero(browser, doc, fxFor(doc, "gallery"))).resize(600, 338).png().toBuffer());
     }

@@ -33,7 +33,7 @@ assets:
 hero:
   src: ../../../../assets/news/dune-part-three-release-date-december-18-2026-tickets/dune-part-three-release-date-december-18-2026-tickets.webp
   alt: "Rippled desert sand dunes under a clear sky, illustrating the Dune: Part Three release date of Dec. 18, 2026"
-  title: "Dune: Part Three · Dec. 18, 2026"
+  title: "Dune: Part Three, Dec. 18, 2026"
   caption: "Desert sand dunes. The image illustrates the Dune: Part Three release date of Friday, Dec. 18, 2026; it is not a film still."
   credit: "Photo: Meshari Alawfi / Wikimedia Commons, cropped, edited"
   license:

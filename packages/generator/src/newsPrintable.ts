@@ -242,6 +242,6 @@ export function printableHtml(fonts: string, storySlug: string, color: string, p
   const head = `<div class="hd">${icon(iconName, c)}<div><h1>${esc(p.title)}</h1>${p.subtitle ? `<p class="sub">${esc(p.subtitle)}</p>` : ""}</div></div>`;
   const page = `<section class="page"><div class="col">${head}${body(layout, list, p)}
     <div class="notes"><b>${esc(p.notesLabel ?? "My notes")}</b>${NOTE_LINES}</div><p class="src">${esc(p.note)}</p></div>
-    <div class="foot">Free printable from Fresh Calendars · freshcalendars.com/news/${storySlug}/</div></section>`;
+    <div class="foot">Free printable from freshcalendars.com/news/${storySlug}/</div></section>`;
   return { html: doc(fonts, LETTER, css, [page]).replace("</body>", `${FIT}</body>`), layout, warnings };
 }

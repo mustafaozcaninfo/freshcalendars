@@ -40,7 +40,7 @@ const jsonLd = listingGraph({ path: m.path, name: title, description, trail, ite
         <h2 id={`h-${iso}`}>{dayName(iso)}<span>{items.length} {items.length === 1 ? "story" : "stories"}</span></h2>
         <ol class="stories">
           {items.map((a) => (
-            <li><a href={articlePath(a.id)}>{a.data.title}</a><span><time datetime={isoDateTime(a.data.publishedAt)}>{formatDateET(a.data.publishedAt)}</time> · {cats.get(a.data.category.id)}</span></li>
+            <li><a href={articlePath(a.id)}>{a.data.title}</a><span><time datetime={isoDateTime(a.data.publishedAt)}>{formatDateET(a.data.publishedAt)}</time>, {cats.get(a.data.category.id)}</span></li>
           ))}
         </ol>
       </section>

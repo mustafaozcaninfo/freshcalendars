@@ -130,12 +130,12 @@ January 2027 starts on a Friday and ends on a Sunday, so it takes six rows on a 
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|
-|  |  |  |  |  | **1 · New Year's Day** | 2 |
-| 3 · Quadrantids | 4 | 5 | 6 · Three Kings Day | 7 · Orthodox Christmas | 8 | 9 · NFL Week 18 |
-| 10 · Golden Globes | 11 | 12 | 13 | 14 | 15 · Estimated tax | 16 · Wild Card |
-| 17 | **18 · Martin Luther King Jr. Day** | 19 | 20 | 21 · Oscar nominations | 22 · Full moon | 23 · Divisional |
-| 24 | 25 · Burns Night | 26 | 27 | 28 | 29 | 30 |
-| 31 · Championship Games |  |  |  |  |  |  |
+|  |  |  |  |  | **1: New Year's Day** | 2 |
+| 3: Quadrantids | 4 | 5 | 6: Three Kings Day | 7: Orthodox Christmas | 8 | 9: NFL Week 18 |
+| 10: Golden Globes | 11 | 12 | 13 | 14 | 15: Estimated tax | 16: Wild Card |
+| 17 | **18: Martin Luther King Jr. Day** | 19 | 20 | 21: Oscar nominations | 22: Full moon | 23: Divisional |
+| 24 | 25: Burns Night | 26 | 27 | 28 | 29 | 30 |
+| 31: Championship Games |  |  |  |  |  |  |
 
 For a plain monthly layout with room for your own plans, the [January 2027 printable calendar](/january-calendars.html) has several designs, and our story on the [January 2027 calendar printable](/news/january-2027-calendar-printable/) covers them.
 

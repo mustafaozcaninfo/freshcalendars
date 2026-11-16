@@ -103,11 +103,11 @@ December 2026 starts on a Tuesday and ends on a Thursday, so it takes five rows 
 
 | Sun | Mon | Tue | Wed | Thu | Fri | Sat |
 |---|---|---|---|---|---|---|
-|  |  | 1 | 2 | 3 | 4 · Hanukkah begins at sundown | 5 |
-| 6 | 7 · Medicare deadline | 8 | 9 | 10 | 11 · Funding deadline | 12 · Hanukkah ends |
-| 13 · Geminids peak | 14 | 15 · HealthCare.gov deadline | 16 | 17 | 18 | 19 |
-| 20 | 21 · Winter solstice | 22 | 23 · Cold Moon | 24 · Christmas Eve | **25 · Christmas Day** | 26 |
-| 27 | 28 | 29 | 30 | 31 · New Year's Eve |  |  |
+|  |  | 1 | 2 | 3 | 4: Hanukkah begins at sundown | 5 |
+| 6 | 7: Medicare deadline | 8 | 9 | 10 | 11: Funding deadline | 12: Hanukkah ends |
+| 13: Geminids peak | 14 | 15: HealthCare.gov deadline | 16 | 17 | 18 | 19 |
+| 20 | 21: Winter solstice | 22 | 23: Cold Moon | 24: Christmas Eve | **25: Christmas Day** | 26 |
+| 27 | 28 | 29 | 30 | 31: New Year's Eve |  |  |
 
 For plain monthly layouts without these dates, the [December 2026 printable calendar](/december-calendars.html) has several designs, including Monday start.
 

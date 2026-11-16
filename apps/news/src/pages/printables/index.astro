@@ -89,7 +89,7 @@ const jsonLd = listingGraph({
             <a class="btn png" href={i.png} download type="image/png" aria-label={`Download ${i.title} as PNG image`}>PNG</a>
           </div>
           {i.inkSaver && <a class="inklink" href={i.inkSaver.pdf} download type="application/pdf">Low-ink PDF (uses less toner)</a>}
-          <a class="printable-source" href={i.article.href}><span>From the story · {formatDateET(i.article.publishedAt)}</span>{i.article.title}</a>
+          <a class="printable-source" href={i.article.href}><span>From the story, {formatDateET(i.article.publishedAt)}</span>{i.article.title}</a>
         </div>
       </li>
       </>
@@ -123,7 +123,7 @@ const jsonLd = listingGraph({
         <ul class="pmeta" aria-label="File details"><li>${i.n} ${i.n === 1 ? "page" : "pages"}</li><li>${esc(i.s)}</li>${i.k ? '<li class="ink">Low-ink version</li>' : ""}</ul>
         <div class="btns"><a class="btn pdf" href="${esc(i.p)}" download type="application/pdf">Download PDF</a><a class="btn png" href="${esc(i.g)}" download type="image/png" aria-label="Download ${esc(i.t)} as PNG image">PNG</a></div>
         ${i.k ? `<a class="inklink" href="${esc(i.k)}" download type="application/pdf">Low-ink PDF (uses less toner)</a>` : ""}
-        <a class="printable-source" href="${esc(i.h)}"><span>From the story · ${esc(i.e)}</span>${esc(i.a)}</a></div></li>`;
+        <a class="printable-source" href="${esc(i.h)}"><span>From the story, ${esc(i.e)}</span>${esc(i.a)}</a></div></li>`;
       const load = () => loading ??= fetch("/news/printables/data.json").then((r) => r.json()).then((j) => {
         cats = j.cats;
         data = j.items.map((i, n) => ({ ...i, n0: n, text: `${i.t} ${i.d} ${i.q} ${i.a}`.toLowerCase() }));
@@ -160,7 +160,7 @@ const jsonLd = listingGraph({
           results.innerHTML = list.slice(0, limit).map(card).join("");
           grid.hidden = true; results.hidden = false;
         }
-        count.textContent = (n === 1 ? "1 printable" : n.toLocaleString("en-US") + " printables") + (n > shown ? ` · showing ${shown}` : "");
+        count.textContent = (n === 1 ? "1 printable" : n.toLocaleString("en-US") + " printables") + (n > shown ? `, showing ${shown}` : "");
         none.hidden = n > 0;
         more.hidden = n <= shown;
         more.textContent = `Show ${Math.min(PAGE, n - shown)} more (${(n - shown).toLocaleString("en-US")} left)`;

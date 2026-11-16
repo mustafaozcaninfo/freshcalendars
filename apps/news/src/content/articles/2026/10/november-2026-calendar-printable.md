@@ -202,7 +202,7 @@ A Sunday start makes November 2026 a tidy month on paper: five full rows, Nov. 1
 | First day | Sunday, Nov. 1 |
 | Last day | Monday, Nov. 30 |
 | Days | 30 (21 weekdays, 9 weekend days) |
-| Federal holidays | Veterans Day, Wed., Nov. 11 · Thanksgiving Day, Thu., Nov. 26 |
+| Federal holidays | Veterans Day, Wed., Nov. 11; Thanksgiving Day, Thu., Nov. 26 |
 | Working days | 19 (18 if you also get the Friday after Thanksgiving) |
 | Election Day | Tuesday, Nov. 3 |
 | Thanksgiving weekend | Thu., Nov. 26 to Sun., Nov. 29 |
@@ -254,7 +254,7 @@ The everyday sheet. November 2026 starts on a Sunday, so a Sunday-start grid fit
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-calendar-with-holidays.pdf"><img title="Download November 2026 Calendar With Holidays (PDF)" src="/news/downloads/november-2026-calendar/november-2026-calendar-with-holidays.webp" alt="November 2026 calendar printable with holidays, Sunday start, Veterans Day Nov. 11 and Thanksgiving Nov. 26 in red" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Calendar With Holidays PDF](/news/downloads/november-2026-calendar/november-2026-calendar-with-holidays.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-calendar-with-holidays.png) · Portrait, Sunday start, US Letter, one page.
+[Download the November 2026 Calendar With Holidays PDF](/news/downloads/november-2026-calendar/november-2026-calendar-with-holidays.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-calendar-with-holidays.png). Portrait, Sunday start, US Letter, one page.
 
 ### 2. November 2026 Calendar, Landscape With Holidays
 
@@ -262,7 +262,7 @@ Turned sideways for a desk or a fridge door, with wide rounded boxes for short a
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-calendar-landscape.pdf"><img title="Download November 2026 Calendar, Landscape With Holidays (PDF)" src="/news/downloads/november-2026-calendar/november-2026-calendar-landscape.webp" alt="November 2026 calendar landscape printable with large rounded date boxes and holidays marked" width="1400" height="1082" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Calendar, Landscape With Holidays PDF](/news/downloads/november-2026-calendar/november-2026-calendar-landscape.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-calendar-landscape.png) · Landscape, big boxes, US Letter, one page.
+[Download the November 2026 Calendar, Landscape With Holidays PDF](/news/downloads/november-2026-calendar/november-2026-calendar-landscape.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-calendar-landscape.png). Landscape, big boxes, US Letter, one page.
 
 ### 3. November 2026 Calendar, Monday Start With Week Numbers
 
@@ -270,7 +270,7 @@ For offices that plan by week. Starting on Monday, November 2026 needs six rows:
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-calendar-monday-start-week-numbers.pdf"><img title="Download November 2026 Calendar, Monday Start With Week Numbers (PDF)" src="/news/downloads/november-2026-calendar/november-2026-calendar-monday-start-week-numbers.webp" alt="November 2026 calendar Monday start with ISO week numbers 44 to 49 in a green column" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Calendar, Monday Start With Week Numbers PDF](/news/downloads/november-2026-calendar/november-2026-calendar-monday-start-week-numbers.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-calendar-monday-start-week-numbers.png) · Monday start, ISO week numbers, US Letter, one page.
+[Download the November 2026 Calendar, Monday Start With Week Numbers PDF](/news/downloads/november-2026-calendar/november-2026-calendar-monday-start-week-numbers.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-calendar-monday-start-week-numbers.png). Monday start, ISO week numbers, US Letter, one page.
 
 ### 4. November 2026 Blank Calendar
 
@@ -278,7 +278,7 @@ Dates only, in gray, with nothing else in the boxes. It uses the least toner of 
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-blank-calendar.pdf"><img title="Download November 2026 Blank Calendar (PDF)" src="/news/downloads/november-2026-calendar/november-2026-blank-calendar.webp" alt="November 2026 blank calendar printable with thin gray grid lines and dates only" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Blank Calendar PDF](/news/downloads/november-2026-calendar/november-2026-blank-calendar.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-blank-calendar.png) · Blank, ink saver, US Letter, one page.
+[Download the November 2026 Blank Calendar PDF](/news/downloads/november-2026-calendar/november-2026-blank-calendar.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-blank-calendar.png). Blank, ink saver, US Letter, one page.
 
 ### 5. November 2026 Monthly Planner With Notes
 
@@ -286,7 +286,7 @@ A month grid with a planning column beside it: goals for November, five priority
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-monthly-planner-with-notes.pdf"><img title="Download November 2026 Monthly Planner With Notes (PDF)" src="/news/downloads/november-2026-calendar/november-2026-monthly-planner-with-notes.webp" alt="November 2026 monthly planner printable with calendar grid, goals, priorities checkboxes and notes lines" width="1400" height="1082" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Monthly Planner With Notes PDF](/news/downloads/november-2026-calendar/november-2026-monthly-planner-with-notes.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-monthly-planner-with-notes.png) · Planner, landscape, US Letter, one page.
+[Download the November 2026 Monthly Planner With Notes PDF](/news/downloads/november-2026-calendar/november-2026-monthly-planner-with-notes.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-monthly-planner-with-notes.png). Planner, landscape, US Letter, one page.
 
 ### 6. November 2026 Fall Calendar With Autumn Leaves
 
@@ -294,7 +294,7 @@ The maple leaves and acorns are drawn by our own generator, so the sheet looks l
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-fall-calendar-autumn-leaves.pdf"><img title="Download November 2026 Fall Calendar With Autumn Leaves (PDF)" src="/news/downloads/november-2026-calendar/november-2026-fall-calendar-autumn-leaves.webp" alt="November 2026 fall calendar printable with drawn autumn maple leaves, acorns and warm orange date boxes" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Fall Calendar With Autumn Leaves PDF](/news/downloads/november-2026-calendar/november-2026-fall-calendar-autumn-leaves.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-fall-calendar-autumn-leaves.png) · Fall design, US Letter, one page.
+[Download the November 2026 Fall Calendar With Autumn Leaves PDF](/news/downloads/november-2026-calendar/november-2026-fall-calendar-autumn-leaves.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-fall-calendar-autumn-leaves.png). Fall design, US Letter, one page.
 
 ### 7. November 2026 Thanksgiving Calendar
 
@@ -302,7 +302,7 @@ The month on top and Thanksgiving week below it, one lined box a day from Sunday
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-thanksgiving-calendar.pdf"><img title="Download November 2026 Thanksgiving Calendar (PDF)" src="/news/downloads/november-2026-calendar/november-2026-thanksgiving-calendar.webp" alt="November 2026 Thanksgiving calendar printable with a Thanksgiving week plan from Nov. 22 to Nov. 29" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Thanksgiving Calendar PDF](/news/downloads/november-2026-calendar/november-2026-thanksgiving-calendar.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-thanksgiving-calendar.png) · Thanksgiving week, US Letter, one page.
+[Download the November 2026 Thanksgiving Calendar PDF](/news/downloads/november-2026-calendar/november-2026-thanksgiving-calendar.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-thanksgiving-calendar.png). Thanksgiving week, US Letter, one page.
 
 ### 8. November 2026 Moon Phase Calendar
 
@@ -310,7 +310,7 @@ Each primary phase is drawn in its box with its time in Eastern Standard Time (E
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.pdf"><img title="Download November 2026 Moon Phase Calendar (PDF)" src="/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.webp" alt="November 2026 moon phase calendar with last quarter Nov. 1, new moon Nov. 9, first quarter Nov. 17 and full moon Nov. 24" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Moon Phase Calendar PDF](/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.png) · Moon phases, US Letter, one page.
+[Download the November 2026 Moon Phase Calendar PDF](/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-moon-phase-calendar.png). Moon phases, US Letter, one page.
 
 ### 9. November 2026 Coloring Calendar for Kids
 
@@ -318,7 +318,7 @@ Every number is an outline to color in, and the top of the page has leaves, pump
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-coloring-calendar-for-kids.pdf"><img title="Download November 2026 Coloring Calendar for Kids (PDF)" src="/news/downloads/november-2026-calendar/november-2026-coloring-calendar-for-kids.webp" alt="November 2026 coloring calendar for kids with outlined numbers, maple leaves, pumpkins and an acorn" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Coloring Calendar for Kids PDF](/news/downloads/november-2026-calendar/november-2026-coloring-calendar-for-kids.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-coloring-calendar-for-kids.png) · Coloring, kids, US Letter, one page.
+[Download the November 2026 Coloring Calendar for Kids PDF](/news/downloads/november-2026-calendar/november-2026-coloring-calendar-for-kids.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-coloring-calendar-for-kids.png). Coloring, kids, US Letter, one page.
 
 ### 10. November 2026 Daily Calendar List
 
@@ -326,7 +326,7 @@ One line for each of the 30 days, with the weekday and any holiday, key date or 
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-daily-calendar-list.pdf"><img title="Download November 2026 Daily Calendar List (PDF)" src="/news/downloads/november-2026-calendar/november-2026-daily-calendar-list.webp" alt="November 2026 daily calendar list printable with one line for each of the 30 days" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Daily Calendar List PDF](/news/downloads/november-2026-calendar/november-2026-daily-calendar-list.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-daily-calendar-list.png) · Daily list, US Letter, one page.
+[Download the November 2026 Daily Calendar List PDF](/news/downloads/november-2026-calendar/november-2026-daily-calendar-list.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-daily-calendar-list.png). Daily list, US Letter, one page.
 
 ### 11. November 2026 Gratitude Calendar
 
@@ -334,7 +334,7 @@ A box for every day with a prompt (a person, a meal, a teacher, someone who serv
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-gratitude-calendar.pdf"><img title="Download November 2026 Gratitude Calendar (PDF)" src="/news/downloads/november-2026-calendar/november-2026-gratitude-calendar.webp" alt="November 2026 gratitude calendar printable with a thankful prompt and writing lines for each of the 30 days" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Gratitude Calendar PDF](/news/downloads/november-2026-calendar/november-2026-gratitude-calendar.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-gratitude-calendar.png) · Gratitude, 30 days, US Letter, one page.
+[Download the November 2026 Gratitude Calendar PDF](/news/downloads/november-2026-calendar/november-2026-gratitude-calendar.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-gratitude-calendar.png). Gratitude, 30 days, US Letter, one page.
 
 ### 12. November 2026 Calendar With Key Dates and Deadlines
 
@@ -342,7 +342,7 @@ This is the sheet built from the dates in this story: the early Supplemental Sec
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-calendar-key-dates-deadlines.pdf"><img title="Download November 2026 Calendar With Key Dates and Deadlines (PDF)" src="/news/downloads/november-2026-calendar/november-2026-calendar-key-dates-deadlines.webp" alt="November 2026 calendar with key dates: Social Security paydays, clock change, Election Day and federal holidays numbered" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Calendar With Key Dates and Deadlines PDF](/news/downloads/november-2026-calendar/november-2026-calendar-key-dates-deadlines.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-calendar-key-dates-deadlines.png) · Key dates, US Letter, one page.
+[Download the November 2026 Calendar With Key Dates and Deadlines PDF](/news/downloads/november-2026-calendar/november-2026-calendar-key-dates-deadlines.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-calendar-key-dates-deadlines.png). Key dates, US Letter, one page.
 
 ### 13. November 2026 Calendar With October and December 2026
 
@@ -350,7 +350,7 @@ A large November with the month before and after underneath, for planning from H
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-calendar-october-december-2026.pdf"><img title="Download November 2026 Calendar With October and December 2026 (PDF)" src="/news/downloads/november-2026-calendar/november-2026-calendar-october-december-2026.webp" alt="November 2026 calendar with October and December 2026 three-month printable" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Calendar With October and December 2026 PDF](/news/downloads/november-2026-calendar/november-2026-calendar-october-december-2026.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-calendar-october-december-2026.png) · Three months, US Letter, one page.
+[Download the November 2026 Calendar With October and December 2026 PDF](/news/downloads/november-2026-calendar/november-2026-calendar-october-december-2026.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-calendar-october-december-2026.png). Three months, US Letter, one page.
 
 ### 14. November 2026 Mini Calendars, 4 per Page
 
@@ -358,7 +358,7 @@ Four small calendars on one sheet, with dashed lines to cut along. Each is about
 
 <a class="tpl" href="/news/downloads/november-2026-calendar/november-2026-mini-calendars-4-per-page.pdf"><img title="Download November 2026 Mini Calendars, 4 per Page (PDF)" src="/news/downloads/november-2026-calendar/november-2026-mini-calendars-4-per-page.webp" alt="November 2026 mini calendars, four per page, with Veterans Day and Thanksgiving circled in red" width="1100" height="1424" loading="lazy" decoding="async"></a>
 
-[Download the November 2026 Mini Calendars, 4 per Page PDF](/news/downloads/november-2026-calendar/november-2026-mini-calendars-4-per-page.pdf) · [PNG image](/news/downloads/november-2026-calendar/november-2026-mini-calendars-4-per-page.png) · Four per page, US Letter, one page.
+[Download the November 2026 Mini Calendars, 4 per Page PDF](/news/downloads/november-2026-calendar/november-2026-mini-calendars-4-per-page.pdf), [PNG image](/news/downloads/november-2026-calendar/november-2026-mini-calendars-4-per-page.png). Four per page, US Letter, one page.
 
 ## How to print a November 2026 calendar
 

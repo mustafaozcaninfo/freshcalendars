@@ -30,7 +30,7 @@ const groupId = (g: string) => "dl-" + g.toLowerCase().replace(/[^a-z0-9]+/g, "-
               <div class="body">
                 <h4>{i.title}</h4>
                 <p>{i.description}</p>
-                <p class="meta">{`PDF · ${i.pages} ${i.pages === 1 ? "page" : "pages"} · ${i.paper}`}</p>
+                <p class="meta">{`PDF, ${i.pages} ${i.pages === 1 ? "page" : "pages"}, ${i.paper}`}</p>
                 <div class="btns">
                   <a class="btn pdf" href={i.pdf} download type="application/pdf">Download PDF</a>
                   <a class="btn png" href={i.png} download type="image/png">PNG</a>

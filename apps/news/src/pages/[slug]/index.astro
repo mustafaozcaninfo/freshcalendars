@@ -309,7 +309,7 @@ const puzzleDay = pzThis ? {
           const p = +z.slice(0, 3), st = R.find(([a, b]) => p >= a && p <= b)?.[2];
           const row = st && rows.find((r) => r.cells[0]?.textContent.trim() === st);
           if (!row) { out.textContent = "We could not match ZIP " + z + " to a state. Pick your state in the table below."; return; }
-          out.replaceChildren(document.createTextNode("ZIP " + z + " is in " + st + ". Official lookup: "), ...[...row.cells[1].childNodes].map((n) => n.cloneNode(true)), document.createTextNode(" · Sample ballots: " + row.cells[2].textContent.trim() + ". "));
+          out.replaceChildren(document.createTextNode("ZIP " + z + " is in " + st + ". Official lookup: "), ...[...row.cells[1].childNodes].map((n) => n.cloneNode(true)), document.createTextNode(". Sample ballots: " + row.cells[2].textContent.trim() + ". "));
           const jump = document.createElement("a"); jump.href = "#"; jump.textContent = "See the row"; jump.addEventListener("click", (e) => { e.preventDefault(); row.scrollIntoView({ block: "center" }); }); out.append(jump);
           row.classList.add("zip-hit");
         });
@@ -398,7 +398,7 @@ const puzzleDay = pzThis ? {
             // Leave out the cell that names the state; the other cells, with their headers, are the answer.
             const parts = [...r.cells].map((c, j) => [c, j]).filter(([, j]) => j !== i || r.cells.length === 1).map(([c, j]) => (head ? head[j].textContent.trim() + ": " : "") + c.textContent.trim());
             // The column headers already say what the row is, so table hits skip the section title.
-            hits.push(["", parts.join(" · "), r]); r.classList.add("zip-hit");
+            hits.push(["", parts.join(", "), r]); r.classList.add("zip-hit");
           }
           for (const li of body.querySelectorAll("li")) if (!li.closest("nav, form") && names(li.textContent, st)) hits.push([section(li), li.textContent.trim(), li]);
           if (!hits.length) { out.replaceChildren(Object.assign(document.createElement("p"), { textContent: (sf.dataset.none || "This story does not list {state}. Check your state election office.").replace("{state}", st) })); return; }
@@ -570,7 +570,7 @@ const puzzleDay = pzThis ? {
             Object.assign(document.createElement("p"), { textContent: f[5] }),
           );
           const b = out.firstChild;
-          b.append(Object.assign(document.createElement("a"), { className: "tb-main", href: f[3], textContent: "Download PDF · " + f[4] + (f[4] === "1" ? " page" : " pages") + " · " + f[1] }),
+          b.append(Object.assign(document.createElement("a"), { className: "tb-main", href: f[3], textContent: "Download PDF, " + f[4] + (f[4] === "1" ? " page" : " pages") + ", " + f[1] }),
             Object.assign(document.createElement("a"), { href: f[3].replace(/\.pdf$/, ".png"), textContent: "PNG preview of page 1" }));
         };
         for (const s of [what, paper, ink]) s.addEventListener("change", run);
@@ -599,7 +599,7 @@ const puzzleDay = pzThis ? {
             msg && p(msg),
             p(found.length + " of " + words.length + " words, " + score + " of " + total + " points. " + status),
             found.length ? p("Your words: " + [...found].sort().map((w) => w[0] + w.slice(1).toLowerCase()).join(", ")) : null,
-            left.length ? p("Still to find, by first two letters: " + Object.keys(by).sort().map((k) => k[0] + k[1].toLowerCase() + " " + by[k]).join(" · "), "tool-note") : null,
+            left.length ? p("Still to find, by first two letters: " + Object.keys(by).sort().map((k) => k[0] + k[1].toLowerCase() + " " + by[k]).join(", "), "tool-note") : null,
           ].filter(Boolean));
         };
         bt.addEventListener("submit", (e) => {
