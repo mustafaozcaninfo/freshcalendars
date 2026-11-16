@@ -23,6 +23,9 @@ PRINT = {
     'advent-calendars': ('https://freshcalendars.com/december-calendars.html', 'Print a free {a}December calendar</a> to mark December 1 to 24 beside it.'),
     'christmas-countdown-calendars': ('https://freshcalendars.com/december-calendars.html', 'A free {a}December calendar</a> shows the same countdown on paper.'),
     'christmas-planners-and-organizers': ('https://freshcalendars.com/december-calendars.html', 'Pair it with a free {a}December calendar</a> for the dates that cannot move.'),
+    'wall-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> shows the same twelve months on one sheet.'),
+    'desk-calendars': ('https://freshcalendars.com/monthly-calendars/', 'Free {a}printable monthly calendars</a> cover the same months on Letter or A4 paper.'),
+    'dry-erase-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> gives a paper copy of the same year.'),
     'greeting-card-organizers': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}yearly calendar</a> on the wall keeps the same birthdays in view.'),
 }
 
