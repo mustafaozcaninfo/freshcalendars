@@ -5228,5 +5228,48 @@
    "3570": 9.99,
    "3572": 6.98
   }
+ },
+ {
+  "slug": "january-calendar",
+  "id": 147,
+  "title": "January 2027 Calendar: Starts Friday, 2 Federal Holidays",
+  "type": "dates",
+  "primary_query": "january 2027 calendar",
+  "cluster": "january-calendar",
+  "products": [
+   196,
+   234,
+   273,
+   274,
+   294,
+   300
+  ],
+  "h2": [
+   "January 2027 calendar grid with week numbers",
+   "Federal holidays in January 2027",
+   "How many weekdays and weekends does January 2027 have?",
+   "Does January 2027 need five or six rows on a calendar?",
+   "Calendars and planners that start in January 2027",
+   "Where to get a free printable January 2027 calendar"
+  ],
+  "related": [
+   "planner-dates-and-holidays",
+   "best-wall-calendars",
+   "best-calendar-year-planners"
+  ],
+  "image": "https://images.pexels.com/photos/29509476/pexels-photo-29509476.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-16T19:00:29.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-16",
+  "refresh_by": "2026-12-01",
+  "prices": {
+   "196": 7.58,
+   "234": 11.99,
+   "273": 7.99,
+   "274": 12.99,
+   "294": 15.99,
+   "300": 11.99
+  }
  }
 ]

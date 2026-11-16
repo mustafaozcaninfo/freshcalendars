@@ -209,6 +209,10 @@ Use the `shop-article` skill (`.claude/skills/shop-article/SKILL.md`): which que
 - Not fixable from here: on any 404 page Livewire posts `pageLoaded` to `/livewire/update`, the platform answers 204 with no body and the script logs "Unexpected end of JSON input". Nothing visible breaks; report it to FreshStore support.
 - Sitemap checked: the 11 holiday articles and `/categories/logbooks-and-record-books` are in it.
 
+### Month calendar article and the first AI hero (Nov. 16, 2026)
+- `/articles/january-calendar` (id 147, type `dates`, slug without the year so the URL is reused each January): a Monday-start grid with ISO weeks, both federal holidays, day counts, the five-or-six-rows answer and six calendars that start in January 2027. It links the main site's `/january-2027-calendar/`; the same pattern fits the other months.
+- Its hero is the first image made with AI chips: `PATCH articles/{id}` with `{"generate_images": ["hero"], "image_source": "ai", "image_quality": "standard"}` (about 20,000 chips, ready in under a minute). There is no prompt field; the platform writes it from the title. The calendar it drew had the right weekdays for every visible date, but that is luck: open every AI picture that shows dates or text and compare it with the real month before leaving it live, and set a stock photo if anything is wrong.
+
 ### Price refresh of Nov. 13, 2026
 - `article_prices.py` on the 24 articles published Nov. 9 to 11 found real drift in 10: 23 price cells and the figures computed from them (Grabie fineliners $19.99 to $26.99, At-A-Glance $49.99 to $56.08), two products that were no longer below list price, and four products with no offer left (124, 306, 286, 909). The four were disabled and redirected to their category (redirects 866 to 869) and taken out of three articles.
 - Titles that carried a count changed: `christmas-gifts-for-planner-lovers` is now 24 picks, `travel-journal-gifts-for-travelers` 8 picks, `planner-gifts-for-college-students` 9 picks. The slug was sent with each PATCH and did not change.
