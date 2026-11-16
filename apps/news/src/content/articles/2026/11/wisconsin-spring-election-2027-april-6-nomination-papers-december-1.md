@@ -3,6 +3,7 @@ title: "Wisconsin Spring Election 2027: April 6, Nomination Papers From Dec. 1"
 description: "Wisconsin's spring election is Tuesday, April 6, 2027, with a Supreme Court seat open. A dated timeline for candidates and voters and a printable sheet."
 type: news
 publishedAt: "2026-11-13T13:25:00-05:00"
+updatedAt: "2026-11-16T07:10:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["wisconsin spring election 2027", "wisconsin supreme court election 2027 date", "wisconsin nomination papers 2027", "wisconsin spring primary 2027"]
@@ -14,12 +15,16 @@ hero:
   license: { name: "CC BY-SA 2.0", url: "https://creativecommons.org/licenses/by-sa/2.0", source: "https://commons.wikimedia.org/wiki/File:Wisconsin_State_Capitol,_Capitol_Square,_Madison,_WI_(52733889726).jpg", author: "Warren LeMay from Covington, KY, United States", authorUrl: "https://www.flickr.com/people/59081381@N03" }
 summary:
   - "Wisconsin's spring election is Tuesday, April 6, 2027, per the City of Madison Clerk, and a spring primary is set for Tuesday, Feb. 16, 2027 where one is needed."
-  - "The April 6 ballot includes the Wisconsin Supreme Court seat held by Justice Annette Ziegler, who said she will not seek reelection in 2027; her term expires July 31, 2027."
+  - "The April 6 ballot includes the seat of Chief Justice Annette Ziegler, who will not seek reelection; her term expires July 31, 2027. Two judges, Lyndsey Brunette and Pedro Colón, have declared campaigns for it."
   - "Madison's clerk says nomination papers can be circulated from Dec. 1, 2026 and are due by 5:00 pm on the first Tuesday in January, which is Jan. 5, 2027."
   - "Polls in Madison open at 7:00 am and close at 8:00 pm. The statewide absentee deadlines were not readable on a state page and are not printed here."
 faq:
   - q: "Is there a Wisconsin Supreme Court election in 2027?"
-    a: "Yes. Justice Annette Ziegler's term expires July 31, 2027, and the Wisconsin Court System says she will not seek reelection, so the seat is open on the April 6, 2027 ballot."
+    a: "Yes. Chief Justice Annette Ziegler's term expires July 31, 2027, and the Wisconsin Court System says she will not seek reelection, so the seat is open on the April 6, 2027 ballot."
+  - q: "Whose seat is up?"
+    a: "The April 6, 2027 seat belongs to Chief Justice Annette Ziegler, whose term ends July 31, 2027. Wisconsin Examiner and PBS Wisconsin reported she announced on March 9, 2026 that she will not seek a third term."
+  - q: "Who is running for Wisconsin Supreme Court in 2027?"
+    a: "Two judges have declared: Clark County Circuit Court Judge Lyndsey Brunette on April 16, 2026, reported by CBS 58, and Court of Appeals Judge Pedro Colón on April 28, 2026, reported by Wisconsin Examiner. The ballot is set only after nomination papers are due Jan. 5, 2027, and the Wisconsin Elections Commission has not yet published a candidate list. Others may still enter."
   - q: "Can anyone circulate nomination papers on Dec. 1?"
     a: "The Madison clerk's page gives Dec. 1 as the first day for circulating nomination papers for local office. Offices differ, so a candidate for another office should ask that office's clerk."
   - q: "What is the last day to register by mail?"
@@ -46,11 +51,29 @@ sources:
   - title: "Ziegler announces she will not run in the 2027 Wisconsin Supreme Court election"
     url: "https://pbswisconsin.org/news-item/ziegler-announces-she-will-not-run-in-the-2027-wisconsin-supreme-court-election/"
     publisher: "PBS Wisconsin"
-    date: "2026-03-09"
   - title: "Voter Registration"
     url: "https://www.cityofmadison.com/clerk/elections-voting/voter-registration"
     publisher: "City of Madison Clerk"
     date: "2026-11-13"
+  - title: "Justice Annette Ziegler won't run for a third term on Wisconsin Supreme Court in 2027"
+    url: "https://wisconsinexaminer.com/2026/03/09/justice-annette-ziegler-wont-run-for-a-third-term-on-wisconsin-supreme-court-in-2027/"
+    publisher: "Wisconsin Examiner"
+    date: "2026-03-09"
+  - title: "Clark County judge Lyndsey Brunette launches campaign for 2027 Wisconsin Supreme Court race"
+    url: "https://cbs58.com/news/clark-county-judge-lyndsey-brunette-launches-campaign-for-2027-wisconsin-supreme-court-race"
+    publisher: "CBS 58"
+  - title: "Clark County judge announces 2027 Wisconsin Supreme Court campaign"
+    url: "https://wisconsinexaminer.com/2026/04/16/clark-co-judge-announces-2027-wisconsin-supreme-court-campaign/"
+    publisher: "Wisconsin Examiner"
+    date: "2026-04-16"
+  - title: "Appeals court judge Pedro Colon announces 2027 Wisconsin Supreme Court bid"
+    url: "https://wisconsinexaminer.com/2026/04/28/appeals-court-judge-pedro-colon-announces-2027-wisconsin-supreme-court-bid/"
+    publisher: "Wisconsin Examiner"
+    date: "2026-04-28"
+  - title: "Appeals judge Pedro Colón announces Wisconsin Supreme Court candidacy"
+    url: "https://minnlawyer.com/2026/04/28/appeals-judge-pedro-colon-wisconsin-supreme-court-race/"
+    publisher: "Minnesota Lawyer"
+    date: "2026-04-28"
 internalLinks:
   - href: "/april-calendars.html"
     label: "April 2027 printable calendar"
@@ -97,7 +120,7 @@ downloads:
 draft: false
 ---
 
-**Wisconsin's spring election is Tuesday, April 6, 2027, according to the City of Madison Clerk's Office, and the ballot includes the Wisconsin Supreme Court seat now held by Justice Annette Ziegler.** Madison's clerk also lists a spring primary on Tuesday, Feb. 16, 2027 and says nomination papers can be circulated from Dec. 1, 2026. The timeline below runs from that first day to the end of Ziegler's term on July 31, 2027, with weekdays computed. It names no candidates.
+**Wisconsin's spring election is Tuesday, April 6, 2027, according to the City of Madison Clerk's Office, and the ballot includes the Wisconsin Supreme Court seat now held by Chief Justice Annette Ziegler.** Madison's clerk also lists a spring primary on Tuesday, Feb. 16, 2027 and says nomination papers can be circulated from Dec. 1, 2026. The timeline below runs from that first day to the end of Ziegler's term on July 31, 2027, with weekdays computed. Two judges have declared campaigns for the seat.
 
 State pages were not readable on Nov. 13, 2026: the Wisconsin Legislature's statute site returned a server error and the Wisconsin Elections Commission (WEC) site refused automated access. The dates come from the Madison clerk and the Wisconsin Court System. Madison's local-office dates may differ from the dates for other offices, so check your own municipal clerk.
 
@@ -117,9 +140,20 @@ The Jan. 5 date is the first Tuesday in January 2027 as the clerk's rule is writ
 
 ## Which Supreme Court seat is on the April 6 ballot?
 
-The Wisconsin Court System said on March 30, 2026 that Ziegler "will, therefore, not be seeking reelection to the Wisconsin Supreme Court in 2027." Her justice page says "Her current term expires July 31, 2027." PBS Wisconsin reported on March 9, 2026 that "The election to replace Ziegler is April 6, 2027," so two sources agree on the date. Whether a statewide primary is needed for that seat depends on how many candidates file, and that is not yet known.
+The seat belongs to Chief Justice Annette Ziegler. The Wisconsin Court System said on March 30, 2026 that Ziegler "will, therefore, not be seeking reelection to the Wisconsin Supreme Court in 2027," and her justice page says "Her current term expires July 31, 2027." Wisconsin Examiner reported on March 9, 2026 that she would not run for a third term, and PBS Wisconsin reported that "The election to replace Ziegler is April 6, 2027," so independent newsrooms agree. Whether a statewide primary is needed for that seat depends on how many candidates file, and that is not yet known.
 
 Other judicial and local offices vary by place; your municipal clerk lists them. In Madison, the clerk says the mayor and alder seats for odd-numbered districts are on the 2027 ballot.
+
+## Who is running for Wisconsin Supreme Court in 2027?
+
+Two judges have publicly declared campaigns for Ziegler's seat. Declaring is not the same as being on the ballot: nomination papers can be circulated from Dec. 1, 2026 and are due at 5:00 pm on Tuesday, Jan. 5, 2027, and who is on the ballot is known only after that date. The Wisconsin Elections Commission has not yet published a list of candidates who filed for spring 2027, and others may still enter.
+
+| Candidate | Current office | Date declared | Reported by |
+|---|---|---|---|
+| Lyndsey Brunette | Clark County Circuit Court judge | April 16, 2026 | CBS 58, Wisconsin Examiner |
+| Pedro Colón | Court of Appeals judge (District I, Milwaukee) | April 28, 2026 | Wisconsin Examiner, Minnesota Lawyer |
+
+Candidates appear in the order they declared.
 
 ## When can candidates start circulating nomination papers?
 

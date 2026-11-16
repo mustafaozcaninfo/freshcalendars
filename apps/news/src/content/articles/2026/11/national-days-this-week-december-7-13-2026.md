@@ -140,9 +140,9 @@ downloads:
 draft: false
 ---
 
-**Fifteen official observances fall between Monday, Dec. 7 and Sunday, Dec. 13, 2026, and Thursday, Dec. 10 holds two of them: Human Rights Day and, in the UK, Christmas Jumper Day.** Each comes from the United Nations (UN) observances list, U.S. law, a church calendar or an organizer's own page. A planner for the week follows the table.
+**Fifteen official observances fall between Monday, Dec. 7 and Sunday, Dec. 13, 2026, and Thursday, Dec. 10 holds two of them: Human Rights Day and, in the UK, Christmas Jumper Day.** Each comes from the United Nations (UN) observances list, U.S. law, a church calendar or an organizer's own page. Below the table is the planner for Dec. 7 to 13.
 
-Only days with a named setter are listed. Commercial "national food days" are left out, and so are the Nobel Prize day on Dec. 10 and the National Guard birthday on Dec. 13, because we found no official page we could read for either. Hanukkah began at sundown on Friday, Dec. 4, so it runs through the whole week and shows on its last two days.
+A day is listed only when a named body sets it. Commercial "national food days" are left out, and so are the Nobel Prize day on Dec. 10 and the National Guard birthday on Dec. 13, because we found no official page we could read for either. Hanukkah began at sundown on Friday, Dec. 4, so it runs through the whole week and shows on its last two days.
 
 ## Observances by day, Dec. 7-13, 2026
 

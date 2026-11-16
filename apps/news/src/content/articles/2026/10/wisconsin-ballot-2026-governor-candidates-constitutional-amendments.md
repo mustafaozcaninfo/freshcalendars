@@ -61,7 +61,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [what-time-do-polls-close-election-day-2026, sample-ballot-by-zip-code-2026-texas-ballot, michigan-ballot-2026-proposals-candidates]
+related: [what-time-do-polls-close-election-day-2026, wisconsin-spring-election-2027-april-6-nomination-papers-december-1, michigan-ballot-2026-proposals-candidates]
 assets:
   overlay: true
   kicker: "Wisconsin · Tue., Nov. 3, 2026"

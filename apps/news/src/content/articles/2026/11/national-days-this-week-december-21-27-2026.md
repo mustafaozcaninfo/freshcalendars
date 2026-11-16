@@ -109,9 +109,9 @@ downloads:
 draft: false
 ---
 
-**The winter solstice, Christmas Day and the start of Kwanzaa fall between Monday, Dec. 21 and Sunday, Dec. 27, 2026, and each comes from a different official source.** The U.S. Naval Observatory (USNO) sets the solstice, the Office of Personnel Management (OPM) the federal holiday, and GOV.UK and the Canada Revenue Agency (CRA) the UK and Canadian days. A planner for the week follows the table.
+**The winter solstice, Christmas Day and the start of Kwanzaa fall between Monday, Dec. 21 and Sunday, Dec. 27, 2026, and each comes from a different official source.** The U.S. Naval Observatory (USNO) sets the solstice, the Office of Personnel Management (OPM) the federal holiday, and GOV.UK and the Canada Revenue Agency (CRA) the UK and Canadian days. The Dec. 21-27 planner to print comes after the table.
 
-Only days with a named setter are listed. Commercial "national food days" are left out.
+The table keeps to days that a named body sets, so commercial "national food days" are out.
 
 ## Observances by day, Dec. 21-27, 2026
 

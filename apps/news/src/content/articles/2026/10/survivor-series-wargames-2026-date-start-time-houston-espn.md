@@ -87,7 +87,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [wwe-events-december-2026-dates-start-times, thanksgiving-football-schedule-2026-nfl-college-games, sports-on-tv-today-november-1-2026]
+related: [wwe-events-december-2026-dates-start-times, thanksgiving-football-schedule-2026-nfl-college-games, royal-rumble-2027-date-february-6-state-farm-stadium-glendale]
 assets:
   overlay: true
   kicker: "Survivor Series · Sat., Nov. 28, 2026"

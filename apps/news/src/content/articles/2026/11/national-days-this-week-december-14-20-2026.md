@@ -137,9 +137,9 @@ downloads:
 draft: false
 ---
 
-**Twelve observances fall between Monday, Dec. 14 and Sunday, Dec. 20, 2026, and Thursday, Dec. 17 holds two aviation days: Wright Brothers Day and Pan American Aviation Day.** Each comes from the United Nations (UN) observances list, U.S. law, a presidential proclamation, a church calendar or an organizer's own page. A planner for the week follows the table.
+**Twelve observances fall between Monday, Dec. 14 and Sunday, Dec. 20, 2026, and Thursday, Dec. 17 holds two aviation days: Wright Brothers Day and Pan American Aviation Day.** Each comes from the United Nations (UN) observances list, U.S. law, a presidential proclamation, a church calendar or an organizer's own page. The Dec. 14-20 week planner is under the table.
 
-Only days with a named setter are listed. Commercial "national food days" are left out, because we found no official page for them. Hanukkah ended at nightfall on Saturday, Dec. 12, so it has no row this week.
+Every row has a named setter. Commercial "national food days" are left out, because we found no official page for them. Hanukkah ended at nightfall on Saturday, Dec. 12, so it has no row this week.
 
 ## Observances by day, Dec. 14-20, 2026
 

@@ -131,7 +131,7 @@ downloads:
 draft: false
 ---
 
-**Twelve observances fall between Monday, Nov. 23 and Sunday, Nov. 29, 2026, and Thanksgiving Day on Thursday, Nov. 26 shares its date with two others.** Each is set by a United Nations (UN) resolution, U.S. law or an organizer, read from that body's own page on Nov. 9, 2026. A planner for the week follows the table.
+**Twelve observances fall between Monday, Nov. 23 and Sunday, Nov. 29, 2026, and Thanksgiving Day on Thursday, Nov. 26 shares its date with two others.** Each is set by a United Nations (UN) resolution, U.S. law or an organizer, read from that body's own page on Nov. 9, 2026. The Thanksgiving week planner is below the table.
 
 Only days with an official setter are listed. Commercial "national food days" are left out, and so are Bahá'í Day of the Covenant and Ascension of ʻAbdu'l-Bahá (their 2026 dates are not on an official page we could read), National Day of Listening and Buy Nothing Day (no organizer date). Black Friday (Nov. 27) and Cyber Monday (Nov. 30) are retail dates, not observances; see [what is open on Black Friday](/news/black-friday-2026-post-office-banks-stock-market-open/).
 

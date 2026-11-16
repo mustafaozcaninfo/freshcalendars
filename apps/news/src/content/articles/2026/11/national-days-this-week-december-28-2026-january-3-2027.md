@@ -122,9 +122,9 @@ downloads:
 draft: false
 ---
 
-**New Year's Day, Friday, Jan. 1, 2027, is the one federal holiday in the week of Monday, Dec. 28 to Sunday, Jan. 3, and the Office of Personnel Management (OPM) lists it as "Friday, January 01 | New Year's Day".** The same week has a UK bank holiday on Monday, Dec. 28, Edinburgh's Hogmanay from Dec. 29, and perihelion, Earth's closest point to the Sun, at 9:33 p.m. EST on Saturday, Jan. 2, per the U.S. Naval Observatory (USNO). A planner for the week follows the tables.
+**New Year's Day, Friday, Jan. 1, 2027, is the one federal holiday in the week of Monday, Dec. 28 to Sunday, Jan. 3, and the Office of Personnel Management (OPM) lists it as "Friday, January 01 | New Year's Day".** The same week has a UK bank holiday on Monday, Dec. 28, Edinburgh's Hogmanay from Dec. 29, and perihelion, Earth's closest point to the Sun, at 9:33 p.m. EST on Saturday, Jan. 2, per the U.S. Naval Observatory (USNO). The planner for Dec. 28 to Jan. 3 sits below the two tables.
 
-Only days with a named setter are listed. Commercial "national food days" are left out.
+Each day in the tables has a body that sets it; commercial "national food days" have none and are left out.
 
 ## Observances by day, Dec. 28, 2026-Jan. 3, 2027
 

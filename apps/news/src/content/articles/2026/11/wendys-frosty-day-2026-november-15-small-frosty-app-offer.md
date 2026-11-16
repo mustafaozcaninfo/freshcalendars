@@ -1,7 +1,8 @@
 ---
-title: "Wendy's Frosty Day 2026: Small Frosty With App Purchase Sun., Nov. 15"
-description: "Wendy's Frosty Day is Sun., Nov. 15: a free Small Frosty with purchase in the Wendy's app, U.S. stores. Fine-print table, Key Tag math, printable card."
+title: "Wendy's Frosty Day Is Nov. 15: 2026 Offer, Key Tag to Dec. 31"
+description: "Wendy's Frosty Day falls on Nov. 15 each year. The 2026 app offer has ended; the $3 Key Tag still gets a free Jr. Frosty through Dec. 31. Fine-print table."
 type: news
+updatedAt: "2026-11-16T07:08:00-05:00"
 publishedAt: "2026-11-14T14:38:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
@@ -59,8 +60,8 @@ hero:
     author: "Famartin"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Famartin"
 summary:
-  - "On Sunday, Nov. 15, 2026, Wendy's home page offers a free Small Frosty with purchase through an in-app offer, at participating U.S. restaurants only."
-  - "The offer must be redeemed in the Wendy's app, and app download and account registration are required."
+  - "Frosty Day 2026 was Sunday, Nov. 15: Wendy's home page offered a free Small Frosty with purchase through an in-app offer, at participating U.S. restaurants only."
+  - "Wendy's calls Frosty Day an annual celebration on Nov. 15, which is a Monday in 2027; the company has not announced a 2027 offer."
   - "The $3 Frosty Key Tag is a separate in-restaurant deal: one free classic Jr. Frosty per transaction per visit with any purchase, valid through Dec. 31, 2026."
   - "Wendy's does not give a minimum purchase, a limit per account or a delivery rule on the offer page, so the app's terms decide."
 faq:
@@ -98,7 +99,7 @@ related: [holiday-menus-2026-every-chain-tracker, veterans-day-free-meals-discou
 draft: false
 ---
 
-**Wendy's is offering a free Small Frosty with purchase on Sunday, Nov. 15, 2026, through an in-app offer at participating U.S. restaurants, according to the Wendy's home page.** The offer must be redeemed in the Wendy's app, and app download and account registration are required. The table below sets that offer next to the $3 Frosty Key Tag, a separate in-restaurant deal, and lists which limits Wendy's gives and which it does not.
+**Wendy's Frosty Day is Nov. 15, and the 2026 offer, a free Small Frosty with purchase through the Wendy's app on Sunday, Nov. 15, has ended.** The $3 Frosty Key Tag, a separate in-restaurant deal, still gets a free Jr. Frosty with any purchase through Dec. 31, 2026. Wendy's calls Frosty Day "a new, annual celebration" on the anniversary of its first restaurant, so the next one falls on Monday, Nov. 15, 2027; the company has not announced a 2027 offer. The table below sets the 2026 offer next to the Key Tag and lists which limits Wendy's gave and which it did not.
 
 ## What the Wendy's Frosty Day offer says
 
@@ -113,18 +114,18 @@ The home page heading reads "Spoons up for Frosty Day." The offer line reads: "O
 
 Wendy's does not say on the offer page whether orders placed on wendys.com count, what the store hours are on Nov. 15, or whether the free Small Frosty can be added to a delivery order. The terms in the app are the last word.
 
-## How to get the free Small Frosty on Nov. 15
+## How the free Small Frosty worked on Nov. 15, 2026
 
 1. Download the Wendy's app.
 2. Register an account.
-3. On Nov. 15, order something at a participating U.S. Wendy's.
+3. On Nov. 15, 2026, order something at a participating U.S. Wendy's.
 4. Apply the Frosty Day in-app offer to the order.
 
-The steps follow the offer page's own conditions. Whether the offer applies to a mobile order, a drive-thru order or both is not given on the page.
+The steps follow the 2026 offer page's own conditions, and the offer was good for that one day only. Whether the offer applies to a mobile order, a drive-thru order or both is not given on the page.
 
 ## Frosty Key Tag math for the rest of 2026
 
-The Key Tag page says each $3 tag gets a free Jr. Frosty with any purchase, every day, with the limit of one free classic Jr. Frosty per transaction per visit per key tag. Current tags are valid from 2/1/26 to 12/31/26. From Nov. 15 through Dec. 31, 2026 that leaves 47 days, counting both ends, in which a tag can work. Wendy's does not print a Jr. Frosty price on the page, so the $3 cost is not compared with one here.
+The Key Tag page says each $3 tag gets a free Jr. Frosty with any purchase, every day, with the limit of one free classic Jr. Frosty per transaction per visit per key tag. Current tags are valid from 2/1/26 to 12/31/26. From Nov. 16 through Dec. 31, 2026 that leaves 46 days, counting both ends, in which a tag can work. Wendy's does not print a Jr. Frosty price on the page, so the $3 cost is not compared with one here.
 
 Key Tags are sold from mid-November to mid-February or until supplies last, and 90% of every $3 tag sold benefits the Dave Thomas Foundation for Adoption, per the page. The page does not say how long a tag bought now stays valid. The Key Tag is an at-restaurant purchase; the Nov. 15 offer is app only.
 
