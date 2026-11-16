@@ -31,57 +31,50 @@ function readTemplate(rel: string): string {
   return fs.readFileSync(path.join(TEMPLATES, rel), "utf8");
 }
 
-function weekdayHeader(weekStartsOn: 0 | 1, weekendClass = false): string {
+/**
+ * Weekday header cells. Portrait sheets fit three letters, wide sheets the full name, and the
+ * twelve small months of a year poster one letter. Weekend columns always carry "we"; a template
+ * that does not tint them leaves the class unstyled.
+ */
+function weekdayHeader(weekStartsOn: 0 | 1, form: "short" | "long" | "min" = "short"): string {
   const names =
     weekStartsOn === 1
-      ? ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
-      : ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+      ? ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"]
+      : ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
   return names
     .map((n, i) => {
-      const isWe =
-        weekendClass &&
-        ((weekStartsOn === 0 && (i === 0 || i === 6)) ||
-          (weekStartsOn === 1 && (i === 5 || i === 6)));
-      return `<th class="${isWe ? "we" : ""}">${n}</th>`;
+      const isWe = weekStartsOn === 0 ? i === 0 || i === 6 : i >= 5;
+      const text = form === "long" ? n : form === "min" ? n[0] : n.slice(0, 3);
+      return `<th class="${isWe ? "we" : ""}">${text}</th>`;
     })
     .join("");
 }
 
-function miniMonthHtml(
-  grid: MonthGrid,
-  holidayIsos: Set<string>,
-  opts: { weekendAccent?: boolean } = {},
-): string {
-  const rows = grid.weeks
+function miniMonthHtml(grid: MonthGrid, holidayIsos: Set<string>): string {
+  // Always six rows, so the twelve months of a poster line up and fill their boxes.
+  const weeks = [...grid.weeks, ...Array.from({ length: 6 - grid.weeks.length }, () => Array(7).fill(null))];
+  const rows = weeks
     .map(
       (week) =>
         `<tr>${week
-          .map((c, i) => {
-            if (!c) return "<td></td>";
-            const hol = holidayIsos.has(c.iso) ? " hol" : "";
-            const we =
-              opts.weekendAccent &&
-              ((grid.weekStartsOn === 0 && (i === 0 || i === 6)) ||
-                (grid.weekStartsOn === 1 && (i === 5 || i === 6)))
-                ? " we"
-                : "";
-            return `<td class="${(hol + we).trim()}">${c.day}</td>`;
+          .map((c: MonthGrid["weeks"][number][number], i: number) => {
+            const we = (grid.weekStartsOn === 0 ? i === 0 || i === 6 : i >= 5) ? "we" : "";
+            if (!c) return `<td class="${we}"></td>`;
+            const hol = holidayIsos.has(c.iso) ? "hol" : "";
+            return `<td class="${[hol, we].filter(Boolean).join(" ")}"><span>${c.day}</span></td>`;
           })
           .join("")}</tr>`,
     )
     .join("");
   return `<div class="month"><h2>${grid.monthName}</h2><table><thead><tr>${weekdayHeader(
     grid.weekStartsOn,
-    opts.weekendAccent,
+    "min",
   )}</tr></thead><tbody>${rows}</tbody></table></div>`;
 }
 
-function holidayMap(holidays: ResolvedHoliday[]): Map<string, string> {
-  const m = new Map<string, string>();
-  for (const h of holidays) {
-    const prev = m.get(h.iso);
-    m.set(h.iso, prev ? `${prev}; ${h.name}` : h.name);
-  }
+function holidayMap(holidays: ResolvedHoliday[]): Map<string, string[]> {
+  const m = new Map<string, string[]>();
+  for (const h of holidays) m.set(h.iso, [...(m.get(h.iso) ?? []), h.name]);
   return m;
 }
 
@@ -91,25 +84,18 @@ function isWeekend(iso: string, _weekStartsOn: 0 | 1): boolean {
   return day === 0 || day === 6;
 }
 
-function monthlyWeeksHtml(
-  grid: MonthGrid,
-  variant: MonthlyVariant,
-  holNames: Map<string, string>,
-): string {
+/** Every monthly design names the holiday in its box: it is what a "<month> calendar" search wants to see. */
+function monthlyWeeksHtml(grid: MonthGrid, holNames: Map<string, string[]>): string {
   return grid.weeks
     .map(
       (week) =>
         `<tr>${week
-          .map((c) => {
-            if (!c) return "<td></td>";
-            const holName = holNames.get(c.iso);
-            const hol = Boolean(holName);
-            const we = variant.weekendAccent && isWeekend(c.iso, grid.weekStartsOn);
-            const classes = [hol ? "hol" : "", we ? "we" : ""].filter(Boolean).join(" ");
-            const label =
-              variant.showHolidayLabels && holName
-                ? `<div class="hol-label">${escapeHtml(holName)}</div>`
-                : "";
+          .map((c, i) => {
+            const we = (grid.weekStartsOn === 0 ? i === 0 || i === 6 : i >= 5) ? "we" : "";
+            if (!c) return `<td class="${["empty", we].filter(Boolean).join(" ")}"></td>`;
+            const names = holNames.get(c.iso);
+            const classes = [names ? "hol" : "", we].filter(Boolean).join(" ");
+            const label = (names ?? []).map((n) => `<div class="hol-label">${escapeHtml(n)}</div>`).join("");
             return `<td class="${classes}"><div class="n">${c.day}</div>${label}</td>`;
           })
           .join("")}</tr>`,
@@ -130,7 +116,7 @@ function holidayListHtml(holidays: ResolvedHoliday[]): string {
     return "<div>No US holidays or observances this month.</div>";
   }
   return holidays
-    .map((h) => `<div><strong>${escapeHtml(h.name)}</strong> · ${escapeHtml(h.formatted)}</div>`)
+    .map((h) => `<div><strong>${escapeHtml(h.name)}</strong> ${escapeHtml(h.formatted)}</div>`)
     .join("");
 }
 
@@ -143,11 +129,11 @@ export function renderYearlyPrintHtml(
   const monthsHtml = months
     .map((g) => {
       const hols = new Set(holidaysForMonth(year, g.month).map((h) => h.iso));
-      return miniMonthHtml(g, hols, { weekendAccent: variant.holidayEmphasis });
+      return miniMonthHtml(g, hols);
     })
     .join("");
   return readTemplate(`yearly/${variant.templateFile}`)
-    .replaceAll("{{title}}", `${year} Calendar · ${variant.label}`)
+    .replaceAll("{{title}}", `${year} Calendar, ${variant.label}`)
     .replaceAll("{{year}}", String(year))
     .replaceAll("{{monthsHtml}}", monthsHtml);
 }
@@ -163,7 +149,7 @@ export function renderMonthlyPrintHtml(
   const grid = buildMonthGrid({ year, month, weekStartsOn });
   const holidays = holidaysForMonth(year, month);
   const holNames = holidayMap(holidays);
-  const weeksHtml = monthlyWeeksHtml(grid, variant, holNames);
+  const weeksHtml = monthlyWeeksHtml(grid, holNames);
   const monthName = monthNumberToName(month);
   const subtitles: Record<MonthlyVariantId, string> = {
     "classic-bw": "Print-first minimal grid",
@@ -175,11 +161,13 @@ export function renderMonthlyPrintHtml(
   };
 
   return readTemplate(`monthly/${variant.templateFile}`)
-    .replaceAll("{{title}}", `${monthName} ${year} · ${variant.label}`)
+    .replaceAll("{{title}}", `${monthName} ${year} Calendar, ${variant.label}`)
     .replaceAll("{{monthName}}", monthName)
     .replaceAll("{{year}}", String(year))
     .replaceAll("{{subtitle}}", subtitles[variantId])
-    .replaceAll("{{weekdayHeader}}", weekdayHeader(weekStartsOn, variant.weekendAccent))
+    .replaceAll("{{weeks}}", String(grid.weeks.length))
+    .replaceAll("{{weekdayHeader}}", weekdayHeader(weekStartsOn))
+    .replaceAll("{{weekdayHeaderLong}}", weekdayHeader(weekStartsOn, "long"))
     .replaceAll("{{weeksHtml}}", weeksHtml)
     .replaceAll("{{holidayListHtml}}", holidayListHtml(holidays));
 }
@@ -245,7 +233,7 @@ function habitTableHtml(weekStartsOn: 0 | 1): string {
 export function renderWeeklyPrintHtml(variantId: WeeklyVariantId = "classic-sun"): string {
   const variant = weeklyVariantById(variantId);
   let html = readTemplate(`weekly/${variant.templateFile}`)
-    .replaceAll("{{title}}", `Weekly Calendar · ${variant.label}`)
+    .replaceAll("{{title}}", `Weekly Calendar, ${variant.label}`)
     .replaceAll("{{daysHtml}}", weeklyDaysHtml(variant.weekStartsOn))
     .replaceAll("{{daysHtmlStacked}}", weeklyDaysStackedHtml(variant.weekStartsOn))
     .replaceAll("{{hourlyTableHtml}}", hourlyTableHtml(variant.weekStartsOn))
@@ -262,8 +250,9 @@ function blankWeeksHtml(rows = 5): string {
 export function renderBlankPrintHtml(variantId: BlankVariantId = "classic"): string {
   const variant = blankVariantById(variantId);
   return readTemplate(`blank/${variant.templateFile}`)
-    .replaceAll("{{title}}", `Blank Calendar · ${variant.label}`)
+    .replaceAll("{{title}}", `Blank Calendar, ${variant.label}`)
     .replaceAll("{{weekdayHeader}}", weekdayHeader(variant.weekStartsOn))
+    .replaceAll("{{weekdayHeaderLong}}", weekdayHeader(variant.weekStartsOn, "long"))
     .replaceAll("{{weeksHtml}}", blankWeeksHtml(5));
 }
 
@@ -272,11 +261,12 @@ export function listBlankVariants() {
 }
 
 function blankMiniMonthHtml(monthName: string, weekStartsOn: 0 | 1): string {
-  const emptyRows = Array.from({ length: 5 }, () =>
+  const emptyRows = Array.from({ length: 6 }, () =>
     `<tr>${Array.from({ length: 7 }, () => "<td></td>").join("")}</tr>`,
   ).join("");
   return `<div class="month"><h2>${monthName}</h2><table><thead><tr>${weekdayHeader(
     weekStartsOn,
+    "min",
   )}</tr></thead><tbody>${emptyRows}</tbody></table></div>`;
 }
 

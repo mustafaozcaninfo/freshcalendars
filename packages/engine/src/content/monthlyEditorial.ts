@@ -63,8 +63,8 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Jan 9, 2007", text: "Apple introduces the first iPhone." },
     ],
     faqBase: (y) => [
-      { q: `Why print a January ${y} calendar with dates instead of a blank one?`, a: `The dates and weekdays are already in the right boxes, with New Year's Day and Martin Luther King Jr. Day marked in the Holidays design.` },
-      { q: `When is Martin Luther King Jr. Day in ${y}?`, a: `It is the third Monday of January. The Holidays design names it in its date box.` },
+      { q: `Why print a January ${y} calendar with dates instead of a blank one?`, a: `The dates and weekdays are already in the right boxes, with New Year's Day and Martin Luther King Jr. Day named in their date boxes.` },
+      { q: `When is Martin Luther King Jr. Day in ${y}?`, a: `It is the third Monday of January. Every design names it in its date box.` },
     ],
   },
   2: {
@@ -92,7 +92,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
     ],
     faqBase: (y) => [
       { q: `How many days does February ${y} have?`, a: `February ${y} has ${daysInMonth(y, 2)} days, and the printed grid matches.` },
-      { q: `Does the February ${y} calendar show Presidents' Day?`, a: `Yes, in the Holidays design. Presidents' Day is the third Monday of February.` },
+      { q: `Does the February ${y} calendar show Presidents' Day?`, a: `Yes. Presidents' Day is the third Monday of February, and every design names it in its date box.` },
     ],
   },
   3: {
@@ -147,7 +147,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Apr 23", text: "UNESCO World Book and Copyright Day, the date of Shakespeare’s death in 1616." },
     ],
     faqBase: (y) => [
-      { q: `Does the April ${y} calendar show Easter?`, a: `When Easter Sunday falls in April ${y}, the Holidays design names it. The Easter page has the date for each year.` },
+      { q: `Does the April ${y} calendar show Easter?`, a: `When Easter Sunday falls in April ${y}, every design names it in its date box. The Easter page has the date for each year.` },
       { q: `Which April ${y} design suits a classroom?`, a: `Landscape reads well on a bulletin board, and Planner has a notes column for homework and trips.` },
     ],
   },
@@ -175,7 +175,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "May 25, 1961", text: "Kennedy announces Moon landing goal." },
     ],
     faqBase: (y) => [
-      { q: `When is Memorial Day in May ${y}?`, a: `Memorial Day is the last Monday of May. The Holidays design names it in its date box.` },
+      { q: `When is Memorial Day in May ${y}?`, a: `Memorial Day is the last Monday of May. Every design names it in its date box.` },
       { q: `When is Mother's Day in ${y}?`, a: `In the United States it is the second Sunday of May.` },
     ],
   },
@@ -203,7 +203,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Jun 26, 2015", text: "US Supreme Court decides Obergefell v. Hodges." },
     ],
     faqBase: (y) => [
-      { q: `Is Juneteenth on the June ${y} calendar?`, a: `Yes. Juneteenth is a federal holiday on June 19 and the Holidays design names it.` },
+      { q: `Is Juneteenth on the June ${y} calendar?`, a: `Yes. Juneteenth is a federal holiday on June 19, named in its date box in every design.` },
       { q: `When is Father's Day in ${y}?`, a: `In the United States it is the third Sunday of June.` },
     ],
   },
@@ -231,7 +231,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Jul 1, 1867", text: "Canadian Confederation, now Canada Day." },
     ],
     faqBase: (y) => [
-      { q: `Does the July ${y} calendar mark Independence Day?`, a: `Yes. July 4 is a federal holiday and the Holidays design names it.` },
+      { q: `Does the July ${y} calendar mark Independence Day?`, a: `Yes. July 4 is a federal holiday, named in its date box in every design.` },
       { q: `Can I share the July ${y} calendar online?`, a: `Please link to this page instead of uploading the file. The calendars are free for personal and classroom use.` },
     ],
   },
@@ -287,7 +287,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Sep 17, 1787", text: "US Constitution signed." },
     ],
     faqBase: (y) => [
-      { q: `When is Labor Day in September ${y}?`, a: `Labor Day is the first Monday of September. The Holidays design names it in its date box.` },
+      { q: `When is Labor Day in September ${y}?`, a: `Labor Day is the first Monday of September. Every design names it in its date box.` },
       { q: `When does fall start in ${y}?`, a: `The autumn equinox in the Northern Hemisphere falls around September 22; the exact date varies by year.` },
     ],
   },
@@ -315,7 +315,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Oct 31", text: "Halloween." },
     ],
     faqBase: (y) => [
-      { q: `Does the October ${y} calendar include Columbus Day?`, a: `Yes, in the Holidays design. The federal holiday is the second Monday of October; add Indigenous Peoples' Day where it is observed.` },
+      { q: `Does the October ${y} calendar include Columbus Day?`, a: `Yes. The federal holiday is the second Monday of October, named in its date box; add Indigenous Peoples' Day where it is observed.` },
       { q: `Which October ${y} design suits Halloween planning?`, a: `Planner: ruled date boxes and a notes column for costume and party lists.` },
     ],
   },
@@ -343,7 +343,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Nov 9, 1989", text: "The Berlin Wall’s border crossings open." },
     ],
     faqBase: (y) => [
-      { q: `When is Thanksgiving ${y}?`, a: `Thanksgiving is the fourth Thursday of November. The Holidays design names it in its date box.` },
+      { q: `When is Thanksgiving ${y}?`, a: `Thanksgiving is the fourth Thursday of November. Every design names it in its date box.` },
       { q: `When do clocks go back in November ${y}?`, a: `Daylight saving time ends on the first Sunday of November, when clocks go back one hour at 2:00 a.m.` },
     ],
   },
@@ -371,7 +371,7 @@ const EDITORIAL: Record<number, MonthEditorial> = {
       { label: "Dec 31", text: "New Year’s Eve." },
     ],
     faqBase: (y) => [
-      { q: `Is Christmas marked on the December ${y} calendar?`, a: `Yes. Christmas Day is a federal holiday on December 25 and the Holidays design names it.` },
+      { q: `Is Christmas marked on the December ${y} calendar?`, a: `Yes. Christmas Day is a federal holiday on December 25, named in its date box in every design.` },
       { q: `Can I print December ${y} and January together?`, a: `Yes. Print December here, then open the January page for the next year's sheet.` },
     ],
   },
@@ -431,7 +431,7 @@ export function buildYearlyFaq(year: number): FaqItem[] {
     },
     {
       q: `Does the ${year} yearly calendar show US holidays?`,
-      a: `Yes, as tinted dates. To see each holiday named, print a month in the Holidays design.`,
+      a: `Yes, as marked dates. To see each holiday named, print the month page.`,
     },
   ];
 }
@@ -452,7 +452,7 @@ export function buildBlankFaq(): FaqItem[] {
     },
     {
       q: "Do the blank calendars show holidays?",
-      a: "No. They have no dates, so there is nothing to mark. For holidays, print a month page in the Holidays design.",
+      a: "No. They have no dates, so there is nothing to mark. For holidays, print a dated month page, which names them in the date boxes.",
     },
   ];
 }

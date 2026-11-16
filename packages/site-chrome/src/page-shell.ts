@@ -5,12 +5,12 @@ const escape = (s: string) => s.replaceAll("&", "&amp;").replaceAll('"', "&quot;
 /** The rail's closing card points to the next useful page for where the reader is, not one line for every page. */
 function railHelpHtml(path: string, year: number): string {
   const card = path.startsWith("/when-is/") || /^\/(uk-|canada-)?holidays\/$/.test(path)
-    ? ["Print the holiday month", "Every month page has a holidays-marked template.", "/monthly-calendars/", "Pick a month →"]
+    ? ["Print the holiday month", "Every month page has a holidays-marked template.", "/monthly-calendars/", "Pick a month"]
     : path.startsWith("/guides/") || path === "/print-guide.html"
-      ? ["Ready to print?", `The ${year} yearly calendar comes as PDF and PNG.`, "/printable-calendars.html", `${year} yearly calendar →`]
+      ? ["Ready to print?", `The ${year} yearly calendar comes as PDF and PNG.`, "/printable-calendars.html", `${year} yearly calendar`]
       : path === "/calendar-tools/"
-        ? ["Dates in the news", "Deadlines and holiday schedules, checked against official sources.", "/news/", "Read the latest →"]
-        : ["Plan brighter days", `Find a printable for ${year}, or start with a blank page.`, "/news/printables/", "Explore free printables →"];
+        ? ["Dates in the news", "Deadlines and holiday schedules, checked against official sources.", "/news/", "Read the latest"]
+        : ["Plan brighter days", `Find a printable for ${year}, or start with a blank page.`, "/news/printables/", "Explore free printables"];
   return `<div class="rail-help"><strong>${card[0]}</strong><p>${card[1]}</p><a href="${card[2]}">${card[3]}</a></div>`;
 }
 
