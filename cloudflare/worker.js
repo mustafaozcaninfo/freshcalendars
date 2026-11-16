@@ -2,16 +2,19 @@
 // built by cloudflare/assemble.mjs) and never reach this code. The Worker only runs for:
 //   - /news/downloads/*  printables, read from R2 with the story canonical as a Link header, and kept
 //                        in the edge cache under their content hash (a new file, a new entry);
+//   - /assets/*          calendar PDFs, read from R2 with their page as the Link canonical; every
+//                        other calendar file goes to the CDN host as before (301);
 //   - /api/contact       the contact form (Turnstile, then email to the owner and a copy in R2);
 //   - /api/pv            the first-party page-view beacon (Workers Analytics Engine, see pageView);
 //   - anything no file answers: old calendar URLs (301) or the site's 404 page.
 // Its cron trigger starts the timed GitHub Actions jobs (cron.js).
 // Everything else that used to need PHP or nginx (/news/ 301s, image moves) is in _redirects.
-import { legacyRedirect } from "./legacy-redirects.js";
+import { legacyRedirect, noPageRedirect } from "./legacy-redirects.js";
 import { scheduled } from "./cron.js";
 import PDF_CANONICAL from "../dist/cf/pdf-canonical.json";
 import DOWNLOAD_VERSIONS from "../dist/cf/download-versions.json";
 import NEWS_REDIRECTS from "../dist/cf/news-redirects.json";
+import CALENDAR_PAGES from "../dist/cf/calendar-canonical.json";
 
 const HTML_CACHE = "public, max-age=300, stale-while-revalidate=3600";
 const NEWS_CACHE = "public, max-age=300, stale-while-revalidate=600";
@@ -29,7 +32,10 @@ export default {
       if (path === "/api/contact" || path === "/api/contact.php") return await contact(request, env, ctx);
       if (path === "/api/pv") return await pageView(request, env);
       if (path.startsWith("/news/downloads/")) return await download(request, env, path, ctx);
-      const target = legacyRedirect(path, url.search);
+      if (path.startsWith("/assets/")) {
+        return /\.pdf$/i.test(path) ? await download(request, env, path, ctx) : Response.redirect(`${CDN_ORIGIN}${path}${url.search}`, 301);
+      }
+      const target = legacyRedirect(path, url.search) ?? noPageRedirect(path, url.search) ?? (await newsRedirect(request, env, path));
       if (target) return Response.redirect(target, 301);
       return await notFound(request, env, path);
     } catch (err) {
@@ -49,6 +55,47 @@ async function notFound(request, env, path) {
   return new Response(request.method === "HEAD" ? null : page.body, { status: 404, headers });
 }
 
+const MONTH_NAMES = "january|february|march|april|may|june|july|august|september|october|november|december";
+const STUDIO_MONTH = new RegExp(`^/assets/(?:studio/([0-9]{4})/(${MONTH_NAMES})|([0-9]{4})/monthly/(${MONTH_NAMES}))/`);
+const YEAR_SHEET = /^\/assets\/(?:studio\/yearly\/([0-9]{4})|([0-9]{4})\/yearly)\//;
+const SITE = "https://freshcalendars.com";
+const CDN_ORIGIN = "https://cdn.freshcalendars.com";
+
+/**
+ * The page a PDF belongs to. News printables come from the build's map; an ink-saver or A4 copy the
+ * map does not list takes the page of the sheet it is a copy of. Calendar sheets name the page of
+ * their month or year: the canonical that page itself declares (calendar-canonical.json, read from
+ * the built pages), so a PDF never points at a page that points somewhere else.
+ */
+export function pdfCanonical(path) {
+  if (path.startsWith("/news/")) return PDF_CANONICAL[path] ?? PDF_CANONICAL[path.replace(/(?:-ink|-a4)+\.pdf$/, ".pdf")] ?? null;
+  const month = STUDIO_MONTH.exec(path);
+  if (month) {
+    const year = month[1] ?? month[3], name = month[2] ?? month[4];
+    return CALENDAR_PAGES[`${name}-${year}`] ?? `${SITE}/${name}-calendars.html`;
+  }
+  const year = YEAR_SHEET.exec(path);
+  if (year) return CALENDAR_PAGES[year[1] ?? year[2]] ?? `${SITE}/printable-calendars.html`;
+  if (path.startsWith("/assets/blank/yearly/")) return `${SITE}/printable-blank-yearly-calendar.html`;
+  if (path.startsWith("/assets/blank/")) return `${SITE}/blank-calendars.html`;
+  if (path.startsWith("/assets/weekly/")) return `${SITE}/printable-weekly-calendar.html`;
+  if (path.startsWith("/assets/school/")) return `${SITE}/printable-school-calendar.html`;
+  return null;
+}
+
+/**
+ * Two wrong addresses that have a right one under /news/: a story linked without its /news/ prefix,
+ * and the calendar file of a story that has no key dates any more or was renamed (its page is the
+ * answer, and a renamed story's page redirects on from there).
+ */
+async function newsRedirect(request, env, path) {
+  const slug = (/^\/news\/([a-z0-9-]+)\/dates\.ics$/.exec(path) ?? /^\/([a-z0-9]+(?:-[a-z0-9]+){2,})\/?$/.exec(path))?.[1];
+  if (!slug) return null;
+  // The asset router answers 200 for a live story and 301 for a renamed one; anything else is a real 404.
+  const page = await env.ASSETS.fetch(new Request(new URL(`/news/${slug}/`, request.url), { redirect: "manual" }));
+  return page.status < 400 ? `${SITE}/news/${slug}/` : null;
+}
+
 /** Response headers for a printable: type and validators from R2, our cache policy, the story canonical. */
 function downloadHeaders(object, path) {
   const headers = new Headers();
@@ -58,7 +105,7 @@ function downloadHeaders(object, path) {
   headers.set("Accept-Ranges", "bytes");
   headers.set("Cache-Control", DOWNLOAD_CACHE);
   headers.set("CDN-Cache-Control", "public, max-age=2592000");
-  const canonical = PDF_CANONICAL[path];
+  const canonical = pdfCanonical(path);
   if (canonical) headers.set("Link", `<${canonical}>; rel="canonical"`);
   return headers;
 }

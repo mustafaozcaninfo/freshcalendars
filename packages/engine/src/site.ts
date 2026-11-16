@@ -12,5 +12,8 @@ export function cdnUrl(path: string): string {
   if (!path) return cdnOrigin();
   if (path.startsWith("http://") || path.startsWith("https://")) return path;
   const p = path.startsWith("/") ? path : `/${path}`;
+  // PDFs stay on the site's own host: the Worker serves them from the same bucket with a Link
+  // canonical to their page, which the CDN host cannot send (cloudflare/worker.js calendarAsset).
+  if (/\.pdf$/i.test(p)) return `${SITE_ORIGIN}${p}`;
   return `${cdnOrigin()}${p}`;
 }

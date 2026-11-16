@@ -13,6 +13,7 @@ await mkdir(CF, { recursive: true });
 const keep = async (f, v) => { await readFile(path.join(CF, f)).catch(() => writeFile(path.join(CF, f), v)); };
 await keep("pdf-canonical.json", JSON.stringify({ [PDF]: "https://freshcalendars.com/news/story/" }));
 await keep("news-redirects.json", "{}");
+await keep("calendar-canonical.json", JSON.stringify({ "november-2026": "https://freshcalendars.com/november-calendars.html", "march-2029": "https://freshcalendars.com/march-2029-calendar/", "2028": "https://freshcalendars.com/2028-calendar/" }));
 await writeFile(path.join(CF, "download-versions.json"), JSON.stringify({ [PDF]: "abc123" }));
 
 /** Fake edge cache: a Map from URL to a stored Response. */
@@ -30,7 +31,9 @@ const object = (withBody, range) => ({
   writeHttpMetadata: (h) => h.set("Content-Type", "application/pdf"),
   ...(withBody ? { body: new Response(range ? body.slice(range.offset, range.offset + range.length) : body).body } : {}),
 });
-const env = { CDN: {
+/** Fake asset router: one live story, one renamed story (301 from _redirects), nothing else. */
+const ASSETS = { fetch: async (req) => { const p = new URL(req.url ?? req).pathname; if (p.endsWith("/404.html")) return new Response("not found page"); return new Response(null, { status: p === "/news/live-story-here/" ? 200 : p === "/news/renamed-story-here/" ? 301 : 404 }); } };
+const env = { ASSETS, CDN: {
   get: async (key, opts) => { calls.push(["get", key, !!opts?.range]); return key.endsWith("missing.pdf") ? null : object(true, opts?.range && opts.range.get?.("Range") ? { offset: 0, length: 4 } : undefined); },
   head: async (key) => { calls.push(["head", key]); return object(false); },
 } };
@@ -101,4 +104,52 @@ test("page-view beacon writes one data point for a same-origin view and ignores 
   assert.equal(points.length, 1);
   // No binding (local runs, or before the first deploy): still 204, nothing written.
   assert.equal((await worker.fetch(new Request("https://freshcalendars.com/api/pv", { method: "POST", body: "{}" }), env, ctx)).status, 204);
+});
+
+test("a calendar PDF is served from R2 with its page as canonical; other calendar files go to the CDN host", async () => {
+  const { pdfCanonical } = await import("./worker.js");
+  const cal = JSON.parse(await readFile(path.join(CF, "calendar-canonical.json"), "utf8"));
+  const month = Object.keys(cal).find((k) => /^[a-z]+-\d{4}$/.test(k)), [name, year] = month.split("-");
+  calls.length = 0;
+  const r = await get(`/assets/studio/${year}/${name}/scenic/letter-sunday.pdf`);
+  assert.equal(r.status, 200);
+  assert.equal(r.headers.get("Link"), `<${cal[month]}>; rel="canonical"`);
+  assert.equal(calls[0][1], `assets/studio/${year}/${name}/scenic/letter-sunday.pdf`, "read from the bucket under the same path");
+  // A month with no page of its own (an old year) names the page that always shows that month.
+  assert.equal(pdfCanonical("/assets/studio/2019/may/floral/a4-monday.pdf"), "https://freshcalendars.com/may-calendars.html");
+  assert.equal(pdfCanonical(`/assets/${year}/monthly/${name}/holidays/calendar.pdf`), cal[month]);
+  assert.equal(pdfCanonical("/assets/1999/yearly/classic/calendar.pdf"), "https://freshcalendars.com/printable-calendars.html");
+  assert.equal(pdfCanonical("/assets/weekly/hourly/calendar-a4.pdf"), "https://freshcalendars.com/printable-weekly-calendar.html");
+  assert.equal(pdfCanonical("/assets/blank/yearly/classic/calendar.pdf"), "https://freshcalendars.com/printable-blank-yearly-calendar.html");
+  assert.equal(pdfCanonical("/assets/blank/kids/calendar.pdf"), "https://freshcalendars.com/blank-calendars.html");
+  assert.equal(pdfCanonical("/assets/school/2026-2027/overview/calendar.pdf"), "https://freshcalendars.com/printable-school-calendar.html");
+  const png = await get("/assets/studio/2026/november/scenic/letter-sunday.png?x=1");
+  assert.equal(png.status, 301);
+  assert.equal(png.headers.get("Location"), "https://cdn.freshcalendars.com/assets/studio/2026/november/scenic/letter-sunday.png?x=1");
+});
+
+test("an ink-saver copy of a news printable takes the canonical of the sheet it copies", async () => {
+  const { pdfCanonical } = await import("./worker.js");
+  const map = JSON.parse(await readFile(path.join(CF, "pdf-canonical.json"), "utf8"));
+  const listed = Object.keys(map).find((k) => !/-(ink|a4)\.pdf$/.test(k) && !map[k.replace(/\.pdf$/, "-ink.pdf")]);
+  assert.equal(pdfCanonical(listed.replace(/\.pdf$/, "-ink.pdf")), map[listed]);
+  assert.equal(pdfCanonical(listed.replace(/\.pdf$/, "-a4-ink.pdf")), map[listed]);
+  assert.equal(pdfCanonical("/news/downloads/none/never-listed.pdf"), null);
+});
+
+test("old addresses with no page are redirected; unknown ones stay 404", async () => {
+  const loc = async (p) => { const r = await get(p); return [r.status, r.headers.get("Location")]; };
+  assert.deepEqual(await loc("/january-2018-calendar"), [301, "https://freshcalendars.com/january-calendars.html"]);
+  assert.deepEqual(await loc("/2017-calendar/"), [301, "https://freshcalendars.com/printable-calendars.html"]);
+  assert.deepEqual(await loc("/blank-calendar"), [301, "https://freshcalendars.com/blank-calendars.html"]);
+  assert.deepEqual(await loc("/printable-monthly-calendar.html"), [301, "https://freshcalendars.com/monthly-calendars/"]);
+  assert.deepEqual(await loc("/download/monthly/2018/november/November-2018-Calendar-Printable-Red"), [301, "https://freshcalendars.com/november-calendars.html"]);
+  assert.deepEqual(await loc("/calendar/pdf/monthly/2017/december/Vertical-December-2017.pdf"), [301, "https://freshcalendars.com/december-calendars.html"]);
+  assert.deepEqual(await loc("/download/blank/31-days-blank-calendar-template-bold"), [301, "https://freshcalendars.com/blank-calendars.html"]);
+  // A story linked without /news/, and the calendar file of a live or a renamed story.
+  assert.deepEqual(await loc("/live-story-here/"), [301, "https://freshcalendars.com/news/live-story-here/"]);
+  assert.deepEqual(await loc("/news/live-story-here/dates.ics"), [301, "https://freshcalendars.com/news/live-story-here/"]);
+  assert.deepEqual(await loc("/news/renamed-story-here/dates.ics"), [301, "https://freshcalendars.com/news/renamed-story-here/"]);
+  assert.equal((await get("/no-such-story-anywhere/")).status, 404);
+  assert.equal((await get("/news/no-such-story-anywhere/dates.ics")).status, 404);
 });
