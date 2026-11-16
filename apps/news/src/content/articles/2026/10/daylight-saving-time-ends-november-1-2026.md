@@ -72,7 +72,7 @@ internalLinks:
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
 draft: false
-related: [smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist, daylight-saving-time-halloween-2026-clocks-fall-back-night-after-every-year, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
+related: [smoke-alarm-check-daylight-saving-time-ends-november-1-2026-checklist, us-time-zones-winter-2026-27-hawaii-alaska-puerto-rico-guam-time-difference, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
 ---
 
 Daylight saving time ended at **2:00 a.m. local time on Sunday, Nov. 1, 2026**, when clocks in most of the United States moved back one hour to 1:00 a.m. The change went ahead even though the House of Representatives voted in July to make daylight saving time permanent: that bill, the Sunshine Protection Act, is still waiting for the Senate. Standard time now runs until Sunday, March 14, 2027.
