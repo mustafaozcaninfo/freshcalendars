@@ -1,0 +1,149 @@
+{
+ "publicationDate": "2026-11-16",
+ "constructors": [
+  "Joel Fagliano"
+ ],
+ "width": 5,
+ "height": 5,
+ "cells": [
+  "A",
+  "H",
+  "A",
+  null,
+  null,
+  "C",
+  "A",
+  "G",
+  "E",
+  "S",
+  "D",
+  "I",
+  "R",
+  "T",
+  "Y",
+  "C",
+  "L",
+  "E",
+  "A",
+  "N",
+  null,
+  null,
+  "E",
+  "S",
+  "C"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Puzzle solver's cry of delight",
+   "cells": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "4",
+   "text": "Batting practice enclosures",
+   "cells": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "Like dishes in the sink",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "Opposite of 7-Across",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "Upper-left keyboard key",
+   "cells": [
+    22,
+    23,
+    24
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Rock band with an \"electric\" name",
+   "cells": [
+    0,
+    5,
+    10,
+    15
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Frozen rain",
+   "cells": [
+    1,
+    6,
+    11,
+    16
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "What a subject and verb must do",
+   "cells": [
+    2,
+    7,
+    12,
+    17,
+    22
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Figs. that rise in traffic jams",
+   "cells": [
+    8,
+    13,
+    18,
+    23
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Make sure everyone is on the same page, with \"up\"",
+   "cells": [
+    9,
+    14,
+    19,
+    24
+   ]
+  }
+ ]
+}
