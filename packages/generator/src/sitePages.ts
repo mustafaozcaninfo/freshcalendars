@@ -347,7 +347,7 @@ const LIGHTBOX_JS = `
   var previousFocus=null, previousOverflow='';
   function open(src,alt){
     previousFocus=document.activeElement; previousOverflow=document.documentElement.style.overflow;
-    img.src=src; img.alt=alt||''; img.title=alt||'';
+    img.src=src; img.alt=alt||'Enlarged calendar preview'; img.title=alt||'Enlarged calendar preview';
     box.classList.add('is-open'); box.setAttribute('aria-hidden','false');
     document.documentElement.style.overflow='hidden';
     if(!box.open) box.showModal();
@@ -530,7 +530,7 @@ ${volatile(newsStripHtml(new URL(meta.canonical).pathname))}
 ${siteFooterHtml(today, { news: NEWS_LAUNCHED })}
 <dialog id="lightbox" class="lightbox" aria-hidden="true" aria-label="Enlarged calendar preview">
   <button type="button" class="lightbox-close" aria-label="Close preview">Close</button>
-  <img alt="" title="" />
+  <img alt="Enlarged calendar preview" title="Enlarged calendar preview" />
 </dialog>
 <script>${NAV_JS}</script>
 <script>${TODAY_JS}${DAYS_UNTIL_JS}</script>
@@ -728,7 +728,7 @@ function variantGallery(
 <article class="gallery-item" id="template-${esc(v.id)}">
   <div class="gallery-visual">
     ${poster
-      ? `<a href="${esc(v.png)}" title="${esc(posterAlt)}" class="zoomable img-link" data-lightbox-src="${esc(v.png)}" data-lightbox-alt="${esc(posterAlt)}" data-lightbox-w="${landscape ? 1600 : 1100}" data-lightbox-h="${landscape ? 1236 : 1420}"><img src="${poster.full}" srcset="${poster.srcset}" sizes="(max-width:640px) 92vw, 220px" alt="${esc(posterAlt)}" width="${poster.width}" height="${poster.height}" loading="lazy" decoding="async" /></a>`
+      ? `<a href="${esc(v.png)}" title="${esc(posterAlt)}" class="zoomable img-link" data-lightbox-src="${esc(v.png)}" data-lightbox-alt="${esc(posterAlt)}" data-lightbox-w="${landscape ? 1600 : 1100}" data-lightbox-h="${landscape ? 1236 : 1420}"><img src="${poster.full}" srcset="${poster.srcset}" sizes="(max-width:640px) 92vw, 220px" alt="${esc(posterAlt)}" title="${esc(posterAlt)}" width="${poster.width}" height="${poster.height}" loading="lazy" decoding="async" /></a>`
       : imgTag({
       src: v.png,
       alt,
@@ -775,7 +775,7 @@ function nextYearMonth(m: number, y: number): string {
 <section class="section next-year-month">
   <h2>${name} ${ny} calendar</h2>
   <article class="ny-card">
-    <div><a class="img-link" href="${monthYearPath(ny, m)}" title="${name} ${ny} printable calendar"><img src="${f.preview}" alt="${name} ${ny} printable calendar, Classic design, Sunday start" width="540" height="697" loading="lazy" decoding="async"></a></div>
+    <div><a class="img-link" href="${monthYearPath(ny, m)}" title="${name} ${ny} printable calendar"><img src="${f.preview}" alt="${name} ${ny} printable calendar, Classic design, Sunday start" title="${name} ${ny} printable calendar, Classic design" width="540" height="697" loading="lazy" decoding="async"></a></div>
     <div>
       <h3>${name} ${ny} printable calendar</h3>
       <p>Planning a year ahead? ${name} ${ny} starts on a ${start} and has ${days} days. The same eight designs are ready for ${ny}.</p>
@@ -804,7 +804,7 @@ function printRow(heading: string, cards: PrintCard[]): string {
   <h2>${esc(heading)}</h2>
   <ul>${cards
     .map(
-      (c) => `<li><a class="pr-thumb" href="${esc(c.href)}" title="${esc(c.title)}"><img src="${esc(c.img)}" alt="${esc(c.alt)}" width="${c.landscape ? 540 : 360}" height="${c.landscape ? 371 : 466}" loading="lazy" decoding="async"></a><h3><a href="${esc(c.href)}">${esc(c.title)}</a></h3><a class="btn btn-ghost btn-sm" href="${esc(c.pdf)}" download>Download PDF</a></li>`,
+      (c) => `<li><a class="pr-thumb" href="${esc(c.href)}" title="${esc(c.title)}"><img src="${esc(c.img)}" alt="${esc(c.alt)}" title="${esc(c.alt)}" width="${c.landscape ? 540 : 360}" height="${c.landscape ? 371 : 466}" loading="lazy" decoding="async"></a><h3><a href="${esc(c.href)}">${esc(c.title)}</a></h3><a class="btn btn-ghost btn-sm" href="${esc(c.pdf)}" download>Download PDF</a></li>`,
     )
     .join("")}</ul>
 </section>`;
@@ -847,7 +847,7 @@ function holidayMonthBlock(h: { name: string; year: number; month: number; day: 
     <tbody>${rows}</tbody>
   </table>
   <div class="hm-print">
-    <a href="${card.href}" title="Printable ${name} ${h.year} calendar"><img src="${card.img}" alt="${us ? `${name} ${h.year} printable calendar with ${esc(h.name)} and US holidays marked` : `${name} ${h.year} printable calendar for ${esc(h.name)}`}" width="360" height="466" loading="lazy" decoding="async"></a>
+    <a href="${card.href}" title="Printable ${name} ${h.year} calendar"><img src="${card.img}" alt="${us ? `${name} ${h.year} printable calendar with ${esc(h.name)} and US holidays marked` : `${name} ${h.year} printable calendar for ${esc(h.name)}`}" title="${name} ${h.year} printable calendar" width="360" height="466" loading="lazy" decoding="async"></a>
     <div><p><strong>Print ${name} ${h.year}</strong>${us ? " with holidays marked," : ""} on Letter or A4.</p><div class="cta"><a class="btn btn-primary btn-sm" href="${card.pdf}" download>Download PDF</a><a class="btn btn-ghost btn-sm" href="${card.href}">All 7 designs</a></div></div>
   </div>
 </div>`;

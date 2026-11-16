@@ -91,7 +91,7 @@ const utcNoon = (iso: string) => new Date(`${iso}T12:00:00Z`);
 
 function homeCard(s: HomeStory): string {
   const when = new Date(s.publishedAt).toLocaleDateString("en-US", { timeZone: ET, month: "short", day: "numeric", year: "numeric" });
-  return `<li><a class="hn-card" href="${esc(s.url)}"><img src="${esc(s.img)}" alt="" width="480" height="270" loading="lazy" decoding="async"><span class="hn-cat">${esc(s.catName)}</span><span class="hn-title">${esc(s.title)}</span><time datetime="${esc(s.publishedAt)}">${when}</time></a></li>`;
+  return `<li><a class="hn-card" href="${esc(s.url)}"><img src="${esc(s.img)}" alt="${esc(s.title)}" title="${esc(s.title)}" width="480" height="270" loading="lazy" decoding="async"><span class="hn-cat">${esc(s.catName)}</span><span class="hn-title">${esc(s.title)}</span><time datetime="${esc(s.publishedAt)}">${when}</time></a></li>`;
 }
 
 function homeDate(k: HomeDate, today: string): string {
@@ -112,7 +112,7 @@ function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null
 function days(d){return Math.round((Date.parse(d+'T00:00:00Z')-Date.parse(today+'T00:00:00Z'))/864e5)}
 function inDays(n){return n===0?'Today':n===1?'Tomorrow':'In '+n+' days'}
 function tick(){s.querySelectorAll('[data-days-until]').forEach(function(x){var n=days(x.getAttribute('data-days-until'));if(n<0)x.closest('li').remove();else x.textContent=inDays(n)})}
-function card(st){var li=el('li'),a=el('a','hn-card'),i=new Image(480,270);a.href=st.url;i.src=st.img;i.alt='';i.loading='lazy';i.decoding='async';a.append(i,el('span','hn-cat',st.catName),el('span','hn-title',st.title));var t=el('time',null,new Date(st.publishedAt).toLocaleDateString('en-US',{timeZone:ET,month:'short',day:'numeric',year:'numeric'}));t.dateTime=st.publishedAt;a.append(t);li.append(a);return li}
+function card(st){var li=el('li'),a=el('a','hn-card'),i=new Image(480,270);a.href=st.url;i.src=st.img;i.alt=st.title;i.title=st.title;i.loading='lazy';i.decoding='async';a.append(i,el('span','hn-cat',st.catName),el('span','hn-title',st.title));var t=el('time',null,new Date(st.publishedAt).toLocaleDateString('en-US',{timeZone:ET,month:'short',day:'numeric',year:'numeric'}));t.dateTime=st.publishedAt;a.append(t);li.append(a);return li}
 function row(k){var li=el('li'),a=el('a'),d=new Date(k.date+'T12:00:00Z'),dd=el('span','hn-d'),n=el('span','hn-in',inDays(days(k.date)));a.href=k.url;dd.append(el('b',null,d.toLocaleDateString('en-US',{timeZone:'UTC',month:'short',day:'numeric'})),d.toLocaleDateString('en-US',{timeZone:'UTC',weekday:'short'}));n.setAttribute('data-days-until',k.date);a.append(dd,el('span','hn-w',k.label),n);li.append(a);return li}
 tick();
 fetch('/news/home.json',{cache:'no-cache'}).then(function(r){return r.ok?r.json():null}).then(function(d){

@@ -474,6 +474,11 @@ export async function verifyDist(): Promise<void> {
       // Image search data must describe pictures that exist and that the page itself shows: the
       // ImageObject data and the image sitemap once named files no <img> on the page used.
       const pageHtml = await fs.readFile(htmlPath.endsWith(".html") ? htmlPath : path.join(htmlPath, "index.html"), "utf8");
+      // Every picture carries a real alt and a title (house rule; imgTag does it, hand-written tags must too).
+      for (const [tag] of pageHtml.replace(/<script[\s\S]*?<\/script>/g, "").matchAll(/<img\b[^>]*>/g)) {
+        const alt = /\salt="([^"]*)"/.exec(tag)?.[1]?.trim() ?? "", title = /\stitle="([^"]*)"/.exec(tag)?.[1]?.trim() ?? "";
+        if (alt.length < 8 || title.length < 8) errors.push(`${p.pageId}: image without ${alt.length < 8 ? "alt" : "title"} text: ${tag.slice(0, 120)}`);
+      }
       for (const img of meta.searchImages ?? []) {
         const rel = new URL(img.url).pathname;
         for (const file of [rel, ...SEARCH_IMAGE_WIDTHS.map((w) => rel.replace(/\.webp$/, `-${w}.webp`))]) {
