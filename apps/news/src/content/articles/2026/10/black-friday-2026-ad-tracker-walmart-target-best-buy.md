@@ -3,7 +3,7 @@ title: "Black Friday Ads 2026: Date Is Nov. 27, Walmart Deals Nov. 23-29"
 description: "Black Friday 2026 is Friday, Nov. 27. Ad tracker with Walmart, Target, Best Buy, JCPenney and Kohl's sale dates, Costco prices and a live countdown."
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
-updatedAt: "2026-11-13T21:29:00-05:00"
+updatedAt: "2026-11-17T11:25:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
@@ -28,17 +28,19 @@ assets:
       - ["Thu., Nov. 12 to Sun., Nov. 15", "Walmart Early Black Friday Deals"]
       - ["Mon., Nov. 16", "Lowe's 12 Days of Deals begin"]
       - ["Mon., Nov. 16 to Thu., Nov. 19", "JCPenney Holiday Daily Deals"]
-      - ["Thu., Nov. 19", "Best Buy Black Friday deals begin (10 days)"]
+      - ["Thu., Nov. 19", "Best Buy Black Friday Sale begins (10 days)"]
       - ["Fri., Nov. 20 to Sun., Nov. 29", "JCPenney Black Friday Deals"]
       - ["Sun., Nov. 22 to Sat., Nov. 28", "Kohl's Black Friday Week"]
+      - ["Sun., Nov. 22 to Sun., Nov. 29", "Target Black Friday sales event, up to 50% off"]
       - ["Mon., Nov. 23 to Sun., Nov. 29", "Walmart Black Friday Deals"]
+      - ["Wed., Nov. 25", "Target Circle 360 members' early access, 2 a.m. CT"]
       - ["Thu., Nov. 19 to Mon., Nov. 30", "Amazon Black Friday Week and Cyber Monday deals"]
-      - ["Thu., Nov. 26", "Thanksgiving; Walmart, Home Depot and Kohl's stores closed"]
-      - ["Fri., Nov. 27", "Black Friday"]
+      - ["Thu., Nov. 26", "Thanksgiving; Target, Walmart, Home Depot and Kohl's stores closed"]
+      - ["Fri., Nov. 27", "Black Friday; Target and Best Buy stores open 6 a.m."]
       - ["Sat., Nov. 28", "Small Business Saturday"]
       - ["Sun., Nov. 29 to Mon., Nov. 30", "Kohl's Cyber Deals"]
       - ["Mon., Nov. 30", "Cyber Monday; Walmart Cyber Monday deals through Dec. 2"]
-    note: "Source: Target, Walmart, Best Buy, Lowe's, The Home Depot, Kohl's and JCPenney newsrooms, October and November 2026. Black Friday weekend dates computed from Thanksgiving, Thu., Nov. 26, 2026. Unannounced events not shown."
+    note: "Source: Target, Walmart, Best Buy, Lowe's, The Home Depot, Kohl's and JCPenney newsrooms, October and November 2026 (Target and Best Buy updated Nov. 17). Black Friday weekend dates computed from Thanksgiving, Thu., Nov. 26, 2026. Unannounced events not shown."
     inkSaver: true
     description: "One-page Black Friday 2026 deals calendar: Target early deals Nov. 5-7, Walmart events Nov. 12-15 and Nov. 23-29, Black Friday Nov. 27 and Cyber Monday Nov. 30."
     alt: "Printable November 2026 calendar marking Target and Walmart Black Friday deal dates, Black Friday and Cyber Monday"
@@ -55,8 +57,8 @@ hero:
     authorUrl: "https://www.flickr.com/people/44293847@N08"
 summary:
   - "Black Friday 2026 is Friday, Nov. 27. Thanksgiving is Thursday, Nov. 26, Small Business Saturday is Nov. 28 and Cyber Monday is Monday, Nov. 30."
-  - "Target has also set dates: Deal of the Day every day Nov. 1 to Dec. 24, Early Black Friday deals Nov. 5 to 7 and stores open at 6 a.m. local time on Nov. 27, 2026. Its Holiday Price Match Guarantee runs Nov. 1 to Dec. 24."
-  - "Walmart announced three events on Oct. 26: Early Black Friday Deals Nov. 12 to 15, Black Friday Deals Nov. 23 to 29 and Cyber Monday Nov. 30 to Dec. 2. Best Buy set its calendar on Oct. 27: doorbusters from Oct. 30, Black Friday deals from Nov. 19 and Cyber Week Dec. 1 to 6."
+  - "Target announced on Nov. 17 its Black Friday sales event Nov. 22 to 29 with up to 50% off thousands of gifts, early access for Target Circle 360 members on Nov. 25 and new deals Nov. 26 to 29. Stores reopen at 6 a.m. local time on Nov. 27, 2026. Deal of the Day runs Nov. 1 to Dec. 24."
+  - "Walmart announced three events on Oct. 26: Early Black Friday Deals Nov. 12 to 15, Black Friday Deals Nov. 23 to 29 and Cyber Monday Nov. 30 to Dec. 2. Best Buy confirmed on Nov. 17 that its Black Friday Sale begins Thursday, Nov. 19, with Doorbusters through Nov. 29, Cyber Monday deals through Nov. 30 and Cyber Week Dec. 1 to 6."
   - "Costco has published Black Friday 2026 television and electronics warehouse prices, valid Nov. 27 to 30, including a Sonos Arc Ultra soundbar bundle at $849.99; 79 of the 93 dated offers on its page on Nov. 13 are for those four days. Where a chain is silent, this tracker shows last year's dates labeled 2025."
 faq:
   - q: "What date is Black Friday 2026?"
@@ -66,9 +68,9 @@ faq:
   - q: "Has Walmart released its Black Friday 2026 ad?"
     a: "Yes. On Oct. 26, 2026, Walmart announced Early Black Friday Deals Nov. 12 to 15, Black Friday Deals Nov. 23 to 29 and Cyber Monday deals Nov. 30 to Dec. 2. Each starts online at 12:01 a.m. ET; the first two reach stores at 6 a.m. local time."
   - q: "What has Target announced for Black Friday 2026?"
-    a: "Target's holiday fact sheet, updated Nov. 5, 2026, lists a new Deal of the Day every day from Nov. 1 to Dec. 24 (you can preview the next day's deal one day in advance), Early Black Friday deals from Nov. 5 to 7, and stores open at 6 a.m. local time on Black Friday, Nov. 27. Target has not announced a dated Black Friday deal event or a Cyber Monday event."
+    a: "On Nov. 17, 2026, Target announced a Black Friday sales event from Nov. 22 to 29 with up to 50% off thousands of gifts. Target Circle 360 members get 24 hours of early access to select deals starting Wednesday, Nov. 25, and new Black Friday weekend deals drop Nov. 26 to 29. Stores are closed Thanksgiving, Nov. 26, and reopen at 6 a.m. local time on Nov. 27; the first 100 eligible guests at each store that day receive a Target GiftCard worth up to $1,000. Its Nov. 5 fact sheet lists a Deal of the Day every day from Nov. 1 to Dec. 24 and Early Black Friday deals Nov. 5 to 7. Target has not announced a Cyber Monday event."
   - q: "Are there official Black Friday 2026 TV prices yet?"
-    a: "Yes, from Costco. Its Black Friday page lists warehouse prices valid Nov. 27 to 30, 2026, including a Sonos Arc Ultra 9.1.4ch Soundbar Bundle at $849.99 after $250 off; pricing may vary by location and online. Best Buy has published its holiday calendar (doorbusters from Oct. 30, Black Friday deals from Nov. 19) but names no products or prices."
+    a: "Yes, from Costco. Its Black Friday page lists warehouse prices valid Nov. 27 to 30, 2026, including a Sonos Arc Ultra 9.1.4ch Soundbar Bundle at $849.99 after $250 off; pricing may vary by location and online. Best Buy has published its holiday calendar (doorbusters from Oct. 30, Black Friday Sale from Nov. 19) but names no televisions or prices; its one priced Black Friday offer is a $100 Best Buy Gift Card for $60 for My Best Buy members."
 sources:
   - title: "The Home Depot Kicks Off Black Friday Season With Unbeatable Value Across Tools, Home Upgrades, and Holiday Decor"
     url: "https://corporate.homedepot.com/news/products/home-depot-kicks-black-friday-season"
@@ -146,6 +148,14 @@ sources:
   - title: "Black Friday Deals"
     url: "https://www.ulta.com/blackfriday"
     publisher: "Ulta Beauty"
+  - title: "Target Announces Black Friday Deals and Giveaways to Help Families Save Big on Gifts They'll Love to Give"
+    url: "https://corporate.target.com/press/release/2026/11/target-announces-black-friday-deals-and-giveaways-to-help-families-save-big-on-gifts-they-ll-love-to"
+    publisher: "Target Corporation via PR Newswire"
+    date: "2026-11-17"
+  - title: "Best Buy's Black Friday sale begins Nov. 19"
+    url: "https://corporate.bestbuy.com/2026/black-friday-sale-deals/"
+    publisher: "Best Buy"
+    date: "2026-11-17"
   - title: "Dick's Sporting Goods, Inc. to Hire Over 11,000 Seasonal Teammates for the 2026 Holiday Shopping Season"
     url: "https://investors.dicks.com/news/press-releases/news-details/2026/DICKS-Sporting-Goods-Inc--to-Hire-Over-11000-Seasonal-Teammates-for-the-2026-Holiday-Shopping-Season/default.aspx"
     publisher: "Dick's Sporting Goods"
@@ -186,7 +196,7 @@ downloads:
 draft: false
 ---
 
-**Black Friday 2026 is Friday, Nov. 27, and Walmart has now set its deal dates: Black Friday Deals run Monday, Nov. 23, to Sunday, Nov. 29, after an Early Black Friday event Nov. 12 to 15, the company said on Oct. 26.** Target will run a Deal of the Day every day from Nov. 1 to Dec. 24 and Early Black Friday deals from Nov. 5 to 7, according to its Oct. 21 press release. Best Buy's holiday calendar starts its Black Friday deals on Nov. 19, and Costco has published Black Friday 2026 television and electronics warehouse prices. Below is a live countdown, a deals calendar, a status table for each retailer, what Walmart has and has not said, how to judge a deal, and a shopping-safety checklist from the Federal Trade Commission (FTC).
+**Black Friday 2026 is Friday, Nov. 27, and Walmart has now set its deal dates: Black Friday Deals run Monday, Nov. 23, to Sunday, Nov. 29, after an Early Black Friday event Nov. 12 to 15, the company said on Oct. 26.** Target said on Nov. 17 that its Black Friday sales event runs Nov. 22 to 29 with up to 50% off thousands of gifts, and Best Buy said the same day that its Black Friday Sale begins Thursday, Nov. 19. Costco has published Black Friday 2026 television and electronics warehouse prices. Below is a live countdown, a deals calendar, a status table for each retailer, what Walmart has and has not said, how to judge a deal, and a shopping-safety checklist from the Federal Trade Commission (FTC).
 
 On this page:
 
@@ -213,7 +223,7 @@ Ten retailers already have a sale running on Friday, Nov. 13, two weeks before B
 | No end date given | Lowe's Black Friday deals | Oct. 29 |
 | No end date given | BJ's Wholesale Club Early Black Friday deals, in clubs and online | Oct. 23 |
 
-Next to open: Lowe's 12 Days of Deals and JCPenney's Holiday Daily Deals on Monday, Nov. 16; Best Buy's 10 days of Black Friday deals and Amazon's Black Friday Week on Thursday, Nov. 19; then Walmart's main event on Monday, Nov. 23. Still without dates: Target's Black Friday and Cyber Monday events, Macy's, and the Black Friday and Cyber Monday events at BJ's.
+Next to open: Lowe's 12 Days of Deals and JCPenney's Holiday Daily Deals on Monday, Nov. 16; Best Buy's 10 days of Black Friday deals and Amazon's Black Friday Week on Thursday, Nov. 19; then Target's Black Friday sales event on Sunday, Nov. 22 and Walmart's main event on Monday, Nov. 23. Still without dates: Target's Cyber Monday event, Macy's, and the Black Friday and Cyber Monday events at BJ's.
 
 ## Countdown to Black Friday 2026
 
@@ -249,15 +259,17 @@ These are the dated events retailers have announced so far. Unconfirmed sales ar
 | Nov. 13 to 15 | Fri. to Sun. | JCPenney Really Big Deals | - |
 | Nov. 16 | Monday | Lowe's 12 Days of Deals begin | - |
 | Nov. 16 to 19 | Mon. to Thu. | JCPenney Holiday Daily Deals | - |
-| Nov. 19 | Thursday | Best Buy starts 10 days of Black Friday doorbusters and deals | - |
+| Nov. 19 | Thursday | Best Buy Black Friday Sale begins: 10 days of Doorbusters and deals | - |
 | Nov. 19 to 30 | Thu. to Mon. | Amazon Black Friday Week and Cyber Monday deals, from 3:01 a.m. ET on Nov. 19 (drops at 12 a.m. and 8 a.m. PT on Nov. 27 and Nov. 30) | - |
 | Nov. 20 to 29 | Fri. to Sun. | JCPenney Black Friday Deals | - |
 | Nov. 21 to 28 | Sat. to Sat. | Ulta Beauty Black Friday: online from 9 p.m. ET on Nov. 21, in stores Nov. 22 to 28 | - |
 | Nov. 22 to 28 | Sun. to Sat. | Kohl's Black Friday Week | - |
 | Nov. 22 to Dec. 5 | Sun. to Sat. | Dick's Sporting Goods holiday deals | - |
+| Nov. 22 to 29 | Sun. to Sun. | Target Black Friday sales event, up to 50% off thousands of gifts | - |
 | Nov. 23 to 29 | Mon. to Sun. | Walmart Black Friday Deals | - |
-| Nov. 26 | Thursday | Thanksgiving; Walmart, Best Buy, Home Depot, Kohl's and Dick's stores closed | - |
-| Nov. 27 | Friday | Black Friday; Lowe's Doorbusters; Costco holiday savings begin (through Nov. 30) | - |
+| Nov. 25 | Wednesday | Target Circle 360 members get 24 hours of early access to select deals, from 2 a.m. CT | - |
+| Nov. 26 | Thursday | Thanksgiving; Target, Walmart, Best Buy, Home Depot, Kohl's and Dick's stores closed; Target's new Black Friday weekend deals drop Nov. 26 to 29 | - |
+| Nov. 27 | Friday | Black Friday; Target stores reopen 6 a.m. (first 100 guests per store get a GiftCard, Deal of the Day 50% off pajamas); Best Buy stores open 6 a.m. with an in-store $100 gift card for $60 for My Best Buy members; Lowe's Doorbusters; Costco holiday savings begin (through Nov. 30) | - |
 | Nov. 28 | Saturday | Small Business Saturday | - |
 | Nov. 29 to 30 | Sun. to Mon. | Kohl's Cyber Deals | - |
 | Nov. 29 to Dec. 1 | Sun. to Tue. | Ulta Beauty Cyber Monday, online only (1 a.m. ET Nov. 29 to 3 a.m. ET Dec. 1) | - |
@@ -265,15 +277,15 @@ These are the dated events retailers have announced so far. Unconfirmed sales ar
 | Dec. 1 to 6 | Tue. to Sun. | Best Buy Cyber Week Deals | - |
 | Dec. 11 to 13 | Fri. to Sun. | JCPenney Really Big Deals | - |
 
-Amazon's Black Friday Week and Cyber Monday events run Nov. 19 to 30, 2026, starting at 12:01 a.m. Pacific Standard Time (PST) on Nov. 19, which is 3:01 a.m. ET, according to Amazon's Black Friday questions page (updated Nov. 10), with deals dropping at midnight and 8 a.m. PT (3 a.m. and 11 a.m. ET) on both Nov. 27 and Nov. 30. Amazon held its Prime Big Deal Days on Oct. 6 and 7, 2026, and Target ran its Circle Deal Days on Oct. 6 and 7; both have passed. For store opening times on Black Friday morning, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/). You can mark every date on our [November 2026 printable calendar](/november-calendars.html).
+Amazon's Black Friday Week and Cyber Monday events run Nov. 19 to 30, 2026, starting at 12:01 a.m. Pacific Standard Time (PST) on Nov. 19, which is 3:01 a.m. ET, according to Amazon's Black Friday questions page (updated Nov. 10), with deals dropping at midnight and 8 a.m. PT (3 a.m. and 11 a.m. ET) on both Nov. 27 and Nov. 30. Amazon held its Prime Big Deal Days on Oct. 6 and 7, 2026, and Target ran its Circle Deal Days on Oct. 6 and 7; both have passed. Best Buy's Nov. 17 release adds that its Doorbusters end Nov. 29 at 11:59 p.m. CT, its Cyber Monday event ends Nov. 30 at 11:59 p.m. CT, and its stores open at 6 a.m. on Black Friday, when My Best Buy members can buy a $100 Best Buy Gift Card for $60 in store only (at least 50 per store). For store opening times on Black Friday morning, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/). You can mark every date on our [November 2026 printable calendar](/november-calendars.html).
 
 ## Retailer announcement status
 
 | Retailer | Black Friday 2026 status | Last year (2025) |
 |---|---|---|
-| Target | Fact sheet updated Nov. 5: Deal of the Day Nov. 1 to Dec. 24 (next day's deal previewed a day ahead); Early Black Friday deals Nov. 5 to 7; Holiday Price Match Guarantee Nov. 1 to Dec. 24; extended returns for purchases Nov. 1 to Dec. 24 (window begins Dec. 26); stores open 6 a.m. local time Nov. 27; store hours temporarily extended Nov. 29 through Dec. 23; no dated Black Friday deal event or Cyber Monday event yet | Holiday Price Match Guarantee Nov. 1 to Dec. 24, 2025 |
+| Target | Announced Nov. 17: Black Friday sales event Nov. 22 to 29 (up to 50% off thousands of gifts); Target Circle 360 early access from 2 a.m. CT on Nov. 25; new Black Friday weekend deals Nov. 26 to 29; stores closed Thanksgiving, reopen 6 a.m. local time Nov. 27; first 100 eligible guests at each store on Nov. 27 get a Target GiftCard (up to $1,000); Black Friday Deal of the Day 50% off pajamas (Nov. 27 only). Fact sheet updated Nov. 5: Deal of the Day Nov. 1 to Dec. 24 (next day's deal previewed a day ahead); Early Black Friday deals Nov. 5 to 7; Holiday Price Match Guarantee Nov. 1 to Dec. 24; extended returns for purchases Nov. 1 to Dec. 24 (window begins Dec. 26); store hours temporarily extended Nov. 29 through Dec. 23; Cyber Monday event not announced | Holiday Price Match Guarantee Nov. 1 to Dec. 24, 2025 |
 | Walmart | Announced Oct. 26: Early Black Friday Deals Nov. 12 to 15; Black Friday Deals Nov. 23 to 29; Cyber Monday Nov. 30 to Dec. 2 | Announced Oct. 27, 2025: events Nov. 14 to 16 and Nov. 25 to 30, Cyber Monday Dec. 1 |
-| Best Buy | Announced Oct. 27: DoorBOOsters Oct. 30; Early Black Friday Deals from Nov. 6; Black Friday deals from Nov. 19 (10 days); Cyber Week Dec. 1 to 6; Last-Minute Savings Dec. 18 to 24; stores closed Thanksgiving Day; Holiday Price Match Guarantee (limitations apply, excludes Marketplace products); most purchases from Oct. 30 to Dec. 31 returnable through Jan. 15, 2027 (Jan. 31, 2027 for Plus and Total members); double rewards Nov. 19 to Dec. 6 for My Best Buy Plus and Total members | Not confirmed here |
+| Best Buy | Announced Oct. 27: DoorBOOsters Oct. 30; Early Black Friday Deals from Nov. 6; Cyber Week Dec. 1 to 6. Confirmed Nov. 17: Black Friday Sale begins Nov. 19 (10 days), Doorbusters end Nov. 29 at 11:59 p.m. CT, Cyber Monday event ends Nov. 30 at 11:59 p.m. CT; on Black Friday, Nov. 27, stores open 6 a.m. and My Best Buy members can buy a $100 Best Buy Gift Card for $60 in store only (at least 50 per store); Last-Minute Savings Dec. 18 to 24; stores closed Thanksgiving Day; Holiday Price Match Guarantee (limitations apply, excludes Marketplace products); most purchases from Oct. 30 to Dec. 31 returnable through Jan. 15, 2027 (Jan. 31, 2027 for Plus and Total members); double rewards Nov. 19 to Dec. 6 for My Best Buy Plus and Total members | Not confirmed here |
 | Amazon | Announced Nov. 9: Black Friday Week and Cyber Monday deal events "return November 19-30"; Black Friday Week starts Thursday, Nov. 19; deals "will drop twice on both Black Friday and Cyber Monday at midnight and 8 a.m. PT" (3 a.m. and 11 a.m. ET on Nov. 27 and Nov. 30); savings up to 60% off. Prime Big Deal Days were held Oct. 6 to 7, 2026 | - |
 | Costco | Savings valid Oct. 30 to Nov. 30, 2026 (item windows vary: on Nov. 12 the page showed some items valid Oct. 19 to Nov. 15, others from Oct. 26, Oct. 31, Nov. 16, 19 or 20 through Nov. 30, and most Nov. 27 to 30); holiday savings valid Nov. 27 to 30; warehouses closed Nov. 26 ([our Costco guide](/news/costco-black-friday-2026-dates-november-27-30-pre-thanksgiving-savings-november-16/)) | Holiday savings Nov. 28 to Dec. 1, 2025 |
 | Home Depot | Holiday savings start Oct. 29; Black Friday Savings Event Nov. 5 to 25; stores closed Thanksgiving, open 6 a.m. Nov. 27 ([our Home Depot guide](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/)) | Not confirmed here |
@@ -303,7 +315,19 @@ In its Oct. 7 announcement, Walmart confirmed that its stores will be closed on 
 
 ## Target Black Friday 2026: the early deals
 
-Target has given the clearest calendar. Its holiday fact sheet, "2026 Holiday Shopping at Target: Answers to Guests' Most Frequently Asked Questions" (updated 6:00 a.m. Central Time, Nov. 5, 2026), says: "A new daily deal will be available every day from Nov. 1 through Dec. 24," and "New this year, you can preview the next day's featured Deal of the Day one day in advance." It also says: "You can take advantage of Early Black Friday deals from Nov. 5-7." Asked whether more deals are coming, the fact sheet answers: "Guests can look forward to limited-time offers most Thursdays through Saturdays throughout the holiday season, as well as sales for key moments like Black Friday and Cyber Monday." The Oct. 21 release named starting prices on holiday gifts: cashmere from $25, pajamas from $10, decor from $5, faux fur throws for $30, and gift ideas at $5 and under or $20 or less. Target has not announced a dated Black Friday deal event or a Cyber Monday plan for 2026. On Black Friday, Nov. 27, "Stores open at 6 a.m. local time and close at current closing time."
+Target announced its Black Friday plans on Nov. 17, 2026, in the release "Target Announces Black Friday Deals and Giveaways to Help Families Save Big on Gifts They'll Love to Give." It says the retailer's "Black Friday sales event Nov. 22–29" features "up to 50% off thousands of gifts." Cyber Monday is not in the release.
+
+| Date | What Target announced |
+|---|---|
+| Nov. 22 to 29 | Guests can save up to 50% on thousands of top gifts |
+| Wed., Nov. 25 | Target Circle 360 members, the paid membership tier, get 24 hours of early access to select deals, starting at 2 a.m. CT |
+| Thu., Nov. 26 | Thanksgiving: stores closed |
+| Nov. 26 to 29 | New Black Friday weekend deals drop |
+| Fri., Nov. 27 | Stores reopen at 6 a.m. local time; the first 100 eligible guests at each store receive a Target GiftCard worth up to $1,000; Black Friday Deal of the Day is 50% off pajamas, Nov. 27 only |
+
+Source: Target Corporation via PR Newswire, Nov. 17, 2026.
+
+Before that, Target's holiday fact sheet, "2026 Holiday Shopping at Target: Answers to Guests' Most Frequently Asked Questions" (updated 6:00 a.m. Central Time, Nov. 5, 2026), said: "A new daily deal will be available every day from Nov. 1 through Dec. 24," and "New this year, you can preview the next day's featured Deal of the Day one day in advance." It also said: "You can take advantage of Early Black Friday deals from Nov. 5-7." The Oct. 21 release named starting prices on holiday gifts: cashmere from $25, pajamas from $10, decor from $5, faux fur throws for $30, and gift ideas at $5 and under or $20 or less. On Black Friday, Nov. 27, the fact sheet says, "Stores open at 6 a.m. local time and close at current closing time."
 
 Target's Holiday Price Match Guarantee runs "Beginning Nov. 1 through Dec. 24," by matching Target's own prices if they go lower later in the season. For returns, the fact sheet says "we're giving you extra time to return purchases made between Nov. 1 and Dec. 24, 2026," and "The return window begins Dec. 26, 2026."
 
@@ -361,4 +385,4 @@ Black Friday opens a four-day stretch: Small Business Saturday is Nov. 28 and Cy
 
 ## Print the deals calendar
 
-Our free one-page printable marks every announced 2026 date on a November calendar: Target's early deals Nov. 5 to 7, Home Depot's event Nov. 5 to 25, Kohl's Early Access Nov. 6 to 8, Black Friday Nov. 27, Small Business Saturday Nov. 28 and Cyber Monday Nov. 30. There is a standard version and an ink-saver version for home printers.
+Our free one-page printable marks every announced 2026 date on a November calendar: Target's early deals Nov. 5 to 7 and Black Friday sales event Nov. 22 to 29, Home Depot's event Nov. 5 to 25, Kohl's Early Access Nov. 6 to 8, Black Friday Nov. 27, Small Business Saturday Nov. 28 and Cyber Monday Nov. 30. There is a standard version and an ink-saver version for home printers.
