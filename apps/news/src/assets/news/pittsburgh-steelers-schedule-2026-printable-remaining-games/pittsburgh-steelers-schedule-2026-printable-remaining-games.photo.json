@@ -16,5 +16,6 @@
   "original": "3000×2400",
   "output": "2400×1350",
   "cropped": true,
-  "credit": "Photo: Joshua J. Seybert of the US Air Force / Wikimedia Commons, cropped"
+  "credit": "Photo: Joshua J. Seybert of the US Air Force / Wikimedia Commons, cropped, edited",
+  "overlay": true
 }

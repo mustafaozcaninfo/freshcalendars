@@ -139,7 +139,7 @@ For context, the 2025 Christmas Day results, from NBA recaps, were the Knicks ov
 
 ## Which NFL games are on Christmas Day 2026?
 
-The NFL's Christmas Day tripleheader, per NFL.com's schedule release story, is Packers at Bears at Soldier Field, Bills at Broncos at Empower Field at Mile High and Rams at Seahawks at Lumen Field. Netflix lists the first two games on its 2026 NFL schedule page (Netflix Tudum, Sept. 11, 2026); the Rams at Seahawks game is on FOX.
+The NFL's Christmas Day tripleheader, per NFL.com's schedule release story, is Packers at Bears at Soldier Field, Bills at Broncos at Empower Field at Mile High and Rams at Seahawks at Lumen Field. Netflix lists the first two games on its 2026 NFL schedule page (Netflix Tudum, Sept. 11, 2026); the Rams at Seahawks game is on FOX. The rest of the Bears' remaining games are on our [Chicago Bears schedule page](/news/chicago-bears-schedule-2026-printable-remaining-games/).
 
 NFL.com describes the late game as a rematch of last season's National Football Conference (NFC) Championship Game.
 

@@ -132,4 +132,4 @@ The Falcons page said they faced the Bengals at Bernabéu Stadium in Madrid, Spa
 
 ## Printable watch guide for the Madrid game
 
-The one-page [free watch guide (PDF)](/news/downloads/bengals-falcons-madrid-2026/bengals-falcons-madrid-2026-watch-guide.pdf) lists the kickoff in Eastern, Central, Mountain and Pacific time, the channel and streaming, with room for notes.
+The one-page [free watch guide (PDF)](/news/downloads/bengals-falcons-madrid-2026/bengals-falcons-madrid-2026-watch-guide.pdf) lists the kickoff in Eastern, Central, Mountain and Pacific time, the channel and streaming, with room for notes. The rest of Cincinnati's season is in the [Bengals remaining-games schedule and printable](/news/cincinnati-bengals-schedule-2026-printable-remaining-games/).
