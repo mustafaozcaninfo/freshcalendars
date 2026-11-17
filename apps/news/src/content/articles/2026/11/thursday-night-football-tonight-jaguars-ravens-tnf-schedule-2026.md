@@ -92,7 +92,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [thursday-night-football-tonight-panthers-packers-tnf-schedule-2026, nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times, printable-nfl-schedule-2026-2027-pdf]
+related: [thursday-night-football-tonight-panthers-packers-tnf-schedule-2026, nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times, thursday-night-football-schedule-2026-remaining-games]
 downloads:
   - group: "Jaguars at Ravens Watch Guide printables"
     title: "Jaguars at Ravens Watch Guide, Nov. 5, 2026"

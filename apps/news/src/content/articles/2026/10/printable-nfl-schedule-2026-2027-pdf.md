@@ -91,7 +91,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [miami-dolphins-schedule-2026-remaining-games-times-tv-printable, detroit-lions-schedule-2026-printable-remaining-games, new-york-giants-schedule-2026-printable-remaining-games]
+related: [miami-dolphins-schedule-2026-remaining-games-times-tv-printable, detroit-lions-schedule-2026-printable-remaining-games, houston-texans-schedule-2026-printable-remaining-games]
 corrections:
   - date: "2026-10-23T09:55:00-04:00"
     text: "An earlier version said Week 18 matchups are set after Week 17. The matchups are fixed; only their days and kickoff times are set after Week 17. The one-page planner that carried the error has been replaced."
