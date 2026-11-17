@@ -44,7 +44,7 @@ internalLinks:
     label: "When is Memorial Day"
   - href: "/when-is/juneteenth/"
     label: "When is Juneteenth"
-related: [federal-holidays-2027-observed-dates-list, working-days-2027-business-days-by-month-federal-nyse, federal-reserve-holidays-2027-bank-closures]
+related: [federal-holidays-2027-observed-dates-list, working-days-2027-business-days-by-month-federal-nyse, july-4-2027-observed-monday-july-5-weekend-holidays]
 assets:
   overlay: true
   kicker: "Long weekends 2027"

@@ -1,0 +1,5 @@
+[
+  { "date": "2027-06-18", "label": "Juneteenth observed (June 19 is a Saturday): federal day off" },
+  { "date": "2027-07-05", "label": "Independence Day observed (July 4 is a Sunday): federal day off", "weight": 3 },
+  { "date": "2027-12-24", "label": "Christmas Day observed (Dec. 25 is a Saturday): federal day off" }
+]
