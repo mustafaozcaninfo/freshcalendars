@@ -17,5 +17,6 @@
   "original": "3840×2880",
   "output": "2400×1350",
   "cropped": true,
-  "credit": "Photo: TitiNicola / Wikimedia Commons, cropped"
+  "credit": "Photo: TitiNicola / Wikimedia Commons, cropped, edited",
+  "overlay": true
 }

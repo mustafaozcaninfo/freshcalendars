@@ -71,7 +71,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [fifa-intercontinental-cup-2026-qatar-dates, liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule]
+related: [copa-libertadores-final-2026-palmeiras-estudiantes-time-montevideo, fifa-intercontinental-cup-2026-qatar-dates, liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule]
 downloads:
   - group: "Copa Sudamericana Final 2026 Watch Card printables"
     title: "Copa Sudamericana Final 2026 Watch Card, Nov. 21"
