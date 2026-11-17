@@ -3,7 +3,7 @@ title: "The Game Awards 2026 Tickets: AXS Sale Oct. 29, Show Dec. 10"
 description: "The Game Awards 2026 tickets went on sale Oct. 29 via AXS. The show is Thu., Dec. 10, 7:30 p.m. ET. Sale times by time zone and a countdown."
 type: news
 publishedAt: "2026-10-28T19:45:00-04:00"
-updatedAt: "2026-11-15T11:30:00-05:00"
+updatedAt: "2026-11-17T01:35:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["the game awards 2026", "the game awards 2026 tickets", "the game awards 2026 date", "game awards nominations 2026 date", "when is the game awards 2026"]
@@ -22,7 +22,7 @@ hero:
 summary:
   - "Public tickets for The Game Awards 2026 went on sale Thursday, Oct. 29, 2026 at 10 a.m. Pacific Time (PT), which is 1 p.m. Eastern Time (ET), through AXS."
   - "The show is Thursday, Dec. 10, 2026, streaming live from the Peacock Theater in Los Angeles, 42 days after the ticket sale."
-  - "The Game Awards lists the 2026 nominees as coming mid-November and has not named an exact day."
+  - "The Game Awards reveals the 2026 nominees live on Tuesday, Nov. 17, 2026 at noon ET (9 a.m. PT, 5 p.m. GMT) on thegameawards.com."
   - "The show starts at 7:30 p.m. ET (4:30 p.m. PT) and fan voting closes Wednesday, Dec. 9 at 6 p.m. PT (9 p.m. ET); ticket prices, the fan voting opening date and the streaming platforms are not yet announced."
 faq:
   - q: "When do The Game Awards 2026 tickets go on sale?"
@@ -32,7 +32,7 @@ faq:
   - q: "What is the date of The Game Awards 2026?"
     a: "Thursday, Dec. 10, 2026, at the Peacock Theater in Los Angeles."
   - q: "When are the 2026 Game Awards nominations announced?"
-    a: "The Game Awards homepage says the 2026 nominees are coming mid-November. No exact day is announced yet."
+    a: "The Game Awards nominees page says to find out the nominees live on Tuesday, Nov. 17, 2026 at noon ET / 9 a.m. PT / 5 p.m. GMT."
   - q: "What time does The Game Awards 2026 start?"
     a: "The opening act starts at 7:30 p.m. ET / 4:30 p.m. PT on Thursday, Dec. 10, 2026, according to The Game Awards FAQ."
   - q: "When does fan voting close for The Game Awards 2026?"
@@ -52,6 +52,10 @@ sources:
   - title: "The Game Awards"
     url: "https://thegameawards.com/"
     publisher: "The Game Awards"
+  - title: "Nominees | The Game Awards"
+    url: "https://thegameawards.com/nominees"
+    publisher: "The Game Awards"
+    date: "2026-11-17"
   - title: "Voting Jury"
     url: "https://thegameawards.com/voting-jury"
     publisher: "The Game Awards"
@@ -79,10 +83,10 @@ assets:
     layout: timeline
     rows:
       - ["Thu., Oct. 29", "Public ticket sale on AXS, 10 a.m. PT / 1 p.m. ET"]
-      - ["Mid-November", "Nominees announced (day not yet announced)"]
+      - ["Tue., Nov. 17", "Nominees revealed live, noon ET / 9 a.m. PT / 5 p.m. GMT"]
       - ["Wed., Dec. 9", "Fan voting closes, 6 p.m. PT / 9 p.m. ET"]
       - ["Thu., Dec. 10", "The Game Awards 2026, Peacock Theater, Los Angeles, opening act 7:30 p.m. ET / 4:30 p.m. PT"]
-    note: "Source: The Game Awards FAQ (thegameawards.com/faq), checked Nov. 15, 2026. Ticket prices and the nominees' day are not yet announced."
+    note: "Source: The Game Awards FAQ (thegameawards.com/faq), checked Nov. 17, 2026. Nominees page: thegameawards.com/nominees. Ticket prices are not yet announced."
     description: "A one-page The Game Awards 2026 countdown with the Oct. 29 ticket sale, the Dec. 9 fan voting close and the Dec. 10 start time."
     alt: "The Game Awards 2026 countdown listing the ticket sale, fan voting close and show start time"
 downloads:
@@ -121,15 +125,14 @@ The Game Awards 2026 takes place on Thursday, Dec. 10, 2026, "streaming live fro
 
 ## When are the 2026 Game Awards nominations announced?
 
-The Game Awards homepage lists the 2026 nominees as "coming mid-November." No exact day is announced yet, so treat any specific date you see elsewhere as unconfirmed. The site says nominations are selected by a voting jury of over 100 leading media and influencer outlets across the globe.
+The Game Awards nominees page and homepage say "Find out the nominees live" on Tuesday, Nov. 17, 2026, at noon ET / 9 a.m. PT / 5 p.m. GMT. No nominees were listed there at 1:30 a.m. ET on Nov. 17. The site says nominations are selected by a voting jury of over 100 leading media and influencer outlets across the globe.
 
 For a comparison with another awards season, see our [Grammy nominations 2027 date](/news/grammy-nominations-2027-date-69th-grammys-february-7/) story.
 
 ## What is not announced yet?
 
-| Item | Status on Nov. 15, 2026 |
+| Item | Status on Nov. 17, 2026 |
 |---|---|
-| Exact nominations day | Not yet announced (the nominees page says "coming mid-November") |
 | Fan voting opening date | Not yet announced (closes Dec. 9, 6 p.m. PT) |
 | Streaming platforms | Free "across all major streaming services"; no platform is named |
 | Pre-show | Not yet announced |
@@ -141,4 +144,4 @@ In 2025, Game of the Year went to Clair Obscur: Expedition 33 from Sandfall Inte
 
 ## Free The Game Awards 2026 countdown
 
-Our one-page printable lists the Oct. 29 ticket sale, mid-November nominations, the Dec. 9 fan voting close and the Dec. 10 start time. Mark them on your [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html). Related gaming dates are in our [Grand Theft Auto (GTA) 6 countdown](/news/gta-6-countdown-release-time-by-time-zone/) and [PlayStation Plus November 2026 games](/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/) stories.
+Our one-page printable lists the Oct. 29 ticket sale, Nov. 17 nominations, the Dec. 9 fan voting close and the Dec. 10 start time. Mark them on your [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html). Related gaming dates are in our [Grand Theft Auto (GTA) 6 countdown](/news/gta-6-countdown-release-time-by-time-zone/) and [PlayStation Plus November 2026 games](/news/playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2/) stories.
