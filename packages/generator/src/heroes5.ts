@@ -537,6 +537,11 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-spelling-bee-hints-answers-november-28-2026", "bee", "#1c1917", "#fde68a", "Spelling Bee · Sat., Nov. 28, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end.", "nyt-bee-november-28-a"],
   ["nyt-letter-boxed-answer-hints-november-20-2026", "letterboxed", "#3d1f1a", "#fde68a", "Letter Boxed · Fri., Nov. 20, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-20-a"],
   ["contexto-answer-hints-november-22-2026-1526", "contexto", "#0f172a", "#fca5a5", "Contexto #1526 · Sun., Nov. 22, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-22-a"],
+  ["nyt-mini-crossword-answers-november-17-2026", "mini", "#0f1d2e", "#fca5a5", "NYT Mini · Tue., Nov. 17, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end.", "nyt-mini-november-17-a"],
+  ["nyt-midi-crossword-answers-november-17-2026", "midi", "#13213a", "#c4b5fd", "NYT Midi · Tue., Nov. 17, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end.", "nyt-midi-november-17-a"],
+  ["nyt-crossword-answers-november-17-2026", "crossword", "#172033", "#86efac", "NYT Crossword · Tue., Nov. 17, 2026", "NYT Crossword answers", "A hint for every clue first, the full solved grid at the end.", "nyt-crossword-november-17-a"],
+  ["nyt-letter-boxed-answer-hints-november-21-2026", "letterboxed", "#3d1f1a", "#c4b5fd", "Letter Boxed · Sat., Nov. 21, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-21-a"],
+  ["nyt-letter-boxed-answer-hints-november-22-2026", "letterboxed", "#3d1f1a", "#5eead4", "Letter Boxed · Sun., Nov. 22, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-22-a"],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
