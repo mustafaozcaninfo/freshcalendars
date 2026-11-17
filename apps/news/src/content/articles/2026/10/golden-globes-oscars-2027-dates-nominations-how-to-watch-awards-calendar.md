@@ -3,7 +3,7 @@ title: "Golden Globes 2027 Nominations: Dec. 7, Show on Jan. 10"
 description: "Golden Globes 2027 nominations come Monday, Dec. 7, 2026; the show airs Sunday, Jan. 10 on CBS. Oscars are March 14. A 17-event awards calendar to print."
 type: news
 publishedAt: "2026-10-31T01:00:00-04:00"
-updatedAt: "2026-11-12T01:35:00-05:00"
+updatedAt: "2026-11-17T00:55:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["golden globes 2027 date", "oscars 2027 date", "when are the oscars 2027", "awards season 2027 calendar", "oscar nominations 2027"]
@@ -20,13 +20,13 @@ hero:
     author: "Greg in Hollywood (Greg Hernandez)"
     authorUrl: "https://www.flickr.com/photos/greginhollywood/"
 summary:
-  - "The 84th Golden Globes are on Sunday, Jan. 10, 2027, on CBS and Paramount+ in the U.S. from 7:30 p.m. to 9:30 p.m. ET, with Nikki Glaser returning as host; nominations come Monday, Dec. 7, 2026, the Golden Globes say."
+  - "The 84th Golden Globes are on Sunday, Jan. 10, 2027, on CBS and Paramount+ in the U.S. from 7:30 p.m. to 10:30 p.m. ET, with Nikki Glaser returning as host; nominations come Monday, Dec. 7, 2026, the Golden Globes say."
   - "The 99th Oscars are on Sunday, March 14, 2027, live on ABC at 7 p.m. Eastern Time (ET) / 4 p.m. Pacific Time (PT), per the Academy."
   - "Oscar nominations are announced Thursday, Jan. 21, 2027, after nominations voting from Jan. 11 to Jan. 15."
   - "The table lists 17 awards-season events from Nov. 16, 2026, to April 20, 2027, including the Directors Guild of America (DGA) Awards on Saturday, Jan. 30, the Producers Guild of America (PGA) Awards on Saturday, Feb. 27 and the Actor Awards on Sunday, Feb. 28, live on Netflix; the British Academy of Film and Television Arts (BAFTA) date is not confirmed."
 faq:
   - q: "When are the Golden Globes 2027?"
-    a: "Sunday, Jan. 10, 2027, from 7:30 p.m. to 9:30 p.m. ET (4:30 p.m. to 6:30 p.m. PT), live on CBS and Paramount+, according to CBS. Nikki Glaser will return to host, the Golden Globes say."
+    a: "Sunday, Jan. 10, 2027, from 7:30 p.m. to 10:30 p.m. ET (4:30 p.m. to 7:30 p.m. PT), live on CBS and Paramount+, according to CBS. Nikki Glaser will return to host, the Golden Globes say."
   - q: "When are the Oscars 2027?"
     a: "Sunday, March 14, 2027, at 7 p.m. ET / 4 p.m. PT on ABC, from the Dolby Theatre at Ovation Hollywood, according to the Academy."
   - q: "When are the Oscar nominations announced?"
@@ -153,7 +153,7 @@ Each row comes from the organizer's own announcement. "None listed" and "Not lis
 | Sun., Jan. 3, 2027 | 32nd Critics Choice Awards, The Barker Hangar, Santa Monica | E!, USA Network | 7 to 10 p.m. ET / 4 to 7 p.m. PT |
 | Thu., Jan. 7, 2027 | Directors Guild of America (DGA) feature film nominations announced | None listed | Not listed |
 | Fri., Jan. 8, 2027 | Producers Guild of America (PGA) theatrical motion picture nominations announced | None listed | Not listed |
-| Sun., Jan. 10, 2027 | 84th Golden Globes, The Beverly Hilton | CBS, Paramount+ | 7:30 to 9:30 p.m. ET / 4:30 to 6:30 p.m. PT |
+| Sun., Jan. 10, 2027 | 84th Golden Globes, The Beverly Hilton | CBS, Paramount+ | 7:30 to 10:30 p.m. ET / 4:30 to 7:30 p.m. PT |
 | Thu., Jan. 21, 2027 | Oscar nominations announced | None listed | Not listed |
 | Sat., Jan. 30, 2027 | 79th DGA Awards, Beverly Hilton Hotel | None listed | Not listed |
 | Sun., Feb. 7, 2027 | 69th Grammy Awards, Crypto.com Arena, Los Angeles | ABC, Disney+, Hulu | Not listed |
@@ -170,7 +170,7 @@ The guild shows come between the Golden Globes and the Oscars. The DGA says the 
 
 ## Golden Globes 2027: ceremony, nominations and ballot deadline
 
-The Golden Globes announced its 84th ceremony timetable on May 7, 2026. The show is Sunday, Jan. 10, 2027, on CBS, with streaming on Paramount+ in the U.S. CBS lists it live from 7:30 p.m. to 9:30 p.m. ET (4:30 p.m. to 6:30 p.m. PT). The Golden Globes say Nikki Glaser will return to host. The ceremony is live from the Beverly Hilton. Nominations are announced Monday, Dec. 7, 2026, at 8 a.m. ET / 5 a.m. PT. Final ballots are due Saturday, Jan. 2, 2027, at 5 p.m. PT.
+The Golden Globes announced its 84th ceremony timetable on May 7, 2026. The show is Sunday, Jan. 10, 2027, on CBS, with streaming on Paramount+ in the U.S. CBS lists it live from 7:30 p.m. to 10:30 p.m. ET (4:30 p.m. to 7:30 p.m. PT). The Golden Globes say Nikki Glaser will return to host. The ceremony is live from the Beverly Hilton. Nominations are announced Monday, Dec. 7, 2026, at 8 a.m. ET / 5 a.m. PT. Final ballots are due Saturday, Jan. 2, 2027, at 5 p.m. PT.
 
 ## Oscars 2027: show time, nominations and voting dates
 
@@ -193,7 +193,7 @@ The Academy's key dates page lists the steps toward the show. It adds that "all 
 
 ## How to watch the 2027 awards shows
 
-For the Golden Globes, the Golden Globes name CBS and Paramount+ in the U.S. The Oscars are on ABC. The Recording Academy says the Grammys on Sunday, Feb. 7, 2027, are simulcast on ABC, Disney+ and Hulu; our [Grammy nominations story](/news/grammy-nominations-2027-date-69th-grammys-february-7/) covers that season in detail. The Critics Choice Association says Janelle James will host the 32nd annual Critics Choice Awards on Sunday, Jan. 3, 2027, at The Barker Hangar in Santa Monica, and that the show returns to E! and also airs live on both coasts on USA Network. Its nominations are announced Friday, Dec. 4, 2026. CBS lists the Golden Globes live from 7:30 p.m. to 9:30 p.m. ET (4:30 p.m. to 6:30 p.m. PT). A start time for the Grammys was not in the releases we used.
+For the Golden Globes, the Golden Globes name CBS and Paramount+ in the U.S. The Oscars are on ABC. The Recording Academy says the Grammys on Sunday, Feb. 7, 2027, are simulcast on ABC, Disney+ and Hulu; our [Grammy nominations story](/news/grammy-nominations-2027-date-69th-grammys-february-7/) covers that season in detail. The Critics Choice Association says Janelle James will host the 32nd annual Critics Choice Awards on Sunday, Jan. 3, 2027, at The Barker Hangar in Santa Monica, and that the show returns to E! and also airs live on both coasts on USA Network. Its nominations are announced Friday, Dec. 4, 2026. CBS lists the Golden Globes live from 7:30 p.m. to 10:30 p.m. ET (4:30 p.m. to 7:30 p.m. PT). A start time for the Grammys was not in the releases we used.
 
 For game fans, [The Game Awards 2026 story](/news/the-game-awards-2026-tickets-october-29-date-december-10-nominations/) has its own date. Another big date in the same stretch is [Super Bowl 61 (LXI)](/news/super-bowl-lxi-2027-date-sofi-stadium-channel-halftime/).
 

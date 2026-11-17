@@ -3,7 +3,7 @@ title: "MLS Cup Playoffs 2026 Schedule: Wild Card Nov. 19, Cup Dec. 18"
 description: "The Major League Soccer (MLS) Cup playoffs 2026 start with Wild Card matches Thu., Nov. 19; MLS Cup is Fri., Dec. 18. Each round by date, TV, printable."
 type: explainer
 publishedAt: "2026-10-25T20:18:00-04:00"
-updatedAt: "2026-11-14T01:14:00-05:00"
+updatedAt: "2026-11-17T00:55:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["MLS Cup playoffs 2026 schedule", "MLS Cup 2026 date", "MLS playoffs 2026 format", "MLS Decision Day 2026"]
@@ -44,7 +44,7 @@ hero:
     authorUrl: "https://www.flickr.com/photos/65699349@N00"
 summary:
   - "Major League Soccer (MLS) lists MLS Cup presented by Audi for Fri., Dec. 18, 2026. Decision Day was Sat., Nov. 7, and all 18 playoff spots are confirmed."
-  - "The Wild Card is Thu., Nov. 19: Orlando City host FC Cincinnati at 7:30 p.m. ET (Inter.co Stadium) and Seattle Sounders FC host Real Salt Lake at 10 p.m. ET (Lumen Field). Round One is a best-of-3 series whose Game 1s run from Sat., Nov. 21 to Tue., Nov. 24, with a Game 3 on Wed., Dec. 2 if needed; then the conference semifinals and finals follow."
+  - "The Wild Card is Thu., Nov. 19: Orlando City host FC Cincinnati at 7:30 p.m. ET (Inter&Co Stadium) and Seattle Sounders FC host Real Salt Lake at 10 p.m. ET (Lumen Field). Round One is a best-of-3 series whose Game 1s run from Sat., Nov. 21 to Tue., Nov. 24, with a Game 3 on Wed., Dec. 2 if needed; then the conference semifinals and finals follow."
   - "MLS says every playoff match is on Apple TV; MLS Cup also airs on FOX and FOX Deportes in the U.S. and TSN and RDS in Canada, and select matches on FS1."
   - "MLS says all dates are subject to change."
 faq:
@@ -155,7 +155,7 @@ The higher seed hosts each Wild Card match. The two Wild Card matches come first
 
 | Conference | Matchup | When | TV |
 |---|---|---|---|
-| East | (8) Orlando City vs. (9) FC Cincinnati (Wild Card), Inter.co Stadium | Thu., Nov. 19, 7:30 p.m. ET | Apple TV |
+| East | (8) Orlando City vs. (9) FC Cincinnati (Wild Card), Inter&Co Stadium | Thu., Nov. 19, 7:30 p.m. ET | Apple TV |
 | West | (8) Seattle Sounders FC vs. (9) Real Salt Lake (Wild Card), Lumen Field | Thu., Nov. 19, 10 p.m. ET | Apple TV |
 
 Source: Major League Soccer, 2026.
@@ -168,7 +168,7 @@ MLS's matchup page says the Round One best-of-3 series begins on Saturday, Nov. 
 |---|---|---|---|---|---|
 | East: (1) Nashville SC vs. (8/9) Orlando City or FC Cincinnati | Game 1 | Sun., Nov. 22 | 4 p.m. | Geodis Park, Nashville | Apple TV, FS1, FOX Deportes, TSN, RDS |
 | | Game 2 | Sat., Nov. 28 | 6:30 p.m. | Not yet announced | Apple TV |
-| | Game 3 (if necessary) | Wed., Dec. 2 | Time not yet announced | Geodis Park, Nashville | Apple TV |
+| | Game 3 (if necessary) | Wed., Dec. 2 | 8 p.m. | Geodis Park, Nashville | Apple TV |
 | East: (2) Inter Miami CF vs. (7) Columbus Crew | Game 1 | Sat., Nov. 21 | 6 p.m. | Nu Stadium | Apple TV |
 | | Game 2 | Fri., Nov. 27 | 8 p.m. | ScottsMiracle-Gro Field | Apple TV, FS1, FOX Deportes, TSN, RDS |
 | | Game 3 (if necessary) | Wed., Dec. 2 | Time not yet announced | Nu Stadium | Apple TV |
@@ -191,7 +191,7 @@ MLS's matchup page says the Round One best-of-3 series begins on Saturday, Nov. 
 | | Game 2 | Sat., Nov. 28 | 2:30 p.m. | Shell Energy Stadium | Apple TV |
 | | Game 3 (if necessary) | Wed., Dec. 2 | Time not yet announced | PayPal Park | Apple TV |
 
-Source: Major League Soccer, "Audi 2026 MLS Cup Playoffs: Round One & Wild Card matchups, schedule," accessed Nov. 14, 2026.
+Source: Major League Soccer, "Audi 2026 MLS Cup Playoffs: Round One & Wild Card matchups, schedule," accessed Nov. 17, 2026.
 
 Round One is a best-of-3 series. Game Three is played only if it is needed, which is why MLS lists it separately, on Wed., Dec. 2. The conference semifinals and conference finals follow, and MLS Cup closes the season.
 
