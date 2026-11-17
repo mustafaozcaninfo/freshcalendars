@@ -62,7 +62,7 @@ internalLinks:
     label: "When is Thanksgiving in Canada"
   - href: "/when-is/ca-victoria-day/"
     label: "When is Victoria Day"
-related: [federal-holidays-2027-observed-dates-list, canada-long-weekends-2027-by-province-vacation-planner, family-day-2027-canada-february-15-provinces-whats-closed]
+related: [canada-long-weekends-2027-by-province-vacation-planner, family-day-2027-canada-february-15-provinces-whats-closed, labour-day-2027-canada-september-6-whats-open]
 downloads:
   - group: "Canada 2027 printable"
     title: "Canada General Holidays 2027"

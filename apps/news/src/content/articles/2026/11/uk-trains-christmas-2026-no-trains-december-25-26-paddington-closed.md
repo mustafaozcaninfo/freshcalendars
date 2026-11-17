@@ -55,7 +55,7 @@ internalLinks:
     label: "UK holidays"
   - href: "/when-is/uk-boxing-day/"
     label: "When is Boxing Day in the UK?"
-related: [uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, london-new-years-eve-fireworks-2026-tickets-times-closures, kings-christmas-message-2026-time-uk-us-canada-australia]
+related: [uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, london-new-years-eve-fireworks-2026-tickets-times-closures, london-tube-strike-dates-november-december-2026-january-2027]
 downloads:
   - group: "UK Trains at Christmas 2026 printables"
     title: "UK Trains at Christmas 2026: Closures and Restart Dates"

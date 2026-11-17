@@ -53,7 +53,7 @@ internalLinks:
     label: "March 2027 printable calendars"
   - href: "/when-is/easter/"
     label: "When is Easter?"
-related: [valentines-day-2027-sunday-february-14-dates-printables, easter-2027-march-28-good-friday-easter-monday-whats-open, east-baton-rouge-parish-schools-calendar-2026-27]
+related: [ash-wednesday-2027-february-10-fasting-rules-lent-dates, valentines-day-2027-sunday-february-14-dates-printables, easter-2027-march-28-good-friday-easter-monday-whats-open]
 downloads:
   - group: "Lent 2027 Calendar printables"
     title: "Lent 2027 Calendar: Mardi Gras to Easter"

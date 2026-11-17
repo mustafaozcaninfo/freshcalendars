@@ -53,7 +53,7 @@ internalLinks:
     label: "When is Good Friday?"
   - href: "/march-calendars.html"
     label: "March printable calendars"
-related: [mardi-gras-2027-february-9-ash-wednesday-february-10-lent-calendar, stock-market-holidays-2027-nyse-closed-dates, march-2027-calendar-printable]
+related: [mardi-gras-2027-february-9-ash-wednesday-february-10-lent-calendar, ash-wednesday-2027-february-10-fasting-rules-lent-dates, march-2027-calendar-printable]
 assets:
   overlay: true
   kicker: "Easter 2027"
