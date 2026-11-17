@@ -57,7 +57,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [krampusnacht-2026-saturday-december-5-krampus-events-us, when-does-advent-start-2026-november-29-advent-wreath-candles, our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24]
+related: [krampusnacht-2026-saturday-december-5-krampus-events-us, when-does-advent-start-2026-november-29-advent-wreath-candles, st-lucia-day-2026-december-13-lucia-events-us]
 downloads:
   - group: "St. Nicholas 2026 Shoe-Night Checklist printables"
     title: "St. Nicholas 2026 Shoe-Night Checklist"
