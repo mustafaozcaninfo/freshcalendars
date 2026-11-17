@@ -130,7 +130,7 @@ downloads:
 
 ## Dickens festival dates and hours, day by day
 
-Hours are local to each festival: Pacific Time (PT) for Daly City, Central Time (CT) for Galveston and Franklin, and Eastern Time (ET) for Holly. The Cow Palace fair lists a range of weekends, so its Sunday and extra Saturday rows are computed from that range (marked "computed").
+Hours are local to each festival: Pacific Time (PT) for Daly City, Central Time (CT) for Galveston and Franklin, and Eastern Time (ET) for Holly. The Cow Palace fair lists a range of weekends, so its Sunday and extra Saturday rows are computed from that range (marked "computed"). The printable planner adds each start time in all four U.S. zones: the Cow Palace's 10 a.m. PT opening is 1 p.m. ET, and Galveston's noon start on Sunday, Dec. 6 is 1 p.m. ET.
 
 | Date | Festival | Hours | Admission |
 |---|---|---|---|
