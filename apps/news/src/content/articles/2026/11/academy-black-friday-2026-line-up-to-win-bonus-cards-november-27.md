@@ -32,7 +32,7 @@ assets:
         - { daysBefore: 8, task: "Black Friday Starts Now begins Thu., Nov. 19" }
         - { daysBefore: 1, task: "Check your store page on academy.com for hours" }
         - { daysBefore: 0, task: "Line-Up to Win: first 100 in line at your store" }
-      fill: ["My store's hours", "Deals I want", "Bonus card value"]
+      fill: ["Local store hours", "Deals to buy", "Bonus card value"]
       unconfirmed:
         - { label: "Thanksgiving Day store status", why: "The Nov. 9 release does not say whether stores are open on Nov. 26" }
         - { label: "Black Friday store hours", why: "The Nov. 9 release gives no opening or closing times" }

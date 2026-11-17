@@ -33,7 +33,7 @@ assets:
         - { daysBefore: 7, task: "Black Friday Deals start Fri., Nov. 20: browse online" }
         - { daysBefore: 2, task: "Check your store page on jcpenney.com for Black Friday hours" }
         - { daysBefore: 1, task: "Thanksgiving: stores closed; Black Friday doors open at 5 a.m." }
-      fill: ["Deals I want", "Store hours I checked", "Giveaway times I plan to visit"]
+      fill: ["Deals to buy", "Local store hours", "Giveaway time to visit"]
       unconfirmed:
         - { label: "JCPenney 2026 Black Friday closing time", why: "The Nov. 2 release gives the opening time only" }
         - { label: "JCPenney Cyber Monday event, Nov. 30", why: "The Nov. 2 release names none; Black Friday Deals end Nov. 29" }
