@@ -1,6 +1,6 @@
 ---
 title: "Copa Sudamericana Final 2026: Atlético Mineiro vs Boca at 5:30 p.m. ET"
-description: "The Copa Sudamericana final is Sat., Nov. 21 at 5:30 p.m. ET in Barranquilla, per CONMEBOL. Kickoff in 9 time zones, plus a printable watch card."
+description: "The Copa Sudamericana final is Sat., Nov. 21 at 5:30 p.m. ET in Barranquilla. Kickoff in 9 time zones, plus a printable watch card with a score box."
 type: news
 publishedAt: "2026-11-17T06:10:00-05:00"
 updatedAt: "2026-11-17T06:10:00-05:00"
@@ -19,7 +19,7 @@ assets:
     group: copa-sudamericana-final-2026
     title: "Copa Sudamericana Final 2026 Watch Card, Nov. 21"
     subtitle: "Atlético Mineiro vs Boca Juniors in Barranquilla, with kickoff in four U.S. time zones and a score box"
-    note: "Source: CONMEBOL, Barranquilla 2026 page (Saturday, November 21, 2026, 17:30, UTC -5). U.S. times are computed from the Colombia time. TV and streaming are not yet announced."
+    note: "Source: South American Football Confederation (CONMEBOL), Barranquilla 2026 page (Saturday, November 21, 2026, 17:30, UTC -5). U.S. times are computed from the Colombia time. TV and streaming are not yet announced."
     description: "One-page watch card for the 2026 Copa Sudamericana final, Atlético Mineiro vs Boca Juniors, Sat., Nov. 21, with kickoff in four U.S. time zones and a score box."
     alt: "Printable watch card for the 2026 Copa Sudamericana final with kickoff in four U.S. time zones and a score box"
     data:
@@ -44,7 +44,7 @@ hero:
 summary:
   - "The 2026 Copa Sudamericana final is Saturday, Nov. 21, 2026, at the Estadio Metropolitano Roberto Meléndez in Barranquilla, Colombia, with kickoff at 5:30 p.m. Colombia time (UTC-5), per the South American Football Confederation (CONMEBOL)."
   - "Kickoff is 5:30 p.m. ET, 4:30 p.m. CT, 3:30 p.m. MT and 2:30 p.m. PT; 7:30 p.m. in Brasília and Buenos Aires, 10:30 p.m. in London and 11:30 p.m. in Madrid."
-  - "Atlético Mineiro of Brazil plays Boca Juniors of Argentina; CONMEBOL's news page calls both clubs finalists."
+  - "Atlético Mineiro of Brazil plays Boca Juniors of Argentina, per CONMEBOL's preview interview with Boca's Leandro Paredes."
   - "TV and streaming for the final are not yet announced on the broadcasters' pages."
 faq:
   - q: "What time is the Copa Sudamericana final in Brazil and Argentina?"
@@ -108,10 +108,10 @@ The times below are computed from CONMEBOL's 5:30 p.m. (UTC-5) kickoff.
 
 ## Who plays in the 2026 Copa Sudamericana final?
 
-CONMEBOL's news pages name Atlético Mineiro (Brazil) and Boca Juniors (Argentina) as the finalists: one headline calls Atlético Mineiro "finalista", and another page carries an interview with Boca's Leandro Paredes ahead of the final. CONMEBOL's Barranquilla page covers ticket categories, the stadium and the date. Ticket sales run through CONMEBOL's official platform.
+CONMEBOL's news pages name Atlético Mineiro (Brazil) and Boca Juniors (Argentina) as the finalists: one headline calls Atlético Mineiro "finalista", and its interview with Boca's Leandro Paredes says Boca faces Atlético Mineiro in the final on Nov. 21 in Barranquilla ("enfrente a Atlético Mineiro por la Final"). CONMEBOL's Barranquilla page covers ticket categories, the stadium and the date. Ticket sales run through CONMEBOL's official platform.
 
 ## How to use the Copa Sudamericana watch card
 
 The printable has the kickoff in four U.S. time zones, the stadium, a channel line marked TBA and a box to fill in the final score. Mark Saturday, Nov. 21 on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
 
-For more soccer on the calendar, see the [Liga MX Liguilla schedule](/news/liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule/) and the [FIFA Intercontinental Cup dates](/news/fifa-intercontinental-cup-2026-qatar-dates/).
+For more soccer on the calendar, see the [Liga MX Liguilla schedule](/news/liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule/) and the [Intercontinental Cup dates](/news/fifa-intercontinental-cup-2026-qatar-dates/).
