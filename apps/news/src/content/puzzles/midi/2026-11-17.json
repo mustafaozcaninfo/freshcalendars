@@ -1,0 +1,479 @@
+{
+ "title": "Finish First",
+ "editor": "Ian Livengood",
+ "publicationDate": "2026-11-17",
+ "constructors": [
+  "Avery Gee Katz and Aaron Gee"
+ ],
+ "width": 9,
+ "height": 10,
+ "cells": [
+  "A",
+  "L",
+  "U",
+  "M",
+  null,
+  "I",
+  "M",
+  "P",
+  null,
+  "R",
+  "O",
+  "M",
+  "A",
+  null,
+  "D",
+  "O",
+  "H",
+  null,
+  "F",
+  "L",
+  "A",
+  "T",
+  "T",
+  "E",
+  "R",
+  "Y",
+  null,
+  null,
+  null,
+  null,
+  "T",
+  "U",
+  "S",
+  "S",
+  "L",
+  "E",
+  "O",
+  "W",
+  "L",
+  "E",
+  "T",
+  null,
+  "E",
+  "L",
+  "K",
+  "D",
+  "E",
+  "E",
+  "R",
+  null,
+  "V",
+  "L",
+  "O",
+  "G",
+  "D",
+  "I",
+  "S",
+  "H",
+  "U",
+  "P",
+  null,
+  null,
+  null,
+  null,
+  "G",
+  "L",
+  "O",
+  "S",
+  "S",
+  "A",
+  "R",
+  "Y",
+  null,
+  "H",
+  "I",
+  "R",
+  "E",
+  null,
+  "M",
+  "O",
+  "I",
+  null,
+  "T",
+  "E",
+  "N",
+  "D",
+  null,
+  "P",
+  "E",
+  "P"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "One solicited for school donations, informally",
+   "cells": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "Little mischief-maker",
+   "cells": [
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "Oblong tomato type",
+   "cells": [
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "\"Silly me!\"",
+   "cells": [
+    14,
+    15,
+    16
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Imitation is the sincerest form of it, in a phrase",
+   "cells": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Brawl",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "One \"whoo\" is new to the nest",
+   "cells": [
+    36,
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Animal that can grow a new set of antlers every year",
+   "cells": [
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "___ Xing (yellow road sign)",
+   "cells": [
+    45,
+    46,
+    47,
+    48
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "YouTuber's journal",
+   "cells": [
+    50,
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Plate, as a meal",
+   "cells": [
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Where terms get spelled out?",
+   "cells": [
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Employ",
+   "cells": [
+    73,
+    74,
+    75,
+    76
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "\"Excusez-___!\"",
+   "cells": [
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "Lean (toward)",
+   "cells": [
+    82,
+    83,
+    84,
+    85
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Rah-rah energy",
+   "cells": [
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Puppy's sound",
+   "cells": [
+    0,
+    9,
+    18
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "\"OMG, I'm dying\"",
+   "cells": [
+    1,
+    10,
+    19
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Actress Thurman",
+   "cells": [
+    2,
+    11,
+    20
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Disneyland attraction named for a mountain in the Alps",
+   "cells": [
+    3,
+    12,
+    21,
+    30,
+    39,
+    48,
+    57,
+    66,
+    75,
+    84
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Midmonth day",
+   "cells": [
+    5,
+    14,
+    23,
+    32
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Tidbit",
+   "cells": [
+    6,
+    15,
+    24,
+    33,
+    42,
+    51
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Flaky dough used in baklava and spanakopita",
+   "cells": [
+    7,
+    16,
+    25,
+    34,
+    43,
+    52
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Egyptian boy king",
+   "cells": [
+    22,
+    31,
+    40
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Diagnostic heart test, for short",
+   "cells": [
+    35,
+    44,
+    53
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "14",
+   "text": "Peculiar ",
+   "cells": [
+    36,
+    45,
+    54
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "Measurement alternative to volume, in baking",
+   "cells": [
+    37,
+    46,
+    55,
+    64,
+    73,
+    82
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "16",
+   "text": "Lead role on \"Parks and Recreation\"",
+   "cells": [
+    38,
+    47,
+    56,
+    65,
+    74,
+    83
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "#2's, in politics",
+   "cells": [
+    50,
+    59,
+    68
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "Like many items on Facebook Marketplace",
+   "cells": [
+    58,
+    67,
+    76,
+    85
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "Sound enhancer",
+   "cells": [
+    69,
+    78,
+    87
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Sushi topping",
+   "cells": [
+    70,
+    79,
+    88
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Puppy's sound",
+   "cells": [
+    71,
+    80,
+    89
+   ]
+  }
+ ]
+}

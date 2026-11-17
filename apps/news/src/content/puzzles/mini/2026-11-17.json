@@ -1,0 +1,151 @@
+{
+ "publicationDate": "2026-11-17",
+ "constructors": [
+  "Ian Livengood"
+ ],
+ "width": 5,
+ "height": 5,
+ "cells": [
+  "F",
+  "R",
+  "I",
+  "Z",
+  "Z",
+  "L",
+  "E",
+  "V",
+  "E",
+  "E",
+  "A",
+  "C",
+  "O",
+  "R",
+  "N",
+  "T",
+  "A",
+  "R",
+  "O",
+  null,
+  "S",
+  "P",
+  "Y",
+  null,
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Hair problem due to high humidity",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Flood blocker",
+   "cells": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "Nut for a squirrel",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "Purple flavor of bubble tea",
+   "cells": [
+    15,
+    16,
+    17,
+    18
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "\"The ___ Who Loved Me\" (Bond film)",
+   "cells": [
+    20,
+    21,
+    22
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Heelless shoes",
+   "cells": [
+    0,
+    5,
+    10,
+    15,
+    20
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Postgame wrap-up",
+   "cells": [
+    1,
+    6,
+    11,
+    16,
+    21
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "What high-end billiard balls were once made from",
+   "cells": [
+    2,
+    7,
+    12,
+    17,
+    22
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "It's nothing",
+   "cells": [
+    3,
+    8,
+    13,
+    18
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Chill and peaceful",
+   "cells": [
+    4,
+    9,
+    14
+   ]
+  }
+ ]
+}
