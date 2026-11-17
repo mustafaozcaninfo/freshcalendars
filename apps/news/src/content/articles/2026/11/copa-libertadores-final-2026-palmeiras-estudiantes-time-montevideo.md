@@ -1,6 +1,6 @@
 ---
 title: "Copa Libertadores Final 2026: Palmeiras vs Estudiantes at 3 p.m. ET"
-description: "The Libertadores final is Sat., Nov. 28 at 3 p.m. ET in Montevideo, live on beIN Sports. Kickoff for every U.S. zone and abroad, plus a printable watch card."
+description: "The Libertadores final is Nov. 28 at 3 p.m. ET in Montevideo, live on beIN Sports. Kickoff in every U.S. zone and abroad, plus a printable watch card."
 type: news
 publishedAt: "2026-11-17T10:40:00-05:00"
 updatedAt: "2026-11-17T10:40:00-05:00"
