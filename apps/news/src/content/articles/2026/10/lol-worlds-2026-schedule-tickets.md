@@ -91,7 +91,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [world-series-2026-schedule-game-times-tv-channel]
+related: [world-series-2026-schedule-game-times-tv-channel, pgl-cs2-major-singapore-2026-schedule-dates-finals]
 downloads:
   - group: "LoL Worlds 2026 Schedule and Knockout Bracket Tracker printables"
     title: "LoL Worlds 2026 Schedule and Knockout Bracket Tracker"
