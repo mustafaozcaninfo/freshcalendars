@@ -3,7 +3,7 @@ title: "Scottish Budget 2027-28: Thursday 3 December 2026 and Tax Bands"
 description: "The Scottish Budget 2027-28 is set for Thursday 3 December 2026. The 2026-27 income tax bands run from 19% to 48%, with tax worked out at four salaries."
 type: news
 publishedAt: "2026-11-04T09:15:00-05:00"
-updatedAt: "2026-11-14T15:36:00-05:00"
+updatedAt: "2026-11-17T00:55:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["scottish budget 2026 date", "scottish budget december 2026", "scottish income tax 2027-28", "scottish budget 2027-28"]
@@ -22,7 +22,7 @@ hero:
 summary:
   - "Deputy First Minister Jenny Gilruth confirmed in a 1 September 2026 letter that she will present the draft Scottish Budget 2027-28 to the Scottish Parliament on Thursday 3 December 2026."
   - "The Scottish Fiscal Commission (SFC) will publish its next forecasts at the same time as the Budget, according to its September 2026 publications list."
-  - "The 2027-28 Scottish income tax rates and bands are not yet announced; the 2026-27 rates run from 19% to 48%."
+  - "The 2027-28 Scottish income tax rates and bands are not yet announced; the 2026-27 rates run from 19% to 48%. The provisional Scottish Rate Resolution vote is Thursday 11 February 2027."
   - "The time of the statement on 3 December has not been announced."
 faq:
   - q: "When is the Scottish Budget 2027-28?"
@@ -30,7 +30,7 @@ faq:
   - q: "What time is the Scottish Budget statement on 3 December?"
     a: "Not announced. The Scottish Parliament had not published a business listing for the day when we checked, so no start time is confirmed."
   - q: "Will Scottish income tax rates change in April 2027?"
-    a: "Not yet announced. The 2027-28 rates and bands are expected in the 3 December Budget. Until then, the 2026-27 rates in the table above are the ones in force."
+    a: "Not yet announced. The 2027-28 rates and bands are expected in the 3 December Budget, and the provisional Scottish Rate Resolution vote is Thursday 11 February 2027. Until then, the 2026-27 rates in the table above are the ones in force."
   - q: "When did the last Scottish Budget happen?"
     a: "The Budget for 2026-27 was presented on 13 January 2026, per the Scottish Government's Budget guide. The Budget (Scotland) (No. 5) Bill passed on 25 February 2026."
   - q: "When does the 2027-28 tax year start?"
@@ -79,6 +79,10 @@ sources:
   - title: "Scottish Rate Resolution 2026-27: draft motion and explanatory note"
     url: "https://www.gov.scot/publications/scottish-rate-resolution-2026-2027-draft-motion-explanatory-note/pages/3/"
     publisher: "Scottish Government"
+  - title: "Budget Bill timetable: Cabinet Secretary for Finance and Local Government letter to the Finance and Public Administration Committee, 4 November 2026 (PDF)"
+    url: "https://www.parliament.scot/-/media/files/committees/session-7/finance-committee/correspondence/2026/20261104-budget-bill-timetable-cab-sec-flg-to-fpac.pdf"
+    publisher: "Scottish Parliament"
+    date: "2026-11-04"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -95,10 +99,10 @@ assets:
     slug: scottish-budget-2027-28-key-dates
     group: scottish-budget-2027-28
     title: "Scottish Budget 2027-28 Key Dates 2026"
-    subtitle: "Budget day, forecasts and what is not yet scheduled"
+    subtitle: "Budget day, forecasts and the statement time not yet announced"
     note: "Source: Scottish Government letter to the Finance and Public Administration Committee, 1 September 2026; Scottish Fiscal Commission, Forthcoming Publications, September 2026."
-    description: "One-page Scottish Budget 2027-28 sheet: the 3 December 2026 Budget date, same-day Scottish Fiscal Commission forecasts and the dates not yet announced."
-    alt: "Printable Scottish Budget 2027-28 key dates sheet with the 3 December 2026 Budget date and unconfirmed parliamentary steps"
+    description: "One-page Scottish Budget 2027-28 sheet: the 3 December 2026 Budget date, same-day Scottish Fiscal Commission forecasts and the statement time not yet announced."
+    alt: "Printable Scottish Budget 2027-28 key dates sheet with the 3 December 2026 Budget date and the unannounced statement time"
     data:
       target: { date: "2026-12-03", label: "Budget day" }
       columns: ["Budget", "SFC forecasts"]
@@ -115,31 +119,28 @@ assets:
           src: 1
           quote: "On the basis of these considerations, I can confirm that I will present the draft Scottish Budget 2027-28 to Parliament on Thursday 03 December 2026."
       unconfirmed:
-        - { label: "Stage 1 of the Budget Bill", why: "No date announced yet" }
-        - { label: "Stage 3 of the Budget Bill", why: "No date announced yet" }
-        - { label: "Scottish Rate Resolution vote", why: "No date announced yet" }
         - { label: "Time of the Budget statement on 3 December", why: "Not announced; no Parliament business listing yet" }
 downloads:
   - group: "Scottish Budget 2027-28 Key Dates 2026 printables"
     title: "Scottish Budget 2027-28 Key Dates 2026"
-    description: "One-page Scottish Budget 2027-28 sheet: the 3 December 2026 Budget date, same-day Scottish Fiscal Commission forecasts and the dates not yet announced."
+    description: "One-page Scottish Budget 2027-28 sheet: the 3 December 2026 Budget date, same-day Scottish Fiscal Commission forecasts and the statement time not yet announced."
     preview: ../../../../assets/news/scottish-budget-2027-28/scottish-budget-2027-28-key-dates.png
-    alt: "Printable Scottish Budget 2027-28 key dates sheet with the 3 December 2026 Budget date and unconfirmed parliamentary steps"
+    alt: "Printable Scottish Budget 2027-28 key dates sheet with the 3 December 2026 Budget date and the unannounced statement time"
     pdf: "/news/downloads/scottish-budget-2027-28/scottish-budget-2027-28-key-dates.pdf"
     png: "/news/downloads/scottish-budget-2027-28/scottish-budget-2027-28-key-dates.png"
     pages: 1
   - group: "Scottish Budget 2027-28 Key Dates 2026 printables"
     title: "Scottish Budget 2027-28 Key Dates 2026 (A4)"
-    description: "One-page Scottish Budget 2027-28 sheet: the 3 December 2026 Budget date, same-day Scottish Fiscal Commission forecasts and the dates not yet announced. A4 paper."
+    description: "One-page Scottish Budget 2027-28 sheet: the 3 December 2026 Budget date, same-day Scottish Fiscal Commission forecasts and the statement time not yet announced. A4 paper."
     preview: ../../../../assets/news/scottish-budget-2027-28/scottish-budget-2027-28-key-dates-a4.png
-    alt: "Printable Scottish Budget 2027-28 key dates sheet with the 3 December 2026 Budget date and unconfirmed parliamentary steps, A4"
+    alt: "Printable Scottish Budget 2027-28 key dates sheet with the 3 December 2026 Budget date and the unannounced statement time, A4"
     pdf: "/news/downloads/scottish-budget-2027-28/scottish-budget-2027-28-key-dates-a4.pdf"
     png: "/news/downloads/scottish-budget-2027-28/scottish-budget-2027-28-key-dates-a4.png"
     pages: 1
 draft: false
 ---
 
-**The draft Scottish Budget 2027-28 will be presented to the Scottish Parliament on Thursday 3 December 2026**, according to a letter of 1 September 2026 from Jenny Gilruth, Deputy First Minister and Cabinet Secretary for Finance and Local Government. The Scottish Fiscal Commission (SFC) publishes its forecasts the same day. The 2027-28 income tax rates and bands are not yet announced, so this story sets out the 2026-27 bands, the tax each one produces at four salaries and the dates still to be fixed.
+**The draft Scottish Budget 2027-28 will be presented to the Scottish Parliament on Thursday 3 December 2026**, according to a letter of 1 September 2026 from Jenny Gilruth, Deputy First Minister and Cabinet Secretary for Finance and Local Government. The Scottish Fiscal Commission (SFC) publishes its forecasts the same day. The 2027-28 income tax rates and bands are not yet announced, so this story sets out the 2026-27 bands, the tax each one produces at four salaries and the provisional Budget Bill timetable.
 
 ## When is the Scottish Budget 2027-28?
 
@@ -151,21 +152,24 @@ The time of the statement is not announced. The Scottish Parliament had no busin
 
 The UK Budget Gilruth's letter waited for took place on 28 October 2026. The Scottish Government said that day that it delivers a real terms cut of around £650 million to Scotland's budget in 2027-28, made up of a 1.3% cut in the resource block grant (around £550 million) and a 1.5% cut in capital (around £100 million). How the Scottish Government responds is for the 3 December Budget.
 
-## Scottish Budget dates still to be scheduled
+## Scottish Budget Bill 2027-28 timetable: provisional dates
 
-Only the Budget day and the forecasts are confirmed. The table shows each step, with last year's dates labeled as last year's.
+A letter of 4 November 2026 from the Cabinet Secretary for Finance and Local Government to the Finance and Public Administration Committee, published by the Scottish Parliament, sets out a proposed Budget Bill timetable. The letter says it "will remain provisional" pending consideration by the Parliamentary Bureau.
 
-| Step | 2027-28 Budget cycle | Last year (2026-27 cycle) |
-|---|---|---|
-| Draft Budget presented | Thu., 3 December 2026 | 13 January 2026 |
-| SFC forecasts | 3 December 2026, with the Budget | Not in our sources |
-| Stage 1 of the Budget Bill | Not yet scheduled | Ended 12 February 2026 |
-| Scottish Rate Resolution (SRR) vote | Not yet scheduled | Agreed Thu., 19 February 2026 |
-| Stage 3 and final vote | Not yet scheduled | Bill passed 25 February 2026 |
-| Budget Act | Not yet scheduled | Became an Act on 31 March 2026 |
-| New tax year starts | Tue., 6 April 2027 | 6 April 2026 |
+| Step | Provisional date |
+|---|---|
+| Budget publication and statement | Thursday 3 December 2026 |
+| Budget Bill introduced | Wednesday 16 December 2026 |
+| Budget Bill published | Thursday 17 December 2026 |
+| Christmas parliamentary recess | 19 December 2026 to 3 January 2027 |
+| Stage 1 debate | Thursday 21 January 2027 |
+| Stage 2 amendment lodging deadline | Friday 5 February 2027 |
+| Stage 2 | Wednesday 10 February 2027 |
+| Scottish Rate Resolution (SRR), the vote that sets income tax rates and bands | Thursday 11 February 2027 |
+| Stage 3 amendment lodging deadline | Friday 12 February 2027 |
+| Stage 3 debate | Tuesday 23 February 2027 |
 
-Last year's figures come from the Scottish Government's Budget 2026-27 guide and the Scottish Parliament's page for the Budget (Scotland) (No. 5) Bill. Last year's Scottish Rate Resolution was motion S6M-20844. It passed with 93 votes for, 29 against and 1 abstention, according to the Scottish Parliament. Those are 2026 results, not a forecast for this winter.
+For comparison, the 2026-27 cycle ran as follows, according to the Scottish Government's Budget 2026-27 guide and the Scottish Parliament's page for the Budget (Scotland) (No. 5) Bill: the draft Budget was presented on 13 January 2026, Stage 1 ended on 12 February 2026, the Scottish Rate Resolution was agreed on Thursday 19 February 2026, the Bill passed on 25 February 2026 and became an Act on 31 March 2026. Last year's Scottish Rate Resolution was motion S6M-20844. It passed with 93 votes for, 29 against and 1 abstention, according to the Scottish Parliament. Those are 2026 results, not a forecast for this winter.
 
 ## When would the 2027-28 Scottish rates start?
 
@@ -201,4 +205,4 @@ The £25,000 line is £753.73 at 19% plus £1,692.60 on the next £8,463 at 20%.
 
 ## Printable and calendars
 
-The downloads below hold a one-page sheet with the Budget date, the same-day forecasts and the steps not yet announced; an A4 copy is included. Mark 3 December on our [December 2026 printable calendar](/december-calendars.html) and 6 April on the [April 2027 printable calendar](/april-calendars.html). For the UK Parliament's Budget, see our story on the [UK Budget 2026 date and key dates](/news/uk-budget-2026-date-wednesday-28-october-what-time/), and for Scotland's days off, the [St Andrew's Day 2026 story](/news/st-andrews-day-2026-scotland-bank-holiday-monday-november-30/).
+The downloads below hold a one-page sheet with the Budget date, the same-day forecasts and the statement time not yet announced; an A4 copy is included. Mark 3 December on our [December 2026 printable calendar](/december-calendars.html) and 6 April on the [April 2027 printable calendar](/april-calendars.html). For the UK Parliament's Budget, see our story on the [UK Budget 2026 date and key dates](/news/uk-budget-2026-date-wednesday-28-october-what-time/), and for Scotland's days off, the [St Andrew's Day 2026 story](/news/st-andrews-day-2026-scotland-bank-holiday-monday-november-30/).

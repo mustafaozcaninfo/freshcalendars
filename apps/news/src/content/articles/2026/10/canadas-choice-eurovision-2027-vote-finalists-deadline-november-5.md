@@ -3,7 +3,7 @@ title: "Canada Eurovision Voting: Closed Nov. 5, Five 2027 Finalists"
 description: "Canada's Eurovision 2027 voting opened Oct. 27 and closed Nov. 5 at 11:59 p.m. Pacific Time. See the five finalists; the final choice is due by December."
 type: news
 publishedAt: "2026-10-27T15:46:00-04:00"
-updatedAt: "2026-11-14T17:18:00-05:00"
+updatedAt: "2026-11-17T00:55:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["canada eurovision vote", "canada's choice eurovision finalists", "how to vote canada eurovision", "eurovision canada 2027"]
@@ -35,7 +35,6 @@ assets:
       - ["May 13, 2027", "Thursday: second semi-final, Arena Burgas"]
       - ["May 15, 2027", "Saturday: grand final, Arena Burgas"]
     note: "Source: CBC/Radio-Canada Media Centre (Oct. 27, 2026); European Broadcasting Union (EBU)."
-    inkSaver: true
 hero:
   src: ../../../../assets/news/canadas-choice-eurovision-2027-vote-finalists-deadline-november-5/canadas-choice-eurovision-2027-vote-finalists-deadline-november-5.webp
   alt: "Eurovision Song Contest stage from the 2025 contest, the stage Canada's Choice vote leads to for Eurovision 2027"
@@ -55,18 +54,10 @@ downloads:
     pdf: "/news/downloads/eurovision-2027/canadas-choice-eurovision-2027-vote-tracker.pdf"
     png: "/news/downloads/eurovision-2027/canadas-choice-eurovision-2027-vote-tracker.png"
     pages: 1
-  - group: "Canada's Choice Eurovision 2027 Vote Tracker printables"
-    title: "Canada's Choice Eurovision 2027 Vote Tracker (ink saver)"
-    description: "Track your votes for Canada's Eurovision 2027 act: the five finalists, the Nov. 5, 2026 deadline at 11:59 p.m. PT, and the road to Burgas in May 2027. Ink-saver version."
-    preview: ../../../../assets/news/eurovision-2027/canadas-choice-eurovision-2027-vote-tracker-ink.png
-    alt: "Printable vote tracker for Canada's Choice Eurovision 2027 with the five finalists, the Nov. 5 deadline and the Burgas dates, ink-saver version"
-    pdf: "/news/downloads/eurovision-2027/canadas-choice-eurovision-2027-vote-tracker-ink.pdf"
-    png: "/news/downloads/eurovision-2027/canadas-choice-eurovision-2027-vote-tracker-ink.png"
-    pages: 1
 summary:
   - "Voting for Canada's Eurovision 2027 representative opened Tuesday, Oct. 27, 2026, at CBC.ca/eurovision and closed Thursday, Nov. 5, 2026, at 11:59 p.m. Pacific Time (PT)."
-  - "The five finalists are William Cloutier, Josiane, Rêve, Talk and Tyler Shaw, chosen by an expert jury from 325 applicants."
-  - "Canadians could vote up to 10 times during the voting period, and the final choice will be announced by December; no winner was announced in the sources we read."
+  - "The five finalists are William Cloutier, Josiane, Rêve, Talk and Tyler Shaw, selected by a jury of industry professionals from 325 applicants."
+  - "Canadians could vote up to 10 times during the voting period, and the winner is decided by the public vote alone. The winner has not been announced as of Nov. 17, 2026; CBC says it will come by December."
   - "In the Eastern, Atlantic and Newfoundland zones the deadline fell on Friday, Nov. 6."
 faq:
   - q: "How did people vote for Canada at Eurovision 2027?"
@@ -74,9 +65,9 @@ faq:
   - q: "When did the Canada's Choice vote close?"
     a: "Thursday, Nov. 5, 2026, at 11:59 p.m. Pacific Time (PT), which is 2:59 a.m. Eastern Time (ET) on Friday, Nov. 6."
   - q: "When will Canada's Eurovision act be announced?"
-    a: "CBC/Radio-Canada says the voting public's final choice will be announced by December. The exact date is not yet announced, and we found no announcement of the result."
+    a: "CBC/Radio-Canada says the voting public's final choice will be announced by December. As of Nov. 17, 2026, the winner has not been announced, and the exact date is not yet announced."
   - q: "How much does the public vote count?"
-    a: "Not yet announced. CBC/Radio-Canada said in August that the public vote will be combined with a review from a music industry jury."
+    a: "All of it. A jury of industry professionals selected the five finalists, and CBC/Radio-Canada says the final decision is now entirely in the hands of the public."
   - q: "What song will Canada sing at Eurovision 2027?"
     a: "Not yet announced."
 sources:
@@ -112,7 +103,7 @@ related: [eurovision-2027-dates-burgas-semi-finals-grand-final-may-15, remembran
 draft: false
 ---
 
-**Voting for Canada's Eurovision 2027 act opened on Tuesday, Oct. 27, 2026, and closed Thursday, Nov. 5, 2026, at 11:59 p.m. Pacific Time (PT), the Canadian Broadcasting Corporation (CBC)/Radio-Canada said.** Five finalists were on the ballot at CBC.ca/eurovision, and Canadians could vote for their preferred artist up to 10 times. CBC/Radio-Canada says the final choice will be announced by December, and we found no result yet. Below are the finalists, the deadline in every Canadian time zone and the road to Burgas.
+**Voting for Canada's Eurovision 2027 act opened on Tuesday, Oct. 27, 2026, and closed Thursday, Nov. 5, 2026, at 11:59 p.m. Pacific Time (PT), the Canadian Broadcasting Corporation (CBC)/Radio-Canada said.** Five finalists were on the ballot at CBC.ca/eurovision, and Canadians could vote for their preferred artist up to 10 times. CBC/Radio-Canada says the final choice will be announced by December, and as of Nov. 17, 2026, the winner has not been announced. Below are the finalists, the deadline in every Canadian time zone and the road to Burgas.
 
 ## How did voting for Canada at Eurovision 2027 work?
 
@@ -157,7 +148,7 @@ The jury members named in the release are Maurin Auxéméry (programming, Montre
 
 ## What happens after the vote closed?
 
-The voting public's final choice will be announced by December, CBC/Radio-Canada says. The exact date and channel are not yet announced. In August, CBC said the public vote will be combined with a review from a music industry jury to decide which finalist represents Canada. How much each counts is not yet announced.
+The voting public's final choice will be announced by December, CBC/Radio-Canada says. The exact date and channel are not yet announced. The jury only selected the finalists: CBC/Radio-Canada says the final decision is now entirely in the hands of the public, so the public vote alone decides which finalist represents Canada. As of Nov. 17, 2026, the winner has not been announced.
 
 The European Broadcasting Union (EBU) said on July 1, 2026, that Canada will compete in the 2027 contest in Bulgaria, and called it the first new country to join since Australia in 2015. The EBU says Canada will compete in the semi-finals, but which one is not yet announced. Our [Eurovision 2027 dates story](/news/eurovision-2027-dates-burgas-semi-finals-grand-final-may-15/) covers the host city and venue; put the shows on the [May 2027 printable calendar](/may-calendars.html).
 
