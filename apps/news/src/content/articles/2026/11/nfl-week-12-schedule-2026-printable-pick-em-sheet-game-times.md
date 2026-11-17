@@ -152,7 +152,7 @@ Packers at Rams kicks off Wednesday night, the eve of Thanksgiving, at 8 p.m. ET
 
 ## How many days of NFL games are in Week 12?
 
-Five game days spread over six. NFL.com lists games on Wednesday, Thursday, Friday, Sunday and Monday, with none on Saturday, Nov. 28. Thanksgiving Day alone has three games, and Black Friday has Broncos at Steelers at 3 p.m. ET on Prime Video.
+Five game days spread over six. NFL.com lists games on Wednesday, Thursday, Friday, Sunday and Monday, with none on Saturday, Nov. 28. Thanksgiving Day alone has three games, and Black Friday has Broncos at [Steelers](/news/pittsburgh-steelers-schedule-2026-printable-remaining-games/) at 3 p.m. ET on Prime Video.
 
 ## Can the Week 12 Sunday and Monday games still move?
 
