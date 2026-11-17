@@ -3,6 +3,7 @@ title: "PDC World Darts Championship 2026-27: Ally Pally Dec. 11-Jan. 3"
 description: "The Professional Darts Corporation (PDC) World Darts Championship is Dec. 11 to Jan. 3 at Ally Pally. Day-by-day calendar and a US time converter."
 type: news
 publishedAt: "2026-11-02T11:55:00-05:00"
+updatedAt: "2026-11-17T05:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["world darts championship 2026 schedule", "pdc world darts championship 2026-27 dates", "world darts championship 2027 final date", "world darts championship time in us"]
@@ -22,7 +23,7 @@ summary:
   - "Alexandra Palace and Sky Sports both give Dec. 11, 2026 to Jan. 3, 2027 for the World Darts Championship in London: a Friday start and a Sunday final."
   - "Sky Sports says the tournament moves to the Great Hall at Alexandra Palace for the first time and has a Christmas break from Dec. 24 to 27."
   - "Luke Littler is the defending champion after a 7-1 win over Gian van Veen on Jan. 3, 2026."
-  - "Session start times, the day-by-day schedule, the draw, the field, prize money, ticket prices and a U.S. or Canada broadcaster are not yet announced."
+  - "Sky Sports says 128 players start in the first round. Session start times, the day-by-day schedule, the draw, the qualifiers, prize money, ticket prices and a U.S. or Canada broadcaster are not yet announced."
 faq:
   - q: "When is the World Darts Championship 2026-27 final?"
     a: "Sky Sports says the tournament runs from Friday, Dec. 11 to Sunday, Jan. 3, which puts the final on Sunday, Jan. 3, 2027, at Alexandra Palace in London."
@@ -175,7 +176,7 @@ Luke Littler beat Gian van Veen 7-1 in the final on Saturday, Jan. 3, 2026, acco
 
 ## What do we know about tickets, the field and prize money?
 
-Alexandra Palace says that for the first time, tickets were allocated through a ballot, and "The Ballot has now closed." Ticket prices are not yet announced, nor are the field size, the qualifiers and the prize money.
+Alexandra Palace says that for the first time, tickets were allocated through a ballot, and "The Ballot has now closed." Sky Sports' Aug. 6 report says "The first round will be starting four days earlier than in 2025 with 128 players involved." Ticket prices are not yet announced, nor are the qualifiers and the prize money.
 
 For comparison, the 2025-26 event had a £5 million prize fund with £1 million for the winner, according to Sky Sports' results page. Round one ran Dec. 11-19, the semi-finals were on Friday, Jan. 2, and the final was on Saturday, Jan. 3, 2026. Those are last year's figures, not this year's.
 
