@@ -3,7 +3,7 @@ title: "United Cup 2027 Groups, Teams and Schedule: Jan. 1-10"
 description: "The United Cup 2027 runs Jan. 1-10: USA, Poland and Italy play in Perth, Australia and Great Britain in Sydney. All six groups and start times in ET."
 type: explainer
 publishedAt: "2026-11-04T06:50:00-05:00"
-updatedAt: "2026-11-13T16:26:00-05:00"
+updatedAt: "2026-11-16T21:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["united cup 2027", "united cup schedule 2027", "united cup 2027 dates", "united cup draw 2027"]
@@ -138,7 +138,7 @@ Tennis Australia announced the field on Nov. 11, 2026. Its release says Perth ho
 | Sydney | D | Australia, France, Great Britain |
 | Sydney | F | Argentina, Belgium, Spain |
 
-The release names Grand Slam champions Coco Gauff, Linda Nosková and Emma Raducanu in the field, and says 12 of the world's top 20 players are entered. It also says Talia Gibson and Rinky Hijikata lead Australia. Participation is subject to Association of Tennis Professionals (ATP) rules, and players can withdraw. Two more qualification dates remain: Nov. 16 for the Women's Tennis Association (WTA) and Nov. 23 for the ATP, when a top-10 player can qualify a team at the expense of a combined-ranking team, per the overview. The unitedcup.com schedule page has not posted match-by-match times.
+The release names Grand Slam champions Coco Gauff, Linda Nosková and Emma Raducanu in the field, and says 12 of the world's top 20 players are entered. It also says Talia Gibson and Rinky Hijikata lead Australia. Participation is subject to Association of Tennis Professionals (ATP) rules, and players can withdraw. The overview set two later qualification dates, when a top-10 player can qualify a team at the expense of a combined-ranking team: Nov. 16 for the Women's Tennis Association (WTA) and Nov. 23 for the ATP. After the WTA date, the unitedcup.com teams page still lists the same 18 teams (checked Nov. 16); the ATP date is still to come. The unitedcup.com schedule page has not posted match-by-match times.
 
 ## What time do matches start in the U.S. and UK?
 
@@ -160,6 +160,6 @@ A Sydney night session reaches the U.S. East Coast in the small hours. The 2027 
 
 unitedcup.com lists "2027 Tickets" and says "Tickets on sale now!" Tennis Australia says tickets for all sessions are on sale through Ticketmaster in Sydney and Ticketek in Perth, with group-stage and finals tickets from $45. The release does not name the currency.
 
-The unitedcup.com broadcasters page lists Tennis Channel for the USA, Sky UK for the UK and Ireland, and The Sports Network (TSN) and Réseau des sports (RDS) for Canada. It does not say which sessions each channel shows, and it does not mark the list as 2027-only.
+The unitedcup.com broadcasters page lists Tennis Channel for the USA, Sky UK for the UK and Ireland (Tennis Channel is also listed for the UK and Ireland, with Austria, Germany, Switzerland and Spain), and The Sports Network (TSN) and Réseau des sports (RDS) for Canada. It does not say which sessions each channel shows, and it does not mark the list as 2027-only.
 
 The tournament leads into the next Grand Slam: our [Australian Open 2027 guide](/news/australian-open-2027-dates-schedule-us-uk-time-zones-tv/) covers the Jan. 11-31 dates at Melbourne Park, which start the day after the United Cup final. For other tennis team events, see the [Davis Cup Final 8 guide](/news/davis-cup-final-8-2026-bologna-schedule-time-zones-teams/).
