@@ -20,7 +20,7 @@ summary:
   - "March 2027 has 31 days, starts on Monday, Mar. 1 and ends on Wednesday, Mar. 31, so Mondays, Tuesdays and Wednesdays each occur five times."
   - "No federal holiday falls in March 2027, according to the Office of Personnel Management (OPM); the next one is Memorial Day on May 31."
   - "Spring begins on Saturday, Mar. 20 at 4:25 p.m. Eastern Daylight Time (EDT), and the full Moon is Monday, Mar. 22 at 6:44 a.m. EDT, per the U.S. Naval Observatory (USNO)."
-  - "Easter is Sunday, Mar. 28, and the free one-page printable marks 14 dates, from the new Moon on Mar. 8 to the last quarter Moon on Mar. 29."
+  - "Easter is Sunday, Mar. 28, and the free one-page printable marks 10 days, from the new Moon on Mar. 8 to Easter Monday on Mar. 29."
 faq:
   - q: "What day does March 2027 start on?"
     a: "Monday. Mar. 1, 2027 is a Monday and the month ends on Wednesday, Mar. 31. It has 31 days, which is 23 weekdays and 8 weekend days."
@@ -30,6 +30,8 @@ faq:
     a: "Saturday, Mar. 20, 2027. The March equinox is at 20:25 Universal Time (UT), which is 4:25 p.m. EDT, according to the U.S. Naval Observatory."
   - q: "When is the full moon in March 2027?"
     a: "Monday, Mar. 22, 2027 at 6:44 a.m. EDT (10:44 UT), according to the U.S. Naval Observatory. The new moon is Monday, Mar. 8 at 4:29 a.m. Eastern Standard Time (EST)."
+  - q: "Is any state holiday in March 2027?"
+    a: "Yes. Vermont's Town Meeting Day and Texas Independence Day are both Tuesday, Mar. 2, and California state employees have a holiday on Wednesday, Mar. 31, according to each state's holiday schedule."
   - q: "Is the printable calendar free?"
     a: "Yes. The March 2027 calendar is a free one-page US Letter PDF with selectable text, and there is a PNG image too."
 sources:
@@ -72,7 +74,25 @@ sources:
     url: "https://www.mlb.com/news/mlb-2027-schedule-released"
     publisher: "MLB.com"
     date: "2026-07-16"
+  - title: "State of Texas Holiday Schedule, Fiscal Year 2027"
+    url: "https://comptroller.texas.gov/about/holidays.php"
+    publisher: "Texas Comptroller of Public Accounts"
+  - title: "Holiday Schedule, effective July 1, 2026 to June 30, 2028"
+    url: "https://humanresources.vermont.gov/benefits-wellness/holiday-schedule"
+    publisher: "Vermont Department of Human Resources"
+  - title: "State Holidays"
+    url: "https://www.calhr.ca.gov/employees/pages/state-holidays.aspx"
+    publisher: "California Department of Human Resources"
+  - title: "State Holidays"
+    url: "https://cms.illinois.gov/personnel/employeeresources/stateholidays.html"
+    publisher: "Illinois Department of Central Management Services"
+  - title: "Holidays Observed (K.8)"
+    url: "https://www.federalreserve.gov/aboutthefed/k8.htm"
+    publisher: "Board of Governors of the Federal Reserve System"
+    date: "2026-07-08"
 internalLinks:
+  - href: "/march-2027-calendar/"
+    label: "March 2027 calendar in eight printable designs"
   - href: "/march-calendars.html"
     label: "March printable calendars by year"
   - href: "/printable-monthly-calendar.html"
@@ -98,30 +118,31 @@ assets:
       month: 3
       marks:
         - { date: "2027-03-08", label: "New Moon, 4:29 a.m. EST", src: 2, quote: "2027 Mar 8 09:29 (UT)" }
-        - { date: "2027-03-14", label: "99th Oscars, 7 p.m. ET on ABC", src: 11, quote: "the 99th Oscars will take place on Sunday, March 14, 2027." }
+        - { date: "2027-03-14", label: "Clocks go forward; 99th Oscars 7 p.m. ET", src: 11, quote: "the 99th Oscars will take place on Sunday, March 14, 2027." }
         - { date: "2027-03-15", label: "First Quarter Moon, 12:25 p.m. EDT", src: 2, quote: "2027 Mar 15 16:25 (UT)" }
-        - { date: "2027-03-22", label: "Purim begins at sundown", src: 9, quote: "Purim for Hebrew Year 5787 begins at sundown on Monday, 22 March 2027" }
-        - { date: "2027-03-22", label: "Full Moon, 6:44 a.m. EDT", src: 2, quote: "2027 Mar 22 10:44 (UT)" }
+        - { date: "2027-03-17", label: "St. Patrick's Day", src: 7, quote: ["St Patrick's Day", "17 March"] }
+        - { date: "2027-03-20", label: "Spring begins, 4:25 p.m. EDT", src: 3, quote: "Equinox 2027 March 20 20:25" }
+        - { date: "2027-03-22", label: "Full Moon 6:44 a.m. EDT; Purim at sundown", src: 2, quote: "2027 Mar 22 10:44 (UT)" }
         - { date: "2027-03-25", label: "MLB Opening Day", src: 12, quote: "Traditional Opening Day is set for Thursday, March 25" }
-        - { date: "2027-03-26", label: "Good Friday (UK bank holiday)", src: 7, quote: ["Good Friday", "26 March"] }
-        - { date: "2027-03-28", label: "Easter Sunday", src: 6, quote: "Easter Day 28 March" }
-        - { date: "2027-03-29", label: "Easter Monday (UK bank holiday)", src: 7, quote: ["Easter Monday", "29 March"] }
-    note: "Source: U.S. Naval Observatory (Moon phases, 2027); Church of England and GOV.UK (Easter, Good Friday, Easter Monday); Hebcal (Purim); Academy of Motion Picture Arts and Sciences (99th Oscars); MLB.com (Opening Day). Moon times shown in Eastern Time."
-    description: "One-page March 2027 calendar with the Moon phases, Purim, the 99th Oscars, Good Friday, Easter and MLB Opening Day marked, with weekdays."
-    alt: "March 2027 printable calendar grid with Moon phases, the Oscars, Good Friday, Easter and MLB Opening Day marked"
+        - { date: "2027-03-26", label: "Good Friday; NYSE closed", src: 7, quote: ["Good Friday", "26 March"] }
+        - { date: "2027-03-28", label: "Easter Sunday; UK clocks go forward", src: 6, quote: "Easter Day 28 March" }
+        - { date: "2027-03-29", label: "Easter Monday (UK); Last Quarter 8:54 p.m.", src: 7, quote: ["Easter Monday", "29 March"] }
+    note: "Source: U.S. Naval Observatory (Moon phases, equinox); 15 U.S.C. 260a (clock change); Church of England and GOV.UK (Easter, bank holidays, UK clocks); Hebcal (Purim); NYSE (Good Friday); Academy of Motion Picture Arts and Sciences (99th Oscars); MLB.com (Opening Day). Times are Eastern Time."
+    description: "One-page March 2027 calendar with the clock change, first day of spring, Moon phases, St. Patrick's Day, Good Friday and Easter marked."
+    alt: "March 2027 printable calendar grid with the clock change, first day of spring, Moon phases, Good Friday and Easter marked"
 downloads:
   - group: "March 2027 Calendar With Holidays printables"
     title: "March 2027 Calendar With Holidays, Moon Phases and Key Dates"
-    description: "One-page March 2027 calendar with the Moon phases, Purim, the 99th Oscars, Good Friday, Easter and MLB Opening Day marked, with weekdays."
+    description: "One-page March 2027 calendar with the clock change, first day of spring, Moon phases, St. Patrick's Day, Good Friday and Easter marked."
     preview: ../../../../assets/news/march-2027-calendar/march-2027-calendar-holidays-moon-phases.png
-    alt: "March 2027 printable calendar grid with Moon phases, the Oscars, Good Friday, Easter and MLB Opening Day marked"
+    alt: "March 2027 printable calendar grid with the clock change, first day of spring, Moon phases, Good Friday and Easter marked"
     pdf: "/news/downloads/march-2027-calendar/march-2027-calendar-holidays-moon-phases.pdf"
     png: "/news/downloads/march-2027-calendar/march-2027-calendar-holidays-moon-phases.png"
     pages: 1
 draft: false
 ---
 
-**March 2027 starts on Monday, Mar. 1 and has 31 days, no federal holiday and 23 working days.** The Office of Personnel Management (OPM) lists Washington's Birthday on Feb. 15 and Memorial Day on May 31 in 2027, with nothing between them. The free one-page printable at the bottom of this story marks 14 dates from official sources, including every Moon phase with its time.
+**March 2027 starts on Monday, Mar. 1 and has 31 days, no federal holiday and 23 working days.** The Office of Personnel Management (OPM) lists Washington's Birthday on Feb. 15 and Memorial Day on May 31 in 2027, with nothing between them. The free one-page printable marks 10 days from official sources, with the clock change, the first day of spring and every Moon phase with its time.
 
 ## March 2027 at a glance
 
@@ -157,10 +178,11 @@ The last quarter Moon is on Mar. 30 in Universal Time but still Monday evening, 
 
 ## March 2027 holidays and key dates
 
-No date in the table is a federal holiday. St. Patrick's Day and Pi Day are calendar dates, and Pi Day falls on Sunday, Mar. 14, the same day as the clock change, Selection Sunday and the Oscars. Each other row comes from the organization that sets it.
+No date in the table is a federal holiday. Pi Day falls on Sunday, Mar. 14, the same day as the clock change, Selection Sunday and the Oscars. Each other row comes from the organization that sets it.
 
 | Date | What | Source |
 |---|---|---|
+| Tue., Mar. 2 | Town Meeting Day in Vermont, Texas Independence Day | Vermont Department of Human Resources, Texas Comptroller |
 | Sun., Mar. 7 | Mothering Sunday in the UK, the fourth Sunday of Lent | Church of England (computed) |
 | Mon., Mar. 8, 4:29 a.m. EST | New Moon | USNO |
 | Sun., Mar. 14, 2 a.m. local time | Daylight saving time begins | 15 U.S.C. 260a |
@@ -168,7 +190,7 @@ No date in the table is a federal holiday. St. Patrick's Day and Pi Day are cale
 | Sun., Mar. 14, 7 p.m. Eastern Time (ET) | 99th Oscars on ABC | Academy of Motion Picture Arts and Sciences |
 | Sun., Mar. 14 | Pi Day | Calendar date |
 | Mon., Mar. 15, 12:25 p.m. EDT | First Quarter Moon | USNO |
-| Wed., Mar. 17 | St. Patrick's Day | Calendar date |
+| Wed., Mar. 17 | St. Patrick's Day, a bank holiday in Northern Ireland | GOV.UK |
 | Sat., Mar. 20, 4:25 p.m. EDT | March equinox, first day of spring | USNO |
 | Sun., Mar. 21 | Palm Sunday, the Sunday before Easter | Church of England (computed) |
 | Mon., Mar. 22, 6:44 a.m. EDT | Full Moon | USNO |
@@ -180,8 +202,22 @@ No date in the table is a federal holiday. St. Patrick's Day and Pi Day are cale
 | Sun., Mar. 28 | UK clocks go forward | GOV.UK |
 | Mon., Mar. 29 | Easter Monday, bank holiday in England and Wales | GOV.UK |
 | Mon., Mar. 29, 8:54 p.m. EDT | Last Quarter Moon | USNO |
+| Wed., Mar. 31 | State holiday in California | California Department of Human Resources |
 
 Ash Wednesday, the start of Lent, was Feb. 10, according to the Church of England, which is why Mothering Sunday lands on Mar. 7 and Palm Sunday on Mar. 21. Good Friday is not a federal holiday, and our [Easter 2027 guide](/news/easter-2027-march-28-good-friday-easter-monday-whats-open/) covers what is open that weekend and in the UK. Eid al-Fitr depends on the sighting of the Moon, so it is not on the printable.
+
+## State holidays in March 2027: Texas, Vermont and California
+
+Federal offices work the whole month, yet three states give March its own days. The Federal Reserve's holiday schedule for 2027 has no closure in March either, so banks keep normal hours.
+
+| Date | Holiday | State | What the state's schedule says |
+|---|---|---|---|
+| Tue., Mar. 2 | Town Meeting Day | Vermont | State employee holiday |
+| Tue., Mar. 2 | Texas Independence Day | Texas | Offices open with a skeleton crew |
+| Fri., Mar. 26 | Good Friday | Texas | Optional holiday |
+| Wed., Mar. 31 | Holiday on March 31 | California | State employee holiday |
+
+The Texas rows come from the Comptroller's fiscal 2027 schedule, Vermont's from its Department of Human Resources and California's from the California Department of Human Resources (CalHR), which lists the day by its date. Illinois has no state holiday in March: its 2027 list goes from Washington's Birthday on Feb. 15 to Memorial Day on May 31, according to the Illinois Department of Central Management Services. In the UK, St. Patrick's Day on Wednesday, Mar. 17 is a bank holiday in Northern Ireland only, GOV.UK says.
 
 ## Basketball, Oscars and baseball dates in March 2027
 
@@ -189,7 +225,7 @@ Sunday, Mar. 14 carries two big events: Selection Sunday for both NCAA tournamen
 
 ## Free printable March 2027 calendar with key dates
 
-The sheet is a US Letter calendar grid for Monday, Mar. 1 to Wednesday, Mar. 31, 2027. Each of the 14 dates is numbered on its day, with a legend that gives the time for every Moon phase and the equinox. The links to the PDF and PNG files sit under the preview of the printable on this page.
+The sheet is a US Letter calendar grid for Monday, Mar. 1 to Wednesday, Mar. 31, 2027. Ten days carry a number and a note in their box: the clock change and the 99th Oscars on Mar. 14, St. Patrick's Day, the first day of spring, four Moon phases, Purim, MLB Opening Day, Good Friday, Easter Sunday and Easter Monday. Every day also shows its day of the year, from 60 to 90. The links to the PDF and PNG files sit under the preview of the printable on this page.
 
 ## How to print a March 2027 calendar
 
@@ -199,4 +235,4 @@ The sheet is a US Letter calendar grid for Monday, Mar. 1 to Wednesday, Mar. 31,
 
 ## Calendars around March 2027
 
-The calendar site has a [March calendar for every year](/march-calendars.html), a [printable monthly calendar](/printable-monthly-calendar.html) and a [2027 printable yearly calendar](/printable-yearly-calendar.html).
+For a blank month, the [March 2027 calendar page](/march-2027-calendar/) has eight designs in US Letter and A4, with Sunday or Monday start. The calendar site also has a [March calendar for every year](/march-calendars.html), a [printable monthly calendar](/printable-monthly-calendar.html) and a [2027 printable yearly calendar](/printable-yearly-calendar.html).
