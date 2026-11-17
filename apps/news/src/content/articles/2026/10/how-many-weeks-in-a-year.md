@@ -67,7 +67,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/printable-monday-start-calendar.html"
     label: "Monday-start printable calendars"
-related: [why-some-years-have-53-weeks, iso-week-numbers-explained, week-numbers-2027-calendar-printable]
+related: [why-some-years-have-53-weeks, week-numbers-2027-calendar-printable, how-many-weeks-in-2027-52-weeks-1-day]
 assets:
   overlay: true
   kicker: "Calendar guide · Weeks in a year"
