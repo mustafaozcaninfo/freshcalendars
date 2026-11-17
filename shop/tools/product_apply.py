@@ -62,7 +62,8 @@ def body(d, p, cat_slug, cat_title, read_on):
     rows = ''.join(f'<tr><td>{html.escape(text(a))}</td><td>{html.escape(text(b))}</td></tr>' for a, b in d['specs'])
     kind = text(d['link_title'])
     s = d['sections']
-    url, sent = PRINT.get(cat_slug, PRINT['default'])
+    # every advent subcategory (toy, beauty, wooden ...) gets the December calendar line
+    url, sent = PRINT.get(cat_slug) or PRINT['advent-calendars' if cat_slug.endswith('advent-calendars') else 'default']
     out = (f'<h3>{html.escape(kind)}: what the listing states</h3>\n<div class="fc-table fc-spec"><table>\n<thead><tr><th>Detail</th><th>What the listing states</th></tr></thead>\n<tbody>\n{rows}\n</tbody>\n'
            f'<caption>Source: the retailer listing, read {read_on}.</caption>\n</table></div>\n')
     out += f'<h3>{html.escape(text(s[0]["h"]))}</h3>\n<p>{html.escape(text(s[0]["p"]))} More options sit in the <a href="https://shop.freshcalendars.com/categories/{cat_slug}">{html.escape(cat_title.lower())} category</a>.</p>\n'
