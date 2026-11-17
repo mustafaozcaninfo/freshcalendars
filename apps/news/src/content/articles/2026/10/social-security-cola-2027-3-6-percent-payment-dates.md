@@ -3,6 +3,7 @@ title: "Social Security COLA 2027 Is 3.6%: January Pay Dates by Birthday"
 description: "The 2027 Social Security cost-of-living adjustment is 3.6%, about $75 more a month for the average retiree. January pay dates are Jan. 13, 20 and 27."
 type: news
 publishedAt: "2026-10-18T04:00:00-04:00"
+updatedAt: "2026-11-17T17:25:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["Social Security COLA 2027", "2027 Social Security increase", "Social Security payment dates January 2027", "SSI payment December 31 2026", "taxable maximum 2027"]
@@ -14,7 +15,7 @@ hero:
   caption: "Social Security benefits rise 3.6% with January 2027 payments, which arrive on Jan. 13, 20 or 27 depending on birth date."
 summary:
   - "The Social Security Administration announced a 3.6% cost-of-living adjustment for 2027 on Oct. 14, 2026."
-  - "The average retired worker's benefit rises about $75, from $2,095 to an estimated $2,170 a month."
+  - "The average retired worker's benefit rises about $75, from $2,095 to an estimated $2,170 a month; after the 2027 Part B premium of $209.40, the deposit rises about $68.50."
   - "About 7.3 million SSI recipients get the higher amount on Dec. 31, 2026; Social Security checks rise with January 2027 payments."
   - "January 2027 paydays by birth date are Jan. 13, Jan. 20 and Jan. 27."
 faq:
@@ -24,6 +25,8 @@ faq:
     a: "SSI recipients get it in the payment dated Dec. 31, 2026. Social Security beneficiaries see it in benefits paid in January 2027, on Jan. 13, 20 or 27 depending on birth date."
   - q: "How much will the average benefit go up?"
     a: "About $75 a month for retired workers. SSA estimates the average retired-worker benefit rises from $2,095 to $2,170 in January 2027."
+  - q: "How much of the COLA does the 2027 Part B premium take?"
+    a: "CMS set the standard 2027 Part B premium at $209.40, up $6.50 from $202.90. On the average retired-worker benefit, the $75 raise shrinks to about $68.50 a month after the premium (our calculation). Higher earners and people whose premium is paid by Medicaid differ."
   - q: "Is this the biggest COLA in recent years?"
     a: "It is the largest since the 8.7% increase for 2023. The COLA was 3.2% for 2024, 2.5% for 2025 and 2.8% for 2026."
   - q: "When will I see my new benefit amount?"
@@ -48,6 +51,10 @@ sources:
   - title: "Medicare Part B premium 2027"
     url: "https://www.aarp.org/medicare/medicare-part-b-premium-2027/"
     publisher: "AARP"
+  - title: "2027 Medicare Parts A & B Premiums and Deductibles"
+    url: "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-parts-b-premiums-deductibles"
+    publisher: "Centers for Medicare & Medicaid Services"
+    date: "2026-11-17"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -121,9 +128,19 @@ The payroll tax rate itself does not change: 7.65% for employees and 15.3% for t
 
 Retirees under the Civil Service Retirement System receive the same 3.6% increase. Retirees under the Federal Employees Retirement System (FERS) get 2.6%, Federal News Network reports, because the FERS formula subtracts one percentage point when inflation is above 3%.
 
-## Medicare costs are still to come
+## Medicare Part B premium for 2027: $209.40
 
-Many retirees have Medicare Part B premiums deducted from their Social Security checks, so the final January deposit depends on that figure too. The Centers for Medicare & Medicaid Services usually announces the new premium in November. The 2026 Medicare Trustees Report projected a standard 2027 premium of $209.50 a month, up from $202.90 in 2026, according to AARP. That is a projection, not the final number.
+The Centers for Medicare & Medicaid Services (CMS) set the standard monthly Medicare Part B premium at **$209.40 for 2027**, up $6.50 from $202.90 in 2026, in its fact sheet dated Nov. 17, 2026. The annual Part B deductible is $292, up $9 from $283 in 2026. The 2026 Medicare Trustees Report had projected $209.50, according to AARP, so the official figure came in $0.10 lower. Our [Part B premium story](/news/medicare-part-b-premium-2027-projected-209-50-when-cms-announces/) tracks the projection.
+
+Many retirees have the premium deducted from their Social Security checks. Our calculation from SSA's average retired-worker benefit and CMS's standard premium:
+
+| Average retired worker | 2026 | 2027 |
+|---|---|---|
+| Benefit before deductions | $2,095 | $2,170 |
+| Standard Part B premium | $202.90 | $209.40 |
+| Deposit after the premium | $1,892.10 | $1,960.60 |
+
+The deposit rises about $68.50 a month: the $75 raise minus the $6.50 premium increase. People with higher incomes pay income-related adjustments, and some people have the premium paid by Medicaid or a Medicare Savings Program, so their numbers differ.
 
 ## When you will see your exact amount
 
