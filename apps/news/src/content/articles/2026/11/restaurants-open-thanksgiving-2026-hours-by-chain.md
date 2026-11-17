@@ -97,7 +97,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve, thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates]
+related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, is-chick-fil-a-open-thanksgiving-christmas-eve-2026, thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates]
 downloads:
   - group: "Restaurants on Thanksgiving 2026 printables"
     title: "Restaurants on Thanksgiving 2026: Open, Pickup, Closed"
