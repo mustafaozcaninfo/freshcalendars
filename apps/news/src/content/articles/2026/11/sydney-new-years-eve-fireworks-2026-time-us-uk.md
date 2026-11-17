@@ -1,6 +1,6 @@
 ---
 title: "Sydney Fireworks 2026 Time: Midnight Show at 8 a.m. ET Dec. 31"
-description: "Sydney's 9 p.m. fireworks are at 5 a.m. ET and midnight at 8 a.m. ET (1 p.m. GMT) on Thu., Dec. 31. Time table for US zones and the UK, plus the running order."
+description: "Sydney's midnight fireworks are at 8 a.m. ET (1 p.m. GMT) and the 9 p.m. show at 5 a.m. ET on Thu., Dec. 31. Times for every US zone, plus a printable."
 type: news
 publishedAt: "2026-11-17T12:50:00-05:00"
 authors: [christina-gerland]
@@ -47,7 +47,7 @@ assets:
         - { start: "2026-12-31T21:00+11:00", tz: "Australia/Sydney", title: "Calling Country fireworks display", airing: live, src: 2, quote: ["The Cahill Expressway walkway over Circular Quay will close from 4am Thursday 31 December until 6am on Friday 1 January.", "9pm Calling Country fireworks display"] }
         - { start: "2027-01-01T00:00+11:00", tz: "Australia/Sydney", title: "Midnight fireworks display", airing: live, src: 2, quote: ["The Cahill Expressway walkway over Circular Quay will close from 4am Thursday 31 December until 6am on Friday 1 January.", "Midnight fireworks display"] }
       unconfirmed:
-        - { label: "A stream for viewers outside Australia", why: "Not announced as of Nov. 17, 2026" }
+        - { label: "A stream for viewers outside Australia", why: "Not announced yet" }
         - { label: "How long each fireworks display lasts", why: "No official source" }
 downloads:
   - group: "Sydney New Year's Eve 2026 Watch Guide printables"
