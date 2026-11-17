@@ -76,7 +76,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [mls-cup-playoffs-2026-schedule-dates-mls-cup-december-18, soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5]
+related: [copa-sudamericana-final-2026-atletico-mineiro-boca-time-barranquilla, mls-cup-playoffs-2026-schedule-dates-mls-cup-december-18, soccer-on-tv-this-weekend-october-30-november-2-2026-us-channels]
 downloads:
   - group: "Liga MX Liguilla Apertura 2026 Calendar printables"
     title: "Liga MX Liguilla Apertura 2026 Calendar"

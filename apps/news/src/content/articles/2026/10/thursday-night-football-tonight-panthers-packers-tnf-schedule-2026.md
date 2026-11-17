@@ -99,7 +99,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [nfl-week-8-schedule-2026-game-times-tv-clock-change, nba-games-today-october-29-2026, nhl-games-today-october-29-2026]
+related: [nfl-week-8-schedule-2026-game-times-tv-clock-change, nba-games-today-october-29-2026, thursday-night-football-schedule-2026-remaining-games]
 downloads:
   - group: "Thursday Night Football Schedule 2026 (Weeks 8 to 17) printables"
     title: "Thursday Night Football Schedule 2026 (Weeks 8 to 17)"
