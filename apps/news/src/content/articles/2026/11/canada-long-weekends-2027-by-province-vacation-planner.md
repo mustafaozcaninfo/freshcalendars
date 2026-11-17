@@ -75,7 +75,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/when-is/ca-canada-day/"
     label: "When is Canada Day"
-related: [canada-statutory-holidays-2027-federal-general-holidays, family-day-2027-canada-february-15-provinces-whats-closed, long-weekends-2027-pto-planner-bridge-days]
+related: [canada-statutory-holidays-2027-federal-general-holidays, family-day-2027-canada-february-15-provinces-whats-closed, labour-day-2027-canada-september-6-whats-open]
 assets:
   overlay: true
   kicker: "Canada long weekends · 2027"
