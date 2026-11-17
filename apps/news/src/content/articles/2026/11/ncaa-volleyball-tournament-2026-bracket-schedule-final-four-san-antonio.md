@@ -98,7 +98,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [feast-week-2026-college-basketball-tournaments-dates-maui-battle-4-atlantis-players-era, college-football-bowl-schedule-2026-27-dates-times-tv-cfp]
+related: [ncaa-mens-college-cup-2026-bracket-schedule-cary, ncaa-womens-college-cup-2026-bracket-schedule, college-football-bowl-schedule-2026-27-dates-times-tv-cfp]
 draft: false
 ---
 
