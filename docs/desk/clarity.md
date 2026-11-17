@@ -1,6 +1,6 @@
 # Microsoft Clarity (generated, do not edit)
 
-Read 2026-11-16T09:25 UTC from the Clarity Data Export API, last 24 hours (UTC). Sessions are Clarity's; bot sessions are counted apart. Heatmaps and recordings are in the Clarity dashboard. Source: `scripts/news-clarity.mjs`, daily.
+Read 2026-11-17T09:14 UTC from the Clarity Data Export API, last 24 hours (UTC). Sessions are Clarity's; bot sessions are counted apart. Heatmaps and recordings are in the Clarity dashboard. Source: `scripts/news-clarity.mjs`, daily.
 
 ## By page
 
@@ -8,271 +8,271 @@ Read 2026-11-16T09:25 UTC from the Clarity Data Export API, last 24 hours (UTC).
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/ | 103 | 6.80 | 93.20 | 7 | 9 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 40 | 2.50 | 97.50 | 1 | 1 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 34 | 8.82 | 91.18 | 3 | 4 |
-| /news/november-2026-meteor-showers-taurids-leonids/ | 30 | 13.33 | 86.67 | 4 | 4 |
-| /news/operation-christmas-child-2026-national-collection-week-drop-off/ | 11 | 9.09 | 90.91 | 1 | 1 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 10 | 20 | 80 | 3 | 7 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 9 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 9 | 22.22 | 77.78 | 2 | 4 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 9 | 0 | 100 | 0 | 0 |
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/#google_vignette | 9 | 0 | 100 | 0 | 0 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 9 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-15-2026/ | 8 | 12.50 | 87.50 | 1 | 1 |
-| /news/wordle-hint-answer-today-november-16-2026-1976/ | 8 | 12.50 | 87.50 | 1 | 2 |
-| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 7 | 14.29 | 85.71 | 1 | 1 |
-| /news/fcs-playoffs-2026-bracket-schedule-dates-championship-nashville/ | 7 | 14.29 | 85.71 | 1 | 1 |
-| /news/premier-league-fixtures-november-21-29-2026-kickoff-times-tv/ | 7 | 0 | 100 | 0 | 0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 7 | 0 | 100 | 0 | 0 |
-| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 7 | 14.29 | 85.71 | 1 | 1 |
-| /news/nyt-midi-crossword-answers-november-16-2026/ | 6 | 0 | 100 | 0 | 0 |
-| /news/when-do-2026-election-winners-take-office-congress-governors/ | 6 | 33.33 | 66.67 | 2 | 2 |
-| /news/tim-hortons-holiday-menu-2026-canada/ | 5 | 0 | 100 | 0 | 0 |
-| /news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/ | 5 | 20 | 80 | 1 | 1 |
-| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 5 | 20 | 80 | 1 | 1 |
-| /news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/ | 5 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/#google_vignette | 5 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/ | 114 | 2.63 | 97.37 | 3 | 4 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 101 | 1.98 | 98.02 | 2 | 4 |
+| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 41 | 2.44 | 97.56 | 1 | 1 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 24 | 4.17 | 95.83 | 1 | 1 |
+| /news/november-2026-meteor-showers-taurids-leonids/ | 20 | 0 | 100 | 0 | 0 |
+| /news/nyt-strands-hints-answers-november-17-2026-989/ | 19 | 5.26 | 94.74 | 1 | 1 |
+| /news/december-2026-calendar-printable/ | 18 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/#google_vignette | 16 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 15 | 20 | 80 | 3 | 4 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 13 | 15.38 | 84.62 | 2 | 2 |
+| /news/is-christmas-eve-a-federal-holiday-2026/ | 12 | 8.33 | 91.67 | 1 | 1 |
+| /news/nyt-spelling-bee-hints-answers-november-17-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 10 | 10 | 90 | 1 | 4 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 10 | 20 | 80 | 2 | 3 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 9 | 11.11 | 88.89 | 1 | 1 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 9 | 0 | 100 | 0 | 0 |
+| /news/boxing-schedule-december-2026-fight-dates-times/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 8 | 50 | 50 | 4 | 4 |
+| /news/lego-insiders-weekend-black-friday-2026-dates-november-21-22/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 8 | 0 | 100 | 0 | 0 |
+| /news/college-spring-break-2027-dates-universities/ | 8 | 12.50 | 87.50 | 1 | 3 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#pz-answer | 7 | 0 | 100 | 0 | 0 |
+| /news/when-do-2026-election-winners-take-office-congress-governors/ | 7 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 7 | 0 | 100 | 0 | 0 |
 
 #### ExcessiveScroll
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/ | 103 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 40 | 0 | 100 | 0 | 0 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 34 | 0 | 100 | 0 | 0 |
-| /news/november-2026-meteor-showers-taurids-leonids/ | 30 | 0 | 100 | 0 | 0 |
-| /news/operation-christmas-child-2026-national-collection-week-drop-off/ | 11 | 0 | 100 | 0 | 0 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 10 | 0 | 100 | 0 | 0 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 9 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 9 | 0 | 100 | 0 | 0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 9 | 0 | 100 | 0 | 0 |
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/#google_vignette | 9 | 0 | 100 | 0 | 0 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 9 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-15-2026/ | 8 | 0 | 100 | 0 | 0 |
-| /news/wordle-hint-answer-today-november-16-2026-1976/ | 8 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/fcs-playoffs-2026-bracket-schedule-dates-championship-nashville/ | 7 | 0 | 100 | 0 | 0 |
-| /news/premier-league-fixtures-november-21-29-2026-kickoff-times-tv/ | 7 | 0 | 100 | 0 | 0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 7 | 0 | 100 | 0 | 0 |
-| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 7 | 0 | 100 | 0 | 0 |
-| /news/nyt-midi-crossword-answers-november-16-2026/ | 6 | 0 | 100 | 0 | 0 |
-| /news/when-do-2026-election-winners-take-office-congress-governors/ | 6 | 0 | 100 | 0 | 0 |
-| /news/tim-hortons-holiday-menu-2026-canada/ | 5 | 0 | 100 | 0 | 0 |
-| /news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/ | 5 | 0 | 100 | 0 | 0 |
-| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 5 | 0 | 100 | 0 | 0 |
-| /news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/ | 5 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/#google_vignette | 5 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/ | 114 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 101 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 41 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 24 | 0 | 100 | 0 | 0 |
+| /news/november-2026-meteor-showers-taurids-leonids/ | 20 | 0 | 100 | 0 | 0 |
+| /news/nyt-strands-hints-answers-november-17-2026-989/ | 19 | 0 | 100 | 0 | 0 |
+| /news/december-2026-calendar-printable/ | 18 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/#google_vignette | 16 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 15 | 0 | 100 | 0 | 0 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 13 | 0 | 100 | 0 | 0 |
+| /news/is-christmas-eve-a-federal-holiday-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/nyt-spelling-bee-hints-answers-november-17-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 10 | 0 | 100 | 0 | 0 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 10 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 9 | 0 | 100 | 0 | 0 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 9 | 0 | 100 | 0 | 0 |
+| /news/boxing-schedule-december-2026-fight-dates-times/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 8 | 0 | 100 | 0 | 0 |
+| /news/lego-insiders-weekend-black-friday-2026-dates-november-21-22/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 8 | 0 | 100 | 0 | 0 |
+| /news/college-spring-break-2027-dates-universities/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#pz-answer | 7 | 0 | 100 | 0 | 0 |
+| /news/when-do-2026-election-winners-take-office-congress-governors/ | 7 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 7 | 0 | 100 | 0 | 0 |
 
 #### RageClickCount
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/ | 103 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 40 | 0 | 100 | 0 | 0 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 34 | 0 | 100 | 0 | 0 |
-| /news/november-2026-meteor-showers-taurids-leonids/ | 30 | 0 | 100 | 0 | 0 |
-| /news/operation-christmas-child-2026-national-collection-week-drop-off/ | 11 | 0 | 100 | 0 | 0 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 10 | 0 | 100 | 0 | 0 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 9 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 9 | 0 | 100 | 0 | 0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 9 | 0 | 100 | 0 | 0 |
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/#google_vignette | 9 | 0 | 100 | 0 | 0 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 9 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-15-2026/ | 8 | 0 | 100 | 0 | 0 |
-| /news/wordle-hint-answer-today-november-16-2026-1976/ | 8 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/fcs-playoffs-2026-bracket-schedule-dates-championship-nashville/ | 7 | 0 | 100 | 0 | 0 |
-| /news/premier-league-fixtures-november-21-29-2026-kickoff-times-tv/ | 7 | 0 | 100 | 0 | 0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 7 | 0 | 100 | 0 | 0 |
-| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 7 | 0 | 100 | 0 | 0 |
-| /news/nyt-midi-crossword-answers-november-16-2026/ | 6 | 0 | 100 | 0 | 0 |
-| /news/when-do-2026-election-winners-take-office-congress-governors/ | 6 | 0 | 100 | 0 | 0 |
-| /news/tim-hortons-holiday-menu-2026-canada/ | 5 | 0 | 100 | 0 | 0 |
-| /news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/ | 5 | 0 | 100 | 0 | 0 |
-| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 5 | 0 | 100 | 0 | 0 |
-| /news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/ | 5 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/#google_vignette | 5 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/ | 114 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 101 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 41 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 24 | 0 | 100 | 0 | 0 |
+| /news/november-2026-meteor-showers-taurids-leonids/ | 20 | 0 | 100 | 0 | 0 |
+| /news/nyt-strands-hints-answers-november-17-2026-989/ | 19 | 0 | 100 | 0 | 0 |
+| /news/december-2026-calendar-printable/ | 18 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/#google_vignette | 16 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 15 | 0 | 100 | 0 | 0 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 13 | 0 | 100 | 0 | 0 |
+| /news/is-christmas-eve-a-federal-holiday-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/nyt-spelling-bee-hints-answers-november-17-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 10 | 0 | 100 | 0 | 0 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 10 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 9 | 0 | 100 | 0 | 0 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 9 | 0 | 100 | 0 | 0 |
+| /news/boxing-schedule-december-2026-fight-dates-times/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 8 | 0 | 100 | 0 | 0 |
+| /news/lego-insiders-weekend-black-friday-2026-dates-november-21-22/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 8 | 0 | 100 | 0 | 0 |
+| /news/college-spring-break-2027-dates-universities/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#pz-answer | 7 | 0 | 100 | 0 | 0 |
+| /news/when-do-2026-election-winners-take-office-congress-governors/ | 7 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 7 | 0 | 100 | 0 | 0 |
 
 #### QuickbackClick
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/ | 103 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 40 | 2.50 | 97.50 | 1 | 1 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 34 | 0 | 100 | 0 | 0 |
-| /news/november-2026-meteor-showers-taurids-leonids/ | 30 | 3.33 | 96.67 | 1 | 1 |
-| /news/operation-christmas-child-2026-national-collection-week-drop-off/ | 11 | 0 | 100 | 0 | 0 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 10 | 10 | 90 | 1 | 1 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 9 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 9 | 0 | 100 | 0 | 0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 9 | 0 | 100 | 0 | 0 |
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/#google_vignette | 9 | 0 | 100 | 0 | 0 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 9 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-15-2026/ | 8 | 0 | 100 | 0 | 0 |
-| /news/wordle-hint-answer-today-november-16-2026-1976/ | 8 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/fcs-playoffs-2026-bracket-schedule-dates-championship-nashville/ | 7 | 14.29 | 85.71 | 1 | 1 |
-| /news/premier-league-fixtures-november-21-29-2026-kickoff-times-tv/ | 7 | 0 | 100 | 0 | 0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 7 | 0 | 100 | 0 | 0 |
-| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 7 | 0 | 100 | 0 | 0 |
-| /news/nyt-midi-crossword-answers-november-16-2026/ | 6 | 0 | 100 | 0 | 0 |
-| /news/when-do-2026-election-winners-take-office-congress-governors/ | 6 | 0 | 100 | 0 | 0 |
-| /news/tim-hortons-holiday-menu-2026-canada/ | 5 | 0 | 100 | 0 | 0 |
-| /news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/ | 5 | 0 | 100 | 0 | 0 |
-| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 5 | 20 | 80 | 1 | 1 |
-| /news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/ | 5 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/#google_vignette | 5 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/ | 114 | 0.88 | 99.12 | 1 | 1 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 101 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 41 | 4.88 | 95.12 | 2 | 2 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 24 | 0 | 100 | 0 | 0 |
+| /news/november-2026-meteor-showers-taurids-leonids/ | 20 | 10 | 90 | 2 | 2 |
+| /news/nyt-strands-hints-answers-november-17-2026-989/ | 19 | 0 | 100 | 0 | 0 |
+| /news/december-2026-calendar-printable/ | 18 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/#google_vignette | 16 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 15 | 0 | 100 | 0 | 0 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 13 | 0 | 100 | 0 | 0 |
+| /news/is-christmas-eve-a-federal-holiday-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/nyt-spelling-bee-hints-answers-november-17-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 10 | 0 | 100 | 0 | 0 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 10 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 9 | 0 | 100 | 0 | 0 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 9 | 0 | 100 | 0 | 0 |
+| /news/boxing-schedule-december-2026-fight-dates-times/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 8 | 0 | 100 | 0 | 0 |
+| /news/lego-insiders-weekend-black-friday-2026-dates-november-21-22/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 8 | 0 | 100 | 0 | 0 |
+| /news/college-spring-break-2027-dates-universities/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#pz-answer | 7 | 0 | 100 | 0 | 0 |
+| /news/when-do-2026-election-winners-take-office-congress-governors/ | 7 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 7 | 0 | 100 | 0 | 0 |
 
 #### ScriptErrorCount
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/ | 103 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 40 | 2.50 | 97.50 | 1 | 4 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 34 | 0 | 100 | 0 | 0 |
-| /news/november-2026-meteor-showers-taurids-leonids/ | 30 | 0 | 100 | 0 | 0 |
-| /news/operation-christmas-child-2026-national-collection-week-drop-off/ | 11 | 0 | 100 | 0 | 0 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 10 | 0 | 100 | 0 | 0 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 9 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 9 | 0 | 100 | 0 | 0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 9 | 0 | 100 | 0 | 0 |
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/#google_vignette | 9 | 0 | 100 | 0 | 0 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 9 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-15-2026/ | 8 | 0 | 100 | 0 | 0 |
-| /news/wordle-hint-answer-today-november-16-2026-1976/ | 8 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/fcs-playoffs-2026-bracket-schedule-dates-championship-nashville/ | 7 | 0 | 100 | 0 | 0 |
-| /news/premier-league-fixtures-november-21-29-2026-kickoff-times-tv/ | 7 | 0 | 100 | 0 | 0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 7 | 0 | 100 | 0 | 0 |
-| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 7 | 0 | 100 | 0 | 0 |
-| /news/nyt-midi-crossword-answers-november-16-2026/ | 6 | 0 | 100 | 0 | 0 |
-| /news/when-do-2026-election-winners-take-office-congress-governors/ | 6 | 0 | 100 | 0 | 0 |
-| /news/tim-hortons-holiday-menu-2026-canada/ | 5 | 0 | 100 | 0 | 0 |
-| /news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/ | 5 | 0 | 100 | 0 | 0 |
-| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 5 | 0 | 100 | 0 | 0 |
-| /news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/ | 5 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/#google_vignette | 5 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/ | 114 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 101 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 41 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 24 | 0 | 100 | 0 | 0 |
+| /news/november-2026-meteor-showers-taurids-leonids/ | 20 | 0 | 100 | 0 | 0 |
+| /news/nyt-strands-hints-answers-november-17-2026-989/ | 19 | 0 | 100 | 0 | 0 |
+| /news/december-2026-calendar-printable/ | 18 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/#google_vignette | 16 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 15 | 6.67 | 93.33 | 1 | 1 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 13 | 0 | 100 | 0 | 0 |
+| /news/is-christmas-eve-a-federal-holiday-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/nyt-spelling-bee-hints-answers-november-17-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 10 | 0 | 100 | 0 | 0 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 10 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 9 | 0 | 100 | 0 | 0 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 9 | 0 | 100 | 0 | 0 |
+| /news/boxing-schedule-december-2026-fight-dates-times/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 8 | 0 | 100 | 0 | 0 |
+| /news/lego-insiders-weekend-black-friday-2026-dates-november-21-22/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 8 | 0 | 100 | 0 | 0 |
+| /news/college-spring-break-2027-dates-universities/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#pz-answer | 7 | 0 | 100 | 0 | 0 |
+| /news/when-do-2026-election-winners-take-office-congress-governors/ | 7 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 7 | 0 | 100 | 0 | 0 |
 
 #### ErrorClickCount
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/ | 103 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 40 | 0 | 100 | 0 | 0 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 34 | 0 | 100 | 0 | 0 |
-| /news/november-2026-meteor-showers-taurids-leonids/ | 30 | 0 | 100 | 0 | 0 |
-| /news/operation-christmas-child-2026-national-collection-week-drop-off/ | 11 | 0 | 100 | 0 | 0 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 10 | 0 | 100 | 0 | 0 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 9 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 9 | 0 | 100 | 0 | 0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 9 | 0 | 100 | 0 | 0 |
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/#google_vignette | 9 | 0 | 100 | 0 | 0 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 9 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-15-2026/ | 8 | 0 | 100 | 0 | 0 |
-| /news/wordle-hint-answer-today-november-16-2026-1976/ | 8 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/fcs-playoffs-2026-bracket-schedule-dates-championship-nashville/ | 7 | 0 | 100 | 0 | 0 |
-| /news/premier-league-fixtures-november-21-29-2026-kickoff-times-tv/ | 7 | 0 | 100 | 0 | 0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 7 | 0 | 100 | 0 | 0 |
-| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 7 | 0 | 100 | 0 | 0 |
-| /news/nyt-midi-crossword-answers-november-16-2026/ | 6 | 0 | 100 | 0 | 0 |
-| /news/when-do-2026-election-winners-take-office-congress-governors/ | 6 | 0 | 100 | 0 | 0 |
-| /news/tim-hortons-holiday-menu-2026-canada/ | 5 | 0 | 100 | 0 | 0 |
-| /news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/ | 5 | 0 | 100 | 0 | 0 |
-| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 5 | 0 | 100 | 0 | 0 |
-| /news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/ | 5 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/#google_vignette | 5 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/ | 114 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 101 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 41 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 24 | 0 | 100 | 0 | 0 |
+| /news/november-2026-meteor-showers-taurids-leonids/ | 20 | 0 | 100 | 0 | 0 |
+| /news/nyt-strands-hints-answers-november-17-2026-989/ | 19 | 0 | 100 | 0 | 0 |
+| /news/december-2026-calendar-printable/ | 18 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/#google_vignette | 16 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 15 | 0 | 100 | 0 | 0 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 13 | 0 | 100 | 0 | 0 |
+| /news/is-christmas-eve-a-federal-holiday-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/nyt-spelling-bee-hints-answers-november-17-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 10 | 0 | 100 | 0 | 0 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 10 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 9 | 0 | 100 | 0 | 0 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 9 | 0 | 100 | 0 | 0 |
+| /news/boxing-schedule-december-2026-fight-dates-times/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 8 | 0 | 100 | 0 | 0 |
+| /news/lego-insiders-weekend-black-friday-2026-dates-november-21-22/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 8 | 0 | 100 | 0 | 0 |
+| /news/college-spring-break-2027-dates-universities/ | 8 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#pz-answer | 7 | 0 | 100 | 0 | 0 |
+| /news/when-do-2026-election-winners-take-office-congress-governors/ | 7 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 7 | 0 | 100 | 0 | 0 |
 
 #### ScrollDepth
 
 | Url | averageScrollDepth |
 |---|---:|
-| /news/europa-league-conference-league-december-2026-schedule-kickoff-times-et/ | 100 |
-| /news/san-diego-unified-calendar-2026-27-breaks/ | 100 |
-| /news/champions-league-december-2026-matchday-6-kickoff-times/ | 100 |
-| /news/christmas-at-biltmore-2026-candlelight-evenings-dates/ | 100 |
-| /news/linkedin-games-answers-today-november-3-2026-queens-tango-zip/ | 100 |
-| /news/how-many-mondays-fridays-weekends-in-2027/ | 100 |
-| /news/national-days-this-week-november-30-december-6-2026/ | 100 |
-| /news/costco-black-friday-2026-dates-november-27-30-pre-thanksgiving-savings-november-16/ | 100 |
-| /news/what-is-iso-8601/ | 100 |
-| /news/us-capitol-christmas-tree-2026-tour-schedule-stops-dates/#google_vignette | 100 |
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/winnipeg%20time | 93 |
-| /news/international-day-for-tolerance-2026-november-16/?utm_source=chatgpt.com | 77.50 |
-| /news/liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule/ | 75 |
-| /news/november-2026-meteor-showers-taurids-leonids/#google_vignette | 72 |
-| /news/nyt-mini-crossword-answers-november-16-2026/ | 70.50 |
-| /news/costco-black-friday-2026-dates-november-27-30-pre-thanksgiving-savings-november-16/# | 68.50 |
-| /news/x-games-league-2027-winter-schedule-aspen-calgary-ruka-dates/ | 67 |
-| /news/lake-washington-school-district-calendar-2026-27/ | 66 |
-| https://shop.freshcalendars.com/products/zettler-daily-tear-off-calendar-2027-size-s-1-day | 66 |
-| /news/ottawa-santa-claus-parade-2026-november-21-route-time/#downloads | 65 |
-| /news/charlie-brown-thanksgiving-2026-free-apple-tv-november-14-15/ | 64 |
-| /news/nyt-strands-hints-answers-november-16-2026-988/?utm_source=chatgpt.com | 63 |
-| /news/linkedin-games-answers-today-november-15-2026-queens-tango-zip/?utm_source=chatgpt.c | 63 |
-| /news/killington-cup-2026-world-cup-ski-race-times-tv/ | 63 |
-| /news/aldi-advent-calendars-2026-in-stores-date/ | 63 |
+| /news/how-to-print-a-calendar/ | 100 |
+| /news/is-walmart-open-thanksgiving-2026-black-friday-6-am/ | 100 |
+| /news/formula-e-calendar-2026-27-season-13-jeddah-december-18/ | 100 |
+| /news/corrections-policy/ | 100 |
+| /news/video-game-release-dates-2027-calendar/ | 100 |
+| /news/cypress-fairbanks-isd-calendar-2026-27-breaks/ | 100 |
+| /news/national-adoption-day-2026-november-21/ | 100 |
+| /news/american-education-week-2026-november-16-20-daily-themes/ | 100 |
+| /news/advent-of-code-2026-start-time-puzzle-unlock-time-zones/ | 93 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/#downloads | 92 |
+| https://shop.freshcalendars.com/categories/family-planners?utm_source=chatgpt.com | 91 |
+| /news/new-mexico-legislature-2027-session-january-19-prefiling-january-4/#google_vignette | 77 |
+| /news/canada-statutory-holidays-2027-federal-general-holidays/ | 76 |
+| /news/killington-cup-2026-world-cup-ski-race-times-tv/ | 75 |
+| /news/college-football-conference-championship-games-2026-schedule-times-tv/ | 74.25 |
+| /news/holiday-tipping-guide-2026-how-much-to-tip/ | 74 |
+| /news/ces-2027-dates-keynotes-las-vegas/ | 73 |
+| /news/macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons/ | 73 |
+| /news/blossom-word-game-answers-november-16-2026/ | 72.50 |
+| /news/krampusnacht-2026-saturday-december-5-krampus-events-us/ | 72 |
+| /news/nyt-spelling-bee-hints-answers-november-17-2026/#pz-answer | 69 |
+| /news/euro-2028-qualifying-draw-date-time-belfast/ | 69 |
+| /news/hanukkah-2026-dates-calendar/#google_vignette | 67 |
+| /news/netflix-christmas-movies-2026-release-dates-holiday-watch-list/ | 65 |
+| /news/high-school-football-state-championships-2026-dates-by-state/ | 64 |
 
 #### Traffic
 
 | Url | totalSessionCount | totalBotSessionCount | distinctUserCount | pagesPerSessionPercentage |
 |---|---:|---:|---:|---:|
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/ | 103 | 5 | 98 | 1.15 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 40 | 4 | 40 | 1.40 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 34 | 1 | 34 | 1.35 |
-| /news/november-2026-meteor-showers-taurids-leonids/ | 30 | 1 | 28 | 1.03 |
-| /news/operation-christmas-child-2026-national-collection-week-drop-off/ | 11 | 0 | 10 | 1.55 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 10 | 0 | 10 | 1.70 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 9 | 1 | 9 | 1 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 9 | 0 | 9 | 1.33 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 9 | 1 | 9 | 1.33 |
-| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/#google_vignette | 9 | 0 | 9 | 1.78 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 9 | 6 | 9 | 1 |
-| /news/nyt-spelling-bee-hints-answers-november-15-2026/ | 8 | 0 | 7 | 1.63 |
-| /news/wordle-hint-answer-today-november-16-2026-1976/ | 8 | 0 | 8 | 1.13 |
-| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 7 | 1 | 7 | 1 |
-| /news/fcs-playoffs-2026-bracket-schedule-dates-championship-nashville/ | 7 | 0 | 6 | 1.29 |
-| /news/premier-league-fixtures-november-21-29-2026-kickoff-times-tv/ | 7 | 0 | 7 | 1.14 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 7 | 0 | 7 | 1.14 |
-| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 7 | 0 | 7 | 1.86 |
-| /news/nyt-midi-crossword-answers-november-16-2026/ | 6 | 2 | 6 | 1.17 |
-| /news/when-do-2026-election-winners-take-office-congress-governors/ | 6 | 0 | 6 | 1.33 |
-| /news/tim-hortons-holiday-menu-2026-canada/ | 5 | 0 | 5 | 1 |
-| /news/strictly-come-dancing-2026-final-date-19-december-remaining-weeks/ | 5 | 0 | 5 | 1 |
-| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 5 | 0 | 5 | 2 |
-| /news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/ | 5 | 0 | 5 | 1 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/#google_vignette | 5 | 1 | 4 | 1.40 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/ | 114 | 2 | 114 | 1.22 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 101 | 1 | 93 | 1.06 |
+| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 41 | 3 | 39 | 1.22 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 24 | 6 | 23 | 1.08 |
+| /news/november-2026-meteor-showers-taurids-leonids/ | 20 | 2 | 19 | 1.30 |
+| /news/nyt-strands-hints-answers-november-17-2026-989/ | 19 | 1 | 19 | 1.16 |
+| /news/december-2026-calendar-printable/ | 18 | 2 | 18 | 1.11 |
+| /news/nyt-connections-hints-answers-november-17-2026-1255/#google_vignette | 16 | 0 | 14 | 1.69 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 15 | 1 | 14 | 1.20 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 13 | 1 | 13 | 1.08 |
+| /news/is-christmas-eve-a-federal-holiday-2026/ | 12 | 1 | 11 | 1.17 |
+| /news/nyt-spelling-bee-hints-answers-november-17-2026/ | 12 | 0 | 12 | 1 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 10 | 8 | 9 | 1 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 10 | 1 | 9 | 1.40 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 9 | 1 | 9 | 1 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 9 | 6 | 8 | 1.11 |
+| /news/boxing-schedule-december-2026-fight-dates-times/ | 8 | 0 | 8 | 1 |
+| /news/nyt-spelling-bee-hints-answers-november-16-2026/ | 8 | 0 | 8 | 1.13 |
+| /news/lego-insiders-weekend-black-friday-2026-dates-november-21-22/ | 8 | 4 | 8 | 1.13 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#google_vignette | 8 | 0 | 8 | 1.25 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 8 | 0 | 8 | 1 |
+| /news/college-spring-break-2027-dates-universities/ | 8 | 1 | 8 | 1 |
+| /news/nyt-midi-crossword-answers-november-16-2026/#pz-answer | 7 | 0 | 7 | 1.14 |
+| /news/when-do-2026-election-winners-take-office-congress-governors/ | 7 | 0 | 7 | 1 |
+| /news/week-numbers-2027-calendar-printable/ | 7 | 6 | 7 | 1.14 |
 
 #### EngagementTime
 
 | Url | totalTime | activeTime |
 |---|---:|---:|
-| /news/nyt-spelling-bee-hints-answers-november-6-2026/#clues-for-both-pangrams | 1,824 | 913 |
-| /news/premier-league-fixtures-november-21-29-2026-kickoff-times-tv/#google_vignette | 1,127 | 1,127 |
-| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 850 | 13 |
-| /news/nyt-spelling-bee-hints-answers-november-6-2026/ | 767 | 451 |
-| /news/golden-state-warriors-schedule-december-2026-game-times-tv-christmas-printable/ | 523 | 523 |
-| https://shop.freshcalendars.com/products/zettler-daily-tear-off-calendar-2027-size-s-1-day | 495 | 165 |
-| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 487 | 83 |
-| /news/lsat-test-dates-2026-27-registration-deadlines/ | 463 | 24 |
-| /news/nyt-spelling-bee-hints-answers-november-5-2026/ | 443 | 341 |
-| /news/knicks-schedule-december-2026-game-times-tv-christmas-printable/ | 442 | 41 |
-| /news/turkey-pardon-2026-date-time-white-house/ | 413 | 41 |
-| /news/what-calendar-year-is-the-same-as-2027/ | 386 | 114 |
-| https://shop.freshcalendars.com/products/2027-desk-calendar-2027-daily-calendar-4-85x5-85 | 374 | 0 |
-| /news/killington-cup-2026-world-cup-ski-race-times-tv/ | 368 | 360 |
-| /news/nyt-spelling-bee-hints-answers-november-15-2026/ | 366 | 281 |
-| /news/linkedin-games-answers-today-november-15-2026-queens-tango-zip/?utm_source=chatgpt.c | 365 | 19 |
-| /news/new-mexico-legislature-2027-session-january-19-prefiling-january-4/ | 344 | 46 |
-| /news/f1-calendar-2027-race-dates-sprint-weekends-printable/ | 332 | 34 |
-| /news/arizona-propositions-2026-ballot-explained/ | 331 | 155 |
-| /news/native-american-heritage-month-2026-theme-events-books-activities/ | 318 | 318 |
-| /news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/#google_vignette | 311 | 2 |
-| /news/canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb/ | 308 | 34 |
-| /news/how-often-does-the-calendar-repeat/ | 308 | 4 |
-| /news/cma-awards-2026-date-time-channel-host-nominees/ | 282 | 282 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 250 | 201 |
+| /news/krampusnacht-2026-saturday-december-5-krampus-events-us/?utm_source=chatgpt.com | 1,921 | 70 |
+| /news/holiday-tipping-guide-2026-how-much-to-tip/ | 784 | 204 |
+| /news/is-walgreens-open-thanksgiving-2026-pharmacies-cvs/ | 673 | 12 |
+| https://shop.freshcalendars.com/articles/greeting-card-organizers?utm_source=chatgpt.com | 633 | 131 |
+| /news/election-day-2026-results-map/ | 630 | 8 |
+| /news/pga-tour-schedule-2027-every-event-majors-signature-events/ | 619 | 619 |
+| /news/national-adoption-day-2026-november-21/ | 537 | 427 |
+| /news/federal-pay-period-calendar-2027-pay-dates-nfc-gsa-printable/ | 494 | 430 |
+| https://shop.freshcalendars.com/products/zettler-daily-tear-off-calendar-2027-size-s-1-day | 485 | 180 |
+| /news/nyt-connections-sports-edition-hints-answers-november-16-2026-784/ | 483 | 483 |
+| /news/wordle-hint-answer-today-november-17-2026-1977/?utm_source=chatgpt.com | 464 | 68 |
+| /news/government-funding-deadline-december-11-2026-shutdown/ | 448 | 234 |
+| /news/cavalcade-of-lights-2026-toronto-tree-lighting-november-28/ | 422 | 117 |
+| /news/canada-benefit-payment-dates-november-december-2026-cpp-oas-ccb/#google_vignette | 403 | 110 |
+| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 396 | 87 |
+| https://shop.freshcalendars.com/products/onehaus-book-lovers-advent-calendar-2026-bookish- | 392 | 35 |
+| /news/fomc-meeting-dates-2027-fed-schedule-december-2026/ | 379 | 81 |
+| /news/labour-day-2027-canada-september-6-whats-open/ | 376 | 1 |
+| /news/amazon-black-friday-2026-sale-dates-when-does-it-start/ | 349 | 3 |
+| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 342 | 45 |
+| /news/elf-day-2026-december-2-alzheimers-society/ | 341 | 29 |
+| /news/metro-nashville-public-schools-calendar-2026-27-breaks/ | 329 | 27 |
+| /news/wwe-events-december-2026-dates-start-times/ | 323 | 222 |
+| /news/easter-dates-2027-2036-orthodox-easter/ | 321 | 16 |
+| /news/nrf-4-5-4-calendar-2027-fiscal-year-dates-53-week-year-2028-printable/#google_vignet | 321 | 16 |
 
 ## By channel
 
@@ -280,91 +280,91 @@ Read 2026-11-16T09:25 UTC from the Clarity Data Export API, last 24 hours (UTC).
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 357 | 9.80 | 90.20 | 37 | 50 |
-| Other | 149 | 5.37 | 94.63 | 9 | 12 |
-| Referral | 129 | 5.43 | 94.57 | 7 | 8 |
-| AiPlatform | 24 | 4.17 | 95.83 | 1 | 1 |
-| Direct | 23 | 17.39 | 82.61 | 4 | 5 |
+| OrganicSearch | 659 | 4.55 | 95.45 | 30 | 55 |
+| Other | 211 | 3.79 | 96.21 | 8 | 8 |
+| Referral | 113 | 7.08 | 92.92 | 8 | 9 |
+| AiPlatform | 40 | 12.50 | 87.50 | 5 | 7 |
+| Direct | 21 | 4.76 | 95.24 | 1 | 1 |
 
 #### ExcessiveScroll
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 357 | 0 | 100 | 0 | 0 |
-| Other | 149 | 0 | 100 | 0 | 0 |
-| Referral | 129 | 0 | 100 | 0 | 0 |
-| AiPlatform | 24 | 0 | 100 | 0 | 0 |
-| Direct | 23 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 659 | 0 | 100 | 0 | 0 |
+| Other | 211 | 0 | 100 | 0 | 0 |
+| Referral | 113 | 0 | 100 | 0 | 0 |
+| AiPlatform | 40 | 0 | 100 | 0 | 0 |
+| Direct | 21 | 0 | 100 | 0 | 0 |
 
 #### RageClickCount
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 357 | 0 | 100 | 0 | 0 |
-| Other | 149 | 0 | 100 | 0 | 0 |
-| Referral | 129 | 0 | 100 | 0 | 0 |
-| AiPlatform | 24 | 0 | 100 | 0 | 0 |
-| Direct | 23 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 659 | 0 | 100 | 0 | 0 |
+| Other | 211 | 0 | 100 | 0 | 0 |
+| Referral | 113 | 0 | 100 | 0 | 0 |
+| AiPlatform | 40 | 0 | 100 | 0 | 0 |
+| Direct | 21 | 0 | 100 | 0 | 0 |
 
 #### QuickbackClick
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 357 | 1.96 | 98.04 | 7 | 7 |
-| Other | 149 | 0.67 | 99.33 | 1 | 1 |
-| Referral | 129 | 2.33 | 97.67 | 4 | 4 |
-| AiPlatform | 24 | 0 | 100 | 0 | 0 |
-| Direct | 23 | 17.39 | 82.61 | 8 | 8 |
+| OrganicSearch | 659 | 0.91 | 99.09 | 6 | 6 |
+| Other | 211 | 0.47 | 99.53 | 1 | 1 |
+| Referral | 113 | 1.77 | 98.23 | 2 | 2 |
+| AiPlatform | 40 | 2.50 | 97.50 | 2 | 2 |
+| Direct | 21 | 14.29 | 85.71 | 5 | 5 |
 
 #### ScriptErrorCount
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 357 | 0 | 100 | 0 | 0 |
-| Other | 149 | 0.67 | 99.33 | 1 | 5 |
-| Referral | 129 | 0.78 | 99.22 | 1 | 4 |
-| AiPlatform | 24 | 0 | 100 | 0 | 0 |
-| Direct | 23 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 659 | 0.15 | 99.85 | 1 | 1 |
+| Other | 211 | 0 | 100 | 0 | 0 |
+| Referral | 113 | 0 | 100 | 0 | 0 |
+| AiPlatform | 40 | 0 | 100 | 0 | 0 |
+| Direct | 21 | 0 | 100 | 0 | 0 |
 
 #### ErrorClickCount
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 357 | 0 | 100 | 0 | 0 |
-| Other | 149 | 0 | 100 | 0 | 0 |
-| Referral | 129 | 0 | 100 | 0 | 0 |
-| AiPlatform | 24 | 0 | 100 | 0 | 0 |
-| Direct | 23 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 659 | 0 | 100 | 0 | 0 |
+| Other | 211 | 0 | 100 | 0 | 0 |
+| Referral | 113 | 0 | 100 | 0 | 0 |
+| AiPlatform | 40 | 0 | 100 | 0 | 0 |
+| Direct | 21 | 0 | 100 | 0 | 0 |
 
 #### ScrollDepth
 
 | Channel | averageScrollDepth |
 |---|---:|
-| OrganicSearch | 29.13 |
-| Referral | 28.44 |
-| Other | 27.59 |
-| AiPlatform | 27 |
-| Direct | 26.28 |
+| OrganicSearch | 34.03 |
+| Referral | 32.28 |
+| Direct | 24.06 |
+| AiPlatform | 22.49 |
+| Other | 21.88 |
 
 #### Traffic
 
 | Channel | totalSessionCount | totalBotSessionCount | distinctUserCount | pagesPerSessionPercentage |
 |---|---:|---:|---:|---:|
-| OrganicSearch | 357 | 24 | 342 | 1.20 |
-| Other | 149 | 145 | 145 | 1.13 |
-| Referral | 129 | 1 | 117 | 1.20 |
-| AiPlatform | 24 | 0 | 24 | 1.04 |
-| Direct | 23 | 0 | 20 | 2.91 |
+| OrganicSearch | 659 | 27 | 615 | 1.12 |
+| Other | 211 | 304 | 203 | 1.13 |
+| Referral | 113 | 0 | 102 | 1.15 |
+| AiPlatform | 40 | 0 | 38 | 1.30 |
+| Direct | 21 | 1 | 21 | 2.76 |
 
 #### EngagementTime
 
 | Channel | totalTime | activeTime |
 |---|---:|---:|
-| Direct | 282 | 156 |
-| OrganicSearch | 135 | 82 |
-| Referral | 107 | 61 |
-| Other | 74 | 34 |
-| AiPlatform | 53 | 37 |
+| AiPlatform | 174 | 32 |
+| OrganicSearch | 140 | 61 |
+| Direct | 123 | 47 |
+| Referral | 118 | 66 |
+| Other | 83 | 37 |
 
 ## By device
 
@@ -372,72 +372,72 @@ Read 2026-11-16T09:25 UTC from the Clarity Data Export API, last 24 hours (UTC).
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 317 | 6.31 | 93.69 | 20 | 22 |
-| PC | 287 | 9.41 | 90.59 | 31 | 45 |
-| Tablet | 64 | 10.94 | 89.06 | 7 | 9 |
+| Mobile | 506 | 4.94 | 95.06 | 25 | 34 |
+| PC | 446 | 5.16 | 94.84 | 23 | 41 |
+| Tablet | 74 | 5.41 | 94.59 | 4 | 5 |
 
 #### ExcessiveScroll
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 317 | 0 | 100 | 0 | 0 |
-| PC | 287 | 0 | 100 | 0 | 0 |
-| Tablet | 64 | 0 | 100 | 0 | 0 |
+| Mobile | 506 | 0 | 100 | 0 | 0 |
+| PC | 446 | 0 | 100 | 0 | 0 |
+| Tablet | 74 | 0 | 100 | 0 | 0 |
 
 #### RageClickCount
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 317 | 0 | 100 | 0 | 0 |
-| PC | 287 | 0 | 100 | 0 | 0 |
-| Tablet | 64 | 0 | 100 | 0 | 0 |
+| Mobile | 506 | 0 | 100 | 0 | 0 |
+| PC | 446 | 0 | 100 | 0 | 0 |
+| Tablet | 74 | 0 | 100 | 0 | 0 |
 
 #### QuickbackClick
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 317 | 1.58 | 98.42 | 8 | 8 |
-| PC | 287 | 2.44 | 97.56 | 8 | 8 |
-| Tablet | 64 | 4.69 | 95.31 | 4 | 4 |
+| Mobile | 506 | 1.19 | 98.81 | 9 | 9 |
+| PC | 446 | 1.35 | 98.65 | 6 | 6 |
+| Tablet | 74 | 1.35 | 98.65 | 1 | 1 |
 
 #### ScriptErrorCount
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 317 | 0.63 | 99.37 | 2 | 9 |
-| PC | 287 | 0 | 100 | 0 | 0 |
-| Tablet | 64 | 0 | 100 | 0 | 0 |
+| Mobile | 506 | 0 | 100 | 0 | 0 |
+| PC | 446 | 0.22 | 99.78 | 1 | 1 |
+| Tablet | 74 | 0 | 100 | 0 | 0 |
 
 #### ErrorClickCount
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 317 | 0 | 100 | 0 | 0 |
-| PC | 287 | 0 | 100 | 0 | 0 |
-| Tablet | 64 | 0 | 100 | 0 | 0 |
+| Mobile | 506 | 0 | 100 | 0 | 0 |
+| PC | 446 | 0 | 100 | 0 | 0 |
+| Tablet | 74 | 0 | 100 | 0 | 0 |
 
 #### ScrollDepth
 
 | Device | averageScrollDepth |
 |---|---:|
-| Tablet | 34.13 |
-| PC | 33.62 |
-| Mobile | 22.49 |
+| Tablet | 36.62 |
+| PC | 33.29 |
+| Mobile | 27.56 |
 
 #### Traffic
 
 | Device | totalSessionCount | totalBotSessionCount | distinctUserCount | pagesPerSessionPercentage |
 |---|---:|---:|---:|---:|
-| Mobile | 317 | 93 | 300 | 1.20 |
-| PC | 287 | 28 | 276 | 1.20 |
-| Tablet | 64 | 17 | 58 | 1.28 |
-| Other | 0 | 32 | 0 |  |
+| Mobile | 506 | 115 | 456 | 1.15 |
+| PC | 446 | 181 | 434 | 1.12 |
+| Tablet | 74 | 9 | 69 | 1.11 |
+| Other | 0 | 28 | 0 |  |
 
 #### EngagementTime
 
 | Device | totalTime | activeTime |
 |---|---:|---:|
-| PC | 144 | 88 |
-| Tablet | 141 | 76 |
-| Mobile | 95 | 53 |
+| Tablet | 140 | 81 |
+| PC | 140 | 60 |
+| Mobile | 118 | 50 |
 

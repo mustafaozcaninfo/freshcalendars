@@ -1,13 +1,7 @@
 {
- "generatedAt": "2026-11-16T19:35:23.264Z",
+ "generatedAt": "2026-11-17T09:14:28.563Z",
  "site": "https://freshcalendars.com/",
  "daily": [
-  {
-   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
-   "Clicks": 1,
-   "Date": "/Date(1752624000000)/",
-   "Impressions": 9255
-  },
   {
    "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
    "Clicks": 2,
@@ -2923,6 +2917,12 @@
    "Clicks": 240,
    "Date": "/Date(1794614400000)/",
    "Impressions": 23265
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 362,
+   "Date": "/Date(1794700800000)/",
+   "Impressions": 30496
   }
  ],
  "queries": [
@@ -2991,7 +2991,7 @@
    "ctr": 0.0006724949562878278
   },
   {
-   "key": "daylight savings 2026",
+   "key": "day light savings 2026",
    "clicks": 2,
    "impressions": 2956,
    "posW": 26604,
@@ -4223,7 +4223,7 @@
    "ctr": 0
   },
   {
-   "key": "what day is thanksgiving 2026",
+   "key": "fall back 2026",
    "clicks": 0,
    "impressions": 94,
    "posW": 752,
@@ -4231,7 +4231,7 @@
    "ctr": 0
   },
   {
-   "key": "fall back 2026",
+   "key": "what day is thanksgiving 2026",
    "clicks": 0,
    "impressions": 94,
    "posW": 752,
@@ -4487,19 +4487,19 @@
    "ctr": 0.047619047619047616
   },
   {
-   "key": "fall time change 2026 november",
-   "clicks": 2,
-   "impressions": 63,
-   "posW": 252,
-   "position": 4,
-   "ctr": 0.031746031746031744
-  },
-  {
    "key": "when is the day of the dead 2026",
    "clicks": 2,
    "impressions": 63,
    "posW": 126,
    "position": 2,
+   "ctr": 0.031746031746031744
+  },
+  {
+   "key": "fall time change 2026 november",
+   "clicks": 2,
+   "impressions": 63,
+   "posW": 252,
+   "position": 4,
    "ctr": 0.031746031746031744
   },
   {
@@ -4599,7 +4599,7 @@
    "ctr": 0.038461538461538464
   },
   {
-   "key": "fall back date 2026",
+   "key": "uk clock change october 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4607,7 +4607,7 @@
    "ctr": 0
   },
   {
-   "key": "uk clock change october 2026",
+   "key": "fall back date 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4767,19 +4767,19 @@
    "ctr": 0
   },
   {
-   "key": "when do the clocks go back 2026",
-   "clicks": 0,
-   "impressions": 40,
-   "posW": 400,
-   "position": 10,
-   "ctr": 0
-  },
-  {
    "key": "when is halloween this year 2026",
    "clicks": 0,
    "impressions": 40,
    "posW": 240,
    "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "when do the clocks go back 2026",
+   "clicks": 0,
+   "impressions": 40,
+   "posW": 400,
+   "position": 10,
    "ctr": 0
   },
   {
@@ -5047,6 +5047,14 @@
    "ctr": 0.16666666666666666
   },
   {
+   "key": "tesco christmas delivery slots 2026 booking dates",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 54,
+   "position": 3,
+   "ctr": 0.1111111111111111
+  },
+  {
    "key": "when do the new governors take office",
    "clicks": 2,
    "impressions": 18,
@@ -5060,14 +5068,6 @@
    "impressions": 18,
    "posW": 108,
    "position": 6,
-   "ctr": 0.1111111111111111
-  },
-  {
-   "key": "tesco christmas delivery slots 2026 booking dates",
-   "clicks": 2,
-   "impressions": 18,
-   "posW": 54,
-   "position": 3,
    "ctr": 0.1111111111111111
   },
   {
@@ -5183,19 +5183,19 @@
    "ctr": 0.46153846153846156
   },
   {
-   "key": "veterans day free meals restaurants",
-   "clicks": 3,
-   "impressions": 13,
-   "posW": 39,
-   "position": 3,
-   "ctr": 0.23076923076923078
-  },
-  {
    "key": "fresno unified calendar 26-27",
    "clicks": 3,
    "impressions": 13,
    "posW": 13,
    "position": 1,
+   "ctr": 0.23076923076923078
+  },
+  {
+   "key": "veterans day free meals restaurants",
+   "clicks": 3,
+   "impressions": 13,
+   "posW": 39,
+   "position": 3,
    "ctr": 0.23076923076923078
   },
   {
@@ -5215,19 +5215,19 @@
    "ctr": 0.16666666666666666
   },
   {
-   "key": "november gratitude calendar",
-   "clicks": 2,
-   "impressions": 12,
-   "posW": 24,
-   "position": 2,
-   "ctr": 0.16666666666666666
-  },
-  {
    "key": "dade county school calendar 2026-27",
    "clicks": 2,
    "impressions": 12,
    "posW": 36,
    "position": 3,
+   "ctr": 0.16666666666666666
+  },
+  {
+   "key": "november gratitude calendar",
+   "clicks": 2,
+   "impressions": 12,
+   "posW": 24,
+   "position": 2,
    "ctr": 0.16666666666666666
   },
   {
@@ -5263,19 +5263,19 @@
    "ctr": 0.18181818181818182
   },
   {
-   "key": "santa tracker norad live 2026 schedule",
-   "clicks": 3,
-   "impressions": 11,
-   "posW": 11,
-   "position": 1,
-   "ctr": 0.2727272727272727
-  },
-  {
    "key": "veterans day 2026 worksheets",
    "clicks": 3,
    "impressions": 11,
    "posW": 55,
    "position": 5,
+   "ctr": 0.2727272727272727
+  },
+  {
+   "key": "santa tracker norad live 2026 schedule",
+   "clicks": 3,
+   "impressions": 11,
+   "posW": 11,
+   "position": 1,
    "ctr": 0.2727272727272727
   },
   {
@@ -5865,7 +5865,7 @@
    "ctr": 0.024844720496894408
   },
   {
-   "key": "https://freshcalendars.com/news/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026/",
+   "key": "https://freshcalendars.com/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/",
    "clicks": 7,
    "impressions": 1072,
    "posW": 7504,
@@ -5873,7 +5873,7 @@
    "ctr": 0.0065298507462686565
   },
   {
-   "key": "https://freshcalendars.com/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/",
+   "key": "https://freshcalendars.com/news/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026/",
    "clicks": 7,
    "impressions": 1072,
    "posW": 7504,
@@ -6265,7 +6265,7 @@
    "ctr": 0.013043478260869565
   },
   {
-   "key": "https://freshcalendars.com/when-is/new-years-eve/",
+   "key": "https://freshcalendars.com/when-is/new-years-eve",
    "clicks": 4,
    "impressions": 452,
    "posW": 2470,
@@ -6625,7 +6625,7 @@
    "ctr": 0.09950248756218906
   },
   {
-   "key": "https://freshcalendars.com/when-is/christmas-eve/",
+   "key": "https://freshcalendars.com/when-is/christmas-eve",
    "clicks": 1,
    "impressions": 198,
    "posW": 1386,
@@ -7305,6 +7305,14 @@
    "ctr": 0
   },
   {
+   "key": "https://freshcalendars.com/news/orionid-meteor-shower-2026-peak-october-21-22/",
+   "clicks": 0,
+   "impressions": 12,
+   "posW": 84,
+   "position": 7,
+   "ctr": 0
+  },
+  {
    "key": "https://freshcalendars.com/news/mail-ballot-deadlines-2026-by-state/",
    "clicks": 0,
    "impressions": 12,
@@ -7313,10 +7321,10 @@
    "ctr": 0
   },
   {
-   "key": "https://freshcalendars.com/news/orionid-meteor-shower-2026-peak-october-21-22/",
+   "key": "https://freshcalendars.com/news/downloads/julian-date-calendar/2026/date-code-lookup-2026.pdf",
    "clicks": 0,
-   "impressions": 12,
-   "posW": 84,
+   "impressions": 11,
+   "posW": 77,
    "position": 7,
    "ctr": 0
   },
@@ -7326,14 +7334,6 @@
    "impressions": 11,
    "posW": 88,
    "position": 8,
-   "ctr": 0
-  },
-  {
-   "key": "https://freshcalendars.com/news/downloads/julian-date-calendar/2026/date-code-lookup-2026.pdf",
-   "clicks": 0,
-   "impressions": 11,
-   "posW": 77,
-   "position": 7,
    "ctr": 0
   },
   {
@@ -7402,24 +7402,6 @@
   }
  ],
  "crawl": [
-  {
-   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
-   "AllOtherCodes": 14,
-   "BlockedByRobotsTxt": 0,
-   "Code2xx": 188,
-   "Code301": 131,
-   "Code302": 62,
-   "Code4xx": 25,
-   "Code5xx": 0,
-   "ConnectionTimeout": 0,
-   "ContainsMalware": 0,
-   "CrawledPages": 111,
-   "CrawlErrors": 28,
-   "Date": "/Date(1791936000000)/",
-   "DnsFailures": 0,
-   "InIndex": 166,
-   "InLinks": 284
-  },
   {
    "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
    "AllOtherCodes": 15,
@@ -7941,6 +7923,24 @@
    "DnsFailures": 0,
    "InIndex": 3391,
    "InLinks": 408
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 328,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 3614,
+   "Code301": 193,
+   "Code302": 58,
+   "Code4xx": 32,
+   "Code5xx": 2,
+   "ConnectionTimeout": 8,
+   "ContainsMalware": 0,
+   "CrawledPages": 7201,
+   "CrawlErrors": 48,
+   "Date": "/Date(1794700800000)/",
+   "DnsFailures": 0,
+   "InIndex": 3616,
+   "InLinks": 421
   }
  ],
  "failed": []
