@@ -2,7 +2,7 @@
 title: "March 2027 Calendar: Free Printable With Holidays and Moon Phases"
 description: "March 2027 has 31 days, starts Monday, Mar. 1 and has no federal holiday. Spring begins Mar. 20 at 4:25 p.m. EDT. Free printable with moon phases."
 type: explainer
-publishedAt: "2026-12-01T06:00:00-05:00"
+publishedAt: "2026-11-17T00:29:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["march 2027 calendar", "march 2027 calendar printable", "march 2027 calendar with holidays", "march 2027 moon phases"]
