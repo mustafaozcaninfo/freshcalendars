@@ -3,7 +3,7 @@ title: "Christmas Lights Switch-Ons 2026 in the UK: Belfast Nov. 14"
 description: "UK Christmas lights switch-ons 2026: Belfast on Saturday 14 November, 6.30pm GMT, 1:30 p.m. ET; Cardiff and Newcastle on 12 November. Dates for each city."
 type: news
 publishedAt: "2026-11-08T07:15:00-05:00"
-updatedAt: "2026-11-14T15:06:00-05:00"
+updatedAt: "2026-11-17T00:55:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Christmas lights switch on 2026", "Belfast Christmas lights switch on 2026", "Cardiff Christmas lights 2026", "Newcastle Christmas lights switch on 2026", "Manchester Christmas lights 2026"]
@@ -11,7 +11,7 @@ dateline: "Belfast"
 hero:
   src: ../../../../assets/news/uk-christmas-lights-switch-ons-2026-belfast-cardiff-manchester/uk-christmas-lights-switch-ons-2026-belfast-cardiff-manchester.webp
   alt: "Belfast Christmas lights switch on 2026: Belfast City Hall lit in blue beside lit trees (file photo, 2014)"
-  caption: "Belfast City Hall in November 2014 (file photo). The 2026 switch-on is Saturday 14 November, 6.30pm to 7.30pm."
+  caption: "Belfast City Hall in November 2014 (file photo). The 2026 switch-on was Saturday 14 November, 6.30pm to 7.30pm."
   credit: "Photo: Ardfern / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 3.0"
@@ -20,8 +20,8 @@ hero:
     author: "Ardfern"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Ardfern"
 summary:
-  - "Belfast City Council lists the City Hall switch-on for Saturday 14 November 2026, 6.30pm to 7.30pm, with gates open from 6pm; all tickets are allocated."
-  - "Newcastle City Council gave Thursday 12 November 2026 for its switch-on, with entertainment from 6pm near Grey's Monument and the lights on at 7pm. Nation.Cymru reported on 17 September 2026 that Cardiff's lights were due on 12 November, citing Cardiff Council."
+  - "Belfast City Council listed the City Hall switch-on for Saturday 14 November 2026, 6.30pm to 7.30pm, with gates open from 6pm; all tickets were allocated. The Belfast Christmas Market opened that day and runs to Tuesday 22 December."
+  - "Newcastle City Council gave Thursday 12 November 2026 for its switch-on, with entertainment from 6pm near Grey's Monument and the lights on at 7pm. Visit Cardiff says Cardiff's Christmas lights were switched on from Thursday 12 November."
   - "Manchester's Christmas Markets opened on Friday 6 November 2026 and run to Tuesday 22 December; Visit Manchester lists no lights switch-on event."
   - "Newcastle's Christmas Markets open Thursday 19 November 2026, the same day Cardiff's Christmas at Bute Park begins."
 sources:
@@ -54,11 +54,19 @@ sources:
     url: "https://new.newcastle.gov.uk/news/2026/newcastle-gets-ready-switch-christmas-style"
     publisher: "Newcastle City Council"
     date: "2026-11-03"
+  - title: "Christmas in Cardiff"
+    url: "https://www.visitcardiff.com/christmas/"
+    publisher: "Visit Cardiff"
+    date: "2026-11-17"
+  - title: "Christmas lights"
+    url: "https://www.belfastcity.gov.uk/christmaslights"
+    publisher: "Belfast City Council"
+    date: "2026-11-17"
 faq:
-  - q: "Can you still get tickets for the Belfast switch-on?"
-    a: "Not from the council. Its page says all tickets are allocated for the event, which it also labels free. The Christmas Market at the City Hall opens at 12 noon the same day, 7 a.m. ET."
+  - q: "Could you get tickets for the Belfast switch-on?"
+    a: "Not from the council. Its page said all tickets were allocated for the event on Saturday 14 November, which it also labels free. The Christmas Market at the City Hall opened at 12 noon the same day, 7 a.m. ET, and runs to Tuesday 22 December."
   - q: "What time is the Newcastle Christmas lights switch-on in 2026?"
-    a: "Newcastle City Council set it for Thursday 12 November 2026: entertainment from 6pm at the top of Grey Street near Grey's Monument, and the lights on at 7pm (2 p.m. ET). The Christmas Markets are listed separately, opening Thursday 19 November."
+    a: "Newcastle City Council set it for Thursday 12 November 2026: entertainment from 6pm at the top of Grey Street near Grey's Monument, and the lights on at 7pm (2 p.m. ET), which has passed. The Christmas Markets are listed separately, opening Thursday 19 November."
   - q: "Is there a Manchester Christmas lights switch-on in 2026?"
     a: "Visit Manchester's Christmas page lists no switch-on event. It lists the markets, which opened on Friday 6 November, and Northern Lights at Heaton Park from 19 November."
   - q: "Does Liverpool have a switch-on in 2026?"
@@ -108,7 +116,7 @@ assets:
       layout: table
       events:
         - { start: "2026-11-12T19:00+00:00", tz: "Europe/London", title: "Newcastle lights switch-on", detail: "entertainment from 6pm at Grey's Monument; free", src: 8, quote: ["Christmas Lights Switch-On returns on Thursday 12 November", "the big moment at 7pm when Newcastle’s Christmas lights are switched on"] }
-        - { date: "2026-11-12", time: tba, title: "Cardiff lights switch-on", detail: "reported by Nation.Cymru; time and venue not announced", src: 4, quote: "with Christmas lights due to come on on November 12" }
+        - { date: "2026-11-12", time: tba, title: "Cardiff lights switched on", detail: "Queen St., The Hayes, St Mary St. and arcades", src: 9, quote: "will be switched on from Thu 12 November. Locations include Queen Street, The Hayes, St Mary Street and the Victorian and Edwardian arcades." }
         - { start: "2026-11-14T12:00+00:00", tz: "Europe/London", title: "Belfast Christmas Market opens", detail: "at the City Hall", src: 1, quote: "the Christmas Market will open at 12 noon on the same day, Saturday 14 November" }
         - { date: "2026-11-14", time: tba, title: "Belfast City Hall switch-on", detail: "6.30pm UK time (1:30 p.m. ET); tickets all allocated", src: 1, quote: "Saturday 14 November 2026, 6.30pm to 7.30pm" }
         - { date: "2026-11-19", time: tba, title: "Newcastle Christmas Markets open", detail: "to Wed. 23 Dec.", src: 6, quote: "officially open on Thursday 19th November and will be in place until Wednesday 23rd December" }
@@ -117,22 +125,21 @@ assets:
       unconfirmed:
         - { label: "Manchester lights switch-on", why: "no 2026 event listed by Visit Manchester" }
         - { label: "Liverpool city centre switch-on", why: "not announced" }
-        - { label: "Belfast Christmas Market closing date", why: "not yet announced by the council" }
 ---
 
-**Belfast City Council lists the Christmas lights switch-on at Belfast City Hall for Saturday 14 November 2026, 6.30pm to 7.30pm, and Newcastle City Council set Thursday 12 November, 7pm, for its own switch-on**, while Nation.Cymru reported on 17 September 2026 that Cardiff's lights were due the same Thursday. Manchester's Christmas Markets already opened on Friday 6 November 2026, and no Manchester lights event is listed. The table has each date with the weekday, the place and the Eastern Time (ET) conversion, and a printable follows.
+**Belfast City Council listed the Christmas lights switch-on at Belfast City Hall for Saturday 14 November 2026, 6.30pm to 7.30pm, and Newcastle City Council set Thursday 12 November, 7pm, for its own switch-on**, while Visit Cardiff says Cardiff's lights were switched on from the same Thursday. Manchester's Christmas Markets already opened on Friday 6 November 2026, and no Manchester lights event is listed. The table has each date with the weekday, the place and the Eastern Time (ET) conversion, and a printable follows.
 
-Official times are in Greenwich Mean Time (GMT), which is five hours ahead of ET in November. Five lights and market events fall between 12 and 14 November: Cardiff's lights and Winter Wonderland and Newcastle's lights on Thursday, Belfast's market and switch-on on Saturday. The Thursday events have taken place; Belfast's is on Saturday 14 November. For the London streets, see the [London Christmas lights switch-on dates](/news/london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden/).
+Official times are in Greenwich Mean Time (GMT), which is five hours ahead of ET in November. Five lights and market events fall between 12 and 14 November: Cardiff's lights and Winter Wonderland and Newcastle's lights on Thursday, Belfast's market and switch-on on Saturday. The Thursday events and Belfast's Saturday events have taken place. For the London streets, see the [London Christmas lights switch-on dates](/news/london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden/).
 
 ## Which Christmas lights events are set outside London?
 
 | Date | City and event | UK time (GMT) | ET | Place | Cost | Source |
 |---|---|---|---|---|---|---|
-| Thu 12 Nov | Cardiff lights switch-on | Not announced | Not given | Not announced | Not listed | Nation.Cymru, citing Cardiff Council |
-| Thu 12 Nov | Newcastle lights switch-on | 6pm entertainment, 7pm lights on | 1 p.m. entertainment, 2 p.m. lights on | Top of Grey Street, near Grey's Monument | Free | Newcastle City Council |
+| Thu 12 Nov | Cardiff lights switched on | Not announced | Not given | Queen Street, The Hayes, St Mary Street and the arcades | Not listed | Visit Cardiff |
+| Thu 12 Nov | Newcastle lights switch-on (held) | 6pm entertainment, 7pm lights on | 1 p.m. entertainment, 2 p.m. lights on | Top of Grey Street, near Grey's Monument | Free | Newcastle City Council |
 | Thu 12 Nov | Cardiff's Winter Wonderland opens (to Sun 3 Jan 2027) | 17:00 to 22:00 on the first day | 12 p.m. to 5 p.m. | Cardiff Castle and City Hall, with an ice rink and ice walk | Not listed | Visit Cardiff |
-| Sat 14 Nov | Belfast Christmas Market opens | 12 noon | 7 a.m. | Belfast | Not listed | Belfast City Council |
-| Sat 14 Nov | Belfast City Hall switch-on | 6.30pm to 7.30pm (gates 6pm) | 1:30 p.m. to 2:30 p.m. (gates 1 p.m.) | Belfast City Hall | Free, all tickets allocated | Belfast City Council |
+| Sat 14 Nov | Belfast Christmas Market opened (to Tue 22 Dec) | 12 noon | 7 a.m. | Belfast City Hall | Not listed | Belfast City Council |
+| Sat 14 Nov | Belfast City Hall switch-on (held) | 6.30pm to 7.30pm (gates 6pm) | 1:30 p.m. to 2:30 p.m. (gates 1 p.m.) | Belfast City Hall | Free, all tickets allocated | Belfast City Council |
 | Thu 19 Nov | Newcastle Christmas Markets open (to Wed 23 Dec) | 10am to 8pm Mon to Sat, 10am to 5pm Sun | 5 a.m. to 3 p.m., Sun 5 a.m. to 12 p.m. | Newcastle | Not listed | Newcastle's Christmas |
 | Thu 19 Nov | Christmas at Bute Park, Cardiff (to 31 Dec) | 16:15 to 20:30 | 11:15 a.m. to 3:30 p.m. | Bute Park | Ticketed | Visit Cardiff |
 | Tue 22 Dec | Manchester Christmas Markets end | Not listed | Not given | City centre | Not listed | Visit Manchester |
@@ -141,15 +148,15 @@ The ET column is our conversion of the published GMT times. Cardiff's page says 
 
 ## Belfast City Hall switch-on: time, gates and tickets
 
-Belfast City Council's page gives "Saturday 14 November 2026, 6.30pm to 7.30pm", with gates opening at 6pm, at Belfast City Hall. The event is free, but the council says "All tickets are now allocated for our Christmas Lights switch-on." The council also says the Christmas Market opens at 12 noon on the same day. It has not announced the market's closing date or hours. The photo above is a file photo from 2014.
+Belfast City Council's page gave "Saturday 14 November 2026, 6.30pm to 7.30pm", with gates opening at 6pm, at Belfast City Hall. The event was free, but the council said "All tickets are now allocated for our Christmas Lights switch-on." The council also said the Christmas Market opened at 12 noon on the same day, and its lights page lists it from Saturday 14 November to Tuesday 22 December at Belfast City Hall. It has not announced the market's hours. The photo above is a file photo from 2014.
 
 ## Cardiff lights and Winter Wonderland dates
 
-Cardiff Council's own page was blocked to us, so the lights date rests on one report. Nation.Cymru wrote on 17 September 2026 that the city's festive lights were "due to come on on November 12", citing the council, with no time or venue given. Visit Cardiff, the city's tourism site, lists Cardiff's Winter Wonderland "from Thursday 12 November to Sunday 3 January 2027", with an ice rink and ice walk at Cardiff Castle and City Hall. Its first-day hours are 17:00 to 22:00, and it is closed on Christmas Day and Boxing Day. Christmas at Bute Park runs 19 November to 31 December 2026, 16:15 to 20:30, and is ticketed.
+Visit Cardiff, the city's tourism site, says the Christmas lights "will be switched on from Thu 12 November", at Queen Street, The Hayes, St Mary Street and the Victorian and Edwardian arcades, and the lights are now on. It gives no time. Nation.Cymru had reported on 17 September 2026 that they were due on 12 November, citing Cardiff Council. Visit Cardiff also lists Cardiff's Winter Wonderland "from Thursday 12 November to Sunday 3 January 2027", with an ice rink and ice walk at Cardiff Castle and City Hall. Its first-day hours are 17:00 to 22:00, and it is closed on Christmas Day and Boxing Day. Christmas at Bute Park runs 19 November to 31 December 2026, 16:15 to 20:30, and is ticketed.
 
 ## Newcastle lights and market dates
 
-Newcastle City Council said the Christmas Lights Switch-On was on Thursday 12 November 2026, a free event hosted by Hits Radio's Steve and Karen. Entertainment began at 6pm at the top of Grey Street, near Grey's Monument, "before the big moment at 7pm when Newcastle's Christmas lights are switched on." Newcastle's Christmas site lists the same date and times. Its Christmas Markets "officially open on Thursday 19th November and will be in place until Wednesday 23rd December", 10am to 8pm Monday to Saturday and 10am to 5pm on Sundays.
+Newcastle City Council said the Christmas Lights Switch-On was on Thursday 12 November 2026, a free event hosted by Hits Radio's Steve and Karen. Entertainment was set to begin at 6pm at the top of Grey Street, near Grey's Monument, "before the big moment at 7pm when Newcastle's Christmas lights are switched on." Newcastle's Christmas site lists the same date and times. Its Christmas Markets "officially open on Thursday 19th November and will be in place until Wednesday 23rd December", 10am to 8pm Monday to Saturday and 10am to 5pm on Sundays.
 
 ## Is there a Manchester Christmas lights switch-on?
 

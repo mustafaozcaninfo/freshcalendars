@@ -1,9 +1,9 @@
 ---
 title: "Santa Claus Parades in Canada 2026: Hamilton Nov. 14, Halifax Nov. 21"
-description: "Santa Claus parades in Canada 2026: Hamilton Nov. 14 at 2 p.m., Mississauga Nov. 21 at 6 p.m. A table by city with start points and a printable list."
+description: "Santa Claus parades in Canada 2026: Hamilton was Nov. 14 at 2 p.m.; Mississauga and Halifax are Nov. 21 at 6 p.m. A table by city and a printable list."
 type: news
 publishedAt: "2026-11-04T13:57:00-05:00"
-updatedAt: "2026-11-14T15:12:00-05:00"
+updatedAt: "2026-11-17T00:56:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["santa claus parade 2026 canada", "hamilton santa claus parade 2026", "mississauga santa claus parade 2026", "santa claus parade near me ontario"]
@@ -11,7 +11,7 @@ dateline: "Hamilton"
 hero:
   src: ../../../../assets/news/santa-claus-parades-2026-canada-hamilton-mississauga-halifax-winnipeg/santa-claus-parades-2026-canada-hamilton-mississauga-halifax-winnipeg.webp
   alt: "Santa Claus waving from his sleigh float in a Santa Claus parade in Montreal"
-  caption: "File photo, 2014: Santa's float in Montreal's Santa Claus parade. Hamilton's 2026 parade is Nov. 14 and Mississauga's is Nov. 21."
+  caption: "File photo, 2014: Santa's float in Montreal's Santa Claus parade. Hamilton's 2026 parade was Nov. 14 and Mississauga's is Nov. 21."
   credit: "Photo: Jeangagnon / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -20,19 +20,19 @@ hero:
     author: "Jeangagnon"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Jeangagnon"
 summary:
-  - "Hamilton's Santa Claus Parade is on Saturday, Nov. 14, 2026 at 2 p.m., starting at Upper Sherman and Acadia Drive, according to the organizer, hamiltonsantaparade.com."
+  - "Hamilton's Santa Claus Parade was on Saturday, Nov. 14, 2026 at 2 p.m., starting at Upper Sherman and Acadia Drive, according to the organizer, hamiltonsantaparade.com."
   - "The Mississauga Santa Claus Parade is on Saturday, Nov. 21, 2026 at 6 p.m. in downtown Mississauga, according to the City of Mississauga; the route and road closures are not yet announced."
   - "Toronto's parade is Sunday, Nov. 22, 2026, listed in person at 12:30 p.m. Eastern Time (ET) and on Citytv at 2 p.m. ET; Ottawa's is Saturday, Nov. 21 at 11 a.m. ET. Each has its own story."
-  - "Winnipeg's Manitoba Hydro Santa Parade is Nov. 14, 2026, Halifax's Parade of Lights is Nov. 21 and Edmonton's Kingsway Holiday Parade is Saturday, Nov. 21 at 5:30 p.m. Montreal's is Saturday, Nov. 21 at 11 a.m. ET; Halifax's start time is not yet announced."
+  - "Winnipeg's Manitoba Hydro Santa Parade was Nov. 14, 2026. Halifax's Parade of Lights is Saturday, Nov. 21 at 6 p.m., Edmonton's Kingsway Holiday Parade is Nov. 21 at 5:30 p.m. and Montreal's is Nov. 21 at 11 a.m. ET."
 faq:
   - q: "When is the Hamilton Santa Claus Parade in 2026?"
-    a: "Saturday, Nov. 14, 2026 at 2 p.m., according to hamiltonsantaparade.com. It starts at Upper Sherman and Acadia Drive and ends at the south side parking lot outside the old Hudson Bay store."
+    a: "Saturday, Nov. 14, 2026 at 2 p.m., according to hamiltonsantaparade.com; it has already taken place. It started at Upper Sherman and Acadia Drive and ended at the south side parking lot outside the old Hudson Bay store."
   - q: "When is the Mississauga Santa Claus Parade in 2026?"
     a: "Saturday, Nov. 21, 2026 at 6 p.m. in downtown Mississauga, according to the City of Mississauga. The route and closures are not yet announced."
   - q: "When is the Halifax Holiday Parade of Lights in 2026?"
-    a: "Tourism Nova Scotia lists the Nova Scotia Power Parade of Lights in downtown Halifax on November 21, 2026, a Saturday. The start time and route are not yet announced. In 2025, Discover Halifax listed it from 6 p.m. to 8 p.m."
+    a: "Saturday, Nov. 21, 2026 at 6 p.m., according to the Downtown Halifax Business Commission. The 30th Annual Nova Scotia Power Holiday Parade of Lights presented by Eastlink starts at the Cogswell Street roundabout, adjacent to the Emera Oval, and goes to Spring Garden Road, then turns onto Barrington Street and finishes at George Street."
   - q: "When is the Winnipeg Santa Claus Parade in 2026?"
-    a: "The Manitoba Hydro Santa Parade site says \"Join us on November 14, 2026!\" and lists \"Nov 14, 2026 - 5:00PM\" in its header. It does not label 5 p.m. as the start time, and the route is shown on the organizer's map."
+    a: "The Manitoba Hydro Santa Parade site said \"Join us on November 14, 2026!\" and listed \"Nov 14, 2026 - 5:00PM\" in its header. It did not label 5 p.m. as the start time, and the route was shown on the organizer's map. The parade has already taken place."
   - q: "When is the Edmonton Kingsway Holiday Parade in 2026?"
     a: "The organizer's site says \"Saturday, November 21, 2026, at 5:30 p.m.\" It does not give a location or route."
   - q: "When is the Toronto Santa Claus Parade in 2026?"
@@ -62,6 +62,10 @@ sources:
     url: "https://www.thesantaclausparade.com/"
     publisher: "The Original Santa Claus Parade"
     date: "2026-10-28"
+  - title: "Holidays - Downtown Halifax"
+    url: "https://downtownhalifax.ca/holidays"
+    publisher: "Downtown Halifax Business Commission"
+    date: "2026-11-17"
   - title: "Get Festive! Find holiday events, parades, productions, and more in Nova Scotia"
     url: "https://www.novascotia.com/trip-ideas/stories/get-festive-holiday-events-parades-productions-nova-scotia"
     publisher: "Tourism Nova Scotia"
@@ -115,8 +119,8 @@ assets:
     slug: santa-claus-parades-2026-canada-checklist
     group: santa-claus-parades-2026-canada
     title: "Santa Claus Parades 2026 in Canada: Dates and Times"
-    subtitle: "Hamilton, Mississauga, Ottawa, Montreal, Toronto and Edmonton times; Halifax and Winnipeg details still to come"
-    note: "Source: Hamilton Santa Claus Parade (hamiltonsantaparade.com); City of Mississauga, Aug. 17, 2026; Help Santa Toy Parade (toyparade.ca); The Original Santa Claus Parade; Kingsway Holiday Parade; Montréal centre-ville. Checked Nov. 14, 2026."
+    subtitle: "Hamilton, Halifax, Mississauga, Ottawa, Montreal, Toronto and Edmonton times; Winnipeg details still to come"
+    note: "Source: Hamilton Santa Claus Parade (hamiltonsantaparade.com); City of Mississauga, Aug. 17, 2026; Help Santa Toy Parade (toyparade.ca); The Original Santa Claus Parade; Kingsway Holiday Parade; Montréal centre-ville; Downtown Halifax Business Commission. Checked Nov. 17, 2026."
     description: "A one-page list of the 2026 Santa Claus parades in Hamilton on Nov. 14, Mississauga and Ottawa on Nov. 21, with the cities still missing a time or date."
     alt: "Printable list of 2026 Santa Claus parades in Canada with dates and start times"
     data:
@@ -141,6 +145,12 @@ assets:
           airing: live
           src: 10
           quote: "Saturday, November 21, 2026, at 11 a.m."
+        - start: "2026-11-21T18:00-04:00"
+          title: "Nova Scotia Power Holiday Parade of Lights, Halifax"
+          detail: "Cogswell Street roundabout to George Street"
+          airing: live
+          src: 11
+          quote: "kicks off the holiday season on Saturday, November 21. The Parade starts at 6:00 pm at the Cogswell Street roundabout"
         - start: "2026-11-21T18:00-05:00"
           title: "Mississauga Santa Claus Parade"
           detail: "Downtown Mississauga"
@@ -161,10 +171,9 @@ assets:
           quote: "November 22, 2026 In Person @ 12:30PM EST"
       unconfirmed:
         - { label: "Winnipeg start time", why: "Nov. 14; the site lists 5:00PM by the date but does not call it the start" }
-        - { label: "Halifax time and route", why: "Nov. 21; not announced as of Nov. 14, 2026" }
 ---
 
-**Hamilton's Santa Claus Parade is on Saturday, Nov. 14, 2026 at 2 p.m., and Mississauga's follows on Saturday, Nov. 21 at 6 p.m.**, according to the organizer's site, hamiltonsantaparade.com, and the City of Mississauga. Winnipeg's parade is Nov. 14, Halifax's is Nov. 21, Edmonton's is Nov. 21 at 5:30 p.m. and Montreal's is Nov. 21 at 11 a.m. ET, each on its organizer's or Tourism Nova Scotia's page. Toronto's and Ottawa's have their own stories. Halifax's start time is the main detail still missing.
+**Hamilton's Santa Claus Parade was on Saturday, Nov. 14, 2026 at 2 p.m., and Mississauga's follows on Saturday, Nov. 21 at 6 p.m.**, according to the organizer's site, hamiltonsantaparade.com, and the City of Mississauga. Hamilton's parade and Winnipeg's (Nov. 14) have already taken place. Halifax's is Nov. 21 at 6 p.m., Edmonton's is Nov. 21 at 5:30 p.m. and Montreal's is Nov. 21 at 11 a.m. ET, each on its organizer's page. Toronto's and Ottawa's have their own stories.
 
 The table below puts every city in one place, with last year's values labeled where 2026 is still open, and a one-page list you can print is at the end.
 
@@ -172,22 +181,22 @@ The table below puts every city in one place, with last year's values labeled wh
 
 | City | Parade | 2026 date and start | Start point | Food or toy drive |
 |---|---|---|---|---|
-| Hamilton | Hamilton Santa Claus Parade | Saturday, Nov. 14, 2 p.m. | Upper Sherman and Acadia Drive | Non-perishable food and financial donations for Mission Services |
-| Mississauga | Mississauga Santa Claus Parade | Saturday, Nov. 21, 6 p.m. | Not yet announced (downtown Mississauga) | Not stated by the City |
+| Hamilton | Hamilton Santa Claus Parade | Saturday, Nov. 14, 2 p.m. (took place) | Upper Sherman and Acadia Drive | Non-perishable food and financial donations for Mission Services |
+| Mississauga | Mississauga Santa Claus Parade | Saturday, Nov. 21, 6 p.m. | Not yet announced (downtown Mississauga) | Not listed by the City |
 | Ottawa | Help Santa Toy Parade | Saturday, Nov. 21, 11 a.m. ET | Queen Elizabeth Driveway at Somerset St. W., ending at Lansdowne Park | Toy Mountain donations |
-| Toronto | The Original Santa Claus Parade | Sunday, Nov. 22; in person 12:30 p.m. ET, on Citytv 2 p.m. ET | Route posted as a map image; closures not yet announced | Not stated |
-| Halifax | Nova Scotia Power Parade of Lights | Saturday, Nov. 21, downtown Halifax; time not yet announced (2025: 6 p.m. to 8 p.m.) | Not yet announced (2025: Cogswell St. roundabout) | 2025: non-perishable food, packaged toys or cash |
-| Winnipeg | Manitoba Hydro Santa Parade | Saturday, Nov. 14; 5 p.m. is listed next to the date | On the organizer's map | Not stated |
+| Toronto | The Original Santa Claus Parade | Sunday, Nov. 22; in person 12:30 p.m. ET, on Citytv 2 p.m. ET | Route posted as a map image; closures not yet announced | Not listed |
+| Halifax | Nova Scotia Power Parade of Lights | Saturday, Nov. 21, 6 p.m. | Cogswell Street roundabout (adjacent to the Emera Oval), then Spring Garden Road and Barrington Street, finishing at George Street | 2025: non-perishable food, packaged toys or cash |
+| Winnipeg | Manitoba Hydro Santa Parade | Saturday, Nov. 14 (took place); 5 p.m. was listed next to the date | On the organizer's map | Not listed |
 | Montreal | Santa Claus Parade (74th edition) | Saturday, Nov. 21, 11 a.m. ET | Drummond Street to Saint-Urbain Street on René-Lévesque Boulevard | Not listed |
-| Edmonton | Kingsway Holiday Parade | Saturday, Nov. 21, 5:30 p.m. | Not given | Not stated |
+| Edmonton | Kingsway Holiday Parade | Saturday, Nov. 21, 5:30 p.m. | Not given | Not listed |
 
 Weekdays are computed from the 2026 calendar: Nov. 14 and Nov. 21 are both Saturdays. The Toronto organizer's page lists "In Person @ 12:30PM EST" and "On Citytv @ 2:00PM EST"; the table gives both as Eastern Time (ET). Toronto's and Ottawa's rows come from the stories we already published, [Toronto Santa Claus Parade 2026](/news/toronto-santa-claus-parade-2026-sunday-november-22-route-citytv/) and [Ottawa Santa Claus Parade 2026](/news/ottawa-santa-claus-parade-2026-november-21-route-time/). Montreal's row comes from the organizer, Montréal centre-ville; we did not use unofficial listings.
 
 ## Hamilton Santa Claus Parade 2026: time and route
 
-The organizer's page says: "The parade begins at 2:00PM on Saturday November 14th 2026." It adds: "The parade will start at Upper Sherman and Acadia Drive." It then heads north on Upper Sherman to Limeridge Road and west to Lime Ridge Mall. The page adds: "We will end at the South side parking lot. (outside of the old Hudson Bay)."
+The organizer's page said: "The parade begins at 2:00PM on Saturday November 14th 2026." It added: "The parade will start at Upper Sherman and Acadia Drive." It then headed north on Upper Sherman to Limeridge Road and west to Lime Ridge Mall. The page added: "We will end at the South side parking lot. (outside of the old Hudson Bay)."
 
-Route details can change before parade day, so check that page again before you go. It also says that Mission Services "will be collecting non-perishable food items and any financial donations."
+The parade has already taken place. The page also said that Mission Services "will be collecting non-perishable food items and any financial donations."
 
 ## Mississauga Santa Claus Parade 2026: date and what is missing
 
@@ -199,8 +208,8 @@ The organizer, Montréal centre-ville, lists "Saturday, November 21, 2026, at 11
 
 ## Winnipeg, Halifax and Edmonton parades in 2026
 
-- **Winnipeg:** The Manitoba Hydro Santa Parade site says "Join us on November 14, 2026!" and its header reads "Nov 14, 2026 - 5:00PM". The site does not label 5 p.m. as the start time, and the route is on the organizer's map. The site lists closures in three groups. Closed from 11 a.m.: Main Street southbound lanes between Portage Avenue and York Avenue. Closed from 2 p.m.: Portage Avenue between Main Street and Memorial; Memorial Avenue northbound between Portage Avenue and Broadway; Memorial Avenue southbound between St Mary and Broadway; and Route 62 southbound lanes. Open all day: Main Street northbound lanes, all Broadway lanes, and St Mary Avenue between Vaughn Street and Fort Street.
-- **Halifax:** Tourism Nova Scotia lists the "Nova Scotia Power Parade of Lights" in "Downtown Halifax" on "November 21, 2026". No start time or route is given. Discover Halifax's page still shows 2025 information: Saturday, Nov. 15, 2025, 6 p.m. to 8 p.m., from the Cogswell St. roundabout to Barrington and George, with spectators encouraged "to bring non-perishable food items, packaged toys, or cash donations." Treat that as last year's plan.
+- **Winnipeg:** The Manitoba Hydro Santa Parade, held Nov. 14, 2026, had a site that said "Join us on November 14, 2026!" and a header that read "Nov 14, 2026 - 5:00PM". The site did not label 5 p.m. as the start time, and the route was on the organizer's map. The site listed closures in three groups. Closed from 11 a.m.: Main Street southbound lanes between Portage Avenue and York Avenue. Closed from 2 p.m.: Portage Avenue between Main Street and Memorial; Memorial Avenue northbound between Portage Avenue and Broadway; Memorial Avenue southbound between St Mary and Broadway; and Route 62 southbound lanes. Open all day: Main Street northbound lanes, all Broadway lanes, and St Mary Avenue between Vaughn Street and Fort Street.
+- **Halifax:** The Downtown Halifax Business Commission says: "The 30th Annual Nova Scotia Power Holiday Parade of Lights presented by Eastlink kicks off the holiday season on Saturday, November 21. The Parade starts at 6:00 pm at the Cogswell Street roundabout (adjacent to the Emera Oval) and makes its way to Spring Garden Road before it turns onto Barrington Street where it will finish at George Street." Discover Halifax's page still shows 2025 information, including that spectators were encouraged "to bring non-perishable food items, packaged toys, or cash donations." Treat that as last year's plan.
 - **Edmonton:** The Kingsway Holiday Parade site says "Saturday, November 21, 2026, at 5:30 p.m." That is Mountain Time, or 7:30 p.m. ET (our conversion). It does not give a location or route.
 
 ## What to bring to a Canadian Santa Claus parade
@@ -211,4 +220,4 @@ Only two organizers published donation requests we could check. In Hamilton, bri
 
 Put Saturday, Nov. 14, Saturday, Nov. 21 and Sunday, Nov. 22 on the [November 2026 printable calendar](/november-calendars.html), and see the [Canada holidays](/canada-holidays/) page for statutory days. Parade season leads into December, so the [December 2026 printable calendar](/december-calendars.html) is next, along with our [Canada Christmas markets 2026 story](/news/canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa/).
 
-The printable lists the six parades with a start time from the organizer or city and the cities still missing a time, so you can fill them in later. We will update this story when Halifax's time and route, Winnipeg's start time and Mississauga's route are announced.
+The printable lists the seven parades with a start time from the organizer or city and the city still missing a time, so you can fill it in later. We will update this story when Mississauga's route is announced.
