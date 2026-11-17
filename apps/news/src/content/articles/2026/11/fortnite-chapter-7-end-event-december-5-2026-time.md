@@ -85,7 +85,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [video-game-release-dates-december-2026, video-game-release-dates-november-2026-gta-6-ocarina-of-time, the-game-awards-2026-tickets-october-29-date-december-10-nominations]
+related: [video-game-release-dates-december-2026, video-game-release-dates-november-2026-gta-6-ocarina-of-time, pgl-cs2-major-singapore-2026-schedule-dates-finals]
 downloads:
   - group: "Fortnite Treasure Hunters Dates 2026 printables"
     title: "Fortnite Treasure Hunters Dates 2026"

@@ -87,7 +87,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [copa-sudamericana-final-2026-atletico-mineiro-boca-time-barranquilla, champions-league-december-2026-matchday-6-kickoff-times, mls-cup-playoffs-2026-schedule-dates-mls-cup-december-18]
+related: [copa-libertadores-final-2026-palmeiras-estudiantes-time-montevideo, copa-sudamericana-final-2026-atletico-mineiro-boca-time-barranquilla, champions-league-december-2026-matchday-6-kickoff-times]
 downloads:
   - group: "FIFA Intercontinental Cup 2026 Bracket Sheet printables"
     title: "FIFA Intercontinental Cup 2026 Bracket Sheet: Dec. 9, 12 and 16"
