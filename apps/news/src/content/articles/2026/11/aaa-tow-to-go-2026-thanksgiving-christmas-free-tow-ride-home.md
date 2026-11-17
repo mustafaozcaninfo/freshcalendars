@@ -3,6 +3,7 @@ title: "AAA Tow to Go 2026: Free Rides Nov. 25-30 and Dec. 24-Jan. 4"
 description: "AAA Tow to Go runs Nov. 25-30 and Dec. 24-Jan. 4, 2027. Free ride home at (855) 286-9246, with the states covered and the length of each window."
 type: news
 publishedAt: "2026-11-07T18:50:00-05:00"
+updatedAt: "2026-11-17T11:25:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["aaa tow to go 2026", "tow to go thanksgiving 2026", "free tow new years eve 2026", "aaa tow to go phone number"]
@@ -71,10 +72,10 @@ sources:
     url: "https://newsroom.acg.aaa.com/aaa-activates-tow-to-go-to-prevent-impaired-driving-during-the-holidays/"
     publisher: "AAA The Auto Club Group newsroom"
     date: "2025-12-19"
-  - title: "AAA: Nearly 82 Million Americans Projected to Travel over Thanksgiving"
-    url: "https://mwg.aaa.com/news/press-release/nov-17-2025"
-    publisher: "AAA"
-    date: "2025-11-17"
+  - title: "Thanksgiving Travel Expected to Dip Slightly Compared to Last Year"
+    url: "https://newsroom.aaa.com/2026/11/aaa-thanksgiving-holiday-travel-forecast/"
+    publisher: "American Automobile Association (AAA)"
+    date: "2026-11-16"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -144,6 +145,6 @@ The page says that since 1998 the program has removed nearly 30,000 impaired dri
 
 Call the toll-free number, (855) 2-Tow-2-Go, which is (855) 286-9246, during a window above. Save it before you go out. Our printable wallet card carries the number and both windows, with a Done column to tick off each one.
 
-## Thanksgiving travel forecast: last year's numbers
+## Thanksgiving 2026 travel forecast and the Tow to Go window
 
-In 2025, AAA projected 81.8 million people would travel at least 50 miles from home over Thanksgiving, and at least 73 million of them by car, in its Nov. 17, 2025 release. AAA has not yet announced its 2026 forecast. For road-trip timing this year, see [Thanksgiving travel 2026: best days to fly and drive](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/), and for the holiday closures that follow, [what's open on New Year's Eve and New Year's Day 2027](/news/whats-open-new-years-eve-new-years-day-2027/). A different kind of free ride, to the polls, is in [free rides to the polls 2026](/news/free-rides-to-the-polls-2026-lyft-uber-transit/).
+AAA projects 81.5 million Americans will travel at least 50 miles from home for Thanksgiving 2026, over the seven days from Tuesday, Nov. 24 to Monday, Nov. 30, in its Nov. 16, 2026 release. That is 0.1% below last year's 81.6 million, about 121,000 fewer people. AAA expects 72.9 million of them to go by car, down from 73.1 million last year. The Tow to Go window, 6 p.m. Wednesday, Nov. 25 to 6 a.m. Monday, Nov. 30, falls inside that travel period. The release cites INRIX, a traffic data company, which puts the worst Wednesday driving at 12 to 7 p.m. and the best before noon. For road-trip timing this year, see [Thanksgiving travel 2026: best days to fly and drive](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/), and for the holiday closures that follow, [what's open on New Year's Eve and New Year's Day 2027](/news/whats-open-new-years-eve-new-years-day-2027/). A different kind of free ride, to the polls, is in [free rides to the polls 2026](/news/free-rides-to-the-polls-2026-lyft-uber-transit/).

@@ -3,6 +3,7 @@ title: "Butterball Turkey Talk-Line 2026: Thanksgiving Hours by Time Zone"
 description: "Butterball Turkey Talk-Line hours on Thanksgiving, Nov. 26, 2026: 6 a.m. to 6 p.m. Central, or 7 a.m. to 7 p.m. ET. Phone and text numbers, all time zones."
 type: news
 publishedAt: "2026-11-07T06:00:00-05:00"
+updatedAt: "2026-11-17T11:25:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["butterball hotline 2026", "butterball turkey talk line hours", "butterball talk line number", "usda meat and poultry hotline thanksgiving"]
@@ -17,7 +18,7 @@ assets:
     group: thanksgiving-2026
     title: "Butterball Turkey Talk-Line Hours by Time Zone, 2026"
     subtitle: "Call 1-800-288-8372 (1-800-Butterball) or text 844-877-3456"
-    note: "Source: Butterball, Contact Us, read Nov. 7, 2026 (hours table in Central Standard Time). Eastern, Mountain and Pacific columns are our arithmetic. Confirm the U.S. Department of Agriculture (USDA) Meat and Poultry Hotline hours with the Food Safety and Inspection Service."
+    note: "Source: Butterball, Contact Us, read Nov. 7, 2026 (hours table in Central Standard Time). Eastern, Mountain and Pacific columns are our arithmetic. U.S. Department of Agriculture (USDA) Meat and Poultry Hotline: 1-888-674-6854, 8 a.m. to 2 p.m. ET on Nov. 26 (USDA bulletin, Nov. 13, 2026)."
     description: "Butterball Turkey Talk-Line hours for Nov. 2 to Dec. 24, 2026, converted to Eastern, Central, Mountain and Pacific time, with the phone and text numbers."
     alt: "Butterball Turkey Talk-Line 2026 hours printable with a column for each time zone"
     data:
@@ -57,7 +58,7 @@ assets:
           cells: { "Days": "Christmas Eve", "Eastern (ET)": "9 a.m. to 3 p.m.", "Central (CST)": "8 a.m. to 2 p.m.", "Mountain (MT)": "7 a.m. to 1 p.m.", "Pacific (PT)": "6 a.m. to 12 p.m." }
       unconfirmed:
         - { label: "Fri., Nov. 27 and the weekends of Nov. 7 to 8, Nov. 14 to 15, Dec. 5 to 6 and Dec. 12 to 13", why: "Not listed on Butterball's hours table as of Nov. 7, 2026" }
-        - { label: "USDA Meat and Poultry Hotline hours", why: "2026 Thanksgiving hours not yet announced as of Nov. 7, 2026" }
+        - { label: "USDA Meat and Poultry Hotline hours on Nov. 27 and weekends", why: "The USDA bulletin of Nov. 13, 2026 gives only the Nov. 26 hours" }
 hero:
   src: ../../../../assets/news/turkey-hotlines-2026-butterball-talk-line-usda-hours/turkey-hotlines-2026-butterball-talk-line-usda-hours.webp
   alt: "A roasted turkey on a table beside the words Butterball Turkey Talk-Line 2026 hours for Thanksgiving Day"
@@ -68,7 +69,7 @@ summary:
   - "Butterball says its Turkey Talk-Line is open Nov. 2 to Dec. 24, 2026. On Thanksgiving Day, Thursday, Nov. 26, the hours table reads 6 a.m. to 6 p.m. Central Standard Time (CST)."
   - "That is 7 a.m. to 7 p.m. Eastern Time (ET), 5 a.m. to 5 p.m. Mountain Time (MT) and 4 a.m. to 4 p.m. Pacific Time (PT), by our arithmetic."
   - "Call 1-800-Butterball (1-800-288-8372) or text 844-877-3456. Butterball's table does not list Friday, Nov. 27."
-  - "The U.S. Department of Agriculture (USDA) runs a separate Meat and Poultry Hotline; its 2026 Thanksgiving hours were not yet announced as of Nov. 7."
+  - "The U.S. Department of Agriculture (USDA) Meat and Poultry Hotline, 1-888-674-6854, will operate 8 a.m. to 2 p.m. ET on Nov. 26, 2026, USDA said on Nov. 13."
 faq:
   - q: "What is the Butterball Turkey Talk-Line number in 2026?"
     a: "Butterball's contact page lists 1-800-Butterball (1-800-288-8372) for calls and 844-877-3456 for texts. It also offers a live chat with an expert representative."
@@ -76,6 +77,8 @@ faq:
     a: "Yes. Butterball's hours table lists Nov. 26, Thanksgiving Day, from 6 a.m. to 6 p.m. Central Standard Time, which is 7 a.m. to 7 p.m. Eastern Time."
   - q: "Is the Butterball Talk-Line open the day after Thanksgiving?"
     a: "Butterball's hours table does not list Friday, Nov. 27. The next row starts on Nov. 28."
+  - q: "What are the USDA Meat and Poultry Hotline hours on Thanksgiving 2026?"
+    a: "The USDA said on Nov. 13, 2026 that the hotline, 1-888-674-6854, will operate 8 a.m. to 2 p.m. ET on Nov. 26. That is 5 a.m. to 11 a.m. Pacific Time by our arithmetic."
   - q: "When does the Butterball Talk-Line close for the season?"
     a: "The last day on Butterball's table is Dec. 24, Christmas Eve, from 8 a.m. to 2 p.m. Central Standard Time, which is 9 a.m. to 3 p.m. Eastern Time."
 sources:
@@ -83,7 +86,11 @@ sources:
     url: "https://butterball.com/contact-us"
     publisher: "Butterball"
     date: "2026-11-07"
-  - title: "Meat and Poultry Hotline (reference for the number and hours; not readable by us on Nov. 7, 2026)"
+  - title: "The Recipe for a Safe Thanksgiving"
+    url: "https://content.govdelivery.com/accounts/USDAOC/bulletins/43288ab"
+    publisher: "U.S. Department of Agriculture (USDA) Office of Communications"
+    date: "2026-11-13"
+  - title: "Meat and Poultry Hotline (reference page; not readable by our automated checks)"
     url: "https://www.fsis.usda.gov/food-safety/meat-poultry-hotline"
     publisher: "U.S. Department of Agriculture (USDA) Food Safety and Inspection Service (FSIS)"
 downloads:
@@ -133,7 +140,9 @@ One row needs a second look. The row for Nov. 28 to Dec. 18 is labeled weekdays,
 
 ## What about the federal Meat and Poultry Hotline?
 
-The U.S. Department of Agriculture (USDA) Food Safety and Inspection Service (FSIS) runs a Meat and Poultry Hotline. Its 2026 Thanksgiving Day hours were not yet announced as of Nov. 7, 2026, and the FSIS pages would not open for our automated checks that day, so we are not printing a number or hours for it here. The [FSIS Meat and Poultry Hotline page](https://www.fsis.usda.gov/food-safety/meat-poultry-hotline) is the place to confirm both.
+The U.S. Department of Agriculture (USDA) Food Safety and Inspection Service (FSIS) runs a Meat and Poultry Hotline. In a bulletin titled "The Recipe for a Safe Thanksgiving," dated Nov. 13, 2026, the USDA Office of Communications said: "The hotline will be operating 8 AM to 2 PM ET on November 26, 2026 (Thanksgiving Day)." The number is 1-888-MPHotline (1-888-674-6854), and the email address is MPHotline@usda.gov.
+
+By our arithmetic, 8 a.m. to 2 p.m. ET is 7 a.m. to 1 p.m. CT, 6 a.m. to noon MT and 5 a.m. to 11 a.m. PT. The bulletin does not give hours for Friday, Nov. 27 or for weekends, so check the [FSIS Meat and Poultry Hotline page](https://www.fsis.usda.gov/food-safety/meat-poultry-hotline) for those; our automated checks could not open it.
 
 ## Where do the hotline dates fit in Thanksgiving week?
 
