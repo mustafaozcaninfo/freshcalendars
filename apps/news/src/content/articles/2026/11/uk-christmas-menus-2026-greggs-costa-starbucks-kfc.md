@@ -4,7 +4,7 @@ description: "UK Christmas menus 2026 began at Greggs and Costa on 22 October, B
 type: news
 dateline: "London"
 publishedAt: "2026-11-04T14:57:00-05:00"
-updatedAt: "2026-11-14T15:42:00-05:00"
+updatedAt: "2026-11-17T09:25:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["christmas menu 2026 uk", "festive menus 2026", "when do christmas menus start uk 2026", "burger king christmas menu uk 2026", "wetherspoons christmas menu 2026"]
@@ -53,7 +53,8 @@ assets:
           quote: "The Christmas menu will be available at Wetherspoon's pubs from Thursday 12 November until Thursday 31 December"
       unconfirmed:
         - { label: "Starbucks UK, Subway UK, M&S, Sainsbury's, Boots", why: "Not confirmed by two sources as of 4 Nov 2026" }
-        - { label: "McDonald's UK, Caffè Nero, Nando's, Krispy Kreme UK", why: "No confirmed 2026 date as of 4 Nov 2026" }
+        - { label: "Nando's Christmas Cracker (ends Mon 4 Jan 2027)", why: "On the menu as of 17 Nov 2026; no start date or price given" }
+        - { label: "McDonald's UK, Caffè Nero, Krispy Kreme UK", why: "No confirmed 2026 date as of 4 Nov 2026" }
 hero:
   src: ../../../../assets/news/uk-christmas-menus-2026-greggs-costa-starbucks-kfc/uk-christmas-menus-2026-greggs-costa-starbucks-kfc.webp
   alt: "Hot chocolate topped with cream and marshmallows in a pink mug, for the Christmas menus 2026 UK start dates"
@@ -77,6 +78,8 @@ faq:
     a: "It began on Thursday 12 November and runs until Thursday 31 December, excluding Christmas Day, according to the Wetherspoon website, which still showed those dates on 14 November. The banner does not print a year, but both weekdays match 2026. Dishes and prices are not confirmed."
   - q: "Is there a Burger King Christmas menu in the UK in 2026?"
     a: "Yes. Retail Times reports that Burger King UK's festive menu launched on 3rd November at participating restaurants nationwide. Brit Brief says how long it stays on sale has not been confirmed."
+  - q: "Does Nando's have a Christmas menu in 2026?"
+    a: "Yes. Nando's festive menu page lists The Christmas Cracker burger and says it will be on the menu until 4th Jan 2027. The page gives no start date and no price."
   - q: "How long does the KFC Christmas menu last in 2026?"
     a: "The Gravymas range began on Monday 9 November and runs to Sunday 3 January 2027, according to Foodbible and Britbrief, at participating restaurants."
 sources:
@@ -111,6 +114,9 @@ sources:
     url: "https://www.jdwetherspoon.com/"
     publisher: "Wetherspoon"
     date: "2026-11-14"
+  - title: "Festive Menu 2026 | Christmas at Nando's"
+    url: "https://www.nandos.co.uk/whats-new/festive-menu"
+    publisher: "Nando's"
   - title: "Tesco signals the start of the Christmas season with a flavour-packed meal deal"
     url: "https://retailtimes.co.uk/tesco-signals-the-start-of-the-christmas-season-with-a-flavour-packed-meal-deal/"
     publisher: "Retail Times"
@@ -176,6 +182,7 @@ Weekdays and day counts are ours, computed from the dates in each source. "Days 
 | Burger King UK | 3 Nov | Tuesday | Not confirmed | 52 | Retail Times, Brit Brief |
 | KFC (UK and Ireland) | 9 Nov | Monday | Sunday 3 Jan 2027 | 46 | Britbrief, Foodbible |
 | Wetherspoon | 12 Nov | Thursday | Thursday 31 Dec, excluding Christmas Day | 43 | Wetherspoon |
+| Nando's Christmas Cracker | No start date given (on the menu 17 Nov) | n/a | Monday 4 Jan 2027 | n/a | Nando's |
 
 The free printable below turns the same rows into a one-page sheet with a countdown to Christmas Day, Friday 25 December 2026, and a column for when each menu ends. For the weeks themselves, print a [November 2026 calendar](/november-calendars.html) and a [December 2026 calendar](/december-calendars.html).
 
@@ -199,6 +206,10 @@ Britbrief (28 October) and Foodbible (29 October) both reported that the Gravyma
 
 The Wetherspoon website, read on 14 November, says: "The Christmas menu will be available at Wetherspoon's pubs from Thursday 12 November until Thursday 31 December" (excluding Christmas Day). The banner prints no year. Both weekdays match 2026, and the feature it links to is titled "christmas-at-wetherspoon-2026". Our [Wetherspoon Christmas menu 2026 story](/news/wetherspoon-christmas-menu-2026/) lists the dishes the page names; prices are not confirmed.
 
+## Nando's Christmas Cracker, on the menu until 4 January 2027
+
+Nando's festive menu page, read on 17 November, lists one festive item: The Christmas Cracker, a burger it describes as "Christmas dinner meet cheeseboard". It is grilled chicken breast with your choice of spice, parsnip hash brown, brie, red pepper chutney, mixed salad leaves and Garlic PERinaise in a Portuguese roll. The page says: "The Christmas Cracker will be on the menu until 4th Jan 2027", which is a Monday. It gives no 2026 start date and no price, so the burger is on the menu now but its launch day is not confirmed.
+
 ## Supermarket Christmas meal deals
 
 Tesco's Christmas meal deal is available from 12 October 2026 at £3.85 with Clubcard, according to Retail Times (5 October) and Grocery Gazette (6 October). Aldi's Christmas sandwiches are available from 14 October 2026, from £1.99, Grocery Gazette (9 October) and BritBrief (8 October) report. The sandwich details are in our [UK Christmas sandwiches 2026 story](/news/uk-christmas-sandwiches-2026-ms-pret-boots-tesco/).
@@ -215,7 +226,7 @@ These chains have no 2026 start date that two independent newsrooms or an offici
 | McDonald's UK | Not confirmed; undated reports disagree | Not covered here |
 | Pret A Manger | Not confirmed | 2025: from 4 November "until the end of December, while supply lasts" (Retail Times, 6 November 2025) |
 | Leon | Not confirmed | 2025: menu launch on "November 5th" (Retail Times, 23 October 2025) |
-| Caffè Nero, Nando's, Krispy Kreme UK | Not confirmed | Not covered here |
+| Caffè Nero, Krispy Kreme UK | Not confirmed | Not covered here |
 
 The US Starbucks holiday menu is a separate launch; see [Starbucks holiday menu 2026 and Red Cup Day](/news/starbucks-holiday-menu-2026-red-cup-day-date/) for US dates only.
 
