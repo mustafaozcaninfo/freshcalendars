@@ -85,7 +85,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [black-friday-2026-store-hours-walmart-target-best-buy, black-friday-2026-ad-tracker-walmart-target-best-buy, bass-pro-santas-wonderland-2026-free-photos-dates]
+related: [black-friday-2026-store-hours-walmart-target-best-buy, black-friday-2026-ad-tracker-walmart-target-best-buy, academy-black-friday-2026-line-up-to-win-bonus-cards-november-27]
 downloads:
   - group: "Dick's Black Friday 2026 Dates and Hours printables"
     title: "Dick's Black Friday 2026 Dates and Hours"

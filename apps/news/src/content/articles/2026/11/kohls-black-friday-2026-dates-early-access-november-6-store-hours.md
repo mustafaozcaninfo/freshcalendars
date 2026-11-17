@@ -79,7 +79,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [black-friday-2026-store-hours-walmart-target-best-buy, black-friday-2026-ad-tracker-walmart-target-best-buy, home-depot-black-friday-2026-sale-dates-november-5-25-store-hours]
+related: [black-friday-2026-store-hours-walmart-target-best-buy, black-friday-2026-ad-tracker-walmart-target-best-buy, jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed]
 draft: false
 ---
 
