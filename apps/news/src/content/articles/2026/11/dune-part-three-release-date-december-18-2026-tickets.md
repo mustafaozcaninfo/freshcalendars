@@ -3,6 +3,7 @@ title: "Dune: Part Three Release Date: Dec. 18, 2026, Tickets and Countdown"
 description: "Dune: Part Three release date is Friday, Dec. 18, 2026, only in cinemas and IMAX. Includes a countdown, ticket status and a printable release tracker."
 type: news
 publishedAt: "2026-11-06T13:49:00-05:00"
+updatedAt: "2026-11-17T00:55:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["dune part three release date", "dune 3 release date", "dune part three tickets", "dune part three imax 70mm"]
@@ -53,12 +54,14 @@ downloads:
     pages: 1
 summary:
   - "Warner Bros. Discovery's title page lists Dune: Part Three for Dec. 18, 2026, and says it is 'only in cinemas and IMAX December 18.'"
-  - "That Friday is also the release date Disney lists for Marvel Studios' Avengers: Doomsday."
+  - "The film's official site says it opens internationally from Dec. 16, with early access screenings for Dune Insiders on Monday, Dec. 14, and Tuesday, Dec. 15. Disney lists Avengers: Doomsday for the same Dec. 18."
   - "All three Dune films open on a Friday: Oct. 22, 2021, March 1, 2024 and Dec. 18, 2026."
   - "Gizmodo and Ground News reported that initial IMAX 70mm screenings went on sale in April 2026; the runtime, rating and general on-sale date are not announced."
 faq:
   - q: "When is the Dune: Part Three release date?"
     a: "Warner Bros. Discovery's title page lists Dec. 18, 2026, and says the film is 'only in cinemas and IMAX December 18.'"
+  - q: "When does Dune: Part Three open outside North America?"
+    a: "The official site, dunemovie.com, says the film opens internationally beginning Dec. 16, 2026, and in North America on Dec. 18."
   - q: "Do Dune: Part Three and Avengers: Doomsday open on the same day?"
     a: "Yes. Warner Bros. Discovery lists Dune: Part Three for Dec. 18, 2026, and Disney lists Avengers: Doomsday for the same Friday."
   - q: "Can I buy Dune: Part Three IMAX 70mm tickets?"
@@ -68,6 +71,10 @@ faq:
   - q: "Who directed Dune: Part Three?"
     a: "Warner Bros. Discovery's title page credits Denis Villeneuve as director."
 sources:
+  - title: "Dune: Part Three"
+    url: "https://www.dunemovie.com/"
+    publisher: "Dune: Part Three official site"
+    date: "2026-11-17"
   - title: "Dune: Part Three"
     url: "https://ed.wbd.com/titles/dune-part-three"
     publisher: "Warner Bros. Discovery"
@@ -104,6 +111,8 @@ draft: false
 ## When is the Dune: Part Three release date?
 
 Warner Bros. Discovery's title page lists Dune: Part Three for "December 18, 2026" and says the film is "only in cinemas and IMAX December 18." The same page names Denis Villeneuve as director and lists the cast as Timothée Chalamet, Zendaya, Jason Momoa, Florence Pugh, Rebecca Ferguson, Isaach De Bankolé, Charlotte Rampling, Anya Taylor-Joy, Robert Pattinson, Javier Bardem, Nakoa-Wolf Momoa and Ida Brooke.
+
+The film's official site, dunemovie.com, says it is "only in theaters and IMAX across North America on December 18, 2026 and internationally beginning 16 December 2026." It also lists "Early access screenings for Dune Insiders on Monday, December 14, and Tuesday, December 15."
 
 Dec. 18, 2026 is a Friday. Our guide to [new movies in theaters in December 2026](/news/new-movies-in-theaters-december-2026-release-dates-avengers-doomsday-dune/) has the full month lineup.
 
@@ -156,7 +165,8 @@ In part. Gizmodo and Ground News reported in April 2026 that tickets for the fir
 | MPA rating | Not announced |
 | General (non-70mm) on-sale date | Not announced |
 | HBO Max streaming date | Not announced |
-| UK and Canada release dates | Not announced |
+| International release | Beginning Dec. 16, 2026 (dunemovie.com) |
+| Early access screenings | Dune Insiders, Mon., Dec. 14, and Tue., Dec. 15 (dunemovie.com) |
 
 ## Print the December 18, 2026 release tracker
 

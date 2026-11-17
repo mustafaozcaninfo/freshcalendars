@@ -3,7 +3,7 @@ title: "Boat Parades 2026: Newport Beach Dec. 16-20, San Diego Dec. 13"
 description: "Boat parades 2026 run Dec. 11-20 in six harbors. One table gives each date, local and ET start time and where to watch, plus a printable checklist."
 type: news
 publishedAt: "2026-11-09T18:38:00-05:00"
-updatedAt: "2026-11-09T18:38:00-05:00"
+updatedAt: "2026-11-17T00:52:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["boat parade 2026", "christmas boat parade near me", "newport beach boat parade 2026", "san diego bay parade of lights 2026"]
@@ -92,10 +92,10 @@ assets:
       layout: table
       events:
         - { start: "2026-12-11T20:00-08:00", title: "Seattle, Christmas Ship Festival Parade of Boats", detail: "Departs Lake Union Park; shore: Evanston Plaza", src: 4, quote: ["Friday, December 11", "departs Lake Union Park at 8:00 pm"] }
-        - { start: "2026-12-12T18:00-05:00", title: "Fort Lauderdale, Winterfest Boat Parade", detail: "Starts at Stranahan House; ticketed viewing area", src: 2, quote: "Saturday, December 12, 2026 from 6:00PM to 8:30PM." }
-        - { start: "2026-12-12T18:00-08:00", title: "Marina del Rey Holiday Boat Parade", detail: "Viewing at Burton Chace Park; ends 8:00 p.m.", src: 5, quote: ["Saturday, December 12, 2026", "6:00 p.m. to 8:00 p.m."] }
+        - { start: "2026-12-12T18:00-05:00", title: "Fort Lauderdale, Winterfest Boat Parade", detail: "Starts at Stranahan House; ends 8:30 p.m.; ticketed viewing", src: 2, quote: "Saturday, December 12, 2026 from 6:00PM to 8:30PM." }
+        - { start: "2026-12-12T18:00-08:00", title: "Marina del Rey Holiday Boat Parade", detail: "Burton Chace Park; carolers 4:00-6:00 p.m.", src: 5, quote: ["Saturday, December 12, 2026", "6:00 p.m. to 8:00 p.m."] }
         - { date: "2026-12-12", time: TBA, title: "Annapolis, Eastport Yacht Club Lights Parade", detail: "Start time not yet announced", src: 6, quote: "December 12, 2026" }
-        - { start: "2026-12-13T17:30-08:00", title: "San Diego Bay Parade of Lights, first night", detail: "Bayfront to Chicano Park pier; again Dec. 20", src: 3, quote: ["When: December 13 and December 20, 2026", "5:30 p.m."] }
+        - { start: "2026-12-13T17:30-08:00", title: "San Diego Bay Parade of Lights, first night", detail: "Free to view; again Dec. 20", src: 3, quote: ["When: December 13 and December 20, 2026", "5:30 p.m."] }
         - { start: "2026-12-16T18:30-08:00", title: "Newport Beach Christmas Boat Parade, opening night", detail: "Marina Park is free; nightly through Dec. 20", src: 1, quote: ["Wednesday through Sunday, December 16-20, 2026", "The parade will begin at approximately 6:30 p.m. each night from December 16 – 20, 2026."] }
       unconfirmed:
         - { label: "Annapolis start time", why: "Visit Annapolis said details will be shared when available" }
@@ -112,10 +112,10 @@ The table puts six harbor parades in date order with each local start time, our 
 | Date | City and event | Local start | ET start | Where to watch from shore |
 |---|---|---|---|---|
 | Fri., Dec. 11 | Seattle, Argosy Christmas Ship Festival Parade of Boats | 8:00 p.m. PT (departs Lake Union Park) | 11:00 p.m. ET | Evanston Plaza in Fremont, about 8:20 p.m. to 9:10 p.m. PT |
-| Sat., Dec. 12 | Fort Lauderdale, Seminole Hard Rock Winterfest Boat Parade | 6:00 p.m. ET | 6:00 p.m. ET | Ticketed Parade Viewing Area |
-| Sat., Dec. 12 | Marina del Rey Holiday Boat Parade | 6:00 p.m. to 8:00 p.m. PT | 9:00 p.m. to 11:00 p.m. ET | Burton Chace Park |
+| Sat., Dec. 12 | Fort Lauderdale, Seminole Hard Rock Winterfest Boat Parade | 6:00 p.m. ET | 6:00 p.m. ET | Ticketed Parade Viewing Area; parade ends 8:30 p.m. ET |
+| Sat., Dec. 12 | Marina del Rey Holiday Boat Parade | 6:00 p.m. to 8:00 p.m. PT | 9:00 p.m. to 11:00 p.m. ET | Burton Chace Park; carolers 4:00 p.m. to 6:00 p.m. PT |
 | Sat., Dec. 12 | Annapolis, Eastport Yacht Club Lights Parade | Not yet announced | Not yet announced | Not yet announced |
-| Sun., Dec. 13 and Sun., Dec. 20 | San Diego Bay Parade of Lights | 5:30 p.m. PT | 8:30 p.m. ET | Along the bayfront; the organizer says to arrive early |
+| Sun., Dec. 13 and Sun., Dec. 20 | San Diego Bay Parade of Lights | 5:30 p.m. PT | 8:30 p.m. ET | Along the bayfront, free to view; the organizer says to arrive early |
 | Wed., Dec. 16 to Sun., Dec. 20 | Newport Beach Christmas Boat Parade | About 6:30 p.m. PT each night | About 9:30 p.m. ET | Marina Park, free |
 
 The ET column is our conversion: Pacific Time is three hours behind Eastern Time. Seattle's 8:00 p.m. departure falls at 11:00 p.m. ET, so viewers in the East who want a live look need a late evening.
@@ -128,7 +128,7 @@ For a free spot, the organizer points to the 10.5-acre Marina Park at 1600 W Bal
 
 ## San Diego Bay Parade of Lights: two Sundays
 
-The 56th Annual San Diego Bay Parade of Lights is on Dec. 13 and Dec. 20, 2026, both Sundays, with a 5:30 p.m. start. The 2026 theme is "Liberty Lights the Bay - Cheers to 250 Years." The organizer says the parade proceeds along the bayfront to the pier at Chicano Park before turning toward Coronado, and asks viewers to arrive early "as it gets crowded at the top locations." The page does not state the start or end points in text.
+The 56th Annual San Diego Bay Parade of Lights is on Dec. 13 and Dec. 20, 2026, both Sundays, with a 5:30 p.m. start. The 2026 theme is "Liberty Lights the Bay - Cheers to 250 Years." The organizer says there is no cost to view the parade. It says the parade proceeds along the bayfront to the pier at Chicano Park before turning toward Coronado, and asks viewers to arrive early "as it gets crowded at the top locations." The page does not state the start or end points in text.
 
 ## Seattle Christmas Ship Festival: shore stops and Dec. 11
 
@@ -138,8 +138,8 @@ Argosy Cruises lists the 2026 season from Nov. 27 to Dec. 23. The Parade of Boat
 
 Three boat parades share Saturday, Dec. 12.
 
-- **Fort Lauderdale:** the Winterfest parade and fireworks are at 6:00 p.m., with a 5:30 p.m. pre-show of non-motorized vessels. The organizer says the parade starts at Stranahan House, runs a 12-mile route and ends at Lake Santa Barbara in Pompano Beach. Viewing areas are ticketed; the [Christmas parades story](/news/christmas-parades-2026-us-cities-dates-times-routes/) has the ticket price range.
-- **Marina del Rey:** the 64th annual parade, run by the Los Angeles County Department of Beaches and Harbors, is from 6:00 p.m. to 8:00 p.m. with viewing at Burton Chace Park.
+- **Fort Lauderdale:** the Winterfest parade and fireworks are from 6:00 p.m. to 8:30 p.m., with a 5:30 p.m. pre-show of non-motorized vessels. The organizer says the parade starts at Stranahan House, runs a 12-mile route and ends at Lake Santa Barbara in Pompano Beach. Viewing areas are ticketed; the [Christmas parades story](/news/christmas-parades-2026-us-cities-dates-times-routes/) has the ticket price range.
+- **Marina del Rey:** the 64th annual parade, run by the Los Angeles County Department of Beaches and Harbors, is from 6:00 p.m. to 8:00 p.m. with viewing at Burton Chace Park. Voices of Christmas, a roaming carolers show, runs from 4:00 p.m. to 6:00 p.m.
 - **Annapolis:** Visit Annapolis lists the Eastport Yacht Club Lights Parade for Dec. 12 and says details will be shared when they are available.
 
 ## Which boat parades have no 2026 dates yet?

@@ -3,6 +3,7 @@ title: "Royal Rumble 2027: Feb. 6 in Glendale, Tickets On Sale Nov. 18"
 description: "Royal Rumble 2027 is Saturday, Feb. 6 at State Farm Stadium in Glendale. Presale and on-sale times in ET and Arizona time, plus a printable Rumble guide."
 type: news
 publishedAt: "2026-11-13T23:13:00-05:00"
+updatedAt: "2026-11-17T00:55:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["royal rumble 2027 date", "royal rumble 2027 location", "royal rumble 2027 tickets", "royal rumble 2027 presale"]
@@ -19,8 +20,8 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Troutfarm27"
 summary:
   - "World Wrestling Entertainment (WWE) holds the 40th annual Royal Rumble on Saturday, Feb. 6, 2027, at State Farm Stadium in Glendale, Arizona."
-  - "Club WWE presale starts Monday, Nov. 16, general presale Tuesday, Nov. 17, and tickets go on sale Wednesday, Nov. 18, each at noon ET (10 a.m. Arizona time)."
-  - "In the United States the show streams exclusively on the ESPN App; WWE has not announced a start time, ticket prices or travel packages."
+  - "Club WWE presale began Monday, Nov. 16, general presale is Tuesday, Nov. 17, and tickets go on sale Wednesday, Nov. 18, each at noon ET (10 a.m. Arizona time)."
+  - "The show streams in the U.S. exclusively on the ESPN App with an ESPN Unlimited plan and on Netflix internationally; Very Important Person (VIP) Experience packages are sold through On Location. WWE has not announced a start time or ticket prices."
   - "Friday Night SmackDown and AAA Road to Rey de Reyes share Desert Diamond Arena on Friday, Feb. 5."
 faq:
   - q: "What time does the Royal Rumble 2027 start?"
@@ -28,12 +29,16 @@ faq:
   - q: "How much are Royal Rumble 2027 tickets?"
     a: "WWE has not announced prices. The Nov. 2 release names SeatGeek.com as the seller for the general on-sale."
   - q: "How do you get Royal Rumble 2027 presale access?"
-    a: "WWE lists two presales: Club WWE on Monday, Nov. 16 at noon ET, and a general presale on Tuesday, Nov. 17 at noon ET, with registration at wwe.com/RoyalRumble27."
+    a: "WWE lists two presales: Club WWE, which began Monday, Nov. 16 at noon ET, and a general presale on Tuesday, Nov. 17 at noon ET, with registration at wwe.com/RoyalRumble27."
   - q: "Is the Royal Rumble 2027 on Netflix?"
-    a: "In the United States WWE says it streams exclusively on the ESPN App. WWE's 2025 ESPN release says Netflix carries WWE programming in most markets outside the U.S.; WWE has not named a Netflix stream for this show."
+    a: "WWE's Nov. 2, 2026 release says the event will \"stream in the U.S. exclusively on the ESPN App for fans with an ESPN Unlimited plan and on Netflix internationally.\" In the United States it is not on Netflix."
   - q: "Where is WrestleMania 43?"
     a: "WWE's announcement, as reported by Fightful on Sept. 12, 2025, puts WrestleMania 43 in Riyadh, Saudi Arabia, in 2027. The date has not been officially announced."
 sources:
+  - title: "WWE corporate news, Nov. 2, 2026"
+    url: "https://corporate.wwe.com/about/news/2026/11-02-2026"
+    publisher: "WWE"
+    date: "2026-11-02"
   - title: "Glendale to host 40th annual Royal Rumble on Saturday, Feb. 6 at State Farm Stadium"
     url: "https://www.wwe.com/article/glendale-to-host-40th-annual-royal-rumble-on-saturday-feb-6-at-state-farm-stadium"
     publisher: "WWE"
@@ -139,7 +144,7 @@ assets:
           quote: "the 40th annual Royal Rumble will be held on Saturday, Feb. 6, at State Farm Stadium in Glendale, Arizona."
       unconfirmed:
         - { label: "Royal Rumble start time", why: "WWE's Nov. 2, 2026 release gives none" }
-        - { label: "Ticket prices and travel packages", why: "WWE has not announced them" }
+        - { label: "Ticket prices", why: "WWE has not announced them" }
         - { label: "Elimination Chamber 2027 date and city", why: "Not announced" }
 downloads:
   - group: "Royal Rumble 2027 Watch Guide printables"
@@ -165,7 +170,7 @@ WWE lists all three steps at noon ET, and the Nov. 2 release gives the on-sale a
 | General presale (register at wwe.com/RoyalRumble27) | Tue., Nov. 17, 2026 | Noon | 10 a.m. | 9 a.m. |
 | General on-sale via SeatGeek.com | Wed., Nov. 18, 2026 | Noon | 10 a.m. | 9 a.m. |
 
-WWE has not announced prices or travel packages. Mark the three days on the [November 2026 printable calendar](/november-calendars.html).
+The Club WWE presale began on Nov. 16 and the general presale is on Nov. 17. WWE has not announced prices; Very Important Person (VIP) Experience packages are sold through On Location. Mark the three days on the [November 2026 printable calendar](/november-calendars.html).
 
 ## Where is the Royal Rumble 2027?
 
@@ -177,7 +182,7 @@ Desert Diamond Arena in Glendale hosts a double event on Friday, Feb. 5: Friday 
 
 WWE has not announced a start time. Feb. 6, 2027 is a Saturday; see the [February 2027 printable calendar](/february-calendars.html).
 
-In the United States the show streams "exclusively on the ESPN App" for ESPN Unlimited subscribers, according to the WWE release as reported by Fightful on Nov. 2, 2026. WWE and ESPN said on Aug. 6, 2025 that ESPN platforms would become the exclusive U.S. home of all WWE Premium Live Events starting in 2026, and that Netflix is the exclusive home of WWE programming around the world, other than select international markets. WWE has not named a Netflix stream for this show.
+WWE's Nov. 2, 2026 release says the event will "stream in the U.S. exclusively on the ESPN App for fans with an ESPN Unlimited plan and on Netflix internationally." WWE and ESPN said on Aug. 6, 2025 that ESPN platforms would become the exclusive U.S. home of all WWE Premium Live Events starting in 2026, and that Netflix is the exclusive home of WWE programming around the world, other than select international markets.
 
 ## What is at stake in the 2027 Royal Rumble matches?
 
