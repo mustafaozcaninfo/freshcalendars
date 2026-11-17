@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-17T09:13:39.741Z",
+ "generatedAt": "2026-11-17T18:32:35.180Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "100% (76 of 76 sampled)",
+   "value": "99% (75 of 76 sampled)",
    "pass": true
   },
   {
@@ -2367,13 +2367,13 @@
  "indexed": {
   "checked": 76,
   "sampled": 90,
-  "indexed": 76,
+  "indexed": 75,
   "notIndexed": [
    {
-    "url": "https://freshcalendars.com/news/northwest-isd-calendar-2026-27/",
+    "url": "https://freshcalendars.com/news/linkedin-games-answers-today-october-31-2026-queens-tango-zip/",
     "status": "not indexed",
     "state": "Excluded by ‘noindex’ tag",
-    "age": 5
+    "age": 17
    }
   ],
   "states": {
@@ -2395,7 +2395,7 @@
    "errors": 0,
    "warnings": 0,
    "lastDownloaded": "2026-11-16T18:43:42.901Z",
-   "submitted": 1723
+   "submitted": 2236
   },
   {
    "path": "https://freshcalendars.com/news/news-sitemap.xml",
