@@ -79,7 +79,7 @@ assets:
   overlay: true
   kicker: "National Christmas Tree · Thu., Dec. 3, 2026"
   date: "2026-12-03"
-  card: { top: "National Christmas Tree lighting", big: "Lottery open now, closes Nov. 4", bottom: "Ceremony Thu., Dec. 3 on the Ellipse" }
+  card: { top: "National Christmas Tree lighting", big: "Thu., Dec. 3 on the Ellipse", bottom: "Ticket lottery closed Nov. 4" }
   printable:
     noKit: "Mixed dated timeline from NPS, NPF and Capitol tree sources; the fact sheet has no verbatim source quotes for the kit data."
     slug: national-christmas-tree-2026-timeline
