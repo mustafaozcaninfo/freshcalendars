@@ -3,6 +3,7 @@ title: "Royal Mail Christmas Last Posting Dates 2026: 2nd Class 18 December"
 description: "Royal Mail's last posting date for 2nd Class at Christmas 2026 is Friday 18 December; 1st Class is Monday 21 December. Table of each service, days left."
 type: news
 publishedAt: "2026-10-30T02:20:00-04:00"
+updatedAt: "2026-11-18T11:30:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Royal Mail last posting dates Christmas 2026", "last day to post Christmas cards 2026", "Royal Mail 2nd Class last posting date Christmas", "Special Delivery last posting date 2026"]
@@ -19,9 +20,9 @@ hero:
     author: "Mutney"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Mutney"
 summary:
-  - "Royal Mail's last recommended posting date for 2nd Class and 2nd Class Signed For is Friday 18 December 2026, according to its press release of 27 October 2026."
+  - "Royal Mail's last recommended posting date for 2nd Class and 2nd Class Signed For is Friday 18 December 2026, 7 days before Christmas Day, according to its press release of 27 October 2026."
   - "1st Class, 1st Class Signed For and Royal Mail Tracked 24 are Monday 21 December; Tracked 48 is Saturday 19 December; Special Delivery Guaranteed is Wednesday 23 December."
-  - "By our count, the 2nd Class date is 7 days before Christmas Day (Friday 25 December) and 49 days after 30 October 2026."
+  - "The Post Office lists Parcelforce Worldwide express48 on Monday 21 December and express24 on Tuesday 22 December 2026."
   - "These are recommended dates, not guarantees. International and British Forces Post Office (BFPO) dates are not covered here and are on royalmail.com/christmas."
 faq:
   - q: "What is the last posting date for 2nd Class at Christmas 2026?"
@@ -32,6 +33,8 @@ faq:
     a: "Special Delivery Guaranteed has a last recommended posting date of Wednesday 23 December 2026, according to Royal Mail."
   - q: "Are Royal Mail's last posting dates guaranteed?"
     a: "No. Royal Mail calls them last recommended posting dates, so they are advice on when to post, not a promise of delivery before Christmas."
+  - q: "What are the Parcelforce last posting dates for Christmas 2026?"
+    a: "The Post Office lists Parcelforce Worldwide express48 as Monday 21 December 2026 and express24 as Tuesday 22 December 2026. Branch final acceptance times vary, so check with your local branch."
   - q: "Where are the international and BFPO posting dates for 2026?"
     a: "We have not confirmed them. Royal Mail's own website blocked our automated check, so look at royalmail.com/christmas for international and British Forces Post Office dates."
 sources:
@@ -39,6 +42,9 @@ sources:
     url: "https://www.internationaldistributionservices.com/en/press-centre/press-releases/royal-mail/royal-mail-announces-last-recommended-posting-dates-for-christmas/"
     publisher: "Royal Mail (International Distribution Services press centre)"
     date: "2026-10-27"
+  - title: "Christmas Last Posting Dates | Post Office"
+    url: "https://postoffice.co.uk/last-posting-dates"
+    publisher: "Post Office"
   - title: "Bank holidays"
     url: "https://www.gov.uk/bank-holidays"
     publisher: "GOV.UK"
@@ -58,12 +64,12 @@ downloads:
     png: "/news/downloads/christmas-posting-2026/royal-mail-christmas-posting-dates-2026.png"
     pages: 1
   - group: "Royal Mail Christmas Posting Dates 2026 printables"
-    title: "Royal Mail Christmas Posting Dates 2026 (ink saver)"
-    description: "A one-page list of Royal Mail's last recommended posting dates for Christmas 2026, with Christmas Day and the Boxing Day substitute bank holiday. Ink-saver version."
-    preview: ../../../../assets/news/christmas-posting-2026/royal-mail-christmas-posting-dates-2026-ink.png
-    alt: "Printable list of Royal Mail last recommended posting dates for Christmas 2026 by service, ink-saver version"
-    pdf: "/news/downloads/christmas-posting-2026/royal-mail-christmas-posting-dates-2026-ink.pdf"
-    png: "/news/downloads/christmas-posting-2026/royal-mail-christmas-posting-dates-2026-ink.png"
+    title: "Royal Mail Christmas Posting Dates 2026 (A4)"
+    description: "A one-page list of Royal Mail's last recommended posting dates for Christmas 2026, with Christmas Day and the Boxing Day substitute bank holiday. A4 paper."
+    preview: ../../../../assets/news/christmas-posting-2026/royal-mail-christmas-posting-dates-2026-a4.png
+    alt: "Printable list of Royal Mail last recommended posting dates for Christmas 2026 by service, A4"
+    pdf: "/news/downloads/christmas-posting-2026/royal-mail-christmas-posting-dates-2026-a4.pdf"
+    png: "/news/downloads/christmas-posting-2026/royal-mail-christmas-posting-dates-2026-a4.png"
     pages: 1
 draft: false
 assets:
@@ -76,37 +82,41 @@ assets:
     slug: royal-mail-christmas-posting-dates-2026
     group: christmas-posting-2026
     title: "Royal Mail Christmas Posting Dates 2026"
+    kit: deadline-matrix
     subtitle: "Last recommended posting dates by service"
-    layout: list
-    inkSaver: true
-    rows:
-      - ["Fri., Dec. 18", "2nd Class and 2nd Class Signed For"]
-      - ["Sat., Dec. 19", "Royal Mail Tracked 48"]
-      - ["Mon., Dec. 21", "1st Class and 1st Class Signed For"]
-      - ["Mon., Dec. 21", "Royal Mail Tracked 24"]
-      - ["Wed., Dec. 23", "Special Delivery Guaranteed"]
-      - ["Fri., Dec. 25", "Christmas Day"]
-      - ["Mon., Dec. 28", "Boxing Day substitute bank holiday"]
-    note: "Source: Royal Mail press release, 27 October 2026; GOV.UK Bank holidays."
+    note: "Sources: Royal Mail press release, 27 October 2026; Post Office last posting dates (Parcelforce); GOV.UK Bank holidays. Boxing Day substitute bank holiday: Mon., Dec. 28."
+    data:
+      target: { date: "2026-12-25", label: "Christmas Day" }
+      columns: ["Royal Mail", "Parcelforce (Post Office)"]
+      rows:
+        - { date: "2026-12-18", cells: { "Royal Mail": "2nd Class and 2nd Class Signed For" }, src: 1, quote: "Friday 18 December" }
+        - { date: "2026-12-19", cells: { "Royal Mail": "Tracked 48" }, src: 1, quote: "Saturday 19 December" }
+        - { date: "2026-12-21", cells: { "Royal Mail": "1st Class, 1st Class Signed For, Tracked 24", "Parcelforce (Post Office)": "Worldwide express48" }, src: 1, quote: "Monday 21 December" }
+        - { date: "2026-12-22", cells: { "Parcelforce (Post Office)": "Worldwide express24" }, src: 3, quote: "Tuesday 22 December" }
+        - { date: "2026-12-23", cells: { "Royal Mail": "Special Delivery Guaranteed" }, src: 1, quote: "Wednesday 23 December" }
+      unconfirmed:
+        - { label: "International and BFPO dates", why: "Not confirmed in our sources" }
     description: "A one-page list of Royal Mail's last recommended posting dates for Christmas 2026, with Christmas Day and the Boxing Day substitute bank holiday."
     alt: "Printable list of Royal Mail last recommended posting dates for Christmas 2026 by service."
 ---
 
-**Royal Mail's last recommended posting date for 2nd Class and 2nd Class Signed For at Christmas 2026 is Friday 18 December, and for 1st Class it is Monday 21 December**, according to the Royal Mail press release of 27 October 2026. Our table below adds the weekday and the days left, and a one-page printable follows.
+**Royal Mail's last recommended posting date for 2nd Class and 2nd Class Signed For at Christmas 2026 is Friday 18 December, and for 1st Class it is Monday 21 December**, according to the Royal Mail press release of 27 October 2026. Our table below adds the weekday and the days left, the Post Office's Parcelforce dates are included, and a one-page printable follows.
 
 Royal Mail calls these last recommended posting dates. They are advice on when to post, not a guarantee that an item arrives before Christmas Day.
 
 ## What are the Royal Mail last posting dates for Christmas 2026?
 
-| Service | Last recommended posting date | Days before Christmas Day (by our count) | Days from 30 October 2026 (by our count) |
+| Service | Last recommended posting date | Days before Christmas Day (by our count) | Days from 18 November 2026 (by our count) |
 |---|---|---|---|
-| 2nd Class and 2nd Class Signed For | Friday 18 December | 7 | 49 |
-| Royal Mail Tracked 48 | Saturday 19 December | 6 | 50 |
-| 1st Class and 1st Class Signed For | Monday 21 December | 4 | 52 |
-| Royal Mail Tracked 24 | Monday 21 December | 4 | 52 |
-| Special Delivery Guaranteed | Wednesday 23 December | 2 | 54 |
+| 2nd Class and 2nd Class Signed For | Friday 18 December | 7 | 30 |
+| Royal Mail Tracked 48 | Saturday 19 December | 6 | 31 |
+| 1st Class and 1st Class Signed For | Monday 21 December | 4 | 33 |
+| Royal Mail Tracked 24 | Monday 21 December | 4 | 33 |
+| Parcelforce Worldwide express48 (Post Office) | Monday 21 December | 4 | 33 |
+| Parcelforce Worldwide express24 (Post Office) | Tuesday 22 December | 3 | 34 |
+| Special Delivery Guaranteed | Wednesday 23 December | 2 | 35 |
 
-Dates and services are from Royal Mail, 27 October 2026. The day counts are our calculation: Christmas Day 2026 is Friday 25 December, according to GOV.UK, and the third column counts back from it.
+Royal Mail dates and services are from its press release of 27 October 2026; the Parcelforce dates are from the Post Office's last posting dates page, which shows no update date. The day counts are our calculation: Christmas Day 2026 is Friday 25 December, according to GOV.UK, and the third column counts back from it.
 
 ## When is the last day to post Christmas cards in 2026?
 
@@ -126,7 +136,7 @@ Royal Mail also warns about scam texts and emails, and about counterfeit stamps.
 
 ## What is not yet confirmed?
 
-The press release dates above cover the main domestic services. We have not confirmed the 2026 international and British Forces Post Office (BFPO) dates, because Royal Mail's own website blocked our automated check. Check royalmail.com/christmas for those. We also have no 2026 dates for Parcelforce, and we do not know whether there are deliveries on 26 December.
+The press release dates above cover the main domestic services. We have not confirmed the 2026 international and British Forces Post Office (BFPO) dates, because Royal Mail's own website blocked our automated check. Check royalmail.com/christmas for those. The Post Office's page lists no international or BFPO dates either. It gives Parcelforce Worldwide express48 as Monday 21 December and express24 as Tuesday 22 December 2026, and says parcels must be received before branches' final acceptance times, which vary, so check with your local branch. Parcelforce's own page blocked our check, so those two dates come from the Post Office. We do not know whether there are deliveries on 26 December.
 
 ## Which dates should you mark?
 
@@ -134,4 +144,4 @@ The printable lists each service date, then Christmas Day on Friday 25 December 
 
 For the bank holiday detail, see our [UK Christmas bank holidays story](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/). For other carriers, see our stories on [Canada Post holiday shipping deadlines](/news/canada-post-holiday-shipping-deadlines-2026-christmas/) and [FedEx and UPS holiday shipping deadlines](/news/fedex-ups-holiday-shipping-deadlines-2026-christmas/).
 
-The dates are those in Royal Mail's press release of 27 October 2026, as of 30 October 2026. Check royalmail.com/christmas before you post.
+The dates are those in Royal Mail's press release of 27 October 2026, with the Parcelforce dates from the Post Office page, checked 18 November 2026. Check royalmail.com/christmas before you post.
