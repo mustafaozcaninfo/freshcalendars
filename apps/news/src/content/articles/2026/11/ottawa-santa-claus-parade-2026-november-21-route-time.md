@@ -3,6 +3,7 @@ title: "Ottawa Christmas Parade 2026: Nov. 21 at 11 a.m., Route and Start"
 description: "Ottawa's Christmas parade, the Help Santa Toy Parade, is Saturday, Nov. 21, 2026 at 11 a.m. ET. Route to Lansdowne Park, plus a printable day guide."
 type: news
 publishedAt: "2026-11-04T09:12:00-05:00"
+updatedAt: "2026-11-18T15:25:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["ottawa santa claus parade 2026", "help santa toy parade 2026", "ottawa santa parade route", "ottawa santa claus parade time"]
@@ -29,14 +30,14 @@ faq:
   - q: "Where does the Ottawa Santa parade start and end?"
     a: "It begins at Queen Elizabeth Driveway at Somerset St. W. and ends at Lansdowne Park and TD Place, according to the organizer's site. The route map on that site runs south along the driveway beside the Rideau Canal."
   - q: "Are there road closures for the Ottawa Santa parade in 2026?"
-    a: "No closure notice had been published when we checked on Nov. 4, 2026. The organizer's site says volunteers will be posted at all road closures."
+    a: "No closure notice had been published when we checked on Nov. 18, 2026. The organizer's site says volunteers will be posted at all road closures."
   - q: "Is the Ottawa Santa parade on TV?"
     a: "The organizer's site does not mention a TV broadcast or livestream for 2026."
 sources:
   - title: "Home - Help Santa Toy Parade"
     url: "https://toyparade.ca/"
     publisher: "Help Santa Toy Parade"
-    date: "2026-11-04"
+    date: "2026-11-18"
   - title: "Ottawa's Help Santa Toy Parade returns with same holiday magic but brand new route"
     url: "https://www.ctvnews.ca/ottawa/article/ottawas-help-santa-toy-parade-returns-with-same-holiday-magic-but-brand-new-route/"
     publisher: "CTV News Ottawa"
@@ -45,6 +46,10 @@ sources:
     url: "https://www.thesantaclausparade.com/"
     publisher: "The Original Santa Claus Parade"
     date: "2026-10-28"
+  - title: "Santa Claus Parade | The Original Santa Claus Parade | Toronto, ON"
+    url: "https://thesantaclausparade.com/the-parade"
+    publisher: "The Original Santa Claus Parade"
+    date: "2026-11-18"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -83,7 +88,7 @@ assets:
     group: ottawa-santa-claus-parade-2026
     title: "Ottawa Santa Claus Parade 2026 Day Guide, Nov. 21"
     subtitle: "Help Santa Toy Parade: start time, route points and what is not yet announced"
-    note: "Source: Help Santa Toy Parade (toyparade.ca), checked Nov. 4, 2026. Times in Eastern Time converted by Fresh Calendars."
+    note: "Source: Help Santa Toy Parade (toyparade.ca), checked Nov. 18, 2026. Times in Eastern Time converted by Fresh Calendars."
     description: "A one-page guide to Ottawa's Help Santa Toy Parade on Saturday, Nov. 21, 2026: 11 a.m. start, the route points and items not yet announced."
     alt: "Printable Ottawa Santa Claus parade 2026 day guide with start time and route"
     data:
@@ -98,10 +103,10 @@ assets:
           quote: "The parade will be occurring on November 21, 2026 at 11:00am."
       fill: { title: "Parade day", labels: ["Where to watch", "Where to meet the group"] }
       unconfirmed:
-        - { label: "End time", why: "Not announced as of Nov. 4, 2026" }
-        - { label: "Road closures", why: "No City of Ottawa notice found as of Nov. 4, 2026" }
-        - { label: "OC Transpo detours", why: "Not confirmed on an official page as of Nov. 4, 2026" }
-        - { label: "TV or livestream", why: "Not mentioned on the organizer's site as of Nov. 4, 2026" }
+        - { label: "End time", why: "Not announced as of Nov. 18, 2026" }
+        - { label: "Road closures", why: "No City of Ottawa notice found as of Nov. 18, 2026" }
+        - { label: "OC Transpo detours", why: "Not confirmed on an official page as of Nov. 18, 2026" }
+        - { label: "TV or livestream", why: "Not mentioned on the organizer's site as of Nov. 18, 2026" }
 ---
 
 **Ottawa's Help Santa Toy Parade is on Saturday, Nov. 21, 2026 at 11 a.m. Eastern Time (ET)**, according to the organizer's site, toyparade.ca. It begins at Queen Elizabeth Driveway at Somerset St. W. and ends at Lansdowne Park and TD Place. This story gives the route as a table, compares the weekend with Toronto's parade the next day, and has a one-page day guide you can print.
@@ -143,7 +148,8 @@ Toronto's Original Santa Claus Parade is the next day, Sunday, Nov. 22, 2026, ac
 |---|---|---|
 | Parade | Help Santa Toy Parade, 57th year | The Original Santa Claus Parade, 122nd year |
 | Date | Saturday, Nov. 21, 2026 | Sunday, Nov. 22, 2026 |
-| Start time | 11 a.m. ET | Not yet announced |
+| Start time | 11 a.m. ET | 12:30 p.m. ET in person; Citytv 2 p.m. ET |
+| TV | Not announced | Citytv and Citytv+, according to the organizer |
 
 ## What does the Ottawa parade raise money for?
 
@@ -158,7 +164,7 @@ The organizer's site asks for donations to its "Help Santa Campaign," which goes
 - TV or livestream
 - Weather policy
 
-The organizer's site says its volunteers "will be posted at all road closures," so closures are expected, but no times were published when we checked on Nov. 4, 2026.
+The organizer's site says its volunteers "will be posted at all road closures," so closures are expected, but no times were published when we checked on Nov. 18, 2026.
 
 ## Ottawa parade day guide to print
 
