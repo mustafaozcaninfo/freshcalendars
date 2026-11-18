@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-18T09:14:06.851Z",
+ "generatedAt": "2026-11-18T18:02:24.543Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "99% (75 of 76 sampled)",
+   "value": "97% (74 of 76 sampled)",
    "pass": true
   },
   {
@@ -2361,18 +2361,24 @@
  "indexed": {
   "checked": 76,
   "sampled": 90,
-  "indexed": 75,
+  "indexed": 74,
   "notIndexed": [
    {
-    "url": "https://freshcalendars.com/news/linkedin-games-answers-today-october-31-2026-queens-tango-zip/",
+    "url": "https://freshcalendars.com/news/nyt-strands-hints-answers-november-1-2026-973/",
     "status": "not indexed",
     "state": "Excluded by ‘noindex’ tag",
-    "age": 18
+    "age": 19
+   },
+   {
+    "url": "https://freshcalendars.com/news/blossom-word-game-answers-november-3-2026/",
+    "status": "not indexed",
+    "state": "Excluded by ‘noindex’ tag",
+    "age": 15
    }
   ],
   "states": {
-   "Submitted and indexed": 89,
-   "Excluded by ‘noindex’ tag": 1
+   "Submitted and indexed": 88,
+   "Excluded by ‘noindex’ tag": 2
   },
   "unknown": 0
  },
@@ -2381,15 +2387,15 @@
    "path": "https://freshcalendars.com/news/sitemap.xml",
    "errors": 0,
    "warnings": 0,
-   "lastDownloaded": "2026-11-16T18:43:52.041Z",
+   "lastDownloaded": "2026-11-18T13:54:41.063Z",
    "submitted": 1530
   },
   {
    "path": "https://shop.freshcalendars.com/sitemap.xml",
    "errors": 0,
    "warnings": 0,
-   "lastDownloaded": "2026-11-16T18:43:42.901Z",
-   "submitted": 2256
+   "lastDownloaded": "2026-11-18T13:25:35.402Z",
+   "submitted": 2664
   },
   {
    "path": "https://freshcalendars.com/news/news-sitemap.xml",

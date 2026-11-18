@@ -1,6 +1,6 @@
 # Reader signals (generated, do not edit)
 
-Built 2026-11-18T09:15 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
+Built 2026-11-18T18:03 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
 
 ## Readers leave fast (search desk: UX briefs)
 
@@ -8,30 +8,29 @@ Story pages with 30+ beacon views whose readers stay under 60% of the site's ave
 
 | Story | Views | Avg. seconds (site) | Avg. scroll | Why |
 |---|---:|---:|---:|---|
-| grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs | 292 | 69 (94) | 20% | low scroll |
-| printable-nfl-schedule-2026-2027-pdf | 125 | 63 (94) | 15% | low scroll |
-| operation-christmas-child-2026-national-collection-week-drop-off | 113 | 45 (94) | 28% | leave fast |
-| costco-holiday-hours-closures-2026-2027 | 112 | 51 (94) | 12% | leave fast, low scroll |
-| home-depot-black-friday-2026-sale-dates-november-5-25-store-hours | 111 | 35 (94) | 30% | leave fast |
-| winter-solstice-2026-december-21-shortest-day-sunset-times | 89 | 45 (94) | 16% | leave fast, low scroll |
-| free-parking-holidays-2026-meters-thanksgiving-christmas-by-city | 82 | 29 (94) | 14% | leave fast, low scroll |
-| army-navy-game-2026-date-kickoff-time-metlife-stadium-tv | 69 | 77 (94) | 11% | low scroll |
-| faa-ground-stop-november-13-2026 | 59 | 29 (94) | 13% | leave fast, low scroll |
-| december-2026-calendar-printable | 59 | 18 (94) | 20% | leave fast |
-| black-friday-2026-ad-tracker-walmart-target-best-buy | 57 | 61 (94) | 16% | low scroll |
-| veterans-day-printables-2026-activity-sheet-quiz-thank-you-note | 53 | 27 (94) | 31% | leave fast |
-| day-of-the-dead-2026-dia-de-los-muertos-dates | 52 | 31 (94) | 6% | leave fast, low scroll |
-| week-numbers-2027-calendar-printable | 45 | 17 (94) | 33% | leave fast |
-| printables | 45 | 17 (94) | 24% | leave fast |
-| lego-advent-calendars-2026-prices-whats-inside | 44 | 42 (94) | 32% | leave fast |
-| royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto | 44 | 54 (94) | 37% | leave fast |
-| chick-fil-a-peppermint-milkshake-2026 | 41 | 76 (94) | 10% | low scroll |
-| kohls-black-friday-2026-dates-early-access-november-6-store-hours | 39 | 51 (94) | 30% | leave fast |
-| ramadan-2027-calendar-dates-timetable | 35 | 26 (94) | 18% | leave fast, low scroll |
-| college-spring-break-2027-dates-universities | 33 | 125 (94) | 15% | low scroll |
-| native-american-heritage-month-2026-theme-events-books-activities | 33 | 41 (94) | 23% | leave fast |
-| tim-hortons-holiday-menu-2026-canada | 33 | 55 (94) | 23% | leave fast |
-| focker-in-law-release-date-november-25-cast-watch-order | 31 | 32 (94) | 25% | leave fast |
+| grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs | 292 | 68 (85) | 19% | low scroll |
+| printable-nfl-schedule-2026-2027-pdf | 116 | 68 (85) | 16% | low scroll |
+| operation-christmas-child-2026-national-collection-week-drop-off | 108 | 47 (85) | 28% | leave fast |
+| home-depot-black-friday-2026-sale-dates-november-5-25-store-hours | 104 | 33 (85) | 28% | leave fast |
+| winter-solstice-2026-december-21-shortest-day-sunset-times | 89 | 46 (85) | 16% | leave fast, low scroll |
+| december-2026-calendar-printable | 86 | 17 (85) | 21% | leave fast |
+| army-navy-game-2026-date-kickoff-time-metlife-stadium-tv | 67 | 103 (85) | 11% | low scroll |
+| costco-holiday-hours-closures-2026-2027 | 60 | 62 (85) | 11% | low scroll |
+| faa-ground-stop-november-13-2026 | 59 | 29 (85) | 13% | leave fast, low scroll |
+| black-friday-2026-ad-tracker-walmart-target-best-buy | 57 | 61 (85) | 16% | low scroll |
+| day-of-the-dead-2026-dia-de-los-muertos-dates | 49 | 30 (85) | 5% | leave fast, low scroll |
+| chick-fil-a-peppermint-milkshake-2026 | 44 | 73 (85) | 10% | low scroll |
+| lego-advent-calendars-2026-prices-whats-inside | 43 | 43 (85) | 32% | leave fast |
+| printables | 43 | 17 (85) | 25% | leave fast |
+| kohls-black-friday-2026-dates-early-access-november-6-store-hours | 40 | 51 (85) | 29% | leave fast |
+| royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto | 40 | 44 (85) | 35% | leave fast |
+| week-numbers-2027-calendar-printable | 40 | 20 (85) | 40% | leave fast |
+| free-parking-holidays-2026-meters-thanksgiving-christmas-by-city | 39 | 24 (85) | 11% | leave fast, low scroll |
+| college-spring-break-2027-dates-universities | 34 | 122 (85) | 15% | low scroll |
+| native-american-heritage-month-2026-theme-events-books-activities | 34 | 39 (85) | 22% | leave fast |
+| focker-in-law-release-date-november-25-cast-watch-order | 32 | 32 (85) | 26% | leave fast |
+| ramadan-2027-calendar-dates-timetable | 31 | 27 (85) | 16% | leave fast, low scroll |
+| boxing-schedule-december-2026-fight-dates-times | 30 | 115 (85) | 16% | low scroll |
 
 ## Clarity: what readers struggle with (search desk: UX briefs)
 
@@ -52,11 +51,11 @@ Script errors in 30%+ of sessions come from code or ad scripts, never from a sto
 
 Slow taps (Interaction to Next Paint over 200 ms, beacon, 7 days): fix the element or the script named, then compare the share the week after.
 
-- element (not recorded), script (none over 50 ms): 30 slow taps, avg. 450 ms, input delay 42 ms
-- element body, script (none over 50 ms): 18 slow taps, avg. 2,356 ms, input delay 65 ms
-- element div.grippy-host, script (none over 50 ms): 10 slow taps, avg. 374 ms, input delay 240 ms
+- element (not recorded), script (none over 50 ms): 32 slow taps, avg. 458 ms, input delay 41 ms
+- element body, script (none over 50 ms): 14 slow taps, avg. 2,082 ms, input delay 83 ms
 - element a, script (none over 50 ms): 9 slow taps, avg. 527 ms, input delay 274 ms
-- element a, script pagead2.googlesyndication.com: 9 slow taps, avg. 406 ms, input delay 7 ms
+- element div.grippy-host, script (none over 50 ms): 8 slow taps, avg. 710 ms, input delay 634 ms
+- element a, script pagead2.googlesyndication.com: 8 slow taps, avg. 412 ms, input delay 8 ms
 
 ## Reading by category (research desk: weigh topics)
 
@@ -64,19 +63,19 @@ Beacon views of the last 7 days against the 7 before, per category, and views pe
 
 | Category | Views | Week before | Change | Stories read | Views per story | Avg. seconds |
 |---|---:|---:|---:|---:|---:|---:|
-| holidays | 2,343 | 3,256 | -28% | 106 | 22 | 114 |
-| puzzles | 2,063 | 902 | +129% | 154 | 13 | 48 |
-| sports | 1,156 | 953 | +21% | 136 | 9 | 73 |
-| retail-dates | 905 | 539 | +68% | 60 | 15 | 55 |
-| uk-canada | 722 | 363 | +99% | 62 | 12 | 68 |
-| entertainment | 442 | 290 | +52% | 59 | 7 | 39 |
-| sky-events | 265 | 88 | +201% | 20 | 13 | 65 |
-| planning | 261 | 85 | +207% | 22 | 12 | 55 |
-| calendar-guides | 258 | 188 | +37% | 37 | 7 | 34 |
-| school-calendars | 202 | 252 | -20% | 73 | 3 | 63 |
-| elections | 161 | 144 | +12% | 34 | 5 | 63 |
-| money-benefits | 97 | 103 | -6% | 35 | 3 | 56 |
-| (other) | 53 | 37 | +43% | 9 | 6 | 16 |
-| gaming-tech | 50 | 30 | +67% | 16 | 3 | 28 |
-| time-change | 28 | 22 | +27% | 9 | 3 | 16 |
+| puzzles | 1,880 | 1,156 | +63% | 157 | 12 | 48 |
+| holidays | 1,692 | 3,995 | -58% | 106 | 16 | 98 |
+| sports | 1,155 | 1,023 | +13% | 136 | 8 | 81 |
+| retail-dates | 864 | 632 | +37% | 62 | 14 | 59 |
+| uk-canada | 715 | 409 | +75% | 62 | 12 | 68 |
+| entertainment | 439 | 309 | +42% | 58 | 8 | 39 |
+| calendar-guides | 276 | 207 | +33% | 38 | 7 | 33 |
+| sky-events | 260 | 99 | +163% | 20 | 13 | 67 |
+| planning | 217 | 135 | +61% | 20 | 11 | 58 |
+| school-calendars | 191 | 268 | -29% | 71 | 3 | 65 |
+| elections | 153 | 158 | -3% | 34 | 5 | 60 |
+| money-benefits | 88 | 114 | -23% | 32 | 3 | 60 |
+| gaming-tech | 75 | 36 | +108% | 22 | 3 | 16 |
+| (other) | 49 | 44 | +11% | 7 | 7 | 17 |
+| time-change | 26 | 24 | +8% | 9 | 3 | 16 |
 
