@@ -148,7 +148,7 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [black-friday-2026-store-hours-walmart-target-best-buy, black-friday-2026-price-match-policy-stores, black-friday-2026-post-office-banks-stock-market-open]
+related: [black-friday-2026-store-hours-walmart-target-best-buy, black-friday-2026-price-match-policy-stores, black-friday-2026-giveaways-first-customers-by-store]
 draft: false
 ---
 
