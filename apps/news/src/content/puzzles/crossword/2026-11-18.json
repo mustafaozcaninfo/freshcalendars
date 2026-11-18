@@ -1,0 +1,1148 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-18",
+ "constructors": [
+  "Doug Peterson"
+ ],
+ "width": 15,
+ "height": 15,
+ "cells": [
+  "B",
+  "E",
+  "A",
+  "M",
+  null,
+  "S",
+  "T",
+  "A",
+  "R",
+  "S",
+  null,
+  "W",
+  "R",
+  "A",
+  "P",
+  "U",
+  "G",
+  "L",
+  "I",
+  null,
+  "V",
+  "O",
+  "C",
+  "A",
+  "L",
+  null,
+  "H",
+  "A",
+  "L",
+  "O",
+  "N",
+  "O",
+  "T",
+  "N",
+  "A",
+  "U",
+  "G",
+  "H",
+  "T",
+  "Y",
+  null,
+  "O",
+  "T",
+  "I",
+  "S",
+  "S",
+  "T",
+  "A",
+  "I",
+  "D",
+  null,
+  "A",
+  "Y",
+  "E",
+  null,
+  "J",
+  "E",
+  "T",
+  "T",
+  "Y",
+  null,
+  null,
+  null,
+  "F",
+  "A",
+  "M",
+  null,
+  null,
+  "D",
+  "R",
+  "O",
+  "L",
+  "L",
+  null,
+  null,
+  "O",
+  "O",
+  "H",
+  "I",
+  "M",
+  "I",
+  "M",
+  "P",
+  "R",
+  "E",
+  "S",
+  "S",
+  "E",
+  "D",
+  null,
+  "F",
+  "R",
+  "O",
+  "G",
+  null,
+  "S",
+  "E",
+  "A",
+  null,
+  "P",
+  "I",
+  "E",
+  "T",
+  "I",
+  "N",
+  "F",
+  "D",
+  "R",
+  null,
+  "O",
+  "D",
+  "D",
+  "S",
+  "A",
+  "R",
+  "E",
+  null,
+  "R",
+  "T",
+  "E",
+  "S",
+  "E",
+  "R",
+  "A",
+  "P",
+  "E",
+  null,
+  "T",
+  "A",
+  "O",
+  null,
+  "E",
+  "A",
+  "T",
+  "S",
+  null,
+  "R",
+  "I",
+  "V",
+  "I",
+  "E",
+  "R",
+  "A",
+  "H",
+  "O",
+  "T",
+  "S",
+  "P",
+  "O",
+  "T",
+  null,
+  null,
+  "F",
+  "O",
+  "N",
+  "D",
+  "A",
+  null,
+  null,
+  "F",
+  "O",
+  "P",
+  null,
+  null,
+  null,
+  "J",
+  "O",
+  "Y",
+  "C",
+  "E",
+  null,
+  "Q",
+  "U",
+  "A",
+  null,
+  "M",
+  "A",
+  "R",
+  "S",
+  "H",
+  "A",
+  "R",
+  "I",
+  "A",
+  null,
+  "M",
+  "U",
+  "S",
+  "T",
+  "B",
+  "E",
+  "N",
+  "I",
+  "C",
+  "E",
+  "M",
+  "E",
+  "N",
+  "D",
+  null,
+  "M",
+  "E",
+  "D",
+  "I",
+  "A",
+  null,
+  "O",
+  "D",
+  "O",
+  "R",
+  "B",
+  "O",
+  "G",
+  "O",
+  null,
+  "E",
+  "L",
+  "A",
+  "T",
+  "E",
+  null,
+  "L",
+  "E",
+  "W",
+  "D"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Rafter, e.g.",
+   "cells": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "Red carpet sightings",
+   "cells": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Word with gift or bubble",
+   "cells": [
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Hybrid fruit with a wrinkly peel",
+   "cells": [
+    15,
+    16,
+    17,
+    18
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Likely to speak out",
+   "cells": [
+    20,
+    21,
+    22,
+    23,
+    24
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Glowing ring",
+   "cells": [
+    26,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Like the people on one of Santa's lists",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Redding of the Soul Clan ",
+   "cells": [
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Serious-minded",
+   "cells": [
+    45,
+    46,
+    47,
+    48,
+    49
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Ensign's agreement",
+   "cells": [
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Structure that can slow beach erosion",
+   "cells": [
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Relatives, in brief",
+   "cells": [
+    63,
+    64,
+    65
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "25",
+   "text": "Oddly amusing",
+   "cells": [
+    68,
+    69,
+    70,
+    71,
+    72
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "\"Well done!\"",
+   "cells": [
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "Enchanted prince, perhaps",
+   "cells": [
+    90,
+    91,
+    92,
+    93
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Home for a clownfish",
+   "cells": [
+    95,
+    96,
+    97
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "35",
+   "text": "Quiche holder",
+   "cells": [
+    99,
+    100,
+    101,
+    102,
+    103,
+    104
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "37",
+   "text": "Longest-serving U.S. prez",
+   "cells": [
+    105,
+    106,
+    107
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "38",
+   "text": "\"Seems likely …\"",
+   "cells": [
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "40",
+   "text": "Waze suggestion: Abbr.",
+   "cells": [
+    117,
+    118,
+    119
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "41",
+   "text": "Colorful woven shawl ",
+   "cells": [
+    120,
+    121,
+    122,
+    123,
+    124,
+    125
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "43",
+   "text": "Confucian principle",
+   "cells": [
+    127,
+    128,
+    129
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "44",
+   "text": "Grub",
+   "cells": [
+    131,
+    132,
+    133,
+    134
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "45",
+   "text": "French resort on the Mediterranean",
+   "cells": [
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "48",
+   "text": "Henry of \"12 Angry Men\"",
+   "cells": [
+    152,
+    153,
+    154,
+    155,
+    156
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "49",
+   "text": "Fancy dresser",
+   "cells": [
+    159,
+    160,
+    161
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "50",
+   "text": "\"Finnegans Wake\" author",
+   "cells": [
+    165,
+    166,
+    167,
+    168,
+    169
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "52",
+   "text": "Sine ___ non",
+   "cells": [
+    171,
+    172,
+    173
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "55",
+   "text": "Swampy tract",
+   "cells": [
+    175,
+    176,
+    177,
+    178,
+    179
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "59",
+   "text": "Italian number, perhaps",
+   "cells": [
+    180,
+    181,
+    182,
+    183
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "60",
+   "text": "\"Aren't you the lucky one!\" … or what a solver might think after reading 17-, 27- or 45-Across",
+   "cells": [
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "62",
+   "text": "The Bee Gees' \"How Can You ___ a Broken Heart\"",
+   "cells": [
+    195,
+    196,
+    197,
+    198
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "63",
+   "text": "Word with mixed or mass",
+   "cells": [
+    200,
+    201,
+    202,
+    203,
+    204
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "64",
+   "text": "Freshener target",
+   "cells": [
+    206,
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "65",
+   "text": "Twofer special, for short",
+   "cells": [
+    210,
+    211,
+    212,
+    213
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "66",
+   "text": "Tickle pink",
+   "cells": [
+    215,
+    216,
+    217,
+    218,
+    219
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "67",
+   "text": "Raunchy",
+   "cells": [
+    221,
+    222,
+    223,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Supply at a hot dog stand",
+   "cells": [
+    0,
+    15,
+    30,
+    45
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Entertainment acronym",
+   "cells": [
+    1,
+    16,
+    31,
+    46
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Opposite of baja",
+   "cells": [
+    2,
+    17,
+    32,
+    47
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Lego person, to a (human) Lego person",
+   "cells": [
+    3,
+    18,
+    33,
+    48,
+    63,
+    78,
+    93
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Mariska Hargitay series, for short",
+   "cells": [
+    5,
+    20,
+    35
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Common sight in Roman statuary",
+   "cells": [
+    6,
+    21,
+    36,
+    51
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Needing a rubdown, say",
+   "cells": [
+    7,
+    22,
+    37,
+    52
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Like a typical slasher film",
+   "cells": [
+    8,
+    23,
+    38,
+    53,
+    68,
+    83
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Crafty",
+   "cells": [
+    9,
+    24,
+    39
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "\"Duh, obviously it's me!\"",
+   "cells": [
+    11,
+    26,
+    41,
+    56,
+    71,
+    86,
+    101
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Good candidate for the scrapyard",
+   "cells": [
+    12,
+    27,
+    42,
+    57,
+    72,
+    87,
+    102,
+    117,
+    132,
+    147
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Landed on a perch, perhaps",
+   "cells": [
+    13,
+    28,
+    43,
+    58
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Small bouquet",
+   "cells": [
+    14,
+    29,
+    44,
+    59
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "Driver in many casts",
+   "cells": [
+    34,
+    49,
+    64,
+    79
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "Leader of the Pussycats",
+   "cells": [
+    55,
+    70,
+    85,
+    100,
+    115
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Improper act",
+   "cells": [
+    65,
+    80,
+    95,
+    110,
+    125,
+    140,
+    155
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "Censure",
+   "cells": [
+    69,
+    84,
+    99,
+    114,
+    129,
+    144,
+    159
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "Trade-___ (compromises)",
+   "cells": [
+    75,
+    90,
+    105,
+    120
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "DoorDash transaction",
+   "cells": [
+    76,
+    91,
+    106,
+    121,
+    136
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "29",
+   "text": "Extremely disturbing",
+   "cells": [
+    77,
+    92,
+    107,
+    122,
+    137,
+    152,
+    167,
+    182,
+    197,
+    212
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "30",
+   "text": "___ school",
+   "cells": [
+    81,
+    96,
+    111
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "31",
+   "text": "Cavatappi or campanelle",
+   "cells": [
+    82,
+    97,
+    112,
+    127,
+    142
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "\"Same here\"",
+   "cells": [
+    88,
+    103,
+    118,
+    133,
+    148
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "36",
+   "text": "Stack snugly",
+   "cells": [
+    104,
+    119,
+    134,
+    149
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "38",
+   "text": "Voice a view",
+   "cells": [
+    109,
+    124,
+    139,
+    154,
+    169
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "39",
+   "text": "\"That hits the spot!\"",
+   "cells": [
+    113,
+    128,
+    143
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "42",
+   "text": "Shade of green",
+   "cells": [
+    123,
+    138,
+    153,
+    168,
+    183,
+    198,
+    213
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "44",
+   "text": "Language in telenovelas",
+   "cells": [
+    131,
+    146,
+    161,
+    176,
+    191,
+    206,
+    221
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "46",
+   "text": "Actress Welch of \"One Million Years B.C.\"",
+   "cells": [
+    141,
+    156,
+    171,
+    186,
+    201,
+    216
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "47",
+   "text": "Weighty book",
+   "cells": [
+    145,
+    160,
+    175,
+    190
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "50",
+   "text": "Upright post in a doorway",
+   "cells": [
+    165,
+    180,
+    195,
+    210
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "51",
+   "text": "Ingredient in some cheesecake crusts",
+   "cells": [
+    166,
+    181,
+    196,
+    211
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "53",
+   "text": "Beef-grading agcy.",
+   "cells": [
+    172,
+    187,
+    202,
+    217
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "54",
+   "text": "Quarreling",
+   "cells": [
+    173,
+    188,
+    203,
+    218
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "56",
+   "text": "Drop tower, e.g.",
+   "cells": [
+    177,
+    192,
+    207,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "57",
+   "text": "Hauling boat",
+   "cells": [
+    178,
+    193,
+    208,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "58",
+   "text": "Group of gazelles",
+   "cells": [
+    179,
+    194,
+    209,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "60",
+   "text": "Mrs., in Marseille",
+   "cells": [
+    185,
+    200,
+    215
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "61",
+   "text": "Hon",
+   "cells": [
+    189,
+    204,
+    219
+   ]
+  }
+ ]
+}

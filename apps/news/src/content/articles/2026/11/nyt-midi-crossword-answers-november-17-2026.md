@@ -3,7 +3,7 @@ title: "NYT Midi Crossword Answers Today, November 17, 2026"
 description: "The New York Times (NYT) Midi Crossword for Tuesday, Nov. 17, 2026: hints for all 33 clues, the Finish First theme, entry-length and clue-type counts."
 type: explainer
 publishedAt: "2026-11-16T22:30:00-05:00"
-updatedAt: "2026-11-16T22:30:00-05:00"
+updatedAt: "2026-11-17T22:28:07-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["NYT Midi Crossword answers today","Midi Crossword November 17 2026","NYT Midi answers","Midi Crossword hints","Finish First Midi"]
@@ -130,7 +130,7 @@ Open with the two fill-in-the-blank clues. 18-Across crosses 4-Down, the 10-lett
 
 Today's 33 clues are listed above, and the rules of the format are on our [Midi Crossword page](/news/topic/nyt-midi-crossword/#how-it-works).
 
-Monday's smaller grid is in the [Nov. 16 Midi page](/news/nyt-midi-crossword-answers-november-16-2026/). Plan the week with our [weekly planner you can print](/printable-weekly-calendar.html) or the [printable calendar for November 2026](/november-calendars.html).
+Monday's smaller grid is in the [Nov. 16 Midi page](/news/nyt-midi-crossword-answers-november-16-2026/). The next Midi, for Wednesday, is on the [Nov. 18 Midi page](/news/nyt-midi-crossword-answers-november-18-2026/). Plan the week with our [weekly planner you can print](/printable-weekly-calendar.html) or the [printable calendar for November 2026](/november-calendars.html).
 
 More of Tuesday's puzzles: the [Mini Crossword](/news/nyt-mini-crossword-answers-november-17-2026/), [Wordle hints](/news/wordle-hint-answer-today-november-17-2026-1977/), [Connections hints](/news/nyt-connections-hints-answers-november-17-2026-1255/), [Strands hints](/news/nyt-strands-hints-answers-november-17-2026-989/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-17-2026/), [Pips hints](/news/nyt-pips-hints-answers-november-17-2026/) and [Letter Boxed hints](/news/nyt-letter-boxed-answer-hints-november-17-2026/).
 
