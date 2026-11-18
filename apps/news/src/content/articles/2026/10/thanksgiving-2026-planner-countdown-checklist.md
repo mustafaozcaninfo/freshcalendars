@@ -114,7 +114,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [thanksgiving-printables-2026-place-cards-kids-table-activities, thanksgiving-2026-tv-schedule-macys-parade-nfl-games, christmas-dinner-2026-planner-cooking-timeline-printable]
+related: [thanksgiving-printables-2026-place-cards-kids-table-activities, thanksgiving-dinner-cost-2026-farm-bureau-survey-turkey-price, christmas-dinner-2026-planner-cooking-timeline-printable]
 draft: false
 ---
 
