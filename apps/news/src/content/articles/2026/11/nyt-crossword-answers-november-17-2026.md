@@ -3,7 +3,7 @@ title: "NYT Crossword Answers Today, November 17, 2026"
 description: "The New York Times (NYT) Crossword for Tuesday, Nov. 17, 2026 by Jeffrey Martinovic and Tarun Krishnamurthy: 76 clue hints, the theme twist, then answers."
 type: explainer
 publishedAt: "2026-11-16T22:30:00-05:00"
-updatedAt: "2026-11-16T22:30:00-05:00"
+updatedAt: "2026-11-17T22:28:07-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["NYT Crossword answers today","NYT Crossword November 17 2026","NYT Crossword hints","Tuesday crossword answers","Jeffrey Martinovic crossword"]
@@ -168,7 +168,7 @@ The hub explains the daily format on our [NYT Crossword page](/news/topic/nyt-cr
 
 Mark the solving days on our [printable calendar for November 2026](/november-calendars.html) or the [weekly calendar to print](/printable-weekly-calendar.html).
 
-More puzzles for Tuesday: [Wordle](/news/wordle-hint-answer-today-november-17-2026-1977/), [Connections](/news/nyt-connections-hints-answers-november-17-2026-1255/), [Strands](/news/nyt-strands-hints-answers-november-17-2026-989/), [Spelling Bee](/news/nyt-spelling-bee-hints-answers-november-17-2026/), [Pips](/news/nyt-pips-hints-answers-november-17-2026/), [Letter Boxed](/news/nyt-letter-boxed-answer-hints-november-17-2026/) and the [Mini Crossword](/news/nyt-mini-crossword-answers-november-17-2026/). Monday's grid is in our [Crossword answers for Nov. 16](/news/nyt-crossword-answers-november-16-2026/).
+More puzzles for Tuesday: [Wordle](/news/wordle-hint-answer-today-november-17-2026-1977/), [Connections](/news/nyt-connections-hints-answers-november-17-2026-1255/), [Strands](/news/nyt-strands-hints-answers-november-17-2026-989/), [Spelling Bee](/news/nyt-spelling-bee-hints-answers-november-17-2026/), [Pips](/news/nyt-pips-hints-answers-november-17-2026/), [Letter Boxed](/news/nyt-letter-boxed-answer-hints-november-17-2026/) and the [Mini Crossword](/news/nyt-mini-crossword-answers-november-17-2026/). Monday's grid is in our [Crossword answers for Nov. 16](/news/nyt-crossword-answers-november-16-2026/). Wednesday's puzzle has its own [Crossword answers for Nov. 18](/news/nyt-crossword-answers-november-18-2026/).
 
 ## Today's NYT Crossword answers (spoilers)
 

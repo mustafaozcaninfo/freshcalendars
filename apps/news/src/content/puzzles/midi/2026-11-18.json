@@ -1,0 +1,489 @@
+{
+ "title": "Temps are Dropping",
+ "publicationDate": "2026-11-18",
+ "constructors": [
+  "Ian Livengood"
+ ],
+ "width": 9,
+ "height": 10,
+ "cells": [
+  "C",
+  "L",
+  "A",
+  "P",
+  null,
+  "A",
+  "C",
+  "I",
+  "D",
+  "H",
+  "A",
+  "U",
+  "L",
+  null,
+  "N",
+  "O",
+  "P",
+  "E",
+  "I",
+  "T",
+  "T",
+  "Y",
+  null,
+  "J",
+  "L",
+  "A",
+  "W",
+  "L",
+  "E",
+  "O",
+  null,
+  "K",
+  "O",
+  "D",
+  null,
+  null,
+  "I",
+  "N",
+  "G",
+  "R",
+  "O",
+  "U",
+  "P",
+  "S",
+  null,
+  null,
+  "T",
+  "R",
+  "I",
+  "O",
+  null,
+  "L",
+  "E",
+  "I",
+  null,
+  null,
+  "A",
+  "L",
+  "L",
+  null,
+  "U",
+  "N",
+  "S",
+  "V",
+  "A",
+  "P",
+  "E",
+  null,
+  "A",
+  "N",
+  "T",
+  "E",
+  "O",
+  "A",
+  "H",
+  "U",
+  null,
+  "O",
+  "G",
+  "R",
+  "E",
+  "W",
+  "A",
+  "S",
+  "P",
+  null,
+  "K",
+  "E",
+  "Y",
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "👏",
+   "cells": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "Base's counterpart, in chemistry",
+   "cells": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "U-___ van",
+   "cells": [
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "\"This one isn't for me\"",
+   "cells": [
+    14,
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Wee",
+   "cells": [
+    18,
+    19,
+    20,
+    21
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Co-star of \"Don't Look Up,\" familiarly",
+   "cells": [
+    23,
+    24,
+    25,
+    26
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "13",
+   "text": "Co-star of \"Don't Look Up,\" familiarly",
+   "cells": [
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Sent to the mat, in brief",
+   "cells": [
+    31,
+    32,
+    33
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Cliques",
+   "cells": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "Beastie Boys or The Chicks, e.g.",
+   "cells": [
+    46,
+    47,
+    48,
+    49
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Hawaiian garland",
+   "cells": [
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "100%",
+   "cells": [
+    56,
+    57,
+    58
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Young '___ (tykes)",
+   "cells": [
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Use an e-cigarette",
+   "cells": [
+    63,
+    64,
+    65,
+    66
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "25",
+   "text": "Pre-deal poker wager",
+   "cells": [
+    68,
+    69,
+    70,
+    71
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Island home to the Ko'olau Mountains",
+   "cells": [
+    72,
+    73,
+    74,
+    75
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "Ferocious fairy tale figure",
+   "cells": [
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "Yellow jacket, e.g.",
+   "cells": [
+    81,
+    82,
+    83,
+    84
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Item a first-time homebuyer might hold up in a picture ",
+   "cells": [
+    86,
+    87,
+    88
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Spicy pepper",
+   "cells": [
+    0,
+    9,
+    18,
+    27,
+    36
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Hidden, as talent",
+   "cells": [
+    1,
+    10,
+    19,
+    28,
+    37,
+    46
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Celebrity endorsements?",
+   "cells": [
+    2,
+    11,
+    20,
+    29,
+    38,
+    47,
+    56,
+    65,
+    74,
+    83
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Toilet paper thickness",
+   "cells": [
+    3,
+    12,
+    21
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Certain green-skinned pear",
+   "cells": [
+    5,
+    14,
+    23,
+    32,
+    41
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Trendy water therapy activity ... or a hint to this puzzle's shaded answers, phonetically",
+   "cells": [
+    6,
+    15,
+    24,
+    33,
+    42,
+    51,
+    60,
+    69,
+    78,
+    87
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "\"Session\" brew, for short",
+   "cells": [
+    7,
+    16,
+    25
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Lawn droplets",
+   "cells": [
+    8,
+    17,
+    26
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "14",
+   "text": "___-Aid Man, anthropomorphic mascot filled with red liquid",
+   "cells": [
+    31,
+    40,
+    49,
+    58
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "16",
+   "text": "Agitate",
+   "cells": [
+    39,
+    48,
+    57,
+    66,
+    75,
+    84
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Person on guard duty",
+   "cells": [
+    43,
+    52,
+    61,
+    70,
+    79,
+    88
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "20",
+   "text": "\"Yep, makes sense\"",
+   "cells": [
+    53,
+    62,
+    71,
+    80
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "Solemn ___",
+   "cells": [
+    63,
+    72,
+    81
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Small battery",
+   "cells": [
+    64,
+    73,
+    82
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Perfectly fine",
+   "cells": [
+    68,
+    77,
+    86
+   ]
+  }
+ ]
+}

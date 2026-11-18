@@ -3,7 +3,7 @@ title: "NYT Mini Crossword Answers Today, November 17, 2026"
 description: "Tuesday's New York Times (NYT) Mini Crossword, Nov. 17, 2026: Ian Livengood's 10 clues with hints, clue types counted, the trickiest clue unpacked."
 type: explainer
 publishedAt: "2026-11-16T22:30:00-05:00"
-updatedAt: "2026-11-16T22:30:00-05:00"
+updatedAt: "2026-11-17T22:28:07-05:00"
 authors: [news-desk]
 category: puzzles
 keywords: ["NYT Mini Crossword answers today","Mini Crossword November 17 2026","NYT Mini answers","Mini Crossword hints","NYT Mini Tuesday"]
@@ -89,7 +89,7 @@ Today's grid has one corner cut away, and the rules are on our [Mini Crossword p
 
 Log your solve time on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
 
-More for Tuesday, Nov. 17: [Wordle hints](/news/wordle-hint-answer-today-november-17-2026-1977/), [Connections hints](/news/nyt-connections-hints-answers-november-17-2026-1255/), [Strands hints](/news/nyt-strands-hints-answers-november-17-2026-989/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-17-2026/), [Pips hints](/news/nyt-pips-hints-answers-november-17-2026/) and [Letter Boxed hints](/news/nyt-letter-boxed-answer-hints-november-17-2026/). Monday's grid is in the [Mini answers for Nov. 16](/news/nyt-mini-crossword-answers-november-16-2026/).
+More for Tuesday, Nov. 17: [Wordle hints](/news/wordle-hint-answer-today-november-17-2026-1977/), [Connections hints](/news/nyt-connections-hints-answers-november-17-2026-1255/), [Strands hints](/news/nyt-strands-hints-answers-november-17-2026-989/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-17-2026/), [Pips hints](/news/nyt-pips-hints-answers-november-17-2026/) and [Letter Boxed hints](/news/nyt-letter-boxed-answer-hints-november-17-2026/). Monday's grid is in the [Mini answers for Nov. 16](/news/nyt-mini-crossword-answers-november-16-2026/). Wednesday's grid is up in the [Mini answers for Nov. 18](/news/nyt-mini-crossword-answers-november-18-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 
