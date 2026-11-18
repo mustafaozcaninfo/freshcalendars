@@ -3,6 +3,7 @@ title: "Black Friday Planner 2026: Store Opening Times From 5 a.m., Printable"
 description: "Black Friday, Nov. 27, 2026: Kohl's and JCPenney open 5 a.m.; Walmart, Target, Home Depot, Dick's 6 a.m. A printable route and budget planner."
 type: news
 publishedAt: "2026-11-15T06:44:00-05:00"
+updatedAt: "2026-11-18T15:25:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["black friday planner printable", "black friday 2026 opening times list", "what time do stores open on black friday 2026", "black friday shopping list printable"]
@@ -18,7 +19,7 @@ assets:
     group: black-friday-2026
     title: "Black Friday 2026 Shopping Planner, Fri., Nov. 27"
     subtitle: "Store opening times, a route and budget grid, and price-match notes"
-    note: "Source: Kohl's, JCPenney, Walmart, Target, The Home Depot, Dick's Sporting Goods and Hobby Lobby 2026 announcements; Recreational Equipment, Inc. (REI) via PR Newswire; Best Buy and Walmart price-match policies. Checked Nov. 15, 2026. Confirm hours with your local store."
+    note: "Source: Kohl's, JCPenney, Walmart, Target, The Home Depot, Best Buy, Dick's Sporting Goods and Hobby Lobby 2026 announcements; Recreational Equipment, Inc. (REI) via PR Newswire; Best Buy and Walmart price-match policies. Checked Nov. 18, 2026. Confirm hours with your local store."
     description: "One-page Black Friday 2026 planner for Friday, Nov. 27: opening times by store, blank route, item, budget and price-match columns, and online sale lines."
     alt: "Printable Black Friday 2026 shopping planner with store opening times, a blank route and budget table and price-match notes for Nov. 27"
     data:
@@ -38,14 +39,16 @@ assets:
         - { text: "Target: opens 6 a.m. local time", src: 3, quote: "Stores open at 6 a.m. local time and close at current closing time." }
         - { text: "The Home Depot: Fri., Nov. 27, open 6 a.m.", src: 4, quote: "Black Friday Fri., Nov. 27 Open 6 a.m." }
         - { text: "Dick's Sporting Goods: doors open 6 a.m.", src: 9, quote: "before doors open on Black Friday at 6:00 a.m" }
+        - { text: "Best Buy: Black Friday, Nov. 27, 6 a.m. to 10 p.m.", src: 18, quote: "Black Friday, Nov. 27: 6 a.m. to 10 p.m." }
         - { text: "Hobby Lobby: 8 a.m. to 9 p.m.", src: 8, quote: "Friday after Thanksgiving – 8 a.m. to 9 p.m." }
         - { text: "REI: all stores closed Nov. 27", src: 10, quote: "On Nov. 27, all REI stores, distribution centers, call centers and headquarters will be closed." }
-        - { text: "Best Buy, Lowe's, Costco, IKEA: closed Thanksgiving; Black Friday hours not yet announced", src: 11, quote: "Stores will be closed on Thanksgiving Day." }
+        - { text: "Target: first 100 people in line at each store get a prize ticket for a $25, $50 or $100 gift card", src: 19, quote: "Prize redemption tickets will be given to the first 100 individuals in line at each Target store on Black Friday" }
+        - { text: "Lowe's, Costco, IKEA: closed Thanksgiving; Black Friday hours not yet announced", src: 12, quote: "will remain closed on Thanksgiving Day" }
       rules:
         - { text: "Best Buy: excludes items denoted as Black Friday pricing", src: 15, quote: "items denoted as Black Friday pricing" }
         - { text: "Walmart: no competitor price match; excludes Black Friday or Cyber Monday deals", src: 16, quote: "Black Friday or Cyber Monday deals" }
       unconfirmed:
-        - { label: "Best Buy, Lowe's, Costco and IKEA Black Friday opening times", why: "Not announced as of Nov. 15, 2026" }
+        - { label: "Lowe's, Costco and IKEA Black Friday opening times", why: "Not announced as of Nov. 18, 2026" }
 hero:
   src: ../../../../assets/news/black-friday-2026-shopping-planner-printable-store-opening-times/black-friday-2026-shopping-planner-printable-store-opening-times.webp
   alt: "Shopping mall center court decorated for the holidays, used for a Black Friday planner with 2026 store opening times"
@@ -58,15 +61,15 @@ hero:
     author: "James Walsh"
     authorUrl: "https://commons.wikimedia.org/w/index.php?title=User:Maxwell1972&action=edit&redlink=1"
 summary:
-  - "Kohl's and JCPenney reopen at 5 a.m. local time on Friday, Nov. 27, 2026; Walmart, Target, The Home Depot and Dick's Sporting Goods open at 6 a.m."
+  - "Kohl's and JCPenney reopen at 5 a.m. local time on Friday, Nov. 27, 2026; Walmart, Target, The Home Depot, Best Buy and Dick's Sporting Goods open at 6 a.m."
   - "Hobby Lobby is open 8 a.m. to 9 p.m. that day, and Recreational Equipment, Inc. (REI) is closed all day."
-  - "Best Buy, Lowe's, Costco and IKEA are closed on Thanksgiving, Nov. 26, but have not announced Black Friday opening times."
+  - "Lowe's, Costco and IKEA are closed on Thanksgiving, Nov. 26, but have not announced Black Friday opening times."
   - "A free one-page planner lists each opening time and leaves room for a route, items, budgets, ad prices and price-match notes."
 faq:
   - q: "Do I need to set an alarm for 5 a.m. at every store?"
-    a: "No. Only Kohl's and JCPenney name 5 a.m. local time in their 2026 announcements. Walmart, Target, The Home Depot and Dick's Sporting Goods say 6 a.m., and Hobby Lobby says 8 a.m."
-  - q: "Can I plan around Best Buy, Lowe's, Costco and IKEA?"
-    a: "Only partly. Each says it is closed on Thanksgiving Day, but none had posted a Black Friday opening time when this was checked on Nov. 15, 2026. Leave those rows for last and check the store's page."
+    a: "No. Only Kohl's and JCPenney name 5 a.m. local time in their 2026 announcements. Walmart, Target, The Home Depot, Best Buy and Dick's Sporting Goods say 6 a.m., and Hobby Lobby says 8 a.m."
+  - q: "Can I plan around Lowe's, Costco and IKEA?"
+    a: "Only partly. Each says it is closed on Thanksgiving Day, but none had posted a Black Friday opening time when this was checked on Nov. 18, 2026. Leave those rows for last and check the store's page."
   - q: "Where do I write the sale start dates?"
     a: "The planner has four lines under the route table for a store and its online sale start date. Walmart.com's Black Friday Deals start at 12:01 a.m. ET on Nov. 23, per Walmart's Oct. 26 release."
 sources:
@@ -134,6 +137,14 @@ sources:
   - title: "Price Match Guarantee"
     url: "https://www.target.com/help/articles/policies-guidelines/price-match-guarantee"
     publisher: "Target"
+  - title: "Best Buy's Black Friday sale begins Nov. 19"
+    url: "https://corporate.bestbuy.com/2026/black-friday-sale-deals/"
+    publisher: "Best Buy"
+    date: "2026-11-17"
+  - title: "Target Announces Black Friday Deals and Giveaways to Help Families Save Big on Gifts They'll Love to Give"
+    url: "https://corporate.target.com/press/release/2026/11/target-announces-black-friday-deals-and-giveaways-to-help-families-save-big-on-gifts-they-ll-love-to"
+    publisher: "Target Corporation"
+    date: "2026-11-17"
 downloads:
   - group: "Black Friday 2026 Shopping Planner printables"
     title: "Black Friday 2026 Shopping Planner, Fri., Nov. 27"
@@ -152,11 +163,11 @@ related: [black-friday-2026-store-hours-walmart-target-best-buy, black-friday-20
 draft: false
 ---
 
-On Friday, Nov. 27, 2026, Kohl's and JCPenney reopen at 5 a.m. local time, and Walmart, Target, The Home Depot and Dick's Sporting Goods open at 6 a.m., according to each company's own 2026 announcement. The free Black Friday 2026 shopping planner (PDF) puts those times in order and leaves blank rows for your route, items, budget, ad price and each store's price-match rule.
+On Friday, Nov. 27, 2026, Kohl's and JCPenney reopen at 5 a.m. local time, and Walmart, Target, The Home Depot, Best Buy and Dick's Sporting Goods open at 6 a.m., according to each company's own 2026 announcement. The free Black Friday 2026 shopping planner (PDF) puts those times in order and leaves blank rows for your route, items, budget, ad price and each store's price-match rule.
 
 ## Black Friday 2026 opening times, earliest first
 
-Every row below comes from the store's own statement. Closing times are left out: only Hobby Lobby's statement gives one for Black Friday. For the full hours story and more stores, see [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
+Every row below comes from the store's own statement. Closing times appear only where the store's statement gives one: Hobby Lobby and Best Buy. For the full hours story and more stores, see [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
 
 | Opens on Fri., Nov. 27 | Store | What the store said | Thanksgiving, Thu., Nov. 26 |
 |---|---|---|---|
@@ -166,16 +177,18 @@ Every row below comes from the store's own statement. Closing times are left out
 | 6 a.m. local time | Target | "Stores open at 6 a.m. local time" | "All stores closed" |
 | 6 a.m. | The Home Depot | "Black Friday Fri., Nov. 27 Open 6 a.m." | Closed |
 | 6 a.m. local time | Dick's Sporting Goods | "before doors open on Black Friday at 6:00 a.m" | Closed |
+| 6 a.m. to 10 p.m. | Best Buy | "Black Friday, Nov. 27: 6 a.m. to 10 p.m." | Closed (Best Buy holiday calendar, Oct. 27) |
 | 8 a.m. to 9 p.m. | Hobby Lobby | "Friday after Thanksgiving – 8 a.m. to 9 p.m." | Closed |
 | Closed all day | Recreational Equipment, Inc. (REI) | "all REI stores, distribution centers, call centers and headquarters will be closed" | Not mentioned in the release |
+
+Two stores add an in-store perk on Nov. 27. Target gives prize redemption tickets to the first 100 people in line at each store, handed out from about an hour before opening; the ticket is redeemed at the in-store event cart within the first hour after the 6 a.m. opening for a gift card valued at $25, $50 or $100, and one guest per store receives $1,000. At Best Buy, members of the free My Best Buy program (and My Best Buy Plus and Total) can buy a $100 gift card for $60 in stores on Nov. 27 only; "Each store has at least 50 cards while supplies last, and each person is limited to one gift card offer."
 
 REI's release, issued through PR Newswire on Nov. 2, 2026, covers Nov. 27 only; its [Black Friday closure story](/news/rei-opt-outside-black-friday-2026-stores-closed/) has the details.
 
 ## Which stores have not announced Black Friday hours?
 
-Four chains say they are closed on Thanksgiving but had not posted a Black Friday opening time when this was checked on Nov. 15, 2026. The planner prints them as "Closed Thanksgiving; Black Friday hours not yet announced".
+Three chains say they are closed on Thanksgiving but had not posted a Black Friday opening time when this was checked on Nov. 18, 2026. The planner prints them as "Closed Thanksgiving; Black Friday hours not yet announced".
 
-- **Best Buy:** "Stores will be closed on Thanksgiving Day." Its Oct. 27 holiday calendar lists 10 days of doorbusters starting Nov. 19.
 - **Lowe's:** its Oct. 8 release says its stores "will remain closed on Thanksgiving Day".
 - **Costco:** "In observance of Thanksgiving, Costco will be closed Thursday, Nov. 26, 2026." Its Black Friday savings are valid Nov. 27-30.
 - **IKEA:** its customer service page lists Thanksgiving and Christmas Day as closed.
@@ -189,12 +202,12 @@ Opening times matter less when the deal is online. These start dates come from e
 | Store | Sale window | Source date |
 |---|---|---|
 | Walmart | Black Friday Deals on Walmart.com from 12:01 a.m. ET on Nov. 23 | Oct. 26, 2026 |
-| Target | Early Black Friday deals Nov. 5-7 | Nov. 5, 2026 |
+| Target | Black Friday deals Nov. 22-29; Target Circle 360 early access Nov. 25 from 2 a.m. CT | Nov. 17, 2026 |
 | The Home Depot | Black Friday sale Nov. 5 to 25 | Oct. 29, 2026 |
 | JCPenney | Black Friday deals Nov. 20 to 29 | Nov. 2, 2026 |
 | Kohl's | Black Friday Week, Sun., Nov. 22 to Sat., Nov. 28 | Oct. 30, 2026 |
 | Dick's Sporting Goods | Deals Nov. 22 to Dec. 5 | Nov. 10, 2026 |
-| Best Buy | 10 days of doorbusters from Nov. 19 | Oct. 27, 2026 |
+| Best Buy | Black Friday sale begins Nov. 19 | Nov. 17, 2026 |
 
 ## What the price-match column is for
 
