@@ -111,7 +111,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city, world-juniors-2027-schedule-canada-usa-game-times-printable, skate-canada-international-2026-schedule-kelowna-times-tv]
+related: [figure-skating-grand-prix-final-2026-schedule-times-chongqing, world-juniors-2027-schedule-canada-usa-game-times-printable, skate-canada-international-2026-schedule-kelowna-times-tv]
 draft: false
 ---
 
