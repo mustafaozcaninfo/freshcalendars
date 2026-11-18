@@ -21,7 +21,12 @@ test("puzzle-month loads the saved data and refuses only the days with no file",
   const iso = (d: number) => `2026-11-${String(d).padStart(2, "0")}`;
   let last = 0;
   while (last < 30 && loadPuzzle("wordle", iso(last + 1))) last++;
-  assert.ok(last >= 15 && last < 30, "test expects saved Wordle data from Nov. 1 to a day before Nov. 30");
+  assert.ok(last >= 15, "test expects saved Wordle data from Nov. 1 to at least Nov. 15");
+  if (last === 30) {
+    // Every November day is saved now: the kit accepts the full month.
+    assert.equal(puzzleMonth.validate({ game: "wordle", month: "2026-11" }, ctx()).days.length, 30);
+    return;
+  }
   try {
     puzzleMonth.validate({ game: "wordle", month: "2026-11" }, ctx());
     assert.fail("expected a refusal for the missing days");
@@ -60,7 +65,8 @@ test("puzzle-month draws Connections group titles from the saved data", () => {
 
 test("a month still being played prints saved days and says the rest are not played yet", () => {
   const ctx2 = { storySlug: "s", category: "puzzles", sources: [], theme: THEMES.puzzles!, fonts: "", publishedAt: "2026-11-10T09:00:00-05:00" };
-  assert.throws(() => puzzleMonth.validate({ game: "wordle", month: "2026-11" }, ctx2), /no saved Wordle data/);
+  // Refused while a November day has no file; once the whole month is saved, it validates.
+  if (!loadPuzzle("wordle", "2026-11-30")) assert.throws(() => puzzleMonth.validate({ game: "wordle", month: "2026-11" }, ctx2), /no saved Wordle data/);
   assert.throws(() => puzzleMonth.validate({ game: "wordle", month: "2026-11", through: "2026-12-01" }, ctx2), /through/);
   const d = puzzleMonth.validate({ game: "wordle", month: "2026-11", through: "2026-11-10" }, ctx2);
   assert.equal(d.days.length, 10);
