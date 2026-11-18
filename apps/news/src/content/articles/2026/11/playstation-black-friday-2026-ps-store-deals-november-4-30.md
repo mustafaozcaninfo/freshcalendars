@@ -3,7 +3,7 @@ title: "PlayStation Black Friday 2026: Some PS Store Deals End Nov. 20"
 description: "The PlayStation Store Black Friday sale runs Nov. 4-30, and some discounts end Nov. 20. End times in ET, PT and GMT, plus a printable wish list."
 type: news
 publishedAt: "2026-11-09T11:10:00-05:00"
-updatedAt: "2026-11-14T15:32:00-05:00"
+updatedAt: "2026-11-18T04:40:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["playstation black friday 2026", "ps5 black friday 2026", "ps store black friday sale 2026 end date", "when does playstation black friday sale end"]
@@ -57,7 +57,7 @@ faq:
   - q: "Where are the dates, on the PlayStation deals page?"
     a: "On Nov. 14, 2026, the playstation.com Black Friday deals page still carried a placeholder message with no dates. The dates are in the PlayStation.Blog post."
   - q: "Have Xbox, Nintendo or Steam announced Black Friday sales?"
-    a: "Not on their official pages as of Nov. 9, 2026. Xbox Wire has no 2026 Black Friday post, Nintendo's What's New page has none and Steam's sales page lists no November sale."
+    a: "Xbox Wire posted on Nov. 16, 2026: the Xbox Black Friday sale starts Nov. 19 at 9 p.m. PT and runs through Dec. 2. Nintendo's Nov. 12 release lists a digital sale from Nov. 19 to Dec. 2, and Valve lists Steam Black Friday from Nov. 26."
 sources:
   - title: "PlayStation Store's Black Friday Deals 2026"
     url: "https://blog.playstation.com/2026/11/03/playstations-black-friday-deals-2026/"
@@ -85,7 +85,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [video-game-release-dates-november-2026-gta-6-ocarina-of-time, steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027, nintendo-black-friday-2026-deals-switch-2-bundle-dates]
+related: [xbox-black-friday-sale-2026-november-19-december-2, steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027, nintendo-black-friday-2026-deals-switch-2-bundle-dates]
 draft: false
 ---
 
@@ -131,9 +131,9 @@ The post says only that "certain discounts will end on November 20 at 23:59 PM P
 
 On Nov. 14, 2026, the playstation.com Black Friday page at playstation.com/en-us/deals/black-friday/ still carried a placeholder message with no dates. The dates are in the PlayStation.Blog post, not on the deals hub.
 
-Other platforms had not announced 2026 Black Friday sales on their official pages as of Nov. 9 (Steam rechecked Nov. 14):
+Other platforms, as checked on their official pages (Xbox updated Nov. 18; Nintendo checked Nov. 9; Steam Nov. 14):
 
-- Xbox: Xbox Wire has no 2026 Black Friday post.
+- Xbox: Xbox Wire posted on Nov. 16 that the sale starts Nov. 19 at 9 p.m. PT and runs through Dec. 2.
 - Nintendo: the What's New page on nintendo.com/us has none.
 - Steam: the Steam sales page lists no November sale as of Nov. 14. Valve's dated sales are in our [Steam Winter Sale 2026 dates](/news/steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027/) story.
 
