@@ -105,7 +105,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [thanksgiving-2026-transit-schedules-subway-bus-by-city, christmas-travel-2026-busiest-days-to-fly-tsa-checkpoint-counts, aaa-tow-to-go-2026-thanksgiving-christmas-free-tow-ride-home]
+related: [thanksgiving-2026-transit-schedules-subway-bus-by-city, national-parks-open-thanksgiving-2026-statue-of-liberty-alcatraz, aaa-tow-to-go-2026-thanksgiving-christmas-free-tow-ride-home]
 draft: false
 ---
 
