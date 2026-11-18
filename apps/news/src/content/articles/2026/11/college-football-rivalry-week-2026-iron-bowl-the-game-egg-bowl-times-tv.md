@@ -3,7 +3,7 @@ title: "College Football Rivalry Week 2026: Egg Bowl Nov. 27, Game Nov. 28"
 description: "College football Rivalry Week 2026 is Nov. 26-28: Michigan at Ohio State at noon ET on FOX, the Egg Bowl Friday. Iron Bowl time not yet set. Viewing sheet."
 type: news
 publishedAt: "2026-11-01T01:30:00-05:00"
-updatedAt: "2026-11-13T16:07:00-05:00"
+updatedAt: "2026-11-17T21:24:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["rivalry week 2026 schedule", "Iron Bowl 2026 time", "Ohio State Michigan 2026 time", "Egg Bowl 2026", "Black Friday college football 2026"]
@@ -32,14 +32,14 @@ assets:
       - ["Sat., Nov. 28 · 12:00 p.m.", "The Game: Michigan at Ohio State (FOX)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · noon-1 p.m. window", "Louisville at Kentucky (SEC)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · noon-1 p.m. window", "LSU at Arkansas (SEC)  Pick: ______  Score: ______"]
+      - ["Sat., Nov. 28 · 3:30 p.m.", "USC at UCLA (CBS)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30-4:30 p.m. window", "Oklahoma at Missouri (SEC)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30-4:30 or 6-8 p.m.", "Iron Bowl: Auburn at Alabama (SEC; set by Nov. 22)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30-4:30 or 6-8 p.m.", "Georgia Tech at Georgia (SEC; set by Nov. 22)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 6-8 p.m. window", "Tennessee at Vanderbilt (SEC)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · time to be announced", "South Carolina at Clemson  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 28 · time to be announced", "USC at UCLA  Pick: ______  Score: ______"]
       - ["Tiebreaker · Sat., Nov. 28", "Total points, Michigan at Ohio State: ______"]
-    note: "Source: ESPN college football schedule, Week 14 (checked Nov. 13, 2026); Auburn Athletics (SEC flex rule); Buckeye Sports Bulletin; Nebraska Athletics. Times can change; check ESPN."
+    note: "Source: ESPN college football schedule, Week 14 (checked Nov. 13, 2026); Auburn Athletics (SEC flex rule); Buckeye Sports Bulletin; Nebraska Athletics; UCLA Athletics (checked Nov. 17, 2026). Times can change; check ESPN."
     description: "A one-page college football Rivalry Week 2026 sheet with Nov. 26-28 games, Eastern Time kickoffs or SEC windows, networks, and blanks for picks and scores."
     alt: "Printable college football Rivalry Week 2026 viewing sheet listing Nov. 26-28 games with time, network and blanks for picks and scores"
 hero:
@@ -88,6 +88,10 @@ sources:
     url: "https://huskers.com/news/2026/05/27/kickoff-times-set-for-four-husker-football-games"
     publisher: "Nebraska Athletics"
     date: "2026-05-27"
+  - title: "2026 Football Schedule - UCLA Bruins"
+    url: "https://uclabruins.com/sports/football/schedule/2026"
+    publisher: "UCLA Athletics"
+    date: "2026-11-17"
   - title: "Texas Tech-TCU set for Thanksgiving night on ESPN"
     url: "https://texastech.com/news/2026/5/11/football-texas-tech-tcu-set-for-thanksgiving-night-on-espn"
     publisher: "Texas Tech Athletics"
@@ -142,6 +146,7 @@ ESPN's schedule (checked Nov. 13, 2026) lists these rivalry games with their dat
 | Iron Bowl | Auburn at Alabama | Sat., Nov. 28 | Bryant-Denny Stadium, Tuscaloosa | 3:30-4:30 p.m. or 6-8 p.m. window | - |
 | Clean, Old-Fashioned Hate | Georgia Tech at Georgia | Sat., Nov. 28 | Sanford Stadium, Athens | 3:30-4:30 p.m. or 6-8 p.m. window | - |
 | Governor's Cup | Louisville at Kentucky | Sat., Nov. 28 | Kroger Field, Lexington | Noon-1 p.m. window | - |
+| Victory Bell | University of Southern California (USC) at University of California, Los Angeles (UCLA) | Sat., Nov. 28 | Rose Bowl, Pasadena | 3:30 p.m. | CBS |
 | Palmetto Bowl | South Carolina at Clemson | Sat., Nov. 28 | Memorial Stadium, Clemson | - | - |
 | Old Oaken Bucket | Purdue at Indiana | Sat., Nov. 28 | Memorial Stadium, Bloomington | - | - |
 | Territorial Cup | Arizona State at Arizona | Sat., Nov. 28 | Casino Del Sol Stadium, Tucson | - | - |
@@ -191,12 +196,13 @@ Noon ET on FOX, at Ohio Stadium in Columbus. The Buckeye Sports Bulletin reporte
 
 ## What is the full Saturday, Nov. 28 slate?
 
-Only a few Saturday games have a set time on ESPN's list. All times are ET.
+Only a few Saturday games have a set time on ESPN's list or the schools' own schedules. All times are ET.
 
 | Time (ET) | CT | MT | PT | Game | TV |
 |---|---|---|---|---|---|
 | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | Michigan at Ohio State | FOX |
 | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | Jacksonville State at Delaware | CBS Sports Network |
+| 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | USC at UCLA (Rose Bowl) | CBS |
 | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. | 6:00 p.m. | Nevada at University of Nevada, Las Vegas (UNLV) (Allegiant Stadium) | CBS Sports Network |
 | 11:00 p.m. | 10:00 p.m. | 9:00 p.m. | 8:00 p.m. | Sacramento State at Hawai'i | MW+ (Mountain West streaming) |
 
@@ -206,7 +212,7 @@ ESPN also lists these Saturday games without a time or network: Penn State at Ma
 
 Three well-known pairings are off the 2026 schedule:
 
-- **Notre Dame-USC.** The two teams paused the series; the AP reported it on Dec. 22, 2025, in a story carried by Click On Detroit. Notre Dame plays at Syracuse on Nov. 28 instead, per ESPN. USC plays at UCLA.
+- **Notre Dame-USC.** The two teams paused the series; the AP reported it on Dec. 22, 2025, in a story carried by Click On Detroit. Notre Dame plays at Syracuse on Nov. 28 instead, per ESPN. USC plays at UCLA in the Rose Bowl at 12:30 p.m. PT (3:30 p.m. ET) on CBS, per UCLA Athletics' schedule page (checked Nov. 17, 2026).
 - **Oregon-Oregon State.** The Civil War returns in 2028, Lookout Eugene-Springfield reported on May 26, 2026. Oregon hosts Washington on Nov. 28, per ESPN.
 - **Oklahoma-Oklahoma State (Bedlam).** CBS Sports reported the 112-year-old series is unlikely to continue after the Sooners joined the SEC. ESPN lists no Bedlam game for 2026: Oklahoma is at Missouri and Oklahoma State hosts Kansas.
 
