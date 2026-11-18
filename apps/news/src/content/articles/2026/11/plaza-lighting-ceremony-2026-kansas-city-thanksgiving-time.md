@@ -132,7 +132,7 @@ The Plaza's own site could not be read when we checked, so these times rest on t
 |---|---|---|
 | 5 p.m. CT | Event kicks off; free and open to the public | KSHB 41, KC Streetcar Authority |
 | About 6:25 p.m. CT (7:25 p.m. ET) | Switch is flipped | KSHB 41, Visit KC |
-| 7:30 p.m. CT | Ceremony ends | KC Streetcar Authority |
+| 7:30 p.m. CT (8:30 p.m. ET) | Ceremony ends | KC Streetcar Authority |
 | 5 p.m. to 3 a.m. CT, daily after Thanksgiving | Lights on until mid-January | Visit KC |
 
 Visit KC lists fireworks after the switch and calls it the 97th annual ceremony, with a live broadcast on Kansas City station (KMBC). KSHB names Vocalocity, Miller Marley Dance Company, Quixotic and DJ Kirby Hamm among the entertainment. Set times for performers were not published in the sources we found. Street closures and rideshare points were not found either.
@@ -159,12 +159,12 @@ The KC Streetcar Authority lists these hours. KCTV5 reports that parking is avai
 
 | Day | Streetcar hours | Note |
 |---|---|---|
-| Thu., Nov. 26 | 7 a.m. to midnight | Two-hour late start, normal end time |
+| Thu., Nov. 26 | 7 a.m. (8 a.m. ET) to midnight | Two-hour late start, normal end time |
 | Fri., Nov. 27 | 5 a.m. to 1 a.m. | Mayor's Christmas Tree lighting at Crown Center, 6 p.m. |
 | Sat., Nov. 28 | 5 a.m. to 1 a.m. | |
 | Sun., Nov. 29 | 5 a.m. to midnight | |
 
-The streetcar's page lists the Crown Center tree lighting at 6 p.m. on Friday, Nov. 27, followed by a fireworks finale. We did not confirm which stops serve the Plaza, so check kcstreetcar.org.
+The streetcar's page lists the Crown Center tree lighting at 6 p.m. CT (7 p.m. ET) on Friday, Nov. 27, followed by a fireworks finale. We did not confirm which stops serve the Plaza, so check kcstreetcar.org.
 
 ## How long are the Plaza lights on, and where do you park?
 
