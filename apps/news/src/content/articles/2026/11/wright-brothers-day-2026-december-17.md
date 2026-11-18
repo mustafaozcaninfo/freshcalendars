@@ -3,7 +3,7 @@ title: "Wright Brothers Day 2026: Dec. 17, Fee-Free at Kill Devil Hills"
 description: "Wright Brothers Day is Thursday, Dec. 17, 2026, with fees waived at Wright Brothers National Memorial. The four 1903 flights in seconds and feet."
 type: explainer
 publishedAt: "2026-11-04T07:48:00-05:00"
-updatedAt: "2026-11-04T07:48:00-05:00"
+updatedAt: "2026-11-17T23:26:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["wright brothers day 2026", "wright brothers day", "first flight anniversary 2026", "wright brothers national memorial december 17"]
@@ -28,6 +28,7 @@ assets:
       facts:
         - { text: "Federal law names Dec. 17 as Wright Brothers Day and asks the President for a yearly proclamation.", src: 1, quote: "December 17 is Wright Brothers Day" }
         - { text: "The brothers made four powered flights the morning of Dec. 17, 1903.", src: 4, quote: "made four successful sustained powered flights the morning of December 17, 1903" }
+        - { text: "The First Flight Society's 123rd anniversary ceremony is 9 to 11:30 a.m. ET at the memorial, admission free; its luncheon is 12 to 2 p.m., $50 per person.", src: 10, quote: ["9:00–11:30 a.m. — Ceremony at Wright Brothers National Memorial, Kill Devil Hills, NC. Admission is free.", "12:00–2:00 p.m. — First Flight Society Luncheon. Tickets are $50 per person ."] }
         - { text: "Fees are waived Dec. 17 at Wright Brothers National Memorial only, charged per person 16 or older.", src: 7, quote: "December 17: Fees are waived at this park only, marking the anniversary of the Wright brothers' 'first flight.'" }
       activities:
         - type: checklist
@@ -40,12 +41,12 @@ assets:
         - type: checklist
           title: "Before you go"
           items:
-            - "Check the 2026 anniversary program on the park's news page"
+            - "Ceremony 9 to 11:30 a.m. ET, free; luncheon 12 to 2 p.m. is $50 (First Flight Society)"
             - "Check the park's hours page; Christmas Day is listed closed"
             - "Get a free timed-entry pass for the National Air and Space Museum"
             - "See the original 1903 Wright Flyer in Gallery 107"
       unconfirmed:
-        - { label: "2026 anniversary program", why: "the memorial's 2026 program was not yet announced" }
+        - { label: "Ceremony speakers, flyover and parking notes", why: "the First Flight Society had not yet posted them" }
 hero:
   src: ../../../../assets/news/wright-brothers-day-2026-december-17/wright-brothers-day-2026-december-17.webp
   alt: "The Wright Brothers Monument on Big Kill Devil Hill at Wright Brothers National Memorial in North Carolina, for Wright Brothers Day 2026"
@@ -60,7 +61,7 @@ summary:
   - "Wright Brothers Day is Thursday, Dec. 17, 2026. Federal law (36 U.S. Code section 143) names the date and asks the President to issue a proclamation each year; none has been issued for 2026 yet."
   - "The National Park Service (NPS) says fees are waived on Dec. 17 at Wright Brothers National Memorial only, charged per person 16 or older, not per vehicle."
   - "The first of four flights on Dec. 17, 1903 lasted 12 seconds and covered 120 feet; the fourth went 852 feet in 59 seconds, according to NPS."
-  - "The 2026 anniversary program at the memorial is not yet announced. In 2025, the 122nd anniversary event began at 8:30 a.m."
+  - "The First Flight Society, the ceremony's organizer, lists the 123rd anniversary ceremony at the memorial for 9 to 11:30 a.m. ET on Dec. 17, admission free, and a luncheon from 12 to 2 p.m. at $50 per person. Speakers are not yet announced."
 faq:
   - q: "When is Wright Brothers Day 2026?"
     a: "Thursday, Dec. 17, 2026. The date is fixed by federal law and the weekday is our calculation."
@@ -97,6 +98,10 @@ sources:
     url: "https://www.nps.gov/wrbr/planyourvisit/fees.htm"
     publisher: "National Park Service"
     date: "2026-06-05"
+  - title: "Wright Brothers Day - First Flight Society"
+    url: "https://firstflight.org/wright-brothersday/"
+    publisher: "First Flight Society"
+    date: "2026-11-18"
   - title: "The Wright Brothers & The Invention of the Aerial Age"
     url: "https://airandspace.si.edu/wrightbrothers"
     publisher: "Smithsonian National Air and Space Museum"
@@ -150,7 +155,14 @@ The park's hours page, which is dated 2021, lists Christmas Day as its closed da
 
 ## What is planned at the memorial in 2026?
 
-The 2026 anniversary program, which would be the 123rd (our count from 1903), is not yet announced. In 2025, NPS said Wright Brothers National Memorial hosted the 122nd anniversary event on Dec. 17 at 8:30 a.m., with the first flight time marked at 10:35 a.m. Those are 2025 times. Check the park's news page for 2026.
+The First Flight Society, which organizes the ceremony, says: "Mark your calendar for Thursday, December 17th, 2026, as we celebrate the 123rd Anniversary of the Wright Brothers' First Flight." Its page lists two events:
+
+| Time (ET) | Event | Cost |
+|---|---|---|
+| 9 to 11:30 a.m. | Ceremony at Wright Brothers National Memorial, Kill Devil Hills, North Carolina | Admission is free |
+| 12 to 2 p.m. | First Flight Society luncheon | $50 per person |
+
+Source: First Flight Society, read Nov. 18, 2026. The program for both events is "to be announced," and the page does not list speakers, a flyover or parking and road notes. NPS has no 2026 news release on its news page. In 2025, NPS said the 122nd anniversary event began at 8:30 a.m., with the first flight time marked at 10:35 a.m.
 
 ## Where can you mark the first flight on Dec. 17?
 
