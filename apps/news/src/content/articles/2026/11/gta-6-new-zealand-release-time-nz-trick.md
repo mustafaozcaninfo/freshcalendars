@@ -1,6 +1,6 @@
 ---
 title: "GTA 6 New Zealand Release Time: 6 a.m. ET Wed., Nov. 18"
-description: "Grand Theft Auto (GTA) VI releases at midnight local time Nov. 19, PlayStation says. New Zealand's midnight was 6 a.m. ET Nov. 18. Times by place."
+description: "Grand Theft Auto (GTA) VI releases at midnight local time Nov. 19, PlayStation says. New Zealand's midnight is 6 a.m. ET Nov. 18. Times by place."
 type: news
 publishedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
@@ -10,7 +10,7 @@ keywords: ["gta 6 new zealand release time", "gta 6 nz trick", "gta 6 new zealan
 hero:
   src: ../../../../assets/news/gta-6-new-zealand-release-time-nz-trick/gta-6-new-zealand-release-time-nz-trick.webp
   alt: "Auckland skyline panorama, the city whose midnight sets the GTA 6 New Zealand release time"
-  caption: "File photo of Auckland. New Zealand's midnight on Nov. 19 was 6 a.m. ET on Nov. 18, by our conversion of PlayStation's midnight local time."
+  caption: "File photo of Auckland. New Zealand's midnight on Nov. 19 is 6 a.m. ET on Nov. 18, by our conversion of PlayStation's midnight local time."
   credit: "Photo: Christian Mehlführer, User:Chmehl / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.5"
@@ -25,7 +25,7 @@ assets:
   card: { top: "New Zealand midnight", big: "6 a.m. ET", bottom: "Wed., Nov. 18, by our conversion" }
 summary:
   - "PlayStation says Grand Theft Auto VI releases at midnight local time on Nov. 19, 2026, on PS5 consoles."
-  - "New Zealand's midnight was 6 a.m. ET (3 a.m. PT) on Wednesday, Nov. 18 by our conversion, 18 hours before the 12 a.m. ET listing Vice reported on the U.S. PlayStation Store."
+  - "New Zealand's midnight is 6 a.m. ET (3 a.m. PT) on Wednesday, Nov. 18 by our conversion, 18 hours before the 12 a.m. ET listing Vice reported on the U.S. PlayStation Store."
   - "The New Zealand trick, changing a console's region, has not been confirmed to work, Vice wrote, and Rockstar, Sony and Microsoft have not confirmed it."
   - "Microsoft's one official early hour is Xbox Cloud Gaming streaming at 1 a.m. ET on Nov. 19."
 sources:
@@ -67,7 +67,7 @@ faq:
 draft: false
 ---
 
-**PlayStation says Grand Theft Auto (GTA) VI "releases at midnight local time on November 19, 2026," on PlayStation 5 consoles, and New Zealand's midnight was 6 a.m. ET (3 a.m. PT) on Wednesday, Nov. 18 by our conversion.** That is 18 hours before the 12 a.m. ET Thursday release time that Vice reported on the U.S. PlayStation Store. PlayStation's page prints no single worldwide hour; a midnight that follows the clock gives each place its own moment.
+**PlayStation says Grand Theft Auto (GTA) VI "releases at midnight local time on November 19, 2026," on PlayStation 5 consoles, and New Zealand's midnight is 6 a.m. ET (3 a.m. PT) on Wednesday, Nov. 18 by our conversion.** That is 18 hours before the 12 a.m. ET Thursday release time that Vice reported on the U.S. PlayStation Store. PlayStation's page prints no single worldwide hour; a midnight that follows the clock gives each place its own moment.
 
 ## GTA 6 midnight by place, in ET and PT
 
