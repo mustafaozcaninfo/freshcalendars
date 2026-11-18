@@ -1,8 +1,8 @@
 ---
-title: "GTA 6 Age Rating: ESRB Rates It M for Mature 17+, Plus Parental Controls"
-description: "Grand Theft Auto (GTA) VI is rated M for Mature 17+ by the ESRB. Each descriptor in the ESRB's words, plus the PS5 and Xbox age-limit and spending steps."
+title: "GTA 6 Age Rating: ESRB M for Mature 17+ and Parental Controls"
+description: "Grand Theft Auto (GTA) VI is rated M for Mature 17+ by the Entertainment Software Rating Board (ESRB). Each descriptor defined, plus PS5 and Xbox limits."
 type: news
-publishedAt: "2026-11-18T05:20:00-05:00"
+publishedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 dateline: "New York"
@@ -11,7 +11,7 @@ hero:
   src: ../../../../assets/news/gta-6-age-rating-esrb-m-17-parental-controls/gta-6-age-rating-esrb-m-17-parental-controls.webp
   alt: "PlayStation 5 DualSense controller in Midnight Black, a file photo for the GTA 6 age rating and parental controls guide"
   caption: "File photo of a PlayStation 5 DualSense controller. The ESRB rates Grand Theft Auto VI M for Mature 17+, and the game launches Nov. 19."
-  credit: "Photo: Chris Woodrich / Wikimedia Commons, cropped"
+  credit: "Photo: Chris Woodrich / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
     url: "https://creativecommons.org/licenses/by-sa/4.0"
@@ -92,7 +92,7 @@ The ESRB's ratings guide defines M (Mature 17+) this way: "Content is generally 
 
 ## What M 17+ means at the store
 
-The ESRB's FAQ says "Most major retailers have established their own store policies requiring ESRB ratings." It adds that retailers "have also implemented age verification for the sale or rental of M (Mature)" games. Citing the Federal Trade Commission (FTC), the ESRB says "unaccompanied children who attempt to purchase a Mature-rated video game are stopped 87% of the time." The ESRB describes its rating system as voluntary.
+The ESRB's frequently asked questions page says "Most major retailers have established their own store policies requiring ESRB ratings." It adds that retailers "have also implemented age verification for the sale or rental of M (Mature)" games. Citing the Federal Trade Commission (FTC), the ESRB says "unaccompanied children who attempt to purchase a Mature-rated video game are stopped 87% of the time." The ESRB describes its rating system as voluntary.
 
 ## PS5: restrict games by age
 
@@ -129,10 +129,10 @@ On PlayStation, a child can request an exception for a game. The parent receives
 
 ## What is not confirmed about the GTA 6 rating
 
-- A PEGI (Pan European Game Information) rating: a search of pegi.info returned no entry for the game on Nov. 18.
+- A Pan European Game Information (PEGI) rating: a search of pegi.info returned no entry for the game on Nov. 18.
 - Ratings from other countries' boards.
 - Which PS5 age level equals M.
-- What the in-game purchases are. The price of the Standard Edition is $79.99, per Take-Two Interactive; the [price and edition breakdown](/news/gta-6-price-editions-standard-ultimate-upgrade/) covers it.
+- What the in-game purchases are. Prices are in the [price and edition breakdown](/news/gta-6-price-editions-standard-ultimate-upgrade/).
 - Rockstar's minimum age for the Rockstar Games account that some features require: PlayStation's page says only that the "minimum age varies".
 
 Platform availability, including [Xbox cloud streaming](/news/gta-6-xbox-one-cloud-gaming-ps4-platforms/), is covered separately.

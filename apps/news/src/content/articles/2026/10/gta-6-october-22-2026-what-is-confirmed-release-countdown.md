@@ -3,7 +3,7 @@ title: "GTA 6 Release Date Is Nov. 19: Launch Times, Price, 212 GB"
 description: "Grand Theft Auto (GTA) VI launches Thursday, Nov. 19, 2026, from $79.99. Midnight local time on PS5, 1 a.m. ET on Xbox Cloud Gaming, 212 GB, no disc."
 type: news
 publishedAt: "2026-10-20T15:00:00-04:00"
-updatedAt: "2026-11-18T05:30:00-05:00"
+updatedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["GTA 6 October 22", "GTA 6 release date", "GTA 6 preload date", "GTA 6 news this week", "GTA 6 countdown"]
@@ -163,7 +163,7 @@ Sources are Take-Two Interactive's pre-order announcement, PlayStation's support
 | PS5 download | 212 GB of storage space | PlayStation |
 | Boxed edition | A download code inside the box and no disc; on sale from Nov. 12 per Take-Two | PlayStation, Take-Two |
 | Pre-order bonus | Vintage Vice City Pack with any purchase before Nov. 20 | Take-Two |
-| Rating | M for Mature 17+ | ESRB |
+| Rating | M for Mature 17+ ([what the rating covers and console parental controls](/news/gta-6-age-rating-esrb-m-17-parental-controls/)) | ESRB |
 
 - **Release time.** PlayStation's wording: "Grand Theft Auto VI releases at midnight local time on November 19, 2026, on PlayStation®5 consoles." Midnight arrives first in New Zealand; our [New Zealand release time story](/news/gta-6-new-zealand-release-time-nz-trick/) covers the order and the region question. Microsoft's Xbox Wire post says "Streaming for Grand Theft Auto VI begins at 1am ET on November 19," which is 12 a.m. Central, 11 p.m. Mountain and 10 p.m. Pacific on Nov. 18.
 - **Platforms.** Rockstar lists PS5 and Xbox Series X|S. Microsoft says the game is playable on day one through Xbox Cloud Gaming on Xbox One and Xbox Series X|S; see [Xbox One cloud gaming and the platform list](/news/gta-6-xbox-one-cloud-gaming-ps4-platforms/).
@@ -228,7 +228,7 @@ The Nov. 9 report covered the quarter that ended Sept. 30 and was Take-Two's las
 
 ## What is not confirmed
 
-- **A PC version.** Rockstar has not announced one, and Take-Two's results release lists only PS5 and Xbox Series X|S. Some outlets have reported a later PC release based on unnamed sources; Rockstar has not commented on them.
+- **A PC version.** Rockstar has not announced one, and Take-Two's results release lists only PS5 and Xbox Series X|S. Some outlets have reported a later PC release based on unnamed sources; Rockstar has not commented on them. How long Rockstar's last two releases took to reach PC is in our [GTA 6 PC release date](/news/gta-6-pc-release-date-rockstar-console-first/) story.
 - **A single worldwide release moment.** None is announced; PlayStation says midnight local time.
 - **An Xbox console release hour.** Microsoft gives only 1 a.m. ET for Xbox Cloud Gaming.
 - **Whether changing a console's region starts the game early.** Rockstar, Sony and Microsoft have not confirmed it.

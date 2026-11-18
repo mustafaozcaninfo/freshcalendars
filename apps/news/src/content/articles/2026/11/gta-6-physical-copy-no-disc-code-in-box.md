@@ -2,7 +2,7 @@
 title: "GTA 6 Physical Copy Has No Disc, Only a Download Code in the Box"
 description: "Grand Theft Auto (GTA) VI boxes hold a download code and no disc, PlayStation says. Four sources side by side, plus the redeem steps and the 212 GB needed."
 type: news
-publishedAt: "2026-11-18T05:17:00-05:00"
+publishedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 dateline: "New York"
@@ -11,7 +11,7 @@ hero:
   src: ../../../../assets/news/gta-6-physical-copy-no-disc-code-in-box/gta-6-physical-copy-no-disc-code-in-box.webp
   alt: "GameStop store in Ypsilanti, Michigan, where the GTA 6 physical copy is sold as a download code in the box"
   caption: "File photo of a GameStop store in Ypsilanti, Michigan. GameStop lists the boxed Grand Theft Auto VI as a download code in the box, at $79.99."
-  credit: "Photo: Dwight Burdette / Wikimedia Commons, cropped"
+  credit: "Photo: Dwight Burdette / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 3.0"
     url: "https://creativecommons.org/licenses/by/3.0"

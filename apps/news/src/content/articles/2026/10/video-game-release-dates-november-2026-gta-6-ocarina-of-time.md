@@ -3,7 +3,7 @@ title: "Video Game Release Dates November 2026: GTA 6 on Nov. 19"
 description: "Grand Theft Auto (GTA) VI launches Thu., Nov. 19, 2026, at midnight local time on PS5. Eight November games by weekday, plus a printable."
 type: news
 publishedAt: "2026-10-31T14:23:00-04:00"
-updatedAt: "2026-11-18T05:35:00-05:00"
+updatedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["video game release dates november 2026", "new games november 2026", "games coming out november 2026", "gta 6 release date november 19"]

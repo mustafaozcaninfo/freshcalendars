@@ -2,7 +2,7 @@
 title: "GTA 6 Launch Stream: YouTube Starts at 12 a.m. ET Nov. 19"
 description: "YouTube's 24-hour Grand Theft Auto (GTA) VI stream starts 12 a.m. ET Thu., Nov. 19, with a pre-show at 11 p.m. ET Wed. Start and end times by U.S. zone."
 type: news
-publishedAt: "2026-11-18T05:17:00-05:00"
+publishedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 dateline: "New York"
@@ -11,7 +11,7 @@ hero:
   src: ../../../../assets/news/gta-6-youtube-launch-livestream-time-24-hour-stream/gta-6-youtube-launch-livestream-time-24-hour-stream.webp
   alt: "Miami skyline at night, where the YouTube GTA 6 launch livestream ends with live coverage"
   caption: "File photo of the Miami skyline at night. YouTube says its 24-hour Grand Theft Auto VI stream wraps with live on-the-ground coverage from Miami."
-  credit: "Photo: Don Ramey Logan / Wikimedia Commons"
+  credit: "Photo: Don Ramey Logan / Wikimedia Commons, edited"
   license:
     name: "CC BY 4.0"
     url: "https://creativecommons.org/licenses/by/4.0"

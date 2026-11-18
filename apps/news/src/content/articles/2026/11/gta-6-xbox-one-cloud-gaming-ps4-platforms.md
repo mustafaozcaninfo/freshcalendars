@@ -1,8 +1,8 @@
 ---
 title: "GTA 6 on Xbox One: Cloud Streaming Starts 1 a.m. ET Nov. 19"
-description: "Grand Theft Auto (GTA) VI streams on Xbox One through Xbox Cloud Gaming from 1 a.m. ET Nov. 19, Microsoft says. No native Xbox One or PS4 version is listed."
+description: "Grand Theft Auto (GTA) VI streams on Xbox One through Xbox Cloud Gaming from 1 a.m. ET Nov. 19, Microsoft says. No native Xbox One or PS4 version listed."
 type: news
-publishedAt: "2026-11-18T05:17:00-05:00"
+publishedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 dateline: "New York"
@@ -11,7 +11,7 @@ hero:
   src: ../../../../assets/news/gta-6-xbox-one-cloud-gaming-ps4-platforms/gta-6-xbox-one-cloud-gaming-ps4-platforms.webp
   alt: "Xbox One console with controller, which can stream GTA 6 through Xbox Cloud Gaming"
   caption: "File photo of an Xbox One console and controller. Microsoft says the console can stream Grand Theft Auto VI through Xbox Cloud Gaming from 1 a.m. ET on Nov. 19."
-  credit: "Photo: Evan-Amos / Wikimedia Commons, cropped"
+  credit: "Photo: Evan-Amos / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
     url: "https://creativecommons.org/publicdomain/mark/1.0/"

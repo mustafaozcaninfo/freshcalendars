@@ -3,7 +3,7 @@ title: "GTA 6 Countdown: Nov. 19 Release Time by Time Zone"
 description: "Grand Theft Auto (GTA) VI launches Thursday, Nov. 19: midnight local time on PS5, 12 a.m. ET on the US store, 1 a.m. ET on Xbox Cloud Gaming. Live clock."
 type: explainer
 publishedAt: "2026-10-23T03:05:00-04:00"
-updatedAt: "2026-11-18T05:25:00-05:00"
+updatedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["GTA 6 countdown", "GTA 6 release time", "GTA 6 release date and time EST", "GTA 6 countdown days", "GTA 6 countdown printable"]

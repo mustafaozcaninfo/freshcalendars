@@ -2,7 +2,7 @@
 title: "GTA 6 Price: Standard $79.99, Ultimate $99.99, Upgrade $20.00"
 description: "Grand Theft Auto (GTA) VI costs $79.99 Standard and $99.99 Ultimate, with a $20.00 upgrade on Xbox. Bonus cut-offs and refund rules by store."
 type: news
-publishedAt: "2026-11-18T05:17:00-05:00"
+publishedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 dateline: "New York"
@@ -11,7 +11,7 @@ hero:
   src: ../../../../assets/news/gta-6-price-editions-standard-ultimate-upgrade/gta-6-price-editions-standard-ultimate-upgrade.webp
   alt: "PlayStation 5 console with controller, the platform where the GTA 6 Standard Edition costs $79.99"
   caption: "File photo of a PlayStation 5 console and controller. Take-Two lists Grand Theft Auto VI at $79.99 for the Standard Edition and $99.99 for the Ultimate Edition."
-  credit: "Photo: Howardcorn33 / Wikimedia Commons, cropped"
+  credit: "Photo: Howardcorn33 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
     url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"

@@ -1,23 +1,23 @@
 ---
-title: "GTA 6 download size: PS5 needs 212 GB free, PlayStation says"
-description: "Grand Theft Auto (GTA) VI needs a minimum of 212 GB free on PS5, PlayStation says. Our download times from 25 to 1,000 Mbps, pre-load steps and stuck fixes."
+title: "GTA 6 Download Size: PS5 Needs 212 GB Free, PlayStation Says"
+description: "Grand Theft Auto (GTA) VI needs at least 212 GB free on PS5, PlayStation says. Download times at 25 to 1,000 Mbps, pre-load steps and stuck fixes."
 type: news
-publishedAt: "2026-11-18T05:17:00-05:00"
+publishedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 dateline: "New York"
 keywords: ["gta 6 download size", "gta 6 file size ps5", "gta 6 not downloading", "how to pre-load gta 6", "gta 6 how many gb"]
 hero:
   src: ../../../../assets/news/gta-6-download-size-212-gb-ps5-pre-load-install-fix/gta-6-download-size-212-gb-ps5-pre-load-install-fix.webp
-  alt: "PlayStation 5 console and DualSense controller, file photo for the GTA 6 download size of 212 GB on PS5"
-  caption: "File photo of a PlayStation 5 and DualSense controller. PlayStation tells players to clear a minimum of 212 GB of storage space for Grand Theft Auto VI."
-  credit: "Photo: Osh33m / Wikimedia Commons, cropped"
+  alt: "PlayStation 5 console, file photo for the GTA 6 download size of 212 GB on PS5"
+  caption: "File photo of a PlayStation 5 console. PlayStation tells players to clear a minimum of 212 GB of storage space for Grand Theft Auto VI."
+  credit: "Photo: Ryan Bennett / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
     url: "https://creativecommons.org/licenses/by-sa/4.0"
-    source: "https://commons.wikimedia.org/wiki/File:PlayStation_5_and_DualSense_(2).jpg"
-    author: "Osh33m"
-    authorUrl: "https://commons.wikimedia.org/w/index.php?title=User:Osh33m&amp;action=edit&amp;redlink=1"
+    source: "https://commons.wikimedia.org/wiki/File:Playstation_5.jpg"
+    author: "Ryan Bennett"
+    authorUrl: "https://commons.wikimedia.org/w/index.php?title=User:Yourmom&amp;action=edit&amp;redlink=1"
 assets:
   overlay: true
   kicker: "GTA 6 · download size"
@@ -26,7 +26,7 @@ assets:
 summary:
   - "PlayStation tells players to clear a minimum of 212 GB of storage space on PS5 for Grand Theft Auto VI, which launches Thursday, Nov. 19, 2026."
   - "By our arithmetic, 212 GB takes about 18 hours 51 minutes at a steady 25 Mbps and about 28 minutes at a steady 1,000 Mbps."
-  - "PS5 games cannot be played from USB extended storage, so the 212 GB has to sit on the console's own storage."
+  - "PS5 games cannot be played from Universal Serial Bus (USB) extended storage, so the game cannot run from a USB drive."
   - "Microsoft says the game is available to pre-install on Xbox Series X and Series S, but the Xbox install size in GB is not published on the pages we read."
 faq:
   - q: "How many GB is GTA 6 on PS5?"
@@ -35,8 +35,8 @@ faq:
     a: "The Xbox install size in GB is not published on the Microsoft pages we read. TechRadar reports that Rockstar's wording is \"up to 212 GB depending on your device.\""
   - q: "Does the boxed edition of GTA 6 have a disc?"
     a: "No. PlayStation says the physical (Code-In-Box) version contains only a game download code, and a disc is not included."
-  - q: "Can I install GTA 6 on a USB drive on PS5?"
-    a: "PlayStation says PS5 games cannot be played directly from USB extended storage. Game data has to be copied back to the console's storage to play."
+  - q: "Can I play GTA 6 from an external drive on PS5?"
+    a: "PlayStation says PS5 games cannot be played directly from extended storage on a Universal Serial Bus (USB) drive. Game data has to be copied back to the console's storage to play."
 sources:
   - title: "Grand Theft Auto VI support (UK)"
     url: "https://www.playstation.com/en-gb/support/games/gta-vi-support/"
@@ -90,14 +90,14 @@ The table is our arithmetic: 212 GB is 1,696,000 megabits, divided by the speed.
 | 500 Mbps | 57 minutes |
 | 1,000 Mbps (1 gigabit) | 28 minutes |
 
-Every step up in speed shortens the wait. Any day-one patch size is not announced, so the real total on launch day may differ from the 212 GB minimum.
+Any day-one patch size is not announced.
 
 ## How do you pre-load GTA 6 on PS5?
 
 PlayStation's support page gives these conditions for the pre-load:
 
 1. Sign in to the account that was used to pre-order the game or to enter the physical (Code-In-Box) code.
-2. Make sure the checkbox next to GTAVI is selected to enable auto-download.
+2. Make sure the checkbox next to the game is selected to enable auto-download.
 3. To download in rest mode, open the control center, select Power, then Enter Rest Mode. If the console asks whether to stay connected to the internet in rest mode, select Yes. PlayStation says that lets the PS5 auto-download games while in rest mode.
 4. Check free space on the home screen under Settings > Storage.
 
@@ -115,14 +115,14 @@ PlayStation's general download guide adds these checks:
 
 Its game-launch guide also suggests a wired connection if possible, the latest system software, and deleting the game to re-download it.
 
-## Can GTA 6 run from a USB drive on PS5?
+## Can GTA 6 run from external storage on PS5?
 
-No. PlayStation says PS5 games cannot be played directly from USB extended storage, so game data must be copied back to the console's own storage to play. The 212 GB has to fit on the console. A USB drive for other storage needs SuperSpeed USB 5 Gbps or later, a capacity from 250 GB to 8 TB, and a direct connection, because PlayStation says you cannot connect the drive through a USB hub.
+No. PlayStation says PS5 games cannot be played directly from Universal Serial Bus (USB) extended storage, so game data must be copied back to the console's own storage to play. A USB drive for other storage needs SuperSpeed USB 5 Gbps or later, a capacity from 250 GB to 8 TB, and a direct connection, because PlayStation says you cannot connect the drive through a USB hub.
 
 ## What is the GTA 6 download size on Xbox?
 
-Microsoft's Xbox Wire post of Nov. 10 says the game is "available now to pre-install" on Xbox Series X and Xbox Series S and urges players to begin pre-loading as soon as possible. It does not give an install size in GB, and neither did the other pages we read. TechRadar reported on Nov. 3 that Rockstar's wording is "up to 212 GB depending on your device." Microsoft's figure for Xbox is not confirmed.
+Microsoft's Xbox Wire post of Nov. 10 says the game is "available now to pre-install" on Xbox Series X and Xbox Series S and urges players to begin pre-loading early. It does not give an install size in GB, and neither did the other pages we read. TechRadar reported on Nov. 3 that Rockstar's wording is "up to 212 GB depending on your device." Microsoft's figure for Xbox is not confirmed.
 
 ## Does a boxed copy skip the download?
 
-No. PlayStation says the physical (Code-In-Box) version contains only a game download code to support pre-load, and a disc is not included. More on that in [what the boxed edition holds](/news/gta-6-physical-copy-no-disc-code-in-box/). For the unlock moment in each region, see the [release time by time zone](/news/gta-6-countdown-release-time-by-time-zone/), and for players without a new console, [GTA 6 on Xbox One through cloud gaming](/news/gta-6-xbox-one-cloud-gaming-ps4-platforms/).
+No. PlayStation says the physical (Code-In-Box) version contains only a game download code to support pre-load, and a disc is not included. More on that in [what the boxed edition holds](/news/gta-6-physical-copy-no-disc-code-in-box/). For the launch moment in each region, see the [release time by time zone](/news/gta-6-countdown-release-time-by-time-zone/), and for players without a new console, [GTA 6 on Xbox One through cloud gaming](/news/gta-6-xbox-one-cloud-gaming-ps4-platforms/).
