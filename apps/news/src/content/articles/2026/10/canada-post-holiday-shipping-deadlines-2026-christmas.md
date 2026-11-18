@@ -82,7 +82,7 @@ internalLinks:
     label: "When is Christmas Eve"
   - href: "/canada-holidays/"
     label: "Canada holidays calendar"
-related: [usps-holiday-shipping-deadlines-2026, canada-statutory-holidays-2027-federal-general-holidays, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28]
+related: [usps-holiday-shipping-deadlines-2026, canada-statutory-holidays-2027-federal-general-holidays, stamp-prices-2027-usps-no-january-increase-canada-post-2-dollar-stamp]
 downloads:
   - group: "Canada Post Christmas Send-By Dates 2026 printables"
     title: "Canada Post Christmas Send-By Dates 2026"

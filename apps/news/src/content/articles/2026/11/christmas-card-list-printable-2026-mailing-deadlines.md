@@ -73,7 +73,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day"
-related: [usps-holiday-shipping-deadlines-2026, christmas-gift-list-budget-planner-2026, weekends-until-christmas-2026-saturday-planner-shipping-deadlines]
+related: [usps-holiday-shipping-deadlines-2026, stamp-prices-2027-usps-no-january-increase-canada-post-2-dollar-stamp, weekends-until-christmas-2026-saturday-planner-shipping-deadlines]
 downloads:
   - group: "Christmas Card List and Address Tracker 2026 printables"
     title: "Christmas Card List and Address Tracker 2026"
