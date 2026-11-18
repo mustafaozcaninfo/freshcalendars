@@ -93,7 +93,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, national-dog-show-2026-thanksgiving-time-tv-channel-peacock-oaks-tickets, thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv]
+related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, plaza-lighting-ceremony-2026-kansas-city-thanksgiving-time, thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv]
 assets:
   overlay: true
   kicker: "Thanksgiving Day · Thu., Nov. 26, 2026"
