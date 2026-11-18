@@ -1,6 +1,6 @@
 ---
 title: "Xbox Black Friday Sale 2026: Starts Nov. 19 at 9 p.m. PT"
-description: "The Xbox Black Friday sale starts Nov. 19 at 9 p.m. PT and runs through Dec. 2. Start time in every US zone and GMT, the Nov. 23 offers, a printable wish list."
+description: "The Xbox Black Friday sale starts Nov. 19 at 9 p.m. PT and runs through Dec. 2. Start times in all US zones and GMT, Nov. 23 offers, a printable wish list."
 type: news
 publishedAt: "2026-11-18T06:00:00-05:00"
 updatedAt: "2026-11-18T06:00:00-05:00"
@@ -180,6 +180,6 @@ See the [PlayStation Store Black Friday 2026 sale](/news/playstation-black-frida
 
 The one-page sheet lists the Nov. 19 start in ET, CT, MT and PT, the Nov. 23 offers and the Dec. 2 finish, with eight lines for the game or gear, regular price and sale price. Pair it with the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), since the sale crosses both months.
 
-## Sources and what we left out
+## Where the Xbox sale facts come from
 
 Dates, times and deals come from Xbox Wire's Nov. 16, 2026 post and its Nov. 20, 2025 post. Other stores' dates come from their own sources linked above. Console prices, headset prices, the Game Pass price and an end time were not in the post.
