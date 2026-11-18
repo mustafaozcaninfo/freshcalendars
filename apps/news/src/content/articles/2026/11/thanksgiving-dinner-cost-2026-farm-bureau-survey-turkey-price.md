@@ -2,8 +2,8 @@
 title: "Thanksgiving Dinner Cost 2026: $58.63 for 10, Turkey $1.48 a Pound"
 description: "Thanksgiving dinner for 10 costs $58.63, up about 6%, the American Farm Bureau Federation says. See each item vs 2025 and print a shopping list."
 type: news
-publishedAt: "2026-11-18T06:38:00-05:00"
-updatedAt: "2026-11-18T06:38:00-05:00"
+publishedAt: "2026-11-18T07:14:00-05:00"
+updatedAt: "2026-11-18T07:14:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["cost of Thanksgiving dinner 2026", "Farm Bureau Thanksgiving survey 2026", "Thanksgiving turkey price 2026", "how much is Thanksgiving dinner 2026"]
