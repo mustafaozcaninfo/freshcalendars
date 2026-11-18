@@ -80,7 +80,7 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [black-friday-2026-ad-tracker-walmart-target-best-buy, cyber-monday-2026-date-sale-start-times-by-store, black-friday-2026-price-match-policy-stores]
+related: [verizon-black-friday-2026-deals-iphone-18-pro-galaxy-s26, cyber-monday-2026-date-sale-start-times-by-store, black-friday-2026-price-match-policy-stores]
 downloads:
   - group: "Samsung Black Friday 2026 Sale Planner printables"
     title: "Samsung Black Friday 2026 Sale Planner"
