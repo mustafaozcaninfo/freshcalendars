@@ -118,7 +118,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [beaver-creek-birds-of-prey-2026-world-cup-race-times, ski-resort-opening-dates-2026-27-vail-breckenridge-park-city-whistler-aspen, x-games-league-2027-winter-schedule-aspen-calgary-ruka-dates]
+related: [beaver-creek-birds-of-prey-2026-world-cup-race-times, ski-resort-opening-dates-2026-27-vail-breckenridge-park-city-whistler-aspen, epic-ikon-pass-2026-27-deadline-prices]
 draft: false
 ---
 
