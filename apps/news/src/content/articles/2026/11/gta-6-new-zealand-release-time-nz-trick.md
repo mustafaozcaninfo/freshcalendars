@@ -62,7 +62,7 @@ faq:
     a: "Not announced. PlayStation's wording is midnight local time, which puts the first midnight in New Zealand (6 a.m. ET) and São Paulo's at 10 p.m. ET, by our conversion."
   - q: "Does the GTA 6 New Zealand trick work?"
     a: "Not confirmed. Vice wrote that the method has not been confirmed to work, and Rockstar, Sony and Microsoft have not confirmed it. Vice also reports that Sony says a PlayStation account's country or region cannot be changed after it is created."
-  - q: "When does GTA 6 unlock in New Zealand?"
+  - q: "When does GTA 6 come out in New Zealand?"
     a: "At midnight local time on Nov. 19 per PlayStation, which Make Tech Easier lists as 11:00 UTC on Nov. 18. That is 6 a.m. ET on Wednesday, Nov. 18 by our conversion."
 draft: false
 ---
@@ -108,6 +108,6 @@ Microsoft prints no release hour for Xbox consoles. The cloud time is the only X
 
 - A single worldwide moment for the release.
 - An official release hour for Xbox consoles beyond the 1 a.m. ET cloud streaming start.
-- Any confirmation from Rockstar, Sony or Microsoft that a region change unlocks the game early.
+- Any confirmation from Rockstar, Sony or Microsoft that a region change makes the game playable early.
 
 PlayStation's 212 GB storage figure and install steps are covered in the [GTA 6 download size and pre-load guide](/news/gta-6-download-size-212-gb-ps5-pre-load-install-fix/). The [November 2026 printable calendar](/november-calendars.html) marks Thursday, Nov. 19.
