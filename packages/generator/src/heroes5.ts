@@ -554,6 +554,11 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-crossword-answers-november-18-2026", "crossword", "#172033", "#f0abfc", "NYT Crossword · Wed., Nov. 18, 2026", "NYT Crossword answers", "A hint for every clue first, the full solved grid at the end.", "nyt-crossword-november-18-a"],
   ["nyt-letter-boxed-answer-hints-november-21-2026", "letterboxed", "#3d1f1a", "#c4b5fd", "Letter Boxed · Sat., Nov. 21, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-21-a"],
   ["nyt-letter-boxed-answer-hints-november-22-2026", "letterboxed", "#3d1f1a", "#5eead4", "Letter Boxed · Sun., Nov. 22, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-22-a"],
+  ["wordle-hint-answer-today-november-30-2026-1990", "wordle", "#121213", "#6aaa64", "Wordle #1990 · Mon., Nov. 30, 2026", "Wordle hints today", "Clues from gentle to strong, the answer only at the end.", "wordle-november-30-a"],
+  ["nyt-connections-hints-answers-november-30-2026-1268", "connections", "#1e1a3a", "#f9df6d", "Connections #1268 · Mon., Nov. 30, 2026", "Connections hints", "Two hints for every group first, answers only at the end.", "nyt-connections-november-30-a"],
+  ["nyt-strands-hints-answers-november-30-2026-1002", "strands", "#0f2f3a", "#f9df6d", "Strands #1002 · Mon., Nov. 30, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end.", "nyt-strands-november-30-a"],
+  ["nyt-pips-hints-answers-november-30-2026", "pips", "#1e293b", "#fca5a5", "Pips · Mon., Nov. 30, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-november-30-a"],
+  ["contexto-answer-hints-november-23-2026-1527", "contexto", "#0f172a", "#86efac", "Contexto #1527 · Mon., Nov. 23, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-23-a"],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
