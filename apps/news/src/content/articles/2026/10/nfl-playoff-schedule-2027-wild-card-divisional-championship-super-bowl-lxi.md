@@ -60,7 +60,7 @@ internalLinks:
     label: "January 2027 printable calendars"
   - href: "/february-calendars.html"
     label: "February 2027 printable calendars"
-related: [super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, printable-nfl-schedule-2026-2027-pdf, super-bowl-lxi-squares-2027]
+related: [super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, printable-nfl-schedule-2026-2027-pdf, nfl-draft-2027-dates-location-washington]
 assets:
   overlay: true
   customPrintable: "No kit draws a fill-in playoff bracket with seed lines, game boxes and a center final; the story's own generator nflBracket.ts does."
