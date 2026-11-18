@@ -109,7 +109,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-eve/"
     label: "When is Christmas Eve?"
-related: [is-christmas-eve-a-federal-holiday-2026, is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27, christmas-eve-christmas-day-2026-store-hours]
+related: [is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27, dmv-holiday-closures-2026-thanksgiving-christmas-eve-by-state, christmas-eve-christmas-day-2026-store-hours]
 downloads:
   - group: "State Offices on Christmas Eve 2026 printables"
     title: "State Offices on Christmas Eve 2026: Closed or Open by State"

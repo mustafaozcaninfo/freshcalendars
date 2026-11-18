@@ -64,7 +64,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2026 printable yearly calendar"
-related: [october-22-2026-this-day-in-history-observances, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade]
+related: [national-parks-open-thanksgiving-2026-statue-of-liberty-alcatraz, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade]
 assets:
   scene: none
   overlay: true
