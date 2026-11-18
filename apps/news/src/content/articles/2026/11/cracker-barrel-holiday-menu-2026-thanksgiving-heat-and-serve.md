@@ -88,7 +88,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [holiday-menus-2026-every-chain-tracker, restaurants-open-thanksgiving-2026-hours-by-chain, thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates]
+related: [holiday-menus-2026-every-chain-tracker, restaurants-open-thanksgiving-2026-hours-by-chain, popeyes-cajun-turkey-2026-order-pickup-only-no-shipping]
 downloads:
   - group: "Cracker Barrel Thanksgiving Heat & Serve 2026 Dates printables"
     title: "Cracker Barrel Thanksgiving Heat & Serve 2026 Dates"
