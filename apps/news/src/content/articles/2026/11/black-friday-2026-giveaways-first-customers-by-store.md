@@ -148,7 +148,7 @@ Kohl's stores are closed Thanksgiving Day and reopen at 5 a.m. local time on Fri
 
 Academy's first 100 customers in line at each location get a bonus card valued from $20 to $500 for in-store shopping from Nov. 27 through Nov. 29. JCPenney opens at 5 a.m. local time and runs "5, 9, 1, 5" surprise giveaways at 5 a.m., 9 a.m., 1 p.m. and 5 p.m. on Nov. 27; a select number of fans entering at opening get a free mini Hogwarts Express snow globe. Michaels starts handing out free advent calendars at checkout on Nov. 27, with 500 per store; one calendar in every store includes a $100 gift card, and one customer wins a $10,000 grand prize.
 
-## What has not been announced?
+## Which Black Friday giveaway details are still unannounced?
 
 - Academy's opening time on Nov. 27 (the Nov. 9 release gives none).
 - Michaels' opening time on Nov. 27 (the Nov. 10 release gives none).
