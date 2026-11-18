@@ -3,6 +3,7 @@ title: "Hollywood Christmas Parade 2026: Nov. 29 Route, CW Airs Dec. 18"
 description: "The 94th Hollywood Christmas Parade is Sunday, Nov. 29, 2026, with a 6 p.m. PT start; The CW airs it Dec. 18. Street closure times and a printable."
 type: news
 publishedAt: "2026-11-14T11:15:00-05:00"
+updatedAt: "2026-11-18T11:30:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["hollywood christmas parade 2026", "hollywood christmas parade route", "hollywood christmas parade tv", "hollywood christmas parade road closures"]
@@ -116,7 +117,7 @@ assets:
         - { start: "2026-12-24T20:00-05:00", title: "Encore on The CW", detail: "8:00-10:00 p.m. ET/PT", channel: "The CW", airing: eastern, src: 7, quote: "An encore presentation will air on Thursday, December 24 (8:00-10:00pm ET/PT)." }
       unconfirmed:
         - { label: "Official 2026 start time", why: "the organizer's pages show no 2026 time; MyNewsLA and the Beverly Press give 6 p.m." }
-        - { label: "Performers", why: "the organizer lists other 2026 performers as not yet announced" }
+        - { label: "Performers", why: "the organizer's home page lists 2026 performers as \"coming soon\"" }
     note: "Source: The Hollywood Christmas Parade (road closures 2026), MyNewsLA, Beverly Press and The CW, read Nov. 14, 2026. Parade-day times are Pacific Time."
 downloads:
   - group: "Hollywood Christmas Parade 2026 Plan printables"
@@ -144,7 +145,7 @@ draft: false
 
 The organizer's home page says the parade is "Sunday, November 29th, 2026." The 6 p.m. start comes from the two newsrooms; the Beverly Press story is dated Nov. 12 and MyNewsLA's Nov. 6. In 2025 the organizer's page also gave a 6:00 p.m. start. The parade is in Los Angeles, so the times are Pacific Time (PT). On the East Coast, the 5:30 p.m. pre-parade show is 8:30 p.m. ET and the 6 p.m. step-off is 9 p.m. ET.
 
-The CW's Oct. 27 release says Santa and his reindeer close the parade. It names Erik Estrada, Laura McKenzie and Elizabeth Stanton as hosts and adds Dean Cain as the fourth. MyNewsLA and the Beverly Press name Montel Williams instead of Cain, so the fourth host is not settled in our sources. For other holiday programming on The CW and the other networks, see our [Christmas movies on TV schedule](/news/christmas-movies-on-tv-2026-schedule-by-channel/).
+The CW's Oct. 27 release says Santa and his reindeer close the parade. It names Erik Estrada, Laura McKenzie and Elizabeth Stanton as hosts and adds Dean Cain as the fourth. MyNewsLA and the Beverly Press name Montel Williams instead of Cain, so the fourth host is not settled in our sources. The organizer's own "Meet the hosts" section shows photos labeled Elizabeth, Erik, Laura and Montel. For other holiday programming on The CW and the other networks, see our [Christmas movies on TV schedule](/news/christmas-movies-on-tv-2026-schedule-by-channel/).
 
 ## Hollywood Christmas Parade route: Hollywood Boulevard, Vine Street and Sunset Boulevard
 
@@ -194,7 +195,14 @@ The closure page says "you and your guests are encouraged to use the Metro as mu
 
 ## Who is in the 2026 Hollywood Christmas Parade?
 
-MyNewsLA and Crescenta Valley Weekly name Entertainment Tonight hosts Kevin Frazier and Nischelle Turner as co-grand marshals. The organizer's 2026 celebrities page lists Ron Cey, Reggie Smith, Kirk Hawkins, Terry Fator, Matt Iseman, The Calling, Susan Seaforth Hayes, Judi Evans, Deidre Hall and Kate Linder, along with pageant entries. Other performers are not yet announced there. The organizer says Toys for Tots is the official main charity this year.
+MyNewsLA and Crescenta Valley Weekly name Entertainment Tonight hosts Kevin Frazier and Nischelle Turner as co-grand marshals. The organizer's 2026 celebrities page lists the names below, in its order across two pages. The page gives no roles or bios here.
+
+| Page | Listed on the organizer's 2026 celebrities page |
+|---|---|
+| 1 | Frank Sheftel, Patrika Darbo, Ruta Lee, Melissa Rivers, Miss USA Justus Kelley, Kristos Andrews, James Preston, Donnell Turner, Scott Clifton, Gregori Martin, Darin Brooks, Cynthia Watros, Ron Cey, Reggie Smith, Kirk Hawkins, Terry Fator, Matt Iseman, The Calling, Susan Seaforth Hayes, Judi Evans |
+| 2 | Deidre Hall, Miss West Coast & US Worldwide Pageants, Veronika Yankovskaya, Nina Svet, Kate Linder |
+
+The organizer's home page has no 2026 musical performers named yet (read Nov. 18), so that part of the lineup is not yet announced. The organizer says Toys for Tots is the official main charity this year.
 
 ## How does 2026 compare with the 2025 parade?
 
