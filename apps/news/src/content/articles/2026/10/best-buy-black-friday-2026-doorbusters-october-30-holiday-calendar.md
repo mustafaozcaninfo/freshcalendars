@@ -86,7 +86,7 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [black-friday-2026-ad-tracker-walmart-target-best-buy, black-friday-2026-store-hours-walmart-target-best-buy, five-below-black-friday-2026-doorbusters-november-27]
+related: [black-friday-2026-ad-tracker-walmart-target-best-buy, samsung-black-friday-2026-dates-november-2-30, five-below-black-friday-2026-doorbusters-november-27]
 downloads:
   - group: "Best Buy Holiday Deals Calendar 2026 printables"
     title: "Best Buy Holiday Deals Calendar 2026"
