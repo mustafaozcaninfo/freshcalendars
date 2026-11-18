@@ -3,7 +3,7 @@ title: "Black Friday Ads 2026: Date Is Nov. 27, Walmart Deals Nov. 23-29"
 description: "Black Friday 2026 is Friday, Nov. 27. Ad tracker with Walmart, Target, Best Buy, JCPenney and Kohl's sale dates, Costco prices and a live countdown."
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
-updatedAt: "2026-11-17T11:25:00-05:00"
+updatedAt: "2026-11-18T13:25:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
@@ -267,6 +267,7 @@ These are the dated events retailers have announced so far. Unconfirmed sales ar
 | Nov. 22 to Dec. 5 | Sun. to Sat. | Dick's Sporting Goods holiday deals | - |
 | Nov. 22 to 29 | Sun. to Sun. | Target Black Friday sales event, up to 50% off thousands of gifts | - |
 | Nov. 23 to 29 | Mon. to Sun. | Walmart Black Friday Deals | - |
+| Nov. 24 | Tuesday | Ulta Beauty Black Friday wave: featured products and 800 more, online from 12:01 a.m. CT (1:01 a.m. ET) and in store from 10 a.m. local time | - |
 | Nov. 25 | Wednesday | Target Circle 360 members get 24 hours of early access to select deals, from 2 a.m. CT | - |
 | Nov. 26 | Thursday | Thanksgiving; Target, Walmart, Best Buy, Home Depot, Kohl's and Dick's stores closed; Target's new Black Friday weekend deals drop Nov. 26 to 29 | - |
 | Nov. 27 | Friday | Black Friday; Target stores reopen 6 a.m. (first 100 guests per store get a GiftCard, Deal of the Day 50% off pajamas); Best Buy stores open 6 a.m. with an in-store $100 gift card for $60 for My Best Buy members; Lowe's Doorbusters; Costco holiday savings begin (through Nov. 30) | - |
@@ -293,7 +294,7 @@ Amazon's Black Friday Week and Cyber Monday events run Nov. 19 to 30, 2026, star
 | Kohl's | Announced Oct. 30: Black Friday Early Access Nov. 6 to 8; Black Friday Week Nov. 22 to 28; Black Friday doorbusters online from 12:01 a.m. CT on Thanksgiving Day, Nov. 26; Black Friday Sweepstakes Nov. 27 to 30; Cyber Deals Nov. 29 to 30; stores closed Thanksgiving, reopen 5 a.m. local time Nov. 27 ([our Kohl's guide](/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/)) | Not confirmed here |
 | JCPenney | Announced Nov. 2: Biggest Sale of the Season Nov. 5 to 11; Really Big Deals Nov. 6 to 9, Nov. 13 to 15 and Dec. 11 to 13; 1000s of deals $20 or less Nov. 12 to Dec. 25; Holiday Daily Deals Nov. 16 to 19; Black Friday Deals Nov. 20 to 29 ("Black Friday prices for 10 days"); surprise giveaways in stores at 5 a.m., 9 a.m., 1 p.m. and 5 p.m. on Nov. 27; stores closed Thanksgiving Day, opening 5 a.m. local time on Black Friday | Not confirmed here |
 | BJ's Wholesale Club | Announced Oct. 15: Early Black Friday deals from Oct. 23, in clubs and online; Black Friday and Cyber Monday dates not in the release | Not confirmed here |
-| Ulta Beauty ([Black Friday page](https://www.ulta.com/blackfriday)) | Early Black Friday deals from Oct. 25 to Nov. 21, in store and online; Black Friday online from Nov. 21 at 8 p.m. CT (9 p.m. ET), in store Nov. 22 at 10 a.m. local time through Nov. 28; Cyber Monday online only, Nov. 29 at 12 a.m. CT (1 a.m. ET) through Dec. 1 at 2 a.m. CT (3 a.m. ET); Big Holiday Beauty Sale Nov. 29 to Dec. 24, in store and online | Not confirmed here |
+| Ulta Beauty ([Black Friday page](https://www.ulta.com/blackfriday)) | Early Black Friday deals from Oct. 25 to Nov. 21, in store and online; Black Friday online from Nov. 21 at 8 p.m. CT (9 p.m. ET), in store Nov. 22 at 10 a.m. local time through Nov. 28; a further wave of featured products and 800 more on Tue., Nov. 24, online from 12:01 a.m. CT (1:01 a.m. ET) and in store from 10 a.m. local time; sale ends Nov. 28 at 11:59 p.m. CT; Cyber Monday online only, Nov. 29 at 12 a.m. CT (1 a.m. ET) through Dec. 1 at 2 a.m. CT (3 a.m. ET); Big Holiday Beauty Sale Nov. 29 to Dec. 24, in store and online | Not confirmed here |
 | Macy's | Not yet announced | Not confirmed here |
 | Dick's Sporting Goods | Announced Nov. 10: holiday deals valid Sunday, Nov. 22, to Saturday, Dec. 5; all stores closed Thanksgiving Day; doors open 6 a.m. on Black Friday, Nov. 27. The Oct. 15 release also said distribution centers close Thanksgiving Day | Not confirmed here |
 
