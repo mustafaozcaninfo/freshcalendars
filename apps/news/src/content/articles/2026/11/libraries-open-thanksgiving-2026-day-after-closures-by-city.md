@@ -2,8 +2,8 @@
 title: "Are Libraries Open the Day After Thanksgiving 2026? 6 Cities Close"
 description: "Libraries in LA, Houston, San Diego, Dallas, SF and Austin close Fri., Nov. 27, 2026. A 12-city table runs to New Year's Day, with a printable."
 type: news
-publishedAt: "2026-11-17T18:40:00-05:00"
-updatedAt: "2026-11-17T18:40:00-05:00"
+publishedAt: "2026-11-17T19:18:00-05:00"
+updatedAt: "2026-11-17T19:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["are libraries open the day after thanksgiving 2026", "is the library open on thanksgiving", "library holiday closures 2026", "library hours black friday"]

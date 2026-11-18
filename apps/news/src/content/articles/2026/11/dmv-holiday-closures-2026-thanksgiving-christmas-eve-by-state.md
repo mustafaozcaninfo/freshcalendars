@@ -2,8 +2,8 @@
 title: "Is the DMV Open the Day After Thanksgiving 2026? 8 States Checked"
 description: "Five of seven Department of Motor Vehicles (DMV) pages list Nov. 27, 2026 as closed; Maryland reopens. A table for Nov. 26 to Dec. 25 and a printable."
 type: news
-publishedAt: "2026-11-17T18:37:00-05:00"
-updatedAt: "2026-11-17T18:37:00-05:00"
+publishedAt: "2026-11-17T19:18:00-05:00"
+updatedAt: "2026-11-17T19:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is the dmv open the day after thanksgiving 2026", "dmv holiday closures 2026", "is the dmv open christmas eve 2026", "is the dmv open black friday"]

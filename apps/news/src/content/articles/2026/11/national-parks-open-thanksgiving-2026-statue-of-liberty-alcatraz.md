@@ -2,8 +2,8 @@
 title: "National Parks Open on Thanksgiving 2026? Alcatraz, Statue Close"
 description: "Alcatraz, Ellis Island and the Statue of Liberty ferry close on Thanksgiving, Nov. 26, 2026; Grand Canyon stays open. Site-by-site table and printable."
 type: news
-publishedAt: "2026-11-17T18:50:00-05:00"
-updatedAt: "2026-11-17T18:50:00-05:00"
+publishedAt: "2026-11-17T19:18:00-05:00"
+updatedAt: "2026-11-17T19:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["are national parks open on thanksgiving 2026", "is the statue of liberty open on thanksgiving", "is alcatraz open on thanksgiving", "national parks closed thanksgiving"]
