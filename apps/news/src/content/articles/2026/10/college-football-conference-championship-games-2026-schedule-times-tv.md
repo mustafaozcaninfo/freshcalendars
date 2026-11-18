@@ -176,6 +176,8 @@ Notes on the sources: the Big 12, Pac-12, American and Sun Belt releases are all
 
 Friday, Dec. 4 has five games: Sun Belt and Conference USA at 7 p.m. ET, the Big 12 and Pac-12 at 8 p.m. ET, and the Mountain West at 9 p.m. ET. Saturday, Dec. 5 also has five: the ACC and MAC at noon ET, the SEC at 4 p.m. ET, and the American and Big Ten at 8 p.m. ET.
 
+The three Saturday games that send their champions straight to the playoff each have their own page with the kickoff in every U.S. time zone and a game-day printable: the [ACC Championship Game at noon ET in Charlotte](/news/acc-championship-game-2026-noon-et-abc-charlotte/), the [SEC Championship Game at 4 p.m. ET in Atlanta](/news/sec-championship-game-2026-date-kickoff-time-tv-atlanta/) and the [Big Ten Championship Game at 8 p.m. ET in Indianapolis](/news/big-ten-championship-game-2026-date-kickoff-time-fox-indianapolis/).
+
 Two pairs of games share a start. On Saturday, the American on ABC and the Big Ten on FOX both kick off at 8 p.m. ET. On Friday, the Big 12 on ABC and the Pac-12 on CBS both start at 8 p.m. ET.
 
 ## Where are the championship games played?
