@@ -95,7 +95,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [holiday-menus-2026-every-chain-tracker, veterans-day-free-meals-discounts]
+related: [holiday-menus-2026-every-chain-tracker, wendys-peppermint-frosty-swirl-2026-holiday-box, veterans-day-free-meals-discounts]
 draft: false
 ---
 
