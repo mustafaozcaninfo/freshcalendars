@@ -173,7 +173,7 @@ The US listing's 05:00 UTC converts like this on Wednesday, Nov. 18 and Thursday
 | Mountain Time (MT) | 10 p.m., Wed., Nov. 18 |
 | Pacific Time (PT) | 9 p.m., Wed., Nov. 18 |
 
-If the US store's moment applies to you, the West Coast gets the game on Wednesday evening, not at midnight. The listing is for the storefront, so the one to read is the one that matches your console account's store region. Whether changing a console's region unlocks the game early is not confirmed by Rockstar, Sony or Microsoft; our [New Zealand release time story](/news/gta-6-new-zealand-release-time-nz-trick/) covers it.
+If the US store's moment applies to you, the West Coast gets the game on Wednesday evening, not at midnight. The listing is for the storefront, so the one to read is the one that matches your console account's store region. Whether changing a console's region starts the game early is not confirmed by Rockstar, Sony or Microsoft; our [New Zealand release time story](/news/gta-6-new-zealand-release-time-nz-trick/) covers it.
 
 ### GTA 6 on Xbox Cloud Gaming
 
