@@ -186,6 +186,8 @@ As of Nov. 4, 2026, we found no 2026 holiday menu on an official page for Wendy'
 
 Chick-fil-A has since set its dates. Its peppermint beverages and treats, including the Peppermint Chip Milkshake, are available at participating U.S. restaurants "from November 16, 2026, through January 2, 2027, while supplies last," according to the chain's help page. Last year the milkshake returned Nov. 10, 2025. Our [Chick-fil-A peppermint milkshake 2026 story](/news/chick-fil-a-peppermint-milkshake-2026/) counts the days you can buy it.
 
+Wendy's has since launched the Peppermint Frosty Swirl and Peppermint Brownie Frosty Fusion with a Holiday Box on Nov. 16, 2026, per its release; the [Wendy's Peppermint Frosty 2026 story](/news/wendys-peppermint-frosty-swirl-2026-holiday-box/) has the lineup and the Key Tag limit.
+
 ## Dates to mark for holiday menus, Nov. 2026
 
 Starbucks' Red Cup Day, the free reusable red cup with a holiday drink, is Tuesday, Nov. 17, 2026, according to Scripps News. Cracker Barrel's Thanksgiving Heat & Serve pickup runs Nov. 21 through Nov. 29, per its release, and Thanksgiving is Thursday, Nov. 26. Print a [November 2026 calendar](/november-calendars.html) or a [December 2026 calendar](/december-calendars.html) to mark them.
