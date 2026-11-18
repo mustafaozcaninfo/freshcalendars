@@ -1,9 +1,9 @@
 ---
-title: "GTA 6 Release Date: Nov. 19, Pre-Load Nov. 10, $79.99 Price"
-description: "Grand Theft Auto (GTA) VI comes out Thursday, Nov. 19, 2026, for $79.99. Pre-load opens Nov. 10, and every official date until launch is listed."
+title: "GTA 6 Release Date Is Nov. 19: Launch Times, Price, 212 GB"
+description: "Grand Theft Auto (GTA) VI launches Thursday, Nov. 19, 2026, from $79.99. Midnight local time on PS5, 1 a.m. ET on Xbox Cloud Gaming, 212 GB, no disc."
 type: news
 publishedAt: "2026-10-20T15:00:00-04:00"
-updatedAt: "2026-11-06T07:20:00-05:00"
+updatedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["GTA 6 October 22", "GTA 6 release date", "GTA 6 preload date", "GTA 6 news this week", "GTA 6 countdown"]
@@ -12,34 +12,50 @@ hero:
   src: ../../../../assets/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/gta-6-october-22-2026-what-is-confirmed-release-countdown.jpg
   alt: "GTA 6 countdown: a calendar page for Thursday, Oct. 22 over a neon sunset, beside a card reading launch Thursday, Nov. 19"
   title: "GTA 6: what is confirmed before the Nov. 19 launch"
-  caption: "Grand Theft Auto VI launches Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. Pre-loading opened Nov. 10."
+  caption: "Grand Theft Auto VI launches Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S. Pre-loading opened Nov. 10."
 summary:
-  - "Rockstar's Grand Theft Auto VI page still lists the Thursday, Nov. 19, 2026 launch as of Nov. 13, six days out. Its latest GTA VI post, on Tuesday, Nov. 10, said pre-load is open; the 30-track score album by Justice is out Dec. 11."
-  - "Confirmed by Take-Two Interactive: launch on Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S for $79.99, or $99.99 for the Ultimate Edition."
-  - "Pre-orders have been able to pre-load since Tuesday, Nov. 10; PlayStation says to clear at least 212GB on a PlayStation 5. The boxed edition, which holds a download code and no disc, was set to go on sale Nov. 12."
-  - "Take-Two reported quarterly results on Nov. 9, its last report before launch, and called launch ten days away. Rockstar has not announced a PC version."
+  - "Grand Theft Auto VI launches tomorrow, Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S, for $79.99 (Standard) or $99.99 (Ultimate)."
+  - "PlayStation says it releases at midnight local time on PS5; Microsoft says Xbox Cloud Gaming starts at 1 a.m. Eastern Time (ET). YouTube's 24-hour stream starts at 12 a.m. ET, after an 11 p.m. ET pre-show on Nov. 18."
+  - "PS5 needs 212 GB of free space. The boxed edition holds a download code and no disc. The Entertainment Software Rating Board (ESRB) rates it M for Mature 17+."
+  - "Not announced: a PC version, an Xbox console release hour, Xbox install size and any online mode date."
 faq:
   - q: "Did GTA 6 change its release date?"
-    a: "No. Rockstar's official Grand Theft Auto VI page still lists the Thursday, Nov. 19, 2026 launch as of Nov. 13, and the PlayStation Store price of $79.99 is unchanged. Take-Two's Nov. 9 results release repeated the Nov. 19 date. Rockstar's newest GTA VI post, on Nov. 10, said pre-load is open and did not touch the date."
+    a: "No. Rockstar's official Grand Theft Auto VI page reads \"Coming November 19, 2026,\" and PlayStation, Microsoft and Take-Two Interactive all repeat Nov. 19. The Oct. 22 reveal day did not touch it."
   - q: "When does GTA 6 come out?"
-    a: "Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S, according to Rockstar Games and Take-Two Interactive."
-  - q: "When can I pre-load GTA 6?"
-    a: "Now, if you pre-ordered. Pre-load opened Tuesday, Nov. 10, 2026, according to Rockstar's game page and the PlayStation Store, which says PlayStation 5 pre-load starts at midnight local time. Game Informer and Final Weapon, both citing Rockstar's support page on Nov. 3, report that Xbox Series X|S pre-load started at 12 a.m. Greenwich Mean Time (GMT) on Nov. 10, which is 7 p.m. Eastern Time (ET) on Monday, Nov. 9 (4 p.m. Pacific Time, PT). Rockstar's own pages do not give an Xbox hour."
+    a: "Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S, according to Rockstar Games and Take-Two Interactive. PlayStation says midnight local time on PS5."
+  - q: "What time does GTA 6 release?"
+    a: "PlayStation says \"Grand Theft Auto VI releases at midnight local time on November 19, 2026, on PlayStation 5 consoles.\" Xbox Cloud Gaming starts at 1 a.m. ET on Nov. 19 (12 a.m. CT, 11 p.m. MT and 10 p.m. PT on Nov. 18), per Microsoft. An official release hour for Xbox consoles is not announced."
+  - q: "When could I pre-load GTA 6?"
+    a: "Pre-load opened Tuesday, Nov. 10, 2026, for those who pre-ordered, according to Rockstar and PlayStation, which says PS5 pre-load started at midnight local time. Game Informer and Final Weapon, both citing Rockstar's support page on Nov. 3, report that Xbox Series X|S pre-load started at 12 a.m. Greenwich Mean Time (GMT) on Nov. 10, which was 7 p.m. ET on Monday, Nov. 9. Rockstar's own pages do not give an Xbox hour."
+  - q: "How big is GTA 6 on PS5?"
+    a: "PlayStation says to have 212 GB of storage space available on PS5. The Xbox Series X|S install size is not confirmed."
   - q: "How much does GTA 6 cost?"
-    a: "$79.99 for the standard edition and $99.99 for the Ultimate Edition in the U.S. Pre-orders and purchases made before Nov. 20 include the Vintage Vice City Pack, and digital pre-orders add a free month of GTA+, Rockstar's subscription."
+    a: "$79.99 for the Standard Edition and $99.99 for the Ultimate Edition in the U.S. Purchases made before Nov. 20 include the Vintage Vice City Pack. Microsoft says the Ultimate Edition bonus of one month of GTA+ needs a purchase before 11:59:59 p.m. on Nov. 19."
   - q: "Does the GTA 6 physical edition come with a disc?"
-    a: "No. The physical version contains a download code inside the box, and Take-Two said it goes on sale Nov. 12. Final Weapon reported code-in-box editions should be at retailers from Nov. 12."
+    a: "No. PlayStation says the physical (code-in-box) version contains only a game download code to support pre-load and no disc. Take-Two said the boxed edition would be available from Nov. 12."
   - q: "When does the GTA 6 soundtrack come out?"
     a: "There are two albums. Grand Theft Auto VI: The Album, 34 original songs made with Atlantic Records, arrives Nov. 19 with the game. Grand Theft Auto VI: Original Score, 30 tracks by the French duo Justice, follows on Friday, Dec. 11, on streaming services, CD and vinyl."
   - q: "Is GTA 6 coming to PC?"
     a: "Rockstar has not announced a PC version or date. The confirmed platforms are PlayStation 5 and Xbox Series X|S."
   - q: "What is GTA 6 rated?"
-    a: "M for Mature 17+ by the Entertainment Software Rating Board, for blood and gore, intense violence, mature humor, nudity, strong language, strong sexual content and use of drugs and alcohol, with in-game purchases."
+    a: "M for Mature 17+ by the ESRB, for blood and gore, intense violence, mature humor, nudity, strong language, strong sexual content and use of drugs and alcohol, with in-game purchases."
 sources:
   - title: "Grand Theft Auto VI - PS5 Games | PlayStation (US)"
     url: "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
     publisher: "PlayStation"
-    date: "2026-11-13"
+    date: "2026-11-18"
+  - title: "Grand Theft Auto VI support (UK)"
+    url: "https://www.playstation.com/en-gb/support/games/gta-vi-support/"
+    publisher: "PlayStation"
+    date: "2026-11-18"
+  - title: "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19"
+    url: "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+    publisher: "Xbox Wire (Microsoft)"
+    date: "2026-11-10"
+  - title: "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI"
+    url: "https://blog.youtube/news-and-events/youtube-rockstar-games-gta-vi-launch/"
+    publisher: "YouTube Official Blog"
+    date: "2026-11-12"
   - title: "You Can Preload Grand Theft Auto VI On PS5 And Xbox Next Week"
     url: "https://gameinformer.com/2026/11/03/you-can-preload-grand-theft-auto-vi-on-ps5-and-xbox-next-week-and-youll-want-to-because"
     publisher: "Game Informer"
@@ -102,6 +118,7 @@ sources:
   - title: "Grand Theft Auto VI rating"
     url: "https://www.esrb.org/ratings/41627/grand-theft-auto-vi/"
     publisher: "Entertainment Software Rating Board"
+    date: "2026-11-18"
   - title: "October 22 is Officially a Big Day for GTA 6"
     url: "https://opencritic.com/news/38082/october-22-is-officially-a-big-day-for-gta-6"
     publisher: "GameRant via OpenCritic"
@@ -116,7 +133,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly planner"
-related: [gta-6-countdown-release-time-by-time-zone, usps-holiday-shipping-deadlines-2026]
+related: [gta-6-countdown-release-time-by-time-zone, gta-6-physical-copy-no-disc-code-in-box, gta-6-price-editions-standard-ultimate-upgrade]
 downloads:
   - group: "GTA 6 printables"
     title: "GTA 6 Countdown Calendar, Oct. 18-Nov. 21, 2026"
@@ -129,28 +146,37 @@ downloads:
 draft: false
 ---
 
-**The Grand Theft Auto (GTA) VI release date is Thursday, Nov. 19, 2026, on PlayStation 5 (PS5) and Xbox Series X|S, per Rockstar's official game page (checked Nov. 13, 2026).** Pre-loading opened Tuesday, Nov. 10, for those who pre-ordered, and the standard edition costs $79.99. The newest Rockstar post, on Tuesday, Nov. 10, said pre-load is open; its second soundtrack album, the game's original score by Justice, is due Dec. 11. Rockstar has not said when the game unlocks on Nov. 19. No PC date either. Below is everything official, with every date until launch. For the hour the game unlocks where you live, see our [GTA 6 countdown and release time by time zone](/news/gta-6-countdown-release-time-by-time-zone/).
+**The Grand Theft Auto (GTA) VI release date is Thursday, Nov. 19, 2026, tomorrow, on PlayStation 5 (PS5) and Xbox Series X|S.** PlayStation says it "releases at midnight local time on November 19, 2026," Microsoft says Xbox Cloud Gaming starts at 1 a.m. Eastern Time (ET), and the Standard Edition costs $79.99. Pre-loading opened Tuesday, Nov. 10, and PS5 needs 212 GB of free space. Rockstar has not announced a PC version. Below is each confirmed fact with its source, then the dates that led here, including the Oct. 22 reveal day this story was first written around. For the hour the game releases where you live, see our [GTA 6 countdown and release time by time zone](/news/gta-6-countdown-release-time-by-time-zone/).
 
-## What Rockstar and Take-Two have confirmed
+## What is confirmed for Nov. 19
 
-These come from Take-Two Interactive's pre-order announcement of June 24, 2026, its Nov. 9 results release, and Rockstar's official game page and the PlayStation Store as of Nov. 13.
+Sources are Take-Two Interactive's pre-order announcement, PlayStation's support and game pages (read Nov. 18), Microsoft's Xbox Wire, YouTube's blog, Rockstar's game page and the Entertainment Software Rating Board (ESRB).
 
-| Item | Confirmed detail |
-|---|---|
-| Launch | Thursday, Nov. 19, 2026 |
-| Platforms | PlayStation 5 and Xbox Series X\|S |
-| Price | $79.99; Ultimate Edition $99.99 |
-| Pre-load | Open since Tue., Nov. 10 for pre-orders; at least 212GB free on PS5 (PlayStation Store) |
-| Boxed edition | Set to go on sale Thu., Nov. 12 (Take-Two); a download code in the box, no disc |
-| Pre-order bonus | Vintage Vice City Pack with any purchase before Nov. 20; a free month of GTA+ with digital pre-orders |
-| Stores | PlayStation Store, Microsoft Store, Rockstar Games Store and retailers |
-| Rating | M for Mature 17+ (Entertainment Software Rating Board) |
+| Item | Confirmed detail | Source |
+|---|---|---|
+| Launch | Thursday, Nov. 19, 2026 | Rockstar Games, Take-Two |
+| Platforms | PS5 and Xbox Series X\|S; Xbox One and Series X\|S through Xbox Cloud Gaming | Rockstar Games, Microsoft |
+| Price | $79.99 Standard; $99.99 Ultimate Edition | Take-Two, PlayStation Store |
+| Release time, PS5 | Midnight local time on Nov. 19 | PlayStation |
+| Release time, Xbox Cloud Gaming | 1 a.m. ET, Nov. 19 | Microsoft (Xbox Wire) |
+| YouTube stream | 24 hours from 12 a.m. ET on Nov. 19; pre-show at 11 p.m. ET on Wed., Nov. 18 | YouTube |
+| PS5 download | 212 GB of storage space | PlayStation |
+| Boxed edition | A download code inside the box and no disc; on sale from Nov. 12 per Take-Two | PlayStation, Take-Two |
+| Pre-order bonus | Vintage Vice City Pack with any purchase before Nov. 20 | Take-Two |
+| Rating | M for Mature 17+ ([what the rating covers and console parental controls](/news/gta-6-age-rating-esrb-m-17-parental-controls/)) | ESRB |
 
-The Ultimate Edition adds premium vehicles, weapons, apparel and other items, Take-Two said. GTA+ is Rockstar's paid membership for GTA Online, and its games library includes Grand Theft Auto V. Rockstar's page lists the game as playing best on PlayStation 5.
+- **Release time.** PlayStation's wording: "Grand Theft Auto VI releases at midnight local time on November 19, 2026, on PlayStation®5 consoles." Midnight arrives first in New Zealand; our [New Zealand release time story](/news/gta-6-new-zealand-release-time-nz-trick/) covers the order and the region question. Microsoft's Xbox Wire post says "Streaming for Grand Theft Auto VI begins at 1am ET on November 19," which is 12 a.m. Central, 11 p.m. Mountain and 10 p.m. Pacific on Nov. 18.
+- **Platforms.** Rockstar lists PS5 and Xbox Series X|S. Microsoft says the game is playable on day one through Xbox Cloud Gaming on Xbox One and Xbox Series X|S; see [Xbox One cloud gaming and the platform list](/news/gta-6-xbox-one-cloud-gaming-ps4-platforms/).
+- **Price.** Take-Two lists the Standard Edition at $79.99 and the Ultimate Edition at $99.99; [editions and the upgrade price](/news/gta-6-price-editions-standard-ultimate-upgrade/) are in their own story.
+- **Download.** PlayStation says to have 212 GB available on PS5; [the download size and what to do about a stuck pre-load](/news/gta-6-download-size-212-gb-ps5-pre-load-install-fix/) are covered there.
+- **Boxed edition.** PlayStation says "A disc will not be included in the box." See [GTA 6 physical copy: code in the box](/news/gta-6-physical-copy-no-disc-code-in-box/).
+- **YouTube.** YouTube's stream runs 24 hours from 12 a.m. ET on Nov. 19, with a pre-show hosted by RDCWorld at 11 p.m. ET on Nov. 18. It is YouTube's own stream; Rockstar has not announced a launch stream of its own. Times are in our [YouTube launch stream story](/news/gta-6-youtube-launch-livestream-time-24-hour-stream/).
+
+The Ultimate Edition adds premium vehicles, weapons, apparel and other items, Take-Two said. GTA+ is Rockstar's paid membership for GTA Online, and its games library includes Grand Theft Auto V. Digital pre-orders added a free month of GTA+.
 
 ## The Thursday pattern so far
 
-Rockstar's late-summer and fall announcements have mostly landed on Thursdays, though not every Thursday. The dated ones we could confirm on Rockstar's Newswire and the PlayStation Blog:
+Rockstar's late-summer and fall announcements mostly landed on Thursdays, though not every Thursday. The dated ones we confirmed on Rockstar's Newswire and the PlayStation Blog:
 
 | Date | What came out |
 |---|---|
@@ -163,7 +189,7 @@ Rockstar's late-summer and fall announcements have mostly landed on Thursdays, t
 | Thu., Oct. 22 | No GTA VI post on the Rockstar Newswire |
 | Thu., Oct. 29 | "Grand Theft Auto VI: Original Score" by Justice, out Dec. 11, and its single "Pusher" featuring Gesaffelstein |
 
-Rockstar also sells a collector's box called The Goodtime State, Vice City Collection. The one Thursday left is Nov. 19, launch day; the boxed edition was due on Nov. 12.
+Rockstar also sells a collector's box called The Goodtime State, Vice City Collection. The last Thursday on the list is Nov. 19, launch day; the boxed edition was due on Nov. 12.
 
 ## The GTA 6 score album by Justice
 
@@ -176,32 +202,40 @@ Rockstar's Oct. 29 post names Justice, the Grammy-winning French duo of Gaspard 
 
 The September album announcement opened with six singles, from artists including Travis Scott, Morgan Wallen and Rauw Alejandro.
 
-## What a Thursday reveal could and could not mean
+## What the Oct. 22 date was, and what it was not
 
-Nobody outside Rockstar knows what, if anything, lands on a given Thursday. The company has not teased the next reveal, and reports rest on the pattern, not on any announcement. Past Thursdays brought trailers, music and merchandise rather than changes to the date or price, and Take-Two's Aug. 7 and Nov. 9 earnings releases both repeated the Nov. 19 launch.
+Oct. 22 was a Thursday that readers expected to bring a reveal. Rockstar posted nothing about GTA VI on its Newswire that day, and the launch date and price did not change. Past Thursdays brought trailers, music and merchandise rather than changes to the date or price, and Take-Two's Aug. 7 and Nov. 9 earnings releases both repeated the Nov. 19 launch. Nobody outside Rockstar announced what Oct. 22 would hold, and the reports before it rested on the Thursday pattern.
 
-If something does arrive, it will be on the Rockstar Newswire and the game's official site first. Unofficial "release time" claims circulate online; Rockstar's game page gives no hour for pre-loading or launch. PlayStation's store page gives midnight local time for PS5 pre-load, and the Xbox hour comes from two newsrooms, Game Informer and Final Weapon, citing Rockstar's support page; treat any exact launch time that is not on a Rockstar or console-store page as unconfirmed.
+New facts will appear on the Rockstar Newswire and the game's official site first. Rockstar's game page gives no launch hour. PlayStation gives midnight local time and Microsoft gives 1 a.m. ET for Xbox Cloud Gaming; the Xbox pre-load hour came from two newsrooms, Game Informer and Final Weapon, citing Rockstar's support page. Treat any exact launch time that is not on a Rockstar, PlayStation or Microsoft page as unconfirmed.
 
 ## Every date until launch
 
-| Date | What happens |
-|---|---|
-| Sun., Nov. 1 | Clocks fall back one hour in the U.S. |
-| Mon., Nov. 9 | Take-Two reported quarterly results and repeated the Nov. 19 launch |
-| Tue., Nov. 10 | Pre-loading opened for pre-orders (PS5 at midnight local time, per PlayStation; Xbox Series X\|S at 12 a.m. GMT, 7 p.m. ET Mon., Nov. 9, per Game Informer and Final Weapon) |
-| Thu., Nov. 12 | Boxed edition (a download code, no disc) due on sale, per Take-Two |
-| Thu., Nov. 19 | Launch on PlayStation 5 and Xbox Series X\|S; the album and the DualSense controllers also arrive |
-| Fri., Nov. 20 | Purchases from this day on no longer include the Vintage Vice City Pack |
-| Fri., Dec. 11 | "Grand Theft Auto VI: Original Score" by Justice on streaming, CD and vinyl |
+| Date | What happens | Status |
+|---|---|---|
+| Thu., Oct. 22 | No GTA VI post on the Rockstar Newswire | Past |
+| Sun., Nov. 1 | Clocks fell back one hour in the U.S. | Past |
+| Mon., Nov. 9 | Take-Two reported quarterly results and repeated the Nov. 19 launch | Past |
+| Tue., Nov. 10 | Pre-loading opened for pre-orders (PS5 at midnight local time, per PlayStation; Xbox Series X\|S at 12 a.m. GMT, 7 p.m. ET Mon., Nov. 9, per Game Informer and Final Weapon) | Past |
+| Thu., Nov. 12 | Boxed edition (a download code, no disc) was due on sale, per Take-Two | Past |
+| Wed., Nov. 18, 11 p.m. ET | YouTube pre-show starts | Tonight |
+| Thu., Nov. 19, 12 a.m. ET | YouTube's 24-hour stream starts; PS5 release at midnight local time | Tomorrow |
+| Thu., Nov. 19, 1 a.m. ET | Xbox Cloud Gaming starts | Tomorrow |
+| Thu., Nov. 19 | Launch on PS5 and Xbox Series X\|S; the album and the DualSense controllers also arrive | Tomorrow |
+| Fri., Nov. 20 | Purchases from this day on no longer include the Vintage Vice City Pack | Upcoming |
+| Fri., Dec. 11 | "Grand Theft Auto VI: Original Score" by Justice on streaming, CD and vinyl | Upcoming |
 
 The Nov. 9 report covered the quarter that ended Sept. 30 and was Take-Two's last before launch; it reiterated Take-Two's Fiscal 2027 Net Bookings outlook of $8 billion to $8.2 billion. Thanksgiving falls a week after release, on Nov. 26; our [Thanksgiving 2026 guide](/news/why-thanksgiving-2026-is-november-26/) has what is closed that day.
 
 ## What is not confirmed
 
-- **A PC version.** Rockstar has not announced one, and Take-Two's August lineup lists only PlayStation 5 and Xbox Series X|S. Some outlets have reported a later PC release based on unnamed sources; Rockstar has not commented on them.
-- **A start time for launch.** Rockstar's pages give the Nov. 19 date only. The Xbox pre-load hour came from two newsrooms, not from Rockstar's pages.
-- **Download size on Xbox.** The PlayStation Store asks for a minimum of 212GB of free space on a PS5. Check the Microsoft Store listing for Xbox Series X|S, since the boxed edition also downloads the game.
+- **A PC version.** Rockstar has not announced one, and Take-Two's results release lists only PS5 and Xbox Series X|S. Some outlets have reported a later PC release based on unnamed sources; Rockstar has not commented on them. How long Rockstar's last two releases took to reach PC is in our [GTA 6 PC release date](/news/gta-6-pc-release-date-rockstar-console-first/) story.
+- **A single worldwide release moment.** None is announced; PlayStation says midnight local time.
+- **An Xbox console release hour.** Microsoft gives only 1 a.m. ET for Xbox Cloud Gaming.
+- **Whether changing a console's region starts the game early.** Rockstar, Sony and Microsoft have not confirmed it.
+- **Xbox Series X|S install size and any day-one patch size.** The only confirmed size is PlayStation's 212 GB minimum for PS5.
+- **GTA Online or any online mode date.** PlayStation's page calls GTA VI a single-player experience. Game Pass and PlayStation Plus inclusion are not announced either; Microsoft says the game must be purchased separately.
+- **Frame rate and resolution, the review embargo time, midnight store openings at retailers and prices outside the U.S.** None is announced on the pages we read.
 
 ## Plan the countdown
 
-Our free countdown calendar runs from Oct. 18 to Nov. 21 with the days left in every box and the confirmed dates marked. Pin it next to an [October](/october-calendars.html) or [November 2026 printable calendar](/november-calendars.html), or plan the launch week on a [weekly planner](/printable-weekly-calendar.html). For everything else on the calendar this month, see our [November 2026 important dates](/news/november-2026-important-dates-days-until/), and if you are shipping a controller or a copy as a gift, check the [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/). Our [November 2026 video game releases](/news/video-game-release-dates-november-2026-gta-6-ocarina-of-time/) guide lists every confirmed launch this month.
+Our free countdown calendar ran from Oct. 18 to Nov. 21 with the days left in every box and the confirmed dates marked. Pin it next to an [October](/october-calendars.html) or [November 2026 printable calendar](/november-calendars.html), or plan the launch week on a [weekly planner](/printable-weekly-calendar.html). For everything else on the calendar this month, see our [November 2026 important dates](/news/november-2026-important-dates-days-until/), and if you are shipping a controller or a copy as a gift, check the [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/). Our [November 2026 video game releases](/news/video-game-release-dates-november-2026-gta-6-ocarina-of-time/) guide lists every confirmed launch this month.

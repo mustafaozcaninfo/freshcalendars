@@ -1,9 +1,9 @@
 ---
 title: "Video Game Release Dates November 2026: GTA 6 on Nov. 19"
-description: "Grand Theft Auto (GTA) VI launches Thu., Nov. 19, 2026, says Rockstar Games, and pre-load is open. Eight November games by weekday, plus a printable."
+description: "Grand Theft Auto (GTA) VI launches Thu., Nov. 19, 2026, at midnight local time on PS5. Eight November games by weekday, plus a printable."
 type: news
 publishedAt: "2026-10-31T14:23:00-04:00"
-updatedAt: "2026-11-14T15:07:00-05:00"
+updatedAt: "2026-11-18T05:26:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["video game release dates november 2026", "new games november 2026", "games coming out november 2026", "gta 6 release date november 19"]
@@ -47,10 +47,10 @@ summary:
   - "Eight games have a November 2026 date on the publisher's own page, from World of Warcraft: Forever on Wednesday, Nov. 4 to Grand Theft Auto VI on Thursday, Nov. 19."
   - "Thursday, Nov. 12 has three releases: Metaphor: ReFantazio, Pikmin 4 Nintendo Switch 2 Edition and Sonic Pico Park."
   - "Blizzard said World of Warcraft: Forever would launch worldwide at 3:00 p.m. Pacific Standard Time (PST), which is 6 p.m. Eastern Time (ET), and it is now live."
-  - "Rockstar Games lists Grand Theft Auto VI for Nov. 19 and has opened pre-load, but its pages we read give no launch time or price."
+  - "Grand Theft Auto VI launches Nov. 19 at midnight local time on PlayStation 5, which needs 212 GB; Xbox Cloud Gaming starts at 1 a.m. ET. Pre-load opened Nov. 10."
 faq:
   - q: "When does Grand Theft Auto VI come out?"
-    a: "Rockstar Games lists Grand Theft Auto VI for Thursday, Nov. 19, 2026 on PlayStation 5 and Xbox Series X|S. Rockstar has opened pre-load, and the pages we read give no launch time or price."
+    a: "Thursday, Nov. 19, 2026, on PlayStation 5 and Xbox Series X|S, per Rockstar Games. PlayStation says it releases at midnight local time on PS5 and needs 212 GB of storage space. Microsoft says Xbox Cloud Gaming starts at 1 a.m. ET. Pre-load opened Nov. 10."
   - q: "When does Ocarina of Time come out on Nintendo Switch 2?"
     a: "It was set for Thursday, Nov. 5, 2026, and Nintendo's US store page now reads \"Available now.\""
   - q: "What time did World of Warcraft: Forever launch?"
@@ -58,6 +58,18 @@ faq:
   - q: "Is The Binding of Isaac: Repentance+ Online in the table?"
     a: "No. Gematsu reported Nov. 19 on Aug. 18, 2026, but we found no publisher page, so it stays out until one confirms it."
 sources:
+  - title: "Grand Theft Auto VI support (UK)"
+    url: "https://www.playstation.com/en-gb/support/games/gta-vi-support/"
+    publisher: "PlayStation"
+    date: "2026-11-18"
+  - title: "Grand Theft Auto VI - PS5 Games | PlayStation (US)"
+    url: "https://www.playstation.com/en-us/games/grand-theft-auto-vi/"
+    publisher: "PlayStation"
+    date: "2026-11-18"
+  - title: "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19"
+    url: "https://news.xbox.com/en-us/2026/11/10/grand-theft-auto-6-comes-to-xbox-cloud-gaming-november-19/"
+    publisher: "Xbox Wire (Microsoft)"
+    date: "2026-11-10"
   - title: "Grand Theft Auto VI"
     url: "https://www.rockstargames.com/VI"
     publisher: "Rockstar Games"
@@ -129,7 +141,7 @@ Blizzard said World of Warcraft: Forever would launch worldwide at 3:00 p.m. Pac
 
 ## When is Grand Theft Auto VI out, and what has Rockstar not said?
 
-Rockstar's game page reads "Coming November 19, 2026," and its newswire article is titled "Grand Theft Auto VI is Now Set to Launch November 19, 2026." The platforms are PS5 and Xbox Series X|S. Rockstar opened pre-load on Nov. 10, according to the headline of its newswire post, "Pre-Load Grand Theft Auto VI Now." The Rockstar pages we read give no launch time and no price. Our [GTA 6 countdown by time zone](/news/gta-6-countdown-release-time-by-time-zone/) tracks the days left, and [what is confirmed for the game](/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/) covers the rest.
+Rockstar's game page reads "Coming November 19, 2026," and its newswire article is titled "Grand Theft Auto VI is Now Set to Launch November 19, 2026." The platforms are PS5 and Xbox Series X|S. PlayStation says the game "releases at midnight local time on November 19, 2026" on PS5 and asks for 212 GB of storage space, and Microsoft says Xbox Cloud Gaming starts at 1 a.m. ET on Nov. 19. Rockstar opened pre-load on Nov. 10, according to the headline of its newswire post, "Pre-Load Grand Theft Auto VI Now." An official release hour for Xbox consoles is not announced. Our [GTA 6 countdown by time zone](/news/gta-6-countdown-release-time-by-time-zone/) has the zone table, [what is confirmed for the game](/news/gta-6-october-22-2026-what-is-confirmed-release-countdown/) covers the rest, and the [download size story](/news/gta-6-download-size-212-gb-ps5-pre-load-install-fix/) and [New Zealand release time story](/news/gta-6-new-zealand-release-time-nz-trick/) go deeper on the 212 GB file and who gets the game first.
 
 ## Which November 2026 releases share a day?
 
