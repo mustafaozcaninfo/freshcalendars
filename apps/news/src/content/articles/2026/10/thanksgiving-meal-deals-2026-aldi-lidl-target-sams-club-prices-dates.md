@@ -80,7 +80,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [thanksgiving-dinner-cost-2026-farm-bureau-survey-turkey-price, when-to-thaw-thanksgiving-turkey-2026, thanksgiving-2026-planner-countdown-checklist]
+related: [thanksgiving-dinner-cost-2026-farm-bureau-survey-turkey-price, when-to-thaw-thanksgiving-turkey-2026, baskin-robbins-holiday-menu-2026-turkey-cake]
 assets:
   scene: thanksgiving
   overlay: true
