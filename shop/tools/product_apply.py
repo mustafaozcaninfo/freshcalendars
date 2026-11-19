@@ -104,12 +104,14 @@ def main(folder, apply):
         p = P[d['id']]; c = cats.get(str(d['id'])) or p['categories'][0]
         payload = {'title': text(d['title']), 'link_title': text(d['link_title']), 'subtitle': text(d['subtitle']), 'meta_title': text(d['meta_title']), 'meta_description': text(d['meta_description']),
                    'summary': text(d['summary']), 'highlights': [text(x) for x in d['highlights']], 'content': body(d, p, c['slug'], c['title'], read_on), 'enabled': True}
-        s, r = call('PATCH', f"products/{d['id']}", payload)
+        try: s, r = call('PATCH', f"products/{d['id']}", payload)
+        except Exception as e: s, r = 0, {'error': repr(e)}   # a dropped connection must not lose the log
         log.append({'id': d['id'], 'status': s, 'slug': (r.get('data') or {}).get('slug') if s == 200 else str(r)[:200], 'cat': c['slug']})
+        if len(log) % 20 == 0: json.dump(log, open(lp, 'w'), indent=1)
         time.sleep(1.05)
     json.dump(log, open(lp, 'w'), indent=1)
     print('written and enabled', sum(1 for l in log if l['status'] == 200), '| errors', [l for l in log if l['status'] != 200][:5])
-    call('POST', 'store/clear-cache')
+    # no cache clear here: clearing it during a long batch left every page cold and the site answered 502 (Nov. 19, 2026)
 
 
 if __name__ == '__main__':
