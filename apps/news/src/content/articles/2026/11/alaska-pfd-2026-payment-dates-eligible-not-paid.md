@@ -1,8 +1,9 @@
 ---
 title: "Alaska PFD 2026 Payment Dates: Nov. 19, Dec. 17 and Jan. 21"
-description: "The next Permanent Fund Dividend (PFD) payment is Thu., Nov. 19, $1,200, for applications Eligible-Not Paid on Nov. 11. Cutoff table and printable."
+description: "The Permanent Fund Dividend (PFD) payment goes out today, Thu., Nov. 19: $1,200 for applications Eligible-Not Paid on Nov. 11. Cutoff table and printable."
 type: news
 publishedAt: "2026-11-13T16:16:00-05:00"
+updatedAt: "2026-11-19T01:43:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["pfd payment dates 2026", "alaska pfd eligible not paid", "when is the next pfd payment", "pfd 2026 amount"]
@@ -18,10 +19,10 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:210103_Snowy_capitol.jpg"
     author: "James Brooks"
 summary:
-  - "The Alaska Permanent Fund Dividend Division says applications in \"Eligible-Not Paid\" status on Wed., Nov. 11, 2026 are paid Thu., Nov. 19. The next cutoffs are Dec. 9 (payment Dec. 17) and Jan. 13, 2027 (payment Jan. 21)."
+  - "The Alaska Permanent Fund Dividend Division says applications in \"Eligible-Not Paid\" status on Wed., Nov. 11, 2026 are paid today, Thu., Nov. 19. The next cutoffs are Dec. 9 (payment Dec. 17) and Jan. 13, 2027 (payment Jan. 21)."
   - "The 2026 dividend is $1,200: $1,000 plus a $200 energy relief payment, set by the Legislature in House Bill 263."
-  - "Paper checks are mailed from Juneau starting Oct. 22, 2026. The division has not posted later mailing dates."
-  - "Payment dates after Jan. 21, 2027 are not announced. The division is closed Thu., Nov. 26 and Fri., Nov. 27 and reopens Mon., Nov. 30 at 10 a.m."
+  - "Paper checks were mailed from Juneau starting Oct. 22, 2026. The division has not posted later mailing dates."
+  - "Payment dates after Jan. 21, 2027 are not announced. The division is closed Thu., Nov. 26 and closed to the public Fri., Nov. 27, and reopens Mon., Nov. 30 at 10 a.m."
 faq:
   - q: "Where do I see my Alaska PFD status?"
     a: "Sign in to myPFD, the division's online account. The division says you may check the status of your application there at any time, and the application search asks for a Social Security number, date of birth and driver's license number."
@@ -43,7 +44,7 @@ sources:
   - title: "Department of Revenue Announces 2026 Permanent Fund Dividend"
     url: "https://dor.alaska.gov/department-of-revenue/news-detail/2026/09/28/department-of-revenue-announces-2026-permanent-fund-dividend-amount"
     publisher: "Alaska Department of Revenue"
-    date: "2026-09-18"
+    date: "2026-09-28"
   - title: "PFD FAQ"
     url: "https://pfd.alaska.gov/FAQ"
     publisher: "Alaska Department of Revenue, Permanent Fund Dividend Division"
@@ -136,19 +137,19 @@ downloads:
     pages: 1
 ---
 
-**The Alaska Permanent Fund Dividend Division says the next 2026 dividend payment is Thursday, Nov. 19, for applications in "Eligible-Not Paid" status on Wednesday, Nov. 11.** The 2026 amount is $1,200, which the division's home page says includes a $200 energy relief payment. After Nov. 19 the posted dates are Thu., Dec. 17 for status on Dec. 9, and Thu., Jan. 21, 2027 for status on Jan. 13, 2027. The division has not posted dates after that.
+**The Alaska Permanent Fund Dividend Division says the 2026 dividend payment goes out today, Thursday, Nov. 19, for applications in "Eligible-Not Paid" status on Wednesday, Nov. 11.** The 2026 amount is $1,200, which the division's home page says includes a $200 energy relief payment. After Nov. 19 the posted dates are Thu., Dec. 17 for status on Dec. 9, and Thu., Jan. 21, 2027 for status on Jan. 13, 2027. The division has not posted dates after that.
 
 The cutoff table below adds the weekday and the days between cutoff and payment (our calculation from the division's dates). A one-page sheet is at the end.
 
 ## PFD 2026 payment dates by status cutoff
 
-The Department of Revenue's Sept. 18, 2026 release set the first two payments, and the division's home page lists the rest. Each row reads "if your application is in Eligible-Not Paid status on the cutoff date, payment is on the payment date."
+The Department of Revenue's release, datelined Friday, Sept. 18, 2026, set the first two payments, and the division's home page lists the rest. Each row reads "if your application is in Eligible-Not Paid status on the cutoff date, payment is on the payment date."
 
 | Status cutoff | Payment date | Days between | Who, per the division |
 |---|---|---|---|
-| Fri., Sept. 18, 2026 | Thu., Oct. 1, 2026 | 13 | Online applications that chose direct deposit |
-| Mon., Oct. 12, 2026 | Thu., Oct. 22, 2026 | 10 | 2026 paper and electronic applications, direct deposit and check payments |
-| Wed., Nov. 11, 2026 | Thu., Nov. 19, 2026 | 8 | 2026 (and prior year) applications |
+| Fri., Sept. 18, 2026 | Thu., Oct. 1, 2026 (paid) | 13 | Online applications that chose direct deposit |
+| Mon., Oct. 12, 2026 | Thu., Oct. 22, 2026 (paid) | 10 | 2026 paper and electronic applications, direct deposit and check payments |
+| Wed., Nov. 11, 2026 | Thu., Nov. 19, 2026 (today) | 8 | 2026 (and prior year) applications |
 | Wed., Dec. 9, 2026 | Thu., Dec. 17, 2026 | 8 | Applications in that status on Dec. 9 |
 | Wed., Jan. 13, 2027 | Thu., Jan. 21, 2027 | 8 | Applications in that status on Jan. 13 |
 
@@ -156,7 +157,7 @@ Every payment on the list is a Thursday. The three from Nov. 19 on each fall 8 d
 
 The division wrote the Nov. 11 line as: 2026 (and prior year) dividend applications "in 'Eligible-Not Paid' status on November 11, 2026" will be distributed on Nov. 19, 2026. The Dec. 9 and Jan. 13 rows use the same wording on its home page.
 
-Check your status before the Wednesday cutoff, not after. An application that reaches Eligible-Not Paid on Dec. 10 is outside the Dec. 9 cutoff on the division's wording, so the next posted payment for it is Jan. 21, 2027. The division gives no definition of each status on the pages used here, so read its own labels in myPFD.
+Check your status before the next Wednesday cutoff, Dec. 9, not after. An application that reaches Eligible-Not Paid on Dec. 10 is outside the Dec. 9 cutoff on the division's wording, so the next posted payment for it is Jan. 21, 2027. The division gives no definition of each status on the pages used here, so read its own labels in myPFD.
 
 ## How much is the PFD in 2026?
 
@@ -174,7 +175,7 @@ If an application is denied, the appeals page gives 30 days from the denial lett
 
 ## Are PFD checks mailed, and when?
 
-The division's FAQ says checks are mailed from Juneau starting Oct. 22, 2026. It does not mail checks to addresses where mail came back undeliverable, and it gives no later mailing dates. Keep your address current; a paper Address Change Form goes to a division office, per the home page.
+The division's FAQ says checks were mailed from Juneau starting Oct. 22, 2026. It does not mail checks to addresses where mail came back undeliverable, and it gives no later mailing dates. Keep your address current; a paper Address Change Form goes to a division office, per the home page.
 
 ## When to change direct deposit before a payment
 
@@ -196,7 +197,7 @@ On garnishments, the FAQ says the division cannot release them without written p
 
 ## PFD office hours, closures and 2027 applications
 
-The division's Nov. 12, 2026 notice says it is closed Thu., Nov. 26, 2026 and to the public on Fri., Nov. 27, and reopens Mon., Nov. 30 at 10 a.m. No Christmas closure is announced. The contact page lists Juneau (907) 465-2326, Anchorage (907) 269-0370 and Fairbanks (907) 451-2820, open 10 a.m. to 4 p.m. Alaska time, Monday to Friday.
+The division's Nov. 12, 2026 notice says it is closed Thu., Nov. 26, 2026, and closed to the public on Fri., Nov. 27, and reopens Mon., Nov. 30 at 10 a.m. No Christmas closure is announced. The contact page lists Juneau (907) 465-2326, Anchorage (907) 269-0370 and Fairbanks (907) 451-2820, open 10 a.m. to 4 p.m. Alaska time, Monday to Friday.
 
 The division's filing page says application season is Jan. 1 through March 31 each year. It has not printed 2027 dates. Mark the payments on the [November 2026 printable calendar](/november-calendars.html), the [December 2026 printable calendar](/december-calendars.html) and the [January 2027 printable calendar](/january-calendars.html). Other benefit schedules are in our [Social Security payment schedule for December 2026](/news/social-security-payment-schedule-december-2026-ssi-december-31/) and the [Supplemental Nutrition Assistance Program (SNAP) deposit dates by state](/news/snap-payment-schedule-december-2026-deposit-dates-by-state/). Alaska families can also see the [Anchorage School District calendar for 2026-27](/news/anchorage-school-district-calendar-2026-27/).
 

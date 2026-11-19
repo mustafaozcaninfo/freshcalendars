@@ -3,6 +3,7 @@ title: "California Legislature 2027-28 Session: Convenes Mon., Dec. 7"
 description: "The California Legislature convenes at noon Mon., Dec. 7, 2026 for the 2027-28 session. The 2025 first-year deadline table and a printable tracker."
 type: explainer
 publishedAt: "2026-11-10T13:18:00-05:00"
+updatedAt: "2026-11-19T01:43:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["california legislative session 2027", "when does california legislature convene 2026", "california legislature 2027-28 session", "california bill introduction deadline 2027"]
@@ -63,14 +64,14 @@ assets:
     description: "One page tracking the 2027-28 California Legislature: Nov. 30 sine die, the Dec. 7 convening, Jan. 1 statutes and the Governor's budget dates."
     alt: "Printable tracker of California Legislature dates from the Nov. 30, 2026 sine die adjournment to the Dec. 7 convening of the 2027-28 session"
     data:
-      target: { date: "2027-06-15", label: "Budget Bill must be passed" }
+      target: { date: "2027-06-15", label: "Recurring budget passage date (not a 2027 calendar)" }
       columns: ["Calendar entry"]
       rows:
         - { date: "2026-11-30", cells: { Calendar entry: "2025-26 session ends: adjournment sine die at midnight" }, src: 1, quote: "Nov. 30 Adjournment sine die at midnight (Art. IV, Sec. 3(a))." }
         - { date: "2026-12-07", cells: { Calendar entry: "2027-28 Regular Session convenes at 12 noon" }, src: 1, quote: "Dec. 7 12 Noon convening of the 2027-28 Regular Session (Art. IV, Sec. 3(a))." }
         - { date: "2027-01-01", cells: { Calendar entry: "Statutes enacted in 2026 take effect" }, src: 1, quote: "Jan. 1 Statutes take effect (Art. IV, Sec. 8(c))." }
-        - { date: "2027-01-10", cells: { Calendar entry: "Governor's budget due (a Sunday in 2027)" }, src: 1, quote: "Jan. 10 Budget must be submitted by Governor (Art. IV, Sec. 12 (a))." }
-        - { date: "2027-06-15", cells: { Calendar entry: "Budget Bill must be passed by midnight" }, src: 1, quote: "June 15 Budget Bill must be passed by midnight (Art. IV, Sec. 12(c)(3))." }
+        - { date: "2027-01-10", cells: { Calendar entry: "Recurring constitutional date: Governor's budget submission (a Sunday in 2027)" }, src: 1, quote: "Jan. 10 Budget must be submitted by Governor (Art. IV, Sec. 12 (a))." }
+        - { date: "2027-06-15", cells: { Calendar entry: "Recurring constitutional date: Budget Bill passage by midnight" }, src: 1, quote: "June 15 Budget Bill must be passed by midnight (Art. IV, Sec. 12(c)(3))." }
       unconfirmed:
         - { label: "2027 calendar: bill introduction deadline, house-of-origin deadline, recesses and January 2027 reconvening date", why: "The Senate and Assembly clerks had not posted a 2027 calendar as of Nov. 10, 2026" }
         - { label: "Dec. 7 ceremony program", why: "The Senate events page said No events are scheduled on Nov. 10, 2026" }
@@ -90,13 +91,13 @@ draft: false
 
 ## Where the California Legislature stands from Nov. 30 to Jan. 1
 
-Days count from today, Tuesday, Nov. 10, 2026. All rows come from the 2026 calendar.
+Days count from today, Thursday, Nov. 19, 2026. All rows come from the 2026 calendar.
 
-| Date | Days from Nov. 10 | Calendar entry |
+| Date | Days from Nov. 19 | Calendar entry |
 |---|---|---|
-| Mon., Nov. 30, 2026 | 20 | "Adjournment sine die at midnight (Art. IV, Sec. 3(a))." This ends the 2025-26 session. |
-| Mon., Dec. 7, 2026 | 27 | "12 Noon convening of the 2027-28 Regular Session (Art. IV, Sec. 3(a))." |
-| Fri., Jan. 1, 2027 | 52 | "Statutes take effect (Art. IV, Sec. 8(c))." |
+| Mon., Nov. 30, 2026 | 11 | "Adjournment sine die at midnight (Art. IV, Sec. 3(a))." This ends the 2025-26 session. |
+| Mon., Dec. 7, 2026 | 18 | "12 Noon convening of the 2027-28 Regular Session (Art. IV, Sec. 3(a))." |
+| Fri., Jan. 1, 2027 | 43 | "Statutes take effect (Art. IV, Sec. 8(c))." |
 
 The Senate events page said "No events are scheduled" on Nov. 10, 2026, so the Dec. 7 program, including any swearing-in order, is not announced. In 2024, CalChamber reported that "The California Legislature returns today for the start of the 2-year legislative session" on Monday, Dec. 2, 2024.
 

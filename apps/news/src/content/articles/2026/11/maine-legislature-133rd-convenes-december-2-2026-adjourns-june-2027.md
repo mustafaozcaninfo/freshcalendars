@@ -3,7 +3,7 @@ title: "Maine Legislature 2027 Session: 133rd Sworn In Wed., Dec. 2 at 10 a.m."
 description: "Maine's 133rd Legislature convenes Wed., Dec. 2 and must adjourn by June 16, 2027. The Dec. 2 schedule, dated deadlines and a printable tracker."
 type: explainer
 publishedAt: "2026-11-12T06:40:00-05:00"
-updatedAt: "2026-11-12T06:40:00-05:00"
+updatedAt: "2026-11-19T01:43:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["maine legislature 2027 session", "133rd maine legislature start date", "maine legislature convenes december 2 2026", "when does maine legislature adjourn 2027"]
@@ -76,7 +76,7 @@ assets:
       target: { date: "2027-06-16", label: "Statutory adjournment (our count)" }
       columns: ["What the source says"]
       rows:
-        - { date: "2026-11-16", cells: { "What the source says": "Members-elect payroll and benefit forms due online" }, src: 4, quote: ["must be completed in our online system by Monday, November 16"] }
+        - { date: "2026-11-16", cells: { "What the source says": "Members-elect payroll and benefit forms were due online (deadline passed)" }, src: 4, quote: ["must be completed in our online system by Monday, November 16"] }
         - { date: "2026-12-01", cells: { "What the source says": "Pay-option forms due" }, src: 4, quote: ["no later than Tuesday, December 1, 2026"] }
         - { date: "2026-12-02", cells: { "What the source says": "Convening: 10 a.m. swearing-in; 2 p.m. joint convention elects constitutional officers" }, src: 3, quote: ["Wednesday, December 2nd", "Convening of the 133rd Maine Legislature", "10:00 AM", "2:00 PM Joint Convention of the 133rd Legislature"] }
       unconfirmed:
@@ -105,7 +105,7 @@ Weekdays, the 50th day and the 2028 dates are our computation from the rules quo
 
 | Date | Weekday | What happens | Source |
 |---|---|---|---|
-| Nov. 16, 2026 | Monday | Members-elect payroll and benefit forms due in the online system | [Orientation memo, Nov. 5, 2026](https://mainelegislature.org/doc/12790) |
+| Nov. 16, 2026 | Monday | Members-elect payroll and benefit forms were due in the online system (deadline passed) | [Orientation memo, Nov. 5, 2026](https://mainelegislature.org/doc/12790) |
 | Dec. 1, 2026 | Tuesday | Pay-option forms due | [Orientation memo, Nov. 5, 2026](https://mainelegislature.org/doc/12790) |
 | Dec. 2, 2026 | Wednesday | Convening of the 133rd Legislature: 10 a.m. swearing-in; 2 p.m. joint convention | [Legislative Council schedule](https://mainelegislature.org/doc/12791) |
 | Jan. 6, 2027 | Wednesday | Governor's four-year term starts | [Maine Constitution, Art. V](https://lldc.mainelegislature.org/Open/Const/Versions/MeConst_2024_Amd.pdf) |
@@ -149,4 +149,4 @@ A non-emergency law takes effect 90 days after the recess of the session in whic
 
 ## Print the Maine 133rd Legislature tracker
 
-The free tracker lists the dates above from the Nov. 16 forms to the June 16 adjournment limit, with a box to check off each, and prints the cloture and recess dates as not announced. Pair it with a [December 2026 calendar](/december-calendars.html), a [January 2027 calendar](/january-calendars.html) and a [June 2027 calendar](/june-calendars.html). Other legislatures start on their own schedules: see the [California Legislature 2027-28 session](/news/california-legislature-2027-28-session-december-7-bill-deadlines/) and the [Florida Legislature 2027 session](/news/florida-legislative-session-2027-march-2-organization-session-november-17/).
+The free tracker lists the dates above from the Nov. 16 forms deadline, now passed, to the June 16 adjournment limit, with a box to check off each, and prints the cloture and recess dates as not announced. Pair it with a [December 2026 calendar](/december-calendars.html), a [January 2027 calendar](/january-calendars.html) and a [June 2027 calendar](/june-calendars.html). Other legislatures start on their own schedules: see the [California Legislature 2027-28 session](/news/california-legislature-2027-28-session-december-7-bill-deadlines/) and the [Florida Legislature 2027 session](/news/florida-legislative-session-2027-march-2-organization-session-november-17/).
