@@ -3,7 +3,7 @@ title: "Medicare Part D 2027: $700 Deductible and $2,400 Out-of-Pocket Cap"
 description: "Medicare Part D 2027 deductible is $700 and the out-of-pocket cap is $2,400, up from $615 and $2,100. See the base premium and a worked cap example."
 type: news
 publishedAt: "2026-11-04T14:44:00-05:00"
-updatedAt: "2026-11-04T14:44:00-05:00"
+updatedAt: "2026-11-19T15:26:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["medicare part d 2027 deductible", "part d out of pocket max 2027", "part d base premium 2027", "extra help copays 2027"]
@@ -51,6 +51,14 @@ sources:
     url: "https://www.cms.gov/files/document/2027-medicare-advantage-part-d-landscape-state-state-fact-sheets.pdf"
     publisher: "Centers for Medicare & Medicaid Services"
     date: "2026-09-28"
+  - title: "2027 Medicare Parts A & B Premiums and Deductibles"
+    url: "https://www.cms.gov/newsroom/fact-sheets/2027-medicare-parts-b-premiums-deductibles"
+    publisher: "Centers for Medicare & Medicaid Services"
+    date: "2026-11-17"
+  - title: "2026 Medicare Parts A & B Premiums and Deductibles"
+    url: "https://www.cms.gov/newsroom/fact-sheets/2026-medicare-parts-b-premiums-deductibles"
+    publisher: "Centers for Medicare & Medicaid Services"
+    date: "2025-11-14"
   - title: "Open Enrollment"
     url: "https://www.medicare.gov/health-drug-plans/open-enrollment"
     publisher: "Medicare.gov"
@@ -147,7 +155,7 @@ CMS publishes the standard Part D benefit amounts in its annual rate announcemen
 | Extra Help generic copay, 100% to 150% FPL | Not shown | $5.10 | $5.80 | +$0.70 |
 | Extra Help other-drug copay, 100% to 150% FPL | Not shown | $12.65 | $14.40 | +$1.75 |
 
-The 2025 deductible and threshold come from the CMS 2026 announcement (April 7, 2025); the 2026 and 2027 figures come from the 2027 announcement. The "Change" column is our subtraction. CMS says the 2027 deductible is the 2026 amount of $615 multiplied by the 2027 annual percentage increase and rounded to the nearest multiple of $5. Medicare.gov repeats the limit: "No Medicare drug plan may have a deductible more than $700 in 2027 ($615 in 2026), and some plans have no deductible."
+The 2025 deductible and threshold come from the CMS 2026 announcement (April 7, 2025); the 2026 and 2027 figures come from the 2027 announcement. The "Change" column is our subtraction. CMS says the 2027 deductible is the 2026 amount of $615 multiplied by the 2027 annual percentage increase and rounded to the nearest multiple of $5. Medicare.gov repeats the limit: "No Medicare drug plan may have a deductible more than $615 in 2026 ($700 in 2027), and some plans have no deductible."
 
 ## What is the Part D base premium for 2027?
 
@@ -176,9 +184,24 @@ For spreading costs, Medicare.gov describes the Medicare Prescription Payment Pl
 
 ## Dec. 7 deadline for changing your Part D plan
 
-CMS says people with Medicare can review coverage choices and make changes "from October 15, 2026 through December 7, 2026." Medicare.gov says the changes made during open enrollment "are effective January 1 of next year." Our [Medicare open enrollment story](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/) has the countdown, the list of what you can change and the one-time $90 Part B rebate. The 2027 Part B premium has not been announced; see the [Part B premium story](/news/medicare-part-b-premium-2027-projected-209-50-when-cms-announces/) for the projection and last year's release dates. Social Security payment dates for the 2027 increase are in the [COLA story](/news/social-security-cola-2027-3-6-percent-payment-dates/).
+Medicare.gov says "Open Enrollment happens from October 15 – December 7 and is the time each year when you can make changes to your coverage," which in 2026 runs from Oct. 15 to Monday, Dec. 7. It says the changes made during open enrollment "are effective January 1 of next year." Our [Medicare open enrollment story](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/) has the countdown, the list of what you can change and the one-time $90 Part B rebate. CMS announced on Nov. 17, 2026 that the standard monthly Part B premium will be $209.40 for 2027 and the annual Part B deductible $292 (2026: $202.90 and $283); the [Part B premium story](/news/medicare-part-b-premium-2027-projected-209-50-when-cms-announces/) has the projection and last year's release dates. Social Security payment dates for the 2027 increase are in the [COLA story](/news/social-security-cola-2027-3-6-percent-payment-dates/).
 
 Mark Dec. 7 on the [December 2026 printable calendar](/december-calendars.html) and Jan. 1 on the [January 2027 printable calendar](/january-calendars.html).
+
+## Part D income-related adjustments by income in 2027
+
+CMS lists the 2027 Part D income-related monthly adjustment amount (IRMAA) in its Nov. 17, 2026 fact sheet. These amounts are added to the plan premium for higher-income enrollees. For married people filing separately, CMS lists $0.00 up to $112,000, $88.30 over $112,000 to under $388,000 and $96.40 at $388,000 or more.
+
+| Individual income | Joint income | Monthly adjustment, 2027 | 2026 |
+|---|---|---|---|
+| Up to $112,000 | Up to $224,000 | $0.00 | $0.00 |
+| Over $112,000 to $141,000 | Over $224,000 to $282,000 | $15.40 | $14.50 |
+| Over $141,000 to $177,000 | Over $282,000 to $354,000 | $39.70 | $37.50 |
+| Over $177,000 to $212,000 | Over $354,000 to $424,000 | $64.00 | $60.40 |
+| Over $212,000 to under $500,000 | Over $424,000 to under $750,000 | $88.30 | $83.30 |
+| $500,000 or more | $750,000 or more | $96.40 | $91.00 |
+
+Income means modified adjusted gross income (MAGI). The 2026 column comes from CMS's 2026 fact sheet; its first bracket ended at $109,000 (individual) and $218,000 (joint), so the brackets moved up as well as the amounts.
 
 ## What to compare before Dec. 7
 
