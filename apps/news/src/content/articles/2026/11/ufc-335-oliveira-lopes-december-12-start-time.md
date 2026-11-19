@@ -48,7 +48,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule, boxing-schedule-december-2026-fight-dates-times, nfr-2026-national-finals-rodeo-schedule-las-vegas-start-time-tv]
+related: [ufc-334-madison-square-garden-november-14-start-time-gane-hokit-ufc-schedule, boxing-schedule-december-2026-fight-dates-times, ufc-saudi-arabia-2026-adesanya-vs-magomedov-december-5-start-time]
 assets:
   overlay: true
   scene: none

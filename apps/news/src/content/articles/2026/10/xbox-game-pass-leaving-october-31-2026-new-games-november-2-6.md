@@ -82,7 +82,7 @@ internalLinks:
     label: "Printable weekly calendar"
   - href: "/october-calendars.html"
     label: "October 2026 printable calendar"
-related: [playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2, gta-6-countdown-release-time-by-time-zone, steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027]
+related: [playstation-plus-november-2026-games-dead-island-2-tomb-raider-monster-train-2, xbox-game-pass-november-2026-wave-2-new-games-leaving-november-30, steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027]
 downloads:
   - group: "Xbox Game Pass Dates printables"
     title: "Xbox Game Pass Dates, Oct. 31 to Nov. 15, 2026"
