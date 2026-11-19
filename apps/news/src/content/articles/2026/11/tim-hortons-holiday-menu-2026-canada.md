@@ -97,7 +97,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [holiday-menus-2026-every-chain-tracker, dutch-bros-holiday-drinks-2026-merry-magic, starbucks-holiday-menu-2026-red-cup-day-date]
+related: [holiday-menus-2026-every-chain-tracker, dutch-bros-holiday-drinks-2026-merry-magic, swiss-chalet-festive-special-2026-scratch-and-win-december-27]
 downloads:
   - group: "Tim Hortons Holiday Menu 2026 Elf Checklist printables"
     title: "Tim Hortons Holiday Menu 2026 Elf Checklist"

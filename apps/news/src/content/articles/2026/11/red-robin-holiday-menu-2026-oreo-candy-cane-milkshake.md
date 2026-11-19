@@ -80,7 +80,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [holiday-menus-2026-every-chain-tracker, restaurant-gift-card-deals-2026-bonus-cards-cheesecake-factory-panera-red-robin, jimmy-johns-christmas-vacation-feast-2026]
+related: [holiday-menus-2026-every-chain-tracker, restaurant-gift-card-deals-2026-bonus-cards-cheesecake-factory-panera-red-robin, shake-shack-holiday-shake-2026-ferrero-rocher-hazelnut-chocolate]
 downloads:
   - group: "Red Robin Holiday Drinks 2026 printables"
     title: "Red Robin Holiday Drinks 2026: What Is in Each and Key Dates"
