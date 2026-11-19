@@ -568,6 +568,12 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-strands-hints-answers-november-30-2026-1002", "strands", "#0f2f3a", "#f9df6d", "Strands #1002 · Mon., Nov. 30, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end.", "nyt-strands-november-30-a"],
   ["nyt-pips-hints-answers-november-30-2026", "pips", "#1e293b", "#fca5a5", "Pips · Mon., Nov. 30, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-november-30-a"],
   ["contexto-answer-hints-november-23-2026-1527", "contexto", "#0f172a", "#86efac", "Contexto #1527 · Mon., Nov. 23, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-23-a"],
+  ["wordle-hint-answer-today-december-1-2026-1991", "wordle", "#121213", "#c9b458", "Wordle #1991 · Tue., Dec. 1, 2026", "Wordle hints today", "Clues from gentle to strong, the answer only at the end.", "wordle-december-1-a"],
+  ["nyt-connections-hints-answers-december-1-2026-1269", "connections", "#1e1a3a", "#a0c35a", "Connections #1269 · Tue., Dec. 1, 2026", "Connections hints", "Two hints for every group first, answers only at the end.", "nyt-connections-december-1-a"],
+  ["nyt-strands-hints-answers-december-1-2026-1003", "strands", "#0f2f3a", "#93c5fd", "Strands #1003 · Tue., Dec. 1, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end.", "nyt-strands-december-1-a"],
+  ["nyt-pips-hints-answers-december-1-2026", "pips", "#1e293b", "#c4b5fd", "Pips · Tue., Dec. 1, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-december-1-a"],
+  ["nyt-spelling-bee-hints-answers-december-1-2026", "bee", "#1c1917", "#fb923c", "Spelling Bee · Tue., Dec. 1, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end.", "nyt-bee-december-1-a"],
+  ["contexto-answer-hints-november-24-2026-1528", "contexto", "#0f172a", "#fde047", "Contexto #1528 · Tue., Nov. 24, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-24-a"],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
