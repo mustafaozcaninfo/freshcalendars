@@ -169,7 +169,7 @@ The terms give one $15 bonus per full $50. Online purchases get the bonus as an 
 
 ## Chains without 2026 dates
 
-Chili's page shows a $10 bonus on $50 but prints no year, and P.F. Chang's lists a $10 bonus per $50 without dates, so neither is in the table. Bonefish Grill's terms were not verified. The Texas Roadhouse, Applebee's and Cracker Barrel sites did not show terms we could check. Olive Garden, LongHorn and Dunkin' showed no holiday bonus on Nov. 14-15.
+Chili's page shows a $10 bonus on $50 but prints no year, and P.F. Chang's lists a $10 bonus per $50 without dates on its gift card page, so neither is in the table. P.F. Chang's own Nov. 4 release does give the dates: [online purchases Dec. 2-29, 2026](/news/pf-changs-open-christmas-day-2026-2-to-9-pm-holiday-menu/). Bonefish Grill's terms were not verified. The Texas Roadhouse, Applebee's and Cracker Barrel sites did not show terms we could check. Olive Garden, LongHorn and Dunkin' showed no holiday bonus on Nov. 14-15.
 
 For hours and menus around the same weeks, see [restaurants open on Thanksgiving 2026](/news/restaurants-open-thanksgiving-2026-hours-by-chain/) and the [holiday menus tracker](/news/holiday-menus-2026-every-chain-tracker/). Spending the money on gifts instead? The [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) covers the retail side. Buy dates fall in the [December 2026 printable calendar](/december-calendars.html).
 

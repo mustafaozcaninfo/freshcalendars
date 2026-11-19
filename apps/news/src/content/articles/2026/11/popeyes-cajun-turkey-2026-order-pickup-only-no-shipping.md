@@ -100,7 +100,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [restaurants-open-thanksgiving-2026-hours-by-chain, cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve, holiday-menus-2026-every-chain-tracker]
+related: [restaurants-open-thanksgiving-2026-hours-by-chain, cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve, bob-evans-thanksgiving-2026-farmhouse-feast-order-by-november-25]
 downloads:
   - group: "Popeyes Cajun Turkey 2026 Thaw and Heat Timeline printables"
     title: "Popeyes Cajun Turkey 2026 Thaw and Heat Timeline"
