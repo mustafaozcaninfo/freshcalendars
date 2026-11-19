@@ -78,7 +78,7 @@ downloads:
     pdf: "/news/downloads/giving-tuesday-2026/giving-tuesday-2026-checklist.pdf"
     png: "/news/downloads/giving-tuesday-2026/giving-tuesday-2026-checklist.png"
     pages: 1
-updatedAt: "2026-11-14T15:41:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 draft: false
 assets:
   overlay: true
@@ -114,7 +114,7 @@ assets:
             - "Keep your receipts and ask a tax professional what you need"
 ---
 
-GivingTuesday 2026 falls on **Tuesday, Dec. 1**, according to GivingTuesday, and a new rule from the Internal Revenue Service (IRS) applies to it: beginning with tax year 2026, people who do not itemize may deduct up to $1,000 of cash gifts to eligible charities. From Saturday, Nov. 14, 2026, the day is 17 days away. The Federal Trade Commission (FTC) steps for checking a charity and a one-page printable checklist follow.
+GivingTuesday 2026 falls on **Tuesday, Dec. 1**, according to GivingTuesday, and a new rule from the Internal Revenue Service (IRS) applies to it: beginning with tax year 2026, people who do not itemize may deduct up to $1,000 of cash gifts to eligible charities. From Thursday, Nov. 19, 2026, the day is 12 days away. The Federal Trade Commission (FTC) steps for checking a charity and a one-page printable checklist follow.
 
 ## When is GivingTuesday 2026?
 

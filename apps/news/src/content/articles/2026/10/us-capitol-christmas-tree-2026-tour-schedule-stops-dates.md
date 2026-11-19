@@ -1,9 +1,9 @@
 ---
 title: "Capitol Christmas Tree 2026 Schedule: 21 Stops, Oct. 29 to Nov. 19"
-description: "Capitol Christmas Tree 2026 schedule: 5 stops left, Richmond Nov. 14 to Joint Base Andrews Nov. 19, arrival Nov. 20. Times, venues and a tracker printable."
+description: "Capitol Christmas Tree 2026: Joint Base Andrews is today, Nov. 19, and arrival at the Capitol is Nov. 20 at 10 a.m. All 21 stops, times and a printable."
 type: news
 publishedAt: "2026-10-31T15:45:00-04:00"
-updatedAt: "2026-11-13T16:14:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Capitol Christmas Tree 2026 tour schedule", "Capitol Christmas Tree 2026 stops", "Capitol Christmas Tree tour near me", "2026 Capitol Christmas Tree Idaho"]
@@ -20,18 +20,18 @@ hero:
     author: "Sdkb"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Sdkb"
 summary:
-  - "Five of the 21 stops on the 2026 U.S. Capitol Christmas Tree tour are still ahead: Richmond, Indiana (Sat., Nov. 14), Morgantown, West Virginia (Mon., Nov. 16), Hagerstown, Maryland, and Littlestown, Pennsylvania (both Tue., Nov. 17), and Joint Base Andrews, Maryland (Thu., Nov. 19, military ID access only)."
+  - "The last of the 21 stops on the 2026 U.S. Capitol Christmas Tree tour is today, Thu., Nov. 19, at Joint Base Andrews, Maryland (military ID access only). The tree stopped in Richmond, Indiana (Sat., Nov. 14), Morgantown, West Virginia (Mon., Nov. 16), and Hagerstown, Maryland, and Littlestown, Pennsylvania (both Tue., Nov. 17)."
   - "The tour began Oct. 29 in Grangeville, Idaho; the project's events page lists a time and venue for every stop from Lewiston on, such as Richmond, 5 to 7 p.m. ET at 814 E. Main St."
   - "The Architect of the Capitol (AOC) lists the tree's arrival at the Capitol for Fri., Nov. 20 at 10 a.m. The lighting ceremony date is still to be announced."
 faq:
-  - q: "Where is the Capitol Christmas Tree after Fri., Nov. 13, 2026?"
-    a: "The tree stopped in Peoria, Illinois, on Friday, Nov. 13. Next is Richmond, Indiana, on Saturday, Nov. 14, from 5 to 7 p.m. ET at 814 E. Main St., then Morgantown, West Virginia, on Monday, Nov. 16, from 5 to 7 p.m. ET at Hope Coliseum."
+  - q: "Where is the Capitol Christmas Tree on Thu., Nov. 19, 2026?"
+    a: "At Joint Base Andrews, Maryland, today, Nov. 19, for the last stop of the tour; access is for military ID holders only. The tree stopped in Richmond, Indiana, on Saturday, Nov. 14, Morgantown, West Virginia, on Monday, Nov. 16, and Hagerstown, Maryland, and Littlestown, Pennsylvania, on Tuesday, Nov. 17. It arrives at the U.S. Capitol on Friday, Nov. 20, at 10 a.m."
   - q: "Where did the 2026 Capitol Christmas Tree come from?"
     a: "The Architect of the Capitol (AOC) lists the 2026 tree as a 76-foot Engelmann spruce from the Nez Perce-Clearwater National Forests in Idaho."
   - q: "Is the Capitol Christmas Tree tour free?"
     a: "The route announcement says festivities are free and open to the public. Joint Base Andrews, Maryland, is open to military ID holders only."
   - q: "What time does the tree arrive at each stop?"
-    a: "The project's events page lists a two-hour window for each stop. The remaining ones are Richmond, Nov. 14, 5 to 7 p.m. ET; Morgantown, Nov. 16, 5 to 7 p.m. ET; Hagerstown, Nov. 17, 11 a.m. to 1 p.m. ET; and Littlestown, Nov. 17, 4 to 6 p.m. ET. No time is listed for Joint Base Andrews."
+    a: "The project's events page lists a two-hour window for each stop. The most recent ones were Richmond, Nov. 14, 5 to 7 p.m. ET; Morgantown, Nov. 16, 5 to 7 p.m. ET; Hagerstown, Nov. 17, 11 a.m. to 1 p.m. ET; and Littlestown, Nov. 17, 4 to 6 p.m. ET. No time is listed for Joint Base Andrews."
   - q: "When is the 2026 Capitol Christmas Tree lighting?"
     a: "Not yet announced. The AOC page \"Coming Soon: the 2026 Capitol Christmas Tree\" says the tree arrives at the Capitol on Friday, Nov. 20, 2026 at 10 a.m. and lists the ceremony date as to be announced. Once lit, the tree stays lit from dusk until 11 p.m. each evening through early January 2027."
   - q: "Is this the same as the National Christmas Tree?"
@@ -117,26 +117,22 @@ assets:
     alt: "Printable Capitol Christmas Tree 2026 tour tracker listing 21 stops from Grangeville, Idaho, to Joint Base Andrews, Maryland"
 ---
 
-The U.S. Capitol Christmas Tree has five stops left. After Peoria, Illinois, on Friday, Nov. 13, it is in Richmond, Indiana, on Saturday, Nov. 14 (5 to 7 p.m. ET), Morgantown, West Virginia, on Monday, Nov. 16, Hagerstown, Maryland, and Littlestown, Pennsylvania, on Tuesday, Nov. 17, and Joint Base Andrews, Maryland, on Thursday, Nov. 19 (military ID access only). The Architect of the Capitol (AOC) lists its arrival at the Capitol for Friday, Nov. 20, at 10 a.m. Below are the remaining stops with times and venues, the 16 stops already made, and a one-page printable tracker.
+The U.S. Capitol Christmas Tree makes its last tour stop today, Thursday, Nov. 19, at Joint Base Andrews, Maryland (military ID access only). The Architect of the Capitol (AOC) lists its arrival at the Capitol for Friday, Nov. 20, at 10 a.m.; the lighting ceremony date is to be announced. Before that, the tree stopped in Richmond, Indiana, on Saturday, Nov. 14, Morgantown, West Virginia, on Monday, Nov. 16, and Hagerstown, Maryland, and Littlestown, Pennsylvania, on Tuesday, Nov. 17. Below are today's stop and the arrival, the 20 stops already made with times and venues, and a one-page printable tracker.
 
-## Capitol Christmas Tree stops still ahead
+## Capitol Christmas Tree: Joint Base Andrews today and Capitol arrival
 
 The project's events page gives a two-hour window and a venue for each stop. Times are local to the stop. The page lists no time or venue for Joint Base Andrews, which the Oct. 1 route announcement limits to people with military ID.
 
 | Date | Town and state | Time | Venue |
 |---|---|---|---|
-| Sat., Nov. 14 | Richmond, Indiana | 5 to 7 p.m. ET | 814 E. Main St. |
-| Mon., Nov. 16 | Morgantown, West Virginia | 5 to 7 p.m. ET | Hope Coliseum, 3450 Monongahela Blvd. |
-| Tue., Nov. 17 | Hagerstown, Maryland | 11 a.m. to 1 p.m. ET | Maryland Theater, 21 S. Potomac St. |
-| Tue., Nov. 17 | Littlestown, Pennsylvania | 4 to 6 p.m. ET | Littlestown Ace Hardware, 790 W. King St. |
-| Thu., Nov. 19 | Joint Base Andrews, Maryland (military ID access only) | Not listed | Not listed |
+| Thu., Nov. 19 (today) | Joint Base Andrews, Maryland (military ID access only) | Not listed | Not listed |
 | Fri., Nov. 20 | U.S. Capitol, Washington, D.C. (arrival) | 10 a.m. | West Lawn |
 
-Festivities at the stops are free and open to the public. The route lists no stop on Sun., Nov. 15 or Wed., Nov. 18. Put the dates you plan to attend on the [November 2026 printable calendar](/november-calendars.html).
+Festivities at the stops are free and open to the public. The route lists no stop on Sun., Nov. 15 or Wed., Nov. 18. Mark the Nov. 20 arrival on the [November 2026 printable calendar](/november-calendars.html).
 
 ## Capitol Christmas Tree 2026 tour stops already made
 
-The route announcement lists 21 stops in 10 states: Idaho (nine stops), Montana (two), South Dakota (two), Maryland (two), and Wyoming, Minnesota, Illinois, Indiana, West Virginia and Pennsylvania (one each). The tree made the 16 stops below, the last one in Peoria on Nov. 13. Times and venues are from the project's events page.
+The route announcement lists 21 stops in 10 states: Idaho (nine stops), Montana (two), South Dakota (two), Maryland (two), and Wyoming, Minnesota, Illinois, Indiana, West Virginia and Pennsylvania (one each). The tree made the 20 stops below, the last one in Littlestown on Nov. 17; Joint Base Andrews, today, is the 21st. Times and venues are from the project's events page.
 
 | Date | Town and state | Time and venue |
 |---|---|---|
@@ -156,6 +152,10 @@ The route announcement lists 21 stops in 10 states: Idaho (nine stops), Montana 
 | Thu., Nov. 12 | Mitchell, South Dakota | 9 to 11 a.m. CDT, Corn Palace |
 | Thu., Nov. 12 | Albert Lea, Minnesota | 5 to 7 p.m. CDT, Fountain St. at Broadway Ave. |
 | Fri., Nov. 13 | Peoria, Illinois | 4:30 to 6:30 p.m. CDT, Peoria Riverfront Museum |
+| Sat., Nov. 14 | Richmond, Indiana | 5 to 7 p.m. ET, 814 E. Main St. |
+| Mon., Nov. 16 | Morgantown, West Virginia | 5 to 7 p.m. ET, Hope Coliseum, 3450 Monongahela Blvd. |
+| Tue., Nov. 17 | Hagerstown, Maryland | 11 a.m. to 1 p.m. ET, Maryland Theater, 21 S. Potomac St. |
+| Tue., Nov. 17 | Littlestown, Pennsylvania | 4 to 6 p.m. ET, Littlestown Ace Hardware, 790 W. King St. |
 
 The events page also lists two events that are not on the Oct. 1 route: Lapwai, Idaho, on Friday, Oct. 30 (noon to 2 p.m. PDT, Main Street) and a second Grangeville event on Monday, Nov. 2 (4 to 6 p.m. PDT, Idaho Forest Group). Neither is counted in the 21 stops.
 
