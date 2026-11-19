@@ -3,7 +3,7 @@ title: "Canada Pension Plan Payment Dates: Nov. 26 and Dec. 22, 2026"
 description: "Canada Pension Plan (CPP) payment dates are Thursday, Nov. 26 and Tuesday, Dec. 22, 2026, per Service Canada. A table lists every federal benefit date."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
-updatedAt: "2026-11-13T07:20:00-05:00"
+updatedAt: "2026-11-19T01:44:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["CPP payment dates November 2026", "OAS payment dates December 2026", "Canada Child Benefit payment dates November 2026", "Canada benefit payment dates December 2026"]
@@ -51,7 +51,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/52734530@N06"
 summary:
   - "Canada Pension Plan (CPP) and Old Age Security (OAS) payments, including the Guaranteed Income Supplement (GIS), arrive on Thursday, Nov. 26 and Tuesday, Dec. 22, 2026, according to Service Canada."
-  - "The Canada Child Benefit (CCB) is paid on Friday, Nov. 20 and Friday, Dec. 11; the Canada Disability Benefit (CDB) on Thursday, Nov. 19 and Thursday, Dec. 17."
+  - "The Canada Child Benefit (CCB) is paid on Friday, Nov. 20 and Friday, Dec. 11; the Canada Disability Benefit (CDB) on Thursday, Nov. 19 (today) and Thursday, Dec. 17."
   - "For October to December 2026, OAS pays up to $762.50 a month at ages 65 to 74 and up to $838.75 at 75 and older, after a 1.4% increase."
   - "The Goods and Services Tax (GST) and Harmonized Sales Tax (HST) credit, its successor the Canada Groceries and Essentials Benefit (CGEB), and the advance Canada Workers Benefit (CWB) have no November or December 2026 payment, and the Canada Carbon Rebate has ended."
 faq:
@@ -124,8 +124,8 @@ downloads:
 
 | Date | Weekday | Payment | Source |
 |---|---|---|---|
-| Nov. 10 | Tuesday | Ontario Trillium Benefit (provincial) | Service Canada calendar |
-| Nov. 19 | Thursday | Canada Disability Benefit (CDB) | Service Canada calendar |
+| Nov. 10 | Tuesday | Ontario Trillium Benefit (provincial), paid | Service Canada calendar |
+| Nov. 19 | Thursday | Canada Disability Benefit (CDB), today | Service Canada calendar |
 | Nov. 20 | Friday | Canada Child Benefit (CCB) | Service Canada calendar, CRA |
 | Nov. 25 | Wednesday | Newfoundland and Labrador disability benefit (NLDB) | Service Canada calendar, CRA |
 | Nov. 26 | Thursday | CPP, OAS and GIS | Service Canada calendar |
@@ -165,11 +165,11 @@ If you were expecting a GST/HST credit, CGEB or an advance CWB payment in these 
 
 ## What is the Canada Disability Benefit date?
 
-The Service Canada calendar lists the Canada Disability Benefit on Thursday, Nov. 19 and Thursday, Dec. 17, 2026. In November that is the day before the Canada Child Benefit (Friday, Nov. 20) and one week before CPP and OAS (Thursday, Nov. 26). In December it is six days after the Canada Child Benefit (Friday, Dec. 11) and five days before CPP and OAS (Tuesday, Dec. 22).
+The Service Canada calendar lists the Canada Disability Benefit on Thursday, Nov. 19 (today) and Thursday, Dec. 17, 2026. In November that is the day before the Canada Child Benefit (Friday, Nov. 20) and one week before CPP and OAS (Thursday, Nov. 26). In December it is six days after the Canada Child Benefit (Friday, Dec. 11) and five days before CPP and OAS (Tuesday, Dec. 22).
 
 ## Who else do these dates affect?
 
-Ontario's Trillium Benefit is listed on Tuesday, Nov. 10 and Thursday, Dec. 10, and Alberta's child and family benefit on Friday, Nov. 27, on the same Service Canada calendar. Veterans disability pension payments are listed for Friday, Nov. 27 and Wednesday, Dec. 23.
+Ontario's Trillium Benefit was listed on Tuesday, Nov. 10 and is listed on Thursday, Dec. 10, and Alberta's child and family benefit on Friday, Nov. 27, on the same Service Canada calendar. Veterans disability pension payments are listed for Friday, Nov. 27 and Wednesday, Dec. 23.
 
 ## What is the Newfoundland and Labrador disability benefit date?
 

@@ -3,6 +3,7 @@ title: "CPKC Holiday Train 2026 Schedule: 182 Stops, Nov. 19 to Dec. 20"
 description: "The Canadian Pacific Kansas City (CPKC) Holiday Train 2026 runs Nov. 19 to Dec. 20 with 182 free stops. Every stop, date, local show time."
 type: news
 publishedAt: "2026-11-06T13:55:00-05:00"
+updatedAt: "2026-11-19T01:44:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["cpkc holiday train 2026 schedule", "holiday train 2026", "canadian pacific holiday train 2026", "holiday train schedule", "cpkc holiday train stops"]
@@ -62,7 +63,7 @@ summary:
   - "This story lists every community, date and local show time by state and province, with a printable of 22 big-city stops."
 faq:
   - q: "When does the CPKC Holiday Train start in 2026?"
-    a: "The U.S. train's first show is Thursday, Nov. 19, 2026, at Montreal West, Quebec, at 7:00 p.m. Eastern Time (ET). The Canada train's first show is Saturday, Nov. 21, at Jackman, Maine, at 7:45 p.m. ET, according to CPKC's route schedules."
+    a: "The U.S. train's first show is today, Thursday, Nov. 19, 2026, at Montreal West, Quebec, at 7:00 p.m. Eastern Time (ET). The Canada train's first show is Saturday, Nov. 21, at Jackman, Maine, at 7:45 p.m. ET, according to CPKC's route schedules."
   - q: "Is the CPKC Holiday Train free?"
     a: "Yes. CPKC says every Holiday Train event is free and warns that any source charging for tickets is fraudulent. It asks visitors to bring a cash donation or a non-perishable food item, and says every donation stays in the community where it is given."
   - q: "When is the CPKC Holiday Train in Calgary and Winnipeg in 2026?"
@@ -112,13 +113,13 @@ downloads:
 draft: false
 ---
 
-**The Canadian Pacific Kansas City (CPKC) Holiday Train 2026 tour runs from Nov. 19 to Dec. 20 and makes 182 stops across the United States and Canada, CPKC says, with a free trackside concert at each one.** CPKC runs two decorated trains at the same time: the U.S. Holiday Train, which starts in Montreal West, Quebec, on Thursday, Nov. 19, and ends in Weyburn, Saskatchewan, on Sunday, Dec. 20; and the Canada Holiday Train, which starts in Jackman, Maine, on Saturday, Nov. 21, and ends in Port Coquitlam, British Columbia, on Sunday, Dec. 20. The tables below list every community, date and local show time from CPKC's two route schedules, read Nov. 6.
+**The Canadian Pacific Kansas City (CPKC) Holiday Train 2026 tour runs from Nov. 19 to Dec. 20 and makes 182 stops across the United States and Canada, CPKC says, with a free trackside concert at each one.** CPKC runs two decorated trains at the same time: the U.S. Holiday Train, which starts in Montreal West, Quebec, today, Thursday, Nov. 19, and ends in Weyburn, Saskatchewan, on Sunday, Dec. 20; and the Canada Holiday Train, which starts in Jackman, Maine, on Saturday, Nov. 21, and ends in Port Coquitlam, British Columbia, on Sunday, Dec. 20. The tables below list every community, date and local show time from CPKC's two route schedules, read Nov. 6.
 
 CPKC lists the show times in local time without a time zone, so this story labels each stop with its zone: Eastern Time (ET), Central Time (CT), Mountain Time (MT) or Pacific Time (PT). Saskatchewan keeps Central Standard Time all year and does not move its clocks, so in December its times match Central Time (CT).
 
 ## How CPKC runs two Holiday Trains in 2026
 
-CPKC says the Holiday Train is in its 28th year and calls it "a celebration of generosity, community and the power of coming together to help neighbours in need." The company says it launched the 2026 tour Nov. 19 in Montreal, "beginning a 32-day journey with 182 stops," according to its Oct. 13 announcement. Progressive Railroading reported 10 new stops this year in Texas, Louisiana, Mississippi and Missouri.
+CPKC says the Holiday Train is in its 28th year and calls it "a celebration of generosity, community and the power of coming together to help neighbours in need." The company's Oct. 13 announcement says the 2026 tour kicks off Nov. 19 in Montreal, today, "beginning a 32-day journey with 182 stops." Progressive Railroading reported 10 new stops this year in Texas, Louisiana, Mississippi and Missouri.
 
 The names can mislead: the train CPKC calls the Canada Holiday Train actually begins in Maine, then crosses into Quebec and New York before running west across Ontario and the Prairie provinces to the British Columbia coast. The U.S. Holiday Train begins in Quebec, drops through Ontario into the U.S. South, then turns north through Wisconsin and Minnesota to finish in Saskatchewan. CPKC gives the tour total as 182 stops; the two route schedules counted here on Nov. 6 list 184 trackside events.
 
