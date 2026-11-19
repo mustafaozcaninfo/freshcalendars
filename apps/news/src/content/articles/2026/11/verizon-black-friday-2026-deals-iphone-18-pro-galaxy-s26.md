@@ -127,7 +127,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [samsung-black-friday-2026-dates-november-2-30, cyber-monday-2026-date-sale-start-times-by-store, black-friday-2026-price-match-policy-stores]
+related: [samsung-black-friday-2026-dates-november-2-30, apple-black-friday-2026-shopping-event-november-27-30, cyber-monday-2026-date-sale-start-times-by-store]
 downloads:
   - group: "Verizon Black Friday 2026 Deals Sheet printables"
     title: "Verizon Black Friday 2026 Deals Sheet"
