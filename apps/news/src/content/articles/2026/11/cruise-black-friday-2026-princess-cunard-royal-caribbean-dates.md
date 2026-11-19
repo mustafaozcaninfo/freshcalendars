@@ -133,7 +133,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [black-friday-2026-ad-tracker-walmart-target-best-buy, cyber-monday-2026-date-sale-start-times-by-store, giving-tuesday-2026-december-1-tax-deduction-charity-check]
+related: [black-friday-2026-ad-tracker-walmart-target-best-buy, cyber-monday-2026-date-sale-start-times-by-store, six-flags-black-friday-2026-season-pass-sale-ends-november-30]
 downloads:
   - group: "Cruise Black Friday 2026 Sale Tracker by Cruise Line printables"
     title: "Cruise Black Friday 2026 Sale Tracker by Cruise Line"

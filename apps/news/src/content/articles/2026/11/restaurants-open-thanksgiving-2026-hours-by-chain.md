@@ -118,7 +118,7 @@ Each chain name links to the page the fact came from. Franchise and location hou
 
 | Restaurant | Thursday, Nov. 26 | What the source says |
 |---|---|---|
-| [Bob Evans](https://www.bobevans.com/thanksgiving) | Open 8 a.m. to 7 p.m. | Dining rooms are open for breakfast or a special homestyle Thanksgiving meal |
+| [Bob Evans](https://www.bobevans.com/thanksgiving) ([Farmhouse Feast guide](/news/bob-evans-thanksgiving-2026-farmhouse-feast-order-by-november-25/)) | Open 8 a.m. to 7 p.m. | Dining rooms are open for breakfast or a special homestyle Thanksgiving meal |
 | [Cracker Barrel](https://www.moneytalksnews.com/cracker-barrel-adds-new-dishes-to-its-holiday-menu/) | Plans to serve a Thanksgiving meal | MoneyTalksNews (Oct. 21, 2026) and [Food Network](https://www.foodnetwork.com/fn-dish/news/food-places-open-on-thanksgiving-2026) (Nov. 3, 2026) agree; no hours confirmed |
 | [The Capital Grille](https://www.thecapitalgrille.com/events/thanksgiving-dinner-menu) | Dine-in Thanksgiving dinner | Reservations; days and times may vary by location |
 | [Maggiano's Little Italy](https://maggianos.com/thanksgiving2026) | Dine-in hours not given | The page covers pickup bundles |
