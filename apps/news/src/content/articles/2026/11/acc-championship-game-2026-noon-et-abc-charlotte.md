@@ -96,7 +96,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [college-football-conference-championship-games-2026-schedule-times-tv, sec-championship-game-2026-date-kickoff-time-tv-atlanta, college-football-playoff-rankings-2026-schedule-dates-times]
+related: [college-football-conference-championship-games-2026-schedule-times-tv, sec-championship-game-2026-date-kickoff-time-tv-atlanta, big-12-championship-game-2026-friday-december-4-kickoff-time-abc]
 downloads:
   - group: "ACC Championship Game 2026 Game-Day Card printables"
     title: "ACC Championship Game 2026 Game-Day Card, Dec. 5"
