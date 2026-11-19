@@ -1,16 +1,16 @@
 ---
 title: "El Niño Update Nov. 12, 2026: NOAA Winter Outlook Update Nov. 19"
-description: "The Climate Prediction Center's Nov. 12, 2026 El Niño update puts strong-to-very strong odds above 79%. Its winter outlook update is due Nov. 19."
+description: "The Climate Prediction Center's Nov. 19, 2026 winter outlook favors a warm north and wet South under a strong El Niño, with a region table and next dates."
 type: news
 publishedAt: "2026-10-30T10:30:00-04:00"
-updatedAt: "2026-11-12T09:19:00-05:00"
+updatedAt: "2026-11-19T09:20:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["super el niño winter forecast", "noaa winter outlook update november 19", "el niño update november 2026", "cpc outlook release schedule", "winter forecast canada el niño"]
 hero:
   src: ../../../../assets/news/el-nino-update-november-12-noaa-winter-outlook-november-19-2026/el-nino-update-november-12-noaa-winter-outlook-november-19-2026.webp
   alt: "El Niño winter outlook: NASA satellite photo of severe storms approaching the U.S. West Coast from the Pacific"
-  caption: "File photo: storms approach the U.S. West Coast on Jan. 1, 2024, seen by NASA's MODIS satellite instrument. NOAA updates its winter outlook Nov. 19, 2026."
+  caption: "File photo: storms approach the U.S. West Coast on Jan. 1, 2024, seen by NASA's MODIS satellite instrument. NOAA updated its winter outlook Nov. 19, 2026."
   credit: "Photo: MODIS Land Rapid Response Team, NASA GSFC / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -18,15 +18,15 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Severe_Storms_Approaching_the_West_Coast_of_the_United_States_(MODIS_2024-01-01).jpg"
     author: "MODIS Land Rapid Response Team, NASA GSFC"
 summary:
-  - "The Climate Prediction Center (CPC) issued its El Niño-Southern Oscillation (ENSO) discussion on Thursday, Nov. 12, 2026; its winter outlook update is due Nov. 19 and the next ENSO discussion is scheduled for Dec. 10."
+  - "The Climate Prediction Center (CPC) issued its winter outlook update on Thursday, Nov. 19, 2026, after its El Niño-Southern Oscillation (ENSO) discussion on Nov. 12; the next ENSO discussion is scheduled for Dec. 10 and the next outlooks for Dec. 17."
   - "The CPC's Nov. 12 discussion kept the El Niño Advisory and said a strong-to-very strong El Niño is likely through January-March 2027, with a chance greater than 79%, down from greater than 83% on Oct. 8."
-  - "NOAA's Oct. 15 winter outlook covers December 2026 to February 2027 and favors warmer than average conditions across much of the northern and eastern U.S."
+  - "The Nov. 19 outlook for December 2026 to February 2027 favors above-normal temperatures across much of the northern two-thirds of the Contiguous U.S. and above-normal precipitation in the South and along the East Coast."
   - "\"Super El Niño\" is a media term; NOAA's pages say \"strong-to-very strong\" and \"very strong.\""
 faq:
   - q: "When is the next El Niño update?"
     a: "The CPC's Nov. 12, 2026 ENSO Diagnostic Discussion says the next one is scheduled for Thursday, Dec. 10, 2026. It gives no time."
-  - q: "When is the NOAA winter outlook update?"
-    a: "NOAA's Oct. 15, 2026 release says the next update will be available on Nov. 19, a Thursday. The CPC schedule lists Nov. 19 for the December and December-February outlooks."
+  - q: "When is the next NOAA winter outlook update?"
+    a: "The CPC issued it on Thursday, Nov. 19, 2026. The next set of outlooks is scheduled for Thursday, Dec. 17, 2026, and the CPC schedule lists it for January-March 2027 and January 2027."
   - q: "What time does the CPC release its outlooks?"
     a: "The CPC says outlooks are generally released and available on the web around 8:30 a.m. Eastern Time (ET) on a scheduled release date. The Nov. 12 discussion gives a date for the next ENSO update but no time."
   - q: "Is a \"super El Niño\" an official term?"
@@ -46,6 +46,10 @@ sources:
     url: "https://www.canada.ca/en/environment-climate-change/news/2025/12/environment-and-climate-change-canada-presents-winter-seasonal-outlook-and-expansion-of-the-rapid-extreme-weather-event-attribution-system.html"
     publisher: "Environment and Climate Change Canada"
     date: "2025-12-11"
+  - title: "Prognostic Discussion for Long-Lead Seasonal Outlooks"
+    url: "https://www.cpc.ncep.noaa.gov/products/predictions/90day/fxus05.html"
+    publisher: "NOAA Climate Prediction Center"
+    date: "2026-11-19"
   - title: "CPC - ENSO Diagnostic Discussion"
     url: "https://www.cpc.ncep.noaa.gov/products/analysis_monitoring/enso_advisory/ensodisc.shtml"
     publisher: "NOAA Climate Prediction Center"
@@ -111,7 +115,7 @@ assets:
     rows:
       - ["Thu., Nov. 5", "RONI update, due by this date"]
       - ["Thu., Nov. 12", "El Niño (ENSO) Diagnostic Discussion (issued)"]
-      - ["Thu., Nov. 19, about 8:30 a.m. ET", "Winter outlook update; December and Dec.-Feb. outlooks"]
+      - ["Thu., Nov. 19, 8:30 a.m. EST", "Winter outlook update (issued); December and Dec.-Feb. outlooks"]
       - ["Wed., Dec. 2", "2027 release schedule, on or about this date"]
       - ["Thu., Dec. 10", "Next El Niño (ENSO) Diagnostic Discussion, no time given"]
       - ["Thu., Dec. 17, about 8:30 a.m. ET", "Next outlooks: Jan.-Mar. 2027 and January 2027"]
@@ -120,7 +124,7 @@ assets:
     alt: "Printable list of NOAA forecast release dates from Nov. 5 to Dec. 17, 2026"
 ---
 
-**The National Oceanic and Atmospheric Administration (NOAA) Climate Prediction Center (CPC) issued its El Niño update on Thursday, Nov. 12, 2026, and updates the winter outlook on Thursday, Nov. 19.** The CPC's Nov. 12 El Niño-Southern Oscillation (ENSO) Diagnostic Discussion says "El Niño continues to strengthen, with a strong-to-very strong El Niño likely through January-March 2027 (remaining greater than a 79% chance)." NOAA's Oct. 15 winter outlook release says "The next update will be available on November 19."
+**The National Oceanic and Atmospheric Administration (NOAA) Climate Prediction Center (CPC) issued its El Niño update on Thursday, Nov. 12, 2026, and its winter outlook update on Thursday, Nov. 19.** The Nov. 19 CPC discussion says "A strong El Nino continues and is forecast to persist through January-February-March 2027." The CPC's Nov. 12 El Niño-Southern Oscillation (ENSO) Diagnostic Discussion says "El Niño continues to strengthen, with a strong-to-very strong El Niño likely through January-March 2027 (remaining greater than a 79% chance)."
 
 ## What does NOAA's current El Niño forecast say?
 
@@ -148,26 +152,34 @@ The CPC schedule says forecasts are released on the third Thursday of the month,
 |---|---|---|---|---|
 | Nov. 5 | Thursday | Due by this date | RONI update | The RONI page says it is "updated by the 5th of each month" |
 | Nov. 12 | Thursday | Not given | ENSO Diagnostic Discussion (issued) | El Niño status and outlook |
-| Nov. 19 | Thursday | About 8:30 a.m. | Winter outlook update, long-lead outlooks | December 2026 and December-February (DJF) 2026 to 2027 |
+| Nov. 19 | Thursday | 8:30 a.m. EST (issued) | Winter outlook update, long-lead outlooks | December 2026 and December-February (DJF) 2026 to 2027 |
 | Dec. 2 | Wednesday | On or about this date | 2027 release schedule | The CPC's dates for 2027 |
 | Dec. 10 | Thursday | Not given | Next ENSO Diagnostic Discussion | Next El Niño status and outlook |
 | Dec. 17 | Thursday | About 8:30 a.m. | Next long-lead outlooks | January-March (JFM) 2027 and January 2027 |
 
-The CPC schedule listed Oct. 15 for the November and November-January outlooks. The CPC also posts an updated monthly outlook near the end of each month; its 30-day discussion on Sept. 30, 2026 updated the October outlook, and month-end updates appear on that page. The printable at the end of the story lists the six dates above; mark them on a [November 2026 printable calendar](/november-calendars.html) and a [December 2026 printable calendar](/december-calendars.html).
+The CPC schedule listed Oct. 15 for the November and November-January outlooks. The Nov. 19 discussion says the new set of outlooks "will be superseded by the issuance of the new set next month on Dec 17 2026." The CPC also posts an updated monthly outlook near the end of each month; its 30-day discussion on Sept. 30, 2026 updated the October outlook, and month-end updates appear on that page. The printable at the end of the story lists the six dates above; mark them on a [November 2026 printable calendar](/november-calendars.html) and a [December 2026 printable calendar](/december-calendars.html).
 
-## What does the current winter outlook say by region?
+## What does the Nov. 19 winter outlook say by region?
 
-NOAA's Oct. 15, 2026 release covers December 2026 to February 2027. The headline says El Niño "looms large," and the release says "a very strong El Nino will likely bring a southward and eastward shift."
+The CPC's "Prognostic Discussion for Long-Lead Seasonal Outlooks," issued at 830 AM EST on Nov. 19, 2026 (forecaster Brad Pugh), says "The strong El Nino is likely to be the major influence on temperatures and precipitation this winter through next spring." It covers December-January-February (DJF) 2026-27.
 
-| NOAA outlook, December 2026 to February 2027 | Where |
+| CPC outlook, DJF 2026-27 | Where |
 |---|---|
-| Warmer than average favored | Northern California, the Pacific Northwest, the Midwest, the Mississippi Valley, much of the East, Alaska, Puerto Rico and the U.S. Virgin Islands |
-| Near-normal temperatures most likely | Parts of the Southeast, including Florida |
-| Equal chances for temperature | Hawaii and much of the Southwest |
-| Wetter than average most likely | The southern tier from the Southwest to the Southeast, and the East Coast |
-| Drier than average odds | Hawaii, much of Alaska, the northern Mountain West, parts of the Great Lakes and the Pacific Islands |
+| Above-normal temperatures favored | Central to eastern Alaska and much of the northern two-thirds of the Contiguous U.S. |
+| Above-normal temperature probabilities exceed 50% | Northeast, Great Lakes, Upper Mississippi Valley, Pacific Northwest and southeastern Alaska |
+| Probabilities above 60% | Northwestern Oregon and Washington northward to southeastern Alaska |
+| Near-normal temperatures favored | Parts of the Southeast |
+| Equal chances for temperature | Southwest |
+| Above-normal precipitation favored | Southwestern Oregon, California, the Southwest, Central to Southern Great Plains, Southeast, Mid-Atlantic and much of the Northeast |
+| Above-normal precipitation above 70% | Florida, southern Georgia and the coastal Carolinas |
+| Above-normal precipitation above 60% | Southern California and southwestern Arizona |
+| Below-normal precipitation more likely | Parts of the Great Lakes, Northern High Plains, Northern Rockies and Mainland Alaska |
 
-Wetter than average conditions are most likely across the southern tier from the Southwest to the Southeast and along the East Coast, NOAA says. These are outlooks of odds across large regions, not local forecasts, and the Nov. 19 update may change them. Our table does not include a local snowfall forecast because the sources we used do not give one.
+The CPC says above-normal precipitation probabilities "were increased across California, the Desert Southwest, and along the East Coast compared to the previous forecast release on October 15." The main uncertainty it names is high-latitude blocking, a negative North Atlantic Oscillation (NAO), which could bring below-normal temperatures to the Southeast.
+
+The ocean readings behind it: the weekly Niño 3.4 sea surface temperature departure was "+2.2 degrees C" in mid-November, and the Relative Oceanic Niño Index for August-September-October was "+2.0 degrees C, just shy of +2.1 degrees C in 1997." The CPC's tool shows Niño 3.4 anomalies "peaking above +2.5 degrees C" in November-December-January (NDJ) 2026-27, and El Niño likely to persist through March-April-May (MAM) 2027, with a transition to ENSO-neutral conditions more probable by April-May-June (AMJ). By fall 2027 it depicts "a weak to moderate La Nina."
+
+NOAA's Oct. 15, 2026 release, headlined "El Nino looms large over U.S. Winter Outlook," was the previous set. These are outlooks of odds across large regions, not local forecasts. Our table does not include a local snowfall forecast because the sources we used do not give one.
 
 ## What does El Niño mean for winter in Canada and Ontario?
 
