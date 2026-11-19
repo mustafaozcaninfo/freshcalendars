@@ -423,3 +423,20 @@ body.cr-prism main :is(p,li,blockquote){text-wrap:pretty}
     }
   }
 }
+
+/* 19. Category pages on phones (Nov. 19, 2026) -------------------------------
+   The first product row started below the first screen (title band, intro, filter and sort
+   took 740 of 844 px), and the page numbers were hidden so only "Next" showed.
+   Tighter spacing above the grid; page numbers on their own centred row. */
+@media (max-width:639.98px){
+  body.cr-prism main .max-w-2xl.pt-10:has(.fs-category-intro){padding-top:.75rem!important}
+  body.cr-prism main :has(>.fs-category-intro) .cr-band--head{padding:.875rem 1rem .25rem!important}
+  body.cr-prism main :has(>.fs-category-intro) .cr-band--head>.py-6{padding-block:.5rem!important}
+  body.cr-prism .fs-category-intro .pt-8{padding-top:1rem!important}
+  body.cr-prism .fs-category-intro~section.my-12,body.cr-prism :has(>.fs-category-intro)~section.my-12{margin-top:1rem!important}
+  body.cr-prism nav[aria-label="Pagination Navigation"]{flex-wrap:wrap!important;row-gap:.75rem}
+  body.cr-prism nav[aria-label="Pagination Navigation"]>div.flex-1{flex:1 1 40%!important}
+  body.cr-prism nav[aria-label="Pagination Navigation"]>div.hidden.sm\:flex{display:flex!important;order:3;flex:0 0 100%;flex-wrap:wrap;justify-content:center;gap:.5rem}
+  body.cr-prism nav[aria-label="Pagination Navigation"]>div.hidden.sm\:flex>*{margin:0!important}
+  body.cr-prism nav[aria-label="Pagination Navigation"]>div.hidden.sm\:flex :is(a,span.inline-flex){min-width:44px;height:44px;justify-content:center;padding-inline:.5rem}
+}
