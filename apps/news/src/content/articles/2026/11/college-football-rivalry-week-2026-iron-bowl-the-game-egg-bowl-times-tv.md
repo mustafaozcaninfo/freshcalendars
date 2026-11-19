@@ -3,7 +3,7 @@ title: "College Football Rivalry Week 2026: Egg Bowl Nov. 27, Game Nov. 28"
 description: "College football Rivalry Week 2026 is Nov. 26-28: Michigan at Ohio State at noon ET on FOX, the Egg Bowl Friday. Iron Bowl time not yet set. Viewing sheet."
 type: news
 publishedAt: "2026-11-01T01:30:00-05:00"
-updatedAt: "2026-11-17T21:24:00-05:00"
+updatedAt: "2026-11-18T19:30:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["rivalry week 2026 schedule", "Iron Bowl 2026 time", "Ohio State Michigan 2026 time", "Egg Bowl 2026", "Black Friday college football 2026"]
@@ -32,14 +32,15 @@ assets:
       - ["Sat., Nov. 28 · 12:00 p.m.", "The Game: Michigan at Ohio State (FOX)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · noon-1 p.m. window", "Louisville at Kentucky (SEC)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · noon-1 p.m. window", "LSU at Arkansas (SEC)  Pick: ______  Score: ______"]
+      - ["Sat., Nov. 28 · 3:00 p.m.", "Virginia at Virginia Tech (The CW)  Pick: ______  Score: ______"]
+      - ["Sat., Nov. 28 · 3 or 3:30 p.m.", "South Carolina at Clemson (ESPN, ESPN2 or ACC Network)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30 p.m.", "USC at UCLA (CBS)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30-4:30 p.m. window", "Oklahoma at Missouri (SEC)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30-4:30 or 6-8 p.m.", "Iron Bowl: Auburn at Alabama (SEC; set by Nov. 22)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30-4:30 or 6-8 p.m.", "Georgia Tech at Georgia (SEC; set by Nov. 22)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 6-8 p.m. window", "Tennessee at Vanderbilt (SEC)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 28 · time to be announced", "South Carolina at Clemson  Pick: ______  Score: ______"]
       - ["Tiebreaker · Sat., Nov. 28", "Total points, Michigan at Ohio State: ______"]
-    note: "Source: ESPN college football schedule, Week 14 (checked Nov. 13, 2026); Auburn Athletics (SEC flex rule); Buckeye Sports Bulletin; Nebraska Athletics; UCLA Athletics (checked Nov. 17, 2026). Times can change; check ESPN."
+    note: "Source: ESPN college football schedule, Week 14 (checked Nov. 13, 2026); Auburn Athletics (SEC flex rule); Buckeye Sports Bulletin; Nebraska Athletics; UCLA Athletics (checked Nov. 17, 2026); Virginia Tech, Virginia, Arizona State and Clemson and South Carolina athletics (checked Nov. 18, 2026). Times can change; check ESPN."
     description: "A one-page college football Rivalry Week 2026 sheet with Nov. 26-28 games, Eastern Time kickoffs or SEC windows, networks, and blanks for picks and scores."
     alt: "Printable college football Rivalry Week 2026 viewing sheet listing Nov. 26-28 games with time, network and blanks for picks and scores"
 hero:
@@ -88,6 +89,26 @@ sources:
     url: "https://huskers.com/news/2026/05/27/kickoff-times-set-for-four-husker-football-games"
     publisher: "Nebraska Athletics"
     date: "2026-05-27"
+  - title: "Football 2026 Schedule - Virginia Tech Athletics"
+    url: "https://hokiesports.com/sports/football/schedule"
+    publisher: "Virginia Tech Athletics"
+    date: "2026-11-18"
+  - title: "Football 2026-27 - Virginia Cavaliers Official Athletic Site"
+    url: "https://virginiasports.com/sports/football/schedule"
+    publisher: "Virginia Athletics"
+    date: "2026-11-18"
+  - title: "2026 Football - Sun Devil Athletics"
+    url: "https://thesundevils.com/sports/football/schedule"
+    publisher: "Sun Devil Athletics"
+    date: "2026-11-18"
+  - title: "Football 2026-27 - Clemson University Athletics"
+    url: "https://clemsontigers.com/sports/football/schedule"
+    publisher: "Clemson Athletics"
+    date: "2026-11-18"
+  - title: "Football Schedule 2026 - University of South Carolina Athletics"
+    url: "https://gamecocksonline.com/sports/football/schedule"
+    publisher: "South Carolina Athletics"
+    date: "2026-11-18"
   - title: "2026 Football Schedule - UCLA Bruins"
     url: "https://uclabruins.com/sports/football/schedule/2026"
     publisher: "UCLA Athletics"
@@ -133,7 +154,7 @@ draft: false
 
 ## Which rivalry games are played Nov. 26-28, 2026?
 
-ESPN's schedule (checked Nov. 13, 2026) lists these rivalry games with their dates, sites and times. A dash means the time and network are not yet announced.
+ESPN's schedule (checked Nov. 13, 2026) lists these rivalry games with their dates, sites and times. A dash means the time or network is not yet announced. The Virginia, Arizona State and Clemson and South Carolina times come from the schools' own schedule pages, checked Nov. 18, 2026.
 
 | Rivalry | Game | Date | Site | Time (ET) | TV |
 |---|---|---|---|---|---|
@@ -147,10 +168,10 @@ ESPN's schedule (checked Nov. 13, 2026) lists these rivalry games with their dat
 | Clean, Old-Fashioned Hate | Georgia Tech at Georgia | Sat., Nov. 28 | Sanford Stadium, Athens | 3:30-4:30 p.m. or 6-8 p.m. window | - |
 | Governor's Cup | Louisville at Kentucky | Sat., Nov. 28 | Kroger Field, Lexington | Noon-1 p.m. window | - |
 | Victory Bell | University of Southern California (USC) at University of California, Los Angeles (UCLA) | Sat., Nov. 28 | Rose Bowl, Pasadena | 3:30 p.m. | CBS |
-| Palmetto Bowl | South Carolina at Clemson | Sat., Nov. 28 | Memorial Stadium, Clemson | - | - |
+| Palmetto Bowl | South Carolina at Clemson | Sat., Nov. 28 | Memorial Stadium, Clemson | 3 or 3:30 p.m. (not final) | ESPN, ESPN2 or Atlantic Coast Conference (ACC) Network (not final) |
 | Old Oaken Bucket | Purdue at Indiana | Sat., Nov. 28 | Memorial Stadium, Bloomington | - | - |
-| Territorial Cup | Arizona State at Arizona | Sat., Nov. 28 | Casino Del Sol Stadium, Tucson | - | - |
-| Commonwealth Clash | Virginia at Virginia Tech | Sat., Nov. 28 | Lane Stadium, Blacksburg | - | - |
+| Territorial Cup | Arizona State at Arizona | Sat., Nov. 28 | Casino Del Sol Stadium, Tucson | 9 p.m. (7 p.m. MST) | - |
+| Commonwealth Clash | Virginia at Virginia Tech | Sat., Nov. 28 | Lane Stadium, Blacksburg | 3 p.m. | The CW |
 
 On Thanksgiving night ESPN lists Texas Christian University (TCU) at Texas Tech on Thursday, Nov. 26 at 8 p.m. ET on ESPN, in Lubbock. Texas Tech Athletics announced the Thanksgiving-night slot on May 11, 2026. ESPN lists the venue as Galaxy Stadium. For the National Football League (NFL) games that day, see our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/), which covers both leagues.
 
@@ -201,9 +222,11 @@ Only a few Saturday games have a set time on ESPN's list or the schools' own sch
 | Time (ET) | CT | MT | PT | Game | TV |
 |---|---|---|---|---|---|
 | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | Michigan at Ohio State | FOX |
+| 3:00 p.m. | 2:00 p.m. | 1:00 p.m. | 12:00 p.m. | Virginia at Virginia Tech | The CW |
 | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | Jacksonville State at Delaware | CBS Sports Network |
 | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | USC at UCLA (Rose Bowl) | CBS |
 | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. | 6:00 p.m. | Nevada at University of Nevada, Las Vegas (UNLV) (Allegiant Stadium) | CBS Sports Network |
+| 9:00 p.m. | 8:00 p.m. | 7:00 p.m. | 6:00 p.m. | Arizona State at Arizona (7 p.m. MST) | not listed |
 | 11:00 p.m. | 10:00 p.m. | 9:00 p.m. | 8:00 p.m. | Sacramento State at Hawai'i | MW+ (Mountain West streaming) |
 
 ESPN also lists these Saturday games without a time or network: Penn State at Maryland, Michigan State at Rutgers, Illinois at Northwestern, Kansas State at Iowa State, Kansas at Oklahoma State, Duke at Wake Forest, Florida Atlantic at East Carolina, Tulane at South Florida, Cincinnati at Brigham Young University (BYU), Baylor at Houston, Southern Methodist University (SMU) at Stanford, Pittsburgh at California, University of Central Florida (UCF) at Colorado, University of Southern California (USC) at University of California, Los Angeles (UCLA) (Rose Bowl, Pasadena), Notre Dame at Syracuse, Boston College at Miami (Hard Rock Stadium, Miami Gardens), NC State at North Carolina (Kenan Stadium, Chapel Hill), Washington at Oregon (Autzen Stadium, Eugene), Army at Rice (Houston) and Navy at Charlotte.

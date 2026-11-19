@@ -3,6 +3,7 @@ title: "FIFA Intercontinental Cup 2026: Dec. 9, Dec. 12 and Final Dec. 16"
 description: "The Intercontinental Cup 2026 final is Wed., Dec. 16 in Qatar, per Fédération Internationale de Football Association (FIFA). Every match date and venue."
 type: news
 publishedAt: "2026-11-04T10:50:00-05:00"
+updatedAt: "2026-11-18T19:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["intercontinental cup 2026", "fifa intercontinental cup final 2026", "psg intercontinental cup 2026", "derby of the americas 2026"]
@@ -50,7 +51,7 @@ faq:
   - q: "When is the Intercontinental Cup final in 2026?"
     a: "Wednesday, Dec. 16, 2026, at Ahmad bin Ali Stadium in Al Rayyan, Qatar, according to FIFA. PSG plays the winners of the FIFA Challenger Cup."
   - q: "Who plays in the Derby of the Americas in 2026?"
-    a: "The Copa Libertadores 2026 winners play Toluca on Wed., Dec. 9, at Jassim bin Hamad Stadium in Doha, per FIFA. The Libertadores final is Palmeiras v Estudiantes de La Plata on Sat., Nov. 28, in Montevideo, 442 Perfil and Primicias reported."
+    a: "The Copa Libertadores 2026 winners play Toluca on Wed., Dec. 9, at Jassim bin Hamad Stadium in Doha, per FIFA. The Libertadores final is Palmeiras v Estudiantes de La Plata on Sat., Nov. 28, in Montevideo, kicking off at 5 p.m. Brasília time (3 p.m. ET), 442 Perfil and Diário do Grande ABC reported."
   - q: "What time is the Intercontinental Cup final?"
     a: "FIFA has not announced kickoff times for the three Qatar matches. Last year's final started at 8 p.m. in Qatar, per Al Jazeera."
   - q: "Where can I watch the Intercontinental Cup in the U.S.?"
@@ -74,6 +75,10 @@ sources:
   - title: "Final de la Copa Libertadores: Conmebol confirmó el horario para Palmeiras vs. Estudiantes"
     url: "https://442.perfil.com/noticias/amp/futbol/final-de-la-copa-libertadores-conmebol-confirmo-el-horario-para-palmeiras-vs-estudiantes.phtml"
     publisher: "442 Perfil"
+    date: "2026-10-31"
+  - title: "Palmeiras x Estudiantes: final da Libertadores será às 17h"
+    url: "https://www.dgabc.com.br/Noticia/4366193/palmeiras-x-estudiantes-conmebol-define-horario-da-final-da-libertadores-veja-detalhes"
+    publisher: "Diário do Grande ABC"
     date: "2026-10-31"
   - title: "Estadio Centenario, sede de la final de la Copa Libertadores 2026"
     url: "https://www.primicias.ec/deportes/futbol/estadio-centenario-final-copa-libertadores2026-remodelacion-mundial2030-135798/"
@@ -122,16 +127,16 @@ Two matches are already played. The table below puts the whole path in order, wi
 |---|---|---|
 | Wed., Aug. 26, 2026 | African-Asian-Pacific Play-off, Jeddah | Al Ahli beat Oceania Football Confederation (OFC) Champions League winners Auckland FC 1-0 |
 | Sat., Sept. 19, 2026 | Pretoria, South Africa | Mamelodi Sundowns overcame Al Ahli 2-1 |
-| Sat., Nov. 28, 2026 | Copa Libertadores final, Estadio Centenario, Montevideo | Palmeiras v Estudiantes de La Plata |
+| Sat., Nov. 28, 2026 | Copa Libertadores final, Estadio Centenario, Montevideo | Palmeiras v Estudiantes de La Plata, 3 p.m. ET (17:00 Brasília) |
 | Wed., Dec. 9, 2026 | Derby of the Americas, Doha | Libertadores winners v Toluca |
 | Sat., Dec. 12, 2026 | Challenger Cup, Doha | Derby winners v Mamelodi Sundowns |
 | Wed., Dec. 16, 2026 | Final, Al Rayyan | PSG v Challenger Cup winners |
 
-The Aug. 26 date comes from FIFA's preview of the Jeddah match, and the 1-0 and 2-1 results from FIFA's Oct. 22 announcement. 442 Perfil and Primicias both name Palmeiras and Estudiantes de La Plata as the Libertadores finalists, and both place the Nov. 28 final at Estadio Centenario in Montevideo. Kickoff time for that match is not given here.
+The Aug. 26 date comes from FIFA's preview of the Jeddah match, and the 1-0 and 2-1 results from FIFA's Oct. 22 announcement. 442 Perfil and Primicias both name Palmeiras and Estudiantes de La Plata as the Libertadores finalists, and both place the Nov. 28 final at Estadio Centenario in Montevideo. 442 Perfil and Diário do Grande ABC both report that the South American Football Confederation (CONMEBOL) set the kickoff at 17:00 Brasília time (UTC-3, the same as Montevideo) on Nov. 28, which is 3 p.m. ET.
 
 ## Who is Toluca in the Derby of the Americas?
 
-Toluca is the Concacaf club in the Derby of the Americas. It reached the Confederation of North, Central America and Caribbean Association Football (Concacaf) Champions Cup final in May 2026 by beating Los Angeles FC 5-2 on aggregate, per Concacaf. That was its sixth final. The Libertadores winner is the South American Football Confederation (CONMEBOL) club that will face it on Dec. 9.
+Toluca is the Concacaf club in the Derby of the Americas. It reached the Confederation of North, Central America and Caribbean Association Football (Concacaf) Champions Cup final in May 2026 by beating Los Angeles FC 5-2 on aggregate, per Concacaf. That was its sixth final. The Libertadores winner is the CONMEBOL club that will face it on Dec. 9.
 
 ## What time is the Intercontinental Cup final?
 
