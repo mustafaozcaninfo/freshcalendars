@@ -1,9 +1,9 @@
 ---
 title: "ATP Finals 2026 in Turin: Nov. 15-22, Qualified Players and TV"
-description: "The Association of Tennis Professionals (ATP) Finals run Nov. 15-22 in Turin on Tennis Channel. All eight players, the groups and day-one times are set."
+description: "The Association of Tennis Professionals (ATP) Finals run Nov. 15-22 in Turin on Tennis Channel. Results, standings, semifinalists and Thursday times."
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
-updatedAt: "2026-11-13T16:07:00-05:00"
+updatedAt: "2026-11-19T05:37:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["atp finals 2026", "atp finals 2026 schedule", "nitto atp finals turin dates", "atp finals 2026 tv channel us", "atp finals qualified players 2026"]
@@ -21,8 +21,8 @@ hero:
 summary:
   - "The Nitto ATP Finals will take place from Nov. 15 to 22, 2026 at the Inalpi Arena in Turin, Italy, a Sunday to a Sunday, according to the event's official site."
   - "The event's TV page, checked Nov. 13, 2026, lists Tennis Channel in the United States, Sky UK in the United Kingdom, The Sports Network (TSN) in Canada, and Sky Italia and Mediaset in Italy."
-  - "The field is set. The Nov. 12 draw put Alexander Zverev, Ben Shelton, Arthur Fils and Rafael Jodar in the John McEnroe Group, and Carlos Alcaraz, Daniil Medvedev, Flavio Cobolli and Frances Tiafoe in the Ivan Lendl Group. The eight doubles teams are set too."
-  - "The event's 2026 tournament schedule puts singles not before 2 p.m. and 8:30 p.m. in Turin, which is 8 a.m. and 2:30 p.m. Eastern Time (ET). Sunday's order of play starts with Zverev against Jodar not before 2 p.m. in Turin, then Shelton against Fils not before 8:30 p.m."
+  - "After four days of round-robin play, Zverev (John McEnroe Group) and Alcaraz (Ivan Lendl Group) have qualified for the semifinals, per the ATP Tour (Nov. 17 and 18). Two singles spots are open, and Marcelo Arevalo/Mate Pavic and Kevin Krawietz/Tim Puetz have reached the doubles semifinals."
+  - "On Thursday, Nov. 19, Shelton plays Jodar not before 2 p.m. in Turin (8 a.m. Eastern Time (ET)) and Zverev plays Fils not before 8:30 p.m. (2:30 p.m. ET), according to the ATP Tour."
 faq:
   - q: "What are the ATP Finals 2026 dates?"
     a: "Nov. 15 to 22, 2026, at the Inalpi Arena in Turin, according to the Nitto ATP Finals. Nov. 15 and Nov. 22 are both Sundays."
@@ -34,6 +34,10 @@ faq:
     a: "On Sunday, Nov. 15 the event's order of play has Heliovaara and Patten against Luz and Matos at 11:30 a.m., Zverev against Jodar not before 2 p.m., Arevalo and Pavic against Arribage and Olivetti not before 6 p.m., and Shelton against Fils not before 8:30 p.m., all Turin time."
   - q: "What time do ATP Finals matches start?"
     a: "The event's 2026 tournament schedule lists doubles at 11:30 a.m. and singles not before 2 p.m. in the day session, then doubles at 6 p.m. and singles not before 8:30 p.m. at night, local time in Turin, from Nov. 15 to 20. In Eastern Time that is 5:30 a.m., 8 a.m., noon and 2:30 p.m."
+  - q: "Who has reached the ATP Finals 2026 semifinals?"
+    a: "Alexander Zverev and Carlos Alcaraz in singles, according to the ATP Tour (Nov. 17 and Nov. 18). Two singles places are open. In doubles, Marcelo Arevalo/Mate Pavic and Kevin Krawietz/Tim Puetz have qualified."
+  - q: "Who plays on Thursday, Nov. 19 at the ATP Finals 2026?"
+    a: "Ben Shelton plays Rafael Jodar not before 2 p.m. Turin time (8 a.m. ET) and Alexander Zverev plays Arthur Fils not before 8:30 p.m. (2:30 p.m. ET), according to the ATP Tour's Nov. 18 preview. Friday matchups, the semifinal pairings and the final are not yet set."
 sources:
   - title: "Nitto ATP Finals 2026 Draw"
     url: "https://www.nittoatpfinals.com/en/news/nitto-atp-finals-2026-draw"
@@ -113,6 +117,42 @@ sources:
   - title: "Rolex Paris Masters back October 31 to November 8, 2026"
     url: "https://www.parisladefense.com/en/news/events/rolex-paris-masters-back-october-31-november-8-2026"
     publisher: "Paris La Défense"
+  - title: "Results | Nitto ATP Finals"
+    url: "https://www.nittoatpfinals.com/en/scores-centre/results"
+    publisher: "Nitto ATP Finals"
+    date: "2026-11-19"
+  - title: "Group standings | Nitto ATP Finals"
+    url: "https://www.nittoatpfinals.com/en/scores-centre/group-standings"
+    publisher: "Nitto ATP Finals"
+    date: "2026-11-19"
+  - title: "What were the Nitto ATP Finals results?"
+    url: "https://www.atptour.com/en/news/nitto-atp-finals-2026-results"
+    publisher: "ATP Tour"
+    date: "2026-11-18"
+  - title: "What is the Nitto ATP Finals schedule?"
+    url: "https://www.atptour.com/en/news/nitto-atp-finals-2026-schedule"
+    publisher: "ATP Tour"
+    date: "2026-11-18"
+  - title: "Alexander Zverev shuts down Ben Shelton to seal Nitto ATP Finals SF berth"
+    url: "https://www.atptour.com/en/news/zverev-shelton-nitto-atp-finals-2026-tuesday"
+    publisher: "ATP Tour"
+    date: "2026-11-17"
+  - title: "Carlos Alcaraz qualifies for semi-finals at Nitto ATP Finals"
+    url: "https://www.atptour.com/en/news/alcaraz-nitto-atp-finals-2026-semi-final-qualification"
+    publisher: "ATP Tour"
+    date: "2026-11-18"
+  - title: "Nitto ATP Finals 2026 doubles, Tuesday"
+    url: "https://www.atptour.com/en/news/arribage-olivetti-luz-matos-nitto-atp-finals-2026-doubles"
+    publisher: "ATP Tour"
+    date: "2026-11-17"
+  - title: "Nitto ATP Finals 2026 doubles, Wednesday"
+    url: "https://www.atptour.com/en/news/krawietz-puetz-granollers-zeballos-nitto-atp-finals-2026-wednesday"
+    publisher: "ATP Tour"
+    date: "2026-11-18"
+  - title: "Nitto ATP Finals 2026 day 5 preview"
+    url: "https://www.atptour.com/en/news/shelton-jodar-zverev-fils-nitto-atp-finals-2026-day-5-preview"
+    publisher: "ATP Tour"
+    date: "2026-11-18"
 downloads:
   - group: "ATP Finals 2026 Viewing Planner printables"
     title: "ATP Finals 2026 Viewing Planner, Nov. 15-22, Turin"
@@ -144,10 +184,10 @@ assets:
     rows:
       - ["Sun., Nov. 15", "Opening day. Zverev vs Jodar not before 2 p.m. Turin (8 a.m. ET); Shelton vs Fils not before 8:30 p.m. Turin (2:30 p.m. ET)"]
       - ["Mon., Nov. 16", "Alcaraz vs Tiafoe not before 2 p.m. Turin (8 a.m. ET); Medvedev vs Cobolli not before 8:30 p.m. Turin (2:30 p.m. ET)"]
-      - ["Tue., Nov. 17", "Time: ________"]
-      - ["Wed., Nov. 18", "Time: ________"]
-      - ["Thu., Nov. 19", "Time: ________"]
-      - ["Fri., Nov. 20", "Time: ________"]
+      - ["Tue., Nov. 17", "Zverev d. Shelton 6-2 7-6(4); Fils d. Jodar 4-6 6-2 6-2"]
+      - ["Wed., Nov. 18", "Alcaraz d. Medvedev 6-2 6-4; Tiafoe d. Cobolli 7-6(6) 6-0"]
+      - ["Thu., Nov. 19", "Shelton vs Jodar not before 2 p.m. Turin (8 a.m. ET); Zverev vs Fils not before 8:30 p.m. Turin (2:30 p.m. ET)"]
+      - ["Fri., Nov. 20", "11:30 a.m., not before 2 p.m., 6 p.m., not before 8:30 p.m. Turin; matchups not yet set. Time: ________"]
       - ["Sat., Nov. 21", "Semifinals. Singles semifinal not before 2:30 p.m. Turin (8:30 a.m. ET); not before 8:30 p.m. Turin (2:30 p.m. ET)"]
       - ["Sun., Nov. 22", "Finals day. Doubles final 3 p.m. Turin (9 a.m. ET); singles final not before 6 p.m. Turin (12 p.m. ET)"]
       - ["United States", "Tennis Channel (incl. Puerto Rico, U.S. Virgin Islands)"]
@@ -155,13 +195,13 @@ assets:
       - ["Canada", "TSN"]
       - ["Italy", "Sky Italia and Mediaset"]
       - ["Streaming", "Tennis TV (TennisTV.com) streams ATP Tour action"]
-    note: "Source: Nitto ATP Finals (nittoatpfinals.com), checked Nov. 13, 2026; ATP Tour. Order of play for Nov. 17 onward is not yet announced; times are Turin time and subject to change."
+    note: "Source: Nitto ATP Finals (nittoatpfinals.com), checked Nov. 19, 2026; ATP Tour. Friday matchups and the semifinal and final pairings are not yet set; times are Turin time and subject to change."
     description: "A one-page ATP Finals 2026 viewing planner with the Nov. 15-22 dates, the TV channel for the U.S., U.K., Canada and Italy, and blank lines for match times."
     alt: "ATP Finals 2026 viewing planner with dates, TV channels by country and blank time lines"
 draft: false
 ---
 
-**The Nitto ATP Finals will take place from Nov. 15 to 22, 2026 at the Inalpi Arena in Turin, Italy, according to the event's official site, and its TV page, checked Nov. 13, 2026, lists Tennis Channel for the United States.** Nov. 15 and Nov. 22 are both Sundays. The event's 2026 tournament schedule puts the first singles match of each round-robin day not before 2 p.m. in Turin, 8 a.m. Eastern Time (ET). The draw was made on Thursday, Nov. 12, and Sunday opens with world No. 1 Alexander Zverev against Rafael Jodar. The Association of Tennis Professionals (ATP) runs the tour.
+**The Nitto ATP Finals will take place from Nov. 15 to 22, 2026 at the Inalpi Arena in Turin, Italy, according to the event's official site, and its TV page, checked Nov. 13, 2026, lists Tennis Channel for the United States.** Nov. 15 and Nov. 22 are both Sundays. The event's 2026 tournament schedule puts the first singles match of each round-robin day not before 2 p.m. in Turin, 8 a.m. Eastern Time (ET). The draw was made on Thursday, Nov. 12, and Sunday opened with world No. 1 Alexander Zverev against Rafael Jodar. As of Thursday, Nov. 19, Zverev and Carlos Alcaraz have qualified for the semifinals. The Association of Tennis Professionals (ATP) runs the tour.
 
 ## What are the ATP Finals 2026 dates?
 
@@ -248,7 +288,7 @@ The Nitto ATP Finals tournament schedule for 2026, checked Nov. 3, gives these s
 | Not before 6 p.m. (doubles) | [4] Arevalo/Pavic vs [6] Arribage/Olivetti | [2] Harrison/Skupski vs [7] Krawietz/Puetz |
 | Not before 8:30 p.m. (singles) | [3] Shelton vs [6] Fils | [4] Medvedev vs [5] Cobolli |
 
-The order of play for Nov. 17 onward is not yet announced.
+Results from Tuesday and Wednesday are in the tables below. The ATP Tour's Nov. 18 preview gives Thursday's singles: Shelton against Jodar not before 2 p.m. Turin time (1 p.m. GMT, 8 a.m. ET, 5 a.m. PT) and Zverev against Fils not before 8:30 p.m. (7:30 p.m. GMT, 2:30 p.m. ET, 11:30 a.m. PT). The event's session grid gives Thursday and Friday the same four start times: 11:30 a.m., not before 2 p.m., 6 p.m. and not before 8:30 p.m. Friday matchups and the semifinal and final pairings are not yet set.
 
 In November 2026 Turin is on CET (Coordinated Universal Time (UTC) plus 1 hour). U.S. clocks fall back on Nov. 1, so Eastern Time is UTC minus 5 hours, six hours behind Turin. Central Time (CT) is 7 hours behind, Mountain Time (MT) 8 hours and Pacific Time (PT) 9 hours. Greenwich Mean Time (GMT) in the U.K. is 1 hour behind.
 
@@ -274,10 +314,32 @@ In November 2026 Turin is on CET (Coordinated Universal Time (UTC) plus 1 hour).
 
 The 2025 draw was held on the Thursday before the event at 12 p.m. CET, which is 6 a.m. ET, according to the event's 2025 draw announcement. The 2026 draw was made on Thursday, Nov. 12, according to the event's draw report.
 
+## What are the ATP Finals 2026 results and standings?
+
+Round-robin singles results through Wednesday, Nov. 18, according to the event's results page and the ATP Tour's Nov. 18 results report:
+
+| Day | John McEnroe Group | Ivan Lendl Group |
+|---|---|---|
+| Sun., Nov. 15 | Zverev d. Jodar 6-4 6-4; Shelton d. Fils 6-2 3-6 6-3 | |
+| Mon., Nov. 16 | | Alcaraz d. Tiafoe 6-2 6-2; Medvedev d. Cobolli 7-6(4) 6-3 |
+| Tue., Nov. 17 | Zverev d. Shelton 6-2 7-6(4); Fils d. Jodar 4-6 6-2 6-2 | |
+| Wed., Nov. 18 | | Alcaraz d. Medvedev 6-2 6-4; Tiafoe d. Cobolli 7-6(6) 6-0 |
+
+Group standings on the event's site (wins and losses):
+
+| John McEnroe Group | Record | Ivan Lendl Group | Record |
+|---|---|---|---|
+| Zverev | 2-0 | Alcaraz | 2-0 |
+| Shelton | 1-1 | Tiafoe | 1-1 |
+| Fils | 1-1 | Medvedev | 1-1 |
+| Jodar | 0-2 | Cobolli | 0-2 |
+
+The ATP Tour wrote on Nov. 17 that "Alexander Zverev became the first singles player to qualify for the semi-finals," and reported Alcaraz's place on Nov. 18. Two singles semifinal spots are still open. In doubles, Arevalo/Pavic and Krawietz/Puetz have qualified for the semifinals, according to ATP Tour reports of Nov. 17 and Nov. 18.
+
 ## How much is the prize money?
 
 The event's points and prize money page, under "Singles Prize Money (2026)", lists $5,171,000 for an undefeated singles champion. The page we read gives no 2026 total, so none is given here.
 
 ## Free ATP Finals 2026 viewing planner
 
-The printable lists the eight dates from Sun., Nov. 15 to Sun., Nov. 22 with the known match times and a blank line for each day without one, plus the TV channel for the United States, United Kingdom, Canada and Italy. It carries the same source note as this story: Nitto ATP Finals, checked Nov. 13, 2026, and the ATP Tour. Recheck the event's site for the daily order of play before you plan a viewing day. For another season-ending tennis event, see the [Women's Tennis Association (WTA) Finals 2026 dates and time zones](/news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/).
+The printable lists the eight dates from Sun., Nov. 15 to Sun., Nov. 22 with results and known match times and a blank line for Friday, plus the TV channel for the United States, United Kingdom, Canada and Italy. It carries the same source note as this story: Nitto ATP Finals, checked Nov. 19, 2026, and the ATP Tour. Recheck the event's site for the daily order of play before you plan a viewing day. For another season-ending tennis event, see the [Women's Tennis Association (WTA) Finals 2026 dates and time zones](/news/wta-finals-2026-indian-wells-dates-qualified-players-time-zones/).

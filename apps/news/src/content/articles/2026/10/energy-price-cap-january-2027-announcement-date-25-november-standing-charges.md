@@ -3,7 +3,7 @@ title: "Energy Price Cap January 2027: Ofgem Announces by 25 November"
 description: "The Office of Gas and Electricity Markets (Ofgem) will announce the January 2027 energy price cap by 25 November 2026. Standing charges: £308.46 a year"
 type: news
 publishedAt: "2026-10-28T03:42:00-04:00"
-updatedAt: "2026-11-01T10:27:00-05:00"
+updatedAt: "2026-11-19T05:24:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["energy price cap January 2027", "when is the next price cap announcement", "Ofgem price cap 25 November 2026", "gas standing charge", "energy price cap 2027 dates"]
@@ -43,8 +43,11 @@ sources:
     url: "https://www.ofgem.gov.uk/news/changes-energy-price-cap-between-1-october-and-31-december-2026"
     publisher: "Ofgem"
     date: "2026-08-26"
-  - title: "Energy price cap"
+  - title: "Energy price cap and standing charges explained"
     url: "https://www.ofgem.gov.uk/energy-price-cap"
+    publisher: "Ofgem"
+  - title: "Energy price cap unit rates and standing charges"
+    url: "https://www.ofgem.gov.uk/your-energy-supply/your-energy-bill/energy-price-cap-unit-rates-and-standing-charges"
     publisher: "Ofgem"
   - title: "Changes to energy price cap between 1 January and 31 March 2026"
     url: "https://www.ofgem.gov.uk/publications/changes-energy-price-cap-between-1-january-and-31-march-2026"
@@ -133,7 +136,7 @@ Ofgem says that from 1 October to 31 December 2026, "energy prices will go up by
 
 Sources: Ofgem, 26 August 2026 (current period); Ofgem, 21 November 2025 (last year's period, when the typical dual-fuel Direct Debit bill was £1,758 a year, up 0.2%).
 
-Do not compare the two columns line by line. The government has removed value-added tax (VAT) from electricity bills from 1 October 2026 to 31 March 2027, so the current electricity figures exclude VAT, while gas includes VAT at 5%. Ofgem says costs cannot be compared directly with previous periods because of this change. Ofgem's page does not give a typical annual bill for October to December 2026, so we do not give one.
+Do not compare the two columns line by line. The government has removed value-added tax (VAT) from electricity bills from 1 October 2026 to 31 March 2027, so the current electricity figures exclude VAT, while gas includes VAT at 5%. Ofgem says costs cannot be compared directly with previous periods because of this change. Ofgem's unit rates page puts the October to December 2026 cap at £1,723 per year, based on average Direct Debit prices in England, Scotland and Wales. That is the level the January 2027 cap will be compared with.
 
 ## How much is the standing charge over a year?
 
