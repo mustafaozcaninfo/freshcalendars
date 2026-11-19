@@ -3,7 +3,7 @@ title: "International Volunteer Day 2026: Saturday, Dec. 5, Free Sheet"
 description: "International Volunteer Day is Saturday, Dec. 5, 2026. See U.S. volunteer numbers, Internal Revenue Service rules on volunteer expenses and a free sheet."
 type: explainer
 publishedAt: "2026-11-04T07:50:00-05:00"
-updatedAt: "2026-11-04T07:50:00-05:00"
+updatedAt: "2026-11-19T17:30:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["international volunteer day 2026", "when is international volunteer day", "international year of volunteers 2026", "volunteer opportunities near me", "volunteer tax deduction"]
@@ -33,9 +33,9 @@ assets:
         - text: "The IRS does not let you deduct the value of your time or services."
           src: 4
           quote: "the value of your time or services"
-        - text: "The IRS standard mileage rate for charity driving is 14 cents a mile (2025)."
-          src: 4
-          quote: "You can use a standard mileage rate of 14 cents a mile"
+        - text: "The IRS charity driving rate is 14 cents a mile in 2026, the same as 2025."
+          src: 6
+          quote: "14 cents per mile driven in service of charitable organizations, equal to the rate in 2025."
       activities:
         - type: checklist
           title: "Plan your volunteer day"
@@ -49,8 +49,8 @@ assets:
           items:
             - "The value of your time or services is not deductible"
             - "Save receipts for unreimbursed expenses and a mileage log"
-    note: "Source: United Nations, International Volunteer Day; Internal Revenue Service, Publication 526 (2025); Idealist."
-    description: "One-page International Volunteer Day 2026 sheet: the Dec. 5 date, steps to find a volunteer role, tick boxes and the 2025 IRS mileage rate for charity driving."
+    note: "Source: United Nations, International Volunteer Day; Internal Revenue Service, Publication 526 (2025) and news release IR-2025-128; Idealist."
+    description: "One-page International Volunteer Day 2026 sheet: the Dec. 5 date, steps to find a volunteer role, tick boxes and the 2026 IRS mileage rate for charity driving."
     alt: "Printable International Volunteer Day 2026 planning sheet with the Dec. 5 date, volunteer steps and tick boxes"
 hero:
   src: ../../../../assets/news/international-volunteer-day-2026-december-5/international-volunteer-day-2026-december-5.webp
@@ -65,8 +65,8 @@ hero:
 summary:
   - "International Volunteer Day (IVD) is Saturday, Dec. 5, 2026. The United Nations (UN) says it is celebrated on 5 December every year."
   - "The UN General Assembly designated 2026 the International Year of Volunteers for Sustainable Development, so this Dec. 5 falls at the close of that year. The 2026 theme is not yet announced."
-  - "In the 2023 survey, 75.7 million people, or 28.3% of Americans age 16 and up, formally volunteered, according to the U.S. Census Bureau and AmeriCorps."
-  - "The Internal Revenue Service (IRS) does not allow a deduction for the value of your time, but unreimbursed volunteer expenses can count, with a 14 cents a mile rate in 2025."
+  - "From September 2022 to September 2023, 75.7 million people, or 28.3% of Americans age 16 and up, formally volunteered, according to the U.S. Census Bureau and AmeriCorps."
+  - "The Internal Revenue Service (IRS) does not allow a deduction for the value of your time, but unreimbursed volunteer expenses can count, with a charity driving rate of 14 cents a mile in 2026, the same as in 2025."
 faq:
   - q: "When is International Volunteer Day in 2026?"
     a: "Saturday, Dec. 5, 2026. The UN says the day is celebrated on 5 December every year; the weekday is our calculation."
@@ -95,6 +95,10 @@ sources:
   - title: "VolunteerMatch"
     url: "https://www.idealist.org/volunteermatch"
     publisher: "Idealist"
+  - title: "IRS sets 2026 business standard mileage rate at 72.5 cents per mile, up 2.5 cents"
+    url: "https://www.irs.gov/newsroom/irs-sets-2026-business-standard-mileage-rate-at-725-cents-per-mile-up-25-cents"
+    publisher: "Internal Revenue Service"
+    date: "2025-12-29"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -104,7 +108,7 @@ related: [giving-tuesday-2026-december-1-tax-deduction-charity-check, world-toil
 downloads:
   - group: "International Volunteer Day 2026 Planning Sheet printables"
     title: "International Volunteer Day 2026 Planning Sheet"
-    description: "One-page International Volunteer Day 2026 sheet: the Dec. 5 date, steps to find a volunteer role, tick boxes and the 2025 IRS mileage rate for charity driving."
+    description: "One-page International Volunteer Day 2026 sheet: the Dec. 5 date, steps to find a volunteer role, tick boxes and the 2026 IRS mileage rate for charity driving."
     preview: ../../../../assets/news/international-volunteer-day-2026/international-volunteer-day-2026-volunteer-activity-sheet.png
     alt: "Printable International Volunteer Day 2026 planning sheet with the Dec. 5 date, volunteer steps and tick boxes"
     pdf: "/news/downloads/international-volunteer-day-2026/international-volunteer-day-2026-volunteer-activity-sheet.pdf"
@@ -143,7 +147,7 @@ IRS Publication 526 (2025 edition) covers charitable contributions. It draws a l
 | Unreimbursed expenses directly connected with volunteering | Yes, for a qualified organization | Such expenses may be deducted |
 | Car mileage by the standard rate | Yes, under the same rule | "You can use a standard mileage rate of 14 cents a mile" |
 
-The rate above comes from the 2025 edition; check the current publication before you file. Keep a log of hours and miles. Our [GivingTuesday 2026 tax deduction and charity check](/news/giving-tuesday-2026-december-1-tax-deduction-charity-check/) covers giving money rather than time.
+The quote above comes from the 2025 edition. For 2026, the IRS news release of Dec. 29, 2025 (IR-2025-128) lists "14 cents per mile driven in service of charitable organizations, equal to the rate in 2025." Keep a log of hours and miles. Our [GivingTuesday 2026 tax deduction and charity check](/news/giving-tuesday-2026-december-1-tax-deduction-charity-check/) covers giving money rather than time.
 
 ## Where can you find volunteer opportunities near you?
 
@@ -166,4 +170,4 @@ Mark it on the [December 2026 printable calendar](/december-calendars.html) or t
 
 ## What does the free volunteer day sheet include?
 
-The one-page sheet has four tick-box steps for planning a shift, the Dec. 5 date, the 2025 IRS mileage rate and a note that the value of your time is not deductible. It leaves space to write the cause and organization you pick. Sources are the UN, the Census Bureau, the IRS and Idealist, listed below.
+The one-page sheet has four tick-box steps for planning a shift, the Dec. 5 date, the 2026 IRS charity mileage rate of 14 cents a mile and a note that the value of your time is not deductible. It leaves space to write the cause and organization you pick. Sources are the UN, the Census Bureau, the IRS and Idealist, listed below.
