@@ -3,7 +3,7 @@ title: "Survivor Series 2026 Start Time: 6 p.m. ET on Nov. 28"
 description: "World Wrestling Entertainment (WWE) lists Survivor Series: WarGames for Sat., Nov. 28 in Houston at 6 p.m. ET. Times for every U.S. zone, the UK and Japan."
 type: news
 publishedAt: "2026-10-30T07:50:00-04:00"
-updatedAt: "2026-11-13T21:29:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["survivor series 2026", "survivor series wargames 2026 start time", "survivor series 2026 date", "how to watch survivor series 2026"]
@@ -23,7 +23,7 @@ hero:
 summary:
   - "WWE lists Survivor Series: WarGames for Saturday, Nov. 28, 2026, at Daikin Park in Houston, the event's first return to the city since 2017."
   - "The ESPN App streams it live at 6 p.m. Eastern Time (ET), which is 5 p.m. in Houston and 3 p.m. Pacific Time (PT), by our conversion."
-  - "As of Nov. 13, WWE lists a WarGames Match, The Bloodline vs. The 946, and Liv Morgan vs. Becky Lynch for the Women's World Championship; no pre-show time is announced."
+  - "As of Nov. 19, WWE lists three matches: two WarGames Matches and Liv Morgan vs. Becky Lynch for the Women's World Championship; no pre-show time is announced."
 faq:
   - q: "What time is Survivor Series 2026?"
     a: "WWE's event page says it streams live on the ESPN App on Saturday, Nov. 28, at 6 p.m. ET. By our conversion that is 5 p.m. Central Time (CT), 4 p.m. Mountain Time (MT) and 3 p.m. PT."
@@ -34,7 +34,7 @@ faq:
   - q: "What time is Survivor Series 2026 in the UK?"
     a: "11 p.m. Greenwich Mean Time (GMT) on Saturday, Nov. 28, by our conversion of WWE's 6 p.m. ET. WWE's official pages do not yet name a UK broadcaster for 2026."
   - q: "What matches are on the Survivor Series 2026 card?"
-    a: "As of Nov. 13, WWE lists a WarGames Match, The Bloodline vs. The 946, and Women's World Champion Liv Morgan vs. Becky Lynch. WWE may add matches, and the teams' lineups may still change."
+    a: "As of Nov. 19, WWE lists three matches: a WarGames Match, The Bloodline vs. The 946; a second WarGames Match, Charlotte Flair's team vs. Fatal Influence's team; and Women's World Champion Liv Morgan vs. Becky Lynch. WWE may add matches, and the teams' lineups may still change."
   - q: "What time is Survivor Series 2026 in Japan?"
     a: "Netflix lists the event streaming live at 8:00 a.m. Japan Standard Time (JST) on Sunday, Nov. 29."
 sources:
@@ -45,7 +45,7 @@ sources:
   - title: "Survivor Series WarGames 2026"
     url: "https://www.wwe.com/shows/survivor-series-wargames/2026"
     publisher: "WWE"
-    date: "2026-11-13"
+    date: "2026-11-19"
   - title: "The Bloodline vs. The 946 (WarGames Match)"
     url: "https://www.wwe.com/shows/survivor-series-wargames/2026/the-bloodline-vs-the-946"
     publisher: "WWE"
@@ -175,9 +175,10 @@ WWE's official pages we checked do not name a UK broadcaster for 2026. Netflix s
 
 ## Which matches are on the Survivor Series 2026 card?
 
-As of Nov. 13, WWE's show page lists two matches for Survivor Series: WarGames 2026:
+As of Nov. 19, WWE's show page lists three matches for Survivor Series: WarGames 2026:
 
 - **WarGames Match:** The Bloodline vs. The 946. WWE says "The Bloodline will battle The 946 in a career-altering WarGames Match." Each team's lineup may still change.
+- **WarGames Match:** Charlotte Flair, Stephanie Vaquer, Alexa Bliss, Tatum Paxley and Bayley vs. Fatal Influence, Jade Cargill and Michin.
 - **Women's World Championship:** Women's World Champion Liv Morgan vs. Becky Lynch.
 
 WWE may add matches before Nov. 28. WWE has not announced a Kickoff (pre-show) time.
