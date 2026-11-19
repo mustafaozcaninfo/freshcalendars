@@ -103,7 +103,7 @@ The Senate events page said "No events are scheduled" on Nov. 10, 2026, so the D
 
 ## California 2027 bill deadlines: what is fixed and what is not
 
-The 2027 calendar is not posted, so the bill introduction deadline, the house-of-origin deadline and the recess dates are unknown. Two budget dates are tied to the constitution sections the calendar cites and recur in the 2025 and 2026 calendars.
+The 2027 calendar is not posted, so the bill introduction deadline, the house-of-origin deadline and the recess dates are unknown. Two budget dates are tied to the constitution sections the calendar cites and recur in the 2025 and 2026 calendars. Recurring constitutional dates are not a published 2027 calendar; the table below applies them to 2027.
 
 | Item | Calendar wording | 2027 weekday |
 |---|---|---|
