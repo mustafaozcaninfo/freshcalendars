@@ -3,7 +3,7 @@ title: "Davis Cup Finals 2026 in Bologna: Nov. 24-29, Times by Time Zone"
 description: "The Davis Cup Final 8 runs Nov. 24-29, 2026 in Bologna, Italy; the first match is 10 a.m. ET Nov. 24. Times in ET, PT and GMT, plus the eight teams."
 type: news
 publishedAt: "2026-10-30T03:42:00-04:00"
-updatedAt: "2026-11-06T13:25:00-05:00"
+updatedAt: "2026-11-19T01:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["davis cup finals 2026 schedule", "davis cup final 8 2026 time", "davis cup 2026 bologna dates", "great britain vs germany davis cup 2026 time", "canada vs czechia davis cup time"]
@@ -22,7 +22,7 @@ summary:
   - "The Davis Cup by Generali Final 8 takes place Nov. 24-29, 2026 at the BolognaFiere in Bologna, Italy, with four quarterfinals, two semifinals and the final, according to daviscup.com."
   - "All official times are Central European Time (CET). The first quarterfinal, Czechia v Canada, starts Tue., Nov. 24 at 16:00 CET, which is 10 a.m. Eastern Time (ET) and 7 a.m. Pacific Time (PT)."
   - "Great Britain v Germany plays Thu., Nov. 26 at 10:00 CET, which is 9 a.m. Greenwich Mean Time (GMT) and 4 a.m. ET. Austria v Spain follows in the evening session, not before 17:00 CET."
-  - "Tennis Channel holds exclusive U.S. rights to the Davis Cup through 2028, but its 2026 Final 8 listings are not yet posted; U.K. and Canada television and streaming are not yet announced by the organizer."
+  - "Tennis Channel holds exclusive U.S. rights to the Davis Cup through 2028, but per-tie listings are not yet posted. Canada v Czechia is live on The Sports Network (TSN) 5 on Nov. 24 at 10 a.m. ET, with French coverage, according to Tennis Canada, and BBC carries Great Britain's ties in the U.K."
 faq:
   - q: "What are the Davis Cup Finals 2026 dates?"
     a: "Nov. 24 to 29, 2026 in Bologna, Italy, according to daviscup.com. The quarterfinals are Nov. 24-26, the semifinals Nov. 27-28 and the final Nov. 29."
@@ -31,7 +31,7 @@ faq:
   - q: "What time does Canada v Czechia start at the Davis Cup 2026?"
     a: "Tue., Nov. 24 at 16:00 CET, the opening session of the Final 8. That is 10 a.m. ET (Toronto) and 7 a.m. PT (Vancouver)."
   - q: "Where can I watch the Davis Cup Final 8 2026?"
-    a: "In the U.S., Tennis Channel holds exclusive rights to the Davis Cup through 2028, according to a deal reported in August 2025, but its 2026 Final 8 listings are not yet posted. Check Tennis Channel listings. Television and streaming for the U.K. and Canada are not yet announced by the organizer."
+    a: "In the U.S., Tennis Channel holds exclusive rights to the Davis Cup through 2028, according to a deal reported in August 2025, but its per-tie Final 8 listings are not yet posted, so check Tennis Channel listings. In Canada, Tennis Canada says TSN (English) and a French-language partner channel show the Final 8, with Canada v Czechia on Tue., Nov. 24 at 10 a.m. ET on TSN 5. In the U.K., the Lawn Tennis Association (LTA) says all of Great Britain's ties are live on Tennis Channel and BBC iPlayer."
 sources:
   - title: "Network platforms will continue to be exclusive U.S. media home of all Billie Jean King Cup and Davis Cup competitions"
     url: "https://www.sportsvideo.org/2025/08/05/network-platforms-will-continue-to-be-exclusive-u-s-media-home-of-all-billie-jean-king-cup-and-davis-cup-competitions/"
@@ -52,6 +52,17 @@ sources:
     url: "https://www.daviscup.com/en/news/alcaraz-zverev-and-cobolli-among-stars-nominated-for-davis-cup-by-generali-final-8"
     publisher: "Davis Cup"
     date: "2026-10-26"
+  - title: "Team Canada's Billie Jean King Cup Play-Off Tie and Davis Cup Final 8 to be Broadcast Live on TSN and TVA Sports"
+    url: "https://www.tenniscanada.com/news/pro-tennis/2026/team-canada-billie-jean-king-cup-play-off-tie-davis-cup-final-8-broadcast-live-tsn-tva-sports"
+    publisher: "Tennis Canada"
+    date: "2026-11-17"
+  - title: "Where to watch - Davis Cup - The World Cup of Tennis"
+    url: "https://www.daviscup.com/en/about/where-to-watch-TV"
+    publisher: "Davis Cup"
+  - title: "Davis Cup Finals 2026: Preview, draws, schedule, player list & how to watch"
+    url: "https://www.lta.org.uk/fan-zone/davis-cup/news/davis-cup-finals-preview-draws-schedule-player-list--how-to-watch"
+    publisher: "Lawn Tennis Association"
+    date: "2026-11-15"
   - title: "Davis Cup Final 8 hospitality"
     url: "https://tickets.italy.daviscup.com/en/hospitality/"
     publisher: "Davis Cup Italy tickets"
@@ -98,7 +109,7 @@ assets:
 draft: false
 ---
 
-**The Davis Cup by Generali Final 8 takes place Nov. 24-29, 2026 at the BolognaFiere in Bologna, Italy, and the first quarterfinal, Czechia v Canada, starts Tue., Nov. 24 at 16:00 Central European Time (CET), which is 10 a.m. Eastern Time (ET), according to the schedule daviscup.com confirmed on Sept. 23, 2026.** "All times are CET," the organizer says. The table below converts every session to Greenwich Mean Time (GMT), ET and Pacific Time (PT). Tennis Channel holds U.S. rights to the Davis Cup through 2028, but U.K. and Canada television and streaming are not yet announced.
+**The Davis Cup by Generali Final 8 takes place Nov. 24-29, 2026 at the BolognaFiere in Bologna, Italy, and the first quarterfinal, Czechia v Canada, starts Tue., Nov. 24 at 16:00 Central European Time (CET), which is 10 a.m. Eastern Time (ET), according to the schedule daviscup.com confirmed on Sept. 23, 2026.** "All times are CET," the organizer says. The table below converts every session to Greenwich Mean Time (GMT), ET and Pacific Time (PT). Tennis Channel holds U.S. rights to the Davis Cup through 2028, and Tennis Canada says Canada v Czechia is live on The Sports Network (TSN) 5, with French coverage. Per-tie U.S. listings are not yet posted.
 
 ## What is the Davis Cup Finals 2026 schedule?
 
@@ -151,9 +162,11 @@ The article notes that Carlos Alcaraz returns for the first time since the 2024 
 
 ## Where can I watch the Davis Cup Final 8 2026?
 
-In the United States, Tennis Channel holds exclusive rights to the Davis Cup. Tennis Channel and the International Tennis Federation (ITF) announced in August 2025 that "Tennis Channel will remain the exclusive U.S. home for both tournaments," the Billie Jean King Cup and the Davis Cup, and that "the deal now runs through 2028 for the Davis Cup," according to Sports Video Group (SVG) on Aug. 5, 2025 and Tennis.com on Aug. 6, 2025. The ITF's own release was not readable by us, so this rests on those two reports. No source we read lists the match-by-match 2026 Final 8 schedule on Tennis Channel, and its listings are not yet posted, so check Tennis Channel listings.
+In the United States, Tennis Channel holds exclusive rights to the Davis Cup. Tennis Channel and the International Tennis Federation (ITF) announced in August 2025 that "Tennis Channel will remain the exclusive U.S. home for both tournaments," the Billie Jean King Cup and the Davis Cup, and that "the deal now runs through 2028 for the Davis Cup," according to Sports Video Group (SVG) on Aug. 5, 2025 and Tennis.com on Aug. 6, 2025. The ITF's own release was not readable by us, so this rests on those two reports. No source we read lists the match-by-match 2026 Final 8 schedule on Tennis Channel, and the daviscup.com where-to-watch table now lists "Tennis Channel" for the USA. Per-tie U.S. listings and times are not yet posted, so check Tennis Channel listings.
 
-For the United Kingdom and Canada, television and streaming are not yet announced by the organizer; we have not seen a broadcaster listed on the schedule or nominations pages, so check local listings and daviscup.com closer to the event. The same goes for the exact arena layout inside the BolognaFiere, which the pages we read do not describe.
+In Canada, Tennis Canada's release of Nov. 17, 2026 says TSN (English) and a French-language partner channel provide national coverage of Canada's ties and other ties from the quarterfinals to the final. Its table, in ET: Czechia v Canada Tue., Nov. 24 at 10 a.m. on TSN 5; Italy v Korea Republic Wed., Nov. 25 at 10 a.m. on TSN Premium; Great Britain v Germany and Austria v Spain from 4 a.m. Thu., Nov. 26 on TSN Premium; the semifinals Fri., Nov. 27 at 10 a.m. on TSN 3 and Sat., Nov. 28 at 6 a.m. on TSN 4; the final Sun., Nov. 29 at 9 a.m. on TSN 2. The French channel carries the Canada tie, both semifinals and the final. The release does not mention streaming.
+
+In the United Kingdom, the daviscup.com table lists BBC. The Lawn Tennis Association (LTA) preview of Nov. 15, 2026 says "All of Great Britain's ties will also be broadcast live on the Tennis Channel, as well as BBC iPlayer," and adds the BBC Sport website, app and Red Button. Great Britain v Germany starts Thu., Nov. 26 at 9 a.m. GMT. The exact arena layout inside the BolognaFiere is not described on the pages we read.
 
 On the spot, daviscup.com says tickets are on sale, and that over 60,000 supporters attended last year's Final 8. The official hospitality page lists packages from 549 to 1,220 euros per session. General ticket prices are not published on the pages we read.
 
