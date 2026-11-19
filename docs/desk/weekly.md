@@ -1,55 +1,55 @@
 # The week in numbers (generated, do not edit)
 
-Built 2026-11-18T18:03 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
+Built 2026-11-19T09:14 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
 
 ## Real readers (beacon)
 
 | | This week | Week before | Change |
 |---|---:|---:|---:|
-| Page views | 7,330 | 9,816 | -25% |
-| Avg. seconds on page | 62 | 92 | -33% |
-| Avg. deepest scroll | 24% | 27% | |
-| Views from inside the site | 6.7% | 7.1% | |
+| Page views | 6,665 | 11,053 | -40% |
+| Avg. seconds on page | 62 | 89 | -31% |
+| Avg. deepest scroll | 25% | 26% | |
+| Views from inside the site | 6.3% | 7.2% | |
 
-Devices: desktop 4,334 (73 s, 26% scroll) · mobile 3,891 (56 s, 23% scroll) · tablet 82 (72 s, 28% scroll)
+Devices: desktop 3,960 (70 s, 26% scroll) · mobile 3,419 (51 s, 23% scroll) · tablet 82 (72 s, 28% scroll)
 
 ## Clarity (daily average)
 
 | | This week | Week before |
 |---|---:|---:|
-| Sessions a day | 1,017 | 1,478 |
+| Sessions a day | 858 | 1,598 |
 | Pages per session | 1.18 | 1.21 |
-| Mobile scroll | 24% | 24% |
-| Mobile active seconds | 54 | 66 |
+| Mobile scroll | 24% | 25% |
+| Mobile active seconds | 47 | 70 |
 
 ## Bing search (also Yahoo and DuckDuckGo)
 
-- last 7 days with data: 3,805 clicks, 430,644 impressions (week before: 3,666 clicks, +4%)
+- last 7 days with data: 3,220 clicks, 407,584 impressions (week before: 4,161 clicks, -23%)
 
 ## Google search (/news/, web)
 
-- 2026-11-09..2026-11-15: 1,784 clicks, 340,534 impressions
-- 2026-11-02..2026-11-08: 2,996 clicks, 548,464 impressions
+- 2026-11-10..2026-11-16: 1,742 clicks, 241,639 impressions
+- 2026-11-03..2026-11-09: 2,652 clicks, 567,939 impressions
 
 ## Most read categories
 
-- puzzles: 1,880 views (+63%), 12 per story
-- holidays: 1,692 views (-58%), 16 per story
-- sports: 1,155 views (+13%), 8 per story
-- retail-dates: 864 views (+37%), 14 per story
-- uk-canada: 715 views (+75%), 12 per story
-- entertainment: 439 views (+42%), 8 per story
+- puzzles: 1,653 views (+14%), 11 per story
+- sports: 1,146 views (+1%), 8 per story
+- holidays: 1,144 views (-75%), 11 per story
+- retail-dates: 833 views (+10%), 13 per story
+- uk-canada: 696 views (+53%), 12 per story
+- entertainment: 449 views (+28%), 8 per story
 
 ## Most read stories
 
-- /news/veterans-day-free-meals-discounts/: 646 views, 143 s
-- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 335 views, 116 s
-- /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/: 292 views, 68 s
+- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 348 views, 100 s
+- /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/: 282 views, 69 s
 - /news/nyt-connections-hints-answers-november-16-2026-1254/: 176 views, 59 s
-- /news/nyt-connections-hints-answers-november-17-2026-1255/: 164 views, 53 s
-- /news/nyt-midi-crossword-answers-november-16-2026/: 158 views, 36 s
-- /news/nyt-connections-hints-answers-november-12-2026-1250/: 157 views, 49 s
-- /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/: 152 views, 89 s
-- /news/nyt-connections-hints-answers-november-11-2026-1249/: 127 views, 47 s
-- /news/printable-nfl-schedule-2026-2027-pdf/: 116 views, 68 s
+- /news/nyt-connections-hints-answers-november-17-2026-1255/: 167 views, 52 s
+- /news/nyt-midi-crossword-answers-november-16-2026/: 160 views, 36 s
+- /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/: 159 views, 98 s
+- /news/printable-nfl-schedule-2026-2027-pdf/: 111 views, 70 s
+- /news/veterans-day-free-meals-discounts/: 110 views, 272 s
+- /news/nyt-connections-hints-answers-november-15-2026-1253/: 110 views, 45 s
+- /news/cpkc-holiday-train-2026-schedule-stops-times/: 108 views, 128 s
 
