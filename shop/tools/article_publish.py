@@ -14,7 +14,7 @@ from fs import call, backup  # noqa: E402
 import article_check as ac  # noqa: E402
 from article_prices import prices_for  # noqa: E402
 
-ARTICLE_CATEGORIES = {'planner-buying-guides': 1, 'journaling-basics-and-supplies': 2}
+ARTICLE_CATEGORIES = {'planner-buying-guides': 1, 'journaling-basics-and-supplies': 2, 'advent-calendar-guides': 3}
 
 
 def main(path, dry):
@@ -58,7 +58,8 @@ def main(path, dry):
                 time.sleep(1.1); call('POST', f"articles/{a['id']}/images", {'collection': col, 'url': img})
         else:
             print('WARN no unused stock image wider than 1600 px: set one by hand')
-    call('POST', 'store/clear-cache')
+    # A batch sets SHOP_NO_CACHE_CLEAR=1 and clears once at the end: a clear per article left the site cold (502, Nov. 19, 2026)
+    if not os.environ.get('SHOP_NO_CACHE_CLEAR'): call('POST', 'store/clear-cache')
     c = d['content']
     entry = {'slug': a['slug'], 'id': a['id'], 'title': d['title'], 'type': d['type'], 'primary_query': d['primary_query'].lower().strip(),
              'cluster': d['cluster'], 'products': sorted({int(x) for x in re.findall(r'\[product id="(\d+)"\]', c)}),

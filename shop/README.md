@@ -150,6 +150,13 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - `tools/category_guides.py` links every live article from its product category. Run it weekly and after scheduled articles go live; it skips articles that are not live yet.
 - The checker fails an H2 another article already uses, so give the "what we left out" section a heading that names the product kind.
 
+### Advent article batch (Nov. 19 to 21, 2026)
+- 30 articles in the new article category Advent Calendar Guides (id 3, `/article-category/advent-calendar-guides`), ids 149 to 178: ten live on Nov. 19 (LEGO, beauty, squishy, kids, dog, cat, chocolate, tea, coffee, wooden), ten scheduled for Nov. 20 and ten for Nov. 21, 9:00 ET. Topics came from Google Trends for "advent calendar" (US, Oct. 19 to Nov. 19, 2026) matched against what the shop holds; rising brands the shop does not carry (NeeDoh, Skims, eos, Jellycat) got no page.
+- Each page has a picker table, one master table of every product with today's price and cost per day, a section per product and reader questions from the research files. `.cache/shop/advart/` holds the product index, the topic picker and the facts builder: prices were refetched that morning and cost per day was computed in the facts file, and a script compared every dollar figure in every draft with its facts file before publishing.
+- **Writers who write three sibling articles reuse sentences.** Nine drafts failed the 8-word-run check against a sibling published minutes earlier (9 to 13 percent). Check each draft against the other drafts of the batch before publishing, or tell the writer the limit applies between its own articles.
+- `article_publish.py` skips the cache clear when `SHOP_NO_CACHE_CLEAR=1` (set it for a batch, clear once after). `category_guides.py` now reads every page of categories and lists a subcategory's guides on its parent too.
+- **To do after Nov. 21:** run `python3 shop/tools/category_guides.py` so the 20 scheduled articles get their category links (it skips articles that are not live), and refresh the price tables by Nov. 27 (`refresh_by`).
+
 ### Holiday article batch (live Nov. 13, 2026)
 
 - 11 articles for the holiday family, ids 136 to 146: `best-boxed-christmas-cards` (pillar, all 27 boxes), `how-many-christmas-cards-in-a-box`, `when-to-mail-christmas-cards`, `stationery-advent-calendars`, `advent-calendar-books`, `christmas-gift-tags`, `christmas-envelope-seals`, `greeting-card-organizers`, `boxed-thank-you-cards`, `christmas-scrapbook-paper`, `christmas-planner-books`. Refresh the price tables by Dec. 1.

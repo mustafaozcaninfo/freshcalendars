@@ -15,16 +15,26 @@ while True:
 by = {}
 for a in arts:
     if a.get('enabled') and a.get('product_category_id'): by.setdefault(a['product_category_id'], []).append(a)
-time.sleep(1.1); s, d = call('GET', 'categories?per_page=100'); n = 0
-for c in d['data']:
+cats, page = [], 1
+while True:   # more than 100 categories since the advent subcategories
+    time.sleep(1.1); s, d = call('GET', f'categories?per_page=100&page={page}'); cats += d['data']
+    if len(d['data']) < 100: break
+    page += 1
+for c in cats:   # a parent category also lists the guides of its subcategories
+    for k in cats:
+        if k.get('parent_id') == c['id'] and by.get(k['id']):
+            by.setdefault(c['id'], []); by[c['id']] += [a for a in by[k['id']] if a not in by[c['id']]]
+n = 0
+for c in cats:
     cb = re.sub(r'\s*<div class="fc-guide-links">.*?</div>', '', c.get('content_bottom') or '', flags=re.S)
     block = ''
     if by.get(c['id']):
-        items = sorted(by[c['id']], key=lambda a: a['title'])[:12]
+        items = sorted(by[c['id']], key=lambda a: a['title'])[:40]
         block = ('<div class="fc-guide-links"><h2>Guides for ' + html.escape(c['title'].lower()) + '</h2><ul>'
                  + ''.join(f'<li><a href="/articles/{a["slug"]}">{html.escape(a["title"])}</a></li>' for a in items) + '</ul></div>')
     new = (cb + ('\n' + block if block else '')).strip()
     if new != (c.get('content_bottom') or '').strip():
         time.sleep(1.1); s2, r2 = call('PATCH', f"categories/{c['id']}", {'content_bottom': new})
         print(c['slug'], s2, len(by.get(c['id'], []))); n += 1
-print('categories updated', n); call('POST', 'store/clear-cache')
+print('categories updated', n)
+if n: call('POST', 'store/clear-cache')
