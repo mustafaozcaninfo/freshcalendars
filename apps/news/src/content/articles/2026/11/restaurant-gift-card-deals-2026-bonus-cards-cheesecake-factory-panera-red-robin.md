@@ -114,7 +114,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [black-friday-2026-ad-tracker-walmart-target-best-buy, restaurants-open-thanksgiving-2026-hours-by-chain, holiday-menus-2026-every-chain-tracker]
+related: [bjs-restaurant-holiday-menu-2026-biscoff-pizookie-gift-card-bonus, restaurants-open-thanksgiving-2026-hours-by-chain, holiday-menus-2026-every-chain-tracker]
 downloads:
   - group: "Restaurant Gift Card Bonus Expiry Tracker 2026 printables"
     title: "Restaurant Gift Card Bonus Expiry Tracker 2026"

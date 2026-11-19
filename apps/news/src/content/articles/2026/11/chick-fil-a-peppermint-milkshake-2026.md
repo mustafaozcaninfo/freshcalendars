@@ -103,7 +103,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [holiday-menus-2026-every-chain-tracker, is-chick-fil-a-open-thanksgiving-christmas-eve-2026, panera-holiday-menu-2026-peppermint-pistachio-white-mocha-snowman-cup]
+related: [holiday-menus-2026-every-chain-tracker, is-chick-fil-a-open-thanksgiving-christmas-eve-2026, friendlys-snow-days-menu-2026-free-sundae-deals]
 downloads:
   - group: "Chick-fil-A Peppermint Milkshake 2026 Countdown printables"
     title: "Chick-fil-A Peppermint Milkshake 2026 Countdown"
