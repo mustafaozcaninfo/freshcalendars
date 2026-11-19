@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T09:14:44.409Z",
+ "generatedAt": "2026-11-19T18:17:02.110Z",
  "site": "https://freshcalendars.com/",
  "daily": [
   {
@@ -2991,7 +2991,7 @@
    "ctr": 0.0006724949562878278
   },
   {
-   "key": "day light savings 2026",
+   "key": "daylight savings 2026",
    "clicks": 2,
    "impressions": 2956,
    "posW": 26604,
@@ -4215,6 +4215,14 @@
    "ctr": 0
   },
   {
+   "key": "what day is thanksgiving 2026",
+   "clicks": 0,
+   "impressions": 94,
+   "posW": 752,
+   "position": 8,
+   "ctr": 0
+  },
+  {
    "key": "thanksgiving 2026",
    "clicks": 0,
    "impressions": 94,
@@ -4224,14 +4232,6 @@
   },
   {
    "key": "fall back 2026",
-   "clicks": 0,
-   "impressions": 94,
-   "posW": 752,
-   "position": 8,
-   "ctr": 0
-  },
-  {
-   "key": "what day is thanksgiving 2026",
    "clicks": 0,
    "impressions": 94,
    "posW": 752,
@@ -4487,19 +4487,19 @@
    "ctr": 0.047619047619047616
   },
   {
-   "key": "when is the day of the dead 2026",
-   "clicks": 2,
-   "impressions": 63,
-   "posW": 126,
-   "position": 2,
-   "ctr": 0.031746031746031744
-  },
-  {
    "key": "fall time change 2026 november",
    "clicks": 2,
    "impressions": 63,
    "posW": 252,
    "position": 4,
+   "ctr": 0.031746031746031744
+  },
+  {
+   "key": "when is the day of the dead 2026",
+   "clicks": 2,
+   "impressions": 63,
+   "posW": 126,
+   "position": 2,
    "ctr": 0.031746031746031744
   },
   {
@@ -4575,19 +4575,19 @@
    "ctr": 0
   },
   {
-   "key": "day of the dead date",
-   "clicks": 0,
-   "impressions": 53,
-   "posW": 371,
-   "position": 7,
-   "ctr": 0
-  },
-  {
    "key": "date of thanksgiving 2026",
    "clicks": 0,
    "impressions": 53,
    "posW": 424,
    "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "day of the dead date",
+   "clicks": 0,
+   "impressions": 53,
+   "posW": 371,
+   "position": 7,
    "ctr": 0
   },
   {
@@ -4599,7 +4599,7 @@
    "ctr": 0.038461538461538464
   },
   {
-   "key": "uk clock change october 2026",
+   "key": "fall back date 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4607,7 +4607,7 @@
    "ctr": 0
   },
   {
-   "key": "fall back date 2026",
+   "key": "uk clock change october 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4743,6 +4743,14 @@
    "ctr": 0
   },
   {
+   "key": "when does mcat registration open 2027",
+   "clicks": 0,
+   "impressions": 41,
+   "posW": 287,
+   "position": 7,
+   "ctr": 0
+  },
+  {
    "key": "uk time change 2026",
    "clicks": 0,
    "impressions": 41,
@@ -4759,11 +4767,11 @@
    "ctr": 0
   },
   {
-   "key": "when does mcat registration open 2027",
+   "key": "when is halloween this year 2026",
    "clicks": 0,
-   "impressions": 41,
-   "posW": 287,
-   "position": 7,
+   "impressions": 40,
+   "posW": 240,
+   "position": 6,
    "ctr": 0
   },
   {
@@ -4772,14 +4780,6 @@
    "impressions": 40,
    "posW": 400,
    "position": 10,
-   "ctr": 0
-  },
-  {
-   "key": "when is halloween this year 2026",
-   "clicks": 0,
-   "impressions": 40,
-   "posW": 240,
-   "position": 6,
    "ctr": 0
   },
   {
@@ -4807,19 +4807,19 @@
    "ctr": 0.07894736842105263
   },
   {
-   "key": "day of the dead 2026 dates",
-   "clicks": 2,
-   "impressions": 38,
-   "posW": 114,
-   "position": 3,
-   "ctr": 0.05263157894736842
-  },
-  {
    "key": "tesco christmas delivery slots 2026 early access",
    "clicks": 2,
    "impressions": 38,
    "posW": 152,
    "position": 4,
+   "ctr": 0.05263157894736842
+  },
+  {
+   "key": "day of the dead 2026 dates",
+   "clicks": 2,
+   "impressions": 38,
+   "posW": 114,
+   "position": 3,
    "ctr": 0.05263157894736842
   },
   {
@@ -5047,6 +5047,14 @@
    "ctr": 0.16666666666666666
   },
   {
+   "key": "when do the new governors take office",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 36,
+   "position": 2,
+   "ctr": 0.1111111111111111
+  },
+  {
    "key": "nfl week 9 pick sheet 2026",
    "clicks": 2,
    "impressions": 18,
@@ -5060,14 +5068,6 @@
    "impressions": 18,
    "posW": 54,
    "position": 3,
-   "ctr": 0.1111111111111111
-  },
-  {
-   "key": "when do the new governors take office",
-   "clicks": 2,
-   "impressions": 18,
-   "posW": 36,
-   "position": 2,
    "ctr": 0.1111111111111111
   },
   {
@@ -5215,19 +5215,19 @@
    "ctr": 0.16666666666666666
   },
   {
-   "key": "november gratitude calendar",
-   "clicks": 2,
-   "impressions": 12,
-   "posW": 24,
-   "position": 2,
-   "ctr": 0.16666666666666666
-  },
-  {
    "key": "dade county school calendar 2026-27",
    "clicks": 2,
    "impressions": 12,
    "posW": 36,
    "position": 3,
+   "ctr": 0.16666666666666666
+  },
+  {
+   "key": "november gratitude calendar",
+   "clicks": 2,
+   "impressions": 12,
+   "posW": 24,
+   "position": 2,
    "ctr": 0.16666666666666666
   },
   {
@@ -7297,7 +7297,7 @@
    "ctr": 0.3333333333333333
   },
   {
-   "key": "https://freshcalendars.com/news/orionid-meteor-shower-2026-peak-october-21-22/",
+   "key": "https://freshcalendars.com/news/mail-ballot-deadlines-2026-by-state/",
    "clicks": 0,
    "impressions": 12,
    "posW": 84,
@@ -7305,7 +7305,7 @@
    "ctr": 0
   },
   {
-   "key": "https://freshcalendars.com/news/mail-ballot-deadlines-2026-by-state/",
+   "key": "https://freshcalendars.com/news/orionid-meteor-shower-2026-peak-october-21-22/",
    "clicks": 0,
    "impressions": 12,
    "posW": 84,
@@ -7385,19 +7385,19 @@
    "ctr": 0
   },
   {
-   "key": "https://freshcalendars.com/when-is/uk-guy-fawkes-night/",
-   "clicks": 0,
-   "impressions": 1,
-   "posW": 3,
-   "position": 3,
-   "ctr": 0
-  },
-  {
    "key": "https://freshcalendars.com/news/downloads/julian-date-calendar/2026/astronomical-julian-day-chart-2026.pdf",
    "clicks": 0,
    "impressions": 1,
    "posW": 9,
    "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/when-is/uk-guy-fawkes-night/",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 3,
+   "position": 3,
    "ctr": 0
   }
  ],
