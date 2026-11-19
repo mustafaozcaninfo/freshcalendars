@@ -3,7 +3,7 @@ title: "UFC 334 Start Time: Main Card 9 p.m. ET Nov. 14, Gane vs. Hokit"
 description: "The Ultimate Fighting Championship (UFC) 334 main card is Sat., Nov. 14, 2026: 9 p.m. ET, 6 p.m. PT. Times in six time zones for every card to Dec. 12."
 type: news
 publishedAt: "2026-11-01T01:42:00-04:00"
-updatedAt: "2026-11-13T16:07:00-05:00"
+updatedAt: "2026-11-19T07:20:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["UFC 334 start time", "UFC 334 date", "UFC schedule November 2026", "UFC Madison Square Garden 2026", "UFC 335 date"]
@@ -23,7 +23,7 @@ summary:
   - "Paramount+ lists the UFC 334 main card for 9 p.m. Eastern Time (ET), 6 p.m. Pacific Time (PT) on Saturday, Nov. 14, 2026, at Madison Square Garden in New York."
   - "UFC's event page lists early prelims at 5 p.m. ET, prelims at 7 p.m. ET and the main card at 9 p.m. ET; Ciryl Gane vs. Josh Hokit is the heavyweight title bout, and both title fights made weight on Nov. 13 (CBS Sports, Yahoo Sports)."
   - "UFC 335: Charles Oliveira vs. Diego Lopes is Saturday, Dec. 12, at T-Mobile Arena in Las Vegas, main card 9 p.m. ET."
-  - "The Nov. 7 Fight Night card has passed. For Nov. 21 in Doha, Paramount+ lists a 5 p.m. ET main card; UFC's page, last read Nov. 1, listed 1 p.m. ET."
+  - "The Nov. 7 Fight Night card has passed. Paramount+ and UFC both list the Nov. 21 Doha main card at 1 p.m. ET, and UFC lists a Dec. 5 card in Riyadh, Saudi Arabia, also at 1 p.m. ET."
 faq:
   - q: "What time does UFC 334 start?"
     a: "Paramount+ lists the main card at 9 p.m. ET, 6 p.m. PT, on Saturday, Nov. 14, 2026. UFC's event page lists early prelims at 5 p.m. ET, prelims at 7 p.m. ET and the main card at 9 p.m. ET."
@@ -47,9 +47,9 @@ sources:
     publisher: "Yahoo Sports"
     date: "2026-11-13"
   - title: "UFC schedule 2026"
-    url: "https://www.paramountplus.com/sneak-peak/ufc-schedule-2026/"
+    url: "https://www.paramountplus.com/shows/ufc/news/1011007/ufc-schedule-2026"
     publisher: "Paramount+"
-    date: "2026-11-09"
+    date: "2026-11-16"
   - title: "UFC 334"
     url: "https://www.ufc.com/event/ufc-334"
     publisher: "UFC"
@@ -65,7 +65,11 @@ sources:
   - title: "UFC Fight Night, Nov. 21, 2026"
     url: "https://www.ufc.com/event/ufc-fight-night-november-21-2026"
     publisher: "UFC"
-    date: "2026-11-01"
+    date: "2026-11-19"
+  - title: "UFC Fight Night, Dec. 5, 2026"
+    url: "https://www.ufc.com/event/ufc-fight-night-december-05-2026"
+    publisher: "UFC"
+    date: "2026-11-19"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -88,16 +92,17 @@ assets:
     layout: list
     rows:
       - ["Sat., Nov. 14 · UFC 334, Madison Square Garden", "9 p.m. ET · 6 p.m. PT (prelims 7 p.m. ET, early prelims 5 p.m. ET)"]
-      - ["Sat., Nov. 21 · Fight Night, Doha", "Paramount+: 5 p.m. ET · 2 p.m. PT. UFC page: 1 p.m. ET · 10 a.m. PT"]
+      - ["Sat., Nov. 21 · Fight Night, Doha", "1 p.m. ET · 10 a.m. PT (prelims 10 a.m. ET)"]
+      - ["Sat., Dec. 5 · Fight Night, The Venue, Riyadh", "1 p.m. ET · 10 a.m. PT (prelims 10 a.m. ET)"]
       - ["Sat., Dec. 12 · UFC 335, T-Mobile Arena, Las Vegas", "9 p.m. ET · 6 p.m. PT (prelims 7 p.m. ET, early prelims 5 p.m. ET)"]
-      - ["Before each fight night", "Check the times again: the two sources differ on Nov. 21"]
-    note: "Source: Paramount+, UFC schedule 2026 (updated Nov. 9, 2026); UFC event pages (read Nov. 1, 2026). Cards, dates and times are subject to change."
-    description: "A one-page sheet with the UFC main card times in ET and PT for Nov. 14, Nov. 21 and Dec. 12, 2026, with both listed times where sources differ."
+      - ["Before each fight night", "Check the times again: cards and times are subject to change"]
+    note: "Source: Paramount+, UFC schedule 2026 (updated Nov. 16, 2026); UFC event pages (read Nov. 19, 2026). Cards, dates and times are subject to change."
+    description: "A one-page sheet with the UFC main card times in ET and PT for Nov. 14, Nov. 21, Dec. 5 and Dec. 12, 2026, with a reminder to check again before each card."
     alt: "UFC fight night schedule for Nov. 14 to Dec. 12, 2026 with main card times in Eastern and Pacific time"
 downloads:
   - group: "UFC Fight Night Schedule printables"
     title: "UFC Fight Night Schedule, Nov. 14 to Dec. 12, 2026"
-    description: "A one-page sheet with the UFC main card times in ET and PT for Nov. 14, Nov. 21 and Dec. 12, 2026, with both listed times where sources differ."
+    description: "A one-page sheet with the UFC main card times in ET and PT for Nov. 14, Nov. 21, Dec. 5 and Dec. 12, 2026, with a reminder to check again before each card."
     preview: ../../../../assets/news/ufc-nov-dec-2026/ufc-fight-night-schedule-nov-dec-2026.png
     alt: "UFC fight night schedule for Nov. 14 to Dec. 12, 2026 with main card times in Eastern and Pacific time"
     pdf: "/news/downloads/ufc-nov-dec-2026/ufc-fight-night-schedule-nov-dec-2026.pdf"
@@ -106,7 +111,7 @@ downloads:
 draft: false
 ---
 
-**UFC 334: Gane vs. Hokit is Saturday, Nov. 14, 2026, at Madison Square Garden in New York, with the main card at 9 p.m. Eastern Time (ET), 6 p.m. Pacific Time (PT), on Paramount+, according to the Paramount+ UFC schedule.** The Ultimate Fighting Championship (UFC) event page lists early prelims at 5 p.m. ET and prelims at 7 p.m. ET. Both title fights made weight at Friday's weigh-ins, according to CBS Sports and Yahoo Sports, and neither outlet reported a change to the two title bouts. Below: every UFC event from Nov. 14 to Dec. 12 in six time zones, and where the two official sources disagree.
+**UFC 334: Gane vs. Hokit is Saturday, Nov. 14, 2026, at Madison Square Garden in New York, with the main card at 9 p.m. Eastern Time (ET), 6 p.m. Pacific Time (PT), on Paramount+, according to the Paramount+ UFC schedule.** The Ultimate Fighting Championship (UFC) event page lists early prelims at 5 p.m. ET and prelims at 7 p.m. ET. Both title fights made weight at Friday's weigh-ins, according to CBS Sports and Yahoo Sports, and neither outlet reported a change to the two title bouts. Below: every UFC event from Nov. 14 to Dec. 12 in six time zones.
 
 ## What time is UFC 334 in every time zone?
 
@@ -126,16 +131,16 @@ UFC's event page lists Ciryl Gane vs. Josh Hokit as a heavyweight title bout. Ka
 
 ## What is on the UFC schedule from Nov. 7 to Dec. 12?
 
-Paramount+ and UFC's event pages agree on the date, venue and main event for UFC 334 and UFC 335. The Nov. 7 Fight Night in Las Vegas, which UFC's page listed as Waldo Cortes Acosta vs. Johnny Walker, has passed. For Nov. 21, Paramount+ (updated Nov. 9) lists Prochazka vs. Stirling in Doha, Qatar with a 5 p.m. ET main card. UFC's page, which we read on Nov. 1 and could not open again, listed Jiri Prochazka vs. Navajo Stirling with the main card at 1 p.m. ET. We have not picked one: check both before fight night.
+Paramount+ and UFC's event pages agree on the date, venue and main event for every card below. The Nov. 7 Fight Night in Las Vegas has passed. For Nov. 21, UFC's event page lists Jiří Procházka vs. Navajo Stirling in Doha, Qatar, with prelims at 10:00 a.m. ET and the main card at 1:00 p.m. ET; Paramount+ (updated Nov. 16) lists the main card at 1 p.m. ET, 10 a.m. PT. See the [Prochazka vs. Stirling start time story](/news/ufc-qatar-prochazka-vs-stirling-november-21-2026-start-time/). For Dec. 5, UFC's page lists Adesanya vs. Magomedov at The Venue in Riyadh, Saudi Arabia, with prelims at 10:00 a.m. ET and the main card at 1:00 p.m. ET; Paramount+ also gives 1 p.m. ET, 10 a.m. PT. Riyadh and Doha are both three hours ahead of GMT, so the Doha column also gives Riyadh time.
 
-| Date | Event | Venue | Main card, ET | Main card, PT | Main card, UK (GMT) | Main card, Doha |
+| Date | Event | Venue | Main card, ET | Main card, PT | Main card, UK (GMT) | Main card, Doha / Riyadh |
 |---|---|---|---|---|---|---|
 | Sat., Nov. 14 | UFC 334: Gane vs. Hokit | Madison Square Garden, New York | 9 p.m. | 6 p.m. | 2 a.m. Sun. | 5 a.m. Sun. |
-| Sat., Nov. 21 | Fight Night, Paramount+ listing | Doha, Qatar | 5 p.m. | 2 p.m. | 10 p.m. Sat. | 1 a.m. Sun. |
-| Sat., Nov. 21 | Fight Night, UFC page (read Nov. 1) | Doha, Qatar | 1 p.m. | 10 a.m. | 6 p.m. Sat. | 9 p.m. Sat. |
+| Sat., Nov. 21 | Fight Night: Prochazka vs. Stirling | Doha, Qatar | 1 p.m. | 10 a.m. | 6 p.m. Sat. | 9 p.m. Sat. |
+| Sat., Dec. 5 | Fight Night: Adesanya vs. Magomedov | The Venue, Riyadh, Saudi Arabia | 1 p.m. | 10 a.m. | 6 p.m. Sat. | 9 p.m. Sat. |
 | Sat., Dec. 12 | UFC 335: Oliveira vs. Lopes | T-Mobile Arena, Las Vegas | 9 p.m. | 6 p.m. | 2 a.m. Sun. | 5 a.m. Sun. |
 
-Nothing is listed between Nov. 21 and Dec. 12 on the pages we read. The Paramount+ page carries a note that fight cards, dates and times are subject to change.
+Dec. 5 in Riyadh is the only card listed between Nov. 21 and Dec. 12 on the pages we read. The Paramount+ page carries a note that fight cards, dates and times are subject to change.
 
 ## When is UFC 335?
 
@@ -143,8 +148,8 @@ UFC 335 is Saturday, Dec. 12, 2026, at T-Mobile Arena in Las Vegas, with the mai
 
 ## How do you watch UFC in November and December?
 
-In the United States, Paramount+ lists UFC 334, the Nov. 21 card and UFC 335 as streaming on Paramount+, with no pay-per-view. We did not find a CBS simulcast confirmed for these events, and the official pages we read do not confirm a broadcaster in the United Kingdom or Canada. For the first UFC card of the fall, see the [Moicano vs. Nolan Halloween story](/news/ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch/). Other dates to keep: [Survivor Series: WarGames 2026](/news/survivor-series-wargames-2026-date-start-time-houston-espn/) and the [Canelo vs. M'Billi fight times](/news/canelo-vs-mbilli-fight-time-ring-walk-by-time-zone-dazn-ppv/).
+In the United States, Paramount+ lists UFC 334, the Nov. 21 card, the Dec. 5 card and UFC 335 as streaming on Paramount+, with no pay-per-view. We did not find a CBS simulcast confirmed for these events, and the official pages we read do not confirm a broadcaster in the United Kingdom or Canada. For the first UFC card of the fall, see the [Moicano vs. Nolan Halloween story](/news/ufc-fight-night-moicano-vs-nolan-halloween-start-time-how-to-watch/). Other dates to keep: [Survivor Series: WarGames 2026](/news/survivor-series-wargames-2026-date-start-time-houston-espn/) and the [Canelo vs. M'Billi fight times](/news/canelo-vs-mbilli-fight-time-ring-walk-by-time-zone-dazn-ppv/).
 
 ## Free UFC fight night schedule for November and December 2026
 
-Our one-page printable lists the three upcoming events, their main card times in ET and PT, both listed times where the sources differ, and a reminder to check again before fight night. Keep it beside the [November 2026 printable calendar](/november-calendars.html).
+Our one-page printable lists the four upcoming events, their main card times in ET and PT, and a reminder to check again before each fight night. Keep it beside the [November 2026 printable calendar](/november-calendars.html).
