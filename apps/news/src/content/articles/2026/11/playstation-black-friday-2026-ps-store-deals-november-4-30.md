@@ -85,7 +85,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [xbox-black-friday-sale-2026-november-19-december-2, steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027, nintendo-black-friday-2026-deals-switch-2-bundle-dates]
+related: [xbox-black-friday-sale-2026-november-19-december-2, steam-winter-sale-2026-dates-december-17-steam-sale-calendar-2027, steam-black-friday-sale-2026-november-26-30-start-time]
 draft: false
 ---
 

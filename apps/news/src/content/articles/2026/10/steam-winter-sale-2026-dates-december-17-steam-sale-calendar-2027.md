@@ -93,7 +93,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [amazon-black-friday-2026-sale-dates-when-does-it-start, epic-games-store-black-friday-sale-2026-november-17-december-1, nintendo-black-friday-2026-deals-switch-2-bundle-dates]
+related: [amazon-black-friday-2026-sale-dates-when-does-it-start, epic-games-store-black-friday-sale-2026-november-17-december-1, steam-black-friday-sale-2026-november-26-30-start-time]
 draft: false
 ---
 
