@@ -95,7 +95,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [winter-solstice-2026-december-21-shortest-day-sunset-times, yalda-night-2026-december-21-date-solstice-time, hmong-new-year-2026-fresno-december-31-january-3-schedule]
+related: [winter-solstice-2026-december-21-shortest-day-sunset-times, yalda-night-2026-december-21-date-solstice-time, yule-2026-winter-solstice-december-21]
 downloads:
   - group: "Dongzhi Festival 2026 Planner printables"
     title: "Dongzhi Festival 2026 Planner, Tuesday, Dec. 22"

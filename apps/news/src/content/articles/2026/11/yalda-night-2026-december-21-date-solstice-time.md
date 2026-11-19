@@ -93,7 +93,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [winter-solstice-2026-december-21-shortest-day-sunset-times, dongzhi-festival-2026-december-22-winter-solstice, nowruz-2027-date-equinox-time]
+related: [winter-solstice-2026-december-21-shortest-day-sunset-times, dongzhi-festival-2026-december-22-winter-solstice, yule-2026-winter-solstice-december-21]
 downloads:
   - group: "Yalda Night 2026 Planner printables"
     title: "Yalda Night 2026 Planner, Monday, Dec. 21"
