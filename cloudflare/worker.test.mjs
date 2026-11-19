@@ -153,3 +153,19 @@ test("old addresses with no page are redirected; unknown ones stay 404", async (
   assert.equal((await get("/no-such-story-anywhere/")).status, 404);
   assert.equal((await get("/news/no-such-story-anywhere/dates.ics")).status, 404);
 });
+
+test("the shop host answers only its IndexNow key file", async () => {
+  const src = await readFile(new URL("./worker.js", import.meta.url), "utf8");
+  const key = /SHOP_INDEXNOW_KEY = "([0-9a-f]{32})"/.exec(src)[1];
+  const shop = (p) => worker.fetch(new Request(`https://shop.freshcalendars.com${p}`), env, ctx);
+  const ok = await shop(`/${key}.txt`);
+  assert.equal(ok.status, 200);
+  assert.equal(await ok.text(), key);
+  assert.match(ok.headers.get("Content-Type"), /^text\/plain/);
+  assert.equal((await shop("/")).status, 404);
+  assert.equal((await shop("/products/x")).status, 404);
+  assert.equal((await get(`/${key}.txt`)).status, 404); // the calendar host has no such file
+  const cfg = await readFile(new URL("../wrangler.jsonc", import.meta.url), "utf8");
+  assert.ok(cfg.includes(`"shop.freshcalendars.com/${key}.txt"`), "the route must be this one file, never shop.freshcalendars.com/*");
+  assert.ok(!/shop\.freshcalendars\.com\/\*/.test(cfg));
+});

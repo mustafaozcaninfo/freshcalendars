@@ -70,7 +70,7 @@ Checked and set on 2026-10-31. Change them in the dashboard only on purpose, and
 | Security | Cloudflare Free Managed Ruleset deployed, security level medium, browser integrity check on, Bot Fight Mode off and AI crawlers allowed (both on purpose: they would challenge feed readers and AI search), one rate limit rule: 3 contact-form posts per 10 s per IP |
 | Cache | tiered cache (smart topology) on; cache rule: `cdn.freshcalendars.com` 31 days at the edge. The two apex cache rules only matter if the route is removed (rollback); Worker static assets have their own cache and every deploy replaces them |
 | Speed | Brotli on; Rocket Loader, minify, email obfuscation, Speed Brain, Polish off (Workers assets are already minified, and Polish is a paid feature) |
-| Workers | one cron trigger `*/5 * * * *` (the account has 4 of the 5 the Free plan allows), route `freshcalendars.com/*`, no `workers.dev` or preview URLs, logs on at 10% sampling; Turnstile widget `freshcalendars-contact` allows `freshcalendars.com` and `localhost` |
+| Workers | one cron trigger `*/5 * * * *` (the account has 4 of the 5 the Free plan allows), route `freshcalendars.com/*` plus one file on the shop host (`shop.freshcalendars.com/<IndexNow key>.txt`, answered by `shopKeyFile` in the Worker), no `workers.dev` or preview URLs, logs on at 10% sampling; Turnstile widget `freshcalendars-contact` allows `freshcalendars.com` and `localhost` |
 | R2 | `freshcalendars` public only through `cdn.freshcalendars.com` (TLS 1.2+), `r2.dev` off on both buckets, no CORS needed (pages load no fonts or data from the CDN) |
 
 ## Local checks

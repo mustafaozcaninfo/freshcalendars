@@ -28,6 +28,9 @@ export default {
   async fetch(request, env, ctx) {
     const url = new URL(request.url);
     const path = url.pathname;
+    // Only one shop path is routed here (wrangler.jsonc): the IndexNow key file. Anything else on
+    // that host would be a routing mistake, so it gets a plain 404 and never the calendar site.
+    if (url.hostname === SHOP_HOST) return shopKeyFile(path);
     try {
       if (path === "/api/contact" || path === "/api/contact.php") return await contact(request, env, ctx);
       if (path === "/api/pv") return await pageView(request, env);
@@ -60,6 +63,14 @@ const STUDIO_MONTH = new RegExp(`^/assets/(?:studio/([0-9]{4})/(${MONTH_NAMES})|
 const YEAR_SHEET = /^\/assets\/(?:studio\/yearly\/([0-9]{4})|([0-9]{4})\/yearly)\//;
 const SITE = "https://freshcalendars.com";
 const CDN_ORIGIN = "https://cdn.freshcalendars.com";
+const SHOP_HOST = "shop.freshcalendars.com";
+/** IndexNow key of the shop (public by design: search engines read it at /<key>.txt on the shop host). */
+const SHOP_INDEXNOW_KEY = "0342213edebec75d611fd78915bd5f76";
+
+function shopKeyFile(path) {
+  if (path !== `/${SHOP_INDEXNOW_KEY}.txt`) return new Response("Not found", { status: 404, headers: { "Cache-Control": "no-store" } });
+  return new Response(SHOP_INDEXNOW_KEY, { headers: { "Content-Type": "text/plain; charset=utf-8", "Cache-Control": "public, max-age=3600" } });
+}
 
 /**
  * The page a PDF belongs to. News printables come from the build's map; an ink-saver or A4 copy the
