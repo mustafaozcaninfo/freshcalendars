@@ -3,7 +3,7 @@ title: "Santa at the Mall 2026: Arrival Dates at 20 Simon Malls"
 description: "Santa at the mall 2026 began Fri., Nov. 6 at Simon Property Group malls, and 13 of 20 list Dec. 24 as the last day. Pet photo nights and a printable list."
 type: news
 publishedAt: "2026-11-05T06:45:00-05:00"
-updatedAt: "2026-11-05T06:45:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["santa at the mall 2026", "when does santa come to the mall 2026", "santa photos 2026 near me", "pet photos with santa 2026", "caring santa 2026"]
@@ -19,7 +19,7 @@ hero:
     author: "Kgbo"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Kgbo"
 summary:
-  - "Santa's first 2026 arrivals at Simon Property Group malls are Friday, Nov. 6, at Ross Park Mall in Pittsburgh, The Shops at Mission Viejo in California and Westfarms, among others; the last listed opening is Saturday, Nov. 21, at Newport Centre."
+  - "Santa's first 2026 arrivals at Simon Property Group malls were Friday, Nov. 6, at Ross Park Mall in Pittsburgh, The Shops at Mission Viejo in California and Westfarms, among others; four malls get Santa tomorrow, Friday, Nov. 20, and the last listed opening is Saturday, Nov. 21, at Newport Centre."
   - "13 of the 20 mall pages we read on Nov. 5 name Dec. 24 as the last day; the other seven do not post one."
   - "Pet photo nights are listed at 13 of the 20 malls, and Dec. 6 is the date that most often carries a pet night or a Caring Santa sensory session."
   - "Simon posts dates mall by mall; Brookfield Properties had not posted 2026 dates on Nov. 5, so check your own mall's page."
@@ -154,34 +154,34 @@ assets:
         - { label: "Newport Centre (Jersey City)", why: "page shows a listed opening of 11/21/2026 and pet photos Nov. 29, Dec. 6 and Dec. 13, 6:30-8:30 p.m." }
         - { label: "Ocean County Mall arrival date", why: "not on the page on Nov. 5, 2026; it lists pet photos Nov. 15 and Dec. 13 and Caring Santa Dec. 6" }
         - { label: "Last day at seven malls", why: "Walt Whitman, Rockingham Park, Cherry Creek, The Empire Mall, Treasure Coast, Newport Centre and Ocean County post no last day" }
-    note: "Source: each mall's Simon Property Group Santa Photo Experience page, read Nov. 5, 2026. Check your mall's page for hours and reservations."
+    note: "Source: each mall's Simon Property Group Santa Photo Experience page, read Nov. 5, 2026. Arrivals through Nov. 14 and pet nights Nov. 15 and 16 have passed. Check your mall's page for hours and reservations."
 ---
 
-**Santa's 2026 arrival dates at Simon Property Group malls start Friday, Nov. 6, at Ross Park Mall in Pittsburgh, The Shops at Mission Viejo in California and Westfarms, and run to Saturday, Nov. 21, at Newport Centre**, with most staying through Dec. 24, according to each mall's own Simon page.
+**Santa arrived at Simon Property Group malls on Friday, Nov. 6, at Ross Park Mall in Pittsburgh, The Shops at Mission Viejo in California and Westfarms; four more malls get him tomorrow, Friday, Nov. 20, and the last listed arrival is Saturday, Nov. 21, at Newport Centre**, with most staying through Dec. 24, according to each mall's own Simon page.
 
-No national date exists: each mall sets its own. We read 20 Simon mall pages on Nov. 5, 2026, and the table below sorts them by arrival date, with the last day, pet photo nights and Caring Santa sensory sessions where the page lists them. A one-page [printable arrival list](#printable) is at the end.
+No national date exists: each mall sets its own. We read 20 Simon mall pages on Nov. 5, 2026, and the table below sorts them by arrival date, with the last day, pet photo nights and Caring Santa sensory sessions where the page lists them. Arrivals dated Nov. 6, 7, 13 and 14 and the pet nights on Nov. 15 and 16 have passed. A one-page [printable arrival list](#printable) is at the end.
 
 ## Santa arrival dates at 20 Simon malls, 2026
 
-"Stated" means the page says Santa arrives on that date; "listed opening" means the page shows that opening date. A dash means the page did not post it.
+"Date posted" means the page says Santa arrived or arrives on that date; "listed opening" means the page shows that opening date. A dash means the page did not post it.
 
 | Arrival | Mall and city | Basis | Last day | Pet photos | Caring Santa |
 |---|---|---|---|---|---|
-| Fri., Nov. 6 | Ross Park Mall, Pittsburgh | Stated | Dec. 24 | Not listed | Not listed |
-| Fri., Nov. 6 | The Shops at Mission Viejo, California | Stated | Dec. 24 | Pets welcome in regular Santa hours | Not listed |
+| Fri., Nov. 6 | Ross Park Mall, Pittsburgh | Date posted | Dec. 24 | Not listed | Not listed |
+| Fri., Nov. 6 | The Shops at Mission Viejo, California | Date posted | Dec. 24 | Pets welcome in regular Santa hours | Not listed |
 | Fri., Nov. 6 | Westfarms, West Hartford | Listed opening | Dec. 24 | Mon., Nov. 16, 5-7 p.m. | Not listed |
 | Fri., Nov. 6 | Walt Whitman Shops, Huntington Station | Listed opening | Not posted | Not listed | Not listed |
 | Fri., Nov. 6 | The Mall at Rockingham Park, Salem | Listed opening | Not posted | Not listed | Not listed |
 | Sat., Nov. 7 | Cherry Creek Shopping Center, Denver | Listed opening | Not posted | Not listed | Not listed |
 | Fri., Nov. 13 | South Hills Village, Pittsburgh | Arrival event, 10 a.m. to 11 a.m. | Dec. 24 | Not listed | Sun., Dec. 6, 10:30 a.m. |
-| Fri., Nov. 13 | The Avenues, Jacksonville | Stated | Dec. 24 | Sun., Dec. 6, 8:30 p.m. | Sun., Dec. 6, 10:30 a.m. |
-| Fri., Nov. 13 | Katy Mills, Katy | Stated | Dec. 24 | Sun., Nov. 29 | Not listed |
-| Sat., Nov. 14 | Summit Mall, Fairlawn | Stated | Dec. 24 | Sun., Dec. 6, 6:30 p.m. | Not listed |
-| Sat., Nov. 14 | Great Lakes Crossing Outlets, Auburn Hills | Stated | Dec. 24 | Sun., Nov. 15 and Sun., Nov. 22 | Not listed |
+| Fri., Nov. 13 | The Avenues, Jacksonville | Date posted | Dec. 24 | Sun., Dec. 6, 8:30 p.m. | Sun., Dec. 6, 10:30 a.m. |
+| Fri., Nov. 13 | Katy Mills, Katy | Date posted | Dec. 24 | Sun., Nov. 29 | Not listed |
+| Sat., Nov. 14 | Summit Mall, Fairlawn | Date posted | Dec. 24 | Sun., Dec. 6, 6:30 p.m. | Not listed |
+| Sat., Nov. 14 | Great Lakes Crossing Outlets, Auburn Hills | Date posted | Dec. 24 | Sun., Nov. 15 and Sun., Nov. 22 | Not listed |
 | Sat., Nov. 14 | Lakeline Mall, Cedar Park | Listed opening | Dec. 24 | Sun., Dec. 13, 6-8 p.m. | Not listed |
 | Sat., Nov. 14 | Woodland Hills Mall, Tulsa | Listed opening | Dec. 24 | Sun., Dec. 13, 6-8 p.m. | Not listed |
 | Sat., Nov. 14 | The Empire Mall, Sioux Falls | Listed opening | Not posted | Not listed | Not listed |
-| Fri., Nov. 20 | Quaker Bridge Mall, Lawrenceville | Stated | Dec. 24 | Sun., Dec. 6 | Sun., Dec. 6 |
+| Fri., Nov. 20 | Quaker Bridge Mall, Lawrenceville | Date posted | Dec. 24 | Sun., Dec. 6 | Sun., Dec. 6 |
 | Fri., Nov. 20 | Southdale Center, Edina | Listed opening | Dec. 24 | Sun., Dec. 6 and Sun., Dec. 13, 6:30-8 p.m. | Not listed |
 | Fri., Nov. 20 | Treasure Coast Square, Jensen Beach | Listed opening | Not posted | Sun., Dec. 13, 6-7:30 p.m. | Not listed |
 | Fri., Nov. 20 | Prien Lake Mall, Lake Charles | Listed opening | Dec. 24 | Sun., Nov. 29, 5:30-7 p.m. | Sun., Dec. 6, 11:30 a.m. |
@@ -192,7 +192,7 @@ Counted from the table: five malls open Nov. 6, one Nov. 7, three Nov. 13, five 
 
 ## Which Simon malls hold pet photo nights with Santa?
 
-Thirteen of the 20 pages list a pet photo date. Dec. 6 appears for five of them (The Avenues, Summit Mall, Quaker Bridge Mall, Southdale Center and Newport Centre) and Dec. 13 for six (Lakeline Mall, Woodland Hills Mall, Southdale Center, Treasure Coast Square, Newport Centre and Ocean County Mall). Earlier dates are Westfarms on Monday, Nov. 16, Ocean County Mall and Great Lakes Crossing Outlets on Sunday, Nov. 15, Great Lakes Crossing Outlets again on Sunday, Nov. 22, and Katy Mills, Prien Lake Mall and Newport Centre on Sunday, Nov. 29.
+Thirteen of the 20 pages list a pet photo date. Dec. 6 appears for five of them (The Avenues, Summit Mall, Quaker Bridge Mall, Southdale Center and Newport Centre) and Dec. 13 for six (Lakeline Mall, Woodland Hills Mall, Southdale Center, Treasure Coast Square, Newport Centre and Ocean County Mall). Earlier dates were Westfarms on Monday, Nov. 16, and Ocean County Mall and Great Lakes Crossing Outlets on Sunday, Nov. 15, all now past. Still ahead are Great Lakes Crossing Outlets again on Sunday, Nov. 22, and Katy Mills, Prien Lake Mall and Newport Centre on Sunday, Nov. 29.
 
 Reservations are not required for the pet nights at Lakeline Mall, Southdale Center, Treasure Coast Square, Prien Lake Mall and Newport Centre, according to their pages. The Shops at Mission Viejo has no separate pet night; its page says pets are welcome during regular Santa hours.
 
@@ -207,17 +207,17 @@ Ocean County Mall's page describes Caring Santa as "a special, sensory-friendly 
 Only some pages give hours or booking. Where they do, the details are:
 
 - **Ross Park Mall:** Nov. 6 to Nov. 25, Monday to Friday 11 a.m. to 7 p.m., Saturday 10 a.m. to 9 p.m., Sunday 11 a.m. to 6 p.m.; Dec. 24, 9 a.m. to 5 p.m. The page says "Book your reservation here."
-- **Katy Mills:** Nov. 13, 11 a.m. to 7 p.m.
-- **Summit Mall:** Nov. 14, 11 a.m. to 7 p.m.; Dec. 24, 9 a.m. to 5 p.m.
-- **Quaker Bridge Mall:** Nov. 20, 11 a.m. to 8 p.m.; Dec. 24, 9 a.m. to 5 p.m.; the page says "Make Your Reservation Here."
+- **Katy Mills:** Santa arrived Nov. 13, with hours of 11 a.m. to 7 p.m.
+- **Summit Mall:** Santa arrived Nov. 14, with hours of 11 a.m. to 7 p.m.; Dec. 24, 9 a.m. to 5 p.m.
+- **Quaker Bridge Mall:** tomorrow, Nov. 20, 11 a.m. to 8 p.m.; Dec. 24, 9 a.m. to 5 p.m.; the page says "Make Your Reservation Here."
 - **The Shops at Mission Viejo and The Avenues:** booking runs through whereissanta.com.
-- **South Hills Village:** the arrival event is Friday, Nov. 13, from 10 a.m. to 11 a.m., with photos from Nov. 13 to Dec. 24 and reservations linked on the page.
+- **South Hills Village:** the arrival event was Friday, Nov. 13, from 10 a.m. to 11 a.m., with photos from Nov. 13 to Dec. 24 and reservations linked on the page.
 
 Thanksgiving is Thursday, Nov. 26, 2026; check your mall's page for hours around the holiday.
 
 ## Do other mall owners post Santa dates for 2026?
 
-Not on Nov. 5 in the sources we checked. Brookfield Properties had not posted 2026 Santa dates, and we do not give dates for malls whose operators have not posted them. Macerich's Fashion Fair in Fresno, California, lists pet photos with Santa on Nov. 16, 2026, from 4 p.m. to 7 p.m., and a "Signing Santa" session in American Sign Language (ASL) on Dec. 1, 2026, from 5 p.m. to 7 p.m., on its events page.
+Not on Nov. 5 in the sources we checked. Brookfield Properties had not posted 2026 Santa dates, and we do not give dates for malls whose operators have not posted them. Macerich's Fashion Fair in Fresno, California, listed pet photos with Santa on Nov. 16, 2026, from 4 p.m. to 7 p.m. (now past), and lists a "Signing Santa" session in American Sign Language (ASL) on Dec. 1, 2026, from 5 p.m. to 7 p.m., on its events page.
 
 ## How to find your own mall's Santa dates
 

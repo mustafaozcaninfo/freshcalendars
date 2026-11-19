@@ -3,6 +3,7 @@ title: "Home Depot Black Friday 2026: Sale Nov. 5 to 25, Open 6 a.m. Nov. 27"
 description: "Home Depot Black Friday 2026 sale runs Nov. 5 to 25. Stores are closed Thanksgiving and open 6 a.m. Nov. 27, with a printable of holiday hours to Dec. 31."
 type: news
 publishedAt: "2026-10-31T21:42:00-04:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["home depot black friday 2026", "when does home depot black friday sale start 2026", "home depot black friday savings event", "is home depot open on thanksgiving 2026"]
@@ -17,10 +18,11 @@ assets:
     group: black-friday-2026
     title: "Home Depot Holiday 2026 Dates and Hours"
     subtitle: "Sale dates and store hours from Oct. 29, 2026 to Jan. 1, 2027"
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     layout: list
     rows:
-      - ["Thu., Oct. 29", "Holiday gift savings begin"]
-      - ["Thu., Nov. 5", "Black Friday Savings Event begins, in store and online"]
+      - ["Thu., Oct. 29", "Holiday gift savings began"]
+      - ["Thu., Nov. 5", "Black Friday Savings Event began, in store and online"]
       - ["Wed., Nov. 25", "Black Friday Savings Event ends"]
       - ["Thu., Nov. 26", "Thanksgiving: stores closed"]
       - ["Fri., Nov. 27", "Black Friday: stores open at 6 a.m."]
@@ -29,7 +31,6 @@ assets:
       - ["Thu., Dec. 31", "New Year's Eve: stores close at 6 p.m."]
       - ["Fri., Jan. 1, 2027", "New Year's Day: stores open 9 a.m. to 8 p.m."]
     note: "Source: The Home Depot newsroom, Oct. 29 and Sept. 29, 2026; Store Holiday Hours page."
-    inkSaver: true
     description: "One-page Home Depot holiday 2026 calendar: Black Friday Savings Event Nov. 5 to 25, Thanksgiving closure, Black Friday 6 a.m. opening and Christmas to New Year's hours."
     alt: "Printable list of Home Depot 2026 sale dates and holiday store hours from Oct. 29 to Jan. 1"
 hero:
@@ -49,7 +50,7 @@ summary:
   - "Home Depot has not announced the event's end time, per-day doorbusters, or any sale after Nov. 25."
 faq:
   - q: "When does the Home Depot Black Friday 2026 sale start?"
-    a: "Thursday, Nov. 5, 2026. The Home Depot says the Black Friday Savings Event runs from Nov. 5 through 25 in store and online."
+    a: "Thursday, Nov. 5, 2026. The Home Depot says the Black Friday Savings Event runs from Nov. 5 through 25 in store and online, so it is under way now."
   - q: "Is Home Depot open on Thanksgiving 2026?"
     a: "No. The Home Depot's 2026 holiday hours list stores as closed on Thursday, Nov. 26."
   - q: "What time does Home Depot open on Black Friday 2026?"
@@ -57,7 +58,7 @@ faq:
   - q: "Does the Home Depot sale end before Black Friday?"
     a: "Yes. The event ends Wednesday, Nov. 25, which is two days before Black Friday on Nov. 27. The company has not said whether another sale follows."
   - q: "Are the Oct. 29 gift savings the Black Friday sale?"
-    a: "No. The Sept. 29 release says gift savings begin Oct. 29 and last through the season. The Black Friday Savings Event is the separate Nov. 5 to 25 event."
+    a: "No. The Sept. 29 release said gift savings start Oct. 29 and last through the season. The Black Friday Savings Event is the separate Nov. 5 to 25 event."
 sources:
   - title: "The Home Depot Kicks Off Black Friday Season With Unbeatable Value Across Tools, Home Upgrades, and Holiday Decor"
     url: "https://corporate.homedepot.com/news/products/home-depot-kicks-black-friday-season"
@@ -85,14 +86,6 @@ downloads:
     pdf: "/news/downloads/black-friday-2026/home-depot-holiday-2026-dates-and-hours.pdf"
     png: "/news/downloads/black-friday-2026/home-depot-holiday-2026-dates-and-hours.png"
     pages: 1
-  - group: "Home Depot Holiday 2026 Dates and Hours printables"
-    title: "Home Depot Holiday 2026 Dates and Hours (ink saver)"
-    description: "One-page Home Depot holiday 2026 calendar: Black Friday Savings Event Nov. 5 to 25, Thanksgiving closure, Black Friday 6 a.m. opening and Christmas to New Year's hours. Ink-saver version."
-    preview: ../../../../assets/news/black-friday-2026/home-depot-holiday-2026-dates-and-hours-ink.png
-    alt: "Printable list of Home Depot 2026 sale dates and holiday store hours from Oct. 29 to Jan. 1, ink-saver version"
-    pdf: "/news/downloads/black-friday-2026/home-depot-holiday-2026-dates-and-hours-ink.pdf"
-    png: "/news/downloads/black-friday-2026/home-depot-holiday-2026-dates-and-hours-ink.png"
-    pages: 1
 draft: false
 ---
 
@@ -102,8 +95,8 @@ draft: false
 
 | Date | Day | What The Home Depot published |
 |---|---|---|
-| Oct. 29, 2026 | Thursday | Gift savings begin and last throughout the season (Sept. 29 release) |
-| Nov. 5, 2026 | Thursday | Black Friday Savings Event begins, in store and online |
+| Oct. 29, 2026 | Thursday | Gift savings began and last throughout the season (Sept. 29 release) |
+| Nov. 5, 2026 | Thursday | Black Friday Savings Event began, in store and online; runs through Nov. 25 |
 | Nov. 25, 2026 | Wednesday | Black Friday Savings Event ends |
 | Nov. 26, 2026 | Thursday | Thanksgiving: stores closed |
 | Nov. 27, 2026 | Friday | Black Friday: stores open at 6 a.m. |
@@ -132,7 +125,7 @@ No. The Home Depot's 2026 holiday hours list Thursday, Nov. 26, as closed. Store
 
 ## What is the difference between the Oct. 29 savings and the Nov. 5 event?
 
-The company's Sept. 29 holiday decor release says: "Customers can find savings on gifts for everyone on their lists beginning Oct. 29 and lasting throughout the season." That release also says holiday decor reaches stores beginning the week of Oct. 5. The Black Friday Savings Event is the separate Nov. 5 to 25 event described in the Oct. 29 announcement. Lowe's, which also starts deals on Oct. 29, publishes a different schedule; see our [Lowe's Black Friday 2026 story](/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/). Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows the other big chains.
+The company's Sept. 29 holiday decor release says: "Customers can find savings on gifts for everyone on their lists beginning Oct. 29 and lasting throughout the season." That release also said holiday decor would reach stores beginning the week of Oct. 5. The Black Friday Savings Event is the separate Nov. 5 to 25 event described in the Oct. 29 announcement. Lowe's, which also starts deals on Oct. 29, publishes a different schedule; see our [Lowe's Black Friday 2026 story](/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/). Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows the other big chains.
 
 ## What has Home Depot not announced?
 
@@ -142,4 +135,4 @@ The company's Sept. 29 holiday decor release says: "Customers can find savings o
 
 ## Print the Home Depot holiday 2026 dates and hours
 
-The one-page printable lists every date in the table, with weekdays, from the Oct. 29 gift savings to New Year's Day. There is a standard version and an ink-saver version for home printers.
+The one-page printable lists every date in the table, with weekdays, from the Oct. 29 gift savings to New Year's Day.
