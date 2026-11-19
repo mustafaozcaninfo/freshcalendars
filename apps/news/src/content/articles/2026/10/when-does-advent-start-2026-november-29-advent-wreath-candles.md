@@ -66,7 +66,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [twelve-days-of-christmas-2026-dates-epiphany-printable, saint-nicholas-day-2026-december-6-eve-december-5, stir-up-sunday-2026-november-22-christmas-pudding]
+related: [christ-the-king-sunday-2026-november-22, saint-nicholas-day-2026-december-6-eve-december-5, stir-up-sunday-2026-november-22-christmas-pudding]
 downloads:
   - group: "Advent 2026 Wreath Candle Tracker printables"
     title: "Advent 2026 Wreath Candle Tracker"
