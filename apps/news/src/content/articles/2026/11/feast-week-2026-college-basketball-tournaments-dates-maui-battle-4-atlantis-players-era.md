@@ -3,7 +3,7 @@ title: "Feast Week Tournaments 2026: Maui Nov. 23-25, Atlantis Nov. 25-27"
 description: "Feast Week 2026 college basketball: Maui Nov. 23-25, Atlantis Nov. 25-27, Players Era Nov. 24-28. Every field, posted tip times and TV, and a printable."
 type: news
 publishedAt: "2026-11-01T10:52:00-05:00"
-updatedAt: "2026-11-13T16:11:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["feast week 2026 college basketball", "maui invitational 2026 schedule", "battle 4 atlantis 2026", "players era 2026 dates", "thanksgiving college basketball tournaments 2026"]
@@ -57,7 +57,7 @@ faq:
   - q: "Who is in the 2026 Battle 4 Atlantis field?"
     a: "Marquette, Memphis, Mississippi State, Penn State, Texas A&M, Virginia, Wake Forest and Xavier, per Atlantis Paradise Island. Penn State's group has Memphis, Mississippi State and Wake Forest."
   - q: "How many games are in Players Era 2026?"
-    a: "ESPN Press Room says ESPN networks will be the exclusive home of all 37 games across Players Era 8 and Players Era 16. Players Era lists the Players Era 8 final for Thursday, Nov. 19 at 11 p.m. ET and the Players Era 16 final for Saturday, Nov. 28 at 10:30 p.m. ET, both on ESPN."
+    a: "ESPN Press Room says ESPN networks will be the exclusive home of all 37 games across Players Era 8 and Players Era 16. Players Era lists the Players Era 8 final for tonight, Thursday, Nov. 19 at 11 p.m. ET and the Players Era 16 final for Saturday, Nov. 28 at 10:30 p.m. ET, both on ESPN."
   - q: "Are tip times set for the Atlantis and Players Era games?"
     a: "Only partly. Atlantis Paradise Island and Penn State Athletics say matchups and tipoff times will be announced later, and the Players Era sites list only the two championship games. Charleston, Kissimmee and Fort Myers times are posted."
 sources:
@@ -158,7 +158,7 @@ The table combines the schedules from the seven tournament announcements below. 
 | Fri., Nov. 27 | Atlantis ends; Players Era 16; Magic Group; Rady Children's Invitational | Atlantis final day; Cincinnati vs. Boston College 4:30 p.m. ET (network to be announced) and UCF vs. Georgia 7 p.m. (ESPN2) in Kissimmee |
 | Sat., Nov. 28 | Players Era 16 | Players Era 16 championship, 10:30 p.m. ET on ESPN at Michelob Ultra Arena |
 
-Players Era 8, a separate event at Michelob Ultra Arena, comes before all of this on Nov. 17-19, with its championship game on Thursday, Nov. 19 at 11 p.m. ET on ESPN.
+Players Era 8, a separate event at Michelob Ultra Arena, comes before all of this. Its opening round (Nov. 17) and semifinals (Nov. 18) have been played, and its championship game is tonight, Thursday, Nov. 19, at 11 p.m. ET on ESPN.
 
 ## When is the Southwest Maui Invitational 2026 and who plays?
 
@@ -174,7 +174,7 @@ Penn State Athletics says the field is split into two groups of four. Penn State
 
 ## What are the Players Era 2026 dates, arenas and teams?
 
-ESPN Press Room announced two events on May 21, 2026, and said ESPN networks will be the exclusive home of all 37 games. Players Era lists the Players Era 16 championship game for Saturday, Nov. 28 at 10:30 p.m. ET (7:30 p.m. PT) at Michelob Ultra Arena on ESPN. Other tip times are not yet announced.
+ESPN Press Room announced two events on May 21, 2026, and said ESPN networks will be the exclusive home of all 37 games. Players Era lists the Players Era 16 championship game for Saturday, Nov. 28 at 10:30 p.m. ET (7:30 p.m. PT) at Michelob Ultra Arena on ESPN. Other tip times are not yet announced. The Players Era 8 opening round (Nov. 17) and semifinals (Nov. 18) have been played; its championship game is tonight, Thursday, Nov. 19, at 11 p.m. ET on ESPN, per Players Era.
 
 | Event | Dates | Arena | Teams |
 |---|---|---|---|

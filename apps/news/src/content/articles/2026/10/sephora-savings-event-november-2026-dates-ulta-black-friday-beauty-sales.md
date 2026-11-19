@@ -3,7 +3,7 @@ title: "Ulta Black Friday 2026: Online Nov. 21; Sephora Sale Ended Nov. 9"
 description: "Sephora's 2026 Savings Event ended Nov. 9. Ulta's early deals run to Nov. 21; its Black Friday sale starts online at 9 p.m. ET that night. Free calendar."
 type: news
 publishedAt: "2026-10-31T11:55:00-04:00"
-updatedAt: "2026-11-13T16:12:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Sephora sale November 2026", "Sephora Savings Event 2026 dates", "when is the Sephora sale for VIB", "Ulta Black Friday 2026"]
@@ -21,7 +21,7 @@ hero:
 summary:
   - "Sephora's fall Savings Event ended Mon., Nov. 9, 2026. Rouge members had 20% off from Fri., Oct. 30, and Very Important Beauty Insider (VIB) and Insider members had their tiers from Tue., Nov. 3, NBC News Select and The Daily Beast reported."
   - "NBC News Select listed 15% off for VIB and 10% off for Insider from Nov. 3 to Nov. 9, and 30% off Sephora Collection products for all shoppers from Oct. 30 to Nov. 9."
-  - "Ulta Beauty's early Black Friday deals started Oct. 25 and end at 11:59 p.m. Central Time (CT) on Nov. 21, which is 12:59 a.m. Eastern Time (ET) on Nov. 22. Ulta's page lists new deals for Nov. 15 to 21. Its Black Friday sale starts online at 9 p.m. ET on Nov. 21, per its page as of Oct. 31."
+  - "Ulta Beauty's early Black Friday deals started Oct. 25 and end at 11:59 p.m. Central Time (CT) on Nov. 21, which is 12:59 a.m. Eastern Time (ET) on Nov. 22. Ulta's page listed new deals for Nov. 15 to 21. Its Black Friday sale starts online at 9 p.m. ET on Nov. 21, and a Tue., Nov. 24 wave of 800+ more products starts at 1:01 a.m. ET online and 10 a.m. local time in stores, per its page on Nov. 19."
   - "We could not confirm Sephora Black Friday or Cyber Monday 2026 dates from an official source."
 faq:
   - q: "When is the Sephora sale for VIB members in November 2026?"
@@ -33,7 +33,9 @@ faq:
   - q: "Do you need to be a member to get the Sephora Collection discount?"
     a: "No. The Daily Beast said the 30% off Sephora Collection products needed no membership, and NBC News Select listed it for all shoppers from Oct. 30 to Nov. 9, 2026."
   - q: "When does Ulta's Black Friday sale start in 2026?"
-    a: "Ulta Beauty's page, as we read it on Oct. 31, said Black Friday starts online on Nov. 21 at 8 p.m. CT (9 p.m. ET) and in stores on Nov. 22 at 10 a.m. local time, through Nov. 28. Its page on Nov. 13 lists only the early deals, which end Nov. 21 at 11:59 p.m. CT."
+    a: "Ulta Beauty's page, as we read it on Nov. 19, says Black Friday starts online on Nov. 21 at 8 p.m. CT (9 p.m. ET) and in stores on Nov. 22 at 10 a.m. local time. The Oct. 31 reading added that in-store sales run through Nov. 28. The early deals end Nov. 21 at 11:59 p.m. CT."
+  - q: "What starts at Ulta on Tuesday, Nov. 24, 2026?"
+    a: "Ulta's page on Nov. 19 says \"These products & 800 more\" are \"Coming Tue, Nov 24,\" starting online at 12:01 a.m. CT (1:01 a.m. ET) and in stores at 10 a.m. local time."
   - q: "When did the Sephora Savings Event run in 2025?"
     a: "Today reported that it ran Nov. 4 to 10, 2025 for all tiers, with Rouge members able to shop as early as Oct. 31, 2025."
 sources:
@@ -45,10 +47,10 @@ sources:
     url: "https://www.thedailybeast.com/sephora-spring-sale"
     publisher: "The Daily Beast"
     date: "2026-10-30"
-  - title: "Black Friday at Ulta Beauty"
+  - title: "Black Friday Beauty Deals 2026"
     url: "https://www.ulta.com/promotion/black-friday"
     publisher: "Ulta Beauty"
-    date: "2026-11-13"
+    date: "2026-11-19"
   - title: "Ulta Black Friday deals 2026"
     url: "https://goodmorningamerica.com/shop/story/ulta-black-friday-deals-2026-137576326"
     publisher: "Good Morning America"
@@ -85,13 +87,14 @@ assets:
     title: "Beauty Sale Calendar, November 2026"
     subtitle: "Ulta early deals, Black Friday and Cyber Monday dates in Eastern Time"
     rows:
-      - ["Sun., Nov. 15 to Sat., Nov. 21", "Ulta lists a new round of early deals"]
+      - ["Sun., Nov. 15 to Sat., Nov. 21", "Ulta's new round of early deals began Nov. 15"]
       - ["Sat., Nov. 21", "Ulta early deals end 12:59 a.m. ET Nov. 22; Black Friday online 9 p.m. ET"]
       - ["Sun., Nov. 22", "Ulta Black Friday in stores 10 a.m. local time (through Nov. 28)"]
+      - ["Tue., Nov. 24", "Ulta adds 800+ more products: online 1:01 a.m. ET, stores 10 a.m. local time"]
       - ["Sun., Nov. 29", "Ulta Cyber Monday online from 1 a.m. ET; Big Holiday Beauty Sale opens"]
       - ["Tue., Dec. 1", "Ulta Cyber Monday ends 3 a.m. ET"]
       - ["Thu., Dec. 24", "Ulta Big Holiday Beauty Sale ends"]
-    note: "Source: Ulta Beauty, checked Nov. 13, 2026. Central Time converted to Eastern Time by Fresh Calendars. Sephora Savings Event ended Nov. 9."
+    note: "Source: Ulta Beauty, checked Nov. 19, 2026. Central Time converted to Eastern Time by Fresh Calendars. Sephora Savings Event ended Nov. 9."
     description: "One-page beauty sale calendar for November 2026 with Ulta early deals, Black Friday and Cyber Monday dates in Eastern Time."
     alt: "Printable beauty sale calendar for November 2026 with Ulta early deals, Black Friday and Cyber Monday dates"
 ---
@@ -117,15 +120,16 @@ In 2025, Today reported that the Sephora Savings Event ran Nov. 4 to 10 for all 
 
 ## When are Ulta Beauty's Black Friday and early deals?
 
-Ulta Beauty's Black Friday page says "Early Black Friday deals at Ulta Beauty start October 25, 2026" and ends "11/21 at 11:59pm CT." As of Nov. 13 it lists upcoming deals for Nov. 15 to 21, with some ending Nov. 14 and others Nov. 21, and says new offers are added weekly. On Oct. 31 it described the early deals as separate from the regular Black Friday sale. Good Morning America reported on Oct. 26 that the deals run "now through Nov. 21" with "new deals every week," and listed "up to 50% off brands like Tarte, Clinique and Benefit Cosmetics."
+Ulta Beauty's Black Friday page says "Early Black Friday deals at Ulta Beauty start October 25, 2026" and ends "11/21 at 11:59pm CT." As of Nov. 13 it listed deals for Nov. 15 to 21, with some ending Nov. 14 and others Nov. 21, and said new offers are added weekly. On Oct. 31 it described the early deals as separate from the regular Black Friday sale. Good Morning America reported on Oct. 26 that the deals run "now through Nov. 21" with "new deals every week," and listed "up to 50% off brands like Tarte, Clinique and Benefit Cosmetics."
 
-The Ulta page listed the later phases below when we read it on Oct. 31; its Nov. 13 version shows only the early deals and does not repeat them. The ET column is our conversion from the CT times.
+The Ulta page listed the later phases below when we read it on Oct. 31; its Nov. 13 version showed only the early deals. On Nov. 19 it again lists the Nov. 21 online start, the Nov. 22 in-store start and a Nov. 24 wave. The ET column is our conversion from the CT times.
 
 | Ulta phase | Ulta Beauty's dates and times | In Eastern Time |
 |---|---|---|
-| Early Black Friday deals | Start Oct. 25; end Nov. 21 at 11:59 p.m. CT | Ends 12:59 a.m. ET, Sun., Nov. 22 |
+| Early Black Friday deals | Started Oct. 25; end Nov. 21 at 11:59 p.m. CT | Ends 12:59 a.m. ET, Sun., Nov. 22 |
 | Black Friday online | Starts Nov. 21 at 8 p.m. CT | Starts 9 p.m. ET, Sat., Nov. 21 |
 | Black Friday in stores | Starts Nov. 22 at 10 a.m. local time, through Nov. 28 | 10 a.m. local time, Sun., Nov. 22 to Sat., Nov. 28 |
+| New wave: "These products & 800 more" | Coming Tue., Nov. 24: online 12:01 a.m. CT, in stores 10 a.m. local time | Online 1:01 a.m. ET, Tue., Nov. 24; stores 10 a.m. local time |
 | Cyber Monday (online only) | Starts Nov. 29 at 12 a.m. CT, through Dec. 1 at 2 a.m. CT | Sun., Nov. 29 at 1 a.m. ET to Tue., Dec. 1 at 3 a.m. ET |
 | Big Holiday Beauty Sale | In stores and online, Nov. 29 to Dec. 24 | Sun., Nov. 29 to Thu., Dec. 24 |
 
@@ -136,8 +140,9 @@ Ulta's page says some offers are only for Platinum and Diamond Ulta Beauty Rewar
 - Fri., Oct. 30: Sephora Rouge 20% and Sephora Collection 30% began.
 - Tue., Nov. 3: Sephora VIB 15% and Insider 10% began.
 - Mon., Nov. 9: the Sephora Savings Event ended.
-- Sun., Nov. 15 to Sat., Nov. 21: Ulta lists a new round of early deals.
+- Sun., Nov. 15 to Sat., Nov. 21: Ulta's new round of early deals began Nov. 15.
 - Sat., Nov. 21: Ulta's early deals end at 12:59 a.m. ET on Nov. 22, and its Black Friday sale starts online at 9 p.m. ET.
+- Tue., Nov. 24: Ulta's new wave of 800+ more products starts online at 1:01 a.m. ET and in stores at 10 a.m. local time.
 - Sun., Nov. 29: Ulta's online Cyber Monday starts at 1 a.m. ET.
 
 Mark them on the [November 2026 printable calendar](/november-calendars.html); Black Friday itself is Nov. 27 ([when Black Friday falls](/when-is/black-friday/)). For store ads, see the [Black Friday 2026 ad tracker for Walmart, Target and Best Buy](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and [when Amazon's sale window has started in past years](/news/amazon-black-friday-2026-sale-dates-when-does-it-start/). Another sale date is covered in [Singles Day on Nov. 11](/news/singles-day-2026-november-11-11-11-sale-dates/).

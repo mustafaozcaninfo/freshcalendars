@@ -3,7 +3,7 @@ title: "Netflix Christmas Movies 2026: 32 Holiday Titles Dated Nov. 1-28"
 description: "Netflix Christmas movies 2026: 32 holiday titles are dated Nov. 1 to 28, and In a Holidaze is Dec. 2. Each date by week, plus a printable watch list."
 type: news
 publishedAt: "2026-11-01T10:45:00-05:00"
-updatedAt: "2026-11-13T16:13:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["netflix christmas movies 2026", "new netflix holiday movies 2026", "netflix christmas movies release dates", "in a holidaze netflix release date", "gospel of christmas netflix release date"]
@@ -12,7 +12,7 @@ assets:
   overlay: true
   kicker: "Netflix holiday movies 2026"
   date: "2026-11-18"
-  card: { top: "Next Netflix original holiday film", big: "Wed., Nov. 18", bottom: "Guarding Stars" }
+  card: { top: "Netflix original holiday film", big: "Wed., Nov. 18", bottom: "Guarding Stars, out now" }
   printable:
     slug: netflix-holiday-watch-list-2026
     group: netflix-holiday-2026
@@ -55,7 +55,6 @@ assets:
       - { when: "Wed., Dec. 2", what: "In a Holiday... In a Holidaze", section: "December" }
     note: "Source: Netflix Tudum, New on Netflix in November 2026 (Oct. 31, 2026) and New fall movies on Netflix (Aug. 26, 2026). The full December list is not yet posted. Dates can change."
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
-    inkSaver: true
     description: "One-page Netflix holiday watch list for 2026 with the date of each Christmas and holiday title Netflix lists for November and Dec. 2, and a tick box for each."
     alt: "Printable Netflix holiday watch list 2026 with titles grouped by week and a tick box for each"
 hero:
@@ -69,8 +68,8 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Glowing_Christmas_Tree_Lights_in_the_Winter_Night.jpg"
     author: "epSos.de"
 summary:
-  - "Netflix's Oct. 31, 2026 list dates 32 holiday titles from Sunday, Nov. 1 to Saturday, Nov. 28; 20 are out as of Nov. 13 and 12 are still to come."
-  - "Netflix names three original holiday movies: A Dog's Perfect Christmas (Nov. 4) and Tyler Perry's The Gospel of Christmas (Nov. 11) are out, and Guarding Stars arrives Nov. 18."
+  - "Netflix's Oct. 31, 2026 list dates 32 holiday titles from Sunday, Nov. 1 to Saturday, Nov. 28; 24 are out as of Nov. 19, two arrive today and six are still to come."
+  - "Netflix names three original holiday movies: A Dog's Perfect Christmas (Nov. 4), Tyler Perry's The Gospel of Christmas (Nov. 11) and Guarding Stars (Nov. 18) are all out."
   - "In a Holidaze is dated Wednesday, Dec. 2 on Netflix's fall movie page; the full December list is not yet posted."
   - "Netflix's Help Center says originals typically release at 12:00 a.m. Pacific Time, which is 3 a.m. Eastern Time."
 faq:
@@ -113,24 +112,16 @@ downloads:
     pdf: "/news/downloads/netflix-holiday-2026/netflix-holiday-watch-list-2026.pdf"
     png: "/news/downloads/netflix-holiday-2026/netflix-holiday-watch-list-2026.png"
     pages: 1
-  - group: "Netflix Holiday Watch List 2026 printables"
-    title: "Netflix Holiday Watch List 2026 (ink saver)"
-    description: "One-page Netflix holiday watch list for 2026 with the date of each Christmas and holiday title Netflix lists for November and Dec. 2, and a tick box for each. Ink-saver version."
-    preview: ../../../../assets/news/netflix-holiday-2026/netflix-holiday-watch-list-2026-ink.png
-    alt: "Printable Netflix holiday watch list 2026 with titles grouped by week and a tick box for each, ink-saver version"
-    pdf: "/news/downloads/netflix-holiday-2026/netflix-holiday-watch-list-2026-ink.pdf"
-    png: "/news/downloads/netflix-holiday-2026/netflix-holiday-watch-list-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
-**Netflix's "New on Netflix in November 2026" list, published Oct. 31, 2026 on Netflix Tudum, dates 32 holiday titles between Sunday, Nov. 1 and Saturday, Nov. 28, and Netflix's fall movie page lists "In a Holiday... In a Holidaze" for Wednesday, Dec. 2.** As of Friday, Nov. 13, 20 of the 32 are out; the next, Christmas On The Ranch and Reporting for Christmas, arrive Monday, Nov. 16, and Guarding Stars follows Wednesday, Nov. 18. The table below groups every title by date with its status, and a free printable watch list follows it.
+**Netflix's "New on Netflix in November 2026" list, published Oct. 31, 2026 on Netflix Tudum, dates 32 holiday titles between Sunday, Nov. 1 and Saturday, Nov. 28, and Netflix's fall movie page lists "In a Holiday... In a Holidaze" for Wednesday, Dec. 2.** As of Thursday, Nov. 19, 24 of the 32 are out, including Christmas On The Ranch and Reporting for Christmas (Monday, Nov. 16) and Guarding Stars (Wednesday, Nov. 18). A Cherry Pie Christmas and Christmas at Fields Ranch arrive today, and six more follow between Saturday, Nov. 21 and Saturday, Nov. 28. The table below groups every title by date with its status, and a free printable watch list follows it.
 
 Seven titles were dated Sunday, Nov. 1, and three more were dated Tuesday, Nov. 3, so the list is front-loaded. Netflix's own pick for original holiday movies is short: Tudum says to add "A Dog's Perfect Christmas, The Gospel of Christmas, and Guarding Stars to your watchlist."
 
 ## Netflix holiday titles by date, November and December 2026
 
-Dates are U.S. release dates from Netflix Tudum's list; the weekdays and the "Out now" status (a title dated Nov. 13 or earlier) are our calculation as of Nov. 13. Netflix does not say on that list which titles are originals or licensed, so only the three it names are marked as originals below.
+Dates are U.S. release dates from Netflix Tudum's list; the weekdays and the "Out now" status (a title dated Nov. 18 or earlier) are our calculation as of Nov. 19. Netflix does not say on that list which titles are originals or licensed, so only the three it names are marked as originals below.
 
 | Week | Day and date | Titles | Count | Status |
 |---|---|---|---|---|
@@ -141,9 +132,9 @@ Dates are U.S. release dates from Netflix Tudum's list; the weekdays and the "Ou
 | Nov. 9 to 15 | Wednesday, Nov. 11 | Tyler Perry's The Gospel of Christmas; How to Fall In Love By Christmas; Rodeo Christmas Romance | 3 | Out now |
 | Nov. 9 to 15 | Thursday, Nov. 12 | A Christmas Castle Proposal: A Royal in Paradise 2; The Christmas Switch | 2 | Out now |
 | Nov. 9 to 15 | Friday, Nov. 13 | A Merry Christmas Wish | 1 | Out now |
-| Nov. 16 to 22 | Monday, Nov. 16 | Christmas On The Ranch; Reporting for Christmas | 2 | Coming Nov. 16 |
-| Nov. 16 to 22 | Wednesday, Nov. 18 | Guarding Stars; America's Test Kitchen Friendsgiving | 2 | Coming Nov. 18 |
-| Nov. 16 to 22 | Thursday, Nov. 19 | A Cherry Pie Christmas; Christmas at Fields Ranch | 2 | Coming Nov. 19 |
+| Nov. 16 to 22 | Monday, Nov. 16 | Christmas On The Ranch; Reporting for Christmas | 2 | Out now |
+| Nov. 16 to 22 | Wednesday, Nov. 18 | Guarding Stars; America's Test Kitchen Friendsgiving | 2 | Out now |
+| Nov. 16 to 22 | Thursday, Nov. 19 | A Cherry Pie Christmas; Christmas at Fields Ranch | 2 | Today, Nov. 19 |
 | Nov. 16 to 22 | Saturday, Nov. 21 | Marry Christmas; Mistletoe Mixup | 2 | Coming Nov. 21 |
 | Nov. 23 to 30 | Monday, Nov. 23 | The Great British Baking Show: Holidays | 1 | Coming Nov. 23 |
 | Nov. 23 to 30 | Tuesday, Nov. 24 | All for Christmas; The Trouble With Mistletoe | 2 | Coming Nov. 24 |
@@ -156,7 +147,7 @@ Netflix's Oct. 31 list names three originals, and each has a date.
 
 - **A Dog's Perfect Christmas, Wednesday, Nov. 4 (out now).** Tudum describes it as a holiday drama "from the bestselling author of A Dog's Purpose." Netflix's fall movie page also lists it for Nov. 4.
 - **Tyler Perry's The Gospel of Christmas, Wednesday, Nov. 11 (out now).** A Tudum article from Oct. 16, 2026 said it "will be released on Nov. 11." The Aug. 26 fall movie page had listed it only as "Fall 2026."
-- **Guarding Stars, Wednesday, Nov. 18 (next up).** Tudum calls it a holiday romance in which a bodyguard heads to a Montana ranch with the actor she protects and posing as a couple for Christmas sparks a real romance. The cast includes Leighton Meester, Jared Padalecki, Noah LaLonde and Andie MacDowell, and Elizabeth Allen Rosenbaum is the director.
+- **Guarding Stars, Wednesday, Nov. 18 (out now).** Tudum calls it a holiday romance in which a bodyguard heads to a Montana ranch with the actor she protects and posing as a couple for Christmas sparks a real romance. The cast includes Leighton Meester, Jared Padalecki, Noah LaLonde and Andie MacDowell, and Elizabeth Allen Rosenbaum is the director.
 
 ## What holiday titles has Netflix dated for December 2026?
 
@@ -174,6 +165,6 @@ Yes. Per the National Football League (NFL) schedule, Netflix has two games on F
 
 ## Print the Netflix holiday watch list for 2026
 
-The printable lists the 33 dated titles above, grouped by week, each with its date and a tick box, on one US Letter page, plus an ink-saver version for home printers. To plan the weeks, mark them on a [November 2026 calendar](/november-calendars.html) and a [December 2026 calendar](/december-calendars.html).
+The printable lists the 33 dated titles above, grouped by week, each with its date and a tick box, on one US Letter page. To plan the weeks, mark them on a [November 2026 calendar](/november-calendars.html) and a [December 2026 calendar](/december-calendars.html).
 
 Netflix's movies-only list for the month is in our [Netflix new movies for November 2026](/news/netflix-new-movies-november-2026-release-dates/) story. For holiday movies on television, see the [Hallmark Countdown to Christmas 2026 schedule](/news/hallmark-countdown-to-christmas-2026-schedule-printable/) and the [Lifetime Christmas movies 2026 schedule](/news/lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime/).

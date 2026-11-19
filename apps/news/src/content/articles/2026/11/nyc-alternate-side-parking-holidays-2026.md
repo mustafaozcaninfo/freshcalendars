@@ -3,7 +3,7 @@ title: "NYC Alternate Side Parking 2026: Nov. 26, Dec. 8, Dec. 25"
 description: "NYC Alternate Side Parking is suspended Nov. 26, Dec. 8 and Dec. 25, 2026. Meters are also off on Thanksgiving and Christmas. Printable list included."
 type: explainer
 publishedAt: "2026-11-04T11:57:00-05:00"
-updatedAt: "2026-11-13T16:10:00-05:00"
+updatedAt: "2026-11-19T01:43:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["alternate side parking suspended", "is alternate side parking in effect today", "alternate side parking holidays 2026", "NYC ASP calendar 2026"]
@@ -23,7 +23,7 @@ summary:
   - "Alternate Side Parking (ASP) is suspended in New York City on Thursday, Nov. 26, Tuesday, Dec. 8 and Friday, Dec. 25, 2026. Diwali (Nov. 8) and Veterans Day (Nov. 11) have passed."
   - "Meters are also suspended on major legal holidays, which the city marks with an asterisk: Thanksgiving Day (Nov. 26) and Christmas Day (Dec. 25)."
   - "On Dec. 8 only street cleaning rules are suspended, so meters stay in effect."
-  - "The 2027 ASP calendar was not yet posted on Nov. 13, 2026; both official pages list only 2025 and 2026."
+  - "NYC DOT has posted its 2027 suspension calendar; the first dates are Jan. 1, Jan. 6 and Jan. 18, 2027."
 faq:
   - q: "Is alternate side parking in effect today?"
     a: "Check NYC311 Online, the NYC311 app or the city's alternate side parking account on X for the status of a specific day. The New York City Department of Transportation (DOT) says to check NYC 311 or Notify NYC for emergency suspension information."
@@ -32,7 +32,7 @@ faq:
   - q: "Are parking meters free on Thanksgiving and Christmas in NYC?"
     a: "DOT says parking meter regulations are also suspended on major legal holidays. Thanksgiving Day (Nov. 26) and Christmas Day (Dec. 25) carry the asterisk that 311 uses for a major legal holiday."
   - q: "Is the 2027 alternate side parking calendar out?"
-    a: "Not yet. On Nov. 13, 2026 the 311 and DOT pages listed only the 2025 and 2026 calendars."
+    a: "Yes, on the DOT page. It carries a 2027 Alternate Side Parking Suspension Calendar that starts with Friday, Jan. 1 (New Year's Day), Wednesday, Jan. 6 (Three Kings' Day) and Monday, Jan. 18 (Martin Luther King, Jr.)."
   - q: "Can alternate side parking be suspended for snow or bad weather?"
     a: "Yes. DOT says NYC may suspend ASP regulations because of inclement weather or emergencies, and that decisions are sometimes made late in the day. It also says NYC restores ASP regulations after a snowfall."
 sources:
@@ -43,7 +43,7 @@ sources:
   - title: "NYC DOT - Motorists & Parking - Alternate Side Parking Suspensions"
     url: "https://home4.nyc.gov/html/dot/html/motorist/alternate-side-parking.shtml"
     publisher: "New York City Department of Transportation"
-    date: "2026-11-13"
+    date: "2026-11-19"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -71,7 +71,7 @@ assets:
     group: nyc-alternate-side-parking-2026
     title: "NYC Alternate Side Parking Suspensions Left in 2026"
     subtitle: "Street cleaning and parking meter rules on each remaining holiday"
-    note: "Source: NYC311, Alternate Side Parking and Street Cleaning; New York City Department of Transportation, Alternate Side Parking Suspensions, read Nov. 13, 2026."
+    note: "Source: NYC311, Alternate Side Parking and Street Cleaning; New York City Department of Transportation, Alternate Side Parking Suspensions, read Nov. 19, 2026."
     description: "A one-page grid of the three remaining 2026 New York City alternate side parking suspension dates, with whether parking meters stay in effect."
     alt: "Printable grid of the New York City alternate side parking suspension dates from Nov. 26 to Dec. 25, 2026, with parking meter status."
     data:
@@ -96,21 +96,19 @@ assets:
             Parking meters: { text: "Suspended (major legal holiday)", src: 2 }
           src: 1
           quote: "Friday, Dec. 25, Christmas Day*"
-      unconfirmed:
-        - { label: "2027 ASP calendar and Jan. 1, 2027", why: "Not yet posted: the 311 and DOT pages listed only 2025 and 2026 on Nov. 13, 2026" }
 ---
 
-Alternate Side Parking (ASP) is suspended in New York City on **Thursday, Nov. 26, Tuesday, Dec. 8 and Friday, Dec. 25, 2026**, the NYC311 service and the New York City Department of Transportation (DOT) say on their ASP pages, read Nov. 13, 2026. Diwali, Sunday, Nov. 8, and Veterans Day, Wednesday, Nov. 11, were also on the list and have passed. Meters are suspended only on the two dates the city marks as major legal holidays, Thanksgiving Day and Christmas Day. A one-page printable list of the three dates left follows.
+Alternate Side Parking (ASP) is suspended in New York City on **Thursday, Nov. 26, Tuesday, Dec. 8 and Friday, Dec. 25, 2026**, the NYC311 service and the New York City Department of Transportation (DOT) say on their ASP pages, read Nov. 13 and Nov. 19, 2026. Diwali, Sunday, Nov. 8, and Veterans Day, Wednesday, Nov. 11, were also on the list and have passed. Meters are suspended only on the two dates the city marks as major legal holidays, Thanksgiving Day and Christmas Day. A one-page printable list of the three dates left follows.
 
 ## Which NYC alternate side parking suspension dates are left in 2026?
 
-The 311 page is headed "ASP is suspended on the following holidays in 2026." Four dates in November are already past: Sunday, Nov. 1 (All Saints' Day), Tuesday, Nov. 3 (Election Day), Sunday, Nov. 8 (Diwali) and Wednesday, Nov. 11 (Veterans Day). The days-until count below starts from Nov. 13, 2026.
+The 311 page is headed "ASP is suspended on the following holidays in 2026." Four dates in November are already past: Sunday, Nov. 1 (All Saints' Day), Tuesday, Nov. 3 (Election Day), Sunday, Nov. 8 (Diwali) and Wednesday, Nov. 11 (Veterans Day). The days-until count below starts from Nov. 19, 2026.
 
-| Date | Holiday | Days from Nov. 13 | Street cleaning (ASP) | Parking meters | What still applies |
+| Date | Holiday | Days from Nov. 19 | Street cleaning (ASP) | Parking meters | What still applies |
 |---|---|---|---|---|---|
-| Thursday, Nov. 26 | Thanksgiving Day* | 13 | Suspended | Suspended | No Stopping, No Standing and No Parking signs generally |
-| Tuesday, Dec. 8 | Immaculate Conception | 25 | Suspended | In effect | Meters and all other posted rules |
-| Friday, Dec. 25 | Christmas Day* | 42 | Suspended | Suspended | No Stopping, No Standing and No Parking signs generally |
+| Thursday, Nov. 26 | Thanksgiving Day* | 7 | Suspended | Suspended | No Stopping, No Standing and No Parking signs generally |
+| Tuesday, Dec. 8 | Immaculate Conception | 19 | Suspended | In effect | Meters and all other posted rules |
+| Friday, Dec. 25 | Christmas Day* | 36 | Suspended | Suspended | No Stopping, No Standing and No Parking signs generally |
 
 The asterisk follows the 311 key: "*Indicates a major legal holiday." On Sundays, ASP is not in effect, and 311 says "you do not have to pay the parking meters."
 
@@ -130,7 +128,7 @@ Yes. DOT says NYC may suspend ASP regulations because of inclement weather or em
 
 ## Is the 2027 alternate side parking calendar posted yet?
 
-Not yet. On Nov. 13, 2026, both the 311 and the DOT pages listed only the 2025 and 2026 calendars, so this story does not state whether Jan. 1, 2027 is a suspension day. Check the two pages in December.
+Yes, on the DOT page. On Nov. 13, 2026, both the 311 and the DOT pages listed only the 2025 and 2026 calendars; the DOT page now carries a "2027 Alternate Side Parking Suspension Calendar", which it describes with "This calendar posts the legal and religious holidays with ASP suspensions." It starts with Friday, Jan. 1 (New Year's Day), Wednesday, Jan. 6 (Three Kings' Day) and Monday, Jan. 18 (Martin Luther King, Jr.).
 
 ## Printable list of the remaining 2026 suspension dates
 

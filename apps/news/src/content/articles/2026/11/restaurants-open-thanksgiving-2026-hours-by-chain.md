@@ -3,7 +3,7 @@ title: "Restaurants Open on Thanksgiving 2026: Bob Evans 8 a.m.-7 p.m."
 description: "Restaurants open on Thanksgiving 2026 (Thu., Nov. 26): Chick-fil-A is closed. Pickup windows, order deadlines and a printable list by chain."
 type: news
 publishedAt: "2026-11-11T23:30:00-05:00"
-updatedAt: "2026-11-11T23:30:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["restaurants open on thanksgiving 2026", "what restaurants are open thanksgiving day", "is cracker barrel open on thanksgiving", "is chick-fil-a open on thanksgiving"]
@@ -32,7 +32,7 @@ assets:
         - { cells: { chain: "Cracker Barrel", day: "Plans to serve a Thanksgiving meal", pickup: "Heat n' Serve, Nov. 21-29", deadline: "Not given" }, src: 6, quote: "Cracker Barrel plans to serve a traditional Thanksgiving meal at its restaurants on Thursday, Nov. 26. ... pickup between Nov. 21 and 29" }
         - { cells: { chain: "The Capital Grille", day: "Dine-in dinner, reservations", pickup: "Nov. 25, 9 a.m.-5 p.m.; Nov. 26, 9-11 a.m.", deadline: "Nov. 24" }, src: 4, quote: "Pick up scheduled for Wednesday, November 25, 9am-5pm and Thursday, November 26, 9am-11am. ... Pre-order by November 24." }
         - { cells: { chain: "Maggiano's Little Italy", day: "Dine-in hours not given", pickup: "Cold Nov. 25; hot Nov. 26", deadline: "24 hours before pickup" }, src: 2, quote: "Cold-prepared bundles are $210 and available for pick-up Wednesday, November 25th. ... Hot-prepared bundles are $220 and available for pick-up Thursday, November 26th. ... Please place orders 24 hours prior to desired pick-up time." }
-        - { cells: { chain: "Morton's The Steakhouse", day: "Dine-in", pickup: "Pickup only, Nov. 25", deadline: "Not given" }, src: 3, quote: "Dine In • Thursday, November 26 ... Pick Up Only • Wednesday, November 25" }
+        - { cells: { chain: "Morton's The Steakhouse", day: "Dine-in", pickup: "Sides to go, Nov. 25, 1-7 p.m. local", deadline: "Not given" }, src: 3, quote: "Dine In • Thursday, November 26 ... Signature Sides To Go ... Pick Up Only • Wednesday, November 25, 1 - 7 PM ... Available while supplies last." }
         - { cells: { chain: "Chick-fil-A", day: "Closed", pickup: "Closed", deadline: "Closed" }, src: 5, quote: "All U.S. Chick-fil-A® restaurants are closed on Thanksgiving, so our restaurant teams can spend time with family and friends." }
       note: "Call your local restaurant before you go: franchise hours vary."
       unconfirmed:
@@ -135,7 +135,7 @@ A restaurant meal you collect has its own deadline. These come from the chains' 
 | [The Capital Grille](https://www.thecapitalgrille.com/events/thanksgiving-dinner-menu) | Wed., Nov. 25, 9 a.m. to 5 p.m.; Thu., Nov. 26, 9 to 11 a.m. | Pre-order by Tue., Nov. 24 |
 | [Maggiano's Little Italy](https://maggianos.com/thanksgiving2026) | Cold bundles Wed., Nov. 25 ($210); hot bundles Thu., Nov. 26 ($220) | Order 24 hours before the pickup time |
 | [Bob Evans](https://www.bobevans.com/thanksgiving) Farmhouse Feast | Not given | Last day to order is Wed., Nov. 25 |
-| [Morton's The Steakhouse](https://www.mortons.com/) | Pickup only, Wed., Nov. 25 | Not given; price and pickup hours not on the homepage |
+| [Morton's The Steakhouse](https://www.mortons.com/) | Signature Sides To Go, pickup only, Wed., Nov. 25, 1 to 7 p.m. local time; while supplies last | Not given; price not on the homepage |
 
 Maggiano's also lists a new Sides-Only Bundle at $50. Cracker Barrel's Heat n' Serve pickup window of Nov. 21 to 29 appears in National Restaurant News and MoneyTalksNews; National Restaurant News reported prices of about $119.99 for the Turkey Family Dinner and about $189.99 for the Feast. Our [Cracker Barrel holiday menu story](/news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/) has the full menu. Bob Evans' page gives no price for the feast.
 

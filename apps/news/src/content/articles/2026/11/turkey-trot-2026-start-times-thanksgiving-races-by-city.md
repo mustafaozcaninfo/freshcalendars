@@ -3,7 +3,7 @@ title: "Turkey Trot 2026: Start Times for 10 Thanksgiving Races, Nov. 26"
 description: "The Buffalo Turkey Trot starts at 9 a.m. ET on Thu., Nov. 26, 2026. Start times, fees and packet pickup for 10 Thanksgiving races, and a checklist."
 type: explainer
 publishedAt: "2026-11-01T16:44:00-05:00"
-updatedAt: "2026-11-13T16:11:00-05:00"
+updatedAt: "2026-11-19T01:43:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["turkey trot 2026", "turkey trot near me start time", "Thanksgiving 5K 2026", "Buffalo turkey trot 2026", "Dallas turkey trot 2026"]
@@ -21,17 +21,17 @@ hero:
 summary:
   - "The Buffalo Turkey Trot starts at 9:00 a.m. Eastern Time (ET) on Thursday, Nov. 26, 2026, and the Manchester Road Race in Connecticut starts at 10:00 a.m. ET, according to the race pages."
   - "The 10 races in our table start between 7:30 a.m. and 11:30 a.m. ET for the main event; Detroit is first and San Jose is last."
-  - "Buffalo's fee rises from $56 to $65 on Nov. 19; Atlanta's half marathon and 5K prices rise after Nov. 17; Cincinnati's rise on Nov. 16; Houston and San Jose rise after Nov. 20; San Diego-North County rises after Nov. 23."
+  - "Buffalo's fee rises from $56 to $65 today, Nov. 19. Atlanta's prices rose after Nov. 17 and Cincinnati's on Nov. 16, and Atlanta's race page says all distances are at capacity as of Nov. 18. Houston and San Jose rise after Nov. 20; San Diego-North County rises after Nov. 23."
   - "Packet pickup starts Sat., Nov. 21 in Atlanta, Sun., Nov. 22 in Denver, Mon., Nov. 23 in Buffalo and Tue., Nov. 24 in Cincinnati; San Jose lists race-day pickup only."
 faq:
   - q: "What time does the Buffalo Turkey Trot start in 2026?"
-    a: "9:00 a.m. on Thursday, Nov. 26, 2026, according to the race page on RunSignup; it is an 8K (4.97 miles) and the 131st edition. The fee is $56 through Nov. 18 and $65 from Nov. 19 until the 14,000 cap sells out."
+    a: "9:00 a.m. on Thursday, Nov. 26, 2026, according to the race page on RunSignup; it is an 8K (4.97 miles) and the 131st edition. The fee was $56 through Nov. 18 and is $65 from Nov. 19 (today) until the 14,000 cap sells out."
   - q: "What time does the Dallas Turkey Trot start in 2026?"
     a: "The timed 8 Mile and 5K start at 8:30 a.m. Central Standard Time (CST), which is 9:30 a.m. ET, and a second start is at 9:00 a.m. CST (10:00 a.m. ET), according to Race Roster. The start is at Dallas City Hall, 1500 Marilla Street."
   - q: "Which turkey trot is first in Eastern Time on Thanksgiving?"
     a: "In our table, Detroit's S3 Turkey Trot 10K and Mashed Potato Mile start at 7:30 a.m. ET. Atlanta's half marathon follows at 7:45 or 8:00 a.m., because the race page lists both."
   - q: "Can I sign up on race morning?"
-    a: "It depends on the race. Atlanta does not offer race-day registration, but sells entries at number pickup (Nov. 21, 22 and 25) until sold out. Cincinnati lists onsite registration at packet pickup, and its fee is $60 for the 10K and $50 for the 5K on Nov. 26. Check each race page for its own rules."
+    a: "It depends on the race. Atlanta does not offer race-day registration, and its race page says all distances are at capacity as of Nov. 18. Cincinnati lists onsite registration at packet pickup, and its fee is $60 for the 10K and $50 for the 5K on Nov. 26. Check each race page for its own rules."
 downloads:
   - group: "Turkey Trot Race Week Checklist printables"
     title: "Turkey Trot Race Week Checklist, Nov. 26, 2026"
@@ -65,7 +65,7 @@ sources:
   - title: "2026 Thanksgiving Day Half Marathon, 5K, Mile & Dash"
     url: "https://www.atlantatrackclub.org/2026-invesco-qqq-thanksgiving-day-half-marathon-5k-mile-dash"
     publisher: "Atlanta Track Club"
-    date: "2026-11-13"
+    date: "2026-11-19"
   - title: "Applied Materials Silicon Valley Turkey Trot"
     url: "https://runsignup.com/Race/CA/SanJose/SiliconValleyTurkeyTrot"
     publisher: "RunSignup, Silicon Valley Leadership Group Foundation"
@@ -128,9 +128,9 @@ assets:
     layout: checklist
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - { when: "Sun., Nov. 15", what: "Cincinnati: 10K $50 and 5K $43 end; $56 and $46 from Nov. 16", section: "Price deadlines" }
-      - { when: "Tue., Nov. 17", what: "Atlanta half marathon $140 and 5K $50 end; $150 and $55 from Nov. 18", section: "Price deadlines" }
-      - { when: "Wed., Nov. 18", what: "Buffalo: $56 ends, $65 from Nov. 19", section: "Price deadlines" }
+      - { when: "Sun., Nov. 15", what: "Cincinnati: 10K $50 and 5K $43 ended; $56 and $46 from Nov. 16", section: "Price deadlines" }
+      - { when: "Tue., Nov. 17", what: "Atlanta half marathon $140 and 5K $50 ended; $150 and $55 from Nov. 18; all distances at capacity as of Nov. 18", section: "Price deadlines" }
+      - { when: "Wed., Nov. 18", what: "Buffalo: $56 ended, $65 from Nov. 19", section: "Price deadlines" }
       - { when: "Fri., Nov. 20", what: "Houston and San Jose: price rises after 11:59 p.m. local time", section: "Price deadlines" }
       - { when: "Fri., Nov. 20", what: "Denver: base price rises $5 (also Nov. 26)", section: "Price deadlines" }
       - { when: "Mon., Nov. 23", what: "San Diego-North County: price rises after 11:59 p.m. PST", section: "Price deadlines" }
@@ -143,12 +143,12 @@ assets:
       - { when: "Thu., Nov. 26", what: "Bring your bib (race-morning pickup: Buffalo 7 to 8:15 a.m., Cincinnati 7 to 8:30 a.m., Denver from 7:30 a.m.)", section: "Race morning" }
       - { when: "Thu., Nov. 26", what: "Safety pins for the bib (generic item)", section: "Race morning" }
       - { when: "Thu., Nov. 26", what: "Layers you can take off (generic item)", section: "Race morning" }
-    note: "Source: the official race pages of the Buffalo, Atlanta, San Jose, Denver, San Diego, Houston and Cincinnati races, read Nov. 13, 2026. Safety pins and layers are generic reminders, not race rules."
+    note: "Source: the official race pages of the Buffalo, Atlanta, San Jose, Denver, San Diego, Houston and Cincinnati races, read Nov. 13, 2026 (Atlanta, Nov. 19). Safety pins and layers are generic reminders, not race rules."
     description: "A one-page race-week checklist with 2026 turkey trot price deadlines, packet pickup dates and race-morning items, with tick boxes."
     alt: "Printable turkey trot 2026 race-week checklist with price deadlines, packet pickup dates and race-morning items."
 ---
 
-**The Buffalo Turkey Trot starts at 9:00 a.m. Eastern Time (ET) on Thursday, Nov. 26, 2026**, according to the race page of the Young Men's Christian Association (YMCA) Buffalo Niagara, and the Manchester Road Race in Connecticut starts at 10:00 a.m. ET, according to its Race Roster page. The tables below cover 10 Thanksgiving Day races, read on their official pages on Nov. 13, 2026: start times in local time and in ET, fees, the next price change and packet pickup. A one-page printable checklist collects the deadlines and pickup dates.
+**The Buffalo Turkey Trot starts at 9:00 a.m. Eastern Time (ET) on Thursday, Nov. 26, 2026**, according to the race page of the Young Men's Christian Association (YMCA) Buffalo Niagara, and the Manchester Road Race in Connecticut starts at 10:00 a.m. ET, according to its Race Roster page. The tables below cover 10 Thanksgiving Day races, read on their official pages on Nov. 13, 2026: start times in local time and in ET, fees, the next price change and packet pickup. The Atlanta Track Club page, read Nov. 19, says all four Atlanta race distances are at capacity as of Nov. 18. A one-page printable checklist collects the deadlines and pickup dates.
 
 ## When does the Buffalo Turkey Trot start in 2026?
 
@@ -179,14 +179,14 @@ The Dallas YMCA Turkey Trot is Thursday, Nov. 26, 2026, according to Race Roster
 
 ## Which turkey trots raise prices before Thanksgiving?
 
-Fees below are the ones shown on each race page on Nov. 13, 2026. Where a page says the price includes a service fee, the table says so.
+Fees below are the ones shown on each race page on Nov. 13, 2026. Where a page says the price includes a service fee, the table says so. Atlanta's row also carries the page's Nov. 18 update.
 
 | Race | Fee on the page | Next price change |
 |---|---|---|
 | Detroit | 10K and 5K $55; Mile $35 | Not listed |
-| Atlanta | Half marathon $140; 5K $50 (through Tue., Nov. 17) | Half $150 and 5K $55 from Wed., Nov. 18 until sell out |
+| Atlanta | Half marathon $140; 5K $50 (through Tue., Nov. 17) | Half $150 and 5K $55 from Wed., Nov. 18; all distances at capacity as of Nov. 18 |
 | Houston | 5K $44.99; 10K $49.99 | After Fri., Nov. 20 at 11:59 p.m. CST (12:59 a.m. ET on Sat., Nov. 21) |
-| Buffalo | $56 (Final Stretch, Nov. 1-18) | $65 from Thu., Nov. 19 to sell-out (Last Chance) |
+| Buffalo | $56 (Final Stretch, Nov. 1-18) | $65 from Thu., Nov. 19 (today) to sell-out (Last Chance) |
 | Cincinnati | 10K $50; 5K $43 (through Nov. 15) | 10K $56 and 5K $46 from Mon., Nov. 16 to Wed., Nov. 25; 10K $60 and 5K $50 on Thanksgiving Day |
 | Dallas | Timed 8 Mile or 5K $56.52 ($52 plus $4.52 tax and fees); untimed $49.52 | Registration is listed Nov. 10 to Nov. 26; no further price change listed |
 | Manchester | See race page | See race page |
@@ -194,7 +194,7 @@ Fees below are the ones shown on each race page on Nov. 13, 2026. Where a page s
 | Denver | $55.24 including $5.24 fees | Base price rose $5 on Nov. 1 and rises $5 on Nov. 20 and Nov. 26 |
 | San Jose | $60.50 including a $5.50 fee | After Fri., Nov. 20 at 11:59 p.m. PST (2:59 a.m. ET on Sat., Nov. 21) |
 
-Seven races list a dated price change before or on Thanksgiving: Atlanta, Buffalo, Cincinnati, Denver, Houston, San Diego-North County and San Jose. Buffalo's fee rises $9 on Nov. 19, Atlanta's half marathon is $10 higher from Nov. 18 and its 5K $5 higher, Cincinnati's 10K rises $6 on Nov. 16 and $4 more on race day, and Denver's page lists three $5 steps, the first of which took effect on Nov. 1. The Atlanta Track Club page lists the later Atlanta prices as the price "until sell out".
+Seven races list a dated price change before or on Thanksgiving: Atlanta, Buffalo, Cincinnati, Denver, Houston, San Diego-North County and San Jose. Buffalo's fee rises $9 today, Nov. 19, Atlanta's half marathon became $10 higher from Nov. 18 and its 5K $5 higher, Cincinnati's 10K rose $6 on Nov. 16 and rises $4 more on race day, and Denver's page lists three $5 steps, the first of which took effect on Nov. 1. Atlanta's page now says all distances are at capacity as of Nov. 18.
 
 ## Where is turkey trot packet pickup in 2026?
 

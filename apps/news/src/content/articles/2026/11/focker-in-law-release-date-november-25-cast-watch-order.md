@@ -3,6 +3,7 @@ title: "Focker-in-Law Release Date: In Theaters Wed., Nov. 25, 2026"
 description: "Focker-in-Law opens in U.S. theaters Wed., Nov. 25, 2026, says Universal Pictures. The four Meet the Parents films by date, plus a rewatch plan."
 type: news
 publishedAt: "2026-11-08T10:40:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["focker in law release date", "meet the parents 4 release date", "focker in law cast", "meet the parents movies in order"]
@@ -90,7 +91,7 @@ draft: false
 
 Universal's page says "Only In Theaters November 25, 2026," which is a Wednesday and the day before Thanksgiving (Thursday, Nov. 26). Universal Pictures Canada says the film is in theatres Nov. 25.
 
-From Sunday, Nov. 8, 2026, the opening is 17 days away (our count). Universal's pages do not post a runtime, a Motion Picture Association (MPA) rating, a ticket presale date or Tuesday previews, so those are not yet announced.
+From Thursday, Nov. 19, 2026, the opening is 6 days away (our count). Universal's pages do not post a runtime, a Motion Picture Association (MPA) rating, a ticket presale date or Tuesday previews, so those are not yet announced.
 
 Two other films list the same day: see [new movies in theaters in November 2026](/news/new-movies-in-theaters-november-2026-release-dates-hunger-games-hexed/) for Hexed and Hershey. For the holiday itself, see [when is Thanksgiving](/when-is/thanksgiving/).
 

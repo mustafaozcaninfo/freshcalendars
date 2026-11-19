@@ -3,7 +3,7 @@ title: "CMA Country Christmas 2026: Dec. 1 at 9 p.m. ET on ABC, Lady A Hosts"
 description: "The Country Music Association (CMA) Country Christmas airs Tue., Dec. 1 at 9 p.m. ET on ABC, hosted by Lady A. Air time by zone, lineup, free printable."
 type: news
 publishedAt: "2026-11-13T16:38:00-05:00"
-updatedAt: "2026-11-13T16:38:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["cma country christmas 2026", "cma country christmas 2026 performers", "cma country christmas 2026 time", "what channel is cma country christmas"]
@@ -158,4 +158,4 @@ TV Insider and Laughing Place, both citing ABC's holiday schedule, list these AB
 
 ## Can you print an ABC December holiday TV checklist?
 
-The free one-page ABC December 2026 Holiday TV Checklist lists the five rows above with start times in four U.S. zones and a box to tick when you have watched each. Put Dec. 1 on your [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). ABC also airs the [CMA Awards on Wed., Nov. 18](/news/cma-awards-2026-date-time-channel-host-nominees/). For other networks, see the [CBS holiday specials schedule](/news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/) and the [Christmas movies on TV schedule by channel](/news/christmas-movies-on-tv-2026-schedule-by-channel/).
+The free one-page ABC December 2026 Holiday TV Checklist lists the five rows above with start times in four U.S. zones and a box to tick when you have watched each. Put Dec. 1 on your [December 2026 printable calendar](/december-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html). ABC also aired the [CMA Awards on Wed., Nov. 18](/news/cma-awards-2026-date-time-channel-host-nominees/). For other networks, see the [CBS holiday specials schedule](/news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/) and the [Christmas movies on TV schedule by channel](/news/christmas-movies-on-tv-2026-schedule-by-channel/).

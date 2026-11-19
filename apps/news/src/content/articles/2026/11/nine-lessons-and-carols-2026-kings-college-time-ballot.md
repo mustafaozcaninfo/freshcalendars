@@ -1,8 +1,9 @@
 ---
-title: "Nine Lessons and Carols 2026: 3 p.m. Dec. 24, Ballot Closes Nov. 16"
-description: "King's College, Cambridge holds Nine Lessons and Carols at 3 p.m. London time on Dec. 24, 2026, or 10 a.m. ET. Ballot closes Nov. 16; times for 12 places."
+title: "Nine Lessons and Carols 2026: 3 p.m. Dec. 24, Ballot Closed Nov. 16"
+description: "King's College, Cambridge holds Nine Lessons and Carols at 3 p.m. London time on Dec. 24, 2026, or 10 a.m. ET. The ballot closed Nov. 16; times for 12 places."
 type: news
 publishedAt: "2026-11-08T06:00:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["nine lessons and carols 2026", "kings college carols 2026 time", "nine lessons and carols ballot 2026", "kings college christmas eve service time"]
@@ -20,16 +21,16 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Antoinetav"
 summary:
   - "King's College, Cambridge says the 2026 service is at 3.00pm on Thursday 24th December 2026 in King's College Chapel, which is 10 a.m. Eastern Time (ET) in the U.S."
-  - "The ticket ballot closes at 9.00 am on Monday 16th November 2026 (4 a.m. ET), and successful applicants are told by email on Friday 20 November 2026."
+  - "The ticket ballot closed at 9.00 am on Monday 16th November 2026 (4 a.m. ET), and successful applicants are told by email on Friday 20 November 2026."
   - "The service is broadcast live on British Broadcasting Corporation (BBC) Radio 4 and the BBC World Service; BBC Radio 3 repeats it at 1pm on Christmas Day."
   - "Carols from King's, the separate BBC television programme, airs on BBC Two on Christmas Eve; its 2026 time is not yet announced."
 faq:
   - q: "What time is Nine Lessons and Carols from King's on Christmas Eve 2026?"
     a: "The service is at 3.00pm on Thursday 24th December 2026, King's College says. That is 3 p.m. GMT, 10 a.m. Eastern Time and 7 a.m. Pacific Time (PT)."
-  - q: "When does the 2026 ticket ballot close?"
-    a: "At 9.00 am on Monday 16th November 2026, per King's College. For U.S. readers that is 4 a.m. ET or 1 a.m. PT on Monday, so enter by Sunday night."
+  - q: "When did the 2026 ticket ballot close?"
+    a: "At 9.00 am on Monday 16th November 2026, per King's College. For U.S. readers that was 4 a.m. ET or 1 a.m. PT on Monday. Successful applicants are notified by email on Friday 20 November 2026."
   - q: "How do I get tickets?"
-    a: "Tickets are allocated in advance through an annual online ballot, and there is no longer a public queue. Successful applicants get an email on Friday 20 November 2026 with instructions to obtain complimentary tickets."
+    a: "Tickets are allocated in advance through an annual online ballot, and there is no longer a public queue. The 2026 ballot has closed. Successful applicants get an email on Friday 20 November 2026 with instructions to obtain complimentary tickets."
   - q: "Is Nine Lessons and Carols the same as Carols from King's?"
     a: "No. King's College says Carols from King's is a carol service pre-recorded for BBC television and also broadcast on Christmas Eve. The 2026 time is not yet announced."
   - q: "Which U.S. radio stations carry the service?"
@@ -83,7 +84,7 @@ assets:
     title: "Nine Lessons and Carols 2026 Listening Card"
     subtitle: "Ballot, results and broadcast times from King's College, Cambridge"
     landscape: false
-    note: "Source: King's College, Cambridge (A Festival of Nine Lessons and Carols). The ticket ballot closes at 9 a.m. GMT on Monday, Nov. 16, 2026 (4 a.m. ET, 1 a.m. PT). Times are the college's GMT times converted; the results email time is not announced. BBC Radio 3 repeats the service at 1pm on Christmas Day (1 p.m. GMT, 8 a.m. ET, 5 a.m. PT)."
+    note: "Source: King's College, Cambridge (A Festival of Nine Lessons and Carols). The ticket ballot closed at 9 a.m. GMT on Monday, Nov. 16, 2026 (4 a.m. ET, 1 a.m. PT). Times are the college's GMT times converted; the results email time is not announced. BBC Radio 3 repeats the service at 1pm on Christmas Day (1 p.m. GMT, 8 a.m. ET, 5 a.m. PT)."
     description: "A one-page card with the Nine Lessons and Carols 2026 ballot deadline, results email, live broadcast and Radio 3 repeat in GMT, Eastern and Pacific time."
     alt: "Printable listening card for Nine Lessons and Carols from King's on Thursday, Dec. 24, 2026 at 3 p.m. GMT"
     data:
@@ -108,7 +109,7 @@ assets:
         - { label: "Carols from King's on BBC Two", why: "2026 time not yet announced" }
 ---
 
-**King's College, Cambridge says the Festival of Nine Lessons and Carols is at 3.00pm on Thursday 24th December 2026, which is 10 a.m. Eastern Time (ET) in New York, and that the ticket ballot closes at 9.00 am on Monday 16th November 2026.** The college's page says the service is broadcast live on British Broadcasting Corporation (BBC) Radio 4 and the BBC World Service. The table below converts the broadcast for 12 places, and a printable card keeps the dates in one place.
+**King's College, Cambridge says the Festival of Nine Lessons and Carols is at 3.00pm on Thursday 24th December 2026, which is 10 a.m. Eastern Time (ET) in New York, and that the ticket ballot closed at 9.00 am on Monday 16th November 2026.** The college's page says the service is broadcast live on British Broadcasting Corporation (BBC) Radio 4 and the BBC World Service. The table below converts the broadcast for 12 places, and a printable card keeps the dates in one place.
 
 ## What time is Nine Lessons and Carols in each time zone?
 
@@ -131,17 +132,17 @@ The college gives the broadcast as "3pm GMT (10:00 EST or 07:00 PST)" on 24 Dece
 
 The repeat on BBC Radio 3 is at 1pm on Christmas Day, the college says. That is 1 p.m. GMT on Friday, Dec. 25, or 8 a.m. ET and 5 a.m. PT. The BBC World Service also re-broadcasts it "at various times"; the college does not list them. Christmas Eve falls on Thursday in 2026; see [When is Christmas Eve?](/when-is/christmas-eve/) and the [December 2026 printable calendar](/december-calendars.html).
 
-## When does the ticket ballot close and who is told when?
+## When did the ticket ballot close and who is told when?
 
-Tickets are allocated in advance through an annual online ballot, King's College says, and "there is no longer a public queue for tickets." As of Nov. 8, 2026, the college's page says the 2026 ballot "is now open." It closes at 9.00 am on Monday 16th November 2026.
+Tickets are allocated in advance through an annual online ballot, King's College says, and "there is no longer a public queue for tickets." On Nov. 8, 2026, the college's page said the 2026 ballot "is now open." It closed at 9.00 am on Monday 16th November 2026.
 
 | Step | College's date | U.S. equivalent |
 |---|---|---|
-| Ballot closes | 9.00 am GMT, Monday 16th November 2026 | 4 a.m. ET, 1 a.m. PT, Monday, Nov. 16 |
+| Ballot closed | 9.00 am GMT, Monday 16th November 2026 | 4 a.m. ET, 1 a.m. PT, Monday, Nov. 16 |
 | Successful applicants emailed | Friday 20 November 2026 | Friday, Nov. 20 (time not announced) |
 | Service | 3.00pm, Thursday 24th December 2026 | 10 a.m. ET, 7 a.m. PT |
 
-Because the deadline is 9 a.m. in the UK, readers in the U.S. must enter by Sunday night their time. Some listings give an earlier closing date; the college's page says Monday 16 November at 9.00 am. The college says it makes "approximately half the tickets for this service available to members of the public," and that successful applicants receive instructions on how to obtain their complimentary tickets. The ballot's opening date, the number of tickets per application and arrival rules are not on the page we read, so check [the college's page](https://www.kings.cam.ac.uk/chapel/festival-nine-lessons-and-carols) before you apply. Add the [November 2026 printable calendar](/november-calendars.html) to your fridge so the Nov. 16 and Nov. 20 dates stay in view.
+The deadline was 9 a.m. in the UK, which was 4 a.m. in New York. Some listings gave an earlier closing date; the college's page says Monday 16 November at 9.00 am. The college says it makes "approximately half the tickets for this service available to members of the public," and that successful applicants receive instructions on how to obtain their complimentary tickets. The ballot's opening date, the number of tickets per application and arrival rules are not on the page we read, so check [the college's page](https://www.kings.cam.ac.uk/chapel/festival-nine-lessons-and-carols) for what successful applicants need to do. Mark Nov. 20, the day of the results email, on the [November 2026 printable calendar](/november-calendars.html).
 
 ## Which U.S. radio stations carry the service?
 
@@ -157,4 +158,4 @@ The college says the opening carol is always "Once in Royal David's City," and t
 
 ## Printable: Nine Lessons and Carols listening card
 
-The printable lists the ballot close, the results email and the live service, with the Radio 3 repeat in its note, in GMT, Eastern and Pacific times and a column for your own plan. For another UK Christmas broadcast, see what time [the King's Christmas message](/news/kings-christmas-message-2026-time-uk-us-canada-australia/) airs, and for the days off, [UK Christmas bank holidays](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/).
+The printable lists the results email and the live service, with the ballot close and the Radio 3 repeat in its note, in GMT, Eastern and Pacific times and a column for your own plan. For another UK Christmas broadcast, see what time [the King's Christmas message](/news/kings-christmas-message-2026-time-uk-us-canada-australia/) airs, and for the days off, [UK Christmas bank holidays](/news/uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28/).

@@ -1,9 +1,9 @@
 ---
 title: "Costco Black Friday 2026: Nov. 27-30 Savings, Deals From Nov. 16"
-description: "Costco's Black Friday 2026 savings run Nov. 27 to 30, with pre-Thanksgiving savings from Nov. 16. A table of all four windows and a printable calendar."
+description: "Costco's Black Friday 2026 savings run Nov. 27 to 30; pre-Thanksgiving savings began Nov. 16, running now. A table of all four windows, plus a printable."
 type: news
 publishedAt: "2026-11-01T12:46:00-05:00"
-updatedAt: "2026-11-13T16:11:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["costco black friday 2026", "costco black friday deals 2026 dates", "costco pre thanksgiving sale 2026", "is costco open on thanksgiving 2026"]
@@ -20,7 +20,7 @@ assets:
     subtitle: "Costco holiday savings windows, Oct. 30 to Nov. 30, 2026"
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Mon., Nov. 16 to Mon., Nov. 30", "Pre-Thanksgiving savings, warehouses and Costco.com"]
+      - ["Mon., Nov. 16 to Mon., Nov. 30", "Pre-Thanksgiving savings began Nov. 16 and are running now, warehouses and Costco.com"]
       - ["Thu., Nov. 26", "Thanksgiving: warehouses closed, deals on Costco.com"]
       - ["Fri., Nov. 27 to Mon., Nov. 30", "Black Friday holiday savings"]
     note: "Source: Costco Wholesale holiday savings pages (Black Friday, Pre-Thanksgiving, Thanksgiving Day), checked Nov. 13, 2026. Wider holiday savings run Oct. 30 to Nov. 30; dates vary by item."
@@ -39,14 +39,14 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:EvanCarroll"
 summary:
   - "Costco's Black Friday page says holiday savings are valid Nov. 27 to 30, 2026, Friday through Monday."
-  - "Pre-Thanksgiving savings are valid Monday, Nov. 16, through Monday, Nov. 30, at U.S. warehouses and on Costco.com, unless an item says otherwise."
+  - "Pre-Thanksgiving savings began Monday, Nov. 16, and are running now through Monday, Nov. 30, at U.S. warehouses and on Costco.com, unless an item says otherwise."
   - "Costco will be closed Thursday, Nov. 26, in observance of Thanksgiving, so that day's savings are online."
   - "In 2025, Costco's holiday savings page covered Nov. 28 to Dec. 1."
 faq:
   - q: "When is Costco Black Friday 2026?"
     a: "Costco's Black Friday page says holiday savings are valid 11/27/26 to 11/30/26, Friday, Nov. 27, through Monday, Nov. 30."
   - q: "Does Costco have a pre-Thanksgiving sale in 2026?"
-    a: "Yes. Costco's pre-Thanksgiving page lists savings valid Nov. 16 to Nov. 30, 2026, at all U.S. warehouses and on Costco.com unless otherwise noted."
+    a: "Yes. Costco's pre-Thanksgiving page lists savings valid Nov. 16 to Nov. 30, 2026, at all U.S. warehouses and on Costco.com unless otherwise noted. They began Nov. 16 and are running now."
   - q: "Is Costco open on Thanksgiving 2026?"
     a: "No. Costco says it will be closed Thursday, Nov. 26, 2026, in observance of Thanksgiving. Its Thanksgiving Day savings are valid Nov. 26."
   - q: "Is Costco open on Black Friday 2026?"
@@ -91,14 +91,14 @@ related: [black-friday-2026-ad-tracker-walmart-target-best-buy, costco-holiday-h
 draft: false
 ---
 
-**Costco's Black Friday page says holiday savings are valid Nov. 27 to 30, 2026, Friday through Monday, according to Costco Wholesale.** Its pre-Thanksgiving page starts earlier, with savings valid Nov. 16 to 30. Costco says it will be closed Thursday, Nov. 26, for Thanksgiving. The table below lays out all four 2026 windows and where each applies, and there is a one-page printable.
+**Costco's Black Friday page says holiday savings are valid Nov. 27 to 30, 2026, Friday through Monday, according to Costco Wholesale.** Its pre-Thanksgiving savings began earlier, on Nov. 16, and are running now through Nov. 30. Costco says it will be closed Thursday, Nov. 26, for Thanksgiving. The table below lays out all four 2026 windows and where each applies, and there is a one-page printable.
 
 ## Costco's four holiday savings windows for 2026
 
 | Window | Dates | Weekdays | Where it applies |
 |---|---|---|---|
 | Holiday savings (general) | Oct. 30 to Nov. 30 | Friday to Monday | Valid dates vary by item |
-| Pre-Thanksgiving | Nov. 16 to 30 | Monday to Monday | U.S. warehouses and Costco.com, unless otherwise noted |
+| Pre-Thanksgiving | Nov. 16 to 30 | Monday to Monday | Began Nov. 16, running now; U.S. warehouses and Costco.com, unless otherwise noted |
 | Thanksgiving Day | Nov. 26 | Thursday | Warehouses closed, so savings are on Costco.com |
 | Black Friday | Nov. 27 to 30 | Friday to Monday | Dates as listed on Costco's Black Friday page |
 

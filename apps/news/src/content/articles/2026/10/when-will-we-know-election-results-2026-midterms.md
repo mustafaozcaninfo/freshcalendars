@@ -3,7 +3,7 @@ title: "When Do They Start Counting Votes 2026? 17-State Timeline"
 description: "When counting starts in 2026 varies: Florida can process mail ballots 22 days early, Pennsylvania and Wisconsin at 7 a.m. Election Day. 17-state timeline."
 type: explainer
 publishedAt: "2026-10-21T00:30:00-04:00"
-updatedAt: "2026-11-12T13:25:00-05:00"
+updatedAt: "2026-11-19T01:43:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when will we know election results 2026", "when will election results start coming in", "2026 midterm results timeline", "election results by state 2026", "when are election results certified"]
@@ -156,17 +156,17 @@ draft: false
 
 **The first results arrived minutes after polls closed on Tuesday, Nov. 3, 2026, but they are unofficial, and in some states the count runs for days.** Election-night totals keep changing as officials add mail, provisional and overseas ballots, the U.S. Election Assistance Commission says. News organizations project winners when the trailing candidate can no longer catch up; states make results official later, through the canvass and certification. How fast each state reports depends mostly on its mail-ballot rules, which are laid out below for 17 states.
 
-## Where the 2026 count stands on Saturday, Nov. 7
+## Where the 2026 count stands on Thursday, Nov. 19
 
-Election-night totals are unofficial, and counting continues on Saturday, Nov. 7. It goes on in states that accept late mail ballots (California and New York through Nov. 10; Nevada's deadline, 5 p.m. Saturday, Nov. 7, and Texas's 5 p.m. Nov. 4 deadline have passed) and in ranked-choice states such as Maine and Alaska. California's Secretary of State says counties "must count and report on all ballots (with some exceptions) by the 13th day after the election," that its office "will post this 'unprocessed ballots report' online and provide daily updates," and that "the frequency of updated results will vary based on the size of each county."
+Election-night totals are unofficial. The late mail ballot deadlines have passed: California and New York on Nov. 10, Nevada at 5 p.m. Saturday, Nov. 7, and Texas at 5 p.m. Nov. 4. Alaska's ranked-choice tabulation was scheduled for Wednesday, Nov. 18, and Maine also uses ranked-choice rounds. California's Secretary of State says counties "must count and report on all ballots (with some exceptions) by the 13th day after the election," that its office "will post this 'unprocessed ballots report' online and provide daily updates," and that "the frequency of updated results will vary based on the size of each county."
 
-California's Secretary of State now prints the main dates on its elections page: vote-by-mail ballots "must be postmarked on or before Election Day and received by November 10, 2026," "County elections officials must complete final official results by December 3, 2026," and "The Secretary of State will certify results on December 11, 2026." Its canvass page adds one more step, computed from its 13-day rule: counties must count and report all ballots, with some exceptions, by Monday, Nov. 16.
+California's Secretary of State now prints the main dates on its elections page: vote-by-mail ballots "must be postmarked on or before Election Day and received by November 10, 2026," "County elections officials must complete final official results by December 3, 2026," and "The Secretary of State will certify results on December 11, 2026." Its canvass page adds one more step, computed from its 13-day rule: counties had to count and report all ballots, with some exceptions, by Monday, Nov. 16.
 
-In Clark County, Nevada, voters can fix a mail ballot signature problem until 5 p.m. on Nov. 9, according to the county Election Department.
+In Clark County, Nevada, voters could fix a mail ballot signature problem until 5 p.m. on Nov. 9, according to the county Election Department.
 
-Three more states are still receiving or curing ballots. Oregon's Secretary of State now lists the dates on its current-election page: the "Last day for counties to receive valid postmarked ballots by mail" is Tuesday, Nov. 10, the "Last day to resolve ballot challenges" is Tuesday, Nov. 24, and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says results "will be updated at least once every weekday by 4:00 PM MT through the cure deadline on November 12, with the exception of Veteran's Day, November 11," which is 4 p.m. Mountain Time (MT), or 6 p.m. ET, and that "after that, election workers will continue to count ballots." Its Nov. 6 release repeats the cure deadline: "Voters have until November 12 to correct any signature or ID issue with their 2026 General Election ballot," through their county or the Colorado BallotCure tool on GoVoteColorado.gov. Nov. 12 is also the "Last day for military and overseas ballots to be received by county clerks," the release says. It lists four later dates: Monday, Nov. 16, the "Deadline for the Secretary of State's Office to establish the 20-digit random seed for the bipartisan Risk Limiting Audit and notify counties of the ballots selected for audit"; Tuesday, Nov. 24, the "Deadline for county audit boards to report results of the bipartisan Risk Limiting Audit to the Secretary of State's Office"; Wednesday, Nov. 25, the "Deadline for county canvass boards to complete canvass and submit official election abstract to Secretary of State's Office"; and Friday, Nov. 27, the "Deadline for Secretary of State's Office to order a statutory recount, if required."
+Three more states have dates on both sides of Nov. 19. Oregon's Secretary of State lists the dates on its current-election page: the "Last day for counties to receive valid postmarked ballots by mail" was Tuesday, Nov. 10, the "Last day to resolve ballot challenges" is Tuesday, Nov. 24, and Oregon says final results "will be certified and made available on December 10." In Colorado, the Secretary of State's Nov. 2 release says results "will be updated at least once every weekday by 4:00 PM MT through the cure deadline on November 12, with the exception of Veteran's Day, November 11," which is 4 p.m. Mountain Time (MT), or 6 p.m. ET (the cure deadline has passed), and that "after that, election workers will continue to count ballots." Its Nov. 6 release repeats the cure deadline: "Voters have until November 12 to correct any signature or ID issue with their 2026 General Election ballot," through their county or the Colorado BallotCure tool on GoVoteColorado.gov. Nov. 12 was also the "Last day for military and overseas ballots to be received by county clerks," the release says. It lists four later dates: Monday, Nov. 16 (passed), the "Deadline for the Secretary of State's Office to establish the 20-digit random seed for the bipartisan Risk Limiting Audit and notify counties of the ballots selected for audit"; Tuesday, Nov. 24, the "Deadline for county audit boards to report results of the bipartisan Risk Limiting Audit to the Secretary of State's Office"; Wednesday, Nov. 25, the "Deadline for county canvass boards to complete canvass and submit official election abstract to Secretary of State's Office"; and Friday, Nov. 27, the "Deadline for Secretary of State's Office to order a statutory recount, if required."
 
-The Pennsylvania Department of State lists Nov. 10 as the last day for county election offices to receive completed military and overseas absentee ballots that were submitted for delivery no later than 11:59 p.m. on Nov. 2, so Pennsylvania counties can still receive those ballots.
+The Pennsylvania Department of State lists Nov. 10 as the last day for county election offices to receive completed military and overseas absentee ballots that were submitted for delivery no later than 11:59 p.m. on Nov. 2, so Pennsylvania counties could receive those ballots through Nov. 10.
 
 In Oklahoma, the State Election Board said in a Nov. 4 statement: "County election results will be certified Friday after 5 p.m. State and federal election results will be certified on Tuesday, November 10." Its results page for the Nov. 3 general election, last modified Nov. 12, now carries the heading "Official Results," and the earlier line that results "are neither final nor official until they are certified" is gone.
 
@@ -202,29 +202,29 @@ What the first numbers contain differs by state. In California, the Secretary of
 - **When mail ballots can be processed.** Opening envelopes and checking signatures takes time. Pennsylvania and Wisconsin cannot start until 7 a.m. on Election Day, so their mail ballots pile up; Florida, Arizona and Michigan can start days or weeks earlier.
 - **Late-arriving ballots.** Some states count ballots postmarked by Election Day that arrive afterward, so their totals keep growing for days.
 - **Cure periods and provisional ballots.** Voters may get a few days to fix a missing or mismatched signature.
-- **Ranked-choice voting.** In Maine and Alaska, if no candidate wins a majority, later rounds are tabulated after all ballots are in; in Alaska, the Anchorage Daily News and Alaska Public Media both report that the ranked-choice tabulation is scheduled for Wednesday, Nov. 18, 2026, and the Anchorage Daily News adds that results are set to be certified Wednesday, Nov. 25. The tabulation applies only to races where no candidate passes 50% of first-choice votes.
+- **Ranked-choice voting.** In Maine and Alaska, if no candidate wins a majority, later rounds are tabulated after all ballots are in; in Alaska, the Anchorage Daily News and Alaska Public Media both report that the ranked-choice tabulation was scheduled for Wednesday, Nov. 18, 2026, and the Anchorage Daily News adds that results are set to be certified Wednesday, Nov. 25. The tabulation applies only to races where no candidate passes 50% of first-choice votes.
 - **Recounts.** Very close margins can trigger automatic or requested recounts.
 
 ## The timeline in 17 key states
 
 | State | Mail ballots can be processed | Postmarked ballots that arrive late | State certification |
 |---|---|---|---|
-| Alaska | Reviewed 7 days before; counted from 8 p.m. Nov. 3 | Counted if received within 10 days | Ranked-choice tally Nov. 18; certification Nov. 25 (target) |
+| Alaska | Reviewed 7 days before; counted from 8 p.m. Nov. 3 | Counted if received within 10 days | Ranked-choice tally was scheduled Nov. 18; certification Nov. 25 (target) |
 | Arizona | 14 days before Election Day | Not counted; due 7 p.m. Nov. 3 | Mon., Nov. 23; county canvass by Thu., Nov. 19 |
 | [California](/news/california-election-results-2026-polls-close-8-p-m-pt-when-the-count-ends/) | As they arrive, up to 29 days before | Counted if received by Nov. 10 | Dec. 11 |
-| Florida | 22 days before Election Day | Not counted; due 7 p.m. Nov. 3 | Tue., Nov. 17, 8 a.m. (Elections Canvassing Commission) |
+| Florida | 22 days before Election Day | Not counted; due 7 p.m. Nov. 3 | Elections Canvassing Commission met Tue., Nov. 17, 8 a.m. |
 | Georgia | Scanned from the third Monday before; tallied after polls close | Not counted; due 7 p.m. Nov. 3 | About Nov. 20 |
 | Iowa | The day before Election Day | Not counted; due 8 p.m. Nov. 3 | About Nov. 30 |
 | Maine | Before Election Day with notice; counted after polls close | Not counted; due when polls close | By Nov. 23 |
-| Michigan | Up to 8 days before | Not counted; due 8 p.m. Nov. 3 | County canvass by Tue., Nov. 17; Board of State Canvassers by Mon., Nov. 23 (Michigan Compiled Laws (MCL) 168.842) |
+| Michigan | Up to 8 days before | Not counted; due 8 p.m. Nov. 3 | County canvass deadline was Tue., Nov. 17; Board of State Canvassers by Mon., Nov. 23 (Michigan Compiled Laws (MCL) 168.842) |
 | Minnesota | Before Election Day | Not counted; due 8 p.m. Nov. 3 | Nov. 19 |
-| Nevada | Before Election Day | Counted if received by 5 p.m. Nov. 7 | Tue., Nov. 24 (Supreme Court canvass); county canvass by Fri., Nov. 13 |
+| Nevada | Before Election Day | Counted if received by 5 p.m. Nov. 7 | Tue., Nov. 24 (Supreme Court canvass); county canvass deadline was Fri., Nov. 13 |
 | New Hampshire | On Election Day | Not counted; due 5 p.m. Nov. 3 | No fixed deadline |
 | New York | Reviewed as they arrive; tabulated from 1 hour before polls close | Counted if received by Nov. 10 | By Dec. 15 |
 | North Carolina | Approved before Election Day; counted on Election Day | No longer counted; due 7:30 p.m. Nov. 3 | Tue., Nov. 24, 11 a.m. (state board canvass) |
-| Ohio | Before Election Day | No longer counted; due 7:30 p.m. Nov. 3 | Canvass Nov. 8-18 |
+| Ohio | Before Election Day | No longer counted; due 7:30 p.m. Nov. 3 | Canvass window ran Nov. 8-18 |
 | Pennsylvania | Not before 7 a.m. Nov. 3 | Not counted; due 8 p.m. Nov. 3 (military and overseas ballots received by Nov. 10) | About Nov. 23 |
-| [Texas](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) | Before Election Day | Counted if postmarked by 7 p.m. and received by 5 p.m. Nov. 4 | Local canvass by Nov. 17 |
+| [Texas](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/) | Before Election Day | Counted if postmarked by 7 p.m. and received by 5 p.m. Nov. 4 | Local canvass deadline was Nov. 17 |
 | Wisconsin | Not before 7 a.m. Nov. 3 | Not counted; due 8 p.m. Nov. 3 | By Dec. 1 |
 
 Processing rules come from each state's election law as compiled by the National Conference of State Legislatures; certification dates are computed from state law, as summarized by the Brennan Center's State Court Report, Ohio's from the Secretary of State's 2026 canvass directive, and Arizona's and Nevada's from the state statutes: county boards in Arizona canvass "not later than the third Thursday after the election" and the Secretary of State "on the third Monday following a general election" (Arizona Revised Statutes, sections 16-642 and 16-648); in Nevada "the canvass must be completed on or before the 10th day following the election" and the Supreme Court justices canvass the vote on "the fourth Tuesday of November" (Nevada Revised Statutes 293.387 and 293.395). "About" marks dates that depend on how a statutory deadline falls on the calendar. Every state's mail deadline is in our [mail ballot deadlines list](/news/mail-ballot-deadlines-2026-by-state/).
@@ -241,21 +241,20 @@ In Watson v. Republican National Committee, decided June 29, 2026, the U.S. Supr
 
 | Date | What happens |
 |---|---|
-| Nov. 4-10 | Late mail ballots arrive in grace-period states (Texas Nov. 4, Nevada Nov. 7, California, New York and Oregon Nov. 10); Pennsylvania receives military and overseas ballots until Nov. 10 |
+| Nov. 4-10 | Late mail ballots arrived in grace-period states (Texas Nov. 4, Nevada Nov. 7, California, New York and Oregon Nov. 10); Pennsylvania received military and overseas ballots until Nov. 10 |
 | Nov. 10 | Oklahoma certification date for state and federal results, per the State Election Board; its results page shows "Official Results" by Nov. 12 |
-| Nov. 12 | Colorado signature cure deadline and last day for county clerks to receive military and overseas ballots; Colorado's weekday results updates by 4 p.m. MT run through this date (none on Veterans Day, Nov. 11) |
-| Nov. 16 | California counties finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule); Colorado's Secretary of State sets the random seed for the Risk Limiting Audit and tells counties which ballots to audit |
-| Nov. 17 | Florida's Elections Canvassing Commission meets at 8 a.m., per Fla. Stat. 102.111; Michigan county canvasses are due, per MCL 168.822 |
-| Mid-November | Counties finish canvassing; ranked-choice rounds in Maine; Alaska's tabulation is scheduled for Nov. 18 |
+| Nov. 12 | Colorado signature cure deadline and last day for county clerks to receive military and overseas ballots; Colorado's weekday results updates by 4 p.m. MT ran through this date (none on Veterans Day, Nov. 11) |
+| Nov. 16 | California counties were to finish reporting all ballots, with some exceptions (computed from the Secretary of State's 13-day rule); Colorado's Secretary of State was to set the random seed for the Risk Limiting Audit and tell counties which ballots to audit |
+| Nov. 17 | Florida's Elections Canvassing Commission met at 8 a.m., per Fla. Stat. 102.111; Michigan county canvasses were due, per MCL 168.822 |
+| Mid-November | Counties finish canvassing; ranked-choice rounds in Maine; Alaska's tabulation was scheduled for Nov. 18 |
 | Nov. 23 | Michigan's Board of State Canvassers deadline to certify, per MCL 168.842 |
 | Nov. 24 | North Carolina's State Board of Elections meets at 11 a.m. for the state canvass, per G.S. 163-182.5; Oregon's last day to resolve ballot challenges, per the Secretary of State; Colorado county audit boards report Risk Limiting Audit results, per the Colorado Secretary of State |
 | Nov. 25 | Colorado county canvass boards complete the canvass and submit the official election abstract, per the Colorado Secretary of State |
 | Nov. 27 | Colorado's deadline for the Secretary of State to order a statutory recount, if one is required |
 | Dec. 1 | Georgia runoff, if needed |
-| Dec. 3 | California counties complete final official results, per the Secretary of State |
-| Dec. 4 | Deadline for California counties to report final results for state and federal contests to the Secretary of State, per its Nov. 5 release |
+| Dec. 3 | California counties must complete final official results, per the [Secretary of State's elections page](https://www.sos.ca.gov/elections/) |
 | Dec. 10 | Oregon certifies final results |
-| Dec. 11 | California's Secretary of State certifies the results, per its Nov. 5 release |
+| Dec. 11 | California's Secretary of State certifies the results, per the [elections page](https://www.sos.ca.gov/elections/) |
 | Late Nov.-Dec. | States certify results |
 | Jan. 3, 2027 | The new Congress is sworn in |
 

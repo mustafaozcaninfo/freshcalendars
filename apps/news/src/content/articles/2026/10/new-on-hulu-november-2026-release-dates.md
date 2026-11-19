@@ -3,7 +3,7 @@ title: "Coming to Hulu November 2026: 109 Dated Titles, Percy Jackson Nov. 20"
 description: "Percy Jackson season 3 premieres on Hulu Nov. 20, and Hulu Press dates 39 more titles from Nov. 14 to 30. Every date by weekday, plus a printable."
 type: news
 publishedAt: "2026-10-27T21:42:00-04:00"
-updatedAt: "2026-11-13T16:13:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Hulu November 2026", "Hulu November 2026 schedule", "what's coming to Hulu in November", "Percy Jackson season 3 release date Hulu"]
@@ -91,23 +91,23 @@ draft: false
 
 The Hulu Press page carries no publication date, and the Disney+ Press list is dated Oct. 15, 2026. Titles can change, so confirm on Hulu before you plan a watch night. Hulu Press had not published a December 2026 schedule as of Nov. 13.
 
-## What is coming to Hulu from Nov. 14 to 30, 2026?
+## What is on Hulu from Nov. 14 to 30, 2026?
 
-The Hulu Press page has four columns: date, show, category and status, and every row reads "Added." This table groups the remaining rows by date and adds the weekday. Spanish-language versions ("En Espanol") are separate rows on the Hulu Press page and are not listed again here. Our count of the rows is in the second table further down.
+The Hulu Press page has four columns: date, show, category and status, and every row reads "Added." This table groups the rows dated Nov. 14 to 30 by date, adds the weekday and marks the dates that have passed as of Nov. 19. Spanish-language versions ("En Espanol") are separate rows on the Hulu Press page and are not listed again here. Our count of the rows is in the second table further down.
 
-| Day and date | Titles on Hulu Press |
-|---|---|
-| Saturday, Nov. 14 | Expedition: Saving Our Seas |
-| Sunday, Nov. 15 | Call of the Night: Complete Season 2 (Sub and Dub); Hero Without a Class: Who Even Needs Skills?!: Complete Season 1 (Sub and Dub); My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon: Complete Season 1 (Sub and Dub); Paddington in Peru |
-| Tuesday, Nov. 17 | I'm Still Here (2024) |
-| Wednesday, Nov. 18 | Vienna Game: Complete Season 1 (Sub, German) |
-| Friday, Nov. 20 | A Christmas Story (1983); Ezra (2023); Four Christmases (2008); Fred Claus (2007); Jack Frost (1998); National Lampoon's Christmas Vacation (1989); The Polar Express (2004); Tom and Jerry: Forbidden Compass (2025); Whistle (2026) |
-| Sunday, Nov. 22 | This Is Not a Test (2025) |
-| Monday, Nov. 23 | MAO: Season 1, Part 2 (Dub); Mickey 17 (2025) |
-| Wednesday, Nov. 25 | Borderlands (2024) |
-| Thursday, Nov. 26 | Chuck Norris's Epic Guide to Military Vehicles; The Curse of Oak Island: Season 13; History's Greatest Warriors: Season 1; Hot Rods and Muscle Cars; Speed Demons; The UnBelievable With Dan Aykroyd: Season 3; Mummies (2023) |
-| Friday, Nov. 27 | Couture (2025); Runner (2026); Toys and Colors Elf Academy (2026) |
-| Monday, Nov. 30 | The First Omen (2024) |
+| Day and date | Titles on Hulu Press | Status |
+|---|---|---|
+| Saturday, Nov. 14 | Expedition: Saving Our Seas | Out now |
+| Sunday, Nov. 15 | Call of the Night: Complete Season 2 (Sub and Dub); Hero Without a Class: Who Even Needs Skills?!: Complete Season 1 (Sub and Dub); My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon: Complete Season 1 (Sub and Dub); Paddington in Peru | Out now |
+| Tuesday, Nov. 17 | I'm Still Here (2024) | Out now |
+| Wednesday, Nov. 18 | Vienna Game: Complete Season 1 (Sub, German) | Out now |
+| Friday, Nov. 20 | A Christmas Story (1983); Ezra (2023); Four Christmases (2008); Fred Claus (2007); Jack Frost (1998); National Lampoon's Christmas Vacation (1989); The Polar Express (2004); Tom and Jerry: Forbidden Compass (2025); Whistle (2026) | Coming |
+| Sunday, Nov. 22 | This Is Not a Test (2025) | Coming |
+| Monday, Nov. 23 | MAO: Season 1, Part 2 (Dub); Mickey 17 (2025) | Coming |
+| Wednesday, Nov. 25 | Borderlands (2024) | Coming |
+| Thursday, Nov. 26 | Chuck Norris's Epic Guide to Military Vehicles; The Curse of Oak Island: Season 13; History's Greatest Warriors: Season 1; Hot Rods and Muscle Cars; Speed Demons; The UnBelievable With Dan Aykroyd: Season 3; Mummies (2023) | Coming |
+| Friday, Nov. 27 | Couture (2025); Runner (2026); Toys and Colors Elf Academy (2026) | Coming |
+| Monday, Nov. 30 | The First Omen (2024) | Coming |
 
 Percy Jackson season 3 is not in this table because it is not on the Hulu Press page; it comes from Disney+ Press and is covered below.
 
@@ -153,8 +153,8 @@ Disney+ Press, in its Oct. 15, 2026 list "Next on Disney+ and Hulu: November 202
 
 Hulu Press puts the "Hulu Original" tag on four rows in November. All four were dated before Nov. 14, so they are already on Hulu.
 
-- Wednesday, Nov. 4: "All's Fair" season 2. Disney+ Press listed a three-episode premiere, with new episodes Wednesdays, Nov. 18 and Nov. 25.
-- Wednesday, Nov. 4: "The Remarried Empress" season 1, in Korean with subtitles and with a dub. Disney+ Press listed a four-episode premiere, with new episodes on Nov. 18 and finale episodes on Nov. 25.
+- Wednesday, Nov. 4: "All's Fair" season 2. Disney+ Press listed a three-episode premiere, with new episodes Wednesdays, Nov. 18 (past) and Nov. 25.
+- Wednesday, Nov. 4: "The Remarried Empress" season 1, in Korean with subtitles and with a dub. Disney+ Press listed a four-episode premiere, with new episodes on Nov. 18 (past) and finale episodes on Nov. 25.
 - Thursday, Nov. 12: "The Secret Lives of Mormon Wives: Orange County," complete season 1, with all episodes.
 
 "The Remarried Empress" accounts for two of the four tagged rows, the subtitled and the dubbed versions.
@@ -165,8 +165,8 @@ Disney+ Press lists several titles that continue past their first date.
 
 | Title | Dates from Disney+ Press |
 |---|---|
-| Rivals season 2, part 2 | Three-episode premiere Wednesday, Nov. 11 (past); new episodes Wednesdays, Nov. 18 and Nov. 25 |
-| The Lowdown season 2 (FX) | New episodes Wednesdays, Nov. 4 and 11 (past), then Nov. 18 at 9 p.m. Pacific Time (PT); finale Nov. 25 |
+| Rivals season 2, part 2 | Three-episode premiere Wednesday, Nov. 11 (past); new episodes Wednesdays, Nov. 18 (past) and Nov. 25 |
+| The Lowdown season 2 (FX) | New episodes Wednesdays, Nov. 4 and 11 (past), then Nov. 18 (past) at 9 p.m. Pacific Time (PT); finale Nov. 25 |
 
 The same list names Shark Tank, Abbott Elementary, Scrubs, Grey's Anatomy, 9-1-1, 9-1-1: Nashville and The Kardashians season 8 as network series with new episodes weekly. Their days and times are not repeated here because they were not copied from the page.
 

@@ -3,7 +3,7 @@ title: "Letters to Santa 2026: Canada Post Dec. 9, USPS Postmark Dec. 5"
 description: "Letters to Santa 2026: Canada Post's deadline is Wednesday, Dec. 9, and the U.S. Postal Service wants a Dec. 5 postmark. See every date with its weekday."
 type: news
 publishedAt: "2026-11-04T15:14:00-05:00"
-updatedAt: "2026-11-13T16:14:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["letters to santa 2026", "usps operation santa 2026", "where to send letters to santa 2026", "canada post santa letter deadline 2026", "operation santa adoption dates"]
@@ -20,7 +20,7 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Daderot"
 summary:
   - "United States Postal Service (USPS) Operation Santa says letters to Santa must be postmarked by Saturday, Dec. 5, 2026, which is the last day to send them."
-  - "Letter adoption starts Monday, Nov. 16, and the last day to adopt a letter is Saturday, Dec. 12, the recommended ship-by date for gifts to arrive before Dec. 25."
+  - "Letter adoption started Monday, Nov. 16, and the last day to adopt a letter is Saturday, Dec. 12, the recommended ship-by date for gifts to arrive before Dec. 25."
   - "Canada Post asks for Santa letters no later than Wednesday, Dec. 9, 2026, addressed to Santa Claus, North Pole, H0H 0H0, Canada, with no stamp needed inside Canada."
   - "Royal Mail has not posted a 2026 letters-to-Santa date on a page we could read, so no UK date is given here."
 sources:
@@ -86,7 +86,7 @@ assets:
       target: { date: "2026-12-25", label: "Christmas Day" }
       columns: ["United States", "Canada"]
       rows:
-        - { date: "2026-11-16", cells: { "United States": "Letter adoption starts" }, src: 1, quote: "Nov. 16: Letter Adoption Starts." }
+        - { date: "2026-11-16", cells: { "United States": "Letter adoption started" }, src: 1, quote: "Nov. 16: Letter Adoption Starts." }
         - { date: "2026-12-05", cells: { "United States": "Last day to send letters; postmarked by this date" }, src: 2, quote: "Saturday, December 5: This is the last day to send letters. Letters must be postmarked by this date." }
         - { date: "2026-12-09", cells: { "Canada": "Send your letter to Santa by this date" }, src: 4, quote: "Send your letter to Santa no later than December 9, 2026!" }
         - { date: "2026-12-12", cells: { "United States": "Last day to adopt; recommended gift ship-by date" }, src: 1, quote: "Dec. 12: Last day to adopt a letter, and the recommended date to ship your gift by for expected delivery before December 25." }
@@ -109,9 +109,9 @@ USPS Operation Santa lists its 2026 calendar on its home page. Canada Post's dat
 
 | Date | Weekday | What happens | Who it is for | Source |
 |---|---|---|---|---|
-| Sept. 14 | Monday | The mailroom starts accepting letters to Santa | U.S. letter writers | USPS Operation Santa |
-| Nov. 2 | Monday | Registration opens for adopters; create and verify your account | U.S. adopters | USPS Operation Santa |
-| Nov. 16 | Monday | Letter adoption starts | U.S. adopters | USPS Operation Santa |
+| Sept. 14 | Monday | The mailroom started accepting letters to Santa | U.S. letter writers | USPS Operation Santa |
+| Nov. 2 | Monday | Registration opened for adopters; create and verify your account | U.S. adopters | USPS Operation Santa |
+| Nov. 16 | Monday | Letter adoption started; open until Dec. 12 | U.S. adopters | USPS Operation Santa |
 | Dec. 5 | Saturday | Last day to send letters; they must be postmarked by this date | U.S. letter writers | USPS Operation Santa questions page |
 | Dec. 9 | Wednesday | Send your letter to Santa no later than this date | Canadian children and families | Canada Post |
 | Dec. 12 | Saturday | Last day to adopt a letter (the website closes at 8 p.m. ET), and the recommended gift ship-by date for delivery before Dec. 25 | U.S. adopters | USPS Operation Santa |
@@ -131,7 +131,7 @@ USPS adds that sending a letter does not guarantee it will be adopted or that a 
 
 ## How does letter adoption work, and who can take part?
 
-Adopters first create and verify an account, which opened on Nov. 2. Letter adoption starts Monday, Nov. 16, and new letters are added to the site daily from then through Dec. 12. Adoption is online only. The questions page says anyone in the continental U.S., Hawaii and Puerto Rico can participate, and that deployed military overseas cannot at this time.
+Adopters first create and verify an account, which opened on Nov. 2. Letter adoption started Monday, Nov. 16, and is open until Dec. 12; new letters are added to the site daily from Nov. 16 through Dec. 12. Adoption is online only. The questions page says anyone in the continental U.S., Hawaii and Puerto Rico can participate, and that deployed military overseas cannot at this time.
 
 For gifts, the questions page gives these limits: packages under 70 lb, length plus girth of at most 108 in, and up to six Priority Mail packages and up to six USPS Ground Advantage packages per adoption. Ship from a participating Post Office location by Dec. 12 at the latest; the questions page says to send packages before that date to be sure they arrive by Dec. 25. For the general mailing dates, see our [USPS holiday shipping deadlines for 2026](/news/usps-holiday-shipping-deadlines-2026/).
 

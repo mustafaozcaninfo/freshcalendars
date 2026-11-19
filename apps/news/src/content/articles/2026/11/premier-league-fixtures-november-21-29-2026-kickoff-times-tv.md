@@ -3,7 +3,7 @@ title: "Premier League Fixtures Nov. 21-29, 2026: UK and US Kick-Off Times"
 description: "Liverpool v Manchester United is Sun., Nov. 22, 2026 at 4:30pm UK time, 11:30 a.m. ET, on Sky Sports. Matchweeks 11 and 12 in UK and US times, with TV."
 type: news
 publishedAt: "2026-11-06T06:10:00-05:00"
-updatedAt: "2026-11-13T16:12:00-05:00"
+updatedAt: "2026-11-19T01:43:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["premier league fixtures this weekend", "liverpool vs manchester united time", "everton vs liverpool kick off", "arsenal vs man city time", "premier league on tv"]
@@ -111,7 +111,7 @@ The tables below give the 20 matches in Matchweeks 11 and 12 in UK time (Greenwi
 
 ## Matchweek 11 kick-off times, Nov. 21-23
 
-UK time is ET plus 5 hours and PT plus 8 hours, so ET and PT columns are worked out by Fresh Calendars from the league's UK times. No kick-off moves to a different day in the US. The seven Saturday games shown as "Not listed" in the UK column come from NBC Sports, which lists 10 a.m. ET for each; the league's page shows no UK time or broadcaster for them.
+UK time is ET plus 5 hours and PT plus 8 hours, so ET and PT columns are worked out by Fresh Calendars from the league's UK times. No kick-off moves to a different day in the US. The seven Saturday games shown as "Not listed" in the UK column come from NBC Sports, which lists 10 a.m. ET for each; the league's page shows no UK time or broadcaster for them. The league says weekend matches kick off at 15:00 UK time (10 a.m. ET) unless otherwise stated, so an unlisted weekend time defaults to that.
 
 | Day | Match | UK (GMT) | ET | PT | UK channel | US channel (NBC Sports) |
 |---|---|---|---|---|---|---|
@@ -161,7 +161,7 @@ Arsenal v Manchester City closes Matchweek 12 on Sunday, Nov. 29 at 4:30pm UK ti
 
 ## Which matches have no UK kick-off time yet?
 
-Three matches have no time on the league's fixtures page: Tottenham Hotspur v Ipswich Town on Saturday, Nov. 21, and Leeds United v Coventry City and Manchester United v Brentford on Saturday, Nov. 28. NBC Sports lists all three at 10 a.m. ET, which is 3pm UK time by our conversion; the league has not published a UK time or channel for them. The league's TV announcement page lists the next block of live-TV selections, for January, in the week commencing Nov. 30, which is approximate. Check the fixtures page before you plan around any of them.
+Three matches have no time on the league's fixtures page: Tottenham Hotspur v Ipswich Town on Saturday, Nov. 21, and Leeds United v Coventry City and Manchester United v Brentford on Saturday, Nov. 28. NBC Sports lists all three at 10 a.m. ET, which is 3pm UK time by our conversion; the league has not published a UK time or channel for them. The league's fixtures release says "The kick-off times of weekend and Bank Holiday matches are 15:00 UK time, while for midweek matches it is 20:00 unless otherwise stated", so 15:00 UK (10 a.m. ET) is the default for these three Saturday matches. The league's TV announcement page lists the next block of live-TV selections, for January, in the week commencing Nov. 30, which is approximate. Check the fixtures page before you plan around any of them.
 
 ## How can you watch Premier League matches in the US?
 

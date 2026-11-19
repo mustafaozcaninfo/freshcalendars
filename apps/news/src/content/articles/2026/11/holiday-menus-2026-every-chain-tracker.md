@@ -1,9 +1,9 @@
 ---
 title: "Holiday Menus 2026: Chain Launch Dates, Starbucks Nov. 5"
-description: "Holiday menus 2026: Starbucks starts Thursday, Nov. 5; McDonald's, Dutch Bros, Caribou, Scooter's and Dunkin' are live. Items, pending chains, printable."
+description: "Holiday menus 2026: Starbucks launched Thursday, Nov. 5; McDonald's, Dutch Bros, Caribou, Scooter's and Dunkin' are live. Items, pending chains, printable."
 type: news
 publishedAt: "2026-11-04T15:00:00-05:00"
-updatedAt: "2026-11-13T11:30:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["holiday menus 2026", "christmas menu fast food 2026", "holiday drinks 2026", "when do holiday menus come out 2026"]
@@ -66,15 +66,15 @@ hero:
     author: "TerriC"
     authorUrl: "https://pixabay.com/en/users/TerriC-4014469/"
 summary:
-  - "As of Nov. 4, 2026, seven chains have holiday menus on sale or dated: Cracker Barrel (Oct. 20), Scooter's Coffee and Dutch Bros (Nov. 1), Caribou Coffee (Nov. 2), McDonald's (Nov. 3), Dunkin' (Nov. 4) and Starbucks (Thursday, Nov. 5)."
-  - "Starbucks' Red Cup Day is Tuesday, Nov. 17, 2026, according to Scripps News."
+  - "Seven chains launched 2026 holiday menus: Cracker Barrel (Oct. 20), Scooter's Coffee and Dutch Bros (Nov. 1), Caribou Coffee (Nov. 2), McDonald's (Nov. 3), Dunkin' (Nov. 4) and Starbucks (Thursday, Nov. 5)."
+  - "Starbucks' Red Cup Day was Tuesday, Nov. 17, 2026, according to Scripps News."
   - "Wendy's, Sonic, Shake Shack, Dairy Queen, Krispy Kreme, Panera, Peet's and Tim Hortons had no 2026 holiday menu on an official page that we could read."
-  - "Chick-fil-A says its peppermint beverages and treats, including the Peppermint Chip Milkshake, are available from Nov. 16, 2026, through Jan. 2, 2027, while supplies last; last year's start was Nov. 10, 2025."
+  - "Chick-fil-A says its peppermint beverages and treats, including the Peppermint Chip Milkshake, have been available since Nov. 16, 2026, and run through Jan. 2, 2027, while supplies last; last year's start was Nov. 10, 2025."
 faq:
   - q: "When do holiday menus come out in 2026?"
-    a: "It depends on the chain. Cracker Barrel started Oct. 20, Scooter's Coffee and Dutch Bros Nov. 1, Caribou Coffee Nov. 2, McDonald's Nov. 3 and Dunkin' Nov. 4. Starbucks follows on Thursday, Nov. 5, 2026."
+    a: "It depends on the chain. Cracker Barrel started Oct. 20, Scooter's Coffee and Dutch Bros Nov. 1, Caribou Coffee Nov. 2, McDonald's Nov. 3 and Dunkin' Nov. 4. Starbucks followed on Thursday, Nov. 5, 2026."
   - q: "Which chains have not announced a 2026 holiday menu?"
-    a: "As of Nov. 4, 2026, we found no 2026 holiday menu on an official page for Wendy's, Sonic, Shake Shack, Dairy Queen, Krispy Kreme, Panera, Peet's or Tim Hortons. Chick-fil-A has since confirmed its peppermint dates: Nov. 16, 2026, through Jan. 2, 2027, according to its help page."
+    a: "As of Nov. 4, 2026, we found no 2026 holiday menu on an official page for Wendy's, Sonic, Shake Shack, Dairy Queen, Krispy Kreme, Panera, Peet's or Tim Hortons. Chick-fil-A has since confirmed its peppermint dates: available since Nov. 16, 2026, and through Jan. 2, 2027, according to its help page."
   - q: "Do the holiday menus end on a set date?"
     a: "In the sources we read, no chain gave an end date. Dutch Bros, Caribou Coffee, Scooter's and Dunkin's Avengers menu say while supplies last; McDonald's and Cracker Barrel say limited time."
   - q: "Are the holiday drinks at every location?"
@@ -145,7 +145,7 @@ downloads:
 draft: false
 ---
 
-**Seven chains have a 2026 holiday menu on sale or dated as of Nov. 4, 2026, and Starbucks is the last of them, starting Thursday, Nov. 5, according to the Starbucks newsroom.** Cracker Barrel began Oct. 20, Scooter's Coffee and Dutch Bros Nov. 1, Caribou Coffee Nov. 2, McDonald's Nov. 3 and Dunkin' Nov. 4. The table below gives each chain's launch date, signature items, end date and source, and a printable try list at the end covers the chains that are live.
+**Seven chains launched a 2026 holiday menu by Nov. 5, 2026, and Starbucks was the last of them, on Thursday, Nov. 5, according to the Starbucks newsroom.** Cracker Barrel began Oct. 20, Scooter's Coffee and Dutch Bros Nov. 1, Caribou Coffee Nov. 2, McDonald's Nov. 3 and Dunkin' Nov. 4. The table below gives each chain's launch date, signature items, end date and source, and a printable try list at the end covers the chains that are live.
 
 ## Holiday menu launch dates by chain, 2026
 
@@ -153,12 +153,12 @@ None of the sources we read gave an end date. Where a chain says "while supplies
 
 | Chain | 2026 launch | Signature items | End date | Source |
 |---|---|---|---|---|
-| Starbucks | Thu., Nov. 5 | Peppermint Mocha, Caramel Brulee Latte, Sugar Cookie Latte, Gingerbread Chai; new Tiramisu Velvet Latte | Not stated | Starbucks, Oct. 5, 2026 |
-| Dunkin' | Wed., Nov. 4 | Donutcracker design on holiday cups and boxes; Cookie Butter and Toasted White Chocolate return | Not stated for the holiday menu; Avengers: Doomsday menu while supplies last | Dunkin', Oct. 28, 2026 |
+| Starbucks | Thu., Nov. 5 | Peppermint Mocha, Caramel Brulee Latte, Sugar Cookie Latte, Gingerbread Chai; new Tiramisu Velvet Latte | Not given | Starbucks, Oct. 5, 2026 |
+| Dunkin' | Wed., Nov. 4 | Donutcracker design on holiday cups and boxes; Cookie Butter and Toasted White Chocolate return | Not given for the holiday menu; Avengers: Doomsday menu while supplies last | Dunkin', Oct. 28, 2026 |
 | McDonald's | Tue., Nov. 3 | Frosted Cranberry Splash with Sprite, Red Bull Frosted Cranberry Energizer, Cookie Butter Frappe, Latte and Iced Coffee | Limited time, no end date announced | Nation's Restaurant News and Dexerto, Oct. 27, 2026 |
 | Dutch Bros | On the menu Sun., Nov. 1 | Merry Magic, Sprinkle Cookie, Holiday Sugar Cookie Cake Pop, Hazelnut Truffle, Candy Cane | While supplies last | Dutch Bros, Nov. 1, 2026 |
 | Caribou Coffee | Mon., Nov. 2 | Cookie Butter White Mocha, Warm Spice Morning Bun, Ho Ho Mint Mocha, Spicy Mocha | While supplies last | Caribou Coffee via PR Newswire, Oct. 13, 2026 |
-| Scooter's Coffee | Sun., Nov. 1 (app users Thu., Oct. 29) | Colada Craze Red Bull Infusion, among other items | Not stated in the text we read | Scooter's Coffee, Oct. 29, 2026 |
+| Scooter's Coffee | Sun., Nov. 1 (app users Thu., Oct. 29) | Colada Craze Red Bull Infusion, among other items | Not given in the text we read | Scooter's Coffee, Oct. 29, 2026 |
 | Cracker Barrel | Tue., Oct. 20 | Cinnamon Swirl Pancakes, Country Fried Turkey Sandwich, Cinnamon Swirl Latte | Limited time throughout the holiday season | Cracker Barrel via PR Newswire, Oct. 20, 2026 |
 
 The McDonald's date comes from newsroom reports because we could not read a McDonald's page on it; Nation's Restaurant News and Dexerto both report Nov. 3. Dutch Bros' release is dated Nov. 1 and says the lineup is "available now", so we list Nov. 1 as the date it was on the menu, not a separate launch time. Caribou Coffee's row cites the PR Newswire copy of its release.
@@ -184,13 +184,13 @@ Scooter's Coffee is left out of this split because we did not read its item list
 
 As of Nov. 4, 2026, we found no 2026 holiday menu on an official page for Wendy's, Sonic, Shake Shack, Dairy Queen, Krispy Kreme, Panera, Peet's or Tim Hortons. We list no dates for them, and we do not print last year's dates where we did not confirm them on an official page.
 
-Chick-fil-A has since set its dates. Its peppermint beverages and treats, including the Peppermint Chip Milkshake, are available at participating U.S. restaurants "from November 16, 2026, through January 2, 2027, while supplies last," according to the chain's help page. Last year the milkshake returned Nov. 10, 2025. Our [Chick-fil-A peppermint milkshake 2026 story](/news/chick-fil-a-peppermint-milkshake-2026/) counts the days you can buy it.
+Chick-fil-A has since set its dates. Its peppermint beverages and treats, including the Peppermint Chip Milkshake, have been available at participating U.S. restaurants since Nov. 16, 2026; the chain's help page says "from November 16, 2026, through January 2, 2027, while supplies last," according to the chain's help page. Last year the milkshake returned Nov. 10, 2025. Our [Chick-fil-A peppermint milkshake 2026 story](/news/chick-fil-a-peppermint-milkshake-2026/) counts the days you can buy it.
 
 Wendy's has since launched the Peppermint Frosty Swirl and Peppermint Brownie Frosty Fusion with a Holiday Box on Nov. 16, 2026, per its release; the [Wendy's Peppermint Frosty 2026 story](/news/wendys-peppermint-frosty-swirl-2026-holiday-box/) has the lineup and the Key Tag limit.
 
 ## Dates to mark for holiday menus, Nov. 2026
 
-Starbucks' Red Cup Day, the free reusable red cup with a holiday drink, is Tuesday, Nov. 17, 2026, according to Scripps News. Cracker Barrel's Thanksgiving Heat & Serve pickup runs Nov. 21 through Nov. 29, per its release, and Thanksgiving is Thursday, Nov. 26. Print a [November 2026 calendar](/november-calendars.html) or a [December 2026 calendar](/december-calendars.html) to mark them.
+Starbucks' Red Cup Day, the free reusable red cup with a holiday drink, was Tuesday, Nov. 17, 2026, according to Scripps News. Cracker Barrel's Thanksgiving Heat & Serve pickup runs Nov. 21 through Nov. 29, per its release, and Thanksgiving is Thursday, Nov. 26. Print a [November 2026 calendar](/november-calendars.html) or a [December 2026 calendar](/december-calendars.html) to mark them.
 
 ## Are there holiday drinks in stores too?
 

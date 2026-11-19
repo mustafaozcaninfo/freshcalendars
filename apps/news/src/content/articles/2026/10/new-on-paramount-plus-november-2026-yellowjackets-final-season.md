@@ -3,7 +3,7 @@ title: "New on Paramount+ November 2026: Yellowjackets Final Season Nov. 20"
 description: "Paramount Press Express dates the Yellowjackets final season for Nov. 20, 2026. Each dated title with the plan it needs, plus a free printable calendar."
 type: news
 publishedAt: "2026-10-28T15:50:00-04:00"
-updatedAt: "2026-11-13T16:13:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Paramount+ November 2026", "Paramount Plus November 2026", "Yellowjackets season 4 release date", "Dexter Resurrection season 2 release date"]
@@ -42,8 +42,8 @@ hero:
     authorUrl: "https://www.flickr.com/people/28478778@N05"
 summary:
   - "Paramount Press Express says Yellowjackets returns for its fourth and final season on Paramount+ with the Premium Plan on Friday, Nov. 20, 2026."
-  - "Still ahead: He Said, She Said: Till Death Do Us Part (three episodes) on Tue., Nov. 17, and The JLo Show on CBS on Thanksgiving, Thu., Nov. 26, from 8 to 10 p.m. Eastern Time (ET)."
-  - "Only Premium subscribers can stream The JLo Show live. Already out: Dexter: Resurrection season 2 (Oct. 30) and It Gets Worse (set for Nov. 6, six episodes)."
+  - "He Said, She Said: Till Death Do Us Part (three episodes) premiered Tue., Nov. 17; still ahead is The JLo Show on CBS on Thanksgiving, Thu., Nov. 26, from 8 to 10 p.m. Eastern Time (ET)."
+  - "Only Premium subscribers can stream The JLo Show live. Already out: Dexter: Resurrection season 2 (Oct. 30) and It Gets Worse (Nov. 6, six episodes)."
   - "Paramount has not published a full November list; the Yellowjackets episode count and streaming start times are not yet announced."
 faq:
   - q: "When does Yellowjackets season 4 come out on Paramount+?"
@@ -104,20 +104,20 @@ downloads:
 draft: false
 ---
 
-**Paramount Press Express, the official Paramount press site, says the fourth and final season of "Yellowjackets" returns to Paramount+ with the Premium Plan on Friday, Nov. 20, 2026.** Before it, "He Said, She Said: Till Death Do Us Part" arrives Tuesday, Nov. 17, and "The JLo Show" airs on CBS on Thanksgiving, Thursday, Nov. 26. A free printable calendar of the dated premieres is further down.
+**Paramount Press Express, the official Paramount press site, says the fourth and final season of "Yellowjackets" returns to Paramount+ with the Premium Plan on Friday, Nov. 20, 2026.** Before it, "He Said, She Said: Till Death Do Us Part" premiered Tuesday, Nov. 17, and "The JLo Show" airs on CBS on Thanksgiving, Thursday, Nov. 26. A free printable calendar of the dated premieres is further down.
 
-## What is coming to Paramount+ and CBS from Nov. 14?
+## What is on Paramount+ and CBS from Nov. 14?
 
 Every row comes from a Paramount Press Express release, with the weekday computed from the date. Paramount's releases give no start time for any streaming drop, so none appear here. The CBS rows are broadcast times (ET/PT); the releases do not say whether each special also streams on Paramount+.
 
-| Date | Title | Episodes at launch | Plan or channel |
-|---|---|---|---|
-| Sat., Nov. 14 | Nickelodeon Kids' Choice Awards | One special, 8 to 9:30 p.m. ET | CBS and Nickelodeon |
-| Tue., Nov. 17 | He Said, She Said: Till Death Do Us Part | All three | Plan not given |
-| Fri., Nov. 20 | Yellowjackets, final season | Not announced | Premium Plan |
-| Mon., Nov. 23 | Pillsbury Bake-Off Classic | One special, 8 to 10 p.m. ET | CBS |
-| Thu., Nov. 26 | The JLo Show | One special, 8 to 10 p.m. ET/PT | CBS; Premium to stream live |
-| Fri., Nov. 27 | Soul Train Awards | One special, 8 to 10 p.m. ET | CBS |
+| Date | Title | Episodes at launch | Plan or channel | Status |
+|---|---|---|---|---|
+| Sat., Nov. 14 | Nickelodeon Kids' Choice Awards | One special, 8 to 9:30 p.m. ET | CBS and Nickelodeon | Aired |
+| Tue., Nov. 17 | He Said, She Said: Till Death Do Us Part | All three | Plan not given | Out now |
+| Fri., Nov. 20 | Yellowjackets, final season | Not announced | Premium Plan | Tomorrow, Nov. 20 |
+| Mon., Nov. 23 | Pillsbury Bake-Off Classic | One special, 8 to 10 p.m. ET | CBS | Coming |
+| Thu., Nov. 26 | The JLo Show | One special, 8 to 10 p.m. ET/PT | CBS; Premium to stream live | Coming |
+| Fri., Nov. 27 | Soul Train Awards | One special, 8 to 10 p.m. ET | CBS | Coming |
 
 Already out: "Dexter: Resurrection" season 2 returned Friday, Oct. 30, and "It Gets Worse" was set to stream all six episodes on Friday, Nov. 6, on the Premium Plan only in the U.S.
 
@@ -133,7 +133,7 @@ The release headline reads: "He's Back and Sharper Than Ever: The Official Dexte
 
 "It Gets Worse" is a comedy series created by and starring Leo Reich. Paramount's Oct. 8, 2026 release said it "will be available to stream on November 6 on Paramount+ only on the Premium Plan in the U.S." and called it "a new six-episode comedy series." All six episodes were set for Nov. 6.
 
-"He Said, She Said: Till Death Do Us Part" is a three-part documentary from See It Now Studios. Paramount's Oct. 20, 2026 release says it "premieres on Tuesday, November 17, exclusively on Paramount+ in the U.S. and Canada" and that "All 3 episodes will be available to stream at launch." The release does not name a plan.
+"He Said, She Said: Till Death Do Us Part" is a three-part documentary from See It Now Studios. Paramount's Oct. 20, 2026 release said it "premieres on Tuesday, November 17, exclusively on Paramount+ in the U.S. and Canada" and that "All 3 episodes will be available to stream at launch." The release does not name a plan.
 
 ## When is The JLo Show on Thanksgiving?
 
@@ -141,7 +141,7 @@ Paramount's Sept. 17, 2026 release says "The JLo Show," a Jennifer Lopez Las Veg
 
 ## Which Paramount+ plan do you need?
 
-Of the titles still ahead, "Yellowjackets" and the live stream of "The JLo Show" name the Premium Plan in the releases. The "He Said, She Said" release names no plan, so check the show page before you count on Essential. The paramountplus.com homepage, checked Nov. 13, 2026, lists Paramount+ Essential at $8.99 a month and Paramount+ Premium at $13.99 a month. It shows no annual prices.
+Of the titles dated Nov. 17 or later, "Yellowjackets" and the live stream of "The JLo Show" name the Premium Plan in the releases. The "He Said, She Said" release names no plan, so check the show page before you count on Essential. The paramountplus.com homepage, checked Nov. 13, 2026, lists Paramount+ Essential at $8.99 a month and Paramount+ Premium at $13.99 a month. It shows no annual prices.
 
 ## What is not announced yet?
 
