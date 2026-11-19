@@ -1,6 +1,6 @@
 # Bing Webmaster Tools (generated, do not edit)
 
-Read 2026-11-19T09:14 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
+Read 2026-11-19T18:17 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
 
 ## Clicks and impressions
 
@@ -35,7 +35,7 @@ Last 7 days with data: 3,220 clicks, 407,584 impressions (the 7 before: 4,161 cl
 | free veterans day meals 2026 | 3,175 | 37 | 1.2% | 6.0 |
 | ballon d'or 2026 start time | 3,004 | 45 | 1.5% | 1.0 |
 | when is halloween 2026 | 2,974 | 2 | 0.1% | 8.2 |
-| day light savings 2026 | 2,956 | 2 | 0.1% | 9.0 |
+| daylight savings 2026 | 2,956 | 2 | 0.1% | 9.0 |
 | army navy game 2026 | 2,638 | 39 | 1.5% | 3.3 |
 | what time is the ballon d'or ceremony | 2,574 | 25 | 1.0% | 3.0 |
 | brewers parade 2026 details | 2,413 | 38 | 1.6% | 3.7 |
@@ -67,7 +67,7 @@ Queries at position 2.5 to 20 with 50+ impressions and a click rate under 3%: th
 - "home depot black friday 2026": 6,006 impressions at 6.5, 0.5% click rate
 - "free veterans day meals 2026": 3,175 impressions at 6.0, 1.2% click rate
 - "when is halloween 2026": 2,974 impressions at 8.2, 0.1% click rate
-- "day light savings 2026": 2,956 impressions at 9.0, 0.1% click rate
+- "daylight savings 2026": 2,956 impressions at 9.0, 0.1% click rate
 - "army navy game 2026": 2,638 impressions at 3.3, 1.5% click rate
 - "what time is the ballon d'or ceremony": 2,574 impressions at 3.0, 1.0% click rate
 - "brewers parade 2026 details": 2,413 impressions at 3.7, 1.6% click rate

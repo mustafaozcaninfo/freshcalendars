@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-19T09:13:51.580Z",
+ "generatedAt": "2026-11-19T18:15:52.129Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "100% (76 of 76 sampled)",
+   "value": "97% (74 of 76 sampled)",
    "pass": true
   },
   {
@@ -2337,10 +2337,24 @@
  "indexed": {
   "checked": 76,
   "sampled": 90,
-  "indexed": 76,
-  "notIndexed": [],
+  "indexed": 74,
+  "notIndexed": [
+   {
+    "url": "https://freshcalendars.com/news/quordle-hints-answers-october-31-2026-1741/",
+    "status": "not indexed",
+    "state": "Excluded by ‘noindex’ tag",
+    "age": 19
+   },
+   {
+    "url": "https://freshcalendars.com/news/quordle-hints-answers-november-1-2026-1742/",
+    "status": "not indexed",
+    "state": "Excluded by ‘noindex’ tag",
+    "age": 18
+   }
+  ],
   "states": {
-   "Submitted and indexed": 90
+   "Submitted and indexed": 88,
+   "Excluded by ‘noindex’ tag": 2
   },
   "unknown": 0
  },
@@ -2357,7 +2371,7 @@
    "errors": 0,
    "warnings": 0,
    "lastDownloaded": "2026-11-19T05:51:46.389Z",
-   "submitted": 2790
+   "submitted": 2831
   },
   {
    "path": "https://freshcalendars.com/news/sitemap.xml",

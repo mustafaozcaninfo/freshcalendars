@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-19T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-19T18:15 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (76 of 76 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 97% (74 of 76 sampled)
 - FAIL: /news/ clicks and impressions did not fall two weeks in a row — fell two weeks in a row: clicks, impressions
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -282,14 +282,15 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 76 that are 7 to 21 days old): 90 Submitted and indexed.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 76 that are 7 to 21 days old): 88 Submitted and indexed, 2 Excluded by ‘noindex’ tag.
 
-- every sampled story is indexed
+- not indexed: /news/quordle-hints-answers-october-31-2026-1741/ (Excluded by ‘noindex’ tag), 19 days old
+- not indexed: /news/quordle-hints-answers-november-1-2026-1742/ (Excluded by ‘noindex’ tag), 18 days old
 
 ## Sitemaps
 
 - /news/news-sitemap.xml: 0 errors, 0 warnings, 86 URLs submitted, last read 2026-11-19
-- /sitemap.xml: 0 errors, 0 warnings, 2,790 URLs submitted, last read 2026-11-19
+- /sitemap.xml: 0 errors, 0 warnings, 2,831 URLs submitted, last read 2026-11-19
 - /news/sitemap.xml: 0 errors, 0 warnings, 1,538 URLs submitted, last read 2026-11-18
 - /sitemap.xml: 0 errors, 0 warnings, 201 URLs submitted, last read 2026-11-16
 
