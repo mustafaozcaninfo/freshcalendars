@@ -3,6 +3,7 @@ title: "Champions League Matchday 6 Kickoff Times: Dec. 8-9 in ET, PT, GMT"
 description: "Champions League matchday 6 kickoff times: Tue., Dec. 8 and Wed., Dec. 9, 2026, at 12:45 p.m. or 3 p.m. ET. All 18 games in Pacific and UK time."
 type: news
 publishedAt: "2026-11-04T10:50:00-05:00"
+updatedAt: "2026-11-19T17:30:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["champions league schedule december 2026", "champions league matchday 6", "arsenal vs real madrid champions league time", "barcelona vs manchester city time"]
@@ -43,7 +44,7 @@ assets:
         - { start: "2026-12-09T21:00+01:00", title: "PSV Eindhoven v Atlético de Madrid", src: 1, quote: ["Wed. Dec. 9, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
         - { start: "2026-12-09T21:00+01:00", title: "Stuttgart v Lille", src: 1, quote: ["Wed. Dec. 9, 2026", "Kick-offs are 21:00 unless stated; all times CET."] }
       unconfirmed:
-        - { label: "channels for each match", why: "Not announced in a source we found as of Nov. 4, 2026" }
+        - { label: "TV channel for each match", why: "Not yet announced; Paramount+ streams all matches" }
 hero:
   src: ../../../../assets/news/champions-league-december-2026-matchday-6-kickoff-times/champions-league-december-2026-matchday-6-kickoff-times.webp
   alt: "Emirates Stadium in London, where Arsenal host Real Madrid in the Champions League matchday 6 on Dec. 9, 2026"
@@ -67,7 +68,7 @@ faq:
   - q: "Which matchday 6 games kick off at 12:45 p.m. ET?"
     a: "Viking v Feyenoord and Villarreal v Sabah on Dec. 8, and Real Betis v Como and Slovan Bratislava v Shakhtar Donetsk on Dec. 9. UEFA lists those four at 18:45 CET."
   - q: "Is the Champions League on CBS?"
-    a: "CBS Sports reported in 2022 that CBS and Paramount+ carry UEFA club competitions through 2029-30. Which matchday 6 games air on which channel was not announced in a source we found, so check CBS listings."
+    a: "CBS Sports reported in 2022 that CBS and Paramount+ carry UEFA club competitions through 2029-30. Paramount+ says it streams all 2026-27 Champions League matches live and on demand (its Nov. 13, 2026 schedule page). Which matchday 6 games also air on a CBS TV channel is not yet announced."
 sources:
   - title: "2026/27 Champions League: All the league phase fixtures and results"
     url: "https://www.uefa.com/uefachampionsleague/news/02a8-2174c9e9019d-f909a77bd77a-1000--2026-27-champions-league-all-the-league-phase-fixtures/"
@@ -77,6 +78,10 @@ sources:
     url: "https://www.cbssports.com/soccer/news/uefa-and-cbs-sportsparamount-reach-six-year-deal-to-air-champions-league-europa-and-conference-league/"
     publisher: "CBS Sports"
     date: "2022-08-19"
+  - title: "UEFA Champions League Schedule 2026-2027 - Sneak Peak"
+    url: "https://www.paramountplus.com/sneak-peak/uefa-champions-league-schedule/"
+    publisher: "Paramount+"
+    date: "2026-11-13"
 downloads:
   - group: "Champions League Matchday 6 Times in ET printables"
     title: "Champions League Matchday 6 Times in ET, Dec. 8-9, 2026"
@@ -147,7 +152,7 @@ For the November games, see our [matchday 4 and 5 schedule in ET](/news/champion
 
 ## Which channel shows the Champions League on Dec. 8 and 9?
 
-In the U.S., CBS Sports reported on Aug. 19, 2022, a six-year deal under which CBS and Paramount are the UEFA club competitions' U.S. home through 2029-30. We did not find an official 2026-27 broadcaster page, so which matchday 6 game is on which channel is not announced here. In the UK, check your provider's listings.
+In the U.S., CBS Sports reported on Aug. 19, 2022, a six-year deal under which CBS and Paramount are the UEFA club competitions' U.S. home through 2029-30. Paramount+ says on its schedule page, published Nov. 13, 2026, that it streams all 2026-27 Champions League matches, "live and on demand". Which matchday 6 games also air on a CBS TV channel is not yet announced. In the UK, check your provider's listings.
 
 ## Is there a printable Champions League matchday 6 sheet?
 
