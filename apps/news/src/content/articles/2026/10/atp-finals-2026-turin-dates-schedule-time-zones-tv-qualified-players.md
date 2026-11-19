@@ -21,8 +21,7 @@ hero:
 summary:
   - "The Nitto ATP Finals will take place from Nov. 15 to 22, 2026 at the Inalpi Arena in Turin, Italy, a Sunday to a Sunday, according to the event's official site."
   - "The event's TV page, checked Nov. 13, 2026, lists Tennis Channel in the United States, Sky UK in the United Kingdom, The Sports Network (TSN) in Canada, and Sky Italia and Mediaset in Italy."
-  - "The field is set. The Nov. 12 draw put Alexander Zverev, Ben Shelton, Arthur Fils and Rafael Jodar in the John McEnroe Group, and Carlos Alcaraz, Daniil Medvedev, Flavio Cobolli and Frances Tiafoe in the Ivan Lendl Group. The eight doubles teams are set too."
-  - "After three round-robin days, Zverev and Alcaraz have qualified for the semifinals, per the ATP Tour (Nov. 17 and 18). Two singles spots are open, and Marcelo Arevalo/Mate Pavic and Kevin Krawietz/Tim Puetz have reached the doubles semifinals."
+  - "After four days of round-robin play, Zverev (John McEnroe Group) and Alcaraz (Ivan Lendl Group) have qualified for the semifinals, per the ATP Tour (Nov. 17 and 18). Two singles spots are open, and Marcelo Arevalo/Mate Pavic and Kevin Krawietz/Tim Puetz have reached the doubles semifinals."
   - "On Thursday, Nov. 19, Shelton plays Jodar not before 2 p.m. in Turin (8 a.m. Eastern Time (ET)) and Zverev plays Fils not before 8:30 p.m. (2:30 p.m. ET), according to the ATP Tour."
 faq:
   - q: "What are the ATP Finals 2026 dates?"
