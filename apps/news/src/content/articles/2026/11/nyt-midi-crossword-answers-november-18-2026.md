@@ -116,7 +116,7 @@ Start with the entries that cross those tall columns and need no outside knowled
 
 The rules of the format live on our [Midi Crossword page](/news/topic/nyt-midi-crossword/#how-it-works), and today's grid is one square taller than it is wide.
 
-Tuesday's grid is in the [Nov. 17 Midi page](/news/nyt-midi-crossword-answers-november-17-2026/). Plan the week with our [weekly planner you can print](/printable-weekly-calendar.html) or the [printable calendar for November 2026](/november-calendars.html).
+Tuesday's grid is in the [Nov. 17 Midi page](/news/nyt-midi-crossword-answers-november-17-2026/), and Thursday's is in the [Nov. 19 Midi page](/news/nyt-midi-crossword-answers-november-19-2026/). Plan the week with our [weekly planner you can print](/printable-weekly-calendar.html) or the [printable calendar for November 2026](/november-calendars.html).
 
 More of Wednesday's puzzles: the [Mini Crossword](/news/nyt-mini-crossword-answers-november-18-2026/), [Wordle hints](/news/wordle-hint-answer-today-november-18-2026-1978/), [Connections hints](/news/nyt-connections-hints-answers-november-18-2026-1256/), [Strands hints](/news/nyt-strands-hints-answers-november-18-2026-990/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-18-2026/), [Pips hints](/news/nyt-pips-hints-answers-november-18-2026/), [Letter Boxed hints](/news/nyt-letter-boxed-answer-hints-november-18-2026/) and [Contexto hints](/news/contexto-answer-hints-november-18-2026-1522/).
 

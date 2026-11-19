@@ -1,0 +1,1140 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-19",
+ "constructors": [
+  "James Mattina"
+ ],
+ "width": 15,
+ "height": 15,
+ "cells": [
+  "A",
+  "T",
+  "M",
+  null,
+  "B",
+  "E",
+  "E",
+  "P",
+  null,
+  "S",
+  "C",
+  "A",
+  "L",
+  "A",
+  "R",
+  "L",
+  "O",
+  "O",
+  null,
+  "O",
+  "V",
+  "E",
+  "R",
+  null,
+  "T",
+  "H",
+  "R",
+  "O",
+  "N",
+  "E",
+  "F",
+  "O",
+  "R",
+  "T",
+  "H",
+  "E",
+  "L",
+  "O",
+  "V",
+  "E",
+  "O",
+  "F",
+  "G",
+  "O",
+  "D",
+  "A",
+  "C",
+  "T",
+  "I",
+  "O",
+  "N",
+  null,
+  "G",
+  "I",
+  "N",
+  null,
+  "S",
+  "I",
+  "R",
+  "E",
+  "L",
+  "O",
+  "A",
+  "N",
+  null,
+  null,
+  "D",
+  "E",
+  "L",
+  "T",
+  "A",
+  null,
+  "C",
+  "A",
+  "Y",
+  "F",
+  "O",
+  "R",
+  "G",
+  "O",
+  "O",
+  "D",
+  "N",
+  "E",
+  "S",
+  "S",
+  "S",
+  "A",
+  "K",
+  "E",
+  "A",
+  "L",
+  "S",
+  null,
+  "T",
+  "R",
+  "A",
+  "Y",
+  null,
+  null,
+  "C",
+  "E",
+  "L",
+  "S",
+  null,
+  null,
+  null,
+  null,
+  "T",
+  "H",
+  "E",
+  "Y",
+  null,
+  "A",
+  "L",
+  "E",
+  "X",
+  null,
+  null,
+  null,
+  null,
+  "D",
+  "O",
+  "L",
+  "E",
+  null,
+  null,
+  "U",
+  "D",
+  "O",
+  "N",
+  null,
+  "N",
+  "D",
+  "A",
+  "F",
+  "O",
+  "R",
+  "C",
+  "R",
+  "Y",
+  "I",
+  "N",
+  "O",
+  "U",
+  "T",
+  "L",
+  "O",
+  "U",
+  "D",
+  "L",
+  "E",
+  "D",
+  null,
+  "S",
+  "E",
+  "N",
+  "D",
+  "S",
+  null,
+  null,
+  "O",
+  "T",
+  "O",
+  "H",
+  "A",
+  "C",
+  "E",
+  "R",
+  null,
+  "S",
+  "K",
+  "Y",
+  null,
+  "C",
+  "A",
+  "N",
+  "A",
+  "P",
+  "E",
+  "W",
+  "H",
+  "A",
+  "T",
+  "W",
+  "A",
+  "S",
+  "I",
+  "M",
+  "A",
+  "D",
+  "E",
+  "F",
+  "O",
+  "R",
+  "E",
+  "I",
+  "L",
+  "E",
+  "E",
+  "N",
+  null,
+  "N",
+  "A",
+  "S",
+  "A",
+  null,
+  "A",
+  "L",
+  "E",
+  "D",
+  "I",
+  "S",
+  "S",
+  "E",
+  "D",
+  null,
+  "G",
+  "R",
+  "A",
+  "M",
+  null,
+  "N",
+  "Y",
+  "S"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Cash-only takeout spot?",
+   "cells": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "4",
+   "text": "Signal to a slowpoke",
+   "cells": [
+    4,
+    5,
+    6,
+    7
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "Like time, but not space",
+   "cells": [
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "John overseas",
+   "cells": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Flipped, as an egg",
+   "cells": [
+    19,
+    20,
+    21,
+    22
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "It's fit for a queen",
+   "cells": [
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Chapels?",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Word heard after a clapperboard \"claps\"",
+   "cells": [
+    45,
+    46,
+    47,
+    48,
+    49,
+    50
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Ingredient in a French 75",
+   "cells": [
+    52,
+    53,
+    54
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "\"Your Majesty\"",
+   "cells": [
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Assistance in getting through rough times, maybe",
+   "cells": [
+    60,
+    61,
+    62,
+    63
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "American rival",
+   "cells": [
+    66,
+    67,
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Landform vulnerable to rising sea levels",
+   "cells": [
+    72,
+    73,
+    74
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "Charities?",
+   "cells": [
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "31",
+   "text": "Subject of a viral 2014 \"challenge,\" for short",
+   "cells": [
+    90,
+    91,
+    92
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "32",
+   "text": "Breakfast-in-bed item",
+   "cells": [
+    94,
+    95,
+    96,
+    97
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "Hand-painted frames",
+   "cells": [
+    100,
+    101,
+    102,
+    103
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Merriam-Webster's 2019 Word of the Year, for its use as a singular",
+   "cells": [
+    108,
+    109,
+    110,
+    111
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "35",
+   "text": "\"A Clockwork Orange\" protagonist",
+   "cells": [
+    113,
+    114,
+    115,
+    116
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "37",
+   "text": "Hand (out)",
+   "cells": [
+    121,
+    122,
+    123,
+    124
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "39",
+   "text": "Noodle with a chewy-yet-soft texture (known as \"mochi-mochi\")",
+   "cells": [
+    127,
+    128,
+    129,
+    130
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "40",
+   "text": "Doc that prevents leaks",
+   "cells": [
+    132,
+    133,
+    134
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "43",
+   "text": "Megaphones?",
+   "cells": [
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "47",
+   "text": "Took charge",
+   "cells": [
+    150,
+    151,
+    152
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "48",
+   "text": "Ships",
+   "cells": [
+    154,
+    155,
+    156,
+    157,
+    158
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "49",
+   "text": "Texter's \"That being said ...\"",
+   "cells": [
+    161,
+    162,
+    163,
+    164
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "50",
+   "text": "Maker of Iconia tablets",
+   "cells": [
+    165,
+    166,
+    167,
+    168
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "52",
+   "text": "View from a hammock",
+   "cells": [
+    170,
+    171,
+    172
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "53",
+   "text": "Party starter",
+   "cells": [
+    174,
+    175,
+    176,
+    177,
+    178,
+    179
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "55",
+   "text": "\"Barbie\" ballad by Billie Eilish ... or the question answered by 17-, 27- and 43-Across",
+   "cells": [
+    180,
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "58",
+   "text": "___ Gu, three-time Olympic gold medalist in freestyle skiing",
+   "cells": [
+    195,
+    196,
+    197,
+    198,
+    199,
+    200
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "59",
+   "text": "Agcy. consulted in the making of 2026's \"Project Hail Mary\"",
+   "cells": [
+    202,
+    203,
+    204,
+    205
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "60",
+   "text": "Drink sold by the yard",
+   "cells": [
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "61",
+   "text": "Burned after reading?",
+   "cells": [
+    210,
+    211,
+    212,
+    213,
+    214,
+    215
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "62",
+   "text": "Equivalent of five carats",
+   "cells": [
+    217,
+    218,
+    219,
+    220
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "63",
+   "text": "Home of the Adirondacks: Abbr.",
+   "cells": [
+    222,
+    223,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Some salad sprouts",
+   "cells": [
+    0,
+    15,
+    30,
+    45,
+    60,
+    75,
+    90
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "\"Wow! Just wow!\"",
+   "cells": [
+    1,
+    16,
+    31,
+    46,
+    61,
+    76,
+    91
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Some binders",
+   "cells": [
+    2,
+    17,
+    32,
+    47,
+    62,
+    77,
+    92
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Eclectic aesthetic",
+   "cells": [
+    4,
+    19,
+    34,
+    49
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Uniform",
+   "cells": [
+    5,
+    20,
+    35,
+    50
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Dragon roll ingredient",
+   "cells": [
+    6,
+    21,
+    36
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Offspring",
+   "cells": [
+    7,
+    22,
+    37,
+    52,
+    67,
+    82,
+    97
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Remedies for the brokenhearted?",
+   "cells": [
+    9,
+    24,
+    39,
+    54,
+    69,
+    84
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Comedian Margaret",
+   "cells": [
+    10,
+    25,
+    40
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Puppy sounds",
+   "cells": [
+    11,
+    26,
+    41,
+    56
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Sensible",
+   "cells": [
+    12,
+    27,
+    42,
+    57,
+    72,
+    87,
+    102
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Polar pullovers",
+   "cells": [
+    13,
+    28,
+    43,
+    58,
+    73,
+    88,
+    103
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "It may go from dusk till dawn",
+   "cells": [
+    14,
+    29,
+    44,
+    59,
+    74,
+    89
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "[Your attention, please!]",
+   "cells": [
+    33,
+    48,
+    63,
+    78
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "Hideous",
+   "cells": [
+    38,
+    53,
+    68,
+    83
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "6/6 event",
+   "cells": [
+    66,
+    81,
+    96,
+    111
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Upward trajectory",
+   "cells": [
+    70,
+    85,
+    100,
+    115,
+    130,
+    145
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "Not us",
+   "cells": [
+    79,
+    94,
+    109,
+    124,
+    139,
+    154
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "29",
+   "text": "Diamond drilling target",
+   "cells": [
+    80,
+    95,
+    110
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "30",
+   "text": "Word before work or life",
+   "cells": [
+    86,
+    101,
+    116
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "34",
+   "text": "A little pampering?",
+   "cells": [
+    108,
+    123,
+    138
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "35",
+   "text": "Fusses",
+   "cells": [
+    113,
+    128,
+    143,
+    158
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "36",
+   "text": "First lady before Eleanor",
+   "cells": [
+    114,
+    129,
+    144
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "37",
+   "text": "Third woman to win the Grammy Award for Best Rap Album (2025)",
+   "cells": [
+    121,
+    136,
+    151,
+    166,
+    181,
+    196,
+    211
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "38",
+   "text": "Trials and tribulations",
+   "cells": [
+    122,
+    137,
+    152,
+    167,
+    182,
+    197,
+    212
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "39",
+   "text": "Eternal",
+   "cells": [
+    127,
+    142,
+    157,
+    172,
+    187,
+    202,
+    217
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "40",
+   "text": "Equivalent of a thumbs-down emoji",
+   "cells": [
+    132,
+    147,
+    162,
+    177,
+    192,
+    207,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "41",
+   "text": "Uber and Lyft, for example",
+   "cells": [
+    133,
+    148,
+    163,
+    178,
+    193,
+    208,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "42",
+   "text": "Sticks (to)",
+   "cells": [
+    134,
+    149,
+    164,
+    179,
+    194,
+    209,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "43",
+   "text": "Like antiheroes",
+   "cells": [
+    135,
+    150,
+    165,
+    180,
+    195,
+    210
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "44",
+   "text": "Tenet of improv",
+   "cells": [
+    140,
+    155,
+    170,
+    185,
+    200,
+    215
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "45",
+   "text": "\"CMYK\" supplies",
+   "cells": [
+    141,
+    156,
+    171,
+    186
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "46",
+   "text": "One and only",
+   "cells": [
+    146,
+    161,
+    176,
+    191
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "51",
+   "text": "GPS suggestions: Abbr.",
+   "cells": [
+    168,
+    183,
+    198,
+    213
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "53",
+   "text": "Julio's house",
+   "cells": [
+    174,
+    189,
+    204,
+    219
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "54",
+   "text": "Garden figure?",
+   "cells": [
+    175,
+    190,
+    205,
+    220
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "56",
+   "text": "Pint-size",
+   "cells": [
+    184,
+    199,
+    214
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "57",
+   "text": "Do a bang-up job on?",
+   "cells": [
+    188,
+    203,
+    218
+   ]
+  }
+ ]
+}
