@@ -14,7 +14,12 @@
   // (dashboard or API) sends traffic back to the DNS origin: the rollback in docs/DEPLOY.md.
   // One trigger (the Free plan allows five per account); cloudflare/cron.js picks the job.
   "triggers": { "crons": ["*/5 * * * *"] },
-  "routes": [{ "pattern": "freshcalendars.com/*", "zone_name": "freshcalendars.com" }],
+  // The second route is one file on the shop host (a FreshStore site proxied through this zone):
+  // the IndexNow key file, which the platform does not serve for a key set through its API.
+  "routes": [
+    { "pattern": "freshcalendars.com/*", "zone_name": "freshcalendars.com" },
+    { "pattern": "shop.freshcalendars.com/0342213edebec75d611fd78915bd5f76.txt", "zone_name": "freshcalendars.com" }
+  ],
   "assets": {
     "directory": "dist/cf/public",
     "binding": "ASSETS",
