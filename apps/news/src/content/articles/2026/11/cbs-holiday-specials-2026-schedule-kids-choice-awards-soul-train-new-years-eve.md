@@ -1,9 +1,9 @@
 ---
 title: "CBS Holiday Schedule 2026: 11 Specials, Nov. 14 to Dec. 31"
-description: "CBS holiday schedule 2026 starts Sat., Nov. 14 with the Kids' Choice Awards at 8 p.m. ET. A table lists all 11 dates in ET and PT, plus a free printable."
+description: "CBS holiday schedule 2026 began Sat., Nov. 14 with the Kids' Choice Awards at 8 p.m. ET. A table lists all 11 dates in ET and PT, plus a free printable."
 type: news
 publishedAt: "2026-11-01T08:44:00-05:00"
-updatedAt: "2026-11-13T16:13:00-05:00"
+updatedAt: "2026-11-19T01:42:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["CBS holiday specials 2026 schedule", "Kids' Choice Awards 2026 date time CBS", "Pillsbury Bake-Off 2026 CBS", "New Year's Eve Live Nashville's Big Bash 2026", "Soul Train Awards 2026 CBS"]
@@ -13,7 +13,7 @@ assets:
   overlay: true
   kicker: "CBS holiday specials 2026 · Sat., Nov. 14"
   date: "2026-11-14"
-  card: { top: "CBS holiday specials begin", big: "Sat., Nov. 14", bottom: "Kids' Choice Awards, 8 p.m. ET" }
+  card: { top: "CBS holiday specials began", big: "Sat., Nov. 14", bottom: "Kids' Choice Awards, 8 p.m. ET" }
   printable:
     slug: cbs-holiday-specials-2026-tv-schedule
     group: cbs-holiday-specials-2026
@@ -22,7 +22,7 @@ assets:
     layout: list
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Sat., Nov. 14", "8 p.m. ET: Nickelodeon Kids' Choice Awards (5 p.m. PT)"]
+      - ["Sat., Nov. 14", "8 p.m. ET: Nickelodeon Kids' Choice Awards, aired (5 p.m. PT)"]
       - ["Mon., Nov. 23", "8 p.m. ET: Pillsbury Bake-Off Classic"]
       - ["Thu., Nov. 26", "8 p.m. ET: The JLo Show"]
       - ["Fri., Nov. 27", "8 p.m. ET: Soul Train Awards"]
@@ -35,7 +35,6 @@ assets:
       - ["Sat., Dec. 26", "9 p.m. ET: Voices of Hope"]
       - ["Thu., Dec. 31", "8 p.m. ET: New Year's Eve Live: Nashville's Big Bash (continues 10:30 p.m. to 1:05 a.m. ET)"]
     note: "Source: CBS Entertainment press release, Oct. 29, 2026. Times are Eastern Time (ET); CBS lists the same clock time for Pacific Time (PT) except the Kids' Choice Awards (5 p.m. PT). Check local listings for other zones."
-    inkSaver: true
     description: "One-page list of all 11 CBS holiday specials from Nov. 14 to Dec. 31, 2026, with the date and Eastern Time start for each. Free to print."
     alt: "Printable CBS holiday specials 2026 TV schedule listing 11 specials from Nov. 14 to Dec. 31 with dates and Eastern Time start times"
 hero:
@@ -52,12 +51,12 @@ hero:
     authorUrl: "https://www.flickr.com/people/22017657@N05"
 summary:
   - "CBS's holiday specials run Saturday, Nov. 14 to Thursday, Dec. 31, 2026, according to a CBS Entertainment release dated Oct. 29, 2026."
-  - "The Nickelodeon Kids' Choice Awards (KCAs) open the run at 8 p.m. Eastern Time (ET) Nov. 14, and New Year's Eve Live: Nashville's Big Bash closes it Dec. 31."
+  - "The Nickelodeon Kids' Choice Awards (KCAs) opened the run at 8 p.m. Eastern Time (ET) Nov. 14, and New Year's Eve Live: Nashville's Big Bash closes it Dec. 31."
   - "Thanksgiving week has four specials: Nov. 23 (Pillsbury Bake-Off Classic), Nov. 26 (The JLo Show), Nov. 27 (Soul Train Awards) and Nov. 28 (A Paw Patrol Christmas, a repeat)."
   - "A free one-page printable lists all 11 dates with ET start times."
 faq:
   - q: "When are the Kids' Choice Awards 2026 on CBS?"
-    a: "Saturday, Nov. 14, 2026, 8 to 9:30 p.m. Eastern Time (5 to 6:30 p.m. Pacific Time), per CBS. Alex Warren hosts, and it is the first time the show airs on the CBS Television Network and Nickelodeon."
+    a: "Saturday, Nov. 14, 2026, 8 to 9:30 p.m. Eastern Time (5 to 6:30 p.m. Pacific Time), per CBS. Alex Warren hosted, and it was the first time the show aired on the CBS Television Network and Nickelodeon."
   - q: "When is the Pillsbury Bake-Off on CBS in 2026?"
     a: "The Pillsbury Bake-Off Classic airs Monday, Nov. 23, 2026, 8 to 10 p.m. Eastern Time and Pacific Time, hosted by Drew Barrymore, according to CBS."
   - q: "What time is New Year's Eve Live: Nashville's Big Bash on CBS?"
@@ -100,26 +99,18 @@ downloads:
     pdf: "/news/downloads/cbs-holiday-specials-2026/cbs-holiday-specials-2026-tv-schedule.pdf"
     png: "/news/downloads/cbs-holiday-specials-2026/cbs-holiday-specials-2026-tv-schedule.png"
     pages: 1
-  - group: "CBS Holiday Specials 2026 TV Schedule printables"
-    title: "CBS Holiday Specials 2026 TV Schedule (ink saver)"
-    description: "One-page list of all 11 CBS holiday specials from Nov. 14 to Dec. 31, 2026, with the date and Eastern Time start for each. Free to print. Ink-saver version."
-    preview: ../../../../assets/news/cbs-holiday-specials-2026/cbs-holiday-specials-2026-tv-schedule-ink.png
-    alt: "Printable CBS holiday specials 2026 TV schedule listing 11 specials from Nov. 14 to Dec. 31 with dates and Eastern Time start times, ink-saver version"
-    pdf: "/news/downloads/cbs-holiday-specials-2026/cbs-holiday-specials-2026-tv-schedule-ink.pdf"
-    png: "/news/downloads/cbs-holiday-specials-2026/cbs-holiday-specials-2026-tv-schedule-ink.png"
-    pages: 1
 draft: false
 ---
 
-**CBS's holiday special run starts Saturday, Nov. 14, 2026 with the Nickelodeon Kids' Choice Awards (KCAs) at 8 p.m. Eastern Time (ET), per a CBS Entertainment release dated Oct. 29, and runs to New Year's Eve.** CBS lists 11 dates in the release, which says the programming "airs between Nov. 14 and Dec. 31." The table below puts them in one place, and a printable sheet follows.
+**CBS's holiday special run began Saturday, Nov. 14, 2026 with the Nickelodeon Kids' Choice Awards (KCAs) at 8 p.m. Eastern Time (ET), per a CBS Entertainment release dated Oct. 29, and runs to New Year's Eve.** CBS lists 11 dates in the release, which says the programming "airs between Nov. 14 and Dec. 31." The table below puts them in one place, and a printable sheet follows.
 
-Times are as CBS lists them. Most specials show the same clock time in Eastern Time and Pacific Time (PT); the KCAs are the exception at 5 p.m. PT. The release gives no Central or Mountain times, so check local listings for those zones.
+Times are as CBS lists them. Most specials show the same clock time in Eastern Time and Pacific Time (PT); the KCAs were the exception at 5 p.m. PT. The release gives no Central or Mountain times, so check local listings for those zones.
 
 ## What is on the CBS holiday specials schedule for 2026?
 
 | Date | Day | Time (ET) | Time (PT) | Special | Repeat or first |
 |---|---|---|---|---|---|
-| Nov. 14 | Saturday | 8:00-9:30 p.m. | 5:00-6:30 p.m. | CBS Presents Nickelodeon Kids' Choice Awards | First time on CBS |
+| Nov. 14 | Saturday | 8:00-9:30 p.m. | 5:00-6:30 p.m. | CBS Presents Nickelodeon Kids' Choice Awards | First time on CBS (aired) |
 | Nov. 23 | Monday | 8:00-10:00 p.m. | 8:00-10:00 p.m. | Pillsbury Bake-Off Classic | Returning to primetime |
 | Nov. 26 | Thursday | 8:00-10:00 p.m. | 8:00-10:00 p.m. | The JLo Show | Not labeled a repeat |
 | Nov. 27 | Friday | 8:00-10:00 p.m. | 8:00-10:00 p.m. | Soul Train Awards (also on Black Entertainment Television (BET)) | Not labeled a repeat |
@@ -132,11 +123,11 @@ Times are as CBS lists them. Most specials show the same clock time in Eastern T
 | Dec. 26 | Saturday | 9:00-10:00 p.m. | 9:00-10:00 p.m. | Voices of Hope | Not labeled a repeat |
 | Dec. 31 | Thursday | 8:00-10:00 p.m. and 10:30 p.m.-1:05 a.m. | 8:00-10:00 p.m. and 10:30 p.m.-1:05 a.m. | New Year's Eve Live: Nashville's Big Bash | Not labeled a repeat |
 
-The last column marks only what CBS states: "repeat" for A Paw Patrol Christmas and Reindeer in Here, the KCAs' first airing on CBS and the Bake-Off's return to primetime. Other titles are shown as not labeled a repeat, because the release does not call them new. Later CBS and BET releases add streaming and network details, covered below.
+The last column marks only what CBS states: "repeat" for A Paw Patrol Christmas and Reindeer in Here, the KCAs' first airing on CBS (Nov. 14, now past) and the Bake-Off's return to primetime. Other titles are shown as not labeled a repeat, because the release does not call them new. Later CBS and BET releases add streaming and network details, covered below.
 
 ## When are the Kids' Choice Awards 2026 on CBS?
 
-The Nickelodeon Kids' Choice Awards air Saturday, Nov. 14, 2026, from 8 to 9:30 p.m. ET and 5 to 6:30 p.m. PT. CBS says it is the first time the show airs on the CBS Television Network and Nickelodeon. Alex Warren hosts, and the show celebrates fans' favorites across film, TV, music, gaming and sports.
+The Nickelodeon Kids' Choice Awards aired Saturday, Nov. 14, 2026, from 8 to 9:30 p.m. ET and 5 to 6:30 p.m. PT. CBS says it was the first time the show aired on the CBS Television Network and Nickelodeon. Alex Warren hosted, and the show celebrated fans' favorites across film, TV, music, gaming and sports.
 
 ## Which CBS specials air in Thanksgiving week 2026?
 
@@ -163,7 +154,7 @@ New Year's Eve Live: Nashville's Big Bash airs Thursday, Dec. 31, 2026, in two p
 
 ## Can I print the CBS holiday specials 2026 schedule?
 
-The free sheet lists all 11 dates with their ET start times on one US Letter page, with an ink-saver version for home printers. It is drawn from CBS's Oct. 29 release. Pair it with a [November 2026 printable calendar](/november-calendars.html) and a [December 2026 printable calendar](/december-calendars.html) to plan viewing nights. Other networks run their own seasons: see the [Hallmark Countdown to Christmas 2026 schedule](/news/hallmark-countdown-to-christmas-2026-schedule-printable/) and the [Lifetime Christmas movies 2026 schedule](/news/lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime/).
+The free sheet lists all 11 dates with their ET start times on one US Letter page. It is drawn from CBS's Oct. 29 release. Pair it with a [November 2026 printable calendar](/november-calendars.html) and a [December 2026 printable calendar](/december-calendars.html) to plan viewing nights. Other networks run their own seasons: see the [Hallmark Countdown to Christmas 2026 schedule](/news/hallmark-countdown-to-christmas-2026-schedule-printable/) and the [Lifetime Christmas movies 2026 schedule](/news/lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime/).
 
 ## Which CBS holiday special details are still missing?
 
