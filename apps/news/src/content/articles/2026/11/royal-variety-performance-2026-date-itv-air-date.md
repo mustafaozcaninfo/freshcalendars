@@ -123,7 +123,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [strictly-come-dancing-2026-final-date-19-december-remaining-weeks, im-a-celebrity-2026-start-date-monday-16-november-itv, the-traitors-2027-start-date-series-5-bbc]
+related: [strictly-come-dancing-2026-final-date-19-december-remaining-weeks, im-a-celebrity-2026-start-date-monday-16-november-itv, sports-personality-of-the-year-2026-date-time-december-13]
 draft: false
 ---
 
