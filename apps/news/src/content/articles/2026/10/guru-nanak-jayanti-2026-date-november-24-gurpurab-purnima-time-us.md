@@ -70,7 +70,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/printable-yearly-calendar.html"
     label: "2026 printable yearly calendar"
-related: [diwali-2026-date-lakshmi-puja-time-usa, november-2026-important-dates-days-until]
+related: [diwali-2026-date-lakshmi-puja-time-usa, november-2026-important-dates-days-until, bahai-holy-days-2026-day-of-the-covenant-november-26-ascension-november-28]
 assets:
   overlay: true
   kicker: "Guru Nanak Jayanti 2026 · Tue., Nov. 24"
