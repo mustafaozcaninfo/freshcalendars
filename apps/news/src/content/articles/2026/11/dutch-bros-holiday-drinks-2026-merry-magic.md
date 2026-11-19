@@ -80,7 +80,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [holiday-menus-2026-every-chain-tracker, starbucks-holiday-menu-2026-red-cup-day-date, caribou-coffee-holiday-menu-2026-cookie-butter-white-mocha]
+related: [holiday-menus-2026-every-chain-tracker, starbucks-holiday-menu-2026-red-cup-day-date, scooters-coffee-holiday-menu-2026-candy-cane-chaos-mocha]
 downloads:
   - group: "Dutch Bros Holiday Drinks 2026 printables"
     title: "Dutch Bros Holiday Drinks 2026: New and Returning"

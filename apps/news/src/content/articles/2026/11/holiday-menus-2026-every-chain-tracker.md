@@ -158,7 +158,7 @@ None of the sources we read gave an end date. Where a chain says "while supplies
 | McDonald's | Tue., Nov. 3 | Frosted Cranberry Splash with Sprite, Red Bull Frosted Cranberry Energizer, Cookie Butter Frappe, Latte and Iced Coffee | Limited time, no end date announced | Nation's Restaurant News and Dexerto, Oct. 27, 2026 |
 | Dutch Bros | On the menu Sun., Nov. 1 | Merry Magic, Sprinkle Cookie, Holiday Sugar Cookie Cake Pop, Hazelnut Truffle, Candy Cane | While supplies last | Dutch Bros, Nov. 1, 2026 |
 | Caribou Coffee | Mon., Nov. 2 | Cookie Butter White Mocha, Warm Spice Morning Bun, Ho Ho Mint Mocha, Spicy Mocha | While supplies last | Caribou Coffee via PR Newswire, Oct. 13, 2026 |
-| Scooter's Coffee | Sun., Nov. 1 (app users Thu., Oct. 29) | Colada Craze Red Bull Infusion, among other items | Not given in the text we read | Scooter's Coffee, Oct. 29, 2026 |
+| [Scooter's Coffee](/news/scooters-coffee-holiday-menu-2026-candy-cane-chaos-mocha/) | Sun., Nov. 1 (app users Thu., Oct. 29) | Colada Craze Red Bull Infusion, among other items | Not given in the text we read | Scooter's Coffee, Oct. 29, 2026 |
 | Cracker Barrel | Tue., Oct. 20 | Cinnamon Swirl Pancakes, Country Fried Turkey Sandwich, Cinnamon Swirl Latte | Limited time throughout the holiday season | Cracker Barrel via PR Newswire, Oct. 20, 2026 |
 
 The McDonald's date comes from newsroom reports because we could not read a McDonald's page on it; Nation's Restaurant News and Dexerto both report Nov. 3. Dutch Bros' release is dated Nov. 1 and says the lineup is "available now", so we list Nov. 1 as the date it was on the menu, not a separate launch time. Caribou Coffee's row cites the PR Newswire copy of its release.
