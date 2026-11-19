@@ -172,7 +172,7 @@ The hub explains the daily format on our [NYT Crossword page](/news/topic/nyt-cr
 
 Mark the solving days on our [printable calendar for November 2026](/november-calendars.html) or the [weekly calendar to print](/printable-weekly-calendar.html).
 
-More puzzles for Wednesday: [Wordle](/news/wordle-hint-answer-today-november-18-2026-1978/), [Connections](/news/nyt-connections-hints-answers-november-18-2026-1256/), [Strands](/news/nyt-strands-hints-answers-november-18-2026-990/), [Spelling Bee](/news/nyt-spelling-bee-hints-answers-november-18-2026/), [Pips](/news/nyt-pips-hints-answers-november-18-2026/), [Letter Boxed](/news/nyt-letter-boxed-answer-hints-november-18-2026/) and the [Mini Crossword](/news/nyt-mini-crossword-answers-november-18-2026/). Tuesday's grid is in our [Crossword answers for Nov. 17](/news/nyt-crossword-answers-november-17-2026/).
+More puzzles for Wednesday: [Wordle](/news/wordle-hint-answer-today-november-18-2026-1978/), [Connections](/news/nyt-connections-hints-answers-november-18-2026-1256/), [Strands](/news/nyt-strands-hints-answers-november-18-2026-990/), [Spelling Bee](/news/nyt-spelling-bee-hints-answers-november-18-2026/), [Pips](/news/nyt-pips-hints-answers-november-18-2026/), [Letter Boxed](/news/nyt-letter-boxed-answer-hints-november-18-2026/) and the [Mini Crossword](/news/nyt-mini-crossword-answers-november-18-2026/). Tuesday's grid is in our [Crossword answers for Nov. 17](/news/nyt-crossword-answers-november-17-2026/), and Thursday's is in our [Crossword answers for Nov. 19](/news/nyt-crossword-answers-november-19-2026/).
 
 ## Today's NYT Crossword answers (spoilers)
 

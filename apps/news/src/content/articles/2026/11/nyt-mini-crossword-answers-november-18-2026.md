@@ -88,7 +88,7 @@ The paired blocks shape today's layout, and the rules are on our [Mini Crossword
 
 Log your solve time on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html).
 
-More for Wednesday, Nov. 18: [Wordle hints](/news/wordle-hint-answer-today-november-18-2026-1978/), [Connections hints](/news/nyt-connections-hints-answers-november-18-2026-1256/), [Strands hints](/news/nyt-strands-hints-answers-november-18-2026-990/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-18-2026/), [Pips hints](/news/nyt-pips-hints-answers-november-18-2026/) and [Letter Boxed hints](/news/nyt-letter-boxed-answer-hints-november-18-2026/). Tuesday's grid is in the [Mini answers for Nov. 17](/news/nyt-mini-crossword-answers-november-17-2026/).
+More for Wednesday, Nov. 18: [Wordle hints](/news/wordle-hint-answer-today-november-18-2026-1978/), [Connections hints](/news/nyt-connections-hints-answers-november-18-2026-1256/), [Strands hints](/news/nyt-strands-hints-answers-november-18-2026-990/), [Spelling Bee hints](/news/nyt-spelling-bee-hints-answers-november-18-2026/), [Pips hints](/news/nyt-pips-hints-answers-november-18-2026/) and [Letter Boxed hints](/news/nyt-letter-boxed-answer-hints-november-18-2026/). Tuesday's grid is in the [Mini answers for Nov. 17](/news/nyt-mini-crossword-answers-november-17-2026/). Thursday's grid is in the [Mini answers for Nov. 19](/news/nyt-mini-crossword-answers-november-19-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 
