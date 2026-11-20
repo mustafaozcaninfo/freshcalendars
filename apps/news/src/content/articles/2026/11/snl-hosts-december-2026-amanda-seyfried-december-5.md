@@ -63,11 +63,11 @@ sources:
     url: "https://tvline.com/2317069/saturday-night-live-amanda-seyfried-host-snl-december-5-2026"
     publisher: "TVLine"
     date: "2026-11-15"
-  - title: "Don Toliver announces new album NITROUS"
+  - title: "Don Toliver announces new album Nitrous"
     url: "https://stereogum.com/2518530/don-toliver-announces-new-album-nitrous-leads-rap-grammy-nominations-books-snl-faces-sample-lawsuit/music"
     publisher: "Stereogum"
     date: "2026-11-18"
-  - title: "Don Toliver NITROUS release date"
+  - title: "Don Toliver Nitrous release date"
     url: "https://www.hotnewhiphop.com/1016738-don-toliver-nitrous-release-date-tame-impala"
     publisher: "HotNewHipHop"
     date: "2026-11-18"
@@ -118,7 +118,7 @@ draft: false
 
 TheWrap reported on Nov. 14, 2026 that NBC "has tapped “You Can See Everything” star Amanda Seyfried to host its forthcoming Dec. 5 episode." It added: "The episode will mark Seyfried's “SNL” hosting debut." TVLine, on Nov. 15, wrote that she "will make her "SNL" hosting debut on Saturday, December 5."
 
-Toliver is the musical guest. TheWrap said "It will also see Toliver perform on “SNL” for the first time." Music Times called Seyfried "Season 52's fourth first-time host." Toliver's album NITROUS is due Dec. 4, the day before, according to Stereogum and HotNewHipHop (both Nov. 18, 2026).
+Toliver is the musical guest. TheWrap said "It will also see Toliver perform on “SNL” for the first time." Music Times called Seyfried "Season 52's fourth first-time host." Toliver's album Nitrous is due Dec. 4, the day before, according to Stereogum and HotNewHipHop (both Nov. 18, 2026).
 
 ## What time is SNL on Dec. 5, and where can you watch?
 
@@ -147,11 +147,11 @@ For Dec. 12 and Dec. 19, no host or musical guest is announced. Music Times says
 
 ## Who has hosted SNL season 52 so far?
 
-NBC Insider's host and musical guest guides list these six episodes. Seyfried's Dec. 5 show would be the seventh listed here. TVLine counts John Mulaney's Nov. 14 turn as his seventh time hosting. More on the first three months is in the [November 2026 SNL host story](/news/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule/).
+NBC Insider's host and musical guest guides list these six episodes. TVLine counts John Mulaney's Nov. 14 turn as his seventh time hosting. More on the first three months is in the [November 2026 SNL host story](/news/snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule/).
 
 | Date | Host | Musical guest |
 |---|---|---|
-| Sat., Sept. 26 | Jalen Brunson | KATSEYE |
+| Sat., Sept. 26 | Jalen Brunson | Katseye |
 | Sat., Oct. 3 | Dakota Johnson | Turnstile |
 | Sat., Oct. 10 | Shane Gillis | Rosalía |
 | Sat., Oct. 31 | Inde Navarrette | Gracie Abrams |
