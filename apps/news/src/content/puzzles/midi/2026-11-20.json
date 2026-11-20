@@ -1,0 +1,511 @@
+{
+ "title": "Now in Color",
+ "editor": "Ian Livengood",
+ "publicationDate": "2026-11-20",
+ "constructors": [
+  "Nguhi Ross and Erik Agard"
+ ],
+ "width": 10,
+ "height": 10,
+ "cells": [
+  "S",
+  "O",
+  "C",
+  "C",
+  "E",
+  "R",
+  "B",
+  "A",
+  "L",
+  "L",
+  "O",
+  "R",
+  "E",
+  "O",
+  "C",
+  "O",
+  "O",
+  "K",
+  "I",
+  "E",
+  "D",
+  "A",
+  "L",
+  "M",
+  "A",
+  "T",
+  "I",
+  "A",
+  "N",
+  "S",
+  null,
+  null,
+  null,
+  "M",
+  "R",
+  "T",
+  null,
+  "S",
+  "E",
+  "T",
+  null,
+  "R",
+  "H",
+  "O",
+  "D",
+  "E",
+  null,
+  null,
+  null,
+  null,
+  "W",
+  "E",
+  "A",
+  "N",
+  null,
+  "N",
+  "A",
+  "T",
+  null,
+  null,
+  "A",
+  "W",
+  "W",
+  null,
+  null,
+  null,
+  "M",
+  "U",
+  "A",
+  "Y",
+  "S",
+  "O",
+  "A",
+  "P",
+  "B",
+  "U",
+  "B",
+  "B",
+  "L",
+  "E",
+  "P",
+  "R",
+  "I",
+  "D",
+  "E",
+  "F",
+  "L",
+  "A",
+  "G",
+  "S",
+  "S",
+  "K",
+  "I",
+  "T",
+  "T",
+  "L",
+  "E",
+  "S",
+  null,
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Black-and-white sports equipment",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Black-and-white treat",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Black-and-white dogs",
+   "cells": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "13",
+   "text": "Actor with the catchphrase \"I pity the fool!\"",
+   "cells": [
+    33,
+    34,
+    35
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Matching group",
+   "cells": [
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Providence, ___ Island",
+   "cells": [
+    41,
+    42,
+    43,
+    44,
+    45
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Gradually detach, as from a habit",
+   "cells": [
+    50,
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "___ 20 (critical success in Dungeons & Dragons, informally)",
+   "cells": [
+    55,
+    56,
+    57
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Reaction to kitten photos",
+   "cells": [
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "___ Thai (martial art)",
+   "cells": [
+    66,
+    67,
+    68,
+    69
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "25",
+   "text": "Colorful sphere in a bathtub",
+   "cells": [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Colorful gayborhood banners",
+   "cells": [
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "30",
+   "text": "Colorful candy in a red bag",
+   "cells": [
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Turf sold in rolls",
+   "cells": [
+    0,
+    10,
+    20
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Singer Rita referred to in The Onion headline \"Agent Scores Singer Another Prime Crossword Puzzle Placement\"",
+   "cells": [
+    1,
+    11,
+    21
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Animator's transparent sheet",
+   "cells": [
+    2,
+    12,
+    22
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "A dime a dozen",
+   "cells": [
+    3,
+    13,
+    23,
+    33,
+    43,
+    53
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Digital greeting from Hallmark",
+   "cells": [
+    4,
+    14,
+    24,
+    34,
+    44
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Way past ripe",
+   "cells": [
+    5,
+    15,
+    25,
+    35,
+    45,
+    55
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "\"Sk8er ___\" (2002 Avril Lavigne hit)",
+   "cells": [
+    6,
+    16,
+    26
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Members of the oldest Divine Nine sorority, for short",
+   "cells": [
+    7,
+    17,
+    27,
+    37
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Queue",
+   "cells": [
+    8,
+    18,
+    28,
+    38
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "\"___ we forget ...\"",
+   "cells": [
+    9,
+    19,
+    29,
+    39
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "Alter",
+   "cells": [
+    41,
+    51,
+    61,
+    71,
+    81,
+    91
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "16",
+   "text": "Queen Lili'uokalani's kingdom",
+   "cells": [
+    42,
+    52,
+    62,
+    72,
+    82,
+    92
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Winged pollinators",
+   "cells": [
+    50,
+    60,
+    70,
+    80,
+    90
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "Walk leisurely",
+   "cells": [
+    56,
+    66,
+    76,
+    86,
+    96
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "20",
+   "text": "Heavy marching band instruments",
+   "cells": [
+    57,
+    67,
+    77,
+    87,
+    97
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "Olympic code for Africa's largest country",
+   "cells": [
+    68,
+    78,
+    88
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "\"Can I help you?\"",
+   "cells": [
+    69,
+    79,
+    89
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "Time zone for L.A. summers",
+   "cells": [
+    73,
+    83,
+    93
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "Gamble",
+   "cells": [
+    74,
+    84,
+    94
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "Sports org. with the St. Louis Battlehawks",
+   "cells": [
+    75,
+    85,
+    95
+   ]
+  }
+ ]
+}
