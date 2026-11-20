@@ -116,7 +116,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [fa-cup-second-round-draw-2026-time-tv-ball-numbers, fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times]
+related: [fa-cup-second-round-draw-2026-time-tv-ball-numbers, fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times, scottish-league-cup-final-2026-hibs-rangers-kick-off-time-tv]
 downloads:
   - group: "FA Cup 2026-27 Round Calendar printables"
     title: "FA Cup 2026-27 Round Calendar: Dates and Prize Money"

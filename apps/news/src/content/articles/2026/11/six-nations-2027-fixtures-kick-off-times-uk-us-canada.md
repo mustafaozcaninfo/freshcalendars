@@ -82,7 +82,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us, world-juniors-2027-schedule-canada-usa-game-times-printable, february-2027-calendar-printable]
+related: [nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us, champions-cup-round-2-2026-fixtures-kick-off-times-uk-us, world-juniors-2027-schedule-canada-usa-game-times-printable]
 assets:
   overlay: true
   kicker: "Six Nations 2027 · Fri., Feb. 5"
