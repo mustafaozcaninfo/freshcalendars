@@ -8,7 +8,23 @@
     "label": "Best Buy Black Friday deals begin (10 days)"
   },
   {
+    "date": "2026-11-27",
+    "label": "Best Buy Black Friday store hours: 6 a.m. to 10 p.m."
+  },
+  {
+    "date": "2026-11-29",
+    "label": "Best Buy Cyber Sunday"
+  },
+  {
+    "date": "2026-11-30",
+    "label": "Best Buy Cyber Monday"
+  },
+  {
     "date": "2026-12-01",
-    "label": "Best Buy Cyber Week Deals (Dec. 1-6)"
+    "label": "Best Buy savings continue (Dec. 1-6)"
+  },
+  {
+    "date": "2026-12-06",
+    "label": "Best Buy holiday savings event ends"
   }
 ]
