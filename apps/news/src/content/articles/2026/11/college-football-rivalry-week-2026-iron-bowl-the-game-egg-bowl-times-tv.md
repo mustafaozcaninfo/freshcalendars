@@ -3,7 +3,7 @@ title: "College Football Rivalry Week 2026: Egg Bowl Nov. 27, Game Nov. 28"
 description: "College football Rivalry Week 2026 is Nov. 26-28: Michigan at Ohio State at noon ET on FOX, the Egg Bowl Friday. Iron Bowl time not yet set. Viewing sheet."
 type: news
 publishedAt: "2026-11-01T01:30:00-05:00"
-updatedAt: "2026-11-19T03:30:00-05:00"
+updatedAt: "2026-11-20T07:20:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["rivalry week 2026 schedule", "Iron Bowl 2026 time", "Ohio State Michigan 2026 time", "Egg Bowl 2026", "Black Friday college football 2026"]
@@ -31,16 +31,16 @@ assets:
       - ["Fri., Nov. 27 · 9:00 p.m.", "West Virginia at Utah (FOX)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 12:00 p.m.", "The Game: Michigan at Ohio State (FOX)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · noon or 12:45 p.m.", "Louisville at Kentucky (network not listed)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 28 · noon-1 p.m. window", "LSU at Arkansas (SEC)  Pick: ______  Score: ______"]
+      - ["Sat., Nov. 28 · noon or 12:45 p.m.", "LSU at Arkansas (ESPN2 or SEC Network)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:00 p.m.", "Virginia at Virginia Tech (The CW)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3 or 3:30 p.m.", "South Carolina at Clemson (ESPN, ESPN2 or ACC Network)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30 p.m.", "USC at UCLA (CBS)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 28 · 3:30-4:30 p.m. window", "Oklahoma at Missouri (SEC)  Pick: ______  Score: ______"]
+      - ["Sat., Nov. 28 · 4:15 p.m.", "Oklahoma at Missouri (SEC Network)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30 or 7:30 p.m.", "Iron Bowl: Auburn at Alabama (ABC; time set by Nov. 22)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30-4:30 or 6-8 p.m.", "Georgia Tech at Georgia (SEC; set by Nov. 22)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 28 · 6-8 p.m. window", "Tennessee at Vanderbilt (SEC)  Pick: ______  Score: ______"]
+      - ["Sat., Nov. 28 · 6-8 p.m. window", "Tennessee at Vanderbilt (ESPN or ABC)  Pick: ______  Score: ______"]
       - ["Tiebreaker · Sat., Nov. 28", "Total points, Michigan at Ohio State: ______"]
-    note: "Source: ESPN college football schedule, Week 14 (checked Nov. 13, 2026); Auburn Athletics (schedule page and SEC flex rule); UK Athletics; Buckeye Sports Bulletin; Nebraska Athletics; UCLA Athletics (checked Nov. 17, 2026); Virginia Tech, Virginia, Arizona State and Clemson and South Carolina athletics (checked Nov. 18, 2026); Auburn and UK athletics (checked Nov. 19, 2026). Times can change; check ESPN."
+    note: "Source: ESPN college football schedule, Week 14 (checked Nov. 13, 2026); Auburn Athletics (schedule page and SEC flex rule); UK Athletics; Buckeye Sports Bulletin; Nebraska Athletics; UCLA Athletics (checked Nov. 17, 2026); Virginia Tech, Virginia, Arizona State and Clemson and South Carolina athletics (checked Nov. 18, 2026); Auburn and UK athletics (checked Nov. 19, 2026); Missouri, LSU and Vanderbilt Athletics (checked Nov. 20, 2026). Times can change; check ESPN."
     description: "A one-page college football Rivalry Week 2026 sheet with Nov. 26-28 games, Eastern Time kickoffs or SEC windows, networks, and blanks for picks and scores."
     alt: "Printable college football Rivalry Week 2026 viewing sheet listing Nov. 26-28 games with time, network and blanks for picks and scores"
 hero:
@@ -117,6 +117,18 @@ sources:
     url: "https://gamecocksonline.com/sports/football/schedule"
     publisher: "South Carolina Athletics"
     date: "2026-11-18"
+  - title: "2026 Football Schedule - University of Missouri Athletics Official Website"
+    url: "https://mutigers.com/sports/football/schedule"
+    publisher: "Missouri Athletics"
+    date: "2026-11-20"
+  - title: "Football 2026 - LSUsports.net - The Official Website of LSU Athletics"
+    url: "https://lsusports.net/sports/football/schedule"
+    publisher: "LSU Athletics"
+    date: "2026-11-20"
+  - title: "Football 2026 - Vanderbilt Commodores | Official Athletics Website"
+    url: "https://vucommodores.com/sports/football/schedule"
+    publisher: "Vanderbilt Athletics"
+    date: "2026-11-20"
   - title: "2026 Football Schedule - UCLA Bruins"
     url: "https://uclabruins.com/sports/football/schedule/2026"
     publisher: "UCLA Athletics"
@@ -206,18 +218,18 @@ Nebraska Athletics confirmed the Iowa game at 11 a.m. CT on CBS on May 27, 2026.
 
 ## What time is the Iron Bowl, and how do the Southeastern Conference windows work?
 
-ESPN's Nov. 13 schedule shows no kickoff time for the six Southeastern Conference (SEC) games on Saturday, Nov. 28. Auburn Athletics and UK Athletics list two possible times for their games (checked Nov. 19, 2026); the other windows are the ones ESPN listed on Nov. 1, and the league picks the exact time later.
+ESPN's Nov. 13 schedule shows no kickoff time for the six Southeastern Conference (SEC) games on Saturday, Nov. 28. Auburn Athletics and UK Athletics list two possible times for their games (checked Nov. 19, 2026), and Louisiana State University (LSU) Athletics does too (checked Nov. 20, 2026). Missouri Athletics lists Oklahoma at Missouri at 3:15 p.m. CT on SEC Network (checked Nov. 20, 2026). The other windows are the ones ESPN listed on Nov. 1, and the league picks the exact time later.
 
 | Game | Window type | Start window (ET) | CT | MT | PT |
 |---|---|---|---|---|---|
 | Louisville at Kentucky | Early | Noon or 12:45 p.m. | 11 a.m. or 11:45 a.m. | 10 or 10:45 a.m. | 9 or 9:45 a.m. |
-| Louisiana State University (LSU) at Arkansas | Early | Noon-1 p.m. | 11 a.m.-noon | 10-11 a.m. | 9-10 a.m. |
-| Oklahoma at Missouri | Afternoon | 3:30-4:30 p.m. | 2:30-3:30 p.m. | 1:30-2:30 p.m. | 12:30-1:30 p.m. |
+| LSU at Arkansas | Early | Noon or 12:45 p.m. | 11 a.m. or 11:45 a.m. | 10 or 10:45 a.m. | 9 or 9:45 a.m. |
+| Oklahoma at Missouri | Afternoon | 4:15 p.m. | 3:15 p.m. | 2:15 p.m. | 1:15 p.m. |
 | Auburn at Alabama (Iron Bowl) | Flex | 3:30 or 7:30 p.m. | 2:30 or 6:30 p.m. | 1:30 or 5:30 p.m. | 12:30 or 4:30 p.m. |
 | Georgia Tech at Georgia | Flex | 3:30-4:30 p.m. or 6-8 p.m. | 2:30-3:30 p.m. or 5-7 p.m. | 1:30-2:30 p.m. or 4-6 p.m. | 12:30-1:30 p.m. or 3-5 p.m. |
 | Tennessee at Vanderbilt | Night | 6-8 p.m. | 5-7 p.m. | 4-6 p.m. | 3-5 p.m. |
 
-The Iron Bowl is a flex game. Auburn Athletics reported on June 10, 2026 that the SEC confirms the time and network for flex games "no later than six days before each game." Counting back six days from Saturday, Nov. 28 gives Sunday, Nov. 22 as the latest date for the answer (our count). ESPN marks Georgia Tech at Georgia as a flex game with the same windows. Auburn Athletics' schedule page shows the ABC logo as the network. Until the SEC picks, a trip or a watch party built around the Iron Bowl has to allow for either the 3:30 p.m. or the 7:30 p.m. ET start.
+The Iron Bowl is a flex game. Auburn Athletics reported on June 10, 2026 that the SEC confirms the time and network for flex games "no later than six days before each game." Counting back six days from Saturday, Nov. 28 gives Sunday, Nov. 22 as the latest date for the answer (our count). ESPN marks Georgia Tech at Georgia as a flex game with the same windows. Auburn Athletics' schedule page shows the ABC logo as the network. LSU Athletics lists LSU at Arkansas on ESPN2 at 11 a.m. CT (noon ET) or on SEC Network at 11:45 a.m. CT (12:45 p.m. ET). Vanderbilt Athletics lists Tennessee at Vanderbilt on ESPN or ABC; its schedule page gives no time zone, so the 6-8 p.m. window stays as ESPN listed it. Until the SEC picks, a trip or a watch party built around the Iron Bowl has to allow for either the 3:30 p.m. or the 7:30 p.m. ET start.
 
 ## What time is Ohio State vs. Michigan in 2026?
 
@@ -233,6 +245,7 @@ Only a few Saturday games have a set time on ESPN's list or the schools' own sch
 | 3:00 p.m. | 2:00 p.m. | 1:00 p.m. | 12:00 p.m. | Virginia at Virginia Tech | The CW |
 | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | Jacksonville State at Delaware | CBS Sports Network |
 | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. | 12:30 p.m. | USC at UCLA (Rose Bowl) | CBS |
+| 4:15 p.m. | 3:15 p.m. | 2:15 p.m. | 1:15 p.m. | Oklahoma at Missouri (Columbia) | SEC Network |
 | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. | 6:00 p.m. | Nevada at University of Nevada, Las Vegas (UNLV) (Allegiant Stadium) | CBS Sports Network |
 | 9:00 p.m. | 8:00 p.m. | 7:00 p.m. | 6:00 p.m. | Arizona State at Arizona (7 p.m. MST) | not listed |
 | 11:00 p.m. | 10:00 p.m. | 9:00 p.m. | 8:00 p.m. | Sacramento State at Hawai'i | MW+ (Mountain West streaming) |
