@@ -58,7 +58,7 @@ internalLinks:
     label: "April printable calendars"
   - href: "/march-calendars.html"
     label: "March printable calendars"
-related: [jewish-holidays-2027-dates-passover-rosh-hashanah-yom-kippur-hanukkah, easter-2027-march-28-good-friday-easter-monday-whats-open, hebrew-calendar-5787-leap-year-adar-i-adar-ii]
+related: [jewish-holidays-2027-dates-passover-rosh-hashanah-yom-kippur-hanukkah, easter-2027-march-28-good-friday-easter-monday-whats-open, tu-bishvat-2027-january-22-seder-seven-species]
 assets:
   kicker: "Passover 2027"
   overlay: true

@@ -105,7 +105,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/when-is/new-years-day/"
     label: "When is New Year's Day?"
-related: [christmas-eve-christmas-day-2026-store-hours, whats-open-new-years-eve-new-years-day-2027, christmas-tree-recycling-2027-by-city]
+related: [christmas-eve-christmas-day-2026-store-hours, when-to-take-down-christmas-decorations-2027-twelfth-night, christmas-tree-recycling-2027-by-city]
 draft: false
 assets:
   overlay: true
