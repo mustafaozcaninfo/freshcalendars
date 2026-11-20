@@ -209,7 +209,7 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
   4. Read the kept titles per category yourself. Rename a category to what it really holds, move products, and list the ids to drop in `prune.json`.
   5. `python3 shop/tools/product_apply.py .cache/shop/<family>` checks every draft (lengths, banned words, every number in the listing); `--apply` writes the passing ones and shows them.
   6. Write category texts and set listing images, show the categories, redirect closed brand pages of live products to `/brands`, then add list pages (`spec_pages.py`) and run `link-categories`.
-- The Amazon US tag is empty in settings; links use the platform default tag `fl-api-72849163-20`. The owner must set `offers_amazon_us_tag` in the admin.
+- Amazon US links carry the owner's tag `freshcalendar-20` (`amazon_us_tag` in `GET settings/offers`, checked on a live product page Nov. 20, 2026). The eBay tracking id is still empty, and so are the Amazon tags of other countries (UK links use the platform default).
 
 ### Ratings (Fresh Calendars Score)
 1. The method and the writing rules are in `ratings/METHODS.md`. The public version is the `/how-we-rate-products` page; keep both in step.
