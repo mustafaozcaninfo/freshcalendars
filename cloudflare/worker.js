@@ -11,6 +11,7 @@
 // Everything else that used to need PHP or nginx (/news/ 301s, image moves) is in _redirects.
 import { legacyRedirect, noPageRedirect } from "./legacy-redirects.js";
 import { scheduled } from "./cron.js";
+import { CDN, PACKS, packFile } from "./products.js";
 import PDF_CANONICAL from "../dist/cf/pdf-canonical.json";
 import DOWNLOAD_VERSIONS from "../dist/cf/download-versions.json";
 import NEWS_REDIRECTS from "../dist/cf/news-redirects.json";
@@ -34,6 +35,7 @@ export default {
     try {
       if (path === "/api/contact" || path === "/api/contact.php") return await contact(request, env, ctx);
       if (path === "/api/pv") return await pageView(request, env);
+      if (path === "/api/order") return await order(request, env);
       if (path.startsWith("/news/downloads/")) return await download(request, env, path, ctx);
       if (path.startsWith("/assets/")) {
         return /\.pdf$/i.test(path) ? await download(request, env, path, ctx) : Response.redirect(`${CDN_ORIGIN}${path}${url.search}`, 301);
@@ -260,6 +262,31 @@ async function mailOwner(env, r) {
     subject,
     text,
   });
+}
+
+/**
+ * The page a buyer lands on after paying for a printable pack (docs/PACKS.md). The Stripe Payment
+ * Link sends them to /api/order?session_id={CHECKOUT_SESSION_ID}; we ask Stripe whether that
+ * session is paid and which pack it bought (the link's metadata `pack`), then show the download.
+ * The same address works again later, so the receipt email's link is the buyer's copy.
+ * Never cached and never indexed. Without STRIPE_SECRET nothing is for sale and this is a 404.
+ */
+const ORDER_PAGE = (title, body) => `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="robots" content="noindex,nofollow"><title>${title} | Fresh Calendars</title><style>body{margin:0;font:17px/1.6 system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:#16202b;background:#f6f8fa}main{max-width:620px;margin:8vh auto;padding:28px 24px;background:#fff;border:1px solid #d9dee5;border-radius:14px}h1{margin:0 0 10px;font-size:26px;line-height:1.25}a.b{display:inline-block;margin:10px 0 14px;padding:13px 22px;border-radius:10px;background:#0f766e;color:#fff;font-weight:700;text-decoration:none}p{margin:0 0 12px}small{color:#55606e}@media(prefers-color-scheme:dark){body{background:#0f1720;color:#e7edf3}main{background:#17212c;border-color:#2b3947}small{color:#a9b4c0}}</style></head><body><main><h1>${title}</h1>${body}<p><small><a href="${SITE}/">Fresh Calendars</a></small></p></main></body></html>`;
+const orderResponse = (status, title, body) => new Response(ORDER_PAGE(title, body), { status, headers: { "Content-Type": "text/html; charset=utf-8", "Cache-Control": "no-store", "X-Robots-Tag": "noindex, nofollow" } });
+const ORDER_HELP = `<p>Write to <a href="mailto:info@freshcalendars.com">info@freshcalendars.com</a> from the email address on your receipt and we will send the files or refund the payment.</p>`;
+
+export async function order(request, env) {
+  if (request.method !== "GET" && request.method !== "HEAD") return new Response("Method not allowed", { status: 405, headers: { Allow: "GET, HEAD", "Cache-Control": "no-store" } });
+  const id = new URL(request.url).searchParams.get("session_id") ?? "";
+  if (!env.STRIPE_SECRET || !/^cs_(?:test|live)_[A-Za-z0-9]{10,200}$/.test(id)) return orderResponse(404, "Order not found", ORDER_HELP);
+  const res = await fetch(`https://api.stripe.com/v1/checkout/sessions/${id}`, { headers: { Authorization: `Bearer ${env.STRIPE_SECRET}` } });
+  if (res.status === 404) return orderResponse(404, "Order not found", ORDER_HELP);
+  if (!res.ok) return orderResponse(502, "We could not check your order just now", `<p>Your payment is safe. Reload this page in a minute.</p>${ORDER_HELP}`);
+  const session = await res.json();
+  const pack = PACKS.find((p) => p.id === (session.metadata && session.metadata.pack));
+  if (!pack) return orderResponse(404, "Order not found", ORDER_HELP);
+  if (session.payment_status !== "paid") return orderResponse(402, "Payment not finished", `<p>Stripe has not confirmed this payment yet. If you paid, reload this page in a minute.</p>${ORDER_HELP}`);
+  return orderResponse(200, "Thank you. Your pack is ready.", `<p><strong>${pack.name}</strong></p><a class="b" href="${CDN}${packFile(pack)}" download>Download the ZIP file</a><p>The ZIP holds four PDF files (US Letter and A4, Sunday and Monday start) and a short note on printing. Keep this page's address: it opens the download again.</p><p>Stripe has emailed your receipt. Refunds within ${pack.refundDays} days: write to <a href="mailto:info@freshcalendars.com">info@freshcalendars.com</a>.</p>`);
 }
 
 const PV_BOTS = /bot|crawl|spider|slurp|headless|lighthouse|pagespeed|preview|monitor|curl|wget|python|axios|node-fetch|go-http/i;

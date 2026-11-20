@@ -169,3 +169,33 @@ test("the shop host answers only its IndexNow key file", async () => {
   assert.ok(cfg.includes(`"shop.freshcalendars.com/${key}.txt"`), "the route must be this one file, never shop.freshcalendars.com/*");
   assert.ok(!/shop\.freshcalendars\.com\/\*/.test(cfg));
 });
+
+test("a paid Stripe session opens the pack download; anything else does not", async () => {
+  const { order } = await import("./worker.js");
+  const { PACKS, packFile } = await import("./products.js");
+  const pack = PACKS[0], id = "cs_test_a1B2c3D4e5F6g7H8";
+  const realFetch = globalThis.fetch, asked = [];
+  const stripe = (status, body) => { globalThis.fetch = async (url, init) => { asked.push([String(url), init.headers.Authorization]); return new Response(JSON.stringify(body), { status }); }; };
+  const get = (q, env = { STRIPE_SECRET: "rk_test_x" }) => order(new Request(`https://freshcalendars.com/api/order${q}`), env);
+  try {
+    stripe(200, { payment_status: "paid", metadata: { pack: pack.id } });
+    const ok = await get(`?session_id=${id}`), html = await ok.text();
+    assert.equal(ok.status, 200);
+    assert.ok(html.includes(`https://cdn.freshcalendars.com${packFile(pack)}`));
+    assert.equal(ok.headers.get("Cache-Control"), "no-store");
+    assert.match(ok.headers.get("X-Robots-Tag"), /noindex/);
+    assert.deepEqual(asked[0], [`https://api.stripe.com/v1/checkout/sessions/${id}`, "Bearer rk_test_x"]);
+    stripe(200, { payment_status: "unpaid", metadata: { pack: pack.id } });
+    assert.equal((await get(`?session_id=${id}`)).status, 402);
+    stripe(200, { payment_status: "paid", metadata: {} });
+    assert.equal((await get(`?session_id=${id}`)).status, 404);
+    stripe(404, { error: {} });
+    assert.equal((await get(`?session_id=${id}`)).status, 404);
+    // No key, or an id that is not a session id: Stripe is never asked.
+    const before = asked.length;
+    assert.equal((await get(`?session_id=${id}`, {})).status, 404);
+    assert.equal((await get("?session_id=../../v1/customers")).status, 404);
+    assert.equal((await get("")).status, 404);
+    assert.equal(asked.length, before);
+  } finally { globalThis.fetch = realFetch; }
+});

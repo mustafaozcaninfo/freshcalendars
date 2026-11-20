@@ -25,6 +25,8 @@ export type SeoMeta = {
     image: string;
   };
   jsonLd: string[];
+  /** Further JSON-LD objects for the head (a Product on a page that sells a pack). */
+  extraLd?: Record<string, unknown>[];
   breadcrumbs: { name: string; url: string }[];
   faq: { q: string; a: string }[];
   download: { pdf: string; png: string };
