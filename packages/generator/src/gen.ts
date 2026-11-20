@@ -49,6 +49,7 @@ import {
   writeSearchIndex,
 } from "./sitePages.js";
 import sharp from "sharp";
+import { ensurePacks } from "./packs.js";
 import { ensureStudioAssets, ensureOtherPaperAssets, ensureYearlyStudio, SEARCH_IMAGE_WIDTHS } from "./studio.js";
 import { sheetSearchImages } from "./datedPages.js";
 
@@ -249,6 +250,8 @@ export async function generateAll(opts: GenOptions): Promise<{ metas: SeoMeta[] 
     await ensureStudioAssets(studioYears);
     await ensureYearlyStudio(studioYears);
     await ensureOtherPaperAssets();
+    // After the studio sheets: a pack binds them.
+    await ensurePacks();
   }
   const metas: SeoMeta[] = [];
   const lastmodState = await readLastmodState();

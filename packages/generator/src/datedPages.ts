@@ -23,12 +23,15 @@ import {
   ordinal, plural, sameCalendarYears, sameLayoutYears, sheetRows, shortDay, utc, weekdayOf, word, workingDays,
 } from "./pageFacts.js";
 import { isoWeek } from "./toolPages.js";
+import { PACK_JS, packBoxHtml, packFor, packLd, packTermsHtml } from "./packs.js";
 
 export type DatedPage = {
   id: string; path: string; title: string; description: string; body: string;
   crumbs: { name: string; url: string }[];
   /** Set when an evergreen page shows the same month or year today. */
   canonicalPath?: string;
+  /** Extra structured data for the head: the Product of a month with a printable pack on sale. */
+  ld?: Record<string, unknown>[];
   /** Month or year drawn on the share card. */
   sheet: { year: number; month?: number };
 };
@@ -226,6 +229,7 @@ function monthPage(year: number, month: number, today: Date): DatedPage {
   // The first Sunday shows how an ISO week differs from a row of a Sunday-start sheet.
   const sun = 1 + ((7 - new Date(year, month - 1, 1).getDay()) % 7);
   const isoNote = `Week numbers follow ISO 8601, where a week runs Monday to Sunday: Sunday, ${name} ${sun} closes week ${isoWeek(Date.UTC(year, month - 1, sun)).week} and Monday, ${name} ${sun + 1} opens week ${isoWeek(Date.UTC(year, month - 1, sun + 1)).week}.`;
+  const pack = packFor(year, month);
   const five = datesByWeekday(year, month).map((d, g) => (d.length === 5 ? `${WEEKDAYS[g]}s` : "")).filter(Boolean);
   const body = shell("dated-month", c, `
 <h1>${name} ${year} calendar</h1>
@@ -236,6 +240,7 @@ function monthPage(year: number, month: number, today: Date): DatedPage {
   <div class="tool-today dated-facts"><div><span>First day</span><strong>${f.start}, ${name} 1</strong></div><div><span>Last day</span><strong>${f.end}, ${name} ${f.days}</strong></div><div><span>Weekdays</span><strong>${f.weekdays} weekdays, ${f.weekendDays} weekend days</strong></div><div><span>Week numbers</span><strong>${weeks}</strong></div></div>
 </div>
 <p class="tool-note">${isoNote}</p>
+${pack ? packBoxHtml(pack) : ""}
 <h2>Print ${name} ${year} in eight designs</h2>
 <p>${monthRowsNote(year, month)}</p>
 ${designCards(year, month, true)}
@@ -250,6 +255,7 @@ ${monthWeekdaysHtml(year, month)}
 <h2>${name} ${year} compared with other years</h2>
 ${monthYearsNote(year, month)}
 <div class="du-chips">${years.map((y) => chip(monthHref(y, month, today), `${name} ${y}`, y === year)).join("")}</div>
+${pack ? `${packTermsHtml(pack)}<script>${PACK_JS}</script>` : ""}
 <h2>Every month of ${year}</h2>
 <div class="du-chips">${Array.from({ length: 12 }, (_, i) => chip(monthHref(year, i + 1, today), monthNumberToName(i + 1), i + 1 === month)).join("")}${yHref ? `<a href="${yHref}">${year} on one page</a>` : ""}</div>
 <nav class="tool-links" aria-label="Related tools and sheets"><a href="/calendar-tools/days-between-dates/">Days between dates</a><a href="/calendar-tools/business-days/">Business days</a><a href="/calendar-tools/week-number/">Week numbers</a><a href="/blank-calendars.html">Blank calendar</a><a href="/printable-weekly-calendar.html">Weekly planner</a><a href="/print-guide.html">Print guide</a></nav>`);
@@ -259,6 +265,8 @@ ${monthYearsNote(year, month)}
     title: `Free Printable ${name} ${year} Calendar PDF${hols.length ? " with Holidays" : " in 8 Designs"}`,
     description: [hols.length ? `; ${hols[0]!.name} is ${name} ${hols[0]!.day}` : "", ""].map((tail) => `Free printable ${name} ${year} calendar in eight PDF designs, Letter or A4. It starts on a ${f.start}, has ${f.days} days and ${workingDays(year, month).count} working days${tail}.`).find((d) => d.length <= 158)!,
     body, crumbs: c, canonicalPath: evergreen, sheet: { year, month },
+    // The Product sits on the page that sells it: never on a month whose canonical is elsewhere.
+    ld: pack?.checkoutUrl && !evergreen ? [packLd(pack, `${ORIGIN}${monthYearPath(year, month)}`)] : undefined,
   };
 }
 

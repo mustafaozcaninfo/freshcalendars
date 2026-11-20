@@ -494,6 +494,23 @@ html[data-theme=dark] .holiday-country-tabs a[aria-current=page]{background:var(
 .dated-top .dated-facts{grid-template-columns:1fr; margin:0}
 .dated-grid th[scope=row]{width:44px; padding:0; font-size:12px; font-weight:600; color:var(--muted); background:var(--surface-soft); border-top:1px solid var(--line-soft); text-align:center}
 .dated-grid thead th:first-child{width:44px}
+/* Paid printable pack on a month page (generator packs.ts) */
+.pack-box{display:grid; grid-template-columns:minmax(0,1fr) minmax(0,1.15fr); gap:24px; align-items:center; max-width:1100px; margin:22px 0 28px; padding:20px; border:1px solid var(--line); border-radius:var(--r-lg); background:var(--paper); box-shadow:var(--shadow-sm)}
+.pack-cover{width:100%; height:auto; border-radius:var(--r-md); background:#fff; border:1px solid var(--line-soft)}
+.pack-body h2{margin:0 0 6px; font-size:clamp(20px,2.4vw,26px)}
+.pack-body p{margin:0 0 10px}
+.pack-price{display:flex; flex-wrap:wrap; align-items:baseline; gap:10px}
+.pack-price strong{font-family:var(--font-display,inherit); font-size:34px; line-height:1}
+.pack-price span,.pack-small{color:var(--muted); font-size:14px}
+.pack-list{margin:0 0 14px; padding-left:20px}
+.pack-list li{margin:4px 0}
+.pack-buy{display:inline-flex; justify-content:center; min-height:48px; min-width:min(100%,280px); margin:2px 0 12px; font-size:17px}
+.pack-buy[aria-disabled=true]{opacity:.6; cursor:not-allowed}
+.pack-files td:first-child{white-space:normal; overflow-wrap:anywhere}
+@media (max-width:760px){
+  .pack-box{grid-template-columns:1fr; padding:14px; gap:14px}
+  .pack-buy{width:100%}
+}
 .design-grid{list-style:none; margin:0; padding:0; display:grid; grid-template-columns:repeat(4,minmax(0,1fr)); gap:16px; max-width:1100px}
 .design-grid li{display:flex; flex-direction:column; gap:8px; margin:0; padding:14px; border:1px solid var(--line); border-radius:var(--r-lg); background:var(--paper)}
 .design-grid .dg-thumb{display:grid; place-items:center; aspect-ratio:17/22; padding:10px; border-radius:var(--r-md); background:var(--surface-soft)}
