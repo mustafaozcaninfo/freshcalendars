@@ -1,6 +1,6 @@
 ---
 title: "St. Andrew Christmas Novena 2026: Nov. 30 to Dec. 24, 15 Times a Day"
-description: "The St. Andrew Christmas Novena runs Nov. 30 to Dec. 24, 2026, 15 prayers a day. Day-by-day dates, both wordings side by side and a 25-day printable tracker."
+description: "The St. Andrew Christmas Novena runs Nov. 30 to Dec. 24, 2026, 15 prayers a day. Day-by-day dates, both wordings side by side and a 25-day tracker."
 type: explainer
 publishedAt: "2026-11-20T12:46:00-05:00"
 updatedAt: "2026-11-20T12:46:00-05:00"

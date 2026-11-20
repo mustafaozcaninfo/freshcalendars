@@ -76,7 +76,7 @@ assets:
         - { daysBefore: 7, task: "Ask your temple for its Ekadashi fast and parana times" }
         - { daysBefore: 1, task: "Plan the fast and the meal that breaks it" }
         - { daysBefore: 0, task: "Vaikuntha Ekadashi: fast and temple visit" }
-      fill: ["Temple name", "Parana time", "Notes"]
+      fill: ["Temple name", "Parana time"]
       unconfirmed:
         - { label: "TTD online token registration window", why: "Not announced as of Nov. 20, 2026" }
         - { label: "Rs 300 Special Entry Darshan release date", why: "Not announced as of Nov. 20, 2026" }
