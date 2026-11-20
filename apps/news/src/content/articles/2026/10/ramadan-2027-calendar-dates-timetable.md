@@ -55,7 +55,7 @@ internalLinks:
     label: "March 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [lunar-new-year-2027-year-of-the-goat, passover-2027-holi-2027-dates-sundown-times, mardi-gras-2027-february-9-ash-wednesday-february-10-lent-calendar]
+related: [isra-and-miraj-2027-date-laylat-al-miraj, lunar-new-year-2027-year-of-the-goat, passover-2027-holi-2027-dates-sundown-times]
 downloads:
   - group: "Ramadan 2027 printables"
     title: "Ramadan 2027 Calendar"

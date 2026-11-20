@@ -117,7 +117,7 @@ Hebcal lists each holiday from the evening it begins to nightfall on its last da
 
 The "first full day is" column says whether that date falls on Monday to Friday or on Saturday or Sunday. It does not say that any school or employer closes: schools and workplaces set their own calendars. Yom Kippur begins on Sunday evening, Oct. 10, so its full day is Monday, Oct. 11. Rosh Hashanah begins on a Friday evening and ends Sunday at nightfall, so both of its days fall on a weekend.
 
-Hebcal lists more observances than this table; see its [2027 page](https://www.hebcal.com/holidays/2027) for the full list. This story leaves out Yom HaShoah and Yom HaAtzmaut because we did not confirm their entries.
+Our [Tu BiShvat 2027 story](/news/tu-bishvat-2027-january-22-seder-seven-species/) has candle-lighting times for four cities and a seder checklist. Hebcal lists more observances than this table; see its [2027 page](https://www.hebcal.com/holidays/2027) for the full list. This story leaves out Yom HaShoah and Yom HaAtzmaut because we did not confirm their entries.
 
 ## Why do calendar sites differ by a day?
 
