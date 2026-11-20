@@ -67,7 +67,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [strictly-come-dancing-2026-final-date-19-december-remaining-weeks, blue-planet-iii-start-time-tonight-bbc-one-episode-guide-dates, the-traitors-2027-start-date-series-5-bbc]
+related: [strictly-come-dancing-2026-final-date-19-december-remaining-weeks, blue-planet-iii-start-time-tonight-bbc-one-episode-guide-dates, great-british-bake-off-2026-final-date-time-channel-4]
 downloads:
   - group: "Bake Off 2026 Viewing Tracker printables"
     title: "Bake Off 2026 Viewing Tracker"
