@@ -17,5 +17,6 @@
   "original": "4000×6000",
   "output": "2400×1350",
   "cropped": true,
-  "credit": "Photo: Kai Pilger / Wikimedia Commons, cropped"
+  "credit": "Photo: Kai Pilger / Wikimedia Commons, cropped, edited",
+  "overlay": true
 }
