@@ -85,7 +85,7 @@ internalLinks:
     label: "Printable monthly calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [january-2027-calendar-printable, march-2027-calendar-printable, lewes-polar-bear-plunge-2027-february-7]
+related: [january-2027-calendar-printable, february-2027-important-dates-holidays-days-until, lewes-polar-bear-plunge-2027-february-7]
 assets:
   overlay: true
   kicker: "February 2027"
