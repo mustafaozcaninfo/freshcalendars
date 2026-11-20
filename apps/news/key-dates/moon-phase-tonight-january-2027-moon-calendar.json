@@ -1,0 +1,7 @@
+[
+  { "date": "2027-01-02", "label": "Earth at perihelion, 9:33 p.m. EST" },
+  { "date": "2027-01-07", "label": "New moon, 3:24 p.m. EST" },
+  { "date": "2027-01-15", "label": "First quarter moon, 3:34 p.m. EST" },
+  { "date": "2027-01-22", "label": "Full moon, 7:17 a.m. EST", "weight": 3 },
+  { "date": "2027-01-29", "label": "Last quarter moon, 5:55 a.m. EST" }
+]

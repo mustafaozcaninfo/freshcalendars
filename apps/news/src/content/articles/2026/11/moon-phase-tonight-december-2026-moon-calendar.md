@@ -57,7 +57,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times, ursid-meteor-shower-2026-peak-december-21-22-moonset-times, planets-visible-december-2026-night-sky-calendar-geminids-solstice]
+related: [geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times, ursid-meteor-shower-2026-peak-december-21-22-moonset-times, moon-phase-tonight-january-2027-moon-calendar]
 assets:
   overlay: true
   kicker: "Full moon · December 2026"
@@ -131,7 +131,7 @@ USNO lists its phase times in UTC. The conversions to EST and Pacific Standard T
 | Full moon | **8:28 p.m., Wed., Dec. 23** | **5:28 p.m., Wed., Dec. 23** | 01:28, Dec. 24 |
 | Last quarter | 1:59 p.m., Wed., Dec. 30 | 10:59 a.m., Wed., Dec. 30 | 18:59, Dec. 30 |
 
-The next new moon after December is at 3:24 p.m. EST on Thursday, Jan. 7, 2027 (20:24 UTC), per USNO.
+The next new moon after December is at 3:24 p.m. EST on Thursday, Jan. 7, 2027 (20:24 UTC), per USNO; our [January moon calendar](/news/moon-phase-tonight-january-2027-moon-calendar/) has the full month.
 
 ## What time is the December 2026 full moon in the U.S.?
 
