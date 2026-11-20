@@ -99,7 +99,7 @@ internalLinks:
     label: "When is Easter?"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, christmas-eve-christmas-day-2026-store-hours, thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates]
+related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, is-trader-joes-open-thanksgiving-2026, christmas-eve-christmas-day-2026-store-hours]
 downloads:
   - group: "Publix Holiday Hours 2026 printables"
     title: "Publix Holiday Hours 2026: Thanksgiving to Easter 2027"

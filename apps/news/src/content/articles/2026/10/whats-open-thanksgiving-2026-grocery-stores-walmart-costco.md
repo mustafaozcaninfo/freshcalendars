@@ -172,7 +172,7 @@ The table lists what each company has published for 2026 where available, with t
 
 **Home Depot and Lowe's.** Home Depot's 2026 holiday store hours list Thanksgiving, Thursday, Nov. 26, as closed. Lowe's said in its 2026 holiday release, dated Oct. 8, that its stores will be closed on Thanksgiving Day and Christmas Day.
 
-**Aldi.** Aldi closed on Thanksgiving in past years, but it has not posted 2026 holiday hours on aldi.us. Check the Aldi store locator before you go.
+**Aldi.** Aldi closed on Thanksgiving in past years, but it has not posted 2026 holiday hours on aldi.us. Two newsrooms report it is closed on Thanksgiving 2026; see [is Aldi open on Thanksgiving 2026](/news/is-aldi-open-thanksgiving-2026-christmas-eve-hours/). Check the Aldi store locator before you go.
 
 **Whole Foods Market.** Whole Foods says many of its stores open on Thanksgiving with modified hours. Hours vary by location, so check the store's page before you shop.
 

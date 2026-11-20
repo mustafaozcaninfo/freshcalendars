@@ -91,7 +91,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [is-walmart-open-thanksgiving-2026-black-friday-6-am, costco-holiday-hours-closures-2026-2027, is-bjs-open-thanksgiving-2026-closed-november-26-free-turkey]
+related: [is-walmart-open-thanksgiving-2026-black-friday-6-am, costco-holiday-hours-closures-2026-2027, is-trader-joes-open-thanksgiving-2026]
 downloads:
   - group: "Sam's Club Holiday Hours 2026-27 printables"
     title: "Sam's Club Holiday Hours 2026-27: Plus and Club Members"
