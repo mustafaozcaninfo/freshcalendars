@@ -3,7 +3,7 @@ title: "Christmas Bird Count 2026: Dec. 14 to Jan. 5, How to Join"
 description: "The Christmas Bird Count runs Dec. 14, 2026 to Jan. 5, 2027. Find a circle, register for free and print a 12-bird feeder tally sheet."
 type: explainer
 publishedAt: "2026-11-04T07:50:00-05:00"
-updatedAt: "2026-11-04T07:50:00-05:00"
+updatedAt: "2026-11-20T01:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["christmas bird count 2026", "audubon christmas bird count", "how to join christmas bird count", "christmas bird count dates"]
@@ -75,12 +75,14 @@ assets:
     alt: "Printable Christmas Bird Count sheet with four steps to join a circle and a tally list of 12 common feeder birds"
 summary:
   - "The Audubon Christmas Bird Count takes place between Dec. 14 and Jan. 5 each year; in 2026-27 that is Monday, Dec. 14, 2026 to Tuesday, Jan. 5, 2027, or 23 days (our count)."
-  - "Participation is free and open to bird enthusiasts of any level, per Audubon. Find a circle with its Circle Finder and register."
+  - "The 2026-27 season is the 127th count, per Audubon; the 126th had 2,701 counts and 85,222 participants. Participation is free, per Audubon."
   - "Each circle has its own count day of 24 hours. Birds Canada runs the Canadian counts and gives the same Dec. 14 to Jan. 5 dates."
   - "Our free sheet has four join steps and a 12-bird feeder tally from Cornell Lab's common feeder birds list."
 faq:
   - q: "When is the Christmas Bird Count in 2026?"
     a: "Audubon says the count takes place between Dec. 14 and Jan. 5 each year. Birds Canada gives December 14th, 2026 to January 5th, 2027. Each circle counts on one day inside that window."
+  - q: "Which Christmas Bird Count is 2026-27?"
+    a: "The 127th, per Audubon's leader resources page. Audubon has posted no registration opening date."
   - q: "Does it cost anything to join the Christmas Bird Count?"
     a: "No. Audubon says participation is free and open to bird enthusiasts of any level."
   - q: "Do I need to hike or use binoculars?"
@@ -100,6 +102,13 @@ sources:
     url: "https://www.audubon.org/press-room/join-audubons-126th-annual-christmas-bird-count-and-help-protect-birds-across-hemisphere"
     publisher: "National Audubon Society"
     date: "2025-12-14"
+  - title: "126th Christmas Bird Count Summary"
+    url: "https://www.audubon.org/news/126th-christmas-bird-count-summary"
+    publisher: "National Audubon Society"
+    date: "2026-11-03"
+  - title: "Christmas Bird Count Leader Modernization Resources"
+    url: "https://www.audubon.org/community-science/christmas-bird-count/christmas-bird-count-leader-modernization-resources"
+    publisher: "National Audubon Society"
   - title: "History of the Christmas Bird Count"
     url: "https://www.audubon.org/community-science/christmas-bird-count/history-of-christmas-bird-count"
     publisher: "National Audubon Society"
@@ -124,13 +133,26 @@ downloads:
 draft: false
 ---
 
-**The Christmas Bird Count (CBC) runs from Monday, Dec. 14, 2026 to Tuesday, Jan. 5, 2027,** according to Birds Canada, and the National Audubon Society says the count "takes place between December 14 and January 5 each year." Audubon says participation is free and open to bird enthusiasts of any level. We checked both official pages on Nov. 4, 2026; below are the dates, the weekends inside the window and the steps to join a count.
+**The Christmas Bird Count (CBC) runs from Monday, Dec. 14, 2026 to Tuesday, Jan. 5, 2027,** according to Birds Canada, and the National Audubon Society says the count "takes place between December 14 and January 5 each year." Audubon says participation is free and open to bird enthusiasts of any level. We checked both official pages on Nov. 20, 2026; below are the dates, the weekends inside the window and the steps to join a count.
 
 ## When does the 2026-27 Christmas Bird Count run?
 
 Birds Canada lists the count as "December 14th, 2026 - January 5th, 2027." Audubon gives the same start and end days without a year. By our calculation, Dec. 14, 2026 is a Monday and Jan. 5, 2027 is a Tuesday, which makes 23 days counting both ends: 17 weekdays and six weekend days.
 
-Last season was Audubon's 126th Christmas Bird Count, per its Dec. 14, 2025 release. We found no official number or registration date for the 2026-27 season.
+Last season was Audubon's 126th Christmas Bird Count, per its Dec. 14, 2025 release. The 2026-27 season is the 127th count: Audubon's leader resources page lists "Session 1: Preparing for CBC 127 - September 17, 2026." Audubon has posted no registration opening date for it.
+
+## How did the 126th count turn out?
+
+Audubon published its "126th Christmas Bird Count Summary" on Nov. 3, 2026. That count ran Dec. 14, 2025 to Jan. 5, 2026.
+
+| 126th count by the numbers | Audubon figure |
+|---|---|
+| Counts completed | 2,701 (473 in Canada, 2,051 in the United States) |
+| Participants | 85,222 (74,229 field observers and 10,993 feeder counters) |
+| Species | 2,435, plus 427 identifiable forms and hybrids |
+| Birds counted | 43,815,563 |
+
+Audubon says the 2,701 circles surpassed the previous record of 2,693, set in the 125th count.
 
 ## Weekends and holidays inside the count window
 
