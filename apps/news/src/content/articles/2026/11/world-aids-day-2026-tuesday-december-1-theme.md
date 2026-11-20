@@ -3,7 +3,7 @@ title: "World AIDS Day 2026: Tuesday, Dec. 1, Theme Is Access"
 description: "World acquired immunodeficiency syndrome (AIDS) Day is Tuesday, Dec. 1, 2026; the theme is access. Themes by year and free self-tests by mail."
 type: news
 publishedAt: "2026-11-03T06:10:00-05:00"
-updatedAt: "2026-11-04T13:20:00-05:00"
+updatedAt: "2026-11-20T13:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["world aids day 2026", "world aids day 2026 theme", "when is world aids day 2026", "free hiv test"]
@@ -21,10 +21,10 @@ assets:
     subtitle: "Dec. 1, 2026: dates and steps to keep"
     rows:
       - { when: "Tue., Dec. 1", what: "World AIDS Day, held every Dec. 1", section: "Mark the date" }
-      - { when: "2026 theme", what: "Theme: Access (UNAIDS)", section: "Mark the date" }
+      - { when: "2026 theme", what: "Theme: Ending AIDS starts with access (UNAIDS, WHO)", section: "Mark the date" }
       - { when: "Before Dec. 1", what: "Order a free HIV self-test (two every 90 days)", section: "Do" }
       - { when: "Dec. 1", what: "Wear a red ribbon", section: "Do" }
-    note: "Source: HIV.gov, World AIDS Day; Joint United Nations Programme on HIV/AIDS (UNAIDS); Together TakeMeHome, About."
+    note: "Source: HIV.gov, World AIDS Day; Joint United Nations Programme on HIV/AIDS (UNAIDS); World Health Organization (WHO); Together TakeMeHome, About."
     description: "A one-page checklist for World AIDS Day on Tuesday, Dec. 1, 2026: the date, the theme, a free self-test and a red ribbon."
     alt: "Printable World AIDS Day 2026 checklist with tick boxes for the date, the theme, a free self-test and a red ribbon"
 hero:
@@ -39,8 +39,8 @@ hero:
     author: "Ted Eytan"
     authorUrl: "https://www.wikidata.org/wiki/Q116943179"
 summary:
-  - "World AIDS Day is held on Dec. 1, which is a Tuesday in 2026, 28 days after Nov. 3, according to HIV.gov."
-  - "UNAIDS lists the 2026 theme as access (checked Nov. 4, 2026); the 2025 theme was \"Overcoming disruption, transforming the AIDS response.\""
+  - "World AIDS Day is held on Dec. 1, which is a Tuesday in 2026, 11 days after Nov. 20, according to HIV.gov."
+  - "UNAIDS and WHO give the 2026 theme as \"Ending AIDS starts with access\" (checked Nov. 20, 2026); the 2025 theme was \"Overcoming disruption, transforming the AIDS response.\""
   - "The World Health Organization (WHO) estimates 41.0 million people were living with HIV at the end of 2025; the CDC estimates more than 1.2 million Americans were living with HIV in 2024."
   - "Together TakeMeHome mails free HIV self-tests, and you can order two every 90 days."
 sources:
@@ -51,7 +51,11 @@ sources:
   - title: "World AIDS Day 2026"
     url: "https://www.unaids.org/en/2026-world-aids-day"
     publisher: "Joint United Nations Programme on HIV/AIDS (UNAIDS)"
-    date: "2026-11-04"
+    date: "2026-11-20"
+  - title: "World AIDS Day 2026 – Ending AIDS starts with access"
+    url: "https://www.who.int/news-room/events/detail/2026/12/01/default-calendar/world-aids-day-2026---ending-aids-starts-with-access"
+    publisher: "World Health Organization (WHO)"
+    date: "2026-11-20"
   - title: "World AIDS Day 2025 - Overcoming disruption, transforming the AIDS response"
     url: "https://www.unaids.org/en/2025-world-aids-day"
     publisher: "Joint United Nations Programme on HIV/AIDS (UNAIDS)"
@@ -102,24 +106,24 @@ downloads:
 draft: false
 ---
 
-**World AIDS Day is held on Dec. 1, a Tuesday in 2026, and the 2026 theme is access (checked Nov. 4, 2026).** The federal human immunodeficiency virus (HIV) information site HIV.gov says the day is held on "December 1" and that "the first World AIDS Day took place in 1988." The Joint United Nations Programme on HIV/AIDS (UNAIDS) lists the theme as access and says, "The theme of this year's World AIDS Day is access," and describes it as "Access to services, rights, resources and political leadership."
+**World AIDS Day is held on Dec. 1, a Tuesday in 2026, and the 2026 theme is "Ending AIDS starts with access" (checked Nov. 20, 2026).** The federal human immunodeficiency virus (HIV) information site HIV.gov says the day is held on "December 1" and that "the first World AIDS Day took place in 1988." The Joint United Nations Programme on HIV/AIDS (UNAIDS) lists the theme as access and says, "The theme of this year's World AIDS Day is access," and describes it as "Access to services, rights, resources and political leadership."
 
 ## World AIDS Day 2026 date and theme
 
-Dec. 1 is 27 days after Nov. 4. The UNAIDS page for 2026 is headed "World AIDS Day 2026: Ending AIDS starts with access" and says, "Without access, the world will not end AIDS." The page shows no posting date.
+Dec. 1 is 11 days after Nov. 20. The UNAIDS page for 2026 is headed "World AIDS Day 2026: Ending AIDS starts with access" and says, "Without access, the world will not end AIDS." The page shows no posting date. The World Health Organization (WHO) event page for Dec. 1, 2026 says WHO commemorates the day "under the theme "Ending AIDS starts with access"."
 
 | Year | Date | Theme (UNAIDS) |
 |---|---|---|
 | 2024 | Dec. 1 | "Take the rights path" |
 | 2025 | Dec. 1 | "Overcoming disruption, transforming the AIDS response" |
-| 2026 | Tuesday, Dec. 1 | Access |
+| 2026 | Tuesday, Dec. 1 | "Ending AIDS starts with access" |
 | 2027 | Wednesday, Dec. 1 | Not yet announced |
 
 The themes come from UNAIDS pages for each year; the 2027 theme is not yet announced. The weekdays for 2026 and 2027 are computed from the calendar.
 
 ## What the latest HIV numbers say
 
-The Centers for Disease Control and Prevention (CDC) published its 2024 national data on May 18, 2026, and HIV.gov repeated it on May 27, 2026. The World Health Organization (WHO) fact sheet is dated July 27, 2026.
+The Centers for Disease Control and Prevention (CDC) published its 2024 national data on May 18, 2026, and HIV.gov repeated it on May 27, 2026. The WHO fact sheet is dated July 27, 2026.
 
 The figures below come from two agencies and cover different years, so they should not be compared line by line.
 
@@ -145,4 +149,4 @@ UNAIDS says that "in 1991, some of the Visual AIDS artists came together to desi
 
 ## World AIDS Day 2026 checklist
 
-The printable checklist on this page lists the date, the 2026 theme, a self-test order and the red ribbon. Mark Dec. 1 on the [December 2026 printable calendar](/december-calendars.html), and see the [November 2026 printable calendar](/november-calendars.html) for the weeks before. The same Tuesday is [GivingTuesday](/news/giving-tuesday-2026-december-1-tax-deduction-charity-check/), and our [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/) story lists the rest of the month.
+The printable checklist on this page lists the date, the 2026 theme ("Ending AIDS starts with access"), a self-test order and the red ribbon. Mark Dec. 1 on the [December 2026 printable calendar](/december-calendars.html), and see the [November 2026 printable calendar](/november-calendars.html) for the weeks before. The same Tuesday is [GivingTuesday](/news/giving-tuesday-2026-december-1-tax-deduction-charity-check/), and our [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/) story lists the rest of the month.
