@@ -3,7 +3,7 @@ title: "Black Friday 2026 Store Hours: Walmart, Target 6 a.m., Kohl's 5 a.m."
 description: "Black Friday 2026 store hours: Walmart, Target, Home Depot, Dick's and Best Buy open at 6 a.m. on Nov. 27, Kohl's and JCPenney at 5 a.m."
 type: update
 publishedAt: "2026-10-20T17:30:00-04:00"
-updatedAt: "2026-11-19T11:25:00-05:00"
+updatedAt: "2026-11-19T19:26:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Black Friday 2026 store hours", "what time does Walmart open on Black Friday", "Target Black Friday hours 2026", "Best Buy Black Friday 2026", "stores closed on Thanksgiving 2026"]
@@ -24,7 +24,7 @@ faq:
   - q: "What time does Target open on Black Friday?"
     a: "Target stores open at 6 a.m. local time on Friday, Nov. 27, 2026, and close at their current closing time. In its holiday shopping fact sheet, updated Nov. 19, Target said all stores are closed on Thanksgiving, Nov. 26, and that store hours are temporarily extended from Nov. 29 through Dec. 23. The page gives no extended closing hour. It also says the first 100 eligible guests at every store on Black Friday receive a Target GiftCard valued at $25, $50 or $100, with one guest at each store receiving a $1,000 GiftCard. Prize tickets are handed out from about one hour before opening."
   - q: "Is Best Buy open on Thanksgiving 2026?"
-    a: "No. Best Buy said on Oct. 27 that stores will be closed on Thanksgiving Day, Nov. 26. In its Nov. 17 announcement it listed Black Friday, Nov. 27, as 6 a.m. to 10 p.m., Nov. 28 as 9 a.m. to 10 p.m. and Cyber Monday, Nov. 30, as 10 a.m. to 10 p.m., and added that hours may vary by location."
+    a: "No. Best Buy said on Oct. 27 that stores will be closed on Thanksgiving Day, Nov. 26. In its Nov. 17 announcement it listed Nov. 20 to 22 as 9 a.m. to 9 p.m., Nov. 23 to 25 as 9 a.m. to 10 p.m., Black Friday, Nov. 27, as 6 a.m. to 10 p.m., Nov. 28 as 9 a.m. to 10 p.m., Cyber Sunday, Nov. 29, as 9 a.m. to 9 p.m. and Cyber Monday, Nov. 30, as 10 a.m. to 10 p.m., and added that hours may vary by location."
   - q: "Which stores are closed on Thanksgiving 2026?"
     a: "Walmart, Target, Home Depot, Lowe's, Best Buy, Kohl's, JCPenney, Dick's Sporting Goods and Costco have confirmed they will close on Thanksgiving, Nov. 26, 2026. Dick's reopens at 6 a.m. on Nov. 27. Macy's closed on Thanksgiving in 2025 and has not announced 2026 hours; many grocery stores and pharmacies open with shorter hours."
   - q: "When does Amazon's Black Friday Week 2026 start?"
@@ -150,7 +150,7 @@ draft: false
 | Lowe's | Closed | Opened 6 a.m. in 2025 | Thanksgiving closure confirmed for 2026 |
 | Walmart | Closed | Opens 6 a.m. local time | 2026 confirmed |
 | Target | Closed | Opens 6 a.m. local time; closes at current closing time; hours extended Nov. 29 to Dec. 23; first 100 eligible guests get a GiftCard of $25, $50 or $100, plus one $1,000 GiftCard per store (tickets from about 5 a.m., redeem 6 to 7 a.m.) | 2026 confirmed |
-| Best Buy | Closed | 6 a.m. to 10 p.m. (Nov. 28: 9 a.m. to 10 p.m.; Cyber Monday, Nov. 30: 10 a.m. to 10 p.m.); hours may vary by location; members can buy a $100 gift card for $60 in store on Nov. 27 (at least 50 per store, while supplies last) | 2026 confirmed |
+| Best Buy | Closed | 6 a.m. to 10 p.m. (Nov. 20-22: 9 a.m. to 9 p.m.; Nov. 23-25: 9 a.m. to 10 p.m.; Nov. 28: 9 a.m. to 10 p.m.; Cyber Sunday, Nov. 29: 9 a.m. to 9 p.m.; Cyber Monday, Nov. 30: 10 a.m. to 10 p.m.); hours may vary by location; members can buy a $100 gift card for $60 in store on Nov. 27 (at least 50 per store, while supplies last) | 2026 confirmed |
 | Dick's Sporting Goods | Closed | 6 a.m. (closing hour not given; 10 p.m. in 2025) | Thanksgiving closure and 6 a.m. opening from Nov. 10 release |
 | Kohl's | Closed | Opens 5 a.m. local time | 2026 confirmed |
 | JCPenney | Closed | Opens 5 a.m. local time | 2026 confirmed |

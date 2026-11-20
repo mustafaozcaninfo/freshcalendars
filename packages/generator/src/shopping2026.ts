@@ -3,7 +3,7 @@
  * theme and an ink-saver black-and-white version):
  *   black-friday-planner-2026-{bold,autumn,ink}   store hours + shopping list + budget
  *   christmas-eve-checklist-2026-{classic,winter,ink}   closing times, open on Dec. 25, errands
- * Hours: Home Depot, Walmart, Kohl's, JCPenney 2026 from their releases; others are 2025 hours (AP, chain releases), marked.
+ * Hours: Home Depot, Walmart, Target, Best Buy, Dick's, Kohl's, JCPenney 2026 from their releases; others are 2025 hours (AP, chain releases), marked.
  * Usage: pnpm fc news-shopping
  */
 import { LETTER, doc, fontFaces } from "./julian.js";
@@ -24,7 +24,7 @@ const XMAS_THEMES: Theme[] = [
 /** [store, Black Friday opening, source year]. */
 export const BF_HOURS: [string, string, "2026" | "2025"][] = [
   ["Home Depot", "6 a.m.", "2026"], ["Lowe's", "6 a.m.", "2025"], ["Walmart", "6 a.m.", "2026"], ["Target", "6 a.m.", "2026"],
-  ["Best Buy", "6 a.m.-10 p.m.", "2025"], ["Dick's Sporting Goods", "6 a.m.", "2026"], ["Kohl's", "5 a.m.", "2026"],
+  ["Best Buy", "6 a.m.-10 p.m.", "2026"], ["Dick's Sporting Goods", "6 a.m.", "2026"], ["Kohl's", "5 a.m.", "2026"],
   ["JCPenney", "5 a.m.", "2026"], ["Macy's", "6 a.m.-10 p.m.", "2025"], ["Costco", "9 a.m.", "2025"], ["Sam's Club", "Regular hours", "2025"],
 ];
 /** [store, Christmas Eve closing, source year]. */
