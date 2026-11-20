@@ -67,7 +67,10 @@ export function sourceOf(host) {
 }
 
 /** Rows from `from` days ago up to `to` days ago (0 = now). */
-const AE_WHERE = (from, to = 0) => `timestamp > NOW() - INTERVAL '${from}' DAY` + (to ? ` AND timestamp <= NOW() - INTERVAL '${to}' DAY` : "");
+/** Calendar pages carry blob7 = 'cal' (cloudflare/worker.js pageView); every other row is a /news/ page. */
+const AE_TIME = (from, to = 0) => `timestamp > NOW() - INTERVAL '${from}' DAY` + (to ? ` AND timestamp <= NOW() - INTERVAL '${to}' DAY` : "");
+const AE_WHERE = (from, to = 0) => `${AE_TIME(from, to)} AND blob7 != 'cal'`;
+const AE_CAL = (from, to = 0) => `${AE_TIME(from, to)} AND blob7 = 'cal'`;
 const AE_RATE = "SUM(_sample_interval)";
 const AE_AVG = (col) => `SUM(_sample_interval * ${col}) / SUM(_sample_interval)`;
 const PAGE_COLS = `blob1 AS k, ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec, ${AE_AVG("double2")} AS scroll`;
@@ -87,6 +90,15 @@ export const BEACON_SQL = {
   inpDevices: (n) => `SELECT blob4 AS k, ${AE_RATE} AS n, SUM(if(double3 > 200, _sample_interval, 0)) AS slow, ${AE_AVG("double3")} AS inp FROM fc_pageviews WHERE ${AE_WHERE(n)} AND double3 > 0 GROUP BY k ORDER BY n DESC`,
   inpPages: (n) => `SELECT blob1 AS k, ${AE_RATE} AS n, SUM(if(double3 > 200, _sample_interval, 0)) AS slow, ${AE_AVG("double3")} AS inp FROM fc_pageviews WHERE ${AE_WHERE(n)} AND double3 > 0 GROUP BY k ORDER BY slow DESC LIMIT 25`,
   inpCauses: (n) => `SELECT blob5 AS k, blob6 AS script, ${AE_RATE} AS n, ${AE_AVG("double3")} AS inp, ${AE_AVG("double4")} AS delay FROM fc_pageviews WHERE ${AE_WHERE(n)} AND double3 > 200 GROUP BY k, script ORDER BY n DESC LIMIT 20`,
+};
+
+/** The same dataset for the calendar pages (measured from Nov. 20, 2026). */
+export const CALENDAR_SQL = {
+  daily: (n) => `SELECT toStartOfDay(timestamp) AS k, ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec, ${AE_AVG("double2")} AS scroll FROM fc_pageviews WHERE ${AE_CAL(2 * n)} GROUP BY k ORDER BY k`,
+  sources: (n) => `SELECT blob2 AS k, ${AE_RATE} AS n FROM fc_pageviews WHERE ${AE_CAL(n)} GROUP BY k ORDER BY n DESC LIMIT 300`,
+  pages: (n) => `SELECT ${PAGE_COLS} FROM fc_pageviews WHERE ${AE_CAL(n)} GROUP BY k ORDER BY n DESC LIMIT 300`,
+  devices: (n) => `SELECT blob4 AS k, ${AE_RATE} AS n, ${AE_AVG("double1")} AS sec, ${AE_AVG("double2")} AS scroll FROM fc_pageviews WHERE ${AE_CAL(n)} GROUP BY k ORDER BY n DESC`,
+  countries: (n) => `SELECT blob3 AS k, ${AE_RATE} AS n FROM fc_pageviews WHERE ${AE_CAL(n)} GROUP BY k ORDER BY n DESC LIMIT 15`,
 };
 
 /** One page's views, seconds and scroll between two UTC days (YYYY-MM-DD, end excluded). */
@@ -116,10 +128,9 @@ export function judgeUx(b, a) {
 }
 
 /** The beacon part of the report: real readers whose browser ran the page. */
-export function beaconReport(b, days) {
+export function beaconReport(b, days, title = "## Real readers (first-party beacon)", intro = `Page views of /news/ sent by the reader's own browser to /api/pv when they leave the page (cloudflare/worker.js). Ad blockers do not stop it and bots that run no JavaScript never send it, so this is the number to report. Last ${days} days.`) {
   const fmt = (n) => Math.round(n).toLocaleString("en-US");
-  const out = ["## Real readers (first-party beacon)", "",
-    `Page views sent by the reader's own browser to /api/pv when they leave the page (cloudflare/worker.js). Ad blockers do not stop it and bots that run no JavaScript never send it, so this is the number to report. Last ${days} days.`, ""];
+  const out = [title, "", intro, ""];
   if (b.daily) {
     const shown = b.daily.slice(-days);
     out.push("| Day | Views | Avg. seconds on page | Avg. deepest scroll |", "|---|---:|---:|---:|", ...shown.map((r) => `| ${String(r.k).slice(0, 10)} | ${fmt(r.n)} | ${fmt(r.sec)} | ${fmt(r.scroll)}% |`));
@@ -191,6 +202,7 @@ export function report({ days, now, sections }) {
     `Read ${iso(now).slice(0, 16)} UTC from Cloudflare's edge analytics for ${HOST}, last ${days} days (UTC days). Every page the edge served to a real browser counts, so these numbers are higher than Google Analytics, which misses ad-blocked visits and readers who leave before the page finishes loading. Self-declared bots are left out; unlabeled bots are not, and they are many: real search traffic is mostly mobile, so a desktop share far above half means bots and crawlers inflate these totals. Treat them as an upper bound and use the trend and the story ranking. Source: \`scripts/news-traffic.mjs\`, daily.`, ""];
   const s = sections;
   if (s.beacon) out.push(...beaconReport(s.beacon, days));
+  if (s.calendarBeacon?.daily?.length) out.push(...beaconReport(s.calendarBeacon, days, "## Calendar site readers (first-party beacon)", `The same beacon on the calendar pages (home, month, year and holiday pages), measured from Nov. 20, 2026. Last ${days} days.`));
   if (s.rum) out.push(...rumReport(s.rum));
   if (s.beacon || s.rum) out.push("## Edge requests (upper bound)", "");
   if (s.newsDaily && s.calendarDaily && s.pdfDaily) {
@@ -262,6 +274,15 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       if (!res.ok) throw new Error(`${res.status}: ${text.slice(0, 200)}`);
       return (JSON.parse(text).data ?? []).map((r) => ({ ...r, n: Number(r.n ?? 0), sec: Number(r.sec ?? 0), scroll: Number(r.scroll ?? 0), slow: Number(r.slow ?? 0), inp: Number(r.inp ?? 0), delay: Number(r.delay ?? 0) }));
     };
+    sections.calendarBeacon = {};
+    for (const [name, q] of Object.entries(CALENDAR_SQL)) {
+      try {
+        sections.calendarBeacon[name] = await sql(q(days));
+      } catch (e) {
+        sections.failed.push(`calendar beacon ${name}: ${e.message}`);
+        console.log(`::warning::traffic: calendar beacon ${name}: ${e.message}`);
+      }
+    }
     sections.beacon = {};
     for (const [name, q] of Object.entries(BEACON_SQL)) {
       try {

@@ -824,6 +824,80 @@ ${DESIGN_CSS}
 `);
 
 
+/* ---------------------------------------------------------------------------
+ * Measurement, shared by /news/ (apps/news/src/lib/analytics.ts) and the calendar pages
+ * (packages/generator/src/sitePages.ts): Google Analytics 4 and Microsoft Clarity loaded after
+ * window load, and the first-party page-view beacon. docs/ANALYTICS.md says what each one counts.
+ * ------------------------------------------------------------------------- */
+export const GA_ID = "G-VT08H0GXHZ";
+/**
+ * Microsoft Clarity (heatmaps, session recordings, rage and dead clicks) for UX and ad placement.
+ * The project id is public (it is in every page's source), so it lives here, not in a secret.
+ * Empty turns it off. It loads with gtag.js after window load, so it costs no LCP time. No consent
+ * signal is sent: in the EEA, UK and Switzerland Clarity then runs without cookies until a
+ * consent banner exists (see docs/ANALYTICS.md).
+ */
+export const CLARITY_ID = "z9rxjv1l0s";
+export const GA_ORIGINS = ["https://www.googletagmanager.com", "https://analytics.google.com", ...(CLARITY_ID ? ["https://www.clarity.ms"] : [])];
+
+const CLARITY_LOAD = CLARITY_ID
+  ? `window.clarity=window.clarity||function(){(clarity.q=clarity.q||[]).push(arguments)};
+    var c=document.createElement('script');
+    c.async=true; c.src='https://www.clarity.ms/tag/${CLARITY_ID}';
+    document.head.appendChild(c);`
+  : "";
+
+export const GA_JS = `
+(function(){
+  var id='${GA_ID}';
+  window.dataLayer=window.dataLayer||[];
+  window.gtag=function(){dataLayer.push(arguments);};
+  gtag('js',new Date());
+  gtag('config',id);
+  function load(){
+    var s=document.createElement('script');
+    s.async=true; s.src='https://www.googletagmanager.com/gtag/js?id='+id;
+    document.head.appendChild(s);
+    ${CLARITY_LOAD}
+  }
+  function later(){ 'requestIdleCallback' in window ? requestIdleCallback(load,{timeout:1500}) : setTimeout(load,200); }
+  document.readyState==='complete' ? later() : addEventListener('load',later);
+})();
+`;
+
+/**
+ * First-party page-view beacon to /api/pv (cloudflare/worker.js pageView): one POST when the reader
+ * leaves or hides the tab, with the path, the referrer host, seconds on the page and the deepest
+ * scroll. It is the traffic number to trust: same-origin, so ad blockers let it through, and set
+ * up at once in the inline script, so a reader who leaves before gtag.js loads still counts.
+ * No cookie or id.
+ */
+export const PV_JS = `
+(function(){
+  if(!navigator.sendBeacon) return;
+  var t0=Date.now(),max=0,sent=0,q=0;
+  function sc(){q=0;var h=document.documentElement,b=h.scrollHeight-h.clientHeight,y=window.scrollY||h.scrollTop;var p=b>0?Math.round(100*y/b):100;if(p>max)max=p;}
+  // Scroll depth is read at most once a frame, never inside the scroll event itself.
+  addEventListener('scroll',function(){if(!q){q=1;requestAnimationFrame(sc);}},{passive:true});
+  // Interaction to Next Paint (INP) in the field: the slowest tap, click or key on this page, the
+  // element it hit, its input delay, and the script that ran longest in that frame (Long Animation
+  // Frames), so the daily report names the page, the element and the script that slow readers down.
+  var inp=0,ist=0,idl=0,it='',lf=[];
+  try{new PerformanceObserver(function(l){l.getEntries().forEach(function(e){if(e.interactionId&&e.duration>inp){inp=e.duration;ist=e.startTime;idl=e.processingStart-e.startTime;var x=e.target;it=x&&x.tagName?x.tagName.toLowerCase()+(x.id?'#'+x.id:'')+(x.classList&&x.classList[0]?'.'+x.classList[0]:''):'';}});}).observe({type:'event',durationThreshold:40,buffered:true});}catch(e){}
+  try{new PerformanceObserver(function(l){l.getEntries().forEach(function(f){lf.push(f);if(lf.length>30)lf.shift();});}).observe({type:'long-animation-frame',buffered:true});}catch(e){}
+  function culprit(){var best='',d=0;lf.forEach(function(f){if(ist>=f.startTime-50&&ist<=f.startTime+f.duration)(f.scripts||[]).forEach(function(s){if(s.duration>d){d=s.duration;try{best=s.sourceURL?new URL(s.sourceURL).hostname:'inline';}catch(e){best='inline';}}});});return best;}
+  function send(){
+    if(sent) return; sent=1; sc();
+    var r=''; try{ r=document.referrer?new URL(document.referrer).hostname:''; }catch(e){}
+    var d={p:location.pathname,r:r,t:Math.round((Date.now()-t0)/1000),s:Math.min(100,max)};
+    if(inp){d.i=Math.round(inp);d.id=Math.round(idl);d.it=it.slice(0,60);d.is=culprit();}
+    navigator.sendBeacon('/api/pv',JSON.stringify(d));
+  }
+  addEventListener('pagehide',send);
+  document.addEventListener('visibilitychange',function(){ if(document.visibilityState==='hidden') send(); });
+})();
+`;
+
 export const NAV_JS = `
 (function(){
   var drawer=document.querySelector('.nav-drawer');

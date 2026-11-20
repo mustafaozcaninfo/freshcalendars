@@ -4,7 +4,7 @@ Three tools, three different questions. Their numbers never match, and that is e
 
 | Tool | Answers | Counts | Misses |
 |---|---|---|---|
-| First-party beacon (`/api/pv`, top of `docs/desk/traffic.md`) | How many real readers, from where, how long, how far down? | One view per news page a browser ran and left, same-origin so ad blockers let it through | Readers with JavaScript off; bots that run JavaScript (few); the calendar site (not added yet) |
+| First-party beacon (`/api/pv`, top of `docs/desk/traffic.md`) | How many real readers, from where, how long, how far down? | One view per news page a browser ran and left, same-origin so ad blockers let it through | Readers with JavaScript off; bots that run JavaScript (few); calendar-site views before Nov. 20, 2026 (added that day) |
 | Cloudflare edge analytics (`docs/desk/traffic.md`, daily) | How many pages and printables did readers open, and where from? | Every HTML page and PDF the edge served to a client that does not call itself a bot | Unlabeled bots are counted (the first run, Nov. 7, 2026, showed 94% desktop, so bots inflate the totals); no referrer on this plan; no behaviour inside the page |
 | Google Analytics 4 (`G-VT08H0GXHZ`, `apps/news/src/lib/analytics.ts`) | What did readers do on the page (engagement, events)? | Visits whose browser ran gtag.js | Ad-blocked visits, and readers who leave before window load (gtag.js loads after it, on purpose, for page speed) |
 | Search Console and Bing Webmaster Tools | How did we do in search results? | Clicks and impressions on the search page | Everything after the click |
@@ -31,6 +31,10 @@ Every /news/ page sets up a tiny script in its inline script (`PV_JS` in `apps/n
 - Limits on the Workers Free plan: 100,000 data points written and 10,000 read queries a day, kept three months; each beacon is also one Worker request (100,000 a day on Free). At about 30,000 real views a day there is room; past 70,000 a day, move to Workers Paid or sample.
 - Reading: the daily workflow queries the SQL API with `CF_AE_TOKEN`, a token with **Account > Account Analytics > Read** only, and `CLOUDFLARE_ACCOUNT_ID`. Until the owner adds `CF_AE_TOKEN` as a GitHub Actions secret, the report says the beacon section is unavailable.
 - Off: `NEWS_PV=0` at build time.
+
+## Calendar site (from Nov. 20, 2026)
+
+Every calendar page and the 404 page load the same three snippets as /news/ (`GA_JS`, `PV_JS` in `packages/site-chrome/src/index.ts`, added to the nav inline script by `packages/generator/src/sitePages.ts`): Google Analytics 4, Clarity and the beacon. The Worker tags a calendar view with `blob7 = 'cal'`; `news-traffic.mjs` keeps the /news/ numbers to the other rows and writes "Calendar site readers" in `docs/desk/traffic.md` (`calendarBeacon` in the JSON). In GA4 and Clarity the calendar pages are the paths outside `/news/`. Off: `FC_GA=0` or `FC_PV=0` at build time. The privacy policy (section 2.4) names all three for the whole site.
 
 ## What the desks do with it
 
