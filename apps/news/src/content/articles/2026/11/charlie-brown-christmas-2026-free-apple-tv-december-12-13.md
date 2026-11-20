@@ -87,7 +87,7 @@ internalLinks:
     label: "When is Christmas?"
   - href: "/when-is/christmas-eve/"
     label: "When is Christmas Eve?"
-related: [charlie-brown-thanksgiving-2026-free-apple-tv-november-14-15, christmas-movies-on-tv-2026-schedule-by-channel, abc-christmas-schedule-2026-cma-country-christmas-disney-parade]
+related: [new-on-apple-tv-december-2026-release-dates, charlie-brown-thanksgiving-2026-free-apple-tv-november-14-15, christmas-movies-on-tv-2026-schedule-by-channel]
 downloads:
   - group: "Apple TV Holiday Watch List 2026 printables"
     title: "Apple TV Holiday Watch List 2026"

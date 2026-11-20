@@ -81,7 +81,7 @@ internalLinks:
     label: "February printable calendars"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [gta-6-countdown-release-time-by-time-zone, ces-2027-dates-keynotes-las-vegas, video-game-release-dates-december-2026]
+related: [gta-6-countdown-release-time-by-time-zone, video-game-release-dates-january-2027, video-game-release-dates-december-2026]
 assets:
   overlay: true
   kicker: "Game releases 2027"
