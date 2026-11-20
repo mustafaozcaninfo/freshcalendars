@@ -80,7 +80,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [new-on-apple-tv-november-2026-release-dates, halloween-2026-saturday-sunset-trick-or-treat-times, daylight-saving-time-ends-november-1-2026]
+related: [snl-hosts-december-2026-amanda-seyfried-december-5, new-on-apple-tv-november-2026-release-dates, halloween-2026-saturday-sunset-trick-or-treat-times]
 downloads:
   - group: "SNL Season 52 Host Tracker printables"
     title: "SNL Season 52 Host Tracker, Fall 2026"

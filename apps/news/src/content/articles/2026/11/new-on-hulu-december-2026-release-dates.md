@@ -45,13 +45,13 @@ assets:
         - { date: "2026-12-31", title: "Duck Dynasty: FlashQuack (Season 1)", platforms: ["Series or special"], src: 1, quote: ["Thursday, December 31", "Duck Dynasty: FlashQuack (Season 1)"] }
       unconfirmed:
         - { label: "Raising Chelsea (Season 2)", why: "Disney lists it under Coming in December with no date" }
-    description: "One-page Hulu December 2026 watch list with 21 dated titles from Disney's list, from Phony on Dec. 1 to Duck Dynasty: FlashQuack on Dec. 31. Free to print."
+    description: "Two-page Hulu December 2026 watch list with 21 dated titles from Disney's list, from Phony on Dec. 1 to Duck Dynasty: FlashQuack on Dec. 31. Free to print."
     alt: "Printable Hulu December 2026 watch list with 21 Hulu titles on their release dates and boxes to tick"
 hero:
   src: ../../../../assets/news/new-on-hulu-december-2026-release-dates/new-on-hulu-december-2026-release-dates.webp
   alt: "A hand pointing a remote control at a television at home, for new on Hulu December 2026"
   caption: "A hand points a remote at a television at home, file photo. Disney's December 2026 list puts Only Murders in the Building season 6 on Hulu Tue., Dec. 8."
-  credit: "Photo: Shixart1985 / Wikimedia Commons, cropped"
+  credit: "Photo: Shixart1985 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 2.0"
     url: "https://creativecommons.org/licenses/by/2.0"
@@ -89,7 +89,15 @@ internalLinks:
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
 related: [new-on-hulu-november-2026-release-dates, iheartradio-jingle-ball-2026-dates-lineup-by-city-abc-special, new-on-disney-plus-november-2026-release-dates]
-downloads: []
+downloads:
+  - group: "New on Hulu printables"
+    title: "New on Hulu, December 2026: Watch List"
+    description: "Two-page Hulu December 2026 watch list with 21 dated titles from Disney's list, from Phony on Dec. 1 to Duck Dynasty: FlashQuack on Dec. 31. Free to print."
+    preview: ../../../../assets/news/hulu-2026/hulu-december-2026-watch-list.png
+    alt: "Printable Hulu December 2026 watch list with 21 Hulu titles on their release dates and boxes to tick"
+    pdf: "/news/downloads/hulu-2026/hulu-december-2026-watch-list.pdf"
+    png: "/news/downloads/hulu-2026/hulu-december-2026-watch-list.png"
+    pages: 2
 draft: false
 ---
 
@@ -114,7 +122,7 @@ These are the premieres and endings the post marks with "Premiere" or "Finale" f
 
 ## What is new on Hulu each day in December 2026?
 
-The table follows the Disney post for each date and keeps its titles, years and labels. It covers rows tagged "Hulu" or "Disney+ and Hulu," and leaves out Disney+-only rows and podcast episodes. Five dates have no row beyond podcasts: Dec. 13, 16, 19, 20 and 24. American Broadcasting Company (ABC) shows are marked as the post marks them.
+The table follows the Disney post for each date and keeps its titles, years and labels. It covers rows tagged "Hulu" or "Disney+ and Hulu," and leaves out Disney+-only rows and podcast episodes. Five dates have no row beyond podcasts: Dec. 13, 16, 19, 20 and 24. American Broadcasting Company (ABC) shows are marked as the post marks them. Titles keep the post's spelling, including the Country Music Association (CMA) in CMA Country Christmas and deoxyribonucleic acid (DNA) in The Jesus Strand: A Search for DNA.
 
 | Day and date | Hulu series, premieres and finales | Films and specials |
 |---|---|---|
@@ -175,7 +183,7 @@ The Disney+ welcome page, checked Nov. 20, 2026, lists the Disney+ and Hulu bund
 
 ## Print the Hulu December 2026 watch list
 
-The printable lists 21 dated Hulu titles from the post on their dates, from Phony on Dec. 1 to Duck Dynasty: FlashQuack on Dec. 31, with a box to tick for each. Raising Chelsea season 2 is printed as "date not yet announced." Pair it with a [December 2026 calendar](/december-calendars.html), or use the [printable weekly calendar](/printable-weekly-calendar.html) to plan each watch night. For November titles, see the [Hulu November 2026 list](/news/new-on-hulu-november-2026-release-dates/).
+The two-page printable lists 21 dated Hulu titles from the post on their dates, from Phony on Dec. 1 to Duck Dynasty: FlashQuack on Dec. 31, with a box to tick for each. Raising Chelsea season 2 is printed as "date not yet announced." Pair it with a [December 2026 calendar](/december-calendars.html), or use the [printable weekly calendar](/printable-weekly-calendar.html) to plan each watch night. For November titles, see the [Hulu November 2026 list](/news/new-on-hulu-november-2026-release-dates/).
 
 ## How we keep this accurate
 

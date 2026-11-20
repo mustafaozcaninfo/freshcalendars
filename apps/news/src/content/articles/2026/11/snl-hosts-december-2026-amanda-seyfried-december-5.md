@@ -20,7 +20,7 @@ assets:
     subtitle: "Dec. 5 with Amanda Seyfried and Don Toliver, plus space for Dec. 12 and Dec. 19"
     note: "Source: TheWrap and TVLine, Nov. 14-15, 2026, for the date; TVLine, Nov. 14, 2026, for the air time. Central, Mountain and Pacific times are computed from the Eastern Time start. NBC can change an episode."
     description: "One-page tracker for Saturday Night Live in December 2026: the Dec. 5 host and musical guest with times in four U.S. zones and blanks for Dec. 12 and Dec. 19."
-    alt: "Printable Saturday Night Live December 2026 host tracker with the Dec. 5 episode, show times in four U.S. time zones and blank lines for Dec. 12 and Dec. 19"
+    alt: "Printable Saturday Night Live December 2026 host tracker with Dec. 5 times in four zones"
     data:
       pick: false
       events:
@@ -33,7 +33,7 @@ hero:
   src: ../../../../assets/news/snl-hosts-december-2026-amanda-seyfried-december-5/snl-hosts-december-2026-amanda-seyfried-december-5.webp
   alt: "SNL hosts December 2026: 30 Rockefeller Plaza lit at night, seen from the Channel Gardens in New York, home of NBC and Saturday Night Live"
   caption: "30 Rockefeller Plaza, home of NBC Studios where Saturday Night Live is made. File photo; Amanda Seyfried hosts on Dec. 5, 2026."
-  credit: "Photo: Kai Pilger / Wikimedia Commons, cropped"
+  credit: "Photo: Kai Pilger / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
     url: "https://creativecommons.org/licenses/by-sa/4.0"
@@ -50,8 +50,8 @@ faq:
     a: "NBC has not announced a new episode for either Saturday. Music Times reported there will be none on Nov. 21 or Nov. 28; NBC has not said anything about either date."
   - q: "Who hosts SNL on Dec. 12 and Dec. 19, 2026?"
     a: "Not yet announced. Music Times wrote that more episodes are expected on those dates, but no host or musical guest has been named."
-  - q: "Who was the first season 52 host to make a debut?"
-    a: "Inde Navarrette hosted for the first time on Oct. 31, 2026, per the earlier November story. Music Times counts Seyfried as the season's fourth first-time host."
+  - q: "Is Amanda Seyfried a first-time SNL host?"
+    a: "Yes. TheWrap and TVLine both call Dec. 5 her hosting debut, and Music Times counts her as season 52's fourth first-time host."
   - q: "How can I watch SNL without cable?"
     a: "TVLine says the show airs on NBC and streams live on Peacock. Peacock lists Saturdays at 11:30 p.m. ET and 8:30 p.m. PT, live coast to coast."
 sources:
@@ -100,6 +100,15 @@ internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
 related: [snl-hosts-november-2026-halloween-episode-inde-navarrette-schedule]
+downloads:
+  - group: "SNL December 2026 Host Tracker printables"
+    title: "SNL December 2026 Host Tracker"
+    description: "One-page tracker for Saturday Night Live in December 2026: the Dec. 5 host and musical guest with times in four U.S. zones and blanks for Dec. 12 and Dec. 19."
+    preview: ../../../../assets/news/snl-season-52-2026/snl-december-2026-host-tracker.png
+    alt: "Printable Saturday Night Live December 2026 host tracker with Dec. 5 times in four zones"
+    pdf: "/news/downloads/snl-season-52-2026/snl-december-2026-host-tracker.pdf"
+    png: "/news/downloads/snl-season-52-2026/snl-december-2026-host-tracker.png"
+    pages: 1
 draft: false
 ---
 
@@ -166,4 +175,4 @@ The one-page sheet shows the Dec. 5 episode with times in four U.S. zones and le
 
 ## Sources and recheck
 
-The Dec. 5 lineup rests on two newsrooms, TheWrap and TVLine; NBC's own season 52 pages had not listed it in the pairs we copied. We checked every source on Nov. 20, 2026. Hosts and dates can change, and this story will change with them.
+The Dec. 5 lineup rests on two newsrooms, TheWrap and TVLine. NBC Insider's season 52 guides supply the earlier episodes. We checked the sources on Nov. 20, 2026. Hosts and dates can change, and this story will change with them.

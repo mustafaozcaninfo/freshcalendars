@@ -74,7 +74,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [new-on-hbo-max-november-2026-release-dates-city-of-god-tony, new-on-disney-plus-november-2026-release-dates, netflix-new-movies-november-2026-release-dates]
+related: [new-on-hulu-december-2026-release-dates, new-on-disney-plus-november-2026-release-dates, netflix-new-movies-november-2026-release-dates]
 downloads:
   - group: "New on Hulu printables"
     title: "New on Hulu, November 2026: Watch Calendar"
