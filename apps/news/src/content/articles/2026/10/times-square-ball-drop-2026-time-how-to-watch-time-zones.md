@@ -3,7 +3,7 @@ title: "Times Square Ball Drop 2026: 11:59 p.m. ET, Time in Every Zone"
 description: "The Times Square ball drop 2026 begins at 11:59 p.m. ET on Thursday, Dec. 31. It is 11 p.m. Central, 10 p.m. Mountain, 9 p.m. Pacific, plus ABC times."
 type: news
 publishedAt: "2026-10-30T15:48:00-04:00"
-updatedAt: "2026-11-06T13:53:00-05:00"
+updatedAt: "2026-11-19T21:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["ball drop 2026 time", "what time does the ball drop", "new year's rockin eve 2027 time", "times square new year's eve 2026", "how to watch ball drop"]
@@ -21,7 +21,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/22882274@N04"
 summary:
   - "Per the Times Square Alliance, the ball is raised to the top of the pole at about 6 p.m. ET and starts its 60-second descent at exactly 11:59 p.m. ET on Thursday, Dec. 31, 2026."
-  - "\"Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2027\" starts at 8 p.m. ET (7 p.m. CT) on ABC and, for the first time, streams on Disney+, according to TheWrap and TV Insider."
+  - "\"Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2027\" runs from 8 p.m. to 4 a.m. ET on ABC and, for the first time, streams on Disney+, according to ABC's holiday schedule."
   - "The ball hits midnight at 11 p.m. in Central Time, 10 p.m. in Mountain, 9 p.m. in Pacific, 8 p.m. in Alaska and 7 p.m. in Hawaii."
   - "The Alliance has not posted 2026-27 entry rules yet; the rules below are from its page for the last event."
 assets:
@@ -80,6 +80,10 @@ sources:
   - title: "'Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2027' to Simulcast on Disney+"
     url: "https://abc.com/news/fe2a34ee-c8e0-4df1-a1a1-ef35d92fb779/category/1138628"
     publisher: "ABC"
+  - title: "Unwrap ABC's 2026 Festive Holiday Programming Lineup: See the Schedule"
+    url: "https://abc.com/news/991c57c5-6bf2-40ee-bcca-62ee975adbaa/category/1138628"
+    publisher: "ABC"
+    date: "2026-11-06"
   - title: "New Year's Rockin' Eve with Ryan Seacrest to simulcast on ABC and Disney+ for the first time"
     url: "https://www.thewrap.com/media-platforms/tv/new-years-rockin-eve-ryan-seacrest-simulcast-abc-disney-plus-first-time/"
     publisher: "TheWrap"
@@ -109,7 +113,7 @@ faq:
   - q: "What time does the ball drop in Pacific Time?"
     a: "The descent starts at 8:59 p.m. PT and midnight in New York is 9 p.m. PT. Whether ABC replays the drop in the West has not been announced."
   - q: "What time does New Year's Rockin' Eve 2027 start?"
-    a: "ABC has not published the 2026-27 start time, but says the show simulcasts on Disney+ alongside ABC for the first time. TheWrap and TV Insider reported an 8 p.m. ET (7 p.m. CT) start. The performer lineup has not been announced."
+    a: "ABC's holiday schedule lists the show from 8 p.m. to 4 a.m. ET on Thursday, Dec. 31, 2026, and it simulcasts on Disney+ alongside ABC for the first time. TheWrap and TV Insider reported 7 p.m. CT. The performer lineup has not been announced."
   - q: "Can you bring a backpack to Times Square on New Year's Eve?"
     a: "Backpacks were not permitted at the last event, per the Alliance's guidance for that event. The Alliance has not posted 2026-27 rules yet."
   - q: "Is the ball new in 2026?"
@@ -124,7 +128,7 @@ The Times Square New Year's Eve ball starts its 60-second descent at exactly 11:
 |---|---|---|
 | About 6 p.m. | Ball raised to the top of the pole | Times Square Alliance |
 | 6 p.m. | Alliance live webcast starts | Times Square Alliance |
-| 8 p.m. | "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2027" starts on ABC and Disney+ | TheWrap, TV Insider |
+| 8 p.m. | "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2027" starts on ABC and Disney+ (runs until 4 a.m.) | ABC |
 | 11:59 p.m. | Ball starts its 60-second descent | Times Square Alliance |
 | Midnight, Fri., Jan. 1 | New Year in Times Square | Times Square Alliance |
 
@@ -154,7 +158,7 @@ Two Canadian provinces moved to permanent offsets this year, per the tz database
 
 ABC said in October 2026 that "Dick Clark's New Year's Rockin' Eve with Ryan Seacrest 2027" "will simulcast on Disney+, alongside the live broadcast on ABC, for the first time in the history of the iconic franchise." The show is hosted by Ryan Seacrest. ABC said Rita Ora "returns to co-host from New York's Times Square," Druski is "the Chicago co-host," and Julianne Hough and Rob Gronkowski "will return to Las Vegas."
 
-ABC has not published the 2026-27 start time on Dec. 31, 2026, and said "additional details for this year's broadcast will be announced in the coming months," so performers are not yet named. TheWrap reported on Oct. 7, 2026, and TV Insider on Oct. 27, 2026, that the special begins at 8 p.m. ET (7 p.m. CT). Plans from CNN, NBC and Fox have not been announced. Last year, ABC's special also began at 8 p.m. ET, 7 p.m. CT, according to ABC11 on Dec. 26, 2025.
+ABC's holiday schedule, published Nov. 6, 2026, lists the show on Thursday, Dec. 31 from 8 p.m. to 4 a.m., with all times listed as Eastern/Pacific. ABC had said in October that "additional details for this year's broadcast will be announced in the coming months," and no performers are named yet. TheWrap on Oct. 7, 2026, and TV Insider on Oct. 27, 2026, reported the same 8 p.m. ET start, which is 7 p.m. CT. Plans from CNN, NBC and Fox have not been announced. Last year, ABC's special also began at 8 p.m. ET, 7 p.m. CT, according to ABC11 on Dec. 26, 2025.
 
 ABC said last year's broadcast drew "46 million total viewers" across "an expanded eight-hour celebration" with "42 performers, four live countdown celebrations, and nearly 100 songs." It added that "more than 30 million viewers watched the iconic Times Square Ball Drop at midnight."
 
