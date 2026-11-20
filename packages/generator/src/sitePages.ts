@@ -298,6 +298,7 @@ ${hreflang}
 ${imageLd.length ? `<script type="application/ld+json">${JSON.stringify(imageLd)}</script>` : ""}
 ${meta.faq.length ? `<script type="application/ld+json">${JSON.stringify(faqLd)}</script>` : ""}
 ${howToLd ? `<script type="application/ld+json">${JSON.stringify(howToLd)}</script>` : ""}
+${(meta.extraLd ?? []).map((ld) => `<script type="application/ld+json">${JSON.stringify(ld).replace(/</g, "\\u003c")}</script>`).join("\n")}
 `;
 }
 
@@ -2274,7 +2275,7 @@ function termsOfUseBody(): string {
 }
 
 export function renderConceptHubs(home: SeoMeta, today: Date): { meta: SeoMeta; html: string; file: string }[] {
-  const hubs: { id: string; path: string; title: string; description: string; body: string; crumbs?: { name: string; url: string }[]; holiday?: { slug: string; year: number }; canonicalPath?: string; sheet?: { year: number; month?: number } }[] = [
+  const hubs: { id: string; path: string; title: string; description: string; body: string; crumbs?: { name: string; url: string }[]; holiday?: { slug: string; year: number }; canonicalPath?: string; sheet?: { year: number; month?: number }; ld?: Record<string, unknown>[] }[] = [
     { id: "calendar-library", path: "/calendars/", title: `Free Printable Calendars ${home.calendar.year} and ${home.calendar.year! + 1} to Download`, description: `Free printable calendars for ${home.calendar.year} and ${home.calendar.year! + 1}: monthly, yearly, blank and weekly designs. Pick a design, paper size and start day, then download PDF or PNG.`, body: calendarLibrary(today, false) + datedIndexNav(today) },
     { id: "monthly-library", path: "/monthly-calendars/", title: `Free Monthly Calendar Printables for ${home.calendar.year} and ${home.calendar.year! + 1}`, description: `Free monthly calendar printables for every month of ${home.calendar.year} and ${home.calendar.year! + 1}. Filter by month and design, choose Letter or A4 and a Sunday or Monday start.`, body: calendarLibrary(today, true) + datedIndexNav(today) },
     ...toolPages(today, { volatile, holidayMonthBlock }),
@@ -2293,6 +2294,7 @@ export function renderConceptHubs(home: SeoMeta, today: Date): { meta: SeoMeta; 
     // The home page's poster (spread in above) is not on these pages: a dated page offers its own
     // design cards, a tool or library page nothing.
     meta.searchImages = p.sheet ? sheetSearchImages(p.sheet.year, p.sheet.month) : [];
+    if (p.ld) meta.extraLd = p.ld;
     meta.ogImagePath = ogImagePath; meta.openGraph.images = [{ url: ogUrl, width: 1200, height: 630, alt: p.title }]; meta.twitter.image = ogUrl;
     return { meta, html: layout(meta, tool && !dated ? `${p.body}<script>${TOOLS_JS}</script>` : p.body, { today }), file: p.path.slice(1) + "index.html" };
   });

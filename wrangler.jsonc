@@ -39,6 +39,7 @@
   // Engine must be enabled for the account (it is since Nov. 7, 2026), or the deploy fails (10089).
   "analytics_engine_datasets": [{ "binding": "PV", "dataset": "fc_pageviews" }],
   "vars": { "CONTACT_FROM": "contact@notify.freshcalendars.com" },
-  // Secrets (wrangler secret put): TURNSTILE_SECRET, CONTACT_TO, GH_DISPATCH_TOKEN.
+  // Secrets (wrangler secret put): TURNSTILE_SECRET, CONTACT_TO, GH_DISPATCH_TOKEN, and STRIPE_SECRET
+  // (a restricted key that can only read Checkout Sessions; /api/order, docs/PACKS.md).
   "observability": { "enabled": true, "head_sampling_rate": 0.1 }
 }

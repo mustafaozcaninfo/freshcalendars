@@ -113,6 +113,9 @@ async function main(): Promise<void> {
         htmlOnly: argFlag("--html-only"),
       });
       console.log(`${cmd} complete`);
+    } else if (cmd === "packs") {
+      // Paid printable packs (docs/PACKS.md): build every pack's ZIP and covers, on sale or not.
+      await (await import("./packs.js")).ensurePacks({ all: true });
     } else if (cmd === "refresh-evergreen") {
       await refreshEvergreen();
     } else if (cmd === "refresh-meta" || cmd === "gen-meta-daily") {
