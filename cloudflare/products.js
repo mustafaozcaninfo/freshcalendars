@@ -2,9 +2,10 @@
 // calendar page, the pack file itself) and by the Worker (the page a buyer lands on after paying).
 // See docs/PACKS.md.
 //
-// A pack is on sale only while `checkoutUrl` is set. With it empty the calendar page is exactly
-// the free page it was: no buy box and no Product data, because Google's merchant listing rules
-// allow that data only on a page where the shopper can really buy.
+// `listed` puts the pack on its calendar page. `checkoutUrl` makes it buyable. A pack that is
+// listed with no checkout link is shown as "checkout opens soon" and its Offer says OutOfStock:
+// the page and its data must never claim a shopper can buy what they cannot (Google's structured
+// data policy). The day the link is set, the button works and the Offer turns to InStock.
 //
 // `key` is a random folder name on the CDN. The sheets inside a pack are the free ones, so the
 // folder is not a secret worth more than the price; it only keeps the bundle from being listed.
@@ -22,6 +23,7 @@ export const PACKS = [
     validUntil: "2028-01-31",
     refundDays: 14,
     key: "p7k3v9q2xm4t",
+    listed: true,
     // The Stripe Payment Link (https://buy.stripe.com/...). Empty: not on sale.
     checkoutUrl: "",
   },

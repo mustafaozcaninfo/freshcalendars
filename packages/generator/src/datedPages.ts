@@ -266,7 +266,7 @@ ${pack ? `${packTermsHtml(pack)}<script>${PACK_JS}</script>` : ""}
     description: [hols.length ? `; ${hols[0]!.name} is ${name} ${hols[0]!.day}` : "", ""].map((tail) => `Free printable ${name} ${year} calendar in eight PDF designs, Letter or A4. It starts on a ${f.start}, has ${f.days} days and ${workingDays(year, month).count} working days${tail}.`).find((d) => d.length <= 158)!,
     body, crumbs: c, canonicalPath: evergreen, sheet: { year, month },
     // The Product sits on the page that sells it: never on a month whose canonical is elsewhere.
-    ld: pack?.checkoutUrl && !evergreen ? [packLd(pack, `${ORIGIN}${monthYearPath(year, month)}`)] : undefined,
+    ld: pack && (pack.listed || pack.checkoutUrl) && !evergreen ? [packLd(pack, `${ORIGIN}${monthYearPath(year, month)}`)] : undefined,
   };
 }
 

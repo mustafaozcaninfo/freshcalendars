@@ -19,9 +19,11 @@ on the page; the pack sells one file per paper size.
 | Styles | `packages/site-chrome/src/refresh.ts` (`.pack-*`) |
 | The page a buyer lands on after paying | `cloudflare/worker.js` (`order`, `/api/order`) |
 
-**A pack is on sale only while its `checkoutUrl` is set.** With it empty the month page is the free
-page it always was: no buy box, no Product data, no pack file. Google's merchant listing data is
-allowed only on a page where a shopper can buy, so the data and the button always appear together.
+**`listed` shows the pack; `checkoutUrl` sells it.** A listed pack with no checkout link has a
+disabled "Checkout opens soon" button and its Offer says `OutOfStock` (live this way since Nov. 20,
+2026, so Google can read the product page while Stripe is set up). With the link set, the button
+works and the Offer says `InStock`. The page and the data never say a shopper can buy what they
+cannot: that is the misleading structured data Google's policy names.
 
 `FC_PACK_PREVIEW=1 pnpm fc gen-meta` draws the box with a disabled button for a local look.
 `pnpm fc packs` builds the pack files without a checkout link (to open the ZIP and the covers).

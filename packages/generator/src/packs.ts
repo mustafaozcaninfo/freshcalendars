@@ -5,8 +5,9 @@
  * Sunday or Monday start), sold as one download. The single sheets stay free on the page; the pack
  * sells the convenience of one file per paper size and start day.
  *
- * Nothing here shows on a page until the pack has a checkout link: Product data on a page with no
- * way to buy is the "misleading structured data" Google's policies name.
+ * A listed pack with no checkout link yet shows "checkout opens soon" and an OutOfStock offer: data
+ * that says a shopper can buy what they cannot is the "misleading structured data" Google's
+ * policies name.
  */
 import fs from "node:fs/promises";
 import { statSync } from "node:fs";
@@ -31,7 +32,7 @@ const preview = () => process.env.FC_PACK_PREVIEW === "1";
 /** The pack on sale for this month, if any. */
 export function packFor(year: number, month: number): Pack | null {
   const p = PACKS.find((x) => x.year === year && x.month === month);
-  return p && (p.checkoutUrl || preview()) ? p : null;
+  return p && (p.listed || p.checkoutUrl || preview()) ? p : null;
 }
 
 const usd = (p: Pack) => `$${p.price}`;
@@ -53,12 +54,12 @@ export function packBoxHtml(p: Pack): string {
   const c = packCovers(p), designs = CARD_STYLES.map((s) => s.label);
   const buy = p.checkoutUrl
     ? `<a class="btn btn-primary pack-buy" href="${esc(p.checkoutUrl)}" rel="nofollow" data-pack="${p.id}" data-price="${p.price}">Buy the pack for ${usd(p)}</a>`
-    : `<span class="btn btn-primary pack-buy" aria-disabled="true">Buy the pack for ${usd(p)}</span>`;
+    : `<span class="btn btn-primary pack-buy" aria-disabled="true">Checkout opens soon</span>`;
   return `<section class="pack-box" id="pack" aria-labelledby="pack-title">
-  <img class="pack-cover" src="${cdnUrl(c.standard.url)}" alt="The ${sheets()} sheets of the ${esc(p.name)} laid out side by side" width="${c.standard.width}" height="${c.standard.height}" decoding="async">
+  <img class="pack-cover" src="${cdnUrl(c.standard.url)}" alt="The ${sheets()} sheets of the ${esc(p.name)} laid out side by side" title="${esc(p.name)}" width="${c.standard.width}" height="${c.standard.height}" decoding="async">
   <div class="pack-body">
     <h2 id="pack-title">${esc(p.name)}</h2>
-    <p class="pack-price"><strong>${usd(p)}</strong> <span>one payment, instant download</span></p>
+    <p class="pack-price"><strong>${usd(p)}</strong> <span>${p.checkoutUrl ? "one payment, instant download" : "one payment; not on sale yet"}</span></p>
     <p>Every ${period(p)} design on this page, bound into four PDF files so one click prints the whole set.</p>
     <ul class="pack-list">
       <li><strong>${sheets()} designs in each file:</strong> ${designs.join(", ")}</li>
@@ -106,7 +107,8 @@ export function packLd(p: Pack, pageUrl: string): Record<string, unknown> {
       price: p.price,
       priceCurrency: p.currency,
       priceValidUntil: p.validUntil,
-      availability: "https://schema.org/InStock",
+      // Buyable only with a checkout link; until then the page says so and so does the data.
+      availability: p.checkoutUrl ? "https://schema.org/InStock" : "https://schema.org/OutOfStock",
       itemCondition: "https://schema.org/NewCondition",
       seller: { "@type": "Organization", "@id": ORG, name: "Fresh Calendars" },
       // A download: no charge, no handling or transit time.

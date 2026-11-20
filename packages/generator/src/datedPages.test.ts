@@ -102,13 +102,18 @@ describe("dated month and year pages", () => {
     const { packFor, packLd, packContents, zipStore } = await import("./packs.js");
     const pack = PACKS.find((p) => p.id === "january-2028-calendar-pack")!;
     const page = () => datedPages(today).find((p) => p.path === "/january-2028-calendar/")!;
-    const was = pack.checkoutUrl;
+    const was = pack.checkoutUrl, wasListed = pack.listed;
     try {
-      // Not on sale: the page is the free page, with no buy box and no Product data.
-      pack.checkoutUrl = "";
+      // Not listed: the page is the free page, with no buy box and no Product data.
+      pack.checkoutUrl = ""; pack.listed = false;
       assert.equal(packFor(2028, 1), null);
       assert.doesNotMatch(page().body, /pack-box|pack-terms/);
       assert.equal(page().ld, undefined);
+      // Listed before checkout exists: shown, but neither the page nor the data says it can be bought.
+      pack.listed = true;
+      assert.match(page().body, /Checkout opens soon/);
+      assert.doesNotMatch(page().body, /data-pack=/);
+      assert.equal((page().ld![0] as any).offers.availability, "https://schema.org/OutOfStock");
       pack.checkoutUrl = "https://buy.stripe.com/test_123";
       const p = page(), ld = packLd(pack, "https://freshcalendars.com/january-2028-calendar/") as any;
       assert.match(p.body, /href="https:\/\/buy\.stripe\.com\/test_123"/);
@@ -116,6 +121,7 @@ describe("dated month and year pages", () => {
       assert.match(p.body, /\$0\.99/);
       assert.match(p.body, /id="pack-terms"/);
       assert.deepEqual(p.ld, [ld]);
+      assert.equal(ld.offers.availability, "https://schema.org/InStock");
       assert.equal(ld.offers.price, "0.99");
       assert.equal(ld.offers.priceCurrency, "USD");
       assert.equal(ld.offers.url, "https://freshcalendars.com/january-2028-calendar/#pack");
@@ -125,7 +131,7 @@ describe("dated month and year pages", () => {
       assert.equal(packContents(pack).length, 4);
       // Every other month stays as it was.
       assert.equal(datedPages(today).filter((x) => x.ld).length, 1);
-    } finally { pack.checkoutUrl = was; }
+    } finally { pack.checkoutUrl = was; pack.listed = wasListed; }
     // The ZIP writer: a stored archive any unzip tool reads.
     const zip = zipStore([{ name: "a.txt", data: Buffer.from("hello") }]);
     assert.equal(zip.readUInt32LE(0), 0x04034b50);
