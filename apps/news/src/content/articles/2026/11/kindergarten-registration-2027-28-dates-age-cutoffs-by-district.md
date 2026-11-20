@@ -3,7 +3,7 @@ title: "Kindergarten Registration 2027-28: NYC Opens Dec. 9, Age Cutoffs"
 description: "NYC kindergarten applications for 2027-28 open Dec. 9, 2026; Philadelphia registers Jan. 19. Age cutoffs and registration dates for large districts."
 type: news
 publishedAt: "2026-11-03T06:10:00-05:00"
-updatedAt: "2026-11-04T13:41:00-05:00"
+updatedAt: "2026-11-20T13:25:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["kindergarten registration 2027", "kindergarten registration 2027-28", "nyc kindergarten application 2027", "kindergarten age cutoff 2027", "when does kindergarten registration open"]
@@ -21,13 +21,13 @@ hero:
 summary:
   - "NYC Public Schools opens the kindergarten application for 2027-28 on Wednesday, Dec. 9, 2026, closes it Friday, Jan. 22, 2027, and releases offers Tuesday, Mar. 30, 2027."
   - "The School District of Philadelphia begins neighborhood kindergarten registration Tuesday, Jan. 19, 2027, and Wake County Public School System (WCPSS) opened kindergarten registration Oct. 15, 2026."
-  - "Age cutoffs differ: NYC takes children who turn five in the 2027 calendar year (born in 2022), Philadelphia and Montgomery County, Md., set Sept. 1, Wake County and Charlotte-Mecklenburg Aug. 31, and Fairfax County Sept. 30."
-  - "Fairfax County, Montgomery County, Gwinnett County and Charlotte-Mecklenburg Schools (CMS) had not announced 2027-28 registration dates when we checked on Nov. 3, 2026."
+  - "Age cutoffs differ: NYC takes children who turn five in the 2027 calendar year (born in 2022), Philadelphia, Montgomery County, Md., and Broward County, Fla., set Sept. 1, Wake County and Charlotte-Mecklenburg Aug. 31, and Fairfax County Sept. 30."
+  - "Fairfax County, Montgomery County, Gwinnett County, Charlotte-Mecklenburg Schools (CMS) and Broward County had not announced 2027-28 registration dates when we checked on Nov. 20, 2026."
 faq:
   - q: "When does NYC kindergarten registration open for 2027-28?"
     a: "The kindergarten application opens Wednesday, Dec. 9, 2026 and closes Friday, Jan. 22, 2027, according to NYC Public Schools. Offers are released Tuesday, Mar. 30, 2027."
   - q: "What is the kindergarten age cutoff for fall 2027?"
-    a: "It depends on the district. NYC says children enter kindergarten in September of the calendar year they turn five, so children born in 2022. Philadelphia and Montgomery County use Sept. 1, 2027, Wake County and Charlotte-Mecklenburg Aug. 31, and Fairfax County Sept. 30."
+    a: "It depends on the district. NYC says children enter kindergarten in September of the calendar year they turn five, so children born in 2022. Philadelphia, Montgomery County and Broward County use Sept. 1, 2027, Wake County and Charlotte-Mecklenburg Aug. 31, and Fairfax County Sept. 30."
   - q: "When does kindergarten registration open in Philadelphia?"
     a: "Registration at neighborhood schools for 2027-28 begins Tuesday, Jan. 19, 2027, according to the School District of Philadelphia."
   - q: "Is kindergarten registration already open anywhere for 2027-28?"
@@ -38,34 +38,38 @@ sources:
   - title: "Enroll in NYC Public Schools: Kindergarten"
     url: "https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/kindergarten"
     publisher: "NYC Public Schools"
-    date: "2026-11-03"
+    date: "2026-11-20"
   - title: "New York Education Law 3202: Public schools free to resident persons over five and under twenty-one"
     url: "https://www.nysenate.gov/legislation/laws/EDN/3202"
     publisher: "New York State Senate"
   - title: "Kindergarten"
     url: "https://www.philasd.org/kregistration"
     publisher: "School District of Philadelphia"
-    date: "2026-11-04"
+    date: "2026-11-03"
   - title: "Enroll"
     url: "https://www.wcpss.net/enroll"
     publisher: "Wake County Public School System"
-    date: "2026-11-04"
+    date: "2026-11-20"
   - title: "Kindergarten Registration"
     url: "https://www.fcps.edu/about-fcps/registration/kindergarten-registration"
     publisher: "Fairfax County Public Schools"
-    date: "2026-11-03"
+    date: "2026-11-20"
   - title: "Kindergarten Enrollment"
     url: "https://www.montgomeryschoolsmd.org/info/enroll/kindergarten.aspx"
     publisher: "Montgomery County Public Schools"
-    date: "2026-11-03"
+    date: "2026-11-20"
   - title: "Kindergarten Registration Information"
     url: "https://www.gcpsk12.org/schools/new-student-enrollmentregistration/kindergarten-registration"
     publisher: "Gwinnett County Public Schools"
-    date: "2026-11-03"
+    date: "2026-11-20"
   - title: "Enroll"
     url: "https://www.cmsk12.org/enroll"
     publisher: "Charlotte-Mecklenburg Schools"
-    date: "2026-11-04"
+    date: "2026-11-20"
+  - title: "Welcome To Kindergarten"
+    url: "https://www.browardschools.com/Domain/19347"
+    publisher: "Broward County Public Schools"
+    date: "2026-11-20"
   - title: "Florida Statutes 1003.21: School attendance"
     url: "https://www.flsenate.gov/Laws/Statutes/2025/1003.21"
     publisher: "Florida Senate"
@@ -105,6 +109,7 @@ assets:
     group: kindergarten-2027-28
     title: "Kindergarten Registration 2027-28 Dates and Age Cutoffs"
     subtitle: "Registration dates and the birthdate cutoff for fall 2027"
+    noKit: "Mixed list of registration dates and birthdate cutoffs across districts; the source quotes for a kit are not in the update fact sheet"
     layout: list
     rows:
       - ["Oct. 15, 2026", "Wake County: kindergarten and pre-registration opened"]
@@ -113,11 +118,11 @@ assets:
       - ["Fri., Jan. 22, 2027", "NYC: kindergarten application closes"]
       - ["Tue., Mar. 30, 2027", "NYC: offers released"]
       - ["Born in 2022", "NYC: enters kindergarten in September of the year the child turns five"]
-      - ["On or before Sept. 1, 2022", "Philadelphia, Montgomery County (Md.), Florida: age 5 by Sept. 1, 2027"]
+      - ["On or before Sept. 1, 2022", "Philadelphia, Montgomery County (Md.), Broward County (Fla.), Florida law: age 5 by Sept. 1, 2027"]
       - ["On or before Aug. 31, 2022", "Wake County, Charlotte-Mecklenburg: age 5 by Aug. 31, 2027"]
       - ["On or before Sept. 30, 2022", "Fairfax County and Virginia law: fifth birthday by Sept. 30, 2027"]
-      - ["Not yet announced", "Fairfax, Montgomery, Gwinnett and Charlotte-Mecklenburg 2027-28 windows"]
-    note: "Source: NYC Public Schools; School District of Philadelphia; Wake County Public School System; Fairfax and Montgomery County public schools; Charlotte-Mecklenburg Schools; state statutes. Checked Nov. 3, 2026."
+      - ["Not yet announced", "Fairfax, Montgomery, Gwinnett, Charlotte-Mecklenburg and Broward 2027-28 windows"]
+    note: "Source: NYC Public Schools; School District of Philadelphia; Wake County Public School System; Fairfax, Montgomery County and Broward County public schools; Charlotte-Mecklenburg Schools; state statutes. Checked Nov. 20, 2026."
     description: "One-page list of 2027-28 kindergarten registration dates for NYC, Philadelphia and Wake County, with birthdate cutoffs for fall 2027."
     alt: "Printable list of kindergarten registration dates and birthdate cutoffs for fall 2027"
 ---
@@ -145,9 +150,10 @@ The age rule decides which birth year starts in fall 2027. The table converts ea
 | NYC Public Schools | Children enter in September of the calendar year they turn five | Born in 2022 | Application Dec. 9, 2026 to Jan. 22, 2027 | [NYC Public Schools](https://www.schools.nyc.gov/enrollment/enroll-grade-by-grade/kindergarten) |
 | School District of Philadelphia | Age 5 on or before Sept. 1 | Sept. 1, 2022 | Begins Tuesday, Jan. 19, 2027 | [Philadelphia](https://www.philasd.org/kregistration) |
 | Wake County Public School System (WCPSS) | Age 5 on or before Aug. 31 | Aug. 31, 2022 | Opened Oct. 15, 2026 | [WCPSS](https://www.wcpss.net/enroll) |
+| Broward County Public Schools, Fla. | Age 5 on or before Sept. 1, 2027, per the district's "Welcome To Kindergarten" page for the 2027/28 school year | Sept. 1, 2022 | Not yet announced; the page lists no dates | [Broward](https://www.browardschools.com/Domain/19347) |
 | Fairfax County Public Schools (FCPS) | Turns five on or before Sept. 30 | Sept. 30, 2022 | Not yet announced | [FCPS](https://www.fcps.edu/about-fcps/registration/kindergarten-registration) |
 | Montgomery County Public Schools (MCPS), Md. | Age 5 by Sept. 1 on the first day of school | Sept. 1, 2022 | Not yet announced | [MCPS](https://www.montgomeryschoolsmd.org/info/enroll/kindergarten.aspx) |
-| Gwinnett County Public Schools, Ga. | District's 2026-27 page: five on or before Sept. 1, 2026 | Not yet stated for 2027-28 | Not yet announced | [Gwinnett](https://www.gcpsk12.org/schools/new-student-enrollmentregistration/kindergarten-registration) |
+| Gwinnett County Public Schools, Ga. | District's 2026-27 page: five on or before Sept. 1, 2026 | Not yet given for 2027-28 | Not yet announced | [Gwinnett](https://www.gcpsk12.org/schools/new-student-enrollmentregistration/kindergarten-registration) |
 | Charlotte-Mecklenburg Schools (CMS) | Age 5 on or before Aug. 31, per the North Carolina statute (the district page states no cutoff) | Aug. 31, 2022 | Not yet announced; the district page gives no 2027-28 dates | [CMS](https://www.cmsk12.org/enroll), [N.C. statute](https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_115C/GS_115C-364.html) |
 
 Philadelphia also lists Open House Day on Mar. 9, 2027, Open House Week on May 10-14, 2027, and says completing registration by May 31 is strongly recommended. Wake County lists a Transfer Application window of Mar. 1-12, 2027 for 2027-28.
@@ -160,7 +166,7 @@ Some districts follow a state rule. We read the statutes for four states; the di
 
 | State | Rule in the statute | Born on or before, for fall 2027 | Districts it covers here |
 |---|---|---|---|
-| Florida (s. 1003.21) | Attained age 5 on or before Sept. 1 of the school year | Sept. 1, 2022 | Miami-Dade, Broward, Hillsborough, Orange; 2027-28 dates not yet announced |
+| Florida (s. 1003.21) | Attained age 5 on or before Sept. 1 of the school year | Sept. 1, 2022 | Miami-Dade, Broward, Hillsborough, Orange; 2027-28 dates not yet announced (Broward's own page confirms the Sept. 1, 2027 cutoff) |
 | Virginia (22.1-254) | Fifth birthday on or before Sept. 30 | Sept. 30, 2022 | Fairfax County |
 | Nevada (Nevada Revised Statutes (NRS) 392.040) | 5 years of age on or before Aug. 1 of the school year | Aug. 1, 2022 | Clark County; dates not yet announced |
 | North Carolina (G.S. 115C-364) | Reaches or reached age 5 on or before Aug. 31 of that school year | Aug. 31, 2022 | Wake County, CMS |
@@ -171,7 +177,7 @@ New York works differently from the table above. [Education Law 3202](https://ww
 
 Wake County opened first: its enroll page says kindergarten and pre-registration for 2027-28 opened Oct. 15, 2026. Philadelphia follows on Tuesday, Jan. 19, 2027, according to the district, which lists Open House Day on Mar. 9, 2027. Our [Philadelphia school calendar](/news/philadelphia-school-district-calendar-2026-27-holidays/) has its closures. Wake County families can see the school year in our [Wake County calendar](/news/wake-county-public-schools-calendar-2026-27-traditional/).
 
-Fairfax, Montgomery, Gwinnett and Charlotte-Mecklenburg had no 2027-28 window on the pages we read on Nov. 3, 2026. Check the district page before you plan.
+Fairfax, Montgomery, Gwinnett, Charlotte-Mecklenburg and Broward had no 2027-28 window on the pages we read on Nov. 20, 2026. Check the district page before you plan.
 
 ## What should you have ready?
 
