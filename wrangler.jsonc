@@ -18,7 +18,7 @@
   // the IndexNow key file, which the platform does not serve for a key set through its API.
   "routes": [
     { "pattern": "freshcalendars.com/*", "zone_name": "freshcalendars.com" },
-    { "pattern": "shop.freshcalendars.com/0342213edebec75d611fd78915bd5f76.txt", "zone_name": "freshcalendars.com" }
+    { "pattern": "shop.freshcalendars.com/4e1d37032570e565a8243bd68fabd106.txt", "zone_name": "freshcalendars.com" }
   ],
   "assets": {
     "directory": "dist/cf/public",

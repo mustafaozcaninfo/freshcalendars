@@ -65,7 +65,7 @@ const SITE = "https://freshcalendars.com";
 const CDN_ORIGIN = "https://cdn.freshcalendars.com";
 const SHOP_HOST = "shop.freshcalendars.com";
 /** IndexNow key of the shop (public by design: search engines read it at /<key>.txt on the shop host). */
-const SHOP_INDEXNOW_KEY = "0342213edebec75d611fd78915bd5f76";
+const SHOP_INDEXNOW_KEY = "4e1d37032570e565a8243bd68fabd106";
 
 function shopKeyFile(path) {
   if (path !== `/${SHOP_INDEXNOW_KEY}.txt`) return new Response("Not found", { status: 404, headers: { "Cache-Control": "no-store" } });
