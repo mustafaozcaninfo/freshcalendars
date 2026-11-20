@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-20T09:16 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-20T17:50 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (69 of 69 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (67 of 67 sampled)
 - FAIL: /news/ clicks and impressions did not fall two weeks in a row — fell two weeks in a row: clicks, impressions
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -282,20 +282,19 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 84 stories published 2 to 21 days ago (the gate counts the 69 that are 7 to 21 days old): 84 Submitted and indexed.
+Sample of 81 stories published 2 to 21 days ago (the gate counts the 67 that are 7 to 21 days old): 81 Submitted and indexed.
 
 - every sampled story is indexed
 
 ## Sitemaps
 
 - /news/news-sitemap.xml: 0 errors, 0 warnings, 86 URLs submitted, last read 2026-11-19
-- /sitemap.xml: 0 errors, 0 warnings, 2,832 URLs submitted, last read 2026-11-19
+- /sitemap.xml: 0 errors, 0 warnings, 3,463 URLs submitted, last read 2026-11-19
 - /news/sitemap.xml: 0 errors, 0 warnings, 1,616 URLs submitted, last read 2026-11-20
 - /sitemap.xml: 0 errors, 0 warnings, 201 URLs submitted, last read 2026-11-16
 
 ## Experiments (title and snippet changes of the search desk, 14 days before against 14 days after)
 
-- lunar-new-year-2027-year-of-the-goat (changed 2026-11-03): before 2 clicks, 1,347 impressions, CTR 0.15%, position 6.8; after 2 clicks, 138 impressions, CTR 1.45%, position 8.9
 - julian-date-calendar-2027-2026-printable (changed 2026-11-05): before 13 clicks, 1,732 impressions, CTR 0.75%, position 3.6; after: not yet (12 of 15 days)
 - clark-county-school-district-calendar-2026-27-breaks (changed 2026-11-05): before 31 clicks, 8,660 impressions, CTR 0.36%, position 6.3; after: not yet (12 of 15 days)
 - week-numbers-2027-calendar-printable (changed 2026-11-05): before 28 clicks, 3,413 impressions, CTR 0.82%, position 3.9; after: not yet (12 of 15 days)

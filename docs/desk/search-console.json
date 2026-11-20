@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-20T09:16:27.773Z",
+ "generatedAt": "2026-11-20T17:50:00.015Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "100% (69 of 69 sampled)",
+   "value": "100% (67 of 67 sampled)",
    "pass": true
   },
   {
@@ -2335,14 +2335,14 @@
   ]
  },
  "indexed": {
-  "checked": 69,
-  "sampled": 84,
-  "indexed": 69,
+  "checked": 67,
+  "sampled": 81,
+  "indexed": 67,
   "notIndexed": [],
   "states": {
-   "Submitted and indexed": 84
+   "Submitted and indexed": 81
   },
-  "unknown": 6
+  "unknown": 9
  },
  "sitemaps": [
   {
@@ -2357,7 +2357,7 @@
    "errors": 0,
    "warnings": 0,
    "lastDownloaded": "2026-11-19T05:51:46.389Z",
-   "submitted": 2832
+   "submitted": 3463
   },
   {
    "path": "https://freshcalendars.com/news/sitemap.xml",
@@ -2375,24 +2375,6 @@
   }
  ],
  "experiments": [
-  {
-   "slug": "lunar-new-year-2027-year-of-the-goat",
-   "changedAt": "2026-11-03",
-   "what": "seoTitle: \"Lunar New Year 2027: Feb. 6, Year of the Goat\" → \"Chinese New Year 2027: Feb. 6, Year of the Goat\"; first sentence names Chinese New Year",
-   "before": {
-    "clicks": 2,
-    "impressions": 1347,
-    "ctr": 0.15,
-    "position": 6.8
-   },
-   "after": {
-    "clicks": 2,
-    "impressions": 138,
-    "ctr": 1.45,
-    "position": 8.9
-   },
-   "daysAfter": 14
-  },
   {
    "slug": "julian-date-calendar-2027-2026-printable",
    "changedAt": "2026-11-05",
