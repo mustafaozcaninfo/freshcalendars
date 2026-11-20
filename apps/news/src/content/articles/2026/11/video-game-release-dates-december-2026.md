@@ -3,6 +3,7 @@ title: "Video Game Release Dates December 2026: 14 Games, 7 on Dec. 3"
 description: "Fourteen games have December 2026 release dates on publisher pages, seven on Thu., Dec. 3. Weekdays, platforms and sources, plus a printable calendar."
 type: news
 publishedAt: "2026-11-03T06:10:00-05:00"
+updatedAt: "2026-11-20T11:28:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["video game releases december 2026", "video game release dates december 2026", "games coming out december 2026", "new games december 2026"]
@@ -13,25 +14,32 @@ assets:
   date: "2026-12-03"
   card: { top: "Busiest release day", big: "Thu., Dec. 3", bottom: "7 games, per their publishers" }
   printable:
+    kit: release-tracker
     slug: video-game-releases-december-2026
     group: video-games-2026
     title: "Video Game Release Calendar, December 2026"
-    subtitle: "Release dates publishers have confirmed as of Nov. 3, 2026"
-    layout: month
-    rows:
-      - ["Tue., Dec. 1", "Hela: Of Mice & Magic"]
-      - ["Thu., Dec. 3", "Dragon Quest Monsters: The Withered World; Rayman Legends Retold"]
-      - ["Thu., Dec. 3", "Xenoblade Chronicles 3 Switch 2 Edition; Eriksholm on Switch 2"]
-      - ["Thu., Dec. 3", "Aeterna Lucis; Dawn of War IV; Edge of Memories"]
-      - ["Fri., Dec. 4", "Monster Hunter Wilds on Switch 2"]
-      - ["Fri., Dec. 4", "A Game About Digging A Hole Together"]
-      - ["Thu., Dec. 10", "Attack on Titan 3"]
-      - ["Thu., Dec. 10", "Professor Layton and the New World of Steam"]
-      - ["Fri., Dec. 11", "Path of Exile 2 version 1.0"]
-      - ["Mon., Dec. 14", "Silver Palace"]
+    subtitle: "Release dates publishers have confirmed as of Nov. 20, 2026"
     note: "Source: Knights Peak Interactive, Square Enix, Ubisoft, Nintendo, Nordcurrent Labs, Aeternum Game Studios, Deep Silver, Nacon, Capcom, Xbox Wire, Koei Tecmo America, Level-5, Grinding Gear Games, Elementa. Check the publisher's page for changes."
-    description: "A one-page December 2026 video game release calendar with 14 publisher-confirmed games, their weekdays and the seven releases on Dec. 3."
+    description: "A December 2026 video game release calendar with 14 publisher-confirmed games, their weekdays and the seven releases on Dec. 3."
     alt: "A printable December 2026 calendar marking 14 video game release dates"
+    data:
+      platforms: ["PC", "PS5", "Xbox", "Switch", "Switch 2", "Mobile"]
+      releases:
+        - { date: "2026-12-01", title: "Hela: Of Mice & Magic", platforms: ["Switch 2", "Xbox", "PS5", "PC"], src: 1, quote: "on December 1st, 2026" }
+        - { date: "2026-12-03", title: "Dragon Quest Monsters: The Withered World", platforms: ["PC", "PS5", "Switch", "Switch 2", "Xbox"], src: 2 }
+        - { date: "2026-12-03", title: "Rayman Legends Retold", platforms: ["PC", "PS5", "Xbox", "Switch 2"], src: 4, quote: "December 3, 2026" }
+        - { date: "2026-12-03", title: "Xenoblade Chronicles 3 Nintendo Switch 2 Edition", platforms: ["Switch 2"], src: 6, quote: "December 3, 2026" }
+        - { date: "2026-12-03", title: "Eriksholm: The Stolen Dream (Switch 2 version)", platforms: ["Switch 2"], src: 7 }
+        - { date: "2026-12-03", title: "Aeterna Lucis", platforms: ["PC"], src: 8, quote: "Dec 3, 2026" }
+        - { date: "2026-12-03", title: "Warhammer 40,000: Dawn of War IV", platforms: ["PC"], src: 9, quote: "move the game's launch date to 3rd December" }
+        - { date: "2026-12-03", title: "Edge of Memories", platforms: ["PS5", "Xbox", "PC"], src: 10, quote: "December 3, 2026" }
+        - { date: "2026-12-04", title: "Monster Hunter Wilds (Switch 2 version)", platforms: ["Switch 2"], src: 11, quote: "on December 4, 2026" }
+        - { date: "2026-12-04", title: "A Game About Digging A Hole Together", platforms: ["Xbox", "PC"], src: 12, quote: "on December 4, 2026" }
+        - { date: "2026-12-09", title: "Professor Layton and the New World of Steam (PC on Steam)", platforms: ["PC"], src: 15, quote: "Release Date: Dec 9, 2026" }
+        - { date: "2026-12-10", title: "Attack on Titan 3", platforms: ["PS5", "Xbox", "Switch 2", "PC"], src: 13, quote: "Koei Tecmo locks in Dec. 10, 2026 release date for Attack on Titan 3" }
+        - { date: "2026-12-10", title: "Professor Layton and the New World of Steam (Switch 2, Switch, PS5)", platforms: ["Switch 2", "Switch", "PS5"], src: 14, quote: "Scheduled for release on December 10, 2026" }
+        - { date: "2026-12-11", title: "Path of Exile 2 version 1.0", platforms: ["PC", "PS5", "Xbox"], src: 16, quote: "December 11 (PST)" }
+        - { date: "2026-12-14", title: "Silver Palace", platforms: ["PC", "PS5", "Mobile"], src: 17, quote: "December 14, 2026" }
 hero:
   src: ../../../../assets/news/video-game-release-dates-december-2026/video-game-release-dates-december-2026.webp
   alt: "A person holding a handheld game console showing a game menu, file photo for video game release dates December 2026"
@@ -50,7 +58,7 @@ summary:
   - "Three games moved into December: Rayman Legends Retold from Oct. 1, Dawn of War IV from September and Edge of Memories from November."
 faq:
   - q: "Which December 2026 game releases are confirmed?"
-    a: "Fourteen, each on a publisher's own page: Hela: Of Mice & Magic, seven games on Dec. 3, Monster Hunter Wilds on Switch 2 and A Game About Digging A Hole Together on Dec. 4, Attack on Titan 3 and Professor Layton and the New World of Steam on Dec. 10, Path of Exile 2 version 1.0 on Dec. 11 and Silver Palace on Dec. 14."
+    a: "Fourteen, each on a publisher's own page: Hela: Of Mice & Magic, seven games on Dec. 3, Monster Hunter Wilds on Switch 2 and A Game About Digging A Hole Together on Dec. 4, Professor Layton and the New World of Steam on PC (Steam) on Dec. 9, Attack on Titan 3 and Professor Layton on Switch 2, Switch and PS5 on Dec. 10, Path of Exile 2 version 1.0 on Dec. 11 and Silver Palace on Dec. 14."
   - q: "When does Monster Hunter Wilds come out on Nintendo Switch 2?"
     a: "Capcom's Sept. 10, 2026 news release is titled \"Monster Hunter Wilds to Launch on Nintendo Switch 2 on December 4, 2026!\" Dec. 4 is a Friday."
   - q: "What time do the December games launch?"
@@ -107,6 +115,9 @@ sources:
   - title: "Professor Layton and the New World of Steam topics"
     url: "https://www.layton.jp/jouki/en/topics/250925"
     publisher: "Level-5"
+  - title: "Professor Layton and the New World of Steam on Steam"
+    url: "https://store.steampowered.com/app/3384600/Professor_Layton_and_the_New_World_of_Steam/"
+    publisher: "LEVEL5 Inc. via Valve's Steam"
   - title: "Path of Exile 2 version 1.0 announcement"
     url: "https://www.pathofexile.com/forum/view-thread/3999509"
     publisher: "Grinding Gear Games"
@@ -127,12 +138,12 @@ related: [video-game-release-dates-november-2026-gta-6-ocarina-of-time, fortnite
 downloads:
   - group: "Video Game Release Calendar printables"
     title: "Video Game Release Calendar, December 2026"
-    description: "A one-page December 2026 video game release calendar with 14 publisher-confirmed games, their weekdays and the seven releases on Dec. 3."
+    description: "A December 2026 video game release calendar with 14 publisher-confirmed games, their weekdays and the seven releases on Dec. 3."
     preview: ../../../../assets/news/video-games-2026/video-game-releases-december-2026.png
     alt: "A printable December 2026 calendar marking 14 video game release dates"
     pdf: "/news/downloads/video-games-2026/video-game-releases-december-2026.pdf"
     png: "/news/downloads/video-games-2026/video-game-releases-december-2026.png"
-    pages: 1
+    pages: 2
 draft: false
 ---
 
@@ -140,7 +151,7 @@ draft: false
 
 ## December 2026 game release dates by day
 
-The table lists the 14 games whose publishers had confirmed a December 2026 date as of Nov. 3, 2026.
+The table lists the 14 games whose publishers had confirmed a December 2026 date as of Nov. 20, 2026.
 
 Platform names follow each publisher's page: PlayStation 5 (PS5), Xbox Series X|S, Nintendo Switch 2 and personal computer (PC). No launch clock times are confirmed for any of these games, so none are listed.
 
@@ -156,10 +167,10 @@ Platform names follow each publisher's page: PlayStation 5 (PS5), Xbox Series X|
 | Dec. 3 | Thursday | Edge of Memories | PS5, Xbox Series X\|S, PC | Nacon | [Nacon release](https://www.gamespress.com/EDGE-OF-MEMORIES-ANNOUNCES-A-NEW-RELEASE-DATE-AND-AN-UPDATED-DEMO), Oct. 15, 2026: "December 3, 2026" |
 | Dec. 4 | Friday | Monster Hunter Wilds (Switch 2 version) | Switch 2 | Capcom | [Capcom news](https://www.capcom.co.jp/ir/english/news/html/e260910.html), Sept. 10, 2026: "on December 4, 2026" |
 | Dec. 4 | Friday | A Game About Digging A Hole Together | Xbox Series X\|S, Xbox on PC, Game Pass | Xbox Wire | [Xbox Wire](https://news.xbox.com/en-us/2026/10/20/id-xbox-ign-showcase-october-2026/), Oct. 20, 2026: "on December 4, 2026" |
+| Dec. 9 (PC), Dec. 10 (consoles) | Wednesday (PC), Thursday (consoles) | Professor Layton and the New World of Steam | Switch 2, Switch, PS5, Steam | Level-5 | [Steam store page](https://store.steampowered.com/app/3384600/Professor_Layton_and_the_New_World_of_Steam/): "Release Date: Dec 9, 2026" (Windows); [Level-5](https://www.layton.jp/jouki/en/topics/250925): "December 10, 2026" |
 | Dec. 10 | Thursday | Attack on Titan 3 | PS5, Xbox Series X\|S, Switch 2, PC (Steam) | Koei Tecmo America | [Koei Tecmo America](https://www.koeitecmoamerica.com/news/koei-tecmo-locks-in-dec-10-2026-release-date-for-attack-on-titan-3/), Aug. 4, 2026 |
-| Dec. 10 | Thursday | Professor Layton and the New World of Steam | Switch 2, Switch, PS5, Steam | Level-5 | [Level-5](https://www.layton.jp/jouki/en/topics/250925): "December 10, 2026" |
 | Dec. 11 | Friday | Path of Exile 2 version 1.0 | PC (Steam, Epic), PlayStation, Xbox | Grinding Gear Games | [Forum post](https://www.pathofexile.com/forum/view-thread/3999509), Aug. 25, 2026: "December 11 (PST)" |
-| Dec. 14 | Monday | Silver Palace | Android, iOS, PC, PS5 | Elementa | [Press release](https://www.gamespress.com/en-US/Silver-Palace-Sets-Global-Launch-Date-for-December-14-2026), Oct. 31, 2026: "December 14, 2026" |
+| Dec. 14 | Monday | Silver Palace | Mobile (Android, iOS), PC, PS5 | Elementa | [Press release](https://www.gamespress.com/en-US/Silver-Palace-Sets-Global-Launch-Date-for-December-14-2026), Oct. 31, 2026: "December 14, 2026" |
 
 Print the month with our [December 2026 printable calendar](/december-calendars.html), or use the [printable weekly calendar](/printable-weekly-calendar.html) to block out a launch week.
 
@@ -185,4 +196,4 @@ Golf With Your Friends 2 from Team17 is listed only for "fall 2026," so it has n
 
 ## Print the December 2026 video game release calendar
 
-The printable marks the 14 games on a December 2026 grid, with the Dec. 3 releases grouped into three lines, and names the same publishers as this story. Tick off each game as it ships.
+The printable marks the 14 games in a title-by-platform grid with a date strip, and names the same publishers as this story. Tick off each game as it ships.
