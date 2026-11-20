@@ -150,7 +150,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us, premier-league-fixtures-november-6-8-2026-gameweek-10-kickoff-times-tv, carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk]
+related: [nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us, champions-cup-round-2-2026-fixtures-kick-off-times-uk-us, carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk]
 draft: false
 ---
 

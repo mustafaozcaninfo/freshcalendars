@@ -96,7 +96,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates, champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5]
+related: [carabao-cup-fourth-round-2026-schedule-kickoff-times-tv-us-uk, fpl-deadlines-2026-27-every-gameweek-deadline-time-uk-us-chip-dates, scottish-league-cup-final-2026-hibs-rangers-kick-off-time-tv]
 downloads:
   - group: "Carabao Cup Quarter-Finals 2026 Watch Guide printables"
     title: "Carabao Cup Quarter-Finals 2026 Watch Guide"
