@@ -257,5 +257,28 @@
    "Other": 160,
    "AiPlatform": 69
   }
+ },
+ {
+  "day": "2026-11-20",
+  "sessions": 942,
+  "bots": 194,
+  "pagesPerSession": 1.221,
+  "scroll": {
+   "Mobile": 21.63,
+   "Tablet": 31,
+   "PC": 31.35
+  },
+  "activeTime": {
+   "Mobile": 35,
+   "Tablet": 72,
+   "PC": 63
+  },
+  "channels": {
+   "OrganicSearch": 499,
+   "Direct": 58,
+   "Referral": 81,
+   "Other": 193,
+   "AiPlatform": 140
+  }
  }
 ]

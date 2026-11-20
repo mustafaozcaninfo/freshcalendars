@@ -1,6 +1,6 @@
 # Microsoft Clarity (generated, do not edit)
 
-Read 2026-11-19T09:14 UTC from the Clarity Data Export API, last 24 hours (UTC). Sessions are Clarity's; bot sessions are counted apart. Heatmaps and recordings are in the Clarity dashboard. Source: `scripts/news-clarity.mjs`, daily.
+Read 2026-11-20T09:17 UTC from the Clarity Data Export API, last 24 hours (UTC). Sessions are Clarity's; bot sessions are counted apart. Heatmaps and recordings are in the Clarity dashboard. Source: `scripts/news-clarity.mjs`, daily.
 
 ## By page
 
@@ -8,271 +8,271 @@ Read 2026-11-19T09:14 UTC from the Clarity Data Export API, last 24 hours (UTC).
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 42 | 2.38 | 97.62 | 1 | 1 |
-| /news/december-2026-calendar-printable/ | 35 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-19-2026-1257/ | 34 | 2.94 | 97.06 | 1 | 1 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 27 | 7.41 | 92.59 | 2 | 2 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 18 | 11.11 | 88.89 | 2 | 5 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 16 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 13 | 7.69 | 92.31 | 1 | 1 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 13 | 7.69 | 92.31 | 1 | 1 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 11 | 0 | 100 | 0 | 0 |
-| /news/week-numbers-2027-calendar-printable/ | 11 | 9.09 | 90.91 | 1 | 1 |
-| /news/london-tube-strike-dates-november-december-2026-january-2027/ | 10 | 10 | 90 | 1 | 1 |
-| /news/world-toilet-day-2026-november-19/ | 8 | 0 | 100 | 0 | 0 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 8 | 0 | 100 | 0 | 0 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 7 | 0 | 100 | 0 | 0 |
-| /news/gta-6-youtube-launch-livestream-time-24-hour-stream/?utm_source=chatgpt.com | 7 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-18-2026-1256/ | 7 | 0 | 100 | 0 | 0 |
-| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 7 | 14.29 | 85.71 | 1 | 1 |
-| https://shop.freshcalendars.com/ | 7 | 0 | 100 | 0 | 0 |
-| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 7 | 0 | 100 | 0 | 0 |
-| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 7 | 0 | 100 | 0 | 0 |
-| /news/national-days-this-week-november-23-29-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/when-to-thaw-thanksgiving-turkey-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/boxing-schedule-december-2026-fight-dates-times/ | 6 | 0 | 100 | 0 | 0 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/crystal-advent-calendar-2026-24-stones-and-gem-gu | 6 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/ | 54 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 45 | 4.44 | 95.56 | 2 | 4 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 26 | 15.38 | 84.62 | 4 | 6 |
+| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 20 | 0 | 100 | 0 | 0 |
+| /news/december-2026-calendar-printable/ | 19 | 0 | 100 | 0 | 0 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 15 | 20 | 80 | 3 | 4 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 15 | 0 | 100 | 0 | 0 |
+| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 13 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 11 | 9.09 | 90.91 | 1 | 1 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 10 | 30 | 70 | 4 | 7 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 9 | 33.33 | 66.67 | 3 | 3 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 8 | 12.50 | 87.50 | 1 | 1 |
+| /news/college-spring-break-2027-dates-universities/ | 7 | 28.57 | 71.43 | 2 | 4 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 33.33 | 66.67 | 2 | 4 |
+| /news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/ | 6 | 0 | 100 | 0 | 0 |
+| /news/spotify-wrapped-2026-release-date-past-launch-dates/?utm_source=chatgpt.com | 6 | 0 | 100 | 0 | 0 |
+| /news/january-2027-calendar-printable/ | 6 | 16.67 | 83.33 | 1 | 2 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 6 | 16.67 | 83.33 | 1 | 5 |
+| /news/pittsburgh-light-up-night-2026-november-21-schedule-fireworks/ | 6 | 16.67 | 83.33 | 1 | 1 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 6 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/ | 6 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 6 | 33.33 | 66.67 | 2 | 4 |
+| https://shop.freshcalendars.com/articles/fillable-advent-calendars?utm_source=chatgpt.com | 6 | 16.67 | 83.33 | 1 | 1 |
 
 #### ExcessiveScroll
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 42 | 0 | 100 | 0 | 0 |
-| /news/december-2026-calendar-printable/ | 35 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-19-2026-1257/ | 34 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 27 | 0 | 100 | 0 | 0 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 18 | 0 | 100 | 0 | 0 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 16 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 13 | 0 | 100 | 0 | 0 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 13 | 0 | 100 | 0 | 0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 11 | 0 | 100 | 0 | 0 |
-| /news/week-numbers-2027-calendar-printable/ | 11 | 0 | 100 | 0 | 0 |
-| /news/london-tube-strike-dates-november-december-2026-january-2027/ | 10 | 0 | 100 | 0 | 0 |
-| /news/world-toilet-day-2026-november-19/ | 8 | 0 | 100 | 0 | 0 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 8 | 0 | 100 | 0 | 0 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 7 | 0 | 100 | 0 | 0 |
-| /news/gta-6-youtube-launch-livestream-time-24-hour-stream/?utm_source=chatgpt.com | 7 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-18-2026-1256/ | 7 | 0 | 100 | 0 | 0 |
-| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 7 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/ | 7 | 0 | 100 | 0 | 0 |
-| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 7 | 0 | 100 | 0 | 0 |
-| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 7 | 0 | 100 | 0 | 0 |
-| /news/national-days-this-week-november-23-29-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/when-to-thaw-thanksgiving-turkey-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/boxing-schedule-december-2026-fight-dates-times/ | 6 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/ | 54 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 45 | 0 | 100 | 0 | 0 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 26 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 20 | 0 | 100 | 0 | 0 |
+| /news/december-2026-calendar-printable/ | 19 | 0 | 100 | 0 | 0 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 15 | 0 | 100 | 0 | 0 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 15 | 0 | 100 | 0 | 0 |
+| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 13 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 11 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 10 | 0 | 100 | 0 | 0 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 9 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 8 | 0 | 100 | 0 | 0 |
+| /news/college-spring-break-2027-dates-universities/ | 7 | 0 | 100 | 0 | 0 |
 | /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/crystal-advent-calendar-2026-24-stones-and-gem-gu | 6 | 0 | 100 | 0 | 0 |
+| /news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/ | 6 | 0 | 100 | 0 | 0 |
+| /news/spotify-wrapped-2026-release-date-past-launch-dates/?utm_source=chatgpt.com | 6 | 0 | 100 | 0 | 0 |
+| /news/january-2027-calendar-printable/ | 6 | 0 | 100 | 0 | 0 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 6 | 0 | 100 | 0 | 0 |
+| /news/pittsburgh-light-up-night-2026-november-21-schedule-fireworks/ | 6 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 6 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/ | 6 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 6 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/articles/fillable-advent-calendars?utm_source=chatgpt.com | 6 | 0 | 100 | 0 | 0 |
 
 #### RageClickCount
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 42 | 0 | 100 | 0 | 0 |
-| /news/december-2026-calendar-printable/ | 35 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-19-2026-1257/ | 34 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 27 | 0 | 100 | 0 | 0 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 18 | 0 | 100 | 0 | 0 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 16 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 13 | 0 | 100 | 0 | 0 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 13 | 0 | 100 | 0 | 0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 11 | 0 | 100 | 0 | 0 |
-| /news/week-numbers-2027-calendar-printable/ | 11 | 0 | 100 | 0 | 0 |
-| /news/london-tube-strike-dates-november-december-2026-january-2027/ | 10 | 0 | 100 | 0 | 0 |
-| /news/world-toilet-day-2026-november-19/ | 8 | 0 | 100 | 0 | 0 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 8 | 0 | 100 | 0 | 0 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 7 | 0 | 100 | 0 | 0 |
-| /news/gta-6-youtube-launch-livestream-time-24-hour-stream/?utm_source=chatgpt.com | 7 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-18-2026-1256/ | 7 | 0 | 100 | 0 | 0 |
-| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 7 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/ | 7 | 0 | 100 | 0 | 0 |
-| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 7 | 0 | 100 | 0 | 0 |
-| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 7 | 0 | 100 | 0 | 0 |
-| /news/national-days-this-week-november-23-29-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/when-to-thaw-thanksgiving-turkey-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/boxing-schedule-december-2026-fight-dates-times/ | 6 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/ | 54 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 45 | 0 | 100 | 0 | 0 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 26 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 20 | 0 | 100 | 0 | 0 |
+| /news/december-2026-calendar-printable/ | 19 | 0 | 100 | 0 | 0 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 15 | 0 | 100 | 0 | 0 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 15 | 0 | 100 | 0 | 0 |
+| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 13 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 11 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 10 | 0 | 100 | 0 | 0 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 9 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 8 | 0 | 100 | 0 | 0 |
+| /news/college-spring-break-2027-dates-universities/ | 7 | 0 | 100 | 0 | 0 |
 | /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/crystal-advent-calendar-2026-24-stones-and-gem-gu | 6 | 0 | 100 | 0 | 0 |
+| /news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/ | 6 | 0 | 100 | 0 | 0 |
+| /news/spotify-wrapped-2026-release-date-past-launch-dates/?utm_source=chatgpt.com | 6 | 0 | 100 | 0 | 0 |
+| /news/january-2027-calendar-printable/ | 6 | 0 | 100 | 0 | 0 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 6 | 0 | 100 | 0 | 0 |
+| /news/pittsburgh-light-up-night-2026-november-21-schedule-fireworks/ | 6 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 6 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/ | 6 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 6 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/articles/fillable-advent-calendars?utm_source=chatgpt.com | 6 | 0 | 100 | 0 | 0 |
 
 #### QuickbackClick
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 42 | 0 | 100 | 0 | 0 |
-| /news/december-2026-calendar-printable/ | 35 | 14.29 | 85.71 | 5 | 5 |
-| /news/nyt-connections-hints-answers-november-19-2026-1257/ | 34 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 27 | 7.41 | 92.59 | 2 | 2 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 18 | 0 | 100 | 0 | 0 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 16 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 13 | 0 | 100 | 0 | 0 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 13 | 0 | 100 | 0 | 0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 11 | 0 | 100 | 0 | 0 |
-| /news/week-numbers-2027-calendar-printable/ | 11 | 0 | 100 | 0 | 0 |
-| /news/london-tube-strike-dates-november-december-2026-january-2027/ | 10 | 0 | 100 | 0 | 0 |
-| /news/world-toilet-day-2026-november-19/ | 8 | 0 | 100 | 0 | 0 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 8 | 0 | 100 | 0 | 0 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 7 | 0 | 100 | 0 | 0 |
-| /news/gta-6-youtube-launch-livestream-time-24-hour-stream/?utm_source=chatgpt.com | 7 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-18-2026-1256/ | 7 | 0 | 100 | 0 | 0 |
-| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 7 | 14.29 | 85.71 | 1 | 1 |
-| https://shop.freshcalendars.com/ | 7 | 0 | 100 | 0 | 0 |
-| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 7 | 0 | 100 | 0 | 0 |
-| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 7 | 0 | 100 | 0 | 0 |
-| /news/national-days-this-week-november-23-29-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/when-to-thaw-thanksgiving-turkey-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/boxing-schedule-december-2026-fight-dates-times/ | 6 | 0 | 100 | 0 | 0 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/crystal-advent-calendar-2026-24-stones-and-gem-gu | 6 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/ | 54 | 1.85 | 98.15 | 1 | 1 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 45 | 0 | 100 | 0 | 0 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 26 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 20 | 0 | 100 | 0 | 0 |
+| /news/december-2026-calendar-printable/ | 19 | 26.32 | 73.68 | 5 | 5 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 15 | 0 | 100 | 0 | 0 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 15 | 0 | 100 | 0 | 0 |
+| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 13 | 7.69 | 92.31 | 1 | 1 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 11 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 10 | 0 | 100 | 0 | 0 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 9 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 8 | 0 | 100 | 0 | 0 |
+| /news/college-spring-break-2027-dates-universities/ | 7 | 0 | 100 | 0 | 0 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 16.67 | 83.33 | 1 | 1 |
+| /news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/ | 6 | 0 | 100 | 0 | 0 |
+| /news/spotify-wrapped-2026-release-date-past-launch-dates/?utm_source=chatgpt.com | 6 | 0 | 100 | 0 | 0 |
+| /news/january-2027-calendar-printable/ | 6 | 33.33 | 66.67 | 2 | 2 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 6 | 0 | 100 | 0 | 0 |
+| /news/pittsburgh-light-up-night-2026-november-21-schedule-fireworks/ | 6 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 6 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/ | 6 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 6 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/articles/fillable-advent-calendars?utm_source=chatgpt.com | 6 | 16.67 | 83.33 | 1 | 1 |
 
 #### ScriptErrorCount
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 42 | 0 | 100 | 0 | 0 |
-| /news/december-2026-calendar-printable/ | 35 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-19-2026-1257/ | 34 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 27 | 0 | 100 | 0 | 0 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 18 | 0 | 100 | 0 | 0 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 16 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 13 | 0 | 100 | 0 | 0 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 13 | 0 | 100 | 0 | 0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 11 | 0 | 100 | 0 | 0 |
-| /news/week-numbers-2027-calendar-printable/ | 11 | 0 | 100 | 0 | 0 |
-| /news/london-tube-strike-dates-november-december-2026-january-2027/ | 10 | 0 | 100 | 0 | 0 |
-| /news/world-toilet-day-2026-november-19/ | 8 | 0 | 100 | 0 | 0 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 8 | 0 | 100 | 0 | 0 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 7 | 0 | 100 | 0 | 0 |
-| /news/gta-6-youtube-launch-livestream-time-24-hour-stream/?utm_source=chatgpt.com | 7 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-18-2026-1256/ | 7 | 0 | 100 | 0 | 0 |
-| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 7 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/ | 7 | 0 | 100 | 0 | 0 |
-| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 7 | 0 | 100 | 0 | 0 |
-| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 7 | 0 | 100 | 0 | 0 |
-| /news/national-days-this-week-november-23-29-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/when-to-thaw-thanksgiving-turkey-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/boxing-schedule-december-2026-fight-dates-times/ | 6 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/ | 54 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 45 | 0 | 100 | 0 | 0 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 26 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 20 | 0 | 100 | 0 | 0 |
+| /news/december-2026-calendar-printable/ | 19 | 0 | 100 | 0 | 0 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 15 | 0 | 100 | 0 | 0 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 15 | 0 | 100 | 0 | 0 |
+| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 13 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 11 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 10 | 0 | 100 | 0 | 0 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 9 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 8 | 0 | 100 | 0 | 0 |
+| /news/college-spring-break-2027-dates-universities/ | 7 | 0 | 100 | 0 | 0 |
 | /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/crystal-advent-calendar-2026-24-stones-and-gem-gu | 6 | 0 | 100 | 0 | 0 |
+| /news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/ | 6 | 0 | 100 | 0 | 0 |
+| /news/spotify-wrapped-2026-release-date-past-launch-dates/?utm_source=chatgpt.com | 6 | 0 | 100 | 0 | 0 |
+| /news/january-2027-calendar-printable/ | 6 | 0 | 100 | 0 | 0 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 6 | 0 | 100 | 0 | 0 |
+| /news/pittsburgh-light-up-night-2026-november-21-schedule-fireworks/ | 6 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/ | 6 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 6 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 6 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/articles/fillable-advent-calendars?utm_source=chatgpt.com | 6 | 0 | 100 | 0 | 0 |
 
 #### ErrorClickCount
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 42 | 0 | 100 | 0 | 0 |
-| /news/december-2026-calendar-printable/ | 35 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-19-2026-1257/ | 34 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 27 | 0 | 100 | 0 | 0 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 18 | 0 | 100 | 0 | 0 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 16 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 13 | 0 | 100 | 0 | 0 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 13 | 0 | 100 | 0 | 0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 11 | 0 | 100 | 0 | 0 |
-| /news/week-numbers-2027-calendar-printable/ | 11 | 0 | 100 | 0 | 0 |
-| /news/london-tube-strike-dates-november-december-2026-january-2027/ | 10 | 0 | 100 | 0 | 0 |
-| /news/world-toilet-day-2026-november-19/ | 8 | 0 | 100 | 0 | 0 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 8 | 0 | 100 | 0 | 0 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 7 | 0 | 100 | 0 | 0 |
-| /news/gta-6-youtube-launch-livestream-time-24-hour-stream/?utm_source=chatgpt.com | 7 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-18-2026-1256/ | 7 | 0 | 100 | 0 | 0 |
-| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 7 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/ | 7 | 0 | 100 | 0 | 0 |
-| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 7 | 0 | 100 | 0 | 0 |
-| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 7 | 0 | 100 | 0 | 0 |
-| /news/national-days-this-week-november-23-29-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/when-to-thaw-thanksgiving-turkey-2026/ | 7 | 0 | 100 | 0 | 0 |
-| /news/boxing-schedule-december-2026-fight-dates-times/ | 6 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/ | 54 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 45 | 0 | 100 | 0 | 0 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 26 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 20 | 0 | 100 | 0 | 0 |
+| /news/december-2026-calendar-printable/ | 19 | 0 | 100 | 0 | 0 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 15 | 0 | 100 | 0 | 0 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 15 | 0 | 100 | 0 | 0 |
+| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 13 | 0 | 100 | 0 | 0 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 11 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 10 | 0 | 100 | 0 | 0 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 9 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/#google_vignette | 8 | 0 | 100 | 0 | 0 |
+| /news/week-numbers-2027-calendar-printable/ | 8 | 0 | 100 | 0 | 0 |
+| /news/college-spring-break-2027-dates-universities/ | 7 | 0 | 100 | 0 | 0 |
 | /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/crystal-advent-calendar-2026-24-stones-and-gem-gu | 6 | 0 | 100 | 0 | 0 |
+| /news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/ | 6 | 0 | 100 | 0 | 0 |
+| /news/spotify-wrapped-2026-release-date-past-launch-dates/?utm_source=chatgpt.com | 6 | 0 | 100 | 0 | 0 |
+| /news/january-2027-calendar-printable/ | 6 | 0 | 100 | 0 | 0 |
+| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 6 | 0 | 100 | 0 | 0 |
+| /news/pittsburgh-light-up-night-2026-november-21-schedule-fireworks/ | 6 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 6 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/ | 6 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 6 | 0 | 100 | 0 | 0 |
+| https://shop.freshcalendars.com/articles/fillable-advent-calendars?utm_source=chatgpt.com | 6 | 0 | 100 | 0 | 0 |
 
 #### ScrollDepth
 
 | Url | averageScrollDepth |
 |---|---:|
-| /news/utc-vs-gmt-difference-explained/ | 100 |
-| /news/gta-6-download-size-212-gb-ps5-pre-load-install-fix/ | 98 |
-| https://shop.freshcalendars.com/products/3-year-monthly-planner-with-tabs-and-pockets?utm_ | 97 |
-| https://shop.freshcalendars.com/brands/house-of-doolittle | 94 |
-| /news/blossom-word-game-answers-november-16-2026/ | 90 |
-| /news/lego-insiders-weekend-black-friday-2026-dates-november-21-22/#google_vignette | 82.50 |
-| /news/new-mexico-legislature-2027-session-january-19-prefiling-january-4/ | 80 |
-| /news/december-2026-calendar-printable/#downloads | 79 |
-| /news/category/school-calendars/ | 76 |
-| /news/canada-statutory-holidays-2027-federal-general-holidays/ | 75 |
-| /news/texas-legislative-session-2027-january-12-bill-filing-deadlines/ | 75 |
-| /news/catholic-liturgical-calendar-2027-year-b/ | 74 |
-| /news/contexto-answer-hints-november-13-2026-1517/ | 74 |
-| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 70 |
-| /news/holiday-menus-2026-every-chain-tracker/ | 67 |
-| /news/epic-games-store-black-friday-sale-2026-november-17-december-1/ | 66.50 |
-| /news/nyt-crossword-answers-november-18-2026/#pz-answer | 66 |
-| https://shop.freshcalendars.com/products/bgtcards-24-pack-christmas-cards-with-envelopes-s | 64.50 |
-| /news/lego-advent-calendars-2026-prices-whats-inside/ | 64.50 |
-| /news/black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5/?utm_source | 64 |
-| /news/uil-football-state-championships-2026-schedule-att-stadium/ | 62 |
-| /news/christmas-facts-2026-census-numbers-printable-quiz/ | 62 |
-| /news/turkey-pardon-2026-date-time-white-house/ | 61.67 |
-| https://shop.freshcalendars.com/products/wooden-animal-painting-advent-calendar-2026-24-da | 59.50 |
-| /news/cma-awards-2026-date-time-channel-host-nominees/?utm_source=chatgpt.com | 59 |
+| /news/march-2027-calendar-printable/ | 100 |
+| /news/nyt-spelling-bee-hints-answers-november-18-2026/ | 97 |
+| /news/blossom-word-game-answers-november-18-2026/#google_vignette | 94 |
+| https://shop.freshcalendars.com/products/weekly-planner-pad-52-tear-off-sheets-undated-8-5 | 93 |
+| /news/nyt-spelling-bee-hints-answers-november-17-2026/ | 92 |
+| /news/nyt-spelling-bee-hints-answers-november-17-2026/#google_vignette | 92 |
+| /news/aldi-advent-calendars-2026-in-stores-date/ | 92 |
+| /news/november-2026-important-dates-days-until/ | 91.50 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/#google_vignette | 89 |
+| /news/abc-christmas-schedule-2026-cma-country-christmas-disney-parade/ | 88 |
+| /news/lunar-new-year-2027-year-of-the-goat/ | 87 |
+| /news/rangers-schedule-november-2026-game-times-tv-printable/ | 84 |
+| /news/february-2027-calendar-printable/ | 83 |
+| /news/elf-day-2026-december-2-alzheimers-society/#downloads | 82 |
+| https://shop.freshcalendars.com/products/2027-weekly-appointment-book-8-5-x-11-15-minute-s | 80 |
+| /news/blossom-word-game-answers-october-21-2026/ | 78 |
+| /news/palindrome-dates-2027-next-palindrome-days/ | 75 |
+| /news/nyt-pips-hints-answers-november-20-2026/ | 75 |
+| /news/is-post-office-open-thanksgiving-2026-banks-stock-market/ | 74 |
+| /news/new-on-apple-tv-november-2026-release-dates/ | 73 |
+| /news/national-day-of-mourning-2026-plymouth-november-26/ | 71 |
+| https://shop.freshcalendars.com/products/spices-advent-calendar-2026-24-days-of-seasonings | 71 |
+| /news/nyt-spelling-bee-hints-answers-november-20-2026/?utm_source=chatgpt.com | 70 |
+| https://shop.freshcalendars.com/brands/3dbunny?utm_source=chatgpt.com | 69.50 |
+| /news/kentucky-property-tax-2026-face-amount-december-31-penalty-dates/ | 69 |
 
 #### Traffic
 
 | Url | totalSessionCount | totalBotSessionCount | distinctUserCount | pagesPerSessionPercentage |
 |---|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 42 | 1 | 40 | 1.24 |
-| /news/december-2026-calendar-printable/ | 35 | 0 | 33 | 1.37 |
-| /news/nyt-connections-hints-answers-november-19-2026-1257/ | 34 | 0 | 32 | 1.06 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 27 | 0 | 26 | 1.15 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 18 | 0 | 17 | 1.22 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 16 | 0 | 15 | 1 |
-| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 13 | 0 | 12 | 1 |
-| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 13 | 1 | 13 | 1 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 11 | 1 | 10 | 1.09 |
-| /news/week-numbers-2027-calendar-printable/ | 11 | 0 | 11 | 1.64 |
-| /news/london-tube-strike-dates-november-december-2026-january-2027/ | 10 | 0 | 10 | 1 |
-| /news/world-toilet-day-2026-november-19/ | 8 | 0 | 6 | 1.13 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 8 | 0 | 8 | 1.13 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 7 | 0 | 7 | 1.14 |
-| /news/gta-6-youtube-launch-livestream-time-24-hour-stream/?utm_source=chatgpt.com | 7 | 0 | 7 | 1 |
-| /news/nyt-connections-hints-answers-november-18-2026-1256/ | 7 | 0 | 7 | 1.14 |
-| /news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/ | 7 | 1 | 6 | 1.43 |
-| https://shop.freshcalendars.com/ | 7 | 1 | 7 | 1.29 |
-| /news/cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-years-eve/ | 7 | 0 | 7 | 1 |
-| /news/ncaa-volleyball-tournament-2026-bracket-schedule-final-four-san-antonio/ | 7 | 0 | 7 | 1.14 |
-| /news/national-days-this-week-november-23-29-2026/ | 7 | 1 | 7 | 1 |
-| /news/when-to-thaw-thanksgiving-turkey-2026/ | 7 | 0 | 6 | 1 |
-| /news/boxing-schedule-december-2026-fight-dates-times/ | 6 | 1 | 6 | 1 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 0 | 6 | 1.17 |
-| https://shop.freshcalendars.com/products/crystal-advent-calendar-2026-24-stones-and-gem-gu | 6 | 0 | 6 | 1 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/ | 54 | 1 | 51 | 1.20 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 45 | 1 | 42 | 1.22 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 26 | 1 | 25 | 1.38 |
+| https://shop.freshcalendars.com/products/wyspell-crystal-advent-calendar-2026-24-natural-c | 20 | 0 | 16 | 1 |
+| /news/december-2026-calendar-printable/ | 19 | 5 | 19 | 2.11 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 15 | 3 | 13 | 1.13 |
+| /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/ | 15 | 1 | 15 | 1.07 |
+| /news/ottawa-santa-claus-parade-2026-november-21-route-time/ | 13 | 1 | 12 | 1.38 |
+| /news/nyt-midi-crossword-answers-november-16-2026/ | 12 | 0 | 3 | 1.33 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 11 | 0 | 11 | 1.36 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 10 | 2 | 10 | 1.30 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 9 | 0 | 9 | 1.11 |
+| /news/nyt-connections-hints-answers-november-20-2026-1258/#google_vignette | 8 | 0 | 7 | 1.63 |
+| /news/week-numbers-2027-calendar-printable/ | 8 | 2 | 8 | 1.38 |
+| /news/college-spring-break-2027-dates-universities/ | 7 | 0 | 7 | 1.14 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 6 | 1 | 6 | 1.33 |
+| /news/sat-november-7-2026-test-day-checklist-what-to-bring-score-release-date/ | 6 | 0 | 6 | 1 |
+| /news/spotify-wrapped-2026-release-date-past-launch-dates/?utm_source=chatgpt.com | 6 | 0 | 6 | 1.17 |
+| /news/pittsburgh-light-up-night-2026-november-21-schedule-fireworks/ | 6 | 1 | 6 | 1.17 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 6 | 0 | 6 | 1.50 |
+| https://shop.freshcalendars.com/ | 6 | 0 | 6 | 2 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 6 | 0 | 6 | 1.17 |
+| https://shop.freshcalendars.com/articles/fillable-advent-calendars?utm_source=chatgpt.com | 6 | 0 | 6 | 2.50 |
+| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 6 | 0 | 5 | 1.17 |
+| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 6 | 1 | 6 | 1.17 |
 
 #### EngagementTime
 
 | Url | totalTime | activeTime |
 |---|---:|---:|
-| /news/kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast/ | 1,211 | 72 |
-| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/#google_vignette | 948 | 0 |
-| /news/palm-beach-county-school-calendar-2026-27/ | 818 | 15 |
-| https://shop.freshcalendars.com/products/bgtcards-24-pack-christmas-cards-with-envelopes-s | 748 | 127 |
-| /news/five-below-black-friday-2026-doorbusters-november-27/ | 712 | 712 |
-| /news/gta-6-price-editions-standard-ultimate-upgrade/ | 692 | 225 |
-| /news/nyt-crossword-answers-november-18-2026/#pz-answer | 688 | 135 |
-| /news/christmas-dinner-2026-planner-cooking-timeline-printable/ | 672 | 177 |
-| /news/federal-holidays-2027-observed-dates-list/ | 668 | 53 |
-| /news/mcat-2027-test-dates-registration-opens-october-20/ | 666 | 236 |
-| /news/thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates/ | 650 | 366 |
-| /news/nyt-connections-hints-answers-november-19-2026-1257/#hints-for-each-group | 601 | 12 |
-| /news/holiday-return-policies-2026-return-deadlines-by-store/ | 595 | 161 |
-| https://shop.freshcalendars.com/products/mini-book-advent-calendar-2026-24-classic-books | 589 | 7 |
-| /news/black-friday-2026-store-hours-walmart-target-best-buy/ | 579 | 49 |
-| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 508 | 239 |
-| /news/college-football-conference-championship-games-2026-schedule-times-tv/ | 501 | 114 |
-| /news/fcs-playoffs-2026-bracket-schedule-dates-championship-nashville/ | 442 | 442 |
-| /news/long-beach-unified-calendar-2026-27/ | 394 | 394 |
-| /news/volusia-county-schools-calendar-2026-27-breaks/ | 375 | 18 |
-| /news/december-2026-calendar-printable/#downloads | 368 | 134 |
-| /news/texas-legislative-session-2027-january-12-bill-filing-deadlines/ | 366 | 366 |
-| /news/canada-statutory-holidays-2027-federal-general-holidays/ | 328 | 26 |
-| /news/government-funding-deadline-december-11-2026-shutdown/ | 327 | 124 |
-| https://shop.freshcalendars.com/products/paper-junkie-vellum-paper-8-5-x-11-in-100-sheets- | 325 | 21 |
+| /news/london-christmas-lights-switch-on-2026-dates-regent-street-carnaby-covent-garden/ | 1,365 | 18 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/#google_vignette | 1,026 | 699 |
+| https://shop.freshcalendars.com/products/ccinee-wooden-advent-calendar-25-drawers-cottage? | 735 | 26 |
+| https://shop.freshcalendars.com/products/sunee-budget-planner-monthly-budget-book-with-exp | 727 | 4 |
+| /news/how-often-does-the-calendar-repeat/ | 716 | 150 |
+| https://shop.freshcalendars.com/products/spa-and-beauty-advent-calendar-2026-24-days | 705 | 39 |
+| /news/us-capitol-christmas-tree-2026-tour-schedule-stops-dates/ | 614 | 614 |
+| /news/nyt-spelling-bee-hints-answers-november-17-2026/ | 593 | 115 |
+| /news/blossom-word-game-answers-november-16-2026/ | 561 | 561 |
+| /news/college-spring-break-2027-dates-universities/#spring-break-2027-dates-for-each-unive | 560 | 254 |
+| /news/nyt-connections-hints-answers-november-1-2026-1239/#google_vignette | 553 | 553 |
+| /news/kentucky-property-tax-2026-face-amount-december-31-penalty-dates/ | 544 | 27 |
+| /news/is-post-office-open-thanksgiving-2026-banks-stock-market/#thanksgiving-week-2026-mai | 538 | 0 |
+| /news/tim-hortons-holiday-menu-2026-canada/ | 509 | 59 |
+| /news/bob-evans-thanksgiving-2026-farmhouse-feast-order-by-november-25/ | 501 | 15 |
+| /news/mothers-day-2027-may-9-memorial-day-2027-may-31-long-weekend/ | 478 | 326 |
+| /news/what-calendar-year-is-the-same-as-2027/ | 456 | 42 |
+| /news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/ | 451 | 451 |
+| /news/mhsaa-football-finals-2026-ford-field-schedule-kickoff-times/ | 431 | 88 |
+| /news/x-games-league-2027-winter-schedule-aspen-calgary-ruka-dates/ | 398 | 30 |
+| /news/rangers-schedule-november-2026-game-times-tv-printable/ | 376 | 175 |
+| https://shop.freshcalendars.com/products/3-year-monthly-planner-with-tabs-and-pockets?utm_ | 368 | 52 |
+| https://shop.freshcalendars.com/products/movinpe-tool-advent-calendar-2026-24-days-of-hand | 359 | 11 |
+| https://shop.freshcalendars.com/products/book-lovers-advent-calendar-2026-24-reading-stati | 358 | 103 |
+| /news/henry-county-schools-calendar-2026-27/ | 351 | 246 |
 
 ## By channel
 
@@ -280,91 +280,91 @@ Read 2026-11-19T09:14 UTC from the Clarity Data Export API, last 24 hours (UTC).
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 513 | 5.65 | 94.35 | 29 | 37 |
-| Other | 160 | 1.25 | 98.75 | 3 | 4 |
-| Referral | 94 | 3.19 | 96.81 | 3 | 4 |
-| AiPlatform | 69 | 2.90 | 97.10 | 2 | 2 |
-| Direct | 30 | 6.67 | 93.33 | 2 | 2 |
+| OrganicSearch | 499 | 8.22 | 91.78 | 43 | 67 |
+| Other | 193 | 2.07 | 97.93 | 4 | 5 |
+| AiPlatform | 140 | 13.57 | 86.43 | 19 | 25 |
+| Referral | 81 | 7.41 | 92.59 | 6 | 10 |
+| Direct | 58 | 1.72 | 98.28 | 1 | 1 |
 
 #### ExcessiveScroll
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 513 | 0 | 100 | 0 | 0 |
-| Other | 160 | 0 | 100 | 0 | 0 |
-| Referral | 94 | 0 | 100 | 0 | 0 |
-| AiPlatform | 69 | 0 | 100 | 0 | 0 |
-| Direct | 30 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 499 | 0 | 100 | 0 | 0 |
+| Other | 193 | 0 | 100 | 0 | 0 |
+| AiPlatform | 140 | 0 | 100 | 0 | 0 |
+| Referral | 81 | 0 | 100 | 0 | 0 |
+| Direct | 58 | 0 | 100 | 0 | 0 |
 
 #### RageClickCount
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 513 | 0 | 100 | 0 | 0 |
-| Other | 160 | 0 | 100 | 0 | 0 |
-| Referral | 94 | 0 | 100 | 0 | 0 |
-| AiPlatform | 69 | 0 | 100 | 0 | 0 |
-| Direct | 30 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 499 | 0 | 100 | 0 | 0 |
+| Other | 193 | 0 | 100 | 0 | 0 |
+| AiPlatform | 140 | 0 | 100 | 0 | 0 |
+| Referral | 81 | 0 | 100 | 0 | 0 |
+| Direct | 58 | 0 | 100 | 0 | 0 |
 
 #### QuickbackClick
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 513 | 1.56 | 98.44 | 8 | 8 |
-| Other | 160 | 1.88 | 98.12 | 3 | 3 |
-| Referral | 94 | 1.06 | 98.94 | 2 | 2 |
-| AiPlatform | 69 | 5.80 | 94.20 | 4 | 4 |
-| Direct | 30 | 26.67 | 73.33 | 9 | 9 |
+| OrganicSearch | 499 | 3.01 | 96.99 | 19 | 19 |
+| Other | 193 | 1.55 | 98.45 | 4 | 4 |
+| AiPlatform | 140 | 7.14 | 92.86 | 12 | 12 |
+| Referral | 81 | 1.23 | 98.77 | 1 | 1 |
+| Direct | 58 | 12.07 | 87.93 | 11 | 11 |
 
 #### ScriptErrorCount
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 513 | 0 | 100 | 0 | 0 |
-| Other | 160 | 0 | 100 | 0 | 0 |
-| Referral | 94 | 0 | 100 | 0 | 0 |
-| AiPlatform | 69 | 0 | 100 | 0 | 0 |
-| Direct | 30 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 499 | 0 | 100 | 0 | 0 |
+| Other | 193 | 0 | 100 | 0 | 0 |
+| AiPlatform | 140 | 0 | 100 | 0 | 0 |
+| Referral | 81 | 1.23 | 98.77 | 1 | 1 |
+| Direct | 58 | 0 | 100 | 0 | 0 |
 
 #### ErrorClickCount
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 513 | 0 | 100 | 0 | 0 |
-| Other | 160 | 0 | 100 | 0 | 0 |
-| Referral | 94 | 0 | 100 | 0 | 0 |
-| AiPlatform | 69 | 0 | 100 | 0 | 0 |
-| Direct | 30 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 499 | 0 | 100 | 0 | 0 |
+| Other | 193 | 0 | 100 | 0 | 0 |
+| AiPlatform | 140 | 0 | 100 | 0 | 0 |
+| Referral | 81 | 0 | 100 | 0 | 0 |
+| Direct | 58 | 0 | 100 | 0 | 0 |
 
 #### ScrollDepth
 
 | Channel | averageScrollDepth |
 |---|---:|
-| OrganicSearch | 29.98 |
-| Referral | 22.21 |
-| AiPlatform | 20.90 |
-| Direct | 19.02 |
-| Other | 18.11 |
+| OrganicSearch | 29.77 |
+| Direct | 27.56 |
+| Referral | 27.45 |
+| AiPlatform | 22.24 |
+| Other | 20.11 |
 
 #### Traffic
 
 | Channel | totalSessionCount | totalBotSessionCount | distinctUserCount | pagesPerSessionPercentage |
 |---|---:|---:|---:|---:|
-| OrganicSearch | 513 | 17 | 477 | 1.16 |
-| Other | 160 | 143 | 151 | 1.18 |
-| Referral | 94 | 7 | 82 | 1.17 |
-| AiPlatform | 69 | 0 | 69 | 1.19 |
-| Direct | 30 | 1 | 27 | 2.47 |
+| OrganicSearch | 499 | 24 | 466 | 1.21 |
+| Other | 193 | 168 | 187 | 1.22 |
+| AiPlatform | 140 | 0 | 134 | 1.35 |
+| Referral | 81 | 2 | 75 | 1.09 |
+| Direct | 58 | 1 | 55 | 2.60 |
 
 #### EngagementTime
 
 | Channel | totalTime | activeTime |
 |---|---:|---:|
-| OrganicSearch | 121 | 57 |
-| Referral | 117 | 43 |
-| Direct | 96 | 27 |
-| Other | 74 | 35 |
-| AiPlatform | 64 | 23 |
+| Referral | 130 | 54 |
+| OrganicSearch | 122 | 66 |
+| AiPlatform | 62 | 22 |
+| Other | 54 | 29 |
+| Direct | 53 | 19 |
 
 ## By device
 
@@ -372,72 +372,72 @@ Read 2026-11-19T09:14 UTC from the Clarity Data Export API, last 24 hours (UTC).
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| PC | 433 | 6 | 94 | 26 | 32 |
-| Mobile | 374 | 2.94 | 97.06 | 13 | 17 |
-| Tablet | 35 | 0 | 100 | 0 | 0 |
+| Mobile | 452 | 5.31 | 94.69 | 24 | 30 |
+| PC | 440 | 9.77 | 90.23 | 45 | 71 |
+| Tablet | 50 | 8 | 92 | 4 | 7 |
 
 #### ExcessiveScroll
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| PC | 433 | 0 | 100 | 0 | 0 |
-| Mobile | 374 | 0 | 100 | 0 | 0 |
-| Tablet | 35 | 0 | 100 | 0 | 0 |
+| Mobile | 452 | 0 | 100 | 0 | 0 |
+| PC | 440 | 0 | 100 | 0 | 0 |
+| Tablet | 50 | 0 | 100 | 0 | 0 |
 
 #### RageClickCount
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| PC | 433 | 0 | 100 | 0 | 0 |
-| Mobile | 374 | 0 | 100 | 0 | 0 |
-| Tablet | 35 | 0 | 100 | 0 | 0 |
+| Mobile | 452 | 0 | 100 | 0 | 0 |
+| PC | 440 | 0 | 100 | 0 | 0 |
+| Tablet | 50 | 0 | 100 | 0 | 0 |
 
 #### QuickbackClick
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| PC | 433 | 2.08 | 97.92 | 10 | 10 |
-| Mobile | 374 | 3.21 | 96.79 | 16 | 16 |
-| Tablet | 35 | 0 | 100 | 0 | 0 |
+| Mobile | 452 | 3.98 | 96.02 | 27 | 27 |
+| PC | 440 | 3.18 | 96.82 | 20 | 20 |
+| Tablet | 50 | 0 | 100 | 0 | 0 |
 
 #### ScriptErrorCount
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| PC | 433 | 0 | 100 | 0 | 0 |
-| Mobile | 374 | 0 | 100 | 0 | 0 |
-| Tablet | 35 | 0 | 100 | 0 | 0 |
+| Mobile | 452 | 0.22 | 99.78 | 1 | 1 |
+| PC | 440 | 0 | 100 | 0 | 0 |
+| Tablet | 50 | 0 | 100 | 0 | 0 |
 
 #### ErrorClickCount
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| PC | 433 | 0 | 100 | 0 | 0 |
-| Mobile | 374 | 0 | 100 | 0 | 0 |
-| Tablet | 35 | 0 | 100 | 0 | 0 |
+| Mobile | 452 | 0 | 100 | 0 | 0 |
+| PC | 440 | 0 | 100 | 0 | 0 |
+| Tablet | 50 | 0 | 100 | 0 | 0 |
 
 #### ScrollDepth
 
 | Device | averageScrollDepth |
 |---|---:|
-| PC | 29.52 |
-| Tablet | 25.08 |
-| Mobile | 21.48 |
+| PC | 31.35 |
+| Tablet | 31 |
+| Mobile | 21.63 |
 
 #### Traffic
 
 | Device | totalSessionCount | totalBotSessionCount | distinctUserCount | pagesPerSessionPercentage |
 |---|---:|---:|---:|---:|
-| PC | 433 | 23 | 414 | 1.16 |
-| Mobile | 374 | 111 | 334 | 1.18 |
-| Tablet | 35 | 11 | 34 | 1.09 |
-| Other | 0 | 23 | 0 |  |
+| Mobile | 452 | 120 | 410 | 1.25 |
+| PC | 440 | 47 | 429 | 1.20 |
+| Tablet | 50 | 3 | 48 | 1.12 |
+| Other | 0 | 24 | 0 |  |
 
 #### EngagementTime
 
 | Device | totalTime | activeTime |
 |---|---:|---:|
-| PC | 135 | 61 |
-| Mobile | 85 | 36 |
-| Tablet | 52 | 47 |
+| Tablet | 130 | 72 |
+| PC | 115 | 63 |
+| Mobile | 81 | 35 |
 

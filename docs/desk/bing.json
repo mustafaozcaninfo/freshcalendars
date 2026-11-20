@@ -1,13 +1,7 @@
 {
- "generatedAt": "2026-11-19T18:17:02.110Z",
+ "generatedAt": "2026-11-20T09:17:17.285Z",
  "site": "https://freshcalendars.com/",
  "daily": [
-  {
-   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
-   "Clicks": 3,
-   "Date": "/Date(1752883200000)/",
-   "Impressions": 3589
-  },
   {
    "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
    "Clicks": 2,
@@ -2923,6 +2917,12 @@
    "Clicks": 417,
    "Date": "/Date(1794873600000)/",
    "Impressions": 78011
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 425,
+   "Date": "/Date(1794960000000)/",
+   "Impressions": 84319
   }
  ],
  "queries": [
@@ -4215,19 +4215,19 @@
    "ctr": 0
   },
   {
-   "key": "what day is thanksgiving 2026",
-   "clicks": 0,
-   "impressions": 94,
-   "posW": 752,
-   "position": 8,
-   "ctr": 0
-  },
-  {
    "key": "thanksgiving 2026",
    "clicks": 0,
    "impressions": 94,
    "posW": 846,
    "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "what day is thanksgiving 2026",
+   "clicks": 0,
+   "impressions": 94,
+   "posW": 752,
+   "position": 8,
    "ctr": 0
   },
   {
@@ -4487,19 +4487,19 @@
    "ctr": 0.047619047619047616
   },
   {
-   "key": "fall time change 2026 november",
-   "clicks": 2,
-   "impressions": 63,
-   "posW": 252,
-   "position": 4,
-   "ctr": 0.031746031746031744
-  },
-  {
    "key": "when is the day of the dead 2026",
    "clicks": 2,
    "impressions": 63,
    "posW": 126,
    "position": 2,
+   "ctr": 0.031746031746031744
+  },
+  {
+   "key": "fall time change 2026 november",
+   "clicks": 2,
+   "impressions": 63,
+   "posW": 252,
+   "position": 4,
    "ctr": 0.031746031746031744
   },
   {
@@ -4559,14 +4559,6 @@
    "ctr": 0.05454545454545454
   },
   {
-   "key": "texas sample ballot 2026",
-   "clicks": 0,
-   "impressions": 54,
-   "posW": 378,
-   "position": 7,
-   "ctr": 0
-  },
-  {
    "key": "on a higher level strands",
    "clicks": 0,
    "impressions": 54,
@@ -4575,11 +4567,11 @@
    "ctr": 0
   },
   {
-   "key": "date of thanksgiving 2026",
+   "key": "texas sample ballot 2026",
    "clicks": 0,
-   "impressions": 53,
-   "posW": 424,
-   "position": 8,
+   "impressions": 54,
+   "posW": 378,
+   "position": 7,
    "ctr": 0
   },
   {
@@ -4591,6 +4583,14 @@
    "ctr": 0
   },
   {
+   "key": "date of thanksgiving 2026",
+   "clicks": 0,
+   "impressions": 53,
+   "posW": 424,
+   "position": 8,
+   "ctr": 0
+  },
+  {
    "key": "when do governors take office",
    "clicks": 2,
    "impressions": 52,
@@ -4599,7 +4599,7 @@
    "ctr": 0.038461538461538464
   },
   {
-   "key": "fall back date 2026",
+   "key": "uk clock change october 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4607,7 +4607,7 @@
    "ctr": 0
   },
   {
-   "key": "uk clock change october 2026",
+   "key": "fall back date 2026",
    "clicks": 0,
    "impressions": 51,
    "posW": 459,
@@ -4767,19 +4767,19 @@
    "ctr": 0
   },
   {
-   "key": "when is halloween this year 2026",
-   "clicks": 0,
-   "impressions": 40,
-   "posW": 240,
-   "position": 6,
-   "ctr": 0
-  },
-  {
    "key": "when do the clocks go back 2026",
    "clicks": 0,
    "impressions": 40,
    "posW": 400,
    "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "when is halloween this year 2026",
+   "clicks": 0,
+   "impressions": 40,
+   "posW": 240,
+   "position": 6,
    "ctr": 0
   },
   {
@@ -4807,19 +4807,19 @@
    "ctr": 0.07894736842105263
   },
   {
-   "key": "tesco christmas delivery slots 2026 early access",
-   "clicks": 2,
-   "impressions": 38,
-   "posW": 152,
-   "position": 4,
-   "ctr": 0.05263157894736842
-  },
-  {
    "key": "day of the dead 2026 dates",
    "clicks": 2,
    "impressions": 38,
    "posW": 114,
    "position": 3,
+   "ctr": 0.05263157894736842
+  },
+  {
+   "key": "tesco christmas delivery slots 2026 early access",
+   "clicks": 2,
+   "impressions": 38,
+   "posW": 152,
+   "position": 4,
    "ctr": 0.05263157894736842
   },
   {
@@ -4927,19 +4927,19 @@
    "ctr": 0.11538461538461539
   },
   {
-   "key": "dea take back day 2026",
-   "clicks": 1,
-   "impressions": 25,
-   "posW": 175,
-   "position": 7,
-   "ctr": 0.04
-  },
-  {
    "key": "daylight saving time november 1 2026",
    "clicks": 1,
    "impressions": 25,
    "posW": 25,
    "position": 1,
+   "ctr": 0.04
+  },
+  {
+   "key": "dea take back day 2026",
+   "clicks": 1,
+   "impressions": 25,
+   "posW": 175,
+   "position": 7,
    "ctr": 0.04
   },
   {
@@ -5047,14 +5047,6 @@
    "ctr": 0.16666666666666666
   },
   {
-   "key": "when do the new governors take office",
-   "clicks": 2,
-   "impressions": 18,
-   "posW": 36,
-   "position": 2,
-   "ctr": 0.1111111111111111
-  },
-  {
    "key": "nfl week 9 pick sheet 2026",
    "clicks": 2,
    "impressions": 18,
@@ -5076,6 +5068,14 @@
    "impressions": 18,
    "posW": 126,
    "position": 7,
+   "ctr": 0.1111111111111111
+  },
+  {
+   "key": "when do the new governors take office",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 36,
+   "position": 2,
    "ctr": 0.1111111111111111
   },
   {
@@ -5215,14 +5215,6 @@
    "ctr": 0.16666666666666666
   },
   {
-   "key": "dade county school calendar 2026-27",
-   "clicks": 2,
-   "impressions": 12,
-   "posW": 36,
-   "position": 3,
-   "ctr": 0.16666666666666666
-  },
-  {
    "key": "november gratitude calendar",
    "clicks": 2,
    "impressions": 12,
@@ -5231,12 +5223,12 @@
    "ctr": 0.16666666666666666
   },
   {
-   "key": "daylight savings nov 2026",
-   "clicks": 1,
-   "impressions": 11,
-   "posW": 33,
+   "key": "dade county school calendar 2026-27",
+   "clicks": 2,
+   "impressions": 12,
+   "posW": 36,
    "position": 3,
-   "ctr": 0.09090909090909091
+   "ctr": 0.16666666666666666
   },
   {
    "key": "social security payment schedule 2026 pdf",
@@ -5244,6 +5236,14 @@
    "impressions": 11,
    "posW": 55,
    "position": 5,
+   "ctr": 0.09090909090909091
+  },
+  {
+   "key": "daylight savings nov 2026",
+   "clicks": 1,
+   "impressions": 11,
+   "posW": 33,
+   "position": 3,
    "ctr": 0.09090909090909091
   },
   {
@@ -5263,19 +5263,19 @@
    "ctr": 0.18181818181818182
   },
   {
-   "key": "santa tracker norad live 2026 schedule",
-   "clicks": 3,
-   "impressions": 11,
-   "posW": 11,
-   "position": 1,
-   "ctr": 0.2727272727272727
-  },
-  {
    "key": "veterans day 2026 worksheets",
    "clicks": 3,
    "impressions": 11,
    "posW": 55,
    "position": 5,
+   "ctr": 0.2727272727272727
+  },
+  {
+   "key": "santa tracker norad live 2026 schedule",
+   "clicks": 3,
+   "impressions": 11,
+   "posW": 11,
+   "position": 1,
    "ctr": 0.2727272727272727
   },
   {
@@ -5311,19 +5311,19 @@
    "ctr": 0.375
   },
   {
-   "key": "printable texas sample ballot 2026",
-   "clicks": 2,
-   "impressions": 6,
-   "posW": 30,
-   "position": 5,
-   "ctr": 0.3333333333333333
-  },
-  {
    "key": "daylight savings 2026 november",
    "clicks": 2,
    "impressions": 6,
    "posW": 6,
    "position": 1,
+   "ctr": 0.3333333333333333
+  },
+  {
+   "key": "printable texas sample ballot 2026",
+   "clicks": 2,
+   "impressions": 6,
+   "posW": 30,
+   "position": 5,
    "ctr": 0.3333333333333333
   }
  ],
@@ -7225,19 +7225,19 @@
    "ctr": 0.08823529411764706
   },
   {
-   "key": "https://freshcalendars.com/news/iphone-duo-october-24-availability/",
-   "clicks": 2,
-   "impressions": 33,
-   "posW": 132,
-   "position": 4,
-   "ctr": 0.06060606060606061
-  },
-  {
    "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
    "clicks": 2,
    "impressions": 33,
    "posW": 198,
    "position": 6,
+   "ctr": 0.06060606060606061
+  },
+  {
+   "key": "https://freshcalendars.com/news/iphone-duo-october-24-availability/",
+   "clicks": 2,
+   "impressions": 33,
+   "posW": 132,
+   "position": 4,
    "ctr": 0.06060606060606061
   },
   {
@@ -7297,11 +7297,11 @@
    "ctr": 0.3333333333333333
   },
   {
-   "key": "https://freshcalendars.com/news/mail-ballot-deadlines-2026-by-state/",
+   "key": "https://freshcalendars.com/news/broward-county-school-calendar-2026-27/",
    "clicks": 0,
    "impressions": 12,
-   "posW": 84,
-   "position": 7,
+   "posW": 96,
+   "position": 8,
    "ctr": 0
   },
   {
@@ -7313,19 +7313,11 @@
    "ctr": 0
   },
   {
-   "key": "https://freshcalendars.com/news/broward-county-school-calendar-2026-27/",
+   "key": "https://freshcalendars.com/news/mail-ballot-deadlines-2026-by-state/",
    "clicks": 0,
    "impressions": 12,
-   "posW": 96,
-   "position": 8,
-   "ctr": 0
-  },
-  {
-   "key": "https://freshcalendars.com/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/",
-   "clicks": 0,
-   "impressions": 11,
-   "posW": 88,
-   "position": 8,
+   "posW": 84,
+   "position": 7,
    "ctr": 0
   },
   {
@@ -7334,6 +7326,14 @@
    "impressions": 11,
    "posW": 77,
    "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/news/2026-midterm-elections-whats-on-the-ballot-results-tracker/",
+   "clicks": 0,
+   "impressions": 11,
+   "posW": 88,
+   "position": 8,
    "ctr": 0
   },
   {
@@ -7369,19 +7369,19 @@
    "ctr": 0
   },
   {
-   "key": "https://freshcalendars.com/printable-yearly-calendar.html",
-   "clicks": 0,
-   "impressions": 2,
-   "posW": 16,
-   "position": 8,
-   "ctr": 0
-  },
-  {
    "key": "https://freshcalendars.com/when-is/christmas-day",
    "clicks": 0,
    "impressions": 2,
    "posW": 12,
    "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "https://freshcalendars.com/printable-yearly-calendar.html",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 16,
+   "position": 8,
    "ctr": 0
   },
   {
@@ -7402,24 +7402,6 @@
   }
  ],
  "crawl": [
-  {
-   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
-   "AllOtherCodes": 16,
-   "BlockedByRobotsTxt": 0,
-   "Code2xx": 183,
-   "Code301": 128,
-   "Code302": 62,
-   "Code4xx": 30,
-   "Code5xx": 2,
-   "ConnectionTimeout": 0,
-   "ContainsMalware": 0,
-   "CrawledPages": 108,
-   "CrawlErrors": 33,
-   "Date": "/Date(1792281600000)/",
-   "DnsFailures": 0,
-   "InIndex": 166,
-   "InLinks": 331
-  },
   {
    "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
    "AllOtherCodes": 17,
@@ -7940,6 +7922,24 @@
    "Date": "/Date(1794960000000)/",
    "DnsFailures": 0,
    "InIndex": 4161,
+   "InLinks": 428
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 376,
+   "BlockedByRobotsTxt": 4,
+   "Code2xx": 4381,
+   "Code301": 200,
+   "Code302": 58,
+   "Code4xx": 87,
+   "Code5xx": 2,
+   "ConnectionTimeout": 16,
+   "ContainsMalware": 0,
+   "CrawledPages": 8326,
+   "CrawlErrors": 153,
+   "Date": "/Date(1795046400000)/",
+   "DnsFailures": 0,
+   "InIndex": 4153,
    "InLinks": 428
   }
  ],
