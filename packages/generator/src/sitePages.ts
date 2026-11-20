@@ -47,7 +47,10 @@ import {
   CSS,
   FONTS_CSS,
   FONT_PRELOAD,
+  GA_JS,
+  GA_ORIGINS,
   NAV_JS,
+  PV_JS,
   NEWS_LAUNCHED,
   NEWS_SITEMAPS,
   adBand,
@@ -70,6 +73,15 @@ import { displayPreview2xUrl, displayPreviewUrl } from "./previews.js";
 import { datedPages, datedIndexNav, designCards, monthHref, monthRowsNote, monthTable, monthWeekdaysHtml, monthWeeksHtml, monthWorkHtml, monthYearsNote, monthYearPath, sheetSearchImages, yearHref } from "./datedPages.js";
 import { classroomGuideBody, fiscalGuideBody, mondayGuideBody, printGuideExtra } from "./guideCopy.js";
 import { homeConceptHero, homeCalendarShelf, calendarStudio, calendarLibrary } from "./conceptPages.js";
+
+/**
+ * Measurement on every calendar page and the 404 page: the same Google Analytics 4, Clarity and
+ * first-party beacon snippets as /news/, in the nav inline script (no extra script tag). They load
+ * after window load or on leaving the page, so they cost no rendering time.
+ * FC_GA=0 or FC_PV=0 at build time turns one off.
+ */
+const MEASURE_JS = (process.env.FC_GA !== "0" ? GA_JS : "") + (process.env.FC_PV !== "0" ? PV_JS : "");
+const MEASURE_HINTS = process.env.FC_GA !== "0" ? GA_ORIGINS.map((href) => `<link rel="dns-prefetch" href="${href}">`).join("\n") : "";
 
 /**
  * Type label on the holiday lists. The engine's "federal" means the country's official days off,
@@ -517,6 +529,7 @@ ${adsEnabled ? `<link rel="dns-prefetch" href="https://pagead2.googlesyndication
 ${FONT_PRELOAD}
 ${preloadImg}
 ${metaTags(meta, { howTo: opts.howTo })}
+${MEASURE_HINTS}
 <script type="speculationrules">${CALENDAR_SPECULATION}</script>
 <style>${FONTS_CSS}${CSS}</style>
 </head>
@@ -532,7 +545,7 @@ ${siteFooterHtml(today, { news: NEWS_LAUNCHED })}
   <button type="button" class="lightbox-close" aria-label="Close preview">Close</button>
   <img alt="Enlarged calendar preview" title="Enlarged calendar preview" />
 </dialog>
-<script>${NAV_JS}</script>
+<script>${NAV_JS}${MEASURE_JS}</script>
 <script>${TODAY_JS}${DAYS_UNTIL_JS}</script>
 <script>${LIGHTBOX_JS}</script>
 ${meta.calendar.family === "legal" && meta.pageId === "legal-contact" ? `<script>${CONTACT_JS}</script>` : ""}
@@ -2126,8 +2139,8 @@ function privacyPolicyBody(): string {
 <p>To see which pages readers use and where pages are hard to use, we use:</p>
 <ul>
   <li><strong>Google Analytics 4</strong> (Google), which uses cookies to count visits and measure engagement. See <a href="https://policies.google.com/technologies/partner-sites" rel="noopener noreferrer" target="_blank">how Google uses information from sites that use its services</a>.</li>
-  <li><strong>Microsoft Clarity</strong> (Microsoft), which records how visitors move, click and scroll on our news pages (heatmaps and session replays, with text you type masked) and may use cookies. Microsoft processes this data under the <a href="https://privacy.microsoft.com/privacystatement" rel="noopener noreferrer" target="_blank">Microsoft Privacy Statement</a>.</li>
-  <li>Our own <strong>page-view count</strong>: when you leave a news page, your browser sends us the page address, the site you came from, the time spent and how far you scrolled. It sets no cookie and stores no IP address or identifier; we keep only these counts with your country, for three months.</li>
+  <li><strong>Microsoft Clarity</strong> (Microsoft), which records how visitors move, click and scroll on our pages (heatmaps and session replays, with text you type masked) and may use cookies. Microsoft processes this data under the <a href="https://privacy.microsoft.com/privacystatement" rel="noopener noreferrer" target="_blank">Microsoft Privacy Statement</a>.</li>
+  <li>Our own <strong>page-view count</strong>: when you leave a page, your browser sends us the page address, the site you came from, the time spent and how far you scrolled. It sets no cookie and stores no IP address or identifier; we keep only these counts with your country, for three months.</li>
 </ul>
 
 <h2>3. Advertising (Google AdSense)</h2>
@@ -2485,7 +2498,7 @@ ${siteHeaderHtml(today, { news: NEWS_LAUNCHED })}
   <section class="concept-wrap nf-suggest" data-nf-suggest hidden aria-live="polite"></section>
 </main>
 ${siteFooterHtml(today, { news: NEWS_LAUNCHED })}
-<script>${NAV_JS}</script>
+<script>${NAV_JS}${MEASURE_JS}</script>
 <script>${NOT_FOUND_JS}</script>
 </body>
 </html>

@@ -267,12 +267,13 @@ const PV_MOBILE = /Mobi|Android|iPhone|iPod/i;
 const PV_TABLET = /iPad|Tablet/i;
 
 /**
- * First-party page-view beacon. News pages send one small POST when the reader leaves or hides the
+ * First-party page-view beacon. News and calendar pages send one small POST when the reader leaves or hides the
  * tab (sendBeacon on pagehide or visibilitychange), so ad blockers, late gtag.js and readers who
  * leave in two seconds are all counted, and bots that run no JavaScript are not. Stored in the
  * Workers Analytics Engine dataset fc_pageviews (binding PV, three months, read by
  * scripts/news-traffic.mjs): blob1 path, blob2 referrer host, blob3 country, blob4 device,
  * blob5 the element of the slowest interaction, blob6 the script host that ran longest in its frame;
+ * blob7 the site: empty for /news/ (as in every row written before Nov. 20, 2026), "cal" for a calendar page;
  * double3 that interaction's Interaction to Next Paint (INP) in ms, double4 its input delay;
  * double1 seconds on page (capped at 30 minutes, so a tab left open does not skew averages), double2 deepest scroll in percent. No cookie, no IP, no user id.
  * Always answers 204 so a refused or broken beacon never shows an error to the reader.
@@ -298,7 +299,7 @@ export async function pageView(request, env) {
   try {
     env.PV.writeDataPoint({
       indexes: [p.slice(0, 96)],
-      blobs: [p, ref, (request.cf && request.cf.country) || "", device, tag(d.it, /^[a-z0-9#._-]{1,60}$/i), tag(d.is, /^[a-z0-9.-]{1,80}$/i)],
+      blobs: [p, ref, (request.cf && request.cf.country) || "", device, tag(d.it, /^[a-z0-9#._-]{1,60}$/i), tag(d.is, /^[a-z0-9.-]{1,80}$/i), p.startsWith("/news/") ? "" : "cal"],
       doubles: [num(d.t, 1800), num(d.s, 100), num(d.i, 10000), num(d.id, 10000)],
     });
   } catch (err) {
