@@ -183,8 +183,8 @@ The Disney+ welcome page, checked Nov. 20, 2026, lists the Disney+ and Hulu bund
 
 ## Print the Hulu December 2026 watch list
 
-The two-page printable lists 21 dated Hulu titles from the post on their dates, from Phony on Dec. 1 to Duck Dynasty: FlashQuack on Dec. 31, with a box to tick for each. Raising Chelsea season 2 is printed as "date not yet announced." Pair it with a [December 2026 calendar](/december-calendars.html), or use the [printable weekly calendar](/printable-weekly-calendar.html) to plan each watch night. For November titles, see the [Hulu November 2026 list](/news/new-on-hulu-november-2026-release-dates/).
+The two-page printable lists 21 dated Hulu titles from the post on their dates, from Phony on Dec. 1 to Duck Dynasty: FlashQuack on Dec. 31, with a box to tick for each, and marks each one as a Hulu Original, a series or special, or a film (labeled "Film"). Raising Chelsea season 2 is printed as "date not yet announced." Pair it with a [December 2026 calendar](/december-calendars.html), or use the [printable weekly calendar](/printable-weekly-calendar.html) to plan each watch night. For November titles, see the [Hulu November 2026 list](/news/new-on-hulu-november-2026-release-dates/).
 
-## How we keep this accurate
+## Where the Hulu December 2026 dates come from
 
 Every date comes from Disney's post of Nov. 19, 2026, and the prices from the Disney+ welcome page of Nov. 20. If Disney changes a date, this story, the tables and the printable change together.
