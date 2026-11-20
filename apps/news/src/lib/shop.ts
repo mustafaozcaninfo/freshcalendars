@@ -38,6 +38,35 @@ export const SHOP_CAMPAIGNS = {
     utm: "veterans-day-2026",
     until: "2026-11-30T23:59:00-05:00",
   },
+  "advent-calendars": {
+    href: `${SHOP}/categories/advent-calendars`,
+    kicker: "Advent calendars 2026",
+    title: "Advent calendars compared by cost per day",
+    text: "More than 900 advent calendars in 21 kinds, with guides that list the days, what each door holds and the cost per day at today's price.",
+    cta: "See advent calendars by kind",
+    items: [
+      { name: "LEGO and block calendars", href: `${SHOP}/articles/lego-advent-calendars` },
+      { name: "Chocolate calendars", href: `${SHOP}/articles/chocolate-advent-calendars` },
+      { name: "Calendars for kids", href: `${SHOP}/articles/advent-calendars-for-kids` },
+      { name: "Wooden calendars to refill", href: `${SHOP}/articles/wooden-advent-calendars` },
+    ],
+    utm: "advent-2026",
+    until: "2026-12-02T23:59:00-05:00",
+  },
+  "lego-advent": {
+    href: `${SHOP}/articles/lego-advent-calendars`,
+    kicker: "LEGO advent calendars 2026",
+    title: "LEGO sets and block alternatives by cost per day",
+    text: "Three LEGO advent calendars and six building-block calendars from other makers in one table: pieces, days and the cost per day at today's price.",
+    cta: "Compare the nine sets",
+    items: [
+      { name: "LEGO Friends 2026", href: `${SHOP}/products/lego-friends-advent-calendar-2026-42698-christmas-countdown` },
+      { name: "LEGO Marvel 2026", href: `${SHOP}/products/lego-marvel-advent-calendar-2026-317-pieces-6-minifigures` },
+      { name: "All block calendars", href: `${SHOP}/categories/building-block-advent-calendars` },
+    ],
+    utm: "advent-2026",
+    until: "2026-12-02T23:59:00-05:00",
+  },
 } satisfies Record<string, ShopCampaign>;
 
 export type ShopCampaignId = keyof typeof SHOP_CAMPAIGNS;

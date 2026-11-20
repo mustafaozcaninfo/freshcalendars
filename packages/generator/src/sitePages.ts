@@ -1517,7 +1517,7 @@ ${adUnit(ADS.monthMid, "FreshCalendars_Month_InContent", "banner")}
   <ul class="facts">${ed.historyFacts.map((f) => `<li><strong>${esc(f.label)}</strong> ${esc(f.text)}</li>`).join("")}</ul>
 </section>
 ${adUnit(ADS.inArticle, "FreshCalendars_Month_Bottom", "banner")}
-${faqSection(meta)}${shopBoxHtml("monthly")}`;
+${faqSection(meta)}${shopBoxHtml(`monthly:${y}-${m}`)}`;
     return layout(
       meta,
       `${hero}${withSidebar(

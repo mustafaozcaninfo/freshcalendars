@@ -17,7 +17,10 @@ const BOXES: Record<string, Box> = {
   "when-is:cyber-monday": { title: "Journal and pen prices below list", text: "Journals, notebooks and pens priced 15% or more below their list price.", href: `${SHOP}/black-friday-journal-deals`, cta: "See the price cuts" },
   "when-is:christmas-day": { title: "A gift for someone who plans", text: "Christmas gifts for planner lovers, picked from the maker listings.", href: `${SHOP}/articles/christmas-gifts-for-planner-lovers`, cta: "Read the gift guide" },
   "when-is:christmas-eve": { title: "Cards still to send?", text: "Boxed Christmas cards compared by count, card size and number of designs.", href: `${SHOP}/categories/boxed-christmas-cards`, cta: "Compare Christmas cards" },
-  "when-is:thanksgiving": { title: "Counting down to Christmas next?", text: "Advent calendars with 24 daily openings: journal kits, sticker sets and book lover editions.", href: `${SHOP}/categories/advent-calendars`, cta: "See advent calendars" },
+  "when-is:thanksgiving": { title: "Counting down to Christmas?", text: "More than 900 advent calendars in 21 kinds, with the days, what each door holds and the cost per day.", href: `${SHOP}/categories/advent-calendars`, cta: "See advent calendars" },
+  // Month pages take "monthly:<year>-<month>" first and fall back to "monthly" (shopBoxHtml).
+  "monthly:2026-11": { title: "Counting down to Christmas?", text: "More than 900 advent calendars in 21 kinds, with the days, what each door holds and the cost per day.", href: `${SHOP}/categories/advent-calendars`, cta: "See advent calendars" },
+  "monthly:2026-12": { title: "Counting down to Christmas?", text: "More than 900 advent calendars in 21 kinds, with the days, what each door holds and the cost per day.", href: `${SHOP}/categories/advent-calendars`, cta: "See advent calendars" },
   "when-is:mothers-day": { title: "A planner gift for mom", text: "22 planner gifts by mom type and budget, with sizes drawn to scale.", href: `${SHOP}/articles/planner-gifts-for-moms`, cta: "Read the gift guide" },
   "when-is:veterans-day": { title: "A gift that keeps a service story", text: "Military memory journals by branch, flag notebooks and patriotic planner supplies.", href: `${SHOP}/veterans-day-gifts`, cta: "See Veterans Day gifts" },
   "when-is:new-years-day": { title: "Starting a planner on January 1?", text: "2027 planners in A5, compared by layout, paper and price.", href: `${SHOP}/2027-planners-a5`, cta: "Compare 2027 planners" },
@@ -30,7 +33,7 @@ export const shopBoxHref = (key: string): string | undefined => BOXES[key]?.href
 
 /** The box for a page key ("yearly", "weekly", "when-is:black-friday"), or "" when the page has no match. */
 export function shopBoxHtml(key: string): string {
-  const b = BOXES[key];
+  const b = BOXES[key] ?? (key.startsWith("monthly:") ? BOXES.monthly : undefined);
   if (!b) return "";
   return `<aside class="shop-box" aria-label="From the Fresh Calendars Shop"><span class="shop-box-kicker">From the Fresh Calendars Shop</span><strong>${b.title}</strong><p>${b.text}</p><a href="${b.href}">${b.cta}</a><small>The shop earns a commission when you buy through its retailer links.</small></aside>`;
 }

@@ -2,6 +2,7 @@
 title: "Advent Calendar 2026: Door 1 on Dec. 1, Advent Starts Nov. 29"
 description: "Advent 2026 begins Sunday, Nov. 29, and advent calendars run Dec. 1 to 24. Four free printables and which 2026 brand calendars are confirmed."
 type: explainer
+shop: advent-calendars
 publishedAt: "2026-10-19T08:05:00-04:00"
 updatedAt: "2026-11-04T11:25:00-05:00"
 authors: [christina-gerland]

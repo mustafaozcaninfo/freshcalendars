@@ -2,6 +2,7 @@
 title: "LEGO Advent Calendars 2026: All Five Sets, $34.99 to $44.99"
 description: "LEGO advent calendars 2026 cost $34.99 to $44.99 for City, Friends, Star Wars, Marvel and Disney Princess. Piece counts per set; no Harry Potter calendar."
 type: explainer
+shop: lego-advent
 publishedAt: "2026-10-19T08:10:00-04:00"
 authors: [jessica-hartwell]
 category: retail-dates

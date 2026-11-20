@@ -2,6 +2,7 @@
 title: "Michaels Black Friday 2026: Free Advent Calendars From Nov. 27"
 description: "Michaels Black Friday runs Nov. 20-29, and free advent calendars (500 per store) start Nov. 27. Day-by-day sale calendar, Cyber Week table and a printable."
 type: news
+shop: advent-calendars
 publishedAt: "2026-11-17T14:36:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
