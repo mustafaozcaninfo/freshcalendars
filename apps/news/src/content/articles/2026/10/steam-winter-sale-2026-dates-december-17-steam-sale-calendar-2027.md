@@ -3,7 +3,7 @@ title: "Steam Winter Sale 2026 Dates: Dec. 17 to Jan. 4, 2027"
 description: "The Steam Winter Sale 2026 runs Thu., Dec. 17 to Mon., Jan. 4, per Valve. Also every Steam sale and Fest date through June 2027, with a free printable."
 type: explainer
 publishedAt: "2026-10-28T19:43:00-04:00"
-updatedAt: "2026-11-14T19:25:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["steam winter sale 2026", "steam sale dates 2027", "next steam sale", "steam next fest february 2027", "steam spring sale 2027"]
@@ -63,7 +63,7 @@ faq:
   - q: "When is the Steam Winter Sale 2026?"
     a: "Valve's Upcoming Steam Events page lists Thursday, Dec. 17, 2026, to Monday, Jan. 4, 2027."
   - q: "When is the next Steam sale?"
-    a: "Valve lists a Black Friday 2026 event from Thu., Nov. 26, to Mon., Nov. 30, and the Winter Sale on Dec. 17, 2026. Before them, Auto-Battler role-playing game (RPG) Fest runs Mon., Nov. 16, to Mon., Nov. 23. Steam Scream V Fest ended Nov. 2."
+    a: "Valve lists a Black Friday 2026 event from Thu., Nov. 26, to Mon., Nov. 30, and the Winter Sale on Dec. 17, 2026. Before them, Auto-Battler role-playing game (RPG) Fest is running now, Mon., Nov. 16, to Mon., Nov. 23. Steam Scream V Fest ended Nov. 2."
   - q: "When is the Steam Black Friday sale 2026?"
     a: "Valve lists Black Friday 2026 (Discounts & Events hub) from Nov. 26 at 10 a.m. Pacific Time (PT) through Nov. 30 at 10 a.m. PT. That is 1 p.m. ET and 6 p.m. Greenwich Mean Time (GMT) on both days."
   - q: "When is the Steam Spring Sale 2027?"
@@ -97,13 +97,13 @@ related: [amazon-black-friday-2026-sale-dates-when-does-it-start, epic-games-sto
 draft: false
 ---
 
-**The Steam Winter Sale 2026 runs Thursday, Dec. 17, 2026, to Monday, Jan. 4, 2027, according to Valve's Steamworks "Upcoming Steam Events" page, checked Nov. 14, 2026.** Valve now also lists Black Friday 2026 from Thursday, Nov. 26, at 10 a.m. Pacific Time (PT) to Monday, Nov. 30, at 10 a.m. PT. The next event on Valve's calendar is Auto-Battler role-playing game (RPG) Fest, which starts Monday, Nov. 16. Here is every Steam seasonal sale and themed Fest Valve has dated from now through June 2027, with weekdays and lengths computed, and a free printable that holds all of them.
+**The Steam Winter Sale 2026 runs Thursday, Dec. 17, 2026, to Monday, Jan. 4, 2027, according to Valve's Steamworks "Upcoming Steam Events" page, checked Nov. 14, 2026.** Valve now also lists Black Friday 2026 from Thursday, Nov. 26, at 10 a.m. Pacific Time (PT) to Monday, Nov. 30, at 10 a.m. PT. Auto-Battler role-playing game (RPG) Fest, which started Monday, Nov. 16, is running now. Here is every Steam seasonal sale and themed Fest Valve has dated from now through June 2027, with weekdays and lengths computed, and a free printable that holds all of them.
 
 Only the Black Friday entry carries a time and time zone; every other entry is dates only, so no other start time is given here. Autumn Sale 2027 is listed as "to be determined (TBD)".
 
 ## When is the Steam Winter Sale 2026?
 
-Valve lists Thursday, Dec. 17, 2026, to Monday, Jan. 4, 2027. Counting both dates, that is 19 days, and the start is 33 days after Nov. 14. It is the longest entry on the calendar below; the Summer Sale 2027 is next at 15 days.
+Valve lists Thursday, Dec. 17, 2026, to Monday, Jan. 4, 2027. Counting both dates, that is 19 days, and the start is 26 days after Nov. 21. It is the longest entry on the calendar below; the Summer Sale 2027 is next at 15 days.
 
 Our [December 2026 printable calendar](/december-calendars.html) is handy for marking the start date and the Jan. 4 end.
 
@@ -141,7 +141,7 @@ Valve lists "Black Friday 2026 (Discounts & Events hub): From November 26th 10AM
 
 ## What Steam event is next?
 
-Auto-Battler RPG Fest runs Mon., Nov. 16, to Mon., Nov. 23, 2026. Valve describes it as "Games where the battles play themselves out – but you have to upgrade your units to win." Steam Scream V Fest, the horror and Halloween-centric Fest, ran Mon., Oct. 26, to Mon., Nov. 2, 2026, and has ended.
+Auto-Battler RPG Fest is running now, from Mon., Nov. 16, to Mon., Nov. 23, 2026. Valve describes it as "Games where the battles play themselves out – but you have to upgrade your units to win." Steam Scream V Fest, the horror and Halloween-centric Fest, ran Mon., Oct. 26, to Mon., Nov. 2, 2026, and has ended.
 
 ## When is the Steam Spring Sale 2027?
 

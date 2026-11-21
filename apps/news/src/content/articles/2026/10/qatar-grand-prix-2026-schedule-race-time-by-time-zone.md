@@ -3,7 +3,7 @@ title: "Qatar Grand Prix 2026: Race Nov. 29 at 11 a.m. ET, Every Session"
 description: "The Qatar Grand Prix 2026 race is Sunday, Nov. 29, at 11 a.m. ET, 7 p.m. local time. Every session in U.S. time zones and GMT, plus a printable schedule."
 type: news
 publishedAt: "2026-10-27T19:44:00-04:00"
-updatedAt: "2026-11-14T15:31:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Qatar Grand Prix 2026 time", "Qatar GP 2026 schedule", "F1 Qatar race time ET", "Qatar Grand Prix 2026 how to watch"]
@@ -22,7 +22,7 @@ hero:
 summary:
   - "The Formula 1 (F1) Qatar Grand Prix race starts Sunday, Nov. 29, 2026, at 16:00 Coordinated Universal Time (UTC), which is 11 a.m. Eastern Time (ET) and 7 p.m. in Qatar, by our conversion of formula1.com times."
   - "Qualifying is Saturday, Nov. 28, at 1 p.m. ET. Practice 1 is Friday, Nov. 27, at 8:30 a.m. ET."
-  - "The weekend is Round 22 of 23 on F1's 2026 calendar, between Las Vegas (Nov. 19 to 21) and the Abu Dhabi finale (Dec. 4 to 6)."
+  - "The weekend is Round 22 of 23 on F1's 2026 calendar, between Las Vegas (this weekend, Nov. 19 to 21) and the Abu Dhabi finale (Dec. 4 to 6)."
   - "Apple says Apple TV subscribers in the U.S. can watch all practice, qualifying and Sprint sessions, along with races. Bell Media names The Sports Network (TSN) and Réseau des sports (RDS) as Canada's exclusive home of the 2026 season."
 faq:
   - q: "What time is the Qatar Grand Prix race in 2026?"
@@ -76,6 +76,7 @@ assets:
     subtitle: "Race Sun., Nov. 29, 2026 at 11 a.m. ET, 7 p.m. in Qatar"
     columns: ["Session", "ET / PT / GMT"]
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Fri., Nov. 27 · Practice 1", "8:30 a.m. ET / 5:30 a.m. PT / 13:30 GMT"]
       - ["Fri., Nov. 27 · Practice 2", "12 p.m. ET / 9 a.m. PT / 17:00 GMT"]
@@ -83,7 +84,6 @@ assets:
       - ["Sat., Nov. 28 · Qualifying", "1 p.m. ET / 10 a.m. PT / 18:00 GMT"]
       - ["Sun., Nov. 29 · Race", "11 a.m. ET / 8 a.m. PT / 16:00 GMT"]
     note: "Source: formula1.com, Qatar Grand Prix 2026 session times; converted from UTC."
-    inkSaver: true
     description: "A one-page Qatar Grand Prix 2026 weekend schedule with each session in Eastern, Pacific and Greenwich Mean Time."
     alt: "F1 Qatar Grand Prix 2026 weekend schedule listing five sessions in Eastern, Pacific and Greenwich Mean Time"
 downloads:
@@ -94,14 +94,6 @@ downloads:
     alt: "F1 Qatar Grand Prix 2026 weekend schedule listing five sessions in Eastern, Pacific and Greenwich Mean Time"
     pdf: "/news/downloads/qatar-gp-2026/f1-qatar-grand-prix-2026-schedule.pdf"
     png: "/news/downloads/qatar-gp-2026/f1-qatar-grand-prix-2026-schedule.png"
-    pages: 1
-  - group: "F1 Qatar Grand Prix 2026 Weekend Schedule (ET) printables"
-    title: "F1 Qatar Grand Prix 2026 Weekend Schedule (ET) (ink saver)"
-    description: "A one-page Qatar Grand Prix 2026 weekend schedule with each session in Eastern, Pacific and Greenwich Mean Time. Ink-saver version."
-    preview: ../../../../assets/news/qatar-gp-2026/f1-qatar-grand-prix-2026-schedule-ink.png
-    alt: "F1 Qatar Grand Prix 2026 weekend schedule listing five sessions in Eastern, Pacific and Greenwich Mean Time, ink-saver version"
-    pdf: "/news/downloads/qatar-gp-2026/f1-qatar-grand-prix-2026-schedule-ink.pdf"
-    png: "/news/downloads/qatar-gp-2026/f1-qatar-grand-prix-2026-schedule-ink.png"
     pages: 1
 draft: false
 ---
@@ -148,7 +140,7 @@ F1's 2026 calendar lists Qatar as Round 22 of 23, with Abu Dhabi as the season f
 | 22 | Qatar | Nov. 27 to 29 |
 | 23 | Abu Dhabi | Dec. 4 to 6 |
 
-Source: formula1.com, 2026 calendar. On formula1.com's 2026 Drivers' Standings after the São Paulo race, Kimi Antonelli (Mercedes) leads with 390 points, followed by Max Verstappen with 279 and George Russell (Mercedes) with 262. The latest completed race listed on formula1.com is the São Paulo Grand Prix on Nov. 8, won by Lando Norris (McLaren) in 1:35:23.504. Las Vegas, Nov. 19 to 21, is the next race. For the previous round, see our [Las Vegas Grand Prix 2026 race time](/news/las-vegas-grand-prix-2026-schedule-race-time-by-time-zone/) story, and for the rounds before Qatar the [São Paulo](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/) and [Mexico City](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/) stories. Two-wheel fans can follow the [MotoGP final races](/news/motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk/) too.
+Source: formula1.com, 2026 calendar. On formula1.com's 2026 Drivers' Standings after the São Paulo race, Kimi Antonelli (Mercedes) leads with 390 points, followed by Max Verstappen with 279 and George Russell (Mercedes) with 262. The latest completed race listed on formula1.com is the São Paulo Grand Prix on Nov. 8, won by Lando Norris (McLaren) in 1:35:23.504. Las Vegas, Nov. 19 to 21, is this weekend, and Qatar is the next race after it. For the previous round, see our [Las Vegas Grand Prix 2026 race time](/news/las-vegas-grand-prix-2026-schedule-race-time-by-time-zone/) story, and for the rounds before Qatar the [São Paulo](/news/sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone/) and [Mexico City](/news/mexico-city-grand-prix-2026-schedule-race-time-by-time-zone/) stories. Two-wheel fans can follow the [MotoGP final races](/news/motogp-2026-final-races-qatar-portugal-valencia-race-times-us-uk/) too.
 
 ## Free Qatar Grand Prix 2026 weekend schedule
 
