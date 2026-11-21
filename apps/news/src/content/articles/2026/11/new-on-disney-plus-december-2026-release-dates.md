@@ -96,7 +96,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [new-on-hulu-december-2026-release-dates, new-on-disney-plus-november-2026-release-dates, the-game-awards-2026-tickets-october-29-date-december-10-nominations]
+related: [new-on-hulu-december-2026-release-dates, new-on-disney-plus-november-2026-release-dates, spotify-audible-holiday-deals-2026-premium-free-trial-end-dates]
 downloads:
   - group: "New on Disney+ printables"
     title: "New on Disney+, December 2026: Watch List"
