@@ -80,7 +80,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [is-hobby-lobby-open-thanksgiving-2026-black-friday-hours, black-friday-2026-ad-tracker-walmart-target-best-buy, lego-advent-calendars-2026-prices-whats-inside]
+related: [build-a-bear-black-friday-2026-deals-november-21-30, black-friday-2026-ad-tracker-walmart-target-best-buy, lego-advent-calendars-2026-prices-whats-inside]
 downloads:
   - group: "Michaels Black Friday 2026 Sale Dates printables"
     title: "Michaels Black Friday 2026 Sale Dates"
