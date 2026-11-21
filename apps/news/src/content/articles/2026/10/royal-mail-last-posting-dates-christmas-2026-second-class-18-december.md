@@ -1,9 +1,9 @@
 ---
 title: "Royal Mail Christmas Last Posting Dates 2026: 2nd Class 18 December"
-description: "Royal Mail's last posting date for 2nd Class at Christmas 2026 is Friday 18 December; 1st Class is Monday 21 December. Table of each service, days left."
+description: "Royal Mail's last 2nd Class posting date for Christmas 2026 is Friday 18 December; post 1st Class by Saturday 19 December. Table of each service."
 type: news
 publishedAt: "2026-10-30T02:20:00-04:00"
-updatedAt: "2026-11-18T11:30:00-05:00"
+updatedAt: "2026-11-21T11:25:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Royal Mail last posting dates Christmas 2026", "last day to post Christmas cards 2026", "Royal Mail 2nd Class last posting date Christmas", "Special Delivery last posting date 2026"]
@@ -21,14 +21,14 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Mutney"
 summary:
   - "Royal Mail's last recommended posting date for 2nd Class and 2nd Class Signed For is Friday 18 December 2026, 7 days before Christmas Day, according to its press release of 27 October 2026."
-  - "1st Class, 1st Class Signed For and Royal Mail Tracked 24 are Monday 21 December; Tracked 48 is Saturday 19 December; Special Delivery Guaranteed is Wednesday 23 December."
+  - "Post 1st Class and 1st Class Signed For by Saturday 19 December: the release's text says Monday 21 December, but its own list of dates puts them under Saturday 19 December. Tracked 24 is Monday 21 December; Tracked 48 is Saturday 19 December; Special Delivery Guaranteed is Wednesday 23 December."
   - "The Post Office lists Parcelforce Worldwide express48 on Monday 21 December and express24 on Tuesday 22 December 2026."
   - "These are recommended dates, not guarantees. International and British Forces Post Office (BFPO) dates are not covered here and are on royalmail.com/christmas."
 faq:
   - q: "What is the last posting date for 2nd Class at Christmas 2026?"
     a: "Friday 18 December 2026 for 2nd Class and 2nd Class Signed For, according to Royal Mail."
   - q: "What is the last day to post 1st Class for Christmas 2026?"
-    a: "Monday 21 December 2026 for 1st Class and 1st Class Signed For, according to Royal Mail."
+    a: "Post by Saturday 19 December 2026 to be safe. Royal Mail's press release text gives Monday 21 December for 1st Class and 1st Class Signed For, but its own list of last recommended posting dates puts them under Saturday 19 December."
   - q: "What is the Special Delivery last posting date for 2026?"
     a: "Special Delivery Guaranteed has a last recommended posting date of Wednesday 23 December 2026, according to Royal Mail."
   - q: "Are Royal Mail's last posting dates guaranteed?"
@@ -77,7 +77,7 @@ assets:
   scene: winter-holidays
   kicker: "Royal Mail · Christmas 2026"
   date: "2026-12-18"
-  card: { top: "Last 2nd Class post", big: "Fri., Dec. 18", bottom: "1st Class by Mon., Dec. 21" }
+  card: { top: "Last 2nd Class post", big: "Fri., Dec. 18", bottom: "1st Class by Sat., Dec. 19" }
   printable:
     slug: royal-mail-christmas-posting-dates-2026
     group: christmas-posting-2026
@@ -90,8 +90,8 @@ assets:
       columns: ["Royal Mail", "Parcelforce (Post Office)"]
       rows:
         - { date: "2026-12-18", cells: { "Royal Mail": "2nd Class and 2nd Class Signed For" }, src: 1, quote: "Friday 18 December" }
-        - { date: "2026-12-19", cells: { "Royal Mail": "Tracked 48" }, src: 1, quote: "Saturday 19 December" }
-        - { date: "2026-12-21", cells: { "Royal Mail": "1st Class, 1st Class Signed For, Tracked 24", "Parcelforce (Post Office)": "Worldwide express48" }, src: 1, quote: "Monday 21 December" }
+        - { date: "2026-12-19", cells: { "Royal Mail": "Tracked 48, 1st Class, 1st Class Signed For (release text also says Mon., Dec. 21)" }, src: 1, quote: "Saturday 19 December" }
+        - { date: "2026-12-21", cells: { "Royal Mail": "Tracked 24", "Parcelforce (Post Office)": "Worldwide express48" }, src: 1, quote: "Monday 21 December" }
         - { date: "2026-12-22", cells: { "Parcelforce (Post Office)": "Worldwide express24" }, src: 3, quote: "Tuesday 22 December" }
         - { date: "2026-12-23", cells: { "Royal Mail": "Special Delivery Guaranteed" }, src: 1, quote: "Wednesday 23 December" }
       unconfirmed:
@@ -100,7 +100,7 @@ assets:
     alt: "Printable list of Royal Mail last recommended posting dates for Christmas 2026 by service."
 ---
 
-**Royal Mail's last recommended posting date for 2nd Class and 2nd Class Signed For at Christmas 2026 is Friday 18 December, and for 1st Class it is Monday 21 December**, according to the Royal Mail press release of 27 October 2026. Our table below adds the weekday and the days left, the Post Office's Parcelforce dates are included, and a one-page printable follows.
+**Royal Mail's last recommended posting date for 2nd Class and 2nd Class Signed For at Christmas 2026 is Friday 18 December, and the safe date for 1st Class is Saturday 19 December**, according to the Royal Mail press release of 27 October 2026, whose text also gives Monday 21 December for 1st Class. Our table below adds the weekday and the days left, the Post Office's Parcelforce dates are included, and a one-page printable follows.
 
 Royal Mail calls these last recommended posting dates. They are advice on when to post, not a guarantee that an item arrives before Christmas Day.
 
@@ -110,17 +110,19 @@ Royal Mail calls these last recommended posting dates. They are advice on when t
 |---|---|---|---|
 | 2nd Class and 2nd Class Signed For | Friday 18 December | 7 | 30 |
 | Royal Mail Tracked 48 | Saturday 19 December | 6 | 31 |
-| 1st Class and 1st Class Signed For | Monday 21 December | 4 | 33 |
+| 1st Class and 1st Class Signed For | Saturday 19 December (release text also says Monday 21 December) | 6 | 31 |
 | Royal Mail Tracked 24 | Monday 21 December | 4 | 33 |
 | Parcelforce Worldwide express48 (Post Office) | Monday 21 December | 4 | 33 |
 | Parcelforce Worldwide express24 (Post Office) | Tuesday 22 December | 3 | 34 |
 | Special Delivery Guaranteed | Wednesday 23 December | 2 | 35 |
 
+Royal Mail's release of 27 October 2026 gives two dates for 1st Class and 1st Class Signed For. Its text says "The last recommended posting date for 1st Class mail is Monday 21 December", while its list of last recommended posting dates in the notes to editors puts 1st Class and 1st Class Signed For under Saturday 19 December, with Tracked 48. Royal Mail's website blocked our check, so we cannot say which is right: post by Saturday 19 December to be safe.
+
 Royal Mail dates and services are from its press release of 27 October 2026; the Parcelforce dates are from the Post Office's last posting dates page, which shows no update date. The day counts are our calculation: Christmas Day 2026 is Friday 25 December, according to GOV.UK, and the third column counts back from it.
 
 ## When is the last day to post Christmas cards in 2026?
 
-We have no separate card date from Royal Mail, so use the date for the service you pay for: Friday 18 December for 2nd Class or Monday 21 December for 1st Class.
+We have no separate card date from Royal Mail, so use the date for the service you pay for: Friday 18 December for 2nd Class or Saturday 19 December for 1st Class.
 
 Royal Mail advises writing the full address and full postcode on each item and paying the correct postage. More information is at royalmail.com/greetings.
 

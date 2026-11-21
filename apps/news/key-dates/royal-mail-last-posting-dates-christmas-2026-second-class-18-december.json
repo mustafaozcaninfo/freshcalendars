@@ -4,8 +4,12 @@
     "label": "Royal Mail last recommended posting date for 2nd Class"
   },
   {
+    "date": "2026-12-19",
+    "label": "Post 1st Class by this date to be safe (Royal Mail release text also says Dec. 21)"
+  },
+  {
     "date": "2026-12-21",
-    "label": "Royal Mail last recommended posting date for 1st Class and Tracked 24"
+    "label": "Royal Mail last recommended posting date for Tracked 24"
   },
   {
     "date": "2026-12-23",
