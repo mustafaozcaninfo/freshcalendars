@@ -3,7 +3,7 @@ title: "Printable NFL Schedule 2026-2027: All 272 Games, Free PDFs"
 description: "Printable NFL schedule 2026-2027 with all 272 games by week, ET kickoffs, TV and byes. A team finder and free PDFs for the season grid and every team."
 type: explainer
 publishedAt: "2026-10-23T02:50:00-04:00"
-updatedAt: "2026-11-13T15:12:00-05:00"
+updatedAt: "2026-11-21T02:09:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["printable NFL schedule 2026-2027 PDF", "NFL schedule 2026", "NFL 2026 week by week schedule", "NFL bye weeks 2026", "NFL team schedules 2026 printable"]
@@ -44,19 +44,19 @@ sources:
   - title: "2026 NFL schedule by week, Weeks 1 to 18"
     url: "https://www.nfl.com/schedules/2026/by-week/week-1"
     publisher: "NFL"
-    date: "2026-10-23"
+    date: "2026-11-21"
   - title: "2026 NFL schedule by week, Week 7"
     url: "https://www.nfl.com/schedules/2026/by-week/week-7"
     publisher: "NFL"
-    date: "2026-10-23"
+    date: "2026-11-21"
   - title: "2026 NFL schedule by week, Week 14"
     url: "https://www.nfl.com/schedules/2026/by-week/week-14"
     publisher: "NFL"
-    date: "2026-10-23"
+    date: "2026-11-21"
   - title: "2026 NFL schedule by week, Week 18"
     url: "https://www.nfl.com/schedules/2026/by-week/week-18"
     publisher: "NFL"
-    date: "2026-10-23"
+    date: "2026-11-21"
   - title: "2026 NFL schedule by team (32 team pages)"
     url: "https://www.nfl.com/schedules/2026/by-team/arizona-cardinals"
     publisher: "NFL"
@@ -76,6 +76,10 @@ sources:
   - title: "2026-27 National Football League important dates"
     url: "https://www.nfl.com/news/2026-27-national-football-league-important-dates"
     publisher: "NFL"
+  - title: "Week 12 schedule change"
+    url: "https://www.nfl.com/news/week-12-schedule-change"
+    publisher: "NFL"
+    date: "2026-11-17"
   - title: "Jacksonville Jaguars schedule"
     url: "https://www.jaguars.com/schedule/"
     publisher: "Jacksonville Jaguars"
@@ -538,19 +542,26 @@ draft: false
 
 **All 272 games of the 2026 National Football League (NFL) regular season are below, week by week, with kickoff times in Eastern Time (ET), TV channels and the teams on bye.** Pick your team to see its 17 games in your own time zone, or choose a printable: a one-page season grid, an 18-page weekly planner or a single team's schedule. No account or email is needed.
 
-We checked every game against both teams' schedule pages on NFL.com and the league's weekly pages on Oct. 23, 2026, and compared all 272 again with the 32 clubs' own schedule pages on Nov. 13. Times can still change, especially late in the season, so check NFL.com on game day.
+We checked every game against both teams' schedule pages on NFL.com and the league's weekly pages on Oct. 23, 2026, compared all 272 again with the 32 clubs' own schedule pages on Nov. 13, and checked every game against the 18 weekly NFL.com pages again on Nov. 21. Times can still change, especially late in the season, so check NFL.com on game day.
 
 ## Kickoff changes since the schedule was printed
 
-Three kickoffs have changed since the season PDFs were drawn. Two Week 11 games on Sunday, Nov. 22 have traded time slots, according to the schedule pages of the Jaguars, Giants, Steelers and Eagles; the third change, in Week 9, has already been played. The tables and the team finder on this page have the new times. The PDFs were drawn with the old ones, so write the change on a copy you already printed.
+Eight games have a new kickoff time or channel since the season PDFs were drawn. The NFL flexed three Week 12 games on Tuesday, Nov. 17, moving Raiders at Browns to Sunday Night Football. NFL.com's Week 11 page now lists two Sunday, Nov. 22 games on different networks, and two more Week 11 games traded time slots, according to the schedule pages of the Jaguars, Giants, Steelers and Eagles. The Week 9 change has already been played. The tables and the team finder on this page have the new times. The PDFs were drawn with the old ones, so write the change on a copy you already printed.
 
 | Game | Was | Now |
 |---|---|---|
 | Raiders at 49ers (Week 9, played) | Sun., Nov. 8, 4:05 p.m. ET, CBS | Sun., Nov. 8, 4:25 p.m. ET, FOX |
-| Jaguars at Giants (CBS) | Sun., Nov. 22, 1 p.m. ET | Sun., Nov. 22, 4:25 p.m. ET |
-| Steelers at Eagles (CBS) | Sun., Nov. 22, 4:25 p.m. ET | Sun., Nov. 22, 1 p.m. ET |
+| Jaguars at Giants (Week 11, CBS) | Sun., Nov. 22, 1 p.m. ET | Sun., Nov. 22, 4:25 p.m. ET |
+| Steelers at Eagles (Week 11, CBS) | Sun., Nov. 22, 4:25 p.m. ET | Sun., Nov. 22, 1 p.m. ET |
+| Dolphins at Bills (Week 11) | Sun., Nov. 22, 1 p.m. ET, FOX | Sun., Nov. 22, 1 p.m. ET, CBS |
+| Buccaneers at Lions (Week 11) | Sun., Nov. 22, 1 p.m. ET, CBS | Sun., Nov. 22, 1 p.m. ET, FOX |
+| Raiders at Browns (Week 12) | Sun., Nov. 29, 1 p.m. ET, FOX | Sun., Nov. 29, 8:20 p.m. ET, NBC |
+| Titans at Jaguars (Week 12) | Sun., Nov. 29, 4:05 p.m. ET, CBS | Sun., Nov. 29, 1 p.m. ET, FOX |
+| Patriots at Chargers (Week 12) | Sun., Nov. 29, 8:20 p.m. ET, NBC | Sun., Nov. 29, 4:05 p.m. ET, CBS |
 
-No other dated game has moved. The 24 games without a date (four in Week 16, four in Week 17 and all 16 in Week 18) are still not set.
+The NFL's Week 12 notice reads: "Flex scheduling is in effect for Week 12. The matchup between the Raiders and Browns in Cleveland will move to Sunday Night Football at 8:20 p.m. ET on NBC, while the Patriots' game against the Chargers in Los Angeles will move to 4:05 p.m. ET on CBS, and the Titans clash with the Jaguars in Jacksonville will move to 1 p.m. ET on FOX."
+
+No other dated game has moved as of Saturday, Nov. 21. The 24 games without a date (four in Week 16, four in Week 17 and all 16 in Week 18) are still listed as to be determined (TBD) on NFL.com.
 
 ## Find your team's schedule
 
@@ -626,7 +637,7 @@ Nine games are at neutral sites, all of them outside the United States: three in
 
 ## Thanksgiving, Christmas and the last three weeks
 
-Week 12 starts a day early. Packers at Rams is on Wednesday, Nov. 25, at 8 p.m. ET on Netflix. Thanksgiving Day has Bears at Lions at 1 p.m. on CBS, Eagles at Cowboys at 4:30 p.m. on FOX and Chiefs at Bills at 8:20 p.m. on NBC. Broncos at Steelers follows on Friday, Nov. 27, at 3 p.m. on Prime Video. Our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/) has the parade and the rest of the day.
+Week 12 starts a day early. Packers at Rams is on Wednesday, Nov. 25, at 8 p.m. ET on Netflix. Thanksgiving Day has Bears at Lions at 1 p.m. on CBS, Eagles at Cowboys at 4:30 p.m. on FOX and Chiefs at Bills at 8:20 p.m. on NBC. Broncos at Steelers follows on Friday, Nov. 27, at 3 p.m. on Prime Video. On Sunday, Nov. 29, the flexed Raiders at Browns game is the Sunday night game, at 8:20 p.m. on NBC. Our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/) has the parade and the rest of the day.
 
 Christmas falls on a Friday. Texans at Eagles opens Week 16 on Christmas Eve at 8:15 p.m. on Prime Video. On Christmas Day, Packers at Bears (1 p.m.) and Bills at Broncos (4:30 p.m.) are on Netflix, and Rams at Seahawks (8:15 p.m.) is on FOX. Week 15 has two Saturday games on Dec. 19: Seahawks at Eagles at 5 p.m. on FOX and Bears at Bills at 8:20 p.m. on CBS.
 
@@ -865,10 +876,10 @@ Times are Eastern Time. Games after Sunday, Nov. 1, are in Eastern Standard Time
 | Thu., Nov. 19 | 8:15 p.m. | Colts at Texans | Prime Video |
 | Sun., Nov. 22 | 1 p.m. | Cardinals at Chiefs | CBS |
 | Sun., Nov. 22 | 1 p.m. | Ravens at Panthers | FOX |
-| Sun., Nov. 22 | 1 p.m. | Dolphins at Bills | FOX |
+| Sun., Nov. 22 | 1 p.m. | Dolphins at Bills | CBS |
 | Sun., Nov. 22 | 1 p.m. | Saints at Bears | FOX |
 | Sun., Nov. 22 | 1 p.m. | Steelers at Eagles | CBS |
-| Sun., Nov. 22 | 1 p.m. | Buccaneers at Lions | CBS |
+| Sun., Nov. 22 | 1 p.m. | Buccaneers at Lions | FOX |
 | Sun., Nov. 22 | 1 p.m. | Titans at Cowboys | FOX |
 | Sun., Nov. 22 | 4:05 p.m. | Jets at Chargers | FOX |
 | Sun., Nov. 22 | 4:25 p.m. | Jaguars at Giants | CBS |
@@ -889,14 +900,14 @@ Times are Eastern Time. Games after Sunday, Nov. 1, are in Eastern Standard Time
 | Fri., Nov. 27 | 3 p.m. | Broncos at Steelers | Prime Video |
 | Sun., Nov. 29 | 1 p.m. | Falcons at Vikings | FOX |
 | Sun., Nov. 29 | 1 p.m. | Ravens at Texans | CBS |
-| Sun., Nov. 29 | 1 p.m. | Raiders at Browns | FOX |
 | Sun., Nov. 29 | 1 p.m. | Saints at Bengals | CBS |
 | Sun., Nov. 29 | 1 p.m. | Giants at Colts | FOX |
 | Sun., Nov. 29 | 1 p.m. | Jets at Dolphins | CBS |
-| Sun., Nov. 29 | 4:05 p.m. | Titans at Jaguars | CBS |
+| Sun., Nov. 29 | 1 p.m. | Titans at Jaguars | FOX |
+| Sun., Nov. 29 | 4:05 p.m. | Patriots at Chargers | CBS |
 | Sun., Nov. 29 | 4:25 p.m. | Seahawks at 49ers | FOX |
 | Sun., Nov. 29 | 4:25 p.m. | Commanders at Cardinals | FOX |
-| Sun., Nov. 29 | 8:20 p.m. | Patriots at Chargers | NBC |
+| Sun., Nov. 29 | 8:20 p.m. | Raiders at Browns | NBC |
 | Mon., Nov. 30 | 8:15 p.m. | Panthers at Buccaneers | ESPN, ESPN2 |
 
 **On bye:** no teams.

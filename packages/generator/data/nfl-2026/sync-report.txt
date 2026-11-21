@@ -1,27 +1,26 @@
-NFL schedule sync, 2026-11-13T20:12:10.208Z (written)
+NFL schedule sync, 2026-11-21T07:11:00.045Z (written)
 Sources: ESPN scoreboard feed (18 weeks, 272 games); club schedule pages (248 games confirmed by at least one club).
 
-Kickoff changes confirmed by a club site (2):
-  Week 11: Jacksonville Jaguars at New York Giants: Sun., Nov. 22 1:00 p.m. ET (CBS) -> Sun., Nov. 22 4:25 p.m. ET (CBS) [jaguars.com, ESPN]
-  Week 11: Pittsburgh Steelers at Philadelphia Eagles: Sun., Nov. 22 4:25 p.m. ET (CBS) -> Sun., Nov. 22 1:00 p.m. ET (CBS) [philadelphiaeagles.com, ESPN]
+Kickoff changes confirmed by a club site (3):
+  Week 12: Las Vegas Raiders at Cleveland Browns: Sun., Nov. 29 1:00 p.m. ET (FOX) -> Sun., Nov. 29 8:20 p.m. ET (NBC) [clevelandbrowns.com, ESPN]
+  Week 12: Tennessee Titans at Jacksonville Jaguars: Sun., Nov. 29 4:05 p.m. ET (CBS) -> Sun., Nov. 29 1:00 p.m. ET (FOX) [jaguars.com, ESPN]
+  Week 12: New England Patriots at Los Angeles Chargers: Sun., Nov. 29 8:20 p.m. ET (NBC / UNIVERSO) -> Sun., Nov. 29 4:05 p.m. ET (CBS) [chargers.com, ESPN]
 
-Final scores added (16):
-  Week 9: Jacksonville Jaguars at Baltimore Ravens: 33-10
-  Week 9: Cincinnati Bengals at Atlanta Falcons: 34-17
-  Week 9: Cleveland Browns at New Orleans Saints: 22-23
-  Week 9: Dallas Cowboys at Indianapolis Colts: 27-23
-  Week 9: Denver Broncos at Carolina Panthers: 26-21
-  Week 9: Detroit Lions at Miami Dolphins: 19-9
-  Week 9: Los Angeles Rams at Washington Commanders: 20-13
-  Week 9: New York Giants at Philadelphia Eagles: 19-11
-  Week 9: New York Jets at Kansas City Chiefs: 12-35
-  Week 9: Houston Texans at Los Angeles Chargers: 44-22
-  Week 9: Las Vegas Raiders at San Francisco 49ers: 17-38
-  Week 9: Arizona Cardinals at Seattle Seahawks: 3-17
-  Week 9: Green Bay Packers at New England Patriots: 45-27
-  Week 9: Tampa Bay Buccaneers at Chicago Bears: 24-27
-  Week 9: Buffalo Bills at Minnesota Vikings: 23-6
-  Week 10: Washington Commanders at New York Giants: 24-21
+Final scores added (14):
+  Week 10: New England Patriots at Detroit Lions: 10-35
+  Week 10: Buffalo Bills at New York Jets: 31-12
+  Week 10: Carolina Panthers at New Orleans Saints: 20-17
+  Week 10: Houston Texans at Cleveland Browns: 24-27
+  Week 10: Jacksonville Jaguars at Tennessee Titans: 40-23
+  Week 10: Kansas City Chiefs at Atlanta Falcons: 35-13
+  Week 10: Miami Dolphins at Indianapolis Colts: 22-24
+  Week 10: Minnesota Vikings at Green Bay Packers: 30-10
+  Week 10: Los Angeles Rams at Arizona Cardinals: 34-6
+  Week 10: Seattle Seahawks at Las Vegas Raiders: 21-13
+  Week 10: San Francisco 49ers at Dallas Cowboys: 46-40
+  Week 10: Pittsburgh Steelers at Cincinnati Bengals: 18-38
+  Week 10: Los Angeles Chargers at Baltimore Ravens: 23-20
+  Week 11: Indianapolis Colts at Houston Texans: 3-26
 
 Differences not applied (3):
   Week 9: Detroit Lions at Miami Dolphins: network CSV FOX, ESPN CBS; not applied
