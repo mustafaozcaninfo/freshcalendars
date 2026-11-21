@@ -1,9 +1,9 @@
 ---
-title: "Macy's Santaland 2026: Free Reservations Open Friday, Nov. 20"
-description: "Macy's free Santaland reservations open Friday, Nov. 20 and release 7 days ahead. A date-by-date booking calendar to Dec. 24 and a printable."
+title: "Macy's Santaland 2026: Free Reservations Opened Friday, Nov. 20"
+description: "Macy's free Santaland reservations opened Friday, Nov. 20 and release 7 days ahead. A date-by-date booking calendar to Dec. 24 and a printable."
 type: news
 publishedAt: "2026-11-16T06:44:00-05:00"
-updatedAt: "2026-11-16T06:44:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["macys santaland 2026", "macy's santaland reservations 2026", "santaland reservations", "macy's santa 2026 herald square"]
@@ -19,8 +19,8 @@ hero:
     author: "Phil Whitehouse from London, United Kingdom"
     authorUrl: "https://www.flickr.com/people/19451080@N00"
 summary:
-  - "Macy's says free Santaland reservations at Herald Square become available beginning Friday, Nov. 20, 2026, released seven days before each visit date."
-  - "By our arithmetic from that rule, the first bookable visit date is Friday, Nov. 27, the day after Thanksgiving, and Dec. 24 opens on Dec. 17."
+  - "Macy's says free Santaland reservations at Herald Square became available beginning Friday, Nov. 20, 2026, released seven days before each visit date."
+  - "By our arithmetic from that rule, the first bookable visit date was Friday, Nov. 27, the day after Thanksgiving; dates through Saturday, Nov. 28 are bookable now, and Dec. 24 opens on Dec. 17."
   - "Macy's is adding sensory-friendly hours developed with the Child Mind Institute and a premium experience for up to eight guests; neither date nor price is in the release."
   - "Macy's did not post the last day of the season in its release; the booking page, macys.com/santa, returned an error to our automated read."
 faq:
@@ -61,7 +61,7 @@ assets:
   overlay: true
   kicker: "Macy's Santaland, New York, 2026"
   date: "2026-11-20"
-  card: { top: "Free Santaland reservations open", big: "Fri., Nov. 20", bottom: "Each visit date opens 7 days ahead" }
+  card: { top: "Free Santaland reservations opened", big: "Fri., Nov. 20", bottom: "Each visit date opens 7 days ahead" }
   printable:
     noKit: "Macy's gives one rolling seven-day rule, not a dated list; the open dates are our arithmetic, so no source quote can carry each date"
     slug: macys-santaland-2026-booking-calendar
@@ -73,7 +73,7 @@ assets:
     description: "A one-page list of when each Santaland visit date from Nov. 27 to Dec. 24, 2026 opens for free reservations, with a Done column."
     alt: "Printable Macy's Santaland 2026 booking calendar."
     rows:
-      - ["Fri., Nov. 20", "Book for Fri., Nov. 27"]
+      - ["Fri., Nov. 20", "Opened for Fri., Nov. 27"]
       - ["Sat., Nov. 21", "Book for Sat., Nov. 28"]
       - ["Sun., Nov. 22", "Book for Sun., Nov. 29"]
       - ["Mon., Nov. 23", "Book for Mon., Nov. 30"]
@@ -103,7 +103,7 @@ assets:
       - ["Thu., Dec. 17", "Book for Thu., Dec. 24"]
 ---
 
-**Macy's says free Santaland reservations at Herald Square become available beginning Friday, Nov. 20, 2026**, and are "released seven days before each visit date on a rolling basis," according to the Macy's, Inc. release of Oct. 22, 2026. By our arithmetic from that rule, the first bookable visit date is Friday, Nov. 27, and the calendar below lists when each date opens through Dec. 24. A printable keeps it on one page.
+**Macy's says free Santaland reservations at Herald Square became available beginning Friday, Nov. 20, 2026**, and are "released seven days before each visit date on a rolling basis," according to the Macy's, Inc. release of Oct. 22, 2026. By our arithmetic from that rule, the first bookable visit date was Friday, Nov. 27, so dates through Saturday, Nov. 28 are bookable now, and the calendar below lists when each date opens through Dec. 24. A printable keeps it on one page.
 
 ## Macy's Santaland 2026: what the release says
 
@@ -113,16 +113,16 @@ Booking happens on macys.com/santa, the page Macy's names for booking details an
 
 ## How does the rolling release work?
 
-Macy's gives one rule: reservations are free, start Friday, Nov. 20 and open seven days before each visit date. Take the visit date and subtract seven days. For a visit on Sat., Dec. 19, booking opens on Sat., Dec. 12. The same weekday always opens a week ahead.
+Macy's gives one rule: reservations are free, started Friday, Nov. 20 and open seven days before each visit date. Take the visit date and subtract seven days. For a visit on Sat., Dec. 19, booking opens on Sat., Dec. 12. The same weekday always opens a week ahead.
 
-Nov. 20 plus seven days is Fri., Nov. 27, the day after Thanksgiving (Thu., Nov. 26). That makes it the earliest date the rule lets you book. Macy's did not state an opening day in the release, and it did not post a last day of the season, so the calendar stops at Thu., Dec. 24. Check macys.com/santa for the final date.
+Nov. 20 plus seven days is Fri., Nov. 27, the day after Thanksgiving (Thu., Nov. 26). That made it the earliest date the rule let you book. Macy's did not state an opening day in the release, and it did not post a last day of the season, so the calendar stops at Thu., Dec. 24. Check macys.com/santa for the final date.
 
 ## Santaland booking calendar: when each visit date opens
 
 | Visit date | Weekday | Reservations open |
 |---|---|---|
-| Nov. 27 | Fri. | Fri., Nov. 20 |
-| Nov. 28 | Sat. | Sat., Nov. 21 |
+| Nov. 27 | Fri. | Fri., Nov. 20 (opened) |
+| Nov. 28 | Sat. | Sat., Nov. 21 (today) |
 | Nov. 29 | Sun. | Sun., Nov. 22 |
 | Nov. 30 | Mon. | Mon., Nov. 23 |
 | Dec. 1 | Tue. | Tue., Nov. 24 |

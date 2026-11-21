@@ -1,8 +1,9 @@
 ---
 title: "Six Flags Holiday in the Park 2026: Opening Dates at 11 Parks"
-description: "Six Flags holiday events open Nov. 20-27, 2026 at 11 parks. First and last dates, weekdays and day counts for each park, plus a printable opening sheet."
+description: "Six Flags holiday events opened or open Nov. 20-27, 2026 at 11 parks. First and last dates, weekdays and day counts per park, plus a printable opening sheet."
 type: news
 publishedAt: "2026-11-15T11:10:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["six flags holiday in the park 2026", "six flags winterfest 2026 dates", "kings island winterfest 2026", "holiday in the park 2026 dates", "knott's merry farm 2026"]
@@ -18,17 +19,17 @@ hero:
     author: "Fritzmann2002"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Fritzmann2002"
 summary:
-  - "Six Flags Entertainment Corporation lists 11 parks with holiday events in 2026, and Knott's Berry Farm opens first on Friday, Nov. 20."
-  - "Great Adventure and Six Flags Over Georgia are new to Holiday in the Park and open Saturday, Nov. 21, 2026."
+  - "Six Flags Entertainment Corporation lists 11 parks with holiday events in 2026, and Knott's Berry Farm opened first on Friday, Nov. 20."
+  - "Great Adventure and Six Flags Over Georgia are new to Holiday in the Park and open today, Saturday, Nov. 21, 2026."
   - "Six of the 11 parks open before Thanksgiving; two open on Thanksgiving Day, Nov. 26, and Kings Island, Carowinds and Discovery Kingdom open Friday, Nov. 27."
   - "Most parks run to Sunday, Jan. 3, 2027; Kings Island ends Dec. 31 and Six Flags México runs to Jan. 17."
 faq:
   - q: "When does Holiday in the Park start at Six Flags Great Adventure in 2026?"
-    a: "Saturday, Nov. 21, 2026, on select dates through Sunday, Jan. 3, 2027, according to Six Flags. The park's page also lists a Nov. 20 preview exclusively for Season Passholders. It is the park's first Holiday in the Park."
+    a: "Today, Saturday, Nov. 21, 2026, on select dates through Sunday, Jan. 3, 2027, according to Six Flags. The park's page also listed a Nov. 20 preview exclusively for Season Passholders. It is the park's first Holiday in the Park."
   - q: "When does Kings Island WinterFest 2026 start and end?"
     a: "Friday, Nov. 27, 2026 to Thursday, Dec. 31, 2026, on select dates, according to Six Flags. In 2025 the dates were Nov. 28 to Dec. 31."
   - q: "Which Six Flags park opens its holiday event first in 2026?"
-    a: "Knott's Berry Farm in Buena Park, California, opens Knott's Merry Farm on Friday, Nov. 20, 2026, on select days, according to Six Flags."
+    a: "Knott's Berry Farm in Buena Park, California, opened Knott's Merry Farm on Friday, Nov. 20, 2026, on select days, according to Six Flags."
   - q: "What hours do the holiday events keep?"
     a: "Six Flags lists the events as select dates and publishes no hours in its release. Hours are on each park's calendar, linked in the table."
   - q: "Is there a Black Friday offer for the 2026 holiday events?"
@@ -92,7 +93,7 @@ assets:
   overlay: true
   kicker: "Six Flags holiday events · 2026"
   date: "2026-11-20"
-  card: { top: "First park opens", big: "Nov. 20", bottom: "Knott's Merry Farm" }
+  card: { top: "First park opened", big: "Nov. 20", bottom: "Knott's Merry Farm" }
   printable:
     kit: release-tracker
     slug: six-flags-holiday-2026-opening-dates
@@ -120,7 +121,7 @@ assets:
         - { label: "Opening-night hours", why: "Six Flags lists select dates and no hours; hours are on each park's calendar" }
 ---
 
-**Six Flags Entertainment Corporation lists holiday events at 11 parks in 2026, and the first to open is Knott's Merry Farm at Knott's Berry Farm on Friday, Nov. 20**, according to the company's Nov. 4, 2026 release. Most others open Saturday, Nov. 21, and Kings Island, Carowinds and Discovery Kingdom open Friday, Nov. 27. The table gives the first and last date of each park with its weekday and the number of calendar days in the span, and a printable sheet lists every opening date.
+**Six Flags Entertainment Corporation lists holiday events at 11 parks in 2026, and the first to open was Knott's Merry Farm at Knott's Berry Farm on Friday, Nov. 20**, according to the company's Nov. 4, 2026 release. Most others open today, Saturday, Nov. 21, and Kings Island, Carowinds and Discovery Kingdom open Friday, Nov. 27. The table gives the first and last date of each park with its weekday and the number of calendar days in the span, and a printable sheet lists every opening date.
 
 ## Six Flags holiday event dates by park
 
@@ -144,11 +145,11 @@ Thanksgiving is Thursday, Nov. 26, 2026 (see [when is Thanksgiving](/when-is/tha
 
 ## Which parks open the weekend of Nov. 20-22?
 
-Six parks open between Friday, Nov. 20 and Sunday, Nov. 22. Knott's Berry Farm opens Friday, Nov. 20. Great Adventure, Over Georgia, Fiesta Texas and Canada's Wonderland open Saturday, Nov. 21, and Over Texas opens Sunday, Nov. 22. Great Adventure's park page also lists Nov. 20 as a preview exclusively for Season Passholders; the public opening is Nov. 21.
+Six parks open between Friday, Nov. 20 and Sunday, Nov. 22. Knott's Berry Farm opened Friday, Nov. 20. Great Adventure, Over Georgia, Fiesta Texas and Canada's Wonderland open today, Saturday, Nov. 21, and Over Texas opens Sunday, Nov. 22. Great Adventure's park page also listed Nov. 20 as a preview exclusively for Season Passholders; the public opening is today, Nov. 21.
 
 ## Which parks open on Thanksgiving and Black Friday?
 
-Magic Mountain and Six Flags México open on Thanksgiving Day, Nov. 26. Kings Island, Carowinds and Discovery Kingdom open Friday, Nov. 27. In 2025, Six Flags' Nov. 13, 2025 release listed Kings Island and Carowinds opening Nov. 28, so both open one day earlier this year. Knott's Merry Farm opened Nov. 21 in 2025 and opens Nov. 20 in 2026, also one day earlier.
+Magic Mountain and Six Flags México open on Thanksgiving Day, Nov. 26. Kings Island, Carowinds and Discovery Kingdom open Friday, Nov. 27. In 2025, Six Flags' Nov. 13, 2025 release listed Kings Island and Carowinds opening Nov. 28, so both open one day earlier this year. Knott's Merry Farm opened Nov. 21 in 2025 and opened Nov. 20 in 2026, also one day earlier.
 
 ## What is new at Six Flags holiday events in 2026?
 

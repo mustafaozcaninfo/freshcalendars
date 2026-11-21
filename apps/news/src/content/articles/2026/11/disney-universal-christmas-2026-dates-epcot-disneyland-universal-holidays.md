@@ -3,7 +3,7 @@ title: "EPCOT Festival of the Holidays 2026: Nov. 27 to Dec. 30, 34 Days"
 description: "Experimental Prototype Community of Tomorrow (EPCOT) holds its Festival of the Holidays Nov. 27 to Dec. 30, 2026. Table of Disneyland and Universal dates."
 type: news
 publishedAt: "2026-11-05T23:25:00-05:00"
-updatedAt: "2026-11-14T15:32:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [jessica-hartwell]
 dateline: "Orlando"
 category: entertainment
@@ -22,15 +22,15 @@ hero:
 summary:
   - "The EPCOT International Festival of the Holidays returns Friday, Nov. 27 to Wednesday, Dec. 30, 2026, 34 days, according to Disney Parks Blog."
   - "The Walt Disney World holiday season began Nov. 13, 2026 and runs to Jan. 6, 2027, and the Disneyland Resort season has the same dates."
-  - "Universal Orlando lists its holidays from Nov. 14, 2026 to Jan. 3, 2027, with Christmas in The Wizarding World of Harry Potter at three theme parks."
+  - "Universal Orlando's holidays began Nov. 14, 2026 and run to Jan. 3, 2027, with Christmas in The Wizarding World of Harry Potter at three theme parks."
   - "From Saturday, Nov. 14 to Sunday, Jan. 3, all three resorts run holiday programs at once, 51 days. The EPCOT Candlelight Processional narrators are set."
 faq:
   - q: "When does the EPCOT Festival of the Holidays start in 2026?"
     a: "Friday, Nov. 27, 2026, and it runs through Wednesday, Dec. 30, according to Disney Parks Blog."
   - q: "When do the holidays start at Disneyland in 2026?"
-    a: "Friday, Nov. 13, 2026, with the holiday season running through Wednesday, Jan. 6, 2027, according to Disney Parks Blog."
+    a: "The Disneyland Resort holidays began Friday, Nov. 13, 2026, with the holiday season running through Wednesday, Jan. 6, 2027, according to Disney Parks Blog."
   - q: "When do the holidays start at Universal Orlando in 2026?"
-    a: "Saturday, Nov. 14, 2026, through Sunday, Jan. 3, 2027, according to Universal Orlando."
+    a: "The holidays began Saturday, Nov. 14, 2026, and run through Sunday, Jan. 3, 2027, according to Universal Orlando."
   - q: "Who narrates the EPCOT Candlelight Processional in 2026?"
     a: "Disney Parks Blog lists a narrator for every date from Jordan Fisher on Nov. 27 and 28 to Eva Longoria on Dec. 28 to 30. Performances are nightly at 4:45 p.m., 6:30 p.m. and 8:00 p.m. EST."
 downloads:
@@ -121,18 +121,18 @@ assets:
     alt: "Printable list of Disney and Universal holiday event dates for 2026, from Nov. 7 to Jan. 6, 2027"
 ---
 
-**The EPCOT International Festival of the Holidays presented by AdventHealth runs Friday, Nov. 27 to Wednesday, Dec. 30, 2026, according to the Disney Parks Blog.** That is 34 days. Disneyland Resort's holiday season began Friday, Nov. 13, and Universal Orlando's holidays start Saturday, Nov. 14. The table below puts every park's dates side by side with how long each runs and which events need a separate ticket, and a printable list carries every start and end date.
+**The EPCOT International Festival of the Holidays presented by AdventHealth runs Friday, Nov. 27 to Wednesday, Dec. 30, 2026, according to the Disney Parks Blog.** That is 34 days. Disneyland Resort's holiday season began Friday, Nov. 13, and Universal Orlando's holidays began Saturday, Nov. 14. The table below puts every park's dates side by side with how long each runs and which events need a separate ticket, and a printable list carries every start and end date.
 
 ## Disney and Universal holiday dates for 2026
 
 | Event | Where | Start | End | Days | Separate ticket |
 |---|---|---|---|---|---|
-| Walt Disney World holiday season | Walt Disney World | Fri., Nov. 13 | Wed., Jan. 6, 2027 | 55 | Not stated |
-| Disneyland Resort holidays | Disneyland Resort | Fri., Nov. 13 | Wed., Jan. 6, 2027 | 55 | Not stated |
-| Disney Festival of Holidays | Disney California Adventure | Fri., Nov. 13 | Wed., Jan. 6, 2027 | 55 | Not stated |
-| Universal Orlando holidays | Universal Orlando | Sat., Nov. 14 | Sun., Jan. 3, 2027 | 51 | Not stated |
-| EPCOT International Festival of the Holidays | EPCOT | Fri., Nov. 27 | Wed., Dec. 30 | 34 | Not stated |
-| Guardians of the Galaxy: Cosmic Rewind holiday tracks | EPCOT | Wed., Nov. 25 | Wed., Jan. 6, 2027 | 43 | Not stated |
+| Walt Disney World holiday season | Walt Disney World | Fri., Nov. 13 | Wed., Jan. 6, 2027 | 55 | Not given |
+| Disneyland Resort holidays | Disneyland Resort | Fri., Nov. 13 | Wed., Jan. 6, 2027 | 55 | Not given |
+| Disney Festival of Holidays | Disney California Adventure | Fri., Nov. 13 | Wed., Jan. 6, 2027 | 55 | Not given |
+| Universal Orlando holidays | Universal Orlando | Sat., Nov. 14 | Sun., Jan. 3, 2027 | 51 | Not given |
+| EPCOT International Festival of the Holidays | EPCOT | Fri., Nov. 27 | Wed., Dec. 30 | 34 | Not given |
+| Guardians of the Galaxy: Cosmic Rewind holiday tracks | EPCOT | Wed., Nov. 25 | Wed., Jan. 6, 2027 | 43 | Not given |
 | Disney Jollywood Nights | Hollywood Studios | Sat., Nov. 7 | Tue., Jan. 5, 2027 | 60 span, select nights | Yes |
 | Mickey's Very Merry Christmas Party | Magic Kingdom | Sun., Nov. 8 | Tue., Dec. 22 | 45 span, select nights | Yes |
 | Grinch & Friends Character Breakfast | Universal Orlando | Sat., Nov. 14 | Sun., Jan. 3, 2027 | 51 span, select dates | Islands of Adventure admission |
@@ -176,7 +176,7 @@ The Disney Parks Blog foodie guide of Nov. 4, 2026 says Disneyland Resort is "br
 
 ## What are the Universal Orlando holiday dates?
 
-Universal Orlando lists its holidays from Nov. 14, 2026 to Jan. 3, 2027. Its holiday page names Christmas in The Wizarding World of Harry Potter across three theme parks, and an optional reserved viewing area for the Universal Holiday Parade featuring Macy's. Parade and show dates and times were not on the pages we read.
+Universal Orlando lists its holidays from Nov. 14, 2026 to Jan. 3, 2027, and they have begun. Its holiday page names Christmas in The Wizarding World of Harry Potter across three theme parks, and an optional reserved viewing area for the Universal Holiday Parade featuring Macy's. Parade and show dates and times were not on the pages we read.
 
 Two other events have their own windows. The Grinch & Friends Character Breakfast runs on select dates from Nov. 14, 2026 to Jan. 3, 2027 and needs separate Islands of Adventure admission. The Universal Holiday Tour, a guided daytime tour, runs on select dates from Nov. 14, 2026 to Jan. 2, 2027, with reservations required and separate park admission. We found no price for the tour.
 
