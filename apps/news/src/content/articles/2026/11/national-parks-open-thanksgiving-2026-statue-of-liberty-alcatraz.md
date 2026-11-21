@@ -117,7 +117,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [national-parks-free-days-october-27-veterans-day-2026, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, thanksgiving-travel-2026-best-days-to-fly-and-drive]
+related: [alcatraz-sunrise-ceremony-thanksgiving-2026-boat-times-tickets, national-parks-free-days-october-27-veterans-day-2026, whats-open-thanksgiving-2026-grocery-stores-walmart-costco]
 downloads:
   - group: "National Parks Open or Closed printables"
     title: "National Parks Open or Closed, Thanksgiving 2026"

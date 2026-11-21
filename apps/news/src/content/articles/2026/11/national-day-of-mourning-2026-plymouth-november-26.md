@@ -83,7 +83,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [why-thanksgiving-2026-is-november-26, native-american-heritage-day-2026-friday-november-27-heritage-month, thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv]
+related: [alcatraz-sunrise-ceremony-thanksgiving-2026-boat-times-tickets, why-thanksgiving-2026-is-november-26, native-american-heritage-day-2026-friday-november-27-heritage-month]
 downloads:
   - group: "National Day of Mourning 2026 Watch Guide printables"
     title: "National Day of Mourning 2026 Watch Guide, Nov. 26"
