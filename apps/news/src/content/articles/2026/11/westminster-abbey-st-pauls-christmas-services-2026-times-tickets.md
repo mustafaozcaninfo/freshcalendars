@@ -11,7 +11,7 @@ hero:
   src: ../../../../assets/news/westminster-abbey-st-pauls-christmas-services-2026-times-tickets/westminster-abbey-st-pauls-christmas-services-2026-times-tickets.webp
   alt: "St Paul's Cathedral west front at night with its lit Christmas tree, a file photo for London Christmas services 2026"
   caption: "File photo, 2020: the west front of St Paul's Cathedral, London, with its lit Christmas tree."
-  credit: "Photo: Alex Liivet from Chester, United Kingdom / Wikimedia Commons, cropped"
+  credit: "Photo: Alex Liivet from Chester, United Kingdom / Wikimedia Commons, cropped, edited"
   license:
     name: "CC0"
     url: "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
@@ -65,6 +65,23 @@ sources:
     url: "https://www.westminster-abbey.org/worship-music/watch-services?id=19041"
     publisher: "Westminster Abbey"
     date: "2026-11-20"
+downloads:
+  - group: "London Cathedral Christmas Services 2026 printables"
+    title: "London Cathedral Christmas Services 2026"
+    description: "A two-page list of Christmas 2026 services at St Paul's and Southwark Cathedral plus the Abbey Midnight Mass, with GMT, ET and PT times and each ticket rule."
+    preview: ../../../../assets/news/london-christmas-services-2026/london-cathedral-christmas-services-2026.png
+    alt: "Printable list of Christmas 2026 services at three London cathedrals with times in GMT, ET and PT and ticket rules"
+    pdf: "/news/downloads/london-christmas-services-2026/london-cathedral-christmas-services-2026.pdf"
+    png: "/news/downloads/london-christmas-services-2026/london-cathedral-christmas-services-2026.png"
+    pages: 2
+  - group: "London Cathedral Christmas Services 2026 printables"
+    title: "London Cathedral Christmas Services 2026 (A4)"
+    description: "A two-page list of Christmas 2026 services at St Paul's and Southwark Cathedral plus the Abbey Midnight Mass, with GMT, ET and PT times and each ticket rule. A4 paper."
+    preview: ../../../../assets/news/london-christmas-services-2026/london-cathedral-christmas-services-2026-a4.png
+    alt: "Printable list of Christmas 2026 services at three London cathedrals with times in GMT, ET and PT and ticket rules, A4"
+    pdf: "/news/downloads/london-christmas-services-2026/london-cathedral-christmas-services-2026-a4.pdf"
+    png: "/news/downloads/london-christmas-services-2026/london-cathedral-christmas-services-2026-a4.png"
+    pages: 2
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -84,8 +101,8 @@ assets:
     title: "London Cathedral Christmas Services 2026"
     subtitle: "Westminster Abbey, St Paul's and Southwark Cathedral: times in GMT, ET and PT"
     landscape: true
-    note: "Source: Westminster Abbey, St Paul's Cathedral and Southwark Cathedral Advent and Christmas pages, read Nov. 20, 2026. London is on GMT in December; ET and PT are converted. Ticket rule is in each row's detail."
-    description: "A one-page list of Christmas 2026 services at Westminster Abbey, St Paul's and Southwark Cathedral with GMT, ET and PT times and each ticket rule."
+    note: "Source: Westminster Abbey, St Paul's Cathedral and Southwark Cathedral Advent and Christmas pages, read Nov. 20, 2026. London is on GMT in December; ET and PT are converted. Ticket rule is in each row's detail. Westminster Abbey Midnight Mass is 11 p.m. GMT on Thu., Dec. 24 (6 p.m. ET, 3 p.m. PT), free, booking required; its other services are in the story."
+    description: "A two-page list of Christmas 2026 services at St Paul's and Southwark Cathedral plus the Abbey Midnight Mass, with GMT, ET and PT times and each ticket rule."
     alt: "Printable list of Christmas 2026 services at three London cathedrals with times in GMT, ET and PT and ticket rules"
     data:
       pick: "Going"
@@ -110,21 +127,21 @@ assets:
           detail: "Ballot, free but ticketed"
           airing: live
           src: 2
-          quote: ["Sat 19 December 2026", "11:00am-12:00pm"]
+          quote: ["Sat, Dec 19, 2026", "11:00am - 12:00pm"]
         - start: "2026-12-23T16:00+00:00"
           tz: "Europe/London"
           title: "St Paul's: Christmas Carol Service"
           detail: "Ballot, free but ticketed"
           airing: live
           src: 3
-          quote: ["Wed 23 December 2026", "4:00pm-5:00pm"]
+          quote: ["Wed, Dec 23, 2026", "4:00pm to 5:00pm"]
         - start: "2026-12-24T16:00+00:00"
           tz: "Europe/London"
           title: "St Paul's: Christmas Carol Service"
           detail: "Ballot, free but ticketed"
           airing: live
           src: 4
-          quote: ["Thu 24 December 2026", "4:00pm-5:00pm"]
+          quote: ["Thu, Dec 24, 2026", "4:00pm to 5:00pm"]
         - start: "2026-12-24T16:00+00:00"
           tz: "Europe/London"
           title: "Southwark: Crib Service"
@@ -139,20 +156,6 @@ assets:
           airing: live
           src: 7
           quote: ["24 December: The First Mass at Christmas", "22:00-23:30"]
-        - start: "2026-12-24T23:00+00:00"
-          tz: "Europe/London"
-          title: "Westminster Abbey: Midnight Mass"
-          detail: "Booking required"
-          airing: live
-          src: 1
-          quote: ["Thursday 24 December 2026", "11.00pm-12.30am"]
-        - start: "2026-12-25T08:00+00:00"
-          tz: "Europe/London"
-          title: "Westminster Abbey: Holy Communion"
-          detail: "No booking"
-          airing: live
-          src: 1
-          quote: ["Friday 25 December 2026", "8.00am-8.40am"]
         - start: "2026-12-25T09:00+00:00"
           tz: "Europe/London"
           title: "Southwark: Christmas Eucharist with Carols"
@@ -160,13 +163,6 @@ assets:
           airing: live
           src: 7
           quote: ["25 December: Christmas Eucharist with Carols", "09:00-10:00"]
-        - start: "2026-12-25T10:30+00:00"
-          tz: "Europe/London"
-          title: "Westminster Abbey: Sung Eucharist"
-          detail: "Booking required"
-          airing: live
-          src: 1
-          quote: ["Friday 25 December 2026", "10.30am-11.30am"]
         - start: "2026-12-25T11:00+00:00"
           tz: "Europe/London"
           title: "Southwark: Choral Eucharist"
@@ -176,24 +172,17 @@ assets:
           quote: ["25 December: Choral Eucharist for Christmas Day", "11:00-12:30"]
         - start: "2026-12-25T15:00+00:00"
           tz: "Europe/London"
-          title: "Westminster Abbey: Evensong"
-          detail: "No booking"
-          airing: live
-          src: 1
-          quote: ["Friday 25 December 2026", "3.00pm-4.00pm"]
-        - start: "2026-12-25T15:00+00:00"
-          tz: "Europe/London"
           title: "St Paul's: Festal Evensong"
           detail: "Free and unticketed"
           airing: live
           src: 5
-          quote: ["Friday 25 December 2026", "3:00pm-4:00pm"]
+          quote: ["Friday, 25 December 2026", "3:00pm to 4:00pm"]
       unconfirmed:
         - { label: "St Paul's Christmas Eve midnight service and Christmas Day morning Eucharist", why: "Times not on the pages read on Nov. 20, 2026" }
         - { label: "Westminster Cathedral Christmas Mass times", why: "2026 timetable not posted on Nov. 20, 2026" }
 ---
 
-**Westminster Abbey's First Eucharist of Christmas (Midnight Mass) is on Thursday 24 December 2026 from 11.00pm to 12.30am, free but with booking required, the Abbey says.** London is on Greenwich Mean Time (GMT) in December, so that is 6 p.m. Eastern Time (ET) and 3 p.m. Pacific Time (PT). The table lists every Christmas service the Abbey, St Paul's Cathedral and Southwark Cathedral have published, with the ticket rule for each, and a printable keeps them on one page.
+**Westminster Abbey's First Eucharist of Christmas (Midnight Mass) is on Thursday 24 December 2026 from 11.00pm to 12.30am, free but with booking required, the Abbey says.** London is on Greenwich Mean Time (GMT) in December, so that is 6 p.m. Eastern Time (ET) and 3 p.m. Pacific Time (PT). The table lists every Christmas service the Abbey, St Paul's Cathedral and Southwark Cathedral have published, with the ticket rule for each, and a printable keeps most of them together.
 
 ## Westminster Abbey, St Paul's and Southwark Cathedral Christmas services 2026
 
@@ -254,7 +243,7 @@ St Paul's cathedral planned-closures document lists these changes for sightseein
 | Sat., Dec. 26 | Opens 09.00 |
 | Fri., Jan. 1, 2027 | Opens 09.00 |
 
-We found no Christmas sightseeing closures for Westminster Abbey on an official page, so none are stated here.
+We found no Christmas sightseeing closures for Westminster Abbey on an official page, so none are listed here.
 
 ## What about Westminster Cathedral?
 
@@ -262,4 +251,4 @@ Westminster Cathedral, the Catholic cathedral, had not published its 2026 Christ
 
 ## Printable: London Christmas services 2026
 
-The one-page list sorts the carol services and Christmas Eve and Day services by date, with GMT, ET and PT times, each ticket rule and a column to mark the ones you plan to attend.
+The printable sorts the St Paul's and Southwark carol and Christmas services by date, with GMT, ET and PT times, each ticket rule and a column to mark the ones you plan to attend. It carries the Abbey's Midnight Mass in its note; the Abbey's other times stay in the table above.

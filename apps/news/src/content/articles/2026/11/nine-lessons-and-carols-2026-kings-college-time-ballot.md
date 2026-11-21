@@ -70,7 +70,7 @@ internalLinks:
     label: "When is Christmas Eve?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [kings-christmas-message-2026-time-uk-us-canada-australia, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28]
+related: [kings-christmas-message-2026-time-uk-us-canada-australia, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28, westminster-abbey-st-pauls-christmas-services-2026-times-tickets]
 draft: false
 assets:
   overlay: true
