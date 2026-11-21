@@ -1,9 +1,9 @@
 ---
 title: "New on Apple TV November 2026: Every Release Date and Episode"
-description: "Apple TV Press dates 12 12 12 and Being Heumann for Nov. 13 and Way of the Warrior Kid for Nov. 25. Weekly episode dates to each finale, plus a printable."
+description: "Apple TV Press dated 12 12 12 and Being Heumann for Nov. 13 and Way of the Warrior Kid for Nov. 25. Weekly episode dates to each finale, plus a printable."
 type: news
 publishedAt: "2026-10-28T01:42:00-04:00"
-updatedAt: "2026-11-14T15:07:00-05:00"
+updatedAt: "2026-11-21T15:47:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Apple TV November 2026", "Apple TV November 2026 schedule", "Stick season 2 release date", "12 12 12 Apple TV release date"]
@@ -28,7 +28,7 @@ assets:
       - ["Fri., Nov. 13", "Being Heumann (film) on Apple TV"]
       - ["Fri., Nov. 13", "Snoopy Presents: 12 Days of Snoopy"]
       - ["Fri., Nov. 13", "Nocturne: episode 4"]
-      - ["Sat., Nov. 14 to Sun., Nov. 15", "A Charlie Brown Thanksgiving streams free"]
+      - ["Sat., Nov. 14 to Sun., Nov. 15", "A Charlie Brown Thanksgiving streamed free"]
       - ["Wed., Nov. 18", "Stick: episode 4"]
       - ["Fri., Nov. 20", "12 12 12: episode 3"]
       - ["Fri., Nov. 20", "Nocturne: episode 5"]
@@ -42,7 +42,7 @@ assets:
 hero:
   src: ../../../../assets/news/new-on-apple-tv-november-2026-release-dates/new-on-apple-tv-november-2026-release-dates.webp
   alt: "New on Apple TV November 2026: an Apple TV 4K streaming box and its silver remote on a wooden table"
-  caption: "An Apple TV 4K box and remote. Apple TV Press dates 12 12 12 and Being Heumann for Fri., Nov. 13, 2026, and Way of the Warrior Kid for Wed., Nov. 25."
+  caption: "An Apple TV 4K box and remote. Apple TV Press dated 12 12 12 and Being Heumann for Fri., Nov. 13, 2026, and dates Way of the Warrior Kid for Wed., Nov. 25."
   credit: "Photo: Davidbspalding / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -52,20 +52,20 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Davidbspalding"
 summary:
   - "Apple TV Press says the 10-episode second season of Stick premiered Wednesday, Nov. 4, 2026 with two episodes and streams one episode weekly until Dec. 30."
-  - "12 12 12 starts Friday, Nov. 13 with two episodes and runs weekly through Dec. 25; Nocturne, which began Oct. 30, also ends Dec. 25. The film Being Heumann reaches Apple TV the same day."
+  - "12 12 12 started Friday, Nov. 13 with two episodes and runs weekly through Dec. 25; Nocturne, which began Oct. 30, also ends Dec. 25. The film Being Heumann reached Apple TV the same day."
   - "Awkwafina: The Unlikely Cook was dated for Friday, Nov. 6, and the film Way of the Warrior Kid debuts Wednesday, Nov. 25, five days later than Apple first said."
   - "Apple has not stated release times, so none are given here."
 faq:
   - q: "When does Stick season 2 come out on Apple TV?"
     a: "Apple TV Press said the 10-episode second season premieres Wednesday, Nov. 4, 2026, followed by one episode weekly until Dec. 30, 2026. The premiere is two episodes, so the finale is Wednesday, Dec. 30."
   - q: "When is the 12 12 12 release date on Apple TV?"
-    a: "Apple TV Press says 12 12 12 premieres globally on Friday, Nov. 13, 2026, as repeated in its Nov. 10 release, with the first two episodes, followed by one episode weekly through Dec. 25, 2026."
+    a: "Apple TV Press said 12 12 12 would premiere globally on Friday, Nov. 13, 2026, as repeated in its Nov. 10 release, with the first two episodes, followed by one episode weekly through Dec. 25, 2026."
   - q: "Will Awkwafina: The Unlikely Cook arrive all at once or weekly?"
     a: "Apple TV Press says the eight-episode docuseries premieres globally on Nov. 6, 2026. Apple has not stated whether episodes come all at once or weekly."
   - q: "What time do Apple TV episodes release?"
     a: "The Apple TV Press releases used here do not give a time of day, so this story does not either."
   - q: "When is Being Heumann on Apple TV?"
-    a: "Apple TV Press says the film debuts in select theaters on Nov. 6, 2026 and on Apple TV on Friday, Nov. 13, 2026."
+    a: "Apple TV Press said the film would debut in select theaters on Nov. 6, 2026 and on Apple TV on Friday, Nov. 13, 2026. Both dates have passed."
   - q: "How much is Apple TV?"
     a: "Apple lists $14.99 per month after a trial, and a 7-day free trial for new subscribers."
 sources:
@@ -125,7 +125,7 @@ downloads:
 draft: false
 ---
 
-**Apple TV Press dates "12 12 12," the film "Being Heumann" and "Snoopy Presents: 12 Days of Snoopy" for Friday, Nov. 13, and the film "Way of the Warrior Kid" for Wednesday, Nov. 25.** The 10-episode second season of "Stick" premiered Wednesday, Nov. 4, and "Awkwafina: The Unlikely Cook" was dated for Friday, Nov. 6. The tables below count out every weekly episode date through each finale, and a free printable calendar follows them.
+**Apple TV Press dates "12 12 12," the film "Being Heumann" and "Snoopy Presents: 12 Days of Snoopy" for Friday, Nov. 13, both out now, and the film "Way of the Warrior Kid" for Wednesday, Nov. 25.** The 10-episode second season of "Stick" premiered Wednesday, Nov. 4, and "Awkwafina: The Unlikely Cook" was dated for Friday, Nov. 6. The tables below count out every weekly episode date through each finale, and a free printable calendar follows them.
 
 This list covers the titles Apple has announced so far. Apple TV is the new name of Apple TV+. Apple's releases give no time of day for any drop, so no times appear here.
 
@@ -139,9 +139,9 @@ Each row below comes from an Apple TV Press release, with the weekday computed f
 | Wed., Nov. 4 | Stick, season 2 | Sports comedy starring and executive produced by Owen Wilson. Two-episode premiere of a 10-episode season |
 | Fri., Nov. 6 | Awkwafina: The Unlikely Cook | Eight-episode docuseries "premiering globally" |
 | Fri., Nov. 13 | 12 12 12 | Heist drama with Anthony Mackie and Jamie Dornan, who star and executive produce. Eight episodes, two on premiere day |
-| Fri., Nov. 13 | Being Heumann | Film from Siân Heder on disability rights activist Judy Heumann. In select theaters Nov. 6, on Apple TV Nov. 13 |
+| Fri., Nov. 13 | Being Heumann | Film from Siân Heder on disability rights activist Judy Heumann. In select theaters Nov. 6, on Apple TV Nov. 13 (out now) |
 | Fri., Nov. 13 | Snoopy Presents: 12 Days of Snoopy | Holiday special |
-| Sat., Nov. 14 to Sun., Nov. 15 | A Charlie Brown Thanksgiving | Streams free |
+| Sat., Nov. 14 to Sun., Nov. 15 | A Charlie Brown Thanksgiving | Streamed free |
 | Wed., Nov. 25 | Way of the Warrior Kid | Apple Original Films title with Chris Pratt, Linda Cardellini and Jude Hill |
 
 ## When does each weekly Apple TV episode come out?
@@ -179,7 +179,7 @@ Apple TV Press, in its Oct. 8, 2026 trailer release, said: "The 10-episode secon
 
 ## When is 12 12 12 on Apple TV?
 
-In its Oct. 13, 2026 release, repeated in a Nov. 10 release, Apple TV Press says the series "will premiere globally on Friday, November 13, 2026, with the first two episodes," followed by one episode weekly through Dec. 25, 2026. That is six more Fridays after the premiere, Nov. 20 through Dec. 25, for eight episodes.
+In its Oct. 13, 2026 release, repeated in a Nov. 10 release, Apple TV Press said the series "will premiere globally on Friday, November 13, 2026, with the first two episodes," followed by one episode weekly through Dec. 25, 2026. That is six more Fridays after the premiere, Nov. 20 through Dec. 25, for eight episodes.
 
 ## Will Awkwafina: The Unlikely Cook come out all at once?
 
@@ -187,9 +187,9 @@ Apple has not said. The Oct. 1, 2026 Apple TV Press release said the eight-episo
 
 ## What are the holiday and movie dates?
 
-"Snoopy Presents: 12 Days of Snoopy" is a holiday special "premiering Friday, November 13," according to the Sept. 24, 2026 Apple TV Press release "There's no place like Apple TV for the holidays." The same release says "A Charlie Brown Thanksgiving" streams free from Saturday, Nov. 14 to Sunday, Nov. 15. Apple has not stated the length of the Snoopy special.
+"Snoopy Presents: 12 Days of Snoopy" is a holiday special "premiering Friday, November 13," according to the Sept. 24, 2026 Apple TV Press release "There's no place like Apple TV for the holidays." The same release says "A Charlie Brown Thanksgiving" streamed free from Saturday, Nov. 14 to Sunday, Nov. 15. Apple has not stated the length of the Snoopy special.
 
-"Being Heumann" opens in select theaters on Nov. 6 and arrives on Apple TV on Nov. 13, according to the Oct. 12, 2026 Apple TV Press release.
+"Being Heumann" opened in select theaters on Nov. 6 and arrived on Apple TV on Nov. 13, according to the Oct. 12, 2026 Apple TV Press release.
 
 "Way of the Warrior Kid" "will debut globally on Apple TV on Wednesday, November 25, 2026," per the Oct. 27, 2026 release. The date moved: an Apple release from February 2026 had said Nov. 20. The new date is the day before Thanksgiving (Thursday, Nov. 26).
 
