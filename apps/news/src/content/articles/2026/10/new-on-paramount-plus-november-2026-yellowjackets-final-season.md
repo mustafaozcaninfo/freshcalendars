@@ -91,7 +91,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [new-on-apple-tv-november-2026-release-dates, new-on-hulu-november-2026-release-dates, netflix-new-movies-november-2026-release-dates]
+related: [new-on-paramount-plus-december-2026-release-dates, new-on-hulu-november-2026-release-dates, netflix-new-movies-november-2026-release-dates]
 downloads:
   - group: "Paramount+ November 2026 Premiere Calendar printables"
     title: "Paramount+ November 2026 Premiere Calendar"
