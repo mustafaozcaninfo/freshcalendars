@@ -3,6 +3,7 @@ title: "Christmas Number 1 2026: Race Opens Dec. 18, Revealed on Christmas Day"
 description: "Christmas Number 1 2026 will be announced Friday, Dec. 25, the Official Charts Company says. The race closes Dec. 24 at 6.59pm ET, 3.59pm PT."
 type: news
 publishedAt: "2026-11-06T13:51:00-05:00"
+updatedAt: "2026-11-21T13:20:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["christmas number one 2026", "when is christmas number one announced 2026", "christmas no 1 2026", "christmas number one winners"]
@@ -27,13 +28,15 @@ faq:
     a: "The Official Charts Company says the Official Christmas Number 1 of 2026 will be announced on Friday, Dec. 25, Christmas Day. The exact broadcast time for 2026 is not yet confirmed."
   - q: "How is the Christmas Number 1 chart counted?"
     a: "The Official Charts Company says the chart combines eligible UK physical sales, digital downloads, audio streams and video streams. The qualifying week runs from Friday, Dec. 18 and closes at 11.59pm Greenwich Mean Time (GMT) on Thursday, Dec. 24."
+  - q: "Who is in the Christmas Number 1 2026 race so far?"
+    a: "The Official Charts Company has tied new singles from Olivia Rodrigo, Bonnie Tyler, Mr Motivator, Queen and Jamie Miller to the 2026 festive chart race. It has not named a winner, and the race does not open until Dec. 18."
   - q: "Where is the Christmas Number 1 revealed?"
     a: "The Official Charts Company says the Official Christmas Number 1 will be revealed on BBC Radio 1's The Official Chart with Jack Saunders."
 sources:
   - title: "When will the Christmas Number 1 2026 be announced?"
     url: "https://www.officialcharts.com/chart-news/when-will-the-christmas-number-1-2026-be-announced/"
     publisher: "Official Charts Company"
-    date: "2026-11-06"
+    date: "2026-11-18"
   - title: "Olivia Rodrigo - take me home (4 christmas)"
     url: "https://www.officialcharts.com/chart-news/olivia-rodrigo-take-me-home-4-christmas-single/"
     publisher: "Official Charts Company"
@@ -42,6 +45,22 @@ sources:
     url: "https://www.officialcharts.com/chart-news/every-official-christmas-number-1-ever-__3618/"
     publisher: "Official Charts Company"
     date: "2026-11-06"
+  - title: "TV personality and fitness guru Mr Motivator begins bid for Christmas Number 1 with the charity single, All That You've Given Me"
+    url: "https://www.officialcharts.com/chart-news/mr-motivator-christmas-number-1-all-that-youve-given-me/"
+    publisher: "Official Charts Company"
+    date: "2026-11-17"
+  - title: "Queen release Thank God It's Christmas... Again! ahead of festive chart race"
+    url: "https://www.officialcharts.com/chart-news/queen-thank-god-its-christmas-again/"
+    publisher: "Official Charts Company"
+    date: "2026-11-16"
+  - title: "It's Beginning To Look A Lot Like Christmas as Jamie Miller delivers festive single"
+    url: "https://www.officialcharts.com/chart-news/jamie-miller-its-beginning-to-look-a-lot-like-christmas/"
+    publisher: "Official Charts Company"
+    date: "2026-11-18"
+  - title: "Bonnie Tyler's final recording Love, Light and Peace to be released as Christmas single"
+    url: "https://www.officialcharts.com/chart-news/bonnie-tyler-love-light-and-peace-christmas-single-2026/"
+    publisher: "Official Charts Company"
+    date: "2026-11-02"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -114,7 +133,21 @@ The qualifying chart week is seven days long. It opens on Friday, Dec. 18 and cl
 | Thursday, Dec. 24 | The race closes at 11.59pm GMT (6.59pm ET), Christmas Eve |
 | Friday, Dec. 25 | The Official Christmas Number 1 is revealed, Christmas Day |
 
-The Official Charts Company says the chart combines eligible UK physical sales, digital downloads, audio streams and video streams. One release already in the running for the festive season is Olivia Rodrigo's "take me home (4 christmas)," which the Official Charts Company says came out on Friday, Nov. 6 via Interscope Records.
+The Official Charts Company says the chart combines eligible UK physical sales, digital downloads, audio streams and video streams.
+
+## Christmas Number 1 2026 contenders so far
+
+The Official Charts Company has tied these new releases to the 2026 race. The list follows its coverage and is not a ranking or a forecast.
+
+| Artist | Single | Release |
+|---|---|---|
+| Olivia Rodrigo | "take me home (4 christmas)" | Friday, Nov. 6 (via Interscope Records) |
+| Bonnie Tyler | "Love, Light and Peace" (her final recording) | Friday, Nov. 13 |
+| Mr Motivator | "All That You've Given Me" (charity single) | Sunday, Nov. 15 |
+| Jamie Miller | "It's Beginning To Look A Lot Like Christmas" | Friday, Nov. 20 |
+| Queen | "Thank God It's Christmas... Again!" | Limited-edition 7-inch vinyl arriving Dec. 18 |
+
+Bonnie Tyler's announcement repeats the race window: Friday, Dec. 18 to Thursday, Dec. 24. A LadBaby or Band Aid 2026 release is not confirmed in the Official Charts Company's coverage.
 
 ## Why the reveal is on Christmas Day this year
 

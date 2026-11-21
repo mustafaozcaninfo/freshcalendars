@@ -3,7 +3,7 @@ title: "Advent of Code 2026 Start Time: Dec. 1 at Midnight EST, by Zone"
 description: "Advent of Code 2026 starts Tuesday, Dec. 1, at midnight EST. A table converts the first puzzle's release time for 17 cities, plus a printable tracker."
 type: explainer
 publishedAt: "2026-11-06T22:35:00-05:00"
-updatedAt: "2026-11-06T22:35:00-05:00"
+updatedAt: "2026-11-21T13:20:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["advent of code 2026", "advent of code 2026 start time", "advent of code release time", "advent of code time zone"]
@@ -81,7 +81,7 @@ sources:
     url: "https://adventofcode.com/2026/leaderboard"
     publisher: "Advent of Code"
     date: "2026-11-07"
-  - title: "Support - Advent of Code 2026"
+  - title: "Support AoC - Advent of Code 2026"
     url: "https://adventofcode.com/2026/support"
     publisher: "Advent of Code"
     date: "2026-11-07"
@@ -138,7 +138,7 @@ The site says "puzzles come out every day (ending mid-December)" and that Day 1 
 
 | Day | Date | Release if midnight ET repeats | UTC |
 |---|---|---|---|
-| Day 1 | Tue., Dec. 1 | 12 a.m. ET (stated by the site) | 05:00 |
+| Day 1 | Tue., Dec. 1 | 12 a.m. ET (set by the site) | 05:00 |
 | Day 2 | Wed., Dec. 2 | 12 a.m. ET | 05:00 |
 | Day 3 | Thu., Dec. 3 | 12 a.m. ET | 05:00 |
 | Day 4 | Fri., Dec. 4 | 12 a.m. ET | 05:00 |
