@@ -26,6 +26,15 @@ PRINT = {
     'wall-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> shows the same twelve months on one sheet.'),
     'desk-calendars': ('https://freshcalendars.com/monthly-calendars/', 'Free {a}printable monthly calendars</a> cover the same months on Letter or A4 paper.'),
     'dry-erase-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> gives a paper copy of the same year.'),
+    # Clocks and digital calendars (Nov. 21, 2026)
+    'digital-wall-calendars': ('https://freshcalendars.com/monthly-calendars/', 'A free {a}printable monthly calendar</a> is the paper backup when the screen is off.'),
+    'perpetual-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> shows the dates a perpetual calendar leaves out: the weekdays of a whole year.'),
+    'countdown-clocks': ('https://freshcalendars.com/holidays/', 'The dates to count down to are on our {a}holiday dates page</a>.'),
+    'visual-timers': ('https://freshcalendars.com/monthly-calendars/', 'For the longer view, print a free {a}monthly calendar</a> and block the days the timer counts in minutes.'),
+    'day-clocks': ('https://freshcalendars.com/monthly-calendars/', 'A large-print {a}monthly calendar</a> on the wall beside it shows the days ahead.'),
+    'sunrise-alarm-clocks': ('https://freshcalendars.com/when-is/daylight-savings/', 'Mornings shift twice a year: see {a}when daylight saving time starts and ends</a>.'),
+    'alarm-clocks': ('https://freshcalendars.com/when-is/daylight-savings/', 'Clocks change twice a year: see {a}when daylight saving time starts and ends</a>.'),
+    'wall-clocks': ('https://freshcalendars.com/when-is/daylight-savings/', 'Clocks change twice a year: see {a}when daylight saving time starts and ends</a>.'),
     'greeting-card-organizers': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}yearly calendar</a> on the wall keeps the same birthdays in view.'),
 }
 
