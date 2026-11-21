@@ -3,7 +3,7 @@ title: "European Christmas Markets 2026: Vienna Nov. 13, Nuremberg Nov. 27"
 description: "Vienna's Christmas market opened Nov. 13, 2026; Nuremberg's and Strasbourg's open Nov. 27. Hours in ET, Dec. 24 closing times and a printable planner."
 type: explainer
 publishedAt: "2026-11-11T19:05:00-05:00"
-updatedAt: "2026-11-14T15:41:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["european christmas markets 2026 dates", "nuremberg christmas market 2026 dates", "vienna christmas market 2026", "strasbourg christmas market 2026 dates", "cologne christmas market 2026"]
@@ -19,7 +19,7 @@ hero:
     author: "Lothar Weber"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Throttle_lever"
 summary:
-  - "Vienna's Christkindlmarkt am Rathausplatz and Copenhagen's Tivoli Gardens Christmas both opened Friday, Nov. 13, 2026; Cologne follows on Monday, Nov. 16, according to the organizers' own sites."
+  - "Vienna's Christkindlmarkt am Rathausplatz and Copenhagen's Tivoli Gardens Christmas both opened Friday, Nov. 13, 2026; Cologne opened on Monday, Nov. 16, according to the organizers' own sites."
   - "Nuremberg and Strasbourg open Friday, Nov. 27 and close Thursday, Dec. 24; Prague's Old Town Square market opens Saturday, Nov. 28 and runs to Jan. 6, 2027."
   - "Europe is 6 hours ahead of ET on all these dates: Nuremberg's 10 a.m. to 9 p.m. is 4 a.m. to 3 p.m. ET."
   - "On Dec. 24 Nuremberg closes at 2 p.m., Strasbourg at 6 p.m. and Vienna at 6:30 p.m. local time; Cologne's last day is Dec. 23."
@@ -103,7 +103,7 @@ assets:
         - { label: "Tivoli Gardens daily hours and Dec. 24 and 25 opening", why: "Not given on Tivoli's Christmas page" }
 ---
 
-**Vienna's Christkindlmarkt am Rathausplatz and Copenhagen's Tivoli Gardens Christmas opened Friday, Nov. 13, 2026, Cologne's cathedral market opens Monday, Nov. 16, and Nuremberg's Christkindlesmarkt and Strasbourg's market open Friday, Nov. 27**, according to each organizer's own site. Prague's Old Town Square market starts Saturday, Nov. 28. The table below gives each market's hours in local time and in ET, plus its Dec. 24 hours, and a one-page planner is at the end.
+**Vienna's Christkindlmarkt am Rathausplatz and Copenhagen's Tivoli Gardens Christmas opened Friday, Nov. 13, 2026, Cologne's cathedral market opened Monday, Nov. 16, and Nuremberg's Christkindlesmarkt and Strasbourg's market open Friday, Nov. 27**, according to each organizer's own site. Prague's Old Town Square market starts Saturday, Nov. 28. The table below gives each market's hours in local time and in ET, plus its Dec. 24 hours, and a one-page planner is at the end.
 
 Europe runs 6 hours ahead of ET on all these dates, computed from the European Union and U.S. clock rules (the EU changed its clocks on Oct. 25, 2026, the U.S. on Nov. 1). Central European Time (CET) is UTC+1; Eastern Standard Time is UTC-5. Copenhagen and Prague are also on CET.
 
@@ -114,7 +114,7 @@ Europe runs 6 hours ahead of ET on all these dates, computed from the European U
 | [Nuremberg Christkindlesmarkt](https://www.christkindlesmarkt.de/) | Fri., Nov. 27 | Thu., Dec. 24 | 10 a.m.-9 p.m. daily; opening day 10 a.m.-10 p.m. | 4 a.m.-3 p.m.; opening day 4 a.m.-4 p.m. | 10 a.m.-2 p.m. (4-8 a.m. ET) | None listed |
 | [Vienna Christkindlmarkt](https://www.christkindlmarkt.at) | Fri., Nov. 13 | Sat., Dec. 26 | 10 a.m.-10 p.m. daily | 4 a.m.-4 p.m. | 10 a.m.-6:30 p.m. (4 a.m.-12:30 p.m. ET) | None listed |
 | [Strasbourg Christkindelsmärik](https://noel.strasbourg.eu/foire-aux-questions) | Fri., Nov. 27 | Thu., Dec. 24 | 11:30 a.m.-9 p.m. daily; Nov. 27 from 2 p.m.; Dec. 11, 12, 18 and 19 until 10 p.m. | 5:30 a.m.-3 p.m.; Nov. 27 from 8 a.m.; the four late days until 4 p.m. | 11:30 a.m.-6 p.m. (5:30 a.m.-noon ET) | No chalet open Dec. 25 or until New Year |
-| [Cologne Cathedral market](https://www.koelnerweihnachtsmarkt.com) | Mon., Nov. 16 | Wed., Dec. 23 | Sun.-Wed. 11 a.m.-9 p.m.; Thu.-Fri. 11 a.m.-10 p.m.; Sat. 10 a.m.-10 p.m. | Sun.-Wed. 5 a.m.-3 p.m.; Thu.-Fri. 5 a.m.-4 p.m.; Sat. 4 a.m.-4 p.m. | Closed (last day Dec. 23) | Sun., Nov. 22 |
+| [Cologne Cathedral market](https://www.koelnerweihnachtsmarkt.com) | Mon., Nov. 16 (opened) | Wed., Dec. 23 | Sun.-Wed. 11 a.m.-9 p.m.; Thu.-Fri. 11 a.m.-10 p.m.; Sat. 10 a.m.-10 p.m. | Sun.-Wed. 5 a.m.-3 p.m.; Thu.-Fri. 5 a.m.-4 p.m.; Sat. 4 a.m.-4 p.m. | Closed (last day Dec. 23) | Sun., Nov. 22 |
 | [Prague Old Town Square](https://prague.eu/en/) | Sat., Nov. 28 | Wed., Jan. 6, 2027 | Hours not posted | Not posted | Hours not posted | None listed |
 | [Tivoli Gardens Christmas](https://www.tivoli.dk/en/christmas) | Fri., Nov. 13 (opened) | Sun., Jan. 3, 2027 | Hours not posted | Not posted | Hours not posted | None listed |
 
@@ -140,7 +140,7 @@ The City of Strasbourg's questions page says the market runs "du vendredi 27 nov
 
 ## Cologne Cathedral Christmas market 2026 dates and hours
 
-The Weihnachtsmarkt am Kölner Dom opens Monday, Nov. 16 and closes Wednesday, Dec. 23, 2026; the market's page labels Dec. 23 with "Di" (Tuesday), but the date falls on a Wednesday. Hours are "So-Mi 11-21 Uhr", "Do-Fr 11-22 Uhr" and "Sa 10-22 Uhr". The site says: "Am Totensonntag, den 22.11.2026 ist der Markt geschlossen." The market closes before Dec. 24, and its page gives no Dec. 24 hours.
+The Weihnachtsmarkt am Kölner Dom opened Monday, Nov. 16 and closes Wednesday, Dec. 23, 2026; the market's page labels Dec. 23 with "Di" (Tuesday), but the date falls on a Wednesday. Hours are "So-Mi 11-21 Uhr", "Do-Fr 11-22 Uhr" and "Sa 10-22 Uhr". The site says: "Am Totensonntag, den 22.11.2026 ist der Markt geschlossen." The market closes before Dec. 24, and its page gives no Dec. 24 hours.
 
 ## Prague Old Town Square Christmas market 2026
 

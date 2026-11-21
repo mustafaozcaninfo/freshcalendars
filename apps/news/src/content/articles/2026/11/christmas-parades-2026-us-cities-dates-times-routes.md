@@ -3,7 +3,7 @@ title: "Christmas Parades 2026: Chicago Nov. 21, Hollywood Nov. 29"
 description: "Christmas parades 2026 start with Chicago on Nov. 21 at 5:30 p.m. Central Time. One table lists five cities' dates, start times and how to watch."
 type: explainer
 publishedAt: "2026-11-04T18:35:00-05:00"
-updatedAt: "2026-11-14T15:08:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["christmas parade 2026", "christmas parade near me", "holiday parade 2026", "parade of lights 2026", "hollywood christmas parade 2026"]
@@ -20,7 +20,7 @@ hero:
     author: "Mjrmtg"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Mjrmtg"
 summary:
-  - "Chicago's Magnificent Mile Lights Festival parade is Saturday, Nov. 21, 2026, and steps off at 5:30 p.m. Central Time (CT) on Michigan Avenue, according to the organizer."
+  - "Chicago's Magnificent Mile Lights Festival parade is today, Saturday, Nov. 21, 2026, and steps off at 5:30 p.m. Central Time (CT) on Michigan Avenue, according to the organizer."
   - "The Hollywood Christmas Parade is Sunday, Nov. 29; its start time and TV plans are not announced, but the parade's road-closure page lists closing times."
   - "Denver's 9NEWS Parade of Lights and the Dallas Holiday Parade are both Saturday, Dec. 5, and the Fort Lauderdale boat parade is Saturday, Dec. 12."
   - "Each organizer's page lists what is still missing, such as Denver's step-off time and Dallas's route; a printable below keeps all five parades on one sheet."
@@ -115,7 +115,7 @@ assets:
     note: "Source: The Magnificent Mile, Hollywood Christmas Parade, Downtown Denver Partnership, Dallas Holiday Parade, Winterfest Boat Parade, read Nov. 14, 2026. Times are local; the sheet converts them to Eastern Time."
 ---
 
-**Chicago's Christmas parade steps off Saturday, Nov. 21, 2026, at 5:30 p.m. Central Time (CT)**, according to the Magnificent Mile Lights Festival organizer, and four more big-city parades follow: Hollywood on Sunday, Nov. 29, Denver and Dallas on Saturday, Dec. 5, and Fort Lauderdale's boat parade on Saturday, Dec. 12.
+**Chicago's Christmas parade steps off today, Saturday, Nov. 21, 2026, at 5:30 p.m. Central Time (CT)**, according to the Magnificent Mile Lights Festival organizer, and four more big-city parades follow: Hollywood on Sunday, Nov. 29, Denver and Dallas on Saturday, Dec. 5, and Fort Lauderdale's boat parade on Saturday, Dec. 12.
 
 The table below puts the five in date order with each local start time, our Eastern Time (ET) conversion, where the route starts and how to watch. Where an organizer has not posted a detail, the table says so instead of guessing. A one-page [printable schedule](#printable) is at the end. Thanksgiving week has its own list in our [Thanksgiving parades 2026 story](/news/thanksgiving-parades-2026-detroit-houston-philadelphia-chicago-start-times-tv/).
 
@@ -123,7 +123,7 @@ The table below puts the five in date order with each local start time, our East
 
 | Date | City and parade | Local start | Eastern Time (ET) | Route start | How to watch |
 |---|---|---|---|---|---|
-| Sat., Nov. 21 | Chicago, Wintrust Magnificent Mile Lights Festival | 5:30 p.m. CT | 6:30 p.m. ET | Oak Street and Michigan Avenue | Stream on abc7chicago.com; rebroadcast Sun., Nov. 22, 6 p.m. to 7 p.m. on ABC7 |
+| Sat., Nov. 21 (today) | Chicago, Wintrust Magnificent Mile Lights Festival | 5:30 p.m. CT | 6:30 p.m. ET | Oak Street and Michigan Avenue | Stream on abc7chicago.com; rebroadcast Sun., Nov. 22, 6 p.m. to 7 p.m. on ABC7 |
 | Sun., Nov. 29 | Hollywood Christmas Parade | Not announced | Not announced | Not posted as text; the organizer shows a map image | TV for 2026 not announced |
 | Sat., Dec. 5 | Denver, 9NEWS Parade of Lights | Step-off not posted; telecast 6 p.m. to 7 p.m. Mountain Time (MT) | Telecast 8 p.m. to 9 p.m. ET | Not labeled on the 2026 map | Live on 9NEWS |
 | Sat., Dec. 5 | Dallas Holiday Parade | 8:30 a.m. CT | 9:30 a.m. ET | Downtown Dallas; route not posted | No 2026 channel or air time named |
@@ -153,7 +153,7 @@ The closure page also carries a reopening line with a Dec. 1 date that does not 
 
 ## Denver Parade of Lights: route and TV
 
-The Downtown Denver Partnership lists the 9NEWS Parade of Lights for Saturday, Dec. 5, 2026, live on 9NEWS from 6:00 p.m. to 7:00 p.m. MT. Re-airs are listed for Dec. 15 and Dec. 24, 2026. The page gives no step-off time, only the telecast window, and it does not mention a Friday night parade.
+The Downtown Denver Partnership lists the 9NEWS Parade of Lights for Saturday, Dec. 5, 2026, live on 9NEWS from 6:00 p.m. to 7:00 p.m. MT. The page lists re-airs on 9NEWS (KUSA) on Dec. 15 from 7:00 p.m. to 8:00 p.m. and on Dec. 24 from 10:36 p.m. to 11:34 p.m. and from 1:00 a.m. to 2:00 a.m., and on a second Denver station (KTVD) on Dec. 19 from 5:00 p.m. to 6:00 p.m., Dec. 25 from 8:00 a.m. to 9:00 a.m. and Jan. 1, 2027 from 11:00 a.m. to 12:00 p.m., all MT. The page gives no step-off time, only the telecast window, and it does not mention a Friday night parade.
 
 The page says the parade "now turns left from 17th street to Curtis Street rather than Arapahoe Street." The 2026 route map shows the route on 17th, Curtis, 16th, 15th, Glenarm and Tremont Place, without labeling the start or end.
 
