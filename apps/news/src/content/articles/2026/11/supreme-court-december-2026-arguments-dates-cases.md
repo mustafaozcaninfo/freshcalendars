@@ -3,6 +3,7 @@ title: "Supreme Court December 2026 Arguments: Nov. 30 to Dec. 9 Cases"
 description: "The Supreme Court hears eight arguments over six days, Mon., Nov. 30 to Wed., Dec. 9, 2026, at 10 a.m. ET. Each case, time zones and how to listen."
 type: explainer
 publishedAt: "2026-11-06T18:55:00-05:00"
+updatedAt: "2026-11-21T01:26:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["supreme court december 2026 arguments", "supreme court oral arguments schedule", "supreme court arguments this week", "supreme court december session 2026"]
@@ -25,6 +26,8 @@ faq:
     a: "The calendar says the court convenes at 10 a.m. Eastern Time, which is 7 a.m. Pacific Time by our conversion."
   - q: "Can the public watch Supreme Court arguments?"
     a: "All oral arguments are open to the public, but seating is limited, the court says. The court also live-streams an audio feed of each argument on its website."
+  - q: "Who argues for the government in the December 2026 cases?"
+    a: "The court's dockets show the U.S. Solicitor General was given leave to argue as amicus curiae, with divided argument, in five cases: Crowther (Oct. 5, 2026), Jouppi, Viramontes and International Partners for Ethical Care (Nov. 9) and Grand (Nov. 16). In RNC v. Mi Familia Vota the court granted the Acting Solicitor General's motion for divided argument. No docket says how the time is split."
   - q: "When will the court decide these cases?"
     a: "The court has not said when it will rule on any of them."
   - q: "Does the court sit after Dec. 9?"
@@ -186,14 +189,22 @@ The court's docket pages give the date each petition was granted.
 
 | Case | Cert granted | Note |
 |---|---|---|
-| Crowther | May 18, 2026 | From the 11th Circuit |
+| Crowther | May 18, 2026 | From the 11th Circuit. Solicitor General divided argument granted Oct. 5, 2026 |
 | Wassily | June 29, 2026 | Circuits split: the 5th Circuit against the 2nd and 4th |
-| International Partners for Ethical Care | June 29, 2026 | From the 9th Circuit |
-| RNC v. Mi Familia Vota | June 29, 2026 | Two questions about Arizona's registration rules |
-| Viramontes | June 30, 2026 | Consolidated with Grant |
-| Grand | June 30, 2026 | From the 6th Circuit |
-| Jouppi | July 20, 2026 | From the Supreme Court of Alaska |
-| DHS v. D.V.D. | Sept. 29, 2026 | Expedited briefing |
+| International Partners for Ethical Care | June 29, 2026 | From the 9th Circuit. Solicitor General divided argument granted Nov. 9, 2026 |
+| RNC v. Mi Familia Vota | June 29, 2026 | Two questions about Arizona's registration rules. Acting Solicitor General's motion for divided argument granted and respondents' motion denied, Nov. 9, 2026 |
+| Viramontes | June 30, 2026 | Consolidated with Grant. Solicitor General divided argument granted Nov. 9, 2026; suggestion of mootness filed Nov. 5, no ruling on the docket (see below) |
+| Grand | June 30, 2026 | From the 6th Circuit. Solicitor General divided argument granted Nov. 16, 2026; American Planning Association's motion to participate denied the same day |
+| Jouppi | July 20, 2026 | From the Supreme Court of Alaska. Solicitor General divided argument granted Nov. 9, 2026 |
+| DHS v. D.V.D. | Sept. 29, 2026 | Expedited briefing; respondents' brief filed Nov. 16, 2026 |
+
+## Who argues in the December cases?
+
+As of Nov. 21, 2026, the dockets show the U.S. Solicitor General in six of the eight arguments. The court granted the Solicitor General leave to argue as amicus curiae with divided argument in Crowther (Oct. 5), Jouppi, Viramontes and International Partners for Ethical Care (all Nov. 9) and Grand (Nov. 16). In RNC v. Mi Familia Vota, the court granted the Acting Solicitor General's motion for divided argument on Nov. 9 and denied the respondents' motion for divided argument. No docket says how the time is split. The December calendar itself is unchanged: it still reads "Amended – October 1, 2026" with the same eight arguments on the same days.
+
+## What is the mootness filing in Viramontes?
+
+On Nov. 5, 2026, the respondents in Viramontes v. Cook County filed a suggestion of mootness. The petitioners responded Nov. 11, a reply followed Nov. 13, and the petitioners' reply brief was submitted Nov. 20. The docket shows no dismissal, and the case is still "set for argument" on Wednesday, Dec. 2, 2026, in the one hour shared with Grant.
 
 ## What time do arguments start in each time zone?
 
@@ -216,6 +227,6 @@ According to the court's Visitor's Guide to Oral Argument, all oral arguments ar
 
 ## When will the court decide these cases?
 
-The court has not said when it will rule on any of the eight arguments. Its calendar covers argument days only; conference days and non-argument session dates are not on it. The court's index lists a separate session beginning Jan. 11, 2027; the [January 2027 argument calendar](/news/supreme-court-january-2027-arguments-apple-epic-games/) lists six cases from Jan. 11 to Jan. 20. Print the one-page session sheet to keep the six dates and cases by your desk, and use the [December 2026 printable calendar](/december-calendars.html) to mark them.
+The court has not said when it will rule on any of the eight arguments. Its calendar covers argument days only; conference days and non-argument session dates are not on it. The court's index lists a separate session beginning Jan. 11, 2027, and as of Nov. 21 no December hearing list is posted there; the [January 2027 argument calendar](/news/supreme-court-january-2027-arguments-apple-epic-games/) lists six cases from Jan. 11 to Jan. 20. Print the one-page session sheet to keep the six dates and cases by your desk, and use the [December 2026 printable calendar](/december-calendars.html) to mark them.
 
 For other dates on the post-midterm calendar, see when [2026 election winners take office](/news/when-do-2026-election-winners-take-office-congress-governors/) and the [Dec. 11 federal funding deadline](/news/government-funding-deadline-december-11-2026-shutdown/). The [November 2026 printable calendar](/november-calendars.html) has room for Nov. 30.
