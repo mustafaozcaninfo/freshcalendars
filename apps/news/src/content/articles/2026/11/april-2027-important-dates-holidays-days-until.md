@@ -119,7 +119,7 @@ internalLinks:
     label: "April 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [march-2027-important-dates-holidays-days-until, passover-2027-holi-2027-dates-sundown-times, nfl-draft-2027-dates-location-washington]
+related: [march-2027-important-dates-holidays-days-until, may-2027-important-dates-holidays-days-until, nfl-draft-2027-dates-location-washington]
 draft: false
 ---
 
