@@ -330,3 +330,10 @@ Use the `shop-article` skill (`.claude/skills/shop-article/SKILL.md`): which que
 | `data/` | long-tail targets and filtered Google suggestions |
 | `snippets/` | embed boxes for freshcalendars.com pages |
 | `ROADMAP.md` | competitor analysis (GadgetSteal) and the plan |
+
+## What the platform does on its own (checked Nov. 21, 2026)
+
+- **Offer prices.** `settings/offers` has `auto_refresh_offers` on at 1,440 minutes, but the background job is paced: of 500 Amazon offers sampled, 36% had `price_checked_at` on the same day and 35% were last checked four days earlier. There is no endpoint that forces a price check. Product pages, product cards and `[product]` shortcodes show the stored price, so they follow this job.
+- **Homepage rows.** The `products` block has four modes: `latest`, `trending`, `special_offers` and `custom`. `trending` (section 196) and `special_offers` (section 25) fill themselves, shop-wide; no mode filters by category, so an advent-only deals row stays `custom`.
+- **Dates.** Only the `offer-box` block has `show_from` and `show_until`. Other sections, pages, the top bar text and the homepage order have no schedule.
+- **Not automatic:** the computed tables in the deal pages (`spec_pages.py refresh`) and in articles (`article_prices.py`), and every seasonal change to the homepage. These need our own run.
