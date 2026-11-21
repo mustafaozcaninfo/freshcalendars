@@ -1,9 +1,9 @@
 ---
-title: "Blue Planet 3 Episode 3: Sunday 15 Nov at 8pm GMT, 3 p.m. ET"
-description: "Blue Planet 3 episode 3, Seasonal Seas, is on BBC One Sunday 15 November at 8pm UK time, 3 p.m. ET. Full episode guide to 29 Nov with US times."
+title: "Blue Planet 3 Episode 4: Sunday 22 Nov at 8pm GMT, 3 p.m. ET"
+description: "Blue Planet 3 episode 4, Polar Waters, is on BBC One Sunday 22 November at 8pm UK time, 3 p.m. ET. Full episode guide to 29 Nov with US times."
 type: news
 publishedAt: "2026-11-01T10:43:00-05:00"
-updatedAt: "2026-11-14T17:18:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["blue planet 3", "blue planet iii start time", "blue planet iii episode guide", "blue planet 3 bbc one episodes", "blue planet iii us release"]
@@ -21,10 +21,10 @@ hero:
 summary:
   - "The British Broadcasting Corporation (BBC) schedule listed Blue Planet III, Episode 1 \"Tropical Seas\", on BBC One on Sunday 1 November 2026, from 8pm to 9pm Greenwich Mean Time (GMT)."
   - "That was 3 p.m. Eastern Standard Time (EST), 2 p.m. Central, 1 p.m. Mountain and noon Pacific. The BBC pages do not announce a United States release date or network."
-  - "Episode 2, \"Open Ocean\", aired on Sunday 8 November. Episode 3, \"Seasonal Seas\", is listed for Sunday 15 November at 8pm GMT (3 p.m. EST), episode 4 for 22 November and episode 5 for 29 November, all on BBC One; episode 6 has no date yet."
+  - "Episode 2, \"Open Ocean\", aired on Sunday 8 November and episode 3, \"Seasonal Seas\", on Sunday 15 November. Episode 4, \"Polar Waters\", is listed for Sunday 22 November at 8pm GMT (3 p.m. EST) and episode 5 for 29 November, both on BBC One; episode 6 has no date yet."
 faq:
-  - q: "What time is Blue Planet III episode 3 on?"
-    a: "The BBC One schedule lists Blue Planet III, Episode 3 \"Seasonal Seas\", from 8pm to 9pm GMT on Sunday 15 November 2026, which is 3 p.m. EST. Episodes 1 and 2 aired at the same time on Sunday 1 and Sunday 8 November."
+  - q: "What time is Blue Planet III episode 4 on?"
+    a: "The BBC One schedule lists Blue Planet III, Episode 4 \"Polar Waters\", from 8pm to 9pm GMT on Sunday 22 November 2026, which is 3 p.m. EST. Episodes 1 to 3 aired at the same time on Sunday 1, 8 and 15 November."
   - q: "How many episodes does Blue Planet III have?"
     a: "The BBC episode guide lists 6 episodes in Series 1. Dates are listed for episodes 1 to 5, the last on Sunday 29 November; episode 6, \"Future Seas\", has no date yet."
   - q: "When is Blue Planet III on in the US?"
@@ -66,9 +66,9 @@ downloads:
 draft: false
 assets:
   overlay: true
-  kicker: "Blue Planet III · Sun., Nov. 15"
-  date: "2026-11-15"
-  card: { top: "Episode 3 on Sunday at", big: "8pm GMT", bottom: "3 p.m. EST, BBC One" }
+  kicker: "Blue Planet III · Sun., Nov. 22"
+  date: "2026-11-22"
+  card: { top: "Episode 4 on Sunday at", big: "8pm GMT", bottom: "3 p.m. EST, BBC One" }
   printable:
     slug: blue-planet-iii-episode-tracker-2026
     group: blue-planet-iii-2026
@@ -76,8 +76,8 @@ assets:
     subtitle: "Listed BBC showings with UK and US Eastern times"
     layout: list
     rows:
-      - ["Sun., Nov. 15", "Ep. 2 repeat: 2.50pm GMT, 9:50 a.m. EST, BBC One"]
-      - ["Sun., Nov. 15", "Ep. 3 Seasonal Seas: 8pm GMT, 3 p.m. EST, BBC One"]
+      - ["Sun., Nov. 15", "Ep. 2 repeat aired: 2.50pm GMT, 9:50 a.m. EST, BBC One"]
+      - ["Sun., Nov. 15", "Ep. 3 Seasonal Seas aired: 8pm GMT, 3 p.m. EST, BBC One"]
       - ["Sun., Nov. 22", "Ep. 3 repeat: 3.45pm GMT, 10:45 a.m. EST, BBC One"]
       - ["Sun., Nov. 22", "Ep. 4 Polar Waters: 8pm GMT, 3 p.m. EST, BBC One"]
       - ["Sun., Nov. 29", "Ep. 4 repeat: 3.20pm GMT, 10:20 a.m. EST, BBC One"]
@@ -89,7 +89,7 @@ assets:
     alt: "Printable tracker of Blue Planet III showings from Nov. 15 to Dec. 6, 2026, with UK and US Eastern times."
 ---
 
-**Blue Planet III began on Sunday 1 November 2026 at 8pm Greenwich Mean Time (GMT) on British Broadcasting Corporation (BBC) One and BBC iPlayer, which was 3 p.m. Eastern Standard Time (EST), also called Eastern Time (ET), according to the BBC One schedule.** Episode 3, "Seasonal Seas", is listed for Sunday 15 November in the same 8pm to 9pm slot, which is 3 p.m. EST. Episode 2, "Open Ocean", aired on Sunday 8 November. The BBC series page said Blue Planet III "begins Sunday 1 November on BBC One and iPlayer".
+**Blue Planet III began on Sunday 1 November 2026 at 8pm Greenwich Mean Time (GMT) on British Broadcasting Corporation (BBC) One and BBC iPlayer, which was 3 p.m. Eastern Standard Time (EST), also called Eastern Time (ET), according to the BBC One schedule.** Episode 2, "Open Ocean", aired on Sunday 8 November and episode 3, "Seasonal Seas", on Sunday 15 November. Episode 4, "Polar Waters", is listed for Sunday 22 November in the same 8pm to 9pm slot, which is 3 p.m. EST. The BBC series page said Blue Planet III "begins Sunday 1 November on BBC One and iPlayer".
 
 The BBC has not announced a United States date or network on the pages we checked, so the US times below are the BBC One times converted. The episode dates are on our one-page printable further down.
 
@@ -97,7 +97,7 @@ The BBC has not announced a United States date or network on the pages we checke
 
 The United Kingdom (UK) has been on GMT since 25 October, and the United States moved to standard time on 1 November. The conversions are our calculation from the BBC One time.
 
-| Where | Sunday evening episodes (15, 22 and 29 November) |
+| Where | Sunday evening episodes (15 November aired; 22 and 29 November listed) |
 |---|---|
 | United Kingdom | 8pm GMT |
 | US Eastern | 3 p.m. EST |

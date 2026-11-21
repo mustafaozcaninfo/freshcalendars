@@ -3,15 +3,15 @@ title: "Amazon Prime Video November 2026: Rings of Power Nov. 11"
 description: "Prime Video November 2026: Rings of Power season 3 began Nov. 11, Blade Runner 2099 arrives Nov. 25. A dated table of every title, plus a printable."
 type: news
 publishedAt: "2026-10-26T01:09:00-04:00"
-updatedAt: "2026-11-14T15:58:00-05:00"
+updatedAt: "2026-11-21T15:47:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Prime Video November 2026", "Rings of Power season 3 release date", "Blade Runner 2099 release date", "Prime Video November 2026 release dates"]
 assets:
   overlay: true
   kicker: "Prime Video · November 2026"
-  date: "2026-11-18"
-  card: { top: "Next on Prime Video", big: "Wed., Nov. 18", bottom: "Madden and Rings of Power episodes 5 and 6" }
+  date: "2026-11-22"
+  card: { top: "Next on Prime Video", big: "Sun., Nov. 22", bottom: "The Chosen season 6, weekly episode" }
   printable:
     noKit: "Month calendar of release dates from six sources; the kits need the source quote for each date, and the Nov. 4 Greatest date is not quoted in our notes."
     slug: prime-video-november-2026-calendar
@@ -27,8 +27,8 @@ assets:
       - ["Wed., Nov. 18", "Rings of Power season 3 (episodes 5 and 6)"]
       - ["Fri., Nov. 20", "Perfect Liars (film)"]
       - ["Sun., Nov. 22", "The Chosen season 6 (weekly episode)"]
+      - ["Tue., Nov. 24", "Rings of Power season 3 (final 2 episodes)"]
       - ["Wed., Nov. 25", "Blade Runner 2099 (all 8 episodes)"]
-      - ["Wed., Nov. 25", "Rings of Power season 3 (final 2 episodes)"]
       - ["Sun., Nov. 29", "The Chosen season 6 (weekly episode)"]
     note: "Source: Amazon (aboutamazon.com) announcements; The Chosen dates from thechosen.tv and the 5&2 Studios release (Apr. 3, 2026). Dates can change."
     description: "One-page Prime Video November 2026 calendar with six titles on their release dates, from Amazon announcements. Free to print."
@@ -44,19 +44,19 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Dedicated_home_theater.jpg"
     author: "Geoff Sloan"
 summary:
-  - "Amazon says the first four episodes of The Lord of the Rings: The Rings of Power season 3 premiered Wednesday, Nov. 11, 2026, and are streaming now."
-  - "The Chosen season 6 streams on Prime Video from Sunday, Nov. 15, with three episodes, then weekly through Dec. 6, per its official site."
+  - "Amazon says the first six episodes of The Lord of the Rings: The Rings of Power season 3 are streaming now, and the final two episodes release Tuesday, Nov. 24, 2026."
+  - "The Chosen season 6 began streaming on Prime Video on Sunday, Nov. 15, with three episodes, then weekly through Dec. 6, per its official site."
   - "All eight episodes of Blade Runner 2099 premiere Wednesday, Nov. 25; Amazon says all eight episodes of The Greatest are streaming now."
-  - "Two films follow: Madden streams from Wednesday, Nov. 18 and Perfect Liars premieres Friday, Nov. 20."
+  - "Two films are out now: Madden began streaming Wednesday, Nov. 18 and Perfect Liars premiered Friday, Nov. 20."
 faq:
   - q: "When does Rings of Power season 3 come out?"
-    a: "Amazon says the first four episodes premiered Wednesday, Nov. 11, 2026, and are streaming now. Episodes 5 and 6 follow on Nov. 18 and the final two episodes on Nov. 25, so the eight episodes arrive in three drops (our tally)."
+    a: "Amazon says the first four episodes premiered Wednesday, Nov. 11, 2026, and the first six are streaming now. The final two episodes release Tuesday, Nov. 24, so the eight episodes arrive in three drops (our tally)."
   - q: "When does Blade Runner 2099 come out?"
     a: "Amazon says all eight episodes of Blade Runner 2099 premiere Wednesday, Nov. 25, 2026."
   - q: "Is I Play Rocky on Prime Video in November?"
-    a: "No Prime Video date has been announced. Amazon says the film is out now in limited theaters and arrives in theaters everywhere later in November."
+    a: "No Prime Video date has been announced. Amazon says the film is out now in theaters globally."
   - q: "Is The Chosen season 6 on Prime Video?"
-    a: "Yes. The official site thechosen.tv says season 6 will stream on Prime Video starting Nov. 15, 2026, with three episodes on Nov. 15 and a weekly episode through Dec. 6."
+    a: "Yes. The official site thechosen.tv said season 6 would stream on Prime Video starting Nov. 15, 2026, with three episodes on Nov. 15 and a weekly episode through Dec. 6. It began Nov. 15."
 sources:
   - title: "The Greatest: Muhammad Ali series on Prime Video"
     url: "https://www.aboutamazon.com/news/entertainment/the-greatest-muhammad-ali-prime-video"
@@ -64,7 +64,7 @@ sources:
   - title: "The Lord of the Rings: The Rings of Power season 3 on Prime Video"
     url: "https://www.aboutamazon.com/news/entertainment/lord-of-the-rings-rings-of-power-season-3-prime-video"
     publisher: "Amazon"
-    date: "2026-11-11"
+    date: "2026-11-18"
   - title: "Madden movie with Nicolas Cage on Prime Video"
     url: "https://www.aboutamazon.com/news/entertainment/madden-movie-nicolas-cage-prime-video"
     publisher: "Amazon"
@@ -80,7 +80,7 @@ sources:
   - title: "I Play Rocky trailer, cast and release date"
     url: "https://www.aboutamazon.com/news/entertainment/i-play-rocky-trailer-cast-release-date-amazon-mgm-studios"
     publisher: "Amazon"
-    date: "2026-11-13"
+    date: "2026-11-20"
   - title: "Season 6 - The Chosen TV Series"
     url: "https://thechosen.tv/explore/season-6"
     publisher: "The Chosen"
@@ -113,7 +113,7 @@ downloads:
 draft: false
 ---
 
-**Amazon's own announcements show "The Lord of the Rings: The Rings of Power" season 3 premiering on Prime Video on Wednesday, Nov. 11, 2026, and all eight episodes of "Blade Runner 2099" arriving on Wednesday, Nov. 25.** Every dated Prime Video title for November is listed here, with a free printable calendar.
+**Amazon's own announcements show "The Lord of the Rings: The Rings of Power" season 3 premiering on Prime Video on Wednesday, Nov. 11, 2026, with the final two episodes on Tuesday, Nov. 24, and all eight episodes of "Blade Runner 2099" arriving on Wednesday, Nov. 25.** Every dated Prime Video title for November is listed here, with a free printable calendar.
 
 ## What is new on Prime Video in November 2026?
 
@@ -122,17 +122,17 @@ Five titles have an Amazon date. The Chosen has a date on its official site, and
 | Day and date | Title | Type | Source |
 |---|---|---|---|
 | Wednesday, Nov. 4 | The Greatest | Series about Muhammad Ali, all eight episodes, streaming now | Amazon, updated Nov. 4, 2026 |
-| Wednesday, Nov. 11 | The Lord of the Rings: The Rings of Power (Season 3) | Series, first four episodes streaming now (episodes 5 and 6 on Nov. 18, final two on Nov. 25) | Amazon, updated Nov. 11, 2026 |
-| Sunday, Nov. 15 | The Chosen (Season 6) | Series, three episodes, then weekly through Dec. 6 | thechosen.tv and 5&2 Studios, Apr. 3, 2026 |
-| Wednesday, Nov. 18 | Madden | Film with Nicolas Cage, directed by David O. Russell | Amazon, updated Sept. 24, 2026 |
-| Friday, Nov. 20 | Perfect Liars | Film directed by Jesús Colmenar | Amazon, updated Oct. 20, 2026 |
+| Wednesday, Nov. 11 | The Lord of the Rings: The Rings of Power (Season 3) | Series, first six episodes streaming now (episodes 1 to 4 arrived Nov. 11, episodes 5 and 6 are out, final two on Tuesday, Nov. 24) | Amazon, updated Nov. 18, 2026 |
+| Sunday, Nov. 15 | The Chosen (Season 6) | Series, began with three episodes, then weekly through Dec. 6 | thechosen.tv and 5&2 Studios, Apr. 3, 2026 |
+| Wednesday, Nov. 18 | Madden | Film with Nicolas Cage, directed by David O. Russell, out now | Amazon, updated Sept. 24, 2026 |
+| Friday, Nov. 20 | Perfect Liars | Film directed by Jesús Colmenar, out now | Amazon, updated Oct. 20, 2026 |
 | Wednesday, Nov. 25 | Blade Runner 2099 | Series, all eight episodes | Amazon, updated Nov. 9, 2026 |
 
 Amazon says The Greatest will reach "more than 240 countries and territories worldwide." The dates here are U.S. dates and does not check other regions for the other titles.
 
 ## When does Rings of Power season 3 come out?
 
-Amazon says the first four episodes of season 3 "are streaming now" on Prime Video, on a page it updated Nov. 11, 2026. The page says "the fifth and sixth episodes will be available to stream on November 18," with "the final two episodes of the season releasing on November 25." That makes eight episodes in three drops (our tally). Amazon gave no release time.
+Amazon says "the first six episodes ... are streaming now exclusively on Prime Video" and "the final two episodes of the season release on November 24," on a page it updated Nov. 18, 2026. Nov. 24 is a Tuesday. The season began with four episodes on Nov. 11, and episodes 5 and 6 followed on Nov. 18, so the eight episodes arrive in three drops (our tally). Amazon gave no release time.
 
 ## When does Blade Runner 2099 come out?
 
@@ -144,15 +144,15 @@ Four of the five Amazon title dates are Wednesdays: Nov. 4, 11, 18 and 25. The f
 
 ## What are the two films?
 
-Amazon says "Madden will be available to stream globally starting November 18 on Prime Video." The film stars Nicolas Cage and is directed by David O. Russell. Amazon says "Perfect Liars premieres exclusively on Prime Video on November 20 worldwide." Jesús Colmenar directed it. Black Friday is the following Friday, Nov. 27; see [when Black Friday falls](/when-is/black-friday/).
+Amazon said "Madden will be available to stream globally starting November 18 on Prime Video," and the film is out now. The film stars Nicolas Cage and is directed by David O. Russell. Amazon said "Perfect Liars premieres exclusively on Prime Video on November 20 worldwide," and the film is out now. Jesús Colmenar directed it. Black Friday is the following Friday, Nov. 27; see [when Black Friday falls](/when-is/black-friday/).
 
 ## What is not on Prime Video in November?
 
-Amazon says "I Play Rocky is out now in limited theaters" and "will be in theaters everywhere later in November," on a page it updated Nov. 13, 2026. Amazon has announced no Prime Video date for it, so it is not in the table.
+Amazon says "The film is out now in theaters globally," on a page it updated Nov. 20, 2026. Amazon has announced no Prime Video date for it, so it is not in the table.
 
 ## Is The Chosen season 6 on Prime Video?
 
-Yes. The official site thechosen.tv says "Season 6 will stream on Prime Video starting November 15th, 2026." A 5&2 Studios press release dated Apr. 3, 2026 says the season "will debut three episodes on November 15, followed by the release of a weekly episode through December 6." Weekly episodes therefore fall on Sundays, Nov. 22 and 29 and Dec. 6 (our weekday check). BroadwayWorld reported on Oct. 15, 2026 that the season has six episodes.
+Yes. The official site thechosen.tv said "Season 6 will stream on Prime Video starting November 15th, 2026." A 5&2 Studios press release dated Apr. 3, 2026 says the season "will debut three episodes on November 15, followed by the release of a weekly episode through December 6." The season began Nov. 15. Weekly episodes therefore fall on Sundays, Nov. 22 and 29 and Dec. 6 (our weekday check). BroadwayWorld reported on Oct. 15, 2026 that the season has six episodes.
 
 ## Print the Prime Video November 2026 calendar
 
@@ -160,4 +160,4 @@ The printable puts six titles, with the Rings of Power and The Chosen follow-up 
 
 ## How we keep this accurate
 
-The dates come from Amazon's announcements for each title, checked Nov. 14, 2026, plus the official site and press release for The Chosen. If Amazon changes a date, this story, the table and the printable will change together.
+The dates come from Amazon's announcements for each title, checked Nov. 21, 2026, plus the official site and press release for The Chosen. If Amazon changes a date, this story, the table and the printable will change together.

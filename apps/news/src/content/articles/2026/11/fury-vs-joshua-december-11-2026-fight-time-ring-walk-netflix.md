@@ -3,7 +3,7 @@ title: "Fury vs Joshua Time: Dec. 11, Planned Ring Walk 8 p.m. ET"
 description: "Fury vs Joshua is Fri., Dec. 11, 2026 in Cardiff on Netflix. Planned ring walk about 8 p.m. ET, with the Wilder undercard and a time zone table."
 type: explainer
 publishedAt: "2026-11-04T06:40:00-05:00"
-updatedAt: "2026-11-14T01:14:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["fury vs joshua date", "fury joshua fight time", "fury vs joshua ring walk", "fury vs joshua netflix", "fury vs joshua time zones"]
@@ -108,7 +108,7 @@ draft: false
 
 ## Fury vs Joshua date, venue and who has confirmed it
 
-Netflix's Tudum page, updated Nov. 11, 2026, calls the fight official for Friday, Dec. 11, 2026, at Principality Stadium. Matchroom Boxing's events list shows "Fury vs Joshua: 11 Dec, Principality Stadium, Cardiff, UK". The stadium's own event page lists the night of Dec. 11 and says the bout is scheduled for the early hours of the morning, after a full night of boxing.
+Netflix's Tudum page, updated Nov. 11, 2026, calls the fight official for Friday, Dec. 11, 2026, at Principality Stadium. Matchroom Boxing's events list shows "Fury vs Joshua: 11 Dec, Principality Stadium, Cardiff, UK". The stadium's own event page lists the event from 17:00 on Fri., 11 Dec (Cardiff time, 12 p.m. ET) and puts the main event in the early hours of the next morning, following a full night of boxing.
 
 ## Fury vs Joshua fight card
 

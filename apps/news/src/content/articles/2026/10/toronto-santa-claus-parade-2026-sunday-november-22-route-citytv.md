@@ -1,9 +1,9 @@
 ---
 title: "Toronto Santa Claus Parade 2026: Sunday, Nov. 22 at 12:30 p.m. ET"
-description: "The Toronto Santa Claus Parade is Sunday, Nov. 22, 2026 at 12:30 p.m. ET on a new route from Christie Pits, on Citytv at 2 p.m. Ottawa's is Nov. 21."
+description: "The Toronto Santa Claus Parade is Sunday, Nov. 22, 2026 at 12:30 p.m. ET on a new route from Christie Pits, on Citytv at 2 p.m. Ottawa's was Nov. 21."
 type: news
 publishedAt: "2026-10-28T13:50:00-04:00"
-updatedAt: "2026-11-14T01:20:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["toronto santa claus parade 2026", "santa claus parade 2026 date", "when is the santa claus parade toronto", "ottawa santa parade 2026"]
@@ -19,8 +19,8 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Santa_Claus_Parade_plaque.jpg"
     author: "Tabercil"
 summary:
-  - "The Original Santa Claus Parade in Toronto returns for its 122nd year on Sunday, Nov. 22, 2026, according to thesantaclausparade.com, and will air on Citytv and stream on Citytv+."
-  - "Ottawa's Help Santa Toy Parade is Saturday, Nov. 21, 2026, at 11 a.m. Eastern Time (ET), its 57th year, according to toyparade.ca."
+  - "The Original Santa Claus Parade in Toronto returns for its 122nd year tomorrow, Sunday, Nov. 22, 2026, according to thesantaclausparade.com, and will air on Citytv and stream on Citytv+."
+  - "Ottawa's Help Santa Toy Parade was Saturday, Nov. 21, 2026, at 11 a.m. Eastern Time (ET), its 57th year, according to toyparade.ca."
   - "The Toronto parade starts at 12:30 p.m. Eastern Time (ET) at Christie Pits and airs on Citytv at 2:00 p.m. ET, according to the organizers, who published a new 2026 route that ends at the St. Lawrence Market."
   - "The 5k Holly Jolly Fun Run leads the Toronto parade and starts at 11:45 a.m. ET, according to the organizers."
 faq:
@@ -31,7 +31,7 @@ faq:
   - q: "What is the Toronto Santa Claus Parade route for 2026?"
     a: "A new route, according to the organizers' Nov. 5 news release: from Christie Pits (750 Bloor St. W.) east on Bloor St. to Yonge St., south to Richmond St., west on Richmond, south on University Ave., east on Wellington St., south on Bay St. and east on Front St. to the St. Lawrence Market at Jarvis St."
   - q: "When is the Ottawa Santa parade in 2026?"
-    a: "The Help Santa Toy Parade is on Saturday, Nov. 21, 2026, at 11 a.m. ET, according to toyparade.ca. It starts at Queen Elizabeth Driveway and Somerset St. W., heading southbound, and ends at Lansdowne Park and TD Place."
+    a: "The Help Santa Toy Parade was on Saturday, Nov. 21, 2026, at 11 a.m. ET, according to toyparade.ca. It started at Queen Elizabeth Driveway and Somerset St. W., heading southbound, and ended at Lansdowne Park and TD Place."
 sources:
   - title: "The Santa Claus Parade"
     url: "https://www.thesantaclausparade.com/"
@@ -88,7 +88,7 @@ assets:
   overlay: true
   kicker: "Santa Claus Parade · Sun., Nov. 22, 2026"
   date: "2026-11-22"
-  card: { top: "Toronto parade, 122nd year", big: "Sun., Nov. 22", bottom: "Ottawa's parade is Sat., Nov. 21, 11 a.m. ET" }
+  card: { top: "Toronto parade, 122nd year", big: "Sun., Nov. 22", bottom: "Ottawa's parade was Sat., Nov. 21, 11 a.m. ET" }
   printable:
     slug: santa-claus-parade-2026-toronto-ottawa-checklist
     group: santa-claus-parade-2026
@@ -97,8 +97,8 @@ assets:
     noKit: "Two-city day planner built from the organizers' own times; the sheet gives no kit data."
     layout: timeline
     rows:
-      - ["Sat., Nov. 21, 11 a.m.", "Ottawa Help Santa Toy Parade starts at Queen Elizabeth Driveway and Somerset St. W."]
-      - ["Sat., Nov. 21", "Ottawa parade ends at Lansdowne Park and TD Place"]
+      - ["Sat., Nov. 21, 11 a.m.", "Ottawa Help Santa Toy Parade started at Queen Elizabeth Driveway and Somerset St. W."]
+      - ["Sat., Nov. 21", "Ottawa parade ended at Lansdowne Park and TD Place"]
       - ["Sun., Nov. 22", "Road closures from 6 a.m. (Queens Park) to 7 p.m. downtown; list on thesantaclausparade.com; transit notices not yet posted"]
       - ["Sun., Nov. 22, 11:45 a.m.", "Toronto 5k Holly Jolly Fun Run leads the parade; gather at 300 Bloor St. W."]
       - ["Sun., Nov. 22, 12:30 p.m.", "Toronto parade starts at Christie Pits on a new route and ends at the St. Lawrence Market"]
@@ -108,7 +108,7 @@ assets:
     alt: "Printable Santa Claus Parade 2026 planner for Toronto and Ottawa."
 ---
 
-**The 122nd Santa Claus Parade in Toronto is on Sunday, Nov. 22, 2026**, according to the parade's official website, thesantaclausparade.com. The parade follows a new route this year. Ottawa's Help Santa Toy Parade comes a day earlier, on Saturday, Nov. 21, at 11 a.m. Eastern Time (ET), according to toyparade.ca; see our [Ottawa Santa Claus Parade story](/news/ottawa-santa-claus-parade-2026-november-21-route-time/) for its route. Toronto and Ottawa are both on ET, which is Eastern Standard Time after Nov. 1.
+**The 122nd Santa Claus Parade in Toronto is tomorrow, Sunday, Nov. 22, 2026**, according to the parade's official website, thesantaclausparade.com. The parade follows a new route this year. Ottawa's Help Santa Toy Parade was a day earlier, on Saturday, Nov. 21, at 11 a.m. Eastern Time (ET), according to toyparade.ca; see our [Ottawa Santa Claus Parade story](/news/ottawa-santa-claus-parade-2026-november-21-route-time/) for its route. Toronto and Ottawa are both on ET, which is Eastern Standard Time after Nov. 1.
 
 Both parades are in one table below, with the new Toronto route, the organizers' posted road closures, what is still to be announced, and a one-page planner you can print.
 
@@ -117,7 +117,7 @@ Both parades are in one table below, with the new Toronto route, the organizers'
 | | Toronto | Ottawa |
 |---|---|---|
 | Parade | The Original Santa Claus Parade, 122nd year | Help Santa Toy Parade, 57th year |
-| Date | Sunday, Nov. 22, 2026 | Saturday, Nov. 21, 2026 |
+| Date | Sunday, Nov. 22, 2026 (tomorrow) | Saturday, Nov. 21, 2026 (held) |
 | Start time | 12:30 p.m. ET | 11 a.m. ET |
 | Start point | Christie Pits, 750 Bloor St. W. | Queen Elizabeth Driveway at Somerset St. W., southbound |
 | End point | St. Lawrence Market at Jarvis St. | Lansdowne Park and TD Place |

@@ -1,9 +1,9 @@
 ---
 title: "MotoGP 2026 Remaining Races: Portugal Nov. 22, Valencia Nov. 29"
-description: "Two MotoGP rounds are left in 2026: Portugal Nov. 20-22 and Valencia Nov. 27-29. Marquez leads by 60 points. Times in ET and UK, plus a printable."
+description: "Two MotoGP rounds were left after Qatar: Portugal Nov. 20-22 and Valencia Nov. 27-29. Marquez led by 60 points. Times in ET and UK, plus a printable."
 type: explainer
 publishedAt: "2026-10-30T17:43:00-04:00"
-updatedAt: "2026-11-13T16:13:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["motogp 2026 remaining races schedule", "motogp valencia 2026 race time", "motogp qatar 2026 time et", "motogp portugal 2026 schedule", "last motogp race 2026"]
@@ -19,8 +19,8 @@ hero:
     author: "Box Repsol"
 summary:
   - "Qatar is done (Marco Bezzecchi won, Marc Marquez was second). Two rounds remain: Portugal on Nov. 20-22 and Valencia on Nov. 27-29, 2026."
-  - "The title is not decided. Marquez leads Jorge Martin by 60 points with 74 left, and MotoGP says he is champion if he wins the Portugal Sprint on Nov. 21."
-  - "By our conversion the Portugal race is 8 a.m. ET Sunday, Nov. 22 and the Valencia finale is 8 a.m. ET Sunday, Nov. 29."
+  - "After Qatar, Marquez led Jorge Martin by 60 points with 74 left, and MotoGP said he would be champion if he won the Portugal Sprint on Nov. 21, which was brought forward to 14:30 local time (9:30 a.m. ET)."
+  - "By our conversion the Portugal race is 8 a.m. ET Sunday, Nov. 22, after a Warm Up at 4 a.m. ET, and the Valencia finale is 8 a.m. ET Sunday, Nov. 29."
   - "The Valencia weekend falls on U.S. Thanksgiving weekend: Free Practice 1 (FP1) is on Black Friday, Nov. 27."
 faq:
   - q: "When is the last MotoGP race of 2026?"
@@ -28,9 +28,9 @@ faq:
   - q: "Who won the MotoGP Qatar race in 2026?"
     a: "Marco Bezzecchi (Aprilia Racing) won the Qatar Airways Grand Prix of Qatar on Sunday, Nov. 8, with Marc Marquez second and Raul Fernandez third, MotoGP reported. Marquez won the Sprint on Saturday, Nov. 7."
   - q: "Is the 2026 MotoGP title decided?"
-    a: "Not yet. After Qatar, Marc Marquez leads Jorge Martin by 60 points and Bezzecchi by 74 with 74 points left, MotoGP says. Marquez is champion if he wins the Portugal Sprint on Nov. 21."
+    a: "After Qatar, Marc Marquez led Jorge Martin by 60 points and Bezzecchi by 74 with 74 points left, MotoGP said, and he would be champion if he won the Portugal Sprint on Nov. 21. That Sprint has been run, at 14:30 local time (9:30 a.m. ET) after MotoGP brought it forward; check motogp.com for the result."
   - q: "What time is the MotoGP Portugal race in 2026?"
-    a: "The Portuguese Grand Prix is at 13:00 local time at Portimão on Sunday, Nov. 22, 2026, per MotoGP. That is 8 a.m. EST, 5 a.m. PST and 1 p.m. GMT."
+    a: "The Portuguese Grand Prix is at 13:00 local time at Portimão on Sunday, Nov. 22, 2026, per MotoGP. That is 8 a.m. EST, 5 a.m. PST and 1 p.m. GMT. The Warm Up starts earlier than normal, at 09:00 local time (4 a.m. EST), according to MotoGP's updated schedule."
   - q: "How many MotoGP rounds are left after Qatar?"
     a: "Two: Portugal (round 21) and Valencia (round 22), according to MotoGP's calendar."
   - q: "Where can I watch the remaining MotoGP races?"
@@ -39,6 +39,10 @@ sources:
   - title: "2026 Calendar"
     url: "https://www.motogp.com/en/calendar"
     publisher: "MotoGP (Dorna Sports)"
+  - title: "UPDATED TIME SCHEDULE: Repsol Grand Prix of Portugal"
+    url: "https://www.motogp.com/en/news/2026/11/16/portuguese-gp-time-schedule/1185224"
+    publisher: "MotoGP"
+    date: "2026-11-16"
   - title: "Qatar tickets and event dates"
     url: "https://tickets.motogp.com/en/21111-qatar/"
     publisher: "MotoGP"
@@ -101,12 +105,13 @@ assets:
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Sat., Nov. 21 · Portugal Q2, 11:15", "6:15 a.m. EST / 11:15 a.m. GMT"]
-      - ["Sat., Nov. 21 · Portugal Sprint, 15:00", "10:00 a.m. EST / 3:00 p.m. GMT"]
+      - ["Sat., Nov. 21 · Portugal Sprint, 14:30", "9:30 a.m. EST / 2:30 p.m. GMT"]
+      - ["Sun., Nov. 22 · Portugal Warm Up, 09:00", "4:00 a.m. EST / 9:00 a.m. GMT"]
       - ["Sun., Nov. 22 · Portugal race, 13:00", "8:00 a.m. EST / 1:00 p.m. GMT"]
       - ["Sat., Nov. 28 · Valencia Q2, 11:15", "5:15 a.m. EST / 10:15 a.m. GMT"]
       - ["Sat., Nov. 28 · Valencia Sprint, 15:00", "9:00 a.m. EST / 2:00 p.m. GMT"]
       - ["Sun., Nov. 29 · Valencia race, 14:00", "8:00 a.m. EST / 1:00 p.m. GMT"]
-    note: "Source: MotoGP official 2026 calendar and timetable (motogp.com)"
+    note: "Source: MotoGP official 2026 calendar and timetable; Portugal Sprint and Warm Up per MotoGP's updated schedule, Nov. 16 (motogp.com)"
     description: "A one-page sheet with the MotoGP 2026 Q2, Sprint and race times for Portugal and Valencia in Eastern and UK time."
     alt: "MotoGP 2026 final rounds sheet with Q2, Sprint and race times for Portugal and Valencia in Eastern and UK time"
 downloads:
@@ -121,7 +126,7 @@ downloads:
 draft: false
 ---
 
-**Qatar (round 20) is over, and two rounds remain in the 2026 MotoGP season, according to MotoGP's official calendar: Portugal on Nov. 20-22 and the Valencia finale on Nov. 27-29.** Marc Marquez leads the championship by 60 points with 74 left, so the title is not yet decided. The table below converts every remaining MotoGP session to Eastern Time (ET), Pacific Time (PT) and UK time. Our [MotoGP Malaysia 2026 race time story](/news/motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones/) has the full Sepang schedule.
+**Qatar (round 20) is over, and two rounds remain in the 2026 MotoGP season, according to MotoGP's official calendar: Portugal on Nov. 20-22 and the Valencia finale on Nov. 27-29.** Marc Marquez leads the championship by 60 points with 74 left, so the title is not yet decided. The table below converts the Portugal and Valencia sessions to Eastern Time (ET), Pacific Time (PT) and UK time. Our [MotoGP Malaysia 2026 race time story](/news/motogp-malaysia-2026-race-time-sprint-schedule-us-time-zones/) has the full Sepang schedule.
 
 ## Which MotoGP rounds are left in 2026?
 
@@ -137,7 +142,7 @@ UTC is Coordinated Universal Time. Portimão runs on UK time in late November, s
 
 ## What are the MotoGP session times in ET, PT and UK time?
 
-The local times are from MotoGP's official timetable; the ET, PT and UK columns are our conversion. Qatar has been run, so only Portugal and Valencia are listed. U.S. clocks changed on Nov. 1, so both rounds use standard time in the United States (EST and Pacific Standard Time, PST), and the UK is on Greenwich Mean Time (GMT). The day shown is the same in every column. The abbreviations FP1 and FP2 mean Free Practice, and Q1 and Q2 mean the two qualifying sessions.
+The local times are from MotoGP's official timetable; the ET, PT and UK columns are our conversion. Qatar has been run, so only Portugal and Valencia are listed. Portugal's Friday and Saturday sessions have been run; MotoGP's updated schedule of Nov. 16 brought the Saturday Sprint forward and set the Sunday Warm Up earlier than normal. U.S. clocks changed on Nov. 1, so both rounds use standard time in the United States (EST and Pacific Standard Time, PST), and the UK is on Greenwich Mean Time (GMT). The day shown is the same in every column. The abbreviations FP1 and FP2 mean Free Practice, and Q1 and Q2 mean the two qualifying sessions.
 
 | Session | Local | ET (EST) | PT (PST) | UK (GMT) |
 |---|---|---|---|---|
@@ -147,8 +152,8 @@ The local times are from MotoGP's official timetable; the ET, PT and UK columns 
 | FP2, Sat., Nov. 21 | 10:10 | 5:10 a.m. | 2:10 a.m. | 10:10 a.m. |
 | Q1, Sat., Nov. 21 | 10:50 | 5:50 a.m. | 2:50 a.m. | 10:50 a.m. |
 | Q2, Sat., Nov. 21 | 11:15 | 6:15 a.m. | 3:15 a.m. | 11:15 a.m. |
-| Sprint, Sat., Nov. 21 | 15:00 | 10:00 a.m. | 7:00 a.m. | 3:00 p.m. |
-| Warm Up, Sun., Nov. 22 | 09:40 | 4:40 a.m. | 1:40 a.m. | 9:40 a.m. |
+| Sprint, Sat., Nov. 21 | 14:30 | 9:30 a.m. | 6:30 a.m. | 2:30 p.m. |
+| Warm Up, Sun., Nov. 22 | 09:00 | 4:00 a.m. | 1:00 a.m. | 9:00 a.m. |
 | Race, Sun., Nov. 22 | 13:00 | 8:00 a.m. | 5:00 a.m. | 1:00 p.m. |
 | **Valencia** | | | | |
 | FP1, Fri., Nov. 27 | 10:45 | 4:45 a.m. | 1:45 a.m. | 9:45 a.m. |
@@ -174,7 +179,7 @@ Qatar was postponed from earlier in 2026. Crash.net reported on Mar. 16, 2026, t
 
 ## What time is the MotoGP Portugal race?
 
-The Repsol Grand Prix of Portugal at Portimão starts at 13:00 local time on Sunday, Nov. 22, per MotoGP. That is 8 a.m. ET, 5 a.m. PT and 1 p.m. UK time. The Sprint is at 15:00 on Saturday, Nov. 21, which is 10 a.m. ET, and Q2 is at 11:15 local time, 6:15 a.m. ET.
+The Repsol Grand Prix of Portugal at Portimão starts at 13:00 local time on Sunday, Nov. 22, per MotoGP. That is 8 a.m. ET, 5 a.m. PT and 1 p.m. UK time. The Warm Up starts at 09:00 local time on Sunday, 4 a.m. ET, earlier than normal, per MotoGP. The Sprint on Saturday, Nov. 21, was brought forward to 14:30 local time, 9:30 a.m. ET, and Q2 was at 11:15 local time, 6:15 a.m. ET.
 
 ## What time is the Valencia finale?
 
@@ -186,9 +191,9 @@ The Valencia weekend is Thanksgiving weekend in the United States. Thanksgiving 
 
 ## Is the 2026 MotoGP title still open?
 
-Yes, but Marc Marquez can end it in Portugal. MotoGP reports he leads Jorge Martin by 60 points and Marco Bezzecchi by 74, with 74 points left: 37 at each of the two remaining rounds. MotoGP's report on the Qatar race says that if Marquez wins the Sprint in Portimão on Saturday, Nov. 21, he is crowned 2026 World Champion.
+After Qatar the title was open, and Marc Marquez could end it in Portugal. MotoGP reported he led Jorge Martin by 60 points and Marco Bezzecchi by 74, with 74 points left: 37 at each of the two remaining rounds. MotoGP's report on the Qatar race said that if Marquez won the Sprint in Portimão on Saturday, Nov. 21, he would be crowned 2026 World Champion. The Sprint has been run; check motogp.com for the result.
 
-Martin's route, per MotoGP: he needs to outscore Marquez by 24 points over the Portugal weekend to keep the fight alive for Valencia, and countback does not help him, because Marquez has seven Grand Prix wins to his one. If Marquez does not clinch in the Sprint, Sunday's race on Nov. 22 is the next chance.
+Martin's route, per MotoGP: he needed to outscore Marquez by 24 points over the Portugal weekend to keep the fight alive for Valencia, and countback did not help him, because Marquez had seven Grand Prix wins to his one. If Marquez did not clinch in the Sprint, Sunday's race on Nov. 22 is the next chance.
 
 ## Where can you watch the last two MotoGP rounds?
 
