@@ -1,6 +1,6 @@
 ---
 title: "Build-A-Bear Black Friday 2026: 30% Off Ends Nov. 25, Advent $29"
-description: "Build-A-Bear's 30% off furry friends ends Nov. 25 at 11:59 p.m. CST. Every sale end date in one table, plus 2026 Christmas order-by dates by shipping method."
+description: "Build-A-Bear's 30% off furry friends ends Nov. 25 at 11:59 p.m. CST. Every sale end date in a table, plus 2026 Christmas order-by dates by shipping method."
 type: news
 publishedAt: "2026-11-21T06:00:00-05:00"
 authors: [jessica-hartwell]

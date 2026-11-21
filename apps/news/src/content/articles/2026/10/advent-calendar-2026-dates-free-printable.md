@@ -61,7 +61,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day"
-related: [lego-advent-calendars-2026-prices-whats-inside, build-a-bear-black-friday-2026-deals-november-21-30, cookie-exchange-2026-planner-printable-sign-up-sheet]
+related: [lego-advent-calendars-2026-prices-whats-inside, cookie-exchange-2026-planner-printable-sign-up-sheet, elf-on-the-shelf-2026-arrival-ideas-calendar-printable]
 downloads:
   - group: "Advent calendar 2026 printables"
     title: "Advent Calendar 2026 Countdown"
