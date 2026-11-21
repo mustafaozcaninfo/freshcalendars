@@ -598,6 +598,13 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-crossword-answers-november-21-2026", "crossword", "#172033", "#86efac", "NYT Crossword · Sat., Nov. 21, 2026", "NYT Crossword answers", "A hint for every clue first, the full solved grid at the end.", "nyt-crossword-november-21-a"],
   ["nyt-letter-boxed-answer-hints-november-23-2026", "letterboxed", "#3d1f1a", "#fca5a5", "Letter Boxed · Mon., Nov. 23, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-23-a"],
   ["contexto-answer-hints-november-26-2026-1530", "contexto", "#0f172a", "#86efac", "Contexto #1530 · Thu., Nov. 26, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-26-a"],
+  ["wordle-hint-answer-today-december-3-2026-1993", "wordle", "#121213", "#c9b458", "Wordle #1993 · Thu., Dec. 3, 2026", "Wordle hints today", "Clues from gentle to strong, the answer only at the end.", "wordle-december-3-a"],
+  ["nyt-connections-hints-answers-december-3-2026-1271", "connections", "#1e1a3a", "#f9df6d", "Connections #1271 · Thu., Dec. 3, 2026", "Connections hints", "Two hints for every group first, answers only at the end.", "nyt-connections-december-3-a"],
+  ["nyt-strands-hints-answers-december-3-2026-1005", "strands", "#0f2f3a", "#86efac", "Strands #1005 · Thu., Dec. 3, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end.", "nyt-strands-december-3-a"],
+  ["nyt-pips-hints-answers-december-3-2026", "pips", "#1e293b", "#fdba74", "Pips · Thu., Dec. 3, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-december-3-a"],
+  ["nyt-spelling-bee-hints-answers-december-3-2026", "bee", "#1c1917", "#facc15", "Spelling Bee · Thu., Dec. 3, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end.", "nyt-bee-december-3-a"],
+  ["nyt-letter-boxed-answer-hints-november-24-2026", "letterboxed", "#3d1f1a", "#93c5fd", "Letter Boxed · Tue., Nov. 24, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-24-a"],
+  ["contexto-answer-hints-november-27-2026-1531", "contexto", "#0f172a", "#fca5a5", "Contexto #1531 · Fri., Nov. 27, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-27-a"],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
