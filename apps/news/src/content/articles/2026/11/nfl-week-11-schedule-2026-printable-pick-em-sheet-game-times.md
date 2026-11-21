@@ -3,7 +3,7 @@ title: "NFL Week 11 Schedule 2026: 13 Games, Nov. 19-23, Pick'em Sheet"
 description: "NFL Week 11 schedule 2026: 13 games, Nov. 19 to 23, with ET and PT kickoffs and TV. Vikings at 49ers in Mexico City is Nov. 22; printable pick'em sheet."
 type: news
 publishedAt: "2026-10-30T13:43:00-04:00"
-updatedAt: "2026-11-13T15:12:00-05:00"
+updatedAt: "2026-11-21T15:43:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Week 11 schedule 2026", "NFL Week 11 pick em sheet printable", "NFL schedule November 22 2026", "Vikings 49ers Mexico City time"]
@@ -21,7 +21,7 @@ assets:
     layout: list
     noKit: "printable predates the kits; a silent update keeps its list layout and changes two kickoff times only"
     rows:
-      - ["Thu., Nov. 19 · 8:15 p.m.", "Colts at Texans (Prime Video)  Pick: ______  Score: ______"]
+      - ["Thu., Nov. 19 · 8:15 p.m.", "Colts at Texans (Prime Video), played  Pick: ______  Score: ______"]
       - ["Sun., Nov. 22 · 1:00 p.m.", "Dolphins at Bills (CBS)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 22 · 1:00 p.m.", "Ravens at Panthers (FOX)  Pick: ______  Score: ______"]
       - ["Sun., Nov. 22 · 1:00 p.m.", "Saints at Bears (FOX)  Pick: ______  Score: ______"]
@@ -103,7 +103,7 @@ related: [nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times, printabl
 draft: false
 ---
 
-**The National Football League (NFL) plays 13 Week 11 games from Thursday, Nov. 19 to Monday, Nov. 23, 2026, including Vikings at 49ers in Mexico City at 8:20 p.m. Eastern Time (ET) on Sunday, Nov. 22, according to NFL.com.** The page lists all 13 games with networks and kickoffs in ET and Pacific Time (PT), converts the Mexico City game for nine time zones, compares rest days across the week, and links a printable pick'em sheet that ends in a Monday tiebreaker.
+**The National Football League (NFL) has 13 Week 11 games from Thursday, Nov. 19 (played) to Monday, Nov. 23, 2026, including Vikings at 49ers in Mexico City at 8:20 p.m. Eastern Time (ET) on Sunday, Nov. 22, according to NFL.com.** The page lists all 13 games with networks and kickoffs in ET and Pacific Time (PT), converts the Mexico City game for nine time zones, compares rest days across the week, and links a printable pick'em sheet that ends in a Monday tiebreaker.
 
 ## What is the NFL Week 11 schedule for 2026?
 
@@ -111,7 +111,7 @@ The 13 games below are from NFL.com and use ET. Twenty-six teams play. The Atlan
 
 | Day | Kickoff (ET) | Game | TV |
 |---|---|---|---|
-| Thu., Nov. 19 | 8:15 p.m. | Colts at Texans | Prime Video |
+| Thu., Nov. 19 (played) | 8:15 p.m. | Colts at Texans | Prime Video |
 | Sun., Nov. 22 | 1 p.m. | Dolphins at Bills | CBS |
 | Sun., Nov. 22 | 1 p.m. | Ravens at Panthers | FOX |
 | Sun., Nov. 22 | 1 p.m. | Saints at Bears | FOX |
@@ -131,7 +131,7 @@ Pacific times here are our own conversion of the NFL.com ET kickoff and are not 
 
 | Window | Games | ET | PT |
 |---|---|---|---|
-| Thu., Nov. 19 | Colts at Texans | 8:15 p.m. | 5:15 p.m. |
+| Thu., Nov. 19 (played) | Colts at Texans | 8:15 p.m. | 5:15 p.m. |
 | Sun., Nov. 22 | Seven games | 1:00 p.m. | 10:00 a.m. |
 | Sun., Nov. 22 | Jets at Chargers | 4:05 p.m. | 1:05 p.m. |
 | Sun., Nov. 22 | Two games | 4:25 p.m. | 1:25 p.m. |
@@ -158,7 +158,7 @@ Our [NFL international games story](/news/nfl-international-games-november-2026-
 
 ## Can the Week 11 Sunday times still change?
 
-Yes, for Sunday. The NFL's flexible scheduling procedures say that for Sunday Night Football, "the NFL will decide and announce no later than 12 days in advance of the game" in Weeks 5 to 13. Counting back from Nov. 22, that is Tuesday, Nov. 10, 2026, by our calculation. The same page says flexing can be used in any week from Week 11 to 17, so Sunday kickoffs and networks may move. Monday flexing starts in Week 12 and Thursday flexing in Week 13, so the Thursday game on Nov. 19 and Monday game on Nov. 23 are not eligible. Check NFL.com before game day.
+Yes, for Sunday. The NFL's flexible scheduling procedures say that for Sunday Night Football, "the NFL will decide and announce no later than 12 days in advance of the game" in Weeks 5 to 13. Counting back from Nov. 22, that is Tuesday, Nov. 10, 2026, by our calculation. The same page says flexing can be used in any week from Week 11 to 17, so Sunday kickoffs and networks may move. Monday flexing starts in Week 12 and Thursday flexing in Week 13, so the Thursday game, played on Nov. 19, and the Monday game on Nov. 23 are not eligible. Check NFL.com before game day.
 
 ## Why does NFL Week 11 have only 13 games?
 
@@ -166,7 +166,7 @@ Six teams are on bye in Week 11: the Atlanta Falcons, Cleveland Browns, Green Ba
 
 ## Week 11 rest: Colts and Texans on four days, four teams back from bye
 
-Thursday's Colts at Texans game has the shortest gap of Week 11. Both teams played Sunday, Nov. 15, four days earlier. The Baltimore Ravens and Los Angeles Chargers met on Monday, Nov. 16 and have six days. The New York Giants and Washington Commanders both played Thursday, Nov. 12, so the Giants wait 10 days and the Commanders, who close the week on Monday, Nov. 23, wait 11. The Chicago Bears, Tampa Bay Buccaneers, Denver Broncos and Philadelphia Eagles last played on Nov. 8 and return after 14 days, because all four were on bye in Week 10.
+Thursday's Colts at Texans game had the shortest gap of Week 11. Both teams had played Sunday, Nov. 15, four days earlier. The Baltimore Ravens and Los Angeles Chargers met on Monday, Nov. 16 and have six days. The New York Giants and Washington Commanders both played Thursday, Nov. 12, so the Giants wait 10 days and the Commanders, who close the week on Monday, Nov. 23, wait 11. The Chicago Bears, Tampa Bay Buccaneers, Denver Broncos and Philadelphia Eagles last played on Nov. 8 and return after 14 days, because all four were on bye in Week 10.
 
 | Team | Previous game | Days of rest | Week 11 game (ET) |
 |---|---|---|---|
@@ -185,7 +185,7 @@ Days of rest are calendar days between the two dates, counted by us from the NFL
 
 ## Is there a printable NFL Week 11 pick'em sheet?
 
-Yes. The single-page PDF orders the 13 games by start time, shows the network on each line, and leaves a blank for your pick and one for the score. The last line is the tiebreaker, the combined points in Monday's Bengals at Commanders game. Stick it by the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html) and fill in your picks before Thursday's opener. Week 12 lands in Thanksgiving week; see [when is Thanksgiving](/when-is/thanksgiving/) and our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/).
+Yes. The single-page PDF orders the 13 games by start time, shows the network on each line, and leaves a blank for your pick and one for the score. The last line is the tiebreaker, the combined points in Monday's Bengals at Commanders game. Stick it by the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html) and fill in your picks before Sunday's games; the Thursday game has been played. Week 12 lands in Thanksgiving week; see [when is Thanksgiving](/when-is/thanksgiving/) and our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/).
 
 ## Which games are on Sunday, Nov. 22?
 
