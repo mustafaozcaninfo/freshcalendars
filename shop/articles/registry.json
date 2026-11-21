@@ -331,16 +331,16 @@
   ],
   "prices": {
    "118": 33.5,
-   "191": 56.08,
-   "196": 7.58,
-   "203": 13.99,
-   "212": 8.99,
+   "191": 43.18,
+   "196": 6.64,
+   "203": 9.99,
+   "212": 6.99,
    "234": 11.99,
-   "249": 12.99,
+   "249": 13.99,
    "281": 40.99,
    "282": 9.97
   },
-  "price_checked": "2026-11-13"
+  "price_checked": "2026-11-21"
  },
  {
   "slug": "planner-dates-and-holidays",
@@ -7470,6 +7470,1726 @@
    "5568": 28.61,
    "5590": 37.51,
    "5605": 18.99
+  }
+ },
+ {
+  "slug": "march-calendar",
+  "id": 189,
+  "title": "March 2027 Calendar: Starts Monday, Easter on March 28",
+  "type": "dates",
+  "primary_query": "march 2027 calendar",
+  "cluster": "march-calendar",
+  "products": [
+   935,
+   941,
+   1403,
+   1404,
+   2215,
+   2983,
+   4936
+  ],
+  "h2": [
+   "March 2027 calendar grid with ISO week numbers",
+   "Why March 2027 fills five rows on both calendar layouts",
+   "Holidays and observances in March 2027",
+   "How many working days are in March 2027?",
+   "2027 wall calendars ranked by cost per month left in March",
+   "When does daylight saving time start in March 2027?",
+   "Is Easter in March or April in 2027?",
+   "Where to get a free printable March 2027 calendar"
+  ],
+  "related": [
+   "february-calendar",
+   "april-calendar",
+   "best-wall-calendars"
+  ],
+  "image": "https://images.pexels.com/photos/29509486/pexels-photo-29509486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T20:18:36.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "935": 6.99,
+   "941": 12.99,
+   "1403": 9.99,
+   "1404": 7.99,
+   "2215": 16.5,
+   "2983": 16.89,
+   "4936": 14.99
+  }
+ },
+ {
+  "slug": "april-calendar",
+  "id": 190,
+  "title": "April 2027 Calendar: Starts Thursday, No Federal Holiday",
+  "type": "dates",
+  "primary_query": "april 2027 calendar",
+  "cluster": "april-calendar",
+  "products": [
+   610,
+   613,
+   614,
+   680,
+   683,
+   3623,
+   4777
+  ],
+  "h2": [
+   "April 2027 calendar grid with ISO week numbers",
+   "Does April 2027 take five rows or six on a calendar?",
+   "Holidays and observances in April 2027",
+   "How many working days are in April 2027?",
+   "2027 desk calendars by cost per month left on April 1",
+   "What day of the week does April 1, 2027 fall on?",
+   "When is Earth Day in April 2027?",
+   "Where to get a free printable April 2027 calendar"
+  ],
+  "related": [
+   "march-calendar",
+   "may-calendar",
+   "best-wall-calendars"
+  ],
+  "image": "https://images.pexels.com/photos/29509491/pexels-photo-29509491.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T20:19:03.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "610": 7.19,
+   "613": 5.77,
+   "614": 8.32,
+   "680": 8.49,
+   "683": 8.09,
+   "3623": 12.56,
+   "4777": 14.99
+  }
+ },
+ {
+  "slug": "may-calendar",
+  "id": 191,
+  "title": "May 2027 Calendar: Starts Saturday, Memorial Day May 31",
+  "type": "dates",
+  "primary_query": "may 2027 calendar",
+  "cluster": "may-calendar",
+  "products": [
+   1552,
+   1599,
+   2887,
+   2888,
+   2889
+  ],
+  "h2": [
+   "May 2027 calendar grid with ISO week numbers",
+   "Why May 2027 needs six rows on both calendar layouts",
+   "Holidays and observances in May 2027",
+   "How many working days are in May 2027?",
+   "2027 family planners by cost per month left on May 1",
+   "When is Mother's Day in May 2027?",
+   "When is Memorial Day in 2027?",
+   "Where to get a free printable May 2027 calendar"
+  ],
+  "related": [
+   "april-calendar",
+   "june-calendar",
+   "best-monthly-planners"
+  ],
+  "image": "https://images.pexels.com/photos/7723784/pexels-photo-7723784.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T20:19:27.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "1552": 20.79,
+   "1599": 15.0,
+   "2887": 9.09,
+   "2888": 25.99,
+   "2889": 31.0
+  }
+ },
+ {
+  "slug": "june-calendar",
+  "id": 192,
+  "title": "June 2027 Calendar: Starts Tuesday, Juneteenth June 19",
+  "type": "dates",
+  "primary_query": "june 2027 calendar",
+  "cluster": "june-calendar",
+  "products": [
+   282,
+   804,
+   807,
+   901,
+   1257,
+   1296,
+   3254
+  ],
+  "h2": [
+   "June 2027 calendar grid with ISO week numbers",
+   "How many rows does June 2027 take on a wall or desk grid?",
+   "Holidays and observances in June 2027",
+   "How many working days are in June 2027?",
+   "2027 monthly planners by cost per month left on June 1",
+   "When is Father's Day in June 2027?",
+   "When is Juneteenth observed in 2027?",
+   "Where to get a free printable June 2027 calendar"
+  ],
+  "related": [
+   "may-calendar",
+   "planner-dates-and-holidays",
+   "best-monthly-planners"
+  ],
+  "image": "https://images.pexels.com/photos/5498340/pexels-photo-5498340.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T20:19:54.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "282": 9.97,
+   "804": 15.19,
+   "807": 14.43,
+   "901": 17.99,
+   "1257": 11.99,
+   "1296": 13.99,
+   "3254": 6.99
+  }
+ },
+ {
+  "slug": "july-calendar",
+  "id": 193,
+  "title": "July 2027 Calendar: Starts Thursday, July 4 on Sunday",
+  "type": "dates",
+  "primary_query": "july 2027 calendar",
+  "cluster": "july-calendar",
+  "products": [
+   327,
+   329,
+   400,
+   705,
+   1724,
+   1725,
+   2570
+  ],
+  "h2": [
+   "July 2027 calendar grid with ISO week numbers",
+   "How many rows July 2027 takes on a wall or desk calendar",
+   "Holidays and observances in July 2027",
+   "How many working days does July 2027 have?",
+   "July 2027 weekly planners by cost per month",
+   "When is Independence Day in July 2027?",
+   "Does July 2027 have five Fridays?",
+   "Where to get a free printable July 2027 calendar"
+  ],
+  "related": [
+   "june-calendar",
+   "august-calendar",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/29509468/pexels-photo-29509468.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T20:20:22.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "327": 16.99,
+   "329": 7.59,
+   "400": 11.88,
+   "705": 5.59,
+   "1724": 14.99,
+   "1725": 9.48,
+   "2570": 22.91
+  }
+ },
+ {
+  "slug": "august-calendar",
+  "id": 194,
+  "title": "August 2027 Calendar: No Federal Holiday, 22 Working Days",
+  "type": "dates",
+  "primary_query": "august 2027 calendar",
+  "cluster": "august-calendar",
+  "products": [
+   391,
+   392,
+   394,
+   395,
+   1358,
+   1359,
+   3699
+  ],
+  "h2": [
+   "August 2027 calendar grid with ISO week numbers",
+   "Why August 2027 needs six rows on a Monday-start calendar",
+   "How many working days are in August 2027?",
+   "Holidays and observances in August 2027",
+   "August 2027 pocket calendars by cost per month",
+   "How many Sundays are in August 2027?",
+   "What quarter is August 2027 in?",
+   "Where to find a free printable August 2027 calendar"
+  ],
+  "related": [
+   "july-calendar",
+   "september-calendar",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/8646392/pexels-photo-8646392.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T20:20:48.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "391": 6.64,
+   "392": 9.99,
+   "394": 8.99,
+   "395": 4.99,
+   "1358": 6.45,
+   "1359": 9.49,
+   "3699": 8.38
+  }
+ },
+ {
+  "slug": "september-calendar",
+  "id": 195,
+  "title": "September 2027 Calendar: Labor Day Sept. 6, 21 Working Days",
+  "type": "dates",
+  "primary_query": "september 2027 calendar",
+  "cluster": "september-calendar",
+  "products": [
+   1457,
+   1460,
+   1485,
+   1489,
+   1774,
+   1776,
+   4571
+  ],
+  "h2": [
+   "September 2027 calendar grid with ISO week numbers",
+   "How many rows September 2027 takes on a calendar",
+   "Holidays and observances in September 2027",
+   "How many working days does September 2027 have?",
+   "September 2027 page-a-day calendars by cost per day",
+   "When is Labor Day in September 2027?",
+   "Does September 2027 have five Wednesdays?",
+   "Where to get a free printable September 2027 calendar"
+  ],
+  "related": [
+   "august-calendar",
+   "october-calendar",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/29509518/pexels-photo-29509518.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T20:21:19.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "1457": 9.99,
+   "1460": 9.34,
+   "1485": 18.99,
+   "1489": 18.98,
+   "1774": 16.77,
+   "1776": 15.76,
+   "4571": 9.96
+  }
+ },
+ {
+  "slug": "october-calendar",
+  "id": 196,
+  "title": "October 2027 Calendar: Starts Friday, Columbus Day Oct. 11",
+  "type": "dates",
+  "primary_query": "october 2027 calendar",
+  "cluster": "october-calendar",
+  "products": [
+   358,
+   415,
+   417,
+   1449,
+   1453,
+   2668,
+   3036
+  ],
+  "h2": [
+   "October 2027 calendar grid with ISO week numbers",
+   "How many rows October 2027 takes on wall and desk calendars",
+   "Holidays and observances in October 2027",
+   "How many working days are in October 2027?",
+   "Undated dry erase calendars ranked by price for October 2027",
+   "What day of the week does October 2027 start on?",
+   "When is Halloween in October 2027?",
+   "Where to get a free printable October 2027 calendar"
+  ],
+  "related": [
+   "september-calendar",
+   "november-calendar",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/7581018/pexels-photo-7581018.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T20:21:46.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "358": 14.35,
+   "415": 18.99,
+   "417": 4.65,
+   "1449": 29.9,
+   "1453": 43.99,
+   "2668": 9.99,
+   "3036": 49.99
+  }
+ },
+ {
+  "slug": "november-calendar",
+  "id": 197,
+  "title": "November 2027 Calendar: Veterans Day and Thanksgiving, 20 Work Days",
+  "type": "dates",
+  "primary_query": "november 2027 calendar",
+  "cluster": "november-calendar",
+  "products": [
+   574,
+   645,
+   1247,
+   1248,
+   1294,
+   1475,
+   3124
+  ],
+  "h2": [
+   "November 2027 calendar grid with ISO week numbers",
+   "How many rows November 2027 fills on a wall or desk calendar",
+   "Holidays and observances in November 2027",
+   "How many working days are in November 2027?",
+   "Undated planners ranked by price for November 2027",
+   "When do the clocks change in November 2027?",
+   "When is Thanksgiving in November 2027?",
+   "Where to get a free printable November 2027 calendar"
+  ],
+  "related": [
+   "october-calendar",
+   "december-calendar",
+   "planner-dates-and-holidays"
+  ],
+  "image": "https://images.pexels.com/photos/29509443/pexels-photo-29509443.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T20:22:20.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "574": 18.99,
+   "645": 9.99,
+   "1247": 7.99,
+   "1248": 12.99,
+   "1294": 24.99,
+   "1475": 4.79,
+   "3124": 19.99
+  }
+ },
+ {
+  "slug": "december-calendar",
+  "id": 198,
+  "title": "December 2027 Calendar: Christmas Dec. 25, Two Days Off at Year End",
+  "type": "dates",
+  "primary_query": "december 2027 calendar",
+  "cluster": "december-calendar",
+  "products": [
+   5326,
+   5329,
+   5333,
+   5335,
+   5336,
+   5351,
+   5354
+  ],
+  "h2": [
+   "December 2027 calendar grid with ISO week numbers",
+   "How many rows December 2027 needs on a wall or desk calendar",
+   "Holidays and observances in December 2027",
+   "How many working days are in December 2027?",
+   "Undated wooden block calendars ranked by price for December 2027",
+   "What day of the week does December 2027 start on?",
+   "When is Christmas in December 2027, and when is the day off?",
+   "Where to get a free printable December 2027 calendar"
+  ],
+  "related": [
+   "november-calendar",
+   "planner-dates-and-holidays",
+   "best-wall-calendars"
+  ],
+  "image": "https://images.unsplash.com/photo-1611302457661-d24c21494f2a?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxkZWNlbWJlciUyMGNhbGVuZGFyJTIwZGVza3xlbnwxfDB8fHwxNzk1MjkyNTY5fDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-21T20:22:47.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5326": 9.99,
+   "5329": 9.99,
+   "5333": 6.99,
+   "5335": 8.19,
+   "5336": 7.89,
+   "5351": 6.99,
+   "5354": 8.49
+  }
+ },
+ {
+  "slug": "alarm-clocks-under-20",
+  "id": 199,
+  "title": "Alarm Clocks Under $20: 10 Picks by Number Height and Price",
+  "type": "price",
+  "primary_query": "alarm clocks under $20",
+  "cluster": "alarm-under-20",
+  "products": [
+   5221,
+   5225,
+   5236,
+   5254,
+   5264,
+   5270,
+   5278,
+   5488,
+   5498,
+   5572
+  ],
+  "h2": [
+   "How we picked these alarm clocks under $20",
+   "Every alarm clock under $20, cheapest first",
+   "What the extra few dollars buy within the under $20 band",
+   "Which alarm clock under $20 has the largest, easiest-to-read numbers?",
+   "Do these cheap alarm clocks keep time during a power cut?",
+   "Which alarm clocks under $20 add a USB charging port or a radio?",
+   "What do you give up by keeping an alarm clock under $20?"
+  ],
+  "related": [
+   "digital-alarm-clocks-with-usb",
+   "best-sunrise-alarm-clocks",
+   "day-clocks-for-seniors"
+  ],
+  "image": "https://images.unsplash.com/photo-1638245578732-238324d93487?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwYWxhcm0lMjBjbG9ja3xlbnwxfDB8fHwxNzk1MjU4NDcxfDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-21T21:06:08.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5221": 11.19,
+   "5225": 11.39,
+   "5236": 14.23,
+   "5254": 15.99,
+   "5264": 8.99,
+   "5270": 8.55,
+   "5278": 6.99,
+   "5488": 9.99,
+   "5498": 12.36,
+   "5572": 14.99
+  }
+ },
+ {
+  "slug": "large-digital-wall-clocks",
+  "id": 200,
+  "title": "Large Digital Wall Clocks: 8 Picks From 5.9 to 16 Inches",
+  "type": "best",
+  "primary_query": "large digital wall clock",
+  "cluster": "large-digital-wall-clock",
+  "products": [
+   5272,
+   5287,
+   5289,
+   5290,
+   5291,
+   5308,
+   5408,
+   5409
+  ],
+  "h2": [
+   "How we picked these large digital wall clocks",
+   "Every large digital wall clock, biggest screen first",
+   "How big are the numbers on these large digital wall clocks, not just the screen?",
+   "Which large digital wall clocks set the time and date by themselves?",
+   "Can these large digital wall clocks hang on a wall or stand on a desk?",
+   "Which large digital wall clock shows the most on one face?"
+  ],
+  "related": [
+   "atomic-wall-clocks",
+   "day-clocks-for-seniors",
+   "best-digital-wall-calendars"
+  ],
+  "image": "https://images.unsplash.com/photo-1661626753732-f9f5dfd1fc16?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxkaWdpdGFsJTIwd2FsbCUyMGNsb2NrfGVufDF8MHx8fDE3OTUyNTgyNjZ8MA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-21T21:06:41.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5272": 23.74,
+   "5287": 19.99,
+   "5289": 28.49,
+   "5290": 27.54,
+   "5291": 20.97,
+   "5308": 18.99,
+   "5408": 29.99,
+   "5409": 28.04
+  }
+ },
+ {
+  "slug": "wall-clocks-with-day-and-date",
+  "id": 201,
+  "title": "Wall Clock With Day and Date: 9 Compared by Price per Inch",
+  "type": "best",
+  "primary_query": "wall clock with day and date",
+  "cluster": "wall-clock-day-date",
+  "products": [
+   5136,
+   5153,
+   5281,
+   5298,
+   5306,
+   5309,
+   5311,
+   5414,
+   5442
+  ],
+  "h2": [
+   "How we picked these day-and-date wall clocks",
+   "If you want a certain feature, start here",
+   "Atomic wall clocks that add the weekday and date",
+   "Large day clocks that spell the weekday out",
+   "Do day-and-date wall clocks set the weekday themselves?",
+   "Which day-and-date wall clock has the largest display?",
+   "Can a day-and-date wall clock sit on a desk instead?"
+  ],
+  "related": [
+   "atomic-wall-clocks",
+   "day-clocks-for-seniors",
+   "best-digital-wall-calendars"
+  ],
+  "image": "https://images.pexels.com/photos/373904/pexels-photo-373904.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:07:12.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5136": 90.39,
+   "5153": 53.54,
+   "5281": 59.99,
+   "5298": 50.99,
+   "5306": 44.22,
+   "5309": 34.99,
+   "5311": 54.99,
+   "5414": 45.99,
+   "5442": 59.99
+  }
+ },
+ {
+  "slug": "time-timer-alternatives",
+  "id": 202,
+  "title": "Time Timer Alternatives: 8 Visual Timers by Type and Range",
+  "type": "alternatives",
+  "primary_query": "time timer alternatives",
+  "cluster": "time-timer-alternatives",
+  "products": [
+   5156,
+   5160,
+   5162,
+   5197,
+   5213,
+   5470,
+   5516,
+   5533
+  ],
+  "h2": [
+   "How we picked these Time Timer alternatives",
+   "What the Time Timer MOD lists, and what buyers replace",
+   "A mechanical Time Timer alternative with no batteries",
+   "Light-cue Time Timer alternatives",
+   "Digital and rechargeable Time Timer alternatives",
+   "Which Time Timer alternative is silent?",
+   "Do these Time Timer alternatives need batteries?",
+   "What countdown range do Time Timer alternatives cover?"
+  ],
+  "related": [
+   "visual-timers-for-kids",
+   "cube-timers"
+  ],
+  "image": "https://images.pexels.com/photos/5103064/pexels-photo-5103064.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:07:40.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5156": 16.14,
+   "5160": 25.49,
+   "5162": 16.99,
+   "5197": 23.9,
+   "5213": 19.96,
+   "5470": 24.79,
+   "5516": 33.57,
+   "5533": 29.3
+  }
+ },
+ {
+  "slug": "digital-calendars-under-300",
+  "id": 203,
+  "title": "Digital Calendar Under $300: 8 Picks by Price per Inch",
+  "type": "price",
+  "primary_query": "digital calendar under $300",
+  "cluster": "digital-calendar-under-300",
+  "products": [
+   5094,
+   5103,
+   5106,
+   5112,
+   5114,
+   5119,
+   5417,
+   5464
+  ],
+  "h2": [
+   "How we chose these calendars under $300",
+   "What the budget buys as the price climbs",
+   "What you give up by staying under $300",
+   "Which digital calendar under $300 lists the lowest price per inch?",
+   "Do these digital calendars under $300 charge a monthly subscription?",
+   "Will a digital calendar under $300 sync with Google and Apple?"
+  ],
+  "related": [
+   "digital-calendars-without-subscription",
+   "best-digital-wall-calendars",
+   "skylight-calendar-alternatives"
+  ],
+  "image": "https://images.pexels.com/photos/8092407/pexels-photo-8092407.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:08:06.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5094": 269.99,
+   "5103": 159.99,
+   "5106": 229.99,
+   "5112": 186.99,
+   "5114": 229.49,
+   "5119": 284.99,
+   "5417": 249.0,
+   "5464": 249.99
+  }
+ },
+ {
+  "slug": "15-inch-digital-calendars",
+  "id": 204,
+  "title": "15 Inch Digital Calendars: 10 Screens by Price per Inch",
+  "type": "best",
+  "primary_query": "15 inch digital calendar",
+  "cluster": "digital-calendar-15-inch",
+  "products": [
+   5072,
+   5074,
+   5075,
+   5082,
+   5095,
+   5101,
+   5104,
+   5117,
+   5419,
+   5422
+  ],
+  "h2": [
+   "How we picked these 15 inch digital calendars",
+   "Is a 15 inch digital calendar big enough for a family wall?",
+   "Which 15 inch digital calendars skip a monthly fee?",
+   "Can a 15 inch digital calendar show family photos between events?",
+   "What does price per inch say about a 15 inch digital calendar?"
+  ],
+  "related": [
+   "best-digital-wall-calendars",
+   "digital-calendars-without-subscription"
+  ],
+  "image": "https://images.unsplash.com/photo-1770250959829-de36726e99c4?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwyfHxkaWdpdGFsJTIwd2FsbCUyMGNhbGVuZGFyfGVufDF8MHx8fDE3OTUyNTgxNzB8MA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-21T21:08:33.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5072": 123.49,
+   "5074": 239.0,
+   "5075": 139.99,
+   "5082": 109.99,
+   "5095": 123.49,
+   "5101": 139.99,
+   "5104": 129.99,
+   "5117": 149.83,
+   "5419": 134.99,
+   "5422": 199.99
+  }
+ },
+ {
+  "slug": "day-clocks-with-reminders",
+  "id": 205,
+  "title": "Day Clock With Reminders: 10 Compared by Alarm Count",
+  "type": "best",
+  "primary_query": "day clock with reminders",
+  "cluster": "day-clock-reminders",
+  "products": [
+   5121,
+   5123,
+   5128,
+   5135,
+   5143,
+   5146,
+   5149,
+   5292,
+   5415,
+   5441
+  ],
+  "h2": [
+   "How we picked these day clocks with reminders",
+   "How many reminders does a day clock hold?",
+   "Can a day clock label a reminder for medication or a meal?",
+   "Do day clock reminders keep their settings after a power cut?",
+   "What does cost per alarm show on a day clock?"
+  ],
+  "related": [
+   "day-clocks-for-seniors",
+   "best-sunrise-alarm-clocks"
+  ],
+  "image": "https://images.pexels.com/photos/5833794/pexels-photo-5833794.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:09:05.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5121": 25.49,
+   "5123": 29.99,
+   "5128": 35.99,
+   "5135": 32.99,
+   "5143": 39.99,
+   "5146": 49.99,
+   "5149": 34.99,
+   "5292": 29.99,
+   "5415": 35.99,
+   "5441": 119.95
+  }
+ },
+ {
+  "slug": "flip-desk-calendars",
+  "id": 206,
+  "title": "Perpetual Flip Calendar: 9 Wooden Picks by Price per Inch",
+  "type": "best",
+  "primary_query": "perpetual flip calendar",
+  "cluster": "flip-calendar",
+  "products": [
+   5321,
+   5327,
+   5338,
+   5339,
+   5350,
+   5353,
+   5361,
+   5364,
+   5367
+  ],
+  "h2": [
+   "How we picked these perpetual flip calendars",
+   "How does a perpetual flip calendar set the date?",
+   "How many boards come in a perpetual flip calendar set?",
+   "Desk block or wall flip: which perpetual flip calendar suits you?",
+   "What does price per inch mean for a perpetual flip calendar?"
+  ],
+  "related": [
+   "wooden-perpetual-calendars",
+   "best-desk-calendars",
+   "desk-calendars-under-15"
+  ],
+  "image": "https://images.pexels.com/photos/33094239/pexels-photo-33094239.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:09:36.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5321": 18.39,
+   "5327": 9.99,
+   "5338": 13.99,
+   "5339": 22.99,
+   "5350": 16.99,
+   "5353": 17.09,
+   "5361": 14.69,
+   "5364": 14.99,
+   "5367": 15.99
+  }
+ },
+ {
+  "slug": "advent-calendars-for-girls",
+  "id": 207,
+  "title": "Advent Calendar for Girls: 10 Picks by Cost per Day",
+  "type": "gift",
+  "primary_query": "advent calendar for girls",
+  "cluster": "advent-girls",
+  "products": [
+   3390,
+   3758,
+   4002,
+   4036,
+   4060,
+   4179,
+   4490,
+   4719,
+   4762,
+   4867
+  ],
+  "h2": [
+   "How we chose these advent calendars for girls",
+   "Lowest cost per day: Istooll Charm Bracelet",
+   "Makeup and nails together: De'lanci 24-Day Kit",
+   "Screen-free craft: Haobxistem Bead Painting",
+   "Rocks and gems: Crudetea Crystal Calendar",
+   "Build two bracelets: Raisly DIY Jewelry",
+   "Frozen theme for ages 4 to 12: Istooll Princess",
+   "Water-based nail polish: Namonppy Set",
+   "A keepsake she wears: Harry Potter Jewelry",
+   "Pretend play for ages 3 to 8: Ludmila Princess Dolls",
+   "Bath-time surprises: Oumuamua Bath Bombs",
+   "What age is an advent calendar for girls meant for?",
+   "Jewelry or makeup: which advent calendar suits a girl better?",
+   "Are these advent calendars for girls reusable?"
+  ],
+  "related": [
+   "advent-calendars-for-teens",
+   "advent-calendars-for-women",
+   "jewelry-advent-calendars"
+  ],
+  "image": "https://images.pexels.com/photos/12380786/pexels-photo-12380786.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:10:06.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "3390": 22.99,
+   "3758": 7.59,
+   "4002": 13.81,
+   "4036": 14.99,
+   "4060": 7.59,
+   "4179": 10.19,
+   "4490": 13.99,
+   "4719": 19.99,
+   "4762": 18.99,
+   "4867": 18.99
+  }
+ },
+ {
+  "slug": "advent-calendars-for-boys",
+  "id": 208,
+  "title": "Advent Calendar for Boys: 10 Picks by Cost per Day",
+  "type": "gift",
+  "primary_query": "advent calendar for boys",
+  "cluster": "advent-boys",
+  "products": [
+   3655,
+   3784,
+   4417,
+   4425,
+   4463,
+   4551,
+   4558,
+   4820,
+   4839,
+   4917
+  ],
+  "h2": [
+   "How we chose these advent calendars for boys",
+   "Cheapest per day: Sweetzo Construction Truck",
+   "Twelve days of character socks: Nintendo Super Mario",
+   "Build one vehicle over December: Seivhat Take-Apart Cars",
+   "A new car every morning: Sumsoltic Play Vehicles",
+   "Pull-back cars and trucks: Imiibel 24-Day Set",
+   "For a teen tabletop gamer: Curinaut DnD Dice",
+   "Alloy cars, one a day: SpringFlower 24 Cars",
+   "Hot Wheels socks for ages 3 to 9: Get Trend Set",
+   "One keepsake train: Juchuar Block Calendar",
+   "For an older boy or dad: MOVINPE Gadgets",
+   "What age is an advent calendar for boys meant for?",
+   "Toy cars or building blocks: which advent calendar for boys lasts?",
+   "Which advent calendar for boys is cheapest per day?"
+  ],
+  "related": [
+   "advent-calendars-for-kids",
+   "toy-car-advent-calendars",
+   "lego-advent-calendars"
+  ],
+  "image": "https://images.unsplash.com/photo-1606482714043-600dc0b89ae0?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxib3lzJTIwYWR2ZW50JTIwY2FsZW5kYXJ8ZW58MXwwfHx8MTc5NTI5NTQ0MHww&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-21T21:10:37.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "3655": 23.99,
+   "3784": 8.98,
+   "4417": 14.39,
+   "4425": 28.99,
+   "4463": 19.99,
+   "4551": 19.99,
+   "4558": 21.99,
+   "4820": 38.99,
+   "4839": 15.99,
+   "4917": 19.99
+  }
+ },
+ {
+  "slug": "book-lover-advent-calendars",
+  "id": 209,
+  "title": "Book Lover Advent Calendars: 8 Ranked by Cost per Day",
+  "type": "best",
+  "primary_query": "book lover advent calendar",
+  "cluster": "book-lover-advent",
+  "products": [
+   3322,
+   5731,
+   5732,
+   5733,
+   5740,
+   5741,
+   5745,
+   5746
+  ],
+  "h2": [
+   "How we picked these book lover advent calendars",
+   "Cheapest per door: Engfa 24 Mini Books",
+   "Readable pocket classics: Uiseba 24 Classics",
+   "Double-door surprise: Tinrbip 24 Books",
+   "Tree ornaments you reuse: Ubbtwj 24 Readable Ornaments",
+   "Twenty-five days of classics: Hardwind Vol. II",
+   "A finished bookcase to keep: Ronstone 24 Books",
+   "Reading card and prompts: Kydqiener 24 Classics",
+   "Bookish gifts instead of books: Onehaus 24-Day Set",
+   "Are the mini books in a book lover advent calendar full stories?",
+   "Which book lover advent calendar is cheapest per day?",
+   "Can you hang a book lover advent calendar on the tree?"
+  ],
+  "related": [
+   "advent-calendar-books",
+   "stationery-advent-calendars",
+   "12-day-advent-calendars"
+  ],
+  "image": "https://images.pexels.com/photos/35353177/pexels-photo-35353177.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:11:09.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "3322": 44.99,
+   "5731": 31.99,
+   "5732": 29.99,
+   "5733": 22.39,
+   "5740": 25.99,
+   "5741": 21.99,
+   "5745": 14.39,
+   "5746": 34.19
+  }
+ },
+ {
+  "slug": "best-ledger-books",
+  "id": 210,
+  "title": "Ledger Book for Small Business: 6 Picks by Price per Page",
+  "type": "best",
+  "primary_query": "ledger book for small business",
+  "cluster": "ledger-book",
+  "products": [
+   746,
+   748,
+   749,
+   2295,
+   2298,
+   3107
+  ],
+  "h2": [
+   "What a small business ledger book has to get right",
+   "How we chose these small business ledger books",
+   "Adams Monthly Bookkeeping: the four-column pick",
+   "Adams Record Ledger: the hardbound permanent record",
+   "A5 Accounting Ledger Book: the lowest cost per page",
+   "Accounting Ledger Book with elastic band: the slim everyday log",
+   "Expense Tracker Notebook: the low-cost daily log",
+   "Boorum & Pease 66 Series: the high-volume account book",
+   "How many columns does a small business ledger book need?",
+   "How many pages should a ledger book have for a year?",
+   "Is a paper ledger book still useful for a small business?"
+  ],
+  "related": [
+   "best-planners-for-work-and-small-business",
+   "small-business-budget-planners",
+   "budget-planners-for-bills"
+  ],
+  "image": "https://images.pexels.com/photos/8296977/pexels-photo-8296977.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:11:36.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "746": 5.99,
+   "748": 7.95,
+   "749": 4.99,
+   "2295": 38.95,
+   "2298": 16.99,
+   "3107": 27.51
+  }
+ },
+ {
+  "slug": "best-composition-notebooks",
+  "id": 211,
+  "title": "Composition Notebook Picks: 9 Ranked by Cost per Sheet",
+  "type": "best",
+  "primary_query": "composition notebook",
+  "cluster": "composition-notebook",
+  "products": [
+   225,
+   1373,
+   1422,
+   2257,
+   2529,
+   2532,
+   2923,
+   2926,
+   2932
+  ],
+  "h2": [
+   "What separates one composition notebook from the next",
+   "How we chose these composition notebooks",
+   "Mead Black Marble: the single college-ruled pick",
+   "Roaring Spring four-pack: the lowest cost per sheet",
+   "Staples four-pack: the wide-ruled bulk match",
+   "Oxford Hard Cover: the single hardcover pick",
+   "Enday Marble two-pack: the middle-ground value",
+   "Mr. Pen two-pack: the slim 50-sheet pair",
+   "Top Flight two-pack: the classic marble pair",
+   "Graph Paper Composition: the grid pick for math",
+   "Leuchtturm1917 Composition B5: the squared premium step up",
+   "College ruled or wide ruled: which composition notebook should you pick?",
+   "Are multipacks cheaper per sheet than single composition notebooks?",
+   "What size are composition notebooks, and do they fit a binder?"
+  ],
+  "related": [
+   "best-spiral-notebooks",
+   "best-graph-paper-notebooks",
+   "best-pocket-notebooks"
+  ],
+  "image": "https://images.pexels.com/photos/34436215/pexels-photo-34436215.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:12:00.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "225": 32.5,
+   "1373": 8.77,
+   "1422": 8.79,
+   "2257": 14.99,
+   "2529": 7.99,
+   "2532": 6.6,
+   "2923": 3.39,
+   "2926": 7.99,
+   "2932": 5.99
+  }
+ },
+ {
+  "slug": "best-mileage-and-vehicle-log-books",
+  "id": 212,
+  "title": "Mileage Log Book: 8 Vehicle Record Books by Size and Job",
+  "type": "best",
+  "primary_query": "mileage log book",
+  "cluster": "mileage-log",
+  "products": [
+   1003,
+   1008,
+   1845,
+   1848,
+   1849,
+   1850,
+   2681,
+   3070
+  ],
+  "h2": [
+   "The eight vehicle log books side by side",
+   "How we chose these vehicle log books",
+   "What does the IRS want in a mileage log book?",
+   "Mileage log book or vehicle maintenance log: which record do you need?",
+   "Is a bound mileage log book better than loose sheets?"
+  ],
+  "related": [
+   "small-business-budget-planners",
+   "best-planners-for-work-and-small-business",
+   "budget-planners-for-bills"
+  ],
+  "image": "https://images.pexels.com/photos/241188/pexels-photo-241188.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:12:29.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "1003": 6.99,
+   "1008": 6.15,
+   "1845": 7.99,
+   "1848": 6.99,
+   "1849": 7.85,
+   "1850": 9.99,
+   "2681": 12.48,
+   "3070": 5.46
+  }
+ },
+ {
+  "slug": "blue-sky-academic-planner-review",
+  "id": 213,
+  "title": "Blue Sky Academic Planner Review: 5 x 8 In, July to June",
+  "type": "review",
+  "primary_query": "blue sky academic planner review",
+  "cluster": "blue-sky-academic-review",
+  "products": [
+   126,
+   200,
+   893,
+   1901
+  ],
+  "h2": [
+   "The Blue Sky planner next to three academic books",
+   "How we rate and compare this planner",
+   "Is the Blue Sky academic planner dated or undated?",
+   "What size is the Blue Sky academic planner?",
+   "Does the Blue Sky academic planner cover a full school year?"
+  ],
+  "related": [
+   "best-academic-planners",
+   "day-designer-academic-planner-review",
+   "academic-planner-vs-calendar-year-planner"
+  ],
+  "image": "https://images.pexels.com/photos/5124873/pexels-photo-5124873.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:12:54.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "126": 9.99,
+   "200": 9.99,
+   "893": 10.99,
+   "1901": 9.99
+  }
+ },
+ {
+  "slug": "guasslee-wall-calendar-review",
+  "id": 214,
+  "title": "GuassLee Wall Calendar Review: 20 x 30 In, 18 Months",
+  "type": "review",
+  "primary_query": "guasslee wall calendar review",
+  "cluster": "guasslee-wall-review",
+  "products": [
+   274,
+   290,
+   934,
+   1379
+  ],
+  "h2": [
+   "The GuassLee against three large wall calendars",
+   "How this GuassLee review was built",
+   "How big is the GuassLee wall calendar?",
+   "What months does the GuassLee wall calendar cover?",
+   "Is the GuassLee wall calendar worth the price per month?"
+  ],
+  "related": [
+   "best-wall-calendars",
+   "large-grid-wall-calendars",
+   "how-to-choose-a-wall-calendar"
+  ],
+  "image": "https://images.unsplash.com/photo-1606327054476-256fc9690fe2?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxsYXJnZSUyMHdhbGwlMjBjYWxlbmRhcnxlbnwxfDB8fHwxNzk1Mjk1NTk5fDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-21T21:13:16.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "274": 12.99,
+   "290": 28.99,
+   "934": 17.99,
+   "1379": 18.04
+  }
+ },
+ {
+  "slug": "loud-alarm-clocks-for-heavy-sleepers",
+  "id": 215,
+  "title": "Loud Alarm Clocks for Heavy Sleepers: 6 Ranked by Decibels",
+  "type": "best",
+  "primary_query": "loud alarm clock for heavy sleepers",
+  "cluster": "loud-alarm",
+  "products": [
+   5218,
+   5237,
+   5249,
+   5258,
+   5259,
+   5493
+  ],
+  "h2": [
+   "How we chose these loud alarm clocks",
+   "The six loud alarm clocks, by top decibels",
+   "How many decibels does a heavy sleeper need from an alarm?",
+   "What does the bed shaker on a loud alarm clock do?",
+   "Can you turn a loud alarm clock down on quiet mornings?",
+   "Which loud alarm clocks here suit a deaf or hard-of-hearing sleeper?"
+  ],
+  "related": [
+   "digital-alarm-clocks-with-usb",
+   "best-sunrise-alarm-clocks"
+  ],
+  "image": "https://images.pexels.com/photos/31884411/pexels-photo-31884411.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:13:37.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5218": 42.74,
+   "5237": 16.99,
+   "5249": 11.72,
+   "5258": 21.48,
+   "5259": 13.53,
+   "5493": 44.99
+  }
+ },
+ {
+  "slug": "best-disc-bound-planners",
+  "id": 216,
+  "title": "Disc Bound Planner Systems: 6 Picks by Price per Sheet",
+  "type": "best",
+  "primary_query": "disc bound planner",
+  "cluster": "disc-bound-planner",
+  "products": [
+   386,
+   1936,
+   1943,
+   1944,
+   2360,
+   2364
+  ],
+  "h2": [
+   "What a disc bound planner buyer is choosing between",
+   "How we picked these disc bound planner systems",
+   "Happy Planner 2027 Classic: the dated pick",
+   "TUL Junior Starter Kit: the build-your-own pick",
+   "TUL Junior Leather Notebook: the mid-range cover",
+   "Levenger Circa Foldover: the leather-for-life pick",
+   "Happy Planner Classic refills: the lowest cost per sheet",
+   "BetterNote This Week inserts: the weekly layout add-on",
+   "Are disc bound planner pages interchangeable between brands?",
+   "How many sheets does a disc bound planner hold?",
+   "Disc bound planner or spiral: which lies flatter?"
+  ],
+  "related": [
+   "spiral-vs-bound-planner",
+   "planner-binding-types-explained",
+   "happy-planner-alternatives"
+  ],
+  "image": "https://images.pexels.com/photos/40557775/pexels-photo-40557775.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:14:02.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "386": 20.39,
+   "1936": 38.71,
+   "1943": 14.99,
+   "1944": 149.5,
+   "2360": 9.99,
+   "2364": 15.95
+  }
+ },
+ {
+  "slug": "travel-alarm-clocks",
+  "id": 217,
+  "title": "Travel Alarm Clocks: 6 Battery Picks by Packed Size",
+  "type": "best",
+  "primary_query": "travel alarm clock",
+  "cluster": "travel-alarm",
+  "products": [
+   5223,
+   5227,
+   5270,
+   5271,
+   5497,
+   5606
+  ],
+  "h2": [
+   "How we picked these travel alarm clocks",
+   "The six travel alarm clocks, cheapest first",
+   "What size travel alarm clock fits easily in a bag?",
+   "Which travel alarm clocks run on battery with no outlet?",
+   "Do these travel clocks have a backlight for a dark room?",
+   "Which travel alarm clock has the loudest or rising alarm?"
+  ],
+  "related": [
+   "digital-alarm-clocks-with-usb",
+   "best-sunrise-alarm-clocks"
+  ],
+  "image": "https://images.unsplash.com/photo-1590656114831-9be3b832eec7?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBhbGFybSUyMGNsb2NrfGVufDF8MHx8fDE3OTUyOTU2Njh8MA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-21T21:14:26.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5223": 13.53,
+   "5227": 24.99,
+   "5270": 8.55,
+   "5271": 16.99,
+   "5497": 32.54,
+   "5606": 17.99
+  }
+ },
+ {
+  "slug": "kids-alarm-clocks",
+  "id": 218,
+  "title": "Kids Alarm Clocks: 8 Picks by Night Light and Sound",
+  "type": "best",
+  "primary_query": "kids alarm clock",
+  "cluster": "kids-alarm",
+  "products": [
+   5202,
+   5204,
+   5214,
+   5225,
+   5259,
+   5260,
+   5566,
+   5572
+  ],
+  "h2": [
+   "How we chose these kids alarm clocks",
+   "The eight kids alarm clocks, cheapest first",
+   "What should a kids alarm clock include?",
+   "Which kids alarm clocks here double as a night light?",
+   "Do any of these kids clocks name an age range?",
+   "Which kids alarm clocks need to stay plugged in?"
+  ],
+  "related": [
+   "best-sunrise-alarm-clocks",
+   "digital-alarm-clocks-with-usb"
+  ],
+  "image": "https://images.unsplash.com/photo-1609775436218-78e51e5e61dd?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxraWRzJTIwYWxhcm0lMjBjbG9ja3xlbnwxfDB8fHwxNzk1Mjk1NjkzfDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-21T21:14:50.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5202": 19.99,
+   "5204": 15.99,
+   "5214": 31.99,
+   "5225": 11.39,
+   "5259": 13.53,
+   "5260": 135.99,
+   "5566": 30.68,
+   "5572": 14.99
+  }
+ },
+ {
+  "slug": "advent-calendars-for-toddlers",
+  "id": 219,
+  "title": "Advent Calendar for Toddlers: 8 Picks by Cost per Day",
+  "type": "gift",
+  "primary_query": "advent calendar for toddlers",
+  "cluster": "advent-toddlers",
+  "products": [
+   4118,
+   4537,
+   4624,
+   4759,
+   4773,
+   4926,
+   4934,
+   4956
+  ],
+  "h2": [
+   "How we picked these toddler advent calendars",
+   "When does a 24-day toddler advent calendar start in 2026?",
+   "Each toddler advent calendar, from the lowest cost per day",
+   "Which toddler advent calendar costs the least per day?",
+   "What age does each toddler advent calendar name?",
+   "Which toddler advent calendars can be reused after Christmas?",
+   "Are these toddler advent calendars candy free?"
+  ],
+  "related": [
+   "advent-calendars-for-kids",
+   "wooden-advent-calendars",
+   "lego-advent-calendars"
+  ],
+  "image": "https://images.pexels.com/photos/6132615/pexels-photo-6132615.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:15:27.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "4118": 24.99,
+   "4537": 23.99,
+   "4624": 42.98,
+   "4759": 16.99,
+   "4773": 39.99,
+   "4926": 17.99,
+   "4934": 24.99,
+   "4956": 16.99
+  }
+ },
+ {
+  "slug": "advent-calendars-for-adults",
+  "id": 220,
+  "title": "Advent Calendar for Adults: 8 Alcohol-Free Picks by Day",
+  "type": "gift",
+  "primary_query": "advent calendar for adults",
+  "cluster": "advent-adults",
+  "products": [
+   3309,
+   3321,
+   3342,
+   3889,
+   4200,
+   4258,
+   4517,
+   4849
+  ],
+  "h2": [
+   "How we chose these adult advent calendars",
+   "Which of these adult advent calendars are alcohol free?",
+   "When do these adult advent calendars start in 2026?",
+   "Every adult advent calendar here, from the lowest cost per day",
+   "Which adult advent calendar costs the least per day?",
+   "What is behind the doors of these adult advent calendars?",
+   "Which adult advent calendars suit a self-treat rather than a gift?"
+  ],
+  "related": [
+   "advent-calendars-for-women",
+   "advent-calendars-for-men",
+   "tea-advent-calendars"
+  ],
+  "image": "https://images.pexels.com/photos/19552326/pexels-photo-19552326.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:15:54.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "3309": 12.99,
+   "3321": 46.99,
+   "3342": 15.99,
+   "3889": 20.73,
+   "4200": 24.99,
+   "4258": 19.99,
+   "4517": 15.99,
+   "4849": 26.99
+  }
+ },
+ {
+  "slug": "diamond-painting-advent-calendars",
+  "id": 221,
+  "title": "Diamond Painting Advent Calendars: 9 Ranked by Cost per Day",
+  "type": "best",
+  "primary_query": "diamond painting advent calendar",
+  "cluster": "diamond-painting-advent",
+  "products": [
+   4181,
+   5801,
+   5802,
+   5807,
+   5808,
+   5816,
+   5819,
+   5822,
+   5833
+  ],
+  "h2": [
+   "How we picked these diamond painting advent calendars",
+   "How does a diamond painting advent calendar work?",
+   "When does a 24-day diamond painting advent calendar start in 2026?",
+   "Every diamond painting advent calendar here, from the lowest cost per day",
+   "Which diamond painting advent calendar costs the least per day?",
+   "Ornaments, keychains or one canvas: which diamond painting advent calendar fits?",
+   "What tools come in a diamond painting advent calendar?"
+  ],
+  "related": [
+   "craft-advent-calendars",
+   "paper-advent-calendars",
+   "puzzle-advent-calendars"
+  ],
+  "image": "https://images.pexels.com/photos/3358727/pexels-photo-3358727.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:16:25.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "4181": 17.15,
+   "5801": 15.99,
+   "5802": 99.99,
+   "5807": 24.99,
+   "5808": 22.99,
+   "5816": 30.99,
+   "5819": 7.99,
+   "5822": 11.99,
+   "5833": 12.99
+  }
+ },
+ {
+  "slug": "art-supply-advent-calendars",
+  "id": 222,
+  "title": "Art Advent Calendars: 7 Picks by Cost per Day",
+  "type": "best",
+  "primary_query": "art advent calendar",
+  "cluster": "art-advent",
+  "products": [
+   4158,
+   4161,
+   4162,
+   4177,
+   4179,
+   4181,
+   4807
+  ],
+  "h2": [
+   "How we chose these art advent calendars",
+   "Paint, marker and coloring supply calendars",
+   "Diamond and bead art kit calendars",
+   "Which art advent calendar costs the least per day?",
+   "Do these art advent calendars build a reusable supply kit?",
+   "Which art advent calendars suit kids versus adults?",
+   "How many days do these art advent calendars run?"
+  ],
+  "related": [
+   "stationery-advent-calendars",
+   "craft-advent-calendars",
+   "advent-calendar-books"
+  ],
+  "image": "https://images.unsplash.com/photo-1606482512676-255bf02be7cf?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxhcnQlMjBzdXBwbGllcyUyMGFkdmVudHxlbnwxfDB8fHwxNzk1Mjk1ODE1fDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-21T21:16:53.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "4158": 15.99,
+   "4161": 24.79,
+   "4162": 14.39,
+   "4177": 15.99,
+   "4179": 10.19,
+   "4181": 17.15,
+   "4807": 15.37
+  }
+ },
+ {
+  "slug": "sunrise-alarm-clocks-under-50",
+  "id": 223,
+  "title": "Sunrise Alarm Clocks Under $50: 9 Picks by Price per Sound",
+  "type": "price",
+  "primary_query": "sunrise alarm clocks under $50",
+  "cluster": "sunrise-under-50",
+  "products": [
+   5204,
+   5210,
+   5215,
+   5217,
+   5218,
+   5229,
+   5241,
+   5243,
+   5486
+  ],
+  "h2": [
+   "How we picked these sunrise clocks under $50",
+   "What the extra money adds under $50",
+   "Which sunrise clock under $50 adds a bed shaker?",
+   "Do sunrise alarm clocks under $50 work as a sound machine?",
+   "Which sunrise clock under $50 has an app?",
+   "What do you give up on a sunrise clock under $50?"
+  ],
+  "related": [
+   "best-sunrise-alarm-clocks",
+   "digital-alarm-clocks-with-usb"
+  ],
+  "image": "https://images.unsplash.com/photo-1793531290476-1cb8c0233a38?crop=entropy&cs=srgb&fm=jpg&ixid=M3w5NTExMTl8MHwxfHNlYXJjaHwxfHxzdW5yaXNlJTIwYWxhcm0lMjBjbG9ja3xlbnwxfDB8fHwxNzk1MjU4MzY3fDA&ixlib=rb-4.1.0&q=85",
+  "published_at": "2026-11-21T21:17:20.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5204": 15.99,
+   "5210": 31.99,
+   "5215": 39.99,
+   "5217": 49.99,
+   "5218": 42.74,
+   "5229": 17.5,
+   "5241": 22.79,
+   "5243": 29.99,
+   "5486": 36.99
+  }
+ },
+ {
+  "slug": "visual-timers-for-classroom",
+  "id": 224,
+  "title": "Visual Timer for Classroom: 9 Picks by Display Size",
+  "type": "best",
+  "primary_query": "visual timer for classroom",
+  "cluster": "visual-timer-classroom",
+  "products": [
+   5161,
+   5168,
+   5180,
+   5189,
+   5193,
+   5195,
+   5526,
+   5552,
+   5553
+  ],
+  "h2": [
+   "How we picked these classroom visual timers",
+   "What a larger face adds for a classroom",
+   "Which classroom visual timer reads from across the room?",
+   "Do classroom visual timers run silently for tests?",
+   "Mechanical or digital: which classroom timer needs no batteries?",
+   "How do classroom visual timers mount on a whiteboard?"
+  ],
+  "related": [
+   "visual-timers-for-kids",
+   "cube-timers"
+  ],
+  "image": "https://images.pexels.com/photos/31115185/pexels-photo-31115185.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
+  "published_at": "2026-11-21T21:17:51.000000Z",
+  "enabled": true,
+  "pillar": false,
+  "price_checked": "2026-11-21",
+  "refresh_by": "2026-12-21",
+  "prices": {
+   "5161": 12.99,
+   "5168": 31.95,
+   "5180": 21.99,
+   "5189": 14.39,
+   "5193": 13.59,
+   "5195": 27.95,
+   "5526": 15.19,
+   "5552": 14.44,
+   "5553": 13.09
   }
  }
 ]
