@@ -1,6 +1,6 @@
 ---
 title: "Six Flags Holiday in the Park 2026: Opening Dates at 11 Parks"
-description: "Six Flags holiday events opened or open Nov. 20-27, 2026 at 11 parks. First and last dates, weekdays and day counts per park, plus a printable opening sheet."
+description: "Six Flags holiday events open Nov. 20-27, 2026 at 11 parks. First and last dates, weekdays and day counts per park, plus a printable opening sheet."
 type: news
 publishedAt: "2026-11-15T11:10:00-05:00"
 updatedAt: "2026-11-21T15:46:00-05:00"
