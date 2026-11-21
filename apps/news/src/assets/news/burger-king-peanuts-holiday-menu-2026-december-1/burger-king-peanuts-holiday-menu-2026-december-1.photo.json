@@ -1,0 +1,21 @@
+{
+  "ref": "commons:File:Cheeseburger.jpg",
+  "source": "Wikimedia Commons",
+  "title": "Cheeseburger",
+  "page": "https://commons.wikimedia.org/wiki/File:Cheeseburger.jpg",
+  "file": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cheeseburger.jpg",
+  "width": 2700,
+  "height": 1800,
+  "thumb": "https://commons.wikimedia.org/wiki/Special:FilePath/Cheeseburger.jpg?width=640",
+  "license": "Public domain",
+  "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+  "author": "Renee Comet (photographer)",
+  "ok": true,
+  "slug": "burger-king-peanuts-holiday-menu-2026-december-1",
+  "fetchedAt": "2026-11-21T13:42:58.652Z",
+  "original": "2700×1800",
+  "output": "2400×1350",
+  "cropped": true,
+  "credit": "Photo: Renee Comet (photographer) / Wikimedia Commons, cropped, edited",
+  "overlay": true
+}

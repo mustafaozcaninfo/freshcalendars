@@ -69,7 +69,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [holiday-menus-2026-every-chain-tracker, national-sandwich-day-2026-deals-tuesday-november-3-subway-mcalisters-capriottis, red-robin-holiday-menu-2026-oreo-candy-cane-milkshake]
+related: [holiday-menus-2026-every-chain-tracker, pizza-hut-triple-treat-box-2026-holiday-21-99, red-robin-holiday-menu-2026-oreo-candy-cane-milkshake]
 downloads:
   - group: "Jimmy John's Christmas Vacation Feast 2026 printables"
     title: "Jimmy John's Christmas Vacation Feast 2026: What Is in It and Dates"
