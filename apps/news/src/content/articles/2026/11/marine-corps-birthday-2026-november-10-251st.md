@@ -69,7 +69,7 @@ internalLinks:
     label: "When is Veterans Day? Next date and countdown"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [veterans-day-2026-wednesday-november-11, veterans-day-printables-2026-activity-sheet-quiz-thank-you-note, veterans-day-parades-2026-by-city]
+related: [veterans-day-2026-wednesday-november-11, veterans-day-printables-2026-activity-sheet-quiz-thank-you-note, national-guard-birthday-2026-december-13-390th]
 downloads:
   - group: "Marine Corps Birthday 2026 Activity Sheet printables"
     title: "Marine Corps Birthday 2026 Activity Sheet"

@@ -124,7 +124,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [national-days-this-week-december-7-13-2026, wright-brothers-day-2026-december-17, bill-of-rights-day-2026-december-15]
+related: [national-days-this-week-december-7-13-2026, wright-brothers-day-2026-december-17, boston-tea-party-reenactment-2026-december-16]
 downloads:
   - group: "National Days Week Planner printables"
     title: "National Days Week Planner, Dec. 14-20, 2026"
