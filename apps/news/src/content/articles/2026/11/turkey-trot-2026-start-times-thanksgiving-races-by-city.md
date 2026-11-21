@@ -113,7 +113,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [thanksgiving-2026-planner-countdown-checklist, thanksgiving-football-schedule-2026-nfl-college-games, thanksgiving-travel-2026-best-days-to-fly-and-drive]
+related: [thanksgiving-2026-planner-countdown-checklist, thanksgiving-football-schedule-2026-nfl-college-games, california-international-marathon-2026-start-time-road-closures]
 draft: false
 assets:
   overlay: true
