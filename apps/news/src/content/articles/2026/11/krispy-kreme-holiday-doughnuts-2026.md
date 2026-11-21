@@ -88,7 +88,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu, starbucks-holiday-menu-2026-red-cup-day-date, tim-hortons-holiday-menu-2026-canada]
+related: [dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu, starbucks-holiday-menu-2026-red-cup-day-date, burger-king-peanuts-holiday-menu-2026-december-1]
 downloads:
   - group: "Krispy Kreme Holiday Menu 2026 Checklist printables"
     title: "Krispy Kreme Holiday Menu 2026 Checklist"

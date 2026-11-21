@@ -75,7 +75,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [holiday-menus-2026-every-chain-tracker, thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates, restaurants-open-thanksgiving-2026-hours-by-chain]
+related: [holiday-menus-2026-every-chain-tracker, pizza-hut-triple-treat-box-2026-holiday-21-99, restaurants-open-thanksgiving-2026-hours-by-chain]
 downloads:
   - group: "Baskin-Robbins Turkey Cake 2026 printables"
     title: "Baskin-Robbins Turkey Cake 2026: Dates and Dessert Table Flavors"
