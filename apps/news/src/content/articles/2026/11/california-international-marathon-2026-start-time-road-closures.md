@@ -100,7 +100,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [honolulu-marathon-2026-start-time-road-closures, marine-corps-marathon-2026-start-times-road-closures-cutoffs, nyc-marathon-2026-start-times-road-closures-where-to-watch]
+related: [honolulu-marathon-2026-start-time-road-closures, dallas-marathon-2026-start-time-december-13-road-closures, nyc-marathon-2026-start-times-road-closures-where-to-watch]
 downloads:
   - group: "California International Marathon 2026 Race-Weekend Guide printables"
     title: "California International Marathon 2026 Race-Weekend Guide"

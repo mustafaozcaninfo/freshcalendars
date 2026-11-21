@@ -152,7 +152,7 @@ internalLinks:
     label: "March 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [february-2027-important-dates-holidays-days-until, easter-2027-march-28-good-friday-easter-monday-whats-open, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
+related: [february-2027-important-dates-holidays-days-until, april-2027-important-dates-holidays-days-until, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
 draft: false
 ---
 
