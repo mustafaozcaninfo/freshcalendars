@@ -28,7 +28,7 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - **Do not touch, by the owner's decision:**
   - the disabled merchants (Walmart, Etsy, AliExpress offers)
   - the review stars and review counts the platform generates
-  - the empty Amazon and eBay tracking IDs (they come later)
+  - the Amazon tags (the US tag is set; other countries are the owner's to add)
 - **Facts only from the listing or the maker.** Never guess a size, paper weight, count or date.
 - **Never invent a person.** Product ratings carry Jessica Hartwell's name and go live only after she approves them (see Ratings). Articles carry her byline too (owner decision, Nov. 11, 2026); her page is `/jessica-hartwell`.
 - **No fake deals or urgency.** Say "below its usual price" only when the offer's `price` is lower than `price_full`.
@@ -103,7 +103,7 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 2. Social profile handles (none are set).
 3. Google Search Console and Bing verification codes.
 4. Check the AI chip balance before any large import.
-5. The three eBay Auto Populators are still on and add unreviewed products every day.
+5. (Done Nov. 21, 2026) The eBay Auto Populators are off; see "Amazon only" below.
 
 ## Routines
 
@@ -153,11 +153,15 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - `tools/category_guides.py` links every live article from its product category. Run it weekly and after scheduled articles go live; it skips articles that are not live yet.
 - The checker fails an H2 another article already uses, so give the "what we left out" section a heading that names the product kind.
 
+### Amazon only (owner decision, Nov. 21, 2026)
+- The shop sells through Amazon US only. eBay is off: `ebay_enabled` and `ebay_search_button_enabled` false in `settings/offers`, `show_ebay_related_products` and `show_retailer_rating_ebay` false in `settings/product`, the three eBay Auto Populators (4, 5, 6) disabled, all 17 eBay offers disabled, and the six live products that only eBay sold (177, 178, 186, 187, 188, 190) hidden with a 301 to their category. No article used them. Do not turn eBay back on or import eBay products without the owner.
+- The custom CSS and the click-tracking script still name eBay (rules for a block that no longer renders); they are harmless and can go at the next design pass.
+
 ### Where the visitors come from: ChatGPT (measured Nov. 20, 2026)
 - From Nov. 16 the largest source of real visits is ChatGPT: 5, 28, 48, 87 and 107 visits a day, against 6 to 44 from search engines. 29% of those visits click a retailer button (search: 17%), 80% are on a phone, 64% from the US and 10% from Canada. They land on product pages first (47 of 81 landing URLs seen), then guides, categories and brand pages. "Direct" visits from Turkey and Qatar are our own checks.
 - `python3 shop/tools/ai_traffic.py` prints the daily table. ChatGPT takes most cited pages from search results, so Bing indexing (IndexNow, above) is what feeds it: watch both.
 - The calendar site sends readers over: six advent news stories carry a shop card (`shop: advent-calendars` or `shop: lego-advent` in the story's frontmatter, campaigns in `apps/news/src/lib/shop.ts`, off after Dec. 2), and the November and December 2026 month pages and the Thanksgiving page show the advent box (`packages/generator/src/shopLinks.ts`, key `monthly:<year>-<month>`). News cards are `rel="sponsored nofollow"`: they bring readers, not link weight.
-- Open for the owner: the shop sells to the US only, so Canadian and British visitors get amazon.com links with the US tag. Turning on OneLink in Amazon Associates (and linking the Canada and UK accounts) is the fix; nothing in the shop needs to change. The eBay tracking id is empty.
+- Open for the owner: the shop sells to the US only, so Canadian and British visitors get amazon.com links with the US tag. Turning on OneLink in Amazon Associates (and linking the Canada and UK accounts) is the fix; nothing in the shop needs to change.
 
 ### IndexNow with our own key (Nov. 19, 2026)
 - The platform sends each new page to IndexNow, at most 200 a day by default (`indexnow_daily_limit`, now 1000). A day of product publishing used the 200 and the 30 advent guides were not sent.
@@ -215,7 +219,7 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
   4. Read the kept titles per category yourself. Rename a category to what it really holds, move products, and list the ids to drop in `prune.json`.
   5. `python3 shop/tools/product_apply.py .cache/shop/<family>` checks every draft (lengths, banned words, every number in the listing); `--apply` writes the passing ones and shows them.
   6. Write category texts and set listing images, show the categories, redirect closed brand pages of live products to `/brands`, then add list pages (`spec_pages.py`) and run `link-categories`.
-- Amazon US links carry the owner's tag `freshcalendar-20` (`amazon_us_tag` in `GET settings/offers`, checked on a live product page Nov. 20, 2026). The eBay tracking id is still empty, and so are the Amazon tags of other countries (UK links use the platform default).
+- Amazon US links carry the owner's tag `freshcalendar-20` (`amazon_us_tag` in `GET settings/offers`, checked on a live product page Nov. 20, 2026). Amazon tags of other countries are empty (UK links use the platform default).
 
 ### Ratings (Fresh Calendars Score)
 1. The method and the writing rules are in `ratings/METHODS.md`. The public version is the `/how-we-rate-products` page; keep both in step.
