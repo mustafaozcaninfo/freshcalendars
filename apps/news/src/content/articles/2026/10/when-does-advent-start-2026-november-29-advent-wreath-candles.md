@@ -2,6 +2,7 @@
 title: "Advent Sunday 2026: First Sunday Is Nov. 29, Candle Colors"
 description: "Advent 2026 starts Sunday, Nov. 29 and runs to Dec. 24. A table gives each Sunday's date and candle color, plus a printable wreath tracker."
 type: explainer
+shop: advent-calendars
 publishedAt: "2026-10-25T17:03:00-04:00"
 updatedAt: "2026-11-03T00:37:00-05:00"
 authors: [christina-gerland]

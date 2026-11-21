@@ -16,3 +16,10 @@ test("every shop box links the shop over https and carries the disclosure", () =
     assert.doesNotMatch(html, /[—!]/);
   }
 });
+
+test("month pages get the seasonal box in its month and the wall-calendar box otherwise", () => {
+  assert.match(shopBoxHtml("monthly:2026-12"), /categories\/advent-calendars/);
+  assert.match(shopBoxHtml("monthly:2026-11"), /categories\/advent-calendars/);
+  assert.equal(shopBoxHtml("monthly:2027-3"), shopBoxHtml("monthly"));
+  assert.equal(shopBoxHtml("monthly:2027-12"), shopBoxHtml("monthly"));
+});

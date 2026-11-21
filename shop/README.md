@@ -153,6 +153,12 @@ Every tool writes its output, backups and audits to `.cache/shop/` (gitignored).
 - `tools/category_guides.py` links every live article from its product category. Run it weekly and after scheduled articles go live; it skips articles that are not live yet.
 - The checker fails an H2 another article already uses, so give the "what we left out" section a heading that names the product kind.
 
+### Where the visitors come from: ChatGPT (measured Nov. 20, 2026)
+- From Nov. 16 the largest source of real visits is ChatGPT: 5, 28, 48, 87 and 107 visits a day, against 6 to 44 from search engines. 29% of those visits click a retailer button (search: 17%), 80% are on a phone, 64% from the US and 10% from Canada. They land on product pages first (47 of 81 landing URLs seen), then guides, categories and brand pages. "Direct" visits from Turkey and Qatar are our own checks.
+- `python3 shop/tools/ai_traffic.py` prints the daily table. ChatGPT takes most cited pages from search results, so Bing indexing (IndexNow, above) is what feeds it: watch both.
+- The calendar site sends readers over: six advent news stories carry a shop card (`shop: advent-calendars` or `shop: lego-advent` in the story's frontmatter, campaigns in `apps/news/src/lib/shop.ts`, off after Dec. 2), and the November and December 2026 month pages and the Thanksgiving page show the advent box (`packages/generator/src/shopLinks.ts`, key `monthly:<year>-<month>`). News cards are `rel="sponsored nofollow"`: they bring readers, not link weight.
+- Open for the owner: the shop sells to the US only, so Canadian and British visitors get amazon.com links with the US tag. Turning on OneLink in Amazon Associates (and linking the Canada and UK accounts) is the fix; nothing in the shop needs to change. The eBay tracking id is empty.
+
 ### IndexNow with our own key (Nov. 19, 2026)
 - The platform sends each new page to IndexNow, at most 200 a day by default (`indexnow_daily_limit`, now 1000). A day of product publishing used the 200 and the 30 advent guides were not sent.
 - The shop now has its own key (`PATCH settings/traffic` `indexnow_api_key`; a copy is in `.cache/shop/indexnow-key`). The platform does not serve `/<key>.txt` for a key set through the API, so the calendar site's Worker serves that one file: route `shop.freshcalendars.com/<key>.txt` in `wrangler.jsonc`, `shopKeyFile` in `cloudflare/worker.js` (the shop host is proxied through the same Cloudflare zone). Never widen that route to `shop.freshcalendars.com/*`.
