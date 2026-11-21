@@ -1,9 +1,9 @@
 ---
 title: "NFL International Games 2026: Munich Nov. 15, Mexico City Nov. 22"
-description: "NFL international games in November 2026: Munich Nov. 15 at 9:30 a.m. ET, Mexico City Nov. 22 at 8:20 p.m. ET. Kickoffs by time zone and a free printable."
+description: "NFL international games in November 2026: Munich was Nov. 15 at 9:30 a.m. ET, Mexico City is Nov. 22 at 8:20 p.m. ET. Kickoffs by time zone and a printable."
 type: news
 publishedAt: "2026-10-28T02:40:00-04:00"
-updatedAt: "2026-11-14T15:08:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["NFL Madrid game 2026 kickoff time", "NFL Munich game 2026 time", "NFL Mexico City game 2026", "NFL international games 2026 schedule"]
@@ -19,16 +19,16 @@ hero:
     author: "Choinowski"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Choinowski"
 summary:
-  - "Patriots at Lions in Munich is Sun., Nov. 15, 2026, at 9:30 a.m. Eastern Time (ET), 3:30 p.m. Munich time, on FOX, FOX One and NFL+, per NFL.com."
-  - "Vikings at 49ers in Mexico City is Sun., Nov. 22 at 8:20 p.m. ET on NBC, Peacock and NFL+. In Madrid on Nov. 8, the Bengals beat the Falcons 34-17, per Bengals.com."
+  - "Patriots at Lions in Munich was Sun., Nov. 15, 2026, at 9:30 a.m. Eastern Time (ET), 3:30 p.m. Munich time, on FOX, FOX One and NFL+, per NFL.com."
+  - "Vikings at 49ers in Mexico City is tomorrow, Sun., Nov. 22, at 8:20 p.m. ET on NBC, Peacock and NFL+. In Madrid on Nov. 8, the Bengals beat the Falcons 34-17, per Bengals.com."
   - "Europe moved its clocks back on Sun., Oct. 25 and the United States does so on Sun., Nov. 1, so from Nov. 1 Madrid and Munich are 6 hours ahead of Eastern Time and London is 5 hours ahead, by our conversion."
 faq:
   - q: "What time was the NFL game in Madrid in 2026?"
     a: "Bengals at Falcons kicked off Sunday, Nov. 8, 2026, at 9:30 a.m. ET, which was 3:30 p.m. in Madrid. The Bengals won 34-17, according to Bengals.com. NFL.com listed NFL Network and NFL+."
-  - q: "What time is the NFL game in Munich in 2026?"
-    a: "Patriots at Lions kicks off Sunday, Nov. 15, 2026, at 9:30 a.m. ET (3:30 p.m. Munich time), which is 8:30 a.m. Central Time (CT) and 6:30 a.m. Pacific Time (PT) by our conversion, according to the New England Patriots and NFL.com. NFL.com lists FOX, FOX One and NFL+."
+  - q: "What time was the NFL game in Munich in 2026?"
+    a: "Patriots at Lions kicked off Sunday, Nov. 15, 2026, at 9:30 a.m. ET (3:30 p.m. Munich time), which is 8:30 a.m. Central Time (CT) and 6:30 a.m. Pacific Time (PT) by our conversion, according to the New England Patriots and NFL.com. NFL.com lists FOX, FOX One and NFL+."
   - q: "What time is the NFL game in Mexico City in 2026?"
-    a: "Vikings at 49ers kicks off Sunday, Nov. 22, 2026, at 8:20 p.m. ET, which is 7:20 p.m. in Mexico City and 5:20 p.m. PT, by our conversion. NFL.com lists NBC, Peacock and NFL+."
+    a: "Vikings at 49ers kicks off tomorrow, Sunday, Nov. 22, 2026, at 8:20 p.m. ET, which is 7:20 p.m. in Mexico City and 5:20 p.m. PT, by our conversion. NFL.com lists NBC, Peacock and NFL+."
   - q: "Does the clock change move the kickoff times?"
     a: "No. The Eastern Time kickoffs are the ones NFL.com lists. The clock change affects only how many hours separate Europe and the United States on each date."
 sources:
@@ -65,8 +65,8 @@ related: [bengals-falcons-madrid-2026-kickoff-time-tv-streaming, printable-nfl-s
 assets:
   overlay: true
   kicker: "NFL abroad · Nov. 15 and 22, 2026"
-  date: "2026-11-15"
-  card: { top: "Patriots at Lions, Munich", big: "9:30 a.m. ET Sun.", bottom: "3:30 p.m. in Munich" }
+  date: "2026-11-22"
+  card: { top: "Vikings at 49ers, Mexico City", big: "8:20 p.m. ET Sun.", bottom: "7:20 p.m. in Mexico City" }
   printable:
     slug: nfl-international-games-2026-november-kickoff-times
     group: nfl-international-2026
@@ -75,7 +75,7 @@ assets:
     columns: ["Game", "Kickoff times"]
     layout: list
     rows:
-      - ["Sun., Nov. 15 · Patriots at Lions, Munich", "9:30 a.m. ET · 8:30 CT · 7:30 MT · 6:30 PT · 2:30 p.m. UK · 3:30 p.m. Munich · FOX"]
+      - ["Sun., Nov. 15 · Patriots at Lions, Munich (played)", "9:30 a.m. ET · 8:30 CT · 7:30 MT · 6:30 PT · 2:30 p.m. UK · 3:30 p.m. Munich · FOX"]
       - ["Sun., Nov. 22 · Vikings at 49ers, Mexico City", "8:20 p.m. ET · 7:20 CT · 6:20 MT · 5:20 PT · 7:20 p.m. Mexico City · NBC"]
       - ["From Sun., Nov. 1", "London is 5 hours ahead of Eastern; Madrid and Munich 6 hours ahead"]
     note: "Source: NFL.com, 2026 NFL schedule release (international games), read Nov. 14, 2026. Other time zones are our conversion."
@@ -94,16 +94,16 @@ downloads:
 draft: false
 ---
 
-**Patriots at Lions in Munich is Sunday, Nov. 15, 2026, at 9:30 a.m. Eastern Time (ET), which is 3:30 p.m. in Munich, on FOX, FOX One and NFL+, according to NFL.com.** Vikings at 49ers in Mexico City follows on Nov. 22. The National Football League (NFL) played its Madrid game on Nov. 8, and the Bengals beat the Falcons 34-17, according to the Bengals. Below: every kickoff in U.S. zones plus the United Kingdom, central Europe and Mexico City, and the clock gap that changed between Europe and the United States on Nov. 1.
+**Patriots at Lions in Munich was Sunday, Nov. 15, 2026, at 9:30 a.m. Eastern Time (ET), which was 3:30 p.m. in Munich, on FOX, FOX One and NFL+, according to NFL.com.** Vikings at 49ers in Mexico City is tomorrow, Nov. 22, at 8:20 p.m. ET on NBC. The National Football League (NFL) played its Madrid game on Nov. 8, and the Bengals beat the Falcons 34-17, according to the Bengals. Below: every kickoff in U.S. zones plus the United Kingdom, central Europe and Mexico City, and the clock gap that changed between Europe and the United States on Nov. 1.
 
 ## When are the NFL international games in November 2026?
 
-NFL.com lists the three games below; the Madrid game has been played. NFL.com's game pages print "VS." and do not label a home team; the Atlanta Falcons said they were the home side in Madrid and gave the start as 9:30 a.m. EST. NFL Football Operations says the 2026 season has "a record-breaking nine games played across four continents." The other six were Melbourne (Sept. 10), Rio de Janeiro (Sept. 27), London (Oct. 4, Oct. 11 and Oct. 18) and Paris (Oct. 25, Steelers and Saints at the Stade de France).
+NFL.com lists the three games below; the Madrid and Munich games have been played. NFL.com's game pages print "VS." and do not label a home team; the Atlanta Falcons said they were the home side in Madrid and gave the start as 9:30 a.m. EST. NFL Football Operations says the 2026 season has "a record-breaking nine games played across four continents." The other six were Melbourne (Sept. 10), Rio de Janeiro (Sept. 27), London (Oct. 4, Oct. 11 and Oct. 18) and Paris (Oct. 25, Steelers and Saints at the Stade de France).
 
 | Week | Date | Game | Stadium | Kickoff (ET) | TV and streaming |
 |---|---|---|---|---|---|
 | 9 | Sun., Nov. 8 | Bengals at Falcons | Bernabéu Stadium (Estadio Santiago Bernabéu), Madrid | 9:30 a.m. | NFL Network, NFL+ |
-| 10 | Sun., Nov. 15 | Patriots at Lions | FC Bayern Munich Stadium, Munich | 9:30 a.m. | FOX, FOX One, NFL+ |
+| 10 | Sun., Nov. 15 (played) | Patriots at Lions | FC Bayern Munich Stadium, Munich | 9:30 a.m. | FOX, FOX One, NFL+ |
 | 11 | Sun., Nov. 22 | Vikings at 49ers | Estadio Banorte, Mexico City | 8:20 p.m. | NBC, Peacock, NFL+ |
 
 NFL.com names the Munich venue FC Bayern Munich Stadium; the Patriots and NFL Football Operations call it FC Bayern Munich Arena. The Patriots' own announcement on May 14, 2026, gives the Munich start as "9:30 a.m. ET (3:30 p.m. Munich time)." For the full season, see our [printable NFL schedule for 2026-2027](/news/printable-nfl-schedule-2026-2027-pdf/).
@@ -115,14 +115,14 @@ The Eastern times are NFL.com's. Every other column is our conversion, using the
 | Game | Eastern | Central | Mountain | Pacific | Alaska | Hawaii | UK (GMT) | Madrid and Munich (CET) | Mexico City |
 |---|---|---|---|---|---|---|---|---|---|
 | Madrid, Sun., Nov. 8 (played) | 9:30 a.m. | 8:30 a.m. | 7:30 a.m. | 6:30 a.m. | 5:30 a.m. | 4:30 a.m. | 2:30 p.m. | 3:30 p.m. | 8:30 a.m. |
-| Munich, Sun., Nov. 15 | 9:30 a.m. | 8:30 a.m. | 7:30 a.m. | 6:30 a.m. | 5:30 a.m. | 4:30 a.m. | 2:30 p.m. | 3:30 p.m. | 8:30 a.m. |
+| Munich, Sun., Nov. 15 (played) | 9:30 a.m. | 8:30 a.m. | 7:30 a.m. | 6:30 a.m. | 5:30 a.m. | 4:30 a.m. | 2:30 p.m. | 3:30 p.m. | 8:30 a.m. |
 | Mexico City, Sun., Nov. 22 | 8:20 p.m. | 7:20 p.m. | 6:20 p.m. | 5:20 p.m. | 4:20 p.m. | 3:20 p.m. | 1:20 a.m. Mon., Nov. 23 | 2:20 a.m. Mon., Nov. 23 | 7:20 p.m. |
 
 Arizona does not observe daylight saving time and is on UTC-7, so by our conversion its times match the Mountain column in November.
 
 ## Why is Europe 6 hours ahead of Eastern Time in November?
 
-Europe and the United States change clocks on different dates. Europe moved back on Sunday, Oct. 25, and the United States moves back on Sunday, Nov. 1, 2026. Between those dates the gap was 5 hours for Madrid and Munich and 4 hours for London, by our conversion. From Nov. 1 the gap is 6 hours for Madrid and Munich and 5 hours for London, which is why 9:30 a.m. ET is 3:30 p.m. in Munich.
+Europe and the United States change clocks on different dates. Europe moved back on Sunday, Oct. 25, and the United States moves back on Sunday, Nov. 1, 2026. Between those dates the gap was 5 hours for Madrid and Munich and 4 hours for London, by our conversion. From Nov. 1 the gap is 6 hours for Madrid and Munich and 5 hours for London, which is why 9:30 a.m. ET was 3:30 p.m. in Munich.
 
 The clock change does not move the kickoff; the Eastern times above are the ones NFL.com lists. It only changes the hours between you and the stadium. Our stories on the [UK and Europe clocks going back on Oct. 25](/news/uk-europe-clocks-go-back-october-25-2026-time-difference/) and [daylight saving time ending Nov. 1, 2026](/news/daylight-saving-time-ends-november-1-2026/) cover each change.
 
@@ -134,4 +134,4 @@ For Madrid, the Cincinnati Bengals said the game "will be broadcast nationally o
 
 ## Free NFL international games printable
 
-Our one-page printable lists the two remaining games with kickoff times in U.S. zones, the United Kingdom, Munich and Mexico City, plus the clock gap from Nov. 1. Mark Nov. 15 and 22 on your [November 2026 printable calendar](/november-calendars.html) or your [printable weekly calendar](/printable-weekly-calendar.html).
+Our one-page printable lists the Munich and Mexico City games with kickoff times in U.S. zones, the United Kingdom, Munich and Mexico City, plus the clock gap from Nov. 1. Mark Nov. 15 and 22 on your [November 2026 printable calendar](/november-calendars.html) or your [printable weekly calendar](/printable-weekly-calendar.html).

@@ -3,15 +3,15 @@ title: "New Movies in Theaters November 2026: Hunger Games on Nov. 20"
 description: "Nine films have a November 2026 theater date, from The Cat in the Hat on Nov. 6 to Hexed on Nov. 25. See weekday and release type, plus a free printable."
 type: news
 publishedAt: "2026-10-31T11:50:00-04:00"
-updatedAt: "2026-11-14T15:06:00-05:00"
+updatedAt: "2026-11-21T15:47:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new movies in theaters November 2026", "movies coming out in November 2026", "Thanksgiving 2026 movies", "Sunrise on the Reaping release date"]
 assets:
   overlay: true
   kicker: "Movies in theaters · November 2026"
-  date: "2026-11-20"
-  card: { top: "The Hunger Games: Sunrise on the Reaping", big: "Fri., Nov. 20", bottom: "Studio dates for nine films" }
+  date: "2026-11-25"
+  card: { top: "Next in theaters", big: "Wed., Nov. 25", bottom: "Hexed, Hershey and Focker In-Law" }
   printable:
     kit: release-tracker
     slug: november-2026-movie-release-calendar
@@ -20,11 +20,11 @@ assets:
     subtitle: "Theater dates listed on studio pages; tick each film as you see it"
     note: "Source: studio pages for each film (Lionsgate, Disney, Toho, Warner Bros., Angel Studios, Amazon MGM Studios, Neon, Focus Features, Universal Pictures). Release dates can change."
     data:
-      platforms: ["In theaters", "Select theaters", "Limited run"]
+      platforms: ["In theaters", "Limited run"]
       releases:
         - { date: "2026-11-06", title: "Godzilla Minus Zero", platforms: ["In theaters"], note: "Wide release", src: 4, quote: "wide North American release following just days later on November 6" }
         - { date: "2026-11-06", title: "The Cat in the Hat", platforms: ["In theaters"], note: "Wide, with IMAX", src: 12, quote: "comes to theaters and IMAX® across North America on November 6, 2026" }
-        - { date: "2026-11-06", title: "I Play Rocky", platforms: ["Select theaters"], note: "Everywhere later in November", src: 7, quote: ["updated on November 6, 2026, to reflect that the film is out now in select theaters", "It will be in theaters everywhere later in November."] }
+        - { date: "2026-11-06", title: "I Play Rocky", platforms: ["In theaters"], note: "Out now globally", src: 7, quote: ["updated on November 6, 2026, to reflect that the film is out now in select theaters", "The film is out now in theaters globally."] }
         - { date: "2026-11-13", title: "Paper Tiger", platforms: ["In theaters"], note: "Date listed by Neon", src: 8, quote: "In Theaters Nov 13, 2026" }
         - { date: "2026-11-20", title: "The Hunger Games: Sunrise on the Reaping", platforms: ["In theaters"], src: 1, quote: "The Hunger Games: Sunrise on the Reaping | Official Website | November 20 2026" }
         - { date: "2026-11-20", title: "Elsinore", platforms: ["Limited run"], note: "Wider over Thanksgiving", src: 9, quote: "limited run on Friday, Nov. 20" }
@@ -45,12 +45,12 @@ hero:
     author: "w_lemay"
 summary:
   - "Nine films have a November 2026 theater date on studio pages: The Cat in the Hat, Godzilla Minus Zero and I Play Rocky on Nov. 6, Paper Tiger on Nov. 13, Sunrise on the Reaping and Elsinore on Nov. 20, and Hexed, Hershey and Focker In-Law on Nov. 25."
-  - "The Hunger Games: Sunrise on the Reaping opens Friday, Nov. 20, 2026, per Lionsgate's official site."
+  - "The Hunger Games: Sunrise on the Reaping opened Friday, Nov. 20, 2026, per Lionsgate's official site."
   - "Hexed from Walt Disney Animation Studios, Hershey from Angel Studios and Universal's Focker In-Law all list Wednesday, Nov. 25, the day before Thanksgiving."
   - "Greta Gerwig's Narnia film, once slated for Thanksgiving 2026, now opens in theaters Feb. 12, 2027, Variety and JoBlo reported."
 faq:
   - q: "When does The Hunger Games: Sunrise on the Reaping come out?"
-    a: "Lionsgate's official site lists Friday, Nov. 20, 2026."
+    a: "Lionsgate's official site lists Friday, Nov. 20, 2026, and the film opened that day."
   - q: "What movies open on Thanksgiving week 2026?"
     a: "Disney's Hexed, Angel Studios' Hershey and Universal's Focker In-Law all list Wednesday, Nov. 25, 2026. Focus Features says Elsinore expands wider over the Thanksgiving holiday after a limited start on Nov. 20."
   - q: "Is Godzilla Minus Zero in U.S. theaters in November 2026?"
@@ -82,7 +82,7 @@ sources:
   - title: "I Play Rocky movie: Trailer, cast, release date, and what to know"
     url: "https://www.aboutamazon.com/news/entertainment/i-play-rocky-trailer-cast-release-date-amazon-mgm-studios"
     publisher: "About Amazon"
-    date: "2026-11-13"
+    date: "2026-11-20"
   - title: "Neon"
     url: "https://www.neonrated.com/"
     publisher: "Neon"
@@ -120,7 +120,7 @@ downloads:
 draft: false
 ---
 
-**Nine films have a November 2026 theater date on their studios' own pages, from "The Cat in the Hat" and "Godzilla Minus Zero" on Friday, Nov. 6 to "Hexed," "Hershey" and "Focker In-Law" on Wednesday, Nov. 25, and "The Hunger Games: Sunrise on the Reaping" opens Friday, Nov. 20, per Lionsgate's official site.** The table below sorts them by date with the weekday and the kind of release. A free printable calendar follows it.
+**Nine films have a November 2026 theater date on their studios' own pages, from "The Cat in the Hat" and "Godzilla Minus Zero" on Friday, Nov. 6 to "Hexed," "Hershey" and "Focker In-Law" on Wednesday, Nov. 25, and "The Hunger Games: Sunrise on the Reaping" opened Friday, Nov. 20, per Lionsgate's official site.** The table below sorts them by date with the weekday and the kind of release. A free printable calendar follows it.
 
 ## Which movies open in theaters in November 2026?
 
@@ -130,15 +130,15 @@ Each row uses the studio's or distributor's own page. Some listings elsewhere sh
 |---|---|---|---|---|---|
 | Nov. 6 | Friday | The Cat in the Hat | Warner Bros. Pictures | Theaters and IMAX | catinthehatfilm.com |
 | Nov. 6 | Friday | Godzilla Minus Zero | Toho | Wide | godzilla.com, Jan. 9, 2026 |
-| Nov. 6 | Friday | I Play Rocky | Amazon Metro-Goldwyn-Mayer (MGM) Studios | Select theaters | About Amazon, Nov. 6, 2026 |
+| Nov. 6 | Friday | I Play Rocky | Amazon Metro-Goldwyn-Mayer (MGM) Studios | In theaters, out now globally | About Amazon, Nov. 20, 2026 |
 | Nov. 13 | Friday | Paper Tiger | Neon | In theaters; Neon listed Nov. 13 | neonrated.com |
-| Nov. 20 | Friday | The Hunger Games: Sunrise on the Reaping | Lionsgate | Opening day | tickets.hungergames.movie |
-| Nov. 20 | Friday | Elsinore | Focus Features | Limited | Focus Features, July 28, 2026 |
+| Nov. 20 | Friday | The Hunger Games: Sunrise on the Reaping | Lionsgate | Opened | tickets.hungergames.movie |
+| Nov. 20 | Friday | Elsinore | Focus Features | Limited, opened | Focus Features, July 28, 2026 |
 | Nov. 25 | Wednesday | Hexed | Walt Disney Animation Studios | Theaters | movies.disney.com |
 | Nov. 25 | Wednesday | Hershey | Angel Studios | Theaters | angel.com |
 | Nov. 25 | Wednesday | Focker In-Law | Universal Pictures | Theaters | universalpictures.com |
 
-Weekdays are our calculation from the dates. The first three films in the table and "Paper Tiger" have already opened; the rest are still ahead as of Nov. 14, 2026.
+Weekdays are our calculation from the dates. The first six films in the table have opened, including Sunrise on the Reaping and Elsinore on Nov. 20; the last three, all on Nov. 25, are still ahead as of Nov. 21, 2026.
 
 ## When does Sunrise on the Reaping come out?
 
@@ -146,11 +146,11 @@ Lionsgate's official site, titled "The Hunger Games: Sunrise on the Reaping | Of
 
 ## Which films are wide releases and which are limited?
 
-The release type matters because a film that starts in select theaters may not play near you on day one.
+The release type shows which films opened wide and which started with a limited run.
 
 - **Wide:** (IMAX Early Access dates and UK details are in our [Godzilla Minus Zero release date story](/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/).) Toho's announcement on godzilla.com says "Godzilla Minus Zero" opened in Japan on Nov. 3, "with a wide North American release following just days later on November 6."
-- **Select theaters:** "I Play Rocky" opened in select theaters on Nov. 6, and Amazon's page, updated Nov. 13, says it is "out now in limited theaters" and "will be in theaters everywhere later in November." It does not give a wide date.
-- **Limited:** Focus Features says "Elsinore" begins a limited run on Friday, Nov. 20, then expands wider over the Thanksgiving holiday and through December.
+- **In theaters:** "I Play Rocky" opened Nov. 6, and Amazon's page, updated Nov. 20, says "The film is out now in theaters globally."
+- **Limited:** Focus Features says "Elsinore" began a limited run on Friday, Nov. 20, and then expands wider over the Thanksgiving holiday and through December.
 - **Theaters and IMAX:** Warner Bros.' official site says "The Cat in the Hat" comes "to theaters and IMAX across North America on November 6, 2026," and its banner now reads "Now Playing Only in Theaters."
 - **Now in theaters:** Neon's homepage listed "In Theaters Nov 13, 2026" for "Paper Tiger" and now shows it under "In Theaters" without a date. Neon does not say whether the opening is wide or limited.
 

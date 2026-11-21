@@ -3,7 +3,7 @@ title: "BEA GDP Release Schedule 2026: Next Estimates Nov. 25, Dec. 23"
 description: "Gross domestic product (GDP) grew 3.4% in the third quarter of 2026, the Bureau of Economic Analysis (BEA) says. See all 14 releases through Dec. 23."
 type: news
 publishedAt: "2026-10-28T17:46:00-04:00"
-updatedAt: "2026-11-14T01:30:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["gdp report today", "gdp release october 29 2026", "q3 gdp release date 2026", "pce release date", "bea release schedule november 2026"]
@@ -25,11 +25,11 @@ summary:
   - "U.S. clocks fell back on Sunday, Nov. 1, so the 8:30 a.m. ET releases were on Eastern Daylight Time (EDT) on Oct. 29 and are on Eastern Standard Time (EST) from Nov. 4 on."
 faq:
   - q: "What time is the GDP report on Oct. 29, 2026?"
-    a: "8:30 a.m. Eastern Daylight Time (EDT), which is 7:30 a.m. Central, 6:30 a.m. Mountain, 5:30 a.m. in Arizona and Pacific, and 12:30 p.m. in London."
+    a: "8:30 a.m. Eastern Daylight Time (EDT), which was 7:30 a.m. Central, 6:30 a.m. Mountain, 5:30 a.m. in Arizona and Pacific, and 12:30 p.m. in London."
   - q: "What does the Oct. 29 GDP release cover?"
     a: "The advance estimate of real gross domestic product for the third quarter of 2026, according to the BEA release schedule."
   - q: "When is the PCE price index released?"
-    a: "The BEA says the PCE price index is released each month in the Personal Income and Outlays report. The September 2026 report is on Oct. 29 and the October 2026 report is on Nov. 25."
+    a: "The BEA says the PCE price index is released each month in the Personal Income and Outlays report. The September 2026 report was released Oct. 29 and the October 2026 report is on Nov. 25."
   - q: "When is the second estimate of third-quarter GDP?"
     a: "Wednesday, Nov. 25, 2026, at 8:30 a.m. ET, together with Corporate Profits. The third estimate is on Wednesday, Dec. 23, 2026."
   - q: "Where are the jobs report and Consumer Price Index dates?"
@@ -138,12 +138,12 @@ The schedule has 14 items between Oct. 29 and Dec. 23. All are at 8:30 a.m. ET e
 
 | Date | ET time | Release |
 |---|---|---|
-| Thu., Oct. 29 | 8:30 a.m. | GDP (Advance Estimate), 3rd Quarter 2026 |
-| Thu., Oct. 29 | 8:30 a.m. | Personal Income and Outlays, September 2026 |
+| Thu., Oct. 29 | 8:30 a.m. | GDP (Advance Estimate), 3rd Quarter 2026 (released) |
+| Thu., Oct. 29 | 8:30 a.m. | Personal Income and Outlays, September 2026 (released) |
 | Wed., Nov. 4 | 8:30 a.m. | U.S. International Trade in Goods and Services, September 2026 (released) |
-| Tue., Nov. 17 | 10:00 a.m. | Experimental Super Intelligence Economic Statistics, 2024 (article) |
-| Wed., Nov. 18 | 10:00 a.m. | Outdoor Recreation Economic Statistics, U.S. and States, 2025 |
-| Fri., Nov. 20 | 8:30 a.m. | Activities of U.S. Multinational Enterprises, 2024 |
+| Tue., Nov. 17 | 10:00 a.m. | Experimental Super Intelligence Economic Statistics, 2024 (article, released) |
+| Wed., Nov. 18 | 10:00 a.m. | Outdoor Recreation Economic Statistics, U.S. and States, 2025 (released) |
+| Fri., Nov. 20 | 8:30 a.m. | Activities of U.S. Multinational Enterprises, 2024 (released) |
 | Wed., Nov. 25 | 8:30 a.m. | GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 |
 | Wed., Nov. 25 | 8:30 a.m. | Personal Income and Outlays, October 2026 |
 | Wed., Dec. 2 | 8:30 a.m. | GDP by County and Personal Income by County, 2025 |

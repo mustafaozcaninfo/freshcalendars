@@ -3,6 +3,7 @@ title: "Nintendo Black Friday 2026: Switch 2 Mario Kart Bundle $499.99 Nov. 22"
 description: "Nintendo's Switch 2 + Mario Kart World Bundle is $499.99 Nov. 22-Dec. 5. Day-by-day timeline of all three deal windows and a printable deal calendar."
 type: news
 publishedAt: "2026-11-14T23:20:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["nintendo black friday 2026", "switch 2 black friday 2026", "nintendo switch 2 mario kart bundle black friday", "nintendo eshop black friday sale 2026"]
@@ -24,7 +25,7 @@ assets:
       pick: false
       layout: table
       events:
-        - { date: "2026-11-19", time: TBA, title: "Digital sale starts", detail: "Nintendo eShop and Nintendo Store website", airing: live, src: 1, quote: "a sale on Nintendo eShop and the Nintendo Store website beginning Nov. 19 through Dec. 2" }
+        - { date: "2026-11-19", time: TBA, title: "Digital sale started", detail: "Nintendo eShop and Nintendo Store website", airing: live, src: 1, quote: "a sale on Nintendo eShop and the Nintendo Store website beginning Nov. 19 through Dec. 2" }
         - { date: "2026-11-22", time: TBA, title: "Switch 2 + Mario Kart World Bundle, $499.99", detail: "Runs through Dec. 5, while supplies last", airing: live, src: 1, quote: "Starting Nov. 22 through Dec. 5, rev up for Black Friday with the Nintendo Switch 2 + Mario Kart World Bundle" }
         - { date: "2026-11-22", time: TBA, title: "$20 off select physical games", detail: "Runs through Nov. 29, while supplies last", airing: live, src: 1, quote: "from Nov. 22 through Nov. 29" }
         - { date: "2026-11-29", time: TBA, title: "$20 off physical games ends", detail: "Offer valid through this date", airing: live, src: 1, quote: "from Nov. 22 through Nov. 29" }
@@ -49,7 +50,7 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:PantheraLeo1359531"
 summary:
   - "Nintendo says the Nintendo Switch 2 + Mario Kart World Bundle is $499.99 from Nov. 22 through Dec. 5, 2026, $50 off the suggested retail price, with a 3-month Nintendo Switch Online Individual Membership."
-  - "A sale on Nintendo eShop and the Nintendo Store website runs Nov. 19 through Dec. 2, ending at 11:59 p.m. PT (2:59 a.m. ET on Thursday, Dec. 3)."
+  - "A sale on Nintendo eShop and the Nintendo Store website started Thursday, Nov. 19 and runs through Dec. 2, ending at 11:59 p.m. PT (2:59 a.m. ET on Thursday, Dec. 3)."
   - "Select physical games, including Donkey Kong Bananza, are $20 off from Nov. 22 through Nov. 29 at retailers and Nintendo's New York and San Francisco stores."
   - "Nintendo has not posted the digital sale's game list, and its release names no separate Cyber Monday offer."
 faq:
@@ -109,11 +110,11 @@ draft: false
 
 ## What are the Nintendo Black Friday 2026 dates?
 
-Nintendo's release names three windows. The digital sale starts first, and the Switch 2 bundle and the physical-game discount start together on Nov. 22, five days before Black Friday on Friday, Nov. 27.
+Nintendo's release names three windows. The digital sale started first, on Thursday, Nov. 19. The Switch 2 bundle and the physical-game discount start together tomorrow, Sunday, Nov. 22, five days before Black Friday on Friday, Nov. 27.
 
 | Date | Day | What happens | Source wording |
 |---|---|---|---|
-| Nov. 19 | Thu. | Digital sale starts on Nintendo eShop and the Nintendo Store website | "beginning Nov. 19 through Dec. 2" |
+| Nov. 19 | Thu. | Digital sale started on Nintendo eShop and the Nintendo Store website | "beginning Nov. 19 through Dec. 2" |
 | Nov. 22 | Sun. | Switch 2 + Mario Kart World Bundle at $499.99 starts | "Starting Nov. 22 through Dec. 5" |
 | Nov. 22 | Sun. | $20 off select physical games starts | "from Nov. 22 through Nov. 29" |
 | Nov. 26 | Thu. | Thanksgiving, in the middle of both windows | Calendar date |
@@ -123,7 +124,7 @@ Nintendo's release names three windows. The digital sale starts first, and the S
 | Dec. 2 | Wed. | Digital sale ends at 11:59 p.m. PT (2:59 a.m. ET, Thu., Dec. 3) | "Dec. 2 at 11:59 p.m. PT" |
 | Dec. 5 | Sat. | Switch 2 bundle ends | "Starting Nov. 22 through Dec. 5" |
 
-From Saturday, Nov. 14, the digital sale is 5 days away, the bundle and game discount are 8 days away and the bundle's last day is 21 days away. The digital sale and the bundle each span 14 days, counting both ends. The physical-game offer spans 8.
+From today, Saturday, Nov. 21, the bundle and game discount start tomorrow, the digital sale ends in 11 days and the bundle's last day is 14 days away. The digital sale and the bundle each span 14 days, counting both ends. The physical-game offer spans 8.
 
 Nintendo gives no start hour for the bundle or the game discount, and the footnote reads "Offer valid 11/22/2026 - 12/5/2026, available while supplies last." Nintendo's footnotes also say "Actual savings may vary. See participating retailers for details." The release says Black Friday begins Nov. 22 at select retailers including Amazon, Best Buy, GameStop, Target and Walmart, plus Nintendo's New York and San Francisco stores. Our [when is Black Friday](/when-is/black-friday/) page has the retail date.
 
@@ -144,11 +145,11 @@ In 2025, Nintendo announced its holiday offers on Nov. 10. The 2026 release came
 | Switch 2 bundle price | Suggested retail price of $499.99 | $499.99, $50 off $549.99 |
 | Switch 2 system price | $449.99 | $499.99 (since Sept. 1, 2026) |
 
-The digital sale starts and ends one day earlier in 2026 (Nov. 19 and Dec. 2) than in 2025 (Nov. 20 and Dec. 3). Each is 14 days long, counting both ends.
+The digital sale started and ends one day earlier in 2026 (Nov. 19 and Dec. 2) than in 2025 (Nov. 20 and Dec. 3). Each is 14 days long, counting both ends.
 
 ## What is the Nintendo eShop Black Friday sale in 2026?
 
-Nintendo says a sale on Nintendo eShop and the Nintendo Store website starts Nov. 19 and runs through Dec. 2 at 11:59 p.m. PT. The release names no games and no discounts, so the list was not yet posted as of Nov. 14. Check the eShop's own sale page for prices on Nov. 19. For 11:59 p.m. PT on Dec. 2, Pacific Standard Time (UTC-8) puts Eastern Time (ET) three hours ahead, which is 2:59 a.m. on Thursday, Dec. 3.
+Nintendo says a sale on Nintendo eShop and the Nintendo Store website started Thursday, Nov. 19 and runs through Dec. 2 at 11:59 p.m. PT. The release names no games and no discounts, so the list was not yet posted as of Nov. 14. Check the eShop's own sale page for prices. For 11:59 p.m. PT on Dec. 2, Pacific Standard Time (UTC-8) puts Eastern Time (ET) three hours ahead, which is 2:59 a.m. on Thursday, Dec. 3.
 
 ## Which physical games are $20 off?
 

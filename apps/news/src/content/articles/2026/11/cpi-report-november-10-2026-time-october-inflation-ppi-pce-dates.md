@@ -3,7 +3,7 @@ title: "BLS CPI Release Schedule: Nov. 10, 2026 at 8:30 a.m. ET"
 description: "October 2026 Consumer Price Index (CPI) rose 0.4%, core 0.3%, the Bureau of Labor Statistics said Nov. 10. No 12-month change; dates run to March 2027."
 type: news
 publishedAt: "2026-11-01T22:44:00-05:00"
-updatedAt: "2026-11-14T15:06:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["cpi report november 2026", "when is the next cpi report", "cpi release date", "inflation report november 10 2026", "ppi release date november 2026"]
@@ -20,7 +20,7 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Infrogmation"
 summary:
   - "The Bureau of Labor Statistics (BLS) published the Consumer Price Index (CPI) for October 2026 on Tuesday, Nov. 10, 2026, at 8:30 a.m. Eastern Time (ET): all items rose 0.4 percent and core rose 0.3 percent, with no 12-month change."
-  - "The Producer Price Index (PPI) for October was scheduled for Friday, Nov. 13, and the Bureau of Economic Analysis (BEA) lists its October Personal Income and Outlays release for Wednesday, Nov. 25, 2026, the next date on the calendar."
+  - "The Producer Price Index (PPI) for October was released Friday, Nov. 13, and the Bureau of Economic Analysis (BEA) lists its October Personal Income and Outlays release for Wednesday, Nov. 25, 2026, the next date on the calendar."
   - "The next CPI is Thursday, Dec. 10, 2026, for November; the BLS has also posted CPI dates through Mar. 10, 2027."
   - "Our table combines CPI, PPI and BEA dates from Nov. 2026 to Mar. 2027, and a printable carries the same rows."
 faq:
@@ -31,7 +31,7 @@ faq:
   - q: "When is the next CPI report after Nov. 10?"
     a: "Thursday, Dec. 10, 2026, at 8:30 a.m. ET, covering November 2026."
   - q: "When is the PPI release in November 2026?"
-    a: "The BLS scheduled it for Friday, Nov. 13, 2026, at 8:30 a.m. ET, for October 2026. The next PPI is Tuesday, Dec. 15, for November."
+    a: "The BLS released it on Friday, Nov. 13, 2026, at 8:30 a.m. ET, for October 2026. The next PPI is Tuesday, Dec. 15, for November."
   - q: "When is the release that includes the Personal Consumption Expenditures (PCE) price index?"
     a: "The BEA schedule lists Personal Income and Outlays for October 2026 on Wednesday, Nov. 25, 2026, at 8:30 a.m. ET, and for November 2026 on Wednesday, Dec. 23, 2026."
   - q: "Was the Nov. 10 CPI release delayed?"
@@ -124,8 +124,8 @@ Every BLS release below is at 8:30 a.m. ET on the BLS schedules. The BEA lists i
 
 | Date | ET time | Release | Month covered |
 |---|---|---|---|
-| Tue., Nov. 10, 2026 | 8:30 a.m. | CPI (BLS) | October 2026 |
-| Fri., Nov. 13, 2026 | 8:30 a.m. | PPI (BLS) | October 2026 |
+| Tue., Nov. 10, 2026 | 8:30 a.m. | CPI (BLS, released) | October 2026 |
+| Fri., Nov. 13, 2026 | 8:30 a.m. | PPI (BLS, released) | October 2026 |
 | Wed., Nov. 25, 2026 | 8:30 a.m. | Personal Income and Outlays (BEA) | October 2026 |
 | Thu., Dec. 10, 2026 | 8:30 a.m. | CPI (BLS) | November 2026 |
 | Tue., Dec. 15, 2026 | 8:30 a.m. | PPI (BLS) | November 2026 |
@@ -151,7 +151,7 @@ The BLS released the September 2026 CPI at 8:30 a.m. ET on Wednesday, Oct. 14, 2
 
 ## When is the PPI report for October 2026?
 
-The BLS scheduled the Producer Price Index for October 2026 for Friday, Nov. 13, 2026, at 8:30 a.m. ET, three days after the CPI. We could not read the BLS PPI release itself, so no October PPI figures are given here. The November PPI is Tuesday, Dec. 15, 2026, five days after that month's CPI on Thursday, Dec. 10.
+The BLS released the Producer Price Index for October 2026 on Friday, Nov. 13, 2026, at 8:30 a.m. ET, three days after the CPI. No October PPI figures are given here. The November PPI is Tuesday, Dec. 15, 2026, five days after that month's CPI on Thursday, Dec. 10.
 
 ## When is the BEA Personal Income and Outlays release?
 

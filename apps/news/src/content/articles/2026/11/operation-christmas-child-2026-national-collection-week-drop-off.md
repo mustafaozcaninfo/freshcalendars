@@ -3,7 +3,7 @@ title: "Operation Christmas Child 2026: Collection Week Nov. 16-23"
 description: "Operation Christmas Child's 2026 National Collection Week runs Mon., Nov. 16 to Mon., Nov. 23, per Samaritan's Purse. Find a drop-off, print a pack list."
 type: explainer
 publishedAt: "2026-11-06T06:36:00-05:00"
-updatedAt: "2026-11-14T15:06:00-05:00"
+updatedAt: "2026-11-21T15:47:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["operation christmas child 2026 drop off", "national collection week 2026", "operation christmas child 2026 dates", "what to put in operation christmas child shoebox"]
@@ -141,20 +141,20 @@ downloads:
 draft: false
 ---
 
-**Operation Christmas Child's National Collection Week runs Nov. 16-23, 2026,** according to Samaritan's Purse, the charity that runs the shoebox program. That is Monday, Nov. 16 to Monday, Nov. 23 by our calendar count. Below are a day-by-day planner, how to use the drop-off finder, the official pack and do-not-pack lists and the dates in the United Kingdom (UK) and Canada. We re-read the official pages on Nov. 14, 2026; they show no publication date.
+**Operation Christmas Child's National Collection Week runs Nov. 16-23, 2026, and is under way now,** according to Samaritan's Purse, the charity that runs the shoebox program. That is Monday, Nov. 16 to Monday, Nov. 23 by our calendar count, so two days remain after today, Saturday, Nov. 21. Below are a day-by-day planner, how to use the drop-off finder, the official pack and do-not-pack lists and the dates in the United Kingdom (UK) and Canada. We re-read the official pages on Nov. 14, 2026; they show no publication date.
 
 ## When is Operation Christmas Child collection week in 2026?
 
-The Samaritan's Purse home page, packing page and fact sheet all give "National Collection Week | Nov. 16-23, 2026." Counting both ends, that is 8 days: six weekdays and one weekend. Samaritan's Purse does not publish a day-by-day schedule, so the planner below is our suggestion built on those two dates.
+The Samaritan's Purse home page, packing page and fact sheet all give "National Collection Week | Nov. 16-23, 2026." Counting both ends, that is 8 days: six weekdays and one weekend. Samaritan's Purse does not publish a day-by-day schedule, so the planner below is our suggestion built on those two dates. Nov. 16-20 have passed; today and the days after still count.
 
 | Day | Date | Suggested step |
 |---|---|---|
-| Monday | Nov. 16 | Collection week opens. Search the drop-off finder for your location |
-| Tuesday | Nov. 17 | Ask your chosen location for its hours |
-| Wednesday | Nov. 18 | Pack the box |
-| Thursday | Nov. 19 | Give the suggested $10 online if you want a tracking label |
-| Friday | Nov. 20 | Drop off the box |
-| Saturday | Nov. 21 | Weekend: drop off if your location is open |
+| Monday | Nov. 16 (passed) | Collection week opened. Search the drop-off finder for your location |
+| Tuesday | Nov. 17 (passed) | Ask your chosen location for its hours |
+| Wednesday | Nov. 18 (passed) | Pack the box |
+| Thursday | Nov. 19 (passed) | Give the suggested $10 online if you want a tracking label |
+| Friday | Nov. 20 (passed) | Drop off the box |
+| Saturday | Nov. 21 (today) | Weekend: drop off if your location is open |
 | Sunday | Nov. 22 | Weekend: drop off if your location is open |
 | Monday | Nov. 23 | Last day of National Collection Week |
 

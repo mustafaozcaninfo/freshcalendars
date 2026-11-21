@@ -1,9 +1,9 @@
 ---
 title: "US Christmas Markets 2026: Opening Dates and Closed Days by City"
-description: "US Christmas markets 2026: Detroit and DC are open, Denver opens Nov. 20 and Philadelphia Nov. 21. Closed days, Thanksgiving hours and a printable."
+description: "US Christmas markets 2026: Detroit, DC and Denver are open and Philadelphia opens today, Nov. 21. Closed days, Thanksgiving hours and a printable."
 type: news
 publishedAt: "2026-10-31T14:23:00-04:00"
-updatedAt: "2026-11-14T15:32:00-05:00"
+updatedAt: "2026-11-21T15:47:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Christmas markets 2026 USA", "Christmas Village Philadelphia 2026 dates", "DC Holiday Market 2026", "Detroit winter markets 2026", "when do Christmas markets open 2026"]
@@ -19,18 +19,18 @@ hero:
     author: "Prphilachristmas"
 summary:
   - "Detroit's Downtown Winter Markets opened Wednesday, Nov. 11, 2026 and run through Jan. 3, 2027, according to Decked Out Detroit."
-  - "The DC Holiday Market opened Thursday, Nov. 12 and runs to Wednesday, Dec. 23, and the Christmas Village in Philadelphia runs Saturday, Nov. 21 to Sunday, Dec. 27."
+  - "The DC Holiday Market opened Thursday, Nov. 12 and runs to Wednesday, Dec. 23, and the Christmas Village in Philadelphia opens today, Saturday, Nov. 21, and runs to Sunday, Dec. 27."
   - "Philadelphia's market is closed Nov. 23-25 and Dec. 25, the DC market is closed on Thanksgiving and Monday, Nov. 30, and Detroit is closed Mondays and Tuesdays except Dec. 14-15 and 21-22."
-  - "Also confirmed: Boston Snowport Nov. 6 to Dec. 27, Union Square Holiday Market Nov. 12 to Dec. 24, Denver Christkindlmarket Nov. 20 to Dec. 23 and Columbus Circle Holiday Market Dec. 1 to 31; Leavenworth starts Nov. 27."
+  - "Also confirmed: Boston Snowport Nov. 6 to Dec. 27, Union Square Holiday Market Nov. 12 to Dec. 24, Denver Christkindlmarket (opened Nov. 20) to Dec. 23 and Columbus Circle Holiday Market Dec. 1 to 31; Leavenworth starts Nov. 27."
 faq:
   - q: "When does the Christmas Village in Philadelphia open in 2026?"
-    a: "Saturday, Nov. 21, 2026, according to philachristmas.com. It runs through Sunday, Dec. 27 at City Hall, 1500 Arch Street, with no admission charge."
+    a: "Today, Saturday, Nov. 21, 2026, according to philachristmas.com. It runs through Sunday, Dec. 27 at City Hall, 1500 Arch Street, with no admission charge."
   - q: "When does the DC Holiday Market open in 2026?"
     a: "Thursday, Nov. 12, 2026, and it continues through Wednesday, Dec. 23, according to dcholidaymarket.net. It is on the 1500 block of New Hampshire Avenue NW, just north of Dupont Circle. The site does not state an admission price."
   - q: "Is the Detroit winter market open on Mondays?"
     a: "Not usually. Decked Out Detroit lists Monday and Tuesday as closed, except Dec. 14-15 and Dec. 21-22, when the market is open 11 a.m. to 8 p.m. The Downtown Detroit Winter Markets are open Wednesday to Sunday from Nov. 11, 2026 through Jan. 3, 2027."
   - q: "Is the Bryant Park Winter Village open now?"
-    a: "Yes. Bryant Park's site says the Rink, Holiday Shops and The Lodge are open for the 2026-2027 season, and Cozy Igloos are now open. The page does not give a closing date."
+    a: "Yes. Bryant Park's site says the Rink, Holiday Shops and The Lodge are open for the 2026-2027 season, and Cozy Igloos are now open. The Rink page lists daily hours of 8 a.m. to 10 p.m. from Oct. 28, 2026 to Feb. 28, 2027, with holiday hours of 8 a.m. to midnight from Nov. 19 to Jan. 3."
   - q: "Which markets are still waiting on 2026 dates?"
     a: "As of Nov. 14, 2026, we could not confirm 2026 dates for Christkindlmarket Chicago, Grand Central Holiday Fair, Cincinnati Christkindlmarkt or the Carmel Christkindlmarkt season dates. Denver, Union Square and Columbus Circle are now confirmed by their official pages, and Boston Snowport by two newsrooms."
 sources:
@@ -50,6 +50,10 @@ sources:
     url: "https://bryantpark.org/"
     publisher: "Bryant Park Corporation"
     date: "2026-11-14"
+  - title: "The Rink at Bryant Park"
+    url: "https://bryantpark.org/activities/the-rink"
+    publisher: "Bryant Park Corporation"
+    date: "2026-11-21"
   - title: "Leavenworth Christmas | Village of Lights & Holiday Festival"
     url: "https://www.leavenworth.org/christmastown"
     publisher: "Leavenworth Chamber of Commerce"
@@ -103,20 +107,12 @@ downloads:
     pdf: "/news/downloads/christmas-2026/us-christmas-markets-2026-dates.pdf"
     png: "/news/downloads/christmas-2026/us-christmas-markets-2026-dates.png"
     pages: 1
-  - group: "US Christmas Markets 2026 Opening Dates printables"
-    title: "US Christmas Markets 2026 Opening Dates (ink saver)"
-    description: "A one-page list of 2026 opening dates, closed days and holiday hours for Christmas markets in Detroit, DC, Philadelphia, New York City and Leavenworth. Ink-saver version."
-    preview: ../../../../assets/news/christmas-2026/us-christmas-markets-2026-dates-ink.png
-    alt: "Printable list of US Christmas market 2026 opening dates and closed days for Detroit, DC, Philadelphia, New York City and Leavenworth, ink-saver version"
-    pdf: "/news/downloads/christmas-2026/us-christmas-markets-2026-dates-ink.pdf"
-    png: "/news/downloads/christmas-2026/us-christmas-markets-2026-dates-ink.png"
-    pages: 1
 draft: false
 assets:
   overlay: true
   kicker: "US Christmas markets · Nov. 2026"
-  date: "2026-11-20"
-  card: { top: "Denver opens next", big: "Fri., Nov. 20", bottom: "Philadelphia Nov. 21, Columbus Circle Dec. 1" }
+  date: "2026-11-21"
+  card: { top: "Philadelphia Christmas Village opens", big: "Sat., Nov. 21", bottom: "Columbus Circle Dec. 1, Leavenworth Nov. 27" }
   printable:
     slug: us-christmas-markets-2026-dates
     group: christmas-2026
@@ -125,13 +121,14 @@ assets:
     layout: list
     noKit: "Dated opening and closing list for many separate markets; no kit row type matches a multi-city market calendar."
     rows:
-      - ["Thu., Nov. 5", "NYC: Bryant Park Cozy Igloos return (Rink and shops already open)"]
-      - ["Fri., Nov. 6", "Boston Snowport opens, 100 Seaport Blvd. (two newsrooms)"]
-      - ["Wed., Nov. 11", "Detroit: Downtown Winter Markets open, 11 a.m. to 8 p.m."]
-      - ["Thu., Nov. 12", "DC Holiday Market opens, New Hampshire Ave. NW"]
-      - ["Thu., Nov. 12", "NYC: Union Square Holiday Market opens (to Dec. 24)"]
-      - ["Fri., Nov. 20", "Denver Christkindlmarket opens, Auraria Campus (to Dec. 23)"]
-      - ["Sat., Nov. 21", "Philadelphia: Christmas Village opens, noon to 9 p.m."]
+      - ["Thu., Nov. 5", "NYC: Bryant Park Cozy Igloos returned (Rink and shops already open)"]
+      - ["Fri., Nov. 6", "Boston Snowport opened, 100 Seaport Blvd. (two newsrooms)"]
+      - ["Wed., Nov. 11", "Detroit: Downtown Winter Markets opened, 11 a.m. to 8 p.m."]
+      - ["Thu., Nov. 12", "DC Holiday Market opened, New Hampshire Ave. NW"]
+      - ["Thu., Nov. 12", "NYC: Union Square Holiday Market opened (to Dec. 24)"]
+      - ["Thu., Nov. 19", "NYC: Bryant Park Rink holiday hours began, 8 a.m. to midnight (to Jan. 3, 2027)"]
+      - ["Fri., Nov. 20", "Denver Christkindlmarket opened, Auraria Campus (to Dec. 23)"]
+      - ["Sat., Nov. 21", "Philadelphia: Christmas Village opens today, noon to 9 p.m."]
       - ["Mon., Nov. 23 to Wed., Nov. 25", "Philadelphia: Christmas Village closed"]
       - ["Thu., Nov. 26", "Thanksgiving: Philadelphia 9 a.m. to 5 p.m., Detroit 8 a.m. to 2 p.m., DC closed"]
       - ["Fri., Nov. 27", "Leavenworth: Christmastown festivities begin"]
@@ -149,7 +146,7 @@ assets:
     alt: "Printable list of US Christmas market 2026 opening dates and closed days for Detroit, DC, Philadelphia, New York City, Boston, Denver and Leavenworth."
 ---
 
-**Detroit's Downtown Winter Markets opened on Wednesday, Nov. 11, 2026, the District of Columbia (DC) Holiday Market opened Thursday, Nov. 12 and the Christmas Village in Philadelphia opens Saturday, Nov. 21**, according to each market's official website. Denver's Christkindlmarket opens Friday, Nov. 20, Leavenworth, Washington, starts its Christmastown festivities Friday, Nov. 27, and Bryant Park's Winter Village in New York City (NYC) is already open. The opening-day calendar, the Thanksgiving and Christmas Eve hours and the closed days are below, with a one-page printable.
+**Detroit's Downtown Winter Markets opened on Wednesday, Nov. 11, 2026, the District of Columbia (DC) Holiday Market opened Thursday, Nov. 12 and the Christmas Village in Philadelphia opens today, Saturday, Nov. 21**, according to each market's official website. Denver's Christkindlmarket opened Friday, Nov. 20, Leavenworth, Washington, starts its Christmastown festivities Friday, Nov. 27, and Bryant Park's Winter Village in New York City (NYC) is already open. The opening-day calendar, the Thanksgiving and Christmas Eve hours and the closed days are below, with a one-page printable.
 
 ## When do US Christmas markets open in 2026?
 
@@ -158,7 +155,7 @@ assets:
 | Open now | Bank of America Winter Village at Bryant Park, NYC | Not stated on the site | Not stated |
 | Wed., Nov. 11, 2026 | Downtown Detroit Winter Markets, 60 Cadillac Square | Sun., Jan. 3, 2027 | 54 |
 | Thu., Nov. 12, 2026 | DC Holiday Market, 1500 block of New Hampshire Avenue NW | Wed., Dec. 23, 2026 | 42 |
-| Sat., Nov. 21, 2026 | Christmas Village in Philadelphia, City Hall, 1500 Arch Street | Sun., Dec. 27, 2026 | 37 |
+| Sat., Nov. 21, 2026 (today) | Christmas Village in Philadelphia, City Hall, 1500 Arch Street | Sun., Dec. 27, 2026 | 37 |
 | Fri., Nov. 27, 2026 | Leavenworth, Washington, Christmastown festivities | Thu., Dec. 24, 2026 | 28 |
 
 The day counts are our calculation and include both the first and last date. They count closed days inside each run, so they are the length of the season, not the number of open days.
@@ -179,7 +176,7 @@ Philadelphia's regular hours are Sunday to Thursday noon to 8 p.m. and Friday an
 
 Closed days are the detail the headline dates hide.
 
-- **Philadelphia:** closed Monday, Nov. 23 to Wednesday, Nov. 25 and on Friday, Dec. 25. The market opens Saturday, Nov. 21, shuts for those three days and reopens on Thanksgiving.
+- **Philadelphia:** closed Monday, Nov. 23 to Wednesday, Nov. 25 and on Friday, Dec. 25. The market opens today, Saturday, Nov. 21, shuts for those three days and reopens on Thanksgiving.
 - **DC:** closed Thursday, Nov. 26 (Thanksgiving Day) and Monday, Nov. 30 for exhibitor turnover.
 - **Detroit:** closed every Monday and Tuesday except Dec. 14-15 and Dec. 21-22, and on Christmas Day.
 
@@ -200,11 +197,11 @@ The DC Holiday Market, formerly the Downtown Holiday Market, runs Thursday, Nov.
 
 ## What does the Christmas Village in Philadelphia charge, and when is it open?
 
-Philachristmas.com lists no admission charge. The village is at City Hall, 1500 Arch Street, from Nov. 21 to Dec. 27, 2026.
+Philachristmas.com lists no admission charge. The village is at City Hall, 1500 Arch Street, from today, Nov. 21, to Dec. 27, 2026.
 
 ## What do we know about Bryant Park and Leavenworth?
 
-Bryant Park's site says the Rink, Holiday Shops and The Lodge are open for the 2026-2027 Winter Village season, and Cozy Igloos are now open. It says The Rink is open 8 a.m. to 10 p.m. The page gives no closing date or admission price. Our [NYC holiday calendar for 2026](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/) covers the other city events.
+Bryant Park's site says the Rink, Holiday Shops and The Lodge are open for the 2026-2027 Winter Village season, and Cozy Igloos are now open. Its Rink page lists daily hours of 8 a.m. to 10 p.m. from Oct. 28, 2026 to Feb. 28, 2027, and holiday hours of 8 a.m. to midnight from Nov. 19 to Jan. 3. The pages give no admission price. Our [NYC holiday calendar for 2026](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/) covers the other city events.
 
 The Leavenworth Chamber of Commerce lists 2026 Christmastown festivities from Nov. 27 to Dec. 24. The village lights are on from 6 a.m. to 11 p.m. daily, Thanksgiving through February, and are free to enjoy. Concerts at the Festhalle are ticketed at $5 to $15.
 
@@ -234,6 +231,6 @@ We could not fully confirm these markets, so no firm dates are listed.
 
 ## Which dates should you mark for US Christmas markets?
 
-The printable has 19 rows: the openings, the closed days, Thanksgiving and Christmas Eve hours and the last days. Print it, then add the dates to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html). Across the border, our [Canada Christmas markets story](/news/canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa/) has the dates for Toronto, Montreal and Vancouver.
+The printable has 20 rows: the openings, the closed days, Thanksgiving and Christmas Eve hours and the last days. Print it, then add the dates to the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html). Across the border, our [Canada Christmas markets story](/news/canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa/) has the dates for Toronto, Montreal and Vancouver.
 
 Dates and hours can change, so check each official site before you travel.

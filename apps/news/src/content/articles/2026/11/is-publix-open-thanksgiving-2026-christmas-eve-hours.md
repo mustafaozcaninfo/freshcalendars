@@ -3,7 +3,7 @@ title: "Is Publix Open on Thanksgiving 2026? Closed Thu., Nov. 26"
 description: "Publix is closed Thanksgiving, Thu., Nov. 26, 2026, one of three closed days a year. Every holiday to Easter 2027, meal order-by days and a printable."
 type: news
 publishedAt: "2026-11-16T09:20:00-05:00"
-updatedAt: "2026-11-16T09:20:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is publix open on thanksgiving 2026", "publix holiday hours 2026", "is publix open on christmas eve", "publix closed holidays"]
@@ -82,7 +82,7 @@ faq:
   - q: "When do I order a Publix Thanksgiving meal?"
     a: "Publix says to order at least 48 hours in advance, and to try for three days before your feast. For a Wednesday, Nov. 25 pickup, the 48-hour rule means ordering by Monday, Nov. 23; three days ahead is Sunday, Nov. 22 (both computed)."
   - q: "Are Publix pharmacies and Publix Liquors closed on the same days?"
-    a: "Publix's Q&A answer covers its stores. It does not mention pharmacies or Publix Liquors, so check them with your store."
+    a: "Pharmacies are closed on Thanksgiving. Publix's holiday meals page says all stores and pharmacies will be closed on Thanksgiving Day, Nov. 26. Neither page mentions Publix Liquors, so check it with your store."
 sources:
   - title: "Q&A - Newsroom | Publix Super Markets"
     url: "https://corporate.publix.com/Newsroom/q-and-a"
@@ -134,7 +134,7 @@ Source: Publix Super Markets Q&A, read Nov. 16, 2026. Easter 2027 is computed.
 
 No. Thursday, Nov. 26 is one of the three closed days. Publix says it has been closed on these three holidays since its founding, "in observance of the holiday and to allow our associates time with family and friends."
 
-Wednesday, Nov. 25 is the last day to shop before the holiday, computed from the closure. Publix's Q&A gives no hours for it, so check your store. The Q&A answer is about stores; it does not mention pharmacies or Publix Liquors. [Thanksgiving](/when-is/thanksgiving/) falls on Thursday, Nov. 26. For other chains, see [what is open on Thanksgiving 2026](/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/).
+Wednesday, Nov. 25 is the last day to shop before the holiday, computed from the closure. Publix's Q&A gives no hours for it, so check your store. Publix's holiday meals page adds that all stores and pharmacies will be closed on Thanksgiving Day, Nov. 26; neither page mentions Publix Liquors. [Thanksgiving](/when-is/thanksgiving/) falls on Thursday, Nov. 26. For other chains, see [what is open on Thanksgiving 2026](/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/).
 
 ## Is Publix open on Christmas Eve and New Year's Eve?
 
@@ -159,7 +159,7 @@ Thanksgiving meal prices from other chains are in the [Thanksgiving meal deals s
 
 ## What Publix has not posted
 
-Not yet announced: the early-close times for Christmas Eve, New Year's Eve and New Year's Day, hours for Wednesday, Nov. 25, and meal prices. Whether pharmacies and Publix Liquors follow the same closures is not on the Q&A page.
+Not yet announced: the early-close times for Christmas Eve, New Year's Eve and New Year's Day, hours for Wednesday, Nov. 25, and meal prices. Whether Publix Liquors follows the same closure is not on either Publix page.
 
 ## Print the Publix holiday hours card
 

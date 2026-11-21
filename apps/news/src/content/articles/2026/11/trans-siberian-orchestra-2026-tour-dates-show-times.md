@@ -1,8 +1,9 @@
 ---
 title: "Trans-Siberian Orchestra 2026 Tour: 56 Cities, Show Times by City"
-description: "Trans-Siberian Orchestra opens its 2026 tour Thu., Nov. 19 in Green Bay and ends Dec. 30. All 56 cities with local and ET times, plus a printable."
+description: "Trans-Siberian Orchestra opened its 2026 tour Thu., Nov. 19 in Green Bay and runs to Dec. 30. All 56 cities with local and ET times, plus a printable."
 type: news
 publishedAt: "2026-11-15T17:27:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["trans-siberian orchestra 2026 tour dates", "tso tour 2026", "trans siberian orchestra tickets 2026", "tso show times"]
@@ -164,7 +165,7 @@ downloads:
 draft: false
 ---
 
-Trans-Siberian Orchestra (TSO) opens its 2026 Winter Tour on Thursday, Nov. 19, at the Resch Center in Green Bay, Wisconsin, and plays 56 cities through Wednesday, Dec. 30, according to [TicketNews](https://www.ticketnews.com/2026/09/trans-siberian-orchestra-unveils-30th-anniversary-the-ghosts-of-christmas-eve-winter-tour/). The tour page on [trans-siberian.com](https://www.trans-siberian.com/tour) lists the show as "The Ghosts of Christmas Eve: The Best Of TSO And More!" with "tickets starting as low as $59," plus tax where applicable. The table gives every city's local show times and the same times in Eastern Time (ET), and a printable is at the end.
+Trans-Siberian Orchestra (TSO) opened its 2026 Winter Tour on Thursday, Nov. 19, at the Resch Center in Green Bay, Wisconsin, and plays 56 cities through Wednesday, Dec. 30, according to [TicketNews](https://www.ticketnews.com/2026/09/trans-siberian-orchestra-unveils-30th-anniversary-the-ghosts-of-christmas-eve-winter-tour/). The tour page on [trans-siberian.com](https://www.trans-siberian.com/tour) lists the show as "The Ghosts of Christmas Eve: The Best Of TSO And More!" with "tickets starting as low as $59," plus tax where applicable. The table gives every city's local show times and the same times in Eastern Time (ET), and a printable is at the end.
 
 ## Where does Trans-Siberian Orchestra play in 2026, and when are the shows?
 

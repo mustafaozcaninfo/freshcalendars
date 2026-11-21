@@ -3,7 +3,7 @@ title: "Christmas Tree Lighting 2026: National Dec. 3, Rockefeller Dec. 2"
 description: "Christmas tree lighting 2026 is Dec. 3 for the National Tree and Boston Common; Rockefeller Center is reported for Dec. 2. A table covers tickets and cost."
 type: news
 publishedAt: "2026-11-03T06:48:00-05:00"
-updatedAt: "2026-11-14T03:25:00-05:00"
+updatedAt: "2026-11-21T15:46:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["christmas tree lighting 2026", "tree lighting 2026 near me", "rockefeller tree lighting 2026 date", "boston common tree lighting 2026"]
@@ -23,7 +23,7 @@ summary:
   - "The National Christmas Tree lighting is Thursday, Dec. 3, 2026, on the Ellipse in Washington, D.C., according to the National Park Service (NPS); the free ticket lottery closed at 3 p.m. Eastern Time (ET) on Wednesday, Nov. 4."
   - "Boston Common's tree lighting is Dec. 3, 2026, 6 p.m. to 8 p.m., and Copley Square's is Monday, Nov. 30, 5 p.m. to 6 p.m., both free, according to boston.gov."
   - "amNY and NY1 report that the Rockefeller Center tree lights Wednesday, Dec. 2, 2026, during an NBC broadcast that amNY and TV Insider put at 7 p.m. ET."
-  - "Chicago lights its tree Friday, Nov. 20, 2026, with the ceremony at 6 p.m., and The Grove in Los Angeles lists Nov. 16; the Architect of the Capitol (AOC) has not set a date for the U.S. Capitol tree."
+  - "The Architect of the Capitol (AOC) says the U.S. Capitol Christmas Tree is lit during a ceremony Wednesday, Dec. 2, 2026, on the West Front Lawn; Chicago lit its tree Friday, Nov. 20, and The Grove in Los Angeles lit its tree Nov. 16."
 faq:
   - q: "When is the Rockefeller Center tree lighting in 2026?"
     a: "amNY and NY1 both reported on Oct. 26, 2026 that the ceremony is on Wednesday, Dec. 2, during NBC's Christmas in Rockefeller Center. amNY and TV Insider list the broadcast at 7 p.m. ET. The official site was not readable when we checked."
@@ -32,9 +32,9 @@ faq:
   - q: "Is the Boston Common tree lighting free in 2026?"
     a: "Yes. The City of Boston lists the Dec. 3, 2026 event, 6 p.m. to 8 p.m. at 139 Tremont Street, as free."
   - q: "When is the Chicago Christmas tree lighting in 2026?"
-    a: "The City of Chicago says the ceremony is Friday, Nov. 20, 2026, in Millennium Park. Festivities begin at 4 p.m., the ceremony at 6 p.m. and the official lighting at about 6:30 p.m."
+    a: "The City of Chicago said the ceremony was Friday, Nov. 20, 2026, in Millennium Park. Festivities began at 4 p.m., the ceremony at 6 p.m. and the official lighting at about 6:30 p.m."
   - q: "When is the Capitol Christmas Tree lighting in 2026?"
-    a: "The Architect of the Capitol says the lighting ceremony on the West Front Lawn has a date to be announced. The tree arrives Friday, Nov. 20 at 10 a.m."
+    a: "The Architect of the Capitol says the lighting takes place during a ceremony Wednesday, Dec. 2, on the West Front Lawn, and no start time is given. The tree will then be lit from dusk until 11 p.m. each evening through early January 2027. It arrived Friday, Nov. 20."
 sources:
   - title: "2026 National Christmas Tree Lighting Ticket Lottery Opens Oct. 28"
     url: "https://www.nps.gov/whho/learn/news/2026-national-christmas-tree-lighting-ticket-lottery-opens-oct-28.htm"
@@ -44,10 +44,10 @@ sources:
     url: "https://www.thenationaltree.org"
     publisher: "National Park Foundation"
     date: "2026-11-14"
-  - title: "Coming Soon: the 2026 Capitol Christmas Tree"
+  - title: "The 2026 Capitol Christmas Tree Arrival and Lighting Ceremonies"
     url: "https://www.aoc.gov/about-us/news-notices/capitol-christmas-tree-dates"
     publisher: "Architect of the Capitol"
-    date: "2026-11-14"
+    date: "2026-11-20"
   - title: "Boston Common Tree Lighting"
     url: "https://www.boston.gov/calendar/boston-common-tree-lighting"
     publisher: "City of Boston"
@@ -111,10 +111,11 @@ assets:
     subtitle: "Dates to mark, Nov. 16 to Dec. 3, 2026, with blanks for cities still to announce"
     layout: list
     rows:
-      - ["Mon., Nov. 16", "The Grove, Los Angeles: Tree Lighting Celebration hosted by Lance Bass; time not posted"]
-      - ["Fri., Nov. 20, 10 a.m.", "U.S. Capitol Christmas Tree arrives; lighting date to be announced"]
-      - ["Fri., Nov. 20, 6 p.m.", "Chicago Christmas tree lighting, Millennium Park; festivities from 4 p.m., lighting about 6:30 p.m."]
+      - ["Mon., Nov. 16", "The Grove, Los Angeles: Tree Lighting Celebration hosted by Lance Bass took place; time not posted"]
+      - ["Fri., Nov. 20, 10 a.m.", "U.S. Capitol Christmas Tree arrived"]
+      - ["Fri., Nov. 20, 6 p.m.", "Chicago Christmas tree lighting, Millennium Park; festivities began at 4 p.m., lighting at about 6:30 p.m."]
       - ["Mon., Nov. 30, 5 p.m.", "Copley Square tree lighting, 560 Boylston Street, Boston (free)"]
+      - ["Wed., Dec. 2", "U.S. Capitol Christmas Tree lighting ceremony, West Front Lawn; no start time given; lit dusk to 11 p.m. nightly after"]
       - ["Wed., Dec. 2", "Rockefeller Center tree lighting, reported by amNY and NY1; NBC broadcast at 7 p.m. ET per amNY and TV Insider"]
       - ["Thu., Dec. 3", "National Christmas Tree lighting, Ellipse, Washington, D.C.; start time not announced"]
       - ["Thu., Dec. 3, 6 p.m.", "Boston Common tree lighting, 139 Tremont Street (free), 6 p.m. to 8 p.m."]
@@ -122,7 +123,7 @@ assets:
       - ["Fill in: ________", "Detroit Campus Martius"]
       - ["Fill in: ________", "Seattle Westlake"]
       - ["Fill in: ________", "Atlanta Centennial Olympic Park"]
-    note: "Source: National Park Service, Architect of the Capitol, City of Boston, City of Chicago, The Grove, amNY, NY1 and TV Insider. Times local; Rockefeller Center date and time are reported, not official."
+    note: "Source: National Park Service, Architect of the Capitol (Nov. 20, 2026), City of Boston, City of Chicago, The Grove, amNY, NY1 and TV Insider. Times local; Rockefeller Center date and time are reported, not official."
     description: "A one-page checklist of 2026 Christmas tree lighting dates in New York, Washington, Boston, Chicago and Los Angeles, with blank lines for cities that have not announced."
     alt: "Printable Christmas tree lightings 2026 checklist with dates for New York, Washington, Boston, Chicago and Los Angeles."
 ---
@@ -139,9 +140,9 @@ This story puts the confirmed dates in one table, shows how to attend each in pe
 | Washington, D.C., National Christmas Tree | Thu., Dec. 3 | Start time not announced | Free; no charge to enter the lottery or receive tickets | Lottery on Recreation.gov closed 3 p.m. ET Wed., Nov. 4; NPS said winners would be notified Thu., Nov. 12 | NPS (Oct. 19, 2026) |
 | Boston Common | Thu., Dec. 3 | 6 p.m. to 8 p.m. ET | Free | Free event at 139 Tremont Street | City of Boston |
 | Boston, Copley Square | Mon., Nov. 30 | 5 p.m. to 6 p.m. ET | Free | Free event at 560 Boylston Street | City of Boston |
-| Chicago, Millennium Park | Fri., Nov. 20 | Festivities 4 p.m.; ceremony 6 p.m.; lighting about 6:30 p.m. | Not said in our sources | Millennium Park | City of Chicago |
-| Los Angeles, The Grove | Mon., Nov. 16 | Not posted | Ticket terms not posted | Hosted by Lance Bass; terms not posted | The Grove |
-| Washington, D.C., U.S. Capitol Christmas Tree | Date to be announced | Lit each evening from dusk until 11 p.m. | Free, no ticket required | West Front Lawn, through early January 2027 | Architect of the Capitol (Nov. 2, 2026) |
+| Chicago, Millennium Park (past) | Fri., Nov. 20 | Festivities 4 p.m.; ceremony 6 p.m.; lighting about 6:30 p.m. | Not said in our sources | Millennium Park | City of Chicago |
+| Los Angeles, The Grove (past) | Mon., Nov. 16 | Not posted | Ticket terms not posted | Hosted by Lance Bass; terms not posted | The Grove |
+| Washington, D.C., U.S. Capitol Christmas Tree | Wed., Dec. 2 | No start time given; lit each evening from dusk until 11 p.m. | Free, no ticket required | West Front Lawn, through early January 2027 | Architect of the Capitol (Nov. 20, 2026) |
 
 Weekdays are our computation from the dates in each source.
 
@@ -167,15 +168,15 @@ Copley Square has its own event on Monday, Nov. 30, 2026, 5 p.m. to 6 p.m. at 56
 
 ## When is the Capitol Christmas Tree lighting in 2026?
 
-The Architect of the Capitol (AOC) has not announced the lighting date. It says the tree, a 76-foot Engelmann spruce from the Nez Perce-Clearwater National Forests in Idaho, arrives Friday, Nov. 20 at 10 a.m. The lighting ceremony is on the West Front Lawn. After it, the tree is lit each evening from dusk until 11 p.m. through early January 2027, and visiting is free with no ticket. The cross-country trip is in our [Capitol Christmas Tree tour story](/news/us-capitol-christmas-tree-2026-tour-schedule-stops-dates/).
+The Architect of the Capitol (AOC) says the lighting takes place during a ceremony Wednesday, Dec. 2, on the West Front Lawn, and gives no start time. The tree, a 76-foot Engelmann spruce from the Nez Perce-Clearwater National Forests in Idaho, arrived Friday, Nov. 20 at 10 a.m. After the ceremony, the tree is lit each evening from dusk until 11 p.m. through early January 2027, and visiting is free with no ticket. The cross-country trip is in our [Capitol Christmas Tree tour story](/news/us-capitol-christmas-tree-2026-tour-schedule-stops-dates/).
 
 ## When is the Chicago Christmas tree lighting in 2026?
 
-The City of Chicago says the Christmas Tree Lighting Ceremony is Friday, Nov. 20, 2026. Festivities begin at 4 p.m., the ceremony at 6 p.m., and the official lighting, with performances and fireworks, is at about 6:30 p.m. The city's release does not give a cost.
+The City of Chicago said the Christmas Tree Lighting Ceremony was Friday, Nov. 20, 2026. Festivities began at 4 p.m., the ceremony at 6 p.m., and the official lighting, with performances and fireworks, was at about 6:30 p.m. The city's release does not give a cost.
 
 ## What is the date of The Grove tree lighting in Los Angeles?
 
-The Grove's site lists its Tree Lighting Celebration for Nov. 16, 2026, hosted by Lance Bass, as part of the 25th annual Christmas at The Grove. The time and ticket terms are not posted.
+The Grove's site listed its Tree Lighting Celebration for Nov. 16, 2026, hosted by Lance Bass, as part of the 25th annual Christmas at The Grove. The time and ticket terms are not posted.
 
 ## Which cities have not announced a 2026 tree lighting date?
 
@@ -193,4 +194,4 @@ We found no official 2026 date for these trees, so none is printed. Check the ve
 
 ## Which tree lighting dates fit the 2026 calendar?
 
-Mark Friday, Nov. 20 for Chicago, Monday, Nov. 30 for Copley Square, and Wednesday, Dec. 2 and Thursday, Dec. 3 for the big lightings on the [November 2026](/november-calendars.html) and December calendars. The printable checklist has the dates and blank lines for the cities still to announce. Christmas itself is on our [When is Christmas Day?](/when-is/christmas-day/) page.
+Mark Monday, Nov. 30 for Copley Square, and Wednesday, Dec. 2 and Thursday, Dec. 3 for the big lightings, including the Capitol tree on the [November 2026](/november-calendars.html) and December calendars. The printable checklist has the dates and blank lines for the cities still to announce. Christmas itself is on our [When is Christmas Day?](/when-is/christmas-day/) page.
