@@ -88,7 +88,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [new-on-hulu-november-2026-release-dates, iheartradio-jingle-ball-2026-dates-lineup-by-city-abc-special, new-on-disney-plus-december-2026-release-dates]
+related: [new-on-hulu-november-2026-release-dates, new-on-netflix-december-2026-release-dates, new-on-disney-plus-december-2026-release-dates]
 downloads:
   - group: "New on Hulu printables"
     title: "New on Hulu, December 2026: Watch List"
