@@ -51,3 +51,63 @@
   if(window.ResizeObserver){var ro=new ResizeObserver(fit);[].slice.call(g.children).forEach(function(c){ro.observe(c)})}
 })();
 </script>
+<script>
+/* fc-promo: the suggestion card (styles in custom.css, section 20). On a product page (desktop only: phones
+   already have the sticky buy bar) it repeats the page's own retailer button. On guides, categories and brand
+   pages it lists three products from the homepage row "Trending Across the Shop", read from the homepage at
+   that moment, so it never shows a stale list. Once per visit; closing it keeps it away for 7 days. */
+(function(){
+  var KEY='fcPromoClosed', DAY=864e5, shown=false, t0=Date.now();
+  try{ if(Date.now()-(+localStorage.getItem(KEY)||0) < 7*DAY) return; if(sessionStorage.getItem('fcPromoShown')) return; }catch(e){}
+  var path=location.pathname, isProduct=path.indexOf('/products/')===0;
+  var ok=isProduct || /^\/(articles|categories|brands)\//.test(path);
+  if(!ok) return;
+  var phone=window.matchMedia && matchMedia('(max-width:640px)').matches;
+  if(isProduct && phone) return;
+  function ev(name,p){ try{ if(window.gtag) gtag('event',name,p||{}); }catch(e){} }
+  function esc(s){ var d=document.createElement('div'); d.textContent=s; return d.innerHTML; }
+  function mount(inner,kind){
+    if(shown) return; shown=true;
+    try{ sessionStorage.setItem('fcPromoShown','1'); }catch(e){}
+    var b=document.createElement('aside'); b.className='fc-promo'; b.setAttribute('role','complementary'); b.setAttribute('aria-label','Suggested products');
+    b.innerHTML='<button type="button" class="fc-promo__close" aria-label="Close suggestions">&times;</button>'+inner+'<p class="fc-promo__note">We earn a commission on purchases made through retailer links.</p>';
+    document.body.appendChild(b);
+    requestAnimationFrame(function(){ b.classList.add('is-in'); });
+    function close(){ b.remove(); try{ localStorage.setItem(KEY,String(Date.now())); }catch(e){} document.removeEventListener('keydown',onKey); ev('promo_card_close',{kind:kind}); }
+    function onKey(e){ if(e.key==='Escape') close(); }
+    b.querySelector('.fc-promo__close').addEventListener('click',close);
+    document.addEventListener('keydown',onKey);
+    b.addEventListener('click',function(e){ var a=e.target.closest && e.target.closest('a'); if(a) ev('promo_card_click',{kind:kind,link_text:(a.textContent||'').trim().slice(0,60)}); });
+    ev('promo_card_view',{kind:kind});
+  }
+  function forProduct(){
+    var btn=document.querySelector('.fs-pp-offers a[data-fs-out]'), h=document.querySelector('h1');
+    if(!btn||!h) return;
+    var raw=(btn.textContent||'').replace(/\s+/g,' ').trim(), m=raw.match(/(\$[\d,.]+|Check price) at [A-Za-z.]+\s*$/); if(!m) return;   /* the offer row also holds "List price ..." and "Updated ..." */
+    var label=m[0].trim(), was=raw.match(/List price (\$[\d,.]+)/);
+    var crumbs=document.querySelectorAll('nav[aria-label="Breadcrumb"] a'), cat=crumbs.length?crumbs[crumbs.length-1]:null;
+    var a=(was?'<p class="fc-promo__was">List price '+esc(was[1])+'</p>':'')+'<a class="fc-promo__buy" data-fs-out="'+esc(btn.getAttribute('data-fs-out'))+'" target="_blank" rel="'+esc(btn.getAttribute('rel')||'nofollow sponsored noopener')+'">'+esc(label)+'</a>';
+    var more=cat?'<a class="fc-promo__more" href="'+esc(cat.getAttribute('href'))+'">Compare more '+esc((cat.textContent||'').trim().toLowerCase())+'</a>':'';
+    mount('<p class="fc-promo__eyebrow">Still deciding?</p><p class="fc-promo__title">'+esc(h.textContent.trim())+'</p>'+a+more,'product');
+  }
+  function forList(){
+    fetch('/',{credentials:'same-origin'}).then(function(r){ return r.ok?r.text():''; }).then(function(html){
+      if(!html||shown) return;
+      var doc=new DOMParser().parseFromString(html,'text/html'), sec=null;
+      doc.querySelectorAll('section h2').forEach(function(x){ if(!sec && /Trending Across the Shop/i.test(x.textContent)) sec=x.closest('section'); });
+      if(!sec) return;
+      var items=[]; sec.querySelectorAll('.cr-card').forEach(function(c){
+        var l=c.querySelector('h3 a[href^="/products/"]'), i=c.querySelector('img');
+        if(l && i && items.length<(phone?2:3) && l.getAttribute('href')!==path) items.push('<li class="fc-promo__item"><a href="'+esc(l.getAttribute('href'))+'"><img src="'+esc(i.getAttribute('src'))+'" alt="" loading="lazy" width="56" height="56"><span>'+esc(l.textContent.replace(/\s+/g,' ').trim())+'</span></a></li>');
+      });
+      if(items.length<2) return;
+      mount('<p class="fc-promo__eyebrow">From the shop</p><p class="fc-promo__title">Trending this week</p><ul class="fc-promo__list">'+items.join('')+'</ul>','trending');
+    }).catch(function(){});
+  }
+  function fire(){ if(shown) return; var a=document.activeElement; if(a && /^(INPUT|TEXTAREA|SELECT)$/.test(a.tagName)) return; (isProduct?forProduct:forList)(); }
+  function depth(){ var d=document.documentElement; return (scrollY+innerHeight)/Math.max(d.scrollHeight,1); }
+  addEventListener('scroll',function(){ if(!shown && depth()>=.5 && Date.now()-t0>=20000) fire(); },{passive:true});
+  setTimeout(function(){ if(!shown && depth()>=.5) fire(); },20500);
+  document.addEventListener('mouseout',function(e){ if(!shown && !e.relatedTarget && e.clientY<=0 && Date.now()-t0>=8000) fire(); });
+})();
+</script>

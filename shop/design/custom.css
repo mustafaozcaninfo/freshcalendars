@@ -440,3 +440,34 @@ body.cr-prism main :is(p,li,blockquote){text-wrap:pretty}
   body.cr-prism nav[aria-label="Pagination Navigation"]>div.hidden.sm\:flex>*{margin:0!important}
   body.cr-prism nav[aria-label="Pagination Navigation"]>div.hidden.sm\:flex :is(a,span.inline-flex){min-width:44px;height:44px;justify-content:center;padding-inline:.5rem}
 }
+
+/* 20. Suggestion card (footer script "fc-promo"): a small card that slides in at the bottom corner after the
+   reader has scrolled half a page and stayed 20 seconds, or moves to leave on a desktop. Never a full-screen
+   overlay (Google demotes those on phones) and it shows once per visit; closing it hides it for a week. */
+.fc-promo{position:fixed;z-index:60;right:16px;bottom:16px;width:min(360px,calc(100vw - 32px));background:#fff;color:#0e2135;border:1px solid #d7e7df;border-radius:16px;box-shadow:0 18px 48px rgba(14,33,53,.22);padding:16px 16px 14px;font:400 14px/1.45 Manrope,system-ui,sans-serif;transform:translateY(24px);opacity:0;transition:transform .28s ease,opacity .28s ease}
+.fc-promo.is-in{transform:none;opacity:1}
+.fc-promo__eyebrow{margin:0 40px 6px 0;font:700 12px/1.3 Manrope,sans-serif;letter-spacing:.06em;text-transform:uppercase;color:#006d41}
+.fc-promo__title{margin:0 40px 10px 0;font:700 17px/1.25 Sora,sans-serif;letter-spacing:-.01em;color:#0e2135}
+.fc-promo__close{position:absolute;top:6px;right:6px;width:44px;height:44px;border:0;background:transparent;color:#334b63;font-size:22px;line-height:1;border-radius:999px;cursor:pointer}
+.fc-promo__close:hover{background:#e9f5ef}
+.fc-promo__list{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.fc-promo__item a{display:grid;grid-template-columns:56px 1fr;gap:10px;align-items:center;padding:6px;border:1px solid #e3ece8;border-radius:12px;color:#0e2135;text-decoration:none;min-height:56px}
+.fc-promo__item a:hover{border-color:#abc7bd;background:#f4faf7}
+.fc-promo__item img{width:56px;height:56px;object-fit:contain;background:#fff;border-radius:8px}
+.fc-promo__item span{font-weight:600;font-size:14px;line-height:1.3}
+.fc-promo__buy{display:flex;align-items:center;justify-content:center;min-height:46px;margin:2px 0 8px;padding:10px 14px;border-radius:12px;background:#006d41;color:#fff!important;font-weight:700;font-size:15px;text-decoration:none}
+.fc-promo__buy:hover{background:#005a36}
+.fc-promo__was{margin:0 0 4px;font-size:13px;color:#5b7083;text-decoration:line-through}
+body.cr-prism--dark .fc-promo__was{color:#9fb0c0}
+.fc-promo__more{display:inline-block;color:#006d41;font-weight:600;text-decoration:underline}
+.fc-promo__note{margin:10px 0 0;font-size:12px;color:#5b7083}
+body.cr-prism--dark .fc-promo{background:#141c26;color:#e8eef4;border-color:#2a3a4a;box-shadow:0 18px 48px rgba(0,0,0,.55)}
+body.cr-prism--dark .fc-promo__title,body.cr-prism--dark .fc-promo__item a{color:#e8eef4}
+body.cr-prism--dark .fc-promo__eyebrow,body.cr-prism--dark .fc-promo__more{color:#6fd3a5}
+body.cr-prism--dark .fc-promo__close{color:#c3d0dc}
+body.cr-prism--dark .fc-promo__close:hover,body.cr-prism--dark .fc-promo__item a:hover{background:#1c2733}
+body.cr-prism--dark .fc-promo__item a{border-color:#2a3a4a}
+body.cr-prism--dark .fc-promo__note{color:#9fb0c0}
+/* Phones: two rows and tighter spacing, so the card stays under a third of the screen */
+@media (max-width:640px){.fc-promo{right:12px;left:12px;width:auto;bottom:calc(12px + env(safe-area-inset-bottom));padding:12px 12px 10px}.fc-promo__title{font-size:15px;margin-bottom:8px}.fc-promo__item a{grid-template-columns:44px 1fr;min-height:48px;padding:4px 6px}.fc-promo__item img{width:44px;height:44px}.fc-promo__note{margin-top:8px;font-size:11px}}
+@media (prefers-reduced-motion:reduce){.fc-promo{transition:none}}
