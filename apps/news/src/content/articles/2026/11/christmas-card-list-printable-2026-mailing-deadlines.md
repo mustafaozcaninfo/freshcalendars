@@ -3,6 +3,7 @@ title: "Christmas Card List 2026: Printable Tracker, Mail by Dec. 17"
 description: "Christmas card list 2026 printable with 18 rows and mail-by dates: USPS Dec. 17, international Dec. 9, plus Canada and UK."
 type: news
 publishedAt: "2026-11-04T15:10:00-05:00"
+updatedAt: "2026-11-21T11:25:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["christmas card list printable", "christmas card mailing deadline 2026", "last day to mail christmas cards 2026", "christmas card address tracker"]
@@ -31,7 +32,7 @@ assets:
         - { text: "Canada Post cards to the United States and the United Kingdom: Fri., Dec. 11.", src: 4, quote: "USA | 11-Dec" }
         - { text: "Canada Post cards to Europe, Asia, Australia, Middle East and New Zealand: Wed., Dec. 9.", src: 4, quote: "Europe | 09-Dec" }
         - { text: "Canada Post cards to Africa, Central and South America and the Caribbean: Thu., Dec. 3.", src: 4, quote: "Africa | 03-Dec" }
-        - { text: "Royal Mail 2nd Class: Fri., Dec. 18. 1st Class: Mon., Dec. 21.", src: 5, quote: "For 2nd Class mail, the last recommended posting date is Friday 18 December. For 1st Class mail, it's Monday 21 December." }
+        - { text: "Royal Mail 2nd Class: Fri., Dec. 18. 1st Class: Sat., Dec. 19 (release also says Mon., Dec. 21).", src: 5, quote: "Saturday 19 December" }
         - { text: "USPS Forever stamp from $0.82; Global Forever stamp from $1.75.", src: 3, quote: "From $0.82" }
       unconfirmed:
         - { label: "Royal Mail international (UK to United States) 2026 posting dates", why: "Not confirmed as of Nov. 4, 2026; the Royal Mail site blocked our check" }
@@ -47,7 +48,7 @@ hero:
     author: "NPS Photo"
 summary:
   - "The United States Postal Service (USPS) recommends mailing cards by Thursday, Dec. 17, 2026 in the lower 48 states and by Wednesday, Dec. 9 for international and military mail."
-  - "Canada Post's card dates run from Tuesday, Dec. 22 (local, within Canada) to Thursday, Dec. 3 (Africa, Central and South America, the Caribbean); Royal Mail says Friday, Dec. 18 for 2nd Class and Monday, Dec. 21 for 1st Class."
+  - "Canada Post's card dates run from Tuesday, Dec. 22 (local, within Canada) to Thursday, Dec. 3 (Africa, Central and South America, the Caribbean); Royal Mail says Friday, Dec. 18 for 2nd Class and Saturday, Dec. 19 for 1st Class (its release also says Monday, Dec. 21)."
   - "Our one-page printable has 18 rows for name, address, sent, received and mail-by date, with the dates and two USPS stamp prices ($0.82 Forever, $1.75 Global Forever) in a strip."
 sources:
   - title: "2026 Holiday Shipping Deadlines"
@@ -68,6 +69,14 @@ sources:
     url: "https://www.internationaldistributionservices.com/en/press-centre/press-releases/royal-mail/royal-mail-announces-last-recommended-posting-dates-for-christmas/"
     publisher: "Royal Mail"
     date: "2026-10-27"
+  - title: "Stamp prices are going up from Tuesday 7 April"
+    url: "https://www.moneysavingexpert.com/news/2026/03/royal-mail-stamp-price-rise-april/"
+    publisher: "MoneySavingExpert"
+    date: "2026-03-09"
+  - title: "Price of first class stamp increases to £1.80"
+    url: "https://nation.cymru/news/price-of-first-class-stamp-increases-to-1-80"
+    publisher: "Nation.Cymru"
+    date: "2026-04-07"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -94,7 +103,7 @@ draft: false
 
 ## What is the last day to mail Christmas cards in 2026?
 
-The table below puts the three postal services side by side. Every date is a recommended date, not a guaranteed cutoff. Weekdays are computed from the dates in the sources.
+USPS, Canada Post and Royal Mail dates sit side by side. Every date is a recommended date, not a guaranteed cutoff. Weekdays are computed from the dates in the sources.
 
 | Where the card is going | Last recommended mailing date | Source |
 |---|---|---|
@@ -111,26 +120,26 @@ The table below puts the three postal services side by side. Every date is a rec
 | Canada Post, to Asia, Australia, the Middle East and New Zealand | Wed., Dec. 9 | Canada Post |
 | Canada Post, to Africa, Central and South America and the Caribbean | Thu., Dec. 3 | Canada Post |
 | Royal Mail, 2nd Class | Fri., Dec. 18 | Royal Mail |
-| Royal Mail, 1st Class | Mon., Dec. 21 | Royal Mail |
+| Royal Mail, 1st Class | Sat., Dec. 19 (release text also says Mon., Dec. 21) | Royal Mail |
 
 The USPS international row on its page names First-Class Package International and Priority Mail International, and the page does not list First-Class Mail International letters separately. Royal Mail's international airmail dates for 2026 are not confirmed: the Royal Mail site blocked our check, so we print no date for a card from the United Kingdom to the United States. For parcels, see our [USPS holiday shipping deadlines story](/news/usps-holiday-shipping-deadlines-2026/).
 
 ## How much is a stamp for Christmas cards in 2026?
 
-The USPS prices page lists a Forever letter stamp "From $0.82" and a Global Forever stamp "From $1.75". Global Forever is the stamp for international mail. We found no Canada Post or Royal Mail stamp price in the sources we read, so none is printed.
+The USPS prices page lists a Forever letter stamp "From $0.82" and a Global Forever stamp "From $1.75". Global Forever is the stamp for international mail. In the United Kingdom, MoneySavingExpert and Nation.Cymru both report that a Royal Mail 1st Class stamp rose by 10p to £1.80 and a 2nd Class stamp by 4p to 91p from Tuesday, April 7, 2026. Royal Mail's own site blocked our check, so those two newsrooms are the source. We found no Canada Post stamp price in the sources we read, so none is printed.
 
 ## Canada Post and Royal Mail card dates
 
-Canada Post's holiday sending guidelines, dated Oct. 2026, give the card dates in the table above. Our [Canada Post holiday shipping deadlines story](/news/canada-post-holiday-shipping-deadlines-2026-christmas/) covers its parcels. Royal Mail announced its last recommended posting dates on Oct. 27, 2026: "For 2nd Class mail, the last recommended posting date is Friday 18 December." "For 1st Class mail, it's Monday 21 December." The details are in our [Royal Mail last posting dates story](/news/royal-mail-last-posting-dates-christmas-2026-second-class-18-december/).
+Canada Post's holiday sending guidelines, dated Oct. 2026, give the card dates listed in the 2026 rows for Canada. Our [Canada Post holiday shipping deadlines story](/news/canada-post-holiday-shipping-deadlines-2026-christmas/) covers its parcels. Royal Mail announced its last recommended posting dates on Oct. 27, 2026: "For 2nd Class mail, the last recommended posting date is Friday 18 December." The release's text says Monday 21 December for 1st Class, but its own list of last recommended posting dates puts 1st Class under Saturday 19 December, so post 1st Class cards by Saturday, Dec. 19. The details are in our [Royal Mail last posting dates story](/news/royal-mail-last-posting-dates-christmas-2026-second-class-18-december/).
 
 ## How do you use the Christmas card address tracker?
 
 1. Write each name and address once in the Name and Address columns.
-2. Find where the card is going in the table and write its mail-by date in the Mail by column.
+2. Find where the card is going in the date list and write its mail-by date in the Mail by column.
 3. Tick Sent when the card is in the mailbox, and Received when a card comes back from that household.
 
 If you also have gifts to ship, our [Christmas gift list and budget planner](/news/christmas-gift-list-budget-planner-2026/) has the carrier dates for parcels.
 
 ## What this card list leaves out
 
-Royal Mail's international 2026 posting dates and any Canada Post or Royal Mail stamp prices are not in the sources we could read, so neither appears in the story or on the sheet.
+Royal Mail's international 2026 posting dates and a Canada Post stamp price are not in the sources we could read, so neither appears in the story or on the sheet. The Royal Mail stamp prices are in the story only, not on the sheet.
