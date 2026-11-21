@@ -148,7 +148,7 @@ Build-A-Bear also lists a holiday Beary Goods plush for $6 with any purchase. On
 
 ## What are the Build-A-Bear Christmas order-by dates for 2026?
 
-Build-A-Bear's "2026 Holiday Shipping Deadlines" table lists the last day to order for delivery by Christmas Day. The site's banner also says "Order by Monday, Dec. 14 for Christmas Delivery!", which is the economy date.
+Build-A-Bear's "2026 Holiday Shipping Deadlines" table lists the last day to order for delivery by Christmas Day, Friday, Dec. 25. The site's banner also says "Order by Monday, Dec. 14 for Christmas Delivery!", which is the economy date.
 
 | Shipping method | Last day to order for Christmas Day |
 |---|---|
