@@ -86,7 +86,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/printable-yearly-calendar.html"
     label: "2026 printable yearly calendar"
-related: [guru-nanak-jayanti-2026-date-november-24-gurpurab-purnima-time-us, vaikuntha-ekadashi-2026-date-time-us-tirumala-srirangam, diwali-2026-date-lakshmi-puja-time-usa]
+related: [guru-nanak-jayanti-2026-date-november-24-gurpurab-purnima-time-us, vaikuntha-ekadashi-2026-date-time-us-tirumala-srirangam, loy-krathong-2026-november-24-yi-peng-festival-dates]
 assets:
   overlay: true
   kicker: "Dev Deepawali, Tue., Nov. 24, 2026"
