@@ -2,8 +2,8 @@
 title: "New on Paramount+ December 2026: Frisco King Premieres Dec. 18"
 description: "Frisco King premieres Fri., Dec. 18 on Paramount+. Every title by day, a live sports table in ET and a free printable watch list for December 2026."
 type: news
-publishedAt: "2026-11-21T16:36:00-05:00"
-updatedAt: "2026-11-21T16:36:00-05:00"
+publishedAt: "2026-11-21T17:25:00-05:00"
+updatedAt: "2026-11-21T17:25:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Paramount+ December 2026", "Paramount+ December 2026", "Frisco King release date", "what's coming to Paramount+ in December"]
