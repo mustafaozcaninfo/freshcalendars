@@ -107,7 +107,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [new-on-hulu-december-2026-release-dates, netflix-christmas-movies-2026-release-dates-holiday-watch-list, new-on-disney-plus-december-2026-release-dates]
+related: [new-on-hulu-december-2026-release-dates, spotify-audible-holiday-deals-2026-premium-free-trial-end-dates, new-on-disney-plus-december-2026-release-dates]
 draft: false
 ---
 
