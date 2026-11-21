@@ -14,7 +14,7 @@ from fs import call, backup  # noqa: E402
 import article_check as ac  # noqa: E402
 from article_prices import prices_for  # noqa: E402
 
-ARTICLE_CATEGORIES = {'planner-buying-guides': 1, 'journaling-basics-and-supplies': 2, 'advent-calendar-guides': 3}
+ARTICLE_CATEGORIES = {'planner-buying-guides': 1, 'journaling-basics-and-supplies': 2, 'advent-calendar-guides': 3, 'clock-and-digital-calendar-guides': 4}
 
 
 def main(path, dry):
