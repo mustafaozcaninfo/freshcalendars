@@ -116,7 +116,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/daylight-savings/"
     label: "When does daylight saving time end?"
-related: [nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, marine-corps-marathon-2026-start-times-road-closures-cutoffs]
+related: [honolulu-marathon-2026-start-time-road-closures, marine-corps-marathon-2026-start-times-road-closures-cutoffs, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade]
 downloads:
   - group: "NYC Marathon Race-Day Timeline printables"
     title: "NYC Marathon Race-Day Timeline, Nov. 1, 2026"

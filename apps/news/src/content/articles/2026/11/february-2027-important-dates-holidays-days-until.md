@@ -137,7 +137,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [presidents-day-2027-february-15-whats-open-closed, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, january-2027-important-dates-holidays-days-until]
+related: [presidents-day-2027-february-15-whats-open-closed, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, march-2027-important-dates-holidays-days-until]
 draft: false
 ---
 
@@ -223,4 +223,4 @@ The Super Bowl kickoff time and the Royal Rumble start time are not yet announce
 
 ## Print the February 2027 important dates page
 
-The free one-page February 2027 Important Dates printable marks the Feb. 15 federal holiday, the Super Bowl, Lunar New Year, the Royal Rumble, the NHL game, Ash Wednesday and the four Moon phases on a month grid. Pair it with the [2027 printable yearly calendar](/printable-yearly-calendar.html) to see the whole year. The previous month in this series is the [January 2027 important dates](/news/january-2027-important-dates-holidays-days-until/) story.
+The free one-page February 2027 Important Dates printable marks the Feb. 15 federal holiday, the Super Bowl, Lunar New Year, the Royal Rumble, the NHL game, Ash Wednesday and the four Moon phases on a month grid. Pair it with the [2027 printable yearly calendar](/printable-yearly-calendar.html) to see the whole year. The previous month in this series is the [January 2027 important dates](/news/january-2027-important-dates-holidays-days-until/) story, and the next is [March 2027 important dates](/news/march-2027-important-dates-holidays-days-until/).

@@ -91,7 +91,7 @@ internalLinks:
     label: "October 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [nyc-marathon-2026-start-times-road-closures-where-to-watch]
+related: [nyc-marathon-2026-start-times-road-closures-where-to-watch, honolulu-marathon-2026-start-time-road-closures]
 downloads:
   - group: "Marine Corps Marathon 2026 Race-Day Timeline printables"
     title: "Marine Corps Marathon 2026 Race-Day Timeline"
