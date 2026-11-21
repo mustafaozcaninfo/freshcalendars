@@ -99,7 +99,7 @@ assets:
         - { daysBefore: 3, task: "Book flights and rooms; confirm with the airline" }
         - { daysBefore: 1, task: "Convert show times to your clock (Thailand is 12 hours ahead of ET)" }
         - { daysBefore: 0, task: "Full moon at 9:53 a.m. ET; look for it that evening in Thailand" }
-      fill: ["City I will visit", "Festival day I chose", "Krathong plan"]
+      fill: ["City to visit", "Festival day chosen", "Krathong plan"]
       unconfirmed:
         - { label: "Sky lantern release times", why: "TAT lists authorised releases on Nov. 24-25 but no clock times" }
         - { label: "Public holiday status of Nov. 24", why: "Not confirmed on an official holiday list as of Nov. 21, 2026" }

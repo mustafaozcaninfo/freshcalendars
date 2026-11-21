@@ -60,7 +60,7 @@ assets:
             - "Thursday November 26, 2026"
             - "All boats return by 9:00 AM."
       unconfirmed:
-        - { label: "Program schedule on the island", why: "IITC page lists no speaker or ceremony times" }
+        - { label: "Ceremony times on the island", why: "IITC page lists no speaker or ceremony times" }
         - { label: "Sold-out status", why: "Not stated by IITC as of Nov. 21, 2026" }
 hero:
   src: ../../../../assets/news/alcatraz-sunrise-ceremony-thanksgiving-2026-boat-times-tickets/alcatraz-sunrise-ceremony-thanksgiving-2026-boat-times-tickets.webp
