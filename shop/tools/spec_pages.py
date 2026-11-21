@@ -62,9 +62,22 @@ JR = ('hardcover-bullet-journals', 'softcover-bullet-journals', 'dotted-paper-jo
 CAL = ('wall-calendars', 'desk-calendars', 'dry-erase-calendars', 'pocket-calendars', 'page-a-day-calendars')
 inc = lambda s, *c: any(x in s['cats'] for x in c)
 isP = lambda s: inc(s, *PL); isJ = lambda s: inc(s, *JR); isC = lambda s: inc(s, *CAL)
+# Advent calendars of every kind: the hub category and its subcategories (not the activity books)
+isA = lambda s: any(c == 'advent-calendars' or c.endswith('-advent-calendars') for c in s['cats'])
+HOL = ('boxed-christmas-cards', 'thank-you-cards', 'greeting-card-organizers', 'christmas-scrapbook-paper-and-washi-tape', 'gift-tags-and-ribbon', 'christmas-planners-and-organizers', 'envelope-seals-and-holiday-stickers')
+def kind(s):
+    c = next((c for c in s['cats'] if c.endswith('-advent-calendars')), None) or next(iter(s['cats']), '')
+    if c == 'advent-calendars': return 'Stationery'   # the hub itself holds the journal and stationery kits
+    return c.replace('-advent-calendars', '').replace('-', ' ').replace(' and ', ' & ').capitalize() or 'Not stated'
+def days(s):
+    m = re.search(r'\b(12|13|24|25)[- ]?(?:day|days|door|doors|drawer|drawers|boxes|windows|pairs|pockets)\b', s['t'])
+    return m.group(1) if m else 'Not stated'
 y27 = lambda s: s['y2027'] and not s['undated'] and not s['academic']
 g = lambda s: s['gsm'] or 0
-off = lambda s: (1 - s['price'] / s['full']) if s['full'] and s['full'] > s['price'] else 0
+def off(s):
+    """Share below the list price. A cut above 80% is a data fault (an e-book price beside a paperback list price), not a deal."""
+    o = (1 - s['price'] / s['full']) if s['full'] and s['full'] > s['price'] else 0
+    return o if o <= .8 else 0
 ST = ('pens', 'stickers', 'washi-tape', 'stencils', 'decorative-paper', 'highlighters', 'fineliners-and-markers', 'colored-pencils', 'fountain-pens-and-ink', 'sticky-notes-and-tabs', 'notepads-and-to-do-lists', 'planner-accessories', 'stamps-and-ink-pads', 'journal-gift-sets')
 GJ = ('gratitude-journals', 'five-year-journals', 'prayer-journals', 'travel-and-reading-journals', 'fitness-and-wellness-journals', 'memory-and-baby-books')
 # slug: (H1, the rule in words, test, table columns, parent categories)
@@ -114,12 +127,16 @@ D = {
  'christmas-envelope-seals-gold-foil': ('Gold Foil Christmas Envelope Seals', 'a pack of Christmas seals or stickers with gold foil stated', lambda s: inc(s, 'envelope-seals-and-holiday-stickers') and re.search(r'gold', s['l']) and re.search(r'foil', s['l']), 'pack dims', ['envelope-seals-and-holiday-stickers']),
  # Deal pages: only offers whose stored price is 15% or more below the stored list price. Sorted by the size of the cut.
  'black-friday-planner-deals': ('Black Friday Planner and Calendar Deals 2026', 'a price 15% or more below the list price the retailer shows, on a planner or calendar', lambda s: (isP(s) or isC(s) or inc(s, 'budget-planners', 'meal-planners')) and off(s) >= .15, 'dates size list off', ['dated-planners', 'wall-calendars'], 'off'),
- 'black-friday-journal-deals': ('Black Friday Journal and Stationery Deals 2026', 'a price 15% or more below the list price the retailer shows, on a journal, notebook, pen set or planner supply', lambda s: (isJ(s) or inc(s, *ST) or inc(s, *GJ)) and off(s) >= .15, 'size list off', ['dotted-paper-journals', 'pens'], 'off'),
+ 'black-friday-journal-deals': ('Black Friday Journal and Stationery Deals 2026', 'a price 15% or more below the list price the retailer shows, on a journal, notebook, pen set or planner supply', lambda s: (isJ(s) or inc(s, *ST) or inc(s, *GJ)) and off(s) >= .15, 'size list off', ['dotted-paper-journals', 'pens'], 'off'), 'black-friday-advent-calendar-deals': ('Black Friday Advent Calendar Deals 2026', 'a price 15% or more below the list price the retailer shows, on an advent calendar', lambda s: isA(s) and off(s) >= .15, 'kind days list off', ['advent-calendars'], 'off'),
+ # Price bands for advent calendars, lowest price first. The two bands do not overlap.
+ 'advent-calendars-under-25': ('Advent Calendars Under $25', 'an advent calendar priced from 4 to under 25 dollars on the check date (lower prices are e-book editions)', lambda s: isA(s) and 4 <= s['price'] < 25, 'kind days', ['advent-calendars']),
+ 'advent-calendars-25-to-50': ('Advent Calendars From $25 to $50', 'an advent calendar priced from 25 to 50 dollars on the check date', lambda s: isA(s) and 25 <= s['price'] <= 50, 'kind days', ['advent-calendars']),
 }
 COLS = {'size': ('Size', lambda s: SIZE.get(s['size']) or s['dims'] or 'Not stated'), 'pages': ('Pages', lambda s: f"{s['pages']:,}" if s['pages'] else 'Not stated'),
         'gsm': ('Paper', lambda s: f"{s['gsm']} gsm" if s['gsm'] else 'Not stated'), 'cover': ('Cover', lambda s: (s['cover_any'] or 'Not stated').capitalize()),
         'ruling': ('Ruling', lambda s: (s['ruling'] or 'Not stated').capitalize()), 'layout': ('Layout', lambda s: ', '.join(x.capitalize() for x in s['layout']) or 'Not stated'),
         'spiral': ('Binding', lambda s: 'Spiral or wire' if s['spiral'] else 'Not stated'), 'dates': ('Dates', lambda s: s['dates'] or 'Not stated'), 'pack': ('Count', lambda s: f"{s['pack']:,}" if s['pack'] else 'Not stated'), 'dims': ('Size', lambda s: s['dims'] or 'Not stated'),
+        'kind': ('Kind', kind), 'days': ('Days', days),
         'list': ('List price', lambda s: usd(s['full'])), 'off': ('Below list', lambda s: f"{round(off(s) * 100)}%")}
 
 
@@ -155,6 +172,9 @@ def data(slug, M):
         cnt = {}
         for s in rows: cnt[s[k] or 'not stated'] = cnt.get(s[k] or 'not stated', 0) + 1
         st['by_' + k] = cnt
+    kc = {}
+    for r_ in rows: kc[kind(r_).lower()] = kc.get(kind(r_).lower(), 0) + 1
+    st['kinds_line'] = ', '.join(f'{k} {v}' for k, v in sorted(kc.items(), key=lambda x: -x[1])[:6])   # for deal prose: "beauty & bath 31, jewelry 12"
     if deal: st['off_max'] = round(off(rows[0]) * 100); st['off_30_plus'] = sum(1 for s in rows if off(s) >= .3); st['under_10'] = sum(1 for s in rows if s['price'] < 10)
     top = rows[:12] if deal else sorted(rows, key=lambda s: (-(s['rating'] or 0), s['price']))[:12]
     return {'slug': slug, 'deal': deal, 'h1': h1, 'rule': rule, 'parents': parents, 'checked': checked, 'head': head, 'body': body, 'stats': st, 'lowest': rows[0]['link'], 'highest': rows[-1]['link'],
@@ -189,6 +209,8 @@ def sections(d, prose, reg):
     sib = [k for k in reg if k not in (d['slug'], '_hub') and k in D and set(D[k][4]) & set(d['parents'])][:6] if reg else []
     links = ''.join(f'<li><a href="/categories/{c}">{c.replace("-", " ").capitalize()}</a></li>' for c in d['parents'])
     links += ''.join(f'<li><a href="/{k}">{html.escape(D[k][0])}</a></li>' for k in sib)
+    if d.get('deal') and reg:   # the deal pages link each other, whatever their parent categories
+        links += ''.join(f'<li><a href="/{k}">{html.escape(D[k][0])}</a></li>' for k in reg if k != d['slug'] and k in D and len(D[k]) > 5 and k not in sib and reg[k].get('page_id'))
     main = (f"<p>{prose['intro']}</p>\n{table(d)}\n" + ''.join(f"<h2>{html.escape(q['q'])}</h2>\n<p>{q['a']}</p>\n" for q in prose['qa'])
             + f"<h2>How this list is built</h2>\n<p>A product is on this page when its maker listing states {d['rule']}. Every value in the table is read from that listing, and a missing value is shown as \"Not stated\". We do not test products by hand; scores follow the method on <a href=\"/how-we-rate-products\">How We Rate Products</a>. The shop earns a commission when you buy through a retailer link.</p>")
     tail = f"<h2>Related lists</h2>\n<ul>{links}<li><a href=\"/planner-and-journal-finder\">All lists by size, paper and layout</a></li></ul>\n<p>{prose['printable']}</p>"

@@ -25,7 +25,7 @@
   "page_id": 22,
   "count": 12,
   "live_count": 12,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-2031-five-year-planners": {
   "prose": {
@@ -53,7 +53,7 @@
   "page_id": 23,
   "count": 11,
   "live_count": 11,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-appointment-books-15-minute": {
   "prose": {
@@ -81,7 +81,7 @@
   "page_id": 24,
   "count": 18,
   "live_count": 18,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-appointment-books-30-minute": {
   "prose": {
@@ -109,7 +109,7 @@
   "page_id": 25,
   "count": 18,
   "live_count": 18,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-daily-planners-one-page-per-day": {
   "prose": {
@@ -137,7 +137,7 @@
   "page_id": 26,
   "count": 18,
   "live_count": 18,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-desk-calendars-with-stand": {
   "prose": {
@@ -165,7 +165,7 @@
   "page_id": 27,
   "count": 19,
   "live_count": 19,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-hardcover-planners": {
   "prose": {
@@ -193,7 +193,7 @@
   "page_id": 28,
   "count": 32,
   "live_count": 32,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-planners-100gsm-paper": {
   "prose": {
@@ -221,7 +221,7 @@
   "page_id": 29,
   "count": 28,
   "live_count": 28,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-planners-8-5-x-11": {
   "prose": {
@@ -249,7 +249,7 @@
   "page_id": 30,
   "count": 46,
   "live_count": 46,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-planners-a5": {
   "prose": {
@@ -277,7 +277,7 @@
   "page_id": 31,
   "count": 36,
   "live_count": 36,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-planners-pen-loop-and-pocket": {
   "prose": {
@@ -305,7 +305,7 @@
   "page_id": 32,
   "count": 15,
   "live_count": 15,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-pocket-planners": {
   "prose": {
@@ -333,7 +333,7 @@
   "page_id": 33,
   "count": 19,
   "live_count": 19,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "2027-wall-calendars-with-holidays": {
   "prose": {
@@ -361,7 +361,7 @@
   "page_id": 34,
   "count": 52,
   "live_count": 52,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "a5-dotted-journals-numbered-pages": {
   "prose": {
@@ -389,7 +389,7 @@
   "page_id": 35,
   "count": 28,
   "live_count": 28,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "a5-lined-hardcover-journals": {
   "prose": {
@@ -416,8 +416,8 @@
   },
   "page_id": 36,
   "count": 14,
-  "live_count": 14,
-  "updated": "2026-11-20"
+  "live_count": 13,
+  "updated": "2026-11-21"
  },
  "a6-pocket-notebooks": {
   "prose": {
@@ -445,7 +445,7 @@
   "page_id": 37,
   "count": 49,
   "live_count": 49,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "academic-planners-2026-2027-8-5-x-11": {
   "prose": {
@@ -473,7 +473,7 @@
   "page_id": 38,
   "count": 17,
   "live_count": 17,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "academic-planners-2026-2027-a5": {
   "prose": {
@@ -501,7 +501,7 @@
   "page_id": 39,
   "count": 10,
   "live_count": 10,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "advent-books-for-couples-and-families": {
   "prose": {
@@ -528,8 +528,8 @@
   },
   "page_id": 58,
   "count": 12,
-  "live_count": 12,
-  "updated": "2026-11-20"
+  "live_count": 11,
+  "updated": "2026-11-21"
  },
  "b5-notebooks": {
   "prose": {
@@ -557,13 +557,13 @@
   "page_id": 40,
   "count": 20,
   "live_count": 20,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "black-friday-journal-deals": {
   "prose": {
    "subtitle": "{count} journals, notebooks, pens and planner supplies priced 15% or more below list, checked {checked}",
    "meta_title": "Black Friday Journal Deals 2026: {count} Below List Price",
-   "meta_description": "{count} journals, notebooks, pens and planner supplies priced 15% or more below list, up to {off_max}% off. Black Friday is Nov. 27, 2026; checked {checked}.",
+   "meta_description": "{count} journals, notebooks, pens and planner supplies priced 15% or more below list, up to {off_max}% off. Black Friday is Nov. 27; checked {checked}.",
    "intro": "On {checked}, {count} journals, notebooks, pen sets and planner supplies in the shop were priced 15% or more below the list price the retailer shows. The largest cut is {off_max}%, {off_30_plus} are 30% or more below list, and {under_10} cost less than ten dollars. Undated paper does not age, so a journal bought on Black Friday (November 27, 2026) is as useful in March as in December. The table is rebuilt from retailer data through Cyber Monday, November 30.",
    "qa": [
     {
@@ -583,15 +583,15 @@
    "printable": "Trying a new journal layout? Sketch it first on a free <a href=\"https://freshcalendars.com/monthly-calendars/\">monthly calendar</a> before you commit a page."
   },
   "page_id": 21,
-  "count": 207,
-  "live_count": 207,
-  "updated": "2026-11-20"
+  "count": 231,
+  "live_count": 231,
+  "updated": "2026-11-21"
  },
  "black-friday-planner-deals": {
   "prose": {
    "subtitle": "{count} planners and calendars priced 15% or more below list, largest cut first, checked {checked}",
    "meta_title": "Black Friday Planner Deals 2026: {count} Below List Price",
-   "meta_description": "{count} planners and calendars priced 15% or more below list, up to {off_max}% off, in one table. Black Friday is Nov. 27, 2026; checked {checked}.",
+   "meta_description": "{count} planners and calendars priced 15% or more below list, up to {off_max}% off, in one table. Black Friday is Nov. 27; checked {checked}.",
    "intro": "Black Friday is Friday, November 27, 2026, and Cyber Monday is November 30. On {checked}, {count} planners and calendars in the shop were priced 15% or more below the list price the retailer shows. The largest cut is {off_max}%, {off_30_plus} are 30% or more below list, and {under_10} cost less than ten dollars. A cut on a 2026-2027 academic planner is partly age: the school year began in the summer, so check the Dates column before you buy one for 2027.",
    "qa": [
     {
@@ -611,9 +611,9 @@
    "printable": "While you wait for a planner to arrive, print a free <a href=\"https://freshcalendars.com/printable-yearly-calendar.html\">yearly calendar</a> and mark the dates that matter first."
   },
   "page_id": 19,
-  "count": 171,
-  "live_count": 171,
-  "updated": "2026-11-20"
+  "count": 187,
+  "live_count": 187,
+  "updated": "2026-11-21"
  },
  "budget-planners-with-pockets": {
   "prose": {
@@ -641,7 +641,7 @@
   "page_id": 41,
   "count": 23,
   "live_count": 23,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "christmas-cards-24-pack": {
   "prose": {
@@ -669,7 +669,7 @@
   "page_id": 55,
   "count": 12,
   "live_count": 12,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "christmas-envelope-seals-gold-foil": {
   "prose": {
@@ -697,7 +697,7 @@
   "page_id": 59,
   "count": 16,
   "live_count": 16,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "diy-journal-advent-calendars": {
   "prose": {
@@ -724,8 +724,8 @@
   },
   "page_id": 57,
   "count": 16,
-  "live_count": 16,
-  "updated": "2026-11-20"
+  "live_count": 17,
+  "updated": "2026-11-21"
  },
  "dotted-journals-120gsm": {
   "prose": {
@@ -753,7 +753,7 @@
   "page_id": 42,
   "count": 22,
   "live_count": 22,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "gold-foil-christmas-cards": {
   "prose": {
@@ -781,7 +781,7 @@
   "page_id": 54,
   "count": 10,
   "live_count": 10,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "journals-in-a-gift-box": {
   "prose": {
@@ -809,7 +809,7 @@
   "page_id": 43,
   "count": 19,
   "live_count": 19,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "lined-journals-100gsm-paper": {
   "prose": {
@@ -837,7 +837,7 @@
   "page_id": 44,
   "count": 44,
   "live_count": 44,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "lined-leather-journals": {
   "prose": {
@@ -865,7 +865,7 @@
   "page_id": 45,
   "count": 45,
   "live_count": 45,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "magnetic-fridge-calendars": {
   "prose": {
@@ -893,7 +893,7 @@
   "page_id": 46,
   "count": 28,
   "live_count": 28,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "magnetic-meal-planners": {
   "prose": {
@@ -921,7 +921,7 @@
   "page_id": 47,
   "count": 31,
   "live_count": 31,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "notebooks-160gsm-paper": {
   "prose": {
@@ -949,7 +949,7 @@
   "page_id": 48,
   "count": 19,
   "live_count": 19,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "teacher-planners-2026-2027": {
   "prose": {
@@ -977,7 +977,7 @@
   "page_id": 49,
   "count": 14,
   "live_count": 14,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "thank-you-cards-bulk-packs": {
   "prose": {
@@ -1005,7 +1005,7 @@
   "page_id": 56,
   "count": 12,
   "live_count": 12,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "undated-daily-planners-with-schedule": {
   "prose": {
@@ -1033,7 +1033,7 @@
   "page_id": 50,
   "count": 34,
   "live_count": 34,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "undated-planners-120gsm-paper": {
   "prose": {
@@ -1061,7 +1061,7 @@
   "page_id": 51,
   "count": 31,
   "live_count": 31,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "undated-planners-with-stickers": {
   "prose": {
@@ -1089,7 +1089,7 @@
   "page_id": 52,
   "count": 47,
   "live_count": 47,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
  },
  "undated-weekly-planners-a5": {
   "prose": {
@@ -1117,7 +1117,91 @@
   "page_id": 53,
   "count": 26,
   "live_count": 26,
-  "updated": "2026-11-20"
+  "updated": "2026-11-21"
+ },
+ "black-friday-advent-calendar-deals": {
+  "prose": {
+   "subtitle": "{count} advent calendars priced 15% or more below list, largest cut first, checked {checked}",
+   "meta_title": "Black Friday Advent Calendar Deals 2026: {count} Below List",
+   "meta_description": "{count} advent calendars 15% or more below list price, up to {off_max}% off, by kind and days. Black Friday is Nov. 27; checked {checked}.",
+   "intro": "Black Friday is Friday, November 27, 2026, four days before the first door of a 24-day advent calendar opens on Tuesday, December 1. On {checked}, {count} advent calendars in the shop were priced 15% or more below the list price the retailer shows. The largest cut is {off_max}%, {off_30_plus} are 30% or more below list, and {under_10} cost less than ten dollars. By kind, the most cuts are in: {kinds_line}. The table is rebuilt from retailer data through Cyber Monday, November 30; a calendar that returns to list price drops off the page.",
+   "qa": [
+    {
+     "q": "Is Black Friday too late to buy an advent calendar?",
+     "a": "It is the last comfortable week. A 24-day calendar starts on December 1, and Black Friday 2026 falls on November 27, so an order placed that day has four days to arrive. A 12-day calendar that ends on Christmas Eve starts on December 13 and leaves more room. Check the delivery date on the retailer page before you pay, since this page shows prices and not shipping times."
+    },
+    {
+     "q": "Do advent calendars get cheaper after December 1?",
+     "a": "Often, but the choice shrinks first. Once the countdown has started, sellers cut what is left, and the calendars that sell best are gone by then. If the calendar is a gift that has to be opened on day one, the price on the check date above is the one that counts. A calendar bought late still works: open the missed doors on the first evening."
+    },
+    {
+     "q": "How do I know an advent calendar discount is real?",
+     "a": "Look at the final price and the cost per day, not the percentage. A list price is set by the seller, and this table shows it only so you can see the gap the retailer reports. Divide the price by the number in the Days column and compare calendars of the same kind: our guides for each kind do that sum for every calendar they list."
+    }
+   ],
+   "cards_title": "Largest advent calendar price cuts",
+   "printable": "To count the days on paper too, print a free <a href=\"https://freshcalendars.com/december-calendars.html\">December calendar</a>. For every calendar compared by cost per day, see the <a href=\"/article-category/advent-calendar-guides\">advent calendar guides</a>."
+  },
+  "page_id": 62,
+  "count": 185,
+  "live_count": 185,
+  "updated": "2026-11-21"
+ },
+ "advent-calendars-under-25": {
+  "prose": {
+   "subtitle": "Every advent calendar in the shop priced under $25, lowest price first, with its kind and number of days",
+   "meta_title": "Advent Calendars Under $25: Sorted by Price",
+   "meta_description": "Advent calendars priced under $25, lowest price first, with the kind and number of days for each. Retailer prices on the check date in the table.",
+   "intro": "This page lists the advent calendars in the shop priced under $25 on the check date under the table, lowest price first. The Kind column says what a day holds (toys, beauty, chocolate, tea, socks, wooden drawers to fill) and the Days column shows 12, 24 or 25 when the title states it. Prices change daily, so the table is rebuilt from retailer data; a calendar that moves out of the band leaves the page.",
+   "qa": [
+    {
+     "q": "What kind of advent calendar can you get under $25?",
+     "a": "Most are chocolate and candy calendars, crystal and jewelry sets, nativity and paper picture calendars and small beauty sets. Paper picture calendars with 24 doors sit at the low end of the table. The Kind column shows which is which."
+    },
+    {
+     "q": "Is a cheaper advent calendar worse value?",
+     "a": "Price alone does not say. Divide the price by the number of days: a calendar with 24 doors costs half as much per day as a 12-day one at the same price. What a day holds matters more than the total, and the product page of each calendar lists that from the maker listing."
+    },
+    {
+     "q": "Which advent calendars are below their list price right now?",
+     "a": "Those are on a separate page that is rebuilt through Cyber Monday: <a href=\"/black-friday-advent-calendar-deals\">Black Friday advent calendar deals</a>. This page ignores discounts and sorts only by the price you pay today."
+    }
+   ],
+   "cards_title": "Lowest-priced advent calendars under $25",
+   "printable": "Print a free <a href=\"https://freshcalendars.com/december-calendars.html\">December calendar</a> to mark December 1 to 24, and see the <a href=\"/article-category/advent-calendar-guides\">advent calendar guides</a> for cost per day by kind."
+  },
+  "page_id": 60,
+  "count": 422,
+  "live_count": 422,
+  "updated": "2026-11-21"
+ },
+ "advent-calendars-25-to-50": {
+  "prose": {
+   "subtitle": "Every advent calendar in the shop priced from $25 to $50, lowest price first, with its kind and number of days",
+   "meta_title": "Advent Calendars From $25 to $50: Sorted by Price",
+   "meta_description": "Advent calendars priced from $25 to $50, lowest price first, with the kind and number of days for each. Retailer prices on the check date in the table.",
+   "intro": "This page lists the advent calendars in the shop priced from $25 to $50 on the check date under the table, lowest price first. The Kind column says what a day holds (toys, beauty, chocolate, tea, socks, wooden drawers to fill) and the Days column shows 12, 24 or 25 when the title states it. Prices change daily, so the table is rebuilt from retailer data; a calendar that moves out of the band leaves the page.",
+   "qa": [
+    {
+     "q": "What kind of advent calendar can you get from $25 to $50?",
+     "a": "This band holds most beauty sets, wooden calendars with drawers, licensed character calendars, sock sets, building-block sets and tea and coffee boxes. The Kind column shows which is which."
+    },
+    {
+     "q": "Is a cheaper advent calendar worse value?",
+     "a": "Price alone does not say. Divide the price by the number of days: a calendar with 24 doors costs half as much per day as a 12-day one at the same price. What a day holds matters more than the total, and the product page of each calendar lists that from the maker listing."
+    },
+    {
+     "q": "Which advent calendars are below their list price right now?",
+     "a": "Those are on a separate page that is rebuilt through Cyber Monday: <a href=\"/black-friday-advent-calendar-deals\">Black Friday advent calendar deals</a>. This page ignores discounts and sorts only by the price you pay today."
+    }
+   ],
+   "cards_title": "Lowest-priced advent calendars in this band",
+   "printable": "Print a free <a href=\"https://freshcalendars.com/december-calendars.html\">December calendar</a> to mark December 1 to 24, and see the <a href=\"/article-category/advent-calendar-guides\">advent calendar guides</a> for cost per day by kind."
+  },
+  "page_id": 61,
+  "count": 361,
+  "live_count": 361,
+  "updated": "2026-11-21"
  },
  "_hub": {
   "page_id": 20
