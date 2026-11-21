@@ -3,7 +3,7 @@ title: "College Football Rivalry Week 2026: Egg Bowl Nov. 27, Game Nov. 28"
 description: "College football Rivalry Week 2026 is Nov. 26-28: Michigan at Ohio State at noon ET on FOX, the Egg Bowl Friday. Iron Bowl time not yet set. Viewing sheet."
 type: news
 publishedAt: "2026-11-01T01:30:00-05:00"
-updatedAt: "2026-11-20T07:20:00-05:00"
+updatedAt: "2026-11-21T17:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["rivalry week 2026 schedule", "Iron Bowl 2026 time", "Ohio State Michigan 2026 time", "Egg Bowl 2026", "Black Friday college football 2026"]
@@ -33,14 +33,14 @@ assets:
       - ["Sat., Nov. 28 · noon or 12:45 p.m.", "Louisville at Kentucky (network not listed)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · noon or 12:45 p.m.", "LSU at Arkansas (ESPN2 or SEC Network)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:00 p.m.", "Virginia at Virginia Tech (The CW)  Pick: ______  Score: ______"]
-      - ["Sat., Nov. 28 · 3 or 3:30 p.m.", "South Carolina at Clemson (ESPN, ESPN2 or ACC Network)  Pick: ______  Score: ______"]
+      - ["Sat., Nov. 28 · 3 p.m.", "South Carolina at Clemson (ESPN2)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30 p.m.", "USC at UCLA (CBS)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 4:15 p.m.", "Oklahoma at Missouri (SEC Network)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30 or 7:30 p.m.", "Iron Bowl: Auburn at Alabama (ABC; time set by Nov. 22)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 3:30-4:30 or 6-8 p.m.", "Georgia Tech at Georgia (SEC; set by Nov. 22)  Pick: ______  Score: ______"]
       - ["Sat., Nov. 28 · 6-8 p.m. window", "Tennessee at Vanderbilt (ESPN or ABC)  Pick: ______  Score: ______"]
       - ["Tiebreaker · Sat., Nov. 28", "Total points, Michigan at Ohio State: ______"]
-    note: "Source: ESPN college football schedule, Week 14 (checked Nov. 13, 2026); Auburn Athletics (schedule page and SEC flex rule); UK Athletics; Buckeye Sports Bulletin; Nebraska Athletics; UCLA Athletics (checked Nov. 17, 2026); Virginia Tech, Virginia, Arizona State and Clemson and South Carolina athletics (checked Nov. 18, 2026); Auburn and UK athletics (checked Nov. 19, 2026); Missouri, LSU and Vanderbilt Athletics (checked Nov. 20, 2026). Times can change; check ESPN."
+    note: "Source: ESPN college football schedule, Week 14 (checked Nov. 13, 2026); Auburn Athletics (schedule page and SEC flex rule); UK Athletics; Buckeye Sports Bulletin; Nebraska Athletics; UCLA Athletics (checked Nov. 17, 2026); Virginia Tech, Virginia and Arizona State athletics (checked Nov. 18, 2026); Auburn and UK athletics (checked Nov. 19, 2026); Missouri, LSU and Vanderbilt Athletics (checked Nov. 20, 2026); Clemson and South Carolina athletics (checked Nov. 21, 2026). Times can change; check ESPN."
     description: "A one-page college football Rivalry Week 2026 sheet with Nov. 26-28 games, Eastern Time kickoffs or SEC windows, networks, and blanks for picks and scores."
     alt: "Printable college football Rivalry Week 2026 viewing sheet listing Nov. 26-28 games with time, network and blanks for picks and scores"
 hero:
@@ -112,11 +112,11 @@ sources:
   - title: "Football 2026-27 - Clemson University Athletics"
     url: "https://clemsontigers.com/sports/football/schedule"
     publisher: "Clemson Athletics"
-    date: "2026-11-18"
+    date: "2026-11-21"
   - title: "Football Schedule 2026 - University of South Carolina Athletics"
     url: "https://gamecocksonline.com/sports/football/schedule"
     publisher: "South Carolina Athletics"
-    date: "2026-11-18"
+    date: "2026-11-21"
   - title: "2026 Football Schedule - University of Missouri Athletics Official Website"
     url: "https://mutigers.com/sports/football/schedule"
     publisher: "Missouri Athletics"
@@ -174,7 +174,7 @@ draft: false
 
 ## Which rivalry games are played Nov. 26-28, 2026?
 
-ESPN's schedule (checked Nov. 13, 2026) lists these rivalry games with their dates, sites and times. A dash means the time or network is not yet announced. The Virginia, Arizona State and Clemson and South Carolina times come from the schools' own schedule pages, checked Nov. 18, 2026; the Auburn and Kentucky entries come from their schedule pages, checked Nov. 19, 2026.
+ESPN's schedule (checked Nov. 13, 2026) lists these rivalry games with their dates, sites and times. A dash means the time or network is not yet announced. The Virginia and Arizona State times come from the schools' own schedule pages, checked Nov. 18, 2026; the Clemson and South Carolina time comes from their schedule pages, checked Nov. 21, 2026; the Auburn and Kentucky entries come from their schedule pages, checked Nov. 19, 2026.
 
 | Rivalry | Game | Date | Site | Time (ET) | TV |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@ ESPN's schedule (checked Nov. 13, 2026) lists these rivalry games with their dat
 | Clean, Old-Fashioned Hate | Georgia Tech at Georgia | Sat., Nov. 28 | Sanford Stadium, Athens | 3:30-4:30 p.m. or 6-8 p.m. window | - |
 | Governor's Cup | Louisville at Kentucky | Sat., Nov. 28 | Kroger Field, Lexington | Noon or 12:45 p.m. (not final) | not listed |
 | Victory Bell | University of Southern California (USC) at University of California, Los Angeles (UCLA) | Sat., Nov. 28 | Rose Bowl, Pasadena | 3:30 p.m. | CBS |
-| Palmetto Bowl | South Carolina at Clemson | Sat., Nov. 28 | Memorial Stadium, Clemson | 3 or 3:30 p.m. (not final) | ESPN, ESPN2 or Atlantic Coast Conference (ACC) Network (not final) |
+| Palmetto Bowl | South Carolina at Clemson | Sat., Nov. 28 | Memorial Stadium, Clemson | 3 p.m. | ESPN2 |
 | Old Oaken Bucket | Purdue at Indiana | Sat., Nov. 28 | Memorial Stadium, Bloomington | - | - |
 | Territorial Cup | Arizona State at Arizona | Sat., Nov. 28 | Casino Del Sol Stadium, Tucson | 9 p.m. (7 p.m. MST) | - |
 | Commonwealth Clash | Virginia at Virginia Tech | Sat., Nov. 28 | Lane Stadium, Blacksburg | 3 p.m. | The CW |
