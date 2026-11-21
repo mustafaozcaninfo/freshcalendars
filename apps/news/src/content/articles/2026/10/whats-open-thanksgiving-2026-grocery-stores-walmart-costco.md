@@ -3,7 +3,7 @@ title: "Stores Open on Thanksgiving 2026? Walmart, Costco, Target Closed"
 description: "Stores open on Thanksgiving 2026 (Thursday, Nov. 26): Walmart, Costco, Target, Best Buy, Home Depot and Lowe's are closed. Whole Foods has modified hours."
 type: news
 publishedAt: "2026-10-24T00:52:00-04:00"
-updatedAt: "2026-11-06T07:19:00-05:00"
+updatedAt: "2026-11-20T23:28:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["what's open on Thanksgiving 2026", "grocery stores open on Thanksgiving 2026", "is Walmart open on Thanksgiving 2026", "is Costco open on Thanksgiving 2026", "stores closed on Thanksgiving 2026"]
@@ -20,7 +20,7 @@ assets:
     title: "Thanksgiving 2026: Open or Closed, Thu., Nov. 26"
     subtitle: "Which stores and services are open on Thanksgiving Day 2026"
     kit: holiday-planner
-    note: "Source: Each retailer's own holiday-hours or newsroom page, checked Nov. 6, 2026; U.S. Postal Service; Federal Reserve; New York Stock Exchange. Confirm your local store's hours before you go."
+    note: "Source: Each retailer's own holiday-hours or newsroom page, checked Nov. 20, 2026; U.S. Postal Service; Federal Reserve; New York Stock Exchange. Confirm your local store's hours before you go."
     description: "One-page Thanksgiving 2026 open-or-closed list for Walmart, Costco, Target, grocery stores, the Postal Service, banks and the stock market. Free printable."
     alt: "Thanksgiving 2026 open or closed printable listing Walmart, Costco, Best Buy, Home Depot, Lowe's, Whole Foods and Walgreens"
     data:
@@ -28,17 +28,22 @@ assets:
       status:
         - { name: "Walmart", status: closed, detail: "Company statement, Oct. 7, 2026", src: 1, quote: "Stores will be closed again on Thanksgiving and Christmas this year." }
         - { name: "Costco", status: closed, detail: "2026 holiday notice", src: 5, quote: "In observance of Thanksgiving, Costco will be closed Thursday, Nov. 26, 2026." }
-        - { name: "Target", status: closed, detail: "2026 fact sheet, Nov. 5", src: 3 }
+        - { name: "Target", status: closed, detail: "2026 fact sheet, updated Nov. 19", src: 3, quote: "Thanksgiving (Nov. 26): All stores closed" }
         - { name: "Best Buy", status: closed, detail: "2026 holiday calendar, Oct. 27", src: 6, quote: "Stores will be closed on Thanksgiving Day" }
         - { name: "Home Depot", status: closed, detail: "2026 holiday store hours", src: 8, quote: "Thanksgiving Thu., Nov. 26 Closed" }
         - { name: "Lowe's", status: closed, detail: "2026 holiday release, Oct. 8", src: 9, quote: "Lowe's stores will remain closed on Thanksgiving Day so associates can spend time with their loved ones" }
         - { name: "Whole Foods Market", status: limited, detail: "Many stores open, modified hours; check your store", src: 11, quote: "Many of our stores are open for modified hours on Thanksgiving, Christmas Eve, New Year's Eve and New Year's Day." }
-        - { name: "Walgreens (2025 note)", status: limited, detail: "No 2026 statement; 2025: 24-hour locations open", src: 12, quote: "Most stores closed; 24-hour locations remain open for essential pharmacy services" }
+        - { name: "Walgreens", status: open, detail: "Release, Nov. 5, 2026; no hours given", src: 12, quote: "All of Walgreens' nearly 8,000 stores will be open on Thanksgiving Day, Thursday, Nov. 26, 2026." }
+        - { name: "Aldi", status: closed, detail: "FOX 4 and Yahoo Shopping, Nov. 2026", src: 10, quote: "Stores will be CLOSED, according to the company's holiday policy." }
+        - { name: "Sam's Club", status: closed, detail: "FOX 4, Nov. 19, 2026", src: 10, quote: "Clubs will be CLOSED, according to the company's published holiday schedule." }
+        - { name: "Publix", status: closed, detail: "Publix Q&A, read Nov. 16, 2026", src: 18, quote: "Publix stores are closed three days a year: Thanksgiving, Christmas and Easter." }
+        - { name: "Trader Joe's", status: closed, detail: "Yahoo Shopping, Nov. 18, 2026", src: 16, quote: "Trader Joe's: Closed on Thanksgiving Day" }
+        - { name: "BJ's Wholesale Club", status: closed, detail: "Reopens Fri., Nov. 27", src: 21 }
       tasks:
-        - { daysBefore: 7, task: "Check the store locator for Aldi and Dollar General (2026 hours not posted)" }
+        - { daysBefore: 7, task: "Check the store locator for Kroger and Dollar General (2026 hours not posted)" }
         - { daysBefore: 1, task: "Call your local store to confirm its Thanksgiving hours" }
       unconfirmed:
-        - { label: "Aldi", why: "Has not posted 2026 holiday hours on aldi.us; closed in past years" }
+        - { label: "Kroger", why: "2026 hours not posted; check the store locator" }
         - { label: "Dollar General", why: "2026 hours not posted; check the store locator" }
 hero:
   src: ../../../../assets/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/whats-open-thanksgiving-2026-grocery-stores-walmart-costco.webp
@@ -54,18 +59,18 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Chive_Cream_Cheese"
 summary:
   - "Thanksgiving Day 2026 is Thursday, Nov. 26. Walmart, Costco, Target, Best Buy, Home Depot and Lowe's are closed."
-  - "Whole Foods Market says many stores open with modified hours. Aldi and Dollar General have not posted 2026 hours, so check their store locators first."
+  - "Walgreens says all of its nearly 8,000 stores open, and Whole Foods Market says many stores open with modified hours. Aldi, Sam's Club, Publix and Trader Joe's are closed, per newsroom reports."
   - "The U.S. Postal Service lists Thanksgiving as a postal holiday, most banks close for the Federal Reserve holiday, and the New York Stock Exchange is closed."
-  - "Several chains, including Kroger, Publix and Trader Joe's, have not posted their 2026 Thanksgiving hours. Black Friday opening times are in a separate story."
+  - "Kroger, H-E-B, CVS, Dollar General and several other chains have not confirmed 2026 hours. Black Friday opening times are in a separate story."
 faq:
   - q: "Is Walmart open on Thanksgiving 2026?"
     a: "No. Walmart said in October 2026 that its stores will be closed again on Thanksgiving and Christmas this year. Online shopping on Walmart.com still works."
   - q: "Is Costco open on Thanksgiving 2026?"
     a: "No. Costco's 2026 holiday notice says Costco will be closed Thursday, Nov. 26, 2026, and its holiday closures page lists Thanksgiving Day too. Costco.com stays open for orders."
   - q: "Are grocery stores open on Thanksgiving 2026?"
-    a: "Some are. Whole Foods Market says many of its stores open with modified hours. Aldi closed on Thanksgiving in past years but has not posted 2026 holiday hours, and Dollar General has not posted 2026 hours either. Several other chains have not posted 2026 hours, so check your store's locator or call ahead."
+    a: "Some are. Whole Foods Market says many of its stores open with modified hours, and Walgreens says all of its nearly 8,000 stores open. Aldi, Sam's Club, Publix, Trader Joe's and BJ's Wholesale Club are closed. Kroger, H-E-B, Dollar General and several other chains have not confirmed 2026 hours, so check your store's locator or call ahead."
   - q: "Is Target open on Thanksgiving 2026?"
-    a: "No. Target's 2026 holiday fact sheet, dated Nov. 5, 2026, says all stores are closed on Thanksgiving, Nov. 26. Target.com remains open."
+    a: "No. Target's 2026 holiday fact sheet, updated Nov. 19, 2026, says all stores are closed on Thanksgiving, Nov. 26. Target.com remains open."
   - q: "Is the mail delivered on Thanksgiving 2026?"
     a: "No. The U.S. Postal Service lists Thursday, Nov. 26 as Thanksgiving Day among its 2026 holidays."
   - q: "Are banks open on Thanksgiving 2026?"
@@ -81,7 +86,7 @@ sources:
   - title: "2026 Holiday Shopping at Target: Answers to Guests' Most Frequently Asked Questions"
     url: "https://corporate.target.com/press/fact-sheet/2026/11/holiday-shopping-information"
     publisher: "Target"
-    date: "2026-11-05"
+    date: "2026-11-19"
   - title: "Target Announces It Will Close Stores on Thanksgiving Day Moving Forward"
     url: "https://corporate.target.com/press/fact-sheet/2021/11/target-announces-it-will-close-stores-on-thanksgiving-day-moving-forward"
     publisher: "Target"
@@ -103,15 +108,17 @@ sources:
   - title: "Lowe's Unveils Holiday 2026 Lineup"
     url: "https://corporate.lowes.com/newsroom/press-releases/lowes-unveils-holiday-2026-lineup-new-gifts-and-decor-mylowes-rewards-perks-and-weeks-of-black-friday-savings"
     publisher: "Lowe's"
-  - title: "ALDI Store Information (FAQs)"
-    url: "https://www.aldi.us/en/about-us/faqs/aldi-store-information/"
-    publisher: "ALDI"
+  - title: "Thanksgiving Day store hours 2026: Which DFW grocery stores and retailers are open?"
+    url: "https://www.fox4news.com/news/thanksgiving-day-store-hours-2026-which-dfw-grocery-stores-retailers-open"
+    publisher: "FOX 4 Dallas-Fort Worth"
+    date: "2026-11-19"
   - title: "Holiday Store Hours"
     url: "https://www.wholefoodsmarket.com/company-info/holiday-store-hours"
     publisher: "Whole Foods Market"
-  - title: "Holiday Hub"
-    url: "https://corporate.walgreens.com/holiday-hub/"
+  - title: "Thanksgiving Doesn't Always Go as Planned. Walgreens Is in Your Corner."
+    url: "https://corporate.walgreens.com/news-and-stories/press-releases/retail-customer-experience/thanksgiving-doesnt-always-go-as-planned-walgreens-is-in-your-corner/"
     publisher: "Walgreens"
+    date: "2026-11-05"
   - title: "Postal Facts and Newsroom Events"
     url: "https://about.usps.com/newsroom/events/"
     publisher: "U.S. Postal Service"
@@ -121,6 +128,37 @@ sources:
   - title: "Holidays and Trading Hours"
     url: "https://www.nyse.com/markets/hours-calendars"
     publisher: "New York Stock Exchange"
+  - title: "Thanksgiving store hours for 2026: When do Kroger, Meijer, Aldi, CVS, Bass Pro Shops and more stores open for holiday shopping?"
+    url: "https://shopping.yahoo.com/deals/breaking-news/article/thanksgiving-store-hours-for-2026-when-do-kroger-meijer-aldi-cvs-bass-pro-shops-and-more-stores-open-for-holiday-shopping-181334553.html"
+    publisher: "Yahoo Shopping"
+    date: "2026-11-18"
+  - title: "These stores say they'll be closed on Thanksgiving 2026"
+    url: "https://www.kake.com/news/business/these-stores-say-theyll-be-closed-on-thanksgiving-2026/article_504c3700-8f27-466d-ac6e-dd6d85db12d7.html"
+    publisher: "KAKE"
+    date: "2026-11-17"
+  - title: "Q&A - Newsroom | Publix Super Markets"
+    url: "https://corporate.publix.com/Newsroom/q-and-a"
+    publisher: "Publix Super Markets"
+    date: "2026-11-16"
+  - title: "Cracker Barrel adds new dishes to its 2026 holiday menu"
+    url: "https://www.spokesman.com/stories/2026/oct/21/cracker-barrel-adds-new-dishes-to-its-2026-holiday/"
+    publisher: "USA Today via The Spokesman-Review"
+    date: "2026-10-21"
+  - title: "Food places open on Thanksgiving 2026"
+    url: "https://www.foodnetwork.com/fn-dish/news/food-places-open-on-thanksgiving-2026"
+    publisher: "Food Network"
+    date: "2026-11-03"
+  - title: "It's Turkey Time: BJ's Wholesale Club Announces Return of Its Annual Free Turkey Giveaway"
+    url: "https://newsroom.bjs.com/press-releases/news-details/2026/Its-Turkey-Time-BJs-Wholesale-Club-Announces-Return-of-Its-Annual-Free-Turkey-Giveaway/default.aspx"
+    publisher: "BJ's Wholesale Club"
+    date: "2026-10-22"
+  - title: "Holiday Hours"
+    url: "https://newsroom.hobbylobby.com/articles/holiday-hours-3"
+    publisher: "Hobby Lobby"
+    date: "2026-11-02"
+  - title: "Black Friday - IKEA"
+    url: "https://www.ikea.com/us/en/campaigns/black-friday/"
+    publisher: "IKEA"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -141,9 +179,9 @@ downloads:
 draft: false
 ---
 
-<p class="callout"><b>We update this list as stores confirm their 2026 hours.</b> The statuses below come from each company's own holiday-hours or newsroom page, checked Nov. 6, 2026. Always confirm your local store before you go.</p>
+<p class="callout"><b>We update this list as stores confirm their 2026 hours.</b> The statuses below come from each company's own holiday-hours or newsroom page, checked Nov. 20, 2026. Always confirm your local store before you go.</p>
 
-**Big-box and warehouse chains that have posted 2026 hours are closed on Thanksgiving, Thursday, Nov. 26, 2026, while many Whole Foods stores open with shorter hours.** Walmart, Costco, Target, Best Buy, Home Depot and Lowe's have confirmed closed doors. Whole Foods Market says many of its stores open with modified hours. This page covers Thanksgiving Day itself; for the morning after, see our [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
+**Big-box and warehouse chains that have posted 2026 hours are closed on Thanksgiving, Thursday, Nov. 26, 2026, while Walgreens and many Whole Foods stores open.** Walmart, Costco, Target, Best Buy, Home Depot and Lowe's have confirmed closed doors. Walgreens says all of its nearly 8,000 stores open, and Whole Foods Market says many of its stores open with modified hours. This page covers Thanksgiving Day itself; for the morning after, see our [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
 
 ## What's open and closed on Thanksgiving 2026
 
@@ -153,36 +191,50 @@ The table lists what each company has published for 2026 where available, with t
 |---|---|---|
 | Walmart | Closed | 2026 statement |
 | Costco | Closed | 2026 holiday notice |
-| Target | Closed | 2026 fact sheet (Nov. 5) |
+| Target | Closed | 2026 fact sheet (updated Nov. 19) |
 | Best Buy | Closed | 2026 holiday calendar |
 | Home Depot | Closed | 2026 holiday hours |
 | Lowe's | Closed | 2026 holiday release |
-| Aldi | 2026 hours not posted; check the store locator | aldi.us |
+| Aldi | Closed | FOX 4 and Yahoo Shopping (Nov. 2026) |
+| Sam's Club | Closed | FOX 4 and a Wichita TV station (Nov. 2026) |
+| Publix | Closed | Publix Q&A and Yahoo Shopping |
+| Trader Joe's | Closed | Yahoo Shopping, FOX 4 and Voz |
+| BJ's Wholesale Club | Closed; reopens Fri., Nov. 27 | 2026 company release (Oct. 22) |
+| Hobby Lobby | Closed; Fri., Nov. 27, 8 a.m. to 9 p.m. | 2026 newsroom (Nov. 2) |
+| IKEA | Closed | IKEA Black Friday page |
 | Whole Foods Market | Open, modified hours at many stores | Holiday hours page |
+| Walgreens | Open, all nearly 8,000 stores; no hours given | 2026 release (Nov. 5) |
 | Dollar General | 2026 hours not posted; check the store locator | None posted |
-| Walgreens | Most stores closed; 24-hour locations open | 2025 statement |
 
 **Walmart.** In its Oct. 7, 2026 season announcement, Walmart said its "stores will be closed again on Thanksgiving and Christmas this year." Walmart.com stays open for online orders.
 
 **Costco.** Costco's 2026 holiday notice says: "In observance of Thanksgiving, Costco will be closed Thursday, Nov. 26, 2026." Its holiday closures help page also lists Thanksgiving Day among the days its warehouses close. Costco.com continues to take orders.
 
-**Target.** Target's 2026 holiday shopping fact sheet, dated Nov. 5, 2026, says all stores are closed on Thanksgiving, Nov. 26. The company first said in a 2021 fact sheet that stores would be closed on Thanksgiving Day moving forward.
+**Target.** Target's 2026 holiday shopping fact sheet, updated Nov. 19, 2026, says all stores are closed on Thanksgiving, Nov. 26. The company first said in a 2021 fact sheet that stores would be closed on Thanksgiving Day moving forward.
 
 **Best Buy.** Best Buy's 2026 holiday calendar, posted Oct. 27, 2026, says "Stores will be closed on Thanksgiving Day." The company first made the closure its policy in 2020.
 
 **Home Depot and Lowe's.** Home Depot's 2026 holiday store hours list Thanksgiving, Thursday, Nov. 26, as closed. Lowe's said in its 2026 holiday release, dated Oct. 8, that its stores will be closed on Thanksgiving Day and Christmas Day.
 
-**Aldi.** Aldi closed on Thanksgiving in past years, but it has not posted 2026 holiday hours on aldi.us. Two newsrooms report it is closed on Thanksgiving 2026; see [is Aldi open on Thanksgiving 2026](/news/is-aldi-open-thanksgiving-2026-christmas-eve-hours/). Check the Aldi store locator before you go.
+**Aldi.** FOX 4 Dallas-Fort Worth, in a Nov. 19, 2026 story, says Aldi stores will be closed on Thanksgiving, according to the company's holiday policy, and Yahoo Shopping, updated Nov. 18, 2026, lists Aldi as "Closed on Thanksgiving Day." The aldi.us page could not be read, so the status rests on those two newsrooms. See [is Aldi open on Thanksgiving 2026](/news/is-aldi-open-thanksgiving-2026-christmas-eve-hours/).
+
+**Sam's Club.** FOX 4 reported on Nov. 19, 2026 that clubs will be closed, according to the company's published holiday schedule. A television station in Wichita, Kansas (KAKE) lists stores closed on Thanksgiving 2026, in a story updated Nov. 17, and names Sam's Club too. See [is Sam's Club open on Thanksgiving 2026](/news/is-sams-club-open-thanksgiving-2026-black-friday-hours/).
+
+**Publix and Trader Joe's.** Publix's own newsroom Q&A says its stores are closed three days a year: Thanksgiving, Christmas and Easter, and Yahoo Shopping lists it closed on Thanksgiving Day. Yahoo Shopping, FOX 4 and Voz list Trader Joe's as closed. FOX 4's Trader Joe's report covers Dallas-Fort Worth stores. See [is Publix open on Thanksgiving 2026](/news/is-publix-open-thanksgiving-2026-christmas-eve-hours/) and [is Trader Joe's open on Thanksgiving 2026](/news/is-trader-joes-open-thanksgiving-2026/).
+
+**BJ's, Hobby Lobby and IKEA.** BJ's Wholesale Club is closed chainwide on Thanksgiving and reopens Friday, Nov. 27, per its Oct. 22, 2026 release. Hobby Lobby's Nov. 2, 2026 newsroom page lists Thanksgiving as closed and Friday, Nov. 27 as 8 a.m. to 9 p.m. IKEA's Black Friday page lists Nov. 26 as closed.
 
 **Whole Foods Market.** Whole Foods says many of its stores open on Thanksgiving with modified hours. Hours vary by location, so check the store's page before you shop.
 
+**Walgreens.** Walgreens' Nov. 5, 2026 release says: "All of Walgreens' nearly 8,000 stores will be open on Thanksgiving Day, Thursday, Nov. 26, 2026," and that more than 4,000 pharmacies will be open. The release gives no hours, so check your store. See [is Walgreens open on Thanksgiving 2026](/news/is-walgreens-open-thanksgiving-2026-pharmacies-cvs/).
+
 **Dollar General.** Dollar General has not posted 2026 Thanksgiving hours. Check the Dollar General store locator for your store.
 
-**Walgreens.** For Thanksgiving 2025, Walgreens' Holiday Hub said most stores were closed while its 24-hour locations stayed open. The company has not yet posted a 2026 note, so this is labeled as the 2025 statement.
+**Cracker Barrel.** The restaurant chain plans to serve a Thanksgiving meal on Thursday, Nov. 26, with hours varying by location, per USA Today via the Spokesman-Review (Oct. 21, 2026); Food Network (Nov. 3, 2026) says open from 11 a.m. local time. See [restaurants open on Thanksgiving 2026](/news/restaurants-open-thanksgiving-2026-hours-by-chain/).
 
 ## Not yet confirmed for 2026
 
-Several large grocery and pharmacy chains have not published Thanksgiving 2026 hours as of Nov. 6. We are not giving them a status here, because last year's hours are not a promise for this year. Check each chain's store locator or call your local store: Kroger, Publix, H-E-B, Trader Joe's, Sam's Club, CVS, Safeway and Albertsons, Wegmans, Meijer, Starbucks and Cracker Barrel. We add stores to the table above as they confirm.
+Several large grocery and pharmacy chains have not confirmed Thanksgiving 2026 hours as of Nov. 20. We are not giving them a status here, because last year's hours are not a promise for this year. Check each chain's store locator or call your local store: Kroger, H-E-B, CVS, Dollar General, Wegmans, Meijer, Safeway and Albertsons, and Starbucks. We add stores to the table above as they confirm.
 
 ## Mail, banks and the stock market
 

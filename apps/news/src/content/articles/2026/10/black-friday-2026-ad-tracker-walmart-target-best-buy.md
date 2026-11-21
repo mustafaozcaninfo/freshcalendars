@@ -3,7 +3,7 @@ title: "Black Friday Ads 2026: Date Is Nov. 27, Walmart Deals Nov. 23-29"
 description: "Black Friday 2026 is Friday, Nov. 27. Ad tracker with Walmart, Target, Best Buy, JCPenney and Kohl's sale dates, Costco prices and a live countdown."
 type: news
 publishedAt: "2026-10-23T15:05:00-04:00"
-updatedAt: "2026-11-19T11:25:00-05:00"
+updatedAt: "2026-11-20T23:28:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["black friday 2026 deals", "how many days until black friday 2026", "what date is black friday 2026", "Walmart Black Friday ad 2026", "Target Black Friday 2026"]
@@ -289,7 +289,7 @@ Amazon's Black Friday Week and Cyber Monday events run Nov. 19 to 30, 2026, star
 | Walmart | Announced Oct. 26: Early Black Friday Deals Nov. 12 to 15; Black Friday Deals Nov. 23 to 29; Cyber Monday Nov. 30 to Dec. 2 | Announced Oct. 27, 2025: events Nov. 14 to 16 and Nov. 25 to 30, Cyber Monday Dec. 1 |
 | Best Buy | Announced Oct. 27: DoorBOOsters Oct. 30; Early Black Friday Deals from Nov. 6; Cyber Week Dec. 1 to 6. Confirmed Nov. 17: Black Friday Sale begins Nov. 19 (10 days), Doorbusters end Nov. 29 at 11:59 p.m. CT, Cyber Monday event ends Nov. 30 at 11:59 p.m. CT; on Black Friday, Nov. 27, stores open 6 a.m. and My Best Buy members can buy a $100 Best Buy Gift Card for $60 in store only (at least 50 per store); Last-Minute Savings Dec. 18 to 24; stores closed Thanksgiving Day; Holiday Price Match Guarantee (limitations apply, excludes Marketplace products); most purchases from Oct. 30 to Dec. 31 returnable through Jan. 15, 2027 (Jan. 31, 2027 for Plus and Total members); double rewards Nov. 19 to Dec. 6 for My Best Buy Plus and Total members | Not confirmed here |
 | Amazon | Announced Nov. 9: Black Friday Week and Cyber Monday deal events "return November 19-30"; Black Friday Week starts Thursday, Nov. 19; deals "will drop twice on both Black Friday and Cyber Monday at midnight and 8 a.m. PT" (3 a.m. and 11 a.m. ET on Nov. 27 and Nov. 30); savings up to 60% off. Prime Big Deal Days were held Oct. 6 to 7, 2026 | - |
-| Costco | Savings valid Oct. 30 to Nov. 30, 2026 (item windows vary: on Nov. 12 the page showed some items valid Oct. 19 to Nov. 15, others from Oct. 26, Oct. 31, Nov. 16, 19 or 20 through Nov. 30, and most Nov. 27 to 30); holiday savings valid Nov. 27 to 30; warehouses closed Nov. 26 ([our Costco guide](/news/costco-black-friday-2026-dates-november-27-30-pre-thanksgiving-savings-november-16/)) | Holiday savings Nov. 28 to Dec. 1, 2025 |
+| Costco | Savings valid Oct. 30 to Nov. 30, 2026 (item windows vary: on Nov. 12 the page showed some items valid Oct. 19 to Nov. 15, others from Oct. 26, Oct. 31, Nov. 16, 19 or 20 through Nov. 30, and most Nov. 27 to 30; on Nov. 21 the page also showed items valid from Nov. 23 and from Nov. 26 through Nov. 30); holiday savings valid Nov. 27 to 30; warehouses closed Nov. 26 ([our Costco guide](/news/costco-black-friday-2026-dates-november-27-30-pre-thanksgiving-savings-november-16/)) | Holiday savings Nov. 28 to Dec. 1, 2025 |
 | Home Depot | Holiday savings start Oct. 29; Black Friday Savings Event Nov. 5 to 25; stores closed Thanksgiving, open 6 a.m. Nov. 27 ([our Home Depot guide](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/)) | Not confirmed here |
 | Lowe's | Announced Oct. 8: Black Friday deals from Oct. 29; 12 Days of Deals from Nov. 16; stores closed Thanksgiving Day; Doorbusters Nov. 27 ([our Lowe's guide](/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/)) | Not confirmed here |
 | Kohl's | Announced Oct. 30: Black Friday Early Access Nov. 6 to 8; Black Friday Week Nov. 22 to 28; Black Friday doorbusters online from 12:01 a.m. CT on Thanksgiving Day, Nov. 26; Black Friday Sweepstakes Nov. 27 to 30; Cyber Deals Nov. 29 to 30; stores closed Thanksgiving, reopen 5 a.m. local time Nov. 27 ([our Kohl's guide](/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/)) | Not confirmed here |
@@ -343,7 +343,7 @@ Source: Target holiday shopping fact sheet, updated Nov. 5, 2026.
 
 ## Televisions and electronics: Costco's Black Friday 2026 prices
 
-Costco has published Black Friday 2026 television and electronics warehouse prices, "Valid 11/27/26 - 11/30/26" on its holiday savings page. Costco says pricing may vary by location and online, and the page says valid dates vary by item: on Nov. 12 a few items showed "Valid 10/19/26 - 11/15/26", others ran from Oct. 26, Oct. 31, Nov. 16, Nov. 19 or Nov. 20 to Nov. 30, and most read "Valid 11/27/26 - 11/30/26". Costco will be closed Thursday, Nov. 26, 2026, for Thanksgiving. The Hisense model uses quantum dot light-emitting diode (QLED) technology. The page lists more televisions than the three items shown here.
+Costco has published Black Friday 2026 television and electronics warehouse prices, "Valid 11/27/26 - 11/30/26" on its holiday savings page. Costco says pricing may vary by location and online, and the page says valid dates vary by item: on Nov. 12 a few items showed "Valid 10/19/26 - 11/15/26", others ran from Oct. 26, Oct. 31, Nov. 16, Nov. 19 or Nov. 20 to Nov. 30, and most read "Valid 11/27/26 - 11/30/26". On Nov. 21 the page also showed items marked "Valid 11/23/26 - 11/30/26" and "Valid 11/26/26 - 11/30/26", dates the page gives without saying whether they apply online or in warehouses. Costco will be closed Thursday, Nov. 26, 2026, for Thanksgiving. The Hisense model uses quantum dot light-emitting diode (QLED) technology. The page lists more televisions than the three items shown here.
 
 | Item | Costco price |
 |---|---|
@@ -362,7 +362,7 @@ On Nov. 13 the page listed 93 dated offers. Most wait for the holiday weekend:
 | Oct. 26 to Nov. 30 | 1 |
 | Oct. 31 to Nov. 30 | 1 |
 
-Source: Costco Wholesale, checked Nov. 3, Nov. 6, Nov. 12 and Nov. 13, 2026; the offer counts are ours, from the page on Nov. 13. Best Buy's Oct. 27 calendar sets the dates (doorbusters from Oct. 30, Black Friday deals from Nov. 19) but names no products or prices. It said on Sept. 14 that its holiday savings start in October and run all season across gaming, computing and home theater, but it did not give a Black Friday start date or any prices. Walmart's Oct. 26 release does not list television or laptop prices either.
+Source: Costco Wholesale, checked Nov. 3, Nov. 6, Nov. 12, Nov. 13 and Nov. 21, 2026; the offer counts are ours, from the page on Nov. 13. Best Buy's Oct. 27 calendar sets the dates (doorbusters from Oct. 30, Black Friday deals from Nov. 19) but names no products or prices. It said on Sept. 14 that its holiday savings start in October and run all season across gaming, computing and home theater, but it did not give a Black Friday start date or any prices. Walmart's Oct. 26 release does not list television or laptop prices either.
 
 ### How to tell a Black Friday deal is real
 
