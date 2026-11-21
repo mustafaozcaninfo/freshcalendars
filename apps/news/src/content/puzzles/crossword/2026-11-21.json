@@ -1,0 +1,1122 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-21",
+ "constructors": [
+  "Zhou Zhang"
+ ],
+ "width": 15,
+ "height": 15,
+ "cells": [
+  "F",
+  "A",
+  "Q",
+  "I",
+  "R",
+  null,
+  "I",
+  "R",
+  "W",
+  "I",
+  "N",
+  null,
+  "C",
+  "C",
+  "S",
+  "I",
+  "S",
+  "U",
+  "R",
+  "E",
+  "H",
+  "O",
+  "P",
+  "E",
+  "S",
+  "O",
+  null,
+  "O",
+  "R",
+  "E",
+  "X",
+  "I",
+  "A",
+  "O",
+  "L",
+  "O",
+  "N",
+  "G",
+  "B",
+  "A",
+  "O",
+  null,
+  "V",
+  "O",
+  "W",
+  "E",
+  "N",
+  "D",
+  "N",
+  "O",
+  "T",
+  "E",
+  null,
+  "B",
+  "A",
+  "D",
+  "N",
+  "E",
+  "W",
+  "S",
+  null,
+  null,
+  null,
+  "M",
+  "A",
+  "S",
+  null,
+  "C",
+  "Y",
+  "C",
+  "L",
+  "E",
+  "R",
+  "S",
+  null,
+  "I",
+  "M",
+  "B",
+  "A",
+  "D",
+  null,
+  "K",
+  "O",
+  "A",
+  null,
+  "E",
+  "S",
+  "S",
+  "A",
+  "Y",
+  "N",
+  "O",
+  "O",
+  "N",
+  "E",
+  "K",
+  "N",
+  "O",
+  "W",
+  "S",
+  null,
+  "S",
+  "O",
+  "B",
+  "A",
+  "E",
+  "V",
+  "O",
+  null,
+  "D",
+  "O",
+  "I",
+  "T",
+  "A",
+  "L",
+  "L",
+  null,
+  "N",
+  "O",
+  "W",
+  "P",
+  "I",
+  "M",
+  "A",
+  null,
+  "S",
+  "T",
+  "I",
+  "R",
+  "R",
+  "I",
+  "N",
+  "G",
+  "U",
+  "P",
+  "T",
+  "E",
+  "E",
+  "M",
+  "S",
+  null,
+  "W",
+  "E",
+  "D",
+  null,
+  "N",
+  "E",
+  "S",
+  "T",
+  "S",
+  null,
+  "G",
+  "R",
+  "I",
+  "N",
+  "G",
+  "O",
+  "S",
+  null,
+  "P",
+  "E",
+  "A",
+  null,
+  null,
+  null,
+  "D",
+  "E",
+  "A",
+  "D",
+  "A",
+  "I",
+  "R",
+  null,
+  "T",
+  "E",
+  "A",
+  "R",
+  "O",
+  "S",
+  "E",
+  "I",
+  "N",
+  "N",
+  null,
+  "F",
+  "A",
+  "T",
+  "F",
+  "I",
+  "N",
+  "G",
+  "E",
+  "R",
+  "E",
+  "D",
+  "O",
+  "R",
+  "G",
+  null,
+  "U",
+  "N",
+  "H",
+  "A",
+  "R",
+  "N",
+  "E",
+  "S",
+  "S",
+  "E",
+  "D",
+  "R",
+  "E",
+  "S",
+  null,
+  "S",
+  "T",
+  "Y",
+  "N",
+  "E",
+  null,
+  "S",
+  "T",
+  "O",
+  "R",
+  "Y"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Muslim or Hindu holy person",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Steve nicknamed the \"Crocodile Hunter\"",
+   "cells": [
+    6,
+    7,
+    8,
+    9,
+    10
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Shot units, for short",
+   "cells": [
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "\"From your mouth to God's ears!\"",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Rock piece that might contain heavy metal samples?",
+   "cells": [
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Chinese buns prepared in a bamboo steamer",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "Promise",
+   "cells": [
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Citation in a list in the back of a book",
+   "cells": [
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Certain bearer's burden … or a descriptor for certain \"Bears\"",
+   "cells": [
+    53,
+    54,
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "___ o menos (Spanish \"sorta\")",
+   "cells": [
+    63,
+    64,
+    65
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Ones spinning their wheels",
+   "cells": [
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Declaration made 30 times in a 1987 Michael Jackson hit",
+   "cells": [
+    75,
+    76,
+    77,
+    78,
+    79
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "Place to camp, for short",
+   "cells": [
+    81,
+    82,
+    83
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "Times piece",
+   "cells": [
+    85,
+    86,
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "30",
+   "text": "\"It's a mystery\"",
+   "cells": [
+    90,
+    91,
+    92,
+    93,
+    94,
+    95,
+    96,
+    97,
+    98,
+    99
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "Alternative to udon",
+   "cells": [
+    101,
+    102,
+    103,
+    104
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Annual esports event, familiarly",
+   "cells": [
+    105,
+    106,
+    107
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "35",
+   "text": "Be a master of everything",
+   "cells": [
+    109,
+    110,
+    111,
+    112,
+    113,
+    114,
+    115
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "37",
+   "text": "\"Listen …\"",
+   "cells": [
+    117,
+    118,
+    119
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "38",
+   "text": "Cotton variety",
+   "cells": [
+    120,
+    121,
+    122,
+    123
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "40",
+   "text": "Inciting",
+   "cells": [
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "42",
+   "text": "Overflows",
+   "cells": [
+    135,
+    136,
+    137,
+    138,
+    139
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "44",
+   "text": "Joined",
+   "cells": [
+    141,
+    142,
+    143
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "45",
+   "text": "Prepares for new arrivals, in a way",
+   "cells": [
+    145,
+    146,
+    147,
+    148,
+    149
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "46",
+   "text": "Mexican moniker for northern neighbors",
+   "cells": [
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "48",
+   "text": "Word after snap and before soup",
+   "cells": [
+    159,
+    160,
+    161
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "49",
+   "text": "No-no on radio",
+   "cells": [
+    165,
+    166,
+    167,
+    168,
+    169,
+    170,
+    171
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "50",
+   "text": "Pink color named after a flower",
+   "cells": [
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "54",
+   "text": "Stop for the night",
+   "cells": [
+    180,
+    181,
+    182
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "55",
+   "text": "Turned a chat into a chart, perhaps?",
+   "cells": [
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "57",
+   "text": "___ chart",
+   "cells": [
+    195,
+    196,
+    197
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "58",
+   "text": "Strapless?",
+   "cells": [
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "59",
+   "text": "Something that might be made for dinner, informally",
+   "cells": [
+    210,
+    211,
+    212
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "60",
+   "text": "\"Funny Girl\" composer Jule",
+   "cells": [
+    214,
+    215,
+    216,
+    217,
+    218
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "61",
+   "text": "Instagram upload",
+   "cells": [
+    220,
+    221,
+    222,
+    223,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Set in France?",
+   "cells": [
+    0,
+    15,
+    30,
+    45
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "\"Specifically …\"",
+   "cells": [
+    1,
+    16,
+    31,
+    46
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Hammy neighbor",
+   "cells": [
+    2,
+    17,
+    32,
+    47
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Race totaling more than 140 miles, familiarly",
+   "cells": [
+    3,
+    18,
+    33,
+    48,
+    63,
+    78,
+    93
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Prepared for another round",
+   "cells": [
+    4,
+    19,
+    34,
+    49,
+    64,
+    79,
+    94,
+    109
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "One of the Greek Nereids",
+   "cells": [
+    6,
+    21,
+    36,
+    51
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Character-building activity, for short?",
+   "cells": [
+    7,
+    22,
+    37
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Honor bestowed for \"excellence on the internet\"",
+   "cells": [
+    8,
+    23,
+    38,
+    53,
+    68,
+    83,
+    98,
+    113,
+    128,
+    143
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "___ Watts, English minister who composed \"Joy to the World\"",
+   "cells": [
+    9,
+    24,
+    39,
+    54,
+    69
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Ponder, with \"on\"",
+   "cells": [
+    10,
+    25,
+    40,
+    55,
+    70,
+    85
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "They're played by different people",
+   "cells": [
+    12,
+    27,
+    42,
+    57,
+    72,
+    87,
+    102,
+    117,
+    132,
+    147
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Boasts of",
+   "cells": [
+    13,
+    28,
+    43,
+    58,
+    73,
+    88,
+    103,
+    118,
+    133,
+    148
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Follows a pattern, in a way",
+   "cells": [
+    14,
+    29,
+    44,
+    59
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "Some intense feelings, with \"the\"",
+   "cells": [
+    20,
+    35,
+    50,
+    65
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "Suffix that turns an adjective into a noun",
+   "cells": [
+    56,
+    71,
+    86,
+    101
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "Icky thing to catch on a playground",
+   "cells": [
+    67,
+    82,
+    97,
+    112,
+    127,
+    142,
+    157
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Not dexterous",
+   "cells": [
+    75,
+    90,
+    105,
+    120,
+    135
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Action, e.g.",
+   "cells": [
+    76,
+    91,
+    106,
+    121,
+    136,
+    151,
+    166,
+    181,
+    196,
+    211
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "Fliers typically making round trips?",
+   "cells": [
+    77,
+    92,
+    107,
+    122,
+    137,
+    152,
+    167,
+    182,
+    197,
+    212
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "Like someone who would treasure a thoughtful handmade gift, in slang",
+   "cells": [
+    81,
+    96,
+    111,
+    126,
+    141,
+    156,
+    171,
+    186,
+    201,
+    216
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "29",
+   "text": "Harsh cries",
+   "cells": [
+    89,
+    104,
+    119,
+    134,
+    149
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "31",
+   "text": "Wallops, for short",
+   "cells": [
+    95,
+    110,
+    125
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "Camera inits.",
+   "cells": [
+    99,
+    114,
+    129
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "36",
+   "text": "Representations of some tree branches",
+   "cells": [
+    115,
+    130,
+    145,
+    160,
+    175,
+    190,
+    205,
+    220
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "39",
+   "text": "Surrounded by",
+   "cells": [
+    123,
+    138,
+    153,
+    168
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "41",
+   "text": "\"Advance to the ___ railroad\" (Monopoly directive)",
+   "cells": [
+    131,
+    146,
+    161,
+    176,
+    191,
+    206,
+    221
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "43",
+   "text": "Mishaps",
+   "cells": [
+    139,
+    154,
+    169,
+    184,
+    199,
+    214
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "47",
+   "text": "Fezzik in \"The Princess Bride,\" notably",
+   "cells": [
+    155,
+    170,
+    185,
+    200,
+    215
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "48",
+   "text": "The Quakers of the N.C.A.A., informally",
+   "cells": [
+    159,
+    174,
+    189,
+    204
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "49",
+   "text": "Christian from France",
+   "cells": [
+    165,
+    180,
+    195,
+    210
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "50",
+   "text": "Flag",
+   "cells": [
+    173,
+    188,
+    203,
+    218
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "51",
+   "text": "Hedging words",
+   "cells": [
+    177,
+    192,
+    207,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "52",
+   "text": "One concerned with the future",
+   "cells": [
+    178,
+    193,
+    208,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "53",
+   "text": "___ turn (kayaker's maneuver)",
+   "cells": [
+    179,
+    194,
+    209,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "56",
+   "text": "Lover",
+   "cells": [
+    187,
+    202,
+    217
+   ]
+  }
+ ]
+}

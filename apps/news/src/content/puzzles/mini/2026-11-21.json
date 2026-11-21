@@ -1,0 +1,264 @@
+{
+ "publicationDate": "2026-11-21",
+ "constructors": [
+  "Sam Ezersky"
+ ],
+ "width": 7,
+ "height": 7,
+ "cells": [
+  null,
+  "P",
+  "A",
+  "D",
+  "R",
+  "E",
+  "S",
+  "P",
+  "O",
+  "D",
+  "R",
+  "A",
+  "C",
+  "E",
+  "A",
+  "S",
+  "O",
+  "F",
+  "N",
+  "O",
+  "W",
+  "L",
+  "I",
+  "R",
+  "A",
+  null,
+  null,
+  null,
+  "M",
+  "E",
+  "N",
+  "U",
+  "B",
+  "A",
+  "R",
+  null,
+  "S",
+  "E",
+  "C",
+  "U",
+  "R",
+  "E",
+  null,
+  null,
+  "D",
+  "I",
+  "S",
+  "C",
+  "S"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Sports team in San Diego",
+   "cells": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "Sporting event in \"Star Wars: Episode I\"",
+   "cells": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "Up to this very moment",
+   "cells": [
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "Turkey's currency",
+   "cells": [
+    21,
+    22,
+    23,
+    24
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Where File and Edit are listed on a computer screen",
+   "cells": [
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Feeling comfortable in one's identity",
+   "cells": [
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Shapes of checkers",
+   "cells": [
+    44,
+    45,
+    46,
+    47,
+    48
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Pocketful in \"Ring Around the Rosie\"",
+   "cells": [
+    1,
+    8,
+    15,
+    22,
+    29,
+    36
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Decorated",
+   "cells": [
+    2,
+    9,
+    16,
+    23,
+    30,
+    37,
+    44
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Physician who gave briefings during the Covid-19 pandemic",
+   "cells": [
+    3,
+    10,
+    17,
+    24,
+    31,
+    38,
+    45
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Sought a Senate seat, say",
+   "cells": [
+    4,
+    11,
+    18
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "___-warrior (certain activist)",
+   "cells": [
+    5,
+    12,
+    19
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Stitch with a needle",
+   "cells": [
+    6,
+    13,
+    20
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Kind of tree seen in Los Angeles and Miami",
+   "cells": [
+    7,
+    14,
+    21,
+    28
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Vehicle that might have a stop sign attached to it",
+   "cells": [
+    32,
+    39,
+    46
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Eyebrow's shape",
+   "cells": [
+    33,
+    40,
+    47
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Restaurant booking, for short",
+   "cells": [
+    34,
+    41,
+    48
+   ]
+  }
+ ]
+}
