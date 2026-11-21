@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-21T09:13:47.995Z",
+ "generatedAt": "2026-11-21T16:47:53.702Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "97% (72 of 74 sampled)",
+   "value": "100% (74 of 74 sampled)",
    "pass": true
   },
   {
@@ -2295,24 +2295,10 @@
  "indexed": {
   "checked": 74,
   "sampled": 90,
-  "indexed": 72,
-  "notIndexed": [
-   {
-    "url": "https://freshcalendars.com/news/quordle-hints-answers-november-1-2026-1742/",
-    "status": "not indexed",
-    "state": "Excluded by ‘noindex’ tag",
-    "age": 20
-   },
-   {
-    "url": "https://freshcalendars.com/news/waffle-answer-hints-today-november-2-2026-1746/",
-    "status": "not indexed",
-    "state": "Excluded by ‘noindex’ tag",
-    "age": 19
-   }
-  ],
+  "indexed": 74,
+  "notIndexed": [],
   "states": {
-   "Submitted and indexed": 88,
-   "Excluded by ‘noindex’ tag": 2
+   "Submitted and indexed": 90
   },
   "unknown": 0
  },
@@ -2322,7 +2308,7 @@
    "errors": 0,
    "warnings": 0,
    "lastDownloaded": "2026-11-21T07:14:25.016Z",
-   "submitted": 3463
+   "submitted": 3784
   },
   {
    "path": "https://freshcalendars.com/sitemap.xml",
