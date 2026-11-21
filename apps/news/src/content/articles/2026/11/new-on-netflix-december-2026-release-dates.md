@@ -1,6 +1,6 @@
 ---
 title: "New on Netflix December 2026: Emily in Paris Ends Dec. 24"
-description: "Emily in Paris season 6 ends on Netflix Thu., Dec. 24. Cross-checked December 2026 titles by day, NFL Christmas kickoffs in ET and PT, and a free printable."
+description: "Emily in Paris season 6 ends on Netflix Thu., Dec. 24. Cross-checked titles by day, NFL Christmas kickoffs in ET and PT, and a printable checklist."
 type: news
 publishedAt: "2026-11-21T10:54:00-05:00"
 updatedAt: "2026-11-21T10:54:00-05:00"
