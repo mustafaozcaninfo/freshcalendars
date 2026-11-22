@@ -116,7 +116,7 @@ internalLinks:
     label: "Printable school-year calendar"
   - href: "/august-calendars.html"
     label: "August 2027 printable calendar"
-related: [kindergarten-registration-2027-28-dates-age-cutoffs-by-district, charlotte-mecklenburg-schools-calendar-2026-27-breaks, hawaii-public-schools-calendar-2026-27-breaks]
+related: [kindergarten-registration-2027-28-dates-age-cutoffs-by-district, fcps-calendar-2027-28-first-day-august-23-winter-break, hawaii-public-schools-calendar-2026-27-breaks]
 assets:
   overlay: true
   kicker: "2027-28 school calendars"
