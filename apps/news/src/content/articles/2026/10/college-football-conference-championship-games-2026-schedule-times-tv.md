@@ -136,7 +136,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [celebration-bowl-2026-december-12-time-tv-meac-swac, mac-championship-game-2026-date-kickoff-time-ford-field, college-football-bowl-schedule-2026-27-dates-times-tv-cfp]
+related: [sun-belt-championship-game-2026-date-kickoff-time-espn, mac-championship-game-2026-date-kickoff-time-ford-field, college-football-bowl-schedule-2026-27-dates-times-tv-cfp]
 draft: false
 downloads:
   - group: "Conference Championship Games 2026 and CFP Dates printables"
