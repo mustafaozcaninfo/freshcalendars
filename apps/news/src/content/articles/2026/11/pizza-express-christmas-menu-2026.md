@@ -112,7 +112,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, pret-christmas-menu-2026, zizzi-christmas-menu-2026]
+related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, bella-italia-christmas-menu-2026, zizzi-christmas-menu-2026]
 downloads:
   - group: "Pizza Express Christmas Menu 2026 printables"
     title: "Pizza Express Christmas Menu 2026: £20 Deal Card"
