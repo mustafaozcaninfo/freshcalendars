@@ -614,6 +614,11 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-midi-crossword-answers-november-22-2026", "midi", "#13213a", "#5eead4", "NYT Midi · Sun., Nov. 22, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end.", "nyt-midi-november-22-a"],
   ["nyt-crossword-answers-november-22-2026", "crossword", "#172033", "#f9a8d4", "NYT Crossword · Sun., Nov. 22, 2026", "NYT Crossword answers", "A hint for every clue first, the full solved grid at the end.", "nyt-crossword-november-22-a"],
   ["nyt-letter-boxed-answer-hints-november-25-2026", "letterboxed", "#3d1f1a", "#fde68a", "Letter Boxed · Wed., Nov. 25, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-25-a"],
+  ["wordle-hint-answer-today-december-4-2026-1994", "wordle", "#121213", "#6aaa64", "Wordle #1994 · Fri., Dec. 4, 2026", "Wordle hints today", "Clues from gentle to strong, the answer only at the end.", "wordle-december-4-c"],
+  ["nyt-connections-hints-answers-december-4-2026-1272", "connections", "#1e1a3a", "#ba81c5", "Connections #1272 · Fri., Dec. 4, 2026", "Connections hints", "Two hints for every group first, answers only at the end.", "nyt-connections-december-4-a"],
+  ["nyt-strands-hints-answers-december-4-2026-1006", "strands", "#0f2f3a", "#f9a8d4", "Strands #1006 · Fri., Dec. 4, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end.", "nyt-strands-december-4-a"],
+  ["nyt-pips-hints-answers-december-4-2026", "pips", "#1e293b", "#93c5fd", "Pips · Fri., Dec. 4, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-december-4-a"],
+  ["nyt-spelling-bee-hints-answers-december-4-2026", "bee", "#1c1917", "#fdba74", "Spelling Bee · Fri., Dec. 4, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end.", "nyt-bee-december-4-a"],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
