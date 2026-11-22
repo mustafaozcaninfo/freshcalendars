@@ -80,7 +80,7 @@ internalLinks:
     label: "Printable yearly calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [nowruz-2027-date-equinox-time, winter-solstice-2026-december-21-shortest-day-sunset-times, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
+related: [nowruz-2027-date-equinox-time, winter-solstice-2026-december-21-shortest-day-sunset-times, june-2027-important-dates-holidays-days-until]
 downloads:
   - group: "Seasons 2027 printables"
     title: "Seasons 2027: Equinox and Solstice Dates and Times"
