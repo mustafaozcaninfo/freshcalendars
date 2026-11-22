@@ -111,7 +111,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [cyber-monday-2026-date-sale-start-times-by-store, giving-tuesday-2026-december-1-tax-deduction-charity-check, cruise-black-friday-2026-princess-cunard-royal-caribbean-dates]
+related: [cyber-monday-2026-date-sale-start-times-by-store, hotel-cyber-week-sales-2026-ihg-marriott-wyndham-book-by-dates, cruise-black-friday-2026-princess-cunard-royal-caribbean-dates]
 downloads:
   - group: "Travel Tuesday 2026 Deadline Sheet printables"
     title: "Travel Tuesday 2026 Deadline Sheet: Marriott, eDreams, Hopper"
