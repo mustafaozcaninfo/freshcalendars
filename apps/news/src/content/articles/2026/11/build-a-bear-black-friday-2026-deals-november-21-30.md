@@ -100,7 +100,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [michaels-black-friday-2026-free-advent-calendar-november-27, are-malls-open-thanksgiving-2026-simon-mall-black-friday-hours, fedex-ups-holiday-shipping-deadlines-2026-christmas]
+related: [michaels-black-friday-2026-free-advent-calendar-november-27, are-malls-open-thanksgiving-2026-simon-mall-black-friday-hours, stanley-black-friday-2026-up-to-50-off-ends-november-30]
 downloads:
   - group: "Build-A-Bear Sale End Dates and Christmas Order-By 2026 printables"
     title: "Build-A-Bear Sale End Dates and Christmas Order-By 2026"

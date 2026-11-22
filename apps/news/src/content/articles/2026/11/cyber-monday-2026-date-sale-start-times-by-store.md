@@ -128,7 +128,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [black-friday-2026-ad-tracker-walmart-target-best-buy, old-navy-black-friday-2026-deals-november-23-december-1, travel-tuesday-2026-december-1-hopper-travel-deal-tuesday]
+related: [black-friday-2026-ad-tracker-walmart-target-best-buy, old-navy-black-friday-2026-deals-november-23-december-1, stanley-black-friday-2026-up-to-50-off-ends-november-30]
 downloads:
   - group: "Cyber Monday 2026 Sale Windows printables"
     title: "Cyber Monday 2026 Sale Windows, Nov. 26 to Dec. 6"

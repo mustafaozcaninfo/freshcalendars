@@ -107,7 +107,7 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [verizon-black-friday-2026-deals-iphone-18-pro-galaxy-s26, samsung-black-friday-2026-dates-november-2-30, cyber-monday-2026-date-sale-start-times-by-store]
+related: [bose-black-friday-2026-quietcomfort-deals-prices, samsung-black-friday-2026-dates-november-2-30, cyber-monday-2026-date-sale-start-times-by-store]
 downloads:
   - group: "Apple Black Friday 2026 Gift Card Amounts printables"
     title: "Apple Black Friday 2026 Gift Card Amounts"
