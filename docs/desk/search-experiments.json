@@ -49,6 +49,26 @@
       "slug": "november-2026-important-dates-days-until",
       "changedAt": "2026-11-08",
       "what": "image: hero alt names Election Day Nov. 3, Diwali Nov. 8, Veterans Day Nov. 11, GTA VI Nov. 19 and Thanksgiving Nov. 26; caption no longer opens on the clock change (measure image impressions and clicks; same day as the Nov. 8 headline migration)"
+    },
+    {
+      "slug": "hanukkah-2026-dates-calendar",
+      "changedAt": "2026-11-22",
+      "what": "title: \"First Night of Hanukkah 2026: Friday, Dec. 4, Candle Times\" → \"Hanukkah 2026 Dates: Dec. 4 to 12, Candle Times for 20 Cities\"; description"
+    },
+    {
+      "slug": "metro-nashville-public-schools-calendar-2026-27-breaks",
+      "changedAt": "2026-11-22",
+      "what": "title: \"MNPS Calendar 2026-27: Spring Break Mar. 22-26, Last Day May 25\" → \"MNPS Calendar 2026-27: Winter Break Dec. 21 to Jan. 4, Last Day May 25\"; description, lede, caption"
+    },
+    {
+      "slug": "boston-public-schools-calendar-2026-27-breaks",
+      "changedAt": "2026-11-22",
+      "what": "title: \"BPS Calendar 2026-27: Veterans Day Nov. 11, Last Day June 22\" → \"BPS Calendar 2026-27: Winter Recess Dec. 24-Jan. 1, Last Day June 22\"; description, lede, summary, caption"
+    },
+    {
+      "slug": "julian-date-calendar-2027-2026-printable",
+      "changedAt": "2026-11-22",
+      "what": "title: \"Julian Calendar 2027: Printable Day-of-Year Chart, Jan. 1 Is 001\" → \"Julian Date Calendar 2027 and 2026: Printable Day-of-Year Charts\"; description"
     }
   ]
 }
