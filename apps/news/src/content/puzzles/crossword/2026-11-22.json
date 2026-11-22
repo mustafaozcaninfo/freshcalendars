@@ -1,0 +1,2181 @@
+{
+ "title": "On the Fritz",
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-22",
+ "constructors": [
+  "Curran Eggertson"
+ ],
+ "width": 21,
+ "height": 21,
+ "cells": [
+  "C",
+  "R",
+  "U",
+  "S",
+  "T",
+  null,
+  "H",
+  "E",
+  "R",
+  "D",
+  null,
+  "L",
+  "G",
+  "B",
+  "T",
+  null,
+  "C",
+  "A",
+  "R",
+  "D",
+  "S",
+  "H",
+  "E",
+  "S",
+  "H",
+  "E",
+  null,
+  "A",
+  "V",
+  "I",
+  "A",
+  null,
+  "E",
+  "U",
+  "R",
+  "O",
+  null,
+  "R",
+  "I",
+  "O",
+  "J",
+  "A",
+  "A",
+  "T",
+  "E",
+  "I",
+  "N",
+  null,
+  "M",
+  "O",
+  "A",
+  "T",
+  null,
+  "S",
+  "T",
+  "U",
+  "B",
+  null,
+  "O",
+  "R",
+  "B",
+  "I",
+  "T",
+  "P",
+  "Y",
+  "R",
+  "I",
+  "T",
+  "E",
+  "M",
+  "O",
+  "L",
+  "A",
+  "R",
+  null,
+  "S",
+  "T",
+  "A",
+  "F",
+  "F",
+  null,
+  "O",
+  "B",
+  "I",
+  "E",
+  "P",
+  "I",
+  "T",
+  "O",
+  "M",
+  "E",
+  null,
+  null,
+  "S",
+  "A",
+  "G",
+  null,
+  "A",
+  "G",
+  "I",
+  "T",
+  "A",
+  "T",
+  "O",
+  "R",
+  "L",
+  "E",
+  "D",
+  "E",
+  null,
+  "P",
+  "R",
+  "I",
+  "M",
+  "E",
+  "T",
+  "A",
+  "Y",
+  "L",
+  "O",
+  "R",
+  null,
+  "M",
+  "A",
+  "U",
+  "I",
+  null,
+  null,
+  null,
+  "S",
+  "I",
+  "T",
+  null,
+  "L",
+  "A",
+  "T",
+  "E",
+  "T",
+  "O",
+  null,
+  null,
+  null,
+  "B",
+  "A",
+  "R",
+  "T",
+  "S",
+  "C",
+  "O",
+  "G",
+  null,
+  "C",
+  "Y",
+  "R",
+  "I",
+  "L",
+  null,
+  "R",
+  "O",
+  "Y",
+  "A",
+  "L",
+  "P",
+  "E",
+  "R",
+  "M",
+  "I",
+  "T",
+  "A",
+  "G",
+  "R",
+  "E",
+  "E",
+  null,
+  "A",
+  "A",
+  "A",
+  "S",
+  null,
+  "R",
+  "O",
+  "B",
+  "E",
+  "R",
+  "T",
+  "O",
+  null,
+  null,
+  null,
+  "C",
+  "R",
+  "U",
+  "S",
+  "H",
+  "I",
+  "T",
+  null,
+  "W",
+  "E",
+  "B",
+  null,
+  null,
+  "I",
+  "G",
+  "O",
+  "R",
+  null,
+  "A",
+  "T",
+  "A",
+  "T",
+  "E",
+  "M",
+  "P",
+  "O",
+  "R",
+  "A",
+  "R",
+  "I",
+  "L",
+  "Y",
+  "O",
+  "U",
+  "T",
+  "O",
+  "F",
+  "O",
+  "R",
+  "D",
+  "E",
+  "R",
+  "I",
+  "S",
+  "P",
+  null,
+  "T",
+  "A",
+  "T",
+  "A",
+  null,
+  null,
+  "E",
+  "M",
+  "S",
+  null,
+  "M",
+  "S",
+  "T",
+  "E",
+  "A",
+  "M",
+  "S",
+  null,
+  null,
+  null,
+  "M",
+  "E",
+  "N",
+  "A",
+  "C",
+  "E",
+  "S",
+  null,
+  "G",
+  "A",
+  "G",
+  "A",
+  null,
+  "H",
+  "I",
+  "P",
+  "P",
+  "O",
+  "M",
+  "O",
+  "R",
+  "A",
+  "L",
+  "I",
+  "T",
+  "Y",
+  "R",
+  "E",
+  "P",
+  null,
+  "R",
+  "A",
+  "N",
+  "G",
+  "E",
+  null,
+  "T",
+  "O",
+  "N",
+  "A",
+  "X",
+  "O",
+  "N",
+  "S",
+  null,
+  null,
+  null,
+  "M",
+  "E",
+  "T",
+  "I",
+  "M",
+  "E",
+  null,
+  "E",
+  "D",
+  "S",
+  null,
+  null,
+  null,
+  "C",
+  "Y",
+  "T",
+  "O",
+  null,
+  "R",
+  "E",
+  "P",
+  "A",
+  "I",
+  "R",
+  "M",
+  "Y",
+  "L",
+  "O",
+  "T",
+  null,
+  "E",
+  "S",
+  "T",
+  "A",
+  "A",
+  "M",
+  "A",
+  "R",
+  "I",
+  "L",
+  "L",
+  "O",
+  null,
+  "N",
+  "A",
+  "P",
+  null,
+  null,
+  "H",
+  "A",
+  "I",
+  "R",
+  "P",
+  "I",
+  "N",
+  "R",
+  "O",
+  "T",
+  null,
+  "L",
+  "Y",
+  "M",
+  "P",
+  "H",
+  null,
+  "P",
+  "A",
+  "R",
+  "R",
+  "O",
+  "T",
+  "M",
+  "I",
+  "L",
+  "E",
+  "Y",
+  "E",
+  "R",
+  "I",
+  "V",
+  "O",
+  null,
+  "E",
+  "T",
+  "A",
+  "T",
+  null,
+  "S",
+  "O",
+  "A",
+  "K",
+  null,
+  "B",
+  "A",
+  "I",
+  "R",
+  "D",
+  "N",
+  "O",
+  "N",
+  "O",
+  "S",
+  null,
+  "R",
+  "O",
+  "K",
+  "U",
+  null,
+  "S",
+  "O",
+  "Y",
+  "A",
+  null,
+  "U",
+  "L",
+  "T",
+  "R",
+  "A",
+  "A",
+  "N",
+  "G",
+  "L",
+  "E",
+  null,
+  "S",
+  "P",
+  "A",
+  "T",
+  null,
+  "E",
+  "T",
+  "S",
+  "Y",
+  null,
+  "E",
+  "S",
+  "S",
+  "A",
+  "Y"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Mantle cover",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "It may stampede when frightened",
+   "cells": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Rainbow flag letters",
+   "cells": [
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Jack and king",
+   "cells": [
+    16,
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Alternative to a singular \"they\"",
+   "cells": [
+    21,
+    22,
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Shoe brand whose name comes from the Latin word for \"bird\"",
+   "cells": [
+    27,
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Coin since 2002",
+   "cells": [
+    32,
+    33,
+    34,
+    35
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Spanish red",
+   "cells": [
+    37,
+    38,
+    39,
+    40,
+    41
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Had some leftovers, maybe",
+   "cells": [
+    42,
+    43,
+    44,
+    45,
+    46
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Security system that might double as a sewer system",
+   "cells": [
+    48,
+    49,
+    50,
+    51
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "25",
+   "text": "Concert memento",
+   "cells": [
+    53,
+    54,
+    55,
+    56
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Earth's ellipse, e.g.",
+   "cells": [
+    58,
+    59,
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "Tooth made of fake gold",
+   "cells": [
+    63,
+    64,
+    65,
+    66,
+    67,
+    68,
+    69,
+    70,
+    71,
+    72,
+    73
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "30",
+   "text": "Word on the front and back of some black T-shirts",
+   "cells": [
+    75,
+    76,
+    77,
+    78,
+    79
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "32",
+   "text": "___-Wan Kenobi",
+   "cells": [
+    81,
+    82,
+    83
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "Embodiment",
+   "cells": [
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Hang, as jowls",
+   "cells": [
+    93,
+    94,
+    95
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "36",
+   "text": "Rabble-rouser",
+   "cells": [
+    97,
+    98,
+    99,
+    100,
+    101,
+    102,
+    103,
+    104
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "38",
+   "text": "Bad thing for a journalist to bury",
+   "cells": [
+    105,
+    106,
+    107,
+    108
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "39",
+   "text": "How Swifties may define their favorite Era",
+   "cells": [
+    110,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "43",
+   "text": "Second-largest of Hawaii's five counties",
+   "cells": [
+    122,
+    123,
+    124,
+    125
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "44",
+   "text": "Word after baby or house",
+   "cells": [
+    129,
+    130,
+    131
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "46",
+   "text": "Not punctual for",
+   "cells": [
+    133,
+    134,
+    135,
+    136,
+    137,
+    138
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "47",
+   "text": "St. ___ (mega-yacht hot spot)",
+   "cells": [
+    142,
+    143,
+    144,
+    145,
+    146
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "48",
+   "text": "Small but critical part of a machine",
+   "cells": [
+    147,
+    148,
+    149
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "51",
+   "text": "Saint for whom the Russian alphabet is named",
+   "cells": [
+    151,
+    152,
+    153,
+    154,
+    155
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "53",
+   "text": "Consent from a monarch",
+   "cells": [
+    157,
+    158,
+    159,
+    160,
+    161,
+    162,
+    163,
+    164,
+    165,
+    166,
+    167
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "57",
+   "text": "Come to an accord",
+   "cells": [
+    168,
+    169,
+    170,
+    171,
+    172
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "59",
+   "text": "Small batteries",
+   "cells": [
+    174,
+    175,
+    176,
+    177
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "61",
+   "text": "Benigni who directed \"La Vita è Bella\"",
+   "cells": [
+    179,
+    180,
+    181,
+    182,
+    183,
+    184,
+    185
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "62",
+   "text": "Do a fantastic job, informally",
+   "cells": [
+    189,
+    190,
+    191,
+    192,
+    193,
+    194,
+    195
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "64",
+   "text": "Part of WWW",
+   "cells": [
+    197,
+    198,
+    199
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "66",
+   "text": "Lab assistant of horror",
+   "cells": [
+    202,
+    203,
+    204,
+    205
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "67",
+   "text": "___ snail's pace",
+   "cells": [
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "70",
+   "text": "Sign on a malfunctioning elevator … or a literal description for the answers to the italicized clues",
+   "cells": [
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224,
+    225,
+    226,
+    227,
+    228,
+    229,
+    230
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "75",
+   "text": "Comcast or Verizon, e.g., in brief",
+   "cells": [
+    231,
+    232,
+    233
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "76",
+   "text": "\"I'm leaving!\"",
+   "cells": [
+    235,
+    236,
+    237,
+    238
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "77",
+   "text": "Common core?",
+   "cells": [
+    241,
+    242,
+    243
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "78",
+   "text": "Zoom alternative, for short",
+   "cells": [
+    245,
+    246,
+    247,
+    248,
+    249,
+    250,
+    251
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "79",
+   "text": "Agents of chaos",
+   "cells": [
+    255,
+    256,
+    257,
+    258,
+    259,
+    260,
+    261
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "82",
+   "text": "Smitten",
+   "cells": [
+    263,
+    264,
+    265,
+    266
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "84",
+   "text": "African mammal with a feral population in Colombia",
+   "cells": [
+    268,
+    269,
+    270,
+    271,
+    272
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "85",
+   "text": "Adviser on ethics, say",
+   "cells": [
+    273,
+    274,
+    275,
+    276,
+    277,
+    278,
+    279,
+    280,
+    281,
+    282,
+    283
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "89",
+   "text": "It might be measured in octaves",
+   "cells": [
+    285,
+    286,
+    287,
+    288,
+    289
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "91",
+   "text": "Slew",
+   "cells": [
+    291,
+    292,
+    293
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "92",
+   "text": "\"Wires\" of the nervous system",
+   "cells": [
+    294,
+    295,
+    296,
+    297,
+    298
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "93",
+   "text": "Break from the whole rest of the world",
+   "cells": [
+    302,
+    303,
+    304,
+    305,
+    306,
+    307
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "95",
+   "text": "Newspaper V.I.P.s",
+   "cells": [
+    309,
+    310,
+    311
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "97",
+   "text": "Prefix with -plasm or -kine",
+   "cells": [
+    315,
+    316,
+    317,
+    318
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "98",
+   "text": "Demand to a contractor after a shoddy paving job",
+   "cells": [
+    320,
+    321,
+    322,
+    323,
+    324,
+    325,
+    326,
+    327,
+    328,
+    329,
+    330
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "102",
+   "text": "\"Cómo ___ usted?\"",
+   "cells": [
+    332,
+    333,
+    334,
+    335
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "106",
+   "text": "Texas city whose name is a color in Spanish",
+   "cells": [
+    336,
+    337,
+    338,
+    339,
+    340,
+    341,
+    342,
+    343
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "108",
+   "text": "Forty winks",
+   "cells": [
+    345,
+    346,
+    347
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "109",
+   "text": "Kind of turn",
+   "cells": [
+    350,
+    351,
+    352,
+    353,
+    354,
+    355,
+    356
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "111",
+   "text": "Spoil",
+   "cells": [
+    357,
+    358,
+    359
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "112",
+   "text": "___ nodes",
+   "cells": [
+    361,
+    362,
+    363,
+    364,
+    365
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "114",
+   "text": "Sing \"Wrecking Ball\" at karaoke, say",
+   "cells": [
+    367,
+    368,
+    369,
+    370,
+    371,
+    372,
+    373,
+    374,
+    375,
+    376,
+    377
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "117",
+   "text": "Cynthia of \"Wicked\"",
+   "cells": [
+    378,
+    379,
+    380,
+    381,
+    382
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "119",
+   "text": "Coup d'___",
+   "cells": [
+    384,
+    385,
+    386,
+    387
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "121",
+   "text": "Step when preparing dried beans",
+   "cells": [
+    389,
+    390,
+    391,
+    392
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "122",
+   "text": "Bil who wrote \"The Art of the Puppet\"",
+   "cells": [
+    394,
+    395,
+    396,
+    397,
+    398
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "123",
+   "text": "Snatching, biting and screaming, for tots",
+   "cells": [
+    399,
+    400,
+    401,
+    402,
+    403
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "124",
+   "text": "Big name in streaming",
+   "cells": [
+    405,
+    406,
+    407,
+    408
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "125",
+   "text": "Protein source for many vegans",
+   "cells": [
+    410,
+    411,
+    412,
+    413
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "126",
+   "text": "Marine leader?",
+   "cells": [
+    415,
+    416,
+    417,
+    418,
+    419
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "127",
+   "text": "Spin",
+   "cells": [
+    420,
+    421,
+    422,
+    423,
+    424
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "128",
+   "text": "Acted like an angry camel",
+   "cells": [
+    426,
+    427,
+    428,
+    429
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "129",
+   "text": "Site for handicrafts",
+   "cells": [
+    431,
+    432,
+    433,
+    434
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "130",
+   "text": "Part of many a college application",
+   "cells": [
+    436,
+    437,
+    438,
+    439,
+    440
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Place to get hitched",
+   "cells": [
+    0,
+    21,
+    42,
+    63,
+    84,
+    105
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Enter again, as an incorrectly autocorrected word",
+   "cells": [
+    1,
+    22,
+    43,
+    64,
+    85,
+    106
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Password partner",
+   "cells": [
+    2,
+    23,
+    44,
+    65,
+    86,
+    107
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Some Muslims",
+   "cells": [
+    3,
+    24,
+    45,
+    66,
+    87,
+    108,
+    129
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": ":50",
+   "cells": [
+    4,
+    25,
+    46,
+    67,
+    88
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "It rings a bell!",
+   "cells": [
+    6,
+    27,
+    48,
+    69,
+    90,
+    111
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Dressing ingredient, per Rachael Ray",
+   "cells": [
+    7,
+    28,
+    49,
+    70
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Omani currency ",
+   "cells": [
+    8,
+    29,
+    50,
+    71
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "It might be organized in a table",
+   "cells": [
+    9,
+    30,
+    51,
+    72,
+    93,
+    114,
+    135
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Guitar innovator Paul",
+   "cells": [
+    11,
+    32,
+    53
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Courage",
+   "cells": [
+    12,
+    33,
+    54,
+    75
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Merciless",
+   "cells": [
+    13,
+    34,
+    55,
+    76,
+    97,
+    118
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Trinidad's sister island",
+   "cells": [
+    14,
+    35,
+    56,
+    77,
+    98,
+    119
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "14",
+   "text": "\"Tomb Raider\" archaeologist Lara",
+   "cells": [
+    16,
+    37,
+    58,
+    79,
+    100
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "Troposphere contents",
+   "cells": [
+    17,
+    38,
+    59
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "16",
+   "text": "Factory innovation ",
+   "cells": [
+    18,
+    39,
+    60,
+    81,
+    102,
+    123,
+    144,
+    165
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "African country or its capital",
+   "cells": [
+    19,
+    40,
+    61,
+    82,
+    103,
+    124,
+    145,
+    166
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "Samantha Bee or Stephen Colbert",
+   "cells": [
+    20,
+    41,
+    62,
+    83,
+    104,
+    125,
+    146,
+    167
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "Like the noisiest vessel, idiomatically",
+   "cells": [
+    68,
+    89,
+    110,
+    131,
+    152
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "29",
+   "text": "Source of a movie's stars?",
+   "cells": [
+    73,
+    94,
+    115,
+    136,
+    157
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "31",
+   "text": "Tannenbaum",
+   "cells": [
+    78,
+    99,
+    120
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "35",
+   "text": "University of Florida athlete",
+   "cells": [
+    95,
+    116,
+    137,
+    158,
+    179
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "37",
+   "text": "Italian liqueur whose name contains only the letters of ROMA",
+   "cells": [
+    101,
+    122,
+    143,
+    164,
+    185
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "40",
+   "text": "Pelvic bones",
+   "cells": [
+    112,
+    133,
+    154,
+    175
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "41",
+   "text": "Africa's Lake ___, which contains more fish species than the combined lakes of Europe",
+   "cells": [
+    113,
+    134,
+    155,
+    176,
+    197,
+    218
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "42",
+   "text": "Oscillate, as body weight",
+   "cells": [
+    117,
+    138,
+    159,
+    180
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "45",
+   "text": "Providers of cold comfort?",
+   "cells": [
+    130,
+    151,
+    172,
+    193,
+    214,
+    235,
+    256,
+    277,
+    298
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "47",
+   "text": "Promised to be wed",
+   "cells": [
+    142,
+    163,
+    184,
+    205,
+    226,
+    247,
+    268,
+    289,
+    310
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "48",
+   "text": "Spiny succulents",
+   "cells": [
+    147,
+    168,
+    189,
+    210,
+    231
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "49",
+   "text": "Shrek and Fiona, for two",
+   "cells": [
+    148,
+    169,
+    190,
+    211,
+    232
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "50",
+   "text": "Curmudgeon",
+   "cells": [
+    149,
+    170,
+    191,
+    212,
+    233
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "52",
+   "text": "Sound effect on a drum",
+   "cells": [
+    153,
+    174,
+    195,
+    216,
+    237,
+    258,
+    279
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "54",
+   "text": "Slightly",
+   "cells": [
+    160,
+    181,
+    202,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "55",
+   "text": "Minifigure with a yellow head, typically",
+   "cells": [
+    161,
+    182,
+    203,
+    224,
+    245,
+    266,
+    287
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "56",
+   "text": "Some nonmedical docs",
+   "cells": [
+    162,
+    183,
+    204,
+    225,
+    246
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "58",
+   "text": "El's gift on \"Stranger Things\"",
+   "cells": [
+    171,
+    192,
+    213
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "60",
+   "text": "Seasoning that's a counterpart of poivre",
+   "cells": [
+    177,
+    198,
+    219
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "63",
+   "text": "Many a Zoroastrian",
+   "cells": [
+    194,
+    215,
+    236,
+    257,
+    278
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "65",
+   "text": "\"I'm leaving!\"",
+   "cells": [
+    199,
+    220,
+    241
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "67",
+   "text": "Conform, as to one's environment",
+   "cells": [
+    207,
+    228,
+    249,
+    270,
+    291
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "68",
+   "text": "Pace",
+   "cells": [
+    208,
+    229,
+    250,
+    271,
+    292
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "69",
+   "text": "Crime that might lead to an insurance investigation",
+   "cells": [
+    209,
+    230,
+    251,
+    272,
+    293
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "71",
+   "text": "Risqué",
+   "cells": [
+    217,
+    238,
+    259,
+    280
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "72",
+   "text": "[Horrors!]",
+   "cells": [
+    221,
+    242,
+    263
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "73",
+   "text": "Words on an Uncle Sam poster",
+   "cells": [
+    222,
+    243,
+    264,
+    285,
+    306,
+    327
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "74",
+   "text": "Afonso I ou João IV",
+   "cells": [
+    227,
+    248,
+    269
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "79",
+   "text": "Wayne ___ (home in DC Comics)",
+   "cells": [
+    255,
+    276,
+    297,
+    318,
+    339
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "80",
+   "text": "Humor writer Bombeck",
+   "cells": [
+    260,
+    281,
+    302,
+    323
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "81",
+   "text": "Welcome to a foyer",
+   "cells": [
+    261,
+    282,
+    303,
+    324,
+    345
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "83",
+   "text": "Scottish highlander",
+   "cells": [
+    265,
+    286,
+    307,
+    328
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "85",
+   "text": "1990s hit with a synchronized dance routine",
+   "cells": [
+    273,
+    294,
+    315,
+    336,
+    357,
+    378,
+    399,
+    420
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "86",
+   "text": "\"Eyes Wide Shut\" or \"Sounds of Silence\"",
+   "cells": [
+    274,
+    295,
+    316,
+    337,
+    358,
+    379,
+    400,
+    421
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "87",
+   "text": "Taking turns",
+   "cells": [
+    275,
+    296,
+    317,
+    338,
+    359,
+    380,
+    401,
+    422
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "88",
+   "text": "Location of most kitchen sink clogs",
+   "cells": [
+    283,
+    304,
+    325,
+    346,
+    367
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "90",
+   "text": "Insinuate",
+   "cells": [
+    288,
+    309,
+    330,
+    351,
+    372
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "94",
+   "text": "Problem in negotiations",
+   "cells": [
+    305,
+    326,
+    347,
+    368,
+    389,
+    410,
+    431
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "96",
+   "text": "Stories in installments",
+   "cells": [
+    311,
+    332,
+    353,
+    374,
+    395,
+    416,
+    437
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "98",
+   "text": "\"r u srs?\"",
+   "cells": [
+    320,
+    341,
+    362
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "99",
+   "text": "Glue on many a collage",
+   "cells": [
+    321,
+    342,
+    363,
+    384,
+    405,
+    426
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "100",
+   "text": "Small camper van with expandable roof",
+   "cells": [
+    322,
+    343,
+    364,
+    385,
+    406,
+    427
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "101",
+   "text": "Hesitant acceptance",
+   "cells": [
+    329,
+    350,
+    371,
+    392,
+    413,
+    434
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "103",
+   "text": "Divides ",
+   "cells": [
+    333,
+    354,
+    375,
+    396,
+    417,
+    438
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "104",
+   "text": "___ del Fuego",
+   "cells": [
+    334,
+    355,
+    376,
+    397,
+    418,
+    439
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "105",
+   "text": "Really soon now",
+   "cells": [
+    335,
+    356,
+    377,
+    398,
+    419,
+    440
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "107",
+   "text": "Acceptance of defeat",
+   "cells": [
+    340,
+    361,
+    382,
+    403,
+    424
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "110",
+   "text": "Saturate (with)",
+   "cells": [
+    352,
+    373,
+    394,
+    415,
+    436
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "113",
+   "text": "Native New Zealander's dance",
+   "cells": [
+    365,
+    386,
+    407,
+    428
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "115",
+   "text": "Word before cellar or canal",
+   "cells": [
+    369,
+    390,
+    411,
+    432
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "116",
+   "text": "Relatives of skates",
+   "cells": [
+    370,
+    391,
+    412,
+    433
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "118",
+   "text": "Calculation determined by l × w × h",
+   "cells": [
+    381,
+    402,
+    423
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "120",
+   "text": "His mask is the crown jewel of the Grand Egyptian Museum, informally",
+   "cells": [
+    387,
+    408,
+    429
+   ]
+  }
+ ]
+}
