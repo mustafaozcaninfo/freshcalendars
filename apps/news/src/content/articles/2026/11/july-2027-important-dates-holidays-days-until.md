@@ -55,7 +55,6 @@ assets:
         - { label: "Wimbledon 2027 dates", why: "Not yet confirmed on wimbledon.com as of Nov. 22, 2026" }
         - { label: "Tour de France 2027 dates", why: "Not yet confirmed on letour.fr as of Nov. 22, 2026" }
         - { label: "Amazon Prime Day 2027", why: "Not yet announced as of Nov. 22, 2026" }
-        - { label: "Captive Nations Week 2027", why: "No 2027 proclamation as of Nov. 22, 2026" }
     note: "Source: OPM; U.S. Naval Observatory (Moon phases and aphelion, converted from UT); MLB; Federation Internationale de Football Association (FIFA); The Open; Formula 1; Comic-Con International; GOV.UK; Canada's Holidays Act."
     description: "One-page July 2027 calendar marking Independence Day observed on July 5, the four Moon phases with times, aphelion, the MLB All-Star Game and Comic-Con."
     alt: "July 2027 calendar with Independence Day observed, Moon phases, aphelion, MLB All-Star Game and Comic-Con marked"
