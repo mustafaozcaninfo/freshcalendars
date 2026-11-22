@@ -5,6 +5,7 @@ type: explainer
 publishedAt: "2026-11-09T12:50:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: advent-calendars
 keywords: ["national days this week", "holidays this week november 2026", "observances thanksgiving week 2026", "what day is it november 23 2026"]
 dateline: "New York"
 assets:

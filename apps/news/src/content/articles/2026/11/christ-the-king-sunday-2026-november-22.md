@@ -5,6 +5,7 @@ type: explainer
 publishedAt: "2026-11-19T07:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: religious-advent
 keywords: ["christ the king sunday 2026", "feast of christ the king 2026", "when is christ the king sunday", "christ the king 2026 readings"]
 dateline: "Washington"
 assets:

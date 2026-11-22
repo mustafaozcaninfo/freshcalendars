@@ -6,6 +6,7 @@ publishedAt: "2026-10-24T00:50:00-04:00"
 updatedAt: "2026-11-13T16:26:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: advent-calendars
 keywords: ["christmas 2026 calendar printable", "how many days until christmas 2026", "what day is christmas 2026", "christmas 2026 calendar"]
 dateline: "New York"
 assets:

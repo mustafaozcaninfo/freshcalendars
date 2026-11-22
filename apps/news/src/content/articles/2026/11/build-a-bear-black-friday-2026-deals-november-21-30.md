@@ -5,6 +5,7 @@ type: news
 publishedAt: "2026-11-21T06:00:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
+shop: kids-advent
 keywords: ["build a bear black friday 2026", "build a bear black friday deals", "build a bear advent calendar sale", "build a bear christmas shipping deadline 2026"]
 assets:
   overlay: true

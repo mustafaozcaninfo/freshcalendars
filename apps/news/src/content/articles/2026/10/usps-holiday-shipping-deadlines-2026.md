@@ -6,6 +6,7 @@ publishedAt: "2026-10-19T10:55:00-04:00"
 updatedAt: "2026-11-14T15:43:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
+shop: advent-calendars
 keywords: ["holiday shipping deadlines 2026 usps", "USPS holiday shipping deadlines 2026", "last day to ship for Christmas 2026", "USPS Christmas deadline 2026", "Priority Mail holiday deadline"]
 dateline: "New York"
 assets:
