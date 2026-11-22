@@ -171,7 +171,7 @@ A 3-course New Year's Eve menu can be booked "at select Central London restauran
 
 Zizzi sells physical gift cards and instant eGift cards, which it says you can send "whenever you like". Two earlier offers have ended: early booking by 26 October, and a free magnum of Prosecco for the first 100 qualifying bookings of four or more. Retail Times reported that Zizzi held a Festive Bombe Day on 17 November, with thirty bombes per restaurant while stocks lasted, and on 17 September that its Christmas advert was its first TV campaign since November 2021.
 
-## How does it compare with other UK Christmas menus?
+## How Zizzi's £29.95 set menu compares with other UK chains
 
 The [Pizza Express Christmas menu story](/news/pizza-express-christmas-menu-2026/) covers a £20 starter-and-main deal to 4 January, and the [Wagamama Christmas menu story](/news/wagamama-christmas-menu-2026/) covers another chain. Start dates for Greggs, Costa, Starbucks and Kentucky Fried Chicken (KFC) are in our [guide to UK Christmas menus](/news/uk-christmas-menus-2026-greggs-costa-starbucks-kfc/).
 
