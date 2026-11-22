@@ -6,6 +6,7 @@ publishedAt: "2026-11-03T06:00:00-05:00"
 updatedAt: "2026-11-14T15:31:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: kids-advent
 dateline: "Washington"
 keywords: ["st nicholas day 2026", "when is st nicholas day 2026", "st nicholas eve 2026", "sinterklaas 2026"]
 hero:

@@ -5,6 +5,7 @@ type: explainer
 publishedAt: "2026-11-04T14:59:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
+shop: religious-advent
 keywords: ["liturgical calendar 2027", "year b readings 2027", "catholic calendar 2027", "when does ordinary time start 2027"]
 dateline: "Washington"
 hero:

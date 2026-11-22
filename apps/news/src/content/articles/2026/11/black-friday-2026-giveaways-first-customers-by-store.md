@@ -6,6 +6,7 @@ publishedAt: "2026-11-18T14:40:00-05:00"
 updatedAt: "2026-11-18T14:40:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
+shop: advent-deals
 keywords: ["black friday 2026 giveaways", "black friday freebies 2026", "first 100 customers black friday 2026", "target black friday gift card giveaway"]
 assets:
   overlay: true

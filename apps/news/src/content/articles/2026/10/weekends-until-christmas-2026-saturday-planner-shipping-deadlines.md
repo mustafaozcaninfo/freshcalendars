@@ -6,6 +6,7 @@ publishedAt: "2026-10-31T17:55:00-04:00"
 updatedAt: "2026-11-14T15:32:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
+shop: advent-calendars
 keywords: ["how many weekends until christmas 2026", "saturdays until christmas 2026", "weekends left before christmas", "christmas shopping weekends 2026"]
 dateline: "New York"
 assets:

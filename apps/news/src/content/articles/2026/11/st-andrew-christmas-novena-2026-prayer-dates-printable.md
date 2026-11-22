@@ -6,6 +6,7 @@ publishedAt: "2026-11-20T12:46:00-05:00"
 updatedAt: "2026-11-20T12:46:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: religious-advent
 dateline: "Washington"
 keywords: ["st andrew christmas novena 2026", "st andrew novena 2026", "christmas novena prayer 15 times a day", "when does the st andrew novena start"]
 hero:

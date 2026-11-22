@@ -24,5 +24,8 @@ for p in L:
         if s == 429: time.sleep(20); continue
         if s == 200: done[p['id']] = j['data']
         break
-    json.dump(list(done.values()), open(out, 'w')); time.sleep(1.05)
+    # saving 40 MB after every product made a full run take hours; save every 25 and once at the end
+    if len(done) % 25 == 0: json.dump(list(done.values()), open(out, 'w'))
+    time.sleep(1.05)
+json.dump(list(done.values()), open(out, 'w'))
 print('fetched', len(done), 'of', sum(1 for p in L if p['enabled']), flush=True)

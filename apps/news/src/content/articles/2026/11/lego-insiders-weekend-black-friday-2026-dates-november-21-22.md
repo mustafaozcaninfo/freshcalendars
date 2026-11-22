@@ -6,6 +6,7 @@ publishedAt: "2026-11-16T06:00:00-05:00"
 updatedAt: "2026-11-16T06:00:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
+shop: lego-advent
 keywords: ["lego black friday 2026", "lego insiders weekend 2026", "lego cyber monday 2026", "when is lego insiders weekend"]
 assets:
   overlay: true

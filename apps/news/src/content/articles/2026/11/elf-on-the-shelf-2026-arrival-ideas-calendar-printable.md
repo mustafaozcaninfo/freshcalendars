@@ -6,6 +6,7 @@ publishedAt: "2026-11-05T06:45:00-05:00"
 updatedAt: "2026-11-14T01:18:00-05:00"
 authors: [christina-gerland]
 category: holidays
+shop: kids-advent
 keywords: ["elf on the shelf ideas 2026", "when does elf on the shelf arrive 2026", "elf on the shelf calendar printable", "elf on the shelf countdown 2026"]
 dateline: "New York"
 assets:

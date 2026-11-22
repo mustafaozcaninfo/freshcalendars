@@ -24,8 +24,8 @@
   },
   "page_id": 22,
   "count": 12,
-  "live_count": 12,
-  "updated": "2026-11-21"
+  "live_count": 16,
+  "updated": "2026-11-22"
  },
  "2027-2031-five-year-planners": {
   "prose": {
@@ -53,7 +53,7 @@
   "page_id": 23,
   "count": 11,
   "live_count": 11,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "2027-appointment-books-15-minute": {
   "prose": {
@@ -81,7 +81,7 @@
   "page_id": 24,
   "count": 18,
   "live_count": 18,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "2027-appointment-books-30-minute": {
   "prose": {
@@ -109,7 +109,7 @@
   "page_id": 25,
   "count": 18,
   "live_count": 18,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "2027-daily-planners-one-page-per-day": {
   "prose": {
@@ -137,7 +137,7 @@
   "page_id": 26,
   "count": 18,
   "live_count": 18,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "2027-desk-calendars-with-stand": {
   "prose": {
@@ -165,7 +165,7 @@
   "page_id": 27,
   "count": 19,
   "live_count": 19,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "2027-hardcover-planners": {
   "prose": {
@@ -192,8 +192,8 @@
   },
   "page_id": 28,
   "count": 32,
-  "live_count": 32,
-  "updated": "2026-11-21"
+  "live_count": 34,
+  "updated": "2026-11-22"
  },
  "2027-planners-100gsm-paper": {
   "prose": {
@@ -220,8 +220,8 @@
   },
   "page_id": 29,
   "count": 28,
-  "live_count": 28,
-  "updated": "2026-11-21"
+  "live_count": 30,
+  "updated": "2026-11-22"
  },
  "2027-planners-8-5-x-11": {
   "prose": {
@@ -248,8 +248,8 @@
   },
   "page_id": 30,
   "count": 46,
-  "live_count": 46,
-  "updated": "2026-11-21"
+  "live_count": 47,
+  "updated": "2026-11-22"
  },
  "2027-planners-a5": {
   "prose": {
@@ -277,7 +277,7 @@
   "page_id": 31,
   "count": 36,
   "live_count": 36,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "2027-planners-pen-loop-and-pocket": {
   "prose": {
@@ -304,8 +304,8 @@
   },
   "page_id": 32,
   "count": 15,
-  "live_count": 15,
-  "updated": "2026-11-21"
+  "live_count": 16,
+  "updated": "2026-11-22"
  },
  "2027-pocket-planners": {
   "prose": {
@@ -332,8 +332,8 @@
   },
   "page_id": 33,
   "count": 19,
-  "live_count": 19,
-  "updated": "2026-11-21"
+  "live_count": 31,
+  "updated": "2026-11-22"
  },
  "2027-wall-calendars-with-holidays": {
   "prose": {
@@ -361,7 +361,7 @@
   "page_id": 34,
   "count": 52,
   "live_count": 52,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "a5-dotted-journals-numbered-pages": {
   "prose": {
@@ -389,7 +389,7 @@
   "page_id": 35,
   "count": 28,
   "live_count": 28,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "a5-lined-hardcover-journals": {
   "prose": {
@@ -417,7 +417,7 @@
   "page_id": 36,
   "count": 14,
   "live_count": 13,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "a6-pocket-notebooks": {
   "prose": {
@@ -444,8 +444,8 @@
   },
   "page_id": 37,
   "count": 49,
-  "live_count": 49,
-  "updated": "2026-11-21"
+  "live_count": 48,
+  "updated": "2026-11-22"
  },
  "academic-planners-2026-2027-8-5-x-11": {
   "prose": {
@@ -473,7 +473,7 @@
   "page_id": 38,
   "count": 17,
   "live_count": 17,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "academic-planners-2026-2027-a5": {
   "prose": {
@@ -500,8 +500,8 @@
   },
   "page_id": 39,
   "count": 10,
-  "live_count": 10,
-  "updated": "2026-11-21"
+  "live_count": 11,
+  "updated": "2026-11-22"
  },
  "advent-books-for-couples-and-families": {
   "prose": {
@@ -528,8 +528,8 @@
   },
   "page_id": 58,
   "count": 12,
-  "live_count": 11,
-  "updated": "2026-11-21"
+  "live_count": 13,
+  "updated": "2026-11-22"
  },
  "b5-notebooks": {
   "prose": {
@@ -557,7 +557,7 @@
   "page_id": 40,
   "count": 20,
   "live_count": 20,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "black-friday-journal-deals": {
   "prose": {
@@ -583,9 +583,9 @@
    "printable": "Trying a new journal layout? Sketch it first on a free <a href=\"https://freshcalendars.com/monthly-calendars/\">monthly calendar</a> before you commit a page."
   },
   "page_id": 21,
-  "count": 231,
-  "live_count": 231,
-  "updated": "2026-11-21"
+  "count": 256,
+  "live_count": 256,
+  "updated": "2026-11-22"
  },
  "black-friday-planner-deals": {
   "prose": {
@@ -611,9 +611,9 @@
    "printable": "While you wait for a planner to arrive, print a free <a href=\"https://freshcalendars.com/printable-yearly-calendar.html\">yearly calendar</a> and mark the dates that matter first."
   },
   "page_id": 19,
-  "count": 187,
-  "live_count": 187,
-  "updated": "2026-11-21"
+  "count": 230,
+  "live_count": 230,
+  "updated": "2026-11-22"
  },
  "budget-planners-with-pockets": {
   "prose": {
@@ -641,7 +641,7 @@
   "page_id": 41,
   "count": 23,
   "live_count": 23,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "christmas-cards-24-pack": {
   "prose": {
@@ -669,7 +669,7 @@
   "page_id": 55,
   "count": 12,
   "live_count": 12,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "christmas-envelope-seals-gold-foil": {
   "prose": {
@@ -697,13 +697,13 @@
   "page_id": 59,
   "count": 16,
   "live_count": 16,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "diy-journal-advent-calendars": {
   "prose": {
-   "subtitle": "16 journal and stationery advent calendars, compared by price and what each opening holds.",
-   "meta_title": "DIY Journal Advent Calendars: 16 Kits Compared",
-   "meta_description": "16 journal and stationery advent calendars compared by price and contents, from sticker sets to a 131-piece kit. Checked Nov. 17 to Nov. 20, 2026.",
+   "subtitle": "17 journal and stationery advent calendars, compared by price and what each opening holds.",
+   "meta_title": "DIY Journal Advent Calendars: 17 Kits Compared",
+   "meta_description": "17 journal and stationery advent calendars compared by price and contents, from sticker sets to a 131-piece kit. Checked Nov. 17 to Nov. 20, 2026.",
    "intro": "Sixteen advent calendars on this page fill their daily openings with journal or stationery supplies. The lowest-priced is the DIY Journal Kit, Girls 6-14 and the highest is the Scrap't Advent Calendar 2026. Only one listing states a piece count, the Unicorn 131-Pc Journal Kit at 131 pieces; the rest, including the 1000+ Piece Journal Kit and Sticker Advent, 24 Sheets, do not state a count in their facts. Eight of the sixteen are priced below their list price, and one listing states a leather cover. None carries a Fresh Calendars Score yet.",
    "qa": [
     {
@@ -723,9 +723,9 @@
    "printable": "Count down to Christmas on a free <a href=\"https://freshcalendars.com/december-calendars.html\">December calendar</a>."
   },
   "page_id": 57,
-  "count": 16,
+  "count": 17,
   "live_count": 17,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "dotted-journals-120gsm": {
   "prose": {
@@ -753,7 +753,7 @@
   "page_id": 42,
   "count": 22,
   "live_count": 22,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "gold-foil-christmas-cards": {
   "prose": {
@@ -781,35 +781,35 @@
   "page_id": 54,
   "count": 10,
   "live_count": 10,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "journals-in-a-gift-box": {
   "prose": {
-   "subtitle": "19 journals that ship in a gift box, compared by size, page count, paper weight and price.",
-   "meta_title": "Journals That Come in a Gift Box: 19 Books",
-   "meta_description": "Compare 19 journals that ship in a gift box, by size, pages and paper. A5 leads with 12; stated paper runs 70 to 160 gsm. Checked Nov. 16 to Nov. 20, 2026.",
-   "intro": "Nineteen journals in the shop state a gift box in the listing, so each arrives boxed and ready to give. A5 is the dominant size, on 12 of them, with one A6, one B6, and five that do not state a size. Every cover is hardcover or leather, nine hard and ten leather. The lowest-priced is the A6 3-Pack Notebooks with Pens and the highest is the Rustic Ridge Legacy 9 x 12. Six of the 19 sit below their list price.",
+   "subtitle": "18 journals that ship in a gift box, compared by size, page count, paper weight and price.",
+   "meta_title": "Journals That Come in a Gift Box: 18 Books",
+   "meta_description": "Compare 18 journals that ship in a gift box, by size, pages and paper. A5 leads with 12; stated paper runs 70 to 160 gsm. Checked Nov. 17 to Nov. 22, 2026.",
+   "intro": "Eighteen journals in the shop state a gift box in the listing, so each arrives boxed and ready to give. A5 is the dominant size, on 12 of them, with one A6 and five that do not state a standard size. Every cover is hardcover or leather, nine hard and nine leather. The lowest-priced is the A6 3-Pack Notebooks with Pens and the highest is the Rustic Ridge Legacy 9 x 12. Eight of the 18 sit below their list price.",
    "qa": [
     {
      "q": "How heavy is the paper in boxed journals?",
-     "a": "Fourteen of the 19 state a weight, from 70 to 160 gsm, a wide spread for one category. The BUKE A5 Dotted, Bamboo Paper, both SeQeS A5 Dotted journals and both Vivid Scribbles journals list 160 gsm, while the Moonster A5 Leather Journal lists 70 gsm. The other five give no weight at all."
+     "a": "Thirteen of the 18 state a weight, from 70 to 160 gsm, a wide spread for one category. The BUKE A5 Dotted, Bamboo Paper, both SeQeS A5 Dotted journals and both Vivid Scribbles journals list 160 gsm, while the Moonster A5 Leather Journal lists 70 gsm. The other five give no weight at all."
     },
     {
      "q": "Which boxed journal is the longest?",
-     "a": "Fifteen of the 19 state a page count. The Rustic Ridge Legacy 9 x 12 lists the most at 380 pages, while the CAGIE A5 Journal Set, Black has the lowest cost per 100 pages in the group. Mid-range books like the Moonster A5 Leather Journal list 320 pages. Only four listings give no page total."
+     "a": "Fourteen of the 18 state a page count. The Rustic Ridge Legacy 9 x 12 lists the most at 380 pages, while the CAGIE A5 Journal Set, Black has the lowest cost per 100 pages in the group. Mid-range books like the Moonster A5 Leather Journal list 320 pages. Only four listings give no page total."
     },
     {
      "q": "What comes with a journal gift set?",
-     "a": "Most are dotted journals, on seven of the 19, with three lined and one blank; eight do not state a ruling. Several add extras such as a pen loop, elastic band or sticker sheet, like the Y&I A5 Dotted Journal Kit, and a few include a pen. The box itself makes each one ready to wrap."
+     "a": "Most are dotted journals, on seven of the 18, with three lined and one blank; seven do not state a ruling. Several add extras such as a pen loop, elastic band or sticker sheet, like the Y&I A5 Dotted Journal Kit, and a few include a pen. The box itself makes each one ready to wrap."
     }
    ],
    "cards_title": "Journals that come in a gift box",
    "printable": "Giving one and keeping a plan? Print a free <a href=\"https://freshcalendars.com/monthly-calendars/\">monthly calendar</a> to map your own month while you wrap."
   },
   "page_id": 43,
-  "count": 19,
-  "live_count": 19,
-  "updated": "2026-11-21"
+  "count": 18,
+  "live_count": 18,
+  "updated": "2026-11-22"
  },
  "lined-journals-100gsm-paper": {
   "prose": {
@@ -837,7 +837,7 @@
   "page_id": 44,
   "count": 44,
   "live_count": 44,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "lined-leather-journals": {
   "prose": {
@@ -865,7 +865,7 @@
   "page_id": 45,
   "count": 45,
   "live_count": 45,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "magnetic-fridge-calendars": {
   "prose": {
@@ -893,7 +893,7 @@
   "page_id": 46,
   "count": 28,
   "live_count": 28,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "magnetic-meal-planners": {
   "prose": {
@@ -921,7 +921,7 @@
   "page_id": 47,
   "count": 31,
   "live_count": 31,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "notebooks-160gsm-paper": {
   "prose": {
@@ -949,7 +949,7 @@
   "page_id": 48,
   "count": 19,
   "live_count": 19,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "teacher-planners-2026-2027": {
   "prose": {
@@ -977,7 +977,7 @@
   "page_id": 49,
   "count": 14,
   "live_count": 14,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "thank-you-cards-bulk-packs": {
   "prose": {
@@ -1005,7 +1005,7 @@
   "page_id": 56,
   "count": 12,
   "live_count": 12,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "undated-daily-planners-with-schedule": {
   "prose": {
@@ -1033,7 +1033,7 @@
   "page_id": 50,
   "count": 34,
   "live_count": 34,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "undated-planners-120gsm-paper": {
   "prose": {
@@ -1061,7 +1061,7 @@
   "page_id": 51,
   "count": 31,
   "live_count": 31,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "undated-planners-with-stickers": {
   "prose": {
@@ -1089,7 +1089,7 @@
   "page_id": 52,
   "count": 47,
   "live_count": 47,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "undated-weekly-planners-a5": {
   "prose": {
@@ -1117,7 +1117,7 @@
   "page_id": 53,
   "count": 26,
   "live_count": 26,
-  "updated": "2026-11-21"
+  "updated": "2026-11-22"
  },
  "black-friday-advent-calendar-deals": {
   "prose": {
@@ -1143,9 +1143,9 @@
    "printable": "To count the days on paper too, print a free <a href=\"https://freshcalendars.com/december-calendars.html\">December calendar</a>. For every calendar compared by cost per day, see the <a href=\"/article-category/advent-calendar-guides\">advent calendar guides</a>."
   },
   "page_id": 62,
-  "count": 185,
-  "live_count": 185,
-  "updated": "2026-11-21"
+  "count": 297,
+  "live_count": 297,
+  "updated": "2026-11-22"
  },
  "advent-calendars-under-25": {
   "prose": {
@@ -1171,9 +1171,9 @@
    "printable": "Print a free <a href=\"https://freshcalendars.com/december-calendars.html\">December calendar</a> to mark December 1 to 24, and see the <a href=\"/article-category/advent-calendar-guides\">advent calendar guides</a> for cost per day by kind."
   },
   "page_id": 60,
-  "count": 422,
-  "live_count": 422,
-  "updated": "2026-11-21"
+  "count": 511,
+  "live_count": 511,
+  "updated": "2026-11-22"
  },
  "advent-calendars-25-to-50": {
   "prose": {
@@ -1199,9 +1199,9 @@
    "printable": "Print a free <a href=\"https://freshcalendars.com/december-calendars.html\">December calendar</a> to mark December 1 to 24, and see the <a href=\"/article-category/advent-calendar-guides\">advent calendar guides</a> for cost per day by kind."
   },
   "page_id": 61,
-  "count": 361,
-  "live_count": 361,
-  "updated": "2026-11-21"
+  "count": 403,
+  "live_count": 403,
+  "updated": "2026-11-22"
  },
  "_hub": {
   "page_id": 20
