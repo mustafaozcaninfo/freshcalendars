@@ -1,6 +1,6 @@
 ---
 title: "July 2027 Important Dates: July 4 Holiday Observed Monday, July 5"
-description: "July 2027 has one federal holiday: Independence Day, observed Mon., July 5. Days until each date, Moon phase times in EDT and a printable July 2027 calendar."
+description: "July 2027 has one federal holiday: Independence Day, observed Mon., July 5. Days until each date, Moon phase times in EDT and a printable calendar."
 type: explainer
 publishedAt: "2026-11-22T06:20:00-05:00"
 authors: [jessica-hartwell]

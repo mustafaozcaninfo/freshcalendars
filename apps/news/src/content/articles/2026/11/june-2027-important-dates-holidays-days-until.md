@@ -164,7 +164,7 @@ To count from another day, add the days left in the current month to the days in
 
 ## Juneteenth 2027: observed on Friday, June 18
 
-OPM's federal holiday list shows "Friday, June 18" for Juneteenth National Independence Day, and its footnote says that if a holiday falls on a Saturday, the preceding Friday is the observed day for most federal employees. Juneteenth falls on Saturday, June 19, 2027. The long weekend therefore runs from Friday, June 18 to Sunday, June 20, which is also Father's Day. It is the only federal holiday in June. The [May 2027 important dates](/news/may-2027-important-dates-holidays-days-until/) story covers the month before and [July 2027 important dates](/news/july-2027-important-dates-holidays-days-until/) the month after.
+OPM's federal holiday list shows "Friday, June 18" for Juneteenth National Independence Day, and its footnote says that if a holiday falls on a Saturday, the preceding Friday is the observed day for most federal employees. Juneteenth falls on Saturday, June 19, 2027. The long weekend therefore runs from Friday, June 18 to Sunday, June 20, which is also Father's Day. It is the only federal holiday in June. The [May 2027 important dates](/news/may-2027-important-dates-holidays-days-until/) story covers the month before.
 
 GOV.UK lists no bank holiday in England, Wales, Scotland or Northern Ireland in June 2027; the Spring bank holiday is Monday, 31 May.
 

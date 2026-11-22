@@ -64,7 +64,7 @@ faq:
   - q: "Can the Week 11 schedule still change?"
     a: "Sunday games can. The NFL's flexible scheduling procedures say Sunday night games in Weeks 5 to 13 are decided and announced no later than 12 days ahead, which is Tuesday, Nov. 10 for Nov. 22. The Thursday and Monday games of Week 11 are not eligible for flexing."
   - q: "What channel is Monday Night Football in Week 11?"
-    a: "Bengals at Commanders is on Mon., Nov. 23 at 8:15 p.m. ET on ESPN, per NFL.com. Kickoff in every U.S. zone is in our [Bengals at Commanders Monday Night Football guide](/news/monday-night-football-tonight-bengals-commanders-mnf-november-23-2026/)."
+    a: "Bengals at Commanders is on Mon., Nov. 23 at 8:15 p.m. ET on ESPN, per NFL.com."
 downloads:
   - group: "NFL Week 11 Pick'em Sheet 2026 printables"
     title: "NFL Week 11 Pick'em Sheet 2026"
