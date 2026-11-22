@@ -84,7 +84,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [new-years-eve-2026-moon-phase-moonrise-time-midnight-new-york, geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times, quadrantid-meteor-shower-2027-peak-wolf-moon]
+related: [beaver-moon-2026-moonrise-times-november-23-24-by-city, geminid-meteor-shower-2026-peak-december-13-14-moon-viewing-times, quadrantid-meteor-shower-2027-peak-wolf-moon]
 downloads:
   - group: "Night Sky Calendar printables"
     title: "Night Sky Calendar, Nov.-Dec. 2026"
