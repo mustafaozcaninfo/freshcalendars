@@ -153,7 +153,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, uk-christmas-sandwiches-2026-ms-pret-boots-tesco, costa-christmas-menu-2026-ferrero-rocher-latte]
+related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, uk-christmas-sandwiches-2026-ms-pret-boots-tesco, wagamama-christmas-menu-2026]
 downloads:
   - group: "Pret Christmas Menu 2026 Card printables"
     title: "Pret Christmas Menu 2026 Card"
