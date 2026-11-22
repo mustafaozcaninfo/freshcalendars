@@ -55,7 +55,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/holidays/"
     label: "Holiday calendars"
-related: [our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24, when-does-advent-start-2026-november-29-advent-wreath-candles, christmas-2026-calendar-printable-countdown]
+related: [our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24, when-does-advent-start-2026-november-29-advent-wreath-candles, feast-of-the-seven-fishes-2026]
 downloads:
   - group: "Simbang Gabi 2026 Nine-Night Tracker printables"
     title: "Simbang Gabi 2026 Nine-Night Tracker, Dec. 16-24"

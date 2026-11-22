@@ -91,7 +91,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, wagamama-christmas-menu-2026, toby-carvery-christmas-menu-2026]
+related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, wagamama-christmas-menu-2026, chiquito-christmas-menu-2026]
 downloads:
   - group: "Frankie & Benny's Christmas Menu 2026 printables"
     title: "Frankie & Benny's Christmas Menu 2026: Dates and Prices Card"

@@ -63,7 +63,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar for 2027"
-related: [all-saints-day-2026-holy-day-of-obligation-all-souls-day, st-andrew-christmas-novena-2026-prayer-dates-printable, our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24]
+related: [feast-of-the-seven-fishes-2026, st-andrew-christmas-novena-2026-prayer-dates-printable, our-lady-of-guadalupe-day-2026-december-12-las-posadas-december-16-24]
 downloads:
   - group: "Immaculate Conception 2026 and U.S. Holy Days to Dec. 2027 printables"
     title: "Immaculate Conception 2026 and U.S. Holy Days to Dec. 2027"
