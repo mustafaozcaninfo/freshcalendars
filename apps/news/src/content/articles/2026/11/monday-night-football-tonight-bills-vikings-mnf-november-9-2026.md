@@ -96,7 +96,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times, monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, printable-nfl-schedule-2026-2027-pdf]
+related: [monday-night-football-tonight-bengals-commanders-mnf-november-23-2026, monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, printable-nfl-schedule-2026-2027-pdf]
 downloads:
   - group: "Bills at Vikings Monday Night Football Watch Guide printables"
     title: "Bills at Vikings Monday Night Football Watch Guide, Nov. 9, 2026"

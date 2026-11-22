@@ -64,7 +64,7 @@ internalLinks:
     label: "July printable calendars"
   - href: "/when-is/juneteenth/"
     label: "When is Juneteenth?"
-related: [federal-holidays-2027-observed-dates-list, long-weekends-2027-pto-planner-bridge-days, stock-market-holidays-2027-nyse-closed-dates]
+related: [federal-holidays-2027-observed-dates-list, july-2027-important-dates-holidays-days-until, stock-market-holidays-2027-nyse-closed-dates]
 draft: false
 assets:
   overlay: true

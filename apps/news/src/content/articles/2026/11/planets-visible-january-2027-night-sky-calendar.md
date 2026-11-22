@@ -87,7 +87,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [quadrantid-meteor-shower-2027-peak-wolf-moon, planets-2027-calendar-jupiter-mars-opposition-saturn-venus-elongation-dates, planets-visible-december-2026-night-sky-calendar-geminids-solstice]
+related: [quadrantid-meteor-shower-2027-peak-wolf-moon, planets-2027-calendar-jupiter-mars-opposition-saturn-venus-elongation-dates, planets-visible-february-2027-night-sky-calendar]
 downloads:
   - group: "January 2027 Night Sky Sheet printables"
     title: "January 2027 Night Sky Sheet: Quadrantids"
