@@ -101,7 +101,7 @@ internalLinks:
     label: "When is Thanksgiving"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [black-friday-2026-post-office-banks-stock-market-open, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, liquor-stores-open-thanksgiving-2026-by-state]
+related: [black-friday-2026-post-office-banks-stock-market-open, whats-open-thanksgiving-2026-grocery-stores-walmart-costco, is-post-office-open-christmas-eve-2026-december-26-banks]
 downloads:
   - group: "Thanksgiving 2026 printables"
     title: "Thanksgiving 2026: Post Office, Banks and Markets Closed"
