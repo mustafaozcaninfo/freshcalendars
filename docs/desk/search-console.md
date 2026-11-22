@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-22T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-22T17:08 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 99% (73 of 74 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (74 of 74 sampled)
 - FAIL: /news/ clicks and impressions did not fall two weeks in a row — fell two weeks in a row: clicks, impressions
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -281,23 +281,19 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 74 that are 7 to 21 days old): 89 Submitted and indexed, 1 Excluded by ‘noindex’ tag.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 74 that are 7 to 21 days old): 90 Submitted and indexed.
 
-- not indexed: /news/blossom-word-game-answers-november-3-2026/ (Excluded by ‘noindex’ tag), 19 days old
+- every sampled story is indexed
 
 ## Sitemaps
 
 - /sitemap.xml: 0 errors, 0 warnings, 3,859 URLs submitted, last read 2026-11-21
 - /sitemap.xml: 0 errors, 0 warnings, 201 URLs submitted, last read 2026-11-20
 - /news/news-sitemap.xml: 0 errors, 0 warnings, 75 URLs submitted, last read 2026-11-21
-- /news/sitemap.xml: 0 errors, 0 warnings, 1,677 URLs submitted, last read 2026-11-20
+- /news/sitemap.xml: 0 errors, 0 warnings, 1,677 URLs submitted, last read 2026-11-22
 
 ## Experiments (title and snippet changes of the search desk, 14 days before against 14 days after)
 
-- julian-date-calendar-2027-2026-printable (changed 2026-11-05): before 13 clicks, 1,732 impressions, CTR 0.75%, position 3.6; after 7 clicks, 2,459 impressions, CTR 0.28%, position 2.8
-- clark-county-school-district-calendar-2026-27-breaks (changed 2026-11-05): before 31 clicks, 8,660 impressions, CTR 0.36%, position 6.3; after 1 clicks, 99 impressions, CTR 1.01%, position 6.6
-- week-numbers-2027-calendar-printable (changed 2026-11-05): before 28 clicks, 3,413 impressions, CTR 0.82%, position 3.9; after 8 clicks, 2,750 impressions, CTR 0.29%, position 6.1
-- sunset-times-after-daylight-saving-time-ends-2026 (changed 2026-11-05): before 4 clicks, 1,538 impressions, CTR 0.26%, position 9.5; after 0 clicks, 580 impressions, CTR 0%, position 8.6
 - gta-6-october-22-2026-what-is-confirmed-release-countdown (changed 2026-11-06): before 2 clicks, 110 impressions, CTR 1.82%, position 6.1; after: not yet (13 of 15 days)
 - whats-open-thanksgiving-2026-grocery-stores-walmart-costco (changed 2026-11-06): before 14 clicks, 1,097 impressions, CTR 1.28%, position 10.2; after: not yet (13 of 15 days)
 - black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5 (changed 2026-11-06): before 10 clicks, 11,495 impressions, CTR 0.09%, position 10.9; after: not yet (13 of 15 days)

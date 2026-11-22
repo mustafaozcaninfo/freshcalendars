@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-22T09:13:30.933Z",
+ "generatedAt": "2026-11-22T17:08:23.041Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "99% (73 of 74 sampled)",
+   "value": "100% (74 of 74 sampled)",
    "pass": true
   },
   {
@@ -2319,18 +2319,10 @@
  "indexed": {
   "checked": 74,
   "sampled": 90,
-  "indexed": 73,
-  "notIndexed": [
-   {
-    "url": "https://freshcalendars.com/news/blossom-word-game-answers-november-3-2026/",
-    "status": "not indexed",
-    "state": "Excluded by ‘noindex’ tag",
-    "age": 19
-   }
-  ],
+  "indexed": 74,
+  "notIndexed": [],
   "states": {
-   "Submitted and indexed": 89,
-   "Excluded by ‘noindex’ tag": 1
+   "Submitted and indexed": 90
   },
   "unknown": 0
  },
@@ -2360,83 +2352,11 @@
    "path": "https://freshcalendars.com/news/sitemap.xml",
    "errors": 0,
    "warnings": 0,
-   "lastDownloaded": "2026-11-20T07:47:29.020Z",
+   "lastDownloaded": "2026-11-22T12:44:09.918Z",
    "submitted": 1677
   }
  ],
  "experiments": [
-  {
-   "slug": "julian-date-calendar-2027-2026-printable",
-   "changedAt": "2026-11-05",
-   "what": "seoTitle: \"Julian Date Calendar 2027: Free Printable PDF Charts\" → \"Julian Date Calendar 2026 and 2027: Free Printable PDFs\"; description now leads with 2026",
-   "before": {
-    "clicks": 13,
-    "impressions": 1732,
-    "ctr": 0.75,
-    "position": 3.6
-   },
-   "after": {
-    "clicks": 7,
-    "impressions": 2459,
-    "ctr": 0.28,
-    "position": 2.8
-   },
-   "daysAfter": 14
-  },
-  {
-   "slug": "clark-county-school-district-calendar-2026-27-breaks",
-   "changedAt": "2026-11-05",
-   "what": "title: \"CCSD Calendar 2026-27: No School Nov. 3, Winter Break Dec. 21 to Jan. 1, Spring Break Mar. 15-19\" → \"CCSD Calendar 2026-27: Thanksgiving Break Nov. 25-27, Winter Break Dec. 21 to Jan. 1\"; seoTitle, description and first sentence",
-   "before": {
-    "clicks": 31,
-    "impressions": 8660,
-    "ctr": 0.36,
-    "position": 6.3
-   },
-   "after": {
-    "clicks": 1,
-    "impressions": 99,
-    "ctr": 1.01,
-    "position": 6.6
-   },
-   "daysAfter": 14
-  },
-  {
-   "slug": "week-numbers-2027-calendar-printable",
-   "changedAt": "2026-11-05",
-   "what": "seoTitle: \"Week Numbers 2027: Calendar With Week Numbers\" → \"Week Numbers 2027: Printable Calendars and Full Week List\"; new description",
-   "before": {
-    "clicks": 28,
-    "impressions": 3413,
-    "ctr": 0.82,
-    "position": 3.9
-   },
-   "after": {
-    "clicks": 8,
-    "impressions": 2750,
-    "ctr": 0.29,
-    "position": 6.1
-   },
-   "daysAfter": 14
-  },
-  {
-   "slug": "sunset-times-after-daylight-saving-time-ends-2026",
-   "changedAt": "2026-11-05",
-   "what": "seoTitle: \"Sunset Times After the Clock Change 2026 by City\" → \"Earliest Sunset 2026 by City: When It Gets Dark Now\"; description leads with the Dec. 6-9 earliest sunset",
-   "before": {
-    "clicks": 4,
-    "impressions": 1538,
-    "ctr": 0.26,
-    "position": 9.5
-   },
-   "after": {
-    "clicks": 0,
-    "impressions": 580,
-    "ctr": 0,
-    "position": 8.6
-   },
-   "daysAfter": 14
-  },
   {
    "slug": "gta-6-october-22-2026-what-is-confirmed-release-countdown",
    "changedAt": "2026-11-06",
