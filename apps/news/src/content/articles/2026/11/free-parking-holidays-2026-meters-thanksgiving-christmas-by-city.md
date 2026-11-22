@@ -3,7 +3,7 @@ title: "Free Parking on Holidays 2026: Meter Rules in 12 Cities"
 description: "Parking meters are free on Thanksgiving, Nov. 26, Christmas and New Year's Day in all 12 cities checked. The day after splits two. Printable by city."
 type: explainer
 publishedAt: "2026-11-09T06:10:00-05:00"
-updatedAt: "2026-11-13T16:11:00-05:00"
+updatedAt: "2026-11-22T05:24:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["free parking on holidays", "are parking meters free on thanksgiving", "is parking free on christmas day", "parking meters veterans day"]
@@ -29,6 +29,8 @@ faq:
     a: "No. The holiday covers meters. San Diego says parking enforcement holidays are limited to meters, yellow commercial zones, short-term green zones and one-to-two-hour time zones, and that all other regulations remain enforced."
   - q: "Do university, park or hospital meters follow the city's holiday?"
     a: "Not always. Minneapolis says park, University of Minnesota and hospital meters may differ, Portland excludes meters at city parks, and Austin does not regulate the University of Texas campus or the Capitol Complex."
+  - q: "Is garage parking free on Small Business Saturday, Nov. 28, 2026?"
+    a: "In Portland, yes at the city's public garages. The Portland Bureau of Transportation says parking is free at all SmartPark locations on Saturday, Nov. 28, in celebration of Small Business Saturday. That covers garages only; its page does not mention street meters."
   - q: "Why are Chicago and Los Angeles not in the table?"
     a: "Chicago's meter frequently asked questions document could not be read on Nov. 9, 2026, and the Los Angeles transportation pages were unreachable. A rule is left out when its official page was not readable."
 downloads:
@@ -81,6 +83,10 @@ sources:
     url: "https://www.portland.gov/transportation/parking/parking-guide"
     publisher: "Portland Bureau of Transportation"
     date: "2026-11-09"
+  - title: "SmartPark Garages"
+    url: "https://www.portland.gov/transportation/parking/smartpark"
+    publisher: "Portland Bureau of Transportation"
+    date: "2026-11-22"
   - title: "Parking Enforcement Holidays"
     url: "https://www.sandiego.gov/parking/enforcement/holidays"
     publisher: "City of San Diego"
@@ -198,7 +204,7 @@ Meters only, in most cases. San Diego's page says enforcement holidays are limit
 
 Some meters sit outside the city rule:
 
-- **Portland:** parking is free at meters "except at city parks" on its ten calendar holidays.
+- **Portland:** parking is free at meters "except at city parks" on its ten calendar holidays. Separately, the Portland Bureau of Transportation says parking is free at all SmartPark locations, the city's public garages, on Saturday, Nov. 28, 2026, for Small Business Saturday. That is garages only: the SmartPark page does not mention street meters.
 - **Austin:** the city's list covers city meters; the University of Texas campus and the Capitol Complex are not city-regulated.
 - **Minneapolis:** park, University of Minnesota and hospital meters may differ from the city's holiday rule.
 - **Washington, D.C.:** DDOT says the District "does not require that meter fees be paid on District holidays"; its page shows no 2026 dates, only the holiday names.
