@@ -109,7 +109,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [wetherspoon-christmas-menu-2026, uk-christmas-menus-2026-greggs-costa-starbucks-kfc, uk-christmas-bank-holidays-2026-boxing-day-substitute-december-28]
+related: [wetherspoon-christmas-menu-2026, uk-christmas-menus-2026-greggs-costa-starbucks-kfc, harvester-christmas-menu-2026]
 downloads:
   - group: "Toby Carvery Christmas 2026 printables"
     title: "Toby Carvery Christmas 2026: Prices by Day"
