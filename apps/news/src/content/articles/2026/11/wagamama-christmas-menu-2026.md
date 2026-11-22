@@ -1,6 +1,6 @@
 ---
 title: "Wagamama Christmas Menu 2026: Set Menu £23, Until 5 January"
-description: "Wagamama's festive set menu is £23 for two courses or £28 for three until 5 January. Every festive dish with its price, the 49-day window and a printable card."
+description: "Wagamama's festive set menu is £23 for two courses or £28 for three until 5 January. Every festive dish with its price, the dates and a printable card."
 type: news
 dateline: "London"
 publishedAt: "2026-11-21T18:38:00-05:00"

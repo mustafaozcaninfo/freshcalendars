@@ -133,11 +133,11 @@ downloads:
 draft: false
 ---
 
-**Pizza Express sells any starter and any main for £20 every day from Tuesday 3 November 2026 to Monday 4 January 2027, according to its "Christmas 2 for 20" page.** The offer is for dining in at its pizzerias only, and seven named pizzerias do not take part. Our research desk read the Pizza Express pages on 21 November; the dishes and rules below follow their wording.
+**Pizza Express sells any starter and any main for £20 every day from Tuesday 3 November 2026 to Monday 4 January 2027, according to its "Christmas 2 for 20" page.** It is dine-in only. Seven named pizzerias do not take part, and neither do airport sites, Welcome Break services or supermarket concessions. Our research desk read the Pizza Express pages on 21 November; the dishes and rules below follow their wording.
 
 ## What is on the Pizza Express Christmas menu 2026?
 
-The restaurant menu page lists these festive dishes. It shows no prices: it says "Select restaurant to see prices". The last column applies the rules of the £20 deal, which is a starter plus a main.
+The restaurant menu page lists nine festive dishes and seven festive drinks, but it shows no prices until you choose a pizzeria ("Select restaurant to see prices"). The last column applies the deal's rules. Only a starter and a main count.
 
 | Course | Dish | What the page says | Counts for the £20 deal? |
 |---|---|---|---|
@@ -188,7 +188,7 @@ Circle the window on a [November 2026 printable calendar](/november-calendars.ht
 
 ## How do you book a Pizza Express Christmas table?
 
-The booking page says: "Pick a restaurant, date and time below." Choosing a restaurant is also how the menu page shows prices. Prices can differ by restaurant, and none are printed here except the £20 deal and the £5 dessert and Prosecco offer. Christmas Day, Boxing Day and New Year opening hours are not announced on the pages we read.
+The booking page says: "Pick a restaurant, date and time below." That choice also brings up prices on the menu page, which can differ from one restaurant to the next, so the only prices printed here are the £20 deal and the £5 dessert and Prosecco offer. Christmas Day, Boxing Day and New Year opening hours are not announced on the pages we read.
 
 ## How does it compare with other UK Christmas menus?
 
