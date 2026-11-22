@@ -2,7 +2,7 @@
 title: "Sun Belt Championship Game 2026: Fri., Dec. 4 at 7 p.m. ET on ESPN"
 description: "The Sun Belt title game is Fri., Dec. 4 at 7 p.m. ET on ESPN. Louisiana Tech has the West; Nov. 28 sets the East and host. Four time zones, printable card."
 type: news
-publishedAt: "2026-11-21T23:30:00-05:00"
+publishedAt: "2026-11-21T23:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["sun belt championship game 2026", "sun belt championship 2026 time", "sun belt championship tv", "sun belt title game 2026"]

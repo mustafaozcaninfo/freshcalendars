@@ -128,7 +128,7 @@ internalLinks:
     label: "When is Memorial Day?"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [april-2027-important-dates-holidays-days-until, march-2027-important-dates-holidays-days-until, mothers-day-2027-may-9-memorial-day-2027-may-31-long-weekend]
+related: [june-2027-important-dates-holidays-days-until, april-2027-important-dates-holidays-days-until, mothers-day-2027-may-9-memorial-day-2027-may-31-long-weekend]
 draft: false
 ---
 
