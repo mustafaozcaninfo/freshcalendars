@@ -1,8 +1,9 @@
 ---
-title: "BPS Calendar 2026-27: Veterans Day Nov. 11, Last Day June 22"
-description: "Boston Public Schools (BPS) calendar 2026-27: no school Nov. 11, Nov. 26-27, Dec. 24-Jan. 1, Feb. 16-19 and April 20-23. The last day is June 22, 2027."
+title: "BPS Calendar 2026-27: Winter Recess Dec. 24-Jan. 1, Last Day June 22"
+description: "Boston Public Schools (BPS) 2026-27: winter recess Dec. 24 to Jan. 1, February recess Feb. 16-19, April recess April 20-23. Last day is June 22, 2027."
 type: explainer
 publishedAt: "2026-11-04T13:25:00-05:00"
+updatedAt: "2026-11-22T07:25:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["bps calendar 2026-27", "boston public schools calendar 2026-27", "bps february vacation 2027", "bps april vacation 2027", "boston public schools last day of school 2027"]
@@ -10,7 +11,7 @@ dateline: "Boston"
 hero:
   src: ../../../../assets/news/boston-public-schools-calendar-2026-27-breaks/boston-public-schools-calendar-2026-27-breaks.webp
   alt: "Front of Boston Latin School, a Boston Public Schools exam school, for the Boston Public Schools calendar 2026-27"
-  caption: "File photo of Boston Latin School on Avenue Louis Pasteur, a Boston Public Schools exam school. The district's calendar lists Veterans Day, Nov. 11, 2026, as the next day with no school."
+  caption: "File photo of Boston Latin School on Avenue Louis Pasteur, a Boston Public Schools exam school. Winter recess runs Dec. 24, 2026 to Jan. 1, 2027."
   credit: "Photo: Daderot / Wikimedia Commons, cropped, edited"
   license:
     name: "Public domain"
@@ -18,8 +19,8 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Front_-_Boston_Latin_School_-_DSC09900.JPG"
     author: "Daderot"
 summary:
-  - "The Boston Public Schools (BPS) calendar lists Veterans Day, Wednesday, Nov. 11, 2026, as the next no-school day, then Thanksgiving Recess on Nov. 26-27."
-  - "Winter Recess runs Dec. 24, 2026 to Jan. 1, 2027, February Recess is Feb. 16-19 and Spring Recess is April 20-23, 2027."
+  - "The Boston Public Schools (BPS) calendar lists Thanksgiving Recess, Nov. 26-27, 2026, as the next days off, then winter recess from Dec. 24 to Jan. 1."
+  - "Students return Tuesday, Jan. 5, 2027. February Recess is Feb. 16-19 and Spring Recess is April 20-23, 2027."
   - "Seniors finish Monday, June 7, 2027 (170 days). The last day of school for other students is Tuesday, June 22, if no days are lost to cancellations."
   - "The calendar also counts a 185th day, Tuesday, June 29, 2027, as required for calendar purposes."
 faq:
@@ -52,8 +53,8 @@ related: [winter-break-2026-school-districts-dates, spring-break-2027-dates-scho
 assets:
   overlay: true
   kicker: "Boston Public Schools · 2026-27"
-  date: "2026-11-11"
-  card: { top: "Next day with no school", big: "Wed., Nov. 11", bottom: "February Recess Feb. 16-19, 2027" }
+  date: "2026-12-24"
+  card: { top: "Winter recess", big: "Dec. 24-Jan. 1", bottom: "Students return Jan. 5, 2027" }
   printable:
     kit: school-year
     slug: boston-public-schools-calendar-2026-27
@@ -101,7 +102,7 @@ downloads:
 draft: false
 ---
 
-**Boston Public Schools (BPS) has no school on Wednesday, Nov. 11, 2026 (Veterans Day), Nov. 26-27, Dec. 24 to Jan. 1, Feb. 16-19 and April 20-23, 2027**, by the district's "SY26-27 BPS District Calendar" PDF, whose footer reads "Reviewed on 03/23/2026". The last day of school is Tuesday, June 22, 2027, and seniors finish Monday, June 7. Boston has two recess weeks after the winter holidays, one around Presidents' Day and one around Patriots' Day, and the calendar counts a 185th day on June 29. The Sept. 7 and Oct. 12 days off have passed, so Veterans Day is next.
+**Boston Public Schools (BPS) has no school on Nov. 26-27, Dec. 24, 2026 to Jan. 1, 2027, Feb. 16-19 and April 20-23, 2027**, by the district's "SY26-27 BPS District Calendar" PDF, whose footer reads "Reviewed on 03/23/2026". The last day of school is Tuesday, June 22, 2027, and seniors finish Monday, June 7. Boston has two recess weeks after the winter holidays, one around Presidents' Day and one around Patriots' Day, and the calendar counts a 185th day on June 29. Sept. 7, Oct. 12 and Nov. 11 have passed, so Thanksgiving Recess on Nov. 26-27 is next (Nov. 25 is an early release day), then winter recess, with students back Tuesday, Jan. 5.
 
 The review date is a stamp in the footer. We found no School Committee vote date on the calendar, so we do not give one.
 
