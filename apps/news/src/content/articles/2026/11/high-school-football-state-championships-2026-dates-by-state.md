@@ -101,7 +101,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28, ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times]
+related: [ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28, khsaa-state-football-finals-2026-kroger-field-schedule, ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium]
 assets:
   overlay: true
   kicker: "State title games · Nov. 21-Dec. 19"
