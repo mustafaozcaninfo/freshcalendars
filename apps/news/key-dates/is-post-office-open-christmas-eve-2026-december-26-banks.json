@@ -1,0 +1,7 @@
+[
+  { "date": "2026-12-17", "label": "USPS send-by for Ground Advantage and First-Class Mail (arrival by Dec. 25)" },
+  { "date": "2026-12-18", "label": "USPS Priority Mail send-by (arrival by Dec. 25)" },
+  { "date": "2026-12-19", "label": "USPS Priority Mail Express send-by (arrival by Dec. 25)" },
+  { "date": "2026-12-24", "label": "Stocks close early at 1:00 p.m. ET; bonds 2:00 p.m. ET (SIFMA)" },
+  { "date": "2026-12-25", "label": "Christmas Day: post offices, banks, NYSE and Nasdaq closed" }
+]

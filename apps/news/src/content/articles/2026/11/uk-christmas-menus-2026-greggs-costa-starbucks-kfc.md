@@ -146,7 +146,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [kfc-uk-christmas-menu-2026-gravymas, pret-christmas-menu-2026, pizza-express-christmas-menu-2026]
+related: [kfc-uk-christmas-menu-2026-gravymas, pret-christmas-menu-2026, frankie-and-bennys-christmas-menu-2026]
 downloads:
   - group: "UK Christmas Menus 2026 printables"
     title: "UK Christmas Menus 2026: Start Dates"
