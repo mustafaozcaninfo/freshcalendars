@@ -1,9 +1,9 @@
 ---
-title: "MNPS Calendar 2026-27: Spring Break Mar. 22-26, Last Day May 25"
-description: "Metro Nashville Public Schools (MNPS) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and Mar. 22-26. Last day is May 25; Feb. 15 is also a no-student day."
+title: "MNPS Calendar 2026-27: Winter Break Dec. 21 to Jan. 4, Last Day May 25"
+description: "Metro Nashville Public Schools (MNPS) 2026-27: winter break Dec. 21 to Jan. 4, spring break Mar. 22-26, last day May 25. Every no-school day in one table."
 type: news
 publishedAt: "2026-11-04T08:45:00-05:00"
-updatedAt: "2026-11-04T08:45:00-05:00"
+updatedAt: "2026-11-22T07:25:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["mnps calendar 2026-27", "metro nashville public schools calendar 2026-27", "mnps spring break 2027", "mnps winter break 2026"]
@@ -11,7 +11,7 @@ dateline: "Nashville, Tenn."
 hero:
   src: ../../../../assets/news/metro-nashville-public-schools-calendar-2026-27-breaks/metro-nashville-public-schools-calendar-2026-27-breaks.webp
   alt: "Hume-Fogg Academic High School at Broadway and 7th Avenue in Nashville, for the MNPS calendar 2026-27"
-  caption: "File photo of Hume-Fogg Academic High School, an MNPS magnet school, in Nashville. The district calendar lists Veterans Day, Nov. 11, 2026, as the next day the district is closed."
+  caption: "File photo of Hume-Fogg Academic High School, an MNPS magnet school, in Nashville. Winter break runs Dec. 21, 2026 to Jan. 4, 2027."
   credit: "Photo: Warren LeMay from Chicago, IL, United States / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -109,7 +109,7 @@ draft: false
 
 **Metro Nashville Public Schools (MNPS) students have no school Nov. 23-27, 2026, from Monday, Dec. 21, 2026 to Monday, Jan. 4, 2027, and from Monday, Mar. 22 to Friday, Mar. 26, 2027**, according to the district's 2026-2027 District Calendar. Students return Tuesday, Jan. 5, 2027, and the last day for students is Tuesday, May 25, 2027. The PDF is marked "Revised 2/9/26"; the district's calendar page links to it.
 
-The next day the district is closed is Veterans Day, Wed., Nov. 11, 2026. School began Tuesday, Aug. 11, 2026, and Labor Day, the Oct. 9-16 fall break and the Nov. 3 parent conference day have passed.
+Thanksgiving break runs Monday, Nov. 23 to Friday, Nov. 27, 2026, and the district is closed Nov. 26-27. Winter break follows from Monday, Dec. 21, with students back Tuesday, Jan. 5, 2027. School began Tuesday, Aug. 11, 2026, and Labor Day, the Oct. 9-16 fall break, the Nov. 3 parent conference day and Veterans Day, Nov. 11 have passed.
 
 ## When are the MNPS breaks in 2026-27?
 

@@ -1,6 +1,6 @@
 ---
-title: "First Night of Hanukkah 2026: Friday, Dec. 4, Candle Times"
-description: "The first night of Hanukkah 2026 is Friday evening, Dec. 4, and the holiday ends Dec. 12. Candle times for 20 U.S. cities and free printables."
+title: "Hanukkah 2026 Dates: Dec. 4 to 12, Candle Times for 20 Cities"
+description: "Hanukkah 2026 runs from Friday evening, Dec. 4 to nightfall Saturday, Dec. 12. Candle times for 20 U.S. cities for all eight nights, plus free printables."
 type: explainer
 publishedAt: "2026-10-22T11:45:00-04:00"
 updatedAt: "2026-11-14T16:59:00-05:00"
