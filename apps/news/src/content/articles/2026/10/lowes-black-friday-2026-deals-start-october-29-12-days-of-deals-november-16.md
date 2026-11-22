@@ -3,7 +3,7 @@ title: "Lowe's Black Friday 2026: Deals Began Oct. 29, 12 Days Start Nov. 16"
 description: "Lowe's Black Friday 2026 deals began Oct. 29, and 12 Days of Deals start Nov. 16. Stores close Thanksgiving; a printable calendar lists every phase."
 type: news
 publishedAt: "2026-10-29T05:40:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-22T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["lowe's black friday 2026", "lowe's 12 days of deals 2026", "lowe's black friday ad 2026", "is lowe's open on thanksgiving 2026", "home depot black friday 2026"]
@@ -151,8 +151,13 @@ The four weeks of deals also include gifts through "Gifts Under" and free produc
 
 Both retailers start on Oct. 29 and both close on Thanksgiving Day, and each has published Black Friday event dates, though the two schedules differ. Home Depot's 2026 holiday hours page lists a 6 a.m. opening on Black Friday and notes that times can vary by location. See our [Home Depot Black Friday 2026 story](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/) for its Nov. 5 to 25 event. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Walmart, Target, Best Buy, Home Depot and Lowe's, and the [Best Buy holiday calendar](/news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/) lists its dates.
 
+## Is there a Lowe's Black Friday bucket in 2026?
+
+Lowe's had not announced one as of Nov. 22, 2026. Its Holiday 2026 press release lists four weeks of Black Friday deals from Oct. 29, 12 Days of Deals from Nov. 16, early access to Black Friday Doorbusters for MyLowe's Rewards members and December Deal Drops, and it does not mention a bucket offer or giveaway. Shoppers looking for one should check the store's page for Black Friday morning, since Lowe's has also not published store opening hours for Nov. 27.
+
 ## What has not been announced?
 
+- A Black Friday bucket offer or giveaway.
 - Black Friday store opening hours at Lowe's.
 - Doorbuster prices.
 - Dates for Cyber deals.

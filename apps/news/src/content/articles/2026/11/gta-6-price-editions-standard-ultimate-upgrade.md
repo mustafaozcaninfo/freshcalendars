@@ -3,6 +3,7 @@ title: "GTA 6 Price: Standard $79.99, Ultimate $99.99, Upgrade $20.00"
 description: "Grand Theft Auto (GTA) VI costs $79.99 Standard and $99.99 Ultimate, with a $20.00 upgrade on Xbox. Bonus cut-offs and refund rules by store."
 type: news
 publishedAt: "2026-11-18T05:26:00-05:00"
+updatedAt: "2026-11-22T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 dateline: "New York"
@@ -71,6 +72,14 @@ sources:
   - title: "PlayStation Store cancellation policy (US)"
     url: "https://www.playstation.com/en-us/legal/playstation-store-cancellation-policy/"
     publisher: "PlayStation"
+  - title: "PlayStation's Black Friday Deals 2026"
+    url: "https://blog.playstation.com/2026/11/03/playstations-black-friday-deals-2026/"
+    publisher: "PlayStation Blog"
+    date: "2026-11-03"
+  - title: "Xbox Black Friday Sale 2026"
+    url: "https://news.xbox.com/en-us/2026/11/16/xbox-black-friday-sale-2026/"
+    publisher: "Xbox Wire"
+    date: "2026-11-16"
   - title: "Get a refund for apps and games purchased from Microsoft Store"
     url: "https://support.microsoft.com/en-us/accounts-billing/subscriptions/get-a-refund-for-apps-and-games-purchased-from-microsoft-store"
     publisher: "Microsoft"
@@ -126,6 +135,10 @@ PlayStation and Microsoft word their rules differently.
 
 Refund rules for GameStop and JB Hi-Fi code-in-box orders were not read.
 
+## Is GTA 6 on sale for Black Friday 2026?
+
+No official Black Friday sale lists it as of Nov. 22, 2026. PlayStation's Black Friday 2026 deals post, for a sale that runs through Monday, Nov. 30, does not name Grand Theft Auto VI among its discounts, and the Xbox Black Friday Sale post, for a sale that runs through Dec. 2, does not either. Take-Two Interactive and Rockstar Games have said nothing about a discount. The game launched on Nov. 19, eight days before Black Friday, and the PlayStation Store lists the Standard Edition at $79.99.
+
 ## What is not announced
 
-No source read for this story gives a Collector's Edition or its price, prices outside the U.S., or Black Friday discounts on the game. PlayStation Store sales are tracked in [the PlayStation Black Friday story](/news/playstation-black-friday-2026-ps-store-deals-november-4-30/), and the date itself is on [When is Black Friday?](/when-is/black-friday/).
+No source read for this story gives a Collector's Edition or its price, prices outside the U.S., or a Black Friday discount on the game. PlayStation Store sales are tracked in [the PlayStation Black Friday story](/news/playstation-black-friday-2026-ps-store-deals-november-4-30/), and the date itself is on [When is Black Friday?](/when-is/black-friday/).

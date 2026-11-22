@@ -1,12 +1,12 @@
 ---
-title: "Amazon Black Friday 2026: Nov. 19-30 Sale, Deal Drop Times"
-description: "Amazon Black Friday Week and Cyber Monday 2026 run Nov. 19-30, starting 12:01 a.m. PT, with drops at midnight and 8 a.m. PT. Past dates, printable."
+title: "Amazon Black Friday 2026 Ends Nov. 30: 12-Day Sale, Deal Drop Times"
+description: "Amazon's Black Friday 2026 sale ends Monday, Nov. 30, which is Cyber Monday. It began Nov. 19 and lasts 12 days; drop times, past end dates, a printable."
 type: explainer
 publishedAt: "2026-10-26T02:21:00-04:00"
-updatedAt: "2026-11-13T01:35:00-05:00"
+updatedAt: "2026-11-22T15:46:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
-keywords: ["Amazon Black Friday 2026", "when does Amazon Black Friday start 2026", "Amazon Black Friday 2026 dates", "Amazon holiday return policy 2026"]
+keywords: ["Amazon Black Friday 2026", "when does Amazon Black Friday end", "when does Amazon Black Friday start 2026", "Amazon Black Friday 2026 dates", "Amazon holiday return policy 2026"]
 hero:
   src: ../../../../assets/news/amazon-black-friday-2026-sale-dates-when-does-it-start/amazon-black-friday-2026-sale-dates-when-does-it-start.webp
   alt: "An Amazon Prime electric delivery van parked on a city street"
@@ -24,6 +24,8 @@ summary:
   - "The window is 12 days counting both ends and starts 8 days before Black Friday, the same gap as 2024 and 2025, from Amazon's own pages."
   - "ppc.land reported an Amazon Seller News post dated Oct. 16, 2026 that sets the holiday return deadline at Jan. 31, 2027. A free one-page Amazon holiday timeline is below."
 faq:
+  - q: "How long is Amazon's Black Friday 2026 sale?"
+    a: "Twelve days, counting the first and the last: Thursday, Nov. 19 through Monday, Nov. 30, 2026, from Amazon's dates. The 2025 events also lasted 12 days, Nov. 20 through Dec. 1."
   - q: "When does Amazon Black Friday 2026 start?"
     a: "Amazon says its Black Friday Week and Cyber Monday deal events kick off at 12:01 a.m. PST on Thursday, Nov. 19, 2026 and run through Nov. 30. That is 3:01 a.m. ET on Nov. 19."
   - q: "What time do Amazon's Black Friday 2026 deals drop?"
@@ -126,9 +128,15 @@ assets:
 
 <p class="callout"><b>Checked Nov. 13, 2026.</b> Amazon announced on Nov. 9 that its Black Friday Week and Cyber Monday deal events run Nov. 19-30, 2026.</p>
 
-**Amazon's Black Friday Week and Cyber Monday deal events run November 19-30, 2026, Amazon said in a Nov. 9, 2026 press release.** Its Black Friday guide says they "kick off at 12:01 a.m. PST on November 19 and run through November 30." Black Friday is Friday, Nov. 27, 2026 and Cyber Monday is Monday, Nov. 30, 2026 (see [when Black Friday falls](/when-is/black-friday/) and [when Cyber Monday falls](/when-is/cyber-monday/)). Customers "can start browsing early deals in the Holiday Shop now," the guide adds.
+**Amazon's Black Friday 2026 sale ends on Monday, Nov. 30, 2026, which is Cyber Monday: its Black Friday Week and Cyber Monday deal events run November 19-30, Amazon said in a Nov. 9, 2026 press release.** Its Black Friday guide says they "kick off at 12:01 a.m. PST on November 19 and run through November 30." Black Friday is Friday, Nov. 27, 2026 and Cyber Monday is Monday, Nov. 30, 2026 (see [when Black Friday falls](/when-is/black-friday/) and [when Cyber Monday falls](/when-is/cyber-monday/)). Customers "can start browsing early deals in the Holiday Shop now," the guide adds.
 
 Amazon's own pages also show how early the sale began in the last three years. This story counts the days of the 2026 window, compares it with 2023 to 2025 and covers the holiday return deadline. A [printable Amazon holiday timeline](#downloads) is below.
+
+## When does Amazon Black Friday 2026 end?
+
+Monday, Nov. 30, 2026. Amazon's Black Friday guide says the events "run through November 30" and gives no closing hour. Its Nov. 9 release does not set separate dates for Black Friday Week and for Cyber Monday: both sit inside the Nov. 19-30 window, and Cyber Monday is its last day. A single deal can end sooner, since Amazon says deals are available only while supplies last.
+
+The sale lasts 12 days, counting Nov. 19 and Nov. 30. In 2025 the events ran from Nov. 20 through Dec. 1, also 12 days and also ending on Cyber Monday, so the 2026 end comes one calendar day earlier.
 
 ## When does Amazon Black Friday 2026 start?
 
