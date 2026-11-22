@@ -90,7 +90,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [2027-tax-brackets-401k-hsa-limits-irs, tax-calendar-2027-irs-deadlines, 2026-required-minimum-distribution-deadline-ira-401k]
+related: [2027-tax-brackets-401k-hsa-limits-irs, tax-calendar-2027-irs-deadlines, trump-accounts-2026-1000-deposit-form-4547-auto-enrolled]
 downloads:
   - group: "Saver's Match 2027 Income Limits by Filing Status printables"
     title: "Saver's Match 2027 Income Limits by Filing Status"
