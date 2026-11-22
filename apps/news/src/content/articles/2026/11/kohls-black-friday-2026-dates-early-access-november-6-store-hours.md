@@ -3,7 +3,7 @@ title: "Kohl's Black Friday 2026: Opens 5 a.m. Nov. 27, Week Nov. 22-28"
 description: "Kohl's stores close Thanksgiving and reopen 5 a.m. Nov. 27; Black Friday Week runs Nov. 22-28. A table and printable list every date, with 2025 compared."
 type: news
 publishedAt: "2026-11-01T18:50:00-05:00"
-updatedAt: "2026-11-13T16:11:00-05:00"
+updatedAt: "2026-11-22T01:24:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["kohl's black friday 2026", "kohl's black friday early access 2026", "kohl's black friday hours 2026", "is kohl's open on thanksgiving 2026"]
@@ -62,7 +62,13 @@ faq:
     a: "$15 for every $50 spent during Black Friday Week, Nov. 22-28, and again during Cyber Deals on Nov. 29-30, according to Kohl's. Early Access, which ended Nov. 8, paid $15 per $50 on Nov. 6 only and $10 per $50 on Nov. 7-8."
   - q: "When do Kohl's online doorbusters start?"
     a: "On Kohls.com beginning Thanksgiving Day, Thursday, Nov. 26, at 12:01 a.m. Central Time (CT). In stores, doorbusters run Friday, Nov. 27, through Saturday, Nov. 28."
+  - q: "What is Kohl's holiday return window in 2026?"
+    a: "Kohl's says it offers free in-store returns through Jan. 31, 2027, on items purchased from Oct. 4 to Dec. 30, according to its Oct. 21, 2026 release."
 sources:
+  - title: "Kohl's Brings Holiday Magic to Life for Customers with Top Gifts, Incredible Savings, and New Ways to Shop"
+    url: "https://www.financialcontent.com/article/bizwire-2026-10-21-kohls-brings-holiday-magic-to-life-for-customers-with-top-gifts-incredible-savings-and-new-ways-to-shop"
+    publisher: "Kohl's (via Business Wire)"
+    date: "2026-10-21"
   - title: "Now Arriving at The North Kohl's: November Holiday Savings Events"
     url: "https://www.financialcontent.com/article/bizwire-2026-10-30-now-arriving-at-the-north-kohls-november-holiday-savings-events"
     publisher: "Kohl's (via Business Wire)"
@@ -132,6 +138,10 @@ Black Friday Week "begins Sun., Nov. 22, through Sat., Nov. 28." Kohl's lists th
 
 Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows the other big chains.
 
+## What is Kohl's 2026 holiday return window?
+
+Kohl's said in an Oct. 21, 2026 release: "Customers can shop for gifts with confidence, knowing Kohl's has extended its returns policy to offer free in-store returns through Jan. 31, 2027, on items purchased from Oct. 4 - Dec. 30."
+
 ## What are Kohl's Cyber Deals on Nov. 29-30?
 
 Cyber Deals "start Sun., Nov. 29, through Mon., Nov. 30," with "40% off qualifying purchases with a coupon, up to 50% off deals, and $15 Kohl's Cash for every $50 spent," according to the release.
@@ -140,7 +150,7 @@ Cyber Deals "start Sun., Nov. 29, through Mon., Nov. 30," with "40% off qualifyi
 
 - Store hours beyond the 5 a.m. opening on Nov. 27.
 - Specific doorbuster items and prices, which the Oct. 30 release does not list.
-- The 2026 holiday return window, which we could not confirm because Kohl's website blocks automated access. Check Kohl's return policy page before you buy.
+- The end time for Cyber Deals on Nov. 30.
 
 ## Print the Kohl's Black Friday 2026 dates
 
