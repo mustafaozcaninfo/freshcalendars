@@ -120,7 +120,7 @@ internalLinks:
     label: "June 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [may-2027-important-dates-holidays-days-until, seasons-2027-equinox-solstice-dates-times, moon-phases-2027-full-moon-calendar]
+related: [may-2027-important-dates-holidays-days-until, july-2027-important-dates-holidays-days-until, moon-phases-2027-full-moon-calendar]
 draft: false
 ---
 

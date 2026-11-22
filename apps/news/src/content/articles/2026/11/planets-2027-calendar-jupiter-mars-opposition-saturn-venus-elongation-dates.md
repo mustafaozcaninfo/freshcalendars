@@ -169,7 +169,7 @@ Jupiter's opposition (Wed., Feb. 10, 7:29 p.m. EST) and Mars's (Fri., Feb. 19, 1
 - **Fri., Feb. 19:** Mars at opposition at 10:51 a.m. EST, so the first night after it is the night of Feb. 19.
 - **Sat., Feb. 20:** Full Moon at 6:23 p.m. EST, according to the USNO. NASA lists greatest eclipse of a penumbral lunar eclipse at 6:13 p.m. EST the same day; see our [2027 eclipse dates](/news/eclipses-2027-dates-times-total-solar-eclipse-august-2/).
 
-Mark the days on a [February 2027 printable calendar](/february-calendars.html).
+Put the days on a [February 2027 printable calendar](/february-calendars.html).
 
 ## Venus and Mercury in 2027: greatest elongation dates
 
