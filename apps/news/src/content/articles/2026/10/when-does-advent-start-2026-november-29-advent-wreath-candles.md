@@ -4,7 +4,7 @@ description: "Advent 2026 starts Sunday, Nov. 29 and runs to Dec. 24. A table gi
 type: explainer
 shop: religious-advent
 publishedAt: "2026-10-25T17:03:00-04:00"
-updatedAt: "2026-11-03T00:37:00-05:00"
+updatedAt: "2026-11-23T03:26:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["when does Advent start 2026", "first Sunday of Advent 2026", "Advent 2026 dates", "Advent wreath candles order", "Gaudete Sunday 2026"]
@@ -31,7 +31,7 @@ faq:
   - q: "When does Advent end in 2026?"
     a: "The USCCB lists Advent as running from Sunday, Nov. 29, to Thursday, Dec. 24, 2026. Christmas is Friday, Dec. 25."
   - q: "When is Gaudete Sunday in 2026?"
-    a: "Gaudete Sunday is the third Sunday of Advent, which is Dec. 13, 2026. The USCCB says the liturgical color may be rose instead of purple that day."
+    a: "Gaudete Sunday is the third Sunday of Advent, which is Dec. 13, 2026. The USCCB lights the rose candle that day, and its 2026 calendar lists the color as \"violet or rose.\""
   - q: "What order are the Advent wreath candles lit in?"
     a: "The USCCB describes a wreath with four candles for the four weeks of Advent. Purple candles mark the first, second and fourth Sundays, and the rose candle is lit on the third."
   - q: "When does Advent start in 2027?"
@@ -130,13 +130,13 @@ Weekdays are computed for 2026 and match the USCCB calendar for the first Sunday
 
 ## What order are the Advent wreath candles lit in?
 
-The USCCB describes the wreath as "a circle of evergreen branches into which four candles are inserted, representing the four weeks of Advent." Three of the candles are purple. According to the USCCB, the purple candles symbolize prayer, penance and preparation. The rose candle is lit on the third Sunday, which the USCCB calls "the Sunday of rejoicing."
+The USCCB describes the wreath as "a circle of evergreen branches into which four candles are inserted, representing the four weeks of Advent." Ideally, three of the candles are purple and one is rose, though the USCCB says "white candles can also be used." According to the USCCB, the purple candles symbolize prayer, penance and preparation. The rose candle is lit on the third Sunday, which the USCCB calls "the Sunday of rejoicing."
 
 That puts purple on Nov. 29 and Dec. 6, rose on Dec. 13 and purple again on Dec. 20. The [printable tracker](#downloads) lists the same order, so you can tick each Sunday as you go.
 
 ## When is Gaudete Sunday 2026?
 
-Gaudete Sunday is the third Sunday of Advent, which is **Sunday, Dec. 13, 2026**. The USCCB says the liturgical color for Advent is purple, "just like Lent," and that on Gaudete Sunday the color may be rose instead of purple.
+Gaudete Sunday is the third Sunday of Advent, which is **Sunday, Dec. 13, 2026**. The USCCB says the liturgical color for Advent is purple, "just like Lent," and its 2026 calendar lists the color for Gaudete Sunday as "violet or rose."
 
 ## Why does Advent last 26 days in 2026?
 
@@ -147,7 +147,7 @@ Advent ends on Christmas Eve, but its first day moves with the calendar, so the 
 | 2026 | Sun., Nov. 29 | 26 | USCCB Liturgical Calendar 2026 |
 | 2027 | Sun., Nov. 28 | 27 | USCCB Liturgical Calendar 2027 |
 
-The day counts are our computation from those dates. The USCCB 2026 calendar also shows that the Sunday cycle of readings, Year B, runs from Nov. 29, 2026, to Nov. 21, 2027. Its December 2026 pages are headed "Year B, Weekdays I", so the weekday readings follow cycle I.
+The day counts are our computation from those dates. In the USCCB 2026 calendar, the First Sunday of Advent, Nov. 29, sits under the heading "Year B – Weekdays I", so the Sunday readings follow Year B and the weekday readings follow cycle I. The 2027 calendar starts "Year C – Weekdays II" on Nov. 28, 2027, so Year B runs through Nov. 21, 2027 (our reading of the two calendars).
 
 ## Which feast days fall between Nov. 29 and Dec. 24, 2026?
 
@@ -175,7 +175,7 @@ Several do, though the color and the calendar can differ. The table gives each c
 | Revised Common Lectionary (RCL) | Sundays Nov. 29 to Dec. 20 (Year B, 2026-27) | Not stated on the page |
 | Orthodox Church in America (OCA) | Nativity (St. Philip's) Fast, Nov. 15 through Dec. 24 | Not stated on the page |
 
-The ELCA "Year B 2026/2027" Church Year Calendar lists "Advent Nov. 29, 2026 through Dec. 24, 2026" and gives the color for Sunday, Nov. 29, the First Sunday of Advent, as blue. United Methodist Communications says "the color for Advent has traditionally been purple, although some churches have adopted blue." The Revised Common Lectionary at the Vanderbilt Divinity Library lists Year B (2026-27) with Advent Sundays from Nov. 29 to Dec. 20.
+The ELCA "Year B 2026/2027" Church Year Calendar lists Advent as "November 29, 2026 – December 24, 2026" and gives the color for Sunday, Nov. 29, the First Sunday of Advent, as blue. United Methodist Communications says "the color for Advent has traditionally been purple, although some churches have adopted blue." The Revised Common Lectionary at the Vanderbilt Divinity Library lists Year B (2026-27) with Advent Sundays from Nov. 29 to Dec. 20.
 
 The Orthodox Church in America lists the Nativity Fast, also called St. Philip's Fast, as Nov. 15 through Dec. 24. Nov. 15, 2026 is a Sunday. That is a fast, not the Western Advent season, so it starts two weeks earlier. Check your own church for its calendar and customs.
 
