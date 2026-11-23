@@ -1,0 +1,153 @@
+{
+ "publicationDate": "2026-11-23",
+ "constructors": [
+  "Joel Fagliano"
+ ],
+ "width": 5,
+ "height": 5,
+ "cells": [
+  null,
+  "B",
+  "A",
+  "S",
+  "S",
+  "P",
+  "A",
+  "U",
+  "L",
+  "O",
+  "A",
+  "B",
+  "D",
+  "U",
+  "L",
+  "W",
+  "E",
+  "I",
+  "R",
+  "D",
+  "S",
+  "L",
+  "O",
+  "P",
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Instrument you might \"slap\"",
+   "cells": [
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "São ___, Brazil",
+   "cells": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Newly elected senator El-Sayed",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "7",
+   "text": "\"I don't know why it's doing that ...\"",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "Lazy A.I. content",
+   "cells": [
+    20,
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Biblical city with language problems",
+   "cells": [
+    1,
+    6,
+    11,
+    16,
+    21
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "The \"A\" of A/V",
+   "cells": [
+    2,
+    7,
+    12,
+    17,
+    22
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Drink noisily",
+   "cells": [
+    3,
+    8,
+    13,
+    18,
+    23
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Word after \"Going once, going twice ...\"",
+   "cells": [
+    4,
+    9,
+    14,
+    19
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Mutt's \"mitts\"",
+   "cells": [
+    5,
+    10,
+    15,
+    20
+   ]
+  }
+ ]
+}

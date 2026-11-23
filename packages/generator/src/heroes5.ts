@@ -624,6 +624,11 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-strands-hints-answers-december-4-2026-1006", "strands", "#0f2f3a", "#f9a8d4", "Strands #1006 · Fri., Dec. 4, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end.", "nyt-strands-december-4-a"],
   ["nyt-pips-hints-answers-december-4-2026", "pips", "#1e293b", "#93c5fd", "Pips · Fri., Dec. 4, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-december-4-a"],
   ["nyt-spelling-bee-hints-answers-december-4-2026", "bee", "#1c1917", "#fdba74", "Spelling Bee · Fri., Dec. 4, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end.", "nyt-bee-december-4-a"],
+  ["nyt-mini-crossword-answers-november-23-2026", "mini", "#0f1d2e", "#86efac", "NYT Mini · Mon., Nov. 23, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end.", "nyt-mini-november-23-a"],
+  ["nyt-midi-crossword-answers-november-23-2026", "midi", "#13213a", "#f9a8d4", "NYT Midi · Mon., Nov. 23, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end.", "nyt-midi-november-23-a"],
+  ["nyt-crossword-answers-november-23-2026", "crossword", "#172033", "#fde68a", "NYT Crossword · Mon., Nov. 23, 2026", "NYT Crossword answers", "A hint for every clue first, the full solved grid at the end.", "nyt-crossword-november-23-a"],
+  ["nyt-letter-boxed-answer-hints-november-26-2026", "letterboxed", "#3d1f1a", "#86efac", "Letter Boxed · Thu., Nov. 26, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-26-a"],
+  ["contexto-answer-hints-november-28-2026-1532", "contexto", "#0f172a", "#fde68a", "Contexto #1532 · Sat., Nov. 28, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-28-a"],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
