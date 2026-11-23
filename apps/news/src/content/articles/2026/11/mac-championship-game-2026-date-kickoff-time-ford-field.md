@@ -99,7 +99,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [sun-belt-championship-game-2026-date-kickoff-time-espn, college-football-conference-championship-games-2026-schedule-times-tv, big-12-championship-game-2026-friday-december-4-kickoff-time-abc]
+related: [sun-belt-championship-game-2026-date-kickoff-time-espn, college-football-conference-championship-games-2026-schedule-times-tv, american-conference-championship-game-2026-date-kickoff-time-abc]
 draft: false
 ---
 
