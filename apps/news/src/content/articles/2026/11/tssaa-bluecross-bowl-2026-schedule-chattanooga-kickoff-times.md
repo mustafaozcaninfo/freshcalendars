@@ -54,7 +54,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [high-school-football-state-championships-2026-dates-by-state, khsaa-state-football-finals-2026-kroger-field-schedule, ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium]
+related: [high-school-football-state-championships-2026-dates-by-state, schsl-football-state-championships-2026-sc-state-orangeburg, ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium]
 assets:
   overlay: true
   kicker: "BlueCross Bowl, Dec. 3-5, 2026"

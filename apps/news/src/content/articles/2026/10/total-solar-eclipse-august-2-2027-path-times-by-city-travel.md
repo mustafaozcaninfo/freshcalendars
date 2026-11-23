@@ -62,7 +62,7 @@ internalLinks:
     label: "August printable calendars"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [eclipses-2027-dates-times-total-solar-eclipse-august-2, next-solar-eclipse-in-the-us-after-2024-alaska-2033-total-2044-2045-dates, moon-phases-2027-full-moon-calendar]
+related: [eclipses-2027-dates-times-total-solar-eclipse-august-2, next-solar-eclipse-in-the-us-after-2024-alaska-2033-total-2044-2045-dates, august-2027-important-dates-holidays-days-until]
 assets:
   overlay: true
   kicker: "Total eclipse 2027"

@@ -135,7 +135,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/when-is/independence-day/"
     label: "When is Independence Day?"
-related: [june-2027-important-dates-holidays-days-until, july-4-2027-observed-monday-july-5-weekend-holidays, moon-phases-2027-full-moon-calendar]
+related: [june-2027-important-dates-holidays-days-until, july-4-2027-observed-monday-july-5-weekend-holidays, august-2027-important-dates-holidays-days-until]
 draft: false
 ---
 

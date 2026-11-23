@@ -99,7 +99,7 @@ internalLinks:
     label: "Printable monthly calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [march-2027-important-dates-holidays-days-until, easter-2027-march-28-good-friday-easter-monday-whats-open, clock-changes-2027-when-does-daylight-saving-time-start-again-march-14]
+related: [march-2027-important-dates-holidays-days-until, easter-2027-march-28-good-friday-easter-monday-whats-open, april-2027-calendar-printable]
 assets:
   overlay: true
   kicker: "March 2027 · 31 days, starts Monday"

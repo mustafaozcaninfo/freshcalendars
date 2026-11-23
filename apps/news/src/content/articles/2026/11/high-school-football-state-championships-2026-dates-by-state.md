@@ -101,7 +101,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28, khsaa-state-football-finals-2026-kroger-field-schedule, njsiaa-football-state-finals-2026-metlife-schedule]
+related: [ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28, khsaa-state-football-finals-2026-kroger-field-schedule, schsl-football-state-championships-2026-sc-state-orangeburg]
 assets:
   overlay: true
   kicker: "State title games · Nov. 21-Dec. 19"
@@ -164,7 +164,7 @@ Every row comes from the association's own page. Weekdays are computed from the 
 | Alabama | Alabama High School Athletic Association (AHSAA) | Wed.-Sat., Dec. 2-5 (Super 7 Finals) | Mobile; the page names no stadium |
 | Ohio | Ohio High School Athletic Association (OHSAA) | Thu.-Sat., Dec. 3-5 | Tom Benson Hall of Fame Stadium, Canton; see our [OHSAA football playoffs story](/news/ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton/) |
 | Tennessee | Tennessee Secondary School Athletic Association (TSSAA) | Thu.-Sat., Dec. 3-5 (BlueCross Bowl) | Finley Stadium, Chattanooga |
-| South Carolina | South Carolina High School League (SCHSL) | Fri.-Sat., Dec. 4-5 | South Carolina State University, Orangeburg |
+| South Carolina | South Carolina High School League (SCHSL) | Fri.-Sat., Dec. 4-5 | South Carolina State University, Orangeburg; see our [SCHSL finals kickoff times](/news/schsl-football-state-championships-2026-sc-state-orangeburg/) |
 | Pennsylvania | Pennsylvania Interscholastic Athletic Association (PIAA) | Thu.-Sat., Dec. 10-12 | Chapman Field, Cumberland Valley High School |
 | North Carolina | North Carolina High School Athletic Association (NCHSAA) | Thu.-Sat., Dec. 10-12 | Kenan Stadium, Chapel Hill; Helen & Leonard Moretz Stadium, Hickory; Barker-Lane Stadium, Buies Creek |
 | Louisiana | [Louisiana High School Athletic Association (LHSAA)](/news/lhsaa-prep-classic-2026-superdome-schedule-kickoff-times/) | Thu.-Sat., Dec. 10-12 (2026 Allstate Sugar Bowl LHSAA Prep Classic) | Caesars Superdome, New Orleans |
