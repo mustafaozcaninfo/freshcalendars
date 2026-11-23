@@ -1,0 +1,1130 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-23",
+ "constructors": [
+  "Dena Verkuil"
+ ],
+ "width": 15,
+ "height": 15,
+ "cells": [
+  "H",
+  "I",
+  "P",
+  "P",
+  "O",
+  null,
+  "I",
+  "L",
+  "L",
+  "S",
+  null,
+  "C",
+  "D",
+  "S",
+  null,
+  "I",
+  "M",
+  "E",
+  "A",
+  "N",
+  null,
+  "C",
+  "A",
+  "S",
+  "H",
+  "C",
+  "R",
+  "O",
+  "P",
+  null,
+  "T",
+  "U",
+  "R",
+  "N",
+  "E",
+  "R",
+  "A",
+  "N",
+  "D",
+  "H",
+  "O",
+  "O",
+  "C",
+  "H",
+  null,
+  "S",
+  "P",
+  "F",
+  null,
+  "D",
+  "U",
+  "N",
+  "E",
+  null,
+  null,
+  "N",
+  "A",
+  "K",
+  "E",
+  "D",
+  null,
+  null,
+  "E",
+  "G",
+  "G",
+  "S",
+  null,
+  null,
+  "P",
+  "A",
+  "C",
+  "K",
+  "E",
+  "R",
+  "S",
+  "S",
+  "E",
+  "C",
+  "R",
+  "E",
+  "T",
+  "S",
+  "A",
+  "U",
+  "C",
+  "E",
+  null,
+  "D",
+  "E",
+  "L",
+  "A",
+  "N",
+  "T",
+  "E",
+  null,
+  "S",
+  "U",
+  "M",
+  "M",
+  "E",
+  "R",
+  "S",
+  null,
+  null,
+  null,
+  "P",
+  "O",
+  "S",
+  "E",
+  "D",
+  null,
+  "I",
+  "B",
+  "M",
+  null,
+  "N",
+  "E",
+  "W",
+  "T",
+  "S",
+  null,
+  null,
+  null,
+  "T",
+  "E",
+  "S",
+  "T",
+  "I",
+  "E",
+  "R",
+  null,
+  "O",
+  "A",
+  "H",
+  "U",
+  "A",
+  "H",
+  "A",
+  null,
+  "B",
+  "E",
+  "E",
+  "T",
+  "L",
+  "E",
+  "J",
+  "U",
+  "I",
+  "C",
+  "E",
+  "R",
+  "E",
+  "S",
+  "C",
+  "U",
+  "E",
+  "S",
+  null,
+  null,
+  "C",
+  "U",
+  "L",
+  "T",
+  null,
+  null,
+  "M",
+  "A",
+  "S",
+  "O",
+  "N",
+  null,
+  null,
+  "T",
+  "E",
+  "A",
+  "T",
+  null,
+  "A",
+  "H",
+  "I",
+  null,
+  "P",
+  "I",
+  "C",
+  "K",
+  "Y",
+  "O",
+  "U",
+  "R",
+  "P",
+  "O",
+  "I",
+  "S",
+  "O",
+  "N",
+  null,
+  "E",
+  "G",
+  "O",
+  "S",
+  "U",
+  "R",
+  "F",
+  "S",
+  null,
+  "U",
+  "P",
+  "E",
+  "N",
+  "D",
+  null,
+  "D",
+  "N",
+  "A",
+  null,
+  "P",
+  "E",
+  "T",
+  "E",
+  null,
+  "T",
+  "A",
+  "C",
+  "K",
+  "Y"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "\"Hungry hungry\" animal in a kids' game",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Societal woes",
+   "cells": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Forerunners of MP3s",
+   "cells": [
+    11,
+    12,
+    13
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "13",
+   "text": "\"That is to say ...\"",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Corn or soybeans, for a farmer",
+   "cells": [
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "1989 buddy cop comedy starring Tom Hanks alongside Beasley the Dog",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "Beach lotion abbr.",
+   "cells": [
+    45,
+    46,
+    47
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Beach mound",
+   "cells": [
+    49,
+    50,
+    51,
+    52
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "In one's birthday suit",
+   "cells": [
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Omelet ingredients",
+   "cells": [
+    62,
+    63,
+    64,
+    65
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Football team with fans known as \"Cheeseheads\"",
+   "cells": [
+    68,
+    69,
+    70,
+    71,
+    72,
+    73,
+    74
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Elusive ingredient for success",
+   "cells": [
+    75,
+    76,
+    77,
+    78,
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "30",
+   "text": "State between N.J. and Md.",
+   "cells": [
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "31",
+   "text": "Price of a hand",
+   "cells": [
+    90,
+    91,
+    92,
+    93
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "32",
+   "text": "Goes to Montauk from Memorial Day to Labor Day, say",
+   "cells": [
+    95,
+    96,
+    97,
+    98,
+    99,
+    100,
+    101
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Not candid, as a photo",
+   "cells": [
+    105,
+    106,
+    107,
+    108,
+    109
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "36",
+   "text": "Co. that urges you to \"Think\"",
+   "cells": [
+    111,
+    112,
+    113
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "37",
+   "text": "Small salamanders",
+   "cells": [
+    115,
+    116,
+    117,
+    118,
+    119
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "41",
+   "text": "More easily irritated",
+   "cells": [
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "44",
+   "text": "Island that's home to a U.S. state capital",
+   "cells": [
+    131,
+    132,
+    133,
+    134
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "45",
+   "text": "\"I got it!\"",
+   "cells": [
+    135,
+    136,
+    137
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "48",
+   "text": "Titular role played by Michael Keaton in 1988 and 2024",
+   "cells": [
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145,
+    146,
+    147,
+    148,
+    149
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "50",
+   "text": "Adopts from a shelter, say",
+   "cells": [
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "52",
+   "text": "Word before classic or status",
+   "cells": [
+    159,
+    160,
+    161,
+    162
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "53",
+   "text": "___ jar",
+   "cells": [
+    165,
+    166,
+    167,
+    168,
+    169
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "54",
+   "text": "Milk source",
+   "cells": [
+    172,
+    173,
+    174,
+    175
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "56",
+   "text": "Fish found in Tahiti (in more ways than one!)",
+   "cells": [
+    177,
+    178,
+    179
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "59",
+   "text": "Words from a bartender … or a hint to the ends of 16-, 26- and 48-Across",
+   "cells": [
+    181,
+    182,
+    183,
+    184,
+    185,
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "63",
+   "text": "Googles oneself",
+   "cells": [
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "64",
+   "text": "Invert",
+   "cells": [
+    205,
+    206,
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "65",
+   "text": "Genetic ID",
+   "cells": [
+    211,
+    212,
+    213
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "66",
+   "text": "Politico Buttigieg",
+   "cells": [
+    215,
+    216,
+    217,
+    218
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "67",
+   "text": "Kitschy",
+   "cells": [
+    220,
+    221,
+    222,
+    223,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Doesn't miss",
+   "cells": [
+    0,
+    15,
+    30,
+    45
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Groggy response upon first getting out of bed",
+   "cells": [
+    1,
+    16,
+    31,
+    46
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Fine-tunes",
+   "cells": [
+    2,
+    17,
+    32,
+    47,
+    62,
+    77,
+    92,
+    107
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "It might be put on the back burner",
+   "cells": [
+    3,
+    18,
+    33
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Tightly wound",
+   "cells": [
+    4,
+    19,
+    34,
+    49,
+    64,
+    79
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "\"Not if ___ help it!\"",
+   "cells": [
+    6,
+    21,
+    36,
+    51
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Pool or car pool unit",
+   "cells": [
+    7,
+    22,
+    37,
+    52
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Drug big in the '60s",
+   "cells": [
+    8,
+    23,
+    38
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "[This is a library!]",
+   "cells": [
+    9,
+    24,
+    39
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Sound from a lily pad",
+   "cells": [
+    11,
+    26,
+    41,
+    56,
+    71
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Placed on a charging station",
+   "cells": [
+    12,
+    27,
+    42,
+    57,
+    72,
+    87
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Las Vegas venue shaped like a ball",
+   "cells": [
+    13,
+    28,
+    43,
+    58,
+    73,
+    88
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "15",
+   "text": "Worry",
+   "cells": [
+    25,
+    40,
+    55,
+    70,
+    85,
+    100,
+    115
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Shows age, as iron",
+   "cells": [
+    35,
+    50,
+    65,
+    80,
+    95
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "Dial-up upgrade, in brief",
+   "cells": [
+    59,
+    74,
+    89
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "Say hello to",
+   "cells": [
+    63,
+    78,
+    93,
+    108,
+    123
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Pound repeatedly",
+   "cells": [
+    68,
+    83,
+    98,
+    113,
+    128,
+    143
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Quickest point in tennis",
+   "cells": [
+    69,
+    84,
+    99
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "Drain, as of energy",
+   "cells": [
+    75,
+    90,
+    105
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "\"Music for Airports\" composer Brian",
+   "cells": [
+    76,
+    91,
+    106
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "Some hotel upgrades",
+   "cells": [
+    81,
+    96,
+    111,
+    126,
+    141,
+    156
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "29",
+   "text": "Extent",
+   "cells": [
+    82,
+    97,
+    112,
+    127,
+    142
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "33",
+   "text": "K-pop hub",
+   "cells": [
+    101,
+    116,
+    131,
+    146,
+    161
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "35",
+   "text": "Busts, as a myth",
+   "cells": [
+    109,
+    124,
+    139,
+    154,
+    169,
+    184,
+    199
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "38",
+   "text": "\"Hang on there … not so fast!\"",
+   "cells": [
+    117,
+    132,
+    147,
+    162,
+    177,
+    192,
+    207,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "39",
+   "text": "What makes pot potent, for short",
+   "cells": [
+    118,
+    133,
+    148
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "40",
+   "text": "Basketball star Bird",
+   "cells": [
+    119,
+    134,
+    149
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "42",
+   "text": "Date",
+   "cells": [
+    125,
+    140,
+    155
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "43",
+   "text": "\"Previously on ...\" clip",
+   "cells": [
+    129,
+    144,
+    159,
+    174,
+    189
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "45",
+   "text": "Starfish's regenerable feature",
+   "cells": [
+    135,
+    150,
+    165
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "46",
+   "text": "Piled up",
+   "cells": [
+    136,
+    151,
+    166,
+    181,
+    196,
+    211
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "47",
+   "text": "Delegate, as tasks",
+   "cells": [
+    137,
+    152,
+    167,
+    182,
+    197,
+    212
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "49",
+   "text": "Protrude",
+   "cells": [
+    145,
+    160,
+    175,
+    190,
+    205,
+    220
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "51",
+   "text": "Drink often served with marshmallows",
+   "cells": [
+    153,
+    168,
+    183,
+    198,
+    213
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "54",
+   "text": "Pompom, e.g.",
+   "cells": [
+    172,
+    187,
+    202,
+    217
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "55",
+   "text": "Gaelic tongue",
+   "cells": [
+    173,
+    188,
+    203,
+    218
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "57",
+   "text": "What an aggressive driver might do",
+   "cells": [
+    178,
+    193,
+    208,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "58",
+   "text": "___ 500 (event on Memorial Day weekend)",
+   "cells": [
+    179,
+    194,
+    209,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "60",
+   "text": "\"Uh-huh, that's right\"",
+   "cells": [
+    185,
+    200,
+    215
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "61",
+   "text": "Get a lode of this!",
+   "cells": [
+    186,
+    201,
+    216
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "62",
+   "text": "Hoppy brew, in brief",
+   "cells": [
+    191,
+    206,
+    221
+   ]
+  }
+ ]
+}
