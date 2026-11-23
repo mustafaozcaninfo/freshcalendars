@@ -35,6 +35,17 @@ PRINT = {
     'sunrise-alarm-clocks': ('https://freshcalendars.com/when-is/daylight-savings/', 'Mornings shift twice a year: see {a}when daylight saving time starts and ends</a>.'),
     'alarm-clocks': ('https://freshcalendars.com/when-is/daylight-savings/', 'Clocks change twice a year: see {a}when daylight saving time starts and ends</a>.'),
     'wall-clocks': ('https://freshcalendars.com/when-is/daylight-savings/', 'Clocks change twice a year: see {a}when daylight saving time starts and ends</a>.'),
+    # Christmas and themed calendars test families (Nov. 23, 2026)
+    'stocking-stuffers': ('https://freshcalendars.com/december-calendars.html', 'Print a free {a}December calendar</a> to plan the days left before Christmas morning.'),
+    'christmas-craft-kits': ('https://freshcalendars.com/december-calendars.html', 'A free {a}December calendar</a> helps spread the projects over the weeks before Christmas.'),
+    'elf-kits': ('https://freshcalendars.com/december-calendars.html', 'Print a free {a}December calendar</a> and write one idea on each night up to December 24.'),
+    'christmas-eve-boxes': ('https://freshcalendars.com/when-is/christmas-eve/', 'See {a}when Christmas Eve falls</a> this year and the years after.'),
+    'dog-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> shows the same twelve months on one sheet.'),
+    'cat-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> shows the same twelve months on one sheet.'),
+    'nature-and-national-park-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> shows the same twelve months on one sheet.'),
+    'art-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> shows the same twelve months on one sheet.'),
+    'funny-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> shows the same twelve months on one sheet.'),
+    'car-and-truck-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> shows the same twelve months on one sheet.'),
     'greeting-card-organizers': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}yearly calendar</a> on the wall keeps the same birthdays in view.'),
 }
 
