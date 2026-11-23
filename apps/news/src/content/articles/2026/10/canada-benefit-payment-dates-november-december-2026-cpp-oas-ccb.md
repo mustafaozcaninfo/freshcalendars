@@ -95,7 +95,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/canada-holidays/"
     label: "Canada holidays calendar"
-related: [ontario-trillium-benefit-november-2026-payment-date-otb, alberta-child-and-family-benefit-november-2026-payment-date, canada-statutory-holidays-2027-federal-general-holidays]
+related: [ontario-trillium-benefit-november-2026-payment-date-otb, canada-benefit-payment-dates-january-february-2027, canada-statutory-holidays-2027-federal-general-holidays]
 draft: false
 downloads:
   - group: "Canada Benefit Payment Dates printables"

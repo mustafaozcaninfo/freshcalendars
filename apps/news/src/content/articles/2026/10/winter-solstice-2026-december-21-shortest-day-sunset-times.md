@@ -72,7 +72,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [yalda-night-2026-december-21-date-solstice-time, stonehenge-winter-solstice-2026-december-22-free-access, national-days-this-week-december-21-27-2026]
+related: [yalda-night-2026-december-21-date-solstice-time, festivus-2026-december-23, national-days-this-week-december-21-27-2026]
 downloads:
   - group: "Winter Solstice 2026 printables"
     title: "Winter Solstice 2026: Key Dates and Dec. 21 Sunset Times"
