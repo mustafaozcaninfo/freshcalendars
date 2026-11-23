@@ -46,6 +46,15 @@ footer button.w-full.bg-skin-button-accent{background-image:none!important;backg
 footer button.w-full.bg-skin-button-accent:hover{background-color:#00663c!important}
 /* Printable-calendar band links in the brand accent */
 .fcb__links a{color:#007b48!important;font-weight:600!important}
+/* On hover and keyboard focus the pill turns green, so its text must turn white (the rule above kept it green on green) */
+.fcb__links a:hover,.fcb__links a:focus-visible{color:#fff!important;background:#007b48!important;border-color:#007b48!important}
+/* Dark theme: the printable-calendar band was a pale green slab on a dark page; same block in dark greens */
+body.cr-prism--dark .fcb{background:#12261d!important;border-color:#24503d!important}
+body.cr-prism--dark .fcb__eyebrow{color:#6fd3a4!important}
+body.cr-prism--dark .fcb__title{color:#eef5f1!important}
+body.cr-prism--dark .fcb__text{color:#c2d1c9!important}
+body.cr-prism--dark .fcb__links a{background:#0d1a14!important;border-color:#2f6b52!important;color:#8be0b6!important}
+body.cr-prism--dark .fcb__links a:hover,body.cr-prism--dark .fcb__links a:focus-visible{background:#007b48!important;border-color:#007b48!important;color:#fff!important}
 /* One focus style everywhere */
 a:focus-visible,button:focus-visible,select:focus-visible,[role=button]:focus-visible{outline:2px solid #007b48;outline-offset:2px}
 /* "Click for Price" text above WCAG AA */

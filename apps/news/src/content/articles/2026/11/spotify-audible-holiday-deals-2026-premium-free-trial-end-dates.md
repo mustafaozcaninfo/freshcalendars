@@ -90,7 +90,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [cyber-monday-2026-date-sale-start-times-by-store, nfl-sunday-ticket-deal-2026-48-dollars-ends-november-30, new-on-disney-plus-december-2026-release-dates]
+related: [cyber-monday-2026-date-sale-start-times-by-store, nfl-sunday-ticket-deal-2026-48-dollars-ends-november-30, streaming-black-friday-2026-deals-paramount-plus-hbo-max-peacock]
 downloads:
   - group: "Spotify printables"
     title: "Spotify, Audible and Music Streaming Deals 2026: End Dates"
