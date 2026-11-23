@@ -25,7 +25,7 @@ assets:
     data:
       day: { date: "2026-12-04", name: "First night of Hanukkah 2026", src: 2, quote: "Chanukah begins Friday evening, Dec. 4, 2026 and continues through Saturday, December 12, 2026." }
       facts:
-        - { text: "Start: the currency is divided equally among all players, and everyone puts one unit (penny, nut, etc.) into the pot.", src: 1, quote: "Everyone puts one unit of the currency (penny, nut, etc.) into the pot." }
+        - { text: "Everyone puts one unit of the currency (a penny, a nut, etc.) into the pot after the currency is divided equally among all players.", src: 1, quote: "Everyone puts one unit of the currency (penny, nut, etc.) into the pot." }
         - { text: "After a gimel, everyone, including the spinner, puts another unit into the pot, and the player to the left spins.", src: 1, quote: "Everyone, including you, now puts another unit into the pot, and the person to your left tries his luck at spinning." }
         - { text: "The game ends when there is one player left.", src: 1, quote: "The game ends when there is one player left." }
         - { text: "The letters stand for nes gadol hayah sham, a great miracle happened there.", src: 1, quote: "nes gadol hayah sham" }
