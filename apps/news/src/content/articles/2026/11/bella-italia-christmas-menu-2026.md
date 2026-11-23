@@ -95,7 +95,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, pizza-express-christmas-menu-2026, zizzi-christmas-menu-2026]
+related: [ask-italian-christmas-menu-2026, pizza-express-christmas-menu-2026, zizzi-christmas-menu-2026]
 downloads:
   - group: "Bella Italia Christmas Menu 2026 printables"
     title: "Bella Italia Christmas Menu 2026: Dates and Prices Card"
