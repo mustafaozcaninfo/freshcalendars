@@ -991,8 +991,8 @@ export function siteHeaderHtml(today: Date = new Date(), opts: ChromeOpts = {}):
       </div></details>
       <a href="/calendar-tools/" title="Date calculators and calendar tools">Tools</a>${newsNavLink(opts)}
       <a href="/news/printables/" title="Free printable templates"${opts.current === "printables" ? ' aria-current="page"' : ""}>Printables</a>
-      <a href="${SHOP_URL}" title="Planners, journals and supplies from the Fresh Calendars Shop">Shop</a>
       <a href="/page/about/" title="About Fresh Calendars">About</a>
+      <a class="nav-shop" href="${SHOP_URL}" title="Planners, journals and supplies from the Fresh Calendars Shop"><svg viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M6 8h12l1 12H5L6 8z"/><path d="M9 8V7a3 3 0 0 1 6 0v1"/></svg>Shop</a>
     </nav>
   </details>
   ${siteSearchHtml(today)}

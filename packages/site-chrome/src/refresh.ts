@@ -46,6 +46,10 @@ h1,.section h2,.section h3,.gallery-copy h3,.showcase-card h3{font-family:var(--
 .nav a[aria-current=page]{color:var(--ink-strong); box-shadow:none; background:var(--surface-soft); border-radius:var(--r-sm)}
 .nav-panel a{border-radius:var(--r-sm); color:var(--ink)}
 .nav a:hover,.nav a:focus-visible,.nav-panel a:hover{background:var(--surface-soft); color:var(--ink-strong)}
+/* The shop is the one menu item that leaves the site and sells: a tinted pill with a bag, last in the row. */
+.nav>a.nav-shop{display:inline-flex; align-items:center; gap:7px; color:var(--focus); background:var(--surface-tint); border:1px solid color-mix(in srgb,var(--focus) 38%,transparent); border-radius:999px; font-weight:700}
+.nav>a.nav-shop svg{flex:none}
+.nav>a.nav-shop:hover,.nav>a.nav-shop:focus-visible{background:var(--focus); color:var(--paper); border-color:var(--focus)}
 .nav-toggle{border:1px solid var(--line); border-radius:var(--r-md); font-weight:600; font-size:14px; background:var(--paper); box-shadow:var(--shadow-xs)}
 .nav-toggle-bars i{height:1.5px}
 .nav{border-radius:var(--r-lg); border-color:var(--line); box-shadow:var(--shadow-lg); padding:8px}
@@ -66,6 +70,8 @@ h1,.section h2,.section h3,.gallery-copy h3,.showcase-card h3{font-family:var(--
   .nav-drawer>.nav,.nav-drawer[open]>.nav{gap:2px}
   .nav>a,.nav-group>summary{padding:8px 11px; min-height:36px; color:var(--ink)}
   .nav>a:hover,.nav>a:focus-visible,.nav-group>summary:hover{background:var(--surface-soft); color:var(--ink-strong)}
+  .nav>a.nav-shop{margin-left:8px; padding:6px 14px 6px 12px; min-height:34px; color:var(--focus)}
+  .nav>a.nav-shop:hover,.nav>a.nav-shop:focus-visible{background:var(--focus); color:var(--paper)}
   .nav-panel{top:calc(100% + 10px); min-width:280px; padding:8px; border-radius:var(--r-lg); border-color:var(--line); box-shadow:var(--shadow-lg)}
   .nav-panel a{padding:9px 12px; font-weight:400}
   .nav-panel a:hover{background:var(--surface-soft); color:var(--ink-strong)}
