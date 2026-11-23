@@ -3,7 +3,7 @@ title: "School Christmas Holidays 2026: Break-Up Dec. 18 by Council"
 description: "School Christmas holidays 2026 start after Friday 18 December for most councils; most return 4 January 2027, Edinburgh 6 January. Weekdays off by council."
 type: explainer
 publishedAt: "2026-11-06T06:37:00-05:00"
-updatedAt: "2026-11-06T06:37:00-05:00"
+updatedAt: "2026-11-23T01:33:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["when do schools break up for christmas 2026", "school christmas holidays 2026", "christmas holidays 2026 uk schools", "when do schools go back after christmas 2027"]
@@ -22,13 +22,13 @@ hero:
 summary:
   - "The City of Edinburgh Council ends term on Friday 18 December 2026 and starts the spring term on Wednesday 6 January 2027."
   - "The Welsh Government lists 21 of 22 local authorities ending term on Friday 18 December and returning on Monday 4 January 2027; Powys ends on Tuesday 22 December."
-  - "Essex, Bristol, Surrey, Devon, Lancashire, Hertfordshire and Bournemouth, Christchurch and Poole (BCP) Council all end term on 18 December 2026; every one of them that states a return date gives 4 January 2027."
+  - "Essex, Bristol, Surrey, Devon, Lancashire, Leeds, Hertfordshire and Bournemouth, Christchurch and Poole (BCP) Council all end term on 18 December 2026; every one of them that states a return date gives 4 January 2027."
   - "Our count of weekdays off: 10 for most councils, 12 in Edinburgh and 8 in Powys, with bank holidays inside each break."
 faq:
   - q: "When do schools break up for Christmas 2026?"
-    a: "Edinburgh, 21 of the 22 Welsh local authorities and the seven English councils in the table below end the autumn term on Friday 18 December 2026. Powys ends on Tuesday 22 December 2026."
+    a: "Edinburgh, 21 of the 22 Welsh local authorities and the eight English councils in the table below end the autumn term on Friday 18 December 2026. Powys ends on Tuesday 22 December 2026."
   - q: "When do schools go back after Christmas in 2027?"
-    a: "Councils in Wales, and Essex, Bristol, Surrey, Devon, Lancashire and Bournemouth, Christchurch and Poole (BCP) Council in England, list Monday 4 January 2027. The City of Edinburgh Council lists Wednesday 6 January 2027."
+    a: "Councils in Wales, and Essex, Bristol, Surrey, Devon, Lancashire, Leeds and Bournemouth, Christchurch and Poole (BCP) Council in England, list Monday 4 January 2027. The City of Edinburgh Council lists Wednesday 6 January 2027."
   - q: "Do academies follow the council's term dates?"
     a: "Not always. Devon says academies and free schools are not bound by its dates, and Hertfordshire says academies, voluntary-aided, foundation and free schools may have different dates. Check your school."
   - q: "Is 4 January 2027 a bank holiday?"
@@ -72,6 +72,9 @@ sources:
   - title: "UK bank holidays"
     url: "https://www.gov.uk/bank-holidays"
     publisher: "GOV.UK"
+  - title: "School holidays and term dates"
+    url: "https://www.leeds.gov.uk/schools-and-education/school-holidays-and-term-dates"
+    publisher: "Leeds City Council"
 downloads:
   - group: "School Christmas Holidays 2026 printables"
     title: "School Christmas Holidays 2026: Break-Up and Return Dates"
@@ -109,26 +112,26 @@ assets:
     group: uk-school-christmas-2026
     title: "School Christmas Holidays 2026: Break-Up and Return Dates"
     subtitle: "Last day of term, bank holidays and first day back, Dec. 2026 to Jan. 2027"
-    note: "Source: City of Edinburgh Council, Welsh Government, Essex County Council, Devon County Council and GOV.UK bank holidays. Other councils and academies may differ; check your school."
+    note: "Source: City of Edinburgh Council, Welsh Government, Essex County Council, Devon County Council, Leeds City Council and GOV.UK bank holidays. Other councils and academies may differ; check your school."
     description: "One-page list of the dates schools break up for Christmas 2026, the bank holidays in the break and the first day back in January 2027."
     alt: "Printable list of school Christmas holiday dates from 18 December 2026 to 6 January 2027, with bank holidays"
     data:
       target: { date: "2027-01-06", label: "Edinburgh schools return" }
       columns: ["What happens", "Council"]
       rows:
-        - { date: "2026-12-18", cells: { "What happens": "Last day of autumn term", "Council": "Edinburgh, Wales (not Powys), Essex, Devon" }, src: 3, quote: "Autumn Term: Tuesday 1 September 2026 – Friday 18 December 2026" }
+        - { date: "2026-12-18", cells: { "What happens": "Last day of autumn term", "Council": "Edinburgh, Wales (not Powys), Essex, Leeds, Devon" }, src: 3, quote: "Autumn Term: Tuesday 1 September 2026 – Friday 18 December 2026" }
         - { date: "2026-12-21", cells: { "What happens": "Christmas break starts", "Council": "Devon" }, src: 6, quote: "Monday 21 December 2026 to Friday 1 January 2027" }
         - { date: "2026-12-22", cells: { "What happens": "Last day of autumn term", "Council": "Powys" }, src: 2, quote: "Tuesday 22 December 2026" }
         - { date: "2026-12-25", cells: { "What happens": "Christmas Day, bank holiday", "Council": "England, Wales, Scotland" }, src: 11, quote: "Friday 25 December 2026 Christmas Day" }
         - { date: "2026-12-28", cells: { "What happens": "Boxing Day substitute bank holiday", "Council": "England, Wales, Scotland" }, src: 11, quote: "Monday 28 December 2026 Boxing Day (substitute day)" }
         - { date: "2027-01-01", cells: { "What happens": "New Year's Day, bank holiday", "Council": "England, Wales, Scotland" }, src: 11, quote: "Friday 1 January 2027 New Year's Day" }
-        - { date: "2027-01-04", cells: { "What happens": "First day back; Scotland 2nd January substitute bank holiday", "Council": "Wales, Essex, Devon; bank holiday Scotland" }, src: 3, quote: "Spring Term: Monday 4 January 2027 – Thursday 25 March 2027" }
+        - { date: "2027-01-04", cells: { "What happens": "First day back; Scotland 2nd January substitute bank holiday", "Council": "Wales, Essex, Leeds, Devon; bank holiday Scotland" }, src: 3, quote: "Spring Term: Monday 4 January 2027 – Thursday 25 March 2027" }
         - { date: "2027-01-06", cells: { "What happens": "Spring term starts", "Council": "Edinburgh" }, src: 1, quote: "Spring Term starts Wednesday 6 January 2027" }
       unconfirmed:
         - { label: "Other councils and academies", why: "Not covered; check your council or school" }
 ---
 
-**The City of Edinburgh Council ends term on Friday 18 December 2026 and starts the spring term on Wednesday 6 January 2027, while the Welsh Government lists 21 of 22 local authorities ending on 18 December and returning on Monday 4 January 2027.** Seven English councils (Essex, Bristol, Surrey, Devon, Lancashire, Hertfordshire and Bournemouth, Christchurch and Poole (BCP) Council) also end term on 18 December. The table below gives each council's dates, a computed count of weekdays off and the source wording, and a printable at the end lists the dates to mark.
+**The City of Edinburgh Council ends term on Friday 18 December 2026 and starts the spring term on Wednesday 6 January 2027, while the Welsh Government lists 21 of 22 local authorities ending on 18 December and returning on Monday 4 January 2027.** Eight English councils (Essex, Bristol, Surrey, Devon, Lancashire, Leeds, Hertfordshire and Bournemouth, Christchurch and Poole (BCP) Council) also end term on 18 December. The table below gives each council's dates, a computed count of weekdays off and the source wording, and a printable at the end lists the dates to mark.
 
 ## Christmas holiday dates 2026 by council
 
@@ -144,6 +147,7 @@ The weekday count is our computation: Monday to Friday between the last day of t
 | Surrey County Council | England | Fri 18 December 2026 | Mon 4 January 2027 | 10 | Autumn ends 18 December 2026; spring starts 4 January 2027 |
 | Devon County Council | England | Fri 18 December 2026 | Mon 4 January 2027 | 10 | "Ends: Friday 18 December 2026"; Christmas "Monday 21 December 2026 to Friday 1 January 2027" |
 | Lancashire County Council | England | Fri 18 December 2026 | Mon 4 January 2027 | 10 | Autumn ends Friday 18 December 2026; spring Monday 4 January 2027 |
+| Leeds City Council | England | Fri 18 December 2026 | Mon 4 January 2027 | 10 | Autumn term (second half) ends "Friday 18 December"; Christmas holiday "Monday 21 December" to "Friday 1 January"; spring term starts "Monday 4 January" |
 | Hertfordshire County Council | England | Fri 18 December 2026 | Not stated on the council page | Not stated | "Christmas holiday: 21 December 2026 – 1 January 2027" |
 | BCP Council (Bournemouth, Christchurch and Poole) | England | Fri 18 December 2026 | Mon 4 January 2027 | 10 | Christmas holiday 21 December to 3 January; spring term 4 January |
 | Northern Ireland Department of Education | Northern Ireland | Not stated | Not stated | 10 inside the break | Christmas and New Year "21 December 2026 to 1 January 2027" |
@@ -152,7 +156,7 @@ The 21 Welsh authorities that share the 18 December and 4 January dates are Angl
 
 ## Why do Edinburgh pupils get two more days off?
 
-Edinburgh returns on Wednesday 6 January 2027, two days after the Monday 4 January start that Wales, Essex, Bristol, Surrey, Devon, Lancashire and BCP Council list. By our count that gives Edinburgh pupils 12 weekdays off against 10. Powys goes the other way: it ends term on Tuesday 22 December, three days after the 18 December finish elsewhere in Wales, so its break is 8 weekdays.
+Edinburgh returns on Wednesday 6 January 2027, two days after the Monday 4 January start that Wales, Essex, Bristol, Surrey, Devon, Lancashire, Leeds and BCP Council list. By our count that gives Edinburgh pupils 12 weekdays off against 10. Powys goes the other way: it ends term on Tuesday 22 December, three days after the 18 December finish elsewhere in Wales, so its break is 8 weekdays.
 
 ## Which bank holidays fall inside the school break?
 
@@ -162,7 +166,7 @@ GOV.UK lists Christmas Day on Friday 25 December 2026, a Boxing Day substitute d
 
 No. Devon calls its dates "recommended, not mandatory" and says academies and free schools are not bound by them. Hertfordshire says academies, voluntary-aided, foundation and free schools "may have different dates". Lancashire says "Individual school holidays may vary from this framework", and BCP Council says "Schools can decide to operate different term dates." Surrey says schools set their own In-Service Training (INSET) days, so a school may close or open on a day that differs from the council page.
 
-For Northern Ireland, the Department of Education lists the Christmas and New Year holidays as 21 December 2026 to 1 January 2027. It does not give the last day of term or the first day back on that page. Dates for Glasgow, Kent, Birmingham, Hampshire, Manchester, Fife, Aberdeen, Leeds, Norfolk, Nottinghamshire, Cornwall and Westminster are not given here; check each council's own term-dates page.
+For Northern Ireland, the Department of Education lists the Christmas and New Year holidays as 21 December 2026 to 1 January 2027. It does not give the last day of term or the first day back on that page. Dates for Glasgow, Kent, Birmingham, Hampshire, Manchester, Fife, Aberdeen, Norfolk, Nottinghamshire, Cornwall and Westminster are not given here; check each council's own term-dates page.
 
 ## What comes after the Christmas break?
 
