@@ -81,7 +81,7 @@ internalLinks:
     label: "When is daylight saving time?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, canada-statutory-holidays-2027-federal-general-holidays]
+related: [remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, vanier-cup-2026-date-kickoff-time-tv-quebec-city, canada-statutory-holidays-2027-federal-general-holidays]
 assets:
   overlay: true
   kicker: "Grey Cup 2026 · Sun., Nov. 15"

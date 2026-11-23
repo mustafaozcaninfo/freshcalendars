@@ -91,7 +91,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [planets-visible-january-2027-night-sky-calendar, planets-2027-calendar-jupiter-mars-opposition-saturn-venus-elongation-dates, moon-phases-2027-full-moon-calendar]
+related: [planets-visible-march-2027-night-sky-calendar, planets-2027-calendar-jupiter-mars-opposition-saturn-venus-elongation-dates, moon-phases-2027-full-moon-calendar]
 downloads:
   - group: "February 2027 Night Sky Sheet printables"
     title: "February 2027 Night Sky Sheet: Full Moon Feb. 20"
