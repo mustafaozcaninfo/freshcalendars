@@ -82,7 +82,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [nfl-week-13-schedule-2026-printable-pick-em-sheet-game-times, cyber-monday-2026-date-sale-start-times-by-store, printable-nfl-pickem-sheets-2026]
+related: [nfl-week-13-schedule-2026-printable-pick-em-sheet-game-times, cyber-monday-2026-date-sale-start-times-by-store, streaming-black-friday-2026-deals-paramount-plus-hbo-max-peacock]
 downloads:
   - group: "NFL Sunday Ticket Deal 2026 printables"
     title: "NFL Sunday Ticket Deal 2026: Sale Ends and Sundays Left"
