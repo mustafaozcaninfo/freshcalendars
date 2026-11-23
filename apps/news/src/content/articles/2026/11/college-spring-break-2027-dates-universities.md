@@ -1,6 +1,6 @@
 ---
-title: "College Spring Break 2027: Dates for 37 Universities, Feb. 27-Apr. 4"
-description: "College spring break 2027 runs Feb. 27 to Apr. 4 at 37 universities; 16 are off Mar. 15-19. A table of each school's dates and first day back."
+title: "College Spring Break 2027: Most Schools Off Mar. 8-12 or Mar. 15-19"
+description: "College spring break 2027: 31 of 37 universities are off the week of Mar. 8-12 or Mar. 15-19. Each school's dates, first day back and a printable table."
 type: news
 publishedAt: "2026-11-04T13:00:41-05:00"
 updatedAt: "2026-11-04T13:00:41-05:00"
@@ -274,7 +274,7 @@ assets:
         - { label: "Princeton, Columbia, Brown, Northwestern, Miami, Northeastern, Syracuse, Clemson, Baylor, Oklahoma, Missouri, Brigham Young, Auburn, Texas A&M, Michigan, Michigan State, Purdue, Central Florida, New York University, Texas Tech", why: "Dates not confirmed on the registrar pages we checked Nov. 4, 2026" }
 ---
 
-**College spring break 2027 falls between Saturday, Feb. 27 and Sunday, Apr. 4 at 37 universities, and 16 of them are off the week of Mar. 15-19, according to each school's registrar calendar for 2026-27.** We checked the pages on Nov. 4, 2026. The table below gives every break as the school lists it, the weekdays off and the first weekday back, and the week-by-week grouping shows which schools share a week. Families with children in kindergarten through 12th grade (K-12) can compare with our [spring break 2027 story for 19 large school districts](/news/spring-break-2027-dates-school-districts/).
+**Most college spring breaks in 2027 fall in one of two weeks: 16 of the 37 universities we checked are off Mar. 15-19 and 15 are off Mar. 8-12, according to each school's registrar calendar for 2026-27; the full range runs from Saturday, Feb. 27 to Sunday, Apr. 4.** We checked the pages on Nov. 4, 2026. The table below gives every break as the school lists it, the weekdays off and the first weekday back, and the week-by-week grouping shows which schools share a week. Families with children in kindergarten through 12th grade (K-12) can compare with our [spring break 2027 story for 19 large school districts](/news/spring-break-2027-dates-school-districts/).
 
 ## Which week is spring break 2027 at most universities?
 
