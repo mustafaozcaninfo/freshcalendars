@@ -126,7 +126,7 @@ internalLinks:
     label: "When is Black Friday 2026?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [six-flags-holiday-in-the-park-2026-dates-by-park, cruise-black-friday-2026-princess-cunard-royal-caribbean-dates, seaworld-black-friday-2026-annual-pass-prices-busch-gardens]
+related: [seaworld-black-friday-2026-annual-pass-prices-busch-gardens, cruise-black-friday-2026-princess-cunard-royal-caribbean-dates, legoland-black-friday-2026-annual-pass-sale-ends-november-29]
 downloads:
   - group: "Six Flags Black Friday 2026 Silver Pass Prices by Park printables"
     title: "Six Flags Black Friday 2026 Silver Pass Prices by Park"
