@@ -96,7 +96,7 @@ internalLinks:
     label: "When is New Year's Eve"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [christmas-2026-calendar-printable-countdown, hanukkah-2026-dates-calendar, ugly-christmas-sweater-day-2026]
+related: [hanukkah-2026-dates-calendar, ugly-christmas-sweater-day-2026, advent-of-code-2026-start-time-puzzle-unlock-time-zones]
 downloads:
   - group: "December 2026 calendar templates"
     title: "December 2026 Calendar With Holidays"
