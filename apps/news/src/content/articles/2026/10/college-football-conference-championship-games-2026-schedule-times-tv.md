@@ -167,7 +167,7 @@ Times are Eastern Time. Where a conference gave its time in another zone, that t
 | Sat., Dec. 5 | Atlantic Coast Conference (ACC) | Noon | ABC | Bank of America Stadium, Charlotte | Confirmed |
 | Sat., Dec. 5 | Mid-American Conference (MAC) | Noon | ESPN | Ford Field, Detroit | Reported |
 | Sat., Dec. 5 | Southeastern Conference (SEC) | 4 p.m. | ABC | Mercedes-Benz Stadium, Atlanta (last SEC title game) | Confirmed |
-| Sat., Dec. 5 | American | 8 p.m. | ABC | Not named in the release | Confirmed |
+| Sat., Dec. 5 | [American](/news/american-conference-championship-game-2026-date-kickoff-time-abc/) | 8 p.m. | ABC | Not named in the release | Confirmed |
 | Sat., Dec. 5 | Big Ten | 8 p.m. | FOX | Lucas Oil Stadium, Indianapolis | Reported |
 
 Notes on the sources: the Big 12, Pac-12, American and Sun Belt releases are all dated May 27, 2026. ESPN Press Room lists the SEC game at 4 p.m. on ABC (June 10, 2026), and NCAA.com reported the SEC details on June 1, 2026. WAFB and Saturday Down South reported on Nov. 9, 2026 that the SEC announced the 2026 game will be its last; no replacement event was named. FBSchedules reported the Big Ten and Mountain West games. The ACC announced in a release titled "2026 ACC Football Championship Game to kick off at noon ET on ABC" on Jan. 26, 2026, which makes the ACC row confirmed; the MAC time comes from school releases on May 27, 2026, per FBSchedules. FBSchedules (May 27, 2026) reports the Conference USA game on CBS Sports Network at 7 p.m. ET.
