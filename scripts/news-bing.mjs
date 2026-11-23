@@ -60,6 +60,32 @@ export function report({ now, site, daily, queries, pages, crawl, failed }) {
   return out.join("\n");
 }
 
+/** The shop's report: pages in Bing's index and crawl results by day, then clicks, pages and queries. */
+export function shopReport({ now, site, crawl, daily, pages, queries, failed }) {
+  const out = ["# Bing Webmaster Tools, shop (generated, do not edit)", "",
+    `Read ${now.toISOString().slice(0, 16).replace("T", " ")} UTC for ${site}. "In index" is the number of the shop's pages Bing holds; ChatGPT search takes its sources from Bing. Bing's data lags a few days. Source: \`scripts/news-bing.mjs\`, daily.`, ""];
+  if (failed.length) out.push(`Problems: ${failed.join("; ")}`, "");
+  out.push("## Pages in Bing's index and crawl, last 14 days", "");
+  if (crawl?.length) {
+    out.push("| Day | In index | Crawled | 2xx | 301 | 4xx | 5xx | Blocked by robots.txt |", "|---|---:|---:|---:|---:|---:|---:|---:|");
+    for (const c of crawl.slice(-14)) out.push(`| ${bingDay(c.Date)} | ${c.InIndex ?? ""} | ${c.CrawledPages ?? ""} | ${c.Code2xx ?? ""} | ${c.Code301 ?? ""} | ${c.Code4xx ?? ""} | ${c.Code5xx ?? ""} | ${c.BlockedByRobotsTxt ?? ""} |`);
+  } else out.push("No crawl data.");
+  out.push("", "## Clicks and impressions, last 14 days", "");
+  if (daily?.length) {
+    out.push("| Day | Clicks | Impressions |", "|---|---:|---:|");
+    for (const d of daily.slice(-14)) out.push(`| ${bingDay(d.Date)} | ${d.Clicks ?? 0} | ${d.Impressions ?? 0} |`);
+  } else out.push("No traffic data.");
+  const top = (rows, title, n) => {
+    out.push("", `## ${title}`, "");
+    if (!rows?.length) { out.push("No data."); return; }
+    out.push("| Key | Clicks | Impressions | Position |", "|---|---:|---:|---:|");
+    for (const r of rows.slice(0, n)) out.push(`| ${String(r.key).replace(/\|/g, "/")} | ${r.clicks} | ${r.impressions} | ${r.impressions ? Math.round((r.posW / r.impressions) * 10) / 10 : ""} |`);
+  };
+  top(pages, "Top pages, last 28 days", 40);
+  top(queries, "Top queries, last 28 days", 40);
+  return out.join("\n");
+}
+
 if (import.meta.url === `file://${process.argv[1]}`) {
   const key = process.env.BING_API;
   if (!key) { console.log("bing: BING_API not set; no Bing report"); process.exit(0); }
@@ -73,9 +99,13 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   };
   const now = new Date();
   let site = "";
+  let shopSite = "";
   try {
     const sites = await call("GetUserSites");
-    site = sites.map((s) => s.Url ?? s.url).find((u) => /freshcalendars\.com/.test(u ?? "")) ?? "";
+    const urls = sites.map((s) => s.Url ?? s.url ?? "");
+    // The shop is its own verified site; the main report must not pick it up by accident.
+    site = urls.find((u) => /freshcalendars\.com/.test(u) && !/shop\.freshcalendars\.com/.test(u)) ?? "";
+    shopSite = urls.find((u) => /shop\.freshcalendars\.com/.test(u)) ?? "";
     if (!site) failed.push(`no freshcalendars.com site among ${sites.length} verified sites`);
   } catch (e) { failed.push(`sites: ${e.message}`); }
   const get = async (name, method) => {
@@ -98,4 +128,25 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     writeFileSync(path.join(ROOT, "docs/desk/bing.json"), JSON.stringify({ generatedAt: now.toISOString(), site, daily, queries: queries?.slice(0, 300), pages: pages?.slice(0, 300), crawl: crawl?.slice(-30), failed }, null, 1) + "\n");
     console.log(`bing: wrote docs/desk/bing.{md,json} (${failed.length} problem(s))`);
   }
+  // The shop (shop.freshcalendars.com): how many of its pages Bing holds. ChatGPT takes its sources
+  // from Bing's index, so this count is the first thing to read when shop traffic moves
+  // (shop/README.md, "Where the visitors come from"). Skipped when the shop is not a verified site.
+  if (shopSite) {
+    const shopFailed = [];
+    const sget = async (name, method) => { try { return await call(method, { siteUrl: shopSite }); } catch (e) { shopFailed.push(`${name}: ${e.message}`); return null; } };
+    const byDay = (rows) => (rows ? [...rows].sort((a, b) => bingDay(a.Date).localeCompare(bingDay(b.Date))) : null);
+    const sCrawl = byDay(await sget("crawl", "GetCrawlStats"));
+    const sDaily = byDay(await sget("traffic", "GetRankAndTrafficStats"));
+    const sPagesRaw = await sget("pages", "GetPageStats");
+    const sQueriesRaw = await sget("queries", "GetQueryStats");
+    const sPages = sPagesRaw ? aggregate(sPagesRaw, "Query", from) : null;
+    const sQueries = sQueriesRaw ? aggregate(sQueriesRaw, "Query", from) : null;
+    const smd = shopReport({ now, site: shopSite, crawl: sCrawl, daily: sDaily, pages: sPages, queries: sQueries, failed: shopFailed });
+    if (process.argv.includes("--stdout")) console.log(smd);
+    else {
+      writeFileSync(path.join(ROOT, "docs/desk/bing-shop.md"), smd + "\n");
+      writeFileSync(path.join(ROOT, "docs/desk/bing-shop.json"), JSON.stringify({ generatedAt: now.toISOString(), site: shopSite, crawl: sCrawl?.slice(-30), daily: sDaily?.slice(-30), pages: sPages?.slice(0, 300), queries: sQueries?.slice(0, 300), failed: shopFailed }, null, 1) + "\n");
+      console.log(`bing: wrote docs/desk/bing-shop.{md,json} (${shopFailed.length} problem(s))`);
+    }
+  } else console.log("bing: shop.freshcalendars.com is not among the verified sites; no shop report");
 }
