@@ -1,14 +1,13 @@
 # Bing Webmaster Tools (generated, do not edit)
 
-Read 2026-11-22T17:09 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
+Read 2026-11-23T09:14 UTC for https://freshcalendars.com/. Bing's results also appear on Yahoo and DuckDuckGo. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
 
 ## Clicks and impressions
 
-Last 7 days with data: 2,806 clicks, 445,413 impressions (the 7 before: 4,430 clicks, 443,386 impressions).
+Last 7 days with data: 3,072 clicks, 455,755 impressions (the 7 before: 4,307 clicks, 439,926 impressions).
 
 | Day | Clicks | Impressions |
 |---|---:|---:|
-| 2026-11-07 | 363 | 26,725 |
 | 2026-11-08 | 572 | 40,752 |
 | 2026-11-09 | 754 | 75,168 |
 | 2026-11-10 | 1,002 | 101,071 |
@@ -22,6 +21,7 @@ Last 7 days with data: 2,806 clicks, 445,413 impressions (the 7 before: 4,430 cl
 | 2026-11-18 | 425 | 84,319 |
 | 2026-11-19 | 419 | 88,448 |
 | 2026-11-20 | 481 | 64,732 |
+| 2026-11-21 | 506 | 33,607 |
 
 ## Top queries, last 28 days
 
@@ -90,30 +90,30 @@ Queries at position 2.5 to 20 with 50+ impressions and a click rate under 3%: th
 | /news/veterans-day-free-meals-discounts/ | 76,501 | 2,286 | 3.0% | 5.0 |
 | /news/daylight-saving-time-ends-november-1-2026/ | 40,723 | 418 | 1.0% | 6.0 |
 | /news/ballon-dor-2026-date-time-by-time-zone-nominees-london/ | 38,712 | 579 | 1.5% | 4.0 |
-| /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ | 34,791 | 716 | 2.1% | 2.3 |
+| /news/day-of-the-dead-2026-dia-de-los-muertos-dates/ | 35,215 | 721 | 2.0% | 2.3 |
 | /news/halloween-2026-what-day-trick-or-treating-start/ | 19,685 | 96 | 0.5% | 6.0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 15,202 | 113 | 0.7% | 5.8 |
 | /news/brewers-world-series-parade-2026-friday-october-30-time-route-rally/ | 14,249 | 332 | 2.3% | 5.0 |
 | /news/marine-corps-birthday-2026-november-10-251st/ | 11,390 | 25 | 0.2% | 6.0 |
-| /news/when-do-2026-election-winners-take-office-congress-governors/ | 8,054 | 159 | 2.0% | 5.7 |
+| /news/when-do-2026-election-winners-take-office-congress-governors/ | 9,426 | 165 | 1.8% | 5.6 |
+| /news/downloads/week-numbers-2027/week-number-calendar-2027.pdf | 9,186 | 188 | 2.0% | 5.8 |
+| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 8,658 | 47 | 0.5% | 6.0 |
+| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 8,186 | 219 | 2.7% | 3.4 |
+| /news/grey-cup-2026-date-kickoff-time-calgary-cfl-playoffs/ | 7,946 | 171 | 2.2% | 5.4 |
+| /news/printable-nfl-schedule-2026-2027-pdf/ | 7,862 | 140 | 1.8% | 6.3 |
 | /news/why-thanksgiving-2026-is-november-26/ | 7,227 | 3 | 0.0% | 8.0 |
 | /news/nurse-practitioner-week-2026-november-8-14-aanp-events/ | 6,952 | 40 | 0.6% | 5.0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 6,792 | 76 | 1.1% | 5.7 |
+| /news/international-mens-day-2026-november-19-theme/ | 6,855 | 20 | 0.3% | 6.7 |
 | /news/costco-holiday-hours-closures-2026-2027/ | 6,682 | 122 | 1.8% | 4.1 |
-| /news/army-navy-game-2026-date-kickoff-time-metlife-stadium-tv/ | 6,451 | 191 | 3.0% | 3.2 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 6,189 | 72 | 1.2% | 6.0 |
 | /news/bonfire-night-2026-thursday-november-5-fireworks-rules/ | 5,937 | 46 | 0.8% | 5.9 |
-| /news/printable-nfl-schedule-2026-2027-pdf/ | 5,564 | 92 | 1.7% | 6.4 |
-| /news/downloads/week-numbers-2027/week-number-calendar-2027.pdf | 5,097 | 86 | 1.7% | 6.5 |
+| /news/nyt-connections-hints-answers-november-16-2026-1254/ | 5,425 | 58 | 1.1% | 7.0 |
 | /news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/ | 5,095 | 32 | 0.6% | 7.0 |
+| /news/is-christmas-eve-a-federal-holiday-2026/ | 4,927 | 125 | 2.5% | 4.1 |
+| /news/downloads/federal-pay-2027/federal-pay-period-calendar-2027-nfc.pdf | 4,922 | 84 | 1.7% | 7.0 |
 | /news/ramadan-2027-calendar-dates-timetable/ | 4,679 | 19 | 0.4% | 7.1 |
-| /news/downloads/federal-pay-2027/federal-pay-period-calendar-2027-nfc.pdf | 4,470 | 73 | 1.6% | 7.0 |
-| /news/nyt-connections-hints-answers-november-11-2026-1249/ | 4,248 | 104 | 2.4% | 4.0 |
-| /news/nyt-connections-hints-answers-november-12-2026-1250/ | 4,101 | 54 | 1.3% | 6.0 |
-| /news/winter-solstice-2026-december-21-shortest-day-sunset-times/ | 3,807 | 22 | 0.6% | 6.1 |
-| /news/uk-europe-clocks-go-back-october-25-2026-time-difference/ | 3,471 | 13 | 0.4% | 7.0 |
-| /news/royal-agricultural-winter-fair-2026-dates-hours-horse-show-toronto/ | 3,355 | 44 | 1.3% | 6.7 |
-| /news/nyt-connections-hints-answers-november-5-2026-1243/ | 3,099 | 50 | 1.6% | 6.0 |
 
 ## Crawl and index
 
-Latest day 2026-11-21: 7,691 pages crawled, 74 crawl errors, 4,490 pages in the index, 427 inbound links, 24 blocked by robots.txt.
+Latest day 2026-11-22: 8,082 pages crawled, 59 crawl errors, 4,671 pages in the index, 432 inbound links, 35 blocked by robots.txt.
 
