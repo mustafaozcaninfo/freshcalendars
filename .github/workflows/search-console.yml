@@ -92,7 +92,7 @@ jobs:
           # The identity must be set for the whole step: the rebase below re-commits when main has moved.
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          for f in search-console.json search-console.md search-console-pages.json bing.json bing.md traffic.json traffic.md clarity.json clarity.md clarity-history.json readers.md weekly.md; do
+          for f in search-console.json search-console.md search-console-pages.json bing.json bing.md bing-shop.json bing-shop.md traffic.json traffic.md clarity.json clarity.md clarity-history.json readers.md weekly.md; do
             if [ -f "docs/desk/$f" ]; then git add "docs/desk/$f"; fi
           done
           if git diff --cached --quiet; then echo "nothing new"; exit 0; fi
