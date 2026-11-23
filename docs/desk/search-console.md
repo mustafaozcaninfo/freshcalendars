@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-23T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-23T21:18 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 99% (73 of 74 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (73 of 73 sampled)
 - FAIL: /news/ clicks and impressions did not fall two weeks in a row — fell two weeks in a row: clicks, impressions
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -280,23 +280,19 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 74 that are 7 to 21 days old): 89 Submitted and indexed, 1 Excluded by ‘noindex’ tag.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 73 that are 7 to 21 days old): 90 Submitted and indexed.
 
-- not indexed: /news/wordle-hint-answer-today-november-4-2026-1964/ (Excluded by ‘noindex’ tag), 20 days old
+- every sampled story is indexed
 
 ## Sitemaps
 
-- /news/sitemap.xml: 0 errors, 0 warnings, 1,686 URLs submitted, last read 2026-11-22
-- /news/news-sitemap.xml: 0 errors, 0 warnings, 84 URLs submitted, last read 2026-11-22
-- /sitemap.xml: 0 errors, 0 warnings, 201 URLs submitted, last read 2026-11-22
-- /sitemap.xml: 0 errors, 0 warnings, 3,893 URLs submitted, last read 2026-11-22
+- /sitemap.xml: 0 errors, 0 warnings, 201 URLs submitted, last read 2026-11-23
+- /news/news-sitemap.xml: 0 errors, 0 warnings, 84 URLs submitted, last read 2026-11-23
+- /news/sitemap.xml: 0 errors, 0 warnings, 1,686 URLs submitted, last read 2026-11-23
+- /sitemap.xml: 0 errors, 0 warnings, 4,169 URLs submitted, last read 2026-11-23
 
 ## Experiments (title and snippet changes of the search desk, 14 days before against 14 days after)
 
-- gta-6-october-22-2026-what-is-confirmed-release-countdown (changed 2026-11-06): before 2 clicks, 110 impressions, CTR 1.82%, position 6.1; after 1 clicks, 95 impressions, CTR 1.05%, position 10.6
-- whats-open-thanksgiving-2026-grocery-stores-walmart-costco (changed 2026-11-06): before 14 clicks, 1,097 impressions, CTR 1.28%, position 10.2; after 2 clicks, 156 impressions, CTR 1.28%, position 8.2
-- black-friday-canada-2026-november-27-sale-dates-canadian-tire-november-5 (changed 2026-11-06): before 10 clicks, 11,495 impressions, CTR 0.09%, position 10.9; after 3 clicks, 2,331 impressions, CTR 0.13%, position 11.8
-- avatar-seven-havens-release-schedule-episodes (changed 2026-11-06): before 14 clicks, 4,472 impressions, CTR 0.31%, position 9; after 0 clicks, 162 impressions, CTR 0%, position 10.2
 - baltimore-county-public-schools-calendar-2026-27-breaks (changed 2026-11-07): before 2 clicks, 1,831 impressions, CTR 0.11%, position 5.7; after: not yet (13 of 15 days)
 - thanksgiving-football-schedule-2026-nfl-college-games (changed 2026-11-07): before 47 clicks, 3,588 impressions, CTR 1.31%, position 6.8; after: not yet (13 of 15 days)
 - king-tides-2026-dates-this-week-high-tide-times (changed 2026-11-07): before 16 clicks, 1,154 impressions, CTR 1.39%, position 7.3; after: not yet (13 of 15 days)
