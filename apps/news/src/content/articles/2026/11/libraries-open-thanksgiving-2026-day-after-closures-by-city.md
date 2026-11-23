@@ -94,7 +94,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27, thanksgiving-trash-pickup-2026-by-city, whats-open-thanksgiving-2026-grocery-stores-walmart-costco]
+related: [is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27, thanksgiving-trash-pickup-2026-by-city, libraries-open-christmas-eve-new-years-2026-closures-by-city]
 draft: false
 assets:
   overlay: true
