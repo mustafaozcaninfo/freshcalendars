@@ -86,6 +86,7 @@ downloads:
     png: "/news/downloads/nhl-2026-27/nhl-games-today-november-1-2026.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Sunday, Nov. 1, 2026 had 5 National Hockey League (NHL) games, the first at 1:00 p.m. Eastern Time (ET) and the last at 8:00 p.m. ET, per the NHL's official schedule data.** They were the first NHL games after U.S. clocks fell back. The Carolina Hurricanes beat the Winnipeg Jets 7-0 in the 1:00 p.m. ET opener, which NHL Network carried in the U.S.

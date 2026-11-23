@@ -133,6 +133,7 @@ internalLinks:
     label: "When does daylight saving time end?"
 related: [nwsl-playoffs-2026-schedule-decision-day-quarterfinals-championship-november-21, premier-league-fixtures-this-weekend-october-31-november-2-2026-kickoff-times-tv, liga-mx-liguilla-apertura-2026-dates-quarterfinals-semifinals-final-schedule]
 draft: false
+noindex: true
 ---
 
 **Forty-eight games from Europe's top five leagues were on U.S. TV and streaming from Friday, Oct. 30 to Monday, Nov. 2, 2026, led by Bayern Munich vs. Borussia Dortmund at 1:30 p.m. Eastern Time (ET) and AC Milan vs. Inter at 3:45 p.m. ET on Saturday, according to the Bundesliga and CBS Sports.** Below: where each league streamed in the U.S., five featured games, and every kickoff in ET and Pacific Time (PT).

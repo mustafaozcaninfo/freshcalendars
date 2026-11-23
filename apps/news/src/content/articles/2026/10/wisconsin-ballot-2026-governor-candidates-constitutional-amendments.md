@@ -112,6 +112,7 @@ downloads:
     png: "/news/downloads/election-2026/wisconsin-ballot-checklist-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Wisconsin voters choose a governor and four other statewide officials on Tuesday, Nov. 3, 2026, and answer three constitutional amendment questions, according to WMTV15 in Madison on Oct. 23.** The state's own election pages could not be reached when this was written: the Wisconsin Elections Commission and MyVote Wisconsin (myvote.wi.gov) returned access errors, so the facts below come from WMTV15, Fox6 in Milwaukee and Wisconsin Public Radio (WPR). Confirm every race and deadline on your own sample ballot at MyVote.

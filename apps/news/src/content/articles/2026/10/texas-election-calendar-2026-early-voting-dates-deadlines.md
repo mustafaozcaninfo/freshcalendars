@@ -65,6 +65,7 @@ downloads:
     png: "/news/downloads/election-2026/texas-election-calendar-2026.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Early voting in Texas ended Friday, Oct. 30, 2026, and Election Day was Tuesday, Nov. 3, with polls open 7 a.m. to 7 p.m.** The deadline to apply for a ballot by mail was Friday, Oct. 23. Every date below comes from the Texas Secretary of State's election calendars. For the count and certification, see our [Texas election results guide](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/).

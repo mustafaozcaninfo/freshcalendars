@@ -101,6 +101,7 @@ downloads:
     png: "/news/downloads/ufc-halloween-2026/ufc-halloween-2026-schedule.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Tom Nolan beat Renato Moicano by technical knockout (TKO) at 1:28 of round 3 in the lightweight main event of UFC Fight Night: Moicano vs. Nolan on Saturday, Oct. 31, 2026, at Meta Apex in Las Vegas, according to the Ultimate Fighting Championship (UFC).** UFC's results page lists the stoppage as punches and elbows. Below: the main-card results, the start times the night ran to and the full card.

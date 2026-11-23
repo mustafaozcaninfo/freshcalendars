@@ -101,6 +101,10 @@ Every page for Wordle, Connections, Strands, Pips, Spelling Bee, the Mini, the M
 
 `pnpm news:build` leaves out stories with a future `publishedAt`, so verify and most of the audit never see them, but 12-HERO-UNIQUE in CI does. Before pushing scheduled pages: compare every hero with `duplicateHeroes(storyHeroes())` from `scripts/lib/hero-hash.mjs` (it includes scheduled stories; recolors do not change the hash, a different layout seed does: `heroes5.ts` rows take an optional 8th seed), and make sure no page links a story that goes live later than itself (news:verify reports it as broken until then).
 
+## Week-old daily pages leave the index (Nov. 23, 2026)
+
+A daily page is searched for on its day and the day after (96% of Google clicks in the first two days). Seven days after `publishedAt` the build marks it `noindex, follow`, drops its ads and takes it out of the sitemaps and related lists (`apps/news/src/lib/stale-puzzle.mjs`; `02-ROBOTS` checks it). No frontmatter change is needed, and monthly roundups and hubs are never affected.
+
 ## Merged daily pages (Nov. 7, 2026)
 
 Daily pages dated before 2026-11-05 were written in the old model and 54 of them repeated the previous days' text (audit warning `13-PUZZLE-SIMILAR-OLD`). The owner merged them on Nov. 7, 2026:

@@ -70,6 +70,7 @@ downloads:
     png: "/news/downloads/election-2026/mail-ballot-deadlines-2026.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 Mail-ballot application windows closed in many states before Election Day, including Pennsylvania (5 p.m. Oct. 27), Florida's vote-by-mail request (5 p.m. Oct. 22) and Georgia's absentee application (Oct. 23). Pennsylvania, Florida and Georgia had to receive the completed ballot by Nov. 3, not just see a postmark.

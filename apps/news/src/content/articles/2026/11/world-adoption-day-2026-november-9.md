@@ -89,6 +89,7 @@ downloads:
     png: "/news/downloads/world-adoption-day-2026/world-adoption-day-2026-ways-to-take-part.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **World Adoption Day 2026 was Monday, Nov. 9,** according to the organizer's site, worldadoptionday.org, which tells people to post on "November 9th." The page shows no year, so the weekday is our calculation: Nov. 9, 2026 is the 313th day of the year and a Monday. The organizer calls it "a day to lift up all voices in the adoption community." Below are the organizer's steps and a live countdown to the separate US National Adoption Day, which is next.

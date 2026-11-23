@@ -100,6 +100,7 @@ downloads:
     png: "/news/downloads/national-parks-free-days-2026/national-parks-free-days-checklist-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 Tuesday, Oct. 27 has passed. The next and last fee-free day of 2026 is Veterans Day, Wednesday, Nov. 11, at National Park Service parks. The National Park Service has not published 2027 fee-free days.

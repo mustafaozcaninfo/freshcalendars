@@ -109,6 +109,7 @@ downloads:
     png: "/news/downloads/canelo-vs-mbilli-2026/canelo-vs-mbilli-fight-times-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Canelo Alvarez beat Christian M'Billi by unanimous decision in Riyadh, Saudi Arabia, on Saturday, Oct. 31, 2026, to reclaim the World Boxing Council (WBC) super-middleweight title, with all three judges scoring the 12-round fight for Canelo: 115-112, 116-111 and 117-110, according to Al Jazeera.** The main-event ring walk had been scheduled for 4 p.m. Eastern Time (ET), 1 p.m. Pacific Time (PT), on Dazn pay-per-view (PPV). Below: the result, every scheduled time in seven zones, the price and the bouts Dazn listed.

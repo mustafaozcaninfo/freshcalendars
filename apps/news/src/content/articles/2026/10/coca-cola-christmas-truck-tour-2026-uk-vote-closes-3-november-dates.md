@@ -93,6 +93,7 @@ assets:
     note: "Source: Coca-Cola Great Britain, Christmas Truck Tour page and Terms and Conditions, Oct. 28, 2026."
     description: "A one-page checklist for the 2026 Coca-Cola Christmas Truck Tour vote in Great Britain: deadline, vote limit, how towns are picked and when stops are announced."
     alt: "Printable checklist for the Coca-Cola Christmas Truck 2026 vote and visit in Great Britain."
+noindex: true
 ---
 
 **The Coca-Cola Christmas Truck Tour 2026 vote in Great Britain closed at 16:00 on Tuesday 3 November 2026**, according to the Coca-Cola Great Britain terms and conditions (T&Cs). The UK has been on Greenwich Mean Time (GMT) since 25 October, so the deadline was 11 a.m. Eastern Time (ET) on Nov. 3 (US clocks fell back on Nov. 1, so ET was standard time, by our calculation).

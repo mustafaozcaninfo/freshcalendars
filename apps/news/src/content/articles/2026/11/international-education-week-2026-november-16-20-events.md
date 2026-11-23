@@ -87,6 +87,7 @@ internalLinks:
     label: "When is Thanksgiving?"
 related: [american-education-week-2026-november-16-20-daily-themes, national-school-psychology-week-2026-november-9-13, november-2026-important-dates-days-until]
 draft: false
+noindex: true
 ---
 
 International Education Week (IEW) 2026 will be held Nov. 16-20, 2026, according to NAFSA: Association of International Educators, in a joint release with partner groups dated Oct. 22, 2026. Nov. 16 is a Monday and Nov. 20 a Friday. Below are the hashtags, the toolkit, a planning table for campus offices and a one-page printable.

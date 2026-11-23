@@ -96,6 +96,7 @@ downloads:
     png: "/news/downloads/leonids-2026/leonid-meteor-shower-2026-moon-free-window-printable.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **The Leonid meteor shower peaks on the night of Monday, Nov. 16 to Tuesday, Nov. 17, 2026, according to the American Meteor Society (AMS), the International Meteor Organization (IMO) and NASA.** None of the three lists a peak hour. This story adds what the monthly guides leave out: when the Moon sets on both Leonid nights, Nov. 16-17 and Nov. 17-18, in 12 U.S. cities, from the U.S. Naval Observatory (USNO), and how many moon-free hours that leaves before the morning sky begins to brighten.

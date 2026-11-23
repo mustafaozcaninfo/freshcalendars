@@ -111,6 +111,7 @@ downloads:
     png: "/news/downloads/apple-launch-2026/apple-launch-dates-oct-28-nov-6-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 <p class="callout"><b>Pre-orders opened Wed., Oct. 28, 2026.</b> Apple's pre-orders for the MacBook Pro with M6, the iMac with M6 and the iPad mini opened that day. Availability began Friday, Nov. 6, 2026.</p>

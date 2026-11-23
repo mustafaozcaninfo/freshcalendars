@@ -107,6 +107,7 @@ assets:
     description: "A one-page Grand Slam of Darts 2026 tracker with the Nov. 6 qualifier, the nine days from Nov. 14 to 22 and blank lines for results."
     alt: "Grand Slam of Darts 2026 tracker with one row per day and blank result lines"
 draft: false
+noindex: true
 ---
 
 **The Grand Slam of Darts 2026 runs from Saturday, Nov. 14 to Sunday, Nov. 22 at WV Active Aldersley in Wolverhampton, England, according to Sky Sports, and in the U.S. NBC Sports says Peacock streams Sky Sports' coverage.** The Professional Darts Corporation (PDC) organizes the event, sponsored as the Mr Vegas Grand Slam of Darts. Sky Sports lists sessions at 1 p.m. and 7 p.m. GMT, which is 8 a.m. and 2 p.m. ET, and the final at 7:30 p.m. GMT on Sunday, Nov. 22 (2:30 p.m. ET).

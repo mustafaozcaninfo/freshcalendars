@@ -134,6 +134,7 @@ downloads:
     png: "/news/downloads/america-recycles-day-2026/america-recycles-day-2026-recycling-activity-sheet.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **America Recycles Day is Sunday, Nov. 15, 2026.** The U.S. Environmental Protection Agency (EPA) says: "On America Recycles Day (November 15), EPA recognizes the importance and impact of recycling." Below are EPA's rules for common items, three local events from official pages and a free one-page checklist (checked Nov. 14, 2026).

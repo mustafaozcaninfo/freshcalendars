@@ -8,6 +8,7 @@ import { existsSync, readFileSync, readdirSync, statSync } from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { addDays, isCrossword, loadPuzzle, puzzleOf } from "../apps/news/src/lib/puzzles.mjs";
+import { stalePuzzleAge } from "../apps/news/src/lib/stale-puzzle.mjs";
 import { unexpandedAbbrevs } from "./lib/abbrev.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
@@ -184,12 +185,26 @@ check("02-CANONICAL", "Self-referencing absolute canonical (§02 C l.660)", () =
     if (u === "/news/404/") return null;
     return c === `https://freshcalendars.com${u}` ? null : `canonical=${c}`;
   }));
-// Stories whose frontmatter says `noindex: true` (merged puzzle pages, docs/PUZZLES.md) must say so.
-const NOINDEX_STORIES = new Set((function walk(d) { return readdirSync(d, { withFileTypes: true }).flatMap((e) => e.isDirectory() ? walk(path.join(d, e.name)) : e.name.endsWith(".md") && /^noindex:\s*true/m.test(readFileSync(path.join(d, e.name), "utf8")) ? [`/news/${e.name.slice(0, -3)}/`] : []); })(ARTICLES_SRC));
-check("02-ROBOTS", "Indexable pages carry index,follow + max-image-preview:large; utility pages and stories marked noindex carry noindex (§02 C l.661)", () =>
+// Stories whose frontmatter says `noindex: true` (merged puzzle pages, docs/PUZZLES.md; pruned
+// stories, docs/DESK.md "Pruning") must say so, and so must daily puzzle pages published seven or
+// more days ago (stale-puzzle.mjs). A page that went stale within the last two hours may carry
+// either tag: the build that drew it can be older than this check.
+const NOINDEX_STORIES = new Set(), STALE_EDGE = new Set();
+(function walk(d) {
+  for (const e of readdirSync(d, { withFileTypes: true })) {
+    if (e.isDirectory()) { walk(path.join(d, e.name)); continue; }
+    if (!e.name.endsWith(".md")) continue;
+    const md = readFileSync(path.join(d, e.name), "utf8"), slug = e.name.slice(0, -3);
+    const age = stalePuzzleAge({ slug, category: /^category:\s*"?([a-z-]+)/m.exec(md)?.[1], publishedAt: /^publishedAt:\s*"?([^"\n]+)/m.exec(md)?.[1] });
+    if (/^noindex:\s*true/m.test(md) || (age !== null && age >= 2 * 3_600_000)) NOINDEX_STORIES.add(`/news/${slug}/`);
+    else if (age !== null && age >= 0) STALE_EDGE.add(`/news/${slug}/`);
+  }
+})(ARTICLES_SRC);
+check("02-ROBOTS", "Indexable pages carry index,follow + max-image-preview:large; utility pages, stories marked noindex and week-old daily puzzle pages carry noindex (§02 C l.661)", () =>
   each(urls, (u, h) => {
     const r = h.match(/<meta name="robots" content="([^"]+)"/)?.[1] ?? "";
-    if (NOINDEX_STORIES.has(u)) return /^noindex, follow/.test(r) ? null : `robots="${r}" on a story marked noindex`;
+    if (NOINDEX_STORIES.has(u)) return /^noindex, follow/.test(r) ? null : `robots="${r}" on a story marked noindex or a stale puzzle page`;
+    if (STALE_EDGE.has(u) && /^noindex, follow/.test(r)) return null;
     return /^index, follow/.test(r) && /max-image-preview:large/.test(r) ? null : `robots="${r}"`;
   }));
 check("02-LANG", "html lang + hreflang en/x-default (§02 C)", () =>

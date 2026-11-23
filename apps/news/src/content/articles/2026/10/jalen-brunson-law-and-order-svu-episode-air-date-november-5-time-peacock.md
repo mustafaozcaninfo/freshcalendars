@@ -91,6 +91,7 @@ internalLinks:
     label: "Printable weekly calendar"
 related: [knicks-schedule-november-2026-game-times-tv-nba-cup-printable, new-on-peacock-november-2026-release-dates, the-gilded-age-season-4-premiere-time-november-1-hbo-max]
 draft: false
+noindex: true
 ---
 
 Jalen Brunson's SVU episode aired Thursday, Nov. 5, 2026, at 9 p.m. Eastern Time (ET) on NBC and streams on Peacock from Friday, Nov. 6, per NBC. NBC Insider, in two posts dated Oct. 30, 2026, said Brunson appears in Episode 5 of Law & Order: Special Victims Unit (SVU) Season 28, and its Nov. 5 recap says he made his debut as Detective Jay Madison, sharing details from an earlier arrest that helped Captain Olivia Benson's team break the case.

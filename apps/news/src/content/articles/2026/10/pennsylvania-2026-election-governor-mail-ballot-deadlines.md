@@ -67,6 +67,7 @@ downloads:
     png: "/news/downloads/election-2026/pennsylvania-ballot-checklist-2026.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 The deadline to apply for a mail ballot (5 p.m. Tuesday, Oct. 27) has passed. If you already have a mail ballot, your county must receive the completed ballot by 8 p.m. Tuesday, Nov. 3; a postmark is not enough. Otherwise, vote in person on Nov. 3, when polls are open 7 a.m. to 8 p.m., according to the Pennsylvania Department of State.

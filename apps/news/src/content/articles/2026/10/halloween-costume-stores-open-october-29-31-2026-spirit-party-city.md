@@ -107,6 +107,7 @@ downloads:
     pdf: "/news/downloads/halloween-2026/last-minute-halloween-costume-checklist-2026-ink.pdf"
     png: "/news/downloads/halloween-2026/last-minute-halloween-costume-checklist-2026-ink.png"
     pages: 1
+noindex: true
 ---
 
 Halloween was Saturday, Oct. 31, 2026, so shoppers who started on Thursday, Oct. 29 had two days left, and no official nationwide list of Halloween store hours exists in the sources we checked on Oct. 29. This page covers where to look for a costume, what changed at Party City, and a warning from the U.S. Food and Drug Administration (FDA) about decorative contact lenses. For the date itself, see [when is Halloween](/when-is/halloween/) and the [October 2026 printable calendar](/october-calendars.html).

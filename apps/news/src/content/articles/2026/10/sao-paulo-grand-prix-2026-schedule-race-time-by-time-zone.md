@@ -89,6 +89,7 @@ downloads:
     png: "/news/downloads/sao-paulo-gp-2026/sao-paulo-gp-2026-schedule.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Norris won the São Paulo Grand Prix on Sunday, Nov. 8, 2026, in 1:35:23.504, ahead of Verstappen (+14.602) and Hadjar (+24.485), according to Formula 1 (F1).** The race started at 14:00 local time, which was 12 p.m. Eastern Standard Time (EST). F1 listed the race as 71 laps or 120 minutes. It was the Brazil round of the 2026 season, Round 20 on F1's calendar. Below: every session in U.S. and other time zones, and what comes next.

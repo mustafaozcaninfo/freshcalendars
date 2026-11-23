@@ -88,6 +88,7 @@ internalLinks:
     label: "November 2026 printable calendar"
 related: [nhl-games-today-october-29-2026, nba-games-today-october-30-2026, nhl-winter-classic-2027-date-time-avalanche-mammoth-salt-lake-city]
 draft: false
+noindex: true
 ---
 
 **There were 3 National Hockey League (NHL) games on Friday, Oct. 30, 2026, and the first puck drop was at 6:00 p.m. Eastern Time (ET), per the NHL's official schedule data.** The New Jersey Devils won at the Vegas Golden Knights 5-2, the Florida Panthers beat the Winnipeg Jets 5-2 and the Calgary Flames beat the Seattle Kraken 6-2, all in regulation.

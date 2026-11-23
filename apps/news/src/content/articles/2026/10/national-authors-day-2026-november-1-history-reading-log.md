@@ -94,6 +94,7 @@ internalLinks:
     label: "printable weekly calendar"
 related: [pride-and-prejudice-netflix-release-date-december-3-reading-plan, national-family-literacy-day-2026-november-1-family-reading-plan, national-handwriting-day-2027-saturday-january-23]
 draft: false
+noindex: true
 ---
 
 National Author's Day was Sunday, Nov. 1, 2026, a day for reading authors and thanking them, and two newsrooms, Illinois Times and The Hans India, trace it to a 1928 proposal from a women's club in Bement, Illinois. No agency owns the day, and it is not a federal holiday, so nothing closes. The page below covers where it came from, which weekday Nov. 1 lands on through 2030 and a free reading log for the first week of November.

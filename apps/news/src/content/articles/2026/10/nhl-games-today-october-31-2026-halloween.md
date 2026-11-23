@@ -102,6 +102,7 @@ downloads:
     png: "/news/downloads/nhl-2026-27/nhl-games-today-october-31-2026-halloween-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Saturday, Oct. 31, 2026 (Halloween) had 10 National Hockey League (NHL) games, the first at 1 p.m. Eastern Time (ET) and the last at 10 p.m. ET, per the NHL's official schedule data.** Two games started at 1:00 p.m. ET: the Chicago Blackhawks at the Boston Bruins and the St. Louis Blues at the Detroit Red Wings.

@@ -96,6 +96,7 @@ downloads:
     pdf: "/news/downloads/halloween-2026/halloween-free-food-checklist-2026-ink.pdf"
     png: "/news/downloads/halloween-2026/halloween-free-food-checklist-2026-ink.png"
     pages: 1
+noindex: true
 ---
 
 Krispy Kreme's free costume doughnut ran Friday, Oct. 30, and Saturday, Oct. 31, 2026, and Chipotle's $6 Boorito entree was Saturday, Oct. 31, from 3 p.m. local time to close, according to each company's own pages. Krispy Kreme's home page, checked Oct. 30, and Chipotle's Oct. 20 newsroom release carry the rules; the table below puts day, time, requirement and limit side by side. Halloween 2026 was a Saturday; see [when is Halloween](/when-is/halloween/) and the [October 2026 printable calendar](/october-calendars.html).

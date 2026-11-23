@@ -114,6 +114,7 @@ downloads:
     png: "/news/downloads/frankenstein-friday-2026/frankenstein-friday-reading-activity-sheet-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Frankenstein Friday was Friday, Oct. 30, 2026, the last Friday of October and the day before Halloween.** Libraries and museums use the day for Mary Shelley's 1818 novel *Frankenstein; or, The Modern Prometheus*. The Moraine Valley Community College Library in Illinois describes it as "a day devoted to Mary Shelley's iconic novel." No founder is documented; some calendar sites name one, but we found no primary record, so we leave the name out. Below: how the book began, what it says that the films changed, where to read it free, and a printable reading sheet.
