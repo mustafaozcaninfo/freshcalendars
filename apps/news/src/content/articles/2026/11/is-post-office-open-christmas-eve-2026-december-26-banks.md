@@ -106,7 +106,7 @@ internalLinks:
     label: "When is Christmas"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [is-christmas-eve-a-federal-holiday-2026, state-offices-closed-christmas-eve-2026-by-state, christmas-eve-christmas-day-2026-store-hours]
+related: [is-christmas-eve-a-federal-holiday-2026, state-offices-closed-christmas-eve-2026-by-state, libraries-open-christmas-eve-new-years-2026-closures-by-city]
 downloads:
   - group: "Christmas 2026 printables"
     title: "Christmas 2026: Post Office, Banks and Markets Closed"

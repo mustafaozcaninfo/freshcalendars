@@ -82,7 +82,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [thanksgiving-travel-2026-best-days-to-fly-and-drive, thanksgiving-trash-pickup-2026-by-city, macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons]
+related: [thanksgiving-travel-2026-best-days-to-fly-and-drive, thanksgiving-trash-pickup-2026-by-city, christmas-2026-transit-schedules-by-city]
 draft: false
 assets:
   overlay: true

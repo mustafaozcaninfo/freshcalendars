@@ -56,7 +56,7 @@ internalLinks:
     label: "When is New Year’s Eve?"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [times-square-ball-drop-2026-time-how-to-watch-time-zones, december-2026-important-dates-holidays-days-until, new-years-eve-2026-printables-bingo-resolution-cards]
+related: [times-square-ball-drop-2026-time-how-to-watch-time-zones, december-2026-important-dates-holidays-days-until, watch-night-2026-december-31-freedoms-eve]
 assets:
   overlay: true
   kicker: "New Year 2027"
