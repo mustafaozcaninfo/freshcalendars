@@ -133,7 +133,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/when-is/labor-day/"
     label: "When is Labor Day?"
-related: [july-2027-important-dates-holidays-days-until, total-solar-eclipse-august-2-2027-path-times-by-city-travel, uk-bank-holidays-2027-dates-england-scotland-northern-ireland]
+related: [july-2027-important-dates-holidays-days-until, total-solar-eclipse-august-2-2027-path-times-by-city-travel, september-2027-important-dates-holidays-days-until]
 draft: false
 ---
 

@@ -53,7 +53,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
-related: [planets-visible-december-2026-night-sky-calendar-geminids-solstice, moon-phases-2027-full-moon-calendar, eclipses-2027-dates-times-total-solar-eclipse-august-2]
+related: [planets-visible-march-2027-night-sky-calendar, moon-phases-2027-full-moon-calendar, eclipses-2027-dates-times-total-solar-eclipse-august-2]
 assets:
   overlay: true
   kicker: "Planets 2027"
