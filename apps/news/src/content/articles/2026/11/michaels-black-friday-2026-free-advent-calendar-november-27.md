@@ -4,6 +4,7 @@ description: "Michaels Black Friday runs Nov. 20-29, and free advent calendars (
 type: news
 shop: craft-advent
 publishedAt: "2026-11-17T14:36:00-05:00"
+updatedAt: "2026-11-23T09:40:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["michaels black friday 2026", "michaels free advent calendar", "michaels countdown to craftsmas", "michaels black friday doorbusters 2026", "michaels cyber week 2026"]
@@ -67,7 +68,7 @@ sources:
     url: "https://www.prnewswire.com/news-releases/michaels-launches-countdown-to-craftsmas-advent-calendar-with-25-days-of-screen-free-holiday-projects-and-a-10-000-grand-prize-302935458.html"
     publisher: "The Michaels Companies via PR Newswire"
     date: "2026-11-10"
-  - title: "Michaels holiday, Black Friday and Cyber Monday plans"
+  - title: "Michaels encourages a screen-free holiday season"
     url: "https://www.retaildive.com/news/michaels-holiday-black-friday-cyber-monday/874500/"
     publisher: "Retail Dive"
     date: "2026-11-12"
