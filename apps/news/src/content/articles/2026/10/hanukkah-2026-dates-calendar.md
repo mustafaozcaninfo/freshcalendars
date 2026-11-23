@@ -73,7 +73,7 @@ internalLinks:
     label: "2026 holidays list"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [jewish-holidays-2027-dates-passover-rosh-hashanah-yom-kippur-hanukkah, advent-calendar-2026-dates-free-printable, usps-holiday-shipping-deadlines-2026]
+related: [jewish-holidays-2027-dates-passover-rosh-hashanah-yom-kippur-hanukkah, how-to-play-dreidel-rules-printable-hanukkah-2026, advent-calendar-2026-dates-free-printable]
 downloads:
   - group: "Hanukkah 2026 printables"
     title: "Hanukkah 2026 Calendar"

@@ -38,6 +38,7 @@ import { buildThanksgivingCookingDownloads } from "./thanksgivingCooking.js";
 import { buildThanksgivingPrintablesDownloads } from "./thanksgivingPrintables.js";
 import { buildCookieExchangeDownloads } from "./cookieExchange.js";
 import { buildChristmasPrintablesDownloads } from "./christmasPrintables.js";
+import { buildNewYearsEvePrintablesDownloads } from "./newYearsEvePrintables.js";
 import { buildShoppingDownloads } from "./shopping2026.js";
 import { buildSkyDownloads } from "./sky2026.js";
 import { buildHeroes5 } from "./heroes5.js";
@@ -189,6 +190,8 @@ async function main(): Promise<void> {
       await buildThanksgivingPrintablesDownloads();
     } else if (cmd === "news-christmas-printables") {
       await buildChristmasPrintablesDownloads();
+    } else if (cmd === "news-new-years-eve-printables") {
+      await buildNewYearsEvePrintablesDownloads();
     } else if (cmd === "news-cookie-exchange") {
       await buildCookieExchangeDownloads();
     } else if (cmd === "news-shopping") {
@@ -288,6 +291,7 @@ async function main(): Promise<void> {
   pnpm fc news-nfl-bracket                 # /news/ NFL Playoff Bracket 2027 fill-in printable
   pnpm fc news-march-madness-bracket       # /news/ March Madness 2027 printable bracket (76 teams)
   pnpm fc news-gift-list                   # /news/ Christmas gift list and budget planner 2026
+  pnpm fc news-new-years-eve-printables    # /news/ New Year's Eve 2026 printables: 4-page PDF
   pnpm fc news-january-reset               # /news/ January 2027 reset planner: 4-page PDF
   pnpm fc news-dry-january                 # /news/ Dry January 2027 31-day tracker
   pnpm fc news-thanksgiving-cooking        # /news/ Thanksgiving Day 2026 cooking plan by turkey weight
