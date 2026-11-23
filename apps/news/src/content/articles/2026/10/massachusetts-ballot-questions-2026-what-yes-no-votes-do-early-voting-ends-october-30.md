@@ -93,6 +93,7 @@ downloads:
     png: "/news/downloads/election-2026/massachusetts-2026-ballot-questions-checklist-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **In-person early voting in Massachusetts ended Friday, Oct. 30, 2026, and Election Day is Tuesday, Nov. 3, with polls open from 7 a.m. to 8 p.m.**, according to Secretary of the Commonwealth William Francis Galvin's 2026 Information for Voters guide. The ballot carries nine binding statewide questions. Questions 1 through 8 are proposed laws put forward by initiative petition, and Question 9 is a referendum on an existing law.

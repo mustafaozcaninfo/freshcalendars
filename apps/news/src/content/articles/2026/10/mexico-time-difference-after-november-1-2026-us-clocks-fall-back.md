@@ -92,6 +92,7 @@ downloads:
     png: "/news/downloads/time-change-2026/mexico-us-time-difference-november-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 US clocks went back one hour at 2 a.m. local time on **Sunday, Nov. 1, 2026**, according to the National Institute of Standards and Technology (NIST), but most of Mexico did not change under its Federal Law on Time Zones (Ley de los Husos Horarios en los Estados Unidos Mexicanos). So from Nov. 1, Mexico City is on the same time as Chicago, and Cancun is on the same time as New York. Only listed towns along the northern border moved their clocks that night.

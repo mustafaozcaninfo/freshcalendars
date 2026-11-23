@@ -118,6 +118,7 @@ downloads:
     png: "/news/downloads/stir-up-sunday-2026/stir-up-sunday-2026-family-planner-a4.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Stir-up Sunday 2026 is Sunday 22 November,** the last Sunday before Advent, according to the Diocese of Liverpool's rule and the Liturgy Office of the Catholic Bishops' Conference of England and Wales (November 2026 calendar, read Nov. 9, 2026). Below are the dates to 2030, the four Sundays to Christmas, the prayer behind the name and a one-page family planner.

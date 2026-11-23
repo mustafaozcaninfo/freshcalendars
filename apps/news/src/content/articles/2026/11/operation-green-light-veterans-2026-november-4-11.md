@@ -106,6 +106,7 @@ downloads:
     png: "/news/downloads/operation-green-light-2026/operation-green-light-veterans-2026-checklist.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Operation Green Light for Veterans runs Nov. 4-11, 2026, Wednesday to Wednesday, according to the National Association of Counties (NACo).** The group's program page describes the campaign as "lighting our buildings green from November 4-11, 2026," and the window covers eight calendar days counting both ends. NACo had no 2026 list of participating counties on that page as of Nov. 8, so no county is named as taking part below.

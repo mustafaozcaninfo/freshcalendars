@@ -137,6 +137,6 @@ The Architect of the Capitol posted its notice on Nov. 2, 2026. For comparison, 
 
 ## What goes on the printable timeline?
 
-The one-page printable lists seven dates in order: the lottery opening and closing, the winner notices, the Dec. 3 ceremony, two Capitol tree tour stops and the Capitol tree's Nov. 20 arrival. Dates that are not yet announced are left off. For the rest of the month, see our [December 2026 important dates story](/news/december-2026-important-dates-holidays-days-until/), the [Christmas 2026 countdown](/news/christmas-2026-calendar-printable-countdown/) and the [New York holiday calendar with the Rockefeller tree and Macy's parade](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/).
+The one-page printable lists seven dates in order: the lottery opening and closing, the winner notices, the Dec. 3 ceremony, two Capitol tree tour stops and the Capitol tree's Nov. 20 arrival. Dates that are not yet announced are left off. For the rest of the month, see our [December 2026 important dates story](/news/december-2026-calendar-printable/), the [Christmas 2026 countdown](/news/christmas-2026-calendar-printable-countdown/) and the [New York holiday calendar with the Rockefeller tree and Macy's parade](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/).
 
 Not confirmed in this story: the ceremony start time, the emcee, the television broadcaster and the 2026 Capitol tree lighting date.

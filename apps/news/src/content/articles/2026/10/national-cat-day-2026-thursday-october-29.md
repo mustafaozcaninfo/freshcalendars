@@ -79,6 +79,7 @@ internalLinks:
     label: "November 2026 printable calendar"
 related: [national-black-cat-day-2026-october-27, halloween-2026-saturday-sunset-trick-or-treat-times, national-cook-for-your-pets-day-2026-november-1-pet-safe-foods]
 draft: false
+noindex: true
 ---
 
 **National Cat Day was Thursday, Oct. 29, 2026, according to the observance's official site, nationalcatday.com.** The site says Pet and Family Lifestyle Expert and Animal Welfare Advocate Colleen Paige founded it in 2005.

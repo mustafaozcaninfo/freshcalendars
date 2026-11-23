@@ -115,7 +115,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [december-2026-important-dates-holidays-days-until, january-2027-important-dates-holidays-days-until, new-years-countdown-2027-midnight-every-time-zone]
+related: [december-2026-calendar-printable, january-2027-calendar-printable, new-years-countdown-2027-midnight-every-time-zone]
 downloads:
   - group: "Year-End Digital Cleanup Checklist 2026 printables"
     title: "Year-End Digital Cleanup Checklist 2026"
@@ -153,7 +153,7 @@ The weeks below are our suggestion, not an official schedule. The order puts sec
 | Dec. 15-21 | Backups | 3-2-1 copies and a restore test |
 | Dec. 22-31 | Photos and files | Delete duplicates, check storage, download archives |
 
-The plan ends on Thursday, Dec. 31, 2026, well before the Federal Trade Commission (FTC) says Identity Theft Awareness Week 2027 runs, Jan. 25 to 29. Mark both on the [December 2026 printable calendar](/december-calendars.html) and the [January 2027 printable calendar](/january-calendars.html), and see our [January 2027 dates list](/news/january-2027-important-dates-holidays-days-until/).
+The plan ends on Thursday, Dec. 31, 2026, well before the Federal Trade Commission (FTC) says Identity Theft Awareness Week 2027 runs, Jan. 25 to 29. Mark both on the [December 2026 printable calendar](/december-calendars.html) and the [January 2027 printable calendar](/january-calendars.html), and see our [January 2027 dates list](/news/january-2027-calendar-printable/).
 
 ## Which security steps come first?
 

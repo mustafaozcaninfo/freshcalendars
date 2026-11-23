@@ -81,6 +81,7 @@ internalLinks:
     label: "Printable weekly calendar"
 related: [national-cat-day-2026-thursday-october-29, november-2026-important-dates-days-until, world-kindness-day-2026-friday-november-13-kindness-dates-printable]
 draft: false
+noindex: true
 ---
 
 **Hello Kitty's birthday was Sunday, Nov. 1, 2026, according to Sanrio's corporate brand page.** The page, rechecked on Nov. 14, 2026, lists the birthday as "November 1st" and says "She was designed in 1974."

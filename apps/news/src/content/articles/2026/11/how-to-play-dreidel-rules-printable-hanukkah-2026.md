@@ -94,7 +94,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [hanukkah-2026-dates-calendar, jewish-holidays-2027-dates-passover-rosh-hashanah-yom-kippur-hanukkah, december-2026-important-dates-holidays-days-until]
+related: [hanukkah-2026-dates-calendar, jewish-holidays-2027-dates-passover-rosh-hashanah-yom-kippur-hanukkah, december-2026-calendar-printable]
 downloads:
   - group: "Dreidel Rules and Hanukkah 2026 Candle Chart printables"
     title: "Dreidel Rules and Hanukkah 2026 Candle Chart"
@@ -155,6 +155,6 @@ On Friday, Chabad.org's guide says the menorah is lit before the Shabbat candles
 
 ## Printable dreidel rules card and candle chart
 
-The one-page PDF has the first night's date, the four rules for starting, refilling the pot and ending the game, a letter list with a tick box for each letter, the eight-night candle chart with tick boxes and a lined area for house rules and scores. The letters are written in Latin spelling on the sheet. Mark the nights on the [December 2026 printable calendar](/december-calendars.html), and see the rest of the month in [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/) and on the page for [Christmas Day](/when-is/christmas-day/).
+The one-page PDF has the first night's date, the four rules for starting, refilling the pot and ending the game, a letter list with a tick box for each letter, the eight-night candle chart with tick boxes and a lined area for house rules and scores. The letters are written in Latin spelling on the sheet. Mark the nights on the [December 2026 printable calendar](/december-calendars.html), and see the rest of the month in [December 2026 important dates](/news/december-2026-calendar-printable/) and on the page for [Christmas Day](/when-is/christmas-day/).
 
 Not confirmed: the number of tokens each player starts with, which Chabad.org's rules leave open.

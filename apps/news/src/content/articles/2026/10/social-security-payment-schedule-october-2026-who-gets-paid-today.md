@@ -67,6 +67,7 @@ downloads:
     png: "/news/downloads/social-security-2026/social-security-payment-calendar-oct-dec-2026.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **The Supplemental Security Income (SSI) payment dated Friday, Oct. 30, 2026, was November's payment moved early because Nov. 1 is a Sunday. It was not an extra check.** No SSI payment is dated in November; the next one after Oct. 30 is Tuesday, Dec. 1. The month's Social Security dates are Nov. 3, Nov. 10 (moved up from Veterans Day on Nov. 11), Nov. 18 and Nov. 25. The Wednesday, Oct. 28 payment, for people born on the 21st through the 31st, and the Oct. 30 SSI payment are past; the Nov. 3 and Nov. 10 payments are too, and the next is Wednesday, Nov. 18. Every date below is from the Social Security Administration (SSA) published 2026 schedule.

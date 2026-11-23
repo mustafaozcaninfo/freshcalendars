@@ -113,7 +113,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [january-2027-important-dates-holidays-days-until, martin-luther-king-jr-day-2027-january-18-whats-closed, january-2027-calendar-printable]
+related: [january-2027-calendar-printable, martin-luther-king-jr-day-2027-january-18-whats-closed]
 downloads:
   - group: "National Popcorn Day 2027 Facts Quiz and Flavor Tally printables"
     title: "National Popcorn Day 2027 Facts Quiz and Flavor Tally"
@@ -141,7 +141,7 @@ A local television station (KBSI) wrote on Jan. 19, 2024, that the day is "obser
 | 2030 | Jan. 19 | Saturday |
 | 2031 | Jan. 19 | Sunday |
 
-In 2027 the day comes right after [Martin Luther King Jr. Day on Monday, Jan. 18](/news/martin-luther-king-jr-day-2027-january-18-whats-closed/). Mark both on the [January 2027 printable calendar](/january-calendars.html), or see the [January 2027 dates list](/news/january-2027-important-dates-holidays-days-until/) and the [January 2027 calendar printable](/news/january-2027-calendar-printable/).
+In 2027 the day comes right after [Martin Luther King Jr. Day on Monday, Jan. 18](/news/martin-luther-king-jr-day-2027-january-18-whats-closed/). Mark both on the [January 2027 printable calendar](/january-calendars.html), or see the [January 2027 dates list](/news/january-2027-calendar-printable/) and the [January 2027 calendar printable](/news/january-2027-calendar-printable/).
 
 ## Will movie theaters offer National Popcorn Day deals in 2027?
 

@@ -101,7 +101,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/february-calendars.html"
     label: "February 2027 printable calendar"
-related: [christmas-bird-count-2026-27-dates-how-to-join, january-2027-important-dates-holidays-days-until, winter-solstice-2026-december-21-shortest-day-sunset-times]
+related: [christmas-bird-count-2026-27-dates-how-to-join, january-2027-calendar-printable, winter-solstice-2026-december-21-shortest-day-sunset-times]
 downloads:
   - group: "National Bird Day 2027 Facts and Backyard Bird Tally printables"
     title: "National Bird Day 2027 Facts and Backyard Bird Tally"
@@ -148,4 +148,4 @@ Audubon says the 30th annual Great Backyard Bird Count (GBBC) "will be held Febr
 
 FeederWatch gives one rule. Record "only the largest number of individuals of each species in view simultaneously over the two-day count," and "do not add your counts together." Leave out "birds that simply fly over your count site." Its instructions name Northern Cardinal, Blue Jay, House Sparrow, House Finch, Purple Finch and Evening Grosbeak as feeder species.
 
-Our free tally sheet lists those six birds and blank rows, with a column for each of two count days and one for the largest number seen at once. The rule is printed on it. For the other January dates, see our [January 2027 dates list](/news/january-2027-important-dates-holidays-days-until/) and the [January 2027 printable calendar](/january-calendars.html). Earlier in the season, the [winter solstice](/news/winter-solstice-2026-december-21-shortest-day-sunset-times/) falls on Dec. 21.
+Our free tally sheet lists those six birds and blank rows, with a column for each of two count days and one for the largest number seen at once. The rule is printed on it. For the other January dates, see our [January 2027 dates list](/news/january-2027-calendar-printable/) and the [January 2027 printable calendar](/january-calendars.html). Earlier in the season, the [winter solstice](/news/winter-solstice-2026-december-21-shortest-day-sunset-times/) falls on Dec. 21.

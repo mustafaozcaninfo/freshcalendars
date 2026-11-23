@@ -104,7 +104,7 @@ No. All Saints is Monday, Nov. 1, 2027, and the USCCB row reads "All Saints (not
 
 ## Is Jan. 1, 2027 a holy day of obligation?
 
-Yes. January 1, 2027 is a Friday, and the USCCB lists "Solemnity of Mary, the Holy Mother of God ... The Octave Day of the Nativity of the Lord" as a Solemnity with the Holyday of Obligation mark. The row carries no note limiting it to certain provinces. Our [January 2027 printable calendar](/january-calendars.html) shows the day, and our [January 2027 dates story](/news/january-2027-important-dates-holidays-days-until/) lists what else falls that month.
+Yes. January 1, 2027 is a Friday, and the USCCB lists "Solemnity of Mary, the Holy Mother of God ... The Octave Day of the Nativity of the Lord" as a Solemnity with the Holyday of Obligation mark. The row carries no note limiting it to certain provinces. Our [January 2027 printable calendar](/january-calendars.html) shows the day, and our [January 2027 dates story](/news/january-2027-calendar-printable/) lists what else falls that month.
 
 ## When is Ascension Thursday 2027, and is it a holy day of obligation?
 

@@ -15,6 +15,7 @@ import path from "node:path";
 import { fileURLToPath } from "node:url";
 import YAML from "yaml";
 import { TITLE_H1_SINCE } from "./lib/story-patterns.mjs";
+import { isStaleDailyPuzzle } from "../apps/news/src/lib/stale-puzzle.mjs";
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const ARTICLES = path.join(ROOT, "apps/news/src/content/articles");
@@ -78,7 +79,9 @@ async function verify(slug) {
   const canonical = h.match(/<link rel="canonical" href="([^"]+)"/)?.[1];
   add("canonical", canonical === url, canonical ?? "missing");
   const robots = h.match(/<meta name="robots" content="([^"]+)"/)?.[1] ?? "";
-  add("robots", fm.noindex ? /noindex/.test(robots) : !/noindex/.test(robots), robots || "missing");
+  // Out of the index: marked in the frontmatter, or a daily puzzle page a week old (stale-puzzle.mjs).
+  const noindex = !!fm.noindex || isStaleDailyPuzzle({ slug, category: fm.category, publishedAt: fm.publishedAt });
+  add("robots", noindex ? /noindex/.test(robots) : !/noindex/.test(robots), robots || "missing");
   const h1 = decode(h.match(/<h1[^>]*>([\s\S]*?)<\/h1>/)?.[1] ?? "");
   add("H1 = title", h1 === fm.title, h1 || "missing");
   const title = decode(h.match(/<title>([^<]*)<\/title>/)?.[1] ?? "");
@@ -89,7 +92,7 @@ async function verify(slug) {
   add("datePublished", sameInstant(published, fm.publishedAt), `${published} vs ${fm.publishedAt}`);
   const modified = h.match(/"dateModified":"([^"]+)"/)?.[1];
   add("dateModified", sameInstant(modified, fm.updatedAt ?? fm.publishedAt), `${modified} vs ${fm.updatedAt ?? fm.publishedAt}`);
-  if (!fm.noindex) add("post sitemap", (await sitemapUrls()).has(url));
+  if (!noindex) add("post sitemap", (await sitemapUrls()).has(url));
   return { slug, url, ok: checks.every((c) => c.ok), checks };
 }
 

@@ -3,6 +3,7 @@ title: "January 2027 Calendar Printable: 12 Free Templates, PDF"
 description: "January 2027 starts on Friday, Jan. 1 and has 31 days. Get 12 free printable calendar templates in PDF, with holidays, week numbers and moon phases."
 type: explainer
 publishedAt: "2026-10-26T04:50:00-04:00"
+updatedAt: "2026-11-23T15:48:38-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["january 2027 calendar", "january 2027 calendar printable", "january 2027 calendar with holidays", "printable january 2027 calendar pdf", "blank january 2027 calendar"]
@@ -27,6 +28,10 @@ faq:
     a: "Under the ISO 8601 standard, Friday, Jan. 1 to Sunday, Jan. 3, 2027 are in week 53 of 2026. Week 1 of 2027 starts Monday, Jan. 4."
   - q: "When is the full moon in January 2027?"
     a: "Friday, Jan. 22, 2027 at 7:17 a.m. EST, according to the U.S. Naval Observatory. It is often called the Wolf Moon. The new moon is Thursday, Jan. 7 at 3:24 p.m. EST."
+  - q: "When is the Quadrantid meteor shower in 2027?"
+    a: "The American Meteor Society lists the peak night as Jan. 3-4, with a predicted peak near 10:30 p.m. Eastern Standard Time on Sunday, Jan. 3."
+  - q: "When are the NFL playoffs in January 2027?"
+    a: "Wild Card Weekend is Jan. 16-18, the Divisional Playoffs are Jan. 23-24 and the Championship Games are Sunday, Jan. 31, according to the league's important dates list."
   - q: "Are these January 2027 calendars free to print?"
     a: "Yes. All 12 templates are free to download and print for personal, classroom and office use, with no sign-up. Each is a one-page US Letter PDF and a PNG image."
 sources:
@@ -48,6 +53,24 @@ sources:
   - title: "Dates and deadlines for 2027 health insurance"
     url: "https://www.healthcare.gov/quick-guide/dates-and-deadlines/"
     publisher: "HealthCare.gov (Centers for Medicare & Medicaid Services)"
+  - title: "Meteor Shower Calendar"
+    url: "https://www.amsmeteors.org/meteor-showers/meteor-shower-calendar/"
+    publisher: "American Meteor Society"
+  - title: "2026-27 National Football League important dates"
+    url: "https://www.nfl.com/news/2026-27-national-football-league-important-dates"
+    publisher: "National Football League"
+  - title: "The 84th Annual Golden Globes: Timetable, Eligibility Rules and Campaign Guidelines Announced"
+    url: "https://goldenglobes.com/articles/the-84th-annual-golden-globes-timetable-eligibility-rules-and-campaign-guidelines-announced/"
+    publisher: "Golden Globes"
+  - title: "32nd Annual Critics Choice Awards to be held on Sunday, January 3, 2027"
+    url: "https://www.criticschoice.com/32nd-annual-critics-choice-awards-to-be-held-on-sunday-january-3-2027-at-the-barker-hangar/"
+    publisher: "Critics Choice Association"
+  - title: "99th Oscars and Academy key dates"
+    url: "https://www.oscars.org/99th-oscars-and-academy-key-dates"
+    publisher: "Academy of Motion Picture Arts and Sciences"
+  - title: "Burns Night"
+    url: "https://www.visitscotland.com/things-to-do/events/burns-night"
+    publisher: "VisitScotland"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January printable calendars by year"
@@ -55,6 +78,8 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve"
+  - href: "/printable-weekly-calendar.html"
+    label: "Printable weekly calendar"
 related: [february-2027-calendar-printable, january-2027-reset-planner-printable, girl-scout-cookies-2027-new-cookies-season-dates]
 downloads:
   - group: "January 2027 calendar templates"
@@ -178,27 +203,51 @@ The calendar repeats exactly: 2021 and 2010 also start on a Friday and have 365 
 
 ## January 2027 holidays and key dates
 
-Only the first two rows below are federal holidays. The rest are dates that often go on a January calendar, each from the agency that sets it.
+Two rows below are federal holidays. The rest are dates that go on a January calendar, each from the agency or organizer that sets it.
 
 | Date | What | Source |
 |---|---|---|
 | Thu., Dec. 31, 2026 | January Supplemental Security Income (SSI) paid early, because Jan. 1 is a holiday | Social Security Administration |
-| Fri., Jan. 1 | New Year's Day, federal holiday | OPM |
+| Fri., Jan. 1 | New Year's Day, federal holiday; Harvard Regular Decision deadline | OPM; Harvard admissions page |
 | Sat., Jan. 2, 9:33 p.m. EST | Earth at perihelion, its closest point to the Sun for the year | U.S. Naval Observatory |
+| Sun., Jan. 3, about 10:30 p.m. EST | Quadrantid meteor shower peak night begins (Jan. 3-4) | American Meteor Society |
+| Sun., Jan. 3 | 32nd Critics Choice Awards on USA Network, 7 to 10 p.m. Eastern Time (ET) | Critics Choice Association |
+| Tue., Jan. 5 | Stanford, Penn and Brown Regular Decision deadlines | Each college's admissions page |
+| Wed., Jan. 6 | Three Kings Day | Fresh Calendars |
+| Thu., Jan. 7 | Orthodox Christmas | Fresh Calendars' calendar arithmetic |
 | Thu., Jan. 7, 3:24 p.m. EST | New moon | U.S. Naval Observatory |
+| Sat., Jan. 9 to Sun., Jan. 10 | National Football League (NFL) Week 18, the end of the regular season | NFL |
+| Sun., Jan. 10 | 84th Golden Globes on CBS | Golden Globes |
 | Wed., Jan. 13 | Social Security payment, birthdays on the 1st to 10th | Social Security Administration |
 | Fri., Jan. 15 | Fourth-quarter 2026 estimated tax payment due | Internal Revenue Service (IRS) |
 | Fri., Jan. 15 | Last day of HealthCare.gov open enrollment for 2027 plans | HealthCare.gov |
 | Fri., Jan. 15, 3:34 p.m. EST | First quarter Moon | U.S. Naval Observatory |
+| Sat., Jan. 16 to Mon., Jan. 18 | NFL Wild Card Weekend | NFL |
 | Mon., Jan. 18 | Martin Luther King Jr. Day, federal holiday | OPM |
 | Wed., Jan. 20 | Social Security payment, birthdays on the 11th to 20th | Social Security Administration |
+| Thu., Jan. 21 | Oscar nominations announced | Academy of Motion Picture Arts and Sciences |
 | Fri., Jan. 22, 7:17 a.m. EST | Full moon, often called the Wolf Moon | U.S. Naval Observatory |
+| Sat., Jan. 23 to Sun., Jan. 24 | NFL Divisional Playoffs | NFL |
+| Mon., Jan. 25 | Burns Night | VisitScotland |
 | Wed., Jan. 27 | Social Security payment, birthdays on the 21st to 31st | Social Security Administration |
 | Fri., Jan. 29, 5:55 a.m. EST | Last quarter Moon | U.S. Naval Observatory |
+| Sun., Jan. 31 | NFL American Football Conference (AFC) and National Football Conference (NFC) Championship Games | NFL |
 
 The perihelion date depends on the time zone. The Naval Observatory lists it at 02:33 Universal Time (UT) on Jan. 3, which is still the evening of Jan. 2 in the United States. States that run their own health insurance marketplace can set a later deadline than Jan. 15. The IRS has not yet announced when the 2027 filing season opens.
 
 New Year's Day does not move this time. Jan. 1, 2027 is a Friday, so nobody gets an extra observed day, and the three-day weekend runs Jan. 1 to 3. Some 2027 calendars online still show Saturday, Jan. 2 as "New Year's Day observed"; OPM lists no such day. The full list of 2027 days off is in our [federal holidays 2027](/news/federal-holidays-2027-observed-dates-list/) story, and stock market closures are in [stock market holidays 2027](/news/stock-market-holidays-2027-nyse-closed-dates/).
+
+## Awards, football and holy days in January 2027
+
+The Critics Choice Awards come first, on Sunday, Jan. 3. The 84th Golden Globes follow on Sunday, Jan. 10, on CBS, and Oscar nominations are announced Thursday, Jan. 21. The full season is in our [awards calendar for 2027](/news/golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar/).
+
+The NFL's important dates list puts the end of the regular season in Week 18 on Jan. 9-10, Wild Card Weekend on Jan. 16-18, the Divisional Playoffs on Jan. 23-24 and the Championship Games on Sunday, Jan. 31. Wild Card Weekend ends on Martin Luther King Jr. Day. Matchups are set after Week 18; see the [NFL playoff schedule for 2027](/news/nfl-playoff-schedule-2027-wild-card-divisional-championship-super-bowl-lxi/).
+
+Orthodox Christmas falls on Thursday, Jan. 7, and Three Kings Day on Wednesday, Jan. 6. The Jan. 7 date is Fresh Calendars' calendar arithmetic: Dec. 25 on the Julian calendar is Jan. 7 on the Gregorian calendar until 2100. The reasoning is in our [Orthodox Christmas 2027 story](/news/orthodox-christmas-2027-january-7-three-kings-day-january-6/). Burns Night, the birthday of the poet Robert Burns, is Monday, Jan. 25, according to VisitScotland, and our [Burns Night 2027 story](/news/burns-night-2027-january-25-burns-supper-order-of-events/) sets out the order of a Burns Supper. For Catholics, Friday, Jan. 1 is also the Solemnity of Mary, the Holy Mother of God, a holy day of obligation in the 2027 U.S. liturgical calendar; our [holy days of obligation 2027 list](/news/holy-days-of-obligation-2027-us-dates/) has the rest of the year.
+
+## College application deadlines in January 2027
+
+Harvard lists Jan. 1 for Regular Decision, and Yale, Cornell and Johns Hopkins list Jan. 2. Duke and Notre Dame list Jan. 4, and Stanford, Penn and Brown list Jan. 5. These are the dates on each college's admissions page on Oct. 31, 2026; the [Regular Decision deadlines story](/news/regular-decision-deadlines-2027-january-1-january-5-colleges/) has the wording and the weekday of each.
 
 ## 12 free printable January 2027 calendar templates
 

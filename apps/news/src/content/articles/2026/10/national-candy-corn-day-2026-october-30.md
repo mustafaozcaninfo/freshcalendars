@@ -106,6 +106,7 @@ downloads:
     png: "/news/downloads/halloween-2026/candy-corn-day-party-checklist-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **National Candy Corn Day was Friday, Oct. 30, 2026, the day before Halloween on Saturday, Oct. 31.** It is an informal observance: we found no documented founder and no government proclamation behind it. The Museum of the Grand Prairie in Champaign County, Ill., marks it on Oct. 30 in its history of the candy. Below: how candy corn started, what a standard bag lists on the label, and a printable checklist for a Friday or Halloween treat table.

@@ -99,6 +99,7 @@ internalLinks:
     label: "November 2026 printable calendar"
 related: [daylight-saving-time-ends-november-1-2026, us-india-time-difference-after-november-1-2026-ist-10-5-hours, uk-europe-clocks-go-back-october-25-2026-time-difference]
 draft: false
+noindex: true
 ---
 
 US clocks fell back at 2 a.m. local time on **Sunday, Nov. 1, 2026**, according to the National Institute of Standards and Technology (NIST), and from then New York is 9 hours behind Dubai; it was 8. The United Arab Emirates (UAE) keeps the same time all year, so the whole change lands on the US side. A one-page [printable US to Middle East time converter](/news/downloads/time-change-2026/us-middle-east-time-converter-2026.pdf) is on this page.

@@ -108,6 +108,7 @@ internalLinks:
     label: "November 2026 printable calendar"
 related: [daylight-saving-time-ends-november-1-2026, mexico-time-difference-after-november-1-2026-us-clocks-fall-back, sao-paulo-grand-prix-2026-schedule-race-time-by-time-zone]
 draft: false
+noindex: true
 ---
 
 New York is **2 hours behind São Paulo and Brasília**, the gap in place since U.S. clocks fell back to standard time at 2 a.m. local time on Sunday, Nov. 1, 2026. Brazil did not move its clocks, so the whole one-hour shift landed in the United States, under the rule from the National Institute of Standards and Technology (NIST). A one-page [printable US-Brazil time converter](/news/downloads/time-change-2026/us-brazil-time-difference-november-2026.pdf) is on this page for your desk.

@@ -90,7 +90,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [advent-calendar-2026-dates-free-printable, december-2026-important-dates-holidays-days-until, video-game-release-dates-december-2026]
+related: [advent-calendar-2026-dates-free-printable, december-2026-calendar-printable, video-game-release-dates-december-2026]
 draft: false
 ---
 
@@ -158,4 +158,4 @@ On artificial intelligence (AI), the About page asks "Should I use AI to solve A
 
 ## Free Advent of Code 2026 puzzle tracker to print
 
-The printable lists the Dec. 1 release with a box to mark when you solve Day 1, plus what the site has not stated. It is one US Letter page with no site art or logos. For the holiday around it, see our [December 2026 printable calendar](/december-calendars.html), the [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/) story and the [Advent calendar 2026 dates](/news/advent-calendar-2026-dates-free-printable/) guide. Game launches in the same month are in [video game release dates for December 2026](/news/video-game-release-dates-december-2026/).
+The printable lists the Dec. 1 release with a box to mark when you solve Day 1, plus what the site has not stated. It is one US Letter page with no site art or logos. For the holiday around it, see our [December 2026 printable calendar](/december-calendars.html), the [December 2026 important dates](/news/december-2026-calendar-printable/) story and the [Advent calendar 2026 dates](/news/advent-calendar-2026-dates-free-printable/) guide. Game launches in the same month are in [video game release dates for December 2026](/news/video-game-release-dates-december-2026/).

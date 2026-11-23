@@ -26,3 +26,4 @@ scripts/.mobile-*.png
 # Trending ranking CI reads before the news build (scripts/news-trending.mjs)
 apps/news/.trending.json
 apps/news/.trending.json.tmp
+gsc-export/

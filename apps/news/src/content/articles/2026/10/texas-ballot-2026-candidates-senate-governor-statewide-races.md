@@ -69,6 +69,7 @@ downloads:
     png: "/news/downloads/election-2026/texas-ballot-checklist-2026.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Texas voters elected a U.S. senator, a governor and seven other statewide officials on Tuesday, Nov. 3, 2026, and filled 10 seats on the state's three statewide courts.** The Secretary of State certified the candidates on Aug. 28, and every name below comes from that ballot certification. The U.S. Senate seat held by John Cornyn was open, and Gov. Greg Abbott and Lt. Gov. Dan Patrick were on the ballot again. There were no statewide propositions this year. Below: each statewide race, the courts, what else was on the ballot, and the dates that mattered. For results, see our [Texas election results guide](/news/texas-election-results-2026-polls-close-where-to-follow-canvass-dates/).

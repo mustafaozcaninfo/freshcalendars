@@ -1,17 +1,17 @@
 # The week in numbers (generated, do not edit)
 
-Built 2026-11-23T09:14 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
+Built 2026-11-23T21:19 UTC. Last 7 days against the 7 before. Sources: `traffic.md` (beacon), `clarity.md`, `search-console.md`. How to read them: `docs/ANALYTICS.md`.
 
 ## Real readers (beacon)
 
 | | This week | Week before | Change |
 |---|---:|---:|---:|
-| Page views | 7,685 | 11,011 | -30% |
+| Page views | 8,678 | 11,011 | -21% |
 | Avg. seconds on page | 66 | 81 | -18% |
 | Avg. deepest scroll | 25% | 26% | |
-| Views from inside the site | 5.0% | 6.6% | |
+| Views from inside the site | 4.9% | 6.6% | |
 
-Devices: desktop 4,371 (73 s, 27% scroll) · mobile 4,255 (59 s, 23% scroll) · tablet 85 (75 s, 31% scroll)
+Devices: desktop 4,557 (73 s, 28% scroll) · mobile 4,228 (59 s, 23% scroll) · tablet 84 (84 s, 31% scroll)
 
 ## Clarity (daily average)
 
@@ -33,23 +33,23 @@ Devices: desktop 4,371 (73 s, 27% scroll) · mobile 4,255 (59 s, 23% scroll) · 
 
 ## Most read categories
 
-- sports: 1,670 views (+40%), 12 per story
-- holidays: 1,662 views (-62%), 15 per story
-- puzzles: 1,426 views (-23%), 10 per story
-- retail-dates: 1,267 views (+27%), 14 per story
-- entertainment: 623 views (+51%), 11 per story
-- uk-canada: 611 views (-22%), 11 per story
+- sports: 1,822 views (+55%), 12 per story
+- holidays: 1,785 views (-55%), 15 per story
+- retail-dates: 1,349 views (+35%), 15 per story
+- puzzles: 1,233 views (-40%), 9 per story
+- entertainment: 620 views (+45%), 11 per story
+- uk-canada: 602 views (-21%), 10 per story
 
 ## Most read stories
 
-- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 710 views, 103 s
-- /news/cpkc-holiday-train-2026-schedule-stops-times/: 439 views, 108 s
-- /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/: 202 views, 101 s
-- /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/: 191 views, 97 s
-- /news/ottawa-santa-claus-parade-2026-november-21-route-time/: 188 views, 96 s
-- /news/nyt-connections-hints-answers-november-22-2026-1260/: 187 views, 45 s
-- /news/nyt-connections-hints-answers-november-17-2026-1255/: 168 views, 52 s
-- /news/nyt-midi-crossword-answers-november-16-2026/: 160 views, 46 s
-- /news/december-2026-calendar-printable/: 144 views, 19 s
-- /news/winter-solstice-2026-december-21-shortest-day-sunset-times/: 127 views, 49 s
+- /news/thanksgiving-football-schedule-2026-nfl-college-games/: 801 views, 104 s
+- /news/cpkc-holiday-train-2026-schedule-stops-times/: 524 views, 108 s
+- /news/nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us/: 204 views, 101 s
+- /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/: 193 views, 96 s
+- /news/nyt-connections-hints-answers-november-22-2026-1260/: 190 views, 46 s
+- /news/ottawa-santa-claus-parade-2026-november-21-route-time/: 186 views, 94 s
+- /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/: 155 views, 97 s
+- /news/december-2026-calendar-printable/: 139 views, 20 s
+- /news/winter-solstice-2026-december-21-shortest-day-sunset-times/: 137 views, 66 s
+- /news/nfl-sunday-ticket-deal-2026-48-dollars-ends-november-30/: 117 views, 107 s
 

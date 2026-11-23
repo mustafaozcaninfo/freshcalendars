@@ -1,3 +1,4 @@
+import { isStaleDailyPuzzle } from "./stale-puzzle.mjs";
 /**
  * Fresh_News AdSense units, in plain JS so astro.config.mjs (the in-article rehype plugin) and
  * src/lib/ads.ts share one copy. The publisher ID matches ADSENSE_CLIENT in site-chrome.
@@ -48,7 +49,9 @@ export function rehypeMidArticleAd() {
     // Stories only: policy pages in src/content/policies stay ad-free.
     if (!ADS_ENABLED || !/[\\/]content[\\/]articles[\\/]/.test(file?.path ?? file?.history?.[0] ?? "")) return;
     const fm = file.data?.astro?.frontmatter;
-    if (fm?.noindex) return; // a story kept out of the index carries no ads (01-ADS-CENTER)
+    // A story kept out of the index carries no ads (01-ADS-CENTER): marked noindex, or a stale daily puzzle page.
+    const storyPath = file?.path ?? file?.history?.[0] ?? "";
+    if (fm?.noindex || isStaleDailyPuzzle({ slug: storyPath.split(/[\\/]/).pop().replace(/\.md$/, ""), category: fm?.category, publishedAt: fm?.publishedAt })) return;
     const kids = tree.children;
     const h2 = kids.map((n, i) => (n.type === "element" && n.tagName === "h2" ? i : -1)).filter((i) => i >= 0);
     if (h2.length < NEWS_AD_RULES.minSections) return;

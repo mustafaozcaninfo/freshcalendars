@@ -128,7 +128,7 @@ internalLinks:
     label: "When is Memorial Day?"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [june-2027-important-dates-holidays-days-until, april-2027-important-dates-holidays-days-until, mothers-day-2027-may-9-memorial-day-2027-may-31-long-weekend]
+related: [june-2027-important-dates-holidays-days-until, april-2027-calendar-printable, mothers-day-2027-may-9-memorial-day-2027-may-31-long-weekend]
 draft: false
 ---
 
@@ -175,7 +175,7 @@ To count from another day, add the days left in the current month to the days in
 
 ## Memorial Day 2027: the only federal holiday in May
 
-OPM's federal holiday list shows "Monday, May 31" for Memorial Day. The long weekend runs from Saturday, May 29 to Monday, May 31, computed. Our [Mother's Day and Memorial Day 2027 story](/news/mothers-day-2027-may-9-memorial-day-2027-may-31-long-weekend/) covers the weekend, and the [Memorial Day date page](/when-is/memorial-day/) has other years. The previous month in this series is the [April 2027 important dates](/news/april-2027-important-dates-holidays-days-until/) story.
+OPM's federal holiday list shows "Monday, May 31" for Memorial Day. The long weekend runs from Saturday, May 29 to Monday, May 31, computed. Our [Mother's Day and Memorial Day 2027 story](/news/mothers-day-2027-may-9-memorial-day-2027-may-31-long-weekend/) covers the weekend, and the [Memorial Day date page](/when-is/memorial-day/) has other years. The previous month in this series is the [April 2027 important dates](/news/april-2027-calendar-printable/) story.
 
 In England and Wales, GOV.UK lists the Early May bank holiday on Monday, 3 May and the Spring bank holiday on Monday, 31 May.
 

@@ -95,6 +95,7 @@ downloads:
     png: "/news/downloads/premier-league-2026-27/premier-league-tv-guide-october-31-november-2-2026.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **The Premier League weekend opened Saturday, Oct. 31, 2026 with Chelsea v Manchester United at 12:30pm UK time, which was 8:30 a.m. Eastern Time (ET), according to the Premier League.** The match was on Turner Network Television (TNT) Sports in the UK, and NBC Sports listed it on USA Network in the US. Ten matches were played between Saturday and Monday, Nov. 2.

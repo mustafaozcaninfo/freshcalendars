@@ -91,6 +91,7 @@ downloads:
     png: "/news/downloads/world-polio-day-2026/polio-vaccine-check-list-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 <p class="callout"><b>Updated Sun., Oct. 25, 2026.</b> World Polio Day 2026, Saturday, Oct. 24, has passed. It is Oct. 24 every year; in 2027 it falls on a Sunday. The Global Polio Eradication Initiative (GPEI) keeps posting case counts weekly.</p>

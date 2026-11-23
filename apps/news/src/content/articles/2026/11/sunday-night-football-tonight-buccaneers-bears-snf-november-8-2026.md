@@ -111,6 +111,7 @@ internalLinks:
     label: "December 2026 printable calendar"
 related: [nfl-week-9-schedule-2026-printable-pick-em-sheet-game-times, sunday-night-football-tonight-eagles-commanders-snf-november-1-2026]
 draft: false
+noindex: true
 ---
 
 **The Chicago Bears beat the Tampa Bay Buccaneers 27-24 on Sunday Night Football (SNF) on Sunday, Nov. 8, 2026, according to the NFL.com Week 9 page.** Kickoff was at 8:20 p.m. Eastern Time (ET) on NBC. The game was at Soldier Field, and the Bears listed kickoff as 7:20 p.m. Central Time (CT). It was Week 9 of the National Football League (NFL) season. Clocks had fallen back on Nov. 1, so 8:20 p.m. ET was Eastern Standard Time (EST).

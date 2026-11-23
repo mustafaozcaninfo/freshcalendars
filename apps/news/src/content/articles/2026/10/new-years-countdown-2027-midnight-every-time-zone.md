@@ -56,7 +56,7 @@ internalLinks:
     label: "When is New Year’s Eve?"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [times-square-ball-drop-2026-time-how-to-watch-time-zones, december-2026-important-dates-holidays-days-until, watch-night-2026-december-31-freedoms-eve]
+related: [times-square-ball-drop-2026-time-how-to-watch-time-zones, december-2026-calendar-printable, watch-night-2026-december-31-freedoms-eve]
 assets:
   overlay: true
   kicker: "New Year 2027"
@@ -192,7 +192,7 @@ New York, Toronto and Winnipeg share UTC-5, so midnight there falls at 12:00 a.m
 
 Daylight time in the southern hemisphere shifts several of the earliest midnights. New Zealand’s daylight saving started on Sept. 27, 2026 at 2 a.m. and ends on April 4, 2027 at 3 a.m., per the New Zealand Government, which puts Auckland and Wellington at UTC+13. In Australia, New South Wales daylight saving started Sunday, Oct. 4, 2026 and ends Sunday, April 4, 2027. New South Wales, Victoria, South Australia, Tasmania and the Australian Capital Territory observe it, while Queensland, Western Australia and the Northern Territory do not. That is why Sydney (UTC+11), Brisbane (UTC+10) and Perth (UTC+8) reach midnight at three different hours.
 
-Our [New Year’s Eve date page](/when-is/new-years-eve/) and the [printable yearly calendar](/printable-yearly-calendar.html) cover the date itself. For other end-of-year dates, see [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/).
+Our [New Year’s Eve date page](/when-is/new-years-eve/) and the [printable yearly calendar](/printable-yearly-calendar.html) cover the date itself. For other end-of-year dates, see [December 2026 important dates](/news/december-2026-calendar-printable/).
 
 ## Print the countdown list
 

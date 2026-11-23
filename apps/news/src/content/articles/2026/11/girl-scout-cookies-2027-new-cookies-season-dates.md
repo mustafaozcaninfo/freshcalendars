@@ -144,7 +144,7 @@ internalLinks:
     label: "February 2027 printable calendar"
   - href: "/march-calendars.html"
     label: "March 2027 printable calendar"
-related: [january-2027-important-dates-holidays-days-until, valentines-day-2027-sunday-february-14-dates-printables, holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks]
+related: [january-2027-calendar-printable, valentines-day-2027-sunday-february-14-dates-printables, holiday-deals-this-week-november-2-8-2026-target-best-buy-starbucks]
 downloads:
   - group: "Girl Scout Cookie Season 2027 Dates by Council printables"
     title: "Girl Scout Cookie Season 2027 Dates by Council"
@@ -200,4 +200,4 @@ Not yet announced or not found on pages we could read: a price per box, a date f
 
 ## Print the Girl Scout cookie season 2027 date sheet
 
-The free printable below puts the national Jan. 12 online launch and the four councils' start, booth and end dates on one US Letter page, with the gaps listed as not yet announced. It uses no Girl Scouts logos or art. For other January plans, see our [January 2027 important dates](/news/january-2027-important-dates-holidays-days-until/) story.
+The free printable below puts the national Jan. 12 online launch and the four councils' start, booth and end dates on one US Letter page, with the gaps listed as not yet announced. It uses no Girl Scouts logos or art. For other January plans, see our [January 2027 important dates](/news/january-2027-calendar-printable/) story.

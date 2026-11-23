@@ -101,6 +101,7 @@ assets:
     description: "A one-page UK aurora watch sheet with darkness times for northern Scottish cities on 1 and 2 November 2026 and the Met Office outlook."
     alt: "UK aurora watch sheet listing darkness times in GMT for Lerwick, Kirkwall, Inverness and Aberdeen and the Met Office outlook"
 draft: false
+noindex: true
 ---
 
 **On Sunday 1 November 2026, from full darkness around 6:30 to 6:50 p.m. Greenwich Mean Time (GMT) in Scotland, the Met Office gave a chance of aurora sightings across northern Scotland where skies were clear.** The forecast, issued at 14:42 GMT, said a solar wind enhancement arrived on Saturday 31 October and increased auroral activity. Below are darkness times for eight UK cities, the National Oceanic and Atmospheric Administration (NOAA) numbers for the evening, and when activity was expected to fade.

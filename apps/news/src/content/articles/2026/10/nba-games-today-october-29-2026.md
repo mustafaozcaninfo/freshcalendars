@@ -95,6 +95,7 @@ downloads:
     png: "/news/downloads/nba-2026-27/nba-games-today-october-29-2026.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Three National Basketball Association (NBA) games were played on Thursday, Oct. 29, 2026, with tip-offs at 8:00 p.m. and 10:00 p.m. Eastern Time (ET).** The Atlanta Hawks beat the Cleveland Cavaliers 114-111 on NBA TV, the New Orleans Pelicans beat the Sacramento Kings 132-120, and the Memphis Grizzlies beat the Portland Trail Blazers 124-103, according to CBS Sports and ESPN.

@@ -104,6 +104,7 @@ internalLinks:
     label: "When does daylight saving time end?"
 related: [nfl-week-8-schedule-2026-game-times-tv-clock-change, monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026, sunday-night-football-tonight-buccaneers-bears-snf-november-8-2026]
 draft: false
+noindex: true
 ---
 
 **The Washington Commanders beat the Philadelphia Eagles 27-10 on Sunday Night Football (SNF) on Sunday, Nov. 1, 2026, in Week 8 of the National Football League (NFL) season, according to NFL.com.** Kickoff was at 8:20 p.m. Eastern Time (ET) on NBC, per the Week 8 schedule. NBC Sports Philadelphia said the game also streamed on Peacock and NBC.com, and the NBC and Peacock pregame started at 7 p.m. ET. The game was at Northwest Stadium in Landover, Md.

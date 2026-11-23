@@ -143,6 +143,7 @@ downloads:
     pages: 1
 related: [college-basketball-2026-27-key-dates-season-start-march-madness-printable, acc-sec-challenge-2026-schedule-times-tv, jimmy-v-classic-2026-duke-georgia-alabama-houston-tip-times-espn]
 draft: false
+noindex: true
 ---
 
 **College basketball's season tipped off Monday, Nov. 2, 2026, with No. 1 Florida beating No. 14 Miami 77-67 at 6 p.m. Eastern Time (ET) on ESPN2 in Tampa, and ESPN's schedule listed 18 men's games with a Top 25 team that day.** Below: every opening-night game with its channel, the tipoffs in Central, Mountain and Pacific time, the women's games, both preseason polls, the first week's results through the Champions Classic on Nov. 10 and a one-page watch sheet.

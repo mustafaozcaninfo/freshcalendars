@@ -90,7 +90,7 @@ internalLinks:
     label: "When is Black Friday?"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [lego-advent-calendars-2026-prices-whats-inside, cyber-monday-2026-date-sale-start-times-by-store, five-below-black-friday-2026-doorbusters-november-27]
+related: [lego-advent-calendars-2026-prices-whats-inside, cyber-monday-2026-date-sale-start-times-by-store, legoland-black-friday-2026-annual-pass-sale-ends-november-29]
 downloads:
   - group: "LEGO Black Friday 2026 Date Sheet and Shopping Checklist printables"
     title: "LEGO Black Friday 2026 Date Sheet and Shopping Checklist"

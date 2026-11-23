@@ -111,7 +111,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [human-rights-day-2026-december-10, rosa-parks-day-2026-december-1-states, december-2026-important-dates-holidays-days-until]
+related: [human-rights-day-2026-december-10, rosa-parks-day-2026-december-1-states, december-2026-calendar-printable]
 downloads:
   - group: "Bill of Rights Day 2026 Amendments Activity Sheet printables"
     title: "Bill of Rights Day 2026 Amendments Activity Sheet"
@@ -176,7 +176,7 @@ The date is fixed at Dec. 15. The weekdays are our calculation.
 | 2030 | Dec. 15 | Sunday |
 | 2031 | Dec. 15 | Monday |
 
-Mark it on the [December 2026 printable calendar](/december-calendars.html). Human Rights Day follows on [Thursday, Dec. 10](/news/human-rights-day-2026-december-10/) and [Wright Brothers Day](/news/wright-brothers-day-2026-december-17/) on Dec. 17. For the rest of the month, see [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/).
+Mark it on the [December 2026 printable calendar](/december-calendars.html). Human Rights Day follows on [Thursday, Dec. 10](/news/human-rights-day-2026-december-10/) and [Wright Brothers Day](/news/wright-brothers-day-2026-december-17/) on Dec. 17. For the rest of the month, see [December 2026 important dates](/news/december-2026-calendar-printable/).
 
 ## Can you see the Bill of Rights in person?
 

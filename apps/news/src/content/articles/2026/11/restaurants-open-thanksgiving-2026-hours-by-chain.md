@@ -3,7 +3,7 @@ title: "Restaurants Open on Thanksgiving 2026: Bob Evans 8 a.m.-7 p.m."
 description: "Restaurants open on Thanksgiving 2026 (Thu., Nov. 26): Chick-fil-A is closed. Pickup windows, order deadlines and a printable list by chain."
 type: news
 publishedAt: "2026-11-11T23:30:00-05:00"
-updatedAt: "2026-11-19T01:42:00-05:00"
+updatedAt: "2026-11-23T14:46:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["restaurants open on thanksgiving 2026", "what restaurants are open thanksgiving day", "is cracker barrel open on thanksgiving", "is chick-fil-a open on thanksgiving"]
@@ -92,6 +92,18 @@ sources:
     url: "https://www.nrn.com/family-dining/cracker-barrel-announces-country-fried-turkey-sandwich-and-more-for-holiday-menu-lineup"
     publisher: "National Restaurant News"
     date: "2026-10-20"
+  - title: "Celebrate Thanksgiving with Fogo de Chão | To-Go & Catering"
+    url: "https://fogodechao.com/thanksgiving-togo-catering/"
+    publisher: "Fogo de Chão"
+    date: "2026-11-23"
+  - title: "Thanksgiving Day Special"
+    url: "https://www.blackangus.com/thanksgiving/"
+    publisher: "Black Angus Steakhouse"
+    date: "2026-11-23"
+  - title: "Thanksgiving Dinner | Turkey or Ham & sides for 1, 4 or 8+ people"
+    url: "https://metrodiner.com/holiday-feast/thanksgiving/"
+    publisher: "Metro Diner"
+    date: "2026-11-23"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -121,9 +133,11 @@ Each chain name links to the page the fact came from. Franchise and location hou
 | [Bob Evans](https://www.bobevans.com/thanksgiving) ([Farmhouse Feast guide](/news/bob-evans-thanksgiving-2026-farmhouse-feast-order-by-november-25/)) | Open 8 a.m. to 7 p.m. | Dining rooms are open for breakfast or a special homestyle Thanksgiving meal |
 | [Cracker Barrel](https://www.moneytalksnews.com/cracker-barrel-adds-new-dishes-to-its-holiday-menu/) | Plans to serve a Thanksgiving meal | MoneyTalksNews (Oct. 21, 2026) and [Food Network](https://www.foodnetwork.com/fn-dish/news/food-places-open-on-thanksgiving-2026) (Nov. 3, 2026) agree; no hours confirmed |
 | [The Capital Grille](https://www.thecapitalgrille.com/events/thanksgiving-dinner-menu) | Dine-in Thanksgiving dinner | Reservations; days and times may vary by location |
-| [Maggiano's Little Italy](https://maggianos.com/thanksgiving2026) | Dine-in hours not given | The page covers pickup bundles |
-| [Morton's The Steakhouse](https://www.mortons.com/) | Dine-in | Homepage lists "Dine In, Thursday, November 26" |
+| [Maggiano's Little Italy](https://maggianos.com/thanksgiving2026) ([carryout bundle guide](/news/maggianos-thanksgiving-2026-carryout-bundle-210-dine-in-menu/)) | Dine-in hours not given | The page covers pickup bundles |
+| [Morton's The Steakhouse](https://www.mortons.com/) ([menu and price guide](/news/mortons-thanksgiving-2026-menu-72-per-person-sides-to-go/)) | Dine-in | Homepage lists "Dine In, Thursday, November 26" |
 | [Chick-fil-A](https://www.chick-fil-a.com/customer-support/who-we-are/our-restaurants/are-chick-fil-a-restaurants-open-on-thanksgiving) | Closed | All U.S. restaurants are closed; a standing policy with no year on the page |
+
+Three more chains post Thanksgiving Day hours on their own pages, and each has its own guide here: [Fogo de Chão is open 11 a.m. to 8:30 p.m.](/news/fogo-de-chao-thanksgiving-2026-hours-to-go-family-meal/), [Black Angus Steakhouse is open 11 a.m. to 9 p.m.](/news/black-angus-thanksgiving-2026-turkey-dinner-29-99-hours/) and [Metro Diner is open until 2:30 p.m.](/news/metro-diner-thanksgiving-2026-holiday-feast-prices-order-by-november-24/)
 
 ## Thanksgiving meal pickup and order deadlines
 

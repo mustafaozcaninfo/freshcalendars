@@ -134,7 +134,7 @@ export function canonicalRows(rows) {
  * 28 days, the two 14-day halves and the page's top queries (from the query-page pairs, which the
  * API caps at 5,000 rows, so a page's long tail can be missing).
  */
-export function pageTable({ web = [], image = [], discover = [], cur = [], prev = [], pairs = [] }, { queriesPerPage = 5 } = {}) {
+export function pageTable({ web = [], image = [], discover = [], cur = [], prev = [], pairs = [] }, { queriesPerPage = 12 } = {}) {
   const slugOf = (url) => (section(url) === "news" ? (url.replace(/[?#].*$/, "").match(/\/news\/([^/]+)\/?$/) ?? [])[1] : undefined);
   const out = {};
   const row = (slug) => (out[slug] ??= { web: { clicks: 0, impressions: 0, position: null }, image: { clicks: 0, impressions: 0 }, discover: { clicks: 0, impressions: 0 }, web14: { clicks: 0, impressions: 0 }, webPrev14: { clicks: 0, impressions: 0 }, queries: [] });
@@ -249,14 +249,14 @@ async function call(url, token, body) {
   return data;
 }
 
-async function searchAnalytics(site, token, { start, end, dimensions, filter, searchType = "web", rowLimit = 1000 }) {
+async function searchAnalytics(site, token, { start, end, dimensions, filter, searchType = "web", rowLimit = 1000, maxRows = 10_000 }) {
   const rows = [];
   for (let startRow = 0; ; startRow += rowLimit) {
     const body = { startDate: start, endDate: end, dimensions, rowLimit, startRow, dataState: "final", searchType };
     if (filter) body.dimensionFilterGroups = [{ filters: [filter] }];
     const data = await call(`${API}/${encodeURIComponent(site)}/searchAnalytics/query`, token, body);
     rows.push(...(data.rows ?? []));
-    if ((data.rows ?? []).length < rowLimit || rows.length >= 10_000) return rows;
+    if ((data.rows ?? []).length < rowLimit || rows.length >= maxRows) return rows;
   }
 }
 
@@ -421,7 +421,8 @@ async function main() {
       searchAnalytics(site, token, { ...q28, dimensions: ["page"] }),
       searchAnalytics(site, token, { ...cur14, dimensions: ["page"] }),
       searchAnalytics(site, token, { ...prev14, dimensions: ["page"] }),
-      searchAnalytics(site, token, { ...q28, dimensions: ["query", "page"], rowLimit: 5000 }),
+      // 25,000 rows a request is the API's limit; 50,000 reaches the long tail the desks brief from.
+      searchAnalytics(site, token, { ...q28, dimensions: ["query", "page"], rowLimit: 25_000, maxRows: 50_000 }),
       searchAnalytics(site, token, { ...q28, dimensions: ["page"], searchType: "image" }),
       searchAnalytics(site, token, { ...q28, dimensions: ["page"], searchType: "discover" }),
       call(`${API}/${encodeURIComponent(site)}/sitemaps`, token).then((r) => r.sitemap ?? []).catch(() => []),
@@ -465,7 +466,7 @@ async function main() {
     writeFileSync(OUT_JSON, `${JSON.stringify(data, null, 1)}\n`);
     writeFileSync(OUT_MD, report(data));
     const pageRows = pageTable({ web: pages, image: imagePages, discover: discoverPages, cur: pagesCur, prev: pagesPrev, pairs });
-    writeFileSync(OUT_PAGES, `${JSON.stringify({ generatedAt: data.generatedAt, window: q28, halves: { web14: cur14, webPrev14: prev14 }, note: "Every /news/ page with web, image or Discover impressions in the 28 days; a story not listed had none. Top queries come from the 5,000 largest query-page rows.", pages: pageRows }, null, 1)}\n`);
+    writeFileSync(OUT_PAGES, `${JSON.stringify({ generatedAt: data.generatedAt, window: q28, halves: { web14: cur14, webPrev14: prev14 }, note: "Every /news/ page with web, image or Discover impressions in the 28 days; a story not listed had none. Up to 12 queries a page, from the 50,000 largest query-page rows.", pages: pageRows }, null, 1)}\n`);
     console.log(`search console: ${bySection.news.length} /news/ pages, ${data.opportunities.length} opportunities, ${data.image.pages.length} image pages, ${data.discover.pages.length} Discover pages, ${indexed.indexed}/${indexed.checked} indexed in the gate sample (${indexed.unknown} unknown), ${data.experiments.length} experiments`);
   } catch (e) {
     console.log(`::warning::search console: ${e.message}; files left as they are`);

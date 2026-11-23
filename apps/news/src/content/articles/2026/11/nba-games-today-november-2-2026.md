@@ -105,6 +105,7 @@ internalLinks:
     label: "Printable weekly calendar"
 related: [nba-games-today-november-1-2026, nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis, lakers-schedule-november-2026-game-times-tv-nba-cup-printable]
 draft: false
+noindex: true
 ---
 
 **There were 15 National Basketball Association (NBA) games on Monday, Nov. 2, 2026, with the first tip-off at 7:00 p.m. Eastern Time (ET) and the national TV game, Thunder at Cavaliers, on Peacock and NBC Sports Network, per the NBA.com games page.** The Thunder won it 117-112. The last three games started at 10:00 p.m. ET. The other 14 games showed NBA League Pass.

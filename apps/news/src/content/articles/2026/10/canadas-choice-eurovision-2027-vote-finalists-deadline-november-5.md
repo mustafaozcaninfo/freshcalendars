@@ -101,6 +101,7 @@ internalLinks:
     label: "May 2027 printable calendar"
 related: [eurovision-2027-dates-burgas-semi-finals-grand-final-may-15, remembrance-day-2026-canada-statutory-holiday-remembrance-sunday-uk, canada-statutory-holidays-2027-federal-general-holidays]
 draft: false
+noindex: true
 ---
 
 **Voting for Canada's Eurovision 2027 act opened on Tuesday, Oct. 27, 2026, and closed Thursday, Nov. 5, 2026, at 11:59 p.m. Pacific Time (PT), the Canadian Broadcasting Corporation (CBC)/Radio-Canada said.** Five finalists were on the ballot at CBC.ca/eurovision, and Canadians could vote for their preferred artist up to 10 times. CBC/Radio-Canada says the final choice will be announced by December, and as of Nov. 17, 2026, the winner has not been announced. Below are the finalists, the deadline in every Canadian time zone and the road to Burgas.

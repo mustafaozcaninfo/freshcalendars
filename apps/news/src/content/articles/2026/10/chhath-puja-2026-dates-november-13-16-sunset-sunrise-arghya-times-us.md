@@ -94,6 +94,7 @@ downloads:
     png: "/news/downloads/chhath-puja-2026/chhath-puja-2026-planner-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Chhath Puja 2026 runs from Friday, Nov. 13 to Monday, Nov. 16, according to the Ministry of Tourism, Government of India, on its Incredible India page.** The festival honors the Sun God, with offerings to the setting Sun on the third day and the rising Sun on the fourth. In our reading of the page's order of days, that makes Sandhya Arghya Sunday, Nov. 15 and Usha Arghya Monday, Nov. 16. Below are sunset and sunrise times for those two days in 10 US cities and Patna, from the U.S. Naval Observatory (USNO).

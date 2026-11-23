@@ -3,6 +3,7 @@ title: "April 2027 Calendar: Free Printable, Passover Begins April 21"
 description: "April 2027 has 30 days, starts Thursday, Apr. 1 and has no federal holiday. Free printable with Moon phase times in EDT, Passover and Patriots' Day."
 type: explainer
 publishedAt: "2026-11-23T06:20:00-05:00"
+updatedAt: "2026-11-23T15:48:44-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["april 2027 calendar", "april 2027 calendar printable", "april 2027 calendar with holidays", "april 2027 moon phases"]
@@ -33,6 +34,12 @@ faq:
     a: "New Moon Tuesday, Apr. 6 at 7:51 p.m. EDT, First Quarter Tuesday, Apr. 13 at 6:56 p.m. EDT, Full Moon Tuesday, Apr. 20 at 6:27 p.m. EDT and Last Quarter Wednesday, Apr. 28 at 4:18 p.m. EDT, according to the U.S. Naval Observatory."
   - q: "When does Passover start in 2027?"
     a: "At sundown on Wednesday, Apr. 21, 2027, and it ends at nightfall on Thursday, Apr. 29, according to Hebcal."
+  - q: "How many days until April 1, 2027?"
+    a: "131 days from Saturday, Nov. 21, 2026. Nine days of November remain, then December has 31, January 31, February 28 and March 31, so Apr. 1 is 9 + 31 + 31 + 28 + 31 + 1 = 131 days away."
+  - q: "When is Tax Day in 2027?"
+    a: "Thursday, Apr. 15, 2027 for 2026 federal individual returns, computed from 26 U.S.C. 6072(a), which sets the 15th day of April following the close of the calendar year. Apr. 15 is a weekday, so the date does not shift. The Internal Revenue Service has not posted its 2027 deadline yet."
+  - q: "When is the 2027 Boston Marathon?"
+    a: "Monday, Apr. 19, 2027, according to the Boston Athletic Association (B.A.A.). The date is the third Monday of April, computed."
   - q: "Is the printable calendar free?"
     a: "Yes. The April 2027 calendar is a free one-page US Letter PDF with selectable text, and there is a PNG image too."
 sources:
@@ -66,6 +73,21 @@ sources:
   - title: "Publication 509 (2026), Tax Calendars"
     url: "https://www.irs.gov/publications/p509"
     publisher: "Internal Revenue Service"
+  - title: "26 U.S. Code § 6072 — Time for filing income tax returns"
+    url: "https://www.law.cornell.edu/uscode/text/26/6072"
+    publisher: "Legal Information Institute, Cornell Law School"
+  - title: "26 U.S. Code § 6654 — Failure by individual to pay estimated income tax"
+    url: "https://www.law.cornell.edu/uscode/text/26/6654"
+    publisher: "Legal Information Institute, Cornell Law School"
+  - title: "Passover 2027"
+    url: "https://www.chabad.org/article.asp?aid=671901"
+    publisher: "Chabad.org"
+  - title: "Earth Day 2027"
+    url: "https://www.earthday.org/"
+    publisher: "Earthday.org"
+  - title: "National holidays (Showa Day)"
+    url: "https://www8.cao.go.jp/chosei/shukujitsu/gaiyou.html"
+    publisher: "Cabinet Office of Japan"
 internalLinks:
   - href: "/april-2027-calendar/"
     label: "April 2027 calendar in eight printable designs"
@@ -75,7 +97,7 @@ internalLinks:
     label: "Printable monthly calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [april-2027-important-dates-holidays-days-until, march-2027-calendar-printable, nfl-draft-2027-dates-location-washington]
+related: [march-2027-calendar-printable, nfl-draft-2027-dates-location-washington, may-2027-important-dates-holidays-days-until]
 assets:
   overlay: true
   kicker: "April 2027 calendar"
@@ -134,7 +156,7 @@ The month begins on a Thursday and ends on a Friday. Because 30 days is four ful
 | New Moon | Tue., Apr. 6, 7:51 p.m. EDT |
 | Full Moon | Tue., Apr. 20, 6:27 p.m. EDT |
 
-The 22 working days are the weekdays, since the month holds no federal holiday. The full list of days off for the year is in our [federal holidays 2027](/news/federal-holidays-2027-observed-dates-list/) story, and the countdown to each date is in [April 2027 important dates and days until](/news/april-2027-important-dates-holidays-days-until/). The month before is in [March 2027 calendar: free printable with holidays](/news/march-2027-calendar-printable/).
+The 22 working days are the weekdays, since the month holds no federal holiday. The full list of days off for the year is in our [federal holidays 2027](/news/federal-holidays-2027-observed-dates-list/) story, and the countdown to each date is in the days-until table below. The month before is in [March 2027 calendar: free printable with holidays](/news/march-2027-calendar-printable/).
 
 ## April 2027 Moon phases in Eastern Daylight Time
 
@@ -166,19 +188,43 @@ Each row comes from the organization that sets the date. No row is a federal hol
 | Wed., Apr. 21, sundown | Passover begins | Hebcal |
 | Wed., Apr. 28, 4:18 p.m. EDT | Last Quarter Moon | USNO |
 | Thu., Apr. 29 to Sat., May 1 | NFL Draft in Washington, D.C. | NFL |
+| Thu., Apr. 22 | Earth Day; second Seder that night | Earthday.org; Chabad.org |
+| Thu., Apr. 29 | Showa Day in Japan, the start of Golden Week | Cabinet Office of Japan |
 | Thu., Apr. 29, nightfall | Passover ends | Hebcal |
 
 Patriots' Day is set by Massachusetts General Laws as the third Monday in April, which is Apr. 19, 2027. The Boston Athletic Association lists the Boston Marathon on the same day. Our [NFL Draft 2027 dates and location](/news/nfl-draft-2027-dates-location-washington/) story has the three draft days.
 
 ## Passover, Easter and UK bank holidays in April 2027
 
-Passover begins in the Diaspora at sundown on Wednesday, Apr. 21, 2027 and ends at nightfall on Thursday, Apr. 29, according to Hebcal. The first Seder is that Wednesday evening.
+Passover begins in the Diaspora at sundown on Wednesday, Apr. 21, 2027 and ends at nightfall on Thursday, Apr. 29, according to Hebcal. Chabad.org lists Seders on the nights of Apr. 21 and 22. Our [Passover 2027 story](/news/passover-2027-holi-2027-dates-sundown-times/) has sundown times by city.
 
 Easter is not in April this year. The Church of England lists Easter Day on Mar. 28, 2027 and Ascension Day on May 6. GOV.UK lists Good Friday on Mar. 26 and Easter Monday on Mar. 29, so the UK has no bank holiday in April 2027. Our [Easter 2027 guide](/news/easter-2027-march-28-good-friday-easter-monday-whats-open/) covers that weekend. Ramadan, Eid, Orthodox Easter and Vaisakhi dates are not on the printable because none is confirmed from an official source here.
 
 ## Tax Day 2027 and Emancipation Day
 
-The Internal Revenue Service (IRS) has not posted the 2027 filing deadline yet. The 2026 deadline was April 15, 2026, according to irs.gov. IRS Publication 509 says a due date that falls on a Saturday, Sunday or legal holiday moves to the next business day, and it lists April 16 as the District of Columbia's Emancipation Day, a legal holiday. April 15, 2027 is a Thursday and April 16 is a Friday. Check irs.gov for the 2027 date before you mark it.
+The Internal Revenue Service (IRS) has not posted the 2027 filing deadline yet. The 2026 deadline was April 15, 2026, according to irs.gov. IRS Publication 509 says a due date that falls on a Saturday, Sunday or legal holiday moves to the next business day, and it lists April 16 as the District of Columbia's Emancipation Day, a legal holiday. April 15, 2027 is a Thursday and April 16 is a Friday. Federal law, 26 U.S.C. 6072(a), sets the return due date "on or before the 15th day of April following the close of the calendar year," so for 2026 returns the computed date is Thursday, Apr. 15, 2027, and it does not move because it is a weekday. The same day is the first installment date for 2027 estimated tax under 26 U.S.C. 6654(c)(2). Check irs.gov for the 2027 date before you mark it. Our [Health Savings Account (HSA) contribution deadline story](/news/2026-hsa-contribution-deadline-april-2027/) covers that date.
+
+## Days until each April 2027 date
+
+<p class="days-live" data-days-until="2027" hidden></p>
+
+The counts below start from Saturday, Nov. 21, 2026.
+
+| Date | What happens | Days from Nov. 21 |
+|---|---|---|
+| Thu., Apr. 1 | April 2027 begins | 131 |
+| Tue., Apr. 6 | New Moon | 136 |
+| Fri., Apr. 9 | Coachella weekend one begins | 139 |
+| Tue., Apr. 13 | First Quarter Moon | 143 |
+| Thu., Apr. 15 | Tax Day, computed | 145 |
+| Mon., Apr. 19 | Patriots' Day and Boston Marathon | 149 |
+| Tue., Apr. 20 | Full Moon | 150 |
+| Wed., Apr. 21 | Passover begins at sundown | 151 |
+| Thu., Apr. 22 | Earth Day | 152 |
+| Wed., Apr. 28 | Last Quarter Moon | 158 |
+| Thu., Apr. 29 | NFL Draft begins | 159 |
+
+To count from another day, add the days left in the current month to the days in each month before your date. From Nov. 21 there are 9 days left in November, 31 in December, 31 in January, 28 in February and 31 in March, so Apr. 15 is 9 + 31 + 31 + 28 + 31 + 15 = 145 days away.
 
 ## Free printable April 2027 calendar with Moon phases
 

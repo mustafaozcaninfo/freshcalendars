@@ -10,6 +10,14 @@ on:
   schedule:
     - cron: "10 9 * * *"
   workflow_dispatch:
+    inputs:
+      export:
+        description: "Full export only: every page and query per day as an artifact (scripts/news-gsc-export.mjs); nothing is committed"
+        type: boolean
+        default: false
+      days:
+        description: "Days to export"
+        default: "60"
 
 concurrency:
   group: search-console
@@ -27,12 +35,27 @@ jobs:
       - uses: actions/setup-node@v7
         with:
           node-version: "22"
+      - name: Full export
+        if: ${{ inputs.export }}
+        env:
+          GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
+          GSC_SITE: ${{ secrets.GSC_SITE }}
+        run: node scripts/news-gsc-export.mjs "${{ inputs.days }}"
+      - name: Upload the export
+        if: ${{ inputs.export }}
+        uses: actions/upload-artifact@v7
+        with:
+          name: gsc-export
+          path: gsc-export/
+          retention-days: 3
       - name: Read Search Console
+        if: ${{ !inputs.export }}
         env:
           GSC_SERVICE_ACCOUNT_JSON: ${{ secrets.GSC_SERVICE_ACCOUNT_JSON }}
           GSC_SITE: ${{ secrets.GSC_SITE }}
         run: node scripts/news-gsc.mjs
       - name: Read Cloudflare traffic
+        if: ${{ !inputs.export }}
         # Edge page views, sources (Google, Bing...), countries, devices and PDF downloads
         # (scripts/news-traffic.mjs); optional, a Cloudflare failure leaves the old report in place.
         continue-on-error: true
@@ -43,12 +66,14 @@ jobs:
           CF_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
         run: node scripts/news-traffic.mjs
       - name: Read Bing Webmaster Tools
+        if: ${{ !inputs.export }}
         # Bing also serves Yahoo and DuckDuckGo (scripts/news-bing.mjs); optional.
         continue-on-error: true
         env:
           BING_API: ${{ secrets.BING_API }}
         run: node scripts/news-bing.mjs
       - name: Read Microsoft Clarity
+        if: ${{ !inputs.export }}
         # Per page, channel and device for the last 24 hours (scripts/news-clarity.mjs, 3 of the
         # API's 10 daily requests); optional, a refused request leaves the old report in place.
         continue-on-error: true
@@ -56,11 +81,13 @@ jobs:
           CLARITY_API_TOKEN: ${{ secrets.CLARITY_API_TOKEN }}
         run: node scripts/news-clarity.mjs
       - name: Reader signals and the weekly page
+        if: ${{ !inputs.export }}
         # docs/desk/readers.md (what the desks act on), weekly.md (the owner's page) and the Clarity
         # history, from the files above (scripts/news-readers.mjs; no network).
         continue-on-error: true
         run: node scripts/news-readers.mjs
       - name: Commit the data
+        if: ${{ !inputs.export }}
         run: |
           # The identity must be set for the whole step: the rebase below re-commits when main has moved.
           git config user.name "github-actions[bot]"

@@ -73,7 +73,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/uk-boxing-day/"
     label: "When is Boxing Day in the UK?"
-related: [pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace, kentucky-derby-2027-may-1-post-time-triple-crown-dates, december-2026-important-dates-holidays-days-until]
+related: [pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace, kentucky-derby-2027-may-1-post-time-triple-crown-dates, december-2026-calendar-printable]
 assets:
   overlay: true
   kicker: "Christmas racing · Dec. 26-29, 2026"
@@ -174,4 +174,4 @@ The BHA names ITV for all four days, Dec. 26 to 29. ITV's own listings will give
 
 ## Free Christmas racing 2026 watch guide
 
-The printable lists each posted race time in UK time and four U.S. time zones, with a pick column, and marks the Welsh Grand National and Challow Hurdle off times as to be announced. Mark Dec. 26 to 29 on the [December 2026 printable calendar](/december-calendars.html), and see [when Boxing Day falls in the UK](/when-is/uk-boxing-day/). Another winter sports date list is the [Professional Darts Corporation (PDC) World Darts Championship schedule](/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/), and the [December 2026 dates list](/news/december-2026-important-dates-holidays-days-until/) has the rest of the month.
+The printable lists each posted race time in UK time and four U.S. time zones, with a pick column, and marks the Welsh Grand National and Challow Hurdle off times as to be announced. Mark Dec. 26 to 29 on the [December 2026 printable calendar](/december-calendars.html), and see [when Boxing Day falls in the UK](/when-is/uk-boxing-day/). Another winter sports date list is the [Professional Darts Corporation (PDC) World Darts Championship schedule](/news/pdc-world-darts-championship-2026-27-schedule-dates-alexandra-palace/), and the [December 2026 dates list](/news/december-2026-calendar-printable/) has the rest of the month.

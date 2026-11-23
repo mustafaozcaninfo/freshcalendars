@@ -98,6 +98,7 @@ assets:
     note: "Source: Leicester City Council; Embassy of India, Washington DC; Controller of Communication Accounts, Bihar; U.S. Naval Observatory."
     description: "A one-page planner for Diwali week 2026 in the UK, from Bonfire Night on Nov. 5 to Bhai Dooj on Nov. 11, with Diwali Day on Nov. 8."
     alt: "Printable Diwali week 2026 UK planner with dates from Nov. 5 to Nov. 11."
+noindex: true
 ---
 
 **Leicester City Council listed Diwali Day 2026 for Sunday 8 November at Cossington Recreation Ground, with no public fireworks display, while the Mayor of London cancelled Diwali on the Square in Trafalgar Square on 24 October.** The council announced Leicester's plans on 5 May 2026. City Hall's cancellation covered the event planned for Sunday 25 October 2026.
