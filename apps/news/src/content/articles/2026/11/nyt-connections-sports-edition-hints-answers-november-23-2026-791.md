@@ -65,7 +65,7 @@ Read each tile as a name first and as a word second.
 
 ## Which Monday tiles could fit somewhere else
 
-Stanley and Grey are the first snag, because both double as surnames and a solver can chase the person instead of the object. Heaps is another: it reads as a quantity, not a name, so it tends to get shelved as a stray word.
+Stanley and Grey are the first snag, because both double as surnames and a solver can chase the person instead of the object. Heaps is another: it reads as a quantity, not a name, so it tends to get shelved as a stray word. Keep it in play.
 
 Injury is the odd one out. It sounds like a word from a sports desk, yet it will not sort with anything that has a mascot or a trophy. If a tile looks like it belongs to every group and none, test whether a word is missing around it. A [printable weekly calendar](/printable-weekly-calendar.html) can hold your streak.
 
@@ -87,7 +87,7 @@ Stop here if you still want to solve it. Nerd's Chalk and Beebom print the same 
 
 ## How the fill-in-the-blank and the Cups label work
 
-The purple title has a gap at the front, so the tiles are the first halves of four phrases. Add Report to each and the group assembles; no sport has to be named for it to work. The green label is a clue in the same spirit: the quotation marks around Cups show that each tile is what comes before the word Cup.
+The purple title has a gap at the front, so the tiles are the first halves of four phrases. Add Report to each and the group assembles. No sport has to be named. Last Two Minute is the tile that looks least like its neighbors, since it runs three words while Bleacher, Injury and Scouting are one word each, yet the blank in the title still sits right in front of Report for all four of them. The green label is a clue in the same spirit: the quotation marks around Cups show that each tile is what comes before the word Cup.
 
 | Tile | Reads as | Where it goes |
 |---|---|---|
