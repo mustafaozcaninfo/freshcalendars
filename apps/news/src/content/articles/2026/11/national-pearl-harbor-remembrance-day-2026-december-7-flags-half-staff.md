@@ -110,7 +110,7 @@ downloads:
     png: "/news/downloads/pearl-harbor-remembrance-day-2026/pearl-harbor-remembrance-day-2026-flag-checklist.png"
     pages: 1
 draft: false
-related: [veterans-day-2026-wednesday-november-11, national-days-this-week-december-7-13-2026, december-2026-important-dates-holidays-days-until]
+related: [veterans-day-2026-wednesday-november-11, national-days-this-week-december-7-13-2026, december-2026-calendar-printable]
 ---
 
 **National Pearl Harbor Remembrance Day 2026 is Monday, Dec. 7, the 85th anniversary of the 1941 attack, and federal law asks that the U.S. flag fly at half-staff that day.** The law, 36 U.S. Code § 129 (Cornell Legal Information Institute), says "December 7 is National Pearl Harbor Remembrance Day." It is not a federal holiday. The 2026 presidential proclamation had not been issued as of Nov. 7, 2026.
@@ -172,4 +172,4 @@ The anniversary stays on Dec. 7, so the weekday moves. Weekdays below are comput
 | 2030 | Saturday | 89th |
 | 2031 | Sunday | 90th |
 
-For the rest of the month, see [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/). The related fall observance is covered in [Veterans Day 2026](/news/veterans-day-2026-wednesday-november-11/), and the wreath ceremonies on Dec. 19 are in [Wreaths Across America 2026](/news/wreaths-across-america-2026-december-19-arlington-schedule-sponsor/). The United Kingdom marks its fallen on [Remembrance Sunday](/news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/). The arts world marks the [Kennedy Center Honors](/news/kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast/) that week too.
+For the rest of the month, see [December 2026 important dates](/news/december-2026-calendar-printable/). The related fall observance is covered in [Veterans Day 2026](/news/veterans-day-2026-wednesday-november-11/), and the wreath ceremonies on Dec. 19 are in [Wreaths Across America 2026](/news/wreaths-across-america-2026-december-19-arlington-schedule-sponsor/). The United Kingdom marks its fallen on [Remembrance Sunday](/news/remembrance-sunday-2026-cenotaph-timings-8-november-festival-of-remembrance/). The arts world marks the [Kennedy Center Honors](/news/kennedy-center-honors-2026-date-december-7-capital-one-arena-broadcast/) that week too.

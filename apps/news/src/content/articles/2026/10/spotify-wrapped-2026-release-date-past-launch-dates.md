@@ -88,7 +88,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve?"
-related: [december-2026-important-dates-holidays-days-until, netflix-new-movies-november-2026-release-dates, christmas-number-one-2026-race-dates-revealed-christmas-day]
+related: [december-2026-calendar-printable, netflix-new-movies-november-2026-release-dates, christmas-number-one-2026-race-dates-revealed-christmas-day]
 downloads:
   - group: "Spotify Wrapped Watch Timeline 2026 printables"
     title: "Spotify Wrapped Watch Timeline 2026"
@@ -172,6 +172,6 @@ Spotify's Nov. 5, 2026 post says: "Here are a few simple ways to get your Spotif
 - Update the app, as Spotify advised in 2024 and again on Nov. 5, 2026.
 - Plan around the holidays that follow: [Christmas Day](/when-is/christmas-day/) and [New Year's Eve](/when-is/new-years-eve/) both fall after Thanksgiving and the early-December launch dates of past years.
 
-For the wider month, see our [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/) and [November 2026 important dates](/news/november-2026-important-dates-days-until/). For something to watch while you wait, our list of [Netflix new movies in November 2026](/news/netflix-new-movies-november-2026-release-dates/) has the release dates.
+For the wider month, see our [December 2026 important dates](/news/december-2026-calendar-printable/) and [November 2026 important dates](/news/november-2026-important-dates-days-until/). For something to watch while you wait, our list of [Netflix new movies in November 2026](/news/netflix-new-movies-november-2026-release-dates/) has the release dates.
 
 Not covered here: other music services have their own year-end recaps, and this story gives no dates for them.

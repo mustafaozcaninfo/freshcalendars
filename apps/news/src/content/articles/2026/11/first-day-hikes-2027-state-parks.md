@@ -137,7 +137,7 @@ internalLinks:
     label: "When is New Year's Day?"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [whats-open-new-years-eve-new-years-day-2027, new-years-countdown-2027-midnight-every-time-zone, january-2027-important-dates-holidays-days-until]
+related: [whats-open-new-years-eve-new-years-day-2027, new-years-countdown-2027-midnight-every-time-zone, january-2027-calendar-printable]
 downloads:
   - group: "First Day Hike Packing Activity Sheet printables"
     title: "First Day Hike Packing Activity Sheet, Jan. 1, 2027"
@@ -202,4 +202,4 @@ The National Park Service (NPS) Ten Essentials, updated May 28, 2026, are naviga
 
 ## Plan the day around the rest of New Year's weekend
 
-For what is open on Jan. 1, see [what's open on New Year's Eve and New Year's Day 2027](/news/whats-open-new-years-eve-new-years-day-2027/). To time midnight the night before, there is the [New Year's countdown for every time zone](/news/new-years-countdown-2027-midnight-every-time-zone/), and the [January 2027 dates list](/news/january-2027-important-dates-holidays-days-until/) covers the weeks after. The calendar site has [when is New Year's Day](/when-is/new-years-day/) and a [January 2027 printable calendar](/january-calendars.html).
+For what is open on Jan. 1, see [what's open on New Year's Eve and New Year's Day 2027](/news/whats-open-new-years-eve-new-years-day-2027/). To time midnight the night before, there is the [New Year's countdown for every time zone](/news/new-years-countdown-2027-midnight-every-time-zone/), and the [January 2027 dates list](/news/january-2027-calendar-printable/) covers the weeks after. The calendar site has [when is New Year's Day](/when-is/new-years-day/) and a [January 2027 printable calendar](/january-calendars.html).

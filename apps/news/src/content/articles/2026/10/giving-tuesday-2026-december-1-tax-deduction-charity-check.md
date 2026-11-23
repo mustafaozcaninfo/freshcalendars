@@ -157,6 +157,6 @@ The FTC says: "To be safer, pay by credit card or check." Its Aug. 27, 2026 aler
 
 ## What goes on the GivingTuesday printable?
 
-The one-page sheet shows the Dec. 1 date, four sourced tips (cash gifts for the new deduction, paying by credit card or check, the FTC's payment warning and the sweepstakes warning) and a tick-box list: look up the charity, research it, do not be rushed, watch caller ID, pay by credit card or check, and keep receipts. The [December 2026 important dates story](/news/december-2026-important-dates-holidays-days-until/) lists the other dates in the month.
+The one-page sheet shows the Dec. 1 date, four sourced tips (cash gifts for the new deduction, paying by credit card or check, the FTC's payment warning and the sweepstakes warning) and a tick-box list: look up the charity, research it, do not be rushed, watch caller ID, pay by credit card or check, and keep receipts. The [December 2026 important dates story](/news/december-2026-calendar-printable/) lists the other dates in the month.
 
 Not confirmed in this story: 2026 GivingTuesday results, which come after the day, and any rule about receipts or tax forms, which this story leaves to the IRS and your tax professional.

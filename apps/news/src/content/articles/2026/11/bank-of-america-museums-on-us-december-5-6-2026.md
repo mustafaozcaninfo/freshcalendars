@@ -89,7 +89,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar for 2027"
-related: [national-parks-free-days-october-27-veterans-day-2026, december-2026-important-dates-holidays-days-until, ebt-snap-discounts-2026-amazon-prime-access-walmart-plus-assist-museums]
+related: [national-parks-free-days-october-27-veterans-day-2026, december-2026-calendar-printable, ebt-snap-discounts-2026-amazon-prime-access-walmart-plus-assist-museums]
 downloads:
   - group: "Museums on Us Partner Museums by City printables"
     title: "Museums on Us Partner Museums by City, Dec. 5-6, 2026"
@@ -159,4 +159,4 @@ Bank of America has not announced 2027 dates. The table applies the bank's rule,
 | November 2027 | Sat.-Sun., Nov. 6-7 |
 | December 2027 | Sat.-Sun., Dec. 4-5 |
 
-Mark these on the [printable yearly calendar](/printable-yearly-calendar.html) and the [December 2026 printable calendar](/december-calendars.html). For other dates in the month, see [December 2026 holidays and days until each date](/news/december-2026-important-dates-holidays-days-until/). Fee-waiver days at federal parks run on a separate schedule, covered in [national parks free days 2026](/news/national-parks-free-days-october-27-veterans-day-2026/).
+Mark these on the [printable yearly calendar](/printable-yearly-calendar.html) and the [December 2026 printable calendar](/december-calendars.html). For other dates in the month, see [December 2026 holidays and days until each date](/news/december-2026-calendar-printable/). Fee-waiver days at federal parks run on a separate schedule, covered in [national parks free days 2026](/news/national-parks-free-days-october-27-veterans-day-2026/).

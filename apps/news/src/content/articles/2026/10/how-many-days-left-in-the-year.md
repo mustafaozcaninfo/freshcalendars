@@ -101,7 +101,7 @@ internalLinks:
     label: "December printable calendar"
   - href: "/november-calendars.html"
     label: "November printable calendar"
-related: [how-to-calculate-day-of-year, 100th-day-of-the-year, december-2026-important-dates-holidays-days-until]
+related: [how-to-calculate-day-of-year, 100th-day-of-the-year, december-2026-calendar-printable]
 draft: false
 ---
 
@@ -119,7 +119,7 @@ Nov. 14, 2026 is day 318 of the year: January to October add up to 304 days (31,
 | Weekend days in the 47 days | 6 Saturdays and 7 Sundays | 13 |
 | Weeks in the 47 days | 47 / 7 | 6 weeks and 5 days |
 
-Nov. 14 is a Saturday, so counting today adds one more weekend day (34 weekdays and 14 weekend days in 48 days). These numbers are for Nov. 14 only; the number drops by one every day, so the method lasts longer than any single figure. For what falls inside that stretch, see our [December 2026 holidays and key dates](/news/december-2026-important-dates-holidays-days-until/) story. On the first of the month, Nov. 1 had 60 days left and Dec. 1 has 30.
+Nov. 14 is a Saturday, so counting today adds one more weekend day (34 weekdays and 14 weekend days in 48 days). These numbers are for Nov. 14 only; the number drops by one every day, so the method lasts longer than any single figure. For what falls inside that stretch, see our [December 2026 holidays and key dates](/news/december-2026-calendar-printable/) story. On the first of the month, Nov. 1 had 60 days left and Dec. 1 has 30.
 
 ## How do you calculate the days remaining in a year?
 

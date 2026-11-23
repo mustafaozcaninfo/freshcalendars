@@ -106,7 +106,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [new-years-countdown-2027-midnight-every-time-zone, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, december-2026-important-dates-holidays-days-until]
+related: [new-years-countdown-2027-midnight-every-time-zone, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, december-2026-calendar-printable]
 faq:
   - q: "What time does the ball drop on New Year's Eve 2026?"
     a: "At exactly 11:59 p.m. ET on Thursday, Dec. 31, 2026, the ball starts a 60-second descent, per the Times Square Alliance."

@@ -207,6 +207,20 @@ check("02-ROBOTS", "Indexable pages carry index,follow + max-image-preview:large
     if (STALE_EDGE.has(u) && /^noindex, follow/.test(r)) return null;
     return /^index, follow/.test(r) && /max-image-preview:large/.test(r) ? null : `robots="${r}"`;
   }));
+// The February 2027 "important dates" story was merged on Nov. 8 and written again under the same
+// slug on Nov. 20: the redirect answers first, so the new page was never served. A merged page stays
+// merged; a story that must come back gets a new slug or its redirect line removed.
+check("02-REDIRECT-LIVE", "No live story or printable is a redirect source in apps/news/redirects.map (docs/DESK.md, Pruning)", () => {
+  const out = [];
+  for (const line of readFileSync(path.join(ROOT, "apps/news/redirects.map"), "utf8").split("\n")) {
+    const m = /^"~\^(\/news\/[^"]*?)\$"/.exec(line);
+    if (!m) continue;
+    const from = m[1].replace(/\\\./g, ".");
+    if (from.startsWith("/news/downloads/")) { if (existsSync(path.join(ROOT, "apps/news/public", from.slice("/news".length)))) out.push(`${from} is a file in public/downloads and a redirect source`); }
+    else if (html[from]) out.push(`${from} is a live page and a redirect source`);
+  }
+  return out;
+});
 check("02-LANG", "html lang + hreflang en/x-default (§02 C)", () =>
   each(urls, (u, h) => (/<html lang="en"/.test(h) && /hreflang="en"/.test(h) && /hreflang="x-default"/.test(h) ? null : "lang/hreflang missing")));
 

@@ -120,7 +120,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [national-bird-day-2027-january-5, first-day-hikes-2027-state-parks, december-2026-important-dates-holidays-days-until]
+related: [national-bird-day-2027-january-5, first-day-hikes-2027-state-parks, december-2026-calendar-printable]
 downloads:
   - group: "Christmas Bird Count 2026-27 printables"
     title: "Christmas Bird Count 2026-27: Join Steps and Feeder Tally"
@@ -168,7 +168,7 @@ Audubon says all count activities "must fall within the 24-hour period that comp
 | Jan. 2-3, 2027 | Saturday and Sunday | Third weekend |
 | Jan. 5, 2027 | Tuesday | Window closes |
 
-Mark the days on the [December 2026 printable calendar](/december-calendars.html) and the [January 2027 printable calendar](/january-calendars.html). For other dates in the month, see our [December 2026 dates list](/news/december-2026-important-dates-holidays-days-until/).
+Mark the days on the [December 2026 printable calendar](/december-calendars.html) and the [January 2027 printable calendar](/january-calendars.html). For other dates in the month, see our [December 2026 dates list](/news/december-2026-calendar-printable/).
 
 ## How do you join a Christmas Bird Count?
 

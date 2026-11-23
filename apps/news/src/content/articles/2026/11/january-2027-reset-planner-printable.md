@@ -59,7 +59,7 @@ internalLinks:
     label: "January printable calendars by year"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [january-2027-important-dates-holidays-days-until, vision-board-2027-printable-goal-worksheets, long-weekends-2027-pto-planner-bridge-days]
+related: [january-2027-calendar-printable, vision-board-2027-printable-goal-worksheets, long-weekends-2027-pto-planner-bridge-days]
 downloads:
   - group: "January 2027 reset planner"
     title: "January 2027 Reset Planner: Goals, Habits and Monthly Review"
@@ -119,4 +119,4 @@ Fill in page 4 after Sunday, Jan. 31. Count the ticks for each habit and write t
 
 ## Where can I find the rest of January 2027?
 
-The [January 2027 calendar printables](/news/january-2027-calendar-printable/) put the month on a grid, and the [January 2027 important dates list](/news/january-2027-important-dates-holidays-days-until/) adds days-until counts. For a longer-term plan, see our [vision board and goal worksheets](/news/vision-board-2027-printable-goal-worksheets/) and the [2027 paid time off (PTO) and bridge-day planner](/news/long-weekends-2027-pto-planner-bridge-days/). Browse every [January printable calendar](/january-calendars.html) or the [2027 yearly calendar](/printable-yearly-calendar.html).
+The [January 2027 calendar printables](/news/january-2027-calendar-printable/) put the month on a grid, and the [January 2027 important dates list](/news/january-2027-calendar-printable/) adds days-until counts. For a longer-term plan, see our [vision board and goal worksheets](/news/vision-board-2027-printable-goal-worksheets/) and the [2027 paid time off (PTO) and bridge-day planner](/news/long-weekends-2027-pto-planner-bridge-days/). Browse every [January printable calendar](/january-calendars.html) or the [2027 yearly calendar](/printable-yearly-calendar.html).

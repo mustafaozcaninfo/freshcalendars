@@ -121,3 +121,20 @@
 "~^/news/downloads/nfl-pickem-2026/nfl-week-8-pick-em-sheet-2026\.pdf$" /news/nfl-week-8-schedule-2026-game-times-tv-clock-change/;
 "~^/news/downloads/nfl-pickem-2026/nfl-week-8-confidence-pool-sheet-2026\.pdf$" /news/nfl-week-8-schedule-2026-game-times-tv-clock-change/;
 "~^/news/downloads/gold-glove-2026/gold-glove-2026-finalists-pick-sheet\.pdf$" /news/gold-glove-awards-2026-tonight-time-espn-finalists-platinum-glove-vote/;
+# Month pages merged 2026-11-23: one page per month. Each "important dates" story (facts moved first, with their sources) and its printable go to that month's calendar page and its key-dates sheet.
+"~^/news/downloads/december-2026/december-2026-important-dates-calendar\.pdf$" /news/downloads/december-2026-calendar/december-2026-calendar-key-dates-deadlines.pdf;
+"~^/news/downloads/december-2026/december-2026-important-dates-calendar\.png$" /news/downloads/december-2026-calendar/december-2026-calendar-key-dates-deadlines.png;
+"~^/news/december-2026-important-dates-holidays-days-until/$" /news/december-2026-calendar-printable/;
+"~^/news/downloads/january-2027/january-2027-important-dates-calendar\.pdf$" /news/downloads/january-2027-calendar/january-2027-calendar-key-dates-deadlines.pdf;
+"~^/news/downloads/january-2027/january-2027-important-dates-calendar\.png$" /news/downloads/january-2027-calendar/january-2027-calendar-key-dates-deadlines.png;
+"~^/news/downloads/january-2027/january-2027-important-dates-calendar-ink\.pdf$" /news/downloads/january-2027-calendar/january-2027-calendar-key-dates-deadlines.pdf;
+"~^/news/downloads/january-2027/january-2027-important-dates-calendar-ink\.png$" /news/downloads/january-2027-calendar/january-2027-calendar-key-dates-deadlines.png;
+"~^/news/january-2027-important-dates-holidays-days-until/$" /news/january-2027-calendar-printable/;
+"~^/news/downloads/february-2027/february-2027-important-dates-calendar\.pdf$" /news/downloads/february-2027-calendar/february-2027-calendar-key-dates.pdf;
+"~^/news/downloads/february-2027/february-2027-important-dates-calendar\.png$" /news/downloads/february-2027-calendar/february-2027-calendar-key-dates.png;
+"~^/news/downloads/march-2027/march-2027-important-dates-calendar\.pdf$" /news/downloads/march-2027-calendar/march-2027-calendar-holidays-moon-phases.pdf;
+"~^/news/downloads/march-2027/march-2027-important-dates-calendar\.png$" /news/downloads/march-2027-calendar/march-2027-calendar-holidays-moon-phases.png;
+"~^/news/march-2027-important-dates-holidays-days-until/$" /news/march-2027-calendar-printable/;
+"~^/news/downloads/april-2027/april-2027-important-dates-calendar\.pdf$" /news/downloads/april-2027-calendar/april-2027-calendar-holidays-moon-phases.pdf;
+"~^/news/downloads/april-2027/april-2027-important-dates-calendar\.png$" /news/downloads/april-2027-calendar/april-2027-calendar-holidays-moon-phases.png;
+"~^/news/april-2027-important-dates-holidays-days-until/$" /news/april-2027-calendar-printable/;

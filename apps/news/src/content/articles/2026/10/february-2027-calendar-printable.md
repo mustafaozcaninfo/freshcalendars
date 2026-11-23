@@ -3,7 +3,7 @@ title: "February 2027 Calendar With Holidays: Presidents' Day Feb. 15"
 description: "February 2027 starts on Monday, Feb. 1, has 28 days and one federal holiday, Washington's Birthday on Feb. 15. Free printable with Moon phases, 14 dates."
 type: explainer
 publishedAt: "2026-10-31T10:40:00-04:00"
-updatedAt: "2026-11-08T02:45:00-05:00"
+updatedAt: "2026-11-23T15:48:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["february 2027 calendar", "february 2027 calendar printable", "february 2027 calendar with holidays", "february 2027 moon phases"]
@@ -31,6 +31,12 @@ faq:
     a: "Saturday, Feb. 20, 2027 at 6:23 p.m. EST (23:23 Universal Time), according to the U.S. Naval Observatory. The new moon is Saturday, Feb. 6 at 10:56 a.m. EST."
   - q: "Is the printable calendar free?"
     a: "Yes. The February 2027 calendar is a free one-page US Letter PDF with selectable text, and there is a PNG image and an ink-saver version too."
+  - q: "What time is the Super Bowl in 2027?"
+    a: "The kickoff time has not been announced. SoFi Stadium's release names Sunday, Feb. 14, 2027 and says ESPN and ABC will broadcast the game."
+  - q: "When is the Royal Rumble in 2027?"
+    a: "Saturday, Feb. 6, 2027, at State Farm Stadium in Glendale, Arizona, according to World Wrestling Entertainment (WWE). The start time has not been announced."
+  - q: "How many days until February 1, 2027?"
+    a: "85 days from Sunday, Nov. 8, 2026. Twenty-two days of November remain, then December has 31 and January has 31, so Feb. 1 is 22 + 31 + 31 + 1 = 85 days away."
 sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
@@ -78,6 +84,34 @@ sources:
     url: "https://thewaltdisneycompany.com/news/super-bowl-disney-plus/"
     publisher: "The Walt Disney Company"
     date: "2026-10-07"
+  - title: "Los Angeles region to host Super Bowl LXI in 2027"
+    url: "https://www.sofistadium.com/news/detail/los-angeles-region-to-host-super-bowl-lxi-in-2027-welcoming-the-nfls-biggest-stage-for-the-second-time-this-decade-to-sofi-stadium"
+    publisher: "SoFi Stadium"
+    date: "2026-02-09"
+  - title: "WWE announces Royal Rumble 2027"
+    url: "https://corporate.wwe.com/about/news/2026/11-02-2026"
+    publisher: "World Wrestling Entertainment"
+    date: "2026-11-02"
+  - title: "Vegas will face Dallas at 2027 NHL Stadium Series at AT&T Stadium"
+    url: "https://www.nhl.com/news/vegas-will-face-dallas-at-2027-nhl-stadium-series-att-stadium"
+    publisher: "NHL.com"
+    date: "2026-01-29"
+  - title: "Louisiana Revised Statutes 1:55, legal holidays"
+    url: "https://legis.la.gov/Legis/Law.aspx?d=74097&p=y"
+    publisher: "Louisiana State Legislature"
+  - title: "Phoenix to host NBA All-Star 2027"
+    url: "https://pr.nba.com/phoenix-to-host-nba-all-star-2027/"
+    publisher: "NBA Communications"
+    date: "2024-03-07"
+  - title: "2027 NASCAR Cup Series Schedule"
+    url: "https://www.nascar.com/nascar-cup-series/2027/schedule/"
+    publisher: "NASCAR"
+  - title: "Islamic Calendar"
+    url: "https://fiqhcouncil.org/calendar/"
+    publisher: "Fiqh Council of North America"
+  - title: "Black History Month"
+    url: "https://www.blackhistorymonth.gov/"
+    publisher: "Library of Congress and partners"
 internalLinks:
   - href: "/february-calendars.html"
     label: "February printable calendars by year"
@@ -85,7 +119,7 @@ internalLinks:
     label: "Printable monthly calendar"
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
-related: [january-2027-calendar-printable, february-2027-important-dates-holidays-days-until, lewes-polar-bear-plunge-2027-february-7]
+related: [january-2027-calendar-printable, super-bowl-lxi-2027-date-sofi-stadium-channel-halftime, lewes-polar-bear-plunge-2027-february-7]
 assets:
   overlay: true
   kicker: "February 2027"
@@ -186,21 +220,40 @@ The counts below start from Sunday, Nov. 8, 2026. With JavaScript on, the last c
 
 | Date | Day | What happens | Days from Nov. 8 |
 |---|---|---|---|
-| Feb. 1 | Monday | W-2 forms due to employees and the SSA | 85 |
+| Feb. 1 | Monday | W-2 forms due to employees and the SSA; Black History Month begins and runs through Feb. 28 | 85 |
 | Feb. 2 | Tuesday | Groundhog Day | 86 |
-| Feb. 6 | Saturday | Lunar New Year's Day; new moon | 90 |
+| Feb. 6 | Saturday | Lunar New Year's Day; new moon; Royal Rumble | 90 |
 | Feb. 7 | Sunday | 69th Grammy Awards | 91 |
-| Feb. 8 | Monday | Ramadan expected to begin | 92 |
-| Feb. 9 | Tuesday | Mardi Gras | 93 |
+| Feb. 8 | Monday | Ramadan expected to begin; first night prayers the evening of Feb. 7 | 92 |
+| Feb. 9 | Tuesday | Mardi Gras, a legal holiday in Louisiana | 93 |
 | Feb. 10 | Wednesday | Ash Wednesday, first day of Lent | 94 |
 | Feb. 14 | Sunday | Super Bowl LXI; Valentine's Day | 98 |
 | Feb. 15 | Monday | Presidents' Day; Family Day in Alberta and Ontario | 99 |
-| Feb. 20 | Saturday | Lantern Festival; full moon | 104 |
+| Feb. 20 | Saturday | Lantern Festival; full moon; NHL Stadium Series | 104 |
+| Feb. 21 | Sunday | NBA All-Star Game in Phoenix; Daytona 500 | 105 |
 | Feb. 25 | Thursday | Oscars final voting begins | 109 |
 
-Three of these dates are not on the printable. Ramadan is expected to begin on Monday, Feb. 8, as our [Ramadan 2027 calendar](/news/ramadan-2027-calendar-dates-timetable/) explains. The Lantern Festival closes the Lunar New Year season on Saturday, Feb. 20, by the Hong Kong Observatory's conversion table, the same day as the full moon. Final voting for the Oscars begins Thursday, Feb. 25 and runs through March 4, with the show on March 14, according to the Academy of Motion Picture Arts and Sciences; our [Golden Globes and Oscars 2027 calendar](/news/golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar/) lists every awards date.
+Several of these dates are not on the printable. Ramadan is expected to begin on Monday, Feb. 8, with the first night prayers on the evening of Sunday, Feb. 7; the start depends on moon sighting, according to the Fiqh Council of North America. As our [Ramadan 2027 calendar](/news/ramadan-2027-calendar-dates-timetable/) explains. The Lantern Festival closes the Lunar New Year season on Saturday, Feb. 20, by the Hong Kong Observatory's conversion table, the same day as the full moon. Final voting for the Oscars begins Thursday, Feb. 25 and runs through March 4, with the show on March 14, according to the Academy of Motion Picture Arts and Sciences; our [Golden Globes and Oscars 2027 calendar](/news/golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar/) lists every awards date.
 
-Super Bowl LXI is at SoFi Stadium in Inglewood, California, according to the National Football League (NFL). The Walt Disney Company says ESPN and ABC carry the traditional presentation and Disney+ livestreams it; our guide to the [Super Bowl LXI date, stadium and channel](/news/super-bowl-lxi-2027-date-sofi-stadium-channel-halftime/) has the details. Law graduates can check the [February 2027 bar exam](/news/february-2027-bar-exam-dates-application-deadlines-by-state/) dates and deadlines by state.
+Mardi Gras is a legal holiday in Louisiana under Revised Statutes 1:55 A(1), per the Louisiana State Legislature. Super Bowl LXI is at SoFi Stadium in Inglewood, California, according to the National Football League (NFL). The Walt Disney Company says ESPN and ABC carry the traditional presentation and Disney+ livestreams it; our guide to the [Super Bowl LXI date, stadium and channel](/news/super-bowl-lxi-2027-date-sofi-stadium-channel-halftime/) has the details. Law graduates can check the [February 2027 bar exam](/news/february-2027-bar-exam-dates-application-deadlines-by-state/) dates and deadlines by state.
+
+## Sports dates in February 2027
+
+SoFi Stadium's release says Super Bowl LXI "will be played at SoFi Stadium on February 14, 2027". Four more sports dates fall in the month.
+
+| Date | Event | Where | Time |
+|---|---|---|---|
+| Sat., Feb. 6 | Royal Rumble, the 40th annual, from World Wrestling Entertainment (WWE) | State Farm Stadium, Glendale, Arizona | Not announced |
+| Sun., Feb. 14 | Super Bowl LXI, ESPN and ABC | SoFi Stadium, Inglewood, California | Kickoff not announced |
+| Sat., Feb. 20 | National Hockey League (NHL) Stadium Series, Dallas Stars vs. Vegas Golden Knights, ABC | AT&T Stadium, Arlington, Texas | 8 p.m. ET |
+| Sun., Feb. 21 | National Basketball Association (NBA) All-Star Game | Phoenix | Not announced |
+| Sun., Feb. 21 | Daytona 500, the National Association for Stock Car Auto Racing (NASCAR) Cup Series opener | Not named in our source | Not announced |
+
+More on each event: the [Royal Rumble 2027](/news/royal-rumble-2027-date-february-6-state-farm-stadium-glendale/), the [NHL Stadium Series 2027](/news/nhl-stadium-series-2027-stars-golden-knights-att-stadium-february-20/), the [NBA All-Star 2027 schedule](/news/nba-all-star-2027-date-phoenix-rising-stars-schedule/) and the [NASCAR Cup schedule for 2027](/news/nascar-cup-schedule-2027-daytona-500-february-21-full-race-list/).
+
+## Not yet announced for February 2027
+
+The Super Bowl kickoff time and the Royal Rumble start time are not yet announced. The Internal Revenue Service (IRS) said on Nov. 16, 2026 only that the 2027 filing season is "just months away," so no start date is listed here.
 
 ## Free printable February 2027 calendar with key dates
 

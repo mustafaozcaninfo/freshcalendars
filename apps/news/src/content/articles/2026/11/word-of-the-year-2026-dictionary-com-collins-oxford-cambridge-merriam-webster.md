@@ -112,7 +112,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [december-2026-important-dates-holidays-days-until, christmas-number-one-2026-race-dates-revealed-christmas-day, golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar]
+related: [december-2026-calendar-printable, christmas-number-one-2026-race-dates-revealed-christmas-day, golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar]
 draft: false
 ---
 
@@ -156,4 +156,4 @@ Two groups picked the same word for 2025: Merriam-Webster and the ADS both chose
 
 ## Why this matters for your calendar
 
-Each dictionary announces on its own day with no shared schedule, so the 2026 list will fill in one entry at a time. If last year's pattern repeats, Cambridge would come first in late November, then Oxford and Merriam-Webster in December, and the ADS in January; that is a reading of 2025's dates and not an announced plan. Other December dates are in our [December 2026 important dates](/news/december-2026-important-dates-holidays-days-until/) story, and the awards season is covered in the [Golden Globes and Oscars 2027 calendar](/news/golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar/).
+Each dictionary announces on its own day with no shared schedule, so the 2026 list will fill in one entry at a time. If last year's pattern repeats, Cambridge would come first in late November, then Oxford and Merriam-Webster in December, and the ADS in January; that is a reading of 2025's dates and not an announced plan. Other December dates are in our [December 2026 important dates](/news/december-2026-calendar-printable/) story, and the awards season is covered in the [Golden Globes and Oscars 2027 calendar](/news/golden-globes-oscars-2027-dates-nominations-how-to-watch-awards-calendar/).

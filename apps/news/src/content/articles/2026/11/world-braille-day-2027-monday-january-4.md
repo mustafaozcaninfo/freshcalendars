@@ -120,7 +120,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [international-day-of-education-2027-sunday-january-24, january-2027-important-dates-holidays-days-until]
+related: [international-day-of-education-2027-sunday-january-24, january-2027-calendar-printable]
 draft: false
 ---
 
@@ -139,7 +139,7 @@ The date is fixed at Jan. 4, so only the weekday moves. We computed these from t
 | 2031 | Saturday |
 | 2032 | Sunday |
 
-Put the day on your [January 2027 printable calendar](/january-calendars.html), or see the rest of the month in our [January 2027 important dates list](/news/january-2027-important-dates-holidays-days-until/).
+Put the day on your [January 2027 printable calendar](/january-calendars.html), or see the rest of the month in our [January 2027 important dates list](/news/january-2027-calendar-printable/).
 
 ## Why does the United Nations mark World Braille Day?
 
