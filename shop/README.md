@@ -365,3 +365,31 @@ What the reports showed: 173 ChatGPT visits that day (140 the day before), 83 re
 - **Never turn on "Curated products only"** (Traffic > Search Engines): it would noindex the 3,420 products without an owner verdict, and those pages bring the ChatGPT visits.
 - Left as the owner decided: "Show site reviews" (the generated star scores, 4.1 to 4.99 with 7 to 232 reviews, shown on product pages; not sent to Google).
 - Read-only finds: Analytics > Searches holds the site search terms (almost unused: "planner" 15 times); Analytics > Commissions only links to Amazon; the store niche text ("Planners and journaling") narrows what `categories/fill` returns.
+
+## ChatGPT as the growth channel: baseline and checkpoints (started Nov. 23, 2026)
+
+The owner's goal: understand what makes ChatGPT send visitors to a page well enough to repeat it on purpose, and grow the shop on it. This section is the log; add to it at each checkpoint instead of starting a new note. Measure with `python3 shop/tools/chatgpt_landings.py` (pages and families, from Clarity) and `python3 shop/tools/ai_traffic.py` (visits and retailer clicks by day).
+
+**Baseline on Nov. 23, 2026**
+- ChatGPT visits per day: 5 (Nov. 16), 140 (Nov. 20), 218 (Nov. 21), 328 (Nov. 22). Retailer clicks: 53, 105, 166 on Nov. 20 to 22; 32% of ChatGPT visits click. Search engines: about 40 visits a day.
+- 1,036 landing sessions on 457 pages in 12 days: 75% product pages, the top page 30 sessions. No star page; hundreds of pages bring a few each.
+- By family, sessions per product: advent calendars 0.54 (20% of 1,080 products visited), planners 0.15, calendars 0.09, journals and supplies 0.05, clocks and digital calendars 0.01 (two days old).
+- A new product gets its first visit 2 to 6 days after it goes live.
+- Among 909 advent products of the same age, the share with a visit: in a guide 34% against 16%; "2026" in the title 29% against 14%; 5 or more listing bullets 24% against 11%; 15% or more below list 28% against 20%; brand name in the title makes no difference (20% against 24%). Title words that do well name a use or a person (gifts, girls, beauty, fillable, jewelry, craft, journal); words of crowded kinds do badly (socks, building, princess, paper, tea). These are correlations from 12 days.
+- From outside research (`.cache/shop/report/chatgpt-research.md`): ChatGPT search takes sources from third-party search providers, Bing confirmed; cited pages overlap little with Google's top ten; no evidence that llms.txt or hidden text helps; risks are checkout inside ChatGPT (Amazon is not a partner), ads and sudden changes in source selection.
+
+**Changes made on Nov. 22 to 23, each a test of one idea**
+1. Year added to 66 titles whose listing states it (idea: the year in the title doubles the visit rate).
+2. A "Compared in" link to its guide on 1,037 product pages (idea: guide membership matters).
+3. Category, brand and tag pages show 60 products instead of 12 (idea: more products linked from a crawlable page).
+4. Eleven advent tag pages by days, audience and fill-your-own (idea: pages named with the use and audience words).
+5. Three new families of the same shape as advent, 100 to 200 products each: Christmas gifts and kits, elf kits and Christmas Eve boxes, themed 2027 wall calendars (idea: the pattern is seasonal, giftable, little-covered products, and it transfers).
+
+**Checkpoints**
+- **Nov. 28:** five days after the changes. Compare sessions per product for the new families with advent's 0.54; check whether the 66 retitled products and the tag pages got visits; read `docs/desk/bing-shop.md` for the number of shop pages in Bing's index (pull request 887).
+- **Dec. 5:** the floor after advent demand ends on Dec. 1. Which families hold the visits.
+- **Dec. 20:** end of Christmas ordering. Decide which Christmas families to keep for next year and write the season notes.
+- **Jan. 15, 2027:** calendars and planners after New Year. Decide the next families (Valentine's Day, Easter, back to school) from what transferred.
+- At each checkpoint ask the owner for the Amazon Associates orders report: clicks are measured here, sales are not.
+
+**What would count as having solved it:** a new family reaches at least half of advent's sessions per product within a week of going live, twice in a row, outside the Christmas season. Until then the working answer is "seasonal gift kinds with full listings, indexed by Bing", not a rule.
