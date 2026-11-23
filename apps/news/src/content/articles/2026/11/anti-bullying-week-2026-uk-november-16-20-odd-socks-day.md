@@ -112,6 +112,7 @@ downloads:
     png: "/news/downloads/anti-bullying-week-2026/anti-bullying-week-2026-uk-fact-sheet-a4.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 Anti-Bullying Week 2026 runs Monday 16 to Friday 20 November in the UK, with the theme Break the Silence, according to the Anti-Bullying Alliance (ABA) launch as reported by Wandsworth Council's schools service on 18 May 2026. Odd Socks Day is listed for the first day, Monday 16 November, and GOV.UK shows no bank holiday that week.

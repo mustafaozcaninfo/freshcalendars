@@ -106,6 +106,7 @@ downloads:
     png: "/news/downloads/winnipeg-election-2026/winnipeg-election-day-checklist-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Winnipeg voted Wednesday, Oct. 28, 2026, and re-elected Mayor Scott Gillingham, who led with 80,206 votes on the City of Winnipeg's results page.** Voting places were open 8 a.m. to 8 p.m. local time (Central Time, CT), and voters showed identification (ID) with their name and current address. Ballots carried the offices of mayor, councillor and school trustee. The result details and the voting-day guidance below are kept for reference.

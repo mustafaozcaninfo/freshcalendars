@@ -85,6 +85,7 @@ downloads:
     png: "/news/downloads/sky-2026/orionid-viewing-times-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 <p class="callout"><b>The best window was moonset to dawn.</b> On the Oct. 21-22 peak the moon, about 86% lit, stayed up until around 3 to 4 a.m. local time in most U.S. cities. From moonset until dawn twilight began, about 5:15 to 6:30 a.m., the sky was dark and the Orionids were at their best. The shower stayed active through Nov. 7, with the darkest hours before dawn.</p>

@@ -77,6 +77,7 @@ downloads:
     png: "/news/downloads/election-2026/north-carolina-ballot-checklist-2026.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **North Carolina voters can see their Nov. 3, 2026 sample ballot with the State Board of Elections Voter Search tool.** Every ballot in the state has an open U.S. Senate seat, one Supreme Court seat, three Court of Appeals seats and three constitutional amendments. U.S. House, legislative and county races depend on your address.

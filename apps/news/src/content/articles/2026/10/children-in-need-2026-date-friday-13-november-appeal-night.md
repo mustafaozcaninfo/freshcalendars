@@ -104,6 +104,7 @@ assets:
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     description: "A one-page checklist for Children in Need 2026: Oct. 27 plan, Coinstar paying-in from Nov. 3, Appeal Night on Nov. 13 and ways to donate."
     alt: "Printable Children in Need 2026 fundraising planner with a checklist of dates and ways to pay in money."
+noindex: true
 ---
 
 **British Broadcasting Corporation (BBC) Children in Need held Appeal Night 2026 on Friday, Nov. 13**, according to the charity's website. Its Appeal show page says the show was broadcast live on BBC One and iPlayer at 7pm. We found no official 2026 total yet.

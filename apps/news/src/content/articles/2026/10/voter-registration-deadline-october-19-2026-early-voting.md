@@ -63,6 +63,7 @@ internalLinks:
     label: "Printable weekly planner"
 draft: false
 related: [sample-ballot-by-zip-code-2026-texas-ballot, what-time-do-polls-close-election-day-2026, early-voting-2026-which-states-are-voting-now]
+noindex: true
 ---
 
 **Monday, Oct. 19, 2026 was the last day to register** to vote in California and Pennsylvania for the Nov. 3 general election, and the last day to register online or by mail in Michigan. That deadline passed, but California and Michigan allowed in-person registration through Election Day, Tuesday, Nov. 3: California through conditional registration at county elections offices, Michigan at the local clerk's office with proof of residency. Pennsylvania had no registration after Oct. 19. Early in-person voting in Texas ended Friday, Oct. 30, and in Connecticut on Sunday, Nov. 1. See [the early voting windows](/news/early-voting-2026-which-states-are-voting-now/) for other states.

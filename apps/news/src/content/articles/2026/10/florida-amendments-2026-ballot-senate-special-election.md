@@ -65,6 +65,7 @@ downloads:
     png: "/news/downloads/election-2026/florida-ballot-checklist-2026.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 <p class="callout"><b>Election Day is tomorrow, Tuesday, Nov. 3, 2026.</b> Early voting in every county ended Saturday, Oct. 31. The deadline to request a vote-by-mail ballot (5 p.m. Thursday, Oct. 22) has passed; if you have a mail ballot, your supervisor of elections must receive it by 7 p.m. Tuesday, Nov. 3, so drop it off at your supervisor's office rather than mail it this late. A postmark does not count.</p>

@@ -119,6 +119,7 @@ downloads:
     png: "/news/downloads/living-wage-week-2026/living-wage-week-2026-fact-sheet-a4.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 Living Wage Week 2026 runs from Monday, 9 November, to Sunday, 15 November, the Living Wage Foundation says on its Living Wage Week page. The 2026 theme is "25 years of the Living Wage". The Foundation announced the 2026-27 Real Living Wage on 15 October 2026 at £14.10 an hour for the UK and £15.45 for London, against £12.71 for the legal National Living Wage (NLW) for people aged 21 and over, per GOV.UK.

@@ -90,7 +90,7 @@ draft: false
 - A weekly check-in beside each row: dry days, money saved (optional) and notes.
 - A month review line at the bottom.
 
-For the whole month with holidays on one grid, use our [January printable calendars](/january-calendars.html) or the [printable monthly calendar](/printable-monthly-calendar.html). Our [January 2027 calendar](/news/january-2027-calendar-printable/) and [January 2027 dates list](/news/january-2027-important-dates-holidays-days-until/) cover the month's other dates, and the [2027 habit tracker](/news/2027-habit-tracker-printable/) tracks a habit all year.
+For the whole month with holidays on one grid, use our [January printable calendars](/january-calendars.html) or the [printable monthly calendar](/printable-monthly-calendar.html). Our [January 2027 calendar](/news/january-2027-calendar-printable/) and [January 2027 dates list](/news/january-2027-calendar-printable/) cover the month's other dates, and the [2027 habit tracker](/news/2027-habit-tracker-printable/) tracks a habit all year.
 
 ## Which days make up Dry January 2027?
 

@@ -99,6 +99,7 @@ assets:
     inkSaver: true
     description: "A one-page timeline of Lewes Bonfire Night on Thursday 5 November 2026: last trains, road closures, procession times and the first trains on Friday."
     alt: "Printable Lewes Bonfire Night 2026 timeline with last trains, road closure and procession times."
+noindex: true
 ---
 
 **Lewes Bonfire was on Thursday, 5 November 2026; roads into Lewes closed from 4.45 p.m. and no trains were due to stop at Lewes or nearby stations from 5 p.m.**, according to a joint release from East Sussex County Council and Govia Thameslink Railway (GTR), dated 18 September 2026. All times here are UK time, Greenwich Mean Time (GMT). US Eastern Time (ET) is 5 hours behind, so processions starting around 5 p.m. were around noon ET, the United Grand Procession at about 9 p.m. was about 4 p.m. ET, and a 1 a.m. finish was 8 p.m. ET on Thursday.

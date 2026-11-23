@@ -44,6 +44,16 @@ Puzzle pages (routines A to C, about 6 to 10 a day) come on top and do not count
   All three pass: move up one phase (two weeks in a phase at least). Any one fails: move down one phase; in phase 1, drop to "1 new per run" until the gate passes again.
 - **Updates count as much as new stories.** A silent update (facts and `updatedAt` only, `CLAUDE.md`) of a story whose date is coming up keeps it ranking and costs a fraction of a new story.
 
+## Pruning (owner's decision, Nov. 23, 2026)
+
+Google's November 2026 core update (started Nov. 10) cut /news/ impressions by 90% or more in every category within three days, for stories whose events were still ahead as much as for finished ones; printables and the calendar site were not touched. A section judged as a whole is pulled down by pages nobody looks for, so pages with no search demand leave the index. The full export behind these numbers: `scripts/news-gsc-export.mjs` (Search Console workflow, "export" input; every query and page per day, as an artifact).
+
+- **Daily puzzle pages leave the index seven days after `publishedAt`**, by a build rule (`apps/news/src/lib/stale-puzzle.mjs`): `noindex, follow`, no ads, out of the sitemaps and related lists. Nothing to do by hand; roundups and hubs stay indexed. Routine C still merges old daily pages into the monthly roundups.
+- **A finished one-off story with no readers gets `noindex: true`** in its frontmatter. The first 74 (Nov. 23): event over, under 5 Google clicks in 60 days, under 5 readers in 15 days (beacon), under 3 Bing clicks. A story whose season still runs (holiday menus, markets, monthly lists) or whose facts matter next year is left alone.
+- **Never remove a `noindex: true` line** when you update a story; a pruned story is updated only when its topic comes back, and then the search desk decides.
+- **One page per month.** A month has one month page. Where a `<month>-<year>-calendar-printable` story exists (November 2026 to April 2027 now), dated events, deadlines and days-until rows go into it as an update; no separate "important dates" story is written for that month. From May 2027 on the "important dates" story is the month page, and no calendar-printable story is added beside it. Five such pairs were merged on Nov. 23, 2026 (`apps/news/redirects.map`), and `02-REDIRECT-LIVE` fails a story written again under a merged slug.
+- **One page per query.** Before a new story, check that no live story already answers the same search (`docs/desk/search-console.md`, "cannibalization"); a second angle on the same date goes into the first story as a section.
+
 ## Growth plan (manager, from Nov. 14, 2026)
 
 The owner handed the steering of /news/ to the manager sessions of the research account on Nov. 14, 2026: the phase line, the queues' priorities and this plan. The goal is readers, counted by the first-party beacon (`docs/desk/traffic.md`), with Google and Bing clicks as the second and third numbers.

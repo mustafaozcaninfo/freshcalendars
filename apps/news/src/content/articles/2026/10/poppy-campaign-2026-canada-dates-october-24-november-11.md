@@ -96,6 +96,7 @@ assets:
     inkSaver: true
     description: "A one-page timeline of the 2026 National Poppy Campaign in Canada, Oct. 24 to Nov. 11, with Nov. 8 and Remembrance Day."
     alt: "Printable timeline of the Poppy Campaign 2026 in Canada from Oct. 24 to Nov. 11."
+noindex: true
 ---
 
 **The Royal Canadian Legion's National Poppy Campaign ran from Saturday, Oct. 24, to Wednesday, Nov. 11, 2026**, according to the Legion's National Poppy Campaign page, last updated Oct. 20, 2026. The campaign ended on Remembrance Day, Nov. 11.

@@ -98,6 +98,7 @@ downloads:
     png: "/news/downloads/microtia-awareness-day-2026/national-microtia-awareness-day-2026-fact-sheet.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **National Microtia Awareness Day is on November 9, according to Ear Community, the organization that founded it; in 2026 the date is a Monday.** Ear Community says the day started in 2016 and exists to promote public awareness of microtia and atresia. Its 2026 announcement could not be read, so the date here rests on that recurring November 9 date.

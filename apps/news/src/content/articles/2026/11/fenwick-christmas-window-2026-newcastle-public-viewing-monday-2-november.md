@@ -106,6 +106,7 @@ assets:
     note: "Source: Fenwick; Newcastle City Council; Newcastle NE1 Ltd."
     description: "A one-page list of Newcastle Christmas 2026 dates: Fenwick's window reveal and public viewing, the lights switch-on and the Christmas Market."
     alt: "Printable list of Newcastle Christmas 2026 dates, including the Fenwick window."
+noindex: true
 ---
 
 **Fenwick's 2026 Christmas window on Northumberland Street in Newcastle shows The Gruffalo's Child and opened for public viewing on Monday 2 November 2026**, after the live reveal at 6.30pm UK time on Sunday 1 November (1:30 p.m. Eastern Time (ET)), according to Fenwick. Below: the Newcastle Christmas 2026 dates in one table, last year's windows, and a printable.

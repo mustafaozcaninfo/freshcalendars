@@ -1,15 +1,16 @@
 import type { APIRoute } from "astro";
-import { getIndexableArticles, lastModified } from "../lib/articles";
+import { getPublishedArticles, lastModified } from "../lib/articles";
 import { articlePath } from "../lib/seo";
 import { SITE_ORIGIN } from "../lib/site";
 
 /**
- * Printable PDF → the story it belongs to (the earliest story that offers it), with what its
+ * Printable PDF → the story it belongs to (the earliest indexable story that offers it; a pruned,
+ * noindex story still owns its sheets, so they keep their properties and top link), with what its
  * document properties need. Build data, not a public file: the minify-html build hook moves it out
  * of dist/news and src/lib/pdf-meta.mjs uses it to stamp metadata, the top link and the canonical map.
  */
 export const GET: APIRoute = async () => {
-  const articles = (await getIndexableArticles()).sort((a, b) => a.data.publishedAt.getTime() - b.data.publishedAt.getTime());
+  const articles = (await getPublishedArticles()).sort((a, b) => Number(a.data.noindex) - Number(b.data.noindex) || a.data.publishedAt.getTime() - b.data.publishedAt.getTime());
   const map: Record<string, unknown> = {};
   for (const a of articles) {
     for (const d of a.data.downloads) {

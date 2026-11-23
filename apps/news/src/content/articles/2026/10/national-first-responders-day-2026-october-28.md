@@ -99,6 +99,7 @@ downloads:
     png: "/news/downloads/first-responders-day-2026/first-responders-day-2026-thank-you-checklist-key-dates-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **National First Responders Day was Wednesday, Oct. 28, 2026, a date with its basis in U.S. Senate resolutions from 2017 and 2019 and in presidential proclamations published in the Federal Register for 2022, 2023 and 2024.** It is not a federal holiday, so offices, banks and mail run normally.

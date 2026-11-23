@@ -39,6 +39,7 @@ internalLinks:
     label: "November 2026 printable calendar"
 related: []
 draft: false
+noindex: true
 ---
 
 **Intersex Awareness Day is observed on Oct. 26, which fell on a Monday in 2026.** According to the Intersex Day Project, the date marks the anniversary of the first public intersex demonstration in North America.

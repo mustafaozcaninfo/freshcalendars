@@ -87,6 +87,7 @@ downloads:
     png: "/news/downloads/bengals-falcons-madrid-2026/bengals-falcons-madrid-2026-watch-guide.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **The Cincinnati Bengals and Atlanta Falcons played at Bernabéu Stadium in Madrid on Sunday, Nov. 8, 2026, with kickoff at 9:30 a.m. Eastern Time (ET), or 3:30 p.m. local time, according to the Bengals and Falcons.** The Bengals won 34-17. NFL.com listed the same 9:30 a.m. ET start, and NFL Network was the national U.S. channel on both club pages. Kickoff times for the other U.S. zones and a free printable watch guide follow.

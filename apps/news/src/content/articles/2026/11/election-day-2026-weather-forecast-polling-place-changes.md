@@ -112,6 +112,7 @@ downloads:
     pdf: "/news/downloads/election-2026-printables/election-day-2026-weather-polls-planner.pdf"
     png: "/news/downloads/election-2026-printables/election-day-2026-weather-polls-planner.png"
     pages: 1
+noindex: true
 ---
 
 The National Weather Service (NWS) Weather Prediction Center (WPC) expected heavy rain, isolated severe weather and gusty winds to spread across the Mississippi Valley on Election Day, Tuesday, Nov. 3, 2026, and Miami-Dade County moved 19 precincts to 12 temporary polling places. A forecast does not close a polling place: as of 8:20 a.m. Eastern Time (ET), no election office had announced a weather closure, delay or extended hours that we found. For poll hours by state, see [what time polls close on Election Day 2026](/news/what-time-do-polls-close-election-day-2026/).

@@ -100,6 +100,7 @@ internalLinks:
     label: "December 2026 printable calendar"
 related: [royal-variety-performance-2026-date-itv-air-date, strictly-come-dancing-2026-final-date-19-december-remaining-weeks, children-in-need-2026-date-friday-13-november-appeal-night]
 draft: false
+noindex: true
 ---
 
 I'm A Celebrity returns for 2026 on Monday, 16 November at 9pm Greenwich Mean Time (GMT) on ITV1, Capital and What To Watch both report. The two newsrooms say the series launches that night, a day later than first planned.

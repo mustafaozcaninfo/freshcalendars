@@ -1,5 +1,6 @@
 import { getCollection, getEntry, type CollectionEntry } from "astro:content";
 import { POLICY_PAGES } from "./site";
+import { isStaleDailyPuzzle } from "./stale-puzzle.mjs";
 
 export type Article = CollectionEntry<"articles">;
 
@@ -54,6 +55,9 @@ async function readCheckedArticles(): Promise<Article[]> {
         throw new Error(`article "${a.id}": unknown ${ref.collection} reference "${ref.id}"`);
       }
     }
+    // Week-old daily puzzle pages leave the index (stale-puzzle.mjs); everything that reads
+    // `noindex` (robots tag, sitemaps, feeds, related lists, ads) then treats them like a marked story.
+    if (isStaleDailyPuzzle({ slug: a.id, category: a.data.category.id, publishedAt: a.data.publishedAt })) a.data.noindex = true;
   }
   return all;
 }

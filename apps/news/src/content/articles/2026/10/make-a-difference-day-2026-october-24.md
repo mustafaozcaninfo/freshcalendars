@@ -98,6 +98,7 @@ downloads:
     png: "/news/downloads/make-a-difference-day-2026/volunteer-day-plan-checklist-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Make A Difference Day 2026 was Saturday, Oct. 24.** It is held on the fourth Saturday of October, so the next one is Saturday, Oct. 23, 2027. A Gannett weekend magazine created the day in 1992, and Points of Light long partnered with it, according to a Points of Light blog post. We found no single national organizer page for 2026, no national theme and no official count, so we give no volunteer totals. Projects are organized locally, many campuses and local groups pick their own dates, and the volunteer finders below list projects all year. It is not a federal holiday; the only one in October 2026 was Columbus Day, Monday, Oct. 12, per the Office of Personnel Management (OPM).

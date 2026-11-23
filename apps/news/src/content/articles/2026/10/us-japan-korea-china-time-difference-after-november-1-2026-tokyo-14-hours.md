@@ -104,6 +104,7 @@ internalLinks:
     label: "November 2026 printable calendar"
 related: [daylight-saving-time-ends-november-1-2026, us-philippines-time-difference-after-november-1-2026-manila-13-hours, us-india-time-difference-after-november-1-2026-ist-10-5-hours]
 draft: false
+noindex: true
 ---
 
 New York is **14 hours behind Tokyo and Seoul** and **13 hours behind Beijing** right now, the gaps in place since U.S. clocks fell back one hour to standard time at 2 a.m. local time on Sunday, Nov. 1, 2026, up from 13 and 12 hours. None of the three countries moves its clocks, so the whole shift lands on the U.S. side, under the rule from the National Institute of Standards and Technology (NIST). A one-page [printable U.S. to Japan, Korea and China time chart](/news/downloads/time-change-2026/us-japan-korea-china-time-chart-november-2026.pdf) is on this page for your desk.

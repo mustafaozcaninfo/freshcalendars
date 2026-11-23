@@ -88,6 +88,7 @@ internalLinks:
     label: "printable weekly calendar"
 related: [national-authors-day-2026-november-1-history-reading-log, international-day-of-education-2027-sunday-january-24, childrens-book-week-november-2026-november-9-15]
 draft: false
+noindex: true
 ---
 
 National Family Literacy Day was Sunday, Nov. 1, 2026, a day the National Center for Families Learning (NCFL) says it established "more than 30 years ago, in collaboration with Congress." NCFL also recognizes all of November as National Family Literacy Month. Below are the November dates, including the group's 2026 conference, and a free 7-day family reading plan for Nov. 1 to Nov. 7.

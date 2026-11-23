@@ -98,6 +98,7 @@ internalLinks:
     label: "printable weekly calendar"
 related: [national-cat-day-2026-thursday-october-29, national-black-cat-day-2026-october-27, world-vegan-day-2026-sunday-november-1-world-vegan-month-planner]
 draft: false
+noindex: true
 ---
 
 National Cook for Your Pets Day was Sunday, Nov. 1, 2026, an informal observance with no confirmed founder, and the safest way to mark it starts with what to leave out of the bowl. The American Society for the Prevention of Cruelty to Animals (ASPCA) lists the people foods it says to avoid feeding pets, and the Centers for Disease Control and Prevention (CDC) gives handling rules. This story puts the ASPCA list in one table and adds a free kitchen checklist with the ASPCA poison line.

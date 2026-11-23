@@ -112,6 +112,7 @@ downloads:
     png: "/news/downloads/voter-id-2026/voter-id-measures-on-the-ballot-2026-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **Voters in five states, North Carolina, Ohio, Arizona, Nevada and Colorado, decide measures on voter identification on Tuesday, Nov. 3, 2026, according to each state's official ballot language.** North Carolina, Ohio, Arizona and Nevada have constitutional amendments on the ballot, as does Colorado, where Amendment 84 is a citizen initiative. This guide puts them in one table and adds the federal rule that already applies to first-time voters who registered by mail.

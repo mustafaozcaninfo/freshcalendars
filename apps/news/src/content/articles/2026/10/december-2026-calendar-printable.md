@@ -3,6 +3,7 @@ title: "December 2026 Calendar: 16 Free Printables, Christmas on Dec. 25"
 description: "December 2026 starts on Tuesday, Dec. 1 and has one federal holiday, Christmas Day, Friday, Dec. 25. 16 free printable PDFs, with a Hanukkah calendar."
 type: explainer
 publishedAt: "2026-10-27T03:00:00-04:00"
+updatedAt: "2026-11-23T15:48:20-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["december 2026 calendar", "december 2026 calendar printable", "printable december 2026 calendar pdf", "december 2026 blank calendar", "christmas countdown calendar 2026 printable"]
@@ -29,7 +30,19 @@ faq:
     a: "Monday, Dec. 21, 2026 at 3:50 p.m. EST, according to the U.S. Naval Observatory. It is the shortest day and longest night of the year in the Northern Hemisphere."
   - q: "When is the full moon in December 2026?"
     a: "Wednesday, Dec. 23, 2026 at 8:28 p.m. EST, per the U.S. Naval Observatory. It is often called the Cold Moon. December also has a new moon on Dec. 8 and two last quarters, on Dec. 1 and Dec. 30."
+  - q: "What day of the week is Christmas 2026?"
+    a: "Friday, Dec. 25, 2026. Christmas Eve is Thursday, Dec. 24, and New Year's Eve is Thursday, Dec. 31."
+  - q: "How many days until Christmas 2026?"
+    a: "32 days from Monday, Nov. 23, 2026. There are 7 days left in November and 25 to Christmas in December."
+  - q: "When is Hanukkah 2026?"
+    a: "From sundown on Friday, Dec. 4 to nightfall on Saturday, Dec. 12. The eight candle-lighting nights are Dec. 4 through Dec. 11."
 sources:
+  - title: "Earth's Seasons and Apsides"
+    url: "https://aa.usno.navy.mil/data/Earth_Seasons"
+    publisher: "U.S. Naval Observatory, Astronomical Applications Department"
+  - title: "Phases of the Moon"
+    url: "https://aa.usno.navy.mil/data/MoonPhases"
+    publisher: "U.S. Naval Observatory, Astronomical Applications Department"
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
@@ -77,11 +90,13 @@ internalLinks:
     label: "December printable calendars by year"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day"
+  - href: "/when-is/christmas-eve/"
+    label: "When is Christmas Eve"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [december-2026-important-dates-holidays-days-until, christmas-2026-calendar-printable-countdown, hanukkah-2026-dates-calendar]
+related: [hanukkah-2026-dates-calendar, ugly-christmas-sweater-day-2026, advent-of-code-2026-start-time-puzzle-unlock-time-zones]
 downloads:
   - group: "December 2026 calendar templates"
     title: "December 2026 Calendar With Holidays"
@@ -268,7 +283,38 @@ Only Christmas Day is a federal holiday. The rest of the table lists the dates t
 | Mon., Dec. 30, 1:59 p.m. EST | Last quarter Moon | USNO |
 | Thu., Dec. 31 | New Year's Eve; January SSI paid early because Jan. 1 is a holiday | SSA |
 
-USPS dates are for the lower 48 states and are recommendations, not guarantees. The stock market is open on New Year's Eve with normal hours, according to NYSE. For the countdown to each date, see our [December 2026 holidays and important dates](/news/december-2026-important-dates-holidays-days-until/) story; for the eight nights with candle times, [Hanukkah 2026](/news/hanukkah-2026-dates-calendar/). Our [Kwanzaa dates and the seven principles](/news/kwanzaa-2026-dates-seven-principles-calendar-printable/) guide covers that week in full.
+USPS dates are for the lower 48 states and are recommendations, not guarantees. The stock market is open on New Year's Eve with normal hours, according to NYSE. For the countdown to each date, see the days-until table below; for the eight nights with candle times, [Hanukkah 2026](/news/hanukkah-2026-dates-calendar/). Our [Kwanzaa dates and the seven principles](/news/kwanzaa-2026-dates-seven-principles-calendar-printable/) guide covers that week in full.
+
+## Days until each December 2026 date
+
+Days are counted from Monday, Nov. 23, 2026. To count from another day, add the days left in the current month to the days in each full month before your date. From Nov. 23 there are 7 days left in November, so Dec. 4 is 7 + 4 = 11 days away.
+
+| Date | Day | What happens | Days from Nov. 23 |
+|---|---|---|---|
+| Dec. 4 | Friday | Hanukkah begins at sundown | 11 |
+| Dec. 7 | Monday | Medicare open enrollment ends; National Pearl Harbor Remembrance Day | 14 |
+| Dec. 9 | Wednesday | USPS international First-Class Package and Priority Mail send-by date | 16 |
+| Dec. 11 | Friday | Last night of Hanukkah candles; federal funding expires at the end of the day | 18 |
+| Dec. 13 | Sunday | Geminid meteor shower peaks overnight into Dec. 14 | 20 |
+| Dec. 15 | Tuesday | HealthCare.gov deadline for coverage starting Jan. 1 | 22 |
+| Dec. 17 | Thursday | USPS Ground Advantage and First-Class Mail send-by date | 24 |
+| Dec. 18 | Friday | USPS Priority Mail send-by date | 25 |
+| Dec. 19 | Saturday | USPS Priority Mail Express send-by date | 26 |
+| Dec. 21 | Monday | Winter solstice, 3:50 p.m. EST | 28 |
+| Dec. 23 | Wednesday | Cold Moon, full at 8:28 p.m. EST | 30 |
+| Dec. 24 | Thursday | Christmas Eve; NYSE closes at 1 p.m. ET | 31 |
+| Dec. 25 | Friday | Christmas Day (federal holiday) | 32 |
+| Dec. 31 | Thursday | New Year's Eve | 38 |
+
+## Deadlines, sky events and Christmas Eve in December 2026
+
+- **Medicare, Dec. 7:** open enrollment began Oct. 15 and ends on Monday; changes take effect Jan. 1, 2027. See the [Medicare open enrollment story](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/) and [flags at half-staff on Dec. 7](/news/national-pearl-harbor-remembrance-day-2026-december-7-flags-half-staff/).
+- **Federal funding, Dec. 11:** agencies are funded through Friday, Dec. 11, under the stopgap law signed Sept. 2. The [December funding deadline](/news/government-funding-deadline-december-11-2026-shutdown/) report explains what lapses if Congress does not act.
+- **HealthCare.gov, Dec. 15:** pick a Marketplace plan by Tuesday for coverage that starts Jan. 1. Open enrollment continues to Jan. 15, with coverage from Feb. 1; see the [Affordable Care Act (ACA) open enrollment guide](/news/aca-open-enrollment-2027-dates-november-1-january-15/).
+- **Holiday mail, Dec. 9 to 19:** the Postal Service recommends Ground Advantage and First-Class Mail by Dec. 17, Priority Mail by Dec. 18 and Priority Mail Express by Dec. 19 for delivery by Christmas in the lower 48 states. All dates are in the [USPS holiday shipping deadlines](/news/usps-holiday-shipping-deadlines-2026/) story.
+- **Hanukkah:** it runs on 25 Kislev to 2 Tevet in the Hebrew calendar. The first and last candle-lighting nights both fall on a Friday, so the menorah is lit before the Shabbat candles.
+- **Sky:** the Geminids peak the night of Dec. 13-14 with the Moon only about 21% lit. The Cold Moon on Dec. 23 is the closest full moon of 2026, a supermoon; the [supermoon and solstice guide](/news/supermoon-2026-beaver-moon-cold-moon-geminids-solstice/) has viewing times.
+- **Christmas Eve:** it is not a federal holiday, though presidents closed most federal offices that day by executive order in five recent years; none had been issued for 2026 as of Monday, Nov. 23, as [Is Christmas Eve a federal holiday](/news/is-christmas-eve-a-federal-holiday-2026/) explains. NYSE stays shut on Christmas Day, and New Year's Day, Friday, Jan. 1, 2027, is the next federal holiday.
 
 ## 16 free printable December 2026 calendar templates
 

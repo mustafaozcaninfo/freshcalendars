@@ -109,6 +109,7 @@ downloads:
     png: "/news/downloads/fa-cup-2026-27/fa-cup-first-round-tv-picks-round-dates-2026-27-ink.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **The FA Cup first round ran from Friday, Nov. 6, to Monday, Nov. 9, 2026, with 8 ties live on Turner Network Television (TNT) Sports, according to The Football Association (The FA).** Two of them are also on British Broadcasting Corporation (BBC) Two. Kick-off times are in Greenwich Mean Time (GMT), the UK time after clocks went back on Oct. 25.

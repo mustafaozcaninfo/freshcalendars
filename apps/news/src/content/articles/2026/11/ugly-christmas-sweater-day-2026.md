@@ -98,7 +98,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [christmas-jumper-day-2026-thursday-10-december-planner, december-2026-important-dates-holidays-days-until, giving-tuesday-2026-december-1-tax-deduction-charity-check]
+related: [christmas-jumper-day-2026-thursday-10-december-planner, december-2026-calendar-printable, giving-tuesday-2026-december-1-tax-deduction-charity-check]
 draft: false
 ---
 
@@ -151,4 +151,4 @@ Save the Children UK's Christmas Jumper Day page suggests several ideas that car
 
 ## Free printable sweater contest sheet
 
-The printable has a setup checklist, those four ideas and a four-category scorecard (most festive, most over the top, best lights or add-ons, funniest) for Friday, Dec. 18. The categories are our own suggestion, not from any source. A [printable weekly calendar](/printable-weekly-calendar.html) can hold the planning dates. For the rest of the month, see our [December 2026 important dates list](/news/december-2026-important-dates-holidays-days-until/), and for a giving date that falls earlier, [Giving Tuesday 2026](/news/giving-tuesday-2026-december-1-tax-deduction-charity-check/).
+The printable has a setup checklist, those four ideas and a four-category scorecard (most festive, most over the top, best lights or add-ons, funniest) for Friday, Dec. 18. The categories are our own suggestion, not from any source. A [printable weekly calendar](/printable-weekly-calendar.html) can hold the planning dates. For the rest of the month, see our [December 2026 important dates list](/news/december-2026-calendar-printable/), and for a giving date that falls earlier, [Giving Tuesday 2026](/news/giving-tuesday-2026-december-1-tax-deduction-charity-check/).

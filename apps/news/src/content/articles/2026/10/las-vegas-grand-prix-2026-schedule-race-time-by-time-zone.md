@@ -96,6 +96,7 @@ downloads:
     png: "/news/downloads/las-vegas-gp-2026/las-vegas-gp-2026-schedule.png"
     pages: 1
 draft: false
+noindex: true
 ---
 
 **The Las Vegas Grand Prix race is Saturday, Nov. 21, 2026, at 20:00 local time, which is 11 p.m. Eastern Standard Time (EST), according to Formula 1 (F1).** F1 lists the race as 50 laps or 120 minutes on the 6.201-kilometre Las Vegas Strip Circuit, and says its timetable is subject to change. Below: every session in U.S. time zones and GMT, and what changed from 2025.

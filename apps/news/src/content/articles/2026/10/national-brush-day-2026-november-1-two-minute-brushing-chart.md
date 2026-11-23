@@ -122,6 +122,7 @@ internalLinks:
     label: "February 2027 printable calendar"
 related: [toothpaste-recall-2026-brush-buddies-evo-aru-fda-class-ii, halloween-2026-saturday-sunset-trick-or-treat-times, national-candy-corn-day-2026-october-30]
 draft: false
+noindex: true
 ---
 
 National Brush Day was Sunday, Nov. 1, 2026, the day after Halloween, according to the Academy of General Dentistry (AGD), which published its message on Oct. 30, 2026: "Two minutes. Twice a day. No excuses." The AGD says the day is celebrated after Halloween to reinforce the importance of children's oral health. This story adds a toothpaste table from the American Dental Association (ADA), a toothbrush replacement table we computed from Nov. 1, and a free 14-day brushing tracker.

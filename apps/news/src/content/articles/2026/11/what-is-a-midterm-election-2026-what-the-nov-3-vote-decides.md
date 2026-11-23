@@ -135,6 +135,7 @@ downloads:
     pdf: "/news/downloads/what-is-a-midterm-election-2026-what-the-nov-3-vote-decides/midterm-election-2026-key-dates-ink.pdf"
     png: "/news/downloads/what-is-a-midterm-election-2026-what-the-nov-3-vote-decides/midterm-election-2026-key-dates-ink.png"
     pages: 1
+noindex: true
 ---
 
 **A midterm election is a congressional election held halfway between presidential elections, according to USAGov, and the next one is Tuesday, Nov. 3, 2026.** Voters decide all 435 seats in the U.S. House of Representatives and 35 of the 100 seats in the Senate. The president is not on the ballot. Most states also elect governors, state legislators and local officials the same day.
