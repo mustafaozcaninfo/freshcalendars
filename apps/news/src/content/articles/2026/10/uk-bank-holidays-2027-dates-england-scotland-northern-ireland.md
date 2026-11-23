@@ -3,7 +3,7 @@ title: "Bank Holidays 2027: UK Dates and Free Printable List"
 description: "Bank holidays 2027 in the UK: eight in England and Wales, nine in Scotland, 10 in Northern Ireland. A free printable list, with Easter on March 26-29."
 type: explainer
 publishedAt: "2026-10-19T10:50:00-04:00"
-updatedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-11-23T17:20:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["bank holidays 2027 printable calendar", "bank holidays 2027", "UK bank holidays 2027", "Scotland bank holidays 2027", "Northern Ireland bank holidays 2027"]
@@ -58,9 +58,9 @@ downloads:
 draft: false
 ---
 
-**The UK has eight bank holidays in England and Wales in 2027, nine in Scotland and 10 in Northern Ireland**, according to GOV.UK. Two things stand out. Easter is early, with Good Friday on March 26. And Christmas Day falls on a Saturday, so the Christmas and Boxing Day bank holidays move to **Monday, Dec. 27 and Tuesday, Dec. 28, 2027**.
+**England and Wales have eight bank holidays in 2027, starting with New Year's Day on Friday, Jan. 1, 2027**. Scotland has nine and Northern Ireland 10, according to GOV.UK. Two things stand out. Easter is early, with Good Friday on March 26. And Christmas Day falls on a Saturday, so the Christmas and Boxing Day bank holidays move to **Monday, Dec. 27 and Tuesday, Dec. 28, 2027**.
 
-## UK bank holidays 2027
+## UK public holidays 2027 by nation
 
 <p class="days-live" data-days-until="2027" hidden></p>
 

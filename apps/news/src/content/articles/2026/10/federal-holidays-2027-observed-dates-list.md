@@ -3,7 +3,7 @@ title: "Federal Holidays 2027: 11 Observed Dates and a Dec. 31 Day Off"
 description: "Federal holidays 2027 has 11 observed dates, with Juneteenth, Independence Day and Christmas moved to weekdays. Most workers get Dec. 31 off. Free list."
 type: explainer
 publishedAt: "2026-10-19T11:00:00-04:00"
-updatedAt: "2026-10-24T00:50:00-04:00"
+updatedAt: "2026-11-23T17:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["federal holidays 2027 observed dates", "federal holidays 2027", "2027 federal holiday calendar", "holidays 2027", "federal holidays 2027 observed"]
@@ -30,7 +30,7 @@ faq:
   - q: "Is Dec. 31, 2027 a federal holiday?"
     a: "Yes, for most federal employees. OPM lists Friday, Dec. 31, 2027 as the observed New Year's Day for 2028, because Jan. 1, 2028 is a Saturday. The stock market stays open that day."
   - q: "Are banks open on Dec. 31, 2027?"
-    a: "Many are. The Federal Reserve Banks stay open on the Friday before a Saturday holiday, so Friday, Dec. 31, 2027 is a business day for the Fed even though it is a day off for most federal employees. Check with your bank."
+    a: "Many are. For a Saturday holiday, the Federal Reserve Banks are open on the Friday before, while the Board of Governors is closed. On Friday, Dec. 31, 2027, Federal Reserve Banks are open even though it is a day off for most federal employees. Check with your bank."
   - q: "When is Thanksgiving 2027?"
     a: "Thursday, Nov. 25, 2027, the fourth Thursday of November."
 sources:
@@ -70,7 +70,7 @@ draft: false
 
 **There are 11 federal holidays in 2027**, according to the U.S. Office of Personnel Management (OPM), and an unusual number of them move. Juneteenth, Independence Day and Christmas all land on weekends, so each is observed on a nearby Friday or Monday. And because New Year's Day 2028 falls on a Saturday, most federal employees get **Friday, Dec. 31, 2027** off too, for 12 paid holidays in the calendar year.
 
-## Federal holidays 2027
+## OPM federal holidays 2027: the 11 dates
 
 <p class="days-live" data-days-until="2027" hidden></p>
 
@@ -81,7 +81,7 @@ draft: false
 | Feb. 15 | Monday | Washington's Birthday (Presidents' Day) | - |
 | May 31 | Monday | Memorial Day | - |
 | June 18 | Friday | Juneteenth National Independence Day (observed) | - |
-| July 5 | Monday | Independence Day (observed) | - |
+| July 5 | Monday | [Independence Day (observed)](/news/july-4-2027-observed-monday-july-5-weekend-holidays/) | - |
 | Sept. 6 | Monday | Labor Day | - |
 | Oct. 11 | Monday | Columbus Day | - |
 | Nov. 11 | Thursday | Veterans Day | - |
@@ -110,7 +110,7 @@ Ten of the 12 days off fall on a Monday or a Friday. The Mondays and the first F
 
 ## What is closed on federal holidays
 
-Federal offices and the U.S. Postal Service close on federal holidays. Banks follow the Federal Reserve, which has one twist: when a holiday falls on a Saturday, Federal Reserve Banks stay open the Friday before. That means many banks are open on Friday, June 18, Friday, Dec. 24 and Friday, Dec. 31, 2027, even though federal offices are closed. When a holiday falls on a Sunday, the Fed closes the following Monday, so banks close on Monday, July 5. The stock market is different again. It closes for Good Friday, which is not a federal holiday, but stays open on Columbus Day and Veterans Day, and on Dec. 31, 2027. Our [2027 stock market holiday calendar](/news/stock-market-holidays-2027-nyse-closed-dates/) has the full list.
+Federal offices and the U.S. Postal Service close on federal holidays. Banks follow the Federal Reserve, which has one twist: when a holiday falls on a Saturday, Federal Reserve Banks are open the Friday before, while the Board of Governors is closed. That means Federal Reserve Banks are open on Friday, June 18, Friday, Dec. 24 and Friday, Dec. 31, 2027, and many banks are open too, even though federal offices are closed. When a holiday falls on a Sunday, the Federal Reserve Banks and the Board of Governors are closed the following Monday, July 5, 2027. The stock market is different again. It closes for Good Friday, which is not a federal holiday, but stays open on Columbus Day and Veterans Day, and on Dec. 31, 2027. Our [2027 stock market holiday calendar](/news/stock-market-holidays-2027-nyse-closed-dates/) has the full list.
 
 Private employers are not required to give federal holidays off. Many offer most of them, and state and local governments set their own schedules.
 
