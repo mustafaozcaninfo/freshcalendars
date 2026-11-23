@@ -65,7 +65,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [high-school-football-state-championships-2026-dates-by-state, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times, tssaa-bluecross-bowl-2026-schedule-chattanooga-kickoff-times]
+related: [high-school-football-state-championships-2026-dates-by-state, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times, aia-football-state-championships-2026-schedule-kickoff-times]
 assets:
   overlay: true
   kicker: "GHSA finals · Dec. 15-16, 2026"

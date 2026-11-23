@@ -59,7 +59,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [high-school-football-state-championships-2026-dates-by-state, ahsaa-super-7-2026-schedule-kickoff-times, ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium]
+related: [high-school-football-state-championships-2026-dates-by-state, ossaa-football-state-championships-2026-schedule, ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium]
 assets:
   overlay: true
   kicker: "UIL state finals · Dec. 16-19, 2026"
