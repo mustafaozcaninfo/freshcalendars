@@ -76,7 +76,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [high-school-football-state-championships-2026-dates-by-state, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times, thanksgiving-football-schedule-2026-nfl-college-games]
+related: [high-school-football-state-championships-2026-dates-by-state, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times, aia-football-state-championships-2026-schedule-kickoff-times]
 assets:
   overlay: true
   kicker: "IHSA Finals, Nov. 27-28, 2026"

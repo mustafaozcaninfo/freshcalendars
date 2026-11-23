@@ -101,7 +101,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28, khsaa-state-football-finals-2026-kroger-field-schedule, ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium]
+related: [ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28, khsaa-state-football-finals-2026-kroger-field-schedule, njsiaa-football-state-finals-2026-metlife-schedule]
 assets:
   overlay: true
   kicker: "State title games · Nov. 21-Dec. 19"
@@ -160,7 +160,7 @@ Every row comes from the association's own page. Weekdays are computed from the 
 | Michigan | Michigan High School Athletic Association (MHSAA) | 11-player: Fri.-Sat., Nov. 27-28; 8-player: Sat., Nov. 21 | Ford Field, Detroit (11-player); Superior Dome, Marquette (8-player) |
 | Indiana | Indiana High School Athletic Association (IHSAA) | Fri.-Sat., Nov. 27-28 | Lucas Oil Stadium, Indianapolis; see our [IHSAA football tournament story](/news/ihsaa-football-tournament-2026-schedule-sectionals-regionals-state-finals/) |
 | Minnesota | Minnesota State High School League (MSHSL) | Fri.-Sat., Nov. 27-28 (Prep Bowl) | U.S. Bank Stadium |
-| New Jersey | New Jersey State Interscholastic Athletic Association (NJSIAA) | Sat. or Sun., Nov. 28 or 29, set by tournament round | MetLife |
+| New Jersey | New Jersey State Interscholastic Athletic Association (NJSIAA) | Sat. or Sun., Nov. 28 or 29, set by tournament round | MetLife ([kickoff times](/news/njsiaa-football-state-finals-2026-metlife-schedule/)) |
 | Alabama | Alabama High School Athletic Association (AHSAA) | Wed.-Sat., Dec. 2-5 (Super 7 Finals) | Mobile; the page names no stadium |
 | Ohio | Ohio High School Athletic Association (OHSAA) | Thu.-Sat., Dec. 3-5 | Tom Benson Hall of Fame Stadium, Canton; see our [OHSAA football playoffs story](/news/ohsaa-football-playoffs-2026-schedule-regional-dates-state-finals-canton/) |
 | Tennessee | Tennessee Secondary School Athletic Association (TSSAA) | Thu.-Sat., Dec. 3-5 (BlueCross Bowl) | Finley Stadium, Chattanooga |
