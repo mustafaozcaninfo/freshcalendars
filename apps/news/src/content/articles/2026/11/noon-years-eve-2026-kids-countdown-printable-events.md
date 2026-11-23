@@ -127,7 +127,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [new-years-countdown-2027-midnight-every-time-zone, whats-open-new-years-eve-new-years-day-2027, christmas-printables-2026-gift-tags-wish-list-letter-to-santa]
+related: [new-years-countdown-2027-midnight-every-time-zone, whats-open-new-years-eve-new-years-day-2027, new-years-eve-2026-printables-bingo-resolution-cards]
 downloads:
   - group: "Noon Year's Eve 2026 Countdown and Resolution Sheet printables"
     title: "Noon Year's Eve 2026 Countdown and Resolution Sheet, Dec. 31"
