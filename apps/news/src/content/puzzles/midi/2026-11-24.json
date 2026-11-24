@@ -1,0 +1,431 @@
+{
+ "title": "Gateway to the West",
+ "editor": "Ian Livengood",
+ "publicationDate": "2026-11-24",
+ "constructors": [
+  "Rena Cohen"
+ ],
+ "width": 9,
+ "height": 9,
+ "cells": [
+  "H",
+  "O",
+  "L",
+  "L",
+  "A",
+  null,
+  "D",
+  "U",
+  "B",
+  "S",
+  "H",
+  "E",
+  "E",
+  "R",
+  null,
+  "R",
+  "N",
+  "A",
+  "N",
+  "O",
+  "D",
+  "A",
+  "T",
+  null,
+  "A",
+  "P",
+  "T",
+  null,
+  "H",
+  "A",
+  "S",
+  null,
+  "G",
+  "N",
+  "C",
+  null,
+  null,
+  null,
+  "S",
+  "H",
+  "A",
+  "R",
+  "K",
+  null,
+  null,
+  null,
+  "S",
+  "T",
+  "L",
+  "O",
+  "U",
+  "I",
+  "S",
+  null,
+  "M",
+  "O",
+  "R",
+  "A",
+  "L",
+  null,
+  "T",
+  "I",
+  "L",
+  "I",
+  "S",
+  "A",
+  "W",
+  null,
+  null,
+  "I",
+  "R",
+  "A",
+  "T",
+  "O",
+  "Y",
+  null,
+  null,
+  null,
+  "N",
+  "I",
+  "H"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Say hi, slangily",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Give a nickname",
+   "cells": [
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "See-through, as some fabric",
+   "cells": [
+    9,
+    10,
+    11,
+    12,
+    13
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Molecule involved in protein synthesis",
+   "cells": [
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Say hi to, nonverbally",
+   "cells": [
+    18,
+    19,
+    20,
+    21,
+    22
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Like a barista named Bean or a fashionista named Jean",
+   "cells": [
+    24,
+    25,
+    26
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "13",
+   "text": "Owns",
+   "cells": [
+    28,
+    29,
+    30
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Chain that sells creatine and probiotics",
+   "cells": [
+    32,
+    33,
+    34
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Animal whose skin can feel similar to sandpaper",
+   "cells": [
+    38,
+    39,
+    40,
+    41,
+    42
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Home to the monument suggested by this puzzle's circled squares, read clockwise from the lower left",
+   "cells": [
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Story's lesson",
+   "cells": [
+    54,
+    55,
+    56,
+    57,
+    58
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "\"Fake it ___ you make it\"",
+   "cells": [
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "\"No need to fill me in\"",
+   "cells": [
+    63,
+    64,
+    65,
+    66
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Pulitzer-winning Gershwin",
+   "cells": [
+    69,
+    70,
+    71
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Small dog size",
+   "cells": [
+    72,
+    73,
+    74
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "25",
+   "text": "Org. with the Undiagnosed Diseases Program",
+   "cells": [
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Channel akin to QVC",
+   "cells": [
+    0,
+    9,
+    18
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "\"Over here! Call on me!\"",
+   "cells": [
+    1,
+    10,
+    19,
+    28
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Misguided",
+   "cells": [
+    2,
+    11,
+    20,
+    29,
+    38,
+    47,
+    56,
+    65,
+    74
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Rule for dog walkers",
+   "cells": [
+    3,
+    12,
+    21,
+    30,
+    39,
+    48,
+    57,
+    66
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "It \"has no meaning because it has many meanings, infinite meanings,\" per graffitist Keith Haring",
+   "cells": [
+    4,
+    13,
+    22
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Soaked up the moment",
+   "cells": [
+    6,
+    15,
+    24,
+    33,
+    42,
+    51,
+    60,
+    69,
+    78
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Insensitive, as some language",
+   "cells": [
+    7,
+    16,
+    25,
+    34
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Mammal that sleeps upside-down",
+   "cells": [
+    8,
+    17,
+    26
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "14",
+   "text": "Reformed supervillain in \"Despicable Me\"",
+   "cells": [
+    32,
+    41,
+    50
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "16",
+   "text": "\"You've got mail\" co.",
+   "cells": [
+    40,
+    49,
+    58
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Neither good nor bad",
+   "cells": [
+    46,
+    55,
+    64,
+    73
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "Whom you might ask to \"set a timer for 15 minutes\"",
+   "cells": [
+    52,
+    61,
+    70,
+    79
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "Sch. with the annual Mystery Hunt, a days-long event for puzzle lovers",
+   "cells": [
+    54,
+    63,
+    72
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "\"Well, ___-di-dah!\"",
+   "cells": [
+    62,
+    71,
+    80
+   ]
+  }
+ ]
+}
