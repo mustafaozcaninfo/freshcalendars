@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-24T09:13:55.489Z",
+ "generatedAt": "2026-11-24T20:09:24.235Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -2436,10 +2436,10 @@
   "indexed": 72,
   "notIndexed": [
    {
-    "url": "https://freshcalendars.com/news/waffle-answer-hints-today-november-3-2026-1747/",
+    "url": "https://freshcalendars.com/news/quordle-hints-answers-november-4-2026-1745/",
     "status": "not indexed",
     "state": "Excluded by ‘noindex’ tag",
-    "age": 21
+    "age": 20
    }
   ],
   "states": {
@@ -2479,78 +2479,6 @@
   }
  ],
  "experiments": [
-  {
-   "slug": "baltimore-county-public-schools-calendar-2026-27-breaks",
-   "changedAt": "2026-11-07",
-   "what": "seoTitle: \"BCPS Calendar 2026-27: Breaks and Last Day\" → \"Baltimore County BCPS Calendar 2026-27: Breaks, Last Day\"; description and first paragraph lead with Thanksgiving Nov. 26-27",
-   "before": {
-    "clicks": 2,
-    "impressions": 1831,
-    "ctr": 0.11,
-    "position": 5.7
-   },
-   "after": {
-    "clicks": 3,
-    "impressions": 1384,
-    "ctr": 0.22,
-    "position": 6.9
-   },
-   "daysAfter": 14
-  },
-  {
-   "slug": "thanksgiving-football-schedule-2026-nfl-college-games",
-   "changedAt": "2026-11-07",
-   "what": "title: \"Thanksgiving Football Schedule 2026: Every NFL and College Game From Wednesday to Saturday\" → \"Thanksgiving Football 2026: Bears-Lions, Eagles-Cowboys, Chiefs-Bills and College Games\"; seoTitle, description, first sentence",
-   "before": {
-    "clicks": 47,
-    "impressions": 3588,
-    "ctr": 1.31,
-    "position": 6.8
-   },
-   "after": {
-    "clicks": 54,
-    "impressions": 5314,
-    "ctr": 1.02,
-    "position": 6.7
-   },
-   "daysAfter": 14
-  },
-  {
-   "slug": "king-tides-2026-dates-this-week-high-tide-times",
-   "changedAt": "2026-11-07",
-   "what": "seoTitle: \"King Tides 2026: California Dates and High Tide Times\" → \"King Tides 2026: Nov. 24-26 California Dates and Tide Times\"; description, first sentence and section order lead with Nov. 24-26",
-   "before": {
-    "clicks": 16,
-    "impressions": 1154,
-    "ctr": 1.39,
-    "position": 7.3
-   },
-   "after": {
-    "clicks": 5,
-    "impressions": 256,
-    "ctr": 1.95,
-    "position": 8.2
-   },
-   "daysAfter": 14
-  },
-  {
-   "slug": "november-2026-calendar-printable",
-   "changedAt": "2026-11-07",
-   "what": "description: \"November 2026 starts on Sunday, Nov. 1, when clocks fall back, ...\" → \"November 2026 calendar: 14 free printable PDFs with Veterans Day, Nov. 11 and Thanksgiving, Nov. 26 marked. ...\"; title unchanged, clock-change sentence cut from the first paragraph",
-   "before": {
-    "clicks": 17,
-    "impressions": 703,
-    "ctr": 2.42,
-    "position": 5.2
-   },
-   "after": {
-    "clicks": 1,
-    "impressions": 11,
-    "ctr": 9.09,
-    "position": 4.3
-   },
-   "daysAfter": 14
-  },
   {
    "slug": "orange-county-public-schools-calendar-2026-27-breaks-holidays",
    "changedAt": "2026-11-08",
@@ -2638,6 +2566,188 @@
     "impressions": 2746,
     "ctr": 0.55,
     "position": 6.6
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "christmas-2026-calendar-printable-countdown",
+   "changedAt": "2026-11-23",
+   "what": "title: \"Christmas 2026 Countdown: Days Until Friday, Dec. 25, Printable\" → \"What Day Is Christmas 2026? Friday, Dec. 25, Printable Countdown\"; lede opens \"Christmas 2026 is on Friday, Dec. 25\", weekday H2 moved above the clock, day counts from Nov. 23",
+   "before": {
+    "clicks": 4,
+    "impressions": 450,
+    "ctr": 0.89,
+    "position": 9.2
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "uk-bank-holidays-2027-dates-england-scotland-northern-ireland",
+   "changedAt": "2026-11-23",
+   "what": "title unchanged \"Bank Holidays 2027: UK Dates and Free Printable List\"; lede opens with eight England and Wales bank holidays and New Year's Day Fri. Jan. 1, table H2 now \"UK public holidays 2027 by nation\"",
+   "before": {
+    "clicks": 2,
+    "impressions": 8444,
+    "ctr": 0.02,
+    "position": 2
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "federal-holidays-2027-observed-dates-list",
+   "changedAt": "2026-11-23",
+   "what": "title unchanged \"Federal Holidays 2027: 11 Observed Dates and a Dec. 31 Day Off\"; table H2 now \"OPM federal holidays 2027: the 11 dates\", July 5 row links the July 4 2027 story, Fed wording fixed (Reserve Banks open, Board of Governors closed on June 18, Dec. 24, Dec. 31)",
+   "before": {
+    "clicks": 0,
+    "impressions": 2368,
+    "ctr": 0,
+    "position": 4.4
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "canada-statutory-holidays-2027-federal-general-holidays",
+   "changedAt": "2026-11-23",
+   "what": "title unchanged: \"2027 Stat Holidays Canada: 10 Federal Holidays, Thanksgiving Oct. 11\"; H2 \"Long weekends in 2027\" → \"Civic Holiday 2027 and the other long weekends\" with a Canada Day Jul. 1 / Civic Holiday Aug. 2 / Labour Day Sept. 6 table, Civic Holiday not on the Canada Labour Code s.166 list, CRA 2026 \"excluding Quebec\" quote; \"Canadian public holidays 2027\" in the first paragraph; dead canad",
+   "before": {
+    "clicks": 1,
+    "impressions": 1711,
+    "ctr": 0.06,
+    "position": 8.4
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "ramadan-2027-calendar-dates-timetable",
+   "changedAt": "2026-11-23",
+   "what": "title: \"Ramadan 2027 Date: Expected Feb. 8, Suhoor and Iftar Times\" → \"Ramadan 2027 Calendar: Expected Feb. 8 Start, Suhoor and Iftar Times\"; H2 \"Ramadan 2027 calendar for U.S. cities\"; first sentence \"expected to start on Monday, Feb. 8\"; Fiqh Council of North America still gives Feb. 8 and Eid March 9; Umm al-Qura page unreadable by script",
+   "before": {
+    "clicks": 4,
+    "impressions": 885,
+    "ctr": 0.45,
+    "position": 9.9
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "dcps-calendar-2026-27-dc-public-schools-breaks",
+   "changedAt": "2026-11-23",
+   "what": "title: \"DCPS Spring Break 2027: March 22-26, Last Day June 17\" → \"DCPS Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Last Day June 17\"; description opens \"District of Columbia Public Schools (DCPS) calendar 2026-27:\"; stale \"next day off Nov. 11\" lede and Election Day bullet now Nov. 25-27",
+   "before": {
+    "clicks": 1,
+    "impressions": 3448,
+    "ctr": 0.03,
+    "position": 5.2
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "wake-county-public-schools-calendar-2026-27-traditional",
+   "changedAt": "2026-11-23",
+   "what": "title: \"WCPSS Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Last Day June 8\" → \"WCPSS Traditional Calendar 2026-27: Winter Break Dec. 21-Jan. 1\"; last day June 8 in the first sentence",
+   "before": {
+    "clicks": 0,
+    "impressions": 14,
+    "ctr": 0,
+    "position": 7.6
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "san-diego-unified-calendar-2026-27-breaks",
+   "changedAt": "2026-11-23",
+   "what": "title: \"San Diego Unified Calendar 2026-27: Thanksgiving Break Nov. 23-27\" → \"SDUSD Calendar 2026-27: Winter Break Dec. 21-Jan. 4, Last Day May 26\"; caption names winter break",
+   "before": {
+    "clicks": 2,
+    "impressions": 1066,
+    "ctr": 0.19,
+    "position": 7.4
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "denver-public-schools-calendar-2026-27-breaks",
+   "changedAt": "2026-11-23",
+   "what": "title: \"Denver Public Schools Calendar 2026-27: Last Day Is June 4\" → \"DPS Calendar 2026-27: Denver Winter Break Dec. 21-Jan. 1, Ends June 4\"; H2 \"DPS spring break 2027: March 29 to April 2\" added; source moved to the revised district PDF of June 16, 2026: its holiday list drops Cesar Chavez Day (7 dates, Dec. 25 not listed), planning-day list now published, Sept. 28 planning day confirmed; printa",
+   "before": {
+    "clicks": 3,
+    "impressions": 1498,
+    "ctr": 0.2,
+    "position": 7.9
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "hawaii-public-schools-calendar-2026-27-breaks",
+   "changedAt": "2026-11-23",
+   "what": "title: \"Hawaii Public Schools Calendar 2026-27: Spring Break Mar. 15-19\" → \"Hawaii DOE Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Ends May 27\"; first sentence names the Hawaii Department of Education (DOE) calendar; stale \"Veterans' Day is next\" lede and caption now Thanksgiving Nov. 26-27 then winter break",
+   "before": {
+    "clicks": 1,
+    "impressions": 994,
+    "ctr": 0.1,
+    "position": 6.7
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "miami-dade-school-calendar-2026-27-breaks",
+   "changedAt": "2026-11-24",
+   "what": "title: \"Miami-Dade School Calendar 2026-27: Last Day Is June 3\" → \"Miami-Dade School Calendar 2026-27: Winter Recess Dec. 21-Jan. 1\"; H2 \"Miami-Dade spring break 2027: March 22-26\" added; description leads with winter recess",
+   "before": {
+    "clicks": 0,
+    "impressions": 792,
+    "ctr": 0,
+    "position": 5.9
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "lsat-test-dates-2026-27-registration-deadlines",
+   "changedAt": "2026-11-24",
+   "what": "title: \"LSAT Test Dates 2027: Jan. 13-16, Feb. 12-13, April 8-10, June 9-12\" → unchanged; new first H2 \"January 2027 LSAT dates and registration deadline\" with Dec. 1 11:59 p.m. ET deadline, scheduling Dec. 22, writing Jan. 5, scores Feb. 3, accommodations note; November in past tense",
+   "before": {
+    "clicks": 0,
+    "impressions": 334,
+    "ctr": 0,
+    "position": 19
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "week-numbers-2027-calendar-printable",
+   "changedAt": "2026-11-24",
+   "what": "title unchanged (\"Week Numbers 2027: Week 1 Starts Jan. 4, Printable Calendars\"); H2 \"How many weeks are in 2027?\" added as second section (52 ISO weeks, Jan. 4, 2027 to Jan. 2, 2028; U.S. count to week 53); FAQ already asked it; \"What week is it today?\" table, summary and FAQ moved to ISO weeks 48-51",
+   "before": {
+    "clicks": 3,
+    "impressions": 1187,
+    "ctr": 0.25,
+    "position": 5.6
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "nocturne-apple-tv-release-date-episode-schedule-october-30",
+   "changedAt": "2026-11-24",
+   "what": "title: \"Nocturne Release Date: New Episodes Every Friday to Dec. 25\" → \"Nocturne Episode Release Dates: New Episodes Fridays to Dec. 25\"; table H2 now \"Nocturne episode release dates\"; episode 5 marked released, episode 6 (Nov. 27) next in description, lede, summary, FAQ, hero overlay and printable (episodes 6-10); Apple TV Press releases unchanged, tv.apple.com returned 400 so released status is ",
+   "before": {
+    "clicks": 0,
+    "impressions": 21,
+    "ctr": 0,
+    "position": 9.5
    },
    "after": null,
    "daysAfter": 0

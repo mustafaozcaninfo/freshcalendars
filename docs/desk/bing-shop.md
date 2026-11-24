@@ -1,6 +1,6 @@
 # Bing Webmaster Tools, shop (generated, do not edit)
 
-Read 2026-11-24 09:14 UTC for https://shop.freshcalendars.com/. "In index" is the number of the shop's pages Bing holds; ChatGPT search takes its sources from Bing. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
+Read 2026-11-24 20:10 UTC for https://shop.freshcalendars.com/. "In index" is the number of the shop's pages Bing holds; ChatGPT search takes its sources from Bing. Bing's data lags a few days. Source: `scripts/news-bing.mjs`, daily.
 
 ## Pages in Bing's index and crawl, last 14 days
 

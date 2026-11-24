@@ -1,6 +1,6 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-24T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-24T20:09 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
@@ -290,7 +290,7 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 Sample of 90 stories published 2 to 21 days ago (the gate counts the 73 that are 7 to 21 days old): 89 Submitted and indexed, 1 Excluded by ‘noindex’ tag.
 
-- not indexed: /news/waffle-answer-hints-today-november-3-2026-1747/ (Excluded by ‘noindex’ tag), 21 days old
+- not indexed: /news/quordle-hints-answers-november-4-2026-1745/ (Excluded by ‘noindex’ tag), 20 days old
 
 ## Sitemaps
 
@@ -301,10 +301,6 @@ Sample of 90 stories published 2 to 21 days ago (the gate counts the 73 that are
 
 ## Experiments (title and snippet changes of the search desk, 14 days before against 14 days after)
 
-- baltimore-county-public-schools-calendar-2026-27-breaks (changed 2026-11-07): before 2 clicks, 1,831 impressions, CTR 0.11%, position 5.7; after 3 clicks, 1,384 impressions, CTR 0.22%, position 6.9
-- thanksgiving-football-schedule-2026-nfl-college-games (changed 2026-11-07): before 47 clicks, 3,588 impressions, CTR 1.31%, position 6.8; after 54 clicks, 5,314 impressions, CTR 1.02%, position 6.7
-- king-tides-2026-dates-this-week-high-tide-times (changed 2026-11-07): before 16 clicks, 1,154 impressions, CTR 1.39%, position 7.3; after 5 clicks, 256 impressions, CTR 1.95%, position 8.2
-- november-2026-calendar-printable (changed 2026-11-07): before 17 clicks, 703 impressions, CTR 2.42%, position 5.2; after 1 clicks, 11 impressions, CTR 9.09%, position 4.3
 - orange-county-public-schools-calendar-2026-27-breaks-holidays (changed 2026-11-08): before 7 clicks, 3,178 impressions, CTR 0.22%, position 5.5; after: not yet (13 of 15 days)
 - november-2026-important-dates-days-until (changed 2026-11-08): before 6 clicks, 1,661 impressions, CTR 0.36%, position 5.5; after: not yet (13 of 15 days)
 - hanukkah-2026-dates-calendar (changed 2026-11-22): before 2 clicks, 5,854 impressions, CTR 0.03%, position 8.1; after: not yet (0 of 15 days)
@@ -312,3 +308,17 @@ Sample of 90 stories published 2 to 21 days ago (the gate counts the 73 that are
 - boston-public-schools-calendar-2026-27-breaks (changed 2026-11-22): before 10 clicks, 2,466 impressions, CTR 0.41%, position 6.6; after: not yet (0 of 15 days)
 - julian-date-calendar-2027-2026-printable (changed 2026-11-22): before 6 clicks, 1,798 impressions, CTR 0.33%, position 2.6; after: not yet (0 of 15 days)
 - college-spring-break-2027-dates-universities (changed 2026-11-23): before 15 clicks, 2,746 impressions, CTR 0.55%, position 6.6; after: not yet (0 of 15 days)
+- christmas-2026-calendar-printable-countdown (changed 2026-11-23): before 4 clicks, 450 impressions, CTR 0.89%, position 9.2; after: not yet (0 of 15 days)
+- uk-bank-holidays-2027-dates-england-scotland-northern-ireland (changed 2026-11-23): before 2 clicks, 8,444 impressions, CTR 0.02%, position 2; after: not yet (0 of 15 days)
+- federal-holidays-2027-observed-dates-list (changed 2026-11-23): before 0 clicks, 2,368 impressions, CTR 0%, position 4.4; after: not yet (0 of 15 days)
+- canada-statutory-holidays-2027-federal-general-holidays (changed 2026-11-23): before 1 clicks, 1,711 impressions, CTR 0.06%, position 8.4; after: not yet (0 of 15 days)
+- ramadan-2027-calendar-dates-timetable (changed 2026-11-23): before 4 clicks, 885 impressions, CTR 0.45%, position 9.9; after: not yet (0 of 15 days)
+- dcps-calendar-2026-27-dc-public-schools-breaks (changed 2026-11-23): before 1 clicks, 3,448 impressions, CTR 0.03%, position 5.2; after: not yet (0 of 15 days)
+- wake-county-public-schools-calendar-2026-27-traditional (changed 2026-11-23): before 0 clicks, 14 impressions, CTR 0%, position 7.6; after: not yet (0 of 15 days)
+- san-diego-unified-calendar-2026-27-breaks (changed 2026-11-23): before 2 clicks, 1,066 impressions, CTR 0.19%, position 7.4; after: not yet (0 of 15 days)
+- denver-public-schools-calendar-2026-27-breaks (changed 2026-11-23): before 3 clicks, 1,498 impressions, CTR 0.2%, position 7.9; after: not yet (0 of 15 days)
+- hawaii-public-schools-calendar-2026-27-breaks (changed 2026-11-23): before 1 clicks, 994 impressions, CTR 0.1%, position 6.7; after: not yet (0 of 15 days)
+- miami-dade-school-calendar-2026-27-breaks (changed 2026-11-24): before 0 clicks, 792 impressions, CTR 0%, position 5.9; after: not yet (0 of 15 days)
+- lsat-test-dates-2026-27-registration-deadlines (changed 2026-11-24): before 0 clicks, 334 impressions, CTR 0%, position 19; after: not yet (0 of 15 days)
+- week-numbers-2027-calendar-printable (changed 2026-11-24): before 3 clicks, 1,187 impressions, CTR 0.25%, position 5.6; after: not yet (0 of 15 days)
+- nocturne-apple-tv-release-date-episode-schedule-october-30 (changed 2026-11-24): before 0 clicks, 21 impressions, CTR 0%, position 9.5; after: not yet (0 of 15 days)
