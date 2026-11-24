@@ -113,7 +113,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, is-publix-open-thanksgiving-2026-christmas-eve-hours, aldi-advent-calendars-2026-in-stores-date]
+related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, is-publix-open-thanksgiving-2026-christmas-eve-hours, is-kroger-open-thanksgiving-2026-pharmacy-hours]
 downloads:
   - group: "Aldi Holiday Hours 2026 printables"
     title: "Aldi Holiday Hours 2026: Thanksgiving to New Year's Day"
