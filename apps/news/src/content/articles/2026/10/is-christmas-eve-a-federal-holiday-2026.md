@@ -59,7 +59,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/holidays/"
     label: "Holidays calendar"
-related: [christmas-eve-christmas-day-2026-store-hours, state-offices-closed-christmas-eve-2026-by-state, is-post-office-open-christmas-eve-2026-december-26-banks]
+related: [christmas-eve-christmas-day-2026-store-hours, state-offices-closed-christmas-eve-2026-by-state, is-new-years-eve-a-state-holiday-2026-states-closed-december-31]
 draft: false
 ---
 
