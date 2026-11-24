@@ -79,7 +79,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [manchester-birmingham-christmas-markets-2026-dates-opening-times, uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast, christmas-light-trails-2026-blenheim-chatsworth-chester-zoo-dates-prices]
+related: [stonehaven-fireballs-2026-hogmanay-midnight-no-tickets, manchester-birmingham-christmas-markets-2026-dates-opening-times, uk-christmas-markets-2026-york-bath-cardiff-lincoln-belfast]
 downloads:
   - group: "Edinburgh's Christmas and Hogmanay 2026 Dates printables"
     title: "Edinburgh's Christmas and Hogmanay 2026 Dates"
