@@ -1,8 +1,9 @@
 ---
-title: "Miami-Dade School Calendar 2026-27: Last Day Is June 3"
-description: "Miami-Dade school calendar 2026-27: Thanksgiving week off Nov. 23-27, winter recess Dec. 21-Jan. 1, spring recess March 22-26. Last day is June 3, 2027."
+title: "Miami-Dade School Calendar 2026-27: Winter Recess Dec. 21-Jan. 1"
+description: "Miami-Dade school calendar 2026-27: winter recess Dec. 21-Jan. 1, spring recess March 22-26, Thanksgiving week off Nov. 23-27. Last day is June 3, 2027."
 type: news
 publishedAt: "2026-10-19T11:16:00-04:00"
+updatedAt: "2026-11-24T03:25:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["Miami-Dade school calendar 2026-27", "M-DCPS calendar 2026-2027", "Miami-Dade winter break 2026", "Miami-Dade spring break 2027", "dade county school calendar"]
@@ -25,7 +26,7 @@ faq:
   - q: "Do Miami-Dade students have school the week of Thanksgiving 2026?"
     a: "No. The district lists Nov. 23-25 as a fall recess and Nov. 26-27 as the Thanksgiving holiday and recess, so students are off the whole week."
   - q: "Is there school on Election Day, Nov. 3, 2026 in Miami-Dade?"
-    a: "No. Nov. 3 is a districtwide professional development day with no students."
+    a: "No. Nov. 3 is a district-wide professional learning day with no students."
   - q: "When is the last day of school in Miami-Dade in 2027?"
     a: "Thursday, June 3, 2027. Friday, June 4 is a teacher planning day."
   - q: "Does Miami-Dade have early release on Wednesdays?"
@@ -69,13 +70,17 @@ draft: false
 
 Teacher planning days stretch two of these. Friday, Dec. 18 has no students, so winter recess starts a day early for children, and Monday, March 29 adds a day to spring recess.
 
+## Miami-Dade spring break 2027: March 22-26
+
+Spring recess runs Monday, March 22 to Friday, March 26, 2027, for students and employees, according to the district calendar. Monday, March 29 is a teacher planning day with no students in school, so classes resume Tuesday, March 30, the first day of the fourth grading period. The third grading period ends Friday, March 19, the last school day before the break.
+
 ## Every day students are off
 
 | Date | Day | Reason |
 |---|---|---|
 | Sept. 7 | Monday | Labor Day |
 | Sept. 21 | Monday | Teacher planning day |
-| Nov. 3 | Tuesday | Districtwide professional development day |
+| Nov. 3 | Tuesday | District-wide professional learning day |
 | Nov. 11 | Wednesday | Veterans Day |
 | Nov. 23-25 | Mon.-Wed. | Fall recess |
 | Nov. 26-27 | Thu.-Fri. | Thanksgiving and recess |

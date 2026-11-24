@@ -3,7 +3,7 @@ title: "Week Numbers 2027: Week 1 Starts Jan. 4, Printable Calendars"
 description: "Week numbers 2027: week 1 starts Monday, Jan. 4, and the year has 52 weeks. Every week's dates, the U.S. count and four free printable calendars."
 type: explainer
 publishedAt: "2026-10-18T11:40:00-04:00"
-updatedAt: "2026-11-14T15:41:00-05:00"
+updatedAt: "2026-11-24T03:25:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["week numbers 2027", "2027 calendar with week numbers", "what week is it", "ISO week number 2027", "how many weeks in 2027"]
@@ -17,10 +17,10 @@ summary:
   - "Under the international ISO 8601 standard, week 1 of 2027 runs from Monday, Jan. 4 to Sunday, Jan. 10, and 2027 has 52 weeks."
   - "Jan. 1 to 3, 2027 still belong to week 53 of 2026, because 2026 is a 53-week year."
   - "The U.S. system used by Excel's default WEEKNUM starts weeks on Sunday and counts the week of Jan. 1 as week 1, so it numbers 2027 up to week 53."
-  - "The rest of November 2026 is ISO weeks 46 to 49: week 46 runs Monday, Nov. 9 to Sunday, Nov. 15, and week 49 starts Monday, Nov. 30."
+  - "Thanksgiving week 2026 is ISO week 48, Monday, Nov. 23 to Sunday, Nov. 29; week 49 starts Monday, Nov. 30, and week 53 closes the year on Dec. 28."
 faq:
   - q: "What week number is it today?"
-    a: "Mid-November 2026 is ISO week 46, which runs Monday, Nov. 9 to Sunday, Nov. 15. Week 47 starts Monday, Nov. 16, week 48 on Nov. 23 and week 49 on Nov. 30. The U.S. Sunday-start system gives the same numbers for these weeks, with each week starting a day earlier."
+    a: "Thanksgiving week 2026 is ISO week 48, which runs Monday, Nov. 23 to Sunday, Nov. 29. Week 49 starts Monday, Nov. 30, week 50 on Dec. 7 and week 51 on Dec. 14. The U.S. Sunday-start system gives the same numbers for these weeks, with each week starting a day earlier."
   - q: "When does week 1 of 2027 start?"
     a: "Monday, Jan. 4, 2027, under ISO 8601. Week 1 is the week that contains the year's first Thursday, and in 2027 that Thursday is Jan. 7."
   - q: "How many weeks are in 2027?"
@@ -94,16 +94,22 @@ draft: false
 
 ## What week is it today?
 
-The week of Monday, Nov. 9 to Sunday, Nov. 15, 2026, is **ISO week 46**. The weeks after it:
+The week of Monday, Nov. 23 to Sunday, Nov. 29, 2026, is **ISO week 48**. The weeks after it:
 
 | ISO week | Monday to Sunday | U.S. week (Sunday start) |
 |---|---|---|
-| 46 | Nov. 9 to Nov. 15 | 46, from Sunday, Nov. 8 |
-| 47 | Nov. 16 to Nov. 22 | 47, from Sunday, Nov. 15 |
 | 48 | Nov. 23 to Nov. 29 | 48, from Sunday, Nov. 22 (Thanksgiving, Thursday, Nov. 26) |
 | 49 | Nov. 30 to Dec. 6 | 49, from Sunday, Nov. 29 |
+| 50 | Dec. 7 to Dec. 13 | 50, from Sunday, Dec. 6 |
+| 51 | Dec. 14 to Dec. 20 | 51, from Sunday, Dec. 13 |
 
 In the U.S. count, week 1 of 2026 ran from Dec. 28, 2025, to Jan. 3, 2026, so both systems give the same number for these weeks.
+
+## How many weeks are in 2027?
+
+2027 has **52 ISO weeks**. Week 1 starts on Monday, Jan. 4, 2027, and week 52, the last one, runs from Monday, Dec. 27, 2027 to Sunday, Jan. 2, 2028. Friday, Jan. 1 to Sunday, Jan. 3 belong to week 53 of 2026.
+
+Counted the U.S. way, with Sunday-start weeks and week 1 as the week of Jan. 1, the same year runs to **week 53**: a two-day week 1 (Jan. 1 and 2) and a six-day week 53 from Sunday, Dec. 26 to Friday, Dec. 31. Both counts cover the same 365 days; only the edges differ.
 
 ## How ISO week numbers work
 
