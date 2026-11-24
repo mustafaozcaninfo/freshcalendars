@@ -86,7 +86,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, black-friday-2026-store-hours-walmart-target-best-buy, christmas-eve-christmas-day-2026-store-hours]
+related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, black-friday-2026-store-hours-walmart-target-best-buy, dollar-general-black-friday-2026-3-day-sale-november-26-28]
 downloads:
   - group: "Ollie's Holiday Hours 2026 printables"
     title: "Ollie's Holiday Hours 2026: Nov. 26 to Dec. 31"
