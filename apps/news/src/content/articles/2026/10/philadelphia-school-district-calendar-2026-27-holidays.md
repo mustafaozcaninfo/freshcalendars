@@ -3,7 +3,7 @@ title: "Philadelphia School District Calendar 2026-27: Recess Dec. 23-31"
 description: "Philadelphia School District calendar 2026-27: classes start Aug. 24, winter recess Dec. 23-31, last day June 9. Lists both Eid closures and Good Friday."
 type: news
 publishedAt: "2026-10-26T18:37:00-04:00"
-updatedAt: "2026-11-10T07:30:00-05:00"
+updatedAt: "2026-11-24T09:22:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["philadelphia school district calendar 2026-27", "sdp calendar 2026-2027", "philadelphia schools winter break 2026", "philadelphia schools spring break 2027", "philly schools closed eid"]
@@ -100,9 +100,9 @@ downloads:
 draft: false
 ---
 
-**The School District of Philadelphia (SDP) is closed for students and staff from Wednesday, Dec. 23 to Thursday, Dec. 31, 2026**, for Winter Recess, according to its "Academic Calendar" for 2026-27, which the board approved on Feb. 26, 2026 (page last modified Nov. 5, 2026). New Year's Day, Friday, Jan. 1, 2027, is a separate closure. **Spring Recess is Monday to Thursday, March 22-25, 2027**, and Good Friday, March 26, is also a closure. The next closure is Wednesday, Nov. 11, Veterans Day; students are also off Monday, Nov. 16 (report card conferences) and Wednesday, Nov. 25 (staff professional development), before Thanksgiving Recess on Nov. 26-27.
+**The School District of Philadelphia (SDP) is closed for students and staff from Wednesday, Dec. 23 to Thursday, Dec. 31, 2026**, for Winter Recess, according to its "Academic Calendar" for 2026-27, which the board approved on Feb. 26, 2026 (page last modified Nov. 5, 2026). New Year's Day, Friday, Jan. 1, 2027, is a separate closure. **Spring Recess is Monday to Thursday, March 22-25, 2027**, and Good Friday, March 26, is also a closure. The next day off for students is Wednesday, Nov. 25 (staff professional development), followed by Thanksgiving Recess on Thursday and Friday, Nov. 26-27.
 
-## When are Philadelphia schools closed in 2026-27?
+## SDP academic calendar 2026-27: every day off
 
 | Date | Day | Reason |
 |---|---|---|

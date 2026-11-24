@@ -3,6 +3,7 @@ title: "LAUSD Calendar 2026-27: Winter Break Dec. 21-Jan. 8, Last Day June 4"
 description: "Los Angeles Unified School District (LAUSD) 2026-27: winter recess Dec. 21-Jan. 8, spring recess March 22-26, last day June 4. Every no-school day listed."
 type: news
 publishedAt: "2026-11-02T09:00:00-05:00"
+updatedAt: "2026-11-24T09:22:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["LAUSD calendar 2026-27", "LAUSD winter break 2026", "LAUSD spring break 2027", "LAUSD last day of school 2027", "LAUSD holidays 2026-27"]
@@ -123,7 +124,7 @@ draft: false
 
 The weekday counts are our arithmetic from the printed dates; the winter count includes Jan. 1. The calendar is the district's single-track (traditional) calendar. It was marked "Board Approved 3/11/2025," and LAUSD's payroll "Tentative Basis Dates" page says the Board of Education approved the 2026-2027 Single-Track Instructional Calendar that day. LAist reported the same day that the board had approved calendars with mid-August starts.
 
-## What to know about the three-week winter recess
+## LAUSD winter (Christmas) break 2026
 
 The recess covers three school weeks: Dec. 21-25, Dec. 28-31 plus Jan. 1, and Jan. 4-8. The second semester begins Monday, Jan. 11, 2027. Compare that with Clark County School District in Nevada, whose winter break runs Dec. 21 to Jan. 1 and whose classes resume Tuesday, Jan. 5 (see our [Clark County calendar story](/news/clark-county-school-district-calendar-2026-27-breaks/)). LAUSD students stay home four more weekdays, Jan. 5-8. For the other large districts, see our [winter break 2026 roundup](/news/winter-break-2026-school-districts-dates/), and plan the dates on the [December 2026 calendar](/december-calendars.html).
 
@@ -159,7 +160,7 @@ Tuesday, Aug. 11, 2026 is a Pupil Free Day, and Wednesday, Aug. 12 is the First 
 
 Yes, on this calendar. Monday through Wednesday, Nov. 23-25, 2026 are marked "Unassigned Day (No School)," and Thursday and Friday, Nov. 26-27 are the Thanksgiving Holiday. That is five weekdays, the same count as the spring recess. The Harvard Elementary page for the district's calendar at a glance lists the same week. Our [Thanksgiving break roundup](/news/thanksgiving-break-2026-school-districts-dates/) compares other districts.
 
-## When is LAUSD spring break 2027?
+## LAUSD spring break 2027
 
 Spring Recess is Monday, March 22 through Friday, March 26, 2027. Farm Workers Day on Wednesday, March 31 is a separate day with no school. See the [March 2027 calendar](/march-calendars.html) and our [spring break 2027 roundup](/news/spring-break-2027-dates-school-districts/) for other districts.
 
