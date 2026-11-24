@@ -480,3 +480,26 @@ body.cr-prism--dark .fc-promo__note{color:#9fb0c0}
 /* Phones: two rows and tighter spacing, so the card stays under a third of the screen */
 @media (max-width:640px){.fc-promo{right:12px;left:12px;width:auto;bottom:calc(12px + env(safe-area-inset-bottom));padding:12px 12px 10px}.fc-promo__title{font-size:15px;margin-bottom:8px}.fc-promo__item a{grid-template-columns:44px 1fr;min-height:48px;padding:4px 6px}.fc-promo__item img{width:44px;height:44px}.fc-promo__note{margin-top:8px;font-size:11px}}
 @media (prefers-reduced-motion:reduce){.fc-promo{transition:none}}
+
+/* 21. Product page, from the Clarity read of Nov. 24, 2026 -------------------
+   Phones: 42% of visits end in the first tenth of the page, and the one-line description sat under the picture.
+   It now follows the title, so the days, pieces and maker are read before the price and the retailer button.
+   The main picture was the most tapped element and did nothing; the footer script makes it open the retailer
+   (class fc-plate-go) and this labels it, so the tap is never a surprise. */
+@media (max-width:1023px){.fs-pp-stack .fs-pp-inset>h1+h2{order:-45;margin-top:.5rem!important;font-size:1rem!important;line-height:1.45!important;font-weight:500!important}}
+.fs-pp-plate.fc-plate-go{cursor:pointer}
+.fs-pp-plate.fc-plate-go:focus-visible{outline:2px solid #007b48;outline-offset:2px}
+.fs-pp-plate>.fc-plate-go__tag{position:absolute!important;top:auto!important;left:auto!important;right:10px!important;bottom:10px!important;width:auto!important;height:auto!important;padding:6px 10px;border-radius:999px;background:#007b48;color:#fff;font-size:13px;font-weight:600;line-height:1.2;box-shadow:0 1px 4px rgba(0,0,0,.18);pointer-events:none}
+/* Out-of-stock box (footer script "fc-instock"): when the retailer shows no price, three priced items from the
+   page's own "You might also like" row sit right under the retailer button. */
+.fc-instock{margin-top:1rem;padding:14px;border:1px solid #cfe3d8;border-radius:12px;background:#f3faf6;color:#1f2a25}
+.fc-instock__note{margin:0 0 10px;font-size:14px;line-height:1.45}
+.fc-instock ul{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.fc-instock a{display:grid;grid-template-columns:48px 1fr auto;gap:10px;align-items:center;min-height:56px;padding:4px 8px;border-radius:8px;background:#fff;border:1px solid #dfe9e3;color:#1f2a25;text-decoration:none;font-size:14px;line-height:1.3;font-weight:600}
+.fc-instock a:hover,.fc-instock a:focus-visible{border-color:#007b48}
+.fc-instock img{width:48px;height:48px;object-fit:contain;background:#fff;border-radius:6px}
+.fc-instock__price{font-weight:700;color:#007b48;white-space:nowrap}
+@media (max-width:1023px){.fs-pp-stack .fs-pp-inset>.fc-instock{order:-25}}
+body.cr-prism--dark .fc-instock{background:#12261d;border-color:#24483a;color:#eef5f1}
+body.cr-prism--dark .fc-instock a{background:#0d1a14;border-color:#24483a;color:#eef5f1}
+body.cr-prism--dark .fc-instock__price{color:#8be0b6}

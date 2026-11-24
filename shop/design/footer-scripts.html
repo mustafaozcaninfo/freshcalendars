@@ -111,3 +111,62 @@
   document.addEventListener('mouseout',function(e){ if(!shown && !e.relatedTarget && e.clientY<=0 && Date.now()-t0>=8000) fire(); });
 })();
 </script>
+<script>
+/* Product page: the main picture opens the retailer, the same way the "Where to buy" button does (Clarity,
+   Nov. 24, 2026: the picture was the most tapped element on phones and did nothing). It presses the page's own
+   retailer link, so the click is counted and tagged like any other. No retailer link (out of stock): no change. */
+(function(){
+  var plate=document.querySelector('.fs-pp-plate'); if(!plate) return;
+  function link(){ return document.querySelector('.fs-pp-offers a.fs-al[data-url]'); }
+  function go(){ var l=link(); if(l) l.click(); }
+  function arm(){
+    var a=link(); if(!a || plate.classList.contains('fc-plate-go')) return !!a;
+    var img=a.querySelector('img[alt]'), name=(img && img.alt.trim()) || 'the retailer';
+    plate.classList.add('fc-plate-go'); plate.setAttribute('role','link'); plate.tabIndex=0;
+    plate.setAttribute('aria-label','See it at '+name+' (opens the retailer in a new tab)');
+    var t=document.createElement('span'); t.className='fc-plate-go__tag'; t.setAttribute('aria-hidden','true'); t.textContent='See it at '+name+' \u203a';
+    plate.appendChild(t);
+    plate.addEventListener('click',go);
+    plate.addEventListener('keydown',function(e){ if(e.key==='Enter'){ e.preventDefault(); go(); } });
+    return true;
+  }
+  var n=0; (function wait(){ if(arm() || ++n>20) return; setTimeout(wait,500); })();
+})();
+</script>
+<script>
+/* fc-instock: a product whose retailer shows no price (usually out of stock) still gets visits. Under its
+   retailer button this lists up to three items from the page's own "You might also like" row that do show a
+   price, so the visit is not a dead end. Nothing is added when the product has a price. */
+(function(){
+  var offers=document.querySelector('.fs-pp-offers'); if(!offers) return;
+  function build(){
+    /* The retailer row first renders as a placeholder with no price and fills in later, so the page's own
+       price line decides: it is in the first HTML and reads "Click for Price" when there is none. */
+    var line=document.querySelector('.fs-pp-price'), a=offers.querySelector('a.fs-al[data-url]');
+    if(!line || /\$\s?\d/.test(line.textContent)) return true;
+    if(!a) return false;
+    if(a.getAttribute('data-price') || document.querySelector('.fc-instock')) return true;
+    var img=a.querySelector('img[alt]'), name=(img && img.alt.trim()) || 'the retailer', items=[];
+    document.querySelectorAll('.cr-card').forEach(function(c){
+      if(items.length>=3 || c.closest('.fs-pp-inset')) return;
+      var l=c.querySelector('h3 a[href*="/products/"]'), p=c.querySelector('[data-fs-price-type="actual"]'), i=c.querySelector('img');
+      var price=p && (p.textContent.match(/\$[\d,]+(\.\d\d)?/)||[])[0];
+      if(l && price && i) items.push({href:l.getAttribute('href'), title:l.textContent.replace(/\s+/g,' ').trim(), price:price, src:i.currentSrc||i.src});
+    });
+    if(!items.length) return false;
+    var box=document.createElement('aside'); box.className='fc-instock'; box.setAttribute('aria-label','Similar items with a price today');
+    var n=document.createElement('p'); n.className='fc-instock__note';
+    n.textContent=name+' showed no price for this item when we last checked, which usually means it is out of stock. Similar items with a price today:';
+    var ul=document.createElement('ul');
+    items.forEach(function(it){
+      var li=document.createElement('li'), l=document.createElement('a'), im=document.createElement('img'), t=document.createElement('span'), pr=document.createElement('span');
+      l.href=it.href; im.src=it.src; im.alt=''; im.loading='lazy'; im.width=48; im.height=48; t.textContent=it.title; pr.className='fc-instock__price'; pr.textContent=it.price;
+      l.appendChild(im); l.appendChild(t); l.appendChild(pr); li.appendChild(l); ul.appendChild(li);
+    });
+    box.appendChild(n); box.appendChild(ul); offers.parentNode.insertBefore(box, offers.nextSibling);
+    return true;
+  }
+  var k=0; function wait(){ if(build() || ++k>20) return; setTimeout(wait,500); }
+  if(document.readyState==='complete') setTimeout(wait,1200); else addEventListener('load',function(){ setTimeout(wait,1200); });
+})();
+</script>
