@@ -92,7 +92,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [toby-carvery-christmas-menu-2026, uk-christmas-menus-2026-greggs-costa-starbucks-kfc, tgi-fridays-uk-christmas-menu-2026]
+related: [toby-carvery-christmas-menu-2026, sizzling-pubs-christmas-menu-2026, tgi-fridays-uk-christmas-menu-2026]
 downloads:
   - group: "Harvester Christmas 2026 printables"
     title: "Harvester Christmas 2026: Prices and Deposits"
