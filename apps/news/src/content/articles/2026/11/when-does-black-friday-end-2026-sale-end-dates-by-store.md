@@ -161,7 +161,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
-related: [cyber-monday-2026-date-sale-start-times-by-store, black-friday-2026-store-hours-walmart-target-best-buy, topgolf-black-friday-2026-20-percent-off-gift-cards-open-9-am]
+related: [cyber-monday-2026-date-sale-start-times-by-store, black-friday-2026-store-hours-walmart-target-best-buy, barnes-noble-black-friday-2026-50-percent-off-biggest-books]
 downloads:
   - group: "Black Friday 2026 Sale End Dates printables"
     title: "Black Friday 2026 Sale End Dates, Nov. 25 to Dec. 2"

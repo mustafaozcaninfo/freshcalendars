@@ -114,7 +114,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [home-depot-black-friday-2026-sale-dates-november-5-25-store-hours, lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16, tractor-supply-black-friday-2026-hours-thanksgiving-closed]
+related: [home-depot-black-friday-2026-sale-dates-november-5-25-store-hours, tractor-supply-black-friday-2026-hours-thanksgiving-closed, harbor-freight-black-friday-2026-member-early-access-november-23]
 downloads:
   - group: "Ace Hardware Black Friday 2026 Offers and Prices printables"
     title: "Ace Hardware Black Friday 2026 Offers and Prices"
