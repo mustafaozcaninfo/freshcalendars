@@ -44,7 +44,7 @@ internalLinks:
     label: "January printable calendars"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [up-helly-aa-2027-january-26-shetland-fire-festival-dates, edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight, uk-bank-holidays-2027-dates-england-scotland-northern-ireland]
+related: [up-helly-aa-2027-january-26-shetland-fire-festival-dates, edinburghs-christmas-2026-dates-big-wheel-hogmanay-torchlight, stonehaven-fireballs-2026-hogmanay-midnight-no-tickets]
 assets:
   overlay: true
   kicker: "Burns Night 2027"

@@ -116,7 +116,7 @@ internalLinks:
     label: "When is Christmas Day 2026?"
   - href: "/when-is/new-years-eve/"
     label: "When is New Year's Eve?"
-related: [macys-santaland-2026-reservations-november-20-herald-square, macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons, radio-city-christmas-spectacular-2026-dates-show-times-rockettes]
+related: [messiah-2026-sing-alongs-performances, macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons, radio-city-christmas-spectacular-2026-dates-show-times-rockettes]
 downloads:
   - group: "NYC Holiday Calendar 2026 printables"
     title: "NYC Holiday Calendar 2026"
