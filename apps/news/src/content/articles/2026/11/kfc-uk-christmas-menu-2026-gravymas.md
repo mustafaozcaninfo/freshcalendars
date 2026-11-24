@@ -1,9 +1,9 @@
 ---
 title: "KFC Christmas Menu 2026: Gravymas Burger £7.99, to 3 January"
-description: "Kentucky Fried Chicken (KFC) Christmas menu 2026 runs 9 November to 3 January, per Britbrief, Foodbible and Verge Magazine. Gravymas Burger £7.99; prices."
+description: "Kentucky Fried Chicken (KFC) Christmas menu 2026: Gravymas Burger £7.99 and five more festive items, on sale 9 November to 3 January, with every UK price."
 type: news
 publishedAt: "2026-11-04T14:55:00-05:00"
-updatedAt: "2026-11-14T15:43:00-05:00"
+updatedAt: "2026-11-24T07:20:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["kfc christmas menu 2026", "kfc gravy burger 2026", "kfc gravymas burger", "kfc festive bucket 2026"]
@@ -29,24 +29,24 @@ assets:
         - { key: price, label: "Price" }
         - { key: contents, label: "What is in it" }
       rows:
-        - cells: { item: "Gravymas Burger", price: "£7.99", contents: "Original Recipe Fillet, hash brown, melted cheese" }
+        - cells: { item: "Gravymas Burger", price: "£7.99", contents: "Original Recipe Fillet, hash brown" }
           src: 1
-          quote: "The Gravymas Burger (£7.99) features a crispy Original Recipe Fillet stacked with a hash brown, melted cheese"
-        - cells: { item: "Gravymas Meal", price: "£11.99", contents: "Burger, regular gravy, regular fries" }
-          src: 2
-          quote: "as part of the £11.99 Gravymas Meal"
-        - cells: { item: "Festive Loaded Fries", price: "£3.99", contents: "Fries with Popcorn Chicken" }
-          src: 2
-          quote: "There's also the new KFC Festive Loaded Fries (£3.99) box"
+          quote: "The Gravymas Burger (£7.99) features a crispy Original Recipe Fillet stacked with a hash brown"
+        - cells: { item: "Gravymas Box Meal", price: "from £11.99", contents: "Burger, regular gravy, regular fries" }
+          src: 1
+          quote: "the Gravymas Box Meal (from £11.99) includes the burger, regular gravy, regular fries"
+        - cells: { item: "Festive Loaded Fries", price: "£3.99", contents: "Fries with Popcorn Chicken and gravy mayo" }
+          src: 1
+          quote: "New Festive Loaded Fries (£3.99) combine the chain's signature fries with Popcorn Chicken, gravy mayo"
         - cells: { item: "Fully Festive Meal", price: "£13.49", contents: "Gravymas Burger and a Kwench shake" }
           src: 2
           quote: "as part of the Fully Festive Meal (£13.49) with a KFC Kwench shake."
-        - cells: { item: "Festive Double Bucket", price: "£20.99", contents: "Three combinations" }
-          src: 2
-          quote: "a Festive Double Bucket (£20.99) and a Festive Triple Bucket (£24.99)"
-        - cells: { item: "Festive Triple Bucket", price: "£24.99", contents: "All three options together" }
-          src: 2
-          quote: "a Festive Double Bucket (£20.99) and a Festive Triple Bucket (£24.99)"
+        - cells: { item: "Festive Double Bucket", price: "from £20.99", contents: "Three combinations" }
+          src: 1
+          quote: "the Festive Double Bucket (from £20.99) offers three combinations"
+        - cells: { item: "Festive Triple Bucket", price: "from £24.99", contents: "All three options together" }
+          src: 1
+          quote: "The Festive Triple Bucket (from £24.99) stacks all three options together."
         - cells: { item: "On sale from", price: "-", contents: "Monday 9 November 2026" }
           src: 2
           quote: "On Monday 9 November, the indulgent Gravymas range will launch in-store for a limited time."
@@ -66,7 +66,7 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:BrokenSphere"
 summary:
   - "KFC's Gravymas range went on sale Monday 9 November 2026 and runs to Sunday 3 January 2027, according to Britbrief (28 October), Foodbible (29 October) and Verge Magazine (27 October)."
-  - "The Gravymas Burger costs £7.99, Festive Loaded Fries £3.99, the Fully Festive Meal £13.49, the Festive Double Bucket £20.99 and the Festive Triple Bucket £24.99."
+  - "The Gravymas Burger costs £7.99, Festive Loaded Fries £3.99, the Fully Festive Meal £13.49, the Festive Double Bucket from £20.99 and the Festive Triple Bucket from £24.99."
   - "By those dates the run is 56 days, or eight weeks, and 46 of them fall before Christmas Day."
   - "KFC's own UK pages showed no menu text when we checked, so Christmas Day opening and app or delivery availability are not confirmed."
 faq:
@@ -127,16 +127,16 @@ draft: false
 
 ## What is on the KFC Christmas menu 2026?
 
-Britbrief describes the Gravymas Burger as a crispy Original Recipe Fillet stacked with a hash brown and melted cheese. Foodbible says the range can be bought alone or as part of a meal; its headline says the burger is back after five years, a claim we have not seen elsewhere.
+Britbrief describes the Gravymas Burger as a crispy Original Recipe Fillet stacked with a hash brown. Foodbible says the range can be bought alone or as part of a meal; its headline says the burger is back after five years, a claim we have not seen elsewhere.
 
 | Item | Price as reported | What is in it | Source note |
 |---|---|---|---|
-| Gravymas Burger | £7.99 | Original Recipe Fillet, hash brown, melted cheese | Price: both reports; contents: Britbrief |
-| Gravymas Meal | £11.99 (Britbrief says from £11.99) | Burger, regular gravy, regular fries | Foodbible calls it the Gravymas Meal; Britbrief the Gravymas Box Meal |
-| Festive Loaded Fries | £3.99 | Fries with Popcorn Chicken | Price: both reports; contents: Britbrief |
+| Gravymas Burger | £7.99 | Original Recipe Fillet, hash brown | Price: both reports; contents: Britbrief |
+| Gravymas Box Meal | from £11.99 | Burger, regular gravy, regular fries | Britbrief: Gravymas Box Meal (from £11.99); Foodbible calls it the Gravymas Meal at £11.99 |
+| Festive Loaded Fries | £3.99 | Fries with Popcorn Chicken and gravy mayo | Price: both reports; contents: Britbrief |
 | Fully Festive Meal | £13.49 | Gravymas Burger and a Kwench shake | Price and shake: both reports; burger pairing: Britbrief |
-| Festive Double Bucket | £20.99 | Three combinations | Price: both reports; combinations: Britbrief |
-| Festive Triple Bucket | £24.99 | All three options together | Price: both reports; contents: Britbrief |
+| Festive Double Bucket | from £20.99 | Three combinations | Price: both reports; combinations: Britbrief |
+| Festive Triple Bucket | from £24.99 | All three options together | Price: both reports; contents: Britbrief |
 
 Britbrief lists the Double Bucket combinations as six Original Recipe pieces with six Tenders, six Original Recipe with eight Hot Wings, or six Tenders with six more Tenders. It says the Triple Bucket stacks all three options. Britbrief and Verge Magazine both report that the buckets include four regular portions of fries, two large sides and a large drink; Foodbible does not mention this.
 
