@@ -1,8 +1,9 @@
 ---
-title: "Northside ISD Calendar 2026-27: Winter Break Dec. 21-Jan. 1"
-description: "Northside Independent School District (ISD) calendar 2026-27: Thanksgiving break Nov. 23-27, spring break March 8-12 plus March 15, last day May 26."
+title: "NISD Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Ends May 26"
+description: "Northside Independent School District (ISD) calendar 2026-27: winter break Dec. 21-Jan. 1, spring break March 8-12 plus March 15, last day May 26."
 type: explainer
 publishedAt: "2026-11-03T15:09:00-05:00"
+updatedAt: "2026-11-24T05:26:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["nisd calendar 2026-27", "northside isd calendar 2026-2027", "nisd spring break 2027", "northside isd thanksgiving break 2026", "northside isd winter break 2026"]
@@ -19,8 +20,8 @@ hero:
     author: "Ironmatic1"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Ironmatic1"
 summary:
-  - "Northside Independent School District (NISD) has no school Monday, Nov. 23 through Friday, Nov. 27, 2026 for Thanksgiving break, on the calendar its board approved Dec. 9, 2025."
-  - "Winter break runs Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027; Monday, Jan. 4 is a student holiday, so the first day after it is Tuesday, Jan. 5."
+  - "Northside Independent School District (NISD) winter break runs Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, on the calendar its board approved Dec. 9, 2025; Monday, Jan. 4 is a student holiday, so the first day after it is Tuesday, Jan. 5."
+  - "Thanksgiving break is Monday, Nov. 23 through Friday, Nov. 27, 2026."
   - "Spring break is Monday, March 8 through Friday, March 12, 2027, and Monday, March 15 is also a student holiday, so students are off for 10 days counting weekends."
   - "The first day of school is Monday, Aug. 10, 2026 and the last day is Wednesday, May 26, 2027."
 faq:
@@ -102,7 +103,7 @@ assets:
         - "Picture day"
 ---
 
-**Northside Independent School District (NISD) in San Antonio has no school from Monday, Nov. 23 through Friday, Nov. 27, 2026 for Thanksgiving break**, according to its 2026-2027 Academic Calendar, approved Dec. 9, 2025. Winter break runs **Monday, Dec. 21 through Friday, Jan. 1**, and spring break is **Monday, March 8 through Friday, March 12, 2027**. The last day of school is Wednesday, May 26, 2027.
+**Northside Independent School District (NISD) in San Antonio has winter break from Monday, Dec. 21, 2026 through Friday, Jan. 1, 2027**, according to its 2026-2027 Academic Calendar, approved Dec. 9, 2025. Spring break is **Monday, March 8 through Friday, March 12, 2027**, and the last day of school is Wednesday, May 26, 2027. Thanksgiving break is Nov. 23-27, 2026.
 
 ## Northside ISD 2026-27 breaks and long weekends
 
@@ -138,8 +139,10 @@ The table lists each date the calendar marks as a holiday or student holiday, wi
 | March 26 and 29, 2027 | Friday, Monday | Holiday (March 26 is Good Friday by date) | Tue., March 30 |
 | April 23, 2027 | Friday | Holiday | Mon., April 26 |
 | May 31, 2027 | Monday | Holiday (Memorial Day by date; after the last day) | Not applicable |
+| June 18, 2027 | Friday | Holiday (after the last day) | Not applicable |
+| July 5, 2027 | Monday | Holiday (after the last day) | Not applicable |
 
-Counting every weekday from Aug. 10, 2026 through May 26, 2027, and counting Feb. 16 as a day off, the calendar has 34 weekdays without classes: 1 in September, 3 in October, 6 in November, 9 in December, 3 in January, 3 in February, 8 in March and 1 in April. The calendar does not list early release days or graduation dates, so none are shown here.
+Counting every weekday from Aug. 10, 2026 through May 26, 2027 (the last day of school), and counting Feb. 16 as a day off, the calendar has 34 weekdays without classes: 1 in September, 3 in October, 6 in November, 9 in December, 3 in January, 3 in February, 8 in March and 1 in April. The three holidays at the end of the table (May 31, June 18 and July 5, 2027) fall after the last day of school and are not in that count. The calendar does not list early release days or graduation dates, so none are shown here.
 
 ## Northside ISD grading periods for 2026-27
 
