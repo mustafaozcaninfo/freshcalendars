@@ -66,7 +66,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [hanukkah-2026-dates-calendar, christmas-2026-calendar-printable-countdown, watch-night-2026-december-31-freedoms-eve]
+related: [kwanzaa-2026-events-by-city, christmas-2026-calendar-printable-countdown, watch-night-2026-december-31-freedoms-eve]
 downloads:
   - group: "Kwanzaa 2026 Seven-Day Calendar printables"
     title: "Kwanzaa 2026 Seven-Day Calendar"
@@ -161,4 +161,4 @@ The Official Kwanzaa Website lists the 2026 theme as "Embracing the Principles a
 
 The printable is a one-page, seven-day sheet with the date, weekday and principle for each day, plus the greeting "Habari gani?" Mark Dec. 26 on the [December 2026 printable calendar](/december-calendars.html) and Jan. 1 on the [January 2027 printable calendar](/january-calendars.html). For other December dates, see [December 2026 important dates and holidays](/news/december-2026-calendar-printable/), the [Hanukkah 2026 dates](/news/hanukkah-2026-dates-calendar/) and the [Christmas 2026 countdown](/news/christmas-2026-calendar-printable-countdown/).
 
-Not confirmed in this story: any local event schedules.
+Local celebrations are listed in [Kwanzaa events 2026 by city](/news/kwanzaa-2026-events-by-city/), with dates and times from each organizer.
