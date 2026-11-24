@@ -3,6 +3,7 @@ title: "2027 Quarter Dates: Q1 Is Jan. 1 to Mar. 31, 90 Days"
 description: "The first quarter of 2027 runs Fri., Jan. 1 to Wed., Mar. 31, 90 days. See Q2 to Q4 with weekday counts, plus tax and federal fiscal quarters."
 type: explainer
 publishedAt: "2026-11-04T16:38:00-05:00"
+updatedAt: "2026-11-24T09:22:00-05:00"
 authors: [jessica-hartwell]
 category: calendar-guides
 keywords: ["2027 quarter dates", "q1 2027 dates", "when does q2 2027 start", "q4 2027 end date", "2027 quarters calendar"]
@@ -46,6 +47,8 @@ summary:
   - "The federal fiscal year starts Oct. 1 under 31 U.S.C. 1102, so federal fiscal year (FY) 2027 began Oct. 1, 2026."
   - "The IRS estimated tax periods for tax year 2026 were 3, 2, 3 and 4 months long, and the IRS has not yet posted 2027 dates."
 faq:
+  - q: "When is Q1 2027?"
+    a: "Q1 2027 runs from Friday, Jan. 1 to Wednesday, March 31, 2027. That is 90 days and 64 weekdays by our count."
   - q: "When does Q2 2027 start?"
     a: "Thursday, April 1, 2027, and it ends Wednesday, June 30. That is 91 days by our count."
   - q: "When does Q4 2027 end?"
@@ -94,6 +97,10 @@ draft: false
 ---
 
 Calendar 2027 splits into four quarters of 90, 91, 92 and 92 days, by Fresh Calendars' count, and the Internal Revenue Service (IRS) and the federal government each use their own quarter dates. Quarter 1 (Q1) runs Friday, Jan. 1 to Wednesday, March 31. Below are the start and end of Q1 to Q4, the weekday counts, and where the tax and fiscal-year quarters differ.
+
+## When does the first quarter of 2027 end?
+
+The first quarter of 2027 ends on Wednesday, March 31, 2027. It starts Friday, Jan. 1 and lasts 90 days, the shortest of the four quarters, with 64 weekdays (Monday to Friday, holidays not removed). Q2 starts the next day, Thursday, April 1. Employers file the Q1 Form 941 by Friday, April 30, 2027, as the table further down shows.
 
 ## What are the start and end dates of each 2027 quarter?
 
