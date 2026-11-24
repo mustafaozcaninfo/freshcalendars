@@ -1,8 +1,9 @@
 ---
-title: "WCPSS Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Last Day June 8"
-description: "Wake County Public School System (WCPSS) traditional calendar 2026-27: winter break Dec. 21-Jan. 1, spring break Mar. 29-Apr. 2. We count 30 weekdays off."
+title: "WCPSS Traditional Calendar 2026-27: Winter Break Dec. 21-Jan. 1"
+description: "Wake County Public School System (WCPSS) traditional calendar 2026-27: winter break Dec. 21-Jan. 1, spring break Mar. 29-Apr. 2. We count 31 weekdays off."
 type: news
 publishedAt: "2026-10-26T22:39:00-04:00"
+updatedAt: "2026-11-23T21:27:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["wcpss calendar 2026-27", "wake county schools calendar 2026-2027", "wcpss traditional calendar 2026-27", "wake county spring break 2027", "wcpss winter break 2026"]
@@ -21,7 +22,7 @@ hero:
 summary:
   - "The Wake County Public School System (WCPSS) 2026-2027 Traditional Calendar sets the first day for students on Monday, Aug. 24, 2026 and the last day on Tuesday, June 8, 2027."
   - "Winter break is Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, which is 10 weekdays; spring break is Monday to Friday, Mar. 29 to Apr. 2, 2027."
-  - "By our count the calendar has 30 weekdays without students between the first and last day: 11 marked H (holiday), 9 marked W (teacher workday) and 10 marked V (vacation day)."
+  - "By our count the calendar has 31 weekdays without students between the first and last day: 11 marked H (holiday), 10 marked W (teacher workday) and 10 marked V (vacation day)."
   - "Oct. 12, Feb. 15 and Apr. 5 are teacher workdays that are also weather make-up days; the calendar lists 6 banked days and 5 remote instruction days for weather."
 faq:
   - q: "When does Wake County start school in 2026?"
@@ -65,6 +66,7 @@ assets:
     title: "WCPSS Traditional Calendar No-School Days 2026-27"
     subtitle: "From the Wake County Public School System 2026-2027 Traditional Calendar"
     layout: list
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
       - ["Mon., Aug. 24, 2026", "First day for students"]
       - ["Mon., Sept. 7, 2026", "H: Labor Day (holiday)"]
@@ -81,6 +83,7 @@ assets:
       - ["Mar. 26, 2027", "Friday. H: Good Friday (holiday)"]
       - ["Mar. 29 to Apr. 2, 2027", "V: spring break, Monday to Friday"]
       - ["Apr. 5, 2027", "Monday. W: teacher workday, also a weather make-up day"]
+      - ["May 17, 2027", "Monday. W: teacher workday, no students"]
       - ["May 31, 2027", "Monday. H: Memorial Day (holiday)"]
       - ["June 8, 2027", "Tuesday. Last day for students"]
     note: "Source: Wake County Public School System 2026-2027 Traditional Calendar."
@@ -107,7 +110,7 @@ downloads:
 draft: false
 ---
 
-**The Wake County Public School System (WCPSS) traditional calendar has winter break from Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, and spring break from Monday to Friday, Mar. 29 to Apr. 2, 2027**, according to its "2026-2027 Traditional Calendar" (PDF). Students start on Monday, Aug. 24, 2026 and finish on Tuesday, June 8, 2027. The next no-school day is Tuesday, Nov. 3, a teacher workday.
+**The Wake County Public School System (WCPSS) traditional calendar has winter break from Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, spring break from Mar. 29 to Apr. 2, 2027 and the last day for students on Tuesday, June 8, 2027**, according to its "2026-2027 Traditional Calendar" (PDF). Students started on Monday, Aug. 24, 2026. The next days off are Wednesday to Friday, Nov. 25-27, for Thanksgiving.
 
 ## When are WCPSS traditional schools closed in 2026-27?
 
@@ -135,21 +138,22 @@ The calendar codes each day off with a letter: H for holiday, W for teacher work
 | Mar. 26, 2027 | Friday | H, Good Friday |
 | Mar. 29 to Apr. 2, 2027 | Monday-Friday | V, spring break |
 | Apr. 5, 2027 | Monday | W, also a weather make-up day |
+| May 17, 2027 | Monday | W |
 | May 31, 2027 | Monday | H, Memorial Day |
 
-Teacher workdays on Aug. 17-21, 2026 come before the first day for students. Our free printable puts every one of these days on one page, and its source note is the same WCPSS calendar. For the whole year on paper, use the [printable school-year calendar](/printable-school-calendar.html).
+Teacher workdays on Aug. 17-21, 2026 come before the first day for students, and June 10-11, 2027 are teacher workdays after the last. Our free printable puts every one of these days on one page, and its source note is the same WCPSS calendar. For the whole year on paper, use the [printable school-year calendar](/printable-school-calendar.html).
 
 ## How many school days off does the calendar count?
 
-The weekday counts are ours, computed from the dates in the table, from the first day for students to the last. They add up to 30 weekdays without students.
+The weekday counts are ours, computed from the dates in the table, from the first day for students to the last. They add up to 31 weekdays without students.
 
 | Code | Meaning | Weekdays |
 |---|---|---|
 | H | Holiday | 11 |
-| W | Teacher workday | 9 |
+| W | Teacher workday | 10 |
 | V | Vacation day | 10 |
 
-The 11 H days are Sept. 7, Nov. 11, Nov. 26 and 27, Dec. 24, 25 and 28, Jan. 1, Jan. 18, Mar. 26 and May 31. The 10 V days are Nov. 25, Dec. 23, Dec. 29-31 and the five days of spring break. The 9 W days are Sept. 21, Oct. 12, Nov. 3, Dec. 21-22, Jan. 19, Feb. 15, Mar. 10 and Apr. 5.
+The 11 H days are Sept. 7, Nov. 11, Nov. 26 and 27, Dec. 24, 25 and 28, Jan. 1, Jan. 18, Mar. 26 and May 31. The 10 V days are Nov. 25, Dec. 23, Dec. 29-31 and the five days of spring break. The 10 W days are Sept. 21, Oct. 12, Nov. 3, Dec. 21-22, Jan. 19, Feb. 15, Mar. 10, Apr. 5 and May 17.
 
 ## When is WCPSS winter break 2026?
 
@@ -177,4 +181,4 @@ The district's board post says the Board of Education approved the 2026-27 instr
 
 ## When does the school year start and end?
 
-Monday, Aug. 24, 2026 is the first day for students, and Tuesday, June 8, 2027 is the last day. Teacher workdays run Aug. 17-21, 2026.
+Monday, Aug. 24, 2026 is the first day for students, and Tuesday, June 8, 2027 is the last day. Teacher workdays run Aug. 17-21, 2026 and June 10-11, 2027.
