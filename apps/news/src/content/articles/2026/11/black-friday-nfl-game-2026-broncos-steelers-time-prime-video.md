@@ -2,7 +2,7 @@
 title: "Black Friday NFL Game 2026: Broncos at Steelers, 3 p.m. ET"
 description: "Black Friday NFL game 2026: Broncos at Steelers, Fri., Nov. 27, 3 p.m. ET on Prime Video. Kickoff in every U.S. zone, past games with viewers, a printable."
 type: news
-publishedAt: "2026-11-24T16:45:00-05:00"
+publishedAt: "2026-11-24T17:41:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["black friday nfl game 2026", "broncos vs steelers time", "what channel is the black friday game on", "black friday football prime video"]
@@ -27,7 +27,7 @@ assets:
       events:
         - start: "2026-11-27T13:30-05:00"
           title: "Black Friday Football pregame"
-          detail: "Hosted by Charissa Thompson, 90 minutes"
+          detail: "Charissa Thompson hosts the 90-minute pregame"
           channel: "Prime Video"
           airing: live
           src: 4

@@ -2,7 +2,7 @@
 title: "Monday Night Football: Panthers at Buccaneers, Nov. 30, 8:15 p.m. ET"
 description: "Panthers at Buccaneers kicks off Mon., Nov. 30, 2026, at 8:15 p.m. ET on ESPN. Kickoff in every U.S. zone, division standings and a printable watch guide."
 type: news
-publishedAt: "2026-11-24T16:50:00-05:00"
+publishedAt: "2026-11-24T17:41:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["monday night football tonight", "panthers vs buccaneers time", "what channel is panthers bucs on", "panthers buccaneers monday night football"]

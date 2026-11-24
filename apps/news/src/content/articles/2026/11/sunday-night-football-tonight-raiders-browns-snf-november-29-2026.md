@@ -2,7 +2,7 @@
 title: "Sunday Night Football: Raiders at Browns, Nov. 29, 8:20 p.m. ET"
 description: "Raiders at Browns is Sunday Night Football on Nov. 29, 2026, at 8:20 p.m. ET on NBC, flexed from 1 p.m. Kickoff in every zone and a printable watch guide."
 type: news
-publishedAt: "2026-11-24T16:45:00-05:00"
+publishedAt: "2026-11-24T17:41:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["sunday night football tonight", "raiders vs browns time", "what channel is raiders browns on", "raiders browns sunday night football"]
@@ -35,7 +35,7 @@ assets:
             - "the Raiders-Browns Week 12 matchup at Huntington Bank Field has been flexed to primetime on Sunday, Nov. 29."
             - "WEEK 12 | Sun 11/29 | VS Las Vegas Raiders | 8:20 PM EST | NBC • UNIVERSO"
       unconfirmed:
-        - { label: "TV announcers", why: "No official page we reached lists them" }
+        - { label: "NBC announcers", why: "No official page we reached lists them" }
 hero:
   src: ../../../../assets/news/sunday-night-football-tonight-raiders-browns-snf-november-29-2026/sunday-night-football-tonight-raiders-browns-snf-november-29-2026.webp
   alt: "Aerial view of the Cleveland lakefront stadium, site of Raiders at Browns on Sunday Night Football"
