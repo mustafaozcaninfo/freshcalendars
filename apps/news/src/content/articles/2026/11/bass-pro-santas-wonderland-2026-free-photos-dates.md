@@ -76,7 +76,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [santa-at-the-mall-2026-arrival-dates-simon-malls, norad-tracks-santa-2026-when-tracking-starts-phone-number, dicks-sporting-goods-black-friday-2026-deals-november-22-hours]
+related: [santa-at-the-mall-2026-arrival-dates-simon-malls, norad-tracks-santa-2026-when-tracking-starts-phone-number, petsmart-black-friday-2026-early-deals-end-november-25-santa-photos]
 downloads:
   - group: "Bass Pro Santa's Wonderland 2026 Dates printables"
     title: "Bass Pro Santa's Wonderland 2026 Dates"
