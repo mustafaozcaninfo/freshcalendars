@@ -3,7 +3,7 @@ title: "LSAT Test Dates 2027: Jan. 13-16, Feb. 12-13, April 8-10, June 9-12"
 description: "Law School Admission Test (LSAT) dates for 2027: Jan. 13-16, Feb. 12-13, April 8-10 and June 9-12, with every deadline and score release day."
 type: explainer
 publishedAt: "2026-10-19T11:32:00-04:00"
-updatedAt: "2026-11-13T16:14:00-05:00"
+updatedAt: "2026-11-24T01:00:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["LSAT test dates 2026-27", "LSAT dates 2027", "LSAT registration deadline", "January 2027 LSAT", "LSAT score release dates"]
@@ -14,13 +14,13 @@ hero:
   title: "LSAT dates and deadlines for 2026-27"
   caption: "Five LSAT administrations remain in the 2026-27 cycle; registration for the January 2027 exam closes Dec. 1, 2026."
 summary:
-  - "The Law School Admission Council (LSAC) is giving the Law School Admission Test (LSAT) on Nov. 11-14, 2026, and offers it in January, February, April and June 2027."
+  - "The Law School Admission Council (LSAC) gave the Law School Admission Test (LSAT) on Nov. 11-14, 2026, and offers it in January, February, April and June 2027."
   - "The next test you can still register for is Jan. 13-16, 2027; the deadline is Dec. 1, 2026."
-  - "The November test window ends Nov. 14; November scores come out Dec. 2."
+  - "The November test ran Nov. 11-14; its scores are due Dec. 2."
   - "A separate February administration in Puerto Rico runs Feb. 18-20, 2027."
 faq:
   - q: "When is the next LSAT?"
-    a: "The next one you can still sign up for is Jan. 13-16, 2027, with a registration deadline of Dec. 1, 2026. The November test began Nov. 11 and ends Nov. 14; its registration closed on Oct. 1."
+    a: "The next one you can still sign up for is Jan. 13-16, 2027, with a registration deadline of Dec. 1, 2026. The November test took place Nov. 11-14; its registration closed on Oct. 1."
   - q: "When are LSAT scores released for the November 2026 test?"
     a: "Dec. 2, 2026, according to LSAC."
   - q: "What are the LSAT dates in 2027?"
@@ -33,7 +33,7 @@ sources:
   - title: "LSAT Dates, Deadlines and Score Release Dates"
     url: "https://www.lsac.org/lsat/register-lsat/test-dates-deadlines-score-release"
     publisher: "Law School Admission Council"
-    date: "2026-11-13"
+    date: "2026-11-24"
 internalLinks:
   - href: "/printable-yearly-calendar.html"
     label: "2027 printable yearly calendar"
@@ -54,13 +54,26 @@ downloads:
 draft: false
 ---
 
-**The next Law School Admission Test (LSAT) you can still register for is Jan. 13-16, 2027. The deadline is Dec. 1, 2026.** The November test began Nov. 11 and ends Nov. 14. Its registration closed on Oct. 1. The Law School Admission Council (LSAC) lists five more administrations in the 2026-27 cycle, the last in June 2027.
+**The next Law School Admission Test (LSAT) you can still register for is Jan. 13-16, 2027. The deadline is Dec. 1, 2026.** The November test took place Nov. 11-14. Its registration closed on Oct. 1. The Law School Admission Council (LSAC) lists five more administrations in the 2026-27 cycle, the last in June 2027.
+
+## January 2027 LSAT dates and registration deadline
+
+The January 2027 LSAT is offered Jan. 13, 14, 15 and 16 in the U.S. and Canada; international test takers can sit it Jan. 15-16 only, according to LSAC. LSAC is not offering in-person LSAT administration in Quebec (Bill 96).
+
+| January 2027 LSAT | Date |
+|---|---|
+| Registration deadline | Tue. Dec. 1, 2026, 11:59 p.m. ET |
+| Scheduling opens | Dec. 22, 2026 |
+| LSAT Argumentative Writing opens | Jan. 5, 2027 |
+| Scores released | Feb. 3, 2027 |
+
+For most administrations, LSAC says the registration deadline is also the last day to request disability-related testing accommodations, so Dec. 1 matters for those requests too. LSAC adds that Test Date Change and refund deadlines sometimes vary, and that all dates are subject to change.
 
 ## LSAT dates and deadlines, 2026-27
 
 | Test dates | Register by | Scheduling opens | Writing opens | Scores released |
 |---|---|---|---|---|
-| Nov. 11-14, 2026 | Oct. 1 (closed) | Oct. 27 (opened) | Nov. 3 | Dec. 2 |
+| Nov. 11-14, 2026 (took place) | Oct. 1 (closed) | Oct. 27 (opened) | Nov. 3 | Dec. 2 (due) |
 | Jan. 13-16, 2027 | Dec. 1, 2026 | Dec. 22, 2026 | Jan. 5 | Feb. 3 |
 | Feb. 12-13, 2027 | Dec. 29, 2026 | Jan. 26 | Feb. 4 | March 3 |
 | Feb. 18-20, 2027 (Puerto Rico) | Jan. 5 | Feb. 2 | Feb. 10 | March 10 |
