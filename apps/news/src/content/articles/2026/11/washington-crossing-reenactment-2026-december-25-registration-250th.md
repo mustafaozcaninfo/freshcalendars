@@ -3,7 +3,7 @@ title: "Washington Crossing Reenactment 2026: Dec. 25 at 1 p.m., Sign Up First"
 description: "Washington Crossing Park's Christmas Crossing is Dec. 25, 2026, river crossing about 1 p.m.; sign-up required. Both crossings compared, plus a printable."
 type: news
 publishedAt: "2026-11-09T06:58:00-05:00"
-updatedAt: "2026-11-09T06:58:00-05:00"
+updatedAt: "2026-11-24T13:31:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["washington crossing reenactment 2026", "washington crossing the delaware reenactment 250th", "washington crossing reenactment tickets", "christmas day crossing reenactment time"]
@@ -21,8 +21,8 @@ hero:
 summary:
   - "The Christmas Crossing reenactment at Washington Crossing Historic Park is Friday, Dec. 25, 2026, noon to 3 p.m., with the river crossing at about 1 p.m.; admission is free."
   - "For the 250th anniversary the park requires advance registration for both the First Crossing on Sunday, Dec. 13 and the Christmas Crossing, and attendance is capped."
-  - "The First Crossing, a full dress rehearsal, costs $10 for adults, $6 for children 5 to 11, and is free under 5; a family rate is $30."
-  - "Parking, shuttle and arrival times were promised for late October 2026 and were not posted as of Nov. 9."
+  - "The First Crossing on Dec. 13 costs $10 for adults, $6 for children 5 to 11, and is free under 5; a family rate is $30."
+  - "The park has not posted parking, shuttle or arrival times for the crossings as of Nov. 24."
 faq:
   - q: "What time is the Washington Crossing reenactment on Christmas Day 2026?"
     a: "The park lists the Christmas Crossing for Friday, Dec. 25, 2026, from noon to 3 p.m., with the river crossing at approximately 1 p.m."
@@ -82,7 +82,7 @@ assets:
     group: washington-crossing-2026
     title: "Washington Crossing Park Events, Dec. 6, 2026 to Jan. 2, 2027"
     subtitle: "First Crossing, Christmas Crossing and the park's other December and January dates, hours and sign-up rules"
-    note: "Source: Washington Crossing Historic Park, The Crossing Reenactments page and December 2026 events calendar, seen Nov. 9, 2026."
+    note: "Source: Washington Crossing Historic Park, The Crossing Reenactments page and December 2026 events calendar, seen Nov. 24, 2026."
     description: "A one-page list of Washington Crossing Historic Park's dates from Dec. 6, 2026 to Jan. 2, 2027, including the Dec. 13 First Crossing and the Dec. 25 Christmas Crossing."
     alt: "Printable list of Washington Crossing Historic Park events from Dec. 6, 2026 to Jan. 2, 2027"
     data:
@@ -93,7 +93,7 @@ assets:
           src: 2
           quote: "December 6 @ 2:00 pm - 3:00 pm"
         - date: "2026-12-13"
-          cells: { Event: "First Crossing (dress rehearsal)", Hours: "10 a.m.-3 p.m., crossing about 1 p.m.", "Cost and sign-up": "$10 adults, $6 ages 5-11; registration required" }
+          cells: { Event: "First Crossing", Hours: "10 a.m.-3 p.m., crossing about 1 p.m.", "Cost and sign-up": "$10 adults, $6 ages 5-11; registration required" }
           src: 1
           quote: "Sunday, December 13, 2026 Time: 10:00 AM–3:00 PM River Crossing: Approximately 1:00 PM Admission: $10 adults | $6 children ages 5–11"
         - date: "2026-12-18"
@@ -113,10 +113,10 @@ assets:
           src: 2
           quote: "January 2, 2027 @ 9:00 am - 5:00 pm"
       unconfirmed:
-        - { label: "Parking, shuttle and arrival times", why: "The park said they would be posted in late October 2026 and had not posted them as of Nov. 9, 2026" }
+        - { label: "Parking, shuttle and arrival times", why: "Still to come on the park's crossing page; not posted as of Nov. 24, 2026" }
 ---
 
-**The Christmas Crossing reenactment at Washington Crossing Historic Park is Friday, Dec. 25, 2026, from noon to 3 p.m., with the river crossing at approximately 1 p.m., and the park says admission is free.** For the 250th anniversary of the 1776 crossing, the park requires advance registration for both the Christmas Crossing and the First Crossing on Sunday, Dec. 13, and caps attendance. This story sets both crossings side by side, lists every park event from Dec. 6 to Jan. 2 and adds a printable. The facts come from the park's Nov. 9, 2026 pages.
+**The Christmas Crossing reenactment at Washington Crossing Historic Park is Friday, Dec. 25, 2026, from noon to 3 p.m., with the river crossing at approximately 1 p.m., and the park says admission is free.** For the 250th anniversary of the 1776 crossing, the park requires advance registration for both the Christmas Crossing and the First Crossing on Sunday, Dec. 13, and caps attendance. This story sets both crossings side by side, lists every park event from Dec. 6 to Jan. 2 and adds a printable. The facts come from the park's pages, checked Nov. 24, 2026.
 
 For the holiday itself, see [When is Christmas?](/when-is/christmas/).
 
@@ -131,13 +131,13 @@ For the holiday itself, see [When is Christmas?](/when-is/christmas/).
 | Registration | Required in 2026 | Required in 2026 |
 | Attendance | Capped; tickets may sell out in advance | Capped |
 
-The park describes the First Crossing as a full dress rehearsal. Its announcement names Sergeant Major of the Army Michael R. Weimer as narrator for that day. The park's December calendar titles the Dec. 25 event the "74th Annual Christmas Crossing Reenactment."
+The park's First Crossing page says the event goes ahead even if the boats are unable to cross the Delaware River, with any weather update posted by 8 a.m. that day. The park's announcement names Sergeant Major of the Army Michael R. Weimer as narrator for that day. The park's December calendar titles the Dec. 25 event the "74th Annual Christmas Crossing Reenactment."
 
 ## Do you need tickets for the Washington Crossing reenactment?
 
 Yes. The park says: "Due to significantly higher attendance anticipated for the 250th anniversary in 2026, advance registration will be required for both the First Crossing and Christmas Crossing reenactments." It adds that admission to the Christmas Crossing "remains free" and that tickets will only be available at the door if the event has not sold out.
 
-Booking runs through the park's FareHarbor links on its crossing page, and the [First Crossing event page](https://www.washingtoncrossingpark.org/event/first-crossing-reenactment-2026) is listed on the park's site. The park does not say when registration opened or whether either date has sold out as of Nov. 9.
+Booking runs through the park's FareHarbor links on its crossing page, and the [First Crossing event page](https://www.washingtoncrossingpark.org/event/first-crossing-reenactment-2026) is listed on the park's site. The park does not say when registration opened or whether either date has sold out as of Nov. 24.
 
 ## What if the weather or river is unsafe?
 
@@ -147,7 +147,7 @@ The park says the crossing "is contingent upon safe weather and river conditions
 
 The address is 1112 River Road, Washington Crossing, Pennsylvania 18977, at Routes 532 and 32 (River Road). The grounds are open dawn to dusk for free self-guided tours, and park offices close at 1 p.m. on Christmas Eve.
 
-Parking, shuttle and arrival times were to be "posted here in late October 2026" on the park's crossing page. They were not posted as of Nov. 9, so check that page before you travel.
+The park's crossing page says designated parking areas, traffic patterns, shuttle service and recommended arrival times are still to come. They were not posted as of Nov. 24, so check that page before you travel.
 
 ## Washington Crossing Historic Park events from Dec. 6 to Jan. 2
 
