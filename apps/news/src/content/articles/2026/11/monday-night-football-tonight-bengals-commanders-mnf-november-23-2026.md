@@ -154,7 +154,7 @@ The most recent meeting was Monday Night Football on Sept. 23, 2024, when the Co
 
 ## When is the next Monday Night Football game?
 
-Panthers at Buccaneers is Monday, Nov. 30, at 8:15 p.m. ET on ESPN at Raymond James Stadium in Tampa, per the Buccaneers. The whole week is in our [NFL Week 11 schedule and pick'em sheet](/news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/), the Bengals' remaining games are in the [Cincinnati Bengals schedule printable](/news/cincinnati-bengals-schedule-2026-printable-remaining-games/), and the previous Monday game is in our [Bills at Vikings guide](/news/monday-night-football-tonight-bills-vikings-mnf-november-9-2026/).
+[Panthers at Buccaneers](/news/monday-night-football-tonight-panthers-buccaneers-mnf-november-30-2026/) is Monday, Nov. 30, at 8:15 p.m. ET on ESPN at Raymond James Stadium in Tampa, per the Buccaneers. The whole week is in our [NFL Week 11 schedule and pick'em sheet](/news/nfl-week-11-schedule-2026-printable-pick-em-sheet-game-times/), the Bengals' remaining games are in the [Cincinnati Bengals schedule printable](/news/cincinnati-bengals-schedule-2026-printable-remaining-games/), and the previous Monday game is in our [Bills at Vikings guide](/news/monday-night-football-tonight-bills-vikings-mnf-november-9-2026/).
 
 ## Is there a printable Bengals at Commanders watch guide?
 

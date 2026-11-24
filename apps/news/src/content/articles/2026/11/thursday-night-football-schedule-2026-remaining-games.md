@@ -149,7 +149,7 @@ Week 18 has no Thursday game on the NFL's [Week 18 page](https://www.nfl.com/sch
 
 ## Which Thursday games are on Prime Video and which are not?
 
-Six of the nine Thursday games in the table are on Prime Video. The three on Thanksgiving are on CBS, FOX and NBC. Prime Video also has Black Friday Football on Fri., Nov. 27, Broncos at Steelers at 3 p.m. ET per NFL.com, and a Wild Card playoff game on Saturday, Jan. 16 or Sunday, Jan. 17, 2027, which Amazon lists as to be determined. Amazon counts 17 Prime Video games in all: 15 on TNF, the Black Friday game and the Wild Card game.
+Six of the nine Thursday games in the table are on Prime Video. The three on Thanksgiving are on CBS, FOX and NBC. Prime Video also has [Black Friday Football](/news/black-friday-nfl-game-2026-broncos-steelers-time-prime-video/) on Fri., Nov. 27, Broncos at Steelers at 3 p.m. ET per NFL.com, and a Wild Card playoff game on Saturday, Jan. 16 or Sunday, Jan. 17, 2027, which Amazon lists as to be determined. Amazon counts 17 Prime Video games in all: 15 on TNF, the Black Friday game and the Wild Card game.
 
 Two other holiday-week games are not on Thursday. NFL.com lists Packers at Rams on Wed., Nov. 25 at 8 p.m. ET on Netflix. For the full holiday slate, see our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/). Our [Christmas Day games story](/news/christmas-day-2026-games-nba-nfl-schedule-times-tv/) has Fri., Dec. 25: Packers at Bears at 1 p.m. ET and Bills at Broncos at 4:30 p.m. ET, both on Netflix, and Rams at Seahawks at 8:15 p.m. ET on FOX, per NFL.com.
 

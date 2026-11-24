@@ -144,11 +144,11 @@ Packers at Rams kicks off Wednesday night, the eve of Thanksgiving, at 8 p.m. ET
 
 ## How many days of NFL games are in Week 12?
 
-Five game days spread over six. NFL.com lists games on Wednesday, Thursday, Friday, Sunday and Monday, with none on Saturday, Nov. 28. Thanksgiving Day alone has three games, and Black Friday has Broncos at [Steelers](/news/pittsburgh-steelers-schedule-2026-printable-remaining-games/) at 3 p.m. ET on Prime Video.
+Five game days spread over six. NFL.com lists games on Wednesday, Thursday, Friday, Sunday and Monday, with none on Saturday, Nov. 28. Thanksgiving Day alone has three games, and [Black Friday Football](/news/black-friday-nfl-game-2026-broncos-steelers-time-prime-video/) has Broncos at [Steelers](/news/pittsburgh-steelers-schedule-2026-printable-remaining-games/) at 3 p.m. ET on Prime Video.
 
 ## Did the NFL flex any Week 12 games?
 
-Yes. On Nov. 17, 2026, the NFL announced that flex scheduling is in effect for Week 12. Raiders at Browns in Cleveland moved to Sunday Night Football at 8:20 p.m. ET on NBC, Patriots at Chargers in Los Angeles moved to 4:05 p.m. ET on CBS and Titans at Jaguars in Jacksonville moved to 1 p.m. ET on FOX. Under the flexible scheduling procedures, Monday Night Football can be flexed in Weeks 12 to 17, with notice "no later than 12 days before the game," which for Nov. 30 is Wednesday, Nov. 18 by our calculation. The Thanksgiving and Wednesday games are not covered by the flex rule. NFL.com lists Panthers at Buccaneers on Monday at 8:15 p.m. ET on ESPN.
+Yes. On Nov. 17, 2026, the NFL announced that flex scheduling is in effect for Week 12. [Raiders at Browns](/news/sunday-night-football-tonight-raiders-browns-snf-november-29-2026/) in Cleveland moved to Sunday Night Football at 8:20 p.m. ET on NBC, Patriots at Chargers in Los Angeles moved to 4:05 p.m. ET on CBS and Titans at Jaguars in Jacksonville moved to 1 p.m. ET on FOX. Under the flexible scheduling procedures, Monday Night Football can be flexed in Weeks 12 to 17, with notice "no later than 12 days before the game," which for Nov. 30 is Wednesday, Nov. 18 by our calculation. The Thanksgiving and Wednesday games are not covered by the flex rule. NFL.com lists [Panthers at Buccaneers](/news/monday-night-football-tonight-panthers-buccaneers-mnf-november-30-2026/) on Monday at 8:15 p.m. ET on ESPN.
 
 ## How long does Thanksgiving Day football run in Week 12?
 
