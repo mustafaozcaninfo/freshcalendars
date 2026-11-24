@@ -98,7 +98,7 @@ sources:
     url: "https://www.livenowfox.com/news/thanksgiving-2026-whats-open-closed"
     publisher: "LiveNOW from FOX"
     date: "2026-11-23"
-  - title: "Kroger makes Thanksgiving easy this year with ultimate convenience and seamless shopping"
+  - title: "Kroger makes Thanksgiving easy this year (press release)"
     url: "https://www.prnewswire.com/news-releases/kroger-makes-thanksgiving-easy-this-year-with-ultimate-convenience-and-seamless-shopping-302930481.html"
     publisher: "Kroger via PR Newswire"
     date: "2026-11-05"
