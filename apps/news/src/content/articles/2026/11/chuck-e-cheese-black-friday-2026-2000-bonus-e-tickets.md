@@ -2,7 +2,7 @@
 title: "Chuck E. Cheese Black Friday 2026: 2,000 Bonus E-Tickets per $25"
 description: "Chuck E. Cheese gives 2,000 bonus E-Tickets per $25 gift card Nov. 27-30. Ticket math for $25 to $100, Thanksgiving and Christmas hours, and a printable."
 type: news
-publishedAt: "2026-11-24T08:40:00-05:00"
+publishedAt: "2026-11-24T09:45:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["chuck e cheese black friday 2026", "chuck e cheese gift card deal", "is chuck e cheese open on thanksgiving 2026", "chuck e cheese holiday hours"]
