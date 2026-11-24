@@ -1,6 +1,6 @@
 ---
 title: "Ace Hardware Black Friday 2026: 50% Off One Item Nov. 27, Code BF26"
-description: "Ace Rewards members get 50% off one item $30 or less Nov. 27 (code BF26), then 15% off Nov. 28-30. Sale vs regular prices for 14 Ace deals, plus a printable."
+description: "Ace Rewards members get 50% off one item $30 or less Nov. 27 (code BF26), then 15% off Nov. 28-30. Sale and regular prices for 14 deals and a printable."
 type: news
 publishedAt: "2026-11-24T06:10:00-05:00"
 authors: [jessica-hartwell]
