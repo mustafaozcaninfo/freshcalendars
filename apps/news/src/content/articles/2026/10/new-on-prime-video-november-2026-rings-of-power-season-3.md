@@ -100,7 +100,7 @@ internalLinks:
     label: "When is Thanksgiving?"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [new-on-disney-plus-november-2026-release-dates, netflix-new-movies-november-2026-release-dates, maxton-hall-season-3-release-date-december-9-prime-video]
+related: [new-on-prime-video-december-2026-release-dates, new-on-disney-plus-november-2026-release-dates, maxton-hall-season-3-release-date-december-9-prime-video]
 downloads:
   - group: "Prime Video November 2026 Release Calendar printables"
     title: "Prime Video November 2026 Release Calendar"
