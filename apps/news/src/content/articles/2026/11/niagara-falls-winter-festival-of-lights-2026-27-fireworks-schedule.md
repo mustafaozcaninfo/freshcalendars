@@ -61,7 +61,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa, zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston, toronto-santa-claus-parade-2026-sunday-november-22-route-citytv]
+related: [canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa, new-years-eve-2026-canada-fireworks-calgary-niagara-falls-montreal, toronto-santa-claus-parade-2026-sunday-november-22-route-citytv]
 downloads:
   - group: "Niagara Falls Winter Festival of Lights Fireworks Dates 2026-27 printables"
     title: "Niagara Falls Winter Festival of Lights Fireworks Dates 2026-27"
