@@ -151,7 +151,7 @@ internalLinks:
     label: "2027 printable yearly calendar"
   - href: "/when-is/labor-day/"
     label: "When is Labor Day?"
-related: [august-2027-important-dates-holidays-days-until, moon-phases-2027-full-moon-calendar, jewish-holidays-2027-dates-passover-rosh-hashanah-yom-kippur-hanukkah]
+related: [october-2027-important-dates-holidays-days-until, moon-phases-2027-full-moon-calendar, jewish-holidays-2027-dates-passover-rosh-hashanah-yom-kippur-hanukkah]
 draft: false
 ---
 
