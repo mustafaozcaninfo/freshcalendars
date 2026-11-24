@@ -59,7 +59,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [high-school-football-state-championships-2026-dates-by-state, uil-football-state-championships-2026-schedule-att-stadium, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times]
+related: [high-school-football-state-championships-2026-dates-by-state, uil-football-state-championships-2026-schedule-att-stadium, chsaa-colorado-football-state-championships-2026-schedule]
 assets:
   overlay: true
   kicker: "AIA Football Finals, Nov. 28-Dec. 5"
