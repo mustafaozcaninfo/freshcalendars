@@ -1,0 +1,65 @@
+{
+ "generatedAt": "2026-11-24T09:14:46.886Z",
+ "site": "https://shop.freshcalendars.com/",
+ "crawl": [
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 1,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 470,
+   "Code301": 1,
+   "Code302": 0,
+   "Code4xx": 1,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 130,
+   "CrawlErrors": 1,
+   "Date": "/Date(1795305600000)/",
+   "DnsFailures": 0,
+   "InIndex": 455,
+   "InLinks": 0
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 1,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 489,
+   "Code301": 1,
+   "Code302": 0,
+   "Code4xx": 0,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 58,
+   "CrawlErrors": 0,
+   "Date": "/Date(1795392000000)/",
+   "DnsFailures": 0,
+   "InIndex": 475,
+   "InLinks": 0
+  }
+ ],
+ "daily": [
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1795132800000)/",
+   "Impressions": 0
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1795219200000)/",
+   "Impressions": 63
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 1,
+   "Date": "/Date(1795305600000)/",
+   "Impressions": 43
+  }
+ ],
+ "pages": [],
+ "queries": [],
+ "failed": []
+}

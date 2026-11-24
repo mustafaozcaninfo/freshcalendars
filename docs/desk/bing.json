@@ -1,13 +1,7 @@
 {
- "generatedAt": "2026-11-23T21:19:19.002Z",
+ "generatedAt": "2026-11-24T09:14:46.886Z",
  "site": "https://freshcalendars.com/",
  "daily": [
-  {
-   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
-   "Clicks": 3,
-   "Date": "/Date(1753228800000)/",
-   "Impressions": 11360
-  },
   {
    "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
    "Clicks": 4,
@@ -2923,6 +2917,12 @@
    "Clicks": 506,
    "Date": "/Date(1795219200000)/",
    "Impressions": 33607
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 480,
+   "Date": "/Date(1795305600000)/",
+   "Impressions": 39019
   }
  ],
  "queries": [
@@ -4511,19 +4511,19 @@
    "ctr": 0.02857142857142857
   },
   {
-   "key": "focker in law release",
-   "clicks": 1,
-   "impressions": 69,
-   "posW": 345,
-   "position": 5,
-   "ctr": 0.014492753623188406
-  },
-  {
    "key": "snl 11/14/26",
    "clicks": 1,
    "impressions": 69,
    "posW": 276,
    "position": 4,
+   "ctr": 0.014492753623188406
+  },
+  {
+   "key": "focker in law release",
+   "clicks": 1,
+   "impressions": 69,
+   "posW": 345,
+   "position": 5,
    "ctr": 0.014492753623188406
   },
   {
@@ -5151,6 +5151,22 @@
    "ctr": 0.16666666666666666
   },
   {
+   "key": "federal pay calendar 2027",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 126,
+   "position": 7,
+   "ctr": 0.1111111111111111
+  },
+  {
+   "key": "when do the new governors take office",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 36,
+   "position": 2,
+   "ctr": 0.1111111111111111
+  },
+  {
    "key": "nfl week 9 pick sheet 2026",
    "clicks": 2,
    "impressions": 18,
@@ -5164,22 +5180,6 @@
    "impressions": 18,
    "posW": 54,
    "position": 3,
-   "ctr": 0.1111111111111111
-  },
-  {
-   "key": "when do the new governors take office",
-   "clicks": 2,
-   "impressions": 18,
-   "posW": 36,
-   "position": 2,
-   "ctr": 0.1111111111111111
-  },
-  {
-   "key": "federal pay calendar 2027",
-   "clicks": 2,
-   "impressions": 18,
-   "posW": 126,
-   "position": 7,
    "ctr": 0.1111111111111111
   },
   {
@@ -5255,19 +5255,19 @@
    "ctr": 0.14285714285714285
   },
   {
-   "key": "spelling bee 11/4/26",
-   "clicks": 2,
-   "impressions": 14,
-   "posW": 56,
-   "position": 4,
-   "ctr": 0.14285714285714285
-  },
-  {
    "key": "royal winter fair 2026 hours",
    "clicks": 2,
    "impressions": 14,
    "posW": 42,
    "position": 3,
+   "ctr": 0.14285714285714285
+  },
+  {
+   "key": "spelling bee 11/4/26",
+   "clicks": 2,
+   "impressions": 14,
+   "posW": 56,
+   "position": 4,
    "ctr": 0.14285714285714285
   },
   {
@@ -5319,11 +5319,11 @@
    "ctr": 0.46153846153846156
   },
   {
-   "key": "fresno unified calendar 26-27",
+   "key": "veterans day free meals restaurants",
    "clicks": 3,
    "impressions": 13,
-   "posW": 13,
-   "position": 1,
+   "posW": 39,
+   "position": 3,
    "ctr": 0.23076923076923078
   }
  ],
@@ -5969,7 +5969,7 @@
    "ctr": 0.006352087114337568
   },
   {
-   "key": "https://freshcalendars.com/news/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026/",
+   "key": "https://freshcalendars.com/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/",
    "clicks": 7,
    "impressions": 1072,
    "posW": 7504,
@@ -5977,7 +5977,7 @@
    "ctr": 0.0065298507462686565
   },
   {
-   "key": "https://freshcalendars.com/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/",
+   "key": "https://freshcalendars.com/news/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026/",
    "clicks": 7,
    "impressions": 1072,
    "posW": 7504,
@@ -7481,19 +7481,19 @@
    "ctr": 0.08823529411764706
   },
   {
-   "key": "https://freshcalendars.com/news/iphone-duo-october-24-availability/",
-   "clicks": 2,
-   "impressions": 33,
-   "posW": 132,
-   "position": 4,
-   "ctr": 0.06060606060606061
-  },
-  {
    "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
    "clicks": 2,
    "impressions": 33,
    "posW": 198,
    "position": 6,
+   "ctr": 0.06060606060606061
+  },
+  {
+   "key": "https://freshcalendars.com/news/iphone-duo-october-24-availability/",
+   "clicks": 2,
+   "impressions": 33,
+   "posW": 132,
+   "position": 4,
    "ctr": 0.06060606060606061
   },
   {
@@ -7538,24 +7538,6 @@
   }
  ],
  "crawl": [
-  {
-   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
-   "AllOtherCodes": 34,
-   "BlockedByRobotsTxt": 0,
-   "Code2xx": 360,
-   "Code301": 121,
-   "Code302": 62,
-   "Code4xx": 32,
-   "Code5xx": 13,
-   "ConnectionTimeout": 0,
-   "ContainsMalware": 0,
-   "CrawledPages": 701,
-   "CrawlErrors": 45,
-   "Date": "/Date(1792627200000)/",
-   "DnsFailures": 0,
-   "InIndex": 358,
-   "InLinks": 332
-  },
   {
    "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
    "AllOtherCodes": 35,
@@ -8077,6 +8059,24 @@
    "DnsFailures": 0,
    "InIndex": 4671,
    "InLinks": 432
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 527,
+   "BlockedByRobotsTxt": 51,
+   "Code2xx": 5209,
+   "Code301": 221,
+   "Code302": 58,
+   "Code4xx": 64,
+   "Code5xx": 6,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 8006,
+   "CrawlErrors": 68,
+   "Date": "/Date(1795392000000)/",
+   "DnsFailures": 0,
+   "InIndex": 4820,
+   "InLinks": 450
   }
  ],
  "failed": []
