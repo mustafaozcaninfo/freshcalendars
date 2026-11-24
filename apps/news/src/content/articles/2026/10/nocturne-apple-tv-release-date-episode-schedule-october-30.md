@@ -1,35 +1,34 @@
 ---
-title: "Nocturne Release Date: New Episodes Every Friday to Dec. 25"
-description: "Nocturne episode 5 arrives Fri., Nov. 20 on Apple TV, then one every Friday to Dec. 25. See all 10 episode dates, which are out, and a printable."
+title: "Nocturne Episode Release Dates: New Episodes Fridays to Dec. 25"
+description: "Nocturne episode 6 arrives Fri., Nov. 27 on Apple TV, then one every Friday to Dec. 25. See all 10 episode dates, which are out, and a printable."
 type: news
 publishedAt: "2026-10-29T05:50:00-04:00"
-updatedAt: "2026-11-13T16:12:00-05:00"
+updatedAt: "2026-11-24T03:25:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["Nocturne release date", "Nocturne episode schedule", "Nocturne Apple TV", "Nocturne Stephen Graham", "when does Nocturne come out"]
 dateline: "New York"
 assets:
   overlay: true
-  kicker: "Nocturne · Apple TV · Next: Nov. 20"
-  date: "2026-11-20"
-  card: { top: "Nocturne episode 5 is next", big: "Fri., Nov. 20", bottom: "Weekly to the Dec. 25 finale" }
+  kicker: "Nocturne · Apple TV · Next: Nov. 27"
+  date: "2026-11-27"
+  card: { top: "Nocturne episode 6 is next", big: "Fri., Nov. 27", bottom: "Weekly to the Dec. 25 finale" }
   printable:
     slug: nocturne-episode-schedule-2026
     group: tv-2026
     title: "Nocturne Episode Schedule 2026"
-    subtitle: "Apple TV: episodes 5 to 10, one every Friday from Nov. 20 to Dec. 25"
+    subtitle: "Apple TV: episodes 6 to 10, one every Friday from Nov. 27 to Dec. 25"
     layout: list
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - ["Fri., Nov. 20", "Episode 5"]
       - ["Fri., Nov. 27", "Episode 6"]
       - ["Fri., Dec. 4", "Episode 7"]
       - ["Fri., Dec. 11", "Episode 8"]
       - ["Fri., Dec. 18", "Episode 9"]
       - ["Fri., Dec. 25", "Episode 10 (finale)"]
-    note: "Source: Apple TV Press, Jul. 7 and Sept. 29, 2026. Episode dates 5-10 are our count from Apple's weekly schedule."
-    description: "One-page Nocturne episode schedule for Apple TV with episodes 5 to 10 by Friday date and a watch tracker. Free printable."
-    alt: "Nocturne episode schedule printable listing Apple TV episodes 5 to 10 from Nov. 20 to Dec. 25, 2026"
+    note: "Source: Apple TV Press, Jul. 7 and Sept. 29, 2026. Episode dates 6-10 are our count from Apple's weekly schedule."
+    description: "One-page Nocturne episode schedule for Apple TV with episodes 6 to 10 by Friday date and a watch tracker. Free printable."
+    alt: "Nocturne episode schedule printable listing Apple TV episodes 6 to 10 from Nov. 27 to Dec. 25, 2026"
 hero:
   src: ../../../../assets/news/nocturne-apple-tv-release-date-episode-schedule-october-30/nocturne-apple-tv-release-date-episode-schedule-october-30.webp
   alt: "Stephen Graham, who stars in Nocturne, the Apple TV crime drama with a release date of Oct. 30, 2026"
@@ -41,13 +40,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Stephen_Graham.jpg"
     author: "Raph_PH"
 summary:
-  - "The next Nocturne episode, episode 5, arrives Friday, Nov. 20, 2026 on Apple TV by Apple's weekly schedule."
+  - "The next Nocturne episode, episode 6, arrives Friday, Nov. 27, 2026 on Apple TV by Apple's weekly schedule."
   - "Nocturne made its global debut Friday, Oct. 30, 2026 with two episodes, per Apple TV Press, and new episodes follow every Friday through Dec. 25, for 10 in all."
   - "Apple has not listed a release time, and the finale lands on Christmas Day by our count from Apple's schedule."
   - "The crime drama stars Liev Schreiber, Zazie Beetz and Stephen Graham and is based on Lars Kepler's novels."
 faq:
   - q: "When is the next Nocturne episode?"
-    a: "Episode 5 arrives Friday, Nov. 20, 2026 on Apple TV, by our count from Apple's weekly schedule. Episode 4 came out Friday, Nov. 13."
+    a: "Episode 6 arrives Friday, Nov. 27, 2026 on Apple TV, by our count from Apple's weekly schedule. Episode 5 came out Friday, Nov. 20."
   - q: "When does Nocturne come out?"
     a: "Nocturne premiered Friday, Oct. 30, 2026 on Apple TV with the first two episodes, according to Apple TV Press. Episodes then arrive each Friday through Dec. 25."
   - q: "How many episodes does Nocturne have?"
@@ -74,16 +73,16 @@ related: [new-on-apple-tv-november-2026-release-dates, from-season-5-release-dat
 downloads:
   - group: "Nocturne Episode Schedule 2026 printables"
     title: "Nocturne Episode Schedule 2026"
-    description: "One-page Nocturne episode schedule for Apple TV with episodes 5 to 10 by Friday date and a watch tracker. Free printable."
+    description: "One-page Nocturne episode schedule for Apple TV with episodes 6 to 10 by Friday date and a watch tracker. Free printable."
     preview: ../../../../assets/news/tv-2026/nocturne-episode-schedule-2026.png
-    alt: "Nocturne episode schedule printable listing Apple TV episodes 5 to 10 from Nov. 20 to Dec. 25, 2026"
+    alt: "Nocturne episode schedule printable listing Apple TV episodes 6 to 10 from Nov. 27 to Dec. 25, 2026"
     pdf: "/news/downloads/tv-2026/nocturne-episode-schedule-2026.pdf"
     png: "/news/downloads/tv-2026/nocturne-episode-schedule-2026.png"
     pages: 1
 draft: false
 ---
 
-The next Nocturne episode, episode 5, arrives Friday, Nov. 20, 2026 on Apple TV, by Apple's weekly schedule. Four episodes are out: two on the Oct. 30 premiere, episode 3 on Nov. 6 and episode 4 on Nov. 13.
+The next Nocturne episode, episode 6, arrives Friday, Nov. 27, 2026 on Apple TV, by Apple's weekly schedule. Five episodes are out: two on the Oct. 30 premiere, then episodes 3, 4 and 5 on Nov. 6, 13 and 20.
 
 Nocturne premiered Friday, Oct. 30, 2026, with its first two episodes on Apple TV, according to Apple TV Press. New episodes follow every Friday through Dec. 25, 2026. Apple's July 7, 2026 announcement calls it a 10-episode drama, and its Sept. 29, 2026 trailer announcement repeated the Oct. 30 global debut.
 
@@ -93,17 +92,17 @@ Apple gives the premiere date and the weekly rule, not a list of dates. We worke
 
 Apple TV Press said the series "will make its global debut on Friday, October 30, 2026 with the first two episodes, followed by new episodes every Friday through December 25, 2026 on Apple TV." The Sept. 29, 2026 trailer release gave the same date.
 
-## What is the Nocturne episode schedule?
+## Nocturne episode release dates
 
-Apple lists the rule, so the dates for episodes 3 to 10 are our count from Apple's schedule. Each one is a Friday, and we checked every weekday against the 2026 calendar. Episodes 1 to 4 have been released; episode 5 is next.
+Apple lists the rule, so the dates for episodes 3 to 10 are our count from Apple's schedule. Each one is a Friday, and we checked every weekday against the 2026 calendar. Episodes 1 to 5 have been released; episode 6 is next.
 
 | Episode | Date | Note |
 |---|---|---|
 | 1 and 2 | Fri., Oct. 30, 2026 | Released, premiere per Apple TV Press |
 | 3 | Fri., Nov. 6, 2026 | Released |
 | 4 | Fri., Nov. 13, 2026 | Released |
-| 5 | Fri., Nov. 20, 2026 | Next |
-| 6 | Fri., Nov. 27, 2026 | Day after Thanksgiving |
+| 5 | Fri., Nov. 20, 2026 | Released |
+| 6 | Fri., Nov. 27, 2026 | Next, day after Thanksgiving |
 | 7 | Fri., Dec. 4, 2026 | Weekly rule |
 | 8 | Fri., Dec. 11, 2026 | Weekly rule |
 | 9 | Fri., Dec. 18, 2026 | Weekly rule |
