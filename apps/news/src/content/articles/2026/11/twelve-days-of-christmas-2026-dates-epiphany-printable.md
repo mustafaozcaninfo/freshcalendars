@@ -59,7 +59,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [orthodox-christmas-2027-january-7-three-kings-day-january-6, st-lucia-day-2026-december-13-lucia-events-us, christmas-2026-calendar-printable-countdown]
+related: [orthodox-christmas-2027-january-7-three-kings-day-january-6, st-lucia-day-2026-december-13-lucia-events-us, dia-de-los-santos-inocentes-2026-december-28]
 downloads:
   - group: "12 Days of Christmas 2026 printables"
     title: "12 Days of Christmas 2026: Day-by-Day Dates to Jan. 6"
