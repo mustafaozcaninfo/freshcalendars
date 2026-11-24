@@ -2,7 +2,7 @@
 title: "Día de los Santos Inocentes 2026: Monday, Dec. 28, Ibi Flour Battle"
 description: "Día de los Santos Inocentes 2026 is Monday, Dec. 28, the Feast of the Holy Innocents. Weekdays through 2032, Ibi's flour battle and a printable."
 type: explainer
-publishedAt: "2026-11-24T06:38:00-05:00"
+publishedAt: "2026-11-24T07:44:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["dia de los inocentes 2026", "día de los santos inocentes 2026", "holy innocents feast day 2026", "when is dia de los inocentes", "els enfarinats ibi"]

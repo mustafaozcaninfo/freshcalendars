@@ -2,7 +2,7 @@
 title: "Kwanzaa Events 2026: Free St. Louis Day Dec. 27, Brooklyn Dec. 26-30"
 description: "Kwanzaa events 2026: St. Louis is free Dec. 27, Brooklyn runs Dec. 26-30. A table of 5 organizer-listed celebrations with times, plus a printable."
 type: news
-publishedAt: "2026-11-24T06:50:00-05:00"
+publishedAt: "2026-11-24T07:43:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["kwanzaa events 2026", "kwanzaa celebration near me 2026", "kwanzaa events brooklyn 2026", "kwanzaa st louis art museum 2026"]
@@ -102,7 +102,7 @@ assets:
         - { start: "2026-12-29T10:00-06:00", tz: "America/Chicago", title: "The Du Kwanzaa Celebration, Chicago", detail: "DuSable Black History Museum, to 5 p.m.", airing: live, src: 4, quote: ["December 29, 2026 10:00 am - 5:00 pm"] }
       unconfirmed:
         - { label: "Baltimore, Sat., Dec. 26, 6 p.m. ET: It's All About The Children, Great Blacks in Wax Museum", why: "registration is required, but its street fair page says closed; check the form" }
-        - { label: "Prices for Brooklyn, Chicago and Baltimore", why: "not listed on the organizers' pages checked Nov. 24, 2026" }
+        - { label: "Cost for Brooklyn, Chicago and Baltimore", why: "not listed on the organizers' pages checked Nov. 24, 2026" }
 ---
 
 **The Saint Louis Art Museum lists its Kwanzaa Celebration 2026 on Sunday, Dec. 27, from 10 a.m. to 3 p.m. CST, free, and four other organizers have posted 2026 dates.** Brooklyn Children's Museum runs Celebrate Kwanzaa from Saturday, Dec. 26, to Wednesday, Dec. 30. Children's Museum Houston, the DuSable Black History Museum and Education Center in Chicago and the National Great Blacks in Wax Museum in Baltimore complete the list. The table below puts the five pages together with the day's principle, which no single organizer page does.
@@ -115,9 +115,9 @@ Kwanzaa 2026 runs from Saturday, Dec. 26, to Friday, Jan. 1, 2027, according to 
 |---|---|---|---|---|---|
 | Sat., Dec. 26 to Wed., Dec. 30 | Brooklyn, NY | [Celebrate Kwanzaa, Brooklyn Children's Museum](https://www.brooklynkids.org/programs/kwanzaa/) | 10 a.m. to 5 p.m. each day | Museum ticket per day; price not listed on the event page | Umoja on Dec. 26, Nia on Dec. 30 |
 | Sat., Dec. 26 | Baltimore, MD | [Kwanzaa 2026 - It's All About The Children, National Great Blacks in Wax Museum](https://www.greatblacksinwax.org/kwanzaa) | 6 p.m. ET (doors 5:45 p.m.) | Registration required per the Kwanzaa page; no price listed | Umoja |
-| Sun., Dec. 27 | St. Louis, MO | [Kwanzaa Celebration 2026, Saint Louis Art Museum](https://www.slam.org/event/kwanzaa-celebration-2026/) | 10 a.m. to 3 p.m. CST | Free; registration not mentioned | Kujichagulia |
-| Mon., Dec. 28 | Houston, TX | [Celebrating Kwanzaa, Children's Museum Houston](https://www.cmhouston.org/events/celebrating-kwanzaa) | 9 a.m. to 5 p.m. | With general admission; "Register for Event" button | Ujima |
-| Tue., Dec. 29 | Chicago, IL | [The Du Kwanzaa Celebration, DuSable Black History Museum](https://www.dusablemuseum.org/events) | 10 a.m. to 5 p.m. | Venue, price and registration not on the page | Ujamaa |
+| Sun., Dec. 27 | St. Louis, MO | [Kwanzaa Celebration 2026, Saint Louis Art Museum](https://www.slam.org/event/kwanzaa-celebration-2026/) | 10 a.m. to 3 p.m. CST (11 a.m. to 4 p.m. ET) | Free; registration not mentioned | Kujichagulia |
+| Mon., Dec. 28 | Houston, TX | [Celebrating Kwanzaa, Children's Museum Houston](https://www.cmhouston.org/events/celebrating-kwanzaa) | 9 a.m. to 5 p.m. CT (10 a.m. to 6 p.m. ET) | With general admission; "Register for Event" button | Ujima |
+| Tue., Dec. 29 | Chicago, IL | [The Du Kwanzaa Celebration, DuSable Black History Museum](https://www.dusablemuseum.org/events) | 10 a.m. to 5 p.m. CT (11 a.m. to 6 p.m. ET) | Venue, price and registration not on the page | Ujamaa |
 
 The principle column follows the order on the [Official Kwanzaa Website](https://www.officialkwanzaawebsite.org/); the [Kwanzaa 2026 dates and principles story](/news/kwanzaa-2026-dates-seven-principles-calendar-printable/) explains each one.
 
