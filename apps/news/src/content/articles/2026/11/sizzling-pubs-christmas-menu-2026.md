@@ -31,7 +31,7 @@ assets:
         - cells: { item: "Festive Set Menu", detail: "3 courses from £18.99 per person; pre-book" }
           src: 2
           quote: "3 courses from £18.99 per person"
-        - cells: { item: "Christmas Day, Fri. 25 Dec", detail: "3 courses from £60.99 per adult; child £30.99 on this page" }
+        - cells: { item: "Christmas Day, 25 December 2026", detail: "3 courses from £60.99 per adult; child £30.99 on this page" }
           src: 3
           quote: "3-course menu from only £60.99 per adult, and £30.99 per child"
         - cells: { item: "Child price, other page", detail: "Christmas page says £30.49 per child; confirm when booking" }

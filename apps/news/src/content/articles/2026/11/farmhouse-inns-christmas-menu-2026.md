@@ -58,10 +58,10 @@ assets:
         - cells: { item: "Christmas Day deposit", detail: "£10 per adult and £10 per child" }
           src: 2
           quote: "Book with a deposit of £10 per adult and £10 per child."
-        - cells: { item: "Booked on or before 11 Dec", detail: "Choices and final payment by 11 December 2026" }
+        - cells: { item: "Christmas Day, booked by 11 Dec", detail: "Choices and final payment by 11 December 2026" }
           src: 2
           quote: "For reservations made on or before December 11th 2026 menu choices and final payment must be settled by 11th December 2026."
-        - cells: { item: "Booked after 11 Dec", detail: "Choices and final payment by 18 December 2026" }
+        - cells: { item: "Christmas Day, booked after 11 Dec", detail: "Choices and final payment by 18 December 2026" }
           src: 2
           quote: "For reservations made after 11th December 2026, menu choices and final payment must be settled by 18th December."
         - cells: { item: "Last Christmas Day bookings", detail: "No bookings after 18 December 2026" }
