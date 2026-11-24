@@ -200,7 +200,7 @@ These states' own pages show Jan. 1, 2027 or no New Year's Eve entry for 2026. F
 
 Dec. 31, 2026 is a Thursday and Jan. 1, 2027 is a Friday. In Kentucky, Tennessee and Louisiana, whose lists name both days, state offices on the standard list are closed Thursday and Friday, which gives four days off from Thu., Dec. 31 to Sun., Jan. 3. Wisconsin's page names Dec. 31 only, and Florida's order names Dec. 31 only. For those two, the weekend run depends on the state's own Jan. 1 rule, which we did not read.
 
-## Which states could not be confirmed?
+## New Year's Eve status not confirmed in 13 states
 
 Michigan, Colorado, South Carolina, Pennsylvania, Illinois, Ohio, Minnesota, Mississippi, Oklahoma, New Jersey, Arizona, Alabama and Massachusetts are not confirmed on the state's own page as of Nov. 24, 2026. Michigan's state site returned an access error to our check. They are not marked closed or open. Check your agency's human resources page.
 
