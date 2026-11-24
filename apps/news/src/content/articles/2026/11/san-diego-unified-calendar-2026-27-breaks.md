@@ -1,8 +1,9 @@
 ---
-title: "San Diego Unified Calendar 2026-27: Thanksgiving Break Nov. 23-27"
+title: "SDUSD Calendar 2026-27: Winter Break Dec. 21-Jan. 4, Last Day May 26"
 description: "San Diego Unified School District (SDUSD) 2026-27: no school Nov. 23-27, Dec. 21-Jan. 4 and March 29-April 2; last day May 26. Weekdays off counted."
 type: explainer
 publishedAt: "2026-11-04T06:10:00-05:00"
+updatedAt: "2026-11-23T23:35:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["sdusd calendar 2026-27", "san diego unified calendar 2026-27", "san diego unified spring break 2027", "sdusd winter break 2026", "san diego unified last day of school 2027"]
@@ -10,7 +11,7 @@ dateline: "San Diego"
 hero:
   src: ../../../../assets/news/san-diego-unified-calendar-2026-27-breaks/san-diego-unified-calendar-2026-27-breaks.webp
   alt: "University City High School in San Diego, a San Diego Unified high school, for the San Diego Unified calendar 2026-27"
-  caption: "File photo of University City High School, a San Diego Unified high school. The district's 2026-27 calendar marks Nov. 23-27, 2026 as the next days with no school."
+  caption: "File photo of University City High School, a San Diego Unified high school. The district's 2026-27 calendar marks Nov. 23-27, 2026 and Dec. 21, 2026 to Jan. 4, 2027 as days with no school."
   credit: "Photo: Psanchez820 / Wikimedia Commons, edited"
   license:
     name: "CC BY-SA 4.0"
