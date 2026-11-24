@@ -1,9 +1,9 @@
 ---
-title: "DCPS Spring Break 2027: March 22-26, Last Day June 17"
-description: "District of Columbia Public Schools (DCPS) spring break 2027 is March 22-26; winter break is Dec. 21 to Jan. 1. Every no-school day, with 180 student days."
+title: "DCPS Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Last Day June 17"
+description: "District of Columbia Public Schools (DCPS) calendar 2026-27: winter break Dec. 21 to Jan. 1; spring break March 22-26; last day June 17. 180 student days."
 type: news
 publishedAt: "2026-11-04T08:41:00-05:00"
-updatedAt: "2026-11-04T08:41:00-05:00"
+updatedAt: "2026-11-23T19:25:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["dcps calendar 2026-27", "dc public schools calendar 2026-27", "dcps spring break 2027", "dcps winter break 2026", "dcps last day of school 2027"]
@@ -22,7 +22,7 @@ hero:
 summary:
   - "The District of Columbia Public Schools (DCPS) 2026-27 calendar starts Monday, Aug. 24, 2026 (Pre-K starts Thursday, Aug. 27) and ends for students Thursday, June 17, 2027."
   - "Students are off Monday, Dec. 21, 2026 through Friday, Jan. 1, 2027 and return Monday, Jan. 4; spring break is Monday, March 22 through Friday, March 26, 2027."
-  - "Students are off Wednesday to Friday of Thanksgiving week (Nov. 25-27), and Tuesday, Nov. 3 is Election Day with no school."
+  - "Students are off Wednesday to Friday of Thanksgiving week (Nov. 25-27): no school Wednesday and Friday, and Thursday, Nov. 26 is the Thanksgiving holiday."
   - "The calendar prints 180 student days and 193 teacher days, and lists June 22-23 as planned snow-day make-up days."
 faq:
   - q: "When does DCPS start school in 2026?"
@@ -36,7 +36,7 @@ faq:
   - q: "When is the last day of school for DCPS in 2027?"
     a: "Thursday, June 17, 2027 is the last day for students and the end of term. The last day for seniors is Friday, June 4."
   - q: "Are DCPS schools closed on Election Day?"
-    a: "Yes. Tuesday, Nov. 3, 2026 is marked no school for students or teachers. Monday, Nov. 2 is a half-day for records and wellness, with no school for students."
+    a: "Yes. Tuesday, Nov. 3, 2026 was marked no school for students or teachers. Monday, Nov. 2 was a half-day for records and wellness, with no school for students."
   - q: "Is DC Emancipation Day a holiday on the DCPS calendar?"
     a: "Yes. April 16, 2027, a Friday, is a holiday on the DCPS calendar. April 16 is DC Emancipation Day."
   - q: "What are the DCPS snow make-up days?"
@@ -117,7 +117,7 @@ downloads:
 draft: false
 ---
 
-**District of Columbia Public Schools (DCPS) students are off Monday, Dec. 21, 2026 through Friday, Jan. 1, 2027, and Monday, March 22 through Friday, March 26, 2027, and the last day for students is Thursday, June 17, 2027**, according to the district's "School Year 2026-27" calendar (English PDF). The first day was Monday, Aug. 24, 2026. The PDF prints 180 student days and 193 teacher days. The next day off is Wednesday, Nov. 11, Veterans Day.
+**District of Columbia Public Schools (DCPS) students are off Monday, Dec. 21, 2026 through Friday, Jan. 1, 2027, and Monday, March 22 through Friday, March 26, 2027, and the last day for students is Thursday, June 17, 2027**, according to the district's "School Year 2026-27" calendar (English PDF). The first day was Monday, Aug. 24, 2026. The PDF prints 180 student days and 193 teacher days. As of Nov. 23, 2026, the next no-school days are Wednesday, Nov. 25 (no school for students or teachers), Thursday, Nov. 26, Thanksgiving (holiday), and Friday, Nov. 27 (no school).
 
 DCPS posted the calendar on its [School Year 2026-2027 Calendar](https://dcps.dc.gov/page/school-year-2026-2027-calendar) page. The PDF file name carries the number 061126, but it prints no approval date, so we say only that the district posted it.
 
@@ -152,7 +152,7 @@ The PDF marks days with codes rather than names: Holiday (HOL), Parent Teacher C
 | April 16, 2027 | Friday | HOL | Holiday (DC Emancipation Day) |
 | May 14, 2027 | Friday | ***(W) | Wellness Day, No School for Students or Teachers |
 | May 31, 2027 | Monday | HOL | Holiday (Memorial Day) |
-| June 18, 2027 | Friday | HOL | Holiday (Juneteenth observed; June 19 is a Saturday) |
+| June 18, 2027 | Friday | HOL | Holiday (DCPS prints only HOL; Juneteenth, June 19, is a Saturday) |
 | June 21, 2027 | Monday | R/PD | Half-Day Records & Half-Day PD, no school for students |
 
 The free printable puts the student-facing days on one page, and the [printable school-year calendar](/printable-school-calendar.html) covers the whole year on paper.
@@ -163,7 +163,7 @@ The calendar has no single winter break label. It marks Monday, Dec. 21 as PD fo
 
 ## When is the DCPS spring break 2027?
 
-Spring break is Monday, March 22 through Friday, March 26, 2027, marked no school for students or teachers. That is five weekdays, and classes resume Monday, March 29 by our count. Good Friday, March 26, 2027, is in the PDF's list of religious observances, which it says are dates to avoid for events and are not days off unless coded. Mark the days on the [March 2027 calendar](/march-calendars.html).
+Spring break is Monday, March 22 through Friday, March 26, 2027, marked no school for students or teachers. That is five weekdays, and classes resume Monday, March 29 by our count. Good Friday, March 26, 2027, is in the PDF's list of religious observances, which it says are days when schools should refrain from scheduling special events on full-day observances. Mark the days on the [March 2027 calendar](/march-calendars.html).
 
 ## How does DCPS spring break compare with Maryland districts nearby?
 

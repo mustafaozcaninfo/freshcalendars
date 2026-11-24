@@ -3,7 +3,7 @@ title: "2027 Stat Holidays Canada: 10 Federal Holidays, Thanksgiving Oct. 11"
 description: "Canada's 2027 stat holidays are the 10 federal general holidays. Thanksgiving is Monday, Oct. 11. Every date and weekday, plus weekend rules."
 type: explainer
 publishedAt: "2026-10-19T11:08:00-04:00"
-updatedAt: "2026-11-03T06:42:00-05:00"
+updatedAt: "2026-11-23T19:25:00-05:00"
 authors: [christina-gerland]
 category: uk-canada
 keywords: ["Canada statutory holidays 2027", "Canada holidays 2027", "2027 stat holidays Canada", "Thanksgiving Canada 2027", "stat holidays 2027"]
@@ -32,8 +32,8 @@ faq:
   - q: "Is Easter Monday a statutory holiday in Canada?"
     a: "Not under the Canada Labour Code, whose list of general holidays does not include Easter Monday, the civic holiday or Family Day."
 sources:
-  - title: "General holidays (Canada Labour Code)"
-    url: "https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards/holidays.html"
+  - title: "General holidays (federal labour standards)"
+    url: "https://www.canada.ca/en/employment-social-development/services/labour-standards/reports/holidays.html"
     publisher: "Government of Canada"
   - title: "Vacations and holidays"
     url: "https://www.canada.ca/en/services/jobs/workplace/federal-labour-standards/vacations-holidays.html"
@@ -75,7 +75,7 @@ downloads:
 draft: false
 ---
 
-**Canada's 2027 stat holidays are the 10 general holidays listed in section 166 of the Canada Labour Code, the federal law for banks, airlines and other federally regulated employers.** Thanksgiving 2027 is Monday, Oct. 11, the second Monday of October. The year opens with New Year's Day on Friday, Jan. 1 and ends with Christmas Day on a Saturday and Boxing Day on a Sunday, which pushes the paid days onto nearby working days.
+**Canada's 2027 stat holidays are the 10 general holidays listed in section 166 of the Canada Labour Code, the federal law for banks, airlines and other federally regulated employers.** In the list of Canadian public holidays 2027, Thanksgiving falls on Monday, Oct. 11, the second Monday of October. The year opens with New Year's Day on Friday, Jan. 1 and ends with Christmas Day on a Saturday and Boxing Day on a Sunday, which pushes the paid days onto nearby working days.
 
 ## Canada's federal general holidays 2027
 
@@ -98,7 +98,7 @@ These apply to federally regulated employers such as banks, airlines, railways, 
 
 Thanksgiving Day 2027 falls on Monday, Oct. 11. October 1, 2027 is a Friday, so the second Monday is the 11th. Canada.ca has not posted its 2027 public holiday list yet; its current list gives Monday, Oct. 12 for 2026.
 
-Thanksgiving is a general holiday under the federal code, but provinces set their own lists. New Brunswick lists eight paid public holidays and says Thanksgiving Day is not among them. Nova Scotia lists six paid holidays (New Year's Day, Nova Scotia Heritage Day, Good Friday, Canada Day, Labour Day and Christmas Day) and treats Thanksgiving as a retail closing day. Check your own province's employment standards office.
+Thanksgiving is a general holiday under the federal code, but provinces set their own lists. New Brunswick lists eight paid public holidays, and Thanksgiving Day is not on the list. Nova Scotia lists six paid holidays (New Year's Day, Nova Scotia Heritage Day, Good Friday, Canada Day, Labour Day and Christmas Day) and treats Thanksgiving as a retail closing day. Check your own province's employment standards office.
 
 ## When a holiday falls on a weekend
 
@@ -108,7 +108,15 @@ For **New Year's Day, Canada Day, the National Day for Truth and Reconciliation,
 
 For the **other holidays**, a holiday that falls on a non-working day may be added to the employee's annual vacation or granted on another day by agreement. Under section 195, a substitute day needs a written agreement, such as a collective agreement, or the approval of the affected employees, with notice posted. None of those fall on a weekend in 2027, since Good Friday, Victoria Day, Labour Day and Thanksgiving are always on a Friday or a Monday.
 
-## Long weekends in 2027
+## Civic Holiday 2027 and the other long weekends
+
+| Holiday | Date | Federal general holiday? |
+|---|---|---|
+| Canada Day | Thursday, July 1, 2027 | Yes |
+| Civic Holiday (first Monday of August) | Monday, Aug. 2, 2027 | No |
+| Labour Day | Monday, Sept. 6, 2027 (long weekend Sept. 4-6) | Yes |
+
+The Civic Holiday is not on the Canada Labour Code's list of 10 general holidays in section 166, and provinces decide whether it is a paid holiday. The Canada Revenue Agency (CRA) public holidays page lists it for 2026 as "Civic Holiday – Monday, August 3, 2026 (excluding Quebec)". New Brunswick's own August holiday is New Brunswick Day, which is on its list of eight paid public holidays.
 
 Five federal holidays create three-day weekends: Good Friday (March 26-28), Victoria Day (May 22-24), Labour Day (Sept. 4-6), Thanksgiving (Oct. 9-11) and New Year's Day (Jan. 1-3). Canada Day, the National Day for Truth and Reconciliation and Remembrance Day all fall on a Thursday, so a single vacation day on the Friday turns each into a four-day weekend.
 
