@@ -107,7 +107,7 @@ assets:
 | Boston | Handel and Haydn Society | Fri., Nov. 27 to Sun., Nov. 29 | Not listed | Symphony Hall | Concert | Not listed |
 | Philadelphia | The Philadelphia Orchestra | Fri., Dec. 4 and Sat., Dec. 5 | Not listed | Marian Anderson Hall, Kimmel Center | Concert, with the Philadelphia Symphonic Choir | Not listed |
 | New York | Trinity Church Wall Street | Fri., Dec. 4 | 7 p.m. ET | Livestream on YouTube | Concert | Not listed |
-| Chicago | Chicago Symphony Orchestra | Thu., Dec. 17 to Sat., Dec. 19 | Thu. 7:30 p.m., Fri. 1:30 p.m., Sat. 7:30 p.m. CT | Symphony Center | Concert | $69.00+ (incl. fees) |
+| Chicago | Chicago Symphony Orchestra | Thu., Dec. 17 to Sat., Dec. 19 | Thu. 7:30 p.m., Fri. 1:30 p.m., Sat. 7:30 p.m. CT (8:30 p.m., 2:30 p.m., 8:30 p.m. ET) | Symphony Center | Concert | $69.00+ (incl. fees) |
 | Los Angeles | Los Angeles Master Chorale | Sun., Dec. 20 | 7 p.m. PT (10 p.m. ET) | Walt Disney Concert Hall | Sing-along | Ticketed, price not listed |
 
 ## Los Angeles Messiah sing-along at Walt Disney Concert Hall
@@ -126,7 +126,7 @@ The Philadelphia Orchestra lists "Dec 4 - Dec 5, 2026" at Marian Anderson Hall i
 
 Trinity Church Wall Street lists "Messiah" on Friday, Dec. 4, 2026, at 7 p.m. ET as a livestream on YouTube, with the Trinity Choir and Trinity Baroque Orchestra under conductor Nicholas McGegan. The page gives no price.
 
-In its 2026-27 season announcement of March 24, 2026, the Handel and Haydn Society lists Messiah at Symphony Hall in Boston on Nov. 27, 28 and 29, the Friday to Sunday after Thanksgiving. Times and prices were not in that announcement.
+In its 2026-27 season announcement of March 24, 2026, the Handel and Haydn Society lists Messiah at Symphony Hall in Boston on Nov. 27, Nov. 28 and Nov. 29, the Friday to Sunday after Thanksgiving. Times and prices were not in that announcement.
 
 ## Messiah dates not confirmed in Washington and London
 
