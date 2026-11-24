@@ -1,5 +1,5 @@
 ---
-title: "Army-Navy Game Kickoff Time 2026: 3 p.m. ET on CBS, Dec. 12"
+title: "Army-Navy Game 2026: Saturday, Dec. 12, 3 p.m. ET on CBS"
 description: "The Army-Navy Game 2026 kickoff is Saturday, Dec. 12 at 3 p.m. ET on CBS at MetLife Stadium. Times for every U.S. zone and overseas bases."
 type: explainer
 publishedAt: "2026-10-26T02:22:00-04:00"
@@ -120,7 +120,7 @@ Two sources give the date. Only one gives a kickoff.
 | Place | MetLife Stadium, East Rutherford, New Jersey | Army West Point Athletics |
 | Event window | Dec. 12, 3 to 7 p.m., East Rutherford, N.J. | U.S. Naval Academy (USNA) |
 
-The USNA Public Affairs Office lists the game as an event from 3 to 7 p.m. That is a window, not a stated kickoff. The 3 p.m. kickoff comes from Army's list.
+The USNA Public Affairs Office lists the game as an event from 3 to 7 p.m. That is a window, not a kickoff time. The 3 p.m. kickoff comes from Army's list.
 
 ## What time is the Army-Navy Game in each time zone?
 
