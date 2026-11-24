@@ -104,6 +104,46 @@
       "slug": "nocturne-apple-tv-release-date-episode-schedule-october-30",
       "changedAt": "2026-11-24",
       "what": "title: \"Nocturne Release Date: New Episodes Every Friday to Dec. 25\" → \"Nocturne Episode Release Dates: New Episodes Fridays to Dec. 25\"; table H2 now \"Nocturne episode release dates\"; episode 5 marked released, episode 6 (Nov. 27) next in description, lede, summary, FAQ, hero overlay and printable (episodes 6-10); Apple TV Press releases unchanged, tv.apple.com returned 400 so released status is "
+    },
+    {
+      "slug": "kfc-uk-christmas-menu-2026-gravymas",
+      "changedAt": "2026-11-24",
+      "what": "title unchanged; description to the brief's text; Gravymas prices now \"from\" prices"
+    },
+    {
+      "slug": "home-depot-black-friday-2026-sale-dates-november-5-25-store-hours",
+      "changedAt": "2026-11-24",
+      "what": "title: \"Home Depot Black Friday 2026: Sale Nov. 5 to 25, Open 6 a.m. Nov. 27\" → \"Home Depot Black Friday 2026: Open 6 a.m. Nov. 27, Closed Thanksgiving\"; lede opens with hours (measured on Bing too)"
+    },
+    {
+      "slug": "northside-isd-calendar-2026-27-breaks",
+      "changedAt": "2026-11-24",
+      "what": "title: \"Northside ISD Calendar 2026-27: Winter Break Dec. 21-Jan. 1\" → \"NISD Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Ends May 26\"; description, lede and first summary bullet lead with winter break"
+    },
+    {
+      "slug": "philadelphia-school-district-calendar-2026-27-holidays",
+      "changedAt": "2026-11-24",
+      "what": "title unchanged; closures H2 now \"SDP academic calendar 2026-27: every day off\"; lede now Nov. 25 then Thanksgiving Recess"
+    },
+    {
+      "slug": "lausd-calendar-2026-27-winter-break-spring-break",
+      "changedAt": "2026-11-24",
+      "what": "title unchanged; H2s now \"LAUSD winter (Christmas) break 2026\" and \"LAUSD spring break 2027\""
+    },
+    {
+      "slug": "army-navy-game-2026-date-kickoff-time-metlife-stadium-tv",
+      "changedAt": "2026-11-24",
+      "what": "title: \"Army-Navy Game Kickoff Time 2026: 3 p.m. ET on CBS, Dec. 12\" → \"Army-Navy Game 2026: Saturday, Dec. 12, 3 p.m. ET on CBS\" (Bing brief)"
+    },
+    {
+      "slug": "calendar-quarters-2027-q1-q4-dates-days",
+      "changedAt": "2026-11-24",
+      "what": "title unchanged; H2 \"When does the first quarter of 2027 end?\" added under the lede and FAQ \"When is Q1 2027?\""
+    },
+    {
+      "slug": "peak-ps5-price-crossplay-guide-2026",
+      "changedAt": "2026-11-24",
+      "what": "title unchanged; H2 \"Price by platform\" → \"How much is PEAK on PS5 and Xbox?\""
     }
   ]
 }
