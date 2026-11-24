@@ -1,8 +1,9 @@
 ---
-title: "Hawaii Public Schools Calendar 2026-27: Spring Break Mar. 15-19"
+title: "Hawaii DOE Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Ends May 27"
 description: "Hawaii State Department of Education (HIDOE) calendar 2026-27: spring break Mar. 15-19, Kuhio Day Mar. 29, last day May 27."
 type: explainer
 publishedAt: "2026-11-04T06:00:00-05:00"
+updatedAt: "2026-11-23T23:18:36-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["hawaii doe calendar 2026-27", "hawaii public schools calendar 2026-27", "hawaii spring break 2027", "hidoe calendar 2026-2027", "hawaii school winter break 2026"]
@@ -10,7 +11,7 @@ dateline: "Honolulu"
 hero:
   src: ../../../../assets/news/hawaii-public-schools-calendar-2026-27-breaks/hawaii-public-schools-calendar-2026-27-breaks.webp
   alt: "President William McKinley High School in Honolulu, a Hawaii public school, for the Hawaii public schools calendar 2026-27"
-  caption: "File photo of President William McKinley High School in Honolulu, a Hawaii State Department of Education high school. The calendar's next days off are Veterans' Day, Nov. 11, and Thanksgiving, Nov. 26-27, 2026."
+  caption: "File photo of President William McKinley High School in Honolulu, a Hawaii State Department of Education high school. Next days off: Thanksgiving, Nov. 26, a School Holiday Nov. 27, then winter break from Dec. 21."
   credit: "Photo: w_lemay / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 2.0"
@@ -97,7 +98,7 @@ downloads:
 draft: false
 ---
 
-**Hawaii State Department of Education (HIDOE) public schools have no school on Thursday, Nov. 26 and Friday, Nov. 27, 2026, from Dec. 21, 2026 to Jan. 1, 2027, and from Mar. 15-19, 2027**, by the department's 2026-2027 Official School Calendar. Students finish Thursday, May 27, 2027. Fall break (Oct. 5-9) and Election Day (Nov. 3) are done, so Veterans' Day on Nov. 11 is the next day off, then Thanksgiving.
+**The Hawaii State Department of Education (HIDOE) calendar, the Hawaii Department of Education (DOE) calendar most families look up, shows no school on Thursday, Nov. 26 and Friday, Nov. 27, 2026, from Dec. 21, 2026 to Jan. 1, 2027, and from Mar. 15-19, 2027**, by the department's 2026-2027 Official School Calendar. Students finish Thursday, May 27, 2027. Fall break (Oct. 5-9), Election Day (Nov. 3) and Veterans' Day (Nov. 11) have passed, so the next days off are Thanksgiving on Thursday, Nov. 26 and the School Holiday on Friday, Nov. 27, then winter break from Dec. 21, 2026 to Jan. 1, 2027. Students return Tuesday, Jan. 5, 2027; Jan. 4 is a teacher workday.
 
 The department's School Calendar page says "These calendars apply to all public schools in Hawaiʻi—except for Holomua Elementary (which is a multi-track campus) and charter schools." The PDF footer reads "Approved June 1, 2023; Amended on March 30, 2026." It does not say why it was amended.
 

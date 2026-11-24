@@ -1,8 +1,9 @@
 ---
-title: "Denver Public Schools Calendar 2026-27: Last Day Is June 4"
+title: "DPS Calendar 2026-27: Denver Winter Break Dec. 21-Jan. 1, Ends June 4"
 description: "Denver Public Schools (DPS) has no classes Nov. 23-27 and Dec. 21 to Jan. 1; spring break is March 29 to April 2. Weekdays off and student return dates."
 type: explainer
 publishedAt: "2026-11-03T20:35:00-05:00"
+updatedAt: "2026-11-23T23:20:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["dps calendar 2026-27", "denver public schools calendar 2026-2027", "dps spring break 2027", "denver public schools thanksgiving break 2026", "dps last day of school 2027"]
@@ -21,7 +22,7 @@ hero:
 summary:
   - "The Denver Public Schools (DPS) 2026-27 calendar marks no classes from Monday, Nov. 23 to Friday, Nov. 27, 2026, for Thanksgiving week."
   - "Winter break runs Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, and Monday, Jan. 4 is a planning day, so students return Tuesday, Jan. 5."
-  - "Spring break is Monday, March 29 to Friday, April 2, 2027, and Cesar Chavez Day on March 31 falls inside it."
+  - "Spring break is Monday, March 29 to Friday, April 2, 2027, and students return Monday, April 5."
   - "The last day of school is Friday, June 4, 2027, with an early release in the first half of the day. The district lists 174.5 student contact days."
 faq:
   - q: "When is Thanksgiving break for Denver Public Schools in 2026?"
@@ -29,7 +30,7 @@ faq:
   - q: "When does DPS winter break start in 2026?"
     a: "No classes start Monday, Dec. 21, 2026 and run through Friday, Jan. 1, 2027. Monday, Jan. 4 is a planning day, so students return Tuesday, Jan. 5."
   - q: "When is DPS spring break in 2027?"
-    a: "The district's calendar marks Monday, March 29 to Friday, April 2, 2027 as no classes. Students return Monday, April 5. Cesar Chavez Day, Wednesday, March 31, is inside that week."
+    a: "The district's calendar marks Monday, March 29 to Friday, April 2, 2027 as no classes. Students return Monday, April 5."
   - q: "When is the last day of school for Denver Public Schools in 2027?"
     a: "Friday, June 4, 2027. The calendar key says the first half of that day is an early release and the second half is a planning day."
   - q: "When is the first day of school in DPS in 2026?"
@@ -37,11 +38,12 @@ faq:
   - q: "Do all Denver schools follow this calendar?"
     a: "No. The Swigert-McCandless Community of Excellence (SKCEE) says on its own page that its school has extra planning days and different first and last days. Check your school's calendar."
   - q: "Is the list of planning days final?"
-    a: "Not yet. The PDF says, \"The full list of Planning and Professional Learning Days will be available soon.\" Dates could still change."
+    a: "The revised calendar says, \"The full list of Planning and Professional Learning Days are available here,\" and links the list. Check with your school."
 sources:
   - title: "School Year Calendar 2026-27"
-    url: "https://skcee.dpsk12.org/wp-content/uploads/sites/95/DPS-Calendar-2026-27_ENGLISH.pdf"
+    url: "https://files-backend.assets.thrillshare.com/documents/asset/uploaded_file/4086/Dps/7213239b-4f99-4fa5-be53-886b3b5158f2/DPS-Calendar-2026-27_ENGLISH.pdf"
     publisher: "Denver Public Schools"
+    date: "2026-06-16"
   - title: "DPS School Calendar"
     url: "https://skcee.dpsk12.org/resources/dps-school-calendar/"
     publisher: "Swigert-McCandless Community of Excellence (SKCEE), Denver Public Schools"
@@ -66,7 +68,7 @@ assets:
     group: denver-public-schools-2026-27
     title: "Denver Public Schools Calendar 2026-27"
     subtitle: "Breaks, holidays and planning days, Denver Public Schools"
-    note: "Source: Denver Public Schools, School Year Calendar 2026-27. The full list of planning days will be available soon; some schools set their own."
+    note: "Source: Denver Public Schools, School Year Calendar 2026-27. Some schools set their own."
     description: "Denver Public Schools 2026-27 breaks, holidays, planning days, first day and last day on one printable page."
     alt: "Denver Public Schools 2026-27 printable school-year calendar with breaks, holidays and the first and last day"
     data:
@@ -87,8 +89,6 @@ assets:
         - { from: "2027-04-30", kind: holiday, label: "Planning day", src: 2, quote: "Friday, April 30" }
         - { from: "2027-05-31", kind: holiday, label: "Memorial Day", src: 1, quote: "Memorial Day - May 31" }
         - { from: "2027-06-04", kind: last, label: "Last day, early release", src: 1 }
-      unconfirmed:
-        - { label: "Full list of planning and professional learning days", why: "The district says it \"will be available soon\"" }
       family:
         - "Conferences"
         - "Picture day"
@@ -124,13 +124,13 @@ Counting the weekends on both sides, Thanksgiving week is 9 days away from class
 
 Winter break ends Friday, Jan. 1, but students do not return Monday, Jan. 4. The district's calendar marks Jan. 4, 2027 as a planning and professional learning day. A DPS school page, the Swigert-McCandless Community of Excellence (SKCEE) "DPS School Calendar," also lists "Monday, January 4" under non-student contact days. The first class day is Tuesday, Jan. 5, 2027.
 
-## Is Cesar Chavez Day part of spring break?
+## DPS spring break 2027: March 29 to April 2
 
-Yes, this year. The holiday list reads "Cesar Chavez Day - March 31," and March 31, 2027 is a Wednesday. The district's calendar marks March 29-30 and April 1-2 as vacation, so the holiday sits in the middle of the week and adds no extra day off. Students are back Monday, April 5. For other districts' spring weeks, see our [spring break 2027 roundup](/news/spring-break-2027-dates-school-districts/).
+Spring break is Monday, March 29 to Friday, April 2, 2027, by the district's calendar, and students are back Monday, April 5. March 31, a Wednesday, is a no-class day inside the week. The revised calendar's holiday list no longer names Cesar Chavez Day. For other districts' spring weeks, see our [spring break 2027 roundup](/news/spring-break-2027-dates-school-districts/).
 
 ## Which DPS days are off for students?
 
-The district's holiday list gives eight dates. The weekdays and the planning days below are from the grid and the SKCEE page.
+The district's holiday list gives seven dates. The weekdays and the planning days below are from the grid and the SKCEE page.
 
 | Date | Weekday | What the calendar lists |
 |---|---|---|
@@ -138,16 +138,16 @@ The district's holiday list gives eight dates. The weekdays and the planning day
 | Sept. 7, 2026 | Monday | Labor Day (past) |
 | Oct. 30, 2026 | Friday | Planning day (past) |
 | Nov. 23-27, 2026 | Monday-Friday | Thanksgiving break; Thanksgiving Day is Nov. 26 |
-| Dec. 21, 2026 to Jan. 1, 2027 | Monday-Friday | Winter break; Dec. 25 and Jan. 1 are on the holiday list |
+| Dec. 21, 2026 to Jan. 1, 2027 | Monday-Friday | Winter break; New Year's Day, Jan. 1 is on the holiday list |
 | Jan. 4, 2027 | Monday | Planning day |
 | Jan. 18, 2027 | Monday | Dr. Martin Luther King, Jr. Day |
 | Feb. 15, 2027 | Monday | President's Day, as the list prints it |
 | Feb. 26, 2027 | Friday | Planning day |
-| March 29 to April 2, 2027 | Monday-Friday | Spring break; Cesar Chavez Day is March 31 |
+| March 29 to April 2, 2027 | Monday-Friday | Spring break |
 | April 30, 2027 | Friday | Planning day |
 | May 31, 2027 | Monday | Memorial Day |
 
-Juneteenth is on the list as "June 19 (observed June 18)," after the school year ends. The PDF also says: "The full list of Planning and Professional Learning Days will be available soon." Treat the planning days as subject to change. A school notice from Valdez Elementary dated May 31, 2026 said "DPS will shift the professional learning day from Sept. 21 to Sept. 28," and the SKCEE page lists Sept. 28. Both dates are past.
+Juneteenth is on the list as "June 19 (observed June 18)," after the school year ends. The revised PDF says: "The full list of Planning and Professional Learning Days are available here," and links the list. Check your school for changes. A school notice from Valdez Elementary dated May 31, 2026 said "DPS will shift the professional learning day from Sept. 21 to Sept. 28," and the SKCEE page lists Sept. 28. The revised district PDF also moves the planning day to Sept. 28. Both dates are past.
 
 The calendar also marks Monday, Oct. 12 as a conference day. The key does not say conference days are no classes, so check your school.
 
