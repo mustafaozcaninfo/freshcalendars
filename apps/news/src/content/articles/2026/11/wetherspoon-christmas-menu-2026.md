@@ -102,7 +102,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, toby-carvery-christmas-menu-2026, kfc-uk-christmas-menu-2026-gravymas]
+related: [uk-christmas-menus-2026-greggs-costa-starbucks-kfc, toby-carvery-christmas-menu-2026, ember-inns-christmas-menu-2026]
 downloads:
   - group: "Wetherspoon Christmas Menu 2026 printables"
     title: "Wetherspoon Christmas Menu 2026: Dishes and Dates"
