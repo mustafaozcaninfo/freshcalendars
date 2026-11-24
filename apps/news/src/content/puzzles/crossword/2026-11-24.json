@@ -1,0 +1,1162 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-24",
+ "constructors": [
+  "Karen Lurie and Peter Gwinn"
+ ],
+ "width": 15,
+ "height": 15,
+ "cells": [
+  "T",
+  "A",
+  "M",
+  "P",
+  "A",
+  null,
+  "A",
+  "C",
+  "R",
+  "E",
+  null,
+  "S",
+  "H",
+  "O",
+  "W",
+  "A",
+  "W",
+  "A",
+  "I",
+  "T",
+  null,
+  "P",
+  "R",
+  "O",
+  "M",
+  null,
+  "T",
+  "U",
+  "N",
+  "E",
+  "L",
+  "O",
+  "T",
+  "T",
+  "O",
+  null,
+  "R",
+  "I",
+  "L",
+  "E",
+  null,
+  "A",
+  "G",
+  "E",
+  "D",
+  "C",
+  "L",
+  "E",
+  "A",
+  "N",
+  "S",
+  "O",
+  "B",
+  "E",
+  "R",
+  "L",
+  "Y",
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  "S",
+  "E",
+  "W",
+  "N",
+  null,
+  "P",
+  "S",
+  "A",
+  null,
+  "D",
+  "E",
+  "B",
+  "S",
+  "E",
+  "C",
+  null,
+  "F",
+  "A",
+  "S",
+  "T",
+  "L",
+  "O",
+  "O",
+  "S",
+  "E",
+  "L",
+  "Y",
+  "T",
+  "E",
+  "A",
+  "P",
+  "O",
+  "T",
+  null,
+  "R",
+  "A",
+  "N",
+  null,
+  "A",
+  "S",
+  "A",
+  "P",
+  "E",
+  "R",
+  "R",
+  "O",
+  "R",
+  null,
+  "R",
+  "O",
+  "Y",
+  null,
+  "A",
+  "G",
+  "I",
+  "T",
+  "A",
+  "L",
+  "I",
+  "A",
+  "R",
+  null,
+  "R",
+  "A",
+  "T",
+  null,
+  "S",
+  "N",
+  "A",
+  "R",
+  "E",
+  "S",
+  "L",
+  "E",
+  "F",
+  "T",
+  "R",
+  "I",
+  "G",
+  "H",
+  "T",
+  "L",
+  "Y",
+  null,
+  "E",
+  "D",
+  "S",
+  "A",
+  "R",
+  "E",
+  null,
+  "A",
+  "C",
+  "E",
+  null,
+  "V",
+  "O",
+  "L",
+  "T",
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  "S",
+  "H",
+  "O",
+  "R",
+  "T",
+  "S",
+  "W",
+  "E",
+  "E",
+  "T",
+  "L",
+  "Y",
+  "C",
+  "A",
+  "S",
+  "E",
+  null,
+  "T",
+  "O",
+  "R",
+  "E",
+  null,
+  "A",
+  "T",
+  "R",
+  "I",
+  "A",
+  "O",
+  "P",
+  "E",
+  "N",
+  null,
+  "T",
+  "O",
+  "A",
+  "T",
+  null,
+  "D",
+  "R",
+  "E",
+  "C",
+  "K",
+  "B",
+  "E",
+  "A",
+  "T",
+  null,
+  "A",
+  "M",
+  "P",
+  "S",
+  null,
+  "S",
+  "A",
+  "K",
+  "E",
+  "S"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Florida's \"Big Guava\"",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "6",
+   "text": "Farm unit",
+   "cells": [
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Theater production",
+   "cells": [
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Stand by for",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Spring limo destination, maybe",
+   "cells": [
+    21,
+    22,
+    23,
+    24
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Something to whistle",
+   "cells": [
+    26,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Bingo cousin",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "Provoke",
+   "cells": [
+    36,
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Like many good wines and cheeses",
+   "cells": [
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Adopt a humorless approach to vacuuming?",
+   "cells": [
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    53,
+    54,
+    55,
+    56
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Embroidered, say",
+   "cells": [
+    63,
+    64,
+    65,
+    66
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "\"The More You Know\" ad, e.g., in brief",
+   "cells": [
+    68,
+    69,
+    70
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "25",
+   "text": "___ Haaland, first Native American cabinet secretary",
+   "cells": [
+    72,
+    73,
+    74
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "\"Hold on a ___!\"",
+   "cells": [
+    75,
+    76,
+    77
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "31",
+   "text": "Try to lose weight quickly, but only when you feel like it?",
+   "cells": [
+    79,
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Vessel with a handle and a spout",
+   "cells": [
+    90,
+    91,
+    92,
+    93,
+    94,
+    95
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "36",
+   "text": "Took off",
+   "cells": [
+    97,
+    98,
+    99
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "37",
+   "text": "\"I mean now!\"",
+   "cells": [
+    101,
+    102,
+    103,
+    104
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "38",
+   "text": "Slip",
+   "cells": [
+    105,
+    106,
+    107,
+    108,
+    109
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "39",
+   "text": "\"Have I Got News for You\" host ___ Wood Jr.",
+   "cells": [
+    111,
+    112,
+    113
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "40",
+   "text": "Gut reaction?",
+   "cells": [
+    115,
+    116,
+    117,
+    118,
+    119
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "41",
+   "text": "\"Not true!\"",
+   "cells": [
+    120,
+    121,
+    122,
+    123
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "42",
+   "text": "Subway scurrier",
+   "cells": [
+    125,
+    126,
+    127
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "43",
+   "text": "Catches",
+   "cells": [
+    129,
+    130,
+    131,
+    132,
+    133,
+    134
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "44",
+   "text": "Departed after filling out the proper paperwork?",
+   "cells": [
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141,
+    142,
+    143,
+    144,
+    145
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "47",
+   "text": "Masthead VIPs",
+   "cells": [
+    147,
+    148,
+    149
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "48",
+   "text": "Verb for you?",
+   "cells": [
+    150,
+    151,
+    152
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "49",
+   "text": "Master",
+   "cells": [
+    154,
+    155,
+    156
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "50",
+   "text": "Electrical unit",
+   "cells": [
+    158,
+    159,
+    160,
+    161
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "52",
+   "text": "Underpay, but with a nice smile?",
+   "cells": [
+    168,
+    169,
+    170,
+    171,
+    172,
+    173,
+    174,
+    175,
+    176,
+    177,
+    178,
+    179
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "57",
+   "text": "Size up, as a joint",
+   "cells": [
+    180,
+    181,
+    182,
+    183
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "60",
+   "text": "Went like mad",
+   "cells": [
+    185,
+    186,
+    187,
+    188
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "61",
+   "text": "Skylit courtyards",
+   "cells": [
+    190,
+    191,
+    192,
+    193,
+    194
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "62",
+   "text": "Like a courtyard",
+   "cells": [
+    195,
+    196,
+    197,
+    198
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "63",
+   "text": "Perfectly",
+   "cells": [
+    200,
+    201,
+    202,
+    203
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "64",
+   "text": "Schlock",
+   "cells": [
+    205,
+    206,
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "65",
+   "text": "Journalist's area of coverage",
+   "cells": [
+    210,
+    211,
+    212,
+    213
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "66",
+   "text": "Fires (up)",
+   "cells": [
+    215,
+    216,
+    217,
+    218
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "67",
+   "text": "Sushi bar brews",
+   "cells": [
+    220,
+    221,
+    222,
+    223,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Softest Mohs scale mineral",
+   "cells": [
+    0,
+    15,
+    30,
+    45
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Base-less?",
+   "cells": [
+    1,
+    16,
+    31,
+    46
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "To whom one might say \"G'day\"",
+   "cells": [
+    2,
+    17,
+    32,
+    47
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Pocket breads",
+   "cells": [
+    3,
+    18,
+    33,
+    48,
+    63
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Set right, in a way",
+   "cells": [
+    4,
+    19,
+    34,
+    49,
+    64,
+    79,
+    94,
+    109
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Bakers' protectors",
+   "cells": [
+    6,
+    21,
+    36,
+    51,
+    66,
+    81
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Bed with bars",
+   "cells": [
+    7,
+    22,
+    37,
+    52
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Participate in a Dungeons & Dragons game, say",
+   "cells": [
+    8,
+    23,
+    38,
+    53,
+    68,
+    83,
+    98,
+    113
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "\"Self-Reliance\" essayist",
+   "cells": [
+    9,
+    24,
+    39,
+    54,
+    69,
+    84,
+    99
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Command to a dog",
+   "cells": [
+    11,
+    26,
+    41,
+    56
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "___ it out (make peace)",
+   "cells": [
+    12,
+    27,
+    42
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "First digit in the White House's address",
+   "cells": [
+    13,
+    28,
+    43
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Unite",
+   "cells": [
+    14,
+    29,
+    44
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "2017-25 CBS police procedural",
+   "cells": [
+    50,
+    65,
+    80,
+    95
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "Southeast Asian language",
+   "cells": [
+    55,
+    70,
+    85
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Crave",
+   "cells": [
+    72,
+    87,
+    102,
+    117,
+    132,
+    147
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "Over the moon",
+   "cells": [
+    73,
+    88,
+    103,
+    118,
+    133,
+    148
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "27",
+   "text": "Way around town?",
+   "cells": [
+    74,
+    89,
+    104,
+    119,
+    134,
+    149
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "Fashion's McCartney",
+   "cells": [
+    75,
+    90,
+    105,
+    120,
+    135,
+    150
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "29",
+   "text": "More likely to cause goose bumps",
+   "cells": [
+    76,
+    91,
+    106,
+    121,
+    136,
+    151
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "30",
+   "text": "Order at a wine bar",
+   "cells": [
+    77,
+    92,
+    107,
+    122,
+    137,
+    152
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "\"By my ___, sweet lord, thou hast a fine forehead\": \"Troilus and Cressida\"",
+   "cells": [
+    82,
+    97,
+    112,
+    127,
+    142
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "33",
+   "text": "Story with many chapters",
+   "cells": [
+    86,
+    101,
+    116,
+    131
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "35",
+   "text": "City with wharves",
+   "cells": [
+    93,
+    108,
+    123,
+    138
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "39",
+   "text": "Place to let out one's emotions",
+   "cells": [
+    111,
+    126,
+    141,
+    156,
+    171,
+    186,
+    201,
+    216
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "40",
+   "text": "\"How's the investigation going?\"",
+   "cells": [
+    115,
+    130,
+    145,
+    160,
+    175,
+    190,
+    205,
+    220
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "42",
+   "text": "Common ravioli filling",
+   "cells": [
+    125,
+    140,
+    155,
+    170,
+    185,
+    200,
+    215
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "43",
+   "text": "Snail-like",
+   "cells": [
+    129,
+    144,
+    159,
+    174
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "45",
+   "text": "Cheerleader's cheer",
+   "cells": [
+    139,
+    154,
+    169
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "46",
+   "text": "What remotes are often aimed at",
+   "cells": [
+    143,
+    158,
+    173,
+    188,
+    203,
+    218
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "51",
+   "text": "Neon fish",
+   "cells": [
+    161,
+    176,
+    191,
+    206,
+    221
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "52",
+   "text": "On the way",
+   "cells": [
+    168,
+    183,
+    198,
+    213
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "53",
+   "text": "Kind of door in the floor",
+   "cells": [
+    172,
+    187,
+    202,
+    217
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "54",
+   "text": "Long haul",
+   "cells": [
+    177,
+    192,
+    207,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "55",
+   "text": "Head scratchers?",
+   "cells": [
+    178,
+    193,
+    208,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "56",
+   "text": "Talks and talks",
+   "cells": [
+    179,
+    194,
+    209,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "57",
+   "text": "Inner ear?",
+   "cells": [
+    180,
+    195,
+    210
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "58",
+   "text": "A gorilla is a \"great\" one",
+   "cells": [
+    181,
+    196,
+    211
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "59",
+   "text": "Red or Dead follower",
+   "cells": [
+    182,
+    197,
+    212
+   ]
+  }
+ ]
+}
