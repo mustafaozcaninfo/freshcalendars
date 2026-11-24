@@ -121,7 +121,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [black-friday-2026-store-hours-walmart-target-best-buy, santa-at-the-mall-2026-arrival-dates-simon-malls, small-business-saturday-2026-participating-stores-events]
+related: [black-friday-2026-store-hours-walmart-target-best-buy, santa-at-the-mall-2026-arrival-dates-simon-malls, is-tj-maxx-open-thanksgiving-2026-marshalls-homegoods-hours]
 downloads:
   - group: "Simon Mall Hours 2026 printables"
     title: "Simon Mall Hours 2026: Thanksgiving, Black Friday, Christmas Eve"
