@@ -110,7 +110,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day 2026?"
-related: [nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, ice-skating-rinks-2026-27-opening-dates-bryant-park-wollman-chicago-la-london, national-christmas-tree-lighting-2026-ticket-lottery-october-28]
+related: [nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, ice-skating-rinks-2026-27-opening-dates-bryant-park-wollman-chicago-la-london, new-on-peacock-december-2026-release-dates]
 downloads:
   - group: "Rockefeller Tree Lighting 2026 Watch Guide printables"
     title: "Rockefeller Tree Lighting 2026 Watch Guide"
