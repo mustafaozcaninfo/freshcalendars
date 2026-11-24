@@ -1,5 +1,6 @@
 ---
-title: "Ramadan 2027 Date: Expected Feb. 8, Suhoor and Iftar Times"
+title: "Ramadan 2027 Calendar: Expected Feb. 8 Start, Suhoor and Iftar Times"
+updatedAt: "2026-11-23T19:25:00-05:00"
 description: "Ramadan 2027 is expected to start Monday, Feb. 8 and end with Eid al-Fitr on Tuesday, March 9. Day-by-day dates, New York iftar times, four printables."
 type: explainer
 publishedAt: "2026-10-18T11:30:00-04:00"
@@ -92,7 +93,7 @@ downloads:
 draft: false
 ---
 
-**Ramadan 2027 is expected to begin on Monday, Feb. 8, 2027** and to last 29 days, ending with Eid al-Fitr on **Tuesday, March 9**. The first taraweeh prayer is on the evening of Sunday, Feb. 7. Those dates come from the Fiqh Council of North America (FCNA) calculated calendar and match Saudi Arabia's Umm al-Qura calendar. Mosques that wait for a local moon sighting announce their own dates and may celebrate Eid on March 10.
+**Ramadan 2027 is expected to start on Monday, Feb. 8, 2027**, and to last 29 days, ending with Eid al-Fitr on **Tuesday, March 9**. The first taraweeh prayer is on the evening of Sunday, Feb. 7. Those dates come from the Fiqh Council of North America (FCNA) calculated calendar and match Saudi Arabia's Umm al-Qura calendar. Mosques that wait for a local moon sighting announce their own dates and may celebrate Eid on March 10.
 
 ## Ramadan 2027 at a glance
 
@@ -114,7 +115,7 @@ The new moon that ends Sha'ban arrives on Saturday, Feb. 6, 2027, the same day a
 
 At least one calendar site lists Feb. 7 as the start. Treat that as a misreading of the night: the first taraweeh is on Feb. 7, but the first fast is Feb. 8.
 
-## Ramadan 2027 calendar, day by day
+## Ramadan 2027 calendar for U.S. cities
 
 | Ramadan | Date | Note |
 |---|---|---|
