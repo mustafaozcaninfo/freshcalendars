@@ -1,0 +1,38 @@
+{
+ "center_letter": "r",
+ "outer_letters": "cfimou",
+ "pangrams": [
+  "cruciform"
+ ],
+ "answers": [
+  "cirri",
+  "coir",
+  "croc",
+  "croci",
+  "curio",
+  "curium",
+  "firm",
+  "form",
+  "formic",
+  "forum",
+  "four",
+  "from",
+  "froufrou",
+  "furor",
+  "micro",
+  "microform",
+  "mirror",
+  "moor",
+  "morocco",
+  "murmur",
+  "occur",
+  "riff",
+  "rococo",
+  "romcom",
+  "roof",
+  "room",
+  "ruff",
+  "rumor",
+  "uric"
+ ]
+}
