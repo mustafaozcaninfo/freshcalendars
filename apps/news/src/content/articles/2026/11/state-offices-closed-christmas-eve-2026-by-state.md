@@ -1,8 +1,9 @@
 ---
 title: "State Offices Closed Christmas Eve 2026: Dec. 24 by State"
-description: "Six of eight states we checked close state offices on Thursday, Dec. 24, 2026. North Carolina's break runs five days in a row. Each state's own wording."
+description: "Seven of nine states we checked close state offices on Thursday, Dec. 24, 2026. North Carolina's break runs five days in a row. Each state's own wording."
 type: news
 publishedAt: "2026-11-06T06:00:00-05:00"
+updatedAt: "2026-11-24T11:20:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["are state offices closed christmas eve 2026", "is christmas eve a state holiday 2026", "state holidays christmas eve 2026", "state employee holidays december 2026"]
@@ -10,14 +11,14 @@ assets:
   overlay: true
   kicker: "State offices · Thu., Dec. 24, 2026"
   date: "2026-12-24"
-  card: { top: "States we read that close Dec. 24", big: "6 of 8", bottom: "Kentucky, North Carolina, Texas, Georgia, Indiana, Arkansas" }
+  card: { top: "States we read that close Dec. 24", big: "7 of 9", bottom: "Kentucky, North Carolina, Texas, Georgia, Indiana, Arkansas, Florida" }
   printable:
     kit: holiday-planner
     slug: state-offices-christmas-eve-2026-check
     group: christmas-2026
     title: "State Offices on Christmas Eve 2026: Closed or Open by State"
     subtitle: "Thursday, Dec. 24, 2026, from each state's own holiday page"
-    note: "Source: each state's own 2026 holiday page (Kentucky, North Carolina, Texas, Georgia, Indiana, Arkansas, New York, Maryland), read Nov. 6, 2026; U.S. Office of Personnel Management (OPM)."
+    note: "Source: each state's own 2026 holiday page (Kentucky, North Carolina, Texas, Georgia, Indiana, Arkansas, Florida, New York, Maryland), read Nov. 6 and Nov. 24, 2026; U.S. Office of Personnel Management (OPM)."
     description: "One-page check of which states close state offices on Christmas Eve, Thursday, Dec. 24, 2026, and which do not list it, with the states we could not confirm."
     alt: "Printable sheet of state office status on Christmas Eve 2026, by state"
     data:
@@ -29,6 +30,7 @@ assets:
         - { name: "Georgia", status: closed, detail: "Washington's Birthday observed on Thursday, Dec. 24", src: 4, quote: "Washington's Birthday: Monday, February 16 - will be observed Thursday, December 24" }
         - { name: "Indiana", status: closed, detail: "Washington's Birthday listed on Thursday, Dec. 24", src: 5, quote: "Washington's Birthday" }
         - { name: "Arkansas", status: closed, detail: "Christmas Eve, 12/24/26", src: 6, quote: "12/24/26 | Christmas Eve" }
+        - { name: "Florida", status: closed, detail: "Dec. 24 in the governor's added closures (also Nov. 25, Dec. 23, Dec. 31)", src: 11, quote: "state offices will be closed on November 25, December 23, December 24, and December 31" }
         - { name: "New York", status: open, detail: "List names Christmas Day, Friday, Dec. 25, only", src: 8, quote: "Christmas Day" }
         - { name: "Maryland", status: open, detail: "List names Christmas Day, Friday, Dec. 25, only", src: 9, quote: "Christmas Day: Friday December 25" }
         - { name: "Federal offices", status: open, detail: "Dec. 24 is not a federal holiday; Dec. 25 is", src: 10, quote: "Friday, December 25: Christmas Day" }
@@ -36,8 +38,8 @@ assets:
         - { daysBefore: 14, task: "Check your agency's human resources page or union contract" }
         - { daysBefore: 0, task: "Offices on the closed list are shut; check your own state" }
       unconfirmed:
-        - { label: "Michigan, South Carolina, Virginia, Tennessee, Pennsylvania", why: "Not read on the state's own page as of Nov. 6, 2026" }
-        - { label: "Louisiana, Florida, Wisconsin, Ohio and other states", why: "Not confirmed on the state's own page as of Nov. 6, 2026" }
+        - { label: "Michigan, South Carolina, Virginia, Tennessee, Pennsylvania", why: "Not read on the state's own page as of Nov. 24, 2026" }
+        - { label: "Louisiana, Wisconsin, Ohio and other states", why: "Not confirmed on the state's own page as of Nov. 24, 2026" }
 hero:
   src: ../../../../assets/news/state-offices-closed-christmas-eve-2026-by-state/state-offices-closed-christmas-eve-2026-by-state.webp
   alt: "Christmas tree in the Wisconsin State Capitol rotunda, a file photo for state offices closed on Christmas Eve 2026"
@@ -50,44 +52,44 @@ hero:
     author: "Corey Coyle"
     authorUrl: "https://web.archive.org/web/20161102072258/http://www.panoramio.com/user/2184098?with_photo_id=126600221"
 summary:
-  - "Of the eight states whose 2026 lists we read, six close state offices on Thursday, Dec. 24, 2026: Kentucky, North Carolina, Texas, Georgia, Indiana and Arkansas."
+  - "Of the nine states whose 2026 pages we read, seven close state offices on Thursday, Dec. 24, 2026: Kentucky, North Carolina, Texas, Georgia, Indiana, Arkansas and Florida."
   - "New York and Maryland list only Christmas Day, Friday, Dec. 25; Dec. 24 is not a federal holiday on the U.S. Office of Personnel Management (OPM) list."
   - "Georgia and Indiana put Washington's Birthday on Dec. 24, so the day off is not called Christmas Eve on their lists."
   - "North Carolina lists Dec. 24, 25 and 28, which with the weekend is five days in a row; Kentucky's Dec. 24-25 gives four."
 faq:
   - q: "Is Christmas Eve a state holiday in 2026?"
-    a: "In six of the eight states we read, yes: Kentucky, North Carolina, Texas, Georgia, Indiana and Arkansas list Thursday, Dec. 24, 2026. New York and Maryland do not."
+    a: "In seven of the nine states we read, yes: Kentucky, North Carolina, Texas, Georgia, Indiana and Arkansas list Thursday, Dec. 24, 2026, and Florida's governor added it as a closure. New York and Maryland do not."
   - q: "Is Christmas Eve a federal holiday in 2026?"
     a: "No. The U.S. Office of Personnel Management (OPM) lists Christmas Day, Friday, Dec. 25. As of Nov. 6, 2026, we found no 2026 order closing federal offices on Dec. 24."
   - q: "What does the Texas skeleton crew rule mean?"
     a: "The Texas Comptroller says a state agency must have enough state employees on duty to conduct business during the skeleton crew holidays on its list. The page does not say which agencies stay open."
   - q: "Is my state on the list?"
-    a: "If it is not in the tables, we did not confirm it on the state's own page as of Nov. 6, 2026. Check with your agency's human resources office or your union contract."
+    a: "If it is not in the tables, we did not confirm it on the state's own page as of Nov. 24, 2026. Check with your agency's human resources office or your union contract."
 sources:
   - title: "Holidays and Leave"
     url: "https://extranet.personnel.ky.gov/Pages/Leave.aspx"
     publisher: "Kentucky Personnel Cabinet"
-    date: "2026-11-06"
+    date: "2026-11-24"
   - title: "Holidays"
     url: "https://oshr.nc.gov/state-employee-resources/benefits/leave/holidays"
     publisher: "North Carolina Office of State Human Resources"
-    date: "2026-11-06"
+    date: "2026-11-24"
   - title: "State of Texas Holiday Schedule - Fiscal 2027"
     url: "https://comptroller.texas.gov/about/holidays.php"
     publisher: "Texas Comptroller of Public Accounts"
-    date: "2026-11-06"
+    date: "2026-11-24"
   - title: "Georgia State Holidays 2026"
     url: "https://georgia.gov/georgia-state-holidays-2026"
     publisher: "State of Georgia"
-    date: "2026-11-06"
+    date: "2026-11-24"
   - title: "Benefits: State Holidays"
     url: "https://www.in.gov/spd/benefits/state-holidays/"
     publisher: "Indiana State Personnel Department"
-    date: "2026-11-06"
+    date: "2026-11-24"
   - title: "State Holiday Information"
     url: "https://www.sos.arkansas.gov/about-the-office/news/state-holiday-calendar/"
     publisher: "Arkansas Secretary of State"
-    date: "2026-11-06"
+    date: "2026-11-24"
   - title: "State Offices Closed - Christmas Eve"
     url: "https://sas.arkansas.gov/events/state-offices-closed-christmas-eve-2/"
     publisher: "Arkansas Division of State Administrative Services"
@@ -95,15 +97,19 @@ sources:
   - title: "2026 Legal Holidays"
     url: "https://www.cs.ny.gov/attendance_leave/2026_legal_holidays.cfm"
     publisher: "New York State Department of Civil Service"
-    date: "2026-11-06"
+    date: "2026-11-24"
   - title: "State Holidays for the Year 2026"
     url: "https://dbm.maryland.gov/employees/Pages/StateHolidays2026.aspx"
     publisher: "Maryland Department of Budget and Management"
-    date: "2026-11-06"
+    date: "2026-11-24"
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
     date: "2026-11-06"
+  - title: "Governor Ron DeSantis Announces Additional State Office Closures for the Holiday Season"
+    url: "https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-announces-additional-state-office-closures-holiday-season"
+    publisher: "Office of Governor Ron DeSantis"
+    date: "2026-11-16"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -122,7 +128,7 @@ downloads:
 draft: false
 ---
 
-**Six of the eight states whose 2026 holiday pages we read close state offices on Thursday, Dec. 24, 2026: Kentucky, North Carolina, Texas, Georgia, Indiana and Arkansas.** New York and Maryland list only Christmas Day, Friday, Dec. 25. Each state sets its own calendar for state employees, and the table below uses each state's own page and its own name for the day, read Nov. 6, 2026. Dec. 24 is not a federal holiday, as the story on [whether Christmas Eve is a federal holiday](/news/is-christmas-eve-a-federal-holiday-2026/) explains.
+**Seven of the nine states whose 2026 pages we read close state offices on Thursday, Dec. 24, 2026: Kentucky, North Carolina, Texas, Georgia, Indiana, Arkansas and Florida.** New York and Maryland list only Christmas Day, Friday, Dec. 25. Each state sets its own calendar for state employees, and the table below uses each state's own page and its own name for the day, read Nov. 6 and Nov. 24, 2026. Dec. 24 is not a federal holiday, as the story on [whether Christmas Eve is a federal holiday](/news/is-christmas-eve-a-federal-holiday-2026/) explains.
 
 ## Which states close state offices on Dec. 24, 2026?
 
@@ -134,10 +140,11 @@ draft: false
 | Georgia | Closed | Not part of what we read | "Washington's Birthday: Monday, February 16 - will be observed Thursday, December 24" | [State of Georgia](https://georgia.gov/georgia-state-holidays-2026) |
 | Indiana | Closed | Not part of what we read | "Washington's Birthday" on "Thursday, December 24, 2026" | [Indiana State Personnel Department](https://www.in.gov/spd/benefits/state-holidays/) |
 | Arkansas | Closed | Not part of what we read | "12/24/26 \| Christmas Eve" | [Arkansas Secretary of State](https://www.sos.arkansas.gov/about-the-office/news/state-holiday-calendar/) |
+| Florida | Closed | Wed., Nov. 25; Wed., Dec. 23; Thu., Dec. 31 | "state offices will be closed on November 25, December 23, December 24, and December 31" | [Office of Governor Ron DeSantis](https://www.flgov.com/eog/news/press/2026/governor-ron-desantis-announces-additional-state-office-closures-holiday-season) |
 | New York | Not listed | Fri., Dec. 25 | "Christmas Day / Friday December 25" | [Department of Civil Service](https://www.cs.ny.gov/attendance_leave/2026_legal_holidays.cfm) |
 | Maryland | Not listed | Fri., Dec. 25 | "Christmas Day: Friday December 25" | [Department of Budget and Management](https://dbm.maryland.gov/employees/Pages/StateHolidays2026.aspx) |
 
-Arkansas has a second official page, "State Offices Closed - Christmas Eve," dated Dec. 24, 2026, on the [state administrative services site](https://sas.arkansas.gov/events/state-offices-closed-christmas-eve-2/). The "Not listed" rows mean Dec. 24 is not on that state's official 2026 list, so it is a regular workday on that list. The printable on this page carries the same table on one sheet, and the [December 2026 printable calendar](/december-calendars.html) shows the whole month. For the date itself, see [When is Christmas Eve?](/when-is/christmas-eve/).
+Florida's row comes from a governor's announcement dated Nov. 16, 2026, of additional state office closures, not a standing holiday list. The closures come on top of its regular Thanksgiving, Christmas and New Year's holidays. Arkansas has a second official page, "State Offices Closed - Christmas Eve," dated Dec. 24, 2026, on the [state administrative services site](https://sas.arkansas.gov/events/state-offices-closed-christmas-eve-2/). The "Not listed" rows mean Dec. 24 is not on that state's official 2026 list, so it is a regular workday on that list. The printable on this page carries the same table on one sheet, and the [December 2026 printable calendar](/december-calendars.html) shows the whole month. For the date itself, see [When is Christmas Eve?](/when-is/christmas-eve/).
 
 ## Why do Georgia and Indiana list Washington's Birthday on Dec. 24?
 
@@ -161,7 +168,7 @@ The Texas Comptroller's page marks Christmas Eve Day as "Office closed" and says
 
 ## Which states could not be confirmed?
 
-We did not confirm the day on the state's own page for Michigan, South Carolina, Virginia, Tennessee, Pennsylvania, Louisiana, Florida, Wisconsin, Ohio and other states. They are not marked closed or open. Check with your agency's human resources office or your union contract, which can differ from a state's published list.
+We did not confirm the day on the state's own page for Michigan, South Carolina, Virginia, Tennessee, Pennsylvania, Louisiana, Wisconsin, Ohio and other states. They are not marked closed or open. Wisconsin's state holidays page names "Christmas Eve Day" on December 24 but shows no 2026 date, so we did not count it as closed. Check with your agency's human resources office or your union contract, which can differ from a state's published list.
 
 ## Could federal offices close on Dec. 24?
 
