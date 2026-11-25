@@ -35,7 +35,7 @@ assets:
 hero:
   src: ../../../../assets/news/metro-diner-thanksgiving-2026-holiday-feast-prices-order-by-november-24/metro-diner-thanksgiving-2026-holiday-feast-prices-order-by-november-24.webp
   alt: "A home dinner plate with sliced turkey, stuffing, mashed potatoes and gravy and roasted butternut squash, a file photo"
-  caption: "File photo of a home Thanksgiving plate with sliced turkey, stuffing, mashed potatoes and gravy and roasted butternut squash. It is not a Metro Diner photo; Metro Diner's deadline to order its Holiday Feast was Nov. 24, 2026."
+  caption: "File photo of a home Thanksgiving plate with sliced turkey, stuffing, mashed potatoes and gravy and squash. It is not a Metro Diner photo; the deadline to order Metro Diner's Holiday Feast was Nov. 24, 2026."
   credit: "Photo: Famartin / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
