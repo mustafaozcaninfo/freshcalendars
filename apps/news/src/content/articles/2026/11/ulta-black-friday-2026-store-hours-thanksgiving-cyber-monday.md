@@ -137,6 +137,6 @@ Both the Black Friday and Cyber Monday pages say savings reach up to 50% off sel
 
 The weekdays are our computation. Mark them on the [November 2026 printable calendar](/november-calendars.html) and see [when Thanksgiving falls](/when-is/thanksgiving/). For the earlier beauty sale phases, including Sephora's ended Savings Event, read our [beauty sale dates story](/news/sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales/). Other chains' hours are in the [Walmart, Target and Best Buy hours list](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
 
-## What is not announced
+## What has Ulta not announced for Black Friday 2026?
 
 Ulta has not posted its Black Friday closing time, its Nov. 28 to Nov. 30 store hours or any Cyber Monday store hours on the pages we read. We found no Ulta press release with holiday hours. Call or check your store before you drive.
