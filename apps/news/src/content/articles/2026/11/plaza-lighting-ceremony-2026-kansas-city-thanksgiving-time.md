@@ -64,7 +64,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [christmas-tree-lightings-2026-dates-times-nyc-dc-boston, thanksgiving-day-2026-schedule-hour-by-hour-parade-dog-show-nfl, botanical-garden-holiday-lights-2026-dates-nybg-atlanta-longwood-denver-brooklyn]
+related: [christmas-tree-lightings-2026-dates-times-nyc-dc-boston, thanksgiving-day-2026-schedule-hour-by-hour-parade-dog-show-nfl, washington-monument-lighting-2026-baltimore-december-3-fireworks]
 downloads:
   - group: "Plaza Lighting 2026 Thanksgiving Guide printables"
     title: "Plaza Lighting 2026 Thanksgiving Guide"
