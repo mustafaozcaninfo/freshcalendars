@@ -115,7 +115,7 @@ assets:
         - { date: "2027-01-31", time: TBA, title: "Men's singles final (provisional)", detail: "Provisional schedule, subject to change", src: 4, quote: "which in 2027 will be held on 30 and 31 January" }
       unconfirmed:
         - { label: "Order of play and session times", why: "Not yet published as of Nov. 12, 2026" }
-        - { label: "Draw ceremony date and time", why: "Not yet published as of Nov. 18, 2026" }
+        - { label: "Draw ceremony date and time", why: "Not yet published as of Nov. 25, 2026" }
 draft: false
 downloads:
   - group: "Australian Open 2027 Planner printables"
