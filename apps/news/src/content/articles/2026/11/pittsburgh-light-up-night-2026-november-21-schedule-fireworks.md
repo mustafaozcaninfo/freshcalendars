@@ -65,7 +65,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [christmas-tree-lightings-2026-dates-times-nyc-dc-boston, christmas-parades-2026-us-cities-dates-times-routes, ice-skating-rinks-2026-27-opening-dates-bryant-park-wollman-chicago-la-london]
+related: [christmas-tree-lightings-2026-dates-times-nyc-dc-boston, christmas-parades-2026-us-cities-dates-times-routes, circle-of-lights-2026-indianapolis-november-27-wthr]
 downloads:
   - group: "Pittsburgh Light Up Night 2026 Timeline printables"
     title: "Pittsburgh Light Up Night 2026 Timeline, Nov. 21"

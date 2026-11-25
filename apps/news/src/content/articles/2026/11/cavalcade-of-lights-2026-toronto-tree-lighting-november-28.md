@@ -34,7 +34,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa, new-years-eve-2026-canada-fireworks-calgary-niagara-falls-montreal]
+related: [toronto-santa-claus-parade-2026-sunday-november-22-route-citytv, canada-christmas-markets-2026-dates-toronto-montreal-vancouver-quebec-ottawa, washington-monument-lighting-2026-baltimore-december-3-fireworks]
 faq:
   - q: "Is the Cavalcade of Lights free?"
     a: "Yes. The City of Toronto calls it a free event. It says to bring your own skates or rent them on site, and the city lists free rentals on six Wednesday evenings."

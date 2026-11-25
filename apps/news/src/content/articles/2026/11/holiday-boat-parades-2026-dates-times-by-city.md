@@ -63,7 +63,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [christmas-parades-2026-us-cities-dates-times-routes, christmas-tree-lightings-2026-dates-times-nyc-dc-boston, botanical-garden-holiday-lights-2026-dates-nybg-atlanta-longwood-denver-brooklyn]
+related: [christmas-parades-2026-us-cities-dates-times-routes, christmas-tree-lightings-2026-dates-times-nyc-dc-boston, ford-holiday-river-parade-2026-san-antonio-november-27-tickets]
 downloads:
   - group: "Boat Parades 2026 Checklist printables"
     title: "Boat Parades 2026 Checklist"

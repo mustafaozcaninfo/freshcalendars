@@ -87,7 +87,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [national-christmas-tree-lighting-2026-ticket-lottery-october-28, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, pittsburgh-light-up-night-2026-november-21-schedule-fireworks]
+related: [circle-of-lights-2026-indianapolis-november-27-wthr, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, pittsburgh-light-up-night-2026-november-21-schedule-fireworks]
 downloads:
   - group: "Christmas Tree Lightings 2026 Checklist printables"
     title: "Christmas Tree Lightings 2026 Checklist"
