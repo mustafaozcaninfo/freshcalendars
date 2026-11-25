@@ -139,6 +139,8 @@ The Heisman release says Heisman Weekend runs Dec. 11-13, 2026, in New York City
 
 The ESPN release of Dec. 19, 2025, says ESPN remains the ceremony's home.
 
+The night before the ceremony, the [College Football Awards 2026 show](/news/college-football-awards-2026-date-time-espn-finalists/) names the winners of nine other national awards on ESPN.
+
 ## How did the 2025 ceremony compare?
 
 In 2025, ESPN said the ceremony was Saturday, Dec. 13, at 7 p.m. ET on ABC, from the Appel Room at Jazz at Lincoln Center in New York. Treat those details as last year's, not as 2026 plans.
