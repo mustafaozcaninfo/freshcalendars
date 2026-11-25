@@ -17,7 +17,7 @@ assets:
     group: fogo-de-chao-thanksgiving-2026
     title: "Fogo de Chão Thanksgiving 2026 Dinner and To-Go Planner"
     subtitle: "Open Nov. 26, 11 a.m. to 8:30 p.m.; order catering Nov. 20 to 29"
-    note: "Source: Fogo de Chão, Thanksgiving To-Go & Catering page, read Nov. 23, 2026. Fogo de Chão lists no dinner price in dollars, Family Meal order deadline or pan prices; prices vary by location."
+    note: "Source: Fogo de Chão, Thanksgiving To-Go & Catering page. Fogo de Chão lists no dinner price in dollars, Family Meal order deadline or pan prices; prices vary by location."
     description: "One-page Fogo de Chão Thanksgiving 2026 planner: open Nov. 26 from 11 a.m. to 8:30 p.m., Holiday Turkey Family Meal to go from $100, catering by Nov. 25 for pickup."
     alt: "Printable Fogo de Chão Thanksgiving 2026 planner with the Nov. 26 hours, to-go family meal and catering order window"
     data:
@@ -27,14 +27,14 @@ assets:
         - { name: "Holiday Turkey Family Meal to go", status: open, detail: "Pickup or delivery Nov. 26 to 29, pre-cooked, from $100", src: 1, quote: "Pickup or delivery all day, Thursday, November 26 – Sunday, November 29." }
         - { name: "Holiday Group Package catering", status: open, detail: "Groups of 10 or more, from $32 per person, order window Nov. 20 to 29", src: 1, quote: "Order at catering.fogo.com at least 24 hours ahead for pickup or delivery, November 20–29. Thanksgiving Day orders are pickup only." }
       tasks:
-        - { daysBefore: 6, task: "Catering ordering opens Fri., Nov. 20 for the Holiday Group Package and side-dish pans" }
+        - { daysBefore: 6, task: "Catering ordering opened Fri., Nov. 20 for the Holiday Group Package and side-dish pans" }
         - { daysBefore: 1, task: "By Wed., Nov. 25: order Thanksgiving Day catering, 24 hours ahead; pickup only that day" }
         - { daysBefore: 0, task: "Thu., Nov. 26: dine in 11 a.m. to 8:30 p.m. or pick up your Family Meal" }
       fill: ["Pickup or delivery time", "Guests", "Reservation time at fogo.com/reservations"]
       unconfirmed:
-        - { label: "Dinner price in dollars", why: "Not on the page; it varies by location, read Nov. 23, 2026" }
-        - { label: "Family Meal order deadline", why: "Not stated on the page read Nov. 23, 2026" }
-        - { label: "Side-dish pan prices", why: "Not on the page read Nov. 23, 2026" }
+        - { label: "Dinner price in dollars", why: "Not on the page; it varies by location" }
+        - { label: "Family Meal order deadline", why: "Not stated on the page" }
+        - { label: "Side-dish pan prices", why: "Not on the page" }
 hero:
   src: ../../../../assets/news/fogo-de-chao-thanksgiving-2026-hours-to-go-family-meal/fogo-de-chao-thanksgiving-2026-hours-to-go-family-meal.webp
   alt: "A Fogo de Chão restaurant in Carle Place, New York, a file photo for Fogo de Chão's Thanksgiving 2026 hours and to-go meals"
@@ -67,7 +67,7 @@ sources:
   - title: "Celebrate Thanksgiving with Fogo de Chão | To-Go & Catering"
     url: "https://fogodechao.com/thanksgiving-togo-catering/"
     publisher: "Fogo de Chão"
-    date: "2026-11-23"
+    date: "2026-11-25"
 internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving 2026?"
@@ -83,6 +83,7 @@ downloads:
     pdf: "/news/downloads/fogo-de-chao-thanksgiving-2026/fogo-de-chao-thanksgiving-2026-planner.pdf"
     png: "/news/downloads/fogo-de-chao-thanksgiving-2026/fogo-de-chao-thanksgiving-2026-planner.png"
     pages: 1
+updatedAt: "2026-11-25T15:01:00-05:00"
 draft: false
 ---
 
@@ -147,6 +148,6 @@ The free one-page sheet has the Nov. 26 hours, the Holiday Turkey Family Meal fr
 
 ## Sources for the Fogo de Chão Thanksgiving details
 
-The hours, prices, menu and catering dates come from Fogo de Chão's "Celebrate Thanksgiving with Fogo de Chão | To-Go & Catering" page, read Nov. 23, 2026. The page gives weekdays with dates and no year; Nov. 26 is a Thursday in 2026. Fogo de Chão does not post a dinner price in dollars, pan prices or a Family Meal order deadline.
+The hours, prices, menu and catering dates come from Fogo de Chão's "Celebrate Thanksgiving with Fogo de Chão | To-Go & Catering" page, read Nov. 25, 2026. The page gives weekdays with dates and no year; Nov. 26 is a Thursday in 2026. Fogo de Chão does not post a dinner price in dollars, pan prices or a Family Meal order deadline.
 </content>
 </invoke>

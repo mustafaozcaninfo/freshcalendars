@@ -3,7 +3,7 @@ title: "Is the Post Office Open on Thanksgiving 2026? Closed Thu., Nov. 26"
 description: "The Postal Service lists Thanksgiving, Thu., Nov. 26, 2026, as a holiday. A Wed-Fri table covers mail, banks, stocks and bonds, plus a free printable."
 type: news
 publishedAt: "2026-11-14T18:39:00-05:00"
-updatedAt: "2026-11-14T18:39:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is the post office open on thanksgiving 2026", "are banks open on thanksgiving 2026", "is the stock market open thanksgiving 2026", "is there mail on thanksgiving"]
@@ -19,7 +19,7 @@ assets:
     group: thanksgiving-2026
     title: "Thanksgiving 2026: Post Office, Banks and Markets Closed"
     subtitle: "What is closed on Thursday, Nov. 26, 2026 and what to do before"
-    note: "Source: U.S. Postal Service, Holidays and Events; Office of Personnel Management; Federal Reserve K.8; New York Stock Exchange; Nasdaq Trader; Securities Industry and Financial Markets Association. Checked Nov. 14, 2026. Confirm your branch or Post Office hours locally."
+    note: "Source: U.S. Postal Service, Holidays and Events; Office of Personnel Management; Federal Reserve K.8; New York Stock Exchange; Nasdaq Trader; Securities Industry and Financial Markets Association. Confirm your branch or Post Office hours locally."
     description: "One-page Thanksgiving 2026 sheet: Post Office, federal offices, Federal Reserve, NYSE, Nasdaq and bond market status on Thursday, Nov. 26, plus a prep plan."
     alt: "Printable Thanksgiving 2026 sheet showing the Post Office, banks, stock market and bond market closed on Thursday, Nov. 26"
     data:
@@ -33,13 +33,13 @@ assets:
         - { name: "Bond market (SIFMA)", status: closed, detail: "Early close 2:00 p.m. ET on Fri., Nov. 27", src: 6, quote: "Thursday, November 26, 2026" }
       tasks:
         - { daysBefore: 3, task: "Check your bank's branch hours for Wed. and Fri." }
-        - { daysBefore: 1, task: "Mail letters and packages by Wednesday" }
+        - { daysBefore: 1, task: "Mail letters and packages before Thursday" }
         - { daysBefore: 1, task: "Pick up mail you are expecting from your Post Office" }
       future:
         - { date: "2027-11-25", src: 1, quote: "Thursday November 25 Thanksgiving Day" }
       unconfirmed:
-        - { label: "UPS Thanksgiving 2026 service", why: "UPS's 2026 holiday page could not be read on Nov. 14" }
-        - { label: "FedEx Thanksgiving 2026 service", why: "FedEx's 2026 holiday page could not be read on Nov. 14" }
+        - { label: "UPS Thanksgiving 2026 service", why: "UPS's 2026 holiday page could not be read on Nov. 25" }
+        - { label: "FedEx Thanksgiving 2026 service", why: "FedEx's 2026 holiday page could not be read on Nov. 25" }
 hero:
   src: ../../../../assets/news/is-post-office-open-thanksgiving-2026-banks-stock-market/is-post-office-open-thanksgiving-2026-banks-stock-market.webp
   alt: "The old U.S. Post Office building in Bemidji, Minnesota, with a blue mailbox, for a guide to whether the post office is open on Thanksgiving 2026"
@@ -58,7 +58,7 @@ summary:
   - "The Office of Personnel Management (OPM) and the Federal Reserve both list Nov. 26 as a holiday; neither lists Nov. 27."
 faq:
   - q: "Is the post office open on Thanksgiving 2026?"
-    a: "No. USPS lists Thursday, Nov. 26, 2026, as Thanksgiving Day on its holiday list, and AARP says post offices will be closed that day. Normal consumer services resume on Friday, Nov. 27, according to AARP."
+    a: "No. USPS lists Thursday, Nov. 26, 2026, as Thanksgiving Day on its holiday list, and AARP says post offices will be closed that day. Friday, Nov. 27, is not on the USPS holiday list."
   - q: "Is there mail on Thanksgiving?"
     a: "Not in 2026. AARP reports that the Postal Service will not deliver regular mail or packages on Thursday, Nov. 26."
   - q: "Are banks open on Thanksgiving 2026?"
@@ -66,20 +66,20 @@ faq:
   - q: "Is the stock market open on Thanksgiving 2026?"
     a: "No. The New York Stock Exchange and Nasdaq are both closed on Thursday, Nov. 26, 2026, and close early at 1:00 p.m. ET on Friday, Nov. 27."
   - q: "Are UPS and FedEx open on Thanksgiving 2026?"
-    a: "Not confirmed. UPS and FedEx publish holiday schedules, but their 2026 versions could not be read on Nov. 14, so check each company's own page."
+    a: "Not confirmed. UPS and FedEx publish holiday schedules, but their 2026 versions could not be read on Nov. 25, so check each company's own page."
 sources:
   - title: "Holidays and Events"
     url: "https://about.usps.com/newsroom/events/welcome.htm"
     publisher: "U.S. Postal Service"
-    date: "2026-11-14"
+    date: "2026-11-25"
   - title: "U.S. Postal Service Holidays in 2026: Is the Post Office Open on Thanksgiving?"
     url: "https://www.aarp.org/government-elections/post-office-holidays-closed/"
     publisher: "AARP"
-    date: "2026-11-12"
+    date: "2026-11-25"
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "Office of Personnel Management"
-    date: "2026-11-14"
+    date: "2026-11-25"
   - title: "Holidays & Trading Hours"
     url: "https://www.nyse.com/markets/hours-calendars"
     publisher: "New York Stock Exchange"
@@ -87,11 +87,11 @@ sources:
   - title: "Trading Calendar"
     url: "https://www.nasdaqtrader.com/Trader.aspx?id=Calendar"
     publisher: "Nasdaq Trader"
-    date: "2026-11-14"
+    date: "2026-11-25"
   - title: "Holiday Schedule"
     url: "https://www.sifma.org/resources/general/holiday-schedule/"
     publisher: "Securities Industry and Financial Markets Association"
-    date: "2026-11-14"
+    date: "2026-11-25"
   - title: "Holidays Observed - K.8"
     url: "https://www.federalreserve.gov/aboutthefed/k8.htm"
     publisher: "Federal Reserve"
@@ -120,20 +120,20 @@ draft: false
 
 | Service | Wed., Nov. 25 | Thu., Nov. 26 (Thanksgiving Day) | Fri., Nov. 27 | Source |
 |---|---|---|---|---|
-| Post offices and mail | Not on the USPS holiday list | Postal holiday; no regular delivery | Not on the USPS list; AARP says normal consumer services resume | USPS "Holidays and Events"; AARP |
+| Post offices and mail | Not on the USPS holiday list | Postal holiday; no regular delivery | Not on the USPS holiday list | USPS "Holidays and Events"; AARP |
 | Federal offices | Not a federal holiday | Federal holiday | Not a federal holiday | Office of Personnel Management (OPM) "Federal Holidays" |
 | Federal Reserve and banks | Not a Federal Reserve holiday | Federal Reserve holiday; check your bank | Not a Federal Reserve holiday | Federal Reserve "Holidays Observed - K.8" |
 | NYSE | No early close listed | Closed | Early close, 1:00 p.m. ET (1:15 p.m. for eligible options) | NYSE "Holidays & Trading Hours" |
 | Nasdaq | No early close listed | Closed | Early close, 1:00 p.m. ET | Nasdaq Trader "Trading Calendar" |
 | Bond market | No recommendation posted | Closed | Early close recommended, 2:00 p.m. ET | Securities Industry and Financial Markets Association (SIFMA) "Holiday Schedule" |
 
-Cells that say "not on the list" mean the source lists no holiday for that day. As of Nov. 14, no order giving federal employees Nov. 27 off had been seen.
+Cells that say "not on the list" mean the source lists no holiday for that day. OPM's list shows no federal holiday on Nov. 27.
 
 ## Is there mail on Thanksgiving?
 
-No regular mail. USPS lists "Thursday November 26 Thanksgiving Day" in its 2026 holidays, and its list for 2027 reads "Thursday November 25 Thanksgiving Day." AARP, updated Nov. 12, 2026, writes that "Post offices will be closed on Thursday, Nov. 26" and that the Postal Service will not deliver regular mail or packages. Its words for the day after: "Normal consumer services resume on the day after Thanksgiving, also known as Black Friday."
+No regular mail. USPS lists "Thursday November 26 Thanksgiving Day" in its 2026 holidays, and its list for 2027 reads "Thursday November 25 Thanksgiving Day." AARP, updated Nov. 12, 2026, writes that "Post offices will be closed on Thursday, Nov. 26" and that the Postal Service will not deliver regular mail or packages.
 
-UPS and FedEx publish their own holiday schedules. We could not read the 2026 versions on Nov. 14, so their Thanksgiving service is not confirmed here.
+UPS and FedEx publish their own holiday schedules. We could not read the 2026 versions on Nov. 25, so their Thanksgiving service is not confirmed here.
 
 ## Are banks open on Thanksgiving 2026?
 
@@ -155,4 +155,4 @@ USPS's 2027 list names Thursday, Nov. 25, 2027. Our [when is Thanksgiving](/when
 
 ## Print the Thanksgiving 2026 closed-or-open sheet
 
-Our free one-page printable, "Thanksgiving 2026: Post Office, Banks and Markets Closed," lists the status of the post office, federal offices, Federal Reserve, NYSE, Nasdaq and the bond market on Nov. 26, with a short prep plan: check your bank's branch hours, and mail letters and packages by Wednesday. It also lists the 2027 date and marks UPS and FedEx as not confirmed.
+Our free one-page printable, "Thanksgiving 2026: Post Office, Banks and Markets Closed," lists the status of the post office, federal offices, Federal Reserve, NYSE, Nasdaq and the bond market on Nov. 26, with a short prep plan: check your bank's branch hours, and mail letters and packages before Thursday. It also lists the 2027 date and marks UPS and FedEx as not confirmed.

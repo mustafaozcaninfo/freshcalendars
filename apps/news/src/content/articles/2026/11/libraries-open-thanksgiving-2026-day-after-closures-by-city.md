@@ -1,9 +1,9 @@
 ---
-title: "Are Libraries Open the Day After Thanksgiving 2026? 6 Cities Close"
-description: "Libraries in LA, Houston, San Diego, Dallas, SF and Austin close Fri., Nov. 27, 2026. A 12-city table runs to New Year's Day, with a printable."
+title: "Are Libraries Open the Day After Thanksgiving 2026? 7 Cities Close"
+description: "Libraries in LA, Houston, San Diego, Dallas, SF, Austin and Washington close Fri., Nov. 27, 2026. A 12-city table to New Year's Day, plus a printable."
 type: news
 publishedAt: "2026-11-17T19:18:00-05:00"
-updatedAt: "2026-11-17T19:18:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["are libraries open the day after thanksgiving 2026", "is the library open on thanksgiving", "library holiday closures 2026", "library hours black friday"]
@@ -18,13 +18,13 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:New_York_Public_Library_Main_Branch_Lion.jpg"
     author: "John Dillenbeck"
 summary:
-  - "Los Angeles, Houston, San Diego, Dallas, San Francisco and Austin list Friday, Nov. 27, 2026 as a closed day, according to each library's own page."
-  - "Seattle, Boston, Washington, Portland (Multnomah County) and Denver close on Thursday, Nov. 26 and do not list Nov. 27 as a closure."
+  - "Los Angeles, Houston, San Diego, Dallas, San Francisco, Austin and Washington list Friday, Nov. 27, 2026 as a closed day, according to each library's own page."
+  - "Seattle, Boston, Portland (Multnomah County) and Denver close on Thursday, Nov. 26 and do not list Nov. 27 as a closure."
   - "Houston, Dallas, San Francisco, Denver and Austin close early on Wednesday, Nov. 25, and Washington runs reduced hours."
   - "Seattle says it is open 24/7 online and DC Public Library says it is open online 365 days a year."
 faq:
   - q: "Do libraries close early on Christmas Eve and New Year's Eve?"
-    a: "Some do. San Francisco, Denver and Houston (New Year's Eve only) list early closings, while Houston, San Diego, Seattle and Washington close all day on Dec. 24."
+    a: "Some do. San Francisco and Denver list early closings on both days, Dallas and Houston on New Year's Eve only, while Dallas, Houston, San Diego, Seattle and Washington close all day on Dec. 24."
   - q: "Can I still use my library online when the buildings are closed?"
     a: "Seattle Public Library says it is open 24/7 online at spl.org, and DC Public Library says it is open online for customers 365 days a year. San Diego's page says its book drops stay open."
   - q: "Is the Chicago Public Library closed on Thanksgiving?"
@@ -46,47 +46,47 @@ sources:
   - title: "When is the library closed?"
     url: "https://askhpl.houstonlibrary.org/faq/363295"
     publisher: "Houston Public Library"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Holiday Closures"
     url: "https://www.sandiego.gov/public-library/locations/holidays"
     publisher: "San Diego Public Library"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Holidays and Closings"
     url: "https://dallaslibrary.org/about/holidays-and-closings"
     publisher: "Dallas Public Library"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Days Closed"
     url: "https://sfpl.org/about-us/days-closed"
     publisher: "San Francisco Public Library"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "2026 Holidays & Closures"
     url: "https://www.spl.org/using-the-library/plan-a-visit/holidays-and-closures"
     publisher: "The Seattle Public Library"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Holiday Closures"
     url: "https://www.bpl.org/holiday-closures/"
     publisher: "Boston Public Library"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Holidays and Closings"
     url: "https://www.dclibrary.org/holidays-and-closings"
     publisher: "DC Public Library"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Holiday closures"
     url: "https://multcolib.org/holiday-closures"
     publisher: "Multnomah County Library"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Holidays & Closures"
     url: "https://www.denverlibrary.org/content/holidays-closures"
     publisher: "Denver Public Library"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Closing early Wednesday, Nov. 25"
     url: "https://library.austintexas.gov/node/7749551"
     publisher: "Austin Public Library"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Harold Washington Library Center"
     url: "https://www.chipublib.org/locations/34/"
     publisher: "Chicago Public Library"
-    date: "2026-11-17"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -100,14 +100,14 @@ assets:
   overlay: true
   kicker: "Library hours, Thanksgiving 2026"
   date: "2026-11-27"
-  card: { top: "6 city libraries close", big: "Fri., Nov. 27", bottom: "All 12 closed Thu., Nov. 26" }
+  card: { top: "7 city libraries close", big: "Fri., Nov. 27", bottom: "All 12 closed Thu., Nov. 26" }
   printable:
     kit: holiday-planner
     slug: library-closures-thanksgiving-2026-planner
     group: library-closures-2026
     title: "Library Closures 2026: Thanksgiving Week by City"
     subtitle: "Which libraries close Thu., Nov. 26 and Fri., Nov. 27"
-    note: "Source: library holiday pages for Los Angeles, San Diego, San Francisco, Seattle, Washington DC, Multnomah County, Denver and Chicago's Harold Washington Library Center, read Nov. 17, 2026."
+    note: "Source: library holiday pages for Los Angeles, Dallas, San Diego, San Francisco, Seattle, Washington DC, Multnomah County, Denver and Chicago's Harold Washington Library Center."
     description: "A one-page sheet of which libraries close for Thanksgiving 2026 and the day after, with what each page does not say."
     alt: "Printable library closures sheet for Thanksgiving 2026 with status by city."
     data:
@@ -120,21 +120,21 @@ assets:
         - { name: "Los Angeles", status: closed, detail: "Closed Nov. 26 and 27", src: 1, quote: "Thursday, November 26 & Friday, November 27, 2026" }
         - { name: "San Diego", status: closed, detail: "Closed Nov. 26 and 27", src: 3, quote: "Friday, Nov. 27 - Thanksgiving (Library Observed Holiday)" }
         - { name: "San Francisco", status: closed, detail: "Closed Nov. 26 and 27", src: 5, quote: "11/27/26 Day after Thanksgiving" }
+        - { name: "Dallas", status: closed, detail: "Closed Nov. 26 and 27", src: 4, quote: "Thursday, November 26 and Friday, November 27, 2026" }
         - { name: "Seattle", status: limited, detail: "Closed Nov. 26; Nov. 27 not listed", src: 6, quote: "Thursday, Nov. 26, 2026" }
-        - { name: "Washington, DC", status: limited, detail: "Closed Nov. 26; Nov. 27 not listed", src: 8, quote: "Thursday, Nov. 26, 2026 Thanksgiving Day" }
+        - { name: "Washington, DC", status: closed, detail: "Closed Nov. 26 and 27", src: 8, quote: "Friday, Nov. 27, 2026" }
         - { name: "Multnomah County", status: limited, detail: "Closed Nov. 26; Nov. 27 not listed", src: 9, quote: "Thursday, November 26, 2026" }
         - { name: "Denver", status: limited, detail: "Closed Nov. 26; Nov. 27 not listed", src: 10, quote: "Thursday, November 26" }
         - { name: "Chicago, central library", status: closed, detail: "Harold Washington closed Nov. 26", src: 12, quote: "Thursday, November 26, 2026 Closed All Day" }
       tasks:
-        - { daysBefore: 7, task: "Return or renew books due Nov. 26 to 28" }
-        - { daysBefore: 3, task: "Check your library's page for Nov. 27 hours" }
+        - { daysBefore: 1, task: "Check your library's page for Nov. 27 hours" }
         - { daysBefore: 1, task: "Visit before the early close on Wed., Nov. 25" }
       unconfirmed:
-        - { label: "Houston, Dallas, Boston, Austin", why: "Dates are in the story; the pages' own wording was not captured for this sheet" }
+        - { label: "Houston, Boston, Austin", why: "Dates are in the story; the pages' own wording was not captured for this sheet" }
         - { label: "New York, Philadelphia, Atlanta, Phoenix, Toronto", why: "Closure pages not read" }
 ---
 
-**Los Angeles, Houston, San Diego, Dallas, San Francisco and Austin libraries are closed on Friday, Nov. 27, 2026, the day after Thanksgiving**, according to each system's own closure page, read on Nov. 17, 2026. Seattle, Boston, Washington, Portland and Denver close on Thursday, Nov. 26 and do not list Nov. 27 as a closure.
+**Los Angeles, Houston, San Diego, Dallas, San Francisco, Austin and Washington libraries are closed on Friday, Nov. 27, 2026, the day after Thanksgiving**, according to each system's own closure page, read on Nov. 17 and Nov. 25, 2026. Seattle, Boston, Portland and Denver close on Thursday, Nov. 26 and do not list Nov. 27 as a closure.
 
 The table runs from the early closings on Wednesday, Nov. 25 through New Year's Day 2027, because the same pages list Christmas and New Year's closures. Print the [Thanksgiving week library sheet](#downloads) to keep the closed days on one page, and mark them on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html). For the holiday itself, see [when is Thanksgiving](/when-is/thanksgiving/).
 
@@ -147,11 +147,11 @@ The table runs from the early closings on Wednesday, Nov. 25 through New Year's 
 | [Los Angeles Public Library](https://www.lapl.org/holidays-closures) | Not confirmed | Closed | Closed | Not confirmed | Not confirmed | Closed | Not confirmed | Closed |
 | [Houston Public Library](https://askhpl.houstonlibrary.org/faq/363295) | Closes 6 p.m. | Closed | Closed | Closed | Closed | Closed | Closes 6 p.m. | Closed |
 | [San Diego Public Library](https://www.sandiego.gov/public-library/locations/holidays) | Not confirmed | Closed | Closed | Not confirmed | Closed | Closed | Closed | Closed |
-| [Dallas Public Library](https://dallaslibrary.org/about/holidays-and-closings) | Closes 5 p.m. | Closed | Closed | Not confirmed | Not confirmed | Not confirmed | Not confirmed | Not confirmed |
+| [Dallas Public Library](https://dallaslibrary.org/about/holidays-and-closings) | Closes 5 p.m. | Closed | Closed | Not confirmed | Closed | Closed | Closes 5 p.m. | Closed |
 | [San Francisco Public Library](https://sfpl.org/about-us/days-closed) | Closes 5 p.m. | Closed | Closed | Not confirmed | Closes 5 p.m. | Closed | Closes 5 p.m. | Closed |
 | [Seattle Public Library](https://www.spl.org/using-the-library/plan-a-visit/holidays-and-closures) | Not confirmed | Closed | Not listed | Not confirmed | Closed | Closed | Not confirmed | Closed |
 | [Boston Public Library](https://www.bpl.org/holiday-closures/) | Open 9-5 | Closed | Not listed | Not confirmed | Open 9-5 | Closed | Open 9-5 | Not confirmed |
-| [DC Public Library](https://www.dclibrary.org/holidays-and-closings) | Reduced hours, see below | Closed | Not listed | Not confirmed | Closed | Closed | Closed | Closed |
+| [DC Public Library](https://www.dclibrary.org/holidays-and-closings) | Reduced hours, see below | Closed | Closed | Not confirmed | Closed | Closed | Closed | Closed |
 | [Multnomah County Library](https://multcolib.org/holiday-closures) (Portland, Ore.) | Open 10-6 | Closed | Not listed | Not confirmed | Closed | Closed | Open 10-6 | Closed |
 | [Denver Public Library](https://www.denverlibrary.org/content/holidays-closures) | Closes 4 p.m. | Closed | Not listed | Not confirmed | Closes 4 p.m. | Closed | Closes 4 p.m. | Closed |
 | [Austin Public Library](https://library.austintexas.gov/node/7749551) | Closes 5 p.m. | Closed | Closed | Not confirmed | Not confirmed | Not confirmed | Not confirmed | Not confirmed |
@@ -159,9 +159,9 @@ The table runs from the early closings on Wednesday, Nov. 25 through New Year's 
 
 ## Which libraries close the day after Thanksgiving?
 
-Six of the 12 systems close on Friday, Nov. 27. Los Angeles Public Library's page lists "Thursday, November 26 & Friday, November 27, 2026" as closed. San Diego's page lists "Friday, Nov. 27 - Thanksgiving (Library Observed Holiday)", and San Francisco's lists "11/27/26 Day after Thanksgiving". Houston, Dallas and Austin list Nov. 26 and 27 as closed too, and Houston adds Saturday, Nov. 28 and Sunday, Nov. 29.
+Seven of the 12 systems close on Friday, Nov. 27. Los Angeles Public Library's page lists "Thursday, November 26 & Friday, November 27, 2026" as closed. San Diego's page lists "Friday, Nov. 27 - Thanksgiving (Library Observed Holiday)", San Francisco's lists "11/27/26 Day after Thanksgiving", and DC Public Library's lists "Friday, Nov. 27, 2026" among the dates all its locations are closed. Houston, Dallas and Austin list Nov. 26 and 27 as closed too, and Houston adds Saturday, Nov. 28 and Sunday, Nov. 29.
 
-Seattle, Boston, Washington, Portland and Denver list Thursday, Nov. 26 and not Friday. That is a gap in the closure list, not a promise of hours, so confirm Friday on the library's page. Chicago's central library page covers Nov. 26 only, and a citywide list was not found. For state-level closures that day, see [the day after Thanksgiving by state](/news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/).
+Seattle, Boston, Portland and Denver list Thursday, Nov. 26 and not Friday. That is a gap in the closure list, not a promise of hours, so confirm Friday on the library's page. Chicago's central library page covers Nov. 26 only, and a citywide list was not found. For state-level closures that day, see [the day after Thanksgiving by state](/news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/).
 
 ## What are library hours on Wednesday, Nov. 25?
 
@@ -171,7 +171,7 @@ DC Public Library runs reduced hours: neighborhood libraries 9 a.m. to 3 p.m., c
 
 ## What about Christmas Eve, Christmas Day and New Year's?
 
-All of the systems whose pages list Dec. 25, 2026 show it closed, and every page that lists Jan. 1, 2027 shows it closed. Dec. 24 and Dec. 31 differ: San Francisco and Denver close at 5 p.m. and 4 p.m. on both dates, Boston stays open 9 to 5 on both, Multnomah County is open 10 to 6 on Dec. 31, and Houston closes all day on Dec. 24 and at 6 p.m. on Dec. 31. San Diego, Seattle and Washington list Dec. 24 as closed, and San Diego and Washington list Dec. 31 as closed too. Dallas and Austin had no December rows we could confirm.
+All of the systems whose pages list Dec. 25, 2026 show it closed, and every page that lists Jan. 1, 2027 shows it closed. Dec. 24 and Dec. 31 differ: San Francisco and Denver close at 5 p.m. and 4 p.m. on both dates, Boston stays open 9 to 5 on both, Multnomah County is open 10 to 6 on Dec. 31, and Dallas and Houston close all day on Dec. 24 and at 5 p.m. and 6 p.m. on Dec. 31. San Diego, Seattle and Washington list Dec. 24 as closed, and San Diego and Washington list Dec. 31 as closed too. Austin had no December rows we could confirm.
 
 ## Do library websites and book drops stay open?
 

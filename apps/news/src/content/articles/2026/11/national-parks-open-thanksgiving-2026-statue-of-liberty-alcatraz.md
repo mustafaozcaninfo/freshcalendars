@@ -3,7 +3,7 @@ title: "National Parks Open on Thanksgiving 2026? Alcatraz, Statue Close"
 description: "Alcatraz, Ellis Island and the Statue of Liberty ferry close on Thanksgiving, Nov. 26, 2026; Grand Canyon stays open. Site-by-site table and printable."
 type: news
 publishedAt: "2026-11-17T19:18:00-05:00"
-updatedAt: "2026-11-17T19:18:00-05:00"
+updatedAt: "2026-11-25T15:00:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["are national parks open on thanksgiving 2026", "is the statue of liberty open on thanksgiving", "is alcatraz open on thanksgiving", "national parks closed thanksgiving"]
@@ -18,7 +18,7 @@ assets:
     group: thanksgiving-2026
     title: "National Parks Open or Closed, Thanksgiving 2026"
     subtitle: "Which National Park Service sites close on Thu., Nov. 26"
-    note: "Source: National Park Service hours pages for each site and Statue City Cruises questions page, read Nov. 17, 2026. Year-round rules; confirm before you go."
+    note: "Source: National Park Service hours pages for each site and Statue City Cruises questions page. Year-round rules; confirm before you go."
     description: "One-page list of which national park sites close on Thanksgiving 2026, including Alcatraz, Ellis Island, Statue of Liberty ferry and Carlsbad Caverns."
     alt: "Printable list of national park sites open or closed on Thanksgiving 2026, with Alcatraz, Ellis Island, Mount Rushmore and Grand Canyon"
     noKit: "Open-or-closed list by site; no source line prints Nov. 26 as a date, which the holiday kit requires as a quote."
@@ -57,59 +57,59 @@ sources:
   - title: "Statue City Cruises questions page"
     url: "https://www.statuecitycruises.com/faq"
     publisher: "Statue City Cruises"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Ellis Island hours"
     url: "https://www.nps.gov/elis/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Alcatraz hours"
     url: "https://www.nps.gov/alca/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Pearl Harbor National Memorial hours"
     url: "https://www.nps.gov/valr/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Carlsbad Caverns hours"
     url: "https://www.nps.gov/cave/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Ford's Theatre hours"
     url: "https://www.nps.gov/foth/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Mount Rushmore hours"
     url: "https://www.nps.gov/moru/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Wright Brothers National Memorial hours"
     url: "https://www.nps.gov/wrbr/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Grand Canyon hours"
     url: "https://www.nps.gov/grca/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Muir Woods hours"
     url: "https://www.nps.gov/muwo/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Washington Monument hours"
     url: "https://www.nps.gov/wamo/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Independence National Historical Park hours"
     url: "https://www.nps.gov/inde/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Yellowstone hours"
     url: "https://www.nps.gov/yell/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Statue of Liberty hours"
     url: "https://www.nps.gov/stli/planyourvisit/hours.htm"
     publisher: "National Park Service"
-    date: "2026-11-17"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -130,7 +130,7 @@ downloads:
 draft: false
 ---
 
-**On Thanksgiving Day, Thursday, Nov. 26, 2026, Alcatraz, Ellis Island and the Statue of Liberty ferry are closed, while Mount Rushmore, the Grand Canyon South Rim and Muir Woods list no Thanksgiving closure**, according to each site's National Park Service (NPS) hours page and the ferry operator, Statue City Cruises. The rules below are year-round rules printed on those pages, read Nov. 17, 2026, not announcements made for this year.
+**On Thanksgiving Day, Thursday, Nov. 26, 2026, Alcatraz, Ellis Island and the Statue of Liberty ferry are closed, while Mount Rushmore, the Grand Canyon South Rim and Muir Woods list no Thanksgiving closure**, according to each site's National Park Service (NPS) hours page and the ferry operator, Statue City Cruises. The rules below are year-round rules printed on those pages, read Nov. 25, 2026, not announcements made for this year.
 
 ## Which national park sites close on Thanksgiving?
 
@@ -168,4 +168,4 @@ No. Nov. 26 and Nov. 27 are not NPS fee-free days. The last 2026 fee-free day wa
 
 ## What to check before you go
 
-Open the site's hours page the week before, and look at park alerts the day before. Ferry-only sites such as the Statue of Liberty and Ellis Island depend on the ferry schedule. Other Thanksgiving closures are in our guide to [stores open on Thanksgiving 2026](/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/), and the [Thanksgiving travel forecast](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/) covers the roads. Mark Nov. 26 and Dec. 25 on the [November 2026](/november-calendars.html) and [December 2026](/december-calendars.html) printable calendars. The Statue of Liberty's anniversary visit details are in the [Statue of Liberty 140th anniversary story](/news/statue-of-liberty-140th-anniversary-october-28-2026-timeline-visit/).
+Open the site's hours page before you leave, and look at its park alerts on the day you go. Ferry-only sites such as the Statue of Liberty and Ellis Island depend on the ferry schedule. Other Thanksgiving closures are in our guide to [stores open on Thanksgiving 2026](/news/whats-open-thanksgiving-2026-grocery-stores-walmart-costco/), and the [Thanksgiving travel forecast](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/) covers the roads. Mark Nov. 26 and Dec. 25 on the [November 2026](/november-calendars.html) and [December 2026](/december-calendars.html) printable calendars. The Statue of Liberty's anniversary visit details are in the [Statue of Liberty 140th anniversary story](/news/statue-of-liberty-140th-anniversary-october-28-2026-timeline-visit/).

@@ -3,7 +3,7 @@ title: "Thanksgiving Printables 2026: Place Cards and a Kids' Table Sheet"
 description: "Free Thanksgiving printables for Nov. 26, 2026: 8 place cards a page, gratitude cards, a word search with answer key and a kids' facts quiz."
 type: explainer
 publishedAt: "2026-11-14T18:40:00-05:00"
-updatedAt: "2026-11-14T18:40:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["thanksgiving printables", "thanksgiving place cards printable", "thanksgiving activity sheet for kids", "thanksgiving gratitude cards printable"]
@@ -80,6 +80,7 @@ sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
+    date: "2026-11-25"
   - title: "Congress Establishes Thanksgiving"
     url: "https://www.archives.gov/legislative/features/thanksgiving"
     publisher: "National Archives"
@@ -140,7 +141,7 @@ downloads:
 draft: false
 ---
 
-**Thanksgiving Day 2026 is Thursday, Nov. 26, 12 days from Saturday, Nov. 14, and four free printables for the table are ready to print:** place cards at 8 to a page, gratitude cards at 6 to a page, a 12-word word search with an answer key, and a kids' table activity sheet with a seven-question quiz. The date comes from the U.S. Office of Personnel Management (OPM) federal holidays list, which prints "Thursday, November 26 | Thanksgiving Day". The quiz facts come from the National Archives, the U.S. Department of Agriculture (USDA) and the Census Bureau.
+**Thanksgiving Day 2026 is Thursday, Nov. 26, and four free printables for the table are ready to print:** place cards at 8 to a page, gratitude cards at 6 to a page, a 12-word word search with an answer key, and a kids' table activity sheet with a seven-question quiz. The date comes from the U.S. Office of Personnel Management (OPM) federal holidays list, which prints "Thursday, November 26 | Thanksgiving Day". The quiz facts come from the National Archives, the U.S. Department of Agriculture (USDA) and the Census Bureau.
 
 For the cooking and shopping side, see our [Thanksgiving 2026 planner and countdown](/news/thanksgiving-2026-planner-countdown-checklist/). The date itself is on the [Thanksgiving date page](/when-is/thanksgiving/) and the [November 2026 printable calendar](/november-calendars.html).
 

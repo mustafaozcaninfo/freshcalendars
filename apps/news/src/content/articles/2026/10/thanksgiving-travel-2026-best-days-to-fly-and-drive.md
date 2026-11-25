@@ -3,7 +3,7 @@ title: "Thanksgiving Travel 2026: Best Days to Fly and Drive, Nov. 21 to 30"
 description: "American Automobile Association (AAA) projects 81.5 million Thanksgiving travelers in 2026, down 0.1 percent; INRIX drive times for each day, Nov. 24-30."
 type: explainer
 publishedAt: "2026-10-24T13:15:00-04:00"
-updatedAt: "2026-11-16T03:25:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["Thanksgiving travel 2026", "best days to travel for Thanksgiving 2026", "busiest travel days Thanksgiving", "Thanksgiving driving times", "REAL ID Thanksgiving"]
@@ -64,7 +64,7 @@ sources:
   - title: "Thanksgiving Travel Expected to Dip Slightly Compared to Last Year"
     url: "https://newsroom.aaa.com/2026/11/aaa-thanksgiving-holiday-travel-forecast/"
     publisher: "American Automobile Association (AAA)"
-    date: "2026-11-16"
+    date: "2026-11-25"
   - title: "Nearly 82 Million Americans Projected to Travel over Thanksgiving"
     url: "https://newsroom.aaa.com/2025/11/aaa-thanksgiving-travel-forecast-2025/"
     publisher: "American Automobile Association (AAA)"
@@ -82,7 +82,15 @@ sources:
   - title: "Amtrak Encourages Travelers to Book Thanksgiving Travel Early Amid Historic Demand"
     url: "https://media.amtrak.com/2026/11/amtrak-encourages-travelers-to-book-thanksgiving-travel-early-amid-historic-demand/"
     publisher: "Amtrak Media"
-    date: "2026-11-03"
+    date: "2026-11-25"
+  - title: "TSA braces for nearly 18 million air travelers over Thanksgiving holiday"
+    url: "https://www.foxbusiness.com/fox-news-travel/tsa-forecasts-nearly-18-million-air-travelers-during-thanksgiving-week"
+    publisher: "Fox Business"
+    date: "2026-11-24"
+  - title: "TSA projects near-record airline travel this week; long lines possible in Salt Lake City"
+    url: "https://www.deseret.com/lifestyle/2026/11/25/tsa-projects-near-record-airline-travel-this-week-long-lines-possible-in-salt-lake-city/"
+    publisher: "Deseret News"
+    date: "2026-11-25"
 downloads:
   - group: "Thanksgiving Travel Calendar printables"
     title: "Thanksgiving Travel Calendar, Nov. 21 to 30, 2026"
@@ -111,7 +119,7 @@ draft: false
 
 **The American Automobile Association (AAA) projects 81.5 million Americans will travel at least 50 miles from home for Thanksgiving 2026, down 0.1 percent from last year, according to its Nov. 16, 2026 forecast.** Thanksgiving Day is Thursday, Nov. 26, a federal holiday listed by the U.S. Office of Personnel Management (OPM). AAA counts the holiday period as seven days, Tuesday, Nov. 24 to Monday, Nov. 30.
 
-That is about 121,000 fewer travelers than last year, when AAA counted 81.6 million. AAA notes its counts should not be compared with Transportation Security Administration (TSA) screening counts, and no TSA 2026 Thanksgiving projection had been posted yet.
+That is about 121,000 fewer travelers than last year, when AAA counted 81.6 million. AAA notes its counts should not be compared with Transportation Security Administration (TSA) screening counts. Fox Business and the Deseret News both report that the TSA expects about 17.6 million screenings from Tuesday, Nov. 24 to Monday, Nov. 30, and more than 3 million on Sunday, Nov. 29. The TSA's own release was blocked to automated access, so the figures come from those two newsrooms.
 
 ## The Thanksgiving 2026 travel window
 
