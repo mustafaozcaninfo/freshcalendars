@@ -3,7 +3,7 @@ title: "Best Buy Black Friday Hours 2026: Open 6 a.m.-10 p.m. Nov. 27"
 description: "Best Buy Black Friday hours 2026: 6 a.m. to 10 p.m. on Nov. 27, closed Thanksgiving, Nov. 26. Every holiday date to Jan. 31, 2027, and a printable."
 type: news
 publishedAt: "2026-10-28T21:50:00-04:00"
-updatedAt: "2026-11-25T16:49:00-05:00"
+updatedAt: "2026-11-25T17:05:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["best buy black friday 2026", "best buy doorbusters october 30", "best buy holiday calendar 2026", "best buy return policy holiday 2026", "best buy cyber week 2026"]
@@ -141,7 +141,7 @@ Best Buy's Nov. 17 release gives a "sneak peek" of the Black Friday Sale. These 
 - Oura Ring 5: as low as $299.99.
 - Select trading cards and select major appliances: save up to 50%.
 
-Best Buy says the Cyber Sunday and Monday Sale Event offers savings of up to 50%. Prices are valid during, but may start before and end after, each event, with limited quantities and no rainchecks.
+Best Buy says the Cyber Sunday and Monday Sale Event offers savings of up to 50%. Prices are valid during, but may start before and end after, each event, with limited quantities and no rainchecks. Store hours, end times by U.S. time zone, the return window and price match terms for that weekend are in our [Best Buy Cyber Monday 2026 story](/news/best-buy-cyber-monday-2026-dates-return-window-price-match/).
 
 ## When can I return what I buy?
 

@@ -1,6 +1,6 @@
 ---
 title: "Best Buy Cyber Monday 2026: Nov. 30, Stores Open 10 a.m. to 10 p.m."
-description: "Best Buy Cyber Monday 2026 is Nov. 30: stores 10 a.m. to 10 p.m., sale ends 11:59 p.m. CT. End times in four U.S. zones, plus return and price-match dates."
+description: "Best Buy Cyber Monday 2026 is Nov. 30: stores 10 a.m. to 10 p.m., sale ends 11:59 p.m. CT. End times by U.S. zone, plus return and price-match dates."
 type: news
 publishedAt: "2026-11-25T16:45:00-05:00"
 authors: [jessica-hartwell]
@@ -22,6 +22,8 @@ assets:
     description: "One-page list of when Best Buy's Thanksgiving flash sale, Cyber Sunday and Monday doorbusters, Cyber Monday event and Cyber Week deals end, in four U.S. time zones."
     alt: "Printable table of Best Buy 2026 sale end times in Eastern, Central, Mountain and Pacific Time"
     data:
+      pick: false
+      layout: days
       events:
         - { start: "2026-11-26T23:59-06:00", title: "Thanksgiving 24-Hour Flash Sale ends", airing: live, src: 1, quote: ["Thanksgiving Day, Nov. 26: Closed", "Flash Sale ends 11/26/26 at 11:59 p.m. CT."] }
         - { start: "2026-11-29T23:59-06:00", title: "Cyber Sunday and Monday doorbusters end", airing: live, src: 1, quote: ["Cyber Sunday, Nov. 29: 9 a.m. to 9 p.m.", "Doorbusters end 11/29/26 at 11:59 p.m. CT."] }
