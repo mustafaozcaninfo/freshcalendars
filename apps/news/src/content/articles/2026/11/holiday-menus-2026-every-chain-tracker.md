@@ -132,7 +132,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [starbucks-holiday-menu-2026-red-cup-day-date, red-robin-holiday-menu-2026-oreo-candy-cane-milkshake, peets-holiday-menu-2026-peppermint-bark-matcha-black-cherry-energy]
+related: [starbucks-holiday-menu-2026-red-cup-day-date, red-robin-holiday-menu-2026-oreo-candy-cane-milkshake, cinnabon-black-friday-2026-gift-card-rewards-auntie-annes]
 downloads:
   - group: "Holiday Menus 2026 Try List by Chain printables"
     title: "Holiday Menus 2026 Try List by Chain"
