@@ -1,10 +1,18 @@
 [
   {
     "date": "2026-11-25",
-    "label": "Ofgem announces energy price cap for Jan. to Mar. 2027"
+    "label": "Ofgem announced energy price cap for Jan. to Mar. 2027"
   },
   {
     "date": "2027-01-01",
     "label": "New Ofgem energy price cap period begins"
+  },
+  {
+    "date": "2027-02-23",
+    "label": "Ofgem announces energy price cap for Apr. to June 2027 (by)"
+  },
+  {
+    "date": "2027-06-30",
+    "label": "VAT removal on electricity bills runs to"
   }
 ]
