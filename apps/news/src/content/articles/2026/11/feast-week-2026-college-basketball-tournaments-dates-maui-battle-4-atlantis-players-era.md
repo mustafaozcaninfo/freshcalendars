@@ -3,7 +3,7 @@ title: "Feast Week Tournaments 2026: Maui Nov. 23-25, Atlantis Nov. 25-27"
 description: "Feast Week 2026 college basketball: Maui Nov. 23-25, Atlantis Nov. 25-27, Players Era Nov. 24-28. Every field, posted tip times and TV, and a printable."
 type: news
 publishedAt: "2026-11-01T10:52:00-05:00"
-updatedAt: "2026-11-19T01:42:00-05:00"
+updatedAt: "2026-11-25T14:29:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["feast week 2026 college basketball", "maui invitational 2026 schedule", "battle 4 atlantis 2026", "players era 2026 dates", "thanksgiving college basketball tournaments 2026"]
@@ -16,22 +16,22 @@ assets:
     slug: feast-week-2026-college-basketball-tournament-calendar
     group: college-basketball-2026-27
     title: "Feast Week 2026 College Basketball Tournament Calendar"
-    subtitle: "Thanksgiving is Thu., Nov. 26, 2026. Tip times not yet announced are left out."
+    subtitle: "Thanksgiving is Thu., Nov. 26, 2026. Players Era 16 final: Sat., Nov. 28, 10:30 p.m. ET."
     layout: list
     noKit: "Seven-tournament Thanksgiving-week calendar with no single game schedule; a watch guide or fact table does not fit"
     rows:
       - ["Tue., Nov. 17 to Thu., Nov. 19", "Players Era 8, Michelob Ultra Arena, Las Vegas: Houston, Rutgers, Florida, Notre Dame, West Virginia, Auburn, Kansas, UNLV"]
       - ["Fri., Nov. 20 and Sun., Nov. 22", "Charleston Classic, TD Arena: Dayton, Minnesota, Northwestern, Oklahoma State, Utah, Virginia Tech"]
       - ["Mon., Nov. 23 to Wed., Nov. 25", "Maui Invitational, Lahaina Civic Center: Arizona, BYU, Clemson, Colorado State, Ole Miss, Providence, VCU, Washington"]
-      - ["Mon., Nov. 23, 5 p.m. ET", "BYU vs. Washington, Maui Invitational quarterfinals, ESPN2"]
+      - ["Wed., Nov. 25, 2:30 p.m. ET", "Maui Invitational championship, Lahaina Civic Center, ESPN"]
       - ["Mon., Nov. 23 to Wed., Nov. 25", "ESPN Events Invitational, Adventure Group, Kissimmee: Akron, Appalachian State, Belmont, St. Bonaventure, Wright State, Yale"]
       - ["Tue., Nov. 24 and Thu., Nov. 26", "Fort Myers Tip-Off, Beach Division: Pitt, Oklahoma, DePaul, Purdue"]
-      - ["Tue., Nov. 24 to Sat., Nov. 28", "Players Era 16, T-Mobile Arena and Michelob Ultra Arena, Las Vegas: 16 teams; final Sat., Nov. 28 at Michelob Ultra Arena"]
+      - ["Tue., Nov. 24 to Sat., Nov. 28", "Players Era 16, T-Mobile Arena and Michelob Ultra Arena, Las Vegas: 16 teams; final Sat., Nov. 28, 10:30 p.m. ET on ESPN at Michelob Ultra Arena"]
       - ["Wed., Nov. 25 to Fri., Nov. 27", "Battle 4 Atlantis, Imperial Arena, Bahamas: Marquette, Memphis, Mississippi State, Penn State, Texas A&M, Virginia, Wake Forest, Xavier"]
       - ["Thu., Nov. 26", "Thanksgiving Day"]
       - ["Thu., Nov. 26 and Fri., Nov. 27", "ESPN Events Invitational, Magic Group, Kissimmee: Boston College, UCF, Cincinnati, Georgia"]
       - ["Thu., Nov. 26 and Fri., Nov. 27", "Rady Children's Invitational, University of San Diego: UCLA, Georgetown, Saint Mary's, Texas"]
-    note: "Source: tournament and school athletics releases and ESPN Press Room (May to Nov. 13, 2026). Tip times not yet announced are left out."
+    note: "Source: tournament and school athletics releases and ESPN Press Room."
     description: "A one-page Feast Week 2026 college basketball calendar with seven Thanksgiving-week tournaments, Nov. 17 to Nov. 28, their venues and confirmed teams."
     alt: "Printable Feast Week 2026 college basketball tournament calendar listing dates, venues and teams for Maui, Atlantis, Players Era and more"
 hero:
@@ -45,21 +45,21 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Atlantis_Paradise_Island_Bahamas_2024.jpg"
     author: "Larry D. Moore"
 summary:
-  - "The Southwest Maui Invitational is Nov. 23-25, 2026, at Lahaina Civic Center, with Brigham Young University (BYU) vs. Washington in the quarterfinals on Monday, Nov. 23 at 5 p.m. Eastern Time (ET) on ESPN2, per BYU Athletics."
-  - "Battle 4 Atlantis runs Nov. 25-27 at Imperial Arena in the Bahamas with eight teams in two groups of four; matchups and tipoff times are not yet announced."
-  - "Players Era 16 is Nov. 24-28 in Las Vegas, and its championship game is Saturday, Nov. 28 at 10:30 p.m. ET on ESPN at Michelob Ultra Arena, per Players Era. ESPN networks carry all 37 games of the two Players Era events."
-  - "ESPN Events and the Fort Myers Tip-Off have posted tip times and TV for Charleston, Kissimmee and Fort Myers; the printable lists seven tournaments with dates, venues and confirmed teams."
+  - "The Southwest Maui Invitational is Nov. 23-25, 2026, at Lahaina Civic Center, and its championship is Wednesday, Nov. 25 at 2:30 p.m. Eastern Time (ET) on ESPN, per ESPN Press Room."
+  - "Battle 4 Atlantis runs Nov. 25-27 at Imperial Arena in the Bahamas: Virginia vs. Marquette at noon ET on ESPN opens it on Wednesday, Nov. 25, per ESPN Press Room."
+  - "Players Era 16 is Nov. 24-28 in Las Vegas, and its championship game is Saturday, Nov. 28 at 10:30 p.m. ET on ESPN at Michelob Ultra Arena. ESPN networks carry all 37 games of the two Players Era events."
+  - "ESPN, ESPN Events and the Fort Myers Tip-Off have posted tip times and TV for Kissimmee, Fort Myers, Atlantis and Players Era 16; the printable lists seven tournaments with dates, venues and confirmed teams."
 faq:
   - q: "When is the Maui Invitational in 2026?"
-    a: "Nov. 23-25, 2026, at Lahaina Civic Center, per BYU Athletics and the tournament site. The championship is Wednesday, Nov. 25, and all 12 games are on ESPN, ESPN2 or ESPNU."
+    a: "Nov. 23-25, 2026, at Lahaina Civic Center, per BYU Athletics and the tournament site. The championship is Wednesday, Nov. 25 at 2:30 p.m. ET on ESPN, and all 12 games are on ESPN, ESPN2 or ESPNU."
   - q: "What time does BYU play Washington in Maui?"
-    a: "In the quarterfinals, Monday, Nov. 23 at 3 p.m. Mountain Time (MT) on ESPN2, which is 5 p.m. ET, per BYU Athletics."
+    a: "In the quarterfinals, Monday, Nov. 23 at 5 p.m. ET on ESPN2, which was 3 p.m. Mountain Time (MT), per BYU Athletics and ESPN Press Room. BYU plays on in the Maui bracket; the championship is Wednesday, Nov. 25 at 2:30 p.m. ET on ESPN."
   - q: "Who is in the 2026 Battle 4 Atlantis field?"
-    a: "Marquette, Memphis, Mississippi State, Penn State, Texas A&M, Virginia, Wake Forest and Xavier, per Atlantis Paradise Island. Penn State's group has Memphis, Mississippi State and Wake Forest."
+    a: "Marquette, Memphis, Mississippi State, Penn State, Texas A&M, Virginia, Wake Forest and Xavier, per Atlantis Paradise Island. Penn State's group has Memphis, Mississippi State and Wake Forest. Wednesday, Nov. 25: Virginia vs. Marquette noon, Texas A&M vs. Xavier 2:30 p.m., Memphis vs. Penn State 5 p.m., Wake Forest vs. Mississippi State 7:30 p.m. (all ET), per ESPN Press Room."
   - q: "How many games are in Players Era 2026?"
-    a: "ESPN Press Room says ESPN networks will be the exclusive home of all 37 games across Players Era 8 and Players Era 16. Players Era lists the Players Era 8 final for tonight, Thursday, Nov. 19 at 11 p.m. ET and the Players Era 16 final for Saturday, Nov. 28 at 10:30 p.m. ET, both on ESPN."
+    a: "ESPN Press Room says ESPN networks will be the exclusive home of all 37 games across Players Era 8 and Players Era 16. Players Era scheduled the Players Era 8 final for Thursday, Nov. 19 at 11 p.m. ET and the Players Era 16 final for Saturday, Nov. 28 at 10:30 p.m. ET, both on ESPN."
   - q: "Are tip times set for the Atlantis and Players Era games?"
-    a: "Only partly. Atlantis Paradise Island and Penn State Athletics say matchups and tipoff times will be announced later, and the Players Era sites list only the two championship games. Charleston, Kissimmee and Fort Myers times are posted."
+    a: "Yes, for nearly all. ESPN Press Room lists every Players Era 16 game with time and network, and the Atlantis games through Friday, Nov. 27. Two Atlantis games on Friday, Nov. 27 (Mississippi State and Wake Forest, at 1:30 p.m. or 7:30 p.m. ET) wait for Wednesday's results."
 sources:
   - title: "Bracket announced for 2026 Southwest Maui Invitational"
     url: "https://byucougars.com/news/2026/07/29/bracket-announced-for-2026-southwest-maui-invitational"
@@ -72,11 +72,11 @@ sources:
   - title: "Southwest Maui Invitational"
     url: "https://www.mauiinvitational.com/"
     publisher: "Maui Invitational"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Battle 4 Atlantis Men's Tournament"
     url: "https://www.atlantisbahamas.com/battle-for-atlantis/mens"
     publisher: "Atlantis Paradise Island"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Men's basketball to compete in 2026 Battle 4 Atlantis"
     url: "https://gopsusports.com/news/2026/07/1/mens-basketball-to-compete-in-2026-battle-4-atlantis"
     publisher: "Penn State Athletics"
@@ -92,11 +92,11 @@ sources:
   - title: "Players Era 16"
     url: "https://www.playersera.com/events/players-era-16"
     publisher: "Players Era"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Players Era 8"
     url: "https://www.playersera.com/events/players-era-8"
     publisher: "Players Era"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "2026 Fort Myers Tip-Off Palms Division Field Announced"
     url: "https://www.fortmyerstipoff.com/2026/08/19/2026-fort-myers-tip-off-palms-division-field-announced/"
     publisher: "Fort Myers Tip-Off"
@@ -104,7 +104,7 @@ sources:
   - title: "2026 Event Central"
     url: "https://www.fortmyerstipoff.com/2026-event-central/"
     publisher: "Fort Myers Tip-Off"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Fields revealed for 2026 ESPN Events Invitational"
     url: "https://espnevents.com/press/espn-events-invitational/fields-revealed-for-2026-espn-events-invitational/"
     publisher: "ESPN Events"
@@ -120,6 +120,10 @@ sources:
   - title: "Participants revealed for 2026 Shriners Children's Charleston Classic"
     url: "https://espnevents.com/?p=19232"
     publisher: "ESPN Events"
+  - title: "ESPN's Feast Week rolls on with 250+ men's college basketball games, Players Era 16, Maui Invitational, Battle 4 Atlantis and more"
+    url: "https://espnpressroom.com/press-release/espns-feast-week-rolls-on-with-250-mens-college-basketball-games-players-era-16-maui-invitational-battle-4-atlantis-and-more/"
+    publisher: "ESPN Press Room"
+    date: "2026-11-23"
 downloads:
   - group: "Feast Week 2026 College Basketball Tournament Calendar printables"
     title: "Feast Week 2026 College Basketball Tournament Calendar"
@@ -140,46 +144,59 @@ draft: false
 
 **The 2026 Southwest Maui Invitational runs Nov. 23-25 at Lahaina Civic Center, Battle 4 Atlantis runs Nov. 25-27 in the Bahamas and Players Era 16 runs Nov. 24-28 in Las Vegas, according to the tournaments' own announcements.** Below: a day-by-day Feast Week calendar from Friday, Nov. 20 to Saturday, Nov. 28, every confirmed field and a one-page printable.
 
-Thanksgiving is Thursday, Nov. 26, 2026 (see [when is Thanksgiving](/when-is/thanksgiving/)). Most tip times are not yet announced, so this story lists only the ones the organizers have published. Opening week comes first; our [college basketball opening night story](/news/college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic/) has the games of Nov. 2-10.
+Thanksgiving is Thursday, Nov. 26, 2026 (see [when is Thanksgiving](/when-is/thanksgiving/)). The story lists the tip times the organizers and ESPN have published. Opening week comes first; our [college basketball opening night story](/news/college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic/) has the games of Nov. 2-10.
 
 ## What is the Feast Week 2026 college basketball calendar day by day?
 
-The table combines the schedules from the seven tournament announcements below. Players Era 16 is Nov. 24-28 with an opening round on Nov. 24, round 2 on Nov. 26, semifinals on Nov. 27 and the championship on Nov. 28; Players Era has not yet published the game-by-game times.
+The table combines the schedules from the seven tournament announcements below. Players Era 16 is Nov. 24-28 with an opening round on Nov. 24, round 2 on Nov. 26, semifinals on Nov. 27 and the championship on Nov. 28; ESPN Press Room lists the game-by-game times (below).
 
 | Day | Where the tournaments are | Confirmed detail |
 |---|---|---|
 | Fri., Nov. 20 | Shriners Children's Charleston Classic, TD Arena, Charleston, S.C. | Oklahoma State vs. Minnesota 12:30 p.m. ET, Northwestern vs. Virginia Tech 3 p.m., Dayton vs. Utah 5:30 p.m., all on ESPN2 |
 | Sat., Nov. 21 | None in the announcements we checked | |
 | Sun., Nov. 22 | Charleston Classic | Dayton vs. Northwestern 1 p.m. (ESPN2), Virginia Tech vs. Oklahoma State 3:30 p.m. (ESPN), Utah vs. Minnesota 6 p.m. (ESPN2) |
-| Mon., Nov. 23 | Maui Invitational; ESPN Events Invitational (Adventure Group) | Brigham Young University (BYU) vs. Washington (quarterfinals), 5 p.m. ET on ESPN2; Clemson vs. Ole Miss; Kissimmee Adventure Group games at 11 a.m., 1:30 p.m. and 4 p.m. ET; Fort Myers Palms Division (Northern Iowa vs. Davidson 11 a.m. ET) |
+| Mon., Nov. 23 | Maui Invitational; ESPN Events Invitational (Adventure Group) | Brigham Young University (BYU) vs. Washington (quarterfinals), 5 p.m. ET on ESPN2; Ole Miss vs. Clemson 2:30 p.m.; Kissimmee Adventure Group games at 11 a.m., 1:30 p.m. and 4 p.m. ET; Fort Myers Palms Division (Northern Iowa vs. Davidson 11 a.m. ET) |
 | Tue., Nov. 24 | Maui; ESPN Events Adventure Group; Fort Myers Tip-Off; Players Era 16 opens | Oklahoma vs. Pitt 1:30 p.m. ET (FS2) and DePaul vs. Purdue 6 p.m. (FS1) in Fort Myers |
-| Wed., Nov. 25 | Maui championship; Adventure Group ends; Battle 4 Atlantis opens; Players Era 16 | Atlantis first day; Kissimmee Adventure Group games at 10 a.m., 12:30 p.m. and 3 p.m. ET |
+| Wed., Nov. 25 | Maui championship; Adventure Group ends; Battle 4 Atlantis opens | Maui championship 2:30 p.m. ET (ESPN); Atlantis: Virginia vs. Marquette noon (ESPN), Texas A&M vs. Xavier 2:30 p.m. (ESPN2), Memphis vs. Penn State 5 p.m. (ESPNU), Wake Forest vs. Mississippi State 7:30 p.m. (ESPN2); Kissimmee Adventure Group games at 10 a.m., 12:30 p.m. and 3 p.m. ET |
 | Thu., Nov. 26 (Thanksgiving) | Atlantis; Players Era 16; ESPN Events (Magic Group); Fort Myers; Rady Children's Invitational | Oklahoma vs. Purdue noon ET (FOX) and DePaul vs. Pitt 7 p.m. (FS1) in Fort Myers; Georgia vs. Cincinnati 11 a.m. (ESPN) and Boston College vs. University of Central Florida (UCF) 1:30 p.m. (ESPN2) in Kissimmee |
-| Fri., Nov. 27 | Atlantis ends; Players Era 16; Magic Group; Rady Children's Invitational | Atlantis final day; Cincinnati vs. Boston College 4:30 p.m. ET (network to be announced) and UCF vs. Georgia 7 p.m. (ESPN2) in Kissimmee |
+| Fri., Nov. 27 | Atlantis ends; Players Era 16; Magic Group; Rady Children's Invitational | Atlantis: Virginia vs. Xavier 11 a.m. (ESPN2), Marquette vs. Texas A&M 5 p.m. (SEC Network), Mississippi State and Wake Forest games at 1:30 p.m. or 7:30 p.m. (SEC Network, ACC Network); Cincinnati vs. Boston College 4:30 p.m. ET (ACC Network) and UCF vs. Georgia 7 p.m. (ESPN2) in Kissimmee |
 | Sat., Nov. 28 | Players Era 16 | Players Era 16 championship, 10:30 p.m. ET on ESPN at Michelob Ultra Arena |
 
-Players Era 8, a separate event at Michelob Ultra Arena, comes before all of this. Its opening round (Nov. 17) and semifinals (Nov. 18) have been played, and its championship game is tonight, Thursday, Nov. 19, at 11 p.m. ET on ESPN.
+Players Era 8, a separate event at Michelob Ultra Arena, comes before all of this. Its opening round (Nov. 17) and semifinals (Nov. 18) were played, and its championship game was Thursday, Nov. 19, at 11 p.m. ET on ESPN.
 
 ## When is the Southwest Maui Invitational 2026 and who plays?
 
-BYU Athletics says "The eight-team tournament will be played on Nov. 23-25 at Lahaina Civic Center" and that all 12 games will be on ESPN, ESPN2 or ESPNU. This is the 42nd edition. BYU plays Washington in the quarterfinals on Monday, Nov. 23 at 3 p.m. MT on ESPN2, which is 5 p.m. ET. Clemson Athletics says Clemson meets Ole Miss in the first round on Monday, Nov. 23. The championship is Wednesday, Nov. 25.
+BYU Athletics says "The eight-team tournament will be played on Nov. 23-25 at Lahaina Civic Center" and that all 12 games will be on ESPN, ESPN2 or ESPNU. This is the 42nd edition. BYU played Washington in the quarterfinals on Monday, Nov. 23 at 3 p.m. MT on ESPN2, which is 5 p.m. ET. Clemson Athletics says Clemson met Ole Miss in the first round on Monday, Nov. 23 (2:30 p.m. ET, ESPN2). ESPN Press Room lists the championship for Wednesday, Nov. 25 at 2:30 p.m. ET on ESPN, the third-place game at 5:30 p.m. on ESPN2, the fifth-place game at 10 p.m. and the seventh-place game at 12:30 a.m. on ESPN2.
 
-The field, per the tournament site: Arizona, BYU, Clemson, Colorado State, Ole Miss, Providence, Virginia Commonwealth University (VCU) and Washington. Other tip times are on the tournament site and in ESPN's listings, and are not repeated here.
+The field, per the tournament site: Arizona, BYU, Clemson, Colorado State, Ole Miss, Providence, Virginia Commonwealth University (VCU) and Washington. Earlier-round results are on the tournament site and in ESPN's listings, and are not repeated here.
 
 ## What is the Battle 4 Atlantis 2026 field and schedule?
 
 Atlantis Paradise Island lists the men's tournament for November 25-27 at Imperial Arena, Paradise Island, Bahamas. The eight teams are Marquette, Memphis, Mississippi State, Penn State, Texas A&M, Virginia, Wake Forest and Xavier.
 
-Penn State Athletics says the field is split into two groups of four. Penn State's group is Memphis, Mississippi State and Wake Forest, which leaves Marquette, Texas A&M, Virginia and Xavier in the other group. Penn State says matchups and tipoff times will be announced at a later date.
+Penn State Athletics says the field is split into two groups of four. Penn State's group is Memphis, Mississippi State and Wake Forest, which leaves Marquette, Texas A&M, Virginia and Xavier in the other group. ESPN Press Room has since listed the games. On Wednesday, Nov. 25 (ET): Virginia vs. Marquette at noon on ESPN, Texas A&M vs. Xavier at 2:30 p.m. on ESPN2, Memphis vs. Penn State at 5 p.m. on ESPNU and Wake Forest vs. Mississippi State at 7:30 p.m. on ESPN2. On Friday, Nov. 27: Virginia vs. Xavier at 11 a.m. on ESPN2 and Marquette vs. Texas A&M at 5 p.m. on SEC Network. The other two games, with Mississippi State and Wake Forest, are at 1:30 p.m. or 7:30 p.m. on SEC Network and ACC Network, depending on Wednesday's results.
 
 ## What are the Players Era 2026 dates, arenas and teams?
 
-ESPN Press Room announced two events on May 21, 2026, and said ESPN networks will be the exclusive home of all 37 games. Players Era lists the Players Era 16 championship game for Saturday, Nov. 28 at 10:30 p.m. ET (7:30 p.m. PT) at Michelob Ultra Arena on ESPN. Other tip times are not yet announced. The Players Era 8 opening round (Nov. 17) and semifinals (Nov. 18) have been played; its championship game is tonight, Thursday, Nov. 19, at 11 p.m. ET on ESPN, per Players Era.
+ESPN Press Room announced two events on May 21, 2026, and said ESPN networks will be the exclusive home of all 37 games. Players Era lists the Players Era 16 championship game for Saturday, Nov. 28 at 10:30 p.m. ET (7:30 p.m. PT) at Michelob Ultra Arena on ESPN. ESPN Press Room lists the other game times (below). The Players Era 8 opening round (Nov. 17) and semifinals (Nov. 18) were played; its championship game was scheduled for Thursday, Nov. 19, at 11 p.m. ET on ESPN, per Players Era.
 
 | Event | Dates | Arena | Teams |
 |---|---|---|---|
 | Players Era 8 | Nov. 17-19, 2026 | Michelob Ultra Arena at Mandalay Bay, Las Vegas | Houston, Rutgers, Florida, Notre Dame, West Virginia, Auburn, Kansas, University of Nevada, Las Vegas (UNLV) |
 | Players Era 16 | Nov. 24-28, 2026 | T-Mobile Arena and Michelob Ultra Arena, Las Vegas | Tennessee, Maryland, San Diego State, Iowa State, St. John's, Oregon, Louisville, Texas Tech, Gonzaga, Kansas State, Baylor, Alabama, Michigan, Creighton, Texas Christian University (TCU), Miami (FL) |
+
+Players Era 16 on ESPN networks, all times ET, per ESPN Press Room. Players Era calls Nov. 26 round 2 and Nov. 27 the semifinal; ESPN lists the Nov. 26 games as semifinals and the Nov. 27 games as bracket finals, and the dates and times are the same.
+
+| Day | Game | Time and network |
+|---|---|---|
+| Tue., Nov. 24 | Tennessee vs. Maryland; Miami vs. TCU | 3 p.m., ESPN; 3 p.m., ESPNU |
+| Tue., Nov. 24 | Creighton vs. Michigan; San Diego State vs. Iowa State | 5:30 p.m., ESPN; 5:30 p.m., ESPNU |
+| Tue., Nov. 24 | Texas Tech vs. Louisville; Baylor vs. Alabama | 8 p.m., ESPN; 10 p.m., ESPN2 |
+| Tue., Nov. 24 | Oregon vs. St. John's; Gonzaga vs. Kansas State | 10:30 p.m., ESPN; 12:30 a.m., ESPN |
+| Thu., Nov. 26 | Semifinals, Michelob Ultra Arena bracket | 3:30 p.m. and 9 p.m., ESPN |
+| Thu., Nov. 26 | Semifinals, T-Mobile Arena bracket | 6 p.m. and 11:30 p.m., ESPN |
+| Fri., Nov. 27 | Bracket finals | 9 p.m., Michelob Ultra Arena bracket, ESPN; 11 p.m., T-Mobile Arena bracket, ESPN |
+| Sat., Nov. 28 | Championship | 10:30 p.m., ESPN |
 
 ## What are the other Thanksgiving-week tournaments?
 
@@ -191,8 +208,8 @@ ESPN Press Room announced two events on May 21, 2026, and said ESPN networks wil
 | Fort Myers Tip-Off, Beach Division | Nov. 24 and 26 | Suncoast Credit Union Arena, Florida SouthWestern State College | Tue.: Pitt vs. Oklahoma, DePaul vs. Purdue. Thu.: Pitt vs. DePaul, Oklahoma vs. Purdue |
 | Shriners Children's Charleston Classic | Nov. 20 and 22 | TD Arena, Charleston, S.C. | Dayton, Minnesota, Northwestern, Oklahoma State, Utah, Virginia Tech |
 
-ESPN Events posted the Kissimmee and Charleston times and networks on Sept. 28: the Adventure Group plays Nov. 23 at 11 a.m., 1:30 p.m. and 4 p.m. ET (St. Bonaventure vs. Appalachian State, Akron vs. Wright State, Yale vs. Belmont), Nov. 24 at 10 a.m., 12:30 p.m. and 3 p.m., and Nov. 25 at 10 a.m., 12:30 p.m. and 3 p.m. The network of the Cincinnati vs. Boston College game on Nov. 27 is still to be announced. The Fort Myers Tip-Off lists a separate Palms Division on Nov. 23 and 25 (Northern Iowa, Davidson, Charlotte, Florida Gulf Coast, Tulane, Georgia State). UCLA Athletics does not list times for the Rady Children's Invitational.
+ESPN Events posted the Kissimmee and Charleston times and networks on Sept. 28: the Adventure Group plays Nov. 23 at 11 a.m., 1:30 p.m. and 4 p.m. ET (St. Bonaventure vs. Appalachian State, Akron vs. Wright State, Yale vs. Belmont), Nov. 24 at 10 a.m., 12:30 p.m. and 3 p.m., and Nov. 25 at 10 a.m., 12:30 p.m. and 3 p.m. The Cincinnati vs. Boston College game on Nov. 27 is on ACC Network. The Fort Myers Tip-Off lists a separate Palms Division on Nov. 23 and 25 (Northern Iowa, Davidson, Charlotte, Florida Gulf Coast, Tulane, Georgia State). UCLA Athletics does not list times for the Rady Children's Invitational.
 
 ## Is there a printable Feast Week 2026 calendar?
 
-Yes. The one-page sheet lists the seven tournaments, with Players Era 8 and Players Era 16 on separate rows and the BYU-Washington tip, with dates, venues and confirmed teams from Nov. 17 to Nov. 28. Keep it beside the [November 2026 printable calendar](/november-calendars.html). Football fans have their own list in our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/), and pro basketball has its dates in the [NBA Cup schedule story](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/). Tip times can change; check the tournament sites and ESPN listings.
+Yes. The one-page sheet lists the seven tournaments, with Players Era 8 and Players Era 16 on separate rows and the Maui championship tip, with dates, venues and confirmed teams from Nov. 17 to Nov. 28. Keep it beside the [November 2026 printable calendar](/november-calendars.html). Football fans have their own list in our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/), and pro basketball has its dates in the [NBA Cup schedule story](/news/nba-cup-2026-schedule-dates-group-play-knockouts-final-indianapolis/). Tip times can change; check the tournament sites and ESPN listings.
