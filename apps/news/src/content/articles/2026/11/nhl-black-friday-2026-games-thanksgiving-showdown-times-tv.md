@@ -3,6 +3,7 @@ title: "NHL Black Friday 2026: 15 Games, Rangers at Blackhawks 5:30 p.m. ET"
 description: "The NHL plays 15 games on Black Friday, Nov. 27, 2026, starting at 1 p.m. ET. Every game with ET to PT times and U.S. TV, plus a printable watch sheet."
 type: news
 publishedAt: "2026-11-16T06:00:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["nhl black friday games 2026", "nhl thanksgiving showdown 2026", "nhl games november 27 2026", "rangers blackhawks black friday time"]
@@ -18,7 +19,7 @@ assets:
     group: nhl-black-friday-2026
     title: "NHL Black Friday 2026 Game Schedule, Nov. 27"
     subtitle: "All 15 games with Eastern, Central, Mountain and Pacific start times and U.S. TV"
-    note: "Source: NHL schedule for Nov. 27, 2026 (nhl.com/schedule/2026-11-27), checked Nov. 16, 2026; NHL.com TNT Sports release, Aug. 26, 2026. Central, Mountain and Pacific times are computed from the Eastern Time start. Listings can change."
+    note: "Source: NHL schedule for Nov. 27, 2026 (nhl.com/schedule/2026-11-27); NHL.com TNT Sports release, Aug. 26, 2026. Central, Mountain and Pacific times are computed from the Eastern Time start. Listings can change."
     description: "Printable of all 15 NHL games on Black Friday, Nov. 27, 2026, with Eastern, Central, Mountain and Pacific start times, U.S. TV and a My pick column."
     alt: "Printable schedule of the 15 NHL games on Black Friday, Nov. 27, 2026, with start times in four U.S. time zones and U.S. TV"
     data:
@@ -41,7 +42,7 @@ assets:
         - { start: "2026-11-27T20:00-05:00", title: "Penguins at Sabres", detail: "KeyBank Center, Buffalo", channel: "TNT, truTV, HBO Max", airing: live, src: 2, quote: "NHL on TNT's annual Thanksgiving Showdown on Black Friday, Nov. 27, will feature a doubleheader beginning with the Rangers visiting the Blackhawks at 5:30 p.m., followed by the Penguins at Buffalo Sabres at 8 p.m." }
         - { start: "2026-11-27T20:00-05:00", title: "Kraken at Oilers", detail: "Rogers Place, Edmonton", channel: "Prime Video, regional TV", airing: live, src: 1, quote: ["Fri., Nov. 27, 2026", "8:00 PM ET"] }
       unconfirmed:
-        - { label: "Regional TV listings", why: "NHL listings as of Nov. 16, 2026 and can change" }
+        - { label: "Regional TV listings", why: "NHL listings as of Nov. 25, 2026 and can change" }
 hero:
   src: ../../../../assets/news/nhl-black-friday-2026-games-thanksgiving-showdown-times-tv/nhl-black-friday-2026-games-thanksgiving-showdown-times-tv.webp
   alt: "Exterior of the United Center in Chicago, where the Rangers visit the Blackhawks in the NHL Black Friday 2026 games"
@@ -66,12 +67,12 @@ faq:
   - q: "Are any Black Friday NHL games on ESPN or ABC?"
     a: "No. The ESPN national schedule NHL.com published on Aug. 26, 2026 lists no ESPN or ABC game from Nov. 25 to Nov. 27."
   - q: "Can the local TV listings change?"
-    a: "Yes. The regional and local listings here are the NHL's as of Nov. 16, 2026, and can change before Nov. 27."
+    a: "Yes. The regional and local listings here are the NHL's as of Nov. 25, 2026, and can change before Nov. 27."
 sources:
   - title: "NHL schedule, Nov. 27, 2026"
     url: "https://www.nhl.com/schedule/2026-11-27"
     publisher: "NHL"
-    date: "2026-11-16"
+    date: "2026-11-25"
   - title: "TNT Sports unveils national television schedule for 2026-27 season"
     url: "https://www.nhl.com/news/tnt-releases-schedule-of-72-nhl-regular-season-games-for-2026-27"
     publisher: "NHL.com"
@@ -108,7 +109,7 @@ The table gives every start in Eastern Time (ET), Central Time (CT), Mountain Ti
 
 ## NHL Black Friday 2026 game times and TV
 
-Start times come from the NHL's schedule data for Nov. 27, 2026, checked Nov. 16. The CT, MT and PT columns are computed from the ET start. Regional and local listings are the NHL's as of Nov. 16 and can change.
+Start times come from the NHL's schedule data for Nov. 27, 2026, checked Nov. 25. The CT, MT and PT columns are computed from the ET start. Regional and local listings are the NHL's as of Nov. 25 and can change.
 
 | Game (home team second) | ET | CT | MT | PT | Venue | U.S. TV |
 |---|---|---|---|---|---|---|
@@ -140,7 +141,7 @@ The NHL's listings name these Canadian channels for the Nov. 27 games. Four game
 | Flames at Devils | Sportsnet |
 | Stars at Blues | Sportsnet+ |
 | Senators at Lightning | TSN5, Réseau des sports (RDS) |
-| Canucks at Flyers | Sportsnet Pacific |
+| Canucks at Flyers | Sportsnet Pacific, Sportsnet One |
 | Avalanche at Wild | TVA Sports |
 | Golden Knights at Sharks | Sportsnet |
 | Rangers at Blackhawks | Sportsnet+ |

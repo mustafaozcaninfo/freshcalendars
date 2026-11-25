@@ -3,7 +3,7 @@ title: "AAA Tow to Go 2026: Free Rides Nov. 25-30 and Dec. 24-Jan. 4"
 description: "AAA Tow to Go runs Nov. 25-30 and Dec. 24-Jan. 4, 2027. Free ride home at (855) 286-9246, with the states covered and the length of each window."
 type: news
 publishedAt: "2026-11-07T18:50:00-05:00"
-updatedAt: "2026-11-17T11:25:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["aaa tow to go 2026", "tow to go thanksgiving 2026", "free tow new years eve 2026", "aaa tow to go phone number"]
@@ -29,7 +29,7 @@ assets:
     group: aaa-tow-to-go-2026
     title: "AAA Tow to Go 2026: Windows and Phone Card"
     subtitle: "Free ride home from Thanksgiving eve and Christmas Eve, call (855) 286-9246"
-    note: "Source: The Auto Club Group (AAA), Tow To Go page, checked Nov. 7, 2026. Times are local time. Not available in every rural area or in severe weather."
+    note: "Source: The Auto Club Group (AAA), Tow To Go page and Nov. 24 release. Times are local time. Not available in every rural area or in severe weather."
     description: "Wallet card with the two AAA Tow to Go 2026 windows, start and end times, length and the toll-free number (855) 286-9246."
     alt: "AAA Tow to Go 2026 printable listing the Thanksgiving and Christmas to New Year windows with the phone number"
     data:
@@ -44,7 +44,7 @@ assets:
           src: 1
           quote: ["December 25th (Friday), January 1st, 2027 (Friday)", "6:00PM Thursday 12/24/2026 TO 6:00AM Monday 01/04/2027"]
       unconfirmed:
-        - { label: "AAA's 2026 holiday announcement", why: "AAA had not issued it as of Nov. 7, 2026" }
+        - { label: "AAA's Christmas and New Year 2026 announcement", why: "Not issued as of Nov. 25, 2026" }
 summary:
   - "AAA's Tow To Go page lists two 2026 windows: 6 p.m. local time Wednesday, Nov. 25 to 6 a.m. Monday, Nov. 30 (4 days 12 hours), and 6 p.m. Thursday, Dec. 24 to 6 a.m. Monday, Jan. 4, 2027 (10 days 12 hours)."
   - "The ride is free to AAA members and non-members, and a tow truck takes the vehicle and driver home or somewhere safe within 10 miles. The number is (855) 286-9246."
@@ -67,7 +67,7 @@ sources:
   - title: "Tow To Go | Membership Benefit | AAA"
     url: "https://www.acg.aaa.com/drivers-safety/tow-to-go.html"
     publisher: "The Auto Club Group (AAA)"
-    date: "2026-11-07"
+    date: "2026-11-25"
   - title: "AAA Activates 'Tow to Go' to Prevent Impaired Driving During the Holidays"
     url: "https://newsroom.acg.aaa.com/aaa-activates-tow-to-go-to-prevent-impaired-driving-during-the-holidays/"
     publisher: "AAA The Auto Club Group newsroom"
@@ -76,6 +76,10 @@ sources:
     url: "https://newsroom.aaa.com/2026/11/aaa-thanksgiving-holiday-travel-forecast/"
     publisher: "American Automobile Association (AAA)"
     date: "2026-11-16"
+  - title: "AAA Offers Tow to Go to Keep Impaired Drivers Off the Road"
+    url: "https://newsroom.acg.aaa.com/michigan-aaa-offers-tow-to-go-to-keep-impaired-drivers-off-the-road/"
+    publisher: "AAA The Auto Club Group newsroom"
+    date: "2026-11-24"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -94,7 +98,7 @@ downloads:
 draft: false
 ---
 
-**The American Automobile Association (AAA) Tow to Go program has two holiday windows in 2026: 6 p.m. local time Wednesday, Nov. 25 to 6 a.m. Monday, Nov. 30, and 6 p.m. Thursday, Dec. 24 to 6 a.m. Monday, Jan. 4, 2027, according to The Auto Club Group's Tow To Go page.** The ride is free to members and non-members, and the number is (855) 286-9246. The service covers the states and cities listed below, which are The Auto Club Group's territory, and the page warns it may not be available in rural areas or during severe weather. AAA has not yet issued its 2026 holiday announcement; last year's came on Dec. 19.
+**The American Automobile Association (AAA) Tow to Go program has two holiday windows in 2026: 6 p.m. local time Wednesday, Nov. 25 to 6 a.m. Monday, Nov. 30, and 6 p.m. Thursday, Dec. 24 to 6 a.m. Monday, Jan. 4, 2027, according to The Auto Club Group's Tow To Go page.** The ride is free to members and non-members, and the number is (855) 286-9246. The service covers the states and cities listed below, which are The Auto Club Group's territory, and the page warns it may not be available in rural areas or during severe weather. The Auto Club Group's newsroom issued the Thanksgiving release on Nov. 24, 2026, with the same Nov. 25 to Nov. 30 hours. The Christmas and New Year announcement had not been issued as of Nov. 25; last year's came on Dec. 19.
 
 ## AAA Tow to Go 2026 windows and lengths
 

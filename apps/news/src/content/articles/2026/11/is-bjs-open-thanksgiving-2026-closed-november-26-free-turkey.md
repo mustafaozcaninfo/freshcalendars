@@ -3,7 +3,7 @@ title: "Is BJ's Open on Thanksgiving 2026? Closed Nov. 26, Back Nov. 27"
 description: "BJ's Wholesale Club is closed Thu., Nov. 26, 2026 and reopens Fri., Nov. 27. Every free turkey and Early Black Friday date, plus a printable."
 type: news
 publishedAt: "2026-11-17T20:50:00-05:00"
-updatedAt: "2026-11-17T20:50:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is bj's open on thanksgiving 2026", "bj's thanksgiving hours 2026", "bj's black friday 2026", "bj's free turkey 2026"]
@@ -42,14 +42,14 @@ assets:
         - cells: { date: "Thu., Nov. 26, Thanksgiving", what: "All clubs closed" }
           src: 2
           quote: "BJ's Wholesale Club will be closed chainwide on Thanksgiving Day but will reopen on Friday, November 27"
-        - cells: { date: "Fri., Nov. 27, Black Friday", what: "Clubs reopen (hours not announced)" }
+        - cells: { date: "Fri., Nov. 27, Black Friday", what: "Clubs reopen (hours not in BJ's releases)" }
           src: 2
           quote: "BJ's Wholesale Club will be closed chainwide on Thanksgiving Day but will reopen on Friday, November 27"
-      note: "Write your club's Black Friday hours here once BJ's posts them."
+      note: "Write your club's Black Friday hours here from your club page."
       unconfirmed:
         - { label: "Black Friday, Fri., Nov. 27, 2026 opening and closing times", why: "Not in BJ's Oct. 15 or Oct. 22, 2026 releases" }
         - { label: "Early Black Friday end date", why: "The Oct. 15, 2026 release gives a start date only" }
-        - { label: "Christmas Eve, Christmas Day, New Year's Eve and New Year's Day hours", why: "Not announced as of Nov. 17, 2026" }
+        - { label: "Christmas Eve, Christmas Day, New Year's Eve and New Year's Day hours", why: "Not in BJ's Oct. 15 or Oct. 22, 2026 releases" }
 hero:
   src: ../../../../assets/news/is-bjs-open-thanksgiving-2026-closed-november-26-free-turkey/is-bjs-open-thanksgiving-2026-closed-november-26-free-turkey.webp
   alt: "Is BJ's open on Thanksgiving 2026: front of a BJ's Wholesale Club in Waterford, Connecticut, file photo"
@@ -65,7 +65,7 @@ summary:
   - "BJ's Wholesale Club will be closed chainwide on Thanksgiving Day, Thursday, Nov. 26, 2026, and reopen on Friday, Nov. 27, the company said on Oct. 22, 2026."
   - "The free turkey spending window ran Oct. 31 to Nov. 9; free turkeys can be claimed online or in-club by Wednesday, Nov. 25."
   - "Early Black Friday deals began Oct. 23, in-club and online; the release gives no end date."
-  - "BJ's has not announced Black Friday opening or closing times."
+  - "BJ's Oct. 15 and Oct. 22 releases give no Black Friday opening or closing times; check your club page."
 sources:
   - title: "A Head Start on Holiday Savings: BJ's Wholesale Club Kicks Off Early Black Friday on October 23"
     url: "https://newsroom.bjs.com/press-releases/news-details/2026/A-Head-Start-on-Holiday-Savings-BJs-Wholesale-Club-Kicks-Off-Early-Black-Friday-on-October-23/default.aspx"
@@ -99,34 +99,34 @@ downloads:
 draft: false
 ---
 
-**BJ's Wholesale Club will be closed chainwide on Thanksgiving Day, Thursday, Nov. 26, 2026, and will reopen on Friday, Nov. 27, according to the company's Oct. 22, 2026 newsroom release.** Yahoo Shopping reported on Nov. 5, 2026 that all BJ's locations will be closed on Thanksgiving Day, Nov. 26. BJ's has not announced Black Friday hours.
+**BJ's Wholesale Club will be closed chainwide on Thanksgiving Day, Thursday, Nov. 26, 2026, and will reopen on Friday, Nov. 27, according to the company's Oct. 22, 2026 newsroom release.** Yahoo Shopping reported on Nov. 5, 2026 that all BJ's locations will be closed on Thanksgiving Day, Nov. 26. BJ's releases give no Black Friday hours.
 
 ## BJ's dates from Early Black Friday to Nov. 27
 
 The weekdays are computed for 2026. Every row comes from BJ's own releases.
 
-| Date | What happens | Status on Nov. 17 |
-|---|---|---|
-| Fri., Oct. 23 | Early Black Friday deals begin, in-club and online | Began |
-| Sat., Oct. 31 to Mon., Nov. 9 | Free turkey promotion: spend $150 or more in one transaction | Closed |
-| Sat., Nov. 14 | Free turkey coupon available in the app or BJs.com account | Open |
-| Wed., Nov. 25 | Last day to claim a free turkey, online or in-club | Upcoming |
-| Thu., Nov. 26 | Thanksgiving: all clubs closed | Upcoming |
-| Fri., Nov. 27 | Black Friday: clubs reopen | Upcoming |
+| Date | What happens |
+|---|---|
+| Fri., Oct. 23 | Early Black Friday deals begin, in-club and online |
+| Sat., Oct. 31 to Mon., Nov. 9 | Free turkey promotion: spend $150 or more in one transaction |
+| Sat., Nov. 14 | Free turkey coupon available in the app or BJs.com account |
+| Wed., Nov. 25 | Last day to claim a free turkey, online or in-club |
+| Thu., Nov. 26 | Thanksgiving: all clubs closed |
+| Fri., Nov. 27 | Black Friday: clubs reopen |
 
 ## Is BJ's open on Thanksgiving 2026?
 
-No. The Oct. 22 release says BJ's "will be closed chainwide on Thanksgiving Day but will reopen on Friday, November 27." The release is BJ's own notice, so the closing is the company's, not a third-party list. Plan any Thanksgiving shopping for Wednesday, Nov. 25 or earlier. BJ's has not posted its Nov. 25 hours.
+No. The Oct. 22 release says BJ's "will be closed chainwide on Thanksgiving Day but will reopen on Friday, November 27." The release is BJ's own notice, so the closing is the company's, not a third-party list. Plan any Thanksgiving shopping for Wednesday, Nov. 25 or earlier. BJ's releases do not list its Nov. 25 hours.
 
 ## How does the BJ's free turkey giveaway work in 2026?
 
-BJ's says the promotion ran "from October 31 through November 9." Members who spent $150 or more in one transaction in-club, through the BJ's mobile app or BJs.com in that window qualify. That window has closed, so a purchase now does not earn a turkey.
+BJ's says the promotion ran "from October 31 through November 9." Members who spent $150 or more in one transaction in-club, through the BJ's mobile app or BJs.com in that window qualify. That window has closed, so a purchase after Nov. 9 does not earn a turkey.
 
 Qualifying members could get the coupon in the app or their BJs.com account beginning Nov. 14. Free turkeys can be claimed online or in-club by Nov. 25. BJ's says supplies are limited and encourages qualifying members to claim before Nov. 25. Because the clubs are closed on Nov. 26, Nov. 25 is also the last open day before the holiday.
 
 ## What are BJ's Black Friday 2026 hours and deals?
 
-BJ's has not announced Black Friday opening or closing times for Nov. 27. Its Oct. 15 release says Early Black Friday deals "begin on October 23, both in-club and online at BJs.com/BlackFriday" and names no end date. It lists select items with discounts of "up to" these levels:
+BJ's releases give no Black Friday opening or closing times for Nov. 27. Its Oct. 15 release says Early Black Friday deals "begin on October 23, both in-club and online at BJs.com/BlackFriday" and names no end date. It lists select items with discounts of "up to" these levels:
 
 | Category | Discount listed |
 |---|---|
@@ -134,7 +134,7 @@ BJ's has not announced Black Friday opening or closing times for Nov. 27. Its Oc
 | Select TVs and electronics | Up to 40% off |
 | Select home and kitchen items | Up to 30% off |
 
-## What has BJ's not announced yet?
+## What do BJ's releases leave out?
 
 - Black Friday, Nov. 27, opening and closing times
 - Gas station hours
@@ -151,4 +151,4 @@ Thanksgiving falls on [Thursday, Nov. 26](/when-is/thanksgiving/). Mark the clos
 
 ## Print the BJ's Thanksgiving 2026 dates card
 
-The free printable lists the six dates above on one US Letter page, with a line to write your club's Black Friday hours once BJ's posts them.
+The free printable lists the six dates above on one US Letter page, with a line to write your club's Black Friday hours once you find them on your club page.

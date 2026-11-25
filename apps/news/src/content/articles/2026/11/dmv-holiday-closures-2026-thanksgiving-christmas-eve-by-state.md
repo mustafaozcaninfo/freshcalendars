@@ -1,9 +1,9 @@
 ---
 title: "Is the DMV Open the Day After Thanksgiving 2026? 8 States Checked"
-description: "Five of seven Department of Motor Vehicles (DMV) pages list Nov. 27, 2026 as closed; Maryland reopens. A table for Nov. 26 to Dec. 25 and a printable."
+description: "Six of seven Department of Motor Vehicles (DMV) pages list Nov. 27, 2026 as closed; Maryland reopens. A table for Nov. 26 to Dec. 25 and a printable."
 type: news
 publishedAt: "2026-11-17T19:18:00-05:00"
-updatedAt: "2026-11-17T19:18:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is the dmv open the day after thanksgiving 2026", "dmv holiday closures 2026", "is the dmv open christmas eve 2026", "is the dmv open black friday"]
@@ -11,14 +11,14 @@ assets:
   overlay: true
   kicker: "DMV offices · Fri., Nov. 27, 2026"
   date: "2026-11-27"
-  card: { top: "DMV pages we read that list Nov. 27 as closed", big: "5 of 7", bottom: "Maryland resumes normal operations that day" }
+  card: { top: "DMV pages we read that list Nov. 27 as closed", big: "6 of 7", bottom: "Maryland resumes normal operations that day" }
   printable:
     kit: holiday-planner
     slug: dmv-holiday-closures-2026-check
     group: thanksgiving-2026
     title: "DMV Holiday Closures 2026: Thanksgiving Weekend by State"
     subtitle: "Friday, Nov. 27, 2026, from each state's own page"
-    note: "Source: California DMV, North Carolina DMV (NCDOT), PennDOT Driver and Vehicle Services, Washington State Department of Licensing, Maryland Motor Vehicle Administration, Indiana BMV and the Texas Comptroller, read Nov. 17, 2026."
+    note: "Source: California DMV, North Carolina DMV (NCDOT), PennDOT Driver and Vehicle Services, District of Columbia DMV, Washington State Department of Licensing, Maryland Motor Vehicle Administration, Indiana BMV and the Texas Comptroller."
     description: "One-page check of which DMV offices list Friday, Nov. 27, 2026 as closed, with the other Thanksgiving and Christmas dates each state posts."
     alt: "Printable sheet of DMV closures on the day after Thanksgiving 2026, by state"
     data:
@@ -27,16 +27,16 @@ assets:
         - { name: "California", status: closed, detail: "Nov. 26-27 and Dec. 25 on the DMV list", src: 1, quote: "Thursday, November 26 and Friday, November 27 – Thanksgiving" }
         - { name: "North Carolina", status: closed, detail: "Nov. 26-27, Dec. 24-25 and Dec. 28", src: 2, quote: "Friday, Nov. 27, 2026" }
         - { name: "Pennsylvania", status: closed, detail: "Nov. 26-27 and Dec. 25; Dec. 24 not listed", src: 3, quote: "November 27, 2026 – Day after Thanksgiving" }
+        - { name: "District of Columbia", status: closed, detail: "Nov. 26-27 and Dec. 25; Dec. 24 not listed", src: 4, quote: "Thursday, November 26 & Friday, November 27" }
         - { name: "Washington", status: closed, detail: "Native American Heritage Day, Nov. 27", src: 5, quote: "Native American Heritage Day Friday, November 27, 2026" }
         - { name: "Indiana", status: closed, detail: "Lincoln's Birthday on Nov. 27; Dec. 24-25 too", src: 7, quote: "Lincoln's Birthday Friday November 27, 2026" }
         - { name: "Texas state offices", status: closed, detail: "State schedule; Dec. 24-25 too; DPS posted no notice", src: 8, quote: "Day after Thanksgiving | Office closed | 11-27-26" }
         - { name: "Maryland", status: open, detail: "Closed Thu., Nov. 26; normal operations Nov. 27", src: 6, quote: "will resume normal operations on Friday, November 27" }
       tasks:
-        - { daysBefore: 7, task: "Check your state's DMV page and book an appointment" }
+        - { daysBefore: 2, task: "Check your state's DMV page before you go" }
         - { daysBefore: 1, task: "Use online services for renewals if your state offers them" }
       unconfirmed:
-        - { label: "District of Columbia", why: "Closes Nov. 26 and Dec. 25; Nov. 27 and Dec. 24 are not on its list as of Nov. 17, 2026" }
-        - { label: "New York, Florida, Georgia, Illinois, Ohio and other states", why: "No 2026 closure page read as of Nov. 17, 2026" }
+        - { label: "New York, Florida, Georgia, Illinois, Ohio and other states", why: "No 2026 closure page found" }
 hero:
   src: ../../../../assets/news/dmv-holiday-closures-2026-thanksgiving-christmas-eve-by-state/dmv-holiday-closures-2026-thanksgiving-christmas-eve-by-state.webp
   alt: "Klamath Falls DMV office in Oregon in snow, a file photo for DMV holiday closures in 2026"
@@ -49,13 +49,13 @@ hero:
     author: "Oregon Department of Transportation"
     authorUrl: "https://www.flickr.com/people/28364885@N02"
 summary:
-  - "California, North Carolina, Pennsylvania, Washington and Indiana list Friday, Nov. 27, 2026 as a DMV closure; Maryland's notice says normal operations resume that day."
-  - "The District of Columbia DMV closes Thursday, Nov. 26 and does not list Nov. 27 or Dec. 24 on its 2026 closing schedule."
+  - "California, North Carolina, Pennsylvania, the District of Columbia, Washington and Indiana list Friday, Nov. 27, 2026 as a DMV closure; Maryland's notice says normal operations resume that day."
+  - "The District of Columbia DMV closes all locations Thursday, Nov. 26 and Friday, Nov. 27, and does not list Dec. 24 on its 2026 closing schedule."
   - "On Thursday, Dec. 24, North Carolina and Indiana list a closure; California, Pennsylvania, Washington and the District of Columbia do not."
   - "Texas state offices close Nov. 27 and Dec. 24 on the Comptroller's schedule, but the Texas Department of Public Safety has not posted its own notice."
 faq:
   - q: "Is the DMV open on Black Friday 2026?"
-    a: "It depends on the state. Five of the seven DMV pages we read close on Friday, Nov. 27; Maryland's MVA reopens that day and the District of Columbia does not list it."
+    a: "It depends on the state. Six of the seven DMV pages we read close on Friday, Nov. 27; Maryland's MVA reopens that day."
   - q: "Do county-run DMV offices follow the state list?"
     a: "Not always. Many county-run offices, such as New York county DMVs and Florida tax collectors, set their own closures, so call or check the local office."
   - q: "Can I renew online over Thanksgiving weekend?"
@@ -64,35 +64,35 @@ sources:
   - title: "DMV Holidays"
     url: "https://qr.dmv.ca.gov/portal/?p=5335"
     publisher: "California Department of Motor Vehicles"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "DMV Holidays Schedule"
     url: "https://www.ncdot.gov/dmv/offices-services/locate-dmv-office/Pages/holidays-schedule.aspx"
     publisher: "North Carolina Department of Transportation"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Holiday Closings"
     url: "https://www.pa.gov/agencies/dmv/alerts/holiday-closings"
     publisher: "Pennsylvania Department of Transportation"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "2026 Holiday Closing Schedule"
     url: "https://dmv.dc.gov/page/2026-holiday-closing-schedule"
     publisher: "District of Columbia Department of Motor Vehicles"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "2026 driver licensing holiday schedule"
     url: "https://dol.wa.gov/node/2115"
     publisher: "Washington State Department of Licensing"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "2026 Thanksgiving Closure"
     url: "https://mva.maryland.gov/news/2026-thanksgiving-closure"
     publisher: "Maryland Motor Vehicle Administration"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "BMV Holiday Schedule"
     url: "https://www.in.gov/bmv/branch-locations-and-hours/bmv-holiday-schedule/"
     publisher: "Indiana Bureau of Motor Vehicles"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "State of Texas Holiday Schedule"
     url: "https://comptroller.texas.gov/about/holidays.php"
     publisher: "Texas Comptroller of Public Accounts"
-    date: "2026-11-17"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -113,7 +113,7 @@ downloads:
 draft: false
 ---
 
-**Five of the seven state DMV pages we read list Friday, Nov. 27, 2026, as a closure: California, North Carolina, Pennsylvania, Washington and Indiana.** Maryland's Motor Vehicle Administration (MVA) says it closes Thursday, Nov. 26, and "will resume normal operations on Friday, November 27." The District of Columbia DMV closes Nov. 26 and does not list Nov. 27. The table gives each state's Thanksgiving and Christmas dates from its own page, read Nov. 17, 2026, and a printable checklist carries the Black Friday column. The date itself is on [When is Thanksgiving?](/when-is/thanksgiving/).
+**Six of the seven DMV pages we read list Friday, Nov. 27, 2026, as a closure: California, North Carolina, Pennsylvania, the District of Columbia, Washington and Indiana.** Maryland's Motor Vehicle Administration (MVA) says it closes Thursday, Nov. 26, and "will resume normal operations on Friday, November 27." The table gives each state's Thanksgiving and Christmas dates from its own page, read Nov. 25, 2026, and a printable checklist carries the Black Friday column. The date itself is on [When is Thanksgiving?](/when-is/thanksgiving/).
 
 ## DMV closures by state, Thanksgiving to Christmas 2026
 
@@ -122,7 +122,7 @@ draft: false
 | [California](https://qr.dmv.ca.gov/portal/?p=5335) | Closed | Closed | Not on the closure list | Closed | Fri., Jan. 1, 2027 |
 | [North Carolina](https://www.ncdot.gov/dmv/offices-services/locate-dmv-office/Pages/holidays-schedule.aspx) | Closed | Closed | Closed | Closed | Mon., Dec. 28; no 2027 row yet |
 | [Pennsylvania](https://www.pa.gov/agencies/dmv/alerts/holiday-closings) | Closed | Closed ("Day after Thanksgiving") | Not listed | Closed | Fri., Jan. 1, 2027 |
-| [District of Columbia](https://dmv.dc.gov/page/2026-holiday-closing-schedule) | Closed | Not on the list | Not on the list | Closed | Its Jan. 1 row is for 2026 |
+| [District of Columbia](https://dmv.dc.gov/page/2026-holiday-closing-schedule) | Closed | Closed | Not on the list | Closed | Its Jan. 1 row is for 2026 |
 | [Washington](https://dol.wa.gov/node/2115) | Closed | Closed (Native American Heritage Day) | No row | Closed | Not in the rows we read |
 | [Maryland](https://mva.maryland.gov/news/2026-thanksgiving-closure) | Closed | Normal operations resume | Not in the notice | Not in the notice | More than 60 online transactions; kiosks open all weekend |
 | [Indiana](https://www.in.gov/bmv/branch-locations-and-hours/bmv-holiday-schedule/) | Closed | Closed (Lincoln's Birthday) | Closed (Washington's Birthday) | Closed | Not in the rows we read |
@@ -132,9 +132,9 @@ draft: false
 
 ## Which states close the DMV on Black Friday?
 
-Five DMV pages name Nov. 27. California lists "Thursday, November 26 and Friday, November 27 – Thanksgiving." North Carolina closes "Friday, Nov. 27, 2026." Pennsylvania's PennDOT Driver and Vehicle Services lists "November 27, 2026 – Day after Thanksgiving." Washington's Department of Licensing (DOL) calls its Nov. 27 closure Native American Heritage Day. The Indiana Bureau of Motor Vehicles (BMV) lists "Lincoln's Birthday Friday November 27, 2026," a holiday Indiana moves to that date. Texas state offices also close that day on the state's schedule, which is not the same as a driver license office (see below).
+Six DMV pages name Nov. 27. California lists "Thursday, November 26 and Friday, November 27 – Thanksgiving." North Carolina closes "Friday, Nov. 27, 2026." Pennsylvania's PennDOT Driver and Vehicle Services lists "November 27, 2026 – Day after Thanksgiving." The District of Columbia DMV says all its locations are closed "on Thursday, November 26, and Friday, November 27, 2026." Washington's Department of Licensing (DOL) calls its Nov. 27 closure Native American Heritage Day. The Indiana Bureau of Motor Vehicles (BMV) lists "Lincoln's Birthday Friday November 27, 2026," a holiday Indiana moves to that date. Texas state offices also close that day on the state's schedule, which is not the same as a driver license office (see below).
 
-So the split is plain: California, North Carolina, Pennsylvania, Washington and Indiana close, while the District of Columbia and Maryland do not name the day. Confirm the hours on your state's site before you go.
+So the split is plain: California, North Carolina, Pennsylvania, the District of Columbia, Washington and Indiana close, while Maryland says normal operations resume. Confirm the hours on your state's site before you go.
 
 ## Is the DMV open on Christmas Eve 2026?
 
