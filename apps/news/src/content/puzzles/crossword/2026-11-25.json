@@ -1,0 +1,1218 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-25",
+ "constructors": [
+  "Peter Gordon"
+ ],
+ "width": 16,
+ "height": 15,
+ "cells": [
+  "A",
+  "C",
+  "M",
+  "E",
+  null,
+  "M",
+  "E",
+  "C",
+  "C",
+  "A",
+  null,
+  "R",
+  "I",
+  "S",
+  "K",
+  "S",
+  "T",
+  "H",
+  "A",
+  "N",
+  null,
+  "A",
+  "K",
+  "R",
+  "O",
+  "N",
+  null,
+  "N",
+  "O",
+  "K",
+  "I",
+  "A",
+  "M",
+  "E",
+  "N",
+  "T",
+  "A",
+  "L",
+  "G",
+  "Y",
+  "M",
+  "N",
+  "A",
+  "S",
+  "T",
+  "I",
+  "C",
+  "S",
+  "S",
+  "M",
+  "Y",
+  "R",
+  "N",
+  "A",
+  null,
+  null,
+  "E",
+  "A",
+  "R",
+  null,
+  "A",
+  "R",
+  "K",
+  "S",
+  null,
+  null,
+  null,
+  "A",
+  "K",
+  "I",
+  "M",
+  "B",
+  "O",
+  null,
+  "E",
+  "A",
+  "S",
+  "T",
+  null,
+  null,
+  "C",
+  "O",
+  "U",
+  "C",
+  "H",
+  "S",
+  "U",
+  "R",
+  "F",
+  "I",
+  "N",
+  "G",
+  null,
+  "S",
+  "I",
+  "P",
+  "A",
+  "P",
+  "P",
+  "T",
+  null,
+  "E",
+  "D",
+  "U",
+  null,
+  "M",
+  "A",
+  "E",
+  "S",
+  "T",
+  "R",
+  "O",
+  "B",
+  "E",
+  "S",
+  "E",
+  "T",
+  null,
+  "H",
+  "T",
+  "T",
+  "P",
+  null,
+  "S",
+  "P",
+  "E",
+  "A",
+  "K",
+  "A",
+  "R",
+  "T",
+  "S",
+  "A",
+  "L",
+  "E",
+  null,
+  "O",
+  "A",
+  "T",
+  null,
+  "I",
+  "A",
+  "T",
+  "E",
+  "L",
+  "A",
+  "H",
+  null,
+  "T",
+  "O",
+  "N",
+  "S",
+  "I",
+  "L",
+  "H",
+  "O",
+  "C",
+  "K",
+  "E",
+  "Y",
+  null,
+  null,
+  "E",
+  "T",
+  "A",
+  "T",
+  null,
+  "E",
+  "L",
+  "A",
+  "I",
+  "N",
+  "E",
+  null,
+  null,
+  null,
+  "G",
+  "R",
+  "A",
+  "Y",
+  null,
+  "T",
+  "I",
+  "N",
+  null,
+  null,
+  "S",
+  "E",
+  "D",
+  "A",
+  "N",
+  "S",
+  "N",
+  "O",
+  "N",
+  "S",
+  "P",
+  "O",
+  "R",
+  "T",
+  "I",
+  "N",
+  "G",
+  "G",
+  "R",
+  "O",
+  "U",
+  "P",
+  "A",
+  "L",
+  "T",
+  "O",
+  "S",
+  null,
+  "M",
+  "U",
+  "S",
+  "H",
+  "U",
+  null,
+  "U",
+  "N",
+  "D",
+  "O",
+  "T",
+  "E",
+  "E",
+  "N",
+  "Y",
+  null,
+  "A",
+  "P",
+  "P",
+  "L",
+  "Y",
+  null,
+  "M",
+  "E",
+  "E",
+  "T"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "High point",
+   "cells": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "Nickname of Howard University, as a cultural hub for the global Black diaspora, with \"the\"",
+   "cells": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Puts on the line",
+   "cells": [
+    11,
+    12,
+    13,
+    14,
+    15
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Larger-___-life",
+   "cells": [
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Where Firestone was founded",
+   "cells": [
+    21,
+    22,
+    23,
+    24,
+    25
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Finnish cellphone company",
+   "cells": [
+    27,
+    28,
+    29,
+    30,
+    31
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "Complex reasoning to justify a bad choice",
+   "cells": [
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Ancient Greek city on the Aegean",
+   "cells": [
+    48,
+    49,
+    50,
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Anvil site",
+   "cells": [
+    56,
+    57,
+    58
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "23",
+   "text": "Torah cabinets",
+   "cells": [
+    60,
+    61,
+    62,
+    63
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "\"Kimberly ___\" (2023 Tony winner for Best Musical)",
+   "cells": [
+    67,
+    68,
+    69,
+    70,
+    71,
+    72
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "China and environs, with \"the\"",
+   "cells": [
+    74,
+    75,
+    76,
+    77
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Crashing at various friends' places",
+   "cells": [
+    80,
+    81,
+    82,
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89,
+    90,
+    91
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "Wine tasting",
+   "cells": [
+    93,
+    94,
+    95
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "36",
+   "text": "Dr.'s visit",
+   "cells": [
+    96,
+    97,
+    98,
+    99
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "37",
+   "text": "Common URL ender",
+   "cells": [
+    101,
+    102,
+    103
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "38",
+   "text": "Orchestra conductor",
+   "cells": [
+    105,
+    106,
+    107,
+    108,
+    109,
+    110,
+    111
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "40",
+   "text": "Assail",
+   "cells": [
+    112,
+    113,
+    114,
+    115,
+    116
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "42",
+   "text": "Common URL starter",
+   "cells": [
+    118,
+    119,
+    120,
+    121
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "44",
+   "text": "Deliver a keynote",
+   "cells": [
+    123,
+    124,
+    125,
+    126,
+    127
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "45",
+   "text": "Locale for picture-taking?",
+   "cells": [
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "47",
+   "text": "Cap'n Crunch grain",
+   "cells": [
+    136,
+    137,
+    138
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "49",
+   "text": "Possible reply to \"Don't you want to have something?\"",
+   "cells": [
+    140,
+    141,
+    142,
+    143
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "50",
+   "text": "___-di-dah",
+   "cells": [
+    144,
+    145,
+    146
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "51",
+   "text": "French kissing, jocularly",
+   "cells": [
+    148,
+    149,
+    150,
+    151,
+    152,
+    153,
+    154,
+    155,
+    156,
+    157,
+    158,
+    159
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "54",
+   "text": "Dakota du Sud, par exemple",
+   "cells": [
+    162,
+    163,
+    164,
+    165
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "56",
+   "text": "Manhattan restaurateur Kaufman",
+   "cells": [
+    167,
+    168,
+    169,
+    170,
+    171,
+    172
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "57",
+   "text": "Overcast",
+   "cells": [
+    176,
+    177,
+    178,
+    179
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "59",
+   "text": "Traditional 10th-anniversary gift",
+   "cells": [
+    181,
+    182,
+    183
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "61",
+   "text": "Alternatives to coupes",
+   "cells": [
+    186,
+    187,
+    188,
+    189,
+    190,
+    191
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "65",
+   "text": "What bulldogs and poodles compete in ... and where 18-, 29- and 51-Across each belong?",
+   "cells": [
+    192,
+    193,
+    194,
+    195,
+    196,
+    197,
+    198,
+    199,
+    200,
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "69",
+   "text": "Choir section",
+   "cells": [
+    208,
+    209,
+    210,
+    211,
+    212
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "70",
+   "text": "Dragon in \"Mulan\" whose name sounds like a Chinese pork-in-pancake dish",
+   "cells": [
+    214,
+    215,
+    216,
+    217,
+    218
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "71",
+   "text": "Edit menu command",
+   "cells": [
+    220,
+    221,
+    222,
+    223
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "72",
+   "text": "Very small",
+   "cells": [
+    224,
+    225,
+    226,
+    227,
+    228
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "73",
+   "text": "Submit a résumé",
+   "cells": [
+    230,
+    231,
+    232,
+    233,
+    234
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "74",
+   "text": "Track competition",
+   "cells": [
+    236,
+    237,
+    238,
+    239
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "24/7 cash dispensers",
+   "cells": [
+    0,
+    16,
+    32,
+    48
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Science class with a lab",
+   "cells": [
+    1,
+    17,
+    33,
+    49
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Countless",
+   "cells": [
+    2,
+    18,
+    34,
+    50
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Intermissions",
+   "cells": [
+    3,
+    19,
+    35,
+    51,
+    67,
+    83,
+    99,
+    115,
+    131
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "General feeling of discomfort",
+   "cells": [
+    5,
+    21,
+    37,
+    53,
+    69,
+    85,
+    101
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Heart test, for short",
+   "cells": [
+    6,
+    22,
+    38
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Shed some tears",
+   "cells": [
+    7,
+    23,
+    39
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Result from",
+   "cells": [
+    8,
+    24,
+    40,
+    56,
+    72,
+    88
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Actress Kendrick",
+   "cells": [
+    9,
+    25,
+    41,
+    57
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Hosp. workers",
+   "cells": [
+    11,
+    27,
+    43
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "Greek vowels",
+   "cells": [
+    12,
+    28,
+    44,
+    60,
+    76
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Fajita meat, often",
+   "cells": [
+    13,
+    29,
+    45,
+    61,
+    77,
+    93,
+    109,
+    125,
+    141,
+    157
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Field goal attempt, e.g.",
+   "cells": [
+    14,
+    30,
+    46,
+    62
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "14",
+   "text": "Cheek or lip",
+   "cells": [
+    15,
+    31,
+    47,
+    63
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "Egyptian cross",
+   "cells": [
+    36,
+    52,
+    68,
+    84
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "20",
+   "text": "Concert venue",
+   "cells": [
+    42,
+    58,
+    74,
+    90,
+    106
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Toledo minor-leaguer",
+   "cells": [
+    70,
+    86,
+    102,
+    118,
+    134,
+    150
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "Champagne designation",
+   "cells": [
+    71,
+    87,
+    103,
+    119
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "Numbers on birthday cakes",
+   "cells": [
+    75,
+    91,
+    107,
+    123
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "29",
+   "text": "Secret political faction",
+   "cells": [
+    80,
+    96,
+    112,
+    128,
+    144
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "30",
+   "text": "\"The Beggar's ___\" (satirical work of 1728)",
+   "cells": [
+    81,
+    97,
+    113,
+    129,
+    145
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "31",
+   "text": "Plays for higher stakes",
+   "cells": [
+    82,
+    98,
+    114,
+    130,
+    146,
+    162,
+    178,
+    194,
+    210,
+    226
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "Chevy named after an antelope",
+   "cells": [
+    89,
+    105,
+    121,
+    137,
+    153,
+    169
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "34",
+   "text": "Hopping mad",
+   "cells": [
+    94,
+    110,
+    126,
+    142,
+    158
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "35",
+   "text": "Prison, informally",
+   "cells": [
+    95,
+    111,
+    127,
+    143,
+    159
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "39",
+   "text": "Bacardí offering",
+   "cells": [
+    108,
+    124,
+    140,
+    156,
+    172,
+    188,
+    204,
+    220,
+    236
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "41",
+   "text": "\"Ciao,\" in Chelsea",
+   "cells": [
+    116,
+    132,
+    148,
+    164
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "43",
+   "text": "Work hard",
+   "cells": [
+    120,
+    136,
+    152,
+    168
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "46",
+   "text": "Game you'll probably never win",
+   "cells": [
+    133,
+    149,
+    165,
+    181,
+    197
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "48",
+   "text": "\"Wow, can you believe him?!\"",
+   "cells": [
+    138,
+    154,
+    170,
+    186,
+    202,
+    218,
+    234
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "52",
+   "text": "Lampooned",
+   "cells": [
+    151,
+    167,
+    183,
+    199,
+    215,
+    231
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "53",
+   "text": "Blood type for a universal donor, in brief",
+   "cells": [
+    155,
+    171,
+    187,
+    203
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "55",
+   "text": "Boxer who's the subject of the 2025 book \"Baddest Man\"",
+   "cells": [
+    163,
+    179,
+    195,
+    211,
+    227
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "57",
+   "text": "Annoying insect",
+   "cells": [
+    176,
+    192,
+    208,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "58",
+   "text": "Film part",
+   "cells": [
+    177,
+    193,
+    209,
+    225
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "60",
+   "text": "Thirsty's wife in the comic strip \"Hi and Lois\"",
+   "cells": [
+    182,
+    198,
+    214,
+    230
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "62",
+   "text": "First-rate",
+   "cells": [
+    189,
+    205,
+    221,
+    237
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "63",
+   "text": "Like skinny-dippers",
+   "cells": [
+    190,
+    206,
+    222,
+    238
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "64",
+   "text": "Uncreative name for a Dalmatian",
+   "cells": [
+    191,
+    207,
+    223,
+    239
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "66",
+   "text": "\"Gangnam Style\" rapper",
+   "cells": [
+    196,
+    212,
+    228
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "67",
+   "text": "AOL, for example",
+   "cells": [
+    200,
+    216,
+    232
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "68",
+   "text": "Edmonton is its northernmost member, for short",
+   "cells": [
+    201,
+    217,
+    233
+   ]
+  }
+ ]
+}
