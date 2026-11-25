@@ -127,8 +127,8 @@ assets:
           src: 5
           quote: ["Sunday, Dec. 6, at 6 p.m. Mountain Standard Time."]
         - start: "2026-12-17T20:00-07:00"
-          title: "Christmas with The Choir, first of 3 nights"
-          detail: "Also Dec. 18 and 19, 8 p.m. MST; Conference Center"
+          title: "Christmas with The Choir concerts begin"
+          detail: "Conference Center, 8 p.m. MST each night"
           airing: live
           src: 3
           quote: ["December 17, 18 & 19, 2026", "8:00 PM MST"]
@@ -137,9 +137,9 @@ assets:
           airing: live
           src: 1
           quote: ["Sunday, Dec. 20, broadcast begins at 9:30 a.m."]
-        - start: "2027-01-01T22:00-07:00"
+        - start: "2027-01-01T16:30-07:00"
           title: "Last night of the lights"
-          detail: "Evening window ends at 10 p.m."
+          detail: "Evening window 4:30 to 10 p.m."
           airing: live
           src: 1
           quote: ["Nov. 27, 2026, through Jan. 1, 2027, 6 a.m. to 8 a.m. and 4:30 p.m. to 10 p.m."]
