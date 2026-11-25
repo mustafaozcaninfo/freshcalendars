@@ -1,9 +1,9 @@
 ---
-title: "BEA GDP Release Schedule 2026: Next Estimates Nov. 25, Dec. 23"
-description: "Gross domestic product (GDP) grew 3.4% in the third quarter of 2026, the Bureau of Economic Analysis (BEA) says. See all 14 releases through Dec. 23."
+title: "BEA GDP Release Schedule 2026: Q3 Revised Up to 4.3%, Next Dec. 23"
+description: "Gross domestic product (GDP) grew 4.3% in the third quarter of 2026, revised up from 3.4%, the Bureau of Economic Analysis (BEA) says. Next: Dec. 23."
 type: news
 publishedAt: "2026-10-28T17:46:00-04:00"
-updatedAt: "2026-11-21T15:46:00-05:00"
+updatedAt: "2026-11-25T08:40:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["gdp report today", "gdp release october 29 2026", "q3 gdp release date 2026", "pce release date", "bea release schedule november 2026"]
@@ -19,9 +19,9 @@ hero:
     author: "Tony Webster"
     authorUrl: "https://www.flickr.com/people/87296837@N00"
 summary:
-  - "Real gross domestic product (GDP) increased at an annual rate of 3.4 percent in the third quarter of 2026, up from 2.2 percent in the second quarter, according to the Bureau of Economic Analysis (BEA) advance estimate released Oct. 29 at 8:30 a.m. Eastern Time (ET)."
-  - "The personal consumption expenditures (PCE) price index rose 0.5 percent in September and 3.6 percent from a year earlier; excluding food and energy it rose 0.3 percent and 3.1 percent, the BEA said."
-  - "The BEA's schedule lists 14 releases from Oct. 29 to Dec. 23, 2026, including the second GDP estimate on Nov. 25 and the third on Dec. 23."
+  - "Real gross domestic product (GDP) increased at an annual rate of 4.3 percent in the third quarter of 2026, an upward revision of 0.9 percentage point from the 3.4 percent advance estimate, according to the Bureau of Economic Analysis (BEA) second estimate released Nov. 25 at 8:30 a.m. Eastern Time (ET)."
+  - "The personal consumption expenditures (PCE) price index rose 0.3 percent in October and 3.8 percent from a year earlier; excluding food and energy it rose 0.3 percent and 3.3 percent, the BEA said. In September it rose 0.5 percent and 3.6 percent."
+  - "The BEA's schedule lists 14 releases from Oct. 29 to Dec. 23, 2026. The third GDP estimate and Personal Income and Outlays for November 2026 are next, on Wednesday, Dec. 23."
   - "U.S. clocks fell back on Sunday, Nov. 1, so the 8:30 a.m. ET releases were on Eastern Daylight Time (EDT) on Oct. 29 and are on Eastern Standard Time (EST) from Nov. 4 on."
 faq:
   - q: "What time is the GDP report on Oct. 29, 2026?"
@@ -29,9 +29,9 @@ faq:
   - q: "What does the Oct. 29 GDP release cover?"
     a: "The advance estimate of real gross domestic product for the third quarter of 2026, according to the BEA release schedule."
   - q: "When is the PCE price index released?"
-    a: "The BEA says the PCE price index is released each month in the Personal Income and Outlays report. The September 2026 report was released Oct. 29 and the October 2026 report is on Nov. 25."
-  - q: "When is the second estimate of third-quarter GDP?"
-    a: "Wednesday, Nov. 25, 2026, at 8:30 a.m. ET, together with Corporate Profits. The third estimate is on Wednesday, Dec. 23, 2026."
+    a: "The BEA says the PCE price index is released each month in the Personal Income and Outlays report. The September 2026 report was released Oct. 29, the October 2026 report on Nov. 25, and the November 2026 report is on Wednesday, Dec. 23, at 8:30 a.m. ET."
+  - q: "What did the second estimate of third-quarter GDP show?"
+    a: "The BEA released it on Wednesday, Nov. 25, 2026, at 8:30 a.m. ET, together with Corporate Profits: real GDP increased at an annual rate of 4.3 percent, up from the 3.4 percent advance estimate. The third estimate is on Wednesday, Dec. 23, 2026."
   - q: "Where are the jobs report and Consumer Price Index dates?"
     a: "Those come from the Bureau of Labor Statistics (BLS), not the BEA. Its dates are on bls.gov and are not listed here."
 sources:
@@ -43,10 +43,18 @@ sources:
     url: "https://www.bea.gov/news/2026/personal-income-and-outlays-september-2026"
     publisher: "U.S. Bureau of Economic Analysis"
     date: "2026-10-29"
+  - title: "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026"
+    url: "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"
+    publisher: "U.S. Bureau of Economic Analysis"
+    date: "2026-11-25"
+  - title: "Personal Income and Outlays, October 2026"
+    url: "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
+    publisher: "U.S. Bureau of Economic Analysis"
+    date: "2026-11-25"
   - title: "Release Schedule"
     url: "https://www.bea.gov/news/schedule"
     publisher: "U.S. Bureau of Economic Analysis"
-    date: "2026-11-14"
+    date: "2026-11-25"
   - title: "U.S. International Trade in Goods and Services, September 2026"
     url: "https://www.bea.gov/news/2026/us-international-trade-goods-and-services-september-2026"
     publisher: "U.S. Census Bureau and U.S. Bureau of Economic Analysis"
@@ -79,7 +87,7 @@ assets:
   overlay: true
   kicker: "GDP second estimate · Wed., Nov. 25, 2026"
   date: "2026-11-25"
-  card: { top: "Q3 2026 GDP second estimate", big: "Wed., Nov. 25", bottom: "8:30 a.m. ET, after the 3.4% advance estimate" }
+  card: { top: "Q3 2026 GDP second estimate", big: "4.3%", bottom: "Nov. 25, 8:30 a.m. ET, up from the 3.4% advance estimate" }
   printable:
     slug: bea-economic-release-calendar-oct-dec-2026
     group: bea-release-calendar-2026
@@ -103,28 +111,41 @@ assets:
       - ["Fri., Dec. 18, 8:30 a.m.", "U.S. International Transactions and Investment Position, 3rd Quarter 2026"]
       - ["Wed., Dec. 23, 8:30 a.m.", "GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 3rd Quarter 2026"]
       - ["Wed., Dec. 23, 8:30 a.m.", "Personal Income and Outlays, November 2026"]
-    note: "Source: U.S. Bureau of Economic Analysis (BEA), Release Schedule, checked Nov. 14, 2026. Times are Eastern; clocks fell back Nov. 1, 2026."
+    note: "Source: U.S. Bureau of Economic Analysis (BEA), Release Schedule, checked Nov. 25, 2026. Times are Eastern; clocks fell back Nov. 1, 2026."
     description: "All 14 Bureau of Economic Analysis releases from Oct. 29 to Dec. 23, 2026, with weekdays and Eastern Time release times."
     alt: "BEA economic release calendar printable listing 14 releases from Oct. 29 to Dec. 23, 2026"
 ---
 
-The Oct. 29 reports are out. The next GDP estimate is Wednesday, Nov. 25, at 8:30 a.m. ET.
+The second GDP estimate is out. The next one, the third, is Wednesday, Dec. 23, at 8:30 a.m. ET.
 
-**Real gross domestic product (GDP) increased at an annual rate of 3.4 percent in the third quarter of 2026 (July, August and September), according to the advance estimate the U.S. Bureau of Economic Analysis (BEA) released on Thursday, Oct. 29, 2026, at 8:30 a.m. Eastern Time (ET).** In the second quarter, real GDP increased 2.2 percent. The BEA released Personal Income and Outlays for September 2026 at the same time; the next GDP estimate comes on Wednesday, Nov. 25.
+**Real gross domestic product (GDP) increased at an annual rate of 4.3 percent (1.1 percent at a quarterly rate) in the third quarter of 2026 (July, August and September), an upward revision of 0.9 percentage point from the previous estimate, the U.S. Bureau of Economic Analysis (BEA) said in its second estimate on Wednesday, Nov. 25, 2026, at 8:30 a.m. Eastern Time (ET).** The BEA says the revision primarily reflects upward revisions to investment and consumer spending. Real GDP increased 2.2 percent (revised) in the second quarter. The third estimate and Personal Income and Outlays for November 2026 come on Wednesday, Dec. 23.
 
-## What did the Oct. 29, 2026 reports show?
+## What did the Nov. 25, 2026 reports show?
 
-| Measure (BEA, released Oct. 29, 2026) | Figure |
-|---|---|
-| Real GDP, third quarter 2026, annual rate | +3.4% (second quarter: +2.2%) |
-| Current-dollar GDP, third quarter, annual rate | +5.6% |
+| Measure (BEA, released Nov. 25, 2026) | Advance estimate (Oct. 29) | Second estimate (Nov. 25) |
+|---|---|---|
+| Real GDP, third quarter 2026, annual rate | +3.4% | +4.3% |
+| Current-dollar GDP, third quarter, annual rate | +5.6% | +6.2% |
+| Real final sales to private domestic purchasers, annual rate | +4.9% | +5.8% |
+| Real gross domestic income (GDI), annual rate | not available | +4.4% |
+
+The BEA also reported that profits from current production (corporate profits with inventory valuation and capital consumption adjustments) increased $206.0 billion in the third quarter, compared with an increase of $384.0 billion in the second quarter.
+
+| Personal Income and Outlays, October 2026 (released Nov. 25) | October | September (released Oct. 29) |
+|---|---|---|
+| Personal income | +$201.8 billion (+0.7%) | +$54.5 billion (+0.2%) |
+| Consumer spending (PCE) | +$63.8 billion (+0.3%) | +$113.1 billion (+0.5%) |
+| PCE price index, from the preceding month | +0.3% (excluding food and energy: +0.3%) | +0.5% (excluding food and energy: +0.3%) |
+| PCE price index, from a year earlier | +3.8% (excluding food and energy: +3.3%) | +3.6% (excluding food and energy: +3.1%) |
+
+The personal saving rate was 4.1 percent in October. The BEA's Personal Income and Outlays release for October gives Dec. 23, 2026, at 8:30 a.m. EST as the next release date. The Oct. 29 advance estimate also showed a third-quarter PCE price index of +2.1% at an annual rate (excluding food and energy: +2.5%).
 | Personal consumption expenditures (PCE) price index, third quarter, annual rate | +2.1% (excluding food and energy: +2.5%) |
 | Personal income, September | +$54.5 billion (+0.2%) |
 | Consumer spending (PCE), September | +$113.1 billion (+0.5%) |
 | PCE price index, September, from August | +0.5% (excluding food and energy: +0.3%) |
 | PCE price index, September, from a year earlier | +3.6% (excluding food and energy: +3.1%) |
 
-The GDP figures come from the BEA's "GDP (Advance Estimate), 3rd Quarter 2026" release and the monthly figures from "Personal Income and Outlays, September 2026." The advance estimate is the first of three; the BEA revises it on Nov. 25 and Dec. 23.
+The GDP figures come from the BEA's "GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026" and "GDP (Advance Estimate), 3rd Quarter 2026" releases, and the monthly figures from "Personal Income and Outlays, October 2026" and "September 2026." The second estimate is the second of three; the third is on Dec. 23.
 
 ## What did the BEA release on Oct. 29, 2026?
 
@@ -144,8 +165,8 @@ The schedule has 14 items between Oct. 29 and Dec. 23. All are at 8:30 a.m. ET e
 | Tue., Nov. 17 | 10:00 a.m. | Experimental Super Intelligence Economic Statistics, 2024 (article, released) |
 | Wed., Nov. 18 | 10:00 a.m. | Outdoor Recreation Economic Statistics, U.S. and States, 2025 (released) |
 | Fri., Nov. 20 | 8:30 a.m. | Activities of U.S. Multinational Enterprises, 2024 (released) |
-| Wed., Nov. 25 | 8:30 a.m. | GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 |
-| Wed., Nov. 25 | 8:30 a.m. | Personal Income and Outlays, October 2026 |
+| Wed., Nov. 25 | 8:30 a.m. | GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026 (released) |
+| Wed., Nov. 25 | 8:30 a.m. | Personal Income and Outlays, October 2026 (released) |
 | Wed., Dec. 2 | 8:30 a.m. | GDP by County and Personal Income by County, 2025 |
 | Tue., Dec. 8 | 8:30 a.m. | U.S. International Trade in Goods and Services, October 2026 |
 | Thu., Dec. 10 | 8:30 a.m. | Real Personal Consumption Expenditures by State and Real Personal Income by State, 2025 |
@@ -153,7 +174,7 @@ The schedule has 14 items between Oct. 29 and Dec. 23. All are at 8:30 a.m. ET e
 | Wed., Dec. 23 | 8:30 a.m. | GDP (Third Estimate), Industries, Corporate Profits, State GDP, and State Personal Income, 3rd Quarter 2026 |
 | Wed., Dec. 23 | 8:30 a.m. | Personal Income and Outlays, November 2026 |
 
-Source: BEA, Release Schedule, checked Nov. 14, 2026. Mark them on a [November 2026 printable calendar](/november-calendars.html) and a [December 2026 printable calendar](/december-calendars.html).
+Source: BEA, Release Schedule, checked Nov. 25, 2026. Mark them on a [November 2026 printable calendar](/november-calendars.html) and a [December 2026 printable calendar](/december-calendars.html).
 
 ## What time is each BEA release in other time zones?
 
@@ -168,9 +189,9 @@ The BEA lists times in Eastern Time. We converted them with a time zone calculat
 
 Oct. 29 is the odd one out. Arizona matches Pacific time that day and Mountain time afterward, and London is four hours ahead of Eastern, not the five hours it is from Nov. 1 on.
 
-## When is the next GDP estimate after Oct. 29?
+## When is the next GDP estimate after Nov. 25?
 
-The BEA schedule lists the second estimate of third-quarter 2026 GDP, with Corporate Profits, on Wednesday, Nov. 25, 2026, and the third estimate on Wednesday, Dec. 23, 2026. Each date also carries a Personal Income and Outlays report (October 2026 on Nov. 25, November 2026 on Dec. 23).
+The BEA schedule lists the third estimate of third-quarter 2026 GDP, with Industries, Corporate Profits, State GDP and State Personal Income, on Wednesday, Dec. 23, 2026, at 8:30 a.m. ET. Personal Income and Outlays for November 2026 is released the same day. The BEA's schedule shows no changes to these dates.
 
 ## Where are the jobs report and Consumer Price Index dates?
 
