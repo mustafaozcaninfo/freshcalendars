@@ -40,7 +40,7 @@ assets:
         - cells: { model: "Golf+ credits with a Quest 3 or 3S", list: "$55 value", sale: "with an eligible headset", ends: "Jan. 4, 2027" }
           src: 1
           quote: "1,800 in-game credits ($55 total value) with an eligible headset | through January 4, 2027"
-        - cells: { model: "Resident Evil 4, Europe and Japan only", list: "$39.99 value", sale: "with a Quest 3 or 3S", ends: "Jan. 4, 2027" }
+        - cells: { model: "Resident Evil 4, Europe and Japan only", list: "Game included", sale: "with a Quest 3 or 3S", ends: "Jan. 4, 2027" }
           src: 1
           quote: "with your purchase of an eligible Meta Quest 3 or 3S headset. Available in select European countries and Japan (listed as Biohazard 4 ) through January 4, 2027."
       unconfirmed:

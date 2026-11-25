@@ -3,7 +3,7 @@ title: "Streaming Black Friday Deals 2026: HBO Max $5.49, Paramount+ $2.99"
 description: "HBO Max is $5.49 a month for 12 months and Paramount+ $2.99 for 2 months, both ending Nov. 30. Every offer's cost, plus a sign-up-by printable."
 type: news
 publishedAt: "2026-11-23T14:50:00-05:00"
-updatedAt: "2026-11-25T16:49:00-05:00"
+updatedAt: "2026-11-25T17:24:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["streaming black friday deals 2026", "hbo max black friday 2026", "paramount plus black friday 2026", "hulu black friday 2026", "peacock black friday 2026"]
@@ -151,7 +151,7 @@ HBO Max's $5.49 holds for 12 months, so the discount is the larger sum; Paramoun
 
 Last year's HBO Max offer was lower. In 2025, TV Guide and Cord Cutters News reported an HBO Max deal at $2.99 a month for 12 months, which ended Dec. 1, 2025. That is 12 x $2.99 = $35.88, so the 2026 price of $5.49 costs $30.00 more over a year.
 
-Disney+ ran a bundle deal in 2025, and its 2026 bundle has the same ad-supported price. Its 2025 page, headed "The 2025 Disney+ & Hulu Black Friday Deal Has Ended," lists "$4.99/month for 12 months," then "auto-renews at $12.99/month or then-current regular monthly price," ending "11:59 PM PST on 12/1/25." It was for the ad-supported bundle and for new and eligible returning subscribers. For 2026, Hulu's page lists the same $4.99 a month for 12 months, then $12.99, and ends at 11:59 PM PST on 11/30/26, one day earlier than the 2025 offer.
+Disney+ ran a bundle deal in 2025, and its 2026 bundle has the same ad-supported price. Its 2025 page, headed "The 2025 Disney+ & Hulu Black Friday Deal Has Ended," lists "$4.99/month for 12 months," then "auto-renews at $12.99/month or then-current regular monthly price," ending "11:59 PM PST on 12/1/25." It was for the ad-supported bundle and for new and eligible returning subscribers. For 2026, Hulu's page lists the same $4.99 a month for 12 months, then $12.99, and ends at 11:59 PM PST on 11/30/26, one day earlier than the 2025 offer. Eligibility, the 12-month cost table and end times by U.S. time zone are in our [Hulu and Disney+ Black Friday deal story](/news/hulu-disney-plus-black-friday-2026-deal-4-99-bundle-ends-november-30/).
 
 ## Which other streaming services have offers?
 

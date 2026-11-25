@@ -76,6 +76,15 @@ internalLinks:
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
 related: [streaming-black-friday-2026-deals-paramount-plus-hbo-max-peacock, new-on-disney-plus-december-2026-release-dates, new-on-hulu-december-2026-release-dates]
+downloads:
+  - group: "Disney+ and Hulu Black Friday 2026 Deadline Card printables"
+    title: "Disney+ and Hulu Black Friday 2026 Deadline Card"
+    description: "One-page card with the start and end of the 2026 Disney+ and Hulu Black Friday bundle offer in Eastern, Central, Mountain and Pacific time, plus the price after 12 months."
+    preview: ../../../../assets/news/disney-plus-hulu-black-friday-2026/disney-plus-hulu-black-friday-2026-deadline-card.png
+    alt: "Printable card with the start and end times of the Disney+ and Hulu Black Friday 2026 offer in four U.S. time zones"
+    pdf: "/news/downloads/disney-plus-hulu-black-friday-2026/disney-plus-hulu-black-friday-2026-deadline-card.pdf"
+    png: "/news/downloads/disney-plus-hulu-black-friday-2026/disney-plus-hulu-black-friday-2026-deadline-card.png"
+    pages: 1
 draft: false
 ---
 
