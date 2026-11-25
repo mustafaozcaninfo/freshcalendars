@@ -11,7 +11,7 @@ hero:
   src: ../../../../assets/news/amazon-cyber-monday-2026-dates-start-time-end-time/amazon-cyber-monday-2026-dates-start-time-end-time.webp
   alt: "Amazon fulfillment center in Troutdale, Oregon, where Amazon Cyber Monday 2026 orders ship"
   caption: "File photo of an Amazon fulfillment center in Troutdale, Oregon. Amazon's Cyber Monday 2026 deals run Nov. 30."
-  credit: "Photo: Tedder / Wikimedia Commons, cropped"
+  credit: "Photo: Tedder / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
     url: "https://creativecommons.org/licenses/by-sa/4.0"
@@ -33,7 +33,7 @@ faq:
   - q: "How much is Prime in 2026?"
     a: "Amazon lists $14.99 a month or $139 a year, a free 30-day trial if eligible, and half-price options: Prime for Young Adults at $7.49 a month or $69 a year, and Prime Access at $6.99 a month."
   - q: "What is Amazon's holiday return deadline for 2026?"
-    a: "Amazon's consumer page for 2026 was not found. Trade site ppc.land reported an Amazon Seller News post, dated Oct. 16, 2026, that sets Jan. 31, 2027 for most items bought Nov. 1 to Dec. 31, 2026."
+    a: "Amazon's return policy page says most items bought Nov. 1 to Dec. 31, 2026 can be returned through Jan. 31, 2027, and Apple-branded products through Jan. 15, 2027."
 sources:
   - title: "When is Amazon's Cyber Monday 2026 event? Here's everything you need to know"
     url: "https://www.aboutamazon.com/md/news/retail/when-is-amazon-cyber-monday-faq"
@@ -47,10 +47,10 @@ sources:
     url: "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026"
     publisher: "Amazon"
     date: "2026-11-25"
-  - title: "Amazon makes its January 31 holiday return deadline an annual rule"
-    url: "https://ppc.land/amazon-makes-its-january-31-holiday-return-deadline-an-annual-rule/"
-    publisher: "PPC Land"
-    date: "2026-10-16"
+  - title: "Amazon Return Policy"
+    url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7"
+    publisher: "Amazon"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -60,10 +60,10 @@ internalLinks:
     label: "When is Black Friday?"
 related: [amazon-black-friday-2026-sale-dates-when-does-it-start, cyber-monday-2026-date-sale-start-times-by-store, black-friday-2026-ad-tracker-walmart-target-best-buy]
 downloads:
-  - group: "Amazon Cyber Monday 2026 printables"
+  - group: "Amazon Cyber Monday 2026 Times printables"
     title: "Amazon Cyber Monday 2026 Times"
     description: "One-page Amazon Cyber Monday 2026 sheet with the Nov. 19 start, Black Friday and Cyber Monday deal drop times and the Nov. 30 end date."
-    preview: ../../../../assets/news/amazon-cyber-monday-2026-dates-start-time-end-time/amazon-cyber-monday-2026-times.png
+    preview: ../../../../assets/news/amazon-cyber-monday-2026/amazon-cyber-monday-2026-times.png
     alt: "Printable Amazon Cyber Monday 2026 sheet with deal drop times on Nov. 27 and Nov. 30"
     pdf: "/news/downloads/amazon-cyber-monday-2026/amazon-cyber-monday-2026-times.pdf"
     png: "/news/downloads/amazon-cyber-monday-2026/amazon-cyber-monday-2026-times.png"
@@ -92,7 +92,6 @@ assets:
         - { date: "2026-11-30", cells: { "What Amazon announced": "Cyber Monday: deals drop at midnight and 8 a.m. PT; events run through this day" }, src: 2, quote: ["deals will drop twice on both Black Friday and Cyber Monday at midnight and 8 a.m. PT", "Cyber Monday 2026 falls on November 30."] }
       unconfirmed:
         - { label: "Event end hour on Nov. 30", why: "Amazon says the events run through November 30 and gave no closing time as of Nov. 25, 2026" }
-        - { label: "Holiday return deadlines", why: "Amazon's consumer page for 2026 was not found as of Nov. 25, 2026" }
 ---
 
 **Amazon's Cyber Monday 2026 is Monday, Nov. 30, and deals drop at midnight and 8 a.m. PT that day, Amazon's press release says, which is 3 a.m. and 11 a.m. ET by our conversion.** Amazon's Cyber Monday guide adds that its Black Friday Week and Cyber Monday deal events "kick off at 12:01 a.m. PST on November 19 and run through November 30." The event is already under way, and Cyber Monday is its last day.
@@ -134,7 +133,7 @@ Amazon says the discounted options carry the same benefits at 50% of the cost.
 
 ## What is Amazon's return window for Cyber Monday orders?
 
-Amazon's own page for the 2026 holiday return policy was not found as of Nov. 25, 2026. Trade site ppc.land reported an Amazon Seller News post, dated Oct. 16, 2026, that sets Jan. 31, 2027 as the return deadline for most items bought Nov. 1 to Dec. 31, 2026. Treat that as a report, not an Amazon consumer page, and check your order's return date in your Amazon account. For other stores, see our [holiday return policies by store](/news/holiday-return-policies-2026-return-deadlines-by-store/).
+Amazon's return policy page says most items bought between Nov. 1 and Dec. 31, 2026 can be returned through Jan. 31, 2027. Apple-branded products bought in that window can be returned through Jan. 15, 2027. Check your order's return date in your Amazon account. For other stores, see our [holiday return policies by store](/news/holiday-return-policies-2026-return-deadlines-by-store/).
 
 ## Dates to mark
 

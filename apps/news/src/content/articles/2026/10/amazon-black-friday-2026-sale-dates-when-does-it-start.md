@@ -3,7 +3,7 @@ title: "Amazon Black Friday 2026 Ends Nov. 30: 12-Day Sale, Deal Drop Times"
 description: "Amazon's Black Friday 2026 sale ends Monday, Nov. 30, which is Cyber Monday. It began Nov. 19 and lasts 12 days; drop times, past end dates, a printable."
 type: explainer
 publishedAt: "2026-10-26T02:21:00-04:00"
-updatedAt: "2026-11-25T16:50:00-05:00"
+updatedAt: "2026-11-25T16:54:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Amazon Black Friday 2026", "when does Amazon Black Friday end", "when does Amazon Black Friday start 2026", "Amazon Black Friday 2026 dates", "Amazon holiday return policy 2026"]
@@ -191,6 +191,6 @@ For comparison, Amazon's 2025 policy said "most items purchased between November
 - Thu., Dec. 31: the last purchase day in the return window.
 - Fri., Jan. 15 and Sun., Jan. 31, 2027: the return deadlines for Apple products and most other items.
 
-Put them on the [printable Amazon holiday timeline](#downloads). For store sales, see our [Black Friday 2026 ad tracker for Walmart, Target and Best Buy](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and the [store hours list](/news/black-friday-2026-store-hours-walmart-target-best-buy/). The next day in the sale calendar is covered in [Small Business Saturday on Nov. 28 and Cyber Monday on Nov. 30](/news/small-business-saturday-2026-participating-stores-events/).
+Cyber Monday deal times by U.S. time zone are in our [Amazon Cyber Monday 2026 start and end time guide](/news/amazon-cyber-monday-2026-dates-start-time-end-time/). Put them on the [printable Amazon holiday timeline](#downloads). For store sales, see our [Black Friday 2026 ad tracker for Walmart, Target and Best Buy](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and the [store hours list](/news/black-friday-2026-store-hours-walmart-target-best-buy/). The next day in the sale calendar is covered in [Small Business Saturday on Nov. 28 and Cyber Monday on Nov. 30](/news/small-business-saturday-2026-participating-stores-events/).
 
 Not covered here: prices of specific deals and Prime membership terms.

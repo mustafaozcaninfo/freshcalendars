@@ -21,10 +21,10 @@ assets:
     description: "One-page Ulta Beauty Black Friday 2026 planner: stores closed Nov. 26, open 6 a.m. local time Nov. 27, and the Cyber Monday window Nov. 29 to Dec. 1."
     alt: "Printable Ulta Beauty Black Friday 2026 planner with the Thanksgiving closure, 6 a.m. opening and Cyber Monday window"
     data:
-      holiday: { date: "2026-11-26", name: "Thanksgiving Day", src: 1, quote: "Stores are closed." }
+      holiday: { date: "2026-11-26", name: "Thanksgiving Day", src: 1, quote: ["Coming Thurs, Nov 26", "Stores are closed."] }
       status:
-        - { name: "Ulta stores, Thanksgiving Day", status: closed, detail: "Stores closed Thu., Nov. 26; deals start online 12:01 a.m. CT", src: 1, quote: "These products & 600 more start online at 12:01am CT. Stores are closed." }
-        - { name: "Ulta stores, Black Friday", status: open, detail: "In store at 6 a.m. local time Fri., Nov. 27; closing time not posted", src: 1, quote: "In store at 6am local time." }
+        - { name: "Ulta stores, Thanksgiving Day", status: closed, detail: "Stores closed Thu., Nov. 26; deals start online 12:01 a.m. CT", src: 1, quote: ["Coming Thurs, Nov 26", "These products & 600 more start online at 12:01am CT. Stores are closed."] }
+        - { name: "Ulta stores, Black Friday", status: open, detail: "In store at 6 a.m. local time Fri., Nov. 27; closing time not posted", src: 1, quote: ["Coming Fri, Nov 27", "In store at 6am local time."] }
         - { name: "ulta.com and app, Cyber Monday", status: open, detail: "Starts Nov. 29, 12:00 a.m. CT; ends Dec. 1, 2:00 a.m. CT", src: 2, quote: "begins November 29, 2026, at 12:00 a.m. CT and runs through December 1, 2026, at 2:00 a.m. CT" }
       tasks:
         - { daysBefore: 3, task: "Save your wish list in the Ulta app" }
@@ -37,7 +37,7 @@ hero:
   src: ../../../../assets/news/ulta-black-friday-2026-store-hours-thanksgiving-cyber-monday/ulta-black-friday-2026-store-hours-thanksgiving-cyber-monday.webp
   alt: "An Ulta Beauty store with an orange awning in Forestville, Maryland, for Ulta Black Friday 2026 hours"
   caption: "File photo of an Ulta Beauty store in Forestville, Maryland. Ulta's page says its stores are closed Nov. 26, 2026 and open at 6 a.m. local time on Nov. 27."
-  credit: "Photo: Harrison Keely / Wikimedia Commons, cropped"
+  credit: "Photo: Harrison Keely / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
     url: "https://creativecommons.org/licenses/by/4.0"

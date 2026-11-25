@@ -17,7 +17,7 @@ assets:
     group: macys-black-friday-2026
     title: "Macy's Thanksgiving and Black Friday 2026 Hours"
     subtitle: "Closed Thu., Nov. 26; open 6 a.m. to 10 p.m. local time Fri., Nov. 27"
-    note: "Source: TODAY.com, Macy's Thanksgiving and Black Friday Hours: What to Know for 2026, Nov. 25, 2026, quoting a Macy's spokesperson; Yahoo Shopping, Black Friday store hours 2026, updated Nov. 25, 2026. Hours may vary among stores."
+    note: "Source: Today.com, Macy's Thanksgiving and Black Friday Hours: What to Know for 2026, Nov. 25, 2026, quoting a Macy's spokesperson; Yahoo Shopping, Black Friday store hours 2026, updated Nov. 25, 2026. Hours may vary among stores."
     description: "One-page list of Macy's Thanksgiving closure and Black Friday 2026 hours, with the opening times of other big chains for comparison."
     alt: "Printable table of Macy's Thanksgiving and Black Friday 2026 store hours"
     data:
@@ -36,8 +36,8 @@ assets:
 hero:
   src: ../../../../assets/news/macys-black-friday-2026-store-hours-sale-dates/macys-black-friday-2026-store-hours-sale-dates.webp
   alt: "Macy's Herald Square flagship in Manhattan, for Macy's Black Friday 2026 hours"
-  caption: "File photo of the Macy's Herald Square flagship in Manhattan. Macy's told TODAY that all its stores close Thanksgiving and reopen at 6 a.m. Nov. 27."
-  credit: "Photo: JJBers / Wikimedia Commons, cropped"
+  caption: "File photo of the Macy's Herald Square flagship in Manhattan. Macy's told Today.com that all its stores close Thanksgiving and reopen at 6 a.m. Nov. 27."
+  credit: "Photo: JJBers / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
     url: "https://creativecommons.org/licenses/by-sa/4.0"
@@ -45,15 +45,15 @@ hero:
     author: "JJBers"
     authorUrl: "https://commons.wikimedia.org/wiki/User:JJBers"
 summary:
-  - "A Macy's spokesperson told TODAY.com on Nov. 25, 2026 that all Macy's stores are closed on Thursday, Nov. 26, for Thanksgiving."
+  - "A Macy's spokesperson told Today.com on Nov. 25, 2026 that all Macy's stores are closed on Thursday, Nov. 26, for Thanksgiving."
   - "Macy's stores reopen at 6 a.m. on Black Friday, Nov. 27, and stay open until 10 p.m., a 16-hour day; hours may vary among stores."
   - "Because the hours are local, a 6 a.m. opening is 6 a.m. ET in New York, 7 a.m. ET in Chicago and 9 a.m. ET in Los Angeles, by our conversion."
   - "Macy's Black Friday sale end date and Cyber Monday date could not be confirmed from a source we could read."
 faq:
   - q: "What time does Macy's open on Black Friday 2026?"
-    a: "6 a.m. local time on Friday, Nov. 27, 2026, and it stays open until 10 p.m., a Macy's spokesperson told TODAY.com. Hours may vary among stores, so check the Macy's store directory."
+    a: "6 a.m. local time on Friday, Nov. 27, 2026, and it stays open until 10 p.m., a Macy's spokesperson told Today.com. Hours may vary among stores, so check the Macy's store directory."
   - q: "Is Macy's open on Thanksgiving 2026?"
-    a: "No. A Macy's spokesperson told TODAY.com that all Macy's locations will be closed on Thursday, Nov. 26, in observance of Thanksgiving."
+    a: "No. A Macy's spokesperson told Today.com that all Macy's locations will be closed on Thursday, Nov. 26, in observance of Thanksgiving."
   - q: "When does Macy's Black Friday sale end in 2026?"
     a: "We could not confirm it. Macy's pages blocked automated access when we checked on Nov. 25, and the newsrooms we read gave store hours only. Check macys.com or the Macy's app."
   - q: "When is Macy's Cyber Monday 2026?"
@@ -61,7 +61,7 @@ faq:
 sources:
   - title: "Macy's Thanksgiving and Black Friday Hours: What to Know for 2026"
     url: "https://www.today.com/life/holidays/macys-thanksgiving-black-friday-hours-2026-rcna610048"
-    publisher: "TODAY.com (NBC News)"
+    publisher: "Today.com (NBC News)"
     date: "2026-11-25"
   - title: "Black Friday store hours 2026: What time do Walmart, Target, Kohl's, Macy's, Best Buy, Costco open?"
     url: "https://shopping.yahoo.com/deals/breaking-news/article/black-friday-store-hours-2026-what-time-do-walmart-target-kohls-macys-best-buy-costco-open-182611870.html"
@@ -75,10 +75,19 @@ internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
 related: [black-friday-2026-store-hours-walmart-target-best-buy, when-does-black-friday-end-2026-sale-end-dates-by-store, macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons]
+downloads:
+  - group: "Macy's Thanksgiving and Black Friday 2026 Hours printables"
+    title: "Macy's Thanksgiving and Black Friday 2026 Hours"
+    description: "One-page list of Macy's Thanksgiving closure and Black Friday 2026 hours, with the opening times of other big chains for comparison."
+    preview: ../../../../assets/news/macys-black-friday-2026/macys-black-friday-2026-store-hours.png
+    alt: "Printable table of Macy's Thanksgiving and Black Friday 2026 store hours"
+    pdf: "/news/downloads/macys-black-friday-2026/macys-black-friday-2026-store-hours.pdf"
+    png: "/news/downloads/macys-black-friday-2026/macys-black-friday-2026-store-hours.png"
+    pages: 1
 draft: false
 ---
 
-**Macy's stores are closed on Thanksgiving, Thursday, Nov. 26, 2026, and reopen at 6 a.m. on Black Friday, Nov. 27, staying open until 10 p.m., a Macy's spokesperson told TODAY.com on Nov. 25.** Yahoo Shopping's store-hours roundup, updated the same day, lists the same Macy's hours: 6 a.m. to 10 p.m. Both say hours may vary among stores.
+**Macy's stores are closed on Thanksgiving, Thursday, Nov. 26, 2026, and reopen at 6 a.m. on Black Friday, Nov. 27, staying open until 10 p.m., a Macy's spokesperson told Today.com on Nov. 25.** Yahoo Shopping's store-hours roundup, updated the same day, lists the same Macy's hours: 6 a.m. to 10 p.m. Both say hours may vary among stores.
 
 That is 16 hours on Friday. It also means no Macy's store is open on the day of the Thanksgiving parade; the [Macy's Thanksgiving Day Parade guide](/news/macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons/) has its start time, route and TV channels.
 
@@ -86,8 +95,8 @@ That is 16 hours on Friday. It also means no Macy's store is open on the day of 
 
 | Day | Macy's hours | Source |
 |---|---|---|
-| Thu., Nov. 26 (Thanksgiving) | Closed, all locations | Macy's spokesperson to TODAY.com |
-| Fri., Nov. 27 (Black Friday) | 6 a.m. to 10 p.m. | Macy's spokesperson to TODAY.com; Yahoo Shopping |
+| Thu., Nov. 26 (Thanksgiving) | Closed, all locations | Macy's spokesperson to Today.com |
+| Fri., Nov. 27 (Black Friday) | 6 a.m. to 10 p.m. | Macy's spokesperson to Today.com; Yahoo Shopping |
 
 Macy's has not said when stores close on Thursday evening or whether any location differs. Because hours may vary among stores, confirm yours in the Macy's store directory before you drive.
 
@@ -127,4 +136,4 @@ Yahoo lists Macy's closing time as 10 p.m., the same as Best Buy and Dick's at m
 
 The one-page printable lists the Thanksgiving closure, the Friday hours and the 5 a.m. and 6 a.m. openings of the other chains from the table above. Put it beside the [November 2026 printable calendar](/november-calendars.html) and mark Thursday, Nov. 26 and Friday, Nov. 27. For the date itself, see [when is Black Friday](/when-is/black-friday/) and [when is Thanksgiving](/when-is/thanksgiving/).
 
-Sources: TODAY.com, Nov. 25, 2026, quoting a Macy's spokesperson; Yahoo Shopping, updated Nov. 25, 2026.
+Sources: Today.com, Nov. 25, 2026, quoting a Macy's spokesperson; Yahoo Shopping, updated Nov. 25, 2026.

@@ -23,10 +23,10 @@ assets:
     alt: "Printable table of Best Buy 2026 sale end times in Eastern, Central, Mountain and Pacific Time"
     data:
       events:
-        - { start: "2026-11-26T23:59-06:00", title: "Thanksgiving 24-Hour Flash Sale ends", airing: eastern, src: 1, quote: "Flash Sale ends 11/26/26 at 11:59 p.m. CT." }
-        - { start: "2026-11-29T23:59-06:00", title: "Cyber Sunday and Monday doorbusters end", airing: eastern, src: 1, quote: "Doorbusters end 11/29/26 at 11:59 p.m. CT." }
-        - { start: "2026-11-30T23:59-06:00", title: "Cyber Sunday and Monday event ends", airing: eastern, src: 1, quote: "Event ends 11/30/26 at 11:59 p.m. CT." }
-        - { start: "2026-12-06T23:59-06:00", title: "Cyber Week Deals end", airing: eastern, src: 1, quote: "Event ends 12/6/26 at 11:59 p.m. CT." }
+        - { start: "2026-11-26T23:59-06:00", title: "Thanksgiving 24-Hour Flash Sale ends", airing: eastern, src: 1, quote: ["Thanksgiving Day, Nov. 26: Closed", "Flash Sale ends 11/26/26 at 11:59 p.m. CT."] }
+        - { start: "2026-11-29T23:59-06:00", title: "Cyber Sunday and Monday doorbusters end", airing: eastern, src: 1, quote: ["Cyber Sunday, Nov. 29: 9 a.m. to 9 p.m.", "Doorbusters end 11/29/26 at 11:59 p.m. CT."] }
+        - { start: "2026-11-30T23:59-06:00", title: "Cyber Sunday and Monday event ends", airing: eastern, src: 1, quote: ["Cyber Monday, Nov. 30: 10 a.m. to 10 p.m.", "Event ends 11/30/26 at 11:59 p.m. CT."] }
+        - { start: "2026-12-06T23:59-06:00", title: "Cyber Week Deals end", airing: eastern, src: 1, quote: ["The savings will continue Dec. 1-6", "Event ends 12/6/26 at 11:59 p.m. CT."] }
       unconfirmed:
         - { label: "When online Cyber Monday deals go live", why: "Best Buy gives no start time and says prices may start before the event" }
         - { label: "Time of the Cyber Monday Flash Sale", why: "Best Buy gives no start time or length" }
@@ -34,7 +34,7 @@ hero:
   src: ../../../../assets/news/best-buy-cyber-monday-2026-dates-return-window-price-match/best-buy-cyber-monday-2026-dates-return-window-price-match.webp
   alt: "Best Buy store entrance in Erie, Pennsylvania, for Best Buy Cyber Monday 2026 hours and dates"
   caption: "File photo of a Best Buy store in Erie, Pennsylvania. Best Buy lists Cyber Monday, Nov. 30, 2026, store hours as 10 a.m. to 10 p.m."
-  credit: "Photo: Glenn Samonte / Wikimedia Commons, cropped"
+  credit: "Photo: Glenn Samonte - Own Work / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
     url: "https://creativecommons.org/licenses/by/4.0"
