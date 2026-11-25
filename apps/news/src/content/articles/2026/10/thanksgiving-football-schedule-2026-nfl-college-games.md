@@ -42,8 +42,8 @@ assets:
         - { start: "2026-11-27T15:00-05:00", title: "Broncos at Steelers", detail: "NFL Black Friday game", channel: "Prime Video", src: 1 }
         - { start: "2026-11-27T19:30-05:00", title: "Lone Star Showdown: Texas at Texas A&M", detail: "Kyle Field, College Station", channel: "ABC", src: 11 }
         - { start: "2026-11-28T12:00-05:00", title: "The Game: Michigan at Ohio State", detail: "Ohio Stadium, Columbus", channel: "FOX", src: 12 }
-        - { start: "2026-11-28T15:30-05:00", title: "Georgia Tech at Georgia", detail: "Sanford Stadium, Athens", src: 18, quote: "Nov 28 / 3:30 p.m. / Sold Out vs Georgia Tech Athens, Ga." }
-        - { start: "2026-11-28T18:30-06:00", title: "Iron Bowl: Auburn at Alabama", detail: "Bryant-Denny Stadium, Tuscaloosa", src: 17, quote: "Sat Nov 28 at Iron Bowl Alabama Tuscaloosa, AL Bryant-Denny Stadium 6:30 PM CST" }
+        - { start: "2026-11-28T15:30-05:00", title: "Georgia Tech at Georgia", detail: "Sanford Stadium, Athens", channel: "ABC", src: 18, quote: "Nov 28 / 3:30 p.m. / Sold Out vs Georgia Tech Athens, Ga." }
+        - { start: "2026-11-28T18:30-06:00", title: "Iron Bowl: Auburn at Alabama", detail: "Bryant-Denny Stadium, Tuscaloosa", channel: "ABC", src: 17, quote: "Sat Nov 28 at Iron Bowl Alabama Tuscaloosa, AL Bryant-Denny Stadium 6:30 PM CST" }
 hero:
   src: ../../../../assets/news/thanksgiving-football-schedule-2026-nfl-college-games/thanksgiving-football-schedule-2026-nfl-college-games.jpg
   alt: "Thanksgiving football schedule 2026 illustration with a Nov. 27 date tile and a card for the Black Friday games"
@@ -53,7 +53,7 @@ summary:
   - "The National Football League (NFL) plays five games across Thanksgiving weekend 2026, starting with its first Thanksgiving Eve game, Packers at Rams, on Wednesday, Nov. 25."
   - "One Football Bowl Subdivision (FBS) game is on Thanksgiving Day: Texas Christian University (TCU) at Texas Tech, Thursday, Nov. 26, 2026, at 7 p.m. Central Time (CT), 8 p.m. Eastern Time (ET), on ESPN, per Texas Tech Athletics."
   - "Black Friday, Nov. 27, pairs the NFL's Broncos at Steelers with the Egg Bowl at noon Eastern Time (ET) and the Lone Star Showdown at 7:30 p.m. ET."
-  - "The college rivalry weekend finishes on Saturday, Nov. 28, led by Michigan at Ohio State at noon ET on FOX; Georgia Tech at Georgia is at 3:30 p.m. ET and the Iron Bowl at 7:30 p.m. ET, with their networks not yet announced."
+  - "The college rivalry weekend finishes on Saturday, Nov. 28, led by Michigan at Ohio State at noon ET on FOX; Georgia Tech at Georgia is at 3:30 p.m. ET and the Iron Bowl at 7:30 p.m. ET, both on ABC per ESPN's schedule."
 faq:
   - q: "Is there college football on Thanksgiving Day 2026?"
     a: "Yes, one Football Bowl Subdivision (FBS) game. TCU plays at Texas Tech on Thursday, Nov. 26, 2026, at 7 p.m. Central Time, which is 8 p.m. Eastern Time, at Jones AT&T Stadium in Lubbock, Texas, on ESPN, per Texas Tech Athletics. The college rivalry games land on Friday, Nov. 27 and Saturday, Nov. 28."
@@ -140,6 +140,10 @@ sources:
     url: "https://www.fox9.com/sports/nfl-thanksgiving-week-wu-tang-clan-u2-miranda-lambert-2026"
     publisher: "FOX 9"
     date: "2026-11-25"
+  - title: "College Football Schedule, Week 13, 2026"
+    url: "https://www.espn.com/college-football/schedule/_/week/13/year/2026/seasontype/2"
+    publisher: "ESPN"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -178,8 +182,8 @@ Where a source gives a Central Time (CT) kickoff, both times are shown. Two of t
 | Fri., Nov. 27, 3 p.m. | Broncos at Steelers (NFL, Black Friday) | Prime Video |
 | Fri., Nov. 27, 7:30 p.m. | Lone Star Showdown: Texas at Texas A&M | ABC |
 | Sat., Nov. 28, 12 noon | The Game: Michigan at Ohio State | FOX |
-| Sat., Nov. 28, 3:30 p.m. | Georgia Tech at Georgia | Network not yet announced |
-| Sat., Nov. 28, 7:30 p.m. | Iron Bowl: Auburn at Alabama | Network not yet announced |
+| Sat., Nov. 28, 3:30 p.m. | Georgia Tech at Georgia | ABC |
+| Sat., Nov. 28, 7:30 p.m. | Iron Bowl: Auburn at Alabama | ABC |
 
 ## The NFL part, in brief
 
@@ -204,8 +208,8 @@ Black Friday has grown into a day of college rivalries.
 The last Saturday of November carries the sport's oldest rivalries.
 
 - **The Game: Michigan at Ohio State, noon ET, FOX.** Ohio Stadium in Columbus hosts the Big Ten rivalry, with the noon kickoff on FOX reported by FOX Sports.
-- **Georgia Tech at Georgia, 3:30 p.m. ET, network not yet announced.** The in-state rivalry between an Atlantic Coast Conference (ACC) team and a Southeastern Conference (SEC) team, known as Clean, Old-Fashioned Hate, is at Sanford Stadium in Athens; Georgia Athletics lists the 3:30 p.m. kickoff.
-- **Iron Bowl: Auburn at Alabama, 6:30 p.m. CT / 7:30 p.m. ET, network not yet announced.** Auburn Athletics lists the 6:30 p.m. Central kickoff at Bryant-Denny Stadium in Tuscaloosa.
+- **Georgia Tech at Georgia, 3:30 p.m. ET, ABC.** The in-state rivalry between an Atlantic Coast Conference (ACC) team and a Southeastern Conference (SEC) team, known as Clean, Old-Fashioned Hate, is at Sanford Stadium in Athens; Georgia Athletics lists the 3:30 p.m. kickoff, and ESPN's schedule lists ABC.
+- **Iron Bowl: Auburn at Alabama, 6:30 p.m. CT / 7:30 p.m. ET, ABC.** Auburn Athletics lists the 6:30 p.m. Central kickoff at Bryant-Denny Stadium in Tuscaloosa, and ESPN's schedule lists ABC.
 
 
 ## Not on this weekend
