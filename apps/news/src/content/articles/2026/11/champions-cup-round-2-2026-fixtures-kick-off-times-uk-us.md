@@ -70,7 +70,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us, six-nations-2027-fixtures-kick-off-times-uk-us-canada, rugby-league-world-cup-2026-semi-finals-final-schedule-kick-off-times-uk-us]
+related: [nations-championship-rugby-november-2026-fixtures-kick-off-times-uk-us, six-nations-2027-fixtures-kick-off-times-uk-us-canada, premiership-rugby-christmas-2026-fixtures-big-game-18-kick-off-times]
 assets:
   overlay: true
   kicker: "Champions Cup, Dec. 11-13, 2026"
