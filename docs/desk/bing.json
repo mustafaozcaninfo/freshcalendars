@@ -1,13 +1,7 @@
 {
- "generatedAt": "2026-11-24T20:10:33.125Z",
+ "generatedAt": "2026-11-25T09:14:38.024Z",
  "site": "https://freshcalendars.com/",
  "daily": [
-  {
-   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
-   "Clicks": 4,
-   "Date": "/Date(1753315200000)/",
-   "Impressions": 9954
-  },
   {
    "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
    "Clicks": 3,
@@ -2923,6 +2917,12 @@
    "Clicks": 480,
    "Date": "/Date(1795305600000)/",
    "Impressions": 39019
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 689,
+   "Date": "/Date(1795392000000)/",
+   "Impressions": 78200
   }
  ],
  "queries": [
@@ -3015,7 +3015,7 @@
    "ctr": 0.009712509712509712
   },
   {
-   "key": "daylight savings 2026",
+   "key": "day light savings 2026",
    "clicks": 1,
    "impressions": 2517,
    "posW": 22653,
@@ -4511,19 +4511,19 @@
    "ctr": 0.02857142857142857
   },
   {
-   "key": "focker in law release",
-   "clicks": 1,
-   "impressions": 69,
-   "posW": 345,
-   "position": 5,
-   "ctr": 0.014492753623188406
-  },
-  {
    "key": "snl 11/14/26",
    "clicks": 1,
    "impressions": 69,
    "posW": 276,
    "position": 4,
+   "ctr": 0.014492753623188406
+  },
+  {
+   "key": "focker in law release",
+   "clicks": 1,
+   "impressions": 69,
+   "posW": 345,
+   "position": 5,
    "ctr": 0.014492753623188406
   },
   {
@@ -5319,11 +5319,11 @@
    "ctr": 0.46153846153846156
   },
   {
-   "key": "veterans day free meals restaurants",
+   "key": "fresno unified calendar 26-27",
    "clicks": 3,
    "impressions": 13,
-   "posW": 39,
-   "position": 3,
+   "posW": 13,
+   "position": 1,
    "ctr": 0.23076923076923078
   }
  ],
@@ -5969,7 +5969,7 @@
    "ctr": 0.006352087114337568
   },
   {
-   "key": "https://freshcalendars.com/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/",
+   "key": "https://freshcalendars.com/news/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026/",
    "clicks": 7,
    "impressions": 1072,
    "posW": 7504,
@@ -5977,7 +5977,7 @@
    "ctr": 0.0065298507462686565
   },
   {
-   "key": "https://freshcalendars.com/news/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026/",
+   "key": "https://freshcalendars.com/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/",
    "clicks": 7,
    "impressions": 1072,
    "posW": 7504,
@@ -6777,7 +6777,7 @@
    "ctr": 0.012345679012345678
   },
   {
-   "key": "https://freshcalendars.com/when-is/new-years-eve",
+   "key": "https://freshcalendars.com/when-is/new-years-eve/",
    "clicks": 4,
    "impressions": 242,
    "posW": 1210,
@@ -7361,19 +7361,19 @@
    "ctr": 0.08695652173913043
   },
   {
-   "key": "https://freshcalendars.com/news/kwanzaa-2026-dates-seven-principles-calendar-printable/",
-   "clicks": 2,
-   "impressions": 67,
-   "posW": 469,
-   "position": 7,
-   "ctr": 0.029850746268656716
-  },
-  {
    "key": "https://freshcalendars.com/news/christmas-eve-christmas-day-2026-store-hours/",
    "clicks": 2,
    "impressions": 67,
    "posW": 335,
    "position": 5,
+   "ctr": 0.029850746268656716
+  },
+  {
+   "key": "https://freshcalendars.com/news/kwanzaa-2026-dates-seven-principles-calendar-printable/",
+   "clicks": 2,
+   "impressions": 67,
+   "posW": 469,
+   "position": 7,
    "ctr": 0.029850746268656716
   },
   {
@@ -7481,19 +7481,19 @@
    "ctr": 0.08823529411764706
   },
   {
-   "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
-   "clicks": 2,
-   "impressions": 33,
-   "posW": 198,
-   "position": 6,
-   "ctr": 0.06060606060606061
-  },
-  {
    "key": "https://freshcalendars.com/news/iphone-duo-october-24-availability/",
    "clicks": 2,
    "impressions": 33,
    "posW": 132,
    "position": 4,
+   "ctr": 0.06060606060606061
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
+   "clicks": 2,
+   "impressions": 33,
+   "posW": 198,
+   "position": 6,
    "ctr": 0.06060606060606061
   },
   {
@@ -7538,24 +7538,6 @@
   }
  ],
  "crawl": [
-  {
-   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
-   "AllOtherCodes": 35,
-   "BlockedByRobotsTxt": 0,
-   "Code2xx": 362,
-   "Code301": 121,
-   "Code302": 62,
-   "Code4xx": 27,
-   "Code5xx": 2,
-   "ConnectionTimeout": 0,
-   "ContainsMalware": 0,
-   "CrawledPages": 1058,
-   "CrawlErrors": 33,
-   "Date": "/Date(1792713600000)/",
-   "DnsFailures": 0,
-   "InIndex": 358,
-   "InLinks": 332
-  },
   {
    "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
    "AllOtherCodes": 32,
@@ -8077,6 +8059,24 @@
    "DnsFailures": 0,
    "InIndex": 4820,
    "InLinks": 450
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 555,
+   "BlockedByRobotsTxt": 62,
+   "Code2xx": 5379,
+   "Code301": 226,
+   "Code302": 58,
+   "Code4xx": 49,
+   "Code5xx": 1,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 8346,
+   "CrawlErrors": 53,
+   "Date": "/Date(1795478400000)/",
+   "DnsFailures": 0,
+   "InIndex": 4955,
+   "InLinks": 410
   }
  ],
  "failed": []
