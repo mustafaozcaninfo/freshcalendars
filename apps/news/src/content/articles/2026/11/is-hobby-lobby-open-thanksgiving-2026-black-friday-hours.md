@@ -3,6 +3,7 @@ title: "Is Hobby Lobby Open on Thanksgiving 2026? Closed, Then 8 a.m. Friday"
 description: "Hobby Lobby is closed Thu., Nov. 26, 2026, then opens 8 a.m. to 9 p.m. Friday. Every date to Jan. 1, the Sundays it is closed and a printable."
 type: news
 publishedAt: "2026-11-14T20:45:00-05:00"
+updatedAt: "2026-11-25T14:29:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is hobby lobby open on thanksgiving", "hobby lobby black friday hours 2026", "hobby lobby christmas eve hours", "hobby lobby holiday hours 2026"]
@@ -52,8 +53,6 @@ assets:
           src: 1
           quote: "New Year's Day – 9 a.m. to 5:30 p.m."
       note: "Regular hours: Monday through Saturday, 9 a.m. to 8 p.m. Write your store's number here."
-      unconfirmed:
-        - { label: "Black Friday week ad", why: "Not yet posted on the Hobby Lobby weekly ad page as of Nov. 14, 2026" }
 hero:
   src: ../../../../assets/news/is-hobby-lobby-open-thanksgiving-2026-black-friday-hours/is-hobby-lobby-open-thanksgiving-2026-black-friday-hours.webp
   alt: "Is Hobby Lobby open on Thanksgiving 2026: Christmas decorations on a store shelf, file photo"
@@ -72,7 +71,7 @@ summary:
   - "The 2026 schedule matches the one Hobby Lobby posted on Nov. 3, 2025."
 faq:
   - q: "Is Hobby Lobby open on Black Friday 2026?"
-    a: "Yes. Friday, Nov. 27 is listed as 8 a.m. to 9 p.m. The Black Friday week ad was not yet posted on Nov. 14, 2026, so no deals are listed here."
+    a: "Yes. Friday, Nov. 27 is listed as 8 a.m. to 9 p.m. Hobby Lobby's weekly ad page shows prices good in stores Monday, Nov. 23 through Saturday, Nov. 28, 2026, including 50% off listed Christmas categories."
   - q: "What are Hobby Lobby's regular store hours?"
     a: "Hobby Lobby's Our Story page lists Monday through Saturday from 9 a.m. to 8 p.m. All stores are closed on Sunday."
   - q: "Does Hobby Lobby close early on New Year's Eve?"
@@ -83,10 +82,11 @@ sources:
   - title: "HOLIDAY HOURS"
     url: "https://newsroom.hobbylobby.com/articles/holiday-hours-3"
     publisher: "Hobby Lobby Newsroom"
-    date: "2026-11-02"
+    date: "2026-11-25"
   - title: "Our Story"
     url: "https://www.hobbylobby.com/about-us/our-story"
     publisher: "Hobby Lobby"
+    date: "2026-11-25"
   - title: "HOLIDAY HOURS (2025)"
     url: "https://newsroom.hobbylobby.com/articles/holiday-hours-2"
     publisher: "Hobby Lobby Newsroom"
@@ -94,6 +94,7 @@ sources:
   - title: "Weekly Ad"
     url: "https://www.hobbylobby.com/weekly-ad"
     publisher: "Hobby Lobby"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -138,9 +139,9 @@ Hobby Lobby's page words these as "Friday after Thanksgiving – 8 a.m. to 9 p.m
 
 No. Our Story says: "All Hobby Lobby stores are closed on Sunday." That puts the last Sundays before Christmas, Dec. 6, 13 and 20, outside the shopping calendar, along with Nov. 29 and Dec. 27. The last full days before Christmas Eve are Mon., Dec. 21 through Wed., Dec. 23, and those days run on the regular Monday through Saturday hours. Plan craft and gift-wrapping supply trips for Saturday, Dec. 19, or the three weekdays after it.
 
-## Hobby Lobby Black Friday week ad
+## Hobby Lobby weekly ad, Nov. 23 to 28
 
-The Hobby Lobby weekly ad page shows an ad that runs only through Nov. 14-15, 2026. The Black Friday week ad is not yet posted, so no sale prices are listed here. Check the [Hobby Lobby weekly ad](https://www.hobbylobby.com/weekly-ad) before Friday, Nov. 27.
+The Hobby Lobby weekly ad page is headed "Valid through November 29, 2026" and says prices are good in stores Monday, Nov. 23 through Saturday, Nov. 28, and online Sunday, Nov. 22 through Saturday, Nov. 28. It lists 50% off listed Christmas categories, 25% off Christmas light sets, 40% off puzzles, 30% off all yarn and 30% off furniture, each with exclusions on the page. The page does not call it a Black Friday ad. Check the [Hobby Lobby weekly ad](https://www.hobbylobby.com/weekly-ad) for exclusions before you go.
 
 ## Are the 2026 hours different from 2025?
 
@@ -152,4 +153,4 @@ Thanksgiving falls on [Thursday, Nov. 26](/when-is/thanksgiving/), and you can m
 
 ## Print the Hobby Lobby holiday hours card
 
-The free printable puts the Thanksgiving closing, the Friday and Saturday hours, the closed Sundays and the Christmas Eve, Christmas Day and New Year's hours on one US Letter page, with the Black Friday week ad listed as not yet posted.
+The free printable puts the Thanksgiving closing, the Friday and Saturday hours, the closed Sundays and the Christmas Eve, Christmas Day and New Year's hours on one US Letter page, with the regular Monday through Saturday hours.
