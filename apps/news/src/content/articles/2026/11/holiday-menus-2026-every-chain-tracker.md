@@ -163,7 +163,7 @@ None of the sources we read gave an end date. Where a chain says "while supplies
 
 The McDonald's date comes from newsroom reports because we could not read a McDonald's page on it; Nation's Restaurant News and Dexerto both report Nov. 3. Dutch Bros' release is dated Nov. 1 and says the lineup is "available now", so we list Nov. 1 as the date it was on the menu, not a separate launch time. Caribou Coffee's row cites the PR Newswire copy of its release.
 
-For the details behind each row, see our stories on [Starbucks](/news/starbucks-holiday-menu-2026-red-cup-day-date/), [Dunkin'](/news/dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu/), [McDonald's](/news/mcdonalds-holiday-drinks-2026-cookie-butter-cranberry/), [Dutch Bros](/news/dutch-bros-holiday-drinks-2026-merry-magic/), [Caribou Coffee](/news/caribou-coffee-holiday-menu-2026-cookie-butter-white-mocha/) and [Cracker Barrel](/news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/).
+For the details behind each row, see our stories on [Starbucks](/news/starbucks-holiday-menu-2026-red-cup-day-date/), [Dunkin'](/news/dunkin-holiday-menu-2026-november-4-avengers-doomsday-menu/), [McDonald's](/news/mcdonalds-holiday-drinks-2026-cookie-butter-cranberry/), [Dutch Bros](/news/dutch-bros-holiday-drinks-2026-merry-magic/), [Caribou Coffee](/news/caribou-coffee-holiday-menu-2026-cookie-butter-white-mocha/), [Cracker Barrel](/news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/) and [Denny's](/news/dennys-holiday-menu-2026-cinnamon-apple-crisp-pancake-slam/), whose holiday menu was announced Nov. 3 with no end date.
 
 ## Which holiday items are new and which are returning in 2026?
 
