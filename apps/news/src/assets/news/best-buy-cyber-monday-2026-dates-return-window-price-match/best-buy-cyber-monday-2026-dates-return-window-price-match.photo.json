@@ -17,5 +17,6 @@
   "original": "4000×3000",
   "output": "2400×1350",
   "cropped": true,
-  "credit": "Photo: Glenn Samonte - Own Work / Wikimedia Commons, cropped"
+  "credit": "Photo: Glenn Samonte - Own Work / Wikimedia Commons, cropped, edited",
+  "overlay": true
 }
