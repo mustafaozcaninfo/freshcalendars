@@ -3,7 +3,7 @@ title: "Thanksgiving College Football 2026: Every Game, Nov. 26-28"
 description: "College football games on Thanksgiving 2026: a Texas Tech game Nov. 26 at 8 p.m. ET on ESPN. Every college and NFL game Nov. 25-28 in one table."
 type: news
 publishedAt: "2026-10-23T15:00:00-04:00"
-updatedAt: "2026-11-13T16:07:00-05:00"
+updatedAt: "2026-11-25T14:29:00-05:00"
 authors: [jessica-hartwell]
 corrections:
   - date: "2026-10-24T01:40:00-04:00"
@@ -25,7 +25,7 @@ assets:
     group: thanksgiving-2026
     title: "Thanksgiving Football Schedule 2026, Nov. 25-28"
     subtitle: "Every NFL and college game, Eastern Time unless noted"
-    note: "Source: NFL.com 2026 schedule release; Mississippi State and Ole Miss athletics (Egg Bowl); Iowa Athletics; Texas Tech Athletics (Texas Christian University (TCU) at Texas Tech); Dallas Cowboys and Detroit Lions (halftime); Texas A&M Athletics; FOX Sports (Ohio State vs. Michigan); CBS Sports and Sports Illustrated on the SEC and Georgia schedules. Times marked to be announced are set by TV partners closer to the game."
+    note: "Source: NFL.com 2026 schedule release; Mississippi State and Ole Miss athletics (Egg Bowl); Iowa Athletics; Texas Tech Athletics (Texas Christian University (TCU) at Texas Tech); Dallas Cowboys and Detroit Lions (halftime); Texas A&M Athletics; FOX Sports (Ohio State vs. Michigan); Auburn Athletics and Georgia Athletics (Iron Bowl, Georgia Tech at Georgia); CBS Sports and Sports Illustrated on the SEC and Georgia schedules."
     description: "Every Thanksgiving weekend 2026 football game on one page: the NFL slate and college rivalry weekend from Wednesday, Nov. 25 to Saturday, Nov. 28."
     alt: "Thanksgiving football schedule 2026 printable listing every NFL and college game from Nov. 25 to Nov. 28 with Eastern Time kickoffs and TV channels"
     data:
@@ -42,8 +42,8 @@ assets:
         - { start: "2026-11-27T15:00-05:00", title: "Broncos at Steelers", detail: "NFL Black Friday game", channel: "Prime Video", src: 1 }
         - { start: "2026-11-27T19:30-05:00", title: "Lone Star Showdown: Texas at Texas A&M", detail: "Kyle Field, College Station", channel: "ABC", src: 11 }
         - { start: "2026-11-28T12:00-05:00", title: "The Game: Michigan at Ohio State", detail: "Ohio Stadium, Columbus", channel: "FOX", src: 12 }
-        - { date: "2026-11-28", time: tba, title: "Iron Bowl: Auburn at Alabama", detail: "Bryant-Denny Stadium, Tuscaloosa", src: 13 }
-        - { date: "2026-11-28", time: tba, title: "Georgia Tech at Georgia", detail: "Sanford Stadium, Athens", src: 14 }
+        - { start: "2026-11-28T15:30-05:00", title: "Georgia Tech at Georgia", detail: "Sanford Stadium, Athens", src: 18, quote: "Nov 28 / 3:30 p.m. / Sold Out vs Georgia Tech Athens, Ga." }
+        - { start: "2026-11-28T18:30-06:00", title: "Iron Bowl: Auburn at Alabama", detail: "Bryant-Denny Stadium, Tuscaloosa", src: 17, quote: "Sat Nov 28 at Iron Bowl Alabama Tuscaloosa, AL Bryant-Denny Stadium 6:30 PM CST" }
 hero:
   src: ../../../../assets/news/thanksgiving-football-schedule-2026-nfl-college-games/thanksgiving-football-schedule-2026-nfl-college-games.jpg
   alt: "Thanksgiving football schedule 2026 illustration with a Nov. 27 date tile and a card for the Black Friday games"
@@ -53,7 +53,7 @@ summary:
   - "The National Football League (NFL) plays five games across Thanksgiving weekend 2026, starting with its first Thanksgiving Eve game, Packers at Rams, on Wednesday, Nov. 25."
   - "One Football Bowl Subdivision (FBS) game is on Thanksgiving Day: Texas Christian University (TCU) at Texas Tech, Thursday, Nov. 26, 2026, at 7 p.m. Central Time (CT), 8 p.m. Eastern Time (ET), on ESPN, per Texas Tech Athletics."
   - "Black Friday, Nov. 27, pairs the NFL's Broncos at Steelers with the Egg Bowl at noon Eastern Time (ET) and the Lone Star Showdown at 7:30 p.m. ET."
-  - "The college rivalry weekend finishes on Saturday, Nov. 28, led by Michigan at Ohio State at noon ET on FOX; the Iron Bowl and Georgia Tech at Georgia are still to be scheduled."
+  - "The college rivalry weekend finishes on Saturday, Nov. 28, led by Michigan at Ohio State at noon ET on FOX; Georgia Tech at Georgia is at 3:30 p.m. ET and the Iron Bowl at 7:30 p.m. ET, with their networks not yet announced."
 faq:
   - q: "Is there college football on Thanksgiving Day 2026?"
     a: "Yes, one Football Bowl Subdivision (FBS) game. TCU plays at Texas Tech on Thursday, Nov. 26, 2026, at 7 p.m. Central Time, which is 8 p.m. Eastern Time, at Jones AT&T Stadium in Lubbock, Texas, on ESPN, per Texas Tech Athletics. The college rivalry games land on Friday, Nov. 27 and Saturday, Nov. 28."
@@ -124,6 +124,22 @@ sources:
     url: "https://www.detroitlions.com/news/detroit-lions-thanksgiving-day-classic-halftime-show-powered-by-verizon-to-be-headlined-by-wu-tang-clan"
     publisher: "Detroit Lions"
     date: "2026-11-01"
+  - title: "Football schedule 2026"
+    url: "https://auburntigers.com/sports/football/schedule"
+    publisher: "Auburn Athletics"
+    date: "2026-11-25"
+  - title: "Football schedule 2026"
+    url: "https://georgiadogs.com/sports/football/schedule"
+    publisher: "Georgia Athletics"
+    date: "2026-11-25"
+  - title: "NFL Thanksgiving week halftime shows to feature U2, Wu-Tang Clan, Miranda Lambert and Goo Goo Dolls"
+    url: "https://www.sportsvideo.org/2026/11/17/nfl-thanksgiving-week-halftime-shows-to-feature-u2-wu-tang-clan-miranda-lambert-and-goo-goo-dolls/"
+    publisher: "Sports Video Group"
+    date: "2026-11-17"
+  - title: "NFL Thanksgiving week halftime shows to feature Wu-Tang Clan, U2, Miranda Lambert"
+    url: "https://www.fox9.com/sports/nfl-thanksgiving-week-wu-tang-clan-u2-miranda-lambert-2026"
+    publisher: "FOX 9"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -146,7 +162,7 @@ draft: false
 
 **The three Thanksgiving Day National Football League (NFL) games on Thursday, Nov. 26, 2026 are Bears at Lions at 1 p.m. Eastern Time (ET) on CBS, Eagles at Cowboys at 4:30 p.m. on FOX and Chiefs at Bills at 8:20 p.m. on NBC, and Packers at Rams opens the weekend on Wednesday, Nov. 25.** Thanksgiving weekend 2026 runs four days of football, from Wednesday, Nov. 25 to Saturday, Nov. 28, and this story puts every game, professional and college, in one table. One college game shares Thursday night, and college football takes over on Friday and Saturday.
 
-Where a source gives a Central Time (CT) kickoff, both times are shown. Two of the college games air on the American Broadcasting Company (ABC). Kickoffs marked "to be announced" are set by the television networks closer to the date.
+Where a source gives a Central Time (CT) kickoff, both times are shown. Two of the college games air on the American Broadcasting Company (ABC). Where a game's network is not yet announced, the table says so.
 
 ## Every Thanksgiving weekend 2026 game
 
@@ -162,14 +178,14 @@ Where a source gives a Central Time (CT) kickoff, both times are shown. Two of t
 | Fri., Nov. 27, 3 p.m. | Broncos at Steelers (NFL, Black Friday) | Prime Video |
 | Fri., Nov. 27, 7:30 p.m. | Lone Star Showdown: Texas at Texas A&M | ABC |
 | Sat., Nov. 28, 12 noon | The Game: Michigan at Ohio State | FOX |
-| Sat., Nov. 28, to be announced | Iron Bowl: Auburn at Alabama | Not yet announced |
-| Sat., Nov. 28, to be announced | Georgia Tech at Georgia | Not yet announced |
+| Sat., Nov. 28, 3:30 p.m. | Georgia Tech at Georgia | Network not yet announced |
+| Sat., Nov. 28, 7:30 p.m. | Iron Bowl: Auburn at Alabama | Network not yet announced |
 
 ## The NFL part, in brief
 
 The NFL stacks five games across three days. For the first time, it plays on Thanksgiving Eve: the Green Bay Packers visit the Los Angeles Rams at SoFi Stadium at 8 p.m. ET on Wednesday, Nov. 25, streaming on Netflix. Thanksgiving Day keeps its tripleheader, with Bears at Lions at 1 p.m., Eagles at Cowboys at 4:30 p.m. and Chiefs at Bills at 8:20 p.m. The Denver Broncos play the Pittsburgh Steelers at 3 p.m. ET on Black Friday, Nov. 27, on Prime Video; see the [Steelers' remaining schedule](/news/pittsburgh-steelers-schedule-2026-printable-remaining-games/).
 
-Those are the facts the league confirmed in its 2026 schedule release. For the parade, channels, streaming services and Thanksgiving Day viewing order, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/). U2 will headline the halftime show of the Thanksgiving Eve game, Packers at Rams, live on Netflix, the NFL says; the show is produced by Jesse Collins Entertainment. Miranda Lambert will perform at halftime of the Cowboys' Thanksgiving Day game against the Eagles at AT&T Stadium, the Dallas Cowboys announced on Oct. 25, 2026. Wu-Tang Clan will headline halftime of the Lions' Thanksgiving Day game against the Bears at Ford Field, the Detroit Lions announced on Nov. 1, 2026; Eminem and Paul Rosenberg are the executive producers. A halftime performer for the Chiefs at Bills night game has not been announced. If you want the full season on paper, our [printable 2026-27 NFL schedule](/news/printable-nfl-schedule-2026-2027-pdf/) covers every week.
+Those are the facts the league confirmed in its 2026 schedule release. For the parade, channels, streaming services and Thanksgiving Day viewing order, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/). U2 will headline the halftime show of the Thanksgiving Eve game, Packers at Rams, live on Netflix, the NFL says; the show is produced by Jesse Collins Entertainment. Miranda Lambert will perform at halftime of the Cowboys' Thanksgiving Day game against the Eagles at AT&T Stadium, the Dallas Cowboys announced on Oct. 25, 2026. Wu-Tang Clan will headline halftime of the Lions' Thanksgiving Day game against the Bears at Ford Field, the Detroit Lions announced on Nov. 1, 2026; Eminem and Paul Rosenberg are the executive producers. The Goo Goo Dolls will perform at halftime of the Chiefs at Bills game at Highmark Stadium, according to Sports Video Group and FOX 9, which both report the NFL's halftime lineup. If you want the full season on paper, our [printable 2026-27 NFL schedule](/news/printable-nfl-schedule-2026-2027-pdf/) covers every week.
 
 ## College football on Thanksgiving Day
 
@@ -188,10 +204,9 @@ Black Friday has grown into a day of college rivalries.
 The last Saturday of November carries the sport's oldest rivalries.
 
 - **The Game: Michigan at Ohio State, noon ET, FOX.** Ohio Stadium in Columbus hosts the Big Ten rivalry, with the noon kickoff on FOX reported by FOX Sports.
-- **Iron Bowl: Auburn at Alabama, time and television to be announced.** The Southeastern Conference (SEC) placed the game at Bryant-Denny Stadium in Tuscaloosa in its multi-year schedule release, reported by CBS Sports, but left it in a flexible window.
-- **Georgia Tech at Georgia, time and television to be announced.** The in-state rivalry between an Atlantic Coast Conference (ACC) team and an SEC team, known as Clean, Old-Fashioned Hate, is set for Sanford Stadium in Athens, per Georgia's released schedule.
+- **Georgia Tech at Georgia, 3:30 p.m. ET, network not yet announced.** The in-state rivalry between an Atlantic Coast Conference (ACC) team and a Southeastern Conference (SEC) team, known as Clean, Old-Fashioned Hate, is at Sanford Stadium in Athens; Georgia Athletics lists the 3:30 p.m. kickoff.
+- **Iron Bowl: Auburn at Alabama, 6:30 p.m. CT / 7:30 p.m. ET, network not yet announced.** Auburn Athletics lists the 6:30 p.m. Central kickoff at Bryant-Denny Stadium in Tuscaloosa.
 
-Networks set the remaining rivalry-weekend kickoff times closer to the game. When they are announced, this story will carry them.
 
 ## Not on this weekend
 

@@ -3,7 +3,7 @@ title: "Thanksgiving 2026 TV Schedule: 100th Macy's Parade at 8:30 a.m."
 description: "The 100th Macy's Thanksgiving Day Parade airs Thu., Nov. 26 at 8:30 a.m. on NBC. Every NFL game from Nov. 25-27 with channels, plus a printable."
 type: news
 publishedAt: "2026-10-22T12:55:00-04:00"
-updatedAt: "2026-11-13T16:10:00-05:00"
+updatedAt: "2026-11-25T14:45:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Thanksgiving 2026 TV schedule", "Macy's Thanksgiving Day Parade 2026", "NFL Thanksgiving games 2026", "what channel is the Macy's parade on", "Thanksgiving Eve game 2026"]
@@ -77,13 +77,21 @@ sources:
   - title: "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions"
     url: "https://www.nbcuniversal.com/article/100th-macys-thanksgiving-day-parade-returns-live-nbc-and-peacock-nov-26-bringing-holiday-magic-life"
     publisher: "NBCUniversal"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Let's Talk Turkey: A Consumer Guide to Safely Roasting a Turkey"
     url: "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/lets-talk-turkey-roasting"
     publisher: "USDA Food Safety and Inspection Service"
   - title: "Detroit 100th America's Thanksgiving Parade"
     url: "https://www.michigan.gov/mvaa/events/2026/11/26/detroit-100th-americas-thanksgiving-parade"
     publisher: "Michigan Department of Military and Veterans Affairs"
+  - title: "Your Guide to Thanksgiving 2026 Programming Across NBC, Peacock, Telemundo and Universal Pictures"
+    url: "https://www.nbcuniversal.com/article/your-guide-thanksgiving-2026-programming-across-nbc-peacock-and-telemundo"
+    publisher: "NBCUniversal"
+    date: "2026-11-23"
+  - title: "How to watch 2026 America's Thanksgiving Parade presented by Gardner White in Detroit"
+    url: "https://www.clickondetroit.com/news/local/2026/11/25/how-to-watch-2026-americas-thanksgiving-parade-presented-by-gardner-white-in-detroit/"
+    publisher: "WDIV ClickOnDetroit"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -144,12 +152,12 @@ The broadcast starts at 8:30 a.m. in every time zone. In Chicago that is 8:30 a.
 
 NBCUniversal announced on Nov. 13 that Today show's Savannah Guthrie, Hoda Kotb and Al Roker return as hosts. NBC airs an encore at 2 p.m. ET/PT. Telemundo also airs the parade live.
 
-Float performers named so far include Baha Men, Natasha Bedingfield, Blues Traveler, Feid, Icona Pop, Il Volo, Indigo Girls, Jimmy Fallon & The Roots, JoJo, Queen Latifah, Natalie Merchant, Leslie Odom Jr., Keke Palmer, Anthony Ramos and Smash Mouth. Megan Moroney and Teddy Swims perform from Herald Square, and Megan Hilty leads a tribute to Dolly Parton. NBCUniversal says more talent, including Broadway performances, will be announced in the coming weeks.
+NBCUniversal's Nov. 23 programming guide says Raye, joined by her sisters Amma & Absolutely, delivers the opening number. Megan Moroney, Teddy Swims and the Radio City Rockettes also perform, along with a Broadway celebration with casts and performers from nine shows: The Book of Mormon, Chicago, Disney's Aladdin, Hamilton, The Lost Boys, Rent, Richard O'Brien's The Rocky Horror Show, Schmigadoon! and Wicked. Float performers include Baha Men, Natasha Bedingfield, Blues Traveler, Devo, Feid, Icona Pop, Il Volo, Indigo Girls, Jimmy Fallon & The Roots, JoJo, Queen Latifah, Natalie Merchant, Leslie Odom Jr., Keke Palmer, Anthony Ramos and Smash Mouth. Megan Hilty appears among the special guests.
 
 The route runs 2.5 miles from Manhattan's Upper West Side to Macy's Herald Square, according to NBCUniversal. Two other NBC programs lead into the day:
 
-- **America's Parade: 100 Years of Macy's Thanksgiving Day Parade**, a documentary, airs Fri., Nov. 20 at 9 p.m. ET/PT on NBC and streams on Peacock the next day.
-- **Countdown to Macy's Thanksgiving Day Parade** airs Wed., Nov. 25 at 8 p.m. ET/PT on NBC and Peacock.
+- **America's Parade: 100 Years of Macy's Thanksgiving Day Parade**, a documentary, aired Fri., Nov. 20 at 9 p.m. ET/PT on NBC and is now streaming on Peacock.
+- **Countdown to Macy's Thanksgiving Day Parade**, hosted by Jack McBrayer, airs live Wed., Nov. 25 at 8 p.m. ET on NBC, with a live simulcast on Peacock.
 
 ## NFL games on Thanksgiving 2026
 
@@ -171,7 +179,7 @@ The Denver Broncos play the Pittsburgh Steelers at Acrisure Stadium at 3 p.m. ET
 
 ## The other 100th parade: Detroit
 
-Detroit's America's Thanksgiving Parade also marks its 100th edition this year. The State of Michigan's event listing puts the step-off at 8:45 a.m. on Thursday, Nov. 26, at Kirby Street and Woodward Avenue. The route runs about three miles down Woodward Avenue. Local broadcast details have not been posted yet.
+Detroit's America's Thanksgiving Parade also marks its 100th edition this year. The State of Michigan's event listing puts the step-off at 8:45 a.m. on Thursday, Nov. 26, at Kirby Street and Woodward Avenue. The route runs about three miles down Woodward Avenue. WDIV, the NBC station in Detroit, says its coverage starts at 6 a.m., with a parade preview from 8 to 9 a.m. and the parade broadcast from 9 a.m. to noon. It also streams on Local 4+, and the parade is syndicated to 185 markets, so check local listings.
 
 ## Plan the day around the TV
 
