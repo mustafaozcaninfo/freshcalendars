@@ -59,7 +59,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [orthodox-christmas-2027-january-7-three-kings-day-january-6, tarpon-springs-epiphany-2027-january-6-cross-dive-schedule, st-lucia-day-2026-december-13-lucia-events-us]
+related: [orthodox-christmas-2027-january-7-three-kings-day-january-6, tarpon-springs-epiphany-2027-january-6-cross-dive-schedule, dia-de-los-santos-inocentes-2026-december-28]
 downloads:
   - group: "12 Days of Christmas 2026 printables"
     title: "12 Days of Christmas 2026: Day-by-Day Dates to Jan. 6"
