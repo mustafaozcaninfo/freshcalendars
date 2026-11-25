@@ -3,7 +3,7 @@ title: "Is Chick-fil-A Open on Thanksgiving 2026? Closed Thu., Nov. 26"
 description: "Chick-fil-A is closed Thanksgiving, Thu., Nov. 26, 2026, and Christmas. Every holiday to Jan. 1 with weekday and status, plus a printable hours card."
 type: news
 publishedAt: "2026-11-17T06:00:00-05:00"
-updatedAt: "2026-11-17T06:00:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is chick fil a open on thanksgiving 2026", "is chick fil a open on christmas eve 2026", "chick fil a holiday hours 2026", "is chick fil a open on new year's day"]
@@ -18,9 +18,9 @@ assets:
     slug: chick-fil-a-holiday-hours-2026-2027
     group: chick-fil-a-hours-2026
     title: "Chick-fil-A Holiday Hours 2026: Thanksgiving to Jan. 1, 2027"
-    subtitle: "Closed days, open days and the catering order-by day, as Chick-fil-A states them"
-    note: "Source: Chick-fil-A (CFA Properties, Inc.) restaurant and catering support pages, read Nov. 17, 2026. Weekdays and the catering order-by day are computed. Limited-hours times are not posted."
-    description: "One-page Chick-fil-A holiday hours 2026 card: closed Nov. 26, Dec. 25 and Sundays, open Christmas Eve and New Year's, plus the catering order-by day."
+    subtitle: "Closed days and open days, as Chick-fil-A states them"
+    note: "Source: Chick-fil-A (CFA Properties, Inc.) restaurant support pages. Weekdays are computed. Limited-hours times are not posted."
+    description: "One-page Chick-fil-A holiday hours 2026 card: closed Nov. 26, Dec. 25 and Sundays, open Christmas Eve and New Year's, with room for local hours."
     alt: "Printable Chick-fil-A holiday hours 2026 card listing Thanksgiving closed, Christmas Eve open, Christmas closed and New Year's Day open"
     data:
       columns:
@@ -48,13 +48,10 @@ assets:
         - cells: { date: "Fri., Jan. 1, 2027, New Year's Day", status: "Open, may have limited hours" }
           src: 3
           quote: "U.S. Chick-fil-A® restaurants are open on New Year's Day and New Year's Eve (unless the holiday falls on a Sunday), although they may have limited operating hours."
-        - cells: { date: "Tue., Nov. 24 (Wed., Nov. 25 pickup)", status: "Catering order-by day from the 24-hour rule" }
-          src: 5
-          quote: "You can place a Chick-fil-A® Catering order 24 hours before your event at all Restaurants"
       note: "Write your restaurant's Christmas Eve, New Year's Eve and New Year's Day hours here."
       unconfirmed:
-        - { label: "Limited hours for Christmas Eve, New Year's Eve and New Year's Day", why: "Chick-fil-A had posted no times on its holiday pages as of Nov. 17, 2026" }
-        - { label: "Black Friday, Nov. 27", why: "Chick-fil-A had posted no Black Friday hours page as of Nov. 17, 2026" }
+        - { label: "Limited hours for Christmas Eve, New Year's Eve and New Year's Day", why: "Chick-fil-A had posted no times on its holiday pages as of Nov. 25, 2026" }
+        - { label: "Black Friday, Nov. 27", why: "Chick-fil-A had posted no Black Friday hours page as of Nov. 25, 2026" }
 hero:
   src: ../../../../assets/news/is-chick-fil-a-open-thanksgiving-christmas-eve-2026/is-chick-fil-a-open-thanksgiving-christmas-eve-2026.webp
   alt: "Chick-fil-A restaurant in Hillsboro, Oregon, a file photo for is Chick-fil-A open on Thanksgiving 2026"
@@ -70,7 +67,7 @@ summary:
   - "Chick-fil-A says all U.S. restaurants are closed on Thanksgiving, Thursday, Nov. 26, 2026, and on Christmas, Friday, Dec. 25, 2026."
   - "Chick-fil-A says restaurants are open on Christmas Eve, Thursday, Dec. 24, unless it falls on a Sunday, and may have limited hours. New Year's Eve and New Year's Day, Friday, Jan. 1, 2027, follow the same rule."
   - "Restaurants are also closed on Sundays, so Nov. 29, Dec. 6, 13, 20 and 27 are closed days (weekdays computed): seven closed days from Nov. 26, 2026 to Jan. 2, 2027."
-  - "Chick-fil-A Catering orders need 24 hours' notice at all restaurants, which makes Tuesday, Nov. 24 the order-by day for a Wednesday, Nov. 25 pickup (computed)."
+  - "Chick-fil-A Catering orders need 24 hours' notice at all restaurants, so the order-by time for a Wednesday, Nov. 25 pickup was Tuesday, Nov. 24 (computed)."
 faq:
   - q: "Is Chick-fil-A open on Thanksgiving 2026?"
     a: "No. Chick-fil-A says all U.S. restaurants are closed on Thanksgiving. Thanksgiving 2026 is Thursday, Nov. 26."
@@ -83,32 +80,32 @@ faq:
   - q: "Is Chick-fil-A open on Black Friday 2026?"
     a: "Chick-fil-A has posted no Black Friday hours page. Friday, Nov. 27 is not a Sunday or a listed holiday, so the Sunday and holiday closures do not apply (computed). Hours are set by each restaurant; check the Chick-fil-A app."
   - q: "How far ahead do I order Chick-fil-A catering for Thanksgiving?"
-    a: "Chick-fil-A says you can place a Catering order 24 hours before your event at all restaurants, and lead times vary by restaurant. For a Wednesday, Nov. 25 pickup, that is Tuesday, Nov. 24 at the same time of day (computed)."
+    a: "Chick-fil-A says you can place a Catering order 24 hours before your event at all restaurants, and lead times vary by restaurant. For a Wednesday, Nov. 25 pickup, that was Tuesday, Nov. 24 at the same time of day (computed)."
 sources:
   - title: "Are Chick-fil-A restaurants open on Thanksgiving? | Chick-fil-A"
     url: "https://www.chick-fil-a.com/customer-support/who-we-are/our-restaurants/are-chick-fil-a-restaurants-open-on-thanksgiving"
     publisher: "CFA Properties, Inc. (Chick-fil-A)"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Are Chick-fil-A restaurants open on Christmas Eve or Christmas Day? | Chick-fil-A"
     url: "https://www.chick-fil-a.com/customer-support/who-we-are/our-restaurants/are-chick-fil-a-restaurants-open-on-christmas-day"
     publisher: "CFA Properties, Inc. (Chick-fil-A)"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Are Chick-fil-A restaurants open on New Year's Day? | Chick-fil-A"
     url: "https://www.chick-fil-a.com/customer-support/who-we-are/our-restaurants/are-chick-fil-a-restaurants-open-on-new-years-day"
     publisher: "CFA Properties, Inc. (Chick-fil-A)"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Can I order Chick-fil-A to be delivered on Sundays? | Chick-fil-A"
     url: "https://www.chick-fil-a.com/customer-support/ordering-and-payment/delivery/can-i-order-chick-fil-a-to-be-delivered-on-sundays"
     publisher: "CFA Properties, Inc. (Chick-fil-A)"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "How far in advance do I need to order Catering? | Chick-fil-A"
     url: "https://www.chick-fil-a.com/customer-support/ordering-and-payment/catering-orders/how-far-in-advance-do-i-need-to-order-catering"
     publisher: "CFA Properties, Inc. (Chick-fil-A)"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Peppermint Drinks and Treats | Chick-fil-A"
     url: "https://www.chick-fil-a.com/menu/peppermint-chip"
     publisher: "CFA Properties, Inc. (Chick-fil-A)"
-    date: "2026-11-17"
+    date: "2026-11-25"
 internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
@@ -120,7 +117,7 @@ related: [restaurants-open-thanksgiving-2026-hours-by-chain, chick-fil-a-pepperm
 downloads:
   - group: "Chick-fil-A Holiday Hours 2026 printables"
     title: "Chick-fil-A Holiday Hours 2026: Thanksgiving to Jan. 1, 2027"
-    description: "One-page Chick-fil-A holiday hours 2026 card: closed Nov. 26, Dec. 25 and Sundays, open Christmas Eve and New Year's, plus the catering order-by day."
+    description: "One-page Chick-fil-A holiday hours 2026 card: closed Nov. 26, Dec. 25 and Sundays, open Christmas Eve and New Year's, with room for local hours."
     preview: ../../../../assets/news/chick-fil-a-hours-2026/chick-fil-a-holiday-hours-2026-2027.png
     alt: "Printable Chick-fil-A holiday hours 2026 card listing Thanksgiving closed, Christmas Eve open, Christmas closed and New Year's Day open"
     pdf: "/news/downloads/chick-fil-a-hours-2026/chick-fil-a-holiday-hours-2026-2027.pdf"
@@ -129,7 +126,7 @@ downloads:
 draft: false
 ---
 
-**Chick-fil-A restaurants in the U.S. are closed on Thanksgiving Day, Thursday, Nov. 26, 2026, according to Chick-fil-A's own support page, read Nov. 17, 2026.** The page says restaurant teams close "so our restaurant teams can spend time with family and friends."
+**Chick-fil-A restaurants in the U.S. are closed on Thanksgiving Day, Thursday, Nov. 26, 2026, according to Chick-fil-A's own support page, read Nov. 25, 2026.** The page says restaurant teams close "so our restaurant teams can spend time with family and friends."
 
 ## Chick-fil-A holiday hours from Thanksgiving 2026 to New Year's Day
 
@@ -146,7 +143,7 @@ Weekdays are computed. The wording column is Chick-fil-A's. Each date links to t
 | [Thu., Dec. 31, New Year's Eve](https://www.chick-fil-a.com/customer-support/who-we-are/our-restaurants/are-chick-fil-a-restaurants-open-on-new-years-day) | Open, may have limited hours | "open on New Year's Day and New Year's Eve (unless the holiday falls on a Sunday)" |
 | [Fri., Jan. 1, 2027, New Year's Day](https://www.chick-fil-a.com/customer-support/who-we-are/our-restaurants/are-chick-fil-a-restaurants-open-on-new-years-day) | Open, may have limited hours | Same sentence as New Year's Eve |
 
-Source: Chick-fil-A support pages, read Nov. 17, 2026. Chick-fil-A has not posted any opening or closing times for the limited-hours days.
+Source: Chick-fil-A support pages, read Nov. 25, 2026. Chick-fil-A has not posted any opening or closing times for the limited-hours days.
 
 ## Is Chick-fil-A open on Thanksgiving 2026?
 
@@ -168,7 +165,7 @@ Seven days from Nov. 26, 2026 to Jan. 2, 2027 (computed). Chick-fil-A says its r
 
 ## When to order Chick-fil-A catering for Thanksgiving
 
-Chick-fil-A says you can place a Catering order "24 hours before your event at all Restaurants, and many Restaurants offer lower lead times," and that "lead times vary by Restaurant." For a Wednesday, Nov. 25 pickup, the 24-hour rule means ordering by the same time on Tuesday, Nov. 24 (computed from the rule). Chick-fil-A has posted no separate holiday deadline.
+Chick-fil-A says you can place a Catering order "24 hours before your event at all Restaurants, and many Restaurants offer lower lead times," and that "lead times vary by Restaurant." For a Wednesday, Nov. 25 pickup, the 24-hour rule meant ordering by the same time on Tuesday, Nov. 24 (computed from the rule), so that deadline has passed. Chick-fil-A has posted no separate holiday deadline.
 
 ## Peppermint drinks run past the holidays
 
@@ -180,4 +177,4 @@ Not yet announced: opening and closing times for Christmas Eve, New Year's Eve a
 
 ## Print the Chick-fil-A holiday hours card
 
-The free printable puts the closed days, the open days and the catering order-by day on one US Letter page, with a line to write your restaurant's limited hours once you know them.
+The free printable puts the closed days and the open days on one US Letter page, with a line to write your restaurant's limited hours once you know them.

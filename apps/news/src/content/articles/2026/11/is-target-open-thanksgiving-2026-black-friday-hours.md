@@ -3,7 +3,7 @@ title: "Is Target Open on Thanksgiving 2026? Closed, Then 6 a.m. Black Friday"
 description: "Target is closed Thu., Nov. 26, 2026 and opens Black Friday at 6 a.m. Every holiday date to New Year's Day in one table, plus a printable."
 type: news
 publishedAt: "2026-11-15T14:36:00-05:00"
-updatedAt: "2026-11-21T15:46:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is target open on thanksgiving 2026", "target black friday hours 2026", "target christmas eve hours 2026", "target holiday hours 2026"]
@@ -82,7 +82,7 @@ sources:
   - title: "2026 Holiday Shopping at Target: Answers to Guests' Most Frequently Asked Questions"
     url: "https://corporate.target.com/press/fact-sheet/2026/11/holiday-shopping-information"
     publisher: "Target Corporation"
-    date: "2026-11-19"
+    date: "2026-11-25"
   - title: "Target Transforms Black Friday into an Experience with Deep Deals, Exclusive Launches and Surprise Gifts"
     url: "https://corporate.target.com/press/release/2025/11/target-transforms-black-friday-into-an-experience-with-deep-deals,-exclusive-launches-and-surprise-g"
     publisher: "Target Corporation"
@@ -137,7 +137,7 @@ Mark the closing on the [November 2026 printable calendar](/november-calendars.h
 
 ## What time does Target open on Black Friday 2026?
 
-At 6 a.m. in your time zone on Friday, Nov. 27. In 2025, Target's Nov. 20 release also said stores nationwide would open at 6 a.m. local time on Black Friday, and its Black Friday deals ran Sunday, Nov. 23 through Saturday, Nov. 29, 2025. Target has not posted a 2026 closing time for that day, only that stores close at the current closing time. The 2026 deal dates and the Nov. 5-7 early sale are in the [Target Black Friday 2026 early sale story](/news/target-black-friday-2026-early-sale-november-5-7-price-match-dates/), and other chains are in the [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/) list.
+At 6 a.m. in your time zone on Friday, Nov. 27. In 2025, Target's Nov. 20 release also said stores nationwide would open at 6 a.m. local time on Black Friday, and its Black Friday deals ran Sunday, Nov. 23 through Saturday, Nov. 29, 2025. Target has not posted a 2026 closing time for that day, only that stores close at the current closing time. The fact sheet also says Target's Black Friday deals run Nov. 22-29, with new weekend deals Nov. 26-29. The first 100 eligible guests at every store on Friday, Nov. 27 receive a Target GiftCard worth $25, $50 or $100, and one guest per store gets $1,000; tickets are handed out starting about one hour before opening and must be redeemed within the first hour after the 6 a.m. opening. The 2026 deal dates and the Nov. 5-7 early sale are in the [Target Black Friday 2026 early sale story](/news/target-black-friday-2026-early-sale-november-5-7-price-match-dates/), and other chains are in the [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/) list.
 
 ## What are Target's holiday hours through Christmas Eve?
 
@@ -151,7 +151,7 @@ All stores are open on Thursday, Dec. 31, 2026. On Friday, Jan. 1, 2027, Target 
 
 ## What Target has not posted
 
-The fact sheet does not include a Black Friday closing time, the extended-hours times, a Christmas Eve opening time, the 2026 Black Friday sale week or Cyber Monday dates, or pharmacy hours. Check your store before you go.
+The fact sheet does not include a Black Friday closing time, the extended-hours times, a Christmas Eve opening time, Cyber Monday dates, or pharmacy hours. Check your store before you go.
 
 ## Print the Target holiday hours card
 

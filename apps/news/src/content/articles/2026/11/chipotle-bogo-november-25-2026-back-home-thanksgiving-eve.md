@@ -3,6 +3,7 @@ title: "Chipotle BOGO Nov. 25, 2026: Free Entrée 5 to 9 p.m. In Store"
 description: "Chipotle's buy one, get one (BOGO) runs 5 to 9 p.m. Nov. 25 for Rewards members in store. Full terms, 2025 changes and the $0 delivery code."
 type: news
 publishedAt: "2026-11-21T06:10:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["chipotle bogo november 25", "chipotle bogo thanksgiving eve 2026", "chipotle buy one get one free", "chipotle back home bogo"]
@@ -37,7 +38,7 @@ assets:
           src: 3
           quote: "Valid for the first 15,000 purchases from Nov 27 – Nov 30, 2026 of at least $50 in e-gift cards"
       note:
-        - "Join Chipotle Rewards before Nov. 25: the BOGO needs a scan at checkout."
+        - "Join Chipotle Rewards before you go: the BOGO needs a scan at checkout."
         - "The e-gift card bonus expires Dec. 11, 2026."
         - "Write the restaurant and the time you plan to go here."
 downloads:
@@ -67,7 +68,7 @@ summary:
   - "Cyber Weekend adds a $0 delivery fee with code CYBER26 from Nov. 27 to Nov. 30, and an e-gift card bonus for the first 15,000 purchases of $50 or more."
 faq:
   - q: "Do I need to be a Chipotle Rewards member for the Nov. 25 BOGO?"
-    a: "Yes. Chipotle's release limits the offer to Rewards members who scan for Rewards at the point of sale at the time of purchase. Chipotle's Rewards terms say there are no membership fees. Sign up in the Chipotle app or at chipotle.com/rewards; no sign-up deadline is given, so join before Nov. 25."
+    a: "Yes. Chipotle's release limits the offer to Rewards members who scan for Rewards at the point of sale at the time of purchase. Chipotle's Rewards terms say there are no membership fees. Sign up in the Chipotle app or at chipotle.com/rewards; no sign-up deadline is given, so join before you go."
   - q: "Can I use the BOGO in the app or for delivery?"
     a: "No. Chipotle says the offer is redeemable in restaurant only and is not valid for mobile, online or delivery orders, orders placed through third-party platforms, catering or Burritos by the Box."
   - q: "Are Chipotle restaurants open on Thanksgiving Day, Nov. 26, 2026?"
@@ -78,7 +79,7 @@ sources:
   - title: "Chipotle Brings Back \"Back Home BOGO\" for the Biggest Reunion Night of the Year"
     url: "https://newsroom.chipotle.com/2026-11-20-CHIPOTLE-BRINGS-BACK-BACK-HOME-BOGO-FOR-THE-BIGGEST-REUNION-NIGHT-OF-THE-YEAR"
     publisher: "Chipotle Mexican Grill"
-    date: "2026-11-20"
+    date: "2026-11-25"
   - title: "Chipotle Reunites Hometown Friends with a Buy-One-Get-One (BOGO) Entrée Offer on Thanksgiving Eve"
     url: "https://newsroom.chipotle.com/2025-11-20-CHIPOTLE-REUNITES-HOMETOWN-FRIENDS-WITH-A-BUY-ONE-GET-ONE-BOGO-ENTREE-OFFER-ON-THANKSGIVING-EVE"
     publisher: "Chipotle Mexican Grill"
@@ -86,11 +87,11 @@ sources:
   - title: "Chipotle Holiday Gift Cards"
     url: "https://www.chipotle.com/holidaygiftcards"
     publisher: "Chipotle Mexican Grill"
-    date: "2026-11-21"
+    date: "2026-11-25"
   - title: "Chipotle Rewards Terms"
     url: "https://www.chipotle.com/rewards-terms"
     publisher: "Chipotle Mexican Grill"
-    date: "2026-04-13"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -134,7 +135,7 @@ The release does not name which entrées qualify; it refers to "an entrée" thro
 
 The window is the change. In 2025 the offer ran from 4 p.m. until close, per Chipotle's Nov. 20, 2025 release; in 2026 it ends at 9 p.m. and starts an hour later. Chipotle's 2025 release says "menu items" and the 2026 release says "entrée items."
 
-## How do you join Chipotle Rewards before Nov. 25?
+## How do you join Chipotle Rewards before the BOGO?
 
 The BOGO needs a Rewards scan, so a member account comes first. Chipotle's Rewards terms, last updated April 13, 2026, say there are no membership fees. Membership is open to legal residents of the 50 United States and Washington, D.C. Under 13 is not eligible, and members 13 to 17 need parent or guardian permission. Sign up in the Chipotle app or at chipotle.com/rewards. No sign-up deadline is given, but the scan happens at checkout, so join before you go.
 

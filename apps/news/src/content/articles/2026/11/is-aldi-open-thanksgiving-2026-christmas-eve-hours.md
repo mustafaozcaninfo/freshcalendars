@@ -3,7 +3,7 @@ title: "Is Aldi Open on Thanksgiving 2026? Closed Thu., Nov. 26"
 description: "Aldi stores are closed Thanksgiving, Thu., Nov. 26, 2026, per FOX 4 and Yahoo Shopping. Holidays to New Year's Day, the under-$39 meal and a printable."
 type: news
 publishedAt: "2026-11-20T15:33:00-05:00"
-updatedAt: "2026-11-20T15:33:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is aldi open on thanksgiving 2026", "aldi thanksgiving hours 2026", "aldi christmas eve hours", "aldi holiday hours 2026"]
@@ -68,7 +68,7 @@ hero:
 summary:
   - "Aldi stores are closed on Thanksgiving, Thursday, Nov. 26, 2026, according to FOX 4 Dallas-Fort Worth and Yahoo Shopping; Aldi's own 2026 holiday page could not be read."
   - "Aldi's holiday policy, as Yahoo News reported it in 2025, closes stores on Thanksgiving, Christmas and New Year's Day, with limited hours on Christmas Eve and New Year's Eve."
-  - "Aldi says shoppers can feed 10 people for less than $39 with its 2026 Thanksgiving meal deal, according to NBC 5 Dallas-Fort Worth."
+  - "Aldi says shoppers can feed 10 people for less than $39 with its 2026 Thanksgiving meal deal, according to NBC 5 Dallas-Fort Worth; Aldi's own page adds one 16 lb turkey."
   - "Hours for Wednesday, Nov. 25, Black Friday and the Christmas Eve and New Year's Eve closing times are not yet announced for 2026."
 faq:
   - q: "Is Aldi open on Thanksgiving 2026?"
@@ -80,7 +80,7 @@ faq:
   - q: "Is Aldi open on Christmas Day and New Year's Day?"
     a: "Aldi's policy, as Yahoo News reported it in 2025, closes stores on Christmas and New Year's Day. That points to closures on Friday, Dec. 25, 2026 and Friday, Jan. 1, 2027, but Aldi has not confirmed them for 2026-27."
   - q: "How much is Aldi's Thanksgiving meal deal in 2026?"
-    a: "NBC 5 Dallas-Fort Worth reports Aldi says shoppers can feed 10 people for less than $39. The full contents and dates were not read, so check Aldi's release or your store."
+    a: "NBC 5 Dallas-Fort Worth reports Aldi says shoppers can feed 10 people for less than $39. Aldi's own page says the deal feeds 10 people with one 16 lb turkey and the classic fixings for less than $39. Effective dates are not posted there, so check your store."
 sources:
   - title: "Thanksgiving Day store hours 2026: Which DFW grocery stores and retailers are open?"
     url: "https://www.fox4news.com/news/thanksgiving-day-store-hours-2026-which-dfw-grocery-stores-retailers-open"
@@ -101,11 +101,15 @@ sources:
   - title: "Thanksgiving Press Release"
     url: "https://corporate.aldi.us/newsroom/news/thanksgiving-press-release"
     publisher: "ALDI"
-    date: "2025-10-15"
+    date: "2026-11-25"
   - title: "New Year's grocery store hours: What's open, closed"
     url: "https://www.fox35orlando.com/news/new-years-grocery-store-hours-whats-open-closed"
     publisher: "FOX 35 Orlando"
     date: "2025-12-31"
+  - title: "Host Thanksgiving for 10 for Under $39 | ALDI US"
+    url: "https://www.aldi.us/store/aldi/pages/thanksgiving-meal"
+    publisher: "ALDI"
+    date: "2026-11-25"
 internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
@@ -162,7 +166,7 @@ Past times are mixed. In 2025, FOX 35 Orlando reported "Aldi stores will be open
 
 ## What is Aldi's Thanksgiving meal deal in 2026?
 
-NBC 5 Dallas-Fort Worth reported on Nov. 12, 2026: "Aldi says shoppers can feed 10 people for less than $39 with its Thanksgiving meal deal." The turkey size, item list and effective dates were not read, so they are not given here.
+NBC 5 Dallas-Fort Worth reported on Nov. 12, 2026: "Aldi says shoppers can feed 10 people for less than $39 with its Thanksgiving meal deal." Aldi's own Thanksgiving meal page says the deal feeds 10 people "with one 16 lb turkey and all the classic fixings for less than $39." That page gives no effective dates, so none are given here.
 
 For comparison, Aldi's newsroom said in its Oct. 15, 2025 release: "For just $40*, shoppers can build a full spread for 10," including "a 14-pound turkey." That was the 2025 deal. Other chains' meal deals are in the [Thanksgiving meal deals story](/news/thanksgiving-meal-deals-2026-aldi-lidl-target-sams-club-prices-dates/).
 

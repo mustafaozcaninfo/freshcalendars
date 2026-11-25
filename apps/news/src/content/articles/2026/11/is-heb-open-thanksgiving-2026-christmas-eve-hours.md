@@ -3,6 +3,7 @@ title: "Is H-E-B Open on Thanksgiving 2026? 6 a.m. to Noon, Pharmacy Closed"
 description: "Most H-E-B stores open 6 a.m. to noon CT on Thanksgiving, Nov. 26, 2026, pharmacies closed. Hours by Texas metro, Central Market and a printable card."
 type: news
 publishedAt: "2026-11-21T20:37:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is heb open on thanksgiving 2026", "heb thanksgiving hours 2026", "heb pharmacy thanksgiving", "heb christmas eve hours"]
@@ -92,7 +93,7 @@ sources:
   - title: "What's open on Thanksgiving 2026 in Austin: Grocery stores, pharmacies, and restaurants"
     url: "https://www.fox7austin.com/news/whats-open-thanksgiving-2026-austin-grocery-stores-pharmacies-restaurants"
     publisher: "Fox 7 Austin"
-    date: "2026-11-19"
+    date: "2026-11-25"
   - title: "Stores and Restaurants Open on Thanksgiving Day in Austin 2026"
     url: "https://austinot.com/stores-and-restaurants-open-on-thanksgiving-day-in-austin"
     publisher: "Austinot"
@@ -100,11 +101,11 @@ sources:
   - title: "Thanksgiving Day store hours 2026: Which DFW grocery stores and retailers are open?"
     url: "https://www.fox4news.com/news/thanksgiving-day-store-hours-2026-which-dfw-grocery-stores-retailers-open"
     publisher: "Fox 4 Dallas-Fort Worth"
-    date: "2026-11-19"
+    date: "2026-11-25"
   - title: "What's open on Thanksgiving 2026 in Houston: Grocery stores, pharmacies and restaurants"
     url: "https://www.fox26houston.com/news/whats-open-thanksgiving-houston-grocery-stores-pharmacies-restaurants-2026"
     publisher: "Fox 26 Houston"
-    date: "2026-11-19"
+    date: "2026-11-25"
   - title: "Is H-E-B open on Thanksgiving?"
     url: "https://www.fox7austin.com/news/h-e-b-thanksgiving-hours-2025"
     publisher: "Fox 7 Austin"
@@ -151,6 +152,7 @@ All times are Central Time, as the newsrooms reported them. The 2025 column show
 | [Pharmacy, Austin area](https://austinot.com/stores-and-restaurants-open-on-thanksgiving-day-in-austin) | Closed (Fox 7 Austin, Austinot) | Closed (Fox 7 Austin) |
 | [Curbside pickup, DFW](https://www.fox4news.com/news/thanksgiving-day-store-hours-2026-which-dfw-grocery-stores-retailers-open) | 7 to 11 a.m. (Fox 4) | Not in the 2025 report we found |
 | [Curbside pickup, Austin area](https://austinot.com/stores-and-restaurants-open-on-thanksgiving-day-in-austin) | 7 to 11 a.m. (Austinot) | 7 to 11 a.m. (Fox 7 Austin) |
+| [Home delivery, DFW](https://www.fox4news.com/news/thanksgiving-day-store-hours-2026-which-dfw-grocery-stores-retailers-open) | 7 to 10 a.m. (Fox 4) | Not in the 2025 report we found |
 | [Home delivery, Austin area](https://austinot.com/stores-and-restaurants-open-on-thanksgiving-day-in-austin) | 7 to 10 a.m. (Austinot) | Not in the 2025 report we found |
 | [Central Market, DFW](https://www.fox4news.com/news/thanksgiving-day-store-hours-2026-which-dfw-grocery-stores-retailers-open) | 8 a.m. to 2 p.m. (Fox 4) | 8 a.m. to 2 p.m. (Fox 4) |
 | [Central Market North Lamar and Westgate, Austin](https://austinot.com/stores-and-restaurants-open-on-thanksgiving-day-in-austin) | 8 a.m. to 2 p.m. (Austinot) | Not in the 2025 report we found |
@@ -167,7 +169,7 @@ No. Fox 7 Austin says "Pharmacy counters will be closed," and Austinot says in-s
 
 ## H-E-B curbside and delivery hours on Thanksgiving
 
-Fox 4 reports curbside pickup in DFW from 7 to 11 a.m. Austinot gives Austin curbside as 7 a.m. to 11 a.m. and home delivery as 7 a.m. to 10 a.m. Curbside ends an hour before the noon store close, and delivery ends two hours before it.
+Fox 4 reports curbside pickup in DFW from 7 to 11 a.m. and home delivery from 7 to 10 a.m. Austinot gives Austin curbside as 7 a.m. to 11 a.m. and home delivery as 7 a.m. to 10 a.m. In both metros, curbside ends an hour before the noon store close, and delivery ends two hours before it.
 
 ## Central Market Thanksgiving hours
 

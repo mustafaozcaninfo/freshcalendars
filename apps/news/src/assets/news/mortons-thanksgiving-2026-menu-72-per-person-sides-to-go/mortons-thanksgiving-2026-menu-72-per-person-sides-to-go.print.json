@@ -1,12 +1,11 @@
 {
   "v": 3,
   "kit": "holiday-planner",
-  "hash": "950191255ba04054",
+  "hash": "1b196dfdbfc1f6fd",
   "files": [
     "/news/downloads/mortons-thanksgiving-2026/mortons-thanksgiving-2026-planner.pdf"
   ],
   "computed": [
-    "November 23",
     "November 25",
     "November 26"
   ]

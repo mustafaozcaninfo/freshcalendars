@@ -99,7 +99,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [are-malls-open-thanksgiving-2026-simon-mall-black-friday-hours, is-target-open-thanksgiving-2026-black-friday-hours, black-friday-2026-shopping-planner-printable-store-opening-times]
+related: [are-malls-open-thanksgiving-2026-simon-mall-black-friday-hours, is-target-open-thanksgiving-2026-black-friday-hours, is-ross-open-thanksgiving-2026-burlington-black-friday-hours]
 downloads:
   - group: "T.J. Maxx printables"
     title: "T.J. Maxx, Marshalls, HomeGoods Holiday Hours 2026"

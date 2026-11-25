@@ -3,7 +3,7 @@ title: "Is Publix Open on Thanksgiving 2026? Closed Thu., Nov. 26"
 description: "Publix is closed Thanksgiving, Thu., Nov. 26, 2026, one of three closed days a year. Every holiday to Easter 2027, meal order-by days and a printable."
 type: news
 publishedAt: "2026-11-16T09:20:00-05:00"
-updatedAt: "2026-11-21T15:46:00-05:00"
+updatedAt: "2026-11-25T15:00:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is publix open on thanksgiving 2026", "publix holiday hours 2026", "is publix open on christmas eve", "publix closed holidays"]
@@ -19,8 +19,8 @@ assets:
     group: publix-hours-2026
     title: "Publix Holiday Hours 2026: Thanksgiving to Easter 2027"
     subtitle: "Closed days, early closes and the 48-hour meal rule, as Publix states them"
-    note: "Source: Publix Super Markets, Q&A in its newsroom and Holiday Meals page, read Nov. 16, 2026. Weekdays and order-by days are computed. Early-close times are posted in stores."
-    description: "One-page Publix holiday hours 2026 card: closed Nov. 26, Dec. 25 and Easter 2027, early closes, meal order-by days and a line for store times."
+    note: "Source: Publix Super Markets, Q&A in its newsroom and Holiday Meals page. Weekdays and order-by days are computed. Early-close times are posted in stores."
+    description: "One-page Publix holiday hours 2026 card: closed Nov. 26, Dec. 25 and Easter 2027, early closes, a meal order-by day and a line for store times."
     alt: "Printable Publix holiday hours 2026 card listing Thanksgiving closed, Christmas Eve early close, Christmas closed and Easter 2027 closed"
     data:
       columns:
@@ -45,9 +45,6 @@ assets:
         - cells: { date: "Sun., March 28, 2027, Easter", status: "Closed" }
           src: 1
           quote: "Publix stores are closed three days a year: Thanksgiving, Christmas and Easter."
-        - cells: { date: "Mon., Nov. 23 (Wed., Nov. 25 pickup)", status: "Order-by day for a meal; Publix says at least 48 hours ahead" }
-          src: 2
-          quote: "Order at least 48 hours in advance."
         - cells: { date: "Tue., Dec. 22 (Thu., Dec. 24 pickup)", status: "Order-by day for a meal; Publix says at least 48 hours ahead" }
           src: 2
           quote: "Order at least 48 hours in advance."
@@ -68,7 +65,7 @@ hero:
 summary:
   - "Publix says its stores are closed three days a year: Thanksgiving, Christmas and Easter, so they are closed Thursday, Nov. 26, 2026 and Friday, Dec. 25, 2026."
   - "Publix says it closes early on Christmas Eve, New Year's Eve and New Year's Day, and posts the times in its stores before those holidays."
-  - "Publix tells holiday meal customers to order at least 48 hours before pickup, which makes Monday, Nov. 23 the last order day for a Wednesday, Nov. 25 pickup (computed)."
+  - "Publix tells holiday meal customers to order at least 48 hours before pickup, which made Monday, Nov. 23 the last order day for a Wednesday, Nov. 25 pickup and makes Tuesday, Dec. 22 the last for Thursday, Dec. 24 (computed)."
   - "Easter 2027 is Sunday, March 28 (computed), so Publix stores are closed that day."
 faq:
   - q: "Is Publix open on Thanksgiving 2026?"
@@ -80,7 +77,7 @@ faq:
   - q: "Is Publix open on Easter 2027?"
     a: "No. Easter is one of the three days Publix stores are closed. Easter 2027 falls on Sunday, March 28."
   - q: "When do I order a Publix Thanksgiving meal?"
-    a: "Publix says to order at least 48 hours in advance, and to try for three days before your feast. For a Wednesday, Nov. 25 pickup, the 48-hour rule means ordering by Monday, Nov. 23; three days ahead is Sunday, Nov. 22 (both computed)."
+    a: "Publix says to order at least 48 hours in advance, and to try for three days before your feast. For a Wednesday, Nov. 25 pickup, the 48-hour rule meant ordering by Monday, Nov. 23, which has passed. For a Thursday, Dec. 24 pickup, order by Tuesday, Dec. 22; three days ahead is Monday, Dec. 21 (computed)."
   - q: "Are Publix pharmacies and Publix Liquors closed on the same days?"
     a: "Pharmacies are closed on Thanksgiving. Publix's holiday meals page says all stores and pharmacies will be closed on Thanksgiving Day, Nov. 26. Neither page mentions Publix Liquors, so check it with your store."
 sources:
@@ -91,7 +88,7 @@ sources:
   - title: "Holiday Meals: Thanksgiving Dinner, Platters, and More | Publix Super Markets"
     url: "https://publix.com/mc/order-ahead/order-holiday-meals"
     publisher: "Publix Super Markets"
-    date: "2026-11-16"
+    date: "2026-11-25"
 internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
@@ -103,7 +100,7 @@ related: [whats-open-thanksgiving-2026-grocery-stores-walmart-costco, is-heb-ope
 downloads:
   - group: "Publix Holiday Hours 2026 printables"
     title: "Publix Holiday Hours 2026: Thanksgiving to Easter 2027"
-    description: "One-page Publix holiday hours 2026 card: closed Nov. 26, Dec. 25 and Easter 2027, early closes, meal order-by days and a line for store times."
+    description: "One-page Publix holiday hours 2026 card: closed Nov. 26, Dec. 25 and Easter 2027, early closes, a meal order-by day and a line for store times."
     preview: ../../../../assets/news/publix-hours-2026/publix-holiday-hours-2026-2027.png
     alt: "Printable Publix holiday hours 2026 card listing Thanksgiving closed, Christmas Eve early close, Christmas closed and Easter 2027 closed"
     pdf: "/news/downloads/publix-hours-2026/publix-holiday-hours-2026-2027.pdf"
@@ -148,7 +145,7 @@ No. Easter is the third closed day. Easter 2027 is Sunday, March 28, a date comp
 
 Publix's holiday meals page says "Order at least 48 hours in advance" and "We need at least 48 hours before pickup." It also says to "try to order at least three days before your holiday feast." Pickup is at the Deli: "Just head to the Deli and ask for your holiday meal." The page posts no dates or prices.
 
-Because stores are closed on Thanksgiving and Christmas, pickup on those days is not possible (computed from the closure). The order-by days below are computed from the 48-hour rule, at the same time of day as pickup.
+Because stores are closed on Thanksgiving and Christmas, pickup on those days is not possible (computed from the closure). The order-by days below are computed from the 48-hour rule, at the same time of day as pickup. The Nov. 23 order-by day has passed.
 
 | Pickup day | Order by (48 hours) | Publix's three-day suggestion |
 |---|---|---|
@@ -163,4 +160,4 @@ Not yet announced: the early-close times for Christmas Eve, New Year's Eve and N
 
 ## Print the Publix holiday hours card
 
-The free printable lists the closed days, the early closes and the two meal order-by days on one US Letter page, with a line to write your store's early-close times once they are posted.
+The free printable lists the closed days, the early closes and the Dec. 22 meal order-by day on one US Letter page, with a line to write your store's early-close times once they are posted.

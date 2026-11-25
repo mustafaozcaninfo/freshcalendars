@@ -3,7 +3,7 @@ title: "Plaza Lighting 2026: Thanksgiving at 5 p.m., Switch at 6:25 p.m."
 description: "The Plaza lighting is Nov. 26, 5 to 7:30 p.m. CT, with the switch near 6:25 p.m. See last year's 7:55 p.m. switch, streetcar hours and a printable."
 type: news
 publishedAt: "2026-11-18T13:40:00-05:00"
-updatedAt: "2026-11-18T13:40:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["plaza lighting 2026", "plaza lighting ceremony 2026 time", "kansas city plaza lights 2026", "what time is the plaza lighting"]
@@ -36,7 +36,7 @@ sources:
   - title: "Thanksgiving 2026"
     url: "https://kcstreetcar.org/thanksgiving2026/"
     publisher: "KC Streetcar Authority"
-    date: "2026-11-18"
+    date: "2026-11-25"
   - title: "KC Streetcar sets Thanksgiving hours for Plaza, Crown Center lighting events"
     url: "https://www.kctv5.com/2026/11/12/kc-streetcar-sets-thanksgiving-hours-plaza-crown-center-lighting-events/"
     publisher: "KCTV5"
@@ -44,15 +44,15 @@ sources:
   - title: "Kansas City Royals catcher, Park Hill High School alum to light up the city this holiday season"
     url: "https://www.kshb.com/news/local-news/kansas-city-royals-catcher-park-hill-high-school-alum-to-light-up-the-city-this-holiday-season"
     publisher: "KSHB 41"
-    date: "2026-11-18"
+    date: "2026-11-25"
   - title: "Kansas City Plaza Lights"
     url: "https://www.visitkc.com/nl/visitors/things-do/kansas-city-plaza-lights/"
     publisher: "Visit KC"
-    date: "2026-11-18"
+    date: "2026-11-25"
   - title: "Kansas City Plaza Lights"
     url: "https://www.visitkc.com/articles/kansas-city-plaza-lights/"
     publisher: "Visit KC"
-    date: "2026-11-18"
+    date: "2026-11-25"
   - title: "What you need to know: 2025 Country Club Plaza lighting ceremony"
     url: "https://www.kshb.com/news/local-news/what-you-need-to-know-2025-country-club-plaza-lighting-ceremony"
     publisher: "KSHB 41"
@@ -130,12 +130,13 @@ The Plaza's own site could not be read when we checked, so these times rest on t
 
 | Time (Thursday, Nov. 26, 2026) | What happens | Source |
 |---|---|---|
-| 5 p.m. CT | Event kicks off; free and open to the public | KSHB 41, KC Streetcar Authority |
-| About 6:25 p.m. CT (7:25 p.m. ET) | Switch is flipped | KSHB 41, Visit KC |
+| 5 p.m. CT | Event kicks off with preshow music; free and open to the public | KSHB 41, KC Streetcar Authority, Visit KC |
+| 5:30 p.m. CT | 97th annual ceremony begins, broadcast live | Visit KC |
+| About 6:25 p.m. CT (7:25 p.m. ET) | Switch is flipped, followed by fireworks | KSHB 41, Visit KC |
 | 7:30 p.m. CT (8:30 p.m. ET) | Ceremony ends | KC Streetcar Authority |
 | 5 p.m. to 3 a.m. CT, daily after Thanksgiving | Lights on until mid-January | Visit KC |
 
-Visit KC lists fireworks after the switch and calls it the 97th annual ceremony, with a live broadcast on Kansas City station (KMBC). KSHB names Vocalocity, Miller Marley Dance Company, Quixotic and DJ Kirby Hamm among the entertainment. Set times for performers were not published in the sources we found. Street closures and rideshare points were not found either.
+Visit KC lists fireworks after the switch and calls it the 97th annual ceremony, which begins at 5:30 p.m. CT with a live broadcast on Kansas City television station (KMBC). KSHB names Vocalocity, Miller Marley Dance Company, Quixotic and DJ Kirby Hamm among the entertainment. Set times for individual performers were not published in the sources we found. Street closures and rideshare points were not found either.
 
 ## Who flips the switch at the Plaza lighting?
 

@@ -3,7 +3,7 @@ title: "Butterball Turkey Talk-Line 2026: Thanksgiving Hours by Time Zone"
 description: "Butterball Turkey Talk-Line hours on Thanksgiving, Nov. 26, 2026: 6 a.m. to 6 p.m. Central, or 7 a.m. to 7 p.m. ET. Phone and text numbers, all time zones."
 type: news
 publishedAt: "2026-11-07T06:00:00-05:00"
-updatedAt: "2026-11-17T11:25:00-05:00"
+updatedAt: "2026-11-25T15:00:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["butterball hotline 2026", "butterball turkey talk line hours", "butterball talk line number", "usda meat and poultry hotline thanksgiving"]
@@ -18,7 +18,7 @@ assets:
     group: thanksgiving-2026
     title: "Butterball Turkey Talk-Line Hours by Time Zone, 2026"
     subtitle: "Call 1-800-288-8372 (1-800-Butterball) or text 844-877-3456"
-    note: "Source: Butterball, Contact Us, read Nov. 7, 2026 (hours table in Central Standard Time). Eastern, Mountain and Pacific columns are our arithmetic. U.S. Department of Agriculture (USDA) Meat and Poultry Hotline: 1-888-674-6854, 8 a.m. to 2 p.m. ET on Nov. 26 (USDA bulletin, Nov. 13, 2026)."
+    note: "Source: Butterball, Contact Us, read Nov. 25, 2026 (hours table in Central Standard Time). Eastern, Mountain and Pacific columns are our arithmetic. U.S. Department of Agriculture (USDA) Meat and Poultry Hotline: 1-888-674-6854, 8 a.m. to 2 p.m. ET on Nov. 26 (USDA bulletin, Nov. 13, 2026)."
     description: "Butterball Turkey Talk-Line hours for Nov. 2 to Dec. 24, 2026, converted to Eastern, Central, Mountain and Pacific time, with the phone and text numbers."
     alt: "Butterball Turkey Talk-Line 2026 hours printable with a column for each time zone"
     data:
@@ -57,7 +57,7 @@ assets:
           quote: "Dec 24 | Christmas Eve | 8 am - 2 pm"
           cells: { "Days": "Christmas Eve", "Eastern (ET)": "9 a.m. to 3 p.m.", "Central (CST)": "8 a.m. to 2 p.m.", "Mountain (MT)": "7 a.m. to 1 p.m.", "Pacific (PT)": "6 a.m. to 12 p.m." }
       unconfirmed:
-        - { label: "Fri., Nov. 27 and the weekends of Nov. 7 to 8, Nov. 14 to 15, Dec. 5 to 6 and Dec. 12 to 13", why: "Not listed on Butterball's hours table as of Nov. 7, 2026" }
+        - { label: "Fri., Nov. 27 and the weekends of Nov. 7 to 8, Nov. 14 to 15, Dec. 5 to 6 and Dec. 12 to 13", why: "Not listed on Butterball's hours table as of Nov. 25, 2026" }
         - { label: "USDA Meat and Poultry Hotline hours on Nov. 27 and weekends", why: "The USDA bulletin of Nov. 13, 2026 gives only the Nov. 26 hours" }
 hero:
   src: ../../../../assets/news/turkey-hotlines-2026-butterball-talk-line-usda-hours/turkey-hotlines-2026-butterball-talk-line-usda-hours.webp
@@ -85,11 +85,11 @@ sources:
   - title: "Contact Us | Butterball"
     url: "https://butterball.com/contact-us"
     publisher: "Butterball"
-    date: "2026-11-07"
+    date: "2026-11-25"
   - title: "The Recipe for a Safe Thanksgiving"
     url: "https://content.govdelivery.com/accounts/USDAOC/bulletins/43288ab"
     publisher: "U.S. Department of Agriculture (USDA) Office of Communications"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Meat and Poultry Hotline (reference page; not readable by our automated checks)"
     url: "https://www.fsis.usda.gov/food-safety/meat-poultry-hotline"
     publisher: "U.S. Department of Agriculture (USDA) Food Safety and Inspection Service (FSIS)"
@@ -111,7 +111,7 @@ related: [when-to-thaw-thanksgiving-turkey-2026, thanksgiving-leftovers-how-long
 draft: false
 ---
 
-**Butterball's Turkey Talk-Line is open on Thanksgiving Day, Thursday, Nov. 26, 2026, from 6 a.m. to 6 p.m. Central Standard Time (CST), according to the hours table on Butterball's contact page, which we read on Nov. 7, 2026.** That is 7 a.m. to 7 p.m. Eastern Time (ET). Butterball lists only CST, so the table below converts every row to the four main U.S. time zones.
+**Butterball's Turkey Talk-Line is open on Thanksgiving Day, Thursday, Nov. 26, 2026, from 6 a.m. to 6 p.m. Central Standard Time (CST), according to the hours table on Butterball's contact page, which we re-read on Nov. 25, 2026.** That is 7 a.m. to 7 p.m. Eastern Time (ET). Butterball lists only CST, so the table below converts every row to the four main U.S. time zones.
 
 Butterball says the line is open Nov. 2 to Dec. 24 and that hours vary. For a person, call 1-800-Butterball (1-800-288-8372). For a written answer, text 844-877-3456. The page also offers a live chat with an expert representative. Butterball does not split the hours between phone and text, so this story treats the table as the Talk-Line hours. For the date of the holiday itself, see [when Thanksgiving falls](/when-is/thanksgiving/).
 
@@ -146,6 +146,6 @@ By our arithmetic, 8 a.m. to 2 p.m. ET is 7 a.m. to 1 p.m. CT, 6 a.m. to noon MT
 
 ## Where do the hotline dates fit in Thanksgiving week?
 
-The refrigerator timing in [when to thaw a Thanksgiving turkey](/news/when-to-thaw-thanksgiving-turkey-2026/) starts as early as Nov. 20 for the biggest birds, and Butterball's table lists Nov. 21 to 22 from 8 a.m. to 6 p.m. CST. For the days after the meal, see [how long turkey and sides last](/news/thanksgiving-leftovers-how-long-turkey-and-sides-last-2026/) and the [Thanksgiving 2026 planner and countdown checklist](/news/thanksgiving-2026-planner-countdown-checklist/).
+The refrigerator timing in [when to thaw a Thanksgiving turkey](/news/when-to-thaw-thanksgiving-turkey-2026/) started as early as Nov. 20 for the biggest birds, and Butterball's table lists Nov. 21 to 22 from 8 a.m. to 6 p.m. CST. For the days after the meal, see [how long turkey and sides last](/news/thanksgiving-leftovers-how-long-turkey-and-sides-last-2026/) and the [Thanksgiving 2026 planner and countdown checklist](/news/thanksgiving-2026-planner-countdown-checklist/).
 
 Mark the days on the [November 2026 printable calendar](/november-calendars.html), or print the one-page sheet below with both numbers and the hours for each time zone.

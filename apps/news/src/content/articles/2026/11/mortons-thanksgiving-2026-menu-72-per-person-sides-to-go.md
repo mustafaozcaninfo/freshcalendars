@@ -1,8 +1,9 @@
 ---
 title: "Morton's Thanksgiving 2026: $72-a-Person Dine-In Four-Course Feast"
-description: "Morton's Thanksgiving 2026 dine-in Four-Course Feast is $72 a person on Nov. 26; Sides To Go is $139 for 4 to 6. Per-person math, pickup dates, printable."
+description: "Morton's Thanksgiving 2026 dine-in Four-Course Feast is $72 a person on Nov. 26; Sides To Go, $139 for 4 to 6, took pre-orders to Nov. 23. Per-person math."
 type: news
 publishedAt: "2026-11-23T14:38:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["morton's thanksgiving 2026", "morton's thanksgiving menu", "morton's steakhouse thanksgiving dinner price", "morton's thanksgiving sides to go"]
@@ -17,25 +18,23 @@ assets:
     group: mortons-thanksgiving-2026
     title: "Morton's Thanksgiving 2026 Dinner and Sides Planner"
     subtitle: "Dine-in Four-Course Feast Nov. 26; Sides To Go pickup Nov. 25"
-    note: "Source: Morton's The Steakhouse (Landry's, Inc.), Thanksgiving Menu page, read Nov. 23, 2026. Per-person figures are Fresh Calendars' arithmetic from Morton's prices. The Sides To Go package has no turkey. Dine-in hours, a child price and the time zone of the 8 p.m. deadline are not listed on the page."
-    description: "One-page Morton's Thanksgiving 2026 planner: the $72-a-person dine-in feast on Nov. 26, the $139 Sides To Go package, pickup and pre-order dates, with fill-in lines."
+    note: "Source: Morton's The Steakhouse (Landry's, Inc.), Thanksgiving Menu page. Per-person figures are Fresh Calendars' arithmetic from Morton's prices. The Sides To Go package has no turkey. Dine-in hours and a child price are not listed on the page."
+    description: "One-page Morton's Thanksgiving 2026 planner: the $72-a-person dine-in feast on Nov. 26, the $139 Sides To Go package, pickup date, with fill-in lines."
     alt: "Printable Morton's Thanksgiving 2026 planner with the dine-in feast price, Sides To Go package, pickup date and fill-in lines"
     data:
       holiday: { date: "2026-11-26", name: "Thanksgiving dine-in Four-Course Feast", src: 1, quote: "Thursday, November 26, 2026" }
       status:
         - { name: "Dine-in Four-Course Feast", status: open, detail: "$72 per person, Thu., Nov. 26, dine-in only", src: 1, quote: "DINE-IN MENU $72 PER PERSON. Dine In Thursday, November 26." }
-        - { name: "Sides To Go package ($139)", status: limited, detail: "Pickup Wed., Nov. 25, 1 to 7 p.m.; pre-order ends Mon., Nov. 23", src: 1, quote: "SIDES TO GO | $139. Serves 4-6 People. PICK UP ONLY ON WEDNESDAY, NOVEMBER 25, BETWEEN 1 - 7 PM." }
+        - { name: "Sides To Go package ($139)", status: limited, detail: "Pickup Wed., Nov. 25, 1 to 7 p.m.; pre-orders ended Nov. 23", src: 1, quote: "SIDES TO GO | $139. Serves 4-6 People. PICK UP ONLY ON WEDNESDAY, NOVEMBER 25, BETWEEN 1 - 7 PM." }
         - { name: "A la carte sides ($29 each)", status: limited, detail: "2-pound servings; pickup Wed., Nov. 25, 1 to 7 p.m.", src: 1, quote: "2 lb. Servings per Order. PICK UP ONLY ON WEDNESDAY, NOVEMBER 25." }
         - { name: "Wine bottles to go", status: limited, detail: "Two bottles $85; pickup Wed., Nov. 25, select locations", src: 1, quote: "Bring Home Two Bottles for $85. Wine bottles are only available for pickup in select locations on Wednesday, November 25." }
       tasks:
-        - { daysBefore: 3, task: "Sides To Go pre-order ends at 8 p.m. (time zone not listed on the page)" }
         - { daysBefore: 1, task: "Pick up Sides To Go and any wine bottles between 1 and 7 p.m." }
         - { daysBefore: 0, task: "Dine in for the Four-Course Feast; reservations strongly encouraged" }
       fill: ["Reservation time", "Guests", "Pickup time reserved"]
       unconfirmed:
-        - { label: "Dine-in hours on Nov. 26", why: "Not listed on the Morton's page read Nov. 23, 2026" }
-        - { label: "Child price", why: "Not listed on the Morton's page read Nov. 23, 2026" }
-        - { label: "Time zone of the 8 p.m. sides pre-order deadline", why: "Not listed on the Morton's page read Nov. 23, 2026" }
+        - { label: "Dine-in hours on Nov. 26", why: "Not listed on the Morton's Thanksgiving page" }
+        - { label: "Child price", why: "Not listed on the Morton's Thanksgiving page" }
 hero:
   src: ../../../../assets/news/mortons-thanksgiving-2026-menu-72-per-person-sides-to-go/mortons-thanksgiving-2026-menu-72-per-person-sides-to-go.webp
   alt: "A Morton's The Steakhouse at King of Prussia Mall, a file photo for Morton's Thanksgiving 2026 menu"
@@ -50,7 +49,7 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Dough4872"
 summary:
   - "Morton's The Steakhouse's Thanksgiving dine-in Four-Course Feast is $72 per person on Thursday, Nov. 26, 2026; the page says reservations are strongly encouraged."
-  - "Its Sides To Go package is $139 and serves 4 to 6 people, with pickup only on Wednesday, Nov. 25, between 1 and 7 p.m.; pre-orders end Monday, Nov. 23, at 8 p.m."
+  - "Its Sides To Go package is $139 and serves 4 to 6 people, with pickup only on Wednesday, Nov. 25, between 1 and 7 p.m.; pre-orders ended Monday, Nov. 23, at 8 p.m."
   - "The Sides To Go package has no turkey; a la carte sides are $29 each in 2-pound servings, and the turkey roulade is part of the dine-in feast."
   - "Per-person figures here are Fresh Calendars' arithmetic from Morton's prices; the page does not list dine-in hours or a child price."
 faq:
@@ -59,7 +58,7 @@ faq:
   - q: "What is on Morton's Thanksgiving menu?"
     a: "Butternut squash bisque, a Fall Harvest salad, a roasted turkey roulade with sage and cranberry stuffing, mashed potatoes, green bean casserole, cranberry sauce and turkey gravy, then a spiced pumpkin torte."
   - q: "Does Morton's have Thanksgiving sides to go?"
-    a: "Yes. The Sides To Go package is $139 and serves 4 to 6, with eight items. Pickup is only on Wednesday, Nov. 25, between 1 and 7 p.m., and pre-orders end Monday, Nov. 23, at 8 p.m."
+    a: "Yes. The Sides To Go package is $139 and serves 4 to 6, with eight items. Pickup is only on Wednesday, Nov. 25, between 1 and 7 p.m., and pre-orders ended Monday, Nov. 23, at 8 p.m."
   - q: "Does the Morton's Sides To Go package include turkey?"
     a: "No. The $139 Sides To Go package lists potatoes, green bean casserole, creamed spinach, stuffing, gravy, cranberry relish and bread, and no turkey. The turkey roulade is part of the dine-in feast."
   - q: "Is Morton's open on Thanksgiving 2026?"
@@ -68,7 +67,7 @@ sources:
   - title: "Morton's Thanksgiving Menu"
     url: "https://www.mortons.com/event/thanksgiving/"
     publisher: "Morton's The Steakhouse (Landry's, Inc.)"
-    date: "2026-11-23"
+    date: "2026-11-25"
 internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving 2026?"
@@ -87,9 +86,9 @@ downloads:
 draft: false
 ---
 
-**Morton's The Steakhouse is serving a dine-in Four-Course Feast for $72 per person this Thanksgiving, Thursday, Nov. 26, 2026, and says reservations are strongly encouraged.** Its Thanksgiving page lists a dine-in menu at "$72 per person" and marks it "Dine In" "Thursday, November 26" and "Available while supplies last. Valid dine-in only."
+**Morton's The Steakhouse is serving a dine-in Four-Course Feast for $72 per person on Thanksgiving, Thursday, Nov. 26, 2026, and says reservations are strongly encouraged.** Its Thanksgiving page lists a dine-in menu at "$72 per person" and marks it "Dine In" "Thursday, November 26" and "Available while supplies last. Valid dine-in only."
 
-If you want to cook at home, Morton's also sells a Sides To Go package for $139 that serves 4 to 6 people, with pickup only on Wednesday, Nov. 25. The catch for anyone reading this on publication day: the page says "Pre-orders end Monday, November 23 at 8 PM." That deadline passes tonight. Morton's does not say which time zone the 8 p.m. cutoff uses, so order against your own local evening. Morton's is owned by Landry's, Inc.
+If you want to cook at home, Morton's also sells a Sides To Go package for $139 that serves 4 to 6 people, with pickup only on Wednesday, Nov. 25. The page says "Pre-orders end Monday, November 23 at 8 PM," so that deadline has passed, and pickup on Wednesday, Nov. 25, is for orders already placed. Morton's is owned by Landry's, Inc.
 
 ## Morton's Thanksgiving dine-in Four-Course Feast: what $72 includes
 
@@ -134,7 +133,7 @@ Thanksgiving is Thursday, Nov. 26, 2026; the date is on our [Thanksgiving 2026 p
 
 | When | What Morton's says to do |
 |---|---|
-| Mon., Nov. 23, by 8 p.m. | Place a Sides To Go pre-order; "Pre-orders end Monday, November 23 at 8 PM" |
+| Mon., Nov. 23, 8 p.m. | Sides To Go pre-orders ended: "Pre-orders end Monday, November 23 at 8 PM" |
 | Wed., Nov. 25, 1 to 7 p.m. | Pick up Sides To Go, and wine bottles in select locations; the food is chilled, reheat at home |
 | Thu., Nov. 26 | Dine in for the $72-a-person Four-Course Feast; reservations strongly encouraged |
 
@@ -142,10 +141,10 @@ The page does not give dining-room hours for Nov. 26 or a child price. For other
 
 ## Print the Morton's Thanksgiving planner
 
-The free one-page sheet lists the $72-a-person dine-in feast on Nov. 26, the $139 Sides To Go package, the Nov. 25 pickup window and the Nov. 23 pre-order deadline, with lines for your reservation time, guests and pickup time. It names no Morton's logos. Mark the days on a [November 2026 calendar](/november-calendars.html).
+The free one-page sheet lists the $72-a-person dine-in feast on Nov. 26, the $139 Sides To Go package, the Nov. 25 pickup window, with lines for your reservation time, guests and pickup time. It names no Morton's logos. Mark the days on a [November 2026 calendar](/november-calendars.html).
 
 ## Sources for the Morton's Thanksgiving details
 
-Every price, date and menu item here comes from Morton's The Steakhouse's Thanksgiving Menu page, read Nov. 23, 2026. The per-person figures are Fresh Calendars' arithmetic from Morton's prices.
+Every price, date and menu item here comes from Morton's The Steakhouse's Thanksgiving Menu page, re-read Nov. 25, 2026. The per-person figures are Fresh Calendars' arithmetic from Morton's prices.
 </content>
 </invoke>

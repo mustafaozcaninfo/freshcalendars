@@ -3,7 +3,7 @@ title: "Baskin-Robbins Turkey Cake 2026: $5 Off for Members Through Nov. 26"
 description: "Baskin-Robbins Rewards members save $5 on Turkey Cake orders placed Nov. 16-26, 2026. Both $5 windows, the two new flavors and a printable."
 type: news
 publishedAt: "2026-11-19T08:50:00-05:00"
-updatedAt: "2026-11-19T08:50:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["baskin robbins turkey cake 2026", "baskin robbins holiday flavors 2026", "baskin robbins dessert table collection", "baskin robbins frosted sugar cookie ice cream"]
@@ -28,7 +28,7 @@ assets:
         - { key: note, label: "Dates or note" }
       rows:
         - { cells: { item: "Turkey Cake, all guests", detail: "$5 off orders, window closed", note: "Orders placed Nov. 1-15" }, src: 1, quote: "All guests can save $5 on Turkey Cake orders placed November 1–15." }
-        - { cells: { item: "Turkey Cake, Rewards members", detail: "$5 off orders, open now", note: "Orders placed Nov. 16-26" }, src: 1, quote: "Baskin-Robbins Rewards members can save $5 on orders placed November 16 – 26." }
+        - { cells: { item: "Turkey Cake, Rewards members", detail: "$5 off orders, open through Nov. 26", note: "Orders placed Nov. 16-26" }, src: 1, quote: "Baskin-Robbins Rewards members can save $5 on orders placed November 16 – 26." }
         - { cells: { item: "Triple Treat Feast Ice Cream", detail: "Spice Cake and Pumpkin Pie ice cream, pecan pralines, cake pieces, brown sugar swirls", note: "New flavor" }, src: 1, quote: "combines Spice Cake and Pumpkin Pie flavored ice cream with pecan pralines" }
         - { cells: { item: "Frosted Sugar Cookie Ice Cream", detail: "Sugar Cookie ice cream, Sugar Cookie Dough Pieces, pink confetti icing swirls", note: "New flavor" }, src: 1, quote: "Sugar Cookie flavored ice cream is packed with Sugar Cookie Dough Pieces and finished with pink confetti icing swirls." }
         - { cells: { item: "Triple Treat Feast Sundae", detail: "Three scoops, caramel praline topping, whipped cream, chopped almonds, cherry", note: "Collection item" }, src: 1, quote: "Three scoops of Triple Treat Feast Ice Cream" }
@@ -66,10 +66,11 @@ sources:
   - title: "Baskin-Robbins Is Making Sure You Never Have to Choose Just One Dessert This Holiday Season with Its New Dessert Table Collection"
     url: "https://stories.inspirebrands.com/baskin-robbins-new-dessert-table-collection/"
     publisher: "Inspire Brands"
-    date: "2026-11-02"
+    date: "2026-11-25"
   - title: "Baskin-Robbins home page"
     url: "https://www.baskinrobbins.com/en"
     publisher: "Baskin-Robbins"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -94,12 +95,12 @@ Baskin-Robbins did not give a price for the Turkey Cake or anything else in the 
 
 ## Baskin-Robbins Turkey Cake discount dates for 2026
 
-| Window | Who saves $5 | Status on Nov. 19 |
+| Window | Who saves $5 | Status |
 |---|---|---|
 | Orders placed Nov. 1-15 | All guests | Over |
-| Orders placed Nov. 16-26 | Baskin-Robbins Rewards members | Open |
+| Orders placed Nov. 16-26 | Baskin-Robbins Rewards members | Open through Nov. 26 |
 
-Source: Inspire Brands release, Nov. 2, 2026. The Baskin-Robbins home page shows the Turkey Cake offer as "Expires 11/26/2026." The release gives no pickup cutoff for Thanksgiving Day, so confirm your shop's pickup time when you order.
+Source: Inspire Brands release, Nov. 2, 2026. The Baskin-Robbins home page shows the Turkey Cake offer as "Expires 11/26/2026." and calls it a single-use offer. The release gives no pickup cutoff for Thanksgiving Day, so confirm your shop's pickup time when you order.
 
 ## What is a Baskin-Robbins Turkey Cake?
 
