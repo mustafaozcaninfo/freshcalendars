@@ -3,7 +3,7 @@ title: "Ulta Black Friday 2026: Sale Ends Nov. 28; Sephora Ended Nov. 9"
 description: "Sephora's 2026 Savings Event ended Nov. 9. Ulta's Black Friday sale runs to 12:59 a.m. ET Nov. 29, with new deals Nov. 26 and 27. Free beauty calendar."
 type: news
 publishedAt: "2026-10-31T11:55:00-04:00"
-updatedAt: "2026-11-25T16:49:00-05:00"
+updatedAt: "2026-11-25T16:57:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Sephora sale November 2026", "Sephora Savings Event 2026 dates", "when is the Sephora sale for VIB", "Ulta Black Friday 2026"]
@@ -150,4 +150,4 @@ Ulta's page says some offers are only for Platinum and Diamond Ulta Beauty Rewar
 - Sat., Nov. 28: Ulta's Black Friday sale ends at 11:59 p.m. CT, which is 12:59 a.m. ET on Nov. 29.
 - Sun., Nov. 29: Ulta's online Cyber Monday starts at 1 a.m. ET.
 
-Mark them on the [November 2026 printable calendar](/november-calendars.html); Black Friday itself is Nov. 27 ([when Black Friday falls](/when-is/black-friday/)). For store ads, see the [Black Friday 2026 ad tracker for Walmart, Target and Best Buy](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and [when Amazon's sale window has started in past years](/news/amazon-black-friday-2026-sale-dates-when-does-it-start/). Another sale date is covered in [Singles Day on Nov. 11](/news/singles-day-2026-november-11-11-11-sale-dates/).
+Mark them on the [November 2026 printable calendar](/november-calendars.html); Black Friday itself is Nov. 27 ([when Black Friday falls](/when-is/black-friday/)). For store ads, see the [Black Friday 2026 ad tracker for Walmart, Target and Best Buy](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and [when Amazon's sale window has started in past years](/news/amazon-black-friday-2026-sale-dates-when-does-it-start/). Ulta's Thanksgiving closure, 6 a.m. Black Friday store opening and Cyber Monday times are in our [Ulta Black Friday 2026 store hours story](/news/ulta-black-friday-2026-store-hours-thanksgiving-cyber-monday/). Another sale date is covered in [Singles Day on Nov. 11](/news/singles-day-2026-november-11-11-11-sale-dates/).

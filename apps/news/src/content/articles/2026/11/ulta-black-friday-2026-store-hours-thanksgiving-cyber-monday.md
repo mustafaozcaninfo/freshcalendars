@@ -77,6 +77,15 @@ internalLinks:
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
 related: [sephora-savings-event-november-2026-dates-ulta-black-friday-beauty-sales, cyber-monday-2026-date-sale-start-times-by-store, black-friday-2026-store-hours-walmart-target-best-buy]
+downloads:
+  - group: "Ulta Black Friday 2026 Hours and Dates printables"
+    title: "Ulta Black Friday 2026 Hours and Dates"
+    description: "One-page Ulta Beauty Black Friday 2026 planner: stores closed Nov. 26, open 6 a.m. local time Nov. 27, and the Cyber Monday window Nov. 29 to Dec. 1."
+    preview: ../../../../assets/news/ulta-black-friday-2026/ulta-black-friday-2026-hours-and-dates.png
+    alt: "Printable Ulta Beauty Black Friday 2026 planner with the Thanksgiving closure, 6 a.m. opening and Cyber Monday window"
+    pdf: "/news/downloads/ulta-black-friday-2026/ulta-black-friday-2026-hours-and-dates.pdf"
+    png: "/news/downloads/ulta-black-friday-2026/ulta-black-friday-2026-hours-and-dates.png"
+    pages: 1
 draft: false
 ---
 

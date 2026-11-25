@@ -23,10 +23,10 @@ assets:
     alt: "Printable table of Best Buy 2026 sale end times in Eastern, Central, Mountain and Pacific Time"
     data:
       events:
-        - { start: "2026-11-26T23:59-06:00", title: "Thanksgiving 24-Hour Flash Sale ends", airing: eastern, src: 1, quote: ["Thanksgiving Day, Nov. 26: Closed", "Flash Sale ends 11/26/26 at 11:59 p.m. CT."] }
-        - { start: "2026-11-29T23:59-06:00", title: "Cyber Sunday and Monday doorbusters end", airing: eastern, src: 1, quote: ["Cyber Sunday, Nov. 29: 9 a.m. to 9 p.m.", "Doorbusters end 11/29/26 at 11:59 p.m. CT."] }
-        - { start: "2026-11-30T23:59-06:00", title: "Cyber Sunday and Monday event ends", airing: eastern, src: 1, quote: ["Cyber Monday, Nov. 30: 10 a.m. to 10 p.m.", "Event ends 11/30/26 at 11:59 p.m. CT."] }
-        - { start: "2026-12-06T23:59-06:00", title: "Cyber Week Deals end", airing: eastern, src: 1, quote: ["The savings will continue Dec. 1-6", "Event ends 12/6/26 at 11:59 p.m. CT."] }
+        - { start: "2026-11-26T23:59-06:00", title: "Thanksgiving 24-Hour Flash Sale ends", airing: live, src: 1, quote: ["Thanksgiving Day, Nov. 26: Closed", "Flash Sale ends 11/26/26 at 11:59 p.m. CT."] }
+        - { start: "2026-11-29T23:59-06:00", title: "Cyber Sunday and Monday doorbusters end", airing: live, src: 1, quote: ["Cyber Sunday, Nov. 29: 9 a.m. to 9 p.m.", "Doorbusters end 11/29/26 at 11:59 p.m. CT."] }
+        - { start: "2026-11-30T23:59-06:00", title: "Cyber Sunday and Monday event ends", airing: live, src: 1, quote: ["Cyber Monday, Nov. 30: 10 a.m. to 10 p.m.", "Event ends 11/30/26 at 11:59 p.m. CT."] }
+        - { start: "2026-12-06T23:59-06:00", title: "Cyber Week Deals end", airing: live, src: 1, quote: ["The savings will continue Dec. 1-6", "Event ends 12/6/26 at 11:59 p.m. CT."] }
       unconfirmed:
         - { label: "When online Cyber Monday deals go live", why: "Best Buy gives no start time and says prices may start before the event" }
         - { label: "Time of the Cyber Monday Flash Sale", why: "Best Buy gives no start time or length" }
@@ -74,6 +74,15 @@ internalLinks:
   - href: "/when-is/cyber-monday/"
     label: "When is Cyber Monday?"
 related: [best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar, black-friday-2026-store-hours-walmart-target-best-buy, cyber-monday-2026-date-sale-start-times-by-store]
+downloads:
+  - group: "Best Buy Cyber Monday 2026 End Times by Zone printables"
+    title: "Best Buy Cyber Monday 2026 End Times by Zone"
+    description: "One-page list of when Best Buy's Thanksgiving flash sale, Cyber Sunday and Monday doorbusters, Cyber Monday event and Cyber Week deals end, in four U.S. time zones."
+    preview: ../../../../assets/news/best-buy-cyber-monday-2026/best-buy-cyber-monday-2026-end-times-by-zone.png
+    alt: "Printable table of Best Buy 2026 sale end times in Eastern, Central, Mountain and Pacific Time"
+    pdf: "/news/downloads/best-buy-cyber-monday-2026/best-buy-cyber-monday-2026-end-times-by-zone.pdf"
+    png: "/news/downloads/best-buy-cyber-monday-2026/best-buy-cyber-monday-2026-end-times-by-zone.png"
+    pages: 1
 draft: false
 ---
 
@@ -115,7 +124,7 @@ A purchase on Cyber Monday, Nov. 30, therefore has 46 days to the Friday, Jan. 1
 
 ## Does Best Buy price match during Cyber Monday?
 
-Best Buy's Holiday Price Match Guarantee says that if the price of an available product sold by Best Buy drops during the holiday season, it will match it. The release excludes Marketplace products and says limitations apply, with details at BestBuy.com/PMG. Neither Best Buy announcement gives an end date for the price-match period, so check that page before relying on it into January.
+Best Buy's Holiday Price Match Guarantee says that if the price of an available product sold by Best Buy drops during the holiday season, it will match it. The release excludes Marketplace products and says limitations apply, with details on Best Buy's price match page. Neither Best Buy announcement gives an end date for the price-match period, so check that page before relying on it into January.
 
 ## What else runs on the same dates?
 
