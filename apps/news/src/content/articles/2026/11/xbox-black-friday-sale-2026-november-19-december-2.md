@@ -1,17 +1,17 @@
 ---
-title: "Xbox Black Friday Sale 2026: Starts Nov. 19 at 9 p.m. PT"
-description: "The Xbox Black Friday sale starts Nov. 19 at 9 p.m. PT and runs through Dec. 2. Start times in all US zones and GMT, Nov. 23 offers, a printable wish list."
+title: "Xbox Black Friday Sale 2026: Runs Through Dec. 2"
+description: "The Xbox Black Friday sale started Nov. 19 at 9 p.m. PT and runs through Dec. 2. Start times in US zones and GMT, game deals and a printable wish list."
 type: news
 publishedAt: "2026-11-18T06:00:00-05:00"
-updatedAt: "2026-11-18T06:00:00-05:00"
+updatedAt: "2026-11-25T16:50:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["xbox black friday 2026", "xbox black friday sale 2026 start time", "when does xbox black friday sale end", "xbox game pass black friday 2026"]
 assets:
   overlay: true
   kicker: "Xbox Black Friday, Nov. 19 to Dec. 2"
-  date: "2026-11-19"
-  card: { top: "Sale starts", big: "Nov. 19, 9 p.m. PT", bottom: "Runs through Dec. 2" }
+  date: "2026-12-02"
+  card: { top: "Sale runs through", big: "Wed., Dec. 2", bottom: "Started Nov. 19, 9 p.m. PT" }
   printable:
     kit: watch-guide
     slug: xbox-black-friday-2026-wish-list
@@ -25,8 +25,8 @@ assets:
       pick: false
       layout: table
       events:
-        - { start: "2026-11-19T21:00-08:00", tz: "America/Los_Angeles", title: "Sale starts", detail: "Xbox Black Friday Deals begin", airing: live, src: 1, quote: "launching on November 19 at 9 PM PST" }
-        - { date: "2026-11-23", time: TBA, title: "Additional offers", detail: "Check back for new deals", airing: live, src: 1, quote: "Come back and check for additional offers starting on November 23." }
+        - { start: "2026-11-19T21:00-08:00", tz: "America/Los_Angeles", title: "Sale launched", detail: "Xbox Black Friday Deals began", airing: live, src: 1, quote: "launching on November 19 at 9 PM PST" }
+        - { date: "2026-11-23", time: TBA, title: "Additional offers", detail: "Xbox said to check back for new deals", airing: live, src: 1, quote: "Come back and check for additional offers starting on November 23." }
         - { date: "2026-12-02", time: TBA, title: "Sale runs through", detail: "No end time in the post", airing: live, src: 1, quote: "Our Black Friday Deals kick off on November 19 and run through December 2." }
       fill:
         title: "My wish list: game or gear, regular price, sale price, ends Dec. 2?"
@@ -45,15 +45,15 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Xbox_Series_X_and_S_with_controllers.jpg"
     author: "User:AsmodeanUnderscore (Series S), Ian Hughes (Series X)"
 summary:
-  - "Xbox Wire says the Xbox Black Friday sale launches Nov. 19, 2026, at 9 p.m. Pacific Time, which is midnight ET on Friday, Nov. 20."
-  - "Black Friday Deals run through Dec. 2, and Xbox says to check back for additional offers starting Nov. 23. The post gives no end time."
+  - "Xbox Wire says the Xbox Black Friday sale launched Nov. 19, 2026, at 9 p.m. Pacific Time, which is midnight ET on Friday, Nov. 20."
+  - "Black Friday Deals run through Dec. 2, and Xbox said to check back for additional offers starting Nov. 23. The post gives no end time."
   - "Named game deals include 55% off NBA 2K27, 50% off Madden NFL 27 and 30% off Gears of War: E-Day Premium Edition; the discounts are US-only."
   - "The post gives no Game Pass price and no console or headset prices."
 faq:
   - q: "What time does the Xbox Black Friday sale end on Dec. 2?"
     a: "Xbox Wire gives no end time, only that the deals \"run through December 2.\" Check the end time shown on the Xbox or Microsoft Store listing."
   - q: "Is there an Xbox Cyber Monday sale on Nov. 30?"
-    a: "The post names no separate Cyber Monday offer. It says only to check back for additional offers starting Nov. 23, which is the Monday before Black Friday."
+    a: "The post names no separate Cyber Monday offer. It says only to check back for additional offers starting Nov. 23, which was the Monday before Black Friday."
   - q: "How much is Xbox Game Pass in the Black Friday sale?"
     a: "The post gives no Game Pass price. It says the offer is for new members only and that the subscription continues automatically at the regular monthly price unless cancelled."
   - q: "Are the Xbox Black Friday deals available outside the US?"
@@ -62,7 +62,7 @@ sources:
   - title: "XBOX Black Friday Sale Starts November 19 with Our Biggest Sale of the Year on Games, Accessories and More!"
     url: "https://news.xbox.com/en-us/2026/11/16/xbox-black-friday-sale-2026/"
     publisher: "Xbox Wire (Microsoft)"
-    date: "2026-11-16"
+    date: "2026-11-25"
   - title: "Black Friday with Xbox: Our Biggest Season of Deals Returns, Including 2000+ Games on Sale"
     url: "https://news.xbox.com/en-us/2025/11/20/xbox-black-friday-2025-sale-deals/"
     publisher: "Xbox Wire (Microsoft)"
@@ -99,9 +99,9 @@ related: [playstation-black-friday-2026-ps-store-deals-november-4-30, xbox-game-
 draft: false
 ---
 
-**The Xbox Black Friday sale launches Thursday, Nov. 19, 2026, at 9 p.m. Pacific Time and runs through Wednesday, Dec. 2, according to Xbox Wire's Nov. 16 post by Joe Skrebels.** The post labels the start "9 PM PST," which is midnight Eastern Time (ET) on Friday, Nov. 20. The table below converts it for every US zone and Greenwich Mean Time (GMT), and a free printable wish list holds the three dates.
+**The Xbox Black Friday sale launched Thursday, Nov. 19, 2026, at 9 p.m. Pacific Time and runs through Wednesday, Dec. 2, according to Xbox Wire's Nov. 16 post by Joe Skrebels.** The post labels the start "9 PM PST," which is midnight Eastern Time (ET) on Friday, Nov. 20. The table below converts it for every US zone and Greenwich Mean Time (GMT), and a free printable wish list holds the three dates.
 
-Xbox says "our Black Friday Deals kick off on November 19 and run through December 2" and to "come back and check for additional offers starting on November 23." The post gives no end time and no Cyber Monday offer. Discounts in it are US-only.
+Xbox says "our Black Friday Deals kick off on November 19 and run through December 2" and to "come back and check for additional offers starting on November 23." A note added Nov. 19 says the Black Friday games deals are now available. The post gives no end time and no Cyber Monday offer. Discounts in it are US-only.
 
 ## What time does the Xbox Black Friday sale start in each time zone?
 
@@ -121,13 +121,13 @@ For East Coast shoppers the sale opens at midnight, so the first full day is Fri
 
 | Date | Day | What happens | Source wording |
 |---|---|---|---|
-| Nov. 19 | Thu. | Black Friday Deals launch at 9 p.m. PT | "launching on November 19 at 9 PM PST" |
-| Nov. 23 | Mon. | Additional offers start | "additional offers starting on November 23" |
+| Nov. 19 | Thu. | Black Friday Deals launched at 9 p.m. PT | "launching on November 19 at 9 PM PST" |
+| Nov. 23 | Mon. | Additional offers were to start | "additional offers starting on November 23" |
 | Nov. 27 | Fri. | Black Friday | Calendar date |
 | Nov. 30 | Mon. | Cyber Monday; the post names no separate offer | Calendar date |
 | Dec. 2 | Wed. | Deals run through this date; no end time given | "run through December 2" |
 
-The sale spans 14 days, counting both ends. From Wednesday, Nov. 18, the start is 1 day away and the Nov. 23 offers are 5 days away.
+The sale spans 14 days, counting both ends.
 
 ## Which Xbox games are on sale for Black Friday 2026?
 
