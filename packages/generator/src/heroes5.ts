@@ -657,6 +657,12 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-mini-crossword-answers-november-25-2026", "mini", "#0f1d2e", "#fde68a", "NYT Mini · Wed., Nov. 25, 2026", "NYT Mini answers", "A hint for every clue first, the full grid at the end.", "nyt-mini-november-25-a"],
   ["nyt-midi-crossword-answers-november-25-2026", "midi", "#13213a", "#86efac", "NYT Midi · Wed., Nov. 25, 2026", "NYT Midi answers", "A hint for every clue and the theme first, the full grid at the end.", "nyt-midi-november-25-a"],
   ["nyt-crossword-answers-november-25-2026", "crossword", "#172033", "#f9a8d4", "NYT Crossword · Wed., Nov. 25, 2026", "NYT Crossword answers", "A hint for every clue first, the full solved grid at the end.", "nyt-crossword-november-25-a"],
+  ["wordle-hint-answer-today-december-7-2026-1997", "wordle", "#121213", "#c9b458", "Wordle #1997 · Mon., Dec. 7, 2026", "Wordle hints today", "Clues from gentle to strong, the answer only at the end.", "wordle-december-7-a"],
+  ["nyt-connections-hints-answers-december-7-2026-1275", "connections", "#1e1a3a", "#ba81c5", "Connections #1275 · Mon., Dec. 7, 2026", "Connections hints", "Two hints for every group first, answers only at the end.", "nyt-connections-december-7-a"],
+  ["nyt-strands-hints-answers-december-7-2026-1009", "strands", "#0f2f3a", "#aedfee", "Strands #1009 · Mon., Dec. 7, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end.", "nyt-strands-december-7-a"],
+  ["nyt-pips-hints-answers-december-7-2026", "pips", "#1e293b", "#fca5a5", "Pips · Mon., Dec. 7, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-december-7-a"],
+  ["nyt-letter-boxed-answer-hints-november-28-2026", "letterboxed", "#3d1f1a", "#fdba74", "Letter Boxed · Sat., Nov. 28, 2026", "Letter Boxed hints", "Starting letters and word lengths first, the answer at the end.", "nyt-letter-boxed-november-28-a"],
+  ["contexto-answer-hints-november-30-2026-1534", "contexto", "#0f172a", "#86efac", "Contexto #1534 · Mon., Nov. 30, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-november-30-a"],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
