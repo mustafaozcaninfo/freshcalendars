@@ -3,7 +3,7 @@ title: "Hotel Black Friday Deals 2026: IHG, Marriott, Wyndham Book-By Dates"
 description: "InterContinental Hotels Group (IHG) members save up to 30% if booked by Dec. 3, Wyndham by Dec. 4. Book-by and stay-by dates by chain, plus a printable."
 type: news
 publishedAt: "2026-11-22T06:10:00-05:00"
-updatedAt: "2026-11-22T06:10:00-05:00"
+updatedAt: "2026-11-25T16:49:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["hotel black friday deals 2026", "hotel cyber monday deals 2026", "ihg cyber sale 2026", "wyndham cyber week sale", "marriott cyber week sale 2026"]
@@ -19,7 +19,7 @@ assets:
     group: hotel-cyber-week-sales-2026
     title: "Hotel Cyber Week Sales 2026 Book-By Dates: IHG, Marriott, Wyndham"
     subtitle: "When each sale opens, when to book by and the last day to stay"
-    note: "Source: IHG Hotels & Resorts release (Nov. 17, 2026), Wyndham Rewards Cyber Week Flash Sale page (read Nov. 22, 2026), Marriott International release via WebWire (Nov. 12, 2026). Weekdays are computed. Offers vary by hotel."
+    note: "Source: IHG Hotels & Resorts release (Nov. 17, 2026), Wyndham Rewards Cyber Week Flash Sale page, Marriott International release via WebWire (Nov. 12, 2026). Weekdays are computed. Offers vary by hotel."
     description: "One-page hotel Cyber Week 2026 deadline sheet: IHG book by Dec. 3, Wyndham by Dec. 4, Marriott sale ends Dec. 1, with stay-by dates."
     alt: "Printable hotel Cyber Week sales 2026 deadline sheet with booking and stay dates for IHG, Marriott and Wyndham"
     data:
@@ -61,8 +61,8 @@ assets:
             - "book the Wyndham Rewards Rate or Insider Rate at participating hotels by Dec. 4, 2026."
             - "Stays at participating hotels in the U.S. and Canada must be completed by July 31, 2027;"
       unconfirmed:
-        - { label: "Hilton Sale booking and stay dates", why: "Hilton's offers page shows the sale with no dates as of Nov. 22, 2026" }
-        - { label: "Hyatt 2026 Cyber offer", why: "No 2026 release in Hyatt's newsroom as of Nov. 22, 2026" }
+        - { label: "Hilton Sale stay-by date", why: "Hilton's offers page says book by December 1 and posts no stay-by date as of Nov. 25, 2026" }
+        - { label: "Hyatt 2026 Cyber offer", why: "No 2026 release in Hyatt's newsroom as of Nov. 25, 2026" }
 hero:
   src: ../../../../assets/news/hotel-cyber-week-sales-2026-ihg-marriott-wyndham-book-by-dates/hotel-cyber-week-sales-2026-ihg-marriott-wyndham-book-by-dates.webp
   alt: "Made-up king bed with two lamps in a hotel room, illustrating hotel Black Friday deals 2026"
@@ -78,27 +78,27 @@ summary:
   - "IHG Hotels & Resorts' Cyber Sale takes bookings from Nov. 17 to Dec. 3, 2026, with up to 30% off for IHG One Rewards members and 20% for everyone else, for stays through April 30, 2027."
   - "Wyndham Rewards' Cyber Week Flash Sale takes bookings by Dec. 4, 2026, with 10% to 30% off by length of stay, for U.S. and Canada stays through July 31, 2027."
   - "Marriott Bonvoy's Cyber Week Sale runs Nov. 24 through Dec. 1, 2026, with 25% off app stays from Nov. 29, 2026 through May 2, 2027."
-  - "Hilton shows a sale with no dates, and Hyatt has not announced a 2026 offer."
+  - "Hilton's offers page says to book The Hilton Sale by December 1 and gives no stay-by date, and Hyatt has not announced a 2026 offer."
 faq:
   - q: "Do the IHG, Marriott and Wyndham hotel sales need a promo code?"
     a: "No code is listed for IHG or Wyndham. UpgradedPoints reported on Nov. 19, 2026 that Wyndham needs no promo code. Marriott's release mentions none, and UpgradedPoints (Nov. 17) and Milesopedia (Nov. 16) reported that Marriott needs none."
   - q: "Does Hyatt have a Cyber Week hotel sale in 2026?"
-    a: "Not announced as of Nov. 22, 2026. In 2025, Hyatt said members in the Americas could save up to 30% when booked by Dec. 11, 2025, for travel between Nov. 20, 2025 and April 30, 2026."
-  - q: "Is Hilton's sale running now?"
-    a: "Hilton's offers page says \"The Hilton Sale is on!\" and \"Save up to 20% + earn Bonus Points,\" but it posts no booking or stay dates, so no deadline can be given."
+    a: "Not announced as of Nov. 25, 2026. In 2025, Hyatt said members in the Americas could save up to 30% when booked by Dec. 11, 2025, for travel between Nov. 20, 2025 and April 30, 2026."
+  - q: "When does Hilton's sale end?"
+    a: "Hilton's offers page says \"Hilton Honors Members save up to 20% and earn 2,000 Bonus Points when you book The Hilton Sale by December 1.\" The page gives no year and no stay-by date, so no stay window can be given."
 sources:
   - title: "IHG Hotels & Resorts' Cyber Sale Returns: Save Up to 30% on Hotel Stays Worldwide"
     url: "https://www.ihgplc.com/en/news-and-media/news-releases/2026/ihg-hotels-and-resorts-cyber-sale-returns-save-up-to-30-percent-on-hotel-stays-worldwide"
     publisher: "IHG Hotels & Resorts"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Cyber Week Flash Sale | Wyndham Rewards"
     url: "https://www.wyndhamhotels.com/en-us/wyndham-rewards/hotel-deals/cyber-week-sale"
     publisher: "Wyndham Hotels & Resorts"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Marriott Bonvoy's Cyber Week Sale Turns One Week of Deals Into Five Months of Getaways"
     url: "https://www.webwire.com/ViewPressRel.asp?aId=364111"
     publisher: "Marriott International via WebWire"
-    date: "2026-11-12"
+    date: "2026-11-25"
   - title: "Marriott Bonvoy Cyber Week 2026"
     url: "https://upgradedpoints.com/news/marriott-bonvoy-cyber-week-2026/"
     publisher: "UpgradedPoints"
@@ -110,7 +110,7 @@ sources:
   - title: "Special Offers - Hilton Portfolio"
     url: "https://www.hilton.com/en/offers/"
     publisher: "Hilton"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "World of Hyatt Announces Exclusive Cyber Offer with up to 30% Savings for Members in the Americas"
     url: "https://newsroom.hyatt.com/2025-November-13-Americas-Sale"
     publisher: "Hyatt"
@@ -143,19 +143,19 @@ draft: false
 
 ## Hotel Black Friday and Cyber Week deals by chain
 
-Black Friday is Friday, Nov. 27, 2026, Cyber Monday is Monday, Nov. 30 and Travel Tuesday is Tuesday, Dec. 1; see [when is Cyber Monday](/when-is/cyber-monday/). Days left are counted from Sunday, Nov. 22. Weekdays are computed.
+Black Friday is Friday, Nov. 27, 2026, Cyber Monday is Monday, Nov. 30 and Travel Tuesday is Tuesday, Dec. 1; see [when is Cyber Monday](/when-is/cyber-monday/). Weekdays are computed.
 
 | Chain | Discount | Who gets it | Book from | Book by | Stay by | Promo code |
 |---|---|---|---|---|---|---|
-| [IHG Hotels & Resorts](https://www.ihgplc.com/en/news-and-media/news-releases/2026/ihg-hotels-and-resorts-cyber-sale-returns-save-up-to-30-percent-on-hotel-stays-worldwide) | Up to 30%; 20% for everyone else | IHG One Rewards members; everyone else gets 20% | Tue., Nov. 17 | Thu., Dec. 3 (11 days) | Fri., April 30, 2027 | None listed |
-| [Wyndham Rewards](https://www.wyndhamhotels.com/en-us/wyndham-rewards/hotel-deals/cyber-week-sale) | 10% for 1 night, 15% for 2, 20% for 3, 30% for 4 or more | Wyndham Rewards members, Rewards Rate or Insider Rate; Earner cardmembers get an extra 5% | Thu., Nov. 19 | Fri., Dec. 4 (12 days) | Sat., July 31, 2027 (U.S. and Canada); Oct. 31, 2027 (Caribbean and Latin America) | None |
-| [Marriott Bonvoy](https://www.webwire.com/ViewPressRel.asp?aId=364111) | 25% in the app; 15% on Marriott.com | Bonvoy members in the app; members and nonmembers on Marriott.com | Tue., Nov. 24 | Tue., Dec. 1 (9 days) | Sun., May 2, 2027 (app stays start Sun., Nov. 29) | None mentioned in the release |
+| [IHG Hotels & Resorts](https://www.ihgplc.com/en/news-and-media/news-releases/2026/ihg-hotels-and-resorts-cyber-sale-returns-save-up-to-30-percent-on-hotel-stays-worldwide) | Up to 30%; 20% for everyone else | IHG One Rewards members; everyone else gets 20% | Tue., Nov. 17 | Thu., Dec. 3 | Fri., April 30, 2027 | None listed |
+| [Wyndham Rewards](https://www.wyndhamhotels.com/en-us/wyndham-rewards/hotel-deals/cyber-week-sale) | 10% for 1 night, 15% for 2, 20% for 3, 30% for 4 or more | Wyndham Rewards members, Rewards Rate or Insider Rate; Earner cardmembers get an extra 5% | Thu., Nov. 19 | Fri., Dec. 4 | Sat., July 31, 2027 (U.S. and Canada); Oct. 31, 2027 (Caribbean and Latin America) | None |
+| [Marriott Bonvoy](https://www.webwire.com/ViewPressRel.asp?aId=364111) | 25% in the app; 15% on Marriott.com | Bonvoy members in the app; members and nonmembers on Marriott.com | Tue., Nov. 24 | Tue., Dec. 1 | Sun., May 2, 2027 (app stays start Sun., Nov. 29) | None mentioned in the release |
 
 The discount is "up to"; participating hotels and terms vary.
 
 ## How long can you wait to book a hotel Cyber Week deal?
 
-Marriott closes first. Its release says the Cyber Week Sale "runs from November 24 through Travel Tuesday, December 1, 2026," nine days from Nov. 22. IHG follows on Dec. 3, then Wyndham on Dec. 4.
+Marriott closes first. Its release says the Cyber Week Sale "runs from November 24 through Travel Tuesday, December 1, 2026." IHG follows on Dec. 3, then Wyndham on Dec. 4.
 
 The stay windows differ by months. IHG's release says "All stays must be completed by April 30, 2027." Marriott's app rate covers stays "from November 29, 2026, through May 2, 2027." Wyndham's page says "Stays at participating hotels in the U.S. and Canada must be completed by July 31, 2027," with Caribbean and Latin America stays by Oct. 31, 2027.
 
@@ -177,7 +177,7 @@ In 2025, Marriott said in a Nov. 12, 2025 release that its sale ran Nov. 25 thro
 
 ## What about Hilton and Hyatt?
 
-Hilton's offers page shows "Save up to 20% + earn Bonus Points" and "The Hilton Sale is on!" with no booking or stay dates, so Hilton has not posted dates for it. Hyatt has not announced a 2026 offer as of Nov. 22. In 2025, Hyatt said in a Nov. 13, 2025 release that members in the Americas could save up to 30% "when booked by December 11, 2025" for travel between Nov. 20, 2025 and April 30, 2026.
+Hilton's offers page, read Nov. 25, says "Hilton Honors Members save up to 20% and earn 2,000 Bonus Points when you book The Hilton Sale by December 1." The page gives no year and no stay-by date. Hyatt has not announced a 2026 offer as of Nov. 25, when its newsroom lists no Cyber release. In 2025, Hyatt said in a Nov. 13, 2025 release that members in the Americas could save up to 30% "when booked by December 11, 2025" for travel between Nov. 20, 2025 and April 30, 2026.
 
 ## Hotel sale dates to put on the calendar
 

@@ -3,7 +3,7 @@ title: "Travel Tuesday 2026 Is Dec. 1: Hopper's Up to 50% Off Hotels"
 description: "Travel Tuesday 2026 is Tue., Dec. 1, with Hopper offering up to 50% off hotels. Booking windows by brand, partner airlines and a printable deadline sheet."
 type: news
 publishedAt: "2026-11-20T15:33:00-05:00"
-updatedAt: "2026-11-20T15:33:00-05:00"
+updatedAt: "2026-11-25T16:49:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["travel tuesday 2026", "travel deal tuesday 2026", "when is travel tuesday 2026", "travel tuesday deals", "hopper travel deal tuesday"]
@@ -65,7 +65,7 @@ hero:
 summary:
   - "Travel Tuesday 2026 falls on Tuesday, Dec. 1, the Tuesday after Thanksgiving weekend, and Hopper says Travel Deal Tuesday returns that day for its tenth consecutive year."
   - "Hopper promises up to 50% off hotels in top domestic and international destinations on Dec. 1; the 50% applies to hotels, not flights, and Hopper has not given a start hour."
-  - "Marriott Bonvoy's Cyber Week Sale runs Nov. 24 through Dec. 1, 2026, and eDreams says its deals go live on its app Thursday, Nov. 19."
+  - "Marriott Bonvoy's Cyber Week Sale runs Nov. 24 through Dec. 1, 2026, and eDreams says its deals went live on its app Thursday, Nov. 19."
   - "Hopper names Avianca, Condor Airlines, Gol, Royal Jordanian, Singapore Airlines and Scandinavian Airlines as partners; U.S. airlines had not posted 2026 offers on their own pages on Nov. 20."
 faq:
   - q: "Is Travel Tuesday the same as Travel Deal Tuesday?"
@@ -80,7 +80,7 @@ sources:
   - title: "Travel Deal Tuesday returns December 1st for its 10th year of travel savings"
     url: "https://media.hopper.com/news/travel-deal-tuesday-returns-december-1st-for-its-10th-year-of-travel-savings"
     publisher: "Hopper"
-    date: "2026-11-11"
+    date: "2026-11-25"
   - title: "Travel Deal Tuesday 2026 · December 1"
     url: "https://traveldealtuesday.com/"
     publisher: "Travel Deal Tuesday (Hopper)"
@@ -92,11 +92,11 @@ sources:
   - title: "Marriott Bonvoy's Cyber Week Sale Turns One Week of Deals Into Five Months of Getaways"
     url: "https://www.webwire.com/ViewPressRel.asp?aId=364111"
     publisher: "Marriott International via WebWire"
-    date: "2026-11-12"
+    date: "2026-11-25"
   - title: "Travel Tuesday flight and hotel deals"
     url: "https://www.edreams.com/our-brand/news/travel-tuesday-flight-hotel-deals/"
     publisher: "eDreams"
-    date: "2026-10-23"
+    date: "2026-11-25"
   - title: "Travel Tuesday deals"
     url: "https://www.opodo.co.uk/our-brand/news/travel-tuesday-deals/"
     publisher: "Opodo"
@@ -155,7 +155,7 @@ Hopper says it created the event in 2017. In 2025, its Nov. 24 release said the 
 
 Marriott's release says its Cyber Week Sale "runs from November 24 through Travel Tuesday, December 1, 2026." Marriott Bonvoy app users "can save 25% on stays from November 29, 2026, through May 2, 2027," and "members and nonmembers who book on Marriott.com can save 15%."
 
-eDreams, an online travel agency, says on its newsroom page that "Travel Tuesday 2026 falls on Tuesday 1 December 2026," that app deals go live from Thursday, Nov. 19 and that "All deals will remain live until Tuesday 1 December 2026." It lists hotels up to 40% and car hire up to 20%. Its UK sister brand Opodo posts the same terms.
+eDreams, an online travel agency, says on its newsroom page that "Travel Tuesday 2026 falls on Tuesday 1 December 2026," that app deals went live from Thursday, Nov. 19 and that "All deals will remain live until Tuesday 1 December 2026." It lists hotels up to 40% and car hire up to 20%. Its UK sister brand Opodo posts the same terms.
 
 ## Which travel brands have not posted Travel Tuesday offers?
 
@@ -165,9 +165,8 @@ As of Nov. 20, 2026, Southwest, Alaska, JetBlue, Frontier, Spirit, Allegiant, De
 
 | Date (2026) | Day | What to do |
 |---|---|---|
-| Nov. 19 | Thursday | eDreams app deals go live |
-| Before Nov. 24 | | Set fare alerts for trips you want, so you know the current price before sales open |
-| Nov. 24 | Tuesday | Marriott Bonvoy's Cyber Week Sale opens |
+| Nov. 19 | Thursday | eDreams app deals went live |
+| Nov. 24 | Tuesday | Marriott Bonvoy's Cyber Week Sale opened |
 | Nov. 26 | Thursday | Thanksgiving |
 | Nov. 27 | Friday | Black Friday |
 | Nov. 29 | Sunday | Marriott app stay window opens (runs to May 2, 2027) |

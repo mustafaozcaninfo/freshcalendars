@@ -3,7 +3,7 @@ title: "Samsung Black Friday 2026: Sale Runs Nov. 2-30 on Samsung.com"
 description: "Samsung's Black Friday 2026 sale runs Nov. 2-30 on Samsung.com. Days left by date, the seven savings lines by product, and a printable planner."
 type: news
 publishedAt: "2026-11-18T06:00:00-05:00"
-updatedAt: "2026-11-18T06:00:00-05:00"
+updatedAt: "2026-11-25T16:49:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["samsung black friday 2026", "samsung black friday 2026 dates", "when does samsung black friday end", "samsung cyber monday 2026"]
@@ -18,7 +18,7 @@ assets:
     group: samsung-black-friday-2026
     title: "Samsung Black Friday 2026 Sale Planner"
     subtitle: "Nov. 2-30 on Samsung.com, with the savings lines to compare"
-    note: "Source: Samsung Electronics America, Black Friday 2026 page on Samsung.com, read Nov. 18, 2026. Offers may change; check each product page."
+    note: "Source: Samsung Electronics America, Black Friday 2026 page on Samsung.com. Offers may change; check each product page."
     description: "One-page Samsung Black Friday 2026 planner: the Nov. 2-30 window, the seven savings lines to compare and what Samsung has not announced."
     alt: "Printable Samsung Black Friday 2026 planner with the Nov. 2 start and Nov. 30 end of the sale"
     data:
@@ -54,7 +54,7 @@ hero:
     authorUrl: "https://unsplash.com/@ultralinx"
 summary:
   - "Samsung Electronics America says Samsung Black Friday 2026 runs from Nov. 2 to Nov. 30, 2026 on Samsung.com, 29 days."
-  - "On Nov. 18 the sale is in its third week, with 13 days left counting Nov. 18 through Nov. 30."
+  - "On Nov. 25 the sale is in its fourth week, with 6 days left counting Nov. 25 through Nov. 30."
   - "Samsung's page lists seven savings lines, from up to $1,200 off a Neo QLED TV to $100 more off two or more Bespoke appliances, and gives no prices."
   - "The page does not say whether a separate Cyber Monday sale or any deal after Nov. 30 exists."
 faq:
@@ -72,7 +72,7 @@ sources:
   - title: "Black Friday 2026 | Phone, TV & Appliance Deals | Samsung US"
     url: "https://www.samsung.com/us/offer/black-friday"
     publisher: "Samsung Electronics America"
-    date: "2026-11-18"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -93,7 +93,7 @@ downloads:
 draft: false
 ---
 
-**Samsung Black Friday 2026 runs from Nov. 2 to Nov. 30, 2026 on Samsung.com, according to Samsung Electronics America's Black Friday page, which we read on Nov. 18.** That is 29 days, from a Monday to Cyber Monday. The page lists seven savings lines and no prices, and it does not mention a separate Cyber Monday sale. The tables below count the days left and group the savings by product.
+**Samsung Black Friday 2026 runs from Nov. 2 to Nov. 30, 2026 on Samsung.com, according to Samsung Electronics America's Black Friday page, which we read on Nov. 25.** That is 29 days, from a Monday to Cyber Monday. The page lists seven savings lines and no prices, and it does not mention a separate Cyber Monday sale. The tables below count the days left and group the savings by product.
 
 ## How many days are left in Samsung's Black Friday sale?
 
@@ -102,7 +102,7 @@ Samsung's page says the sale "runs from November 2 to November 30, 2026 on Samsu
 | Date | Weekday | What it is | Days left, counting that day |
 |---|---|---|---|
 | Nov. 2 | Mon. | Sale starts, per Samsung | 29 |
-| Nov. 18 | Wed. | Day this page was read; third week of the sale | 13 |
+| Nov. 25 | Wed. | Day this page was read; fourth week of the sale | 6 |
 | Nov. 26 | Thu. | Thanksgiving | 5 |
 | Nov. 27 | Fri. | Black Friday | 4 |
 | Nov. 30 | Mon. | Cyber Monday; last day of the window | 1 |
