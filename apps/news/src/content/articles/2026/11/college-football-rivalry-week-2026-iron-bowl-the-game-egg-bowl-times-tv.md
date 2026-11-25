@@ -68,7 +68,7 @@ faq:
   - q: "What time is the Egg Bowl in 2026?"
     a: "Noon ET (11 a.m. CT) on Friday, Nov. 27, on ABC at Vaught-Hemingway Stadium in Oxford, Mississippi, per ESPN. Mississippi State visits Ole Miss."
   - q: "Which college football games are on Black Friday 2026?"
-    a: "ESPN lists Egg Bowl and Nebraska at Iowa at noon ET, Florida at Florida State at 3:30 p.m., Texas at Texas A&M and Minnesota at Wisconsin at 7:30 p.m., and West Virginia at Utah at 9 p.m. Temple at Memphis is at 3:30 p.m. on ESPN and Tulsa at the University of Texas at San Antonio (UTSA) is at noon on ESPN."
+    a: "ESPN lists Egg Bowl and Nebraska at Iowa at noon ET, Florida at Florida State at 3:30 p.m., Texas at Texas A&M and Minnesota at Wisconsin at 7:30 p.m., and West Virginia at Utah at 9 p.m. Temple at Memphis is at 3:30 p.m. on ESPN and Tulsa at UTSA is at noon on ESPN."
   - q: "Are Notre Dame and USC playing in 2026?"
     a: "No. The two teams paused their series, according to AP reporting carried by Click On Detroit on Dec. 22, 2025. Notre Dame plays at Syracuse on Nov. 28, per ESPN."
   - q: "What comes after Rivalry Week?"
@@ -208,7 +208,7 @@ Every Friday game below has a time on ESPN's list. The Central Time (CT), Mounta
 |---|---|---|---|---|---|
 | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | Mississippi State at Ole Miss (Egg Bowl) | ABC |
 | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | Nebraska at Iowa | CBS |
-| 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | Tulsa at UTSA | ESPN |
+| 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | Tulsa at University of Texas at San Antonio (UTSA) | ESPN |
 | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | Toledo at Ohio | ESPNU |
 | 12:00 p.m. | 11:00 a.m. | 10:00 a.m. | 9:00 a.m. | Buffalo at Akron | CBS Sports Network |
 | 3:00 p.m. | 2:00 p.m. | 1:00 p.m. | 12:00 p.m. | App State at South Alabama | ESPN+ |
