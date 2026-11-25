@@ -31,7 +31,7 @@ assets:
       rows:
         - cells: { line: "Princess Cruises", window: "Nov. 6 to Mon., Dec. 7, 2026", offer: "Up to $400 instant savings, 50% off deposits, free 3rd/4th guests", code: "Two codes, see the story" }
           src: 1
-          quote: "Offers valid on bookings made 11/06/2026 - 12/07/2026. | enjoy up to $400 instant savings, up to 50% off, 50% off your deposit, and FREE 3rd & 4th guests on select sailings | Offer Expiration: Monday, December 7, 2026 Promo codes: KQS | NDS"
+          quote: "Offers valid on bookings made 11/06/2026 - 12/07/2026. | enjoy up to $400 instant savings, up to 50% off, 50% off your deposit | Offer Expiration: Monday, December 7, 2026"
         - cells: { line: "Cunard", window: "Tue., Nov. 10 to Mon., Dec. 7, 2026", offer: "Fares from $999, up to 40% off launch fares, 10% deposit", code: "Code RD1" }
           src: 2
           quote: "new bookings made between November 10 and December 7, 2026. The offer includes fares from $999, savings of up to 40% off launch fares, onboard credit, and a reduced refundable deposit of 10% of the total voyage price."
@@ -154,7 +154,7 @@ Black Friday is Friday, Nov. 27, 2026; see [when is Black Friday](/when-is/black
 
 | Cruise line | Booking window | Headline offer | Promo code |
 |---|---|---|---|
-| [Princess Cruises](https://www.princess.com/cruise-deals-promotions/limited-time-offer) | Bookings made Nov. 6 to Mon., Dec. 7, 2026 | Up to $400 instant savings, 50% off deposits, free 3rd and 4th guests | KQS or NDS |
+| [Princess Cruises](https://www.princess.com/cruise-deals-promotions/limited-time-offer) | Bookings made Nov. 6 to Mon., Dec. 7, 2026 | Up to $400 instant savings, 50% off deposits, free 3rd and 4th guests | Codes (KQS) and (NDS) |
 | [Cunard](https://www.prnewswire.com/news-releases/cunard-unveils-its-best-sale-of-the-year-with-up-to-40-off-select-voyages-302926883.html) | New bookings made Tue., Nov. 10 to Mon., Dec. 7, 2026 | Fares from $999, up to 40% off launch fares, onboard credit, 10% refundable deposit | RD1 |
 | [Royal Caribbean](https://www.royalcaribbean.com/cruise-deals/black-friday) | Not posted | Up to $900 off, plus a Cyber Bonus of up to $100 onboard credit, 3rd and 4th guests sail free | None posted |
 | [Virgin Voyages](https://www.virginvoyages.com/cruise-deals) | Ends Thu., Dec. 3, 2026; start not posted | Up to $800 in free drinks, second Sailor 80% off | None posted |
@@ -173,7 +173,7 @@ Three dates stand out, in order.
 
 ## What is Princess Cruises' Trade Black for Blue Sale?
 
-Princess's offer page, titled "Trade Black for Blue Sale - Up to 50% Off," says "Offers valid on bookings made 11/06/2026 - 12/07/2026" and lists "up to $400 instant savings, 50% off deposits & free 3rd/4th guests." Its terms read "Offer Expiration: Monday, December 7, 2026" and "Promo codes: KQS | NDS," and state no end time or time zone. The site menu banner reads "Up to $800 instant savings + up to 50% + free 3rd & 4th guests," which differs from the $400 on the offer page; the table uses the offer page.
+Princess's offer page, titled "Trade Black for Blue Sale - Up to 50% Off," says "Offers valid on bookings made 11/06/2026 - 12/07/2026" and says "enjoy up to $400 instant savings, up to 50% off, 50% off your deposit." Its terms read "Offer Expiration: Monday, December 7, 2026" and "Promo codes: KQS | NDS," and state no end time or time zone. The site menu banner reads "Up to $800 instant savings + up to 50% + free 3rd & 4th guests," which differs from the $400 on the offer page; the table uses the offer page.
 
 Cruise Industry News reported on Nov. 9, 2026 a past-guest sale for Nov. 13 to 23, 2026, which has ended. That was not on the Princess page we read, so it is reported only.
 
