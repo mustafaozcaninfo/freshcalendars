@@ -18,7 +18,7 @@ assets:
     group: best-buy-cyber-monday-2026
     title: "Best Buy Cyber Monday 2026 End Times by Zone"
     subtitle: "When each Best Buy sale window closes in ET, CT, MT and PT"
-    note: "Source: Best Buy Corporate News, Black Friday sale release (Nov. 17, 2026), read Nov. 25, 2026. Zone conversions are ours; Best Buy states the times in Central Time."
+    note: "Source: Best Buy Corporate News, Black Friday sale release (Nov. 17, 2026). Zone conversions are ours; Best Buy states the times in Central Time."
     description: "One-page list of when Best Buy's Thanksgiving flash sale, Cyber Sunday and Monday doorbusters, Cyber Monday event and Cyber Week deals end, in four U.S. time zones."
     alt: "Printable table of Best Buy 2026 sale end times in Eastern, Central, Mountain and Pacific Time"
     data:

@@ -1,6 +1,6 @@
 ---
 title: "Lowe's Black Friday 2026: Deals Began Oct. 29, Bucket Giveaway Nov. 27"
-description: "Lowe's Black Friday 2026 deals began Oct. 29. A bucket giveaway runs Nov. 27 for rewards members; stores close Thanksgiving. A printable calendar lists every phase."
+description: "Lowe's Black Friday 2026 deals began Oct. 29. A bucket giveaway runs Nov. 27 for rewards members; stores close Thanksgiving. Printable calendar of every phase."
 type: news
 publishedAt: "2026-10-29T05:40:00-04:00"
 updatedAt: "2026-11-25T16:49:00-05:00"

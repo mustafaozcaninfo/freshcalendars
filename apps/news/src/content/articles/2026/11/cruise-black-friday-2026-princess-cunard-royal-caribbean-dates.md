@@ -29,7 +29,7 @@ assets:
         - { key: offer, label: "Headline offer" }
         - { key: code, label: "Promo code" }
       rows:
-        - cells: { line: "Princess Cruises", window: "Nov. 6 to Mon., Dec. 7, 2026", offer: "Up to $400 instant savings, 50% off deposits, free 3rd/4th guests", code: "Two codes, see the story" }
+        - cells: { line: "Princess Cruises", window: "Nov. 6 to Mon., Dec. 7, 2026", offer: "Up to $400 instant savings, 50% off deposits, free 3rd/4th guests", code: "KQS or NDS" }
           src: 1
           quote: "Offers valid on bookings made 11/06/2026 - 12/07/2026. | enjoy up to $400 instant savings, up to 50% off, 50% off your deposit | Offer Expiration: Monday, December 7, 2026"
         - cells: { line: "Cunard", window: "Tue., Nov. 10 to Mon., Dec. 7, 2026", offer: "Fares from $999, up to 40% off launch fares, 10% deposit", code: "Code RD1" }

@@ -30,7 +30,7 @@ assets:
         - { daysBefore: 3, task: "Save your wish list in the Ulta app" }
         - { daysBefore: 1, task: "Check your store page for Friday hours" }
         - { daysBefore: 0, task: "Stores closed today; Black Friday deals start online 12:01 a.m. CT Fri." }
-      fill: ["Items I want", "Store hours I checked", "Order numbers"]
+      fill: ["Black Friday deals", "Store hours", "Cyber Monday deals"]
       unconfirmed:
         - { label: "Ulta Black Friday closing time", why: "The Nov. 25 Ulta page gives the 6 a.m. opening only" }
 hero:
