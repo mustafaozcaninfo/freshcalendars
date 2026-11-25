@@ -1,8 +1,9 @@
 ---
 title: "Is IKEA Open on Thanksgiving 2026? Closed Thu., Nov. 26"
-description: "IKEA stores are closed Thu., Nov. 26 and Dec. 25, 2026. Dec. 24 and 31 hours for six stores side by side, early deals end Nov. 24, and a printable."
+description: "IKEA stores are closed Thu., Nov. 26 and Dec. 25, 2026. Dec. 24 and 31 hours for six stores, the $10-per-$100 deal through Nov. 30, and a printable."
 type: news
 publishedAt: "2026-11-15T06:00:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is ikea open on thanksgiving", "ikea black friday 2026 hours", "ikea christmas eve hours 2026", "ikea holiday hours 2026"]
@@ -18,7 +19,7 @@ assets:
     group: ikea-2026
     title: "IKEA Holiday Hours 2026, Nov. 26 to Dec. 31"
     subtitle: "Six U.S. stores: Thanksgiving, Christmas Eve, Christmas Day and New Year's Eve"
-    note: "Source: IKEA US store pages (Brooklyn, Burbank, Schaumburg, Paramus, Houston, Atlanta) and IKEA US Black Friday page, checked Nov. 15, 2026. Weekdays are computed. Confirm your own store's hours before you go."
+    note: "Source: IKEA US store pages (Brooklyn, Burbank, Schaumburg, Paramus, Houston, Atlanta) and IKEA US Black Friday page. Weekdays are computed. Confirm your own store's hours before you go."
     description: "One-page IKEA 2026 holiday hours card for six U.S. stores: Thanksgiving and Christmas Day closed, Christmas Eve and New Year's Eve hours."
     alt: "Printable IKEA holiday hours 2026 card listing Thanksgiving, Christmas Eve, Christmas Day and New Year's Eve hours for six U.S. stores"
     data:
@@ -47,10 +48,10 @@ assets:
         - cells: { store: "Atlanta", thanks: "Closed", eve: "Not shown", xmas: "Closed", nye: "Not shown" }
           src: 9
           quote: "11/26/2026 closed; 12/25/2026 closed"
-      note: "Early deals on sofas, dining tables, dinnerware, curtains, rugs and bed frames run through Tue., Nov. 24. Black Friday (Fri., Nov. 27) hours: check your store's page."
+      note: "IKEA Family and Business Network members save $10 for every $100 spent through Mon., Nov. 30. Black Friday (Fri., Nov. 27): no special hours listed, check your store's page."
       unconfirmed:
-        - { label: "Black Friday, Nov. 27, store hours", why: "No IKEA store page lists them as of Nov. 15, 2026" }
-        - { label: "New Year's Day 2027 hours", why: "Not listed on the IKEA US pages as of Nov. 15, 2026" }
+        - { label: "Black Friday, Nov. 27, store hours", why: "No IKEA store page lists special hours for that day" }
+        - { label: "New Year's Day 2027 hours", why: "Not listed on the IKEA US pages" }
 hero:
   src: ../../../../assets/news/is-ikea-open-thanksgiving-2026-black-friday-christmas/is-ikea-open-thanksgiving-2026-black-friday-christmas.webp
   alt: "Is IKEA open on Thanksgiving 2026: the self-serve warehouse aisle of an IKEA store, file photo"
@@ -63,15 +64,15 @@ hero:
     author: "W.carter"
     authorUrl: "https://commons.wikimedia.org/wiki/User:W.carter"
 summary:
-  - "IKEA US says its stores are closed on Thanksgiving Day, Thursday, Nov. 26, 2026, while the website stays open."
+  - "IKEA US says its stores are closed on Thanksgiving Day, Thursday, Nov. 26, 2026; all six store pages list the closing."
   - "IKEA's help page lists stores, warehouses, deliveries and customer services as closed on Thanksgiving Day and Christmas Day."
   - "Store pages for Brooklyn, Burbank, Schaumburg, Paramus and Houston show Christmas Eve hours ending at 5 p.m. and New Year's Eve hours ending at 6 p.m."
-  - "IKEA's early Black Friday deals run through Tuesday, Nov. 24; no store page lists Black Friday, Nov. 27, hours."
+  - "IKEA Family and Business Network members save $10 for every $100 spent through Monday, Nov. 30; no store page lists special Black Friday, Nov. 27, hours."
 faq:
   - q: "Is IKEA open on Black Friday 2026?"
-    a: "No store page lists Friday, Nov. 27 hours as of Nov. 15, 2026. IKEA's Black Friday page says to check back on Black Friday for a special promotion; hours are on each store's page."
+    a: "No store page lists special hours for Friday, Nov. 27, so the regular hours on each store's page are the only ones shown. IKEA's Black Friday page lists $10 off for every $100 spent through Nov. 30 for IKEA Family and Business Network members."
   - q: "Can you still order from IKEA on Thanksgiving?"
-    a: "IKEA's Black Friday page says: \"While you can always shop our site, our stores will be closed on Thanksgiving Day.\" The help page lists deliveries and customer services as closed that day too."
+    a: "Shopping on ikea.com is not covered by the store closing, but IKEA's help page lists stores, warehouses, deliveries and customer services as closed on Thanksgiving Day."
   - q: "Is IKEA open on Christmas Day 2026?"
     a: "No. IKEA's help page lists all stores, locations, warehouses, deliveries and customer services as closed on Christmas Day, Friday, Dec. 25."
   - q: "What are IKEA's hours on Christmas Eve 2026?"
@@ -124,11 +125,11 @@ downloads:
 draft: false
 ---
 
-**IKEA stores in the United States are closed on Thanksgiving Day, Thursday, Nov. 26, 2026, according to IKEA US's Black Friday page.** The page adds that the website stays open: "While you can always shop our site, our stores will be closed on Thanksgiving Day." IKEA's help page also lists Christmas Day, Friday, Dec. 25, as closed for all stores, warehouses, deliveries and customer services.
+**IKEA stores in the United States are closed on Thanksgiving Day, Thursday, Nov. 26, 2026, according to IKEA US's help page and all six store pages.** IKEA's help page also lists Christmas Day, Friday, Dec. 25, as closed for all stores, warehouses, deliveries and customer services.
 
 ## IKEA holiday hours 2026 at six stores
 
-IKEA's help page says "Special holiday hours will be posted to store-specific pages on our website," so the hours below come from six store pages, each checked on Nov. 15, 2026. Weekdays are computed here.
+IKEA's help page says "Special holiday hours will be posted to store-specific pages on our website," so the hours below come from six store pages, each re-read on Nov. 25, 2026. Weekdays are computed here.
 
 | Store | Regular hours | Thu., Nov. 26 | Thu., Dec. 24 | Fri., Dec. 25 | Thu., Dec. 31 |
 |---|---|---|---|---|---|
@@ -143,20 +144,11 @@ Every store page lists Thanksgiving and Christmas Day as closed. Atlanta's page 
 
 ## Is IKEA open on Black Friday 2026?
 
-No IKEA store page lists hours for Friday, Nov. 27 as of Nov. 15, 2026, so the hours are not announced here. IKEA's Black Friday page says, "Shop early deals now and be sure to check back on Black Friday for a special promotion." The promotion's dates and terms are not listed. Look up your store's page before you drive over.
+No IKEA store page lists special hours for Friday, Nov. 27, so the regular hours in the table above are the only ones shown. IKEA's Black Friday page says "Save $10 for every $100 spent thru 11/30*" and that IKEA Family and Business Network members save $10 off qualifying purchases for every $100 spent, with maximum savings of $100. The offer is valid through Monday, Nov. 30, 2026. Look up your store's page before you drive over.
 
-## IKEA early Black Friday deals end Tuesday, Nov. 24
+## IKEA Black Friday deal runs through Monday, Nov. 30
 
-The Black Friday page lists these early deals, each marked "thru 11/24*":
-
-- Up to 30% off select sofas and sectionals
-- 20% off select dining tables
-- 20% off select dinnerware
-- 20% off select curtains
-- 20% off select rugs
-- 15% off select bed frames
-
-IKEA's offers page describes "Early Black Friday offers for IKEA Family members" with the "Discount applied at checkout. While supplies last." The deals end two days before the Thanksgiving closing on Thursday, Nov. 26.
+The offer is for IKEA Family and Business Network members, and IKEA says joining is free. IKEA's offers page repeats the member offer as valid through Nov. 30, 2026. The early deals on sofas, dining tables, dinnerware, curtains, rugs and bed frames that the page listed earlier ended Tuesday, Nov. 24.
 
 ## IKEA on Christmas Eve, Christmas Day and New Year's Eve
 
@@ -170,4 +162,4 @@ Thanksgiving falls on [Thursday, Nov. 26](/when-is/thanksgiving/), and you can m
 
 ## Print the IKEA holiday hours card
 
-The free printable puts the six stores' Thanksgiving, Christmas Eve, Christmas Day and New Year's Eve hours on one US Letter page, with Black Friday and New Year's Day hours listed as not announced.
+The free printable puts the six stores' Thanksgiving, Christmas Eve, Christmas Day and New Year's Eve hours on one US Letter page, with Black Friday special hours and New Year's Day hours listed as not announced.

@@ -1,8 +1,9 @@
 ---
-title: "National Days This Week, Nov. 23-29, 2026: Thanksgiving and 11 More"
-description: "Twelve official observances fall on Nov. 23-29, 2026, from Thanksgiving to Advent, with who sets each one and a printable Thanksgiving week planner."
+title: "National Days This Week, Nov. 23-29, 2026: Thanksgiving and 13 More"
+description: "Fourteen official observances fall on Nov. 23-29, 2026, from Thanksgiving to Advent, with who sets each one and a printable Thanksgiving week planner."
 type: explainer
 publishedAt: "2026-11-09T12:50:00-05:00"
+updatedAt: "2026-11-25T14:29:00-05:00"
 authors: [christina-gerland]
 category: holidays
 shop: advent-calendars
@@ -12,14 +13,14 @@ assets:
   overlay: true
   kicker: "Observances · Nov. 23-29, 2026"
   date: "2026-11-23"
-  card: { top: "Official observances this week", big: "12 days", bottom: "UN, U.S. law and organizers" }
+  card: { top: "Official observances this week", big: "14 days", bottom: "UN, U.S. law and organizers" }
   printable:
     kit: deadline-matrix
     slug: national-days-this-week-nov-23-29-2026-planner
     group: national-days-nov-23-29-2026
     title: "Thanksgiving Week Planner, Nov. 23-29, 2026"
     subtitle: "Official observances by day, with who sets each one"
-    note: "Source: United Nations; U.S. Office of Personnel Management; United American Indians of New England; Public Law 111-33; Liturgy Office of the Catholic Bishops' Conference of England and Wales. Read Nov. 9, 2026."
+    note: "Source: United Nations; U.S. Office of Personnel Management; United American Indians of New England; Public Law 111-33; U.S. Small Business Administration; Liturgy Office of the Catholic Bishops' Conference of England and Wales."
     description: "One-page planner of the official observances from Nov. 24 to Nov. 29, 2026, with Thanksgiving on Nov. 26, who sets each day and a Done box."
     alt: "Printable Thanksgiving week planner listing the official observances from Tue., Nov. 24 to Sun., Nov. 29, 2026 with who sets each"
     notesLabel: "Days I want to mark this week"
@@ -50,6 +51,11 @@ assets:
             "U.S. law and holidays": { text: "Native American Heritage Day (a designation, not a federal holiday)", src: 6 }
           src: 1
           quote: ["27 Nov", "designation of the Friday following Thanksgiving of each year as Native American Heritage Day"]
+        - date: "2026-11-28"
+          cells:
+            "Organizers and churches": { text: "Small Business Saturday", src: 7 }
+          src: 7
+          quote: "Saturday, November 28, 2026"
         - date: "2026-11-29"
           cells:
             "UN days": { text: "International Day of Solidarity with the Palestinian People", src: 1 }
@@ -57,8 +63,7 @@ assets:
           src: 8
           quote: ["29 / 1st Sunday of Advent", "29 Nov"]
       unconfirmed:
-        - { label: "Small Business Saturday, Sat., Nov. 28", why: "the story links the U.S. Small Business Administration page; the sheet leaves the day off" }
-        - { label: "Guru Nanak Gurpurab, Tue., Nov. 24", why: "no official Sikh body page could be read as of Nov. 9, 2026" }
+        - { label: "Guru Nanak Gurpurab, Tue., Nov. 24", why: "no official Sikh body page could be read" }
 hero:
   src: ../../../../assets/news/national-days-this-week-november-23-29-2026/national-days-this-week-november-23-29-2026.webp
   alt: "United Nations Secretariat Building in New York, a file photo for national days this week, Nov. 23-29, 2026"
@@ -71,8 +76,8 @@ hero:
     author: "Choinowski"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Choinowski"
 summary:
-  - "Twelve observances fall between Monday, Nov. 23 and Sunday, Nov. 29, 2026, set by United Nations (UN) resolutions, U.S. law, the Office of Personnel Management or an organizer."
-  - "Thanksgiving Day is Thursday, Nov. 26 and shares the date with World Sustainable Transport Day and the National Day of Mourning in Plymouth."
+  - "Fourteen observances fall between Monday, Nov. 23 and Sunday, Nov. 29, 2026, set by United Nations (UN) resolutions, U.S. law, the Office of Personnel Management or an organizer."
+  - "Thanksgiving Day is Thursday, Nov. 26 and shares the date with World Sustainable Transport Day, the National Day of Mourning in Plymouth and the Bahá'í Day of the Covenant."
   - "Native American Heritage Day is Friday, Nov. 27 under Public Law 111-33; it is a designation, not a federal holiday."
   - "The First Sunday of Advent is Nov. 29, and a printable planner lists the week by day."
 faq:
@@ -86,7 +91,7 @@ sources:
   - title: "International Days and Weeks"
     url: "https://www.un.org/en/observances/list-days-weeks"
     publisher: "United Nations"
-    date: "2026-11-09"
+    date: "2026-11-25"
   - title: "International Day for the Elimination of Violence against Women"
     url: "https://www.un.org/en/observances/ending-violence-against-women-day"
     publisher: "United Nations"
@@ -98,11 +103,11 @@ sources:
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "U.S. Office of Personnel Management"
-    date: "2026-11-09"
+    date: "2026-11-25"
   - title: "National Day of Mourning"
     url: "https://uaine.org/"
     publisher: "United American Indians of New England"
-    date: "2026-11-09"
+    date: "2026-11-25"
   - title: "Public Law 111-33, Native American Heritage Day Act of 2009"
     url: "https://www.govinfo.gov/content/pkg/PLAW-111publ33/html/PLAW-111publ33.htm"
     publisher: "U.S. Government Publishing Office"
@@ -110,10 +115,15 @@ sources:
   - title: "Small Business Saturday"
     url: "https://www.sba.gov/about-sba/organization/observances/small-business-saturday/"
     publisher: "U.S. Small Business Administration"
+    date: "2026-11-25"
   - title: "Liturgical calendar, November 2026"
     url: "https://liturgyoffice.org/Calendar/2026/Nov.shtml"
     publisher: "Liturgy Office of the Catholic Bishops' Conference of England and Wales"
-    date: "2026-11-09"
+    date: "2026-11-25"
+  - title: "The Bahá'í Calendar"
+    url: "https://www.bahai.org/action/devotional-life/calendar"
+    publisher: "Bahá'í International Community"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -132,9 +142,9 @@ downloads:
 draft: false
 ---
 
-**Twelve observances fall between Monday, Nov. 23 and Sunday, Nov. 29, 2026, and Thanksgiving Day on Thursday, Nov. 26 shares its date with two others.** Each is set by a United Nations (UN) resolution, U.S. law or an organizer, read from that body's own page on Nov. 9, 2026. The Thanksgiving week planner is below the table.
+**Fourteen observances fall between Monday, Nov. 23 and Sunday, Nov. 29, 2026, and Thanksgiving Day on Thursday, Nov. 26 shares its date with three others.** Each is set by a United Nations (UN) resolution, U.S. law or an organizer, read from that body's own page. The Thanksgiving week planner is below the table.
 
-Only days with an official setter are listed. Commercial "national food days" are left out, and so are Bahá'í Day of the Covenant and Ascension of ʻAbdu'l-Bahá (their 2026 dates are not on an official page we could read), National Day of Listening and Buy Nothing Day (no organizer date). Black Friday (Nov. 27) and Cyber Monday (Nov. 30) are retail dates, not observances; see [what is open on Black Friday](/news/black-friday-2026-post-office-banks-stock-market-open/).
+Only days with an official setter are listed. Commercial "national food days" are left out, and so are National Day of Listening and Buy Nothing Day (no organizer date). Black Friday (Nov. 27) and Cyber Monday (Nov. 30) are retail dates, not observances; see [what is open on Black Friday](/news/black-friday-2026-post-office-banks-stock-market-open/).
 
 ## Observances by day, Nov. 23-29, 2026
 
@@ -148,9 +158,11 @@ Only days with an official setter are listed. Commercial "national food days" ar
 | Nov. 26 | Thursday | Thanksgiving Day | Federal holiday, U.S. Office of Personnel Management (OPM) | [Why Thanksgiving is Nov. 26](/news/why-thanksgiving-2026-is-november-26/) |
 | Nov. 26 | Thursday | World Sustainable Transport Day | General Assembly resolution 77/286 | |
 | Nov. 26 | Thursday | National Day of Mourning | United American Indians of New England (UAINE) | [National Day of Mourning 2026](/news/national-day-of-mourning-2026-plymouth-november-26/) |
+| Nov. 26 | Thursday | Day of the Covenant (Bahá'í) | Bahá'í International Community | [Bahá'í Holy Days 2026](/news/bahai-holy-days-2026-day-of-the-covenant-november-26-ascension-november-28/) |
 | Nov. 27 | Friday | Native American Heritage Day | Public Law 111-33 | [Native American Heritage Day 2026](/news/native-american-heritage-day-2026-friday-november-27-heritage-month/) |
 | Nov. 27 | Friday | International Day for the Elimination of Child, Early and Forced Marriage | General Assembly resolution 80/309 | |
 | Nov. 28 | Saturday | Small Business Saturday | U.S. Small Business Administration | [Small Business Saturday 2026](/news/small-business-saturday-2026-participating-stores-events/) |
+| Nov. 28 | Saturday | Ascension of 'Abdu'l-Bahá (Bahá'í) | Bahá'í International Community | [Bahá'í Holy Days 2026](/news/bahai-holy-days-2026-day-of-the-covenant-november-26-ascension-november-28/) |
 | Nov. 29 | Sunday | First Sunday of Advent | Liturgy Office of the Catholic Bishops' Conference of England and Wales | [When Advent starts in 2026](/news/when-does-advent-start-2026-november-29-advent-wreath-candles/) |
 | Nov. 29 | Sunday | International Day of Solidarity with the Palestinian People | General Assembly resolution 32/40B | |
 
@@ -168,14 +180,16 @@ OPM's federal holiday list shows "Thursday, November 26" as Thanksgiving Day; th
 
 UAINE, the organizer of the National Day of Mourning, gives "Thursday, November 26, 2026" at "12:00 Noon" at "Cole's Hill (above Plymouth Rock), Plymouth, Massachusetts". See [National Day of Mourning 2026](/news/national-day-of-mourning-2026-plymouth-november-26/).
 
+The Bahá'í International Community's calendar at bahai.org lists the Day of the Covenant on 26 November 2026. Each Bahá'í day begins at sunset the evening before; see [Bahá'í Holy Days 2026](/news/bahai-holy-days-2026-day-of-the-covenant-november-26-ascension-november-28/) for start times.
+
 ## Friday to Sunday: heritage, small business and Advent
 
 Public Law 111-33, the Native American Heritage Day Act of 2009, enacted June 26, 2009, uses the words "designation of the Friday following Thanksgiving of each year as Native American Heritage Day." It is a designation, not a federal holiday. We computed Nov. 27 from Thanksgiving on Nov. 26; see [Native American Heritage Day 2026](/news/native-american-heritage-day-2026-friday-november-27-heritage-month/). The same date carries a new UN day, the International Day for the Elimination of Child, Early and Forced Marriage, set by resolution 80/309.
 
-Small Business Saturday is the Saturday after Thanksgiving, Nov. 28; [our Small Business Saturday story](/news/small-business-saturday-2026-participating-stores-events/) cites the U.S. Small Business Administration. We found nothing else official that day.
+Small Business Saturday is the Saturday after Thanksgiving; the U.S. Small Business Administration gives "Saturday, November 28, 2026", and [our Small Business Saturday story](/news/small-business-saturday-2026-participating-stores-events/) has the details. The Bahá'í calendar at bahai.org lists the Ascension of 'Abdu'l-Bahá on 28 November 2026.
 
 The Liturgy Office of the Catholic Bishops' Conference of England and Wales calendar lists "29 / 1st Sunday of Advent"; its cell for the 22nd reads "Our Lord Jesus Christ, King of the Universe". Our [Advent story](/news/when-does-advent-start-2026-november-29-advent-wreath-candles/) covers the wreath and candles. The UN also lists the International Day of Solidarity with the Palestinian People on 29 Nov under resolution 32/40B.
 
 ## Thanksgiving week planner for Nov. 23-29, 2026
 
-The one-page planner counts down to the First Sunday of Advent on Nov. 29, and groups each day by setter in three columns: UN days, U.S. law and holidays, and organizers and churches. Each row carries the source's own words, with a Done box and space for notes. Small Business Saturday and Guru Nanak Gurpurab are not on the sheet because we have no quoted source line for them. Pair it with the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).
+The one-page planner counts down to the First Sunday of Advent on Nov. 29, and groups each day by setter in three columns: UN days, U.S. law and holidays, and organizers and churches. Each row carries the source's own words, with a Done box and space for notes. Guru Nanak Gurpurab is not on the sheet because we have no quoted source line for it, and the Bahá'í days are in the table above only. Pair it with the [November 2026 printable calendar](/november-calendars.html) or a [printable weekly calendar](/printable-weekly-calendar.html).

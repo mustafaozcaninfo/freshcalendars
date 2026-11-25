@@ -3,7 +3,7 @@ title: "When to Thaw a Thanksgiving Turkey 2026: Dates by Weight"
 description: "Thanksgiving is Thursday, Nov. 26, 2026. Thaw a 16 to 20 lb turkey in the fridge starting Nov. 21 or 22, with start dates for every weight."
 type: explainer
 publishedAt: "2026-10-22T01:30:00-04:00"
-updatedAt: "2026-11-06T01:23:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["when to thaw turkey for Thanksgiving 2026", "turkey thawing time by weight", "how long to thaw a turkey in the fridge", "thaw turkey cold water method"]
@@ -14,6 +14,7 @@ assets:
   date: "2026-11-26"
   card: { top: "Thaw a 20 lb turkey from", big: "Sat., Nov. 21", bottom: "In a fridge at 40°F or below" }
   printable:
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     slug: thanksgiving-turkey-thaw-dates-2026
     group: thanksgiving-2026
     title: "Thanksgiving Turkey Thaw Dates, Nov. 26, 2026"
@@ -58,6 +59,7 @@ sources:
   - title: "Contact Us | Butterball"
     url: "https://www.butterball.com/contact-us"
     publisher: "Butterball"
+    date: "2026-11-25"
 downloads:
   - group: "Thanksgiving Turkey Thaw Dates printables"
     title: "Thanksgiving Turkey Thaw Dates, Nov. 26, 2026"
@@ -114,6 +116,8 @@ The CDC and USDA allow about 30 minutes per pound. Put the turkey in a leakproof
 
 The hour ranges are calculated from the 30-minute-per-pound rule. Plan on more time if the turkey is not fully submerged or the water warms up.
 
+A bird still frozen on Wednesday, Nov. 25 is too late for most refrigerator start dates in the chart above. For dinner on Thursday, Nov. 26, the cold-water hours are the ones to use, and a 20 to 24 lb turkey needs 10 to 12 of them.
+
 ### Microwave
 
 A small turkey or a turkey breast may fit in a microwave. Follow the manufacturer's defrost directions and cook the turkey immediately afterward. Most whole turkeys are too big for this method.
@@ -124,7 +128,7 @@ The CDC warns against thawing a turkey on the kitchen counter. If a turkey sits 
 
 ## Turkey help lines open on Thanksgiving 2026
 
-Butterball says its Turkey Talk-Line is open Nov. 2 to Dec. 24, 2026, and that hours vary. You can call 1-800-288-8372, text 844-877-3456 or use the live chat with an expert on [Butterball's contact page](https://www.butterball.com/contact-us), which we read on Nov. 6, 2026.
+Butterball says its Turkey Talk-Line is open Nov. 2 to Dec. 24, 2026, and that hours vary. You can call 1-800-288-8372, text 844-877-3456 or use the live chat with an expert on [Butterball's contact page](https://www.butterball.com/contact-us), which we read on Nov. 25, 2026.
 
 Butterball lists its hours in Central Standard Time (CST). The Eastern Time (ET) column is our arithmetic, one hour later than Central Time (CT).
 

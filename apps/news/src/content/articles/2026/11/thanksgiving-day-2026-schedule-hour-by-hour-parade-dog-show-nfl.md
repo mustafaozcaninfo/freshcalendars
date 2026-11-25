@@ -3,7 +3,7 @@ title: "Thanksgiving Day Schedule 2026: Parade 8:30 a.m., Lions 1 p.m. ET"
 description: "Thanksgiving Day 2026: Macy's parade at 8:30 a.m. local, Lions at 1 p.m. ET. Hour by hour in four time zones, plus a printable day planner."
 type: news
 publishedAt: "2026-11-14T19:15:00-05:00"
-updatedAt: "2026-11-14T19:15:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Thanksgiving Day schedule 2026", "what time is the parade on Thanksgiving 2026", "Thanksgiving football times 2026", "what time is the dog show on Thanksgiving"]
@@ -23,7 +23,7 @@ summary:
   - "On Thursday, Nov. 26, 2026, the Macy's Thanksgiving Day Parade begins at 8:30 a.m. in all time zones on NBC and Peacock, NBCUniversal says, and the National Dog Show airs from noon to 2 p.m. local time on NBC."
   - "The three NFL games are live at the same moment everywhere: Bears at Lions at 1 p.m. ET, Eagles at Cowboys at 4:30 p.m. ET and Chiefs at Bills at 8:20 p.m. ET."
   - "For a Pacific Time viewer, the same day runs parade at 8:30 a.m., Lions at 10 a.m., dog show at noon, Cowboys at 1:30 p.m. and Chiefs at 5:20 p.m. (our conversion)."
-  - "NBC does not list when the parade broadcast ends, and the Chiefs-Bills halftime act has not been announced."
+  - "Goo Goo Dolls headline the Chiefs-Bills halftime show, the Buffalo Bills say, and NBC does not list when the parade broadcast ends."
 faq:
   - q: "Does the Macy's parade start earlier on the West Coast?"
     a: "No. NBCUniversal says NBC and Peacock begin the parade at 8:30 a.m. in all time zones, so a Pacific viewer starts at 8:30 a.m. PT, not 5:30 a.m. NBC also lists an encore at 2 p.m. ET/PT."
@@ -32,14 +32,14 @@ faq:
   - q: "How much time is there between the NFL games?"
     a: "Kickoffs are 3 hours 30 minutes apart (1 p.m. to 4:30 p.m. ET), then 3 hours 50 minutes apart (4:30 p.m. to 8:20 p.m. ET), by our subtraction. The sources list no game length."
   - q: "Who performs at the halftime shows?"
-    a: "Wu-Tang Clan headlines the Lions' halftime show, the Detroit Lions say, and Miranda Lambert performs at the Cowboys' halftime show against the Eagles, the Dallas Cowboys say. The Chiefs-Bills halftime act is not announced."
+    a: "Wu-Tang Clan headlines the Lions' halftime show, the Detroit Lions say, and Miranda Lambert performs at the Cowboys' halftime show against the Eagles, the Dallas Cowboys say. Goo Goo Dolls headline the Chiefs-Bills halftime show at Highmark Stadium, the Buffalo Bills say."
   - q: "Is there football on Thanksgiving Eve and Black Friday?"
     a: "Yes. Packers at Rams is Wednesday, Nov. 25 at 8 p.m. ET on Netflix, and Broncos at Steelers is Friday, Nov. 27 at 3 p.m. ET on Prime Video, according to NFL.com."
 sources:
   - title: "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions"
     url: "https://www.nbcuniversal.com/article/100th-macys-thanksgiving-day-parade-returns-live-nbc-and-peacock-nov-26-bringing-holiday-magic-life"
     publisher: "NBCUniversal"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "How to Watch the 2026 National Dog Show on Thanksgiving Day"
     url: "https://www.akc.org/expert-advice/news/watch-national-dog-show/"
     publisher: "American Kennel Club"
@@ -88,6 +88,10 @@ sources:
   - title: "NFL 2026 schedule, Week 12"
     url: "https://www.nfl.com/schedules/2026/by-week/reg-12"
     publisher: "NFL"
+  - title: "Goo Goo Dolls to headline Thanksgiving halftime show for Bills vs. Chiefs at Highmark Stadium"
+    url: "https://www.buffalobills.com/news/goo-goo-dolls-to-headline-thanksgiving-halftime-show-for-bills-vs-chiefs-at-highmark-stadium"
+    publisher: "Buffalo Bills"
+    date: "2026-10-30"
 internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
@@ -105,7 +109,7 @@ assets:
     group: thanksgiving-day-2026
     title: "Thanksgiving Day 2026 Schedule by Time Zone"
     subtitle: "Parade, dog show and football on Thu., Nov. 26, in ET, CT, MT and PT"
-    note: "Source: NBCUniversal (Nov. 13, 2026); NBC10 Philadelphia; American Kennel Club (Nov. 10, 2026); NFL.com 2026 schedule release and Week 12 schedule; FOX34 (May 12, 2026). The parade and the dog show air at the same local clock time in every zone; NFL times are converted."
+    note: "Source: NBCUniversal; NBC10 Philadelphia; American Kennel Club; NFL.com 2026 schedule release and Week 12 schedule; FOX34. The parade and the dog show air at the same local clock time in every zone; NFL times are converted."
     description: "A one-page Thanksgiving Day 2026 schedule with the Macy's parade, National Dog Show and football in Eastern, Central, Mountain and Pacific Time."
     alt: "Thanksgiving Day 2026 schedule printable with the Macy's parade, National Dog Show and football games in four time zones and a dinner-time column"
     data:
@@ -120,7 +124,6 @@ assets:
       fill: { title: "Our dinner", labels: ["Turkey in the oven", "Dinner served", "Pie and dessert"] }
       unconfirmed:
         - { label: "Parade broadcast end time", why: "NBC lists the 8:30 a.m. start but not when the broadcast ends" }
-        - { label: "Chiefs-Bills halftime act", why: "not announced" }
 downloads:
   - group: "Thanksgiving Day 2026 Schedule by Time Zone printables"
     title: "Thanksgiving Day 2026 Schedule by Time Zone"
@@ -178,7 +181,7 @@ The conversions are ours: Pacific Time is 3 hours behind Eastern. A Pacific view
 | Eagles at Cowboys | 4:30 p.m. | 3:30 p.m. | 2:30 p.m. | 1:30 p.m. |
 | Chiefs at Bills | 8:20 p.m. | 7:20 p.m. | 6:20 p.m. | 5:20 p.m. |
 
-NFL.com lists the times in ET; the other columns are our conversion. The NFL's Week 12 schedule page lists the same three games on Thursday, Nov. 26, at 1 p.m., 4:30 p.m. and 8:20 p.m. The Lions' halftime show is headlined by Wu-Tang Clan, the Detroit Lions say, and Miranda Lambert performs at the Cowboys' halftime show, the Dallas Cowboys say. The Chiefs-Bills halftime act is not announced. The league also plays Packers at Rams on Wednesday, Nov. 25 at 8 p.m. ET on Netflix, and Broncos at Steelers on Friday, Nov. 27 at 3 p.m. ET on Prime Video. Our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) story adds the college games.
+NFL.com lists the times in ET; the other columns are our conversion. The NFL's Week 12 schedule page lists the same three games on Thursday, Nov. 26, at 1 p.m., 4:30 p.m. and 8:20 p.m. The Lions' halftime show is headlined by Wu-Tang Clan, the Detroit Lions say, and Miranda Lambert performs at the Cowboys' halftime show, the Dallas Cowboys say. Goo Goo Dolls headline the Chiefs-Bills halftime show, the Buffalo Bills say. The league also plays Packers at Rams on Wednesday, Nov. 25 at 8 p.m. ET on Netflix, and Broncos at Steelers on Friday, Nov. 27 at 3 p.m. ET on Prime Video. Our [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) story adds the college games.
 
 ## Local parades on the morning of Nov. 26
 

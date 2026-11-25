@@ -3,7 +3,7 @@ title: "Free Parking on Holidays 2026: Meter Rules in 12 Cities"
 description: "Parking meters are free on Thanksgiving, Nov. 26, Christmas and New Year's Day in all 12 cities checked. The day after splits two. Printable by city."
 type: explainer
 publishedAt: "2026-11-09T06:10:00-05:00"
-updatedAt: "2026-11-22T05:24:00-05:00"
+updatedAt: "2026-11-25T14:27:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["free parking on holidays", "are parking meters free on thanksgiving", "is parking free on christmas day", "parking meters veterans day"]
@@ -46,7 +46,7 @@ sources:
   - title: "Holiday Street Parking Enforcement Schedule"
     url: "https://www.sfmta.com/node/654"
     publisher: "San Francisco Municipal Transportation Agency"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Parking Meters"
     url: "https://ddot.dc.gov/page/parking-meters"
     publisher: "District Department of Transportation"
@@ -54,7 +54,7 @@ sources:
   - title: "Holiday Parking"
     url: "https://philapark.org/holiday-parking/"
     publisher: "Philadelphia Parking Authority"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Parking Meters"
     url: "https://www.nyc.gov/html/dot/html/motorist/parking-rates.shtml"
     publisher: "New York City Department of Transportation"
@@ -62,7 +62,7 @@ sources:
   - title: "City of Boston Holidays"
     url: "https://www.boston.gov/departments/311/city-boston-holidays"
     publisher: "City of Boston"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Street Parking"
     url: "https://www.denvergov.org/Vehicles-Parking/Parking/Street-Parking"
     publisher: "City and County of Denver"
@@ -86,11 +86,11 @@ sources:
   - title: "SmartPark Garages"
     url: "https://www.portland.gov/transportation/parking/smartpark"
     publisher: "Portland Bureau of Transportation"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Parking Enforcement Holidays"
     url: "https://www.sandiego.gov/parking/enforcement/holidays"
     publisher: "City of San Diego"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Parking Meters"
     url: "https://www.minneapolismn.gov/getting-around/parking-driving/street-parking-meters/parking-meters/"
     publisher: "City of Minneapolis"
@@ -98,7 +98,7 @@ sources:
   - title: "City Holidays"
     url: "https://www.minneapolismn.gov/contact-us/building-locations/city-holidays/"
     publisher: "City of Minneapolis"
-    date: "2026-11-13"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -196,7 +196,7 @@ The grocery side of the holiday is in our [Thanksgiving 2026 store guide](/news/
 
 The day after Thanksgiving, Friday, Nov. 27, splits two cities. Minneapolis lists the "Day after Thanksgiving" among its City holidays with free metered spaces, and its City holidays page shows Friday, Nov. 27, 2026. San Francisco's SFMTA schedule marks the day after Thanksgiving as enforced. We did not confirm Nov. 27 for the other cities, so check the city's page before you leave a car at a meter.
 
-New Year's Day, Jan. 1, 2027, is free in all 12 cities' rules: San Francisco's schedule says "Not Enforced" for that date, and the other pages list New Year's Day among their holidays. Boston's holidays page, last updated Nov. 10, 2026, now lists Friday, Jan. 1, 2027, with "Parking meters are free with no time limit."
+New Year's Day, Jan. 1, 2027, is free in all 12 cities' rules: San Francisco's schedule says "Not Enforced" for that date, and the other pages list New Year's Day among their holidays. Boston's holidays page lists Friday, Jan. 1, 2027, with "Parking meters are free with no time limit."
 
 ## What does a free-meter holiday not cover?
 

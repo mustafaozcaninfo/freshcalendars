@@ -3,7 +3,7 @@ title: "Turkey Trot 2026: Start Times for 10 Thanksgiving Races, Nov. 26"
 description: "The Buffalo Turkey Trot starts at 9 a.m. ET on Thu., Nov. 26, 2026. Start times, fees and packet pickup for 10 Thanksgiving races, and a checklist."
 type: explainer
 publishedAt: "2026-11-01T16:44:00-05:00"
-updatedAt: "2026-11-19T01:43:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["turkey trot 2026", "turkey trot near me start time", "Thanksgiving 5K 2026", "Buffalo turkey trot 2026", "Dallas turkey trot 2026"]
@@ -21,23 +21,23 @@ hero:
 summary:
   - "The Buffalo Turkey Trot starts at 9:00 a.m. Eastern Time (ET) on Thursday, Nov. 26, 2026, and the Manchester Road Race in Connecticut starts at 10:00 a.m. ET, according to the race pages."
   - "The 10 races in our table start between 7:30 a.m. and 11:30 a.m. ET for the main event; Detroit is first and San Jose is last."
-  - "Buffalo's fee rises from $56 to $65 today, Nov. 19. Atlanta's prices rose after Nov. 17 and Cincinnati's on Nov. 16, and Atlanta's race page says all distances are at capacity as of Nov. 18. Houston and San Jose rise after Nov. 20; San Diego-North County rises after Nov. 23."
-  - "Packet pickup starts Sat., Nov. 21 in Atlanta, Sun., Nov. 22 in Denver, Mon., Nov. 23 in Buffalo and Tue., Nov. 24 in Cincinnati; San Jose lists race-day pickup only."
+  - "Buffalo's fee rose from $56 to $65 on Nov. 19. Atlanta's race page says all distances are at capacity as of Nov. 18, Detroit's says all events are sold out as of Nov. 19, and Houston's lists its races as full."
+  - "Last packet pickup is Wed., Nov. 25 in Atlanta, Buffalo, Cincinnati, Denver and San Diego-North County; San Jose lists race-day pickup only."
 faq:
   - q: "What time does the Buffalo Turkey Trot start in 2026?"
-    a: "9:00 a.m. on Thursday, Nov. 26, 2026, according to the race page on RunSignup; it is an 8K (4.97 miles) and the 131st edition. The fee was $56 through Nov. 18 and is $65 from Nov. 19 (today) until the 14,000 cap sells out."
+    a: "9:00 a.m. on Thursday, Nov. 26, 2026, according to the race page on RunSignup; it is an 8K (4.97 miles) and the 131st edition. The fee was $56 through Nov. 18 and is $65 from Nov. 19 until the 14,000 cap sells out."
   - q: "What time does the Dallas Turkey Trot start in 2026?"
     a: "The timed 8 Mile and 5K start at 8:30 a.m. Central Standard Time (CST), which is 9:30 a.m. ET, and a second start is at 9:00 a.m. CST (10:00 a.m. ET), according to Race Roster. The start is at Dallas City Hall, 1500 Marilla Street."
   - q: "Which turkey trot is first in Eastern Time on Thanksgiving?"
     a: "In our table, Detroit's S3 Turkey Trot 10K and Mashed Potato Mile start at 7:30 a.m. ET. Atlanta's half marathon follows at 7:45 or 8:00 a.m., because the race page lists both."
   - q: "Can I sign up on race morning?"
-    a: "It depends on the race. Atlanta does not offer race-day registration, and its race page says all distances are at capacity as of Nov. 18. Cincinnati lists onsite registration at packet pickup, and its fee is $60 for the 10K and $50 for the 5K on Nov. 26. Check each race page for its own rules."
+    a: "It depends on the race. Atlanta does not offer race-day registration, and its race page says all distances are at capacity as of Nov. 18; Detroit's page says all events are sold out as of Nov. 19. Cincinnati lists onsite registration at packet pickup, and its fee is $60 for the 10K and $50 for the 5K on Nov. 26. Check each race page for its own rules."
 downloads:
   - group: "Turkey Trot Race Week Checklist printables"
     title: "Turkey Trot Race Week Checklist, Nov. 26, 2026"
-    description: "A one-page race-week checklist with 2026 turkey trot price deadlines, packet pickup dates and race-morning items, with tick boxes."
+    description: "A one-page race-week checklist with 2026 turkey trot price changes, packet pickup dates and race-morning items, with tick boxes."
     preview: ../../../../assets/news/turkey-trot-2026/turkey-trot-race-week-checklist-2026.png
-    alt: "Printable turkey trot 2026 race-week checklist with price deadlines, packet pickup dates and race-morning items."
+    alt: "Printable turkey trot 2026 race-week checklist with price changes, packet pickup dates and race-morning items."
     pdf: "/news/downloads/turkey-trot-2026/turkey-trot-race-week-checklist-2026.pdf"
     png: "/news/downloads/turkey-trot-2026/turkey-trot-race-week-checklist-2026.png"
     pages: 1
@@ -45,15 +45,15 @@ sources:
   - title: "131st Annual YMCA Buffalo Niagara Turkey Trot, FAQs"
     url: "https://runsignup.com/Race/YMCATurkeyTrot/Page/FAQs"
     publisher: "RunSignup, YMCA Buffalo Niagara"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Runner Information | YMCA Buffalo Niagara"
     url: "https://www.ymcabn.org/node/1025"
     publisher: "YMCA Buffalo Niagara"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "2026 Manchester Road Race"
     url: "https://raceroster.com/events/2026/114040/2026-manchester-road-race"
     publisher: "Race Roster"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Manchester Road Race announces 2026 charitable objectives"
     url: "https://patch.com/connecticut/manchester/manchester-road-race-announces-2026-charitable-objectives"
     publisher: "Patch"
@@ -61,19 +61,19 @@ sources:
   - title: "2026 Dallas YMCA Turkey Trot"
     url: "https://raceroster.com/events/2026/117103/2026-dallas-ymca-turkey-trot"
     publisher: "Race Roster, YMCA of Metropolitan Dallas"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "2026 Thanksgiving Day Half Marathon, 5K, Mile & Dash"
     url: "https://www.atlantatrackclub.org/2026-invesco-qqq-thanksgiving-day-half-marathon-5k-mile-dash"
     publisher: "Atlanta Track Club"
-    date: "2026-11-19"
+    date: "2026-11-25"
   - title: "Applied Materials Silicon Valley Turkey Trot"
     url: "https://runsignup.com/Race/CA/SanJose/SiliconValleyTurkeyTrot"
     publisher: "RunSignup, Silicon Valley Leadership Group Foundation"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "S3 Turkey Trot, Detroit"
     url: "https://runsignup.com/Race/MI/Detroit/TheParadeCompanyDetroitTurkeyTrot"
     publisher: "RunSignup"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Western & Southern Thanksgiving Day Race Returns for 117th Year"
     url: "https://www.westernsouthern.com/about/newsroom/2026-11-thanksgiving-day-race"
     publisher: "Western & Southern Financial Group"
@@ -85,27 +85,27 @@ sources:
   - title: "Mile High United Way Turkey Trot 2026"
     url: "https://raceroster.com/events/2026/113393/mile-high-united-way-turkey-trot-2026"
     publisher: "Race Roster, Mile High United Way"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "San Diego-North County Turkey Trot"
     url: "https://runsignup.com/Race/Info/CA/SanDiego/NCTT"
     publisher: "RunSignup"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Houston Methodist Turkey Trot"
     url: "https://runsignup.com/Race/TX/Houston/HoustonTurkeyTrot"
     publisher: "RunSignup"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Western & Southern 10K, fees and start time"
     url: "https://www.thanksgivingdayrace.com/western-southern-10k/"
     publisher: "Thanksgiving Day Race, Cincinnati"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "TDR 5K, fees and start time"
     url: "https://www.thanksgivingdayrace.com/tdr-5k/"
     publisher: "Thanksgiving Day Race, Cincinnati"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Fleet Feet Packet Pick Up"
     url: "https://www.thanksgivingdayrace.com/fleet-feet-packet-pick-up/"
     publisher: "Thanksgiving Day Race, Cincinnati"
-    date: "2026-11-13"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -124,31 +124,28 @@ assets:
     slug: turkey-trot-race-week-checklist-2026
     group: turkey-trot-2026
     title: "Turkey Trot Race Week Checklist, Nov. 26, 2026"
-    subtitle: "Price deadlines and packet pickup for 10 Thanksgiving races"
+    subtitle: "Last price changes and packet pickup for Thanksgiving races"
     layout: checklist
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
     rows:
-      - { when: "Sun., Nov. 15", what: "Cincinnati: 10K $50 and 5K $43 ended; $56 and $46 from Nov. 16", section: "Price deadlines" }
-      - { when: "Tue., Nov. 17", what: "Atlanta half marathon $140 and 5K $50 ended; $150 and $55 from Nov. 18; all distances at capacity as of Nov. 18", section: "Price deadlines" }
-      - { when: "Wed., Nov. 18", what: "Buffalo: $56 ended, $65 from Nov. 19", section: "Price deadlines" }
-      - { when: "Fri., Nov. 20", what: "Houston and San Jose: price rises after 11:59 p.m. local time", section: "Price deadlines" }
-      - { when: "Fri., Nov. 20", what: "Denver: base price rises $5 (also Nov. 26)", section: "Price deadlines" }
-      - { when: "Mon., Nov. 23", what: "San Diego-North County: price rises after 11:59 p.m. PST", section: "Price deadlines" }
-      - { when: "Sat., Nov. 21", what: "Atlanta: Atlantic Station, 8 a.m. to 4 p.m. (also Sun., Nov. 22)", section: "Packet pickup" }
-      - { when: "Sun., Nov. 22", what: "Denver: Fleet Feet Cherry Creek, 11 a.m. to 6 p.m.", section: "Packet pickup" }
-      - { when: "Mon., Nov. 23", what: "Buffalo: Amherst, 10 a.m. to 6:30 p.m. (also Tue., Nov. 24)", section: "Packet pickup" }
-      - { when: "Tue., Nov. 24", what: "Cincinnati: stadium 10 a.m. to 6:30 p.m.; Denver 10 a.m. to 6 p.m.", section: "Packet pickup" }
-      - { when: "Wed., Nov. 25", what: "Atlanta 8 a.m. to 5 p.m.; Buffalo 10 a.m. to 5:30 p.m.; Cincinnati 10 a.m. to 6:30 p.m.; Denver 10 a.m. to 2 p.m.", section: "Packet pickup" }
+      - { when: "Wed., Nov. 25", what: "Cincinnati: 10K $56 and 5K $46 through Nov. 25", section: "Price deadlines" }
+      - { when: "Thu., Nov. 26", what: "Cincinnati: 10K $60 and 5K $50 on race day", section: "Price deadlines" }
+      - { when: "Thu., Nov. 26", what: "Denver: base price rises $5 (page lists Nov. 26)", section: "Price deadlines" }
+      - { when: "Wed., Nov. 25", what: "Atlanta: Atlantic Station, 8 a.m. to 5 p.m.; Will Call $20 add-on by 7 p.m.", section: "Packet pickup" }
+      - { when: "Wed., Nov. 25", what: "Buffalo: Amherst, 10 a.m. to 5:30 p.m.", section: "Packet pickup" }
+      - { when: "Wed., Nov. 25", what: "Cincinnati: stadium, 10 a.m. to 6:30 p.m.", section: "Packet pickup" }
+      - { when: "Wed., Nov. 25", what: "Denver: Fleet Feet Cherry Creek, 10 a.m. to 2 p.m.", section: "Packet pickup" }
+      - { when: "Wed., Nov. 25", what: "San Diego-North County: Shay Realtor Hub, 1 to 6 p.m.", section: "Packet pickup" }
       - { when: "Thu., Nov. 26", what: "Check your start time in local time", section: "Race morning" }
       - { when: "Thu., Nov. 26", what: "Bring your bib (race-morning pickup: Buffalo 7 to 8:15 a.m., Cincinnati 7 to 8:30 a.m., Denver from 7:30 a.m.)", section: "Race morning" }
       - { when: "Thu., Nov. 26", what: "Safety pins for the bib (generic item)", section: "Race morning" }
       - { when: "Thu., Nov. 26", what: "Layers you can take off (generic item)", section: "Race morning" }
-    note: "Source: the official race pages of the Buffalo, Atlanta, San Jose, Denver, San Diego, Houston and Cincinnati races, read Nov. 13, 2026 (Atlanta, Nov. 19). Safety pins and layers are generic reminders, not race rules."
-    description: "A one-page race-week checklist with 2026 turkey trot price deadlines, packet pickup dates and race-morning items, with tick boxes."
-    alt: "Printable turkey trot 2026 race-week checklist with price deadlines, packet pickup dates and race-morning items."
+    note: "Source: the official race pages of the Buffalo, Atlanta, Denver, San Diego and Cincinnati races. Safety pins and layers are generic reminders, not race rules."
+    description: "A one-page race-week checklist with 2026 turkey trot price changes, packet pickup dates and race-morning items, with tick boxes."
+    alt: "Printable turkey trot 2026 race-week checklist with price changes, packet pickup dates and race-morning items."
 ---
 
-**The Buffalo Turkey Trot starts at 9:00 a.m. Eastern Time (ET) on Thursday, Nov. 26, 2026**, according to the race page of the Young Men's Christian Association (YMCA) Buffalo Niagara, and the Manchester Road Race in Connecticut starts at 10:00 a.m. ET, according to its Race Roster page. The tables below cover 10 Thanksgiving Day races, read on their official pages on Nov. 13, 2026: start times in local time and in ET, fees, the next price change and packet pickup. The Atlanta Track Club page, read Nov. 19, says all four Atlanta race distances are at capacity as of Nov. 18. A one-page printable checklist collects the deadlines and pickup dates.
+**The Buffalo Turkey Trot starts at 9:00 a.m. Eastern Time (ET) on Thursday, Nov. 26, 2026**, according to the race page of the Young Men's Christian Association (YMCA) Buffalo Niagara, and the Manchester Road Race in Connecticut starts at 10:00 a.m. ET, according to its Race Roster page. The tables below cover 10 Thanksgiving Day races, read on their official pages on Nov. 25, 2026: start times in local time and in ET, fees, the next price change and packet pickup. The Atlanta Track Club page says the mile and dash reached capacity on Nov. 13, the 5K on Nov. 15 and the half marathon on Nov. 18. A one-page printable checklist collects the deadlines and pickup dates.
 
 ## When does the Buffalo Turkey Trot start in 2026?
 
@@ -179,22 +176,22 @@ The Dallas YMCA Turkey Trot is Thursday, Nov. 26, 2026, according to Race Roster
 
 ## Which turkey trots raise prices before Thanksgiving?
 
-Fees below are the ones shown on each race page on Nov. 13, 2026. Where a page says the price includes a service fee, the table says so. Atlanta's row also carries the page's Nov. 18 update.
+Fees below are the ones shown on each race page on Nov. 25, 2026. Where a page says the price includes a service fee, the table says so.
 
 | Race | Fee on the page | Next price change |
 |---|---|---|
-| Detroit | 10K and 5K $55; Mile $35 | Not listed |
-| Atlanta | Half marathon $140; 5K $50 (through Tue., Nov. 17) | Half $150 and 5K $55 from Wed., Nov. 18; all distances at capacity as of Nov. 18 |
-| Houston | 5K $44.99; 10K $49.99 | After Fri., Nov. 20 at 11:59 p.m. CST (12:59 a.m. ET on Sat., Nov. 21) |
-| Buffalo | $56 (Final Stretch, Nov. 1-18) | $65 from Thu., Nov. 19 (today) to sell-out (Last Chance) |
-| Cincinnati | 10K $50; 5K $43 (through Nov. 15) | 10K $56 and 5K $46 from Mon., Nov. 16 to Wed., Nov. 25; 10K $60 and 5K $50 on Thanksgiving Day |
+| Detroit | 10K and 5K $55; Mile $35 | Sold out as of Nov. 19 |
+| Atlanta | Half marathon $150; 5K $55 (from Wed., Nov. 18) | Sold out: mile and dash Nov. 13, 5K Nov. 15, half marathon Nov. 18 |
+| Houston | 5K $59.99; 10K $69.99 | Sold out; the waiting list has closed |
+| Buffalo | $65 (Last Chance, from Thu., Nov. 19) | Until sell-out; no further change listed |
+| Cincinnati | 10K $56; 5K $46 (through Wed., Nov. 25) | 10K $60 and 5K $50 on Thanksgiving Day |
 | Dallas | Timed 8 Mile or 5K $56.52 ($52 plus $4.52 tax and fees); untimed $49.52 | Registration is listed Nov. 10 to Nov. 26; no further price change listed |
 | Manchester | See race page | See race page |
-| San Diego-North County | 5K $59.30; 10K $69.90 | After Mon., Nov. 23 at 11:59 p.m. PST (2:59 a.m. ET on Tue., Nov. 24) |
-| Denver | $55.24 including $5.24 fees | Base price rose $5 on Nov. 1 and rises $5 on Nov. 20 and Nov. 26 |
-| San Jose | $60.50 including a $5.50 fee | After Fri., Nov. 20 at 11:59 p.m. PST (2:59 a.m. ET on Sat., Nov. 21) |
+| San Diego-North County | 5K $64.60 and 10K $75.20, each including the page's fee | No further change listed |
+| Denver | $55.24 including $5.24 fees | The page says the base price rises $5 on Nov. 1, Nov. 20 and Nov. 26 |
+| San Jose | $66 including a $6 fee | Registration ends Nov. 26 at 9:00 a.m. PST |
 
-Seven races list a dated price change before or on Thanksgiving: Atlanta, Buffalo, Cincinnati, Denver, Houston, San Diego-North County and San Jose. Buffalo's fee rises $9 today, Nov. 19, Atlanta's half marathon became $10 higher from Nov. 18 and its 5K $5 higher, Cincinnati's 10K rose $6 on Nov. 16 and rises $4 more on race day, and Denver's page lists three $5 steps, the first of which took effect on Nov. 1. Atlanta's page now says all distances are at capacity as of Nov. 18.
+Buffalo's fee rose $9 on Nov. 19 and Atlanta's half marathon became $10 higher from Nov. 18 and its 5K $5 higher. Cincinnati's 10K is $56 through Nov. 25 and rises $4 on race day, and Denver's page lists three $5 steps, the last of which is on Nov. 26. Three races, Atlanta, Detroit and Houston, are sold out.
 
 ## Where is turkey trot packet pickup in 2026?
 
@@ -205,9 +202,10 @@ Seven races list a dated price change before or on Thanksgiving: Atlanta, Buffal
 | Cincinnati | Tue., Nov. 24 and Wed., Nov. 25, 10 a.m. to 6:30 p.m.; race morning 7 to 8:30 a.m. | First Financial Club at the FC Cincinnati stadium; onsite registration is also offered |
 | Denver | Sun., Nov. 22, 11 a.m. to 6 p.m.; Tue., Nov. 24, 10 a.m. to 6 p.m.; Wed., Nov. 25, 10 a.m. to 2 p.m.; race morning from 7:30 a.m. | Fleet Feet Cherry Creek |
 | San Jose | Race day only; closes at 9 a.m. | Bib and shirt pickup |
-| Detroit, Dallas, Houston, Manchester, San Diego | Not listed on the pages we read | See race page |
+| San Diego-North County | Wed., Nov. 25, 1 to 6 p.m. | Shay Realtor Hub, 4S Ranch Village, 16611 Dove Canyon Rd. |
+| Detroit, Dallas, Houston, Manchester | Not listed on the pages we read | See race page |
 
-Atlanta's mile and dash runners can pick up on race morning for free. Most pickup days fall on Nov. 21-25, in the days before Thanksgiving; see [Thanksgiving travel 2026: best days to fly and drive](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/) for the flight and drive days if you are traveling to a race.
+Atlanta's mile and dash runners can pick up on race morning for free. Pickup days fall on Nov. 21-25, in the days before Thanksgiving, and Wednesday, Nov. 25 is the last day at most races; see [Thanksgiving travel 2026: best days to fly and drive](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/) for the flight and drive days if you are traveling to a race.
 
 ## Who runs these races, and which edition is it?
 
@@ -225,6 +223,6 @@ We could not confirm 2026 details for the Seattle and Chicago races from their o
 
 ## What goes on a turkey trot race-week checklist?
 
-The printable has tick boxes for the price deadlines and pickup dates above, plus race-morning items: your start time in local time, your bib, safety pins and layers. The safety pins and layers are generic reminders, not rules from any race. Mark the dates on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html), and see [when is Thanksgiving](/when-is/thanksgiving/) for the date. For the rest of the week, our [Thanksgiving 2026 planner](/news/thanksgiving-2026-planner-countdown-checklist/) has a dated countdown, and the [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) lists the games on the same day.
+The printable has tick boxes for the last price changes and pickup dates above, plus race-morning items: your start time in local time, your bib, safety pins and layers. The safety pins and layers are generic reminders, not rules from any race. Mark the dates on the [November 2026 printable calendar](/november-calendars.html) or the [printable weekly calendar](/printable-weekly-calendar.html), and see [when is Thanksgiving](/when-is/thanksgiving/) for the date. For the rest of the week, our [Thanksgiving 2026 planner](/news/thanksgiving-2026-planner-countdown-checklist/) has a dated countdown, and the [Thanksgiving football schedule](/news/thanksgiving-football-schedule-2026-nfl-college-games/) lists the games on the same day.
 
 Fees, start times and pickup hours can change, so check the race page before you go.

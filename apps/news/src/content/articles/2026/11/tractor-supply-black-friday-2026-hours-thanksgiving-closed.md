@@ -1,8 +1,9 @@
 ---
 title: "Tractor Supply Black Friday 2026: Nov. 23-29, Stores Open 6 a.m."
-description: "Tractor Supply runs seven days of Black Friday savings Nov. 23-29, 2026. Hours for every holiday from Nov. 24 to Jan. 1, the discounts and a printable."
+description: "Tractor Supply runs seven days of Black Friday savings Nov. 23-29, 2026. Hours for every holiday from Nov. 25 to Jan. 1, the discounts and a printable."
 type: news
 publishedAt: "2026-11-20T06:00:00-05:00"
+updatedAt: "2026-11-25T14:29:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["tractor supply black friday 2026", "is tractor supply open on thanksgiving", "tractor supply black friday hours", "tractor supply christmas eve hours"]
@@ -16,7 +17,7 @@ assets:
     kit: fact-table
     slug: tractor-supply-holiday-hours-2026
     group: tractor-supply-2026
-    title: "Tractor Supply Holiday Hours 2026, Nov. 24 to Jan. 1"
+    title: "Tractor Supply Holiday Hours 2026, Nov. 25 to Jan. 1"
     subtitle: "Thanksgiving, Black Friday, Christmas Eve, Christmas Day and New Year's"
     note: "Source: Tractor Supply Company release, Nov. 19, 2026, 2026 Tractor Supply Holiday Store Hours. Weekdays are computed. Confirm your own store's hours before you go."
     description: "One-page Tractor Supply 2026 holiday hours card: Thanksgiving closed, Black Friday 6 a.m. to 9 p.m., Christmas Eve, Christmas Day and New Year's."
@@ -26,9 +27,6 @@ assets:
         - { key: date, label: "Date" }
         - { key: hours, label: "Tractor Supply hours" }
       rows:
-        - cells: { date: "Tue., Nov. 24", hours: "8 a.m. to 9 p.m." }
-          src: 1
-          quote: "Tuesday, Nov. 24: 8 a.m. to 9 p.m."
         - cells: { date: "Wed., Nov. 25", hours: "8 a.m. to 9 p.m." }
           src: 1
           quote: "Wednesday, Nov. 25: 8 a.m. to 9 p.m."
@@ -84,7 +82,7 @@ sources:
   - title: "From Cowboy Santas to Cozy Barns: Seven Days of Black Friday Savings, Tractor Style"
     url: "https://finance.yahoo.com/small-business/articles/black-friday-goes-171300075.html"
     publisher: "Business Wire via Yahoo Finance"
-    date: "2026-11-19"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -95,7 +93,7 @@ internalLinks:
 related: [black-friday-2026-store-hours-walmart-target-best-buy, home-depot-black-friday-2026-sale-dates-november-5-25-store-hours, harbor-freight-black-friday-2026-member-early-access-november-23]
 downloads:
   - group: "Tractor Supply Holiday Hours 2026 printables"
-    title: "Tractor Supply Holiday Hours 2026, Nov. 24 to Jan. 1"
+    title: "Tractor Supply Holiday Hours 2026, Nov. 25 to Jan. 1"
     description: "One-page Tractor Supply 2026 holiday hours card: Thanksgiving closed, Black Friday 6 a.m. to 9 p.m., Christmas Eve, Christmas Day and New Year's."
     preview: ../../../../assets/news/tractor-supply-2026/tractor-supply-holiday-hours-2026.png
     alt: "Printable Tractor Supply holiday hours 2026 card listing Thanksgiving, Black Friday, Christmas Eve, Christmas Day and New Year's hours"
@@ -105,7 +103,7 @@ downloads:
 draft: false
 ---
 
-**Tractor Supply Company will run seven days of Black Friday savings from Monday, Nov. 23, to Sunday, Nov. 29, 2026, with Friday-only doorbusters when stores open at 6 a.m. on Nov. 27, according to its Nov. 19 release.** Stores are closed on Thanksgiving Day, Thursday, Nov. 26. The release also lists adjusted hours through New Year's Day, and the full list is in the table below and on a free printable card.
+**Tractor Supply Company is running seven days of Black Friday savings from Monday, Nov. 23, to Sunday, Nov. 29, 2026, with Friday-only doorbusters when stores open at 6 a.m. on Nov. 27, according to its Nov. 19 release.** Stores are closed on Thanksgiving Day, Thursday, Nov. 26. The release also lists adjusted hours through New Year's Day, and the full list is in the table below and on a free printable card.
 
 ## What are Tractor Supply's Black Friday dates?
 
@@ -120,13 +118,12 @@ Nov. 23 is a Monday and Nov. 29 is a Sunday. The release does not give online sa
 
 No. The release lists Thursday, Nov. 26, Thanksgiving Day, as closed. It says stores "will operate on adjusted hours around Thanksgiving, Christmas and New Year's." The list does not say "local time" and does not give regular hours, so each store's own hours may differ. The company's [store locator](https://www.tractorsupply.com/tsc/store-locator) is the place to confirm yours.
 
-## Tractor Supply holiday hours 2026, Nov. 24 to Jan. 1
+## Tractor Supply holiday hours 2026, Nov. 25 to Jan. 1
 
-The release lists each date with its weekday; the labels for Nov. 24 and 25 are ours.
+The release lists each date with its weekday; the label for Nov. 25 is ours. Tuesday, Nov. 24 was also 8 a.m. to 9 p.m.
 
 | Date | Day | Tractor Supply hours |
 |---|---|---|
-| Tue., Nov. 24 | Tuesday before Thanksgiving | 8 a.m. to 9 p.m. |
 | Wed., Nov. 25 | Wednesday before Thanksgiving | 8 a.m. to 9 p.m. |
 | Thu., Nov. 26 | Thanksgiving Day | Closed |
 | Fri., Nov. 27 | Black Friday | 6 a.m. to 9 p.m. |
@@ -173,4 +170,4 @@ Thanksgiving falls on [Thursday, Nov. 26](/when-is/thanksgiving/), and you can m
 
 ## Print the Tractor Supply holiday hours card
 
-The free printable puts the eight hours from the table on one US Letter page, with a line to write your store's number.
+The free printable puts the seven hours from the table on one US Letter page, with a line to write your store's number.

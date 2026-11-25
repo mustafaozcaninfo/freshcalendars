@@ -3,7 +3,7 @@ title: "Thanksgiving 2026 Planner: Dated Countdown and Turkey Math"
 description: "Thanksgiving 2026 is Thursday, Nov. 26. A dated countdown, turkey at one pound per guest and oven times from the U.S. Department of Agriculture (USDA)."
 type: explainer
 publishedAt: "2026-10-23T15:00:00-04:00"
-updatedAt: "2026-11-03T17:30:00-05:00"
+updatedAt: "2026-11-25T14:31:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Thanksgiving planner 2026", "Thanksgiving countdown checklist", "Thanksgiving planning timeline", "how much turkey per person"]
@@ -48,7 +48,7 @@ hero:
 summary:
   - "Thanksgiving Day 2026 is Thursday, Nov. 26. This planner lays out a dated countdown from the week of Oct. 26 through the last of the leftovers on Monday, Nov. 30."
   - "The USDA says to allow about one pound of turkey per person, or one and a quarter pounds for a frozen pre-stuffed bird that cooks from frozen."
-  - "A frozen turkey needs days of refrigerator thawing by weight, so a 20 to 24 lb bird should go into the fridge by Friday, Nov. 20."
+  - "A frozen turkey needs days of refrigerator thawing by weight, so a 20 to 24 lb bird needed to go into the fridge by Friday, Nov. 20."
   - "Cook turkey and any stuffing to 165°F, rest the turkey 20 minutes, refrigerate leftovers within 2 hours and use them within 3 to 4 days."
 faq:
   - q: "How much turkey do I need per person for Thanksgiving 2026?"
@@ -78,10 +78,10 @@ sources:
   - title: "Thanksgiving Day fires"
     url: "https://usfa.fema.gov/statistics/reports/fire-causes/snapshot-thanksgiving.html"
     publisher: "U.S. Fire Administration (USFA)"
-  - title: "Cost of Thanksgiving Dinner Declines"
-    url: "https://www.fb.org/news-release/cost-of-thanksgiving-dinner-declines"
+  - title: "Cost of Thanksgiving Dinner Increases, Remains Below 2022 Record High"
+    url: "https://www.fb.org/news-release/cost-of-thanksgiving-dinner-increases-remains-below-2022-record-high"
     publisher: "American Farm Bureau Federation (AFBF)"
-    date: "2025-11-19"
+    date: "2026-11-25"
 downloads:
   - group: "Thanksgiving 2026 Planner Checklist printables"
     title: "Thanksgiving 2026 Planner Checklist, Nov. 26"
@@ -141,8 +141,8 @@ If you want generous leftovers, we suggest sizing up a little; that part is a co
 ### Weeks before
 
 - **Week of Oct. 26 (passed):** Settle the guest count and ask about allergies and diets. Everything else follows from the head count, so do it first if you have not yet.
-- **Monday, Nov. 2:** Plan the menu and, if you want a fresh turkey, reserve one. These dates are our suggestion.
-- **Nov. 14 to 18:** Buy a frozen turkey, at about one pound per guest, so there is time to thaw it. Keep it frozen until you start thawing.
+- **Monday, Nov. 2 (passed):** Plan the menu and, if you want a fresh turkey, reserve one. These dates are our suggestion.
+- **Nov. 14 to 18 (passed):** Buy a frozen turkey, at about one pound per guest, so there is time to thaw it. Keep it frozen until you start thawing.
 
 ### Thanksgiving week
 
@@ -202,7 +202,7 @@ Thanksgiving is the peak day for home cooking fires. The U.S. Fire Administratio
 
 ## What dinner costs
 
-The American Farm Bureau Federation (AFBF) priced a classic Thanksgiving dinner for 10 at $55.18 in 2025, or $5.52 per person, down 5% from $58.08 in 2024. A 16-pound turkey averaged $21.50, about $1.34 per pound. The farm bureau usually releases its new survey in mid-November, so the 2026 figure is not yet available; the numbers here are from 2025.
+The American Farm Bureau Federation (AFBF) priced a classic Thanksgiving dinner for 10 at $58.63 in 2026, or about $5.86 per person, more than 6% above 2025, when it was $55.18. A 16-pound frozen turkey averages $23.68, or $1.48 per pound, up 10% from last year, the AFBF says. Its volunteer shoppers checked prices the first week of November.
 
 ## Where to get help
 

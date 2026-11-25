@@ -3,7 +3,7 @@ title: "Is Ollie's Open on Thanksgiving 2026? Closed, Black Friday 5 a.m."
 description: "Ollie's is closed Thu., Nov. 26, 2026 and opens at 5 a.m. on Nov. 27. Every store hour through Dec. 31 in one table, plus a printable."
 type: news
 publishedAt: "2026-11-18T06:10:00-05:00"
-updatedAt: "2026-11-18T06:10:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is ollie's open on thanksgiving 2026", "ollie's black friday 2026", "ollie's black friday hours", "ollie's christmas eve hours 2026"]
@@ -19,7 +19,7 @@ assets:
     group: ollies-holiday-hours-2026
     title: "Ollie's Holiday Hours 2026: Nov. 26 to Dec. 31"
     subtitle: "Closed Thanksgiving and Christmas Day, with every store hour between"
-    note: "Source: Ollie's Bargain Outlet, 2026 Holiday Store Hours page, read Nov. 18, 2026. Local store time; check the store locator for your store."
+    note: "Source: Ollie's Bargain Outlet, 2026 Holiday Store Hours page. Local store time; check the store locator for your store."
     description: "One-page Ollie's Bargain Outlet 2026 holiday hours sheet: Black Friday 5 a.m. opening, Thanksgiving and Christmas Day closures, hours through Dec. 31."
     alt: "Printable Ollie's Bargain Outlet 2026 holiday hours table, closed Nov. 26 and Dec. 25, Black Friday 5 a.m. to 10 p.m."
     data:
@@ -48,8 +48,8 @@ assets:
         - { cells: { date: "Thu., Dec. 31, New Year's Eve", hours: "9 a.m.-6 p.m." }, src: 1 }
       note: "From Jan. 1, regular hours return: Monday to Saturday 9 a.m.-9 p.m., Sunday 10 a.m.-7 p.m."
       unconfirmed:
-        - { label: "Ollie's Army Night offers, Sun., Dec. 13", why: "Ollie's has not announced them as of Nov. 18, 2026" }
-        - { label: "Daily deal and doorbuster items and prices", why: "Ollie's has not announced them as of Nov. 18, 2026" }
+        - { label: "Ollie's Army Night offers, Sun., Dec. 13", why: "Ollie's has not announced them" }
+        - { label: "Black Friday doorbuster items and prices, Nov. 27", why: "Ollie's has not announced them" }
 hero:
   src: ../../../../assets/news/ollies-black-friday-2026-hours-thanksgiving-closed-daily-deals/ollies-black-friday-2026-hours-thanksgiving-closed-daily-deals.webp
   alt: "Is Ollie's open on Thanksgiving 2026: front of an Ollie's Bargain Outlet store in Valdosta, Georgia, file photo"
@@ -64,8 +64,8 @@ hero:
 summary:
   - "Ollie's holiday calendar lists its stores closed on Thanksgiving, Thursday, Nov. 26, 2026, and open 5 a.m. to 10 p.m. on Black Friday, Nov. 27."
   - "Christmas Eve hours are 8 a.m. to 6 p.m., Christmas Day is closed and New Year's Eve hours are 9 a.m. to 6 p.m."
-  - "Ollie's says a new brand-name Daily Deal Reveal runs each day from Nov. 22 through Nov. 25."
-  - "Ollie's has not announced the deal items, doorbuster prices or Ollie's Army Night offers."
+  - "Ollie's ran a new brand-name Daily Deal Reveal each day from Nov. 22 through Nov. 25, ending with Royal Dansk butter cookies at $1.50 on Wednesday, Nov. 25."
+  - "Ollie's has not announced the Black Friday doorbuster items, their prices or Ollie's Army Night offers."
 sources:
   - title: "Ollie's 2026 Holiday Store Hours"
     url: "https://www.ollies.com/pages/ollies-2026-holiday-store-hours"
@@ -78,7 +78,23 @@ sources:
   - title: "Ollie's Army Recruitment Office"
     url: "https://www.ollies.com/pages/ollies-army-recruitment-office"
     publisher: "Ollie's Bargain Outlet"
-    date: "2026-11-18"
+    date: "2026-11-25"
+  - title: "Chefii 6 Qt. Digital Slow Cooker (Early Black Friday Deal Reveal)"
+    url: "https://www.ollies.com/blogs/deals/chefii-6-qt-digital-slow-cooker"
+    publisher: "Ollie's Bargain Outlet"
+    date: "2026-11-25"
+  - title: "2 Pk. Energizer Head Lamps (Early Black Friday Deal Reveal)"
+    url: "https://www.ollies.com/blogs/deals/2-pk-energizer-head-lamps"
+    publisher: "Ollie's Bargain Outlet"
+    date: "2026-11-25"
+  - title: "35 Inch Christmas Blow Molds (Early Black Friday Deal Reveal)"
+    url: "https://www.ollies.com/blogs/deals/35-christmas-blow-molds"
+    publisher: "Ollie's Bargain Outlet"
+    date: "2026-11-25"
+  - title: "5.64 oz. Royal Dansk Butter Cookies (Early Black Friday Deal Reveal)"
+    url: "https://www.ollies.com/blogs/deals/5-64-oz-royal-dansk-butter-cookies"
+    publisher: "Ollie's Bargain Outlet"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -99,7 +115,7 @@ downloads:
 draft: false
 ---
 
-**Ollie's Bargain Outlet closes its stores on Thanksgiving, Thursday, Nov. 26, 2026, and opens from 5 a.m. to 10 p.m. on Black Friday, Nov. 27, according to the chain's 2026 holiday store hours calendar.** The calendar covers Nov. 26 through Dec. 31, and Ollie's posts it as an image. The full list is written out below, with the Daily Deal Reveals that start Nov. 22.
+**Ollie's Bargain Outlet closes its stores on Thanksgiving, Thursday, Nov. 26, 2026, and opens from 5 a.m. to 10 p.m. on Black Friday, Nov. 27, according to the chain's 2026 holiday store hours calendar.** The calendar covers Nov. 26 through Dec. 31, and Ollie's posts it as an image. The full list is written out below, with the Daily Deal Reveals that ran Nov. 22 to Nov. 25.
 
 ## Ollie's holiday store hours, Nov. 26 to Dec. 31
 
@@ -146,11 +162,13 @@ Ollie's release dated Nov. 16, 2026 from Harrisburg, Pa., says the chain is "fea
 
 | Date | What Ollie's says |
 |---|---|
-| Sun., Nov. 22 to Wed., Nov. 25 | A new brand-name bargain each day (Daily Deal Reveals) |
+| Sun., Nov. 22 | First Early Black Friday Deal Reveal: Chefii 6 Qt. Digital Slow Cooker, $19.99 (Ollie's lists "theirs" at $39.99) |
+| Mon., Nov. 23 and Tue., Nov. 24 | 2 Pk. Energizer Head Lamps with 4 AAA batteries, $4.99 ("theirs" $14.99), and 35-inch lighted Christmas blow molds, $29.99 each ("theirs" $69.99) |
+| Wed., Nov. 25 | Final reveal: 5.64 oz. Royal Dansk Butter Cookies, $1.50 ("theirs" $3.49) |
 | Thu., Nov. 26 | Stores closed |
 | Fri., Nov. 27 | Black Friday doorbusters, stores open 5 a.m.-10 p.m. |
 
-The release says gifts, toys, décor and holiday essentials are "up to 70% off," a comparison Ollie's makes with "the fancy stores' prices." Ollie's has not announced which items are the daily deals or doorbusters, or any prices.
+Ollie's deal pages do not say which day the head lamps or the blow molds were revealed, only that they came between the first and the final reveal. The release says gifts, toys, décor and holiday essentials are "up to 70% off," a comparison Ollie's makes with "the fancy stores' prices." Ollie's has not announced the Black Friday doorbuster items or any doorbuster prices.
 
 Ollie's also cites its 2026 Holiday Shopper Survey: 85% of respondents say bargains are very or extremely important to stretching holiday budgets, and 78% want deep discounts earlier in the season or shop for bargains before Black Friday. The release does not give the survey's sample size, dates or firm. As of Aug. 1, 2026, Ollie's operated 686 stores in 36 states.
 
@@ -160,7 +178,6 @@ The calendar lists "Ollie's Army Night" from 5 p.m. to 9 p.m. on Sunday, Dec. 13
 
 ## What has Ollie's not announced?
 
-- Which items are the Daily Deal Reveals Nov. 22 to Nov. 25
 - Doorbuster items and prices for Nov. 27
 - Ollie's Army Night offers on Dec. 13
 - Hours beyond "regular hours resume" from Jan. 1

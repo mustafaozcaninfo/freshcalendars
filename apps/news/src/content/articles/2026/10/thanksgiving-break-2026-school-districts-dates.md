@@ -2,7 +2,7 @@
 title: "Thanksgiving 2026 School Break: 52 of 81 Districts Off Nov. 23-27"
 description: "Thanksgiving 2026 school break: 52 of 81 districts are off Nov. 23-27, 18 from Nov. 25, and 11 only Nov. 26-27. A free printable lists 60 of them."
 type: news
-updatedAt: "2026-11-14T15:08:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 publishedAt: "2026-10-22T13:10:00-04:00"
 authors: [aaron-kessler]
 category: school-calendars
@@ -321,7 +321,7 @@ sources:
   - title: "2026-27 School Year Dates"
     url: "https://www.seattleschools.org/school-year-dates"
     publisher: "Seattle Public Schools"
-    date: "2026-11-14"
+    date: "2026-11-25"
   - title: "2026-27 School Year Calendar"
     url: "https://resources.finalsite.net/images/v1781034912/asdk12org/oepf6wk9lxaj6widuixy/26-27_Accessible.pdf"
     publisher: "Anchorage School District"
@@ -540,14 +540,14 @@ Los Angeles Unified's board-approved calendar names only Nov. 26-27 as the Thank
 
 ## Districts that start on Wednesday
 
-Clark County, which covers Las Vegas, has no school on Wednesday, Nov. 25. The district also lists that day as its first contingency day, so it could become a school day if the district needs to make up lost time. Fairfax County, Wake County and Charlotte-Mecklenburg also close Nov. 25-27, with classes on Monday and Tuesday. The School District of Philadelphia lists Wednesday, Nov. 25 as a staff professional development day with school closed for students, followed by Thanksgiving Recess on Nov. 26-27, so students are off three days. Its calendar does not list Nov. 23-24 as closed. DC Public Schools, Prince George's County, Jefferson County, Ky., and Virginia Beach also close Nov. 25-27. Guilford County, N.C., lists Nov. 25 as a teacher workday within its Thanksgiving break for students, and Howard County, Md., dismisses students early on Nov. 23 and 24 before its Nov. 25-27 break. Seven more districts also close Nov. 25-27: Fayette County (Lexington), Ky.; Knox County, Tenn.; Greenville County, S.C.; Minneapolis; Madison, Wis.; Salem-Keizer, Ore.; and Washoe County, Nev. Madison also lists Monday, Nov. 30 as a staff-only day with no school.
+Clark County, which covers Las Vegas, has no school on Wednesday, Nov. 25. The district also lists that day as its first contingency day, so it could become a school day if the district needs to make up lost time. Fairfax County, Wake County and Charlotte-Mecklenburg also close Nov. 25-27, with classes on Monday and Tuesday. The School District of Philadelphia lists Wednesday, Nov. 25 as a staff professional development day with school closed for students, followed by Thanksgiving Recess on Nov. 26-27, so students are off three days. Its calendar does not list Nov. 23-24 as closed. DC Public Schools, Prince George's County, Jefferson County, Ky., and Virginia Beach also close Nov. 25-27. Guilford County, N.C., lists Nov. 25 as a teacher workday within its Thanksgiving break for students, and Howard County, Md., dismissed students early on Nov. 23 and 24 before its Nov. 25-27 break. Seven more districts also close Nov. 25-27: Fayette County (Lexington), Ky.; Knox County, Tenn.; Greenville County, S.C.; Minneapolis; Madison, Wis.; Salem-Keizer, Ore.; and Washoe County, Nev. Madison also lists Monday, Nov. 30 as a staff-only day with no school.
 
 ## Districts with school until Wednesday
 
 - **New York City Public Schools** close for Thanksgiving recess on Nov. 26 and 27 only. The [NYC public schools calendar](/news/nyc-public-schools-calendar-2026-27-breaks-holidays/) has every other day off this year.
 - **Chicago Public Schools** close Nov. 26 and 27. See the [Chicago Public Schools calendar](/news/chicago-public-schools-calendar-2026-27-breaks/) for the rest of the year.
 - **Baltimore County, Md.,** Boston and Hawaii also close only Nov. 26-27. In Baltimore County, Wednesday, Nov. 25 is a school day with early dismissal, 3 hours early, per its calendar.
-- **Seattle** closes all schools Nov. 26-27, and its district calendar also lists Nov. 23-25 as Family-Teacher conference days with no school for elementary and K-8 schools; middle and high schools are open unless a school says otherwise.
+- **Seattle** closes all schools Nov. 26-27, and its district calendar also lists Nov. 23-25 as Family-Teacher conference days with no school for elementary and K-8 schools; the district's page adds that some middle schools also close for one day, so check your school's website.
 - **Anchorage, Newark, Pittsburgh and Saint Paul** also close only Nov. 26-27. Newark dismisses students and staff at 1 p.m. on Wednesday, Nov. 25.
 - **Montgomery County, Md.,** closes Nov. 26 and 27 and dismisses students early on Monday, Tuesday and Wednesday, Nov. 23, 24 and 25. The [Montgomery County Public Schools calendar](/news/montgomery-county-public-schools-calendar-2026-27-breaks/) has the rest of the year.
 
@@ -557,7 +557,7 @@ Of the 24 districts in the chart, 21 reopen on **Monday, Nov. 30**; the linked d
 
 ## Plan the week
 
-- **Turkey timing:** If your children are home all week, a frozen turkey can thaw in the refrigerator while they are off. The [turkey thawing schedule](/news/when-to-thaw-thanksgiving-turkey-2026/) gives start dates by weight.
+- **Turkey timing:** The [turkey thawing schedule](/news/when-to-thaw-thanksgiving-turkey-2026/) gives start dates by weight for the Nov. 26 meal.
 - **What's on TV:** The 100th Macy's parade, the first National Football League (NFL) game on Thanksgiving Eve and the Black Friday game are in our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
 - **Next break:** Most of these districts close again from Dec. 21. The [winter break 2026](/news/winter-break-2026-school-districts-dates/) story lists each district's dates and return day.
 

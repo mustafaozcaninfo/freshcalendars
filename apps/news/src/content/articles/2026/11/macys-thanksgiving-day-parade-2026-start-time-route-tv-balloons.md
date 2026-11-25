@@ -3,7 +3,7 @@ title: "Macy's Thanksgiving Day Parade 2026 Time: 8:30 a.m. ET, Nov. 26"
 description: "The Macy's Thanksgiving Day Parade 2026 starts at 8:30 a.m. ET on Thursday, Nov. 26, on NBC, Peacock and Telemundo. Route and times by U.S. zone."
 type: explainer
 publishedAt: "2026-11-02T07:09:00-05:00"
-updatedAt: "2026-11-13T16:07:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["macys thanksgiving day parade 2026", "macys parade route 2026", "what time does the macys parade start 2026", "100th macys parade"]
@@ -23,7 +23,7 @@ summary:
   - "The 100th Macy's Thanksgiving Day Parade runs from 8:30 a.m. to noon Eastern Time (ET) on Thursday, Nov. 26, 2026, per Time Out New York and CentralPark.com."
   - "NBC and Peacock carry it live, and so does Telemundo, per NBCUniversal. The broadcast starts at 8:30 a.m. in all time zones, so viewers outside the Eastern zone see it at 8:30 a.m. local time. An encore airs at 2 p.m. ET/PT."
   - "Both guides give the same route: West 77th Street and Central Park West, south to Columbus Circle, east on Central Park South, south on Sixth Avenue and west on 34th Street to Herald Square."
-  - "Savannah Guthrie, Hoda Kotb and Al Roker host. NBCUniversal named Megan Moroney and Teddy Swims as headliners, with Queen Latifah and Jimmy Fallon & The Roots on floats. Macy's, Inc. says the lineup has 100 inflatables. More talent is still to be announced."
+  - "Savannah Guthrie, Hoda Kotb and Al Roker host. NBCUniversal named Megan Moroney and Teddy Swims as headliners, with Queen Latifah and Jimmy Fallon & The Roots on floats. Macy's, Inc. says the lineup has 100 inflatables. NBC Insider adds Raye as the opening act and a Broadway medley by the casts of nine musicals."
 faq:
   - q: "What time does the Macy's Thanksgiving Day Parade start in 2026?"
     a: "NBCUniversal says 8:30 a.m. in all time zones on Thursday, Nov. 26, 2026. Time Out New York and CentralPark.com list 8:30 a.m. to noon Eastern Time (ET)."
@@ -32,7 +32,7 @@ faq:
   - q: "What is the Macy's parade route in 2026?"
     a: "It steps off at West 77th Street and Central Park West, goes south to Columbus Circle, east on Central Park South, south on Sixth Avenue to 34th Street and west to Macy's Herald Square at Seventh Avenue. Macy's own 2026 route map was not reachable."
   - q: "Who performs in the 2026 Macy's parade?"
-    a: "NBCUniversal named Megan Moroney and Teddy Swims at Herald Square. Float performers include Natasha Bedingfield, Jimmy Fallon & The Roots, Queen Latifah, Keke Palmer, Anthony Ramos, Il Volo, Indigo Girls and Smash Mouth, with a Dolly Parton tribute led by Megan Hilty. More talent, including Broadway performances, is still to be announced."
+    a: "NBCUniversal named Megan Moroney and Teddy Swims at Herald Square. Float performers include Natasha Bedingfield, Jimmy Fallon & The Roots, Queen Latifah, Keke Palmer, Anthony Ramos, Il Volo, Indigo Girls, Devo, Riize and Smash Mouth, with a Dolly Parton tribute led by Megan Hilty. NBC Insider says Raye opens the parade and the casts of nine Broadway musicals perform a 10-minute medley."
   - q: "Who hosts the Macy's parade broadcast in 2026?"
     a: "Savannah Guthrie, Hoda Kotb and Al Roker return as hosts on NBC, per NBCUniversal. Telemundo's Spanish-language simulcast is hosted by Andrea Meza, Aleyda Ortiz and Clovis Nienow."
   - q: "Which balloons and floats are in the 2026 Macy's parade?"
@@ -43,11 +43,11 @@ sources:
   - title: "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions"
     url: "https://www.nbcuniversal.com/article/100th-macys-thanksgiving-day-parade-returns-live-nbc-and-peacock-nov-26-bringing-holiday-magic-life"
     publisher: "NBCUniversal"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Everything to Know About the 2026 Macy's Thanksgiving Day Parade"
     url: "https://www.nbc.com/nbc-insider/2026-macys-thanksgiving-day-parade-everything-to-know"
     publisher: "NBC Insider"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Macy's Kicks Off the 100-Day Countdown to the 100th Macy's Thanksgiving Day Parade"
     url: "https://www.macysinc.com/newsroom/news/news-details/2026/Macys-Kicks-Off-the-100-Day-Countdown-to-the-100th-Macys-Thanksgiving-Day-Parade/default.aspx"
     publisher: "Macy's, Inc."
@@ -128,7 +128,7 @@ The parade is live in New York at 8:30 a.m. ET. NBCUniversal says the telecast s
 | Alaska Time (AKT) | 4:30 a.m. | 8:30 a.m. |
 | Hawaii-Aleutian Time (HT) | 3:30 a.m. | 8:30 a.m. |
 
-NBCUniversal says the parade airs on NBC and Peacock, and live on Telemundo, with an encore on NBC at 2 p.m. ET/PT. Both guides list NBC from 8:30 a.m. to noon. NBCUniversal also says the NBC broadcast has live audio description on the Secondary Audio Program (SAP) channel. A countdown special airs Wednesday, Nov. 25 at 8 p.m. ET/PT on NBC and Peacock, and the documentary "America's Parade: 100 Years of Macy's Thanksgiving Day Parade" airs Friday, Nov. 20 at 9 p.m. ET/PT on NBC, streaming on Peacock the next day. The full Thanksgiving week TV lineup, with the NFL games, is in our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
+NBCUniversal says the parade airs on NBC and Peacock, and live on Telemundo, with an encore on NBC at 2 p.m. ET/PT. Both guides list NBC from 8:30 a.m. to noon. NBCUniversal also says the NBC broadcast has live audio description on the Secondary Audio Program (SAP) channel. A countdown special airs Wednesday, Nov. 25 at 8 p.m. ET/PT on NBC and Peacock, and the documentary "America's Parade: 100 Years of Macy's Thanksgiving Day Parade" was scheduled for Friday, Nov. 20 at 9 p.m. ET/PT on NBC, with streaming on Peacock the next day. The full Thanksgiving week TV lineup, with the NFL games, is in our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
 
 ## What is the Macy's parade route in 2026?
 
@@ -174,13 +174,15 @@ Macy's, Inc. announced "a record-breaking lineup of 100 inflatable elements" for
 
 NBCUniversal says the Today show's Savannah Guthrie, Hoda Kotb and Al Roker return as hosts. Telemundo's Spanish-language simulcast is hosted by Andrea Meza, Aleyda Ortiz and Clovis Nienow.
 
-Megan Moroney and Teddy Swims perform from Macy's Herald Square flagship. Float performances include Baha Men, Natasha Bedingfield, Blues Traveler, Feid, Mckenna Grace, Icona Pop, Il Volo, Indigo Girls, Jimmy Fallon & The Roots, JoJo, Wyclef Jean, Queen Latifah, Natalie Merchant, Jamie Miller, Ryan Peter Murphy, Leslie Odom Jr., Keke Palmer, Anthony Ramos and Smash Mouth. Megan Hilty leads a tribute to Dolly Parton. Special appearances come from Melissa Joan Hart, Jack McBrayer, Janet McTeer, and Holly Robinson Peete and Rodney Peete.
+Megan Moroney and Teddy Swims perform from Macy's Herald Square flagship. Float performances include Baha Men, Natasha Bedingfield, Blues Traveler, Devo, Ejae, Feid, Mckenna Grace, Icona Pop, Il Volo, Indigo Girls, Jimmy Fallon & The Roots, JoJo, Wyclef Jean, Queen Latifah, Natalie Merchant, Jamie Miller, Ryan Peter Murphy, Leslie Odom Jr., Keke Palmer, Anthony Ramos, Riize and Smash Mouth. NBC Insider says Raye opens the parade. Megan Hilty leads a tribute to Dolly Parton. Special appearances come from Melissa Joan Hart, Jack McBrayer, Janet McTeer, and Holly Robinson Peete and Rodney Peete.
+
+For the Broadway segment, NBC Insider says the casts of The Book of Mormon, Chicago, Disney's Aladdin, Hamilton, The Lost Boys, Rent, Richard O'Brien's The Rocky Horror Show, Schmigadoon! and Wicked unite for a 10-minute medley introduced by Julianne Hough.
 
 The marching bands, per NBCUniversal, are from Concord Community High School (Elkhart, Indiana), Dobyns-Bennett High School (Kingsport, Tennessee), James F. Byrnes High School (Duncan, South Carolina), the Nā Koa Aliʻi Aloha All-State Marching Band (Hawaii), Pearland High School (Texas), the University of Alabama, the University of Connecticut and the University of Illinois, plus Macy's Great American Marching Band and the New York Police Department (NYPD) Marching Band.
 
 ## What is still to be announced for the 2026 parade?
 
-- **More performers:** NBCUniversal says additional talent, including Broadway performances, will be announced in the coming weeks.
+- **Late talent changes:** NBCUniversal and NBC Insider published the lineup above; any change comes from NBC on parade morning.
 - **Balloon inflation hours:** not confirmed by a Macy's page we could reach.
 - **Subway service:** the Metropolitan Transportation Authority (MTA) has not posted a 2026 Thanksgiving service notice that we could find.
 - **Spanish-language coverage:** Macy's has not confirmed a Spanish-language broadcast on a page we could reach.

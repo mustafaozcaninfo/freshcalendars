@@ -3,7 +3,7 @@ title: "Restaurants Open on Thanksgiving 2026: Bob Evans 8 a.m.-7 p.m."
 description: "Restaurants open on Thanksgiving 2026 (Thu., Nov. 26): Chick-fil-A is closed. Pickup windows, order deadlines and a printable list by chain."
 type: news
 publishedAt: "2026-11-11T23:30:00-05:00"
-updatedAt: "2026-11-23T14:46:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["restaurants open on thanksgiving 2026", "what restaurants are open thanksgiving day", "is cracker barrel open on thanksgiving", "is chick-fil-a open on thanksgiving"]
@@ -53,7 +53,7 @@ hero:
 summary:
   - "Bob Evans says its dining rooms are open on Thanksgiving, Thu., Nov. 26, 2026, from 8 a.m. to 7 p.m., and that Nov. 25 is the last day to order a Farmhouse Feast."
   - "Chick-fil-A says all U.S. restaurants are closed on Thanksgiving; the page describes a standing policy, not a 2026 notice."
-  - "The Capital Grille takes pre-orders until Nov. 24; Maggiano's asks for orders 24 hours before pickup on Nov. 25 or Nov. 26."
+  - "The Capital Grille's pre-order deadline was Nov. 24; Maggiano's asks for orders 24 hours before pickup on Nov. 25 or Nov. 26."
   - "Denny's, Waffle House, International House of Pancakes (IHOP) and Golden Corral have no confirmed Thanksgiving hours yet; call your local restaurant."
 faq:
   - q: "Is Cracker Barrel open on Thanksgiving 2026?"
@@ -63,7 +63,7 @@ faq:
   - q: "Is Denny's open on Thanksgiving 2026?"
     a: "Not confirmed. Denny's website blocked our automated check, and no second newsroom confirmed its 2026 hours. Franchise hours vary, so call the location before you drive."
   - q: "Can I order a Thanksgiving meal from a restaurant for pickup?"
-    a: "Yes at four chains with official pages. Bob Evans takes Farmhouse Feast orders until Nov. 25, The Capital Grille pickup is Nov. 25 and 26 with pre-orders by Nov. 24, Maggiano's has bundles for Nov. 25 and 26, and Morton's lists pickup on Nov. 25."
+    a: "Yes at four chains with official pages. Bob Evans takes Farmhouse Feast orders until Nov. 25, The Capital Grille pickup is Nov. 25 and 26 (pre-order deadline was Nov. 24), Maggiano's has bundles for Nov. 25 and 26, and Morton's lists pickup on Nov. 25."
 sources:
   - title: "Bob Evans | Thanksgiving Dinner Near Me | Open On Thanksgiving"
     url: "https://www.bobevans.com/thanksgiving"
@@ -71,15 +71,18 @@ sources:
   - title: "Thanksgiving at Maggiano's"
     url: "https://maggianos.com/thanksgiving2026"
     publisher: "Maggiano's Little Italy"
+    date: "2026-11-25"
   - title: "Morton's The Steakhouse"
     url: "https://www.mortons.com/"
     publisher: "Morton's The Steakhouse"
   - title: "We're Hosting Thanksgiving Dinner | The Capital Grille"
     url: "https://www.thecapitalgrille.com/events/thanksgiving-dinner-menu"
     publisher: "The Capital Grille"
+    date: "2026-11-25"
   - title: "Are Chick-fil-A restaurants open on Thanksgiving?"
     url: "https://www.chick-fil-a.com/customer-support/who-we-are/our-restaurants/are-chick-fil-a-restaurants-open-on-thanksgiving"
     publisher: "Chick-fil-A"
+    date: "2026-11-25"
   - title: "Cracker Barrel adds new dishes to its holiday menu"
     url: "https://www.moneytalksnews.com/cracker-barrel-adds-new-dishes-to-its-holiday-menu/"
     publisher: "MoneyTalksNews"
@@ -146,7 +149,7 @@ A restaurant meal you collect has its own deadline. These come from the chains' 
 | Restaurant | Pickup | Order deadline |
 |---|---|---|
 | [Cracker Barrel](https://www.moneytalksnews.com/cracker-barrel-adds-new-dishes-to-its-holiday-menu/) Heat n' Serve | Nov. 21 to 29 | Not given in the sources we could read |
-| [The Capital Grille](https://www.thecapitalgrille.com/events/thanksgiving-dinner-menu) | Wed., Nov. 25, 9 a.m. to 5 p.m.; Thu., Nov. 26, 9 to 11 a.m. | Pre-order by Tue., Nov. 24 |
+| [The Capital Grille](https://www.thecapitalgrille.com/events/thanksgiving-dinner-menu) | Wed., Nov. 25, 9 a.m. to 5 p.m.; Thu., Nov. 26, 9 to 11 a.m. | Pre-order deadline was Tue., Nov. 24 |
 | [Maggiano's Little Italy](https://maggianos.com/thanksgiving2026) | Cold bundles Wed., Nov. 25 ($210); hot bundles Thu., Nov. 26 ($220) | Order 24 hours before the pickup time |
 | [Bob Evans](https://www.bobevans.com/thanksgiving) Farmhouse Feast | Not given | Last day to order is Wed., Nov. 25 |
 | [Morton's The Steakhouse](https://www.mortons.com/) | Signature Sides To Go, pickup only, Wed., Nov. 25, 1 to 7 p.m. local time; while supplies last | Not given; price not on the homepage |
@@ -170,7 +173,7 @@ Call the restaurant you plan to visit. Franchise locations set their own hours.
 
 ## What to know before you go
 
-- Reserve or order early: Bob Evans' feast closes Nov. 25 and The Capital Grille's pre-orders close Nov. 24.
+- Reserve or order early: Bob Evans' last day to order a feast is Wed., Nov. 25, and The Capital Grille's pre-order deadline was Tue., Nov. 24.
 - Pickup at Maggiano's, The Capital Grille and Morton's includes Wednesday, Nov. 25, a day before Thanksgiving.
 - Chick-fil-A's closed page names no year; the chain describes it as a day for its teams to spend with family and friends.
 
