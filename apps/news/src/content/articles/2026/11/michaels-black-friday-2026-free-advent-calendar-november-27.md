@@ -4,7 +4,7 @@ description: "Michaels Black Friday runs Nov. 20-29, and free advent calendars (
 type: news
 shop: craft-advent
 publishedAt: "2026-11-17T14:36:00-05:00"
-updatedAt: "2026-11-23T09:40:00-05:00"
+updatedAt: "2026-11-25T16:48:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["michaels black friday 2026", "michaels free advent calendar", "michaels countdown to craftsmas", "michaels black friday doorbusters 2026", "michaels cyber week 2026"]
@@ -52,13 +52,13 @@ hero:
 summary:
   - "Michaels says its ten-day Black Friday sale runs Nov. 20-29, 2026, with up to 70% off, followed by Cyber Week deals of up to 70% off from Nov. 30 to Dec. 5."
   - "From Black Friday, Nov. 27, stores hand out free Countdown to Craftsmas advent calendars at checkout, 500 per store; one calendar per store holds a $100 gift card."
-  - "Artificial tree pricing starts Nov. 11, and doorbusters run Nov. 25-29."
+  - "Artificial tree pricing started Nov. 11, and doorbusters run Nov. 25-29."
   - "Michaels has not announced Thanksgiving Day status or Black Friday store hours in its release."
 faq:
   - q: "Is Michaels open on Thanksgiving 2026?"
-    a: "Michaels has not said. Its Nov. 10 release does not give Thanksgiving Day status or Black Friday hours, and its store pages blocked our automated check. Look up your own store on michaels.com before you go."
+    a: "Michaels has not said. Its Nov. 10 release does not give Thanksgiving Day status or Black Friday hours, and the michaels.com pages read on Nov. 25 do not either. Look up your own store on michaels.com before you go."
   - q: "How do I get the free Michaels advent calendar?"
-    a: "Starting Black Friday, Nov. 27, stores hand out the free Countdown to Craftsmas calendar at checkout. Michaels says there are 500 per store and that they will not last long. The release says no purchase is necessary and points to official rules at michaels.com."
+    a: "Starting Black Friday, Nov. 27, stores hand out the free Countdown to Craftsmas calendar at checkout. Michaels says there are 500 per store and that they will not last long; its site says to be among the first 500 shoppers in store on Friday, Nov. 27. The official rules say no purchase is necessary, with one calendar per person while supplies last."
   - q: "When does the Michaels Black Friday sale start and end?"
     a: "The ten-day Black Friday event runs Nov. 20 to Nov. 29, 2026. Artificial Christmas trees get Black Friday pricing earlier, from Nov. 11."
   - q: "When is Michaels Cyber Week 2026?"
@@ -67,15 +67,23 @@ sources:
   - title: "Michaels Launches \"Countdown to Craftsmas\" Advent Calendar with 25 Days of Screen-Free Holiday Projects and a $10,000 Grand Prize"
     url: "https://www.prnewswire.com/news-releases/michaels-launches-countdown-to-craftsmas-advent-calendar-with-25-days-of-screen-free-holiday-projects-and-a-10-000-grand-prize-302935458.html"
     publisher: "The Michaels Companies via PR Newswire"
-    date: "2026-11-10"
+    date: "2026-11-25"
   - title: "Michaels encourages a screen-free holiday season"
     url: "https://www.retaildive.com/news/michaels-holiday-black-friday-cyber-monday/874500/"
     publisher: "Retail Dive"
-    date: "2026-11-12"
+    date: "2026-11-25"
   - title: "Michaels Fuels Creativity and Connection with Free In-Store Events and Early Black Friday Deals This Holiday Season"
     url: "https://www.prnewswire.com/news-releases/michaels-fuels-creativity-and-connection-with-free-in-store-events-and-early-black-friday-deals-this-holiday-season-302612661.html"
     publisher: "The Michaels Companies via PR Newswire"
     date: "2025-11-12"
+  - title: "Black Friday Sale | Michaels"
+    url: "https://www.michaels.com/"
+    publisher: "Michaels"
+    date: "2026-11-25"
+  - title: "Countdown to Craftsmas official rules"
+    url: "https://www.michaels.com/lp/holiday-challenge-terms-conditions"
+    publisher: "Michaels"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -100,8 +108,8 @@ draft: false
 
 | Date | Day | What Michaels published |
 |---|---|---|
-| Nov. 11, 2026 | Wednesday | Black Friday pricing starts on artificial Christmas trees |
-| Nov. 20, 2026 | Friday | Black Friday event begins; Michaels Rewards offer starts |
+| Nov. 11, 2026 | Wednesday | Black Friday pricing started on artificial Christmas trees |
+| Nov. 20, 2026 | Friday | Black Friday event began; Michaels Rewards offer started |
 | Nov. 25, 2026 | Wednesday | Limited-time doorbusters begin (to Nov. 29) |
 | Nov. 26, 2026 | Thursday | Thanksgiving: store status not announced |
 | Nov. 27, 2026 | Friday | Black Friday: free advent calendars handed out at checkout |
@@ -115,7 +123,7 @@ The weekdays are our computation. Mark the dates on the [November 2026](/novembe
 
 ## How do I get the free Michaels advent calendar?
 
-Starting Black Friday, Nov. 27, Michaels stores hand out the free Countdown to Craftsmas calendar at checkout. With just 500 per store, Michaels says, "they won't last long." Each of the 25 doors links by QR code to step-by-step tutorials, and from Dec. 1 to 25 a new door opens each day.
+Starting Black Friday, Nov. 27, Michaels stores hand out the free Countdown to Craftsmas calendar at checkout. With just 500 per store, Michaels says, "they won't last long," and its homepage tells shoppers to be among the first 500 in store on Friday, Nov. 27. Each of the 25 doors links by QR code to step-by-step tutorials, and from Dec. 1 to 25 a new door opens each day.
 
 The release says the doors reveal:
 
@@ -124,7 +132,7 @@ The release says the doors reveal:
 - Decorating and styling tips, such as hand-lettered gift tags and Christmas tree headbands.
 - Online and in-store offers on yarn, ribbon and strung beads.
 
-Select calendars also hold prize doors. One calendar in every Michaels store includes a $100 gift card, and one customer wins a $10,000 grand prize. Michaels says no purchase is necessary and points to official rules at michaels.com/lp/holiday-challenge-terms-conditions.
+Select calendars also hold prize doors. One calendar in every Michaels store includes a $100 gift card, and one customer wins a $10,000 grand prize. Michaels says no purchase is necessary. The official rules at michaels.com/lp/holiday-challenge-terms-conditions limit one calendar per person while supplies last, available during store operating hours, and set the promotion from Nov. 27 through Dec. 24, 2026 (Central time).
 
 ## Michaels Black Friday and Cyber Week discounts by category
 
@@ -143,7 +151,7 @@ Doorbusters run Nov. 25-29 and include Lexington rolling carts, Artist's Loft ca
 
 ## Is Michaels open on Thanksgiving 2026?
 
-Michaels has not said. The Nov. 10 release gives neither Thanksgiving Day status nor Black Friday opening and closing times, and michaels.com blocked our automated check of its store pages. Check your store's page before you go. For another craft chain, see [Hobby Lobby's Thanksgiving and Black Friday hours](/news/is-hobby-lobby-open-thanksgiving-2026-black-friday-hours/); for the big-box retailers, the [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/).
+Michaels has not said. The Nov. 10 release gives neither Thanksgiving Day status nor Black Friday opening and closing times, and the michaels.com pages read on Nov. 25 list none. Check your store's page before you go. For another craft chain, see [Hobby Lobby's Thanksgiving and Black Friday hours](/news/is-hobby-lobby-open-thanksgiving-2026-black-friday-hours/); for the big-box retailers, the [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/).
 
 ## How does Michaels' 2026 Black Friday compare with 2025?
 

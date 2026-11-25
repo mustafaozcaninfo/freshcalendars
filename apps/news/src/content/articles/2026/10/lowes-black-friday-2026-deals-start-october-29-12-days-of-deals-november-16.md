@@ -1,9 +1,9 @@
 ---
-title: "Lowe's Black Friday 2026: Deals Began Oct. 29, 12 Days Start Nov. 16"
-description: "Lowe's Black Friday 2026 deals began Oct. 29, and 12 Days of Deals start Nov. 16. Stores close Thanksgiving; a printable calendar lists every phase."
+title: "Lowe's Black Friday 2026: Deals Began Oct. 29, Bucket Giveaway Nov. 27"
+description: "Lowe's Black Friday 2026 deals began Oct. 29. A bucket giveaway runs Nov. 27 for rewards members; stores close Thanksgiving. A printable calendar lists every phase."
 type: news
 publishedAt: "2026-10-29T05:40:00-04:00"
-updatedAt: "2026-11-22T15:46:00-05:00"
+updatedAt: "2026-11-25T16:49:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["lowe's black friday 2026", "lowe's 12 days of deals 2026", "lowe's black friday ad 2026", "is lowe's open on thanksgiving 2026", "home depot black friday 2026"]
@@ -22,13 +22,13 @@ assets:
     rows:
       - ["Thu., Oct. 29", "Lowe's Black Friday deals begin (four weeks of deals)"]
       - ["Thu., Oct. 29", "Home Depot holiday savings begin"]
-      - ["Mon., Nov. 16", "Lowe's 12 Days of Deals begin"]
+      - ["Mon., Nov. 16", "Lowe's 12 Days of Deals began"]
       - ["Thu., Nov. 26", "Thanksgiving: stores closed, online deals; members get early online Doorbusters"]
-      - ["Fri., Nov. 27", "Black Friday: Doorbusters for everyone"]
+      - ["Fri., Nov. 27", "Black Friday: Doorbusters for everyone; Bucket of Gifts giveaway at store opening"]
       - ["Thu., Dec. 3 to Thu., Dec. 24", "December Deal Drops"]
-    note: "Source: Lowe's press release, Oct. 8, 2026; The Home Depot press release, Sept. 29, 2026, and 2026 holiday store hours. Weekdays are our computation."
-    inkSaver: true
-    description: "One-page Lowe's Black Friday 2026 deal calendar: deals from Oct. 29, 12 Days of Deals Nov. 16, Thanksgiving closure, Doorbusters Nov. 27 and December Deal Drops."
+    note: "Source: Lowe's press release, Oct. 8, 2026, and Bucket of Gifts Giveaway official rules; The Home Depot press release, Sept. 29, 2026, and 2026 holiday store hours. Weekdays are our computation."
+    noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
+    description: "One-page Lowe's Black Friday 2026 deal calendar: deals from Oct. 29, 12 Days of Deals Nov. 16, Thanksgiving closure, Doorbusters and bucket giveaway Nov. 27, December Deal Drops."
     alt: "Printable list of Lowe's 2026 holiday sale dates from Oct. 29 to Dec. 24 with weekdays"
 hero:
   src: ../../../../assets/news/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16/lowes-black-friday-2026-deals-start-october-29-12-days-of-deals-november-16.webp
@@ -42,25 +42,27 @@ hero:
     author: "Rick Obst"
 summary:
   - "Lowe's Black Friday deals started Thursday, Oct. 29, 2026, four weeks before Black Friday on Nov. 27, according to Lowe's holiday announcement of Oct. 8."
-  - "Lowe's 10 Days of Deals grows to 12 Days of Deals this year, beginning Monday, Nov. 16, with new savings each day leading up to Black Friday."
+  - "Lowe's 10 Days of Deals grew to 12 Days of Deals this year, beginning Monday, Nov. 16, with new savings each day leading up to Black Friday."
   - "Lowe's stores stay closed on Thanksgiving Day, Nov. 26, and MyLowe's Rewards and MyLowe's Pro Rewards members get online Doorbuster access a day early."
-  - "Lowe's has not published Black Friday opening hours, Doorbuster prices or Cyber deal dates, and Home Depot, which closes on Thanksgiving and opens at 6 a.m. on Black Friday, announced on Oct. 29 a Black Friday Savings Event from Nov. 5 to 25."
+  - "Lowe's official rules for its Bucket of Gifts Giveaway start it at store opening on Friday, Nov. 27 for the first 150 MyLowe's Rewards members at each store, but no hour is published, nor Doorbuster prices or Cyber deal dates. Home Depot, which closes on Thanksgiving and opens at 6 a.m. on Black Friday, announced on Oct. 29 a Black Friday Savings Event from Nov. 5 to 25."
 faq:
   - q: "When do Lowe's Black Friday 2026 deals start?"
     a: "Thursday, Oct. 29, 2026, four weeks before Black Friday, according to Lowe's holiday announcement of Oct. 8."
   - q: "When are Lowe's 12 Days of Deals in 2026?"
-    a: "They begin Monday, Nov. 16, with new savings each day leading up to Black Friday. Lowe's did not publish an end date; 12 days from Nov. 16 ends Friday, Nov. 27 by our count."
+    a: "They began Monday, Nov. 16, with new savings each day leading up to Black Friday. Lowe's did not publish an end date; 12 days from Nov. 16 ends Friday, Nov. 27 by our count."
   - q: "Is Lowe's open on Thanksgiving 2026?"
     a: "No. Lowe's says its stores will remain closed on Thanksgiving Day, Thursday, Nov. 26, while customers can shop online-only deals."
   - q: "Do MyLowe's Rewards members get Black Friday early access?"
     a: "Yes. MyLowe's Rewards and MyLowe's Pro Rewards members get exclusive early online access to Black Friday Doorbusters one day before everyone else on Nov. 27, which is Thursday, Nov. 26."
+  - q: "Is there a Lowe's Black Friday bucket giveaway in 2026?"
+    a: "Yes. Lowe's Bucket of Gifts Giveaway official rules say it runs only on Friday, Nov. 27, 2026, from store opening to closing or until the prizes are gone. The first 50 MyLowe's Rewards or MyLowe's Pro Rewards members at each store get a Bucket Prize and the next 100 get a Mini Bucket Prize. The rules give no opening hour."
   - q: "When does the Home Depot Black Friday 2026 sale start?"
     a: "The Home Depot's Oct. 29 announcement says its Black Friday Savings Event runs Nov. 5 to 25, 2026, in store and online. Its Sept. 29 release said customers could get an early jump on holiday savings beginning Oct. 29, and its 2026 holiday hours list stores closed on Thanksgiving and opening at 6 a.m. on Black Friday, Nov. 27."
 sources:
   - title: "Lowe's Unveils Holiday 2026 Lineup with New Gifts and Decor, MyLowe's Rewards Perks and Weeks of Black Friday Savings"
     url: "https://corporate.lowes.com/newsroom/press-releases/lowes-unveils-holiday-2026-lineup-new-gifts-and-decor-mylowes-rewards-perks-and-weeks-of-black-friday-savings"
     publisher: "Lowe's Companies, Inc."
-    date: "2026-10-08"
+    date: "2026-11-25"
   - title: "The Home Depot Announces 2026 Holiday Decor Collection and Seasonal Savings on Gifts for Everyone on Your List"
     url: "https://ir.homedepot.com/news-releases/2026/09-29-2026-130046472"
     publisher: "The Home Depot"
@@ -73,6 +75,10 @@ sources:
     url: "https://corporate.homedepot.com/news/company/store-holiday-hours-home-depot"
     publisher: "The Home Depot"
     date: "2026-03-30"
+  - title: "The Lowe's Bucket of Gifts Giveaway Official Rules"
+    url: "https://www.lowes.com/pdf/Black_Friday_Bucket_Giveaway.pdf"
+    publisher: "Lowe's Home Centers, LLC"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -82,33 +88,25 @@ related: [black-friday-2026-ad-tracker-walmart-target-best-buy, ace-hardware-bla
 downloads:
   - group: "Lowe's Black Friday 2026 Deal Calendar printables"
     title: "Lowe's Black Friday 2026 Deal Calendar"
-    description: "One-page Lowe's Black Friday 2026 deal calendar: deals from Oct. 29, 12 Days of Deals Nov. 16, Thanksgiving closure, Doorbusters Nov. 27 and December Deal Drops."
+    description: "One-page Lowe's Black Friday 2026 deal calendar: deals from Oct. 29, 12 Days of Deals Nov. 16, Thanksgiving closure, Doorbusters and bucket giveaway Nov. 27, December Deal Drops."
     preview: ../../../../assets/news/black-friday-2026/lowes-black-friday-2026-deal-calendar.png
     alt: "Printable list of Lowe's 2026 holiday sale dates from Oct. 29 to Dec. 24 with weekdays"
     pdf: "/news/downloads/black-friday-2026/lowes-black-friday-2026-deal-calendar.pdf"
     png: "/news/downloads/black-friday-2026/lowes-black-friday-2026-deal-calendar.png"
     pages: 1
-  - group: "Lowe's Black Friday 2026 Deal Calendar printables"
-    title: "Lowe's Black Friday 2026 Deal Calendar (ink saver)"
-    description: "One-page Lowe's Black Friday 2026 deal calendar: deals from Oct. 29, 12 Days of Deals Nov. 16, Thanksgiving closure, Doorbusters Nov. 27 and December Deal Drops. Ink-saver version."
-    preview: ../../../../assets/news/black-friday-2026/lowes-black-friday-2026-deal-calendar-ink.png
-    alt: "Printable list of Lowe's 2026 holiday sale dates from Oct. 29 to Dec. 24 with weekdays, ink-saver version"
-    pdf: "/news/downloads/black-friday-2026/lowes-black-friday-2026-deal-calendar-ink.pdf"
-    png: "/news/downloads/black-friday-2026/lowes-black-friday-2026-deal-calendar-ink.png"
-    pages: 1
 draft: false
 ---
 
-**Lowe's Black Friday deals began Thursday, Oct. 29, 2026, four weeks before Black Friday (Friday, Nov. 27), according to Lowe's holiday announcement of Oct. 8.** The Lowe's Companies, Inc. release says the retailer "is kicking off Black Friday deals Oct. 29, four weeks before Black Friday." This year its annual 10 Days of Deals grows to 12 Days of Deals, starting Monday, Nov. 16. Every phase is in the table below and on a one-page printable.
+**Lowe's Black Friday deals began Thursday, Oct. 29, 2026, four weeks before Black Friday (Friday, Nov. 27), according to Lowe's holiday announcement of Oct. 8.** The Lowe's Companies, Inc. release says the retailer "is kicking off Black Friday deals Oct. 29, four weeks before Black Friday." This year its annual 10 Days of Deals grew to 12 Days of Deals, starting Monday, Nov. 16. Every phase is in the table below and on a one-page printable.
 
 ## What are Lowe's 2026 Black Friday dates?
 
 | Date (2026) | Day | What Lowe's announced |
 |---|---|---|
 | Oct. 29 | Thursday | Four weeks of Black Friday deals begin across tools, holiday décor, appliances, outdoor power equipment and more |
-| Nov. 16 | Monday | 12 Days of Deals begin, with new savings opportunities each day leading up to Black Friday |
+| Nov. 16 | Monday | 12 Days of Deals began, with new savings opportunities each day leading up to Black Friday |
 | Nov. 26 | Thursday | Thanksgiving Day: stores closed, online-only deals; MyLowe's Rewards and MyLowe's Pro Rewards members get early online access to Doorbusters |
-| Nov. 27 | Friday | Black Friday: Doorbusters available to everyone |
+| Nov. 27 | Friday | Black Friday: Doorbusters available to everyone; Bucket of Gifts giveaway from store opening, per its official rules |
 | Dec. 3 to Dec. 24 | Thursday to Thursday | December Deal Drops, through Christmas Eve |
 | Cyber deals | Dates not listed | The release mentions extended Cyber Deals but gives no dates |
 
@@ -116,11 +114,11 @@ The weekdays are our computation. Our [Black Friday date page](/when-is/black-fr
 
 ## When do Lowe's 12 Days of Deals end?
 
-Lowe's says the 12 Days of Deals begin Nov. 16 and lead up to Black Friday. It has not published an end date. Twelve days counted from Monday, Nov. 16, end on Friday, Nov. 27 by our count, which is Black Friday itself.
+Lowe's says the 12 Days of Deals began Nov. 16 and lead up to Black Friday. It has not published an end date. Twelve days counted from Monday, Nov. 16, end on Friday, Nov. 27 by our count, which is Black Friday itself.
 
 ## Is Lowe's open on Thanksgiving 2026?
 
-No. Lowe's says: "Lowe's stores will remain closed on Thanksgiving Day so associates can spend time with their loved ones, while customers can continue to shop online-only deals." Lowe's did not give Black Friday store opening hours in the release. For retailers that have, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
+No. Lowe's says: "Lowe's stores will remain closed on Thanksgiving Day so associates can spend time with their loved ones, while customers can continue to shop online-only deals." Lowe's did not give Black Friday store opening hours in the release or in its giveaway rules. For retailers that have, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
 
 ## What do MyLowe's Rewards members get?
 
@@ -145,23 +143,29 @@ The four weeks of deals also include gifts through "Gifts Under" and free produc
 |---|---|---|
 | Release date | Oct. 8, 2026 | Sept. 29, 2026 |
 | Holiday savings start | Oct. 29 (Black Friday deals) | Oct. 29 ("an early jump on holiday savings") |
-| Black Friday event dates | Doorbusters Nov. 27; 12 Days of Deals from Nov. 16 | Black Friday Savings Event Nov. 5 to 25 (Oct. 29 announcement) |
+| Black Friday event dates | Doorbusters Nov. 27; 12 Days of Deals began Nov. 16 | Black Friday Savings Event Nov. 5 to 25 (Oct. 29 announcement) |
 | Thanksgiving Day stores | Closed | Closed |
-| Black Friday store opening | Not published | 6 a.m. |
+| Black Friday store opening | Hour not published | 6 a.m. |
 
 Both retailers start on Oct. 29 and both close on Thanksgiving Day, and each has published Black Friday event dates, though the two schedules differ. Home Depot's 2026 holiday hours page lists a 6 a.m. opening on Black Friday and notes that times can vary by location. See our [Home Depot Black Friday 2026 story](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/) for its Nov. 5 to 25 event. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Walmart, Target, Best Buy, Home Depot and Lowe's, and the [Best Buy holiday calendar](/news/best-buy-black-friday-2026-doorbusters-october-30-holiday-calendar/) lists its dates.
 
 ## Is there a Lowe's Black Friday bucket in 2026?
 
-Lowe's had not announced one as of Nov. 22, 2026. Its Holiday 2026 press release lists four weeks of Black Friday deals from Oct. 29, 12 Days of Deals from Nov. 16, early access to Black Friday Doorbusters for MyLowe's Rewards members and December Deal Drops, and it does not mention a bucket offer or giveaway. Shoppers looking for one should check the store's page for Black Friday morning, since Lowe's has also not published store opening hours for Nov. 27.
+Yes. Lowe's Bucket of Gifts Giveaway official rules say it begins at each store's opening time on Friday, Nov. 27, 2026, and ends at closing or when all 50 Bucket Prizes and 100 Mini Bucket Prizes are given out. It is open to MyLowe's Rewards and MyLowe's Pro Rewards members aged 18 or older, with one prize per account.
+
+| Place in line | Prize |
+|---|---|
+| First 50 at each store | Bucket Prize, valued up to $100.00, with offers; four buckets hold a prize certificate |
+| Next 100 at each store | Mini Bucket Prize with offers, valued at $9.95 |
+
+The certificates are for a major appliance priced $1,999.99 or less, a Craftsman tool with a starter kit, an Ego tool or a Blackstone griddle. All must be redeemed by Nov. 29, 2026. The rules give no opening hour, and the Lowe's holiday release does not either.
 
 ## What has not been announced?
 
-- A Black Friday bucket offer or giveaway.
 - Black Friday store opening hours at Lowe's.
 - Doorbuster prices.
 - Dates for Cyber deals.
 
 ## Print the Lowe's Black Friday deal calendar
 
-Our free one-page printable lists every Lowe's date above plus Home Depot's Oct. 29 start, with weekdays. There is a standard version and an ink-saver version for home printers.
+Our free one-page printable lists every Lowe's date above plus Home Depot's Oct. 29 start, with weekdays.

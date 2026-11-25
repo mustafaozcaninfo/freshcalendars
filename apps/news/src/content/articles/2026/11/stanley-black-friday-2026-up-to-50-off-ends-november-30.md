@@ -3,7 +3,7 @@ title: "Stanley Black Friday 2026: Up to 50% Off, Ends Nov. 30"
 description: "Stanley's Black Friday sale ends Nov. 30 at 11:59 p.m. PST. See the end time in every US zone, prices for 20 tumblers and bottles, and a free printable."
 type: news
 publishedAt: "2026-11-22T08:40:00-05:00"
-updatedAt: "2026-11-22T08:40:00-05:00"
+updatedAt: "2026-11-25T16:48:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["stanley black friday 2026", "stanley cup black friday sale", "stanley quencher black friday", "stanley sale ends"]
@@ -18,17 +18,17 @@ assets:
     group: stanley-black-friday-2026
     title: "Stanley Black Friday 2026 Deadlines"
     subtitle: "Club offer, sale end and shipping dates, 11:59 p.m. PST"
-    note: "Source: Stanley 1913 (stanley1913.com), read Nov. 22, 2026. Times are PST; 11:59 p.m. PST is 2:59 a.m. ET the next day. Exclusions apply."
-    description: "One-page Stanley Black Friday 2026 sheet: the Nov. 22 club offer end, the Nov. 30 sale end and the Dec. 15 order-by date."
-    alt: "Printable Stanley Black Friday 2026 deadline sheet with dates Nov. 22, Nov. 30 and Dec. 15"
+    note: "Source: Stanley 1913 (stanley1913.com). Times are PST; 11:59 p.m. PST is 2:59 a.m. ET the next day. Exclusions apply."
+    description: "One-page Stanley Black Friday 2026 sheet: the Nov. 26 club free shipping end, the Nov. 30 sale end and the Dec. 15 order-by date."
+    alt: "Printable Stanley Black Friday 2026 deadline sheet with dates Nov. 26, Nov. 30 and Dec. 15"
     data:
       target: { date: "2026-12-15", label: "Order by for Dec. 24 delivery" }
       columns: ["Sale", "Shipping"]
       rows:
-        - date: "2026-11-22"
-          cells: { Sale: "Club extra 10% off sale items ends" }
+        - date: "2026-11-26"
+          cells: { Sale: "Club free shipping offer ends" }
           src: 1
-          quote: "Ends 11/22 at 11:59 PM PST [Nov. 22]"
+          quote: "Ends 11/26 at 11:59 PM PST [Nov. 26]"
         - date: "2026-11-30"
           cells: { Sale: "Up to 50% off sale ends, 11:59 p.m. PST" }
           src: 1
@@ -53,16 +53,16 @@ hero:
     authorUrl: "https://wordpress.org/photos/author/vanshikawadhwa/"
 summary:
   - "Stanley's Black Friday sale, billed as up to 50% off with exclusions, ends Nov. 30, 2026 at 11:59 p.m. PST, which is 2:59 a.m. ET on Dec. 1."
-  - "The Quencher H2.0 FlowState 40 oz lists at $45 and starts at $22.50 in some colors, 50% off, per Stanley's sale listings read Nov. 22."
-  - "Stanley's club offer of an extra 10% off sale items for logged-in account members ends Nov. 22 at 11:59 p.m. PST."
+  - "The Quencher H2.0 FlowState 40 oz lists at $45 and starts at $22.50 in some colors, 50% off, per Stanley's sale listings."
+  - "Stanley's club offer of free shipping for logged-in account members ends Nov. 26 at 11:59 p.m. PST. The earlier extra 10% off sale items offer ended Nov. 22."
   - "Shipping is free on orders over $50, and Stanley says orders placed by Dec. 15 get guaranteed standard delivery by Dec. 24."
 faq:
   - q: "When does the Stanley Black Friday sale start?"
-    a: "Stanley's homepage and sale page did not state a start date when we read them on Nov. 22, 2026, and neither shows a year."
+    a: "Stanley's homepage and sale page did not state a start date when we read them on Nov. 25, 2026, and neither shows a year."
   - q: "Is every color of a Stanley tumbler on sale?"
     a: "No. Stanley's listings show discounts by color. The Quencher H2.0 FlowState 40 oz has 16 of 29 colors on sale, and the other colors stay at the regular price."
-  - q: "Does the extra 10% club offer still apply?"
-    a: "Only through Nov. 22. Stanley says logged-in account members save an extra 10% off sale items, applied at checkout, until 11:59 p.m. PST that day."
+  - q: "Is there a Stanley club offer for Black Friday?"
+    a: "Yes, through Nov. 26. Stanley says Stanley 1913 Club members save with free shipping, auto-applied at checkout when logged into an account, until 11:59 p.m. PST that day. The earlier extra 10% off sale items offer ended Nov. 22."
   - q: "Is shipping free on Stanley orders?"
     a: "Stanley lists free shipping on all orders over $50. Orders placed by Dec. 15 are guaranteed standard shipping, with delivery by Dec. 24."
   - q: "Which Stanley items are excluded from the sale?"
@@ -71,15 +71,15 @@ sources:
   - title: "Stanley 1913 Drinkware & Gear | Bottles, Tumblers, Growlers & More"
     url: "https://www.stanley1913.com/"
     publisher: "Stanley 1913"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Deals on Stainless Steel Tumblers, Water Bottles & More - Stanley 1913"
     url: "https://www.stanley1913.com/collections/sale"
     publisher: "Stanley 1913"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Stanley 1913 sale collection product data"
     url: "https://www.stanley1913.com/collections/sale/products.json"
     publisher: "Stanley 1913"
-    date: "2026-11-22"
+    date: "2026-11-25"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -91,16 +91,16 @@ related: [cyber-monday-2026-date-sale-start-times-by-store, black-friday-2026-sh
 downloads:
   - group: "Stanley Black Friday 2026 Deadlines printables"
     title: "Stanley Black Friday 2026 Deadlines"
-    description: "One-page Stanley Black Friday 2026 sheet: the Nov. 22 club offer end, the Nov. 30 sale end and the Dec. 15 order-by date."
+    description: "One-page Stanley Black Friday 2026 sheet: the Nov. 26 club free shipping end, the Nov. 30 sale end and the Dec. 15 order-by date."
     preview: ../../../../assets/news/stanley-black-friday-2026/stanley-black-friday-2026-deadlines.png
-    alt: "Printable Stanley Black Friday 2026 deadline sheet with dates Nov. 22, Nov. 30 and Dec. 15"
+    alt: "Printable Stanley Black Friday 2026 deadline sheet with dates Nov. 26, Nov. 30 and Dec. 15"
     pdf: "/news/downloads/stanley-black-friday-2026/stanley-black-friday-2026-deadlines.pdf"
     png: "/news/downloads/stanley-black-friday-2026/stanley-black-friday-2026-deadlines.png"
     pages: 1
 draft: false
 ---
 
-**Stanley's Black Friday sale, advertised as "Up to 50% off," ends Nov. 30, 2026 at 11:59 p.m. Pacific Standard Time (PST), according to the homepage of stanley1913.com, which we read on Nov. 22.** That is 2:59 a.m. ET on Tuesday, Dec. 1. The homepage adds "Exclusions apply" and gives no start date. The table below converts the deadline for every US time zone and lists prices for 20 tumblers, bottles, mugs and jugs, with the percent off worked out from Stanley's own listed prices.
+**Stanley's Black Friday sale, advertised as "Up to 50% off," ends Nov. 30, 2026 at 11:59 p.m. Pacific Standard Time (PST), according to the homepage of stanley1913.com, which we read on Nov. 25.** That is 2:59 a.m. ET on Tuesday, Dec. 1. The homepage adds "Exclusions apply" and gives no start date. The table below converts the deadline for every US time zone and lists prices for 20 tumblers, bottles, mugs and jugs, with the percent off worked out from Stanley's own listed prices.
 
 ## When does the Stanley Black Friday sale end in each time zone?
 
@@ -119,7 +119,7 @@ Stanley states the deadline in Pacific time. The [Cyber Monday 2026 guide](/news
 
 ## Stanley Quencher and tumbler prices in the Black Friday sale
 
-Prices below come from the data feed behind Stanley's sale page (stanley1913.com/collections/sale/products.json), read on the morning of Nov. 22. "Regular" is the price Stanley lists as the compare-at price. "Lowest sale" is the lowest price across colors, and the percent off is calculated from those two figures. Discounts vary by color: only some colors are marked down, and the rest stay at full price. Prices can change after Nov. 22.
+Prices below come from the data feed behind Stanley's sale page (stanley1913.com/collections/sale/products.json), read on Nov. 25. "Regular" is the price Stanley lists as the compare-at price. "Lowest sale" is the lowest price across colors, and the percent off is calculated from those two figures. Discounts vary by color: only some colors are marked down, and the rest stay at full price. Prices can change after Nov. 25.
 
 | Product | Regular | Lowest sale | Off | Colors on sale |
 |---|---|---|---|---|
@@ -144,11 +144,11 @@ Prices below come from the data feed behind Stanley's sale page (stanley1913.com
 | [Everyday Suburban Mug, 24 oz](https://www.stanley1913.com/products/the-everyday-suburban-mug-24-oz) | $35.00 | $26.25 | 25% | 9 of 12 |
 | [Classic Easy-Pour Growler, 64 oz](https://www.stanley1913.com/products/classic-easy-pour-growler-64-oz-last-call-1) | $57.00 | $18.00 | 68% | 1 of 2 |
 
-The growler's 68% applies to 1 of its 2 colors, and the 25 oz Adventure To-Go Bottle's 60% applies to 2 of 5. The four Quencher H2.0 FlowState sizes show 50% off in 9 to 16 colors each. Across the 135 distinct sale listings we counted, 73 have 25% as their lowest discount, and the table leaves out lids, straws, boots and duplicate listings.
+The growler's 68% applies to 1 of its 2 colors, and the 25 oz Adventure To-Go Bottle's 60% applies to 2 of 5. The four Quencher H2.0 FlowState sizes show 50% off in 9 to 16 colors each. The table leaves out lids, straws, boots and duplicate listings.
 
-## Stanley's extra 10% club offer ends Nov. 22
+## Stanley's club free shipping offer ends Nov. 26
 
-Stanley also lists "Save an extra 10% off sale items" for logged-in account members, applied at checkout. The offer "Ends 11/22 at 11:59 PM PST," which is 2:59 a.m. ET on Monday, Nov. 23. The main sale ends Nov. 30.
+Stanley also lists "Stanley 1913 Club members save with free shipping," auto-applied in checkout when logged into an account. The offer "Ends 11/26 at 11:59 PM PST," which is 2:59 a.m. ET on Friday, Nov. 27. The main sale ends Nov. 30. An earlier club offer, an extra 10% off sale items, ended Nov. 22.
 
 ## Shipping: free over $50, order by Dec. 15
 
@@ -160,4 +160,4 @@ The homepage and the sale page do not give a start date or a year. They say "Exc
 
 ## Print the Stanley Black Friday 2026 deadlines
 
-The one-page sheet, "Stanley Black Friday 2026 Deadlines," lists the Nov. 22 club offer end, the Nov. 30 sale end at 11:59 p.m. PST and the Dec. 15 order-by date, with boxes to tick off.
+The one-page sheet, "Stanley Black Friday 2026 Deadlines," lists the Nov. 26 club free shipping end, the Nov. 30 sale end at 11:59 p.m. PST and the Dec. 15 order-by date, with boxes to tick off.
