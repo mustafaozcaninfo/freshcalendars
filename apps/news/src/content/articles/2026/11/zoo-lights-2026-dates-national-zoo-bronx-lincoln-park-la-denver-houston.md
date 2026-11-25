@@ -113,7 +113,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [botanical-garden-holiday-lights-2026-dates-nybg-atlanta-longwood-denver-brooklyn, christmas-at-biltmore-2026-candlelight-evenings-dates, drive-thru-christmas-lights-2026-by-state]
+related: [botanical-garden-holiday-lights-2026-dates-nybg-atlanta-longwood-denver-brooklyn, temple-square-christmas-lights-2026-november-27-hours-concerts, drive-thru-christmas-lights-2026-by-state]
 draft: false
 assets:
   overlay: true

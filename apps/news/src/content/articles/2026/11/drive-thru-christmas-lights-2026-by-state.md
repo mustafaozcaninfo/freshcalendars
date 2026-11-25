@@ -89,7 +89,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/christmas-eve/"
     label: "When is Christmas Eve?"
-related: [zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston, botanical-garden-holiday-lights-2026-dates-nybg-atlanta-longwood-denver-brooklyn, christmas-tree-lightings-2026-dates-times-nyc-dc-boston]
+related: [zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston, mcadenville-christmas-town-usa-2026-december-1-26-lights-hours, christmas-tree-lightings-2026-dates-times-nyc-dc-boston]
 draft: false
 assets:
   overlay: true
