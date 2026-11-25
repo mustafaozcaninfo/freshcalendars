@@ -101,7 +101,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28, khsaa-state-football-finals-2026-kroger-field-schedule, schsl-football-state-championships-2026-sc-state-orangeburg]
+related: [ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28, mshsl-prep-bowl-2026-schedule-us-bank-stadium-kickoff-times, khsaa-state-football-finals-2026-kroger-field-schedule]
 assets:
   overlay: true
   kicker: "State title games · Nov. 21-Dec. 19"
@@ -193,3 +193,5 @@ The GHSA page gives the date and stadium; its game times by class are in our [GH
 ## Is there a printable state finals table?
 
 The one-page High School Football State Finals 2026 by State sheet lists the dates and stadiums above for thirteen states. Mark the weekends on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
+
+Massachusetts is not in the table: its eight championships are Dec. 4-6, 2026, per our [Massachusetts football championships schedule](/news/miaa-football-state-championships-2026-schedule-boston-college/).
