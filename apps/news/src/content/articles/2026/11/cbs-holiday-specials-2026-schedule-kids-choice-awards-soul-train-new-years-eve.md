@@ -89,7 +89,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [hallmark-countdown-to-christmas-2026-schedule-printable, lifetime-christmas-movies-2026-schedule-its-a-wonderful-lifetime, new-years-rockin-eve-2027-time-hosts-abc-disney-plus]
+related: [hallmark-countdown-to-christmas-2026-schedule-printable, nbc-holiday-specials-2026-schedule-tree-lighting-december-2, new-years-rockin-eve-2027-time-hosts-abc-disney-plus]
 downloads:
   - group: "CBS Holiday Specials 2026 TV Schedule printables"
     title: "CBS Holiday Specials 2026 TV Schedule"
