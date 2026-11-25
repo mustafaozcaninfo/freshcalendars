@@ -123,7 +123,7 @@ internalLinks:
     label: "January 2027 printable calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [dicks-sporting-goods-black-friday-2026-deals-november-22-hours, black-friday-2026-shopping-planner-printable-store-opening-times, cyber-monday-2026-date-sale-start-times-by-store]
+related: [mattress-black-friday-2026-sale-end-dates-by-brand, black-friday-2026-shopping-planner-printable-store-opening-times, cyber-monday-2026-date-sale-start-times-by-store]
 downloads:
   - group: "Peloton Black Friday 2026 Price List printables"
     title: "Peloton Black Friday 2026 Price List"

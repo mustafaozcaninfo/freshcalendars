@@ -96,7 +96,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [restaurants-open-thanksgiving-2026-hours-by-chain, restaurant-gift-card-deals-2026-bonus-cards-cheesecake-factory-panera-red-robin, holiday-menus-2026-every-chain-tracker]
+related: [restaurants-open-thanksgiving-2026-hours-by-chain, restaurant-gift-card-deals-2026-bonus-cards-cheesecake-factory-panera-red-robin, 7-eleven-black-friday-2026-free-pizza-code-blkfri]
 draft: false
 ---
 

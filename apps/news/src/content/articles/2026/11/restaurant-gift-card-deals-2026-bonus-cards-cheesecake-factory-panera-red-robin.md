@@ -114,7 +114,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [bjs-restaurant-holiday-menu-2026-biscoff-pizookie-gift-card-bonus, restaurants-open-thanksgiving-2026-hours-by-chain, topgolf-black-friday-2026-20-percent-off-gift-cards-open-9-am]
+related: [bjs-restaurant-holiday-menu-2026-biscoff-pizookie-gift-card-bonus, topgolf-black-friday-2026-20-percent-off-gift-cards-open-9-am, cinnabon-black-friday-2026-gift-card-rewards-auntie-annes]
 downloads:
   - group: "Restaurant Gift Card Bonus Expiry Tracker 2026 printables"
     title: "Restaurant Gift Card Bonus Expiry Tracker 2026"
