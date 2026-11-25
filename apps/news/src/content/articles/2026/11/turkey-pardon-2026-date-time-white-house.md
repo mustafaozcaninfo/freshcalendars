@@ -3,7 +3,7 @@ title: "Turkey Pardon 2026: Freedom and Feathers Named, Nov. 24 at 2 p.m. ET"
 description: "The White House turkey pardon was Tuesday, Nov. 24, 2026, 2 p.m. ET. Freedom and Feathers won the name vote; a printable lists each ceremony, 2021 to 2026."
 type: news
 publishedAt: "2026-11-06T13:47:52-05:00"
-updatedAt: "2026-11-19T13:30:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["turkey pardon 2026", "white house turkey pardon 2026", "national thanksgiving turkey 2026", "when is the turkey pardon"]

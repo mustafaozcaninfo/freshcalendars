@@ -3,6 +3,7 @@ title: "Is IKEA Open on Thanksgiving 2026? Closed Thu., Nov. 26"
 description: "IKEA stores are closed Thu., Nov. 26 and Dec. 25, 2026. Dec. 24 and 31 hours for six stores, the $10-per-$100 deal through Nov. 30, and a printable."
 type: news
 publishedAt: "2026-11-15T06:00:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is ikea open on thanksgiving", "ikea black friday 2026 hours", "ikea christmas eve hours 2026", "ikea holiday hours 2026"]
