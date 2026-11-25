@@ -79,7 +79,7 @@ faq:
   - q: "Are Apple Stores open on Thanksgiving or Black Friday 2026?"
     a: "Apple has not posted hours for Thursday, Nov. 26 or Friday, Nov. 27 on its pages we read. Check your store's page."
   - q: "Is the Apple Black Friday offer the same in Canada and the UK?"
-    a: "The Canadian and UK Apple pages show the same Nov. 27-30 dates. The Canadian page says "Get an Apple Gift Card for up to $420" with an eligible product and shows no per-product chart; the UK page showed no gift card amount when we read it on Nov. 25."
+    a: "The Canadian and UK Apple pages show the same Nov. 27-30 dates. The Canadian page says \"Get an Apple Gift Card for up to $420\" with an eligible product and shows no per-product chart; the UK page showed no gift card amount when we read it on Nov. 25."
 sources:
   - title: "Black Friday Event Terms and Conditions"
     url: "https://www.apple.com/shop/gifts/black-friday-event/terms-conditions"

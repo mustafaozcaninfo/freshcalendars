@@ -54,7 +54,7 @@ hero:
 summary:
   - "Legoland Florida and Legoland California list their Black Friday 2026 offers as ending Nov. 29; Legoland New York lists Dec. 2."
   - "Legoland California annual passes are $139 Standard, $189 Preferred and $229 Premium, saving $50, $100 and $120 against the full prices."
-  - "Legoland Florida passes start at $99 and are labeled "Save Up to $100," and the 1-day ticket is $49 against a $129 gate price; New York passes start at $79."
+  - "Legoland Florida passes start at $99 and are labeled \"Save Up to $100,\" and the 1-day ticket is $49 against a $129 gate price; New York passes start at $79."
   - "None of the three pages gives an end time or time zone."
 faq:
   - q: "When does the Legoland Black Friday 2026 sale end?"
