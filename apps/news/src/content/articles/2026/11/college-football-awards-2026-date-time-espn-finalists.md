@@ -74,8 +74,8 @@ assets:
         - { start: "2026-12-11T19:00-05:00", title: "The Home Depot College Football Awards show (7-9 p.m. ET)", channel: "ESPN", airing: live, src: 1, quote: "ESPN will present the 36th annual awards show on Friday, December 11 from 7-9 p.m. ET." }
         - { date: "2026-12-12", time: tba, title: "Heisman Trophy winner announced at the ceremony", src: 2, quote: "Dec. 12, 2026, Winner announced at Heisman Ceremony" }
       unconfirmed:
-        - { label: "Heisman ceremony start time", why: "Not yet announced as of Nov. 25, 2026" }
-        - { label: "Lombardi gala start time", why: "Not yet announced as of Nov. 25, 2026" }
+        - { label: "Heisman ceremony start time", why: "Not yet announced" }
+        - { label: "Lombardi gala start time", why: "Not yet announced" }
 draft: false
 downloads:
   - group: "College Football Awards Week 2026 printables"

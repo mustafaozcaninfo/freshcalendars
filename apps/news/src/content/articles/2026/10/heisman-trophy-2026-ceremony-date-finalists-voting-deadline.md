@@ -60,7 +60,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "printable weekly calendar"
-related: [college-football-awards-2026-date-time-espn-finalists, army-navy-game-2026-date-kickoff-time-metlife-stadium-tv, college-football-playoff-rankings-2026-schedule-dates-times]
+related: [army-navy-game-2026-date-kickoff-time-metlife-stadium-tv, college-football-playoff-rankings-2026-schedule-dates-times, baseball-hall-of-fame-contemporary-era-committee-vote-december-6-2026]
 assets:
   overlay: true
   kicker: "Heisman Trophy 2026 · Sat., Dec. 12"
@@ -138,6 +138,8 @@ The channel is ABC. The Heisman Trophy Trust's balloting page lists "the announc
 The Heisman release says Heisman Weekend runs Dec. 11-13, 2026, in New York City, with events at Jazz at Lincoln Center. Heisman Live is Friday evening, Dec. 11. The Heisman Red Carpet and the televised ceremony are Saturday, Dec. 12, with seating for the live ceremony in the Appel Room. The Heisman Club Celebration is Sunday, Dec. 13.
 
 The ESPN release of Dec. 19, 2025, says ESPN remains the ceremony's home.
+
+The night before the ceremony, the [College Football Awards 2026 show](/news/college-football-awards-2026-date-time-espn-finalists/) names the winners of nine other national awards on ESPN.
 
 ## How did the 2025 ceremony compare?
 
