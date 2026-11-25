@@ -134,7 +134,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [video-game-release-dates-november-2026-gta-6-ocarina-of-time, fortnite-chapter-7-end-event-december-5-2026-time, video-game-release-dates-january-2027]
+related: [playstation-plus-december-2026-games-tony-hawk-dragon-ball-amnesia, fortnite-chapter-7-end-event-december-5-2026-time, video-game-release-dates-january-2027]
 downloads:
   - group: "Video Game Release Calendar printables"
     title: "Video Game Release Calendar, December 2026"
