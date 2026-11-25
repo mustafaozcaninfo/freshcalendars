@@ -1,5 +1,5 @@
 ---
-title: "BCPS Calendar 2026-27: Winter Break Dec. 24-Jan. 1, Last Day June 17"
+title: "Baltimore County BCPS Calendar 2026-27: Winter Break Dec. 24-Jan. 1"
 description: "Baltimore County Public Schools (BCPS) calendar 2026-27: off Nov. 26-27, Dec. 24 to Jan. 1 and March 22-29. Last day June 17, or June 14 with no closures."
 type: news
 publishedAt: "2026-11-03T08:36:00-05:00"
@@ -114,7 +114,7 @@ downloads:
 draft: false
 ---
 
-**Baltimore County Public Schools (BCPS) students are off from Thursday, Dec. 24, 2026 through Friday, Jan. 1, 2027, and the last day of classes is Thursday, June 17, 2027**, according to the district's "2026-2027 School Year Calendar, Pre-Labor Day Start" (PDF), adopted Nov. 4, 2025. The first day for students was Monday, Aug. 31, 2026. June 17 assumes all three emergency closure days are used; with none, the year ends Monday, June 14. The next days off are Thursday and Friday, Nov. 26-27, for Thanksgiving, and Wednesday, Nov. 25 is a 3-hour early dismissal.
+**Baltimore County Public Schools (BCPS) students are off from Thursday, Dec. 24, 2026 through Friday, Jan. 1, 2027, and the last day of classes is Thursday, June 17, 2027**, according to the district's "2026-2027 School Year Calendar, Pre-Labor Day Start" (PDF), adopted Nov. 4, 2025. The first day for students was Monday, Aug. 31, 2026. June 17 assumes all three emergency closure days are used; with none, the year ends Monday, June 14. The next days off are Thursday and Friday, Nov. 26-27, for Thanksgiving, and Wednesday, Nov. 25 is a 3-hour early dismissal. Looking for Broward County Public Schools in Florida? See the [Broward County school calendar 2026-27](/news/broward-county-school-calendar-2026-27/).
 
 ## What are the BCPS winter break dates for 2026?
 
