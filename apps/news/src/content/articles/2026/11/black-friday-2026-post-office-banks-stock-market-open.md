@@ -3,7 +3,7 @@ title: "Is the Post Office Open on Black Friday 2026? Stocks Close 1 p.m."
 description: "Black Friday, Nov. 27, 2026, is not a U.S. Postal Service holiday; stocks close 1 p.m. ET. A table compares mail, banks and markets with Thanksgiving."
 type: news
 publishedAt: "2026-11-07T13:19:00-05:00"
-updatedAt: "2026-11-14T15:32:00-05:00"
+updatedAt: "2026-11-25T14:28:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is the post office open on black friday 2026", "are banks open on black friday 2026", "is the stock market open on black friday", "is mail delivered on black friday"]
@@ -19,7 +19,7 @@ assets:
     group: black-friday-2026
     title: "Thanksgiving Week 2026: Open or Closed, Nov. 26-27"
     subtitle: "Mail, federal offices, banks and markets on Thanksgiving and Black Friday"
-    note: "Source: U.S. Postal Service; Federal Reserve; Office of Personnel Management; New York Stock Exchange; Nasdaq Trader; Securities Industry and Financial Markets Association. Checked Nov. 14, 2026. Confirm your branch or Post Office hours locally."
+    note: "Source: U.S. Postal Service; Federal Reserve; Office of Personnel Management; New York Stock Exchange; Nasdaq Trader; Securities Industry and Financial Markets Association. Confirm your branch or Post Office hours locally."
     description: "One-page Thanksgiving week 2026 open-or-closed sheet for Thursday, Nov. 26 and Friday, Nov. 27: mail, federal offices, banks, NYSE, Nasdaq and bonds. Free printable."
     alt: "Printable Thanksgiving week 2026 open or closed sheet for the Post Office, banks, stock market and bond market on Nov. 26 and 27"
     data:
@@ -76,27 +76,27 @@ sources:
   - title: "Holidays and Events"
     url: "https://about.usps.com/newsroom/events/welcome.htm"
     publisher: "U.S. Postal Service"
-    date: "2026-11-14"
+    date: "2026-11-25"
   - title: "Holidays Observed - K.8"
     url: "https://www.federalreserve.gov/aboutthefed/k8.htm"
     publisher: "Federal Reserve"
-    date: "2026-07-08"
+    date: "2026-11-25"
   - title: "Federal Holidays"
     url: "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/"
     publisher: "Office of Personnel Management"
-    date: "2026-11-14"
+    date: "2026-11-25"
   - title: "Holidays & Trading Hours"
     url: "https://www.nyse.com/trade/hours-calendars"
     publisher: "New York Stock Exchange"
-    date: "2026-11-14"
+    date: "2026-11-25"
   - title: "Trading Calendar"
     url: "https://www.nasdaqtrader.com/Trader.aspx?id=Calendar"
     publisher: "Nasdaq Trader"
-    date: "2026-11-14"
+    date: "2026-11-25"
   - title: "Holiday Schedule"
     url: "https://www.sifma.org/resources/general/holiday-schedule/"
     publisher: "Securities Industry and Financial Markets Association"
-    date: "2026-11-14"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -130,7 +130,7 @@ draft: false
 | Nasdaq | Closed | Early close, 1:00 p.m. ET | Nasdaq Trader "Trading Calendar" |
 | Bond market | Holiday recommended | Early close recommended, 2:00 p.m. ET | Securities Industry and Financial Markets Association (SIFMA) "Holiday Schedule" |
 
-USPS publishes a list headed "2026 postal holidays (no mail service)", and its entry for the week is "Thursday, November 26: Thanksgiving Day." Nov. 27 is not on that list. USPS does not say anything about Black Friday retail hours, so check your own Post Office in the [USPS location finder](https://www.usps.com/locator/). USPS had not posted 2026 holiday shipping deadlines on that page as of Nov. 14. UPS and FedEx set their own holiday service, so check UPS's and FedEx's own holiday schedules.
+USPS publishes a list headed "2026 postal holidays (no mail service)", and its entry for the week is "Thursday, November 26: Thanksgiving Day." Nov. 27 is not on that list. USPS does not say anything about Black Friday retail hours, so check your own Post Office in the [USPS location finder](https://www.usps.com/locator/). USPS had not posted 2026 holiday shipping deadlines on that page as of Nov. 25. UPS and FedEx set their own holiday service, so check UPS's and FedEx's own holiday schedules.
 
 ## Are banks open on Black Friday 2026?
 

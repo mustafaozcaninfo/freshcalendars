@@ -59,7 +59,7 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Chive_Cream_Cheese"
 summary:
   - "Thanksgiving Day 2026 is Thursday, Nov. 26. Walmart, Costco, Target, Best Buy, Home Depot and Lowe's are closed."
-  - "Walgreens says all of its nearly 8,000 stores open, and Whole Foods Market says many stores open with modified hours. Kroger stores open and close early, per FOX 4 and KTVU. Aldi, Sam's Club, Publix and Trader Joe's are closed, per newsroom reports."
+  - "Walgreens says all of its nearly 8,000 stores open, and Whole Foods Market says many stores open with modified hours. Kroger stores open and close early, per FOX 4 and a television station in San Francisco (KTVU). Aldi, Sam's Club, Publix and Trader Joe's are closed, per newsroom reports."
   - "The U.S. Postal Service lists Thanksgiving as a postal holiday, most banks close for the Federal Reserve holiday, and the New York Stock Exchange is closed."
   - "H-E-B, CVS, Dollar General and several other chains have not confirmed 2026 hours. Black Friday opening times are in a separate story."
 faq:
@@ -68,7 +68,7 @@ faq:
   - q: "Is Costco open on Thanksgiving 2026?"
     a: "No. Costco's 2026 holiday notice says Costco will be closed Thursday, Nov. 26, 2026, and its holiday closures page lists Thanksgiving Day too. Costco.com stays open for orders."
   - q: "Are grocery stores open on Thanksgiving 2026?"
-    a: "Some are. Whole Foods Market says many of its stores open with modified hours, and Walgreens says all of its nearly 8,000 stores open. Kroger stores open with reduced hours, and many close at 4 p.m., per FOX 4 and KTVU. Aldi, Sam's Club, Publix, Trader Joe's and BJ's Wholesale Club are closed. H-E-B, Dollar General and several other chains have not confirmed 2026 hours, so check your store's locator or call ahead."
+    a: "Some are. Whole Foods Market says many of its stores open with modified hours, and Walgreens says all of its nearly 8,000 stores open. Kroger stores open with reduced hours, and many close at 4 p.m., per FOX 4 and a San Francisco television station. Aldi, Sam's Club, Publix, Trader Joe's and BJ's Wholesale Club are closed. H-E-B, Dollar General and several other chains have not confirmed 2026 hours, so check your store's locator or call ahead."
   - q: "Is Target open on Thanksgiving 2026?"
     a: "No. Target's 2026 holiday fact sheet, updated Nov. 19, 2026, says all stores are closed on Thanksgiving, Nov. 26. Target.com remains open."
   - q: "Is the mail delivered on Thanksgiving 2026?"
@@ -206,7 +206,7 @@ The table lists what each company has published for 2026 where available, with t
 | IKEA | Closed | IKEA Black Friday page |
 | Whole Foods Market | Open, modified hours at many stores | Holiday hours page |
 | Walgreens | Open, all nearly 8,000 stores; no hours given | 2026 release (Nov. 5) |
-| Kroger | Open, early close; many stores 4 p.m.; pharmacies closed | FOX 4 and KTVU (Nov. 2026) |
+| Kroger | Open, early close; many stores 4 p.m.; pharmacies closed | FOX 4 and a San Francisco TV station (Nov. 2026) |
 | Dollar General | 2026 hours not posted; check the store locator | None posted |
 
 **Walmart.** In its Oct. 7, 2026 season announcement, Walmart said its "stores will be closed again on Thanksgiving and Christmas this year." Walmart.com stays open for online orders.
@@ -231,7 +231,7 @@ The table lists what each company has published for 2026 where available, with t
 
 **Walgreens.** Walgreens' Nov. 5, 2026 release says: "All of Walgreens' nearly 8,000 stores will be open on Thanksgiving Day, Thursday, Nov. 26, 2026," and that more than 4,000 pharmacies will be open. The release gives no hours, so check your store. See [is Walgreens open on Thanksgiving 2026](/news/is-walgreens-open-thanksgiving-2026-pharmacies-cvs/).
 
-**Kroger.** FOX 4 (Nov. 19, 2026) reports that Kroger stores open with reduced hours, that the company's holiday page showed closing times of 4 p.m. depending on the store, and that pharmacies and clinics are closed. KTVU (Nov. 23, 2026) also says Kroger stores are open but close early, at 4 p.m. Closing times vary by store, so confirm yours. See [is Kroger open on Thanksgiving 2026](/news/is-kroger-open-thanksgiving-2026-pharmacy-hours/).
+**Kroger.** FOX 4 (Nov. 19, 2026) reports that Kroger stores open with reduced hours, that the company's holiday page showed closing times of 4 p.m. depending on the store, and that pharmacies and clinics are closed. A television station in San Francisco (KTVU), in a Nov. 23, 2026 story, also says Kroger stores are open but close early, at 4 p.m. Closing times vary by store, so confirm yours. See [is Kroger open on Thanksgiving 2026](/news/is-kroger-open-thanksgiving-2026-pharmacy-hours/).
 
 **Dollar General.** Dollar General has not posted 2026 Thanksgiving hours. Check the Dollar General store locator for your store.
 
