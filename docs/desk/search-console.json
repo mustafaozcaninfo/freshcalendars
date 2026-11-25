@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T09:13:47.301Z",
+ "generatedAt": "2026-11-25T19:13:14.078Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "100% (74 of 74 sampled)",
+   "value": "100% (72 of 72 sampled)",
    "pass": true
   },
   {
@@ -2431,9 +2431,9 @@
   ]
  },
  "indexed": {
-  "checked": 74,
+  "checked": 72,
   "sampled": 90,
-  "indexed": 74,
+  "indexed": 72,
   "notIndexed": [],
   "states": {
    "Submitted and indexed": 90
@@ -2446,7 +2446,7 @@
    "errors": 0,
    "warnings": 0,
    "lastDownloaded": "2026-11-25T06:47:41.333Z",
-   "submitted": 4633
+   "submitted": 4650
   },
   {
    "path": "https://freshcalendars.com/sitemap.xml",
@@ -2466,47 +2466,11 @@
    "path": "https://freshcalendars.com/news/sitemap.xml",
    "errors": 0,
    "warnings": 0,
-   "lastDownloaded": "2026-11-23T19:43:34.681Z",
-   "submitted": 1444
+   "lastDownloaded": "2026-11-25T14:04:10.566Z",
+   "submitted": 1492
   }
  ],
  "experiments": [
-  {
-   "slug": "orange-county-public-schools-calendar-2026-27-breaks-holidays",
-   "changedAt": "2026-11-08",
-   "what": "seoTitle: \"OCPS Calendar 2026-27: Breaks and Holidays\" → \"OCPS Calendar 2026-27: Printable PDF, Breaks and Holidays\"; description leads with the free one-page PDF; first paragraph links the PDF (same day as the Nov. 8 headline migration)",
-   "before": {
-    "clicks": 7,
-    "impressions": 3178,
-    "ctr": 0.22,
-    "position": 5.5
-   },
-   "after": {
-    "clicks": 12,
-    "impressions": 3513,
-    "ctr": 0.34,
-    "position": 3.8
-   },
-   "daysAfter": 14
-  },
-  {
-   "slug": "november-2026-important-dates-days-until",
-   "changedAt": "2026-11-08",
-   "what": "image: hero alt names Election Day Nov. 3, Diwali Nov. 8, Veterans Day Nov. 11, GTA VI Nov. 19 and Thanksgiving Nov. 26; caption no longer opens on the clock change (measure image impressions and clicks; same day as the Nov. 8 headline migration)",
-   "before": {
-    "clicks": 6,
-    "impressions": 1661,
-    "ctr": 0.36,
-    "position": 5.5
-   },
-   "after": {
-    "clicks": 3,
-    "impressions": 1656,
-    "ctr": 0.18,
-    "position": 4.9
-   },
-   "daysAfter": 14
-  },
   {
    "slug": "hanukkah-2026-dates-calendar",
    "changedAt": "2026-11-22",
@@ -2854,6 +2818,19 @@
     "impressions": 802,
     "ctr": 0,
     "position": 8.1
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "baltimore-county-public-schools-calendar-2026-27-breaks",
+   "changedAt": "2026-11-24",
+   "what": "title: \"BCPS Calendar 2026-27: Winter Break Dec. 24-Jan. 1, Last Day June 17\" → \"Baltimore County BCPS Calendar 2026-27: Winter Break Dec. 24-Jan. 1\"; Broward County pointer sentence at the end of the first paragraph",
+   "before": {
+    "clicks": 2,
+    "impressions": 958,
+    "ctr": 0.21,
+    "position": 7
    },
    "after": null,
    "daysAfter": 0

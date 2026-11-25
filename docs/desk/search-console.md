@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-25T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-25T19:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (74 of 74 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 100% (72 of 72 sampled)
 - FAIL: /news/ clicks and impressions did not fall two weeks in a row — fell two weeks in a row: clicks, impressions
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -288,21 +288,19 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 74 that are 7 to 21 days old): 90 Submitted and indexed.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 72 that are 7 to 21 days old): 90 Submitted and indexed.
 
 - every sampled story is indexed
 
 ## Sitemaps
 
-- /sitemap.xml: 0 errors, 0 warnings, 4,633 URLs submitted, last read 2026-11-25
+- /sitemap.xml: 0 errors, 0 warnings, 4,650 URLs submitted, last read 2026-11-25
 - /sitemap.xml: 0 errors, 0 warnings, 201 URLs submitted, last read 2026-11-23
 - /news/news-sitemap.xml: 0 errors, 0 warnings, 84 URLs submitted, last read 2026-11-23
-- /news/sitemap.xml: 0 errors, 0 warnings, 1,444 URLs submitted, last read 2026-11-23
+- /news/sitemap.xml: 0 errors, 0 warnings, 1,492 URLs submitted, last read 2026-11-25
 
 ## Experiments (title and snippet changes of the search desk, 14 days before against 14 days after)
 
-- orange-county-public-schools-calendar-2026-27-breaks-holidays (changed 2026-11-08): before 7 clicks, 3,178 impressions, CTR 0.22%, position 5.5; after 12 clicks, 3,513 impressions, CTR 0.34%, position 3.8
-- november-2026-important-dates-days-until (changed 2026-11-08): before 6 clicks, 1,661 impressions, CTR 0.36%, position 5.5; after 3 clicks, 1,656 impressions, CTR 0.18%, position 4.9
 - hanukkah-2026-dates-calendar (changed 2026-11-22): before 2 clicks, 5,854 impressions, CTR 0.03%, position 8.1; after: not yet (0 of 15 days)
 - metro-nashville-public-schools-calendar-2026-27-breaks (changed 2026-11-22): before 4 clicks, 3,103 impressions, CTR 0.13%, position 4.5; after: not yet (0 of 15 days)
 - boston-public-schools-calendar-2026-27-breaks (changed 2026-11-22): before 10 clicks, 2,466 impressions, CTR 0.41%, position 6.6; after: not yet (0 of 15 days)
@@ -330,3 +328,4 @@ Sample of 90 stories published 2 to 21 days ago (the gate counts the 74 that are
 - army-navy-game-2026-date-kickoff-time-metlife-stadium-tv (changed 2026-11-24): before 0 clicks, 133 impressions, CTR 0%, position 16.4; after: not yet (0 of 15 days)
 - calendar-quarters-2027-q1-q4-dates-days (changed 2026-11-24): before 3 clicks, 4,959 impressions, CTR 0.06%, position 7.6; after: not yet (0 of 15 days)
 - peak-ps5-price-crossplay-guide-2026 (changed 2026-11-24): before 0 clicks, 802 impressions, CTR 0%, position 8.1; after: not yet (0 of 15 days)
+- baltimore-county-public-schools-calendar-2026-27-breaks (changed 2026-11-24): before 2 clicks, 958 impressions, CTR 0.21%, position 7; after: not yet (0 of 15 days)
