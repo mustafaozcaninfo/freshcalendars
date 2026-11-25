@@ -99,7 +99,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [college-football-conference-championship-games-2026-schedule-times-tv, acc-championship-game-2026-noon-et-abc-charlotte, sec-championship-game-2026-date-kickoff-time-tv-atlanta]
+related: [college-football-conference-championship-games-2026-schedule-times-tv, acc-championship-game-2026-noon-et-abc-charlotte, mountain-west-championship-game-2026-date-kickoff-time-fox]
 downloads:
   - group: "Big 12 Championship Game 2026 Watch Guide printables"
     title: "Big 12 Championship Game 2026 Watch Guide, Dec. 4"

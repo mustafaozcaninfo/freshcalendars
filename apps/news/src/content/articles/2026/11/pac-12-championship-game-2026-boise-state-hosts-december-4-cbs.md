@@ -92,7 +92,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [college-football-conference-championship-games-2026-schedule-times-tv, big-12-championship-game-2026-friday-december-4-kickoff-time-abc, acc-championship-game-2026-noon-et-abc-charlotte]
+related: [college-football-conference-championship-games-2026-schedule-times-tv, big-12-championship-game-2026-friday-december-4-kickoff-time-abc, mountain-west-championship-game-2026-date-kickoff-time-fox]
 downloads:
   - group: "Pac-12 Championship Game 2026 Watch Guide printables"
     title: "Pac-12 Championship Game 2026 Watch Guide, Dec. 4"
