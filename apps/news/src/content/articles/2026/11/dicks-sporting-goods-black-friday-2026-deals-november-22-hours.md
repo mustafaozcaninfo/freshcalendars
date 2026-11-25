@@ -2,6 +2,7 @@
 title: "Dick's Black Friday 2026: Deals Nov. 22-Dec. 5, Doors at 6 a.m."
 description: "Dick's Black Friday 2026 deals run Nov. 22 to Dec. 5; doors open 6 a.m. Nov. 27. Day-by-day timeline, Golf Galaxy hours, 2025 comparison, printable."
 type: news
+updatedAt: "2026-11-25T16:50:00-05:00"
 publishedAt: "2026-11-14T20:45:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
@@ -29,7 +30,7 @@ assets:
         - { name: "Golf Galaxy, Black Friday", status: limited, detail: "Open 7 a.m. to 8 p.m. local time", src: 3, quote: "Stores will open on Black Friday at 7 a.m. and close at 8 p.m. local time." }
         - { name: "dicks.com and app", status: open, detail: "Shop 24/7, including Thanksgiving Day", src: 1, quote: "Athletes can shop 24/7 at DICKS.com" }
       tasks:
-        - { daysBefore: 4, task: "Sale starts Sun., Nov. 22: browse deals online" }
+        - { daysBefore: 4, task: "Sale began Sunday, Nov. 22 and ends Saturday, Dec. 5" }
         - { daysBefore: 1, task: "Check your store page for Black Friday hours" }
         - { daysBefore: 0, task: "Thanksgiving: stores closed; Black Friday doors open at 6 a.m." }
       fill: ["Deals I want", "Store hours I checked", "Price match receipts"]
@@ -46,7 +47,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Flight_Club_Wall_of_Shoes_New_York_City_2011.jpg"
     author: "Jaysin Trevino"
 summary:
-  - "Dick's Sporting Goods says its 2026 holiday deals are valid Nov. 22 to Dec. 5, a 14-day run that starts five days before Black Friday."
+  - "Dick's Sporting Goods says its 2026 holiday deals are valid Nov. 22 to Dec. 5, a 14-day run that began five days before Black Friday."
   - "All Dick's locations are closed on Thanksgiving Day, Nov. 26, and doors open on Black Friday, Nov. 27, at 6 a.m. local time; the closing time is not announced."
   - "Golf Galaxy stores open at 7 a.m. and close at 8 p.m. on Black Friday, with a first-ever Pick a Tag. Win Some Swag. giveaway for the first 30 participants."
   - "Dick's Deal Days run Dec. 6 to 11 on dicks.com and the app, for ScoreCard loyalty members and app users."
@@ -65,7 +66,7 @@ sources:
   - title: "DICK'S Sporting Goods Announces 2026 Holiday Deals, Gift Shop and Black Friday Hours"
     url: "https://www.prnewswire.com/news-releases/dicks-sporting-goods-announces-2026-holiday-deals-gift-shop-and-black-friday-hours-302934896.html"
     publisher: "DICK'S Sporting Goods via PR Newswire"
-    date: "2026-11-10"
+    date: "2026-11-25"
   - title: "DICK'S Sporting Goods, Inc. to Hire Over 11,000 Seasonal Teammates for the 2026 Holiday Shopping Season"
     url: "https://www.prnewswire.com/news-releases/dicks-sporting-goods-inc-to-hire-over-11-000-seasonal-teammates-for-the-2026-holiday-shopping-season-302908795.html"
     publisher: "DICK'S Sporting Goods via PR Newswire"
@@ -73,7 +74,7 @@ sources:
   - title: "Golf Galaxy Kicks Off Black Friday with First-Ever Pick a Tag. Win Some Swag. Giveaway Event"
     url: "https://www.prnewswire.com/news-releases/golf-galaxy-kicks-off-black-friday-with-first-ever-pick-a-tag-win-some-swag-giveaway-event-302934953.html"
     publisher: "Golf Galaxy via PR Newswire"
-    date: "2026-11-10"
+    date: "2026-11-25"
   - title: "DICK'S Sporting Goods Announces 2025 Holiday Deals, Gift Guide and Black Friday Hours"
     url: "https://www.prnewswire.com/news-releases/dicks-sporting-goods-announces-2025-holiday-deals-gift-guide-and-black-friday-hours-302614586.html"
     publisher: "DICK'S Sporting Goods via PR Newswire"
@@ -104,7 +105,7 @@ draft: false
 
 | Date | Day | What Dick's and Golf Galaxy published |
 |---|---|---|
-| Nov. 22, 2026 | Sunday | Holiday deals begin |
+| Nov. 22, 2026 | Sunday | Holiday deals began |
 | Nov. 26, 2026 | Thursday | Thanksgiving: all Dick's stores closed; dicks.com open |
 | Nov. 27, 2026 | Friday | Black Friday: Dick's doors open at 6 a.m. local time; Golf Galaxy open 7 a.m. to 8 p.m. with the giveaway |
 | Nov. 30, 2026 | Monday | Cyber Monday: the Nov. 22 to Dec. 5 deals are still valid |
@@ -161,7 +162,7 @@ Dick's Nov. 13, 2025 release is the source for last year's column.
 | Black Friday closing | 10:00 p.m. | Not announced |
 | Deal Days | Sun., Dec. 7 to Wed., Dec. 10 (4 days) | Sun., Dec. 6 to Fri., Dec. 11 (6 days) |
 
-The 2026 sale is eight days longer and begins five days before Black Friday. The 2025 closing time is last year's, not a prediction for Nov. 27. For other chains, see the [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/), the [ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and the [Cyber Monday 2026 sale times](/news/cyber-monday-2026-date-sale-start-times-by-store/).
+The 2026 sale is eight days longer and began five days before Black Friday. The 2025 closing time is last year's, not a prediction for Nov. 27. For other chains, see the [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/), the [ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and the [Cyber Monday 2026 sale times](/news/cyber-monday-2026-date-sale-start-times-by-store/).
 
 ## What has Dick's not announced?
 

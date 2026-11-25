@@ -1,9 +1,9 @@
 ---
 title: "Epic Games Store Black Friday Sale 2026: Nov. 17 to Dec. 1"
-description: "Epic's Black Friday sale for Premium Editions runs Nov. 17 to Dec. 1. Also the Holiday Sale dates, the Nov. 19 free games and a printable sale calendar."
+description: "Epic's Black Friday sale for Premium Editions runs Nov. 17 to Dec. 1. Also the Holiday Sale dates, the free games and a printable sale calendar."
 type: news
 publishedAt: "2026-11-18T06:10:00-05:00"
-updatedAt: "2026-11-18T06:10:00-05:00"
+updatedAt: "2026-11-25T16:50:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["epic games black friday sale 2026", "epic games store black friday 2026 end date", "epic games holiday sale 2026", "epic free games november 2026"]
@@ -18,8 +18,8 @@ assets:
     group: epic-games-store-2026
     title: "Epic Games Store Sale Calendar 2026"
     subtitle: "Black Friday sale, Epic Savings, free games and the Holiday Sale, Nov. 2026 to Jan. 2027"
-    note: "Source: Epic Games, 2026 Q4 Promotional Guide on the Unreal Engine forums (Aug. 24, 2026); free-game dates from Worthplaying and Clouddosage (Nov. 12, 2026). Epic gives no start or end hour in the guide."
-    description: "One-page Epic Games Store sale calendar for Nov. 2026 to Jan. 2027: Black Friday, Epic Savings, the Nov. 19 free games and the Holiday Sale, with weekdays."
+    note: "Source: Epic Games, 2026 Q4 Promotional Guide on the Unreal Engine forums (Aug. 24, 2026); free-game dates from Player.One and GamerGuru. Epic gives no start or end hour in the guide."
+    description: "One-page Epic Games Store sale calendar for Nov. 2026 to Jan. 2027: Black Friday, Epic Savings, the free games and the Holiday Sale, with weekdays."
     alt: "Printable Epic Games Store sale calendar 2026 listing the Black Friday sale, Epic Savings, free games and the Holiday Sale by date"
     data:
       pick: false
@@ -27,8 +27,9 @@ assets:
       events:
         - { date: "2026-11-12", time: "TBA", title: "Epic Savings: Nov starts", detail: "Runs to Nov. 26, 14 days", airing: live, src: 1, quote: "November 12 - 26 | 14 Days" }
         - { date: "2026-11-17", time: "TBA", title: "Black Friday: Premium Editions Sale starts", detail: "Runs to Dec. 1, 14 days", airing: live, src: 1, quote: "November 17 - December 1 | 14 Days" }
-        - { date: "2026-11-19", time: "TBA", title: "Free games change", detail: "Alien: Isolation and Mark of the Deep free to Nov. 26", airing: live, src: 5, quote: "gratis starting November 19 until November 26, 2026" }
-        - { date: "2026-11-26", time: "TBA", title: "Epic Savings: Nov ends", detail: "Free games change again, next pair not announced", airing: live, src: 1, quote: "November 12 - 26 | 14 Days" }
+        - { date: "2026-11-19", time: "TBA", title: "Free game: Mark of the Deep", detail: "Free to Nov. 26 at 8 a.m. PT", airing: live, src: 8, quote: "began on November 19 and runs until November 26 at 8 AM Pacific Time" }
+        - { date: "2026-11-26", time: "TBA", title: "Epic Savings: Nov ends", detail: "Runs from Nov. 12, 14 days", airing: live, src: 1, quote: "November 12 - 26 | 14 Days" }
+        - { date: "2026-11-26", time: "TBA", title: "New free games start", detail: "Bread & Fred, Firestone bundle, to Dec. 3", airing: live, src: 9, quote: "from Thursday 26 November 2026 at 4pm GMT / 8am PT until Thursday 3 December" }
         - { date: "2026-12-01", time: "TBA", title: "Black Friday sale last day", detail: "Premium Editions Sale ends", airing: live, src: 1, quote: "November 17 - December 1 | 14 Days" }
         - { date: "2026-12-10", time: "TBA", title: "Holiday Sale starts", detail: "Base games and add-ons, runs to Jan. 7", airing: live, src: 1, quote: "December 10 - January 7 | 28 Days" }
         - { date: "2027-01-07", time: "TBA", title: "Holiday Sale ends", detail: "Last day of Epic's Q4 promotions", airing: live, src: 1, quote: "December 10 - January 7 | 28 Days" }
@@ -52,7 +53,7 @@ hero:
 summary:
   - "Epic Games' fourth-quarter promotion guide lists the Epic Games Store Black Friday sale from Nov. 17 to Dec. 1, 2026, a sale \"focused exclusively on Premium Editions\"."
   - "Epic's guide lists the Holiday Sale from Dec. 10, 2026, to Jan. 7, 2027, so no sale is listed for Dec. 2 to Dec. 9."
-  - "Alien: Isolation and Mark of the Deep are reported free from Nov. 19 to Nov. 26, 2026; the games after that are not yet announced."
+  - "Mark of the Deep is free from Nov. 19 to Nov. 26, 2026 at 8 a.m. PT; Alien: Isolation was listed but pulled. Bread & Fred and a Firestone bundle follow, free to Dec. 3."
   - "The guide gives no start or end hour, and Epic has not announced a 2026 coupon rate."
 faq:
   - q: "What time does the Epic Games Store Black Friday sale start on Nov. 17?"
@@ -60,14 +61,14 @@ faq:
   - q: "Is there an Epic Coupon in the 2026 Black Friday sale?"
     a: "Not announced. No 2026 coupon or Epic Rewards rate appears in the guide or in the reports we checked."
   - q: "Will Epic give away mystery games in December 2026?"
-    a: "Epic has not announced any. The only free games with reported dates are Alien: Isolation and Mark of the Deep, Nov. 19 to Nov. 26."
+    a: "Epic has not announced any. Player.One and GamerGuru report Mark of the Deep free until Nov. 26 at 8 a.m. PT, then Bread & Fred and a Firestone bundle from Nov. 26 to Dec. 3."
   - q: "Does the Black Friday sale include every game?"
     a: "Epic's guide says the sale is focused exclusively on Premium Editions, such as Deluxe, Gold, Premium or similar versions. The Holiday Sale covers base games and downloadable content (DLC)."
 sources:
   - title: "2026 Q4 Promotional Guide || EGS Promotions"
     url: "https://forums.unrealengine.com/t/2026-q4-promotional-guide-egs-promotions/2746185"
     publisher: "Epic Games (Unreal Engine forums)"
-    date: "2026-08-24"
+    date: "2026-11-25"
   - title: "Black Friday gaming deals 2026"
     url: "https://games.gg/news/black-friday-gaming-deals-2026/"
     publisher: "games.gg"
@@ -92,6 +93,14 @@ sources:
     url: "https://partner.steamgames.com/doc/marketing/upcoming_events"
     publisher: "Valve (Steamworks Documentation)"
     date: "2026-11-14"
+  - title: "Epic Games Reveals New Free Game This Week, Teases 2 More for Next Week: 'Mark of the Deep' and More"
+    url: "https://www.player.one/epic-games-reveals-new-free-game-this-week-teases-2-more-next-week-mark-deep-more-164549"
+    publisher: "Player.One"
+    date: "2026-11-25"
+  - title: "Epic free games for 26 November-3 December 2026"
+    url: "https://gamerguru.net/pc-games/epic-games-store-free-games"
+    publisher: "GamerGuru"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -128,9 +137,11 @@ The guide's lengths are the gaps between the dates. The Black Friday sale spans 
 
 Yes, on Epic's schedule. The Black Friday sale ends Tue., Dec. 1 and the Holiday Sale starts Thu., Dec. 10, so the guide lists no sale from Wed., Dec. 2 to Wed., Dec. 9, which is 8 days. The Epic Savings: Nov promotion and the Black Friday sale overlap from Nov. 17 to Nov. 26, 10 days. The guide does not say how the two interact on a given game.
 
-## What are the Epic free games for Nov. 19, 2026?
+## What are the Epic free games for Nov. 19 and Nov. 26, 2026?
 
-Worthplaying and Clouddosage, both on Nov. 12, 2026, report Alien: Isolation and Mark of the Deep free from Nov. 19 to Nov. 26, 2026. Worthplaying wrote "gratis starting November 19 until November 26, 2026." The free games after Nov. 26 are not yet announced. Epic has also not announced mystery free games for December, and no dates are given here.
+Worthplaying and Clouddosage listed Alien: Isolation and Mark of the Deep as the free games for Nov. 19 to Nov. 26, 2026. Player.One and GamerGuru report that Alien: Isolation was pulled and shows a paid price, so Mark of the Deep is the only free PC game that week. Player.One wrote that the round "began on November 19 and runs until November 26 at 8 AM Pacific Time."
+
+Next come Bread & Fred and a Firestone bundle, free from Thursday, Nov. 26 at 8 a.m. PT to Thursday, Dec. 3, according to Player.One and GamerGuru. Firestone is an in-game bundle for players who log in through Epic. Epic has not announced mystery free games for December, and no dates are given here.
 
 ## How does the Epic sale compare with Steam, Xbox and PlayStation?
 
@@ -151,7 +162,7 @@ Epic has not announced a 2026 coupon or Epic Rewards rate, the Holiday Sale hour
 
 ## Print the Epic Games Store sale calendar
 
-The printable lists seven dates on one US Letter page: the Epic Savings and Black Friday starts, the Nov. 19 free games, the Nov. 26 end of Epic Savings, the Dec. 1 last day, and the Dec. 10 and Jan. 7 Holiday Sale dates, with lines for games to buy. Pair it with our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html).
+The printable lists eight dates on one US Letter page: the Epic Savings and Black Friday starts, the Mark of the Deep free game from Nov. 19, the Nov. 26 end of Epic Savings, the Nov. 26 start of the Bread & Fred and Firestone offers, the Dec. 1 last day, and the Dec. 10 and Jan. 7 Holiday Sale dates, with lines for games to buy. Pair it with our [November 2026 printable calendar](/november-calendars.html) and [December 2026 printable calendar](/december-calendars.html).
 
 ## Where the Epic sale dates come from
 
