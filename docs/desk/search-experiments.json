@@ -1,16 +1,6 @@
 {
   "experiments": [
     {
-      "slug": "orange-county-public-schools-calendar-2026-27-breaks-holidays",
-      "changedAt": "2026-11-08",
-      "what": "seoTitle: \"OCPS Calendar 2026-27: Breaks and Holidays\" → \"OCPS Calendar 2026-27: Printable PDF, Breaks and Holidays\"; description leads with the free one-page PDF; first paragraph links the PDF (same day as the Nov. 8 headline migration)"
-    },
-    {
-      "slug": "november-2026-important-dates-days-until",
-      "changedAt": "2026-11-08",
-      "what": "image: hero alt names Election Day Nov. 3, Diwali Nov. 8, Veterans Day Nov. 11, GTA VI Nov. 19 and Thanksgiving Nov. 26; caption no longer opens on the clock change (measure image impressions and clicks; same day as the Nov. 8 headline migration)"
-    },
-    {
       "slug": "hanukkah-2026-dates-calendar",
       "changedAt": "2026-11-22",
       "what": "title: \"First Night of Hanukkah 2026: Friday, Dec. 4, Candle Times\" → \"Hanukkah 2026 Dates: Dec. 4 to 12, Candle Times for 20 Cities\"; description"
@@ -144,6 +134,11 @@
       "slug": "peak-ps5-price-crossplay-guide-2026",
       "changedAt": "2026-11-24",
       "what": "title unchanged; H2 \"Price by platform\" → \"How much is PEAK on PS5 and Xbox?\""
+    },
+    {
+      "slug": "baltimore-county-public-schools-calendar-2026-27-breaks",
+      "changedAt": "2026-11-24",
+      "what": "title: \"BCPS Calendar 2026-27: Winter Break Dec. 24-Jan. 1, Last Day June 17\" → \"Baltimore County BCPS Calendar 2026-27: Winter Break Dec. 24-Jan. 1\"; Broward County pointer sentence at the end of the first paragraph"
     }
   ]
 }
