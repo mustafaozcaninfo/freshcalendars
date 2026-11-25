@@ -3,6 +3,7 @@ title: "Meta Quest Black Friday 2026: Quest 3S $296.99 Until Nov. 30"
 description: "Meta Quest 3S is 15% off, $296.99 for 128GB, through 11:59 p.m. PT Nov. 30. Both models' dollars saved, bundles to Jan. 4, 2027, and a printable."
 type: news
 publishedAt: "2026-11-25T09:50:00-05:00"
+updatedAt: "2026-11-25T16:48:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["meta quest black friday 2026", "quest 3s black friday 2026", "meta quest 3s deal", "meta quest cyber monday 2026", "quest 3 black friday 2026"]
@@ -39,9 +40,9 @@ assets:
         - cells: { model: "Golf+ credits with a Quest 3 or 3S", list: "$55 value", sale: "with an eligible headset", ends: "Jan. 4, 2027" }
           src: 1
           quote: "1,800 in-game credits ($55 total value) with an eligible headset | through January 4, 2027"
-        - cells: { model: "Resident Evil 4 with a Quest 3 or 3S", list: "$39.99 value", sale: "with an eligible headset", ends: "Jan. 4, 2027" }
+        - cells: { model: "Resident Evil 4, Europe and Japan only", list: "Game included", sale: "with a Quest 3 or 3S", ends: "Jan. 4, 2027" }
           src: 1
-          quote: "with your purchase of an eligible Meta Quest 3 or 3S headset | $39.99 | through January 4, 2027"
+          quote: "with your purchase of an eligible Meta Quest 3 or 3S headset. Available in select European countries and Japan (listed as Biohazard 4 ) through January 4, 2027."
       unconfirmed:
         - { label: "Meta Horizon Store game sale", why: "Meta has not announced one for 2026" }
 hero:
@@ -58,11 +59,11 @@ hero:
 summary:
   - "Meta's Quest 3S is 15% off through 11:59 p.m. Pacific Time (PT) on Nov. 30, 2026: $296.99 for 128GB and $381.99 for 256GB."
   - "The 128GB model saves $53.00 and the 256GB model saves $68.00 against the list prices Meta set on Apr. 19, 2026."
-  - "The Quest 3 (512GB) is not discounted; it only qualifies for the Golf+ and Resident Evil 4 bundles, which run to Jan. 4, 2027."
+  - "The Quest 3 (512GB) is not discounted. Meta's Golf+ bundle (US and other regions) and Resident Evil 4 bundle (select European countries and Japan) run to Jan. 4, 2027."
   - "The deal ends at 2:59 a.m. ET on Tuesday, Dec. 1, 2026."
 faq:
   - q: "Is the Meta Quest 3 on sale for Black Friday 2026?"
-    a: "Not in Meta's Nov. 20 post. The 512GB Quest 3 stays at $599.99 and is only eligible for the game bundles."
+    a: "Not in Meta's Nov. 20 post. The 512GB Quest 3 stays at $599.99 and is only eligible for the game bundles, and Resident Evil 4 is offered only in select European countries and Japan."
   - q: "Does the Quest 3S deal include refurbished headsets?"
     a: "No. Meta's footnote says the discount applies to Meta Quest 3S in 128GB and 256GB only and excludes refurbished products."
   - q: "Is the Quest 3S deal available outside the US?"
@@ -75,7 +76,7 @@ sources:
   - title: "Save Big With Black Friday and Cyber Monday Deals on Our AI Glasses and Meta Quest 3S"
     url: "https://www.meta.com/blog/save-big-with-black-friday-and-cyber-monday-deals-on-our-ai-glasses-and-meta-quest-3s/"
     publisher: "Meta"
-    date: "2026-11-20"
+    date: "2026-11-25"
   - title: "An Update on Meta Quest Pricing"
     url: "https://www.meta.com/blog/update-meta-quest-pricing/"
     publisher: "Meta"
@@ -141,7 +142,9 @@ Not in Meta's post. The Quest 3 (512GB) is listed at $599.99 in Meta's April pri
 
 ## Which games come with a Quest headset?
 
-Two offers run through Jan. 4, 2027, a date after the sale ends. Meta offers "1,800 in-game credits ($55 total value) with an eligible headset" for the golf game Golf+. Resident Evil 4 comes "with your purchase of an eligible Meta Quest 3 or 3S headset," and its game value is $39.99. Both dates are in the table on the printable and on our [December 2026 printable calendar](/december-calendars.html).
+Two offers run through Jan. 4, 2027, a date after the sale ends. Meta offers "1,800 in-game credits ($55 total value) with an eligible headset" for the golf game Golf+, available in the US, Canada, Mexico, Australia, New Zealand, Taiwan, South Korea and Singapore. Resident Evil 4 comes "with your purchase of an eligible Meta Quest 3 or 3S headset," and its game value is $39.99, but Meta lists it only for "select European countries and Japan." Both dates are in the table on the printable and on our [December 2026 printable calendar](/december-calendars.html).
+
+The same post lists a Quest 3S 128GB and Xbox Nano controller bundle, with two months of Xbox Game Pass Ultimate and two months of Meta Horizon+, for $399.98. It gives no separate end date for that bundle.
 
 ## How does 2026 compare with Black Friday 2025?
 
@@ -149,13 +152,13 @@ In 2025, Android Central reported on Nov. 25, 2025 that Meta was "discounting th
 
 ## Are Ray-Ban Meta and Oakley Meta glasses on sale too?
 
-The same Meta post lists Ray-Ban Meta Gen 2 and Oakley Meta glasses at 25% off from Nov. 20 to 30, 2026.
+The same Meta post lists Ray-Ban Meta Gen 2 and Oakley Meta glasses (other than the Vanguard model) at 25% off from Nov. 20 to 30, 2026. Oakley Meta Vanguard and select Meta glasses are 15% off in the US, Canada and Australia.
 
 ## What has Meta not announced for Quest Black Friday 2026?
 
 Meta has not announced a 2026 Meta Horizon Store game sale or a promo code in the post we read. For comparison, UploadVR reported that the 2025 store sale was 40% off with code BFCM25 through Dec. 2, 2025. We list no retailer prices here because Meta's post gives none. For other brands, see the [Google Pixel deals](/news/google-pixel-black-friday-2026-deals-end-dates/) and the [Samsung dates](/news/samsung-black-friday-2026-dates-november-2-30/).
 
-Meta's post also lists the Quest 3S sale for other regions: North America, Europe, the Middle East and Africa, Australia, New Zealand and Singapore from Nov. 20 to 30, with Japan on Nov. 13 to Dec. 4.
+Meta's post also lists the Quest 3S sale for other regions: North America, Europe, the Middle East and Africa, Australia, New Zealand and Singapore from Nov. 20 to 30, with Korea on Oct. 29 to Nov. 8 and Japan on Nov. 13 to Dec. 4.
 
 ## Print the Meta Quest Black Friday 2026 prices
 

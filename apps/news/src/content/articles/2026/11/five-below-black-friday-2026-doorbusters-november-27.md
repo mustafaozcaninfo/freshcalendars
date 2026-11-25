@@ -2,6 +2,7 @@
 title: "Five Below Black Friday 2026: Doorbusters Nov. 27, Free Dumpling"
 description: "Five Below Black Friday 2026 doorbusters are Nov. 27, Dec. 5 and Dec. 12; a mystery dumpling is free with $30. Dated table, 2025 comparison, printable."
 type: news
+updatedAt: "2026-11-25T16:50:00-05:00"
 publishedAt: "2026-11-15T21:18:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
@@ -66,7 +67,7 @@ sources:
   - title: "Oh What Fun! Five Below Brings Holiday Value, Trends and Fun All Under One Roof This Season"
     url: "https://s22.q4cdn.com/969286406/files/doc_news/Oh-What-Fun-Five-Below-Brings-Holiday-Value-Trends-and-Fun-All-Under-One-Roof-This-Season-2026.pdf"
     publisher: "Five Below via GlobeNewswire"
-    date: "2026-10-27"
+    date: "2026-11-25"
   - title: "Oh What Fun! Five Below Brings Holiday Value, Trends and Fun All Under One Roof This Season (GlobeNewswire copy)"
     url: "https://www.globenewswire.com/news-release/2026/10/27/3388933/21529/en/oh-what-fun-five-below-brings-holiday-value-trends-and-fun-all-under-one-roof-this-season.html"
     publisher: "Five Below via GlobeNewswire"
@@ -99,7 +100,7 @@ draft: false
 
 ## Five Below doorbuster dates for 2026
 
-| Date | Day | What Five Below published | Status on Nov. 15 |
+| Date | Day | What Five Below published | Status |
 |---|---|---|---|
 | Nov. 14, 2026 | Saturday | One-day in-store doorbuster deals | Passed |
 | Nov. 27, 2026 | Friday, Black Friday | One-day in-store doorbusters, plus a free mystery dumpling with any $30 purchase while supplies last | Upcoming |

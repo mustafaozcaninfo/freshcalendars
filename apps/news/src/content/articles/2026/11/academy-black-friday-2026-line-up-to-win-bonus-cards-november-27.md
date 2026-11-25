@@ -1,8 +1,9 @@
 ---
 title: "Academy Black Friday 2026: First 100 in Line Get Up to $500, Nov. 27"
-description: "Academy Sports + Outdoors gives the first 100 in line at each store a $20 to $500 bonus card Nov. 27. Date calendar Oct. 25 to Dec. 25 and a printable."
+description: "Academy Sports + Outdoors gives the first 100 in line at each store a $20 to $500 bonus card Nov. 27. Stores open 5 a.m., closed Thanksgiving. Printable."
 type: news
 publishedAt: "2026-11-17T14:35:00-05:00"
+updatedAt: "2026-11-25T16:50:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["academy black friday 2026", "academy sports black friday 2026", "academy line up to win 2026", "academy black friday doorbusters 2026", "academy cyber week 2026"]
@@ -17,8 +18,8 @@ assets:
     slug: academy-black-friday-2026-dates-and-line-up-to-win
     group: academy-black-friday-2026
     title: "Academy Black Friday 2026 Dates and Line-Up to Win"
-    subtitle: "Sale windows Oct. 25 to Dec. 25, bonus cards Nov. 27 and what is not announced"
-    note: "Source: Academy Sports + Outdoors release of Nov. 9, 2026. Academy has not announced Thanksgiving or Black Friday store hours in it."
+    subtitle: "Sale windows Oct. 25 to Dec. 25, bonus cards Nov. 27 and store hours"
+    note: "Source: Academy Sports + Outdoors release of Nov. 9, 2026 and Academy's Black Friday sale page."
     description: "One-page Academy Sports + Outdoors Black Friday 2026 planner: Line-Up to Win on Nov. 27, doorbusters Nov. 26 to 28, Cyber Week to Dec. 6 and 25 Days of Fun."
     alt: "Printable Academy Sports + Outdoors Black Friday 2026 planner with Line-Up to Win, doorbuster and Cyber Week dates"
     data:
@@ -28,14 +29,16 @@ assets:
         - { name: "Black Friday Doorbusters", status: open, detail: "Thu., Nov. 26 to Sat., Nov. 28", src: 1, quote: "Black Friday Doorbusters: November 26 – November 28" }
         - { name: "Cyber Week", status: open, detail: "Sun., Nov. 29 to Sun., Dec. 6", src: 1, quote: "Cyber Week: November 29 – December 6" }
         - { name: "25 Days of Fun, app only", status: limited, detail: "myAcademy Rewards members, from Tue., Dec. 1", src: 1, quote: "Beginning December 1, Academy will also launch \"25 Days of Fun,\"" }
+        - { name: "Stores on Thanksgiving Day, Nov. 26", status: closed, detail: "Closed; deals online all day", src: 2, quote: "No, we observe Thanksgiving as a day to rest and recharge, so our stores remain closed. However, you can shop our deals online throughout the day." }
+        - { name: "Stores on Black Friday, Nov. 27", status: open, detail: "Open 5 a.m. to 11 p.m.", src: 2, quote: "Stores will reopen on Black Friday at 5 a.m. and stay open until 11 p.m. for your holiday shopping needs." }
       tasks:
-        - { daysBefore: 8, task: "Black Friday Starts Now begins Thu., Nov. 19" }
-        - { daysBefore: 1, task: "Check your store page on academy.com for hours" }
-        - { daysBefore: 0, task: "Line-Up to Win: first 100 in line at your store" }
+        - { daysBefore: 2, task: "Black Friday Starts Now ends Wed., Nov. 25" }
+        - { daysBefore: 1, task: "Thanksgiving: stores closed, deals online" }
+        - { daysBefore: 0, task: "Stores open 5 a.m. to 11 p.m.; first 100 in line get a bonus card" }
       fill: ["Store hours", "Deals to buy", "Bonus card value"]
       unconfirmed:
-        - { label: "Thanksgiving Day store status", why: "The Nov. 9 release does not say whether stores are open on Nov. 26" }
-        - { label: "Black Friday store hours", why: "The Nov. 9 release gives no opening or closing times" }
+        - { label: "Line-Up to Win start time and card rules", why: "The Nov. 9 release links to separate rules" }
+        - { label: "Deal prices and products", why: "Neither source lists prices for a window" }
 hero:
   src: ../../../../assets/news/academy-black-friday-2026-line-up-to-win-bonus-cards-november-27/academy-black-friday-2026-line-up-to-win-bonus-cards-november-27.webp
   alt: "Golf club racks in an Academy Sports + Outdoors store, a file photo for Academy Black Friday 2026"
@@ -50,10 +53,10 @@ summary:
   - "Academy Sports + Outdoors says the first 100 customers in line at each store on Black Friday, Nov. 27, 2026, get a bonus card worth $20 to $500."
   - "The bonus card can be used toward in-store holiday shopping from Nov. 27 through Nov. 29."
   - "Black Friday Doorbusters run Nov. 26 to 28 and Cyber Week runs Nov. 29 to Dec. 6, according to Academy's Nov. 9 release."
-  - "The release does not give Thanksgiving Day or Black Friday store hours."
+  - "Academy's Black Friday page says stores are closed on Thanksgiving Day, with deals online, and open 5 a.m. to 11 p.m. on Black Friday."
 faq:
   - q: "Is Academy Sports + Outdoors open on Thanksgiving 2026?"
-    a: "Academy has not said. Its Nov. 9 release lists doorbusters for Nov. 26 to 28, which include Thanksgiving Day, but does not say whether that day is online only. Check your store page on academy.com."
+    a: "No. Academy's Black Friday sale page says its stores are closed on Thanksgiving Day, Nov. 26, and that you can shop its deals online throughout the day. Stores reopen on Black Friday, Nov. 27, at 5 a.m. and stay open until 11 p.m."
   - q: "When does the Academy Black Friday sale start in 2026?"
     a: "The release lists Black Friday Starts Now from Thursday, Nov. 19, to Wednesday, Nov. 25. Doorbusters follow from Thursday, Nov. 26, to Saturday, Nov. 28."
   - q: "What is Academy's Line-Up to Win?"
@@ -67,6 +70,10 @@ sources:
     url: "https://www.prnewswire.com/news-releases/academy-sports--outdoors-unwraps-top-holiday-gifts-great-value-and-more-ways-to-win-this-season-302932779.html"
     publisher: "Academy Sports + Outdoors via PR Newswire"
     date: "2026-11-09"
+  - title: "Black Friday Sale 2026"
+    url: "https://www.academy.com/black-friday"
+    publisher: "Academy Sports + Outdoors"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -107,9 +114,9 @@ The release links to separate rules. We did not read them, so card terms, the li
 
 ## Is Academy open on Thanksgiving 2026, and what are the Black Friday hours?
 
-Academy has not confirmed either in its release. Doorbusters run Nov. 26 to 28, which includes Thanksgiving Day, and the release does not say whether that day is online only. Academy's Black Friday and store-hours pages blocked our automated check, so look up your own store's page on academy.com.
+Stores are closed on Thanksgiving Day, Thursday, Nov. 26, according to Academy's Black Friday sale page, which we read on Nov. 25. The page says Academy observes Thanksgiving "as a day to rest and recharge" and that you can shop its deals online throughout the day. Stores reopen on Black Friday, Nov. 27, at 5 a.m. and stay open until 11 p.m.
 
-Yahoo Shopping lists 5 a.m. to 11 p.m. for Black Friday in a page updated Nov. 16, 2026. That is one newsroom, and Academy has not confirmed it in the release.
+One answer in the frequently asked questions on the same page says the biggest in-store deals start with an opening at 5 a.m. "on November 28, 2026." That date is a Saturday, and the page's holiday-hours box and its next answer both say Black Friday, so we give Nov. 27. Hours can differ by location, so look up your own store's page on academy.com.
 
 ## When is Academy Cyber Week 2026?
 
@@ -121,11 +128,9 @@ Beginning Tuesday, Dec. 1, Academy launches "25 Days of Fun," which the release 
 
 ## What has Academy not announced?
 
-- Thanksgiving Day store status.
-- Black Friday opening and closing times.
-- Whether the Nov. 26 doorbusters are online only.
+- Line-Up to Win rules, including the line-up start time, which are on a separate page.
 - Deal prices and products for any window.
 
 ## Print the Academy Black Friday 2026 dates
 
-The one-page printable lists the Line-Up to Win date, the doorbuster and Cyber Week windows, and the 25 Days of Fun start, with room to note the store hours you confirm.
+The one-page printable lists the Line-Up to Win date, the doorbuster and Cyber Week windows, and the 25 Days of Fun start, with room to note your own store's hours.

@@ -3,7 +3,7 @@ title: "Target Black Friday 2026: Opens 6 a.m. Nov. 27, Price Match to Dec. 24"
 description: "Target's Black Friday sale runs Nov. 22-29, 2026, with Circle 360 early access Nov. 25 and stores open 6 a.m. Nov. 27. Cyber Monday is not yet dated."
 type: news
 publishedAt: "2026-11-01T06:46:00-05:00"
-updatedAt: "2026-11-18T11:30:00-05:00"
+updatedAt: "2026-11-25T16:52:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["target black friday 2026", "target early black friday sale 2026", "target price match holiday 2026", "target deal of the day 2026"]
@@ -70,12 +70,12 @@ faq:
   - q: "Is Target open on Thanksgiving 2026?"
     a: "No. The fact sheet lists Thursday, Nov. 26, as \"All stores closed.\""
   - q: "What are Target's hours on Christmas Eve and Christmas Day 2026?"
-    a: "On Thursday, Dec. 24, all stores close by 8 p.m. local time. On Friday, Dec. 25, all stores are closed."
+    a: "On Thursday, Dec. 24, all stores close by 8 p.m. local time. On Friday, Dec. 25, all stores are closed. On Thursday, Dec. 31, all stores are open, and on Friday, Jan. 1, 2027, hours vary by location."
 sources:
   - title: "Target Announces Black Friday Deals and Giveaways to Help Families Save Big on Gifts They'll Love to Give"
     url: "https://corporate.target.com/press/release/2026/11/target-announces-black-friday-deals-and-giveaways-to-help-families-save-big-on-gifts-they-ll-love-to"
     publisher: "Target"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Target Makes it Easier for Guests to Discover Stylish Holiday Gifts They Can't Wait to Give"
     url: "https://corporate.target.com/press/release/2026/10/target-makes-it-easier-for-guests-to-discover-stylish-holiday-gifts-they-can-t-wait-to-give"
     publisher: "Target"
@@ -83,11 +83,11 @@ sources:
   - title: "Holiday Help FAQs"
     url: "https://www.target.com/help/articles/holiday-help/holiday-help-faqs"
     publisher: "Target"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "2026 Holiday Shopping at Target: Answers to Guests' Most Frequently Asked Questions"
     url: "https://corporate.target.com/press/fact-sheet/2026/11/holiday-shopping-information"
     publisher: "Target"
-    date: "2026-11-13"
+    date: "2026-11-25"
   - title: "Target Early Black Friday Deals and Holiday Savings"
     url: "https://corporate.target.com/press/fact-sheet/2025/10/holiday-savings"
     publisher: "Target"
@@ -114,7 +114,7 @@ downloads:
 draft: false
 ---
 
-**Target's Black Friday sales event runs Sunday, Nov. 22, through Sunday, Nov. 29, 2026, according to the company's Nov. 17 press release.** Target says guests can save up to 50% on thousands of top gifts, and new Black Friday weekend deals drop Nov. 26-29. Target Circle 360 members get 24 hours of early access to select deals from Wednesday, Nov. 25, at 2 a.m. Central Time (CT). Stores are closed Thanksgiving Day, Thursday, Nov. 26, and open at 6 a.m. local time on Black Friday, Nov. 27, and the Holiday Price Match and Deal of the Day run to Dec. 24. Early Black Friday deals ran Nov. 5-7. Target has not dated Cyber Monday. The table below sets Target's 2026 dates beside last year's, and a one-page printable lists them.
+**Target's Black Friday sales event runs Sunday, Nov. 22, through Sunday, Nov. 29, 2026, according to the company's Nov. 17 press release.** Target says guests can save up to 50% on thousands of top gifts, and new Black Friday weekend deals drop Nov. 26-29. Target Circle 360 members get 24 hours of early access to select deals from Wednesday, Nov. 25, at 2 a.m. Central Time (CT). Stores are closed Thanksgiving Day, Thursday, Nov. 26, and open at 6 a.m. local time on Black Friday, Nov. 27, and the Holiday Price Match and Deal of the Day run to Dec. 24. Early Black Friday deals ran Nov. 5-7. Target has not dated Cyber Monday. Target's 2026 dates sit beside last year's below, and a one-page printable lists them.
 
 ## Target holiday deal dates for 2026 and 2025
 
@@ -124,7 +124,7 @@ draft: false
 | Holiday Price Match | Nov. 1 to Dec. 24 | Nov. 1 to Dec. 24 |
 | Early Black Friday sale | Ended: Thu., Nov. 5, to Sat., Nov. 7 | Nov. 6-8 |
 | Black Friday sale | Sun., Nov. 22, to Sun., Nov. 29 | Sun., Nov. 23, to Sat., Nov. 29 |
-| Circle 360 early access | Starts Wed., Nov. 25, 2 a.m. CT, for 24 hours | Not in our sources |
+| Circle 360 early access | Started Wed., Nov. 25, 2 a.m. CT, for 24 hours | Not in our sources |
 | Thanksgiving Day stores | All stores closed | Not in our sources |
 | Black Friday store opening | 6 a.m. local time | 6 a.m. local time |
 | Cyber Monday | Not yet announced | Nov. 30 to Dec. 1, online-only deals |
@@ -137,17 +137,18 @@ Target's Nov. 17 release says "Nov. 22-29: Guests can save up to 50% on thousand
 
 | Date | Target Black Friday 2026 (Nov. 17 release) |
 |---|---|
-| Sun., Nov. 22 | Black Friday sale starts |
+| Sun., Nov. 22 | Black Friday sale started |
 | Wed., Nov. 25 | Circle 360 early access, 2 a.m. CT |
 | Thu., Nov. 26 | Stores closed; new weekend deals begin dropping Nov. 26-29 |
-| Fri., Nov. 27 | Stores open 6 a.m. local time; GiftCard giveaway |
+| Fri., Nov. 27 | Stores open 6 a.m. local time; GiftCard giveaway; Black Friday Deal of the Day |
+| Sat., Nov. 28 | Pokémon trading card game drop |
 | Sun., Nov. 29 | Sale ends |
 
-Weekdays are our computation. For the giveaway, the first 100 eligible guests at every Target store on Friday, Nov. 27, receive a Target GiftCard valued at $25, $50 or $100, and one guest at each store receives a $1,000 GiftCard. Target says guests must be 13 or older, no purchase is necessary, and tickets must be redeemed within the first hour after store opening. Official rules are at Target.com/BlackFridayGiveaway.
+Weekdays are our computation. For the giveaway, the first 100 eligible guests at every Target store on Friday, Nov. 27, receive a Target GiftCard valued at $25, $50 or $100, and one guest at each store receives a $1,000 GiftCard. Target says guests must be 13 or older, no purchase is necessary, and tickets must be redeemed within the first hour after store opening. Official rules are at Target.com/BlackFridayGiveaway. The release also lists a Black Friday Deal of the Day, 50% off pajamas for all, "Nov. 27 only," and a Pokémon trading card game drop on Nov. 28.
 
 ## What are Target's store hours for Thanksgiving, Black Friday and Christmas 2026?
 
-Target's Nov. 5, 2026 fact sheet lists these hours:
+Target's holiday shopping fact sheet, updated Nov. 19, 2026, lists these hours:
 
 | Date | Target store hours, 2026 |
 |---|---|
@@ -156,6 +157,8 @@ Target's Nov. 5, 2026 fact sheet lists these hours:
 | Nov. 29 through Dec. 23 | "store hours will be temporarily extended for the holiday season. Extended hours vary by location." |
 | Thu., Dec. 24 (Christmas Eve) | "All stores close by 8 p.m. local time" |
 | Fri., Dec. 25 (Christmas Day) | "All stores closed" |
+| Thu., Dec. 31 (New Year's Eve) | "All stores open" |
+| Fri., Jan. 1, 2027 (New Year's Day) | "Store hours vary by location" |
 
 The fact sheet also says "New this year, you can preview the next day's featured Deal of the Day one day in advance." Weekdays are our computation.
 

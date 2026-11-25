@@ -3,7 +3,7 @@ title: "Black Friday 2026 Price Drops: Target to Dec. 24, Best Buy Jan. 15"
 description: "Black Friday 2026 price adjustment: Target refunds a price drop through Dec. 24. Best Buy matches its own lower price; Walmart.com does not refund drops."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
-updatedAt: "2026-11-14T17:18:00-05:00"
+updatedAt: "2026-11-25T16:52:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["price adjustment policy black friday 2026", "does target refund price difference", "price drop after purchase", "best buy price adjustment 2026"]
@@ -29,8 +29,7 @@ assets:
       - ["Thu., Dec. 24", "Target price must drop on or before this day"]
       - ["Thu., Dec. 31", "Best Buy holiday purchases end"]
       - ["Jan. 15, 2027 (Fri.)", "Best Buy holiday price match claims end"]
-    note: "Source: Target Price Match Guarantee, Best Buy Price Match Guarantee and Walmart Price Match Policy, checked Oct. 30, 2026. Walmart.com does not refund later drops; Amazon terms not confirmed."
-    inkSaver: true
+    note: "Source: Target Price Match Guarantee, Best Buy Price Match Guarantee, Walmart Price Match Policy and Amazon Pricing and Price Matching. Walmart.com does not refund later drops; Amazon says it does not offer price matching compensation."
     description: "One-page list of 2026 holiday price adjustment dates for Target and Best Buy, from Oct. 30, 2026 to Jan. 15, 2027 with weekdays."
     alt: "Printable list of holiday price adjustment dates for Target and Best Buy from Oct. 30, 2026 to Jan. 15, 2027"
 hero:
@@ -48,7 +47,7 @@ summary:
   - "Target's 2026 holiday window opened Sunday, Nov. 1, and covers those purchases if Target's price drops on or before Thursday, Dec. 24; outside it, the window is 14 days."
   - "Best Buy says it matches its own lower price during the return and exchange period, and its holiday price match covers most purchases from Oct. 30 to Dec. 31, claimable through Friday, Jan. 15, 2027."
   - "Walmart's policy says Walmart.com does not match prices for items already bought on Walmart.com that have since dropped."
-  - "Amazon's price matching help page returned an error on Oct. 30, 2026, so its current terms are not confirmed here."
+  - "Amazon's Pricing and Price Matching help page says it does not offer price matching compensation; it does not address price drops after a purchase."
 faq:
   - q: "Does Target refund the difference if the price drops after I buy?"
     a: "Target's Price Match Guarantee says that for purchases from Nov. 1, 2026, a price that goes lower at Target on or before Dec. 24, 2026 can be adjusted, with proof of purchase."
@@ -60,11 +59,11 @@ sources:
   - title: "Price Match Guarantee"
     url: "https://www.target.com/help/articles/policies-guidelines/price-match-guarantee"
     publisher: "Target"
-    date: "2026-11-14"
+    date: "2026-11-25"
   - title: "Target help article on price matches and adjustments"
     url: "https://www.target.com/help/article/000062256"
     publisher: "Target"
-    date: "2026-10-30"
+    date: "2026-11-25"
   - title: "Price Match Guarantee"
     url: "https://www.bestbuy.com/site/help-topics/price-match-guarantee/pcmcat290300050002.c?id=pcmcat290300050002"
     publisher: "Best Buy"
@@ -72,7 +71,11 @@ sources:
   - title: "Walmart Price Match Policy"
     url: "https://corporate.walmart.com/policies"
     publisher: "Walmart"
-    date: "2023-06-08"
+    date: "2026-11-25"
+  - title: "Pricing and Price Matching"
+    url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=G9EAYKPV5YYDB8P7"
+    publisher: "Amazon"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -90,18 +93,10 @@ downloads:
     pdf: "/news/downloads/price-adjustment-2026/holiday-price-adjustment-dates-2026.pdf"
     png: "/news/downloads/price-adjustment-2026/holiday-price-adjustment-dates-2026.png"
     pages: 1
-  - group: "Holiday Price Adjustment Dates 2026 printables"
-    title: "Holiday Price Adjustment Dates 2026 (ink saver)"
-    description: "One-page list of 2026 holiday price adjustment dates for Target and Best Buy, from Oct. 30, 2026 to Jan. 15, 2027 with weekdays. Ink-saver version."
-    preview: ../../../../assets/news/price-adjustment-2026/holiday-price-adjustment-dates-2026-ink.png
-    alt: "Printable list of holiday price adjustment dates for Target and Best Buy from Oct. 30, 2026 to Jan. 15, 2027, ink-saver version"
-    pdf: "/news/downloads/price-adjustment-2026/holiday-price-adjustment-dates-2026-ink.pdf"
-    png: "/news/downloads/price-adjustment-2026/holiday-price-adjustment-dates-2026-ink.png"
-    pages: 1
 draft: false
 ---
 
-**Target's 2026 holiday price adjustment window opened Sunday, Nov. 1, and covers those purchases if Target's own price drops on or before Thursday, Dec. 24, according to Target's Price Match Guarantee page.** Best Buy says it matches its own lower price during the return and exchange period, and Walmart's policy says Walmart.com does not refund later drops on Walmart.com purchases. Policies were checked on each retailer's own page on Oct. 30, 2026, and Target's page was read again on Nov. 14 with the same dates.
+**Target's 2026 holiday price adjustment window opened Sunday, Nov. 1, and covers those purchases if Target's own price drops on or before Thursday, Dec. 24, according to Target's Price Match Guarantee page.** Best Buy says it matches its own lower price during the return and exchange period, and Walmart's policy says Walmart.com does not refund later drops on Walmart.com purchases. Policies were read on each retailer's own page on Oct. 30, 2026. Target's and Walmart's pages were read again on Nov. 25 with the same terms, and Best Buy's page could not be loaded that day, so its terms are as read Oct. 30.
 
 A price match uses another store's lower price. A price adjustment uses the same store's lower price after you have already paid. This story covers the second case. For competitor prices, see our guide to [Black Friday 2026 price match policies](/news/black-friday-2026-price-match-policy-stores/).
 
@@ -114,7 +109,7 @@ Thanksgiving is Thursday, Nov. 26, 2026, and Black Friday is the next day, Nov. 
 | Target | Yes, for the holiday window | Purchases since Sun., Nov. 1; price must drop on or before Thu., Dec. 24. Otherwise 14 days | Proof of purchase; original receipt or packing slip within 14 days | [Target](https://www.target.com/help/articles/policies-guidelines/price-match-guarantee) |
 | Best Buy | Yes, during the return and exchange period | Holiday price match: most purchases Oct. 30 to Dec. 31, claimable through Fri., Jan. 15, 2027 | Not stated on the page | [Best Buy](https://www.bestbuy.com/site/help-topics/price-match-guarantee/pcmcat290300050002.c?id=pcmcat290300050002) |
 | Walmart | No, for Walmart.com purchases | Not applicable | Not applicable | [Walmart](https://corporate.walmart.com/policies) |
-| Amazon | Not confirmed | Not confirmed | Not confirmed | [Amazon help page](https://www.amazon.com/gp/help/customer/display.html?nodeId=G9EAYKPV5YYDB8P7) |
+| Amazon | Not given; its page says it does not offer price matching compensation | Not given | Not given | [Amazon help page](https://www.amazon.com/gp/help/customer/display.html?nodeId=G9EAYKPV5YYDB8P7) |
 
 ## How does Target's holiday price adjustment work?
 
@@ -155,7 +150,7 @@ The policy text on the page is dated June 8, 2023, and Walmart says it reserves 
 
 ## What about Amazon?
 
-Amazon's Price Matching help page returned a 503 server error when we checked it on Oct. 30, 2026. Its current terms are not confirmed, so this story makes no claim about Amazon's policy. Check the page before you buy.
+Amazon's Pricing and Price Matching help page says: "we don't offer price matching compensation." The page does not say whether Amazon adjusts the price after you have bought, so no claim is made about that. Check the page before you buy.
 
 ## What should you keep to claim an adjustment?
 

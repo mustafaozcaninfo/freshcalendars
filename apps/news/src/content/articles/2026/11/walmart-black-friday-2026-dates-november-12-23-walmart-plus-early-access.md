@@ -1,18 +1,18 @@
 ---
-title: "Walmart Black Friday 2026 Starts Nov. 23; Early Deals Nov. 12"
-description: "Walmart Black Friday 2026 deals start Nov. 23 at 12:01 a.m. ET online; early deals began Nov. 12. Walmart+ access times, a time zone table and a printable."
+title: "Walmart Black Friday 2026: Online Nov. 23, Stores Nov. 27, 6 a.m."
+description: "Walmart Black Friday 2026 deals began online Nov. 23 at 12:01 a.m. ET; stores open 6 a.m. Nov. 27, closed Thanksgiving. Time zone table, printable."
 type: news
 publishedAt: "2026-10-31T23:41:00-04:00"
-updatedAt: "2026-11-19T01:42:00-05:00"
+updatedAt: "2026-11-25T16:49:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["walmart black friday 2026", "when does walmart black friday start 2026", "walmart+ early access black friday 2026", "walmart cyber monday 2026"]
 dateline: "Bentonville, Ark."
 assets:
   overlay: true
-  kicker: "Walmart Black Friday 2026 · Nov. 23"
-  date: "2026-11-23"
-  card: { top: "Black Friday Deals online", big: "Nov. 23", bottom: "12:01 a.m. ET, Walmart+ same time" }
+  kicker: "Walmart Black Friday 2026 · Nov. 27"
+  date: "2026-11-27"
+  card: { top: "Stores open Black Friday at", big: "6 a.m.", bottom: "Nov. 27; closed Thanksgiving" }
   printable:
     kit: fact-table
     slug: walmart-black-friday-2026-fact-table
@@ -33,11 +33,12 @@ assets:
         - { key: stores, label: "Stores" }
       rows:
         - { cells: { event: "Early Black Friday Deals", dates: "Nov. 12 to Nov. 15 (ended)", online: "12:01 a.m. ET, Nov. 12 (began)", early: "12:01 a.m. ET, Nov. 12 (began)", stores: "6 a.m. local time" }, src: 1 }
-        - { cells: { event: "Black Friday Deals", dates: "Nov. 23 to Nov. 29", online: "12:01 a.m. ET, Nov. 23", early: "12:01 a.m. ET, Nov. 23", stores: "Nov. 27 at 6 a.m. local time" }, src: 1 }
+        - { cells: { event: "Black Friday Deals", dates: "Nov. 23 to Nov. 29", online: "12:01 a.m. ET, Nov. 23 (began)", early: "12:01 a.m. ET, Nov. 23 (began)", stores: "Nov. 27 at 6 a.m. local time" }, src: 1 }
         - { cells: { event: "Cyber Monday Deals", dates: "Nov. 30 to Dec. 2", online: "12:01 a.m. ET, Nov. 30", early: "Not listed", stores: "Not listed" }, src: 1 }
       note:
-        - "Remaining hot Deal drop items open to all customers at 12:01 a.m. ET on Nov. 24."
-        - "The Nov. 12 and Nov. 13 times have passed."
+        - "Remaining hot Deal drop items opened to all customers at 12:01 a.m. ET on Nov. 24."
+        - "The Nov. 12, Nov. 13, Nov. 23 and Nov. 24 times have passed."
+        - "Walmart stores are closed on Thursday, Nov. 26."
         - "12:01 a.m. ET is 9:01 p.m. the evening before in Pacific Time; in-store openings do not shift."
 hero:
   src: ../../../../assets/news/walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access/walmart-black-friday-2026-dates-november-12-23-walmart-plus-early-access.webp
@@ -52,24 +53,24 @@ hero:
 summary:
   - "Walmart's three 2026 holiday shopping events run from Nov. 12 through Dec. 2, according to its Oct. 26 press release."
   - "Online starts are 12:01 a.m. Eastern Time (ET) on Nov. 12, Nov. 23 and Nov. 30; for Pacific Time (PT) shoppers that is 9:01 p.m. the evening before."
-  - "Walmart+ early access to hot Deal drops began at 12:01 a.m. ET on Nov. 12 and begins at the same time on Nov. 23, a change from 7 p.m. ET the evening before in 2025."
-  - "The release does not give Thanksgiving Day store status, Black Friday hours beyond the 6 a.m. local opening, a 2026 price match or specific deals."
+  - "Walmart+ early access to hot Deal drops began at 12:01 a.m. ET on Nov. 12 and again on Nov. 23, a change from 7 p.m. ET the evening before in 2025."
+  - "Walmart stores are closed on Thanksgiving Day, Thursday, Nov. 26, and open at 6 a.m. local time on Friday, Nov. 27, per Walmart's holiday hours page; it gives no Black Friday closing time."
 faq:
   - q: "When does Walmart Black Friday 2026 start?"
-    a: "Walmart's first event, Early Black Friday Deals, began on Walmart.com at 12:01 a.m. ET on Thursday, Nov. 12, 2026, and ran through Nov. 15. The Black Friday Deals event begins online at 12:01 a.m. ET on Monday, Nov. 23, and in stores on Nov. 27 at 6 a.m. local time. The release also lists the Early Black Friday Deals event as beginning in stores at 6 a.m. local time, with no separate in-store date."
+    a: "Walmart's first event, Early Black Friday Deals, began on Walmart.com at 12:01 a.m. ET on Thursday, Nov. 12, 2026, and ran through Nov. 15. The Black Friday Deals event began online at 12:01 a.m. ET on Monday, Nov. 23, and begins in stores on Nov. 27 at 6 a.m. local time. The release also lists the Early Black Friday Deals event as beginning in stores at 6 a.m. local time, with no separate in-store date."
   - q: "When does Walmart+ early access start in 2026?"
-    a: "At 12:01 a.m. ET on Nov. 12 (already past) and on Nov. 23 for hot Deal drops, per Walmart's release. Remaining hot Deal drop items opened to all customers at 12:01 a.m. ET on Nov. 13 and open at 12:01 a.m. ET on Nov. 24."
+    a: "At 12:01 a.m. ET on Nov. 12 and again on Nov. 23 for hot Deal drops (both already past), per Walmart's release. Remaining hot Deal drop items opened to all customers at 12:01 a.m. ET on Nov. 13 and Nov. 24."
   - q: "When is Walmart Cyber Monday 2026?"
     a: "Cyber Monday Deals run Monday, Nov. 30, through Wednesday, Dec. 2, 2026. The release says the event begins on Walmart.com at 12:01 a.m. ET. That moment is 11:01 p.m. Central Time (CT), 10:01 p.m. Mountain Time (MT), 9:01 p.m. Pacific Time (PT), 8:01 p.m. in Alaska and 7:01 p.m. in Hawaii on Sunday, Nov. 29 (our conversion)."
   - q: "Is Walmart open on Thanksgiving 2026?"
-    a: "The Oct. 26 release does not give Thanksgiving Day (Thursday, Nov. 26) store status."
+    a: "No. Walmart's holiday 2026 store hours page says stores are closed on Thanksgiving Day, Thursday, Nov. 26, after closing at the regular 11 p.m. on Wednesday, Nov. 25. They open at 6 a.m. local time on Friday, Nov. 27. Hours may vary by location."
   - q: "What time do Walmart stores open on Black Friday 2026?"
-    a: "The release says in stores on Nov. 27 at 6 a.m. local time. It gives no other Black Friday store hours."
+    a: "Stores open at 6 a.m. local time on Friday, Nov. 27, per the release and Walmart's holiday hours page. Neither gives a Black Friday closing time."
 sources:
   - title: "Walmart Unwraps Three Major Holiday Shopping Events, Bringing Big Savings on Gifts and Seasonal Favorites"
     url: "https://corporate.walmart.com/news/2026/10/walmart-unwraps-three-major-holiday-shopping-events"
     publisher: "Walmart"
-    date: "2026-10-26"
+    date: "2026-11-25"
   - title: "Walmart Announces 2025 Black Friday Deals Events Wrapped in the Magic of WhoKnewVille"
     url: "https://corporate.walmart.com/news/2025/10/27/walmart-announces-2025-black-friday-deals-events-wrapped-in-the-magic-of-whoknewville"
     publisher: "Walmart"
@@ -78,6 +79,10 @@ sources:
     url: "https://retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747"
     publisher: "Retail Dive"
     date: "2026-10-26"
+  - title: "What are Walmart's holiday 2026 store hours?"
+    url: "https://corporate.walmart.com/askwalmart/what-are-walmarts-holiday-2026-store-hours"
+    publisher: "Walmart"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -98,14 +103,14 @@ downloads:
 draft: false
 ---
 
-**Walmart's three 2026 holiday shopping events run from Nov. 12 through Dec. 2, and each one begins on Walmart.com at 12:01 a.m. Eastern Time (ET), according to the company's Oct. 26 press release.** Early Black Friday Deals ran from Thursday, Nov. 12, through Sunday, Nov. 15. Black Friday Deals start Monday, Nov. 23, and Cyber Monday Deals start Monday, Nov. 30. Walmart+ members get early access to hot Deal drops at the same minute the first two events open. The tables below add a time zone conversion and a 2025 comparison, and there is a one-page printable.
+**Walmart's three 2026 holiday shopping events run from Nov. 12 through Dec. 2, and each one begins on Walmart.com at 12:01 a.m. Eastern Time (ET), according to the company's Oct. 26 press release.** Early Black Friday Deals ran from Thursday, Nov. 12, through Sunday, Nov. 15. Black Friday Deals began Monday, Nov. 23, and Cyber Monday Deals start Monday, Nov. 30. Stores are closed on Thursday, Nov. 26, and open at 6 a.m. local time on Friday, Nov. 27. Walmart+ members get early access to hot Deal drops at the same minute the first two events open. The tables below add a time zone conversion and a 2025 comparison, and there is a one-page printable.
 
 ## Walmart Black Friday 2026 dates and start times
 
 | Event | Dates (2026) | Walmart.com start | Stores |
 |---|---|---|---|
 | Early Black Friday Deals | Thu., Nov. 12 to Sun., Nov. 15 (ended) | 12:01 a.m. ET, Nov. 12 (began) | 6 a.m. local time |
-| Black Friday Deals | Mon., Nov. 23 to Sun., Nov. 29 | 12:01 a.m. ET, Nov. 23 | Nov. 27 at 6 a.m. local time |
+| Black Friday Deals | Mon., Nov. 23 to Sun., Nov. 29 | 12:01 a.m. ET, Nov. 23 (began) | Nov. 27 at 6 a.m. local time |
 | Cyber Monday Deals | Mon., Nov. 30 to Wed., Dec. 2 | 12:01 a.m. ET, Nov. 30 | Not listed in the release |
 
 For Early Black Friday Deals the release said the event begins "in stores at 6 a.m. local time" and gives no separate in-store date, so we list no date for it. For Cyber Monday the release says only "Event begins on Walmart.com at 12:01 a.m. ET" and does not mention stores or an end time. The weekdays are our computation. Our [Black Friday date page](/when-is/black-friday/) confirms Nov. 27 as Black Friday, and you can mark each start on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html).
@@ -114,7 +119,7 @@ By our arithmetic the three events add up to 14 sale days: 4 (Nov. 12 to 15), 7 
 
 ## When does Walmart+ early access start?
 
-Walmart+ early access to hot Deal drops began at 12:01 a.m. ET on Nov. 12 and starts again at 12:01 a.m. ET on Nov. 23. Remaining hot Deal drop items opened to all customers at 12:01 a.m. ET on Nov. 13 and open again at 12:01 a.m. ET on Nov. 24. The release also says "select online-only Deals will be reserved exclusively for Walmart+ members for the first 24 hours, while supplies last" for the Early and core Black Friday events. It lists no member early access for Cyber Monday.
+Walmart+ early access to hot Deal drops began at 12:01 a.m. ET on Nov. 12 and again at 12:01 a.m. ET on Nov. 23. Remaining hot Deal drop items opened to all customers at 12:01 a.m. ET on Nov. 13 and again on Nov. 24. The release also says "select online-only Deals will be reserved exclusively for Walmart+ members for the first 24 hours, while supplies last" for the Early and core Black Friday events. It lists no member early access for Cyber Monday.
 
 ## What time is the Walmart.com start in each U.S. time zone?
 
@@ -144,12 +149,13 @@ Walmart's 2025 release, from Oct. 27, 2025, listed these events and times. The W
 | Cyber Monday | Dec. 1, online only | Nov. 30 to Dec. 2, Walmart.com start listed |
 | Walmart+ early access, Cyber Monday | Nov. 30 at 7 p.m. ET | Not listed |
 
-In 2025 members got early access at 7 p.m. ET the evening before; in 2026 it begins at 12:01 a.m. ET on the first day.
+In 2025 members got early access at 7 p.m. ET the evening before; in 2026 it began at 12:01 a.m. ET on the first day.
 
-## What the Oct. 26 release does not give for Black Friday 2026?
+## Are Walmart stores open on Thanksgiving 2026, and what is still not given?
 
-- Whether Walmart stores are open on Thanksgiving Day, Thursday, Nov. 26; the Oct. 26 release is silent on it. For other chains, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/).
-- Black Friday store hours beyond the 6 a.m. local opening.
+Walmart's holiday 2026 store hours page says stores are closed on Thursday, Nov. 26, after closing at the regular 11 p.m. on Wednesday, Nov. 25, and open at 6 a.m. local time on Friday, Nov. 27. Hours may vary by location. For other chains, see our [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/). The Oct. 26 release and the hours page do not give:
+
+- A Black Friday closing time.
 - A 2026 price match or holiday price guarantee. Our [price match policy story](/news/black-friday-2026-price-match-policy-stores/) tracks the stores that have published one.
 - Specific deals and ad items. Our [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) follows Walmart, Target and Best Buy as they publish. The Home Depot's sale runs on a different schedule, covered in our [Home Depot Black Friday 2026 story](/news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/).
 

@@ -3,6 +3,7 @@ title: "Ace Hardware Black Friday 2026: 50% Off One Item Nov. 27, Code BF26"
 description: "Ace Rewards members get 50% off one item $30 or less Nov. 27 (code BF26), then 15% off Nov. 28-30. Sale and regular prices for 14 deals and a printable."
 type: news
 publishedAt: "2026-11-24T06:10:00-05:00"
+updatedAt: "2026-11-25T16:48:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["ace hardware black friday 2026", "ace hardware black friday deals 2026", "is ace hardware open on thanksgiving 2026", "ace rewards black friday"]
@@ -104,7 +105,7 @@ sources:
   - title: "Ace Hardware's 2026 Holiday Gift Guide Delivers Unexpected Gifts & Seasonal Savings"
     url: "https://newsroom.acehardware.com/2026-11-02-Ace-Hardwares-2026-Holiday-Gift-Guide-Delivers-Unexpected-Gifts-Seasonal-Savings"
     publisher: "Ace Hardware newsroom"
-    date: "2026-11-02"
+    date: "2026-11-25"
   - title: "Wrap It In Red: Ace Hardware Unveils Curated Gift Guides for the Holiday Season"
     url: "https://www.prnewswire.com/news-releases/wrap-it-in-red-ace-hardware-unveils-curated-gift-guides-for-the-holiday-season-302598073.html"
     publisher: "Ace Hardware via PR Newswire"
@@ -156,7 +157,7 @@ Other items the release lists without a regular price: an Ace holiday mini bucke
 | Date | What the release says | Source wording |
 |---|---|---|
 | Nov. 13-15 (over) | Milwaukee "Gift Like a Pro": 10% off regularly priced in-store Milwaukee products with a $5 donation to Children's Miracle Network | Event dates |
-| Thu., Nov. 19 | Gozney Arc pizza oven deal starts | "Deal valid from Nov. 19-Dec. 24 only" |
+| Thu., Nov. 19 | Gozney Arc pizza oven deal started | "Deal valid from Nov. 19-Dec. 24 only" |
 | Wed., Nov. 25 to Sun., Nov. 29 | Flash sale items: dog tumbler, holiday mini bucket, sauces and rubs | "Flash sale deals valid Nov. 25-29 only" |
 | Fri., Nov. 27 | Ace Rewards Black Friday Deal: 50% off one item $30 or less, online code BF26 | "Black Friday Deal (Nov. 27 only)" |
 | Sat., Nov. 28 to Mon., Nov. 30 | Ace Rewards Holiday Weekend Savings: 15% off regularly priced merchandise, online code HOLIDAY26 | "Holiday Weekend Savings (Nov. 28-30)" |

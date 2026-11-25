@@ -3,7 +3,7 @@ title: "7-Eleven Black Friday 2026: Free Large Pizza on $30 Orders, Nov. 27"
 description: "7-Eleven's Black Friday code (BLKFRI) gets a free large pizza on $30+ delivery; Thanksgiving's (THANKFUL) is $20 off $30. Each deal to Jan. 5, printable."
 type: news
 publishedAt: "2026-11-25T06:00:00-05:00"
-updatedAt: "2026-11-25T06:00:00-05:00"
+updatedAt: "2026-11-25T16:48:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["7-eleven black friday 2026", "7-eleven thanksgiving deal 2026", "7-eleven cyber monday code", "7now promo code", "7-eleven free pizza code"]
@@ -37,7 +37,7 @@ assets:
         - { cells: { date: "Tue., Dec. 1 to Fri., Dec. 25", offer: "7NOW digital advent calendar", min: "$20", who: "Gold Pass members, 1 per order" }, src: 2, quote: "7NOW digital advent calendar Dec. 1-25 ... Exclusive to 7-Eleven Gold Pass members with a minimum $20 basket. Limit 1 per order." }
         - { cells: { date: "Thu., Dec. 17 to Wed., Dec. 30", offer: "$1.25 snacks", min: "None stated", who: "Participating stores" }, src: 2, quote: "$1.25 snacks ... Offer valid from 12/17/26 - 12/30/26 only." }
         - { cells: { date: "Through Tue., Jan. 5", offer: "$1 Snack Pies; 2 Iced Cappuccinos for $6; 2 Red Bull Winter Edition for $6.50", min: "None stated", who: "Participating stores" }, src: 2, quote: "$1 each for a limited time ... two 7-Select Iced Cappuccinos for $6 ... two 12-ounce Red Bull Winter Edition drinks for $6.50 ... Offer valid from 10/28/26 - 1/5/27." }
-      note: "7-Eleven did not post Thanksgiving or Christmas 2026 store hours, a Christmas Day code or dates for the $3 coffee and bakery deal."
+      note: "7-Eleven did not post Thanksgiving or Christmas 2026 store hours or a Christmas Day code."
 hero:
   src: ../../../../assets/news/7-eleven-black-friday-2026-free-pizza-code-blkfri/7-eleven-black-friday-2026-free-pizza-code-blkfri.webp
   alt: "File photo of a 7-Eleven store beside a Pizza Hut in Fairland, Maryland, for the 7-Eleven Black Friday 2026 free pizza code BLKFRI"
@@ -69,11 +69,11 @@ sources:
   - title: "7-Eleven, Inc. Serves Up Savings for Thanksgiving, Black Friday and Cyber Monday"
     url: "https://www.prnewswire.com/news-releases/7-eleven-inc-serves-up-savings-for-thanksgiving-black-friday-and-cyber-monday-302941621.html"
     publisher: "7-Eleven, Inc. via PR Newswire"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "'Tis the Season at 7-Eleven, Inc. with New Sips and Savings on Holiday Coffee Favorites"
     url: "https://www.prnewswire.com/news-releases/tis-the-season-at-7-eleven-inc-with-new-sips-and-savings-on-holiday-coffee-favorites-302948871.html"
     publisher: "7-Eleven, Inc. via PR Newswire"
-    date: "2026-11-24"
+    date: "2026-11-25"
   - title: "7-Eleven cooks up Thanksgiving weekend deals"
     url: "https://www.convenience.org/stay-current/news/2026/november/18/7-eleven-cooks-up-thanksgiving-weekend-deals"
     publisher: "Convenience.org (NACS)"
@@ -110,7 +110,7 @@ draft: false
 | Fri., Nov. 27 | BLKFRI | Free large pizza | $30 | Delivery |
 | Mon., Nov. 30 | LOADUP | $25 off | $50 | Delivery |
 
-Source: 7-Eleven release, Nov. 17, 2026; Convenience.org (National Association of Convenience Stores), Nov. 18, 2026, lists the same codes. Each offer is "valid only" on its date. For Black Friday the release says "Small basket fees may apply" and "Convenience fees will apply." One fine-print line in the release shows a different date for the pizza offer than the body and footnote, which both say Nov. 27, so check the 7NOW app before you order. A Friendsgiving code (FRIENDS) was valid only Nov. 21 and is over.
+Source: 7-Eleven release, Nov. 17, 2026; Convenience.org (National Association of Convenience Stores), Nov. 18, 2026, lists the same codes. Each offer is "valid only" on its date. For Black Friday the release says "Small basket fees may apply" and "Convenience fees will apply." The release's fine print for the pizza offer also says Nov. 27. A Friendsgiving code (FRIENDS) was valid only Nov. 21 and is over.
 
 ## 7-Eleven deals by date, Nov. 26 to Jan. 5
 
@@ -133,7 +133,7 @@ In 2025, 7-Eleven's Thanksgiving code (THANKS) was also $20 off $30, valid Nov. 
 
 The Nov. 24 release adds a limited-time Cinnamon Churro 7-Select Iced Cappuccino. Two 7-Select Iced Cappuccinos cost $6, and two 12-ounce Red Bull Winter Edition drinks cost $6.50, both valid Oct. 28 to Jan. 5, 2027. The $1.25 snacks are 7-Select chocolate bars, Rice Krispies Treats and Quaker Chewy Bars, valid only Dec. 17-30.
 
-7Rewards and Speedy Rewards members can get a large coffee and a bakery item for $3, with peppermint mocha creamer, or brown sugar cinnamon cappuccino syrup or powder, as add-ons. The release gives no dates for the $3 deal and does not name the bakery item.
+7Rewards and Speedy Rewards members can get a large coffee and a bakery item for $3, with peppermint mocha creamer, or brown sugar cinnamon cappuccino syrup or powder, as add-ons. The Nov. 24 release lists the $3 deal as valid Oct. 28, 2026 to Jan. 5, 2027, plus tax, for members only, and does not name the bakery item.
 
 ## Is 7-Eleven open on Thanksgiving and Christmas 2026?
 

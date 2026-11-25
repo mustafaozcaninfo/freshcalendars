@@ -1,9 +1,9 @@
 ---
-title: "Mattress Black Friday 2026: Sale End Dates by Brand, Purple Dec. 7"
-description: "Avocado's mattress sale ends Nov. 28 and Purple's Dec. 7; Casper, Nectar and others post no end date. A table of ten brands' offers and a free printable."
+title: "Mattress Black Friday 2026: Sale End Dates by Brand, Purple Dec. 1"
+description: "Avocado's mattress sale ends Nov. 28 and Purple's Dec. 1; Casper, Nectar and others post no end date. A table of ten brands' offers and a free printable."
 type: news
 publishedAt: "2026-11-25T06:20:00-05:00"
-updatedAt: "2026-11-25T06:20:00-05:00"
+updatedAt: "2026-11-25T16:50:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["mattress black friday 2026", "purple black friday 2026", "casper black friday sale", "avocado mattress black friday", "when do mattress sales end"]
@@ -11,7 +11,7 @@ assets:
   overlay: true
   kicker: "Mattress Black Friday 2026"
   date: "2026-11-28"
-  card: { top: "Avocado sale ends", big: "Nov. 28", bottom: "Purple runs through Dec. 7" }
+  card: { top: "Avocado sale ends", big: "Nov. 28", bottom: "Purple runs through Dec. 1" }
   printable:
     kit: fact-table
     slug: mattress-black-friday-2026-offers-by-brand
@@ -29,8 +29,8 @@ assets:
         - { key: code, label: "Code needed" }
       rows:
         - { cells: { brand: "Avocado", offer: "Up to 20% off sitewide", ends: "Nov. 28, 2026", code: "No" }, src: 2, quote: "Save up to 20% sitewide on certified organic mattresses, pillows, bedding, and furniture through November 28, 2026." }
-        - { cells: { brand: "Purple", offer: "Sale period for all Purple offers on the page", ends: "Dec. 7, 2026", code: "No, applied at checkout" }, src: 1, quote: "Valid through 12/7/2026" }
-        - { cells: { brand: "Purple", offer: "Up to $400 off select Essential mattresses", ends: "Dec. 7, 2026", code: "No, applied at checkout" }, src: 1, quote: "Save up to $400 off select Essential Mattresses." }
+        - { cells: { brand: "Purple", offer: "Sale period for all Purple offers on the page", ends: "Dec. 1, 2026", code: "No, applied at checkout" }, src: 1, quote: "Valid through 12/1/2026" }
+        - { cells: { brand: "Purple", offer: "Up to $450 off select Essential mattresses", ends: "Dec. 1, 2026", code: "No, applied at checkout" }, src: 1, quote: "Save up to $450 off select Essential Mattresses." }
         - { cells: { brand: "Casper", offer: "Up to 35% sitewide; up to 35% on mattresses", ends: "No date on page", code: "Not given" }, src: 3, quote: "Save up to 35% sitewide." }
         - { cells: { brand: "Tuft & Needle", offer: "20% off sitewide, bed frames excluded", ends: "No date on page", code: "Not given" }, src: 4, quote: "20% off sitewide." }
         - { cells: { brand: "Nectar", offer: "Up to 50% off mattresses, up to 66% off bundles", ends: "No date on page", code: "Not given" }, src: 5, quote: "Up to 50% off mattresses and up to 66% off bundles!" }
@@ -39,7 +39,7 @@ assets:
 hero:
   src: ../../../../assets/news/mattress-black-friday-2026-sale-end-dates-by-brand/mattress-black-friday-2026-sale-end-dates-by-brand.webp
   alt: "A plain white mattress on a bed frame in a workshop, for mattress Black Friday 2026 sale end dates"
-  caption: "File photo: a new white mattress on a bed frame. Avocado's sale ends Nov. 28 and Purple's Dec. 7, 2026."
+  caption: "File photo: a new white mattress on a bed frame. Avocado's sale ends Nov. 28 and Purple's Dec. 1, 2026."
   credit: "Photo: Manah201984 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -48,7 +48,7 @@ hero:
     author: "Manah201984"
     authorUrl: "https://commons.wikimedia.org/w/index.php?title=User:Manah201984&action=edit&redlink=1"
 summary:
-  - "Only two of the ten mattress brands checked print an end date: Avocado, Nov. 28, 2026 at 11:59 p.m. EST, and Purple, Dec. 7, 2026."
+  - "Only two of the ten mattress brands checked print an end date: Avocado, Nov. 28, 2026 at 11:59 p.m. EST, and Purple, Dec. 1, 2026."
   - "Casper, Tuft & Needle, Nectar and Mattress Firm show Black Friday offers with no end date on the pages we read."
   - "Purple's page also lists a price match through Dec. 31, 2026 and a free shipping deadline of Dec. 15, 2026."
   - "Saatva posted no offer on the pages we could read; Sleep Number, Helix and Tempur-Pedic offers were not readable."
@@ -106,14 +106,14 @@ downloads:
 draft: false
 ---
 
-**Avocado's Black Friday mattress sale ends Saturday, Nov. 28, 2026, at 11:59 p.m. EST, and Purple's runs through Monday, Dec. 7, according to each brand's own sale page, read Nov. 25.** Of ten brands checked, those two are the only ones that print an end date. Casper, Tuft & Needle, Nectar and Mattress Firm show offers with no date. Black Friday is Friday, Nov. 27 and Cyber Monday is Monday, Nov. 30. Below is each brand's offer as it words it, a free printable, and what the pages say about "up to" prices.
+**Avocado's Black Friday mattress sale ends Saturday, Nov. 28, 2026, at 11:59 p.m. EST, and Purple's runs through Tuesday, Dec. 1, according to each brand's own sale page, read Nov. 25.** Of ten brands checked, those two are the only ones that print an end date. Casper, Tuft & Needle, Nectar and Mattress Firm show offers with no date. Black Friday is Friday, Nov. 27 and Cyber Monday is Monday, Nov. 30. Below is each brand's offer as it words it, a free printable, and what the pages say about "up to" prices.
 
 ## Mattress Black Friday 2026 offers and end dates by brand
 
 | Brand | Offer as worded | Ends | Code needed | Dated on page? |
 |---|---|---|---|---|
 | [Avocado](https://www.avocadogreenmattress.com/pages/sale) | "Save up to 20% sitewide" on mattresses, pillows, bedding and furniture; Green models up to 20% off, Eco up to 10% off | Nov. 28, 2026, 11:59 p.m. EST | No: "no coupon or promo code is needed" | Yes, end date |
-| [Purple](https://purple.com/black-friday) | Up to $400 off select Essential mattresses, $400 off Restore Hybrid, $500 off Rejuvenate Luxe | Dec. 7, 2026 ("Valid through 12/7/2026") | No: "Discounts automatically applied at checkout" | Yes, end date |
+| [Purple](https://purple.com/black-friday) | Up to $450 off select Essential mattresses, up to $600 off Restore Hybrid, up to $900 off Rejuvenate Luxe | Dec. 1, 2026 ("Valid through 12/1/2026") | No: "Discounts automatically applied at checkout" | Yes, end date |
 | [Casper](https://casper.com/pages/black-friday-mattress-sale) | "Save up to 35% sitewide"; up to 35% on mattresses and bundles, 30% on adjustable bases | Not given | Not given | No, undated banner |
 | [Tuft & Needle](https://tuftandneedle.com/gifts) | "20% off sitewide," labeled "Pre-Black Friday"; bed frames excluded | Not given | Not given | No |
 | [Nectar](https://www.nectarsleep.com/posts/black-friday-cyber-monday-buying-guide) | "Up to 50% off mattresses and up to 66% off bundles!" | Not given | Not given | No, guide published Oct. 2, 2026 |
@@ -131,11 +131,11 @@ Avocado's sale page says "Save up to 20% sitewide on certified organic mattresse
 
 ## Purple: sale, price match and shipping dates
 
-Purple's "Black Friday Mattress Sale" page says "Valid through 12/7/2026," a Monday. It lists up to $300 off select adjustable bases with a mattress purchase, up to 15% off select pillows and bedding, and up to 15% off mattress bundles. The page does not give a start date.
+Purple's "Black Friday Mattress Sale" page says "Valid through 12/1/2026," a Tuesday. It lists up to $350 off select adjustable bases with a mattress purchase, up to 15% off select pillows and bedding, and up to 15% off mattress bundles. The page does not give a start date.
 
 | Purple date | What the page says | Weekday |
 |---|---|---|
-| Dec. 7, 2026 | Sale "Valid through 12/7/2026" | Monday |
+| Dec. 1, 2026 | Sale "Valid through 12/1/2026" | Tuesday |
 | Dec. 15, 2026 | Free shipping deadline, "December 15th, 2026," as Purple words it | Tuesday |
 | Dec. 31, 2026 | Price match "through December 31st, 2026" | Thursday |
 
@@ -151,4 +151,4 @@ Casper's page has no start or end date. Tuft & Needle's offer is labeled "Pre-Bl
 
 ## Mattress Black Friday 2026 comparison sheet to print
 
-The free printable puts the six brands with readable offers on one US Letter page: offer as worded, end date and whether a code is needed, sorted by end date. Brands with no readable offer are listed in its note. Mark Nov. 28 and Dec. 7 on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html); the shopping date itself is on [when is Cyber Monday](/when-is/cyber-monday/).
+The free printable puts the six brands with readable offers on one US Letter page: offer as worded, end date and whether a code is needed, sorted by end date. Brands with no readable offer are listed in its note. Mark Nov. 28 and Dec. 1 on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html); the shopping date itself is on [when is Cyber Monday](/when-is/cyber-monday/).

@@ -3,7 +3,7 @@ title: "Peloton Black Friday 2026: Up to $1,300 Off, Bike+ $1,795"
 description: "Peloton takes up to $1,300 off for Black Friday, Bike+ at $1,795. Regular and sale price and 36-month payment for each machine, plus a printable."
 type: news
 publishedAt: "2026-11-22T08:40:00-05:00"
-updatedAt: "2026-11-22T08:40:00-05:00"
+updatedAt: "2026-11-25T16:49:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["peloton black friday 2026", "peloton bike black friday", "peloton tread black friday", "peloton sale"]
@@ -18,7 +18,7 @@ assets:
     group: peloton-black-friday-2026
     title: "Peloton Black Friday 2026 Price List"
     subtitle: "Regular price, dollars off, sale price and 36-month payment by machine"
-    note: "Source: onepeloton.com product and deals pages, read Nov. 22, 2026. Monthly amounts are 0% APR financing for 36 months, before membership, taxes and fees. The 0% APR offer ends Jan. 12, 2027 for those who qualify. Peloton has not posted a sale end date."
+    note: "Source: onepeloton.com product and deals pages. Monthly amounts are 0% APR financing for 36 months, before membership, taxes and fees. The 0% APR offer ends Jan. 12, 2027 for those who qualify. Peloton has not posted a sale end date."
     description: "One-page Peloton Black Friday 2026 price list: regular price, dollars off, sale price and the 36-month payment for each Bike, Tread and Row+."
     alt: "Printable Peloton Black Friday 2026 price list with the regular and sale price of each machine"
     data:
@@ -66,7 +66,7 @@ hero:
     author: "Wikideas1"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Wikideas1"
 summary:
-  - "Peloton's Black Friday sale takes up to $1,300 off equipment, per onepeloton.com on Nov. 22, 2026: Bike $1,295, Bike+ $1,795, Tread Flex from $1,995 and Row+ $2,845."
+  - "Peloton's Black Friday sale takes up to $1,300 off equipment, per onepeloton.com on Nov. 25, 2026: Bike $1,295, Bike+ $1,795, Tread Flex from $1,995 and Row+ $2,845."
   - "Peloton has not posted a sale end date; the pages say only 'Limited time offer; subject to change'."
   - "Financing at 0% annual percentage rate (APR) for all term lengths ends Jan. 12, 2027, for those who qualify."
   - "The All-Access Membership is $49.99 a month and is required to use all content on the hardware."
@@ -85,39 +85,39 @@ sources:
   - title: "Peloton Black Friday Sale deals"
     url: "https://www.onepeloton.com/deals"
     publisher: "Peloton Interactive"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Peloton Bike"
     url: "https://www.onepeloton.com/bike"
     publisher: "Peloton Interactive"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Peloton Bike+"
     url: "https://www.onepeloton.com/bike-plus"
     publisher: "Peloton Interactive"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Peloton Tread Flex"
     url: "https://www.onepeloton.com/tread-flex"
     publisher: "Peloton Interactive"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Peloton Tread Vision"
     url: "https://www.onepeloton.com/tread"
     publisher: "Peloton Interactive"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Peloton Tread+ Vision"
     url: "https://www.onepeloton.com/tread-plus"
     publisher: "Peloton Interactive"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Peloton Row+"
     url: "https://www.onepeloton.com/row-plus"
     publisher: "Peloton Interactive"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Refurbished Peloton equipment"
     url: "https://www.onepeloton.com/refurbished"
     publisher: "Peloton Interactive"
-    date: "2026-11-22"
+    date: "2026-11-25"
   - title: "Peloton All-Access Membership"
     url: "https://www.onepeloton.com/membership"
     publisher: "Peloton Interactive"
-    date: "2026-11-22"
+    date: "2026-11-25"
 internalLinks:
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
@@ -136,7 +136,7 @@ downloads:
 draft: false
 ---
 
-**Peloton's Black Friday sale takes up to $1,300 off its equipment, according to onepeloton.com on Nov. 22, 2026, with the Bike+ at $1,795 and new Treads from $1,995.** Peloton has not posted an end date; the pages say only "Limited time offer; subject to change." Financing at 0% annual percentage rate (APR) ends Jan. 12, 2027 for those who qualify. The table gives each machine's regular price, discount, sale price and 36-month payment, and a one-page [printable price list](#print-the-peloton-black-friday-2026-price-list) holds the same numbers.
+**Peloton's Black Friday sale takes up to $1,300 off its equipment, according to onepeloton.com on Nov. 25, 2026, with the Bike+ at $1,795 and new Treads from $1,995.** Peloton has not posted an end date; the pages say only "Limited time offer; subject to change." Financing at 0% annual percentage rate (APR) ends Jan. 12, 2027 for those who qualify. The table gives each machine's regular price, discount, sale price and 36-month payment, and a one-page [printable price list](#print-the-peloton-black-friday-2026-price-list) holds the same numbers.
 
 ## Peloton Black Friday 2026 prices for each Bike, Tread and Row+
 

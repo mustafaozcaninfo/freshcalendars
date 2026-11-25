@@ -3,7 +3,7 @@ title: "Amazon Black Friday 2026 Ends Nov. 30: 12-Day Sale, Deal Drop Times"
 description: "Amazon's Black Friday 2026 sale ends Monday, Nov. 30, which is Cyber Monday. It began Nov. 19 and lasts 12 days; drop times, past end dates, a printable."
 type: explainer
 publishedAt: "2026-10-26T02:21:00-04:00"
-updatedAt: "2026-11-22T15:46:00-05:00"
+updatedAt: "2026-11-25T16:54:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["Amazon Black Friday 2026", "when does Amazon Black Friday end", "when does Amazon Black Friday start 2026", "Amazon Black Friday 2026 dates", "Amazon holiday return policy 2026"]
@@ -19,15 +19,15 @@ hero:
     author: "Mliu92"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Mliu92"
 summary:
-  - "Amazon announced on Nov. 9, 2026 that its Black Friday Week and Cyber Monday deal events run Nov. 19-30, 2026, starting at 12:01 a.m. PST on Nov. 19 (3:01 a.m. ET)."
+  - "Amazon announced on Nov. 9, 2026 that its Black Friday Week and Cyber Monday deal events run Nov. 19-30, 2026, and started at 12:01 a.m. PST on Nov. 19 (3:01 a.m. ET)."
   - "Deals drop twice on both Black Friday (Fri., Nov. 27) and Cyber Monday (Mon., Nov. 30), at midnight and 8 a.m. PT, which Amazon calls a first."
   - "The window is 12 days counting both ends and starts 8 days before Black Friday, the same gap as 2024 and 2025, from Amazon's own pages."
-  - "ppc.land reported an Amazon Seller News post dated Oct. 16, 2026 that sets the holiday return deadline at Jan. 31, 2027. A free one-page Amazon holiday timeline is below."
+  - "Amazon's return policy page sets the 2026 holiday return deadline at Jan. 31, 2027 for most items and Jan. 15, 2027 for Apple-branded products. A free one-page Amazon holiday timeline is below."
 faq:
   - q: "How long is Amazon's Black Friday 2026 sale?"
     a: "Twelve days, counting the first and the last: Thursday, Nov. 19 through Monday, Nov. 30, 2026, from Amazon's dates. The 2025 events also lasted 12 days, Nov. 20 through Dec. 1."
   - q: "When does Amazon Black Friday 2026 start?"
-    a: "Amazon says its Black Friday Week and Cyber Monday deal events kick off at 12:01 a.m. PST on Thursday, Nov. 19, 2026 and run through Nov. 30. That is 3:01 a.m. ET on Nov. 19."
+    a: "Amazon says its Black Friday Week and Cyber Monday deal events kicked off at 12:01 a.m. PST on Thursday, Nov. 19, 2026 and run through Nov. 30. That was 3:01 a.m. ET on Nov. 19."
   - q: "What time do Amazon's Black Friday 2026 deals drop?"
     a: "Amazon says deals drop at midnight and 8 a.m. PT on both Black Friday, Nov. 27, and Cyber Monday, Nov. 30, 2026. It calls the twice-a-day drops on both days a first."
   - q: "What day is Black Friday 2026?"
@@ -37,22 +37,22 @@ faq:
   - q: "Did Amazon already hold a sale in October 2026?"
     a: "Yes. Amazon says Prime Big Deal Days 2026 takes place October 6 to 7 and lasts 48 hours, starting at 12:01 a.m. Pacific Daylight Time (PDT) on Tuesday, Oct. 6."
   - q: "What is Amazon's holiday return policy for 2026?"
-    a: "ppc.land reported that an Amazon Seller News post dated Oct. 16, 2026 says most items bought Nov. 1 to Dec. 31, 2026 can be returned until Jan. 31, 2027, and Apple-branded products until Jan. 15, 2027. We did not find Amazon's consumer page for 2026."
+    a: "Amazon's return policy page says most items purchased between November 1 and December 31, 2026 can be returned through January 31, 2027, and Apple-branded products through January 15, 2027."
   - q: "What was Amazon's holiday return policy in 2025?"
     a: "Amazon's 2025 policy said most items purchased between November 1 and December 31 could be returned until January 31, 2026, and Apple-branded products through January 15, 2026."
 sources:
   - title: "Amazon's Black Friday Week and Cyber Monday Return November 19-30 with Millions of Deals to Deliver Joy This Holiday Season"
     url: "https://press.aboutamazon.com/2026/11/amazons-black-friday-week-and-cyber-monday-return-november-19-30-with-millions-of-deals-to-deliver-joy-this-holiday-season"
     publisher: "Amazon"
-    date: "2026-11-09"
+    date: "2026-11-25"
   - title: "Black Friday and Cyber Monday 2026: a first look at Amazon's best deals"
     url: "https://www.aboutamazon.com/news/retail/amazon-black-friday-cyber-monday-deals-2026"
     publisher: "Amazon"
-    date: "2026-11-09"
+    date: "2026-11-25"
   - title: "When is Black Friday 2026? Here's everything you need to know"
     url: "https://www.aboutamazon.com/news/retail/when-is-amazon-black-friday-faq"
     publisher: "Amazon"
-    date: "2026-10-29"
+    date: "2026-11-25"
   - title: "Amazon Prime Big Deal Days FAQ"
     url: "https://www.aboutamazon.com/md/news/retail/amazon-prime-big-deal-days-faq"
     publisher: "Amazon"
@@ -81,6 +81,10 @@ sources:
     url: "https://ppc.land/amazon-makes-its-january-31-holiday-return-deadline-an-annual-rule/"
     publisher: "PPC Land"
     date: "2026-10-16"
+  - title: "Amazon Return Policy"
+    url: "https://www.amazon.com/gp/help/customer/display.html?nodeId=GKM69DUUYKQWKWX7"
+    publisher: "Amazon"
+    date: "2026-11-25"
 internalLinks:
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
@@ -92,7 +96,7 @@ related: [black-friday-2026-ad-tracker-walmart-target-best-buy, cyber-monday-202
 downloads:
   - group: "Amazon Holiday Dates 2026 printables"
     title: "Amazon Holiday Dates 2026"
-    description: "One-page Amazon holiday dates 2026 timeline with Black Friday Week start, Black Friday and Cyber Monday deal drops, Prime Video sports and the reported return deadlines."
+    description: "One-page Amazon holiday dates 2026 timeline with Black Friday Week start, Black Friday and Cyber Monday deal drops, Prime Video sports and the return deadlines."
     preview: ../../../../assets/news/amazon-black-friday-2026/amazon-holiday-dates-2026.png
     alt: "Printable Amazon holiday dates 2026 timeline from Nov. 19 to Nov. 30 with Black Friday and Cyber Monday deal drops"
     pdf: "/news/downloads/amazon-black-friday-2026/amazon-holiday-dates-2026.pdf"
@@ -110,23 +114,18 @@ assets:
     group: amazon-black-friday-2026
     title: "Amazon Holiday Dates 2026"
     subtitle: "Black Friday Week, deal drops and Cyber Monday, Nov. 19-30"
-    note: "Source: Amazon press release, Nov. 9, 2026, and aboutamazon.com Black Friday guide. Return dates are reported by ppc.land (Amazon Seller News, Oct. 16, 2026)."
-    description: "One-page Amazon holiday dates 2026 timeline with Black Friday Week start, Black Friday and Cyber Monday deal drops, Prime Video sports and the reported return deadlines."
+    note: "Source: Amazon press release, Nov. 9, 2026, and aboutamazon.com Black Friday guide. Return dates: Amazon return policy page."
+    description: "One-page Amazon holiday dates 2026 timeline with Black Friday Week start, Black Friday and Cyber Monday deal drops, Prime Video sports and the return deadlines."
     alt: "Printable Amazon holiday dates 2026 timeline from Nov. 19 to Nov. 30 with Black Friday and Cyber Monday deal drops"
     data:
       target: { date: "2026-11-30", label: "Cyber Monday" }
       columns: ["What Amazon announced"]
       rows:
-        - { date: "2026-11-19", cells: { "What Amazon announced": "Black Friday Week and Cyber Monday events start, 12:01 a.m. PST" }, src: 3, quote: "Amazon's Black Friday Week and Cyber Monday deal events kick off at 12:01 a.m. PST on November 19 and run through November 30." }
-        - { date: "2026-11-24", cells: { "What Amazon announced": "Prime for Young Adults: 20% cash back on a curated selection, this day only" }, src: 1, quote: "On November 24 only, Prime for Young Adults members can unlock exclusive 20% cash back on a curated selection" }
+        - { date: "2026-11-19", cells: { "What Amazon announced": "Black Friday Week and Cyber Monday events started, 12:01 a.m. PST" }, src: 3, quote: "Amazon's Black Friday Week and Cyber Monday deal events kick off at 12:01 a.m. PST on November 19 and run through November 30." }
         - { date: "2026-11-25", cells: { "What Amazon announced": "Prime Video live sports start, first-ever NCAA basketball game" }, src: 1, quote: "tipping off on Wednesday, November 25 with" }
         - { date: "2026-11-27", cells: { "What Amazon announced": "Black Friday: deals drop at midnight and 8 a.m. PT" }, src: 1, quote: ["deals will drop twice on both Black Friday and Cyber Monday at midnight and 8 a.m. PT", "[our count: Fri., Nov. 27, 2026]"] }
         - { date: "2026-11-30", cells: { "What Amazon announced": "Cyber Monday: deals drop at midnight and 8 a.m. PT; events end" }, src: 1, quote: ["deals will drop twice on both Black Friday and Cyber Monday at midnight and 8 a.m. PT", "[our count: Mon., Nov. 30, 2026]"] }
-      unconfirmed:
-        - { label: "Holiday return deadlines", why: "Amazon's consumer page for 2026 was not found as of Nov. 13, 2026; ppc.land reported Jan. 31, 2027 for most items and Jan. 15, 2027 for Apple-branded products" }
 ---
-
-<p class="callout"><b>Checked Nov. 13, 2026.</b> Amazon announced on Nov. 9 that its Black Friday Week and Cyber Monday deal events run Nov. 19-30, 2026.</p>
 
 **Amazon's Black Friday 2026 sale ends on Monday, Nov. 30, 2026, which is Cyber Monday: its Black Friday Week and Cyber Monday deal events run November 19-30, Amazon said in a Nov. 9, 2026 press release.** Its Black Friday guide says they "kick off at 12:01 a.m. PST on November 19 and run through November 30." Black Friday is Friday, Nov. 27, 2026 and Cyber Monday is Monday, Nov. 30, 2026 (see [when Black Friday falls](/when-is/black-friday/) and [when Cyber Monday falls](/when-is/cyber-monday/)). Customers "can start browsing early deals in the Holiday Shop now," the guide adds.
 
@@ -140,7 +139,7 @@ The sale lasts 12 days, counting Nov. 19 and Nov. 30. In 2025 the events ran fro
 
 ## When does Amazon Black Friday 2026 start?
 
-Thursday, Nov. 19, 2026, at 12:01 a.m. Pacific Standard Time (PST), which is 3:01 a.m. ET, according to Amazon's Black Friday guide. The window runs through Monday, Nov. 30, 2026: 12 days counting both ends, with Cyber Monday inside it. The start is 8 days before Black Friday (our count), the same gap as in 2024 and 2025.
+Thursday, Nov. 19, 2026, at 12:01 a.m. Pacific Standard Time (PST), which was 3:01 a.m. ET, according to Amazon's Black Friday guide. The window runs through Monday, Nov. 30, 2026: 12 days counting both ends, with Cyber Monday inside it. The start is 8 days before Black Friday (our count), the same gap as in 2024 and 2025.
 
 Amazon's Prime Big Deal Days page says Prime Big Deal Days 2026 "takes place October 6–7." It started "12:01 a.m. PDT on Tuesday, October 6 (3:01 a.m. EDT)" and "lasts 48 hours." That October sale is over.
 
@@ -150,8 +149,8 @@ The Nov. 9 release says "For the first time ever, deals will drop twice on both 
 
 | Date (2026) | What Amazon announced |
 |---|---|
-| Thu., Nov. 19 | Events start at 12:01 a.m. PST |
-| Tue., Nov. 24 | Prime for Young Adults members get "exclusive 20% cash back on a curated selection," on November 24 only |
+| Thu., Nov. 19 | Events started at 12:01 a.m. PST |
+| Tue., Nov. 24 | Prime for Young Adults members got "exclusive 20% cash back on a curated selection," on November 24 only |
 | Wed., Nov. 25 | Prime Video live sports "tipping off on Wednesday, November 25," with its first-ever National Collegiate Athletic Association (NCAA) basketball game |
 | Fri., Nov. 27 | Black Friday: deals at midnight and 8 a.m. PT; Prime Video begins "another 15 hours of live sports coverage, with no subscription or Prime membership required" |
 | Mon., Nov. 30 | Cyber Monday: deals at midnight and 8 a.m. PT; events end |
@@ -174,11 +173,11 @@ Black Friday is the day after U.S. Thanksgiving, the fourth Thursday of November
 
 ## What is Amazon's holiday return policy for 2026?
 
-Amazon's consumer page for 2026 was not found as of Nov. 13, 2026. ppc.land reported that an Amazon Seller News post dated Oct. 16, 2026 says items bought Nov. 1 to Dec. 31, 2026 are returnable until Jan. 31, 2027, Apple-branded products until Jan. 15, 2027, and that "This policy will apply every year." That is a report of Amazon's seller notice, so check Amazon's help pages before you rely on it. For return deadlines at other stores, see our guide to [holiday return policies by store](/news/holiday-return-policies-2026-return-deadlines-by-store/).
+Amazon's return policy page says: "For the 2026 holiday season, most items purchased between November 1 and December 31, 2026 can be returned through January 31, 2027. Apple-branded products purchased between November 1 and December 31, 2026 can be returned through January 15, 2027." For return deadlines at other stores, see our guide to [holiday return policies by store](/news/holiday-return-policies-2026-return-deadlines-by-store/).
 
 For comparison, Amazon's 2025 policy said "most items purchased between November 1 and December 31 can be returned until January 31, 2026," with Apple-branded products "through January 15, 2026."
 
-| Item | 2025 policy (Amazon) | 2026 policy (reported) |
+| Item | 2025 policy (Amazon) | 2026 policy (Amazon) |
 |---|---|---|
 | Purchase window | Nov. 1 to Dec. 31, 2025 | Nov. 1 to Dec. 31, 2026 |
 | Most items | Return by Jan. 31, 2026 | Return by Jan. 31, 2027 |
@@ -186,12 +185,12 @@ For comparison, Amazon's 2025 policy said "most items purchased between November
 
 ## What should you mark on the calendar?
 
-- Sun., Nov. 1, 2026: the reported start of the holiday return window.
-- Thu., Nov. 19: Black Friday Week and Cyber Monday events start at 12:01 a.m. PST (3:01 a.m. ET).
+- Sun., Nov. 1, 2026: the start of the holiday return window.
+- Thu., Nov. 19: Black Friday Week and Cyber Monday events started at 12:01 a.m. PST (3:01 a.m. ET).
 - Fri., Nov. 27 and Mon., Nov. 30: Black Friday and Cyber Monday, with deal drops at midnight and 8 a.m. PT.
-- Thu., Dec. 31: the last purchase day in the reported return window.
-- Fri., Jan. 15 and Sun., Jan. 31, 2027: the reported return deadlines for Apple products and most other items.
+- Thu., Dec. 31: the last purchase day in the return window.
+- Fri., Jan. 15 and Sun., Jan. 31, 2027: the return deadlines for Apple products and most other items.
 
-Put them on the [printable Amazon holiday timeline](#downloads). For store sales, see our [Black Friday 2026 ad tracker for Walmart, Target and Best Buy](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and the [store hours list](/news/black-friday-2026-store-hours-walmart-target-best-buy/). The next day in the sale calendar is covered in [Small Business Saturday on Nov. 28 and Cyber Monday on Nov. 30](/news/small-business-saturday-2026-participating-stores-events/).
+Cyber Monday deal times by U.S. time zone are in our [Amazon Cyber Monday 2026 start and end time guide](/news/amazon-cyber-monday-2026-dates-start-time-end-time/). Put them on the [printable Amazon holiday timeline](#downloads). For store sales, see our [Black Friday 2026 ad tracker for Walmart, Target and Best Buy](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/) and the [store hours list](/news/black-friday-2026-store-hours-walmart-target-best-buy/). The next day in the sale calendar is covered in [Small Business Saturday on Nov. 28 and Cyber Monday on Nov. 30](/news/small-business-saturday-2026-participating-stores-events/).
 
 Not covered here: prices of specific deals and Prime membership terms.

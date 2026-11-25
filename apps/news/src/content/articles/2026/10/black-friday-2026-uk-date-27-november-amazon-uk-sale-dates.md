@@ -4,7 +4,7 @@ description: "Black Friday 2026 UK is Friday, 27 November. Amazon UK's Black Fri
 type: news
 dateline: "London"
 publishedAt: "2026-10-28T03:43:00-04:00"
-updatedAt: "2026-11-19T01:42:00-05:00"
+updatedAt: "2026-11-25T16:50:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["when is Black Friday 2026 UK", "Black Friday 2026 UK date", "Amazon Black Friday 2026 UK", "Cyber Monday 2026 UK"]
@@ -21,14 +21,14 @@ hero:
     authorUrl: "https://www.geograph.org.uk/profile/43806"
 summary:
   - "Black Friday 2026 is Friday, 27 November in the UK, the day after US Thanksgiving (Thursday, 26 November). Cyber Monday is Monday, 30 November."
-  - "Amazon UK says its Black Friday Week runs 19-30 November 2026, 12 days counting both ends, starting today, Thursday, 19 November; Amazon Devices deals started 16 November. Argos, Currys, John Lewis, Very, Boots, Tesco, Asda and M&S had not announced 2026 dates as of 12 November 2026."
+  - "Amazon UK says its Black Friday Week runs 19-30 November 2026, 12 days counting both ends, which started on Thursday, 19 November. Argos, Currys, John Lewis, Very, Boots, Tesco, Asda and M&S had not announced 2026 dates as of 12 November 2026."
   - "Amazon UK started Black Friday Week on Thursday, 21 November in 2024 and Thursday, 20 November in 2025, and announced the dates on 8 and 13 November. In 2026 the announcement came on 10 November."
   - "UK law gives a 14-day cancellation period for online orders from the day goods arrive: an item delivered on Saturday, 28 November can be cancelled until Saturday, 12 December."
 faq:
   - q: "When is Black Friday 2026 in the UK?"
     a: "Friday, 27 November 2026. It is the day after US Thanksgiving, which is Thursday, 26 November. Cyber Monday is Monday, 30 November."
   - q: "When does Amazon UK Black Friday 2026 start?"
-    a: "Today, Thursday, 19 November 2026. Amazon UK says Black Friday Week runs 19-30 November, and the page was updated on 10 November 2026. Amazon Devices deals started earlier, on 16 November. In 2025 the week ran from 20 November until 1 December."
+    a: "Thursday, 19 November 2026. Amazon UK says Black Friday Week runs 19-30 November, and its guide was updated on 19 November 2026. In 2025 the week ran from 20 November until 1 December."
   - q: "How long do you have to cancel an online order in the UK?"
     a: "The Consumer Contracts Regulations 2013 give 14 days. For goods bought online the period ends 14 days after the day the goods come into your possession."
   - q: "Have UK stores announced Christmas return extensions for 2026?"
@@ -37,7 +37,7 @@ sources:
   - title: "Amazon's Black Friday Week: Here's everything you need to know about Black Friday and Cyber Monday 2026"
     url: "https://www.aboutamazon.co.uk/news/retail/black-friday-everything-you-need-to-know"
     publisher: "Amazon UK"
-    date: "2026-11-10"
+    date: "2026-11-25"
   - title: "How do I cancel an online order?"
     url: "https://www.which.co.uk/consumer-rights/advice/how-do-i-cancel-an-online-order"
     publisher: "Which?"
@@ -84,25 +84,21 @@ assets:
       target: { date: "2026-11-30", label: "Cyber Monday" }
       columns: ["Amazon UK"]
       rows:
-        - { date: "2026-11-16", cells: { "Amazon UK": "Amazon Devices deals started" }, src: 1, quote: "From 16 November, enjoy savings on a selection of Amazon Devices, including Echo, Fire TV Stick, Ember smart TVs, Kindle, Ring and Blink, with Amazon Alexa Tablets from 18 November." }
-        - { date: "2026-11-18", cells: { "Amazon UK": "Alexa Tablets deals started" }, src: 1, quote: "From 16 November, enjoy savings on a selection of Amazon Devices, including Echo, Fire TV Stick, Ember smart TVs, Kindle, Ring and Blink, with Amazon Alexa Tablets from 18 November." }
-        - { date: "2026-11-19", cells: { "Amazon UK": "Black Friday Week starts" }, src: 1, quote: "Amazon's UK Black Friday Week is returning from 19–30 November" }
+        - { date: "2026-11-19", cells: { "Amazon UK": "Black Friday Week started" }, src: 1, quote: "Amazon’s UK Black Friday Week 2026 returns from 19–30 November" }
         - { date: "2026-11-27", cells: { "Amazon UK": "Black Friday" }, src: 1 }
-        - { date: "2026-11-30", cells: { "Amazon UK": "Black Friday Week ends" }, src: 1, quote: "Amazon's UK Black Friday Week is returning from 19–30 November" }
+        - { date: "2026-11-30", cells: { "Amazon UK": "Black Friday Week ends" }, src: 1, quote: "Amazon’s UK Black Friday Week 2026 returns from 19–30 November" }
       unconfirmed:
         - { label: "Argos, Currys, John Lewis, Very, Boots, Tesco, Asda and M&S dates", why: "Not announced as of 12 November 2026" }
-    note: "Source: Amazon UK (aboutamazon.co.uk, 10 Nov 2026)."
+    note: "Source: Amazon UK (aboutamazon.co.uk, 19 Nov 2026)."
     description: "One-page Black Friday 2026 UK planner with the Amazon UK Black Friday Week dates, Black Friday and Cyber Monday."
     alt: "Printable Black Friday 2026 UK shopping planner with Amazon UK sale dates"
 ---
 
-<p class="callout"><b>Checked 12 November 2026.</b> Amazon UK has confirmed its dates. We will add other retailers when they announce 2026 dates.</p>
-
-**Black Friday 2026 is Friday, 27 November 2026 in the United Kingdom (UK), the day after United States (US) Thanksgiving (Thursday, 26 November), and Cyber Monday is Monday, 30 November; Amazon UK says its Black Friday Week runs 19-30 November 2026, starting today, Thursday, 19 November.** Its Black Friday guide, updated on 10 November 2026, says: "Amazon's UK Black Friday Week is returning from 19–30 November." For the plain date answer, see [when Black Friday falls](/when-is/black-friday/). A free [UK shopping planner](#downloads) is below.
+**Black Friday 2026 is Friday, 27 November 2026 in the United Kingdom (UK), the day after United States (US) Thanksgiving (Thursday, 26 November), and Cyber Monday is Monday, 30 November; Amazon UK says its Black Friday Week runs 19-30 November 2026, which started on Thursday, 19 November.** Its Black Friday guide, updated on 19 November 2026, says: "Amazon’s UK Black Friday Week 2026 returns from 19–30 November." For the plain date answer, see [when Black Friday falls](/when-is/black-friday/). A free [UK shopping planner](#downloads) is below.
 
 ## When does Amazon UK Black Friday 2026 start?
 
-Today, Thursday, 19 November 2026, and it runs until Monday, 30 November: 12 days counting both ends (our computation). Amazon UK says its Black Friday Week "is returning from 19–30 November". Amazon Devices deals started earlier: "From 16 November, enjoy savings on a selection of Amazon Devices, including Echo, Fire TV Stick, Ember smart TVs, Kindle, Ring and Blink, with Amazon Alexa Tablets from 18 November." The UK page gives no start or end clock times, so none are listed here.
+Thursday, 19 November 2026, and it runs until Monday, 30 November: 12 days counting both ends (our computation). Amazon UK says its Black Friday Week "returns from 19–30 November". The UK page gives no start or end clock times, so none are listed here.
 
 Argos, Currys, John Lewis, Very, Boots, Tesco, Asda and M&S had not announced 2026 Black Friday dates as of 12 November 2026, and none had announced a 2026 Christmas return extension. We will update this page as they do.
 
@@ -128,12 +124,10 @@ Yes. In 2024 and 2025 Amazon UK began Black Friday Week on the Thursday eight da
 
 | Date | What | Status |
 |---|---|---|
-| Mon. 16 Nov 2026 | Amazon Devices deals started (Echo, Fire TV Stick, Kindle, Ring, Blink) | Amazon UK, 10 Nov 2026 |
-| Wed. 18 Nov 2026 | Amazon Alexa Tablets deals started | Amazon UK, 10 Nov 2026 |
-| Thu. 19 Nov 2026 | Amazon UK Black Friday Week starts today | Amazon UK, 10 Nov 2026 |
+| Thu. 19 Nov 2026 | Amazon UK Black Friday Week started | Amazon UK, 19 Nov 2026 |
 | Fri. 27 Nov 2026 | Black Friday | Fixed by the calendar |
 | Sat. 28 Nov 2026 | Example: an item delivered this day | Cancel until Sat. 12 Dec |
-| Mon. 30 Nov 2026 | Cyber Monday and last day of Amazon UK Black Friday Week | Amazon UK, 10 Nov 2026 |
+| Mon. 30 Nov 2026 | Cyber Monday and last day of Amazon UK Black Friday Week | Amazon UK, 19 Nov 2026 |
 
 The [November 2026 printable calendar](/november-calendars.html) shows the whole month. Retailers beyond Amazon are listed above as not yet announced as of 12 November 2026; for the US, see our [Black Friday 2026 ad tracker for Walmart, Target and Best Buy](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/). Another big shopping date in the same month is covered in [Singles Day on 11 November](/news/singles-day-2026-november-11-11-11-sale-dates/).
 
