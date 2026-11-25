@@ -55,7 +55,7 @@ internalLinks:
     label: "January 2027 printable calendars"
   - href: "/february-calendars.html"
     label: "February 2027 printable calendars"
-related: [family-day-2027-canada-february-15-provinces-whats-closed, canada-statutory-holidays-2027-federal-general-holidays]
+related: [family-day-2027-canada-february-15-provinces-whats-closed, canada-statutory-holidays-2027-federal-general-holidays, winterlicious-2027-dates-january-29-february-11-toronto]
 assets:
   kicker: "Winterlude 2027 · Ottawa-Gatineau"
   date: "2027-01-29"

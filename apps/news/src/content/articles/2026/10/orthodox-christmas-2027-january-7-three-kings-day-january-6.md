@@ -52,7 +52,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/printable-yearly-calendar.html"
     label: "Printable yearly calendar"
-related: [january-2027-calendar-printable, twelve-days-of-christmas-2026-dates-epiphany-printable, when-to-take-down-christmas-decorations-2027-twelfth-night]
+related: [tarpon-springs-epiphany-2027-january-6-cross-dive-schedule, january-2027-calendar-printable, twelve-days-of-christmas-2026-dates-epiphany-printable]
 downloads:
   - group: "January 2027 Holiday Dates printables"
     title: "January 2027 Holiday Dates: Three Kings Day and Orthodox Christmas"
