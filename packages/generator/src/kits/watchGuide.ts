@@ -154,6 +154,7 @@ export const watchGuide: Kit<WatchGuide> = {
     .wg .z{width:8.5%;white-space:nowrap}.wg td.et{font-family:Sora;font-weight:800;color:${t.ink}}
     .wg .dt{width:11%}.wg td.dt{font-family:Sora;font-weight:800;color:${t.ink};white-space:nowrap}
     .wg .lc{width:12%}.wg td.lc{white-space:nowrap}
+    .wg td.z em{display:block}
     .wg td.na{color:${t.muted};font-size:.85em;white-space:normal}.wg td.tba{font-style:normal}.wg em{font-style:normal;color:${t.muted};font-size:.85em}
     .wg .ev b{display:block;font-family:Sora;font-size:1.02em;color:${t.ink}}.wg .ev span{color:${t.muted};font-size:.92em}
     .wg .evh{width:auto}.wg .tv{width:17%}.wg .pk{width:13%}
