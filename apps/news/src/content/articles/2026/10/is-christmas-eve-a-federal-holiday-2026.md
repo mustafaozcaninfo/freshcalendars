@@ -3,7 +3,7 @@ title: "Is Christmas Eve a Federal Holiday 2026? No, Only Dec. 25 Is"
 description: "Christmas Eve, Thursday, Dec. 24, 2026, is not a federal holiday. See which past years had an executive order and the stock market's 1 p.m. ET close."
 type: explainer
 publishedAt: "2026-10-23T15:25:00-04:00"
-updatedAt: "2026-11-23T13:24:00-05:00"
+updatedAt: "2026-11-25T03:25:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["is christmas eve a federal holiday 2026", "do federal employees get christmas eve off 2026", "is december 24 2026 a holiday", "is the stock market open christmas eve 2026"]
@@ -20,14 +20,14 @@ hero:
   caption: "Christmas Eve, Thursday, Dec. 24, 2026, is not on the federal holiday list. Christmas Day, Friday, Dec. 25, is."
 summary:
   - "Christmas Eve, Thursday, Dec. 24, 2026, is not a federal holiday. The Office of Personnel Management (OPM) lists Christmas Day, Friday, Dec. 25, as the holiday."
-  - "As of Monday, Nov. 23, 2026, no 2026 executive order giving federal workers Christmas Eve off has been issued. Recent such orders came in mid-December."
+  - "As of Wednesday, Nov. 25, 2026, no 2026 executive order giving federal workers Christmas Eve off has been issued. Recent such orders came in mid-December."
   - "In 2018, 2019, 2020, 2024 and 2025, presidents closed most federal offices on Christmas Eve by executive order, but each order covered only that year."
   - "The New York Stock Exchange closes early, at 1 p.m. Eastern Time (ET), on Thursday, Dec. 24, and is closed on Friday, Dec. 25."
 faq:
   - q: "Is Christmas Eve a federal holiday in 2026?"
     a: "No. Christmas Eve, Thursday, Dec. 24, 2026, is not one of the federal holidays listed by the Office of Personnel Management. Christmas Day, Friday, Dec. 25, is the federal holiday."
   - q: "Do federal employees get Christmas Eve off in 2026?"
-    a: "Not automatically. As of Monday, Nov. 23, 2026, no executive order closing agencies on Dec. 24, 2026 has been issued. Presidents gave federal workers Christmas Eve off by order in 2018, 2019, 2020, 2024 and 2025, each time for that year only."
+    a: "Not automatically. As of Wednesday, Nov. 25, 2026, no executive order closing agencies on Dec. 24, 2026 has been issued. Presidents gave federal workers Christmas Eve off by order in 2018, 2019, 2020, 2024 and 2025, each time for that year only."
   - q: "Is the stock market open on Christmas Eve 2026?"
     a: "Yes, with an early close. The New York Stock Exchange closes at 1 p.m. Eastern Time on Thursday, Dec. 24, 2026, and is closed on Friday, Dec. 25."
   - q: "Could Dec. 24, 2026 still become a day off for federal workers?"
@@ -63,9 +63,9 @@ related: [christmas-eve-christmas-day-2026-store-hours, state-offices-closed-chr
 draft: false
 ---
 
-<p class="callout"><b>Status as of Monday, Nov. 23, 2026.</b> We will update this page if the White House issues a 2026 order closing federal offices on Dec. 24.</p>
+<p class="callout"><b>Status as of Wednesday, Nov. 25, 2026.</b> We will update this page if the White House issues a 2026 order closing federal offices on Dec. 24.</p>
 
-**Christmas Eve, Thursday, Dec. 24, 2026, is not a federal holiday.** The U.S. Office of Personnel Management (OPM) lists Christmas Day, Friday, Dec. 25, 2026, as the holiday, not the day before. So, under the standing rules, federal workers report as usual on Dec. 24 unless the president orders otherwise. As of Monday, Nov. 23, 2026, no such order for 2026 had been issued.
+**Christmas Eve, Thursday, Dec. 24, 2026, is not a federal holiday.** The U.S. Office of Personnel Management (OPM) lists Christmas Day, Friday, Dec. 25, 2026, as the holiday, not the day before. So, under the standing rules, federal workers report as usual on Dec. 24 unless the president orders otherwise. As of Wednesday, Nov. 25, 2026, no such order for 2026 had been issued.
 
 ## Why Christmas Eve is not on the list
 
@@ -92,7 +92,7 @@ We list only orders we could confirm in the Federal Register or White House reco
 
 ## Is the stock market open on Christmas Eve 2026?
 
-Yes, with an early close. The New York Stock Exchange (NYSE) closes at 1 p.m. Eastern Time on Thursday, Dec. 24, 2026, and is closed all day on Friday, Dec. 25, according to its published 2026 calendar.
+Yes, with an early close. The New York Stock Exchange (NYSE) closes at 1 p.m. Eastern Time on Thursday, Dec. 24, 2026 (1:15 p.m. for eligible options), and is closed all day on Friday, Dec. 25, according to its published 2026 calendar.
 
 Christmas Day is a federal holiday, so banks and the Federal Reserve observe it; the Federal Reserve's holiday schedule lists Christmas Day, not Christmas Eve. On Dec. 24 itself, store, bank and postal hours are set locally and change year to year, so check each one. Our [Christmas Eve and Christmas Day 2026 store hours](/news/christmas-eve-christmas-day-2026-store-hours/) list tracks what chains have announced.
 
