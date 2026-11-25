@@ -83,7 +83,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/january-calendars.html"
     label: "January 2027 printable calendar"
-related: [thanksgiving-2026-transit-schedules-subway-bus-by-city, whats-open-new-years-eve-new-years-day-2027, christmas-eve-christmas-day-2026-store-hours]
+related: [cta-holiday-train-2026-schedule-lines-dates, thanksgiving-2026-transit-schedules-subway-bus-by-city, christmas-eve-christmas-day-2026-store-hours]
 draft: false
 assets:
   overlay: true
