@@ -82,10 +82,10 @@ assets:
         - { daysBefore: 15, task: "Watch toronto.ca for the restaurant list (2025 bookings opened 15 days ahead)" }
         - { daysBefore: 11, task: "Book early (2026 bookings opened 11 days ahead)" }
         - { daysBefore: 0, task: "First day of prix fixe lunch and dinner menus" }
-      fill: ["Restaurant I want to try", "Lunch or dinner, and date", "Reservation confirmed"]
+      fill: ["Restaurant to try", "Lunch or dinner, and date", "Reservation confirmed"]
       unconfirmed:
         - { label: "Reservation opening date", why: "Not yet announced by the City of Toronto" }
-        - { label: "Participating restaurant list", why: "Not yet announced by the City of Toronto" }
+        - { label: "Restaurant list", why: "Not yet announced by the City of Toronto" }
         - { label: "2027 prices", why: "Not yet announced by the City of Toronto" }
 downloads:
   - group: "Winterlicious 2027 Dates printables"
