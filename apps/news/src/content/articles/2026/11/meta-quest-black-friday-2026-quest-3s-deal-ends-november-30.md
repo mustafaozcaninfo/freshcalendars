@@ -2,7 +2,7 @@
 title: "Meta Quest Black Friday 2026: Quest 3S $296.99 Until Nov. 30"
 description: "Meta Quest 3S is 15% off, $296.99 for 128GB, through 11:59 p.m. PT Nov. 30. Both models' dollars saved, bundles to Jan. 4, 2027, and a printable."
 type: news
-publishedAt: "2026-11-25T08:50:00-05:00"
+publishedAt: "2026-11-25T09:50:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["meta quest black friday 2026", "quest 3s black friday 2026", "meta quest 3s deal", "meta quest cyber monday 2026", "quest 3 black friday 2026"]
@@ -36,10 +36,10 @@ assets:
         - cells: { model: "Meta Quest 3, 512GB", list: "$599.99", sale: "No discount", ends: "No sale" }
           src: 2
           quote: "Meta Quest 3 (512 GB): $599.99"
-        - cells: { model: "Golf+ credits with a Quest 3 or 3S", list: "$55 value", sale: "Free with headset", ends: "Jan. 4, 2027" }
+        - cells: { model: "Golf+ credits with a Quest 3 or 3S", list: "$55 value", sale: "with an eligible headset", ends: "Jan. 4, 2027" }
           src: 1
           quote: "1,800 in-game credits ($55 total value) with an eligible headset | through January 4, 2027"
-        - cells: { model: "Resident Evil 4 with a Quest 3 or 3S", list: "$39.99 value", sale: "Free with headset", ends: "Jan. 4, 2027" }
+        - cells: { model: "Resident Evil 4 with a Quest 3 or 3S", list: "$39.99 value", sale: "with an eligible headset", ends: "Jan. 4, 2027" }
           src: 1
           quote: "with your purchase of an eligible Meta Quest 3 or 3S headset | $39.99 | through January 4, 2027"
       unconfirmed:
