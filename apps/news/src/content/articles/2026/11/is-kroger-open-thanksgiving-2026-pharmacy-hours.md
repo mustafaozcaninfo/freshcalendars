@@ -3,7 +3,7 @@ title: "Is Kroger Open on Thanksgiving 2026? Yes, Early Close, No Pharmacy"
 description: "Kroger is open Thu., Nov. 26, 2026 with early closing and pharmacies closed, per FOX 4 and ABC7. Times by source, banners table, printable."
 type: news
 publishedAt: "2026-11-23T20:40:00-05:00"
-updatedAt: "2026-11-23T20:40:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["is kroger open on thanksgiving 2026", "kroger thanksgiving hours 2026", "is kroger pharmacy open on thanksgiving", "harris teeter thanksgiving hours 2026"]
@@ -67,12 +67,12 @@ hero:
     authorUrl: "https://commons.wikimedia.org/wiki/User:Hkeely"
 summary:
   - "Kroger stores are open on Thanksgiving, Thursday, Nov. 26, 2026, with reduced hours, according to FOX 4 Dallas-Fort Worth and ABC7 Los Angeles; Kroger's own hours page could not be read."
-  - "Closing time differs by source: 4 p.m. per LiveNOW from FOX and NTD, 5 p.m. local time per ABC7 for Kroger, Fred Meyer and Ralphs."
+  - "Closing time differs by source: 4 p.m. per FOX 4, LiveNOW from FOX and NTD, 5 p.m. local time per ABC7 for Kroger, Fred Meyer and Ralphs."
   - "Pharmacies and clinics are closed on Thanksgiving, according to FOX 4, ABC7 and NTD."
   - "Harris Teeter closes by 2 p.m., per ABC7 and LiveNOW from FOX; hours for fuel centers, Christmas Eve and Christmas Day 2026 are not announced."
 faq:
   - q: "Is Kroger open on Thanksgiving 2026?"
-    a: "Yes, with reduced hours. FOX 4 Dallas-Fort Worth reports \"Stores will open with reduced hours\" on Thursday, Nov. 26, 2026. Closing time is 4 p.m. or 5 p.m. depending on the source, so check your store's page."
+    a: "Yes, with reduced hours. FOX 4 Dallas-Fort Worth reports \"Stores will open with reduced hours\" on Thursday, Nov. 26, 2026. Closing time is 4 p.m. per FOX 4, LiveNOW from FOX and NTD, and 5 p.m. local time per ABC7, so check your store's page."
   - q: "Is the Kroger pharmacy open on Thanksgiving 2026?"
     a: "No. FOX 4, ABC7 and NTD all report that Kroger's pharmacies and clinics are closed on Thursday, Nov. 26, 2026."
   - q: "Is Harris Teeter open on Thanksgiving 2026?"
@@ -85,19 +85,19 @@ sources:
   - title: "Thanksgiving Day store hours 2026: Which DFW grocery stores and retailers are open?"
     url: "https://www.fox4news.com/news/thanksgiving-day-store-hours-2026-which-dfw-grocery-stores-retailers-open"
     publisher: "FOX 4 Dallas-Fort Worth (Fox Television Stations)"
-    date: "2026-11-19"
+    date: "2026-11-25"
   - title: "What stores are open on Thanksgiving and Black Friday 2026? Grocery, drugstores and more | List"
     url: "https://abc7.com/post/what-stores-are-open-thanksgiving-black-friday-2026-grocery-drugstores-more-list/20071063/"
     publisher: "ABC7 Los Angeles"
-    date: "2026-11-23"
+    date: "2026-11-25"
   - title: "What's Open and Closed on Thanksgiving Day 2026"
     url: "https://www.ntd.com/whats-open-and-closed-on-thanksgiving-day-2026_1186951.html"
     publisher: "NTD"
-    date: "2026-11-23"
+    date: "2026-11-25"
   - title: "Thanksgiving 2026: Here's what's open and closed"
     url: "https://www.livenowfox.com/news/thanksgiving-2026-whats-open-closed"
     publisher: "LiveNOW from FOX"
-    date: "2026-11-23"
+    date: "2026-11-25"
   - title: "Kroger makes Thanksgiving easy this year (press release)"
     url: "https://www.prnewswire.com/news-releases/kroger-makes-thanksgiving-easy-this-year-with-ultimate-convenience-and-seamless-shopping-302930481.html"
     publisher: "Kroger via PR Newswire"
@@ -105,7 +105,7 @@ sources:
   - title: "Black Friday 2026 store hours"
     url: "https://www.wbay.com/2026/11/20/black-friday-2026-store-hours/"
     publisher: "WBAY (Gray Television)"
-    date: "2026-11-20"
+    date: "2026-11-25"
 internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
@@ -130,10 +130,11 @@ draft: false
 
 ## What time does Kroger close on Thanksgiving 2026?
 
-FOX 4 Dallas-Fort Worth reported on Nov. 19, 2026: "Stores will open with reduced hours." It gave no time. Three later reports, all dated Nov. 23, 2026, give two different answers.
+FOX 4 Dallas-Fort Worth reported on Nov. 19, 2026: "Stores will open with reduced hours. The company's holiday page displayed closing times at 4 p.m. depending on the selected store." Three more reports, all dated Nov. 23, 2026, give two different answers.
 
 | Source | Closing time, Thu., Nov. 26 | Stores named |
 |---|---|---|
+| FOX 4 Dallas-Fort Worth | 4 p.m. on the company's holiday page, depending on the selected store | Kroger |
 | LiveNOW from FOX | 4 p.m. ("according to the company's website") | Kroger |
 | NTD | 4 p.m. | Kroger |
 | ABC7 Los Angeles | 5 p.m. local time | Kroger, Fred Meyer, Ralphs and its other subsidiaries |
@@ -150,7 +151,7 @@ Harris Teeter is a Kroger company. ABC7 reports its stores are open on Thanksgiv
 
 | Store | Thanksgiving status | Pharmacy | Source |
 |---|---|---|---|
-| [Kroger](https://www.kroger.com/) | Open, closes 4 p.m. or 5 p.m. by source | Closed | LiveNOW from FOX, NTD, ABC7 |
+| [Kroger](https://www.kroger.com/) | Open, closes 4 p.m. or 5 p.m. by source | Closed | FOX 4, LiveNOW from FOX, NTD, ABC7 |
 | [Ralphs](https://www.ralphs.com/) | Open until 5 p.m. local time | Closed (Kroger pharmacies) | ABC7 |
 | [Fred Meyer](https://www.fredmeyer.com/) | Open until 5 p.m. local time | Closed (Kroger pharmacies) | ABC7 |
 | [Harris Teeter](https://www.harristeeter.com/) | Open until 2 p.m. | Not named | ABC7, LiveNOW from FOX |

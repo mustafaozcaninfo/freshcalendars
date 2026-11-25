@@ -3,6 +3,7 @@ title: "Maggiano's Thanksgiving 2026: $210 Carryout Bundle Serves 4-5"
 description: "Maggiano's Thanksgiving 2026 carryout bundles serve 4-5: $210 cold for Nov. 25 pickup, $220 hot for Nov. 26. Per-person cost, order-by dates, printable."
 type: news
 publishedAt: "2026-11-23T14:38:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["maggiano's thanksgiving 2026", "maggiano's thanksgiving menu", "maggiano's thanksgiving carryout bundle", "is maggiano's open on thanksgiving"]
@@ -17,7 +18,7 @@ assets:
     group: maggianos-thanksgiving-2026
     title: "Maggiano's Thanksgiving 2026 Carryout Planner"
     subtitle: "Order 24 hours ahead, pick up the cold bundle Nov. 25 or the hot bundle Nov. 26, then reheat and serve"
-    note: "Source: Maggiano's Little Italy (Brinker International), Thanksgiving page, read Nov. 23, 2026. Maggiano's does not list Thanksgiving dine-in hours or prices, how many the $50 sides-only bundle serves, or pickup hours on this page."
+    note: "Source: Maggiano's Little Italy (Brinker International), Thanksgiving page. Maggiano's does not list Thanksgiving dine-in hours or prices, how many the $50 sides-only bundle serves, or pickup hours on this page."
     description: "One-page Maggiano's Thanksgiving 2026 planner: $210 cold bundle for Nov. 25 pickup, $220 hot bundle for Nov. 26, order 24 hours ahead, with fill-in lines for pickup time and guests."
     alt: "Printable Maggiano's Thanksgiving 2026 carryout planner with the $210 and $220 bundle pickup dates and fill-in lines"
     data:
@@ -33,11 +34,11 @@ assets:
         - { daysBefore: 0, task: "Pick up the hot bundle on Thanksgiving Day, Thu., Nov. 26, then reheat and serve" }
       fill: ["Pickup time reserved", "Guests", "Start reheating at"]
       unconfirmed:
-        - { label: "Thanksgiving Day dine-in hours", why: "Not on the Maggiano's Thanksgiving page read Nov. 23, 2026" }
-        - { label: "Dine-in price per adult or child", why: "Not on the Maggiano's Thanksgiving page read Nov. 23, 2026" }
-        - { label: "How many the $50 sides-only bundle serves", why: "Not on the Maggiano's Thanksgiving page read Nov. 23, 2026" }
-        - { label: "Pickup hours", why: "Not on the Maggiano's Thanksgiving page read Nov. 23, 2026" }
-        - { label: "Whether prices vary by restaurant", why: "Not on the Maggiano's Thanksgiving page read Nov. 23, 2026" }
+        - { label: "Thanksgiving Day dine-in hours", why: "Not on the Maggiano's Thanksgiving page" }
+        - { label: "Dine-in price per adult or child", why: "Not on the Maggiano's Thanksgiving page" }
+        - { label: "How many the $50 sides-only bundle serves", why: "Not on the Maggiano's Thanksgiving page" }
+        - { label: "Pickup hours", why: "Not on the Maggiano's Thanksgiving page" }
+        - { label: "Whether prices vary by restaurant", why: "Not on the Maggiano's Thanksgiving page" }
 hero:
   src: ../../../../assets/news/maggianos-thanksgiving-2026-carryout-bundle-210-dine-in-menu/maggianos-thanksgiving-2026-carryout-bundle-210-dine-in-menu.webp
   alt: "A Maggiano's Little Italy restaurant in Washington, D.C., a file photo for the Maggiano's Thanksgiving 2026 carryout bundle"
@@ -69,7 +70,7 @@ sources:
   - title: "Thanksgiving at Maggiano's"
     url: "https://www.maggianos.com/thanksgiving2026"
     publisher: "Maggiano's Little Italy"
-    date: "2026-11-23"
+    date: "2026-11-25"
 internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving 2026?"
@@ -129,8 +130,8 @@ Maggiano's says to place orders 24 hours before the pickup time you want, so the
 
 | When | Step |
 |---|---|
-| By Tue., Nov. 24 | Order a $210 cold-prepared bundle for a Wed., Nov. 25 pickup |
-| Wed., Nov. 25 | Pick up the cold bundle; order a $220 hot-prepared bundle by this day for a Thu., Nov. 26 pickup |
+| Tue., Nov. 24 | Last day to order a $210 cold-prepared bundle for a Wed., Nov. 25 pickup under the 24-hour rule |
+| Wed., Nov. 25 | Pick up the cold bundle; last day to order a $220 hot-prepared bundle for a Thu., Nov. 26 pickup |
 | Thu., Nov. 26 | Pick up the hot-prepared bundle on Thanksgiving Day, then reheat and serve |
 
 Maggiano's lists a reheating-instructions link for the bundles. The page gives no pickup hours, so confirm the time when you order.
@@ -149,4 +150,4 @@ The free one-page sheet has the $210 and $220 bundle prices, the Nov. 25 and Nov
 
 ## Sources for the Maggiano's Thanksgiving details
 
-The facts come from the Maggiano's Little Italy Thanksgiving page, read Nov. 23, 2026. Prices, serving counts and pickup days are Maggiano's own; the per-person figures and the order-by days are our arithmetic from them.
+The facts come from the Maggiano's Little Italy Thanksgiving page, read Nov. 25, 2026. Prices, serving counts and pickup days are Maggiano's own; the per-person figures and the order-by days are our arithmetic from them.

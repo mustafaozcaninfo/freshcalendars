@@ -3,7 +3,7 @@ title: "Small Business Saturday 2026 Is Nov. 28: Four Local Events Listed"
 description: "Small Business Saturday is Nov. 28, 2026, says the U.S. Small Business Administration (SBA). Four local events we checked, how to find stores, how to join."
 type: explainer
 publishedAt: "2026-10-30T15:30:00-04:00"
-updatedAt: "2026-11-08T02:45:00-05:00"
+updatedAt: "2026-11-25T15:01:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["small business saturday 2026 participating stores", "small business saturday events near me", "shop small 2026", "small business saturday 2026"]
@@ -79,7 +79,7 @@ summary:
   - "Small Business Saturday 2026 is Saturday, Nov. 28, according to the U.S. Small Business Administration (SBA)."
   - "Four local organizers list 2026 events: Rutland, Vermont; Moultrie, Georgia; Littleton, Colorado; and New Oxford, Pennsylvania."
   - "We could not load American Express's Shop Small pages on Oct. 30, 2026, so no 2026 card offer is confirmed here."
-  - "Businesses can use the free marketing materials the SBA page links to, or register with local organizers; New Oxford's deadline is Fri., Nov. 20."
+  - "Businesses can use the free marketing materials the SBA page links to or register with local organizers; New Oxford's brochure deadline was Fri., Nov. 20."
 faq:
   - q: "Where can I find Small Business Saturday events near me?"
     a: "Check the event page of your city, downtown association or chamber of commerce, then confirm hours on each business's own site."
@@ -125,14 +125,14 @@ The other dates that weekend, including Cyber Monday, are in the Thanksgiving we
 
 ## Which Small Business Saturday 2026 events are listed?
 
-Each organizer below posts its own 2026 page. Details are as the organizer lists them, checked Oct. 30, 2026.
+Each organizer below posts its own 2026 page. Details are as the organizer lists them. We re-read the Rutland, Moultrie and New Oxford pages on Nov. 25, 2026; Littleton's page blocked automated access, so its line is from our Oct. 30 check.
 
 | Place | Organizer | What the page says |
 |---|---|---|
 | Rutland, Vermont | [Downtown Rutland Partnership](https://downtownrutland.com/small-business-saturday-2026) | Sat., Nov. 28, 11 a.m. to 4 p.m. throughout the historic district, hub at 28 Center Street; events are free to attend, made possible by sponsorship |
 | Moultrie, Georgia | [City of Moultrie](https://www.moultriega.com/event/small-business-saturday-at-downtown-moultrie/) | Sat., Nov. 28, downtown shopping from 10 a.m. in Downtown Moultrie |
 | Littleton, Colorado | [Historic Downtown Littleton](https://littletondda.org/event/small-business-saturday-2026/) | Nov. 28 at 2516 Main St, Littleton, CO 80120; time not listed |
-| New Oxford, Pennsylvania | [New Oxford Area Chamber of Commerce](https://www.newoxford.org/small-business-saturday.html) | Sat., Nov. 28; businesses register by Fri., Nov. 20; time and venue not listed |
+| New Oxford, Pennsylvania | [New Oxford Area Chamber of Commerce](https://www.newoxford.org/small-business-saturday.html) | Sat., Nov. 28; businesses were asked to register by Fri., Nov. 20, for the Shop Small brochure; time and venue not listed |
 
 Times that a page does not list are not confirmed, so check the organizer before you go.
 
@@ -146,7 +146,7 @@ Not confirmed. The SBA says [Small Business Saturday was founded by American Exp
 
 ## How can a business take part?
 
-The SBA page links to free Small Business Saturday marketing materials, including sample posters and social media resources, hosted by American Express. Businesses can also register with local organizers. In New Oxford, Pennsylvania, the [chamber of commerce](https://www.newoxford.org/small-business-saturday.html) asks businesses to register by Fri., Nov. 20.
+The SBA page links to free Small Business Saturday marketing materials, including sample posters and social media resources, hosted by American Express. Businesses can also register with local organizers. In New Oxford, Pennsylvania, the [chamber of commerce](https://www.newoxford.org/small-business-saturday.html) asked businesses to register by Fri., Nov. 20, to be in its 2026 Shop Small brochure.
 
 ## Where does Small Business Saturday fall in Thanksgiving week?
 
