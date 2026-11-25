@@ -92,7 +92,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [samsung-black-friday-2026-dates-november-2-30, bose-black-friday-2026-quietcomfort-deals-prices, cyber-monday-2026-date-sale-start-times-by-store]
+related: [samsung-black-friday-2026-dates-november-2-30, meta-quest-black-friday-2026-quest-3s-deal-ends-november-30, cyber-monday-2026-date-sale-start-times-by-store]
 downloads:
   - group: "Google Pixel Black Friday 2026 End Dates printables"
     title: "Google Pixel Black Friday 2026 End Dates"
