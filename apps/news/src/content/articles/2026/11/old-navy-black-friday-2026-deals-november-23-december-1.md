@@ -3,7 +3,7 @@ title: "Old Navy Black Friday 2026: Sale Runs Nov. 23 to Dec. 1"
 description: "Old Navy's Black Friday 2026 sale runs Nov. 23 to Dec. 1. A day-by-day calendar of the nine days, what is not announced yet, and a printable."
 type: news
 publishedAt: "2026-11-17T20:40:00-05:00"
-updatedAt: "2026-11-17T20:40:00-05:00"
+updatedAt: "2026-11-25T16:50:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["old navy black friday 2026", "old navy black friday sale 2026", "when does old navy black friday start", "old navy cyber monday 2026"]
@@ -47,7 +47,7 @@ hero:
     authorUrl: "https://www.flickr.com/people/87296837@N00"
 summary:
   - "Old Navy's Black Friday and Cyber Monday page says the 2026 sale starts Nov. 23 and goes through Dec. 1, nine days."
-  - "On Nov. 17 the page showed a banner reading 50% off early Black Friday deals plus an extra 30% off with a promo code, exclusions apply, with no end date."
+  - "On Nov. 17 the page showed a banner reading 50% off early Black Friday deals plus an extra 30% off with a promo code. By Nov. 25 it announced that Black Friday had arrived with 50% off everything, exclusions apply."
   - "Old Navy's page gives no Thanksgiving status and no store hours."
   - "Cyber Monday, Nov. 30, falls inside the sale window; the page lists no separate Cyber Monday deal."
 faq:
@@ -58,14 +58,14 @@ faq:
   - q: "Is Old Navy open on Thanksgiving 2026?"
     a: "Old Navy has not said. Its Black Friday page and the Gap Inc. newsroom give no Thanksgiving status. Thanksgiving is Thursday, Nov. 26."
   - q: "What is the Old Navy Extra code?"
-    a: "The Old Navy page shows a banner reading 50% Off Early Black Friday Deals plus Extra 30% Off Purchase, exclusions apply. It states no end date for the banner offer. Today.com reported the code Extra takes 30% off at checkout."
+    a: "On Nov. 17 the Old Navy page showed a banner reading 50% Off Early Black Friday Deals plus Extra 30% Off Purchase, exclusions apply, with no end date. On Nov. 25 the banner announced that Black Friday had arrived with 50% off everything, exclusions apply, and the page text showed no code. Today.com reported on Nov. 16 that the code Extra takes 30% off at checkout."
   - q: "Does Old Navy have a Cyber Monday 2026 sale?"
     a: "The page is titled Black Friday and Cyber Monday Deals 2026 but names no separate Cyber Monday deal. Cyber Monday is Nov. 30, inside the Nov. 23 to Dec. 1 window."
 sources:
   - title: "Black Friday and Cyber Monday Deals 2026"
     url: "https://oldnavy.gap.com/page/black-friday-cyber-monday-deals?cid=1166554"
     publisher: "Old Navy"
-    date: "2026-11-17"
+    date: "2026-11-25"
   - title: "Old Navy Black Friday 2026 deals"
     url: "https://www.today.com/shop/old-navy-black-friday-2026-deals-rcna608642"
     publisher: "Today.com"
@@ -73,7 +73,7 @@ sources:
   - title: "Gap Inc. newsroom"
     url: "https://www.gapinc.com/en-us/newsroom"
     publisher: "Gap Inc."
-    date: "2026-11-17"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -114,11 +114,11 @@ Put the window on our [November 2026](/november-calendars.html) and [December 20
 
 ## What is the Old Navy Extra code?
 
-On Nov. 17 the Old Navy page showed a banner reading "50% Off Early Black Friday Deals + Extra 30% Off Purchase," with a promo code (Extra, shown in capital letters) and "Exclusions apply." The banner gives no end date, so it may not cover the whole sale. Today.com, in its Old Navy Black Friday 2026 deals guide updated Nov. 16, reported that early sales are "as high as 65% off" and that you can "take 30% off at checkout with the code Extra." Those figures are Today.com's reporting; Old Navy's page does not state the 65% figure.
+On Nov. 17 the Old Navy page showed a banner reading "50% Off Early Black Friday Deals + Extra 30% Off Purchase," with a promo code (Extra, shown in capital letters) and "Exclusions apply." The banner gives no end date, so it may not cover the whole sale. Today.com, in its Old Navy Black Friday 2026 deals guide updated Nov. 16, reported that early sales are "as high as 65% off" and that you can "take 30% off at checkout with the code Extra." Those figures are Today.com's reporting; Old Navy's page does not state the 65% figure. On Nov. 25 the banner had changed to say Black Friday had arrived with 50% off everything, again with "Exclusions apply," and the page text showed no promo code or end date.
 
 ## Is Old Navy open on Thanksgiving 2026?
 
-Old Navy has not said. Thanksgiving is Thursday, Nov. 26, 2026. The Black Friday page has no Thanksgiving status, and the [Gap Inc. newsroom](https://www.gapinc.com/en-us/newsroom) on Nov. 17 listed no Old Navy store-hours release. Its holiday release was the Nov. 5 "All Aboard the Jingle Jet: Introducing Old Navy's Holiday 2026 Campaign," which is not a sale-date or hours announcement. For chains that have published hours, see the [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/) and the [Kohl's Black Friday 2026 dates](/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/).
+Old Navy has not said. Thanksgiving is Thursday, Nov. 26, 2026. The Black Friday page has no Thanksgiving status, and the [Gap Inc. newsroom](https://www.gapinc.com/en-us/newsroom) on Nov. 25 listed no Old Navy store-hours release. Its holiday release was the Nov. 5 "All Aboard the Jingle Jet: Introducing Old Navy's Holiday 2026 Campaign," which is not a sale-date or hours announcement. For chains that have published hours, see the [Black Friday 2026 store hours guide](/news/black-friday-2026-store-hours-walmart-target-best-buy/) and the [Kohl's Black Friday 2026 dates](/news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/).
 
 ## Does Old Navy have a Cyber Monday 2026 deal?
 

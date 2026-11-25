@@ -3,6 +3,7 @@ title: "Apple Black Friday 2026: Gift Cards up to $300, Nov. 27-30"
 description: "Apple's Black Friday 2026 event runs Nov. 27-30 with gift cards up to $300. Every eligible model and its amount in one table, plus a printable."
 type: news
 publishedAt: "2026-11-19T15:25:00-05:00"
+updatedAt: "2026-11-25T16:49:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["apple black friday 2026", "apple shopping event 2026", "apple black friday gift card", "apple black friday 2026 dates"]
@@ -17,7 +18,7 @@ assets:
     group: apple-black-friday-2026
     title: "Apple Black Friday 2026 Gift Card Amounts"
     subtitle: "Nov. 27-30, 2026: the gift card for each eligible product"
-    note: "Source: Apple, Black Friday Event Terms and Conditions and Black Friday & Cyber Monday Deals 2026, read Nov. 19, 2026. Two promotion products per category per purchaser; while supplies last."
+    note: "Source: Apple, Black Friday Event Terms and Conditions and Black Friday & Cyber Monday Deals 2026. Two promotion products per category per purchaser; while supplies last."
     description: "One-page list of Apple's Black Friday 2026 gift card amounts by product, with the Nov. 27-30 window and the two-per-category limit."
     alt: "Printable table of Apple Black Friday 2026 gift card amounts by product for Nov. 27-30"
     data:
@@ -49,8 +50,8 @@ assets:
         - { cells: { item: "Accessories, each", card: "$25" }, src: 1, quote: "Accessories $25" }
       highlight: "card"
       unconfirmed:
-        - { label: "Apple Store hours on Thanksgiving and Black Friday", why: "Not posted on apple.com as of Nov. 19, 2026" }
-        - { label: "Gift card amounts in Canada and the UK", why: "Not posted as of Nov. 19, 2026" }
+        - { label: "Apple Store hours on Thanksgiving and Black Friday", why: "Not posted on apple.com as of Nov. 25, 2026" }
+        - { label: "Gift card amounts in the UK", why: "Not posted as of Nov. 25, 2026" }
 hero:
   src: ../../../../assets/news/apple-black-friday-2026-shopping-event-november-27-30/apple-black-friday-2026-shopping-event-november-27-30.webp
   alt: "Interior of the Apple Store at the Maine Mall with product tables, for Apple Black Friday 2026"
@@ -63,14 +64,14 @@ hero:
     author: "Seasider53"
 summary:
   - "Apple's terms say the Black Friday event runs from Nov. 27, 2026 at 12:00 a.m. Pacific Time to Nov. 30, 2026 at 11:59 p.m. Pacific Time, in the U.S."
-  - "The offer is a gift card for future purchases with an eligible product: $25 to $300, with the most on the MacBook Pro 16-inch."
+  - "The offer is a gift card for future purchases with an eligible product: $25 to $300, with the most on the MacBook Pro 16-inch. Apple's terms add a discount equal to the card's value off the product, with all items in the cart charged."
   - "Each purchaser can get two promotion products per eligible product category. Refurbished, open-box and end-of-life items, resellers and carrier-connected purchases do not qualify."
   - "In 2025, MacRumors reported gift cards up to $250 for Nov. 28 to Dec. 1; the 2026 Mac maximum is $300."
 faq:
   - q: "When does Apple's Black Friday 2026 event start and end?"
     a: "Apple's terms say it begins Nov. 27, 2026 at 12:00 a.m. Pacific Time and ends Nov. 30, 2026 at 11:59 p.m. Pacific Time. Converted, that is 3:00 a.m. ET on Nov. 27 and 2:59 a.m. ET on Dec. 1."
   - q: "Does Apple take money off during Black Friday?"
-    a: "Apple's pages describe a gift card, not a price cut. The terms call it a promotion product redeemable for future purchases, and the page lists no discount percentage."
+    a: "Apple's terms say qualifying buyers receive a discount equal to the value of the promotion product off the price of the eligible product at purchase, and are charged for all items in the cart, including the promotion product. The terms call it redeemable for future purchases, and the pages list no discount percentage."
   - q: "How many gift cards can one person get?"
     a: "The terms allow two promotion products per purchaser for each eligible product category."
   - q: "Can you use an Apple Upgrade plan or carrier deal?"
@@ -78,16 +79,16 @@ faq:
   - q: "Are Apple Stores open on Thanksgiving or Black Friday 2026?"
     a: "Apple has not posted hours for Thursday, Nov. 26 or Friday, Nov. 27 on its pages we read. Check your store's page."
   - q: "Is the Apple Black Friday offer the same in Canada and the UK?"
-    a: "The Canadian and UK Apple pages show the same Nov. 27-30 dates, but no gift card amounts were posted when we read them on Nov. 19."
+    a: "The Canadian and UK Apple pages show the same Nov. 27-30 dates. The Canadian page says "Get an Apple Gift Card for up to $420" with an eligible product and shows no per-product chart; the UK page showed no gift card amount when we read it on Nov. 25."
 sources:
   - title: "Black Friday Event Terms and Conditions"
     url: "https://www.apple.com/shop/gifts/black-friday-event/terms-conditions"
     publisher: "Apple"
-    date: "2026-11-19"
+    date: "2026-11-25"
   - title: "Black Friday & Cyber Monday Deals 2026"
     url: "https://www.apple.com/shop/gifts/black-friday-event"
     publisher: "Apple"
-    date: "2026-11-19"
+    date: "2026-11-25"
   - title: "Apple Announces 2025 Black Friday Event"
     url: "https://www.macrumors.com/2025/11/20/apple-announces-2025-black-friday-event/"
     publisher: "MacRumors"
@@ -95,11 +96,11 @@ sources:
   - title: "Apple Store gifts, Canada"
     url: "https://www.apple.com/ca/shop/gifts"
     publisher: "Apple"
-    date: "2026-11-19"
+    date: "2026-11-25"
   - title: "Apple Store gifts, UK"
     url: "https://www.apple.com/uk/shop/gifts"
     publisher: "Apple"
-    date: "2026-11-19"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -120,7 +121,7 @@ downloads:
 draft: false
 ---
 
-**Apple's Black Friday 2026 event runs from Nov. 27 to Nov. 30, 2026 in the U.S., with gift cards of $25 to $300 on eligible products, according to the terms Apple posted on apple.com, which we read on Nov. 19.** The terms give the start as 12:00 a.m. Pacific Time (PT) on Nov. 27 and the end as 11:59 p.m. PT on Nov. 30. The table below lists every eligible model with its gift card, and the terms hold two limits most coverage skips.
+**Apple's Black Friday 2026 event runs from Nov. 27 to Nov. 30, 2026 in the U.S., with gift cards of $25 to $300 on eligible products, according to the terms Apple posted on apple.com, which we read on Nov. 25.** The terms give the start as 12:00 a.m. Pacific Time (PT) on Nov. 27 and the end as 11:59 p.m. PT on Nov. 30. The table below lists every eligible model with its gift card, and the terms hold two limits most coverage skips.
 
 ## When does Apple's Black Friday 2026 event start and end?
 
@@ -135,7 +136,7 @@ Per the terms, the offer applies at Apple Store locations, Apple Store Online, t
 
 ## How big is the Apple gift card for each model?
 
-The gift card is a promotion product redeemable for future purchases. Apple's event page says "Gift card values may vary by Eligible Product." These are the amounts from the chart on Apple's terms page.
+The gift card is a promotion product redeemable for future purchases. The terms say buyers of an eligible product and a promotion product "shall receive a discount equal to the value of the Promotion Product" off the price of the eligible product, and "will be charged for all items in their cart, including the Promotion Product." Apple's event page says "Gift card values may vary by Eligible Product." These are the amounts from the chart on Apple's terms page.
 
 | Category | Eligible product | Gift card |
 |---|---|---|
@@ -169,11 +170,11 @@ Accessories carry $25 each, per the terms. One name includes the Universal Seria
 
 - **Two per category.** "For each Eligible Product category, only two (2) Promotion Products per purchaser may be obtained during this promotion."
 - **Not eligible products.** "Refurbished products, end-of-life products, and open box returns sold as-is are not eligible for this offer."
-- **Not eligible buyers.** Resellers, government entities, nonprofits and educational institutions.
+- **Not eligible buyers.** Resellers, public and government entities, nonprofits, educational institutions, and education, enterprise and business purchasers.
 - **Not eligible programs.** Apple Upgrade, corporate employee purchase, veterans and military purchase programs and carrier-connected purchases.
 - **Returns.** "Both the Promotion Product and the Eligible Product must be returned in order to receive a full refund."
 
-Apple's page gives amounts for a gift card, not a discount percentage, so the table is the only way to see what each model earns. For carrier deals on phones, see our [Verizon Black Friday 2026 guide](/news/verizon-black-friday-2026-deals-iphone-18-pro-galaxy-s26/).
+Apple's pages give amounts for the gift card and no discount percentage, so the table is the only way to see what each model earns. For carrier deals on phones, see our [Verizon Black Friday 2026 guide](/news/verizon-black-friday-2026-deals-iphone-18-pro-galaxy-s26/).
 
 ## How does it compare with Apple's 2025 event?
 
@@ -182,7 +183,7 @@ In 2025, MacRumors reported Apple's event ran from Fri., Nov. 28 to Mon., Dec. 1
 ## What has Apple not posted for Black Friday 2026?
 
 - Apple Store hours on Thanksgiving, Nov. 26, and Black Friday, Nov. 27: not posted on the apple.com pages we read; check your store's page.
-- Gift card amounts in Canada and the UK. Both country pages show the same Nov. 27-30 dates and no amounts.
+- Gift card amounts in the UK, and a per-product chart for Canada. Both country pages show the same Nov. 27-30 dates; the Canadian page says an Apple Gift Card for up to $420 and the UK page shows no amount.
 - A release from Apple Newsroom: we found none as of Nov. 19.
 
 Compare other stores' sales in our [Samsung Black Friday 2026 dates](/news/samsung-black-friday-2026-dates-november-2-30/) story and the [Cyber Monday 2026 guide](/news/cyber-monday-2026-date-sale-start-times-by-store/).

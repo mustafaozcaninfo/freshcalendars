@@ -41,6 +41,7 @@ sources:
   - title: "About GivingTuesday"
     url: "https://www.givingtuesday.org/about/"
     publisher: "GivingTuesday"
+    date: "2026-11-25"
   - title: "GivingTuesday 2025 results"
     url: "https://www.givingtuesday.org/blog/2025-results"
     publisher: "GivingTuesday"
@@ -48,7 +49,7 @@ sources:
   - title: "Working Families Tax Cuts provisions"
     url: "https://www.irs.gov/newsroom/one-big-beautiful-bill-provisions"
     publisher: "Internal Revenue Service"
-    date: "2026-11-10"
+    date: "2026-11-25"
   - title: "Donating Safely and Avoiding Scams"
     url: "https://consumer.ftc.gov/features/donating-safely-and-avoiding-scams"
     publisher: "Federal Trade Commission"
@@ -78,7 +79,7 @@ downloads:
     pdf: "/news/downloads/giving-tuesday-2026/giving-tuesday-2026-checklist.pdf"
     png: "/news/downloads/giving-tuesday-2026/giving-tuesday-2026-checklist.png"
     pages: 1
-updatedAt: "2026-11-19T01:42:00-05:00"
+updatedAt: "2026-11-25T16:50:00-05:00"
 draft: false
 assets:
   overlay: true
@@ -114,7 +115,7 @@ assets:
             - "Keep your receipts and ask a tax professional what you need"
 ---
 
-GivingTuesday 2026 falls on **Tuesday, Dec. 1**, according to GivingTuesday, and a new rule from the Internal Revenue Service (IRS) applies to it: beginning with tax year 2026, people who do not itemize may deduct up to $1,000 of cash gifts to eligible charities. From Thursday, Nov. 19, 2026, the day is 12 days away. The Federal Trade Commission (FTC) steps for checking a charity and a one-page printable checklist follow.
+GivingTuesday 2026 falls on **Tuesday, Dec. 1**, according to GivingTuesday, and a new rule from the Internal Revenue Service (IRS) applies to it: beginning with tax year 2026, people who do not itemize may deduct up to $1,000 of cash gifts to eligible charities. The Federal Trade Commission (FTC) steps for checking a charity and a one-page printable checklist follow.
 
 ## When is GivingTuesday 2026?
 
