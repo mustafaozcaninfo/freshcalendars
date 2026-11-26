@@ -89,7 +89,7 @@ assets:
         - { start: "2026-12-05T19:00-06:00", title: "5A championship", detail: "Davis Wade Stadium, Starkville", stream: "NFHS Network", airing: live, src: 1, quote: ["Sat. Dec. 5", "7:00 PM", "5A"] }
       fill: { title: "Game notes", labels: ["Thursday's scores", "Friday's scores", "Saturday's scores"] }
       unconfirmed:
-        - { label: "The 14 finalists", why: "not announced as of Nov. 26, 2026" }
+        - { label: "The 14 finalists", why: "not announced; set by the semifinals" }
         - { label: "2026 ticket prices, parking and bag policy", why: "not announced" }
 downloads:
   - group: "Mississippi MHSAA Football Championships 2026 Watch Guide printables"
