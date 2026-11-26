@@ -87,7 +87,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/christmas-day/"
     label: "When is Christmas Day?"
-related: [circle-of-lights-2026-indianapolis-november-27-wthr, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, mcadenville-christmas-town-usa-2026-december-1-26-lights-hours]
+related: [circle-of-lights-2026-indianapolis-november-27-wthr, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade, mcadenville-christmas-town-usa-2026-december-1-26-lights-hours, honolulu-city-lights-2026-december-5-parade-tree-lighting]
 downloads:
   - group: "Christmas Tree Lightings 2026 Checklist printables"
     title: "Christmas Tree Lightings 2026 Checklist"
