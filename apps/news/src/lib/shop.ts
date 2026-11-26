@@ -2,7 +2,8 @@
  * Fresh Calendars Shop cards: a labeled block after a story's printables that points readers to
  * the shop's seasonal page (owner decision 2026-11-09). A story opts in with `shop: <campaign id>`
  * in its frontmatter; the copy lives here, once per campaign, so every story says the same thing
- * and one edit updates them all. A campaign drops off every page at the first build after `until`.
+ * and one edit updates them all. A campaign drops off every page at the first build after `until`,
+ * or hands over to the campaign named in `then`.
  * The shop is an affiliate storefront (Amazon Associates), so the card says so in plain words.
  */
 export interface ShopCampaign {
@@ -18,6 +19,12 @@ export interface ShopCampaign {
   utm: string;
   /** Last moment the card shows (ISO with offset). */
   until: string;
+  /**
+   * The campaign that takes this one's place after `until`, so a story keeps a card through the
+   * season: advent cards hand over to Christmas gifts on Dec. 3, those to 2027 planners after
+   * Christmas (Nov. 26, 2026).
+   */
+  then?: string;
 }
 
 const SHOP = "https://shop.freshcalendars.com";
@@ -42,16 +49,17 @@ export const SHOP_CAMPAIGNS = {
     href: `${SHOP}/categories/advent-calendars`,
     kicker: "Advent calendars 2026",
     title: "Advent calendars compared by cost per day",
-    text: "More than 900 advent calendars in 22 kinds, with guides that list the days, what each door holds and the cost per day at today's price.",
+    text: "More than 1,600 advent calendars in 40 kinds. Each product page lists the days, what the doors hold, the ages the maker gives and today's price at Amazon.",
     cta: "See advent calendars by kind",
     items: [
-      { name: "Calendars for kids", href: `${SHOP}/articles/advent-calendars-for-kids` },
-      { name: "Chocolate calendars", href: `${SHOP}/articles/chocolate-advent-calendars` },
-      { name: "LEGO and block calendars", href: `${SHOP}/articles/lego-advent-calendars` },
+      { name: "Fill your own", href: `${SHOP}/categories/fillable-advent-calendars` },
+      { name: "Toy calendars", href: `${SHOP}/categories/toy-advent-calendars` },
+      { name: "Fishing, golf and hobby", href: `${SHOP}/categories/fishing-advent-calendars` },
       { name: "Calendars under $25", href: `${SHOP}/advent-calendars-under-25` },
     ],
     utm: "advent-2026",
     until: "2026-12-02T23:59:00-05:00",
+    then: "christmas-gifts",
   },
   "lego-advent": {
     href: `${SHOP}/articles/lego-advent-calendars`,
@@ -66,6 +74,7 @@ export const SHOP_CAMPAIGNS = {
     ],
     utm: "advent-2026",
     until: "2026-12-02T23:59:00-05:00",
+    then: "christmas-gifts",
   },
   // Topic cards for advent stories (Nov. 22, 2026): a story about one kind of calendar points at
   // that kind's guide, not at the whole category. Counts in the text come from the guides' titles.
@@ -83,6 +92,7 @@ export const SHOP_CAMPAIGNS = {
     ],
     utm: "advent-2026",
     until: "2026-12-02T23:59:00-05:00",
+    then: "christmas-gifts",
   },
   "disney-advent": {
     href: `${SHOP}/articles/disney-advent-calendars`,
@@ -97,6 +107,7 @@ export const SHOP_CAMPAIGNS = {
     ],
     utm: "advent-2026",
     until: "2026-12-02T23:59:00-05:00",
+    then: "christmas-gifts",
   },
   "craft-advent": {
     href: `${SHOP}/articles/craft-advent-calendars`,
@@ -111,6 +122,7 @@ export const SHOP_CAMPAIGNS = {
     ],
     utm: "advent-2026",
     until: "2026-12-02T23:59:00-05:00",
+    then: "christmas-gifts",
   },
   "religious-advent": {
     href: `${SHOP}/articles/nativity-advent-calendars`,
@@ -125,6 +137,7 @@ export const SHOP_CAMPAIGNS = {
     ],
     utm: "advent-2026",
     until: "2026-12-02T23:59:00-05:00",
+    then: "christmas-gifts",
   },
   "kids-advent": {
     href: `${SHOP}/articles/advent-calendars-for-kids`,
@@ -140,6 +153,7 @@ export const SHOP_CAMPAIGNS = {
     ],
     utm: "advent-2026",
     until: "2026-12-02T23:59:00-05:00",
+    then: "christmas-gifts",
   },
   "advent-deals": {
     href: `${SHOP}/black-friday-advent-calendar-deals`,
@@ -154,6 +168,39 @@ export const SHOP_CAMPAIGNS = {
     ],
     utm: "advent-2026",
     until: "2026-12-02T23:59:00-05:00",
+    then: "christmas-gifts",
+  },
+  // After advent (Nov. 26, 2026): the shop's Christmas gift kinds, then the planners for the new year.
+  "christmas-gifts": {
+    href: `${SHOP}/categories/christmas-gifts`,
+    kicker: "Christmas gifts 2026",
+    title: "Christmas gifts by kind, compared from the listings",
+    text: "More than 800 gifts in 22 kinds, from wooden train sets and trading card tins to gift sets and stocking stuffers. Each page lists pieces, sizes, ages and today's price at Amazon.",
+    cta: "See Christmas gifts by kind",
+    items: [
+      { name: "Stocking stuffers", href: `${SHOP}/categories/stocking-stuffers` },
+      { name: "Wooden train sets", href: `${SHOP}/categories/wooden-train-sets` },
+      { name: "Gift sets for women", href: `${SHOP}/categories/gift-sets-for-women` },
+      { name: "Elf kits", href: `${SHOP}/categories/elf-kits` },
+    ],
+    utm: "christmas-2026",
+    until: "2026-12-24T23:59:00-05:00",
+    then: "planners-2027",
+  },
+  "planners-2027": {
+    href: `${SHOP}/categories/planners`,
+    kicker: "2027 planners",
+    title: "2027 planners compared by size, paper and dates",
+    text: "More than 600 planners for 2027: daily, weekly and monthly layouts, with the page size, paper weight and the months each one covers, read from the listing.",
+    cta: "See 2027 planners",
+    items: [
+      { name: "Weekly planners", href: `${SHOP}/categories/weekly-planners` },
+      { name: "Daily planners", href: `${SHOP}/categories/daily-planners` },
+      { name: "Monthly planners", href: `${SHOP}/categories/monthly-planners` },
+      { name: "2027 wall calendars", href: `${SHOP}/categories/wall-calendars` },
+    ],
+    utm: "planners-2027",
+    until: "2027-01-31T23:59:00-05:00",
   },
 } satisfies Record<string, ShopCampaign>;
 
@@ -162,8 +209,12 @@ export const SHOP_CAMPAIGN_IDS = Object.keys(SHOP_CAMPAIGNS) as [ShopCampaignId,
 
 /** The campaign a story shows, or null when it has none or the campaign has ended. */
 export function shopCampaign(id: string | undefined, now = new Date()): ShopCampaign | null {
-  const c = id ? (SHOP_CAMPAIGNS as Record<string, ShopCampaign>)[id] : undefined;
-  return c && now <= new Date(c.until) ? c : null;
+  const all = SHOP_CAMPAIGNS as Record<string, ShopCampaign>;
+  // Follow the handover chain to the first campaign still running (at most a few steps).
+  for (let c = id ? all[id] : undefined, n = 0; c && n < 5; c = c.then ? all[c.then] : undefined, n++) {
+    if (now <= new Date(c.until)) return c;
+  }
+  return null;
 }
 
 /** A shop link tagged with where the reader came from. */

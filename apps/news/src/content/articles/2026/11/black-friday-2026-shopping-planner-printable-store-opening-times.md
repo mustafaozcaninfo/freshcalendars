@@ -6,6 +6,7 @@ publishedAt: "2026-11-15T06:44:00-05:00"
 updatedAt: "2026-11-25T16:50:00-05:00"
 authors: [christina-gerland]
 category: planning
+shop: planners-2027
 keywords: ["black friday planner printable", "black friday 2026 opening times list", "what time do stores open on black friday 2026", "black friday shopping list printable"]
 dateline: "New York"
 assets:
