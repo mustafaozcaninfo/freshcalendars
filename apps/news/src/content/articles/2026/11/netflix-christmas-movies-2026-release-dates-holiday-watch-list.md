@@ -1,9 +1,9 @@
 ---
-title: "Netflix Christmas Movies 2026: 32 Holiday Titles Dated Nov. 1-28"
-description: "Netflix Christmas movies 2026: 32 holiday titles are dated Nov. 1 to 28, and In a Holidaze is Dec. 2. Each date by week, plus a printable watch list."
+title: "Netflix Christmas Movies 2026: Every Release Date, Nov. 1 to Dec. 2"
+description: "Netflix Christmas movies 2026 by date: 32 holiday titles from Nov. 1 to 28 and In a Holidaze on Dec. 2, what is out now, and a printable watch list."
 type: news
 publishedAt: "2026-11-01T10:45:00-05:00"
-updatedAt: "2026-11-19T01:42:00-05:00"
+updatedAt: "2026-11-26T09:26:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["netflix christmas movies 2026", "new netflix holiday movies 2026", "netflix christmas movies release dates", "in a holidaze netflix release date", "gospel of christmas netflix release date"]
@@ -68,7 +68,7 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Glowing_Christmas_Tree_Lights_in_the_Winter_Night.jpg"
     author: "epSos.de"
 summary:
-  - "Netflix's Oct. 31, 2026 list dates 32 holiday titles from Sunday, Nov. 1 to Saturday, Nov. 28; 24 are out as of Nov. 19, two arrive today and six are still to come."
+  - "Netflix's Oct. 31, 2026 list dates 32 holiday titles from Sunday, Nov. 1 to Saturday, Nov. 28; 31 are out as of Nov. 26 and one, Salish's 12 Games of Christmas, is still to come on Nov. 28."
   - "Netflix names three original holiday movies: A Dog's Perfect Christmas (Nov. 4), Tyler Perry's The Gospel of Christmas (Nov. 11) and Guarding Stars (Nov. 18) are all out."
   - "In a Holidaze is dated Wednesday, Dec. 2 on Netflix's fall movie page; the full December list is not yet posted."
   - "Netflix's Help Center says originals typically release at 12:00 a.m. Pacific Time, which is 3 a.m. Eastern Time."
@@ -115,13 +115,13 @@ downloads:
 draft: false
 ---
 
-**Netflix's "New on Netflix in November 2026" list, published Oct. 31, 2026 on Netflix Tudum, dates 32 holiday titles between Sunday, Nov. 1 and Saturday, Nov. 28, and Netflix's fall movie page lists "In a Holiday... In a Holidaze" for Wednesday, Dec. 2.** As of Thursday, Nov. 19, 24 of the 32 are out, including Christmas On The Ranch and Reporting for Christmas (Monday, Nov. 16) and Guarding Stars (Wednesday, Nov. 18). A Cherry Pie Christmas and Christmas at Fields Ranch arrive today, and six more follow between Saturday, Nov. 21 and Saturday, Nov. 28. The table below groups every title by date with its status, and a free printable watch list follows it.
+**Netflix's "New on Netflix in November 2026" list, published Oct. 31, 2026 on Netflix Tudum, dates 32 holiday titles between Sunday, Nov. 1 and Saturday, Nov. 28, and Netflix's fall movie page lists "In a Holiday... In a Holidaze" for Wednesday, Dec. 2.** As of Thursday, Nov. 26, 31 of the 32 are out, including Christmas On The Ranch and Reporting for Christmas (Monday, Nov. 16) and Guarding Stars (Wednesday, Nov. 18). A Cherry Pie Christmas and Christmas at Fields Ranch (Thursday, Nov. 19) are out too, and the last one, Salish's 12 Games of Christmas, arrives Saturday, Nov. 28. The table below groups every title by date with its status, and a free printable watch list follows it.
 
 Seven titles were dated Sunday, Nov. 1, and three more were dated Tuesday, Nov. 3, so the list is front-loaded. Netflix's own pick for original holiday movies is short: Tudum says to add "A Dog's Perfect Christmas, The Gospel of Christmas, and Guarding Stars to your watchlist."
 
 ## Netflix holiday titles by date, November and December 2026
 
-Dates are U.S. release dates from Netflix Tudum's list; the weekdays and the "Out now" status (a title dated Nov. 18 or earlier) are our calculation as of Nov. 19. Netflix does not say on that list which titles are originals or licensed, so only the three it names are marked as originals below.
+Dates are U.S. release dates from Netflix Tudum's list; the weekdays and the "Out now" status (a title dated Nov. 26 or earlier) are our calculation as of Nov. 26. Netflix does not say on that list which titles are originals or licensed, so only the three it names are marked as originals below.
 
 | Week | Day and date | Titles | Count | Status |
 |---|---|---|---|---|
@@ -134,10 +134,10 @@ Dates are U.S. release dates from Netflix Tudum's list; the weekdays and the "Ou
 | Nov. 9 to 15 | Friday, Nov. 13 | A Merry Christmas Wish | 1 | Out now |
 | Nov. 16 to 22 | Monday, Nov. 16 | Christmas On The Ranch; Reporting for Christmas | 2 | Out now |
 | Nov. 16 to 22 | Wednesday, Nov. 18 | Guarding Stars; America's Test Kitchen Friendsgiving | 2 | Out now |
-| Nov. 16 to 22 | Thursday, Nov. 19 | A Cherry Pie Christmas; Christmas at Fields Ranch | 2 | Today, Nov. 19 |
-| Nov. 16 to 22 | Saturday, Nov. 21 | Marry Christmas; Mistletoe Mixup | 2 | Coming Nov. 21 |
-| Nov. 23 to 30 | Monday, Nov. 23 | The Great British Baking Show: Holidays | 1 | Coming Nov. 23 |
-| Nov. 23 to 30 | Tuesday, Nov. 24 | All for Christmas; The Trouble With Mistletoe | 2 | Coming Nov. 24 |
+| Nov. 16 to 22 | Thursday, Nov. 19 | A Cherry Pie Christmas; Christmas at Fields Ranch | 2 | Out now |
+| Nov. 16 to 22 | Saturday, Nov. 21 | Marry Christmas; Mistletoe Mixup | 2 | Out now |
+| Nov. 23 to 30 | Monday, Nov. 23 | The Great British Baking Show: Holidays | 1 | Out now |
+| Nov. 23 to 30 | Tuesday, Nov. 24 | All for Christmas; The Trouble With Mistletoe | 2 | Out now |
 | Nov. 23 to 30 | Saturday, Nov. 28 | Salish's 12 Games of Christmas | 1 | Coming Nov. 28 |
 | December | Wednesday, Dec. 2 | In a Holiday... In a Holidaze | 1 | Coming Dec. 2 |
 
