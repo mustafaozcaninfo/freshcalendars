@@ -2,7 +2,7 @@
 title: "Thursday Night Football: Chiefs at Rams, Dec. 3, 8:15 p.m. ET"
 description: "Chiefs at Rams kicks off Thu., Dec. 3, 2026, at 8:15 p.m. ET on Prime Video. Kickoff in every U.S. zone, UK time and a printable watch guide."
 type: news
-publishedAt: "2026-11-25T22:37:00-05:00"
+publishedAt: "2026-11-25T23:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["thursday night football tonight", "chiefs vs rams time", "what channel is chiefs rams on", "chiefs rams thursday night football"]
@@ -33,7 +33,7 @@ assets:
           src: 1
           quote: "Chiefs at Rams, Thursday, December 3rd, 8:15 PM, PRIME"
       unconfirmed:
-        - { label: "TV announcers", why: "No official page names the crew for this game" }
+        - { label: "Prime Video announcers", why: "No official page names the crew for this game" }
 hero:
   src: ../../../../assets/news/thursday-night-football-tonight-chiefs-rams-tnf-december-3-2026/thursday-night-football-tonight-chiefs-rams-tnf-december-3-2026.webp
   alt: "The field and stands inside SoFi Stadium, site of Chiefs at Rams on Thursday Night Football"

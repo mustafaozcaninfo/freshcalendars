@@ -2,7 +2,7 @@
 title: "Monday Night Football: Cowboys at Seahawks, Dec. 7, 8:15 p.m. ET"
 description: "Cowboys at Seahawks kicks off Mon., Dec. 7, 2026, at 8:15 p.m. ET on ESPN. Kickoff in every U.S. time zone, the flex rule and a printable watch guide."
 type: news
-publishedAt: "2026-11-25T22:55:00-05:00"
+publishedAt: "2026-11-25T23:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["monday night football tonight", "cowboys vs seahawks time", "what channel is cowboys seahawks on", "cowboys seahawks monday night football"]

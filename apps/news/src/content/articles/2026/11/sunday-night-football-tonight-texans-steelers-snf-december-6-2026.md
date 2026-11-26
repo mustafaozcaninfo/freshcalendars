@@ -2,7 +2,7 @@
 title: "Sunday Night Football: Texans at Steelers, Dec. 6, 8:20 p.m. ET"
 description: "Texans at Steelers is Sunday Night Football on Dec. 6, 2026, at 8:20 p.m. ET on NBC. Kickoff in every U.S. time zone and a printable watch guide."
 type: news
-publishedAt: "2026-11-25T22:37:00-05:00"
+publishedAt: "2026-11-25T23:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["sunday night football tonight", "texans vs steelers time", "what channel is texans steelers on", "texans steelers sunday night football"]
