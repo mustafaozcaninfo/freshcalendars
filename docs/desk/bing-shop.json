@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-25T19:14:17.156Z",
+ "generatedAt": "2026-11-26T09:15:03.745Z",
  "site": "https://shop.freshcalendars.com/",
  "crawl": [
   {
@@ -55,6 +55,24 @@
    "DnsFailures": 0,
    "InIndex": 493,
    "InLinks": 0
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 2,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 526,
+   "Code301": 2,
+   "Code302": 0,
+   "Code4xx": 0,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 63,
+   "CrawlErrors": 0,
+   "Date": "/Date(1795564800000)/",
+   "DnsFailures": 0,
+   "InIndex": 512,
+   "InLinks": 0
   }
  ],
  "daily": [
@@ -81,6 +99,12 @@
    "Clicks": 2,
    "Date": "/Date(1795392000000)/",
    "Impressions": 157
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 4,
+   "Date": "/Date(1795478400000)/",
+   "Impressions": 190
   }
  ],
  "pages": [],

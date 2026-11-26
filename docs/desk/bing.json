@@ -1,13 +1,7 @@
 {
- "generatedAt": "2026-11-25T19:14:17.156Z",
+ "generatedAt": "2026-11-26T09:15:03.745Z",
  "site": "https://freshcalendars.com/",
  "daily": [
-  {
-   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
-   "Clicks": 3,
-   "Date": "/Date(1753401600000)/",
-   "Impressions": 7672
-  },
   {
    "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
    "Clicks": 0,
@@ -2923,6 +2917,12 @@
    "Clicks": 689,
    "Date": "/Date(1795392000000)/",
    "Impressions": 78200
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 676,
+   "Date": "/Date(1795478400000)/",
+   "Impressions": 75962
   }
  ],
  "queries": [
@@ -5151,14 +5151,6 @@
    "ctr": 0.16666666666666666
   },
   {
-   "key": "federal pay calendar 2027",
-   "clicks": 2,
-   "impressions": 18,
-   "posW": 126,
-   "position": 7,
-   "ctr": 0.1111111111111111
-  },
-  {
    "key": "nfl week 9 pick sheet 2026",
    "clicks": 2,
    "impressions": 18,
@@ -5175,6 +5167,14 @@
    "ctr": 0.1111111111111111
   },
   {
+   "key": "federal pay calendar 2027",
+   "clicks": 2,
+   "impressions": 18,
+   "posW": 126,
+   "position": 7,
+   "ctr": 0.1111111111111111
+  },
+  {
    "key": "when do the new governors take office",
    "clicks": 2,
    "impressions": 18,
@@ -5183,7 +5183,7 @@
    "ctr": 0.1111111111111111
   },
   {
-   "key": "what time is the grey cup on sunday",
+   "key": "2027 calendar with iso week numbers",
    "clicks": 2,
    "impressions": 17,
    "posW": 34,
@@ -5191,7 +5191,7 @@
    "ctr": 0.11764705882352941
   },
   {
-   "key": "2027 calendar with iso week numbers",
+   "key": "what time is the grey cup on sunday",
    "clicks": 2,
    "impressions": 17,
    "posW": 34,
@@ -5969,7 +5969,7 @@
    "ctr": 0.006352087114337568
   },
   {
-   "key": "https://freshcalendars.com/news/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026/",
+   "key": "https://freshcalendars.com/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/",
    "clicks": 7,
    "impressions": 1072,
    "posW": 7504,
@@ -5977,7 +5977,7 @@
    "ctr": 0.0065298507462686565
   },
   {
-   "key": "https://freshcalendars.com/news/godzilla-minus-zero-release-date-imax-november-3-nationwide-november-6/",
+   "key": "https://freshcalendars.com/news/once-upon-a-farm-tractor-wheels-recall-fda-warning-2026/",
    "clicks": 7,
    "impressions": 1072,
    "posW": 7504,
@@ -7481,19 +7481,19 @@
    "ctr": 0.08823529411764706
   },
   {
-   "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
-   "clicks": 2,
-   "impressions": 33,
-   "posW": 198,
-   "position": 6,
-   "ctr": 0.06060606060606061
-  },
-  {
    "key": "https://freshcalendars.com/news/iphone-duo-october-24-availability/",
    "clicks": 2,
    "impressions": 33,
    "posW": 132,
    "position": 4,
+   "ctr": 0.06060606060606061
+  },
+  {
+   "key": "https://freshcalendars.com/news/nyt-pips-hints-answers-october-27-2026/",
+   "clicks": 2,
+   "impressions": 33,
+   "posW": 198,
+   "position": 6,
    "ctr": 0.06060606060606061
   },
   {
@@ -7538,24 +7538,6 @@
   }
  ],
  "crawl": [
-  {
-   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
-   "AllOtherCodes": 32,
-   "BlockedByRobotsTxt": 0,
-   "Code2xx": 431,
-   "Code301": 119,
-   "Code302": 62,
-   "Code4xx": 27,
-   "Code5xx": 2,
-   "ConnectionTimeout": 1,
-   "ContainsMalware": 0,
-   "CrawledPages": 1025,
-   "CrawlErrors": 33,
-   "Date": "/Date(1792800000000)/",
-   "DnsFailures": 0,
-   "InIndex": 428,
-   "InLinks": 333
-  },
   {
    "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
    "AllOtherCodes": 39,
@@ -8077,6 +8059,24 @@
    "DnsFailures": 0,
    "InIndex": 4955,
    "InLinks": 410
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 582,
+   "BlockedByRobotsTxt": 70,
+   "Code2xx": 5553,
+   "Code301": 226,
+   "Code302": 58,
+   "Code4xx": 59,
+   "Code5xx": 1,
+   "ConnectionTimeout": 22,
+   "ContainsMalware": 0,
+   "CrawledPages": 8486,
+   "CrawlErrors": 87,
+   "Date": "/Date(1795564800000)/",
+   "DnsFailures": 0,
+   "InIndex": 5069,
+   "InLinks": 421
   }
  ],
  "failed": []
