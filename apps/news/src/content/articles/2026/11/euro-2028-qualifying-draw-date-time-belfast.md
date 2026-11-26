@@ -1,9 +1,9 @@
 ---
 title: "Euro 2028 Qualifying Draw: Dec. 6 in Belfast, Noon ET, 5 p.m. UK"
-description: "The Euro 2028 qualifying draw is Sunday, Dec. 6, 2026 in Belfast: 5 p.m. UK, noon ET. Start times for 11 time zones and how the 12 qualifying groups work."
+description: "The Euro 2028 qualifying draw is Sunday, Dec. 6, 2026 in Belfast: 5 p.m. UK, noon ET. Start times for 11 time zones, the five pots and all matchdays."
 type: news
 publishedAt: "2026-11-07T23:13:00-05:00"
-updatedAt: "2026-11-07T23:13:00-05:00"
+updatedAt: "2026-11-25T19:25:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["euro 2028 qualifying draw", "euro 2028 qualifying draw time", "euro 2028 qualifiers draw date", "euro 2028 qualifying format"]
@@ -18,8 +18,8 @@ assets:
     slug: euro-2028-qualifying-draw-day-sheet
     group: euro-2028-qualifying-2026
     title: "Euro 2028 Qualifying Draw Day Sheet, Dec. 6, 2026"
-    subtitle: "Draw time by U.S. zone, key dates to 2028 and 12 group boxes to fill in"
-    note: "Source: UEFA, Euro 2028 qualifying draw announcement (Sept. 17, 2026), tournament schedule (Sept. 17, 2026) and European football calendar (Aug. 31, 2026). Time zone conversions by Fresh Calendars."
+    subtitle: "Draw time by U.S. zone, qualifying dates to 2028 and 12 group boxes to fill in"
+    note: "Source: UEFA, Euro 2028 qualifying draw announcement (Sept. 17, 2026), qualifying draw guide (Nov. 23, 2026) and tournament schedule (Sept. 17, 2026). Time zone conversions by Fresh Calendars."
     description: "One-page Euro 2028 qualifying draw sheet: the Dec. 6, 2026 draw time in U.S. zones, the Euro 2028 opener and final, and boxes for Groups A to L."
     alt: "Printable Euro 2028 qualifying draw day sheet with the Dec. 6, 2026 start time in U.S. time zones and 12 empty group boxes"
     data:
@@ -27,15 +27,14 @@ assets:
       layout: table
       events:
         - { start: "2026-12-06T17:00+00:00", tz: "Europe/London", title: "Euro 2028 qualifying draw", detail: "ICC Belfast, 5 p.m. UK", airing: live, src: 1, quote: "on Sunday 6 December 2026 at 17:00 GMT (18:00 CET)" }
+        - { date: "2027-03-26", time: TBA, title: "Qualifying matchday 1", detail: "Groups of five start", src: 7, quote: "MD1 26 March 2027" }
+        - { date: "2028-03-23", time: TBA, title: "Qualifying play-offs begin", detail: "Play-offs run to Mar. 28", src: 7, quote: "Play-offs 23-28 March 2028" }
         - { date: "2028-06-09", time: TBA, title: "Euro 2028 opens: Group A game in Cardiff", detail: "National Stadium of Wales", src: 4, quote: "Friday 9 June 2028" }
         - { date: "2028-07-09", time: TBA, title: "Euro 2028 final", detail: "Wembley, London", src: 4, quote: "Sunday 9 July 2028" }
       fill:
         title: "Draw day: write in each group"
         labels: ["Group A", "Group B", "Group C", "Group D", "Group E", "Group F", "Group G", "Group H", "Group I", "Group J", "Group K", "Group L"]
       unconfirmed:
-        - { label: "Pots and seeding", why: "not yet announced by UEFA" }
-        - { label: "Exact qualifying matchdays", why: "UEFA says only March to November 2027" }
-        - { label: "Play-off dates", why: "UEFA says only March 2028" }
         - { label: "Draw broadcaster or stream", why: "not yet announced" }
 hero:
   src: ../../../../assets/news/euro-2028-qualifying-draw-date-time-belfast/euro-2028-qualifying-draw-date-time-belfast.webp
@@ -50,9 +49,9 @@ hero:
     authorUrl: "https://www.geograph.org.uk/profile/82669"
 summary:
   - "UEFA says the Euro 2028 qualifying draw is on Sunday, Dec. 6, 2026, at 17:00 Greenwich Mean Time (GMT) at the International Convention Centre (ICC) in Belfast, which is noon Eastern Time (ET) and 9 a.m. Pacific Time (PT)."
-  - "Qualifying has 12 groups of four or five teams playing home and away from March to November 2027; the 12 group winners and eight best runners-up go straight to Euro 2028."
-  - "The play-off round is in March 2028, and two places are reserved for the best-ranked host nations that have not qualified on merit."
-  - "UEFA has not published pots, draw restrictions or exact matchdays, and no broadcaster for the draw is announced."
+  - "UEFA published the pots on Nov. 23, 2026: pots 1 to 4 hold 12 teams each and pot 5 holds six, drawn into six groups of four and six groups of five."
+  - "Matchday 1 is Mar. 26, 2027, matchday 10 is Nov. 14-16, 2027, and the play-offs are Mar. 23-28, 2028; groups of five start in March 2027, groups of four in September 2027."
+  - "The 12 group winners and eight best runners-up go straight to Euro 2028, and two places are reserved for the best-ranked host nations that have not qualified on merit. No broadcaster or stream for the draw is announced."
 faq:
   - q: "What time is the Euro 2028 qualifying draw?"
     a: "UEFA lists it for Sunday, Dec. 6, 2026, at 17:00 GMT (18:00 CET). That is noon ET, 11 a.m. Central Time (CT), 10 a.m. Mountain Time (MT) and 9 a.m. PT."
@@ -61,7 +60,11 @@ faq:
   - q: "How many teams qualify for Euro 2028 from the qualifying groups?"
     a: "UEFA's 2025 qualification system sends the 12 group winners and eight best runners-up (20 teams) directly to the 24-team final tournament. The other places go to host nations and the play-off round."
   - q: "Where can I watch the Euro 2028 qualifying draw?"
-    a: "Not yet announced. UEFA's draw announcement does not name a broadcaster or stream."
+    a: "Not yet announced. UEFA's draw announcements do not name a broadcaster or stream."
+  - q: "Which teams are in the Euro 2028 qualifying pots?"
+    a: "UEFA's Nov. 23, 2026 guide lists 12 teams each in pots 1 to 4 and six in pot 5, based on the interim overall 2026/27 UEFA Nations League rankings. Pot 1 includes England, Portugal, France, Germany and Spain; the full list is in the pots table."
+  - q: "When do Euro 2028 qualifying matches start?"
+    a: "The groups of five start in March 2027, with matchday 1 on Mar. 26, 2027. The groups of four start in September 2027, according to UEFA."
 sources:
   - title: "UEFA EURO 2028 qualifying draw to take place in Belfast"
     url: "https://www.uefa.com/euro2028/news/029f-1f2ff991e87b-345fffcd69c3-1000/"
@@ -87,6 +90,10 @@ sources:
     url: "https://www.uefa.com/uefaeuro/history/news/0279-162821e19832-34463060b549-1000--uefa-euro-2024-qualifying-draw/"
     publisher: "UEFA"
     date: "2022-10-09"
+  - title: "UEFA EURO 2028 qualifying group stage draw: All you need to know"
+    url: "https://www.uefa.com/euro2028/news/02ab-222391e639b1-eada623fd7a9-1000--uefa-euro-2028-qualifying-group-stage-draw-all-you-need-to/"
+    publisher: "UEFA"
+    date: "2026-11-23"
 downloads:
   - group: "Euro 2028 Qualifying Draw Day Sheet printables"
     title: "Euro 2028 Qualifying Draw Day Sheet, Dec. 6, 2026"
@@ -105,7 +112,7 @@ related: [nations-league-november-2026-fixtures-kick-off-times-england-scotland-
 draft: false
 ---
 
-**The Union of European Football Associations (UEFA) says the Euro 2028 qualifying draw takes place on Sunday, Dec. 6, 2026, at the International Convention Centre (ICC) in Belfast, starting at 17:00 Greenwich Mean Time (GMT), which is noon Eastern Time (ET) and 9 a.m. Pacific Time (PT).** UEFA gives the time as 17:00 GMT (18:00 Central European Time, CET) and its 2026 European football calendar lists "6 December" for the qualifying group stage draw in Belfast. The table below converts the start to 11 time zones. Pots, draw rules and a broadcaster are not yet announced.
+**The Union of European Football Associations (UEFA) says the Euro 2028 qualifying draw takes place on Sunday, Dec. 6, 2026, at the International Convention Centre (ICC) in Belfast, starting at 17:00 Greenwich Mean Time (GMT), which is noon Eastern Time (ET) and 9 a.m. Pacific Time (PT).** UEFA gives the time as 17:00 GMT (18:00 Central European Time, CET) and its 2026 European football calendar lists "6 December" for the qualifying group stage draw in Belfast. The table below converts the start to 11 time zones. UEFA published the pots, draw procedure and matchdays on Nov. 23, 2026; a broadcaster is not yet announced.
 
 ## Euro 2028 qualifying draw time in every time zone
 
@@ -130,7 +137,7 @@ Mark Sunday on the [December 2026 printable calendar](/december-calendars.html).
 
 ## How does Euro 2028 qualifying work?
 
-UEFA's announcement of the draw describes "a new consolidated format for qualifying, with teams drawn in 12 groups of four or five teams who play each other home and away." The group stage runs from March 2027 to November 2027. Group winners qualify directly; runners-up "will either qualify directly or participate in play-off matches with UEFA Nations League teams," and the play-off round "would be played in March 2028."
+UEFA's announcement of the draw describes "a new consolidated format for qualifying, with teams drawn in 12 groups of four or five teams who play each other home and away." The group stage runs from March 2027 to November 2027, with the groups of five starting in March 2027 and the groups of four in September 2027. Group winners qualify directly; runners-up "will either qualify directly or participate in play-off matches with UEFA Nations League teams," and the play-off round "would be played in March 2028."
 
 UEFA's May 21, 2025 qualification system adds the numbers. Our arithmetic from them is in the table.
 
@@ -144,32 +151,64 @@ UEFA's May 21, 2025 qualification system adds the numbers. Our arithmetic from t
 
 Twenty direct places plus up to four others make 24. The two host places and the play-off places come from the same four, so each host place used leaves one fewer for the play-offs.
 
+## Euro 2028 qualifying pots
+
+UEFA's Nov. 23, 2026 draw guide says the draw "will decide on the composition of the 12 groups," with pots "based on the interim overall 2026/27 UEFA Nations League rankings." Pots 1 to 4 hold 12 teams each and pot 5 holds six. The draw forms six groups of four and six groups of five.
+
+| Pot | Teams |
+|---|---|
+| 1 | England, Portugal, France, Germany, Spain, Belgium, Netherlands, Norway, Greece, Italy, Denmark, Croatia |
+| 2 | Wales, Serbia, Türkiye, Czechia, Switzerland, Sweden, Austria, Northern Ireland, Slovenia, Bosnia and Herzegovina, Hungary, Republic of Ireland |
+| 3 | Ukraine, Scotland, Kosovo, Poland, Israel, Romania, Georgia, North Macedonia, Montenegro, Albania, Iceland, Slovakia |
+| 4 | Estonia, Belarus, Faroe Islands, Cyprus, Finland, Moldova, Armenia, Bulgaria, Kazakhstan, Luxembourg, Latvia, San Marino |
+| 5 | Malta, Azerbaijan, Lithuania, Andorra, Gibraltar, Liechtenstein |
+
+UEFA lists these restrictions:
+
+- The four host teams, as well as Northern Ireland, "will be drawn into different groups."
+- The four winners of the Nations League quarter-finals, placeholders in the draw, "must be drawn into a group of four."
+- Each group of five "can include a maximum of one team" defeated in the Nations League quarter-finals or taking part in the League A/B and B/C play-offs.
+
 ## Who plays in the qualifying draw, and why Belfast?
 
 UEFA says hosts England, Republic of Ireland, Scotland and Wales also take part in qualifying, "drawn into separate groups." Northern Ireland is not named among those qualifying hosts; UEFA describes it as a partner that "will contribute to the tournament's success and celebration," and the draw is held at the ICC in Belfast. The 2028 tournament itself runs from June 9 to July 9, 2028, with 24 teams in six groups.
 
 For the other home-nation games before the qualifying draw, see our [Nations League November 2026 fixtures and kick-off times](/news/nations-league-november-2026-fixtures-kick-off-times-england-scotland-wales-ireland/).
 
+## Euro 2028 qualifying matchdays
+
+| Matchday | Dates |
+|---|---|
+| 1 | Mar. 26, 2027 |
+| 2 | Mar. 29, 2027 |
+| 3 | June 11-12, 2027 |
+| 4 | June 14-15, 2027 |
+| 5 | Sept. 23-25, 2027 |
+| 6 | Sept. 26-28, 2027 |
+| 7 | Sept. 30-Oct. 2, 2027 |
+| 8 | Oct. 3-5, 2027 |
+| 9 | Nov. 11-13, 2027 |
+| 10 | Nov. 14-16, 2027 |
+| Play-offs | Mar. 23-28, 2028 |
+
+Source: UEFA, Nov. 23, 2026.
+
 ## Euro 2028 qualifying timeline from the draw to the final
 
 | Date | What happens | Source |
 |---|---|---|
 | Sun., Dec. 6, 2026 | Qualifying draw, Belfast, 17:00 GMT | UEFA, Sept. 17, 2026 |
-| March 2027 | Qualifying group stage begins | UEFA, Sept. 17, 2026 |
-| November 2027 | Qualifying group stage ends | UEFA, Sept. 17, 2026 |
-| March 2028 | Play-off round, if needed | UEFA, Sept. 17, 2026 |
+| Fri., Mar. 26, 2027 | Matchday 1 | UEFA, Nov. 23, 2026 |
+| Nov. 14-16, 2027 | Matchday 10, last of the group stage | UEFA, Nov. 23, 2026 |
+| Mar. 23-28, 2028 | Play-offs | UEFA, Nov. 23, 2026 |
 | Fri., June 9, 2028 | Group A opening game, National Stadium of Wales, Cardiff | UEFA schedule, Sept. 17, 2026 |
 | Tue., July 4 and Wed., July 5, 2028 | Semi-finals | UEFA schedule |
 | Sun., July 9, 2028 | Final | UEFA schedule |
 
 UEFA's schedule places the final week at Wembley in London. In the final tournament, the top two in each of six groups and the four best third-placed teams reach the round of 16, per UEFA's tournament guide. Add the dates to a [2027 printable yearly calendar](/printable-yearly-calendar.html); the opener and final are in June and July 2028. For another football tournament on U.S. clocks, see our [Women's World Cup 2027 schedule](/news/womens-world-cup-2027-schedule-brazil-us-uk-canada-times/).
 
-## What has UEFA not announced yet?
+## What is still not announced for the Euro 2028 draw?
 
-- Pots and seeding for the draw.
-- Draw restrictions.
-- Exact qualifying matchdays; UEFA says only March to November 2027.
-- Exact play-off dates; UEFA says only March 2028.
 - The broadcaster or stream for the draw.
 - The kick-off time of the opening match on June 9, 2028.
 
