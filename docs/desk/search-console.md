@@ -1,6 +1,6 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-26T09:14 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-26T19:00 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
@@ -294,7 +294,7 @@ Sample of 90 stories published 2 to 21 days ago (the gate counts the 70 that are
 
 ## Sitemaps
 
-- /sitemap.xml: 0 errors, 0 warnings, 5,331 URLs submitted, last read 2026-11-25
+- /sitemap.xml: 0 errors, 0 warnings, 5,732 URLs submitted, last read 2026-11-26
 - /sitemap.xml: 0 errors, 0 warnings, 201 URLs submitted, last read 2026-11-23
 - /news/news-sitemap.xml: 0 errors, 0 warnings, 81 URLs submitted, last read 2026-11-25
 - /news/sitemap.xml: 0 errors, 0 warnings, 1,489 URLs submitted, last read 2026-11-25
