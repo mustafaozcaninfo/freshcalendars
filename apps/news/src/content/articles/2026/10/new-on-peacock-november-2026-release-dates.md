@@ -3,7 +3,7 @@ title: "Coming to Peacock November 2026: Nelly & Ashanti Nov. 19, Dig Nov. 23"
 description: "Peacock put Nelly & Ashanti season 2 on Nov. 19 and lists Dig for Nov. 23, 2026, after The Good Daughter on Nov. 12. Dates by weekday, plus a printable."
 type: news
 publishedAt: "2026-10-29T21:39:00-04:00"
-updatedAt: "2026-11-21T15:46:00-05:00"
+updatedAt: "2026-11-26T03:20:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["new on Peacock November 2026", "Peacock November 2026", "what's coming to Peacock November 2026", "Dig Peacock release date", "The Good Daughter Peacock release date"]
@@ -61,7 +61,7 @@ faq:
   - q: "When does Nelly & Ashanti: We Belong Together season 2 start?"
     a: "Peacock listed season 2 for Thursday, Nov. 19, 2026, as a Peacock Original binge-drop, and it is out now."
   - q: "Are the Macy's Thanksgiving Day Parade and the National Dog Show on Peacock?"
-    a: "Peacock's November list includes the 100th Annual Macy's Thanksgiving Day Parade and The National Dog Show as NBC simulcasts. The page files them under Friday, Nov. 27, although Thanksgiving 2026 is Thursday, Nov. 26, so confirm the day before you plan around it."
+    a: "Yes. The 100th Macy's Thanksgiving Day Parade was postponed to Saturday, Nov. 28 because of extreme weather in New York City, and Peacock's stream page lists it for 8:30 a.m. ET/CT/MT and 7:30 a.m. PT that day. On Thursday, Nov. 26 at 8:30 a.m., NBC and Peacock encore the 2025 parade. NBCUniversal's lineup lists the National Dog Show for Thursday, Nov. 26, 12-2 p.m. on NBC, simulcast on Peacock."
   - q: "Does this story list titles leaving Peacock in November 2026?"
     a: "No. The Peacock November 2026 post lists additions and live events only, and this story does not cover removals."
 sources:
@@ -88,6 +88,17 @@ sources:
     url: "https://www.nbc.com/nbc-insider/nfl-sunday-night-football-schedule-2026-2027"
     publisher: "NBC Insider"
     date: "2026-10-06"
+  - title: "Everything to Know About the 2026 Macy's Thanksgiving Day Parade"
+    url: "https://www.nbc.com/nbc-insider/2026-macys-thanksgiving-day-parade-everything-to-know"
+    publisher: "NBC Insider"
+    date: "2026-11-25"
+  - title: "Macy's Thanksgiving Parade"
+    url: "https://peacocktv.com/stream-event/macys-thanksgiving-parade"
+    publisher: "Peacock"
+  - title: "NBC Announces Full 2026 Holiday Programming Lineup"
+    url: "https://www.nbcuniversal.com/article/nbc-announces-full-2026-holiday-programming-lineup"
+    publisher: "NBCUniversal"
+    date: "2026-11-18"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -106,7 +117,7 @@ downloads:
 draft: false
 ---
 
-**Peacock's "What's New on Peacock in November 2026" post, updated Oct. 27, 2026, dated "The Good Daughter" for Thursday, Nov. 12 and "Nelly & Ashanti: We Belong Together" season 2 for Thursday, Nov. 19, both out now, and dates "Dig" for Monday, Nov. 23.** The table below puts every dated title from that post in weekday order, and a free printable watch calendar follows it.
+**Peacock's "What's New on Peacock in November 2026" post, updated Oct. 27, 2026, dated "The Good Daughter" for Thursday, Nov. 12 and "Nelly & Ashanti: We Belong Together" season 2 for Thursday, Nov. 19, both out now, and dates "Dig" for Monday, Nov. 23.** Every dated title from that post follows in weekday order, with a free printable watch calendar.
 
 Peacock's page says content availability may vary over time, so confirm a title on Peacock before you plan a watch night.
 
@@ -146,10 +157,11 @@ This table follows the movie and show lists in Peacock's post and adds the weekd
 | Monday, Nov. 23 | Dig (Peacock Original, binge-drop); Ambulance; Rented a Billionaire Husband for Christmas, season 1 (microdrama, mobile only); The Return of My Mafia Husband, season 1 (microdrama, mobile only) |
 | Tuesday, Nov. 24 | Miss Universe 2026 special (Telemundo); Dragons: Rescue Riders, season 1 (Peacock Exclusive) |
 | Wednesday, Nov. 25 | Countdown to Macy's Thanksgiving Day Parade 2026 (NBC simulcast) |
-| Thursday, Nov. 26 | M3GAN 2.0; M3GAN 2.0 (Unrated) |
-| Friday, Nov. 27 | 100th Annual Macy's Thanksgiving Day Parade (NBC simulcast); The National Dog Show special (NBC simulcast); Shop What Happens, premiere; Love Knocked, premiere |
+| Thursday, Nov. 26 | Encore of the 2025 Macy's Thanksgiving Day Parade (NBC simulcast, 8:30 a.m.); The National Dog Show (NBC simulcast, 12-2 p.m.); M3GAN 2.0; M3GAN 2.0 (Unrated) |
+| Friday, Nov. 27 | Shop What Happens, premiere; Love Knocked, premiere |
+| Saturday, Nov. 28 | 100th Macy's Thanksgiving Day Parade (NBC simulcast, 8:30 a.m. ET/CT/MT, 7:30 a.m. PT) |
 
-Peacock's list, which still read "updated Oct. 27" when re-read on Nov. 14, gives no premiere time for the three Originals, so none is stated here. The post also lists "Purina's Incredible Dog Challenge 2026" twice, as a finale on Nov. 30 and as a live event on Nov. 29, so that title is left out of the table.
+Peacock's list, which still read "updated Oct. 27" when re-read on Nov. 14, gives no premiere time for the three Originals, so none is given here. The post also lists "Purina's Incredible Dog Challenge 2026" twice, as a finale on Nov. 30 and as a live event on Nov. 29, so that title is left out of the table.
 
 ## Which NBC and Bravo shows stream on Peacock the next day?
 
@@ -181,7 +193,9 @@ For the full holiday-week lineup, see our [Thanksgiving 2026 TV schedule](/news/
 
 ## What about the Thanksgiving parade and dog show dates?
 
-Peacock's post lists the "100th Annual Macy's Thanksgiving Day Parade" and "The National Dog Show" under November 27 and calls the parade a Thanksgiving morning tradition. NBC Insider places the Chiefs at Bills game on Thursday, Nov. 26 as Thanksgiving night. The two dates do not line up, and the same post also lists a "National Dog Show 2026" entry under November 16. This story does not pick a day for either event; check Peacock and NBC closer to the holiday.
+NBC said the 100th Macy's Thanksgiving Day Parade was postponed from Thursday, Nov. 26 to Saturday, Nov. 28 because of extreme weather in New York City, a high wind warning. NBC Insider (updated Nov. 25, 2026) says NBC will air it Saturday at 8:30 a.m. ET/CT/MT and 7:30 a.m. PT, simulcast on Telemundo, and Peacock's stream page lists the same times. On Thanksgiving morning, NBC and Peacock encore the 2025 parade at 8:30 a.m. in all time zones. Neither source gives the Saturday end time.
+
+NBCUniversal's lineup lists The National Dog Show for Thursday, Nov. 26, 12-2 p.m. on NBC, simulcast on Peacock. Peacock's November post filed the Dog Show special under Nov. 27 only, and also lists a "National Dog Show 2026" entry under November 16, so use the NBCUniversal time for Thursday.
 
 ## Which Peacock plan do I need?
 
@@ -189,7 +203,7 @@ Peacock Help lists three prices: Select at $8.99 a month or $89.99 a year, Premi
 
 ## What else is on Peacock for the holidays?
 
-Peacock's post says November brings holiday favorites, including "It's a Wonderful Life" and "Love Actually" on Sunday, Nov. 1, "Christmas Rewrite" on Friday, Nov. 6 and "Unbearable Christmas" on Friday, Nov. 20. The post also lists live sports, including National Basketball Association (NBA) games, college football and Premier League matches; this story does not repeat those daily lists or their times.
+Peacock's post says November brings holiday favorites, including "It's a Wonderful Life" and "Love Actually" on Sunday, Nov. 1, "Christmas Rewrite" on Friday, Nov. 6 and "Unbearable Christmas" on Friday, Nov. 20. The post also lists live sports, including National Basketball Association (NBA) games, college football and Premier League matches; the daily lists are not repeated or their times.
 
 ## Print the Peacock November 2026 watch calendar
 
@@ -197,4 +211,4 @@ The printable puts 15 key dates on a one-page US Letter calendar: the three Orig
 
 ## How we keep this accurate
 
-The dates come from Peacock's November 2026 post (updated Oct. 27, 2026), the Peacock Help pricing page, the NBC Insider Sunday Night Football schedule (updated Oct. 6, 2026) and the NFL's Week 12 schedule change (Nov. 17, 2026). If a source changes a date, this story, the tables and the printable will change together.
+The dates come from Peacock's November 2026 post (updated Oct. 27, 2026), the Peacock Help pricing page, the NBC Insider Sunday Night Football schedule (updated Oct. 6, 2026) and the NFL's Week 12 schedule change (Nov. 17, 2026). If a source changes a date, the story, the tables and the printable will change together.

@@ -3,6 +3,7 @@ title: "NBC Holiday Specials 2026: Tree Lighting Wed., Dec. 2 at 8 p.m."
 description: "Christmas in Rockefeller Center airs Wed., Dec. 2, 8-10 p.m. ET/PT on NBC, hosted by Cynthia Erivo. Every NBC special and encore by date, plus a printable."
 type: news
 publishedAt: "2026-11-25T11:34:00-05:00"
+updatedAt: "2026-11-26T03:20:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 keywords: ["nbc holiday specials 2026", "nbc christmas specials 2026", "nbc holiday schedule 2026", "christmas in rockefeller center 2026 time"]
@@ -27,9 +28,8 @@ assets:
       events:
         - { start: "2026-11-25T20:00-05:00", title: "Countdown to Macy's Thanksgiving Day Parade", detail: "Host Jack McBrayer", channel: "NBC", stream: "Peacock", airing: eastern, src: 1, quote: "Wednesday, Nov. 25, 8-9 p.m. and simulcast on Peacock" }
         - { start: "2026-11-25T21:00-05:00", title: "A Saturday Night Live (SNL) Thanksgiving", channel: "NBC", airing: eastern, src: 1, quote: "Wednesday, Nov. 25, 9-11 p.m." }
-        - { start: "2026-11-26T08:30-05:00", title: "100th Macy's Thanksgiving Day Parade", detail: "Encore at 2 p.m.", channel: "NBC", stream: "Peacock", airing: eastern, src: 1, quote: "Thursday, Nov. 26, 8:30 a.m.-12 p.m. (encore at 2 p.m.) on NBC, simulcast on Peacock and simulcast in Spanish on Telemundo" }
         - { start: "2026-11-26T12:00-05:00", title: "National Dog Show Presented by Purina", detail: "25th anniversary", channel: "NBC", stream: "Peacock", airing: eastern, src: 1, quote: "Thursday, Nov. 26, 12-2 p.m. and simulcast on Peacock" }
-        - { start: "2026-11-26T14:00-05:00", title: "Encore: 100th Macy's Thanksgiving Day Parade", channel: "NBC", stream: "Peacock", airing: eastern, src: 1, quote: "Thursday, Nov. 26, 8:30 a.m.-12 p.m. (encore at 2 p.m.) on NBC, simulcast on Peacock and simulcast in Spanish on Telemundo" }
+        - { start: "2026-11-28T08:30-05:00", title: "100th Macy's Thanksgiving Day Parade", detail: "Moved from Thu., Nov. 26; 7:30 a.m. PT", channel: "NBC", stream: "Peacock", airing: eastern, src: 3, quote: "NBC will air the 100th Macy's Thanksgiving Day Parade on Saturday, Nov. 28 at 8:30 a.m. ET/CT/MT and 7:30 a.m. PT." }
         - { start: "2026-11-30T22:00-05:00", title: "Christmas at Graceland", detail: "Music stars celebrate Elvis Presley", channel: "NBC", airing: eastern, src: 1, quote: "Monday, Nov. 30, 10-11 p.m." }
         - { start: "2026-12-02T20:00-05:00", title: "94th Annual Christmas in Rockefeller Center", detail: "Hosted by Cynthia Erivo, with the tree lighting", channel: "NBC", stream: "Peacock", airing: eastern, src: 1, quote: "Wednesday, Dec. 2, 8-10 p.m. on NBC, simulcast on Peacock and simulcast in Spanish on Telemundo" }
         - { start: "2026-12-02T22:00-05:00", title: "Christmas with Snoop", detail: "Next day on Peacock", channel: "NBC", stream: "Peacock next day", airing: eastern, src: 1, quote: "Wednesday, Dec. 2, 10-11 p.m. and next day on Peacock (encore Dec. 17 at 10 p.m.)" }
@@ -89,7 +89,7 @@ faq:
   - q: "Are the NBC holiday special times the same on the West Coast?"
     a: "NBCUniversal lists times as both ET and PT, so 8 p.m. means 8 p.m. in each zone. The Rose Parade is listed only as 11 a.m. ET, and NBC100: The Live Celebration is described as live at 8 p.m. ET, so West Coast viewers should check local listings for those two."
   - q: "Which NBC specials have an encore?"
-    a: "Christmas with Snoop (Dec. 17, 10 p.m.), Frosty the Snowman (Dec. 16, 8 p.m.), Rudolph the Red-Nosed Reindeer (Dec. 17, 8 p.m.), Shrek the Halls (Dec. 18, 8 p.m.), A Saturday Night Live Christmas (Dec. 21, 9 p.m.), the Thanksgiving parade (Nov. 26, 2 p.m.) and the Grinch (Dec. 25, 8 p.m.)."
+    a: "Christmas with Snoop (Dec. 17, 10 p.m.), Frosty the Snowman (Dec. 16, 8 p.m.), Rudolph the Red-Nosed Reindeer (Dec. 17, 8 p.m.), Shrek the Halls (Dec. 18, 8 p.m.), A Saturday Night Live Christmas (Dec. 21, 9 p.m.) and the Grinch (Dec. 25, 8 p.m.)."
   - q: "What is on NBC on Christmas Day 2026?"
     a: "Friday, Dec. 25: How the Grinch Stole Christmas, the 1966 cartoon, from 8 to 8:30 p.m., then the film version from 8:30 to 11 p.m. Telemundo carries the Pope's Christmas message in Spanish at 6 a.m. ET."
 sources:
@@ -101,6 +101,13 @@ sources:
     url: "https://www.nbcuniversal.com/article/nbc-unveils-lineup-new-and-returning-beloved-holiday-programming"
     publisher: "NBCUniversal"
     date: "2025-10-30"
+  - title: "Everything to Know About the 2026 Macy's Thanksgiving Day Parade"
+    url: "https://www.nbc.com/nbc-insider/2026-macys-thanksgiving-day-parade-everything-to-know"
+    publisher: "NBC Insider"
+    date: "2026-11-25"
+  - title: "Macy's Thanksgiving Parade"
+    url: "https://peacocktv.com/stream-event/macys-thanksgiving-parade"
+    publisher: "Peacock"
 internalLinks:
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
@@ -112,7 +119,7 @@ related: [cbs-holiday-specials-2026-schedule-kids-choice-awards-soul-train-new-y
 draft: false
 ---
 
-**NBC's 2026 holiday lineup starts tonight, Wednesday, Nov. 25, and its tree-lighting special, the 94th Annual Christmas in Rockefeller Center, airs Wednesday, Dec. 2 from 8 to 10 p.m. on NBC, hosted by Cynthia Erivo, per NBCUniversal's Nov. 18, 2026 release.** The release lists holiday programming through Jan. 1, 2027, and says "Times listed are both ET/PT." The table below puts every special and encore in date order, and a printable planner follows.
+**NBC's 2026 holiday lineup began Wednesday, Nov. 25, and its tree-lighting special, the 94th Annual Christmas in Rockefeller Center, airs Wednesday, Dec. 2 from 8 to 10 p.m. on NBC, hosted by Cynthia Erivo, per NBCUniversal's Nov. 18, 2026 release.** The release lists holiday programming through Jan. 1, 2027, and says "Times listed are both ET/PT." The table below puts every special and encore in date order, and a printable planner follows.
 
 In 2025, NBC and Peacock's holiday programming reached 87 million viewers from Thanksgiving week through New Year's Day, NBCUniversal says. For the Rockefeller tree itself, see our [Rockefeller Christmas tree 2026 lighting story](/news/rockefeller-christmas-tree-2026-lighting-december-2-arrival-november-7/).
 
@@ -122,8 +129,9 @@ In 2025, NBC and Peacock's holiday programming reached 87 million viewers from T
 |---|---|---|---|---|
 | Wed., Nov. 25 | Countdown to Macy's Thanksgiving Day Parade (host Jack McBrayer) | 8-9 p.m. | Peacock | None listed |
 | Wed., Nov. 25 | A Saturday Night Live (SNL) Thanksgiving | 9-11 p.m. | Not listed | None listed |
-| Thu., Nov. 26 | 100th Macy's Thanksgiving Day Parade | 8:30 a.m.-12 p.m. | Peacock; Spanish on Telemundo | 2 p.m. |
+| Thu., Nov. 26 | Encore of the 2025 Macy's Thanksgiving Day Parade | 8:30 a.m. in all time zones | Peacock | None listed |
 | Thu., Nov. 26 | National Dog Show Presented by Purina | 12-2 p.m. | Peacock | None listed |
+| Sat., Nov. 28 | 100th Macy's Thanksgiving Day Parade (moved from Nov. 26) | 8:30 a.m. ET/CT/MT, 7:30 a.m. PT | Peacock; Spanish on Telemundo | None listed |
 | Mon., Nov. 30 | Christmas at Graceland | 10-11 p.m. | Not listed | None listed |
 | Wed., Dec. 2 | 94th Annual Christmas in Rockefeller Center | 8-10 p.m. | Peacock; Spanish on Telemundo | None listed |
 | Wed., Dec. 2 | Christmas with Snoop | 10-11 p.m. | Peacock next day | Dec. 17, 10 p.m. |
@@ -156,12 +164,13 @@ Dec. 2 is a two-special night: Christmas with Snoop follows from 10 to 11 p.m. a
 
 ## Which NBC specials air in Thanksgiving week?
 
-Four NBC specials air on Nov. 25 and 26, around [Thanksgiving](/when-is/thanksgiving/):
+Four NBC programs air on Nov. 25 and 26, around [Thanksgiving](/when-is/thanksgiving/), and the 100th Macy's Thanksgiving Day Parade moved to Saturday, Nov. 28:
 
 - **Wed., Nov. 25, 8-9 p.m.:** Countdown to Macy's Thanksgiving Day Parade, hosted by Jack McBrayer, simulcast on Peacock.
 - **Wed., Nov. 25, 9-11 p.m.:** A Saturday Night Live Thanksgiving.
-- **Thu., Nov. 26, 8:30 a.m.-12 p.m.:** the 100th Macy's Thanksgiving Day Parade, at 8:30 a.m. in all time zones, with an encore at 2 p.m. It simulcasts on Peacock and in Spanish on Telemundo.
+- **Thu., Nov. 26, 8:30 a.m.:** NBC and Peacock encore the 2025 Macy's Thanksgiving Day Parade, at 8:30 a.m. in all time zones. NBC has not announced when the rerun ends.
 - **Thu., Nov. 26, 12-2 p.m.:** the National Dog Show Presented by Purina, in its 25th anniversary year, hosted by John O'Hurley and David Frei, with more than 2,000 dogs and features by Mary Carillo.
+- **Sat., Nov. 28, 8:30 a.m. ET/CT/MT, 7:30 a.m. PT:** the 100th Macy's Thanksgiving Day Parade, postponed from Thursday because of extreme weather in New York City (a high wind warning), per NBC Insider (updated Nov. 25, 2026). It also airs on Telemundo and streams on Peacock. The end time has not been announced.
 
 For the full holiday-week TV list, including football, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
 
