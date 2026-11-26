@@ -46,7 +46,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [high-school-football-state-championships-2026-dates-by-state, uil-football-state-championships-2026-schedule-att-stadium, ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium]
+related: [high-school-football-state-championships-2026-dates-by-state, uil-football-state-championships-2026-schedule-att-stadium, mississippi-mhsaa-football-championships-2026-davis-wade-stadium-schedule]
 assets:
   overlay: true
   kicker: "LHSAA Prep Classic · Dec. 10-12, 2026"
