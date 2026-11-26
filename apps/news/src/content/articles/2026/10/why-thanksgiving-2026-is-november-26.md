@@ -1,9 +1,9 @@
 ---
 title: "Thanksgiving 2026: Thursday, Nov. 26, With Game and Parade Times"
-description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November. Dates through 2035, football and Macy's parade times, and a printable."
+description: "Thanksgiving 2026 is Thursday, Nov. 26, the fourth Thursday of November. Dates through 2035, game times, the Macy's parade moved to Nov. 28, and a printable."
 type: explainer
 publishedAt: "2026-10-17T16:30:00-04:00"
-updatedAt: "2026-11-25T14:28:00-05:00"
+updatedAt: "2026-11-26T01:25:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["thanksgiving 2026", "what day is thanksgiving 2026", "thanksgiving dates 2026 to 2035", "why is thanksgiving on the 26th this year", "is the day after thanksgiving a holiday"]
@@ -49,7 +49,7 @@ hero:
 summary:
   - "Thanksgiving Day 2026 is Thursday, Nov. 26, the fourth Thursday of November; Black Friday follows on Friday, Nov. 27."
   - "A 1941 federal law fixed the holiday on the fourth Thursday, so it always falls between Nov. 22 and Nov. 28; the next Nov. 26 Thanksgivings are 2037, 2043 and 2048."
-  - "Football fills the week: a Wednesday night game and three games on Thursday, plus a Friday afternoon game, with the 100th Macy's parade at 8:30 a.m. in every time zone. Thanksgiving dates run through 2035 in a table and a printable."
+  - "Football fills the week: a Wednesday night game and three games on Thursday, plus a Friday afternoon game, while the 100th Macy's parade moved from Thursday to Saturday, Nov. 28, at 8:30 a.m. ET because of a High Wind Warning. Thanksgiving dates run through 2035 in a table and a printable."
   - "Friday, Nov. 27 is not a federal holiday, but the four-day weekend runs Thursday through Sunday and the New York Stock Exchange (NYSE) closes early at 1:00 p.m. Eastern Time (ET)."
 faq:
   - q: "Is Thanksgiving always on the 26th?"
@@ -127,6 +127,22 @@ sources:
     url: "https://www.nbcuniversal.com/article/100th-macys-thanksgiving-day-parade-returns-live-nbc-and-peacock-nov-26-bringing-holiday-magic-life"
     publisher: "NBCUniversal Media"
     date: "2026-11-13"
+  - title: "Macy's Thanksgiving Day Parade is pushed back to Saturday due to weather"
+    url: "https://www.nbcnews.com/news/us-news/macys-thanksgiving-day-parade-weather-delay-rcna611355"
+    publisher: "NBC News"
+    date: "2026-11-25"
+  - title: "Macy's postpones Thanksgiving Day Parade due to severe weather"
+    url: "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
+    publisher: "CNBC"
+    date: "2026-11-25"
+  - title: "Macy's announces Thanksgiving Day Parade postponed to Saturday due to expected bad weather"
+    url: "https://www.opb.org/article/2026/11/25/macys-announces-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather/"
+    publisher: "The Associated Press via OPB"
+    date: "2026-11-25"
+  - title: "Everything to Know About the 2026 Macy's Thanksgiving Day Parade"
+    url: "https://www.nbc.com/nbc-insider/2026-macys-thanksgiving-day-parade-everything-to-know"
+    publisher: "NBC Insider"
+    date: "2026-11-25"
 internalLinks:
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving? Next date and countdown"
@@ -192,7 +208,7 @@ Thanksgiving Day 2026 is Thursday, Nov. 26. The table runs from the Friday befor
 | Nov. 29 | Sunday | Last day of the four-day weekend | - |
 | Nov. 30 | Monday | Cyber Monday | - |
 
-<div class="tool-box" data-launch-clock data-local="2026-11-26" data-done="Thanksgiving 2026 is here. Happy Thanksgiving." data-targets="Thanksgiving Day, midnight in your time zone|;Macy's parade starts, 8:30 a.m. ET|2026-11-26T13:30:00Z;First Thanksgiving Day NFL kickoff, Bears at Lions, 1 p.m. ET|2026-11-26T18:00:00Z" hidden>
+<div class="tool-box" data-launch-clock data-local="2026-11-26" data-done="Thanksgiving 2026 is here. Happy Thanksgiving." data-targets="Thanksgiving Day, midnight in your time zone|;100th Macy's parade (moved to Sat., Nov. 28), 8:30 a.m. ET|2026-11-28T13:30:00Z;First Thanksgiving Day NFL kickoff, Bears at Lions, 1 p.m. ET|2026-11-26T18:00:00Z" hidden>
 <p class="tool-title">Days, hours, minutes and seconds until Thanksgiving</p>
 <label for="lc-tg">Count down to</label>
 <select id="lc-tg"></select>
@@ -307,10 +323,10 @@ The National Football League (NFL) plays five games across Thanksgiving week in 
 | Thu., Nov. 26 | Kansas City Chiefs at Buffalo Bills | 8:20 p.m. | NBC, Peacock, NFL+ |
 | Fri., Nov. 27 (Black Friday) | Denver Broncos at Pittsburgh Steelers | 3 p.m. | Prime Video |
 
-The 100th Macy's Thanksgiving Day Parade starts at 8:30 a.m. in all time zones on NBC, Peacock and Telemundo, per Macy's. Macy's said in August that this year's lineup has 100 inflatable elements, with new balloons including Disney's Sorcerer's Apprentice Mickey, a reimagined Underdog and a new Tony Sarg's Amazing Marionettes float. NBCUniversal's Nov. 13 announcement says Megan Moroney and Teddy Swims perform from Macy's Herald Square flagship, float performers include Queen Latifah, Keke Palmer, Jimmy Fallon & The Roots and JoJo, and the Today show's Savannah Guthrie, Hoda Kotb and Al Roker host, with an encore on NBC at 2 p.m. ET/PT. The announcement names no grand marshal. For kickoff times by time zone, channels and the parade schedule in one place, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
+Macy's moved the 100th Macy's Thanksgiving Day Parade from Thursday, Nov. 26 to Saturday, Nov. 28, 2026, at 8:30 a.m. ET on NBC and Peacock, with a Telemundo simulcast, because of a National Weather Service High Wind Warning for New York City on Thursday, according to NBC News, Consumer News and Business Channel (CNBC) and The Associated Press. On Thursday, NBC and Peacock air a rerun of the 2025 parade at 8:30 a.m. in all time zones, not a live show, according to NBC News and NBC Insider. Sources disagree on Saturday start times outside Eastern Time; for the Pacific zone, check local listings. Macy's said in August that this year's lineup has 100 inflatable elements, with new balloons including Disney's Sorcerer's Apprentice Mickey, a reimagined Underdog and a new Tony Sarg's Amazing Marionettes float. NBCUniversal announced on Nov. 13 that Megan Moroney and Teddy Swims perform, float performers include Queen Latifah, Keke Palmer, Jimmy Fallon & The Roots and JoJo, and the Today show's Savannah Guthrie, Hoda Kotb and Al Roker host. For kickoff times by time zone, channels and the parade schedule in one place, see our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
 
 ## Plan Thanksgiving week 2026
 
-The 2026 Macy's Thanksgiving Day Parade is the 100th, according to Macy's, and starts at 8:30 a.m. in all time zones on NBC, Peacock and Telemundo. The NFL opens Thanksgiving week on Wednesday, Nov. 25, with the Green Bay Packers at the Los Angeles Rams, and the Chicago Bears play at the Detroit Lions at 1 p.m. ET on Thursday on CBS, according to NFL.com. On the roads, AAA projects 81.5 million people will travel at least 50 miles from home between Tuesday, Nov. 24 and Monday, Nov. 30, a 0.1% decline from the 81.6 million who traveled last year. The [Thanksgiving travel 2026 guide](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/) covers the best days to fly and drive.
+The 100th Macy's Thanksgiving Day Parade moved to Saturday, Nov. 28, at 8:30 a.m. ET on NBC, Peacock and Telemundo because of the weather, and NBC airs a 2025 parade rerun on Thursday at 8:30 a.m. The NFL opens Thanksgiving week on Wednesday, Nov. 25, with the Green Bay Packers at the Los Angeles Rams, and the Chicago Bears play at the Detroit Lions at 1 p.m. ET on Thursday on CBS, according to NFL.com. On the roads, AAA projects 81.5 million people will travel at least 50 miles from home between Tuesday, Nov. 24 and Monday, Nov. 30, a 0.1% decline from the 81.6 million who traveled last year. The [Thanksgiving travel 2026 guide](/news/thanksgiving-travel-2026-best-days-to-fly-and-drive/) covers the best days to fly and drive.
 
 Work through the week with the [Thanksgiving 2026 planner, countdown and checklist](/news/thanksgiving-2026-planner-countdown-checklist/), track deals with the [Black Friday 2026 ad tracker](/news/black-friday-2026-ad-tracker-walmart-target-best-buy/), and mark the dates on a [November 2026 printable calendar](/november-calendars.html). To see which weekday Thanksgiving lands on in any other year, check [when Thanksgiving falls](/when-is/thanksgiving/).
