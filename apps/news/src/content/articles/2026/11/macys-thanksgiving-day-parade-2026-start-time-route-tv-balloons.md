@@ -1,9 +1,9 @@
 ---
-title: "Macy's Thanksgiving Day Parade 2026 Time: 8:30 a.m. ET, Nov. 26"
-description: "The Macy's Thanksgiving Day Parade 2026 starts at 8:30 a.m. ET on Thursday, Nov. 26, on NBC, Peacock and Telemundo. Route and times by U.S. zone."
+title: "Macy's Thanksgiving Day Parade 2026 Time: Sat., Nov. 28, 8:30 a.m. ET"
+description: "The Macy's parade moved to Saturday, Nov. 28, 8:30 a.m. ET, due to a High Wind Warning. NBC airs a 2025 rerun Thursday. Route, channels and zone times."
 type: explainer
 publishedAt: "2026-11-02T07:09:00-05:00"
-updatedAt: "2026-11-25T14:28:00-05:00"
+updatedAt: "2026-11-25T23:23:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["macys thanksgiving day parade 2026", "macys parade route 2026", "what time does the macys parade start 2026", "100th macys parade"]
@@ -11,7 +11,7 @@ dateline: "New York"
 hero:
   src: ../../../../assets/news/macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons/macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons.webp
   alt: "Nutcracker balloon in the Macy's Thanksgiving Day Parade passing Midtown Manhattan office towers, the route for the 2026 parade"
-  caption: "File photo from the 2019 parade: the Nutcracker balloon in Midtown Manhattan. The 100th parade is on Thu., Nov. 26, 2026."
+  caption: "File photo from the 2019 parade: the Nutcracker balloon in Midtown Manhattan. The 100th parade is on Sat., Nov. 28, 2026."
   credit: "Photo: Beyond My Ken / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY-SA 4.0"
@@ -20,15 +20,17 @@ hero:
     author: "Beyond My Ken"
     authorUrl: "https://commons.wikimedia.org/wiki/User:Beyond_My_Ken"
 summary:
-  - "The 100th Macy's Thanksgiving Day Parade runs from 8:30 a.m. to noon Eastern Time (ET) on Thursday, Nov. 26, 2026, per Time Out New York and CentralPark.com."
-  - "NBC and Peacock carry it live, and so does Telemundo, per NBCUniversal. The broadcast starts at 8:30 a.m. in all time zones, so viewers outside the Eastern zone see it at 8:30 a.m. local time. An encore airs at 2 p.m. ET/PT."
-  - "Both guides give the same route: West 77th Street and Central Park West, south to Columbus Circle, east on Central Park South, south on Sixth Avenue and west on 34th Street to Herald Square."
-  - "Savannah Guthrie, Hoda Kotb and Al Roker host. NBCUniversal named Megan Moroney and Teddy Swims as headliners, with Queen Latifah and Jimmy Fallon & The Roots on floats. Macy's, Inc. says the lineup has 100 inflatables. NBC Insider adds Raye as the opening act and a Broadway medley by the casts of nine musicals."
+  - "The 100th Macy's Thanksgiving Day Parade moved from Thursday, Nov. 26 to Saturday, Nov. 28, 2026, at 8:30 a.m. Eastern Time (ET), per NBCUniversal, NBC News, Consumer News and Business Channel (CNBC) and The Associated Press (AP). A National Weather Service (NWS) High Wind Warning covers New York City on Thursday."
+  - "NBC and Peacock carry it live, with a Telemundo simulcast, per NBCUniversal and NBC Insider. NBC Insider lists 8:30 a.m. in the Eastern, Central and Mountain time zones; for Pacific Time, check local listings. NBC airs a rerun of the 2025 parade on Thursday at 8:30 a.m. in all time zones."
+  - "NBC News describes the route as Upper West Side to Herald Square. Macy's and city notices for Saturday's inflation, street closures and balloons are not yet announced."
+  - "Savannah Guthrie, Hoda Kotb and Al Roker host. NBCUniversal named Megan Moroney and Teddy Swims as headliners, with Queen Latifah and Jimmy Fallon & The Roots on floats. Macy's, Inc. says the lineup has 100 inflatables."
 faq:
   - q: "What time does the Macy's Thanksgiving Day Parade start in 2026?"
-    a: "NBCUniversal says 8:30 a.m. in all time zones on Thursday, Nov. 26, 2026. Time Out New York and CentralPark.com list 8:30 a.m. to noon Eastern Time (ET)."
+    a: "Saturday, Nov. 28, 2026, at 8:30 a.m. ET, per NBC News, CNBC and AP. It was moved from Thursday, Nov. 26. NBC Insider lists 8:30 a.m. in the Eastern, Central and Mountain time zones; for Pacific Time, check local listings."
+  - q: "Why was the Macy's parade moved to Saturday?"
+    a: "The NWS New York office issued a High Wind Warning for Thursday, 10 a.m. to 1 a.m. Friday. Macy's said in a statement reported by NBC News: \"The safety of our participants and spectators is our top priority.\" An AP report says a Macy's spokesperson called it the first weather postponement."
   - q: "What channel is the Macy's parade on in 2026?"
-    a: "NBC and Peacock, with a live Telemundo broadcast, all starting at 8:30 a.m. in all time zones, per NBCUniversal. An encore airs on NBC at 2 p.m. ET/PT."
+    a: "NBC and Peacock, with a Telemundo simulcast, per NBCUniversal and NBC Insider. On Thursday, Nov. 26, NBC airs the 2025 parade at 8:30 a.m. in all time zones."
   - q: "What is the Macy's parade route in 2026?"
     a: "It steps off at West 77th Street and Central Park West, goes south to Columbus Circle, east on Central Park South, south on Sixth Avenue to 34th Street and west to Macy's Herald Square at Seventh Avenue. Macy's own 2026 route map was not reachable."
   - q: "Who performs in the 2026 Macy's parade?"
@@ -37,9 +39,27 @@ faq:
     a: "Savannah Guthrie, Hoda Kotb and Al Roker return as hosts on NBC, per NBCUniversal. Telemundo's Spanish-language simulcast is hosted by Andrea Meza, Aleyda Ortiz and Clovis Nienow."
   - q: "Which balloons and floats are in the 2026 Macy's parade?"
     a: "Macy's, Inc. and NBCUniversal say 100 inflatable elements, which they call record-breaking. New are Bluey, Buckaroo Bob the Minion, Earl the Squirrel, Hello Kitty Big Apple, Joe Cool & Woodstock, Sorcerer's Apprentice Mickey, Underdog and Billie Brightpaw. New floats include Dashing All the Way with DoorDash, Hogwarts Holiday with HBO and Macy's Tony Sarg's Amazing Marionettes."
+  - q: "Are balloon inflation and street closures set for Saturday?"
+    a: "Not yet announced. Thursday's inflation, viewing and closure details no longer apply, and no city notice for Saturday was available. Whether balloons fly is decided on the day."
   - q: "What is the 100th Macy's parade?"
     a: "2026 is the 100th Macy's Thanksgiving Day Parade, per Time Out New York and CentralPark.com."
 sources:
+  - title: "Macy's Thanksgiving Day Parade is pushed back to Saturday due to weather"
+    url: "https://www.nbcnews.com/news/us-news/macys-thanksgiving-day-parade-weather-delay-rcna611355"
+    publisher: "NBC News"
+    date: "2026-11-25"
+  - title: "Macy's postpones Thanksgiving Day Parade due to severe weather"
+    url: "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
+    publisher: "CNBC"
+    date: "2026-11-25"
+  - title: "Macy's announces Thanksgiving Day Parade postponed to Saturday due to expected bad weather"
+    url: "https://www.opb.org/article/2026/11/25/macys-announces-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather/"
+    publisher: "The Associated Press via OPB"
+    date: "2026-11-25"
+  - title: "High Wind Warning, New York office (Upton, N.Y.)"
+    url: "https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=OKX&wwa=all"
+    publisher: "National Weather Service"
+    date: "2026-11-25"
   - title: "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions"
     url: "https://www.nbcuniversal.com/article/100th-macys-thanksgiving-day-parade-returns-live-nbc-and-peacock-nov-26-bringing-holiday-magic-life"
     publisher: "NBCUniversal"
@@ -72,67 +92,66 @@ internalLinks:
 related: [thanksgiving-2026-tv-schedule-macys-parade-nfl-games, nyc-holiday-calendar-2026-rockefeller-tree-macys-parade]
 assets:
   overlay: true
-  kicker: "Macy's Parade · Thu., Nov. 26, 2026"
-  date: "2026-11-26"
-  card: { top: "Step-off on Central Park West", big: "8:30 a.m. ET", bottom: "NBC and Peacock" }
+  kicker: "Macy's Parade · Sat., Nov. 28, 2026"
+  date: "2026-11-28"
+  card: { top: "Moved to Saturday, Nov. 28", big: "8:30 a.m. ET", bottom: "NBC and Peacock" }
   printable:
     slug: macys-parade-morning-plan-2026
     group: macys-parade-2026
     title: "Macy's Parade Morning Plan 2026"
-    subtitle: "The 100th parade, Thu., Nov. 26, 2026: step-off, route and broadcast times"
+    subtitle: "The 100th parade, moved to Sat., Nov. 28, 2026: start time, route and broadcast"
     rows:
-      - { when: "Thu., Nov. 26", what: "Arrive early; CentralPark.com suggests about 6 a.m. on Central Park West", section: "Parade morning" }
-      - { when: "Thu., Nov. 26", what: "Viewing area named by CentralPark.com: W. 75th to W. 61st Streets", section: "Parade morning" }
-      - { when: "Thu., Nov. 26", what: "Step-off 8:30 a.m. ET at W. 77th Street and Central Park West", section: "Parade morning" }
-      - { when: "Thu., Nov. 26", what: "Parade ends about noon ET", section: "Parade morning" }
-      - { when: "Thu., Nov. 26", what: "Check balloon news: city officials decide on parade morning", section: "Parade morning" }
-      - { when: "Thu., Nov. 26", what: "South on Central Park West to Columbus Circle", section: "Route" }
-      - { when: "Thu., Nov. 26", what: "East on Central Park South", section: "Route" }
-      - { when: "Thu., Nov. 26", what: "South on Sixth Avenue to 34th Street", section: "Route" }
-      - { when: "Thu., Nov. 26", what: "West on 34th Street to Herald Square at Seventh Avenue", section: "Route" }
-      - { when: "Thu., Nov. 26", what: "Eastern: step-off 8:30 a.m. ET, NBC 8:30 a.m.", section: "Step-off by zone" }
-      - { when: "Thu., Nov. 26", what: "Central: step-off 7:30 a.m. CT, NBC 8:30 a.m.", section: "Step-off by zone" }
-      - { when: "Thu., Nov. 26", what: "Mountain: step-off 6:30 a.m. MT, NBC 8:30 a.m.", section: "Step-off by zone" }
-      - { when: "Thu., Nov. 26", what: "Pacific: step-off 5:30 a.m. PT, NBC 8:30 a.m.", section: "Step-off by zone" }
-      - { when: "Thu., Nov. 26", what: "Alaska: step-off 4:30 a.m. AKT, NBC 8:30 a.m.", section: "Step-off by zone" }
-      - { when: "Thu., Nov. 26", what: "Hawaii: step-off 3:30 a.m. HT, NBC 8:30 a.m.", section: "Step-off by zone" }
-      - { when: "Thu., Nov. 26", what: "Live on NBC, Peacock and Telemundo; encore on NBC at 2 p.m. ET/PT", section: "Parade morning" }
-    note: "Source: NBCUniversal and CentralPark.com (checked Nov. 13, 2026); route per Time Out New York. Other zones are our conversion; check the NBC local listing."
+      - { when: "Sat., Nov. 28", what: "Parade moved from Thu., Nov. 26 because of a High Wind Warning (NWS)", section: "Parade day" }
+      - { when: "Sat., Nov. 28", what: "Parade starts 8:30 a.m. ET, live on NBC and Peacock", section: "Parade day" }
+      - { when: "Sat., Nov. 28", what: "Check balloon news: decided on the day; inflation and closures not yet announced", section: "Parade day" }
+      - { when: "Sat., Nov. 28", what: "Upper West Side to Herald Square (NBC News)", section: "Route" }
+      - { when: "Sat., Nov. 28", what: "South on Central Park West to Columbus Circle", section: "Route" }
+      - { when: "Sat., Nov. 28", what: "East on Central Park South", section: "Route" }
+      - { when: "Sat., Nov. 28", what: "South on Sixth Avenue to 34th Street", section: "Route" }
+      - { when: "Sat., Nov. 28", what: "West on 34th Street to Herald Square at Seventh Avenue", section: "Route" }
+      - { when: "Sat., Nov. 28", what: "Eastern: 8:30 a.m. on NBC and Peacock", section: "Start by zone" }
+      - { when: "Sat., Nov. 28", what: "Central: 8:30 a.m. on NBC and Peacock", section: "Start by zone" }
+      - { when: "Sat., Nov. 28", what: "Mountain: 8:30 a.m. on NBC and Peacock", section: "Start by zone" }
+      - { when: "Sat., Nov. 28", what: "Pacific: check local listings", section: "Start by zone" }
+      - { when: "Thu., Nov. 26", what: "NBC reruns the 2025 parade at 8:30 a.m. in all time zones", section: "Thursday" }
+    note: "Source: NBCUniversal, NBC Insider, NBC News, CNBC and AP (checked Nov. 25, 2026); route per Time Out New York and CentralPark.com. Pacific time not confirmed."
     noKit: "printable predates the kits; a silent update keeps its layout and changes the facts only"
-    description: "A one-page Macy's Thanksgiving Day Parade 2026 morning plan with the 8:30 a.m. ET step-off, route stops and the start time in each U.S. time zone."
-    alt: "Macy's Thanksgiving Day Parade 2026 morning plan checklist with route stops and step-off times by time zone"
+    description: "A one-page Macy's Thanksgiving Day Parade 2026 plan for the move to Saturday, Nov. 28: the 8:30 a.m. ET start, route stops and broadcast times."
+    alt: "Macy's Thanksgiving Day Parade 2026 plan checklist with the Saturday start, route stops and broadcast times"
 downloads:
   - group: "Macy's Parade Morning Plan 2026 printables"
     title: "Macy's Parade Morning Plan 2026"
-    description: "A one-page Macy's Thanksgiving Day Parade 2026 morning plan with the 8:30 a.m. ET step-off, route stops and the start time in each U.S. time zone."
+    description: "A one-page Macy's Thanksgiving Day Parade 2026 plan for the move to Saturday, Nov. 28: the 8:30 a.m. ET start, route stops and broadcast times."
     preview: ../../../../assets/news/macys-parade-2026/macys-parade-morning-plan-2026.png
-    alt: "Macy's Thanksgiving Day Parade 2026 morning plan checklist with route stops and step-off times by time zone"
+    alt: "Macy's Thanksgiving Day Parade 2026 plan checklist with the Saturday start, route stops and broadcast times"
     pdf: "/news/downloads/macys-parade-2026/macys-parade-morning-plan-2026.pdf"
     png: "/news/downloads/macys-parade-2026/macys-parade-morning-plan-2026.png"
     pages: 1
 draft: false
 ---
 
-**The 100th Macy's Thanksgiving Day Parade runs from 8:30 a.m. to noon Eastern Time (ET) on Thursday, Nov. 26, 2026, on NBC, Peacock and Telemundo, according to NBCUniversal, Macy's, Inc., Time Out New York and CentralPark.com.** The broadcast and hosts come from NBCUniversal's Nov. 13 release; the route comes from the two guides, because Macy's own route page was not reachable when we checked. Below: the start in each U.S. time zone, the route street by street, the hosts and performers, and what is still to be announced. A one-page morning plan is at the end.
+**The 100th Macy's Thanksgiving Day Parade moved from Thursday, Nov. 26 to Saturday, Nov. 28, 2026, at 8:30 a.m. Eastern Time (ET), because of a High Wind Warning for New York City on Thanksgiving, according to NBCUniversal, NBC News, Consumer News and Business Channel (CNBC) and The Associated Press (AP).** The National Weather Service (NWS) New York office issued the warning for 10 a.m. Thursday to 1 a.m. Friday. Macy's said in a statement reported by NBC News: "The safety of our participants and spectators is our top priority." It is not canceled. Below: the start by time zone, what NBC airs Thursday, the route, the hosts and performers, and what is not yet announced.
 
-## What time does the Macy's parade start in each time zone?
+## What time does the Macy's parade start on Saturday, Nov. 28?
 
-The parade is live in New York at 8:30 a.m. ET. NBCUniversal says the telecast starts "at 8:30 a.m. in all time zones," so NBC shows it at 8:30 a.m. local time everywhere. For a viewer in Chicago or Los Angeles, the floats are already moving through Manhattan hours earlier. The zone rows are our conversion. [See when Thanksgiving falls](/when-is/thanksgiving/) on the calendar.
+NBC News and CNBC give 8:30 a.m. ET Saturday, and the AP says Macy's will kick off the rescheduled parade at 8:30 a.m. Saturday. NBC Insider lists 8:30 a.m. in the Eastern, Central and Mountain time zones, on NBC and Peacock, with a Telemundo simulcast. Sources conflict on Pacific Time, so check your local listings. [See when Thanksgiving falls](/when-is/thanksgiving/) on the calendar.
 
-| Time zone | Step-off in New York | NBC broadcast, local time |
-|---|---|---|
-| Eastern Time (ET) | 8:30 a.m. | 8:30 a.m. |
-| Central Time (CT) | 7:30 a.m. | 8:30 a.m. |
-| Mountain Time (MT) | 6:30 a.m. | 8:30 a.m. |
-| Pacific Time (PT) | 5:30 a.m. | 8:30 a.m. |
-| Alaska Time (AKT) | 4:30 a.m. | 8:30 a.m. |
-| Hawaii-Aleutian Time (HT) | 3:30 a.m. | 8:30 a.m. |
+| Time zone | NBC and Peacock start on Saturday, Nov. 28 |
+|---|---|
+| Eastern Time (ET) | 8:30 a.m. |
+| Central Time (CT) | 8:30 a.m. |
+| Mountain Time (MT) | 8:30 a.m. |
+| Pacific Time (PT) | Check local listings |
 
-NBCUniversal says the parade airs on NBC and Peacock, and live on Telemundo, with an encore on NBC at 2 p.m. ET/PT. Both guides list NBC from 8:30 a.m. to noon. NBCUniversal also says the NBC broadcast has live audio description on the Secondary Audio Program (SAP) channel. A countdown special airs Wednesday, Nov. 25 at 8 p.m. ET/PT on NBC and Peacock, and the documentary "America's Parade: 100 Years of Macy's Thanksgiving Day Parade" was scheduled for Friday, Nov. 20 at 9 p.m. ET/PT on NBC, with streaming on Peacock the next day. The full Thanksgiving week TV lineup, with the NFL games, is in our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
+The AP, citing a Macy's spokesperson, says it is the first time the parade has been postponed for weather; the AP also reports it was canceled from 1942 to 1944 during World War II. The broadcast end time and the Saturday Telemundo hosts are not yet announced.
+
+## What does NBC air on Thursday, Nov. 26?
+
+NBCUniversal says NBC will telecast the 2025 parade on Thursday at 8:30 a.m. in all time zones, and NBC Insider says it is encored on NBC and Peacock. The National Dog Show stays on Thursday, Nov. 26, from noon to 2 p.m. local time on NBC and Peacock, per NBCUniversal; it now follows the rerun. The NFL Thanksgiving games are unchanged, per NFL.com: Bears at Lions at 1 p.m. ET on CBS, Eagles at Cowboys at 4:30 p.m. ET on FOX and Chiefs at Bills at 8:20 p.m. ET on NBC. The full Thanksgiving week TV lineup is in our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/).
 
 ## What is the Macy's parade route in 2026?
 
-Time Out New York and CentralPark.com give the same route, the one Macy's has used in recent years. Time Out's route section is headed 2025, while CentralPark.com gives it for 2026. Macy's own 2026 route map was not reachable.
+NBC News describes the route as the Upper West Side to Herald Square. Time Out New York and CentralPark.com give the street-by-street route, the one Macy's has used in recent years; Time Out's route section is headed 2025, while CentralPark.com gives it for 2026. Macy's own 2026 route map was not reachable, and no Saturday change to it has been announced.
 
 | Segment | Direction | Where |
 |---|---|---|
@@ -142,19 +161,19 @@ Time Out New York and CentralPark.com give the same route, the one Macy's has us
 | Sixth Avenue | South | To 34th Street |
 | 34th Street | West | To Macy's Herald Square at Seventh Avenue |
 
-## Where do you watch the parade in person?
+## Where do you watch the parade in person on Saturday?
 
-Both guides tell spectators to arrive early. CentralPark.com advises Central Park West between West 75th and West 61st Streets and suggests arriving around 6 a.m.
+Saturday's viewing spots and street closures are not yet announced; no New York Police Department (NYPD) or city Department of Transportation notice was available. CentralPark.com's earlier advice, written for Thursday, named Central Park West between West 75th and West 61st Streets. Treat it as unconfirmed for Saturday and check for updates before you go.
 
-## What wind rule decides whether the Macy's balloons fly?
+## Will the Macy's balloons fly on Saturday?
 
-The city's balloon standard dates to 1998, when a mayoral task force recommended, in a release from the NYC Office of the Mayor, that no large parade balloon be operated "when there are sustained wind conditions exceeding 23 mph," or in gusts over 34 mph. City officials decide on parade morning.
+The city's balloon standard dates to 1998, when a mayoral task force recommended, in a release from the NYC Office of the Mayor, that no large parade balloon be operated "when there are sustained wind conditions exceeding 23 mph," or in gusts over 34 mph. City officials decide on parade morning, so whether balloons fly Saturday is not yet announced.
 
-Balloon inflation traditionally happens the afternoon before Thanksgiving on the Upper West Side. We could not reach a Macy's page with the 2026 inflation hours, so they are not confirmed here.
+Balloon inflation hours for Saturday are not yet announced either; Thursday's inflation plan no longer applies.
 
 ## Which balloons and floats are in the 2026 Macy's parade?
 
-Macy's, Inc. announced "a record-breaking lineup of 100 inflatable elements" for the 100th parade in its Aug. 18, 2026 release, and NBCUniversal repeated it on Nov. 13. The "record" is Macy's own claim. The count covers inflatables, not only balloons. Among them:
+Macy's, Inc. announced "a record-breaking lineup of 100 inflatable elements" for the 100th parade in its Aug. 18, 2026 release, and NBCUniversal repeated it on Nov. 13, before the move. The "record" is Macy's own claim. The count covers inflatables, not only balloons. Among them:
 
 | Entry | What Macy's, Inc. says |
 |---|---|
@@ -183,8 +202,8 @@ The marching bands, per NBCUniversal, are from Concord Community High School (El
 ## What is still to be announced for the 2026 parade?
 
 - **Late talent changes:** NBCUniversal and NBC Insider published the lineup above; any change comes from NBC on parade morning.
-- **Balloon inflation hours:** not confirmed by a Macy's page we could reach.
+- **Saturday logistics:** balloon inflation, viewing spots and street closures are not yet announced.
+- **Broadcast details:** the Saturday end time and Telemundo hosts are not yet announced.
 - **Subway service:** the Metropolitan Transportation Authority (MTA) has not posted a 2026 Thanksgiving service notice that we could find.
-- **Spanish-language coverage:** Macy's has not confirmed a Spanish-language broadcast on a page we could reach.
 
 Looking for other New York dates this season? The [NYC holiday calendar for 2026](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/) lists the tree lighting and more. A [November 2026 printable calendar](/november-calendars.html) has room for the whole week. For another big parade, see our guide to the [Rose Parade](/news/rose-parade-2027-date-start-time-by-time-zone-route-floatfest/).
