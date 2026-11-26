@@ -49,6 +49,24 @@ for (const p of pages) {
 }
 console.log(`[index] ${fresh.length} new, ${announce.length - fresh.length} updated`);
 
+// cloudflare/index-resend.txt lists story URLs to queue again for AnindaIndex with their current
+// modified time (one URL per line), for versions the queue dropped while the account had no
+// credit. index-submit skips a version it already sent, so the list is safe to leave in place; at
+// most RESEND_ROOM go out per deploy to stay under its ANINDA_INDEX_MAX_UPDATED guard.
+const RESEND_ROOM = 55;
+const resendFile = path.join(import.meta.dirname, "index-resend.txt");
+if (existsSync(resendFile)) {
+  const have = new Set(updated.map((u) => u.split("|")[0]));
+  let added = 0;
+  for (const url of readFileSync(resendFile, "utf8").split("\n").map((l) => l.trim()).filter((l) => l.startsWith(`${ORIGIN}/news/`))) {
+    if (updated.length >= RESEND_ROOM) break;
+    const page = path.join(next, url.slice(`${ORIGIN}/news/`.length), "index.html");
+    const mod = existsSync(page) ? modified(page) : "";
+    if (mod && !have.has(url)) { updated.push(`${url}|${mod}`); have.add(url); added++; }
+  }
+  console.log(`[index] ${added} queued again from index-resend.txt`);
+}
+
 if (process.env.NEWS_INDEXNOW !== "0" && announce.length) {
   try {
     const res = await fetch("https://api.indexnow.org/indexnow", {
