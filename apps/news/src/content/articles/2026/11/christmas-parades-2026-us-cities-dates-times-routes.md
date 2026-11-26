@@ -75,7 +75,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [holiday-boat-parades-2026-dates-times-by-city, christmas-tree-lightings-2026-dates-times-nyc-dc-boston, ford-holiday-river-parade-2026-san-antonio-november-27-tickets]
+related: [holiday-boat-parades-2026-dates-times-by-city, christmas-tree-lightings-2026-dates-times-nyc-dc-boston, natchitoches-christmas-festival-2026-december-5-parade-fireworks]
 downloads:
   - group: "Christmas Parades 2026 Schedule printables"
     title: "Christmas Parades 2026 Schedule"

@@ -71,7 +71,7 @@ internalLinks:
     label: "When is Christmas Day?"
   - href: "/holidays/"
     label: "Holiday calendars"
-related: [when-does-advent-start-2026-november-29-advent-wreath-candles, simbang-gabi-2026-december-16-24-mass-schedule, christmas-2026-calendar-printable-countdown]
+related: [when-does-advent-start-2026-november-29-advent-wreath-candles, simbang-gabi-2026-december-16-24-mass-schedule, albuquerque-luminaria-tour-2026-tickets-november-27-december-24]
 downloads:
   - group: "Las Posadas 2026 printables"
     title: "Las Posadas 2026: Nine Nights, Dec. 16-24"
