@@ -70,7 +70,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [high-school-football-state-championships-2026-dates-by-state, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times, army-navy-game-2026-date-kickoff-time-metlife-stadium-tv]
+related: [high-school-football-state-championships-2026-dates-by-state, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times, nysphsaa-football-championships-2026-schedule-jma-dome]
 assets:
   overlay: true
   kicker: "NJSIAA Finals, Nov. 28-29, 2026"

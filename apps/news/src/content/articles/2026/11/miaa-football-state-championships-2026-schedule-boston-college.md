@@ -58,7 +58,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [high-school-football-state-championships-2026-dates-by-state, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times, ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28]
+related: [high-school-football-state-championships-2026-dates-by-state, mhsaa-football-finals-2026-ford-field-schedule-kickoff-times, nysphsaa-football-championships-2026-schedule-jma-dome]
 assets:
   overlay: true
   kicker: "MIAA football finals, Dec. 4-6, 2026"

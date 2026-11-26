@@ -70,7 +70,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [high-school-football-state-championships-2026-dates-by-state, tssaa-bluecross-bowl-2026-schedule-chattanooga-kickoff-times, ghsa-football-state-championships-2026-schedule-mercedes-benz-stadium]
+related: [high-school-football-state-championships-2026-dates-by-state, tssaa-bluecross-bowl-2026-schedule-chattanooga-kickoff-times, mississippi-mhsaa-football-championships-2026-davis-wade-stadium-schedule]
 assets:
   overlay: true
   kicker: "AHSAA Finals, Dec. 1-5, 2026"
