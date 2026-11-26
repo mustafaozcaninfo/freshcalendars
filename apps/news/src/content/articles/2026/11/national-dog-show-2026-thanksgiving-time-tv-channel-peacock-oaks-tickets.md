@@ -3,7 +3,7 @@ title: "National Dog Show 2026 Time: Noon on NBC Thanksgiving, Nov. 26"
 description: "The National Dog Show 2026 airs noon to 2 p.m. local time on NBC on Thanksgiving, Nov. 26. The in-person show was Nov. 14-15 in Oaks, Pa.; ticket prices."
 type: news
 publishedAt: "2026-11-02T10:18:00-05:00"
-updatedAt: "2026-11-19T01:42:00-05:00"
+updatedAt: "2026-11-26T01:26:00-05:00"
 authors: [jessica-hartwell]
 category: entertainment
 dateline: "Oaks, Pa."
@@ -20,13 +20,13 @@ hero:
     author: "Maria Tsveshko"
     authorUrl: "https://commons.wikimedia.org/w/index.php?title=User:Mtsveshko&action=edit&redlink=1"
 summary:
-  - "The National Dog Show airs noon to 2 p.m. in every time zone on NBC on Thanksgiving, Thursday, Nov. 26, 2026, after the Macy's parade, per the Dog Writers Association of America."
+  - "The National Dog Show airs noon to 2 p.m. in every time zone on NBC on Thanksgiving, Thursday, Nov. 26, 2026, per the Dog Writers Association of America and the show's organizer. The live 100th Macy's parade moved to Saturday, Nov. 28."
   - "The 25th show was taped in person on Saturday, Nov. 14 and Sunday, Nov. 15, 2026 at the Greater Philadelphia Expo Center in Oaks, Pa.; Saturday's Best in Show is the TV broadcast."
   - "In-person tickets were $20 for adults and $10 for children ages 4 to 11, with ages 3 and under free; show days ran 8 a.m. to 6 p.m. Saturday and 8 a.m. to 5 p.m. Sunday, per the show's organizer."
   - "The show also streams on Peacock, with John O'Hurley, David Frei and Mary Carillo returning as hosts, per the American Kennel Club; an encore airing is not yet announced."
 faq:
   - q: "What time is the National Dog Show on in 2026?"
-    a: "The broadcast runs noon to 2 p.m. local time in every U.S. time zone on NBC on Thanksgiving Day, Thursday, Nov. 26, 2026, per the Dog Writers Association of America. It follows the Macy's Thanksgiving Day Parade."
+    a: "The broadcast runs noon to 2 p.m. local time in every U.S. time zone on NBC on Thanksgiving Day, Thursday, Nov. 26, 2026, per the Dog Writers Association of America. NBC shows a rerun of the 2025 Macy's parade at 8:30 a.m. that day; the live 100th parade is Saturday, Nov. 28."
   - q: "What channel is the National Dog Show on?"
     a: "NBC. The Dog Writers Association of America and PhillyVoice both say the show airs on NBC on Thanksgiving. The American Kennel Club says the 2026 show also streams on Peacock, NBCSports.com and the NBC Sports app."
   - q: "Is the National Dog Show live?"
@@ -68,6 +68,18 @@ sources:
     url: "https://dogwriters.org/national-dog-shows-silver-anniversary/"
     publisher: "Dog Writers Association of America"
     date: "2026-07-27"
+  - title: "The National Dog Show"
+    url: "https://www.nationaldogshow.com/"
+    publisher: "Kennel Club of Philadelphia / The National Dog Show"
+    date: "2026-11-26"
+  - title: "The 100th Macy's Thanksgiving Day Parade Returns Live on NBC and Peacock Nov. 26, Bringing Holiday Magic to Life for Millions"
+    url: "https://www.nbcuniversal.com/article/100th-macys-thanksgiving-day-parade-returns-live-nbc-and-peacock-nov-26-bringing-holiday-magic-life"
+    publisher: "NBCUniversal"
+    date: "2026-11-25"
+  - title: "Macy's Thanksgiving Day Parade is pushed back to Saturday due to weather"
+    url: "https://www.nbcnews.com/news/us-news/macys-thanksgiving-day-parade-weather-delay-rcna611355"
+    publisher: "NBC News"
+    date: "2026-11-25"
   - title: "The National Dog Show returns to Oaks in November"
     url: "https://www.phillyvoice.com/national-dog-show-oaks-november-2026/"
     publisher: "PhillyVoice"
@@ -128,7 +140,7 @@ assets:
           quote: "Sunday, November 15, 8:00 am – 5:00 pm"
         - start: "2026-11-26T12:00-05:00"
           title: "National Dog Show on NBC"
-          detail: "Noon to 2 p.m. local time, after the Macy's parade"
+          detail: "Noon to 2 p.m. local time on NBC"
           channel: "NBC"
           airing: delayed
           src: "https://www.nbcphiladelphia.com/news/local/national-dog-show-2026-to-celebrate-major-milestone/4480639/"
@@ -147,11 +159,11 @@ downloads:
 draft: false
 ---
 
-**The National Dog Show airs from noon to 2 p.m. local time on NBC on Thanksgiving Day, Thursday, Nov. 26, 2026, in every U.S. time zone, right after the Macy's Thanksgiving Day Parade, according to the Dog Writers Association of America.** The group calls 2026 the show's silver anniversary, its 25th year. NBC10 Philadelphia, an NBC-owned station, reported the same Nov. 26 noon to 2 p.m. slot on Oct. 16, 2026, and the show's organizer, the Kennel Club of Philadelphia, lists the in-person hours and tickets on its site, as checked Nov. 13, 2026.
+**The National Dog Show airs from noon to 2 p.m. local time on NBC on Thanksgiving Day, Thursday, Nov. 26, 2026, in every U.S. time zone, according to the Dog Writers Association of America and the show's organizer.** NBC also airs a rerun of the 2025 Macy's Thanksgiving Day Parade at 8:30 a.m. that day, because the live 100th parade moved to Saturday, Nov. 28 for a High Wind Warning in New York City, NBCUniversal says. The group calls 2026 the show's silver anniversary, its 25th year. NBC10 Philadelphia, an NBC-owned station, reported the same Nov. 26 noon to 2 p.m. slot on Oct. 16, 2026, and the show's organizer, the Kennel Club of Philadelphia, lists the in-person hours and tickets on its site, as checked Nov. 13, 2026.
 
 ## What time is the National Dog Show on this Thanksgiving?
 
-The Dog Writers Association of America says the broadcast runs noon to 2 p.m. in all time zones. That means NBC starts it at noon where you live, so the dog show begins at the same clock time in New York, Chicago, Denver and Los Angeles. PhillyVoice reports the Thanksgiving NBC broadcast but does not give a time. The organizer's TV page says to tune in to NBC from noon to 2 p.m. local time, and NBC10 Philadelphia says its Philadelphia broadcast runs noon to 2 p.m. Eastern Time (ET), following the Macy's parade. In 2025 the show aired noon to 2 p.m. in all time zones on NBC and Peacock, the Canine Chronicle reported.
+The Dog Writers Association of America says the broadcast runs noon to 2 p.m. in all time zones. That means NBC starts it at noon where you live, so the dog show begins at the same clock time in New York, Chicago, Denver and Los Angeles. PhillyVoice reports the Thanksgiving NBC broadcast but does not give a time. The organizer's TV page says to tune in to NBC from noon to 2 p.m. local time, and NBC10 Philadelphia says its Philadelphia broadcast runs noon to 2 p.m. Eastern Time (ET). In 2025 the show aired noon to 2 p.m. in all time zones on NBC and Peacock, the Canine Chronicle reported.
 
 | Time zone | NBC broadcast, local time |
 |---|---|
@@ -164,7 +176,7 @@ Because each NBC station airs it at noon in its own zone, the show is tape-delay
 
 ## What channel is the National Dog Show on, and is it on Peacock?
 
-NBC. Both the Dog Writers Association of America and PhillyVoice say the Thanksgiving broadcast is on NBC, following the parade. For 2026, an encore airing is not yet announced. The American Kennel Club says the show also streams on Peacock, NBCSports.com and the NBC Sports app, which runs on Roku, Apple TV and Amazon Fire devices. In 2025 it streamed on Peacock at the same time as the NBC broadcast, per the Canine Chronicle. The Macy's parade that leads into it runs 8:30 a.m. to noon Eastern Time (ET) on NBC and Peacock, per Time Out New York and CentralPark.com; our [Macy's parade 2026 guide](/news/macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons/) has the route and zone times.
+NBC. Both the Dog Writers Association of America and PhillyVoice say the Thanksgiving broadcast is on NBC. For 2026, an encore airing is not yet announced. The American Kennel Club says the show also streams on Peacock, NBCSports.com and the NBC Sports app, which runs on Roku, Apple TV and Amazon Fire devices. In 2025 it streamed on Peacock at the same time as the NBC broadcast, per the Canine Chronicle. The 100th Macy's parade moved to Saturday, Nov. 28 at 8:30 a.m. ET, and on Thursday NBC airs the 2025 parade at 8:30 a.m. in all time zones, per NBCUniversal and NBC News; our [Macy's parade 2026 guide](/news/macys-thanksgiving-day-parade-2026-start-time-route-tv-balloons/) has the route and zone times.
 
 ## When and where was the in-person National Dog Show in 2026?
 

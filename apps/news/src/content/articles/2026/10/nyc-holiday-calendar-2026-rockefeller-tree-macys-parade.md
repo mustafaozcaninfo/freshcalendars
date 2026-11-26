@@ -1,9 +1,9 @@
 ---
-title: "NYC Holiday Calendar 2026: Tree Lighting Dec. 2, Macy's Parade Nov. 26"
-description: "New York's 2026 holiday season: the Rockefeller tree is lit Dec. 2 and the 100th Macy's parade is Nov. 26. A printable lists 14 official dates to Jan. 10."
+title: "NYC Holiday Calendar 2026: Tree Lighting Dec. 2, Macy's Parade Nov. 28"
+description: "The Rockefeller tree is lit Dec. 2 and the 100th Macy's parade moved to Sat., Nov. 28. A printable lists 14 official New York dates to Jan. 10."
 type: explainer
 publishedAt: "2026-10-22T13:09:00-04:00"
-updatedAt: "2026-11-14T15:32:00-05:00"
+updatedAt: "2026-11-26T01:25:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["NYC holiday calendar 2026", "Rockefeller Christmas tree lighting 2026", "when is the Rockefeller tree lighting", "Bryant Park Winter Village 2026", "NYC Christmas events 2026"]
@@ -30,7 +30,7 @@ assets:
       - ["Thu., Nov. 19 to Jan. 4, 2027", "Macy's Herald Square holiday windows"]
       - ["Fri., Nov. 20 to Jan. 3, 2027", "Lightscape, Brooklyn Botanic Garden, select nights"]
       - ["Fri., Nov. 20", "Macy's Santaland reservations open, rolling seven days ahead"]
-      - ["Thu., Nov. 26, 8:30 a.m.", "100th Macy's Thanksgiving Day Parade, Upper West Side to Herald Square"]
+      - ["Sat., Nov. 28, 8:30 a.m. ET", "100th Macy's Thanksgiving Day Parade, moved from Nov. 26; Upper West Side to Herald Square"]
       - ["Wed., Dec. 2", "Rockefeller Center Christmas Tree Lighting, live on NBC"]
       - ["Fri., Dec. 4 to Sat., Dec. 12", "Hanukkah, first candle at sundown Dec. 4"]
       - ["Thu., Dec. 24 to Jan. 1, 2027", "NYC public schools winter recess"]
@@ -47,7 +47,7 @@ hero:
   caption: "The Rockefeller Center Christmas Tree arrived on Saturday, Nov. 7, 2026, and will be lit on Wednesday, Dec. 2, according to Rockefeller Center."
 summary:
   - "The Rockefeller Center Christmas Tree arrived on Saturday, Nov. 7, 2026, and the Tree Lighting Ceremony is Wednesday, Dec. 2, broadcast on NBC."
-  - "The 100th Macy's Thanksgiving Day Parade is Thursday, Nov. 26, at 8:30 a.m., and Macy's Herald Square windows open Nov. 19."
+  - "The 100th Macy's Thanksgiving Day Parade moved from Thursday, Nov. 26 to Saturday, Nov. 28, at 8:30 a.m. ET because of a High Wind Warning, and Macy's Herald Square windows open Nov. 19."
   - "Bryant Park's Winter Village opened Oct. 28, the Radio City Christmas Spectacular opened Nov. 4 and the New York Botanical Garden (NYBG) Holiday Train Show runs Nov. 14 to Jan. 10."
   - "A free printable lists 14 official dates from Oct. 28, 2026 to Jan. 10, 2027."
 faq:
@@ -107,6 +107,18 @@ sources:
   - title: "2026-2027 School Year Calendar"
     url: "https://www.schools.nyc.gov/calendar/2026-2027-school-year-calendar"
     publisher: "NYC Public Schools"
+  - title: "Macy's Thanksgiving Day Parade is pushed back to Saturday due to weather"
+    url: "https://www.nbcnews.com/news/us-news/macys-thanksgiving-day-parade-weather-delay-rcna611355"
+    publisher: "NBC News"
+    date: "2026-11-25"
+  - title: "Macy's postpones Thanksgiving Day Parade due to severe weather"
+    url: "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
+    publisher: "CNBC"
+    date: "2026-11-25"
+  - title: "Macy's announces Thanksgiving Day Parade postponed to Saturday due to expected bad weather"
+    url: "https://www.opb.org/article/2026/11/25/macys-announces-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather/"
+    publisher: "The Associated Press via OPB"
+    date: "2026-11-25"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -129,7 +141,7 @@ downloads:
 draft: false
 ---
 
-**The Rockefeller Center Christmas Tree arrived on Saturday, Nov. 7, 2026, and will be lit on Wednesday, Dec. 2.** Those two dates anchor a New York holiday season that starts earlier than many visitors expect: Bryant Park's Winter Village opened on Oct. 28, and the 100th Macy's Thanksgiving Day Parade falls on Nov. 26.
+**The Rockefeller Center Christmas Tree arrived on Saturday, Nov. 7, 2026, and will be lit on Wednesday, Dec. 2.** Those two dates anchor a New York holiday season that starts earlier than many visitors expect: Bryant Park's Winter Village opened on Oct. 28, and the 100th Macy's Thanksgiving Day Parade, moved from Nov. 26, steps off on Saturday, Nov. 28.
 
 Every date below comes from the organizer's own site or press release. Nothing is guessed. Where a time or detail has not been announced yet, as with the tree lighting's start time, the parade hosts and the Times Square performers, we say so and give last year's detail only when it helps you plan.
 
@@ -144,7 +156,7 @@ Every date below comes from the organizer's own site or press release. Nothing i
 | Sat., Nov. 14 | Holiday Train Show opens at the New York Botanical Garden |
 | Thu., Nov. 19 | Macy's Herald Square holiday windows debut |
 | Fri., Nov. 20 | Lightscape opens at Brooklyn Botanic Garden |
-| Thu., Nov. 26 | 100th Macy's Thanksgiving Day Parade, 8:30 a.m. |
+| Sat., Nov. 28 | 100th Macy's Thanksgiving Day Parade, moved from Nov. 26, 8:30 a.m. ET |
 | Wed., Dec. 2 | Rockefeller Center Christmas Tree Lighting |
 | Fri., Dec. 4 | Hanukkah begins at sundown |
 | Thu., Dec. 24 | NYC public schools close for winter recess |
@@ -164,9 +176,9 @@ Still to come: the ceremony's start time and the performers. Last year's tree st
 
 ## The 100th Macy's Thanksgiving Day Parade
 
-The parade steps off on **Thursday, Nov. 26**, and NBC, Peacock and Telemundo carry it from 8:30 a.m. in every time zone. It is the 100th parade, because the march was called off in 1942, 1943 and 1944. Macy's has promised a record 100 inflatable elements, including a new Sorcerer's Apprentice Mickey and a reimagined Underdog. Our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/) covers the broadcast and the National Football League (NFL) games that follow.
+The parade moved from Thursday, Nov. 26 to **Saturday, Nov. 28**, with a start at 8:30 a.m. ET on NBC and Peacock, and a Telemundo simulcast, according to NBC News. Macy's said in a statement, as reported by Consumer News and Business Channel (CNBC), that the move followed a National Weather Service High Wind Warning for New York City on Thursday. The route runs from the Upper West Side to Herald Square. On Thursday, Nov. 26, NBC airs a rerun of the 2025 parade at 8:30 a.m. in all time zones. It is the 100th parade, because the march was called off in 1942, 1943 and 1944. Macy's has promised a record 100 inflatable elements, including a new Sorcerer's Apprentice Mickey and a reimagined Underdog. Our [Thanksgiving 2026 TV schedule](/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/) covers the broadcast and the National Football League (NFL) games that follow.
 
-Macy's has not yet posted 2026 details for the balloon inflation on Wednesday, Nov. 25. Last year the public viewing ran in the afternoon around the American Museum of Natural History, with entry at West 72nd Street and Columbus Avenue. Check Macy's site before you go.
+Balloon inflation and street closures for Saturday have not yet been announced, and no Macy's, New York Police Department or city transportation notice was found. Check Macy's site before you go.
 
 ### Herald Square windows and Santaland
 
