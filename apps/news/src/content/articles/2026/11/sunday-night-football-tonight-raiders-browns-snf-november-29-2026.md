@@ -112,7 +112,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times, sunday-night-football-tonight-buccaneers-bears-snf-november-8-2026, nfl-week-13-schedule-2026-printable-pick-em-sheet-game-times]
+related: [nfl-week-12-schedule-2026-printable-pick-em-sheet-game-times, sunday-night-football-tonight-texans-steelers-snf-december-6-2026, nfl-week-13-schedule-2026-printable-pick-em-sheet-game-times]
 draft: false
 ---
 

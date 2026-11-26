@@ -123,7 +123,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [thursday-night-football-tonight-jaguars-ravens-tnf-schedule-2026, thanksgiving-football-schedule-2026-nfl-college-games, new-on-prime-video-december-2026-release-dates]
+related: [thursday-night-football-tonight-chiefs-rams-tnf-december-3-2026, thanksgiving-football-schedule-2026-nfl-college-games, new-on-prime-video-december-2026-release-dates]
 draft: false
 ---
 
