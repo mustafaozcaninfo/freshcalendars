@@ -101,7 +101,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28, mshsl-prep-bowl-2026-schedule-us-bank-stadium-kickoff-times, khsaa-state-football-finals-2026-kroger-field-schedule]
+related: [wvssac-football-championships-2026-schedule-laidley-field, mshsl-prep-bowl-2026-schedule-us-bank-stadium-kickoff-times, khsaa-state-football-finals-2026-kroger-field-schedule]
 assets:
   overlay: true
   kicker: "State title games · Nov. 21-Dec. 19"

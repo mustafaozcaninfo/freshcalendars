@@ -113,7 +113,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [college-football-playoff-rankings-2026-schedule-dates-times, college-football-bowl-schedule-2026-27-dates-times-tv-cfp, college-football-conference-championship-games-2026-schedule-times-tv]
+related: [ncaa-division-ii-football-championship-2026-december-19-mckinney, college-football-bowl-schedule-2026-27-dates-times-tv-cfp, college-football-conference-championship-games-2026-schedule-times-tv]
 draft: false
 ---
 
