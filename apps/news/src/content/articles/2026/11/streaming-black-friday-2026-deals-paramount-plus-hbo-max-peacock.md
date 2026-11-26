@@ -106,7 +106,7 @@ internalLinks:
     label: "When is Cyber Monday?"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [nfl-sunday-ticket-deal-2026-48-dollars-ends-november-30, spotify-audible-holiday-deals-2026-premium-free-trial-end-dates, cyber-monday-2026-date-sale-start-times-by-store]
+related: [nfl-sunday-ticket-deal-2026-48-dollars-ends-november-30, roku-black-friday-2026-streaming-stick-deals-end-november-30, cyber-monday-2026-date-sale-start-times-by-store]
 downloads:
   - group: "Streaming Black Friday 2026 printables"
     title: "Streaming Black Friday 2026: Sign Up By Nov. 30"

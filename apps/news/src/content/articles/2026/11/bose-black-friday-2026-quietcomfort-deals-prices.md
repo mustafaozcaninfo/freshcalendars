@@ -98,7 +98,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/black-friday/"
     label: "When is Black Friday?"
-related: [google-pixel-black-friday-2026-deals-end-dates, apple-black-friday-2026-shopping-event-november-27-30, samsung-black-friday-2026-dates-november-2-30]
+related: [sonos-black-friday-2026-sale-up-to-25-off-ends-november-30, apple-black-friday-2026-shopping-event-november-27-30, samsung-black-friday-2026-dates-november-2-30]
 downloads:
   - group: "Bose Black Friday 2026 Price List printables"
     title: "Bose Black Friday 2026 Price List"
@@ -187,7 +187,7 @@ Black Friday is Friday, Nov. 27, 2026, and Cyber Monday is Monday, Nov. 30. Thos
 
 ## More Black Friday 2026 tech deals
 
-Google states end dates by product, Dec. 1, Dec. 2 and Dec. 5, in the [Google Pixel Black Friday 2026 story](/news/google-pixel-black-friday-2026-deals-end-dates/). Apple's event is covered in [Apple Black Friday 2026](/news/apple-black-friday-2026-shopping-event-november-27-30/) and Samsung's in [Samsung Black Friday 2026 dates](/news/samsung-black-friday-2026-dates-november-2-30/).
+Google states end dates by product, Dec. 1, Dec. 2 and Dec. 5, in the [Google Pixel Black Friday 2026 story](/news/google-pixel-black-friday-2026-deals-end-dates/). Apple's event is covered in [Apple Black Friday 2026](/news/apple-black-friday-2026-shopping-event-november-27-30/) and Samsung's in [Samsung Black Friday 2026 dates](/news/samsung-black-friday-2026-dates-november-2-30/). Another speaker maker, Sonos, runs its sale through Nov. 30: see [Sonos Black Friday 2026](/news/sonos-black-friday-2026-sale-up-to-25-off-ends-november-30/).
 
 ## Print the Bose Black Friday 2026 price list
 
