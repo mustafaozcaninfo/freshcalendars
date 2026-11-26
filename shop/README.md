@@ -416,3 +416,18 @@ The owner's goal: understand what makes ChatGPT send visitors to a page well eno
 **Search-title test and the news cards (Nov. 26, 2026).** Second test, read out the same way as the freshness test: 300 advent products whose listing states 2026, outside the freshness groups, split at random (`.cache/shop/report/title-test.json`, script `title_test.py` with `run` and `undo`). Treatment, applied about 19:40 UTC: `meta_title` in the shape assistants search for, "<name> 2026: Price, What's Inside" (150 products; the H1 and the text are unchanged, and the page shows both the price and the contents). Control: 150 untouched. On the news site the shop card (`apps/news/src/lib/shop.ts`, 26 stories) pointed at guides, quoted the old counts and ended on Dec. 2; it now points at category pages, quotes 1,600 calendars in 40 kinds, and each campaign can name the next one in `then`: advent cards hand over to `christmas-gifts` on Dec. 3 and that one to `planners-2027` after Dec. 24. The card's links are sponsored and nofollow by the site's rule, so it moves readers, not crawlers.
 
 **What would count as having solved it:** a new family reaches at least half of advent's sessions per product within a week of going live, twice in a row, outside the Christmas season. Until then the working answer is "seasonal gift kinds with full listings, indexed by Bing", not a rule.
+
+### Prompt panel in ChatGPT itself (Nov. 26, 2026)
+
+Six buying questions asked by hand in ChatGPT (five in temporary chat, US stated, "search the web and include links"), then the linked hosts counted. One answer per question, so this is a first read, not a rate.
+
+| Question | Our links | Other hosts linked |
+|---|---|---|
+| fill-your-own advent calendar, 24 boxes | all (guide `/articles/fillable-advent-calendars` three times, two products) | none |
+| fishing advent calendar for dad | 2 (a product published two days earlier, the category) | mysterytacklebox, walmart (2), scheels, postflybox |
+| slime advent calendar, age 8, under $30 | 6 products | target (1) |
+| 2027 A5 weekly planner, fountain pen paper, under $30 | 1 (`/articles/best-weekly-planners`) | paper-republic, gouletpens, filofax |
+| stocking stuffers under $20 for teen boys | 0 | amazon (11), apple, kontrolfreek, nike, walmart, goodhousekeeping, today |
+| large 2027 wall calendar, big boxes, family of five | 0 | amazon (3), moretimemoms, barnesandnoble, homeandkind |
+
+What it shows: we are linked where the question names a narrow kind that we have a category and several product pages for, and a product two days old already appears. We are absent where the question is broad (ChatGPT links Amazon directly and big magazines) and where a maker's own site answers it. The search queries behind an answer are not visible in the page; a fan-out extension would be needed for that.
