@@ -30,13 +30,13 @@ assets:
         - { start: "2026-12-05T16:42-08:00", title: "Southbound San Mateo", detail: "Ticket holders board here", airing: live, src: 3, quote: ["Saturday, December 5", "San Mateo 4:42 p.m."] }
         - { start: "2026-12-05T16:57-08:00", title: "Southbound Palo Alto", detail: "Ticket holders board here", airing: live, src: 3, quote: ["Saturday, December 5", "Palo Alto 4:57 p.m."] }
         - { start: "2026-12-05T17:12-08:00", title: "Southbound Santa Clara", detail: "Hop-off stop", airing: live, src: 3, quote: ["Saturday, December 5", "Santa Clara 5:12 p.m."] }
-        - { start: "2026-12-05T17:19-08:00", title: "Southbound San Jose Diridon", detail: "Final stop of this trip", airing: live, src: 3, quote: ["Saturday, December 5", "San Jose Diridon 5:19 p.m."] }
+        - { start: "2026-12-05T17:19-08:00", title: "Southbound San Jose Diridon", detail: "end of the southbound trip", airing: live, src: 3, quote: ["Saturday, December 5", "San Jose Diridon 5:19 p.m."] }
         - { start: "2026-12-05T18:11-08:00", title: "Northbound San Jose Diridon", detail: "Ticket holders board here", airing: live, src: 3, quote: ["Saturday, December 5", "San Jose Diridon 6:11 p.m."] }
         - { start: "2026-12-05T18:18-08:00", title: "Northbound Santa Clara", detail: "Hop-off stop", airing: live, src: 3, quote: ["Saturday, December 5", "Santa Clara 6:18 p.m."] }
         - { start: "2026-12-05T18:34-08:00", title: "Northbound Palo Alto", detail: "Ticket holders board here", airing: live, src: 3, quote: ["Saturday, December 5", "Palo Alto 6:34 p.m."] }
         - { start: "2026-12-05T19:04-08:00", title: "Northbound San Mateo", detail: "Ticket holders board here", airing: live, src: 3, quote: ["Saturday, December 5", "San Mateo 7:04 p.m."] }
         - { start: "2026-12-05T19:09-08:00", title: "Northbound Millbrae", detail: "Hop-off stop", airing: live, src: 3, quote: ["Saturday, December 5", "Millbrae 7:09 p.m."] }
-        - { start: "2026-12-05T19:25-08:00", title: "Northbound San Francisco", detail: "Final stop of this trip", airing: live, src: 3, quote: ["Saturday, December 5", "San Francisco 7:25 p.m."] }
+        - { start: "2026-12-05T19:25-08:00", title: "Northbound San Francisco", detail: "end of the northbound trip", airing: live, src: 3, quote: ["Saturday, December 5", "San Francisco 7:25 p.m."] }
       unconfirmed:
         - { label: "Ticket price", why: "Caltrain does not state a price on its Holiday Train pages as of Nov. 26, 2026" }
 hero:
