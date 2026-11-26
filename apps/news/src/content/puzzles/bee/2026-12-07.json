@@ -1,0 +1,27 @@
+{
+ "center_letter": "y",
+ "outer_letters": "amnotx",
+ "pangrams": [
+  "taxonomy"
+ ],
+ "answers": [
+  "anatomy",
+  "annoy",
+  "antonym",
+  "antonymy",
+  "ataxy",
+  "many",
+  "mayo",
+  "mommy",
+  "mononym",
+  "monotony",
+  "moony",
+  "myna",
+  "nanny",
+  "natty",
+  "oaty",
+  "onyx",
+  "tatty",
+  "tony"
+ ]
+}
