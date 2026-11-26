@@ -1,9 +1,9 @@
 ---
-title: "Thanksgiving 2026 TV Schedule: 100th Macy's Parade at 8:30 a.m."
-description: "The 100th Macy's Thanksgiving Day Parade airs Thu., Nov. 26 at 8:30 a.m. on NBC. Every NFL game from Nov. 25-27 with channels, plus a printable."
+title: "Thanksgiving 2026 TV Schedule: Macy's Parade Moves to Sat., Nov. 28"
+description: "The 100th Macy's parade moved to Sat., Nov. 28, 8:30 a.m. ET on NBC; Thursday airs a 2025 rerun. All five NFL games with channels, plus a printable."
 type: news
 publishedAt: "2026-10-22T12:55:00-04:00"
-updatedAt: "2026-11-25T14:45:00-05:00"
+updatedAt: "2026-11-25T23:45:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["Thanksgiving 2026 TV schedule", "Macy's Thanksgiving Day Parade 2026", "NFL Thanksgiving games 2026", "what channel is the Macy's parade on", "Thanksgiving Eve game 2026"]
@@ -12,7 +12,7 @@ assets:
   scene: thanksgiving
   kicker: "Thanksgiving week 2026 · on TV"
   date: "2026-11-26"
-  card: { top: "100th Macy's parade on NBC", big: "8:30 a.m.", bottom: "Then three NFL games on Thu., Nov. 26" }
+  card: { top: "100th Macy's parade moved to Sat., Nov. 28", big: "8:30 a.m. ET", bottom: "Thursday: 2025 rerun, then three NFL games" }
   printable:
     slug: thanksgiving-2026-tv-schedule
     group: thanksgiving-2026
@@ -23,31 +23,37 @@ assets:
     columns: ["When", "What and where to watch"]
     rows:
       - ["Wed., Nov. 25, 8 p.m.", "Packers at Rams, first NFL Thanksgiving Eve game, U2 halftime · Netflix"]
-      - ["Thu., Nov. 26, 8:30 a.m.", "100th Macy's Thanksgiving Day Parade, 8:30 a.m. in every time zone, hosts Guthrie, Kotb and Roker · NBC, Peacock, Telemundo"]
+      - ["Thu., Nov. 26, 8:30 a.m.", "Rerun of the 2025 Macy's parade, all time zones · NBC, Peacock"]
+      - ["Thu., Nov. 26, noon-2 p.m.", "National Dog Show, local time, follows the rerun · NBC, Peacock"]
       - ["Thu., Nov. 26, 8:45 a.m.", "America's Thanksgiving Parade steps off in Detroit, its 100th parade"]
       - ["Thu., Nov. 26, 1 p.m.", "Bears at Lions · CBS, Paramount+, NFL+"]
       - ["Thu., Nov. 26, 4:30 p.m.", "Eagles at Cowboys · FOX, FOX One, NFL+"]
       - ["Thu., Nov. 26, 8:20 p.m.", "Chiefs at Bills · NBC, Peacock, NFL+"]
       - ["Fri., Nov. 27, 3 p.m.", "Broncos at Steelers, Black Friday game · Prime Video"]
-    note: "Source: NFL.com 2026 schedule release; Macy's, Inc., 100-day countdown release (Aug. 18, 2026); NBCUniversal parade release (Nov. 13, 2026); Michigan Department of Military and Veterans Affairs events listing. Check local listings for regional channels."
+      - ["Sat., Nov. 28, 8:30 a.m.", "Live 100th Macy's Thanksgiving Day Parade, 8:30 a.m. ET, CT and MT (Pacific: check local listings) · NBC, Peacock, Telemundo"]
+    note: "Source: NFL.com 2026 schedule release; NBCUniversal parade release (updated Nov. 25, 2026); NBC Insider (Nov. 25, 2026); Michigan Department of Military and Veterans Affairs events listing. Check local listings for regional channels."
     notesLabel: "Who is hosting, who is cooking"
-    description: "Every Thanksgiving week 2026 broadcast on one page: the 100th Macy's parade, the Detroit parade and all five NFL games, with channels."
-    alt: "Thanksgiving 2026 TV schedule printable listing the Macy's parade and five NFL games from Nov. 25 to Nov. 27 with times and channels"
+    description: "Every Thanksgiving week 2026 broadcast on one page: the Macy's parade rerun and live Saturday parade, the Detroit parade and five NFL games."
+    alt: "Thanksgiving 2026 TV schedule printable listing the Macy's parade rerun, the live parade on Nov. 28 and five NFL games with times and channels"
 hero:
   src: ../../../../assets/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/thanksgiving-2026-tv-schedule-macys-parade-nfl-games.jpg
-  alt: "Thanksgiving 2026 TV schedule illustration: a Thanksgiving scene with a Nov. 26 date tile and a card for the 100th Macy's parade at 8:30 a.m."
+  alt: "Thanksgiving 2026 TV schedule illustration: a Nov. 26 date tile and a card for the 100th Macy's parade, moved to Saturday, Nov. 28, at 8:30 a.m. ET"
   title: "Thanksgiving 2026 TV schedule"
-  caption: "The 100th Macy's Thanksgiving Day Parade starts at 8:30 a.m. on Thursday, Nov. 26, 2026, and three NFL games follow on CBS, FOX and NBC."
+  caption: "The 100th Macy's Thanksgiving Day Parade moved to Saturday, Nov. 28, 2026; Thursday brings a 2025 rerun and three NFL games on CBS, FOX and NBC."
 summary:
-  - "The 100th Macy's Thanksgiving Day Parade airs Thursday, Nov. 26, 2026, from 8:30 a.m. in all time zones on NBC and Peacock, with a Spanish simulcast on Telemundo."
-  - "The National Football League (NFL) plays its first Thanksgiving Eve game on Wednesday, Nov. 25: Packers at Rams at 8 p.m. Eastern Time (ET) on Netflix."
-  - "Thanksgiving Day has three games: Bears at Lions at 1 p.m. on CBS, Eagles at Cowboys at 4:30 p.m. on FOX and Chiefs at Bills at 8:20 p.m. on NBC."
-  - "Broncos at Steelers closes the week on Black Friday, Nov. 27, at 3 p.m. ET on Prime Video."
+  - "The 100th Macy's Thanksgiving Day Parade moved to Saturday, Nov. 28, 2026, at 8:30 a.m. ET on NBC and Peacock, because of a High Wind Warning for New York City on Thursday."
+  - "On Thursday, Nov. 26, NBC airs a rerun of the 2025 parade at 8:30 a.m. in all time zones; the National Dog Show follows from noon to 2 p.m. local time."
+  - "The NFL plays its first Thanksgiving Eve game on Wednesday, Nov. 25: Packers at Rams at 8 p.m. ET on Netflix."
+  - "Thanksgiving Day still has three games: Bears at Lions at 1 p.m. on CBS, Eagles at Cowboys at 4:30 p.m. on FOX and Chiefs at Bills at 8:20 p.m. on NBC; Broncos at Steelers closes the week Friday, Nov. 27, at 3 p.m. ET on Prime Video."
 faq:
   - q: "What time does the Macy's Thanksgiving Day Parade start in 2026?"
-    a: "At 8:30 a.m. on Thursday, Nov. 26, 2026, in all time zones, according to Macy's. Viewers on the West Coast see the broadcast at 8:30 a.m. Pacific Time, after the parade has finished in New York."
+    a: "At 8:30 a.m. ET on Saturday, Nov. 28, 2026. The parade was moved from Thursday, and NBC Insider lists 8:30 a.m. in the Eastern, Central and Mountain time zones. Pacific viewers should check local listings, because the sources do not agree on that time."
+  - q: "Is the Macy's parade on TV on Thanksgiving Day 2026?"
+    a: "Only as a rerun. NBCUniversal says NBC telecasts the 2025 parade on Thursday at 8:30 a.m. in all time zones, and NBC Insider says it is also on Peacock. The live 100th parade is Saturday."
+  - q: "Why was the Macy's parade moved to Saturday?"
+    a: "The National Weather Service office in Upton, N.Y., issued a High Wind Warning for New York City from 10 a.m. Thursday to 1 a.m. Friday. Macy's said in a statement, reported by NBC News, that the safety of participants and spectators is its top priority. A Macy's spokesperson told the Associated Press (AP) it is the first postponement of the event."
   - q: "What channel is the Macy's parade on?"
-    a: "NBC, with a live stream on Peacock and a Spanish-language broadcast on Telemundo."
+    a: "NBC, with a live stream on Peacock. NBC Insider says Telemundo simulcasts it in Spanish."
   - q: "Why is 2026 the 100th Macy's parade if it started in 1924?"
     a: "The parade did not march in 1942, 1943 and 1944, during World War II, so the 2026 parade is the 100th one held."
   - q: "What NFL games are on Thanksgiving 2026?"
@@ -55,7 +61,9 @@ faq:
   - q: "Is there an NFL game on Thanksgiving Eve?"
     a: "Yes, for the first time. The Green Bay Packers play the Los Angeles Rams at SoFi Stadium on Wednesday, Nov. 25, at 8 p.m. ET, streaming on Netflix."
   - q: "Who is hosting the Macy's parade broadcast in 2026?"
-    a: "NBCUniversal says Today show's Savannah Guthrie, Hoda Kotb and Al Roker return as hosts. NBC airs an encore at 2 p.m. ET/PT."
+    a: "NBCUniversal announced on Nov. 13, before the move, that Today show's Savannah Guthrie, Hoda Kotb and Al Roker return as hosts. Telemundo's Saturday hosts are not yet announced."
+  - q: "Is the National Dog Show still on Thanksgiving?"
+    a: "Yes. NBCUniversal lists it for Thursday, Nov. 26, from noon to 2 p.m. on NBC, simulcast on Peacock. It now follows the 2025 parade rerun."
 sources:
   - title: "Macy's Kicks Off the 100-Day Countdown to the 100th Macy's Thanksgiving Day Parade"
     url: "https://www.macysinc.com/newsroom/news/news-details/2026/Macys-Kicks-Off-the-100-Day-Countdown-to-the-100th-Macys-Thanksgiving-Day-Parade/default.aspx"
@@ -78,6 +86,33 @@ sources:
     url: "https://www.nbcuniversal.com/article/100th-macys-thanksgiving-day-parade-returns-live-nbc-and-peacock-nov-26-bringing-holiday-magic-life"
     publisher: "NBCUniversal"
     date: "2026-11-25"
+  - title: "Macy's Thanksgiving Day Parade moves to Saturday, Nov. 28 (NBCUniversal newsroom)"
+    url: "https://www.nbcuniversal.com/article/100th-macys-thanksgiving-day-parade-returns-live-nbc-and-peacock-nov-26-bringing-holiday-magic-life"
+    publisher: "NBCUniversal"
+    date: "2026-11-25"
+  - title: "Everything to Know About the 2026 Macy's Thanksgiving Day Parade"
+    url: "https://www.nbc.com/nbc-insider/2026-macys-thanksgiving-day-parade-everything-to-know"
+    publisher: "NBC Insider"
+    date: "2026-11-25"
+  - title: "Macy's Thanksgiving Day Parade is pushed back to Saturday due to weather"
+    url: "https://www.nbcnews.com/news/us-news/macys-thanksgiving-day-parade-weather-delay-rcna611355"
+    publisher: "NBC News"
+    date: "2026-11-25"
+  - title: "Macy's postpones Thanksgiving Day Parade due to severe weather"
+    url: "https://www.cnbc.com/2026/11/25/macys-thanksgiving-day-parade-postponed.html"
+    publisher: "CNBC"
+    date: "2026-11-25"
+  - title: "Macy's announces Thanksgiving Day Parade postponed to Saturday due to expected bad weather"
+    url: "https://www.opb.org/article/2026/11/25/macys-announces-thanksgiving-day-parade-postponed-to-saturday-due-to-expected-bad-weather/"
+    publisher: "The Associated Press via OPB"
+    date: "2026-11-25"
+  - title: "High Wind Warning, New York office"
+    url: "https://forecast.weather.gov/wwamap/wwatxtget.php?cwa=OKX&wwa=all"
+    publisher: "National Weather Service"
+    date: "2026-11-25"
+  - title: "NBC Announces Full 2026 Holiday Programming Lineup"
+    url: "https://www.nbcuniversal.com/article/nbc-announces-full-2026-holiday-programming-lineup"
+    publisher: "NBCUniversal"
   - title: "Let's Talk Turkey: A Consumer Guide to Safely Roasting a Turkey"
     url: "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/lets-talk-turkey-roasting"
     publisher: "USDA Food Safety and Inspection Service"
@@ -112,26 +147,26 @@ downloads:
 draft: false
 ---
 
-**The 100th Macy's Thanksgiving Day Parade airs on Thursday, Nov. 26, 2026, starting at 8:30 a.m. in all time zones on NBC and Peacock.** Telemundo carries it in Spanish. Around it, the National Football League (NFL) has packed five games into three days, including its first game on Thanksgiving Eve.
+**The 100th Macy's Thanksgiving Day Parade moved to Saturday, Nov. 28, 2026, at 8:30 a.m. Eastern Time (ET), live on NBC and Peacock, NBCUniversal said on Nov. 25.** The move follows a High Wind Warning for New York City on Thursday. On Thursday, Nov. 26, NBC airs a rerun of the 2025 parade at 8:30 a.m. in all time zones. The National Football League (NFL) still plays five games in three days, including its first game on Thanksgiving Eve.
 
-Here is the whole week in one place, with channels and start times in Eastern Time (ET).
+Here is the whole week in one place, with channels and start times in ET unless noted. NBC News, Consumer News and Business Channel (CNBC) and the Associated Press (AP) all report the Saturday 8:30 a.m. ET start.
 
 ## Thanksgiving week 2026 on TV, at a glance
 
 | When (ET) | What | Where to watch |
 |---|---|---|
 | Wed., Nov. 25, 8 p.m. | Packers at Rams | Netflix |
-| Thu., Nov. 26, 8:30 a.m. local time | 100th Macy's Thanksgiving Day Parade | NBC, Peacock, Telemundo |
+| Thu., Nov. 26, 8:30 a.m. local time | Rerun of the 2025 Macy's parade | NBC, Peacock |
+| Thu., Nov. 26, noon-2 p.m. local time | National Dog Show | NBC, Peacock |
 | Thu., Nov. 26, 1 p.m. | Bears at Lions | CBS, Paramount+, NFL+ |
 | Thu., Nov. 26, 4:30 p.m. | Eagles at Cowboys | FOX, FOX One, NFL+ |
 | Thu., Nov. 26, 8:20 p.m. | Chiefs at Bills | NBC, Peacock, NFL+ |
 | Fri., Nov. 27, 3 p.m. | Broncos at Steelers | Prime Video |
-
-![Thanksgiving week 2026 viewing timeline from Wednesday night to Black Friday: Packers at Rams, the 100th Macy's parade, three Thursday NFL games and Broncos at Steelers](../../../../assets/news/thanksgiving-2026-tv-schedule-macys-parade-nfl-games/thanksgiving-2026-tv-timeline.png "Thanksgiving week 2026 viewing timeline")
-
-*From the Wednesday night game to Black Friday afternoon. Times are Eastern; the parade airs at 8:30 a.m. local time everywhere.*
+| Sat., Nov. 28, 8:30 a.m. | Live 100th Macy's Thanksgiving Day Parade | NBC, Peacock, Telemundo |
 
 ## The 100th Macy's Thanksgiving Day Parade
+
+Macy's moved the parade after the National Weather Service office in Upton, N.Y., issued a High Wind Warning for New York City from 10 a.m. Thursday to 1 a.m. Friday. "The safety of our participants and spectators is our top priority," Macy's said in a statement, NBC News reported. A Macy's spokesperson told the AP, as carried by Oregon Public Broadcasting (OPB), that it is the first time the event has been postponed. Whether balloons fly Saturday has not been announced, and the Saturday broadcast end time is not yet announced.
 
 The first Macy's parade marched in 1924. It was called off in 1942, 1943 and 1944, during World War II, which is why the 2026 parade is the 100th, not the 103rd. Macy's calls it a once-in-a-century milestone and has promised a record lineup of 100 inflatable elements.
 
@@ -146,15 +181,15 @@ Macy's has named these for the 100th parade so far:
 
 ### Time zones
 
-The broadcast starts at 8:30 a.m. in every time zone. In Chicago that is 8:30 a.m. Central Time, and in Los Angeles 8:30 a.m. Pacific Time. Viewers outside the East see a delayed broadcast, so the live parade in Manhattan has long finished by the time it airs on the West Coast.
+On Saturday, Nov. 28, NBC Insider says the parade starts at 8:30 a.m. on NBC and Peacock in the Eastern, Central and Mountain time zones. Sources disagree on the Pacific time, so check local listings. On Thursday, Nov. 26, NBCUniversal says NBC telecasts the 2025 parade at 8:30 a.m. in all time zones.
 
 ### Hosts and performers
 
-NBCUniversal announced on Nov. 13 that Today show's Savannah Guthrie, Hoda Kotb and Al Roker return as hosts. NBC airs an encore at 2 p.m. ET/PT. Telemundo also airs the parade live.
+NBCUniversal announced on Nov. 13, before the move, that Today show's Savannah Guthrie, Hoda Kotb and Al Roker return as hosts. NBC Insider says Telemundo simulcasts the parade in Spanish; its Saturday hosts are not yet announced.
 
-NBCUniversal's Nov. 23 programming guide says Raye, joined by her sisters Amma & Absolutely, delivers the opening number. Megan Moroney, Teddy Swims and the Radio City Rockettes also perform, along with a Broadway celebration with casts and performers from nine shows: The Book of Mormon, Chicago, Disney's Aladdin, Hamilton, The Lost Boys, Rent, Richard O'Brien's The Rocky Horror Show, Schmigadoon! and Wicked. Float performers include Baha Men, Natasha Bedingfield, Blues Traveler, Devo, Feid, Icona Pop, Il Volo, Indigo Girls, Jimmy Fallon & The Roots, JoJo, Queen Latifah, Natalie Merchant, Leslie Odom Jr., Keke Palmer, Anthony Ramos and Smash Mouth. Megan Hilty appears among the special guests.
+NBCUniversal's Nov. 23 programming guide, published before the move, says Raye, joined by her sisters Amma & Absolutely, delivers the opening number. Megan Moroney, Teddy Swims and the Radio City Rockettes also perform, along with a Broadway celebration with casts and performers from nine shows: The Book of Mormon, Chicago, Disney's Aladdin, Hamilton, The Lost Boys, Rent, Richard O'Brien's The Rocky Horror Show, Schmigadoon! and Wicked. Float performers include Baha Men, Natasha Bedingfield, Blues Traveler, Devo, Feid, Icona Pop, Il Volo, Indigo Girls, Jimmy Fallon & The Roots, JoJo, Queen Latifah, Natalie Merchant, Leslie Odom Jr., Keke Palmer, Anthony Ramos and Smash Mouth. Megan Hilty appears among the special guests.
 
-The route runs 2.5 miles from Manhattan's Upper West Side to Macy's Herald Square, according to NBCUniversal. Two other NBC programs lead into the day:
+The route runs 2.5 miles from Manhattan's Upper West Side to Macy's Herald Square, according to NBCUniversal. Two other NBC programs came before the original date:
 
 - **America's Parade: 100 Years of Macy's Thanksgiving Day Parade**, a documentary, aired Fri., Nov. 20 at 9 p.m. ET/PT on NBC and is now streaming on Peacock.
 - **Countdown to Macy's Thanksgiving Day Parade**, hosted by Jack McBrayer, airs live Wed., Nov. 25 at 8 p.m. ET on NBC, with a live simulcast on Peacock.
@@ -163,7 +198,7 @@ The route runs 2.5 miles from Manhattan's Upper West Side to Macy's Herald Squar
 
 ### Wednesday, Nov. 25: the first Thanksgiving Eve game
 
-The Green Bay Packers visit the Los Angeles Rams at SoFi Stadium at 8 p.m. ET, streaming on Netflix. NFL.com calls it the league's inaugural Thanksgiving Eve game. In Los Angeles, kickoff is 5 p.m. Pacific Time. U2 will headline the halftime show, the NFL says, in a performance produced by Jesse Collins Entertainment.
+The NFL games are unchanged by the parade move. The Green Bay Packers visit the Los Angeles Rams at SoFi Stadium at 8 p.m. ET, streaming on Netflix. NFL.com calls it the league's inaugural Thanksgiving Eve game. In Los Angeles, kickoff is 5 p.m. Pacific Time. U2 will headline the halftime show, the NFL says, in a performance produced by Jesse Collins Entertainment.
 
 ### Thursday, Nov. 26: the tripleheader
 
@@ -177,15 +212,19 @@ All three also stream on NFL+, and each one on its network's own service: Paramo
 
 The Denver Broncos play the Pittsburgh Steelers at Acrisure Stadium at 3 p.m. ET on Prime Video. It is the league's fourth Black Friday game.
 
+## National Dog Show on Thursday
+
+NBCUniversal lists the National Dog Show for Thursday, Nov. 26, from noon to 2 p.m. local time on NBC, simulcast on Peacock. With the parade moved, it now follows the 2025 parade rerun.
+
 ## The other 100th parade: Detroit
 
 Detroit's America's Thanksgiving Parade also marks its 100th edition this year. The State of Michigan's event listing puts the step-off at 8:45 a.m. on Thursday, Nov. 26, at Kirby Street and Woodward Avenue. The route runs about three miles down Woodward Avenue. WDIV, the NBC station in Detroit, says its coverage starts at 6 a.m., with a parade preview from 8 to 9 a.m. and the parade broadcast from 9 a.m. to noon. It also streams on Local 4+, and the parade is syndicated to 185 markets, so check local listings.
 
 ## Plan the day around the TV
 
-A few things that line up with the broadcasts:
+A few things that line up with the broadcasts. Saturday's street closures, viewing spots and balloon inflation viewing are not yet announced; Thursday's logistics do not carry over.
 
-- **The turkey.** The U.S. Department of Agriculture (USDA) roasting chart gives 4 1/2 to 5 hours at 325°F for an unstuffed 20 to 24 lb turkey, so for an early afternoon dinner the bird goes in the oven while the parade is on. Our [turkey thawing schedule](/news/when-to-thaw-thanksgiving-turkey-2026/) has the dates to move it to the refrigerator, starting Saturday, Nov. 21 for the largest birds.
+- **The turkey.** The U.S. Department of Agriculture (USDA) roasting chart gives 4 1/2 to 5 hours at 325°F for an unstuffed 20 to 24 lb turkey, so for an early afternoon dinner the bird goes in the oven in the morning. Our [turkey thawing schedule](/news/when-to-thaw-thanksgiving-turkey-2026/) has the dates to move it to the refrigerator, starting Saturday, Nov. 21 for the largest birds.
 - **Shopping.** Most large retailers stay closed on Thanksgiving Day and open early on Friday. The [Black Friday 2026 store hours](/news/black-friday-2026-store-hours-walmart-target-best-buy/) story lists opening times, which matter if you want to be home for the 3 p.m. game.
 - **Why the 26th.** Thanksgiving falls on the fourth Thursday of November by federal law. Our explainer on [why Thanksgiving 2026 is Nov. 26](/news/why-thanksgiving-2026-is-november-26/) covers the history and the travel days.
 
