@@ -68,7 +68,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston, botanical-garden-holiday-lights-2026-dates-nybg-atlanta-longwood-denver-brooklyn, christmas-tree-lightings-2026-dates-times-nyc-dc-boston]
+related: [zoo-lights-2026-dates-national-zoo-bronx-lincoln-park-la-denver-houston, botanical-garden-holiday-lights-2026-dates-nybg-atlanta-longwood-denver-brooklyn, leavenworth-christmastown-2026-village-of-lights-events-schedule]
 downloads:
   - group: "Temple Square Christmas 2026 Season Guide printables"
     title: "Temple Square Christmas 2026 Season Guide"

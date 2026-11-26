@@ -84,7 +84,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [cpkc-holiday-train-2026-schedule-stops-times, christmas-2026-transit-schedules-by-city, christkindlmarket-chicago-2026-dates-hours-wrigleyville-aurora-mugs]
+related: [cpkc-holiday-train-2026-schedule-stops-times, christmas-2026-transit-schedules-by-city, caltrain-holiday-train-2026-schedule-stops-times]
 downloads:
   - group: "CTA Holiday Train and Bus 2026 Date Sheet printables"
     title: "CTA Holiday Train and Bus 2026 Date Sheet, Nov. 27 to Dec. 22"
