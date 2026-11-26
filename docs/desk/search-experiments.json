@@ -139,6 +139,16 @@
       "slug": "baltimore-county-public-schools-calendar-2026-27-breaks",
       "changedAt": "2026-11-24",
       "what": "title: \"BCPS Calendar 2026-27: Winter Break Dec. 24-Jan. 1, Last Day June 17\" → \"Baltimore County BCPS Calendar 2026-27: Winter Break Dec. 24-Jan. 1\"; Broward County pointer sentence at the end of the first paragraph"
+    },
+    {
+      "slug": "howard-county-public-schools-calendar-2026-27-breaks",
+      "changedAt": "2026-11-26",
+      "what": "title: \"HCPSS Calendar 2026-27: Winter Break Dec. 24-Jan. 1, Last Day June 8\" → \"HCPSS Calendar 2026-27: Printable PDF, Winter Break Dec. 24-Jan. 1\"; description and lede name the printable PDF"
+    },
+    {
+      "slug": "netflix-christmas-movies-2026-release-dates-holiday-watch-list",
+      "changedAt": "2026-11-26",
+      "what": "title: \"Netflix Christmas Movies 2026: 32 Holiday Titles Dated Nov. 1-28\" → \"Netflix Christmas Movies 2026: Every Release Date, Nov. 1 to Dec. 2\"; description, lede and summary"
     }
   ]
 }
