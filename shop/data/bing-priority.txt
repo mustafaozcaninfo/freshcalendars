@@ -5,6 +5,21 @@
 # and dearest first (the commission is a share of the price). Paths already submitted are skipped
 # by the script, so this file needs no pruning; rewrite it when the priorities change.
 # Nov. 26, 2026: the Christmas gift listing pages and their products lead (toys first, dearest first); the Nov. 25 list follows.
+/articles/family-wall-calendars
+/articles/large-grid-wall-calendars
+/articles/best-fishing-advent-calendars
+/categories/family-wall-calendars
+/products/wild-harmony-family-wall-calendar-2027-16-month-12-x-12-in
+/products/tf-publishing-moms-manager-family-calendar-2027-7-members
+/products/moms-magnetic-family-fridge-calendar-2027-12-month
+/products/family-wall-calendar-2027-15-month-14-6-x-19-7-in-600-stickers
+/products/moms-manager-family-wall-calendar-2027-12-x-24-in-open
+/products/sunee-moms-family-fridge-calendar-2027-15-month-5-people
+/products/busy-family-wall-calendar-2027-12-x-14-in-12-month
+/products/sunee-wall-calendar-2027-18-month-22-75-x-15-5-in
+/products/sunee-wall-calendar-2026-2027-18-month-seasons-color
+/products/large-wall-calendar-2027-12-x-17-in-12-month-12-themes
+/products/2027-wall-calendar-12-month-14-7-x-23-2-in-open-12-themes
 /categories/christmas-gifts
 /categories/wooden-train-sets
 /categories/kids-roller-skates

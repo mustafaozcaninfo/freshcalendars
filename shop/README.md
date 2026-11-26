@@ -433,3 +433,27 @@ Six buying questions asked by hand in ChatGPT (five in temporary chat, US stated
 What it shows: we are linked where the question names a narrow kind that we have a category and several product pages for, and a product two days old already appears. We are absent where the question is broad (ChatGPT links Amazon directly and big magazines) and where a maker's own site answers it. The search queries behind an answer are not visible in the page; a fan-out extension would be needed for that.
 
 **Correction from the fan-out export of the wall calendar answer (owner's extension, same day).** The link count above only sees links printed in the answer. The export shows ChatGPT ran one web search, "best 2027 large wall calendars family of five big writing boxes 18x24 5 column family organizer review product", then one image search per product it chose ("Amy Knapp Big Grid Family Organizer 2027 wall calendar"). Of 23 cited pages, 5 were ours, at ranks 2, 3 and 4 (`/articles/best-wall-calendars`, `/articles/guasslee-wall-calendar-review`, `/articles/best-family-planners`) and 18 and 19 (the Amy Knapp product page, `/articles/how-to-organize-a-family-calendar`). Rank 1 was a page titled "Best Family Wall Calendars for 2027, by Family Type", and the chat took that title. So we were read and not linked: the printed links went to each maker's own site (More Time Moms, Home and Kind, Sourcebooks), Barnes & Noble and plain Amazon search URLs. No shopping search and no product carousel ran. Two readings to test, from one answer only: a page whose title matches the question's kind wins the top slot, and a product with a maker site gets the maker's link while a product sold only on Amazon (the slime calendars) gets ours.
+
+### Guide test: does a guide named like the question win the answer? (started Nov. 26, 2026)
+
+**Where ChatGPT lands, last 14 days** (`chatgpt_landings.py`): products 1,519 sessions on 660 of about 5,400 pages (0.28 a page), guides 206 on 52 of 223 (0.92 a page), categories 187 on 77 of about 200 (0.9 a page). Volume comes from product pages; a guide or category earns about three times a product page. Reading: the guide and the category catch the question ("best + kind + for whom"), the product page takes the click when ChatGPT then looks the product up by name.
+
+**What the fan-out showed about the lost wall calendar question:** our family wall calendar guide was written but scheduled for Dec. 2, so it was not live; ChatGPT read three other guides of ours and linked the makers. 24 written guides were waiting on their schedule that day (`.cache/shop/report/articles-state.json`).
+
+**Hypothesis.** For a kind with a category, a guide whose title is the question's own words and 5 or more product pages (Amazon-only makers first), ChatGPT uses the guide as the source and links our pages.
+
+**Treated on Nov. 26, about 19:20 UTC:**
+
+| Kind | What changed | Before (prompt panel) |
+|---|---|---|
+| Family wall calendars | new category `/categories/family-wall-calendars` (231), 7 new product pages (11 with four large-grid ones moved to wall calendars), guide `/articles/family-wall-calendars` rewritten as "Best Family Wall Calendars 2027: ..." and published instead of Dec. 2 | read at ranks 2 to 4, no link printed |
+| Large wall calendars, big boxes | guide `/articles/large-grid-wall-calendars` retitled "Large Wall Calendars With Big Boxes 2027: 9 Picks by Open Size", prices rechecked, one out-of-stock pick removed, published instead of Dec. 1 | same question, no link printed |
+| Fishing advent calendars | new guide `/articles/best-fishing-advent-calendars` (12 sets by cost per day), linked from the category | 2 of 6 linked hosts |
+
+**Controls (no guide, same age):** slime, golf, squishy and dinosaur advent calendars (categories opened Nov. 24 to 25). Slime already won 6 of 7 links without a guide.
+
+**Not done on purpose:** "stocking stuffers for teen boys under $20". The research found what buyers expect (power banks, jerky, puzzle cubes, lip balm) and our 68 stocking stuffers at $20 or less are party favors and kids' crafts, so there are not 6 products that fit. It needs products by ASIN first.
+
+**Is it the homepage?** None of the three guides is linked from the homepage; they are reachable from their category text, related guides and the sitemap only. If ChatGPT cites them within the two to five days new product pages took, the homepage is not the path. The Cloudflare view that would show whether OAI-SearchBot reads the sitemap needs the owner signed in to Cloudflare in the browser pane (the session had expired on Nov. 26).
+
+**Readout (Nov. 29 and Dec. 2):** ask the same three questions again in ChatGPT with the owner's fan-out export: (1) is the treated guide in the citations and at what rank, (2) does a printed link go to our pages, (3) for controls, the same two numbers. Then `chatgpt_landings.py` sessions on the three guides and on the products they list, against the control kinds. Decide: if two of three treated kinds gain a cited guide and a printed link and controls do not move, write guides for the other new kinds in the order of their ChatGPT sessions and publish the 22 waiting guides sooner; if not, keep the schedule and put the effort into Amazon-only product kinds.

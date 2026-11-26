@@ -24,6 +24,7 @@ PRINT = {
     'christmas-countdown-calendars': ('https://freshcalendars.com/december-calendars.html', 'A free {a}December calendar</a> shows the same countdown on paper.'),
     'christmas-planners-and-organizers': ('https://freshcalendars.com/december-calendars.html', 'Pair it with a free {a}December calendar</a> for the dates that cannot move.'),
     'wall-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> shows the same twelve months on one sheet.'),
+    'family-wall-calendars': ('https://freshcalendars.com/monthly-calendars/', 'Free {a}printable monthly calendars</a> give each person a sheet of their own beside the shared one.'),
     'desk-calendars': ('https://freshcalendars.com/monthly-calendars/', 'Free {a}printable monthly calendars</a> cover the same months on Letter or A4 paper.'),
     'dry-erase-calendars': ('https://freshcalendars.com/printable-yearly-calendar.html', 'A free {a}printable yearly calendar</a> gives a paper copy of the same year.'),
     # Clocks and digital calendars (Nov. 21, 2026)
