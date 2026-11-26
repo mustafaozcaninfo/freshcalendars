@@ -100,7 +100,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/ca-christmas-day/"
     label: "When is Christmas Day in Canada?"
-related: [cta-holiday-train-2026-schedule-lines-dates, polar-express-train-ride-2026-locations-by-state, christmas-parades-2026-us-cities-dates-times-routes]
+related: [cta-holiday-train-2026-schedule-lines-dates, polar-express-train-ride-2026-locations-by-state, caltrain-holiday-train-2026-schedule-stops-times]
 downloads:
   - group: "CPKC Holiday Train 2026 Schedule printables"
     title: "CPKC Holiday Train 2026 Schedule: 22 Big-City Stops"

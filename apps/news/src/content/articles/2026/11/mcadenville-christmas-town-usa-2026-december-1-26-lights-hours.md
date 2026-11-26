@@ -46,7 +46,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/when-is/christmas/"
     label: "When is Christmas?"
-related: [drive-thru-christmas-lights-2026-by-state, christmas-tree-lightings-2026-dates-times-nyc-dc-boston, christmas-parades-2026-us-cities-dates-times-routes]
+related: [drive-thru-christmas-lights-2026-by-state, christmas-tree-lightings-2026-dates-times-nyc-dc-boston, leavenworth-christmastown-2026-village-of-lights-events-schedule]
 downloads:
   - group: "McAdenville Christmas Town USA 2026 Season Guide printables"
     title: "McAdenville Christmas Town USA 2026 Season Guide"
