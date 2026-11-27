@@ -688,6 +688,11 @@ export const PUZZLE_HEROES: [string, string, string, string, string, string, str
   ["nyt-pips-hints-answers-december-8-2026", "pips", "#1e293b", "#86efac", "Pips · Tue., Dec. 8, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-december-8-a"],
   ["nyt-spelling-bee-hints-answers-december-8-2026", "bee", "#1c1917", "#c4b5fd", "Spelling Bee · Tue., Dec. 8, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end.", "nyt-bee-december-8-a"],
   ["contexto-answer-hints-december-2-2026-1536", "contexto", "#0f172a", "#f9a8d4", "Contexto #1536 · Wed., Dec. 2, 2026", "Contexto hints", "Close words and hints first, the secret word only at the end.", "contexto-december-2-a"],
+  ["wordle-hint-answer-today-december-9-2026-1999", "wordle", "#121213", "#c9b458", "Wordle #1999 · Wed., Dec. 9, 2026", "Wordle hints today", "Clues from gentle to strong, the answer only at the end.", "wordle-december-9-a"],
+  ["nyt-connections-hints-answers-december-9-2026-1277", "connections", "#2a1f12", "#a0c35a", "Connections #1277 · Wed., Dec. 9, 2026", "Connections hints", "Two hints for every group first, answers only at the end.", "nyt-connections-december-9-a"],
+  ["nyt-strands-hints-answers-december-9-2026-1011", "strands", "#0f2f3a", "#f9a8d4", "Strands #1011 · Wed., Dec. 9, 2026", "Strands hints today", "Spangram and theme-word hints first, answers at the end.", "nyt-strands-december-9-a"],
+  ["nyt-pips-hints-answers-december-9-2026", "pips", "#1e293b", "#fdba74", "Pips · Wed., Dec. 9, 2026", "Pips hints today", "Hints for Easy, Medium and Hard, placements at the end.", "nyt-pips-december-9-a"],
+  ["nyt-spelling-bee-hints-answers-december-9-2026", "bee", "#1c1917", "#93c5fd", "Spelling Bee · Wed., Dec. 9, 2026", "Spelling Bee hints", "Hint grid and two-letter list first, the word list at the end.", "nyt-bee-december-9-a"],
 ];
 
 export async function buildHeroes5(only?: string): Promise<void> {
