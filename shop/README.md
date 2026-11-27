@@ -430,7 +430,24 @@ Working explanation, from OpenAI's own pages, press reports and one live questio
 
 - **Putting "Amazon" in our titles would not help (checked Nov. 27).** Asked "best fillable advent calendars on Amazon... links to buy" from a US temporary chat: all six links went to amazon.com search pages ("Buy on Amazon"), none to us. A shopper who names Amazon is sent to Amazon; we win the shopper who names no store. Our product pages already say Amazon about 12 times in the body ("$13.99 at Amazon", "See it at Amazon"); the title, meta description and JSON-LD do not, and stay that way.
 
-Next moves this suggests: (1) pick new kinds by "Amazon-native brands, no big-retailer page", in any subject, and test one such kind far from calendars; (2) link every new product from an article or category the bot already revisits; (3) keep price and stock current, since ChatGPT prints our price.
+- **Ten-question scan (Nov. 27, US temporary chats, "Where can I buy a ...? Show me a few to buy, with links", no store named).** One run each, so read it as a direction.
+
+  | Question | Buy links went to |
+  |---|---|
+  | magnetic chore chart for kids (ours since this morning) | Target 2, Etsy 2, Melissa & Doug 1, **us 1** |
+  | wooden countdown blocks (ours since this morning) | Etsy 4, eBay 1, **us 1** |
+  | Ramadan countdown calendar for kids (ours since this morning) | Etsy 4, Michaels 1, a maker site 1 |
+  | clear acrylic dry erase fridge calendar | Walmart 3, Wayfair 1 |
+  | day clock for an elderly parent (general) | Walmart 4 |
+  | day clock, 12 inch or larger, medication alarms, remote, under $80 | **us 2**, ibspot.com 1 (another Amazon reseller) |
+  | undated daily planner with hourly blocks | Amazon search 4, Clever Fox 1 |
+  | cable management box | Best Buy 2, a maker site 2 |
+  | bamboo drawer organizer | Home Depot 4, a maker site 1 |
+  | baby monthly milestone blocks | Etsy 3, Target 2 |
+
+  What it shows: (1) a general question goes to Walmart, Target, Etsy, Home Depot or Best Buy, whose marketplaces carry the same Amazon-native brands on pages ChatGPT can read; "only on Amazon" is rarer than assumed. (2) The same kind asked with sizes, features and a price cap went to us: the big stores' pages do not answer the details and our spec tables do. This fits the Clarity data, 937 landing pages at about two sessions each: we win the long tail of detailed questions, not the head. (3) Two of the kinds opened this morning already earned a link within hours. (4) Kinds far from the shop (cables, kitchen, baby) gave us nothing to stand on; they stay closed.
+
+Next moves this suggests: (1) pick new kinds by "Amazon-native brands, no big-retailer page", in any subject, and test one such kind far from calendars; (2) link every new product from an article or category the bot already revisits; (3) keep price and stock current, since ChatGPT prints our price; (4) write every product page so it answers a detailed question: sizes, counts, features and price in the title, the first lines and the spec table.
 
 ### Evergreen kinds test: does it work outside advent calendars? (started Nov. 27, 2026)
 
