@@ -493,6 +493,16 @@ Two kinds are in on purpose as predicted losses: if the pre-screen predicts the 
 - Whole shop, same window: ChatGPT-User made 454 product requests on 410 pages (371 on 346 pages in the read of this morning).
 - Clarity, Nov. 27 read at about 20:25 UTC (dashboard, date Today, URL regex on the new kinds' slug words): 3 sessions touched the new pages, 2 on Mobile Safari and 1 on Chrome, one of them from Google and none marked as coming from ChatGPT. Pages seen: four of the five new category pages once each and one new product (the Pigpotparty acrylic chore chart). The Chrome session may be our own live check. So no ChatGPT visitor yet on day one. Hashes of the pages read are in `.cache/shop/evergreen/read-2026-11-27.json`.
 
+### First batch chosen with the Creators API: clocks, timers and digital calendars (live Nov. 28, 2026)
+
+Why this kind: in the ten-question scan a general day clock question went to Walmart and the same question with a screen size, alarms, a remote and a price cap went to us. The API lets us pick products by those details and write the measured facts.
+
+- **Found** with 17 `searchItems` queries (3 pages each, `minReviewsRating=4`), phrased as a shopper's detailed question ("digital calendar clock 12 inch remote control", "talking day clock for visually impaired", "large visual timer classroom magnetic"). 297 listings came back; 109 were already in the shop, 35 shared a parent ASIN with another result, 11 had no stock or price, 9 were dropped by hand (kitchen timers, a shower timer, two repeats). Scripts: `.cache/shop/api1/pull.py`, `groups.py`.
+- **Imported** by ASIN with `POST products/import-links` (body `{"links": ["https://www.amazon.com/dp/<ASIN>", ...], "categories": [id]}`; the answer counts importing, duplicates and failed). 123 of 125 arrived; the import takes five to eight minutes for a hundred, so scan until the count stops rising twice.
+- **Written** by six Sonnet writers from the listing plus one added line of Amazon product details (brand, model, measured dimensions, weight, color) so the spec table carries a Model and a Dimensions row. The checker reads `products.json`, not the `in*.json` files: the added line has to be appended to `offers[0].features` there or its numbers fail the check. Brief: `.cache/shop/api1/TASK.md` (title shape: kind, size in inches, the count that matters, one feature; no condition in titles or headings; no health outcome anywhere). 123 of 123 passed.
+- **Live:** 35 visual timers, 31 digital wall calendars, 20 wall clocks, 18 talking clocks, 14 day clocks, 5 alarm clocks. New category Talking Clocks (237, under Clocks and Digital Calendars). All 123 product URLs and the six category URLs went to IndexNow. State: `.cache/shop/api1/state.json`.
+- **Read on Dec. 1 and Dec. 5:** ChatGPT-User and OAI-SearchBot fetches on these 123 against the 248 of the evergreen test and against the older products of the same categories; then ask ChatGPT three detailed questions per kind (US, no store named) and count the links to us.
+
 ### Prompt panel in ChatGPT itself (Nov. 26, 2026)
 
 Six buying questions asked by hand in ChatGPT (five in temporary chat, US stated, "search the web and include links"), then the linked hosts counted. One answer per question, so this is a first read, not a rate.
