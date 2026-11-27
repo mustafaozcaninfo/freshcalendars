@@ -493,6 +493,8 @@ Two kinds are in on purpose as predicted losses: if the pre-screen predicts the 
 - Whole shop, same window: ChatGPT-User made 454 product requests on 410 pages (371 on 346 pages in the read of this morning).
 - Clarity, Nov. 27 read at about 20:25 UTC (dashboard, date Today, URL regex on the new kinds' slug words): 3 sessions touched the new pages, 2 on Mobile Safari and 1 on Chrome, one of them from Google and none marked as coming from ChatGPT. Pages seen: four of the five new category pages once each and one new product (the Pigpotparty acrylic chore chart). The Chrome session may be our own live check. So no ChatGPT visitor yet on day one. Hashes of the pages read are in `.cache/shop/evergreen/read-2026-11-27.json`.
 
+**Traffic read, Nov. 27 at 22:10 UTC.** Clarity, Nov. 27 whole day: 550 shop sessions (517 users), 363 of them from ChatGPT (344 users), Google 83. Cloudflare, last 24 hours: ChatGPT-User made 485 requests on 429 product pages (454 on 410 two hours earlier); of the 248 evergreen products still the same 3, of the 123 API products none yet (two hours old). To filter by crawler in Cloudflare, pick it in the dropdown; a typed `crawler=` URL parameter is dropped on load and the table then counts every bot.
+
 ### First batch chosen with the Creators API: clocks, timers and digital calendars (live Nov. 28, 2026)
 
 Why this kind: in the ten-question scan a general day clock question went to Walmart and the same question with a screen size, alarms, a remote and a price cap went to us. The API lets us pick products by those details and write the measured facts.
