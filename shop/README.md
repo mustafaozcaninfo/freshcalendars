@@ -456,4 +456,19 @@ What it shows: we are linked where the question names a narrow kind that we have
 
 **Is it the homepage?** None of the three guides is linked from the homepage; they are reachable from their category text, related guides and the sitemap only. If ChatGPT cites them within the two to five days new product pages took, the homepage is not the path. The Cloudflare view that would show whether OAI-SearchBot reads the sitemap needs the owner signed in to Cloudflare in the browser pane (the session had expired on Nov. 26).
 
+**Early read, Nov. 27, 2026, about 08:00 UTC (12 to 13 hours after publishing).** Read in the owner's Chrome, where Cloudflare and Clarity are signed in.
+
+| Signal | Family wall | Large grid | Fishing advent | Slime (control) |
+|---|---|---|---|---|
+| Cloudflare, 24 h, paths with the kind's slug: OAI-SearchBot / ChatGPT-User | 4 / 1 (guide 3 requests, category 2, five new products) | 0 / 0 (PerplexityBot once) | 7 / 4 (guide 3) | 0 / 8 |
+| ChatGPT answer, printed links to us | "large, big boxes, family of five": 1 of 4 (`/articles/guasslee-wall-calendar-review`; on Nov. 26 it was 0 and Amazon had 3); "family wall calendar, a column for each person": 0 of 5, all makers and retailers (tfpublishing, qvc, boxcleverpress, calendars.com, simonandschuster) | same answer | not asked again | not asked again |
+| Clarity, visits from ChatGPT on the new guides | 0 | 0 | 0 | |
+
+- **Discovery is not the homepage and not the sitemap.** OpenAI's search crawler read the new family guide, its category and five product pages within 13 hours with no homepage link, and in 24 hours OAI-SearchBot and ChatGPT-User requested no sitemap file (ClaudeBot 46, BingBot 22, Googlebot 9, GPTBot 5 did). The path left is the IndexNow ping and links from pages it already reads.
+- **Being crawled is not being chosen yet.** The family guide was read by the crawler and still did not get a printed link in two answers; the one link we won went to an older single-product review. For branded family calendars ChatGPT keeps linking the maker or a big retailer. The large-grid guide has not been read by OpenAI at all.
+- **Whole shop, Clarity:** 342 ChatGPT sessions on Nov. 26; guides in 24 h of Cloudflare: OAI-SearchBot 203 requests, ChatGPT-User 12.
+- **Freshness test, first read** (ChatGPT-User on `/products/`, 24 h, 346 paths, 371 requests; the window holds about 10 hours from before the change): treated 26 of 145 pages, 27 requests; control 21 of 150, 22 requests. No clear gap.
+- **Title test, first read** (same window, about 12 hours after the change): treated 11 of 150 pages, 13 requests; control 21 of 150, 24 requests. The new meta titles are not ahead; read again on Nov. 29 before deciding, and undo with `title_test.py undo` if the treated group is still behind.
+- **How to read it again:** Cloudflare, AI Crawl Control, Metrics takes filters in the address (`?time-window=1440&path~contains=<text>`); the crawler is chosen in the dropdown. Clarity takes `?date=Yesterday&URL=2;6;<regex>`. The path list of this read is hashed in `.cache/shop/report/cf-chatgpt-user-products-2026-11-27.txt`.
+
 **Readout (Nov. 29 and Dec. 2):** ask the same three questions again in ChatGPT with the owner's fan-out export: (1) is the treated guide in the citations and at what rank, (2) does a printed link go to our pages, (3) for controls, the same two numbers. Then `chatgpt_landings.py` sessions on the three guides and on the products they list, against the control kinds. Decide: if two of three treated kinds gain a cited guide and a printed link and controls do not move, write guides for the other new kinds in the order of their ChatGPT sessions and publish the 22 waiting guides sooner; if not, keep the schedule and put the effort into Amazon-only product kinds.
