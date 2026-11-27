@@ -415,6 +415,38 @@ The owner's goal: understand what makes ChatGPT send visitors to a page well eno
 
 **Search-title test and the news cards (Nov. 26, 2026).** Second test, read out the same way as the freshness test: 300 advent products whose listing states 2026, outside the freshness groups, split at random (`.cache/shop/report/title-test.json`, script `title_test.py` with `run` and `undo`). Treatment, applied about 19:40 UTC: `meta_title` in the shape assistants search for, "<name> 2026: Price, What's Inside" (150 products; the H1 and the text are unchanged, and the page shows both the price and the contents). Control: 150 untouched. On the news site the shop card (`apps/news/src/lib/shop.ts`, 26 stories) pointed at guides, quoted the old counts and ended on Dec. 2; it now points at category pages, quotes 1,600 calendars in 40 kinds, and each campaign can name the next one in `then`: advent cards hand over to `christmas-gifts` on Dec. 3 and that one to `planners-2027` after Dec. 24. The card's links are sponsored and nofollow by the site's rule, so it moves readers, not crawlers.
 
+### Evergreen kinds test: does it work outside advent calendars? (started Nov. 27, 2026)
+
+**What the reports said before choosing.** ChatGPT-User fetches of product pages in 24 hours to Nov. 27, about 08:00 UTC (Cloudflare, 371 requests), per live product: advent calendars 0.13 (1,712 products), daily planners 0.17, digital wall calendars 0.14, day clocks 0.12, boxed Christmas cards 0.26. The 18 Christmas gift kinds of Nov. 25 to 26 (584 products: train sets, roller skates, cologne sets, pickleball, throw blankets and the rest) got **zero** in their first one to two days, while the hobby advent kinds opened the same week were fetched within two days. Working reading: the reach is not "any Amazon product"; it follows what the shop is known for (calendars, countdowns, planning, time), and inside that it follows who else sells the kind.
+
+**Pre-screen in ChatGPT (temporary chat, US, "search the web and include links", one answer each).** Who gets the printed links today:
+
+| Question | Links today | Call |
+|---|---|---|
+| magnetic chore chart for three kids | amazon.com 3, one maker | open: Amazon-only makers |
+| Ramadan countdown calendar for kids | four small sites, no retailer | open: no strong source |
+| visual schedule or routine chart, age 4 | apps and advice pages, no product | open, but ChatGPT read it as advice |
+| countdown blocks for a vacation or retirement | etsy.com 2, one maker (2) | hard: Etsy holds it |
+| classroom calendar pocket chart | learningresources, lakeshorelearning, reallygoodstuff | hard: makers sell direct |
+| family birthday board | etsy.com 5 | not opened |
+| baby first-year calendar | babylist, etsy, one maker | not opened |
+
+**Opened, about 11:40 UTC** (categories 232 to 236; fills by product-kind title, 372 fetched, 331 to six Sonnet writers, 250 passed, 248 live; work files `.cache/shop/evergreen/`, groups in `state.json`):
+
+| Category | Live products | Prediction from the pre-screen |
+|---|---|---|
+| `/categories/chore-charts-for-kids` (232, under Calendars) | 25 | wins links |
+| `/categories/kids-routine-and-reward-charts` (233, under Calendars) | 69 | wins if ChatGPT answers with products at all |
+| `/categories/ramadan-countdown-calendars` (234, under Advent Calendars) | 35 | wins; demand should rise in January (reusable items only, no year in titles; calendars printed for 2026 were rejected) |
+| `/categories/countdown-blocks` (235, under Calendars) | 73 | loses to Etsy |
+| `/categories/classroom-calendar-pocket-charts` (236, under Calendars) | 46 | loses to makers |
+
+Two kinds are in on purpose as predicted losses: if the pre-screen predicts the result, one question in ChatGPT can choose every future kind before any page is written. Controls already live: the 18 gift kinds (outside the shop's subject).
+
+**Discovery split inside the same test.** Every product is linked from its category page; a random half per category (122 products) was also sent to IndexNow with the five category URLs, the other half (126) was not. None of the five kinds is on the homepage. If OAI-SearchBot reads the IndexNow half sooner, the ping is the path; if both halves are read alike, the internal link is.
+
+**Readout, Nov. 29 and Dec. 4:** (1) Cloudflare, ChatGPT-User and OAI-SearchBot on the 248 slugs, per category and per discovery group; (2) the five pre-screen questions again, links to us counted; (3) Clarity sessions from ChatGPT per category. Pass mark, from the line below: a kind that reaches half of advent's fetches per product (about 0.07 a day) within a week. Decide: kinds that pass get more products and a guide; if the predicted winners pass and the predicted losers fail, make the pre-screen the first step of every new kind (add it to Routines).
+
 **What would count as having solved it:** a new family reaches at least half of advent's sessions per product within a week of going live, twice in a row, outside the Christmas season. Until then the working answer is "seasonal gift kinds with full listings, indexed by Bing", not a rule.
 
 ### Prompt panel in ChatGPT itself (Nov. 26, 2026)
