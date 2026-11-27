@@ -483,6 +483,16 @@ Two kinds are in on purpose as predicted losses: if the pre-screen predicts the 
 
 **What would count as having solved it:** a new family reaches at least half of advent's sessions per product within a week of going live, twice in a row, outside the Christmas season. Until then the working answer is "seasonal gift kinds with full listings, indexed by Bing", not a rule.
 
+**First read, Nov. 27 at 20:10 UTC (about 10.7 hours after the start; Cloudflare, last 24 hours).**
+
+- OAI-SearchBot has read 98 of the 248 products (40%), one request each. These are 98 of its 341 product requests on the whole shop in the window.
+- Discovery split: IndexNow group 47 of 122 (39%), link-only group 51 of 126 (40%). No difference so far: the bot finds new products through the category links alone, and IndexNow adds nothing for it.
+- By kind (read / live): routine and reward charts 31/69, countdown blocks 34/73, Ramadan calendars 15/35, pocket charts 12/46, chore charts 6/25.
+- ChatGPT-User has fetched 3 products once each, all countdown blocks (wooden "days until" blocks and two acrylic countdown signs). That is too few and too early to set against the 0.07 pass mark.
+- ChatGPT printed a link to us for chore charts and for countdown blocks in the ten-question scan above, hours after the start.
+- Whole shop, same window: ChatGPT-User made 454 product requests on 410 pages (371 on 346 pages in the read of this morning).
+- Clarity sessions on the new pages: not read yet; the daily export in git predates the start. Hashes of the pages read are in `.cache/shop/evergreen/read-2026-11-27.json`.
+
 ### Prompt panel in ChatGPT itself (Nov. 26, 2026)
 
 Six buying questions asked by hand in ChatGPT (five in temporary chat, US stated, "search the web and include links"), then the linked hosts counted. One answer per question, so this is a first read, not a rate.
