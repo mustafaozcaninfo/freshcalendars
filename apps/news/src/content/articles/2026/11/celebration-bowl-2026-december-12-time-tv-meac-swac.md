@@ -1,6 +1,6 @@
 ---
 title: "Celebration Bowl 2026: Sat., Dec. 12 at Noon ET on ABC in Atlanta"
-description: "The 2026 Celebration Bowl is Sat., Dec. 12 at noon ET on ABC, with South Carolina State in. Kickoff in every U.S. time zone, results since 2015, a printable."
+description: "The 2026 Celebration Bowl is Sat., Dec. 12 at noon ET on ABC, with South Carolina State in. Kickoff in every U.S. time zone, results since 2015, printable."
 type: news
 publishedAt: "2026-11-12T23:20:00-05:00"
 updatedAt: "2026-11-27T13:20:00-05:00"
