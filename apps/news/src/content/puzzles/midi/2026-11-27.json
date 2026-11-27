@@ -1,0 +1,451 @@
+{
+ "title": "Second Helpings",
+ "publicationDate": "2026-11-27",
+ "constructors": [
+  "Ian Livengood"
+ ],
+ "width": 9,
+ "height": 9,
+ "cells": [
+  "A",
+  "B",
+  "B",
+  "Y",
+  null,
+  "J",
+  "E",
+  "T",
+  "S",
+  "L",
+  "O",
+  "C",
+  "O",
+  null,
+  "A",
+  "L",
+  "O",
+  "O",
+  "B",
+  "A",
+  "C",
+  "K",
+  "S",
+  "W",
+  "I",
+  "N",
+  "G",
+  "A",
+  "S",
+  "S",
+  "E",
+  "T",
+  null,
+  "Z",
+  "I",
+  "G",
+  null,
+  null,
+  null,
+  "L",
+  "E",
+  "G",
+  "A",
+  "C",
+  "Y",
+  "B",
+  "R",
+  "A",
+  null,
+  "N",
+  "I",
+  "B",
+  null,
+  null,
+  "L",
+  "E",
+  "F",
+  "T",
+  "O",
+  "V",
+  "E",
+  "R",
+  "S",
+  "O",
+  "A",
+  "R",
+  "S",
+  null,
+  "E",
+  "T",
+  "T",
+  "A",
+  "G",
+  "R",
+  "O",
+  "K",
+  null,
+  "S",
+  "H",
+  "E",
+  "D"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "\"Sesame Street\" character ___ Cadabby",
+   "cells": [
+    0,
+    1,
+    2,
+    3
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "5",
+   "text": "Ones taxiing on a tarmac",
+   "cells": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "Cray cray",
+   "cells": [
+    9,
+    10,
+    11,
+    12
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "___ tikki (Indian snack made with potatoes)",
+   "cells": [
+    14,
+    15,
+    16,
+    17
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Golf coach's concern",
+   "cells": [
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "13",
+   "text": "Plus",
+   "cells": [
+    27,
+    28,
+    29,
+    30,
+    31
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Counterpart of zag",
+   "cells": [
+    33,
+    34,
+    35
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Long-lasting impact of one's life ",
+   "cells": [
+    39,
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Undergarment with cups",
+   "cells": [
+    45,
+    46,
+    47
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Pen point",
+   "cells": [
+    49,
+    50,
+    51
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Thanksgiving trimmings served the next day, e.g. ... like from yesterday's Midi?",
+   "cells": [
+    54,
+    55,
+    56,
+    57,
+    58,
+    59,
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "25",
+   "text": "Propellers on a rowboat",
+   "cells": [
+    63,
+    64,
+    65,
+    66
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "James of jazz",
+   "cells": [
+    68,
+    69,
+    70,
+    71
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "A.I. chatbot on X",
+   "cells": [
+    72,
+    73,
+    74,
+    75
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "28",
+   "text": "Where a lawn mower and leaf blower may be stored",
+   "cells": [
+    77,
+    78,
+    79,
+    80
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Actress/business mogul Jessica",
+   "cells": [
+    0,
+    9,
+    18,
+    27
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Animals that can take your breath away?",
+   "cells": [
+    1,
+    10,
+    19,
+    28
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Secretly loops into an email thread",
+   "cells": [
+    2,
+    11,
+    20,
+    29
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Country bumpkin",
+   "cells": [
+    3,
+    12,
+    21,
+    30,
+    39
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Moose ___, Saskatchewan",
+   "cells": [
+    5,
+    14,
+    23
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Queen in \"The Crown\"",
+   "cells": [
+    6,
+    15,
+    24,
+    33,
+    42,
+    51,
+    60,
+    69,
+    78
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "The \"T\" in a mixologist's G&T",
+   "cells": [
+    7,
+    16,
+    25,
+    34,
+    43
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Like breakfast cereal that's been sitting in milk",
+   "cells": [
+    8,
+    17,
+    26,
+    35,
+    44
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Transcriber in a courtroom",
+   "cells": [
+    22,
+    31,
+    40,
+    49,
+    58
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "16",
+   "text": "\"What ___?\" (\"Can you explain this?\")",
+   "cells": [
+    41,
+    50,
+    59,
+    68,
+    77
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Online journal",
+   "cells": [
+    45,
+    54,
+    63,
+    72
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "Raise, as children",
+   "cells": [
+    46,
+    55,
+    64,
+    73
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "Hairstyle once sported by Pam Grier",
+   "cells": [
+    47,
+    56,
+    65,
+    74
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "22",
+   "text": "Reprimanding cluck",
+   "cells": [
+    57,
+    66,
+    75
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "GPS suggestion: Abbr.",
+   "cells": [
+    61,
+    70,
+    79
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "24",
+   "text": "Feeling like this: 😢",
+   "cells": [
+    62,
+    71,
+    80
+   ]
+  }
+ ]
+}
