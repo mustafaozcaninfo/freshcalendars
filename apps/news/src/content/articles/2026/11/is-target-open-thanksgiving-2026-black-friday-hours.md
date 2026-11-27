@@ -98,7 +98,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/when-is/thanksgiving/"
     label: "When is Thanksgiving?"
-related: [target-black-friday-2026-early-sale-november-5-7-price-match-dates, black-friday-2026-store-hours-walmart-target-best-buy, is-walmart-open-thanksgiving-2026-black-friday-6-am]
+related: [target-black-friday-2026-early-sale-november-5-7-price-match-dates, black-friday-2026-store-hours-walmart-target-best-buy, target-cyber-monday-2026-deals-dates]
 downloads:
   - group: "Target Holiday Store Hours 2026 printables"
     title: "Target Holiday Store Hours 2026: Thanksgiving to New Year's Day"
