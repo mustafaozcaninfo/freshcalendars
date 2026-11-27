@@ -1,6 +1,6 @@
 # Microsoft Clarity (generated, do not edit)
 
-Read 2026-11-26T09:15 UTC from the Clarity Data Export API, last 24 hours (UTC). Sessions are Clarity's; bot sessions are counted apart. Heatmaps and recordings are in the Clarity dashboard. Source: `scripts/news-clarity.mjs`, daily.
+Read 2026-11-27T09:15 UTC from the Clarity Data Export API, last 24 hours (UTC). Sessions are Clarity's; bot sessions are counted apart. Heatmaps and recordings are in the Clarity dashboard. Source: `scripts/news-clarity.mjs`, daily.
 
 ## By page
 
@@ -8,271 +8,271 @@ Read 2026-11-26T09:15 UTC from the Clarity Data Export API, last 24 hours (UTC).
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 324 | 8.95 | 91.05 | 30 | 41 |
-| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 168 | 2.38 | 97.62 | 4 | 5 |
-| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 102 | 2.94 | 97.06 | 3 | 3 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 54 | 7.41 | 92.59 | 4 | 4 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 53 | 13.21 | 86.79 | 7 | 10 |
-| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 36 | 13.89 | 86.11 | 5 | 5 |
-| / | 35 | 0 | 100 | 0 | 0 |
-| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 35 | 14.29 | 85.71 | 5 | 7 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 34 | 14.71 | 85.29 | 5 | 5 |
-| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 28 | 0 | 100 | 0 | 0 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 23 | 8.70 | 91.30 | 3 | 5 |
-| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 22 | 0 | 100 | 0 | 0 |
-| /news/nyt-strands-hints-answers-november-26-2026-998/ | 21 | 4.76 | 95.24 | 1 | 1 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 20 | 10 | 90 | 2 | 2 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 19 | 10.53 | 89.47 | 2 | 2 |
-| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 19 | 10.53 | 89.47 | 2 | 3 |
-| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 19 | 5.26 | 94.74 | 1 | 1 |
-| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 18 | 5.56 | 94.44 | 1 | 2 |
-| /news/dmv-holiday-closures-2026-thanksgiving-christmas-eve-by-state/ | 17 | 5.88 | 94.12 | 1 | 2 |
-| https://shop.freshcalendars.com/products/air-dry-clay-advent-calendar-2026-24-animals | 15 | 0 | 100 | 0 | 0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 15 | 26.67 | 73.33 | 4 | 5 |
-| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 14 | 7.14 | 92.86 | 1 | 1 |
-| https://shop.freshcalendars.com/products/fishing-advent-calendar-2026-24-lures-with-a-tack | 13 | 0 | 100 | 0 | 0 |
-| /news/black-friday-2026-giveaways-first-customers-by-store/ | 13 | 15.38 | 84.62 | 2 | 3 |
-| /news/nyt-spelling-bee-hints-answers-november-26-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 407 | 6.88 | 93.12 | 28 | 36 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 285 | 2.46 | 97.54 | 7 | 13 |
+| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 71 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/ | 58 | 12.07 | 87.93 | 7 | 10 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 56 | 5.36 | 94.64 | 3 | 3 |
+| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 56 | 5.36 | 94.64 | 3 | 7 |
+| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 53 | 9.43 | 90.57 | 5 | 8 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 53 | 15.09 | 84.91 | 8 | 9 |
+| / | 41 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-27-2026-1265/ | 40 | 7.50 | 92.50 | 3 | 3 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/?utm_source=chatgpt.com | 38 | 5.26 | 94.74 | 2 | 3 |
+| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 38 | 10.53 | 89.47 | 4 | 7 |
+| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 37 | 8.11 | 91.89 | 3 | 5 |
+| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 36 | 0 | 100 | 0 | 0 |
+| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 34 | 11.76 | 88.24 | 4 | 6 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 31 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 25 | 0 | 100 | 0 | 0 |
+| /news/is-ross-open-thanksgiving-2026-burlington-black-friday-hours/ | 23 | 4.35 | 95.65 | 1 | 1 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 22 | 13.64 | 86.36 | 3 | 5 |
+| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 21 | 14.29 | 85.71 | 3 | 5 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/#google_vignette | 19 | 0 | 100 | 0 | 0 |
+| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 17 | 11.76 | 88.24 | 2 | 4 |
+| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 17 | 0 | 100 | 0 | 0 |
+| /news/dicks-sporting-goods-black-friday-2026-deals-november-22-hours/ | 16 | 6.25 | 93.75 | 1 | 1 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 16 | 0 | 100 | 0 | 0 |
 
 #### ExcessiveScroll
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 324 | 0 | 100 | 0 | 0 |
-| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 168 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 102 | 0 | 100 | 0 | 0 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 54 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 407 | 0 | 100 | 0 | 0 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 285 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 71 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/ | 58 | 0 | 100 | 0 | 0 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 56 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 56 | 0 | 100 | 0 | 0 |
+| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 53 | 0 | 100 | 0 | 0 |
 | /news/cpkc-holiday-train-2026-schedule-stops-times/ | 53 | 0 | 100 | 0 | 0 |
-| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 36 | 0 | 100 | 0 | 0 |
-| / | 35 | 0 | 100 | 0 | 0 |
-| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 35 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 34 | 0 | 100 | 0 | 0 |
-| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 28 | 0 | 100 | 0 | 0 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 23 | 0 | 100 | 0 | 0 |
-| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 22 | 0 | 100 | 0 | 0 |
-| /news/nyt-strands-hints-answers-november-26-2026-998/ | 21 | 0 | 100 | 0 | 0 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 20 | 0 | 100 | 0 | 0 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 19 | 0 | 100 | 0 | 0 |
-| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 19 | 0 | 100 | 0 | 0 |
-| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 19 | 0 | 100 | 0 | 0 |
-| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 18 | 0 | 100 | 0 | 0 |
-| /news/dmv-holiday-closures-2026-thanksgiving-christmas-eve-by-state/ | 17 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/air-dry-clay-advent-calendar-2026-24-animals | 15 | 0 | 100 | 0 | 0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 15 | 0 | 100 | 0 | 0 |
-| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 14 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/fishing-advent-calendar-2026-24-lures-with-a-tack | 13 | 0 | 100 | 0 | 0 |
-| /news/black-friday-2026-giveaways-first-customers-by-store/ | 13 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-26-2026/ | 12 | 0 | 100 | 0 | 0 |
+| / | 41 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-27-2026-1265/ | 40 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/?utm_source=chatgpt.com | 38 | 0 | 100 | 0 | 0 |
+| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 38 | 0 | 100 | 0 | 0 |
+| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 37 | 0 | 100 | 0 | 0 |
+| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 36 | 0 | 100 | 0 | 0 |
+| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 34 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 31 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 25 | 0 | 100 | 0 | 0 |
+| /news/is-ross-open-thanksgiving-2026-burlington-black-friday-hours/ | 23 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 22 | 0 | 100 | 0 | 0 |
+| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 21 | 0 | 100 | 0 | 0 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/#google_vignette | 19 | 0 | 100 | 0 | 0 |
+| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 17 | 0 | 100 | 0 | 0 |
+| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 17 | 0 | 100 | 0 | 0 |
+| /news/dicks-sporting-goods-black-friday-2026-deals-november-22-hours/ | 16 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 16 | 0 | 100 | 0 | 0 |
 
 #### RageClickCount
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 324 | 0 | 100 | 0 | 0 |
-| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 168 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 102 | 0 | 100 | 0 | 0 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 54 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 407 | 0 | 100 | 0 | 0 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 285 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 71 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/ | 58 | 0 | 100 | 0 | 0 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 56 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 56 | 1.79 | 98.21 | 1 | 1 |
+| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 53 | 0 | 100 | 0 | 0 |
 | /news/cpkc-holiday-train-2026-schedule-stops-times/ | 53 | 0 | 100 | 0 | 0 |
-| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 36 | 0 | 100 | 0 | 0 |
-| / | 35 | 0 | 100 | 0 | 0 |
-| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 35 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 34 | 0 | 100 | 0 | 0 |
-| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 28 | 0 | 100 | 0 | 0 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 23 | 0 | 100 | 0 | 0 |
-| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 22 | 0 | 100 | 0 | 0 |
-| /news/nyt-strands-hints-answers-november-26-2026-998/ | 21 | 0 | 100 | 0 | 0 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 20 | 0 | 100 | 0 | 0 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 19 | 0 | 100 | 0 | 0 |
-| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 19 | 0 | 100 | 0 | 0 |
-| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 19 | 0 | 100 | 0 | 0 |
-| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 18 | 0 | 100 | 0 | 0 |
-| /news/dmv-holiday-closures-2026-thanksgiving-christmas-eve-by-state/ | 17 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/air-dry-clay-advent-calendar-2026-24-animals | 15 | 0 | 100 | 0 | 0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 15 | 0 | 100 | 0 | 0 |
-| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 14 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/fishing-advent-calendar-2026-24-lures-with-a-tack | 13 | 0 | 100 | 0 | 0 |
-| /news/black-friday-2026-giveaways-first-customers-by-store/ | 13 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-26-2026/ | 12 | 0 | 100 | 0 | 0 |
+| / | 41 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-27-2026-1265/ | 40 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/?utm_source=chatgpt.com | 38 | 2.63 | 97.37 | 1 | 1 |
+| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 38 | 0 | 100 | 0 | 0 |
+| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 37 | 0 | 100 | 0 | 0 |
+| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 36 | 0 | 100 | 0 | 0 |
+| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 34 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 31 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 25 | 0 | 100 | 0 | 0 |
+| /news/is-ross-open-thanksgiving-2026-burlington-black-friday-hours/ | 23 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 22 | 0 | 100 | 0 | 0 |
+| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 21 | 0 | 100 | 0 | 0 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/#google_vignette | 19 | 0 | 100 | 0 | 0 |
+| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 17 | 0 | 100 | 0 | 0 |
+| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 17 | 0 | 100 | 0 | 0 |
+| /news/dicks-sporting-goods-black-friday-2026-deals-november-22-hours/ | 16 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 16 | 0 | 100 | 0 | 0 |
 
 #### QuickbackClick
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 324 | 0.31 | 99.69 | 1 | 1 |
-| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 168 | 1.19 | 98.81 | 2 | 2 |
-| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 102 | 4.90 | 95.10 | 5 | 5 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 54 | 0 | 100 | 0 | 0 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 53 | 0 | 100 | 0 | 0 |
-| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 36 | 0 | 100 | 0 | 0 |
-| / | 35 | 14.29 | 85.71 | 6 | 6 |
-| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 35 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 34 | 2.94 | 97.06 | 1 | 1 |
-| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 28 | 0 | 100 | 0 | 0 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 23 | 4.35 | 95.65 | 1 | 1 |
-| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 22 | 0 | 100 | 0 | 0 |
-| /news/nyt-strands-hints-answers-november-26-2026-998/ | 21 | 0 | 100 | 0 | 0 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 20 | 0 | 100 | 0 | 0 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 19 | 0 | 100 | 0 | 0 |
-| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 19 | 0 | 100 | 0 | 0 |
-| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 19 | 0 | 100 | 0 | 0 |
-| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 18 | 0 | 100 | 0 | 0 |
-| /news/dmv-holiday-closures-2026-thanksgiving-christmas-eve-by-state/ | 17 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/air-dry-clay-advent-calendar-2026-24-animals | 15 | 0 | 100 | 0 | 0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 15 | 0 | 100 | 0 | 0 |
-| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 14 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/fishing-advent-calendar-2026-24-lures-with-a-tack | 13 | 0 | 100 | 0 | 0 |
-| /news/black-friday-2026-giveaways-first-customers-by-store/ | 13 | 7.69 | 92.31 | 1 | 1 |
-| /news/nyt-spelling-bee-hints-answers-november-26-2026/ | 12 | 16.67 | 83.33 | 3 | 3 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 407 | 0.25 | 99.75 | 1 | 1 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 285 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 71 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/ | 58 | 3.45 | 96.55 | 2 | 2 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 56 | 1.79 | 98.21 | 1 | 1 |
+| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 56 | 0 | 100 | 0 | 0 |
+| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 53 | 1.89 | 98.11 | 1 | 1 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 53 | 3.77 | 96.23 | 2 | 2 |
+| / | 41 | 2.44 | 97.56 | 1 | 1 |
+| /news/nyt-connections-hints-answers-november-27-2026-1265/ | 40 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/?utm_source=chatgpt.com | 38 | 7.89 | 92.11 | 3 | 3 |
+| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 38 | 0 | 100 | 0 | 0 |
+| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 37 | 0 | 100 | 0 | 0 |
+| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 36 | 5.56 | 94.44 | 2 | 2 |
+| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 34 | 5.88 | 94.12 | 2 | 2 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 31 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 25 | 0 | 100 | 0 | 0 |
+| /news/is-ross-open-thanksgiving-2026-burlington-black-friday-hours/ | 23 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 22 | 0 | 100 | 0 | 0 |
+| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 21 | 0 | 100 | 0 | 0 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/#google_vignette | 19 | 0 | 100 | 0 | 0 |
+| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 17 | 5.88 | 94.12 | 1 | 1 |
+| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 17 | 5.88 | 94.12 | 1 | 1 |
+| /news/dicks-sporting-goods-black-friday-2026-deals-november-22-hours/ | 16 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 16 | 0 | 100 | 0 | 0 |
 
 #### ScriptErrorCount
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 324 | 0 | 100 | 0 | 0 |
-| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 168 | 0.60 | 99.40 | 1 | 1 |
-| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 102 | 0 | 100 | 0 | 0 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 54 | 0 | 100 | 0 | 0 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 53 | 0 | 100 | 0 | 0 |
-| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 36 | 0 | 100 | 0 | 0 |
-| / | 35 | 0 | 100 | 0 | 0 |
-| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 35 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 34 | 0 | 100 | 0 | 0 |
-| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 28 | 0 | 100 | 0 | 0 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 23 | 0 | 100 | 0 | 0 |
-| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 22 | 0 | 100 | 0 | 0 |
-| /news/nyt-strands-hints-answers-november-26-2026-998/ | 21 | 0 | 100 | 0 | 0 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 20 | 5 | 95 | 1 | 1 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 19 | 0 | 100 | 0 | 0 |
-| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 19 | 0 | 100 | 0 | 0 |
-| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 19 | 0 | 100 | 0 | 0 |
-| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 18 | 0 | 100 | 0 | 0 |
-| /news/dmv-holiday-closures-2026-thanksgiving-christmas-eve-by-state/ | 17 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/air-dry-clay-advent-calendar-2026-24-animals | 15 | 0 | 100 | 0 | 0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 15 | 0 | 100 | 0 | 0 |
-| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 14 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/fishing-advent-calendar-2026-24-lures-with-a-tack | 13 | 0 | 100 | 0 | 0 |
-| /news/black-friday-2026-giveaways-first-customers-by-store/ | 13 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-26-2026/ | 12 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 407 | 0.25 | 99.75 | 1 | 1 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 285 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 71 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/ | 58 | 0 | 100 | 0 | 0 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 56 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 56 | 0 | 100 | 0 | 0 |
+| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 53 | 0 | 100 | 0 | 0 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 53 | 1.89 | 98.11 | 1 | 1 |
+| / | 41 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-27-2026-1265/ | 40 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/?utm_source=chatgpt.com | 38 | 0 | 100 | 0 | 0 |
+| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 38 | 0 | 100 | 0 | 0 |
+| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 37 | 0 | 100 | 0 | 0 |
+| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 36 | 0 | 100 | 0 | 0 |
+| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 34 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 31 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 25 | 0 | 100 | 0 | 0 |
+| /news/is-ross-open-thanksgiving-2026-burlington-black-friday-hours/ | 23 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 22 | 0 | 100 | 0 | 0 |
+| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 21 | 0 | 100 | 0 | 0 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/#google_vignette | 19 | 0 | 100 | 0 | 0 |
+| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 17 | 0 | 100 | 0 | 0 |
+| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 17 | 0 | 100 | 0 | 0 |
+| /news/dicks-sporting-goods-black-friday-2026-deals-november-22-hours/ | 16 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 16 | 0 | 100 | 0 | 0 |
 
 #### ErrorClickCount
 
 | Url | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 324 | 0 | 100 | 0 | 0 |
-| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 168 | 0 | 100 | 0 | 0 |
-| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 102 | 0 | 100 | 0 | 0 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 54 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 407 | 0 | 100 | 0 | 0 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 285 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 71 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/ | 58 | 0 | 100 | 0 | 0 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 56 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 56 | 0 | 100 | 0 | 0 |
+| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 53 | 0 | 100 | 0 | 0 |
 | /news/cpkc-holiday-train-2026-schedule-stops-times/ | 53 | 0 | 100 | 0 | 0 |
-| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 36 | 0 | 100 | 0 | 0 |
-| / | 35 | 0 | 100 | 0 | 0 |
-| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 35 | 0 | 100 | 0 | 0 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 34 | 0 | 100 | 0 | 0 |
-| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 28 | 0 | 100 | 0 | 0 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 23 | 0 | 100 | 0 | 0 |
-| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 22 | 0 | 100 | 0 | 0 |
-| /news/nyt-strands-hints-answers-november-26-2026-998/ | 21 | 0 | 100 | 0 | 0 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 20 | 0 | 100 | 0 | 0 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 19 | 0 | 100 | 0 | 0 |
-| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 19 | 0 | 100 | 0 | 0 |
-| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 19 | 0 | 100 | 0 | 0 |
-| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 18 | 0 | 100 | 0 | 0 |
-| /news/dmv-holiday-closures-2026-thanksgiving-christmas-eve-by-state/ | 17 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/air-dry-clay-advent-calendar-2026-24-animals | 15 | 0 | 100 | 0 | 0 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 15 | 0 | 100 | 0 | 0 |
-| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 14 | 0 | 100 | 0 | 0 |
-| https://shop.freshcalendars.com/products/fishing-advent-calendar-2026-24-lures-with-a-tack | 13 | 0 | 100 | 0 | 0 |
-| /news/black-friday-2026-giveaways-first-customers-by-store/ | 13 | 0 | 100 | 0 | 0 |
-| /news/nyt-spelling-bee-hints-answers-november-26-2026/ | 12 | 0 | 100 | 0 | 0 |
+| / | 41 | 0 | 100 | 0 | 0 |
+| /news/nyt-connections-hints-answers-november-27-2026-1265/ | 40 | 0 | 100 | 0 | 0 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/?utm_source=chatgpt.com | 38 | 0 | 100 | 0 | 0 |
+| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 38 | 0 | 100 | 0 | 0 |
+| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 37 | 0 | 100 | 0 | 0 |
+| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 36 | 0 | 100 | 0 | 0 |
+| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 34 | 0 | 100 | 0 | 0 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 31 | 0 | 100 | 0 | 0 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 25 | 0 | 100 | 0 | 0 |
+| /news/is-ross-open-thanksgiving-2026-burlington-black-friday-hours/ | 23 | 0 | 100 | 0 | 0 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 22 | 0 | 100 | 0 | 0 |
+| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 21 | 0 | 100 | 0 | 0 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/#google_vignette | 19 | 0 | 100 | 0 | 0 |
+| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 17 | 0 | 100 | 0 | 0 |
+| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 17 | 0 | 100 | 0 | 0 |
+| /news/dicks-sporting-goods-black-friday-2026-deals-november-22-hours/ | 16 | 0 | 100 | 0 | 0 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 16 | 0 | 100 | 0 | 0 |
 
 #### ScrollDepth
 
 | Url | averageScrollDepth |
 |---|---:|
-| /news/cpkc-holiday-train-2026-schedule-stops-times/#downloads | 100 |
-| /news/caribou-coffee-holiday-menu-2026-cookie-butter-white-mocha/ | 100 |
-| /january-2028-calendar/ | 100 |
-| https://shop.freshcalendars.com/products/scented-candle-advent-calendar-2026-24-soy-tins | 100 |
-| /march-2026-calendar/ | 100 |
-| /blank-calendars.html?year=2026&style=monday-start&paper=letter&start=sunday | 100 |
-| /printable-weekly-calendar.html?year=2026&style=classic-sun&paper=letter | 100 |
-| /may-2026-calendar/ | 100 |
-| /news/meteor-showers-2027-calendar-peak-dates-moon-phase-best-nights/ | 100 |
-| /news/golden-state-warriors-schedule-november-2026-game-times-tv-nba-cup-printable/ | 100 |
-| /news/nba-games-today-october-31-2026/ | 100 |
-| /april-2026-calendar/ | 99 |
-| /when-is/patriot-day/ | 95 |
-| /page/about/ | 94 |
-| https://shop.freshcalendars.com/products/candle-advent-calendar-2026-24-natural-soy-scents | 92 |
-| https://shop.freshcalendars.com/products/onehaus-book-lovers-advent-calendar-2026-bookish- | 90 |
-| /news/king-tides-2026-dates-this-week-high-tide-times/#downloads | 89 |
-| /monthly-calendars/?year=2028 | 87 |
-| https://shop.freshcalendars.com/products/tool-advent-calendar-2026-24-days-of-household-re | 84 |
-| /news/drive-thru-christmas-lights-2026-by-state/#google_vignette | 82 |
-| https://shop.freshcalendars.com/articles/best-disc-bound-planners | 81 |
-| /when-is/ | 81 |
-| https://shop.freshcalendars.com/products/w7-holiday-haul-2026-makeup-advent-calendar-24-bo | 80 |
-| /news/champions-league-november-2026-schedule-kickoff-times-et-matchday-4-5/ | 80 |
-| /monthly-calendars/?design=holidays&year=2027 | 79 |
+| /news/kwanzaa-2026-dates-seven-principles-calendar-printable/ | 100 |
+| /news/champions-league-december-2026-matchday-6-kickoff-times/ | 100 |
+| /news/category/holidays/ | 100 |
+| /days-until/ | 100 |
+| /news/turkey-pardon-2026-date-time-white-house/ | 100 |
+| /news/mountain-west-championship-game-2026-date-kickoff-time-fox/ | 99 |
+| /news/peets-holiday-menu-2026-peppermint-bark-matcha-black-cherry-energy/ | 96 |
+| /news/hebrew-calendar-5787-leap-year-adar-i-adar-ii/ | 92 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/#downloads | 90.50 |
+| /calendars/?paper=a4&start=monday&design=scenic | 90 |
+| https://shop.freshcalendars.com/tags/fill-your-own-advent-calendars | 85 |
+| https://shop.freshcalendars.com/2027-appointment-books-30-minute | 83 |
+| /news/restaurant-gift-card-deals-2026-bonus-cards-cheesecake-factory-panera-red-robin/ | 83 |
+| /news/uk-snooker-championship-2026-schedule-session-times-tv/ | 82 |
+| /news/christmas-eve-christmas-day-2026-store-hours/ | 78 |
+| /news/baskin-robbins-holiday-menu-2026-turkey-cake/ | 78 |
+| /news/fogo-de-chao-thanksgiving-2026-hours-to-go-family-meal/#google_vignette | 77 |
+| https://shop.freshcalendars.com/products/gogirl-planner-pro-weekly-monthly-and-budget-orga | 76 |
+| /news/native-american-heritage-month-2026-theme-events-books-activities/#google_vignette | 75 |
+| https://shop.freshcalendars.com/products/advent-calendar-2026-for-girls-24-day-christmas-c | 75 |
+| /news/blossom-word-game-answers-november-15-2026/ | 75 |
+| https://shop.freshcalendars.com/products/fillable-advent-calendar-boxes-24-kraft-treat-box | 74 |
+| https://shop.freshcalendars.com/articles/erin-condren-planner-alternatives | 74 |
+| /calendars/ | 71 |
+| /news/stock-market-holidays-2027-nyse-closed-dates/#a-late-good-friday-no-an-early-one | 70.50 |
 
 #### Traffic
 
 | Url | totalSessionCount | totalBotSessionCount | distinctUserCount | pagesPerSessionPercentage |
 |---|---:|---:|---:|---:|
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 324 | 19 | 294 | 1.18 |
-| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 168 | 10 | 160 | 1.18 |
-| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 102 | 5 | 101 | 1.20 |
-| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 54 | 3 | 50 | 1.19 |
-| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 53 | 2 | 52 | 1.32 |
-| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 36 | 4 | 36 | 1.17 |
-| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 35 | 5 | 35 | 1.17 |
-| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 34 | 1 | 32 | 1.50 |
-| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 28 | 0 | 23 | 1.07 |
-| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 23 | 1 | 20 | 2 |
-| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 22 | 2 | 21 | 1.18 |
-| /news/nyt-strands-hints-answers-november-26-2026-998/ | 21 | 1 | 21 | 1.10 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 20 | 1 | 20 | 1.25 |
-| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 19 | 0 | 19 | 1.11 |
-| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 19 | 1 | 18 | 1.11 |
-| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 19 | 0 | 19 | 1.11 |
-| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 18 | 0 | 18 | 1.06 |
-| /news/dmv-holiday-closures-2026-thanksgiving-christmas-eve-by-state/ | 17 | 0 | 16 | 1.12 |
-| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 15 | 2 | 15 | 1.07 |
-| https://shop.freshcalendars.com/products/air-dry-clay-advent-calendar-2026-24-animals | 15 | 0 | 15 | 1 |
-| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 14 | 1 | 14 | 1.43 |
-| https://shop.freshcalendars.com/products/fishing-advent-calendar-2026-24-lures-with-a-tack | 13 | 0 | 13 | 1 |
-| /news/black-friday-2026-giveaways-first-customers-by-store/ | 13 | 0 | 12 | 1.08 |
-| /news/liquor-stores-open-thanksgiving-2026-by-state/#google_vignette | 12 | 0 | 12 | 2 |
-| /news/is-kroger-open-thanksgiving-2026-pharmacy-hours/ | 12 | 1 | 12 | 1.08 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/ | 407 | 22 | 354 | 1.20 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/ | 285 | 8 | 268 | 1.09 |
+| /news/black-friday-2026-ad-tracker-walmart-target-best-buy/ | 71 | 8 | 69 | 1.18 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/ | 58 | 2 | 57 | 1.21 |
+| /news/michaels-black-friday-2026-free-advent-calendar-november-27/ | 56 | 0 | 53 | 1.29 |
+| /news/nyt-connections-hints-answers-november-26-2026-1264/ | 56 | 1 | 51 | 1.20 |
+| /news/tractor-supply-black-friday-2026-hours-thanksgiving-closed/ | 53 | 12 | 52 | 1.47 |
+| /news/cpkc-holiday-train-2026-schedule-stops-times/ | 53 | 2 | 50 | 1.30 |
+| / | 41 | 14 | 39 | 1.44 |
+| /news/nyt-connections-hints-answers-november-27-2026-1265/ | 40 | 0 | 40 | 1.07 |
+| /news/black-friday-2026-giveaways-first-customers-by-store/?utm_source=chatgpt.com | 38 | 0 | 34 | 1.79 |
+| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/ | 38 | 0 | 37 | 1.18 |
+| /news/jcpenney-black-friday-2026-5-am-giveaways-thanksgiving-closed/ | 37 | 0 | 37 | 1.22 |
+| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/ | 36 | 1 | 34 | 1.22 |
+| /news/dollar-general-black-friday-2026-3-day-sale-november-26-28/ | 34 | 5 | 34 | 1.29 |
+| /news/thanksgiving-football-schedule-2026-nfl-college-games/#google_vignette | 31 | 0 | 23 | 1.58 |
+| /news/home-depot-black-friday-2026-sale-dates-november-5-25-store-hours/ | 25 | 3 | 24 | 1.12 |
+| /news/is-ross-open-thanksgiving-2026-burlington-black-friday-hours/ | 23 | 0 | 23 | 1.13 |
+| /news/is-the-day-after-thanksgiving-a-state-holiday-2026-states-closed-november-27/ | 22 | 3 | 20 | 1.18 |
+| /news/ace-hardware-black-friday-2026-50-percent-off-november-27-bf26/ | 21 | 0 | 18 | 1.48 |
+| /news/liquor-stores-open-thanksgiving-2026-by-state/#google_vignette | 19 | 0 | 14 | 1.26 |
+| /news/ihsa-football-state-finals-2026-schedule-hancock-stadium-november-27-28/ | 17 | 0 | 17 | 1.29 |
+| /news/is-heb-open-thanksgiving-2026-christmas-eve-hours/ | 17 | 1 | 17 | 1.24 |
+| /news/dicks-sporting-goods-black-friday-2026-deals-november-22-hours/ | 16 | 1 | 15 | 1 |
+| /news/cracker-barrel-holiday-menu-2026-thanksgiving-heat-and-serve/ | 16 | 3 | 16 | 1.13 |
 
 #### EngagementTime
 
 | Url | totalTime | activeTime |
 |---|---:|---:|
-| /news/senior-deduction-2026-6000-age-65-phase-out/ | 1,649 | 81 |
-| https://shop.freshcalendars.com/products/mudpuppy-pawsome-locked-diary-for-kids | 1,561 | 8 |
-| https://shop.freshcalendars.com/products/newestor-2027-weekly-monthly-planner-refill-perso | 1,470 | 156 |
-| /news/hollywood-christmas-parade-2026-date-route-tv/#google_vignette | 1,246 | 5 |
-| https://shop.freshcalendars.com/black-friday-planner-deals?utm_source=perplexity | 1,246 | 8 |
-| /news/costco-black-friday-2026-dates-november-27-30-pre-thanksgiving-savings-november-16/ | 1,032 | 87 |
-| /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/#google_vignette | 828 | 3 |
-| /news/hillsborough-county-public-schools-calendar-2026-27-breaks/ | 813 | 7 |
-| https://shop.freshcalendars.com/products/friends-tv-show-advent-calendar-2026-24-days?utm_ | 746 | 76 |
-| https://shop.freshcalendars.com/products/princess-doll-advent-calendar-2026-24-posable-dol | 693 | 3 |
-| /news/miami-heat-schedule-november-2026-game-times-tv-nba-cup-printable/ | 684 | 196 |
-| https://shop.freshcalendars.com/products/mens-2026-advent-calendar-24-days-of-beard-and-bo | 657 | 7 |
-| https://shop.freshcalendars.com/articles/best-travelers-notebooks?utm_source=chatgpt.com | 598 | 7 |
-| https://shop.freshcalendars.com/products/classic-truck-wall-calendar-2027-12-months-usa-ma | 590 | 41 |
-| /news/paid-family-leave-2027-rates-new-york-california-washington-new-jersey/#google_vigne | 587 | 587 |
-| https://shop.freshcalendars.com/products/peakeep-color-changing-digital-day-clock-9-in-dat | 549 | 120 |
-| /news/fantasy-football-playoffs-2026-weeks-trade-deadlines-espn-yahoo-sleeper/ | 539 | 83 |
-| /news/orange-county-public-schools-calendar-2026-27-breaks-holidays/ | 535 | 74 |
-| https://shop.freshcalendars.com/products/onehaus-book-lovers-advent-calendar-2026-bookish- | 491 | 47 |
-| /news/free-parking-holidays-2026-meters-thanksgiving-christmas-by-city/#google_vignette | 471 | 424 |
-| /news/is-tj-maxx-open-thanksgiving-2026-marshalls-homegoods-hours/#google_vignette | 462 | 46 |
-| https://shop.freshcalendars.com/articles/best-disc-bound-planners | 461 | 117 |
-| /news/paid-family-leave-2027-rates-new-york-california-washington-new-jersey/ | 458 | 458 |
-| /news/nyt-midi-crossword-answers-november-18-2026/ | 438 | 16 |
-| /news/khsaa-state-football-finals-2026-kroger-field-schedule/ | 436 | 318 |
+| https://shop.freshcalendars.com/products/undated-52-week-gratitude-journal-with-inspiratio | 1,200 | 22 |
+| /news/great-american-christmas-2026-movie-schedule-great-american-family/#print-the-great- | 1,199 | 1,199 |
+| /news/what-calendar-year-is-the-same-as-2027/ | 1,182 | 51 |
+| /news/is-publix-open-thanksgiving-2026-christmas-eve-hours/ | 1,119 | 0 |
+| https://shop.freshcalendars.com/brands/writech | 1,111 | 6 |
+| /news/nyt-connections-hints-answers-november-24-2026-1262/#google_vignette | 1,109 | 3 |
+| https://shop.freshcalendars.com/products/porsche-911-turbo-advent-calendar?utm_source=chat | 1,049 | 21 |
+| https://shop.freshcalendars.com/products/freeze-dried-food-advent-calendar-2026-24-days?ut | 1,028 | 7 |
+| https://shop.freshcalendars.com/products/felt-christmas-tree-advent-calendar-31-pockets-21 | 987 | 316 |
+| https://shop.freshcalendars.com/products/mindful-souls-crystal-advent-calendar-2026-25-cry | 854 | 8 |
+| /news/college-football-week-10-schedule-2026-halloween-top-25-game-times-tv/ | 792 | 179 |
+| /news/nine-lessons-and-carols-2026-kings-college-time-ballot/ | 778 | 2 |
+| /news/boston-bruins-schedule-december-2026-game-times-tv-printable/ | 752 | 46 |
+| https://shop.freshcalendars.com/products/akcisot-10-inch-atomic-analog-wall-clock-black | 645 | 31 |
+| /news/when-does-advent-start-2026-november-29-advent-wreath-candles/#google_vignette | 621 | 238 |
+| https://shop.freshcalendars.com/articles/advent-calendars-for-men#a-grooming-advent-calend | 606 | 269 |
+| /news/aia-football-state-championships-2026-schedule-kickoff-times/ | 605 | 54 |
+| /news/college-football-conference-championship-games-2026-schedule-times-tv/#google_vignet | 591 | 27 |
+| /news/best-buy-cyber-monday-2026-dates-return-window-price-match/ | 571 | 277 |
+| https://shop.freshcalendars.com/products/peppa-pig-stationery-advent-calendar-2026-24-days | 568 | 25 |
+| /news/fomc-meeting-dates-2027-fed-schedule-december-2026/ | 545 | 189 |
+| https://shop.freshcalendars.com/products/2027-daily-planner-one-page-per-day-hourly-12-mon | 538 | 14 |
+| /news/cma-country-christmas-2026-december-1-abc-time-host-performers/ | 520 | 54 |
+| /news/st-jude-memphis-marathon-2026-start-time-road-closures/ | 489 | 185 |
+| /news/streaming-black-friday-2026-deals-paramount-plus-hbo-max-peacock/ | 483 | 101 |
 
 ## By channel
 
@@ -280,91 +280,91 @@ Read 2026-11-26T09:15 UTC from the Clarity Data Export API, last 24 hours (UTC).
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 1,230 | 7.80 | 92.20 | 100 | 150 |
-| Other | 461 | 3.90 | 96.10 | 18 | 25 |
-| AiPlatform | 418 | 3.11 | 96.89 | 13 | 18 |
-| Referral | 352 | 7.39 | 92.61 | 29 | 39 |
-| Direct | 128 | 7.81 | 92.19 | 18 | 31 |
+| OrganicSearch | 1,289 | 7.14 | 92.86 | 96 | 143 |
+| Other | 564 | 3.55 | 96.45 | 21 | 28 |
+| Referral | 533 | 4.13 | 95.87 | 22 | 25 |
+| AiPlatform | 404 | 2.72 | 97.28 | 11 | 17 |
+| Direct | 133 | 5.26 | 94.74 | 7 | 11 |
 
 #### ExcessiveScroll
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 1,230 | 0 | 100 | 0 | 0 |
-| Other | 461 | 0 | 100 | 0 | 0 |
-| AiPlatform | 418 | 0 | 100 | 0 | 0 |
-| Referral | 352 | 0 | 100 | 0 | 0 |
-| Direct | 128 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 1,289 | 0 | 100 | 0 | 0 |
+| Other | 564 | 0 | 100 | 0 | 0 |
+| Referral | 533 | 0 | 100 | 0 | 0 |
+| AiPlatform | 404 | 0 | 100 | 0 | 0 |
+| Direct | 133 | 0 | 100 | 0 | 0 |
 
 #### RageClickCount
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 1,230 | 0.08 | 99.92 | 1 | 1 |
-| Other | 461 | 0.22 | 99.78 | 1 | 1 |
-| AiPlatform | 418 | 0 | 100 | 0 | 0 |
-| Referral | 352 | 0 | 100 | 0 | 0 |
-| Direct | 128 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 1,289 | 0.16 | 99.84 | 2 | 2 |
+| Other | 564 | 0 | 100 | 0 | 0 |
+| Referral | 533 | 0 | 100 | 0 | 0 |
+| AiPlatform | 404 | 0.25 | 99.75 | 1 | 1 |
+| Direct | 133 | 0 | 100 | 0 | 0 |
 
 #### QuickbackClick
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 1,230 | 2.60 | 97.40 | 38 | 38 |
-| Other | 461 | 3.69 | 96.31 | 20 | 20 |
-| AiPlatform | 418 | 10.05 | 89.95 | 56 | 56 |
-| Referral | 352 | 0.85 | 99.15 | 4 | 4 |
-| Direct | 128 | 12.50 | 87.50 | 63 | 63 |
+| OrganicSearch | 1,289 | 2.09 | 97.91 | 30 | 30 |
+| Other | 564 | 2.30 | 97.70 | 14 | 14 |
+| Referral | 533 | 0.75 | 99.25 | 4 | 4 |
+| AiPlatform | 404 | 12.62 | 87.38 | 67 | 67 |
+| Direct | 133 | 13.53 | 86.47 | 23 | 23 |
 
 #### ScriptErrorCount
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 1,230 | 0.24 | 99.76 | 3 | 3 |
-| Other | 461 | 0 | 100 | 0 | 0 |
-| AiPlatform | 418 | 0 | 100 | 0 | 0 |
-| Referral | 352 | 0 | 100 | 0 | 0 |
-| Direct | 128 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 1,289 | 0.16 | 99.84 | 2 | 2 |
+| Other | 564 | 0 | 100 | 0 | 0 |
+| Referral | 533 | 0.38 | 99.62 | 2 | 2 |
+| AiPlatform | 404 | 0 | 100 | 0 | 0 |
+| Direct | 133 | 0 | 100 | 0 | 0 |
 
 #### ErrorClickCount
 
 | Channel | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| OrganicSearch | 1,230 | 0 | 100 | 0 | 0 |
-| Other | 461 | 0 | 100 | 0 | 0 |
-| AiPlatform | 418 | 0 | 100 | 0 | 0 |
-| Referral | 352 | 0 | 100 | 0 | 0 |
-| Direct | 128 | 0 | 100 | 0 | 0 |
+| OrganicSearch | 1,289 | 0 | 100 | 0 | 0 |
+| Other | 564 | 0 | 100 | 0 | 0 |
+| Referral | 533 | 0 | 100 | 0 | 0 |
+| AiPlatform | 404 | 0 | 100 | 0 | 0 |
+| Direct | 133 | 0 | 100 | 0 | 0 |
 
 #### ScrollDepth
 
 | Channel | averageScrollDepth |
 |---|---:|
-| OrganicSearch | 29.22 |
-| Direct | 28.63 |
-| Referral | 25.48 |
-| Other | 19.23 |
-| AiPlatform | 15.24 |
+| OrganicSearch | 27.61 |
+| Referral | 23.86 |
+| Direct | 22.91 |
+| Other | 19.10 |
+| AiPlatform | 14.38 |
 
 #### Traffic
 
 | Channel | totalSessionCount | totalBotSessionCount | distinctUserCount | pagesPerSessionPercentage |
 |---|---:|---:|---:|---:|
-| OrganicSearch | 1,230 | 69 | 1,172 | 1.24 |
-| Other | 461 | 224 | 436 | 1.46 |
-| AiPlatform | 418 | 0 | 407 | 1.60 |
-| Referral | 352 | 4 | 309 | 1.19 |
-| Direct | 128 | 2 | 121 | 3.83 |
+| OrganicSearch | 1,289 | 62 | 1,202 | 1.24 |
+| Other | 564 | 251 | 518 | 1.27 |
+| Referral | 533 | 13 | 465 | 1.23 |
+| AiPlatform | 404 | 1 | 381 | 1.78 |
+| Direct | 133 | 3 | 113 | 3.13 |
 
 #### EngagementTime
 
 | Channel | totalTime | activeTime |
 |---|---:|---:|
-| Referral | 148 | 73 |
-| OrganicSearch | 120 | 67 |
-| Direct | 89 | 41 |
-| Other | 73 | 32 |
-| AiPlatform | 57 | 16 |
+| Referral | 126 | 63 |
+| OrganicSearch | 121 | 64 |
+| Direct | 98 | 37 |
+| Other | 82 | 39 |
+| AiPlatform | 59 | 18 |
 
 ## By device
 
@@ -372,80 +372,72 @@ Read 2026-11-26T09:15 UTC from the Clarity Data Export API, last 24 hours (UTC).
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 1,469 | 4.42 | 95.58 | 69 | 91 |
-| PC | 878 | 9.34 | 90.66 | 96 | 154 |
-| Tablet | 158 | 8.23 | 91.77 | 13 | 18 |
-| Other | 1 | 0 | 100 | 0 | 0 |
+| Mobile | 1,827 | 3.94 | 96.06 | 73 | 96 |
+| PC | 829 | 8.08 | 91.92 | 72 | 111 |
+| Tablet | 168 | 7.14 | 92.86 | 12 | 17 |
 
 #### ExcessiveScroll
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 1,469 | 0 | 100 | 0 | 0 |
-| PC | 878 | 0 | 100 | 0 | 0 |
-| Tablet | 158 | 0 | 100 | 0 | 0 |
-| Other | 1 | 0 | 100 | 0 | 0 |
+| Mobile | 1,827 | 0 | 100 | 0 | 0 |
+| PC | 829 | 0 | 100 | 0 | 0 |
+| Tablet | 168 | 0 | 100 | 0 | 0 |
 
 #### RageClickCount
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 1,469 | 0 | 100 | 0 | 0 |
-| PC | 878 | 0.23 | 99.77 | 2 | 2 |
-| Tablet | 158 | 0 | 100 | 0 | 0 |
-| Other | 1 | 0 | 100 | 0 | 0 |
+| Mobile | 1,827 | 0.05 | 99.95 | 1 | 1 |
+| PC | 829 | 0.24 | 99.76 | 2 | 2 |
+| Tablet | 168 | 0 | 100 | 0 | 0 |
 
 #### QuickbackClick
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 1,469 | 4.29 | 95.71 | 100 | 100 |
-| PC | 878 | 3.30 | 96.70 | 73 | 73 |
-| Tablet | 158 | 3.16 | 96.84 | 8 | 8 |
-| Other | 1 | 0 | 100 | 0 | 0 |
+| Mobile | 1,827 | 4.27 | 95.73 | 105 | 105 |
+| PC | 829 | 2.05 | 97.95 | 22 | 22 |
+| Tablet | 168 | 4.76 | 95.24 | 11 | 11 |
 
 #### ScriptErrorCount
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 1,469 | 0.14 | 99.86 | 2 | 2 |
-| PC | 878 | 0.11 | 99.89 | 1 | 1 |
-| Tablet | 158 | 0 | 100 | 0 | 0 |
-| Other | 1 | 0 | 100 | 0 | 0 |
+| Mobile | 1,827 | 0.22 | 99.78 | 4 | 4 |
+| PC | 829 | 0 | 100 | 0 | 0 |
+| Tablet | 168 | 0 | 100 | 0 | 0 |
 
 #### ErrorClickCount
 
 | Device | sessionsCount | sessionsWithMetricPercentage | sessionsWithoutMetricPercentage | pagesViews | subTotal |
 |---|---:|---:|---:|---:|---:|
-| Mobile | 1,469 | 0 | 100 | 0 | 0 |
-| PC | 878 | 0 | 100 | 0 | 0 |
-| Tablet | 158 | 0 | 100 | 0 | 0 |
-| Other | 1 | 0 | 100 | 0 | 0 |
+| Mobile | 1,827 | 0 | 100 | 0 | 0 |
+| PC | 829 | 0 | 100 | 0 | 0 |
+| Tablet | 168 | 0 | 100 | 0 | 0 |
 
 #### ScrollDepth
 
 | Device | averageScrollDepth |
 |---|---:|
-| PC | 32.56 |
-| Tablet | 27.99 |
-| Mobile | 19.38 |
-| Other | 6 |
+| PC | 30.04 |
+| Tablet | 26.78 |
+| Mobile | 19.40 |
 
 #### Traffic
 
 | Device | totalSessionCount | totalBotSessionCount | distinctUserCount | pagesPerSessionPercentage |
 |---|---:|---:|---:|---:|
-| Mobile | 1,469 | 124 | 1,360 | 1.33 |
-| PC | 878 | 92 | 849 | 1.32 |
-| Tablet | 158 | 25 | 149 | 1.28 |
-| Other | 1 | 55 | 1 | 1 |
+| Mobile | 1,827 | 154 | 1,631 | 1.33 |
+| PC | 829 | 70 | 786 | 1.22 |
+| Tablet | 168 | 39 | 157 | 1.34 |
+| Other | 0 | 65 | 0 |  |
 
 #### EngagementTime
 
 | Device | totalTime | activeTime |
 |---|---:|---:|
-| Tablet | 168 | 71 |
-| PC | 129 | 69 |
-| Mobile | 87 | 42 |
-| Other | 5 | 5 |
+| Tablet | 165 | 71 |
+| PC | 143 | 71 |
+| Mobile | 88 | 44 |
 
