@@ -491,7 +491,7 @@ Two kinds are in on purpose as predicted losses: if the pre-screen predicts the 
 - ChatGPT-User has fetched 3 products once each, all countdown blocks (wooden "days until" blocks and two acrylic countdown signs). That is too few and too early to set against the 0.07 pass mark.
 - ChatGPT printed a link to us for chore charts and for countdown blocks in the ten-question scan above, hours after the start.
 - Whole shop, same window: ChatGPT-User made 454 product requests on 410 pages (371 on 346 pages in the read of this morning).
-- Clarity sessions on the new pages: not read yet; the daily export in git predates the start. Hashes of the pages read are in `.cache/shop/evergreen/read-2026-11-27.json`.
+- Clarity, Nov. 27 read at about 20:25 UTC (dashboard, date Today, URL regex on the new kinds' slug words): 3 sessions touched the new pages, 2 on Mobile Safari and 1 on Chrome, one of them from Google and none marked as coming from ChatGPT. Pages seen: four of the five new category pages once each and one new product (the Pigpotparty acrylic chore chart). The Chrome session may be our own live check. So no ChatGPT visitor yet on day one. Hashes of the pages read are in `.cache/shop/evergreen/read-2026-11-27.json`.
 
 ### Prompt panel in ChatGPT itself (Nov. 26, 2026)
 
