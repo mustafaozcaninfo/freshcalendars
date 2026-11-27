@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T09:13:45.742Z",
+ "generatedAt": "2026-11-27T18:57:43.612Z",
  "site": "sc-domain:freshcalendars.com",
  "windows": [
   {
@@ -135,7 +135,7 @@
  "gate": [
   {
    "rule": "At least 60% of /news/ URLs published 7 to 21 days ago are indexed",
-   "value": "94% (66 of 70 sampled)",
+   "value": "99% (68 of 69 sampled)",
    "pass": true
   },
   {
@@ -2425,69 +2425,51 @@
   ]
  },
  "indexed": {
-  "checked": 70,
+  "checked": 69,
   "sampled": 90,
-  "indexed": 66,
+  "indexed": 68,
   "notIndexed": [
    {
-    "url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-10-2026-1248/",
+    "url": "https://freshcalendars.com/news/nyt-spelling-bee-hints-answers-november-13-2026/",
     "status": "not indexed",
     "state": "Excluded by ‘noindex’ tag",
-    "age": 18
-   },
-   {
-    "url": "https://freshcalendars.com/news/nyt-connections-hints-answers-november-13-2026-1251/",
-    "status": "not indexed",
-    "state": "Excluded by ‘noindex’ tag",
-    "age": 15
-   },
-   {
-    "url": "https://freshcalendars.com/news/nyt-connections-sports-edition-hints-answers-november-15-2026-783/",
-    "status": "not indexed",
-    "state": "Excluded by ‘noindex’ tag",
-    "age": 12
-   },
-   {
-    "url": "https://freshcalendars.com/news/nyt-crossword-answers-november-17-2026/",
-    "status": "not indexed",
-    "state": "Excluded by ‘noindex’ tag",
-    "age": 10
+    "age": 16
    }
   ],
   "states": {
-   "Submitted and indexed": 86,
-   "Excluded by ‘noindex’ tag": 4
+   "Submitted and indexed": 89,
+   "Excluded by ‘noindex’ tag": 1
   },
   "unknown": 0
  },
  "sitemaps": [
   {
-   "path": "https://shop.freshcalendars.com/sitemap.xml",
+   "path": "https://freshcalendars.com/news/sitemap.xml",
    "errors": 0,
    "warnings": 0,
-   "lastDownloaded": "2026-11-26T11:48:46.743Z",
-   "submitted": 5749
-  },
-  {
-   "path": "https://freshcalendars.com/sitemap.xml",
-   "errors": 0,
-   "warnings": 0,
-   "lastDownloaded": "2026-11-23T19:43:51.980Z",
-   "submitted": 201
+   "lastDownloaded": "2026-11-27T10:39:52.159Z",
+   "submitted": 1512
   },
   {
    "path": "https://freshcalendars.com/news/news-sitemap.xml",
    "errors": 0,
    "warnings": 0,
-   "lastDownloaded": "2026-11-25T22:17:45.185Z",
-   "submitted": 81
+   "lastDownloaded": "2026-11-27T10:39:43.920Z",
+   "submitted": 73
   },
   {
-   "path": "https://freshcalendars.com/news/sitemap.xml",
+   "path": "https://freshcalendars.com/sitemap.xml",
    "errors": 0,
    "warnings": 0,
-   "lastDownloaded": "2026-11-25T14:04:10.566Z",
-   "submitted": 1489
+   "lastDownloaded": "2026-11-27T10:39:35.689Z",
+   "submitted": 201
+  },
+  {
+   "path": "https://shop.freshcalendars.com/sitemap.xml",
+   "errors": 0,
+   "warnings": 0,
+   "lastDownloaded": "2026-11-27T10:39:29.562Z",
+   "submitted": 5749
   }
  ],
  "experiments": [
@@ -2877,6 +2859,45 @@
     "impressions": 126,
     "ctr": 0,
     "position": 6.2
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "clark-county-school-district-calendar-2026-27-breaks",
+   "changedAt": "2026-11-27",
+   "what": "title: \"CCSD Calendar 2026-27: Veterans Day Nov. 11, Thanksgiving Nov. 25-27\" → \"Clark County CCSD Calendar 2026-27: Winter Break Dec. 21-Jan. 1\"",
+   "before": {
+    "clicks": 1,
+    "impressions": 28,
+    "ctr": 3.57,
+    "position": 7.5
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "costco-holiday-hours-closures-2026-2027",
+   "changedAt": "2026-11-27",
+   "what": "title: \"Is Costco Open on Thanksgiving 2026? Closed Thursday, Nov. 26\" → \"Is Costco Open on Christmas 2026? Closed Friday, Dec. 25\"",
+   "before": {
+    "clicks": 0,
+    "impressions": 57,
+    "ctr": 0,
+    "position": 19.2
+   },
+   "after": null,
+   "daysAfter": 0
+  },
+  {
+   "slug": "orange-county-public-schools-calendar-2026-27-breaks-holidays",
+   "changedAt": "2026-11-27",
+   "what": "title: \"OCPS Calendar 2026-27: Thanksgiving Nov. 23-27, Free PDF\" → \"OCPS Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Free PDF\"",
+   "before": {
+    "clicks": 0,
+    "impressions": 329,
+    "ctr": 0,
+    "position": 6.1
    },
    "after": null,
    "daysAfter": 0

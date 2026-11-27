@@ -1,10 +1,10 @@
 # Search Console (generated, do not edit)
 
-Read 2026-11-27T09:13 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
+Read 2026-11-27T18:57 UTC for sc-domain:freshcalendars.com. Windows end 3 days before the read (Search Console data is late). Source: `scripts/news-gsc.mjs`, daily. Web, image and Discover results are separate: each section says which.
 
 ## Gate for the phase decision (docs/DESK.md)
 
-- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 94% (66 of 70 sampled)
+- PASS: At least 60% of /news/ URLs published 7 to 21 days ago are indexed — 99% (68 of 69 sampled)
 - FAIL: /news/ clicks and impressions did not fall two weeks in a row — fell two weeks in a row: clicks, impressions
 - CHECK: No manual action and no security issue — not in the API: check Search Console > Security & Manual Actions
 
@@ -288,19 +288,16 @@ Ranking in web results but absent from image results (hero alt text, caption, fi
 
 ## Indexing
 
-Sample of 90 stories published 2 to 21 days ago (the gate counts the 70 that are 7 to 21 days old): 86 Submitted and indexed, 4 Excluded by ‘noindex’ tag.
+Sample of 90 stories published 2 to 21 days ago (the gate counts the 69 that are 7 to 21 days old): 89 Submitted and indexed, 1 Excluded by ‘noindex’ tag.
 
-- not indexed: /news/nyt-connections-hints-answers-november-10-2026-1248/ (Excluded by ‘noindex’ tag), 18 days old
-- not indexed: /news/nyt-connections-hints-answers-november-13-2026-1251/ (Excluded by ‘noindex’ tag), 15 days old
-- not indexed: /news/nyt-connections-sports-edition-hints-answers-november-15-2026-783/ (Excluded by ‘noindex’ tag), 12 days old
-- not indexed: /news/nyt-crossword-answers-november-17-2026/ (Excluded by ‘noindex’ tag), 10 days old
+- not indexed: /news/nyt-spelling-bee-hints-answers-november-13-2026/ (Excluded by ‘noindex’ tag), 16 days old
 
 ## Sitemaps
 
-- /sitemap.xml: 0 errors, 0 warnings, 5,749 URLs submitted, last read 2026-11-26
-- /sitemap.xml: 0 errors, 0 warnings, 201 URLs submitted, last read 2026-11-23
-- /news/news-sitemap.xml: 0 errors, 0 warnings, 81 URLs submitted, last read 2026-11-25
-- /news/sitemap.xml: 0 errors, 0 warnings, 1,489 URLs submitted, last read 2026-11-25
+- /news/sitemap.xml: 0 errors, 0 warnings, 1,512 URLs submitted, last read 2026-11-27
+- /news/news-sitemap.xml: 0 errors, 0 warnings, 73 URLs submitted, last read 2026-11-27
+- /sitemap.xml: 0 errors, 0 warnings, 201 URLs submitted, last read 2026-11-27
+- /sitemap.xml: 0 errors, 0 warnings, 5,749 URLs submitted, last read 2026-11-27
 
 ## Experiments (title and snippet changes of the search desk, 14 days before against 14 days after)
 
@@ -334,3 +331,6 @@ Sample of 90 stories published 2 to 21 days ago (the gate counts the 70 that are
 - baltimore-county-public-schools-calendar-2026-27-breaks (changed 2026-11-24): before 2 clicks, 969 impressions, CTR 0.21%, position 7.2; after: not yet (0 of 15 days)
 - howard-county-public-schools-calendar-2026-27-breaks (changed 2026-11-26): before 0 clicks, 71 impressions, CTR 0%, position 12.1; after: not yet (0 of 15 days)
 - netflix-christmas-movies-2026-release-dates-holiday-watch-list (changed 2026-11-26): before 0 clicks, 126 impressions, CTR 0%, position 6.2; after: not yet (0 of 15 days)
+- clark-county-school-district-calendar-2026-27-breaks (changed 2026-11-27): before 1 clicks, 28 impressions, CTR 3.57%, position 7.5; after: not yet (0 of 15 days)
+- costco-holiday-hours-closures-2026-2027 (changed 2026-11-27): before 0 clicks, 57 impressions, CTR 0%, position 19.2; after: not yet (0 of 15 days)
+- orange-county-public-schools-calendar-2026-27-breaks-holidays (changed 2026-11-27): before 0 clicks, 329 impressions, CTR 0%, position 6.1; after: not yet (0 of 15 days)
