@@ -3,7 +3,7 @@ title: "The Game Awards 2026 Tickets: AXS Sale Oct. 29, Show Dec. 10"
 description: "The Game Awards 2026 tickets went on sale Oct. 29 via AXS. The show is Thu., Dec. 10, 7:30 p.m. ET. Sale times by time zone and a countdown."
 type: news
 publishedAt: "2026-10-28T19:45:00-04:00"
-updatedAt: "2026-11-17T01:35:00-05:00"
+updatedAt: "2026-11-26T19:25:00-05:00"
 authors: [jessica-hartwell]
 category: gaming-tech
 keywords: ["the game awards 2026", "the game awards 2026 tickets", "the game awards 2026 date", "game awards nominations 2026 date", "when is the game awards 2026"]
@@ -22,7 +22,7 @@ hero:
 summary:
   - "Public tickets for The Game Awards 2026 went on sale Thursday, Oct. 29, 2026 at 10 a.m. Pacific Time (PT), which is 1 p.m. Eastern Time (ET), through AXS."
   - "The show is Thursday, Dec. 10, 2026, streaming live from the Peacock Theater in Los Angeles, 42 days after the ticket sale."
-  - "The Game Awards reveals the 2026 nominees live on Tuesday, Nov. 17, 2026 at noon ET (9 a.m. PT, 5 p.m. GMT) on thegameawards.com."
+  - "The Game Awards revealed the 2026 nominees on Tuesday, Nov. 17, 2026 at noon ET: Grand Theft Auto VI leads with eight nominations, and six games are up for Game of the Year, according to Gematsu and Dexerto."
   - "The show starts at 7:30 p.m. ET (4:30 p.m. PT) and fan voting closes Wednesday, Dec. 9 at 6 p.m. PT (9 p.m. ET); ticket prices, the fan voting opening date and the streaming platforms are not yet announced."
 faq:
   - q: "When do The Game Awards 2026 tickets go on sale?"
@@ -32,7 +32,7 @@ faq:
   - q: "What is the date of The Game Awards 2026?"
     a: "Thursday, Dec. 10, 2026, at the Peacock Theater in Los Angeles."
   - q: "When are the 2026 Game Awards nominations announced?"
-    a: "The Game Awards nominees page says to find out the nominees live on Tuesday, Nov. 17, 2026 at noon ET / 9 a.m. PT / 5 p.m. GMT."
+    a: "The nominees were revealed on Tuesday, Nov. 17, 2026 at noon ET / 9 a.m. PT / 5 p.m. GMT. Gematsu and Dexerto list six Game of the Year nominees across 30 categories, with Grand Theft Auto VI leading on eight nominations."
   - q: "What time does The Game Awards 2026 start?"
     a: "The opening act starts at 7:30 p.m. ET / 4:30 p.m. PT on Thursday, Dec. 10, 2026, according to The Game Awards FAQ."
   - q: "When does fan voting close for The Game Awards 2026?"
@@ -55,6 +55,14 @@ sources:
   - title: "Nominees | The Game Awards"
     url: "https://thegameawards.com/nominees"
     publisher: "The Game Awards"
+    date: "2026-11-17"
+  - title: "The Game Awards 2026 nominees announced"
+    url: "https://www.gematsu.com/2026/11/the-game-awards-2026-nominees-announced"
+    publisher: "Gematsu"
+    date: "2026-11-17"
+  - title: "The Game Awards 2026 nominees: Full list of games and categories"
+    url: "https://www.dexerto.com/gaming/the-game-awards-2026-3428374"
+    publisher: "Dexerto"
     date: "2026-11-17"
   - title: "Voting Jury"
     url: "https://thegameawards.com/voting-jury"
@@ -101,7 +109,7 @@ downloads:
 draft: false
 ---
 
-**Public tickets for The Game Awards 2026 went on sale Thursday, Oct. 29, 2026, at 10 a.m. Pacific Time (PT), which is 1 p.m. Eastern Time (ET), through AXS, and the show is Thursday, Dec. 10, 2026 at the Peacock Theater in Los Angeles, according to The Game Awards.** The show starts at 7:30 p.m. ET / 4:30 p.m. PT, per the official Frequently Asked Questions (FAQ) page, and the August announcement says "Limited public tickets to attend will go on sale on October 29 at AXS." Below: the sale time in each time zone, show-night and voting times, what is still not announced, and a dated countdown.
+**Public tickets for The Game Awards 2026 went on sale Thursday, Oct. 29, 2026, at 10 a.m. Pacific Time (PT), which is 1 p.m. Eastern Time (ET), through AXS, and the show is Thursday, Dec. 10, 2026 at the Peacock Theater in Los Angeles, according to The Game Awards.** The show starts at 7:30 p.m. ET / 4:30 p.m. PT, per the official Frequently Asked Questions (FAQ) page, and the August announcement says "Limited public tickets to attend will go on sale on October 29 at AXS." Below: the sale time in each time zone, show-night and voting times, the Game of the Year nominees, what is still not announced, and a dated countdown.
 
 ## What time do The Game Awards 2026 tickets go on sale?
 
@@ -123,9 +131,20 @@ Prices are not listed on The Game Awards announcement. The [AXS event page](http
 
 The Game Awards 2026 takes place on Thursday, Dec. 10, 2026, "streaming live from Peacock Theater in Los Angeles," according to its Aug. 10, 2026 announcement. From the ticket sale on Oct. 29 to show night is 42 days. The FAQ gives the opening act as 7:30 p.m. ET / 4:30 p.m. PT. Fan voting closes the night before, on Wednesday, Dec. 9 at 6 p.m. PT (9 p.m. ET), on TheGameAwards.com (in China via Bilibili). Winners are decided 90% by the voting jury and 10% by fan vote. Last year the show was on Thursday, Dec. 11, 2025, per The Game Awards nominees page.
 
-## When are the 2026 Game Awards nominations announced?
+## Who are The Game Awards 2026 nominees?
 
-The Game Awards nominees page and homepage say "Find out the nominees live" on Tuesday, Nov. 17, 2026, at noon ET / 9 a.m. PT / 5 p.m. GMT. No nominees were listed there at 1:30 a.m. ET on Nov. 17. The site says nominations are selected by a voting jury of over 100 leading media and influencer outlets across the globe.
+The Game Awards revealed the nominees on Tuesday, Nov. 17, 2026, at noon ET / 9 a.m. PT / 5 p.m. GMT. The list below comes from two newsrooms whose nominee lists agree, Gematsu and Dexerto. Both list 30 categories, and both put Grand Theft Auto VI first with eight nominations. Control Resonant and Resident Evil Requiem have six each.
+
+| Game of the Year nominee |
+|---|
+| 007 First Light |
+| Control Resonant |
+| Grand Theft Auto VI |
+| The Legend of Zelda: Ocarina of Time |
+| Phantom Blade Zero |
+| Resident Evil Requiem |
+
+The Game Awards site says nominations are selected by a voting jury of over 100 leading media and influencer outlets across the globe. The full category list is on [thegameawards.com/nominees](https://thegameawards.com/nominees).
 
 For a comparison with another awards season, see our [Grammy nominations 2027 date](/news/grammy-nominations-2027-date-69th-grammys-february-7/) story.
 
