@@ -428,6 +428,8 @@ Working explanation, from OpenAI's own pages, press reports and one live questio
 - **Product feeds are for sellers.** OpenAI's feed program asks for identity verification and the seller's own product URL. We are not the seller, so we do not apply.
 - **The risk.** Amazon said talks with third-party shopping tools continue. If Amazon opens to ChatGPT or gives it a feed, this advantage ends. Keep the Associates income from one channel in mind and keep building the search and article side.
 
+- **Putting "Amazon" in our titles would not help (checked Nov. 27).** Asked "best fillable advent calendars on Amazon... links to buy" from a US temporary chat: all six links went to amazon.com search pages ("Buy on Amazon"), none to us. A shopper who names Amazon is sent to Amazon; we win the shopper who names no store. Our product pages already say Amazon about 12 times in the body ("$13.99 at Amazon", "See it at Amazon"); the title, meta description and JSON-LD do not, and stay that way.
+
 Next moves this suggests: (1) pick new kinds by "Amazon-native brands, no big-retailer page", in any subject, and test one such kind far from calendars; (2) link every new product from an article or category the bot already revisits; (3) keep price and stock current, since ChatGPT prints our price.
 
 ### Evergreen kinds test: does it work outside advent calendars? (started Nov. 27, 2026)
