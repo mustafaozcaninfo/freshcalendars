@@ -94,7 +94,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
-related: [high-school-football-state-championships-2026-dates-by-state, uil-football-state-championships-2026-schedule-att-stadium, ahsaa-super-7-2026-schedule-kickoff-times]
+related: [high-school-football-state-championships-2026-dates-by-state, uil-football-state-championships-2026-schedule-att-stadium, mshsaa-football-state-championships-2026-show-me-bowl-schedule]
 assets:
   overlay: true
   kicker: "OSSAA Football Finals, Dec. 3-12, 2026"
