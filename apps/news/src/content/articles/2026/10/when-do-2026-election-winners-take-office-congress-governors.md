@@ -3,7 +3,7 @@ title: "120th Congress Start Date: Jan. 3, 2027, Plus 36 Governors"
 description: "The 120th Congress begins at noon ET on Sunday, Jan. 3, 2027. The 36 governors elected Nov. 3 take office on dates set by each state, Dec. 7 to Jan. 20."
 type: explainer
 publishedAt: "2026-10-30T05:30:00-04:00"
-updatedAt: "2026-11-14T15:34:00-05:00"
+updatedAt: "2026-11-27T09:25:00-05:00"
 authors: [christina-gerland]
 category: elections
 keywords: ["when do 2026 election winners take office", "when do new members of congress take office 2027", "governor inauguration dates 2027", "when are governors sworn in 2027", "120th congress start date"]
@@ -30,6 +30,14 @@ faq:
   - q: "When do the winners of the Ohio and Florida Senate special elections take their seats?"
     a: "Ohio and Florida hold U.S. Senate special elections on Nov. 3, 2026. The Jan. 3 rule covers regular terms, and no official seating date for the special-election winners had been confirmed as of Oct. 30, 2026."
 sources:
+  - title: "Kreiss-Tomkins, Johnson to take oath in Sitka, celebrate inauguration in Juneau"
+    url: "https://thealaskastory.com/kreiss-tomkins-johnson-to-take-oath-in-sitka-celebrate-inauguration-in-juneau/"
+    publisher: "The Alaska Story"
+    date: "2026-11-25"
+  - title: "Alaska governor-elect Kreiss-Tomkins to be sworn in December 7"
+    url: "https://www.youralaskalink.com/news/politics/alaska-governor-elect-kreiss-tomkins-to-be-sworn-in-december-7/article_2457693c-d1af-4552-a33e-6bfadc1e73eb.html"
+    publisher: "Your Alaska Link"
+    date: "2026-11-25"
   - title: "The Constitution: Amendments 11-27 (20th Amendment)"
     url: "https://www.archives.gov/founding-docs/amendments-11-27"
     publisher: "U.S. National Archives"
@@ -148,6 +156,8 @@ There was no presidential election in 2026, so the presidency is not on the 2027
 ## When are the 2026 governors sworn in?
 
 The 36 governors elected on Nov. 3, 2026 take office on dates fixed by each state's constitution or statute, not a single national date. The earliest are Alaska and Hawaii, at noon on Monday, Dec. 7, 2026; the latest confirmed is Maryland on Wednesday, Jan. 20, 2027. The table lists the legal term start; inaugural ceremonies can fall on other days.
+
+In Alaska, Gov.-elect Jonathan Kreiss-Tomkins and Lt. Gov.-elect Zac Johnson are to be sworn in on the morning of Monday, Dec. 7 in Sitka, with inauguration events in Juneau later that day, The Alaska Story and Your Alaska Link reported on Nov. 25, 2026. The term itself starts at noon under the constitution. No ceremony time or place for Hawaii had been confirmed as of Nov. 27, 2026.
 
 | Term begins | State | Rule in state law |
 |---|---|---|
