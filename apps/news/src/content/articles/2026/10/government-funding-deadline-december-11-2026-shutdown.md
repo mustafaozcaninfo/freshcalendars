@@ -3,7 +3,7 @@ title: "Government Shutdown Deadline Dec. 11, 2026: Lame-Duck Calendar"
 description: "Federal funding runs out after Friday, Dec. 11, 2026 under a stopgap law signed Sept. 2. What a lapse would affect and the lame-duck calendar after Nov. 3."
 type: news
 publishedAt: "2026-10-18T08:50:00-04:00"
-updatedAt: "2026-11-11T23:25:00-05:00"
+updatedAt: "2026-11-27T07:25:00-05:00"
 authors: [christina-gerland]
 category: planning
 keywords: ["government shutdown deadline 2026", "December 11 2026 shutdown", "continuing resolution 2027", "H.R. 6500", "lame duck session 2026"]
@@ -39,6 +39,10 @@ sources:
   - title: "House Sends Bill to President Trump's Desk, Averts Partisan October Shutdown"
     url: "https://appropriations.house.gov/news/press-releases/house-sends-bill-president-trumps-desk-averts-partisan-october-shutdown"
     publisher: "House Committee on Appropriations"
+  - title: "Cole Statement on End-of-the-Year Appropriations Work"
+    url: "https://appropriations.house.gov/news/press-releases/cole-statement-end-year-appropriations-work"
+    publisher: "House Committee on Appropriations"
+    date: "2026-11-18"
   - title: "Trump signs government funding bill, avoiding a shutdown ahead of midterms"
     url: "https://www.foxnews.com/politics/trump-signs-government-funding-bill-avoiding-shutdown-ahead-midterms"
     publisher: "Fox News"
@@ -95,7 +99,7 @@ If neither full-year spending bills nor another stopgap become law by the end of
 
 ## A short lame-duck calendar
 
-Congress came back on Monday, Nov. 9, for what ABC News and the Rapid City, S.D., station site kotatv.com both described as a five-week session. ABC News reported that day that lawmakers were "far from striking a deal to avert a government shutdown." The Senate's tentative 2026 schedule marks Nov. 23 to 27 as a state work period for Thanksgiving and Dec. 21 to 31 as another, so the Senate has about four weeks of session before the deadline. House Appropriations Committee Chairman Tom Cole of Oklahoma has said the time before the deadline is not enough to finish full-year bills, Fox News reported, which raises the odds of another stopgap.
+Congress came back on Monday, Nov. 9, for what ABC News and the Rapid City, S.D., station site kotatv.com both described as a five-week session. ABC News reported that day that lawmakers were "far from striking a deal to avert a government shutdown." The Senate's tentative 2026 schedule marks Nov. 23 to 27 as a state work period for Thanksgiving and Dec. 21 to 31 as another, so the Senate has about four weeks of session before the deadline. House Appropriations Committee Chairman Tom Cole of Oklahoma has said the time before the deadline is not enough to finish full-year bills, Fox News reported, which raises the odds of another stopgap. On Nov. 18, after the Senate made all twelve of its fiscal 2027 spending bills public, Cole said in a committee statement that he is "ready and determined to move as many full-year FY27 bills as possible before the end of the year" and is working with his counterparts to "avoid an unnecessary shutdown." As of Nov. 27, no new stopgap or full-year bill has been announced for a floor vote.
 
 Spending is not the only item waiting. The Senate has also not voted on the House-passed bill to make daylight saving time permanent; our [daylight saving time report](/news/daylight-saving-time-ends-november-1-2026/) covers that bill. Any bill not passed by Jan. 3, 2027 dies with the 119th Congress.
 
@@ -113,6 +117,7 @@ The most recent full shutdown, from Oct. 1 to Nov. 12, 2025, lasted 43 days, the
 
 - **Tuesday, Nov. 3:** Election Day. The results shape the lame-duck negotiations.
 - **Monday, Nov. 9:** Congress returned for the lame-duck session.
+- **Wednesday, Nov. 18:** All twelve Senate fiscal 2027 spending bills public; Cole pushes for full-year bills.
 - **Monday, Nov. 23, to Friday, Nov. 27:** Senate state work period for Thanksgiving (Nov. 26), per its tentative schedule.
 - **Friday, Dec. 11:** Funding deadline.
 - **Sunday, Jan. 3, 2027:** The 119th Congress ends and the 120th begins.

@@ -1,9 +1,9 @@
 ---
-title: "LWSD Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Last Day June 16"
-description: "Lake Washington School District (LWSD) 2026-27: winter break Dec. 21-Jan. 1, last day June 16. Every day off, three no-school Fridays and a printable."
+title: "LWSD Calendar 2026-27: Printable PDF, Winter Break Dec. 21-Jan. 1"
+description: "Lake Washington School District (LWSD) 2026-27: winter break Dec. 21-Jan. 1, last day June 16. Free printable PDF and every no-school day with a count."
 type: news
 publishedAt: "2026-11-10T08:35:00-05:00"
-updatedAt: "2026-11-10T08:35:00-05:00"
+updatedAt: "2026-11-27T07:25:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["lwsd calendar 2026-27", "lake washington school district calendar 2026-27", "lake washington school district winter break 2026", "lwsd spring break 2027", "lwsd mid-winter break 2027"]
@@ -104,7 +104,7 @@ downloads:
 draft: false
 ---
 
-**Lake Washington School District (LWSD) in Washington state has winter break from Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, and the last day of school is a half day on Wednesday, June 16, 2027**, according to its 2026-27 calendar PDF, marked "Updated 8/2026." The district posts the one-page PDF on its District Calendar page. This page lists every no-school weekday with a count, the make-up days the district lists "if needed" and a printable school-year calendar.
+**Lake Washington School District (LWSD) in Washington state has winter break from Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, and the last day of school is a half day on Wednesday, June 16, 2027**, according to its 2026-27 calendar PDF, marked "Updated 8/2026." The district posts the one-page PDF on its District Calendar page. This page lists every no-school weekday with a count, the make-up days the district lists "if needed" and a printable school-year calendar. A free printable PDF of the whole school year is at the bottom of this page, under [Print the LWSD calendar](#print-the-lwsd-calendar).
 
 ## LWSD no-school days in 2026-27
 

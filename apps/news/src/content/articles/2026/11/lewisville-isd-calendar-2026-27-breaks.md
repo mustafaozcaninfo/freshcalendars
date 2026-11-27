@@ -1,8 +1,9 @@
 ---
-title: "Lewisville ISD Calendar 2026-27: Spring Break March 15-19, New Hours"
-description: "Lewisville Independent School District (ISD) calendar 2026-27: no school Nov. 23-27, Dec. 21 to Jan. 1 and March 15-19. Adds the new bell times."
+title: "Lewisville ISD Calendar 2026-27: Free PDF, Winter Break Dec. 21-Jan. 1"
+description: "Lewisville Independent School District (ISD) 2026-27: winter break Dec. 21-Jan. 1, back Jan. 5, spring break March 15-19. Free printable, new bell times."
 type: news
 publishedAt: "2026-11-05T06:00:00-05:00"
+updatedAt: "2026-11-27T07:25:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["lisd calendar 2026-27", "lewisville isd calendar 2026-27", "lewisville isd spring break 2027", "lisd winter break 2026"]
@@ -19,8 +20,8 @@ hero:
     author: "Aaron Jacobs (Jopxton)"
     authorUrl: "https://en.wikipedia.org/wiki/User:Jopxton"
 summary:
-  - "Lewisville Independent School District (LISD) marks Nov. 23-27, 2026, Dec. 21-31, 2026 plus Jan. 1, 2027, and March 15-19, 2027 as holidays on its 2026-27 calendar."
-  - "School began Wednesday, Aug. 12, 2026. Students return Tuesday, Jan. 5, 2027, after a staff day on Monday, Jan. 4."
+  - "Lewisville Independent School District (LISD) winter break runs Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027; students return Tuesday, Jan. 5, after a staff day on Monday, Jan. 4."
+  - "School began Wednesday, Aug. 12, 2026. The calendar also marks Nov. 23-27, 2026 and March 15-19, 2027 as holiday weeks."
   - "The Board voted in January 2026 to change start and end times: elementary 7:40 a.m.-3:05 p.m., middle 8:15 a.m.-3:40 p.m., high 8:50 a.m.-4:15 p.m."
   - "The calendar labels no last day of school. The fourth nine weeks ends Friday, May 21, 2027, a student early release day."
 faq:
@@ -114,7 +115,7 @@ assets:
         - "Conferences"
 ---
 
-**Lewisville Independent School District (LISD) marks Monday, Nov. 23 to Friday, Nov. 27, 2026, Monday, Dec. 21 to Friday, Jan. 1, 2027, and Monday, March 15 to Friday, March 19, 2027 as holidays**, according to the 2026-27 academic calendar PDF linked from the district's "Calendars" page. Students return Tuesday, Jan. 5, 2027.
+**Lewisville Independent School District (LISD) winter break runs Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027**, according to the 2026-27 academic calendar PDF linked from the district's "Calendars" page. Monday, Jan. 4 is a staff day and students return Tuesday, Jan. 5, 2027. The holiday week of Monday, Nov. 23 to Friday, Nov. 27 is over, and the calendar marks Monday, March 15 to Friday, March 19, 2027 as the next holiday week. Our free printable PDF of the whole school year is at the bottom of this page, under [Print the Lewisville ISD school-year calendar](#print-the-lewisville-isd-school-year-calendar).
 
 The calendar prints the word "Holiday" for those weeks and does not name Thanksgiving or spring break, so those labels are our reading. This story adds the weekday for every day off, the four nine-week periods with their day counts, the new 2026-27 bell times and a comparison with Plano and Dallas. A printable school-year calendar is at the bottom of the page.
 
