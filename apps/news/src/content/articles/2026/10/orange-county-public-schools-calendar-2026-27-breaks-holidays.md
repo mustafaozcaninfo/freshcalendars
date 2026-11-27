@@ -1,17 +1,17 @@
 ---
-title: "OCPS Calendar 2026-27: Thanksgiving Nov. 23-27, Free PDF"
-description: "Orange County Public Schools (OCPS) calendar 2026-27 as a free one-page PDF: Thanksgiving break Nov. 23-27, winter break Dec. 21-Jan. 1, last day May 26."
+title: "OCPS Calendar 2026-27: Winter Break Dec. 21-Jan. 1, Free PDF"
+description: "Orange County Public Schools (OCPS) winter break runs Dec. 21 to Jan. 1; students return Tue., Jan. 5. Free one-page PDF with every 2026-27 date."
 type: news
 publishedAt: "2026-10-31T13:20:00-04:00"
-updatedAt: "2026-11-08T07:24:00-05:00"
+updatedAt: "2026-11-27T01:20:00-05:00"
 authors: [aaron-kessler]
 category: school-calendars
 keywords: ["OCPS calendar 2026-27", "Orange County Public Schools calendar 2026-2027", "OCPS Thanksgiving break 2026", "OCPS winter break 2026", "OCPS spring break 2027"]
 dateline: "Orlando, Fla."
 hero:
   src: ../../../../assets/news/orange-county-public-schools-calendar-2026-27-breaks-holidays/orange-county-public-schools-calendar-2026-27-breaks-holidays.webp
-  alt: "Lake Eola and the Orlando skyline, where the Orange County Public Schools calendar 2026-27 sets Thanksgiving break for Nov. 23-27"
-  caption: "Lake Eola and the downtown Orlando skyline in 2024. File photo; Orange County Public Schools students are off Nov. 23-27, 2026."
+  alt: "Lake Eola and the Orlando skyline, where the Orange County Public Schools calendar 2026-27 sets winter break for Dec. 21-Jan. 1"
+  caption: "Lake Eola and the downtown Orlando skyline in 2024. File photo; Orange County Public Schools students were off Nov. 23-27, 2026."
   credit: "Photo: JER3L1337 / Wikimedia Commons, cropped, edited"
   license:
     name: "CC BY 4.0"
@@ -20,12 +20,12 @@ hero:
     author: "JER3L1337"
     authorUrl: "https://commons.wikimedia.org/wiki/User:JER3L1337"
 summary:
-  - "Thanksgiving break at Orange County Public Schools is Monday through Friday, Nov. 23-27, 2026, 21 days after Monday, Nov. 2."
-  - "Winter break runs Monday, Dec. 21, 2026 through Friday, Jan. 1, 2027; students return Tuesday, Jan. 5."
+  - "Winter break at Orange County Public Schools runs Monday, Dec. 21, 2026 through Friday, Jan. 1, 2027; Monday, Jan. 4 is a teacher workday and student holiday, and students return Tuesday, Jan. 5, when the second semester begins."
+  - "Thanksgiving Break was Monday through Friday, Nov. 23-27, 2026. Students have 15 school days, Nov. 30 to Dec. 18, before winter break."
   - "The last day of school is Wednesday, May 26, 2027, five days before Memorial Day."
   - "If storms close schools, the calendar names four make-up days in order: Feb. 15, Apr. 23, Nov. 23 and Nov. 24."
 faq:
-  - q: "When is Thanksgiving break 2026 for OCPS?"
+  - q: "When was Thanksgiving break 2026 for OCPS?"
     a: "Monday, Nov. 23 through Friday, Nov. 27, 2026, according to the district's 2026-2027 calendar."
   - q: "When is winter break 2026 for OCPS?"
     a: "Monday, Dec. 21, 2026 through Friday, Jan. 1, 2027. Monday, Jan. 4 is a teacher workday and student holiday, and students return Tuesday, Jan. 5."
@@ -104,7 +104,7 @@ assets:
     alt: "Printable OCPS school calendar 2026-27 listing breaks, holidays and storm make-up days"
 ---
 
-**Orange County Public Schools (OCPS) students are off Monday through Friday, Nov. 23-27, 2026, for Thanksgiving Break**, the next break on the district's 2026-2027 School Calendar. Winter Break follows from Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027, and the last day of school is Wednesday, May 26, 2027. Today is Sunday, Nov. 8, so Thanksgiving Break starts in 15 days. The whole year is on our [free one-page OCPS calendar PDF](/news/downloads/ocps-2026-27/ocps-school-calendar-2026-27.pdf).
+**Orange County Public Schools (OCPS) Winter Break runs Monday, Dec. 21, 2026 to Friday, Jan. 1, 2027**, the next break on the district's 2026-2027 School Calendar. Monday, Jan. 4 is a teacher workday and student holiday, and students return Tuesday, Jan. 5, when the second semester begins. Thanksgiving Break was Nov. 23-27, and the last day of school is Wednesday, May 26, 2027. As of Friday, Nov. 27, Winter Break starts in 24 days, after 15 school days from Monday, Nov. 30 to Friday, Dec. 18. The whole year is on our [free one-page OCPS calendar PDF](/news/downloads/ocps-2026-27/ocps-school-calendar-2026-27.pdf).
 
 This story adds two things the calendar itself does not: a count of school days before each break, counted from Monday, Nov. 2, and the order in which holidays turn into school days if storms close schools. A free one-page list is below. You can also keep the dates on our [printable school calendar for 2026-27](/printable-school-calendar.html).
 
@@ -127,7 +127,7 @@ This story adds two things the calendar itself does not: a count of school days 
 | Wed., May 26, 2027 | Last day of school (post-planning May 27-28) |
 | Mon., May 31, 2027 | Memorial Day |
 
-Counting weekends, Thanksgiving Break runs nine days, from Saturday, Nov. 21 through Sunday, Nov. 29. Winter Break runs 16 days, from Saturday, Dec. 19 through Sunday, Jan. 3, with Monday, Jan. 4 off as well. Spring Break runs from Saturday, Mar. 13 through Sunday, Mar. 21, and follows the Friday, Mar. 12 workday, so students have a 10-day stretch from Mar. 12 to Mar. 21. [When Thanksgiving falls this year](/when-is/thanksgiving/) is Thursday, Nov. 26.
+Counting weekends, Thanksgiving Break ran nine days, from Saturday, Nov. 21 through Sunday, Nov. 29. Winter Break runs 16 days, from Saturday, Dec. 19 through Sunday, Jan. 3, with Monday, Jan. 4 off as well. Spring Break runs from Saturday, Mar. 13 through Sunday, Mar. 21, and follows the Friday, Mar. 12 workday, so students have a 10-day stretch from Mar. 12 to Mar. 21. [When Thanksgiving fell this year](/when-is/thanksgiving/) was Thursday, Nov. 26.
 
 ## How many school days are left before each OCPS break?
 
@@ -151,7 +151,7 @@ The OCPS calendar lists severe weather make-up days in priority order. If school
 3. Mon., Nov. 23, 2026 (first day of Thanksgiving Break)
 4. Tue., Nov. 24, 2026 (second day of Thanksgiving Break)
 
-Families who book travel for the Thanksgiving week should know that the last two make-up days sit inside it. The calendar does not say how the district would announce a change, so watch OCPS announcements before you pay for anything that cannot be moved.
+The last two make-up days sit inside Thanksgiving week. The calendar does not say how the district would announce a change, so watch OCPS announcements before you pay for anything that cannot be moved.
 
 ## Veterans Day, early release days and other single days off
 
@@ -159,4 +159,4 @@ The OCPS calendar does not mark Wednesday, Nov. 11 as a holiday, so plan on a re
 
 ## Print the OCPS calendar and compare other Florida counties
 
-The printable list covers every date above, the storm make-up order and a source line. To plan the Thanksgiving week by day, use the [November 2026 printable calendar](/november-calendars.html). Families with children in more than one Florida county can compare the [Miami-Dade school calendar](/news/miami-dade-school-calendar-2026-27-breaks/) and the [Broward County school calendar](/news/broward-county-school-calendar-2026-27/), and see where other districts stand in our list of [Thanksgiving break dates by school district](/news/thanksgiving-break-2026-school-districts-dates/).
+The printable list covers every date above, the storm make-up order and a source line. To plan the weeks before Winter Break by day, use the [November 2026 printable calendar](/november-calendars.html). Families with children in more than one Florida county can compare the [Miami-Dade school calendar](/news/miami-dade-school-calendar-2026-27-breaks/) and the [Broward County school calendar](/news/broward-county-school-calendar-2026-27/), and see where other districts stand in our list of [Thanksgiving break dates by school district](/news/thanksgiving-break-2026-school-districts-dates/).
