@@ -3,7 +3,7 @@ title: "ACA Open Enrollment 2027 by State: Idaho Dec. 15, California Jan. 31"
 description: "Affordable Care Act (ACA) open enrollment for 2027 ends Jan. 15 on HealthCare.gov, Dec. 15 in Idaho and Jan. 31 in California. See 16 state exchanges."
 type: news
 publishedAt: "2026-11-06T06:00:00-05:00"
-updatedAt: "2026-11-06T06:00:00-05:00"
+updatedAt: "2026-11-27T15:20:00-05:00"
 authors: [aaron-kessler]
 category: money-benefits
 keywords: ["open enrollment deadline 2027 by state", "covered california open enrollment 2027", "state marketplace deadline 2027", "obamacare deadline by state"]
@@ -191,9 +191,9 @@ assets:
         - cells: { ex: "Nevada", opens: "Nov. 1", ends: "Jan. 15" }
           src: 14
           quote: "Open Enrollment runs from November 1 to January 15."
-        - cells: { ex: "New Jersey", jan1: "Dec. 31", ends: "Jan. 31" }
+        - cells: { ex: "New Jersey", opens: "Nov. 1", jan1: "Dec. 31", ends: "Jan. 31" }
           src: 15
-          quote: "runs through January 31, 2027 | Enroll by December 31 for coverage starting January 1."
+          quote: "kicking off Open Enrollment for the 2027 plan year on November 1 | runs through January 31, 2027 | Enroll by December 31 for coverage starting January 1."
         - cells: { ex: "New Mexico", opens: "Nov. 1", ends: "Jan. 15" }
           src: 17
           quote: "Open Enrollment is here! November 1 - January 15."
@@ -226,7 +226,7 @@ draft: false
 
 We read each exchange's official page or press release on Nov. 6, 2026. A blank "not confirmed" cell means that exchange's page did not state the date in the sources we could read, not that no deadline exists.
 
-| Exchange | Opens | Deadline for Jan. 1 coverage | Open enrollment ends | Also stated |
+| Exchange | Opens | Deadline for Jan. 1 coverage | Open enrollment ends | Also noted |
 |---|---|---|---|---|
 | HealthCare.gov (states without their own exchange) | Sun., Nov. 1 | Tue., Dec. 15 | Fri., Jan. 15, 2027 | CMS: "runs through January 15, 2027" |
 | California (Covered California) | Sun., Nov. 1 | Thu., Dec. 31 (apply by) | Sun., Jan. 31, 2027 | Feb. 1 deadline not stated |
@@ -240,13 +240,13 @@ We read each exchange's official page or press release on Nov. 6, 2026. A blank 
 | Maryland (Maryland Health Connection) | Not confirmed | Not confirmed on the exchange | Fri., Jan. 15, 2027 | End date from two Maryland newsrooms (see below) |
 | Minnesota (MNsure) | Not confirmed | "Before Dec. 15" | Not confirmed | Jan. 15 for coverage on Feb. 1 |
 | Nevada (Nevada Health Link) | Sun., Nov. 1 | Not stated | Fri., Jan. 15, 2027 | |
-| New Jersey (GetCoveredNJ) | Not confirmed | Thu., Dec. 31 | Sun., Jan. 31, 2027 | Department of Banking and Insurance (DOBI) release, Oct. 28, 2026 |
+| New Jersey (GetCoveredNJ) | Sun., Nov. 1 | Thu., Dec. 31 | Sun., Jan. 31, 2027 | Department of Banking and Insurance (DOBI) release, Oct. 28, 2026 |
 | New Mexico (beWellnm) | Sun., Nov. 1 | Not stated | Fri., Jan. 15 | Home page shows no year |
 | Oregon (Explore Health) | Sun., Nov. 1 | Thu., Dec. 31 | Fri., Jan. 15, 2027 | New marketplace for 2027 |
 | Vermont (Vermont Health Connect) | Sun., Nov. 1 | Tue., Dec. 15 | Mon., Dec. 28 | Dec. 28 is also the deadline for Feb. 1 coverage |
 | Washington (Washington Healthplanfinder) | Not confirmed | Thu., Dec. 31 | Not confirmed | Jan. 15, 2027 for coverage starting Feb. 1 |
 
-Weekdays are computed from the dates; the exchanges' pages print the dates only. Sources are linked at the bottom of this page.
+Weekdays are computed from the dates; the exchanges' pages print the dates only. Sources are listed below.
 
 ## Which dates stand out?
 
@@ -273,4 +273,4 @@ We could not confirm 2027 dates on an official page for the District of Columbia
 
 ## ACA deadline dates to mark on your calendar
 
-Pencil in the dates that apply to your exchange: Dec. 15 on the [December 2026 calendar](/december-calendars.html), Dec. 31 for the exchanges that ask for it by then, and Jan. 15 or Jan. 31 on the [January 2027 calendar](/january-calendars.html). The [November 2026 calendar](/november-calendars.html) shows the Nov. 1 opening day. Our free printable puts the same dates for HealthCare.gov and the 16 exchanges on one page; it is under the downloads on this page. People with Medicare have a separate window; see [Medicare open enrollment, ending Dec. 7](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/).
+Pencil in the dates that apply to your exchange: Dec. 15 on the [December 2026 calendar](/december-calendars.html), Dec. 31 for the exchanges that ask for it by then, and Jan. 15 or Jan. 31 on the [January 2027 calendar](/january-calendars.html). The [November 2026 calendar](/november-calendars.html) shows the Nov. 1 opening day. Our free printable puts the same dates for HealthCare.gov and the 16 exchanges on one page; it is under the downloads. People with Medicare have a separate window; see [Medicare open enrollment, ending Dec. 7](/news/medicare-open-enrollment-2026-december-7-90-dollar-rebate/).
