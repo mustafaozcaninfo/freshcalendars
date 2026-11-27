@@ -34,8 +34,8 @@ assets:
           quote: "Target's Black Friday deals run Nov. 22-29, with new weekend deals available Nov. 26-29."
         - date: "2026-11-29"
           cells:
-            What happens: { text: "Extended store hours begin (run to Dec. 23)", src: 1 }
-            Where or terms: { text: "Stores, temporarily extended", src: 1 }
+            What happens: { text: "Store hours temporarily extended (to Dec. 23)", src: 1 }
+            Where or terms: { text: "All stores, for the holiday season", src: 1 }
           src: 1
           quote: "From Nov. 29 through Dec. 23, store hours will be temporarily extended for the holiday season."
         - date: "2026-11-30"
@@ -77,7 +77,7 @@ assets:
         - date: "2027-01-24"
           cells:
             What happens: { text: "Return deadline: electronics, entertainment, most Target Plus items", src: 1 }
-            Where or terms: { text: "Excludes Apple, Beats and seasonal holiday decor", src: 1 }
+            Where or terms: { text: "Apple, Beats and seasonal holiday decor not included", src: 1 }
           src: 1
           quote: "Items must be returned by Jan. 24, 2027."
       unconfirmed:
