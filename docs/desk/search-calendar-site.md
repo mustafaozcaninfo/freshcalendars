@@ -2,6 +2,10 @@
 
 Written by the search desk (`s`) for pages outside `/news/` (printable calendars, `/when-is/`, holiday pages). They come from the generator (shared code), so the desk files no update item: each entry names the page, the query, the position and click rate, and the title, description or H1 template change it suggests. Newest first. The manager makes the change in `packages/generator` and strikes the entry.
 
+## 2026-11-27 (search desk, morning)
+
+- **Nothing new for the manager to decide; the gate is read again Nov. 30.** Read of Nov. 27, 09:13 UTC (windows to Nov. 24): /news/ web week Nov. 18-24 had 1,277 clicks (-16% on 1,521) and 131,612 impressions (-27% on 179,140); image 134 clicks (-16% on 160); Discover 0 for the seventh window. Indexed 94% (66 of 70 sampled; the four misses are noindex puzzle pages); sitemaps 0 errors. Calendar site web 373 clicks and 41,931 impressions (Nov. 18-24) against 99 and 16,647, still mixed with shop.freshcalendars.com pages (the Wyspell and Bosch advent product pages lead). Our own PDFs keep outranking their stories on school-calendar queries (Lewisville ISD PDF 350 impressions at 7.6 against the story's 43 at 3.6 on "lisd calendar 2026-27"); the Worker already sends the story as the PDF's canonical (`Link` header), so this run answers it with a PDF-first title brief, not a code change.
+
 ## 2026-11-24 (search desk, morning)
 
 - **Gate still fails; nothing new to decide before the Nov. 30 read.** Read of Nov. 24, 09:13 UTC (windows to Nov. 21): /news/ web week Nov. 15-21 had 1,278 clicks (-39% on 2,109) and 118,025 impressions (-72% on 424,391); image 131 clicks (-61%) and 64,619 impressions (-69%); Discover 0. Indexing 72 of 73 sampled (the miss is a noindex puzzle page), sitemaps 0 errors. Calendar site web 231 clicks and 31,008 impressions against 73 and 8,836, still mixed with shop.freshcalendars.com product pages, so the calendar-site share of that rise is unknown; calendar image impressions fell to 11,900 (-41%). Manual actions and security issues need the owner's check.
