@@ -1,8 +1,9 @@
 ---
 title: "Celebration Bowl 2026: Sat., Dec. 12 at Noon ET on ABC in Atlanta"
-description: "The 2026 Celebration Bowl is Sat., Dec. 12 at noon ET on ABC. Kickoff in every U.S. time zone, every result since 2015 and a printable game-day sheet."
+description: "The 2026 Celebration Bowl is Sat., Dec. 12 at noon ET on ABC, with South Carolina State in. Kickoff in every U.S. time zone, results since 2015, printable."
 type: news
 publishedAt: "2026-11-12T23:20:00-05:00"
+updatedAt: "2026-11-27T13:20:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["celebration bowl 2026", "celebration bowl 2026 time", "hbcu bowl game 2026", "celebration bowl tv channel"]
@@ -18,8 +19,8 @@ assets:
     slug: celebration-bowl-2026-game-day-sheet
     group: college-football-2026-27
     title: "Celebration Bowl 2026 Game-Day Sheet, Dec. 12"
-    subtitle: "SWAC title game Dec. 5 and the Celebration Bowl Dec. 12, with both teams still open"
-    note: "Source: ESPN Press Room, June 3, 2026; Cricket Celebration Bowl; HBCU Gameday, May 27, 2026; HBCU Sports, May 12, 2026."
+    subtitle: "South Carolina State is in; the SWAC title game Dec. 5 sets its opponent for Dec. 12"
+    note: "Source: ESPN Press Room, June 3, 2026; Cricket Celebration Bowl; Southwestern Athletic Conference, May 27, 2026; Live 5 News, Nov. 14, 2026; Atlanta Journal-Constitution, Nov. 16, 2026."
     description: "One-page Celebration Bowl 2026 sheet: the Dec. 12 noon ET kickoff on ABC in every U.S. time zone, the Dec. 5 SWAC title game, and a box for each team."
     alt: "Printable Celebration Bowl 2026 game-day sheet with the Dec. 12 noon ET kickoff on ABC and the Dec. 5 Southwestern Athletic Conference title game"
     data:
@@ -29,8 +30,8 @@ assets:
           title: "SWAC Championship Game"
           channel: "ESPN2"
           airing: live
-          src: 8
-          quote: "airing live on ESPN2 on Saturday, Dec. 5 at 2 p.m. EST"
+          src: 11
+          quote: "will air live on ESPN2 on Saturday, December 5 at 2:00 p.m. EST"
         - start: "2026-12-12T12:00-05:00"
           title: "Cricket Celebration Bowl"
           detail: "Mercedes-Benz Stadium, Atlanta"
@@ -39,8 +40,8 @@ assets:
           src: 1
           quote: ["Sat, Dec. 12", "(noon ET, ABC)"]
       unconfirmed:
-        - { label: "MEAC champion", why: "Not decided as of Nov. 13, 2026" }
-        - { label: "SWAC champion", why: "Not decided as of Nov. 13, 2026" }
+        - { label: "MEAC champion", why: "South Carolina State, per Live 5 News and the Atlanta Journal-Constitution" }
+        - { label: "SWAC champion", why: "Decided at the Dec. 5, 2026 title game" }
 hero:
   src: ../../../../assets/news/celebration-bowl-2026-december-12-time-tv-meac-swac/celebration-bowl-2026-december-12-time-tv-meac-swac.webp
   alt: "Celebration Bowl 2026: an HBCU marching band performs on the field at the 2022 HBCU Legacy Bowl"
@@ -54,7 +55,7 @@ hero:
 summary:
   - "The Cricket Celebration Bowl is Saturday, Dec. 12, 2026, at noon ET on ABC at Mercedes-Benz Stadium in Atlanta, per ESPN Events and the bowl's website. It is the 11th edition and opens the ESPN Events bowl slate."
   - "Noon ET is 11 a.m. CT, 10 a.m. MT and 9 a.m. PT."
-  - "The two teams are not set as of Nov. 13: the Mid-Eastern Athletic Conference (MEAC) champion and the Southwestern Athletic Conference (SWAC) champion. Two newsrooms report the SWAC title game for Saturday, Dec. 5 at 2 p.m. ET on ESPN2."
+  - "South Carolina State is in as Mid-Eastern Athletic Conference (MEAC) champion, per Live 5 News and the Atlanta Journal-Constitution. Its opponent is the Southwestern Athletic Conference (SWAC) champion, decided Saturday, Dec. 5 at 2 p.m. ET on ESPN2, the SWAC says."
   - "In the 10 games played since 2015, North Carolina A&T won four titles and South Carolina State two; the bowl's history page lists no game for 2020."
 faq:
   - q: "What channel is the Celebration Bowl on?"
@@ -65,6 +66,8 @@ faq:
     a: "South Carolina State beat Prairie View A&M 40-38 in four overtimes in 2025, according to the bowl's history page. South Carolina State also won in 2021, 31-10 over Jackson State."
   - q: "Has the Celebration Bowl ever been decided by one point?"
     a: "Once. Grambling State beat North Carolina Central 10-9 in 2016. The 2025 game was decided by two points, 40-38."
+  - q: "Who plays in the 2026 Celebration Bowl?"
+    a: "South Carolina State, the MEAC champion, plays the winner of the SWAC Championship Game on Saturday, Dec. 5. South Carolina State beat North Carolina Central 38-24 on Nov. 14, according to Live 5 News."
   - q: "Are Celebration Bowl tickets on sale?"
     a: "The bowl's ticket page links to tickets, suites, groups and parking and says ticket promotions apply to online orders only. It lists no prices and no on-sale date."
 sources:
@@ -108,6 +111,22 @@ sources:
     url: "https://fbschedules.com/meac-announces-2026-espn-football-tv-schedule/"
     publisher: "FBSchedules"
     date: "2026-08-05"
+  - title: "SWAC announces 2026 ESPN football schedule"
+    url: "https://swac.org/news/2026/5/27/swac-announces-2026-espn-football-schedule.aspx"
+    publisher: "Southwestern Athletic Conference"
+    date: "2026-05-27"
+  - title: "SC State clinches MEAC championship with win over NC Central, 38-24"
+    url: "https://www.live5news.com/2026/11/15/sc-state-clinches-meac-championship-with-win-over-nc-central-38-24/"
+    publisher: "Live 5 News (WCSC)"
+    date: "2026-11-14"
+  - title: "South Carolina State is Atlanta-bound for Celebration Bowl"
+    url: "https://www.ajc.com/sports/2026/11/south-carolina-state-celebration-bowl/"
+    publisher: "The Atlanta Journal-Constitution"
+    date: "2026-11-16"
+  - title: "2026 Football Standings"
+    url: "https://www.meacsports.com/sports/football/standings"
+    publisher: "MEAC"
+    date: "2026-11-27"
 downloads:
   - group: "Celebration Bowl 2026 Game-Day Sheet printables"
     title: "Celebration Bowl 2026 Game-Day Sheet, Dec. 12"
@@ -128,7 +147,7 @@ draft: false
 
 **The 2026 Cricket Celebration Bowl is Saturday, Dec. 12, at noon ET on ABC at Mercedes-Benz Stadium in Atlanta, according to the ESPN Events bowl schedule announced June 3, 2026.** It is the 11th edition of the game between historically Black colleges and universities (HBCU). Below: kickoff in every U.S. time zone, the dates that lead to it, all 10 results since 2015 and a one-page game-day sheet.
 
-Neither team is set. The matchup is the Mid-Eastern Athletic Conference (MEAC) champion against the Southwestern Athletic Conference (SWAC) champion, and as of Nov. 13 neither title has been decided. The full bowl slate is in our [college football bowl schedule for 2026-27](/news/college-football-bowl-schedule-2026-27-dates-times-tv-cfp/).
+South Carolina State is in. The matchup is the Mid-Eastern Athletic Conference (MEAC) champion against the Southwestern Athletic Conference (SWAC) champion, and South Carolina State won the MEAC title with a 38-24 win over North Carolina Central on Nov. 14, according to Live 5 News (WCSC) and The Atlanta Journal-Constitution. The SWAC champion is decided Dec. 5. The full bowl slate is in our [college football bowl schedule for 2026-27](/news/college-football-bowl-schedule-2026-27-dates-times-tv-cfp/).
 
 ## Celebration Bowl 2026 kickoff, channel and stadium
 
@@ -157,13 +176,14 @@ The bowl's website gives 12:00 p.m. ET. The other zones are our conversion for t
 
 | Date | What happens | Source |
 |---|---|---|
+| Sat., Nov. 14 | South Carolina State wins the MEAC title, 38-24 over North Carolina Central | Live 5 News, Atlanta Journal-Constitution |
 | Sat., Nov. 21 | Last MEAC regular-season Saturday | FBSchedules |
-| Sat., Dec. 5 | SWAC Championship Game, 2 p.m. ET, ESPN2 | HBCU Sports, HBCU Gameday |
+| Sat., Dec. 5 | SWAC Championship Game, 2 p.m. ET, ESPN2 | SWAC |
 | Sat., Dec. 12 | Celebration Bowl, noon ET, ABC | Bowl website, ESPN Press Room |
 
 Delaware State athletics, which carried the MEAC's announcement on Aug. 5, wrote that the 2026 MEAC television slate "concludes with the Cricket Celebration Bowl on Saturday, December 12." FBSchedules lists Nov. 21 as the last regular-season Saturday on that slate.
 
-The SWAC time comes from two newsrooms. HBCU Sports reported on May 12 that the title game's kickoff is set for 2 p.m. on ESPN2 on Saturday, Dec. 5, and HBCU Gameday reported on May 27 that it airs live on ESPN2 on Saturday, Dec. 5 at 2 p.m. EST. The conference's own TV announcement of June 3 says kickoff times "will be released at a later date," so the SWAC has not posted the time itself. The title game's venue is not yet announced. Our [conference championship games story](/news/college-football-conference-championship-games-2026-schedule-times-tv/) covers the other title games that weekend.
+The SWAC's own release of May 27 says the 2026 Pepsi SWAC Football Championship Game "will air live on ESPN2 on Saturday, December 5 at 2:00 p.m. EST." The title game's venue is not confirmed, and this story names no division winner. Our [conference championship games story](/news/college-football-conference-championship-games-2026-schedule-times-tv/) covers the other title games that weekend.
 
 ## Celebration Bowl results since 2015
 
@@ -201,7 +221,9 @@ North Carolina A&T won each of its four games and Alcorn State lost each of its 
 
 ## Who plays in the 2026 Celebration Bowl?
 
-Not decided. The bowl pairs the MEAC champion with the SWAC champion, and neither conference had named its champion as of Nov. 13. This story lists no team as clinched.
+South Carolina State is the MEAC champion. It beat North Carolina Central 38-24 on Saturday, Nov. 14, 2026, for its third straight MEAC title, according to Live 5 News (WCSC) and The Atlanta Journal-Constitution, which wrote that its opponent "will be determined by the Dec. 5 SWAC championship game." The MEAC's standings page lists South Carolina State first at 5-0 in conference and 10-2 overall, with North Carolina Central at 4-1, but names no champion, and no MEAC release was found.
+
+The other team is the winner of the SWAC Championship Game on Dec. 5. This story lists no SWAC team as clinched.
 
 ## Celebration Bowl tickets and the fan experience
 
@@ -211,4 +233,4 @@ Its Know Before You Go page puts the Coca-Cola Fan Experience at the Georgia Wor
 
 ## Is there a printable Celebration Bowl game-day sheet?
 
-Yes. The one-page sheet shows the Dec. 5 SWAC title game and the Dec. 12 kickoff on ABC in all four U.S. time zones, with a pick column and a box for each team once they are known. Times can change; check ESPN on game day.
+Yes. The one-page sheet shows the Dec. 5 SWAC title game and the Dec. 12 kickoff on ABC in all four U.S. time zones, with a pick column and a box for each team. Times can change; check ESPN on game day.
