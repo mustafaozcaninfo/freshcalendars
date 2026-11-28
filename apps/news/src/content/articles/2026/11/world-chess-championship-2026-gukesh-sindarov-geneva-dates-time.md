@@ -68,7 +68,7 @@ sources:
     url: "https://www.fide.com/salesforce-fide-world-championship-game-3-a-tense-fight-ends-in-a-draw/"
     publisher: "International Chess Federation (FIDE)"
     date: "2026-11-26"
-  - title: "World-class commentary meets cutting-edge technology at the Salesforce FIDE World Championship Match 2026"
+  - title: "FIDE: commentary and broadcast for the Salesforce FIDE World Championship Match 2026"
     url: "https://www.fide.com/world-%d1%81lass-commentary-meets-cutting-edge-technology-at-the-salesforce-fide-world-championship-match-2026/"
     publisher: "International Chess Federation (FIDE)"
     date: "2026-11-26"
