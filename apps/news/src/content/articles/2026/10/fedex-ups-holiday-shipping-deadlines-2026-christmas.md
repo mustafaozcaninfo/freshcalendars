@@ -1,9 +1,9 @@
 ---
 title: "FedEx Holiday Shipping Deadlines 2026: Dec. 15 to Dec. 23"
-description: "FedEx holiday shipping deadlines 2026 run from Dec. 15 (Ground Economy) to Dec. 23 (overnight) for Dec. 24 delivery. UPS had not posted dates by Sept. 24."
+description: "FedEx holiday shipping deadlines 2026 run from Dec. 15 (Ground Economy) to Dec. 23 (overnight) for Dec. 24 delivery. UPS last-ship dates are not confirmed."
 type: news
 publishedAt: "2026-10-28T18:00:00-04:00"
-updatedAt: "2026-11-02T14:10:00-05:00"
+updatedAt: "2026-11-28T05:30:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["FedEx holiday shipping deadlines 2026", "UPS holiday shipping deadlines 2026", "last day to ship FedEx Christmas 2026", "UPS holiday surcharges 2026"]
@@ -44,26 +44,30 @@ hero:
     source: "https://commons.wikimedia.org/wiki/File:Sticking_a_label_onto_a_parcel_for_shipping.jpg"
     author: "Meanwell Packaging"
 summary:
-  - "FedEx's recommended last ship dates for delivery by Thursday, Dec. 24, 2026 run from Dec. 15 (Ground Economy) to Dec. 23 (overnight services), with FedEx SameDay on Dec. 24."
+  - "FedEx's recommended last ship dates for delivery by Thursday, Dec. 24, 2026 run from Dec. 15 (Ground Economy) to Dec. 23 (overnight services), with FedEx SameDay on Dec. 24, according to Value Added Resource and Fox 4."
   - "FedEx Ground and Home Delivery depends on transit time: Dec. 17 for 5-day, Dec. 18 for 4-day, Dec. 21 for 3-day, Dec. 22 for 2-day and Dec. 23 for 1-day."
-  - "United Parcel Service (UPS) had not published its 2026 last days to ship as of Sept. 24, 2026; its schedule shows delivery on Dec. 24 and no regular pickup or delivery on Christmas Day."
+  - "United Parcel Service (UPS) last days to ship are not confirmed in the sources we can read (ups.com could not be read on Nov. 28, 2026); Value Added Resource reports its schedule shows delivery on Dec. 24 and no regular pickup or delivery on Christmas Day."
   - "UPS higher holiday surcharges started Sept. 27 and Oct. 25 and stay active through Jan. 16, 2027, according to Supply Chain Dive."
 faq:
   - q: "What is the last day to ship with FedEx for Christmas 2026?"
-    a: "For delivery by Thursday, Dec. 24, 2026, FedEx's table lists Wednesday, Dec. 23 for First Overnight, Priority Overnight, Standard Overnight and Extra Hours, and Thursday, Dec. 24 for FedEx SameDay, as reported by Value Added Resource."
+    a: "For delivery by Thursday, Dec. 24, 2026, FedEx's table lists Wednesday, Dec. 23 for First Overnight, Priority Overnight, Standard Overnight and Extra Hours, and Thursday, Dec. 24 for FedEx SameDay, as reported by Value Added Resource and Fox 4."
   - q: "When does FedEx Ground need to ship for Christmas 2026?"
-    a: "It depends on the transit time to your address: Dec. 17 for 5-day, Dec. 18 for 4-day, Dec. 21 for 3-day, Dec. 22 for 2-day and Dec. 23 for 1-day. FedEx Ground Economy is Dec. 15."
+    a: "It depends on the transit time to your address: Dec. 17 for 5-day, Dec. 18 for 4-day, Dec. 21 for 3-day, Dec. 22 for 2-day and Dec. 23 for 1-day. FedEx Ground Economy is Dec. 15, according to Value Added Resource and Fox 4."
   - q: "What are the UPS holiday shipping deadlines for 2026?"
-    a: "UPS had not published its 2026 recommended last days to ship as of Sept. 24, 2026, according to Value Added Resource. Check ups.com for the dates once they appear."
+    a: "UPS's recommended 2026 last days to ship are not confirmed in the sources we can read. ups.com could not be read on Nov. 28, 2026, and Value Added Resource reported on Sept. 24 that UPS had not yet published them. Check ups.com for the dates."
   - q: "Is UPS open on Christmas Eve and Christmas Day 2026?"
-    a: "UPS's 2026 schedule shows delivery for all services on Christmas Eve, with Dec. 24 pickup limited to Air and international Air shipments prearranged by Dec. 18. UPS is closed for regular pickup and delivery on Christmas Day, Dec. 25."
+    a: "According to Value Added Resource, UPS's 2026 schedule shows delivery for all services on Christmas Eve, with Dec. 24 pickup limited to Air and international Air shipments prearranged by Dec. 18. UPS is closed for regular pickup and delivery on Christmas Day, Dec. 25."
   - q: "Are these FedEx dates guaranteed?"
-    a: "They are recommended last ship dates from FedEx's table as reported by Value Added Resource. Check the service and ZIP Codes on fedex.com before you rely on a date."
+    a: "They are recommended last ship dates from FedEx's table as reported by Value Added Resource and Fox 4. Check the service and ZIP Codes on fedex.com before you rely on a date."
 sources:
   - title: "UPS, FedEx Publish 2026 Holiday Shipping Deadlines"
     url: "https://www.valueaddedresource.net/2026-holiday-shipping-deadlines/"
     publisher: "Value Added Resource"
     date: "2026-09-24"
+  - title: "Here are FedEx's deadlines to ensure holiday gifts arrive by Christmas"
+    url: "https://www.fox4news.com/news/here-fedexs-deadlines-ensure-your-holiday-gifts-arrive-christmas"
+    publisher: "Fox 4 (KDFW, Dallas)"
+    date: "2026-09-23"
   - title: "UPS Preps Higher Holiday Surcharges for 2026"
     url: "https://www.supplychaindive.com/news/ups-preps-higher-holiday-surcharges-for-2026/828936/"
     publisher: "Supply Chain Dive"
@@ -101,9 +105,9 @@ downloads:
     pages: 1
 ---
 
-**FedEx's 2026 last recommended ship dates for delivery by Thursday, Dec. 24 run from Tuesday, Dec. 15 for FedEx Ground Economy to Wednesday, Dec. 23 for its overnight services**, according to the FedEx 2026 Peak Last Day to Ship table as reported by Value Added Resource on Sept. 24, 2026. United Parcel Service (UPS) had not published its own last days to ship as of that report.
+**FedEx's 2026 last recommended ship dates for delivery by Thursday, Dec. 24 run from Tuesday, Dec. 15 for FedEx Ground Economy to Wednesday, Dec. 23 for its overnight services**, according to the FedEx 2026 Peak Last Day to Ship table as reported by Value Added Resource (Sept. 24, 2026) and Fox 4 in Dallas (Sept. 23, 2026). United Parcel Service (UPS) last-ship dates are not confirmed in the sources we can read.
 
-FedEx and UPS pages block automated access, so the dates below come from that trade-press report and are attributed to it. Confirm your service and ZIP Codes on fedex.com before you rely on a date. The printable below puts the FedEx dates on one December 2026 calendar next to the U.S. Postal Service (USPS) dates from our [USPS holiday shipping deadlines story](/news/usps-holiday-shipping-deadlines-2026/).
+fedex.com and ups.com block automated access, so the FedEx dates below come from Value Added Resource and Fox 4, which agree on every row. Confirm your service and ZIP Codes on fedex.com before you rely on a date. The printable below puts the FedEx dates on one December 2026 calendar next to the U.S. Postal Service (USPS) dates from our [USPS holiday shipping deadlines story](/news/usps-holiday-shipping-deadlines-2026/).
 
 ## What are the FedEx last ship dates for Christmas 2026?
 
@@ -126,9 +130,9 @@ Ground and Home Delivery dates depend on how many days a package takes to reach 
 
 ## What has UPS published for 2026?
 
-As of Sept. 24, 2026, UPS had not published its recommended last days to ship, according to Value Added Resource. The same report says UPS's 2026 holiday schedule shows delivery for all services on Christmas Eve, Dec. 24. Pickup that day is limited to Air and international Air shipments prearranged by Dec. 18. UPS is closed for regular pickup and delivery on Christmas Day, Friday, Dec. 25.
+UPS's recommended last days to ship for 2026 are not confirmed. ups.com could not be read on Nov. 28, 2026, and Value Added Resource reported on Sept. 24 that UPS had not yet published them. That report says UPS's 2026 holiday schedule shows delivery for all services on Christmas Eve, Dec. 24. Pickup that day is limited to Air and international Air shipments prearranged by Dec. 18. UPS is closed for regular pickup and delivery on Christmas Day, Friday, Dec. 25.
 
-Those deadlines are not yet published in the sources we can read, so we list none for UPS. Check ups.com for them.
+Those dates are not confirmed in the sources we can read, so we list none for UPS. Check ups.com for them.
 
 ## How did last year's deadlines compare?
 
