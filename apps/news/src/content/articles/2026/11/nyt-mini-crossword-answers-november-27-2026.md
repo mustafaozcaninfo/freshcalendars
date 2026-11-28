@@ -69,7 +69,7 @@ The 1-Across clue is the least literal of the ten. It asks about an Egyptian kin
 
 Fagliano's black squares sit at all four corners. That trims the top and bottom rows and the left and right columns to three squares each, so 1-Across, 8-Across, 4-Down and 5-Down are the four 3-letter entries, one on each edge. The six 5-letter entries are the three middle rows across and the three middle columns down, which makes the middle of the grid the part that depends on every crossing answer.
 
-The rules are on our [Mini Crossword page](/news/topic/nyt-mini-crossword/#how-it-works), and today's grid pairs four 3-letter entries with six 5-letter ones. If the shopping weekend has you planning, the [Black Friday 2026 date page](/when-is/black-friday/) and the [printable December calendars](/december-calendars.html) help. Thursday's grid is in the [Mini answers for Nov. 26](/news/nyt-mini-crossword-answers-november-26-2026/).
+The rules are on our [Mini Crossword page](/news/topic/nyt-mini-crossword/#how-it-works), and today's grid pairs four 3-letter entries with six 5-letter ones. If the shopping weekend has you planning, the [Black Friday 2026 date page](/when-is/black-friday/) and the [printable December calendars](/december-calendars.html) help. Thursday's grid is in the [Mini answers for Nov. 26](/news/nyt-mini-crossword-answers-november-26-2026/). Saturday's 7-by-7 grid follows in the [Mini answers for Nov. 28](/news/nyt-mini-crossword-answers-november-28-2026/).
 
 ## Today's NYT Mini answers (spoilers)
 
