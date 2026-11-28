@@ -1,0 +1,1096 @@
+{
+ "editor": "Will Shortz",
+ "publicationDate": "2026-11-28",
+ "constructors": [
+  "John Guzzetta"
+ ],
+ "width": 15,
+ "height": 15,
+ "cells": [
+  "B",
+  "A",
+  "D",
+  "K",
+  "I",
+  "S",
+  "S",
+  "E",
+  "R",
+  null,
+  "B",
+  "A",
+  "M",
+  "B",
+  "I",
+  "B",
+  "L",
+  "O",
+  "O",
+  "D",
+  "T",
+  "Y",
+  "P",
+  "E",
+  null,
+  "A",
+  "R",
+  "I",
+  "A",
+  "S",
+  "C",
+  "A",
+  "T",
+  "H",
+  "A",
+  "R",
+  "S",
+  "I",
+  "S",
+  null,
+  "S",
+  "A",
+  "N",
+  "T",
+  "E",
+  null,
+  "N",
+  "H",
+  "L",
+  null,
+  "I",
+  "T",
+  "C",
+  "H",
+  null,
+  "E",
+  "M",
+  "O",
+  "T",
+  "E",
+  null,
+  null,
+  "E",
+  "R",
+  "O",
+  "D",
+  "E",
+  null,
+  "A",
+  "W",
+  "H",
+  "I",
+  "R",
+  "L",
+  null,
+  null,
+  "D",
+  "I",
+  "A",
+  "D",
+  "E",
+  "M",
+  null,
+  "P",
+  "A",
+  "I",
+  "S",
+  "L",
+  "E",
+  "Y",
+  null,
+  "E",
+  "M",
+  "B",
+  "E",
+  "R",
+  null,
+  "T",
+  "E",
+  "X",
+  "T",
+  null,
+  "E",
+  "S",
+  "E",
+  "K",
+  "E",
+  "P",
+  "I",
+  null,
+  null,
+  "N",
+  "O",
+  "D",
+  null,
+  null,
+  "H",
+  "A",
+  "H",
+  "A",
+  "I",
+  "P",
+  "O",
+  null,
+  "C",
+  "O",
+  "O",
+  "P",
+  null,
+  "S",
+  "H",
+  "O",
+  "G",
+  "I",
+  null,
+  "A",
+  "S",
+  "S",
+  "A",
+  "U",
+  "L",
+  "T",
+  null,
+  "S",
+  "T",
+  "I",
+  "R",
+  "U",
+  "P",
+  null,
+  null,
+  "E",
+  "S",
+  "T",
+  "E",
+  "E",
+  "M",
+  null,
+  "P",
+  "A",
+  "S",
+  "T",
+  "E",
+  null,
+  null,
+  "W",
+  "A",
+  "I",
+  "T",
+  "S",
+  null,
+  "Y",
+  "G",
+  "O",
+  "R",
+  null,
+  "O",
+  "T",
+  "C",
+  null,
+  "A",
+  "T",
+  "B",
+  "A",
+  "T",
+  null,
+  "J",
+  "A",
+  "I",
+  "L",
+  "B",
+  "R",
+  "E",
+  "A",
+  "K",
+  "D",
+  "E",
+  "L",
+  "I",
+  "A",
+  null,
+  "A",
+  "L",
+  "L",
+  "E",
+  "V",
+  "I",
+  "A",
+  "T",
+  "E",
+  "E",
+  "D",
+  "E",
+  "N",
+  "S",
+  null,
+  "M",
+  "A",
+  "T",
+  "T",
+  "D",
+  "A",
+  "M",
+  "O",
+  "N"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "One who's always missing busses?",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "Smokey Bear's predecessor as symbol of the Forest Service",
+   "cells": [
+    10,
+    11,
+    12,
+    13,
+    14
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Listing in a vampire's dating profile?",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Some dramatic highlights",
+   "cells": [
+    25,
+    26,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "17",
+   "text": "Good grief!",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "18",
+   "text": "\"À votre ___!\"",
+   "cells": [
+    40,
+    41,
+    42,
+    43,
+    44
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Senators' org.",
+   "cells": [
+    46,
+    47,
+    48
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "20",
+   "text": "Hankering",
+   "cells": [
+    50,
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "21",
+   "text": "Ham it up",
+   "cells": [
+    55,
+    56,
+    57,
+    58,
+    59
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Lose ground, maybe",
+   "cells": [
+    62,
+    63,
+    64,
+    65,
+    66
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Like one's head after a fun first date, maybe",
+   "cells": [
+    68,
+    69,
+    70,
+    71,
+    72,
+    73
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "26",
+   "text": "Crown",
+   "cells": [
+    76,
+    77,
+    78,
+    79,
+    80,
+    81
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "Common tie pattern",
+   "cells": [
+    83,
+    84,
+    85,
+    86,
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Old flame?",
+   "cells": [
+    91,
+    92,
+    93,
+    94,
+    95
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "30",
+   "text": "Scripture",
+   "cells": [
+    97,
+    98,
+    99,
+    100
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "31",
+   "text": "Legal suffix",
+   "cells": [
+    102,
+    103,
+    104
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "32",
+   "text": "Hat for a gendarme",
+   "cells": [
+    105,
+    106,
+    107,
+    108
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "33",
+   "text": "Go-ahead",
+   "cells": [
+    111,
+    112,
+    113
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "34",
+   "text": "Nelson's catchphrase on \"The Simpsons\"",
+   "cells": [
+    116,
+    117,
+    118,
+    119
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "35",
+   "text": "Way to get on board SpaceX, in brief?",
+   "cells": [
+    120,
+    121,
+    122
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "36",
+   "text": "Joint venture",
+   "cells": [
+    124,
+    125,
+    126,
+    127
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "38",
+   "text": "Japanese strategy game",
+   "cells": [
+    129,
+    130,
+    131,
+    132,
+    133
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "40",
+   "text": "All-out strike",
+   "cells": [
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "42",
+   "text": "Provoke",
+   "cells": [
+    143,
+    144,
+    145,
+    146,
+    147,
+    148
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "43",
+   "text": "Value",
+   "cells": [
+    151,
+    152,
+    153,
+    154,
+    155,
+    156
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "44",
+   "text": "Cheap jewelry",
+   "cells": [
+    158,
+    159,
+    160,
+    161,
+    162
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "45",
+   "text": "Stands by",
+   "cells": [
+    165,
+    166,
+    167,
+    168,
+    169
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "46",
+   "text": "Role in \"Son of Frankenstein\"",
+   "cells": [
+    171,
+    172,
+    173,
+    174
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "48",
+   "text": "Like NyQuil, in brief",
+   "cells": [
+    176,
+    177,
+    178
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "50",
+   "text": "No longer on deck",
+   "cells": [
+    180,
+    181,
+    182,
+    183,
+    184
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "51",
+   "text": "Daring exploit in \"The Shawshank Redemption\"",
+   "cells": [
+    186,
+    187,
+    188,
+    189,
+    190,
+    191,
+    192,
+    193,
+    194
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "54",
+   "text": "Novelist Ephron",
+   "cells": [
+    195,
+    196,
+    197,
+    198,
+    199
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "55",
+   "text": "Lighten",
+   "cells": [
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "56",
+   "text": "Paradises",
+   "cells": [
+    210,
+    211,
+    212,
+    213,
+    214
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "57",
+   "text": "Actor who's appeared in seven Best Picture-nominated films since 1997",
+   "cells": [
+    216,
+    217,
+    218,
+    219,
+    220,
+    221,
+    222,
+    223,
+    224
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "\"Fawlty Towers\" airer",
+   "cells": [
+    0,
+    15,
+    30
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Jackson who sang \"Remember When\"",
+   "cells": [
+    1,
+    16,
+    31,
+    46
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Exceed all expectations",
+   "cells": [
+    2,
+    17,
+    32,
+    47,
+    62,
+    77,
+    92,
+    107,
+    122,
+    137,
+    152,
+    167,
+    182,
+    197,
+    212
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Vegetable described as a \"cross between an octopus and a space capsule\"",
+   "cells": [
+    3,
+    18,
+    33,
+    48,
+    63,
+    78,
+    93,
+    108
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Birthplace of Sacagawea, today: Abbr.",
+   "cells": [
+    4,
+    19,
+    34
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Aragorn's alias in \"The Lord of the Rings\"",
+   "cells": [
+    5,
+    20,
+    35,
+    50,
+    65,
+    80,
+    95
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Methodology",
+   "cells": [
+    6,
+    21,
+    36,
+    51,
+    66,
+    81
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Large-scale",
+   "cells": [
+    7,
+    22,
+    37,
+    52
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "9",
+   "text": "Morphed",
+   "cells": [
+    8,
+    23,
+    38,
+    53,
+    68,
+    83,
+    98,
+    113
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Single, say",
+   "cells": [
+    10,
+    25,
+    40,
+    55,
+    70,
+    85,
+    100
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "11",
+   "text": "One of the Three Musketeers",
+   "cells": [
+    11,
+    26,
+    41,
+    56,
+    71,
+    86
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "12",
+   "text": "Albuquerque Isotopes, e.g.",
+   "cells": [
+    12,
+    27,
+    42,
+    57,
+    72,
+    87,
+    102,
+    117,
+    132,
+    147,
+    162,
+    177,
+    192,
+    207,
+    222
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Something hit or missed, in a game",
+   "cells": [
+    13,
+    28,
+    43,
+    58,
+    73,
+    88,
+    103,
+    118,
+    133,
+    148
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "14",
+   "text": "\"Noted\"",
+   "cells": [
+    14,
+    29,
+    44,
+    59
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "Tribute",
+   "cells": [
+    64,
+    79,
+    94
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "Defeat soundly, in slang",
+   "cells": [
+    69,
+    84,
+    99
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "Like many phobias",
+   "cells": [
+    76,
+    91,
+    106,
+    121,
+    136,
+    151,
+    166,
+    181,
+    196,
+    211
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "Pro position",
+   "cells": [
+    89,
+    104,
+    119
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "30",
+   "text": "Outdo",
+   "cells": [
+    97,
+    112,
+    127
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "32",
+   "text": "Maker of the Telluride S.U.V.",
+   "cells": [
+    105,
+    120,
+    135
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "33",
+   "text": "\"I don't vibe with that\"",
+   "cells": [
+    111,
+    126,
+    141,
+    156,
+    171,
+    186,
+    201,
+    216
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "34",
+   "text": "Museums for the collection of cultivated plants",
+   "cells": [
+    116,
+    131,
+    146,
+    161,
+    176,
+    191,
+    206,
+    221
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "36",
+   "text": "Landforms steep on one side and gently sloped on the other",
+   "cells": [
+    124,
+    139,
+    154,
+    169,
+    184,
+    199,
+    214
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "37",
+   "text": "Stadium chant",
+   "cells": [
+    125,
+    140,
+    155
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "38",
+   "text": "Up-and-comer",
+   "cells": [
+    129,
+    144,
+    159,
+    174,
+    189,
+    204,
+    219
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "39",
+   "text": "Casual greetings",
+   "cells": [
+    130,
+    145,
+    160
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "41",
+   "text": "Reach",
+   "cells": [
+    138,
+    153,
+    168,
+    183,
+    198,
+    213
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "42",
+   "text": "\"Summer's joys are ___ by use\": Keats",
+   "cells": [
+    143,
+    158,
+    173,
+    188,
+    203,
+    218
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "45",
+   "text": "Not go swimmingly?",
+   "cells": [
+    165,
+    180,
+    195,
+    210
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "47",
+   "text": "Ball",
+   "cells": [
+    172,
+    187,
+    202,
+    217
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "49",
+   "text": "Foe of Caesar",
+   "cells": [
+    178,
+    193,
+    208,
+    223
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "52",
+   "text": "Hanes competitor",
+   "cells": [
+    190,
+    205,
+    220
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "53",
+   "text": "Understanding",
+   "cells": [
+    194,
+    209,
+    224
+   ]
+  }
+ ]
+}

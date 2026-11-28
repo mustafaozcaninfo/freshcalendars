@@ -1,0 +1,261 @@
+{
+ "publicationDate": "2026-11-28",
+ "constructors": [
+  "Ian Livengood"
+ ],
+ "width": 7,
+ "height": 7,
+ "cells": [
+  "B",
+  "A",
+  "L",
+  "L",
+  "P",
+  "I",
+  "T",
+  "E",
+  "M",
+  "A",
+  "I",
+  "L",
+  "M",
+  "E",
+  "D",
+  "O",
+  "G",
+  "T",
+  "A",
+  "G",
+  "S",
+  "L",
+  "E",
+  "G",
+  null,
+  "N",
+  "O",
+  "T",
+  "A",
+  "B",
+  "I",
+  "L",
+  "E",
+  "N",
+  "E",
+  "M",
+  "A",
+  "N",
+  "A",
+  "T",
+  "E",
+  "E",
+  null,
+  null,
+  "G",
+  "P",
+  "S",
+  null,
+  null
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "Colorful play area at a fast-food restaurant",
+   "cells": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "8",
+   "text": "\"Send over the details\"",
+   "cells": [
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "Holders of private information?",
+   "cells": [
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "10",
+   "text": "One of ten for a crab",
+   "cells": [
+    21,
+    22,
+    23
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "\"Just kidding!\"",
+   "cells": [
+    25,
+    26,
+    27
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "Texas city of 100,000+ whose name alternates vowels and consonants",
+   "cells": [
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Sea creature whose closest living land relative is the elephant",
+   "cells": [
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "Tech that suggests turns",
+   "cells": [
+    44,
+    45,
+    46
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "Total chaos",
+   "cells": [
+    0,
+    7,
+    14,
+    21,
+    28,
+    35
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Single-celled organism",
+   "cells": [
+    1,
+    8,
+    15,
+    22,
+    29,
+    36
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Falling behind",
+   "cells": [
+    2,
+    9,
+    16,
+    23,
+    30,
+    37,
+    44
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Struck, as a match",
+   "cells": [
+    3,
+    10,
+    17
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Many are named for Roman and Greek gods",
+   "cells": [
+    4,
+    11,
+    18,
+    25,
+    32,
+    39,
+    46
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "\"Sorry, not in town then\"",
+   "cells": [
+    5,
+    12,
+    19,
+    26,
+    33,
+    40
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "Quiz taker",
+   "cells": [
+    6,
+    13,
+    20,
+    27,
+    34,
+    41
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Once around the track",
+   "cells": [
+    31,
+    38,
+    45
+   ]
+  }
+ ]
+}

@@ -1,0 +1,536 @@
+{
+ "title": "Baby Talk",
+ "editor": "Ian Livengood",
+ "publicationDate": "2026-11-28",
+ "constructors": [
+  "Alina Abidi"
+ ],
+ "width": 10,
+ "height": 10,
+ "cells": [
+  "O",
+  "N",
+  "E",
+  null,
+  null,
+  "A",
+  "S",
+  "F",
+  "O",
+  "R",
+  "D",
+  "A",
+  "Y",
+  "S",
+  null,
+  "C",
+  "A",
+  "I",
+  "R",
+  "O",
+  "D",
+  "A",
+  "R",
+  "K",
+  "S",
+  "E",
+  "C",
+  "R",
+  "E",
+  "T",
+  "S",
+  "N",
+  "E",
+  "A",
+  "K",
+  null,
+  null,
+  "S",
+  "O",
+  "S",
+  null,
+  null,
+  null,
+  "T",
+  "A",
+  "U",
+  "N",
+  "T",
+  null,
+  null,
+  "G",
+  "I",
+  "B",
+  "E",
+  null,
+  "S",
+  "A",
+  "W",
+  "N",
+  null,
+  "A",
+  "S",
+  "U",
+  null,
+  "S",
+  "O",
+  "S",
+  "O",
+  "O",
+  "N",
+  "M",
+  "A",
+  "R",
+  "I",
+  "O",
+  "P",
+  "A",
+  "R",
+  "T",
+  "Y",
+  "M",
+  "A",
+  "N",
+  "T",
+  "L",
+  "E",
+  null,
+  "D",
+  "O",
+  "N",
+  "A",
+  "C",
+  "T",
+  "S",
+  "O",
+  "N",
+  null,
+  "S",
+  "K",
+  "Y"
+ ],
+ "clues": [
+  {
+   "direction": "Across",
+   "label": "1",
+   "text": "This clue's number",
+   "cells": [
+    0,
+    1,
+    2
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "4",
+   "text": "Regarding",
+   "cells": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "9",
+   "text": "\"___ of Our Lives\" (soap opera with over 15,000 episodes!)",
+   "cells": [
+    10,
+    11,
+    12,
+    13
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "11",
+   "text": "Egypt's capital",
+   "cells": [
+    15,
+    16,
+    17,
+    18,
+    19
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "12",
+   "text": "What someone with a mysterious past might keep hidden",
+   "cells": [
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "14",
+   "text": "Move with stealth",
+   "cells": [
+    30,
+    31,
+    32,
+    33,
+    34
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "15",
+   "text": "... --- ..., in Morse code",
+   "cells": [
+    37,
+    38,
+    39
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "16",
+   "text": "Bit of trash talk",
+   "cells": [
+    43,
+    44,
+    45,
+    46,
+    47
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "19",
+   "text": "Bit of trash talk",
+   "cells": [
+    50,
+    51,
+    52,
+    53
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "22",
+   "text": "Like cut logs",
+   "cells": [
+    55,
+    56,
+    57,
+    58
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "24",
+   "text": "Sch. in Tempe",
+   "cells": [
+    60,
+    61,
+    62
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "25",
+   "text": "\"You're leaving already?\"",
+   "cells": [
+    64,
+    65,
+    66,
+    67,
+    68,
+    69
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "27",
+   "text": "Video game series with the minigames Mushroom Mix-Up and Koopa Krunch",
+   "cells": [
+    70,
+    71,
+    72,
+    73,
+    74,
+    75,
+    76,
+    77,
+    78,
+    79
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "29",
+   "text": "Layer of earth between the core and the crust",
+   "cells": [
+    80,
+    81,
+    82,
+    83,
+    84,
+    85
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "30",
+   "text": "\"Proof\" actor Cheadle",
+   "cells": [
+    87,
+    88,
+    89
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "31",
+   "text": "Follows, as a hunch",
+   "cells": [
+    90,
+    91,
+    92,
+    93,
+    94,
+    95
+   ]
+  },
+  {
+   "direction": "Across",
+   "label": "32",
+   "text": "\"Why is the ___ blue?\" (classic question from a child)",
+   "cells": [
+    97,
+    98,
+    99
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "1",
+   "text": "\"What are the ___?\" (expression of disbelief)",
+   "cells": [
+    0,
+    10,
+    20,
+    30
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "2",
+   "text": "Bread that sops up butter chicken sauce",
+   "cells": [
+    1,
+    11,
+    21,
+    31
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "3",
+   "text": "Jane of literature",
+   "cells": [
+    2,
+    12,
+    22,
+    32
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "4",
+   "text": "Card that can be high or low",
+   "cells": [
+    5,
+    15,
+    25
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "5",
+   "text": "Squid's ink holder",
+   "cells": [
+    6,
+    16,
+    26
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "6",
+   "text": "Developmental milestone ... and a hint to this puzzle's circled letters",
+   "cells": [
+    7,
+    17,
+    27,
+    37,
+    47,
+    57,
+    67,
+    77,
+    87,
+    97
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "7",
+   "text": "___ Way, ceremonial street name in Manhattan near the former Nabisco headquarters",
+   "cells": [
+    8,
+    18,
+    28,
+    38
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "8",
+   "text": "Decays",
+   "cells": [
+    9,
+    19,
+    29,
+    39
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "10",
+   "text": "Boot with a metal blade",
+   "cells": [
+    13,
+    23,
+    33,
+    43,
+    53
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "13",
+   "text": "Genre that preceded rocksteady and reggae",
+   "cells": [
+    24,
+    34,
+    44
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "17",
+   "text": "Annual tennis event held in Queens",
+   "cells": [
+    45,
+    55,
+    65,
+    75,
+    85,
+    95
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "18",
+   "text": "Org. that sent the first humans to the moon",
+   "cells": [
+    46,
+    56,
+    66,
+    76
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "19",
+   "text": "Letter after beta",
+   "cells": [
+    50,
+    60,
+    70,
+    80,
+    90
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "20",
+   "text": "Polymath Newton",
+   "cells": [
+    51,
+    61,
+    71,
+    81,
+    91
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "21",
+   "text": "Like overtoasted toast",
+   "cells": [
+    52,
+    62,
+    72,
+    82,
+    92
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "23",
+   "text": "In need of a hug, maybe",
+   "cells": [
+    58,
+    68,
+    78,
+    88,
+    98
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "25",
+   "text": "By one's lonesome",
+   "cells": [
+    64,
+    74,
+    84,
+    94
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "26",
+   "text": "Inits. on Big Apple postage",
+   "cells": [
+    69,
+    79,
+    89,
+    99
+   ]
+  },
+  {
+   "direction": "Down",
+   "label": "28",
+   "text": "\"___ kind of a long story ...\"",
+   "cells": [
+    73,
+    83,
+    93
+   ]
+  }
+ ]
+}
