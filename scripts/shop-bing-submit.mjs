@@ -16,6 +16,9 @@ const API = "https://ssl.bing.com/webmaster/api.svc/json";
 const SHOP = "https://shop.freshcalendars.com";
 const STATE = path.join(ROOT, "docs/desk/bing-shop-submitted.json");
 const PRIORITY = path.join(ROOT, "shop/data/bing-priority.txt");
+// Paths never submitted: product kinds that draw no visits (shop/README.md, "Pages with no traffic").
+// They stay in the sitemap and indexable; the small quota goes to the kinds that sell.
+const SKIP = path.join(ROOT, "shop/data/bing-skip.txt");
 /** The priority file: one path per line, # for comments. */
 export const priorityList = (text) => text.split("\n").map((l) => l.trim()).filter((l) => l && !l.startsWith("#"));
 const BATCH = 500; // SubmitUrlBatch takes at most 500 URLs
@@ -64,6 +67,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     const state = existsSync(STATE) ? JSON.parse(readFileSync(STATE, "utf8")) : { sent: {} };
     const today = new Date().toISOString().slice(0, 10);
     const priority = existsSync(PRIORITY) ? priorityList(readFileSync(PRIORITY, "utf8")) : [];
+    const skip = new Set(existsSync(SKIP) ? priorityList(readFileSync(SKIP, "utf8")) : []);
+    const pool = all.filter((u) => !skip.has(u.replace(SHOP, "") || "/"));
     let quota = { DailyQuota: 100, MonthlyQuota: 100 }, site = SHOP + "/";
     if (!dry) {
       const call = async (method, params, body) => {
@@ -79,7 +84,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       if (!site) { console.log("shop-bing-submit: shop.freshcalendars.com is not among the verified sites; nothing submitted"); process.exit(0); }
       quota = await call("GetUrlSubmissionQuota", { siteUrl: site });
       const room = Math.min(Number(quota.DailyQuota ?? 0), Number(quota.MonthlyQuota ?? 0));
-      const list = pick(all, state.sent, room, today, priority);
+      const list = pick(pool, state.sent, room, today, priority);
       let done = 0;
       for (let i = 0; i < list.length; i += BATCH) {
         const part = list.slice(i, i + BATCH);
@@ -90,12 +95,12 @@ if (import.meta.url === `file://${process.argv[1]}`) {
       // Pages that left the sitemap (hidden products) drop out of the record.
       const live = new Set(all.map((u) => u.replace(SHOP, "") || "/"));
       for (const p of Object.keys(state.sent)) if (!live.has(p)) delete state.sent[p];
-      const never = all.filter((u) => !state.sent[u.replace(SHOP, "") || "/"]).length;
+      const never = pool.filter((u) => !state.sent[u.replace(SHOP, "") || "/"]).length;
       const out = { generatedAt: new Date().toISOString(), site, quota, submittedToday: done, sitemapUrls: all.length, neverSubmitted: never, sent: Object.fromEntries(Object.entries(state.sent).sort()) };
       writeFileSync(STATE, JSON.stringify(out, null, 0).replace(/","/g, '",\n"') + "\n");
       console.log(`shop-bing-submit: submitted ${done} of ${all.length} sitemap URLs (daily quota ${quota.DailyQuota}, monthly ${quota.MonthlyQuota}); ${never} never submitted`);
     } else {
-      const list = pick(all, state.sent, 100, today, priority);
+      const list = pick(pool, state.sent, 100, today, priority);
       console.log(`shop-bing-submit (dry): ${all.length} sitemap URLs, ${Object.keys(state.sent).length} on record; the first 100 would be:\n${list.slice(0, 12).join("\n")}\n...`);
     }
   } catch (e) {
