@@ -2,31 +2,32 @@ name: Desk fire
 
 # Starts one desk routine on demand (docs/DESK.md "Starting a desk by hand"). Each desk runs on its own
 # account, so each routine has its own API trigger: its Fire URL and token are the secrets
-# FIRE_<DESK>_URL and FIRE_<DESK>_TOKEN (never in the repository or in chat). The script is
-# scripts/desk-fire.mjs; it starts exactly one session and never retries a request that may have
-# started one.
+# FIRE_<DESK>_URL and FIRE_<DESK>_TOKEN (never in the repository or in chat). The desks are listed in
+# docs/desk/desks.json. The script is scripts/desk-fire.mjs; it starts exactly one session and never
+# retries a request that may have started one. Every start is logged as a comment on the open issue
+# "Desk run log" (created on the first start).
 #
-# Adding a desk: add its two secrets, then its two lines under `env:` below and its code to the
-# `desk` choices. Rotating a token: generate a new one in the routine (that revokes the old one) and
-# update the secret.
+# Adding a desk: add its two secrets, then set "armed": true on its line in docs/desk/desks.json.
+# Nothing in this file changes. Rotating a token: generate a new one in the routine (that revokes the
+# old one) and update the secret.
 on:
   workflow_dispatch:
     inputs:
       desk:
-        description: Desk to start
+        description: "Desk code from docs/desk/desks.json (w1, w2, w3, w4, r, u, s)"
+        type: string
+        required: true
+      mode:
+        description: "run = normal run, test = session runs only its usage gate and stops, dry = send nothing"
         type: choice
         required: true
-        options: [w1, w2, s]
+        default: run
+        options: [run, test, dry]
       note:
         description: Optional note for this run (data for the session, not a rule)
         type: string
         required: false
         default: ""
-      dry_run:
-        description: Check the secrets and show the text, send nothing
-        type: boolean
-        required: false
-        default: false
 
 # One start at a time per desk, so a double click cannot start two sessions.
 concurrency:
@@ -35,6 +36,7 @@ concurrency:
 
 permissions:
   contents: read
+  issues: write
 
 jobs:
   fire:
@@ -43,17 +45,28 @@ jobs:
     steps:
       - uses: actions/checkout@v7
       - name: Start the routine
+        id: fire
         env:
-          FIRE_W1_URL: ${{ secrets.FIRE_W1_URL }}
-          FIRE_W1_TOKEN: ${{ secrets.FIRE_W1_TOKEN }}
-          FIRE_W2_URL: ${{ secrets.FIRE_W2_URL }}
-          FIRE_W2_TOKEN: ${{ secrets.FIRE_W2_TOKEN }}
-          FIRE_S_URL: ${{ secrets.FIRE_S_URL }}
-          FIRE_S_TOKEN: ${{ secrets.FIRE_S_TOKEN }}
+          # All secrets as one JSON value, so a new desk needs no edit here. The script keeps only
+          # this desk's FIRE_ pair and drops the rest at once.
+          ALL_SECRETS: ${{ toJSON(secrets) }}
           DESK: ${{ inputs.desk }}
+          MODE: ${{ inputs.mode }}
           NOTE: ${{ inputs.note }}
-          DRY: ${{ inputs.dry_run }}
+        run: node scripts/desk-fire.mjs "$DESK" --mode "$MODE" --note "$NOTE"
+      - name: Log the start
+        if: steps.fire.outputs.session_url != ''
+        env:
+          GH_TOKEN: ${{ github.token }}
+          DESK: ${{ inputs.desk }}
+          MODE: ${{ inputs.mode }}
+          RUN_ID: ${{ steps.fire.outputs.run_id }}
+          SESSION_URL: ${{ steps.fire.outputs.session_url }}
+          ACTOR: ${{ github.actor }}
         run: |
-          flags=""
-          if [ "$DRY" = "true" ]; then flags="--dry-run"; fi
-          node scripts/desk-fire.mjs "$DESK" --note "$NOTE" $flags
+          n=$(gh issue list --state open --search '"Desk run log" in:title' --json number --jq '.[0].number // empty')
+          if [ -z "$n" ]; then
+            n=$(gh issue create --title "Desk run log" --body "One comment per desk started by hand (workflow Desk fire). The session writes its final report as a comment here when its prompt says so. See docs/DESK.md, \"Starting a desk by hand\"." | grep -o '[0-9]*$')
+          fi
+          gh issue comment "$n" --body "**$DESK** ($MODE) started by $ACTOR at $(date -u +'%Y-%m-%d %H:%M UTC')
+          Run \`$RUN_ID\`: $SESSION_URL"
