@@ -3,7 +3,7 @@ title: "UK Snooker Championship 2026: Nov. 28-Dec. 6, Session Times in ET"
 description: "UK Championship snooker runs Nov. 28 to Dec. 6, 2026 at York Barbican, with sessions at 8 a.m. and 2 p.m. ET. A table converts all 18 sessions to US time."
 type: news
 publishedAt: "2026-11-03T06:00:00-05:00"
-updatedAt: "2026-11-13T16:16:00-05:00"
+updatedAt: "2026-11-27T21:30:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["uk championship snooker 2026", "uk snooker championship 2026 schedule", "uk championship 2026 dates", "uk championship snooker times us"]
@@ -23,7 +23,7 @@ summary:
   - "York Barbican lists the UK Championship snooker for Sat., Nov. 28 to Sun., Dec. 6, 2026, nine days with a 13:00 and a 19:00 session each day."
   - "The 18 sessions run at 8 a.m. and 2 p.m. Eastern Time (ET), 7 a.m. and 1 p.m. Central Time (CT), and 5 a.m. and 11 a.m. Pacific Time (PT)."
   - "Mark Selby is the defending champion after a 10-8 win over Judd Trump on Dec. 7, 2025, his third UK title."
-  - "York Barbican names BBC, Turner Network Television (TNT) Sports and World Snooker Tour (WST) Play as broadcasters; the Round 1 matches for Nov. 28 to Dec. 1 are listed against qualifiers still to be decided; prize money, frame formats, session-by-session channels and a U.S. or Canada stream are not yet announced."
+  - "York Barbican names BBC, Turner Network Television (TNT) Sports and World Snooker Tour (WST) Play as broadcasters; the Round 1 matches for Nov. 28 to Dec. 1 pair the seeds with qualifiers, and SnookerHQ names eight of the 16 qualifiers (qualifying ended Nov. 26); prize money, frame formats, session-by-session channels and a U.S. or Canada stream are not yet announced."
 faq:
   - q: "When is the UK Championship snooker 2026?"
     a: "York Barbican lists it for Saturday, Nov. 28 to Sunday, Dec. 6, 2026, at the York Barbican in York, England."
@@ -37,11 +37,19 @@ sources:
   - title: "UK Championship Snooker 2026 - York Barbican"
     url: "https://www.yorkbarbican.co.uk/whats-on/snooker-2026/"
     publisher: "York Barbican"
-    date: "2026-11-13"
+    date: "2026-11-27"
   - title: "2026-27 snooker season calendar released by WST"
     url: "https://snookerhq.com/2026/05/19/2026-27-snooker-season-calendar-released-by-wst/"
     publisher: "SnookerHQ"
     date: "2026-05-19"
+  - title: "UK Championship qualifiers reaction"
+    url: "https://snookerhq.com/2026/11/26/uk-championship-qualifiers-reaction/"
+    publisher: "SnookerHQ"
+    date: "2026-11-26"
+  - title: "UK Snooker Championship 2026: schedule, how to watch and prize money"
+    url: "https://www.flashscore.com/news/snooker-uk-snooker-championship-2026-schedule-how-to-watch-and-prize-money/Mo1CdplA/"
+    publisher: "Flashscore"
+    date: "2026-11-27"
   - title: "Race to the 2026 UK Championship"
     url: "https://snookerhq.com/2026/10/29/race-to-the-2026-uk-championship/"
     publisher: "SnookerHQ"
@@ -98,7 +106,7 @@ assets:
 draft: false
 ---
 
-**The UK Championship snooker runs from Saturday, Nov. 28 to Sunday, Dec. 6, 2026 at the York Barbican in York, England, with a 13:00 and a 19:00 session each day, according to the venue's event page.** York is on Greenwich Mean Time (GMT) then, so the opening session is 8 a.m. Eastern Time (ET) and the evening session is 2 p.m. ET. The table below converts all 18 sessions for four U.S. time zones. The venue page says the event is shown on BBC, Turner Network Television (TNT) Sports and World Snooker Tour (WST) Play; the venue lists the Round 1 matches for Nov. 28 to Dec. 1, with each of the top 16 facing a qualifier still to be decided; the rounds after that, prize money and the channel for each session are not yet announced.
+**The UK Championship snooker runs from Saturday, Nov. 28 to Sunday, Dec. 6, 2026 at the York Barbican in York, England, with a 13:00 and a 19:00 session each day, according to the venue's event page.** York is on Greenwich Mean Time (GMT) then, so the opening session is 8 a.m. Eastern Time (ET) and the evening session is 2 p.m. ET. The table below converts all 18 sessions for four U.S. time zones. The venue page says the event is shown on BBC, Turner Network Television (TNT) Sports and World Snooker Tour (WST) Play; the venue lists the Round 1 matches for Nov. 28 to Dec. 1, with each of the top 16 facing a qualifier; the rounds after that, prize money and the channel for each session are not yet announced.
 
 ## UK Championship 2026 session times in GMT, ET, CT and PT
 
@@ -127,7 +135,7 @@ York Barbican says: "Each day from 28 November to 6 December has a 13:00 and a 1
 
 ## UK Championship 2026 Round 1 schedule in ET
 
-York Barbican's event page lists the Round 1 matches for the first four days. Each of the top 16 seeds plays a qualifier, and the qualifiers are not yet known because qualifying is scheduled for Nov. 21-26. Times are the venue's 1pm and 7pm sessions, shown in ET.
+York Barbican's event page lists the Round 1 matches for the first four days. Each of the top 16 seeds plays a qualifier. Qualifying finished on Nov. 26, and SnookerHQ (David Caulfield, Nov. 26, 2026) names the first eight players through to York, from Wednesday, Nov. 25 at the Mattioli Arena in Leicester: Zhang Anda, Tom Ford, Michael Holt, Fan Zhengyi, Artemijs Zizins, Matthew Selt, Joe O'Connor and Liam Highfield. Flashscore's preview lists the same eight. The venue page still shows "Qualifier" against each seed, and the full draw with all 16 qualifiers and who meets whom is on World Snooker Tour's (WST) site, which we could not read, so no pairing is given here. Times are the venue's 1pm and 7pm sessions, shown in ET.
 
 | Day | Session (York / ET) | Round 1 matches |
 |---|---|---|
@@ -142,13 +150,17 @@ York Barbican's event page lists the Round 1 matches for the first four days. Ea
 
 The sheet fits on the [November 2026 printable calendar](/november-calendars.html) and the [December 2026 printable calendar](/december-calendars.html), and the printable below repeats the table with a line for your picks.
 
+## What should fans going to York Barbican know?
+
+York Barbican says: "Due to a First Bus driver strike on Sat 28 and Sun 29 Nov services, including the Park and Ride, will be limited." Doors open at 12pm for the 1pm sessions and 6pm for the 7pm sessions, and the venue says "Sessions commence promptly. Latecomers will only be admitted at a suitable break." Day tickets are listed as available through the venue's ticket partner, AXS.
+
 ## When do the UK Championship qualifiers and main draw start?
 
 SnookerHQ, reporting the WST calendar for 2026-27 on May 19, 2026, gave the main event as Nov. 28 to Dec. 6 at York Barbican and the qualifying as Nov. 21-26 at the Mattioli Arena in Leicester. SnookerHQ also wrote that "Dates and other information are provisional and subject to change." The venue page and the calendar agree on the main event dates.
 
 ## Who plays in the UK Championship 2026 and how do they enter?
 
-SnookerHQ's "Race to the 2026 UK Championship" (David Caulfield, Oct. 29, 2026) says the top 16 on the ranking get "automatic entry into the last 32" in York, and "those inside the top 48 will enter in the third of the four qualifying rounds." York Barbican's page says "the top 16 players, along with 16 who have come through the qualifying rounds, will be battling for the trophy," which makes a field of 32. The venue's Round 1 list names the 16 seeds (Selby, Williams, Chang, Wilson, O'Sullivan, Robertson, Trump, Wakelin, Wu, Carter, Murphy, Hawkins, Zhao, Allen, Higgins and Xiao), and their opponents come from the qualifiers. The frame format of each round is not yet announced.
+SnookerHQ's "Race to the 2026 UK Championship" (David Caulfield, Oct. 29, 2026) says the top 16 on the ranking get "automatic entry into the last 32" in York, and "those inside the top 48 will enter in the third of the four qualifying rounds." York Barbican's page says "the top 16 players, along with 16 who have come through the qualifying rounds, will be battling for the trophy," which makes a field of 32. The venue's Round 1 list names the 16 seeds (Selby, Williams, Chang, Wilson, O'Sullivan, Robertson, Trump, Wakelin, Wu, Carter, Murphy, Hawkins, Zhao, Allen, Higgins and Xiao), and their opponents come from the qualifiers, whose names are in the Round 1 section above. The frame format of each round is not yet announced.
 
 ## Who is the UK Championship defending champion?
 
@@ -164,8 +176,10 @@ York Barbican's event page says the UK Championship is shown "on BBC, TNT Sports
 |---|---|
 | Dates and venue | Confirmed by York Barbican: Nov. 28 to Dec. 6, 2026 |
 | Session times | 13:00 and 19:00 daily, per York Barbican |
+| Doors | 12pm for 1pm sessions and 6pm for 7pm sessions; latecomers are admitted only at a suitable break, per York Barbican |
+| Getting to York Barbican | York Barbican says services, including the Park and Ride, will be limited on Sat., Nov. 28 and Sun., Nov. 29 because of a First Bus driver strike |
 | Prize money and winner's share | Not yet announced on a page we could read |
-| Round 1 (Nov. 28 to Dec. 1) | Seeds listed by York Barbican; opponents are qualifiers still to be decided |
+| Round 1 (Nov. 28 to Dec. 1) | Seeds listed by York Barbican against "Qualifier"; SnookerHQ names eight qualifiers, and the pairings are not on a page we could read |
 | Rounds after Round 1 and their days | Not yet announced |
 | Frame formats | Not yet announced |
 | Broadcasters | BBC, TNT Sports, WST Play and others, per York Barbican |
