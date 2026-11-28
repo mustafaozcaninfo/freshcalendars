@@ -189,7 +189,7 @@
    616,
    642,
    902,
-   952,
+   938,
    956,
    1140,
    1247,
@@ -231,27 +231,25 @@
    "71": 12.64,
    "118": 33.5,
    "194": 47.6,
-   "214": 29.99,
+   "214": 27.99,
    "231": 29.99,
    "235": 10.29,
-   "237": 29.99,
-   "246": 12.89,
-   "258": 12.01,
+   "237": 22.98,
+   "246": 9.49,
+   "258": 12.54,
    "281": 40.99,
-   "282": 9.97,
-   "296": 9.99,
+   "282": 7.99,
+   "296": 8.49,
    "301": 11.99,
    "307": 11.95,
-   "463": 12.98,
+   "463": 12.85,
    "567": 16.79,
-   "616": 9.99,
+   "616": 6.64,
    "642": 15.99,
    "902": 7.99,
-   "952": 6.99,
-   "956": 5.99,
-   "1140": 14.95,
-   "1247": 7.99,
-   "1815": 8.99
+   "938": 7.58,
+   "1247": 6.39,
+   "1815": 7.19
   }
  },
  {
@@ -1255,7 +1253,7 @@
    436,
    441,
    520,
-   1441,
+   1442,
    1506,
    1507
   ],
@@ -1269,7 +1267,19 @@
    "Starting in July: Day Designer and POPRUN",
    "Undated weekly columns and a 200-page book: bloom and NotePro",
    "Should a daily planner be dated or undated?"
-  ]
+  ],
+  "prices": {
+   "6": 20.29,
+   "135": 24.95,
+   "194": 47.6,
+   "208": 8.99,
+   "436": 28.99,
+   "441": 28.99,
+   "520": 21.59,
+   "1442": 15.99,
+   "1506": 23.99,
+   "1507": 15.99
+  }
  },
  {
   "slug": "best-budget-planners",
@@ -1390,7 +1400,7 @@
    326,
    1252,
    1297,
-   1441,
+   1442,
    1472
   ],
   "h2": [
@@ -1404,7 +1414,18 @@
    "Undated A5 starts: Smart Planner Pro, the green weekly and Panda Planner",
    "Is a 6.3 x 8.5 in planner still A5?",
    "Dated, academic or undated: which A5 starts when you do?"
-  ]
+  ],
+  "prices": {
+   "196": 8.99,
+   "203": 13.99,
+   "208": 8.99,
+   "281": 40.99,
+   "326": 7.64,
+   "1252": 24.99,
+   "1297": 8.49,
+   "1442": 15.99,
+   "1472": 6.79
+  }
  },
  {
   "slug": "best-pocket-calendars",
@@ -1445,7 +1466,7 @@
   "primary_query": "best family planners: columns, dates and size compared for 6",
   "cluster": "best-family-planners",
   "id": 41,
-  "title": "Best Family Planners: Columns, Dates and Size Compared for 6",
+  "title": "Best Family Planners: Columns, Dates and Size Compared for 5",
   "enabled": true,
   "published_at": "2026-11-18T07:00:00.000000Z",
   "products": [
@@ -1453,20 +1474,25 @@
    1134,
    1552,
    1553,
-   1598,
    1599
   ],
   "h2": [
-   "How the six family planners were compared",
+   "How the five family planners were compared",
    "Six columns and a grocery list: BEZEND 7 x 9 in organizer",
    "Six people on one weekly page: tiddler A4 undated planner",
-   "Five names on a wall: Do It All Bella Flora, 17 months",
    "For the refrigerator door: the 9.6 x 8.5 in magnetic pad",
    "The same idea in a book: the 8.5 x 11 in family organizer",
    "Chores, not appointments: the home cleaning planner",
    "Planner or wall calendar for a family?",
    "Which family planner starts when you do?"
-  ]
+  ],
+  "prices": {
+   "1133": 24.95,
+   "1134": 12.99,
+   "1552": 20.79,
+   "1553": 5.99,
+   "1599": 15.0
+  }
  },
  {
   "slug": "best-meal-planners",
@@ -1855,18 +1881,24 @@
   "enabled": true,
   "published_at": "2026-11-21T07:00:00.000000Z",
   "products": [
+   153,
    196,
    279,
-   1113,
-   1193
+   1113
   ],
   "h2": [
    "What a year of planner pages costs in a blank journal",
    "Planner picks: Traceform dated and GoGirl undated",
-   "Bullet journal picks: Y&I kit and POPRUN B5",
+   "Bullet journal picks: Y&I kit and EMSHOI B5",
    "Which suits you, by how you plan",
    "Try a printed spread before buying a notebook"
-  ]
+  ],
+  "prices": {
+   "153": 11.19,
+   "196": 8.99,
+   "279": 19.99,
+   "1113": 25.99
+  }
  },
  {
   "slug": "week-numbers",
@@ -1961,7 +1993,7 @@
    270,
    983,
    1113,
-   1193
+   1194
   ],
   "h2": [
    "Step 1: Pick a notebook and check its dots",
@@ -1973,7 +2005,13 @@
    "Step 7: Review at month end and move what is left",
    "Your first seven days",
    "Common first-month snags"
-  ]
+  ],
+  "prices": {
+   "270": 13.59,
+   "983": 16.99,
+   "1113": 25.99,
+   "1194": 11.99
+  }
  },
  {
   "slug": "how-to-make-a-habit-tracker",
@@ -1987,7 +2025,7 @@
   "products": [
    503,
    1113,
-   1193,
+   1194,
    1252
   ],
   "h2": [
@@ -1996,7 +2034,13 @@
    "Paper and pens that keep a small grid readable",
    "Draw it yourself or buy the layout printed",
    "Where the tracker lives matters more than the layout"
-  ]
+  ],
+  "prices": {
+   "503": 34.99,
+   "1113": 25.99,
+   "1194": 11.99,
+   "1252": 24.99
+  }
  },
  {
   "slug": "how-to-meal-plan-for-the-week",
@@ -2167,6 +2211,7 @@
   "enabled": true,
   "published_at": "2026-11-10T07:45:00.000000Z",
   "products": [
+   153,
    250,
    252,
    267,
@@ -2174,8 +2219,7 @@
    288,
    301,
    983,
-   1141,
-   1193
+   1141
   ],
   "h2": [
    "How these nine journaling gifts were chosen",
@@ -2186,15 +2230,15 @@
    "When to buy and what to add for free"
   ],
   "prices": {
+   "153": 11.19,
    "250": 14.95,
    "252": 24.95,
-   "267": 9.99,
-   "270": 15.99,
-   "288": 8.29,
+   "267": 8.49,
+   "270": 13.59,
+   "288": 8.73,
    "301": 11.99,
-   "983": 19.99,
-   "1141": 24.95,
-   "1193": 16.99
+   "983": 16.99,
+   "1141": 24.95
   },
   "price_checked": "2026-11-13"
  },
@@ -2220,10 +2264,10 @@
    968,
    992,
    1103,
+   1133,
    1134,
    1214,
    1552,
-   1598,
    1661,
    1814,
    2099,
@@ -2263,28 +2307,27 @@
   "refresh_by": null,
   "pillar": true,
   "prices": {
-   "211": 8.99,
+   "211": 7.99,
    "231": 29.99,
-   "237": 29.99,
+   "237": 22.98,
    "238": 13.66,
    "259": 32.97,
    "377": 27.99,
    "379": 15.97,
-   "420": 39.99,
-   "463": 12.98,
+   "420": 31.99,
+   "463": 12.85,
    "593": 11.79,
-   "950": 9.99,
+   "950": 7.99,
    "968": 11.99,
    "992": 25.99,
    "1103": 10.99,
+   "1133": 24.95,
    "1134": 12.99,
    "1214": 24.97,
-   "1552": 27.99,
-   "1598": 23.99,
-   "1661": 9.99,
+   "1552": 20.79,
    "1814": 15.29,
    "2099": 15.29,
-   "2101": 16.99
+   "2101": 13.59
   }
  },
  {
@@ -2526,7 +2569,7 @@
    252,
    886,
    1113,
-   1193,
+   1194,
    1238
   ],
   "h2": [
@@ -2539,10 +2582,21 @@
    "Fewer extras at 160 gsm: SeQeS A5 Dotted Hardcover",
    "Lowest-priced hardcover at 120 gsm: HUSTLE Co. A5",
    "Softcover to carry: ZenART A5 and B5",
-   "Largest page and lowest cost: POPRUN B5 spiral",
+   "B5 with stencils and a pen holder: AHGXG",
    "Starter kits with pens and stencils: Y&I and feela",
    "How many pages a day does a journal give in 2027?"
-  ]
+  ],
+  "prices": {
+   "44": 18.66,
+   "214": 27.99,
+   "223": 23.99,
+   "250": 14.95,
+   "252": 24.95,
+   "886": 15.26,
+   "1113": 25.99,
+   "1194": 11.99,
+   "1238": 24.95
+  }
  },
  {
   "slug": "best-graph-paper-notebooks",
@@ -2588,6 +2642,7 @@
   "enabled": true,
   "published_at": "2026-11-23T17:45:00.000000Z",
   "products": [
+   232,
    1066,
    1067,
    1068,
@@ -2596,7 +2651,6 @@
    1071,
    1074,
    1080,
-   1082,
    1647
   ],
   "h2": [
@@ -2610,7 +2664,19 @@
    "How wide is 7 mm ruling?",
    "Do lined journals need 100 gsm paper?",
    "Where to go next"
-  ]
+  ],
+  "prices": {
+   "232": 14.39,
+   "1066": 8.49,
+   "1067": 5.72,
+   "1068": 15.19,
+   "1069": 5.99,
+   "1070": 8.49,
+   "1071": 15.14,
+   "1074": 17.59,
+   "1080": 15.99,
+   "1647": 9.49
+  }
  },
  {
   "slug": "best-refillable-journals",
@@ -2914,7 +2980,7 @@
    840,
    1067,
    1070,
-   1193
+   1194
   ],
   "h2": [
    "What we know about the original, and what we left out",
@@ -2922,10 +2988,19 @@
    "Lined hardcovers that cost less per page",
    "Thicker paper for wet pens",
    "Pocket-size notebooks for a coat or a purse",
-   "A larger page with a spiral",
+   "A larger page for the desk",
    "Cost per 100 pages, worked out",
    "If you already own the original"
-  ]
+  ],
+  "prices": {
+   "214": 27.99,
+   "252": 24.95,
+   "829": 6.99,
+   "840": 6.63,
+   "1067": 5.72,
+   "1070": 8.49,
+   "1194": 11.99
+  }
  },
  {
   "slug": "dotted-vs-grid-notebook",
@@ -2938,20 +3013,25 @@
   "published_at": "2026-11-25T09:00:00.000000Z",
   "products": [
    224,
-   1113,
-   1193
+   1110,
+   1113
   ],
   "h2": [
    "Dots mark the corners; squares draw every line",
    "Lay-flat matters more for dots",
    "Paper weight and ghosting by pattern",
-   "Two B5 sizes, not one",
+   "B5 is a label, not an exact size",
    "What each listing says you can do with it",
    "Cost per 100 pages",
    "Choose dotted if you plan; choose squared if you measure",
    "A missing Score is not a low Score",
    "Try a grid before you commit"
-  ]
+  ],
+  "prices": {
+   "224": 19.97,
+   "1110": 39.97,
+   "1113": 25.99
+  }
  },
  {
   "slug": "spiral-vs-bound-planner",
@@ -3233,7 +3313,7 @@
    214,
    252,
    1113,
-   1193,
+   1194,
    1314,
    1319
   ],
@@ -3243,7 +3323,15 @@
    "Weight and the pen: what the listings leave open",
    "Picking a gsm for the way you write",
    "The six journals, with their weights"
-  ]
+  ],
+  "prices": {
+   "214": 27.99,
+   "252": 24.95,
+   "1113": 25.99,
+   "1194": 11.99,
+   "1314": 29.99,
+   "1319": 15.97
+  }
  },
  {
   "slug": "planner-binding-types-explained",
@@ -3281,19 +3369,27 @@
   "enabled": true,
   "published_at": "2026-11-26T17:45:00.000000Z",
   "products": [
+   153,
    214,
    252,
    981,
    983,
-   1113,
-   1193
+   1113
   ],
   "h2": [
    "A two-minute test that tells the three apart",
    "What six listings promise, symptom by symptom",
    "Why the pen matters as much as the paper",
    "What to do with a journal that already ghosts"
-  ]
+  ],
+  "prices": {
+   "153": 11.19,
+   "214": 27.99,
+   "252": 24.95,
+   "981": 18.04,
+   "983": 16.99,
+   "1113": 25.99
+  }
  },
  {
   "slug": "stocking-stuffers-for-planner-lovers",
@@ -3787,8 +3883,8 @@
    480,
    834,
    841,
+   1113,
    1114,
-   1193,
    1320
   ],
   "h2": [
@@ -3801,7 +3897,7 @@
    "DreamDove A6: a blank book that snaps shut",
    "Forvencer B5: the most pages for the money",
    "Dotted A5 2-Pack: two dot grid books with tabs",
-   "POPRUN B5: a wide dotted spiral with a date ruler",
+   "Y&I A5 kit: a dotted hardcover with pens and stencils",
    "Lemome A5 Blank: an unlined book with dividers",
    "Does a pen holder fit a thick pen?",
    "Is 120 gsm enough paper for gel pens and markers?",
@@ -3817,7 +3913,19 @@
   "published_at": "2026-11-29T17:00:00.000000Z",
   "enabled": false,
   "price_checked": "2026-11-11",
-  "refresh_by": null
+  "refresh_by": null,
+  "prices": {
+   "51": 4.79,
+   "160": 8.49,
+   "214": 27.99,
+   "250": 14.95,
+   "480": 7.99,
+   "834": 6.39,
+   "841": 9.95,
+   "1113": 25.99,
+   "1114": 10.99,
+   "1320": 19.99
+  }
  },
  {
   "slug": "graph-paper-notebooks-for-math",
@@ -4067,12 +4175,12 @@
   "cluster": "wall-large-print",
   "products": [
    274,
+   290,
    292,
    294,
    298,
    938,
    956,
-   1377,
    1427
   ],
   "h2": [
@@ -4083,7 +4191,7 @@
    "Dry Erase Wall Calendar 2027: a reusable 48 by 24 inch surface",
    "Black 18-Month Wall Calendar: the longest run, July 2026 to December 2027",
    "14-Month Grid Calendar: 120 gsm paper, November 2026 to December 2027",
-   "18-Month Color-Block Calendar: January 2027 to June 2028",
+   "GuassLee 20 by 30 inch Calendar: January 2027 to June 2028",
    "Great Big Grid 17-Month Planner: multi-country holidays and moon phases",
    "What size wall calendar reads clearly from across a room?",
    "Do large-print wall calendars still leave room to write?",
@@ -4099,7 +4207,16 @@
   "published_at": "2026-12-02T12:00:00.000000Z",
   "enabled": false,
   "price_checked": "2026-11-10",
-  "refresh_by": null
+  "refresh_by": null,
+  "prices": {
+   "274": 13.99,
+   "290": 28.99,
+   "292": 7.99,
+   "294": 6.99,
+   "298": 11.79,
+   "938": 7.58,
+   "1427": 17.99
+  }
  },
  {
   "slug": "self-care-journals-for-women",
@@ -4299,7 +4416,7 @@
  {
   "slug": "academic-planners-for-high-school",
   "id": 129,
-  "title": "Academic Planner for High School: 10 Picks, July 2026 to June 2027",
+  "title": "Academic Planner for High School: 9 Picks, July 2026 to June 2027",
   "type": "best",
   "primary_query": "academic planner for high school students",
   "cluster": "academic-high-school",
@@ -4311,14 +4428,12 @@
    200,
    306,
    742,
-   894,
    1869,
    2279
   ],
   "h2": [
    "How we picked these academic planners",
    "Top-scoring hardcover: the A5 watercolor academic planner",
-   "Lowest cost per month: the gold twin-wire A5 planner",
    "Biggest page for assignments: the 9 by 11 student planner",
    "Start any time of year: the undated Smart Academic planner",
    "Compact with study tips: the ZICOTO checkered planner",
@@ -4341,7 +4456,15 @@
   "published_at": "2026-11-29T07:00:00.000000Z",
   "enabled": false,
   "price_checked": "2026-11-11",
-  "refresh_by": null
+  "refresh_by": null,
+  "prices": {
+   "128": 7.99,
+   "129": 9.99,
+   "200": 9.99,
+   "742": 4.24,
+   "1869": 6.79,
+   "2279": 20.95
+  }
  },
  {
   "slug": "hardcover-notebooks-with-pocket",
@@ -4655,7 +4778,7 @@
  {
   "slug": "best-boxed-christmas-cards",
   "id": 137,
-  "title": "Best Boxed Christmas Cards: 27 Boxes From 14 to 40 Cards",
+  "title": "Best Boxed Christmas Cards: 26 Boxes From 14 to 40 Cards",
   "type": "best",
   "primary_query": "best boxed christmas cards",
   "cluster": "boxed-christmas-cards",
@@ -4672,7 +4795,6 @@
    3361,
    3362,
    3363,
-   3364,
    3366,
    3368,
    3369,
@@ -4713,33 +4835,32 @@
   "price_checked": "2026-11-13",
   "refresh_by": "2026-12-01",
   "prices": {
-   "3346": 6.99,
-   "3347": 12.99,
-   "3348": 8.99,
-   "3349": 6.29,
+   "3346": 7.99,
+   "3347": 9.49,
+   "3348": 6.79,
+   "3349": 5.03,
    "3351": 8.99,
-   "3352": 9.99,
+   "3352": 8.49,
    "3353": 8.99,
-   "3354": 5.99,
-   "3356": 12.83,
+   "3354": 3.99,
+   "3356": 11.13,
    "3361": 16.99,
-   "3362": 12.46,
-   "3363": 9.99,
-   "3364": 18.99,
-   "3366": 12.47,
+   "3362": 15.49,
+   "3363": 8.49,
+   "3366": 12.48,
    "3368": 5.49,
    "3369": 11.95,
    "3370": 9.99,
-   "3373": 4.99,
+   "3373": 5.59,
    "3378": 12.48,
-   "3380": 16.89,
-   "3381": 10.99,
-   "3382": 7.25,
-   "3383": 14.99,
-   "3384": 15.49,
-   "3385": 12.52,
-   "3387": 5.99,
-   "3388": 7.93
+   "3380": 16.85,
+   "3381": 8.79,
+   "3382": 7.19,
+   "3383": 12.35,
+   "3384": 12.39,
+   "3385": 12.15,
+   "3387": 3.99,
+   "3388": 8.99
   }
  },
  {
@@ -4795,14 +4916,14 @@
    3312,
    3314,
    3318,
-   3325,
    3326,
    3328,
    3330,
    3332,
    3334,
    3337,
-   3375
+   3375,
+   5793
   ],
   "h2": [
    "How we picked these stationery advent calendars",
@@ -4810,7 +4931,7 @@
    "Sticker sheets for a planner or scrapbook",
    "A first journal kit for a child, by listed age",
    "DIY journal kits without a listed age range",
-   "Scrapbooking and junk journalling",
+   "Licensed stationery for a Minecraft fan",
    "How much does a stationery advent calendar cost per day?",
    "What is inside a stationery advent calendar?",
    "Are these stationery advent calendars dated for 2026 and reusable?",
@@ -4828,18 +4949,18 @@
   "price_checked": "2026-11-13",
   "refresh_by": "2026-12-01",
   "prices": {
-   "3308": 18.99,
-   "3312": 34.99,
-   "3314": 21.99,
-   "3318": 19.99,
-   "3325": 79.99,
-   "3326": 24.99,
-   "3328": 28.99,
-   "3330": 16.99,
-   "3332": 33.99,
-   "3334": 24.99,
-   "3337": 29.99,
-   "3375": 15.99
+   "3308": 14.43,
+   "3312": 39.99,
+   "3314": 18.8,
+   "3318": 29.99,
+   "3326": 18.74,
+   "3328": 26.99,
+   "3330": 18.99,
+   "3332": 23.36,
+   "3334": 19.99,
+   "3337": 19.99,
+   "3375": 15.99,
+   "5793": 35.85
   }
  },
  {
@@ -5417,21 +5538,21 @@
    3684,
    3687,
    3692,
-   3700,
    3706,
    3707,
-   3708,
    3719,
    3732,
    3735,
-   3744
+   3741,
+   3750,
+   3758
   ],
   "h2": [
    "How we chose these beauty advent calendars",
-   "Makeup calendars with the most full-size items",
+   "Color makeup advent calendars",
    "Budget W7 makeup boxes",
    "Skincare-led calendars",
-   "Bath, lip and keepsake picks",
+   "Bath, lip and pamper picks",
    "Do beauty advent calendars have full-size products?",
    "How many days does a beauty advent calendar run?",
    "What is inside the Sephora advent calendar in this list?",
@@ -5450,18 +5571,18 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "3683": 59.99,
-   "3684": 29.99,
-   "3687": 29.99,
-   "3692": 90.0,
-   "3700": 95.0,
-   "3706": 15.99,
-   "3707": 65.0,
-   "3708": 99.0,
-   "3719": 98.41,
-   "3732": 85.0,
-   "3735": 30.0,
-   "3744": 220.0
+   "3683": 50.99,
+   "3684": 25.83,
+   "3687": 24.54,
+   "3692": 99.0,
+   "3706": 13.98,
+   "3707": 45.5,
+   "3719": 93.49,
+   "3732": 68.0,
+   "3735": 21.0,
+   "3741": 43.34,
+   "3750": 14.99,
+   "3758": 8.45
   }
  },
  {
@@ -5533,14 +5654,14 @@
    5033,
    5034,
    5042,
-   5045,
    5046,
    5047,
    5048,
    5055,
    5059,
-   5061,
-   5064
+   5062,
+   5064,
+   8276
   ],
   "h2": [
    "How we chose these dog advent calendars",
@@ -5562,18 +5683,18 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "5029": 32.99,
+   "5029": 36.99,
    "5033": 84.98,
-   "5034": 22.97,
+   "5034": 23.5,
    "5042": 64.99,
-   "5045": 31.99,
    "5046": 59.99,
    "5047": 49.99,
    "5048": 42.99,
    "5055": 49.99,
-   "5059": 29.79,
-   "5061": 29.99,
-   "5064": 24.99
+   "5059": 32.79,
+   "5062": 25.99,
+   "5064": 24.99,
+   "8276": 26.99
   }
  },
  {
@@ -5584,16 +5705,16 @@
   "primary_query": "best chocolate advent calendar",
   "cluster": "chocolate-advent",
   "products": [
-   3681,
    3755,
    3760,
    3761,
    3766,
    3779,
    3788,
+   3796,
    3798,
-   4984,
-   4991
+   8132,
+   8142
   ],
   "h2": [
    "How we chose these chocolate advent calendars",
@@ -5620,16 +5741,16 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "3681": 13.97,
-   "3755": 25.45,
-   "3760": 8.7,
-   "3761": 19.95,
-   "3766": 21.49,
-   "3779": 6.95,
-   "3788": 19.99,
-   "3798": 16.99,
-   "4984": 50.0,
-   "4991": 50.0
+   "3755": 35.45,
+   "3760": 7.51,
+   "3761": 18.95,
+   "3766": 26.99,
+   "3779": 6.7,
+   "3788": 20.44,
+   "3796": 9.88,
+   "3798": 16.95,
+   "8132": 15.0,
+   "8142": 15.0
   }
  },
  {
@@ -5647,11 +5768,11 @@
    3948,
    3949,
    3950,
-   3951,
    3953,
    3955,
    3957,
-   3962
+   3962,
+   4028
   ],
   "h2": [
    "How we ranked these wooden advent calendars with drawers",
@@ -5676,18 +5797,18 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "3941": 25.99,
+   "3941": 20.39,
    "3942": 59.99,
-   "3944": 25.99,
-   "3947": 34.99,
-   "3948": 24.99,
+   "3944": 28.99,
+   "3947": 28.99,
+   "3948": 25.99,
    "3949": 49.99,
-   "3950": 32.99,
-   "3951": 29.99,
-   "3953": 63.99,
+   "3950": 35.99,
+   "3953": 65.99,
    "3955": 29.99,
-   "3957": 29.99,
-   "3962": 55.99
+   "3957": 35.99,
+   "3962": 42.49,
+   "4028": 30.99
   }
  },
  {
@@ -5705,12 +5826,12 @@
    3853,
    3854,
    3882,
-   3883,
    3892,
    3896,
-   4814,
+   4679,
    4818,
-   4845
+   4845,
+   4850
   ],
   "h2": [
    "How we chose these advent calendars for men",
@@ -5734,19 +5855,19 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "3737": 39.99,
+   "3737": 36.99,
    "3841": 49.99,
    "3850": 32.99,
-   "3851": 59.99,
+   "3851": 50.99,
    "3853": 120.0,
-   "3854": 44.49,
-   "3882": 34.99,
-   "3883": 59.98,
-   "3892": 45.5,
+   "3854": 49.99,
+   "3882": 29.99,
+   "3892": 33.38,
    "3896": 55.99,
-   "4814": 48.04,
+   "4679": 44.95,
    "4818": 82.99,
-   "4845": 233.0
+   "4845": 189.0,
+   "4850": 47.89
   }
  },
  {
@@ -5812,19 +5933,17 @@
  {
   "slug": "funko-pop-advent-calendars",
   "id": 157,
-  "title": "Funko Pop Advent Calendars: 12 Sets by Days and Cost per Day",
+  "title": "Funko Pop Advent Calendars: 10 Sets by Days and Cost per Day",
   "type": "best",
   "primary_query": "funko pop advent calendar",
   "cluster": "funko-advent",
   "products": [
    4075,
-   4079,
    4080,
    4082,
    4085,
    4086,
    4097,
-   4100,
    4102,
    4106,
    4115,
@@ -5835,7 +5954,7 @@
    "What is the difference between Bitty Pop and Pocket Pop Funko advent calendars?",
    "Do Funko Pop advent calendars run 24 days or fewer?",
    "24-door Funko Pop advent calendars, cheapest per day first",
-   "Shorter 13 and 14-day Funko countdown calendars",
+   "Shorter 13-day Funko countdown calendars",
    "How many figures are in a Funko Pop advent calendar?",
    "Which Funko advent calendar is the best value for a collector?",
    "What age does each Funko Pop advent calendar list?"
@@ -5851,17 +5970,13 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "4075": 25.62,
-   "4079": 44.44,
    "4080": 34.99,
-   "4082": 44.86,
-   "4085": 24.44,
-   "4086": 45.4,
-   "4097": 54.83,
-   "4100": 34.69,
-   "4102": 239.99,
+   "4082": 44.88,
+   "4085": 22.46,
+   "4086": 49.66,
+   "4097": 52.98,
    "4106": 34.99,
-   "4115": 34.98,
+   "4115": 17.49,
    "4739": 103.0
   }
  },
@@ -5874,7 +5989,6 @@
   "cluster": "crystal-advent",
   "products": [
    4039,
-   4054,
    4466,
    4467,
    4468,
@@ -5882,12 +5996,13 @@
    4472,
    4473,
    4474,
+   4519,
    5009
   ],
   "h2": [
    "How we chose these crystal advent calendars",
    "What crystals come in these advent calendars?",
-   "Is there a 12-day crystal advent calendar here, or only 24-day?",
+   "Do these crystal advent calendars all run 24 days?",
    "Do these crystal advent calendars include a stone guide?",
    "Are the stones in these crystal advent calendars natural?",
    "When does a 24-day crystal advent calendar start and finish in 2026?"
@@ -5903,16 +6018,16 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "4039": 22.49,
-   "4054": 35.99,
-   "4466": 11.89,
-   "4467": 23.79,
+   "4039": 19.99,
+   "4466": 9.99,
+   "4467": 18.76,
    "4468": 12.99,
-   "4471": 25.59,
-   "4472": 27.99,
-   "4473": 12.97,
-   "4474": 12.79,
-   "5009": 55.06
+   "4471": 20.47,
+   "4472": 29.99,
+   "4473": 14.99,
+   "4474": 9.59,
+   "4519": 78.97,
+   "5009": 58.39
   }
  },
  {
@@ -6128,7 +6243,7 @@
  {
   "slug": "candle-advent-calendars",
   "id": 163,
-  "title": "Candle Advent Calendars: 9 Picks Ranked by Cost per Day",
+  "title": "Candle Advent Calendars: 8 Picks Ranked by Cost per Day",
   "type": "best",
   "primary_query": "candle advent calendar",
   "cluster": "candle-scent-advent",
@@ -6138,7 +6253,6 @@
    4216,
    4217,
    4219,
-   4220,
    4221,
    4234,
    4238
@@ -6166,14 +6280,13 @@
   "refresh_by": "2026-11-27",
   "prices": {
    "3838": 19.99,
-   "4203": 35.99,
+   "4203": 29.99,
    "4216": 17.99,
    "4217": 69.99,
-   "4219": 24.99,
-   "4220": 69.99,
+   "4219": 25.99,
    "4221": 10.95,
-   "4234": 69.99,
-   "4238": 24.99
+   "4234": 47.49,
+   "4238": 23.74
   }
  },
  {
@@ -6361,13 +6474,13 @@
    3967,
    3968,
    3969,
-   3971,
    3973,
    3976,
    3979,
    3994,
    3995,
-   4035
+   4035,
+   4037
   ],
   "h2": [
    "How these fabric advent calendars were picked",
@@ -6390,15 +6503,15 @@
   "refresh_by": "2026-11-27",
   "prices": {
    "3967": 44.99,
-   "3968": 22.0,
-   "3969": 19.99,
-   "3971": 23.99,
+   "3968": 21.99,
+   "3969": 13.99,
    "3973": 15.99,
-   "3976": 19.99,
-   "3979": 24.99,
-   "3994": 48.95,
+   "3976": 25.99,
+   "3979": 25.99,
+   "3994": 49.95,
    "3995": 44.99,
-   "4035": 37.99
+   "4035": 37.99,
+   "4037": 23.99
   }
  },
  {
@@ -6515,12 +6628,12 @@
    3735,
    4118,
    4269,
-   4270,
    4274,
    4280,
    4286,
    4287,
    4291,
+   4294,
    4958
   ],
   "h2": [
@@ -6547,34 +6660,29 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "3735": 30.0,
-   "4118": 24.99,
-   "4269": 23.98,
-   "4270": 35.49,
-   "4274": 39.99,
-   "4280": 49.99,
-   "4286": 39.99,
-   "4287": 58.98,
-   "4291": 51.99,
-   "4958": 29.99
+   "3735": 21.0,
+   "4118": 19.99,
+   "4269": 28.98,
+   "4274": 35.99,
+   "4280": 56.99,
+   "4287": 56.98,
+   "4291": 59.99,
+   "4294": 39.99
   }
  },
  {
   "slug": "cat-advent-calendars",
   "id": 171,
-  "title": "Cat Advent Calendar: 8 Treat, Toy and Fillable Picks by Cost per Day",
+  "title": "Cat Advent Calendar: 5 Treat, Toy and Fillable Picks by Cost per Day",
   "type": "best",
   "primary_query": "cat advent calendar",
   "cluster": "cat-advent",
   "products": [
-   5027,
    5038,
    5044,
    5058,
-   5063,
-   5065,
-   5068,
-   5069
+   5069,
+   8276
   ],
   "h2": [
    "How we chose these cat advent calendars",
@@ -6596,14 +6704,11 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "5027": 32.99,
-   "5038": 28.99,
-   "5044": 18.99,
-   "5058": 36.99,
-   "5063": 57.99,
-   "5065": 39.99,
-   "5068": 25.99,
-   "5069": 22.99
+   "5038": 21.99,
+   "5044": 15.19,
+   "5058": 24.99,
+   "5069": 24.99,
+   "8276": 26.99
   }
  },
  {
@@ -6614,7 +6719,6 @@
   "primary_query": "tea advent calendar",
   "cluster": "tea-advent",
   "products": [
-   3795,
    3799,
    3809,
    3813,
@@ -6625,12 +6729,13 @@
    3828,
    3831,
    3832,
+   3860,
    5010
   ],
   "h2": [
    "How we chose these tea advent calendars",
    "Best value tea advent calendars with the lowest cost per cup",
-   "Tea-bag samplers around a dollar a day",
+   "More tea and matcha samplers",
    "Loose-leaf tea advent calendars that need an infuser",
    "Pyramid-infuser tea advent calendars from Tea Forte",
    "A bigger VAHDAM box with five bags per flavor",
@@ -6652,17 +6757,17 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "3795": 25.99,
-   "3799": 16.99,
-   "3809": 19.99,
+   "3799": 13.59,
+   "3809": 14.99,
    "3813": 29.99,
-   "3817": 64.99,
+   "3817": 51.99,
    "3820": 24.99,
    "3822": 29.99,
-   "3827": 78.0,
+   "3827": 54.6,
    "3828": 20.09,
-   "3831": 26.95,
-   "3832": 57.49,
+   "3831": 23.96,
+   "3832": 49.72,
+   "3860": 39.99,
    "5010": 89.99
   }
  },
@@ -6777,10 +6882,10 @@
   "products": [
    3698,
    3701,
-   3988,
    3990,
    3991,
    3992,
+   4087,
    4714,
    4719,
    4730,
@@ -6807,16 +6912,16 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "3698": 20.99,
-   "3701": 28.99,
-   "3988": 27.99,
-   "3990": 19.99,
+   "3698": 22.99,
+   "3701": 31.99,
+   "3990": 13.99,
    "3991": 15.99,
-   "3992": 17.99,
+   "3992": 14.39,
+   "4087": 23.99,
    "4714": 28.99,
-   "4719": 22.99,
+   "4719": 18.99,
    "4730": 79.95,
-   "4969": 26.39
+   "4969": 18.99
   }
  },
  {
@@ -6893,13 +6998,13 @@
    4520,
    4521,
    4522,
-   4523
+   7317
   ],
   "h2": [
    "How we chose these car advent calendars",
    "Die-cast car advent calendars with a vehicle behind every door",
    "Pull-back and budget car advent calendars",
-   "1:64 and 1:87 scale collectible car advent calendars",
+   "1:64 scale collectible car advent calendars",
    "Monster truck advent calendars for kids",
    "A licensed Hot Wheels advent calendar",
    "Which car advent calendar suits a 3 year old?",
@@ -6920,16 +7025,16 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "4499": 21.99,
+   "4499": 22.99,
    "4502": 26.99,
-   "4507": 65.99,
-   "4511": 26.99,
-   "4514": 19.99,
-   "4518": 16.99,
-   "4520": 40.99,
-   "4521": 40.79,
+   "4507": 61.99,
+   "4511": 27.99,
+   "4514": 15.99,
+   "4518": 20.99,
+   "4520": 32.79,
+   "4521": 27.99,
    "4522": 19.99,
-   "4523": 49.98
+   "7317": 28.49
   }
  },
  {
@@ -6940,20 +7045,20 @@
   "primary_query": "tool advent calendar",
   "cluster": "tool-advent",
   "products": [
-   4189,
-   4814,
    4815,
    4818,
+   4820,
    4821,
-   4822,
+   4834,
    4845,
-   4847
+   4847,
+   4850
   ],
   "h2": [
    "How we chose these tool advent calendars",
-   "Hand tool advent calendars for everyday home repairs",
+   "Car and hand tool advent calendars for everyday repairs",
    "Premium branded tool advent calendars for enthusiasts",
-   "A leather-crafting advent calendar for makers",
+   "A gadget advent calendar for men",
    "Are these tool advent calendars worth the money?",
    "How many tools come in a tool advent calendar?",
    "Which tool advent calendar is the best value per day?",
@@ -6972,14 +7077,13 @@
   "price_checked": "2026-11-19",
   "refresh_by": "2026-11-27",
   "prices": {
-   "4189": 39.99,
-   "4814": 48.04,
-   "4815": 50.99,
+   "4815": 49.99,
    "4818": 82.99,
-   "4821": 329.0,
-   "4822": 45.99,
-   "4845": 233.0,
-   "4847": 228.5
+   "4820": 39.99,
+   "4834": 43.99,
+   "4845": 189.0,
+   "4847": 189.0,
+   "4850": 47.89
   }
  },
  {
@@ -7199,12 +7303,12 @@
    5160,
    5162,
    5186,
+   5191,
    5197,
    5213,
    5253,
    5470,
    5516,
-   5528,
    5533,
    5549
   ],
@@ -7227,16 +7331,16 @@
   "price_checked": "2026-11-21",
   "refresh_by": "2026-12-21",
   "prices": {
-   "5156": 16.14,
+   "5156": 15.49,
    "5160": 25.49,
    "5162": 16.99,
    "5186": 31.99,
+   "5191": 19.99,
    "5197": 23.9,
    "5213": 19.96,
    "5253": 31.99,
    "5470": 24.79,
    "5516": 33.57,
-   "5528": 39.83,
    "5533": 29.3,
    "5549": 16.99
   }
@@ -7254,10 +7358,10 @@
    5469,
    5473,
    5475,
-   5477,
    5512,
    5531,
-   5537
+   5537,
+   5538
   ],
   "h2": [
    "How we picked these nine Pomodoro cube timers",
@@ -7279,14 +7383,14 @@
   "refresh_by": "2026-12-21",
   "prices": {
    "5190": 16.14,
-   "5465": 37.99,
-   "5469": 23.9,
-   "5473": 33.99,
-   "5475": 49.49,
-   "5477": 53.99,
+   "5465": 30.39,
+   "5469": 19.12,
+   "5473": 30.39,
+   "5475": 43.99,
    "5512": 30.39,
    "5531": 37.8,
-   "5537": 45.39
+   "5537": 45.39,
+   "5538": 14.99
   }
  },
  {
@@ -8023,17 +8127,17 @@
  {
   "slug": "large-digital-wall-clocks",
   "id": 200,
-  "title": "Large Digital Wall Clocks: 8 Picks From 5.9 to 16 Inches",
+  "title": "Large Digital Wall Clocks: 8 Picks From 7.8 to 16 Inches",
   "type": "best",
   "primary_query": "large digital wall clock",
   "cluster": "large-digital-wall-clock",
   "products": [
    5272,
-   5287,
    5289,
    5290,
    5291,
    5308,
+   5313,
    5408,
    5409
   ],
@@ -8058,11 +8162,11 @@
   "refresh_by": "2026-12-21",
   "prices": {
    "5272": 23.74,
-   "5287": 19.99,
-   "5289": 28.49,
+   "5289": 23.99,
    "5290": 27.54,
    "5291": 20.97,
    "5308": 18.99,
+   "5313": 22.79,
    "5408": 29.99,
    "5409": 28.04
   }
@@ -8278,7 +8382,7 @@
    5149,
    5292,
    5415,
-   5441
+   5452
   ],
   "h2": [
    "How we picked these day clocks with reminders",
@@ -8299,15 +8403,15 @@
   "refresh_by": "2026-12-21",
   "prices": {
    "5121": 25.49,
-   "5123": 29.99,
+   "5123": 25.49,
    "5128": 35.99,
    "5135": 32.99,
    "5143": 39.99,
    "5146": 49.99,
-   "5149": 34.99,
+   "5149": 33.49,
    "5292": 29.99,
    "5415": 35.99,
-   "5441": 119.95
+   "5452": 59.95
   }
  },
  {
@@ -8372,7 +8476,7 @@
    4036,
    4060,
    4179,
-   4490,
+   4491,
    4719,
    4762,
    4867
@@ -8382,10 +8486,10 @@
    "Lowest cost per day: Istooll Charm Bracelet",
    "Makeup and nails together: De'lanci 24-Day Kit",
    "Screen-free craft: Haobxistem Bead Painting",
-   "Rocks and gems: Crudetea Crystal Calendar",
    "Build two bracelets: Raisly DIY Jewelry",
    "Frozen theme for ages 4 to 12: Istooll Princess",
    "Water-based nail polish: Namonppy Set",
+   "Rocks and gems: Gem Dig Kit",
    "A keepsake she wears: Harry Potter Jewelry",
    "Pretend play for ages 3 to 8: Ludmila Princess Dolls",
    "Bath-time surprises: Oumuamua Bath Bombs",
@@ -8405,14 +8509,14 @@
   "price_checked": "2026-11-21",
   "refresh_by": "2026-12-21",
   "prices": {
-   "3390": 22.99,
-   "3758": 7.59,
-   "4002": 13.81,
-   "4036": 14.99,
+   "3390": 23.99,
+   "3758": 8.45,
+   "4002": 17.99,
+   "4036": 21.99,
    "4060": 7.59,
    "4179": 10.19,
-   "4490": 13.99,
-   "4719": 19.99,
+   "4491": 19.99,
+   "4719": 18.99,
    "4762": 18.99,
    "4867": 18.99
   }
@@ -8484,14 +8588,14 @@
   "primary_query": "book lover advent calendar",
   "cluster": "book-lover-advent",
   "products": [
-   3322,
    5731,
    5732,
    5733,
    5740,
    5741,
    5745,
-   5746
+   5746,
+   5748
   ],
   "h2": [
    "How we picked these book lover advent calendars",
@@ -8502,7 +8606,7 @@
    "Twenty-five days of classics: Hardwind Vol. II",
    "A finished bookcase to keep: Ronstone 24 Books",
    "Reading card and prompts: Kydqiener 24 Classics",
-   "Bookish gifts instead of books: Onehaus 24-Day Set",
+   "A book nook to build, not read: INSOON Magic Book Nook",
    "Are the mini books in a book lover advent calendar full stories?",
    "Which book lover advent calendar is cheapest per day?",
    "Can you hang a book lover advent calendar on the tree?"
@@ -8519,14 +8623,14 @@
   "price_checked": "2026-11-21",
   "refresh_by": "2026-12-21",
   "prices": {
-   "3322": 44.99,
-   "5731": 31.99,
-   "5732": 29.99,
-   "5733": 22.39,
-   "5740": 25.99,
-   "5741": 21.99,
+   "5731": 36.99,
+   "5732": 23.99,
+   "5733": 29.99,
+   "5740": 18.99,
+   "5741": 21.1,
    "5745": 14.39,
-   "5746": 34.19
+   "5746": 34.19,
+   "5748": 64.99
   }
  },
  {
