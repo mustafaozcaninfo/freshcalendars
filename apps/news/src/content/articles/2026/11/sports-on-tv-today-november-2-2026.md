@@ -94,7 +94,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/printable-weekly-calendar.html"
     label: "Printable weekly calendar"
-related: [nba-games-today-november-2-2026, college-basketball-opening-night-2026-top-25-games-times-tv-champions-classic, monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026]
+related: [nba-games-today-november-2-2026, sports-on-tv-today-november-29-2026, monday-night-football-tonight-cowboys-eagles-mnf-schedule-2026]
 downloads:
   - group: "Sports on TV Monday printables"
     title: "Sports on TV Monday, Nov. 2, 2026"
