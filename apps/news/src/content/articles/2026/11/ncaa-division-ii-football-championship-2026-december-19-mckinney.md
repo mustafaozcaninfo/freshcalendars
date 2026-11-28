@@ -74,7 +74,7 @@ internalLinks:
     label: "November 2026 printable calendar"
   - href: "/december-calendars.html"
     label: "December 2026 printable calendar"
-related: [fcs-playoffs-2026-bracket-schedule-dates-championship-nashville, college-football-bowl-schedule-2026-27-dates-times-tv-cfp, celebration-bowl-2026-december-12-time-tv-meac-swac]
+related: [ncaa-division-ii-iii-football-playoffs-second-round-november-28-2026, fcs-playoffs-2026-bracket-schedule-dates-championship-nashville, college-football-bowl-schedule-2026-27-dates-times-tv-cfp]
 assets:
   overlay: true
   kicker: "NCAA Division II Final, Sat., Dec. 19"
