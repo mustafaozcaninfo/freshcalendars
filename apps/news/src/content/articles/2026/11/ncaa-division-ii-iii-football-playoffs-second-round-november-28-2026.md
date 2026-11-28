@@ -2,8 +2,8 @@
 title: "D2 and D3 Football Playoffs Second Round: All 24 Kickoff Times"
 description: "24 D2 and D3 football playoff games are Sat., Nov. 28, starting at noon ET. Every kickoff in ET, CT, MT and PT, both brackets and a printable watch sheet."
 type: news
-publishedAt: "2026-11-28T04:40:00-05:00"
-updatedAt: "2026-11-28T04:40:00-05:00"
+publishedAt: "2026-11-28T05:29:00-05:00"
+updatedAt: "2026-11-28T05:29:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["d3 football playoffs second round schedule", "d2 football playoffs 2026 schedule today", "division iii football playoffs 2026 second round", "ncaa division ii playoffs second round kickoff times"]

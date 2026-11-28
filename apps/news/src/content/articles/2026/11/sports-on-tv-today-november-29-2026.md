@@ -2,8 +2,8 @@
 title: "Sports on TV Today, Nov. 29, 2026: Raiders at Browns, 8:20 p.m. ET"
 description: "Sports on TV Sunday, Nov. 29, 2026: Raiders at Browns, 8:20 p.m. ET on NBC. All 30 events in time order with ET, CT and PT columns, channels, printable."
 type: news
-publishedAt: "2026-11-28T04:38:00-05:00"
-updatedAt: "2026-11-28T04:38:00-05:00"
+publishedAt: "2026-11-28T05:29:00-05:00"
+updatedAt: "2026-11-28T05:29:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["sports on TV today", "what sports are on TV today November 29 2026", "sports on TV Sunday November 29", "games on TV today", "printable sports TV schedule"]
