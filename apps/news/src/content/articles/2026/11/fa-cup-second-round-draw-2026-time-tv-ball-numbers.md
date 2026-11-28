@@ -3,14 +3,14 @@ title: "FA Cup Second Round Draw 2026: All 20 Ties, TV Picks, Times"
 description: "The FA Cup second round draw is made: all 20 ties for Dec. 4 to 7, 2026, the eight on TV with UK and ET kick-off times, and the third round draw date."
 type: news
 publishedAt: "2026-11-08T06:14:00-05:00"
-updatedAt: "2026-11-13T16:16:00-05:00"
+updatedAt: "2026-11-28T01:30:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["fa cup second round draw 2026", "fa cup draw time", "fa cup second round draw ball numbers", "fa cup draw tnt sports"]
 dateline: "London"
 summary:
   - "The Football Association (The FA) made the Emirates FA Cup second round proper draw on Monday, Nov. 9, 2026: 20 ties across the weekend of Saturday, Dec. 5."
-  - "Eight ties are live on Turner Network Television (TNT) Sports and HBO Max, two of them also on BBC Two; the other 12 stay at 3pm GMT on Saturday, Dec. 5 unless The FA says otherwise."
+  - "Eight ties are live on Turner Network Television (TNT) Sports and HBO Max, two of them also on BBC Two; 11 more are at 3pm GMT on Saturday, Dec. 5, and Wycombe Wanderers v Milton Keynes Dons has moved to Friday, Dec. 4 at 7.45pm GMT, with no channel listed."
   - "The TV ties run from Friday, Dec. 4 to Monday, Dec. 7, when Guiseley v Notts County is shown with the third round draw before the 7.30pm GMT kick-off."
 assets:
   scene: sports
@@ -66,7 +66,7 @@ faq:
   - q: "When is the FA Cup third round draw?"
     a: "On Monday, Dec. 7, 2026, before the Guiseley v Notts County tie, live on TNT Sports. The FA has not yet given the exact time, and the broadcast coverage starts at 6.30pm GMT (1:30 p.m. ET)."
   - q: "Are the second round kick-off times final?"
-    a: "The FA says all other fixtures stay at 3pm on Saturday, Dec. 5 unless it states otherwise, and its fixtures page notes that dates and times may change, subject to TV selections and replays."
+    a: "Not all of them. The FA's fixtures page, read on Nov. 28, 2026, lists Wycombe Wanderers v Milton Keynes Dons on Friday, Dec. 4 at 7.45pm GMT (2:45 p.m. ET) instead of Saturday at 3pm, with no channel shown and no reason given. Eleven ties stay at 3pm GMT on Saturday, Dec. 5. The page notes that dates and times may change, subject to TV selections and replays."
 sources:
   - title: "Emirates FA Cup second round draw numbers confirmed"
     url: "https://www.thefa.com/news/2026/nov/06/emirates-fa-cup-second-round-draw-to-be-broadcast-on-tnt-sports-20260611"
@@ -87,7 +87,7 @@ sources:
   - title: "FA Cup fixtures and results, 2026-27 season"
     url: "https://www.thefa.com/competitions/thefacup/fixtures?stream=top"
     publisher: "The Football Association (The FA)"
-    date: "2026-11-13"
+    date: "2026-11-28"
 internalLinks:
   - href: "/november-calendars.html"
     label: "November 2026 printable calendar"
@@ -133,9 +133,9 @@ Kick-off times are in Greenwich Mean Time (GMT), as The FA gives them. The UK is
 | 15 | Shrewsbury Town v Burton Albion | Sat., Dec. 5 | 3pm | 10 a.m. | Not selected |
 | 18 | Rotherham United v Bristol Rovers | Sat., Dec. 5 | 3pm | 10 a.m. | Not selected |
 | 19 | Reading v Stockport County | Sat., Dec. 5 | 3pm | 10 a.m. | Not selected |
-| 20 | Wycombe Wanderers v Milton Keynes Dons | Sat., Dec. 5 | 3pm | 10 a.m. | Not selected |
+| 20 | Wycombe Wanderers v Milton Keynes Dons | Fri., Dec. 4 | 7.45pm | 2:45 p.m. | No channel listed |
 
-The FA says all other fixtures stay at 3pm on Saturday, Dec. 5 unless it states otherwise, and its fixtures page adds that "fixture dates and times may change, subject to TV selections and replays." For the clubs that came through, see the [FA Cup first round fixtures and TV picks](/news/fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times/).
+Tie No. 20, Wycombe Wanderers v Milton Keynes Dons, moved from Saturday at 3pm to Friday, Dec. 4 at 7.45pm GMT; The FA's fixtures page, read on Nov. 28, 2026, shows no channel for it and gives no reason. The other 11 ties not on TV are at 3pm GMT on Saturday, Dec. 5. The page adds that "fixture dates and times may change, subject to TV selections and replays." For the clubs that came through, see the [FA Cup first round fixtures and TV picks](/news/fa-cup-first-round-2026-27-fixtures-tv-picks-kickoff-times/).
 
 ## Countdown to the FA Cup second round on TV
 
