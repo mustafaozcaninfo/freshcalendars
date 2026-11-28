@@ -2,8 +2,8 @@
 title: "Cyber Monday Food Deals 2026: Chipotle Code CYBER26 and 6 More"
 description: "Seven chains post Cyber Monday food deals; Chipotle's $0 delivery code CYBER26 ends Nov. 30. Table of end dates, codes and limits, plus a printable."
 type: news
-publishedAt: "2026-11-27T20:40:00-05:00"
-updatedAt: "2026-11-27T20:40:00-05:00"
+publishedAt: "2026-11-27T21:38:00-05:00"
+updatedAt: "2026-11-27T21:38:00-05:00"
 authors: [jessica-hartwell]
 category: retail-dates
 keywords: ["cyber monday food deals 2026", "cyber monday restaurant deals 2026", "chipotle cyber monday 2026", "cyber monday 2026 free delivery code"]
