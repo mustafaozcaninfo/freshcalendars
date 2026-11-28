@@ -504,7 +504,7 @@ Two kinds are in on purpose as predicted losses: if the pre-screen predicts the 
 
 - Nov. 27 closed at 379 AI assistant visits, the highest day on record (327 on Nov. 22, 348 on Nov. 25); 171 of them clicked a retailer (45%, against 37% over all 2,636 visits on record). Search visits 98, also the highest day.
 - Nov. 28 by 07:50 UTC: 137 AI visits, 61 clicks (45%). The US day has not started, so this is not comparable yet.
-- By family (ChatGPT landing sessions on record): advent calendars 1,357 on 490 pages, planners 184, journals and supplies 108, clocks and digital calendars 68 on 37 pages, wall and desk calendars 42, themed 2027 calendars 4. Advent is 77% of sessions; it ends on Dec. 24.
+- By family (ChatGPT landing sessions on record): advent calendars 1,357 on 490 pages, planners 184, journals and supplies 108, clocks and digital calendars 68 on 37 pages, wall and desk calendars 42, themed 2027 calendars 4. Advent is 76% of sessions; it ends on Dec. 24.
 
 ### Sibling links on product pages (`tools/more_links.py`, started Nov. 28, 2026)
 
