@@ -3,7 +3,7 @@ title: "Army-Navy Game 2026: Saturday, Dec. 12, 3 p.m. ET on CBS"
 description: "The Army-Navy Game 2026 kickoff is Saturday, Dec. 12 at 3 p.m. ET on CBS at MetLife Stadium. Times for every U.S. zone and overseas bases."
 type: explainer
 publishedAt: "2026-10-26T02:22:00-04:00"
-updatedAt: "2026-11-13T16:15:00-05:00"
+updatedAt: "2026-11-28T01:30:00-05:00"
 authors: [jessica-hartwell]
 category: sports
 keywords: ["Army-Navy game 2026", "Army Navy game 2026 date", "what time is the Army Navy game", "Army Navy game channel"]
@@ -22,14 +22,14 @@ summary:
   - "Army's athletics department lists the 127th Army-Navy Game for Saturday, Dec. 12, 2026, at 3 p.m. Eastern Time (ET) on CBS at MetLife Stadium in East Rutherford, New Jersey."
   - "By our conversion, 3 p.m. ET is 2 p.m. Central, 1 p.m. Mountain, noon Pacific, 11 a.m. in Alaska and 10 a.m. in Hawaii."
   - "For service members overseas, our conversion gives 8 p.m. in the United Kingdom, 9 p.m. in Germany and 5 a.m. on Sunday, Dec. 13, in Japan and South Korea."
-  - "The U.S. Naval Academy (USNA) lists the game on Dec. 12 from 3 to 7 p.m. as an event window. A streaming option was not announced in the sources we read."
+  - "The U.S. Naval Academy (USNA) lists the game on Dec. 12 from 3 to 7 p.m. as an event window. Paramount+ and the Defense Visual Information Distribution Service (DVIDS) say the game streams on Paramount+ (Premium plan)."
 faq:
   - q: "When is the Army-Navy Game in 2026?"
     a: "Army's athletics department lists the 127th Army-Navy Game for Saturday, Dec. 12, 2026, at MetLife Stadium in East Rutherford, New Jersey. The U.S. Naval Academy (USNA) event page gives the same date."
   - q: "What time is the Army-Navy Game?"
     a: "Army's athletics department lists a 3 p.m. Eastern Time (ET) kickoff. That is 2 p.m. Central, 1 p.m. Mountain and noon Pacific, by our conversion."
   - q: "What channel is the Army-Navy Game on?"
-    a: "Army's athletics department lists the game on CBS. A streaming service was not announced in the sources we read."
+    a: "Army's athletics department lists the game on CBS. Paramount+ lists it as CBS/Paramount+ on its Premium plan, and DVIDS says it is broadcast on CBS/Paramount+."
   - q: "Where is the 2026 Army-Navy Game?"
     a: "At MetLife Stadium in East Rutherford, New Jersey, according to Army's athletics department. The USNA page lists the location as East Rutherford, N.J."
   - q: "Are Army-Navy Game tickets still available?"
@@ -57,6 +57,18 @@ sources:
     url: "https://armynavygame.com"
     publisher: "Army-Navy Game"
     date: "2026-11-13"
+  - title: "Philadelphia Awarded Four of the Next Seven Army-Navy Games presented by USAA"
+    url: "https://armynavygame.com/news/2026/11/17/philadelphia-awarded-four-of-the-next-seven-army-navy-games-presented-by-usaa-2026"
+    publisher: "Army-Navy Game"
+    date: "2026-11-17"
+  - title: "How To Watch College Football On CBS And Paramount+: 2026 CBS Schedule"
+    url: "https://www.paramountplus.com/sneak-peak/how-to-watch-college-football-on-cbs-paramount-plus/"
+    publisher: "Paramount+"
+    date: "2026-11-24"
+  - title: "Army Navy 2026"
+    url: "https://www.dvidshub.net/feature/ARMYNAVY26"
+    publisher: "Defense Visual Information Distribution Service (DVIDS)"
+    date: "2026-11-28"
   - title: "Navy edges Army to retain Commander-in-Chief's Trophy"
     url: "https://www.legion.org/information-center/news/news/2025/december/navy-edges-army-to-retain-commander-in-chiefs-trophy"
     publisher: "The American Legion"
@@ -143,7 +155,7 @@ The last four rows are for service members abroad. In Japan and South Korea the 
 
 ## What channel is the Army-Navy Game on?
 
-Army West Point Athletics lists CBS, and ESPN's Army schedule also shows the game at 3 p.m. on CBS. Army's announcement is titled "Army Football Announces 2026 Kickoff Times and TV Networks; Features Four National Broadcasts," and it lists the Army-Navy Game among them. A streaming option was not announced in the sources we read, so we do not name one. Check CBS before game day.
+Army West Point Athletics lists CBS, and ESPN's Army schedule also shows the game at 3 p.m. on CBS. Army's announcement is titled "Army Football Announces 2026 Kickoff Times and TV Networks; Features Four National Broadcasts," and it lists the Army-Navy Game among them. It streams on Paramount+. The Paramount+ 2026 CBS schedule (updated Nov. 24, 2026) lists "Army vs. Navy 3 PM CBS/Paramount+" for Saturday, Dec. 12, on the Paramount+ Premium plan, and the Defense Visual Information Distribution Service (DVIDS) says the game "will be broadcast at 3 p.m. ET on CBS/Paramount+." We do not list a price.
 
 ## Where is the 2026 Army-Navy Game?
 
@@ -151,7 +163,7 @@ At MetLife Stadium in East Rutherford, New Jersey. Both the Army athletics annou
 
 ## Are Army-Navy Game tickets still available?
 
-Army's athletics ticket page says tickets are sold out for the 2026 game. Its face values were $155 for priority seating and $235 for club seating. Army also lists the Army-Navy Gala for Friday, Dec. 11, 2026, at Ellis Island, by request for Army A Club members. The official Army-Navy Game site says the 2027 game moved to Saturday, Dec. 4, at Lincoln Financial Field in Philadelphia.
+Army's athletics ticket page says tickets are sold out for the 2026 game. Its face values were $155 for priority seating and $235 for club seating. Army also lists the Army-Navy Gala for Friday, Dec. 11, 2026, at Ellis Island, by request for Army A Club members. The Army-Navy Game site said on Nov. 17, 2026 that Philadelphia is scheduled to host the 2027 game and will host in 2028, 2030, 2032 and 2034. The remaining years will be awarded through a national competitive bidding process beginning in January 2027. That release gives no 2027 date, so we list none.
 
 ## Who won the Army-Navy Game last year?
 
