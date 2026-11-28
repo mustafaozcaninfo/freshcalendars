@@ -1,9 +1,9 @@
 ---
 title: "Christmas Tree Lighting 2026: National Dec. 3, Rockefeller Dec. 2"
-description: "Christmas tree lighting 2026 is Dec. 3 for the National Tree and Boston Common; Rockefeller Center is reported for Dec. 2. A table covers tickets and cost."
+description: "Christmas tree lighting 2026: National Tree and Boston Common Dec. 3; Rockefeller Center Dec. 2, live on NBC at 8 p.m. ET. A table covers tickets and cost."
 type: news
 publishedAt: "2026-11-03T06:48:00-05:00"
-updatedAt: "2026-11-21T15:46:00-05:00"
+updatedAt: "2026-11-27T19:26:00-05:00"
 authors: [christina-gerland]
 category: holidays
 keywords: ["christmas tree lighting 2026", "tree lighting 2026 near me", "rockefeller tree lighting 2026 date", "boston common tree lighting 2026"]
@@ -22,11 +22,11 @@ hero:
 summary:
   - "The National Christmas Tree lighting is Thursday, Dec. 3, 2026, on the Ellipse in Washington, D.C., according to the National Park Service (NPS); the free ticket lottery closed at 3 p.m. Eastern Time (ET) on Wednesday, Nov. 4."
   - "Boston Common's tree lighting is Dec. 3, 2026, 6 p.m. to 8 p.m., and Copley Square's is Monday, Nov. 30, 5 p.m. to 6 p.m., both free, according to boston.gov."
-  - "amNY and NY1 report that the Rockefeller Center tree lights Wednesday, Dec. 2, 2026, during an NBC broadcast that amNY and TV Insider put at 7 p.m. ET."
+  - "NBCUniversal says the Rockefeller Center tree lights Wednesday, Dec. 2, 2026, during 'Christmas in Rockefeller Center', live on NBC and Peacock at 8 p.m. ET; NBC-owned stations add an hour from 7 p.m. ET, so check local listings."
   - "The Architect of the Capitol (AOC) says the U.S. Capitol Christmas Tree is lit during a ceremony Wednesday, Dec. 2, 2026, on the West Front Lawn; Chicago lit its tree Friday, Nov. 20, and The Grove in Los Angeles lit its tree Nov. 16."
 faq:
   - q: "When is the Rockefeller Center tree lighting in 2026?"
-    a: "amNY and NY1 both reported on Oct. 26, 2026 that the ceremony is on Wednesday, Dec. 2, during NBC's Christmas in Rockefeller Center. amNY and TV Insider list the broadcast at 7 p.m. ET. The official site was not readable when we checked."
+    a: "Wednesday, Dec. 2, 2026, during NBC's Christmas in Rockefeller Center, according to NBCUniversal. The two-hour special airs live at 8 p.m. ET on NBC and streams on Peacock; Telemundo airs it live at 9 p.m. ET. NBC-owned stations add a live hour from 7 p.m. ET, so check local listings. The release gives no clock time for the tree lighting itself."
   - q: "How do I get tickets to the National Christmas Tree lighting in 2026?"
     a: "Enter the free lottery on Recreation.gov. The lottery closed at 3 p.m. ET on Wednesday, Nov. 4, 2026. The National Park Service said it would notify winners on Thursday, Nov. 12, and each winner can get up to five tickets. Entry is closed."
   - q: "Is the Boston Common tree lighting free in 2026?"
@@ -72,10 +72,10 @@ sources:
     url: "https://ny1.com/nyc/all-boroughs/news/2026/10/26/rockefeller-center-2026-christmas-tree-new-york"
     publisher: "NY1"
     date: "2026-10-26"
-  - title: "2026 Holiday TV Roundup: Full Schedules for NBC, CBS, ABC, More"
-    url: "https://www.tvinsider.com/1303617/holiday-tv-specials-2026-schedule/"
-    publisher: "TV Insider"
-    date: "2026-11-13"
+  - title: "NBC's Annual 'Christmas in Rockefeller Center' Lights Up the Holiday Season on Dec. 2"
+    url: "https://www.nbcuniversal.com/article/nbcs-annual-christmas-rockefeller-center-lights-holiday-season-dec-2"
+    publisher: "NBCUniversal"
+    date: "2026-11-17"
   - title: "DCASE Kicks Off Holiday Search for Official Chicago Christmas Tree and Opens Holiday Market Applications"
     url: "https://www.chicago.gov/city/en/depts/dca/provdrs/attractions_eventsandexhibitions/news/2026/october/holiday.html"
     publisher: "City of Chicago"
@@ -116,19 +116,19 @@ assets:
       - ["Fri., Nov. 20, 6 p.m.", "Chicago Christmas tree lighting, Millennium Park; festivities began at 4 p.m., lighting at about 6:30 p.m."]
       - ["Mon., Nov. 30, 5 p.m.", "Copley Square tree lighting, 560 Boylston Street, Boston (free)"]
       - ["Wed., Dec. 2", "U.S. Capitol Christmas Tree lighting ceremony, West Front Lawn; no start time given; lit dusk to 11 p.m. nightly after"]
-      - ["Wed., Dec. 2", "Rockefeller Center tree lighting, reported by amNY and NY1; NBC broadcast at 7 p.m. ET per amNY and TV Insider"]
+      - ["Wed., Dec. 2", "Rockefeller Center tree lighting during NBC special, live 8 p.m. ET on NBC and Peacock (extra local hour from 7 p.m. ET on NBC-owned stations)"]
       - ["Thu., Dec. 3", "National Christmas Tree lighting, Ellipse, Washington, D.C.; start time not announced"]
       - ["Thu., Dec. 3, 6 p.m.", "Boston Common tree lighting, 139 Tremont Street (free), 6 p.m. to 8 p.m."]
       - ["Fill in: ________", "Philadelphia City Hall"]
       - ["Fill in: ________", "Detroit Campus Martius"]
       - ["Fill in: ________", "Seattle Westlake"]
       - ["Fill in: ________", "Atlanta Centennial Olympic Park"]
-    note: "Source: National Park Service, Architect of the Capitol (Nov. 20, 2026), City of Boston, City of Chicago, The Grove, amNY, NY1 and TV Insider. Times local; Rockefeller Center date and time are reported, not official."
+    note: "Source: National Park Service, Architect of the Capitol (Nov. 20, 2026), City of Boston, City of Chicago, The Grove, NBCUniversal (Nov. 17, 2026), amNY and NY1. Times local; check local listings for NBC-owned stations' 7 p.m. ET hour."
     description: "A one-page checklist of 2026 Christmas tree lighting dates in New York, Washington, Boston, Chicago and Los Angeles, with blank lines for cities that have not announced."
     alt: "Printable Christmas tree lightings 2026 checklist with dates for New York, Washington, Boston, Chicago and Los Angeles."
 ---
 
-**The National Christmas Tree lighting is Thursday, Dec. 3, 2026, on the Ellipse in Washington, D.C.**, according to the National Park Service (NPS), and Boston Common lights its tree the same day from 6 p.m. to 8 p.m., according to boston.gov. Rockefeller Center's lighting is reported for Wednesday, Dec. 2, by amNY and NY1.
+**The National Christmas Tree lighting is Thursday, Dec. 3, 2026, on the Ellipse in Washington, D.C.**, according to the National Park Service (NPS), and Boston Common lights its tree the same day from 6 p.m. to 8 p.m., according to boston.gov. NBCUniversal says Rockefeller Center's lighting is Wednesday, Dec. 2, in a special that airs live at 8 p.m. ET on NBC.
 
 This story puts the confirmed dates in one table, shows how to attend each in person, and lists the cities where we found no official 2026 date. For the lottery behind the Washington ticket, see our [National Christmas Tree lighting story](/news/national-christmas-tree-lighting-2026-ticket-lottery-october-28/). The rest of the season is on the [December 2026 printable calendar](/december-calendars.html).
 
@@ -136,7 +136,7 @@ This story puts the confirmed dates in one table, shows how to attend each in pe
 
 | City and tree | Date | Local time | Cost and tickets | How to see it in person | Source |
 |---|---|---|---|---|---|
-| New York, Rockefeller Center (reported) | Wed., Dec. 2 | 7 p.m. ET broadcast (reported) | Not said in our sources | Tree on display through Jan. 9, 2027, seen from the Plaza or The Rink | amNY, NY1, TV Insider |
+| New York, Rockefeller Center | Wed., Dec. 2 | 8 p.m. ET broadcast on NBC and Peacock; 7 p.m. ET on NBC-owned stations (check local listings) | Not said in our sources | Tree on display through Jan. 9, 2027, seen from the Plaza or The Rink | NBCUniversal (Nov. 17, 2026), amNY |
 | Washington, D.C., National Christmas Tree | Thu., Dec. 3 | Start time not announced | Free; no charge to enter the lottery or receive tickets | Lottery on Recreation.gov closed 3 p.m. ET Wed., Nov. 4; NPS said winners would be notified Thu., Nov. 12 | NPS (Oct. 19, 2026) |
 | Boston Common | Thu., Dec. 3 | 6 p.m. to 8 p.m. ET | Free | Free event at 139 Tremont Street | City of Boston |
 | Boston, Copley Square | Mon., Nov. 30 | 5 p.m. to 6 p.m. ET | Free | Free event at 560 Boylston Street | City of Boston |
@@ -148,9 +148,9 @@ Weekdays are our computation from the dates in each source.
 
 ## When is the Rockefeller Center Christmas tree lighting in 2026?
 
-The official Rockefeller Center site was not readable when we checked, so this date rests on two newsrooms. amNY and NY1 both reported on Oct. 26, 2026 that the lighting is on Wednesday, Dec. 2, during NBC's "Christmas in Rockefeller Center." NY1 quotes the line "The tree lighting ceremony will take place on Wednesday, Dec. 2."
+NBCUniversal says the lighting is part of "Christmas in Rockefeller Center," which "will air live on Wednesday, Dec. 2 at 8 p.m. ET on NBC" and is simulcast on Peacock. The special runs two hours, so 8 p.m. to 10 p.m. ET. Telemundo airs it live at 9 p.m. ET. NBC-owned television stations add a live hour starting at 7 p.m. ET; the release says to check local listings. It gives no clock time for the moment the tree is lit.
 
-Both say the tree is a Norway spruce from West Edmeston, New York. amNY gives its height as 76 feet. The broadcast is at 7 p.m. ET, according to amNY and TV Insider, and the tree stays on display through Jan. 9, 2027. Our [NYC holiday calendar](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/) tracks the rest of the New York season.
+Cynthia Erivo makes her debut as host. NBCUniversal lists Kelly Clarkson, Kirk Franklin, Wynonna Judd, Alanis Morissette, Brad Paisley and Alex Warren among its performers, with more acts to be announced, plus the Radio City Rockettes. The release describes the tree as a 76-foot-tall, 50-foot-wide Norway spruce from West Edmeston, N.Y. amNY and NY1 reported the same tree origin on Oct. 26, 2026, and the tree stays on display through Jan. 9, 2027. Our [NYC holiday calendar](/news/nyc-holiday-calendar-2026-rockefeller-tree-macys-parade/) tracks the rest of the New York season.
 
 ## How do you get tickets to the National Christmas Tree lighting?
 
