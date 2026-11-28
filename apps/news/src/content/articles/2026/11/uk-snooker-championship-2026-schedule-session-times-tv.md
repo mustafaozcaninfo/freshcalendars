@@ -100,7 +100,7 @@ assets:
       - ["Fri., Dec. 4", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
       - ["Sat., Dec. 5", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
       - ["Sun., Dec. 6", "1 p.m. GMT = 8 a.m. ET, 7 a.m. CT, 5 a.m. PT · 7 p.m. GMT = 2 p.m. ET, 1 p.m. CT, 11 a.m. PT · My picks: ________"]
-    note: "Source: York Barbican event page. York is on GMT; ET is 5 hours behind, CT 6 and PT 8. Round 1 is listed for Nov. 28 to Dec. 1 (checked Nov. 13, 2026); the rounds after that are not yet announced."
+    note: "Source: York Barbican event page. York is on GMT; ET is 5 hours behind, CT 6 and PT 8. Round 1 is listed for Nov. 28 to Dec. 1 (checked Nov. 27, 2026); the rounds after that are not yet announced."
     description: "A one-page UK Snooker Championship 2026 session sheet for Nov. 28 to Dec. 6 with GMT, ET, CT and PT times and a line for your picks each day."
     alt: "UK Snooker Championship 2026 session sheet with two sessions a day in four time zones and a picks line"
 draft: false
