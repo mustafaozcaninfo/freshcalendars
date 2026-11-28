@@ -53,7 +53,7 @@ internalLinks:
     label: "December 2026 printable calendar"
   - href: "/uk-holidays/"
     label: "UK holidays"
-related: [uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed, london-new-years-day-parade-2027-start-time-route-tickets]
+related: [uk-trains-christmas-2026-no-trains-december-25-26-paddington-closed, uk-rail-engineering-works-november-28-30-2026-kings-cross-paddington, london-new-years-day-parade-2027-start-time-route-tickets]
 downloads:
   - group: "London Tube Strike Dates 2026-2027 printables"
     title: "London Tube Strike Dates 2026-2027: Planner"
