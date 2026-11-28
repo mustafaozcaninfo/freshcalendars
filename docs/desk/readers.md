@@ -1,6 +1,6 @@
 # Reader signals (generated, do not edit)
 
-Built 2026-11-27T18:58 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
+Built 2026-11-28T09:14 UTC by `scripts/news-readers.mjs` from the first-party beacon (last 7 days, `traffic.md`) and Microsoft Clarity (last 24 hours, `clarity.md`). What each desk does with it: `docs/DESK.md`, "Reader data". Puzzle pages are left out of the desk lists (the puzzle desk owns them).
 
 ## Readers leave fast (search desk: UX briefs)
 
@@ -8,31 +8,31 @@ Story pages with 30+ beacon views whose readers stay under 60% of the site's ave
 
 | Story | Views | Avg. seconds (site) | Avg. scroll | Why |
 |---|---:|---:|---:|---|
-| liquor-stores-open-thanksgiving-2026-by-state | 775 | 47 (77) | 19% | low scroll |
-| tractor-supply-black-friday-2026-hours-thanksgiving-closed | 312 | 45 (77) | 36% | leave fast |
-| black-friday-2026-ad-tracker-walmart-target-best-buy | 241 | 46 (77) | 16% | leave fast, low scroll |
-| dollar-general-black-friday-2026-3-day-sale-november-26-28 | 175 | 46 (77) | 29% | leave fast |
-| kohls-black-friday-2026-dates-early-access-november-6-store-hours | 147 | 60 (77) | 19% | low scroll |
-| free-parking-holidays-2026-meters-thanksgiving-christmas-by-city | 118 | 33 (77) | 20% | leave fast |
-| dmv-holiday-closures-2026-thanksgiving-christmas-eve-by-state | 116 | 57 (77) | 20% | low scroll |
-| boxing-schedule-december-2026-fight-dates-times | 68 | 47 (77) | 13% | low scroll |
+| liquor-stores-open-thanksgiving-2026-by-state | 782 | 47 (77) | 19% | low scroll |
+| tractor-supply-black-friday-2026-hours-thanksgiving-closed | 352 | 44 (77) | 36% | leave fast |
+| black-friday-2026-ad-tracker-walmart-target-best-buy | 239 | 43 (77) | 16% | leave fast, low scroll |
+| dollar-general-black-friday-2026-3-day-sale-november-26-28 | 203 | 45 (77) | 29% | leave fast |
+| free-parking-holidays-2026-meters-thanksgiving-christmas-by-city | 125 | 30 (77) | 19% | leave fast, low scroll |
+| home-depot-black-friday-2026-sale-dates-november-5-25-store-hours | 124 | 46 (77) | 28% | leave fast |
+| boxing-schedule-december-2026-fight-dates-times | 68 | 48 (77) | 13% | low scroll |
 | is-heb-open-thanksgiving-2026-christmas-eve-hours | 67 | 57 (77) | 13% | low scroll |
-| printable-nfl-schedule-2026-2027-pdf | 66 | 43 (77) | 15% | leave fast, low scroll |
-| is-ross-open-thanksgiving-2026-burlington-black-friday-hours | 58 | 25 (77) | 12% | leave fast, low scroll |
-| royal-variety-performance-2026-date-itv-air-date | 51 | 112 (77) | 19% | low scroll |
-| when-does-advent-start-2026-november-29-advent-wreath-candles | 49 | 94 (77) | 19% | low scroll |
-| why-thanksgiving-2026-is-november-26 | 45 | 12 (77) | 1% | leave fast, low scroll |
-| five-below-black-friday-2026-doorbusters-november-27 | 44 | 38 (77) | 26% | leave fast |
-| ossaa-football-state-championships-2026-schedule | 43 | 45 (77) | 25% | leave fast |
+| is-ross-open-thanksgiving-2026-burlington-black-friday-hours | 64 | 24 (77) | 12% | leave fast, low scroll |
+| printable-nfl-schedule-2026-2027-pdf | 62 | 51 (77) | 17% | low scroll |
+| fcs-playoffs-2026-bracket-schedule-dates-championship-nashville | 56 | 45 (77) | 20% | leave fast |
+| black-friday-2026-store-hours-walmart-target-best-buy | 51 | 45 (77) | 21% | leave fast |
+| why-thanksgiving-2026-is-november-26 | 48 | 12 (77) | 1% | leave fast, low scroll |
+| five-below-black-friday-2026-doorbusters-november-27 | 45 | 41 (77) | 25% | leave fast |
+| army-navy-game-2026-date-kickoff-time-metlife-stadium-tv | 44 | 111 (77) | 14% | low scroll |
+| barnes-noble-black-friday-2026-50-percent-off-biggest-books | 43 | 24 (77) | 17% | leave fast, low scroll |
 | is-tj-maxx-open-thanksgiving-2026-marshalls-homegoods-hours | 43 | 105 (77) | 12% | low scroll |
-| army-navy-game-2026-date-kickoff-time-metlife-stadium-tv | 43 | 113 (77) | 15% | low scroll |
-| costco-holiday-hours-closures-2026-2027 | 41 | 44 (77) | 15% | leave fast, low scroll |
-| advent-calendar-2026-dates-free-printable | 39 | 91 (77) | 19% | low scroll |
-| is-meijer-open-thanksgiving-2026-black-friday-hours | 38 | 34 (77) | 11% | leave fast, low scroll |
-| printables | 38 | 17 (77) | 19% | leave fast, low scroll |
-| high-school-football-state-championships-2026-dates-by-state | 35 | 32 (77) | 21% | leave fast |
-| barnes-noble-black-friday-2026-50-percent-off-biggest-books | 35 | 25 (77) | 17% | leave fast, low scroll |
-| ollies-black-friday-2026-hours-thanksgiving-closed-daily-deals | 35 | 28 (77) | 13% | leave fast, low scroll |
+| costco-holiday-hours-closures-2026-2027 | 39 | 44 (77) | 14% | leave fast, low scroll |
+| is-meijer-open-thanksgiving-2026-black-friday-hours | 39 | 34 (77) | 10% | leave fast, low scroll |
+| printables | 39 | 18 (77) | 21% | leave fast |
+| ollies-black-friday-2026-hours-thanksgiving-closed-daily-deals | 36 | 28 (77) | 13% | leave fast, low scroll |
+| survivor-series-wargames-2026-date-start-time-houston-espn | 34 | 29 (77) | 17% | leave fast, low scroll |
+| polar-express-train-ride-2026-locations-by-state | 31 | 39 (77) | 27% | leave fast |
+| macys-black-friday-2026-store-hours-sale-dates | 31 | 69 (77) | 17% | low scroll |
+| six-flags-black-friday-2026-season-pass-sale-ends-november-30 | 31 | 61 (77) | 17% | low scroll |
 
 ## Clarity: what readers struggle with (search desk: UX briefs)
 
@@ -40,9 +40,8 @@ Pages with 10+ sessions in 24 hours and dead clicks 15%+, rage clicks 5%+ or qui
 
 | Story | Sessions | Problem |
 |---|---:|---|
-| cpkc-holiday-train-2026-schedule-stops-times | 60 | dead clicks 17% |
-| topgolf-black-friday-2026-20-percent-off-gift-cards-open-9-am | 11 | quick-back 18% |
-| mhsaa-football-finals-2026-ford-field-schedule-kickoff-times | 10 | dead clicks 20% |
+| tractor-supply-black-friday-2026-hours-thanksgiving-closed | 61 | dead clicks 16% |
+| khsaa-state-football-finals-2026-kroger-field-schedule | 30 | dead clicks 27% |
 
 ## For the manager (code, layout or ads)
 
@@ -52,12 +51,13 @@ Script errors in 30%+ of sessions come from code or ad scripts, never from a sto
 
 Slow taps (Interaction to Next Paint over 200 ms, beacon, 7 days): fix the element or the script named, then compare the share the week after.
 
-- /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/: 12 of 32 views with a tap were slow (avg. 415 ms)
-- element (not recorded), script (none over 50 ms): 33 slow taps, avg. 401 ms, input delay 40 ms
+- /news/kohls-black-friday-2026-dates-early-access-november-6-store-hours/: 12 of 38 views with a tap were slow (avg. 361 ms)
+- /news/black-friday-2026-ad-tracker-walmart-target-best-buy/: 9 of 35 views with a tap were slow (avg. 447 ms)
+- element (not recorded), script (none over 50 ms): 32 slow taps, avg. 411 ms, input delay 41 ms
 - element body, script (none over 50 ms): 29 slow taps, avg. 2,559 ms, input delay 268 ms
-- element div.article-layout, script (none over 50 ms): 18 slow taps, avg. 1,180 ms, input delay 778 ms
-- element a.pt-btn, script (none over 50 ms): 15 slow taps, avg. 3,173 ms, input delay 0 ms
-- element div.article-byline-row, script (none over 50 ms): 12 slow taps, avg. 977 ms, input delay 945 ms
+- element div.article-layout, script (none over 50 ms): 16 slow taps, avg. 1,278 ms, input delay 875 ms
+- element a.pt-btn, script (none over 50 ms): 14 slow taps, avg. 3,181 ms, input delay 0 ms
+- element summary, script (none over 50 ms): 13 slow taps, avg. 519 ms, input delay 67 ms
 
 ## Reading by category (research desk: weigh topics)
 
@@ -65,19 +65,19 @@ Beacon views of the last 7 days against the 7 before, per category, and views pe
 
 | Category | Views | Week before | Change | Stories read | Views per story | Avg. seconds |
 |---|---:|---:|---:|---:|---:|---:|
-| sports | 3,802 | 1,166 | +226% | 162 | 23 | 90 |
-| retail-dates | 3,596 | 887 | +305% | 125 | 29 | 57 |
-| holidays | 3,035 | 1,141 | +166% | 130 | 23 | 71 |
-| puzzles | 1,491 | 1,508 | -1% | 142 | 11 | 42 |
-| entertainment | 631 | 482 | +31% | 63 | 10 | 52 |
-| uk-canada | 532 | 707 | -25% | 60 | 9 | 79 |
-| sky-events | 257 | 259 | -1% | 19 | 14 | 59 |
-| calendar-guides | 213 | 338 | -37% | 39 | 5 | 48 |
-| planning | 197 | 179 | +10% | 20 | 10 | 39 |
-| school-calendars | 138 | 181 | -24% | 52 | 3 | 37 |
-| money-benefits | 97 | 75 | +29% | 28 | 3 | 64 |
-| elections | 93 | 159 | -42% | 28 | 3 | 114 |
-| gaming-tech | 80 | 121 | -34% | 20 | 4 | 28 |
-| (other) | 60 | 40 | +50% | 12 | 5 | 38 |
-| time-change | 19 | 34 | -44% | 6 | 3 | 21 |
+| sports | 4,076 | 1,205 | +238% | 162 | 25 | 91 |
+| retail-dates | 3,800 | 922 | +312% | 126 | 30 | 56 |
+| holidays | 3,089 | 1,220 | +153% | 130 | 24 | 69 |
+| puzzles | 1,540 | 1,472 | +5% | 147 | 10 | 41 |
+| entertainment | 615 | 511 | +20% | 64 | 10 | 55 |
+| uk-canada | 506 | 715 | -29% | 66 | 8 | 78 |
+| sky-events | 252 | 252 | +0% | 19 | 13 | 59 |
+| calendar-guides | 211 | 338 | -38% | 38 | 6 | 50 |
+| planning | 202 | 122 | +66% | 21 | 10 | 38 |
+| school-calendars | 136 | 173 | -21% | 51 | 3 | 37 |
+| money-benefits | 101 | 64 | +58% | 29 | 3 | 64 |
+| elections | 97 | 152 | -36% | 28 | 3 | 95 |
+| gaming-tech | 77 | 129 | -40% | 19 | 4 | 29 |
+| (other) | 55 | 48 | +15% | 11 | 5 | 42 |
+| time-change | 15 | 37 | -59% | 4 | 4 | 25 |
 

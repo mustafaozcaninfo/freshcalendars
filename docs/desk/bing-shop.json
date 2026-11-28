@@ -1,5 +1,5 @@
 {
- "generatedAt": "2026-11-27T18:58:30.246Z",
+ "generatedAt": "2026-11-28T09:14:37.274Z",
  "site": "https://shop.freshcalendars.com/",
  "crawl": [
   {
@@ -91,6 +91,24 @@
    "DnsFailures": 0,
    "InIndex": 528,
    "InLinks": 0
+  },
+  {
+   "__type": "CrawlStats:#Microsoft.Bing.Webmaster.Api",
+   "AllOtherCodes": 2,
+   "BlockedByRobotsTxt": 0,
+   "Code2xx": 553,
+   "Code301": 5,
+   "Code302": 0,
+   "Code4xx": 0,
+   "Code5xx": 0,
+   "ConnectionTimeout": 0,
+   "ContainsMalware": 0,
+   "CrawledPages": 69,
+   "CrawlErrors": 0,
+   "Date": "/Date(1795737600000)/",
+   "DnsFailures": 0,
+   "InIndex": 539,
+   "InLinks": 0
   }
  ],
  "daily": [
@@ -129,9 +147,520 @@
    "Clicks": 1,
    "Date": "/Date(1795564800000)/",
    "Impressions": 111
+  },
+  {
+   "__type": "RankAndTrafficStats:#Microsoft.Bing.Webmaster.Api",
+   "Clicks": 0,
+   "Date": "/Date(1795651200000)/",
+   "Impressions": 99
   }
  ],
  "pages": [],
- "queries": [],
+ "queries": [
+  {
+   "key": "site:shop.freshcalendars.com",
+   "clicks": 0,
+   "impressions": 10,
+   "posW": 60,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "zicoto planner 2027-2028",
+   "clicks": 3,
+   "impressions": 3,
+   "posW": 15,
+   "position": 5,
+   "ctr": 1
+  },
+  {
+   "key": "blackfridayadventcalendars",
+   "clicks": 0,
+   "impressions": 3,
+   "posW": 15,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "advent calendar 2026 black friday",
+   "clicks": 0,
+   "impressions": 3,
+   "posW": 3,
+   "position": 1,
+   "ctr": 0
+  },
+  {
+   "key": "candle craft calander",
+   "clicks": 0,
+   "impressions": 3,
+   "posW": 21,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "gen x 2027 desk calendar",
+   "clicks": 0,
+   "impressions": 3,
+   "posW": 12,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "advent calendar black friday sale",
+   "clicks": 0,
+   "impressions": 3,
+   "posW": 24,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "best budget planner for each month with pockets to write in paper",
+   "clicks": 1,
+   "impressions": 2,
+   "posW": 6,
+   "position": 3,
+   "ctr": 0.5
+  },
+  {
+   "key": "https://shop.freshcalendars.com/2027-wall-calendars-with-holidays",
+   "clicks": 1,
+   "impressions": 2,
+   "posW": 4,
+   "position": 2,
+   "ctr": 0.5
+  },
+  {
+   "key": "2027 teacher planner: weekly & monthly lesson plan book for teachers, january – december 2027 | class roster, grade book, attendance & parent... what's inside",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 8,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "empty advent calender to fill",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 20,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "empty advent calendars to fill",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 20,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "adventskalender 2026 black friday",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 12,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "vca candle advent calendar",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 6,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "blue gottage nativity advent reviews",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 10,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "5-year wirebound planner 2027–2031",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 4,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "daily planner book for teacher",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 16,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "chapstick advent calendar",
+   "clicks": 0,
+   "impressions": 2,
+   "posW": 18,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "advent calendars gifts black friday",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 1
+  },
+  {
+   "key": "oxford weekly planner",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 1
+  },
+  {
+   "key": "2027 wall calendars with holidays",
+   "clicks": 1,
+   "impressions": 1,
+   "posW": 3,
+   "position": 3,
+   "ctr": 1
+  },
+  {
+   "key": "average cost of budget planner book -filetype:pdf -site:reddit.com -site:quora.com -site:facebook.com -site:youtube.com -site:instagram.com -site:wikipedia.org",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 8,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "student planner green",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "cost to fill diy advent calendar budget",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 4,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "black friday christmas advent calendars",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "2027 calendar year starts friday january 1",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 0
+  },
+  {
+   "key": "oxford one line a day 5 year journal review size pages",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 4,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "zicoto monthly planner 2027-2028",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 6,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "advent calendar windows traditional",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 8,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "black friday adventkalender 2026",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "forvencer lined spiral journal notebook spiral notebook",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "hard back holiday chart 2027",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 3,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "christmas advent calendar us black friday",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 0
+  },
+  {
+   "key": "how do advent calendars keep the chocolate fresh",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 4,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "how many months does budget planner cover -filetype:pdf -site:reddit.com -site:quora.com -site:facebook.com -site:youtube.com -site:instagram.com -site:wikipedia.org",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "popular teacher planner brands and prices 2026",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 0
+  },
+  {
+   "key": "national geographic kids science advent calendar",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "+avent calendar with art supplies paint pans, journals ,brushes to paint with",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "best budget planner for each month with pockets to write in paper pockets focus and no apps",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "bill planner record book top selling",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "black friday 2026 advent calendar",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 0
+  },
+  {
+   "key": "demensions of a standard advent calendar",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 8,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "black friday bargaain advent calendar",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 3,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "ke calenbo",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 6,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "best budget book organizers for home",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  },
+  {
+   "key": "best budget journaling recommendations",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 9,
+   "position": 9,
+   "ctr": 0
+  },
+  {
+   "key": "\"ban this book\" \"fourteen books\" page",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 4,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "show me a candle calendar",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "magnetic nativity advent calendar add piece each day buy canada etsy in stock",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "black friday wine advent calendar",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 8,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "best paper weight sketchbook for glue photos -filetype:pdf -site:reddit.com -site:quora.com -site:facebook.com -site:youtube.com -site:instagram.com -site:wikipedia.org",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "wanderings standard travellers notebook",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 8,
+   "position": 8,
+   "ctr": 0
+  },
+  {
+   "key": "black friday advent call",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 4,
+   "position": 4,
+   "ctr": 0
+  },
+  {
+   "key": "cheap blackfriday advent calendar",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 3,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "omg facts 2027 boxed calendar",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 10,
+   "position": 10,
+   "ctr": 0
+  },
+  {
+   "key": "early wall calendar with holiday 2027",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 0
+  },
+  {
+   "key": "black friday is when advent calendar",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 0
+  },
+  {
+   "key": "black friday 2026 advent calanders",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 1,
+   "position": 1,
+   "ctr": 0
+  },
+  {
+   "key": "black friday advent calander deals",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 6,
+   "position": 6,
+   "ctr": 0
+  },
+  {
+   "key": "oxfam advent calendar card paper windows what behind",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 3,
+   "position": 3,
+   "ctr": 0
+  },
+  {
+   "key": "best budget planners 2025",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 5,
+   "position": 5,
+   "ctr": 0
+  },
+  {
+   "key": "daily advent box or bag",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 2,
+   "position": 2,
+   "ctr": 0
+  },
+  {
+   "key": "pouch advent calendar fill your own",
+   "clicks": 0,
+   "impressions": 1,
+   "posW": 7,
+   "position": 7,
+   "ctr": 0
+  }
+ ],
  "failed": []
 }
